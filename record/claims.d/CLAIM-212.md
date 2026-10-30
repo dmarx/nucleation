@@ -188,3 +188,12 @@ garbling never helps a decision-maker free to choose any rule. Both hold
 on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
 general converse, which stays Proposed, is not used. Quotations of
 [THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
+
+## Note of 2026-10-30: what holds it back
+
+The result its defeat condition names is missing: no receivers have been
+given a report task and a re-performance task on the same renderings, and
+the line's central cases are not classified as reports or re-performances.
+[CLAIM-461](CLAIM-461.md)'s objection, that compensation also serves report fidelity, is
+unanswered: the history note of 2026-10-27 names it, but the sentence it
+targets under "What it does not say" is unchanged.

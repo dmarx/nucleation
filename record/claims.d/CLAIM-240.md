@@ -3,8 +3,8 @@ number: 240
 status: Proposed
 formerly:
 - CLAIM-tmpnttsk
-title: 'A holistic fidelity judgement is fidelity under the judges'' default task, a weighting of the profile''s components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test'
-version: 2
+title: 'A holistic fidelity judgement is fidelity under the judges'' default task, a weighting of the profile''s components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test, and across populations with unequal access to the source must fit the weighting only on the components each can perceive'
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -12,6 +12,21 @@ history:
     Note of 2026-10-27 added: the limit recorded in the note of
     2026-10-10, access and not weighting, is filed as the objection
     CLAIM-458. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Revised to concede CLAIM-458 (ADR-059), on its promotion at the
+    seventeenth status review, at the status review's ruling (the owner
+    delegated these rulings): the limit recorded in the note of
+    2026-10-10, that across populations with unequal access to the
+    source part of a split is access and not weighting, is now in the
+    title. Version 2's title read: 'A holistic fidelity judgement is
+    fidelity under the judges' default task, a weighting of the
+    profile's components that can be estimated on some renderings and
+    tested on others, so it is well defined and consistent with
+    task-relativity, and a defeat condition that uses it must name the
+    population and fix the weighting before the test'. Status
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,7 +62,7 @@ illustrated_by:
 <!-- inactive-ok-file: CLAIM-244 — Proposed; the objection this entry answers, left open until the owner decides on the revised theses -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-204 — Proposed; the record's revised theses of 2026-10-10, open -->
 
-# CLAIM-240: A holistic fidelity judgement is fidelity under the judges' default task, a weighting of the profile's components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test
+# CLAIM-240: A holistic fidelity judgement is fidelity under the judges' default task, a weighting of the profile's components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test, and across populations with unequal access to the source must fit the weighting only on the components each can perceive
 
 ## The claim
 
@@ -153,3 +168,10 @@ between populations with unequal access is access and not weighting, is
 filed as [CLAIM-458](CLAIM-458.md), a counter, Proposed. A test of this claim across
 such populations meets it by fitting weights only on the components both
 can perceive. The claim is unchanged.
+
+## Note of 2026-10-30: what holds it back
+
+The result its own text says decides it is missing: no weighting of the
+profile's components has been fitted on one set of renderings and judges
+and tested on another set from the same population against the best single
+component. [CASE-067](../cases.d/CASE-067.md) is qualitative.

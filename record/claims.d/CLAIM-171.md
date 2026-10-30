@@ -72,3 +72,12 @@ bears in this claim's direction on the measurement side: "for historical
 sources there is no source audience at all". [QUESTION-073](../questions.d/QUESTION-073.md) holds the
 reception-side readings this claim says the record lacks, Austin on uptake
 and Goffman on keying, both unread.
+
+## Note of 2026-10-30: what holds it back
+
+Unanswered: whether a writer's projected receiver can be identified
+other than by a reading. [CLAIM-151](CLAIM-151.md) version 2's role-based constituents are
+the one filed candidate, and no entry argues that they fix the projected
+receiver rather than the addressee position ([QUESTION-031](../questions.d/QUESTION-031.md)). The
+reception-side readings it needs ([QUESTION-073](../questions.d/QUESTION-073.md): Austin on uptake, Goffman
+on keying) are unread.

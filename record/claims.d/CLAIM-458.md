@@ -1,10 +1,25 @@
 ---
 number: 458
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp4pmcv
-title: 'A reception split between populations with unequal access to the source is partly a difference of access and not of weighting, so a default task''s weights can be estimated only on the components every population compared can perceive'
-version: 1
+title: 'A reception split between populations with unequal access to the source can be partly a difference of access and not of weighting, so a comparison of their default tasks can fit weights only on the components every population compared can perceive'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted at the seventeenth status review (ADR-057,
+    ADR-059), at the status review's ruling (the owner delegated these
+    rulings). The title's 'is partly' and unrestricted 'can be estimated
+    only' said more than the body, which says a fitted difference 'can
+    be' one of access, restricts the point to comparisons across
+    populations, and grants CLAIM-240 within one; both wide forms get
+    this note only (ADR-047, kind 3). Version 1's title read: 'A
+    reception split between populations with unequal access to the
+    source is partly a difference of access and not of weighting, so a
+    default task's weights can be estimated only on the components
+    every population compared can perceive'.
 role: counter
 warrant: interpretive
 tags:
@@ -30,7 +45,7 @@ summary: >-
   deny it.
 ---
 
-# CLAIM-458: A reception split between populations with unequal access to the source is partly a difference of access and not of weighting, so a default task's weights can be estimated only on the components every population compared can perceive
+# CLAIM-458: A reception split between populations with unequal access to the source can be partly a difference of access and not of weighting, so a comparison of their default tasks can fit weights only on the components every population compared can perceive
 
 ## The claim
 

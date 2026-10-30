@@ -65,3 +65,15 @@ one. Their formulation also sharpens this claim's defeat condition. Once
 meanings are distributions and distortion is KL divergence, the bottleneck
 *is* rate–distortion with that distortion. A context-indexed bottleneck
 therefore adds something only if the indexing changes the distortion.
+
+## Note of 2026-10-30: what holds it back
+
+Read literally, the defeat condition is met by an identity. When the
+context C is sampled independently of the source, Σ_C w_C I(V;Y_C) =
+I(V; C, Y_C), so the context-indexed objective is an ordinary bottleneck
+with relevance variable (C, Y_C). By this entry's own note on Zaslavsky et
+al., that makes it rate–distortion with the fixed distortion
+Σ_C w_C KL(p(y_C|u) ‖ m̂_C). The identity was checked at the status
+review (p17/claim092_identity.py). Before a ruling, the condition needs
+restating against a named rival that indexing could beat, such as the
+joint objective I(V; Y_1,…,Y_n), which the indexing avoids presupposing.

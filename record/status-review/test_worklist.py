@@ -88,7 +88,9 @@ def test_load_bearing_lists_proposed_by_reach(tmp_path):
     # a Superseded TERM is a premise the record no longer holds
     assert by["CLAIM-002"]["reach"] == 3 and by["CLAIM-002"]["open_premises"] == ["TERM-001"]
     assert by["CLAIM-002"]["live_objections"] == []
-    assert by["CLAIM-003"]["open_premises"] == ["CLAIM-002"] and by["CLAIM-003"]["live_objections"] == ["CLAIM-005"]
+    # CLAIM-006 objects to CLAIM-003 with no converse on it, and its concession is unwritten
+    assert by["CLAIM-003"]["open_premises"] == ["CLAIM-002"]
+    assert by["CLAIM-003"]["live_objections"] == ["CLAIM-005", "CLAIM-006"]
 
 
 def test_inversions_find_active_resting_on_proposed(tmp_path):
@@ -195,3 +197,25 @@ def test_a_blocker_note_is_stale_when_a_premise_it_names_has_changed_since(tmp_p
 def test_a_stale_converse_is_an_inversion_in_waiting(tmp_path):
     # pass 8: the bot adds missing converses and never removes stale ones
     assert record(tmp_path).converse_inversions() == [("THEORY-005", "CLAIM-008")]
+
+
+def test_an_objection_whose_target_lacks_the_converse_still_stands(tmp_path):
+    # the repair bot does not write `objected_by` for every `objects_to`, so the worklist read
+    # CLAIM-212 as unblocked while CLAIM-461 objected to it (pass 17)
+    r = record(tmp_path)
+    r = Record(r.docs | {"CLAIM-019": {"status": "Proposed", "role": "counter", "objects_to": ["CLAIM-015"]}}, r.bodies)
+    assert r.live_objections("CLAIM-015") == ["CLAIM-019"]
+    assert "CLAIM-015" not in r.unblocked() and "CLAIM-019" in r.unblocked()
+
+
+def test_a_claim_argued_only_by_an_unsound_argument_is_not_unblocked(tmp_path):
+    # CLAIM-058 has no premise of its own; its route is an ARG whose premise is Proposed (pass 17)
+    r = record(tmp_path)
+    claim = {"CLAIM-020": {"status": "Proposed", "role": "thesis"}}
+    unsound = Record(r.docs | claim | {"ARG-004": {"status": "Active", "rests_on": ["CLAIM-015"],
+                                                   "concludes": ["CLAIM-020"]}}, r.bodies)
+    assert "CLAIM-020" not in unsound.unblocked()
+    assert unsound.sole_blockers()[0] == ("CLAIM-015", ["CLAIM-014", "CLAIM-016", "CLAIM-020"])
+    sound = Record(r.docs | claim | {"ARG-004": {"status": "Active", "rests_on": ["CLAIM-001"],
+                                                 "concludes": ["CLAIM-020"]}}, r.bodies)
+    assert "CLAIM-020" in sound.unblocked()

@@ -1,10 +1,10 @@
 ---
 number: 143
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpe2csg
-title: 'Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated'
-version: 2
+title: 'Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only relative to a specified class of admissible correspondences between their observations, independently validated and not admitted because they remove the disagreement'
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -16,6 +16,24 @@ history:
     validated independently of the fidelity it is used to measure
     (QUESTION-005 answered negatively)." Title and first disjunct
     unchanged. Status unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Narrowed, CLAIM-004 dropped from rests_on, and promoted at the
+    seventeenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings). The singular 'only after the
+    correspondence ... is fixed' was too strong: a disagreement can
+    survive every member of an admissible class with no one member
+    fixed (promotion audit batch 035, carried into CLAIM-265 version
+    2); a mis-statement, so this note only (ADR-047, kind 3). Version
+    2's title read: 'Local descriptions that disagree are not thereby
+    incompatible: whether there is an obstruction can be assessed only
+    after the correspondence between their observations is fixed and
+    independently validated'. CLAIM-004 is cited as the origin of the
+    first two classes, which CLAIM-265 supplies; the body citation
+    stays. CLAIM-011, CLAIM-035 and CLAIM-265 are Active, CLAIM-238's
+    concession is written (version 2), and nothing meets the defeat
+    condition.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,7 +53,6 @@ date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
 - CLAIM-011
-- CLAIM-004
 - CLAIM-035
 - CLAIM-265
 grounds:
@@ -65,7 +82,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-004 CLAIM-037 CLAIM-044 CLAIM-005 CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier use of the same analogy, which this claim does not revive -->
 
-# CLAIM-143: Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated
+# CLAIM-143: Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only relative to a specified class of admissible correspondences between their observations, independently validated and not admitted because they remove the disagreement
 
 ## The claim
 

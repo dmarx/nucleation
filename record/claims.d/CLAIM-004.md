@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp0talu
 title: 'Not every difference between translations is a difference of frame: some change the act being framed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    CLAIM-143 and CLAIM-151 leave supports at the seventeenth status
+    review (ADR-057): each cites this claim's distinction as the origin
+    of its own and does not need its missing criterion. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,14 +38,12 @@ summary: >-
   (§4) names structural reorganization but gives no criterion.
 supports:
 - CLAIM-129
-- CLAIM-143
-- CLAIM-151
 - CLAIM-224
 ---
 <!-- ref::uses-file: TERM-030 — the passive/active distinction is between a change in the configuration of the communicative situation and a change in the act configured, which is TERM-030's sense; until 2026-10-27 it used TERM-016, now Superseded -->
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-006 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-143 CLAIM-151 CLAIM-129 — Proposed; later re-derivations of this distinction, cited as open -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-129 — Proposed; later re-derivations of this distinction, cited as open -->
 
 # CLAIM-004: Not every difference between translations is a difference of frame: some change the act being framed
 
@@ -121,3 +127,13 @@ The fifth review (2026-10-28) found the blocker still holds, with one
 refinement: [CASE-012](../cases.d/CASE-012.md) is fictional, and its footing labels changed between
 passes ([CLAIM-227](CLAIM-227.md)), so a first pair should be a documented one judged by
 people who did not write it.
+
+## Note of 2026-10-30: what holds it back
+
+The criterion is still missing. [CASE-056](../cases.d/CASE-056.md) supplies the documented first
+pair the fifth review asked for: Phillips's handshake, which Nida judges
+keeps the greeting, against a literal "kiss" the UBS handbooks judge
+amorous where kissing is. What would promote it is the criterion stated
+so that it sorts more pairs than this one, and shows the classes
+disjoint even though [TERM-030](../terms.d/TERM-030.md) counts norms and audience in the
+configuration and [CLAIM-151](CLAIM-151.md) counts them among the act's constituents.

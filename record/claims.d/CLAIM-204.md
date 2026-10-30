@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3wo5j
 title: 'A communicative kind''s identity is grounded in its relational organization, for which competent participants'' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -17,6 +17,17 @@ history:
     of three findings, in a design with named receivers, stated tasks,
     an interlingual arm and margins fixed in advance (CASE-055).
     Same-kind verdicts are predicted as well by.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Concedes CLAIM-216, at the status review's ruling (the owner delegated
+    these rulings; ADR-057, ADR-059). Its defeat condition tests the
+    clauses only on same-kind verdicts, so a finding under it defeats this
+    conjunction and not the clauses stated apart: the ontological clause
+    is CLAIM-215, statistical recovery CLAIM-209, receivers' recovery
+    CLAIM-220. This entry is the integrative statement of those theses,
+    which carry their own defeat conditions. Title, defeater, status and
+    warrant are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -161,3 +172,7 @@ extension testable; it does not make its ontology so.
 - It does not say the analyst's certification is unnecessary. A distinction
   receivers recover and no admissible probe identifies survives without
   evidence that it did ([CLAIM-223](CLAIM-223.md)).
+- It does not carry the defeat of its clauses. A finding under its
+  condition defeats the conjunction; the ontological clause ([CLAIM-215](CLAIM-215.md)),
+  statistical recovery ([CLAIM-209](CLAIM-209.md)) and receivers' recovery ([CLAIM-220](CLAIM-220.md))
+  are stated apart, each with its own condition, as [CLAIM-216](CLAIM-216.md) asks.

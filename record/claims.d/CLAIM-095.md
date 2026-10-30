@@ -51,3 +51,13 @@ rules**"; A52 did not put them there. Two substantive points went in the same
 sweep without being hedges ([CLAIM-085](CLAIM-085.md)). Whether the rule holds is the question its
 defeat condition asks: some limits are facts about the evidence, not about the
 formalization.
+
+## Note of 2026-10-30: what holds it back
+
+[CLAIM-085](CLAIM-085.md), Active, states the limit the defeat condition names as its
+example: a framing effect in one model does not generalize to human
+interpreters. [CLAIM-238](CLAIM-238.md) and [CASE-029](../cases.d/CASE-029.md) show that the sweep this rule drove
+removed predefined decision rules that were not hedges. It needs a ruling
+on whether a precise scope statement counts as a definition, which leaves
+the claim standing, or as an explicit statement of limits, which meets
+the condition.

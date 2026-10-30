@@ -83,3 +83,13 @@ saying.
 posterior and needs no correspondence of alternative sets. Two consequences:
 a rendering with the source's literal content can fail it, and a target
 language may admit no rendering that passes.
+
+## Note of 2026-10-30: what holds it back
+
+It offers an answer to [QUESTION-021](../questions.d/QUESTION-021.md), which is Open with two rival offered
+answers, [CLAIM-137](CLAIM-137.md) and [CLAIM-151](CLAIM-151.md), both Proposed. Promoting it would answer
+that question, which needs a showing that the distribution criterion
+predicts faithfulness judgements better than one act or a family of
+realizations does. The comparison in its defeat condition, renderings
+whose inferred-situation posteriors match the source's against renderings
+whose posteriors differ, has not been run.

@@ -132,3 +132,10 @@ and leaves open the directed case, for which [THEORY-009](../theory.d/THEORY-009
 [CLAIM-193](CLAIM-193.md) is the linear-case form of this thesis's first clause: a linear
 probe family separates only what the normalized kernel separates. The two
 are now related by `complements`.
+
+## Note of 2026-10-30: what holds it back
+
+No signature, family of decisions or class of transformations is
+stated. [QUESTION-052](../questions.d/QUESTION-052.md)'s eigenspace candidate is unproved for the directed
+case, and no held-out test across realizations, media or languages has
+been run.

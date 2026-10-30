@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpykenz
 title: 'Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    LIT-344 leaves grounds, at the status review's ruling (the owner
+    delegated these rulings). The book is Unavailable and unread, and the
+    claim cites it in its body as what the exchange names, not as evidence
+    (ADR-058, ADR-057). The claim is unchanged; it stays Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -19,15 +27,12 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-042
-grounds:
-- LIT-344
 summary: >-
   A75 §7, recovered: formal concept analysis as the direct formalization
   of the owner's "objects are intersections of regions". Absent from
   A81, C6 and the manuscript without critique. The record holds Ganter
   and Wille unread.
 ---
-<!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-267 QUESTION-025 — Proposed or open; cited as a qualification and an open question, not as settled -->
 <!-- inactive-ok-file: LIT-344 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
@@ -88,3 +93,12 @@ in or out. Whether distributional statistics with that structure still give
 linear attribute directions is open ([QUESTION-025](../questions.d/QUESTION-025.md)). Until it is
 answered, the embedding results neither support nor tell against this
 claim.
+
+## Note of 2026-10-30: what holds it back
+
+No judged communicative categories have been tested for closure under
+formal concept analysis's attribute–object correspondence, or for
+lattice-predicted confusions against a flat feature list, which is what
+the defeat condition asks. The claim's own source disclaims applying the
+lattice to human concepts, and [QUESTION-025](../questions.d/QUESTION-025.md), whether constraint-structured
+attributes still give linear directions, is open.

@@ -121,3 +121,10 @@ functionalist would also pass.
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
 The interlocutor's reading of 2026-10-12 favours "making this the principal empirical thesis, with one qualification": the rival set should include a strong contextual baseline. Filed as the counter [CLAIM-205](CLAIM-205.md), with the test it calls distinctive, prediction under an unobserved composition, as [QUESTION-074](../questions.d/QUESTION-074.md). Whether this entry becomes the principal thesis is still among the owner's decisions on PR [#121](https://github.com/dmarx/nucleation/issues/121).
+
+## Note of 2026-10-30: what holds it back
+
+The discriminating study ([CASE-055](../cases.d/CASE-055.md)) has not been run and its margin is
+not fixed. The rival-set objection is unanswered: [CLAIM-205](CLAIM-205.md) undercuts
+[ARG-031](../arguments.d/ARG-031.md), and no strong contextual baseline has been specified against
+which the thesis is restated.

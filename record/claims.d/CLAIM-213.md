@@ -48,3 +48,11 @@ Its middle position: "a proposed relational kind is a hypothesis about invarianc
 ## What it does not say
 
 It does not establish realism, and it does not say every invariant that extrapolates is a kind.
+
+## Note of 2026-10-30: what holds it back
+
+The result its defeat condition names is missing: no kind identified by
+invariance under its constructing probes has been tested against an
+observational partition on held-out probe families, populations or
+environments. So whether the invariance adds predictive content, which is
+the empirical content the claim says realism gains, is untested.

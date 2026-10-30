@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpwi9o5
 title: 'Intending to perform an act, performing it and being recognized as having performed it are distinct, coupled variables: intended meaning is fixed at production, the act partly by roles, standing and norms, and recognition by uptake, so competent uptake is constitutive for some acts, evidential for others and irrelevant to the existence of still others'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    CLAIM-160 and CLAIM-151 move from complements to rests_on at the
+    status review (ADR-057): the title asserts each ("intended meaning is
+    fixed at production", "the act partly by roles, standing and norms"),
+    so they do a premise's work. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -18,9 +26,10 @@ tags:
 - pragmatics
 date: '2026-10-12'
 line: pragmatic-transport
-complements:
+rests_on:
 - CLAIM-160
 - CLAIM-151
+complements:
 - CLAIM-275
 summary: >-
   From the interlocutor's reading of PR [#121](https://github.com/dmarx/nucleation/issues/121) and its reconciliation,
@@ -50,3 +59,9 @@ It partly answers [QUESTION-073](../questions.d/QUESTION-073.md): teasing and re
 ## What it does not say
 
 It does not decide which variable [QUESTION-029](../questions.d/QUESTION-029.md) asks about, so it leaves open whether [CLAIM-160](CLAIM-160.md) answers that question.
+
+## Note of 2026-10-30: what holds it back
+
+Two of its three clauses are premises the record does not hold: intended
+meaning fixed at production is [CLAIM-160](CLAIM-160.md), and the act partly constituted by
+roles, standing and norms is [CLAIM-151](CLAIM-151.md), both Proposed.
