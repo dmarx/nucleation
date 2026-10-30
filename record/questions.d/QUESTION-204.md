@@ -153,22 +153,22 @@ Two limits keep the question Open.
 
 The question is unchanged and stays Open.
 
-## Note of 2026-10-30: THEORY-787 rejected, and the record's own answer
+## Note of 2026-10-30: [THEORY-787](../theory.d/THEORY-787.md) rejected, and the record's own answer
 
-THEORY-787, the account this question was asked of, is Rejected on
+[THEORY-787](../theory.d/THEORY-787.md), the account this question was asked of, is Rejected on
 2026-10-30 at the owner's direction, by its own refutation condition: the
-first half of this question is answered no (THEORY-1167). The record now
-answers in its own voice. CLAIM-tmpxk5cy (Proposed, interpretive) holds
+first half of this question is answered no ([THEORY-1167](../theory.d/THEORY-1167.md)). The record now
+answers in its own voice. [CLAIM-tmpxk5cy](../claims.d/CLAIM-tmpxk5cy.md) (Proposed, interpretive) holds
 that a system's causes are found at the coarsest description whose
-interventions are unambiguous. ARG-tmp2wo7e sets out the inference from
-THEORY-1167 and THEORY-1169 to it. On the second half, that claim takes
+interventions are unambiguous. [ARG-tmp2wo7e](../arguments.d/ARG-tmp2wo7e.md) sets out the inference from
+[THEORY-1167](../theory.d/THEORY-1167.md) and [THEORY-1169](../theory.d/THEORY-1169.md) to it. On the second half, that claim takes
 the common-distribution ties and causal feature learning's partitions to
-be the same level, which THEORY-1169 shows. It takes Hoel's
+be the same level, which [THEORY-1169](../theory.d/THEORY-1169.md) shows. It takes Hoel's
 uniform-per-level EI to fail the test, which Eberhardt and Lee's (13) and
 (14) show.
 
-The temporal and spatio-temporal macros of LIT-1038, which THEORY-1167
-does not reach, are split off as QUESTION-tmpzfd02. What stays open here
+The temporal and spatio-temporal macros of [LIT-1038](../literature.d/LIT-1038.md), which [THEORY-1167](../theory.d/THEORY-1167.md)
+does not reach, are split off as [QUESTION-tmpzfd02](QUESTION-tmpzfd02.md). What stays open here
 is whether a graded criterion can rank lossy coarse-grainings without
 bringing a distribution back. Whether that remainder leaves this question
 Open, or makes it Answered with that part split off, is left to the
