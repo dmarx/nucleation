@@ -399,10 +399,10 @@ readings.
 
 ## Note of 2026-10-30: filed with its concessions
 
-CLAIM-411 has been written into this claim since filing. The defeated_if
+[CLAIM-411](CLAIM-411.md) has been written into this claim since filing. The defeated_if
 says the claim is "Not defeated by unconscious interpretation as such", and
 part 3 of the body says "Not every interpretation qualifies". The objection
 is conceded: interpretation alone does not establish experience, and the
 claim owes the further organizational condition, which it names as
 perspectival organization and has not yet stated in a form that meets
-CLAIM-411's defeater.
+[CLAIM-411](CLAIM-411.md)'s defeater.

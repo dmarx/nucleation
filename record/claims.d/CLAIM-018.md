@@ -45,14 +45,14 @@ support viable activity."
 
 "Institutions are not organisms, and regulatory failure is not literally
 disease." The audit's verdict on Canguilhem: an "illuminating philosophical
-analogue, not a co-foundation". It cites Canguilhem (LIT-817), and
+analogue, not a co-foundation". It cites Canguilhem ([LIT-817](../literature.d/LIT-817.md)), and
 the record holds no reading of the book, so the citation takes no edge.
 
 ## Note of 2026-10-30: what holds it back
 
-The record holds no reading of Canguilhem: LIT-817 is Unavailable and no
+The record holds no reading of Canguilhem: [LIT-817](../literature.d/LIT-817.md) is Unavailable and no
 NOTE reads it, and the defeat condition is itself a reading of the book.
-NOTE-719 reports Di Paolo's paraphrase ("After Canguilhem and Goldstein, a
+[NOTE-719](../notes.d/NOTE-719.md) reports Di Paolo's paraphrase ("After Canguilhem and Goldstein, a
 successful cure may well re-define rather than simply restore the
 organism's own normativity"), which is an attribution at second hand, not a
 reading. The claim waits on a NOTE that reads the book.

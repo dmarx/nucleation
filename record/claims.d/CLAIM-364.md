@@ -181,10 +181,10 @@ longer objects to [CLAIM-362](CLAIM-362.md), which it never said fails.
 
 ## Note of 2026-10-30: what holds it back
 
-The title's "part only" is a universal its ground, THEORY-1118, does not
+The title's "part only" is a universal its ground, [THEORY-1118](../theory.d/THEORY-1118.md), does not
 carry: the manipulation argument shows only that installed structure can
 meet a present-structure condition, and the body's tests are A45's list,
 not a proof that no other mark exists. A narrowing to "can coordinate" and
 "need not part except" was drafted in the nineteenth status review, but
-promoting it would reject ARG-030 on the authenticity line, set aside on
+promoting it would reject [ARG-030](../arguments.d/ARG-030.md) on the authenticity line, set aside on
 2026-10-05, whose reopening is the owner's call.

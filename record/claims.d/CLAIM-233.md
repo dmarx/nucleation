@@ -91,10 +91,10 @@ No rival account the record holds says that fidelity judgements follow
 embedding or surface similarity. [CLAIM-023](CLAIM-023.md) says the contribution is "not that
 translation is pragmatic or that speech acts change contexts, but a specified,
 testable account of which communicative distinctions a translation
-preserves". It names Gutt (LIT-784, unread), and it records that the
+preserves". It names Gutt ([LIT-784](../literature.d/LIT-784.md), unread), and it records that the
 translation-studies works the exchange recommended (Nida, House, Reiss and
 Vermeer, Nord) are absent from the manuscript and from the record. One is
-held through quotation: Nida's principle, as CASE-056 records it, is that "the
+held through quotation: Nida's principle, as [CASE-056](../cases.d/CASE-056.md) records it, is that "the
 relationship between receptor and message should be substantially the same as
 that which existed between the original receptors and the message". That puts
 fidelity in the effect on the receiver, not in the text, so a
@@ -102,7 +102,7 @@ functional-equivalence account predicts that ratings of stance and footing
 beat embedding similarity on renderings built to dissociate the two. A pass is
 what it predicts, and the test cannot tell the thesis from the position
 [CLAIM-023](CLAIM-023.md) disclaims as not new. Whether Gutt's interpretive resemblance
-predicts the same is CLAIM-tmphcevw's question, which waits on a reading of Gutt.
+predicts the same is [CLAIM-tmphcevw](CLAIM-tmphcevw.md)'s question, which waits on a reading of Gutt.
 
 The same holds for the rival [CLAIM-115](CLAIM-115.md) itself names. The manuscript's
 Abstract, as [QUESTION-021](../questions.d/QUESTION-021.md) quotes it, sets the account against "a privileged
@@ -159,11 +159,11 @@ unchanged.
 
 ## Note of 2026-10-30: narrowed to the rivals the record holds
 
-The nineteenth status review narrowed the title (ADR-057). Version 2 said
+The nineteenth status review narrowed the title ([ADR-057](../decisions.d/ADR-057.md)). Version 2 said
 "every rival account the record names (functional equivalence, Gutt's
 interpretive resemblance, speech-act pragmatics)" predicts a pass. Gutt is
-named and unread (LIT-784, Unavailable), so what his account predicts moves to
-CLAIM-tmphcevw, Proposed. Functional equivalence stays, held through Nida's
-principle as CASE-056 quotes it, and speech-act pragmatics stays as the
-proposition-with-force rival above. The objection to ARG-026 needs one rival
+named and unread ([LIT-784](../literature.d/LIT-784.md), Unavailable), so what his account predicts moves to
+[CLAIM-tmphcevw](CLAIM-tmphcevw.md), Proposed. Functional equivalence stays, held through Nida's
+principle as [CASE-056](../cases.d/CASE-056.md) quotes it, and speech-act pragmatics stays as the
+proposition-with-force rival above. The objection to [ARG-026](../arguments.d/ARG-026.md) needs one rival
 that passes the test, and two remain.

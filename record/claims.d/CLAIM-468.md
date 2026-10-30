@@ -83,7 +83,7 @@ and holds even of motivational valence.
 
 ## Note of 2026-10-30: what holds it back
 
-Its positive half rests on Carver 2003 (LIT-1445), which is unread; the
+Its positive half rests on Carver 2003 ([LIT-1445](../literature.d/LIT-1445.md)), which is unread; the
 claim says that is why it is Proposed. It also has no defeated_if, which
 it needs before a ruling: for the negative half, a reading of Hesp et al.
 on which a fall in γ is not a weaker hold of the preference ordering; for
