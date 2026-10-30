@@ -123,16 +123,16 @@ The authors call this motivated use of affective information.
 
 ## Connections
 
-It sets the Carver line (coasting; cited for Carver 2003, LIT-1445, which
+It sets the Carver line (coasting; cited for Carver 2003, [LIT-1445](../literature.d/LIT-1445.md), which
 the record has not read) against the affect-as-information line (Clore et
 al. 2001; Fishbach & Labroo 2007), and reconciles them with Kruglanski's
 goal-systems theory. Its moderator is the same one Thürmer, Scheier and
-Carver (LIT-tmpz4ww9, read the same day) take from Carver 2003 and
+Carver ([LIT-tmpz4ww9](../literature.d/LIT-tmpz4ww9.md), read the same day) take from Carver 2003 and
 Gollwitzer and Rohloff: coasting needs another goal to shift to.
 
 ## Bearing on the record
 
-- **CLAIM-468: partly, and qualifies it.** The objection's positive half
+- **[CLAIM-468](../claims.d/CLAIM-468.md): partly, and qualifies it.** The objection's positive half
   says positive affect "is reported to lower a goal's priority". This
   paper finds that it does only when competing goals are salient, and
   that with none it raises the goal's activation and the intention to
@@ -143,10 +143,10 @@ Gollwitzer and Rohloff: coasting needs another goal to shift to.
   goals. Two limits: the affect was incidental (pictures, not progress on
   the goal), so it is not goal-conduciveness valence about that goal; and
   activation is a weaker proxy for priority than effort or performance.
-- **CLAIM-440: partly.** Its clause 3 waits on whether positive affect
+- **[CLAIM-440](../claims.d/CLAIM-440.md): partly.** Its clause 3 waits on whether positive affect
   lowers a goal's priority. Here the lowering appears exactly when goals
   compete, the condition under which the claim's account defines valence
-  at all (contested pairs, TERM-076's nonvacuity). Whether a lowered focal
+  at all (contested pairs, [TERM-076](../terms.d/TERM-076.md)'s nonvacuity). Whether a lowered focal
   goal is a weaker hold of the prevailing ordering or a move that ordering
   makes is the claim's question; the paper does not decide it.
 - No instruction for machine-learning practice; nothing for the anthology.

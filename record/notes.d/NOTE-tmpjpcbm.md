@@ -123,16 +123,16 @@ Affect is the theory's middle term, and it was not measured.
 
 It is the field half of the Carver programme's evidence for coasting; the
 experimental half is Thürmer, Scheier and Carver (2019/2020, filed beside it
-as LIT-tmpz4ww9), which calls this study the "only one published study"
+as [LIT-tmpz4ww9](../literature.d/LIT-tmpz4ww9.md)), which calls this study the "only one published study"
 it knows to test coasting and shifting directly, and faults it for leaving
 "common method variance" open. The control-process model is the record's through Carver 2018
-(LIT-1449, NOTE-1102). Louro et al. (2007) is cited as the convergent prior
+([LIT-1449](../literature.d/LIT-1449.md), [NOTE-1102](NOTE-1102.md)). Louro et al. (2007) is cited as the convergent prior
 result.
 
 ## Bearing on the record
 
-- **CLAIM-468: partly.** The objection's positive half waits on Carver 2003
-  (LIT-1445) for the thesis that positive affect lowers a goal's priority.
+- **[CLAIM-468](../claims.d/CLAIM-468.md): partly.** The objection's positive half waits on Carver 2003
+  ([LIT-1445](../literature.d/LIT-1445.md)) for the thesis that positive affect lowers a goal's priority.
   This paper, by Carver's group, states that thesis in so many words (p.
   1021, quoted under Assumptions), so the attribution is now confirmed
   from a read source, not reported. But it is a restatement, and the study
@@ -140,7 +140,7 @@ result.
   effort on that goal. It measured no affect and no reallocation to other
   goals, so it does not show that positive affect is what lowers the
   priority.
-- **CLAIM-440: partly, and indirectly.** Clause 3 is held for negative
+- **[CLAIM-440](../claims.d/CLAIM-440.md): partly, and indirectly.** Clause 3 is held for negative
   valence only "until that paper is read". This reading supplies the
   attribution and field evidence that the hold of a goal on effort
   weakens after an overshoot, which the control-process account links to

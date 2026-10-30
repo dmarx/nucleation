@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full on 2026-10-30 (NOTE-tmppfo7y) from the authors' accepted
+  read in full on 2026-10-30 ([NOTE-tmppfo7y](../notes.d/NOTE-tmppfo7y.md)) from the authors' accepted
   manuscript on HAL, hal.science/hal-01137522 (CC BY-NC 4.0), fetched from
   hal.science/hal-01137522/document. The PhilSci-Archive copy
   (philsci-archive.pitt.edu/11156) failed TLS verification from this
   client the same day and was not used. Worth reading as the authors'
-  own statement, a year before LIT-582, that closure of constraints
+  own statement, a year before [LIT-582](LIT-582.md), that closure of constraints
   already carries the division of labour, and that dissipative
   structures do not realise closure but at most make a single
   macroscopic constraint.
@@ -56,7 +56,7 @@ summary: >-
   cycle of transformations such as the water cycle is not closure.
   Dissipative structures do not realise closure; at most, on a contested
   reading, they make one macroscopic constraint and are minimally
-  teleological, unorganised and without functions. Read for THEORY-072.
+  teleological, unorganised and without functions. Read for [THEORY-072](../theory.d/THEORY-072.md).
 ---
 <!-- inactive-ok-file: THEORY-072 — Proposed; the account whose promote_when names this work, not leaned on -->
 
@@ -65,7 +65,7 @@ summary: >-
 Mossio, M., & Bich, L. (2017). *Synthese*, 194(4), 1089–1114. First
 published online 21 November 2014. DOI-10.1007/s11229-014-0594-z
 
-Read in full in NOTE-tmppfo7y, from the accepted manuscript on HAL. Pages
+Read in full in [NOTE-tmppfo7y](../notes.d/NOTE-tmppfo7y.md), from the accepted manuscript on HAL. Pages
 below are the manuscript's.
 
 ## Key takeaways
@@ -95,7 +95,7 @@ below are the manuscript's.
 
 ## Why this is here
 
-THEORY-072's promote_when names this paper as bearing on whether chemical
+[THEORY-072](../theory.d/THEORY-072.md)'s promote_when names this paper as bearing on whether chemical
 systems can realise closure, and asks whether the authors keep
-differentiation separate from closure. NOTE-tmppfo7y answers the second:
+differentiation separate from closure. [NOTE-tmppfo7y](../notes.d/NOTE-tmppfo7y.md) answers the second:
 they fold it in. The paper analyses no flame and no protocell.

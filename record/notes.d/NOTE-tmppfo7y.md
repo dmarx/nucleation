@@ -150,13 +150,13 @@ The paper is philosophical argument; it has no formal results.
 ## Connections
 
 It is a step in Mossio's programme. Mossio, Saborido and Moreno (2009,
-LIT-570) is cited for functions as constraints under closure (MS p. 3,
-p. 15), and Moreno and Mossio's *Biological Autonomy* (LIT-536), then in
+[LIT-570](../literature.d/LIT-570.md)) is cited for functions as constraints under closure (MS p. 3,
+p. 15), and Moreno and Mossio's *Biological Autonomy* ([LIT-536](../literature.d/LIT-536.md)), then in
 press, for closure of constraints and for the division of labour (MS
-pp. 10–11, 14). It does not cite Montévil and Mossio (2015, LIT-582),
+pp. 10–11, 14). It does not cite Montévil and Mossio (2015, [LIT-582](../literature.d/LIT-582.md)),
 which came later and gives closure formal definitions. Its treatment of
-cycles (the water cycle, MS pp. 11, 16–17) runs parallel to LIT-582's
-footnote 25 on the hydrologic cycle, which NOTE-468 records; whether that
+cycles (the water cycle, MS pp. 11, 16–17) runs parallel to [LIT-582](../literature.d/LIT-582.md)'s
+footnote 25 on the hydrologic cycle, which [NOTE-468](NOTE-468.md) records; whether that
 footnote cites this paper was not checked. On teleology
 it sets itself against selected-effect accounts (Ruse, Millikan, Neander),
 the genetic-program view (Jacob, Monod, Mayr), cybernetics (Wiener,
@@ -165,7 +165,7 @@ Toepfer's inclusion of the water cycle (MS pp. 3–10, 16).
 
 ## Bearing on the record
 
-- **THEORY-072 — partly; it supports the line but not the account's
+- **[THEORY-072](../theory.d/THEORY-072.md) — partly; it supports the line but not the account's
   wording of it.** What the paper says about differentiation as against
   closure, exactly:
   - It **never names differentiation as a condition**. The word does not
@@ -183,29 +183,29 @@ Toepfer's inclusion of the water cycle (MS pp. 3–10, 16).
     the idea of 'organisation'" (MS pp. 10–11). Functions likewise need
     "different yet complementary contributions" and are "the set of
     constraints subject to closure" (MS p. 15). This matches the record's
-    reading of LIT-582 that THEORY-072 states ("that builds
+    reading of [LIT-582](../literature.d/LIT-582.md) that [THEORY-072](../theory.d/THEORY-072.md) states ("that builds
     differentiation into closure"), and it is the authors' own words,
-    a year before LIT-582, not the record's inference.
+    a year before [LIT-582](../literature.d/LIT-582.md), not the record's inference.
   - It **denies dissipative structures closure, not merely
-    differentiation**. LIT-570 (2009), as THEORY-072's step 2 reads it,
+    differentiation**. [LIT-570](../literature.d/LIT-570.md) (2009), as [THEORY-072](../theory.d/THEORY-072.md)'s step 2 reads it,
     granted the flame "organizational closure" and drew the line at
     differentiation. This paper instead says dissipative structures "do
     not realise closure" and would at most "generate a single macroscopic
     constraint" (MS p. 19). So by 2014 the 2009 broad closure is gone from
     the authors' vocabulary, and "one constraint versus a set of mutually
     dependent constraints" is where the line falls. That is the
-    single-constraint half of THEORY-072's title, stated by the authors;
+    single-constraint half of [THEORY-072](../theory.d/THEORY-072.md)'s title, stated by the authors;
     the "different time scales" half is not in this paper.
   - It **does not analyse a flame**. It quotes Bickhard's candle (fn 23)
     only as a view on self-maintenance, and it leaves open whether
     dissipative structures self-constrain at all (MS pp. 18–19). So the
-    first test THEORY-072's promote_when asks for (a dissipative structure
-    analysed under LIT-582's Definitions 1–4) is not met here.
+    first test [THEORY-072](../theory.d/THEORY-072.md)'s promote_when asks for (a dissipative structure
+    analysed under [LIT-582](../literature.d/LIT-582.md)'s Definitions 1–4) is not met here.
   - On **whether chemical systems can realise closure**, the question for
-    which LIT-582 cites it: no clear non-biological example is known
+    which [LIT-582](../literature.d/LIT-582.md) cites it: no clear non-biological example is known
     beyond abstract models such as autocatalytic sets, and a material one
     would be "at the edge" of biology (MS p. 18). That supports
-    THEORY-072's protocell clause as a place to look, but supplies no
+    [THEORY-072](../theory.d/THEORY-072.md)'s protocell clause as a place to look, but supplies no
     analysis of one, so the promote_when's second test is not met either.
 
   In sum, this reading settles the question promote_when puts about the
