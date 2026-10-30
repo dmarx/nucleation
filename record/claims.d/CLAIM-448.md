@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpd6q2w
 title: 'An ordinal potential describes only the winning-move relation it is computed on; where an organization''s legibility regime selects which contests are admitted or recorded, an acyclic record, even a persistent potential, can be the product of selective contestation, so observed coherence is not evidence that the organization''s perspectives are integrated, and an intervention that improves its self-governance may at first increase the disagreement observed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -19,6 +19,16 @@ history:
     through THEORY-916. Its objection to CLAIM-440 is written into that
     claim. No objection is on file against it, and it has no defeat
     condition to meet. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Correction by the twenty-fourth status review. Version 2 called
+    `LIT-Jia-2015-1146` "a code that names no document". It was LIT-1146's
+    derived alias (the LIT scheme's `LIT-{first_author}-{published}-{number}`),
+    which luria accepts in a reference field (LU-ADR-124); `luria link --fix`
+    wrote it on 2026-10-24 as the converse of LIT-1146's `supports`. The
+    removal stands for the reason the rest of that note gives: the claim
+    cites Jia et al. as prior art, through THEORY-916, now corroborated_by.
 role: counter
 warrant: interpretive
 tags:
