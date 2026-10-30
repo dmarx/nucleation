@@ -88,3 +88,13 @@ MFQ-1 .30.
 - Its ideology results extend [THEORY-435](THEORY-435.md).
 - The charge that morality-as-cooperation omitted Purity (p. 64) rests on the
   Purity results above, not on a test of that theory ([THEORY-468](THEORY-468.md)).
+
+## Note of 2026-10-30: what holds it back
+
+The title's three national networks rest on a dimension count the accepted
+manuscript gives inconsistently (16 and four samples for 19 nations, three
+named; NOTE-398), and the version of record, which may correct it, is
+unread. The title also says "nearly uncorrelated in WEIRD nations" where the
+paper reports only that Equality and Proportionality are more nearly
+orthogonal in WEIRDer nations (mean r = .21), so it would need narrowing to
+a report of the 19 online samples before ADR-065 could promote it.

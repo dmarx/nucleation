@@ -36,7 +36,7 @@ bearing:
 <!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-188 — Proposed; cited as partial evidence toward an answer, not as settled -->
 <!-- inactive-ok-file: THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->
-<!-- inactive-ok-file: THEORY-292 THEORY-269 — Proposed; filed today, cited as partial evidence toward an answer, not as settled -->
+<!-- inactive-ok-file: THEORY-292 — Proposed; filed today, cited as partial evidence toward an answer, not as settled -->
 
 # QUESTION-025: Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean?
 

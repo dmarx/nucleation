@@ -34,7 +34,7 @@ summary: >-
   were left out, so it does not show that predicate-described storage pays
   when finding the reusable part is costly.
 ---
-<!-- inactive-ok-file: CLAIM-303 THEORY-375 — Proposed; the reuse-pricing claim this is set beside and the same paper's replacement results, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-303 — Proposed; the reuse-pricing claim this is set beside, named, not leaned on -->
 
 # THEORY-376: In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server; this matched page caching on a clustered index, beat it on an unclustered one, and, on an unindexed attribute with a disk cache, answered over 60% of 1% queries without contacting the server; the cost of computing probe and remainder queries was not charged
 

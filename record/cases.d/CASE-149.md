@@ -27,7 +27,7 @@ reported_in:
 - NOTE-1093
 - THEORY-891
 ---
-<!-- inactive-ok-file: THEORY-891 QUESTION-063 CASE-045 CLAIM-167 CLAIM-172 CLAIM-157 — Proposed or Open; the account it supports and the questions and claims it bears on, cited as open -->
+<!-- inactive-ok-file: QUESTION-063 CASE-045 CLAIM-167 CLAIM-172 CLAIM-157 — Proposed or Open; the questions, proposed study and claims it bears on, cited as open -->
 
 # CASE-149: Dancing to the same or different music, seen or unseen: in dyads facing each other, shared music and visual contact were removed independently, and each synchronized different movements of the pair
 

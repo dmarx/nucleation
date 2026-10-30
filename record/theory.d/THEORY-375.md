@@ -1,16 +1,38 @@
 ---
 number: 375
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpghhhx
-promote_when: >-
-  An analysis, competitive or under a stated distribution of query paths,
-  that says when a value based on distance from the current query beats
-  recency-based eviction, or experiments in another system that vary cycle
-  length relative to cache size and recover the crossover. More runs of the
-  same simulator on the same synthetic paths do not settle it.
-title: "In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved"
-version: 1
+title: 'In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU was best on regular cyclic paths, by up to 2.3 times over the distance value and 9.6 times over LRU; none of the functions weighs what a region would cost to fetch again, and nothing is proved'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed first. MRU's margin over LRU on the 32 × 32 square was 9.57,
+    and 2.3 was its margin over the distance value (Table 3, NOTE-904);
+    and 'larger than the cache' was never measured. Both are corrected as
+    kind 3 of ADR-047's routing; whether cycle length relative to cache
+    size decides the crossover is carried by QUESTION-tmpbumel. Old title:
+    "In one simulator evicting whole query-shaped cache regions, no
+    replacement value function was best on every workload: a value based
+    on distance from the current query beat LRU where queries clustered
+    around a hot region or wandered with loops, while MRU beat both, by up
+    to 2.3 times, on regular cyclic paths larger than the cache; none of
+    the functions weighs what a region would cost to fetch again, and
+    nothing is proved". Promoted to Active under ADR-065, at the status
+    review's ruling (the owner delegated these rulings). The title reports
+    what one study, read in full in NOTE-904, measured, with the study's
+    hedges kept, and nothing in the record contradicts it. The old
+    promote_when read: "An analysis, competitive or under a stated
+    distribution of query paths, that says when a value based on distance
+    from the current query beats recency-based eviction, or experiments in
+    another system that vary cycle length relative to cache size and
+    recover the crossover. More runs of the same simulator on the same
+    synthetic paths do not settle it." Its demand for an analysis, or for
+    experiments in another system that recover the crossover, asks for an
+    explanation and generality the title does not claim, and moves to
+    QUESTION-tmpbumel.
 tags:
 - databases
 - operations-research
@@ -30,7 +52,7 @@ summary: >-
   semantic distance is a robust rule.
 ---
 
-# THEORY-375: In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved
+# THEORY-375: In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU was best on regular cyclic paths, by up to 2.3 times over the distance value and 9.6 times over LRU; none of the functions weighs what a region would cost to fetch again, and nothing is proved
 
 ## Source
 

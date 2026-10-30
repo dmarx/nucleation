@@ -1,23 +1,44 @@
 ---
 number: 891
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpcd7cz
-promote_when: >-
-  An independent replication with the same 2 × 2 logic (shared music
-  removed, visual contact removed, each independently) in a new sample,
-  ideally from the public data (IIT Dataverse, doi:10.48557/UR2GBG)
-  reanalysed under a different movement decomposition, showing that the
-  music-driven and partner-driven components stay distinct, that an
-  equivalence test bounds their interaction near zero, and that a
-  periodicity measure still fails to classify them while a spatial one
-  succeeds. It is refuted for the claim of independence if a powered test
-  finds an interaction, and for the claim about timing if another temporal
-  representation (phase lags, directional measures) does tell the two
-  kinds apart. Even if promoted it says nothing about the direction of the
-  partner-driven coupling, which the study did not measure.
-title: "In dyads of untrained dancers facing each other, shared music and visual contact each raise interpersonal movement synchrony, independently and in different movement components: lateral and hand movements synchronize through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drives a component's synchrony can be read from its spatial direction and not from the timing of the synchrony"
-version: 1
+title: 'In dyads of untrained dancers facing each other, shared music and visual contact each raised interpersonal movement synchrony, with no interaction detected, in different movement components: lateral and hand movements synchronized through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drove a component''s synchrony was classified from its spatial direction and not from the periodicity of the synchrony'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed first to the study's own hedges, as this entry's 'What this
+    does not say' already stated: 'independently' becomes 'with no
+    interaction detected', since no interaction was bounded, and 'not from
+    the timing' becomes 'not from the periodicity', the one temporal
+    representation tried. Old title: "In dyads of untrained dancers facing
+    each other, shared music and visual contact each raise interpersonal
+    movement synchrony, independently and in different movement
+    components: lateral and hand movements synchronize through seeing the
+    partner, anteroposterior movements such as head bobs through the
+    shared music, and vertical bounce through both; which factor drives a
+    component's synchrony can be read from its spatial direction and not
+    from the timing of the synchrony". Promoted to Active under ADR-065,
+    at the status review's ruling (the owner delegated these rulings). The
+    title reports what one study, read in full in NOTE-1093, measured,
+    with the study's hedges kept, and nothing in the record contradicts
+    it. The old promote_when read: "An independent replication with the
+    same 2 × 2 logic (shared music removed, visual contact removed, each
+    independently) in a new sample, ideally from the public data (IIT
+    Dataverse, doi:10.48557/UR2GBG) reanalysed under a different movement
+    decomposition, showing that the music-driven and partner-driven
+    components stay distinct, that an equivalence test bounds their
+    interaction near zero, and that a periodicity measure still fails to
+    classify them while a spatial one succeeds. It is refuted for the
+    claim of independence if a powered test finds an interaction, and for
+    the claim about timing if another temporal representation (phase lags,
+    directional measures) does tell the two kinds apart. Even if promoted
+    it says nothing about the direction of the partner-driven coupling,
+    which the study did not measure." Its demand for an independent
+    replication with an equivalence test and other temporal measures asks
+    for replication and generality, and moves to QUESTION-tmped4x9.
 tags:
 - complex-systems
 - embodied-cognition
@@ -41,7 +62,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: QUESTION-063 CLAIM-172 CLAIM-167 CASE-045 THEORY-129 THEORY-275 — Proposed or Open; the question it bears on and the accounts it sits beside, named, not leaned on -->
 
-# THEORY-891: In dyads of untrained dancers facing each other, shared music and visual contact each raise interpersonal movement synchrony, independently and in different movement components: lateral and hand movements synchronize through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drives a component's synchrony can be read from its spatial direction and not from the timing of the synchrony
+# THEORY-891: In dyads of untrained dancers facing each other, shared music and visual contact each raised interpersonal movement synchrony, with no interaction detected, in different movement components: lateral and hand movements synchronized through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drove a component's synchrony was classified from its spatial direction and not from the periodicity of the synchrony
 
 ## Source
 

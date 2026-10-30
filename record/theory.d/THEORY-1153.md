@@ -1,18 +1,36 @@
 ---
 number: 1153
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmptu082
-promote_when: >-
-  An annotation of a random sample of English-source human translations,
-  drawn without a named-entity or alignment filter, by at least two
-  annotators working from the same guidelines with their agreement per
-  category reported, that gives per-language rates of explicitation per
-  sentence and finds measurement and entity explicitations the most frequent
-  types. Rates within PETra's own filtered pool, or classifier counts, do
-  not settle it.
-title: 'In English-source TED and Europarl translations, the additions a translator makes for the target audience that a named-entity and null-alignment filter can find are mostly unit conversions and entity descriptions or specifications, and their mix differs by target language'
-version: 1
+title: 'In the PETra corpus of English-source TED and Europarl translations, the additions for the target audience that a named-entity and null-alignment filter, and a classifier trained on its finds, turned up, as labelled by one annotator with no agreement reported, are mostly system transfers, chiefly unit conversions, and entity changes, and their mix differs by target language'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed first to restate how the pairs were found and labelled (three
+    quarters by a classifier trained on the filter's finds, one annotator,
+    no agreement reported; NOTE-1344) and to name Table 2's families:
+    system transfers (1,722) and entity changes (992) make 72% of 3,754
+    type instances. Old title: "In English-source TED and Europarl
+    translations, the additions a translator makes for the target audience
+    that a named-entity and null-alignment filter can find are mostly unit
+    conversions and entity descriptions or specifications, and their mix
+    differs by target language". Promoted to Active under ADR-065, at the
+    status review's ruling (the owner delegated these rulings). The title
+    reports what one study, read in full in NOTE-1344, measured, with the
+    study's hedges kept, and nothing in the record contradicts it. The old
+    promote_when read: "An annotation of a random sample of English-source
+    human translations, drawn without a named-entity or alignment filter,
+    by at least two annotators working from the same guidelines with their
+    agreement per category reported, that gives per-language rates of
+    explicitation per sentence and finds measurement and entity
+    explicitations the most frequent types. Rates within PETra's own
+    filtered pool, or classifier counts, do not settle it." Its demand for
+    an unfiltered random-sample annotation with agreement reported and
+    per-language rates asks for a base rate the title does not claim, and
+    moves to QUESTION-tmpacesm.
 tags:
 - translation
 - pragmatics
@@ -29,7 +47,7 @@ summary: >-
   says nothing about how readers take the additions.
 ---
 
-# THEORY-1153: In English-source TED and Europarl translations, the additions a translator makes for the target audience that a named-entity and null-alignment filter can find are mostly unit conversions and entity descriptions or specifications, and their mix differs by target language
+# THEORY-1153: In the PETra corpus of English-source TED and Europarl translations, the additions for the target audience that a named-entity and null-alignment filter, and a classifier trained on its finds, turned up, as labelled by one annotator with no agreement reported, are mostly system transfers, chiefly unit conversions, and entity changes, and their mix differs by target language
 
 ## Source
 

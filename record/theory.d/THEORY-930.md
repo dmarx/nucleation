@@ -1,20 +1,40 @@
 ---
 number: 930
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5k950
-promote_when: >-
-  The same profile, cluster size peaking at intermediate strength and
-  narrowing at both ends, found in empirical games built by a sampler not
-  tuned along the transitive axis, for instance learning agents or uniform
-  draws from a restricted policy class, in games other than these eight,
-  and robust to the choice of equilibrium (minimum- as well as
-  maximum-entropy Nash). It is refuted if a sampler with comparable
-  coverage gives clusters that keep growing with strength in these same
-  games, as they do in Blotto. Theorems about long cycles among weak
-  strategies do not bear on it.
-title: 'In empirical games built from about a thousand sampled search agents in eight small board games, and in the AlphaStar league, Nash cluster size peaks at intermediate transitive strength and narrows toward the strongest and the weakest strategies, while Blotto, the disc game, Kuhn poker and noisy Elo games do not show that profile'
-version: 1
+title: 'In empirical games built from about a thousand sampled search agents in eight OpenSpiel board games, most on 3×3 or 4×4 boards, and in the AlphaStar league, Nash clusters taken from maximum-entropy equilibria are, read against a fitted skew-normal curve with no test, largest at intermediate transitive strength and narrower toward the strongest and the weakest strategies, while Blotto, the disc game, Kuhn poker and noisy Elo games do not show that profile'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed first to restate the study's own hedges: clusters taken from
+    maximum-entropy Nash, which the authors say makes the tops heavy, a
+    profile read against a fitted curve with no test, and the board sizes
+    (Connect Four is not a small board). Old title: "In empirical games
+    built from about a thousand sampled search agents in eight small board
+    games, and in the AlphaStar league, Nash cluster size peaks at
+    intermediate transitive strength and narrows toward the strongest and
+    the weakest strategies, while Blotto, the disc game, Kuhn poker and
+    noisy Elo games do not show that profile". Promoted to Active under
+    ADR-065, at the status review's ruling (the owner delegated these
+    rulings). The title reports what one study, read in full in NOTE-1146,
+    measured, with the study's hedges kept, and nothing in the record
+    contradicts it. The old promote_when read: "The same profile, cluster
+    size peaking at intermediate strength and narrowing at both ends,
+    found in empirical games built by a sampler not tuned along the
+    transitive axis, for instance learning agents or uniform draws from a
+    restricted policy class, in games other than these eight, and robust
+    to the choice of equilibrium (minimum- as well as maximum-entropy
+    Nash). It is refuted if a sampler with comparable coverage gives
+    clusters that keep growing with strength in these same games, as they
+    do in Blotto. Theorems about long cycles among weak strategies do not
+    bear on it." Its demand for the same profile under other samplers,
+    other games and other equilibria asks for the paper's wider
+    hypothesis, that real-world games have this geometry, which moves with
+    the old condition word for word to THEORY-tmp5qakg, Proposed,
+    extending this entry (ADR-047 kind 1).
 tags:
 - game-theory
 - learning-theory
@@ -31,7 +51,7 @@ summary: >-
   qualitative profile with a fitted skew-normal curve and no test.
 ---
 
-# THEORY-930: In empirical games built from about a thousand sampled search agents in eight small board games, and in the AlphaStar league, Nash cluster size peaks at intermediate transitive strength and narrows toward the strongest and the weakest strategies, while Blotto, the disc game, Kuhn poker and noisy Elo games do not show that profile
+# THEORY-930: In empirical games built from about a thousand sampled search agents in eight OpenSpiel board games, most on 3×3 or 4×4 boards, and in the AlphaStar league, Nash clusters taken from maximum-entropy equilibria are, read against a fitted skew-normal curve with no test, largest at intermediate transitive strength and narrower toward the strongest and the weakest strategies, while Blotto, the disc game, Kuhn poker and noisy Elo games do not show that profile
 
 ## Source
 

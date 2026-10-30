@@ -1,19 +1,42 @@
 ---
 number: 383
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmprwm4f
-promote_when: >-
-  A measurement on another database and web stack, with native materialized
-  views and queries of graded cost, showing that a stored query result kept
-  current on every update loses to recomputation exactly when reading the
-  stored result costs about as much as recomputing it and the refresh runs on
-  the resource that serves requests, and wins otherwise. More runs on one
-  testbed with cheap indexed selections cannot settle it, since they only
-  repeat the case held; nor can the paper's Eq. 9, whose values were never
-  computed against measurement.
-title: "On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either"
-version: 1
+title: 'On one Apache and Informix server answering cheap indexed selections over 1000 pages, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request at five or more updates per second, which the authors explain by reading the stored result costing about as much as recomputing it and its refresh loading the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed first. 'whenever updates arrived' was contradicted by the
+    authors' own conclusion that the DBMS-stored policy beat recomputation
+    'only for a very limited number of cases': 100 pages, or under 5
+    updates per second (NOTE-908). It is dropped as kind 3 of ADR-047's
+    routing. The title now says five or more updates per second over 1000
+    pages, attributes the causal clause to the authors, and the summary is
+    corrected to match. Old title: "On one Apache and Informix server
+    answering cheap indexed selections, a page whose query result was
+    stored in the DBMS and refreshed on every update answered more slowly
+    than one recomputed on each request whenever updates arrived, because
+    reading the stored result cost about as much as recomputing it and its
+    refresh loaded the same DBMS, while a finished page stored at the web
+    server and rewritten on every update answered 10 to 230 times faster
+    than either". Promoted to Active under ADR-065, at the status review's
+    ruling (the owner delegated these rulings). The title reports what one
+    study, read in full in NOTE-908, measured, with the study's hedges
+    kept, and nothing in the record contradicts it. The old promote_when
+    read: "A measurement on another database and web stack, with native
+    materialized views and queries of graded cost, showing that a stored
+    query result kept current on every update loses to recomputation
+    exactly when reading the stored result costs about as much as
+    recomputing it and the refresh runs on the resource that serves
+    requests, and wins otherwise. More runs on one testbed with cheap
+    indexed selections cannot settle it, since they only repeat the case
+    held; nor can the paper's Eq. 9, whose values were never computed
+    against measurement." Its demand for a measurement on another database
+    and web stack asks for an independent test beyond the one testbed the
+    title reports, and moves to QUESTION-tmpuhx4v.
 tags:
 - databases
 - operations-research
@@ -27,8 +50,8 @@ summary: >-
   store the finished page at the web server. A cost model sums access and
   update costs by frequency; the per-page selection problem is stated and not
   solved. On their testbed the page stored at the web server won at every load,
-  and the result stored in the DBMS lost to recomputation once there were
-  updates. The reading the evidence does not support: that storing an answer
+  and the result stored in the DBMS lost to recomputation at five or
+  more updates per second. The reading the evidence does not support: that storing an answer
   pays whenever it is reused enough. Where it is stored decided the outcome,
   and the generalization to other systems is the authors' expectation, not a
   measurement.
@@ -36,7 +59,7 @@ bears_on:
 - QUESTION-114
 ---
 
-# THEORY-383: On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either
+# THEORY-383: On one Apache and Informix server answering cheap indexed selections over 1000 pages, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request at five or more updates per second, which the authors explain by reading the stored result costing about as much as recomputing it and its refresh loading the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either
 
 ## Source
 

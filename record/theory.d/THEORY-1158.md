@@ -1,16 +1,40 @@
 ---
 number: 1158
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpy1s8c
-promote_when: >-
-  A rerun of the released harness, or an independent implementation, that
-  reproduces Table 1's single-path, uniform and holonomy columns within
-  their stated intervals, including the paired holonomy − uniform gains.
-  A rerun on new synthetic data built flat does not bear on the second
-  half of the title, which is arithmetic and already checked.
-title: 'On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority, without beating spectral synchronization; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power'
-version: 1
+title: 'On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority; it stays below spectral synchronization with one reweighting pass on every setting and within 2.2 points of plain spectral synchronization either way; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed first. 'without beating spectral synchronization' was a
+    mis-statement: by Table 1 (NOTE-1331), holonomy weighting beats plain
+    spectral synchronization on three of four settings (0.988 against
+    0.987, 0.937 against 0.933, 0.700 against 0.678) and trails it only on
+    the sparse graph (0.886 against 0.897), while spectral synchronization
+    with one reweighting pass is ahead on every row. The title now says
+    so; the dropped wording is kind 3 of ADR-047's routing, recorded here.
+    Old title: "On synchronization of S4 relations with outliers, an
+    untrained mechanism that composes relations through third vertices
+    gains 26–45 points over the single direct path, and weighting the
+    candidate paths by the Wilson loops of squares that avoid the missing
+    edge adds 0.6–7.8 points, most where clean two-hop paths become a
+    minority, without beating spectral synchronization; its 0.99 AUC for
+    corrupted triangles is the ceiling that exactly flat clean data set,
+    not a measure of detection power". Promoted to Active under ADR-065,
+    at the status review's ruling (the owner delegated these rulings). The
+    title reports what one study, read in full in NOTE-1331, measured,
+    with the study's hedges kept, and nothing in the record contradicts
+    it. The old promote_when read: "A rerun of the released harness, or an
+    independent implementation, that reproduces Table 1's single-path,
+    uniform and holonomy columns within their stated intervals, including
+    the paired holonomy − uniform gains. A rerun on new synthetic data
+    built flat does not bear on the second half of the title, which is
+    arithmetic and already checked." Its demand for a rerun of the
+    released harness reproducing Table 1 asks for replication, more than
+    the title asserts, and moves to QUESTION-tmphbreu.
 tags:
 - network-science
 - compositionality
@@ -27,7 +51,7 @@ summary: >-
   group elements.
 ---
 
-# THEORY-1158: On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority, without beating spectral synchronization; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power
+# THEORY-1158: On synchronization of S4 relations with outliers, an untrained mechanism that composes relations through third vertices gains 26–45 points over the single direct path, and weighting the candidate paths by the Wilson loops of squares that avoid the missing edge adds 0.6–7.8 points, most where clean two-hop paths become a minority; it stays below spectral synchronization with one reweighting pass on every setting and within 2.2 points of plain spectral synchronization either way; its 0.99 AUC for corrupted triangles is the ceiling that exactly flat clean data set, not a measure of detection power
 
 ## Source
 

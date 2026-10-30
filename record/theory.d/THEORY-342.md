@@ -1,20 +1,31 @@
 ---
 number: 342
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpf8c2p
-promote_when: >-
-  The same iso-performance measurement (training compute against search
-  compute at fixed strength) made on another game, or on Hex with a
-  standard AlphaZero implementation or larger networks, with the slope
-  reported with its uncertainty and the unit of test-time compute stated.
-  It promotes the account if the trade is again a straight line in log–log
-  space ending at a one-node floor; it narrows it to Hex, or to this
-  implementation, if the curve bends or the slope differs beyond the
-  reported uncertainty. More snapshots of the same 9×9 runs, or a refit of
-  the same data in another functional form, cannot settle it.
 title: "In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-search compute substitute along a straight line in log–log space, about 15× less search for each 10× more training over about two decades of training compute, down to a one-node search; the trade is measured for one search and counts no games played"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active under ADR-065, at the status review's ruling (the
+    owner delegated these rulings). The title reports what one study, read
+    in full in NOTE-884, measured, with the study's hedges kept, and
+    nothing in the record contradicts it. The old promote_when read: "The
+    same iso-performance measurement (training compute against search
+    compute at fixed strength) made on another game, or on Hex with a
+    standard AlphaZero implementation or larger networks, with the slope
+    reported with its uncertainty and the unit of test-time compute
+    stated. It promotes the account if the trade is again a straight line
+    in log–log space ending at a one-node floor; it narrows it to Hex, or
+    to this implementation, if the curve bends or the slope differs beyond
+    the reported uncertainty. More snapshots of the same 9×9 runs, or a
+    refit of the same data in another functional form, cannot settle it."
+    Its demand for the same measurement on another game, or on Hex with a
+    standard implementation or larger networks, asks for generality the
+    title does not claim, and the author asks for it rather than asserting
+    it; it moves to QUESTION-tmp0w77a.
 tags:
 - learning-theory
 - anthology-candidate
