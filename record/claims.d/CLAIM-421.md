@@ -1,10 +1,10 @@
 ---
 number: 421
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpj73lm
 title: 'The cessation of an organizational perspective''s enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -20,6 +20,17 @@ history:
     the expulsion of the Chagossians and the disruption of federal science
     as cases of all three interruptions at once, at the scale of a people
     and of a research community. The claim is unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057: its grounds and terms are
+    Active, no objection is filed, and nothing in the record meets its
+    defeat condition. CASE-169 separates all three interruptions in one
+    documented case, and CASE-172 the second and third. CASE-136 moved
+    from grounds to illustrated_by, since the claim's own defeat
+    condition calls the doorway effect "one illustration, not a ground
+    of the distinction". The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,7 +56,6 @@ uses:
 complements:
 - CLAIM-287
 grounds:
-- CASE-136
 - CASE-139
 summary: >-
   From the branch of the exchange of 2026-10-22, at the owner's U37: the
@@ -58,6 +68,7 @@ summary: >-
   says only that both separate a capacity's existence from the
   availability of the conditions for exercising it.
 illustrated_by:
+- CASE-136
 - CASE-169
 - CASE-172
 ---

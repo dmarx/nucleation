@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmprzyow
 title: 'The doorway effect: memory for an object carried through a doorway into another room is worse than after walking as far within one, returning to the first room does not restore it, and outside the original laboratory''s set-up the effect has not always appeared'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -15,6 +15,13 @@ history:
     memory for objects just picked up or set down was worse after a
     doorway; the effect was on the carried object only. The standing is
     unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Its edge to CLAIM-421 is now illustrates, not supports, as that
+    claim's defeat condition already said ("one illustration, not a
+    ground of the distinction"), at the status review of 2026-10-30
+    (ADR-057). The case is unchanged.
 standing: documented
 kind: reported-study
 tags:
@@ -22,7 +29,7 @@ tags:
 - embodied-cognition
 date: '2026-10-22'
 line: distributed-agency
-supports:
+illustrates:
 - CLAIM-421
 summary: >-
   The owner's case at U37 of the branch of the exchange of 2026-10-22,

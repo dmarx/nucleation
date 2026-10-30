@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpqodkz
 title: 'Where a judgement''s circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement''s authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Status review of 2026-10-30 (ADR-057). LIT-1395 removed from
+    grounds: MacKenzie is Unavailable and unread, and the body cites him
+    only from his standard reception. "What it does not say" corrected
+    as the note of 2026-10-29 found: it said the CCRU's term adds the
+    case of an idea "never false of the present", which Land's interview
+    does not say. The title and status are unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -31,7 +41,6 @@ uses:
 - TERM-075
 grounds:
 - LIT-1396
-- LIT-1395
 - LIT-1397
 summary: >-
   The owner, on 2026-10-23, after [CLAIM-425](CLAIM-425.md) was filed: "this is
@@ -44,7 +53,7 @@ summary: >-
   not reverse it: visibility still does not show what was the case.
 ---
 <!-- inactive-ok-file: CLAIM-402 CLAIM-425 LIT-1394 TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1395 until 2027-01-29 — Unavailable since 2026-10-29 (no lawful copy of MacKenzie found); a ground cited from its standard reception, unread, so whether this claim still holds is asked again by then -->
+<!-- inactive-ok-file: LIT-1395 until 2027-01-29 — Unavailable since 2026-10-29 (no lawful copy of MacKenzie found); cited from its standard reception, unread, and no longer a ground -->
 
 # CLAIM-426: Where a judgement's circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement's authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become
 
@@ -89,8 +98,9 @@ true.
 - **Not that hyperstition is a mechanism the record lacked.** Merton's
   self-fulfilling prophecy ([LIT-1398](../literature.d/LIT-1398.md)) and the looping effects held
   through [CLAIM-402](CLAIM-402.md) already run on the same circuit. What the CCRU's term
-  adds is the case where the idea is a fiction or a forecast, never false
-  of the present, and where its spread is the point.
+  adds is the case where the idea is a fiction or a forecast and its spread
+  is the point; Land allows that it can "transmute lies into truths"
+  (NOTE-1378), so the idea need not be true of the present.
 - **Not an endorsement of the CCRU's programme.** Land's theory-fiction was
   written to bring futures about. The claim takes the definition and the
   case, and makes no judgement on the programme.
@@ -130,3 +140,12 @@ each of them". That is the attributed plurality [CLAIM-425](CLAIM-425.md) discou
 as evidence about the future.
 
 The title and status are unchanged.
+
+## Note of 2026-10-30: what holds it back
+
+The claim's own second defeat condition is unanswered: nothing in the
+record says whether a judgement's circulation, when it helps bring
+about what it says, is better described as a new ground for a
+judgement about the future, in which case CLAIM-425's rule survives
+intact. And the read sources (Land, Soros) give no condition for
+telling which judgements' circulation helps make them true.

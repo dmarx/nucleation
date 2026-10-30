@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp4d358
 title: 'A corporation''s functional remorse cannot be told from prudence: any procedure or role duty that makes others'' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,13 @@ history:
     Twelfth status review (ADR-058). THEORY-892 removed from grounds:
     the objection cites it only under "What would answer it", where it
     counts against the objection. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Status review of 2026-10-30 (ADR-057, ADR-058). LIT-1432 removed
+    from grounds: Velasquez is Unavailable, read only in abstract, and
+    the objection cites him as a parallel ("Velasquez's 'as if' … in
+    functional form"), which takes no edge. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -27,8 +34,6 @@ objects_to:
 - CLAIM-432
 rests_on:
 - CLAIM-418
-grounds:
-- LIT-1432
 summary: >-
   The objection to the record's reading of the "institutional
   psychopath", revised on 2026-10-23 when the reading was revised. The
@@ -104,3 +109,12 @@ Three things, any of which would do.
    so a person's remorse is told from its display by what the record of
    their conduct and statements shows. If a corporation's record can show
    the same difference, the distinction is drawable for it too.
+
+## Note of 2026-10-30: what holds it back
+
+The objection's own second answer is unmet: the record does not call
+a person's installed remorse prudence because of its origin, and
+nothing in the record says what about a corporation, unlike a person,
+keeps an installed concern answerable to the end it was installed
+for. Its first answer, whether corporations keep weighing others'
+harms once the external sanction is lifted, is a test nobody has run.

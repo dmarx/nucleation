@@ -112,3 +112,14 @@ preferences held fixed. And ideological rivalry, the outcome nearest to a
 change of view, is the one the instrument does not move. So the paper is
 evidence for the material level and silent on the perspectival one, which
 is what the claim is about. The claim is unchanged and stays Proposed.
+
+## Note of 2026-10-30: what holds it back
+
+Its one ground, CASE-150 (Kleinman, Liu and Redding, read), shows the
+material level only, and decides opportunity against threat by the
+sign of exposure, not by perspective. The comparison the defeat
+condition names, economically similar relationships that differ in
+institutional reciprocity, concentration of leverage or domestic
+constituencies, is not in the record, and the works the body cites
+for the perspectival organizations (Copeland, Farrell and Newman,
+McDonald) are Unavailable or Unfetched.

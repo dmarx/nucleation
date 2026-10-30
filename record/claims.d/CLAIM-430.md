@@ -201,3 +201,12 @@ norms and emotions; none is conduct.
 The amended sentence of the earlier note stands: the defeater has no
 within-study test. Neither defeater is met. The claim is unchanged and
 stays Proposed.
+
+## Note of 2026-10-30: what holds it back
+
+Neither defeat condition has been tested: no within-study comparison
+sets taking part against information of equal favourable content, and
+none sets an anonymous favour against one done in an encounter. The
+nearest evidence leans toward the second defeater (Lemmer and Wagner,
+between studies), and Scacco and Warren show conduct moving without
+a later measure of the reinterpretation.
