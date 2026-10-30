@@ -14,7 +14,17 @@ promote_when: >-
   less when context is richer. Restatements of Jakobson or Boas, and
   examples chosen to illustrate the thesis, do not count.
 title: 'Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports edge to CLAIM-033 becomes corroborates, at the fifteenth
+    status review's ruling (the owner delegated these rulings; ADR-058):
+    CLAIM-033 cites this reading as a prior statement, and Jakobson's
+    examples show that a rendering can gain along one dimension while
+    losing along another, not how often published translations do. The
+    claim and status are unchanged.
 tags:
 - translation
 - linguistics
@@ -31,7 +41,7 @@ summary: >-
   sentence can lose its content, less so the richer the context. Argued
   from examples, not tested; it concerns cognitive content, not pragmatic
   force.
-supports:
+corroborates:
 - CLAIM-033
 ---
 
@@ -104,3 +114,11 @@ as well as single steps do. The essay checks neither.
 Later accounts of equivalence held in the record, Nida's ([LIT-791](../literature.d/LIT-791.md)) and
 House's ([LIT-789](../literature.d/LIT-789.md)), are unread here and are not evidence for or against
 this.
+
+## Note of 2026-10-29: what holds it back
+
+No study read here measures, on the same items, that renderings between
+languages differing in an obligatory category mark it where the source
+left it open and drop distinctions the target does not oblige, nor that
+round-trip chains lose such distinctions faster than single steps. The
+essay argues from examples and tests neither.

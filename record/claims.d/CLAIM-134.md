@@ -150,3 +150,12 @@ It also changes this objection's footing in two ways.
 
 The objection's other step stands: U54 allowed no split between numerical and
 qualitative identity, and A194 and A198 introduced one without saying so.
+
+## Note of 2026-10-29: what holds it back
+
+Its concession step, that granting numerical plurality without relational
+differentiation concedes a non-relational ground of identity, meets Esfeld
+and Lam's reply (LIT-895, p. 33; THEORY-453) that primitive numerical
+diversity establishes no identity at all, and nothing in the record
+answers it. Its target, CLAIM-136, is the owner's thesis, and the choice
+between the strict and weak versions it forces is the owner's to make.

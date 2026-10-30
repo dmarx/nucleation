@@ -11,7 +11,16 @@ promote_when: >-
   Dennett's criterion with no added clause doing exclusionary work. A
   further gloss of either criterion as "compressibility" cannot settle it.
 title: 'Dennett''s real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports edge to CLAIM-402 is removed by the fifteenth status
+    review (ADR-058), at the status review's ruling (the owner delegated
+    these rulings), with CLAIM-402's grounds edge: CLAIM-402 cites this
+    reading only under "What it does not say", for a conclusion it does
+    not draw. The claim and status are unchanged.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -32,8 +41,6 @@ summary: >-
   Separating the two, and the claim that the added clauses carry the
   exclusions, is the record's reading. The definition that would confirm
   it (ETMG) is unread.
-supports:
-- CLAIM-402
 bears_on:
 - QUESTION-028
 ---
@@ -122,3 +129,11 @@ them.
   total information cannot rise under coarse-graining but its composition
   can shift toward synergy. That is a candidate precisification of "lossy
   but real", and it is not drawn in any source.
+
+## Note of 2026-10-29: what holds it back
+
+Neither Every Thing Must Go (LIT-301) nor Ross 2000 is read, so nothing
+held shows the projectibility, perspective or scale clause excluding a
+pattern that Dennett's compressibility criterion admits. The two criteria
+are read in full (NOTE-190, NOTE-191); the claim that the added clauses do
+the ontological work is the part no held text settles.

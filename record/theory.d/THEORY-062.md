@@ -145,3 +145,14 @@ revaluation exists by their own account.
   salt result is a case of the body's regulatory state instantly changing
   the value of a predictive cue. It is consistent with that account and does
   not test its claim about experience.
+
+## Note of 2026-10-29: what holds it back
+
+No held study manipulates one controller's reliability alone, with
+outcome values and effort held fixed, and shows control moving between
+devaluation-sensitive and devaluation-insensitive behaviour as Daw et al.
+predict; the instrumental half is qualitative simulation of stylised
+tasks. The Pavlovian half rests on one experiment, reported second-hand,
+and its arbitration is a suggestion with no algorithm. Nothing held
+separates reliability from the expected-value-of-control account's cost
+of computation (THEORY-070).
