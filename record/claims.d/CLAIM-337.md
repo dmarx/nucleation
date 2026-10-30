@@ -112,7 +112,7 @@ what crosses it judgement.
 
 ## Note of 2026-10-29: what holds it back
 
-Its grounds THEORY-662 and THEORY-564 are Proposed: no fitted test of
+Its grounds [THEORY-662](../theory.d/THEORY-662.md) and [THEORY-564](../theory.d/THEORY-564.md) are Proposed: no fitted test of
 Brouillet and Friston's fluency inference, and Smith et al.'s structure
-learning is one simulation. It also grounds on THEORY-577, Proposed, but
+learning is one simulation. It also grounds on [THEORY-577](../theory.d/THEORY-577.md), Proposed, but
 uses only that reading's first clause, that problem reports are behaviour.

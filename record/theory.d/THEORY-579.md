@@ -162,7 +162,7 @@ than denied.
   (near-decomposability, mutual entrainment).
 - **[CLAIM-175](../claims.d/CLAIM-175.md)** argues that a dancing couple is a combined cognitive form
   "on the extended-mind thesis's own terms". It relies on the statement of those
-  terms, which is THEORY-tmplyryk.
+  terms, which is [THEORY-tmplyryk](THEORY-tmplyryk.md).
 - **The critics.** Adams and Aizawa ([LIT-438](../literature.d/LIT-438.md), [LIT-455](../literature.d/LIT-455.md)) argue that coupling
   is not constitution and that cognition needs non-derived content. Rupert
   ([LIT-422](../literature.d/LIT-422.md)) argues that the functional differences Clark sets "below the
@@ -182,7 +182,7 @@ than denied.
 ## Note of 2026-10-29: the proposal split off
 
 What Clark and Chalmers argue, as distinct from whether it is true, is now
-THEORY-tmplyryk, Active, so that CLAIM-175, which argues on the thesis's
+[THEORY-tmplyryk](THEORY-tmplyryk.md), Active, so that [CLAIM-175](../claims.d/CLAIM-175.md), which argues on the thesis's
 own terms, can stand on the statement alone. This entry keeps the question
 whether the conditional holds, and its promote_when.
 
@@ -192,6 +192,6 @@ Kept Proposed by the sixteenth status review. Both papers are read in full,
 but promote_when's result is not in the record: no account of constitution,
 stated apart from the Otto case, that puts the notebook inside and an
 ordinary reliably consulted tool outside by one procedure. Adams and
-Aizawa's coupling–constitution objection (LIT-438, LIT-455) and Rupert's
+Aizawa's coupling–constitution objection ([LIT-438](../literature.d/LIT-438.md), [LIT-455](../literature.d/LIT-455.md)) and Rupert's
 objection that the differences "below the level" do explanatory work
-(LIT-422) are unanswered here.
+([LIT-422](../literature.d/LIT-422.md)) are unanswered here.

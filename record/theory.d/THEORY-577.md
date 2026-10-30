@@ -139,7 +139,7 @@ that it does not pursue.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-354 read the paper in
+Kept Proposed by the sixteenth status review. [NOTE-354](../notes.d/NOTE-354.md) read the paper in
 full, but no topic-neutral explanation of problem intuitions, built and
 tested, is in the record to show whether a theory's named basis drives the
 judgments. The IIT case also rests on the unanswered assumption that a

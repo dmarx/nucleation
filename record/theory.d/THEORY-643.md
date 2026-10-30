@@ -131,6 +131,6 @@ the record: whether an X0 is ever extracted (Müller's German cases),
 whether any head coordination is irreducibly X0-level under the
 substitution test, and whether phrase-selecting affixes preserve
 complements where X0-selecting ones do not. A narrowing to the English
-evidence of §§2–3 would free nothing, because THEORY-588 presupposes the
+evidence of §§2–3 would free nothing, because [THEORY-588](THEORY-588.md) presupposes the
 one-component conclusion, which would go to a kind-1 entry carrying this
 promote_when.

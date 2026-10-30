@@ -158,9 +158,9 @@ failed for corporations and ledger money.
 
 ## Note of 2026-10-29: what holds it back
 
-Read in full (NOTE-388), but its promote_when is unmet. The record holds
+Read in full ([NOTE-388](../notes.d/NOTE-388.md)), but its promote_when is unmet. The record holds
 no institution whose structure the analysis cannot state. It also holds
 neither of the two arguments the paper defers: that collective
-intentionality is irreducible (LIT-490, unread), and that a status's
+intentionality is irreducible ([LIT-490](../literature.d/LIT-490.md), unread), and that a status's
 deontology is more than a regulative rule in equilibrium gives, which
-THEORY-414 denies.
+[THEORY-414](THEORY-414.md) denies.

@@ -171,7 +171,7 @@ title is [CLAIM-489](CLAIM-489.md). Kept Proposed: its reading of Saussure,
 
 ## Note of 2026-10-29: what holds it back
 
-Held by THEORY-159's promote_when: no study in the record adds, loses or
+Held by [THEORY-159](../theory.d/THEORY-159.md)'s promote_when: no study in the record adds, loses or
 merges a term in a language's inventory and measures whether its
 neighbours' use shifts, against terms outside the field, and that is also
 the second clause of this claim's defeat condition.

@@ -127,12 +127,12 @@ tested.
 
 ## Note of 2026-10-29: what holds it back
 
-Read in full (NOTE-698). The title already claims only the conditional the
+Read in full ([NOTE-698](../notes.d/NOTE-698.md)). The title already claims only the conditional the
 threshold model yields, and the reading of the examples. The promote_when
 asks for the unconditional account Floridi asserts. The record holds
 neither a threshold rule stated before the cases nor a case of
 heterogeneous, individually neutral acts combining non-additively; every
 example is a designed aggregator summing like contributions. Promoting the
 conditional would need a kind-1 reading to carry the unconditional form
-and its promote_when (ADR-047), and it would free nothing: THEORY-207, its
+and its promote_when ([ADR-047](../decisions.d/ADR-047.md)), and it would free nothing: [THEORY-207](THEORY-207.md), its
 one dependent, is held by its own unmet promote_when.

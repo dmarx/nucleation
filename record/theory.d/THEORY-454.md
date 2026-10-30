@@ -130,8 +130,8 @@ whether the difference is one of format is left open.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-498 read the précis in
-full, but the main thesis's arguments are in the book (LIT-636), unread.
+Kept Proposed by the sixteenth status review. [NOTE-498](../notes.d/NOTE-498.md) read the précis in
+full, but the main thesis's arguments are in the book ([LIT-636](../literature.d/LIT-636.md)), unread.
 The promote_when's result is not in the record: no test of whether working-
 memory contents fail the tracking and mirroring conditions for iconicity
 that the corresponding percepts meet. Block grants that his nine lines of

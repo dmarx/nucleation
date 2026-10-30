@@ -137,7 +137,7 @@ for a case in which the readings predict different downstream effects.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-379 read the paper in
+Kept Proposed by the sixteenth status review. [NOTE-379](../notes.d/NOTE-379.md) read the paper in
 full, and Taylor offers the account as a consistent reading of Dennett, not
 as true. Neither promote_when result is in the record: no metacontrast case
 with explicit Orwellian and Stalinesque models compared on downstream

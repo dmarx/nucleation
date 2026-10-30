@@ -135,6 +135,6 @@ it are in chapters not read.
 
 ## Note of 2026-10-29: what holds it back
 
-Not read in full. NOTE-622 is a skim of the Preface and chapter 3.
+Not read in full. [NOTE-622](../notes.d/NOTE-622.md) is a skim of the Preface and chapter 3.
 Chapters 1–2, 4 and 8, which hold the arguments for the model and the
 cases its promote_when names, are unread.

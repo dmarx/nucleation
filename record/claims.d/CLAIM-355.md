@@ -172,9 +172,9 @@ The claim has three parts.
    represent". A27 §12's loop runs from distributed regulation, through an
    integrated affective mode and a unified self-attribution, to changes in
    governance and further integration. The macrostate the attribution
-   compresses is real in the sense of Dennett's real patterns (LIT-220), a
+   compresses is real in the sense of Dennett's real patterns ([LIT-220](../literature.d/LIT-220.md)), a
    description that trades accuracy for compression, the sense Taylor gives
-   consciousness (THEORY-563): A27's z = C(x) is "a **task-relative
+   consciousness ([THEORY-563](../theory.d/THEORY-563.md)): A27's z = C(x) is "a **task-relative
    sufficient statistic of distributed regulation**", "real for one
    explanatory target while hiding morally or phenomenologically important
    differences at another scale".
@@ -360,10 +360,10 @@ paper. The claim is unchanged.
 
 ## Note of 2026-10-29: what holds it back
 
-Its working grounds are Proposed: THEORY-064 or THEORY-691 for the owner as
-a content, and THEORY-125 for a group state that is not its members' in
-aggregation. Drayson's objection (THEORY-646), sharpened by Gładziejewski's
+Its working grounds are Proposed: [THEORY-064](../theory.d/THEORY-064.md) or [THEORY-691](../theory.d/THEORY-691.md) for the owner as
+a content, and [THEORY-125](../theory.d/THEORY-125.md) for a group state that is not its members' in
+aggregation. Drayson's objection ([THEORY-646](../theory.d/THEORY-646.md)), sharpened by Gładziejewski's
 lossy-compression reading (the note of 2026-10-22), is answered only
 conditionally: no case in the record shows a unified self-model
-misdescribing who controls what, which is what CASE-114 is built to test
+misdescribing who controls what, which is what [CASE-114](../cases.d/CASE-114.md) is built to test
 and has not run.
