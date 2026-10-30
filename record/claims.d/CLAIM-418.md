@@ -1,10 +1,10 @@
 ---
 number: 418
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp9jg87
 title: 'Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent''s activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -13,6 +13,18 @@ history:
     people with a shared perspective, divided politics and contested
     representatives, and two governments running one detention arrangement
     without being one agent. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Promoted by the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). TERM-063 leaves
+    uses: the claim is stated in TERM-044 and TERM-072, both Active, and
+    its section 'Which agent' checks that it also holds under TERM-063, a
+    rival criterion it must survive and not one it is stated in; the body
+    and the defeat condition still cite it. Nothing objects to it, and
+    nothing in the record meets its defeat condition: neither criterion
+    makes every perspective in TERM-072's sense 1 an agent, and CASE-169
+    and CASE-175 are cases where the boundaries come apart.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,7 +43,6 @@ line:
 uses:
 - TERM-072
 - TERM-044
-- TERM-063
 complements:
 - CLAIM-417
 - CLAIM-430
@@ -56,7 +67,7 @@ illustrated_by:
 - CASE-169
 - CASE-175
 ---
-<!-- inactive-ok-file: CLAIM-275 CLAIM-417 CLAIM-424 TERM-063 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-417 CLAIM-424 TERM-063 — Proposed; claims and terms cited as open, nothing here rests on their being settled -->
 
 # CLAIM-418: Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent's activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open
 

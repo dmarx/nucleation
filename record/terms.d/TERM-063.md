@@ -6,7 +6,15 @@ formerly:
 rivals:
 - TERM-044
 title: 'agent, as an individual that is the active source of modulations of its coupling with its environment and regulates them against norms its own organization sets (Barandiaran, Di Paolo and Rohde)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    used_by CLAIM-418 removed by the fifteenth status review (ADR-057):
+    CLAIM-418 is stated in TERM-044 and TERM-072 and only checks that it
+    also holds under this term, so its uses edge to this term was
+    dropped. The definition and status are unchanged.
 tags:
 - agency
 - philosophy-of-biology
@@ -23,8 +31,6 @@ summary: >-
   with its designers and a trained policy's training process pass [TERM-044](TERM-044.md)
   and fail here. Proposed: recorded, not adopted. [THEORY-071](../theory.d/THEORY-071.md)'s own
   promotion test would settle it.
-used_by:
-- CLAIM-418
 ---
 <!-- inactive-ok-file: CLAIM-155 CLAIM-157 CLAIM-167 CLAIM-168 CLAIM-170 THEORY-801 — Proposed; the claims stated in TERM-044 and the wider reading of its third test, named as unchanged -->
 <!-- inactive-ok-file: THEORY-071 THEORY-583 — Proposed; the reading this definition is taken from and a rival account of the self, cited as open -->

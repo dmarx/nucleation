@@ -1,10 +1,26 @@
 ---
 number: 74
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpmy9oq
 title: 'organization, and which sense: relational arrangement, organizational maintenance, collective institution or organizational closure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Adopted at the fifteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). The settle
+    section read 'Adoption is the owner's decision. The term would be
+    shown wanting if a claim needed a fifth sense, or if senses 1 and 2
+    could not be told apart in a case, which CLAIM-414 says they can.
+    The relayed proposal's test for every term applies here too, and is
+    CLAIM-278's objection: a vocabulary flexible enough to describe
+    every arrangement does not thereby explain any.' CLAIM-414, Active,
+    tells senses 1 and 2 apart; no entry has needed a fifth sense; and
+    its uses (TERM-072, TERM-086, CLAIM-454, CLAIM-456) each say which
+    sense they mean. CLAIM-278 is Superseded, so the test is stated
+    without it. The definition is unchanged.
 tags:
 - individuation
 - social-ontology
@@ -22,11 +38,11 @@ summary: >-
   institution, and closure of constraints. A proposal the owner relayed on
   2026-10-22 asked for the senses to be listed, with the first as the
   default in "organizational perspective". A claim using "organization"
-  or "organized" should say which. Adoption is the owner's decision.
+  or "organized" should say which.
 used_by:
 - CLAIM-454
 ---
-<!-- inactive-ok-file: CLAIM-278 CLAIM-418 TERM-063 TERM-072 — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: TERM-063 — Proposed; the rival criterion of agency, cited as open -->
 
 # TERM-074: organization, and which sense: relational arrangement, organizational maintenance, collective institution or organizational closure
 
@@ -87,11 +103,10 @@ an arrangement can be maintained, by the arrangement itself.
 - **Not will-organization.** [TERM-023](TERM-023.md) is a particular arrangement, the one
   governing which of an agent's action-generating regimes is effective.
 
-## What would settle it
+## What would unsettle it
 
-Adoption is the owner's decision. The term would be shown wanting if a
-claim needed a fifth sense, or if senses 1 and 2 could not be told apart
-in a case, which [CLAIM-414](../claims.d/CLAIM-414.md) says they can. The relayed proposal's test for
-every term applies here too, and is [CLAIM-278](../claims.d/CLAIM-278.md)'s objection: a vocabulary
-flexible enough to describe every arrangement does not thereby explain
-any. Each sense should let a claim say something that could be wrong.
+The term would be shown wanting if a claim needed a fifth sense, or if
+senses 1 and 2 could not be told apart in a case; [CLAIM-414](../claims.d/CLAIM-414.md) tells them
+apart. Each sense should let a claim say something that could be wrong: a
+vocabulary flexible enough to describe every arrangement does not thereby
+explain any.

@@ -69,3 +69,12 @@ The word recurs in nearly every claim filed from the exchange. The owner's revie
 had to correct a title that ran two of its senses together. What would settle
 it: adoption if claims cite the sense they mean; supersession if [TERM-074](TERM-074.md)'s
 senses of "organization" are found to carry it.
+
+## Note of 2026-10-29: what holds it back
+
+Its settle condition is that claims cite the sense they mean, and only
+CLAIM-474 does (TERM-095 cites the descriptive sense). CLAIM-477's "a
+constraint that does individuating work" is the constitutive sense and
+CLAIM-478's "scale separation as a mechanism of individuation" the
+dynamical one, and neither says so; whether those two senses differ in
+a given case is QUESTION-284's question.
