@@ -24,6 +24,7 @@ bearing:
 - THEORY-124
 ---
 <!-- inactive-ok-file: THEORY-262 — Proposed; a reading listed with its limit, not an answer -->
+<!-- inactive-ok-file: THEORY-tmp1ykjb — Proposed; the wide form of THEORY-124, which now carries the wording quoted below -->
 
 # QUESTION-042: In a recorded brain, where anatomy fixes the candidate units independently, do the blocks that clear an Occam-priced test fall at the anatomical boundaries, at which scale, and how long do short-range and long-range blocks last?
 
@@ -45,3 +46,14 @@ bearing:
 ## What would answer it
 
 The gap and Occam test computed on recorded joint activity, for a stated target, and compared with the anatomical partition and with the timing of transient long-range coupling.
+
+## Note of 2026-10-30: THEORY-124 narrowed
+
+The phrase quoted above, that within one area neurons "rarely form discrete
+functional types", is no longer THEORY-124's wording. The status review of
+2026-10-30 narrowed THEORY-124 to what Posani et al. measured on the IBL
+Brainwide Map (selectivity profiles beating a covariance-matched Gaussian null
+for clustering in only three of about 20 areas, with pooled profiles
+clustering along anatomy) and promoted it, Active (ADR-065). The wide wording
+is now carried by THEORY-tmp1ykjb, Proposed, which extends it. The point made
+above stands on the narrowed, Active entry.

@@ -1,23 +1,43 @@
 ---
 number: 179
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpq45k7
-promote_when: >-
-  A first-hand reading of an experiment, by the same or another
-  laboratory, in which the founding cell's intracellular iron (or a second,
-  chromosomal reporter of Fur activity) is measured directly in single
-  E. coli cells and its lineages are sampled at every generation, showing
-  that descendants share the founder's swarming class for a few
-  generations and then relax to the population distribution, with the
-  relaxation following the iron variable. Refuted if, with iron measured
-  directly, swarming potential is shown to be inherited independently of
-  it, or if sibling homogeneity at four generations does not replicate.
-  What would not settle it: further correlations with the same plasmid
-  reporter; refits of the switching model to the same two time points;
-  and demonstrations of bistable switches, which are a different mechanism.
-title: 'In genetically identical E. coli, a cell''s swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell''s iron status rather than a bistable switch'
-version: 1
+title: 'In Bhattacharyya et al.''s single-cell swarm assays of E. coli MG1655, the daughters of one mother swarmed alike at the fourth generation sampled and varied again at the seventh; swarm size correlated with a plasmid fepA-promoter reporter of Fur derepression by low iron (Spearman r = 0.71), and an iron chelator or added iron shifted swarming and held the shared state longer; a three-class switching model fitted to two time points matched the lineages only with a delay of three to four generations before switching, which the authors read as ruling out a bistable switch'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the status review of 2026-10-30, at the status
+    review's ruling (the owner delegated these rulings; ADR-065, ADR-057;
+    ADR-047's evidence ruling), the source read in full in NOTE-657.
+    Narrowed: attributed to the paper, the strain named, "about four" and
+    "about seven" stated as the sampled generations, the iron link stated as
+    a reporter correlation plus perturbation, since iron was never measured,
+    and the switch exclusion as the authors' reading of a model fitted to
+    two time points. Dropped: that the state is a transient inherited state
+    that tracks the cell's iron status, which the paper asserts as a
+    heritable iron memory. The old title: In genetically identical E. coli,
+    a cell's swarming potential is a transient inherited state: its
+    descendants share it for about four generations and lose it by about
+    seven, and it tracks the cell's iron status rather than a bistable
+    switch. The old promote_when: A first-hand reading of an experiment, by
+    the same or another laboratory, in which the founding cell's
+    intracellular iron (or a second, chromosomal reporter of Fur activity)
+    is measured directly in single E. coli cells and its lineages are
+    sampled at every generation, showing that descendants share the
+    founder's swarming class for a few generations and then relax to the
+    population distribution, with the relaxation following the iron
+    variable. Refuted if, with iron measured directly, swarming potential is
+    shown to be inherited independently of it, or if sibling homogeneity at
+    four generations does not replicate. What would not settle it: further
+    correlations with the same plasmid reporter; refits of the switching
+    model to the same two time points; and demonstrations of bistable
+    switches, which are a different mechanism. The wide form, which the
+    source asserts, is kept as THEORY-tmpfnh2y, Proposed, which extends
+    this entry and inherits the promote_when word for word (ADR-047, kind
+    1).
 tags:
 - natural-sciences
 - complex-systems
@@ -34,8 +54,9 @@ summary: >-
   paper's "memory", "conditioning" and "decision-making" are functional
   labels, not evidence of learning.
 ---
+<!-- inactive-ok-file: THEORY-tmpfnh2y — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 
-# THEORY-179: In genetically identical E. coli, a cell's swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell's iron status rather than a bistable switch
+# THEORY-179: In Bhattacharyya et al.'s single-cell swarm assays of E. coli MG1655, the daughters of one mother swarmed alike at the fourth generation sampled and varied again at the seventh; swarm size correlated with a plasmid fepA-promoter reporter of Fur derepression by low iron (Spearman r = 0.71), and an iron chelator or added iron shifted swarming and held the shared state longer; a three-class switching model fitted to two time points matched the lineages only with a delay of three to four generations before switching, which the authors read as ruling out a bistable switch
 
 ## Source
 

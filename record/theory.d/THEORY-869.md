@@ -1,25 +1,47 @@
 ---
 number: 869
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp9o12p
-promote_when: >-
-  An independent replication, on open-weight models and by a group other
-  than the authors, in which projecting out a model's most active
-  verbalizable (J-lens) directions in early workspace layers lowers the
-  rate of felt, first-person, sensory language in its descriptions of its
-  own processing and of another person's experience, more than norm-matched
-  perturbations along other directions, with coherence kept and with the
-  register judged blind by human raters as well as by models. It would be
-  sharpened by a register control: if the same ablation lowers other
-  inferred, characterizing registers (emotional, figurative, evaluative)
-  as much, the account holds only as one case of that general loss, and
-  should be restated so. It is refuted if norm-matched ablations outside
-  the J-space lower the experiential register as much, or if blind human
-  raters find no difference. No result of this kind can show whether the
-  reports are of an experience.
-title: "In Claude language models, projecting out the most active J-space directions in early workspace layers lowers the rate of felt, first-person, sensory language in the models' narrations of their own processing and in their descriptions of another person's experience, while norm-matched perturbations along other directions do not and the text stays coherent; so in these models the experiential register of report depends on the access-like workspace and is not specific to self-report"
-version: 1
+title: 'In Claude Sonnet 4.5, Opus 4.5 and Opus 4.6, Gurnee, Sofroniew et al. found that projecting out the ten most active J-space directions in layers 38 to 54 of 100 lowered an experiential-language score, graded by Opus 4.6-based model graders on five or six prompts per condition, both in the models'' narrations of their own processing and in their descriptions of another person''s experience, while norm-matched perturbations along other directions left it near baseline and the text stayed fluent; on Haiku 4.5 coherence failed first'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the status review of 2026-10-30, at the status
+    review's ruling (the owner delegated these rulings; ADR-065, ADR-057;
+    ADR-047's evidence ruling), the source read in full in NOTE-1069.
+    Narrowed: attributed to the paper, the three models named and Haiku
+    4.5's failure stated, the layers given, and the measure stated as a
+    model-graded score on five or six prompts. Dropped: "so in these models
+    the experiential register of report depends on the access-like workspace
+    and is not specific to self-report", the authors' conclusion (p. 28) in
+    the record's words, and the extension to Claude language models in
+    general. The old title: In Claude language models, projecting out the
+    most active J-space directions in early workspace layers lowers the rate
+    of felt, first-person, sensory language in the models' narrations of
+    their own processing and in their descriptions of another person's
+    experience, while norm-matched perturbations along other directions do
+    not and the text stays coherent; so in these models the experiential
+    register of report depends on the access-like workspace and is not
+    specific to self-report. The old promote_when: An independent
+    replication, on open-weight models and by a group other than the
+    authors, in which projecting out a model's most active verbalizable
+    (J-lens) directions in early workspace layers lowers the rate of felt,
+    first-person, sensory language in its descriptions of its own processing
+    and of another person's experience, more than norm-matched perturbations
+    along other directions, with coherence kept and with the register judged
+    blind by human raters as well as by models. It would be sharpened by a
+    register control: if the same ablation lowers other inferred,
+    characterizing registers (emotional, figurative, evaluative) as much,
+    the account holds only as one case of that general loss, and should be
+    restated so. It is refuted if norm-matched ablations outside the J-space
+    lower the experiential register as much, or if blind human raters find
+    no difference. No result of this kind can show whether the reports are
+    of an experience. The wide form, which the source asserts, is kept as
+    THEORY-tmpw9z0q, Proposed, which extends this entry and inherits the
+    promote_when word for word (ADR-047, kind 1).
 tags:
 - consciousness
 - cognition
@@ -38,10 +60,11 @@ summary: >-
 bears_on:
 - QUESTION-048
 ---
+<!-- inactive-ok-file: THEORY-tmpw9z0q — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
 <!-- inactive-ok-file: THEORY-577 THEORY-633 THEORY-023 THEORY-865 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claim, cited as open -->
 
-# THEORY-869: In Claude language models, projecting out the most active J-space directions in early workspace layers lowers the rate of felt, first-person, sensory language in the models' narrations of their own processing and in their descriptions of another person's experience, while norm-matched perturbations along other directions do not and the text stays coherent; so in these models the experiential register of report depends on the access-like workspace and is not specific to self-report
+# THEORY-869: In Claude Sonnet 4.5, Opus 4.5 and Opus 4.6, Gurnee, Sofroniew et al. found that projecting out the ten most active J-space directions in layers 38 to 54 of 100 lowered an experiential-language score, graded by Opus 4.6-based model graders on five or six prompts per condition, both in the models' narrations of their own processing and in their descriptions of another person's experience, while norm-matched perturbations along other directions left it near baseline and the text stayed fluent; on Haiku 4.5 coherence failed first
 
 ## Source
 

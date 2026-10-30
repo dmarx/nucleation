@@ -4,7 +4,26 @@ status: Proposed
 formerly:
 - THEORY-tmpxi9bt
 title: 'Across 642 experimental tests to September 2019, forming implementation intentions reliably improved behaviour, cognitive performance, affect regulation and social judgement, but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, with large heterogeneity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The promote_when is extended, at the status review's ruling (the owner
+    delegated these rulings; ADR-065 §1: a promote_when asks for exactly
+    what the title asserts, and asking for less is the same fault as asking
+    for more). The title asserts that the effect is reliable in each of four
+    outcome domains, but the condition asked only for a corrected overall
+    estimate; it now also asks for a publication-bias-corrected estimate
+    reliably above zero in each domain. The existing text is kept and the
+    clause added after it. The title and status are unchanged. The old
+    promote_when: A meta-analysis that adds the tests published since
+    September 2019, or a set of preregistered multi-site replications,
+    estimating the effect with correction for publication bias and finding
+    it reliably above zero and of the same small order. The effect is
+    refuted if bias-corrected estimates in an updated or registered set fall
+    to zero, and narrowed if it holds only in the lab and for in-person
+    delivery. A larger uncorrected pooled d cannot answer it.
 tags:
 - motivation
 - behavioral-integration
@@ -24,6 +43,10 @@ promote_when: >-
   an updated or registered set fall to zero, and narrowed if it holds only in
   the lab and for in-person delivery. A larger uncorrected pooled d cannot
   answer it.
+  For the four-domain clause, it also needs an estimate corrected for
+  publication bias in each of the four outcome domains (behaviour, cognitive
+  performance, affect regulation and social judgement) that is reliably above
+  zero; a domain whose corrected estimate is not drops from the claim.
 summary: >-
   The wide form [THEORY-918](THEORY-918.md) held before the tenth status review narrowed
   it, kept as a Proposed reading by the [ADR-047](../decisions.d/ADR-047.md) kind-1 sweep of
@@ -67,3 +90,13 @@ preregistered set of tests estimated with correction for publication bias
 and still reliably above zero, of the same small order. A corrected
 estimate per outcome domain would settle the four-domain clause. A larger
 uncorrected pooled d cannot answer it.
+
+## Note of 2026-10-30: what holds it back
+
+Its title is the wide form THEORY-918 was narrowed from; narrowed to the
+meta-analysis's own finding it would be THEORY-918, already Active. What it
+adds, that the effect is reliable in each of the four outcome domains, rests
+on per-domain estimates the review did not correct for publication bias, and
+within behaviour vaccination and voting did not differ from zero. It waits
+on a bias-corrected estimate per domain, or the updated or registered set
+its promote_when names (QUESTION-310).
