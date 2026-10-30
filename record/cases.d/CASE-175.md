@@ -17,7 +17,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: the district court's remand orders
-    read (LIT-tmpw3c17, NOTE-tmpdnf6p), with the finding of 11 April
+    read (LIT-1841, NOTE-1417), with the finding of 11 April
     and the custody conflict of footnote 3. The case is unchanged.
 standing: documented
 kind: specimen
@@ -169,7 +169,7 @@ the transfer while the person was still held, does not arise in
 ## Note of 2026-10-29: the remand orders, read
 
 The district court's order of 15 April 2025 granting expedited discovery,
-[LIT-tmpw3c17](../literature.d/LIT-tmpw3c17.md), is read ([NOTE-tmpdnf6p](../notes.d/NOTE-tmpdnf6p.md)), with the two orders it recites.
+[LIT-1841](../literature.d/LIT-1841.md), is read ([NOTE-1417](../notes.d/NOTE-1417.md)), with the two orders it recites.
 Particulars the case can take as documented:
 
 - **The amended order of 10 April** (ECF No. 51), made hours after the

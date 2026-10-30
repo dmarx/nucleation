@@ -108,7 +108,7 @@ distribution over micro states is used at both levels.
 The promote_when says this account is in trouble if the macro advantage
 disappears whenever the same intervention distribution over micro states
 is used at both levels. For effective information that condition is now
-met, and by proof, not by example. [THEORY-tmphfpe7](THEORY-tmphfpe7.md) (Active): with one
+met, and by proof, not by example. [THEORY-1167](THEORY-1167.md) (Active): with one
 distribution over micro states at both levels, each macro intervention
 realized by that distribution within its block, the macro EI is I(f(X);
 f(Y)), which data processing bounds by I(X; Y), the micro EI. A macro can
@@ -119,7 +119,7 @@ non-negative loss.
 
 Two readings of this date bear the same way.
 
-- **Comolatti and Hoel**, [LIT-tmpzfaqi](../literature.d/LIT-tmpzfaqi.md) ([NOTE-tmpcmbzs](../notes.d/NOTE-tmpcmbzs.md)), concede the
+- **Comolatti and Hoel**, [LIT-1843](../literature.d/LIT-1843.md) ([NOTE-1416](../notes.d/NOTE-1416.md)), concede the
   decisive case: under the system's own stationary distribution, used at
   both levels, EI shows no emergence, "This was known". Their reply, that
   other measures and individual transitions still show emergence, changes
@@ -129,14 +129,14 @@ Two readings of this date bear the same way.
   asserts. Their only system is a bipartite chain built so that its macro
   is a deterministic NOT gate, a hand-built toy of the kind the
   promote_when says cannot settle it.
-- **Eberhardt and Lee**, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md) ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)), trace EI's
+- **Eberhardt and Lee**, [LIT-1839](../literature.d/LIT-1839.md) ([NOTE-1413](../notes.d/NOTE-1413.md)), trace EI's
   ambiguity and non-commutativity to the maximum-entropy distribution,
   "extraneous to the system". They do not compute EI under a common
   distribution; the record's derivation supplies that step.
 
 The bound covers a coarse-graining of one transition. It does not reach
 [LIT-1038](../literature.d/LIT-1038.md)'s temporal and spatio-temporal macros, and it says nothing about
-measures that data processing does not bound ([THEORY-tmphfpe7](THEORY-tmphfpe7.md), "What this
+measures that data processing does not bound ([THEORY-1167](THEORY-1167.md), "What this
 does not say").
 
 A move to Rejected, or a narrowing of this account to measures that data
@@ -149,8 +149,8 @@ The promote_when asks, beside a common distribution, that the EI-optimal
 coarse-graining agree "with an independent interventionist test of which
 level the effects track (realization insensitivity under changes of
 realizer)". Causal feature learning is that test: Chalupka, Perona and
-Eberhardt, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)), and their overview, [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
-([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)). Two micro causes share a macro state iff manipulating to
+Eberhardt, [LIT-1833](../literature.d/LIT-1833.md) ([NOTE-1420](../notes.d/NOTE-1420.md)), and their overview, [LIT-1834](../literature.d/LIT-1834.md)
+([NOTE-1415](../notes.d/NOTE-1415.md)). Two micro causes share a macro state iff manipulating to
 either has the same effect, and no distribution over interventions enters.
 
 Its verdict bears on this account in two ways.
@@ -162,10 +162,10 @@ Its verdict bears on this account in two ways.
   can confirm that a macro is proportionate, where micro rows are exactly
   equal, as in Eberhardt and Lee's (11), Hoel's example, and never that
   causation emerges at the macro or that the macro beats the micro.
-  [THEORY-tmpyfcov](THEORY-tmpyfcov.md) (Active) makes the link to EI exact: under one
+  [THEORY-1169](THEORY-1169.md) (Active) makes the link to EI exact: under one
   full-support distribution at both levels, the coarse-grainings that keep
   all of the micro EI are exactly the causal partitions and their
-  refinements, whatever the distribution. The ties [THEORY-tmphfpe7](THEORY-tmphfpe7.md) allows
+  refinements, whatever the distribution. The ties [THEORY-1167](THEORY-1167.md) allows
   are these, and nothing exceeds them.
 - **It disagrees with the EI this account rests on.** Hoel's EI, uniform
   at each level, merges causes with different rows on Eberhardt and Lee's
@@ -175,7 +175,7 @@ Its verdict bears on this account in two ways.
   2013's own examples ([THEORY-222](THEORY-222.md)) were not recomputed.
 
 The test also needs exact equality. With estimated rows, causal feature
-learning merges by a distance threshold, a choice [THEORY-tmpyfcov](THEORY-tmpyfcov.md) does not
+learning merges by a distance threshold, a choice [THEORY-1169](THEORY-1169.md) does not
 make.
 
 Nothing here moves the account toward promotion. The status and the title

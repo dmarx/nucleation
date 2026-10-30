@@ -49,7 +49,7 @@ summary: >-
 bears_on:
 - QUESTION-259
 ---
-<!-- inactive-ok-file: LIT-tmph031e — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1829 — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
 
 # CLAIM-430: An interaction can make available a way of relating that its participants' operative perspectives did not hold, by giving each a role to enact in it, so that taking part can come before, and help produce, the reinterpretation it later seems to express; whether the change stays with the partner, generalizes to a category, or is reproduced beyond the encounter are further questions
 
@@ -140,7 +140,7 @@ Neither meets the defeater. The claim is unchanged and stays Proposed.
 Two more works bear on the second defeater, and one changes what the
 earlier note of this date says.
 
-- **Lemmer and Wagner**, [LIT-tmpn3fwx](../literature.d/LIT-tmpn3fwx.md) ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)). The earlier note's
+- **Lemmer and Wagner**, [LIT-1836](../literature.d/LIT-1836.md) ([NOTE-1419](../notes.d/NOTE-1419.md)). The earlier note's
   "The defeater has no test in the randomized contact literature" is no
   longer true as a statement of what the record holds. This meta-analysis
   estimates programmes with no taking part, eight extended-contact
@@ -160,7 +160,7 @@ earlier note of this date says.
   So the sentence should read: no within-study test; between studies,
   observed friendships do about as well as taking part, on immediate
   self-reports.
-- **Scacco and Warren**, [LIT-tmpi9wm8](../literature.d/LIT-tmpi9wm8.md) ([NOTE-tmpf5rji](../notes.d/NOTE-tmpf5rji.md)). In a randomized
+- **Scacco and Warren**, [LIT-1831](../literature.d/LIT-1831.md) ([NOTE-1418](../notes.d/NOTE-1418.md)). In a randomized
   field experiment, conduct moved and stated prejudice did not: mixed
   classes discriminated less in incentivized games than single-religion
   classes. That is what part 2 of the claim, taking part before the
@@ -178,8 +178,8 @@ Neither meets the defeater. The claim is unchanged and stays Proposed.
 
 ## Note of 2026-10-29: Cernat 2011, from its abstract, not the test
 
-Cernat 2011, [LIT-tmph031e](../literature.d/LIT-tmph031e.md), was registered because the reading of Lemmer
-and Wagner ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)) named it as possibly the nearest within-study
+Cernat 2011, [LIT-1829](../literature.d/LIT-1829.md), was registered because the reading of Lemmer
+and Wagner ([NOTE-1419](../notes.d/NOTE-1419.md)) named it as possibly the nearest within-study
 test of this claim's second defeater. It is Unfetched and unread. What
 follows rests on its abstract and on the method text a search engine
 indexes, not on the article.

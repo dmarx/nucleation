@@ -143,7 +143,7 @@ why the account is Active.
 
 ## Note of 2026-10-29: RefraMED's mechanism analyses, a worked case
 
-The RefraMED trial's NIHR monograph, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md) ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), reports
+The RefraMED trial's NIHR monograph, [LIT-1838](../literature.d/LIT-1838.md) ([NOTE-1421](../notes.d/NOTE-1421.md)), reports
 causal mediation analyses that were meant as the evidence this account
 asks for, and they meet neither leg of it.
 

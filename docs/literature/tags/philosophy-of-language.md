@@ -6,7 +6,7 @@
 
 **Philosophy of language** — meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy).
 
-66 of 1822 LIT documents. Back to the [full index](../README.md).
+66 of 1843 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

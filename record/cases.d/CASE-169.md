@@ -16,7 +16,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: Bancoult No 1 registered, Unfetched
-    (LIT-tmpiq0o7); the quotations of the UK files stay at Human
+    (LIT-1832); the quotations of the UK files stay at Human
     Rights Watch's remove. The case is unchanged.
 standing: documented
 kind: specimen
@@ -50,7 +50,7 @@ summary: >-
   registered unread.
 ---
 <!-- inactive-ok-file: LIT-1598 LIT-1620 — Unavailable since 2026-10-29; Jeffery's works, sources of particulars kept as the exchange's, cited in the note of that date as not reached -->
-<!-- inactive-ok-file: LIT-tmpiq0o7 — Unfetched since 2026-10-29; Bancoult No 1, cited in the note of that date as not read, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1832 — Unfetched since 2026-10-29; Bancoult No 1, cited in the note of that date as not read, nothing here rests on it -->
 
 # CASE-169: The Chagossians, 1965 to now: a people expelled from the Chagos Archipelago between 1967 and 1973 for the Diego Garcia base, dispersed to Mauritius, the Seychelles and Britain, whose practices, kinship and political organization continued or arose in exile while sovereignty over the islands was settled between states
 
@@ -207,7 +207,7 @@ The case is unchanged.
 
 The judgment through which Human Rights Watch quotes most of the UK files,
 *R (Bancoult) v Secretary of State for Foreign and Commonwealth Affairs*
-[2000] EWHC 413 (Admin), [LIT-tmpiq0o7](../literature.d/LIT-tmpiq0o7.md), is registered and Unfetched: the
+[2000] EWHC 413 (Admin), [LIT-1832](../literature.d/LIT-1832.md), is registered and Unfetched: the
 BAILII copy is located and could not be fetched. Until it is read, "no
 permanent population" and the documents' own words stay at the report's
 remove from the court ([NOTE-1365](../notes.d/NOTE-1365.md)), and the quotations the report cites to

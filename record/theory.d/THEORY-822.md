@@ -32,7 +32,7 @@ supports:
 bears_on:
 - QUESTION-218
 ---
-<!-- inactive-ok-file: LIT-tmpodvz5 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1837 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
 # THEORY-822: For a Markov chain and a partition of its states, strong lumpability, every state of a block sending the same probability into each block, is the column-equitability of the master-equation operator and makes the block label informationally closed; when the chain is irreducible, an informationally closed label that is itself Markov is strongly lumpable, with no aperiodicity needed; weak lumpability gives a Markov label that need not be closed; and the same holds on the causal-state chain of any stationary process
 
 ## Source
@@ -179,7 +179,7 @@ lumpability, which is the wrong notion for closure.
 
 ## Note of 2026-10-29: two strongly lumpable partitions in Eberhardt and Lee
 
-Eberhardt and Lee, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md), read in [NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md), give two strongly
+Eberhardt and Lee, [LIT-1839](../literature.d/LIT-1839.md), read in [NOTE-1413](../notes.d/NOTE-1413.md), give two strongly
 lumpable partitions without calling them that. In their (13), every one of
 states 1–7 sends all its mass into the block {1–7}. In their (17), both
 rows of {x₁, x₂} send 0.5 into each block. For (17) the reading computed
@@ -188,7 +188,7 @@ that A(T)² equals the {x₁, x₂} coarsening of T², the matrix [[0.75, 0.25],
 entry's lumpability guarantees. What their example shows failing is
 effective information's choice of partition, not the coarse-graining.
 
-Pfante et al. 2014, [LIT-tmpodvz5](../literature.d/LIT-tmpodvz5.md), which Rosas et al. ([NOTE-1030](../notes.d/NOTE-1030.md)) credit
+Pfante et al. 2014, [LIT-1837](../literature.d/LIT-1837.md), which Rosas et al. ([NOTE-1030](../notes.d/NOTE-1030.md)) credit
 with the equivalence this entry generalizes for Markov spatial
 coarse-grainings, is registered and Unavailable, so the record still holds
 it second-hand. The entry is unchanged.

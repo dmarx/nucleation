@@ -38,7 +38,7 @@ history:
 - version: 6
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Ito and Kaneko read (NOTE-tmp2xl62), a
+    Note of 2026-10-29 added: Ito and Kaneko read (NOTE-1414), a
     like-and-like predecessor that gives persistent influence
     classes from identical units; DeMarzo, Vayanos and Zwiebel 2001
     registered, Unavailable. The question is unchanged.
@@ -63,7 +63,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-143 THEORY-146 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-tmpapuas — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1825 — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
 # QUESTION-117: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
 
 ## Why it is a question
@@ -252,7 +252,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: the like-and-like predecessor, read, and the moving-weights companion, not reached
 
-- **Ito and Kaneko**, [LIT-tmpwxstp](../literature.d/LIT-tmpwxstp.md) ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)), the like-and-like
+- **Ito and Kaneko**, [LIT-1842](../literature.d/LIT-1842.md) ([NOTE-1414](../notes.d/NOTE-1414.md)), the like-and-like
   reinforcement the earlier note of this date takes from Gross and
   Blasius, is now read. It is closer to this question's endorsement
   circuit than the review suggests. Each unit allocates a fixed budget of
@@ -270,7 +270,7 @@ The question is unchanged and stays Open.
   without regard to accuracy. That is also persuasion bias's outcome
   ([LIT-1134](../literature.d/LIT-1134.md)), and this model gets it with moving weights and hysteresis,
   which persuasion bias lacks.
-- **DeMarzo, Vayanos and Zwiebel 2001**, [LIT-tmpapuas](../literature.d/LIT-tmpapuas.md), the companion to
+- **DeMarzo, Vayanos and Zwiebel 2001**, [LIT-1825](../literature.d/LIT-1825.md), the companion to
   [LIT-1134](../literature.d/LIT-1134.md) in which whom an agent listens to is chosen by what listening
   earns, is registered and Unavailable: no copy of the working paper was
   found. As [LIT-1134](../literature.d/LIT-1134.md) describes it, it would be a predecessor with evolving

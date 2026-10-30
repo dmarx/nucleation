@@ -31,13 +31,13 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: Eberhardt and Lee read
-    (NOTE-tmp0q96y), context and not a witness; Pfante et al. 2014
+    (NOTE-1413), context and not a witness; Pfante et al. 2014
     registered, Unavailable. The question is unchanged.
 - version: 6
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: causal feature learning read
-    (NOTE-tmpiw2bv, NOTE-tmpbrnim), context and not a witness;
+    (NOTE-1420, NOTE-1415), context and not a witness;
     predictive sufficiency for a declared target can hold where
     the causal reading fails. The question is unchanged.
 tags:
@@ -60,7 +60,7 @@ summary: >-
   list.
 ---
 <!-- inactive-ok-file: CLAIM-353 CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
-<!-- inactive-ok-file: LIT-tmpodvz5 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1837 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
 
 # QUESTION-252: For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, and which such configurations are impossible in which model classes?
 
@@ -190,14 +190,14 @@ parameters. The question is unchanged.
 
 Two items of this date, context and not witnesses.
 
-- **Eberhardt and Lee**, [LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md) ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)). Their example (17)
+- **Eberhardt and Lee**, [LIT-1839](../literature.d/LIT-1839.md) ([NOTE-1413](../notes.d/NOTE-1413.md)). Their example (17)
   has a strongly lumpable partition, so the block label is closed and
   Markov ([THEORY-822](../theory.d/THEORY-822.md)) and the coarse-graining commutes with time
   evolution. Yet EI picks that partition at one step and the micro at two.
   Strong lumpability does not make the EI-optimal choice stable under a
   change of time step. That is a property of EI, not one of this
   question's five conditions.
-- **Pfante, Bertschinger, Olbrich, Ay and Jost 2014**, [LIT-tmpodvz5](../literature.d/LIT-tmpodvz5.md), which
+- **Pfante, Bertschinger, Olbrich, Ay and Jost 2014**, [LIT-1837](../literature.d/LIT-1837.md), which
   Rosas et al. ([NOTE-1030](../notes.d/NOTE-1030.md)) credit with the equivalence of informational
   closure and commutativity for Markov spatial coarse-grainings, is
   registered and Unavailable. The record still holds that result
@@ -207,8 +207,8 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: predictive sufficiency without the causal reading
 
-Causal feature learning, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)) and [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
-([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)), context and not a witness. It separates two sufficiency
+Causal feature learning, [LIT-1833](../literature.d/LIT-1833.md) ([NOTE-1420](../notes.d/NOTE-1420.md)) and [LIT-1834](../literature.d/LIT-1834.md)
+([NOTE-1415](../notes.d/NOTE-1415.md)), context and not a witness. It separates two sufficiency
 conditions for a declared target: the observational partition, sufficient
 for predicting it, and the causal partition, sufficient for it under
 intervention. Its coarsening theorem says that, outside a set of measure

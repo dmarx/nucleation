@@ -15,14 +15,14 @@ history:
 - version: 3
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Scacco and Warren (NOTE-tmpf5rji) and
-    Lemmer and Wagner (NOTE-tmpgbgvt) read; a behavioural outcome
+    Note of 2026-10-29 added: Scacco and Warren (NOTE-1418) and
+    Lemmer and Wagner (NOTE-1419) read; a behavioural outcome
     without the information contrast, and a between-study comparison
     of observing against taking part. The question is unchanged.
 - version: 4
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: Cernat 2011 (LIT-tmph031e),
+    Note of 2026-10-29 added: Cernat 2011 (LIT-1829),
     registered Unfetched and noted from its abstract, unread;
     every arm reads a story and none takes part, so the third part
     still has no within-study test. The question is unchanged.
@@ -41,7 +41,7 @@ summary: >-
   generated and transformed, to one mechanism, [CLAIM-430](../claims.d/CLAIM-430.md)'s invitation,
   and one distinction, [CLAIM-429](../claims.d/CLAIM-429.md)'s state against coupling.
 ---
-<!-- inactive-ok-file: LIT-tmph031e — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1829 — Unfetched since 2026-10-29; Cernat 2011, cited in the note of that date from its abstract as not read, nothing here rests on it -->
 
 # QUESTION-262: When cooperation across a relation's prevailing perspective changes how one party takes the other, does it change only the state of that party's interpretive organization or also its coupling, how far outcomes may revise the governing interpretation, and can taking part be told experimentally from receiving information of equal favourable content?
 
@@ -105,7 +105,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: a behavioural outcome, and a meta-analysis without one
 
-- **Scacco and Warren**, [LIT-tmpi9wm8](../literature.d/LIT-tmpi9wm8.md) ([NOTE-tmpf5rji](../notes.d/NOTE-tmpf5rji.md)). It meets the
+- **Scacco and Warren**, [LIT-1831](../literature.d/LIT-1831.md) ([NOTE-1418](../notes.d/NOTE-1418.md)). It meets the
   measurement demand: conduct scored by incentivized, private, sealed
   games, which do not pass through the interpretation under test, and its
   stranger rounds are the "unfamiliar group members" the question names.
@@ -121,7 +121,7 @@ The question is unchanged and stays Open.
   attitudes beside a positive result on behaviour; its registration is
   dated seven months after the endline, though before the researchers had
   the outcome data.
-- **Lemmer and Wagner**, [LIT-tmpn3fwx](../literature.d/LIT-tmpn3fwx.md) ([NOTE-tmpgbgvt](../notes.d/NOTE-tmpgbgvt.md)). No help on the
+- **Lemmer and Wagner**, [LIT-1836](../literature.d/LIT-1836.md) ([NOTE-1419](../notes.d/NOTE-1419.md)). No help on the
   measurement demand: no behavioural outcome could be included. On "local
   against general", the outcomes reach the whole target outgroup and
   unspecified ethnic outgroups, but no comparison measured a specific
@@ -136,7 +136,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: Cernat 2011, from its abstract
 
-Cernat 2011, [LIT-tmph031e](../literature.d/LIT-tmph031e.md), was registered as a candidate for this
+Cernat 2011, [LIT-1829](../literature.d/LIT-1829.md), was registered as a candidate for this
 question's third part. It is Unfetched and unread, and this note rests on
 its abstract and the method text a search engine indexes. All three arms
 read, and none takes part, so it cannot tell taking part from receiving

@@ -35,7 +35,7 @@ summary: >-
   and exclusion under another.
 ---
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-tmpdoqmq — Unfetched since 2026-10-29; Chesson 1990, cited in the note of that date as not read, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1826 — Unfetched since 2026-10-29; Chesson 1990, cited in the note of that date as not read, nothing here rests on it -->
 
 # CASE-118: Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence
 
@@ -85,7 +85,7 @@ specialists can persist without any higher-level governance.
 
 ## Note of 2026-10-29: ρ in Chesson's terms
 
-Chesson's 1990 paper on MacArthur's consumer–resource model, [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md),
+Chesson's 1990 paper on MacArthur's consumer–resource model, [LIT-1826](../literature.d/LIT-1826.md),
 is registered and Unfetched, so this case's ρ cannot yet be checked
 against his definition at its source. What the record can say comes from
 Letten, Ke and Fukami, [LIT-1237](../literature.d/LIT-1237.md) ([NOTE-1377](../notes.d/NOTE-1377.md)), who follow that paper. In
@@ -100,5 +100,5 @@ Chesson's, and the invasion growth 1 − ρ is his niche difference, not his
 overlap. The coexistence bound |δ| < (1 − ρ)/(1 + ρ) is his ρ < f₂/f₁ <
 1/ρ, rewritten (checked by hand, 2026-10-29). Whether Chesson's overlap
 for MacArthur's model is the cosine of the components' feature vectors, as
-the case assumes, is what a reading of [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md) would settle. The
+the case assumes, is what a reading of [LIT-1826](../literature.d/LIT-1826.md) would settle. The
 construction is unchanged.

@@ -6,7 +6,7 @@
 
 **Religion** — religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated.
 
-7 of 1822 LIT documents. Back to the [full index](../README.md).
+7 of 1843 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

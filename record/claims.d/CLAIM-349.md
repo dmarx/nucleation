@@ -50,9 +50,9 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: Bond 2018 registered, Unavailable
-    (LIT-tmph2snh), with its citation corrected; Edmondson 1996
+    (LIT-1830), with its citation corrected; Edmondson 1996
     registered, Unfetched; the RefraMED monograph read
-    (NOTE-tmpswlra). The claim is unchanged.
+    (NOTE-1421). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -109,7 +109,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-156 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-tmph2snh LIT-tmp36bz2 — Unavailable and Unfetched since 2026-10-29; Bond 2018 and Edmondson 1996, cited in the note of that date as not read, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1830 LIT-1823 — Unavailable and Unfetched since 2026-10-29; Bond 2018 and Edmondson 1996, cited in the note of that date as not read, nothing here rests on them -->
 
 # CLAIM-349: An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
@@ -299,7 +299,7 @@ The claim is unchanged.
 ## Note of 2026-10-29: Bond registered, Edmondson 1996 located, and the monograph
 
 - **Bond.** The earlier note of this date says Bond's chapter "is still
-  not registered". That no longer holds: it is [LIT-tmph2snh](../literature.d/LIT-tmph2snh.md), Unavailable,
+  not registered". That no longer holds: it is [LIT-1830](../literature.d/LIT-1830.md), Unavailable,
   since no lawful copy was reached. Checked against the book's table of
   contents, it is chapter 11, pp. 185–199, of D. S. Wilson and S. C. Hayes
   (eds.), *Evolution and Contextual Behavioral Science* (Context Press,
@@ -308,14 +308,14 @@ The claim is unchanged.
   not a prior statement of this claim's three-way split still rests on
   Guida et al. alone. The claim does not claim novelty against Bond, so
   nothing in it waits on the reading.
-- **Edmondson 1996**, [LIT-tmp36bz2](../literature.d/LIT-tmp36bz2.md), is registered and Unfetched: an
+- **Edmondson 1996**, [LIT-1823](../literature.d/LIT-1823.md), is registered and Unfetched: an
   author's upload is located and could not be fetched. By later citations
   of it, it is where Edmondson found that the units with more recorded
   drug errors were those whose climate made errors safe to report. If the
   reading bears that out, it is the nearest observation the record can
   reach of control suppressing disclosure, the effect A42's translation
   predicts ("Less disclosure of near misses"). It is unverified here.
-- **The RefraMED monograph**, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md) ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), agrees with
+- **The RefraMED monograph**, [LIT-1838](../literature.d/LIT-1838.md) ([NOTE-1421](../notes.d/NOTE-1421.md)), agrees with
   the earlier note that the change that persisted was on inflexibility and
   emotional coping while the change on depression did not. On its own
   analysis those changes were significant from 7 months, where the BJP

@@ -2,7 +2,7 @@
 
 # Lines of work
 
-82 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+84 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -103,6 +103,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-323](../record/literature.d/LIT-323.md) — Toy Models of Superposition *(Active)*
   - [LIT-1625](../record/literature.d/LIT-1625.md) — Polysemanticity and Capacity in Neural Networks *(Active)*
+
+### From Multi-Level Cause-Effect Systems
+
+- [LIT-1833](../record/literature.d/LIT-1833.md) — Multi-Level Cause-Effect Systems *(Active)*
+  - [LIT-1834](../record/literature.d/LIT-1834.md) — Causal feature learning: an overview *(Active)*
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
@@ -245,6 +250,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-1129](../record/literature.d/LIT-1129.md) — Dynamical Reversibility and A New Theory of Causal Emergence based on SVD *(Active)*
   - [LIT-1136](../record/literature.d/LIT-1136.md) — Causal Emergence 2.0: Quantifying emergent complexity *(Active)*
     - [LIT-1123](../record/literature.d/LIT-1123.md) — Engineering Emergence *(Active)*
+  - [LIT-1843](../record/literature.d/LIT-1843.md) — Causal emergence is widespread across measures of causation *(Active)*
 
 ### From Attribution Patching: Activation Patching At Industrial Scale
 
@@ -267,6 +273,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1554](../record/literature.d/LIT-1554.md) — Transcoders Find Interpretable LLM Feature Circuits *(Active)*
   - [LIT-1552](../record/literature.d/LIT-1552.md) — Circuit Tracing: Revealing Computational Graphs in Language Models *(Active)*
+
+### From Multi-Level Cause-Effect Systems
+
+- [LIT-1833](../record/literature.d/LIT-1833.md) — Multi-Level Cause-Effect Systems *(Active)*
+  - [LIT-1834](../record/literature.d/LIT-1834.md) — Causal feature learning: an overview *(Active)*
 
 ## cognition
 
@@ -350,11 +361,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-1129](../record/literature.d/LIT-1129.md) — Dynamical Reversibility and A New Theory of Causal Emergence based on SVD *(Active)*
   - [LIT-1136](../record/literature.d/LIT-1136.md) — Causal Emergence 2.0: Quantifying emergent complexity *(Active)*
     - [LIT-1123](../record/literature.d/LIT-1123.md) — Engineering Emergence *(Active)*
+  - [LIT-1843](../record/literature.d/LIT-1843.md) — Causal emergence is widespread across measures of causation *(Active)*
 
 ### From The dynamic architecture of emotion: Evidence for the component process model
 
 - [LIT-1446](../record/literature.d/LIT-1446.md) — The dynamic architecture of emotion: Evidence for the component process model *(Unavailable)*
   - [LIT-1451](../record/literature.d/LIT-1451.md) — Emotions are emergent processes: they require a dynamic computational architecture *(Active)*
+
+### From Multi-Level Cause-Effect Systems
+
+- [LIT-1833](../record/literature.d/LIT-1833.md) — Multi-Level Cause-Effect Systems *(Active)*
+  - [LIT-1834](../record/literature.d/LIT-1834.md) — Causal feature learning: an overview *(Active)*
 
 ### From An Organizational Account of Biological Functions
 
@@ -988,6 +1005,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-1627](../record/literature.d/LIT-1627.md) — Stick-breaking Construction for the Indian Buffet Process *(Active)*
 - [LIT-1628](../record/literature.d/LIT-1628.md) — Factorial Hidden Markov Models *(Active)*
 
+### From Multi-Level Cause-Effect Systems
+
+- [LIT-1833](../record/literature.d/LIT-1833.md) — Multi-Level Cause-Effect Systems *(Active)*
+  - [LIT-1834](../record/literature.d/LIT-1834.md) — Causal feature learning: an overview *(Active)*
+
 ### From Life as we know it
 
 - [LIT-526](../record/literature.d/LIT-526.md) — Life as we know it *(Active)*
@@ -1260,6 +1282,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-750](../record/literature.d/LIT-750.md) — "Exit, Voice, and Loyalty": Further Reflections and a Survey of Recent Contributions *(Active)*
 
 ## society-and-governance
+
+### From Noem v. Abrego Garcia
+
+- [LIT-1606](../record/literature.d/LIT-1606.md) — Noem v. Abrego Garcia *(Active)*
+  - [LIT-1841](../record/literature.d/LIT-1841.md) — Abrego Garcia v. Noem, Order Granting Expedited Discovery (D. Md., ECF No. 79) *(Active)*
 
 ### From The Impossibility of a Paretian Liberal
 

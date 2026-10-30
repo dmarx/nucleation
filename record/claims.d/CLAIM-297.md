@@ -46,7 +46,7 @@ history:
   note: >-
     Note of 2026-10-29 added: DeMarzo, Vayanos and Zwiebel 2001,
     which the earlier note calls not registered, is registered and
-    Unavailable (LIT-tmpapuas). The claim is unchanged.
+    Unavailable (LIT-1825). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -90,7 +90,7 @@ bears_on:
 - QUESTION-100
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-280 CLAIM-281 CLAIM-285 CLAIM-288 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-tmpapuas — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1825 — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
 
 # CLAIM-297: When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
 
@@ -206,7 +206,7 @@ claim is unchanged.
 DeMarzo, Vayanos and Zwiebel 2001, "Social Networks and Financial
 Markets", which the earlier note of this date calls not registered and
 says should be read before the loop is called new, is now registered as
-[LIT-tmpapuas](../literature.d/LIT-tmpapuas.md). It is Unavailable: no copy of the working paper was found.
+[LIT-1825](../literature.d/LIT-1825.md). It is Unavailable: no copy of the working paper was found.
 So that condition stays unmet. The description in [LIT-1134](../literature.d/LIT-1134.md) leaves one
 difference open. In this claim an operator's authority is scored against
 the interpretation it helped make dominant. In the companion, as

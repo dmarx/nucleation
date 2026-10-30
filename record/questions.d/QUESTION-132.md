@@ -22,7 +22,7 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: in the symmetric potential case the
-    invasion graph is acyclic (THEORY-tmplmes0); Ito and Kaneko a
+    invasion graph is acyclic (THEORY-1168); Ito and Kaneko a
     candidate case, not evidence; Chesson 1990 Unfetched and 1994
     Unavailable. The question is unchanged.
 tags:
@@ -48,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-277 CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; Chesson's stabilizing mechanisms, cited as the source of the first outcome's name, not reached, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-tmpdoqmq LIT-tmpf923j — Unfetched and Unavailable since 2026-10-29; Chesson 1990 and 1994, cited in the note of that date as not read, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1826 LIT-1827 — Unfetched and Unavailable since 2026-10-29; Chesson 1990 and 1994, cited in the note of that date as not read, nothing here rests on them -->
 
 # QUESTION-132: Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?
 
@@ -230,15 +230,15 @@ unread, is now Unavailable. The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: acyclic in the potential case, a candidate case, and Chesson registered
 
-- **The potential case.** [THEORY-tmplmes0](../theory.d/THEORY-tmplmes0.md) (Active), from Serván and
-  Allesina, [LIT-tmp8en4t](../literature.d/LIT-tmp8en4t.md) ([NOTE-tmpwunhc](../notes.d/NOTE-tmpwunhc.md)): with a symmetric interaction
+- **The potential case.** [THEORY-1168](../theory.d/THEORY-1168.md) (Active), from Serván and
+  Allesina, [LIT-1824](../literature.d/LIT-1824.md) ([NOTE-1422](../notes.d/NOTE-1422.md)): with a symmetric interaction
   matrix, rᵀx strictly increases along every edge of Hofbauer and
   Schreiber's invasion graph, so the graph has no cycles. In that class
   the second condition the earlier note of this date adds, that signs
   decide only if the invasion graph is acyclic, is met automatically.
   Cycles among roles need asymmetry, or a resource that can be excluded
   (the chapter's §3.5.4).
-- **Ito and Kaneko**, [LIT-tmpwxstp](../literature.d/LIT-tmpwxstp.md) ([NOTE-tmp2xl62](../notes.d/NOTE-tmp2xl62.md)). Identical chaotic
+- **Ito and Kaneko**, [LIT-1842](../literature.d/LIT-1842.md) ([NOTE-1414](../notes.d/NOTE-1414.md)). Identical chaotic
   units with similarity-reinforced, normalized attention split into a core
   and a periphery. That looks like the third outcome, entrenched
   asymmetry, more than stabilizing coexistence: membership in the core is
@@ -248,9 +248,9 @@ unread, is now Unavailable. The question is unchanged and stays Open.
   it is a candidate case for this question's classification, not evidence
   for one outcome. Removing core units and seeing whether the periphery
   refills the core would decide it cheaply.
-- **Chesson.** His 1994 paper, [LIT-tmpf923j](../literature.d/LIT-tmpf923j.md), whose "−i community" Hofbauer
+- **Chesson.** His 1994 paper, [LIT-1827](../literature.d/LIT-1827.md), whose "−i community" Hofbauer
   and Schreiber make rigorous, is registered and Unavailable. His 1990
-  paper on MacArthur's consumer–resource model, [LIT-tmpdoqmq](../literature.d/LIT-tmpdoqmq.md), is
+  paper on MacArthur's consumer–resource model, [LIT-1826](../literature.d/LIT-1826.md), is
   registered and Unfetched: the author's reprint is located and could not
   be fetched. The first outcome's name still rests on no reading of
   Chesson.

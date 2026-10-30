@@ -39,7 +39,7 @@ summary: >-
 illustrated_by:
 - CASE-098
 ---
-<!-- inactive-ok-file: LIT-tmpuf1d1 LIT-tmpfckfc — Unavailable since 2026-10-29; the two Flack 2006 papers, cited in the note of that date as not reached, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1840 LIT-1828 — Unavailable since 2026-10-29; the two Flack 2006 papers, cited in the note of that date as not reached, nothing here rests on them -->
 # CLAIM-327: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 
 ## The claim
@@ -168,12 +168,12 @@ Two of the earlier studies Flack 2012 argues the second stage from are now
 registered, and both are Unavailable: no lawful copy was reached.
 
 - **Flack and Krakauer 2006**, "Encoding power in communication networks",
-  [LIT-tmpuf1d1](../literature.d/LIT-tmpuf1d1.md), which builds the power measure from the signalling network
+  [LIT-1840](../literature.d/LIT-1840.md), which builds the power measure from the signalling network
   and relates it to how others solicit and accept intervention. Whether it
   shows members conditioning on the consensus rather than on the signals
   themselves turns on its methods.
 - **Flack, Girvan, de Waal and Krakauer 2006**, "Policing stabilizes
-  construction of social niches in primates", [LIT-tmpfckfc](../literature.d/LIT-tmpfckfc.md), the knockout
+  construction of social niches in primates", [LIT-1828](../literature.d/LIT-1828.md), the knockout
   of policing that Flack 2012 rests part of its argument on, and the one
   intervention in the literature this claim draws on.
 

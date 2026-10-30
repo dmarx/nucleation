@@ -41,17 +41,17 @@ history:
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: Eberhardt and Lee read
-    (NOTE-tmp0q96y); EI's family of interventions passes
+    (NOTE-1413); EI's family of interventions passes
     coarse-grainings that fail A21's admissibility condition. The
     question is unchanged.
 - version: 7
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added: causal feature learning read
-    (NOTE-tmpiw2bv, NOTE-tmpbrnim), a further macrostate
+    (NOTE-1420, NOTE-1415), a further macrostate
     criterion; it parts from EI on Eberhardt and Lee's (14) and
     note 6, and agrees with EI under a common distribution
-    (THEORY-tmpyfcov). The question is unchanged.
+    (THEORY-1169). The question is unchanged.
 tags:
 - individuation
 - information-theory
@@ -233,7 +233,7 @@ The question is unchanged and stays Open.
 A21's condition, in the note of 2026-10-18, C_*(P_ℓ^{do(a)}) = P_L^{do(ā)}
 for a declared family of interventions, puts Eberhardt and Lee's demands
 of commutativity and unambiguous manipulation in one line. Their paper,
-[LIT-tmpr2bnp](../literature.d/LIT-tmpr2bnp.md), is now read ([NOTE-tmp0q96y](../notes.d/NOTE-tmp0q96y.md)). It shows that EI's family,
+[LIT-1839](../literature.d/LIT-1839.md), is now read ([NOTE-1413](../notes.d/NOTE-1413.md)). It shows that EI's family,
 uniform averages over realizers, passes coarse-grainings that fail both.
 In their (14), EI merges two states whose effects on the macro effect
 variable differ (0.8/0.2 against 0.9/0.1). In their (17), the partition is
@@ -244,22 +244,22 @@ the criterion alone does not license the level it picks.
 
 On where effective information parts from the other criteria: under one
 distribution over micro states at both levels, EI cannot favour a macro at
-all ([THEORY-tmphfpe7](../theory.d/THEORY-tmphfpe7.md)). Its macro advantage is a property of the
+all ([THEORY-1167](../theory.d/THEORY-1167.md)). Its macro advantage is a property of the
 distribution chosen at each level.
 
 The question is unchanged and stays Open.
 
 ## Note of 2026-10-29: causal feature learning, a further macrostate criterion
 
-Causal feature learning, [LIT-tmplfiq6](../literature.d/LIT-tmplfiq6.md) ([NOTE-tmpiw2bv](../notes.d/NOTE-tmpiw2bv.md)) and [LIT-tmpmefe6](../literature.d/LIT-tmpmefe6.md)
-([NOTE-tmpbrnim](../notes.d/NOTE-tmpbrnim.md)), is a further candidate for the macrostate leg, and it
+Causal feature learning, [LIT-1833](../literature.d/LIT-1833.md) ([NOTE-1420](../notes.d/NOTE-1420.md)) and [LIT-1834](../literature.d/LIT-1834.md)
+([NOTE-1415](../notes.d/NOTE-1415.md)), is a further candidate for the macrostate leg, and it
 parts from effective information on one system. It partitions causes by
 P(Y | do(x)) and effects by their columns, two partitions where Hoel's EI
 coarsens cause and effect by one. On Eberhardt and Lee's (14), EI picks
 {x₁, x₂}, {x₃} and causal feature learning the micro. On their note 6,
 causal feature learning merges x₂ and x₃, whose rows are identical, and
 EI's shared partition cannot. Under one distribution at both levels the
-two agree on which coarse-grainings lose nothing ([THEORY-tmpyfcov](../theory.d/THEORY-tmpyfcov.md)), so the
+two agree on which coarse-grainings lose nothing ([THEORY-1169](../theory.d/THEORY-1169.md)), so the
 disagreement belongs to the uniform distribution at each level, as the
 earlier note of this date found for EI's macro advantage.
 

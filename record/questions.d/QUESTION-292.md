@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-29'
   note: >-
-    Note of 2026-10-29 added: the RefraMED monograph (NOTE-tmpswlra)
+    Note of 2026-10-29 added: the RefraMED monograph (NOTE-1421)
     as a worked case of THEORY-053's standard, met on neither leg.
     The answer is unchanged.
 tags:
@@ -60,7 +60,7 @@ disorder meets the standard, and so is a protective lock-in, remains
 
 ## Note of 2026-10-29: a trial that looked for the link
 
-The RefraMED monograph, [LIT-tmpqiicn](../literature.d/LIT-tmpqiicn.md) ([NOTE-tmpswlra](../notes.d/NOTE-tmpswlra.md)), is a worked case of
+The RefraMED monograph, [LIT-1838](../literature.d/LIT-1838.md) ([NOTE-1421](../notes.d/NOTE-1421.md)), is a worked case of
 the answer's two legs. Its causal mechanism analyses were meant as the
 evidence [THEORY-053](../theory.d/THEORY-053.md) asks for, and they meet neither leg. On specificity,
 the mediators are sessions attended, alliance and DBT skills, of which

@@ -106,7 +106,7 @@ The claim is unchanged.
 
 ## Note of 2026-10-29: the remand order reads "facilitate" as one member's share
 
-The district court's order on remand, [LIT-tmpw3c17](../literature.d/LIT-tmpw3c17.md) ([NOTE-tmpdnf6p](../notes.d/NOTE-tmpdnf6p.md)), says
+The district court's order on remand, [LIT-1841](../literature.d/LIT-1841.md) ([NOTE-1417](../notes.d/NOTE-1417.md)), says
 what "facilitate" required of one member of a two-state arrangement: its
 own share, the steps "available to them" toward a release that El Salvador
 would carry out, by the means its past practice shows (requests,

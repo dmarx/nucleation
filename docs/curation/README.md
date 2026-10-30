@@ -6,6 +6,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [29 Oct 23:18 — The two candidate readings: causal feature learning read, with a THEORY joining it to effective information; Cernat 2011 is not the test it was named for](2026-10.md#the-two-candidate-readings-causal-feature-learning-read-with-a-theory-joining-it-to-effective-information-cernat-2011-is-not-the-test-it-was-named-for)
+- [29 Oct 22:38 — The triage's File tier registered and read: 8 of 18 reached, 2 THEORYs, THEORY-787's defeater met for effective information](2026-10.md#the-triages-file-tier-registered-and-read-8-of-18-reached-2-theorys-theory-787s-defeater-met-for-effective-information)
+- [29 Oct 20:59 — Triage of the 162 works the readings of 2026-10-29 named and did not register: 18 to file, 59 to consider, 85 to skip](2026-10.md#triage-of-the-162-works-the-readings-of-2026-10-29-named-and-did-not-register-18-to-file-59-to-consider-85-to-skip)
 - [29 Oct 12:02 — The copies the first deferred-LIT pass turned down: nine works read under ADR-064, one Unfetched](2026-10.md#the-copies-the-first-deferred-lit-pass-turned-down-nine-works-read-under-adr-064-one-unfetched)
 - [29 Oct 10:42 — The 99 Deferred LITs searched for lawful copies: 51 read in full, 3 skimmed, 14 Unfetched, 31 Unavailable](2026-10.md#the-99-deferred-lits-searched-for-lawful-copies-51-read-in-full-3-skimmed-14-unfetched-31-unavailable)
 - [29 Oct 09:16 — The works registered from the exchange "Paper assessment", Goguen and Burstall's Institutions from the owner's copy, and Nicholson on Paul Weiss: twenty-five read in full, thirty-nine THEORYs, and what the readings changed in the record's own entries](2026-10.md#the-works-registered-from-the-exchange-paper-assessment-goguen-and-burstalls-institutions-from-the-owners-copy-and-nicholson-on-paul-weiss-twenty-five-read-in-full-thirty-nine-theorys-and-what-the-readings-changed-in-the-records-own-entries)
@@ -151,9 +154,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-189 entries across 2 books, newest first.
+192 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 142 | 2026-10-01 | 2026-10-29 |
+| [2026-10](2026-10.md) | 145 | 2026-10-01 | 2026-10-29 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

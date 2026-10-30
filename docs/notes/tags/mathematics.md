@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-241 of 1412 NOTE documents. Back to the [full index](../README.md).
+242 of 1422 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -249,3 +249,4 @@
 | [NOTE-1379](../../../record/notes.d/NOTE-1379.md) | Hofbauer and Schreiber — Permanence via invasion graphs | For ecological ODEs whose invasion growth rates have well-defined, nonzero signs on each subcommunity, it defines the invasion graph (edges S → T when every species in T but not S can invade S and every species lost cannot invade T) and proves that when the graph is acyclic, robust permanence holds if, and essentially only if, each species i has a positive invasion growth rate at every −i community. With cycles, signs are not enough. | Read |
 | [NOTE-1395](../../../record/notes.d/NOTE-1395.md) | Mehta, Cui, Wang and Marsland — Constrained optimization as ecological dynamics | Any minimization of f(R) over R ≥ 0 under constraints g_i(R) ≤ 0 has the KKT points of a consumer–resource dynamics as its steady states: variables are resources, each constraint is a species whose abundance is its Lagrange multiplier, and binding constraints are the surviving species. For quadratic programs the dynamics is MacArthur's model, and the Lagrangian dual is a generalized Lotka–Volterra system. A cavity solution then gives the statistics of random quadratic programs, in agreement with numerics at M = 100. | Read |
 | [NOTE-1401](../../../record/notes.d/NOTE-1401.md) | Désidéri — Multiple-gradient descent algorithm (MGDA) | Defines Pareto-stationarity (some convex combination of the criteria's gradients is zero), proves it necessary for Pareto-optimality, and shows that when it fails the minimum-norm element ω of the gradients' convex hull gives a direction −ω along which every criterion decreases, with (u, ω) ≥ ‖ω‖² for every u in the hull. Steepest descent along −ω, the MGDA, has a subsequence converging to a Pareto-stationary point when the criteria are positive and coercive. The direction depends on how the gradients are scaled; the author calls the right scaling open. | Read |
+| [NOTE-1422](../../../record/notes.d/NOTE-1422.md) | Serván and Allesina — Tractable models of ecological assembly | For competitive Lotka–Volterra communities with A = D(v)BD(w), B symmetric with positive entries, assembled by rare, low-density, well-separated invasions, MacArthur's Lyapunov function V orders the feasible sub-communities, so the assembly graph is acyclic and every feasible sub-community can be assembled without extinctions; with the paper's Theorem 1 this makes sequential and all-at-once assembly reach the same end-points. One end-point when B is positive definite, several when it is not. | Read |
