@@ -151,8 +151,8 @@ Aizawa ([LIT-455](../literature.d/LIT-455.md)) name the step a fallacy, and thei
 nerve and the muscle: coupled, and not part of each other.
 
 Coordination dynamics offers a different kind of criterion. In HKB
-(THEORY-tmp1drab, the model and its reported fluctuations, read first-hand;
-the general account is THEORY-069), two effectors coupled strongly enough stop being described
+([THEORY-tmp1drab](../theory.d/THEORY-tmp1drab.md), the model and its reported fluctuations, read first-hand;
+the general account is [THEORY-069](../theory.d/THEORY-069.md)), two effectors coupled strongly enough stop being described
 well by their separate states. The pair has a collective variable, relative
 phase, with its own attractors, its own critical fluctuations and its own
 switch. Kelso extends this to person–person and person–machine coordination

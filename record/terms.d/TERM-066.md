@@ -202,10 +202,10 @@ would need.
 ## Note of 2026-10-30: what holds it back
 
 The choice between the fidelity-relative sense taken here and the
-purpose-relative institutional sense is unmade, and QUESTION-087, which
+purpose-relative institutional sense is unmade, and [QUESTION-087](../questions.d/QUESTION-087.md), which
 would supply the standard, is Open. The uses still do not say which sense
-they mean. CLAIM-404 uses "capture" mostly in the institutional sense.
-CLAIM-330, CLAIM-340, CLAIM-359 and CLAIM-277 use the word without naming a
-sense, and CLAIM-359 also uses A41's "adversarial" and "endogenous authority
-capture". CLAIM-404's revision of 2026-10-30 corrected a parenthetical on
-THEORY-852's status and changed none of its uses.
+they mean. [CLAIM-404](../claims.d/CLAIM-404.md) uses "capture" mostly in the institutional sense.
+[CLAIM-330](../claims.d/CLAIM-330.md), [CLAIM-340](../claims.d/CLAIM-340.md), [CLAIM-359](../claims.d/CLAIM-359.md) and [CLAIM-277](../claims.d/CLAIM-277.md) use the word without naming a
+sense, and [CLAIM-359](../claims.d/CLAIM-359.md) also uses A41's "adversarial" and "endogenous authority
+capture". [CLAIM-404](../claims.d/CLAIM-404.md)'s revision of 2026-10-30 corrected a parenthetical on
+[THEORY-852](../theory.d/THEORY-852.md)'s status and changed none of its uses.

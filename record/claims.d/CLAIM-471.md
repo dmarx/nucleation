@@ -323,7 +323,7 @@ it does not itself produce ([CLAIM-143](CLAIM-143.md)). Such a case, or narrowin
 Defeater (b) is still unanswered. No held case checks a correspondence that
 measurement establishes against evidence it does not itself produce: Singer's
 are validated only by cycle consistency under a noise model, and Robinson's
-are trusted. CLAIM-143 is now Active as narrowed (2026-10-30), to assessment
+are trusted. [CLAIM-143](CLAIM-143.md) is now Active as narrowed (2026-10-30), to assessment
 relative to a specified class of admissible correspondences, independently
 validated; that firms the standard and supplies no case. The remaining way
 out is to narrow "establish" to "estimate", in the title and in defeater (b).

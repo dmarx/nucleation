@@ -187,7 +187,7 @@ question whether the proposal holds, and its `promote_when`.
 Neither promotion result is held. There is no fit of the EVC computation in
 which control intensity tracks payoff and cost better than a model without
 the cost term, and no dACC/lateral-PFC dissociation of specifying from
-implementing beyond the cingulotomy half-result. CLAIM-159 went Active on
-2026-10-29 on THEORY-1110, the proposal split off; that bears on what the
+implementing beyond the cingulotomy half-result. [CLAIM-159](../claims.d/CLAIM-159.md) went Active on
+2026-10-29 on [THEORY-1110](THEORY-1110.md), the proposal split off; that bears on what the
 paper proposes, not on whether it holds. The title asserts the thesis, not
-a report of it, so it keeps its condition (ADR-065 §6).
+a report of it, so it keeps its condition ([ADR-065](../decisions.d/ADR-065.md) §6).

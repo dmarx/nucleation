@@ -206,7 +206,7 @@ of relaxation time before the switch, predicted in [LIT-1851](../literature.d/LI
 Scholz, Kelso and Schöner 1987 (Physics Letters A 123:390), which is not
 filed; and hysteresis, which HKB 1985 reports from Kelso's earlier
 experiments without data. The switch's direction and the critical
-fluctuations are now read first-hand ([LIT-1851](../literature.d/LIT-1851.md)). What CLAIM-172
-needs of it, the model and the fluctuations, is split off as THEORY-tmp1drab,
-Active. A further split frees nothing: ARG-016 rests on CLAIM-169,
+fluctuations are now read first-hand ([LIT-1851](../literature.d/LIT-1851.md)). What [CLAIM-172](../claims.d/CLAIM-172.md)
+needs of it, the model and the fluctuations, is split off as [THEORY-tmp1drab](THEORY-tmp1drab.md),
+Active. A further split frees nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md),
 Proposed.

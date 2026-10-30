@@ -234,6 +234,6 @@ No result that `promote_when` names is held. There is no dissociation of
 regulation from generation, no measured regulation without a competing
 concern, and no evidence that reappraisal works through a competing
 readiness or that effortless regulation spares the control networks. Gross
-and Barrett (2011) is still unfiled. THEORY-871 was revised on 2026-10-30
-only in its edge to CLAIM-412, which became corroborates (ADR-058), and its
+and Barrett (2011) is still unfiled. [THEORY-871](THEORY-871.md) was revised on 2026-10-30
+only in its edge to [CLAIM-412](../claims.d/CLAIM-412.md), which became corroborates ([ADR-058](../decisions.d/ADR-058.md)), and its
 result still fits either account.
