@@ -1,0 +1,270 @@
+---
+status: Read
+paper: LIT-tmpg0s3y
+title: 'Schroeder & Prentice — Exposing pluralistic ignorance'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Read in full on 2026-10-30 from a copy of the published article on
+    Stanford SPARQ's site
+    (https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/schroeder_prentice_1998_-_exposing_pluralistic_ignorance.pdf,
+    31 pages), Wiley's download of JASP 28(23), pp. 2150–2180, with a
+    text layer. Checked as the work: title, both authors, journal,
+    volume and pages match Crossref. Text extracted with pdftotext.
+    Read: the abstract, introduction, method, results, discussion,
+    footnotes 1–14, Tables 1–3 and the appendix of discussion questions.
+    Figure 1 was read from its caption and the text's description of
+    it; the plotted values were not read. The reference list was
+    skimmed. Prentice and Miller 1993 (LIT-1370) was not read: what this
+    note says of it is this paper's account.
+date: '2026-10-30'
+summary: >-
+  First-year students who heard, in a peer-led discussion, that peers are
+  privately less comfortable with campus drinking than they seem reported
+  drinking less months later than students given a decision-making
+  discussion. Their estimates of peer comfort did not differ by
+  condition: the authors infer that the correction weakened the norm's
+  force, not its content. Men closed the self–other gap by revising their
+  view of others, not their own attitude, the reverse of the 1993 result
+  this paper restates.
+---
+<!-- inactive-ok-file: CLAIM-415 THEORY-242 — Proposed; the claim this reading bears on and the reading it sits beside, cited as open -->
+<!-- inactive-ok-file: LIT-1370 — Unavailable; Prentice and Miller 1993, known here only as this paper reports it -->
+
+# NOTE-tmpjgs12: Schroeder & Prentice — Exposing pluralistic ignorance
+
+## Contribution
+
+It turned pluralistic ignorance about drinking from a finding into an
+intervention and tested it in the field. Entering students who learned of
+the gap between private and attributed comfort reported drinking less four
+to six months later. It also asked how the intervention worked. The answer
+was not that students came to think peers approved of less drinking. It
+was that their perception of peers stopped governing their drinking
+through fear of others' judgement.
+
+## Key insight
+
+A norm that everyone privately doubts can still bind, because each person
+thinks the others endorse it, and thinks they endorse it uniformly. Showing
+people the doubt need not change what they think the norm is. It can free
+them from it by showing that the norm lacks the consensus that gives it
+force. The more consequential misperception may be of how unanimous the
+group is, not of where its average lies (pp. 2173–2174).
+
+## Assumptions
+
+- **The drinking norm is injunctive.** It concerns what students think is
+  appropriate, not how much they think others drink (p. 2154).
+- **Norms draw their force from perceived universal support** (Turner
+  1991; Asch): "the presence of even one alternative viewpoint in a group
+  sharply reduces the power of the group norm" (p. 2154).
+- **Fear of negative evaluation measures susceptibility to normative
+  influence.** The short-form FNE scale (Leary 1983), α = .90, was given
+  after the discussion, since giving it before might have primed
+  evaluative concerns. Condition did not affect it (fn. 9).
+- **Self-reported drinking is valid.** The authors cite sensible relations
+  with known correlates and no relation between reported drinking and FNE
+  (fn. 6).
+- **The individual-oriented discussion is a neutral comparison.** There
+  was no untreated control, on the university's ethical objection (fn. 3).
+  The authors grant that the same pattern would follow if the
+  individual-oriented discussion "heightened concern with drinking"
+  (fn. 13).
+
+## Key results
+
+- **Sample (pp. 2155–2157).** 452 first-year students in RA groups from
+  four of Princeton's five residential colleges attended September
+  discussions (235 peer-oriented, 217 individual-oriented). Assignment was
+  by RA group, "systematically" balanced across nights and colleges.
+  143 completed the follow-up 4 to 6 months later: 66 peer-oriented (35
+  men, 31 women) and 77 individual-oriented (44 men, 33 women). Return did
+  not vary with condition, gender, ethnicity, comfort or FNE. Data
+  collection ended when a student-newspaper article described the
+  project (p. 2161).
+- **Manipulation (pp. 2160–2161, Appendix).** A 7-minute video of party
+  and drinking-game scenes, then a 20-minute peer-led discussion. The
+  peer-oriented groups were told the self–other discrepancy finding and
+  discussed why misperceptions arise. The individual-oriented groups
+  discussed responsible personal decisions.
+- **Drinking (pp. 2161–2162, Table 1).** Drinks per week (past week and a
+  typical week, averaged; r = .70) were 3.10 (SD 4.15) in the
+  peer-oriented condition against 5.05 (SD 6.70) in the individual-oriented
+  condition. By gender: women 2.29 against 4.02, men 3.81 against 5.81.
+  Condition F(1, 137) = 3.80, p = .05. Abstention did not differ (21.2%
+  against 19.5%), so the difference is among drinkers.
+- **Pluralistic ignorance (pp. 2163–2165, Table 2).** On 11-point scales,
+  students rated their own comfort below the average student's in
+  September (6.98 against 7.76) and closer at follow-up (7.06 against
+  7.31): target × time F(1, 137) = 8.73. No interaction with condition
+  (all F < 1). So the intervention did not change the norm students
+  attributed to peers, and that cannot explain the drinking difference.
+- **The men's convergence, and its direction (pp. 2164–2165, 2171).**
+  Time × gender F(1, 137) = 4.60. Men's means went from 7.15 (self) and
+  7.87 (average student) to 7.05 and 7.12. The self–other gap closed
+  (time × target for men, F(1, 137) = 7.32), almost wholly through their
+  estimate of the average student. Women kept the gap: 6.76 and 7.63, then
+  7.08 and 7.54. The authors: "whereas Prentice and Miller's second-year
+  students reduced pluralistic ignorance by shifting their own comfort in
+  the direction of the average student's comfort, the first-year students
+  in this study tended to do the reverse" (p. 2165).
+- **Mechanism (pp. 2165–2169, Table 3, Figure 1).** A simultaneous
+  regression of drinking on gender, own comfort, average-student comfort,
+  condition, FNE and their interactions explained 39% of the variance. Own
+  comfort β = .60; average-student comfort (relative to own) β = −.25;
+  condition β = −.17; FNE × average-student comfort β = .27; the three-way
+  FNE × condition × average-student comfort β = −.25, t(129) = −1.98,
+  p = .05. In the individual-oriented condition, low-FNE students drank
+  less the more comfortable they took the average student to be, relative
+  to themselves. High-FNE students "uniformly drank at an above-average
+  level" (p. 2169). In the peer-oriented condition both groups showed the
+  low-FNE pattern. The result held among drinkers only, with less power
+  (fn. 11).
+- **The 1993 finding, as this paper states it (p. 2153).** "Prentice and
+  Miller (1993) ... found evidence for attitudinal conformity among male
+  students, who modified their private attitudes over time in the
+  direction of the position they mistakenly assumed to be held by the
+  average student." In a separate study both sexes showed alienation from
+  the university when they believed their attitudes deviant.
+- **Two explanations of the reversal, both labelled speculative
+  (p. 2172).** First-years may be less certain of peer opinion, with
+  estimates inflated by orientation stories and accounts of
+  pre-coeducation Princeton. Or campus sentiment may really have shifted
+  after years of university campaigns. Either way, "Men resolved the
+  discrepancy, and women retained it", and the men's resolution is
+  suspected to be "only temporary" (p. 2172).
+- **Uniformity, not location (pp. 2173–2174).** Students in the two
+  conditions may have rated the average student alike but represented
+  the distribution differently. Through discussion the peer-oriented
+  students learned "that different people feel differently", which
+  dispels "the illusion of universality (Allport, 1924) that gives peer
+  opinion its prescriptive force". So "their more consequential error may
+  be the underestimation of the variability of the group". Students feel
+  pressure "because they believe that they are outliers".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Exposing pluralistic ignorance to entering students reduces their drinking months later, relative to a decision-making discussion | weak to moderate | one field study, p = .05; self-report; 143 of 452 followed up; no untreated control |
+| C2 | The reduction is among drinkers, not more abstention | moderate | equal abstention rates (21.2% against 19.5%) |
+| C3 | The intervention did not change the comfort attributed to the average student | moderate | no condition effects on comfort ratings (all F < 1) |
+| C4 | Exposure reduced the norm's prescriptive strength: sensitivity to evaluation stopped moderating the link between perceived peer comfort and drinking | weak | one three-way interaction at p = .05, FNE measured after the manipulation, and the alternative in fn. 13 not excluded |
+| C5 | First-year men reduced pluralistic ignorance by revising their estimate of others, not their own attitude; women did not reduce it | moderate | gender × time and simple effects; Table 2 |
+| C6 | Prentice and Miller (1993) found men shifting their private attitudes toward the misperceived norm | as reported | restated (pp. 2153, 2165, 2171–2172), not reanalysed |
+| C7 | The more consequential misperception is of the group's variability, the illusion of universality | speculation | offered to explain C3 with C4; not measured |
+| C8 | Behavioural norms depend for their power on perceived private support, and revealing that support as illusory reduces their power without revising what they prescribe | weak; generalization | C3 and C4, from one study |
+
+## Concepts
+
+- **Pluralistic ignorance** — students "assume that their own private
+  attitudes are more conservative than are those of other students, even
+  though their public behavior is identical" (p. 2152, after Miller and
+  McFarland 1991). It involves two errors: misplacing the group's central
+  tendency and underestimating its variability (pp. 2173–2174).
+- **Illusion of universality** — overestimating how uniform others'
+  support for a norm is (Allport 1924; pp. 2152, 2173).
+- **Injunctive against descriptive norm** — what people approve of
+  against what they do (Cialdini, Kallgren & Reno 1991). The misperception
+  studied is of the injunctive norm (p. 2154).
+- **Level against prescriptive strength of a norm** — what a norm
+  prescribes against how much it compels. These are the two routes the
+  paper tests (p. 2154).
+
+## Connections
+
+It applies Prentice and Miller's 1993 programme, and Miller and
+McFarland's account of pluralistic ignorance, to an intervention.
+Prentice and Miller 1993 (LIT-1370), the source of the self–other
+measure used here, is unread in this record. Crandall's model of binge
+eating in sororities supplies the social-influence frame: behaviour is a
+function of social pressure and one's vulnerability to it (p. 2170).
+Perkins and Berkowitz's social-norms work is its neighbour. List's
+falsely attributed common attitudes (NOTE-554) cite Prentice and Miller
+as their example, and this paper is the record's first read account of
+that example.
+
+## Bearing on the record
+
+- **CLAIM-415: partly, and partly against its one named example.** The
+  claim names Prentice and Miller's men as its one example of private
+  change under a misperceived consensus. Its defeat condition counts as
+  defeat any finding that such effects are "fully explained as conformity
+  of expression, with no change in how the person interprets or organizes
+  their own activity, which is what Vilone and Polizzi's model and
+  Prentice and Miller's women show at most". This paper bears on that in
+  three ways.
+  - **The 1993 result is restated, not checked.** The paper says Prentice
+    and Miller's men "modified their private attitudes over time in the
+    direction of the position they mistakenly assumed to be held by the
+    average student" (p. 2153). That confirms what the claim attributes to
+    the 1993 paper, at second hand and from one of its authors. It is not
+    a reading of the 1993 data.
+  - **Its own data do not replicate the men's private shift.** First-year
+    men here closed the gap by moving their estimate of others toward
+    themselves (7.87 to 7.12), not their own comfort toward others (7.15
+    to 7.05). Women kept the gap, as in 1993. The authors explain the
+    difference by the first-years' weaker knowledge of peers or by a
+    change on campus, and expect the men's resolution to be "only
+    temporary". So the record's one cited case of private change is now
+    a result that its own authors' follow-up did not reproduce in a
+    different cohort. That weakens it as the claim's support.
+  - **What it does show is conduct, not belief, moved by an attributed
+    norm.** Months of self-reported drinking, not what students said in
+    public, tracked the comfort they attributed to peers. It did so in
+    proportion to their fear of others' judgement, and private attitudes
+    and attributed norms were the same across conditions (C3, C4). That
+    goes beyond "conformity of expression" in the narrow sense, since it
+    is how much people drank. But it is compliance, not reinterpretation:
+    the paper's mechanism is fear of censure, not a person organizing
+    their activity around the judgement. So on the claim's defeat
+    condition the paper sits between the two options, and the claim must
+    say which side conduct under normative pressure falls on.
+  - **Step 1's "false unity" has an empirical counterpart here.** The
+    paper's speculative conclusion is that a norm's force comes from its
+    perceived uniformity. It suggests the more consequential error is
+    "the underestimation of the variability of the group" (p. 2174). That
+    is close to the claim's "imagined social audience ... organized into
+    a false unity". In the paper it is a hypothesis to explain C3 with
+    C4, not a measured result.
+- **THEORY-242 and LIT-939.** Vilone and Polizzi's silenced majority
+  holds private beliefs fixed. This paper is a field case with private
+  attitudes unchanged by the intervention (C3) and conduct changed. It is
+  consistent with a misperceived public norm that governs conduct without
+  converting belief.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **No untreated control.** Both groups had an intervention. The authors
+  grant that the result is equally consistent with the
+  individual-oriented discussion raising concern with drinking (fn. 13).
+- **Attrition and assignment.** 143 of 452 were followed up, and
+  follow-up stopped when a newspaper article appeared. Assignment was by
+  RA group, so students were clustered in groups that shared a
+  discussion. The analysis treats students as independent.
+- **Self-report, between subjects only.** No baseline drinking was taken,
+  since it would not have been a valid baseline for first-years (fn. 5).
+  The effect rests on the between-condition comparison at follow-up.
+- **Thin significance.** The main effect is p = .05, the mechanism's
+  three-way interaction p = .05, and the drinking distributions are
+  skewed (SDs larger than means, interquartile ranges starting at 0).
+- **FNE measured after the manipulation.** No condition effect on it was
+  found (fn. 9), but its role as a pre-existing moderator is assumed.
+- **What the authors do not claim.** They say exposing pluralistic
+  ignorance is no "magic-bullet" (fn. 14), and both their explanations
+  of the reversal from 1993 are labelled speculative.
+
+## Open questions
+
+- Does the 1993 finding of private attitude change in second-year men
+  replicate? This paper's first-years moved the other way, and the paper
+  cannot tell cohort from campus change.
+- Is it the perceived variability of opinion that carries the effect?
+  The paper did not measure it. A measure of perceived dispersion,
+  before and after, would test C7.
+- Does the effect survive against an untreated control, with drinking
+  measured other than by self-report?
