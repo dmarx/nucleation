@@ -74,8 +74,8 @@ corroborates:
   whether the class is generalized ordinal or ordinal. Their definitions
   of the improvement relation differ too, which is why the statement waits
   on the original.
-- Apt (2013), *Potential Games*, lecture slides, LIT-tmpmz1an, read in full
-  in NOTE-tmp5wau0. Slide 15: "Theorem (Monderer and Shapley '96) Every
+- Apt (2013), *Potential Games*, lecture slides, [LIT-tmpmz1an](../literature.d/LIT-tmpmz1an.md), read in full
+  in [NOTE-tmp5wau0](../notes.d/NOTE-tmp5wau0.md). Slide 15: "Theorem (Monderer and Shapley '96) Every
   finite game has a generalized ordinal potential iff it has the FIP",
   (⇒) proved and (⇐) sketched by counting the improvement sequences
   ending at each profile. Its definitions agree with those below (its
@@ -161,8 +161,8 @@ the FIP ([NOTE-1116](../notes.d/NOTE-1116.md)).
 
 ## Note of 2026-10-30: what holds it back
 
-Its promote_when asks for Monderer and Shapley (LIT-1462) read first-hand,
+Its promote_when asks for Monderer and Shapley ([LIT-1462](../literature.d/LIT-1462.md)) read first-hand,
 for the lemma's number, page and wording, and that is still unmet: Apt
-(LIT-tmpmz1an) credits "Monderer and Shapley '96" with no lemma or page. The
+([LIT-tmpmz1an](../literature.d/LIT-tmpmz1an.md)) credits "Monderer and Shapley '96" with no lemma or page. The
 mathematics is proved here and Apt states the same equivalence for the same
 class; only the attribution's exact form waits.

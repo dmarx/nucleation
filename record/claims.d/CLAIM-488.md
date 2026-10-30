@@ -92,7 +92,7 @@ Wyner and Ziv.
 
 The first step's link is held: in the finite setting of [CLAIM-381](CLAIM-381.md), a
 deficiency of ε is exactly ε-approximation in every [0, 1]-loss problem
-(CLAIM-tmphhbgz), and ε = 0 is Blackwell's order (THEORY-717). For a family Q of
+([CLAIM-tmphhbgz](CLAIM-tmphhbgz.md)), and ε = 0 is Blackwell's order ([THEORY-717](../theory.d/THEORY-717.md)). For a family Q of
 tasks the deficiency restricted to Q is [CLAIM-381](CLAIM-381.md)'s finite computation,
 bounded by the unrestricted one; only the unrestricted one has the kernel
 form. The second step is the definition of a Wyner–Ziv problem, under the

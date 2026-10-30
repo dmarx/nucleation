@@ -38,12 +38,12 @@ grounds:
 summary: >-
   Le Cam's randomization criterion for finite experiments, uniform in the
   state, with losses in [0, 1]. The least ε for which some kernel brings M
-  within ε of N in total variation at every state, which CLAIM-381
+  within ε of N in total variation at every state, which [CLAIM-381](CLAIM-381.md)
   computes as a linear programme, equals the least ε for which M is
   ε-deficient relative to N in every finite decision problem. One
   direction composes N's rule with the kernel; the other is one minimax
   step over a bilinear objective. At ε = 0 it is the finite Blackwell
-  order (THEORY-717).
+  order ([THEORY-717](../theory.d/THEORY-717.md)).
 ---
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the empirical question this result leaves open, cited as open -->
 
@@ -56,7 +56,7 @@ P_θ ∈ Δ(X), and N is (Q_θ) with Q_θ ∈ Δ(Y). A kernel K sends X to Δ(Y)
 and (KP_θ)(y) = Σ_x K(y | x) P_θ(x). TV(p, q) = ½ Σ |p − q| =
 max over 0 ≤ h ≤ 1 of ⟨p − q, h⟩.
 
-- δ := min_K max_θ TV(KP_θ, Q_θ). This is CLAIM-381's linear programme,
+- δ := min_K max_θ TV(KP_θ, Q_θ). This is [CLAIM-381](CLAIM-381.md)'s linear programme,
   and the minimum is attained, the kernels forming a compact set.
 - D := the supremum, over finite action sets A, losses
   L : Θ × A → [0, 1] and rules δ_N : Y → Δ(A) for N, of
@@ -64,7 +64,7 @@ max over 0 ≤ h ≤ 1 of ⟨p − q, h⟩.
   R_θ(δ_M) = Σ_x P_θ(x) Σ_a δ_M(a | x) L(θ, a).
 
 M is ε-deficient relative to N, in the decision sense of Han's slide 11
-(LIT-tmp44f5w), exactly when D ≤ ε. The claim is D = δ.
+([LIT-tmp44f5w](../literature.d/LIT-tmp44f5w.md)), exactly when D ≤ ε. The claim is D = δ.
 
 **(i) D ≤ δ.** Take K\* attaining δ, and for any A, L and δ_N put
 δ_M = δ_N ∘ K\*, that is δ_M(a | x) = Σ_y δ_N(a | y) K\*(y | x). Then
@@ -92,18 +92,18 @@ Hence δ = min_K max_g f = max_g min_K f ≤ D, and with (i), D = δ. The
 supremum defining D is attained, at A = Y, δ_N the identity and the loss
 L\* = g\*/π\* from a maximising g\*. For losses in [0, c] the bound scales
 to cε. At ε = 0 this is the finite Blackwell–Sherman–Stein theorem
-(THEORY-717), a check on the statement.
+([THEORY-717](../theory.d/THEORY-717.md)), a check on the statement.
 
 The step Han's slide 15 leaves as "swap the inf and sup" is (b), with the
 conditions it needs: finite outcome sets, so that Y is an admissible
 action set and the rules form a compact convex set, and the bilinear form
-in the product π(θ)L(θ, a). van Rooyen's Theorem 26 (LIT-tmphckuv,
-NOTE-tmp9x3x4) proves the converse for one fixed prior; the uniform form
+in the product π(θ)L(θ, a). van Rooyen's Theorem 26 ([LIT-tmphckuv](../literature.d/LIT-tmphckuv.md),
+[NOTE-tmp9x3x4](../notes.d/NOTE-tmp9x3x4.md)) proves the converse for one fixed prior; the uniform form
 follows from it by exchanging the garbling with the prior, which is (b)
 and (c) again.
 
 **Checked numerically.** p21/claim488_lecam_converse.py (numpy only, with
-its own simplex) solves CLAIM-381's programme and, separately, the
+its own simplex) solves [CLAIM-381](CLAIM-381.md)'s programme and, separately, the
 programme for max_g min_K f. On 60 random experiments with |Θ|, |X| and
 |Y| from 2 to 4 they agree to 1.1 × 10⁻¹³, and on the single problem
 built from g\* no rule for M does better than δ uniformly. Its controls:
@@ -112,7 +112,7 @@ known answers (an uninformative experiment against the identity gives
 20,000 random kernels that never beat the programme, 600 random problems
 in which no optimal gap exceeds δ, and two negative controls (dropping
 the ½ is detected, and van Rooyen's bound fails for a signed loss as
-NOTE-tmp9x3x4 says). The uniform-prior average falls strictly below δ in
+[NOTE-tmp9x3x4](../notes.d/NOTE-tmp9x3x4.md) says). The uniform-prior average falls strictly below δ in
 50 of the 60 cases, so the check tells the fixed-prior result apart from
 the uniform one.
 
@@ -121,16 +121,16 @@ the uniform one.
 - Nothing for infinitely many states or infinite outcome sets, where the
   minimax step needs compactness arguments not given here.
 - Nothing for signed losses unless they are measured by their range: with
-  ‖L‖∞ the bound can be off by a factor of 2 (NOTE-tmp9x3x4).
+  ‖L‖∞ the bound can be off by a factor of 2 ([NOTE-tmp9x3x4](../notes.d/NOTE-tmp9x3x4.md)).
 - No kernel form for the deficiency restricted to a family Q of problems.
-  That is CLAIM-381's finite computation, and it is bounded by this one.
+  That is [CLAIM-381](CLAIM-381.md)'s finite computation, and it is bounded by this one.
 - Not that the deficiency tells rendering procedures apart, which is
-  CLAIM-228's empirical question.
+  [CLAIM-228](CLAIM-228.md)'s empirical question.
 
 ## Connections
 
-CLAIM-326 and CLAIM-380 state the Bayes-risk comparison for a stated
+[CLAIM-326](CLAIM-326.md) and [CLAIM-380](CLAIM-380.md) state the Bayes-risk comparison for a stated
 prior, and each says it does not state "the prior-free form or its exact
 relation to Le Cam's deficiency". This claim states that form for finite
 sets: the deficiency is the least ε by which every [0, 1]-loss problem
-can be matched at every state. CLAIM-488 rests on it.
+can be matched at every state. [CLAIM-488](CLAIM-488.md) rests on it.

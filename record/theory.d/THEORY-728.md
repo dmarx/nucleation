@@ -60,11 +60,11 @@ extended_by:
 ## Source
 
 Coifman, Lafon, Lee, Maggioni, Nadler, Warner & Zucker (2005), "Diffusion
-maps", *PNAS* 102(21), [LIT-981](../literature.d/LIT-981.md), read in full in NOTE-tmpjjdsb (2026-10-30),
+maps", *PNAS* 102(21), [LIT-981](../literature.d/LIT-981.md), read in full in [NOTE-tmpjjdsb](../notes.d/NOTE-tmpjjdsb.md) (2026-10-30),
 which replaces the skim of [NOTE-784](../notes.d/NOTE-784.md). The paper states the construction
 and the embedding and calls them standard. Its own diffusion distance is
 the one its symmetric kernel ã^(m) induces, with the eigenfunctions of ã as
-coordinates. The definitions below are the companion's (LIT-1246), in
+coordinates. The definitions below are the companion's ([LIT-1246](../literature.d/LIT-1246.md)), in
 particular the 1/π weighting of the diffusion distance, and the derivation
 is the record's.
 
@@ -107,8 +107,8 @@ holds.
   α = 1 normalization to the Laplace–Beltrami operator are [THEORY-565](THEORY-565.md)'s,
   Proposed until the companion paper's proofs are read.
 - **That the weighting is the paper's.** The 1/π weighting is the
-  companion's definition (LIT-1246). The paper's own distance, seen in
-  NOTE-tmpjjdsb, is induced by ã^(m) and has its own isometry in the
+  companion's definition ([LIT-1246](../literature.d/LIT-1246.md)). The paper's own distance, seen in
+  [NOTE-tmpjjdsb](../notes.d/NOTE-tmpjjdsb.md), is induced by ã^(m) and has its own isometry in the
   unrescaled coordinates. Without the weighting this identity does not
   hold.
 - **How many coordinates to keep.** That is set by a precision threshold,

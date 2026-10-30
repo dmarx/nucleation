@@ -81,11 +81,11 @@ corroborates:
 - Kelso (2021), "The Haken–Kelso–Bunz (HKB) model: from matter to movement
   to mind", [LIT-601](../literature.d/LIT-601.md), read in [NOTE-467](../notes.d/NOTE-467.md): §§2–4, Box 1 and the
   Appendix.
-- Haken, Kelso and Bunz (1985), [LIT-588](../literature.d/LIT-588.md), read in full in NOTE-tmp0jngz:
+- Haken, Kelso and Bunz (1985), [LIT-588](../literature.d/LIT-588.md), read in full in [NOTE-tmp0jngz](../notes.d/NOTE-tmp0jngz.md):
   the model's original statement, a theory paper with one simulation and
   no new data.
-- Kelso, Scholz and Schöner (1986), LIT-tmp8grr0, read in full in
-  NOTE-tmpegx3g: the first quantified report of critical fluctuations.
+- Kelso, Scholz and Schöner (1986), [LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md), read in full in
+  [NOTE-tmpegx3g](../notes.d/NOTE-tmpegx3g.md): the first quantified report of critical fluctuations.
 - *Dynamic Patterns* ([LIT-578](../literature.d/LIT-578.md)) is Unavailable; Schöner, Haken and Kelso
   (1986) and Scholz, Kelso and Schöner (1987) are not filed.
 
@@ -120,14 +120,14 @@ parameter. He quotes Haken that such fluctuations are hard to understand on
 a motor-programme account, which "does not allow any fluctuations". This is
 the result that could have come out otherwise: a stored programme switching
 on a cue predicts an abrupt change with no growth of variability before
-it. Kelso, Scholz and Schöner (LIT-tmp8grr0) show the fluctuations
+it. Kelso, Scholz and Schöner ([LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md)) show the fluctuations
 first-hand: the standard deviation of relative phase rises as anti-phase
 nears the switch and peaks in the transition, in wrist (30 runs, four
 subjects) and finger movements (ten runs, one representative subject), with
 no rise and no switch when the movement starts in-phase (Figs. 1–4); no
 statistical test is reported. Critical slowing is predicted there, not
 measured. The one fit of the stochastic theory read first-hand, Kelso,
-Scholz and Schöner 1988 (LIT-tmpupvec, NOTE-tmpswmu1), is of intended
+Scholz and Schöner 1988 ([LIT-tmpupvec](../literature.d/LIT-tmpupvec.md), [NOTE-tmpswmu1](../notes.d/NOTE-tmpswmu1.md)), is of intended
 switching, with one added parameter set to the order of magnitude and mean
 times above those observed.
 
@@ -188,10 +188,10 @@ read.
 ## Note of 2026-10-30: what holds it back
 
 Two of the promote_when's findings are still not read first-hand: the growth
-of relaxation time before the switch, predicted in LIT-tmp8grr0 and shown in
+of relaxation time before the switch, predicted in [LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md) and shown in
 Scholz, Kelso and Schöner 1987 (Physics Letters A 123:390), which is not
 filed; and hysteresis, which HKB 1985 reports from Kelso's earlier
 experiments without data. The switch's direction and the critical
-fluctuations are now read first-hand (LIT-tmp8grr0). A split would still
-free nothing: ARG-016 rests on CLAIM-169, and CLAIM-172 grounds on
-THEORY-265 and is objected to by CLAIM-165, all Proposed.
+fluctuations are now read first-hand ([LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md)). A split would still
+free nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md), and [CLAIM-172](../claims.d/CLAIM-172.md) grounds on
+[THEORY-265](THEORY-265.md) and is objected to by [CLAIM-165](../claims.d/CLAIM-165.md), all Proposed.

@@ -83,12 +83,12 @@ bears_on:
 ## The claim
 
 In sparse distributed memory a cue retrieves a stored pattern only from
-within a critical distance. Flynn, Kanerva and Bhadkamkar (LIT-tmp4sulg,
-pp. 15–16, read in NOTE-tmpwldwu) state it first-hand. A cue "closer than
+within a critical distance. Flynn, Kanerva and Bhadkamkar ([LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md),
+pp. 15–16, read in [NOTE-tmpwldwu](../notes.d/NOTE-tmpwldwu.md)) state it first-hand. A cue "closer than
 a certain critical distance" to a stored pattern is read to a vector
 closer still, so iterated reads converge on it. A cue beyond it gives "a
 diverging sequence that will wander through address space", which may
-fall into another pattern's "attracting zone". NOTE-242's reading of
+fall into another pattern's "attracting zone". [NOTE-242](../notes.d/NOTE-242.md)'s reading of
 [LIT-269](../literature.d/LIT-269.md) gives the same definition: "the largest query–target distance
 from which iterated reads still converge to the target". The report
 asserts the property and refers its derivation to Kanerva's book
@@ -131,7 +131,7 @@ Two further points follow from the models, both untested here:
   occur far below capacity too. "Many near-duplicate statements" names
   the closeness failure, not the load one. In SDM, load narrows the
   distance instead: "The greater the population of the memory, the
-  smaller the critical distance" (LIT-tmp4sulg, p. 15).
+  smaller the critical distance" ([LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md), p. 15).
 - **Silent redefinition.** A cue just outside one memory's basin can
   settle into a neighbouring memory. Read across, a restated term can be
   taken for a nearby, different term, and the argument continues on the
@@ -170,6 +170,6 @@ The test it proposes has not been run: no restatement in the reconstructed
 exchanges has had its distance from the original measured and set against
 whether it was re-derived as though new, and no count compares re-derivation
 of coded and uncoded items. Its premise [CLAIM-182](CLAIM-182.md) is Proposed for the same
-want. The critical distance no longer waits on a reading: LIT-tmp4sulg
+want. The critical distance no longer waits on a reading: [LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md)
 states it first-hand, and its derivation in Kanerva's book ([LIT-928](../literature.d/LIT-928.md)), still
 unread, is not something the claim uses.
