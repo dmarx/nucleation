@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmphfpe7
 title: 'When one intervention distribution over micro states is used at both levels, the effective information of a coarse-graining of a discrete mechanism, with each macro intervention realized by that distribution within its block, cannot exceed the micro effective information; so a positive causal emergence of effective information, scored with a uniform distribution at each level, equals the micro gain from changing the distribution minus a non-negative loss, and is a gain from the change of distribution'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-29'
@@ -20,6 +20,12 @@ history:
     paper's bipartite model. Comolatti and Hoel state the special case of
     the stationary distribution ("This was known"); the general statement
     and the decomposition are the record's. This meets ADR-047 v2.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    `corrects: THEORY-787` added, at the rejection of THEORY-787 on
+    2026-10-30 by its own refutation condition, which this result meets.
+    The result is unchanged.
 tags:
 - causality
 - information-theory
@@ -45,8 +51,10 @@ extends:
 - THEORY-222
 bears_on:
 - QUESTION-204
+corrects:
+- THEORY-787
 ---
-<!-- inactive-ok-file: THEORY-787 — Proposed; the causal thesis whose "in trouble if" clause this meets for EI, cited as open -->
+<!-- inactive-ok-file: THEORY-787 — Rejected on 2026-10-30; the causal thesis whose "in trouble if" clause this meets for EI, and which this corrects -->
 <!-- inactive-ok-file: QUESTION-204 — Open; the question whose first half this answers, cited as open -->
 
 # THEORY-1167: When one intervention distribution over micro states is used at both levels, the effective information of a coarse-graining of a discrete mechanism, with each macro intervention realized by that distribution within its block, cannot exceed the micro effective information; so a positive causal emergence of effective information, scored with a uniform distribution at each level, equals the micro gain from changing the distribution minus a non-negative loss, and is a gain from the change of distribution

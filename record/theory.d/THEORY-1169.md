@@ -50,7 +50,7 @@ extends:
 bears_on:
 - QUESTION-204
 ---
-<!-- inactive-ok-file: THEORY-787 — Proposed; the causal thesis this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-787 — Rejected on 2026-10-30; the causal thesis this bears on, cited as rejected -->
 <!-- inactive-ok-file: QUESTION-204 — Open; the question whose second half this bears on, cited as open -->
 
 # THEORY-1169: For a discrete mechanism scored with one full-support intervention distribution over micro causes at both levels, a coarse-graining of cause and effect keeps all of the micro effective information if and only if it merges only causes with identical rows P(Y | do(x)) and only effects with proportional columns, whatever the distribution; so the coarsest coarse-graining that ties the micro is the causal partition of causal feature learning, with effects grouped by normalized likelihood, and any merge of causes with different effects loses information under every such distribution

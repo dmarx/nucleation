@@ -15,9 +15,21 @@ number: 787
 # means on a practice: this status says whether the record believes the
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
-status: 'Proposed'
+status: 'Rejected'
 formerly:
 - THEORY-tmpfb136
+status_note: >-
+  Rejected on 2026-10-30, at the owner's direction, by its own refutation
+  condition: the macro advantage disappears whenever the same intervention
+  distribution over micro states is used at both levels. THEORY-1167 proves
+  this for a coarse-graining of one transition, by data processing, and
+  Comolatti and Hoel concede it (LIT-1843). The independent interventionist
+  test the promote_when asks for, causal feature learning (LIT-1833), can
+  confirm that a macro is proportionate but never that it beats the micro
+  (THEORY-1169). What the record holds instead is CLAIM-tmpxk5cy, by
+  ARG-tmp2wo7e. Hoel's temporal and spatio-temporal macros, which the bound
+  does not reach, are QUESTION-tmpzfd02. The arithmetic it rested on,
+  THEORY-222, stands.
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -29,7 +41,16 @@ promote_when: "A test of whether the macro advantage depends on the uniform inte
 # that the two agree.
 title: "A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information"
 
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Status Proposed → Rejected at the owner's direction of 2026-10-30
+    ("reject it and adopt the proportionality thesis"), on THEORY-1167 and
+    THEORY-1169; replaced in the record's voice by CLAIM-tmpxk5cy. The body
+    is unchanged: it is the account as filed, with its two dated notes of
+    2026-10-29.
 
 # One or more topics from luria.yaml, primary first — the same table the
 # reading list uses. Take the topic of what the account is about.
@@ -60,6 +81,7 @@ answers:
 - QUESTION-204
 ---
 <!-- inactive-ok-file: QUESTION-204 — Open; the question whose first half the note of 2026-10-29 reports answered, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpxk5cy ARG-tmp2wo7e QUESTION-tmpzfd02 — Proposed or Open; what replaces this account and the case it leaves, named in the status note -->
 
 
 # THEORY-787: A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
