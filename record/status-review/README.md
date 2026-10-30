@@ -66,11 +66,11 @@ the NOTEs on its sources. It proposes exact text and edits nothing.
   - A `promote_when` asks only for what the title asserts (ADR-065). A title
     that reports what a source proposes, argues or finds, or what one study
     measured with its hedges kept, goes Active on its reading; a demand for
-    replication, an independent test, or the version of record of a copy
-    already read (with no discrepancy named) moves to a QUESTION, or, where
-    the source asserts the wider thesis, to a Proposed THEORY that `extends`
-    the entry and keeps the old condition. A general title keeps its strict
-    condition.
+    replication or an independent test moves to a QUESTION, or, where the
+    source asserts the wider thesis, to a Proposed THEORY that `extends` the
+    entry and keeps the old condition. A demand for the version of record of
+    a copy already read is dropped unless a discrepancy is named; the NOTE
+    records which copy was read. A general title keeps its strict condition.
   - A checked, step-by-step re-derivation meets a request for a proof. Write
     it out, and put any computation in a script with controls that someone
     else re-runs before the ruling.
