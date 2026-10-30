@@ -31,6 +31,9 @@ HELD_DAYS = 14
 # A target filed with a concession already in its text says so, naming the objections:
 # "## Note of 2026-10-29: filed with its concessions". A version bump would record a revision
 # that never happened, and no rule over dates can tell such a target from an overstated one.
+# A sentence that names an objection only to say it is open, filed or given its converse edge
+# records the objection, not a revision for it (passes 18 and 19).
+MENTION_ONLY = re.compile(r"\bis open\b|\bconverse\b|filed as the objection")
 FILED_WITH = re.compile(r"^## Note of (\d{4}-\d{2}-\d{2}): filed with its concessions\n(.*?)(?=^## |\Z)", re.M | re.S)
 
 
@@ -136,7 +139,8 @@ class Record:
         """
         on = str(self.docs[objection].get("date", ""))
         revised = [str(h.get("date", "")) for h in self.docs[target].get("history") or []
-                   if isinstance(h, dict) and objection in str(h.get("note", ""))]
+                   if isinstance(h, dict) and any(objection in s and not MENTION_ONLY.search(s)
+                                                  for s in re.split(r"(?<=\.)\s+", str(h.get("note", ""))))]
         filed = [d for d, text in FILED_WITH.findall(self.bodies.get(target, "")) if objection in text]
         return any(d >= on for d in revised + filed)
 
