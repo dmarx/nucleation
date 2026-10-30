@@ -225,3 +225,15 @@ alone. [CLAIM-169](../claims.d/CLAIM-169.md) and [CLAIM-198](../claims.d/CLAIM-1
 condition is this account's first refutation clause, and [CLAIM-198](../claims.d/CLAIM-198.md) asserts
 that self-prediction creates the overlap. This entry keeps the question
 whether the proposal holds, and its `promote_when`.
+
+## Note of 2026-10-30: what holds it back
+
+No study the record holds meets `promote_when`. None varies only whether a
+single choice is perceived as a precedent, compares a precedent lapse with
+an equal forced or excepted lapse, or orders lapse districts after a first
+failure. Rung and Madden's review (NOTE-1440, skimmed 2026-10-30)
+reports, at second hand, that bundling reduces impulsive choice in humans
+and rats. Those bundles are imposed, a choice made for a whole series, which
+`promote_when` (1) sets aside. CLAIM-159 and CLAIM-344 went Active on
+2026-10-29, CLAIM-159 on THEORY-1117 and CLAIM-344 with this reading as
+corroboration, and neither bears on whether the mechanism holds.

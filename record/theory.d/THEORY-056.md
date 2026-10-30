@@ -227,3 +227,13 @@ control networks. [THEORY-878](THEORY-878.md)'s regions selective for reappraisa
 difference in network activation, which `promote_when` says cannot settle
 it, and [THEORY-871](THEORY-871.md) fits either account. Gross and Barrett (2011) remains
 unfiled.
+
+## Note of 2026-10-30: what holds it back
+
+No result that `promote_when` names is held. There is no dissociation of
+regulation from generation, no measured regulation without a competing
+concern, and no evidence that reappraisal works through a competing
+readiness or that effortless regulation spares the control networks. Gross
+and Barrett (2011) is still unfiled. THEORY-871 was revised on 2026-10-30
+only in its edge to CLAIM-412, which became corroborates (ADR-058), and its
+result still fits either account.
