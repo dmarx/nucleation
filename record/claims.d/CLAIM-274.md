@@ -113,3 +113,13 @@ same selection that decides what remains.
 - It does not say the cooling is good for the canvas. A schedule set by
   who stays favours whatever their art is, which is [CLAIM-277](CLAIM-277.md)'s
   entrenchment loop at the level of the population.
+
+## Note of 2026-10-30: what holds it back
+
+The test its own text names has not been run. CASE-078's survival
+analysis of the released logs would ask whether a participant's hazard of
+not returning depends on the survival of the art they placed into, using
+destruction they did not cause against reverse causality, and whether the
+rate of placements fitting no artwork falls over the event. THEORY-216's
+consolidation is what selective retention would produce, but it does not
+show it.

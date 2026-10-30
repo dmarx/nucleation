@@ -1,16 +1,36 @@
 ---
 number: 424
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqktfo
-title: 'Reflexive governance of an organization''s perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well'
-version: 2
+title: 'Reflexive governance of an organization''s perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective; and the capacity to revise those standards is not the capacity to revise them well'
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
   note: >-
     Note of 2026-10-22 added after NIMS was skimmed (NOTE-1072):
     A24's reading of it is partly supported. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the eighteenth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings). Its
+    premise CLAIM-025 and term TERM-072 are Active. No objection is filed,
+    and CLAIM-288's point is conceded in the title. Nothing in the record
+    meets the defeat condition: CASE-144 is proposed and not run, and the
+    regress is answered in the body. Narrowed, ADR-047 kind 3: "or a self"
+    is dropped. It contradicted Active CLAIM-284 and CLAIM-485, and the
+    body's own reading that this capacity is what the self-governing sense
+    of "self" named. That reading stays in the body, conditional on
+    CLAIM-417. The old title: Reflexive governance of an organization's
+    perspectival arrangements, making the conditions that govern its own
+    interpretation, evaluation and action available for effective
+    examination and revision, is a capacity some organizations of
+    perspective have and others lack, not what makes something a
+    perspective or a self; and the capacity to revise those standards is
+    not the capacity to revise them well. The defeat condition is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,9 +70,9 @@ summary: >-
 illustrated_by:
 - CASE-127
 ---
-<!-- inactive-ok-file: CLAIM-284 CLAIM-288 CLAIM-364 CLAIM-416 CLAIM-417 CLAIM-419 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-364 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-424: Reflexive governance of an organization's perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well
+# CLAIM-424: Reflexive governance of an organization's perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective; and the capacity to revise those standards is not the capacity to revise them well
 
 ## The claim
 

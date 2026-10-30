@@ -1,10 +1,29 @@
 ---
 number: 272
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp2cza3
-title: 'Giving every member an equal budget of actions does not equalize their influence, because coordination lets a member''s plan direct other members'' actions, so a cap on self-allocation constrains action and not authority'
-version: 1
+title: 'Giving every member an equal budget of actions does not equalize their influence: coordination is one route, letting a member''s plan direct other members'' actions, so a cap on self-allocation constrains action and not authority'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the eighteenth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings). Its
+    grounds, CASE-079, CASE-074 and THEORY-218, are Active. THEORY-218
+    shows the mechanism in one artwork, where a forum of 161 decided what
+    about 77,000 accounts placed. No objection is filed, and nothing in the
+    record meets the defeat condition. Narrowed, kind 3 of ADR-047's
+    routing: NOTE-724 reads coordination as one mechanism of several,
+    beside unequal use of the cap and automation, as the body already
+    said. The old title: Giving every member an equal budget of actions
+    does not equalize their influence, because coordination lets a
+    member's plan direct other members' actions, so a cap on
+    self-allocation constrains action and not authority. The body's "a
+    perfect ban on allocating oneself extra moves" is corrected to a ban
+    through one account, since 17.1% of 2023 actions came from accounts
+    above the cap's rate. The warrant and defeat condition are unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -40,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-272: Giving every member an equal budget of actions does not equalize their influence, because coordination lets a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority
+# CLAIM-272: Giving every member an equal budget of actions does not equalize their influence: coordination is one route, letting a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority
 
 ## The claim
 
@@ -54,8 +73,9 @@ cooldown and common action budget, but did not give participants equal
 *effective* influence. Coordination, recruitment, attention, and automation
 could produce very unequal collective power."
 
-The cooldown is an equal per-member budget and a perfect ban on allocating
-oneself extra moves ([CASE-079](../cases.d/CASE-079.md)). It did not equalize influence, because
+The cooldown is an equal per-account budget and a ban on allocating oneself
+extra moves through one account ([CASE-079](../cases.d/CASE-079.md)). Automation and multiple
+accounts got round it, most in 2023 (THEORY-216). It did not equalize influence, because
 following a plan turns other members' moves into the planner's effect. That
 is endorsement in [TERM-053](../terms.d/TERM-053.md)'s sense. So [CLAIM-285](CLAIM-285.md)'s constraint has
 to be stated over authority, not over actions. A budget on actions leaves

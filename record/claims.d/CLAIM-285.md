@@ -131,3 +131,17 @@ its defeat condition tests. One part is that the reward does work: that
 operators bound by the constraint delegate, and delegate to aligned others
 rather than at random. The other is that the two conditions can be held
 together beyond one hop. Neither is shown, so this claim is interpretive.
+
+## Note of 2026-10-30: what holds it back
+
+The first half of its defeat condition is missing a result: no population
+model shows operators bound by the two conditions delegating, or delegating
+to aligned others rather than at random. CLAIM-375 shows only that the
+incentive exists under one hop. The beyond-one-hop clause has a
+construction (p18/cluster_da_checks.py): leave-one-out damped delegation
+keeps each operator's authority exactly insensitive to its own
+endorsements while carrying authority further than one hop. Shifting
+endorsement to a nearer ally then moved the decision toward the endorser
+in 15 of 18 trials, not all, so CLAIM-375's guarantee does not carry over.
+That construction is not yet filed, and it conflicts with Active
+CLAIM-282's "only one-hop allocation".
