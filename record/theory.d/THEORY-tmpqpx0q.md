@@ -22,8 +22,8 @@ source:
 extends:
 - THEORY-336
 summary: >-
-  The thesis Geisler's review asserts, filed beside THEORY-336 by the status
-  review of 2026-10-30 (ADR-065 §3; ADR-047 kind 1). THEORY-336, Active,
+  The thesis Geisler's review asserts, filed beside [THEORY-336](THEORY-336.md) by the status
+  review of 2026-10-30 ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-336](THEORY-336.md), Active,
   holds what the review reports; whether the parallel holds is this entry's
   question, and none of the primary stage-by-stage studies (Geisler 1989;
   Banks, Geisler and Bennett 1987) is read.
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Geisler (2011), LIT-1055, read in full in NOTE-870 from the NIH author
+Geisler (2011), [LIT-1055](../literature.d/LIT-1055.md), read in full in [NOTE-870](../notes.d/NOTE-870.md) from the NIH author
 manuscript. The review asserts the thesis as its account of the studies that
 added biological constraints to the ideal observer one at a time: "the variation
 in human performance across conditions is often predicted by the information
@@ -43,10 +43,10 @@ observers implies substantial contributions of central factors."
 ## Where the evidence stands
 
 What the review reports, and the logic of constrained ideals it rests on, is
-THEORY-336, Active, which this entry extends: that entry is the reading, this
+[THEORY-336](THEORY-336.md), Active, which this entry extends: that entry is the reading, this
 one the thesis. None of the primary stage-by-stage studies is read; the
 2026-10-20 audit found Geisler (1989) and Banks, Geisler and Bennett (1987)
-closed. The `promote_when` above is THEORY-336's condition before the status
+closed. The `promote_when` above is [THEORY-336](THEORY-336.md)'s condition before the status
 review of 2026-10-30 promoted it, carried here word for word, because it asks
 what would make the thesis true and not what the review says.
 

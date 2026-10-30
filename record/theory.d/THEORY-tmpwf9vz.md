@@ -11,10 +11,10 @@ source:
 - LIT-188
 summary: >-
   What Griesemer and Shavit's sketch proposes. The twenty-fourth status
-  review split it from THEORY-418 (ADR-065 §3), so that the record holds
+  review split it from [THEORY-418](THEORY-418.md) ([ADR-065](../decisions.d/ADR-065.md) §3), so that the record holds
   the reading of the proposal apart from the proposal. The paper was read
-  in full (NOTE-173), so the reading is held. Whether the proposal is right
-  is THEORY-418, Proposed, which extends this entry. That needs criteria
+  in full ([NOTE-173](../notes.d/NOTE-173.md)), so the reading is held. Whether the proposal is right
+  is [THEORY-418](THEORY-418.md), Proposed, which extends this entry. That needs criteria
   that sort real groups into the three grades, and worked cases. The
   paper's two headline claims, non-circularity and individuality as a
   special case of collectivity, are in its abstract only and are not part
@@ -27,8 +27,8 @@ summary: >-
 
 ## Source
 
-Griesemer & Shavit (2023), LIT-188 (*Philosophical Transactions of the
-Royal Society B* 378, 20210398), read in full in NOTE-173 from the Europe
+Griesemer & Shavit (2023), [LIT-188](../literature.d/LIT-188.md) (*Philosophical Transactions of the
+Royal Society B* 378, 20210398), read in full in [NOTE-173](../notes.d/NOTE-173.md) from the Europe
 PMC XML, with Table 1 fetched as an image. Section numbers stand in for
 pages.
 
@@ -58,11 +58,11 @@ an organized generative package larger than a single individual member"
 - **That the proposal is right.** The authors call it "not a fully-fledged
   model but only a first and rough sketch". It gives no criteria by which a
   real group could fail to be a community, and "No data were reported".
-  That is THEORY-418's promote_when.
+  That is [THEORY-418](THEORY-418.md)'s promote_when.
 - **That real transitions follow the sequence.** It is "one possible
   pathway", and reverse paths are allowed.
 - **The abstract-only claims.** It does not say that transitions are
   described without circularity, or that individuality is a special case of
-  collectivity (NOTE-173, corrections).
+  collectivity ([NOTE-173](../notes.d/NOTE-173.md), corrections).
 - **That the Neolithic case shows anything.** It is conditional: a migrant
   group "might require" one of each occupation.

@@ -131,6 +131,6 @@ Kept Proposed by the twenty-fourth status review. The title is not a report
 of Kirsh. It asserts, in the record's voice, that agents arrange their
 surroundings this way and that set-up is recovered over the choice points
 an arrangement serves. Only the size of the savings is hedged. Neither
-paper measures a saving or tests the scope rule (NOTE-871, NOTE-872). The
+paper measures a saving or tests the scope rule ([NOTE-871](../notes.d/NOTE-871.md), [NOTE-872](../notes.d/NOTE-872.md)). The
 condition asks for that measured study, which is what the title asserts, so
-it stays (ADR-065 §6).
+it stays ([ADR-065](../decisions.d/ADR-065.md) §6).

@@ -9,9 +9,9 @@ tags:
 date: '2026-10-30'
 line: evidence-for-experience
 summary: >-
-  The promotion condition formerly on THEORY-245, moved here when the status
-  review of 2026-10-30 narrowed and promoted it under ADR-065. COGITATE
-  (LIT-973, read in NOTE-812) recorded high gamma, MEG and BOLD, with no
+  The promotion condition formerly on [THEORY-245](../theory.d/THEORY-245.md), moved here when the status
+  review of 2026-10-30 narrowed and promoted it under [ADR-065](../decisions.d/ADR-065.md). COGITATE
+  ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-812](../notes.d/NOTE-812.md)) recorded high gamma, MEG and BOLD, with no
   single units; whether the pattern holds in signals it did not sample is
   open.
 ---
@@ -20,7 +20,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-245 holds what the COGITATE consortium measured: prefrontal cortex carried
+[THEORY-245](../theory.d/THEORY-245.md) holds what the COGITATE consortium measured: prefrontal cortex carried
 a clearly seen image's category but not its identity, and a face's orientation
 at most weakly, and no prefrontal site showed the preregistered onset-and-offset
 response. The signals were iEEG high gamma, MEG source power and BOLD. Whether

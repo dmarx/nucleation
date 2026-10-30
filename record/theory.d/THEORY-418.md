@@ -157,10 +157,10 @@ why the account is Proposed.
 ## Note of 2026-10-30: the proposal split off
 
 What Griesemer and Shavit propose, as distinct from whether it is right, is
-now THEORY-tmpwf9vz, Active, and this entry extends it (ADR-065 §3). The phrase "on
+now [THEORY-tmpwf9vz](THEORY-tmpwf9vz.md), Active, and this entry extends it ([ADR-065](../decisions.d/ADR-065.md) §3). The phrase "on
 this sketch" in this title asserts the account, as "as X proposes" would.
 So this entry keeps the question whether the account holds, and its
-promote_when. The entries that test it (CASE-171, QUESTION-277) cite this
+promote_when. The entries that test it ([CASE-171](../cases.d/CASE-171.md), [QUESTION-277](../questions.d/QUESTION-277.md)) cite this
 one.
 
 ## Note of 2026-10-30: what holds it back
@@ -168,6 +168,6 @@ one.
 The record has no operational criteria that sort real groups into
 collection, conexus and community. Nor does it have a worked case showing
 the new level of individuality at the conexus–community step, with benefit
-that cannot be booked per member and a knockout effect. NOTE-173 found none
-in the paper: "No data were reported". CASE-171 and QUESTION-277 name the
+that cannot be booked per member and a knockout effect. [NOTE-173](../notes.d/NOTE-173.md) found none
+in the paper: "No data were reported". [CASE-171](../cases.d/CASE-171.md) and [QUESTION-277](../questions.d/QUESTION-277.md) name the
 mealybug patchwork as a place to test it, and its reports are unread.

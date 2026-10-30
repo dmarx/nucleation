@@ -23,11 +23,11 @@ promote_when: >-
   which objectives are special cases.
 summary: >-
   The general form of Friston, Da Costa, Hafner, Hesp and Parr (2020),
-  LIT-577, under THEORY-426's old title. It was kept here when the
-  twenty-fourth status review narrowed THEORY-426 to the paper's runs and
-  promoted it (ADR-065 §3; ADR-047, kind 1). The paper shows the planning
+  [LIT-577](../literature.d/LIT-577.md), under [THEORY-426](THEORY-426.md)'s old title. It was kept here when the
+  twenty-fourth status review narrowed [THEORY-426](THEORY-426.md) to the paper's runs and
+  promoted it ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md), kind 1). The paper shows the planning
   claim only in single deterministic runs on a T-maze and an 8 × 8 maze
-  (NOTE-454, C2). It argues tractability from pruning and sparsity and
+  ([NOTE-454](../notes.d/NOTE-454.md), C2). It argues tractability from pruning and sparsity and
   counts evaluations for one maze (C3). It tries no problem where many
   outcomes stay plausible, and runs no Bayes-adaptive planner beside it.
 ---
@@ -36,8 +36,8 @@ summary: >-
 
 ## Source
 
-Friston et al. (2020), "Sophisticated Inference", LIT-577, read in full as
-prose in NOTE-454. What the paper's runs showed is THEORY-426, which this
+Friston et al. (2020), "Sophisticated Inference", [LIT-577](../literature.d/LIT-577.md), read in full as
+prose in [NOTE-454](../notes.d/NOTE-454.md). What the paper's runs showed is [THEORY-426](THEORY-426.md), which this
 entry extends.
 
 ## Why it is Proposed
@@ -46,6 +46,6 @@ The title states the planning claim generally, where the paper shows it on
 toy problems, "rather trivial problems" by the authors' own account. The
 cost figure, "usually several hundred" of about 10¹⁰ or 10¹⁵ paths, is
 for one maze. A 1/16 pruning threshold cuts little where many outcomes stay
-plausible, and no such problem is tried (NOTE-454, Open questions). The
+plausible, and no such problem is tried ([NOTE-454](../notes.d/NOTE-454.md), Open questions). The
 paper says the scheme recovers Bayes-adaptive RL at zero temperature, but
 no Bayes-adaptive or Monte Carlo planner is run on the same tasks.

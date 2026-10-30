@@ -102,7 +102,7 @@ assertion).
   account ("Apology!", p. 2).
 - **That logic cannot be repaired.** Non-monotonic logics were developed to
   do exactly this. The record holds no reading of them, so it does not say
-  whether they succeed. That claim is THEORY-tmppxcqi, Proposed.
+  whether they succeed. That claim is [THEORY-tmppxcqi](THEORY-tmppxcqi.md), Proposed.
 - **How strongly a default is bound.** The memo never says how much
   "strain" a match can bear or when a frame is given up, and it argues
   against numerical scores (§5.5; [NOTE-337](../notes.d/NOTE-337.md), Limitations).

@@ -8,9 +8,9 @@ tags:
 date: '2026-10-30'
 line: learned-structure
 summary: >-
-  The promotion condition formerly on THEORY-227, moved here when the status
-  review of 2026-10-30 promoted it under ADR-065. Tschannen et al. (LIT-247,
-  read in NOTE-749) showed the spread on MNIST halves, with CIFAR-10 for two
+  The promotion condition formerly on [THEORY-227](../theory.d/THEORY-227.md), moved here when the status
+  review of 2026-10-30 promoted it under [ADR-065](../decisions.d/ADR-065.md). Tschannen et al. ([LIT-247](../literature.d/LIT-247.md),
+  read in [NOTE-749](../notes.d/NOTE-749.md)) showed the spread on MNIST halves, with CIFAR-10 for two
   experiments, under a linear probe only.
 ---
 
@@ -18,7 +18,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-227 holds the existence result: invertible encoders all keep the true
+[THEORY-227](../theory.d/THEORY-227.md) holds the existence result: invertible encoders all keep the true
 mutual information, and under a linear probe on MNIST halves some score above
 raw pixels and one, trained adversarially, scores well below. Whether such a
 spread of quality among exactly information-preserving encoders is general, or

@@ -102,7 +102,7 @@ fruit at all. It did neither.
   to the Technical Committee and the final judgment ([NOTE-004](../notes.d/NOTE-004.md),
   Limitations). Both privacy experts agreed raw logs can re-identify users,
   and the EU Digital Markets Act precedent excluded 99% of queries after
-  filtering (op. pp. 161–164). Whether it does is QUESTION-tmp5fmg2.
+  filtering (op. pp. 161–164). Whether it does is [QUESTION-tmp5fmg2](../questions.d/QUESTION-tmp5fmg2.md).
 - **That search data is a moat for LLMs.** The court found plaintiffs "did
   not establish that Google's scale advantage in Search translates into a
   quality advantage in GenAI search-assisted responses" (op. p. 156), and
