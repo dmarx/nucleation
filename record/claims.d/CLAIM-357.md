@@ -48,7 +48,7 @@ history:
     optimizer analysis does not already give. Not defeated by the formal
     facts that Γ ≥ 0 and that Φ certifies infeasibility, which it rests on,
     nor by cases where the two kinds occur together." That thesis, the
-    record's own, is filed as CLAIM-tmp4u6xx (ADR-047 kind 2) with the old
+    record's own, is filed as CLAIM-500 (ADR-047 kind 2) with the old
     condition.
 role: thesis
 warrant: interpretive
@@ -187,7 +187,7 @@ captured allocation of influence does not choose it. A39's case study 2,
 [CASE-099](../cases.d/CASE-099.md) with demands and a feasible-update oracle, would test it; A39
 called it "the best candidate for an early discriminating experiment".
 That the governance-induced kind does work an optimizer analysis does not
-is filed apart as [CLAIM-tmp4u6xx](CLAIM-tmp4u6xx.md).
+is filed apart as [CLAIM-500](CLAIM-500.md).
 
 ## What it does not say
 

@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [30 Oct 04:03 — The eighteenth status review: the distributed-agency line ruled through, eight claims promoted](2026-10.md#the-eighteenth-status-review-the-distributed-agency-line-ruled-through-eight-claims-promoted)
 - [30 Oct 03:14 — The seventeenth status review: the pragmatic-transport line ruled through, six claims promoted](2026-10.md#the-seventeenth-status-review-the-pragmatic-transport-line-ruled-through-six-claims-promoted)
 - [30 Oct 02:44 — The status-review procedure revised after sixteen passes, and a fresh worklist](2026-10.md#the-status-review-procedure-revised-after-sixteen-passes-and-a-fresh-worklist)
 - [30 Oct 02:17 — The sixteenth status review: nine claims promoted, mostly by sorting grounds from corroboration](2026-10.md#the-sixteenth-status-review-nine-claims-promoted-mostly-by-sorting-grounds-from-corroboration)
@@ -117,8 +118,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-108 entries across 1 book, newest first.
+109 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 108 | 2026-10-07 | 2026-10-30 |
+| [2026-10](2026-10.md) | 109 | 2026-10-07 | 2026-10-30 |

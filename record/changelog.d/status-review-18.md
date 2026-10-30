@@ -4,7 +4,7 @@
 - **Promoted claims:**
   - [CLAIM-316](record/claims.d/CLAIM-316.md);
   - [CLAIM-272](record/claims.d/CLAIM-272.md), narrowed;
-  - [CLAIM-357](record/claims.d/CLAIM-357.md), narrowed, with its defeat condition restated and its old thesis filed as [CLAIM-tmp4u6xx](record/claims.d/CLAIM-tmp4u6xx.md);
+  - [CLAIM-357](record/claims.d/CLAIM-357.md), narrowed, with its defeat condition restated and its old thesis filed as [CLAIM-500](record/claims.d/CLAIM-500.md);
   - [CLAIM-424](record/claims.d/CLAIM-424.md), narrowed;
   - [CLAIM-420](record/claims.d/CLAIM-420.md), narrowed;
   - [CLAIM-421](record/claims.d/CLAIM-421.md);

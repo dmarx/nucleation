@@ -1,5 +1,8 @@
 ---
+number: 500
 status: Proposed
+formerly:
+- CLAIM-tmp4u6xx
 title: 'The governance-induced kind of frustration is not idle: some failures of an organization''s actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule'
 version: 1
 role: thesis
@@ -38,7 +41,7 @@ summary: >-
   [CASE-099](../cases.d/CASE-099.md) would test it.
 ---
 
-# CLAIM-tmp4u6xx: The governance-induced kind of frustration is not idle: some failures of an organization's actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule
+# CLAIM-500: The governance-induced kind of frustration is not idle: some failures of an organization's actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule
 
 ## The claim
 
