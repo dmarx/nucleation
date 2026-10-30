@@ -1,20 +1,40 @@
 ---
 number: 336
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpabyf2
-promote_when: >-
-  A primary study, read by the record, that computes ideal-observer performance
-  for one visual task at successive stages of the visual system (stimulus,
-  retinal image, receptor absorptions or ganglion-cell output) and measures
-  human performance across the same conditions. It promotes the empirical
-  clause if human performance follows the late-stage ideal across conditions
-  while falling below it by a roughly constant factor; it refutes it if the
-  pattern across conditions departs from that ideal's. Another review restating
-  the logic, or a further fit of a single ideal at one stage, cannot settle it:
-  the clause is about the comparison across stages.
-title: "An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported to parallel the retinal-stage ideal across conditions while falling well below it"
-version: 1
+title: 'An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported often to parallel the retinal-stage ideal across conditions while falling well below it'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted to Active under ADR-065, at the status review's
+    ruling (the owner delegated these rulings). The old title read: "An
+    ideal observer is optimal relative to the information it is given, so a
+    constrained ideal is the optimal decoder of a degraded input, not a
+    restricted decoder of the full one; comparing real observers with ideals
+    taken at successive stages of the visual system places losses by stage,
+    and in early-vision tasks human performance is reported to parallel the
+    retinal-stage ideal across conditions while falling well below it".
+    Geisler says human performance "often parallels ideal observer
+    performance qualitatively (and sometimes quantitatively)", so "often" is
+    restored (ADR-047 kind 3, this note only). The first two clauses follow
+    from the review's equation (1) and the data-processing order of the
+    stages; the third reports what the review says, read in full in
+    NOTE-870, and nothing in the record contradicts it. The old promote_when
+    read: "A primary study, read by the record, that computes ideal-observer
+    performance for one visual task at successive stages of the visual
+    system (stimulus, retinal image, receptor absorptions or ganglion-cell
+    output) and measures human performance across the same conditions. It
+    promotes the empirical clause if human performance follows the
+    late-stage ideal across conditions while falling below it by a roughly
+    constant factor; it refutes it if the pattern across conditions departs
+    from that ideal's. Another review restating the logic, or a further fit
+    of a single ideal at one stage, cannot settle it: the clause is about
+    the comparison across stages." The review asserts the parallel itself,
+    so that thesis moves to THEORY-tmpqpx0q, Proposed, which extends this
+    entry and keeps the condition word for word (ADR-065 §3).
 tags:
 - cognition
 - neuroscience
@@ -36,7 +56,7 @@ bears_on:
 - QUESTION-103
 ---
 
-# THEORY-336: An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported to parallel the retinal-stage ideal across conditions while falling well below it
+# THEORY-336: An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported often to parallel the retinal-stage ideal across conditions while falling well below it
 
 ## Source
 

@@ -1,22 +1,36 @@
 ---
 number: 227
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7q33x
-promote_when: >-
-  A replication outside MNIST and CIFAR-10, or with a second probe family
-  (for example a regularized nonlinear readout), showing that encoders
-  constrained to preserve the input's information exactly still span a
-  range of downstream quality that includes worse than the raw input. The
-  invertibility argument already makes the true MI equal across them, so
-  what needs settling is the generality of the quality spread, not the MI.
-  It is refuted by a showing that, among exactly information-preserving
-  encoders, downstream quality under the probes in use is constant, or is
-  ordered by some information quantity of the encoder alone. What cannot
-  settle it: comparisons of MI estimates, since the account is about true
-  MI, which the estimators do not measure.
 title: "Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active under ADR-065, at the status review's ruling (the
+    owner delegated these rulings). The title asserts an existence result,
+    and one instance of each half settles it: invertible encoders all keep
+    the true mutual information, and under a linear probe some score above
+    raw pixels ("some give rise to improved linear classification
+    performance over raw pixels", §3.1, checked by the reviewer against the
+    arXiv v2 text NOTE-749 read) and one scores "significantly worse than
+    using raw pixels" (Fig. 1c). NOTE-749 read the paper in full, and
+    nothing in the record contradicts it. The old promote_when read: "A
+    replication outside MNIST and CIFAR-10, or with a second probe family
+    (for example a regularized nonlinear readout), showing that encoders
+    constrained to preserve the input's information exactly still span a
+    range of downstream quality that includes worse than the raw input. The
+    invertibility argument already makes the true MI equal across them, so
+    what needs settling is the generality of the quality spread, not the MI.
+    It is refuted by a showing that, among exactly information-preserving
+    encoders, downstream quality under the probes in use is constant, or is
+    ordered by some information quantity of the encoder alone. What cannot
+    settle it: comparisons of MI estimates, since the account is about true
+    MI, which the estimators do not measure." Its demand for generality
+    beyond MNIST, CIFAR-10 and the linear probe asks for more than the title
+    claims, and moves to QUESTION-tmphn7l4.
 tags:
 - representation-learning
 - information-theory

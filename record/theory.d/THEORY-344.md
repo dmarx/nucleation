@@ -1,19 +1,34 @@
 ---
 number: 344
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpipw5a
-promote_when: >-
-  A proof, in a stated cost model (cell-probe, external-memory or the like) and
-  for a stated set of operations, of a quantified version: a lower bound on one
-  of read, update and memory overhead that exceeds 1.0 and grows as bounds on the
-  other two are tightened. It is refuted, for that model and operation set, by a
-  construction that keeps all three overheads within constants at once. More
-  placements of structures on the triangle, asymptotic tables of known methods,
-  or benchmarks cannot settle it, since they show where particular designs sit,
-  not what no design can reach.
 title: "An access method's read, update and memory overheads, each a ratio to the base data alone with a floor of 1.0, are conjectured to trade so that bounding any two forces a lower bound on the third; the conjecture is unproved, its formal wording says no more than the floor already does, and the paper's extreme designs show conflicts between pairs, read against memory and update against read, not a symmetric three-way trade"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active under ADR-065, at the status review's ruling (the
+    owner delegated these rulings). The title reports a conjecture as
+    unproved, and its two critical clauses check against the paper read in
+    full in NOTE-888: every overhead is at least 1.0 by definition, so the
+    formal wording's "lower bound for the third" is always met; and
+    Propositions 1–3 set read against memory and update against read, with
+    the memory-minimal design also update-minimal. Nothing in the record
+    contradicts it. The old promote_when read: "A proof, in a stated cost
+    model (cell-probe, external-memory or the like) and for a stated set of
+    operations, of a quantified version: a lower bound on one of read,
+    update and memory overhead that exceeds 1.0 and grows as bounds on the
+    other two are tightened. It is refuted, for that model and operation
+    set, by a construction that keeps all three overheads within constants
+    at once. More placements of structures on the triangle, asymptotic
+    tables of known methods, or benchmarks cannot settle it, since they show
+    where particular designs sit, not what no design can reach." The paper
+    asserts the trade itself ("we show through the RUM Conjecture that
+    creating the ultimate access method is infeasible"), so that thesis
+    moves to THEORY-tmptf9gh, Proposed, which extends this entry and keeps
+    the condition word for word (ADR-065 §3).
 tags:
 - databases
 date: '2026-10-15'
