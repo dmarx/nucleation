@@ -231,4 +231,8 @@ def test_a_live_claim_grounded_on_an_unread_work_is_listed(tmp_path):
     r = Record(r.docs | lit | claims, r.bodies)
     # LIT-001 has a NOTE read in full; LIT-004 has none and is Unavailable
     assert r.unread_grounds() == [("CLAIM-021", ["LIT-004"])]
-    assert r.status("LIT-004") == "Unavailable"
+    # a work's status is its availability, not a credence: an Unavailable ground is listed here,
+    # not as a credence inversion
+    r.docs["CLAIM-021"]["status"] = "Active"
+    assert not any(row[0] == "CLAIM-021" for row in r.inversions())
+    assert r.unread_grounds() == [("CLAIM-021", ["LIT-004"])]

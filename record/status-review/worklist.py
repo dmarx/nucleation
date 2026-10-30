@@ -174,11 +174,12 @@ class Record:
         """Active CLAIMs that rest on, or are grounded in, something the record does not hold.
 
         An ARG is not counted: its status is credence in its inference, not in its premises (ADR-059).
+        Nor is a LIT: its status is whether the work can be had; an unread one is in unread_grounds.
         """
         return [(c, f, t, self.status(t))
                 for c, fm in sorted(self.docs.items()) if scheme(c) == "CLAIM" and self.status(c) == "Active"
                 for f in ("rests_on", "grounds") for t in as_list(fm.get(f))
-                if t in self.docs and self.status(t) != "Active"]
+                if t in self.docs and scheme(t) != "LIT" and self.status(t) != "Active"]
 
     def converse_inversions(self) -> list[tuple]:
         """Proposed readings that still list an Active claim under `supports`.
