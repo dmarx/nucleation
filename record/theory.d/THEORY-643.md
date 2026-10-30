@@ -123,3 +123,14 @@ happened.
   [ANTH-LIT-410](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-410.md)) describes the construction of §2.1. Bruening is
   background for "productive, not listed" there, not evidence for its
   claim about frequency.
+
+## Note of 2026-10-29: what holds it back
+
+None of the three tests outside English that the promote_when names is in
+the record: whether an X0 is ever extracted (Müller's German cases),
+whether any head coordination is irreducibly X0-level under the
+substitution test, and whether phrase-selecting affixes preserve
+complements where X0-selecting ones do not. A narrowing to the English
+evidence of §§2–3 would free nothing, because THEORY-588 presupposes the
+one-component conclusion, which would go to a kind-1 entry carrying this
+promote_when.

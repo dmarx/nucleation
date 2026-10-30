@@ -123,3 +123,13 @@ Proposed: its premise [CLAIM-169](CLAIM-169.md) and its ground [THEORY-070](../t
 [LIT-914](../literature.d/LIT-914.md) and [LIT-910](../literature.d/LIT-910.md) are unread. No choice probe or reversal measure inside a
 flow episode is in the record. The objection cited above as [CLAIM-163](CLAIM-163.md) is
 now [ARG-016](../arguments.d/ARG-016.md).
+
+## Note of 2026-10-29: what holds it back
+
+Two premises are not held: CLAIM-169, which waits on THEORY-067's
+mechanism; and, of THEORY-070, promote_when (1), a fit in which control
+intensity falls with its cost. The claim explains effortlessness by the
+intrinsic cost of override going unpaid, not by dACC's place as specifier,
+so THEORY-1110's proposal would not carry it. No choice probe or reversal
+measure taken during a flow episode, which its defeat condition asks for,
+is in the record.

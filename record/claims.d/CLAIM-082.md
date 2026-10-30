@@ -168,3 +168,10 @@ The sixth status review narrowed this claim to what Saussure's value
 carries, recording [CLAIM-072](CLAIM-072.md)'s concession, which [ARG-034](../arguments.d/ARG-034.md) judged. The first
 title is [CLAIM-489](CLAIM-489.md). Kept Proposed: its reading of Saussure,
 [THEORY-159](../theory.d/THEORY-159.md), is Proposed, and nothing in the record meets `defeated_if`.
+
+## Note of 2026-10-29: what holds it back
+
+Held by THEORY-159's promote_when: no study in the record adds, loses or
+merges a term in a language's inventory and measures whether its
+neighbours' use shifts, against terms outside the field, and that is also
+the second clause of this claim's defeat condition.
