@@ -1,22 +1,45 @@
 ---
 number: 1081
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpo4ob4
-promote_when: >-
-  A general result, inside relational quantum mechanics as defined in this
-  paper (facts fixed by interaction, the classical sum rule only within one
-  context or where facts are stable), that relative facts never yield
-  contradictory predictions in extended Wigner's-friend scenarios, including
-  those in which an agent reasons about an experiment to be performed on
-  himself, which the authors say has not been done (pp. 8–9); and a
-  derivation, not an assertion, that a superobserver's later facts agree
-  with his friend's. A further no-go theorem against absolute facts cannot
-  promote it, since other views also deny absoluteness; a scenario in which
-  facts relative to different systems, compared by a physical interaction,
-  disagree would refute it.
-title: 'Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; on that ground they base quantum ontology on facts relative to systems, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong'
-version: 1
+title: 'Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; they base quantum ontology on facts relative to systems rather than on stable facts, arguing that stability is itself relational and only approximate and counting the Local Friendliness violation as evidence, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the
+    status review's ruling (the owner delegated these rulings; ADR-065).
+    The title reports what Di Biagio and Rovelli argue, read in full in
+    NOTE-1226 from the published text, and now gives their ground for
+    relative facts as §2.1 gives it: the old "on that ground" made the
+    no-go analysis the reason, where only the Local Friendliness
+    violation is offered as evidence (ADR-047 kind 3). Nothing in the
+    record contradicts the report. What the condition asked beyond the
+    title, a general consistency result inside RQM, moves to
+    THEORY-tmp07j62, Proposed, which extends this entry and keeps the
+    condition word for word (ADR-065 §3). The old title: "Di Biagio and
+    Rovelli locate the Frauchiger–Renner contradiction and the violation
+    of the Local Friendliness inequalities in one step, a superobserver
+    using facts relative to a friend he holds in full quantum control as
+    if they were his own, which is the classical sum rule applied where
+    those facts are not stable for him; on that ground they base quantum
+    ontology on facts relative to systems, with an absolute macroreality
+    emerging only approximately and only relative to systems for which
+    decoherence is strong". The old promote_when: "A general result,
+    inside relational quantum mechanics as defined in this paper (facts
+    fixed by interaction, the classical sum rule only within one context
+    or where facts are stable), that relative facts never yield
+    contradictory predictions in extended Wigner's-friend scenarios,
+    including those in which an agent reasons about an experiment to be
+    performed on himself, which the authors say has not been done (pp.
+    8–9); and a derivation, not an assertion, that a superobserver's
+    later facts agree with his friend's. A further no-go theorem against
+    absolute facts cannot promote it, since other views also deny
+    absoluteness; a scenario in which facts relative to different
+    systems, compared by a physical interaction, disagree would refute
+    it."
 tags:
 - quantum-foundations
 - metaphysics
@@ -29,11 +52,14 @@ summary: >-
   of Bong et al.'s absoluteness of observed events into the use of eq. (3)
   across contexts is the paper's and is clear. That nothing else goes
   wrong is cited to others, inter-observer agreement is one sentence, and
-  an agent reasoning about himself is left undone. Proposed for those.
+  an agent reasoning about himself is left undone. What the paper
+  argues is held; whether relative facts cohere in general is
+  THEORY-tmp07j62's question.
 ---
+<!-- inactive-ok-file: THEORY-tmp07j62 — Proposed; filed beside this reading by the twenty-fourth status review: the general consistency of relative facts -->
 <!-- inactive-ok-file: THEORY-621 — Proposed; the RQM rule this one shares its gap with, cited as open -->
 
-# THEORY-1081: Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; on that ground they base quantum ontology on facts relative to systems, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong
+# THEORY-1081: Di Biagio and Rovelli locate the Frauchiger–Renner contradiction and the violation of the Local Friendliness inequalities in one step, a superobserver using facts relative to a friend he holds in full quantum control as if they were his own, which is the classical sum rule applied where those facts are not stable for him; they base quantum ontology on facts relative to systems rather than on stable facts, arguing that stability is itself relational and only approximate and counting the Local Friendliness violation as evidence, with an absolute macroreality emerging only approximately and only relative to systems for which decoherence is strong
 
 ## Source
 

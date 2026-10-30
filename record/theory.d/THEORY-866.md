@@ -1,24 +1,36 @@
 ---
 number: 866
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp1lndf
-promote_when: >-
-  Participant-based first-person evidence, not teachers' texts: reports
-  gathered from practitioners of at least two of the three practices by a
-  method that asks about specific episodes without supplying the
-  tradition's vocabulary (micro-phenomenological interview or similar),
-  coded blind to practice. It is promoted if those reports show the
-  absent everyday content and the present content the texts name
-  (wakefulness, calm, stillness, a non-conceptual knowing and the like),
-  and a difference in attentional stability between Shamatha and TM or
-  Stillness Meditation. It is refuted on content if practitioners who
-  reach the goal-state report nothing beyond being conscious and awake,
-  as Shear's minority view holds, and on identity if the reported states
-  do not differ across practices. Further syntheses of expert texts, or
-  arguments about what counts as content, cannot settle it.
 title: 'Expert texts of Shamatha, Transcendental and Stillness Meditation describe their so-called contentless goal-states as lacking thoughts, perceptions, images and memories but keeping many forms of content, and as differing across the practices in attentional stability and vividness'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-fourth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065). The title
+    reports what the expert texts describe, read in full in NOTE-1070
+    from the submitted preprint, with "content" in the authors' broad
+    sense as the body says; nothing in the record contradicts it. What
+    the condition asked beyond the title, practitioners' own reports,
+    moves to THEORY-tmpvrkbi, Proposed, which extends this entry and
+    keeps the condition word for word (ADR-065 §3). The old
+    promote_when: "Participant-based first-person evidence, not
+    teachers' texts: reports gathered from practitioners of at least two
+    of the three practices by a method that asks about specific episodes
+    without supplying the tradition's vocabulary (micro-phenomenological
+    interview or similar), coded blind to practice. It is promoted if
+    those reports show the absent everyday content and the present
+    content the texts name (wakefulness, calm, stillness, a
+    non-conceptual knowing and the like), and a difference in
+    attentional stability between Shamatha and TM or Stillness
+    Meditation. It is refuted on content if practitioners who reach the
+    goal-state report nothing beyond being conscious and awake, as
+    Shear's minority view holds, and on identity if the reported states
+    do not differ across practices. Further syntheses of expert texts,
+    or arguments about what counts as content, cannot settle it."
 tags:
 - phenomenology
 - consciousness
@@ -37,7 +49,8 @@ summary: >-
   about what practitioners experience, and "not truly contentless" depends
   on counting calm or simplicity as content.
 ---
-<!-- inactive-ok-file: CLAIM-412 CLAIM-411 TERM-073 TERM-072 THEORY-063 THEORY-870 — Proposed; the claims, terms and accounts this one bears on, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpvrkbi — Proposed; filed beside this reading by the twenty-fourth status review: the thesis about the experiences themselves -->
+<!-- inactive-ok-file: CLAIM-412 CLAIM-411 TERM-073 TERM-072 THEORY-063 — Proposed; the claims, terms and accounts this one bears on, named and not leaned on -->
 
 # THEORY-866: Expert texts of Shamatha, Transcendental and Stillness Meditation describe their so-called contentless goal-states as lacking thoughts, perceptions, images and memories but keeping many forms of content, and as differing across the practices in attentional stability and vividness
 

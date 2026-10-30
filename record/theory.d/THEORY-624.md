@@ -1,30 +1,48 @@
 ---
 number: 624
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpragh3
-promote_when: >-
-  The comparison run on systems other than seven gridworld trajectories,
-  with the prior fixed before the data and justified independently of
-  the verdicts it gives: robots, animals or deployed models whose agency
-  is not in dispute and devices whose agency is, with the posterior
-  separating them and staying stable across reasonable priors. It is
-  refuted as a criterion of agency if every reasonable prior can be
-  matched by another that reverses the verdicts on the same behaviour, or
-  if accidentally optimal devices come out as agents where an
-  interventional test says they are not. Further toy trajectories, or the
-  formalism's coherence, cannot settle it.
-title: "Whether an identified system is an agent or a device can be cast as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so the verdict is relative to the observer's prior; on toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and some priors make everything look like an agent"
-version: 1
+title: 'Orseau, McGill and Legg cast whether an identified system is an agent or a device as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so that the verdict is relative to the observer''s prior; on seven toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and they argue that under a speed prior everything may look like an agent'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the
+    status review's ruling (the owner delegated these rulings; ADR-065).
+    The title now reports what the paper does and argues, read in full
+    in NOTE-705, and keeps its hedge on the speed prior, which the old
+    title dropped (ADR-047 kind 3; see the note of 2026-10-30). Nothing
+    in the record contradicts the report; Kenton et al. (THEORY-527)
+    dispute it as a criterion of agency, not as a description of the
+    paper. What the condition asked beyond the title, that the
+    comparison be a criterion of agency on real systems, moves to
+    THEORY-tmpj60c9, Proposed, which extends this entry and keeps the
+    condition word for word (ADR-065 §3), and the rivals edges move with
+    it. The old title: "Whether an identified system is an agent or a
+    device can be cast as Bayesian model comparison between descriptions
+    of the function it optimises and descriptions of its input-output
+    mapping, so the verdict is relative to the observer's prior; on toy
+    gridworld trajectories goal-seeking comes out agent-like and
+    wall-following device-like, and some priors make everything look
+    like an agent". The old promote_when: "The comparison run on systems
+    other than seven gridworld trajectories, with the prior fixed before
+    the data and justified independently of the verdicts it gives:
+    robots, animals or deployed models whose agency is not in dispute
+    and devices whose agency is, with the posterior separating them and
+    staying stable across reasonable priors. It is refuted as a
+    criterion of agency if every reasonable prior can be matched by
+    another that reverses the verdicts on the same behaviour, or if
+    accidentally optimal devices come out as agents where an
+    interventional test says they are not. Further toy trajectories, or
+    the formalism's coherence, cannot settle it."
 tags:
 - agency
 - model-comparison
 date: '2026-10-16'
 source:
 - LIT-911
-rivals:
-- THEORY-527
-- THEORY-801
 summary: >-
   Orseau, McGill & Legg (2018), [LIT-911](../literature.d/LIT-911.md), read in [NOTE-705](../notes.d/NOTE-705.md). A formal
   version of Dennett's choice of stance: the posterior probability that a
@@ -36,10 +54,11 @@ summary: >-
 bears_on:
 - QUESTION-032
 ---
+<!-- inactive-ok-file: THEORY-tmpj60c9 — Proposed; filed beside this reading by the twenty-fourth status review: the relative definition of agency the paper proposes -->
 <!-- inactive-ok-file: CLAIM-168 CLAIM-174 THEORY-036 THEORY-249 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited for the position it states, not leaned on -->
 
-# THEORY-624: Whether an identified system is an agent or a device can be cast as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so the verdict is relative to the observer's prior; on toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and some priors make everything look like an agent
+# THEORY-624: Orseau, McGill and Legg cast whether an identified system is an agent or a device as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so that the verdict is relative to the observer's prior; on seven toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and they argue that under a speed prior everything may look like an agent
 
 ## Source
 
@@ -89,6 +108,14 @@ out as intuition expects.
 - **That "every physical system can be described as either an agent … or a
   device" settles which it is.** The conclusion's dichotomy is a choice of
   description, made by the posterior under a prior.
+
+## Note of 2026-10-30: narrowed
+
+The old title said "some priors make everything look like an agent". The paper
+says only that under the speed prior, "if any device can be represented as an
+agent then everything may look like an agent" (NOTE-705, C5, argued and not
+shown). That is a dropped hedge, not a wider thesis, so it gets this note only.
+The relative definition of agency the paper proposes is THEORY-tmpj60c9, Proposed.
 
 ## Connections
 

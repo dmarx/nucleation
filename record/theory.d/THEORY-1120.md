@@ -1,17 +1,35 @@
 ---
 number: 1120
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp0k3ls
-promote_when: >-
-  A study in which at least two native raters per language independently
-  score the pragmatic adequacy of the same translations, with their
-  agreement reported, and in which a reference-based metric's correlation
-  with the raters' mean is reported against that inter-rater ceiling, per
-  phenomenon, on items chosen in advance rather than picked after the
-  fact. A correlation with one rater per language does not settle it.
-title: 'For LLM translations of culturally loaded Indic utterances into English, the reference-based COMET metric agrees with a native speaker''s pragmatic-adequacy rating at r ≈ 0.81 overall, better than XCOMET or MetricX, yet scores some pragmatically inverted outputs highly'
-version: 1
+title: 'On 416 translations into English by four LLMs of 104 culturally loaded utterances in Hindi, Punjabi, Tamil and Malayalam, each scored for pragmatic adequacy by one native rater per language, the reference-based COMET metric correlates with the ratings at Pearson r = 0.813 and Spearman ρ = 0.860, against r 0.80 and ρ 0.79 for XCOMET and r 0.73 and ρ 0.79 for MetricX, with no test of the differences; four outputs picked after the fact that invert or misplace the source''s meaning get COMET scores of 0.65–0.86 against the rater''s 1 or 2'
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted by the twenty-fourth status review, at the
+    status review's ruling (the owner delegated these rulings; ADR-065).
+    The title now states the study's material and coefficients, read in
+    full in NOTE-1345 from the published Findings paper; nothing in the
+    record contradicts them. The old "better than XCOMET or MetricX" is
+    replaced by the coefficients, since the Pearson margin over XCOMET,
+    0.813 against 0.80, was not tested (ADR-047 kind 3). What the
+    condition asked, an inter-rater ceiling, is a further study, not
+    something the title asserts, and moves to QUESTION-tmpfqjj8 (ADR-065
+    §3). The old title: "For LLM translations of culturally loaded Indic
+    utterances into English, the reference-based COMET metric agrees
+    with a native speaker's pragmatic-adequacy rating at r ≈ 0.81
+    overall, better than XCOMET or MetricX, yet scores some
+    pragmatically inverted outputs highly". The old promote_when: "A
+    study in which at least two native raters per language independently
+    score the pragmatic adequacy of the same translations, with their
+    agreement reported, and in which a reference-based metric's
+    correlation with the raters' mean is reported against that
+    inter-rater ceiling, per phenomenon, on items chosen in advance
+    rather than picked after the fact. A correlation with one rater per
+    language does not settle it."
 tags:
 - translation
 - pragmatics
@@ -28,8 +46,9 @@ summary: >-
   for implicature and deixis" rests on per-phenomenon differences of 0.1
   or less.
 ---
+<!-- inactive-ok-file: QUESTION-tmpfqjj8 — Open; the question this entry's old condition moved to -->
 
-# THEORY-1120: For LLM translations of culturally loaded Indic utterances into English, the reference-based COMET metric agrees with a native speaker's pragmatic-adequacy rating at r ≈ 0.81 overall, better than XCOMET or MetricX, yet scores some pragmatically inverted outputs highly
+# THEORY-1120: On 416 translations into English by four LLMs of 104 culturally loaded utterances in Hindi, Punjabi, Tamil and Malayalam, each scored for pragmatic adequacy by one native rater per language, the reference-based COMET metric correlates with the ratings at Pearson r = 0.813 and Spearman ρ = 0.860, against r 0.80 and ρ 0.79 for XCOMET and r 0.73 and ρ 0.79 for MetricX, with no test of the differences; four outputs picked after the fact that invert or misplace the source's meaning get COMET scores of 0.65–0.86 against the rater's 1 or 2
 
 ## Source
 

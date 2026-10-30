@@ -1,22 +1,41 @@
 ---
 number: 547
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpif6z9
-promote_when: >-
-  Evidence on whether deployed, instruction-tuned and preference-tuned
-  chat models represent truth independently of the framing of the
-  conversation: internal states that track whether a statement is true and
-  that stay fixed when the frame, the role or the story around the
-  question is changed. The account is supported for real models if what
-  they assert follows the frame and no frame-independent truth variable
-  can be found or used to steer them, and refuted for them if such a
-  variable exists and governs what they assert across frames. The
-  idealization itself is a definition and needs no test. Transcripts in
-  which a model confabulates or is talked past a refusal cannot settle it,
-  since both accounts predict that they happen.
 title: "A language model idealized as continuing any text with a plausible next word from the collection of all plausible texts follows narrative coherence and not truth, so its false statements are confabulations within the story the context sets up; whether trained and aligned chat models keep that nature is an open empirical question the idealization does not settle"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-fourth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065). The title
+    asserts what follows by construction from Bottou and Schölkopf's
+    idealization, which NOTE-102 read in full, and concedes that the
+    idealization does not settle what trained and aligned chat models
+    are, as the essay's own §2 leaves open. A second checker followed
+    the step from the definition: the perfect model's continuation
+    depends only on which plausible texts contain the prefix, the
+    collection is fixed by comprehensibility and so holds plausible
+    falsehoods, so truth is no variable the machine conditions on and a
+    false output is a plausible continuation, a confabulation in the
+    essay's sense. Nothing in the record contradicts it. What the
+    condition asked beyond the title, evidence on deployed models, moves
+    to THEORY-tmppyhmx, Proposed, which extends this entry and keeps the
+    condition word for word (ADR-065 §3; ADR-047 kind 1). The old
+    promote_when: "Evidence on whether deployed, instruction-tuned and
+    preference-tuned chat models represent truth independently of the
+    framing of the conversation: internal states that track whether a
+    statement is true and that stay fixed when the frame, the role or
+    the story around the question is changed. The account is supported
+    for real models if what they assert follows the frame and no
+    frame-independent truth variable can be found or used to steer them,
+    and refuted for them if such a variable exists and governs what they
+    assert across frames. The idealization itself is a definition and
+    needs no test. Transcripts in which a model confabulates or is
+    talked past a refusal cannot settle it, since both accounts predict
+    that they happen."
 tags:
 - cognition
 - philosophy-of-language
@@ -33,6 +52,7 @@ summary: >-
   what makes sense in the story, denies it truth-directedness and
   intention, and never uses the word "sycophancy".
 ---
+<!-- inactive-ok-file: THEORY-tmppyhmx — Proposed; filed beside this reading by the twenty-fourth status review: the wider thesis about deployed chat models -->
 <!-- inactive-ok-file: THEORY-173 THEORY-461 THEORY-490 THEORY-538 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
 # THEORY-547: A language model idealized as continuing any text with a plausible next word from the collection of all plausible texts follows narrative coherence and not truth, so its false statements are confabulations within the story the context sets up; whether trained and aligned chat models keep that nature is an open empirical question the idealization does not settle

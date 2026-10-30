@@ -132,3 +132,13 @@ empirical part it leans on. The same paper's diffusion half is
 [THEORY-774](THEORY-774.md), which is proved. On [QUESTION-217](../questions.d/QUESTION-217.md), the contraction order
 here is an order of relevance to the bare couplings along a refinement
 chain of sublattices. It says nothing about acquisition.
+
+## Note of 2026-10-30: what holds it back
+
+The eigenvalues reported as falling by up to six decades come from Monte
+Carlo covariances with no estimate of the estimator's noise floor and no
+per-step error, and the rates are bands the authors drew, read off the
+figure by eye. Whether the lowest groups' decay is signal is a question
+about the study's internal validity (ADR-065 §7), so the condition stays.
+Nothing rests on this entry, so narrowing it to what Machta et al. report
+would free nothing.
