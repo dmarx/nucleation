@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpfoo2c
 title: 'In Tobiasson, Luo, Wolf and Koonin''s constrained-tree survey of widespread eukaryotic protein families, Asgard archaea are the largest single prokaryotic source, with about half the likelihood weight in the best-resolved families and the lead in nearly every functional system, while Alphaproteobacteria contribute a small, coherent set centred on the mitochondrion and other bacteria about a third of families, scattered across functions with no pathway led by one donor except a narrow Myxococcota signal in nucleotide-sugar and nicotinate metabolism; the authors read this as one Asgard host lineage, one endosymbiont and piecemeal gene transfer rather than further symbioses'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-27'
@@ -62,6 +62,13 @@ history:
     in trouble if one of the scattered bacterial donors turns out to
     have a functionally coherent, time-clustered contribution like the
     mitochondrion's."
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    LIT-1566 is read (NOTE-1234), so the Connections entry that called it
+    unread now names the reading; CLAIM-508, now Active, leaves the
+    directive for Proposed entries. Picked up by the twenty-third status
+    review (LU-DP-011).
 tags:
 - endosymbiosis
 - natural-sciences
@@ -81,7 +88,7 @@ summary: >-
   mitochondrion and "no indication of another symbiotic event". The
   composition is shown; the scenario is read off it.
 ---
-<!-- inactive-ok-file: THEORY-1197 CLAIM-508 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
+<!-- inactive-ok-file: THEORY-1197 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: NOTE-1242 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 # THEORY-1104: In Tobiasson, Luo, Wolf and Koonin's constrained-tree survey of widespread eukaryotic protein families, Asgard archaea are the largest single prokaryotic source, with about half the likelihood weight in the best-resolved families and the lead in nearly every functional system, while Alphaproteobacteria contribute a small, coherent set centred on the mitochondrion and other bacteria about a third of families, scattered across functions with no pathway led by one donor except a narrow Myxococcota signal in nucleotide-sugar and nicotinate metabolism; the authors read this as one Asgard host lineage, one endosymbiont and piecemeal gene transfer rather than further symbioses
 
@@ -168,7 +175,7 @@ Myxococcota signal it did not.
   of the core metabolic network". The measures differ.
 - **[THEORY-1101](THEORY-1101.md)**, from the same paper, is why this one makes no timing
   claim of its own.
-- **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., unread).** The record summarizes it as a complex
+- **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., read in NOTE-1234).** The record summarizes it as a complex
   archaeal host before a late mitochondrion. That is this paper's scenario,
   not its rival.
 - **[QUESTION-277](../questions.d/QUESTION-277.md).** It bears on G: on this account the host lineage supplies

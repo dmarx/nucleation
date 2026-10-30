@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpyr6q4
 title: 'Santana-Molina, Williams, Snel and Spang find that the last eukaryotic common ancestor''s central carbon metabolism was chimeric: a few Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate pathway, four placed with Asgard archaea at bootstrap 39–97% and two ambiguously, most alphaproteobacterial ones in the mitochondrial TCA cycle and pyruvate conversion, and others from various bacteria with no third dominant donor, since remodelled by loss, horizontal replacement and retargeting so that compartment no longer follows origin; the authors take the cytosol–mitochondrion split as support for syntrophy'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-27'
@@ -54,6 +54,13 @@ history:
     that. It is in trouble if the Asgard placements dissolve with better
     sampling, or if the exchanged-metabolite machinery points to a
     different kind of partnership."
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    LIT-1591 is read (NOTE-1238), so the Connections entry that called it
+    unread now names the reading, and it leaves the directive for unread
+    works; CLAIM-506, now Active, leaves the directive for Proposed
+    entries. Picked up by the twenty-third status review (LU-DP-011).
 tags:
 - endosymbiosis
 - natural-sciences
@@ -73,9 +80,9 @@ summary: >-
   as support for syntrophy; it does not discriminate syntrophy from other
   symbiogenetic models.
 ---
-<!-- inactive-ok-file: THEORY-1205 CLAIM-506 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports, and the record's own critique split from its title -->
+<!-- inactive-ok-file: THEORY-1205 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: NOTE-1239 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
-<!-- inactive-ok-file: QUESTION-277 LIT-1591 LIT-1597 — Open, Deferred or Unavailable; the question this bears on and unread works it is set beside, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1597 — Open or Unavailable; the question this bears on and an unavailable work it is set beside, nothing here rests on them -->
 # THEORY-1109: Santana-Molina, Williams, Snel and Spang find that the last eukaryotic common ancestor's central carbon metabolism was chimeric: a few Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate pathway, four placed with Asgard archaea at bootstrap 39–97% and two ambiguously, most alphaproteobacterial ones in the mitochondrial TCA cycle and pyruvate conversion, and others from various bacteria with no third dominant donor, since remodelled by loss, horizontal replacement and retargeting so that compartment no longer follows origin; the authors take the cytosol–mitochondrion split as support for syntrophy
 
 ## Source
@@ -152,7 +159,7 @@ and compartments. In the main they are not.
   archaeal contributions against "the hypothesis that ... the archaeal host
   metabolism was replaced by counterparts from the endosymbiont", citing
   that work. On the paper's evidence, the replacement was partial.
-- **[LIT-1591](../literature.d/LIT-1591.md) (Imachi et al. 2020, unread).** Cited among the syntrophy models
+- **[LIT-1591](../literature.d/LIT-1591.md) (Imachi et al. 2020, read in NOTE-1238).** Cited among the syntrophy models
   this paper supports.
 - **[QUESTION-277](../questions.d/QUESTION-277.md).** It bears on G (functions split between partner genomes by
   origin, now all nuclear) and on C (host-derived enzymes imported into the
