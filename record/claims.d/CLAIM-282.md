@@ -14,7 +14,7 @@ history:
     "once endorsement can carry authority more than one hop, reciprocal and
     cyclic endorsements recycle it, and only one-hop allocation within an
     epoch makes an operator's authority independent of its own
-    endorsements". CLAIM-tmphnxf0 shows both clauses false: leave-one-out
+    endorsements". CLAIM-502 shows both clauses false: leave-one-out
     delegation carries authority beyond one hop and keeps each operator's
     authority exactly independent of its own endorsements. The body argued
     only the damped recursive rule and the one-hop rule, and the title now
@@ -54,7 +54,7 @@ supports:
 illustrated_by:
 - CASE-077
 objected_by:
-- CLAIM-tmphnxf0
+- CLAIM-502
 ---
 <!-- inactive-ok-file: CLAIM-277 CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -120,7 +120,7 @@ concludes, so it carries `formal-apparatus` as a second line ([ADR-040](../decis
   operator's authority independent of its own endorsements. Leave-one-out
   delegation, which counts the authority reaching an operator only along
   paths that have not passed through it, does so while carrying authority
-  beyond one hop ([CLAIM-tmphnxf0](CLAIM-tmphnxf0.md)). That rule is not a cycle ban: cycles
+  beyond one hop ([CLAIM-502](CLAIM-502.md)). That rule is not a cycle ban: cycles
   that avoid the operator still feed it.
 
 ## Note of 2026-10-29: evidence-based subjective logic, an instance with a ceiling

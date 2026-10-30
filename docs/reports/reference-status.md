@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**764 documents cited without acknowledgement.** Not listed: 14200 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**761 documents cited without acknowledgement.** Not listed: 14137 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes
 
-830 citations in 581 files await a look; 34 other citations of it are acknowledged.
+835 citations in 585 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-030.md:14`](../../record/claims.d/CLAIM-030.md)
 - [`record/claims.d/CLAIM-033.md:22`](../../record/claims.d/CLAIM-033.md)
@@ -47,6 +47,8 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/claims.d/CLAIM-193.md:14`](../../record/claims.d/CLAIM-193.md)
 - [`record/claims.d/CLAIM-212.md:14`](../../record/claims.d/CLAIM-212.md)
 - [`record/claims.d/CLAIM-228.md:23`](../../record/claims.d/CLAIM-228.md)
+- [`record/claims.d/CLAIM-233.md:25`](../../record/claims.d/CLAIM-233.md)
+- [`record/claims.d/CLAIM-233.md:37`](../../record/claims.d/CLAIM-233.md)
 - [`record/claims.d/CLAIM-251.md:14`](../../record/claims.d/CLAIM-251.md)
 - [`record/claims.d/CLAIM-267.md:29`](../../record/claims.d/CLAIM-267.md)
 - [`record/claims.d/CLAIM-268.md:24`](../../record/claims.d/CLAIM-268.md)
@@ -55,6 +57,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/claims.d/CLAIM-271.md:14`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-272.md:17`](../../record/claims.d/CLAIM-272.md)
 - [`record/claims.d/CLAIM-273.md:55`](../../record/claims.d/CLAIM-273.md)
+- [`record/claims.d/CLAIM-282.md:22`](../../record/claims.d/CLAIM-282.md)
 - [`record/claims.d/CLAIM-283.md:121`](../../record/claims.d/CLAIM-283.md)
 - [`record/claims.d/CLAIM-285.md:14`](../../record/claims.d/CLAIM-285.md)
 - [`record/claims.d/CLAIM-308.md:14`](../../record/claims.d/CLAIM-308.md)
@@ -89,9 +92,11 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/claims.d/CLAIM-458.md:18`](../../record/claims.d/CLAIM-458.md)
 - [`record/claims.d/CLAIM-486.md:18`](../../record/claims.d/CLAIM-486.md)
 - [`record/claims.d/CLAIM-486.md:39`](../../record/claims.d/CLAIM-486.md)
-- [`record/claims.d/CLAIM-488.md:35`](../../record/claims.d/CLAIM-488.md)
+- [`record/claims.d/CLAIM-488.md:52`](../../record/claims.d/CLAIM-488.md)
 - [`record/claims.d/CLAIM-489.md:40`](../../record/claims.d/CLAIM-489.md)
 - [`record/claims.d/CLAIM-500.md:34`](../../record/claims.d/CLAIM-500.md)
+- [`record/claims.d/CLAIM-501.md:25`](../../record/claims.d/CLAIM-501.md)
+- [`record/claims.d/CLAIM-502.md:17`](../../record/claims.d/CLAIM-502.md)
 - [`record/decisions.d/ADR-049.md:11`](../../record/decisions.d/ADR-049.md)
 - [`record/decisions.d/ADR-049.md:38`](../../record/decisions.d/ADR-049.md)
 - [`record/decisions.d/ADR-049.md:102`](../../record/decisions.d/ADR-049.md)
@@ -1526,8 +1531,8 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 - [`record/claims.d/CLAIM-283.md:136`](../../record/claims.d/CLAIM-283.md)
 - [`record/claims.d/CLAIM-347.md:287`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-432.md:18`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-432.md:214`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-436.md:180`](../../record/claims.d/CLAIM-436.md)
+- [`record/claims.d/CLAIM-432.md:225`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-436.md:190`](../../record/claims.d/CLAIM-436.md)
 - [`record/claims.d/CLAIM-441.md:12`](../../record/claims.d/CLAIM-441.md)
 - [`record/claims.d/CLAIM-441.md:98`](../../record/claims.d/CLAIM-441.md)
 - [`record/claims.d/CLAIM-442.md:23`](../../record/claims.d/CLAIM-442.md)
@@ -1540,11 +1545,11 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 - [`record/claims.d/CLAIM-449.md:55`](../../record/claims.d/CLAIM-449.md)
 - [`record/claims.d/CLAIM-449.md:80`](../../record/claims.d/CLAIM-449.md)
 - [`record/claims.d/CLAIM-449.md:104`](../../record/claims.d/CLAIM-449.md)
-- [`record/claims.d/CLAIM-451.md:127`](../../record/claims.d/CLAIM-451.md)
-- [`record/claims.d/CLAIM-451.md:128`](../../record/claims.d/CLAIM-451.md)
-- [`record/claims.d/CLAIM-468.md:24`](../../record/claims.d/CLAIM-468.md)
-- [`record/claims.d/CLAIM-468.md:39`](../../record/claims.d/CLAIM-468.md)
-- [`record/claims.d/CLAIM-468.md:59`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-451.md:133`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:134`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-468.md:32`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-468.md:47`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-468.md:67`](../../record/claims.d/CLAIM-468.md)
 - [`record/claims.d/CLAIM-484.md:31`](../../record/claims.d/CLAIM-484.md)
 - [`record/decisions.d/ADR-052.md:42`](../../record/decisions.d/ADR-052.md)
 - [`record/literature.d/LIT-1438.md:110`](../../record/literature.d/LIT-1438.md)
@@ -1558,6 +1563,44 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 - [`record/theory.d/THEORY-090.md:216`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-101.md:182`](../../record/theory.d/THEORY-101.md)
 - [`record/theory.d/THEORY-662.md:118`](../../record/theory.d/THEORY-662.md)
+
+### [CLAIM-220](../../record/claims.d/CLAIM-220.md) — Proposed
+
+For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force
+
+31 citations in 10 files await a look; 35 other citations of it are acknowledged.
+
+- [`record/arguments.d/ARG-019.md:12`](../../record/arguments.d/ARG-019.md)
+- [`record/arguments.d/ARG-019.md:13`](../../record/arguments.d/ARG-019.md)
+- [`record/arguments.d/ARG-019.md:15`](../../record/arguments.d/ARG-019.md)
+- [`record/arguments.d/ARG-040.md:12`](../../record/arguments.d/ARG-040.md)
+- [`record/arguments.d/ARG-040.md:13`](../../record/arguments.d/ARG-040.md)
+- [`record/arguments.d/ARG-040.md:14`](../../record/arguments.d/ARG-040.md)
+- [`record/claims.d/CLAIM-078.md:21`](../../record/claims.d/CLAIM-078.md)
+- [`record/claims.d/CLAIM-078.md:23`](../../record/claims.d/CLAIM-078.md)
+- [`record/claims.d/CLAIM-078.md:25`](../../record/claims.d/CLAIM-078.md)
+- [`record/claims.d/CLAIM-078.md:26`](../../record/claims.d/CLAIM-078.md)
+- [`record/claims.d/CLAIM-115.md:27`](../../record/claims.d/CLAIM-115.md)
+- [`record/claims.d/CLAIM-115.md:31`](../../record/claims.d/CLAIM-115.md)
+- [`record/claims.d/CLAIM-115.md:32`](../../record/claims.d/CLAIM-115.md)
+- [`record/claims.d/CLAIM-115.md:38`](../../record/claims.d/CLAIM-115.md)
+- [`record/claims.d/CLAIM-115.md:174`](../../record/claims.d/CLAIM-115.md)
+- [`record/claims.d/CLAIM-115.md:179`](../../record/claims.d/CLAIM-115.md)
+- [`record/claims.d/CLAIM-115.md:183`](../../record/claims.d/CLAIM-115.md)
+- [`record/claims.d/CLAIM-129.md:24`](../../record/claims.d/CLAIM-129.md)
+- [`record/claims.d/CLAIM-129.md:25`](../../record/claims.d/CLAIM-129.md)
+- [`record/claims.d/CLAIM-137.md:31`](../../record/claims.d/CLAIM-137.md)
+- [`record/claims.d/CLAIM-137.md:86`](../../record/claims.d/CLAIM-137.md)
+- [`record/claims.d/CLAIM-137.md:184`](../../record/claims.d/CLAIM-137.md)
+- [`record/claims.d/CLAIM-204.md:28`](../../record/claims.d/CLAIM-204.md)
+- [`record/claims.d/CLAIM-204.md:177`](../../record/claims.d/CLAIM-204.md)
+- [`record/claims.d/CLAIM-223.md:131`](../../record/claims.d/CLAIM-223.md)
+- [`record/claims.d/CLAIM-450.md:18`](../../record/claims.d/CLAIM-450.md)
+- [`record/claims.d/CLAIM-450.md:20`](../../record/claims.d/CLAIM-450.md)
+- [`record/claims.d/CLAIM-450.md:24`](../../record/claims.d/CLAIM-450.md)
+- [`record/claims.d/CLAIM-450.md:26`](../../record/claims.d/CLAIM-450.md)
+- [`record/claims.d/CLAIM-450.md:28`](../../record/claims.d/CLAIM-450.md)
+- [`record/decisions.d/ADR-043.md:233`](../../record/decisions.d/ADR-043.md)
 
 ### [CLAIM-308](../../record/claims.d/CLAIM-308.md) — Proposed
 
@@ -1631,41 +1674,6 @@ Under a deadline, search can establish presence by finding one item but absence 
 - [`record/theory.d/THEORY-358.md:113`](../../record/theory.d/THEORY-358.md)
 - [`record/theory.d/THEORY-367.md:113`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:105`](../../record/theory.d/THEORY-373.md)
-
-### [CLAIM-220](../../record/claims.d/CLAIM-220.md) — Proposed
-
-For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force
-
-28 citations in 9 files await a look; 35 other citations of it are acknowledged.
-
-- [`record/arguments.d/ARG-019.md:12`](../../record/arguments.d/ARG-019.md)
-- [`record/arguments.d/ARG-019.md:13`](../../record/arguments.d/ARG-019.md)
-- [`record/arguments.d/ARG-019.md:15`](../../record/arguments.d/ARG-019.md)
-- [`record/arguments.d/ARG-040.md:12`](../../record/arguments.d/ARG-040.md)
-- [`record/arguments.d/ARG-040.md:13`](../../record/arguments.d/ARG-040.md)
-- [`record/arguments.d/ARG-040.md:14`](../../record/arguments.d/ARG-040.md)
-- [`record/claims.d/CLAIM-078.md:21`](../../record/claims.d/CLAIM-078.md)
-- [`record/claims.d/CLAIM-078.md:23`](../../record/claims.d/CLAIM-078.md)
-- [`record/claims.d/CLAIM-078.md:25`](../../record/claims.d/CLAIM-078.md)
-- [`record/claims.d/CLAIM-078.md:26`](../../record/claims.d/CLAIM-078.md)
-- [`record/claims.d/CLAIM-115.md:27`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-115.md:31`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-115.md:32`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-115.md:38`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-115.md:174`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-115.md:179`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-115.md:183`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-129.md:24`](../../record/claims.d/CLAIM-129.md)
-- [`record/claims.d/CLAIM-129.md:25`](../../record/claims.d/CLAIM-129.md)
-- [`record/claims.d/CLAIM-204.md:28`](../../record/claims.d/CLAIM-204.md)
-- [`record/claims.d/CLAIM-204.md:177`](../../record/claims.d/CLAIM-204.md)
-- [`record/claims.d/CLAIM-223.md:131`](../../record/claims.d/CLAIM-223.md)
-- [`record/claims.d/CLAIM-450.md:18`](../../record/claims.d/CLAIM-450.md)
-- [`record/claims.d/CLAIM-450.md:20`](../../record/claims.d/CLAIM-450.md)
-- [`record/claims.d/CLAIM-450.md:24`](../../record/claims.d/CLAIM-450.md)
-- [`record/claims.d/CLAIM-450.md:26`](../../record/claims.d/CLAIM-450.md)
-- [`record/claims.d/CLAIM-450.md:28`](../../record/claims.d/CLAIM-450.md)
-- [`record/decisions.d/ADR-043.md:233`](../../record/decisions.d/ADR-043.md)
 
 ### [CLAIM-337](../../record/claims.d/CLAIM-337.md) — Proposed
 
@@ -1774,8 +1782,8 @@ The footing, compensation and constitution theses ground on invented cases whose
 - [`record/cases.d/CASE-066.md:122`](../../record/cases.d/CASE-066.md)
 - [`record/cases.d/CASE-072.md:135`](../../record/cases.d/CASE-072.md)
 - [`record/claims.d/CLAIM-061.md:14`](../../record/claims.d/CLAIM-061.md)
-- [`record/claims.d/CLAIM-061.md:120`](../../record/claims.d/CLAIM-061.md)
-- [`record/claims.d/CLAIM-061.md:142`](../../record/claims.d/CLAIM-061.md)
+- [`record/claims.d/CLAIM-061.md:130`](../../record/claims.d/CLAIM-061.md)
+- [`record/claims.d/CLAIM-061.md:152`](../../record/claims.d/CLAIM-061.md)
 - [`record/claims.d/CLAIM-091.md:83`](../../record/claims.d/CLAIM-091.md)
 - [`record/claims.d/CLAIM-151.md:12`](../../record/claims.d/CLAIM-151.md)
 - [`record/claims.d/CLAIM-221.md:88`](../../record/claims.d/CLAIM-221.md)
@@ -1793,7 +1801,7 @@ No action is selfless in the sense of aiming at a good that is no self's: what i
 
 - [`record/literature.d/LIT-1683.md:54`](../../record/literature.d/LIT-1683.md)
 - [`record/literature.d/LIT-1686.md:13`](../../record/literature.d/LIT-1686.md)
-- [`record/literature.d/LIT-1700.md:54`](../../record/literature.d/LIT-1700.md)
+- [`record/literature.d/LIT-1700.md:61`](../../record/literature.d/LIT-1700.md)
 - [`record/literature.d/LIT-1702.md:60`](../../record/literature.d/LIT-1702.md)
 - [`record/literature.d/LIT-1703.md:10`](../../record/literature.d/LIT-1703.md)
 - [`record/literature.d/LIT-1703.md:60`](../../record/literature.d/LIT-1703.md)
@@ -1845,9 +1853,9 @@ goal-conduciveness valence, organizational: a regime in which the negotiation am
 
 19 citations in 10 files await a look; 67 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-432.md:214`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-432.md:218`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-436.md:167`](../../record/claims.d/CLAIM-436.md)
+- [`record/claims.d/CLAIM-432.md:225`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-432.md:229`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-436.md:177`](../../record/claims.d/CLAIM-436.md)
 - [`record/claims.d/CLAIM-441.md:45`](../../record/claims.d/CLAIM-441.md)
 - [`record/claims.d/CLAIM-441.md:59`](../../record/claims.d/CLAIM-441.md)
 - [`record/claims.d/CLAIM-442.md:24`](../../record/claims.d/CLAIM-442.md)
@@ -1985,11 +1993,34 @@ An appraisal of an event's pertinence to the agent's concerns elicits the emotio
 - [`record/terms.d/TERM-078.md:41`](../../record/terms.d/TERM-078.md)
 - [`record/terms.d/TERM-078.md:57`](../../record/terms.d/TERM-078.md)
 
+### [THEORY-101](../../record/theory.d/THEORY-101.md) — Proposed
+
+Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom
+
+16 citations in 4 files await a look; 44 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-039.md:47`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:75`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:94`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:112`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:142`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:146`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-432.md:12`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-432.md:45`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-432.md:215`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-432.md:239`](../../record/claims.d/CLAIM-432.md)
+- [`record/questions.d/QUESTION-059.md:24`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:39`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:43`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:59`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:72`](../../record/questions.d/QUESTION-059.md)
+- [`record/terms.d/TERM-076.md:242`](../../record/terms.d/TERM-076.md)
+
 ### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
 
 A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
 
-16 citations in 6 files await a look; 38 other citations of it are acknowledged.
+16 citations in 6 files await a look; 39 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-030.md:90`](../../record/claims.d/CLAIM-030.md)
 - [`record/claims.d/CLAIM-030.md:107`](../../record/claims.d/CLAIM-030.md)
@@ -2007,28 +2038,6 @@ A corporation that forms its judgments through authorised avowal and corrects th
 - [`record/questions.d/QUESTION-082.md:44`](../../record/questions.d/QUESTION-082.md)
 - [`record/questions.d/QUESTION-082.md:47`](../../record/questions.d/QUESTION-082.md)
 - [`record/terms.d/TERM-083.md:58`](../../record/terms.d/TERM-083.md)
-
-### [THEORY-101](../../record/theory.d/THEORY-101.md) — Proposed
-
-Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom
-
-15 citations in 4 files await a look; 44 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-039.md:47`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:75`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:94`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:112`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:142`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:146`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-432.md:12`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-432.md:32`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-432.md:204`](../../record/claims.d/CLAIM-432.md)
-- [`record/questions.d/QUESTION-059.md:24`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:39`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:43`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:59`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:72`](../../record/questions.d/QUESTION-059.md)
-- [`record/terms.d/TERM-076.md:242`](../../record/terms.d/TERM-076.md)
 
 ### [THEORY-159](../../record/theory.d/THEORY-159.md) — Proposed
 
@@ -2095,6 +2104,27 @@ Two communicative realizations can agree on every probe in a restricted family w
 - [`record/questions.d/QUESTION-069.md:16`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:47`](../../record/questions.d/QUESTION-069.md)
 
+### [CLAIM-446](../../record/claims.d/CLAIM-446.md) — Proposed
+
+Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
+
+14 citations in 12 files await a look; 104 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-283.md:136`](../../record/claims.d/CLAIM-283.md)
+- [`record/claims.d/CLAIM-437.md:159`](../../record/claims.d/CLAIM-437.md)
+- [`record/claims.d/CLAIM-443.md:153`](../../record/claims.d/CLAIM-443.md)
+- [`record/claims.d/CLAIM-445.md:65`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:173`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-447.md:124`](../../record/claims.d/CLAIM-447.md)
+- [`record/claims.d/CLAIM-452.md:112`](../../record/claims.d/CLAIM-452.md)
+- [`record/claims.d/CLAIM-484.md:31`](../../record/claims.d/CLAIM-484.md)
+- [`record/literature.d/LIT-1498.md:57`](../../record/literature.d/LIT-1498.md)
+- [`record/literature.d/LIT-1498.md:59`](../../record/literature.d/LIT-1498.md)
+- [`record/questions.d/QUESTION-045.md:99`](../../record/questions.d/QUESTION-045.md)
+- [`record/questions.d/QUESTION-270.md:99`](../../record/questions.d/QUESTION-270.md)
+- [`record/questions.d/QUESTION-271.md:61`](../../record/questions.d/QUESTION-271.md)
+- [`record/questions.d/QUESTION-325.md:17`](../../record/questions.d/QUESTION-325.md)
+
 ### [NOTE-737](../../record/notes.d/NOTE-737.md) — Skimmed
 
 Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inference
@@ -2136,25 +2166,25 @@ A communicative kind's identity is grounded in its relational organization, for 
 - [`record/claims.d/CLAIM-223.md:132`](../../record/claims.d/CLAIM-223.md)
 - [`record/terms.d/TERM-084.md:52`](../../record/terms.d/TERM-084.md)
 
-### [CLAIM-446](../../record/claims.d/CLAIM-446.md) — Proposed
+### [CLAIM-427](../../record/claims.d/CLAIM-427.md) — Superseded
 
-Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
+Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms
 
-13 citations in 12 files await a look; 104 other citations of it are acknowledged.
+13 citations in 12 files await a look; 20 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-283.md:136`](../../record/claims.d/CLAIM-283.md)
-- [`record/claims.d/CLAIM-437.md:159`](../../record/claims.d/CLAIM-437.md)
-- [`record/claims.d/CLAIM-443.md:153`](../../record/claims.d/CLAIM-443.md)
-- [`record/claims.d/CLAIM-445.md:53`](../../record/claims.d/CLAIM-445.md)
-- [`record/claims.d/CLAIM-447.md:124`](../../record/claims.d/CLAIM-447.md)
-- [`record/claims.d/CLAIM-452.md:112`](../../record/claims.d/CLAIM-452.md)
-- [`record/claims.d/CLAIM-484.md:31`](../../record/claims.d/CLAIM-484.md)
-- [`record/literature.d/LIT-1498.md:57`](../../record/literature.d/LIT-1498.md)
-- [`record/literature.d/LIT-1498.md:59`](../../record/literature.d/LIT-1498.md)
-- [`record/questions.d/QUESTION-045.md:99`](../../record/questions.d/QUESTION-045.md)
-- [`record/questions.d/QUESTION-270.md:99`](../../record/questions.d/QUESTION-270.md)
-- [`record/questions.d/QUESTION-271.md:61`](../../record/questions.d/QUESTION-271.md)
-- [`record/questions.d/QUESTION-325.md:17`](../../record/questions.d/QUESTION-325.md)
+- [`record/cases.d/CASE-144.md:72`](../../record/cases.d/CASE-144.md)
+- [`record/cases.d/CASE-144.md:91`](../../record/cases.d/CASE-144.md)
+- [`record/cases.d/CASE-153.md:104`](../../record/cases.d/CASE-153.md)
+- [`record/claims.d/CLAIM-444.md:105`](../../record/claims.d/CLAIM-444.md)
+- [`record/claims.d/CLAIM-445.md:154`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-446.md:290`](../../record/claims.d/CLAIM-446.md)
+- [`record/claims.d/CLAIM-454.md:32`](../../record/claims.d/CLAIM-454.md)
+- [`record/decisions.d/ADR-061.md:90`](../../record/decisions.d/ADR-061.md)
+- [`record/literature.d/LIT-1607.md:57`](../../record/literature.d/LIT-1607.md)
+- [`record/literature.d/LIT-1613.md:67`](../../record/literature.d/LIT-1613.md)
+- [`record/questions.d/QUESTION-264.md:57`](../../record/questions.d/QUESTION-264.md)
+- [`record/questions.d/QUESTION-268.md:45`](../../record/questions.d/QUESTION-268.md)
+- [`record/questions.d/QUESTION-278.md:81`](../../record/questions.d/QUESTION-278.md)
 
 ### [NOTE-829](../../record/notes.d/NOTE-829.md) — Skimmed
 
@@ -2232,25 +2262,6 @@ Freedom of will and autonomy come in degrees along several dimensions, among the
 - [`record/decisions.d/ADR-052.md:34`](../../record/decisions.d/ADR-052.md)
 - [`record/theory.d/THEORY-134.md:109`](../../record/theory.d/THEORY-134.md)
 - [`record/theory.d/THEORY-411.md:140`](../../record/theory.d/THEORY-411.md)
-
-### [CLAIM-427](../../record/claims.d/CLAIM-427.md) — Superseded
-
-Evidence for the organizational-perspective framework comes in three grades: that different organizations produce the same ordinary behaviour, that they respond differently to independently specified interventions, and that a model representing the coupling of significance, authority and reproduction predicts those responses better than the strongest existing alternatives at matched complexity; only the third bears on the framework's defeater, and no grade counts if success is defined in the framework's own terms
-
-12 citations in 11 files await a look; 21 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-144.md:72`](../../record/cases.d/CASE-144.md)
-- [`record/cases.d/CASE-144.md:91`](../../record/cases.d/CASE-144.md)
-- [`record/cases.d/CASE-153.md:104`](../../record/cases.d/CASE-153.md)
-- [`record/claims.d/CLAIM-444.md:105`](../../record/claims.d/CLAIM-444.md)
-- [`record/claims.d/CLAIM-445.md:142`](../../record/claims.d/CLAIM-445.md)
-- [`record/claims.d/CLAIM-446.md:290`](../../record/claims.d/CLAIM-446.md)
-- [`record/decisions.d/ADR-061.md:90`](../../record/decisions.d/ADR-061.md)
-- [`record/literature.d/LIT-1607.md:57`](../../record/literature.d/LIT-1607.md)
-- [`record/literature.d/LIT-1613.md:67`](../../record/literature.d/LIT-1613.md)
-- [`record/questions.d/QUESTION-264.md:57`](../../record/questions.d/QUESTION-264.md)
-- [`record/questions.d/QUESTION-268.md:45`](../../record/questions.d/QUESTION-268.md)
-- [`record/questions.d/QUESTION-278.md:81`](../../record/questions.d/QUESTION-278.md)
 
 ### [CLAIM-437](../../record/claims.d/CLAIM-437.md) — Proposed
 
@@ -2354,7 +2365,7 @@ The manuscript argues only that preserving the proposition is insufficient; that
 
 - [`record/cases.d/CASE-056.md:36`](../../record/cases.d/CASE-056.md)
 - [`record/claims.d/CLAIM-061.md:14`](../../record/claims.d/CLAIM-061.md)
-- [`record/claims.d/CLAIM-061.md:146`](../../record/claims.d/CLAIM-061.md)
+- [`record/claims.d/CLAIM-061.md:156`](../../record/claims.d/CLAIM-061.md)
 - [`record/claims.d/CLAIM-178.md:73`](../../record/claims.d/CLAIM-178.md)
 - [`record/claims.d/CLAIM-243.md:60`](../../record/claims.d/CLAIM-243.md)
 - [`record/claims.d/CLAIM-324.md:61`](../../record/claims.d/CLAIM-324.md)
@@ -2363,24 +2374,6 @@ The manuscript argues only that preserving the proposition is insufficient; that
 - [`record/decisions.d/ADR-061.md:327`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:330`](../../record/decisions.d/ADR-061.md)
 - [`record/questions.d/QUESTION-026.md:57`](../../record/questions.d/QUESTION-026.md)
-
-### [CLAIM-122](../../record/claims.d/CLAIM-122.md) — Proposed
-
-Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed
-
-11 citations in 9 files await a look; 13 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-112.md:91`](../../record/cases.d/CASE-112.md)
-- [`record/claims.d/CLAIM-027.md:125`](../../record/claims.d/CLAIM-027.md)
-- [`record/claims.d/CLAIM-177.md:120`](../../record/claims.d/CLAIM-177.md)
-- [`record/claims.d/CLAIM-192.md:82`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-354.md:110`](../../record/claims.d/CLAIM-354.md)
-- [`record/claims.d/CLAIM-459.md:58`](../../record/claims.d/CLAIM-459.md)
-- [`record/claims.d/CLAIM-482.md:57`](../../record/claims.d/CLAIM-482.md)
-- [`record/questions.d/QUESTION-062.md:18`](../../record/questions.d/QUESTION-062.md)
-- [`record/questions.d/QUESTION-062.md:35`](../../record/questions.d/QUESTION-062.md)
-- [`record/questions.d/QUESTION-066.md:18`](../../record/questions.d/QUESTION-066.md)
-- [`record/questions.d/QUESTION-066.md:36`](../../record/questions.d/QUESTION-066.md)
 
 ### [CLAIM-198](../../record/claims.d/CLAIM-198.md) — Proposed
 
@@ -2400,11 +2393,47 @@ Preference reversal is not yet disunity: interests that govern a choice at disjo
 - [`record/theory.d/THEORY-067.md:224`](../../record/theory.d/THEORY-067.md)
 - [`record/theory.d/THEORY-067.md:225`](../../record/theory.d/THEORY-067.md)
 
+### [CLAIM-432](../../record/claims.d/CLAIM-432.md) — Proposed
+
+A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
+
+11 citations in 7 files await a look; 8 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-039.md:17`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:45`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:109`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:113`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:124`](../../record/claims.d/CLAIM-039.md)
+- [`record/decisions.d/ADR-061.md:122`](../../record/decisions.d/ADR-061.md)
+- [`record/literature.d/LIT-1426.md:20`](../../record/literature.d/LIT-1426.md)
+- [`record/literature.d/LIT-1430.md:24`](../../record/literature.d/LIT-1430.md)
+- [`record/theory.d/THEORY-055.md:69`](../../record/theory.d/THEORY-055.md)
+- [`record/theory.d/THEORY-131.md:24`](../../record/theory.d/THEORY-131.md)
+- [`record/theory.d/THEORY-139.md:37`](../../record/theory.d/THEORY-139.md)
+
+### [CLAIM-445](../../record/claims.d/CLAIM-445.md) — Proposed
+
+A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
+
+11 citations in 10 files await a look; 20 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-153.md:117`](../../record/cases.d/CASE-153.md)
+- [`record/cases.d/CASE-157.md:114`](../../record/cases.d/CASE-157.md)
+- [`record/claims.d/CLAIM-446.md:264`](../../record/claims.d/CLAIM-446.md)
+- [`record/claims.d/CLAIM-446.md:289`](../../record/claims.d/CLAIM-446.md)
+- [`record/literature.d/LIT-1475.md:42`](../../record/literature.d/LIT-1475.md)
+- [`record/literature.d/LIT-1481.md:68`](../../record/literature.d/LIT-1481.md)
+- [`record/literature.d/LIT-1485.md:61`](../../record/literature.d/LIT-1485.md)
+- [`record/literature.d/LIT-1493.md:45`](../../record/literature.d/LIT-1493.md)
+- [`record/literature.d/LIT-1495.md:55`](../../record/literature.d/LIT-1495.md)
+- [`record/literature.d/LIT-1499.md:46`](../../record/literature.d/LIT-1499.md)
+- [`record/questions.d/QUESTION-045.md:112`](../../record/questions.d/QUESTION-045.md)
+
 ### [CLAIM-476](../../record/claims.d/CLAIM-476.md) — Proposed
 
 Beyond what it does operationally, luria is an apparatus in Barad's constitutive sense for the objects of a record, and only for them: the record's objects are constituted, and not only made referable and governable, by the distinctions its grammar enacts, so that the same authored material is a different set of objects under a revised apparatus, and the record's own inquiry reconstitutes the apparatus that constitutes them
 
-11 citations in 11 files await a look; 24 other citations of it are acknowledged.
+11 citations in 11 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-477.md:75`](../../record/claims.d/CLAIM-477.md)
 - [`record/claims.d/CLAIM-479.md:100`](../../record/claims.d/CLAIM-479.md)
@@ -2789,22 +2818,6 @@ A holistic fidelity judgement is fidelity under the judges' default task, a weig
 - [`record/decisions.d/ADR-043.md:272`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:291`](../../record/decisions.d/ADR-043.md)
 
-### [CLAIM-432](../../record/claims.d/CLAIM-432.md) — Proposed
-
-A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
-
-9 citations in 5 files await a look; 8 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-039.md:17`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:45`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:109`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:113`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:124`](../../record/claims.d/CLAIM-039.md)
-- [`record/decisions.d/ADR-061.md:122`](../../record/decisions.d/ADR-061.md)
-- [`record/theory.d/THEORY-055.md:69`](../../record/theory.d/THEORY-055.md)
-- [`record/theory.d/THEORY-131.md:24`](../../record/theory.d/THEORY-131.md)
-- [`record/theory.d/THEORY-139.md:37`](../../record/theory.d/THEORY-139.md)
-
 ### [CLAIM-433](../../record/claims.d/CLAIM-433.md) — Proposed
 
 The potential account of valence is an account of goal-conduciveness valence, not of intrinsic pleasantness: on the component process model's separation of levels of valence, the ordering that prevails ranks states by need satisfaction and goal attainment, the potential's strength tracks 'wanting' and its sign tracks goal conduciveness, while 'liking' is a separate appraisal with its own ordering; so the wanting–liking dissociation is two valence systems coming apart, as that separation predicts, and the objection that the account is not about pleasure is conceded rather than answered
@@ -2820,6 +2833,38 @@ The potential account of valence is an account of goal-conduciveness valence, no
 - [`record/questions.d/QUESTION-266.md:80`](../../record/questions.d/QUESTION-266.md)
 - [`record/terms.d/TERM-076.md:172`](../../record/terms.d/TERM-076.md)
 - [`record/terms.d/TERM-076.md:239`](../../record/terms.d/TERM-076.md)
+
+### [CLAIM-439](../../record/claims.d/CLAIM-439.md) — Proposed
+
+A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it
+
+9 citations in 8 files await a look; 32 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-411.md:38`](../../record/claims.d/CLAIM-411.md)
+- [`record/claims.d/CLAIM-433.md:152`](../../record/claims.d/CLAIM-433.md)
+- [`record/claims.d/CLAIM-440.md:322`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-442.md:124`](../../record/claims.d/CLAIM-442.md)
+- [`record/questions.d/QUESTION-059.md:13`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:44`](../../record/questions.d/QUESTION-059.md)
+- [`record/terms.d/TERM-076.md:205`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-079.md:68`](../../record/terms.d/TERM-079.md)
+- [`record/theory.d/THEORY-662.md:118`](../../record/theory.d/THEORY-662.md)
+
+### [CLAIM-451](../../record/claims.d/CLAIM-451.md) — Proposed
+
+When an organization's record of winning moves cycles, the failure is organizational nonintegrability, distinct from a perspective's own preference instability and from switching of the governing regime; it becomes organizational tension only when realized as costly reversal against demands the organization maintains, and cognitive dissonance only when that tension is detected and appraised as aversive; learning can relieve it by accommodation, by entrenched precedence or by cheap periodic coordination, which observed coherence does not tell apart, and ambivalence and nonintegrability entail neither one another
+
+9 citations in 9 files await a look; 22 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-440.md:364`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-448.md:76`](../../record/claims.d/CLAIM-448.md)
+- [`record/literature.d/LIT-1474.md:51`](../../record/literature.d/LIT-1474.md)
+- [`record/literature.d/LIT-1504.md:111`](../../record/literature.d/LIT-1504.md)
+- [`record/literature.d/LIT-1509.md:109`](../../record/literature.d/LIT-1509.md)
+- [`record/literature.d/LIT-1516.md:111`](../../record/literature.d/LIT-1516.md)
+- [`record/literature.d/LIT-1520.md:106`](../../record/literature.d/LIT-1520.md)
+- [`record/questions.d/QUESTION-271.md:50`](../../record/questions.d/QUESTION-271.md)
+- [`record/terms.d/TERM-078.md:25`](../../record/terms.d/TERM-078.md)
 
 ### [LIT-267](../../record/literature.d/LIT-267.md) — Proposed
 
@@ -2908,7 +2953,7 @@ Does a state that meets a functional characterization of affect thereby have to 
 9 citations in 9 files await a look; 33 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-107.md:138`](../../record/cases.d/CASE-107.md)
-- [`record/claims.d/CLAIM-432.md:191`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-432.md:202`](../../record/claims.d/CLAIM-432.md)
 - [`record/questions.d/QUESTION-121.md:78`](../../record/questions.d/QUESTION-121.md)
 - [`record/terms.d/TERM-076.md:241`](../../record/terms.d/TERM-076.md)
 - [`record/theory.d/THEORY-045.md:37`](../../record/theory.d/THEORY-045.md)
@@ -2985,7 +3030,7 @@ Morality is the set of solutions to recurrent problems of cooperation, so each o
 
 Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
 
-8 citations in 6 files await a look; 27 other citations of it are acknowledged.
+8 citations in 6 files await a look; 28 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-368.md:33`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:79`](../../record/claims.d/CLAIM-368.md)
@@ -3000,7 +3045,7 @@ Affective states can be properties of organized systems, characterized functiona
 
 What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 
-8 citations in 6 files await a look; 169 other citations of it are acknowledged.
+8 citations in 6 files await a look; 171 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-169.md:131`](../../record/cases.d/CASE-169.md)
 - [`record/claims.d/CLAIM-363.md:74`](../../record/claims.d/CLAIM-363.md)
@@ -3015,7 +3060,7 @@ What survives translation is the set of communicative distinctions and relations
 
 A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support
 
-8 citations in 7 files await a look; 5 other citations of it are acknowledged.
+8 citations in 7 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-104.md:53`](../../record/cases.d/CASE-104.md)
 - [`record/cases.d/CASE-110.md:85`](../../record/cases.d/CASE-110.md)
@@ -3047,7 +3092,7 @@ Veit's common currency and ALARM's override are two regimes of one ordering serv
 
 8 citations in 6 files await a look; 32 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-436.md:157`](../../record/claims.d/CLAIM-436.md)
+- [`record/claims.d/CLAIM-436.md:167`](../../record/claims.d/CLAIM-436.md)
 - [`record/claims.d/CLAIM-440.md:298`](../../record/claims.d/CLAIM-440.md)
 - [`record/literature.d/LIT-1438.md:26`](../../record/literature.d/LIT-1438.md)
 - [`record/notes.d/NOTE-1116.md:241`](../../record/notes.d/NOTE-1116.md)
@@ -3055,21 +3100,6 @@ Veit's common currency and ALARM's override are two regimes of one ordering serv
 - [`record/theory.d/THEORY-090.md:236`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-090.md:238`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-101.md:189`](../../record/theory.d/THEORY-101.md)
-
-### [CLAIM-439](../../record/claims.d/CLAIM-439.md) — Proposed
-
-A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it
-
-8 citations in 7 files await a look; 32 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-433.md:152`](../../record/claims.d/CLAIM-433.md)
-- [`record/claims.d/CLAIM-440.md:322`](../../record/claims.d/CLAIM-440.md)
-- [`record/claims.d/CLAIM-442.md:124`](../../record/claims.d/CLAIM-442.md)
-- [`record/questions.d/QUESTION-059.md:13`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:44`](../../record/questions.d/QUESTION-059.md)
-- [`record/terms.d/TERM-076.md:205`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-079.md:68`](../../record/terms.d/TERM-079.md)
-- [`record/theory.d/THEORY-662.md:118`](../../record/theory.d/THEORY-662.md)
 
 ### [CLAIM-448](../../record/claims.d/CLAIM-448.md) — Proposed
 
@@ -3082,23 +3112,8 @@ An ordinal potential describes only the winning-move relation it is computed on;
 - [`record/claims.d/CLAIM-440.md:179`](../../record/claims.d/CLAIM-440.md)
 - [`record/claims.d/CLAIM-440.md:343`](../../record/claims.d/CLAIM-440.md)
 - [`record/claims.d/CLAIM-440.md:371`](../../record/claims.d/CLAIM-440.md)
-- [`record/claims.d/CLAIM-451.md:122`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:128`](../../record/claims.d/CLAIM-451.md)
 - [`record/decisions.d/ADR-061.md:90`](../../record/decisions.d/ADR-061.md)
-- [`record/terms.d/TERM-078.md:25`](../../record/terms.d/TERM-078.md)
-
-### [CLAIM-451](../../record/claims.d/CLAIM-451.md) — Proposed
-
-When an organization's record of winning moves cycles, the failure is organizational nonintegrability, distinct from a perspective's own preference instability and from switching of the governing regime; it becomes organizational tension only when realized as costly reversal against demands the organization maintains, and cognitive dissonance only when that tension is detected and appraised as aversive; learning can relieve it by accommodation, by entrenched precedence or by cheap periodic coordination, which observed coherence does not tell apart, and ambivalence and nonintegrability entail neither one another
-
-8 citations in 8 files await a look; 22 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-440.md:364`](../../record/claims.d/CLAIM-440.md)
-- [`record/claims.d/CLAIM-448.md:76`](../../record/claims.d/CLAIM-448.md)
-- [`record/literature.d/LIT-1504.md:111`](../../record/literature.d/LIT-1504.md)
-- [`record/literature.d/LIT-1509.md:109`](../../record/literature.d/LIT-1509.md)
-- [`record/literature.d/LIT-1516.md:111`](../../record/literature.d/LIT-1516.md)
-- [`record/literature.d/LIT-1520.md:106`](../../record/literature.d/LIT-1520.md)
-- [`record/questions.d/QUESTION-271.md:50`](../../record/questions.d/QUESTION-271.md)
 - [`record/terms.d/TERM-078.md:25`](../../record/terms.d/TERM-078.md)
 
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
@@ -3310,20 +3325,6 @@ The lab's restricted models, whose predictions could have failed, support the sh
 - [`record/claims.d/CLAIM-336.md:266`](../../record/claims.d/CLAIM-336.md)
 - [`record/claims.d/CLAIM-467.md:12`](../../record/claims.d/CLAIM-467.md)
 
-### [CASE-162](../../record/cases.d/CASE-162.md) — Proposed
-
-Capture and selectively admitted evidence in two lab realizations: in a four-variable model of authority, record and competence the equilibrium fold under self-scoring is at c ≈ 0.4247 while the declared history is trapped from c ≈ 0.4469, and in a 32-member event-level population, admission of cues that depends on the record reverses the sign of the admitted evidence and leaves the worse alternative in charge in 41 of 64 worlds, which exact inverse-propensity weighting brings to 0 of 64 below full selectivity
-
-7 citations in 2 files await a look; 13 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-466.md:11`](../../record/claims.d/CLAIM-466.md)
-- [`record/claims.d/CLAIM-466.md:28`](../../record/claims.d/CLAIM-466.md)
-- [`record/claims.d/CLAIM-466.md:43`](../../record/claims.d/CLAIM-466.md)
-- [`record/claims.d/CLAIM-466.md:65`](../../record/claims.d/CLAIM-466.md)
-- [`record/claims.d/CLAIM-467.md:43`](../../record/claims.d/CLAIM-467.md)
-- [`record/claims.d/CLAIM-467.md:62`](../../record/claims.d/CLAIM-467.md)
-- [`record/claims.d/CLAIM-467.md:84`](../../record/claims.d/CLAIM-467.md)
-
 ### [CLAIM-044](../../record/claims.d/CLAIM-044.md) — Proposed
 
 Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
@@ -3370,7 +3371,7 @@ A system persists as the same self over an interval when a coherence measure is 
 
 In flow an activity's immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless
 
-7 citations in 5 files await a look; 30 other citations of it are acknowledged.
+7 citations in 5 files await a look; 32 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-440.md:397`](../../record/claims.d/CLAIM-440.md)
 - [`record/claims.d/CLAIM-441.md:43`](../../record/claims.d/CLAIM-441.md)
@@ -3379,6 +3380,20 @@ In flow an activity's immediate reward and its longer-run value coincide, so no 
 - [`record/claims.d/CLAIM-449.md:87`](../../record/claims.d/CLAIM-449.md)
 - [`record/terms.d/TERM-061.md:66`](../../record/terms.d/TERM-061.md)
 - [`record/terms.d/TERM-076.md:271`](../../record/terms.d/TERM-076.md)
+
+### [CLAIM-181](../../record/claims.d/CLAIM-181.md) — Proposed
+
+The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
+
+7 citations in 5 files await a look; 31 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-176.md:170`](../../record/claims.d/CLAIM-176.md)
+- [`record/claims.d/CLAIM-178.md:12`](../../record/claims.d/CLAIM-178.md)
+- [`record/claims.d/CLAIM-178.md:102`](../../record/claims.d/CLAIM-178.md)
+- [`record/claims.d/CLAIM-190.md:34`](../../record/claims.d/CLAIM-190.md)
+- [`record/claims.d/CLAIM-190.md:69`](../../record/claims.d/CLAIM-190.md)
+- [`record/literature.d/LIT-1648.md:68`](../../record/literature.d/LIT-1648.md)
+- [`record/literature.d/LIT-756.md:35`](../../record/literature.d/LIT-756.md)
 
 ### [CLAIM-196](../../record/claims.d/CLAIM-196.md) — Proposed
 
@@ -3445,7 +3460,7 @@ Processes conditioned never to object coordinate without override at the same be
 - [`record/claims.d/CLAIM-016.md:110`](../../record/claims.d/CLAIM-016.md)
 - [`record/claims.d/CLAIM-443.md:152`](../../record/claims.d/CLAIM-443.md)
 - [`record/claims.d/CLAIM-448.md:76`](../../record/claims.d/CLAIM-448.md)
-- [`record/claims.d/CLAIM-451.md:121`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:127`](../../record/claims.d/CLAIM-451.md)
 - [`record/decisions.d/ADR-061.md:89`](../../record/decisions.d/ADR-061.md)
 - [`record/terms.d/TERM-006.md:47`](../../record/terms.d/TERM-006.md)
 - [`record/theory.d/THEORY-040.md:64`](../../record/theory.d/THEORY-040.md)
@@ -3580,7 +3595,7 @@ A condition on free agency stated only in present psychological structure is met
 
 Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them
 
-7 citations in 2 files await a look; 96 other citations of it are acknowledged.
+7 citations in 2 files await a look; 97 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-054.md:15`](../../record/questions.d/QUESTION-054.md)
 - [`record/questions.d/QUESTION-054.md:36`](../../record/questions.d/QUESTION-054.md)
@@ -3594,7 +3609,7 @@ Emotion regulation is not a process separate from emotion generation: most of it
 
 How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
 
-7 citations in 3 files await a look; 34 other citations of it are acknowledged.
+7 citations in 3 files await a look; 35 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-027.md:183`](../../record/claims.d/CLAIM-027.md)
 - [`record/decisions.d/ADR-061.md:143`](../../record/decisions.d/ADR-061.md)
@@ -3692,7 +3707,7 @@ Moral judgment draws on several innately prepared intuitive foundations, at leas
 
 Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves
 
-6 citations in 5 files await a look; 15 other citations of it are acknowledged.
+6 citations in 5 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-442.md:95`](../../record/claims.d/CLAIM-442.md)
 - [`record/claims.d/CLAIM-442.md:104`](../../record/claims.d/CLAIM-442.md)
@@ -3705,7 +3720,7 @@ Mindfulness integrates a population of interests by changing which of them may a
 
 On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon
 
-6 citations in 4 files await a look; 16 other citations of it are acknowledged.
+6 citations in 4 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-061.md:104`](../../record/decisions.d/ADR-061.md)
 - [`record/decisions.d/ADR-061.md:106`](../../record/decisions.d/ADR-061.md)
@@ -3799,8 +3814,8 @@ An ordering serving as the negotiation's potential, as the potential account of 
 6 citations in 5 files await a look; 28 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-442.md:114`](../../record/claims.d/CLAIM-442.md)
-- [`record/claims.d/CLAIM-468.md:30`](../../record/claims.d/CLAIM-468.md)
-- [`record/claims.d/CLAIM-468.md:59`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-468.md:38`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-468.md:67`](../../record/claims.d/CLAIM-468.md)
 - [`record/notes.d/NOTE-1109.md:204`](../../record/notes.d/NOTE-1109.md)
 - [`record/terms.d/TERM-076.md:171`](../../record/terms.d/TERM-076.md)
 - [`record/theory.d/THEORY-895.md:160`](../../record/theory.d/THEORY-895.md)
@@ -3817,6 +3832,19 @@ A replicator dynamic on the distribution of authority among an organization's pr
 - [`record/claims.d/CLAIM-452.md:123`](../../record/claims.d/CLAIM-452.md)
 - [`record/literature.d/LIT-1516.md:112`](../../record/literature.d/LIT-1516.md)
 - [`record/literature.d/LIT-1520.md:103`](../../record/literature.d/LIT-1520.md)
+
+### [CLAIM-501](../../record/claims.d/CLAIM-501.md) — Proposed
+
+Gutt's interpretive resemblance also predicts that judged pragmatic observables beat text similarity, so the central theses' defeat conditions cannot tell the thesis from a relevance-theoretic account either
+
+6 citations in 3 files await a look.
+
+- [`record/arguments.d/ARG-026.md:109`](../../record/arguments.d/ARG-026.md)
+- [`record/claims.d/CLAIM-233.md:37`](../../record/claims.d/CLAIM-233.md)
+- [`record/claims.d/CLAIM-233.md:61`](../../record/claims.d/CLAIM-233.md)
+- [`record/claims.d/CLAIM-233.md:105`](../../record/claims.d/CLAIM-233.md)
+- [`record/claims.d/CLAIM-233.md:166`](../../record/claims.d/CLAIM-233.md)
+- [`record/literature.d/LIT-784.md:48`](../../record/literature.d/LIT-784.md)
 
 ### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
 
@@ -4006,7 +4034,7 @@ A mind of mindless agents and a mind of minded agents are one functionalist move
 
 6 citations in 4 files await a look; 199 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-432.md:210`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-432.md:221`](../../record/claims.d/CLAIM-432.md)
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
 - [`record/literature.d/LIT-1484.md:100`](../../record/literature.d/LIT-1484.md)
@@ -4069,7 +4097,7 @@ The solutions SGD finds in a deep network lie in one connected low-loss set, joi
 
 Which self-category a person uses, what it means and who in it is most typical vary lawfully with the comparative frame of reference: a grouping of self with others becomes salient as the differences within it shrink relative to the differences between it and the rest of the frame (metacontrast) and as those differences match expectations about the category, and as it does, self-perception is depersonalized
 
-6 citations in 6 files await a look; 39 other citations of it are acknowledged.
+6 citations in 6 files await a look; 41 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1726.md:54`](../../record/literature.d/LIT-1726.md)
 - [`record/literature.d/LIT-1742.md:15`](../../record/literature.d/LIT-1742.md)
@@ -4082,7 +4110,7 @@ Which self-category a person uses, what it means and who in it is most typical v
 
 A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
 
-6 citations in 3 files await a look; 21 other citations of it are acknowledged.
+6 citations in 3 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-271.md:20`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-271.md:79`](../../record/claims.d/CLAIM-271.md)
@@ -4156,6 +4184,19 @@ A system's causal structure can be most effective at a macro scale, so that caus
 - [`record/literature.d/LIT-1843.md:32`](../../record/literature.d/LIT-1843.md)
 - [`record/literature.d/LIT-1843.md:101`](../../record/literature.d/LIT-1843.md)
 
+### [THEORY-885](../../record/theory.d/THEORY-885.md) — Proposed
+
+Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change
+
+6 citations in 3 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-423.md:166`](../../record/claims.d/CLAIM-423.md)
+- [`record/claims.d/CLAIM-445.md:18`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:93`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
+- [`record/literature.d/LIT-1493.md:29`](../../record/literature.d/LIT-1493.md)
+- [`record/literature.d/LIT-1493.md:82`](../../record/literature.d/LIT-1493.md)
+
 ### [THEORY-914](../../record/theory.d/THEORY-914.md) — Proposed
 
 In fear conditioning, extinction does not erase the original threat association but adds a competing inhibitory one, which is why extinguished fear can return with time, a change of context, an unsignalled aversive event or renewed pairing
@@ -4205,18 +4246,6 @@ In documented reconstruction chains, steps that keep most local judgements commo
 - [`record/notes.d/NOTE-236.md:172`](../../record/notes.d/NOTE-236.md)
 - [`record/notes.d/NOTE-236.md:186`](../../record/notes.d/NOTE-236.md)
 
-### [CLAIM-181](../../record/claims.d/CLAIM-181.md) — Proposed
-
-The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
-
-5 citations in 3 files await a look; 29 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-178.md:12`](../../record/claims.d/CLAIM-178.md)
-- [`record/claims.d/CLAIM-178.md:102`](../../record/claims.d/CLAIM-178.md)
-- [`record/claims.d/CLAIM-190.md:34`](../../record/claims.d/CLAIM-190.md)
-- [`record/claims.d/CLAIM-190.md:69`](../../record/claims.d/CLAIM-190.md)
-- [`record/literature.d/LIT-1648.md:68`](../../record/literature.d/LIT-1648.md)
-
 ### [CLAIM-258](../../record/claims.d/CLAIM-258.md) — Proposed
 
 Blackwell's order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent
@@ -4262,8 +4291,8 @@ An organization can be governed from outside without any of its decisions being 
 - [`record/cases.d/CASE-146.md:66`](../../record/cases.d/CASE-146.md)
 - [`record/claims.d/CLAIM-429.md:111`](../../record/claims.d/CLAIM-429.md)
 - [`record/claims.d/CLAIM-430.md:109`](../../record/claims.d/CLAIM-430.md)
-- [`record/claims.d/CLAIM-466.md:33`](../../record/claims.d/CLAIM-466.md)
-- [`record/claims.d/CLAIM-466.md:54`](../../record/claims.d/CLAIM-466.md)
+- [`record/claims.d/CLAIM-466.md:46`](../../record/claims.d/CLAIM-466.md)
+- [`record/claims.d/CLAIM-466.md:67`](../../record/claims.d/CLAIM-466.md)
 
 ### [CLAIM-417](../../record/claims.d/CLAIM-417.md) — Proposed
 
@@ -4276,18 +4305,6 @@ What the record explained by "self" in its dispositional, persisting, self-gover
 - [`record/claims.d/CLAIM-428.md:84`](../../record/claims.d/CLAIM-428.md)
 - [`record/claims.d/CLAIM-430.md:61`](../../record/claims.d/CLAIM-430.md)
 - [`record/terms.d/TERM-084.md:60`](../../record/terms.d/TERM-084.md)
-
-### [CLAIM-445](../../record/claims.d/CLAIM-445.md) — Proposed
-
-A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
-
-5 citations in 4 files await a look; 20 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-153.md:117`](../../record/cases.d/CASE-153.md)
-- [`record/cases.d/CASE-157.md:114`](../../record/cases.d/CASE-157.md)
-- [`record/claims.d/CLAIM-446.md:264`](../../record/claims.d/CLAIM-446.md)
-- [`record/claims.d/CLAIM-446.md:289`](../../record/claims.d/CLAIM-446.md)
-- [`record/questions.d/QUESTION-045.md:112`](../../record/questions.d/QUESTION-045.md)
 
 ### [CLAIM-447](../../record/claims.d/CLAIM-447.md) — Proposed
 
@@ -4313,6 +4330,30 @@ Valence intensity need not be the strength of the prevailing ordering's potentia
 - [`record/claims.d/CLAIM-440.md:384`](../../record/claims.d/CLAIM-440.md)
 - [`record/claims.d/CLAIM-440.md:401`](../../record/claims.d/CLAIM-440.md)
 
+### [CLAIM-488](../../record/claims.d/CLAIM-488.md) — Proposed
+
+Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem
+
+5 citations in 3 files await a look.
+
+- [`record/claims.d/CLAIM-050.md:41`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:104`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:165`](../../record/claims.d/CLAIM-050.md)
+- [`record/literature.d/LIT-767.md:36`](../../record/literature.d/LIT-767.md)
+- [`record/literature.d/LIT-778.md:39`](../../record/literature.d/LIT-778.md)
+
+### [LIT-1445](../../record/literature.d/LIT-1445.md) — Unfetched
+
+Pleasure as a sign you can attend to something else: Placing positive feelings within a general model of affect
+
+5 citations in 1 file await a look; 6 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-468.md:12`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-468.md:37`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-468.md:50`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-468.md:76`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-468.md:86`](../../record/claims.d/CLAIM-468.md)
+
 ### [LIT-331](../../record/literature.d/LIT-331.md) — Unavailable
 
 Zur Theorie der hyperkomplexen Zahlen
@@ -4329,7 +4370,7 @@ Zur Theorie der hyperkomplexen Zahlen
 
 Comparison of Statistical Experiments
 
-5 citations in 5 files await a look; 13 other citations of it are acknowledged.
+5 citations in 5 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
 - [`record/literature.d/LIT-781.md:92`](../../record/literature.d/LIT-781.md)
@@ -4348,6 +4389,18 @@ Rogers Commission — Report on the Space Shuttle Challenger accident
 - [`record/literature.d/LIT-1393.md:31`](../../record/literature.d/LIT-1393.md)
 - [`record/literature.d/LIT-1393.md:69`](../../record/literature.d/LIT-1393.md)
 - [`record/literature.d/LIT-1393.md:83`](../../record/literature.d/LIT-1393.md)
+
+### [NOTE-1112](../../record/notes.d/NOTE-1112.md) — Skimmed
+
+Theory of Value: An Axiomatic Analysis of Economic Equilibrium
+
+5 citations in 3 files await a look.
+
+- [`record/claims.d/CLAIM-436.md:37`](../../record/claims.d/CLAIM-436.md)
+- [`record/claims.d/CLAIM-436.md:105`](../../record/claims.d/CLAIM-436.md)
+- [`record/literature.d/LIT-1435.md:6`](../../record/literature.d/LIT-1435.md)
+- [`record/literature.d/LIT-1435.md:100`](../../record/literature.d/LIT-1435.md)
+- [`record/literature.d/LIT-1454.md:95`](../../record/literature.d/LIT-1454.md)
 
 ### [NOTE-1283](../../record/notes.d/NOTE-1283.md) — Skimmed
 
@@ -4584,33 +4637,10 @@ Claims to be conscious are produced by an automatic internal model, and since su
 5 citations in 5 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-355.md:277`](../../record/claims.d/CLAIM-355.md)
-- [`record/claims.d/CLAIM-411.md:167`](../../record/claims.d/CLAIM-411.md)
-- [`record/claims.d/CLAIM-412.md:326`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-411.md:178`](../../record/claims.d/CLAIM-411.md)
+- [`record/claims.d/CLAIM-412.md:342`](../../record/claims.d/CLAIM-412.md)
 - [`record/questions.d/QUESTION-254.md:236`](../../record/questions.d/QUESTION-254.md)
 - [`record/terms.d/TERM-072.md:208`](../../record/terms.d/TERM-072.md)
-
-### [THEORY-885](../../record/theory.d/THEORY-885.md) — Proposed
-
-Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change
-
-5 citations in 3 files await a look; 4 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-423.md:166`](../../record/claims.d/CLAIM-423.md)
-- [`record/claims.d/CLAIM-445.md:81`](../../record/claims.d/CLAIM-445.md)
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
-- [`record/literature.d/LIT-1493.md:29`](../../record/literature.d/LIT-1493.md)
-- [`record/literature.d/LIT-1493.md:77`](../../record/literature.d/LIT-1493.md)
-
-### [CASE-161](../../record/cases.d/CASE-161.md) — Proposed
-
-Reciprocally produced, externally reset and feedback-only governing rules in a 32-member population: with ordinary trajectories identical, reciprocal production repairs the loss of one rule and not of both and fails after producer outages of 36 updates for audit and 40 for admission, after an audit-rule pulse the next audit integrity is 1.00, 0.18 and 0.00 in the three arrangements, and a self-dependent production graph does not regenerate a zeroed rule
-
-4 citations in 1 file await a look; 16 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-456.md:11`](../../record/claims.d/CLAIM-456.md)
-- [`record/claims.d/CLAIM-456.md:29`](../../record/claims.d/CLAIM-456.md)
-- [`record/claims.d/CLAIM-456.md:44`](../../record/claims.d/CLAIM-456.md)
-- [`record/claims.d/CLAIM-456.md:55`](../../record/claims.d/CLAIM-456.md)
 
 ### [CLAIM-016](../../record/claims.d/CLAIM-016.md) — Deferred
 
@@ -4689,11 +4719,22 @@ When an agent does the filing, the cost of capturing argument falls on the party
 - [`record/literature.d/LIT-761.md:33`](../../record/literature.d/LIT-761.md)
 - [`record/questions.d/QUESTION-072.md:124`](../../record/questions.d/QUESTION-072.md)
 
+### [CLAIM-184](../../record/claims.d/CLAIM-184.md) — Proposed
+
+Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
+
+4 citations in 3 files await a look; 15 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-185.md:221`](../../record/claims.d/CLAIM-185.md)
+- [`record/literature.d/LIT-917.md:30`](../../record/literature.d/LIT-917.md)
+- [`record/literature.d/LIT-917.md:32`](../../record/literature.d/LIT-917.md)
+- [`record/questions.d/QUESTION-172.md:20`](../../record/questions.d/QUESTION-172.md)
+
 ### [CLAIM-186](../../record/claims.d/CLAIM-186.md) — Proposed
 
 How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival
 
-4 citations in 2 files await a look; 38 other citations of it are acknowledged.
+4 citations in 2 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-192.md:47`](../../record/claims.d/CLAIM-192.md)
 - [`record/claims.d/CLAIM-192.md:77`](../../record/claims.d/CLAIM-192.md)
@@ -4919,17 +4960,6 @@ Clustering and the hyperbolic geometry of complex networks
 - [`record/literature.d/LIT-1283.md:84`](../../record/literature.d/LIT-1283.md)
 - [`record/theory.d/THEORY-188.md:25`](../../record/theory.d/THEORY-188.md)
 - [`record/theory.d/THEORY-188.md:146`](../../record/theory.d/THEORY-188.md)
-
-### [NOTE-1112](../../record/notes.d/NOTE-1112.md) — Skimmed
-
-Theory of Value: An Axiomatic Analysis of Economic Equilibrium
-
-4 citations in 3 files await a look.
-
-- [`record/claims.d/CLAIM-436.md:95`](../../record/claims.d/CLAIM-436.md)
-- [`record/literature.d/LIT-1435.md:6`](../../record/literature.d/LIT-1435.md)
-- [`record/literature.d/LIT-1435.md:100`](../../record/literature.d/LIT-1435.md)
-- [`record/literature.d/LIT-1454.md:89`](../../record/literature.d/LIT-1454.md)
 
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
@@ -5261,13 +5291,24 @@ The feeling of fluency is an inference about the precision of one's own processi
 - [`record/questions.d/QUESTION-121.md:90`](../../record/questions.d/QUESTION-121.md)
 - [`record/theory.d/THEORY-564.md:132`](../../record/theory.d/THEORY-564.md)
 
+### [THEORY-871](../../record/theory.d/THEORY-871.md) — Proposed
+
+Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal
+
+4 citations in 2 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-412.md:61`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:67`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:352`](../../record/claims.d/CLAIM-412.md)
+- [`record/theory.d/THEORY-056.md:228`](../../record/theory.d/THEORY-056.md)
+
 ### [THEORY-876](../../record/theory.d/THEORY-876.md) — Proposed
 
 Phenomenal consciousness is the coherent functioning of an embodied agent's generative model of its sensorium, coherent in space, time and cause and run either coupled to sense data (perception) or decoupled from it (imagination); embodied grounding, the model's capacity to inform and be informed by action–perception cycles at behavioural timescales and the history of such coupling by which it was learned, is necessary, so that integrated information or a functional global workspace without it does not suffice
 
 4 citations in 4 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:317`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:333`](../../record/claims.d/CLAIM-412.md)
 - [`record/claims.d/CLAIM-413.md:190`](../../record/claims.d/CLAIM-413.md)
 - [`record/questions.d/QUESTION-254.md:232`](../../record/questions.d/QUESTION-254.md)
 - [`record/questions.d/QUESTION-255.md:210`](../../record/questions.d/QUESTION-255.md)
@@ -5278,7 +5319,7 @@ Consciousness in an inferring system requires three things: a unified generative
 
 4 citations in 4 files await a look; 5 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:322`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:338`](../../record/claims.d/CLAIM-412.md)
 - [`record/claims.d/CLAIM-414.md:156`](../../record/claims.d/CLAIM-414.md)
 - [`record/questions.d/QUESTION-254.md:229`](../../record/questions.d/QUESTION-254.md)
 - [`record/questions.d/QUESTION-255.md:209`](../../record/questions.d/QUESTION-255.md)
@@ -5314,7 +5355,7 @@ Cross learning has the expected motion of the replicator dynamic and follows it 
 - [`record/cases.d/CASE-155.md:131`](../../record/cases.d/CASE-155.md)
 - [`record/claims.d/CLAIM-444.md:134`](../../record/claims.d/CLAIM-444.md)
 - [`record/claims.d/CLAIM-446.md:278`](../../record/claims.d/CLAIM-446.md)
-- [`record/claims.d/CLAIM-451.md:146`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:152`](../../record/claims.d/CLAIM-451.md)
 
 ### [ADR-056](../../record/decisions.d/ADR-056.md) — Proposed
 
@@ -5350,7 +5391,7 @@ The 2016 Contextuality-by-Default paper grounds the criterion the manuscript's g
 
 Judged pragmatic observables that predict human judgements of fidelity or shared kind better than text similarity support the central theses of the pragmatic-transport line
 
-3 citations in 2 files await a look; 5 other citations of it are acknowledged.
+3 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-005.md:36`](../../record/claims.d/CLAIM-005.md)
 - [`record/claims.d/CLAIM-005.md:140`](../../record/claims.d/CLAIM-005.md)
@@ -5410,7 +5451,7 @@ Krifka's performative updates fix which changes in conversational standing count
 
 Canguilhem's distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity
 
-3 citations in 2 files await a look; 5 other citations of it are acknowledged.
+3 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-061.md:123`](../../record/decisions.d/ADR-061.md)
 - [`record/questions.d/QUESTION-045.md:39`](../../record/questions.d/QUESTION-045.md)
@@ -5530,7 +5571,7 @@ A communicative kind is identified by an invariant that does not depend on any o
 
 Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization
 
-3 citations in 3 files await a look; 119 other citations of it are acknowledged.
+3 citations in 3 files await a look; 121 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-111.md:90`](../../record/claims.d/CLAIM-111.md)
 - [`record/claims.d/CLAIM-136.md:167`](../../record/claims.d/CLAIM-136.md)
@@ -5606,6 +5647,16 @@ Communicative kinds are repeatable organizations of relations among participants
 - [`record/claims.d/CLAIM-204.md:27`](../../record/claims.d/CLAIM-204.md)
 - [`record/claims.d/CLAIM-204.md:176`](../../record/claims.d/CLAIM-204.md)
 
+### [CLAIM-221](../../record/claims.d/CLAIM-221.md) — Proposed
+
+The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one
+
+3 citations in 2 files await a look; 34 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-137.md:205`](../../record/claims.d/CLAIM-137.md)
+- [`record/claims.d/CLAIM-217.md:199`](../../record/claims.d/CLAIM-217.md)
+- [`record/claims.d/CLAIM-217.md:207`](../../record/claims.d/CLAIM-217.md)
+
 ### [CLAIM-281](../../record/claims.d/CLAIM-281.md) — Proposed
 
 Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions
@@ -5620,7 +5671,7 @@ Endorsement indexed by role lets a process empower another as a critic while opp
 
 Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed
 
-3 citations in 2 files await a look; 8 other citations of it are acknowledged.
+3 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-336.md:108`](../../record/claims.d/CLAIM-336.md)
 - [`record/claims.d/CLAIM-336.md:264`](../../record/claims.d/CLAIM-336.md)
@@ -5656,25 +5707,25 @@ A loosely organized population can change what an outside institution does throu
 - [`record/questions.d/QUESTION-119.md:68`](../../record/questions.d/QUESTION-119.md)
 - [`record/terms.d/TERM-080.md:67`](../../record/terms.d/TERM-080.md)
 
-### [CLAIM-353](../../record/claims.d/CLAIM-353.md) — Proposed
-
-A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow's impossibility this is not escaped by giving endorsement richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction
-
-3 citations in 3 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-346.md:124`](../../record/claims.d/CLAIM-346.md)
-- [`record/claims.d/CLAIM-436.md:180`](../../record/claims.d/CLAIM-436.md)
-- [`record/claims.d/CLAIM-440.md:157`](../../record/claims.d/CLAIM-440.md)
-
 ### [CLAIM-412](../../record/claims.d/CLAIM-412.md) — Proposed
 
 Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization
 
-3 citations in 3 files await a look; 75 other citations of it are acknowledged.
+3 citations in 3 files await a look; 78 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-439.md:112`](../../record/claims.d/CLAIM-439.md)
 - [`record/claims.d/CLAIM-440.md:347`](../../record/claims.d/CLAIM-440.md)
 - [`record/decisions.d/ADR-061.md:119`](../../record/decisions.d/ADR-061.md)
+
+### [CLAIM-431](../../record/claims.d/CLAIM-431.md) — Proposed
+
+A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives
+
+3 citations in 3 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-039.md:124`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-432.md:241`](../../record/claims.d/CLAIM-432.md)
+- [`record/literature.d/LIT-1432.md:24`](../../record/literature.d/LIT-1432.md)
 
 ### [CLAIM-461](../../record/claims.d/CLAIM-461.md) — Proposed
 
@@ -5696,15 +5747,15 @@ Because an apparatus makes some distinctions determinate and leaves others unsta
 - [`record/literature.d/LIT-1631.md:58`](../../record/literature.d/LIT-1631.md)
 - [`record/literature.d/LIT-1657.md:70`](../../record/literature.d/LIT-1657.md)
 
-### [CLAIM-488](../../record/claims.d/CLAIM-488.md) — Proposed
+### [CLAIM-494](../../record/claims.d/CLAIM-494.md) — Proposed
 
-Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem
+Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
 
-3 citations in 1 file await a look.
+3 citations in 1 file await a look; 39 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:41`](../../record/claims.d/CLAIM-050.md)
-- [`record/claims.d/CLAIM-050.md:104`](../../record/claims.d/CLAIM-050.md)
-- [`record/claims.d/CLAIM-050.md:165`](../../record/claims.d/CLAIM-050.md)
+- [`record/literature.d/LIT-1700.md:33`](../../record/literature.d/LIT-1700.md)
+- [`record/literature.d/LIT-1700.md:35`](../../record/literature.d/LIT-1700.md)
+- [`record/literature.d/LIT-1700.md:61`](../../record/literature.d/LIT-1700.md)
 
 ### [LIT-009](../../record/literature.d/LIT-009.md) — Proposed
 
@@ -5804,7 +5855,7 @@ Liking a Person as a Function of Doing Him a Favour
 
 - [`record/cases.d/CASE-143.md:31`](../../record/cases.d/CASE-143.md)
 - [`record/cases.d/CASE-143.md:58`](../../record/cases.d/CASE-143.md)
-- [`record/literature.d/LIT-1474.md:84`](../../record/literature.d/LIT-1474.md)
+- [`record/literature.d/LIT-1474.md:88`](../../record/literature.d/LIT-1474.md)
 
 ### [LIT-1423](../../record/literature.d/LIT-1423.md) — Unavailable
 
@@ -5836,15 +5887,25 @@ Debunking Corporate Moral Responsibility
 - [`record/theory.d/THEORY-131.md:128`](../../record/theory.d/THEORY-131.md)
 - [`record/theory.d/THEORY-139.md:140`](../../record/theory.d/THEORY-139.md)
 
-### [LIT-1445](../../record/literature.d/LIT-1445.md) — Unfetched
+### [LIT-1485](../../record/literature.d/LIT-1485.md) — Unfetched
 
-Pleasure as a sign you can attend to something else: Placing positive feelings within a general model of affect
+Emergency powers in democratic states: Introducing the Democratic Emergency Powers dataset
 
-3 citations in 1 file await a look; 6 other citations of it are acknowledged.
+3 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/claims.d/CLAIM-468.md:29`](../../record/claims.d/CLAIM-468.md)
-- [`record/claims.d/CLAIM-468.md:42`](../../record/claims.d/CLAIM-468.md)
-- [`record/claims.d/CLAIM-468.md:68`](../../record/claims.d/CLAIM-468.md)
+- [`record/claims.d/CLAIM-445.md:17`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
+- [`record/notes.d/NOTE-1125.md:148`](../../record/notes.d/NOTE-1125.md)
+
+### [LIT-1499](../../record/literature.d/LIT-1499.md) — Unavailable
+
+Security: A New Framework for Analysis
+
+3 citations in 2 files await a look.
+
+- [`record/claims.d/CLAIM-445.md:15`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
+- [`record/notes.d/NOTE-1133.md:128`](../../record/notes.d/NOTE-1133.md)
 
 ### [LIT-391](../../record/literature.d/LIT-391.md) — Unavailable
 
@@ -5870,11 +5931,31 @@ Convention: A Philosophical Study
 
 Structural Anthropology
 
-3 citations in 2 files await a look; 12 other citations of it are acknowledged.
+3 citations in 2 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-082.md:19`](../../record/claims.d/CLAIM-082.md)
 - [`record/claims.d/CLAIM-082.md:81`](../../record/claims.d/CLAIM-082.md)
 - [`record/decisions.d/ADR-034.md:40`](../../record/decisions.d/ADR-034.md)
+
+### [LIT-784](../../record/literature.d/LIT-784.md) — Unavailable
+
+Translation and Relevance: Cognition and Context
+
+3 citations in 3 files await a look; 13 other citations of it are acknowledged.
+
+- [`record/arguments.d/ARG-026.md:109`](../../record/arguments.d/ARG-026.md)
+- [`record/claims.d/CLAIM-205.md:70`](../../record/claims.d/CLAIM-205.md)
+- [`record/decisions.d/ADR-033.md:23`](../../record/decisions.d/ADR-033.md)
+
+### [LIT-927](../../record/literature.d/LIT-927.md) — Unavailable
+
+Instabilities and pattern formation in crystal growth
+
+3 citations in 3 files await a look.
+
+- [`record/claims.d/CLAIM-181.md:159`](../../record/claims.d/CLAIM-181.md)
+- [`record/claims.d/CLAIM-186.md:34`](../../record/claims.d/CLAIM-186.md)
+- [`record/literature.d/LIT-1664.md:60`](../../record/literature.d/LIT-1664.md)
 
 ### [NOTE-1012](../../record/notes.d/NOTE-1012.md) — Skimmed
 
@@ -6282,7 +6363,7 @@ Whether a view of mind is organicist or informationalist is a dimension orthogon
 
 3 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:354`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:370`](../../record/claims.d/CLAIM-412.md)
 - [`record/claims.d/CLAIM-413.md:197`](../../record/claims.d/CLAIM-413.md)
 - [`record/questions.d/QUESTION-254.md:242`](../../record/questions.d/QUESTION-254.md)
 
@@ -6292,7 +6373,7 @@ Instructed reappraisal of aversive pictures engages anterior prefrontal, temporo
 
 3 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:336`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:352`](../../record/claims.d/CLAIM-412.md)
 - [`record/theory.d/THEORY-056.md:226`](../../record/theory.d/THEORY-056.md)
 - [`record/theory.d/THEORY-070.md:174`](../../record/theory.d/THEORY-070.md)
 
@@ -6302,9 +6383,19 @@ Under active inference, the contents of consciousness are posterior beliefs abou
 
 3 citations in 3 files await a look; 6 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:320`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:336`](../../record/claims.d/CLAIM-412.md)
 - [`record/claims.d/CLAIM-414.md:155`](../../record/claims.d/CLAIM-414.md)
 - [`record/questions.d/QUESTION-254.md:226`](../../record/questions.d/QUESTION-254.md)
+
+### [THEORY-911](../../record/theory.d/THEORY-911.md) — Proposed
+
+Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and unlawful emergencies lasted 321 days on average against 115
+
+3 citations in 1 file await a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-445.md:21`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:178`](../../record/claims.d/CLAIM-445.md)
 
 ### [THEORY-932](../../record/theory.d/THEORY-932.md) — Proposed
 
@@ -6316,13 +6407,23 @@ The replicator-plus-entropy model of Boltzmann Q-learning in two-player stateles
 - [`record/claims.d/CLAIM-444.md:121`](../../record/claims.d/CLAIM-444.md)
 - [`record/claims.d/CLAIM-446.md:271`](../../record/claims.d/CLAIM-446.md)
 
+### [THEORY-936](../../record/theory.d/THEORY-936.md) — Proposed
+
+In two-agent rock–scissors–paper played by softmax reinforcement learners, nonzero tie rewards give quasiperiodic tori and Hamiltonian chaos without memory decay, and limit cycles and chaotic attractors with it, over a large share of the tie-reward range simulated
+
+3 citations in 2 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-155.md:144`](../../record/cases.d/CASE-155.md)
+- [`record/claims.d/CLAIM-451.md:154`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:175`](../../record/claims.d/CLAIM-451.md)
+
 ### [THEORY-944](../../record/theory.d/THEORY-944.md) — Proposed
 
 The value of the zero-sum game between two populations' evaluation matrices does not depend on which Nash equilibrium is used, is unchanged by adding agents that behave as mixtures of existing members, and is not positive for a population whose agents are all behavioural mixtures of the other's
 
 3 citations in 3 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/claims.d/CLAIM-451.md:164`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:170`](../../record/claims.d/CLAIM-451.md)
 - [`record/questions.d/QUESTION-271.md:74`](../../record/questions.d/QUESTION-271.md)
 - [`record/theory.d/THEORY-946.md:94`](../../record/theory.d/THEORY-946.md)
 
@@ -6381,6 +6482,15 @@ The manuscript's renderings, which keep the words and change the act, show that 
 - [`record/arguments.d/ARG-020.md:70`](../../record/arguments.d/ARG-020.md)
 - [`record/arguments.d/ARG-039.md:57`](../../record/arguments.d/ARG-039.md)
 
+### [ARG-025](../../record/arguments.d/ARG-025.md) — Proposed
+
+Matched ordinary behaviour and differing responses to intervention show that organizational perspectives explain what the record explained by self
+
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-417.md:257`](../../record/claims.d/CLAIM-417.md)
+- [`record/claims.d/CLAIM-454.md:32`](../../record/claims.d/CLAIM-454.md)
+
 ### [ARG-028](../../record/arguments.d/ARG-028.md) — Proposed
 
 Inbound references per code and turns per filed entry show which structures anchor and that drift falls as anchoring keeps up with arrival
@@ -6388,7 +6498,7 @@ Inbound references per code and turns per filed entry show which structures anch
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-185.md:220`](../../record/claims.d/CLAIM-185.md)
-- [`record/claims.d/CLAIM-186.md:167`](../../record/claims.d/CLAIM-186.md)
+- [`record/claims.d/CLAIM-186.md:177`](../../record/claims.d/CLAIM-186.md)
 
 ### [ARG-035](../../record/arguments.d/ARG-035.md) — Proposed
 
@@ -6403,7 +6513,7 @@ Griffiths and Kalish's convergence theorem and Kirby, Cornish and Smith's chains
 
 A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs
 
-2 citations in 2 files await a look; 69 other citations of it are acknowledged.
+2 citations in 2 files await a look; 71 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1622.md:90`](../../record/literature.d/LIT-1622.md)
 - [`record/literature.d/LIT-1628.md:100`](../../record/literature.d/LIT-1628.md)
@@ -6484,7 +6594,7 @@ A transport that approximately intertwines each framing operation approximately 
 
 Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy
 
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
+2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-066.md:19`](../../record/questions.d/QUESTION-066.md)
 - [`record/questions.d/QUESTION-066.md:36`](../../record/questions.d/QUESTION-066.md)
@@ -6552,20 +6662,11 @@ Generated views of the record, fed back into the exchange, become instruments of
 - [`record/theory.d/THEORY-137.md:26`](../../record/theory.d/THEORY-137.md)
 - [`record/theory.d/THEORY-137.md:28`](../../record/theory.d/THEORY-137.md)
 
-### [CLAIM-184](../../record/claims.d/CLAIM-184.md) — Proposed
-
-Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
-
-2 citations in 2 files await a look; 15 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-185.md:221`](../../record/claims.d/CLAIM-185.md)
-- [`record/questions.d/QUESTION-172.md:20`](../../record/questions.d/QUESTION-172.md)
-
 ### [CLAIM-185](../../record/claims.d/CLAIM-185.md) — Proposed
 
 The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
 
-2 citations in 1 file await a look; 38 other citations of it are acknowledged.
+2 citations in 1 file await a look; 39 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-136.md:17`](../../record/theory.d/THEORY-136.md)
 - [`record/theory.d/THEORY-136.md:18`](../../record/theory.d/THEORY-136.md)
@@ -6578,15 +6679,6 @@ The anchoring measures are computed in the grammar that shapes the argument, so 
 
 - [`record/decisions.d/ADR-040.md:184`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-061.md:87`](../../record/decisions.d/ADR-061.md)
-
-### [CLAIM-221](../../record/claims.d/CLAIM-221.md) — Proposed
-
-The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one
-
-2 citations in 1 file await a look; 34 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-217.md:199`](../../record/claims.d/CLAIM-217.md)
-- [`record/claims.d/CLAIM-217.md:207`](../../record/claims.d/CLAIM-217.md)
 
 ### [CLAIM-274](../../record/claims.d/CLAIM-274.md) — Proposed
 
@@ -6606,15 +6698,6 @@ Material interdependence couples parties' outcomes without fixing the perspectiv
 - [`record/cases.d/CASE-150.md:56`](../../record/cases.d/CASE-150.md)
 - [`record/cases.d/CASE-150.md:67`](../../record/cases.d/CASE-150.md)
 
-### [CLAIM-431](../../record/claims.d/CLAIM-431.md) — Proposed
-
-A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives
-
-2 citations in 2 files await a look; 3 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-039.md:124`](../../record/claims.d/CLAIM-039.md)
-- [`record/literature.d/LIT-1432.md:24`](../../record/literature.d/LIT-1432.md)
-
 ### [CLAIM-471](../../record/claims.d/CLAIM-471.md) — Proposed
 
 Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone
@@ -6628,7 +6711,7 @@ Physical interconnection can generate effective constraints on joint behaviour; 
 
 An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family
 
-2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-177.md:17`](../../record/claims.d/CLAIM-177.md)
 - [`record/claims.d/CLAIM-177.md:114`](../../record/claims.d/CLAIM-177.md)
@@ -6732,14 +6815,50 @@ Causal Exclusion and Downward Counterfactuals
 - [`record/decisions.d/ADR-035.md:45`](../../record/decisions.d/ADR-035.md)
 - [`record/decisions.d/ADR-035.md:76`](../../record/decisions.d/ADR-035.md)
 
-### [LIT-1485](../../record/literature.d/LIT-1485.md) — Unfetched
+### [LIT-1474](../../record/literature.d/LIT-1474.md) — Unavailable
 
-Emergency powers in democratic states: Introducing the Democratic Emergency Powers dataset
+An Action-Based Model of Cognitive-Dissonance Processes
 
-2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+2 citations in 1 file await a look.
 
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
-- [`record/notes.d/NOTE-1125.md:148`](../../record/notes.d/NOTE-1125.md)
+- [`record/claims.d/CLAIM-451.md:18`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:137`](../../record/claims.d/CLAIM-451.md)
+
+### [LIT-1475](../../record/literature.d/LIT-1475.md) — Unavailable
+
+Cooperation under the Security Dilemma
+
+2 citations in 1 file await a look.
+
+- [`record/claims.d/CLAIM-445.md:16`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
+
+### [LIT-1481](../../record/literature.d/LIT-1481.md) — Unfetched
+
+War Making and State Making as Organized Crime
+
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+
+- [`record/claims.d/CLAIM-445.md:16`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
+
+### [LIT-1493](../../record/literature.d/LIT-1493.md) — Unavailable
+
+When Effect Becomes Cause: Policy Feedback and Political Change
+
+2 citations in 1 file await a look.
+
+- [`record/claims.d/CLAIM-445.md:15`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
+
+### [LIT-1495](../../record/literature.d/LIT-1495.md) — Unfetched
+
+Emergency Powers
+
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+
+- [`record/claims.d/CLAIM-445.md:16`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
 
 ### [LIT-1498](../../record/literature.d/LIT-1498.md) — Unavailable
 
@@ -6749,15 +6868,6 @@ Behavior as information: “If I avoid, then there must be a danger”
 
 - [`record/claims.d/CLAIM-446.md:69`](../../record/claims.d/CLAIM-446.md)
 - [`record/claims.d/CLAIM-446.md:252`](../../record/claims.d/CLAIM-446.md)
-
-### [LIT-1499](../../record/literature.d/LIT-1499.md) — Unavailable
-
-Security: A New Framework for Analysis
-
-2 citations in 2 files await a look.
-
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
-- [`record/notes.d/NOTE-1133.md:128`](../../record/notes.d/NOTE-1133.md)
 
 ### [LIT-1599](../../record/literature.d/LIT-1599.md) — Unfetched
 
@@ -6903,15 +7013,6 @@ Le Ton beau de Marot: In Praise of the Music of Language
 - [`record/claims.d/CLAIM-486.md:17`](../../record/claims.d/CLAIM-486.md)
 - [`record/decisions.d/ADR-033.md:24`](../../record/decisions.d/ADR-033.md)
 
-### [LIT-784](../../record/literature.d/LIT-784.md) — Unavailable
-
-Translation and Relevance: Cognition and Context
-
-2 citations in 2 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-205.md:70`](../../record/claims.d/CLAIM-205.md)
-- [`record/decisions.d/ADR-033.md:23`](../../record/decisions.d/ADR-033.md)
-
 ### [LIT-791](../../record/literature.d/LIT-791.md) — Unavailable
 
 Toward a Science of Translating: With Special Reference to Principles and Procedures Involved in Bible Translating
@@ -6925,10 +7026,19 @@ Toward a Science of Translating: With Special Reference to Principles and Proced
 
 The Concept of Flow
 
-2 citations in 2 files await a look; 5 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-440.md:400`](../../record/claims.d/CLAIM-440.md)
 - [`record/terms.d/TERM-076.md:275`](../../record/terms.d/TERM-076.md)
+
+### [LIT-917](../../record/literature.d/LIT-917.md) — Unavailable
+
+Disappearing Polymorphs
+
+2 citations in 1 file await a look; 3 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-181.md:25`](../../record/claims.d/CLAIM-181.md)
+- [`record/claims.d/CLAIM-181.md:28`](../../record/claims.d/CLAIM-181.md)
 
 ### [LIT-923](../../record/literature.d/LIT-923.md) — Unavailable
 
@@ -6939,20 +7049,20 @@ Synergetics: An Introduction. Nonequilibrium Phase Transitions and Self-Organiza
 - [`record/claims.d/CLAIM-478.md:95`](../../record/claims.d/CLAIM-478.md)
 - [`record/literature.d/LIT-1671.md:61`](../../record/literature.d/LIT-1671.md)
 
-### [LIT-927](../../record/literature.d/LIT-927.md) — Unavailable
+### [LIT-924](../../record/literature.d/LIT-924.md) — Unavailable
 
-Instabilities and pattern formation in crystal growth
+Principles of Crystal Nucleation and Growth
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-181.md:150`](../../record/claims.d/CLAIM-181.md)
-- [`record/literature.d/LIT-1664.md:60`](../../record/literature.d/LIT-1664.md)
+- [`record/claims.d/CLAIM-176.md:29`](../../record/claims.d/CLAIM-176.md)
+- [`record/claims.d/CLAIM-181.md:159`](../../record/claims.d/CLAIM-181.md)
 
 ### [LIT-928](../../record/literature.d/LIT-928.md) — Unavailable
 
 Sparse Distributed Memory
 
-2 citations in 1 file await a look; 12 other citations of it are acknowledged.
+2 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-242.md:33`](../../record/notes.d/NOTE-242.md)
 - [`record/notes.d/NOTE-242.md:215`](../../record/notes.d/NOTE-242.md)
@@ -7665,17 +7775,17 @@ In Claude language models, a sparse set of residual-stream directions that a cor
 
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:350`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:366`](../../record/claims.d/CLAIM-412.md)
 - [`record/questions.d/QUESTION-254.md:246`](../../record/questions.d/QUESTION-254.md)
 
-### [THEORY-871](../../record/theory.d/THEORY-871.md) — Proposed
+### [THEORY-868](../../record/theory.d/THEORY-868.md) — Proposed
 
-Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal
+The structuralist methods and evidence in consciousness science support only that experiences have structure or stand in relations to other experiences, not that an experience is nothing but its relations; the stronger, metaphysical thesis implies that relational knowledge fixes what an experience is like, that every new experience changes all the others, and that a system with a single experience is impossible, and each consequence is doubtful
 
-2 citations in 2 files await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:336`](../../record/claims.d/CLAIM-412.md)
-- [`record/theory.d/THEORY-056.md:228`](../../record/theory.d/THEORY-056.md)
+- [`record/claims.d/CLAIM-412.md:269`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:426`](../../record/claims.d/CLAIM-412.md)
 
 ### [THEORY-872](../../record/theory.d/THEORY-872.md) — Proposed
 
@@ -7692,8 +7802,8 @@ The specific phenomenal character of an experience is fixed by its place in a qu
 
 2 citations in 2 files await a look; 14 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-411.md:170`](../../record/claims.d/CLAIM-411.md)
-- [`record/claims.d/CLAIM-412.md:330`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-411.md:181`](../../record/claims.d/CLAIM-411.md)
+- [`record/claims.d/CLAIM-412.md:346`](../../record/claims.d/CLAIM-412.md)
 
 ### [THEORY-926](../../record/theory.d/THEORY-926.md) — Proposed
 
@@ -7701,7 +7811,7 @@ In a game where each player can transmit n bits before a win or a loss becomes u
 
 2 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/claims.d/CLAIM-451.md:158`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:164`](../../record/claims.d/CLAIM-451.md)
 - [`record/theory.d/THEORY-930.md:71`](../../record/theory.d/THEORY-930.md)
 
 ### [THEORY-929](../../record/theory.d/THEORY-929.md) — Proposed
@@ -7722,15 +7832,6 @@ Under Bush–Mosteller learning with negative payoffs, the continuous-time limit
 - [`record/cases.d/CASE-155.md:132`](../../record/cases.d/CASE-155.md)
 - [`record/theory.d/THEORY-938.md:71`](../../record/theory.d/THEORY-938.md)
 
-### [THEORY-936](../../record/theory.d/THEORY-936.md) — Proposed
-
-In two-agent rock–scissors–paper played by softmax reinforcement learners, nonzero tie rewards give quasiperiodic tori and Hamiltonian chaos without memory decay, and limit cycles and chaotic attractors with it, over a large share of the tie-reward range simulated
-
-2 citations in 2 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-155.md:144`](../../record/cases.d/CASE-155.md)
-- [`record/claims.d/CLAIM-451.md:148`](../../record/claims.d/CLAIM-451.md)
-
 ### [THEORY-939](../../record/theory.d/THEORY-939.md) — Proposed
 
 In a multi-agent system run against a world utility, a private utility is factored, ranking each agent's own alternatives with the others fixed as the world utility ranks them, exactly when it is an increasing function of the world utility given the components the agent cannot affect; the world utility minus its value with the agent's effect set clamped is factored, and in a sixty-agent bar problem clamping to the average action learned better than clamping to absence or using the world utility itself
@@ -7747,6 +7848,14 @@ Relativistic frames vary descriptions systematically under constrained transform
 1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-059.md:57`](../../record/decisions.d/ADR-059.md)
+
+### [ARG-005](../../record/arguments.d/ARG-005.md) — Proposed
+
+The reluctant writer's precommitment device changes what they do without changing what they want, so the conditions of efficacy govern which regime acts
+
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-122.md:27`](../../record/claims.d/CLAIM-122.md)
 
 ### [ARG-009](../../record/arguments.d/ARG-009.md) — Proposed
 
@@ -7787,14 +7896,6 @@ The invented renderings of one sentence by four speakers show that participant r
 1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-151.md:45`](../../record/claims.d/CLAIM-151.md)
-
-### [ARG-025](../../record/arguments.d/ARG-025.md) — Proposed
-
-Matched ordinary behaviour and differing responses to intervention show that organizational perspectives explain what the record explained by self
-
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-417.md:257`](../../record/claims.d/CLAIM-417.md)
 
 ### [ARG-029](../../record/arguments.d/ARG-029.md) — Proposed
 
@@ -7960,7 +8061,7 @@ A stored text means only what its readings make of it: the writer's projected re
 
 Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
 
-1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 21 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-064.md:55`](../../record/questions.d/QUESTION-064.md)
 
@@ -7968,7 +8069,7 @@ Drift is retrieval failure outside a critical distance: a restatement close enou
 
 Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
 
-1 citation in 1 file awaits a look; 23 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 24 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-184.md:18`](../../record/claims.d/CLAIM-184.md)
 
@@ -8020,14 +8121,6 @@ Directional information measures between reciprocally coupled units follow the p
 
 - [`record/questions.d/QUESTION-263.md:45`](../../record/questions.d/QUESTION-263.md)
 
-### [CLAIM-411](../../record/claims.d/CLAIM-411.md) — Proposed
-
-Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight's apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential
-
-1 citation in 1 file awaits a look; 44 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-061.md:121`](../../record/decisions.d/ADR-061.md)
-
 ### [CLAIM-423](../../record/claims.d/CLAIM-423.md) — Proposed
 
 In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
@@ -8035,22 +8128,6 @@ In a political collective, components that change at different speeds (attention
 1 citation in 1 file awaits a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-462.md:114`](../../record/claims.d/CLAIM-462.md)
-
-### [CLAIM-454](../../record/claims.d/CLAIM-454.md) — Proposed
-
-A latent feature or mode recovered from an organization's members' activity is at most a constituent of an organizational perspective, not the perspective: a feature allocation says which members take part in which modes, and whether those modes are organized into one perspective depends on the relations of access, uptake and authority among their carriers, which the same allocation leaves open
-
-1 citation in 1 file awaits a look; 59 other citations of it are acknowledged.
-
-- [`record/terms.d/TERM-074.md:21`](../../record/terms.d/TERM-074.md)
-
-### [CLAIM-456](../../record/claims.d/CLAIM-456.md) — Proposed
-
-Maintaining a governing rule internally, by the organization's own reciprocal production, can be more fragile than having it reset from outside: arrangements identical in ordinary operation can differ in which losses are repairable, and the self-produced rule can be lost to a double loss or an interruption of the work that produces it which outside reset survives
-
-1 citation in 1 file awaits a look.
-
-- [`record/terms.d/TERM-074.md:21`](../../record/terms.d/TERM-074.md)
 
 ### [CLAIM-467](../../record/claims.d/CLAIM-467.md) — Proposed
 
@@ -8091,22 +8168,6 @@ When a fanbase is set against an outside party such as its club's owner, its mor
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/theory.d/THEORY-1114.md:30`](../../record/theory.d/THEORY-1114.md)
-
-### [CLAIM-494](../../record/claims.d/CLAIM-494.md) — Proposed
-
-Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
-
-1 citation in 1 file awaits a look; 39 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1700.md:54`](../../record/literature.d/LIT-1700.md)
-
-### [CLAIM-497](../../record/claims.d/CLAIM-497.md) — Proposed
-
-A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on
-
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-335.md:43`](../../record/questions.d/QUESTION-335.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -8276,30 +8337,6 @@ Origins and functions of positive and negative affect: A control-process view
 
 - [`record/literature.d/LIT-1445.md:79`](../../record/literature.d/LIT-1445.md)
 
-### [LIT-1474](../../record/literature.d/LIT-1474.md) — Unavailable
-
-An Action-Based Model of Cognitive-Dissonance Processes
-
-1 citation in 1 file awaits a look.
-
-- [`record/claims.d/CLAIM-451.md:131`](../../record/claims.d/CLAIM-451.md)
-
-### [LIT-1475](../../record/literature.d/LIT-1475.md) — Unavailable
-
-Cooperation under the Security Dilemma
-
-1 citation in 1 file awaits a look.
-
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
-
-### [LIT-1481](../../record/literature.d/LIT-1481.md) — Unfetched
-
-War Making and State Making as Organized Crime
-
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
-
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
-
 ### [LIT-1492](../../record/literature.d/LIT-1492.md) — Unavailable
 
 DBT Skills Training Manual
@@ -8307,22 +8344,6 @@ DBT Skills Training Manual
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-443.md:30`](../../record/claims.d/CLAIM-443.md)
-
-### [LIT-1493](../../record/literature.d/LIT-1493.md) — Unavailable
-
-When Effect Becomes Cause: Policy Feedback and Political Change
-
-1 citation in 1 file awaits a look.
-
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
-
-### [LIT-1495](../../record/literature.d/LIT-1495.md) — Unfetched
-
-Emergency Powers
-
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
-
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
 
 ### [LIT-1557](../../record/literature.d/LIT-1557.md) — Unfetched
 
@@ -8424,7 +8445,7 @@ Engineering a Safer World: Systems Thinking Applied to Safety
 
 Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning
 
-1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1672.md:71`](../../record/literature.d/LIT-1672.md)
 
@@ -8440,7 +8461,7 @@ Social categorization and intergroup behaviour
 
 Is empathy-induced helping due to self–other merging?
 
-1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1728.md:57`](../../record/literature.d/LIT-1728.md)
 
@@ -8480,9 +8501,9 @@ How Will I Be Remembered? Conserving the Environment for the Sake of One's Legac
 
 Reinterpreting the empathy–altruism relationship: When one into one equals oneness
 
-1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 21 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1700.md:54`](../../record/literature.d/LIT-1700.md)
+- [`record/literature.d/LIT-1700.md:61`](../../record/literature.d/LIT-1700.md)
 
 ### [LIT-1744](../../record/literature.d/LIT-1744.md) — Unavailable
 
@@ -8754,13 +8775,13 @@ Elements of Information Theory
 
 1 citation in 1 file awaits a look.
 
-- [`record/literature.d/LIT-767.md:70`](../../record/literature.d/LIT-767.md)
+- [`record/literature.d/LIT-767.md:75`](../../record/literature.d/LIT-767.md)
 
 ### [LIT-767](../../record/literature.d/LIT-767.md) — Unavailable
 
 The rate-distortion function for source coding with side information at the decoder
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-765.md:83`](../../record/literature.d/LIT-765.md)
 
@@ -8768,7 +8789,7 @@ The rate-distortion function for source coding with side information at the deco
 
 Forms of Talk
 
-1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-034.md:29`](../../record/decisions.d/ADR-034.md)
 
@@ -8776,7 +8797,7 @@ Forms of Talk
 
 How to Do Things with Words
 
-1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-034.md:28`](../../record/decisions.d/ADR-034.md)
 
@@ -8796,13 +8817,13 @@ Translating as a Purposeful Activity: Functionalist Approaches Explained
 
 - [`record/claims.d/CLAIM-205.md:70`](../../record/claims.d/CLAIM-205.md)
 
-### [LIT-924](../../record/literature.d/LIT-924.md) — Unavailable
+### [LIT-925](../../record/literature.d/LIT-925.md) — Unavailable
 
-Principles of Crystal Nucleation and Growth
+Diffusion-Limited Aggregation, a Kinetic Critical Phenomenon
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look.
 
-- [`record/claims.d/CLAIM-181.md:150`](../../record/claims.d/CLAIM-181.md)
+- [`record/claims.d/CLAIM-186.md:34`](../../record/claims.d/CLAIM-186.md)
 
 ### [LIT-926](../../record/literature.d/LIT-926.md) — Unavailable
 
@@ -8810,7 +8831,7 @@ The two-step mechanism of nucleation of crystals in solution
 
 1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-181.md:150`](../../record/claims.d/CLAIM-181.md)
+- [`record/claims.d/CLAIM-181.md:159`](../../record/claims.d/CLAIM-181.md)
 
 ### [NOTE-200](../../record/notes.d/NOTE-200.md) — Superseded
 
@@ -9252,6 +9273,14 @@ Institutions are rules in equilibrium, correlated equilibria of coordination gam
 
 - [`record/claims.d/CLAIM-096.md:53`](../../record/claims.d/CLAIM-096.md)
 
+### [THEORY-432](../../record/theory.d/THEORY-432.md) — Proposed
+
+In Lévi-Straussian analysis of myth the group of transformations is not given by the material: which variants count as transforms of which, and by what operation, is cut by the analyst from a continuum, unlike transformations that develop an initial form by a rule, and the computational encodings of the method confirm this by taking the analyst's table of oppositions as input
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-019.md:19`](../../record/claims.d/CLAIM-019.md)
+
 ### [THEORY-449](../../record/theory.d/THEORY-449.md) — Proposed
 
 If sentience comes in degrees, plants may be faintly sentient, and moral status is graded by degree of sentience, then plants have a partial moral status so low that animal interests outweigh theirs in most cases; all three premises are assumed, and the second rests on contested, second-hand evidence
@@ -9434,7 +9463,7 @@ Expert texts of Shamatha, Transcendental and Stillness Meditation describe their
 
 1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:344`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:360`](../../record/claims.d/CLAIM-412.md)
 
 ### [THEORY-867](../../record/theory.d/THEORY-867.md) — Proposed
 
@@ -9442,15 +9471,7 @@ The geometry of the colour similarity space does not mark the four unique hues, 
 
 1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:333`](../../record/claims.d/CLAIM-412.md)
-
-### [THEORY-868](../../record/theory.d/THEORY-868.md) — Proposed
-
-The structuralist methods and evidence in consciousness science support only that experiences have structure or stand in relations to other experiences, not that an experience is nothing but its relations; the stronger, metaphysical thesis implies that relational knowledge fixes what an experience is like, that every new experience changes all the others, and that a system with a single experience is impossible, and each consequence is doubtful
-
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-412.md:253`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:349`](../../record/claims.d/CLAIM-412.md)
 
 ### [THEORY-870](../../record/theory.d/THEORY-870.md) — Proposed
 
@@ -9458,7 +9479,7 @@ Experienced Transcendental Meditation practitioners report more pure awareness t
 
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:343`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:359`](../../record/claims.d/CLAIM-412.md)
 
 ### [THEORY-875](../../record/theory.d/THEORY-875.md) — Proposed
 
@@ -9482,7 +9503,7 @@ Representing a sensory quality, even in the distinctively sensory way, does not 
 
 1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-412.md:229`](../../record/claims.d/CLAIM-412.md)
+- [`record/claims.d/CLAIM-412.md:245`](../../record/claims.d/CLAIM-412.md)
 
 ### [THEORY-884](../../record/theory.d/THEORY-884.md) — Proposed
 
@@ -9522,7 +9543,7 @@ In Gangneung, South Korea, in 2022, people outwardly ignored routine retaliatory
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
 
 ### [THEORY-899](../../record/theory.d/THEORY-899.md) — Proposed
 
@@ -9554,15 +9575,7 @@ In five formerly stable democracies selected because they later autocratized (So
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
-
-### [THEORY-911](../../record/theory.d/THEORY-911.md) — Proposed
-
-Of 853 national states of emergency declared from 1949 to 2017, 115 were reported as unlawful in declaration, conduct or duration; 97 of those followed political turmoil and 14 natural disasters, democracies were less likely than autocracies to run one, and unlawful emergencies lasted 321 days on average against 115
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-445.md:137`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:149`](../../record/claims.d/CLAIM-445.md)
 
 ### [THEORY-916](../../record/theory.d/THEORY-916.md) — Proposed
 
@@ -9578,7 +9591,7 @@ Departments of the French Empire more shielded from British trade by the Napoleo
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-445.md:107`](../../record/claims.d/CLAIM-445.md)
+- [`record/claims.d/CLAIM-445.md:119`](../../record/claims.d/CLAIM-445.md)
 
 ### [THEORY-925](../../record/theory.d/THEORY-925.md) — Proposed
 
@@ -9618,7 +9631,7 @@ A learner that ascends its own return after one anticipated naive gradient step 
 
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
-- [`record/claims.d/CLAIM-451.md:161`](../../record/claims.d/CLAIM-451.md)
+- [`record/claims.d/CLAIM-451.md:167`](../../record/claims.d/CLAIM-451.md)
 
 ### [THEORY-937](../../record/theory.d/THEORY-937.md) — Proposed
 
@@ -9686,7 +9699,7 @@ A reference the reader cannot follow: the code names no document in this record.
 ### DP-016 — resolves to nothing (5 unmarked sites)
 
 - [`record/claims.d/CLAIM-419.md:132`](../../record/claims.d/CLAIM-419.md)
-- [`record/claims.d/CLAIM-470.md:123`](../../record/claims.d/CLAIM-470.md)
+- [`record/claims.d/CLAIM-470.md:134`](../../record/claims.d/CLAIM-470.md)
 - [`record/claims.d/CLAIM-476.md:310`](../../record/claims.d/CLAIM-476.md)
 - [`record/literature.d/LIT-1652.md:90`](../../record/literature.d/LIT-1652.md)
 - [`record/notes.d/NOTE-1231.md:355`](../../record/notes.d/NOTE-1231.md)
@@ -9725,6 +9738,8 @@ None. Every scanned file is checked. ✅
 - record/arguments.d/ARG-004.md:30: annotation no longer applies — CLAIM-098 is Active now
 - record/arguments.d/ARG-010.md:28: annotation no longer applies — CLAIM-038 is Active now
 - record/arguments.d/ARG-010.md:29: annotation no longer applies — CLAIM-143 is Active now
+- record/arguments.d/ARG-041.md:40: annotation no longer applies — CLAIM-497 is Active now
+- record/cases.d/CASE-013.md:29: annotation no longer applies — CLAIM-122 is Active now
 - record/cases.d/CASE-015.md:28: annotation no longer applies — CLAIM-056 is Active now
 - record/cases.d/CASE-035.md:28: annotation no longer applies — CLAIM-038 is Active now
 - record/cases.d/CASE-036.md:35: annotation no longer applies — CLAIM-349 is Active now
@@ -9743,6 +9758,7 @@ None. Every scanned file is checked. ✅
 - record/cases.d/CASE-108.md:48: annotation no longer applies — CLAIM-288, CLAIM-342, CLAIM-359 is Active now
 - record/cases.d/CASE-119.md:28: annotation no longer applies — CLAIM-347, CLAIM-360 is Active now
 - record/cases.d/CASE-121.md:33: annotation no longer applies — CLAIM-002 is Active now
+- record/cases.d/CASE-125.md:44: annotation no longer applies — CLAIM-122 is Active now
 - record/cases.d/CASE-127.md:40: annotation no longer applies — CLAIM-349, CLAIM-424 is Active now
 - record/cases.d/CASE-132.md:25: annotation no longer applies — CLAIM-403 is Active now
 - record/cases.d/CASE-135.md:41: annotation no longer applies — CLAIM-422 is Active now
@@ -9750,6 +9766,8 @@ None. Every scanned file is checked. ✅
 - record/cases.d/CASE-138.md:44: annotation no longer applies — CLAIM-403, CLAIM-416, CLAIM-422, THEORY-140 is Active now
 - record/cases.d/CASE-141.md:36: annotation no longer applies — TERM-075 is Active now
 - record/cases.d/CASE-141.md:37: annotation no longer applies — CLAIM-402 is Active now
+- record/cases.d/CASE-163.md:41: annotation no longer applies — CASE-161 is Active now
+- record/cases.d/CASE-165.md:70: annotation no longer applies — CLAIM-454 is Active now
 - record/cases.d/CASE-178.md:45: annotation no longer applies — CLAIM-475 is Active now
 - record/claims.d/CLAIM-008.md:32: annotation no longer applies — CLAIM-042 is Active now
 - record/claims.d/CLAIM-011.md:39: annotation no longer applies — CLAIM-077 is Active now
@@ -9769,6 +9787,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-074.md:59: annotation no longer applies — CLAIM-118 is Active now
 - record/claims.d/CLAIM-086.md:48: annotation no longer applies — CLAIM-410 is Active now
 - record/claims.d/CLAIM-087.md:60: annotation no longer applies — CLAIM-199 is Active now
+- record/claims.d/CLAIM-089.md:35: annotation no longer applies — CLAIM-122 is Active now
 - record/claims.d/CLAIM-095.md:25: annotation no longer applies — CLAIM-077 is Active now
 - record/claims.d/CLAIM-100.md:33: annotation no longer applies — CLAIM-125 is Active now
 - record/claims.d/CLAIM-100.md:34: annotation no longer applies — THEORY-174 is Active now
@@ -9784,6 +9803,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-126.md:61: annotation no longer applies — CLAIM-125, THEORY-156 is Active now
 - record/claims.d/CLAIM-127.md:65: annotation no longer applies — CLAIM-125 is Active now
 - record/claims.d/CLAIM-134.md:39: annotation no longer applies — THEORY-034 is Active now
+- record/claims.d/CLAIM-135.md:171: annotation no longer applies — CLAIM-454 is Active now
 - record/claims.d/CLAIM-136.md:46: annotation no longer applies — THEORY-034 is Active now
 - record/claims.d/CLAIM-138.md:49: annotation no longer applies — CLAIM-077 is Active now
 - record/claims.d/CLAIM-142.md:75: annotation no longer applies — CLAIM-038 is Active now
@@ -9797,8 +9817,8 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-154.md:87: annotation no longer applies — CLAIM-175 is Active now
 - record/claims.d/CLAIM-166.md:57: annotation no longer applies — CLAIM-159 is Active now
 - record/claims.d/CLAIM-178.md:52: annotation no longer applies — CLAIM-125 is Active now
-- record/claims.d/CLAIM-184.md:48: annotation no longer applies — CLAIM-195 is Active now
-- record/claims.d/CLAIM-186.md:69: annotation no longer applies — CLAIM-125 is Active now
+- record/claims.d/CLAIM-184.md:58: annotation no longer applies — CLAIM-195 is Active now
+- record/claims.d/CLAIM-186.md:79: annotation no longer applies — CLAIM-125 is Active now
 - record/claims.d/CLAIM-189.md:38: annotation no longer applies — CLAIM-259 is Active now
 - record/claims.d/CLAIM-190.md:46: annotation no longer applies — CLAIM-264, CLAIM-266 is Active now
 - record/claims.d/CLAIM-193.md:82: annotation no longer applies — CLAIM-269 is Active now
@@ -9825,6 +9845,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-266.md:57: annotation no longer applies — CLAIM-149 is Active now
 - record/claims.d/CLAIM-268.md:60: annotation no longer applies — CLAIM-126 is Active now
 - record/claims.d/CLAIM-288.md:104: annotation no longer applies — CLAIM-277, CLAIM-279, CLAIM-284 is Active now
+- record/claims.d/CLAIM-297.md:163: annotation no longer applies — CASE-162 is Active now
 - record/claims.d/CLAIM-305.md:41: annotation no longer applies — THEORY-087 is Active now
 - record/claims.d/CLAIM-306.md:53: annotation no longer applies — CLAIM-296 is Active now
 - record/claims.d/CLAIM-312.md:58: annotation no longer applies — CLAIM-296 is Active now
@@ -9838,7 +9859,6 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-363.md:81: annotation no longer applies — CLAIM-405 is Active now
 - record/claims.d/CLAIM-369.md:45: annotation no longer applies — CLAIM-279, CLAIM-288 is Active now
 - record/claims.d/CLAIM-380.md:57: annotation no longer applies — CLAIM-259 is Active now
-- record/claims.d/CLAIM-412.md:97: annotation no longer applies — TERM-072, TERM-073 is Active now
 - record/claims.d/CLAIM-413.md:79: annotation no longer applies — CLAIM-342 is Active now
 - record/claims.d/CLAIM-414.md:75: annotation no longer applies — TERM-072, TERM-073 is Active now
 - record/claims.d/CLAIM-415.md:86: annotation no longer applies — TERM-075 is Active now
@@ -9849,7 +9869,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-480.md:71: annotation no longer applies — CLAIM-419, CLAIM-479, QUESTION-283 is Active now
 - record/claims.d/CLAIM-487.md:36: annotation no longer applies — CLAIM-159 is Active now
 - record/claims.d/CLAIM-496.md:44: annotation no longer applies — CLAIM-259, QUESTION-130 is Active now
-- record/claims.d/CLAIM-497.md:59: annotation no longer applies — QUESTION-204, QUESTION-335 is Active now
+- record/claims.d/CLAIM-497.md:75: annotation no longer applies — QUESTION-204, QUESTION-335 is Active now
 - record/decisions.d/ADR-037.md:26: annotation no longer applies — CLAIM-175 is Active now
 - record/literature.d/LIT-1018.md:47: annotation no longer applies — CLAIM-194 is Active now
 - record/literature.d/LIT-1019.md:49: annotation no longer applies — CLAIM-098 is Active now
@@ -9871,6 +9891,7 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-1218.md:76: annotation no longer applies — CLAIM-349 is Active now
 - record/literature.d/LIT-1219.md:50: annotation no longer applies — CLAIM-279 is Active now
 - record/literature.d/LIT-1220.md:62: annotation no longer applies — CLAIM-359 is Active now
+- record/literature.d/LIT-1222.md:46: annotation no longer applies — CLAIM-353 is Active now
 - record/literature.d/LIT-1225.md:55: annotation no longer applies — CLAIM-279 is Active now
 - record/literature.d/LIT-1226.md:52: annotation no longer applies — CLAIM-359 is Active now
 - record/literature.d/LIT-1228.md:51: annotation no longer applies — CLAIM-363 is Active now
@@ -9908,12 +9929,15 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-1386.md:61: annotation no longer applies — CLAIM-422 is Active now
 - record/literature.d/LIT-1393.md:63: annotation no longer applies — CLAIM-403, CLAIM-416, CLAIM-422, THEORY-140 is Active now
 - record/literature.d/LIT-1406.md:78: annotation no longer applies — CLAIM-418 is Active now
-- record/literature.d/LIT-1454.md:52: annotation no longer applies — CLAIM-436 is Active now
 - record/literature.d/LIT-1460.md:44: annotation no longer applies — CLAIM-436 is Active now
 - record/literature.d/LIT-1480.md:81: annotation no longer applies — CLAIM-443 is Active now
 - record/literature.d/LIT-1490.md:88: annotation no longer applies — THEORY-912 is Active now
 - record/literature.d/LIT-1491.md:85: annotation no longer applies — THEORY-903 is Active now
 - record/literature.d/LIT-1507.md:62: annotation no longer applies — LIT-1412, LIT-1414 is Active now
+- record/literature.d/LIT-1550.md:70: annotation no longer applies — CLAIM-454 is Active now
+- record/literature.d/LIT-1554.md:69: annotation no longer applies — CLAIM-454 is Active now
+- record/literature.d/LIT-1556.md:82: annotation no longer applies — CLAIM-454 is Active now
+- record/literature.d/LIT-1583.md:77: annotation no longer applies — CLAIM-454 is Active now
 - record/literature.d/LIT-1790.md:51: annotation no longer applies — LIT-1133 is Active now
 - record/literature.d/LIT-1823.md:66: annotation no longer applies — CLAIM-359 is Active now
 - record/literature.d/LIT-1824.md:84: annotation no longer applies — QUESTION-083, QUESTION-132 is Active now
@@ -9944,6 +9968,7 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-095.md:38: annotation no longer applies — THEORY-034 is Active now
 - record/notes.d/NOTE-1025.md:34: annotation no longer applies — CLAIM-331 is Active now
 - record/notes.d/NOTE-1030.md:31: annotation no longer applies — LIT-1126 is Active now
+- record/notes.d/NOTE-1032.md:34: annotation no longer applies — CLAIM-122 is Active now
 - record/notes.d/NOTE-1033.md:37: annotation no longer applies — CLAIM-402 is Active now
 - record/notes.d/NOTE-1033.md:38: annotation no longer applies — CLAIM-342 is Active now
 - record/notes.d/NOTE-1034.md:40: annotation no longer applies — CLAIM-199, CLAIM-326 is Active now
@@ -9962,6 +9987,7 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-1090.md:45: annotation no longer applies — CLAIM-349, CLAIM-403, CLAIM-416, CLAIM-422, CLAIM-424 is Active now
 - record/notes.d/NOTE-1123.md:39: annotation no longer applies — THEORY-912 is Active now
 - record/notes.d/NOTE-1128.md:41: annotation no longer applies — THEORY-903 is Active now
+- record/notes.d/NOTE-1193.md:42: annotation no longer applies — CLAIM-454 is Active now
 - record/notes.d/NOTE-1251.md:27: annotation no longer applies — LIT-1133, LIT-1147 is Active now
 - record/notes.d/NOTE-1284.md:29: annotation no longer applies — LIT-1133 is Active now
 - record/notes.d/NOTE-1326.md:27: annotation no longer applies — CLAIM-098 is Active now
@@ -10049,11 +10075,14 @@ None. Every scanned file is checked. ✅
 - record/questions.d/QUESTION-026.md:24: annotation no longer applies — THEORY-174 is Active now
 - record/questions.d/QUESTION-028.md:41: annotation no longer applies — CLAIM-402 is Active now
 - record/questions.d/QUESTION-041.md:36: annotation no longer applies — CLAIM-403 is Active now
+- record/questions.d/QUESTION-056.md:23: annotation no longer applies — CLAIM-122 is Active now
 - record/questions.d/QUESTION-083.md:49: annotation no longer applies — CLAIM-277, CLAIM-279, CLAIM-288 is Active now
 - record/questions.d/QUESTION-092.md:35: annotation no longer applies — CLAIM-284, CLAIM-288 is Active now
+- record/questions.d/QUESTION-100.md:84: annotation no longer applies — CASE-162 is Active now
 - record/questions.d/QUESTION-110.md:27: annotation no longer applies — CLAIM-199 is Active now
 - record/questions.d/QUESTION-115.md:78: annotation no longer applies — CLAIM-401 is Active now
 - record/questions.d/QUESTION-116.md:26: annotation no longer applies — CLAIM-331 is Active now
+- record/questions.d/QUESTION-117.md:185: annotation no longer applies — CASE-161, CASE-162 is Active now
 - record/questions.d/QUESTION-169.md:21: annotation no longer applies — CLAIM-273, CLAIM-280, THEORY-214 is Active now
 - record/questions.d/QUESTION-256.md:24: annotation no longer applies — CLAIM-284, CLAIM-287, CLAIM-424 is Active now
 - record/questions.d/QUESTION-270.md:46: annotation no longer applies — CLAIM-403 is Active now
@@ -10068,9 +10097,14 @@ None. Every scanned file is checked. ✅
 - record/terms.d/TERM-065.md:43: annotation no longer applies — CLAIM-470, CLAIM-475 is Active now
 - record/terms.d/TERM-065.md:44: annotation no longer applies — CLAIM-401, QUESTION-252 is Active now
 - record/terms.d/TERM-065.md:45: annotation no longer applies — CLAIM-348, CLAIM-363 is Active now
+- record/terms.d/TERM-067.md:51: annotation no longer applies — CLAIM-122 is Active now
 - record/terms.d/TERM-091.md:41: annotation no longer applies — CLAIM-419, CLAIM-469, CLAIM-479, QUESTION-283 is Active now
 - record/theory.d/THEORY-021.md:46: annotation no longer applies — THEORY-017 is Active now
 - record/theory.d/THEORY-079.md:63: annotation no longer applies — THEORY-087 is Active now
+- record/theory.d/THEORY-1014.md:49: annotation no longer applies — CLAIM-454 is Active now
+- record/theory.d/THEORY-1016.md:48: annotation no longer applies — CLAIM-454, THEORY-017 is Active now
+- record/theory.d/THEORY-1025.md:34: annotation no longer applies — CLAIM-454 is Active now
+- record/theory.d/THEORY-1029.md:35: annotation no longer applies — CLAIM-454 is Active now
 - record/theory.d/THEORY-1056.md:36: annotation no longer applies — CLAIM-475 is Active now
 - record/theory.d/THEORY-1061.md:25: annotation no longer applies — LIT-1122 is Active now
 - record/theory.d/THEORY-107.md:43: annotation no longer applies — THEORY-113 is Active now
@@ -10141,4 +10175,7 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-918.md:43: annotation no longer applies — CLAIM-443 is Active now
 - record/theory.d/THEORY-922.md:36: annotation no longer applies — CLAIM-443 is Active now
 - record/theory.d/THEORY-947.md:38: annotation no longer applies — CLAIM-357 is Active now
+- record/theory.d/THEORY-969.md:32: annotation no longer applies — CLAIM-454 is Active now
+- record/theory.d/THEORY-979.md:34: annotation no longer applies — CLAIM-454 is Active now
+- record/theory.d/THEORY-987.md:36: annotation no longer applies — CLAIM-454 is Active now
 - record/theory.d/THEORY-993.md:35: annotation no longer applies — CLAIM-135 is Active now

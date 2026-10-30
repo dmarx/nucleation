@@ -6,9 +6,9 @@
 
 **Philosophy of biology** — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
-2 of 500 CLAIM documents. Back to the [full index](../README.md).
+2 of 502 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [CLAIM-018](../../../record/claims.d/CLAIM-018.md) | Canguilhem's distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity | An interpretation, not a premise (Section 6.8): "Nor does the present argument depend upon importing Canguilhem's account into viability theory." Its absence from the premises of [ARG-007](../../../record/arguments.d/ARG-007.md) is how the record says so. | Proposed |
+| [CLAIM-018](../../../record/claims.d/CLAIM-018.md) v2 | Canguilhem's distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity | An interpretation, not a premise (Section 6.8): "Nor does the present argument depend upon importing Canguilhem's account into viability theory." Its absence from the premises of [ARG-007](../../../record/arguments.d/ARG-007.md) is how the record says so. | Proposed |
 | [CLAIM-395](../../../record/claims.d/CLAIM-395.md) | Under Montévil and Mossio's definition of closure, a closed set of constraints has at least two members, and if each constraint is produced at the time scale of a constraint in the set that generates it and not at the scale at which it is itself conserved, the set includes at least one slow and one fast dependence, so a system with a single constraint of its own cannot realise closure |  | Active |

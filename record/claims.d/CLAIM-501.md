@@ -1,5 +1,8 @@
 ---
+number: 501
 status: Proposed
+formerly:
+- CLAIM-tmphcevw
 title: 'Gutt''s interpretive resemblance also predicts that judged pragmatic observables beat text similarity, so the central theses'' defeat conditions cannot tell the thesis from a relevance-theoretic account either'
 version: 1
 role: thesis
@@ -27,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-784 — Unavailable; Gutt, unread here, the account this claim is about and waits on -->
 
-# CLAIM-tmphcevw: Gutt's interpretive resemblance also predicts that judged pragmatic observables beat text similarity, so the central theses' defeat conditions cannot tell the thesis from a relevance-theoretic account either
+# CLAIM-501: Gutt's interpretive resemblance also predicts that judged pragmatic observables beat text similarity, so the central theses' defeat conditions cannot tell the thesis from a relevance-theoretic account either
 
 ## The claim
 

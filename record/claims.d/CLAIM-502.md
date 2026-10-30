@@ -1,5 +1,8 @@
 ---
+number: 502
 status: Active
+formerly:
+- CLAIM-tmphnxf0
 title: 'Multi-hop delegation can keep an operator''s authority exactly independent of its own endorsements: under leave-one-out damped delegation, which counts the authority reaching each operator only along paths that have not already passed through it, an operator''s endorsements raise the authority of every operator the endorsed one reaches and leave its own unchanged'
 version: 1
 history:
@@ -50,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction bears on, cited as open -->
 
-# CLAIM-tmphnxf0: Multi-hop delegation can keep an operator's authority exactly independent of its own endorsements: under leave-one-out damped delegation, which counts the authority reaching each operator only along paths that have not already passed through it, an operator's endorsements raise the authority of every operator the endorsed one reaches and leave its own unchanged
+# CLAIM-502: Multi-hop delegation can keep an operator's authority exactly independent of its own endorsements: under leave-one-out damped delegation, which counts the authority reaching each operator only along paths that have not already passed through it, an operator's endorsements raise the authority of every operator the endorsed one reaches and leave its own unchanged
 
 ## The claim
 

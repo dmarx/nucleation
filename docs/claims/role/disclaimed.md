@@ -6,12 +6,12 @@
 
 **Disclaimed** — something the record explicitly does not claim — "X does not establish Y" — filed so that the boundary has an address and a recurring misreading has somewhere to be pointed.
 
-10 of 500 CLAIM documents. Back to the [full index](../README.md).
+10 of 502 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CLAIM-022](../../../record/claims.d/CLAIM-022.md) | Explaining practical efficacy does not settle whose the will is | Section 7.2, "No. The theory explains practical efficacy, not ownership." What the authenticity line tried to supply, the paper now disclaims; [QUESTION-011](../../../record/questions.d/QUESTION-011.md) holds the question. | Active |
-| [CLAIM-023](../../../record/claims.d/CLAIM-023.md) | The contribution is not that translation is pragmatic or that speech acts change contexts, but a specified, testable account of which communicative distinctions a translation preserves | Disclaimed from A35 §9 on and sharpened at A40 against Gutt and Krifka. The manuscript §1 keeps it ("not the claim that each individual ingredient is novel") and cites Gutt, but drops Krifka, whom four replies named as the closest prior art. | Active |
+| [CLAIM-023](../../../record/claims.d/CLAIM-023.md) v2 | The contribution is not that translation is pragmatic or that speech acts change contexts, but a specified, testable account of which communicative distinctions a translation preserves | Disclaimed from A35 §9 on and sharpened at A40 against Gutt and Krifka. The manuscript §1 keeps it ("not the claim that each individual ingredient is novel") and cites Gutt, but drops Krifka, whom four replies named as the closest prior art. | Active |
 | [CLAIM-071](../../../record/claims.d/CLAIM-071.md) | Conditional generation shares a mathematical vocabulary with translation, not a mechanism: denoising time is not telephone-game time, and a generative failure is not a proof of sheaf contextuality | A97's own two limits, which the manuscript §7 keeps. They became the whole of the claim once generation was demoted from realization to analogue. | Active |
 | [CLAIM-075](../../../record/claims.d/CLAIM-075.md) | Viability does not establish what ought to persist | Sections 6.10 and 7.3: "An unjust institution may be highly viable." Viability licenses conditional functional judgment only. | Active |
 | [CLAIM-093](../../../record/claims.d/CLAIM-093.md) | Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived | A105, limiting the owner's U37 appeal to Noether in the same reply that conceded the rest. The manuscript §4 and §11: Noether-type results give "conservation criteria for particular stochastic processes, not a universal conservation law of meaning". | Active |

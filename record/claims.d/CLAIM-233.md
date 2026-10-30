@@ -34,7 +34,7 @@ history:
     now held as Nida states it in CASE-056, which joins grounds, and
     speech-act pragmatics as the proposition-with-force rival the body
     already argued. The Gutt clause, the record's own extrapolation, is
-    CLAIM-tmphcevw, Proposed (ADR-047's kind 2). The claim still undercuts
+    CLAIM-501, Proposed (ADR-047's kind 2). The claim still undercuts
     ARG-026: one rival that passes the test suffices.
 role: granted
 warrant: interpretive
@@ -58,7 +58,7 @@ summary: >-
   the theory's measures. [CLAIM-023](CLAIM-023.md) says the pragmatic point is not new, and
   a functional-equivalence account as Nida states it, or a proposition
   with its force, passes the same test; whether Gutt's relevance-theoretic
-  account does is CLAIM-tmphcevw, Proposed. Granted, because it is read off the texts. It does
+  account does is CLAIM-501, Proposed. Granted, because it is read off the texts. It does
   not say the theses are false, only that their stated tests cannot
   separate them from the positions they claim to improve on.
 ---
@@ -102,7 +102,7 @@ functional-equivalence account predicts that ratings of stance and footing
 beat embedding similarity on renderings built to dissociate the two. A pass is
 what it predicts, and the test cannot tell the thesis from the position
 [CLAIM-023](CLAIM-023.md) disclaims as not new. Whether Gutt's interpretive resemblance
-predicts the same is [CLAIM-tmphcevw](CLAIM-tmphcevw.md)'s question, which waits on a reading of Gutt.
+predicts the same is [CLAIM-501](CLAIM-501.md)'s question, which waits on a reading of Gutt.
 
 The same holds for the rival [CLAIM-115](CLAIM-115.md) itself names. The manuscript's
 Abstract, as [QUESTION-021](../questions.d/QUESTION-021.md) quotes it, sets the account against "a privileged
@@ -163,7 +163,7 @@ The nineteenth status review narrowed the title ([ADR-057](../decisions.d/ADR-05
 "every rival account the record names (functional equivalence, Gutt's
 interpretive resemblance, speech-act pragmatics)" predicts a pass. Gutt is
 named and unread ([LIT-784](../literature.d/LIT-784.md), Unavailable), so what his account predicts moves to
-[CLAIM-tmphcevw](CLAIM-tmphcevw.md), Proposed. Functional equivalence stays, held through Nida's
+[CLAIM-501](CLAIM-501.md), Proposed. Functional equivalence stays, held through Nida's
 principle as [CASE-056](../cases.d/CASE-056.md) quotes it, and speech-act pragmatics stays as the
 proposition-with-force rival above. The objection to [ARG-026](../arguments.d/ARG-026.md) needs one rival
 that passes the test, and two remain.
