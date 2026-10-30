@@ -26,8 +26,8 @@ uses:
 - TERM-076
 summary: >-
   Filed at the twenty-first status review, because the point turned up in
-  three readings of 2026-10-30 (NOTE-tmpjpcbm, NOTE-tmpimeo0,
-  NOTE-tmpt2y26). CLAIM-468 reads a goal's lowered priority under positive
+  three readings of 2026-10-30 ([NOTE-tmpjpcbm](../notes.d/NOTE-tmpjpcbm.md), [NOTE-tmpimeo0](../notes.d/NOTE-tmpimeo0.md),
+  [NOTE-tmpt2y26](../notes.d/NOTE-tmpt2y26.md)). [CLAIM-468](CLAIM-468.md) reads a goal's lowered priority under positive
   affect as a weaker hold of the prevailing ordering. Carver's own account,
   as his group restates it, reads the same shift as a reordering of
   priorities among goals, satisficing across them, which the prevailing
@@ -40,13 +40,13 @@ summary: >-
 
 ## The claim
 
-CLAIM-468's positive half takes evidence that positive affect lowers a
-goal's priority (Orehek et al., LIT-tmpa32bu; Thürmer, Scheier and Carver,
-LIT-tmpz4ww9) as evidence that stronger valence can go with a weaker hold
+[CLAIM-468](CLAIM-468.md)'s positive half takes evidence that positive affect lowers a
+goal's priority (Orehek et al., [LIT-tmpa32bu](../literature.d/LIT-tmpa32bu.md); Thürmer, Scheier and Carver,
+[LIT-tmpz4ww9](../literature.d/LIT-tmpz4ww9.md)) as evidence that stronger valence can go with a weaker hold
 of the prevailing ordering. That identifies one goal's priority with the
 ordering's hold, and the account the evidence comes from does not.
 
-Fulford et al. (LIT-tmphhuac, p. 1021) restate Carver 2003 (LIT-1445,
+Fulford et al. ([LIT-tmphhuac](../literature.d/LIT-tmphhuac.md), p. 1021) restate Carver 2003 ([LIT-1445](../literature.d/LIT-1445.md),
 unread): positive affect "may mean that the goal to which it relates can
 assume a lower priority; less effort would be expended toward this goal,
 which would free attention and resources for other needs. If another goal
@@ -54,17 +54,17 @@ needs attention at that point, effort might shift to it; this again
 represents a reordering of priorities." The result is satisficing across
 goals. On that reading, coasting on the goal that is ahead and shifting to
 the one behind is a decision about the set of goals, and an ordering of the
-system's own states by their bearing on its maintenance, CLAIM-440's
+system's own states by their bearing on its maintenance, [CLAIM-440](CLAIM-440.md)'s
 potential, could be what makes it. Thürmer et al.'s shift went to the
 competing goal, and Orehek et al.'s lowering appeared only when another
 goal was salient, both as that reading expects.
 
 So the readings show a goal losing priority. Whether the prevailing
-ordering loses its hold is a further fact, and CLAIM-468 needs it.
+ordering loses its hold is a further fact, and [CLAIM-468](CLAIM-468.md) needs it.
 
 ## What it does not say
 
-- **That CLAIM-468's negative half fails.** Hesp et al.'s fall in γ is a
+- **That [CLAIM-468](CLAIM-468.md)'s negative half fails.** Hesp et al.'s fall in γ is a
   fall in how far the preference ordering governs policy selection at
   all, with habit taking over, and this claim says nothing against it.
 - **That the prevailing ordering does direct the shift.** It says only

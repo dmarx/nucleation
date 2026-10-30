@@ -168,7 +168,7 @@ The claim falls if Pierson or Putnam already state it.
 
 ## Note of 2026-10-30: Putnam read
 
-Putnam ([LIT-1375](../literature.d/LIT-1375.md), NOTE-tmpgmmql) does not state the claim. Authority over
+Putnam ([LIT-1375](../literature.d/LIT-1375.md), [NOTE-tmpgmmql](../notes.d/NOTE-tmpgmmql.md)) does not state the claim. Authority over
 a deal lies in Level II preferences and coalitions, ratification
 institutions and the autonomy of central decision-makers (p. 449), and
 negotiators' strategies, with the chief negotiator's veto (pp. 456–458).
@@ -185,7 +185,7 @@ his one-negotiation frame.
 ## Note of 2026-10-30: what holds it back
 
 Putnam is now checked and does not state the claim. Pierson's 2000
-article (LIT-1372) is still unread, and [THEORY-885](../theory.d/THEORY-885.md) reads only the 1997
+article ([LIT-1372](../literature.d/LIT-1372.md)) is still unread, and [THEORY-885](../theory.d/THEORY-885.md) reads only the 1997
 precursor, so the path-dependence half of the defeat condition is checked
 only against the precursor. No case in the record shows a component's
 temporal horizon, rather than the formal rule that gives an event its

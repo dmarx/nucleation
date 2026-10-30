@@ -65,7 +65,7 @@ which.
    determinate and others are excluded, so that what functions as
    measuring agency and what as object are told apart "without requiring
    these to have been independently individuated in advance" (A6 §2). Barad's own words, in the one text of
-   hers read here (LIT-tmpqga3b, NOTE-tmpynmwh): "A specific intra-action
+   hers read here ([LIT-tmpqga3b](../literature.d/LIT-tmpqga3b.md), [NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md)): "A specific intra-action
    enacts an agential cut (in contrast to the Cartesian cut – an inherent
    distinction – between subject and object) effecting a separation between
    “subject” and “object”. That is, the agential cut enacts a “local”
@@ -91,7 +91,7 @@ which.
    her words, but uses "apparatus" only of the two-slit set-up and says
    nothing of the cut's movability or of Heisenberg; those parts rest on the
    exchange's account and on Faye and Jaksland's quotations of Barad 2007
-   (LIT-1657, unavailable).
+   ([LIT-1657](../literature.d/LIT-1657.md), unavailable).
 
 A9 §4 drew the contrast that makes the term worth having: "**Pattee's
 epistemic cut is a functional distinction between symbolic description
@@ -126,16 +126,16 @@ Adoption by the owner, and a reading of Barad herself that confirms or
 corrects the third sense. Jaksland 2024 and Faye and Jaksland 2021, read on
 2026-10-27, corrected its relation to the Heisenberg cut and supplied
 Barad's definition of an apparatus at second hand; the text above is
-corrected in place, the TERM being unadopted. Barad 2012 (NOTE-tmpynmwh),
+corrected in place, the TERM being unadopted. Barad 2012 ([NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md)),
 read 2026-10-30, confirms the cut in her own words and leaves the apparatus
 clause and the movability where they were.
 
 ## Note of 2026-10-30: what holds it back
 
 The core of the agential sense is now confirmed in Barad's words (2012, p.
-32; NOTE-tmpynmwh). What is not confirmed is that an apparatus enacts the
+32; [NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md)). What is not confirmed is that an apparatus enacts the
 cut, Barad's definition of an apparatus, and the cut's movability: these
-rest only on Faye and Jaksland's quotations of Barad 2007 (NOTE-1220,
-NOTE-1230). The 2012 essay says "a specific intra-action enacts an
+rest only on Faye and Jaksland's quotations of Barad 2007 ([NOTE-1220](../notes.d/NOTE-1220.md),
+[NOTE-1230](../notes.d/NOTE-1230.md)). The 2012 essay says "a specific intra-action enacts an
 agential cut" and uses "apparatus" only of the two-slit set-up. Those
-clauses, which CLAIM-476 uses, wait on a reading of LIT-1657.
+clauses, which [CLAIM-476](../claims.d/CLAIM-476.md) uses, wait on a reading of [LIT-1657](../literature.d/LIT-1657.md).

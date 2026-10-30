@@ -98,9 +98,9 @@ and holds even of motivational valence.
 
 - **That Hesp et al.'s model is right about organisms.** It is a model of
   a T-maze rat, read in [NOTE-1111](../notes.d/NOTE-1111.md).
-- **Carver's view, at first hand.** Carver 2003 (LIT-1445) is still
+- **Carver's view, at first hand.** Carver 2003 ([LIT-1445](../literature.d/LIT-1445.md)) is still
   unread. Its thesis is read as Carver's group restates it (Fulford et
-  al. 2010, LIT-tmphhuac, p. 1021): positive affect "may mean that the
+  al. 2010, [LIT-tmphhuac](../literature.d/LIT-tmphhuac.md), p. 1021): positive affect "may mean that the
   goal to which it relates can assume a lower priority". The evidence for
   the positive half is in the note of 2026-10-30 below.
 - **That intensity is unrelated to the ordering.** Confident flight in
@@ -111,14 +111,14 @@ and holds even of motivational valence.
 ## Note of 2026-10-30: the positive half, read
 
 Three papers read on 2026-10-30 bear on the positive half. Fulford et al.
-(LIT-tmphhuac, NOTE-tmpjpcbm) restate Carver 2003's thesis, which confirms
+([LIT-tmphhuac](../literature.d/LIT-tmphhuac.md), [NOTE-tmpjpcbm](../notes.d/NOTE-tmpjpcbm.md)) restate Carver 2003's thesis, which confirms
 the attribution, and find less effort on a goal after progress beyond
-expectation, without measuring affect. Orehek et al. (LIT-tmpa32bu,
-NOTE-tmpt2y26) find that induced positive affect lowered a promised goal's
+expectation, without measuring affect. Orehek et al. ([LIT-tmpa32bu](../literature.d/LIT-tmpa32bu.md),
+[NOTE-tmpt2y26](../notes.d/NOTE-tmpt2y26.md)) find that induced positive affect lowered a promised goal's
 activation and the intention to pursue it when competing goals were
 salient, and raised both when none were: the relation runs either way, as
 this claim says, and the condition is competition among goals. Thürmer,
-Scheier and Carver (LIT-tmpz4ww9, NOTE-tmpimeo0) find that feedback putting
+Scheier and Carver ([LIT-tmpz4ww9](../literature.d/LIT-tmpz4ww9.md), [NOTE-tmpimeo0](../notes.d/NOTE-tmpimeo0.md)) find that feedback putting
 one goal ahead moved performance to its rival, and that a plan to ignore
 one's feelings removed the effect; but ahead-of-target feedback did not
 raise mood (their Table 1: −0.09 and −0.06, against −0.04 in the control),
@@ -133,6 +133,6 @@ al.). What is unanswered is whether a goal whose priority falls under
 positive affect shows a weaker hold of the prevailing ordering, or that
 ordering moving effort to the goal furthest behind, which is how Carver's
 satisficing account reads the shift (Fulford et al., p. 1021), and which
-CLAIM-tmpv9vjj presses as an objection. The claim does not argue the
+[CLAIM-tmpv9vjj](CLAIM-tmpv9vjj.md) presses as an objection. The claim does not argue the
 first, and until it does its positive half shows a goal losing priority,
 not the ordering losing its hold.

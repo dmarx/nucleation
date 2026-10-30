@@ -135,12 +135,12 @@ The interlocutor's reading of 2026-10-12 favours "making this the principal empi
 
 "Why the second is the rival" says that each rival account "fixes a
 profile of the rendering as read once". The record now holds the
-contrary. CLAIM-205, Active since 2026-10-30, holds that functional and
+contrary. [CLAIM-205](CLAIM-205.md), Active since 2026-10-30, holds that functional and
 relevance-theoretic accounts, as Nida, Nord and Gutt state them, need not
-fix one context or a static stance profile, and ARG-031, the inference
+fix one context or a static stance profile, and [ARG-031](../arguments.d/ARG-031.md), the inference
 from a win over the static profile to what the line adds, is Rejected. A
 win over the static profile would therefore not tell the line from those
-accounts. The proposed stronger rival is CLAIM-tmpnw3vv, Proposed. The
+accounts. The proposed stronger rival is [CLAIM-tmpnw3vv](CLAIM-tmpnw3vv.md), Proposed. The
 text above is unchanged.
 
 ## Note of 2026-10-30: what holds it back

@@ -357,7 +357,7 @@ alone does not.
 
 ## Note of 2026-10-30: Cialdini et al., read
 
-Cialdini et al. (LIT-1728) are now read in full (NOTE-tmpps63a). The
+Cialdini et al. ([LIT-1728](../literature.d/LIT-1728.md)) are now read in full ([NOTE-tmpps63a](../notes.d/NOTE-tmpps63a.md)). The
 body's account of them holds in direction and needs three corrections of
 scope.
 
@@ -378,19 +378,19 @@ scope.
   its meaning" (pp. 490–491). That supports "no action is selfless", not
   "self-interest on a larger self-identity".
 
-On CLAIM-492, the paper separates oneness from empathic concern: severity
+On [CLAIM-492](CLAIM-492.md), the paper separates oneness from empathic concern: severity
 of need raised empathic concern and not oneness (p. 491). It does not
 separate oneness from closeness or from caring in general, which is what
-CLAIM-492 asks.
+[CLAIM-492](CLAIM-492.md) asks.
 
 ## Note of 2026-10-30: what holds it back
 
-CLAIM-494 is unanswered. Cialdini et al. (LIT-1728), now read, found the
+[CLAIM-494](CLAIM-494.md) is unanswered. Cialdini et al. ([LIT-1728](../literature.d/LIT-1728.md)), now read, found the
 opposite in their own paradigm, but the objection rests on Batson et
-al.'s reply (LIT-1700), which criticises that paradigm and is unread.
-CLAIM-492's conceded condition is unmet: no reading shows a measure of
+al.'s reply ([LIT-1700](../literature.d/LIT-1700.md)), which criticises that paradigm and is unread.
+[CLAIM-492](CLAIM-492.md)'s conceded condition is unmet: no reading shows a measure of
 the self's extent coming apart from caring, and Cialdini et al. separate
 oneness only from empathic concern. And the collectivist half of the
 title has no direct evidence. Cialdini et al.'s oneness is dyadic, and
-the group readings (NOTE-1275, NOTE-1289, NOTE-1278) show a changed
+the group readings ([NOTE-1275](../notes.d/NOTE-1275.md), [NOTE-1289](../notes.d/NOTE-1289.md), [NOTE-1278](../notes.d/NOTE-1278.md)) show a changed
 self-concept, not a self enlarged to the group's good.

@@ -227,11 +227,11 @@ open.
 ## Note of 2026-10-30: what holds it back
 
 For teasing, the intention-based reading is still missing. Harnish
-(LIT-tmp7ybhu) confirms that Bach and Harnish individuate communicative
+([LIT-tmp7ybhu](../literature.d/LIT-tmp7ybhu.md)) confirms that Bach and Harnish individuate communicative
 acts by the attitude the speaker R-intends to be recognized, with context
-only as input to the hearer's inference. Berdini (LIT-tmpyrsss) quotes
+only as input to the hearer's inference. Berdini ([LIT-tmpyrsss](../literature.d/LIT-tmpyrsss.md)) quotes
 them that acts "at best ... create mutual beliefs ... about rights and
 obligations" (1979, p. 124). Neither text mentions teasing, reproach or
 standing, and the book ([LIT-1040](../literature.d/LIT-1040.md)) is unread. Harnish's suggestion that
 expressed attitude and liability to censure coincide (p. 38) leaves open
-whether QUESTION-073's dispute is verbal.
+whether [QUESTION-073](../questions.d/QUESTION-073.md)'s dispute is verbal.
