@@ -110,3 +110,20 @@ of coordinates that differ without any failure to glue. The first is a
 third kind: the global description exists, and a property fails to
 survive the join ([CLAIM-219](CLAIM-219.md), note of 2026-10-21; [CLAIM-409](CLAIM-409.md)). It
 recurs in A12 (Batch 5) and A14 (PR 6). Recorded here, not filed.
+
+## Note of 2026-10-30: what holds it back
+
+Its body reads "admits none" two ways, and the same case fails the title
+under each. Read over supports, Wang et al.'s tap/box model (LIT-842,
+NOTE-645, THEORY-623) is contextual of Hardy type and still has two global
+assignments, so a contextual utterance can admit some. Read over
+distributions, as the note of 2026-10-10 does, that ambiguous phrase admits
+no compatible global distribution, so an ambiguous utterance need not admit
+several. It waits on a restatement, which is the owner's: a merely ambiguous
+model is a mixture of several global assignments, a contextual one a mixture
+of none, and one utterance can be both.
+
+By Fine's theorem (Abramsky–Brandenburger), a model with no global extension
+is never a mixture of global assignments over the same observables, so the
+defeat condition cannot be met; CLAIM-238 already lists "Every pattern" as
+an unmeetable universal negative.

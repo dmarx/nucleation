@@ -50,3 +50,15 @@ relationships. We can investigate the trajectory by which a relational
 configuration emerges or fails." The manuscript keeps the bridge and the
 disanalogy of times, and drops the reason, so bridges enter §7 with no stated
 purpose.
+
+## Note of 2026-10-30: what holds it back
+
+Its defeat condition is met as written: given the final state, an
+intermediate state carries no information about the final relational content
+beyond what that endpoint carries, in any chain whatever. What the claim
+means is that the order in which relations are fixed along the path is
+informative, and no result in the record measures that for a reconstruction
+chain. THEORY-948's early-phase layout control is image generation under
+intervention, not an observation of a translation path. Until the condition
+is restated at that level, which is the owner's call as for CLAIM-029, it is
+not promoted.

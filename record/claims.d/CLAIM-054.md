@@ -62,3 +62,13 @@ there or in the record.
   not the speaker–audience relation this claim's case turns on.
 - **In tension.** Brandom ([LIT-794](../literature.d/LIT-794.md), skimmed) holds that the same content
   with the same force gives the same deontic significance.
+
+## Note of 2026-10-30: what holds it back
+
+Its one ground, CASE-026, is a stipulated thought experiment. The
+performative side it turns on, complicity in the speaker–audience relation,
+is footing, for which CLAIM-227 (Active) finds no validated measure.
+CLAIM-061 was promoted only after dropping footing to concede CLAIM-227, and
+on a documented case (CASE-056). The missing result is a documented
+rendering in which readers' understanding is kept and the relation is judged
+lost, by a measure of footing.
