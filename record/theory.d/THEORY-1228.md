@@ -1,5 +1,8 @@
 ---
+number: 1228
 status: Proposed
+formerly:
+- THEORY-tmpgkhdn
 promote_when: >-
   For each of the two systems with import at scale (the Paulinella
   chromatophore and the nitroplast), a census of imported proteins that
@@ -35,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
-# THEORY-tmpgkhdn: A bacterial endosymbiont becomes genetically integrated, an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria
+# THEORY-1228: A bacterial endosymbiont becomes genetically integrated, an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria
 
 ## Source
 

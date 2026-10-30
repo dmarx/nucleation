@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-172 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+175 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -135,6 +135,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-067](../record/theory.d/THEORY-067.md) — Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one *(Proposed)*
   - [THEORY-1117](../record/theory.d/THEORY-1117.md) — Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one *(Active)*
+
+### From Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning
+
+- [THEORY-069](../record/theory.d/THEORY-069.md) — Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning *(Proposed)*
+  - [THEORY-1227](../record/theory.d/THEORY-1227.md) — Haken, Kelso and Bunz model the switch of rhythmic bimanual coordination from anti-phase to in-phase at a critical frequency as the loss of one stable state of an order parameter, relative phase, derived from two coupled oscillators; Kelso, Scholz and Schöner report the variability of relative phase rising before the switch in the anti-phase pattern only, in a few subjects and with no statistical test *(Active)*
 
 ### From How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
 
@@ -287,6 +292,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-823](../record/theory.d/THEORY-823.md) — Tetris players rotate pieces more often than planning a placement and then executing it would require, rotate them early and check the column more the higher the drop, because these moves are epistemic actions: physical action that stands in for mental computation at the moment of use *(Proposed)*
 
 ## complex-systems
+
+### From Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning
+
+- [THEORY-069](../record/theory.d/THEORY-069.md) — Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning *(Proposed)*
+  - [THEORY-1227](../record/theory.d/THEORY-1227.md) — Haken, Kelso and Bunz model the switch of rhythmic bimanual coordination from anti-phase to in-phase at a critical frequency as the loss of one stable state of an order parameter, relative phase, derived from two coupled oscillators; Kelso, Scholz and Schöner report the variability of relative phase rising before the switch in the anti-phase pattern only, in a few subjects and with no statistical test *(Active)*
 
 ### From In an illustrative active-inference simulation of post-traumatic context inference, run once per phenotype, a prior that one is in a harmful context, made overly precise by a run of harmful trials under the "vulnerable" learning and forgetting weights, makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision makes the attenuation policy less vigorous without correcting the prior, and the policy returns when precision is restored
 
@@ -476,6 +486,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## embodied-cognition
 
+### From Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning
+
+- [THEORY-069](../record/theory.d/THEORY-069.md) — Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning *(Proposed)*
+  - [THEORY-1227](../record/theory.d/THEORY-1227.md) — Haken, Kelso and Bunz model the switch of rhythmic bimanual coordination from anti-phase to in-phase at a critical frequency as the loss of one stable state of an order parameter, relative phase, derived from two coupled oscillators; Kelso, Scholz and Schöner report the variability of relative phase rising before the switch in the anti-phase pattern only, in a few subjects and with no statistical test *(Active)*
+
 ### From Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency
 
 - [THEORY-071](../record/theory.d/THEORY-071.md) — Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency *(Proposed)*
@@ -553,6 +568,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-1099](../record/theory.d/THEORY-1099.md) — On Kay and colleagues' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open *(Active)*
   - [THEORY-1203](../record/theory.d/THEORY-1203.md) — The host lineage elaborated its cytoskeleton, endomembrane system and nuclear machinery before mitochondrial endosymbiosis began, about 2.2 billion years ago: most pre-LECA duplications in eukaryotic gene families of archaeal origin predate it *(Proposed)*
+
+### From On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when nuclear genes whose products are imported into it functionally replace essential genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, many of which fill gaps left by lost genes, the imported proteins come mostly from the host's own genes or from other bacteria, and in the nitroplast no gene transfer from the endosymbiont has been found
+
+- [THEORY-1100](../record/theory.d/THEORY-1100.md) — On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when nuclear genes whose products are imported into it functionally replace essential genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, many of which fill gaps left by lost genes, the imported proteins come mostly from the host's own genes or from other bacteria, and in the nitroplast no gene transfer from the endosymbiont has been found *(Active)*
+  - [THEORY-1228](../record/theory.d/THEORY-1228.md) — A bacterial endosymbiont becomes genetically integrated, an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria *(Proposed)*
 
 ### From Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that normalized stem length does not behave as a clock of acquisition time: alphaproteobacterial stems are longer than Asgard ones for the 70% of stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation genes presumed acquired together vary by more than two orders of magnitude, and information-processing genes have short stems; they conclude that even normalized stem lengths are set primarily by factors other than acquisition time, at least over the long timescales analysed, and suggest that adaptation after acquisition lengthens stems
 
@@ -1306,6 +1326,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-1099](../record/theory.d/THEORY-1099.md) — On Kay and colleagues' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open *(Active)*
   - [THEORY-1203](../record/theory.d/THEORY-1203.md) — The host lineage elaborated its cytoskeleton, endomembrane system and nuclear machinery before mitochondrial endosymbiosis began, about 2.2 billion years ago: most pre-LECA duplications in eukaryotic gene families of archaeal origin predate it *(Proposed)*
+
+### From On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when nuclear genes whose products are imported into it functionally replace essential genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, many of which fill gaps left by lost genes, the imported proteins come mostly from the host's own genes or from other bacteria, and in the nitroplast no gene transfer from the endosymbiont has been found
+
+- [THEORY-1100](../record/theory.d/THEORY-1100.md) — On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when nuclear genes whose products are imported into it functionally replace essential genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, many of which fill gaps left by lost genes, the imported proteins come mostly from the host's own genes or from other bacteria, and in the nitroplast no gene transfer from the endosymbiont has been found *(Active)*
+  - [THEORY-1228](../record/theory.d/THEORY-1228.md) — A bacterial endosymbiont becomes genetically integrated, an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria *(Proposed)*
 
 ### From Tobiasson, Luo, Wolf and Koonin find, on 5,850 eukaryotic gene stems, that normalized stem length does not behave as a clock of acquisition time: alphaproteobacterial stems are longer than Asgard ones for the 70% of stems below 0.3 and shorter only above 0.35, oxidative-phosphorylation genes presumed acquired together vary by more than two orders of magnitude, and information-processing genes have short stems; they conclude that even normalized stem lengths are set primarily by factors other than acquisition time, at least over the long timescales analysed, and suggest that adaptation after acquisition lengthens stems
 
@@ -2087,6 +2112,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-889](../record/theory.d/THEORY-889.md) — In Acharya, Blackwell and Sen's analysis, white Southerners surveyed in 2006 to 2011 who live in counties where a larger share of the 1860 population was enslaved are, with state fixed effects and 1860 county controls, somewhat less Democratic, less supportive of affirmative action and more racially resentful, by about 0.09 to 0.13 standard deviations per standard deviation (about 20 points) of slave share, and in 1984 to 1998 survey data colder toward black Americans, by about 0.32; a cotton-suitability instrument gives larger estimates; the direct effect estimated with present black share held fixed is about as large; and in county presidential vote, which counts black voters until disenfranchisement, the difference appeared after Reconstruction rather than before the war *(Active)*
   - [THEORY-1225](../record/theory.d/THEORY-1225.md) — Among white Southerners today, those living in counties where a larger share of the 1860 population was enslaved are somewhat less Democratic, less supportive of affirmative action and more racially resentful, by about a tenth of a standard deviation per standard deviation of slave share, and colder toward black Americans, by about a third; the difference is not accounted for by the present black share of the population, and in voting it appeared after Reconstruction rather than before the war, which supports its origin in the incentives that emancipation gave planters to repress black labor and votes, and its local transmission thereafter *(Proposed)*
+
+### From In five formerly stable democracies selected because they later autocratized (South Korea, India, Hungary, Venezuela and Turkey), formal emergency powers, extraordinary powers functionally equivalent to them, and emergency rhetoric each contributed, on the authors' unsourced country accounts, to weakening democratic institutions
+
+- [THEORY-906](../record/theory.d/THEORY-906.md) — In five formerly stable democracies selected because they later autocratized (South Korea, India, Hungary, Venezuela and Turkey), formal emergency powers, extraordinary powers functionally equivalent to them, and emergency rhetoric each contributed, on the authors' unsourced country accounts, to weakening democratic institutions *(Active)*
+  - [THEORY-1229](../record/theory.d/THEORY-1229.md) — Formal emergency powers, extraordinary powers functionally equivalent to them and emergency rhetoric are linked to the accelerated erosion or dismantling of democracy and to the consolidation of autocratic rule, though the convergence is not inevitable *(Proposed)*
 
 ### From On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter
 

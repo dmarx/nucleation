@@ -1,5 +1,8 @@
 ---
+number: 349
 status: Open
+formerly:
+- QUESTION-tmpxiomw
 title: 'On tasks other than Jacobs and colleagues'' four-class vowel discrimination, do mixtures of experts trained on the error of a single expert chosen stochastically by the gate, or on the mixture''s negative log-likelihood, leave most experts with near-zero mixing proportions while matching the accuracy of a dense network of equal size?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-132 — Open; the separate question of whether an idle expert recovers, named -->
 
-# QUESTION-tmpxiomw: On tasks other than Jacobs and colleagues' four-class vowel discrimination, do mixtures of experts trained on the error of a single expert chosen stochastically by the gate, or on the mixture's negative log-likelihood, leave most experts with near-zero mixing proportions while matching the accuracy of a dense network of equal size?
+# QUESTION-349: On tasks other than Jacobs and colleagues' four-class vowel discrimination, do mixtures of experts trained on the error of a single expert chosen stochastically by the gate, or on the mixture's negative log-likelihood, leave most experts with near-zero mixing proportions while matching the accuracy of a dense network of equal size?
 
 ## Why it is a question
 

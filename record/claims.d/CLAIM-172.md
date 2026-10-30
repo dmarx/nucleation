@@ -82,7 +82,7 @@ history:
     The criterion uses only what Haken, Kelso and Bunz 1985 and Kelso,
     Scholz and Schöner 1986 show, both now read in full: relative phase as
     the pair's own variable, with two attractors, a switch and critical
-    fluctuations. THEORY-tmp1drab, split from THEORY-069 on THEORY-1110's
+    fluctuations. THEORY-1227, split from THEORY-069 on THEORY-1110's
     pattern, states that and replaces it in grounds; THEORY-069 moves to
     corroborated_by. CLAIM-165 was written in at version 4, and nothing in
     the record meets the defeated_if. QUESTION-009 moves from answers to
@@ -108,7 +108,7 @@ line: distributed-agency
 bears_on:
 - QUESTION-009
 grounds:
-- THEORY-tmp1drab
+- THEORY-1227
 - LIT-097
 - THEORY-582
 - LIT-439
@@ -151,7 +151,7 @@ Aizawa ([LIT-455](../literature.d/LIT-455.md)) name the step a fallacy, and thei
 nerve and the muscle: coupled, and not part of each other.
 
 Coordination dynamics offers a different kind of criterion. In HKB
-([THEORY-tmp1drab](../theory.d/THEORY-tmp1drab.md), the model and its reported fluctuations, read first-hand;
+([THEORY-1227](../theory.d/THEORY-1227.md), the model and its reported fluctuations, read first-hand;
 the general account is [THEORY-069](../theory.d/THEORY-069.md)), two effectors coupled strongly enough stop being described
 well by their separate states. The pair has a collective variable, relative
 phase, with its own attractors, its own critical fluctuations and its own

@@ -6,7 +6,7 @@
 
 **Self-governance** — governing oneself by standards that are one's own — identification and wholeheartedness, planning agency and policies, self-constitution, autonomy and authenticity, and the empirical psychology of self-endorsed motives. One of four unities kept apart (group: philosophy; ADR-024).
 
-34 of 347 QUESTION documents. Back to the [full index](../README.md).
+34 of 349 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

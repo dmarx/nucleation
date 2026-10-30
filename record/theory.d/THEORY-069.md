@@ -51,7 +51,7 @@ history:
     At the status review's ruling (the owner delegated these rulings;
     ADR-058, ADR-065). What CLAIM-172 uses of this account, the model with
     its order parameter and the critical fluctuations read first-hand, is
-    split off as THEORY-tmp1drab, Active, on THEORY-1110's pattern; this
+    split off as THEORY-1227, Active, on THEORY-1110's pattern; this
     entry keeps the general account and its condition. CLAIM-172 now
     grounds on the split and lists this entry under corroborated_by, so
     CLAIM-172 moves from supports to corroborates. The note of 2026-10-30
@@ -207,6 +207,6 @@ Scholz, Kelso and Schöner 1987 (Physics Letters A 123:390), which is not
 filed; and hysteresis, which HKB 1985 reports from Kelso's earlier
 experiments without data. The switch's direction and the critical
 fluctuations are now read first-hand ([LIT-1851](../literature.d/LIT-1851.md)). What [CLAIM-172](../claims.d/CLAIM-172.md)
-needs of it, the model and the fluctuations, is split off as [THEORY-tmp1drab](THEORY-tmp1drab.md),
+needs of it, the model and the fluctuations, is split off as [THEORY-1227](THEORY-1227.md),
 Active. A further split frees nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md),
 Proposed.

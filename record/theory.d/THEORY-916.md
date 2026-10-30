@@ -35,7 +35,7 @@ history:
     second part, a test in groups, asks whether real groups behave as the
     model does, which the authors do not assert ("an assessment of the
     validity of the model has just begun", p. 386), so it moves to
-    QUESTION-tmp87hf7 (ADR-047 kind 4). The old promote_when: "Two things.
+    QUESTION-348 (ADR-047 kind 4). The old promote_when: "Two things.
     First, the proofs checked by a reader of this record (or a published
     independent proof or extension that restates Theorem 4.1 and
     Proposition 4.2), since this reading skimmed them. Second, because the
@@ -66,10 +66,10 @@ summary: >-
 corroborates:
 - CLAIM-448
 bears_on:
-- QUESTION-tmp87hf7
+- QUESTION-348
 ---
 <!-- inactive-ok-file: THEORY-321 LIT-1482 — Proposed or Deferred; the accounts and companion work this bears on, named, nothing here rests on them -->
-<!-- inactive-ok-file: QUESTION-tmp87hf7 — Open; the question the condition's test in groups moved to -->
+<!-- inactive-ok-file: QUESTION-348 — Open; the question the condition's test in groups moved to -->
 <!-- inactive-ok-file: THEORY-1161 — Proposed; the Friedkin–Johnsen comparison, cited in the note of 2026-10-29 as open -->
 
 # THEORY-916: In the DeGroot–Friedkin model, where a group reaches DeGroot consensus on each issue and each member's self-weight on the next issue equals their control over the last, with fixed relative interpersonal weights that form a strongly connected network, self-weights converge from every non-autocratic start to one equilibrium ordered by the eigenvector centralities of those weights: power accumulates above a centrality threshold, is autocratic exactly when the network is a star and democratic exactly when it is doubly stochastic; and in the networks that are not strongly connected that the authors treat, members to whom some other member does not listen, even indirectly, end with none
@@ -144,4 +144,4 @@ The proofs of Lemmas 3.1–3.2, Theorem 4.1, Proposition 4.2 and Section 5
 were skimmed, not checked step by step ([NOTE-1135](../notes.d/NOTE-1135.md)), and the record holds
 no published independent proof. The title asserts the theorems, so it
 waits on that check ([ADR-065](../decisions.d/ADR-065.md) §5). Whether groups behave as the model does
-is [QUESTION-tmp87hf7](../questions.d/QUESTION-tmp87hf7.md).
+is [QUESTION-348](../questions.d/QUESTION-348.md).

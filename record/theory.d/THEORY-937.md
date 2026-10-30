@@ -30,7 +30,7 @@ history:
     equal accuracy, and divided the task by class pair, leaving all but 2
     or 3 experts with mixing proportions effectively zero". What the
     condition asked beyond the title, a second study on another task,
-    moves to QUESTION-tmpxiomw (ADR-065 §3). The old promote_when: "A checked
+    moves to QUESTION-349 (ADR-065 §3). The old promote_when: "A checked
     derivation, recorded here, that under the error of Eq. 1.3 the
     gradient for each expert is its posterior responsibility for the case
     times its error, and that with a uniform gate and every error above 1
@@ -58,9 +58,9 @@ summary: >-
 corroborates:
 - CLAIM-467
 bears_on:
-- QUESTION-tmpxiomw
+- QUESTION-349
 ---
-<!-- inactive-ok-file: QUESTION-tmpxiomw — Open; the replication its condition asked for -->
+<!-- inactive-ok-file: QUESTION-349 — Open; the replication its condition asked for -->
 
 # THEORY-937: When a mixture of experts is trained on the error of a single expert chosen stochastically by the gate, or on the negative log-likelihood of the mixture, the gradient raises the gate's logit for an expert that fits a case better than the gate-weighted average and lowers it for one that fits worse; on a four-class vowel task, mixtures of 4 or 8 linear experts learned in about half the epochs of backpropagation networks of roughly equal parameter count, at equal accuracy, and divided the task by class pair, leaving all but 2 or 3 experts with mixing proportions effectively zero
 
@@ -152,4 +152,4 @@ same counts.
 The backpropagation networks had "roughly equal parameter counts"
 ([NOTE-1147](../notes.d/NOTE-1147.md)), so "of equal size" became "of roughly equal parameter count"
 ([ADR-047](../decisions.d/ADR-047.md) kind 3). The replication the condition asked for is
-[QUESTION-tmpxiomw](../questions.d/QUESTION-tmpxiomw.md).
+[QUESTION-349](../questions.d/QUESTION-349.md).

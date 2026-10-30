@@ -17,7 +17,7 @@ history:
     full, and it is the whole of the published source. Nothing in the
     record contradicts the report. What the condition asked beyond the
     title, that the link the authors assert hold up against comparison
-    cases, moves to THEORY-tmpn00eg, Proposed, which extends this entry and
+    cases, moves to THEORY-1229, Proposed, which extends this entry and
     keeps the condition word for word (ADR-065 §3). The old promote_when:
     "The full study (announced in Hebrew) or a peer-reviewed comparison
     read and found to source the country accounts and to include
@@ -44,7 +44,7 @@ corroborates:
 - CLAIM-445
 ---
 <!-- inactive-ok-file: CLAIM-445 — Proposed; the claim this bears on, named, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-tmpn00eg — Proposed; filed beside this reading by the twenty-third status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1229 — Proposed; filed beside this reading by the twenty-third status review: the wider thesis it reports -->
 
 # THEORY-906: In five formerly stable democracies selected because they later autocratized (South Korea, India, Hungary, Venezuela and Turkey), formal emergency powers, extraordinary powers functionally equivalent to them, and emergency rhetoric each contributed, on the authors' unsourced country accounts, to weakening democratic institutions
 
@@ -87,5 +87,5 @@ The twenty-third status review promoted this reading under [ADR-065](../decision
 title reports what the authors' summary says of five cases chosen on the
 outcome, with the summary's own limits in it, and [NOTE-1129](../notes.d/NOTE-1129.md) read the
 summary in full. Whether emergencies are linked to democratic erosion, as
-the authors conclude, is [THEORY-tmpn00eg](THEORY-tmpn00eg.md)'s question, Proposed, which
+the authors conclude, is [THEORY-1229](THEORY-1229.md)'s question, Proposed, which
 keeps this entry's old promote_when.

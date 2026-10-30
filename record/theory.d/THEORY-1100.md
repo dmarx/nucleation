@@ -24,7 +24,7 @@ history:
     colleagues' review says; NOTE-1241 read it in full, and nothing in the
     record contradicts the report (CASE-174 was revised to it). What the
     condition asked beyond the title, that the authors be right, moves to
-    THEORY-tmpgkhdn, Proposed, which extends this entry and keeps the
+    THEORY-1228, Proposed, which extends this entry and keeps the
     condition word for word (ADR-065 §3). Narrowed first (ADR-047 kind 3,
     note below): the review says the imported proteins come "mostly from
     the host itself", and that some "add novel functionality", so the
@@ -72,7 +72,7 @@ summary: >-
   and the endosymbiont's genes need not move. The origins are stated in
   summary, not counted, and the import mechanisms are unknown.
 ---
-<!-- inactive-ok-file: THEORY-tmpgkhdn — Proposed; filed beside this reading by the twenty-third status review: the wider thesis it reports -->
+<!-- inactive-ok-file: THEORY-1228 — Proposed; filed beside this reading by the twenty-third status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 CASE-174 CASE-167 — Open or Proposed; the question, cases, accounts and unread works set beside this, nothing here rests on them -->
 
 # THEORY-1100: On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when nuclear genes whose products are imported into it functionally replace essential genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, many of which fill gaps left by lost genes, the imported proteins come mostly from the host's own genes or from other bacteria, and in the nitroplast no gene transfer from the endosymbiont has been found
@@ -151,5 +151,5 @@ host's own; the review says that of the imported proteins, some of which
 nitroplast, where "Evidence for EGT has not been found". The title now
 also gives the authors' definition: essential genes functionally replaced
 by nuclear genes. Whether genetic integration needs no gene transfer, and
-whether the replacing genes are mostly the host's, is [THEORY-tmpgkhdn](THEORY-tmpgkhdn.md)'s
+whether the replacing genes are mostly the host's, is [THEORY-1228](THEORY-1228.md)'s
 question, Proposed, which keeps this entry's old promote_when.

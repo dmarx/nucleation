@@ -6,11 +6,11 @@
 
 **Agency** — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy).
 
-33 of 347 QUESTION documents. Back to the [full index](../README.md).
+33 of 349 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [QUESTION-009](../../../record/questions.d/QUESTION-009.md) v3 | When does a pattern of coordination constitute an additional agent? | Asked from the first day (A8, A11) and never answered. The will paper sets it aside by supposing its agent ([CLAIM-080](../../../record/claims.d/CLAIM-080.md)), which is what made the paper writable. | Deferred |
+| [QUESTION-009](../../../record/questions.d/QUESTION-009.md) v4 | When does a pattern of coordination constitute an additional agent? | Asked from the first day (A8, A11) and never answered. The will paper sets it aside by supposing its agent ([CLAIM-080](../../../record/claims.d/CLAIM-080.md)), which is what made the paper writable. | Deferred |
 | [QUESTION-011](../../../record/questions.d/QUESTION-011.md) v2 | What makes a will-organization the agent's own, rather than merely effective within it? | The ownership question. The authenticity line was built to answer it and was set aside with it at the audit of 2026-10-05; the paper now disclaims it ([CLAIM-022](../../../record/claims.d/CLAIM-022.md)). | Deferred |
 | [QUESTION-015](../../../record/questions.d/QUESTION-015.md) v2 | Given an independently warranted agent with several available action-generating regimes, what maintained relations govern which of them becomes practically effective? | The question the will paper answers, in its own words (Section 2). Answered by [CLAIM-027](../../../record/claims.d/CLAIM-027.md), Active since 2026-10-28: accessibility, precedence, persistence, jurisdiction, suspension and transformation. The intervention test that would show it across realizers is [CLAIM-027](../../../record/claims.d/CLAIM-027.md)'s defeated_if, not yet run. | Answered |
 | [QUESTION-019](../../../record/questions.d/QUESTION-019.md) | What is it like to be Microsoft? | The owner's first framing (U9): what, if anything, an organized whole such as a corporation is like from the inside, and in what sense its states are its own. Reframed by [QUESTION-015](../../../record/questions.d/QUESTION-015.md) once the work narrowed from what a collective is to what organizes its action. | Superseded — by [QUESTION-015](../../../record/questions.d/QUESTION-015.md) |

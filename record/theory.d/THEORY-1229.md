@@ -1,5 +1,8 @@
 ---
+number: 1229
 status: Proposed
+formerly:
+- THEORY-tmpn00eg
 promote_when: >-
   The full study (announced in Hebrew) or a peer-reviewed comparison read
   and found to source the country accounts and to include democracies that
@@ -26,7 +29,7 @@ summary: >-
   promote_when is [THEORY-906](THEORY-906.md)'s old condition, word for word.
 ---
 
-# THEORY-tmpn00eg: Formal emergency powers, extraordinary powers functionally equivalent to them and emergency rhetoric are linked to the accelerated erosion or dismantling of democracy and to the consolidation of autocratic rule, though the convergence is not inevitable
+# THEORY-1229: Formal emergency powers, extraordinary powers functionally equivalent to them and emergency rhetoric are linked to the accelerated erosion or dismantling of democracy and to the consolidation of autocratic rule, though the convergence is not inevitable
 
 ## Source
 
