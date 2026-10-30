@@ -90,7 +90,7 @@ experiments, which would hold the first step.
 ## Note of 2026-10-30: what holds it back
 
 Its first step still lacks Le Cam's randomization criterion for finite
-experiments. CLAIM-381 defines the deficiency and computes it, and that a
+experiments. [CLAIM-381](CLAIM-381.md) defines the deficiency and computes it, and that a
 deficiency of ε bounds every [0, 1]-loss risk gap by ε follows in two
 lines from that definition; the converse, which makes deficiency the
 approximate Blackwell order and not only a bound on it, is neither read

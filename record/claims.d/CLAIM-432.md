@@ -235,9 +235,9 @@ the functional claim, whatever it says about feeling.
 
 ## Note of 2026-10-30: what holds it back
 
-Its premises CLAIM-039 and CLAIM-271 are Proposed: the first waits on an
-answer to THEORY-101's identification of valence with a felt state, the
-second on French's and Pettit's readings (THEORY-131, THEORY-139). Its
-live objection CLAIM-431 is unanswered here, and part 5's test, whether a
+Its premises [CLAIM-039](CLAIM-039.md) and [CLAIM-271](CLAIM-271.md) are Proposed: the first waits on an
+answer to [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a felt state, the
+second on French's and Pettit's readings ([THEORY-131](../theory.d/THEORY-131.md), [THEORY-139](../theory.d/THEORY-139.md)). Its
+live objection [CLAIM-431](CLAIM-431.md) is unanswered here, and part 5's test, whether a
 corporation changed only by sanction reverts when the sanction lifts, has
 not been run.
