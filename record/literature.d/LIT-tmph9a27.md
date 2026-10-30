@@ -41,7 +41,7 @@ summary: >-
   behaviour and attitudes, with special attention to college drinking and
   environment-friendly behaviour, and of the conditions under which norm
   information is most likely to change the targeted behaviour. Expected to
-  supply, for CLAIM-415, the review-level evidence on when a misperceived
+  supply, for [CLAIM-415](../claims.d/CLAIM-415.md), the review-level evidence on when a misperceived
   collective norm shapes behaviour and when correcting it does not.
 ---
 <!-- inactive-ok-file: CLAIM-415 — Proposed; the claim this work is filed for, not leaned on -->
@@ -72,9 +72,9 @@ has not been checked against the paper.
 
 ## Why this is here
 
-CLAIM-415 holds that a person can be organized by a judgement they
+[CLAIM-415](../claims.d/CLAIM-415.md) holds that a person can be organized by a judgement they
 attribute to a collective that does not hold it. Its present support is
-Prentice and Miller's study of pluralistic ignorance (LIT-1370). This
+Prentice and Miller's study of pluralistic ignorance ([LIT-1370](LIT-1370.md)). This
 review, by the same authors twenty years on, should say whether the
 interventions that correct such a misperception work, and under which
 conditions they do not, which bears on how durable the attributed

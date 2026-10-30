@@ -34,7 +34,7 @@ summary: >-
   Suñé and Martínez (2019; Synthese 198, 2021, 4315–4330). Unread, and no
   abstract was available, so nothing is said here of its content beyond
   its title, which pairs Dennett's real patterns with indispensability.
-  Expected to supply, for THEORY-036, a published treatment of whether a
+  Expected to supply, for [THEORY-036](../theory.d/THEORY-036.md), a published treatment of whether a
   real-patterns criterion needs an indispensability clause beyond
   compressibility, the clause Ladyman adds.
 ---
@@ -51,7 +51,7 @@ title.
 
 ## Why this is here
 
-THEORY-036 holds that Dennett's compressibility criterion admits almost
+[THEORY-036](../theory.d/THEORY-036.md) holds that Dennett's compressibility criterion admits almost
 every non-random pattern, and that the clauses rainforest realism adds,
 among them Ladyman's indispensability, do the ontological work. A paper
 titled for real patterns and indispensability is the nearest outside
