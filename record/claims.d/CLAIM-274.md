@@ -116,10 +116,10 @@ same selection that decides what remains.
 
 ## Note of 2026-10-30: what holds it back
 
-The test its own text names has not been run. CASE-078's survival
+The test its own text names has not been run. [CASE-078](../cases.d/CASE-078.md)'s survival
 analysis of the released logs would ask whether a participant's hazard of
 not returning depends on the survival of the art they placed into, using
 destruction they did not cause against reverse causality, and whether the
-rate of placements fitting no artwork falls over the event. THEORY-216's
+rate of placements fitting no artwork falls over the event. [THEORY-216](../theory.d/THEORY-216.md)'s
 consolidation is what selective retention would produce, but it does not
 show it.

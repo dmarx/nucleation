@@ -113,4 +113,4 @@ and no study in the record tests it; the study its section "What would tell
 them apart" describes has not been read or run. Boyle's other track also
 cuts against the legal half: corporations, whose workings are known, are
 given legal personality for efficiency and with no claim to a mind
-(NOTE-1014, C1 and C5), and the claim does not answer it.
+([NOTE-1014](../notes.d/NOTE-1014.md), C1 and C5), and the claim does not answer it.

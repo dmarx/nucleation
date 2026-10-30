@@ -79,6 +79,6 @@ subject sense, not a verdict.
 Kept Proposed by the eighteenth status review. It has no defeat condition,
 and its body calls it "a marker for the subject sense, not a verdict":
 without a criterion for when an organized whole is a subject
-(QUESTION-046), "not a subject" is a stipulation, as that question says of
-this claim. CLAIM-175's objection is written in (version 2) and is not
+([QUESTION-046](../questions.d/QUESTION-046.md)), "not a subject" is a stipulation, as that question says of
+this claim. [CLAIM-175](CLAIM-175.md)'s objection is written in (version 2) and is not
 what holds it.

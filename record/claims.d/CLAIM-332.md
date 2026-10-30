@@ -119,11 +119,11 @@ candidate it rejects may still earn a name.
 
 ## Note of 2026-10-30: what holds it back
 
-Its one case does not show the third rung: CASE-100 documents the
+Its one case does not show the third rung: [CASE-100](../cases.d/CASE-100.md) documents the
 sequence, but no production testimony gives the route by which the parody
-reached the reshoot (Siegel's oral history, LIT-1142, gives none). Its
+reached the reshoot (Siegel's oral history, [LIT-1142](../literature.d/LIT-1142.md), gives none). Its
 defeater fixes the kind of test and not a threshold for a propagation
-network, and since CLAIM-154 was narrowed to models regular at the
+network, and since [CLAIM-154](CLAIM-154.md) was narrowed to models regular at the
 switch-off, the price for a singular candidate is not set either. No case
 has had a circulation-network model compared with the list of
 identifiable contributions.

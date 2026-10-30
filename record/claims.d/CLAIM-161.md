@@ -91,9 +91,9 @@ must take, not which one is right.
 ## Note of 2026-10-30: what holds it back
 
 Kept Proposed by the eighteenth status review. γ is unspecified, as the
-body says (QUESTION-043), and the second disjunct of the defeat condition
+body says ([QUESTION-043](../questions.d/QUESTION-043.md)), and the second disjunct of the defeat condition
 is met as written by any constant γ, under which every trajectory
 conserves it, so the condition can fail only once γ is fixed or
-constrained. CLAIM-287, Active, qualifies it for a trajectory with a gap,
+constrained. [CLAIM-287](CLAIM-287.md), Active, qualifies it for a trajectory with a gap,
 where what is conserved is a capacity to reinstate an organization and not
 a running quantity, and the title does not yet say so.

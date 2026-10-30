@@ -187,7 +187,7 @@ captured allocation of influence does not choose it. A39's case study 2,
 [CASE-099](../cases.d/CASE-099.md) with demands and a feasible-update oracle, would test it; A39
 called it "the best candidate for an early discriminating experiment".
 That the governance-induced kind does work an optimizer analysis does not
-is filed apart as CLAIM-tmp4u6xx.
+is filed apart as [CLAIM-tmp4u6xx](CLAIM-tmp4u6xx.md).
 
 ## What it does not say
 

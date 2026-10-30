@@ -75,7 +75,7 @@ could produce very unequal collective power."
 
 The cooldown is an equal per-account budget and a ban on allocating oneself
 extra moves through one account ([CASE-079](../cases.d/CASE-079.md)). Automation and multiple
-accounts got round it, most in 2023 (THEORY-216). It did not equalize influence, because
+accounts got round it, most in 2023 ([THEORY-216](../theory.d/THEORY-216.md)). It did not equalize influence, because
 following a plan turns other members' moves into the planner's effect. That
 is endorsement in [TERM-053](../terms.d/TERM-053.md)'s sense. So [CLAIM-285](CLAIM-285.md)'s constraint has
 to be stated over authority, not over actions. A budget on actions leaves

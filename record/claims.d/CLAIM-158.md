@@ -84,10 +84,10 @@ checked.
 ## Note of 2026-10-30: what holds it back
 
 Kept Proposed by the eighteenth status review. No system in the record has
-had its drive profile estimated: LIT-025 reports its applications without
+had its drive profile estimated: [LIT-025](../literature.d/LIT-025.md) reports its applications without
 values and restates a primary the record has not read, so that systems in
 fact differ, rather than that the formalism allows them to, is not shown.
 For three or more parts the D and G terms that separate the kinds depend on
-which axiom the redundancy function drops (CLAIM-343, Active), and the
-graded reading of "fully top-down" extends THEORY-133, whose criterion is
+which axiom the redundancy function drops ([CLAIM-343](CLAIM-343.md), Active), and the
+graded reading of "fully top-down" extends [THEORY-133](../theory.d/THEORY-133.md), whose criterion is
 an "exactly when", without a measure; the claim says neither.

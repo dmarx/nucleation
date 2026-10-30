@@ -254,5 +254,5 @@ Kept Proposed by the eighteenth status review. Its own note of 2026-10-22
 found the third disjunct of its defeat condition live: habitus and
 transposable schemas may explain the same transitions, and no model in the
 record out-predicts them at matched complexity, which is the critical
-question ARG-025 fails. The same note found it citing Swidler and Wacquant,
+question [ARG-025](../arguments.d/ARG-025.md) fails. The same note found it citing Swidler and Wacquant,
 who disagree, for sense 2, and the claim has not said which it means.
