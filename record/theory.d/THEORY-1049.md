@@ -1,23 +1,10 @@
 ---
 number: 1049
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpf67xs
-promote_when: >-
-  A systematic analysis over all available complete genomes of host-
-  associated bacteria (not a curated subset), locating the genome sizes at
-  which envelope-biogenesis and translation genes are lost with a stated
-  method, and showing the losses cluster at those sizes rather than
-  declining smoothly; together with direct evidence, in at least one
-  tipping-point endosymbiont, of the host supplying what the genome lacks:
-  host-derived lipids in its membranes, or host-encoded proteins or
-  tRNAs imported at scale, identified by proteomics or labelling. More
-  gene-content matrices or electron micrographs cannot settle it. It is
-  refuted if the losses are spread across genome sizes with no
-  threshold, or if such endosymbionts prove to carry the missing
-  functions in unannotated or highly divergent genes.
 title: 'On McCutcheon and colleagues'' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-27'
@@ -32,13 +19,38 @@ history:
   date: '2026-10-27'
   note: >-
     Note of 2026-10-27 (batch 2) added: the single imported host proteins in insect symbionts sit above both thresholds (LIT-1560, LIT-1596). The account is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065). The title
+    reports what McCutcheon and colleagues' survey shows and what they
+    infer from it; NOTE-1213 read the paper in full, and nothing in the
+    record contradicts the report. What the condition asked beyond the
+    title, that the authors be right, moves to THEORY-tmpfaj83,
+    Proposed, which extends this entry and keeps the condition word for
+    word (ADR-065 §3). The answers edge on QUESTION-277 is moved to bears_on
+    (ADR-060): the reading is evidence on the question, not an answer to
+    it as posed. The old promote_when: "A systematic analysis over all
+    available complete genomes of host- associated bacteria (not a
+    curated subset), locating the genome sizes at which
+    envelope-biogenesis and translation genes are lost with a stated
+    method, and showing the losses cluster at those sizes rather than
+    declining smoothly; together with direct evidence, in at least one
+    tipping-point endosymbiont, of the host supplying what the genome
+    lacks: host-derived lipids in its membranes, or host-encoded
+    proteins or tRNAs imported at scale, identified by proteomics or
+    labelling. More gene-content matrices or electron micrographs cannot
+    settle it. It is refuted if the losses are spread across genome
+    sizes with no threshold, or if such endosymbionts prove to carry the
+    missing functions in unannotated or highly divergent genes."
 tags:
 - endosymbiosis
 - natural-sciences
 date: '2026-10-27'
 source:
 - LIT-1571
-answers:
+bears_on:
 - QUESTION-277
 summary: >-
   McCutcheon, Garber, Spencer & Warren (2024), [LIT-1571](../literature.d/LIT-1571.md), read in
@@ -49,6 +61,7 @@ summary: >-
   they no longer encode. The host's role is inferred, not shown: the
   mechanisms are, in the paper's word, mysteries.
 ---
+<!-- inactive-ok-file: THEORY-tmpfaj83 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
 <!-- inactive-ok-file: QUESTION-277 CASE-173 CASE-171 CASE-174 LIT-1559 LIT-1560 — Open, Proposed or Deferred; the question, cases and unread works set beside this, nothing here rests on them -->
 # THEORY-1049: On McCutcheon and colleagues' survey, bacterial endosymbionts lose their own cell-envelope and envelope-transport genes together below about 400 kb, and begin to lose translation genes (ribosomal proteins, tRNAs, aminoacyl-tRNA synthetases) below about 200 kb, so that the smallest-genome symbionts cannot be self-sufficient and their membranes, transport and protein synthesis are presumably supplied by the host, as for organelles
 
@@ -134,3 +147,7 @@ Two readings sharpen what this account rests on.
   read in [NOTE-1236](../notes.d/NOTE-1236.md)) has already lost phospholipid and LPS synthesis
   at 641 kb. That is consistent with this account's remark that envelope
   erosion begins in larger genomes, and that 400 kb marks complete loss.
+
+## Note of 2026-10-30: promoted, and the wider thesis filed beside it
+
+The twenty-second status review promoted this reading under ADR-065: it reports what McCutcheon and colleagues' survey shows and what they infer from it, and NOTE-1213 read the paper in full. Whether endosymbionts lose these genes at these thresholds and the host supplies what they lack is THEORY-tmpfaj83's question, Proposed, which keeps this entry's old promote_when.

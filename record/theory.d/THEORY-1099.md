@@ -1,25 +1,10 @@
 ---
 number: 1099
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5wptr
-promote_when: >-
-  Evidence on the order of host complexity and the mitochondrion that does
-  not rest on the same two assumptions: that the onset of duplication in
-  symbiont-derived genes marks the start of endosymbiosis, and that a
-  paralogue's function began soon after its duplication. That could be a
-  calibration of the onset marker on a younger endosymbiosis with an
-  independently known entry time, or dates for the acquisition (not the
-  duplication) of host and symbiont genes from a method with different
-  priors that recovers the same order. Further clock analyses with the
-  same sequential priors, or more pre-LECA duplications dated the same
-  way, cannot settle it. It is refuted if host-feature duplications are
-  found to postdate the onset of symbiont-gene duplication once
-  alphaproteobacterial duplications are allowed to range as far back as
-  archaeal ones, or if the onset marker is shown to lag endosymbiosis by
-  more than the gap between them.
 title: 'On Kay and colleagues'' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues'' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-27'
@@ -30,13 +15,40 @@ history:
     argued, untested marker for endosymbiosis and on priors that confine
     alphaproteobacterial duplications to after mFECA, whose robustness is
     reported in supplementary notes not read here. Hence Proposed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted by the twenty-second status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-065). The title
+    reports what Kay and colleagues' dating finds and how the authors
+    read it; NOTE-1234 read the paper in full, and nothing in the record
+    contradicts the report. What the condition asked beyond the title,
+    that the authors be right, moves to THEORY-tmp9psoh, Proposed, which
+    extends this entry and keeps the condition word for word (ADR-065
+    §3). The answers edge on QUESTION-277 is moved to bears_on (ADR-060): the
+    reading is evidence on the question, not an answer to it as posed.
+    The old promote_when: "Evidence on the order of host complexity and
+    the mitochondrion that does not rest on the same two assumptions:
+    that the onset of duplication in symbiont-derived genes marks the
+    start of endosymbiosis, and that a paralogue's function began soon
+    after its duplication. That could be a calibration of the onset
+    marker on a younger endosymbiosis with an independently known entry
+    time, or dates for the acquisition (not the duplication) of host and
+    symbiont genes from a method with different priors that recovers the
+    same order. Further clock analyses with the same sequential priors,
+    or more pre-LECA duplications dated the same way, cannot settle it.
+    It is refuted if host-feature duplications are found to postdate the
+    onset of symbiont-gene duplication once alphaproteobacterial
+    duplications are allowed to range as far back as archaeal ones, or
+    if the onset marker is shown to lag endosymbiosis by more than the
+    gap between them."
 tags:
 - endosymbiosis
 - natural-sciences
 date: '2026-10-27'
 source:
 - LIT-1566
-answers:
+bears_on:
 - QUESTION-277
 summary: >-
   Kay et al. (2026), [LIT-1566](../literature.d/LIT-1566.md), read in [NOTE-1234](../notes.d/NOTE-1234.md). A dated species
@@ -49,7 +61,8 @@ summary: >-
   that the priors shape which family can be older, and that the authors
   themselves cannot order phagocytosis and the mitochondrion.
 ---
-<!-- inactive-ok-file: QUESTION-277 LIT-1597 NOTE-1234 NOTE-1240 THEORY-1102 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works set beside it, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp9psoh — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
+<!-- inactive-ok-file: QUESTION-277 LIT-1597 NOTE-1234 NOTE-1240 — Open, Deferred, Unavailable, Proposed or unmerged; the question this answers in part, the reading it comes from and the works set beside it, nothing here rests on them -->
 
 # THEORY-1099: On Kay and colleagues' relaxed-clock dating of pre-LECA gene duplications, most duplications in eukaryotic gene families of archaeal origin, including actin, tubulin, vesicle-trafficking and nuclear-targeted families, predate the onset of duplications in genes of alphaproteobacterial origin at about 2.2 billion years ago, which the authors take as the start of mitochondrial endosymbiosis, so the host was elaborating its cytoskeleton, endomembranes and nuclear machinery before the mitochondrion; each date is a maximum age for its paralogues' functions, many intervals reach below 2.2 billion years, and the order of phagocytosis and the mitochondrion is left open
 
@@ -143,3 +156,7 @@ force it.
   before mitochondrial endosymbiosis".
 - **[LIT-1597](../literature.d/LIT-1597.md).** The hydrogen hypothesis is the paper's example of a
   mitochondria-early model, and is rejected.
+
+## Note of 2026-10-30: promoted, and the wider thesis filed beside it
+
+The twenty-second status review promoted this reading under ADR-065: it reports what Kay and colleagues' dating finds and how the authors read it, and NOTE-1234 read the paper in full. Whether the host's elaboration predates the mitochondrion is THEORY-tmp9psoh's question, Proposed, which keeps this entry's old promote_when.
