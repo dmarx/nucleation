@@ -1,0 +1,74 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-30 ([NOTE-tmpt2y26](../notes.d/NOTE-tmpt2y26.md)), from the open-access published
+  article (CC BY-NC) in PubMed Central, PMC3045658, fetched as XML through
+  the Europe PMC REST API. Two laboratory experiments (n = 76, 78) in
+  which students promised to do something for someone close to them, then
+  saw positive or neutral pictures. With competing goals made salient,
+  positive affect slowed recognition of the goal word and weakened stated
+  intentions; with none, it sped recognition and strengthened intentions.
+  The affect was incidental, induced by pictures and not by progress, and
+  goal activation in Experiment 1 rests on one reaction time per person.
+  For the record, positive affect lowers a goal's priority only when
+  another goal competes for it, and raises it otherwise.
+title: 'Positive affect as informational feedback in goal pursuit'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Filed and read 2026-10-30. Citation checked against Crossref (DOI
+    10.1007/s11031-010-9197-2): Edward Orehek, Elena Bessarabova, Xiaoyan
+    Chen and Arie W. Kruglanski, Motivation and Emotion 35(1):44–51,
+    published online 17 February 2011, which is the `published:` date
+    (print issue March 2011). Read from the open-access published version
+    in PubMed Central (PMC3045658), fetched as JATS XML from the Europe PMC
+    REST API (fullTextXML). A grep of record/literature.d for the DOI, the
+    PMC id, the title and the first author found nothing.
+tags:
+- motivation
+- emotion-and-affect
+date: '2026-10-30'
+published: '2011-02-17'
+doi: '10.1007/s11031-010-9197-2'
+url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC3045658/'
+first_author: 'Orehek'
+keywords:
+- 'positive affect'
+- 'goals'
+- 'motivation'
+- 'feedback'
+- 'resources'
+- 'promises'
+implementations: []
+summary: >-
+  Orehek, Bessarabova, Chen & Kruglanski (2011), Motivation and Emotion
+  35(1):44–51. After promising to do something for someone close, students
+  shown positive rather than neutral pictures had a less active goal (slower
+  lexical decision on its word; weaker stated intentions) when competing
+  goals had been made salient, and a more active one when they had not
+  (n = 76 and 78). Positive affect is read as information that can signal
+  either progress or commitment, and competing goals decide which.
+---
+<!-- inactive-ok-file: LIT-1445 — Unfetched, unread; Carver 2003, cited by this paper for coasting -->
+<!-- inactive-ok-file: CLAIM-468 — Proposed; the claim this reading bears on, cited as open -->
+
+# LIT-tmpa32bu: Positive affect as informational feedback in goal pursuit
+
+Edward Orehek, Elena Bessarabova, Xiaoyan Chen and Arie W. Kruglanski (2011), *Motivation and Emotion* 35(1):44–51 — DOI-10.1007/s11031-010-9197-2, PMC3045658
+
+## Key takeaways
+
+- Induced positive affect lowered a promised goal's activation when
+  competing goals were salient, and raised it when they were not, in two
+  experiments with a significant crossover interaction each time.
+- Without positive affect, competing goals made no difference, so the
+  authors read affect as information whose meaning, progress or
+  commitment, depends on whether another goal needs resources.
+
+## Standing in the record
+
+Filed on 2026-10-30 for [CLAIM-468](../claims.d/CLAIM-468.md), whose positive half rests on the
+reported view that positive affect lowers a goal's priority. This paper
+finds that the direction depends on competing goals.

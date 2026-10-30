@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpek80j
 title: 'For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell''s order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-10'
@@ -49,6 +49,11 @@ history:
     D_Q is not the order this claim names and that the claim does not
     say D_Q realizes it. The defeat condition's second clause uses the
     Q-restricted deficiency, not D_Q. No other change.
+- version: 6
+  date: '2026-10-30'
+  note: >-
+    CLAIM-488 was promoted at the twenty-first status review (ADR-057), so
+    the body's "are CLAIM-488, Proposed" now reads Active. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -162,6 +167,6 @@ condition already conceded, and promoted it ([ADR-057](../decisions.d/ADR-057.md
 What the claim uses of Blackwell is the definitions and the easy
 direction, held in [THEORY-1096](../theory.d/THEORY-1096.md) with the proof written out. The steps that
 rested on unread works, deficiency for the approximate case and the
-Wyner-Ziv form of side information, are [CLAIM-488](CLAIM-488.md), Proposed. The
+Wyner-Ziv form of side information, are [CLAIM-488](CLAIM-488.md), Active. The
 second clause of defeated_if stays as a test; it does not lean on
 Torgersen's results.

@@ -23,13 +23,28 @@ promote_when: >-
   and which shows reach, not that the bimanual transition is what the
   model says.
 title: 'Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
   note: >-
     The tenth status review adds a dated note on what holds it back. The
     claim and status are unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twenty-first status review, at the status review's ruling (the
+    owner delegated these rulings). Haken, Kelso and Bunz 1985 (LIT-588,
+    NOTE-tmp0jngz) and Kelso, Scholz and Schöner 1986 (LIT-tmp8grr0,
+    NOTE-tmpegx3g), read in full, join source. The text said of
+    hysteresis "That is a consequence of Eq. (1), stated here by the
+    record; the read text does not report the hysteresis data"; HKB 1985
+    reports it from Kelso's experiments and derives it, with no data
+    shown (ADR-047 kind 3). Critical fluctuations are now read
+    first-hand. The summary's "Proposed, because the 1985 paper and the
+    1986 stochastic analysis are unread and the data are held as their
+    author reports them" is replaced. The title and status are
+    unchanged.
 tags:
 - behavioral-integration
 - complex-systems
@@ -37,6 +52,8 @@ tags:
 date: '2026-10-03'
 source:
 - LIT-601
+- LIT-588
+- LIT-tmp8grr0
 summary: >-
   Kelso's 2021 retrospective ([LIT-601](../literature.d/LIT-601.md)) states the
   Haken–Kelso–Bunz model: relative phase φ between the hands obeys
@@ -45,9 +62,8 @@ summary: >-
   speeds up. With noise the switch is a nonequilibrium phase transition,
   and the reported data show enhanced fluctuations and critical slowing
   before it. Many effectors act as one through a collective variable,
-  with no controller choosing the pattern. Proposed, because the 1985
-  paper and the 1986 stochastic analysis are unread and the data are
-  held as their author reports them.
+  with no controller choosing the pattern. Proposed, because the
+  relaxation-time and hysteresis data are not read first-hand.
 supports:
 - CLAIM-110
 - CLAIM-163
@@ -55,17 +71,23 @@ supports:
 corroborates:
 - CLAIM-045
 ---
-<!-- inactive-ok-file: LIT-588 LIT-578 — Unavailable; HKB 1985 and Dynamic Patterns, named as the unread originals, not leaned on -->
+<!-- inactive-ok-file: LIT-578 — Unavailable; Dynamic Patterns, the unread book, not leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-056 — Proposed; the record's account of disorder as an alternative stable state, and its account of control without a regulator, named for their bearing -->
 
 # THEORY-069: Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning
 
 ## Source
 
-Kelso (2021), "The Haken–Kelso–Bunz (HKB) model: from matter to movement
-to mind", [LIT-601](../literature.d/LIT-601.md), read in [NOTE-467](../notes.d/NOTE-467.md): §§2–4, Box 1 and the
-Appendix. It stands in for the paywalled 1985 paper ([LIT-588](../literature.d/LIT-588.md)) and the
-book *Dynamic Patterns* ([LIT-578](../literature.d/LIT-578.md)), both Deferred.
+- Kelso (2021), "The Haken–Kelso–Bunz (HKB) model: from matter to movement
+  to mind", [LIT-601](../literature.d/LIT-601.md), read in [NOTE-467](../notes.d/NOTE-467.md): §§2–4, Box 1 and the
+  Appendix.
+- Haken, Kelso and Bunz (1985), [LIT-588](../literature.d/LIT-588.md), read in full in [NOTE-tmp0jngz](../notes.d/NOTE-tmp0jngz.md):
+  the model's original statement, a theory paper with one simulation and
+  no new data.
+- Kelso, Scholz and Schöner (1986), [LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md), read in full in
+  [NOTE-tmpegx3g](../notes.d/NOTE-tmpegx3g.md): the first quantified report of critical fluctuations.
+- *Dynamic Patterns* ([LIT-578](../literature.d/LIT-578.md)) is Unavailable; Schöner, Haken and Kelso
+  (1986) and Scholz, Kelso and Schöner (1987) are not filed.
 
 ## What was actually shown
 
@@ -82,8 +104,10 @@ obtained from the level below and not only fitted to it.
 **Hysteresis follows from the layout.** Because both patterns are stable
 in the slow range, a system that has switched to in-phase at high frequency
 has no reason to return to anti-phase when the frequency is lowered again.
-That is a consequence of Eq. (1), stated here by the record; the read text
-does not report the hysteresis data.
+Haken, Kelso and Bunz derive it so ([LIT-588](../literature.d/LIT-588.md), p. 350) and report it as a
+feature of Kelso's experiments, "(iv) when cycling frequency is reduced,
+the system stays in the symmetrical mode" (p. 348), but show no data, and
+no paper read here does.
 
 **The phase transition and its warning signs, as reported.** With noise
 (Eq. 3, Schöner et al. 1986), the switch is a nonequilibrium phase
@@ -96,7 +120,16 @@ parameter. He quotes Haken that such fluctuations are hard to understand on
 a motor-programme account, which "does not allow any fluctuations". This is
 the result that could have come out otherwise: a stored programme switching
 on a cue predicts an abrupt change with no growth of variability before
-it. The record has not seen the data.
+it. Kelso, Scholz and Schöner ([LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md)) show the fluctuations
+first-hand: the standard deviation of relative phase rises as anti-phase
+nears the switch and peaks in the transition, in wrist (30 runs, four
+subjects) and finger movements (ten runs, one representative subject), with
+no rise and no switch when the movement starts in-phase (Figs. 1–4); no
+statistical test is reported. Critical slowing is predicted there, not
+measured. The one fit of the stochastic theory read first-hand, Kelso,
+Scholz and Schöner 1988 ([LIT-tmpupvec](../literature.d/LIT-tmpupvec.md), [NOTE-tmpswmu1](../notes.d/NOTE-tmpswmu1.md)), is of intended
+switching, with one added parameter set to the order of magnitude and mean
+times above those observed.
 
 **Brain, as reported.** Transcranial stimulation over premotor and
 supplementary motor cortex switched anti-phase to in-phase and not the
@@ -152,14 +185,13 @@ read.
   explained by its own collective variable, which a Markov-blanket
   partition does not improve on.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-Kept Proposed by the tenth status review. [NOTE-467](../notes.d/NOTE-467.md) read Kelso's
-retrospective in full, but it reports the bimanual data rather than showing
-them: critical fluctuations and slowing are its C2, "not shown in this
-paper", and hysteresis is derived by the record from Eq. (1), not reported.
-The 1985 paper ([LIT-588](../literature.d/LIT-588.md)) is Unavailable, Schöner, Haken and Kelso (1986) is
-not filed, and no independent replication is read. A split on
-[THEORY-1110](THEORY-1110.md)'s pattern would free nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md), and
-[CLAIM-172](../claims.d/CLAIM-172.md) grounds on [THEORY-265](THEORY-265.md) and is objected to by [CLAIM-165](../claims.d/CLAIM-165.md), all
-Proposed.
+Two of the promote_when's findings are still not read first-hand: the growth
+of relaxation time before the switch, predicted in [LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md) and shown in
+Scholz, Kelso and Schöner 1987 (Physics Letters A 123:390), which is not
+filed; and hysteresis, which HKB 1985 reports from Kelso's earlier
+experiments without data. The switch's direction and the critical
+fluctuations are now read first-hand ([LIT-tmp8grr0](../literature.d/LIT-tmp8grr0.md)). A split would still
+free nothing: [ARG-016](../arguments.d/ARG-016.md) rests on [CLAIM-169](../claims.d/CLAIM-169.md), and [CLAIM-172](../claims.d/CLAIM-172.md) grounds on
+[THEORY-265](THEORY-265.md) and is objected to by [CLAIM-165](../claims.d/CLAIM-165.md), all Proposed.

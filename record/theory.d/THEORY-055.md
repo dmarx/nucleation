@@ -179,13 +179,16 @@ well as substance.
   term. Whether Lazarus's relational themes are the same account is not
   something the record can say until [LIT-550](../literature.d/LIT-550.md) is read.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-The paper argues both theses and tests neither ([NOTE-433](../notes.d/NOTE-433.md)). The record holds
-none of the results `promote_when` names: no mode of action readiness shown
-common to a category's instances across varied contexts and absent from
-other categories', and no case in which changing only an event's pertinence
-to a concern switches the emotion on or off or changes which one it is. The
-fuller statements, [LIT-546](../literature.d/LIT-546.md) and [LIT-550](../literature.d/LIT-550.md), are Unavailable. The rival,
-[THEORY-057](THEORY-057.md), is not what holds it back: an account with rivals goes Active
-when its `promote_when` is met, as [THEORY-121](THEORY-121.md) did.
+The record holds none of the results promote_when names. Kuppens et al.
+([LIT-tmptort0](../literature.d/LIT-tmptort0.md), [NOTE-tmp0e1ym](../notes.d/NOTE-tmp0e1ym.md)), read in full, find no appraisal and no
+action tendency singly necessary or sufficient for anger in recalled
+episodes. That weighs against the claim that emotions differ by mode:
+the nearest item to Frijda's hostility, wanting to express opposition,
+was only marginally associated with anger. But the study varies which
+episodes are recalled, not an event's pertinence. Every variable is the
+same person's report. Every situation was unpleasant, so concern
+pertinence may have held throughout. The rival predicts the same result,
+and promote_when sets this kind of evidence aside. [LIT-546](../literature.d/LIT-546.md) and [LIT-550](../literature.d/LIT-550.md)
+remain Unavailable.

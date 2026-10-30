@@ -1,10 +1,10 @@
 ---
 number: 205
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6gb7c
-title: 'Functional and relevance-theoretic accounts of translation need not fix one context or a static stance profile, so their strongest operationalization is a rich contextual baseline of context-response profiles and supervised prediction'
-version: 2
+title: 'Functional and relevance-theoretic accounts of translation, as Nida, Nord and Gutt state them, need not fix one context or a static stance profile of the rendering'
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -18,6 +18,24 @@ history:
     to CLAIM-202, Proposed; this claim keeps what the rival accounts are
     committed to, and undercuts that argument in place of objecting to
     CLAIM-202.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-047). The title was
+    'Functional and relevance-theoretic accounts of translation need not
+    fix one context or a static stance profile, so their strongest
+    operationalization is a rich contextual baseline of context-response
+    profiles and supervised prediction'. Its blocker note said what the
+    rival accounts license rested on no reading. Nord's article
+    (LIT-tmplzcgc, NOTE-tmpsq37b) and Nida's chapter (LIT-tmpmg03b,
+    NOTE-tmpth9wo) are read in full, and Gutt's thesis (LIT-tmp1eyaz,
+    NOTE-tmpfykfi) is skimmed through its account of faithfulness. Each
+    makes what a translation should keep relative to an audience, a
+    purpose or a cognitive environment, and they join grounds. The
+    dropped clause, the interlocutor's proposal for operationalizing the
+    rivals, is CLAIM-tmpnw3vv, Proposed (ADR-047's kind 2). The claim
+    still undercuts ARG-031, which is Rejected in the same change.
 role: counter
 warrant: interpretive
 tags:
@@ -26,18 +44,22 @@ tags:
 - philosophy-of-language
 date: '2026-10-12'
 line: pragmatic-transport
+grounds:
+- LIT-tmplzcgc
+- LIT-tmpmg03b
+- LIT-tmp1eyaz
 undercuts:
 - ARG-031
 summary: >-
   From the interlocutor's reading of PR [#121](https://github.com/dmarx/nucleation/issues/121) and its reconciliation,
   relayed by the owner on 2026-10-12. It accepts [CLAIM-202](CLAIM-202.md) as the
-  line's principal empirical thesis and objects to its rival set. Open: no
-  study has been run, and the strong baseline is not specified beyond the
-  reading's table.
+  line's principal empirical thesis and objects to its rival set.
+  Narrowed and promoted on 2026-10-30, when Nida, Nord and Gutt were read;
+  the baseline it proposed is CLAIM-tmpnw3vv.
 ---
-<!-- inactive-ok-file: ARG-031 — Proposed; the argument this claim undercuts, open -->
+<!-- inactive-ok-file: ARG-031 — Rejected; the argument this claim undercuts, defeated by it -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
-# CLAIM-205: Functional and relevance-theoretic accounts of translation need not fix one context or a static stance profile, so their strongest operationalization is a rich contextual baseline of context-response profiles and supervised prediction
+# CLAIM-205: Functional and relevance-theoretic accounts of translation, as Nida, Nord and Gutt state them, need not fix one context or a static stance profile of the rendering
 
 ## The objection
 
@@ -55,6 +77,8 @@ The incremental thesis restated against a strong contextual baseline, specified 
 
 It does not say the transport structure will fail the stronger test, or that [CLAIM-202](CLAIM-202.md) should not be the principal empirical thesis. The reading favours making it so.
 
+It does not say every such account varies context. Gutt's direct translation fixes one, the cognitive environment envisaged for the original (p. 254).
+
 ## Note of 2026-10-28: split under [ADR-061](../decisions.d/ADR-061.md)
 
 The old title said both what a win would show and what the rival accounts
@@ -64,8 +88,16 @@ are committed to. The first is a verdict on support, and is now
 "does it tell the hypothesis apart from its rivals?". This claim keeps the
 second, and undercuts that argument. The text above is unchanged.
 
-## Note of 2026-10-30: what holds it back
+## Note of 2026-10-30: the accounts read, and narrowed
 
-What the rival accounts license rests on no reading in the record:
-[LIT-784](../literature.d/LIT-784.md), [LIT-829](../literature.d/LIT-829.md) and [LIT-791](../literature.d/LIT-791.md) are Unavailable. The strong contextual
-baseline it proposes is not specified beyond the reading's table.
+Nord ([LIT-tmplzcgc](../literature.d/LIT-tmplzcgc.md)) translates for "a particular target audience from
+among various possible audiences" (p. 17), and the brief decides between
+instrumental and documentary translation (pp. 26–27). Nida ([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md))
+makes the translation depend on the message, the purposes and an audience
+that varies in decoding ability and interest (pp. 127–128), and calls the
+rules "probabilistic" (p. 134). Gutt's thesis ([LIT-tmp1eyaz](../literature.d/LIT-tmp1eyaz.md)) makes
+faithfulness "determined for each occasion by the principle of relevance
+and the cognitive environment mutually shared" (p. 63). None fixes a
+profile of the rendering as read once. None proposes an
+operationalization, so the old title's second clause moves to
+[CLAIM-tmpnw3vv](CLAIM-tmpnw3vv.md).

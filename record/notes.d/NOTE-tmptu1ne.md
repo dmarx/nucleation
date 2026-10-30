@@ -1,0 +1,207 @@
+---
+status: Read
+paper: LIT-tmphwtnd
+title: 'Giroux — Can populations be healthy?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Read in full from the published article in PubMed Central
+    (PMC8527978), fetched as JATS XML through the Europe PMC REST API
+    (fullTextXML) and converted to text: abstract, all sections, the
+    caption of Fig. 1 (the figure itself was not seen), and all 33
+    footnotes. The reference list was consulted for the editions cited.
+    The PMC text has no page numbers, so references here are to sections
+    and footnotes; page numbers given for Canguilhem are Giroux's. None of
+    Canguilhem's works was read (LIT-817 is Unavailable), nor Rose 1985 or
+    1992, nor any other cited work.
+date: '2026-10-30'
+summary: >-
+  Giroux argues against Canguilhem that health can be a property of
+  populations. His restriction of health to the individual organism rests
+  on normativity, which he locates in organic totalities, and on a
+  Darwinism centred on individuals; both are weakened by later debates on
+  units of selection and individuality. Social epidemiology supplies
+  population-level comparisons, integral variables such as herd immunity,
+  and Rose's distinction between causes of cases and causes of incidence,
+  which justify a population health that is relatively autonomous but
+  less unified than an organism. The paper also quotes Canguilhem's
+  definition of health as the capacity to institute new norms.
+---
+<!-- inactive-ok-file: LIT-817 — Unavailable; Canguilhem's book, unread here, quoted through this paper -->
+<!-- inactive-ok-file: CLAIM-018 — Proposed; the claim this reading bears on -->
+
+# NOTE-tmptu1ne: Giroux — Can populations be healthy?
+
+## Contribution
+
+It reopens Canguilhem's refusal of "public health" as a concept of health.
+Canguilhem is, on Giroux's account, the author who "has gone the furthest
+in defending an individualist conception of health and disease"
+(Introduction). The paper sets his biological reasons against later
+philosophy of biology and his conception against social epidemiology, and
+concludes that population health is "more pertinent and more necessary
+than Canguilhem would seem to have envisaged" (Conclusion), while keeping
+the organism as the strongest unit.
+
+## Key insight
+
+Canguilhem ties health to normativity and normativity to the organism as a
+whole. Loosen the second tie, as debates on units of selection and
+biological individuality have, and the concept of health can in principle
+extend to entities with a weaker, relative unity, such as populations
+whose properties, like herd immunity, have no analogue in their members.
+
+## Assumptions
+
+- **Canguilhem as reported.** His positions are given through his own
+  texts in translation: *The Normal and the Pathological* (Zone, 1991),
+  *Writings on Medicine* (2012) and *Knowledge of Life* (2008). The
+  record holds none of these as read.
+- **Rose's distributions as evidence of population properties.** The shift
+  of the whole cholesterol distribution between eastern Finland and south
+  Japan, and immigrants' convergence toward their host country, are read
+  as contextual effects "not reducible" to the individual level.
+- **Durkheim's social facts** as the precedent for relatively autonomous
+  population phenomena.
+
+## Key results
+
+The paper is an argument, with no data of its own.
+
+- **Health as normativity (section "Health as individual normativity").**
+  Canguilhem rejects the "positivist dogma" that disease differs from
+  health only by degree. Disease is "the emergence of a 'new individual
+  norm'" (Canguilhem 1991, p. 194) constituting "another way of life"
+  (p. 89). The pathological can be distinguished "only at the level of
+  organic totality" (pp. 87–88). Note 8 gives the capacity in his words:
+  "[w]hat characterizes health is the possibility of transcending the
+  norm, which defines the momentary normal, the possibility of tolerating
+  infractions of the habitual norm and instituting new norms in new
+  situations" (pp. 196–197), and "[h]ealth is a regulatory flywheel of the
+  possibilities of reaction" (p. 198).
+- **Biological foundations (section "Biological foundations ...").**
+  Individuality is an organic totality. A society "is neither an
+  individual nor a species. It is not an individual, because it is not an
+  organism endowed with a purpose and a totality that are obtained by a
+  specialized system of devices of regulation" (Canguilhem 2012, pp.
+  76–77). Darwinian selection gives "a new criterion of normality" (1988,
+  p. 137), and on Canguilhem's mutationism, "irregularity and anomaly are
+  conceived not as accidents affecting an individual but as its very
+  existence" (2008, p. 125).
+- **Controversies since 1943.** Function debates (whether biological
+  function is normative), units and levels of selection (genes, groups,
+  species), species as individuals, superorganisms. "In every case, the
+  individual organism loses the supremacy that it at first sight
+  possessed." A "return of the organism" is noted (Huneman, Nicholson) but
+  the debate is "far from closed" (Sholl).
+- **Modern epidemiology is individualist.** Cohort and case–control studies
+  make the individual the level of measurement and inference; the
+  population is "a purely statistical concept", "a useful detour for
+  making predictions of risk at the level of individuals". Canguilhem
+  calls the extension of health to a population a "semantic departure"
+  (1988, p. 23) and keeps "hygiene" or "salubrity" for it.
+- **Three arguments for population health.** (1) Population comparisons
+  reveal associations that are invisible within populations where an
+  exposure is ubiquitous (diet and cholesterol, salt and blood pressure);
+  on its own this may be only methodological. (2) Integral variables,
+  "properties of a population for which there is no measurable analogue at
+  the level of the individual" (population density, social
+  disorganization, social capital, herd immunity), against derived ones.
+  Herd immunity is "a property constitutive of the population, distinct
+  from the simple sum of individual immunities". (3) Rose's population
+  causality: "why do some individuals have higher serum cholesterol levels
+  than others?" (causes of cases) differs from "why do the Finish have
+  higher cholesterol than the Japanese?" (causes of incidence); Sober's
+  selection-for as population-level causality is the parallel.
+- **Rose's limit, and Giroux's.** Rose: "healthiness is a characteristic of
+  the population as a whole and not simply of its individual members"
+  (1992, p. 62), but complete independence of society from its members is
+  "far too extreme". Giroux: the relative autonomy of the population level
+  "should not, however, lead one to consider that the population has an
+  ontological unity as strong as that of the individual organism"
+  (Conclusion).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | For Canguilhem, health is normativity, the capacity to tolerate infractions of the habitual norm and institute new norms | strong as a report | Canguilhem 1991 quoted (note 8, pp. 196–197) |
+| C2 | For Canguilhem, normativity and so health belong only to the individual organism; a society is not an individual | strong as a report | Canguilhem 1991, 2012 quoted |
+| C3 | Post-1943 philosophy of biology loosens the link between individuality and the organism | moderate | survey of units-of-selection and individuality debates, cited |
+| C4 | Some health properties, such as herd immunity, belong to populations and have no individual analogue | moderate | definition of herd immunity (Topley and Wilson 1923), integral variables (Diez-Roux, Morgenstern) |
+| C5 | Causes of incidence differ in kind from causes of cases | moderate | Rose 1985, with Sober's parallel |
+| C6 | A concept of population health is justified, with less ontological unity than an organism has | argued | from C3–C5 |
+
+## Concepts
+
+- **Biological normativity** — Canguilhem's term for health as the capacity
+  to institute new norms in new situations, not mere conformity to a norm
+  (note 8).
+- **Individual (ontological) vs organism (level of organization)** — Giroux
+  separates the degree of ontological unity from the level of
+  organization; Canguilhem identifies them.
+- **Integral (global) vs derived (aggregate) variables** — properties of a
+  population with no individual analogue, against summaries of
+  individual measurements.
+- **Causes of cases vs causes of incidence** — Rose's two questions.
+- **Ecological and individualistic (atomistic) fallacies** — inferring
+  individual relations from group data, and assuming individual effects
+  are wholly explained by individual characteristics.
+
+## Connections
+
+Its picture of Canguilhem draws on Gayon (1998) and Méthot (2020), and its
+reading of the population level on Rose, Krieger, Diez Roux and the
+Canadian population-health approach. Its use of biological individuality
+(Wilson and Barker; Bouchard and Huneman) meets the record's readings on
+individuation, such as Baedke's objection that closure criteria take in
+colonies ([LIT-167](../literature.d/LIT-167.md), [NOTE-148](NOTE-148.md)). Vissio 2020 ([LIT-tmpwml4z](../literature.d/LIT-tmpwml4z.md), read in
+[NOTE-tmps4pgb](NOTE-tmps4pgb.md)) reads the same Canguilhem as a vitalist philosopher of
+values and reports the same refusal of a social pathology.
+
+## Bearing on the record
+
+- **[CLAIM-018](../claims.d/CLAIM-018.md): partly.** The claim's defeat condition is "a reading of
+  Canguilhem on which normativity in health is not a capacity to establish
+  new norms under changed conditions"; it waits on a NOTE that reads the
+  book. This reading does not read the book, but it quotes the book's
+  definition: "the possibility of tolerating infractions of the habitual
+  norm and instituting new norms in new situations" (Canguilhem 1991, pp.
+  196–197, note 8), and "a regulatory flywheel of the possibilities of
+  reaction" (p. 198). That is the capacity the claim reads, in
+  Canguilhem's words, at one remove, and nothing in Giroux's account of
+  him contradicts it. The paper also reports Canguilhem's reason for
+  refusing health to collectivities (a society "is not an organism endowed
+  with a purpose and a totality ... obtained by a specialized system of
+  devices of regulation"), which is the reason behind the claim's own
+  caveat that "institutions are not organisms". Giroux's argument for
+  population health does not extend normativity to institutions; it
+  concerns statistical populations, and she denies them an organism's
+  unity.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Canguilhem at second hand.** Every Canguilhem quotation is Giroux's
+  choice and translation; note 11 shows she departs from the published
+  translation at least once ("normality" for "morality").
+- **No pages in this copy.** The PMC text gives article number 111 only, so
+  claims are located by section.
+- **The epidemiology is reviewed, not tested.** The paper cites Rose's
+  distributions, Wilkinson's income distribution and the herd-immunity
+  definition, and notes criticism of Keys's Seven Countries Study (note
+  25), but runs no analysis.
+- **The ontology is left open.** "Different degrees of the ontological
+  unity of entities could be envisaged"; which degree a population has is
+  not settled.
+
+## Open questions
+
+- Can a population's health be normative in Canguilhem's sense, a capacity
+  to institute new norms, or only a distribution of individual outcomes?
+  The paper argues for population health without saying whether
+  normativity extends with it.
+- What degree of ontological unity is enough for a concept of health to
+  apply?

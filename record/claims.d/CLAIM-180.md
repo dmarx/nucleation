@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7vmnc
 title: 'Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -26,6 +26,20 @@ history:
     critical distance is NOTE-242's reading of LIT-269 (App. B.5), which
     stays in grounds with LIT-918 and LIT-921. The body keeps the
     citation. The text is unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    The twenty-first status review, at the status review's ruling (the
+    owner delegated these rulings). Flynn, Kanerva and Bhadkamkar's RIACS
+    report (LIT-tmp4sulg, read in NOTE-tmpwldwu) joins grounds (ADR-058):
+    it states the critical distance first-hand, which the claim needs.
+    The text said "The critical distance comes from Kanerva's book
+    (LIT-928, unread, and now Unavailable, so the point stays unchecked
+    against the book), not from Hopfield or from Kanerva's report
+    (LIT-921)"; it now cites the report's statement and says the book
+    holds only the derivation, which the claim does not use. The
+    Capacity point gains the report's dependence of the critical
+    distance on load. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,6 +62,7 @@ grounds:
 - LIT-269
 - LIT-918
 - LIT-921
+- LIT-tmp4sulg
 summary: >-
   Proposed by the assistant on 2026-10-11, when the owner raised sparse
   distributed memory and Hebbian learning after [CLAIM-182](CLAIM-182.md), and filed
@@ -68,12 +83,18 @@ bears_on:
 ## The claim
 
 In sparse distributed memory a cue retrieves a stored pattern only from
-within a critical distance: "the largest query–target distance from which
-iterated reads still converge to the target" ([NOTE-242](../notes.d/NOTE-242.md), reading
-[LIT-269](../literature.d/LIT-269.md)). The critical distance comes from Kanerva's book ([LIT-928](../literature.d/LIT-928.md),
-unread, and now Unavailable, so the point stays unchecked against the
-book), not from Hopfield or from Kanerva's report ([LIT-921](../literature.d/LIT-921.md)), which has
-only the signal-to-noise optimum ([NOTE-779](../notes.d/NOTE-779.md), 2026-10-14). Hopfield's
+within a critical distance. Flynn, Kanerva and Bhadkamkar ([LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md),
+pp. 15–16, read in [NOTE-tmpwldwu](../notes.d/NOTE-tmpwldwu.md)) state it first-hand. A cue "closer than
+a certain critical distance" to a stored pattern is read to a vector
+closer still, so iterated reads converge on it. A cue beyond it gives "a
+diverging sequence that will wander through address space", which may
+fall into another pattern's "attracting zone". [NOTE-242](../notes.d/NOTE-242.md)'s reading of
+[LIT-269](../literature.d/LIT-269.md) gives the same definition: "the largest query–target distance
+from which iterated reads still converge to the target". The report
+asserts the property and refers its derivation to Kanerva's book
+([LIT-928](../literature.d/LIT-928.md), unread and Unavailable). The claim uses the property, not
+its derivation. Kanerva's 1992 report ([LIT-921](../literature.d/LIT-921.md)) has only the
+signal-to-noise optimum ([NOTE-779](../notes.d/NOTE-779.md), 2026-10-14). Hopfield's
 network ([LIT-918](../literature.d/LIT-918.md), read in [NOTE-819](../notes.d/NOTE-819.md)) has the same shape in
 dynamical form. A cue inside a memory's basin of attraction settles into
 it, and one outside settles elsewhere, possibly into a spurious state.
@@ -108,7 +129,9 @@ Two further points follow from the models, both untested here:
   tenth of N, at any load. Overload does not merge memories: it loses
   every memory at once, unless old ones are forgotten. Spurious states
   occur far below capacity too. "Many near-duplicate statements" names
-  the closeness failure, not the load one.
+  the closeness failure, not the load one. In SDM, load narrows the
+  distance instead: "The greater the population of the memory, the
+  smaller the critical distance" ([LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md), p. 15).
 - **Silent redefinition.** A cue just outside one memory's basin can
   settle into a neighbouring memory. Read across, a restated term can be
   taken for a nearby, different term, and the argument continues on the
@@ -147,7 +170,6 @@ The test it proposes has not been run: no restatement in the reconstructed
 exchanges has had its distance from the original measured and set against
 whether it was re-derived as though new, and no count compares re-derivation
 of coded and uncoded items. Its premise [CLAIM-182](CLAIM-182.md) is Proposed for the same
-want, a count of re-derivation before and after the same content got
-addresses. Kanerva's book ([LIT-928](../literature.d/LIT-928.md)), where the critical distance is derived,
-is unread; the claim's statement of it rests on [NOTE-242](../notes.d/NOTE-242.md)'s reading of
-[LIT-269](../literature.d/LIT-269.md).
+want. The critical distance no longer waits on a reading: [LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md)
+states it first-hand, and its derivation in Kanerva's book ([LIT-928](../literature.d/LIT-928.md)), still
+unread, is not something the claim uses.

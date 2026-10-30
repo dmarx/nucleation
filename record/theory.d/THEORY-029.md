@@ -25,7 +25,7 @@ promote_when: >-
   restating the regress cannot settle it: the record already holds three
   and they disagree on who first stated it.
 title: 'A higher-order attitude cannot make a motive the agent''s own by its order alone: any attitude specified without presupposing the agent''s participation can itself be disowned, and any specified to include it presupposes what it was meant to explain'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-03'
@@ -53,6 +53,17 @@ history:
     3, which still said Frankfurt 1971 was held only second-hand and that
     the 2004 lectures were the only first-hand Frankfurt, and adds a dated
     note on what holds it back. The claim is unchanged.
+- version: 5
+  date: '2026-10-30'
+  note: >-
+    Holton's handout on "Identification and Wholeheartedness"
+    (LIT-tmpdjpka, read in NOTE-tmpx9fbi) is added to source and to the
+    middle-case bullet of "What this does not say", at the status
+    review's ruling (the owner delegated these rulings; ADR-057,
+    ADR-058). It reports the essay's stopping point as an unanalysed
+    decision, with a resonance condition in the checking case and none
+    in the conflict case. It is a secondary report, so the promote_when
+    is unchanged and unmet. The claim and status are unchanged.
 tags:
 - agency
 - metaphysics
@@ -66,6 +77,7 @@ source:
 - LIT-291
 - LIT-297
 - LIT-293
+- LIT-tmpdjpka
 summary: >-
   Velleman (1992), [LIT-295](../literature.d/LIT-295.md): every candidate for the agent's standpoint in
   a hierarchical account (second-order desire, Watsonian value, decisive
@@ -119,7 +131,7 @@ The claim is the record's synthesis across these five readings. No single one of
 - **It does not say higher-order structure is irrelevant to agency.** Velleman calls Frankfurt's work "the best sustained attempt" (p. 110), keeps his adjudication framing, and targets only the reductive strategy.
 - **The dilemma is not proved.** Velleman argues its first horn only by examples, and gives no principle for why every independently specified state must be disownable ([NOTE-265](../notes.d/NOTE-265.md), C5). His own stopping point, the desire to act in accordance with reasons, escapes only "while remaining an agent". Whether that escape is fair is unexamined, and Buss & Westlund's argument would reject it as a criterion.
 - **Frankfurt's replies are not assessed.** Satisfaction (1992), active identification (1994) and Bratman's policies are all held second-hand or not at all. [LIT-295](../literature.d/LIT-295.md) expressly excludes "The Faintest Passion".
-- **The middle case is argued against a footnote.** Velleman's decisive commitment is quoted from the 1976 "Identification and Externality" (IWWCA p. 68 n. 3), where decisions "do not seem to be susceptible both to internality and to externality". "Identification and Wholeheartedness" ([LIT-575](../literature.d/LIT-575.md)), which Velleman lists and never quotes ([NOTE-265](../notes.d/NOTE-265.md)), is reported by the IEP ([LIT-297](../literature.d/LIT-297.md)) to add that the commitment is made "without reservation", with no reason felt to deliberate further, and that stopping there is "hardly arbitrary". An unwitting decision plausibly fails those conditions. If it does, the counterexample does not reach the 1987/88 view, and the question becomes whether those conditions, which are conditions on the agent's own stance, can be stated without presupposing her participation. That is still this account's dilemma, but the record has not run it against the essay.
+- **The middle case is argued against a footnote.** Velleman's decisive commitment is quoted from the 1976 "Identification and Externality" (IWWCA p. 68 n. 3), where decisions "do not seem to be susceptible both to internality and to externality". "Identification and Wholeheartedness" ([LIT-575](../literature.d/LIT-575.md)), which Velleman lists and never quotes ([NOTE-265](../notes.d/NOTE-265.md)), is reported by the IEP ([LIT-297](../literature.d/LIT-297.md)) to add that the commitment is made "without reservation", with no reason felt to deliberate further, and that stopping there is "hardly arbitrary". An unwitting decision plausibly fails those conditions. If it does, the counterexample does not reach the 1987/88 view, and the question becomes whether those conditions, which are conditions on the agent's own stance, can be stated without presupposing her participation. That is still this account's dilemma, but the record has not run it against the essay. Holton's lecture handout on the essay ([LIT-tmpdjpka](../literature.d/LIT-tmpdjpka.md), read in [NOTE-tmpx9fbi](../notes.d/NOTE-tmpx9fbi.md)) reports at second hand that its stopping point is a decision, which Frankfurt does not analyse, in two forms: in checking a sum it carries the anticipation that accurate reviews will confirm it (pp. 168–169); between conflicting desires it makes the loser an "outlaw" with no such anticipation (p. 170). An unwitting decision plausibly fails the first and not obviously the second, so if the report is right the counterexample may still reach the conflict case. Only the essay can settle it.
 - **Who first stated the objection is unsettled in the record.** The IEP and SEP *Compatibilism* credit Watson 1975. SEP *Personal Autonomy* treats Watson as a rival account and states the regress as its own. Watson's valuing-versus-desiring distinction is reported in detail by none of them.
 
 ## Connections
@@ -192,11 +204,12 @@ Frankfurt's own stopping point there is the decisive commitment, which
 disownable or specified so as to include the agent's participation, so it
 lands on the dilemma like the others.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-Kept Proposed by the tenth status review. The dilemma is the record's
-synthesis across five readings, and Velleman argues its first horn only by
-examples ([NOTE-265](../notes.d/NOTE-265.md), C5). The reply that answers the regress directly,
-"Identification and Wholeheartedness" ([LIT-575](../literature.d/LIT-575.md)), is Unavailable, so whether
-the unwitting-decision counterexample reaches the 1987/88 view has not been
-run.
+"Identification and Wholeheartedness" ([LIT-575](../literature.d/LIT-575.md)) is still Unavailable, and
+the promote_when asks for it first-hand. Holton's handout ([NOTE-tmpx9fbi](../notes.d/NOTE-tmpx9fbi.md))
+reports a resonance condition in the checking case and none in the
+conflict case, so whether Velleman's unwitting decision reaches the
+1987/88 view turns on the conflict case, which has not been run against
+the essay's text. The other replies the promote_when names ([LIT-695](../literature.d/LIT-695.md),
+[LIT-596](../literature.d/LIT-596.md), Watson 1975) are unread.

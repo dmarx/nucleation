@@ -99,9 +99,13 @@ is biased, and "What it does not say" has said so since the claim was filed.
 The title's pathology is turning a provisional interpretation into a premise,
 which is where [CLAIM-292](CLAIM-292.md) puts it too.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-Its one named source, [LIT-1079](../literature.d/LIT-1079.md), is Unavailable and unread. Its case, the
-exchange's own drift from A2 to A14, is in the body and not filed as a CASE.
-A21 §7's study at matched budgets, which the defeated_if names, has not been
-run.
+Mitra, Singhal and Buckley ([LIT-1079](../literature.d/LIT-1079.md)) are now read ([NOTE-tmpzgzg8](../notes.d/NOTE-tmpzgzg8.md)). Their
+feedback loop, in which documents retrieved under one aspect supply the
+terms that pull the query further toward it, is the claim's
+selection-and-reinforcement loop at the level of the query, but over one
+round with the need held fixed, so it gives no evidence that the question
+drifts. The claim's case, the exchange's drift from A2 to A14, is in the
+body and not filed as a CASE, and A21 §7's study at matched budgets, which
+the defeated_if names, has not been run.

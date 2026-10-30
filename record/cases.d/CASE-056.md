@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmp25bmx
 title: 'J. B. Phillips''s "hearty handshake all round" for Paul''s "holy kiss", and Nida''s judgement that it keeps the greeting'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings):
+    Nida's chapter, as reprinted in Venuti's Reader (LIT-tmpmg03b), is
+    read and joins reported_in, beside the book (LIT-791). A dated note
+    records that the quotations are confirmed first-hand. The case text
+    is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -26,6 +35,7 @@ supports:
 - CLAIM-061
 reported_in:
 - LIT-791
+- LIT-tmpmg03b
 ---
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for the comparative test this case does not supply -->
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida, unread here, cited through Marlowe's transcription and Munday, and not leaned on beyond the quoted page -->
@@ -227,3 +237,17 @@ Every URL below was retrieved on 2026-10-10.
   *The Bible Translator* 6/4 (1955), 150–159,
   DOI 10.1177/000608445500600403. Read only in the transcript at
   https://www.bible-researcher.com/rieu.html.
+
+## Note of 2026-10-30: Nida's passages read first-hand
+
+The three passages this case quotes from Marlowe's transcription appear
+word for word in the Reader reprint of "Principles of Correspondence"
+([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md), [NOTE-tmpth9wo](../notes.d/NOTE-tmpth9wo.md)), at pp. 129–130: the gloss alternative, the
+principle, and the verdict, with Nida's "all around". The reprint dates the
+Rieu–Phillips principle 1954, as the Unverified paragraph says. The reprint is
+abridged and its cuts are unmarked, so book page 160 is not checked against
+it. It adds no reader evidence, and condition (c) is unchanged. Nida's own
+rule that "correspondence in meaning must have priority over correspondence
+in style" (p. 134) sits uneasily with his verdict here, since the handshake
+changes the meaning to keep the response. The chapter does not say which
+wins.
