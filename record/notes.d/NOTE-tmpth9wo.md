@@ -163,18 +163,18 @@ the kiss and the handshake do, and still be equivalent in that sense.
 
 ## Connections
 
-It abridges a chapter of *Toward a Science of Translating* (LIT-791,
+It abridges a chapter of *Toward a Science of Translating* ([LIT-791](../literature.d/LIT-791.md),
 unread). The "principle of equivalent effect" is Rieu and Phillips's,
-dated 1954 here (p. 129); CASE-056 records the 1955 published date of that
-discussion. Gutt's thesis (LIT-tmp1eyaz, read alongside) criticizes dynamic
+dated 1954 here (p. 129); [CASE-056](../cases.d/CASE-056.md) records the 1955 published date of that
+discussion. Gutt's thesis ([LIT-tmp1eyaz](../literature.d/LIT-tmp1eyaz.md), read alongside) criticizes dynamic
 equivalence through Nida and Taber (1969), not this chapter: equivalence of
 response is unrealistic where cognitive environments differ. Nord's article
-(LIT-tmplzcgc, read alongside) places Nida's dynamic and formal equivalence
+([LIT-tmplzcgc](../literature.d/LIT-tmplzcgc.md), read alongside) places Nida's dynamic and formal equivalence
 among the dichotomies her instrumental and documentary options recall.
 
 ## Bearing on the record
 
-- **CASE-056: met, for the quotations.** The case quotes Nida from
+- **[CASE-056](../cases.d/CASE-056.md): met, for the quotations.** The case quotes Nida from
   Marlowe's transcription of the book (pp. 159–60). The three passages it
   uses appear here word for word, at Reader pp. 129–130: the gloss
   alternative ("would be rendered literally, and would probably be
@@ -184,10 +184,10 @@ among the dichotomies her instrumental and documentary options recall.
   which existed between the original receptors and the message"), and the
   verdict ("quite naturally translates 'greet one another with a holy kiss'
   as 'give one another a hearty handshake all around'"). Nida's quotation
-  of Phillips reads "all around"; CASE-056 quotes it so. The reading
+  of Phillips reads "all around"; [CASE-056](../cases.d/CASE-056.md) quotes it so. The reading
   confirms the case's source text first-hand. It adds no reader evidence,
   so the case's condition (c) is unchanged.
-- **CLAIM-233: met for its ground, with one qualification.** The claim
+- **[CLAIM-233](../claims.d/CLAIM-233.md): met for its ground, with one qualification.** The claim
   holds that a functional-equivalence account as Nida states it "puts
   fidelity in the effect on the receiver, not in the text", and so predicts
   that judged stance and footing beat embedding similarity. The text bears
@@ -202,7 +202,7 @@ among the dichotomies her instrumental and documentary options recall.
   score would track part of what it values. It does not predict that text
   similarity does as well as judged pragmatic observables, so the claim's
   conclusion stands.
-- **CLAIM-205: partly, for Nida's functional account.** The claim says
+- **[CLAIM-205](../claims.d/CLAIM-205.md): partly, for Nida's functional account.** The claim says
   functional accounts need not fix one context or a static profile. Nida
   makes the right translation depend on the message, the purposes, and an
   audience that varies in decoding ability and interest (pp. 127–128). He

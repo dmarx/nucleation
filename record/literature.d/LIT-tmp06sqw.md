@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-30 (NOTE-tmpxbidq) from the accepted manuscript on White
+  read 2026-10-30 ([NOTE-tmpxbidq](../notes.d/NOTE-tmpxbidq.md)) from the accepted manuscript on White
   Rose Research Online (https://eprints.whiterose.ac.uk/id/eprint/137915/,
   CC BY-NC-ND), whose deposit lacks the tables, figures and quality
   appendix; worth reading as the systematic review of ACT mediation
-  studies from 2006 to 2015 that updates Hayes et al. 2006 (LIT-555), and
+  studies from 2006 to 2015 that updates Hayes et al. 2006 ([LIT-555](LIT-555.md)), and
   as a record that no study in that period tested the self as context.
   Read it knowing that it is narrative, with no pooled estimate, that all
   twelve studies were rated of moderate quality, and that only three
@@ -76,6 +76,6 @@ doi:10.1017/S1352465818000553.
 
 ## Why this is here
 
-THEORY-050 and THEORY-051 name Macri and Rogge's 2024 meta-analysis
-(LIT-543) as the test that could move them, and it is Unavailable. This
+[THEORY-050](../theory.d/THEORY-050.md) and [THEORY-051](../theory.d/THEORY-051.md) name Macri and Rogge's 2024 meta-analysis
+([LIT-543](LIT-543.md)) as the test that could move them, and it is Unavailable. This
 is the earlier systematic review of the same question.

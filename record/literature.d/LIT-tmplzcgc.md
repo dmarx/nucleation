@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-30 (NOTE-tmpsq37b) from the publisher''s open-access PDF on the TradTerm site (periodicos.usp.br/tradterm/article/download/49673/53784/61052, 14 pp.). Worth reading as Nord''s own short statement of functionalist translation, the record''s only reading of the functional account while her book (LIT-829) is unread. A text is an offer of information, which different receivers take differently, so the translator works prospectively, toward the purpose the translation is to serve for a particular target audience as the brief specifies. Nord sorts communicative purposes into phatic, referential, expressive and appellative functions. Where target-culture conditions differ, the translator either adapts the text so that the function works (instrumental translation) or turns it into a meta-function that tells the audience how the original worked (documentary translation). Neither is better in general: the brief decides. Equivalence is often "not required or not even desired".'
+status_note: 'read in full 2026-10-30 ([NOTE-tmpsq37b](../notes.d/NOTE-tmpsq37b.md)) from the publisher''s open-access PDF on the TradTerm site (periodicos.usp.br/tradterm/article/download/49673/53784/61052, 14 pp.). Worth reading as Nord''s own short statement of functionalist translation, the record''s only reading of the functional account while her book ([LIT-829](LIT-829.md)) is unread. A text is an offer of information, which different receivers take differently, so the translator works prospectively, toward the purpose the translation is to serve for a particular target audience as the brief specifies. Nord sorts communicative purposes into phatic, referential, expressive and appellative functions. Where target-culture conditions differ, the translator either adapts the text so that the function works (instrumental translation) or turns it into a meta-function that tells the audience how the original worked (documentary translation). Neither is better in general: the brief decides. Equivalence is often "not required or not even desired".'
 title: 'Translating as a purposeful activity: a prospective approach'
 version: 1
 history:
@@ -51,7 +51,7 @@ DOI 10.11606/issn.2317-9511.tradterm.2005.49673.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpsq37b.*
+*From the reading, [NOTE-tmpsq37b](../notes.d/NOTE-tmpsq37b.md).*
 
 - **Prospective, not retrospective.** The translator does not reproduce
   "the" source text, which is "as many texts as there are receivers of
@@ -73,6 +73,6 @@ DOI 10.11606/issn.2317-9511.tradterm.2005.49673.
 
 ## Standing in the record
 
-Filed on 2026-10-30 because CLAIM-205 rests what functional accounts are
-committed to on no reading: Nord's book (LIT-829) is unread. This article is
+Filed on 2026-10-30 because [CLAIM-205](../claims.d/CLAIM-205.md) rests what functional accounts are
+committed to on no reading: Nord's book ([LIT-829](LIT-829.md)) is unread. This article is
 Nord's own compact statement of that account, and a separate work.

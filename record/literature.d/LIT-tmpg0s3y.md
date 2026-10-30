@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmpjgs12) from the published article as
+  read in full 2026-10-30 ([NOTE-tmpjgs12](../notes.d/NOTE-tmpjgs12.md)) from the published article as
   downloaded from Wiley and posted on Stanford SPARQ's site
   (https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/schroeder_prentice_1998_-_exposing_pluralistic_ignorance.pdf);
   worth reading as the field test of exposing pluralistic ignorance, and
-  as the nearest read source for Prentice and Miller 1993 (LIT-1370),
+  as the nearest read source for Prentice and Miller 1993 ([LIT-1370](LIT-1370.md)),
   which it restates and in part fails to replicate. Read it knowing that
   drinking is self-reported, that the comparison is between two
   discussion formats with no untreated control, that 143 of 452
@@ -83,11 +83,11 @@ Psychology*, 28(23), 2150–2180. doi:10.1111/j.1559-1816.1998.tb01365.x.
 - First-year men reduced pluralistic ignorance by revising their view of
   the average student, not their own attitude. That is the opposite
   direction from the second-year men of Prentice and Miller 1993
-  (LIT-1370).
+  ([LIT-1370](LIT-1370.md)).
 
 ## Why this is here
 
-CLAIM-415 cites Prentice and Miller 1993 (LIT-1370) for men who moved
+[CLAIM-415](../claims.d/CLAIM-415.md) cites Prentice and Miller 1993 ([LIT-1370](LIT-1370.md)) for men who moved
 their private attitudes toward a misperceived norm, the one result it
 names of private change under a misperceived consensus. That paper is
 Unavailable. This one, by Prentice and a student, restates the 1993

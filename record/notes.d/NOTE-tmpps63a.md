@@ -188,14 +188,14 @@ states" (p. 482). It places its result beside Batson et al. (1995), which
 also treats empathic concern as a signal, of "valuation of another's
 welfare". The difference is that here the valuation follows from the self
 being "implicated in the other" (p. 491). Batson et al.'s reply in the same
-issue (LIT-1700) is unread. The SEP entry (NOTE-1274) and Miyazono and
-Inarimori (NOTE-1277) reported this paper before it was read; both are
+issue ([LIT-1700](../literature.d/LIT-1700.md)) is unread. The SEP entry ([NOTE-1274](NOTE-1274.md)) and Miyazono and
+Inarimori ([NOTE-1277](NOTE-1277.md)) reported this paper before it was read; both are
 borne out on what they report. Miyazono and Inarimori's "seven-point
 scale" of oneness is the paper's "we" item.
 
 ## Bearing on the record
 
-- **CLAIM-491: partly.** The claim's note of 2026-10-30 calls this paper
+- **[CLAIM-491](../claims.d/CLAIM-491.md): partly.** The claim's note of 2026-10-30 calls this paper
   its best evidence, "read only at second hand", and it is now read. It
   supports the claim's empirical form. In every test, helping tracked
   oneness and not empathic concern, and the authors' "nonaltruistic" is
@@ -203,26 +203,26 @@ scale" of oneness is the paper's "we" item.
   ways. Oneness is measured as dyadic and kept apart from group identity
   (fn. 1), so the paper bears on the claim's "others" and only by
   speculation (p. 492) on its "group". The helping is hypothetical.
-  And on CLAIM-492's demand, the paper separates oneness from empathic
+  And on [CLAIM-492](../claims.d/CLAIM-492.md)'s demand, the paper separates oneness from empathic
   concern (C4) but not from closeness or caring in general: closeness
   drives oneness hardest, and nothing shows oneness present where caring
   is absent or the reverse.
-- **CLAIM-494: against it in part, not decisive.** In this paradigm
+- **[CLAIM-494](../claims.d/CLAIM-494.md): against it in part, not decisive.** In this paradigm
   empathic concern did not predict helping once oneness was controlled,
   even for near strangers, the targets Batson's studies use (p. 490,
   fn. 5). That is the opposite of what the objection asserts. But the
-  objection's evidence is Batson et al.'s reply (LIT-1700), which
+  objection's evidence is Batson et al.'s reply ([LIT-1700](../literature.d/LIT-1700.md)), which
   answers this paper, and that reply is unread. What this reading adds is
   the paradigm the reply criticised. The helping is imagined. Empathic
   concern was rated after the helping choice (fn. 6). And the case for
   mediation is regression on correlated ratings, with a path model whose
   links among mediators are covariances (fn. 3). Whether merging "was
-  controlled" in the sense CLAIM-491 means turns on the IOS and "we"
-  items, which the SEP argues test overlap, not identity (NOTE-1274).
-- **QUESTION-300.** The paper's answer to which measure captures the
+  controlled" in the sense [CLAIM-491](../claims.d/CLAIM-491.md) means turns on the IOS and "we"
+  items, which the SEP argues test overlap, not identity ([NOTE-1274](NOTE-1274.md)).
+- **[QUESTION-300](../questions.d/QUESTION-300.md).** The paper's answer to which measure captures the
   self's extent is IOS plus "we". Its defence that this is not empathy
   under another name is the different-profiles argument (C4).
-- **THEORY-1114.** The paper's footnote 1 keeps oneness apart from
+- **[THEORY-1114](../theory.d/THEORY-1114.md).** The paper's footnote 1 keeps oneness apart from
   social identity, the construct self-categorization theory studies. It
   cites Brewer and Gardner (1996) and Turner (1987) for in-group
   favouritism through self–group merger only as a parallel (p. 492).
@@ -260,7 +260,7 @@ scale" of oneness is the paper's "we" item.
   closeness fixed? And does it predict real help, given with a cost?
 - Do the IOS and "we" items measure a self extended into the other, or
   closeness and caring described in spatial and pronoun terms? A measure
-  that comes apart from caring, as CLAIM-492 asks, would settle which.
-- Does Batson et al.'s reply (LIT-1700) find empathy's effect with the
+  that comes apart from caring, as [CLAIM-492](../claims.d/CLAIM-492.md) asks, would settle which.
+- Does Batson et al.'s reply ([LIT-1700](../literature.d/LIT-1700.md)) find empathy's effect with the
   same oneness index, or with different merging measures? The SEP's
   account suggests different ones.

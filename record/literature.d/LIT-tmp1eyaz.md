@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'skimmed 2026-10-30 (NOTE-tmpfykfi) from the UCL Discovery eprint (discovery.ucl.ac.uk/1317504/1/241978.pdf, 309 pp., OCR text layer): the abstract, preface and contents, the critique of functional equivalence (pp. 22–27), the relevance-theoretic chapter''s account of interpretive resemblance (pp. 50–76), the critique of dynamic equivalence (pp. 118–130), all of chapter 5 on faithfulness as optimal resemblance (pp. 160–193), all of chapter 6 on communicative clues (pp. 194–248) and the opening of chapter 7 with its definition of direct translation (pp. 249–257). The rest is unread. Worth reading as the thesis that became Translation and Relevance (LIT-784), and as the only reading of Gutt''s account the record holds. On it, two utterances interpretively resemble each other to the degree that the assumptions each communicates in its own cognitive environment overlap, so resemblance is judged by what is communicated, not by wording or propositional form. A translation is faithful when it resembles the original closely enough in the respects that make it relevant to its audience. Direct translation is the limiting case, complete interpretive resemblance in the context the original envisaged. Read it as the 1989 thesis, not the book: what the book changed is unread.'
+status_note: 'skimmed 2026-10-30 ([NOTE-tmpfykfi](../notes.d/NOTE-tmpfykfi.md)) from the UCL Discovery eprint (discovery.ucl.ac.uk/1317504/1/241978.pdf, 309 pp., OCR text layer): the abstract, preface and contents, the critique of functional equivalence (pp. 22–27), the relevance-theoretic chapter''s account of interpretive resemblance (pp. 50–76), the critique of dynamic equivalence (pp. 118–130), all of chapter 5 on faithfulness as optimal resemblance (pp. 160–193), all of chapter 6 on communicative clues (pp. 194–248) and the opening of chapter 7 with its definition of direct translation (pp. 249–257). The rest is unread. Worth reading as the thesis that became Translation and Relevance ([LIT-784](LIT-784.md)), and as the only reading of Gutt''s account the record holds. On it, two utterances interpretively resemble each other to the degree that the assumptions each communicates in its own cognitive environment overlap, so resemblance is judged by what is communicated, not by wording or propositional form. A translation is faithful when it resembles the original closely enough in the respects that make it relevant to its audience. Direct translation is the limiting case, complete interpretive resemblance in the context the original envisaged. Read it as the 1989 thesis, not the book: what the book changed is unread.'
 title: 'Translation and Relevance'
 version: 1
 history:
@@ -48,7 +48,7 @@ summary: >-
   processing cost. Direct translation, which preserves the original's
   communicative clues, is the limiting case: complete interpretive
   resemblance in the cognitive environment the original envisaged. The
-  precursor of the 1991 book (LIT-784).
+  precursor of the 1991 book ([LIT-784](LIT-784.md)).
 ---
 <!-- inactive-ok-file: LIT-784 — Unavailable; the book this thesis became, unread here, named for placing the thesis -->
 <!-- inactive-ok-file: CLAIM-501 CLAIM-205 — Proposed; the claims this reading bears on, open -->
@@ -61,7 +61,7 @@ University College London (University of London). UCL Discovery eprint
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpfykfi, which skimmed the thesis and read the
+*From the reading, [NOTE-tmpfykfi](../notes.d/NOTE-tmpfykfi.md), which skimmed the thesis and read the
 chapters named in the status note.*
 
 - **No separate theory of translation.** Most kinds of translation are
@@ -92,9 +92,9 @@ chapters named in the status note.*
 
 ## Standing in the record
 
-Filed on 2026-10-30 as the readable precursor of Gutt's book (LIT-784),
+Filed on 2026-10-30 as the readable precursor of Gutt's book ([LIT-784](LIT-784.md)),
 which no lawful copy reached. The record names Gutt's account as a rival to
-the pragmatic-transport line's theses: CLAIM-501 asks what it predicts, and
-CLAIM-205 whether a relevance-theoretic account is tied to one context.
+the pragmatic-transport line's theses: [CLAIM-501](../claims.d/CLAIM-501.md) asks what it predicts, and
+[CLAIM-205](../claims.d/CLAIM-205.md) whether a relevance-theoretic account is tied to one context.
 This is the record's only reading of the account. It is the thesis, and
 what the book revised is unknown here.

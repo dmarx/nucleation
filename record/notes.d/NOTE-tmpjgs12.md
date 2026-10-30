@@ -178,18 +178,18 @@ group is, not of where its average lies (pp. 2173–2174).
 
 It applies Prentice and Miller's 1993 programme, and Miller and
 McFarland's account of pluralistic ignorance, to an intervention.
-Prentice and Miller 1993 (LIT-1370), the source of the self–other
+Prentice and Miller 1993 ([LIT-1370](../literature.d/LIT-1370.md)), the source of the self–other
 measure used here, is unread in this record. Crandall's model of binge
 eating in sororities supplies the social-influence frame: behaviour is a
 function of social pressure and one's vulnerability to it (p. 2170).
 Perkins and Berkowitz's social-norms work is its neighbour. List's
-falsely attributed common attitudes (NOTE-554) cite Prentice and Miller
+falsely attributed common attitudes ([NOTE-554](NOTE-554.md)) cite Prentice and Miller
 as their example, and this paper is the record's first read account of
 that example.
 
 ## Bearing on the record
 
-- **CLAIM-415: partly, and partly against its one named example.** The
+- **[CLAIM-415](../claims.d/CLAIM-415.md): partly, and partly against its one named example.** The
   claim names Prentice and Miller's men as its one example of private
   change under a misperceived consensus. Its defeat condition counts as
   defeat any finding that such effects are "fully explained as conformity
@@ -230,7 +230,7 @@ that example.
     is close to the claim's "imagined social audience ... organized into
     a false unity". In the paper it is a hypothesis to explain C3 with
     C4, not a measured result.
-- **THEORY-242 and LIT-939.** Vilone and Polizzi's silenced majority
+- **[THEORY-242](../theory.d/THEORY-242.md) and [LIT-939](../literature.d/LIT-939.md).** Vilone and Polizzi's silenced majority
   holds private beliefs fixed. This paper is a field case with private
   attitudes unchanged by the intervention (C3) and conduct changed. It is
   consistent with a misperceived public norm that governs conduct without

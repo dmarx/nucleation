@@ -57,7 +57,7 @@ which may resemble the original loosely, from direct translation, which
 aims at complete resemblance, and shows the second to be the limiting case
 of the first (pp. 254–255). It is the doctoral version of the account
 published in 1991 as *Translation and Relevance: Cognition and Context*
-(LIT-784).
+([LIT-784](../literature.d/LIT-784.md)).
 
 ## Key insight
 
@@ -219,14 +219,14 @@ It applies Sperber and Wilson (1986) and Wilson and Sperber (1988), under
 Wilson's supervision. Its foils are the equivalence theories: House's
 functional equivalence and covert translation, Levý's functional
 hierarchies, Nida and Taber's dynamic equivalence and Beekman and Callow's
-idiomatic translation. Of these the record holds Nida unread (LIT-791) and
-now Nida's "Principles of Correspondence" as reprinted (LIT-tmpmg03b,
-read alongside on 2026-10-30). Nord's functionalism (LIT-829, unread) is not discussed in the
-pages read. The 1991 book (LIT-784) grew from this thesis.
+idiomatic translation. Of these the record holds Nida unread ([LIT-791](../literature.d/LIT-791.md)) and
+now Nida's "Principles of Correspondence" as reprinted ([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md),
+read alongside on 2026-10-30). Nord's functionalism ([LIT-829](../literature.d/LIT-829.md), unread) is not discussed in the
+pages read. The 1991 book ([LIT-784](../literature.d/LIT-784.md)) grew from this thesis.
 
 ## Bearing on the record
 
-- **CLAIM-501: met in substance, by the thesis.** Its defeat condition is
+- **[CLAIM-501](../claims.d/CLAIM-501.md): met in substance, by the thesis.** Its defeat condition is
   "a reading of Gutt on which interpretive resemblance is judged by
   closeness of wording or of propositional content". The thesis says the
   opposite in so many words. Resemblance between utterances is overlap in
@@ -246,8 +246,8 @@ pages read. The 1991 book (LIT-784) grew from this thesis.
   - fidelity is relative to a cognitive environment, the receptors' for
     indirect translation and the original's for direct, so raters' context
     enters what the account predicts;
-  - this is the 1989 thesis, and the book (LIT-784) stays unread.
-- **CLAIM-205: partly, for its relevance-theoretic half.** The claim says
+  - this is the 1989 thesis, and the book ([LIT-784](../literature.d/LIT-784.md)) stays unread.
+- **[CLAIM-205](../claims.d/CLAIM-205.md): partly, for its relevance-theoretic half.** The claim says
   a relevance-theoretic account "need not be committed to only one context
   or a static stance profile". For indirect translation, which Gutt calls
   the general case, the thesis agrees outright. Faithfulness is "determined
@@ -257,7 +257,7 @@ pages read. The 1991 book (LIT-784) grew from this thesis.
   for different translations for different audiences (pp. 161–164,
   181–190). Direct translation does fix one context, the one envisaged for
   the original (p. 254). The thesis proposes no operationalization, so it
-  does not bear on the "rich contextual baseline" CLAIM-205 proposes.
+  does not bear on the "rich contextual baseline" [CLAIM-205](../claims.d/CLAIM-205.md) proposes.
 - **Not for the anthology.** The thesis carries no instruction for
   machine-learning practice. Its footnote on simulating translation in
   artificial intelligence (p. 256, n. 2) is a remark about what such work

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-30 (NOTE-tmpth9wo) from a course-reading PDF of the reprint (newuniversityinexileconsortium.org, "Week-6-Dynamic-equivalence-and-formal-equivalence-Nida-1964-in-Venuti-2004-1.pdf", 15 pp., Reader pp. 126–140). Worth reading as the record''s only first-hand text of Nida''s two orientations, while Toward a Science of Translating (LIT-791), whose chapter this abridges, is unread. Formal equivalence matches the message in form and content. Dynamic equivalence aims at "the principle of equivalent effect": "the relationship between receptor and message should be substantially the same as that which existed between the original receptors and the message". Nida''s example is Phillips''s "hearty handshake all around" for Romans 16:16''s "holy kiss". A dynamic-equivalence translation is "the closest natural equivalent to the source-language message". It must still "clearly reflect the meaning and intent of the source", and meaning takes priority over style. Read it as an abridgement whose cuts are not marked.'
+status_note: 'read in full 2026-10-30 ([NOTE-tmpth9wo](../notes.d/NOTE-tmpth9wo.md)) from a course-reading PDF of the reprint (newuniversityinexileconsortium.org, "Week-6-Dynamic-equivalence-and-formal-equivalence-Nida-1964-in-Venuti-2004-1.pdf", 15 pp., Reader pp. 126–140). Worth reading as the record''s only first-hand text of Nida''s two orientations, while Toward a Science of Translating ([LIT-791](LIT-791.md)), whose chapter this abridges, is unread. Formal equivalence matches the message in form and content. Dynamic equivalence aims at "the principle of equivalent effect": "the relationship between receptor and message should be substantially the same as that which existed between the original receptors and the message". Nida''s example is Phillips''s "hearty handshake all around" for Romans 16:16''s "holy kiss". A dynamic-equivalence translation is "the closest natural equivalent to the source-language message". It must still "clearly reflect the meaning and intent of the source", and meaning takes priority over style. Read it as an abridgement whose cuts are not marked.'
 title: 'Principles of Correspondence'
 version: 1
 history:
@@ -62,7 +62,7 @@ Venuti (ed.), *The Translation Studies Reader*, 2nd edition (Routledge,
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpth9wo.*
+*From the reading, [NOTE-tmpth9wo](../notes.d/NOTE-tmpth9wo.md).*
 
 - **No exact translation.** "The total impact of a translation may be
   reasonably close to the original, but there can be no identity in
@@ -93,7 +93,7 @@ Venuti (ed.), *The Translation Studies Reader*, 2nd edition (Routledge,
 ## Standing in the record
 
 Filed on 2026-10-30 because the record held Nida's principle only through
-Marlowe's transcription (CASE-056) and his book (LIT-791) is unread. CASE-056
-quotes this chapter, and CLAIM-233 and CLAIM-205 lean on what functional
+Marlowe's transcription ([CASE-056](../cases.d/CASE-056.md)) and his book ([LIT-791](LIT-791.md)) is unread. [CASE-056](../cases.d/CASE-056.md)
+quotes this chapter, and [CLAIM-233](../claims.d/CLAIM-233.md) and [CLAIM-205](../claims.d/CLAIM-205.md) lean on what functional
 equivalence as Nida states it predicts. The reprint is abridged, and its
 cuts are not marked.

@@ -131,7 +131,7 @@ move did not.
 It applies the experiential-avoidance account (Hayes et al. 1996) to
 Ainslie's impulsive choice. Madden and Odum's laboratory supplies the
 discounting methods (AUC; nonsystematic-data criteria of Johnson and
-Bickel 2008). Rung and Madden's meta-analysis (LIT-tmp364v1, NOTE-tmpjiwb7)
+Bickel 2008). Rung and Madden's meta-analysis ([LIT-tmp364v1](../literature.d/LIT-tmp364v1.md), [NOTE-tmpjiwb7](NOTE-tmpjiwb7.md))
 includes it as one of two mindfulness-based studies, with g = 0.94. That
 review describes the between-group difference as trend-level (p < .06).
 The paper reports the group × time interaction at p = .04, and it is the
@@ -140,20 +140,20 @@ it computed, and the difference is in which test is meant.
 
 ## Bearing on the record
 
-- **CLAIM-156: against it in part, without meeting its defeat
+- **[CLAIM-156](../claims.d/CLAIM-156.md): against it in part, without meeting its defeat
   condition.** The claim says mindfulness integrates by suspending the
   step from impulse to action, a step "that needs no change in the
   discount curves". Here an acceptance session, with a "thought as a
   thought" exercise for some participants, lowered measured
   discounting. So some of its effect was on the valuations, which is
-  the flow route the claim's body says Dixon et al. (LIT-906) would
+  the flow route the claim's body says Dixon et al. ([LIT-906](../literature.d/LIT-906.md)) would
   point to. The study does not meet the defeat condition. It measures
   only discounting, not self-control or choice under temptation apart
   from it, so it cannot show the effect fully mediated by discounting.
   It is also mostly acceptance and values, not mindfulness as the claim
   describes it. And it is one pilot, whose waitlist arm did not
   replicate the change after its own training.
-- **THEORY-050: against its process claim, weakly, and outside its
+- **[THEORY-050](../theory.d/THEORY-050.md): against its process claim, weakly, and outside its
   `promote_when`.** The outcome changed and the AAQ-II, ACT's measure of
   inflexibility, did not change relative to control. It only approached
   significance when pooled without a control. So nothing here shows
@@ -163,7 +163,7 @@ it computed, and the difference is in which test is meant.
   non-clinical (mean AAQ-II 19 to 23, near or below the clinical range),
   and n = 30. This is weak evidence against inflexibility as the process
   here, not a test of the account.
-- **THEORY-051.** The training's object-in-hand exercise separates "the
+- **[THEORY-051](../theory.d/THEORY-051.md).** The training's object-in-hand exercise separates "the
   person holding the thought" from "the thought itself", a self-as-context
   move. It was given only to some participants and not measured
   separately, so it bears on nothing the account waits on.
@@ -200,5 +200,5 @@ Three more:
   behavioural measure of avoidance, change before discounting and
   mediate it?
 - Does the training change self-control in choices under temptation by
-  more than its change in discounting carries? That is the test CLAIM-156
+  more than its change in discounting carries? That is the test [CLAIM-156](../claims.d/CLAIM-156.md)
   asks for.
