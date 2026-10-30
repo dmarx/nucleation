@@ -16,7 +16,18 @@ promote_when: >-
   settle it: more illustrated outputs, or SSIM scores without a persistence
   baseline.
 title: 'Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-273 is replaced by corroborates: the
+    sixteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings), moved this reading from
+    CLAIM-273's grounds to its corroborated_by (ADR-058). That claim
+    cites it as one illustration of its general form and does not use
+    its contested thesis. A dated note says what holds it back. The
+    status is unchanged.
 tags:
 - complex-systems
 - social-science
@@ -32,7 +43,7 @@ summary: >-
   mid-event. The evidence is one illustrated output and SSIM curves with no
   persistence baseline. The paper models no participants and does not
   measure anyone's reach.
-supports:
+corroborates:
 - CLAIM-273
 ---
 <!-- inactive-ok-file: THEORY-218 CLAIM-279 — Proposed; sister readings of r/place studies and an open claim, cited for context, nothing here rests on them -->
@@ -82,8 +93,9 @@ kind needs "extra inputs".
 
 ## Connections
 
-No relations are declared, because the evidence is too thin to support or
-answer anything. What it points at:
+One relation is declared: it corroborates CLAIM-273's imported-order half,
+which does not rest on it. The evidence is too thin to support or answer
+anything else. What it points at:
 
 - **[QUESTION-084](../questions.d/QUESTION-084.md).** If local dynamics miss exactly the template-copied
   designs, then the canvas alone does not reveal coordination by planning.
@@ -96,3 +108,13 @@ answer anything. What it points at:
   oppose their neighbours. That fits the claim and adds nothing to it.
 - Litherland & Mørch ([LIT-1037](../literature.d/LIT-1037.md)), whose Mona Lisa case this paper
   invokes, show the off-canvas design work directly ([THEORY-218](THEORY-218.md)).
+
+## Note of 2026-10-29: what holds it back
+
+Read in full (NOTE-725), but its promote_when is unmet. The paper has no
+persistence baseline, no error bars and no coordination data, and its
+split into two kinds rests on one illustrated six-hour reconstruction. No
+test on a crowd-built canvas has compared a local model with a copy-the-
+last-state baseline and a coordination-aware model. Narrowing to what
+Adams et al. report would free nothing, since CLAIM-273 now cites it as
+corroboration.

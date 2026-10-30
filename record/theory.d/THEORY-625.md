@@ -15,7 +15,18 @@ promote_when: >-
   More examples of status functions from one society cannot settle it,
   since the paper's examples already fit by construction.
 title: "Institutional facts are status functions, imposed by collective acceptance on things that cannot perform the function by their physical structure alone; the status carries deontic powers that give desire-independent reasons for action, and it exists only as represented, so institutions require language; 'X counts as Y in C' is the common case of the more general 'We accept (S has power (S does A))'"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-363 is replaced by corroborates: the
+    sixteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings), moved this reading from
+    CLAIM-363's grounds to its corroborated_by (ADR-058). That claim
+    cites it as one illustration of its general form and does not use
+    its contested thesis. A dated note says what holds it back. The
+    status is unchanged.
 tags:
 - social-ontology
 - metaphysics
@@ -35,7 +46,7 @@ summary: >-
   "We accept (S has power (S does A))". Hindriks & Guala's
   rules-in-equilibrium account is its rival on what a constitutive rule
   adds.
-supports:
+corroborates:
 - CLAIM-363
 ---
 <!-- inactive-ok-file: THEORY-495 — Proposed; Tomasello's account, named beside his book, not leaned on -->
@@ -144,3 +155,12 @@ failed for corporations and ledger money.
   only because its members represent it; a brain's parts do not represent
   the brain. [NOTE-388](../notes.d/NOTE-388.md) notes this could be the kind of asymmetry
   [THEORY-043](THEORY-043.md) asks for, as the reader's inference, not Searle's.
+
+## Note of 2026-10-29: what holds it back
+
+Read in full (NOTE-388), but its promote_when is unmet. The record holds
+no institution whose structure the analysis cannot state. It also holds
+neither of the two arguments the paper defers: that collective
+intentionality is irreducible (LIT-490, unread), and that a status's
+deontology is more than a regulative rule in equilibrium gives, which
+THEORY-414 denies.

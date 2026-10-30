@@ -14,12 +14,21 @@ promote_when: >-
   common at low measured r as at high. More natural-history cases that fit
   cannot settle it, since §7 explains contrary cases away one by one.
 title: "Social behaviour evolves as if each individual valued a neighbour's fitness against its own by their coefficient of relationship, and its discriminations evolve to make that coefficient determinate; so kin are favoured and strangers met with hostility, relatives fight less, and haplodiploid sisters, related by 3/4, are predisposed to worker altruism"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
   note: >-
     `altruism` added beside the existing tags (ADR-062).
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    corroborates CLAIM-491 added: the sixteenth status review
+    (ADR-057), at the status review's ruling (the owner delegated
+    these rulings), moved this reading from that claim's grounds to
+    its corroborated_by (ADR-058), since the claim cites Hamilton's
+    rule as an analogy. A dated note says what holds it back. The
+    status is unchanged.
 tags:
 - natural-sciences
 - complex-systems
@@ -39,6 +48,8 @@ summary: >-
   relatives "rather few and feeble", reports Australian halictines and
   multiple mating as running against the hymenopteran hypothesis, and
   explains anomalies case by case.
+corroborates:
+- CLAIM-491
 ---
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the family and group-loyalty domains it credits to "Hamilton, 1964" -->
@@ -114,3 +125,12 @@ cases where it did not fit and explains them away (§7).
   account's group domain rests on shared payoffs among non-kin ([NOTE-410](../notes.d/NOTE-410.md)).
 - The clones-and-colonies section is an early case of the units-of-selection
   question that Lloyd's entry ([LIT-160](../literature.d/LIT-160.md)) treats.
+
+## Note of 2026-10-29: what holds it back
+
+Read in full (NOTE-410), but its promote_when is unmet. The record holds
+no comparative test with relatedness measured and predictions fixed in
+advance, whether of kin discrimination, of escalation against measured r,
+or of worker altruism against measured sister relatedness. Hamilton's
+evidence is anecdotal, and he reports multiple mating and the Australian
+halictines as running against the hymenopteran hypothesis.

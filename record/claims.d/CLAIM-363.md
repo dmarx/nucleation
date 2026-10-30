@@ -1,10 +1,10 @@
 ---
 number: 363
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpt75xe
 title: 'A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -18,6 +18,19 @@ history:
   note: >-
     THEORY-162 moved from grounds to corroborated_by at the status
     review of 2026-10-28 (ADR-058). The claim is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the sixteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises
+    CLAIM-152 and CLAIM-075 and its term TERM-059 are Active, it has
+    no objection, and nothing in the record meets its defeat
+    condition. THEORY-220, THEORY-625 and THEORY-665 move from grounds
+    to corroborated_by (ADR-058): the note of 2026-10-28 already calls
+    them illustrations of the general form, and the claim uses none of
+    their contested theses (Bickhard's function from dynamics,
+    Searle's deontology, Brandom's model as argued). The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -38,12 +51,11 @@ line:
 rests_on:
 - CLAIM-152
 - CLAIM-075
-grounds:
+corroborated_by:
+- THEORY-162
 - THEORY-220
 - THEORY-665
 - THEORY-625
-corroborated_by:
-- THEORY-162
 uses:
 - TERM-059
 summary: >-

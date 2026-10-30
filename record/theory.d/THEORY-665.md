@@ -14,7 +14,18 @@ promote_when: >-
   or intention as primitive to meet them. A skim of the model's
   definitions, which is what this rests on now, cannot settle it.
 title: "Asserting is undertaking a commitment that entitles others to reassert it and carries a responsibility to show entitlement if challenged; every interlocutor keeps score of everyone's commitments and entitlements, so the score is doubly perspectival, and a speech act's significance is the change it makes to the scores, fixed by its content's inferential role"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-363 is replaced by corroborates: the
+    sixteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings), moved this reading from
+    CLAIM-363's grounds to its corroborated_by (ADR-058). That claim
+    cites it as one illustration of its general form and does not use
+    its contested thesis. A dated note says what holds it back. The
+    status is unchanged.
 tags:
 - philosophy-of-language
 - pragmatics
@@ -29,7 +40,7 @@ summary: >-
   author's account the model is an idealization limited to semantic
   inference, with implicature left to an outer shell. It gives no single
   objective score, only scores kept from each perspective.
-supports:
+corroborates:
 - CLAIM-363
 ---
 <!-- inactive-ok-file: THEORY-162 THEORY-444 THEORY-511 — Proposed; neighbouring accounts of context change, meaning and illocution, cited as open -->
@@ -121,3 +132,9 @@ it are in chapters not read.
 - Marabini ([LIT-106](../literature.d/LIT-106.md), a seeded skim) argues that Brandom's material
   inferences are non-monotonic, so one can grasp a concept while refusing
   its inferences. Not read closely enough to lean on.
+
+## Note of 2026-10-29: what holds it back
+
+Not read in full. NOTE-622 is a skim of the Preface and chapter 3.
+Chapters 1–2, 4 and 8, which hold the arguments for the model and the
+cases its promote_when names, are unread.

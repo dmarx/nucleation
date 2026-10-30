@@ -22,7 +22,7 @@ promote_when: >-
   that etiological theories handle the swamp lion differently, which
   concern a rival account and not this one's adequacy.
 title: 'A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -33,6 +33,15 @@ history:
     without it. The Connections bullet now says "Corroborated, not
     grounded". A dated note says what holds it back. The status is
     unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-363 is replaced by corroborates: the
+    sixteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings), moved this reading from
+    CLAIM-363's grounds to its corroborated_by (ADR-058). That claim
+    cites it as one illustration of its general form and does not use
+    its contested thesis. The status is unchanged.
 tags:
 - philosophy-of-biology
 - cognition
@@ -53,10 +62,10 @@ summary: >-
   and can find the predication false. Proposed: a conceptual account,
   with no model, whose account of having a function (and so of
   malfunction) is deferred to another paper.
-supports:
-- CLAIM-363
 bears_on:
 - QUESTION-087
+corroborates:
+- CLAIM-363
 ---
 <!-- inactive-ok-file: CLAIM-288 CLAIM-284 — Proposed; the claims this bears on, not settled -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; compared, nothing here rests on them -->

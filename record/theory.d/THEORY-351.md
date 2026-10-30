@@ -17,7 +17,18 @@ promote_when: >-
   flights that succeed, cannot settle it: the account is already a task
   analysis of successful flights.
 title: "In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload phase from a card selected by the displayed gross weight, turns recall and scale reading at the moment of use into a judgement of spatial proximity, so the cockpit system remembers the speeds without either pilot's memory being improved; this is argued by task analysis of mandated procedure, not measured"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The supports entry for CLAIM-296 is replaced by corroborates: the
+    sixteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings), moved this reading from
+    CLAIM-296's grounds to its corroborated_by (ADR-058). That claim
+    cites it as one illustration of its general form and does not use
+    its contested thesis. A dated note says what holds it back. The
+    status is unchanged.
 tags:
 - cognition
 - embodied-cognition
@@ -37,10 +48,10 @@ summary: >-
   with a few values needed in a fixed order, so it says nothing about
   search for one item among many under a deadline. Cognition in the Wild
   ([LIT-1060](../literature.d/LIT-1060.md)) is Unavailable.
-supports:
-- CLAIM-296
 bears_on:
 - QUESTION-101
+corroborates:
+- CLAIM-296
 ---
 <!-- inactive-ok-file: LIT-1060 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
@@ -121,9 +132,20 @@ may disrupt internal memories."
   remembers when the task's structure is built into artifacts, the cue
   (displayed weight, the needle nearing a bug) supplied by the environment.
 - [CLAIM-296](../claims.d/CLAIM-296.md) holds that deployability is a relation, not a property of one
-  element. This is its nearest support in the record, and adds a factor the
+  element. This corroborates it, the nearest case the record holds,
+  without the claim resting on it, and adds a factor the
   claim does not list: when the work of retrieval is done relative to the
   deadline.
 - [QUESTION-095](../questions.d/QUESTION-095.md) starts from this case: a result computed once at low load
   and read back by perception. [THEORY-331](THEORY-331.md) and [THEORY-342](THEORY-342.md) price the
   machine-learning versions of moving computation before the request.
+
+## Note of 2026-10-29: what holds it back
+
+Read in full (NOTE-867), but its promote_when is unmet. The record holds
+no measured comparison of crews with and without speed bugs under the same
+load that records timing, errors and the pilots' recall. The paper is a
+stylized task analysis of successful flights, as the title's "argued …,
+not measured" already says. An Active "Hutchins argues" reading on
+THEORY-1110's pattern would free nothing, now that CLAIM-296 cites it as
+corroboration.
