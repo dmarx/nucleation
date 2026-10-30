@@ -1,19 +1,28 @@
 ---
 number: 946
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpzogk3
-promote_when: >-
-  A checked re-derivation recorded in this file, which the reading made
-  (NOTE-1155) and which ADR-047 counts toward promotion. It is refuted
-  by an antisymmetric matrix whose meta-game has a single Nash equilibrium
-  and in which adding an exact copy of an agent, distinct from every
-  other, changes some original agent's Nash average. The title is limited
-  to that case. The reading's counterexample with a segment of equilibria
-  is outside it, and so are results about near-copies or about
-  non-redundant additions. Those neither promote nor refute it.
 title: "In the zero-sum meta-game on an antisymmetric evaluation matrix the maximum-entropy Nash equilibrium is unique; when the meta-game has only one Nash equilibrium, adding exact copies of an agent splits that agent's mass evenly and leaves every Nash average unchanged; the equilibrium is uniform exactly when every agent's mean log-odds is zero, and uniform on the top-rated agents when the matrix is a pure gradient"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-065 §5. A second checker followed
+    Proposition 4, the lemma, the reader's step from the lemma to
+    invariance under a unique equilibrium, Theorem 1's P3 and the
+    counterexample, and re-ran them by script with controls (status review
+    22). The old promote_when: A checked re-derivation recorded in this
+    file, which the reading made (NOTE-1155) and which ADR-047 counts
+    toward promotion. It is refuted by an antisymmetric matrix whose
+    meta-game has a single Nash equilibrium and in which adding an exact
+    copy of an agent, distinct from every other, changes some original
+    agent's Nash average. The title is limited to that case. The reading's
+    counterexample with a segment of equilibria is outside it, and so are
+    results about near-copies or about non-redundant additions. Those
+    neither promote nor refute it.
 tags:
 - game-theory
 - mathematics
@@ -93,3 +102,47 @@ narrows [CASE-124](../cases.d/CASE-124.md)'s μ route and is distinct from [CASE
 share-dependent c ([NOTE-1155](../notes.d/NOTE-1155.md)). The value-based invariant of
 Balduzzi et al. (2019), [THEORY-944](THEORY-944.md), needs no uniqueness and holds for
 behavioural mixtures as well as copies.
+
+## Note of 2026-10-30: the second check
+
+The second check at the status review (ADR-065 §5) followed each step.
+
+Uniqueness. The value is 0, so p is an equilibrium strategy of either
+player exactly when Ap ≤ 0. The equilibrium set {p in the simplex : Ap ≤
+0} is a convex polytope, the same for both players, and entropy, being
+strictly concave, has one maximiser on it.
+
+The lemma. Copy agent c as c′. In the padded matrix A′, A′p′ is A m(p′) on
+the original agents and (A m(p′))_c on c′, where m(p′) merges the masses
+of c and c′. So p′ is an equilibrium of the padded game exactly when m(p′)
+is one of the original.
+
+Invariance. If the original equilibrium p is unique, every padded
+equilibrium is a split of it, with αp_c on c and (1 − α)p_c on c′. Its
+entropy is H(p) + p_c h(α), h being the binary entropy, which is largest
+at α = ½. The Nash averages A′p′ on the original agents are Ap, and the
+copy gets (Ap)_c.
+
+P3. If div A = 0, the uniform u has Au = 0, so it is an equilibrium, and
+it has the most entropy on the whole simplex. Conversely Σ_i (Au)_i = 0
+for antisymmetric A, so Au ≤ 0 forces Au = 0, which is div A = 0. If A_ij
+= r_i − r_j, then (Ap)_i = r_i − r·p ≤ 0 for every i forces r·p = max r,
+so p lies on argmax r, and the maximum-entropy one is uniform there.
+
+The counterexample. E's mass in an equilibrium would raise the sum of the
+rock, paper and scissors rows by 3p_E > 0, so E has none, and Ap ≤ 0 then
+makes the three equal. With mass λ on them and 1 − λ on D, E's row needs λ
+≥ ½. Maximising −λ ln(λ/3) − (1 − λ) ln(1 − λ) gives ln(3(1 − λ)/λ) = 0,
+so λ = ¾, and E's Nash average is −¾ + ¼ = −½. With D copied the second
+term becomes −(1 − λ) ln((1 − λ)/2), which gives λ = 3/5, p* = (⅕, ⅕, ⅕,
+⅕, 0, ⅕), and E's average −3/5 + 2/5 = −⅕.
+
+A script (numpy, with an exact linear-programming solver, in the session's
+scratchpad) checked these. In 400 random antisymmetric matrices of 3 to 7
+agents with a unique equilibrium, one agent copied, every split tried was
+an equilibrium of the padded game, the solver's padded equilibrium merged
+back to the original, and the even split left every original Nash average
+unchanged. P3 held on 100 matrices each way. The counterexample is the
+control: there a grid search over λ agreed with the closed forms above,
+and the "invariant" split (¼, ¼, ¼, ⅛, 0, ⅛) is an equilibrium of lower
+entropy than the selection.

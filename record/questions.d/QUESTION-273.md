@@ -41,7 +41,7 @@ summary: >-
 bearing:
 - THEORY-958
 ---
-<!-- inactive-ok-file: CLAIM-279 CLAIM-285 CLAIM-297 CLAIM-336 THEORY-925 — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-279 CLAIM-285 CLAIM-297 CLAIM-336 — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-949 — Proposed; the switching ablation as Zhong et al. report it, its sample unreported, cited as bearing on the question, not as settling it -->
 
 # QUESTION-273: With one population of perspectives, do the three ways of giving them influence that the owner proposed (neighbourhoods in a space whose radii others can change, a shared channel into which they emit at rates, and a budget of passes or locations at which each may act on a common representation) produce different collective decision regimes, and how far does each mechanism's nominal resource predict the counterfactual influence a perspective actually has?

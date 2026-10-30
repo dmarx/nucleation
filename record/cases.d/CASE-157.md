@@ -32,7 +32,7 @@ summary: >-
   What it shows, what it assumes, and the three-axis extension it suggests
   are recorded, and the extension was run on 2026-10-25.
 ---
-<!-- inactive-ok-file: CASE-155 CLAIM-444 QUESTION-271 THEORY-899 THEORY-932 THEORY-938 CLAIM-446 — Proposed or new; the construction, claim and question this bears on -->
+<!-- inactive-ok-file: CASE-155 CLAIM-444 QUESTION-271 THEORY-932 THEORY-938 CLAIM-446 — Proposed or new; the construction, claim and question this bears on -->
 
 # CASE-157: Boosting the vote: in the owner's 2014 model, voters of fixed accuracy drawn from Beta(2, 2) vote in a weight-averaged election, and every voter's weight is multiplied by 1 + f when their own vote was right and 1 − f when not, with a fraction replaced each round at weight 1; with full-information feedback the weighted result rises from 0.50 toward 0.98 as f grows, and churn only costs in a world that never changes; the model escapes the hive mind's absorbing states because every voter is scored, heeded or not, and it assumes away the capture its author predicted
 

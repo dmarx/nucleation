@@ -1,19 +1,27 @@
 ---
 number: 944
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxh6cj
-promote_when: >-
-  A checked re-derivation recorded in this file, which the reading made
-  (NOTE-1143) and which ADR-047 counts toward promotion. It is refuted
-  by two finite populations whose zero-sum game has Nash pairs of
-  different value, by a population whose value against some other
-  population changes when a member behaviourally equal to a mixture of
-  members is added, or by a population P, each of whose agents is a
-  behavioural mixture of Q's, with v(P, Q) > 0. Results on how to grow a
-  population, or on PSRO's performance, neither promote nor refute it.
 title: "The value of the zero-sum game between two populations' evaluation matrices does not depend on which Nash equilibrium is used, is unchanged by adding agents that behave as mixtures of existing members, and is not positive for a population whose agents are all behavioural mixtures of the other's"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-065 §5. A second checker followed the three
+    parts step by step, including the reader's step from Proposition 2 to
+    the value, and re-ran them by script with controls (status review 22).
+    The old promote_when: A checked re-derivation recorded in this file,
+    which the reading made (NOTE-1143) and which ADR-047 counts toward
+    promotion. It is refuted by two finite populations whose zero-sum game
+    has Nash pairs of different value, by a population whose value against
+    some other population changes when a member behaviourally equal to a
+    mixture of members is added, or by a population P, each of whose
+    agents is a behavioural mixture of Q's, with v(P, Q) > 0. Results on
+    how to grow a population, or on PSRO's performance, neither promote
+    nor refute it.
 tags:
 - game-theory
 - mathematics
@@ -82,3 +90,35 @@ population cannot move without any further condition. Compare
 [THEORY-946](THEORY-946.md), which needs a unique equilibrium and covers exact copies
 only. For [CLAIM-451](../claims.d/CLAIM-451.md) it is the formal shape of relief by mixing:
 evaluate the portfolio, not the option ([NOTE-1143](../notes.d/NOTE-1143.md)).
+
+## Note of 2026-10-30: the second check
+
+The second check at the status review (ADR-065 §5) followed each step.
+
+Independence. By the minimax theorem every Nash pair of a finite zero-sum
+game attains max_p min_q pᵀMq = min_q max_p pᵀMq, so the value does not
+depend on which pair is used.
+
+Redundancy. The value is the maximum, over the convex hull of P's payoff
+vectors against Q, of the smallest entry, and dually for Q's columns. An
+agent x added to P with φ(x, w) = Σ_k λ_k φ(m_k, w) for every w has its
+payoff vector inside the hull of P's, so the hull and the value are
+unchanged. An agent y added to Q equal to a mixture μ of Q's members has,
+by antisymmetry, φ(v, y) = −φ(y, v) = −Σ_k μ_k φ(q_k, v) = Σ_k μ_k φ(v,
+q_k), a mixture of Q's columns, so again nothing changes.
+
+Containment. Let each v_i in P satisfy φ(v_i, w) = Σ_k λ_ik φ(q_k, w) for
+every w. For any mixture p over P put ν = λᵀp, a mixture over Q. If Q
+plays ν, P's payoff is pᵀA_{P,Q}ν = νᵀA_{Q,Q}ν = 0 by antisymmetry, so
+v(P, Q) ≤ 0. P's payoff vector against any R equals ν's, so v(P, R) ≤ v(Q,
+R).
+
+A script (numpy, with an exact linear-programming solver, in the session's
+scratchpad) checked these on 300 random antisymmetric games of 4 to 8
+agents split into two populations. Adding an agent that behaved as a
+random mixture of one side's members left the value unchanged to 10⁻⁹, on
+either side. Three such mixture agents of Q, taken as a population, scored
+at most 0 against Q and no more than Q against a third population. Two
+controls moved: a mean-over-members score went from 0.086 to −0.250 when a
+member was duplicated, and adding an agent that beats every member of Q
+moved the value from 0.444 to 1.750.
