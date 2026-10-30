@@ -41,7 +41,7 @@ supports:
 corroborated_by:
 - THEORY-896
 ---
-<!-- inactive-ok-file: THEORY-896 TERM-076 — Proposed; the second-hand reading of Monderer and Shapley and the term this claim underwrites, cited as open -->
+<!-- inactive-ok-file: TERM-076 — Proposed; the second-hand reading of Monderer and Shapley and the term this claim underwrites, cited as open -->
 <!-- inactive-ok-file: LIT-1462 — Unavailable, no lawful copy reached; Monderer and Shapley, whose lemma part 1 proves for itself -->
 
 # CLAIM-434: On a finite set of outcomes, some function rises with every move that wins one of a negotiation's conflicts exactly when no chain of winning moves returns to where it began, and the length of the longest such chain ending at an outcome is one such function; a perfectly transitive record of which side won each pair, in a complete tournament contesting every pair once, leaves a cyclic share of (n − 2)/3n under the Hodge decomposition, a baseline that does not carry to sparse records; the Hodge gradient can reverse a comparison the wins settle, netting a record erases alternation, a record fixes a class of potentials rather than one, a coherent record is not yet one aligned with any single perspective's ordering, a best-fitting ordering of a cycle is no Lyapunov function, the sign a class of potentials gives can be set-valued, and an ordering fitted to a record overstates its agreement there

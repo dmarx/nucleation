@@ -34,7 +34,7 @@ summary: >-
   defences of IIT (the multi-dimensional measure, the "proto-consciousness"
   panpsychism) are revisions of the theory, not readings of it.
 ---
-<!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-100 THEORY-240 THEORY-262 THEORY-296 THEORY-577 THEORY-644 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
+<!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-100 THEORY-240 THEORY-262 THEORY-577 THEORY-644 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 
 # THEORY-523: IIT 4.0's measure of integrated information is undefined for any system that has a non-Markovian graining, which brains are said to have under the grainings in use, and it has never been computed for a real physical system; so empirical measures such as PCI are proxies for it, not approximations, and their success is evidence for IIT's intuitions about integration, not for Φ
 

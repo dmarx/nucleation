@@ -33,7 +33,6 @@ summary: >-
   Buchnera lives in aphid bacteriocytes and is passed from mother to egg. Its 641-kb genome keeps the pathways for the amino acids its host needs and has lost most else ([LIT-1596](../literature.d/LIT-1596.md)); its genes evolve fast and A+T-biased under Muller's ratchet ([LIT-1573](../literature.d/LIT-1573.md)). The record's reading of Wilson and Barker reports Godfrey-Smith placing the pair as both an organism and a Darwinian individual ([NOTE-114](../notes.d/NOTE-114.md)). Used as the case of high mutual dependence and high reproductive cohesion reached through reduction, with no gene transfer to the host reported in the works it rests on.
 ---
 <!-- inactive-ok-file: NOTE-1236 NOTE-1241 LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
-<!-- inactive-ok-file: THEORY-1051 — Proposed; filed from the readings cited in the note of 2026-10-27 (later) -->
 
 # CASE-173: Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
 

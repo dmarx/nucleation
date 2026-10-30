@@ -52,7 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
-<!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-480 CLAIM-471 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
+<!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-480 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1073 THEORY-1052 — Proposed; readings cited as open -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-331 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 LIT-1630 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->

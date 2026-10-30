@@ -50,7 +50,6 @@ variants:
 - CASE-162
 ---
 <!-- inactive-ok-file: CLAIM-444 CLAIM-443 CLAIM-446 CASE-156 — Proposed, filed in this pull request -->
-<!-- inactive-ok-file: THEORY-928 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CASE-155: Authority as a replicator population: for a distribution π of control over processes with mean qualities q, the expected Maynard-Cross update is π_a q_a / v, Bayes' rule when q is each process's likelihood; the Maynard dynamic is the Taylor dynamic slowed by 1/v, so the two share their orbits; mean quality climbs at the rate Var_π(q); and when a process's score rises with its own share, ℓ′ = ℓ + h + c(2π − 1) has an unstable threshold π* = (1 − h/c)/2, above which a process the evidence disfavours captures the organization
 

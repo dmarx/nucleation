@@ -31,7 +31,7 @@ summary: >-
   was not found. Each theory passed some predictions and failed others.
 ---
 <!-- inactive-ok-file: QUESTION-061 — Deferred; the question this work was filed for, on a set-aside line -->
-<!-- inactive-ok-file: THEORY-096 THEORY-098 THEORY-094 THEORY-023 THEORY-245 THEORY-296 — Proposed; the onset-transient finding this result replicates in part, the workspace and sensory accounts it tests, the accounts of what consciousness evidence can settle, and the two accounts filed from this reading -->
+<!-- inactive-ok-file: THEORY-096 THEORY-098 THEORY-094 THEORY-023 — Proposed; the onset-transient finding this result replicates in part, the workspace and sensory accounts it tests, the accounts of what consciousness evidence can settle, and the two accounts filed from this reading -->
 
 # NOTE-812: Cogitate Consortium — Adversarial testing of GNWT and IIT
 

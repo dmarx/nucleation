@@ -20,7 +20,7 @@ summary: >-
   stance credited to it, and then built on, outlives the discovery that
   the population never held it.
 ---
-<!-- inactive-ok-file: CLAIM-415 CASE-140 QUESTION-119 THEORY-242 LIT-1370 LIT-1390 — Proposed or Unavailable; claims, questions, cases and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-415 CASE-140 QUESTION-119 LIT-1370 LIT-1390 — Proposed or Unavailable; claims, questions, cases and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-261: When most members of a group privately reject a norm that a vocal minority and widespread silence make look overwhelmingly supported, does correcting information about the actual distribution of opinion dissolve the apparent consensus, or has the public norm by then acquired an institutional force that no longer depends on anyone believing it is supported?
 

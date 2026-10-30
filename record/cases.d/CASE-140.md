@@ -22,7 +22,7 @@ summary: >-
   from the social authority attributed to it." As stipulated it predicts
   nothing; run with real people, it would test [CLAIM-415](../claims.d/CLAIM-415.md).
 ---
-<!-- inactive-ok-file: CLAIM-415 CLAIM-425 QUESTION-119 THEORY-242 TERM-075 LIT-1370 — Proposed or Unavailable; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-415 CLAIM-425 QUESTION-119 TERM-075 LIT-1370 — Proposed or Unavailable; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-140: The attributed self: two people with similar dispositions hear the same negative characterization, one told it comes from a few critics and the other believing it speaks for nearly everyone who matters to them, so that the words are fixed and only their attributed breadth differs
 

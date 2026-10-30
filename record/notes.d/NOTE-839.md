@@ -29,7 +29,7 @@ summary: >-
   from a 2 × 2 model.
 ---
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim this reading bears on, open -->
-<!-- inactive-ok-file: THEORY-323 THEORY-304 — Proposed; the accounts this reading files -->
+<!-- inactive-ok-file: THEORY-323 — Proposed; the accounts this reading files -->
 
 # NOTE-839: Trefethen et al. — Hydrodynamic Stability Without Eigenvalues
 

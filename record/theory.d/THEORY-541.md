@@ -35,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-435 — Unavailable; the Copycat paper, cited by LIT-414 for the program's details, not leaned on -->
 <!-- inactive-ok-file: LIT-428 — Unavailable; the book Burns reviews, named and not leaned on -->
 <!-- inactive-ok-file: LIT-416 — Unavailable; Hofstadter's later essay, named as a neighbour, not leaned on -->
-<!-- inactive-ok-file: THEORY-462 THEORY-454 — Proposed; neighbouring accounts of representation and of perception, named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-454 — Proposed; neighbouring accounts of representation and of perception, named in Connections, not leaned on -->
 
 # THEORY-541: A model of discovery or analogy that is given representations built with the answer in view has been given most of the answer, as BACON was with Kepler's data and SME with its solar system and atom, and representation-building cannot be postponed to a separate module, because which representation is right depends on the task and on the analogy being made
 

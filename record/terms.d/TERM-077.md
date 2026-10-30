@@ -36,7 +36,7 @@ used_by:
 - CLAIM-448
 - CLAIM-451
 ---
-<!-- inactive-ok-file: TERM-078 TERM-076 THEORY-896 CLAIM-436 — Proposed; the terms built on this one, the second-hand reading of Monderer and Shapley, and the currency result it is distinguished from, cited as open -->
+<!-- inactive-ok-file: TERM-078 TERM-076 CLAIM-436 — Proposed; the terms built on this one, the second-hand reading of Monderer and Shapley, and the currency result it is distinguished from, cited as open -->
 
 # TERM-077: ordinal potential: of a negotiation over a finite set of options in a window of time, an ordering of the options that every move winning one of its conflicts climbs; it exists exactly when the wins never cycle, which is ordinal extendibility, that some complete ordering agrees with every win, and not observed comparability, since pairs never contested are not compared; and it is fixed only up to a class: every strictly increasing transform of one is one, and on a sparse record several orderings can be
 

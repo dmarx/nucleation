@@ -49,7 +49,7 @@ summary: >-
   a part, and the body gives each one's limit. Deferred with its line.
 ---
 <!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
-<!-- inactive-ok-file: THEORY-245 THEORY-296 THEORY-240 — Proposed; readings listed with their limits -->
+<!-- inactive-ok-file: THEORY-240 — Proposed; readings listed with their limits -->
 
 # QUESTION-061: In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?
 

@@ -32,7 +32,7 @@ summary: >-
   and A23 all gave. The owner's doubt was well placed; what survives is a
   condition, and the condition is the interesting part.
 ---
-<!-- inactive-ok-file: CLAIM-471 CLAIM-481 CLAIM-478 — Proposed or new; the claim this rests on, its objection and the claim that holds its conditional form -->
+<!-- inactive-ok-file: CLAIM-481 CLAIM-478 — Proposed or new; the claim this rests on, its objection and the claim that holds its conditional form -->
 
 # CLAIM-473: Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour
 

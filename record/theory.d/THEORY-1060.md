@@ -18,7 +18,6 @@ summary: >-
   standard ones for cohomology. It does not say that sheaves are a poor
   model, or that no theorem of this kind could be proved.
 ---
-<!-- inactive-ok-file: CLAIM-471 — Proposed; the claim that drew on the paper's word, cited as open -->
 
 # THEORY-1060: Robinson's claim that sheaves are the canonical data structure for sensor integration rests on an axiomatization, not a theorem: six axioms are posited as what an integrated sensor system must be and a sheaf is defined as whatever satisfies them, the paper calls sheaves one of many co-universal information representations, and its consistency and fusion tools need only a presheaf
 

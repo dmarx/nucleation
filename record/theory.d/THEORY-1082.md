@@ -21,7 +21,7 @@ summary: >-
   checked numerically. Active: a theorem, with the qualification that it
   concerns the relaxed linear problem, not the phase dynamics.
 ---
-<!-- inactive-ok-file: CLAIM-471 CLAIM-481 — Proposed or new; the claims this criterion bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-481 — Proposed or new; the claims this criterion bears on, cited as open -->
 
 # THEORY-1082: On a connected graph whose edges carry phase shifts αᵢⱼ = −αⱼᵢ, the edge relations zⱼ = e^{iαᵢⱼ}zᵢ have a common nonzero solution, equivalently the twisted Laplacian Lα = δα*δα has a zero mode, exactly when the phase accumulated around every cycle is 0 mod 2π; otherwise each relation can be met alone but not all together, and the smallest eigenvalue of Lα, positive, measures the residual incompatibility, which on an isolated ℓ-cycle is largest at holonomy π
 

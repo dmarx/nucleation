@@ -75,7 +75,7 @@ summary: >-
   drift has not been measured against pace. There is no slow exchange to
   compare it with, so the claim is Proposed and untested.
 ---
-<!-- inactive-ok-file: THEORY-323 THEORY-325 THEORY-304 — Proposed; the accounts filed from the readings of LIT-931, LIT-929 and LIT-932, cited in the note of 2026-10-11 and not leaned on -->
+<!-- inactive-ok-file: THEORY-323 THEORY-325 — Proposed; the accounts filed from the readings of LIT-931, LIT-929 and LIT-932, cited in the note of 2026-10-11 and not leaned on -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited for the two open problems the second crystallized argument left out -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->

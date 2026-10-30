@@ -35,7 +35,6 @@ bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-094 — Proposed; the evidential accounts this one sits beside, open -->
-<!-- inactive-ok-file: THEORY-245 — Proposed; the COGITATE reading, cited for the kind of evidence it is -->
 
 # THEORY-298: Report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory
 

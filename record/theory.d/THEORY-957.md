@@ -30,7 +30,7 @@ summary: >-
   necessary in general is supported by the matching lower bound, not shown
   here. Nothing here says what floor a non-learning system should keep.
 ---
-<!-- inactive-ok-file: CLAIM-446 THEORY-932 — Proposed; entries this account is compared with, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; entries this account is compared with, nothing here rests on their being settled -->
 # THEORY-957: When the signal law depends on the decision, Kwon and Perchet's approachability algorithm learns what each decision would reveal only from the stages on which it is played: it keeps every decision's probability at least γ/|I| and estimates the flag by importance weighting, an estimate that is conditionally unbiased with second moment Σ_i 1/P[i_t = i] ≤ |I|²/γ, with the tuned floor γ shrinking as T^-1/3; when the signal law does not depend on the decision, the raw signal is already unbiased for every component and no floor is used
 
 ## Source

@@ -43,7 +43,7 @@ summary: >-
   and that the growth is no more than order R, come from the computation
   and are not here.
 ---
-<!-- inactive-ok-file: THEORY-304 THEORY-323 — Proposed; the account this bound was split from and that cites it, and the general non-normality account, cited as open -->
+<!-- inactive-ok-file: THEORY-323 — Proposed; the account this bound was split from and that cites it, and the general non-normality account, cited as open -->
 
 # CLAIM-383: In plane Couette and plane Poiseuille flow, measured in the energy norm, the linearized operator about the laminar profile has transient growth at least cR and resolvent norm at least cR² with c independent of R, so wherever it is eigenvalue-stable a perturbation of norm at most CR⁻² makes it eigenvalue-unstable
 

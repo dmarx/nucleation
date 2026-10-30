@@ -89,7 +89,6 @@ bears_on:
 <!-- inactive-ok-file: THEORY-103 THEORY-094 — Proposed; filed in the same batch, the overflow account and the methodological account this one presupposes -->
 <!-- inactive-ok-file: THEORY-100 — Proposed; named in Connections as data this account reads, no relation claimed -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, the relation declared on its file -->
-<!-- inactive-ok-file: THEORY-296 — Proposed; the failed synchronization prediction, named in the note of 2026-10-14 -->
 
 # THEORY-098: The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex
 

@@ -19,7 +19,6 @@ summary: >-
   fact; it does not say how often the obstruction arises, what structure
   would express the reduced constraint, or anything about dynamics.
 ---
-<!-- inactive-ok-file: CLAIM-471 — Proposed; the gluing claim this bears on, cited as open -->
 
 # THEORY-1090: Eliminating an interior vertex of a cellular sheaf on a graph can leave its boundary a space of consistent assignments that no sheaf on the boundary vertices has: the interior can impose a constraint among boundary vertices that no set of pairwise compatibility conditions expresses, so Kron reduction, which turns the Laplacian of a connected graph into a graph Laplacian on any set of boundary vertices, fails for sheaves in general and holds when every vertex stalk has dimension at most one
 

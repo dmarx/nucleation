@@ -32,7 +32,6 @@ summary: >-
 illustrated_by:
 - CASE-039
 ---
-<!-- inactive-ok-file: CLAIM-471 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this claim undercuts -->
 <!-- inactive-ok-file: CLAIM-143 CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

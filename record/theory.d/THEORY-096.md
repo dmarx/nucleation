@@ -68,7 +68,6 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-103 THEORY-098 — Proposed; the rival accounts, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-094 THEORY-093 THEORY-023 — Proposed; named in prose for their bearing, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-245 — Proposed; the COGITATE prefrontal finding, named in the note of 2026-10-14, nothing here rests on it -->
 
 # THEORY-096: Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced
 
