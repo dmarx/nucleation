@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpt7p6d
 title: 'On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -20,6 +20,18 @@ history:
     written out below and checked. Under ADR-047 v2 (the owner's rule of
     2026-10-19), a step-by-step re-derivation in the decision file meets
     the condition. THEORY-565 keeps the analytic half and extends this one.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twenty-first status review, at the status review's ruling (the
+    owner delegated these rulings). LIT-981 is now read in full with every
+    equation seen (NOTE-tmpjjdsb), which supersedes the skim of NOTE-784.
+    The summary and Source said the paper was "skimmed in NOTE-784"; they
+    now name the full reading, and say that the paper's own diffusion
+    distance is the one its symmetric kernel ã^(m) induces, so that the
+    1/π-weighted definition used here is the companion's (LIT-1246), not
+    the paper's (ADR-047 kind 3). The title and the derivation are
+    unchanged.
 tags:
 - mathematics
 - representation-learning
@@ -27,8 +39,9 @@ date: '2026-10-19'
 source:
 - LIT-981
 summary: >-
-  Coifman et al. (2005), [LIT-981](../literature.d/LIT-981.md), skimmed in [NOTE-784](../notes.d/NOTE-784.md), with the derivation
-  written out here because the paper's equations were not seen. For n
+  Coifman et al. (2005), LIT-981, read in full in NOTE-tmpjjdsb, with
+  the derivation written out here; the 1/π-weighted distance is the
+  companion's (LIT-1246), not the paper's own. For n
   points and a symmetric affinity K with positive entries, A = D⁻¹K is a
   Markov matrix with stationary law π ∝ d. It is conjugate to the
   symmetric D^(-1/2) K D^(-1/2), so its eigenvalues are real and in
@@ -40,18 +53,20 @@ extended_by:
 - THEORY-565
 ---
 <!-- inactive-ok-file: THEORY-565 — Proposed; the analytic half this was split from and that extends it, cited as open -->
-<!-- inactive-ok-file: NOTE-784 — Skimmed; the reading the construction is named in, with the derivation supplied here -->
+<!-- inactive-ok-file: NOTE-784 — Superseded; the skim the construction was first filed from, named as such -->
 
 # THEORY-728: On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law
 
 ## Source
 
 Coifman, Lafon, Lee, Maggioni, Nadler, Warner & Zucker (2005), "Diffusion
-maps", *PNAS* 102(21), [LIT-981](../literature.d/LIT-981.md), skimmed in [NOTE-784](../notes.d/NOTE-784.md). The paper states the
-construction and the embedding in prose and calls them standard. Its
-displayed equations could not be seen. So the definitions below are the
-standard ones, in particular the 1/π weighting of the diffusion distance,
-and the derivation is the record's.
+maps", *PNAS* 102(21), [LIT-981](../literature.d/LIT-981.md), read in full in NOTE-tmpjjdsb (2026-10-30),
+which replaces the skim of [NOTE-784](../notes.d/NOTE-784.md). The paper states the construction
+and the embedding and calls them standard. Its own diffusion distance is
+the one its symmetric kernel ã^(m) induces, with the eigenfunctions of ã as
+coordinates. The definitions below are the companion's (LIT-1246), in
+particular the 1/π weighting of the diffusion distance, and the derivation
+is the record's.
 
 ## What was actually shown
 
@@ -91,9 +106,11 @@ holds.
 - **Anything about the continuum.** The α-family and the convergence of the
   α = 1 normalization to the Laplace–Beltrami operator are [THEORY-565](THEORY-565.md)'s,
   Proposed until the companion paper's proofs are read.
-- **That the weighting is the paper's.** The 1/π weighting is the standard
-  definition. [NOTE-784](../notes.d/NOTE-784.md) could not see the paper's formula. Without it the
-  identity does not hold.
+- **That the weighting is the paper's.** The 1/π weighting is the
+  companion's definition (LIT-1246). The paper's own distance, seen in
+  NOTE-tmpjjdsb, is induced by ã^(m) and has its own isometry in the
+  unrescaled coordinates. Without the weighting this identity does not
+  hold.
 - **How many coordinates to keep.** That is set by a precision threshold,
   not by any task.
 - **Anything for non-symmetric kernels.** A non-reversible walk has no

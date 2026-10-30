@@ -1,10 +1,10 @@
 ---
 number: 488
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqmsav
 title: 'Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -22,6 +22,24 @@ history:
     citations. 'Why it is Proposed' ended: 'It goes Active when the two
     works, or readings of them, are held and the steps are checked
     against them.'
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted at the twenty-first status review, at the status review's
+    ruling (the owner delegated these rulings). Its note of 2026-10-30
+    said the first step lacked Le Cam's randomization criterion for
+    finite experiments: "the converse, which makes deficiency the
+    approximate Blackwell order and not only a bound on it, is neither
+    read nor re-derived". The converse is now re-derived step by step
+    and checked (CLAIM-tmphhbgz, on Han's lecture, LIT-tmp44f5w, and van
+    Rooyen's fixed-prior Theorem 26, LIT-tmphckuv), and the first step
+    rests on it. The second step is the definition of a Wyner–Ziv
+    problem under its own condition. Every premise is Active, no
+    objection is live, and nothing meets defeated_if (ADR-057). "Why it
+    is Proposed", which ended "It goes Active when the first step's link
+    from deficiency to the order is held; the note of 2026-10-30 says
+    what that needs", becomes "Why it is Active", and the blocker notes
+    of 2026-10-29 and 2026-10-30 are removed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,6 +58,7 @@ works:
 - what-survives-translation
 rests_on:
 - CLAIM-381
+- CLAIM-tmphhbgz
 grounds:
 - THEORY-602
 complements:
@@ -69,30 +88,16 @@ deficiency is that measure. The audience brings knowledge the translator
 cannot condition on in the text, which is the decoder-side information of
 Wyner and Ziv.
 
-## Why it is Proposed
+## Why it is Active
 
-Both steps rest on works cited without a reading: Torgersen and Wyner-Ziv
-are Unavailable here. [CLAIM-050](CLAIM-050.md) said so in its own body. When [CLAIM-050](CLAIM-050.md) was
-narrowed on 2026-10-28 to what its read grounds carry, these steps moved
-here, so that the narrowing drops nothing silently.
+The first step's link is held: in the finite setting of [CLAIM-381](CLAIM-381.md), a
+deficiency of ε is exactly ε-approximation in every [0, 1]-loss problem
+(CLAIM-tmphhbgz), and ε = 0 is Blackwell's order (THEORY-717). For a family Q of
+tasks the deficiency restricted to Q is [CLAIM-381](CLAIM-381.md)'s finite computation,
+bounded by the unrestricted one; only the unrestricted one has the kernel
+form. The second step is the definition of a Wyner–Ziv problem, under the
+condition its defeated_if names. Torgersen and Wyner and Ziv stay cited,
+unread.
 
-It goes Active when the first step's link from deficiency to the order is
-held; the note of 2026-10-30 says what that needs.
-
-## Note of 2026-10-29: what holds it back
-
-Both steps rest on works the record has not read: Torgersen ([LIT-778](../literature.d/LIT-778.md)) for
-deficiency as the approximate Blackwell order, and Wyner and Ziv ([LIT-767](../literature.d/LIT-767.md))
-for decoder-only side information. It goes Active on readings of them, or on
-a checked re-derivation of Le Cam's randomization criterion for finite
-experiments, which would hold the first step.
-
-## Note of 2026-10-30: what holds it back
-
-Its first step still lacks Le Cam's randomization criterion for finite
-experiments. [CLAIM-381](CLAIM-381.md) defines the deficiency and computes it, and that a
-deficiency of ε bounds every [0, 1]-loss risk gap by ε follows in two
-lines from that definition; the converse, which makes deficiency the
-approximate Blackwell order and not only a bound on it, is neither read
-nor re-derived. The wait on Wyner and Ziv in the note of 2026-10-29 no
-longer applies: the second step is that problem's definition.
+These steps were split from [CLAIM-050](CLAIM-050.md) when it was narrowed on 2026-10-28 to
+what its read grounds carry, so that the narrowing drops nothing silently.

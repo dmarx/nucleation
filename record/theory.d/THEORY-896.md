@@ -11,13 +11,29 @@ promote_when: >-
   The mathematics is checked below. What waits is the attribution and the
   exact statement.
 title: 'A finite game in strategic form has the finite improvement property, every path of strict unilateral improvements being finite, exactly when it has a generalized ordinal potential, a real function on strategy profiles that rises with every strict unilateral improvement; so in a finite game an ordering along which every improving move climbs exists exactly when there is no improvement cycle, and every sequence of improving moves ends at a pure equilibrium'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twenty-first status review, at the status review's ruling (the
+    owner delegated these rulings). Apt's slides (LIT-tmpmz1an, read in
+    full in NOTE-tmp5wau0) join source: they state the equivalence for
+    generalized ordinal potentials, with the same definitions, and give a
+    finite game with the finite improvement property and no ordinal
+    potential, checked here. "What this does not say" said: "Whether the
+    paper characterizes ordinal potentials too, and under what condition
+    on indifference, is unread. The restatements disagree." The class is
+    now settled by that counterexample; only what the paper says remains
+    unread. The directive on LIT-1462 now gives its status, Unfetched. The
+    title and status are unchanged.
 tags:
 - game-theory
 - mathematics
 date: '2026-10-23'
 source:
 - LIT-1462
+- LIT-tmpmz1an
 summary: >-
   Monderer and Shapley (1996), [LIT-1462](../literature.d/LIT-1462.md), unread: reported by Duersch,
   Oechssler and Schipper (arXiv 1003.4274) as Lemma 2.5. A finite game
@@ -33,7 +49,7 @@ supports:
 corroborates:
 - CLAIM-434
 ---
-<!-- inactive-ok-file: LIT-1462 — Unavailable, unread; Monderer and Shapley 1996, the source this result is attributed to -->
+<!-- inactive-ok-file: LIT-1462 — Unfetched, unread; Monderer and Shapley 1996, the source this result is attributed to -->
 <!-- inactive-ok-file: TERM-076 CLAIM-440 CLAIM-436 THEORY-894 — Proposed or draft; the term and claims this result bears on, and the cardinal decomposition filed with it -->
 
 # THEORY-896: A finite game in strategic form has the finite improvement property, every path of strict unilateral improvements being finite, exactly when it has a generalized ordinal potential, a real function on strategy profiles that rises with every strict unilateral improvement; so in a finite game an ordering along which every improving move climbs exists exactly when there is no improvement cycle, and every sequence of improving moves ends at a pure equilibrium
@@ -58,6 +74,13 @@ corroborates:
   whether the class is generalized ordinal or ordinal. Their definitions
   of the improvement relation differ too, which is why the statement waits
   on the original.
+- Apt (2013), *Potential Games*, lecture slides, LIT-tmpmz1an, read in full
+  in NOTE-tmp5wau0. Slide 15: "Theorem (Monderer and Shapley '96) Every
+  finite game has a generalized ordinal potential iff it has the FIP",
+  (⇒) proved and (⇐) sketched by counting the improvement sequences
+  ending at each profile. Its definitions agree with those below (its
+  improvement paths are maximal, the same condition). No lemma number or
+  page.
 
 ## What was actually shown
 
@@ -119,9 +142,14 @@ the FIP ([NOTE-1116](../notes.d/NOTE-1116.md)).
 - **Nothing about the global maximum.** Improvement paths end at local
   maxima of P, pure equilibria, which need not be P's top.
 - **Generalized, not ordinal.** The FIP gives only that P rises with
-  strict improvements. Indifferent moves are unconstrained. Whether the
-  paper characterizes ordinal potentials too, and under what condition on
-  indifference, is unread. The restatements disagree.
+  strict improvements. Indifferent moves are unconstrained. The FIP does
+  not give an ordinal potential. Apt's slide 13 game, (T, L) = (1, 0),
+  (T, R) = (2, 0), (B, L) = (2, 0), (B, R) = (0, 1), has the acyclic
+  improvement graph (T, L) → (B, L) → (B, R) → (T, R). Player 2's
+  indifference between (T, L) and (T, R) would force an ordinal potential
+  to be equal there. So Duersch, Oechssler and Schipper's class is the
+  right one, and Biggar and Shames's one-way sentence is consistent with
+  it. What the paper itself says about ordinal potentials is unread.
 - **Nothing about infinite games.** Whether a game with infinitely many
   profiles and no improvement cycle has a real-valued potential is a
   different question, and the lexicographic case suggests it can fail. What
@@ -130,3 +158,11 @@ the FIP ([NOTE-1116](../notes.d/NOTE-1116.md)).
   improvements by players over joint profiles, not about a rule that
   aggregates rankings of one shared choice ([NOTE-1116](../notes.d/NOTE-1116.md), "Where it
   does not fit").
+
+## Note of 2026-10-30: what holds it back
+
+Its promote_when asks for Monderer and Shapley (LIT-1462) read first-hand,
+for the lemma's number, page and wording, and that is still unmet: Apt
+(LIT-tmpmz1an) credits "Monderer and Shapley '96" with no lemma or page. The
+mathematics is proved here and Apt states the same equivalence for the same
+class; only the attribution's exact form waits.
