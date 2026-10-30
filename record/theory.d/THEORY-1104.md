@@ -175,7 +175,7 @@ Myxococcota signal it did not.
   of the core metabolic network". The measures differ.
 - **[THEORY-1101](THEORY-1101.md)**, from the same paper, is why this one makes no timing
   claim of its own.
-- **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., read in NOTE-1234).** The record summarizes it as a complex
+- **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., read in [NOTE-1234](../notes.d/NOTE-1234.md)).** The record summarizes it as a complex
   archaeal host before a late mitochondrion. That is this paper's scenario,
   not its rival.
 - **[QUESTION-277](../questions.d/QUESTION-277.md).** It bears on G: on this account the host lineage supplies

@@ -156,7 +156,7 @@ in dispute.
   carbon metabolism, Planctomycetota–Verrucomicrobiota and Myxococcota–
   Desulfobacterota both appear as sisters, as this account would expect.
   But that paper finds "no additional dominant source of gene donations".
-- **[LIT-1595](../literature.d/LIT-1595.md) (Pittis & Gabaldón 2016, read in NOTE-1240).** This is that programme's
+- **[LIT-1595](../literature.d/LIT-1595.md) (Pittis & Gabaldón 2016, read in [NOTE-1240](../notes.d/NOTE-1240.md)).** This is that programme's
   continuation, now with named donors.
 - **[QUESTION-277](../questions.d/QUESTION-277.md).** This is the "distributed" side of the record's live
   disagreement. The distribution shown is of gene donors, so it bears on G.
