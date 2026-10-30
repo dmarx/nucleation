@@ -218,4 +218,4 @@ representations are recurrent like seen items' rather than feedforward
 like masked ones, and no first-hand reading of Sperling, Landman et al.,
 Sligte et al. or the critics Block answers. Block calls the issue
 "certainly still open" and rests the step on a plausibility argument (C5
-in NOTE-500).
+in [NOTE-500](../notes.d/NOTE-500.md)).

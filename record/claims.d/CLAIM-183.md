@@ -78,4 +78,4 @@ filer's; [THEORY-137](../theory.d/THEORY-137.md) is about corporate criminal law
 It is one instance, U40, and its defeat condition is stated over further
 exchanges: no later exchange is recorded in which a fed-back view
 produced a move the participants acted on that rereading the source
-entries would not have given. Its premise CLAIM-178 is Proposed.
+entries would not have given. Its premise [CLAIM-178](CLAIM-178.md) is Proposed.

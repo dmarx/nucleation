@@ -329,8 +329,8 @@ reading supports nothing beyond it.
 ## Note of 2026-10-29: what holds it back
 
 Its first defeater is unanswered: no consequence of "constituted" has been
-shown that does not follow from CLAIM-469's operational facts, and the
-CEGAR reading (NOTE-1231) supports only those; QUESTION-284, which asks
+shown that does not follow from [CLAIM-469](CLAIM-469.md)'s operational facts, and the
+CEGAR reading ([NOTE-1231](../notes.d/NOTE-1231.md)) supports only those; [QUESTION-284](../questions.d/QUESTION-284.md), which asks
 for a criterion telling constitution from characterization, is Open, and
 the two-apparatus experiment above is unbuilt. It is also stated in
-TERM-087's agential sense, which waits on a reading of Barad herself.
+[TERM-087](../terms.d/TERM-087.md)'s agential sense, which waits on a reading of Barad herself.

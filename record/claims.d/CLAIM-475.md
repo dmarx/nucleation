@@ -122,7 +122,7 @@ expanding the set of questions that can meaningfully be investigated under
 fixed resources", and a new framework can change the shape of that set as
 well as its size. It gives the claim a test (defeater b). A17's words name
 the investigable set, the askable questions with budget left to pursue them
-(TERM-092). Defeater (b) tests the askable set, which bounds the investigable
+([TERM-092](../terms.d/TERM-092.md)). Defeater (b) tests the askable set, which bounds the investigable
 from above, so a framework that makes new questions formulable meets the test
 even where pursuing them stays out of reach.
 

@@ -22,9 +22,9 @@ promote_when: >-
   languages cannot settle it, since they carry the confounds the claim
   is about.
 summary: >-
-  The wide form of Raviv, Meyer and Lev-Ari (2019), LIT-825, kept here when
-  the fifteenth status review narrowed THEORY-164 to what their experiment
-  showed and promoted it (ADR-047, kind 1). The paper asserts that larger
+  The wide form of Raviv, Meyer and Lev-Ari (2019), [LIT-825](../literature.d/LIT-825.md), kept here when
+  the fifteenth status review narrowed [THEORY-164](THEORY-164.md) to what their experiment
+  showed and promoted it ([ADR-047](../decisions.d/ADR-047.md), kind 1). The paper asserts that larger
   groups make an emerging language more systematic and that the greater
   variety of input they face drives the effect. One laboratory study with
   two group sizes found the size effect, and the mechanism rests on lagged
@@ -37,8 +37,8 @@ summary: >-
 ## Source
 
 Limor Raviv, Antje Meyer and Shiri Lev-Ari (2019), *Proc. R. Soc. B*
-286:20191262, LIT-825; read in NOTE-628 (main text; the supplementary
-models were not read). What the experiment showed is THEORY-164, which
+286:20191262, [LIT-825](../literature.d/LIT-825.md); read in [NOTE-628](../notes.d/NOTE-628.md) (main text; the supplementary
+models were not read). What the experiment showed is [THEORY-164](THEORY-164.md), which
 this entry extends.
 
 ## The claim

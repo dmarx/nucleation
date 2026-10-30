@@ -233,6 +233,6 @@ protection of an injury vanishing with basic arousal while reflex
 withdrawal survives. Both sources argue from cited findings whose
 feltness is the point at issue, and the function clause is argued from
 felt pain's advantages, which presupposes that the pain is felt. Once
-CLAIM-435's other premises are held, a split on THEORY-1110's pattern, an
+[CLAIM-435](../claims.d/CLAIM-435.md)'s other premises are held, a split on [THEORY-1110](THEORY-1110.md)'s pattern, an
 Active reading of what Newen and Montemayor propose, is the route that
-would make CLAIM-435's ground held.
+would make [CLAIM-435](../claims.d/CLAIM-435.md)'s ground held.

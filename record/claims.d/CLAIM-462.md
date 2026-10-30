@@ -141,7 +141,7 @@ well as "ordinary action" (A9).
   is that correction "should depend on appropriately constituted and
   reviewable procedures—not simply on whether the actor exercising power
   consents to being corrected".
-- **That it is new.** Cover ([LIT-1601](../literature.d/LIT-1601.md)), read in NOTE-1384, holds a
+- **That it is new.** Cover ([LIT-1601](../literature.d/LIT-1601.md)), read in [NOTE-1384](../notes.d/NOTE-1384.md), holds a
   version of it for courts: a judgment corrects only through the roles
   that carry it into deeds, a different relation from the one that makes
   it right. He does not treat the correction of one institution by

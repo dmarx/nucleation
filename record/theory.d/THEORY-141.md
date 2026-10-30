@@ -112,5 +112,5 @@ units or comparative work across independent transitions has been read
 showing that the collectives which evolved adaptations of their own are
 those in which selection among their members was suppressed or their
 interests aligned. It could be narrowed to what Okasha holds, keeping
-the wide form as a Proposed THEORY under ADR-047's kind 1, if a claim
+the wide form as a Proposed THEORY under [ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a claim
 comes to need only that.

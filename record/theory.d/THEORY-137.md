@@ -127,4 +127,4 @@ comparative case has been read in which an institution attributed a
 state it lacked then built the structure that made the attribution true,
 beyond what the penalty alone explains. It could be narrowed to what
 Tollefsen argues, keeping the wide form as a Proposed THEORY under
-ADR-047's kind 1, if a claim comes to need only that.
+[ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a claim comes to need only that.

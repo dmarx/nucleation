@@ -73,8 +73,8 @@ senses of "organization" are found to carry it.
 ## Note of 2026-10-29: what holds it back
 
 Its settle condition is that claims cite the sense they mean, and only
-CLAIM-474 does (TERM-095 cites the descriptive sense). CLAIM-477's "a
+[CLAIM-474](../claims.d/CLAIM-474.md) does ([TERM-095](TERM-095.md) cites the descriptive sense). [CLAIM-477](../claims.d/CLAIM-477.md)'s "a
 constraint that does individuating work" is the constitutive sense and
-CLAIM-478's "scale separation as a mechanism of individuation" the
+[CLAIM-478](../claims.d/CLAIM-478.md)'s "scale separation as a mechanism of individuation" the
 dynamical one, and neither says so; whether those two senses differ in
-a given case is QUESTION-284's question.
+a given case is [QUESTION-284](../questions.d/QUESTION-284.md)'s question.

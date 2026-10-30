@@ -104,10 +104,10 @@ reasoning in progress, not only the review of finished claims.
 ## Note of 2026-10-29: what holds it back
 
 Its promote_when is unmet in both halves: the books in which Longino
-makes the argument (LIT-717, LIT-732) are unread, so the norms and the
+makes the argument ([LIT-717](../literature.d/LIT-717.md), [LIT-732](../literature.d/LIT-732.md)) are unread, so the norms and the
 underdetermination premise are checked only against her own summary in
 §5 of the SEP entry, and no evidence has been read that communities
 meeting the four norms, measured independently, track truth better or
 correct error faster. It could be narrowed to what the entry argues,
-keeping the wide form as a Proposed THEORY under ADR-047's kind 1, if a
+keeping the wide form as a Proposed THEORY under [ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a
 claim comes to need only that.
