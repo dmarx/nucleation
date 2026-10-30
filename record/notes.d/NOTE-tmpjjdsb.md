@@ -1,0 +1,247 @@
+---
+status: Read
+paper: LIT-981
+title: 'Coifman et al. — Diffusion maps (full reading)'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Read in full from the published PDF on co-author Zucker's Yale page
+    (www.cs.yale.edu/homes/vision/zucker/papers/CLLMNWZ05_PNAS_1.pdf, 6
+    pages). Checked to be the diffusion-maps paper and not its companion:
+    title "Geometric diffusions as a tool for harmonic analysis and
+    structure definition of data: Diffusion maps", PNAS 102(21),
+    7426–7431, May 24, 2005, contributed by R. R. Coifman January 13,
+    2005, DOI 10.1073/pnas.0500334102; the companion on multiscale
+    methods is its ref. 18, pp. 7432–7437. Text extracted with pdftotext;
+    every page was also viewed as an image, column by column, and the
+    displayed equations (Eqs. 1–14, Theorem 2.1, the boxed algorithm) and
+    the five figures were read from the images, the theorem and Eqs. 5,
+    11, 13 and 14 at high resolution. The cited works, including Coifman
+    and Lafon's companion (ref. 9, held as LIT-1246 and read in
+    NOTE-985), were not re-read for this note. Page numbers are the
+    journal's. This reading replaces the skim of NOTE-784, whose
+    equations were not visible.
+date: '2026-10-30'
+summary: >-
+  With the equations visible, the paper's diffusion distance is the
+  distance induced by the symmetric kernel ã^(m), D_m² = ã^(m)(x, x) +
+  ã^(m)(y, y) − 2ã^(m)(x, y), with ã's eigenvalues written λ_i², so that
+  the map x ↦ (λ_i^m φ_i(x)) is an exact isometry for it. The truncation
+  is claimed with a relative error 1 + O(e^{−αm}). Theorem 2.1, the
+  ε → 0 heat-kernel limit of the α = 1 normalization, and the α-family
+  (Eq. 14) are stated without proof; the sampling condition is that
+  each ball of radius √ε hold enough points. Eq. 5 and Eq. 14 give the
+  α = 0 potential opposite signs.
+---
+<!-- inactive-ok-file: THEORY-565 — Proposed; the account this reading bears on, cited as open -->
+<!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading this one replaces -->
+
+# NOTE-tmpjjdsb: Coifman et al. — Diffusion maps (full reading)
+
+## Contribution
+
+The paper proposes diffusion maps as a general way to give a data set or
+graph a multiscale geometry. A local affinity is normalised into a Markov
+operator, and the leading eigenfunctions of its powers embed the data so
+that Euclidean distance is a diffusion distance. A one-parameter family of
+normalisations decides how much the sampling density shapes the limit
+operator, and α = 1 removes it. It adds an anisotropic kernel for data from
+a Langevin system, a "directed diffusion" along the level sets of a given
+function, and diffusion of labels for semi-supervised classification. The
+proofs are in other papers.
+
+## Key insight
+
+Iterating a local walk turns local similarity into global geometry, and the
+walk's spectrum gives coordinates for it at every scale. Two points are
+close at scale m when many short paths join them. Dividing the kernel by
+the density estimate at both ends, before the walk is normalised, leaves a
+walk whose small-ε limit sees only the manifold.
+
+## Assumptions
+
+- **The kernel (p. 7427).** k is symmetric, k(x, y) = k(y, x); positivity
+  preserving, k(x, y) ≥ 0; and positive semi-definite,
+  ∫∫ k(x, y) f(x) f(y) dμ(x) dμ(y) ≥ 0 for bounded real f, with μ a
+  probability measure on X.
+- **Manifold data (pp. 7427–7428).** X lies approximately on a submanifold
+  ℳ ⊂ ℝⁿ with density p(x), "not necessarily uniform"; kernels are
+  isotropic, k_ε(x, y) = h(‖x − y‖²/ε). For the theorem, ℳ is compact and
+  "the data points are relatively densely sampled (each ball of radius √ε
+  contains enough sample points so that integrals can be approximated by
+  discrete sums)"; with a boundary, Δ₀ acts "with Neumann boundary
+  conditions".
+- **Theorem 2.1's estimates** are "relative to any fixed space of
+  bandlimited functions".
+- **The stochastic system (p. 7429).** Langevin dynamics
+  ẋ = −∇U(x) + √2 ẇ, with stationary Boltzmann density p = e^{−U}/Z.
+
+## Key results
+
+- **The walk (p. 7427).** v(x) = ∫ k(x, y) dμ(y), a(x, y) = k(x, y)/v(x),
+  ∫ a(x, y) dμ(y) = 1 (Eq. 1), Af(x) = ∫ a(x, y) f(y) dμ(y).
+- **The symmetric conjugate (Eqs. 2–4).** ã(x, y) = a(x, y) √(v(x)/v(y))
+  "can be verified" to be symmetric, with ã(x, y) = Σ_{i≥0} λ_i² φ_i(x)
+  φ_i(y), λ₀ = 1 ≥ λ₁ ≥ λ₂ ≥ …, and ã^(m)(x, y) = Σ λ_i^{2m} φ_i(x) φ_i(y).
+  The eigenvalues of ã are written λ_i², so ã^m has λ_i^{2m}.
+- **Diffusion maps and distances (p. 7427).** Φ_m(x) = (λ₀^m φ₀(x),
+  λ₁^m φ₁(x), …) and D_m²(x, y) = ã^(m)(x, x) + ã^(m)(y, y) −
+  2ã^(m)(x, y). Also D_{2m}²(x, y) = ∫ |ã^(m)(x, z) − ã^(m)(y, z)|² dz.
+  The spectral identity ‖Φ_m(x) − Φ_m(y)‖² = Σ_j λ_j^{2m}(φ_j(x) −
+  φ_j(y))² = D_m²(x, y) is exact, being the feature-map form of the kernel
+  ã^(m).
+- **Truncation (p. 7427).** Keeping the first j₀ coordinates,
+  D_m²(x, y) = Σ_{j<j₀} λ_j^{2m}(φ_j(x) − φ_j(y))² (1 + O(e^{−αm})) =
+  ‖x̌ − y̌‖² (1 + O(e^{−αm})), so "there exists an m₀ such that for all
+  m ≥ m₀" the map is approximately isometric. No proof; α is not
+  defined there.
+- **The density's effect (p. 7428).** With the plain normalisation and
+  non-uniform density the limit is "conjugate to an elliptic
+  Schrödinger-type operator having the more general form Δ + Q, where
+  Q(x) = Δp(x)/p(x)"; with p = e^{−U}, "Δφ + (‖∇U‖² − ΔU)φ" (Eq. 5), said to
+  be "the adjoint of the infinitesimal generator of the backward
+  operator, given by Δφ − 2∇φ·∇U" (Eq. 6).
+- **Theorem 2.1 (p. 7428).** With Δ_ε = (I − A_ε)/ε and "it can be verified
+  that Δ_ε = Δ₀ + ε^{1/2} R_ε, where Δ₀ is a multiple of the
+  Laplace–Beltrami operator Δ on ℳ, and R_ε is bounded on a fixed space of
+  bandlimited functions": for fixed t > 0, as ε → 0,
+  A_ε^{t/ε} = (I − εΔ_ε)^{t/ε} = (I − εΔ₀)^{t/ε} + O(ε^{1/2}) =
+  e^{−tΔ₀} + O(ε^{1/2}), and its kernel is
+  Σ_j λ_j^{(2t/ε)} φ_j^{(ε)}(x) φ_j^{(ε)}(y) = Σ_j e^{−ν_j² t} φ_j(x) φ_j(y)
+  + O(ε^{1/2}) = h_t(x, y) + O(ε^{1/2}), with ν_j² and φ_j the limiting
+  Laplacian's eigenvalues and eigenfunctions and h_t the heat kernel.
+  The operator is the boxed one: p_ε(x) = ∫ k_ε(x, y) p(y) dy,
+  k̂_ε(x, y) = k_ε(x, y)/(p_ε(x) p_ε(y)), v_ε(x) = ∫ k̂_ε(x, y) p(y) dy,
+  a_ε(x, y) = k̂_ε(x, y)/v_ε(x). No proof is given.
+- **Anisotropic diffusion (pp. 7429–7430).** The plain normalised
+  Laplacian corresponds to a Fokker–Planck operator with potential 2U
+  (Eq. 6); the kernel k̃_ε(x, y) = k_ε(x, y)/√(p_ε(x) p_ε(y)) (Eq. 12)
+  gives, by "a similar analysis", the one with potential U, so its first
+  eigenvectors capture the long-time behaviour of Eq. 7, "an empirical
+  method for homogenization".
+- **The α-family (p. 7430).** k_ε^{(α)}(x, y) = k_ε(x, y)/(p_ε^α(x)
+  p_ε^α(y)) (Eq. 13), "for some α > 0". "It can be shown (9) that the
+  forward infinitesimal operator generated by this diffusion is
+  H_f^{(α)}φ = Δφ − (e^{(1−α)U} Δ e^{−(1−α)U})φ" (Eq. 14). α = 0 gives the
+  normalised graph Laplacian, α = 1 the Laplace–Beltrami operator, α = 1/2
+  the backward Fokker–Planck operator; with α = 1 "the density e^{−U}
+  playing absolutely no role". Ref. 9 is Coifman and Lafon's "Diffusion
+  maps", in press.
+- **Directed diffusion (p. 7431).** The distance in the Gaussian kernel is
+  replaced by D_ε²(x, y) = d²(x, y)/ε + |F(x) − F(y)|²/ε², so the limit
+  diffuses along the level sets of F and the first non-constant
+  eigenfunction is constant on them (Fig. 4). The kernel stays symmetric.
+- **Learning by diffusion (p. 7431).** Diffused label indicators A^t χ_i,
+  read as posteriors, classify a partially labelled hyperspectral
+  pathology image; the result "agrees significantly better with a
+  specialist's view" than nearest-neighbour or Gaussian classifiers
+  (Fig. 5). No accuracy is reported.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | From a symmetric, positivity-preserving, positive semi-definite kernel, the normalised walk is conjugate to a symmetric operator with a spectral decomposition | strong | Eq. 2, "can be verified"; standard and checked in THEORY-728 |
+| C2 | Euclidean distance between diffusion-map coordinates equals the diffusion distance D_m, as the paper defines it | strong | exact identity from Eq. 4 |
+| C3 | Truncating to the leading j₀ coordinates keeps D_m to a relative error 1 + O(e^{−αm}) | weak as stated | asserted; the neglected terms are not bounded relative to the kept ones, the defect THEORY-745 records for the companion's Proposition 1 |
+| C4 | With the α = 1 normalisation, A_ε^{t/ε} converges to the Laplace–Beltrami heat semigroup at rate O(ε^{1/2}) on bandlimited functions, whatever the sampling density | moderate | Theorem 2.1, stated without proof; the proof is in the companion (LIT-1246), read in NOTE-985 and THEORY-744 |
+| C5 | The α-normalised walk's generator is Δ − e^{(1−α)U} Δ e^{−(1−α)U}; α = 0, 1/2, 1 give potential 2U, potential U and Laplace–Beltrami | moderate | Eq. 14, "it can be shown (9)" |
+| C6 | Diffused labels classify a hyperspectral image better than nearest neighbours or Gaussian classifiers | weak | one image, a specialist's judgement, no numbers |
+
+## Concepts
+
+- **Diffusion distance D_m** — here the distance induced by the symmetric
+  kernel ã^(m) (p. 7427). It is not the distance between the m-step
+  transition rows weighted by the inverse stationary density, which is
+  Coifman and Lafon's definition (LIT-1246) and THEORY-728's. The two
+  differ by the rescaling of each coordinate by the square root of the
+  stationary density: the paper's coordinates are the eigenvectors φ_i of
+  the symmetric ã, not the right eigenvectors φ_i/√π of the walk.
+- **Diffusion map Φ_m** — x ↦ (λ_i^m φ_i(x))_i, with λ_i² the eigenvalues
+  of ã.
+- **Directed diffusion** — diffusion made anisotropic along a given
+  function's level sets; a symmetric kernel, not a non-reversible walk.
+
+## Connections
+
+It builds on Chung's normalised graph Laplacian, Belkin and Niyogi's
+Laplacian eigenmaps and the manifold-learning methods it lists (refs. 3–7).
+Its proofs are deferred to Coifman and Lafon's "Diffusion maps" (ref. 9,
+LIT-1246, read in full in NOTE-985) and Nadler et al. on anisotropic
+diffusion (ref. 10). The companion PNAS paper on multiscale methods is ref.
+18. THEORY-728 states and proves the finite construction; THEORY-744 states
+the α-family's small-ε limit from the companion; THEORY-745 corrects the
+companion's truncation bound, which this paper states in the same relative
+form. Zhai (LIT-975, §5.3) relates his power kernels to the diffusion
+distance.
+
+## Bearing on the record
+
+- **THEORY-565: partly.** Its promote_when asks for a Read NOTE on a copy
+  whose equations can be read, together with Coifman and Lafon's
+  companion, that follows the proofs of Theorem 2.1 and of the α-family
+  and states their sampling conditions; it is promoted if the α = 1
+  limit is Laplace–Beltrami with no dependence on the sampling density
+  under conditions that can be stated. This note supplies the first part:
+  the paper's equations are now read, and it confirms that Theorem 2.1 and
+  Eq. 14 are stated here without proof and that its sampling condition is
+  only "each ball of radius √ε contains enough sample points". The proofs
+  are not in this paper. The other half of the promote_when, the
+  companion read in full, is NOTE-985, filed 2026-10-20 before this
+  reading, with THEORY-744 Active on the α-family's limit (α = 1: Brownian
+  motion on the manifold, "with no trace of the density") and NOTE-985's
+  record that the heat-kernel proof's semigroup step "does not follow as
+  written". So whether THEORY-565 is now met depends on how the status
+  review weighs NOTE-985's reservation about the heat-kernel step; this
+  reading adds nothing to that question. Two points in THEORY-565's text
+  need correcting from the reading:
+  - its "What was actually shown" defines the diffusion distance as the
+    inverse-stationary-weighted distance "(the standard definition; the
+    paper's formula was not seen)". The paper's formula is now seen, and
+    it is the ã^(m)-induced distance above, which is not that one;
+  - it says truncation is "approximately isometric for m beyond some m₀",
+    which is the paper's claim; the paper states it as a relative error,
+    and THEORY-745's objection applies.
+- **THEORY-728 (Active).** Its isometry is for the inverse-stationary-
+  weighted distance of the companion, not for the distance this paper
+  defines; both isometries hold, for different coordinates. Its text
+  should not cite this paper for the weighted definition.
+- **NOTE-784.** This reading replaces it. The skim's statements stand
+  except its definition of the diffusion distance, given as "the standard
+  definition; the paper's formula was not seen", which the paper does not
+  use.
+- **The sign of the α = 0 potential.** Eq. 5 writes the α = 0 limit as
+  Δφ + (‖∇U‖² − ΔU)φ, and Eq. 14 at α = 0 gives Δφ − (e^U Δ e^{−U})φ =
+  Δφ − (‖∇U‖² − ΔU)φ. With Δ the analyst's Laplacian of Eqs. 6 and 9,
+  conjugating Eq. 6 by e^{U} gives Eq. 14's sign. Eq. 5 is also called the
+  adjoint of Eq. 6, where it is a conjugate (the symmetrised form). The
+  record's THEORY-744, from the companion, uses the non-negative
+  Laplacian and is unaffected.
+- The LIT's anthology-candidate flag stands, for the manifold-learning
+  content. No instruction for machine-learning practice in the reading.
+
+## Limitations
+
+- **No proofs.** Theorem 2.1, Eq. 14, the anisotropic limit and the
+  truncation bound are stated and referred elsewhere.
+- **Sampling conditions are qualitative.** "Relatively densely sampled",
+  with no rate, no number of points and no dependence of the error on the
+  density.
+- **Misprints.** In Eq. 11's gloss the Fokker–Planck eigenvalues in
+  e^{−λ_j t} are written "λ₀ = 1 > λ₁ ≥ λ₂ ≥ …", where the stationary mode
+  needs λ₀ = 0 and the others increasing. The Gaussian on p. 7426 is
+  printed e^{(1−(x_i·x_j)/ε)}, missing its minus sign. The box writes
+  k̂_ε(x̌, y) for k̂_ε(x, y). Eq. 13 is "for some α > 0" and α = 0 is then
+  one of its cases. D_{2m} integrates against dz, the rest against dμ.
+- **The classification example** has no accuracy, no baseline numbers and
+  one image.
+
+## Open questions
+
+- Under what quantitative sampling condition does the α = 1 limit hold for
+  finite samples? The paper does not say; the companion's §5 is where the
+  record has it (NOTE-985).
+- An absolute bound for the truncation in this paper's coordinates, as
+  THEORY-745 gives for the companion's.
