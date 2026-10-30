@@ -72,7 +72,7 @@
 ## From Variations in translation are transformations between pragmatic frames of reference that preserve selected invariants of the communicative act
 
 - [CLAIM-102](../record/claims.d/CLAIM-102.md) — Variations in translation are transformations between pragmatic frames of reference that preserve selected invariants of the communicative act *(Superseded)*
-  - [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases *(Proposed)*
+  - [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases *(Active)*
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
