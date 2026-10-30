@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpf301t
 title: 'In flow an activity''s immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -18,6 +18,17 @@ history:
     flow is reported as effortless. The dropped reading,
     synchronization in a dynamical sense, is what ARG-016 holds does
     not carry; it needs no entry of its own.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-914 (Nakamura and Csikszentmihalyi) and LIT-910 (Bruya, ed.),
+    both Unavailable and read by no NOTE, leave grounds. The body cites
+    LIT-914 for the description of flow and LIT-910 for the phenomenon
+    of effortless attention, attributions both; the explanation of
+    effortlessness stands on THEORY-070, which stays in grounds, and on
+    CLAIM-169. The body keeps both citations. The text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,8 +51,6 @@ rests_on:
 - CLAIM-169
 grounds:
 - THEORY-070
-- LIT-914
-- LIT-910
 uses:
 - TERM-050
 complements:

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7vmnc
 title: 'Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -15,6 +15,17 @@ history:
     comment note that Kanerva's book is Unavailable, so the
     critical-distance point stays unchecked against it. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-928, Kanerva's book, Unavailable and read by no NOTE (searched
+    2026-10-14), leaves grounds. The body cites it, marked unread, as
+    where the critical distance comes from; the claim's statement of the
+    critical distance is NOTE-242's reading of LIT-269 (App. B.5), which
+    stays in grounds with LIT-918 and LIT-921. The body keeps the
+    citation. The text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,7 +46,6 @@ rests_on:
 - CLAIM-182
 grounds:
 - LIT-269
-- LIT-928
 - LIT-918
 - LIT-921
 summary: >-
@@ -130,3 +140,14 @@ Two further points follow from the models, both untested here:
   the one most likely to overwrite its earlier form, the converse of this
   claim's concern that a distant one is taken for new. Both follow from
   retrieval by content, and a code avoids both. Analogy only.
+
+## Note of 2026-10-30: what holds it back
+
+The test it proposes has not been run: no restatement in the reconstructed
+exchanges has had its distance from the original measured and set against
+whether it was re-derived as though new, and no count compares re-derivation
+of coded and uncoded items. Its premise CLAIM-182 is Proposed for the same
+want, a count of re-derivation before and after the same content got
+addresses. Kanerva's book (LIT-928), where the critical distance is derived,
+is unread; the claim's statement of it rests on NOTE-242's reading of
+LIT-269.

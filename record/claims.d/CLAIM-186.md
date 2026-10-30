@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpvc1pj
 title: 'How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -26,6 +26,18 @@ history:
     deterministic examples and that damping stabilizes. The papers are no
     longer marked unread, LIT-929 is added to grounds, and the Deferred
     comment removed. The claim and its status are unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-927 (Langer) and LIT-925 (Witten and Sander), both Unavailable
+    and read by no NOTE, leave grounds. The body never cites them: its
+    crystal-growth paragraph is the analogy, which "What it does not
+    say" declines to carry over, and NOTE-708 records that the
+    nucleation review read does not treat morphological instability.
+    LIT-931, LIT-932 and LIT-929, read, stay in grounds. The claim and
+    its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,8 +65,6 @@ grounds:
 - LIT-931
 - LIT-932
 - LIT-929
-- LIT-927
-- LIT-925
 summary: >-
   Proposed by the assistant on 2026-10-11, while correcting its own
   crystal analogy ([CLAIM-181](CLAIM-181.md)), and filed at the owner's request

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp2jolp
 title: 'Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -21,6 +21,17 @@ history:
     Ashby's recurrent-situation chapter: separate stores keyed to the
     situation, with interference growing with similarity. The claim is
     unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-924, De Yoreo and Vekilov's review, Unavailable and read by no
+    NOTE, leaves grounds. The body never cites it: the claim stands on
+    ADR-032's rule and on CLAIM-177 and CLAIM-483, and the note of
+    2026-10-11 records that the two nucleation works since read
+    (NOTE-708, NOTE-709) do not support a threshold that is a count. The
+    text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,8 +52,6 @@ rests_on:
 - CLAIM-185
 - CLAIM-177
 - CLAIM-483
-grounds:
-- LIT-924
 summary: >-
   The filing rule of [ADR-032](../decisions.d/ADR-032.md) ("a thing gets a code the second time it
   turns up"), read as one trigger of persistence ([CLAIM-185](CLAIM-185.md)), and
@@ -150,3 +159,13 @@ half stays [CLAIM-177](CLAIM-177.md), which is now Active. Its comparative half,
 an argument" needs the comparative half, that identity drift and not
 missing structure is what defeats such an argument, so it now rests on
 both.
+
+## Note of 2026-10-30: what holds it back
+
+Two premises are Proposed: CLAIM-185, which waits on CASE-183's inbound
+references per code, and CLAIM-483, whose comparison was counted in one
+exchange. The comparison its defeat condition names has not been made: no
+record that codes on first occurrence or only on request has had its drift
+and filing cost set beside this one's, so whether "second" is the right
+number is untested. CLAIM-181's objection, that the grammar a coded thing is
+filed in shapes it, is unanswered.

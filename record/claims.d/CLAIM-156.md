@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp7lzto
 title: 'Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -21,6 +21,17 @@ history:
     its momentary dominance to its control of action, and leaves the
     discount curves as they were. It now says what the defeat
     condition tests, an effect not fully mediated by discounting.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-916, Ge et al. (2024), Unavailable and known only from a summary
+    of its abstract, leaves grounds, as LIT-906 did at the eighth
+    review: the body cites it, marked unread, as evidence for the test
+    that tells the routes apart, and the claim's mechanism is stated in
+    TERM-017's terms and rests on CLAIM-169 and CLAIM-027. The body
+    keeps the citation. The text is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,8 +53,6 @@ answers:
 rests_on:
 - CLAIM-169
 - CLAIM-027
-grounds:
-- LIT-916
 uses:
 - TERM-050
 - TERM-017
