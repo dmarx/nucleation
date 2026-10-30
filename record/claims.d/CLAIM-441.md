@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0eikz
 title: 'Flow tells against the potential account''s condition that valence is undefined where no pair is contested: on the record''s own account of flow nothing is overridden because an activity''s immediate reward and its longer-run value coincide, yet flow is reported as positive, so either flow''s positivity is intrinsic pleasantness and not goal-conduciveness valence, or flow keeps contested pairs its processes settle among themselves, or the positivity comes after the episode and not during it, or the condition is wrong'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -12,6 +12,14 @@ history:
     CLAIM-440's first consequence was restated as "no contest, no
     valence" at the ninth status review (CLAIM-449); the quotation
     here now gives both. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twenty-first status review, at the status review's ruling (the
+    owner delegated these rulings; ADR-057, ADR-058). LIT-tmp97y6c
+    (Abuhamdeh 2020), read in full, added to grounds: the objection needs
+    the report that flow is positive, and this is the one read source that
+    gives it, quoting Csikszentmihalyi. The claim is unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +39,8 @@ objects_to:
 - CLAIM-440
 rests_on:
 - CLAIM-162
+grounds:
+- LIT-tmp97y6c
 complements:
 - CLAIM-433
 - CLAIM-449
@@ -104,3 +114,31 @@ wrong about one of the clearest cases of positive engagement there is.
   fact.
 - That the exits exclude one another. A flow episode could be positive in
   'liking' and settle contested pairs locally.
+
+## Note of 2026-10-30: the flow literature, read through a review
+
+Abuhamdeh's review (LIT-tmp97y6c, NOTE-tmp8y6gc) gives the report this
+objection rests on and the dispute exit 3 names. On Csikszentmihalyi's
+conception flow is enjoyable by definition (the 1975 preface, quoted).
+Against it, Seligman holds that "it is the absence of emotion, of any kind
+of consciousness, that is at the heart of flow", and Csikszentmihalyi
+(1990) wrote that flow experiences may not be "particularly pleasurable at
+the time they are taking place, but afterward we think back on them and
+say, 'That really was fun'". Abuhamdeh answers both by definition and from
+appraisal theory, with no data on the episode. So exit 3 is attributed,
+not shown, and the first clause of the defeated_if is not met. Two things
+bear on the other exits. Absorption without enjoyment is task involvement,
+"not inherently enjoyable", so the absorbed writer (CASE-051) is no
+anomaly. And Csikszentmihalyi, as Abuhamdeh reads him, separates pleasure,
+the satisfaction of biological needs, from enjoyment, which can run
+against them; that puts flow's positivity off the maintenance ordering
+TERM-076 names, which is half of exit 1, but does not show that it is
+intrinsic pleasantness. LIT-914 stays unread.
+
+## Note of 2026-10-30: what holds it back
+
+Its premise CLAIM-162 is Proposed. And none of its exits is shown: whether
+flow is positive during the episode, rather than in retrospect, needs
+in-episode reports, and Abuhamdeh's review names no such study; whether
+flow's enjoyment is intrinsic pleasantness rather than goal-conduciveness
+valence needs a measure that separates them.

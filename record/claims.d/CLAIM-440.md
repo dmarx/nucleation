@@ -392,12 +392,17 @@ valence" where they read "hedonic", and "The objection it faces, and the
 reply" says the objection was conceded and the revision made, with
 [CLAIM-433](CLAIM-433.md) as the reply. The claim is unchanged.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-[CLAIM-441](CLAIM-441.md)'s flow case is unanswered: on [CLAIM-162](CLAIM-162.md)'s reading nothing in flow
-is contested, so consequence 1 leaves flow's valence undefined while flow is
-reported as positive, and which exit holds turns on the unread flow
-literature ([LIT-914](../literature.d/LIT-914.md)). Clause 3 is open for both signs by the claim's own
-account, which is [CLAIM-468](CLAIM-468.md), and waits on Carver 2003 ([LIT-1445](../literature.d/LIT-1445.md)). And the
-premise [CLAIM-039](CLAIM-039.md) is held by [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a
-felt state, which no claim in the record answers.
+Three things. CLAIM-441's flow case is unanswered: Abuhamdeh's review
+(LIT-tmp97y6c, NOTE-tmp8y6gc) shows the flow literature divided on whether
+flow is positive during the episode, and settles it by definition, not
+data. The third defeater is now met in part: Orehek et al. (LIT-tmpa32bu)
+find that positive affect lowers a goal's priority when competing goals are
+salient, which is the contested case where this claim defines valence;
+whether that is intensity failing to track control precedence turns on
+whether a focal goal's priority is the potential ordering's hold, which
+clause 3 has not argued (CLAIM-468). If it cannot be argued, clause 3 is
+narrowed to negative valence or dropped. And the premise CLAIM-039 is held
+by THEORY-101's identification of valence with a felt state, which no
+claim in the record answers.

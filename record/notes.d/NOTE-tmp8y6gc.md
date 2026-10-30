@@ -2,7 +2,7 @@
 status: Read
 paper: LIT-tmp97y6c
 title: 'Abuhamdeh — Investigating the flow experience'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-30'
@@ -16,6 +16,15 @@ history:
     Seligman 2002 and 2011, and Nakamura and Csikszentmihalyi (LIT-914);
     what they say is taken from Abuhamdeh's quotations. The article has no
     page numbers, so references are to sections.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Two verdicts under "Bearing on the record" corrected at the
+    twenty-first status review's ruling (the owner delegated these
+    rulings; ADR-057). The pleasure/enjoyment split was said to fit
+    CLAIM-441's exit 1 ("it fits exit 1, which leaves the definition
+    standing", under TERM-076); it takes flow's positivity off the maintenance ordering,
+    half of exit 1, without showing it is intrinsic pleasantness.
 date: '2026-10-30'
 summary: >-
   A conceptual review finding 24 operationalizations of flow in 42 studies,
@@ -171,15 +180,18 @@ diagnosis of the field.
   pleasure, the restoration of homeostatic needs, from enjoyment, which can
   run against them. That bears on exit 1: flow's positivity is placed on
   the enjoyment side and not on the side of an ordering of the
-  organism's states by their bearing on its maintenance.
+  organism's states by their bearing on its maintenance. That is half of
+  exit 1; it does not show that the enjoyment is intrinsic pleasantness.
 - **[TERM-076](../terms.d/TERM-076.md): partly.** Its nonvacuity condition makes valence undefined
   where nothing is contested, and flow is the case pressed against it.
   The reading does not decide whether flow is positive in the episode.
   It does supply a distinction the record can use: absorption alone (task
   involvement, as in [CASE-051](../cases.d/CASE-051.md)'s absorbed writer) is not inherently
   enjoyable, so undefined valence there is no anomaly; and if flow's
-  enjoyment is not homeostatic "pleasure", it fits exit 1, which leaves
-  the definition standing. Nothing here bears on exit 4.
+  enjoyment is not homeostatic "pleasure", it takes flow's positivity off
+  the maintenance ordering, half of exit 1, without showing it is
+  intrinsic pleasantness; exit 1 in full would leave the definition
+  standing. Nothing here bears on exit 4.
 - **[CLAIM-440](../claims.d/CLAIM-440.md): partly, by way of [CLAIM-441](../claims.d/CLAIM-441.md).** The same: the flow case
   against its first consequence is narrowed, not answered.
 - **[CLAIM-162](../claims.d/CLAIM-162.md) and [CLAIM-433](../claims.d/CLAIM-433.md).** [CLAIM-162](../claims.d/CLAIM-162.md) reads flow as nothing overridden;

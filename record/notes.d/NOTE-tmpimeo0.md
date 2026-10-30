@@ -2,7 +2,7 @@
 status: Read
 paper: LIT-tmpz4ww9
 title: 'Thürmer, Scheier & Carver — Coasting and shifting'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-30'
@@ -17,6 +17,15 @@ history:
     read. The manuscript has no page numbers, so references are to its
     sections. Carver 2003 (LIT-1445) and Fulford et al. 2010
     (LIT-tmphhuac, read the same day) are cited by it.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The verdict on CLAIM-468 under "Bearing on the record" corrected from
+    "largely" to "partly", at the twenty-first status review's ruling (the
+    owner delegated these rulings; ADR-057): in Table 1, ahead-of-target
+    feedback did not raise mood (−0.09 and −0.06, against −0.04 in the
+    control), so the affect in the coasting and shifting path is not shown
+    to be positive.
 date: '2026-10-30'
 summary: >-
   Two experiments in which false feedback put one of two competing task
@@ -147,14 +156,16 @@ for feedback's effect on affect. Carver died while it was under revision
 
 ## Bearing on the record
 
-- **[CLAIM-468](../claims.d/CLAIM-468.md): largely.** The objection's positive half needs evidence that
+- **[CLAIM-468](../claims.d/CLAIM-468.md): partly.** The objection's positive half needs evidence that
   positive affect lowers a goal's priority, and waits on Carver 2003 for it.
   This paper states the thesis's shifting form from Carver 2003 and tests
   it: running ahead lowers the overshot goal's hold on performance and moves
   performance to the rival goal, and a plan to ignore feelings removes
-  both, which puts affect in the path. Two cautions keep it short of fully.
-  Exp. 1's affect difference is mostly negative affect after undershoot, not
-  positive affect after overshoot; and Exp. 2 shows that an
+  both, which puts affect in the path. Two cautions keep it to partly.
+  Exp. 1's affect difference is negative affect after undershoot, not
+  positive affect after overshoot: in Table 1 mood changed by −0.09 and
+  −0.06 after overshoot, against −0.04 in the on-target control, so being
+  told one was ahead did not raise it; and Exp. 2 shows that an
   emotion-regulation plan matters, not that positive affect was present and
   was what it regulated. Carver 2003 itself stays unread, so the claim's
   attribution to that paper should now cite the reading of this one.

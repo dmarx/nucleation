@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpra2cf
 title: 'Valence intensity need not be the strength of the prevailing ordering''s potential: in Hesp et al.''s model negative valence is a weakening of the preference ordering''s precision with a fall back to habit, and positive affect is reported to lower a goal''s priority, so for either sign stronger valence can go with a weaker hold of the ordering'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -14,8 +14,31 @@ history:
     ADR-057, ADR-058): Carver 2003 is Unfetched and no NOTE reads it, so
     it takes no edge, and the body keeps the citation. A dated note says
     what holds it back. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twenty-first status review, at the status review's ruling (the
+    owner delegated these rulings; ADR-057, ADR-058). defeated_if added,
+    drafted from the readings filed on 2026-10-30; the claim had none.
+    LIT-tmpa32bu (Orehek et al. 2011) and LIT-tmpz4ww9 (Thürmer, Scheier
+    and Carver), both read, added to grounds: the positive half needs
+    evidence that positive affect lowers a goal's priority, and they
+    supply it. Fulford et al. 2010 (LIT-tmphhuac) is cited for the
+    attribution to Carver 2003 and takes no edge. The bullet under "What
+    it does not say" that read "Carver's view. LIT-1445 is registered and
+    unread; the positive half of the objection is reported, not read, and
+    is why the status is Proposed." is replaced. The title is unchanged.
 role: counter
 warrant: interpretive
+defeated_if: >-
+  For the negative half, a reading of Hesp et al. on which policy
+  selection follows the preference ordering as closely after negative
+  affective charge has lowered γ as before; for the positive half,
+  evidence that where positive affect lowers a goal's priority the effort
+  released goes where the prevailing ordering of the system's states
+  directs it, so that the lowered priority is that ordering's own move and
+  not a weaker hold of it, or that positive affect arising from progress
+  on a goal raises that goal's priority while other goals compete for it.
 tags:
 - emotion-and-affect
 - motivation
@@ -26,6 +49,8 @@ objects_to:
 - CLAIM-440
 grounds:
 - LIT-1468
+- LIT-tmpa32bu
+- LIT-tmpz4ww9
 complements:
 - CLAIM-438
 summary: >-
@@ -73,19 +98,41 @@ and holds even of motivational valence.
 
 - **That Hesp et al.'s model is right about organisms.** It is a model of
   a T-maze rat, read in [NOTE-1111](../notes.d/NOTE-1111.md).
-- **Carver's view.** [LIT-1445](../literature.d/LIT-1445.md) is registered and unread; the positive half
-  of the objection is reported, not read, and is why the status is
-  Proposed.
+- **Carver's view, at first hand.** Carver 2003 (LIT-1445) is still
+  unread. Its thesis is read as Carver's group restates it (Fulford et
+  al. 2010, LIT-tmphhuac, p. 1021): positive affect "may mean that the
+  goal to which it relates can assume a lower priority". The evidence for
+  the positive half is in the note of 2026-10-30 below.
 - **That intensity is unrelated to the ordering.** Confident flight in
   fear is a case where strong negative valence and a strong hold go
   together, as the clause says. The objection is that the relation can
   run either way, so the clause needs a condition.
 
+## Note of 2026-10-30: the positive half, read
+
+Three papers read on 2026-10-30 bear on the positive half. Fulford et al.
+(LIT-tmphhuac, NOTE-tmpjpcbm) restate Carver 2003's thesis, which confirms
+the attribution, and find less effort on a goal after progress beyond
+expectation, without measuring affect. Orehek et al. (LIT-tmpa32bu,
+NOTE-tmpt2y26) find that induced positive affect lowered a promised goal's
+activation and the intention to pursue it when competing goals were
+salient, and raised both when none were: the relation runs either way, as
+this claim says, and the condition is competition among goals. Thürmer,
+Scheier and Carver (LIT-tmpz4ww9, NOTE-tmpimeo0) find that feedback putting
+one goal ahead moved performance to its rival, and that a plan to ignore
+one's feelings removed the effect; but ahead-of-target feedback did not
+raise mood (their Table 1: −0.09 and −0.06, against −0.04 in the control),
+so the affect in that path is not shown to be positive. None of the three
+measured graded affect, so they bear on positive valence against neutral,
+not on intensity within a sign.
+
 ## Note of 2026-10-30: what holds it back
 
-Its positive half rests on Carver 2003 ([LIT-1445](../literature.d/LIT-1445.md)), which is unread; the
-claim says that is why it is Proposed. It also has no defeated_if, which
-it needs before a ruling: for the negative half, a reading of Hesp et al.
-on which a fall in γ is not a weaker hold of the preference ordering; for
-the positive half, Carver read and found not to hold that positive affect
-lowers a goal's priority.
+The positive half is now read, and holds where goals compete (Orehek et
+al.). What is unanswered is whether a goal whose priority falls under
+positive affect shows a weaker hold of the prevailing ordering, or that
+ordering moving effort to the goal furthest behind, which is how Carver's
+satisficing account reads the shift (Fulford et al., p. 1021), and which
+CLAIM-tmpv9vjj presses as an objection. The claim does not argue the
+first, and until it does its positive half shows a goal losing priority,
+not the ordering losing its hold.
