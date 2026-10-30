@@ -1,0 +1,81 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-30 (NOTE-tmp8y6gc), from the open-access published
+  article (CC BY) in PubMed Central, PMC7033418, fetched as XML through the
+  Europe PMC REST API. A conceptual review: 42 studies from 2014–2019
+  operationalized flow in 24 ways, 17 of them without enjoyment. Abuhamdeh
+  argues that flow, as Csikszentmihalyi defined it, is a discrete and
+  highly enjoyable state, distinct from its conditions, and that ordinary
+  absorption is task involvement, "not inherently enjoyable". It reports
+  the dispute the record needs: Seligman's "absence of emotion" in flow,
+  and Csikszentmihalyi's own remark that flow experiences may not be
+  "particularly pleasurable at the time".
+  It answers them by definition and by appraisal theory, not with data on
+  how flow feels during the episode.
+title: 'Investigating the “Flow” Experience: Key Conceptual and Operational Issues'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Filed and read 2026-10-30. Citation checked against Crossref (DOI
+    10.3389/fpsyg.2020.00158): Sami Abuhamdeh, Frontiers in Psychology 11,
+    article 158, published 13 February 2020, which is the `published:`
+    date. Read from the published version in PubMed Central (PMC7033418,
+    CC BY), fetched as JATS XML from the Europe PMC REST API (fullTextXML).
+    A grep of record/literature.d for the DOI, the PMC id, the title and
+    the author found nothing. Filed for the flow case (CLAIM-441), whose
+    anchor, Nakamura and Csikszentmihalyi (LIT-914), stays unread.
+tags:
+- motivation
+- psychometrics
+- emotion-and-affect
+date: '2026-10-30'
+published: '2020-02-13'
+doi: '10.3389/fpsyg.2020.00158'
+url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC7033418/'
+first_author: 'Abuhamdeh'
+keywords:
+- 'flow'
+- 'enjoyment'
+- 'task involvement'
+- 'intrinsic motivation'
+- 'critical review'
+implementations: []
+summary: >-
+  Abuhamdeh (2020), Frontiers in Psychology 11:158. Across 42 recent
+  studies flow was operationalized in 24 ways: mostly as a continuous
+  score, 17 times without enjoyment, and often mixed with its proposed
+  conditions. He argues flow should be measured as Csikszentmihalyi
+  defined it, a discrete, highly enjoyable optimal state distinct from its
+  conditions, and that lesser absorption is task involvement, which is not
+  inherently enjoyable. He rejects the view that flow is emotionless.
+---
+<!-- inactive-ok-file: LIT-914 — Unavailable, unread; Nakamura and Csikszentmihalyi, the record's anchor for flow -->
+<!-- inactive-ok-file: CLAIM-441 — Proposed; the objection this reading bears on, cited as open -->
+
+# LIT-tmp97y6c: Investigating the “Flow” Experience: Key Conceptual and Operational Issues
+
+Sami Abuhamdeh (2020), *Frontiers in Psychology* 11:158 — DOI-10.3389/fpsyg.2020.00158, PMC7033418
+
+## Key takeaways
+
+- The flow literature has no common operationalization: 24 measures in 42
+  studies of 2014–2019, most continuous, 17 without enjoyment, many mixing
+  the state with its conditions.
+- On Csikszentmihalyi's conception, flow is enjoyable by definition, rare,
+  and discrete.
+- Absorption without that enjoyment is better called task involvement,
+  and the motivational side is better called intrinsic motivation.
+- Whether flow is felt as positive during the episode is disputed in the
+  literature (Seligman; a passage of Csikszentmihalyi 1990). The paper
+  argues it is, from the definition and from appraisal theory, with no data
+  of its own.
+
+## Standing in the record
+
+Filed on 2026-10-30 for CLAIM-441, which asks whether flow is positive
+during the episode or only in retrospect. The record's anchor for flow,
+Nakamura and Csikszentmihalyi (LIT-914), could not be read; this review
+reports the dispute about that question and takes a side.
