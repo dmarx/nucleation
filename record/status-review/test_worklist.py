@@ -219,3 +219,16 @@ def test_a_claim_argued_only_by_an_unsound_argument_is_not_unblocked(tmp_path):
     sound = Record(r.docs | claim | {"ARG-004": {"status": "Active", "rests_on": ["CLAIM-001"],
                                                  "concludes": ["CLAIM-020"]}}, r.bodies)
     assert "CLAIM-020" in sound.unblocked()
+
+
+def test_a_live_claim_grounded_on_an_unread_work_is_listed(tmp_path):
+    # an unread work takes no edge (ADR-058), but the worklist showed LIT grounds as "[None] ?"
+    # and counted them as held, so CLAIM-426 and CLAIM-431 kept Unavailable grounds (pass 18)
+    r = record(tmp_path)
+    lit = {"LIT-001": {"status": "Active"}, "LIT-004": {"status": "Unavailable"}}
+    claims = {"CLAIM-021": {"status": "Proposed", "grounds": ["LIT-001", "LIT-004"]},
+              "CLAIM-022": {"status": "Superseded", "grounds": ["LIT-004"]}}
+    r = Record(r.docs | lit | claims, r.bodies)
+    # LIT-001 has a NOTE read in full; LIT-004 has none and is Unavailable
+    assert r.unread_grounds() == [("CLAIM-021", ["LIT-004"])]
+    assert r.status("LIT-004") == "Unavailable"
