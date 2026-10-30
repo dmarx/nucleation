@@ -65,7 +65,7 @@ It is held in one of three ways ([CLAIM-471](../claims.d/CLAIM-471.md)):
 | how held | what it is | example the record has read |
 |---|---|---|
 | **formed** | physical interconnection fixes the maps: joining systems identifies some of their variables, so which local quantities must agree, and on what shared space, is set by how they are connected, while the law that holds at a junction is fixed beforehand | Baez and Fong's wiring, [NOTE-1223](../notes.d/NOTE-1223.md): a map of terminals such as {1, 2} → {3} sets the joined potentials equal and adds the currents (Example 5.17), under the same Kirchhoff condition at every junction |
-| **discovered** | measurement estimates a correspondence that already held; it is established only where the estimate is checked against evidence the measurement did not produce (CLAIM-143) | Singer's relative angles, [NOTE-1224](../notes.d/NOTE-1224.md); Robinson's geometric maps, [NOTE-1221](../notes.d/NOTE-1221.md) |
+| **discovered** | measurement estimates a correspondence that already held; it is established only where the estimate is checked against evidence the measurement did not produce ([CLAIM-143](../claims.d/CLAIM-143.md)) | Singer's relative angles, [NOTE-1224](../notes.d/NOTE-1224.md); Robinson's geometric maps, [NOTE-1221](../notes.d/NOTE-1221.md) |
 | **adapted** | an apparatus revises its own rules of comparison | discourse sheaves, [NOTE-1222](../notes.d/NOTE-1222.md) |
 
 Forming sets which maps hold where. The joint behaviour they admit is their

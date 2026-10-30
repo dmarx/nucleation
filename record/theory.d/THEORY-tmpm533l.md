@@ -52,33 +52,33 @@ extends:
 summary: >-
   The wider thesis Bo et al. assert ("subcortical affective processes are
   less modifiable by reappraisal than previously thought", p. 20), filed
-  beside THEORY-871 by the twenty-fourth status review (ADR-065 §3;
-  ADR-047 kind 1). THEORY-871, Active, holds what their two midlife
+  beside [THEORY-871](THEORY-871.md) by the twenty-fourth status review ([ADR-065](../decisions.d/ADR-065.md) §3;
+  [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-871](THEORY-871.md), Active, holds what their two midlife
   samples measured under one instructed strategy. Whether the result holds
   for reappraisal at large is this entry's question, and its promote_when
-  is THEORY-871's old condition, without the version-of-record clause.
+  is [THEORY-871](THEORY-871.md)'s old condition, without the version-of-record clause.
 ---
 
 # THEORY-tmpm533l: Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal
 
 ## Source
 
-Bo, Kraynak, Kwon, Sun, Gianaros & Wager, LIT-1359, read in full in
-NOTE-1061 from the bioRxiv preprint, version 2 (10 May 2023). The authors
+Bo, Kraynak, Kwon, Sun, Gianaros & Wager, [LIT-1359](../literature.d/LIT-1359.md), read in full in
+[NOTE-1061](../notes.d/NOTE-1061.md) from the bioRxiv preprint, version 2 (10 May 2023). The authors
 say the subcortical nulls "might indicate that subcortical affective
 processes are less modifiable by reappraisal than previously thought"
 (p. 20). Their closing sentence goes further, that reappraisal "is not able
-to modulate subcortical-level affective experience" (p. 22). THEORY-871's
+to modulate subcortical-level affective experience" (p. 22). [THEORY-871](THEORY-871.md)'s
 "What this does not say" rejects that step to experience, and this entry
 does not carry it either.
 
 ## Where the evidence stands
 
-What the study shows is THEORY-871, Active, which this entry extends: that
+What the study shows is [THEORY-871](THEORY-871.md), Active, which this entry extends: that
 entry is the reading, and this one is the thesis. The evidence covers one
 instructed strategy, mostly reinterpretation, in two midlife community
 samples, with BOLD means at 2 mm voxels and one rating per trial. The
-`promote_when` above is THEORY-871's condition before the twenty-fourth
+`promote_when` above is [THEORY-871](THEORY-871.md)'s condition before the twenty-fourth
 status review promoted it. It is carried unchanged, except for the
 version-of-record clause, because it asks what would make the thesis true
 and not what the study reported.

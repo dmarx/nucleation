@@ -148,13 +148,13 @@ act performed and taken up, the interlocutor's distinction of 2026-10-12.
 
 ## Note of 2026-10-30: what holds it back
 
-CLAIM-171 is unanswered. Its argument as stated runs from how intended
+[CLAIM-171](CLAIM-171.md) is unanswered. Its argument as stated runs from how intended
 meaning is accessed to what constitutes it, which this claim already
 separates; what remains is the thesis that a projected receiver has no
 identity apart from readings, and neither side of it is held: Grice's
-analysis (THEORY-444), on which what an utterer means is fixed by the
+analysis ([THEORY-444](../theory.d/THEORY-444.md)), on which what an utterer means is fixed by the
 utterer's intention toward an audience and read by public criteria, is
-Proposed, and the reception-side readings (QUESTION-073) are unread.
-Holding THEORY-444 in a form that covers an absent, projected receiver,
+Proposed, and the reception-side readings ([QUESTION-073](../questions.d/QUESTION-073.md)) are unread.
+Holding [THEORY-444](../theory.d/THEORY-444.md) in a form that covers an absent, projected receiver,
 or an argument that something other than a reading fixes that receiver,
 would answer it.
