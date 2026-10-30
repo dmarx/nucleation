@@ -146,8 +146,8 @@ Two further points follow from the models, both untested here:
 The test it proposes has not been run: no restatement in the reconstructed
 exchanges has had its distance from the original measured and set against
 whether it was re-derived as though new, and no count compares re-derivation
-of coded and uncoded items. Its premise CLAIM-182 is Proposed for the same
+of coded and uncoded items. Its premise [CLAIM-182](CLAIM-182.md) is Proposed for the same
 want, a count of re-derivation before and after the same content got
-addresses. Kanerva's book (LIT-928), where the critical distance is derived,
-is unread; the claim's statement of it rests on NOTE-242's reading of
-LIT-269.
+addresses. Kanerva's book ([LIT-928](../literature.d/LIT-928.md)), where the critical distance is derived,
+is unread; the claim's statement of it rests on [NOTE-242](../notes.d/NOTE-242.md)'s reading of
+[LIT-269](../literature.d/LIT-269.md).
