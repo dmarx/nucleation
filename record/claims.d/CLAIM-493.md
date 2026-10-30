@@ -68,7 +68,7 @@ in an intergroup context, its more extreme members gain prototypicality
 over moderates (Turner et al. 1994, p. 458; [THEORY-1114](../theory.d/THEORY-1114.md)). A dispute
 with an owner is such a context. Turner (2005, [LIT-1791](../literature.d/LIT-1791.md), unread)
 argues that influence follows prototypicality. Hornsey (2008, p. 211;
-NOTE-1253) reports the step at second hand, and that in the SCT tests
+[NOTE-1253](../notes.d/NOTE-1253.md)) reports the step at second hand, and that in the SCT tests
 prototypicality affected influence only under high salience or
 identification. The fans most hostile to
 the owner would then be taken, by fans themselves, as speaking for the
@@ -85,7 +85,7 @@ without any procedure.
 
 ## Note of 2026-10-30: what holds it back
 
-Its premise THEORY-1114 is Proposed: no study that varies only the
+Its premise [THEORY-1114](../theory.d/THEORY-1114.md) is Proposed: no study that varies only the
 comparative frame and measures who is judged typical has been read, and
 the two primary studies the record names are Unavailable. Neither step is
 tested in a fanbase: no measurement shows judged typicality shifting

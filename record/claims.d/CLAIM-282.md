@@ -120,7 +120,7 @@ concludes, so it carries `formal-apparatus` as a second line ([ADR-040](../decis
   operator's authority independent of its own endorsements. Leave-one-out
   delegation, which counts the authority reaching an operator only along
   paths that have not passed through it, does so while carrying authority
-  beyond one hop (CLAIM-tmphnxf0). That rule is not a cycle ban: cycles
+  beyond one hop ([CLAIM-tmphnxf0](CLAIM-tmphnxf0.md)). That rule is not a cycle ban: cycles
   that avoid the operator still feed it.
 
 ## Note of 2026-10-29: evidence-based subjective logic, an instance with a ceiling

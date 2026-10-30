@@ -176,5 +176,5 @@ Turner & Haslam 1991 ([LIT-1726](../literature.d/LIT-1726.md)) and Haslam et al.
 filed and Unavailable: no lawful copy was reached, and every result the record holds reaches it through the
 theory's authors without data. The promote_when also asks for a result
 from outside the originating group, or a preregistered replication there,
-and none is filed. Lea et al. 2007 (NOTE-1268) has the right design but
+and none is filed. Lea et al. 2007 ([NOTE-1268](../notes.d/NOTE-1268.md)) has the right design but
 comes from the authors' group and is not filed.

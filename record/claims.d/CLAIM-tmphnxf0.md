@@ -38,7 +38,7 @@ uses:
 complements:
 - CLAIM-375
 summary: >-
-  A construction that shows CLAIM-282's old title false. Compute each
+  A construction that shows [CLAIM-282](CLAIM-282.md)'s old title false. Compute each
   operator's authority from A2's damped recursive rule with that
   operator's own outgoing endorsements removed. Then authority reaches it
   along paths of any length, but only along paths that have not passed
@@ -46,7 +46,7 @@ summary: >-
   exactly independent of its own endorsements, and an endorsement moves
   authority two hops and more. It does not say the rule conserves
   authority, that it closes the social route of moving others'
-  endorsements, or that CLAIM-375's guarantee carries over.
+  endorsements, or that [CLAIM-375](CLAIM-375.md)'s guarantee carries over.
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction bears on, cited as open -->
 
@@ -56,7 +56,7 @@ summary: >-
 
 Take operators 1, …, N with budgets b_k > 0, endorsements E_kj ≥ 0 with
 E_kk = 0 and each row summing to at most 1, and a damping 0 < η < 1.
-CLAIM-282's damped recursive rule is g = (1 − η)(I − ηEᵀ)⁻¹b, and under it
+[CLAIM-282](CLAIM-282.md)'s damped recursive rule is g = (1 − η)(I − ηEᵀ)⁻¹b, and under it
 an operator's authority depends on its own endorsements through every
 cycle through it.
 
@@ -71,7 +71,7 @@ it endorses no one.
    s being the walk's start and ℓ its length. Authority reaches i along
    paths of any length, and cycles that avoid i still feed it. What never
    reaches i is authority that has already passed through i, its own
-   budget included. In CASE-077's pair, g₁ = (1 − η)b₁ + η(1 − η)b₂,
+   budget included. In [CASE-077](../cases.d/CASE-077.md)'s pair, g₁ = (1 − η)b₁ + η(1 − η)b₂,
    against (b₁ + ηb₂)/(1 + η) under the recursive rule. Where no cycle
    passes through i, g_i is its value under the recursive rule.
 2. **Its own endorsements do not move it.** E₍₋ᵢ₎ does not contain row i,
@@ -113,18 +113,18 @@ hand at the nineteenth review's ruling.
   different graph, so the vector is not one fixed point. In the check the
   total ran from 17% to 99.7% of the budgets, where the recursive rule
   keeps it equal to them. A2 said the same of its path-based rule with
-  origin tags (CLAIM-282), whose open conventions this rule may be one way
+  origin tags ([CLAIM-282](CLAIM-282.md)), whose open conventions this rule may be one way
   to fix.
 - **That it closes the social route.** g_i still depends on what others
   endorse, so an operator can change its authority by changing what others
-  endorse (CLAIM-282).
-- **That delegating to a nearer ally pays, as under one hop.** CLAIM-375's
+  endorse ([CLAIM-282](CLAIM-282.md)).
+- **That delegating to a nearer ally pays, as under one hop.** [CLAIM-375](CLAIM-375.md)'s
   guarantee does not carry over. Raising an endorsement of an ally nearer
   the endorser's policy than the authority-weighted decision moved the
   decision toward the endorser in 1,772 of 2,141 trials, against all 2,138
   under one-hop allocation. The added authority also flows on from the ally
   to those it endorses. Whether the incentive still does work is
-  CLAIM-285's question.
+  [CLAIM-285](CLAIM-285.md)'s question.
 - **That it is a cycle ban.** The graph keeps its cycles. Only each
-  operator's own accounting stops at its boundary, so CLAIM-282's point
+  operator's own accounting stops at its boundary, so [CLAIM-282](CLAIM-282.md)'s point
   about cycle bans stands.

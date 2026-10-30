@@ -336,13 +336,13 @@ apart from caring is still unmet.
 
 ## Note of 2026-10-30: what holds it back
 
-Two objections are unanswered. CLAIM-494, Batson et al.'s empathic helping
+Two objections are unanswered. [CLAIM-494](CLAIM-494.md), Batson et al.'s empathic helping
 with self–other merging controlled, is Proposed, and nothing in the record
-answers it. CLAIM-492 is conceded: the thesis has content only with a
+answers it. [CLAIM-492](CLAIM-492.md) is conceded: the thesis has content only with a
 criterion of the self's extent that comes apart from caring, and the
 readings offer candidates (fusion, the activated social self) but show
 none coming apart from caring. Its best evidence, Cialdini et al.
-(LIT-1728), is Unavailable and read only at second hand.
+([LIT-1728](../literature.d/LIT-1728.md)), is Unavailable and read only at second hand.
 
 ## Note of 2026-10-30: filed with its concessions
 

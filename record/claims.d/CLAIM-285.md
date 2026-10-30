@@ -104,7 +104,7 @@ endorsements toward an ally, because the move changes a* through the ally's
 authority. It cannot raise its own g_i that way. Whether a given rule meets
 the first condition is the subject of [CLAIM-282](CLAIM-282.md): one-hop allocation within
 a governance epoch meets it exactly, and recursive delegation does not.
-Leave-one-out delegation meets it beyond one hop (CLAIM-tmphnxf0).
+Leave-one-out delegation meets it beyond one hop ([CLAIM-tmphnxf0](CLAIM-tmphnxf0.md)).
 Endorsement here is any effect on another operator's share of future
 influence ([TERM-053](../terms.d/TERM-053.md)), and explicit voting is one case of it.
 
@@ -148,8 +148,8 @@ together beyond one hop. Neither is shown, so this claim is interpretive.
 
 The second half of its defeat condition is missing a result: no
 population model shows operators bound by the two conditions delegating,
-or delegating to aligned others rather than at random. CLAIM-375 shows the
-incentive exists under one hop. Beyond one hop, CLAIM-tmphnxf0 keeps the
+or delegating to aligned others rather than at random. [CLAIM-375](CLAIM-375.md) shows the
+incentive exists under one hop. Beyond one hop, [CLAIM-tmphnxf0](CLAIM-tmphnxf0.md) keeps the
 first condition exactly, but the incentive is not guaranteed there.
 Raising an endorsement of an ally nearer than the decision moved the
 decision toward the endorser in 1,772 of 2,141 trials
