@@ -93,7 +93,7 @@ kind needs "extra inputs".
 
 ## Connections
 
-One relation is declared: it corroborates CLAIM-273's imported-order half,
+One relation is declared: it corroborates [CLAIM-273](../claims.d/CLAIM-273.md)'s imported-order half,
 which does not rest on it. The evidence is too thin to support or answer
 anything else. What it points at:
 
@@ -111,10 +111,10 @@ anything else. What it points at:
 
 ## Note of 2026-10-29: what holds it back
 
-Read in full (NOTE-725), but its promote_when is unmet. The paper has no
+Read in full ([NOTE-725](../notes.d/NOTE-725.md)), but its promote_when is unmet. The paper has no
 persistence baseline, no error bars and no coordination data, and its
 split into two kinds rests on one illustrated six-hour reconstruction. No
 test on a crowd-built canvas has compared a local model with a copy-the-
 last-state baseline and a coordination-aware model. Narrowing to what
-Adams et al. report would free nothing, since CLAIM-273 now cites it as
+Adams et al. report would free nothing, since [CLAIM-273](../claims.d/CLAIM-273.md) now cites it as
 corroboration.

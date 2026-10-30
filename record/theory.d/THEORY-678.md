@@ -126,8 +126,8 @@ that.
 
 No per-subject presence rate is in the record. The paper scores CLIP and
 caption similarity and a preference study, which its promote_when rules
-out, and T2I-CompBench++ (LIT-798) measures binding, not presence.
-GenEval's detector scores two-object presence (THEORY-522), but not for
+out, and T2I-CompBench++ ([LIT-798](../literature.d/LIT-798.md)) measures binding, not presence.
+GenEval's detector scores two-object presence ([THEORY-522](THEORY-522.md)), but not for
 this method and not against early attention. Narrowing to what was
 measured would leave only the method's scores, which are machine-learning
-practice and belong to the anthology (NOTE-639).
+practice and belong to the anthology ([NOTE-639](../notes.d/NOTE-639.md)).

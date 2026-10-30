@@ -144,7 +144,7 @@ the account, not a finding the essay reports.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-364 read the essay in
+Kept Proposed by the sixteenth status review. [NOTE-364](../notes.d/NOTE-364.md) read the essay in
 full, from a transcription whose quotations are unchecked against the
 printing. Neither promote_when result is in the record: no argument that
 the features a self shares with a centre of gravity are the ones that

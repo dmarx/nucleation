@@ -127,7 +127,7 @@ would test it is in `promote_when`.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-150 read the paper in
+Kept Proposed by the sixteenth status review. [NOTE-150](../notes.d/NOTE-150.md) read the paper in
 full, and the paper runs no test. No experiment in the record separates a
 frame from attention or imagery with the individuated object as the
 measure, and the criterion promote_when asks for first, saying which

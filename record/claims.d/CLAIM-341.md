@@ -355,14 +355,14 @@ selected) appears once. The exchange took the loop on to institutions in
 Two counters object to this claim, and its text already says what it grants
 each.
 
-- CLAIM-339, that a loop cut off from action loses one route for evidence
+- [CLAIM-339](CLAIM-339.md), that a loop cut off from action loses one route for evidence
   it did not select. "What keeps the loop honest" grants it: action is one
-  source of such evidence, not a necessary one. CLAIM-342, Active, answers
+  source of such evidence, not a necessary one. [CLAIM-342](CLAIM-342.md), Active, answers
   the rest.
-- CLAIM-337, that the loop is active inference's action and perception one
+- [CLAIM-337](CLAIM-337.md), that the loop is active inference's action and perception one
   Markov blanket inward. "Judgement is not action" answers its premise that
   a judgement is behaviour by where the judgement acts. "What it does not
   say" grants that active inference can redescribe the loop as mental
   action, precision and structure learning with no action on the world.
-  The claim keeps the disagreement about the diagram, which CLAIM-337
+  The claim keeps the disagreement about the diagram, which [CLAIM-337](CLAIM-337.md)
   itself says is all the redescription leaves.

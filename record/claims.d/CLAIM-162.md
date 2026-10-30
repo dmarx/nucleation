@@ -126,10 +126,10 @@ now [ARG-016](../arguments.d/ARG-016.md).
 
 ## Note of 2026-10-29: what holds it back
 
-Two premises are not held: CLAIM-169, which waits on THEORY-067's
-mechanism; and, of THEORY-070, promote_when (1), a fit in which control
+Two premises are not held: [CLAIM-169](CLAIM-169.md), which waits on [THEORY-067](../theory.d/THEORY-067.md)'s
+mechanism; and, of [THEORY-070](../theory.d/THEORY-070.md), promote_when (1), a fit in which control
 intensity falls with its cost. The claim explains effortlessness by the
 intrinsic cost of override going unpaid, not by dACC's place as specifier,
-so THEORY-1110's proposal would not carry it. No choice probe or reversal
+so [THEORY-1110](../theory.d/THEORY-1110.md)'s proposal would not carry it. No choice probe or reversal
 measure taken during a flow episode, which its defeat condition asks for,
 is in the record.

@@ -132,7 +132,7 @@ contexts. Neither is reported, but neither was tested.
 
 ## Note of 2026-10-29: what holds it back
 
-Kept Proposed by the sixteenth status review. NOTE-138 read the preprint in
+Kept Proposed by the sixteenth status review. [NOTE-138](../notes.d/NOTE-138.md) read the preprint in
 full, and neither result promote_when names is in the record. There is no
 operational measure and weighting of tractability under which belief–desire
 hypotheses are scored against the token-level predictor. There is no HHH-

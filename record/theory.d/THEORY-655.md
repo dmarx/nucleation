@@ -128,7 +128,7 @@ cases where it did not fit and explains them away (§7).
 
 ## Note of 2026-10-29: what holds it back
 
-Read in full (NOTE-410), but its promote_when is unmet. The record holds
+Read in full ([NOTE-410](../notes.d/NOTE-410.md)), but its promote_when is unmet. The record holds
 no comparative test with relatedness measured and predictions fixed in
 advance, whether of kin discrimination, of escalation against measured r,
 or of worker altruism against measured sister relatedness. Hamilton's

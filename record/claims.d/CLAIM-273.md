@@ -147,10 +147,10 @@ One feature first looked like a break and is not. The other is one:
    source of corruption, one that is planned and aimed, and nearer to
    ecological competition than to noise.
 2. **The order is imported, not born of an instability.** An artwork copied
-   from a design coordinated off the canvas (CASE-079; the Mona Lisa's
-   forum, THEORY-218) has a pattern specified elsewhere and held in place by
+   from a design coordinated off the canvas ([CASE-079](../cases.d/CASE-079.md); the Mona Lisa's
+   forum, [THEORY-218](../theory.d/THEORY-218.md)) has a pattern specified elsewhere and held in place by
    flow: dissipative in its maintenance and not in its origin. Adams et al.
-   (THEORY-224) corroborate the split without testing it. A CNN given only
+   ([THEORY-224](../theory.d/THEORY-224.md)) corroborate the split without testing it. A CNN given only
    local canvas context recovers objects that spread by a local recolouring
    rule, such as the Blue Corner and the German flags, and misses designs
    such as the EU dove and the US flag. Only the first kind is near order

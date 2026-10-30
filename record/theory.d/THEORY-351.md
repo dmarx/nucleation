@@ -142,10 +142,10 @@ may disrupt internal memories."
 
 ## Note of 2026-10-29: what holds it back
 
-Read in full (NOTE-867), but its promote_when is unmet. The record holds
+Read in full ([NOTE-867](../notes.d/NOTE-867.md)), but its promote_when is unmet. The record holds
 no measured comparison of crews with and without speed bugs under the same
 load that records timing, errors and the pilots' recall. The paper is a
 stylized task analysis of successful flights, as the title's "argued …,
 not measured" already says. An Active "Hutchins argues" reading on
-THEORY-1110's pattern would free nothing, now that CLAIM-296 cites it as
+[THEORY-1110](THEORY-1110.md)'s pattern would free nothing, now that [CLAIM-296](../claims.d/CLAIM-296.md) cites it as
 corroboration.

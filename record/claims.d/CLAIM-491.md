@@ -315,10 +315,10 @@ apart from caring is still unmet.
 
 ## Note of 2026-10-29: what holds it back
 
-Two objections are unanswered. CLAIM-494 is Batson et al.'s empathic
-helping without self–other merging. CLAIM-492 says the thesis is true by
+Two objections are unanswered. [CLAIM-494](CLAIM-494.md) is Batson et al.'s empathic
+helping without self–other merging. [CLAIM-492](CLAIM-492.md) says the thesis is true by
 definition unless it is tied to a criterion of the self's extent that
 comes apart from caring. The readings of 2026-10-29 offer candidates for
 that criterion (fusion, the activated social self) but show none coming
-apart from caring. Its ground THEORY-1114 is Proposed, and LIT-1728, its
+apart from caring. Its ground [THEORY-1114](../theory.d/THEORY-1114.md) is Proposed, and [LIT-1728](../literature.d/LIT-1728.md), its
 best evidence, is read only at second hand.

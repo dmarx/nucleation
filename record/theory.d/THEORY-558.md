@@ -91,10 +91,10 @@ condemnation once they agreed that no harm was done. They did not.
 
 ## Note of 2026-10-29: what holds it back
 
-Read in full (NOTE-403), but its promote_when is unmet. The record holds
+Read in full ([NOTE-403](../notes.d/NOTE-403.md)), but its promote_when is unmet. The record holds
 no replicated experiment from outside Haidt's lab that manipulates affect
 and supplied reasons separately and measures moral judgment. The one
 direct manipulation the paper reports, Wheatley and Haidt's hypnotic
-disgust, is the result later work disputes (LIT-101, NOTE-132). Narrowing
+disgust, is the result later work disputes ([LIT-101](../literature.d/LIT-101.md), [NOTE-132](../notes.d/NOTE-132.md)). Narrowing
 to what the paper proposes would free nothing: its one dependent,
-THEORY-539, presupposes it and is held by its own unmet promote_when.
+[THEORY-539](THEORY-539.md), presupposes it and is held by its own unmet promote_when.

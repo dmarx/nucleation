@@ -120,12 +120,12 @@ alternatives, and the criterion compares the results.
 
 ## What it answers
 
-CLAIM-254, on CLAIM-072 and CLAIM-082, now ARG-033. The premises are
+[CLAIM-254](CLAIM-254.md), on [CLAIM-072](CLAIM-072.md) and [CLAIM-082](CLAIM-082.md), now [ARG-033](../arguments.d/ARG-033.md). The premises are
 granted, the third point is conceded, and the conclusion is answered by
 the distinction between identity of value and graded transport. Whether
 use-level contrast is the structuralist premise restated or a replacement
-for it stays open in ARG-033, which judges whether Saussure supports
-CLAIM-115. This claim does not need it settled: it says contrast with
+for it stays open in [ARG-033](../arguments.d/ARG-033.md), which judges whether Saussure supports
+[CLAIM-115](CLAIM-115.md). This claim does not need it settled: it says contrast with
 alternatives plays value's role at the level of use, not that it is value.
 
 ## What it does not say
@@ -135,7 +135,7 @@ alternatives plays value's role at the level of use, not that it is value.
   use. The claim says the second plays, for the line's observables, the role
   the first plays for terms.
 - It does not say the correspondence is solved. A correspondence of
-  alternative sets is not needed (CLAIM-214); which correspondence of
+  alternative sets is not needed ([CLAIM-214](CLAIM-214.md)); which correspondence of
   situations is admissible, fixed independently of the fidelity it is used
   to measure, is [QUESTION-005](../questions.d/QUESTION-005.md).
 - It does not answer [CLAIM-082](CLAIM-082.md)'s other qualification: in [LIT-809](../literature.d/LIT-809.md)'s
@@ -145,14 +145,14 @@ alternatives plays value's role at the level of use, not that it is value.
 
 ## Note of 2026-10-29: what holds it back
 
-Of its premises, THEORY-172 and CLAIM-106 are held. THEORY-159 is
+Of its premises, [THEORY-172](../theory.d/THEORY-172.md) and [CLAIM-106](CLAIM-106.md) are held. [THEORY-159](../theory.d/THEORY-159.md) is
 Proposed, but the claim takes from it only what Saussure proposes, and a
-"Saussure proposes" split of THEORY-159 on THEORY-1110's pattern would hold
+"Saussure proposes" split of [THEORY-159](../theory.d/THEORY-159.md) on [THEORY-1110](../theory.d/THEORY-1110.md)'s pattern would hold
 that premise once the claim is otherwise promotable. The title says
 contrast with the speaker's alternatives plays, for stance and footing, the
 role value plays for terms. The record shows that contrast only in
-THEORY-172's artificial games with given alternatives, and the general
-account, THEORY-785, is Proposed. No comparison in the record tests whether
+[THEORY-172](../theory.d/THEORY-172.md)'s artificial games with given alternatives, and the general
+account, [THEORY-785](../theory.d/THEORY-785.md), is Proposed. No comparison in the record tests whether
 renderings that keep a source's contrast with its alternatives keep its
 judged stance or footing more often than renderings that change it, which
 is its defeat condition.
