@@ -1,10 +1,10 @@
 ---
 number: 321
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpjni98
-title: 'In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and attribute binding and relations failing most, and composing by adding scores does worst on relations'
-version: 3
+title: 'In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and spatial relations and attribute binding failing most, and composing by adding scores does worst on relations'
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -25,6 +25,23 @@ history:
     and the claim does not say what causes the failures, which is the
     attention account the reading is Proposed on. The body's citation of
     LIT-806 stays. The claim is unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    Narrowed and promoted at the seventeenth status review (ADR-057,
+    ADR-047), at the status review's ruling (the owner delegated these
+    rulings). The readings it stands on (THEORY-522) find spatial
+    relations worst and attribute binding next, while interactions, a
+    non-spatial relation, are rated near ceiling by T2I-CompBench's
+    human raters (CLAIM-097); 'relations' in general was imprecise and
+    the sources' own ratings contradict it, so it gets this note only
+    (ADR-047, kind 3). Version 3's title read: 'In text-to-image
+    diffusion models each condition of a prompt can be met while their
+    conjunction or relational binding fails: benchmarks find single
+    objects rendered almost always and attribute binding and relations
+    failing most, and composing by adding scores does worst on
+    relations'. Every ground is Active and read in full; THEORY-678
+    stays corroboration. The defeat condition is unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -62,7 +79,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-678 — Proposed; the Attend-and-Excite account, which corroborates the omission example without carrying the claim -->
 
-# CLAIM-321: In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and attribute binding and relations failing most, and composing by adding scores does worst on relations
+# CLAIM-321: In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and spatial relations and attribute binding failing most, and composing by adding scores does worst on relations
 
 ## The claim
 
@@ -95,3 +112,6 @@ where single conditions are met.
   denoising time is historical or telephone-game time.
 - That binding always fails. The benchmarks report rates, for the models
   and prompt templates they test.
+- That every kind of relation fails. Interactions such as holding or
+  wearing are rated near ceiling by human raters, under a rubric that
+  asks only whether an action is depicted (THEORY-522, CLAIM-097).

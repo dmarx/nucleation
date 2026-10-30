@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw83rc
 title: 'Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-10'
@@ -47,6 +47,17 @@ history:
     version 2 already stopped asking a rival to predict it. Version
     3's grounds were CASE-018, LIT-482 and CASE-069. Title, defeater,
     status and warrant are unchanged.
+- version: 5
+  date: '2026-10-30'
+  note: >-
+    CLAIM-004 leaves rests_on at the seventeenth status review
+    (ADR-057), at the status review's ruling (the owner delegated these
+    rulings): the representational/constitutive distinction is
+    CLAIM-004's re-derived, an attribution that takes no edge, and the
+    claim's own defeat condition supplies the test CLAIM-004 lacks.
+    Version 4's rests_on were CLAIM-004 and CLAIM-061, and its summary
+    said 'so it rests there'. CLAIM-255 leaves complements; it now rests
+    on this claim. Title, defeater, status and warrant are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,7 +76,6 @@ line: 'pragmatic-transport'
 answers:
 - QUESTION-021
 rests_on:
-- CLAIM-004
 - CLAIM-061
 grounds:
 - LIT-482
@@ -76,7 +86,6 @@ complements:
 - CLAIM-150
 - CLAIM-215
 - CLAIM-160
-- CLAIM-255
 uses:
 - TERM-038
 - TERM-040
@@ -89,7 +98,7 @@ summary: >-
   record's scope does not (version 3), and the general frame is
   CLAIM-477, of which this is a domain case. Its
   "representational against constitutive transformation" is
-  [CLAIM-004](CLAIM-004.md)'s distinction re-derived, so it rests there.
+  [CLAIM-004](CLAIM-004.md)'s distinction re-derived, which it cites.
   Searle's status functions ([LIT-482](../literature.d/LIT-482.md)) are
   the nearer held prior art, and "moderate OSR" is the wrong name for it.
 supports:
@@ -125,7 +134,7 @@ then separates a representational transformation (same organization, new
 realization) from a constitutive one: "converting shared joking into a
 reprimand by changing speaker authority and expected uptake". That is
 [CLAIM-004](CLAIM-004.md)'s passive/active distinction from A18, re-derived without citation.
-The claim rests on it, and on [CLAIM-061](CLAIM-061.md)'s finding that the proposition does not
+The claim cites it as the distinction's origin, and rests on [CLAIM-061](CLAIM-061.md)'s finding that the proposition does not
 fix the communicative event.
 
 A191 §1 put it in two sentences: "Changing u while preserving the appropriate
@@ -196,3 +205,12 @@ defeat condition's "intention held fixed" can be met for reproach at all.
 [CLAIM-224](CLAIM-224.md)'s residue, whether a target culture's norms define the same
 participant roles, is also open; [CASE-069](../cases.d/CASE-069.md) and [CASE-073](../cases.d/CASE-073.md) move the first
 dispute onto documented cases without settling it.
+
+## Note of 2026-10-30: what holds it back
+
+CLAIM-221's residue is unanswered: whether standing that enters through
+the content of the speaker's intention, as in Strawson's orders, is a
+relation in this claim's sense, which decides whether the defeat
+condition's "intention held fixed" can be met for reproach at all. For
+reprimand CLAIM-221 grants the claim through Searle, but the claim's
+dependents need it beyond institutional acts.

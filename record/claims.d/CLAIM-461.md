@@ -65,3 +65,13 @@ then a means to report fidelity, which [CLAIM-212](CLAIM-212.md) says it is not.
   runner-up, a section the case itself says "cuts against one line of the
   claim". A case of their own, filed from a source that is read, is what
   would settle the objection.
+
+## Note of 2026-10-30: what holds it back
+
+The one case behind it, CASE-063's runner-up, knows the "Son of God"
+renderings only through a critic (Ross) and the readers only through the
+translators' own field reports, so nothing shows that the literal word
+misreports to those readers. What would promote it is the case the claim
+itself names: a compensating rendering filed from a source that is read,
+with reader evidence that the literal rendering adds content the source
+lacked.
