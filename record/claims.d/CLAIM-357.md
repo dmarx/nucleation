@@ -1,10 +1,10 @@
 ---
 number: 357
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpl8vsy
-title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns'
-version: 4
+title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns'
+version: 5
 history:
 - version: 2
   date: '2026-10-18'
@@ -27,17 +27,40 @@ history:
     (NOTE-1159): their target is exactly this claim's set and their
     distance the ℓ₂ norm of the positive parts of the average, so the
     caution about averaging is made exact. The claim is unchanged.
+- version: 5
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the eighteenth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings). Its
+    premises CLAIM-365 and CLAIM-368 and its term TERM-060 are Active, and
+    no objection is filed. The formal clauses were re-derived
+    (p18/cluster_da_checks.py): the counterexample, the identity
+    m(d_actual) > 0 iff Γ > −Φ for Φ ≤ 0, and two systems with equal worst
+    and mean residuals and opposite Φ. "Are not the weights governance
+    assigns" narrowed to "need not be", as A40 says (ADR-047 kind 3). The
+    defeat condition attacked the governance-induced category, which
+    version 2 of the title no longer asserts. It is restated against the
+    title. The old condition read: "A showing that every failure of actual
+    updates to meet satisfiable demands is explained by known optimization
+    mechanisms (step size, curvature, noise, conditioning, a fixed
+    weighting rule) without modelling endorsement or the allocation of
+    authority, so that the governance-induced category adds nothing an
+    optimizer analysis does not already give. Not defeated by the formal
+    facts that Γ ≥ 0 and that Φ certifies infeasibility, which it rests on,
+    nor by cases where the two kinds occur together." That thesis, the
+    record's own, is filed as CLAIM-tmp4u6xx (ADR-047 kind 2) with the old
+    condition.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A showing that every failure of actual updates to meet satisfiable
-  demands is explained by known optimization mechanisms (step size,
-  curvature, noise, conditioning, a fixed weighting rule) without
-  modelling endorsement or the allocation of authority, so that the
-  governance-induced category adds nothing an optimizer analysis does
-  not already give. Not defeated by the formal facts that Γ ≥ 0 and that
-  Φ certifies infeasibility, which it rests on, nor by cases where the
-  two kinds occur together.
+  An error in the distinctions: demands and an admissible set with Φ > 0
+  under which some admissible update meets every declared requirement;
+  with Φ ≤ 0, an actual update that violates a requirement while Γ ≤ −Φ,
+  or meets every one while Γ > −Φ; or two systems that differ in whether
+  Φ > 0 and cannot share every aggregate measure of performance. Or a
+  showing that Φ or Γ, without an intervention on the allocation of
+  influence, identifies the process that kept an update from being made.
+  Not defeated by cases where the kinds occur together.
 tags:
 - self-governance
 - agency
@@ -71,7 +94,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 
-# CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns
+# CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns
 
 <!-- ref::uses-file: TERM-060 — the diagnostics are stated against the term's structural and governance-induced cases, which this claim narrows -->
 
@@ -163,6 +186,8 @@ governance-induced frustration: the satisfactory update exists and the
 captured allocation of influence does not choose it. A39's case study 2,
 [CASE-099](../cases.d/CASE-099.md) with demands and a feasible-update oracle, would test it; A39
 called it "the best candidate for an early discriminating experiment".
+That the governance-induced kind does work an optimizer analysis does not
+is filed apart as [CLAIM-tmp4u6xx](CLAIM-tmp4u6xx.md).
 
 ## What it does not say
 

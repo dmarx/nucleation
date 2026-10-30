@@ -1,12 +1,33 @@
 ---
 number: 492
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmprudek
 title: "If the self is defined to include whatever an agent cares about, the claim that all motivation serves the self is true by definition and rules nothing out; the thesis has content only with a criterion of the self's extent that can come apart from what the agent cares about"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted at the eighteenth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-057). The claim is a
+    conditional about what the thesis says under one definition of the
+    self, and its reasoning is in its own body. Its target, CLAIM-491,
+    was filed with this conditional in its defeated_if, which says the
+    thesis is answered only if tied to a criterion of the self's extent
+    that can come apart from caring; CLAIM-491 now says so in a note
+    (ADR-059). Three changes. answers QUESTION-300 becomes bears_on
+    (ADR-060), since the claim says what an answer needs and offers none.
+    LIT-1683 leaves grounds: it is Unavailable and cited for the
+    objection's lineage, which takes no edge (ADR-058). A defeated_if is
+    added, with a bullet under What it does not say that fixes "cares
+    about" as what the agent is moved to promote. The title is unchanged.
 role: counter
 warrant: interpretive
+defeated_if: >-
+  A statement of the extended-self thesis that fixes the self's extent by
+  what the agent is moved to promote and still rules out some motive that
+  could be observed.
 tags:
 - altruism
 - self
@@ -15,10 +36,8 @@ line:
 - distributed-agency
 objects_to:
 - CLAIM-491
-answers:
+bears_on:
 - QUESTION-300
-grounds:
-- LIT-1683
 summary: >-
   The classic objection to psychological egoism (Butler; Sober and Wilson,
   [LIT-1683](../literature.d/LIT-1683.md)), turned on the owner's thesis. "Every motive is my
@@ -30,7 +49,7 @@ summary: >-
   alone.
 ---
 <!-- inactive-ok-file: CLAIM-491 QUESTION-300 THEORY-1114 — Proposed, Open or Deferred; the thesis objected to, its question, an unread work and a reading named as an example -->
-<!-- inactive-ok-file: LIT-1683 until 2027-04-29 — an Unavailable ground, read at second hand in Stich (NOTE-1282); ask again whether the objection holds once the book is read, or by this date -->
+<!-- inactive-ok-file: LIT-1683 — Unavailable; Sober and Wilson, named for the objection's lineage and read at second hand in Stich (NOTE-1282), nothing here rests on it -->
 
 # CLAIM-492: If the self is defined to include whatever an agent cares about, the claim that all motivation serves the self is true by definition and rules nothing out; the thesis has content only with a criterion of the self's extent that can come apart from what the agent cares about
 
@@ -61,6 +80,10 @@ criterion. Candidates:
 - **Not that every criterion of the self is circular.** Self-categorization
   theory's salience by fit, for instance, is fixed by the comparative
   context, not by what the agent values ([THEORY-1114](../theory.d/THEORY-1114.md)).
+- **Not about caring in a reflective sense.** "Cares about" here is what
+  the agent is moved to promote. Read as reflective endorsement, a self
+  defined by caring would leave out compulsive and akratic motives, and the
+  thesis would then be false of those motives rather than empty.
 
 ## Note of 2026-10-29: candidate criteria, tested
 

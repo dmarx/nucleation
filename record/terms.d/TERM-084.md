@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpoy9w4
 title: 'descent, and which sense: provenance, lineage, common ancestry or causal descent'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -13,6 +13,11 @@ history:
     claims that use the word in one of its senses now name the term in
     `uses`, and CLAIM-191 is moved from provenance to lineage, which is
     what its "by descent, by its code" means. The definition is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    CLAIM-420's quotation in sense 4 updated to that claim's narrowed
+    title of 2026-10-30 ("can descend"). The definition is unchanged.
 tags:
 - individuation
 - social-ontology
@@ -63,7 +68,7 @@ means.
    paragraph [CLAIM-210](../claims.d/CLAIM-210.md) gained on 2026-10-27.
 4. **Causal descent.** The later thing exists because of the earlier one's
    activity, with nothing of it passed on. Directed, with no fidelity and no
-   continuation. [CLAIM-420](../claims.d/CLAIM-420.md): "a movement founded to oppose someone descends
+   continuation. [CLAIM-420](../claims.d/CLAIM-420.md): "a movement founded to oppose someone can descend
    from them without continuing their perspective", so "causal descent is
    not perspectival inheritance". [CLAIM-329](../claims.d/CLAIM-329.md)'s note of 2026-10-26 gives
    the limiting case: every training checkpoint is causally descended from

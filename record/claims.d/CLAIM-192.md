@@ -111,3 +111,12 @@ group's judgment set is a function of the members' whole sets. The claim
 needs nothing more. [THEORY-127](../theory.d/THEORY-127.md), from which [THEORY-725](../theory.d/THEORY-725.md) was split, keeps the
 general impossibility for proposition-wise rules, Propositions 2–3, which
 the source cites without proof. This claim does not use it.
+
+## Note of 2026-10-30: what holds it back
+
+Its first clause is [CLAIM-177](CLAIM-177.md)'s finding, which is Active. Its second
+clause is not shown. Nothing in the record separates an unannounced move
+carried by restatement from the owner's own unrecorded change of mind,
+which is its defeat condition's first clause and the doubt its summary
+names. The intervention that would separate them, changing the anchoring
+rate with the participants fixed ([CLAIM-186](CLAIM-186.md)), has not been run.

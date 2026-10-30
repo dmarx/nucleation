@@ -101,3 +101,15 @@ readings that cite this account ([THEORY-182](THEORY-182.md), [THEORY-185](THEOR
 what a model learns from co-occurrence, and [THEORY-518](THEORY-518.md) concerns
 distributional neighbourhoods from four hand-picked words. [ARG-033](../arguments.d/ARG-033.md) and
 [ARG-034](../arguments.d/ARG-034.md) judge the record's use of this reading, not the reading.
+
+## Note of 2026-10-30: what holds it back
+
+Its promote_when is unmet: no study in the record changes a language's
+inventory and measures the neighbouring terms' use against a control. A
+split of what Saussure proposes, on [THEORY-1110](THEORY-1110.md)'s pattern, would be Active
+at once, since Part Two ch. IV is read in full ([NOTE-594](../notes.d/NOTE-594.md)), but it frees
+nothing yet. [CLAIM-082](../claims.d/CLAIM-082.md) asserts the account, and needs this entry promoted,
+not split. [CLAIM-242](../claims.d/CLAIM-242.md) needs only the proposal: value as a concept, and that
+values do not cross between languages. The split is due when [CLAIM-242](../claims.d/CLAIM-242.md) is
+otherwise promotable. [CLAIM-242](../claims.d/CLAIM-242.md) then grounds on the split and drops this
+entry from its grounds.

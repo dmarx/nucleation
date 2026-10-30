@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpdzrll
 title: 'In a system described at more than one level, does "who drives?" have an answer at a given level, and what kinds of answer are there?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    CLAIM-316 moves from answered_by to bearing at the eighteenth status
+    review (ADR-060): it says that the apportionment changes over time and
+    offers no way to apportion drive. The question is unchanged.
 tags:
 - agency
 - behavioral-integration
@@ -22,11 +29,11 @@ summary: >-
   drive before asking about agency.
 answered_by:
 - CLAIM-158
-- CLAIM-316
 refined_by:
 - QUESTION-213
 bearing:
 - THEORY-612
+- CLAIM-316
 - THEORY-410
 - CLAIM-166
 - CLAIM-159

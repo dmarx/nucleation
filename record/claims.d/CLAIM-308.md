@@ -3,8 +3,8 @@ number: 308
 status: Proposed
 formerly:
 - CLAIM-tmpc3sk7
-title: 'Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no deterministic rule without foresight does better, under fixed known costs and with staleness left out'
-version: 2
+title: 'Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed'
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,28 @@ history:
     relative to the per-use overpayment is added. The upper bound was
     re-derived for the review and holds. The status stays Proposed: this is
     a counter, and CLAIM-314's objection to it is open.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Corrected at the eighteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). A step-by-step
+    re-derivation with controls, described in the pass's workbench entry,
+    found the lower bound mis-stated for a filed state with a per-use
+    cost. The break-even rule is within 2 − (c_a + u)/c_r of hindsight,
+    and no deterministic rule guarantees materially better, so "twice" is
+    reached only as c_a + u becomes negligible beside c_r. Filing once the
+    overpayment has reached F, rather than before it would pass F, can
+    exceed 2, so the rounding is now stated. CLAIM-314's objection is
+    conceded and written in (ADR-059): the guarantee needs recognizing
+    what a filed argument answers to cost a fixed amount per use, which
+    fails where reuse is found by search over the store. Version 2's
+    title read: 'Where reuse cannot be forecast, recurrence weighted by
+    reconstruction cost is the filing criterion, not only evidence for
+    one: filing once the reconstruction already paid for equals the cost
+    of filing is within twice the hindsight optimum on every sequence of
+    uses, and no deterministic rule without foresight does better, under
+    fixed known costs and with staleness left out'. The status stays
+    Proposed.
 role: counter
 warrant: demonstrated
 tags:
@@ -43,7 +65,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-185 — Proposed; the claim objected to, and an open claim cited as open -->
 
-# CLAIM-308: Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no deterministic rule without foresight does better, under fixed known costs and with staleness left out
+# CLAIM-308: Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing at the first use at which reconstructing again would take the overpayment past the cost of filing is within 2 − (c_a + u)/c_r of the hindsight optimum on every sequence of uses, at most twice, and no deterministic rule without foresight guarantees materially better, under fixed known costs, with staleness left out and the cost of recognizing what a filed argument answers taken as fixed
 
 ## The claim
 
@@ -63,15 +85,20 @@ filed, the extra cost of staying in A is c_r − c_a − u per use, and the
 change costs F. The rule is to file at the use where the reconstruction
 overpaid so far reaches F.
 
-On every sequence that rule costs at most twice what filing with
-hindsight would have cost. If reuse stops before the break-even point,
-it paid exactly what hindsight pays. If reuse stops at the break-even
-point, it paid about 2F plus upkeep against hindsight's F plus upkeep.
-After that, both pay upkeep per use. No deterministic rule without
-foresight guarantees better than 2: an adversary can stop reuse the
-moment the argument is filed. The paper proves this for snoopy caching, whose
-filed state costs nothing per use. The extension to a filed state with
-per-use cost c_a + u is the record's, by the same accounting.
+Write d = c_r − c_a − u for the overpayment per use and a = c_a + u.
+The rule reconstructs k = ⌊F/d⌋ times and files at use k + 1. If reuse
+stops by use k, it paid exactly what hindsight pays. If it stops at a
+later use n, it paid kd + F + n·a against hindsight's F + n·a, since
+(k + 1)d > F. The ratio is then at most 1 + kd/(F + (k + 1)a), which
+kd ≤ F bounds by 1 + d/c_r = 2 − a/c_r. That is at most 2, and reaches 2
+only as a/c_r goes to 0. No deterministic rule without foresight
+guarantees better than this factor, up to a term that vanishes as F/d
+grows: an adversary stops reuse at the use where the rule files. The
+paper proves the bound of 2 for snoopy caching, whose filed state costs
+nothing per use (a = 0). The extension to a per-use cost is the
+record's, and it tightens the factor. Rounding matters: filing once the
+overpayment so far has reached F can exceed 2 when F is not a multiple
+of d.
 
 So where reuse cannot be forecast, the past recurrences, each weighted
 by what it cost to redo, are the criterion. The decision is a function
@@ -108,6 +135,13 @@ such.
   c_a and u are fixed and known in the proof. The record's reconstruction
   costs are estimates, and reconstruction gets cheaper as related
   arguments are filed.
+- **That recognition costs a fixed amount per use.** [CLAIM-314](CLAIM-314.md):
+  certifying that stored answers cover a new question is NP-complete even
+  for conjunctive queries, and its cost grows with what is stored. Where
+  reuse is found by search, each filing raises the cost of using the
+  others, and item-by-item decisions are not independent. The guarantee
+  holds where a filed argument is reached by its code or index. Over the
+  whole store it is not shown. Conceded.
 - **That worst-case rules beat expected-value rules.** Where reuse can be
   forecast, a rule using the forecast can do better on average. There
   [CLAIM-303](CLAIM-303.md)'s criterion stands, and this objection narrows the clause
@@ -129,3 +163,10 @@ and concede the clause elsewhere. Or it could hold that the record always
 has some forecast, such as the line an argument belongs to or the
 question it answers, so that the worst case is the wrong standard.
 [CLAIM-185](CLAIM-185.md)'s threshold would then need to say which case the record is in.
+
+## Note of 2026-10-30: what holds it back
+
+The bound corrected in version 3 has not yet been re-derived by a second
+reviewer. Promoting this objection makes its concession due on [CLAIM-303](CLAIM-303.md),
+which has not answered: it could restrict its last clause to reuse that
+can be forecast, or hold that the record always has some forecast.

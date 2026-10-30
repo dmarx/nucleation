@@ -1,10 +1,10 @@
 ---
 number: 420
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpdfe07
-title: 'A historical figure''s influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone descends from them without continuing their perspective'
-version: 2
+title: 'A historical figure''s influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone can descend from them without continuing their perspective'
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -12,6 +12,21 @@ history:
     Note of 2026-10-22 added after Acharya et al. and Swidler were read:
     the hard case's attitude emerged after Reconstruction, and a fourth
     mode of persistence. The claim is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057: its one premise, TERM-084,
+    is Active and already defines causal descent by this claim's case;
+    no objection is filed; nothing in the record meets its defeat
+    condition, and Acharya, Blackwell and Sen, read, show two of the
+    three modes in sequence. The title was narrowed in its last clause
+    from "a movement founded to oppose someone descends from them
+    without continuing their perspective" to "can descend", which is
+    what the body's supposition and A38's "Causal descent ⇏
+    Perspectival inheritance" assert; an opposition movement may still
+    take up part of what it opposes. ADR-047 kind 3: an imprecise wide
+    form, so a note only.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1381 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-327 CLAIM-329 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-420: A historical figure's influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone descends from them without continuing their perspective
+# CLAIM-420: A historical figure's influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone can descend from them without continuing their perspective
 
 ## The claim
 

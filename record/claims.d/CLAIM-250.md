@@ -78,3 +78,14 @@ accountability should not be "mistaken for a statistical theorem", though
 accountability structure need not store each derivation separately: a
 factored representation can hold exponentially many alternative
 derivations compactly. The status is unchanged.
+
+## Note of 2026-10-30: what holds it back
+
+It is a normative proposal with no ground or premise of its own. The
+justification its note of 2026-10-15 names, [CLAIM-295](CLAIM-295.md), is Proposed, and
+[CLAIM-293](CLAIM-293.md) (Active) blocks the stronger route, that keeping justificatory
+structure keeps what revision needs. No case in the record tests its
+defeat condition. [CASE-086](../cases.d/CASE-086.md) and [CASE-090](../cases.d/CASE-090.md) illustrate the structure carrying
+an argument through revision. Neither is a revision that kept the
+structure and lost what its participants count as the argument, or the
+reverse.

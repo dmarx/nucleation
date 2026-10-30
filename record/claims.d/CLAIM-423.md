@@ -158,3 +158,13 @@ The claim falls if Pierson or Putnam already state it.
   his "single constitution" under five party systems (p. 24) is the
   claim's continuous state under changing organization, stated in 1992.
   Neither links speed to authority, so neither defeats the claim.
+
+## Note of 2026-10-30: what holds it back
+
+Its defeat condition is only half checked. The claim falls if Putnam's
+two-level games already state it, and Putnam ([LIT-1375](../literature.d/LIT-1375.md)) is Unavailable and
+unread. Pierson's 2000 article was not reached; [THEORY-885](../theory.d/THEORY-885.md) reads only the
+1997 text, which leaves the authority half open. No case in the record
+shows a component's temporal horizon, rather than the formal rule that
+gives an event its consequence, deciding which component holds
+authority.

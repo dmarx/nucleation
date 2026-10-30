@@ -1,10 +1,25 @@
 ---
 number: 464
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpdhkhm
 title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted at the eighteenth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-057). The four
+    criteria hold: its grounds CASE-170, CASE-175, CASE-176 and CASE-111
+    are Active, no objection is on file, and nothing in the record meets
+    its defeated_if. The claim is one of possibility, and CASE-170 is
+    enough for it: the demolition is documented, keeping the old wing was
+    a corrective outcome the demolition made unreachable before any court
+    ruled, and the standard governing it did not change. The notes of
+    2026-10-29 (the Abrego Garcia order, Scheppele, Fiss and Cover) add
+    mechanisms and a rival explanation and do not meet the defeated_if.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-

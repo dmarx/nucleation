@@ -30,6 +30,9 @@ work. Then take work in this order:
 3. **Blocker notes a premise has changed since.** The wait may be over.
 4. **Proposed readings no source of which is read in full.** These need
    reading, not review. Leave them out of clusters.
+5. **Live claims that need a work no NOTE reads.** An unread work takes no
+   edge (ADR-058). Either the work is read, or the edge goes and the body
+   keeps the citation; an Active claim on the list is checked first.
 
 The load-bearing ranking by reach came last on 2026-10-30. By then the most
 any Proposed entry was relied on was 1, and the ranking had stopped ordering

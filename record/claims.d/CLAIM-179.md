@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp6b44r
 title: 'When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -19,6 +19,18 @@ history:
     being Unavailable. The inactive-ok comments for LIT-930 and
     LIT-759–761 reworded from Deferred to Unavailable. The claim and its
     status are unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The eighteenth status review (ADR-057, ADR-058), at the status review's
+    ruling (the owner delegated these rulings). The title's premise, that
+    capture systems were abandoned over the disparity between who does the
+    work and who benefits, is Grudin's account as the record reads it,
+    THEORY-311, which names this claim as resting on it. THEORY-311
+    replaces LIT-757 in grounds. LIT-759, LIT-760 and LIT-761, which are
+    Unavailable, leave the grounds. So does LIT-930, which is Unavailable
+    and used only for an analogy in the note of 2026-10-11 (later). The
+    body still cites each. The claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,11 +47,7 @@ works:
 answers:
 - QUESTION-037
 grounds:
-- LIT-930
-- LIT-757
-- LIT-759
-- LIT-761
-- LIT-760
+- THEORY-311
 complements:
 - CLAIM-176
 summary: >-
@@ -154,3 +162,15 @@ qualifies the claim twice.
 
 What Lee's seven issues are ([LIT-760](../literature.d/LIT-760.md)) remains unknown here: the paper is
 Unavailable.
+
+## Note of 2026-10-30: what holds it back
+
+Its premise, Grudin's disparity account ([THEORY-311](../theory.d/THEORY-311.md)), is Proposed: no
+study in the record measures, member by member, the extra work asked and
+the benefit received across groupware. The record's own reading of
+[LIT-757](../literature.d/LIT-757.md) finds the one issue-based system Grudin cites abandoned for a
+political reason, not the disparity, and [LIT-758](../literature.d/LIT-758.md) reports IBIS adopted. The
+title says the disparity is removed, while the body says it moves to the
+owner's reviewing, which is the mechanism the defeat condition names.
+Nothing beyond the record's own five weeks says whether that sinks
+agent-filed records.

@@ -98,3 +98,13 @@ filing imposes on later recognition into u, as upkeep charged to the
 store rather than the item, and ask whether a rent-or-buy rule over the
 whole store keeps a bound. The readings give no such bound: the nearest,
 [THEORY-350](../theory.d/THEORY-350.md), has guarantees only for restricted structures.
+
+## Note of 2026-10-30: what holds it back
+
+[CLAIM-308](CLAIM-308.md) concedes it at this review, and it keeps the status its
+evidence gives it ([ADR-059](../decisions.d/ADR-059.md)). Its title says without condition that each
+filing raises the cost of later reuse, while its body says most of the
+record's reuse is lookup by code and that the conjunctive case does not
+model prose. Nothing in the record measures the cost of recognizing what a
+filed argument answers in the record's own reuse, or shows that coverage
+for prose arguments is at least as hard as the conjunctive case.

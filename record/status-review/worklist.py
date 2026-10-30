@@ -19,7 +19,7 @@ from pathlib import Path
 import fire
 import yaml
 
-SCHEMES = ["claims", "theory", "terms", "questions", "cases", "arguments", "notes"]
+SCHEMES = ["claims", "theory", "terms", "questions", "cases", "arguments", "notes", "literature"]
 # dependent -> premise edges: what a document needs to be true, or to mean what it says
 NEEDS = {"CLAIM": ["rests_on", "grounds", "uses"], "THEORY": ["presupposes"], "ARG": ["rests_on", "grounds"]}
 RETIRED = {"Superseded", "Rejected"}
@@ -49,7 +49,12 @@ class Record:
         self.needed_by: dict[str, set[str]] = {}
         # objections read from the objector's side too: not every `objects_to` has its converse
         self.objectors: dict[str, set[str]] = {}
+        # work -> statuses of the NOTEs that read it
+        self.read_as: dict[str, set[str]] = {}
         for code, fm in docs.items():
+            if scheme(code) == "NOTE":
+                for work in as_list(fm.get("paper")):
+                    self.read_as.setdefault(work, set()).add(str(fm.get("status", "")).split()[0] if fm.get("status") else "")
             for target in as_list(fm.get("objects_to")):
                 self.objectors.setdefault(target, set()).add(code)
             for field in NEEDS.get(scheme(code), []):
@@ -169,11 +174,12 @@ class Record:
         """Active CLAIMs that rest on, or are grounded in, something the record does not hold.
 
         An ARG is not counted: its status is credence in its inference, not in its premises (ADR-059).
+        Nor is a LIT: its status is whether the work can be had; an unread one is in unread_grounds.
         """
         return [(c, f, t, self.status(t))
                 for c, fm in sorted(self.docs.items()) if scheme(c) == "CLAIM" and self.status(c) == "Active"
                 for f in ("rests_on", "grounds") for t in as_list(fm.get(f))
-                if t in self.docs and self.status(t) != "Active"]
+                if t in self.docs and scheme(t) != "LIT" and self.status(t) != "Active"]
 
     def converse_inversions(self) -> list[tuple]:
         """Proposed readings that still list an Active claim under `supports`.
@@ -267,10 +273,16 @@ class Record:
 
     def reading_depth(self, code: str) -> str | None:
         """How deeply a reading's sources are read: Read if any NOTE on a source says so."""
-        sources = set(as_list(self.docs.get(code, {}).get("source")))
-        depths = {self.status(n) for n, fm in self.docs.items()
-                  if scheme(n) == "NOTE" and sources & set(as_list(fm.get("paper")))}
+        return self.depth_of(set(as_list(self.docs.get(code, {}).get("source"))))
+
+    def depth_of(self, works: set[str]) -> str | None:
+        depths = set().union(*(self.read_as.get(w, set()) for w in works))
         return "Read" if "Read" in depths else "Skimmed" if "Skimmed" in depths else None
+
+    def unread_grounds(self) -> list[tuple]:
+        """Live CLAIMs that need a work no NOTE reads: an unread work takes no edge (ADR-058)."""
+        return [(c, unread) for c in sorted(self.docs) if scheme(c) == "CLAIM" and self.status(c) in LIVE
+                and (unread := [t for t in self.premises(c) if scheme(t) == "LIT" and not self.depth_of({t})])]
 
     def unread_readings(self) -> list[tuple]:
         """Proposed THEORYs no source of which is read in full: reading, not review, is their next step."""
@@ -365,6 +377,10 @@ def main(root: str = "record", top: int = 30, show: str | None = None):
     print(f"\n## Proposed readings no source of which is read in full ({len(unread)})\n")
     for t, d in unread:
         print(f"- {short(r, t, 70)}  {d or 'no NOTE'}")
+    unread_g = r.unread_grounds()
+    print(f"\n## Live claims that need a work no NOTE reads ({len(unread_g)})\n")
+    for c, ts in unread_g:
+        print(f"- {short(r, c, 70)}  {', '.join(f'{t} [{r.status(t)}]' for t in ts)}")
     rows = r.load_bearing()
     print(f"\n## Load-bearing Proposed entries by reach (top {top} of {len(rows)})\n")
     for x in rows[:top]:
