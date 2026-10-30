@@ -194,7 +194,7 @@ was written to keep apart.
 
 Its defeat condition separates a change in how a person organizes their
 conduct from conformity of expression, and no read result shows the first
-under a misperceived consensus. Lerman et al. (LIT-1390) measure perception
-and Vilone and Polizzi (LIT-939) expression; Prentice and Miller's men
-(LIT-1370), the one such result cited, are unread, and CASE-140 to CASE-142
+under a misperceived consensus. Lerman et al. ([LIT-1390](../literature.d/LIT-1390.md)) measure perception
+and Vilone and Polizzi ([LIT-939](../literature.d/LIT-939.md)) expression; Prentice and Miller's men
+([LIT-1370](../literature.d/LIT-1370.md)), the one such result cited, are unread, and [CASE-140](../cases.d/CASE-140.md) to [CASE-142](../cases.d/CASE-142.md)
 are constructed.
