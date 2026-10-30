@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptsdgt
 title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-11'
@@ -64,6 +64,15 @@ history:
     Summary corrected to match NOTE-380 and THEORY-582: the
     coupling-constitution objection says coupling does not entail
     parthood, not that it never makes it. The claim is unchanged.
+- version: 9
+  date: '2026-10-29'
+  note: >-
+    THEORY-265 moves from grounds to corroborated_by, at the status
+    review's ruling (the owner delegated these rulings; ADR-058): the
+    criterion is drawn from HKB (THEORY-069), and the body cites the
+    model as a case of the criterion by a different mechanism, one the
+    claim would survive losing. THEORY-265 is promoted by the same
+    review. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -88,7 +97,6 @@ grounds:
 - THEORY-582
 - LIT-439
 - LIT-571
-- THEORY-265
 uses:
 - TERM-049
 - TERM-045
@@ -107,10 +115,11 @@ illustrated_by:
 - CASE-050
 complements:
 - CLAIM-157
+corroborated_by:
+- THEORY-265
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
-<!-- inactive-ok-file: THEORY-265 — Proposed; the model case that supports and sharpens the criterion, and the reading that limits observational tests of direction -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading the criterion is drawn from, with its unread originals -->
 
 # CLAIM-172: Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
@@ -183,3 +192,10 @@ mechanism.
   ([THEORY-275](../theory.d/THEORY-275.md), [LIT-947](../literature.d/LIT-947.md), [NOTE-788](../notes.d/NOTE-788.md)). The criterion "each side's
   timing shifts with the other's" therefore needs an intervention on one
   member ([QUESTION-063](../questions.d/QUESTION-063.md)), not observed flow, to tell peers from a hierarchy.
+
+## Note of 2026-10-29: what holds it back
+
+Its one premise not held is THEORY-069, the HKB reading its criterion is
+drawn from, which is Proposed because the bimanual data are reported
+rather than shown and no original or replication is read. CLAIM-165's
+objection is written in (version 4).

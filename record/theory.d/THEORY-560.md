@@ -99,3 +99,14 @@ they did not.
 - The vagus is an interoceptive channel, so this is a route from the
   microbiome into the bodily state that, on [THEORY-045](THEORY-045.md), felt affect
   reports. That bearing is the record's, not the review's.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. NOTE-703 read the review in
+full, but it is a narrative review without a search method, by a
+probiotics manufacturer's staff, and its human half rests on one meta-
+analysis of healthy volunteers and trials it selected. No independent
+systematic review of placebo-controlled psychobiotic trials, separating
+healthy from depressed participants and subjective from objective
+outcomes, is in the record. Narrowing to the rodent half would free
+nothing: CLAIM-166 uses both halves.

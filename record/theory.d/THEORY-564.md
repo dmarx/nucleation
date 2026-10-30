@@ -13,8 +13,20 @@ promote_when: >-
   depends on the symmetry-breaking initialisation. Further toy
   demonstrations that a spare slot gets filled cannot settle it, since
   expansion was never in doubt; the open part is reduction.
-title: "A bounded generative model can learn its own structure with no machinery beyond inference and learning: spare hidden-state slots with flat likelihoods get filled when an observation fits none of the learned causes, and Bayesian model reduction on the learned prior over states can return unneeded slots, though in a toy concept-learning task it recovers the true number of causes only 45–80% of the time unless the likelihood is given"
-version: 1
+title: "A bounded generative model can learn its own structure with no machinery beyond inference and learning: spare hidden-state slots with flat likelihoods get filled when an observation fits none of the learned causes, and Bayesian model reduction on the learned prior over states can return unneeded slots, though in a toy concept-learning task it recovers the true number of causes in only 45–80% of runs with four to seven causes, and never with two or three, unless the likelihood is given"
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Title corrected to Table 1 by the sixteenth status review, at the
+    status review's ruling (the owner delegated these rulings; ADR-047,
+    kind 3): the true number of concepts won in 45–80% of runs for four
+    to seven, never for two or three, as NOTE-485's version 2 and this
+    entry's body already say. Version 1's title ended: "though in a toy
+    concept-learning task it recovers the true number of causes only
+    45–80% of the time unless the likelihood is given". The claim is
+    otherwise unchanged.
 tags:
 - model-comparison
 - cognition
@@ -38,7 +50,7 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-079 — Proposed; named as a caution about model reduction, not leaned on -->
 
-# THEORY-564: A bounded generative model can learn its own structure with no machinery beyond inference and learning: spare hidden-state slots with flat likelihoods get filled when an observation fits none of the learned causes, and Bayesian model reduction on the learned prior over states can return unneeded slots, though in a toy concept-learning task it recovers the true number of causes only 45–80% of the time unless the likelihood is given
+# THEORY-564: A bounded generative model can learn its own structure with no machinery beyond inference and learning: spare hidden-state slots with flat likelihoods get filled when an observation fits none of the learned causes, and Bayesian model reduction on the learned prior over states can return unneeded slots, though in a toy concept-learning task it recovers the true number of causes in only 45–80% of runs with four to seven causes, and never with two or three, unless the likelihood is given
 
 ## Source
 
@@ -107,3 +119,14 @@ learned.
   posterior it is given.
 - The Raja et al. critique ([LIT-598](../literature.d/LIT-598.md)) bears on it: what the agent "learns" is
   bounded by slots and features the modeller supplied.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. NOTE-485 read the paper in
+full, but the first clause, that a bounded generative model can learn its
+own structure with no further machinery, generalises past one toy domain
+of eight concepts and six binary features under one symmetry-breaking
+initialisation. No larger runs compared with a non-parametric learner are
+in the record. Narrowing it to the toy runs would make it promotable on
+one study, but would free nothing while CLAIM-337's other grounds,
+THEORY-662 and THEORY-577, are Proposed.

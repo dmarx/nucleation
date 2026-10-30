@@ -1,10 +1,10 @@
 ---
 number: 288
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpzn7l2
 title: 'In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are set by the modeller, not by the organization: they can become its goals through their role in selecting what persists, but it does not produce or revise them'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-16'
@@ -54,16 +54,27 @@ history:
     or revised by it, which is this claim's own answer condition. Version
     5's title ended: "the norms the organization appears to maintain are
     the modeller's, not set by the organization itself".
+- version: 7
+  date: '2026-10-29'
+  note: >-
+    Promoted by the sixteenth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-057). THEORY-221
+    moves from grounds to corroborated_by (ADR-058): the body never
+    cites it, and its own Connections say it goes further than this
+    claim, a second route the claim would survive losing. Its remaining
+    grounds, THEORY-1119 and THEORY-1166, are Active; its one objection,
+    CLAIM-356, is conceded in version 6; and it has no defeated_if for
+    anything in the record to meet. The claim is unchanged.
 role: counter
 warrant: interpretive
 grounds:
 - THEORY-1119
 - LIT-1017
-- THEORY-221
 - THEORY-1166
 corroborated_by:
 - THEORY-219
 - THEORY-220
+- THEORY-221
 tags:
 - self-governance
 - agency

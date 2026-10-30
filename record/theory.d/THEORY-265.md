@@ -1,22 +1,32 @@
 ---
 number: 265
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmph3haa
-promote_when: >-
-  A replication outside the authors' clean game: modules that overlap,
-  couplings of graded strength, or frustrated constraints, together with
-  a sweep of the coupling ratio and the phase rate, showing that
-  payoff-driven synchrony still forms along the strong couplings and still
-  turns those groups into units that switch as one. A second route would
-  settle more: the same result with entrainment through the units' own
-  outputs (a Kuramoto or HKB coupling) instead of a payoff gradient on
-  phase. It fails if the effect disappears once modules overlap or the
-  ratio of within to across coupling falls toward one. What cannot
-  settle it: more runs of the same 30-by-10 game, or biological
-  synchrony cited by analogy.
-title: "In a minimal model of bistable deciders in a modular coordination game, phase synchronisation within strongly coupled modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not"
-version: 1
+title: "In Tissot et al.'s minimal model of bistable deciders in a modular coordination game (thirty modules of ten, couplings 1 within modules and 0.01 across), phase synchronisation within modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not"
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the sixteenth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-057; ADR-047's ruling
+    on one study): NOTE-773 read the paper in full, the title claims no
+    more than the model showed, and nothing in the record contradicts
+    it. The review re-implemented the model from NOTE-773's equations
+    and reproduced it with controls (note of 2026-10-29). The title now
+    names the paper and its setting. Read as covering any coupling
+    ratio, the old wording is contradicted by the re-run, in which
+    random phases already reach the optimum once across-module coupling
+    is 0.1 or more (ADR-047, kind 3). The old title: In a minimal model
+    of bistable deciders in a modular coordination game, phase
+    synchronisation within strongly coupled modules, driven only by each
+    unit's local payoff, makes each module respond to the others as a
+    single unit, and synchrony matched to the modules is needed: global
+    synchrony does not. The promote_when asks for a replication outside
+    the clean game, which is open scope nobody asserts (kind 4), and
+    moves unchanged to QUESTION-tmpf4yf4. Its supports entry for
+    CLAIM-172 becomes corroborates (ADR-058).
 tags:
 - agency
 - complex-systems
@@ -33,13 +43,17 @@ summary: >-
   reach a global optimum against 0 of 50 without; imposed global
   synchrony does not help. It is one clean game, one parameter setting,
   and a postulated phase rule; the modules are built in, and timing finds
-  them rather than drawing them.
-supports:
+  them rather than drawing them. Re-implemented by the sixteenth status
+  review: learned phases, and module-matched phases imposed by hand, reach
+  the optimum; random, shuffled and global phases do not make modules
+  respond as units. The effect matters only where modules are isolated
+  enough to lock in.
+corroborates:
 - CLAIM-172
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-157 THEORY-232 THEORY-069 — Proposed; the entrainment mark, block answer and accounts this bears on, open -->
 
-# THEORY-265: In a minimal model of bistable deciders in a modular coordination game, phase synchronisation within strongly coupled modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not
+# THEORY-265: In Tissot et al.'s minimal model of bistable deciders in a modular coordination game (thirty modules of ten, couplings 1 within modules and 0.01 across), phase synchronisation within modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not
 
 ## Source
 
@@ -110,11 +124,12 @@ any collective benefit was available (Fig. 5B).
   and persistence of the learned phases across changed games, not
   dissolution. No `answers:` is declared: it is a case an answer must
   handle, built with the boundary given.
-- **[CLAIM-172](../claims.d/CLAIM-172.md).** Supports it in the within-module case and sharpens it:
+- **[CLAIM-172](../claims.d/CLAIM-172.md).** Corroborates it in the within-module case and sharpens it:
   relative to this target, common timing as such made no unit (the global
-  control); timing matched to the strong couplings did. [CLAIM-172](../claims.d/CLAIM-172.md)'s
-  defeat condition is met trivially by any complete micro simulation
-  like this one, which suggests it needs rewording (see [NOTE-773](../notes.d/NOTE-773.md)).
+  control); timing matched to the strong couplings did. CLAIM-172's defeat
+  condition, which any complete micro simulation like this one met as
+  first written, was reworded on 2026-10-14 to ask for descriptive economy
+  (its version 6).
 - **[CLAIM-157](../claims.d/CLAIM-157.md).** The couplings are nearly decomposable from the start, so
   the block criterion returns the same verdict before and after the
   transition, while the module's behaviour as a unit changes. One system
@@ -126,3 +141,42 @@ any collective benefit was available (Fig. 5B).
 - **[THEORY-069](THEORY-069.md).** HKB entrainment is through the effectors' coupled
   dynamics; this is through a payoff rule on phase. They share the word
   and the sine term, not the mechanism.
+
+## Note of 2026-10-29: re-run by the status review
+
+The sixteenth status review re-implemented the model from NOTE-773's
+equations (v2 Eqs. 3–5: N = 300, k = 10, c_ij = 1 within and 0.01 across,
+c_ii = 0, I(x) = clip(100x, ±1), noise uniform ±0.01, ω = 0.01,
+ν = 3·10⁻⁵). It learned phases for 30,000 steps, then ran 50 tests of
+20,000 steps from random states with the phases frozen. A run counted as a
+global optimum if every unit's sign, averaged over the last cycle, was the
+same.
+
+- **Learned phases:** within-module phase coherence 0.97–0.99; 50, 50 and
+  26 of 50 runs at the optimum for three learning seeds, and 50 of 50 for
+  the third after 60,000 learning steps. Every module flip went toward the
+  other modules' majority.
+- **Random phases:** 0 of 50 for every seed.
+- **Learned phases shuffled across units** (the same phases, with the match
+  to modules destroyed): 0 of 50.
+- **Synchrony matched to modules, imposed by hand:** 50 of 50.
+  Module-matched synchrony is what does it.
+- **Global synchrony:** 8–19 of 50 runs ended at an optimum, but not by
+  modules responding to one another. About 15 of 30 modules flipped each
+  cycle, 16% of flips went toward the others' majority, and in 46% of
+  cycles more than half the modules flipped at once: the whole system
+  resets each cycle and an all-agree state appears transiently. The
+  paper's Fig. 7A is reproduced for modules responding as units, not for
+  the end state.
+- **Self-coupling c_ii = 1:** the same pattern.
+- **Beyond the paper's setting:** with within-module couplings graded
+  (uniform 0.2–1.8), the result holds at across-coupling 0.01. At 0.03,
+  random phases already reach the optimum in about half the runs, and at
+  0.1 or more in all of them, so there is no lock-in for timing to undo.
+  The slowest phase rate tried, 10⁻⁵, did not synchronise modules within
+  30,000 steps. Overlapping modules, frustrated constraints and
+  entrainment through the units' outputs were not run; they are
+  QUESTION-tmpf4yf4.
+
+The re-run is the record's own, from a transcription whose figures were
+read from their captions only.
