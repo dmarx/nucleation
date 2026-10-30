@@ -155,4 +155,4 @@ predict; the instrumental half is qualitative simulation of stylised
 tasks. The Pavlovian half rests on one experiment, reported second-hand,
 and its arbitration is a suggestion with no algorithm. Nothing held
 separates reliability from the expected-value-of-control account's cost
-of computation (THEORY-070).
+of computation ([THEORY-070](THEORY-070.md)).

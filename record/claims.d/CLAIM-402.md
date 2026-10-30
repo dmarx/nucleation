@@ -177,7 +177,7 @@ independently.
 
 ## Note of 2026-10-29: what holds it back
 
-Its remaining Proposed ground, THEORY-273, waits on readings of Lemeire
+Its remaining Proposed ground, [THEORY-273](../theory.d/THEORY-273.md), waits on readings of Lemeire
 (2018) and Slater (2015). The body cites it only under "What it does not
-say", as it cited THEORY-036, so the edge may be corroboration; the next
+say", as it cited [THEORY-036](../theory.d/THEORY-036.md), so the edge may be corroboration; the next
 pass should rule on it.

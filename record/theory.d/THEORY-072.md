@@ -235,9 +235,9 @@ record's interpretation.
 ## Note of 2026-10-29: what holds it back
 
 No canonical dissipative structure has been analysed under Definitions
-1–4 of LIT-582, with its candidate constraints and their time scales
+1–4 of [LIT-582](../literature.d/LIT-582.md), with its candidate constraints and their time scales
 listed, and no protocell model has been shown to realise closure under
 them; the candle reading under "What this does not say" is a sketch.
-Biological Autonomy (LIT-536), which would show whether Moreno and Mossio
+Biological Autonomy ([LIT-536](../literature.d/LIT-536.md)), which would show whether Moreno and Mossio
 fold differentiation into closure, is Unavailable, and Mossio and Bich
 (2014) is not held.

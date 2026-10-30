@@ -132,8 +132,8 @@ them.
 
 ## Note of 2026-10-29: what holds it back
 
-Neither Every Thing Must Go (LIT-301) nor Ross 2000 is read, so nothing
+Neither Every Thing Must Go ([LIT-301](../literature.d/LIT-301.md)) nor Ross 2000 is read, so nothing
 held shows the projectibility, perspective or scale clause excluding a
 pattern that Dennett's compressibility criterion admits. The two criteria
-are read in full (NOTE-190, NOTE-191); the claim that the added clauses do
+are read in full ([NOTE-190](../notes.d/NOTE-190.md), [NOTE-191](../notes.d/NOTE-191.md)); the claim that the added clauses do
 the ontological work is the part no held text settles.

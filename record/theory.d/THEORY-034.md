@@ -117,7 +117,7 @@ relations.
   a regress. Whether it answers the dilemma is open ([NOTE-099](../notes.d/NOTE-099.md)).
 - That Every Thing Must Go is outside the dilemma's reach. Chakravartty
   quotes it for objects "purged of their intrinsic natures", and it is
-  unread ([LIT-301](../literature.d/LIT-301.md), Deferred). That is QUESTION-tmp4xx0a.
+  unread ([LIT-301](../literature.d/LIT-301.md), Deferred). That is [QUESTION-tmp4xx0a](../questions.d/QUESTION-tmp4xx0a.md).
 - That the category-theoretic or graph-theoretic routes rescue the target
   position. Yoneda fixes identity only up to isomorphism among presupposed
   objects ([THEORY-032](THEORY-032.md)). Leitgeb & Ladyman ([LIT-154](../literature.d/LIT-154.md)) defend primitive structural

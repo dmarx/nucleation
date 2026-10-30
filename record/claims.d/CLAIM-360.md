@@ -93,15 +93,15 @@ organization that reaches it.
 
 ## The record's cases, assigned
 
-- **C: deep linear networks (THEORY-740).** A shallow and a deep linear
+- **C: deep linear networks ([THEORY-740](../theory.d/THEORY-740.md)).** A shallow and a deep linear
   network trained on the same data reach the same end-to-end map. The
   shallow one learns every mode exponentially on one timescale; the deep
   one learns them one at a time, strongest first, each in a sigmoidal
   transition, and between stages single predictions "can move the wrong
-  way" (THEORY-186, from the decoupled solution). A38: "same eventual capability but different developmental
+  way" ([THEORY-186](../theory.d/THEORY-186.md), from the decoupled solution). A38: "same eventual capability but different developmental
   attainability". And "aggregate optimization improvement can coexist with
   temporarily worsening constituent predictions".
-- **B, inside the same case, at a time budget (THEORY-740, [THEORY-187](../theory.d/THEORY-187.md)).**
+- **B, inside the same case, at a time budget ([THEORY-740](../theory.d/THEORY-740.md), [THEORY-187](../theory.d/THEORY-187.md)).**
   The deep network reaches mode α at about (τ/s_α) ln(s_α/ε), the shallow
   one at about τ ln(s_α/ε), so with a deadline the deep network has the
   strong modes (s_α > 1) sooner and the weak ones later. From small initial strength

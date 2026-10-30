@@ -161,8 +161,8 @@ still need the balanced start, or something close to it.
 
 No held result proves that a two-layer linear network started from small
 random, unbalanced weights converges to the decoupled solution as the
-initial scale goes to zero; LIT-862 shows it in simulation (Fig. 3C), and
-LIT-864 solves unbalanced starts only when already decoupled. A simulation
+initial scale goes to zero; [LIT-862](../literature.d/LIT-862.md) shows it in simulation (Fig. 3C), and
+[LIT-864](../literature.d/LIT-864.md) solves unbalanced starts only when already decoupled. A simulation
 run at the fifteenth status review agrees (four modes, five seeds per
 scale: as the scale falls from 10⁻¹ to 10⁻⁴, the off-diagonal part of the
 product falls from 15% to 2% of the largest strength, and the deviation

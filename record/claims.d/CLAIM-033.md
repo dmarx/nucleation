@@ -111,4 +111,4 @@ stays interpretive, because no sample has been drawn.
 Its title is a claim of prevalence, and no sample of published
 translations has been drawn by a rule stated in advance and rated by
 independent judges, which is what its defeat condition tests. Jakobson's
-examples (THEORY-170) and CASE-012 show only that such a rendering occurs.
+examples ([THEORY-170](../theory.d/THEORY-170.md)) and [CASE-012](../cases.d/CASE-012.md) show only that such a rendering occurs.
