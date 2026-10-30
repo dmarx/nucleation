@@ -40,7 +40,7 @@ summary: >-
 ## Contribution
 
 It updated Hayes et al.'s 2006 summary of ACT mediation studies
-(LIT-555) with a systematic search, inclusion rules and a mediation-quality
+([LIT-555](../literature.d/LIT-555.md)) with a systematic search, inclusion rules and a mediation-quality
 checklist. It confined itself to trials against an active treatment, so
 that a mediator could be tested for being ACT's own. What is true after it
 is that the mediation evidence for ACT's model rests mostly on overall
@@ -164,17 +164,17 @@ the test.
 ## Connections
 
 It is the systematic successor to the mediation section of Hayes et al.
-2006 (LIT-555, read in NOTE-431 from an early manuscript). It cites Levin
+2006 ([LIT-555](../literature.d/LIT-555.md), read in [NOTE-431](NOTE-431.md) from an early manuscript). It cites Levin
 et al.'s 2012 meta-analysis of laboratory component studies for
 acceptance's large effect against inactive conditions. It recommends the
 MPFI (Rolffs, Rogge & Wilson 2016), the multidimensional flexibility
-measure from Rogge's group, whose 2024 meta-analysis (LIT-543) is the one
+measure from Rogge's group, whose 2024 meta-analysis ([LIT-543](../literature.d/LIT-543.md)) is the one
 the record's ACT accounts name. Its search ends in January 2015, so it
 predates that work.
 
 ## Bearing on the record
 
-- **THEORY-050: partly, and not what its `promote_when` asks.** The
+- **[THEORY-050](../theory.d/THEORY-050.md): partly, and not what its `promote_when` asks.** The
   account's test (1) is "a first-hand reading of the 2024 meta-analysis
   ... showing that change in avoidance, fusion or flexibility precedes
   and predicts change in outcome across more than one kind of disorder".
@@ -187,17 +187,17 @@ predates that work.
   AAQ that `promote_when` excludes. It also finds defusion, the
   account's "fusion", not specific to ACT. So it supports the account's
   process claim as mediation without temporal order. That is the state
-  THEORY-053 calls the right kind of evidence with the order not
-  established, and THEORY-050 already records that state from Hayes et
+  [THEORY-053](../theory.d/THEORY-053.md) calls the right kind of evidence with the order not
+  established, and [THEORY-050](../theory.d/THEORY-050.md) already records that state from Hayes et
   al. 2006. It does not meet the condition.
-- **THEORY-051: not at all, and it confirms the gap.** The account waits
+- **[THEORY-051](../theory.d/THEORY-051.md): not at all, and it confirms the gap.** The account waits
   on a study that changes or measures the self as context apart from
   defusion and acceptance. This review found none: "self as context has
   been consistently overlooked as a potential mediator". It suggests a
   measure (the SEQ) and dismantling designs, which is the test the
   account's `promote_when` already names. Nothing here bears for or
   against it.
-- **LIT-543** stays the test both accounts name. This review is not a
+- **[LIT-543](../literature.d/LIT-543.md)** stays the test both accounts name. This review is not a
   substitute for it.
 - No instruction for machine-learning practice; nothing for the anthology.
 
@@ -223,5 +223,5 @@ predates that work.
   dismantling design?
 - Does acceptance change before outcome in more than the three studies
   here, and with measures other than global self-report?
-- What does Macri and Rogge's 2024 meta-analysis (LIT-543), with the MPFI
+- What does Macri and Rogge's 2024 meta-analysis ([LIT-543](../literature.d/LIT-543.md)), with the MPFI
   domains, add to this?

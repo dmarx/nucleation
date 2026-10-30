@@ -122,17 +122,17 @@ treat each other as rational.
 
 ## Connections
 
-It applies Bach and Harnish (LIT-1040, unread) against Searle (2010; the
+It applies Bach and Harnish ([LIT-1040](../literature.d/LIT-1040.md), unread) against Searle (2010; the
 record reads Searle's "Social ontology: Some basic principles" as
-LIT-482). It
-points to Harnish's "Commitments and Speech Acts" (LIT-tmp7ybhu, read
+[LIT-482](../literature.d/LIT-482.md)). It
+points to Harnish's "Commitments and Speech Acts" ([LIT-tmp7ybhu](../literature.d/LIT-tmp7ybhu.md), read
 alongside), which argues that expressed attitude and commitment may
 coincide. Berdini instead seeks a source for commitment in the presumption
 of rationality.
 
 ## Bearing on the record
 
-- **CLAIM-221: partly, through one quoted sentence.** The claim's open
+- **[CLAIM-221](../claims.d/CLAIM-221.md): partly, through one quoted sentence.** The claim's open
   point after 2026-10-13 is whether standing that enters through the
   content of the speaker's intention counts as a relation, and it waits on
   Bach and Harnish for that. Berdini quotes them: whether illocutionary acts
@@ -146,7 +146,7 @@ of rationality.
   Harnish's. It does not show how they treat teasing or reproach. It is one
   sentence at second hand, from an author who rejects it. It does not meet
   what the claim waits on: a reading of the book.
-- **QUESTION-073: partly, the same passage.** On Bach and Harnish, as
+- **[QUESTION-073](../questions.d/QUESTION-073.md): partly, the same passage.** On Bach and Harnish, as
   Berdini quotes them, standing would enter the act only as mutual belief
   about rights and obligations, and a frame the parties hold together would
   enter as mutual contextual belief and presumption (p. 203). Both are
@@ -162,7 +162,7 @@ of rationality.
 - **Second-hand Bach and Harnish.** The three quotations of the 1979 book
   (pp. 39, 124, 132) are Berdini's, unchecked against the book. The
   definition of expressing is cited to p. 39 here and to p. 15 in Harnish
-  (2005, LIT-tmp7ybhu), with slightly different wording. Either the book
+  (2005, [LIT-tmp7ybhu](../literature.d/LIT-tmp7ybhu.md)), with slightly different wording. Either the book
   states it twice or one citation is wrong.
 - **Pagination.** The PDF prints pp. 201–207. The journal's metadata and
   Crossref give pp. 160–165.
@@ -173,4 +173,4 @@ of rationality.
   illocutionary acts, or only the communicative ones they separate from
   the conventional?
 - Would a presumption of rationality make an act's verdict depend on who
-  is presumed rational, and so on the audience, as QUESTION-073 asks?
+  is presumed rational, and so on the audience, as [QUESTION-073](../questions.d/QUESTION-073.md) asks?

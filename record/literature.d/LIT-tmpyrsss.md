@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-30 (NOTE-tmpq3jbs) from the publisher''s open-access PDF on Firenze University Press''s journal site (oaj.fupress.net/index.php/pam/article/download/7083/7063/7008, 8 pp.), reached through the DOI. Worth reading for one sentence the record wanted: its quotation of Bach and Harnish (1979, p. 124, LIT-1040, unread) that whether illocutionary acts create a deontology is "a moral question", and that "at best they create mutual beliefs between speaker and hearer about rights and obligations". The paper itself is a short programmatic piece. Against Searle''s rule-based account of the deontology of speech acts, it adopts Bach and Harnish''s inferential model, and proposes that the presumption of the interlocutor''s rationality is the basic, "ultra-minimalist" normativity from which commitments and obligations might be built. It calls itself a "quessertion" and argues no further.'
+status_note: 'read in full 2026-10-30 ([NOTE-tmpq3jbs](../notes.d/NOTE-tmpq3jbs.md)) from the publisher''s open-access PDF on Firenze University Press''s journal site (oaj.fupress.net/index.php/pam/article/download/7083/7063/7008, 8 pp.), reached through the DOI. Worth reading for one sentence the record wanted: its quotation of Bach and Harnish (1979, p. 124, [LIT-1040](LIT-1040.md), unread) that whether illocutionary acts create a deontology is "a moral question", and that "at best they create mutual beliefs between speaker and hearer about rights and obligations". The paper itself is a short programmatic piece. Against Searle''s rule-based account of the deontology of speech acts, it adopts Bach and Harnish''s inferential model, and proposes that the presumption of the interlocutor''s rationality is the basic, "ultra-minimalist" normativity from which commitments and obligations might be built. It calls itself a "quessertion" and argues no further.'
 title: 'Rationality as the Normative Dimension of Speech Acts'
 version: 1
 history:
@@ -53,7 +53,7 @@ Acts", *Phenomenology and Mind* 2. DOI 10.13128/phe_mi-19636.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpq3jbs.*
+*From the reading, [NOTE-tmpq3jbs](../notes.d/NOTE-tmpq3jbs.md).*
 
 - **Rules do not fix the act.** With Bach and Harnish, "meaning never
   exhausts illocutionary force" (1979, p. 132): "The door is open" may be
@@ -77,6 +77,6 @@ Acts", *Phenomenology and Mind* 2. DOI 10.13128/phe_mi-19636.
 
 ## Standing in the record
 
-Filed on 2026-10-30 for its quotation of Bach and Harnish (LIT-1040, unread)
-on rights and obligations, which bears on CLAIM-221 and QUESTION-073. It is a
+Filed on 2026-10-30 for its quotation of Bach and Harnish ([LIT-1040](LIT-1040.md), unread)
+on rights and obligations, which bears on [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md). It is a
 second-hand route to that one passage, not a reading of the book.

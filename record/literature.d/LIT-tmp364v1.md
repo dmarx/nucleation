@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-10-30 (NOTE-tmpjiwb7, Skimmed) from the NIH author
+  read in part 2026-10-30 ([NOTE-tmpjiwb7](../notes.d/NOTE-tmpjiwb7.md), Skimmed) from the NIH author
   manuscript in PubMed Central (PMC6112163, NIHMS963171), fetched as PMC
   XML through NCBI's E-utilities after the PMC web page put up a
   reCAPTCHA; worth reading as the systematic review and meta-analysis of
@@ -76,7 +76,7 @@ General*, 147(9), 1349–1381. doi:10.1037/xge0000462. PMC6112163.
 
 ## Why this is here
 
-CLAIM-156 says mindfulness integrates competing interests without
+[CLAIM-156](../claims.d/CLAIM-156.md) says mindfulness integrates competing interests without
 needing to change the discount curves. Its defeat condition is that the
 effect is fully mediated by measured discounting. This review gathers the
 experimental literature on changing discounting, including the

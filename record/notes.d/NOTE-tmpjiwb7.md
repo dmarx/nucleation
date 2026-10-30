@@ -101,7 +101,7 @@ the change. So the literature says that discounting moves, not how.
   - Hendrickson and Rasmussen (2013), college students, mindful eating
     against a nutrition-information control: g = 0.27 for food
     (significant) and 0.16 for money (n.s.).
-  - Morrison et al. (2014; NOTE-tmp0mi8i), college students, ACT against
+  - Morrison et al. (2014; [NOTE-tmp0mi8i](NOTE-tmp0mi8i.md)), college students, ACT against
     waitlist: g = 0.94, with the between-groups comparison at trend level
     (p < .06) and the within-subjects reduction significant.
   - The review asks for "better controls (e.g., sham-therapy in lieu of
@@ -151,12 +151,12 @@ It builds on the addiction literature that treats steep discounting as a
 "trans-disease process" (Bickel et al. 2012), and on Ainslie's bundling,
 tested by Kirby and Guastello and by Madden's own laboratory. It covers
 studies published before 1 March 2016. So it cannot include Dixon et al.
-(2018; LIT-906) or Ge et al. (2024; LIT-916), the two direct mindfulness
-studies CLAIM-156 cites.
+(2018; [LIT-906](../literature.d/LIT-906.md)) or Ge et al. (2024; [LIT-916](../literature.d/LIT-916.md)), the two direct mindfulness
+studies [CLAIM-156](../claims.d/CLAIM-156.md) cites.
 
 ## Bearing on the record
 
-- **CLAIM-156: partly, and only on the claim's first fork.** The claim's
+- **[CLAIM-156](../claims.d/CLAIM-156.md): partly, and only on the claim's first fork.** The claim's
   defeat condition is that mindfulness's effect on self-control is
   "fully mediated by a change in measured discounting". To test that, a
   study must measure discounting and choice under temptation and ask
@@ -169,8 +169,8 @@ studies CLAIM-156 cites.
   mindfulness acts on the valuations. It is consistent with the claim's
   route, which needs no change in discounting, but it does not show
   that route either, since no non-discounting outcome was measured. It
-  does not reach LIT-906 or LIT-916, which postdate its search.
-- **THEORY-067 and CLAIM-169.** Outside what the claim waits on, the
+  does not reach [LIT-906](../literature.d/LIT-906.md) or [LIT-916](../literature.d/LIT-916.md), which postdate its search.
+- **[THEORY-067](../theory.d/THEORY-067.md) and [CLAIM-169](../claims.d/CLAIM-169.md).** Outside what the claim waits on, the
   bundling subsection is a read summary of evidence for the bundling
   mechanism these entries say is untested. Bundled choice reduced
   impulsive choice in humans and rats, and in rats bundling experience
@@ -197,6 +197,6 @@ studies CLAIM-156 cites.
 
 - Does mindfulness reduce impulsive action without a matching change in
   discounting? This needs both measured, with mediation tested. That is
-  the study CLAIM-156 asks for, and none appears here.
-- Do the post-2016 mindfulness studies (LIT-906, LIT-916) change the
+  the study [CLAIM-156](../claims.d/CLAIM-156.md) asks for, and none appears here.
+- Do the post-2016 mindfulness studies ([LIT-906](../literature.d/LIT-906.md), [LIT-916](../literature.d/LIT-916.md)) change the
   subcategory's estimate?

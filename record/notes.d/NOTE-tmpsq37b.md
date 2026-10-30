@@ -139,17 +139,17 @@ German report (p. 26).
 ## Connections
 
 It summarizes Nord's *Translating as a Purposeful Activity* (1997;
-LIT-829, unread) and her 1989 typology, and stands in the line of Reiss and
+[LIT-829](../literature.d/LIT-829.md), unread) and her 1989 typology, and stands in the line of Reiss and
 Vermeer's skopos theory. It places Nida's dynamic and formal equivalence
-(LIT-791, unread) among the historical dichotomies its two options recall,
+([LIT-791](../literature.d/LIT-791.md), unread) among the historical dichotomies its two options recall,
 and differs from Nida in refusing to rank them. Gutt's thesis
-(LIT-tmp1eyaz, read alongside) also refuses a general ranking of
+([LIT-tmp1eyaz](../literature.d/LIT-tmp1eyaz.md), read alongside) also refuses a general ranking of
 translation types, but grounds the choice in relevance to the audience, not
 in a client's brief.
 
 ## Bearing on the record
 
-- **CLAIM-205: partly, for its functional half.** The claim says a
+- **[CLAIM-205](../claims.d/CLAIM-205.md): partly, for its functional half.** The claim says a
   functional account "need not be committed to only one context or a
   static stance profile". The article says this in Nord's own words. The
   audience is chosen "from among various possible audiences" (p. 17), the
@@ -162,12 +162,12 @@ in a client's brief.
   proposed "rich contextual baseline of context-response profiles and
   supervised prediction", which stays the record's proposal. The book stays
   unread.
-- **Beside CLAIM-233 (not among the entries this reading was sought
+- **Beside [CLAIM-233](../claims.d/CLAIM-233.md) (not among the entries this reading was sought
   for).** On Nord, a documentary translation does not aim to reproduce the
   original's effect at all, so "functional equivalence" is not one account
   but a family. What a functional rival predicts about fidelity judgements
   depends on the brief the raters assume. The status review may want to
-  note this where CLAIM-233 speaks of "a functional-equivalence account".
+  note this where [CLAIM-233](../claims.d/CLAIM-233.md) speaks of "a functional-equivalence account".
 - No instruction for machine-learning practice.
 
 ## Limitations

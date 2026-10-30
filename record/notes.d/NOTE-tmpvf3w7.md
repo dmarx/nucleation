@@ -161,18 +161,18 @@ have to rest on something other than the illocutionary facts.
 ## Connections
 
 It summarizes, by one of its authors, Bach and Harnish's *Linguistic
-Communication and Speech Acts* (LIT-1040, unread). Its foils are Alston's
+Communication and Speech Acts* ([LIT-1040](../literature.d/LIT-1040.md), unread). Its foils are Alston's
 *Illocutionary Acts and Sentence Meaning* (2000) and Searle's *Rationality
 in Action* (2001), neither held. On the record's side, Strawson 1964
-(LIT-1043, read in NOTE-736) is the source of the "spectrum of
-conventionality" Harnish credits. Searle's status functions (LIT-482, read)
-are the institutional half CLAIM-221 grants. Berdini (LIT-tmpyrsss, read
+([LIT-1043](../literature.d/LIT-1043.md), read in [NOTE-736](NOTE-736.md)) is the source of the "spectrum of
+conventionality" Harnish credits. Searle's status functions ([LIT-482](../literature.d/LIT-482.md), read)
+are the institutional half [CLAIM-221](../claims.d/CLAIM-221.md) grants. Berdini ([LIT-tmpyrsss](../literature.d/LIT-tmpyrsss.md), read
 alongside) cites this article as facing normativity with a solution other
 than hers.
 
 ## Bearing on the record
 
-- **CLAIM-221: partly. It confirms the rival's shape and adds a twist, but
+- **[CLAIM-221](../claims.d/CLAIM-221.md): partly. It confirms the rival's shape and adds a twist, but
   says nothing on teasing.** The claim describes the intention-based line
   as individuating communicative acts by speaker-internal states, and
   conceding institutional acts to convention. A co-author's text bears both
@@ -187,10 +187,10 @@ than hers.
   normative theory makes the act a matter of the speaker's liability "to
   censure, correction, or the like", a relation to others (p. 24). If
   Harnish is right, that relation and the expressed attitude pick out the
-  same acts, and the dispute CLAIM-221 describes may be partly verbal. The
-  article does not mention teasing, reproach or standing. What CLAIM-221
+  same acts, and the dispute [CLAIM-221](../claims.d/CLAIM-221.md) describes may be partly verbal. The
+  article does not mention teasing, reproach or standing. What [CLAIM-221](../claims.d/CLAIM-221.md)
   waits on for teasing, Bach and Harnish's own treatment, is not met.
-- **QUESTION-073: partly.** The question asks whether teasing and reproach
+- **[QUESTION-073](../questions.d/QUESTION-073.md): partly.** The question asks whether teasing and reproach
   are individuated by communicative intention or partly by a jointly held
   frame and standing. On the evidence here, EA-TIA answers "intention" for
   every communicative act. It handles context as "contextual information"
@@ -220,4 +220,4 @@ than hers.
   teasing, whose expressed attitude is not a belief?
 - If liability to censure and the expressed attitude coincide, are they
   equivalent for an audience that does not share the speaker's standing?
-  That is the case QUESTION-073 asks for.
+  That is the case [QUESTION-073](../questions.d/QUESTION-073.md) asks for.

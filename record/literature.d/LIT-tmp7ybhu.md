@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-30 (NOTE-tmpvf3w7) from the journal''s own open-access PDF (philosophica.ugent.be/article/82209/galley/202023/download/, 31 pp.). Worth reading as Harnish''s own account of the expressed-attitude theory of Bach and Harnish (1979, LIT-1040, unread), the record''s nearest first-hand text of it. On that theory communicative illocutionary acts are individuated by the attitude the speaker expresses: the speaker reflexively intends the hearer to take the utterance as reason to think the speaker has that attitude. Communication succeeds when the hearer recognizes it. Conventional, institutional acts are a separate category. Harnish weighs it against the normative theories of Searle and Alston, on which an act is individuated by the commitment or responsibility the speaker takes on. He finds Searle''s account of how commitment is created unexplained and Alston''s rule-subjection analysis false. He argues that expressing a belief that P and taking responsibility for P may be equivalent, so the normative theory may describe the same facts. Teasing, reproach and the audience''s standing are not discussed.'
+status_note: 'read in full 2026-10-30 ([NOTE-tmpvf3w7](../notes.d/NOTE-tmpvf3w7.md)) from the journal''s own open-access PDF (philosophica.ugent.be/article/82209/galley/202023/download/, 31 pp.). Worth reading as Harnish''s own account of the expressed-attitude theory of Bach and Harnish (1979, [LIT-1040](LIT-1040.md), unread), the record''s nearest first-hand text of it. On that theory communicative illocutionary acts are individuated by the attitude the speaker expresses: the speaker reflexively intends the hearer to take the utterance as reason to think the speaker has that attitude. Communication succeeds when the hearer recognizes it. Conventional, institutional acts are a separate category. Harnish weighs it against the normative theories of Searle and Alston, on which an act is individuated by the commitment or responsibility the speaker takes on. He finds Searle''s account of how commitment is created unexplained and Alston''s rule-subjection analysis false. He argues that expressing a belief that P and taking responsibility for P may be equivalent, so the normative theory may describe the same facts. Teasing, reproach and the audience''s standing are not discussed.'
 title: 'Commitments and Speech Acts'
 version: 1
 history:
@@ -57,7 +57,7 @@ Robert M. Harnish (2005), "Commitments and Speech Acts", *Philosophica* 75,
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpvf3w7.*
+*From the reading, [NOTE-tmpvf3w7](../notes.d/NOTE-tmpvf3w7.md).*
 
 - **Two paradigms.** Austinian theories add rules or conventions to the
   utterance (Searle, Searle and Vanderveken, Alston). Gricean theories add
@@ -84,7 +84,7 @@ Robert M. Harnish (2005), "Commitments and Speech Acts", *Philosophica* 75,
 
 ## Standing in the record
 
-Filed on 2026-10-30 because CLAIM-221 and QUESTION-073 wait on a reading of
-the intention-based line of Bach and Harnish, whose book (LIT-1040) is
+Filed on 2026-10-30 because [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) wait on a reading of
+the intention-based line of Bach and Harnish, whose book ([LIT-1040](LIT-1040.md)) is
 unread. This article is Harnish's own later statement of that theory against
 its normative rivals. It is not the book, and it does not discuss teasing.

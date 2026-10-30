@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-30 (NOTE-tmp0mi8i) from the NIH author manuscript
+  read in full 2026-10-30 ([NOTE-tmp0mi8i](../notes.d/NOTE-tmp0mi8i.md)) from the NIH author manuscript
   in PubMed Central (PMC5661961, NIHMS906394), fetched as PMC XML through
   NCBI's E-utilities after the PMC web page put up a reCAPTCHA; worth
   reading as the first test of an acceptance-based intervention on delay
@@ -72,9 +72,9 @@ PMC5661961.
 
 ## Why this is here
 
-CLAIM-156 asks whether mindfulness and acceptance act on the discount
+[CLAIM-156](../claims.d/CLAIM-156.md) asks whether mindfulness and acceptance act on the discount
 curves or on the step from an impulse to action. This is one of the two
 mindfulness or ACT studies in Rung and Madden's meta-analysis
-(LIT-tmp364v1). THEORY-050 holds that psychological inflexibility is the
+([LIT-tmp364v1](LIT-tmp364v1.md)). [THEORY-050](../theory.d/THEORY-050.md) holds that psychological inflexibility is the
 process ACT changes, and here an outcome changed while the inflexibility
 measure did not.
