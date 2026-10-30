@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptw11r
 title: 'Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record''s remedy only if superseded anchors stop attracting new structure'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -16,6 +16,17 @@ history:
     objects_to blurb is 'the claim this one denies'. It bears on
     QUESTION-109, which already names it as the cost against
     CLAIM-182's benefit. The text is unchanged.
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-917, Dunitz and Bernstein, Unavailable and read by no NOTE,
+    leaves grounds. The body cites it, marked unread, for the extreme
+    case of disappearing polymorphs, an instance; the mechanism at the
+    bench is Ostwald's (LIT-920, read in NOTE-709), which stays in
+    grounds with THEORY-132, THEORY-136 and THEORY-178. The body keeps
+    the citation. The text is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -29,7 +40,6 @@ grounds:
 - THEORY-136
 - THEORY-178
 - THEORY-132
-- LIT-917
 - LIT-920
 uses:
 - TERM-020

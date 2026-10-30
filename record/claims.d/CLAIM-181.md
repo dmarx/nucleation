@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpas8q0
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -17,6 +17,18 @@ history:
     closed vocabulary of schemes, roles and relations formalizes
     early, and a move that fits no CLAIM, TERM, ARG or declared
     relation is either forced into one or lost
+- version: 3
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-756 (Shipman and Marshall) and LIT-917 (Dunitz and Bernstein),
+    both Unavailable and read by no NOTE, leave grounds. The body cites
+    LIT-756 as the source of the objection it turns on the record, an
+    attribution, and keeps the citation; it never cites LIT-917, and its
+    crystal paragraph states the seeding physics from memory. The claim
+    now has no grounds: its evidence is the record's own decisions
+    (ADR-032) and the cases that illustrate it. The text is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -29,9 +41,6 @@ works:
 objects_to:
 - CLAIM-176
 - CLAIM-178
-grounds:
-- LIT-917
-- LIT-756
 summary: >-
   Shipman and Marshall's objection to formal representation ([LIT-756](../literature.d/LIT-756.md)),
   turned on this record, and narrowed on the owner's correction of

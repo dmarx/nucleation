@@ -1,10 +1,10 @@
 ---
 number: 162
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpr1vuv
 title: 'Capture and selectively admitted evidence in two lab realizations: in a four-variable model of authority, record and competence the equilibrium fold under self-scoring is at c ≈ 0.4247 while the declared history is trapped from c ≈ 0.4469, and in a 32-member event-level population, admission of cues that depends on the record reverses the sign of the admitted evidence and leaves the worse alternative in charge in 41 of 64 worlds, which exact inverse-propensity weighting brings to 0 of 64 below full selectivity'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -15,6 +15,20 @@ history:
     dmarx/PerspectiveLab@7e2edc2 and its provenance moved from an archive
     to that commit. One description was corrected: the v1.1 comparison is
     a 2 × 2 factorial of four cells, not four arms.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted at the twentieth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its documentation
+    is dmarx/PerspectiveLab@7e2edc2 and its stored results: every figure
+    in the title and under "Results, as stored" was read again from
+    experiments/regime_atlas/results/atlas_summary.json,
+    experiments/stochastic_population/results/ (summary.json,
+    horizon_check.json) and
+    experiments/capture_feedback/results/factorial_12seed.json, and
+    agrees. The runs were not regenerated. The directive naming CLAIM-297
+    and CLAIM-277, now Active, is narrowed to CLAIM-286. The case is
+    unchanged.
 standing: stipulated
 kind: executed-study
 tags:
@@ -41,7 +55,7 @@ summary: >-
   The sign reversal is [CASE-156](CASE-156.md)'s; what is new is two running
   realizations, with their code.
 ---
-<!-- inactive-ok-file: CLAIM-297 CLAIM-277 CLAIM-286 — Proposed; the claims this case illustrates or bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-286 — Proposed; a claim this case bears on, nothing here rests on its being settled -->
 
 # CASE-162: Capture and selectively admitted evidence in two lab realizations: in a four-variable model of authority, record and competence the equilibrium fold under self-scoring is at c ≈ 0.4247 while the declared history is trapped from c ≈ 0.4469, and in a 32-member event-level population, admission of cues that depends on the record reverses the sign of the admitted evidence and leaves the worse alternative in charge in 41 of 64 worlds, which exact inverse-propensity weighting brings to 0 of 64 below full selectivity
 

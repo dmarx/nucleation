@@ -6,7 +6,18 @@ formerly:
 title: 'Iterative retrieval can turn a provisional interpretation into a premise:
   a framing selects what is encountered, what is encountered reinforces the framing,
   and the question being investigated drifts as well as the queries'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-1079, Mitra, Singhal and Buckley, Unavailable and read by no
+    NOTE, leaves grounds: the body cites it only as the IR literature's
+    source for the term query drift, which TERM-056 carries. The body
+    keeps the citation. The claim now has no grounds. The text is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -20,8 +31,6 @@ date: '2026-10-15'
 line: nucleating-argument
 uses:
 - TERM-056
-grounds:
-- LIT-1079
 complements:
 - CLAIM-184
 - CLAIM-191

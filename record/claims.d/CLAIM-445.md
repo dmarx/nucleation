@@ -4,7 +4,25 @@ status: Proposed
 formerly:
 - CLAIM-tmp28sti
 title: 'A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    Six works sought on 2026-10-24 and read by no NOTE leave grounds:
+    LIT-1499 (Buzan, Wæver and de Wilde), LIT-1493 (Pierson 1993) and
+    LIT-1475 (Jervis), Unavailable, and LIT-1495 (Scheuerman), LIT-1481
+    (Tilly) and LIT-1485 (Rooney), Unfetched. Policy feedback is read
+    through Pierson 2000 (THEORY-885), securitisation's audience at
+    second hand through Ku and Finch (LIT-1478, NOTE-1133), and
+    executives prolonging an emergency is Bjørnskov, Voigt and Khesali's
+    hypothesis (THEORY-911); all three stay in grounds. The security
+    dilemma and Tilly are attributions, and Rooney's dataset is not
+    used. The body keeps every citation; its list of works not read read
+    'Sought and Unavailable', and now says which are Unfetched. The
+    claim is otherwise unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -38,12 +56,6 @@ grounds:
 - THEORY-911
 - THEORY-906
 - THEORY-898
-- LIT-1499
-- LIT-1493
-- LIT-1495
-- LIT-1475
-- LIT-1481
-- LIT-1485
 - LIT-1473
 - LIT-1478
 - LIT-1487
@@ -134,7 +146,7 @@ oversight, changes of jurisdiction and exogenous changes of threat
 separate them.
 
 
-Read on 2026-10-24: Juhász ([NOTE-1122](../notes.d/NOTE-1122.md)); Bjørnskov, Voigt and Khesali ([NOTE-1125](../notes.d/NOTE-1125.md), [THEORY-911](../theory.d/THEORY-911.md)), whose 115 cases are "suspected to be unlawful" from news and NGO coding, unlawful emergencies lasting on average 321 days against 115, and whose untested hypothesis, executives prolonging an emergency to postpone review of their own conduct, is this claim's mechanism stated for emergencies, with no data on measures outliving the emergency; the IDI summary ([NOTE-1129](../notes.d/NOTE-1129.md), [THEORY-906](../theory.d/THEORY-906.md)), with no stated sources or method and cases chosen because they autocratized, which reads the channels as deliberate exploitation, where this claim needs no bad faith; and Ku and Finch ([NOTE-1133](../notes.d/NOTE-1133.md), [THEORY-898](../theory.d/THEORY-898.md)). Sought and Unavailable: Buzan, Wæver and de Wilde ([LIT-1499](../literature.d/LIT-1499.md)); Pierson 1993 ([LIT-1493](../literature.d/LIT-1493.md); [THEORY-885](../theory.d/THEORY-885.md) reads his 2000 paper); Scheuerman ([LIT-1495](../literature.d/LIT-1495.md)); Jervis ([LIT-1475](../literature.d/LIT-1475.md)); Tilly ([LIT-1481](../literature.d/LIT-1481.md)); and Rooney's emergency-powers dataset ([LIT-1485](../literature.d/LIT-1485.md)).
+Read on 2026-10-24: Juhász ([NOTE-1122](../notes.d/NOTE-1122.md)); Bjørnskov, Voigt and Khesali ([NOTE-1125](../notes.d/NOTE-1125.md), [THEORY-911](../theory.d/THEORY-911.md)), whose 115 cases are "suspected to be unlawful" from news and NGO coding, unlawful emergencies lasting on average 321 days against 115, and whose untested hypothesis, executives prolonging an emergency to postpone review of their own conduct, is this claim's mechanism stated for emergencies, with no data on measures outliving the emergency; the IDI summary ([NOTE-1129](../notes.d/NOTE-1129.md), [THEORY-906](../theory.d/THEORY-906.md)), with no stated sources or method and cases chosen because they autocratized, which reads the channels as deliberate exploitation, where this claim needs no bad faith; and Ku and Finch ([NOTE-1133](../notes.d/NOTE-1133.md), [THEORY-898](../theory.d/THEORY-898.md)). Sought and not read: Unavailable, Buzan, Wæver and de Wilde ([LIT-1499](../literature.d/LIT-1499.md)), Pierson 1993 ([LIT-1493](../literature.d/LIT-1493.md); [THEORY-885](../theory.d/THEORY-885.md) reads his 2000 paper) and Jervis ([LIT-1475](../literature.d/LIT-1475.md)); Unfetched, the publisher's free copy refused to this client, Scheuerman ([LIT-1495](../literature.d/LIT-1495.md)), Tilly ([LIT-1481](../literature.d/LIT-1481.md)) and Rooney's emergency-powers dataset ([LIT-1485](../literature.d/LIT-1485.md)).
 
 ## What it does not say
 
@@ -155,3 +167,13 @@ Read on 2026-10-24: Juhász ([NOTE-1122](../notes.d/NOTE-1122.md)); Bjørnskov, 
   audience's side. It cuts the other way once: when the military itself
   disrupted routines, the public blamed the military and the
   government's secrecy.
+
+## Note of 2026-10-30: what holds it back
+
+Its premise [CLAIM-446](CLAIM-446.md) is Proposed: no result in the record measures
+defensive authority apart from threat belief. Its own test, whether
+protective authority declines when an independently measured threat
+declines, with the residue divided among genuine risk, switching costs and
+the regime's control of evidence, has not been run on any case the record
+holds; Bjørnskov, Voigt and Khesali ([THEORY-911](../theory.d/THEORY-911.md)) state the prolongation
+mechanism as a hypothesis and do not test it.

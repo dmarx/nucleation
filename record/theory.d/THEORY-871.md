@@ -17,7 +17,17 @@ promote_when: >-
   experience is a separate question that this THEORY does not carry, and a
   result about it neither promotes nor refutes this one.
 title: "Instructed reappraisal lowers reported negative affect to aversive pictures while the responses of the amygdala, periaqueductal gray, hypothalamus and other subcortical regions to the same pictures show evidence of no change; the regions it reduces are cortical, mainly higher visual and parietal"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The supports entry for CLAIM-412 is replaced by corroborates: the
+    twentieth status review (ADR-057), at the status review's ruling (the
+    owner delegated these rulings), moved this reading from CLAIM-412's
+    grounds to its corroborated_by (ADR-058), since that claim cites the
+    result as fitting it and does not stand on it. The account is
+    unchanged.
 tags:
 - emotion-and-affect
 - neuroscience
@@ -33,7 +43,7 @@ summary: >-
   emotion-responsive regions; the eight regions reduced were all cortical.
   BOLD and one rating per trial; it does not show that the unchanged
   response is part of what is felt, though the authors write as if it were.
-supports:
+corroborates:
 - CLAIM-412
 ---
 <!-- inactive-ok-file: CLAIM-412 THEORY-056 THEORY-680 THEORY-057 THEORY-878 — Proposed; the claim and accounts this bears on, named, nothing here rests on them -->
@@ -116,3 +126,10 @@ It supports [CLAIM-412](../claims.d/CLAIM-412.md) narrowly, and limits it narrow
   bears more directly on them.
 - **[THEORY-057](THEORY-057.md).** Not tested. One category of affect, no variation across
   instances.
+
+## Note of 2026-10-30: what holds it back
+
+Its promote_when asks for a replication with Bayes-factor evidence for
+the null, in an independent sample or with another strategy, and for the
+version of record (Nature Neuroscience 2024), which is closed and was not
+read. Neither is held.

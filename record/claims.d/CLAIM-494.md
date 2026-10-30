@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmpybc4k
 title: "Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-1700, Batson et al. 1997, and LIT-1683, Sober and Wilson, both
+    Unavailable and read by no NOTE, leave grounds. The claim's evidence
+    is Batson et al.'s result as the SEP entry of Doris, Stich, Walmsley
+    and Schulz reports it (LIT-1729, read in NOTE-1274), on which the
+    note of 2026-10-29 already relies; it is now the ground. Sober and
+    Wilson are named in the summary only, and their argument as Stich
+    reads it (NOTE-1282) leaves egoism open, so nothing here rests on
+    them. The body keeps both citations. The text is unchanged.
 role: counter
 warrant: empirical
 tags:
@@ -18,19 +32,18 @@ objects_to:
 answers:
 - QUESTION-300
 grounds:
-- LIT-1700
-- LIT-1683
+- LIT-1729
 summary: >-
   The empathy–altruism hypothesis as Batson et al. (1997) defend it
   against Cialdini et al. (1997): in experiments (two, by the SEP's
   account), empathy predicted helping with self–other merging controlled,
-  and merging did not mediate it. Sober and Wilson (1998) argue on
+  and merging did not mediate it. Sober and Wilson (1998; [LIT-1683](../literature.d/LIT-1683.md)) argue on
   independent grounds that psychological egoism is not established. Filed
   as the empirical objection to the owner's thesis; both papers are
   unread, so the record holds the disagreement, not its resolution.
 ---
 <!-- inactive-ok-file: CLAIM-491 QUESTION-300 LIT-1728 — Proposed, Open or Deferred; the thesis objected to, its question, and the unread works on each side -->
-<!-- inactive-ok-file: LIT-1700 LIT-1683 until 2027-04-29 — Unavailable grounds, read at second hand (NOTE-1274, NOTE-1282); ask again whether the objection holds once they are read, or by this date -->
+<!-- inactive-ok-file: LIT-1700 LIT-1683 until 2027-04-29 — Unavailable, cited and read at second hand (NOTE-1274, NOTE-1282), not grounds; ask again whether the objection holds once they are read, or by this date -->
 
 # CLAIM-494: Empathic concern for another produces motivation whose ultimate goal is the other's welfare, and it does so when perceived self–other merging is controlled, so not all helping is concern for an extended self
 

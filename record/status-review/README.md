@@ -26,7 +26,9 @@ work. Then take work in this order:
 2. **Sole blockers.** These are the unheld premises that alone hold a claim
    back. Review the premise and the edge together: in passes 13 to 16 the
    blocker was more often a ground that is really corroboration (ADR-058)
-   than a premise that could be promoted.
+   than a premise that could be promoted. A sole blocker is counted, not
+   listed, while a recent blocker note holds the premise or every claim it
+   holds back: that note already says what the wait is.
 3. **Blocker notes a premise has changed since.** The wait may be over.
 4. **Proposed readings no source of which is read in full.** These need
    reading, not review. Leave them out of clusters.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdjt64
 title: 'Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations'' physical generation nor their adequacy follows from gluing alone'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -25,6 +25,19 @@ history:
     removed: the body never cites it, and neither the three mechanisms
     nor the gluing clause needs its thesis about individuation. The text
     is unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-1660, Willems, Unavailable and read by no NOTE, leaves grounds;
+    the body cites it, after A22 and A23, for the behavioural form. What
+    the first mechanism stands on, that interconnection restricts joint
+    behaviour and composition yields effective boundary relations, is
+    CLAIM-480, which the body and defeater (a) already cite and which
+    reads the same projection in Baez and Fong (LIT-1644, NOTE-1223); it
+    is now a premise. The body keeps the citation. The text is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,8 +63,9 @@ line:
 - distributed-agency
 complements:
 - CLAIM-143
+rests_on:
+- CLAIM-480
 grounds:
-- LIT-1660
 - LIT-1659
 - LIT-016
 - THEORY-299
@@ -72,7 +86,7 @@ summary: >-
   physically operative correspondence structure, rather than revealing or
   redescribing it.
 ---
-<!-- inactive-ok-file: CLAIM-143 CLAIM-473 CLAIM-481 CLAIM-480 CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1659 LIT-1646 LIT-1658 LIT-1668 LIT-1639 LIT-1674 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-471: Physical interconnection can generate effective constraints on joint behaviour; measurement can establish correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone

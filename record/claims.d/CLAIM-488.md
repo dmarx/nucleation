@@ -4,7 +4,24 @@ status: Proposed
 formerly:
 - CLAIM-tmpqmsav
 title: 'Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twentieth status review (ADR-058; an unread work takes no edge),
+    at the status review's ruling (the owner delegated these rulings).
+    LIT-778, Torgersen, and LIT-767, Wyner and Ziv, both Unavailable and
+    read by no NOTE, leave grounds. The first step now rests on
+    CLAIM-381, which defines Le Cam's deficiency between the item-
+    indexed tables of source and rendering and shows it a finite
+    computation; Torgersen is cited as the manuscript's source. The
+    second step applies the definition of a Wyner–Ziv problem, source
+    coding with side information at the decoder only, under its own
+    condition; Wyner and Ziv are cited for the name. The body keeps both
+    citations. 'Why it is Proposed' ended: 'It goes Active when the two
+    works, or readings of them, are held and the steps are checked
+    against them.'
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -21,9 +38,9 @@ date: '2026-10-28'
 line: pragmatic-transport
 works:
 - what-survives-translation
+rests_on:
+- CLAIM-381
 grounds:
-- LIT-778
-- LIT-767
 - THEORY-602
 complements:
 - CLAIM-050
@@ -59,8 +76,8 @@ are Unavailable here. [CLAIM-050](CLAIM-050.md) said so in its own body. When [C
 narrowed on 2026-10-28 to what its read grounds carry, these steps moved
 here, so that the narrowing drops nothing silently.
 
-It goes Active when the two works, or readings of them, are held and the
-steps are checked against them.
+It goes Active when the first step's link from deficiency to the order is
+held; the note of 2026-10-30 says what that needs.
 
 ## Note of 2026-10-29: what holds it back
 
@@ -69,3 +86,13 @@ deficiency as the approximate Blackwell order, and Wyner and Ziv ([LIT-767](../l
 for decoder-only side information. It goes Active on readings of them, or on
 a checked re-derivation of Le Cam's randomization criterion for finite
 experiments, which would hold the first step.
+
+## Note of 2026-10-30: what holds it back
+
+Its first step still lacks Le Cam's randomization criterion for finite
+experiments. [CLAIM-381](CLAIM-381.md) defines the deficiency and computes it, and that a
+deficiency of ε bounds every [0, 1]-loss risk gap by ε follows in two
+lines from that definition; the converse, which makes deficiency the
+approximate Blackwell order and not only a bound on it, is neither read
+nor re-derived. The wait on Wyner and Ziv in the note of 2026-10-29 no
+longer applies: the second step is that problem's definition.

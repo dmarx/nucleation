@@ -1,10 +1,10 @@
 ---
 number: 454
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpwr001
 title: 'A latent feature or mode recovered from an organization''s members'' activity is at most a constituent of an organizational perspective, not the perspective: a feature allocation says which members take part in which modes, and whether those modes are organized into one perspective depends on the relations of access, uptake and authority among their carriers, which the same allocation leaves open'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-26'
@@ -16,6 +16,22 @@ history:
     Extended before merge, on 2026-10-27, with supporting cases from the
     circuits works read on 2026-10-26 (no version bump, the entry being
     new).
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    At the twentieth status review (ADR-057, ADR-058), at the status
+    review's ruling (the owner delegated these rulings), CASE-165 moves
+    from grounds to illustrated_by: the claim cites the case as the model
+    built on its division (T23 §10), and its argument rests on TERM-072,
+    TERM-074, CLAIM-414, CLAIM-135 and CASE-101, not on the case's
+    findings. Promoted, an interpretive thesis meeting ADR-057's four
+    criteria: every premise is Active, nothing objects to it, and nothing
+    in the record meets its defeated_if; no study in the record has
+    features recovered without relational data predict interventions on
+    authorization or communication. Two body citations are brought up to
+    date: THEORY-1011 is Rejected, and CLAIM-427 is Superseded by ARG-025,
+    which this claim does not need. Version 1's grounds were CASE-101 and
+    CASE-165. The title is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -40,6 +56,7 @@ rests_on:
 - CLAIM-414
 grounds:
 - CASE-101
+illustrated_by:
 - CASE-165
 uses:
 - TERM-072
@@ -57,9 +74,9 @@ summary: >-
   ever one feature's carriers. It says the allocation underdetermines the
   perspective.
 ---
-<!-- inactive-ok-file: CLAIM-135 TERM-072 TERM-074 CLAIM-418 CLAIM-427 CLAIM-367 — Proposed; the claims and terms this one rests on or uses, held open, and it is Proposed with them -->
-<!-- inactive-ok-file: CASE-165 CASE-166 — Proposed; the cases filed with this claim from the same exchange -->
-<!-- inactive-ok-file: THEORY-1011 THEORY-1014 — Proposed; circuits readings cited as hypotheses, not leaned on -->
+<!-- inactive-ok-file: CLAIM-367 — Proposed; cited for where the governance of training lies, nothing here rests on it -->
+<!-- inactive-ok-file: CASE-165 CASE-166 — Proposed; the cases filed with this claim from the same exchange, an illustration and a reported study, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-1011 THEORY-1014 — Rejected and Proposed; circuits readings cited as hypotheses, not leaned on -->
 
 # CLAIM-454: A latent feature or mode recovered from an organization's members' activity is at most a constituent of an organizational perspective, not the perspective: a feature allocation says which members take part in which modes, and whether those modes are organized into one perspective depends on the relations of access, uptake and authority among their carriers, which the same allocation leaves open
 
@@ -161,7 +178,7 @@ test.
 - **Locating is not identifying.** ROME's causal traces and edits find
   where restoring or writing a hidden state helps ([THEORY-998](../theory.d/THEORY-998.md)), not
   the variable that does the work; that the edit's site stores the fact
-  is held only as a Proposed hypothesis ([THEORY-1011](../theory.d/THEORY-1011.md)).
+  was proposed as a hypothesis and is Rejected ([THEORY-1011](../theory.d/THEORY-1011.md)).
 - **Activity does not give role.** In Claude 3 Sonnet, a feature's
   activation predicts its ablation effect at a correlation of about 0.12,
   attribution at about 0.81 ([THEORY-987](../theory.d/THEORY-987.md)). Steering usually needs a
@@ -195,7 +212,7 @@ test.
 - Not that no perspective is ever exactly one feature's carriers. It says
   the allocation cannot show that one is.
 - Not that an organizational perspective exists in any firm or network.
-  That is [CLAIM-418](CLAIM-418.md)'s and [CLAIM-427](CLAIM-427.md)'s ground, and it is untouched here.
+  That is [CLAIM-418](CLAIM-418.md)'s ground, and it is untouched here.
 - Not that relations suffice. Relations among carriers with no shared
   feature organize nothing interpretive. The claim is about what the
   allocation lacks, not about what would be enough.

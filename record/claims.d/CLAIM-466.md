@@ -1,10 +1,23 @@
 ---
 number: 466
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpm0bix
 title: 'Lock-in from selectively admitted evidence and lock-in from self-scoring need different remedies: weighting admitted evidence by known, positive admission probabilities undoes the first and leaves the second, so correcting for how evidence was selected is not correcting how it is scored'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Promoted at the twentieth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), with its ground
+    CASE-162, whose v1.3 figures were re-checked against the stored
+    results. Nothing objects to it, and nothing in the record meets its
+    defeated_if: in the self-scoring-only condition (c = 0.5, s = 0) the
+    stored admission fraction is 1.0, so nothing was censored, and with
+    every propensity 1 the inverse-propensity weights are all 1 and the
+    correction is the identity. The body's "whose case is Proposed" is
+    dropped. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -67,4 +80,4 @@ fidelity is the self-scoring half; [CASE-156](../cases.d/CASE-156.md) the select
 - **The remedy for self-scoring.** Independent scoring is the natural one
   ([CLAIM-342](CLAIM-342.md)'s evidence that does not pass through the interpretation it
   tests); the runs do not test it.
-- **Anything beyond the stipulated population**, whose case is Proposed.
+- **Anything beyond the stipulated population** of the case.
