@@ -1,0 +1,90 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-30 (NOTE-tmps4pgb), from the open-access published
+  article (CC BY 4.0) in PubMed Central, PMC7678399, fetched as XML
+  through the Europe PMC REST API. A short exposition of Canguilhem's
+  philosophy of norms as an "attitudinal" vitalism. Worth reading for its
+  account of normativity in his words: the sick organism is "confined and
+  reduced in its capacity to change" its norms, and "normativity" is the
+  name for "this ability or capacity to redefine vital norms", with
+  quotations from The Normal and the Pathological. It also reports his
+  argument that social norms differ in kind from vital ones, so that there
+  is no social pathology. Canguilhem at second hand; no argument of
+  Vissio's own beyond the reading.
+title: 'Reasoning in Life: Values and Normativity in Georges Canguilhem'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Filed and read 2026-10-30. Citation checked against Crossref (DOI
+    10.1007/s11196-020-09786-7): Gabriele Vissio, International Journal
+    for the Semiotics of Law 33(4), pp. 1019–1031, published online 6
+    November 2020, which is the `published:` date. PMC7678399, CC BY 4.0.
+    Read from the PMC full text (JATS XML from Europe PMC's fullTextXML),
+    which carries no page numbers; references below are to sections. A
+    grep of record/literature.d for the DOI, the PMC id, the title and the
+    author found nothing. Filed for CLAIM-018, whose source for
+    Canguilhem, On the Normal and the Pathological (LIT-817), is
+    Unavailable.
+tags:
+- philosophy-of-biology
+- philosophy-of-science
+date: '2026-10-30'
+published: '2020-11-06'
+doi: '10.1007/s11196-020-09786-7'
+first_author: 'Vissio'
+keywords:
+- 'Georges Canguilhem'
+- 'vitalism'
+- 'normativity'
+- 'vital norms'
+- 'values'
+- 'social norms'
+- 'philosophy of medicine'
+implementations: []
+summary: >-
+  Vissio (2020), Int J Semiot Law 33:1019–1031. Canguilhem's vitalism is
+  neither metaphysical nor structural–functional but "attitudinal": life
+  is a normative activity of evaluating a milieu. To be sick is not to
+  lack norms but to be reduced in the capacity to change them;
+  "normativity" is that capacity. Social norms differ in kind from vital
+  ones (they are "to be invented and not observed"), so there is no
+  social pathology, yet human reason and science are answers to a vital
+  exigency. Proposed as a ground for a semiotics of values.
+---
+<!-- inactive-ok-file: LIT-817 — Unavailable; Canguilhem's book, unread here, quoted through this paper -->
+<!-- inactive-ok-file: CLAIM-018 — Proposed; the claim this reading bears on, not leaned on -->
+
+# LIT-tmpwml4z: Reasoning in Life: Values and Normativity in Georges Canguilhem
+
+Gabriele Vissio (2020). *International Journal for the Semiotics of Law* 33(4),
+1019–1031. DOI 10.1007/s11196-020-09786-7, PMC7678399.
+
+## Key takeaways
+
+*From the reading, NOTE-tmps4pgb.*
+
+- **Normativity is a capacity to change norms.** Life establishes norms in
+  relation to a milieu; disease is a change in those norms and "a state of
+  restricted ability to negotiate norms with the environment"; Canguilhem
+  "calls this ability or capacity to redefine vital norms 'normativity'"
+  (section 3, citing *The Normal and the Pathological*, p. 227).
+- **Biological normativity** in Canguilhem's words: "life, as not only
+  subject to the environment but also as an institution of its
+  environment, thereby posits values not only in the environment but also
+  in the organism itself."
+- **Social norms are not vital norms.** A social need does not find its
+  solution in a regulatory apparatus within one body; so infringing a
+  social norm is not sickness, and "social norms are to be invented and not
+  observed" (section 4).
+- **Vitalism as an attitude**, after Wolfe's taxonomy: life as the
+  condition of every human activity, science included.
+
+## Standing in the record
+
+Filed on 2026-10-30 for CLAIM-018. With Giroux 2021 (LIT-tmphwtnd), it is
+the record's second-hand access to Canguilhem's normativity while his book
+(LIT-817) is Unavailable. It carries no instruction for machine-learning
+practice.

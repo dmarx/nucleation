@@ -1,0 +1,242 @@
+---
+status: Read
+paper: LIT-tmptcw4n
+title: 'Metzinger — Why are dreams interesting for philosophers?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Read in full from the publisher's open-access PDF
+    (frontiersin.org/articles/10.3389/fpsyg.2013.00746/pdf; the same
+    article is PMC3813926), text extracted with pdftotext: abstract, Part 1
+    and Part 2, the conclusion's list of desiderata, the footnotes, and
+    Boxes 1 and 2. Page numbers are the article's (1–14). The reference
+    list was consulted, not read. None of the works it reports was read:
+    Blanke and Metzinger 2009, Windt 2010 and 2014, Alvarado 2000, Wolfradt
+    2000/2001, Occhionero and Cicogna 2011, or Being No One (LIT-467).
+date: '2026-10-30'
+summary: >-
+  Metzinger proposes that minimal phenomenal selfhood reduces to
+  transparent spatiotemporal self-location, because people report a stable
+  self in bodiless dreams and asomatic out-of-body experiences, located at
+  an extensionless point without a body. He predicts that such
+  self-location is necessary and sufficient for a minimal sense of self,
+  and asks whether a phenomenally opaque self-location, experienced as a
+  representation, has ever been observed. The paper is an agenda: its
+  evidence is other people's prevalence figures, which it calls
+  ambiguous, and it reports no opaque case.
+---
+<!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, unread, the book cited for transparency -->
+<!-- inactive-ok-file: THEORY-064 THEORY-768 — Proposed; the accounts this reading bears on, not leaned on -->
+
+# NOTE-tmpelzjc: Metzinger — Why are dreams interesting for philosophers?
+
+## Contribution
+
+It revises the 2009 definition of minimal phenomenal selfhood (MPS) on the
+evidence of bodiless experience. Blanke and Metzinger had three defining
+features: global identification with the body, self-location, and a weak
+first-person perspective (1PP) (p. 3). Here identification is argued to
+collapse into self-location when the body drops out, which gives a more
+parsimonious MPS: transparent self-location in space and time (p. 7). The
+paper then sets out a list of questions for dream research, among them the
+case that would test the transparency condition.
+
+## Key insight
+
+What is minimally experienced as "I" is wherever the system's most
+invariant, transparent self-location is. Strip away the body, as some
+dreams and out-of-body experiences do, and a self remains at a point; so
+the body is not necessary, and what is left is location under
+transparency. The question that would test the account is then a sharp
+one: is there ever a self-location that is experienced *as* a
+representation, and if so, is there still a self?
+
+## Assumptions
+
+- **The self-model theory.** Transparency is a property of conscious
+  representations, "namely, that they are not experienced as
+  representations"; opacity is the converse, as "in pseudo-hallucinations
+  or lucid dreams"; the two form "a graded spectrum" (p. 2, note 2). Cited
+  to Being No One and other works, not argued here.
+- **Explanatory parsimony.** Begin with "those conditions that are not only
+  causally enabling, but strictly necessary" for the minimal phenomenon
+  (p. 2).
+- **Reports as heterophenomenological constraints** (p. 4, note 6), with
+  the caveat (pp. 13–14) that dreams show unnoticed cognitive corruption,
+  answered by an inference to the best explanation that reports gathered
+  under ideal conditions "will be veridical" (Windt 2013).
+- **The survey categories mean what they say.** The prevalence figures for
+  "bodiless" out-of-body experiences are taken as evidence of bodiless
+  selfhood, although the paper itself doubts what subjects understood by
+  the questions (p. 6).
+
+## Key results
+
+The paper has no data of its own. Its claims, in order:
+
+- **MPS, original hypothesis (p. 3).** "Central defining features are (1) a
+  globalized form of identification with the body as a whole (as opposed
+  to ownership for body parts), (2) spatiotemporal self-location, and (3) a
+  1PP." MPS is necessary for the strong (attentional, cognitive) 1PP; the
+  weak, geometrical 1PP is a constituent of MPS. "Because our conscious
+  body model is transparent ... we fully identify with its
+  representational content."
+- **Difficulty 1 (pp. 3–4).** Alsmith's objection that "full-body
+  illusions" may be partial: there is "no measure of the extent to which
+  the effect is localized to particular parts". Metzinger separates the
+  empirical underdetermination from a possible phenomenal indeterminacy of
+  the object of identification, and asks "What exactly is the minimal unit
+  of identification?"
+- **Difficulty 2: asomatic out-of-body experiences (pp. 4–5).** Alvarado's
+  review: experiences in another body (10 studies, mean 46%), as "pure
+  consciousness" (6 studies, mean 31%), or as "balls of light", "points in
+  space" or "clouds" (6 studies, mean 29%); Wolfradt: 18.8% bodiless,
+  34.4% in a body like their own, 21.9% "in a cloud, fog, or at a point in
+  space".
+- **Three conclusions from those reports (p. 5).** "Explicit body
+  representation is not necessary, because an extensionless point in space
+  is sufficient for phenomenal self-identification"; bodily agency is not
+  necessary either; and since selfhood seems robust with no motion and no
+  goal-directed mental activity, "agency is not a constitutive element for
+  the minimal unit of identification".
+- **The UI-theory (p. 5).** Identification is a domain-general mechanism
+  that attaches to "a given region of maximal invariance"; the unit of
+  identification (UI) can change within an episode. A minimal UI is the
+  point of self-location, a maximal UI is "phenomenality per se" (as in
+  some meditation reports).
+- **Ambiguity of the evidence (pp. 5–6).** It is "not entirely clear" how
+  many of the "pure consciousness" subjects were in fact located at a
+  point, "because it is not exactly clear what subjects (and
+  investigators) actually understood or meant in the questionnaire".
+- **Bodiless dreams (pp. 6–7).** Defined by minimized spatial content,
+  "phenomenal epistemicity" (the experience of being a knowing self, an
+  "epistemic agent model", EAM) and self-identification. "Most bodiless
+  dreams occur during lucid dreams." One example report is given (an exam
+  book, nothing else). In such dreams "the abstract unit of identification
+  and the unit of self-location coincide", so the identification condition
+  "would then be reduced to the self-location condition", giving MPS as
+  "transparent self-location in a spatiotemporal frame of reference"
+  (Windt 2010, p. 7).
+- **Two research questions (p. 7, repeated p. 14).** Is the epistemicity of
+  the EAM necessary for robust selfhood, or are transparency and
+  self-location sufficient? And: "are there fully lucid, phenomenally
+  opaque, and bodiless dreams for which it is true that spatiotemporal
+  self-location is itself experienced as a form of (mis)representational
+  content?"
+- **Why dreams (pp. 7–8).** Asomatic out-of-body experiences and
+  meditative "pure consciousness" are rare and ideologically coloured;
+  virtual reality starts from a rich waking self-model; dreams happen
+  nightly and thousands of reports exist to be re-analysed.
+- **Part 2 (pp. 8–14).** Four contact points: the 1PP as graded (attentional
+  agency is "fully transparent", p. 8; lucid gaze signalling as a
+  grounding relation, p. 9); mind wandering and the recurrent loss of
+  "mental autonomy" (pp. 9–10); embodiment, where the general "functional
+  disembodiment" of dreams "has now been refuted" by evidence of stimulus
+  incorporation (p. 11); and the "argument from cognitive corruption"
+  (p. 13).
+- **The prediction (p. 14).** "One empirical prediction the current proposal
+  makes is that transparent spatiotemporal self-location is necessary and
+  sufficient for bringing about a minimal, consciously experienced sense of
+  selfhood." Then: "Do we know any cases of phenomenally opaque
+  self-location ...? Is MPS instantiated in these cases?"
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A stable sense of self is reported with body representation reduced to an extensionless point | moderate as a report | others' survey figures (Alvarado 2000, Wolfradt); categories ambiguous by the paper's own account |
+| C2 | Neither explicit body representation nor bodily agency is necessary for minimal selfhood | weak | inference from C1 |
+| C3 | In bodiless dreams self-identification and self-location coincide, so MPS reduces to transparent spatiotemporal self-location | weak; proposal | conceptual argument from C1 and one example dream report; Windt's definition adopted |
+| C4 | Transparent spatiotemporal self-location is necessary and sufficient for minimal selfhood | prediction; untested | stated as the proposal's empirical prediction (p. 14) |
+| C5 | Identification attaches to a region of maximal invariance and its unit can change | speculation | the "UI-theory", offered as a hypothesis |
+| C6 | Generalized functional disembodiment in dreams is refuted | moderate | stimulus-incorporation and dream-enactment studies, cited (p. 11) |
+| C7 | Dream reports gathered under ideal conditions will be veridical | weak | inference to the best explanation, after Windt 2013 |
+
+## Concepts
+
+- **Minimal phenomenal selfhood (MPS)** — "the simplest form of
+  self-consciousness" (p. 1); in 2009, global body identification,
+  self-location and a weak 1PP; proposed here as transparent
+  spatiotemporal self-location (p. 7; Box 1, p. 11).
+- **Transparency / opacity** — a conscious representation not experienced
+  as a representation / one that is; graded (p. 2, note 2).
+- **Weak 1PP** — "a purely geometrical feature of a perceptual or imagined
+  model of reality", a centre of projection (p. 3).
+- **Epistemic agent model (EAM)** — a conscious self-representation of the
+  system as a knowing self, "in the relation of knowing, thinking, actively
+  guiding attention" (p. 6; Box 1). Lucidity is "the gradual stabilization
+  of an EAM" (Box 2, p. 12).
+- **Unit of identification (UI)** — what the experience of "I am this!"
+  attaches to; minimal (a point of self-location) or maximal
+  (phenomenality as such) (p. 5; Box 2).
+- **Asomatic / parasomatic / aparasomatic OBE** — out-of-body experience
+  with no spatial form, with a second body, or with a double one does not
+  identify with (p. 4).
+- **M-autonomy** — the ability to control one's own mental functions, with
+  a "veto component" (Box 2, p. 12).
+
+## Connections
+
+It builds on Blanke and Metzinger 2009 and adopts Windt's (2010, 2014)
+account of dreams as "immersive spatiotemporal hallucinations". It cites
+Lenggenhager et al. 2007 (LIT-1279, read in NOTE-999) as showing MPS "can be
+experimentally controlled" (Box 1) and as dissociating the origin of the
+1PP from the body volume (note 5). Its transparency is the précis's
+(LIT-568, read in NOTE-460), and its account of the knowing self extends
+the précis's phenomenal model of the intentionality relation. Alsmith's
+objection to full-body illusions is the same worry the critics of
+Lenggenhager et al. raised, from another side.
+
+## Bearing on the record
+
+- **THEORY-064: not met; it restates the test more sharply.** The account's
+  `promote_when` asks for states in which more of the self-model becomes
+  attentionally available as constructed, with reported selfhood falling
+  in step, or a reliable report of a wholly opaque self-model with selfhood
+  intact; or a measure of attentional availability that covaries with
+  reported selfhood. This paper reports neither. What it does is narrow
+  the prediction to the minimal case, "transparent spatiotemporal
+  self-location is necessary and sufficient" for minimal selfhood (p. 14),
+  name the decisive case ("phenomenally opaque self-location", sought in
+  "fully lucid, phenomenally opaque, and bodiless dreams"), and say that
+  no such case is yet known to it. Its one empirical contribution bears on
+  the ontological side the `promote_when` sets aside: reports of selfhood
+  without body representation show the self-model can be minimal, not
+  that it is all a self is. It does add, from the author, that lucid
+  dreams are a standard example of opacity (note 2), which supports
+  `promote_when`'s choice of lucid dreaming as the place to look.
+- **THEORY-768 (minimal selfhood as whole-body identification).** This paper
+  argues against the body condition in Blanke and Metzinger 2009: "explicit
+  body representation is not necessary" (p. 5), and MPS may reduce to
+  self-location. It bears against THEORY-768's body clause, on
+  survey-report evidence the paper calls ambiguous.
+- **THEORY-597 (meditation and "loss of basic self").** The paper reads some
+  meditation reports as identification with the maximal unit,
+  "phenomenality per se", not as loss of self (p. 5). That is a rival
+  reading of the same reports, offered without data.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **No new data.** Prevalence figures are others', and the paper itself says
+  the questionnaire categories cannot tell a point-located self from "pure
+  consciousness" (pp. 5–6).
+- **One dream report** illustrates bodiless dreaming; no corpus is analysed.
+- **The reduction is conditional.** "It may be possible to integrate
+  conditions 1 and 2" (p. 7): the paper proposes it, it does not show it.
+- **Reports under corruption.** The paper's own Example 4 argues that dream
+  cognition is corrupted without being noticed, which weighs on the reports
+  the reduction rests on; it answers this with an inference to the best
+  explanation, not a test.
+
+## Open questions
+
+- Is there any report of a phenomenally opaque self-location, and does a
+  sense of self survive it? The paper names this as the test and does not
+  answer it.
+- Is the epistemic agent model necessary for robust selfhood, or are
+  transparency and self-location sufficient?
+- Can dream questionnaires be redesigned to pick out the unit of
+  identification reliably?
