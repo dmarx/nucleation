@@ -4,7 +4,7 @@ status: Deferred
 formerly:
 - QUESTION-tmpn1400
 title: 'In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -15,6 +15,19 @@ history:
     partial-report array are held and unaccessed, not that one
     content reaches some consumers and not others, so it settles no
     delimited part of this question. The question is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The sixteenth status review (ADR-060), at the status review's
+    ruling (the owner delegated these rulings). THEORY-098, THEORY-102
+    and THEORY-245 move from answered_by to bearing. Block's account
+    keeps access a single winner-take-all broadcast, and its claim
+    concerns the basis of experience. Vishne et al. and COGITATE
+    recorded seen images whose content reached the hub at onset.
+    Neither shows a content absent from one consumer while present to
+    another, so none would settle a delimited part of the question if
+    held. THEORY-096 stays as the offered uniform answer. The question
+    is unchanged.
 tags:
 - consciousness
 - neuroscience
@@ -23,19 +36,20 @@ date: '2026-10-12'
 line: 'organizational-affect'
 answered_by:
 - THEORY-096
+bearing:
 - THEORY-098
 - THEORY-102
-- THEORY-245
-bearing:
 - THEORY-103
+- THEORY-245
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-003](../claims.d/CLAIM-003.md). [THEORY-096](../theory.d/THEORY-096.md),
-  [THEORY-098](../theory.d/THEORY-098.md), [THEORY-103](../theory.d/THEORY-103.md) and [THEORY-102](../theory.d/THEORY-102.md) answer it in part; the body gives
-  each one's limit. Deferred with its line.
+  the global workspace account, offers the uniform answer. [THEORY-098](../theory.d/THEORY-098.md),
+  [THEORY-102](../theory.d/THEORY-102.md), [THEORY-103](../theory.d/THEORY-103.md) and THEORY-245 bear on it without settling
+  a part, and the body gives each one's limit. Deferred with its line.
 ---
 <!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
-<!-- inactive-ok-file: THEORY-245 THEORY-296 THEORY-240 — Proposed; readings listed with their limits, one an answer in part -->
+<!-- inactive-ok-file: THEORY-245 THEORY-296 THEORY-240 — Proposed; readings listed with their limits -->
 
 # QUESTION-061: In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?
 
@@ -53,7 +67,7 @@ summary: >-
 - [THEORY-098](../theory.d/THEORY-098.md) makes access a winner-take-all competition in which a recurrent sensory representation "can lose that competition and stay unaccessed". Limit: inference to the best explanation.
 - [THEORY-103](../theory.d/THEORY-103.md): in partial report, items are "accessible, not accessed": held, but not in working memory. Limit: second-hand data.
 - [THEORY-102](../theory.d/THEORY-102.md): content is sustained in ventral temporal cortex while prefrontal content is "a transient event at onset". So a content can be held in one system without lasting in the hub. Limit: every image was seen.
-- [THEORY-245](../theory.d/THEORY-245.md) ([LIT-973](../literature.d/LIT-973.md), COGITATE): with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three. It answers this question in part: the hub did not receive every dimension of a conscious content. Limit: [LIT-973](../literature.d/LIT-973.md) was filed as "direct evidence on whether access is one all-or-none broadcast", and it is not direct. No dimension's access was measured, and there was no report on identity or orientation.
+- [THEORY-245](../theory.d/THEORY-245.md) ([LIT-973](../literature.d/LIT-973.md), COGITATE): with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three. It bears on this question: the hub did not receive every dimension of a conscious content. Limit: [LIT-973](../literature.d/LIT-973.md) was filed as "direct evidence on whether access is one all-or-none broadcast", and it is not direct. No dimension's access was measured, and there was no report on identity or orientation.
 - [THEORY-296](../theory.d/THEORY-296.md) ([LIT-973](../literature.d/LIT-973.md)): no sustained content-specific synchronization between category-selective posterior cortex and early visual cortex. Limit: it tests IIT's proposed implementation, not access.
 - [THEORY-240](../theory.d/THEORY-240.md) ([LIT-949](../literature.d/LIT-949.md)): loss of consciousness goes with reduced integration between default-mode gateways of a synergy-defined workspace. Limit: it concerns the state of consciousness, at rest, not access to a content. There is no stimulus, no report and no consumer-by-consumer measurement.
 

@@ -15,7 +15,16 @@ promote_when: >-
   Further cases of useful classifications that are natural cannot settle
   it.
 title: 'Inductive and explanatory usefulness is necessary but not sufficient for a natural kind: it holds of classes that share any natural property, and on its own it cannot tell a natural kind from a conventional or pragmatic one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    At the sixteenth status review (ADR-058), at the status review's
+    ruling (the owner delegated these rulings), its edge to CLAIM-402
+    moves from supports to corroborates: that claim cites this reading
+    only to bound what it says, and its argument runs through
+    CLAIM-342 and the performative readings. The reading is unchanged.
 tags:
 - philosophy-of-science
 - metaphysics
@@ -31,7 +40,7 @@ summary: >-
   counterexamples and, for the step to conventional kinds, on a reported
   argument. It does not say what does suffice, and it does not deny that
   usefulness is evidence.
-supports:
+corroborates:
 - CLAIM-402
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — Proposed; cited as parallel accounts, not as settled -->

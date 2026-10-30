@@ -16,7 +16,18 @@ promote_when: >-
   "which" thesis if instances never make that trade. Training objectives,
   self-reports and qualitative lists of behaviours cannot settle it.
 title: "If a system has beliefs and desires just when attributing them, with rationality, predicts its behaviour well enough against rival theories, then the bearer of a language model's attitudes is the instance created by one context, not the model, the case that instances have them is presumptive and rests on tractability, and the best current desire hypothesis is helpfulness, honesty and harmlessness plus intrinsic desires a prompt installs"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057, ADR-058), at the status review's
+    ruling (the owner delegated these rulings): the supports edge to
+    CLAIM-356 is removed with nothing in its place. CLAIM-356 cites
+    Goldstein and Lederman only in "Whose goal", to set the deployed
+    instance beside the training organization as a bearer, and its
+    argument uses nothing of this reading's thesis. The account is
+    unchanged.
 tags:
 - agency
 - cognition
@@ -32,8 +43,6 @@ summary: >-
   for attitudes rests on a tractability comparison never operationalised
   or measured; HHH+0 is "provisional", and its discriminating test is a
   conjecture. All the empirical support is second-hand and qualitative.
-supports:
-- CLAIM-356
 bears_on:
 - QUESTION-032
 ---
@@ -120,3 +129,13 @@ contexts. Neither is reported, but neither was tested.
 - On [QUESTION-032](../questions.d/QUESTION-032.md), it gives one answer to what makes a factor of a system an
   agent: the factor whose behaviour is best predicted as the rational
   pursuit of a few intrinsic ends, here individuated by context.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. [NOTE-138](../notes.d/NOTE-138.md) read the preprint in
+full, and neither result promote_when names is in the record. There is no
+operational measure and weighting of tractability under which belief–desire
+hypotheses are scored against the token-level predictor. There is no HHH-
+against-HHH+0 test of whether instances trade helpfulness, harmlessness and
+honesty for a prompted goal. The whole account is conditional on objective
+interpretationism, which the authors do not defend.

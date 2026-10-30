@@ -107,3 +107,13 @@ taxonomy, offered as "working distinctions".
   review as regulation strategies with costs.
 - The appraisal account of emotion that the review's consensual model
   distils is [THEORY-055](THEORY-055.md).
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. [NOTE-429](../notes.d/NOTE-429.md) read the review in
+full, but it reports no data. No study in the record estimates each
+person's unregulated response independently and compares strategies
+grouped by stage on matched emotions and measures. The one cited contrast,
+reappraisal against suppression, is also predicted by the rival
+[THEORY-056](THEORY-056.md), and [NOTE-1067](../notes.d/NOTE-1067.md) reads that dissociation as an artefact. Nothing
+live rests on it: [ARG-018](../arguments.d/ARG-018.md) is Rejected.

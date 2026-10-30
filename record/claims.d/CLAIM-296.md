@@ -1,13 +1,26 @@
 ---
 number: 296
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp9gt89
 title: What a system has, what it knows it has, and what it can deploy within a
   task's deadline are different, and the last is a relation among the resource,
   the agent, its environment, the task, the deadline and the cue, not a property
   of any one of them
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Promoted by the sixteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its term
+    TERM-055 and its ground THEORY-346 are Active, it has no
+    objection, and nothing in the record meets its defeat condition.
+    THEORY-351 moves from grounds to corroborated_by (ADR-058): the
+    claim is A17's, argued from CASE-085, and its note of 2026-10-15
+    cites Hutchins's cockpit as the closest case the record holds, a
+    stylized task analysis with no measurements. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,7 +38,6 @@ line: distributed-agency
 uses:
 - TERM-055
 grounds:
-- THEORY-351
 - THEORY-346
 summary: >-
   A18's first candidate, from the owner's EMT case ([CASE-085](../cases.d/CASE-085.md)): the drug was
@@ -41,6 +53,7 @@ complements:
 - CLAIM-312
 corroborated_by:
 - CLAIM-310
+- THEORY-351
 bears_on:
 - QUESTION-101
 ---

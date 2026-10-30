@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmp6rohb
 title: 'A rendering can keep the communicative act while changing the proposition, so preserving the proposition is not necessary for preserving the communicative event'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    At the sixteenth status review (ADR-057), at the status review's
+    ruling (the owner delegated these rulings), CASE-031 leaves
+    grounds: its note of 2026-10-10 found that the renderings it
+    reaches keep Marot's propositions and change only words, and
+    passed the necessity role to CASE-056. The body's "further
+    candidate, pending a reading of LIT-766" is corrected to say so
+    (ADR-047, kind 3). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -21,7 +32,6 @@ works:
 - what-survives-translation
 grounds:
 - CASE-056
-- CASE-031
 complements:
 - CLAIM-061
 summary: >-
@@ -45,8 +55,9 @@ communicative event.
 
 [CASE-056](../cases.d/CASE-056.md) is the documented case: Phillips renders Paul's "holy kiss" as
 "a hearty handshake all round", which changes what the verse directs, and
-Nida judged that it keeps the greeting. [CASE-031](../cases.d/CASE-031.md) is a further candidate,
-pending a reading of [LIT-766](../literature.d/LIT-766.md).
+Nida judged that it keeps the greeting. [CASE-031](../cases.d/CASE-031.md) was checked as a candidate and
+does not fill the role: the renderings it reaches change form, register
+and tone and keep Marot's propositions (its note of 2026-10-10).
 
 ## Why it is Proposed
 
@@ -62,3 +73,11 @@ pending a reading of [LIT-766](../literature.d/LIT-766.md).
 
 It goes Active if a documented case changes the proposition at every
 grain a defender could choose, with independent evidence the act was kept.
+
+## Note of 2026-10-29: what holds it back
+
+The one documented case, [CASE-056](../cases.d/CASE-056.md), is answered by the defender's reply that
+its defeat condition states: the handshake keeps the coarser proposition
+"greet one another warmly". No case in the record changes the proposition at
+every grain a defender could choose, with independent evidence that the act
+was kept.

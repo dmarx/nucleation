@@ -24,7 +24,17 @@ promote_when: >-
   or the bare assertion that some system does or does not produce its
   own causes.
 title: 'Organizational closure is a circular organization of efficient causes by which a system produces the conditions of its own existence, distinct from feedback, self-organization and catalytic cycles; systems whose loops do not regenerate the constraints that make them possible approximate closure without instantiating it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Its supports entry for CLAIM-288 becomes corroborates, at the status
+    review's ruling (the owner delegated these rulings; ADR-058):
+    CLAIM-288's body never cites this reading, and this reading's
+    Connections say it goes further than the counter, a second route to
+    its conclusion that the counter would survive losing. The reading is
+    unchanged.
 tags:
 - philosophy-of-biology
 - individuation
@@ -46,10 +56,10 @@ summary: >-
   arguments and a halting-problem argument the authors call provisional,
   and the AI verdict is drawn from the definition, not from analysis of
   any system.
-supports:
+corroborates:
 - CLAIM-288
 ---
-<!-- inactive-ok-file: CLAIM-288 CLAIM-284 CLAIM-194 THEORY-072 THEORY-071 — Proposed; open claims and accounts this one bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; accounts this one bears on, nothing here rests on their being settled -->
 
 # THEORY-221: Organizational closure is a circular organization of efficient causes by which a system produces the conditions of its own existence, distinct from feedback, self-organization and catalytic cycles; systems whose loops do not regenerate the constraints that make them possible approximate closure without instantiating it
 
@@ -123,7 +133,7 @@ closure rather than instances of organizational closure itself".
 
 ## Connections
 
-- **[CLAIM-288](../claims.d/CLAIM-288.md) (supported).** That counter says a simulation whose
+- **[CLAIM-288](../claims.d/CLAIM-288.md) (corroborated).** That counter says a simulation whose
   operators maximize objectives the modeller fixed has borrowed its norms.
   This account says the same of AI architectures in general, which
   "remain fundamentally dependent on externally specified objectives,
@@ -144,3 +154,15 @@ closure rather than instances of organizational closure itself".
   tell a produced boundary from an imposed one.
 - **[THEORY-134](THEORY-134.md).** The paper names viability theory as complementary: it
   asks when a system can continue, not how its causes are produced.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. [NOTE-727](../notes.d/NOTE-727.md) read the paper in
+full, but no closure criterion has been applied to the four systems the
+promote_when names (a feedback controller, an autocatalytic set with
+supplied catalysts, a protocell that makes its own catalysts and membrane,
+a software system that revises its own objectives) with verdicts that hold
+when the boundary is drawn at another level. The irreducibility rests on a
+halting argument the authors call provisional and make conditional on
+halting computability. Nothing rests on it: [CLAIM-288](../claims.d/CLAIM-288.md) takes it as
+corroboration.

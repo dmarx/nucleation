@@ -136,3 +136,11 @@ that it does not pursue.
   said only a conviction is left once the functions are subtracted; this
   paper takes that conviction as its explanandum and asks realist and
   illusionist alike to explain it ([THEORY-694](THEORY-694.md), [THEORY-633](THEORY-633.md)).
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. [NOTE-354](../notes.d/NOTE-354.md) read the paper in
+full, but no topic-neutral explanation of problem intuitions, built and
+tested, is in the record to show whether a theory's named basis drives the
+judgments. The IIT case also rests on the unanswered assumption that a
+zero-Φ simulation judges at all, which an IIT theorist denies.

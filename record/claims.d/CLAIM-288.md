@@ -1,10 +1,10 @@
 ---
 number: 288
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpzn7l2
-title: 'In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller''s, not set by the organization itself'
-version: 5
+title: 'In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are set by the modeller, not by the organization: they can become its goals through their role in selecting what persists, but it does not produce or revise them'
+version: 7
 history:
 - version: 2
   date: '2026-10-16'
@@ -42,16 +42,39 @@ history:
     Di Paolo argues, split by the twelfth status review on THEORY-1110's
     pattern: the claim cites him for norms that are norms for the system,
     as he states it. The claim is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Concedes CLAIM-356, Active since the sixteenth status review (ADR-059),
+    at the status review's ruling (the owner delegated these rulings).
+    CLAIM-356 grants this claim for governance and denies that exogenous
+    origin bars an objective from becoming the training organization's
+    goal; the title now says the norms are set by the modeller and can
+    become the organization's goals through selection, but are not produced
+    or revised by it, which is this claim's own answer condition. Version
+    5's title ended: "the norms the organization appears to maintain are
+    the modeller's, not set by the organization itself".
+- version: 7
+  date: '2026-10-29'
+  note: >-
+    Promoted by the sixteenth status review, at the status review's
+    ruling (the owner delegated these rulings; ADR-057). THEORY-221
+    moves from grounds to corroborated_by (ADR-058): the body never
+    cites it, and its own Connections say it goes further than this
+    claim, a second route the claim would survive losing. Its remaining
+    grounds, THEORY-1119 and THEORY-1166, are Active; its one objection,
+    CLAIM-356, is conceded in version 6; and it has no defeated_if for
+    anything in the record to meet. The claim is unchanged.
 role: counter
 warrant: interpretive
 grounds:
 - THEORY-1119
 - LIT-1017
-- THEORY-221
 - THEORY-1166
 corroborated_by:
 - THEORY-219
 - THEORY-220
+- THEORY-221
 tags:
 - self-governance
 - agency
@@ -81,7 +104,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument this claim undercuts, split from it under ADR-061 -->
 
-# CLAIM-288: In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are the modeller's, not set by the organization itself
+# CLAIM-288: In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are set by the modeller, not by the organization: they can become its goals through their role in selecting what persists, but it does not produce or revise them
 
 ## The objection
 

@@ -15,7 +15,16 @@ promote_when: >-
   neither can a preference study that asks which set of images matches the
   prompt best.
 title: "In Stable Diffusion, a subject named in a two-subject prompt is left out of the image when its token governs no region of the cross-attention map early in sampling, and raising that token's smoothed peak attention during the first half of sampling, by gradient steps on the latent with no retraining, brings the subject back; that this also fixes attribute binding is argued, not measured by the paper"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    The sixteenth status review (ADR-058), at the status review's ruling
+    (the owner delegated these rulings): CLAIM-321 cites this reading
+    only as an instance of a conjunction failing by omission and does
+    not say what causes the failures, so the edge moves from supports to
+    corroborates. The reading is unchanged.
 tags:
 - compositionality
 date: '2026-10-16'
@@ -31,10 +40,10 @@ summary: >-
   after. [NOTE-639](../notes.d/NOTE-639.md) filed no THEORY, because the paper's method is
   machine-learning practice; the account of why subjects go missing is a
   finding about the model and is filed here as Proposed.
-supports:
+corroborates:
 - CLAIM-321
 ---
-<!-- inactive-ok-file: CLAIM-321 — Proposed; the record's own claim that cites this reading, named in Connections -->
+<!-- inactive-ok-file: CLAIM-321 — Proposed; the record's own claim this reading corroborates, named in Connections -->
 
 # THEORY-678: In Stable Diffusion, a subject named in a two-subject prompt is left out of the image when its token governs no region of the cross-attention map early in sampling, and raising that token's smoothed peak attention during the first half of sampling, by gradient steps on the latent with no retraining, brings the subject back; that this also fixes attribute binding is argued, not measured by the paper
 
@@ -112,3 +121,13 @@ that.
 - [CLAIM-321](../claims.d/CLAIM-321.md) cites this paper for a conjunction failing by omission of a
   conjunct, before any misbinding. That reading is [NOTE-639](../notes.d/NOTE-639.md)'s.
 - Classifier-free guidance ([LIT-839](../literature.d/LIT-839.md)) is on throughout at scale 7.5.
+
+## Note of 2026-10-29: what holds it back
+
+No per-subject presence rate is in the record. The paper scores CLIP and
+caption similarity and a preference study, which its promote_when rules
+out, and T2I-CompBench++ ([LIT-798](../literature.d/LIT-798.md)) measures binding, not presence.
+GenEval's detector scores two-object presence ([THEORY-522](THEORY-522.md)), but not for
+this method and not against early attention. Narrowing to what was
+measured would leave only the method's scores, which are machine-learning
+practice and belong to the anthology ([NOTE-639](../notes.d/NOTE-639.md)).

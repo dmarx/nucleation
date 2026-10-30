@@ -1,10 +1,10 @@
 ---
 number: 356
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpkb2i9
 title: 'An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -14,6 +14,18 @@ history:
     self-determination theory as the human precedent for external
     provenance becoming internal regulation, and its directive already
     said nothing rests on them. The claim is unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057). THEORY-616 removed from grounds
+    with no edge in its place (ADR-058, attribution). The claim cites
+    Goldstein and Lederman only in "Whose goal", to set the deployed
+    instance beside the training organization as a bearer, and its
+    argument uses nothing of their thesis. The body's citation is the
+    link. Promoted at the status review's ruling (the owner delegated
+    these rulings): it rests on no claim and grounds on no Proposed
+    reading, no objection is filed against it, and nothing in the record
+    meets its defeated_if. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,8 +49,6 @@ line:
 - will-organization
 objects_to:
 - CLAIM-288
-grounds:
-- THEORY-616
 complements:
 - CLAIM-174
 - CLAIM-367

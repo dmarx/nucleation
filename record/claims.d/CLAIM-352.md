@@ -1,10 +1,10 @@
 ---
 number: 352
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmph678z
 title: 'Sen''s two aspects of freedom divide along the record''s line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -22,6 +22,18 @@ history:
     only as a parallel to CLAIM-345, and the claim does not use
     THEORY-025's negative thesis against resource metrics. The claim
     is unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Promoted by the sixteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). THEORY-411
+    moves from grounds to corroborated_by (ADR-058): the "only through
+    a map" clause needs only that capabilities are valued
+    functionings, cited first-hand from Sen's lecture (NOTE-263) and
+    Robeyns (NOTE-259), and the partial ordering is cited as a
+    parallel. Its premises CLAIM-079 and CLAIM-027 are Active, no
+    objection is on file, and nothing held meets the defeat condition.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,8 +56,6 @@ line:
 rests_on:
 - CLAIM-079
 - CLAIM-027
-grounds:
-- THEORY-411
 complements:
 - CLAIM-075
 - CLAIM-354
@@ -63,6 +73,7 @@ summary: >-
   is not a fair or legitimate process.
 corroborated_by:
 - THEORY-025
+- THEORY-411
 ---
 
 # CLAIM-352: Sen's two aspects of freedom divide along the record's line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy

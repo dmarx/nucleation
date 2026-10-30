@@ -131,3 +131,11 @@ which led with "'Who drives' is not constant", was changed to state the
 microbiome part with the scope the evidence gives it; the second
 disjunct of its defeat condition, stable drive profiles over successive
 windows, is [CLAIM-316](CLAIM-316.md)'s.
+
+## Note of 2026-10-29: what holds it back
+
+Its ground [THEORY-560](../theory.d/THEORY-560.md) is Proposed, and its own body says it stays Proposed
+because everyday drive in a person is not shown. No study in the record
+shows a change in a person's own microbiome, rather than an added strain
+or a delivered metabolite, originating a change in human hunger or affect,
+which is what its defeated_if turns on.

@@ -28,7 +28,7 @@ promote_when: >-
   post-perceptual cognition in place. An fMRI null alone cannot settle it
   either.
 title: 'The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-05'
@@ -46,6 +46,15 @@ history:
     sustained posterior gamma coupling with early visual cortex was not
     found, so the data do not support sustained recurrent coupling as
     the carrier. The statement and status are unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    The sixteenth status review (ADR-060), at the status review's
+    ruling (the owner delegated these rulings). QUESTION-061 moves
+    from answers to bears_on: on this account access stays a single
+    winner-take-all broadcast, and the claim concerns the basis of
+    experience, so if held it would settle no delimited part of the
+    question. The reading is unchanged.
 tags:
 - consciousness
 - neuroscience
@@ -74,7 +83,7 @@ rivals:
 presupposes:
 - THEORY-103
 - THEORY-094
-answers:
+bears_on:
 - QUESTION-061
 ---
 <!-- inactive-ok-file: THEORY-103 THEORY-094 — Proposed; filed in the same batch, the overflow account and the methodological account this one presupposes -->

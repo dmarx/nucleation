@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpumy4f
 title: 'Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-28'
@@ -14,6 +14,13 @@ history:
     its defeated_if. Its one objection, CLAIM-218, says the record's
     measure D_Q is symmetric, not that this claim is false; the claim
     now says it does not hold that D_Q realizes it.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The sixteenth status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings): CLAIM-242 now rests on this
+    claim, since its title's graded transport is this claim's thesis, so
+    CLAIM-242 leaves complements. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,7 +57,6 @@ objected_by:
 - CLAIM-218
 complements:
 - CLAIM-210
-- CLAIM-242
 - CLAIM-259
 ---
 <!-- inactive-ok-file: CLAIM-259 — Proposed; the directed repair of the measure, cited as open -->

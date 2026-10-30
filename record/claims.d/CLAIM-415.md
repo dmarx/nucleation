@@ -3,8 +3,8 @@ number: 415
 status: Proposed
 formerly:
 - CLAIM-tmp3gvbj
-title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
-version: 3
+title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -24,6 +24,21 @@ history:
     is added to `grounds`. A note on the grounds says LIT-1390 supports
     the perceived-majority route, not the loud-minority example. The
     title, status and defeater are unchanged.
+- version: 4
+  date: '2026-10-29'
+  note: >-
+    Narrowed at the sixteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). The
+    comparison "as the owner can" asserted CLAIM-355, which is
+    Proposed and which the argument does not use; it is A40's gloss,
+    held as CLAIM-355 and linked by complements (ADR-047, kind 2).
+    LIT-1370 leaves grounds: it is Unavailable and unread, and is
+    cited in the body and in the defeat condition only. The old title:
+    A person can be organized by a judgement they attribute to a
+    collective that does not hold it: the audience in a self-model can
+    be a false unity as the owner can, and a judgement can shape a
+    person who rejects it, because resisting it makes it
+    consequential.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,7 +62,6 @@ uses:
 - TERM-075
 grounds:
 - LIT-939
-- LIT-1370
 - LIT-1379
 - LIT-1390
 summary: >-
@@ -73,7 +87,7 @@ supports:
 <!-- inactive-ok-file: LIT-1370 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-349 CLAIM-355 CLAIM-402 THEORY-242 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-415: A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential
+# CLAIM-415: A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity, and a judgement can shape a person who rejects it, because resisting it makes it consequential
 
 ## The claim
 
@@ -175,3 +189,12 @@ was written to keep apart.
   extreme, vanity: "becoming, so far as he can, what any flatterer says
   he is" (ch. VI). What remains the claim's own is a collective unity its
   supposed members do not compose.
+
+## Note of 2026-10-29: what holds it back
+
+Its defeat condition separates a change in how a person organizes their
+conduct from conformity of expression, and no read result shows the first
+under a misperceived consensus. Lerman et al. ([LIT-1390](../literature.d/LIT-1390.md)) measure perception
+and Vilone and Polizzi ([LIT-939](../literature.d/LIT-939.md)) expression; Prentice and Miller's men
+([LIT-1370](../literature.d/LIT-1370.md)), the one such result cited, are unread, and [CASE-140](../cases.d/CASE-140.md) to [CASE-142](../cases.d/CASE-142.md)
+are constructed.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpwyfwm
 title: "In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,15 @@ history:
     THEORY, THEORY-830, which extends this one and takes the
     promote_when (a second method or cohort, and percept and input
     apart) unchanged.
+- version: 3
+  date: '2026-10-29'
+  note: >-
+    The sixteenth status review (ADR-060), at the status review's
+    ruling (the owner delegated these rulings). QUESTION-061 moves
+    from answers to bears_on: every image was seen and prefrontal
+    cortex carried its category at onset, so a content sustained in
+    one system and transient in the hub is not a content absent from
+    one consumer. The reading is unchanged.
 tags:
 - consciousness
 - neuroscience
@@ -40,10 +49,10 @@ summary: >-
   threshold images only, sparse right-lateralised frontal coverage, one
   frequency band; it does not show the code tracks experience rather than
   input.
-answers:
-- QUESTION-061
 extended_by:
 - THEORY-830
+bears_on:
+- QUESTION-061
 ---
 <!-- inactive-ok-file: THEORY-097 — Proposed; filed in the same batch, named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-100 — Proposed; the crow report-correlate account filed alongside, named in Connections for contrast, nothing here rests on it -->

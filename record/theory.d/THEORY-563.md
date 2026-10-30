@@ -15,7 +15,18 @@ promote_when: >-
   textual evidence about what Dennett meant cannot settle it, since the
   claim is about consciousness, not about Dennett.
 title: "Consciousness is a real pattern in the brain's content-bearing states, a description that trades predictive accuracy for compression, and so coarse that describing the brain through it is metaphor; on that reading there is no Cartesian theatre, whether a given content was conscious can lack an answer when two descriptions compress and predict equally, and first-person reports are fallible as literal descriptions of the brain but authoritative as an author's"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    Sixteenth status review (ADR-057, ADR-058), at the status review's
+    ruling (the owner delegated these rulings): the edge to CLAIM-355
+    changes from supports to corroborates. CLAIM-355 uses the real-
+    pattern sense, which is Dennett's (LIT-220), not this reading's
+    thesis that consciousness is such a pattern; Taylor's user-illusion
+    is independent support for its split between real binding and a
+    constructed owner. The account is unchanged.
 tags:
 - consciousness
 - metaphysics
@@ -32,7 +43,7 @@ summary: >-
   is, or what makes a real pattern a conscious one rather than a belief
   pattern. Filed as the account the reading states, at the strength the
   reading gives it.
-supports:
+corroborates:
 - CLAIM-355
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-043 THEORY-103 THEORY-415 THEORY-633 THEORY-691 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
@@ -123,3 +134,12 @@ for a case in which the readings predict different downstream effects.
   partial report, whether uncued letters were seen before the cue, to have
   an answer by inference to the best explanation. That is the move this
   account denies for masking when the descriptions tie.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. [NOTE-379](../notes.d/NOTE-379.md) read the paper in
+full, and Taylor offers the account as a consistent reading of Dennett, not
+as true. Neither promote_when result is in the record: no metacontrast case
+with explicit Orwellian and Stalinesque models compared on downstream
+memory, priming or report, and no statement of which real pattern
+consciousness is, specific enough to be found or missed in a system.

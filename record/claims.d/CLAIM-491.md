@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpjylq8
 title: "No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-29'
+  note: >-
+    THEORY-655 moved from grounds to corroborated_by at the sixteenth
+    status review (ADR-057, ADR-058), at the status review's ruling
+    (the owner delegated these rulings). The claim cites Hamilton's
+    rule as an analogy, and its note of 2026-10-29 on Stich says kin
+    selection is silent about motive. A dated note says what holds it
+    back. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,7 +40,6 @@ answers:
 - QUESTION-300
 grounds:
 - THEORY-1114
-- THEORY-655
 - LIT-1728
 - LIT-1735
 - LIT-1703
@@ -43,6 +52,8 @@ summary: >-
   its best evidence; Batson et al.'s rejoinder and the risk of trivial
   truth are its objections. It does not say people are self-centred, or
   that groups have no good of their own.
+corroborated_by:
+- THEORY-655
 ---
 <!-- inactive-ok-file: QUESTION-300 QUESTION-297 CLAIM-494 NOTE-1266 CLAIM-492 THEORY-1114 THEORY-1115 THEORY-655 LIT-1700 LIT-1735 LIT-1706 LIT-1782 LIT-1752 LIT-1759 LIT-1758 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1728 until 2027-04-29 — an Unavailable ground; Cialdini et al. is read at second hand (NOTE-1274, NOTE-1277); ask again whether the thesis holds once it is read, or by this date -->
@@ -301,3 +312,13 @@ The thesis survives these readings only as the claim that the self served
 is a self-concept. That is the third sense of "self-interest" the note on
 Scheffler named. On that reading, [CLAIM-492](CLAIM-492.md)'s demand for a criterion
 apart from caring is still unmet.
+
+## Note of 2026-10-29: what holds it back
+
+Two objections are unanswered. [CLAIM-494](CLAIM-494.md) is Batson et al.'s empathic
+helping without self–other merging. [CLAIM-492](CLAIM-492.md) says the thesis is true by
+definition unless it is tied to a criterion of the self's extent that
+comes apart from caring. The readings of 2026-10-29 offer candidates for
+that criterion (fusion, the activated social self) but show none coming
+apart from caring. Its ground [THEORY-1114](../theory.d/THEORY-1114.md) is Proposed, and [LIT-1728](../literature.d/LIT-1728.md), its
+best evidence, is read only at second hand.

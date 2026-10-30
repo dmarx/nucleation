@@ -1,10 +1,10 @@
 ---
 number: 273
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp4zg6p
-title: 'A maintained r/place artwork is a dissipative structure in Prigogine''s structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability'
-version: 5
+title: 'A maintained r/place artwork copied from an off-canvas design is a dissipative structure in Prigogine''s structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from the design and not born of an instability'
+version: 6
 history:
 - version: 2
   date: '2026-10-13'
@@ -40,6 +40,26 @@ history:
     restoring, and persistence by a balance of the two is presupposed by
     the measure, not shown. CLAIM-280, now Active, and THEORY-214 leave
     the inactive-ok comment. The claim is unchanged.
+- version: 6
+  date: '2026-10-29'
+  note: >-
+    Promoted by the sixteenth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its grounds
+    THEORY-214, THEORY-216, LIT-516 and CASE-079 and its term TERM-054
+    are Active, it has no objection, and nothing in the record meets
+    its defeat condition. THEORY-224 moves from grounds to
+    corroborated_by (ADR-058): that a design copied from off the
+    canvas has imported order is what CASE-079 records, and Adams et
+    al.'s untested CNN only corroborates it. The title is brought to
+    its body, which already says only copied artworks import their
+    order (ADR-047, kind 3). It read "A maintained r/place artwork is
+    a dissipative structure in Prigogine's structural sense, order
+    held only by a sustained flow of repair against rival coalitions
+    and against unaffiliated placement whose rate falls over the
+    event, but its order is imported from a design and not born of an
+    instability". Objects that spread by a local recolouring rule,
+    such as the Blue Corner, were covered by the old title and
+    excluded by its body.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,7 +81,6 @@ line:
 grounds:
 - THEORY-214
 - THEORY-216
-- THEORY-224
 - LIT-516
 - CASE-079
 uses:
@@ -78,14 +97,16 @@ summary: >-
   The flow works against two sources of corruption. One is rival
   coalitions. The other is unaffiliated placement, a real decay whose rate
   falls over the event (version 2, the owner's correction, [CLAIM-274](CLAIM-274.md)).
-  It fails for the other half, since an artwork's order comes from a
-  template, not from an instability (Adams et al.). No thermodynamic
-  quantity is defined.
+  It fails for the other half, since a copied artwork's order comes from its
+  design, not from an instability (CASE-079; Adams et al. corroborate). No
+  thermodynamic quantity is defined.
+corroborated_by:
+- THEORY-224
 ---
 <!-- inactive-ok-file: CLAIM-274 THEORY-224 CLAIM-163 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-913 — Unavailable; no copy could be obtained, cited as the precedent still to read and marked unread in the text -->
 
-# CLAIM-273: A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability
+# CLAIM-273: A maintained r/place artwork copied from an off-canvas design is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from the design and not born of an instability
 
 ## The claim
 
@@ -125,15 +146,16 @@ One feature first looked like a break and is not. The other is one:
    temperature, not as the absence of decay. The rivals remain a second
    source of corruption, one that is planned and aimed, and nearer to
    ecological competition than to noise.
-2. **The order is imported, not born of an instability.** Adams et al.
-   ([THEORY-224](../theory.d/THEORY-224.md)) separate two kinds of object. Some spread by a local
-   recolouring rule, such as the Blue Corner and the German flags, and are
-   predictable from the canvas. Others are copied from designs coordinated
-   off the canvas, such as the EU dove and the US flag, and local dynamics
-   do not predict them. Only the first kind is near order arising from local
-   instability, Turing's or Prigogine's sense of self-organization. The
-   second is a pattern specified elsewhere and held in place by flow,
-   dissipative in its maintenance and not in its origin.
+2. **The order is imported, not born of an instability.** An artwork copied
+   from a design coordinated off the canvas ([CASE-079](../cases.d/CASE-079.md); the Mona Lisa's
+   forum, [THEORY-218](../theory.d/THEORY-218.md)) has a pattern specified elsewhere and held in place by
+   flow: dissipative in its maintenance and not in its origin. Adams et al.
+   ([THEORY-224](../theory.d/THEORY-224.md)) corroborate the split without testing it. A CNN given only
+   local canvas context recovers objects that spread by a local recolouring
+   rule, such as the Blue Corner and the German flags, and misses designs
+   such as the EU dove and the US flag. Only the first kind is near order
+   arising from local instability, Turing's or Prigogine's sense of
+   self-organization, and this claim is not about it.
 
 ## What it does not say
 

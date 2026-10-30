@@ -147,3 +147,13 @@ No relation is declared: no open question asks how body ownership arises.
   question about felt affect, but this THEORY does not rest on it.
 - **[LIT-135](../literature.d/LIT-135.md), [NOTE-169](../notes.d/NOTE-169.md).** This is the 2013 root of the interoceptive view in
   Seth's later biological naturalism.
+
+## Note of 2026-10-29: what holds it back
+
+Kept Proposed by the sixteenth status review. All three results are Seth's
+second-hand report, and neither Suzuki et al. (2013) nor Tsakiris et al.
+(2011) is held. No condition locks the cue to a non-bodily rhythm at heart
+rate, expectations were not measured or matched, and the
+sensitivity–susceptibility relation has not been tested with trait
+suggestibility as a covariate. Nothing live rests on it: [ARG-018](../arguments.d/ARG-018.md) is
+Rejected.
