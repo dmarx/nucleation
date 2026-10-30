@@ -266,11 +266,12 @@ record is scored on held-out contests (above).
   where it is a graded lexicographic override it has none
   ([CLAIM-436](../claims.d/CLAIM-436.md)).
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-[CLAIM-441](../claims.d/CLAIM-441.md)'s flow case is unanswered. On [CLAIM-162](../claims.d/CLAIM-162.md)'s reading of flow nothing
-is contested, so this definition leaves flow's valence undefined while flow
-is reported as positive. Which of [CLAIM-441](../claims.d/CLAIM-441.md)'s four exits holds turns on
-whether flow is positive during the episode, and the flow literature
-([LIT-914](../literature.d/LIT-914.md)) is unread. Its fourth exit would change this definition's
-nonvacuity condition. [CLAIM-440](../claims.d/CLAIM-440.md)'s consequence 1 was corrected the same way on 2026-10-29.
+[CLAIM-441](../claims.d/CLAIM-441.md)'s flow case is still unanswered. Abuhamdeh's review
+([LIT-tmp97y6c](../literature.d/LIT-tmp97y6c.md)) shows the literature divided on whether flow is positive
+during the episode and settles it by definition, so which exit holds is
+open; its fourth exit would change this definition's nonvacuity
+condition. The intensity clause is [CLAIM-440](../claims.d/CLAIM-440.md)'s clause 3, and Orehek et al.
+([LIT-tmpa32bu](../literature.d/LIT-tmpa32bu.md)) find positive affect lowering a goal's priority where goals
+compete, which [CLAIM-468](../claims.d/CLAIM-468.md) presses against it.

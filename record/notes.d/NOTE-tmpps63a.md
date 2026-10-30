@@ -1,0 +1,266 @@
+---
+status: Read
+paper: LIT-1728
+title: 'Cialdini, Brown, Lewis, Luce & Neuberg — When one into one equals oneness'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Read in full on 2026-10-30 from a scan of the published article on a
+    University of Wisconsin course page
+    (https://users.ssc.wisc.edu/~jpiliavi/965/Cialdini%201997.pdf, 14
+    pages), the copy turned down on 2026-10-29 and read under the owner's
+    ruling that course-page copies count (ADR-064). Checked as the work:
+    the running heads, title, five authors and printed pages 481–494 of
+    JPSP 73(3) match Crossref. Text extracted with pdftotext from the
+    scan's OCR layer, which garbles some subscripts in Table 1 and the
+    path coefficients of Figure 2 but is legible elsewhere. Read: the
+    abstract, the introduction, all three studies, the general
+    discussion, footnotes 1–6 and Table 1. The figures were seen only as
+    OCR'd labels; what they show is taken from their captions and the
+    text. The reference list was skimmed. None of the cited studies was
+    read, nor Batson et al.'s reply in the same issue (LIT-1700).
+date: '2026-10-30'
+summary: >-
+  In three questionnaire studies, students imagined a near stranger,
+  acquaintance, friend or close family member in need and chose how much
+  costly help to give. Closeness raised empathic concern and oneness (the
+  IOS circles plus a "we" item), and both predicted helping; with oneness
+  entered, empathic concern dropped to non-significance in every test,
+  while oneness kept predicting. The authors read empathic concern as an
+  emotional signal of oneness and call the helping "nonaltruistic", not
+  egoistic. All helping is hypothetical and the case is regression on
+  correlated ratings.
+---
+<!-- inactive-ok-file: CLAIM-491 CLAIM-494 QUESTION-300 THEORY-1114 — Proposed or Open; the thesis and objection this reading bears on, their question and the self-categorization reading, cited as open -->
+<!-- inactive-ok-file: LIT-1700 — Unavailable; Batson et al.'s reply in the same issue, unread, named as the rival -->
+
+# NOTE-tmpps63a: Cialdini, Brown, Lewis, Luce & Neuberg — When one into one equals oneness
+
+## Contribution
+
+It put a measure of self–other overlap into the empathy–altruism paradigm
+and showed that, in its own data, the measure took over the predictive
+work that empathic concern had been doing. Before it, the egoistic
+alternatives to Batson's hypothesis (aversive arousal, social disapproval,
+guilt, sadness, empathic joy) had been ruled out one at a time. This paper
+named a nonaltruistic alternative that Batson's own model granted would
+defeat it, if it held: "without a distinct self and other ... it is not
+possible to detach altruism from egoism" (p. 482). It tested that
+alternative together with personal distress and sadness in one model.
+
+## Key insight
+
+When we help those close to us, what predicts how much we help is how far
+we see ourselves in them, not how much compassion we feel. Compassion
+rises with closeness only because closeness also raises the sense of
+oneness, and compassion is the felt signal of that oneness. On this view
+helping a close other is neither selfish nor selfless. Once self and other
+are merged, the authors argue, that dichotomy "loses its meaning" (p. 491).
+
+## Assumptions
+
+- **The self is malleable and can extend into others.** Self-conceptions
+  "can be made to shift temporarily, flowing across established
+  boundaries" (p. 482). The merging is "conceptual, not physical": "it is
+  conceptual identities that are merged" (p. 482).
+- **Two routes to oneness.** Perspective taking, which comes with
+  attachment, "facilitates the symbolic merging or expansion of the self
+  into the other". Or cues of genetic commonality (kinship, friendship,
+  familiarity, similarity) produce felt oneness, as inclusive fitness
+  would predict (p. 483). The paper does not test which route operates.
+- **Imagined need and imagined help stand in for real need and real
+  help.** Participants rated "what they *were* currently feeling" after
+  focusing on the scenario, and chose what they "would be willing" to do
+  (pp. 483–484). The authors defend this by noting that their pattern
+  reproduces the one from active-helping paradigms (p. 491).
+- **Regression control identifies the mediator.** The claim that oneness
+  and not empathic concern "mediates" helping rests on hierarchical
+  regression and, in Study 3, a path model with covarying, not causal,
+  links among the psychological variables (fn. 3).
+- **Oneness is defined as dyadic.** Footnote 1 reserves "oneness" for "that
+  which occurs in a dyadic relationship with a specified other" and keeps
+  it apart from "we-ness" as group membership or social identity (p. 483).
+
+## Key results
+
+- **Design (pp. 484–487).** Participants described a same-sex near
+  stranger, acquaintance, good friend or closest family member, then
+  imagined a need and chose one of seven costed helping options. Costs
+  were weighted from pilot ratings. Study 1 used eviction (n = 90; weights
+  0.0 to 8.3). Study 2 used the person's death leaving two children
+  without a home (n = 74; up to "raise them as you would your own", 9.2).
+  Study 3 crossed closeness with three levels of need: a phone call,
+  eviction and orphaned children (n = 263; 4 × 3). Empathic concern was
+  Batson's four adjectives (sympathetic, compassionate, softhearted,
+  tender). Personal distress was alarmed, worried and uneasy; sadness was
+  sad, low-spirited and heavy-hearted. All were rated after the helping
+  choice. Oneness was the IOS scale plus a 7-point item on "the extent to
+  which they would use the term *we*" (p. 484), placed before or after
+  the other measures (order had no effect).
+- **Closeness raised helping, empathic concern and oneness (Table 1).**
+  Study 1 helping went from 1.20 for a near stranger to 6.89 for family,
+  and oneness from 1.52 to 4.57. Study 1 F values: helping F(3, 82) =
+  33.28; empathic concern F(3, 82) = 5.37; oneness F(3, 86) = 30.58.
+  Empathic concern rose less steeply than oneness. In Study 1 it was 3.04
+  for a near stranger and 4.36 for an acquaintance, and did not differ
+  between acquaintance, friend and family.
+- **Both predicted helping (pp. 485–486).** Study 1: r = .45 for empathic
+  concern and r = .76 for oneness. Study 2: r = .33 and r = .53.
+- **Oneness removed empathic concern's effect (pp. 485–488).** In
+  hierarchical regression (gender, then empathic concern, then distress
+  and sadness, then oneness), empathic concern predicted helping at step 2
+  and still at step 3 in every test. At step 4 it became non-significant,
+  while oneness was significant:
+  - Study 1: empathic concern b = .11, F < 1; oneness b = 1.10,
+    F(1, 74) = 48.27.
+  - Study 2: empathic concern b = .37, F(1, 57) = 1.37, ns; oneness
+    b = .57, F(1, 57) = 10.39.
+  - Study 3, phone call: oneness F(1, 65) = 13.39, unique variance 7.7%
+    against 0.8%.
+  - Study 3, eviction: oneness F(1, 50) = 27.15, 14% against 0.7%.
+  - Study 3, orphaned children: oneness F(1, 50) = 16.13, 13.5% against
+    0.9%.
+- **The pattern holds for near strangers (p. 490).** Analysing only near
+  strangers in Study 3, empathic concern predicted helping at step 2
+  (F(1, 72) = 14.57) and lost significance once oneness was entered (b =
+  .08, F < 1; oneness F(1, 54) = 10.26). "In no instance within any of the
+  12 relationship conditions across our three studies was empathic concern
+  still predictive of helping after the influence of oneness was
+  extracted" (fn. 5).
+- **Path model, Study 3 (pp. 488–489).** Oneness was "the only explored
+  predictor to mediate the effects of the manipulated variables on
+  helping": χ²(12, N = 236) = 16.70, p > .15, CFI = .995. A model treating
+  the mediators as consequences of helping fit worse. Closeness, need and
+  their interaction also affected helping directly, so "other
+  psychological constructs" are at work (p. 490).
+- **Oneness and empathic concern have different profiles (p. 491).**
+  Severity of need raised empathic concern but not oneness, and empathic
+  concern was tied to distress and sadness while oneness was not. The
+  empathic concern index was reliable (α = .89; oneness .83). This is the
+  authors' answer to the objection that oneness is just a better measure
+  of empathy.
+- **Need moderated closeness (p. 487, Figure 1).** The effect of closeness
+  grew with severity of need, interaction F(6, 243) = 10.33. Family never
+  significantly exceeded good friends, which the authors note is "not
+  completely consistent with a strict evolutionary model" (p. 490).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Relationship closeness raises empathic concern, perceived oneness and willingness to help | strong within the paradigm | Table 1; ANOVAs in all three studies |
+| C2 | With oneness controlled, empathic concern no longer predicts willingness to help, while oneness does with empathic concern controlled | moderate | five hierarchical regressions and the near-stranger subanalysis; but cross-sectional ratings, with empathic concern rated after the helping choice |
+| C3 | Oneness, not empathic concern, mediates the effect of closeness and need on helping | weak to moderate | one path model with covarying mediators (fn. 3); "mediation" is statistical, on hypothetical helping |
+| C4 | Oneness and empathic concern are distinct constructs, not one construct measured twice | moderate | different relations to need severity and to distress and sadness (p. 491) |
+| C5 | Empathic concern is an emotional signal of oneness | weak; interpretation | inferred from C2–C4; "bidirectional causal influences" suggested and not tested (fn. 3) |
+| C6 | Helping under oneness is nonaltruistic: not selfless, and not to be called egoistic either | conceptual | argued from Batson's own concession that altruism needs distinct self and other (pp. 482, 490–491) |
+| C7 | In-group favouritism and recategorization effects share oneness as a common cause with dyadic helping | speculation | cited studies only (p. 492) |
+
+## Concepts
+
+- **Oneness** — "a sense of shared, merged, or interconnected personal
+  identities" (p. 483), with a specified other. Measured as the IOS scale
+  (seven pairs of increasingly overlapping circles) combined with how far
+  one "would use the term *we*" to describe the relationship (p. 484).
+  Distinguished from "we-ness" as social identity (fn. 1).
+- **Empathic concern** — Batson's other-oriented emotion of compassion,
+  tenderness, softheartedness and sympathy (p. 481).
+- **Nonaltruistic** — the authors' word for helping when self and other
+  are merged. It is not selfless, and they decline to call it egoistic,
+  because "the traditional dichotomy between selfishness and selflessness
+  loses its meaning" (pp. 490–491).
+- **One-egoistic-factor-at-a-time approach** — the authors' criticism of
+  Batson's programme. Ruling out one egoistic motive in one situation
+  "does not rule out egoism due to other factors there" (p. 484), so
+  several nonaltruistic motivators should be tested at once.
+
+## Connections
+
+The paper answers Batson's empathy–altruism hypothesis (Batson 1991;
+Batson & Shaw 1991) with Aron and Aron's self-expansion and IOS work and
+Davis et al.'s finding that perspective taking merges self and other. It
+draws on Hamilton's inclusive fitness for the claim that "the *self* in
+self-interest can lie outside of one's body" (p. 482). It quotes Batson
+and Shaw's doubt that merging occurs "except perhaps in some mystical
+states" (p. 482). It places its result beside Batson et al. (1995), which
+also treats empathic concern as a signal, of "valuation of another's
+welfare". The difference is that here the valuation follows from the self
+being "implicated in the other" (p. 491). Batson et al.'s reply in the same
+issue ([LIT-1700](../literature.d/LIT-1700.md)) is unread. The SEP entry ([NOTE-1274](NOTE-1274.md)) and Miyazono and
+Inarimori ([NOTE-1277](NOTE-1277.md)) reported this paper before it was read; both are
+borne out on what they report. Miyazono and Inarimori's "seven-point
+scale" of oneness is the paper's "we" item.
+
+## Bearing on the record
+
+- **[CLAIM-491](../claims.d/CLAIM-491.md): partly.** The claim's note of 2026-10-30 calls this paper
+  its best evidence, "read only at second hand", and it is now read. It
+  supports the claim's empirical form. In every test, helping tracked
+  oneness and not empathic concern, and the authors' "nonaltruistic" is
+  the claim's middle position, not selfishness. It falls short in three
+  ways. Oneness is measured as dyadic and kept apart from group identity
+  (fn. 1), so the paper bears on the claim's "others" and only by
+  speculation (p. 492) on its "group". The helping is hypothetical.
+  And on [CLAIM-492](../claims.d/CLAIM-492.md)'s demand, the paper separates oneness from empathic
+  concern (C4) but not from closeness or caring in general: closeness
+  drives oneness hardest, and nothing shows oneness present where caring
+  is absent or the reverse.
+- **[CLAIM-494](../claims.d/CLAIM-494.md): against it in part, not decisive.** In this paradigm
+  empathic concern did not predict helping once oneness was controlled,
+  even for near strangers, the targets Batson's studies use (p. 490,
+  fn. 5). That is the opposite of what the objection asserts. But the
+  objection's evidence is Batson et al.'s reply ([LIT-1700](../literature.d/LIT-1700.md)), which
+  answers this paper, and that reply is unread. What this reading adds is
+  the paradigm the reply criticised. The helping is imagined. Empathic
+  concern was rated after the helping choice (fn. 6). And the case for
+  mediation is regression on correlated ratings, with a path model whose
+  links among mediators are covariances (fn. 3). Whether merging "was
+  controlled" in the sense [CLAIM-491](../claims.d/CLAIM-491.md) means turns on the IOS and "we"
+  items, which the SEP argues test overlap, not identity ([NOTE-1274](NOTE-1274.md)).
+- **[QUESTION-300](../questions.d/QUESTION-300.md).** The paper's answer to which measure captures the
+  self's extent is IOS plus "we". Its defence that this is not empathy
+  under another name is the different-profiles argument (C4).
+- **[THEORY-1114](../theory.d/THEORY-1114.md).** The paper's footnote 1 keeps oneness apart from
+  social identity, the construct self-categorization theory studies. It
+  cites Brewer and Gardner (1996) and Turner (1987) for in-group
+  favouritism through self–group merger only as a parallel (p. 492).
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Hypothetical helping.** Every outcome is a choice about an imagined
+  person in an imagined plight, and no help was given. The authors argue
+  the pattern matches active-helping paradigms (p. 491). That is an
+  argument from similarity of results, not a test.
+- **Order and timing.** Empathic concern, distress and sadness were rated
+  after the helping choice, the reverse of Batson's usual order. The
+  authors flag this and ask for more data (fn. 6). Oneness was
+  counterbalanced.
+- **Statistical, not experimental, mediation.** Nothing manipulated
+  oneness apart from closeness. The path model treats the mediators as
+  covarying and the authors note that "bidirectional causal influences"
+  were likely but could not be tested (fn. 3).
+- **Shared variance.** Oneness and helping were both strongly driven by
+  the closeness manipulation (oneness F ≈ 30, helping F ≈ 33 in Study 1),
+  while empathic concern varied less across closeness. The authors' reply
+  (fn. 5) is that the pattern held within each of the 12 closeness
+  conditions, which addresses the between-condition confound but not
+  shared method variance within them.
+- **Sample.** Introductory psychology students at one university, rated
+  anonymously.
+- **Scope of the conclusion.** The authors deny that oneness is "the only
+  influence to be seriously weighed" (p. 490), and their in-group and
+  cross-cultural extensions rest on cited work only.
+
+## Open questions
+
+- Does oneness predict helping when it is manipulated directly, holding
+  closeness fixed? And does it predict real help, given with a cost?
+- Do the IOS and "we" items measure a self extended into the other, or
+  closeness and caring described in spatial and pronoun terms? A measure
+  that comes apart from caring, as [CLAIM-492](../claims.d/CLAIM-492.md) asks, would settle which.
+- Does Batson et al.'s reply ([LIT-1700](../literature.d/LIT-1700.md)) find empathy's effect with the
+  same oneness index, or with different merging measures? The SEP's
+  account suggests different ones.

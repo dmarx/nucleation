@@ -1,11 +1,13 @@
 ---
 number: 784
-status: Skimmed
+status: Superseded
+superseded_by:
+- NOTE-tmpjjdsb
 formerly:
 - NOTE-tmpgpiz3
 paper: LIT-981
 title: 'Coifman et al. — Diffusion maps'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -21,6 +23,13 @@ history:
     is quoted from the paper; the definitions given are the standard ones
     the prose describes. A copy on a third-party course page was found and
     not used. Hence Skimmed.
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    Superseded by NOTE-tmpjjdsb, a full reading of the same paper with
+    every equation read from the page images, filed on 2026-10-30. This
+    skim is kept as history; its reservation that the equations were not
+    seen no longer applies.
 date: '2026-10-14'
 summary: >-
   From a symmetric, positivity-preserving, positive semi-definite kernel,

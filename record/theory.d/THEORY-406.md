@@ -15,7 +15,16 @@ promote_when: >-
   settle it, since the account predicts those and nothing else has been
   sampled.
 title: "Self-presentations that differ by audience coexist without trouble while the audiences are kept apart by spatial, social and temporal boundaries, and collide when a medium removes the boundaries; networked publics make the collision frequent and often unseen by the person it happens to"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-30'
+  note: >-
+    The twenty-first status review, at the status review's ruling (the
+    owner delegated these rulings). boyd's Chapters 1, 4 and 7 are now
+    read in full (NOTE-tmpecu28); the Source and summary say so, and
+    "What this does not say" gains what the documented collisions are.
+    The title and status are unchanged.
 tags:
 - social-science
 - self
@@ -24,9 +33,10 @@ date: '2026-10-16'
 source:
 - LIT-1001
 summary: >-
-  boyd (2008), [LIT-1001](../literature.d/LIT-1001.md), after Meyrowitz (1985), read in part in [NOTE-710](../notes.d/NOTE-710.md)
-  (Skimmed: §1.5, §4.4, the Top Friends passage and every passage on
-  context, segmentation, collision and Goffman). An ethnography of US
+  boyd (2008), [LIT-1001](../literature.d/LIT-1001.md), after Meyrowitz (1985), read in part: §1.5,
+  §4.4, the Top Friends passage and every passage on context,
+  segmentation, collision and Goffman in [NOTE-710](../notes.d/NOTE-710.md), and Chapters 1, 4 and
+  7 in full in [NOTE-tmpecu28](../notes.d/NOTE-tmpecu28.md) (both Skimmed). An ethnography of US
   teenagers in 2004–2008: the dynamic is documented with interviews and
   examples, not measured, and the paradigm case, Stokely Carmichael's two
   rhetorical styles, reaches the record secondhand through Meyrowitz, who
@@ -35,7 +45,7 @@ summary: >-
 supports:
 - CLAIM-317
 ---
-<!-- inactive-ok-file: NOTE-710 — Skimmed; the reading this account rests on, which is why it is Proposed -->
+<!-- inactive-ok-file: NOTE-710 NOTE-tmpecu28 — Skimmed; the readings this account rests on, which is why it is Proposed -->
 <!-- inactive-ok-file: CLAIM-196 CLAIM-317 — Proposed; the record's own claims that ground in this reading, named in Connections -->
 
 # THEORY-406: Self-presentations that differ by audience coexist without trouble while the audiences are kept apart by spatial, social and temporal boundaries, and collide when a medium removes the boundaries; networked publics make the collision frequent and often unseen by the person it happens to
@@ -43,8 +53,10 @@ supports:
 ## Source
 
 danah boyd (2008), *Taken Out of Context: American Teen Sociality in
-Networked Publics*, PhD dissertation, UC Berkeley, [LIT-1001](../literature.d/LIT-1001.md), read in part
-in [NOTE-710](../notes.d/NOTE-710.md). The account of collapsed contexts is Meyrowitz's (1985)
+Networked Publics*, PhD dissertation, UC Berkeley, [LIT-1001](../literature.d/LIT-1001.md), read in part:
+§1.5, §4.4 and selected passages in [NOTE-710](../notes.d/NOTE-710.md), and Chapters 1, 4 and 7
+in full in [NOTE-tmpecu28](../notes.d/NOTE-tmpecu28.md); the methods chapter and Chapters 5–6 are
+unread. The account of collapsed contexts is Meyrowitz's (1985)
 account of broadcast media, extended to everyday people; Meyrowitz is not
 held. This account rests on a skim.
 
@@ -90,6 +102,14 @@ language by setting.
   managing collisions long before either.
 - **Anything beyond US teenagers of 2004–2008**, except through the
   Carmichael case, which the record has only at second hand.
+- **That the documented collisions are of differing presentations.** In
+  the teens' cases boyd documents (pp. 165–166), the trouble is mostly one
+  presentation, often co-written by friends, read by an unintended
+  audience without its context: a quiz result taken for drug use, joking
+  insults taken for meanness. Carmichael is the case of presentations that
+  differ by audience, and the record has it only at second hand. The
+  teens' remedy is to control the audience, not to unify the presentation
+  (p. 163).
 
 ## Connections
 
@@ -100,13 +120,12 @@ language by setting.
 - Goffman's dramaturgy (1959) is the frame boyd names as "at the core" of
   her account of identity (p. 125). It is not held.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what holds it back
 
-Kept Proposed by the fourteenth status review. boyd is read only in part
-([NOTE-710](../notes.d/NOTE-710.md), Skimmed), so the reading cannot be promoted on one source read
-in full. Its promote_when, a study comparing conflict between differing
+Its promote_when, a study comparing conflict between differing
 presentations when the audiences are kept apart and when a channel brings
-them together, is unmet: the record holds no such study, and the
-Carmichael case reaches it only through Meyrowitz, unread. It is not split
-into what boyd proposes, since [CLAIM-317](../claims.d/CLAIM-317.md), the claim that grounds in it,
-needs the dynamic to hold.
+them together, is unmet: boyd's Chapters 1, 4 and 7, now read in full
+([NOTE-tmpecu28](../notes.d/NOTE-tmpecu28.md)), make no such comparison, and her evidence is the
+interviews and cases the promote_when says cannot settle it. boyd is still
+read only in part, so it cannot be promoted on one source read in full
+either.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpas8q0
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -29,6 +29,16 @@ history:
     crystal paragraph states the seeding physics from memory. The claim
     now has no grounds: its evidence is the record's own decisions
     (ADR-032) and the cases that illustrate it. The text is unchanged.
+- version: 4
+  date: '2026-10-30'
+  note: >-
+    The twenty-first status review, at the status review's ruling (the
+    owner delegated these rulings; ADR-047 kind 3, ADR-057). Shipman and
+    Marshall (LIT-756) now read (NOTE-tmps2gbq); a dated note corrects the
+    body's paraphrase "When they are made to formalize early, the
+    structure that results belongs to the system and not to them", which
+    goes beyond the text. No edge: the claim's evidence is the record's
+    own, and the paper is a parallel. The title is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -172,10 +182,28 @@ the link fixer wrote a `rests_on` nobody asserted, and only a reader saw it.
 [ADR-032](../decisions.d/ADR-032.md)'s literature roles are the case where the misfit was noticed and the
 grammar was not amended, and they stay in prose.
 
-## Note of 2026-10-29: what holds it back
+## Note of 2026-10-30: what Shipman and Marshall say
 
-Its own test is unmet. No move that mattered in an exchange is shown that
-the record still cannot hold, or holds only by distorting it: [CASE-131](../cases.d/CASE-131.md)'s
-distortion was caught and the grammar amended, and [ADR-032](../decisions.d/ADR-032.md)'s literature
-roles were declined by decision, not lost. Shipman and Marshall ([LIT-756](../literature.d/LIT-756.md)),
-whose finding it turns on the record, are unread.
+They are now read, in the authors' web version of about 1993–94
+([NOTE-tmps2gbq](../notes.d/NOTE-tmps2gbq.md)). The attribution holds: users resist making structure
+explicit, and are often right to. The first paragraph above goes beyond
+the text in one clause, "the structure that results belongs to the system
+and not to them". The paper says formalisms "structure the activity in
+unexpected or unintended ways" and "may cause people to lose information
+that doesn't fit" (§2); it does not say whose the structure is. Two
+passages bear on this counter: "there is always information that falls
+between the cracks, no matter how well thought out the formal
+representation is", the claim's lost case, and "what one person thinks is
+an argument may be an issue to someone else" (§2.2), a move forced into one
+category where it fits two. The paper studies formalisms imposed on users,
+not a vocabulary its users amend, and its remedy, formalization "as people
+reconceptualize their tasks", is what [CLAIM-419](CLAIM-419.md) says this record does.
+
+## Note of 2026-10-30: what holds it back
+
+Its own test is unmet, and no reading can meet it: a move that mattered in
+an exchange and that the record still cannot hold, or holds only by
+distorting it. [CASE-131](../cases.d/CASE-131.md)'s distortion was caught and the grammar amended,
+and [ADR-032](../decisions.d/ADR-032.md)'s literature roles were left in prose by decision, which
+Shipman and Marshall would call informality kept until formalizing pays,
+not loss.

@@ -1,0 +1,83 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-30 ([NOTE-tmpswmu1](../notes.d/NOTE-tmpswmu1.md)) in full, from the publisher's PDF posted
+  on Kelso's lab page at Florida Atlantic University
+  (https://ccs.fau.edu/hbblab/pdfs/1988_Kelso_Scholz_Schoner_Dynamics_governs_switching_among_pattern.pdf);
+  worth reading as the experiment showing that an intended switch between
+  bimanual patterns is shaped by their stability: switching from in-phase
+  to anti-phase takes about twice as long as the reverse, with a longer
+  tail, as the HKB dynamics with an added intentional term predicts. Read
+  it knowing that it has four subjects, that the model's one new
+  parameter was set to match the order of magnitude of the switching
+  times, and that the critical slowing it mentions is cited from an
+  earlier paper, not shown.
+title: 'Dynamics governs switching among patterns of coordination in biological movement'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Filed and read the same day. Not in the record before: a grep of
+    literature.d for the DOI, "Scholz", "Schöner" and "Dynamics governs
+    switching" found nothing. Citation checked against Crossref on
+    2026-10-30 (no contact address sent): Physics Letters A 134(1):8–12,
+    December 1988. `published:` is the issue date the document carries,
+    12 December 1988 (ADR-002), Crossref giving only the month. The copy is
+    the publisher's typeset PDF, five pages, on the first author's lab
+    page, an author's posting under ADR-064. Read in full from its text
+    layer, with the figures checked on the page images (NOTE-tmpswmu1).
+tags:
+- complex-systems
+- behavioral-integration
+- natural-sciences
+- embodied-cognition
+date: '2026-10-30'
+published: '1988-12-12'
+doi: '10.1016/0375-9601(88)90537-3'
+first_author: 'Kelso'
+keywords: []
+implementations: []
+extends:
+- LIT-588
+summary: >-
+  Kelso, Scholz & Schöner (1988), Physics Letters A 134(1):8–12. When
+  people switch on cue between in-phase and anti-phase finger movement,
+  the switch from in-phase to anti-phase takes about twice as long as
+  the reverse (four subjects, each p < 0.0001), with a longer-tailed
+  distribution. Adding to the stochastic HKB equation a term that pulls
+  relative phase toward the intended pattern reproduces the asymmetry
+  and the distributions' shapes: intention acts within the pattern
+  dynamics, not over them.
+---
+<!-- inactive-ok-file: THEORY-069 — Proposed; the account this reading bears on, cited as open -->
+
+# LIT-tmpupvec: Dynamics governs switching among patterns of coordination in biological movement
+
+J. A. S. Kelso, J. P. Scholz and G. Schöner (1988), *Physics Letters A*
+134(1):8–12. doi:10.1016/0375-9601(88)90537-3.
+
+Read in full on 2026-10-30 ([NOTE-tmpswmu1](../notes.d/NOTE-tmpswmu1.md)), from the publisher's PDF on
+Kelso's lab page.
+
+## Key takeaways
+
+- **Intended switches are asymmetric.** Mean switching time from in-phase
+  to anti-phase was about twice that from anti-phase to in-phase at every
+  frequency from 1.75 to 2.75 Hz (Fig. 2), significant for each of the
+  four subjects, F(1,60) from 20.7 to 100.4, p < 0.0001 (p. 10).
+- **A model of intention.** The stochastic HKB equation with a=1 Hz,
+  b=0.5 Hz and Q=0.25 Hz, taken from the earlier experiments, plus a term
+  −c_int sin(φ − ψ) switched on at the cue, gives switching-time
+  densities with the observed asymmetry and long tail (Fig. 4); c_int ≈
+  10 Hz was set to get the order of magnitude right (p. 11).
+- **Cited, not shown.** The introduction reports that enhanced
+  fluctuations and growth in relaxation time accompanied the spontaneous
+  transition, citing Kelso, Scholz and Schöner 1986 ([LIT-tmp8grr0](LIT-tmp8grr0.md)) and
+  Scholz, Kelso and Schöner 1987 (Physics Letters A 123:390, not filed).
+
+## Standing in the record
+
+Filed on 2026-10-30 at the owner's request, with HKB 1985 ([LIT-588](LIT-588.md)) and
+Kelso, Scholz and Schöner 1986 ([LIT-tmp8grr0](LIT-tmp8grr0.md)), for [THEORY-069](../theory.d/THEORY-069.md). No
+instruction for machine-learning practice.
