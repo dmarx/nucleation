@@ -29,7 +29,7 @@ reported_in:
 summary: >-
   In some Tettigades cicadas, the endosymbiont Hodgkinia split into two cell lineages with almost perfectly complementary gene sets, the functionality of one ([LIT-1563](../literature.d/LIT-1563.md)), and it has done so at least six times in the genus ([LIT-1586](../literature.d/LIT-1586.md)). In Magicicada it fragmented into twenty or more genomic circles per species ([LIT-1612](../literature.d/LIT-1612.md), [LIT-1602](../literature.d/LIT-1602.md)). Hosts compensate by transmitting more cells to each egg ([LIT-1590](../literature.d/LIT-1590.md)). Used as the case where dependence and the number of parts grow with no new collective function, and the host pays.
 ---
-<!-- inactive-ok-file: THEORY-1106 NOTE-1235 LIT-1586 LIT-1602 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: NOTE-1235 LIT-1586 LIT-1602 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 <!-- inactive-ok-file: LIT-1563 LIT-1586 LIT-1612 LIT-1602 LIT-1590 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 
 # CASE-177: Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage

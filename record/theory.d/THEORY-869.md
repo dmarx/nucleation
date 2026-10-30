@@ -61,7 +61,7 @@ bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-tmpw9z0q — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
-<!-- inactive-ok-file: THEORY-577 THEORY-633 THEORY-023 THEORY-865 — Proposed; accounts this one is set beside, not leaned on -->
+<!-- inactive-ok-file: THEORY-577 THEORY-633 THEORY-023 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claim, cited as open -->
 
 # THEORY-869: In Claude Sonnet 4.5, Opus 4.5 and Opus 4.6, Gurnee, Sofroniew et al. found that projecting out the ten most active J-space directions in layers 38 to 54 of 100 lowered an experiential-language score, graded by Opus 4.6-based model graders on five or six prompts per condition, both in the models' narrations of their own processing and in their descriptions of another person's experience, while norm-matched perturbations along other directions left it near baseline and the text stayed fluent; on Haiku 4.5 coherence failed first

@@ -63,7 +63,7 @@ bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-tmpz11fs — Proposed; the wide form kept beside this narrowed reading (ADR-047, kind 1) -->
-<!-- inactive-ok-file: THEORY-091 THEORY-096 THEORY-023 THEORY-869 THEORY-881 — Proposed; accounts this one is set beside, not leaned on -->
+<!-- inactive-ok-file: THEORY-091 THEORY-096 THEORY-023 THEORY-881 — Proposed; accounts this one is set beside, not leaned on -->
 <!-- inactive-ok-file: CLAIM-411 CLAIM-412 TERM-072 — Proposed; the batch's claims and term, cited as open -->
 
 # THEORY-865: In Gurnee, Sofroniew et al.'s experiments on Claude Sonnet 4.5, Haiku 4.5, Opus 4.5 and Opus 4.6, the residual-stream directions a corpus-averaged Jacobian lens marks as verbalizable (the J-space) carried most of the causal effect on verbal report and on unspoken two-hop intermediates while holding a small share of their variance (swaps along them succeeding on 59% and 61% of trials, against 5% and 28% for the remainder, which fell to 0% and 6% with the J-space clamped), held instructed concepts, and passed one swapped argument to several functions (76 of 192 swaps); in two small task sets (n = 8 and 11), report and flexible inference followed a swap while continuation, anomaly detection and line wrapping did not, a split the authors partly define by this result; and by the lens's own statistics the J-space works in a middle band of layers, holds about 25 active directions and under 10% of activation variance, and is amplified and relayed by the weights more than other directions
