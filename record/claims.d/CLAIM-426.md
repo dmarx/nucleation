@@ -100,7 +100,7 @@ true.
   through [CLAIM-402](CLAIM-402.md) already run on the same circuit. What the CCRU's term
   adds is the case where the idea is a fiction or a forecast and its spread
   is the point; Land allows that it can "transmute lies into truths"
-  (NOTE-1378), so the idea need not be true of the present.
+  ([NOTE-1378](../notes.d/NOTE-1378.md)), so the idea need not be true of the present.
 - **Not an endorsement of the CCRU's programme.** Land's theory-fiction was
   written to bring futures about. The claim takes the definition and the
   case, and makes no judgement on the programme.
@@ -146,6 +146,6 @@ The title and status are unchanged.
 The claim's own second defeat condition is unanswered: nothing in the
 record says whether a judgement's circulation, when it helps bring
 about what it says, is better described as a new ground for a
-judgement about the future, in which case CLAIM-425's rule survives
+judgement about the future, in which case [CLAIM-425](CLAIM-425.md)'s rule survives
 intact. And the read sources (Land, Soros) give no condition for
 telling which judgements' circulation helps make them true.

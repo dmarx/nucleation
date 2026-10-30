@@ -115,7 +115,7 @@ is what the claim is about. The claim is unchanged and stays Proposed.
 
 ## Note of 2026-10-30: what holds it back
 
-Its one ground, CASE-150 (Kleinman, Liu and Redding, read), shows the
+Its one ground, [CASE-150](../cases.d/CASE-150.md) (Kleinman, Liu and Redding, read), shows the
 material level only, and decides opportunity against threat by the
 sign of exposure, not by perspective. The comparison the defeat
 condition names, economically similar relationships that differ in

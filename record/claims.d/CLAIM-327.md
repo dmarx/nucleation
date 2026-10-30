@@ -189,9 +189,9 @@ The claim stays Proposed.
 ## Note of 2026-10-30: what holds it back
 
 No case in the record shows the second or third stage for a real
-collective: Flack 2012 (NOTE-1351) shows the first stage only, the two Flack
+collective: Flack 2012 ([NOTE-1351](../notes.d/NOTE-1351.md)) shows the first stage only, the two Flack
 2006 papers that argue the second are Unavailable, and the intervention on
 members' access that the defeated_if names has not been run or read. Flack
-2017 (NOTE-1216) also puts weak downward causation at use alone, against the
+2017 ([NOTE-1216](../notes.d/NOTE-1216.md)) also puts weak downward causation at use alone, against the
 summary's "only the third makes the variable an endogenous level", and the
 claim has not replied.

@@ -162,8 +162,8 @@ The claim falls if Pierson or Putnam already state it.
 ## Note of 2026-10-30: what holds it back
 
 Its defeat condition is only half checked. The claim falls if Putnam's
-two-level games already state it, and Putnam (LIT-1375) is Unavailable and
-unread. Pierson's 2000 article was not reached; THEORY-885 reads only the
+two-level games already state it, and Putnam ([LIT-1375](../literature.d/LIT-1375.md)) is Unavailable and
+unread. Pierson's 2000 article was not reached; [THEORY-885](../theory.d/THEORY-885.md) reads only the
 1997 text, which leaves the authority half open. No case in the record
 shows a component's temporal horizon, rather than the formal rule that
 gives an event its consequence, deciding which component holds

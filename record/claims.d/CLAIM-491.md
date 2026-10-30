@@ -336,7 +336,7 @@ best evidence, is read only at second hand.
 
 ## Note of 2026-10-30: filed with its concessions
 
-CLAIM-492 has been written into this claim's defeated_if since filing:
+[CLAIM-492](CLAIM-492.md) has been written into this claim's defeated_if since filing:
 the thesis is answered only if it is tied to a criterion of the self's
 extent, such as perceived overlap, fusion or salient
 self-categorization, that can come apart from caring. That conditional

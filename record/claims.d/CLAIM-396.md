@@ -96,7 +96,7 @@ coupling gives zero MI and TE, the moments match a simulation).
 - One-way flow is not monotone in the drive here. TE₁→₂/TE₂→₁ rises to
   about 230 at d = 2 and falls back to between 4 and 8 for d from 4 to 64,
   because x₂ comes to carry information about the unrecorded drive.
-  THEORY-275's one-way reading under strong drive is for a recorded drive
+  [THEORY-275](../theory.d/THEORY-275.md)'s one-way reading under strong drive is for a recorded drive
   and the fitted bead model, which this model is not.
 - With the drive recorded, transfer entropy conditioned on its past
   separates the two pairs without intervention: TE₂→₁ given the drive is
@@ -104,13 +104,13 @@ coupling gives zero MI and TE, the moments match a simulation).
   (p18/claim396_conditioned.py). "Telling them apart needs an intervention
   on a member" holds at most where the drive is unrecorded.
 
-This is THEORY-275's model class, linear, Gaussian and two-body, so it is
-not QUESTION-186's second system.
+This is [THEORY-275](../theory.d/THEORY-275.md)'s model class, linear, Gaussian and two-body, so it is
+not [QUESTION-186](../questions.d/QUESTION-186.md)'s second system.
 
 ## Note of 2026-10-30: what holds it back
 
 It generalizes one linear Gaussian pair, and the test it names is a second
 system with a known reciprocal coupling driven at graded strengths
-(QUESTION-186), which has not been found. The computation of 2026-10-30
+([QUESTION-186](../questions.d/QUESTION-186.md)), which has not been found. The computation of 2026-10-30
 confirms that the drive sets the direction within that model class and
 reaches no further.

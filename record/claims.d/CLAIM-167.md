@@ -106,5 +106,5 @@ exogenous input loses nothing, including the driven part's response to an
 intervention on it (checked in p18/claim167_input_description.py, with a
 mutual pair as control); for a target that needs both parts, the driven
 part alone cannot serve. The restatement is the owner's. Its sense of
-"one system" is also CLAIM-157's threshold criterion (TERM-049), which is
+"one system" is also [CLAIM-157](CLAIM-157.md)'s threshold criterion ([TERM-049](../terms.d/TERM-049.md)), which is
 Proposed.
