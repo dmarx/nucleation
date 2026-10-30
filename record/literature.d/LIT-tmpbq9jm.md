@@ -1,0 +1,88 @@
+---
+status: Unfetched
+status_note: >-
+  filed 2026-10-30, not read. The publisher's own free copy exists
+  (bronze): onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejsp.259. On
+  2026-10-30 Wiley answered HTTP 403 with a Cloudflare challenge
+  (`cf-mitigated: challenge`). The challenge was not retried. A human
+  reader can likely open it. No NOTE is filed. It stays Unfetched until a
+  copy is supplied, not on merit. Free copy:
+  onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejsp.259.
+title: 'Relevance of social categories, depersonalization and group processes: two field tests of self-categorization theory'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Filed as Unfetched, not read, for THEORY-1114 and CLAIM-493. Citation
+    checked against Crossref (DOI 10.1002/ejsp.259: European Journal of
+    Social Psychology 36(1), 73–90; sole author Alberto Voci; online
+    16 January 2006, which is `published:`). The title is Crossref's,
+    with its non-breaking hyphen written as a plain one. The summary and
+    the key takeaways come from the abstract in Crossref's record. No
+    duplicate was found in literature.d by DOI, title or author.
+tags:
+- social-identity
+- social-science
+date: '2026-10-30'
+published: '2006-01-16'
+doi: '10.1002/ejsp.259'
+first_author: 'Voci'
+keywords:
+- 'self-categorization theory'
+- 'comparative fit'
+- 'depersonalization'
+- 'category accessibility'
+- 'meta-contrast'
+- 'ingroup bias'
+implementations: []
+summary: >-
+  Voci (2006), European Journal of Social Psychology 36(1):73–90. By its
+  abstract (the only source used here): two field studies, of football
+  fans and of employees, with new meta-contrast-based measures of
+  comparative fit and depersonalization, report that fit drove ingroup
+  bias and other outcomes through depersonalization, and only when the
+  category was highly accessible. Expected to supply field evidence for
+  THEORY-1114's metacontrast-to-depersonalization chain, and, through
+  its football fans, a case for CLAIM-493.
+---
+<!-- inactive-ok-file: THEORY-1114 CLAIM-493 — Proposed; the account and the claim this work is filed for, not leaned on -->
+
+# LIT-tmpbq9jm: Relevance of social categories, depersonalization and group processes: two field tests of self-categorization theory
+
+Voci, A. (2006). *European Journal of Social Psychology*, 36(1), 73–90.
+DOI-10.1002/ejsp.259
+
+Not read. Everything below is taken from the abstract in Crossref's
+record and has not been checked against the paper.
+
+## Key takeaways
+
+*From the abstract only.*
+
+- **Design.** Two field studies. In the first the participants were
+  football fans, in the second the employees of an organization. Each had
+  two conditions that varied the accessibility and salience of the
+  ingroup–outgroup categorization.
+- **Measures.** New measures of comparative fit and of depersonalization,
+  "based on meta-contrast ratios". The outcomes were ingroup bias (both
+  studies) and, in Study 2, ingroup entitativity, organizational
+  citizenship behaviours, job satisfaction and turnover intentions.
+- **Result as reported.** "Comparative fit determined ingroup bias and
+  other criterion variables through the mediating process of
+  depersonalization", and this process "was active only when the category
+  was highly accessible". Accessibility moderated the link from
+  depersonalization to the outcomes, "not the link between fit and
+  depersonalization".
+
+## Why this is here
+
+THEORY-1114 claims that metacontrast fixes which self-category is salient
+and that salience depersonalizes self-perception. The abstract reports a
+measured fit-to-depersonalization path in the field. A reading should
+check whether the frame was varied or only measured, and whether the
+author stands outside the theory's originating group, as THEORY-1114's
+promote_when requires. CLAIM-493 concerns fanbases set against an outside
+party. The first study's football fans make it the nearest field sample
+the record has for that claim. Whether it measures which members become
+more prototypical is not said in the abstract.
