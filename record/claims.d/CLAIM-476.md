@@ -42,8 +42,8 @@ history:
     delegated these rulings; ADR-057). The summary said "Barad is unread
     here", and "What it does not say" said "Barad is unread here
     (LIT-1653, LIT-1657); the sense of apparatus compared is A4 and A6's
-    account of her." Her 2012 essay is now read (LIT-tmpqga3b,
-    NOTE-tmpynmwh). It confirms the cut but gives no general account of
+    account of her." Her 2012 essay is now read (LIT-1869,
+    NOTE-1458). It confirms the cut but gives no general account of
     an apparatus, so it takes no edge (ADR-058). Title, status and edges
     unchanged.
 role: thesis
@@ -88,7 +88,7 @@ summary: >-
   only made governable. That needs an argument the operational facts do
   not supply, and the readings press on it, since Barad rejects carrying
   agential realism as a template. Of Barad, only her 2012 essay is read here
-  (NOTE-tmpynmwh), and it gives no general account of an apparatus.
+  (NOTE-1458), and it gives no general account of an apparatus.
 ---
 <!-- inactive-ok-file: CLAIM-470 TERM-089 LIT-1652 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: LIT-1665 — Deferred; registered unread -->
@@ -194,7 +194,7 @@ inquiry reconstitutes."
   shape leaves no decision behind. An apparatus that constitutes objects
   can constitute the wrong ones.
 - **Not Barad's own reading.** Barad's book and article are unread here
-  ([LIT-1653](../literature.d/LIT-1653.md), [LIT-1657](../literature.d/LIT-1657.md)). Her 2012 essay ([LIT-tmpqga3b](../literature.d/LIT-tmpqga3b.md), read in [NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md))
+  ([LIT-1653](../literature.d/LIT-1653.md), [LIT-1657](../literature.d/LIT-1657.md)). Her 2012 essay ([LIT-1869](../literature.d/LIT-1869.md), read in [NOTE-1458](../notes.d/NOTE-1458.md))
   states the agential cut in the sense this claim uses, "a “local”
   resolution within the phenomenon of the inherent ontological
   indeterminacy" (p. 32), but uses "apparatus" only of the two-slit set-up,

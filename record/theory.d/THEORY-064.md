@@ -166,8 +166,8 @@ are left to the book ([NOTE-460](../notes.d/NOTE-460.md), Limitations).
 
 No reading in the record measures the attentional availability of
 self-model content together with reported selfhood, or reports a wholly
-opaque self-model either way. Metzinger 2013 ([LIT-tmptcw4n](../literature.d/LIT-tmptcw4n.md),
-[NOTE-tmpelzjc](../notes.d/NOTE-tmpelzjc.md)), read in full, narrows the test to the minimal case,
+opaque self-model either way. Metzinger 2013 ([LIT-1871](../literature.d/LIT-1871.md),
+[NOTE-1434](../notes.d/NOTE-1434.md)), read in full, narrows the test to the minimal case,
 "transparent spatiotemporal self-location is necessary and sufficient"
 for minimal selfhood. It names phenomenally opaque self-location in
 fully lucid bodiless dreams as the decisive case, and reports none. It

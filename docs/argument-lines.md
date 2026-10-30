@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-28 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+29 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -80,7 +80,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-023](../record/claims.d/CLAIM-023.md) — The contribution is not that translation is pragmatic or that speech acts change contexts, but a specified, testable account of which communicative distinctions a translation preserves *(Active)*
   - [CLAIM-202](../record/claims.d/CLAIM-202.md) — What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings *(Proposed)*
   - [CLAIM-233](../record/claims.d/CLAIM-233.md) — The central theses' defeat conditions pit them only against embedding, propositional or surface similarity, and two rivals the record holds, functional equivalence as Nida states it and a proposition with its illocutionary force, also predict that judged pragmatic observables beat text similarity *(Active)*
-    - [CLAIM-501](../record/claims.d/CLAIM-501.md) — Gutt's interpretive resemblance also predicts that judged pragmatic observables beat text similarity, so the central theses' defeat conditions cannot tell the thesis from a relevance-theoretic account either *(Proposed)*
+    - [CLAIM-501](../record/claims.d/CLAIM-501.md) — Gutt's interpretive resemblance also predicts that judged pragmatic observables beat text similarity, so the central theses' defeat conditions cannot tell the thesis from a relevance-theoretic account either *(Active)*
 
 ### From No result from the exchange's four experiments reached a later draft: the authored chains were excluded by rule, and the synthetic constructions were dropped without a stated reason
 
@@ -142,6 +142,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-325](../record/claims.d/CLAIM-325.md) — The behavioural data the record has read show no contextuality proper: none of the five kinds of data Dzhafarov, Zhang and Kujala re-analyse is contextual, Wang et al. test none of their 90 language systems for it, and no documented test of pragmatic or meaning judgements finds it at adequate power *(Active)*
   - [CLAIM-219](../record/claims.d/CLAIM-219.md) — A change in the global compatibility of a fixed scenario is either a change in contextuality proper, which the behavioural data read show none of, or a change in overlap consistency, which is ordinary context dependence and moves by at most 2ε when each context moves by ε *(Active)*
 
+### From Functional and relevance-theoretic accounts of translation, as Nida, Nord and Gutt state them, need not fix one context or a static stance profile of the rendering
+
+- [CLAIM-205](../record/claims.d/CLAIM-205.md) — Functional and relevance-theoretic accounts of translation, as Nida, Nord and Gutt state them, need not fix one context or a static stance profile of the rendering *(Active)*
+  - [CLAIM-504](../record/claims.d/CLAIM-504.md) — The strongest operationalization of the functional and relevance-theoretic rivals to the transport structure is a rich contextual baseline of context-response profiles and supervised prediction *(Proposed)*
+
 ### From Sharing a kind and being a rendering are different relations: kind-sharing is symmetric and says what is to be preserved, while fidelity belongs to a transport from a given source, so an utterance of the same kind made independently of the source shares its kind and has no fidelity to it
 
 - [CLAIM-210](../record/claims.d/CLAIM-210.md) — Sharing a kind and being a rendering are different relations: kind-sharing is symmetric and says what is to be preserved, while fidelity belongs to a transport from a given source, so an utterance of the same kind made independently of the source shares its kind and has no fidelity to it *(Active)*
@@ -182,7 +187,8 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-149](../record/claims.d/CLAIM-149.md) — A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it *(Active)* — also rests on CLAIM-266
   - [CLAIM-249](../record/claims.d/CLAIM-249.md) — Comparing characters across realizations needs one group identified on both, which is fixed only up to automorphism, and automorphisms permute the irreducible characters, so "the same character" is relative to a chosen correspondence: the collapse problem again, at the level of the symmetry group *(Active)* — also rests on CLAIM-132, CLAIM-318
   - [CLAIM-381](../record/claims.d/CLAIM-381.md) — Over a finite class of items with finite judgement outcomes, a constant outcome kernel fits every item only when the target readers' averaged responses do not vary with the item, an exact fit is a garbling with the item as common parameter, and Le Cam's deficiency and its restriction to finitely many decision problems are finite computations *(Active)*
-    - [CLAIM-488](../record/claims.d/CLAIM-488.md) — Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem *(Proposed)*
+    - [CLAIM-503](../record/claims.d/CLAIM-503.md) — Over finitely many states and finite outcome sets, one experiment is ε-deficient relative to another in every decision problem with losses in [0, 1] exactly when a single Markov kernel brings it within ε in total variation at every state, so the deficiency computed as a linear programme is the least such ε *(Active)*
+      - [CLAIM-488](../record/claims.d/CLAIM-488.md) — Le Cam deficiency, after Torgersen, would quantify the approximate case of the Blackwell order for translation, and decoder-only audience knowledge would make the coding problem a Wyner-Ziv problem *(Active)* — also rests on CLAIM-381
 - [CLAIM-025](../record/claims.d/CLAIM-025.md) — An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately *(Active)*
   - [CLAIM-099](../record/claims.d/CLAIM-099.md) — Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement *(Active)* — through [ARG-007](../record/arguments.d/ARG-007.md) — also argued from CLAIM-079
     - [CLAIM-344](../record/claims.d/CLAIM-344.md) — Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve *(Active)* — also rests on CLAIM-277, CLAIM-331

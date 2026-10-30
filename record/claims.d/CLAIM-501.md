@@ -12,7 +12,7 @@ history:
     Promoted at the status review's ruling (the owner delegated these
     rulings; ADR-057, ADR-058). Its blocker note of 2026-10-30 said no
     reading of Gutt existed. Gutt's 1989 thesis, Translation and Relevance
-    (LIT-tmp1eyaz), is now skimmed in NOTE-tmpfykfi, through the chapters
+    (LIT-1845), is now skimmed in NOTE-1435, through the chapters
     that define interpretive resemblance (pp. 57, 70–76), faithfulness
     (pp. 160–193) and direct translation (pp. 194–257). Its defeat
     condition is not met: the thesis says resemblance between utterances
@@ -38,11 +38,11 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-233
 grounds:
-- LIT-tmp1eyaz
+- LIT-1845
 summary: >-
   Split from [CLAIM-233](CLAIM-233.md) by the nineteenth status review ([ADR-057](../decisions.d/ADR-057.md); [ADR-047](../decisions.d/ADR-047.md)'s
   kind 2, the record's own extrapolation) and promoted by the
-  twenty-first, once Gutt's 1989 thesis (LIT-tmp1eyaz) was read. [CLAIM-233](CLAIM-233.md)
+  twenty-first, once Gutt's 1989 thesis (LIT-1845) was read. [CLAIM-233](CLAIM-233.md)
   holds that functional equivalence and a proposition with its force both
   predict a pass on the central defeat test. This claim adds Gutt's
   relevance-theoretic account. The book ([LIT-784](../literature.d/LIT-784.md)) stays unread.
@@ -55,7 +55,7 @@ summary: >-
 
 [CLAIM-233](CLAIM-233.md)'s version 2 named Gutt's interpretive resemblance among the rival
 accounts that predict a pass on the central defeat test ([CASE-184](../cases.d/CASE-184.md)). The record
-reads the account in Gutt's 1989 thesis ([LIT-tmp1eyaz](../literature.d/LIT-tmp1eyaz.md), [NOTE-tmpfykfi](../notes.d/NOTE-tmpfykfi.md)). Two
+reads the account in Gutt's 1989 thesis ([LIT-1845](../literature.d/LIT-1845.md), [NOTE-1435](../notes.d/NOTE-1435.md)). Two
 utterances interpretively resemble each other "to the degree that the sets
 of assumptions which each conveys in its own cognitive environment overlap,
 that is, ... the degree to which they share their explicatures and/or

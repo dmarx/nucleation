@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [30 Oct 08:00 — Readable substitutes for unread works: 38 readings filed, four claims promoted, Le Cam's criterion derived](2026-10.md#readable-substitutes-for-unread-works-38-readings-filed-four-claims-promoted-le-cams-criterion-derived)
 - [30 Oct 05:08 — The twentieth status review: two lab cases promoted, no live claim left on an unread work](2026-10.md#the-twentieth-status-review-two-lab-cases-promoted-no-live-claim-left-on-an-unread-work)
 - [30 Oct 04:42 — The nineteenth status review: the ready list emptied, five claims promoted and eight Active claims taken off unread works](2026-10.md#the-nineteenth-status-review-the-ready-list-emptied-five-claims-promoted-and-eight-active-claims-taken-off-unread-works)
 - [30 Oct 04:03 — The eighteenth status review: the distributed-agency line ruled through, eight claims promoted](2026-10.md#the-eighteenth-status-review-the-distributed-agency-line-ruled-through-eight-claims-promoted)
@@ -120,8 +121,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-111 entries across 1 book, newest first.
+112 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 111 | 2026-10-07 | 2026-10-30 |
+| [2026-10](2026-10.md) | 112 | 2026-10-07 | 2026-10-30 |

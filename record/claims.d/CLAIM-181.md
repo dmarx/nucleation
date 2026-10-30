@@ -34,7 +34,7 @@ history:
   note: >-
     The twenty-first status review, at the status review's ruling (the
     owner delegated these rulings; ADR-047 kind 3, ADR-057). Shipman and
-    Marshall (LIT-756) now read (NOTE-tmps2gbq); a dated note corrects the
+    Marshall (LIT-756) now read (NOTE-1446); a dated note corrects the
     body's paraphrase "When they are made to formalize early, the
     structure that results belongs to the system and not to them", which
     goes beyond the text. No edge: the claim's evidence is the record's
@@ -185,7 +185,7 @@ grammar was not amended, and they stay in prose.
 ## Note of 2026-10-30: what Shipman and Marshall say
 
 They are now read, in the authors' web version of about 1993–94
-([NOTE-tmps2gbq](../notes.d/NOTE-tmps2gbq.md)). The attribution holds: users resist making structure
+([NOTE-1446](../notes.d/NOTE-1446.md)). The attribution holds: users resist making structure
 explicit, and are often right to. The first paragraph above goes beyond
 the text in one clause, "the structure that results belongs to the system
 and not to them". The paper says formalisms "structure the activity in

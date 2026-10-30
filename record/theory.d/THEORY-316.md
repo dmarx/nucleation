@@ -22,9 +22,9 @@ history:
   date: '2026-10-30'
   note: >-
     A dated note says which alternative-possibilities conditions the
-    title means, after Timpe (LIT-tmpn8wog, NOTE-tmpz05rj) argued that
+    title means, after Timpe (LIT-1867, NOTE-1459) argued that
     ultimacy entails a weak one, and records Fischer's renewed
-    concession (LIT-tmppshez, NOTE-tmpxvceo), at the status review's
+    concession (LIT-1868, NOTE-1457), at the status review's
     ruling (the owner delegated these rulings; ADR-057; ADR-047 kind 3).
     No edge is added: neither paper supplies what the promote_when asks
     for. Title and status unchanged.
@@ -141,14 +141,14 @@ incompatibilist condition is fundamental.
 The title's "defeat alternative-possibilities conditions" means principles
 (1) and (2), and any such condition "relevant to explaining why an agent
 is morally responsible" (p. 1), as the body says; it does not mean every
-such condition. Timpe ([LIT-tmpn8wog](../literature.d/LIT-tmpn8wog.md), read in [NOTE-tmpz05rj](../notes.d/NOTE-tmpz05rj.md)) argues that
+such condition. Timpe ([LIT-1867](../literature.d/LIT-1867.md), read in [NOTE-1459](../notes.d/NOTE-1459.md)) argues that
 the incompatibilist's ultimacy condition entails a weak, possibly
 non-robust alternatives condition that Frankfurt-style cases leave
 standing (p. 150), and counts Pereboom among those who keep one (p. 147).
 That agrees with Pereboom's allowance of conditions "necessary for moral
 responsibility but nevertheless irrelevant to explaining why" (p. 2). It
-weighs on the title's wording, not its thesis. Fischer ([LIT-tmppshez](../literature.d/LIT-tmppshez.md), read
-in [NOTE-tmpxvceo](../notes.d/NOTE-tmpxvceo.md)), writing after the book, again concedes the route Step 2
+weighs on the title's wording, not its thesis. Fischer ([LIT-1868](../literature.d/LIT-1868.md), read
+in [NOTE-1457](../notes.d/NOTE-1457.md)), writing after the book, again concedes the route Step 2
 builds on: determinism may still undermine responsibility through "lack of
 'sourcehood'" (p. 331).
 
@@ -157,6 +157,6 @@ builds on: determinism may still undermine responsibility through "lack of
 Pereboom's Chapter 1, pp. 10–37, where his new Frankfurt-style case is
 argued, is unread ([LIT-1006](../literature.d/LIT-1006.md) is Unavailable), and no reply from the leeway
 side has been read first-hand: Widerker and Goetz are known only through
-Fischer's quotations ([NOTE-tmpxvceo](../notes.d/NOTE-tmpxvceo.md)), and Fischer and Timpe write from the
+Fischer's quotations ([NOTE-1457](../notes.d/NOTE-1457.md)), and Fischer and Timpe write from the
 compatibilist and source sides. Timpe's argument runs from ultimacy to
 alternatives, so it is not the refuting argument the promote_when names.

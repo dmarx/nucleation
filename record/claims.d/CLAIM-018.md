@@ -20,10 +20,10 @@ history:
     delegated these rulings; ADR-057), an interpretive ruling listed for
     the owner. Two readings, each read in full, quote The Normal and the
     Pathological for the account of health the claim reads. Giroux
-    (LIT-tmphwtnd, NOTE-tmptu1ne) quotes "the possibility of tolerating
+    (LIT-1861, NOTE-1452) quotes "the possibility of tolerating
     infractions of the habitual norm and instituting new norms in new
-    situations" (Canguilhem 1991, pp. 196–197). Vissio (LIT-tmpwml4z,
-    NOTE-tmps4pgb) reports that the sick organism is "confined and
+    situations" (Canguilhem 1991, pp. 196–197). Vissio (LIT-1876,
+    NOTE-1447) reports that the sick organism is "confined and
     reduced in its capacity to change these norms", normativity being
     the capacity to redefine them (p. 227). The claim now grounds on
     both (ADR-058), and the book itself takes no edge. Nothing in the
@@ -45,8 +45,8 @@ line: will-organization
 works:
 - organization-of-will
 grounds:
-- LIT-tmphwtnd
-- LIT-tmpwml4z
+- LIT-1861
+- LIT-1876
 summary: >-
   An interpretation, not a premise (Section 6.8): "Nor does the present
   argument depend upon importing Canguilhem's account into viability
@@ -69,7 +69,7 @@ support viable activity."
 disease." The audit's verdict on Canguilhem: an "illuminating philosophical
 analogue, not a co-foundation". It cites Canguilhem ([LIT-817](../literature.d/LIT-817.md)), which
 is Unavailable and takes no edge; the reading of him it needs is Giroux's and
-Vissio's, who quote the book ([LIT-tmphwtnd](../literature.d/LIT-tmphwtnd.md), [LIT-tmpwml4z](../literature.d/LIT-tmpwml4z.md)). Nor does it say
+Vissio's, who quote the book ([LIT-1861](../literature.d/LIT-1861.md), [LIT-1876](../literature.d/LIT-1876.md)). Nor does it say
 Canguilhem would draw the correspondence: he refuses normativity, and so
 health, to a society, which "is not an individual, because it is not an
 organism endowed with a purpose and a totality that are obtained by a

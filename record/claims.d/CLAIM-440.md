@@ -395,9 +395,9 @@ reply" says the objection was conceded and the revision made, with
 ## Note of 2026-10-30: what holds it back
 
 Three things. [CLAIM-441](CLAIM-441.md)'s flow case is unanswered: Abuhamdeh's review
-([LIT-tmp97y6c](../literature.d/LIT-tmp97y6c.md), [NOTE-tmp8y6gc](../notes.d/NOTE-tmp8y6gc.md)) shows the flow literature divided on whether
+([LIT-1853](../literature.d/LIT-1853.md), [NOTE-1429](../notes.d/NOTE-1429.md)) shows the flow literature divided on whether
 flow is positive during the episode, and settles it by definition, not
-data. The third defeater is now met in part: Orehek et al. ([LIT-tmpa32bu](../literature.d/LIT-tmpa32bu.md))
+data. The third defeater is now met in part: Orehek et al. ([LIT-1854](../literature.d/LIT-1854.md))
 find that positive affect lowers a goal's priority when competing goals are
 salient, which is the contested case where this claim defines valence;
 whether that is intensity failing to track control precedence turns on

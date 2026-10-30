@@ -42,8 +42,8 @@ history:
 - version: 5
   date: '2026-10-30'
   note: >-
-    LIT-tmpg0s3y, Schroeder and Prentice 1998, read in full
-    (NOTE-tmpjgs12), joins grounds at the twenty-first status review, at
+    LIT-1857, Schroeder and Prentice 1998, read in full
+    (NOTE-1439), joins grounds at the twenty-first status review, at
     the status review's ruling (the owner delegated these rulings;
     ADR-057, ADR-058). It is the record's one read field case of conduct
     governed by a norm attributed to peers who do not privately hold it,
@@ -76,7 +76,7 @@ grounds:
 - LIT-939
 - LIT-1379
 - LIT-1390
-- LIT-tmpg0s3y
+- LIT-1857
 summary: >-
   From the owner's U39 of the exchange of 2026-10-22: how an individual's
   perspective is shaped by "the perception of a plurality of opinion where
@@ -209,7 +209,7 @@ was written to keep apart.
   tracked the comfort students attributed to the average student, more
   steeply with fear of negative evaluation. Exposing pluralistic
   ignorance left attributed comfort unchanged and removed that moderation
-  ([NOTE-tmpjgs12](../notes.d/NOTE-tmpjgs12.md), C3–C4). That is conduct, not expression, but its
+  ([NOTE-1439](../notes.d/NOTE-1439.md), C3–C4). That is conduct, not expression, but its
   mechanism is compliance under fear of censure, not a change in how the
   person organizes their activity. It rests on one interaction at
   p = .05, with no untreated control (fn. 13).
@@ -230,7 +230,7 @@ was written to keep apart.
 
 ## Note of 2026-10-30: what holds it back
 
-The first clause now has one read field result ([LIT-tmpg0s3y](../literature.d/LIT-tmpg0s3y.md)). Its
+The first clause now has one read field result ([LIT-1857](../literature.d/LIT-1857.md)). Its
 mechanism is compliance under fear of censure, so the claim must still
 say which side of its defeat condition such conduct falls on, and the
 result rests on one interaction at p = .05 with no untreated control.

@@ -159,7 +159,7 @@ failed for corporations and ledger money.
 ## Note of 2026-10-30: what holds it back
 
 Its promote_when is still unmet. Searle's 1990 paper ([LIT-490](../literature.d/LIT-490.md)) is still
-unread, but Zaibert ([LIT-tmpw3w3r](../literature.d/LIT-tmpw3w3r.md), read in [NOTE-tmpb8btj](../notes.d/NOTE-tmpb8btj.md)) quotes it page
+unread, but Zaibert ([LIT-1875](../literature.d/LIT-1875.md), read in [NOTE-1431](../notes.d/NOTE-1431.md)) quotes it page
 by page, and on his quotations it gives no irreducibility argument: Searle
 offers irreducibility as an intuition his arguments "suggest" (CIA 401),
 says "I have not demonstrated that no such analysis could ever succeed"

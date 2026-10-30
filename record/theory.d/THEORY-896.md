@@ -17,8 +17,8 @@ history:
   date: '2026-10-30'
   note: >-
     The twenty-first status review, at the status review's ruling (the
-    owner delegated these rulings). Apt's slides (LIT-tmpmz1an, read in
-    full in NOTE-tmp5wau0) join source: they state the equivalence for
+    owner delegated these rulings). Apt's slides (LIT-1866, read in
+    full in NOTE-1427) join source: they state the equivalence for
     generalized ordinal potentials, with the same definitions, and give a
     finite game with the finite improvement property and no ordinal
     potential, checked here. "What this does not say" said: "Whether the
@@ -33,7 +33,7 @@ tags:
 date: '2026-10-23'
 source:
 - LIT-1462
-- LIT-tmpmz1an
+- LIT-1866
 summary: >-
   Monderer and Shapley (1996), [LIT-1462](../literature.d/LIT-1462.md), unread: reported by Duersch,
   Oechssler and Schipper (arXiv 1003.4274) as Lemma 2.5. A finite game
@@ -74,8 +74,8 @@ corroborates:
   whether the class is generalized ordinal or ordinal. Their definitions
   of the improvement relation differ too, which is why the statement waits
   on the original.
-- Apt (2013), *Potential Games*, lecture slides, [LIT-tmpmz1an](../literature.d/LIT-tmpmz1an.md), read in full
-  in [NOTE-tmp5wau0](../notes.d/NOTE-tmp5wau0.md). Slide 15: "Theorem (Monderer and Shapley '96) Every
+- Apt (2013), *Potential Games*, lecture slides, [LIT-1866](../literature.d/LIT-1866.md), read in full
+  in [NOTE-1427](../notes.d/NOTE-1427.md). Slide 15: "Theorem (Monderer and Shapley '96) Every
   finite game has a generalized ordinal potential iff it has the FIP",
   (⇒) proved and (⇐) sketched by counting the improvement sequences
   ending at each profile. Its definitions agree with those below (its
@@ -163,6 +163,6 @@ the FIP ([NOTE-1116](../notes.d/NOTE-1116.md)).
 
 Its promote_when asks for Monderer and Shapley ([LIT-1462](../literature.d/LIT-1462.md)) read first-hand,
 for the lemma's number, page and wording, and that is still unmet: Apt
-([LIT-tmpmz1an](../literature.d/LIT-tmpmz1an.md)) credits "Monderer and Shapley '96" with no lemma or page. The
+([LIT-1866](../literature.d/LIT-1866.md)) credits "Monderer and Shapley '96" with no lemma or page. The
 mathematics is proved here and Apt states the same equivalence for the same
 class; only the attribution's exact form waits.

@@ -182,7 +182,7 @@ well as substance.
 ## Note of 2026-10-30: what holds it back
 
 The record holds none of the results promote_when names. Kuppens et al.
-([LIT-tmptort0](../literature.d/LIT-tmptort0.md), [NOTE-tmp0e1ym](../notes.d/NOTE-tmp0e1ym.md)), read in full, find no appraisal and no
+([LIT-1872](../literature.d/LIT-1872.md), [NOTE-1423](../notes.d/NOTE-1423.md)), read in full, find no appraisal and no
 action tendency singly necessary or sufficient for anger in recalled
 episodes. That weighs against the claim that emotions differ by mode:
 the nearest item to Frijda's hostility, wanting to express opposition,

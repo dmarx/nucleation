@@ -148,7 +148,7 @@ conceptual account with two examples, offered in summary.
 ## Note of 2026-10-30: what holds it back
 
 The book ([LIT-1004](../literature.d/LIT-1004.md)) is still unread, and the promote_when says secondary
-summaries cannot settle it. Maitra ([LIT-tmp8pt4c](../literature.d/LIT-tmp8pt4c.md), read in [NOTE-tmp8uvyb](../notes.d/NOTE-tmp8uvyb.md))
+summaries cannot settle it. Maitra ([LIT-1852](../literature.d/LIT-1852.md), read in [NOTE-1428](../notes.d/NOTE-1428.md))
 reports the book, with its pages, as differing from the précis on both of
 the promote_when's points: testimonial injustice needs identity prejudice
 (book pp. 35, 42), and hermeneutical injustice is defined through

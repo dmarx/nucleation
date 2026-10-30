@@ -139,11 +139,11 @@ and Harnish remain unread.
 
 ## Note of 2026-10-30: Bach and Harnish's side, second-hand
 
-Harnish's restatement of the expressed-attitude theory ([LIT-tmp7ybhu](../literature.d/LIT-tmp7ybhu.md),
-[NOTE-tmpvf3w7](../notes.d/NOTE-tmpvf3w7.md)) answers "intention" for every communicative act. Acts are
+Harnish's restatement of the expressed-attitude theory ([LIT-1850](../literature.d/LIT-1850.md),
+[NOTE-1453](../notes.d/NOTE-1453.md)) answers "intention" for every communicative act. Acts are
 defined by the attitude expressed, and context and mutual presumptions
 guide the hearer's inference (p. 15); institutional acts are a separate
-class (pp. 22–23). Berdini ([LIT-tmpyrsss](../literature.d/LIT-tmpyrsss.md), [NOTE-tmpq3jbs](../notes.d/NOTE-tmpq3jbs.md)) quotes Bach and
+class (pp. 22–23). Berdini ([LIT-1877](../literature.d/LIT-1877.md), [NOTE-1445](../notes.d/NOTE-1445.md)) quotes Bach and
 Harnish that acts "at best ... create mutual beliefs ... about rights and
 obligations" (1979, p. 124), so standing would enter only as mutual
 belief. That states the intention side in its authors' terms. Harnish adds

@@ -28,13 +28,13 @@ history:
     operationalization is a rich contextual baseline of context-response
     profiles and supervised prediction'. Its blocker note said what the
     rival accounts license rested on no reading. Nord's article
-    (LIT-tmplzcgc, NOTE-tmpsq37b) and Nida's chapter (LIT-tmpmg03b,
-    NOTE-tmpth9wo) are read in full, and Gutt's thesis (LIT-tmp1eyaz,
-    NOTE-tmpfykfi) is skimmed through its account of faithfulness. Each
+    (LIT-1863, NOTE-1448) and Nida's chapter (LIT-1864,
+    NOTE-1451) are read in full, and Gutt's thesis (LIT-1845,
+    NOTE-1435) is skimmed through its account of faithfulness. Each
     makes what a translation should keep relative to an audience, a
     purpose or a cognitive environment, and they join grounds. The
     dropped clause, the interlocutor's proposal for operationalizing the
-    rivals, is CLAIM-tmpnw3vv, Proposed (ADR-047's kind 2). The claim
+    rivals, is CLAIM-504, Proposed (ADR-047's kind 2). The claim
     still undercuts ARG-031, which is Rejected in the same change.
 role: counter
 warrant: interpretive
@@ -45,9 +45,9 @@ tags:
 date: '2026-10-12'
 line: pragmatic-transport
 grounds:
-- LIT-tmplzcgc
-- LIT-tmpmg03b
-- LIT-tmp1eyaz
+- LIT-1863
+- LIT-1864
+- LIT-1845
 undercuts:
 - ARG-031
 summary: >-
@@ -55,7 +55,7 @@ summary: >-
   relayed by the owner on 2026-10-12. It accepts [CLAIM-202](CLAIM-202.md) as the
   line's principal empirical thesis and objects to its rival set.
   Narrowed and promoted on 2026-10-30, when Nida, Nord and Gutt were read;
-  the baseline it proposed is CLAIM-tmpnw3vv.
+  the baseline it proposed is CLAIM-504.
 ---
 <!-- inactive-ok-file: ARG-031 — Rejected; the argument this claim undercuts, defeated by it -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
@@ -90,14 +90,14 @@ second, and undercuts that argument. The text above is unchanged.
 
 ## Note of 2026-10-30: the accounts read, and narrowed
 
-Nord ([LIT-tmplzcgc](../literature.d/LIT-tmplzcgc.md)) translates for "a particular target audience from
+Nord ([LIT-1863](../literature.d/LIT-1863.md)) translates for "a particular target audience from
 among various possible audiences" (p. 17), and the brief decides between
-instrumental and documentary translation (pp. 26–27). Nida ([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md))
+instrumental and documentary translation (pp. 26–27). Nida ([LIT-1864](../literature.d/LIT-1864.md))
 makes the translation depend on the message, the purposes and an audience
 that varies in decoding ability and interest (pp. 127–128), and calls the
-rules "probabilistic" (p. 134). Gutt's thesis ([LIT-tmp1eyaz](../literature.d/LIT-tmp1eyaz.md)) makes
+rules "probabilistic" (p. 134). Gutt's thesis ([LIT-1845](../literature.d/LIT-1845.md)) makes
 faithfulness "determined for each occasion by the principle of relevance
 and the cognitive environment mutually shared" (p. 63). None fixes a
 profile of the rendering as read once. None proposes an
 operationalization, so the old title's second clause moves to
-[CLAIM-tmpnw3vv](CLAIM-tmpnw3vv.md).
+[CLAIM-504](CLAIM-504.md).

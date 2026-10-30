@@ -16,7 +16,7 @@ history:
   date: '2026-10-30'
   note: >-
     The twenty-first status review, at the status review's ruling (the
-    owner delegated these rulings; ADR-057, ADR-058). LIT-tmp97y6c
+    owner delegated these rulings; ADR-057, ADR-058). LIT-1853
     (Abuhamdeh 2020), read in full, added to grounds: the objection needs
     the report that flow is positive, and this is the one read source that
     gives it, quoting Csikszentmihalyi. The claim is unchanged.
@@ -40,7 +40,7 @@ objects_to:
 rests_on:
 - CLAIM-162
 grounds:
-- LIT-tmp97y6c
+- LIT-1853
 complements:
 - CLAIM-433
 - CLAIM-449
@@ -117,7 +117,7 @@ wrong about one of the clearest cases of positive engagement there is.
 
 ## Note of 2026-10-30: the flow literature, read through a review
 
-Abuhamdeh's review ([LIT-tmp97y6c](../literature.d/LIT-tmp97y6c.md), [NOTE-tmp8y6gc](../notes.d/NOTE-tmp8y6gc.md)) gives the report this
+Abuhamdeh's review ([LIT-1853](../literature.d/LIT-1853.md), [NOTE-1429](../notes.d/NOTE-1429.md)) gives the report this
 objection rests on and the dispute exit 3 names. On Csikszentmihalyi's
 conception flow is enjoyable by definition (the 1975 preface, quoted).
 Against it, Seligman holds that "it is the absence of emotion, of any kind

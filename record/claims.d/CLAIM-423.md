@@ -17,7 +17,7 @@ history:
   date: '2026-10-30'
   note: >-
     At the status review's ruling (the owner delegated these rulings):
-    Putnam's two-level games (LIT-1375) are read in full (NOTE-tmpgmmql)
+    Putnam's two-level games (LIT-1375) are read in full (NOTE-1436)
     and do not state the claim. A dated note records the check and the
     credit owed to Putnam. Stale directives for LIT-1375 and CLAIM-331,
     both now Active, are corrected. The claim is unchanged.
@@ -168,7 +168,7 @@ The claim falls if Pierson or Putnam already state it.
 
 ## Note of 2026-10-30: Putnam read
 
-Putnam ([LIT-1375](../literature.d/LIT-1375.md), [NOTE-tmpgmmql](../notes.d/NOTE-tmpgmmql.md)) does not state the claim. Authority over
+Putnam ([LIT-1375](../literature.d/LIT-1375.md), [NOTE-1436](../notes.d/NOTE-1436.md)) does not state the claim. Authority over
 a deal lies in Level II preferences and coalitions, ratification
 institutions and the autonomy of central decision-makers (p. 449), and
 negotiators' strategies, with the chief negotiator's veto (pp. 456–458).

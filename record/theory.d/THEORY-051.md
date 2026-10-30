@@ -184,11 +184,11 @@ is borrowed.
 
 The gap is now confirmed, not only observed. Stockton et al.'s
 systematic review of ACT mediation trials from 2006 to 2015
-([LIT-tmp06sqw](../literature.d/LIT-tmp06sqw.md), [NOTE-tmpxbidq](../notes.d/NOTE-tmpxbidq.md)) found that "self as context has been
+([LIT-1844](../literature.d/LIT-1844.md), [NOTE-1456](../notes.d/NOTE-1456.md)) found that "self as context has been
 consistently overlooked as a potential mediator". No study the record
 holds gives self-as-context exercises apart from defusion and acceptance
 or measures the process separately. Morrison et al.'s object-in-hand
-exercise ([NOTE-tmp0mi8i](../notes.d/NOTE-tmp0mi8i.md)) went to some participants only and was not
+exercise ([NOTE-1425](../notes.d/NOTE-1425.md)) went to some participants only and was not
 measured. [LIT-543](../literature.d/LIT-543.md) is Unavailable, and the premise [THEORY-050](THEORY-050.md) is
 Proposed. [CLAIM-156](../claims.d/CLAIM-156.md) and [CLAIM-349](../claims.d/CLAIM-349.md) cite this reading as corroboration, not
 as a ground.

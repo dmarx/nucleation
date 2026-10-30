@@ -31,7 +31,7 @@ history:
   note: >-
     The twenty-first status review, at the status review's ruling (the
     owner delegated these rulings). Flynn, Kanerva and Bhadkamkar's RIACS
-    report (LIT-tmp4sulg, read in NOTE-tmpwldwu) joins grounds (ADR-058):
+    report (LIT-1848, read in NOTE-1454) joins grounds (ADR-058):
     it states the critical distance first-hand, which the claim needs.
     The text said "The critical distance comes from Kanerva's book
     (LIT-928, unread, and now Unavailable, so the point stays unchecked
@@ -62,7 +62,7 @@ grounds:
 - LIT-269
 - LIT-918
 - LIT-921
-- LIT-tmp4sulg
+- LIT-1848
 summary: >-
   Proposed by the assistant on 2026-10-11, when the owner raised sparse
   distributed memory and Hebbian learning after [CLAIM-182](CLAIM-182.md), and filed
@@ -83,8 +83,8 @@ bears_on:
 ## The claim
 
 In sparse distributed memory a cue retrieves a stored pattern only from
-within a critical distance. Flynn, Kanerva and Bhadkamkar ([LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md),
-pp. 15–16, read in [NOTE-tmpwldwu](../notes.d/NOTE-tmpwldwu.md)) state it first-hand. A cue "closer than
+within a critical distance. Flynn, Kanerva and Bhadkamkar ([LIT-1848](../literature.d/LIT-1848.md),
+pp. 15–16, read in [NOTE-1454](../notes.d/NOTE-1454.md)) state it first-hand. A cue "closer than
 a certain critical distance" to a stored pattern is read to a vector
 closer still, so iterated reads converge on it. A cue beyond it gives "a
 diverging sequence that will wander through address space", which may
@@ -131,7 +131,7 @@ Two further points follow from the models, both untested here:
   occur far below capacity too. "Many near-duplicate statements" names
   the closeness failure, not the load one. In SDM, load narrows the
   distance instead: "The greater the population of the memory, the
-  smaller the critical distance" ([LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md), p. 15).
+  smaller the critical distance" ([LIT-1848](../literature.d/LIT-1848.md), p. 15).
 - **Silent redefinition.** A cue just outside one memory's basin can
   settle into a neighbouring memory. Read across, a restated term can be
   taken for a nearby, different term, and the argument continues on the
@@ -170,6 +170,6 @@ The test it proposes has not been run: no restatement in the reconstructed
 exchanges has had its distance from the original measured and set against
 whether it was re-derived as though new, and no count compares re-derivation
 of coded and uncoded items. Its premise [CLAIM-182](CLAIM-182.md) is Proposed for the same
-want. The critical distance no longer waits on a reading: [LIT-tmp4sulg](../literature.d/LIT-tmp4sulg.md)
+want. The critical distance no longer waits on a reading: [LIT-1848](../literature.d/LIT-1848.md)
 states it first-hand, and its derivation in Kanerva's book ([LIT-928](../literature.d/LIT-928.md)), still
 unread, is not something the claim uses.

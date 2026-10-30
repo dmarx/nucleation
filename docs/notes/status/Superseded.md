@@ -6,7 +6,7 @@
 
 **Re-read** — a later reading replaced this one, and names it.
 
-38 of 1422 NOTE documents. Back to the [full index](../README.md).
+39 of 1460 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -48,3 +48,4 @@
 | [NOTE-234](../../../record/notes.d/NOTE-234.md) v2 | SSL-HSIC (kernel dependence maximization) | With image identity as the label, the SSL-HSIC loss −HSIC(Z,Y) + γ√HSIC(Z,Z) has a dependence term that is proportional to the average squared MMD between the per-image distributions of augmented-view representations (App. B.2). InfoNCE approximates the same term plus a variance penalty (eq. 7), so contrastive SSL separates the kernel mean embeddings of each image's view distribution. | Superseded — by [NOTE-830](../../../record/notes.d/NOTE-830.md) |
 | [NOTE-237](../../../record/notes.d/NOTE-237.md) v2 | Budroni et al., Kochen–Specker contextuality (RMP review) | A review that fixes a minimal definition of Kochen–Specker contextuality as the impossibility of a global joint distribution whose marginals are the context distributions (Fine's theorem; the sheaf-theoretic framework is one of several equivalent formulations), and that treats Spekkens's generalized contextuality as a different notion, covered only to mark the difference. | Superseded — by [NOTE-844](../../../record/notes.d/NOTE-844.md) |
 | [NOTE-238](../../../record/notes.d/NOTE-238.md) v2 | Spekkens, generalized contextuality (2005) | Defines a noncontextual ontological model as one in which operationally equivalent procedures (preparations, measurements, transformations) get identical representations; shows the traditional Kochen–Specker notion is the special case of measurement noncontextuality for sharp measurements plus outcome determinism, proves that preparation noncontextuality implies that outcome determinism, and proves preparation contextuality already for a qubit. | Superseded — by [NOTE-748](../../../record/notes.d/NOTE-748.md) |
+| [NOTE-784](../../../record/notes.d/NOTE-784.md) v2 | Coifman et al. — Diffusion maps | From a symmetric, positivity-preserving, positive semi-definite kernel, normalized into a Markov operator conjugate to a symmetric one, the top eigenfunctions scaled by powers of their eigenvalues embed the data so that Euclidean distance equals diffusion distance. A one-parameter normalization separates geometry from sampling density, recovering the Laplace–Beltrami operator at α = 1. The symmetry of the kernel is what yields the spectral decomposition; non-symmetric kernels are not treated. | Superseded — by [NOTE-1441](../../../record/notes.d/NOTE-1441.md) |

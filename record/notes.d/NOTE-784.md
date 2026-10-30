@@ -2,7 +2,7 @@
 number: 784
 status: Superseded
 superseded_by:
-- NOTE-tmpjjdsb
+- NOTE-1441
 formerly:
 - NOTE-tmpgpiz3
 paper: LIT-981
@@ -26,7 +26,7 @@ history:
 - version: 2
   date: '2026-10-30'
   note: >-
-    Superseded by NOTE-tmpjjdsb, a full reading of the same paper with
+    Superseded by NOTE-1441, a full reading of the same paper with
     every equation read from the page images, filed on 2026-10-30. This
     skim is kept as history; its reservation that the equations were not
     seen no longer applies.

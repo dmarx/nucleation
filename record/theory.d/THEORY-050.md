@@ -172,13 +172,13 @@ situations (C6). Both are reasons for Proposed.
 ## Note of 2026-10-30: what holds it back
 
 The record holds none of the three results promote_when names. Stockton
-et al. ([LIT-tmp06sqw](../literature.d/LIT-tmp06sqw.md), [NOTE-tmpxbidq](../notes.d/NOTE-tmpxbidq.md)) find overall flexibility mediating
+et al. ([LIT-1844](../literature.d/LIT-1844.md), [NOTE-1456](../notes.d/NOTE-1456.md)) find overall flexibility mediating
 mental-health outcomes in four of five trials against an active
 treatment, across several disorders. But only three of their twelve
 studies checked that the mediator changed first, the measures are mostly
 self-report and not named in the copy read, and it is not the 2024
 meta-analysis ([LIT-543](../literature.d/LIT-543.md)) that test (1) names, which stays Unavailable.
-Morrison et al. ([LIT-tmpskwke](../literature.d/LIT-tmpskwke.md), [NOTE-tmp0mi8i](../notes.d/NOTE-tmp0mi8i.md)) weigh slightly against: an
+Morrison et al. ([LIT-1870](../literature.d/LIT-1870.md), [NOTE-1425](../notes.d/NOTE-1425.md)) weigh slightly against: an
 acceptance session lowered discounting while the AAQ-II did not change
 against a waitlist. The sample was 30 non-clinical students, on the
 global self-report that promote_when sets aside. [CLAIM-349](../claims.d/CLAIM-349.md) cites this

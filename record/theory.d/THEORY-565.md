@@ -31,7 +31,7 @@ history:
   note: >-
     The twenty-first status review, at the status review's ruling (the
     owner delegated these rulings). LIT-981 is read in full with every
-    equation seen (NOTE-tmpjjdsb), and the text is corrected from it
+    equation seen (NOTE-1441), and the text is corrected from it
     (ADR-047 kind 3). (1) It gave the diffusion distance as "the distance
     between the m-step transition distributions from two points, weighted
     by the inverse stationary density (the standard definition; the
@@ -54,7 +54,7 @@ extends:
 - THEORY-728
 - THEORY-744
 summary: >-
-  Coifman et al. (2005), [LIT-981](../literature.d/LIT-981.md), read in full in [NOTE-tmpjjdsb](../notes.d/NOTE-tmpjjdsb.md). The
+  Coifman et al. (2005), [LIT-981](../literature.d/LIT-981.md), read in full in [NOTE-1441](../notes.d/NOTE-1441.md). The
   finite construction and its isometry are [THEORY-728](THEORY-728.md); the paper's own
   diffusion distance is the one ã^(m) induces, not the
   inverse-stationary-weighted one. Theorem 2.1 and the α-family are
@@ -76,7 +76,7 @@ bears_on:
 Coifman, Lafon, Lee, Maggioni, Nadler, Warner & Zucker (2005), "Geometric
 diffusions as a tool for harmonic analysis and structure definition of
 data: Diffusion maps", *PNAS* 102(21):7426–7431, [LIT-981](../literature.d/LIT-981.md), read in full
-in [NOTE-tmpjjdsb](../notes.d/NOTE-tmpjjdsb.md) (2026-10-30) with every displayed equation seen; it
+in [NOTE-1441](../notes.d/NOTE-1441.md) (2026-10-30) with every displayed equation seen; it
 replaces the skim of [NOTE-784](../notes.d/NOTE-784.md). The proofs it defers are in Coifman and
 Lafon's companion, [LIT-1246](../literature.d/LIT-1246.md), read in [NOTE-985](../notes.d/NOTE-985.md).
 
@@ -164,4 +164,4 @@ be followed. The companion's proof ([LIT-1246](../literature.d/LIT-1246.md), Pro
 semigroup step that does not follow as written, and its rate with boundary
 is slower than printed, which is [QUESTION-231](../questions.d/QUESTION-231.md), Open; the α-family's
 generator limit is held without boundary by [THEORY-744](THEORY-744.md). The paper, now read
-in full ([NOTE-tmpjjdsb](../notes.d/NOTE-tmpjjdsb.md)), proves neither.
+in full ([NOTE-1441](../notes.d/NOTE-1441.md)), proves neither.

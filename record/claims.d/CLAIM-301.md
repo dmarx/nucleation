@@ -101,7 +101,7 @@ which is where [CLAIM-292](CLAIM-292.md) puts it too.
 
 ## Note of 2026-10-30: what holds it back
 
-Mitra, Singhal and Buckley ([LIT-1079](../literature.d/LIT-1079.md)) are now read ([NOTE-tmpzgzg8](../notes.d/NOTE-tmpzgzg8.md)). Their
+Mitra, Singhal and Buckley ([LIT-1079](../literature.d/LIT-1079.md)) are now read ([NOTE-1460](../notes.d/NOTE-1460.md)). Their
 feedback loop, in which documents retrieved under one aspect supply the
 terms that pull the query further toward it, is the claim's
 selection-and-reinforcement loop at the level of the query, but over one

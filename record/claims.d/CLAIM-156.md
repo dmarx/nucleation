@@ -129,7 +129,7 @@ internal and reversible.
 
 ## Note of 2026-10-30: the discounting readings
 
-- **Morrison et al. ([LIT-tmpskwke](../literature.d/LIT-tmpskwke.md), [NOTE-tmp0mi8i](../notes.d/NOTE-tmp0mi8i.md)), read in full, cut
+- **Morrison et al. ([LIT-1870](../literature.d/LIT-1870.md), [NOTE-1425](../notes.d/NOTE-1425.md)), read in full, cut
   against the claim in part.** One acceptance-and-values session, with a
   "thought as a thought" exercise for some participants, raised AUC from
   0.26 to 0.44, against 0.22 to 0.25 on a waitlist (interaction p = .04).
@@ -140,7 +140,7 @@ internal and reversible.
   claim describes it, a pilot of 30, and the waitlist's own training did
   not repeat the change (p = .267). The title's "not only" already allows
   for it.
-- **Rung and Madden ([LIT-tmp364v1](../literature.d/LIT-tmp364v1.md), [NOTE-tmpjiwb7](../notes.d/NOTE-tmpjiwb7.md)).** Pooling the two
+- **Rung and Madden ([LIT-1846](../literature.d/LIT-1846.md), [NOTE-1440](../notes.d/NOTE-1440.md)).** Pooling the two
   mindfulness studies published by 2016 gives g = 0.32, p = .06, and
   formal mediation analyses are "rare" for any manipulation. That is weak
   evidence that mindfulness moves discounting much. It is no evidence for

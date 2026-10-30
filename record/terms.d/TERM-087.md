@@ -17,7 +17,7 @@ history:
 - version: 3
   date: '2026-10-30'
   note: >-
-    Barad's 2012 essay (LIT-tmpqga3b, read in NOTE-tmpynmwh) added to
+    Barad's 2012 essay (LIT-1869, read in NOTE-1458) added to
     the agential sense in her words, and the summary's "both
     unavailable" corrected, in place, as the term is unadopted, at the
     status review's ruling (the owner delegated these rulings; ADR-057).
@@ -34,7 +34,7 @@ summary: >-
   observer from observed taken as given before any measurement. Pattee's
   epistemic cut ([LIT-1190](../literature.d/LIT-1190.md), read in [NOTE-952](../notes.d/NOTE-952.md)) is the functional separation
   of symbolic description from the dynamics it measures or controls, and
-  is epistemic, not ontological. Barad's agential cut (read first-hand only in her 2012 essay, LIT-tmpqga3b;
+  is epistemic, not ontological. Barad's agential cut (read first-hand only in her 2012 essay, LIT-1869;
   LIT-1653 and LIT-1657 unavailable) is a differentiation enacted within a phenomenon
   by an apparatus, through which boundaries and properties become
   determinate. Proposed: the record had no word for them, and they recur
@@ -65,7 +65,7 @@ which.
    determinate and others are excluded, so that what functions as
    measuring agency and what as object are told apart "without requiring
    these to have been independently individuated in advance" (A6 §2). Barad's own words, in the one text of
-   hers read here ([LIT-tmpqga3b](../literature.d/LIT-tmpqga3b.md), [NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md)): "A specific intra-action
+   hers read here ([LIT-1869](../literature.d/LIT-1869.md), [NOTE-1458](../notes.d/NOTE-1458.md)): "A specific intra-action
    enacts an agential cut (in contrast to the Cartesian cut – an inherent
    distinction – between subject and object) effecting a separation between
    “subject” and “object”. That is, the agential cut enacts a “local”
@@ -126,14 +126,14 @@ Adoption by the owner, and a reading of Barad herself that confirms or
 corrects the third sense. Jaksland 2024 and Faye and Jaksland 2021, read on
 2026-10-27, corrected its relation to the Heisenberg cut and supplied
 Barad's definition of an apparatus at second hand; the text above is
-corrected in place, the TERM being unadopted. Barad 2012 ([NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md)),
+corrected in place, the TERM being unadopted. Barad 2012 ([NOTE-1458](../notes.d/NOTE-1458.md)),
 read 2026-10-30, confirms the cut in her own words and leaves the apparatus
 clause and the movability where they were.
 
 ## Note of 2026-10-30: what holds it back
 
 The core of the agential sense is now confirmed in Barad's words (2012, p.
-32; [NOTE-tmpynmwh](../notes.d/NOTE-tmpynmwh.md)). What is not confirmed is that an apparatus enacts the
+32; [NOTE-1458](../notes.d/NOTE-1458.md)). What is not confirmed is that an apparatus enacts the
 cut, Barad's definition of an apparatus, and the cut's movability: these
 rest only on Faye and Jaksland's quotations of Barad 2007 ([NOTE-1220](../notes.d/NOTE-1220.md),
 [NOTE-1230](../notes.d/NOTE-1230.md)). The 2012 essay says "a specific intra-action enacts an

@@ -140,7 +140,7 @@ relevance-theoretic accounts, as Nida, Nord and Gutt state them, need not
 fix one context or a static stance profile, and [ARG-031](../arguments.d/ARG-031.md), the inference
 from a win over the static profile to what the line adds, is Rejected. A
 win over the static profile would therefore not tell the line from those
-accounts. The proposed stronger rival is [CLAIM-tmpnw3vv](CLAIM-tmpnw3vv.md), Proposed. The
+accounts. The proposed stronger rival is [CLAIM-504](CLAIM-504.md), Proposed. The
 text above is unchanged.
 
 ## Note of 2026-10-30: what holds it back

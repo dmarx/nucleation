@@ -52,7 +52,7 @@ history:
 - version: 4
   date: '2026-10-30'
   note: >-
-    Mossio and Bich (LIT-tmpmsava, read in NOTE-tmppfo7y) added to
+    Mossio and Bich (LIT-1865, read in NOTE-1443) added to
     source, and a dated passage records that they fold the division of
     labour into closure and deny dissipative structures closure, at the
     status review's ruling (the owner delegated these rulings; ADR-057).
@@ -69,7 +69,7 @@ date: '2026-10-03'
 source:
 - LIT-570
 - LIT-582
-- LIT-tmpmsava
+- LIT-1865
 summary: >-
   The record's first answer to the demarcation question that [NOTE-094](../notes.d/NOTE-094.md)
   reports. Prigogine ([LIT-516](../literature.d/LIT-516.md)) supplies the dissipative structures, and
@@ -89,7 +89,7 @@ summary: >-
 corroborates:
 - CLAIM-194
 ---
-<!-- inactive-ok-file: LIT-536 LIT-529 LIT-524 — Unfetched or Unavailable; Biological Autonomy (Unfetched for its chapters; the Introduction is read in NOTE-tmpgwcwx), Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
+<!-- inactive-ok-file: LIT-536 LIT-529 LIT-524 — Unfetched or Unavailable; Biological Autonomy (Unfetched for its chapters; the Introduction is read in NOTE-1437), Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
 # THEORY-072: Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
@@ -103,7 +103,7 @@ corroborates:
   Definitions 1–4, the remark that closure needs both slow and fast
   dependence, footnote 25 (closure versus a cycle of processes), and
   footnotes 4 and 27 (closure does not define the organism).
-- Mossio & Bich (2014), [LIT-tmpmsava](../literature.d/LIT-tmpmsava.md), read in [NOTE-tmppfo7y](../notes.d/NOTE-tmppfo7y.md): closure versus
+- Mossio & Bich (2014), [LIT-1865](../literature.d/LIT-1865.md), read in [NOTE-1443](../notes.d/NOTE-1443.md): closure versus
   cycles (MS p. 15), the division of labour folded into closure (MS pp.
   10–11), and dissipative structures (MS pp. 18–19).
 
@@ -168,7 +168,7 @@ inference. The title states the line in the form common to the two
 papers.
 
 **2026-10-30.** The folding is now the authors' own, a year before the
-2015 definitions. Mossio and Bich ([LIT-tmpmsava](../literature.d/LIT-tmpmsava.md), [NOTE-tmppfo7y](../notes.d/NOTE-tmppfo7y.md)) write that
+2015 definitions. Mossio and Bich ([LIT-1865](../literature.d/LIT-1865.md), [NOTE-1443](../notes.d/NOTE-1443.md)) write that
 under closure "each component makes a specific and complementary
 contribution", and that "by virtue of the interplay between division of
 labour and mutual dependence that it implies, closure captures a
@@ -179,7 +179,7 @@ constraint (the structure itself)" (MS p. 19). That is the
 single-constraint half of the title in the authors' words. They never
 mention distinct time scales among constraints, and they analyse no flame,
 so their verdict is asserted, which the promote_when says cannot settle
-the account. Moreno and Mossio's Introduction ([NOTE-tmpgwcwx](../notes.d/NOTE-tmpgwcwx.md), Skimmed)
+the account. Moreno and Mossio's Introduction ([NOTE-1437](../notes.d/NOTE-1437.md), Skimmed)
 previews the same line, saying closure "fundamentally differs" from
 self-organisation (p. xxix), and leaves the argument to chapter 1, unread.
 
@@ -268,7 +268,7 @@ record's interpretation.
 The two analyses the promote_when asks for are undone: no canonical
 dissipative structure has been analysed under Definitions 1–4 of [LIT-582](../literature.d/LIT-582.md),
 and no protocell model shown to realise closure under them. Mossio and
-Bich ([NOTE-tmppfo7y](../notes.d/NOTE-tmppfo7y.md)) answer the promote_when's question about the authors'
+Bich ([NOTE-1443](../notes.d/NOTE-1443.md)) answer the promote_when's question about the authors'
 view, folding the division of labour into closure, but deny dissipative
 structures closure without analysing one; Biological Autonomy's chapters 1
-and 3 ([LIT-536](../literature.d/LIT-536.md)) are unread beyond the Introduction ([NOTE-tmpgwcwx](../notes.d/NOTE-tmpgwcwx.md)).
+and 3 ([LIT-536](../literature.d/LIT-536.md)) are unread beyond the Introduction ([NOTE-1437](../notes.d/NOTE-1437.md)).

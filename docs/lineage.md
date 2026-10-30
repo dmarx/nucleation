@@ -8,13 +8,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## agency
 
-### From Alternate Possibilities and Moral Responsibility
-
-- [LIT-694](../record/literature.d/LIT-694.md) — Alternate Possibilities and Moral Responsibility *(Active)*
-  - [LIT-692](../record/literature.d/LIT-692.md) — Freedom of the Will and the Concept of a Person *(Active)*
-    - [LIT-293](../record/literature.d/LIT-293.md) — I. Taking Ourselves Seriously; II. Getting It Right *(Active)*
-    - [LIT-295](../record/literature.d/LIT-295.md) — What Happens When Someone Acts? *(Active)*
-
 ### From The Society of Mind
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
@@ -207,6 +200,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-1441](../record/literature.d/LIT-1441.md) — Origins and functions of positive and negative affect: A control-process view *(Unavailable)*
   - [LIT-1449](../record/literature.d/LIT-1449.md) — Control Theory, Goal Attainment, and Psychopathology *(Active)*
 
+### From A theoretical model of phase transitions in human hand movements
+
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Active)*
+  - [LIT-1851](../record/literature.d/LIT-1851.md) — Nonequilibrium phase transitions in coordinated biological motion: critical fluctuations *(Active)*
+  - [LIT-1873](../record/literature.d/LIT-1873.md) — Dynamics governs switching among patterns of coordination in biological movement *(Active)*
+  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
+
 ### From The Society of Mind
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
@@ -227,11 +227,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-580](../record/literature.d/LIT-580.md) — Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control *(Active)*
   - [LIT-584](../record/literature.d/LIT-584.md) — Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation *(Active)*
-
-### From A theoretical model of phase transitions in human hand movements
-
-- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
-  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ## causality
 
@@ -305,7 +300,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Psychological Predicates
 
-- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unavailable)*
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unfetched)*
   - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
 
 ### From A Framework for Representing Knowledge
@@ -373,15 +368,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-1833](../record/literature.d/LIT-1833.md) — Multi-Level Cause-Effect Systems *(Active)*
   - [LIT-1834](../record/literature.d/LIT-1834.md) — Causal feature learning: an overview *(Active)*
 
+### From A theoretical model of phase transitions in human hand movements
+
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Active)*
+  - [LIT-1851](../record/literature.d/LIT-1851.md) — Nonequilibrium phase transitions in coordinated biological motion: critical fluctuations *(Active)*
+  - [LIT-1873](../record/literature.d/LIT-1873.md) — Dynamics governs switching among patterns of coordination in biological movement *(Active)*
+  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
+
 ### From An Organizational Account of Biological Functions
 
 - [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
   - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
-
-### From A theoretical model of phase transitions in human hand movements
-
-- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
-  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ### From Catastrophic shifts in ecosystems
 
@@ -411,7 +408,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Psychological Predicates
 
-- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unavailable)*
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unfetched)*
   - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
 
 ### From The Society of Mind
@@ -483,7 +480,9 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From A theoretical model of phase transitions in human hand movements
 
-- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Active)*
+  - [LIT-1851](../record/literature.d/LIT-1851.md) — Nonequilibrium phase transitions in coordinated biological motion: critical fluctuations *(Active)*
+  - [LIT-1873](../record/literature.d/LIT-1873.md) — Dynamics governs switching among patterns of coordination in biological movement *(Active)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ## emotion-and-affect
@@ -770,21 +769,22 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## metaphysics
 
+### From Alternate Possibilities and Moral Responsibility
+
+- [LIT-694](../record/literature.d/LIT-694.md) — Alternate Possibilities and Moral Responsibility *(Active)*
+  - [LIT-1868](../record/literature.d/LIT-1868.md) — The Frankfurt Cases: The Moral of the Stories *(Active)*
+  - [LIT-692](../record/literature.d/LIT-692.md) — Freedom of the Will and the Concept of a Person *(Active)*
+    - [LIT-293](../record/literature.d/LIT-293.md) — I. Taking Ourselves Seriously; II. Getting It Right *(Active)*
+    - [LIT-295](../record/literature.d/LIT-295.md) — What Happens When Someone Acts? *(Active)*
+
 ### From Category-theoretic structure and radical ontic structural realism
 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
 
-### From Alternate Possibilities and Moral Responsibility
-
-- [LIT-694](../record/literature.d/LIT-694.md) — Alternate Possibilities and Moral Responsibility *(Active)*
-  - [LIT-692](../record/literature.d/LIT-692.md) — Freedom of the Will and the Concept of a Person *(Active)*
-    - [LIT-293](../record/literature.d/LIT-293.md) — I. Taking Ourselves Seriously; II. Getting It Right *(Active)*
-    - [LIT-295](../record/literature.d/LIT-295.md) — What Happens When Someone Acts? *(Active)*
-
 ### From Psychological Predicates
 
-- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unavailable)*
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unfetched)*
   - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
 
 ### From Being No One: The Self-Model Theory of Subjectivity
@@ -858,15 +858,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## natural-sciences
 
+### From A theoretical model of phase transitions in human hand movements
+
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Active)*
+  - [LIT-1851](../record/literature.d/LIT-1851.md) — Nonequilibrium phase transitions in coordinated biological motion: critical fluctuations *(Active)*
+  - [LIT-1873](../record/literature.d/LIT-1873.md) — Dynamics governs switching among patterns of coordination in biological movement *(Active)*
+  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
+
 ### From An Organizational Account of Biological Functions
 
 - [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
   - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
-
-### From A theoretical model of phase transitions in human hand movements
-
-- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
-  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ### From Mutual information, neural networks and the renormalization group
 

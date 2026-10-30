@@ -10,7 +10,7 @@ history:
   date: '2026-10-30'
   note: >-
     At the status review's ruling (the owner delegated these rulings):
-    Nida's chapter, as reprinted in Venuti's Reader (LIT-tmpmg03b), is
+    Nida's chapter, as reprinted in Venuti's Reader (LIT-1864), is
     read and joins reported_in, beside the book (LIT-791). A dated note
     records that the quotations are confirmed first-hand. The case text
     is unchanged.
@@ -35,7 +35,7 @@ supports:
 - CLAIM-061
 reported_in:
 - LIT-791
-- LIT-tmpmg03b
+- LIT-1864
 ---
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for the comparative test this case does not supply -->
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida, unread here, cited through Marlowe's transcription and Munday, and not leaned on beyond the quoted page -->
@@ -242,7 +242,7 @@ Every URL below was retrieved on 2026-10-10.
 
 The three passages this case quotes from Marlowe's transcription appear
 word for word in the Reader reprint of "Principles of Correspondence"
-([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md), [NOTE-tmpth9wo](../notes.d/NOTE-tmpth9wo.md)), at pp. 129–130: the gloss alternative, the
+([LIT-1864](../literature.d/LIT-1864.md), [NOTE-1451](../notes.d/NOTE-1451.md)), at pp. 129–130: the gloss alternative, the
 principle, and the verdict, with Nida's "all around". The reprint dates the
 Rieu–Phillips principle 1954, as the Unverified paragraph says. The reprint is
 abridged and its cuts are unmarked, so book page 160 is not checked against

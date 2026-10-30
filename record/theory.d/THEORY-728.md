@@ -25,7 +25,7 @@ history:
   note: >-
     The twenty-first status review, at the status review's ruling (the
     owner delegated these rulings). LIT-981 is now read in full with every
-    equation seen (NOTE-tmpjjdsb), which supersedes the skim of NOTE-784.
+    equation seen (NOTE-1441), which supersedes the skim of NOTE-784.
     The summary and Source said the paper was "skimmed in NOTE-784"; they
     now name the full reading, and say that the paper's own diffusion
     distance is the one its symmetric kernel ã^(m) induces, so that the
@@ -39,7 +39,7 @@ date: '2026-10-19'
 source:
 - LIT-981
 summary: >-
-  Coifman et al. (2005), LIT-981, read in full in NOTE-tmpjjdsb, with
+  Coifman et al. (2005), LIT-981, read in full in NOTE-1441, with
   the derivation written out here; the 1/π-weighted distance is the
   companion's (LIT-1246), not the paper's own. For n
   points and a symmetric affinity K with positive entries, A = D⁻¹K is a
@@ -60,7 +60,7 @@ extended_by:
 ## Source
 
 Coifman, Lafon, Lee, Maggioni, Nadler, Warner & Zucker (2005), "Diffusion
-maps", *PNAS* 102(21), [LIT-981](../literature.d/LIT-981.md), read in full in [NOTE-tmpjjdsb](../notes.d/NOTE-tmpjjdsb.md) (2026-10-30),
+maps", *PNAS* 102(21), [LIT-981](../literature.d/LIT-981.md), read in full in [NOTE-1441](../notes.d/NOTE-1441.md) (2026-10-30),
 which replaces the skim of [NOTE-784](../notes.d/NOTE-784.md). The paper states the construction
 and the embedding and calls them standard. Its own diffusion distance is
 the one its symmetric kernel ã^(m) induces, with the eigenfunctions of ã as
@@ -108,7 +108,7 @@ holds.
   Proposed until the companion paper's proofs are read.
 - **That the weighting is the paper's.** The 1/π weighting is the
   companion's definition ([LIT-1246](../literature.d/LIT-1246.md)). The paper's own distance, seen in
-  [NOTE-tmpjjdsb](../notes.d/NOTE-tmpjjdsb.md), is induced by ã^(m) and has its own isometry in the
+  [NOTE-1441](../notes.d/NOTE-1441.md), is induced by ã^(m) and has its own isometry in the
   unrescaled coordinates. Without the weighting this identity does not
   hold.
 - **How many coordinates to keep.** That is set by a precision threshold,

@@ -22,7 +22,7 @@ history:
   note: >-
     The twenty-first status review, at the status review's ruling (the
     owner delegated these rulings). boyd's Chapters 1, 4 and 7 are now
-    read in full (NOTE-tmpecu28); the Source and summary say so, and
+    read in full (NOTE-1432); the Source and summary say so, and
     "What this does not say" gains what the documented collisions are.
     The title and status are unchanged.
 tags:
@@ -36,7 +36,7 @@ summary: >-
   boyd (2008), [LIT-1001](../literature.d/LIT-1001.md), after Meyrowitz (1985), read in part: §1.5,
   §4.4, the Top Friends passage and every passage on context,
   segmentation, collision and Goffman in [NOTE-710](../notes.d/NOTE-710.md), and Chapters 1, 4 and
-  7 in full in [NOTE-tmpecu28](../notes.d/NOTE-tmpecu28.md) (both Skimmed). An ethnography of US
+  7 in full in [NOTE-1432](../notes.d/NOTE-1432.md) (both Skimmed). An ethnography of US
   teenagers in 2004–2008: the dynamic is documented with interviews and
   examples, not measured, and the paradigm case, Stokely Carmichael's two
   rhetorical styles, reaches the record secondhand through Meyrowitz, who
@@ -45,7 +45,7 @@ summary: >-
 supports:
 - CLAIM-317
 ---
-<!-- inactive-ok-file: NOTE-710 NOTE-tmpecu28 — Skimmed; the readings this account rests on, which is why it is Proposed -->
+<!-- inactive-ok-file: NOTE-710 NOTE-1432 — Skimmed; the readings this account rests on, which is why it is Proposed -->
 <!-- inactive-ok-file: CLAIM-196 CLAIM-317 — Proposed; the record's own claims that ground in this reading, named in Connections -->
 
 # THEORY-406: Self-presentations that differ by audience coexist without trouble while the audiences are kept apart by spatial, social and temporal boundaries, and collide when a medium removes the boundaries; networked publics make the collision frequent and often unseen by the person it happens to
@@ -55,7 +55,7 @@ supports:
 danah boyd (2008), *Taken Out of Context: American Teen Sociality in
 Networked Publics*, PhD dissertation, UC Berkeley, [LIT-1001](../literature.d/LIT-1001.md), read in part:
 §1.5, §4.4 and selected passages in [NOTE-710](../notes.d/NOTE-710.md), and Chapters 1, 4 and 7
-in full in [NOTE-tmpecu28](../notes.d/NOTE-tmpecu28.md); the methods chapter and Chapters 5–6 are
+in full in [NOTE-1432](../notes.d/NOTE-1432.md); the methods chapter and Chapters 5–6 are
 unread. The account of collapsed contexts is Meyrowitz's (1985)
 account of broadcast media, extended to everyday people; Meyrowitz is not
 held. This account rests on a skim.
@@ -125,7 +125,7 @@ language by setting.
 Its promote_when, a study comparing conflict between differing
 presentations when the audiences are kept apart and when a channel brings
 them together, is unmet: boyd's Chapters 1, 4 and 7, now read in full
-([NOTE-tmpecu28](../notes.d/NOTE-tmpecu28.md)), make no such comparison, and her evidence is the
+([NOTE-1432](../notes.d/NOTE-1432.md)), make no such comparison, and her evidence is the
 interviews and cases the promote_when says cannot settle it. boyd is still
 read only in part, so it cannot be promoted on one source read in full
 either.

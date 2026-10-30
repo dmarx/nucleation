@@ -31,8 +31,8 @@ history:
     finite experiments: "the converse, which makes deficiency the
     approximate Blackwell order and not only a bound on it, is neither
     read nor re-derived". The converse is now re-derived step by step
-    and checked (CLAIM-tmphhbgz, on Han's lecture, LIT-tmp44f5w, and van
-    Rooyen's fixed-prior Theorem 26, LIT-tmphckuv), and the first step
+    and checked (CLAIM-503, on Han's lecture, LIT-1847, and van
+    Rooyen's fixed-prior Theorem 26, LIT-1859), and the first step
     rests on it. The second step is the definition of a Wyner–Ziv
     problem under its own condition. Every premise is Active, no
     objection is live, and nothing meets defeated_if (ADR-057). "Why it
@@ -58,7 +58,7 @@ works:
 - what-survives-translation
 rests_on:
 - CLAIM-381
-- CLAIM-tmphhbgz
+- CLAIM-503
 grounds:
 - THEORY-602
 complements:
@@ -92,7 +92,7 @@ Wyner and Ziv.
 
 The first step's link is held: in the finite setting of [CLAIM-381](CLAIM-381.md), a
 deficiency of ε is exactly ε-approximation in every [0, 1]-loss problem
-([CLAIM-tmphhbgz](CLAIM-tmphhbgz.md)), and ε = 0 is Blackwell's order ([THEORY-717](../theory.d/THEORY-717.md)). For a family Q of
+([CLAIM-503](CLAIM-503.md)), and ε = 0 is Blackwell's order ([THEORY-717](../theory.d/THEORY-717.md)). For a family Q of
 tasks the deficiency restricted to Q is [CLAIM-381](CLAIM-381.md)'s finite computation,
 bounded by the unrestricted one; only the unrestricted one has the kernel
 form. The second step is the definition of a Wyner–Ziv problem, under the

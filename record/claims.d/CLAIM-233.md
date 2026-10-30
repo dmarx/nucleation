@@ -41,10 +41,10 @@ history:
   note: >-
     At the status review's ruling (the owner delegated these rulings;
     ADR-058, ADR-047). Nida's "Principles of Correspondence"
-    (LIT-tmpmg03b) is read in full, and it replaces CASE-056 in grounds,
+    (LIT-1864) is read in full, and it replaces CASE-056 in grounds,
     which held Nida's principle only through Marlowe's transcription.
     "a functional-equivalence account predicts" becomes "Nida's
-    dynamic-equivalence account predicts": Nord (LIT-tmplzcgc) shows
+    dynamic-equivalence account predicts": Nord (LIT-1863) shows
     functional accounts are a family, and documentary translation does
     not aim at the original's effect. The Gutt sentences now cite
     CLAIM-501 as held.
@@ -59,7 +59,7 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-023
 grounds:
-- LIT-tmpmg03b
+- LIT-1864
 undercuts:
 - ARG-026
 summary: >-
@@ -106,7 +106,7 @@ testable account of which communicative distinctions a translation
 preserves". It names Gutt ([LIT-784](../literature.d/LIT-784.md), unread), and it records that the
 translation-studies works the exchange recommended (Nida, House, Reiss and
 Vermeer, Nord) are absent from the manuscript and from the record. One is
-held through quotation: Nida's principle, in his own words ([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md), p. 129; [CASE-056](../cases.d/CASE-056.md) is its example), is that "the
+held through quotation: Nida's principle, in his own words ([LIT-1864](../literature.d/LIT-1864.md), p. 129; [CASE-056](../cases.d/CASE-056.md) is its example), is that "the
 relationship between receptor and message should be substantially the same as
 that which existed between the original receptors and the message". That puts
 fidelity in the effect on the receiver, not in the text, so Nida's
@@ -183,7 +183,7 @@ that passes the test, and two remain.
 ## Note of 2026-10-30: Nida read
 
 Read first-hand, Nida's dynamic equivalence directs attention "toward the
-receptor response" ([LIT-tmpmg03b](../literature.d/LIT-tmpmg03b.md), p. 136) and requires that "sarcasm,
+receptor response" ([LIT-1864](../literature.d/LIT-1864.md), p. 136) and requires that "sarcasm,
 irony, or whimsical interest" and each participant's class and dialect be
 kept (p. 139). That is stance and footing under other names. He also
 requires that a translation "clearly reflect the meaning and intent of the

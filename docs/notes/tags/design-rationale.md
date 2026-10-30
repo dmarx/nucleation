@@ -4,9 +4,10 @@
 
 **design-rationale**.
 
-2 of 1422 NOTE documents. Back to the [full index](../README.md).
+3 of 1460 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-811](../../../record/notes.d/NOTE-811.md) | Kunz & Rittel — Issues as Elements of Information Systems | A short design statement, not a study. IBIS treats planning as an argumentative process whose atoms are issues, questions put because positions differ; arguments for and against positions run until an issue is settled, and a challenge to a supporting statement becomes a new issue. Every item is numbered for reference, issues are filed as living, settled or latent, and three manual systems are reported in use with "eager acceptance". It says nothing about what keeping one costs. | Read |
 | [NOTE-835](../../../record/notes.d/NOTE-835.md) | Grudin — Groupware and social dynamics | An argued review, not a study. Groupware fails less from technical problems than from eight social challenges, first among them that it asks extra work of members who get no direct benefit. The evidence is cases and the literature: meeting schedulers, voice annotation, project management, an abandoned issue-based system. Email succeeds because the sender who does the work is also the one who wants the message read. | Read |
+| [NOTE-1446](../../../record/notes.d/NOTE-1446.md) | Shipman & Marshall — Formality considered harmful | From the authors' experience with hypermedia, design-rationale, knowledge-based, groupware and software-engineering systems: users resist making structure, content or procedure explicit, and are often right to. Formalisms cost cognitive overhead, demand tacit knowledge be stated, commit people to structure too early, and fit only one person, group or task; "there is always information that falls between the cracks". Designers should formalize only what the task needs, infer structure from informal material, and support incremental formalization and restructuring as the task is reconceived. Read in the authors' web version, earlier than the 1999 journal text. | Read |

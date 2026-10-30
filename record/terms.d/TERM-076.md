@@ -269,9 +269,9 @@ record is scored on held-out contests (above).
 ## Note of 2026-10-30: what holds it back
 
 [CLAIM-441](../claims.d/CLAIM-441.md)'s flow case is still unanswered. Abuhamdeh's review
-([LIT-tmp97y6c](../literature.d/LIT-tmp97y6c.md)) shows the literature divided on whether flow is positive
+([LIT-1853](../literature.d/LIT-1853.md)) shows the literature divided on whether flow is positive
 during the episode and settles it by definition, so which exit holds is
 open; its fourth exit would change this definition's nonvacuity
 condition. The intensity clause is [CLAIM-440](../claims.d/CLAIM-440.md)'s clause 3, and Orehek et al.
-([LIT-tmpa32bu](../literature.d/LIT-tmpa32bu.md)) find positive affect lowering a goal's priority where goals
+([LIT-1854](../literature.d/LIT-1854.md)) find positive affect lowering a goal's priority where goals
 compete, which [CLAIM-468](../claims.d/CLAIM-468.md) presses against it.

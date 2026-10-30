@@ -41,7 +41,7 @@ history:
     twenty-first status review, at the status review's ruling (the owner
     delegated these rulings; ADR-057, ADR-058). It left grounds at the
     nineteenth review only because it was unread, and it is now read in
-    full (NOTE-tmpps63a). The summary calls it the claim's best evidence,
+    full (NOTE-1444). The summary calls it the claim's best evidence,
     and the claim's answer to CLAIM-494 stands on it. A dated note
     records where the reading falls short of the claim's wording. The
     claim is unchanged.
@@ -357,7 +357,7 @@ alone does not.
 
 ## Note of 2026-10-30: Cialdini et al., read
 
-Cialdini et al. ([LIT-1728](../literature.d/LIT-1728.md)) are now read in full ([NOTE-tmpps63a](../notes.d/NOTE-tmpps63a.md)). The
+Cialdini et al. ([LIT-1728](../literature.d/LIT-1728.md)) are now read in full ([NOTE-1444](../notes.d/NOTE-1444.md)). The
 body's account of them holds in direction and needs three corrections of
 scope.
 
