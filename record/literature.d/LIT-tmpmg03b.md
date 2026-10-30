@@ -1,0 +1,99 @@
+---
+status: Active
+status_note: 'read in full 2026-10-30 (NOTE-tmpth9wo) from a course-reading PDF of the reprint (newuniversityinexileconsortium.org, "Week-6-Dynamic-equivalence-and-formal-equivalence-Nida-1964-in-Venuti-2004-1.pdf", 15 pp., Reader pp. 126–140). Worth reading as the record''s only first-hand text of Nida''s two orientations, while Toward a Science of Translating (LIT-791), whose chapter this abridges, is unread. Formal equivalence matches the message in form and content. Dynamic equivalence aims at "the principle of equivalent effect": "the relationship between receptor and message should be substantially the same as that which existed between the original receptors and the message". Nida''s example is Phillips''s "hearty handshake all around" for Romans 16:16''s "holy kiss". A dynamic-equivalence translation is "the closest natural equivalent to the source-language message". It must still "clearly reflect the meaning and intent of the source", and meaning takes priority over style. Read it as an abridgement whose cuts are not marked.'
+title: 'Principles of Correspondence'
+version: 1
+history:
+- version: 1
+  date: '2026-10-30'
+  note: >-
+    Filed and read the same day from the copy found by the search of
+    2026-10-30: Eugene A. Nida, "Principles of Correspondence", in
+    Lawrence Venuti (ed.), The Translation Studies Reader, 2nd edition,
+    New York and London: Routledge, 2004, chapter 9, pp. 126–140, as
+    posted for a course of the New University in Exile Consortium
+    (newuniversityinexileconsortium.org/wp-content/uploads/2022/07/Week-6-Dynamic-equivalence-and-formal-equivalence-Nida-1964-in-Venuti-2004-1.pdf),
+    a lawful copy under ADR-064. The PDF's running heads ("EUGENE NIDA",
+    "PRINCIPLES OF CORRESPONDENCE"), chapter number and page numbers were
+    checked against the citation. It is an abridged reprint of the chapter
+    of that name in Nida's Toward a Science of Translating (Brill, 1964),
+    pp. 156–192, held as LIT-791. It is a different work from the book and
+    was not read as it. Crossref lists no DOI for the second edition (its
+    10.4324/9780203446621 is the 2000 first edition), so the source is the
+    copy's URL. `published:` is the second edition's year, since no
+    fuller date was found; the text itself first appeared in 1964.
+tags:
+- translation
+- linguistics
+date: '2026-10-30'
+published: '2004-01-01'
+url: 'https://newuniversityinexileconsortium.org/wp-content/uploads/2022/07/Week-6-Dynamic-equivalence-and-formal-equivalence-Nida-1964-in-Venuti-2004-1.pdf'
+first_author: 'Nida'
+keywords:
+- 'formal equivalence'
+- 'dynamic equivalence'
+- 'equivalent effect'
+- 'gloss translation'
+- 'naturalness'
+- 'receptor response'
+- 'principles of correspondence'
+implementations: []
+summary: >-
+  Nida (1964), "Principles of Correspondence", abridged in Venuti (ed.),
+  The Translation Studies Reader, 2nd ed. (2004), pp. 126–140. There is no
+  exact translation, only closest equivalents, and there are two
+  orientations. Formal equivalence reproduces the message's form and
+  content, as in a gloss translation with notes. Dynamic equivalence,
+  "the closest natural equivalent to the source-language message", aims
+  at a receptor–message relationship "substantially the same" as the
+  original receptors had, and so at a similar response. It must still
+  reflect the source's meaning and intent, and meaning comes before style.
+  Its example is Phillips's handshake for the "holy kiss" of Romans 16:16.
+---
+<!-- inactive-ok-file: LIT-791 — Unavailable; Nida's book, unread here, of which this is an abridged chapter -->
+<!-- inactive-ok-file: CLAIM-205 — Proposed; the claim this reading bears on, open -->
+
+# LIT-tmpmg03b: Principles of Correspondence
+
+Eugene A. Nida (1964), "Principles of Correspondence", reprinted in Lawrence
+Venuti (ed.), *The Translation Studies Reader*, 2nd edition (Routledge,
+2004), pp. 126–140. Abridged from *Toward a Science of Translating*
+(Brill, 1964), pp. 156–192.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpth9wo.*
+
+- **No exact translation.** "The total impact of a translation may be
+  reasonably close to the original, but there can be no identity in
+  detail" (p. 126). Translations differ by the nature of the message, the
+  purposes of the author and translator, and the type of audience (p. 127).
+- **Two orientations.** Formal equivalence "focuses attention on the
+  message itself, in both form and content", and a gloss translation would
+  render Romans 16:16's "holy kiss" literally with a footnote (p. 129).
+  Dynamic equivalence follows "the principle of equivalent effect": "the
+  relationship between receptor and message should be substantially the
+  same as that which existed between the original receptors and the
+  message" (p. 129). Phillips "quite naturally translates 'greet one
+  another with a holy kiss' as 'give one another a hearty handshake all
+  around'" (p. 130).
+- **Closest natural equivalent.** A dynamic-equivalence translation is
+  "the closest natural equivalent to the source-language message". It
+  must fit the receptor language and culture, the context of the message,
+  and the audience (p. 136). It "must clearly reflect the meaning and
+  intent of the source" (p. 136), and keep the author's emotional tone,
+  "sarcasm, irony, or whimsical interest", and the social class and dialect
+  of each participant (p. 139).
+- **Meaning before style; no single right answer.** "Correspondence in
+  meaning must have priority over correspondence in style" (p. 134). A
+  translation's quality depends on "a myriad of factors", so there "will
+  always be a variety of valid answers to the question, 'Is this a good
+  translation?'" (p. 134).
+
+## Standing in the record
+
+Filed on 2026-10-30 because the record held Nida's principle only through
+Marlowe's transcription (CASE-056) and his book (LIT-791) is unread. CASE-056
+quotes this chapter, and CLAIM-233 and CLAIM-205 lean on what functional
+equivalence as Nida states it predicts. The reprint is abridged, and its
+cuts are not marked.
