@@ -162,10 +162,10 @@ both.
 
 ## Note of 2026-10-30: what holds it back
 
-Two premises are Proposed: CLAIM-185, which waits on CASE-183's inbound
-references per code, and CLAIM-483, whose comparison was counted in one
+Two premises are Proposed: [CLAIM-185](CLAIM-185.md), which waits on [CASE-183](../cases.d/CASE-183.md)'s inbound
+references per code, and [CLAIM-483](CLAIM-483.md), whose comparison was counted in one
 exchange. The comparison its defeat condition names has not been made: no
 record that codes on first occurrence or only on request has had its drift
 and filing cost set beside this one's, so whether "second" is the right
-number is untested. CLAIM-181's objection, that the grammar a coded thing is
+number is untested. [CLAIM-181](CLAIM-181.md)'s objection, that the grammar a coded thing is
 filed in shapes it, is unanswered.
