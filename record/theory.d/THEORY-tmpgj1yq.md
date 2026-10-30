@@ -27,10 +27,10 @@ extends:
 bears_on:
 - QUESTION-277
 summary: >-
-  The Black Queen Hypothesis itself, filed beside THEORY-1048 by the
-  twenty-fourth status review (ADR-065 §3; ADR-047 kind 1). THEORY-1048,
+  The Black Queen Hypothesis itself, filed beside [THEORY-1048](THEORY-1048.md) by the
+  twenty-fourth status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1048](THEORY-1048.md),
   Active, holds what the hypothesis says; whether it is true is this
-  entry's question, with THEORY-1048's old condition word for word.
+  entry's question, with [THEORY-1048](THEORY-1048.md)'s old condition word for word.
 ---
 <!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
@@ -38,11 +38,11 @@ summary: >-
 
 ## Source
 
-Morris, Lenski & Zinser (2012), LIT-1568, read in full in NOTE-1212.
+Morris, Lenski & Zinser (2012), [LIT-1568](../literature.d/LIT-1568.md), read in full in [NOTE-1212](../notes.d/NOTE-1212.md).
 
 ## Where the evidence stands
 
-What the hypothesis says is THEORY-1048, Active, which this entry extends.
+What the hypothesis says is [THEORY-1048](THEORY-1048.md), Active, which this entry extends.
 The formal condition follows from its premises; the one worked case, katG in
 Prochlorococcus, rests on phylogeny and cited physiology, and the other
-functions are matched to criteria, not analysed. The `promote_when` above is THEORY-1048's condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.
+functions are matched to criteria, not analysed. The `promote_when` above is [THEORY-1048](THEORY-1048.md)'s condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.

@@ -137,9 +137,9 @@ of demography. In the model, neither happens.
 The old title said dependence "rises at all only if the collective's carrying
 capacity is high enough". The simulations show traits leaving (0,0) at K_C = 50
 and 500 and not at 10, and the authors' condition K_C > aK_HK_S/d is shown
-sufficient, not necessary (NOTE-1211, C3). Only b_H = b_S and d_H = d_S were
+sufficient, not necessary ([NOTE-1211](../notes.d/NOTE-1211.md), C3). Only b_H = b_S and d_H = d_S were
 simulated. Whether real symbioses bear out the model's predictions is
-QUESTION-tmp8bdij.
+[QUESTION-tmp8bdij](../questions.d/QUESTION-tmp8bdij.md).
 
 ## Connections
 

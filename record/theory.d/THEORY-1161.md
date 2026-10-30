@@ -55,13 +55,13 @@ date: '2026-10-29'
 source:
 - LIT-1404
 summary: >-
-  Friedkin (2011/2012), LIT-1404, read in NOTE-1374. Under reflected
+  Friedkin (2011/2012), [LIT-1404](../literature.d/LIT-1404.md), read in [NOTE-1374](../notes.d/NOTE-1374.md). Under reflected
   appraisal, the next self-weight set to the member's share of control
   over the last issue, with each issue settled by Friedkin–Johnsen
   anchoring, his simulations give a single leader in 99.0–100% of 100,000
   random networks. Re-runs on sparser networks gave 93% and 96%. The
   contrast with the DeGroot step, and which step real groups follow, are
-  not this reading's: the first is THEORY-tmp771g4.
+  not this reading's: the first is [THEORY-tmp771g4](THEORY-tmp771g4.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp771g4 — Proposed; filed beside this reading by the twenty-fourth status review: the comparison of the two single-issue steps -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; the companion account, cited as open and not leaned on -->
@@ -71,8 +71,8 @@ summary: >-
 ## Source
 
 Friedkin, N. E. (2011). A formal theory of reflected appraisals in the
-evolution of power. *Administrative Science Quarterly* 56(4), LIT-1404,
-read in full in NOTE-1374 (Table 2 and Eqs. 6, 9 and 10).
+evolution of power. *Administrative Science Quarterly* 56(4), [LIT-1404](../literature.d/LIT-1404.md),
+read in full in [NOTE-1374](../notes.d/NOTE-1374.md) (Table 2 and Eqs. 6, 9 and 10).
 
 ## What was actually shown
 
@@ -108,18 +108,18 @@ almost never do.
 - **Not a comparison with the DeGroot step.** Friedkin's paper does not
   make one. The contrast with Jia et al.'s DeGroot–Friedkin model, and the
   general claim that the single-issue step decides whether power
-  concentrates, are THEORY-tmp771g4, Proposed.
+  concentrates, are [THEORY-tmp771g4](THEORY-tmp771g4.md), Proposed.
 
 ## Note of 2026-10-30: the re-runs
 
 **What was re-run.** Friedkin's update as printed (above), and, from the
 same networks and starting self-weights, the DeGroot–Friedkin update of
-Jia, MirTabatabaei, Friedkin and Bullo (2015), LIT-1146, read in NOTE-1135
-(THEORY-916): W = diag(x) + (I − diag(x))C, each issue goes to consensus,
+Jia, MirTabatabaei, Friedkin and Bullo (2015), [LIT-1146](../literature.d/LIT-1146.md), read in [NOTE-1135](../notes.d/NOTE-1135.md)
+([THEORY-916](THEORY-916.md)): W = diag(x) + (I − diag(x))C, each issue goes to consensus,
 and control, which becomes the next x, is W's dominant left eigenvector
 normalised to sum 1.
 
-**The first run, 2026-10-29** (NOTE-1374; its script was not kept). Every
+**The first run, 2026-10-29** ([NOTE-1374](../notes.d/NOTE-1374.md); its script was not kept). Every
 one of 900 random complete networks (300 each of sizes 5, 10 and 20) ended
 with one self-weight above 0.99 and the rest below 0.01. On 300 random
 strongly connected networks of size 10 and density 0.4, 93% ended with a
@@ -213,12 +213,12 @@ print(classify(np.ones(5) / 5), classify(np.eye(5)[0]))
 The re-runs agree with Friedkin's Table 2 on complete networks, and on
 complete networks they set the two updates far apart. That comparison puts
 the record's own computation beside two papers, so it is not this
-reading's: it is THEORY-tmp771g4.
+reading's: it is [THEORY-tmp771g4](THEORY-tmp771g4.md).
 
 ## Connections
 
 [CASE-092](../cases.d/CASE-092.md)'s note of 2026-10-23 asks that a coupled meaning–influence model
-be compared with "DeGroot–Friedkin" reflected appraisal. On THEORY-tmp771g4
+be compared with "DeGroot–Friedkin" reflected appraisal. On [THEORY-tmp771g4](THEORY-tmp771g4.md)
 that is two baselines with opposite predictions, and the comparison
 should name the single-issue step. [CLAIM-297](../claims.d/CLAIM-297.md)'s authority updated from
 performance has the same shape as both rules.

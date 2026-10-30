@@ -27,10 +27,10 @@ extends:
 - THEORY-866
 summary: >-
   Woods, Windt and Carter's thesis about the experiences, filed beside
-  THEORY-866 by the twenty-fourth status review (ADR-065 §3; ADR-047 kind
-  1). THEORY-866, Active, holds what the teachers' texts describe; whether
+  [THEORY-866](THEORY-866.md) by the twenty-fourth status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind
+  1). [THEORY-866](THEORY-866.md), Active, holds what the teachers' texts describe; whether
   practitioners' experience is so is this entry's question, with
-  THEORY-866's old condition.
+  [THEORY-866](THEORY-866.md)'s old condition.
 ---
 
 # THEORY-tmpvrkbi: The so-called contentless goal-states of Shamatha, Transcendental and Stillness Meditation are neither truly contentless nor identical: they lack thoughts, perceptions, images and memories but keep wakefulness, calm, stillness, a non-conceptual knowing and the like, and they differ across the practices in attentional stability
@@ -38,12 +38,12 @@ summary: >-
 ## Source
 
 Woods, Windt & Carter (2022), "Contentless experiences in meditation are
-neither truly contentless nor identical", LIT-1351, read in full in NOTE-1070
+neither truly contentless nor identical", [LIT-1351](../literature.d/LIT-1351.md), read in full in [NOTE-1070](../notes.d/NOTE-1070.md)
 from the submitted preprint.
 
 ## Where the evidence stands
 
-What the 135 expert texts describe is THEORY-866, Active, which this entry
+What the 135 expert texts describe is [THEORY-866](THEORY-866.md), Active, which this entry
 extends. No practitioner was asked anything, and "not truly contentless"
-counts qualities such as calm and simplicity as content (NOTE-1070, C5).
-The `promote_when` above is THEORY-866's condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.
+counts qualities such as calm and simplicity as content ([NOTE-1070](../notes.d/NOTE-1070.md), C5).
+The `promote_when` above is [THEORY-866](THEORY-866.md)'s condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.

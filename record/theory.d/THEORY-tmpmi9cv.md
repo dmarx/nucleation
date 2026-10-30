@@ -20,11 +20,11 @@ source:
 extends:
 - THEORY-651
 summary: >-
-  The thesis Sánchez González et al. motivate, filed beside THEORY-651 by
-  the twenty-fourth status review (ADR-065 §3; ADR-047 kind 1).
-  THEORY-651, Active, holds the mapping and its demonstration; nothing
+  The thesis Sánchez González et al. motivate, filed beside [THEORY-651](THEORY-651.md) by
+  the twenty-fourth status review ([ADR-065](../decisions.d/ADR-065.md) §3; [ADR-047](../decisions.d/ADR-047.md) kind 1).
+  [THEORY-651](THEORY-651.md), Active, holds the mapping and its demonstration; nothing
   beyond ingestion was measured, so whether the representation is faithful
-  and whether sharing helps is this entry's question, with THEORY-651's
+  and whether sharing helps is this entry's question, with [THEORY-651](THEORY-651.md)'s
   old condition.
 ---
 <!-- inactive-ok-file: LIT-083 — Proposed; the preprint this thesis comes from, read in full in NOTE-028 -->
@@ -33,12 +33,12 @@ summary: >-
 
 ## Source
 
-Sánchez González et al. (2025), LIT-083, read in full in NOTE-028. Better
+Sánchez González et al. (2025), [LIT-083](../literature.d/LIT-083.md), read in full in [NOTE-028](../notes.d/NOTE-028.md). Better
 correlation, faster exposure and global collaboration are the paper's
 motivation (C5), not its results.
 
 ## Where the evidence stands
 
-The mapping and the ingestion of 118 incidents are THEORY-651, Active, which
+The mapping and the ingestion of 118 incidents are [THEORY-651](THEORY-651.md), Active, which
 this entry extends. No round-trip fidelity check, comparison with DAD-CDM,
-user study or correlation result is reported. The `promote_when` above is THEORY-651's condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.
+user study or correlation result is reported. The `promote_when` above is [THEORY-651](THEORY-651.md)'s condition before the twenty-fourth status review promoted it, carried here unchanged, because it asks what would make the thesis true and not what the source says.

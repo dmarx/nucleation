@@ -60,7 +60,7 @@ the verdicts in prose from the definition.
   definition is operational in principle, not that it picks out agency.
 - Against it: the verdicts depend on the chosen variables (§5.1–5.2), the
   frame problem [THEORY-249](THEORY-249.md) presses, and mechanism interventions are not
-  available for most systems of interest. THEORY-tmpj60c9 is a rival account, and THEORY-624 reports the paper that proposes it.
+  available for most systems of interest. [THEORY-tmpj60c9](THEORY-tmpj60c9.md) is a rival account, and [THEORY-624](THEORY-624.md) reports the paper that proposes it.
 - The owner's question on conditional theorems whose promote_when moves
   to a QUESTION ([THEORY-185](THEORY-185.md), -133, -419, -527) is not decided by filing
   this.

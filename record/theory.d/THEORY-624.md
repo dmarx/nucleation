@@ -113,9 +113,9 @@ out as intuition expects.
 
 The old title said "some priors make everything look like an agent". The paper
 says only that under the speed prior, "if any device can be represented as an
-agent then everything may look like an agent" (NOTE-705, C5, argued and not
+agent then everything may look like an agent" ([NOTE-705](../notes.d/NOTE-705.md), C5, argued and not
 shown). That is a dropped hedge, not a wider thesis, so it gets this note only.
-The relative definition of agency the paper proposes is THEORY-tmpj60c9, Proposed.
+The relative definition of agency the paper proposes is [THEORY-tmpj60c9](THEORY-tmpj60c9.md), Proposed.
 
 ## Connections
 

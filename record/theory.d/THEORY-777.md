@@ -139,6 +139,6 @@ The eigenvalues reported as falling by up to six decades come from Monte
 Carlo covariances with no estimate of the estimator's noise floor and no
 per-step error, and the rates are bands the authors drew, read off the
 figure by eye. Whether the lowest groups' decay is signal is a question
-about the study's internal validity (ADR-065 §7), so the condition stays.
+about the study's internal validity ([ADR-065](../decisions.d/ADR-065.md) §7), so the condition stays.
 Nothing rests on this entry, so narrowing it to what Machta et al. report
 would free nothing.
