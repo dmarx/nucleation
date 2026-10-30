@@ -138,6 +138,6 @@ Its promote_when is unmet: all of the evidence is simulation of one
 model family, and no laboratory or field study has been read that varies
 communication structure in groups learning by trying options and
 measures accuracy and speed against the difficulty of the problem. It
-could be narrowed to the result within the bandit models, as THEORY-422
+could be narrowed to the result within the bandit models, as [THEORY-422](THEORY-422.md)
 states the wider survey, keeping the wide form as a Proposed THEORY
-under ADR-047's kind 1, if a claim comes to need only that.
+under [ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a claim comes to need only that.

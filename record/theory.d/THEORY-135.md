@@ -110,5 +110,5 @@ suppression in a lineage without described cancer-like growth lets
 cheating cells arise and spread, nor comparative work showing
 suppression scaling with body size across independent origins of
 multicellularity. It could be narrowed to what Aktipis et al. report and
-propose, keeping the wide form as a Proposed THEORY under ADR-047's kind
+propose, keeping the wide form as a Proposed THEORY under [ADR-047](../decisions.d/ADR-047.md)'s kind
 1, if a claim comes to need only that.

@@ -61,7 +61,7 @@ their share of the whole.
 
 ## Note of 2026-10-29: what holds it back
 
-It grounds on THEORY-1111's taxonomy, which is unmeasured, and its own
+It grounds on [THEORY-1111](../theory.d/THEORY-1111.md)'s taxonomy, which is unmeasured, and its own
 defeat condition names the missing result: survey evidence on whether
 spectators' type of attachment predicts taking part in the expressions
 that make up a fanbase's stance.

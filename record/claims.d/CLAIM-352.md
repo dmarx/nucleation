@@ -145,6 +145,6 @@ by that fact a fair process.
 
 ## Note of 2026-10-29: what holds it back
 
-Its "no scalar without a standard" step stands on THEORY-411, which is
-Proposed and was not reviewed in this pass; its premises CLAIM-079 and
-CLAIM-027 are Active and it has no objection.
+Its "no scalar without a standard" step stands on [THEORY-411](../theory.d/THEORY-411.md), which is
+Proposed and was not reviewed in this pass; its premises [CLAIM-079](CLAIM-079.md) and
+[CLAIM-027](CLAIM-027.md) are Active and it has no objection.

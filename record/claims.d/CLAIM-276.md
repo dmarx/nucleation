@@ -109,7 +109,7 @@ truth, the gap this claim names.
 
 Its last clause says a collective interpretation's stability is no
 evidence of its truth, but Active readings give regimes where consensus
-does track the truth: THEORY-321's DeGroot consensus when the largest
-influence weight vanishes, and THEORY-422's pooling problems. The
+does track the truth: [THEORY-321](../theory.d/THEORY-321.md)'s DeGroot consensus when the largest
+influence weight vanishes, and [THEORY-422](../theory.d/THEORY-422.md)'s pooling problems. The
 argument supports "not by itself evidence of its truth", and the claim
 is not promoted until the clause is restated at that strength.

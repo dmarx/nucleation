@@ -105,5 +105,5 @@ reference to individual conversion can register the contented disabled
 person's claim is untested here, and no controlled comparison showing
 income and achieved functionings coming apart at the individual level
 has been read. It could be narrowed to Sen's argument, which is held
-first-hand in NOTE-258, keeping the wide form as a Proposed THEORY under
-ADR-047's kind 1, if a claim comes to need only that.
+first-hand in [NOTE-258](../notes.d/NOTE-258.md), keeping the wide form as a Proposed THEORY under
+[ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a claim comes to need only that.

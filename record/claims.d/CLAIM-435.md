@@ -116,7 +116,7 @@ choices between cost–resource pairs.
   semiorder ([CLAIM-436](CLAIM-436.md), part 3b), and a chain of options each a
   little costlier and a little richer than the last produces cyclic
   choices: each step taken, the endpoints reversed. Tversky's
-  intransitivity experiments (LIT-1472, unread) are the design. Cycles are evidence for an
+  intransitivity experiments ([LIT-1472](../literature.d/LIT-1472.md), unread) are the design. Cycles are evidence for an
   override with a threshold and against a currency of either kind, which
   cannot cycle.
 
@@ -164,8 +164,8 @@ be separate mechanisms, which is the first defeater.
 
 ## Note of 2026-10-29: what holds it back
 
-It rests on CLAIM-440, the owner's reframing of valence as
+It rests on [CLAIM-440](CLAIM-440.md), the owner's reframing of valence as
 ordering-potential, which the record does not hold. It grounds on
-THEORY-101 for Veit's common currency and on THEORY-090 for ALARM's
+[THEORY-101](../theory.d/THEORY-101.md) for Veit's common currency and on [THEORY-090](../theory.d/THEORY-090.md) for ALARM's
 override, readings still Proposed on whether each account is true, and
 no held reading states either author's proposal alone.

@@ -88,6 +88,6 @@ club flotation, the G14) rather than from data on spectators.
 Its promote_when is unmet: no survey has been read that measures the two
 axes and recovers the four types as distinct, populated groups, and no
 repeated measure of spectator composition at commodified clubs against
-member-owned ones; the paper itself reports no data (NOTE-1244).
-CLAIM-490 needs the taxonomy to describe real spectators, so narrowing
+member-owned ones; the paper itself reports no data ([NOTE-1244](../notes.d/NOTE-1244.md)).
+[CLAIM-490](../claims.d/CLAIM-490.md) needs the taxonomy to describe real spectators, so narrowing
 it to what Giulianotti proposes would not free that claim.
