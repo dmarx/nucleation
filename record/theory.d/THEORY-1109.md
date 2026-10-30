@@ -159,7 +159,7 @@ and compartments. In the main they are not.
   archaeal contributions against "the hypothesis that ... the archaeal host
   metabolism was replaced by counterparts from the endosymbiont", citing
   that work. On the paper's evidence, the replacement was partial.
-- **[LIT-1591](../literature.d/LIT-1591.md) (Imachi et al. 2020, read in NOTE-1238).** Cited among the syntrophy models
+- **[LIT-1591](../literature.d/LIT-1591.md) (Imachi et al. 2020, read in [NOTE-1238](../notes.d/NOTE-1238.md)).** Cited among the syntrophy models
   this paper supports.
 - **[QUESTION-277](../questions.d/QUESTION-277.md).** It bears on G (functions split between partner genomes by
   origin, now all nuclear) and on C (host-derived enzymes imported into the

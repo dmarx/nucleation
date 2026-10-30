@@ -54,7 +54,7 @@ correlates with its regression scores at Pearson 0.73 to 0.82 per pair,
 and at 0.90 to 0.92 with its final score, which includes the span score
 with weight 2/9 by construction ([THEORY-1134](../theory.d/THEORY-1134.md)). Against expert MQM its
 final score's segment-level Kendall τ is 0.39 to 0.47, the span score's 0.33
-to 0.44 (NOTE-1341), and its span F1 0.24 to 0.32. The
+to 0.44 ([NOTE-1341](../notes.d/NOTE-1341.md)), and its span F1 0.24 to 0.32. The
 paper presents the heads' agreement as support for the spans as an
 explanation of the score. The record reads it as [CLAIM-496](CLAIM-496.md) reads agreement
 between routes: two outputs of one encoder agreeing is coherence, and its
@@ -104,6 +104,6 @@ humans alone do not settle it, since the claim is about the gap.
 
 The comparison puts Kendall τ and Pearson r on one scale, and under MQM's
 ties that holds only for τ_b, which WMT22 used; neither the paper nor
-NOTE-1341 says which τ Table 2a reports. Under τ_a the en-ru score's gap
+[NOTE-1341](../notes.d/NOTE-1341.md) says which τ Table 2a reports. Under τ_a the en-ru score's gap
 can close. A reading that records the variant, or a recomputation on the
 released WMT22 scores, would free it.

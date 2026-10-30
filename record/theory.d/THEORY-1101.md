@@ -151,9 +151,9 @@ Neither happened on these data.
   waves, and its claim that some bacterial transfers preceded the
   mitochondrion, rest on stem lengths read as relative times. If this
   account holds, that ordering is not established by its method.
-- **[LIT-1595](../literature.d/LIT-1595.md) (Pittis & Gabaldón 2016, read in NOTE-1240).** The method's origin. This
+- **[LIT-1595](../literature.d/LIT-1595.md) (Pittis & Gabaldón 2016, read in [NOTE-1240](../notes.d/NOTE-1240.md)).** The method's origin. This
   account reproduces its result only in the regime it mostly sampled.
-- **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., read in NOTE-1234).** It times eukaryogenesis by dated gene
+- **[LIT-1566](../literature.d/LIT-1566.md) (Kay et al., read in [NOTE-1234](../notes.d/NOTE-1234.md)).** It times eukaryogenesis by dated gene
   duplications, a different clock. If its ordering agrees with stem-length
   orderings, that would count against this account. If it agrees with
   gene-content scenarios and not with stem lengths, that would count for it.
