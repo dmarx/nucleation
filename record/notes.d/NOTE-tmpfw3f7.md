@@ -147,11 +147,14 @@ objections" (line 75).
   specifying the communication he leaves untheorized (p. 1353).
 - **Cooren.** It positions itself against Cooren's ventriloquism and the
   communicative constitution of organizations (CCO) tradition, which "still
-  tend[s] to entify agents" (p. 1364).
+  tend[s] to entify agents" (p. 1364). The paper credits that verdict to Wilhoit 2016,
+  who does not make it (see below).
 - **Barad.** It borrows the agential cut, held in the record as [LIT-1653](../literature.d/LIT-1653.md),
   Unavailable, and read in [THEORY-1083](../theory.d/THEORY-1083.md) and [THEORY-1071](../theory.d/THEORY-1071.md).
 - **Simondon.** The source is *Individuation in Light of Notions of Form
-  and Information*, which the record holds as [LIT-1648](../literature.d/LIT-1648.md), Unavailable.
+  and Information*, which the record holds as [LIT-1648](../literature.d/LIT-1648.md), Unavailable. The paper's reading of
+  Simondon descends from Bencherki 2017 (LIT-tmp1rpyl), Bencherki & Iliadis
+  2021 (LIT-tmpwspny) and Iliadis 2013 (LIT-tmpj9jyk), all read.
 
 ## Bearing on the record
 
