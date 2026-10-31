@@ -33,14 +33,17 @@ summary: >-
 
 ## The inference
 
-The record has built and run maintained correction:
-- reciprocally produced governing rules that repair the loss of one rule
-  and not of both ([CASE-161](../cases.d/CASE-161.md));
-- capture and selectively admitted evidence ([CASE-162](../cases.d/CASE-162.md));
-- a kinetic organization that regenerates its copying machinery
-  ([CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md));
-- a proposed study of a second correction after the corrective apparatus
-  is injured ([CASE-tmp061to](../cases.d/CASE-tmp061to.md)).
+The premises are of three kinds, and they differ in what they show.
+- **Executed studies.** These were run:
+  - reciprocally produced governing rules that repair the loss of one rule
+    and not of both (CASE-161);
+  - capture and selectively admitted evidence (CASE-162).
+- **A mathematical construction.** A kinetic organization that regenerates
+  its copying machinery (CASE-tmpz9u5t). Its certificates were checked,
+  and its simulations were not run by the record.
+- **A proposed experiment, not run.** A second correction after the
+  corrective apparatus is injured (CASE-tmp061to). It enters as a design:
+  what it could show if run.
 
 It holds that what keeps a judgement–observation loop from confirming
 itself is evidence that does not pass through the interpretation it tests
@@ -51,7 +54,7 @@ capacity ([CLAIM-tmp025xj](../claims.d/CLAIM-tmp025xj.md)).
 ## Critical questions
 
 - **Would the evidence be expected if the conclusion were false?** Yes.
-  The constructions show that corrigibility can be maintained, what
+  The executed studies and the construction show that corrigibility can be maintained, what
   maintains it, and what it costs. They would look the same if keeping it
   were, for some organization, not worth the cost or not owed.
 - **Does it tell the conclusion apart from its rivals?** No. The rival is

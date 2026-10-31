@@ -15,6 +15,10 @@ history:
     a policy identifying predictive structure, where Richens et al.'s
     result (CLAIM-tmp4htg4) belongs, from a particular component realizing
     it, which needs evidence that discriminates implementations.
+    At the owner's second review the same day, "not evidence" became
+    "not sufficient to establish": the equivalence shows competence does
+    not establish or identify an explicit world model, not that it gives no
+    Bayesian evidence for a model-based architecture.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -75,8 +79,11 @@ each step's action law and the environment's response law are the same.
 No experiment confined to that interface and horizon can tell them apart
 (A20 §1).
 
-So competence on the interface is not evidence that a world model is
-present. "World model" ascribes an organization that explains the
+So competence on the interface is not sufficient to establish that a
+world model is present, or to identify one. That is not to say it is no
+evidence: under relevant priors and resource assumptions, competence can
+still favour a model-based architecture, as the compression point below
+says. "World model" ascribes an organization that explains the
 behaviour, as "the self" ascribes an owner to it ([CLAIM-355](CLAIM-355.md)). That is
 the owner's U20 point. Brooks's robots are the standing example that
 competent action can run on the world as "its own best model"
