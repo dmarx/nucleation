@@ -1,0 +1,189 @@
+---
+status: Read
+paper: 'LIT-tmp1rpyl'
+title: 'Bencherki — A pre-individual perspective to organizational action'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Read in full from the journal's PDF (ephemera 17(4): 777–799, 23 pp.),
+    text extracted with pdftotext; page numbers are the journal's. Body
+    pp. 777–794 read in full; references pp. 794–799 checked for the
+    Simondon and organization-studies sources. The three screen captures
+    were not seen; their captions were.
+date: '2026-10-31'
+summary: >-
+  After Simondon, action is pre-individual: it is not an agent's deed
+  but a difference that contributes to the individuation of persons and
+  organizations at once, and authorship is an outcome. Affect is how a
+  person finds a pre-individual load that only a collective
+  individuation can resolve, and its refusal is felt as disindividuation.
+  An action's signification is its participation in an individuation.
+  The illustration, a documentary on military spouses, sorts the army's
+  treatment of the women's actions into co-individuation, channeling and
+  usurpation.
+---
+<!-- inactive-ok-file: LIT-1648 LIT-tmp18ayr LIT-tmpo79rn LIT-tmp49an2 CLAIM-355 — Unavailable or Proposed; Simondon's texts and the organization-studies readings of him, unobtained, cited as what the paper draws on, and the record's own claim set beside the reading -->
+
+# NOTE-tmp4ysch: Bencherki — A pre-individual perspective to organizational action
+
+## Contribution
+
+Organization studies frames the individual–organizational relation as two
+pre-existing entities needing a bridge: principal–agent models,
+structuration, institutional work (pp. 777–779). The paper inverts the
+problem. It starts from action, which is "pre-individual, i.e. logically
+prior to any individual" (p. 778). The questions are then which
+individuations an action is allowed to contribute to, and who decides.
+Membership, authorship and power become matters of individuation.
+
+## Key insight
+
+Ownership of action is never given and never complete: "a being only
+possesses its components from a particular perspective: their
+contribution to its individuation process; possession is never complete
+or univocal" (p. 782). Because people need their actions to count
+toward a collective if their own individuation is to continue, the
+denial or usurpation of authorship is felt (affectivo-emotivity) and is
+political.
+
+## Assumptions
+
+- **Simondon's allagmatic ontology** (p. 780): no prior blueprint and no
+  levels to reconcile, because "the phases of being coexist". Quoted from
+  Simondon 2005 and 1989 in the author's translation (fn. 1).
+- **Affect, after Massumi and Spinoza**, is autonomous and logically prior
+  to any subject (p. 781). Simondon's "affectivo-emotivity" is read
+  through Barthélémy (2014) as "emotional and provisional
+  disindividuation of the subject", a step back toward the
+  pre-individual before social individuation (pp. 781–782).
+- **The documentary is treated as second-hand ethnography** (p. 784),
+  with stated limits: one side is heard, the husbands and the army are
+  nearly absent, and the director presents the women and the army as
+  already-constituted entities (pp. 784–785).
+
+## Key results
+
+1. **Action is pre-individual** (pp. 780–781): "not the deed of any agent
+   ... but rather a difference that tilts the stability of a being and
+   provokes change". It is "not chronologically prior" to beings;
+   "individuations continue into each other ceaselessly".
+2. **Affect continues personal into collective individuation** (pp.
+   781–782). An individual "does not exhaust the tensions that allowed
+   its constitution", and from "that load of reality that is still
+   non-individuated ... man (sic) seeks his kindred to constitute a
+   group" (Simondon 1989: 192).
+3. **Communication is transduction** (p. 782): the circulation of actions
+   "from one center to another", structuring the collective. The actions
+   "escape any given body ‒ they are never quite its actions".
+4. **Signification follows the collective** (pp. 782–783): "The existence
+   of the collective is necessary for information to be significant"
+   (Simondon 2005: 307). "Concurrent significations, then, are not mere
+   misunderstandings, but rather the outcomes of simultaneous
+   individuation processes."
+5. **Table 1** (p. 787) crosses the two allowances, contribution to human
+   individuation and contribution to organizational individuation, giving
+   four cells. The excerpts fill three: political activity (cell 1,
+   channeling), the checklist (cell 1, positive co-individuation) and
+   the daycare (cell 2, usurpation by the army).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Treating action as pre-individual dissolves the micro–macro bridging problem | weak | conceptual, pp. 778–783 |
+| C2 | Affectivo-emotivity is the experience of an individuation whose continuation into a collective is blocked | weak | Simondon 1989 and Barthélémy, read onto the documentary, pp. 781–782, 792–793 |
+| C3 | Whether the organization recognizes an action as a member's or as its own sorts into co-individuation, channeling or usurpation | moderate | Table 1 with three documentary excerpts, pp. 786–792 |
+| C4 | One action can carry several significations because it takes part in several individuations | weak | conceptual; illustrated by the dental plan, which reads as "political activity" to the army and as a legitimate demand to the women, p. 793 |
+
+## Method
+
+Narrative analysis of three excerpts from *Nomad's land* (Corriveau,
+NFB, 2007), treated as second-hand ethnography (pp. 784–792). The base
+commander labels the spouses' newsletter on pensions, daycare and dental
+care "political activity" and threatens them with trespass. An officer
+presents the family centre's "checklist", made by community members, as
+a service "we offer". Volunteer-run daycare: "If I volunteered, my
+daughter could go to daycare for free". The analysis assumes that the
+officer speaks for the army, and says so (p. 790).
+
+## Concepts
+
+- **Pre-individual action.** Action logically, not chronologically, prior
+  to its apparent authors.
+- **Allagmatic.** Simondon's theory of operations (*allagma*, change),
+  which needs no prior form (p. 780).
+- **Affectivo-emotivity.** The felt questioning of an individual's
+  existence when its pre-individual load seeks resolution in a
+  collective.
+- **Disindividuation.** The provisional undoing that precedes a new
+  individuation, or that follows its refusal (pp. 781, 792).
+- **Co-individuation, channeling, usurpation.** Table 1's ways an
+  action's contribution is allowed or captured.
+- **Associated milieu.** What co-individuates with a being, such as the
+  body for thought. Which is focal and which is milieu "is a matter of
+  perspective" (p. 781).
+
+## Connections
+
+- **Bencherki & Iliadis (LIT-tmpwspny)** generalizes the communication
+  side of this paper to CCO theory and drops the affect side.
+- **Bencherki, Brummans & Vézy (LIT-tmp3mudg)** restores the affect side,
+  through Massumi's definition of affect, and renames pre-individual
+  action as agency. The correspondence is tabulated in LIT-tmp1rpyl.
+- **Letiche & Moriceau 2017 (LIT-tmpo79rn)** and **Styhre 2010
+  (LIT-tmp49an2)** are cited as the rare organization-studies uses of
+  Simondon (p. 780). Both are Unavailable here.
+- **Bencherki & Cooren 2011** on the "possessive constitution of
+  organization" is the source of the possession vocabulary.
+
+## Bearing on the record
+
+- **THEORY-tmpuh0eb** is sourced here: action is pre-individual,
+  authorship is an outcome of individuation, and an action's
+  signification is its participation in individuations, so it can carry
+  several. Proposed.
+- **CLAIM-355** (a response's binding can be real while its single
+  owner is a representational construction) is close to "deciding on an
+  author is the outcome of individuation, not its starting point" (p.
+  786). The paper does not separate the binding from the attribution.
+  In the daycare it treats the army's attribution as a real usurpation.
+- **CLAIM-418** (perspectival, agential and institutional boundaries need
+  not coincide) is what Table 1 tabulates. The cells are the ways
+  agential attribution and institutional recognition come apart.
+- **The parent paper's citation** of this work (pp. 1354–1355) is
+  accurate to the letter but understates the debt: the 2024 paper's
+  disindividuation, the continuation of individuations into one another,
+  and coexisting meanings all appear here.
+- **The parent's attribution of disindividuation to "Simondon, 1989"**
+  (p. 1356) is, in this paper, Barthélémy's gloss on Simondon (p. 781),
+  with Simondon 1989: 130 quoted on emotion as putting "the
+  individual's existence" on trial. Whether Simondon 1989 uses the word
+  could not be checked (LIT-tmp18ayr, Unavailable).
+
+## Limitations
+
+- **The data are someone else's framing.** One documentary, with one side
+  heard. The analysis repeatedly supposes what the data do not show ("I
+  may speculate", p. 785; "it is possible to assume", p. 789; "the
+  documentary does not present enough data to confirm these
+  speculations", p. 789).
+- **Affectivo-emotivity is inferred from the women's stated outrage.**
+  There is no independent sign of disindividuation.
+- **The fourth cell is empty.** "acts of God, or ... the denial of the
+  action's very existence" (p. 786). Its emptiness is not discussed as a
+  finding.
+- **A humanist objection is raised and answered by assertion** (p. 792):
+  that separating people from their actions is "central to the
+  pre-individual character of action".
+
+## Open questions
+
+- Whether channeling and usurpation can be told apart without a prior
+  standard of whose action it rightly was. The paper's own politics, its
+  concern at the women's "unacknowledged" work, needs that standard,
+  and the theory disclaims it.
+- Whether Table 1 predicts anything, for instance that usurpation is
+  followed by exit or counter-organization, as the founding of OSOMM
+  suggests.

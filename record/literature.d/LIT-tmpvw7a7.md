@@ -1,0 +1,60 @@
+---
+status: Unavailable
+status_note: >-
+  filed 2026-10-31, not read. A posthumous collection of courses and
+  lectures, in copyright and sold by its publisher; no lawful free copy is
+  known. Open Library lists the 2010 Transparence edition with no e-book.
+  An Internet Archive search for creator Simondon did not find it.
+  OpenAlex was out of its daily budget for this client. It stays
+  Unavailable until a copy is supplied.
+title: 'Communication et information: Cours et conférences'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Filed, not read, as one of the works Bencherki, Brummans & Vézy
+    (2024) lean on. The citation is checked against Open Library: Gilbert
+    Simondon, Chatou, Éditions de la Transparence, 2010, ISBN
+    978-2-35051-043-9. No month is known, so `published:` is the first of
+    January 2010. No anthology check (ADR-048).
+tags:
+- individuation
+- metaphysics
+date: '2026-10-31'
+published: '2010-01-01'
+url: 'https://openlibrary.org/works/OL22375522W'
+first_author: 'Simondon'
+keywords:
+- 'communication'
+- 'information'
+- 'cybernetics'
+- 'transduction'
+implementations: []
+summary: >-
+  Simondon (2010), posthumous courses and lectures on communication and
+  information. Bencherki & Iliadis (LIT-tmpwspny) cite it for
+  communication as "the process of information's circulation through the
+  very systems whose reordering it provokes". Unread.
+---
+
+# LIT-tmpvw7a7: Communication et information: Cours et conférences
+
+Simondon, G. (2010). *Communication et information: Cours et conférences*. Chatou: Éditions de la Transparence.
+
+Not read: no lawful full text was reached (see the status note).
+
+## Why this is here
+
+The owner asked for the works Bencherki, Brummans & Vézy (2024,
+LIT-tmp3mudg) lean on. The parent cites it once, with "see", for an
+example of transduction as transformation (p. 1356): "A neural synapse,
+for instance, converts an electrical signal into a chemical medium
+(serotonin) and then into electricity; or a hunger pang is converted
+into the postponing of work until after lunch (see Simondon, 2010)."
+Not checked. The synapse appears in Bencherki & Iliadis (LIT-tmpwspny,
+ms. p. 14), not attributed to this book: "In biology, transduction
+refers to the translation of one signal into another, for example the
+translation of a chemical signal into an electrical signal at the level
+of synapses." Iliadis (LIT-tmpj9jyk, fn. 28) calls Simondon's courses
+"infinitely more technical in nature" than the thesis.
