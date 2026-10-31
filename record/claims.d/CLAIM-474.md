@@ -160,3 +160,24 @@ degrees of existence. That they exhaust the transitions that matter. Or that
 the analogies between physical, biological, institutional and epistemic cases
 are identities. A23 §XII kept the causal, epistemic and normative mechanisms
 apart, and so does this claim.
+
+## Note of 2026-10-31: the order of the achievements is not a dependency order
+
+At U20 of the exchange "Analyze nucleation concepts", the owner asked of
+the developmental sequence the assistant had laid out: "is the sequence
+presented here something we've demonstrated or just an artifact of the
+order in which we encountered independent organizational achievements in
+our particular inquiry?" A20 conceded: it "is not a demonstrated universal
+developmental sequence". It gave converse failures this claim's table
+lacks, which lists only the forward ones: "Reconstruction requires prior
+organizational autonomy: No"; "Inquiry requires endogenous material
+regeneration: No"; "A scientist can revise a measurement apparatus without
+that apparatus autonomously producing its own parts". So the five are
+better read as a partial order of distinct achievements, and a later one
+can occur where an earlier one is absent. The title's "which of those"
+and "which of them" read as nesting and should not be taken that way.
+
+The owner's rule of method is kept here: derive the dependency structure
+of the achievements separately from the order in which an inquiry met
+them. An inquiry's order can harden into apparent structure, as anchors
+entrench ([CLAIM-184](CLAIM-184.md)). No status, title or warrant changes.

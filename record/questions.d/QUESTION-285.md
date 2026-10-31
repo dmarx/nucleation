@@ -174,3 +174,22 @@ place:
   true crash site "was withheld from the data presented to the sheaf model"
   and used only to score the result (p. 25). Something the apparatus never
   sees is the check, which is [CLAIM-342](../claims.d/CLAIM-342.md)'s condition in practice.
+
+## Note of 2026-10-31: a proposed study, and what the exchange's constructions do not reach
+
+The exchange "Analyze nucleation concepts" built toward this question from
+U20 to U23. A22 called its protected-inquiry model "a partial constructive
+answer" and noted the gap this question names: the model meets the
+requirement of testing on interventions the system did not select only by
+design. The design A23 wrote out is filed as [CASE-tmp061to](../cases.d/CASE-tmp061to.md). Its primary endpoint
+is a second correction after the diagnostic and copying machinery is
+injured. Its out-of-family arm separates rejecting a hypothesis from
+finding the hypothesis family inadequate. That arm is still limited to a
+neutral response the architecture supplies, and it "does not establish
+spontaneous creation of a completely unforeseen model language". The
+record's runs nearest to it are [CASE-161](../cases.d/CASE-161.md), [CASE-162](../cases.d/CASE-162.md) and [CASE-153](../cases.d/CASE-153.md), with
+[CASE-144](../cases.d/CASE-144.md) (the evaluator that stops tracking) for captured scoring.
+A29 listed "endogenous repertoire expansion" among its hardest problems:
+building new kinds of experiment, reconstruction or governance beyond a
+family given in advance. That is this question's second clause, and no new
+question is filed for it.
