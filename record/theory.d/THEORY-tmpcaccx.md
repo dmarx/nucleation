@@ -21,7 +21,8 @@ source:
 - LIT-tmp3mudg
 summary: >-
   Bencherki, Brummans and Vézy (2024), [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), read in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md), pp. 1349–1357. The
-  paper's central proposal, after Massumi's definition of affect and
+  paper's central proposal, after the Spinozan formula for affect that
+  Massumi offers as a proposition, not a definition, and
   Simondon's individuation. Proposed: argued, and illustrated by one
   reanalysed meeting. It has no criterion that would let an observation
   count against it, and it builds the augmenting direction into the
@@ -78,3 +79,10 @@ then reorganizes how he describes MSF so that it can accept.
 - **[CLAIM-405](../claims.d/CLAIM-405.md)** holds that an individuation relative to its criterion is
   not arbitrary. The paper's perspectivism does not say what makes one cut
   better than another.
+- **Massumi's formula.** It runs both ways, toward augmented or diminished
+  capacitation, and he denies that affect is transmitted (THEORY-tmpkdsex,
+  THEORY-tmpywwei). Restricting agency to augmentation, and the passing
+  of excess action, are the authors' own moves.
+- **The actors-as-webs view.** Tsoukas and Chia's becoming, which the
+  paper calls a parallel, keeps reflexive human actors as its carriers
+  (THEORY-tmprgc9k).

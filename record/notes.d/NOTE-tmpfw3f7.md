@@ -43,7 +43,8 @@ works by sharing "excess action" (p. 1351).
 
 ## Key insight
 
-The definition takes Massumi's definition of affect: "a power to affect
+The definition adapts the Spinozan formula for affect that Massumi takes
+from Deleuze: "a power to affect
 and be affected [that] governs a transition, where a body passes from one
 state of capacitation to a diminished or augmented state of capacitation"
 (Massumi 2015, quoted p. 1353). The paper keeps only the augmenting
@@ -182,6 +183,75 @@ objections" (line 75).
   should continue. [CLAIM-523](../claims.d/CLAIM-523.md) holds that legibility, efficacy and
   correctability do not supply one. The paper's agency is defined by
   augmentation, so it builds a valence into the definition.
+
+## The sources, read (2026-10-31)
+
+The works the paper leans on were looked for and, where a lawful copy was
+reached, read. Here is what they show about the paper's use of them.
+
+- **Massumi.** The paper's quotation is exact (Massumi & McKim 2009, p. 1,
+  LIT-tmp8hcfz). But Massumi offers the formula as "the second part of the
+  Spinozan definition taken up by Deleuze", "a proposition" rather than "a
+  general definition that you can apply" (p. 3) (THEORY-tmpkdsex). The
+  formula runs both ways, toward diminished or augmented capacitation.
+  Keeping only augmentation for agency is the authors' own move.
+- **Massumi on transmission.** Massumi holds that affect "is not a content
+  that can be transported from one event to another... an event logic, not
+  a logic of transmission or communication" (2009, p. 9), and that bodies
+  cued by one event are "differentially attuned" (THEORY-tmpywwei). The
+  paper's "excess action" that "passes" between processes (p. 1356), and
+  its indignation that "spills over", read as transfer. Its definition of
+  communication as transduction narrows the gap without closing it.
+- **Massumi's co-patterning** (2017, p. 64, LIT-tmpi0u4n) is quoted exactly.
+  For Massumi it is micropolitics' aim, "an affirmation of discord"
+  (THEORY-tmpl13wj). The paper makes it a description of organizational
+  becoming, softened by "attempting".
+- **Hernes.** The epigraph is Hernes stating a reader's objection ("Some
+  readers may object... 'How can there be agency without agents?'").
+  The paper twice cites it as something Hernes "pointed out" (pp. 1358,
+  1363). The book itself (LIT-tmptfqsu) is Unavailable, and the passage was
+  not checked in context.
+- **Tsoukas & Chia 2002** (LIT-tmpls0y0, read). The "parallel" the paper
+  claims (p. 1351) holds for process coming before organization. It does
+  not hold for process coming before agents. In Tsoukas & Chia, change is
+  carried by "actors ... conceived as webs of beliefs and habits of action
+  that keep reweaving" through "the intrinsically human ability to be
+  reflexive" (p. 575), and organization emerges "through the ongoing agency
+  of organizational members" (p. 580) (THEORY-tmprgc9k).
+- **Wilhoit 2016** (LIT-tmpxzorc, read) does not say what the paper
+  attributes to it.
+  - The paper says (pp. 1363–1364) that Wilhoit noted Cooren's analyses
+    "still tend to entify agents".
+  - Wilhoit's point is methodological. The Montréal School's commitment to
+    interaction makes conversation analysis its method, so ventriloquism is
+    "a more unified than dialogic metamodel" (pp. 45–46) (THEORY-tmpd0fpm).
+  - She does not discuss entification.
+- **Bencherki 2017** (LIT-tmp1rpyl, read) is the paper's direct ancestor.
+  Several things are already there:
+  - action prior to its authors;
+  - disindividuation;
+  - personal individuation continuing into collective individuation;
+  - "concurrent significations", which become "coexisting meanings" here
+    (THEORY-tmpuh0eb).
+
+  The 2024 paper adds Massumi's affect, "excess action" and the event. Its
+  "action differential" is from Bencherki & Iliadis 2021 (LIT-tmpwspny).
+- **Loose citations.**
+  - Iliadis 2013 (LIT-tmpj9jyk) is cited for "organizational realities"
+    (p. 1351) but says nothing about organizations.
+  - "Disindividuating episodes (Simondon, 1989)" (p. 1356) is, in
+    Bencherki 2017, Barthélémy's gloss on Simondon (p. 781). Simondon 1989
+    (LIT-tmp18ayr) is Unavailable.
+- **Omitted doubt.** Letiche & Moriceau 2017 (LIT-tmpo79rn, abstract only)
+  call transduction "very problematic". They say it "would seem to escape
+  the individual and/or collective will – becoming an all-important
+  life-force outside political or ethical control". The paper takes their
+  description without that worry, which bears directly on its own section
+  on responsibility.
+- **Not read.** Unavailable: Cooren 2018 (LIT-tmpnyyqk), the source of the
+  reanalysed excerpt; Cooren & Fairhurst 2009 (LIT-tmpjgw3y), whose
+  "scaling up" the paper rejects; and Bencherki & Cooren 2011
+  (LIT-tmptqncy). So the paper's contrasts with them are unchecked.
 
 ## Limitations
 
