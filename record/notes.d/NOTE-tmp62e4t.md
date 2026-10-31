@@ -113,30 +113,30 @@ fieldwork (proposition 4).
 
 ## Connections
 
-- **Iliadis 2013 (LIT-tmpj9jyk)** is the exegesis this builds on
+- **Iliadis 2013 ([LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md))** is the exegesis this builds on
   ("Simondon's informational ontology (Iliadis, 2013)", ms. p. 13).
-- **Bencherki 2017 (LIT-tmp1rpyl)** is the first author's earlier
+- **Bencherki 2017 ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md))** is the first author's earlier
   application to organizational action and is cited as such (ms. p. 6).
 - **Taylor, Luhmann, ethnomethodology, Peirce** are placed as partial
   precursors (ms. pp. 4–5, 11–12).
-- **Simondon 2010 (LIT-tmpvw7a7)** is cited for "Communication is the
+- **Simondon 2010 ([LIT-tmpvw7a7](../literature.d/LIT-tmpvw7a7.md))** is cited for "Communication is the
   process of information's circulation through the very systems whose
   reordering it provokes" (ms. p. 7).
 
 ## Bearing on the record
 
-- **THEORY-tmp4o1dd** is sourced here: levels of organization coexist as
+- **[THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)** is sourced here: levels of organization coexist as
   orderings rather than scaling up, so the scaling problem dissolves.
   Proposed, because nothing here could show it wrong.
-- **THEORY-tmp1g3ve** (information as resolved disparity) takes this
+- **[THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md)** (information as resolved disparity) takes this
   paper as a second source. Its propositions 1 and 3 restate Iliadis's
   reading in organizational terms.
-- **CLAIM-405** holds that individuation relative to a criterion is not
+- **[CLAIM-405](../claims.d/CLAIM-405.md)** holds that individuation relative to a criterion is not
   arbitrary. This paper individuates domains by "internal ordering ...
   for practical purposes" (ms. p. 20) and leaves open whose purposes
-  fix the ordering. That is the gap NOTE-tmpfw3f7 found in the parent's
+  fix the ordering. That is the gap [NOTE-tmpfw3f7](NOTE-tmpfw3f7.md) found in the parent's
   perspectivism.
-- **The parent's use** (LIT-tmp3mudg) is faithful: the quotations are
+- **The parent's use** ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) is faithful: the quotations are
   verbatim in the manuscript, and the parent's characterization, that
   this work theorizes constitution without agency, is accurate.
 

@@ -7,8 +7,8 @@ status_note: >-
   search for creator Simondon found only other works (On the Mode of
   Existence of Technical Objects, and a school text). OpenAlex was out of
   its daily budget for this client. Its second half is quoted at length,
-  in translation, by Iliadis (LIT-tmpj9jyk) and by Bencherki
-  (LIT-tmp1rpyl). The whole thesis is translated in LIT-1648, also
+  in translation, by Iliadis ([LIT-tmpj9jyk](LIT-tmpj9jyk.md)) and by Bencherki
+  ([LIT-tmp1rpyl](LIT-tmp1rpyl.md)). The whole thesis is translated in [LIT-1648](LIT-1648.md), also
   Unavailable. It stays Unavailable until a copy is supplied.
 title: 'L''individuation psychique et collective: À la lumière des notions de forme, information, potentiel et métastabilité'
 version: 1
@@ -44,8 +44,8 @@ keywords:
 implementations: []
 summary: >-
   Simondon (1989), the psychic and collective half of the 1958 thesis on
-  individuation. As read here at second hand (LIT-tmpj9jyk,
-  LIT-tmp1rpyl): information is the meaning that arises when an
+  individuation. As read here at second hand ([LIT-tmpj9jyk](LIT-tmpj9jyk.md),
+  [LIT-tmp1rpyl](LIT-tmp1rpyl.md)): information is the meaning that arises when an
   individuation resolves a disparity between two domains; affectivity
   and emotion mark a subject's encounter with the pre-individual charge it
   has not exhausted, which it resolves by joining a collective, the
@@ -57,17 +57,17 @@ summary: >-
 
 Simondon, G. (1989). *L'individuation psychique et collective: À la lumière des notions de forme, information, potentiel et métastabilité*. Paris: Aubier.
 
-Not read: no lawful full text was reached (see the status note). The summary comes from the quotations in LIT-tmpj9jyk and LIT-tmp1rpyl.
+Not read: no lawful full text was reached (see the status note). The summary comes from the quotations in [LIT-tmpj9jyk](LIT-tmpj9jyk.md) and [LIT-tmp1rpyl](LIT-tmp1rpyl.md).
 
 ## Why this is here
 
 The owner asked for the works Bencherki, Brummans & Vézy (2024,
-LIT-tmp3mudg) lean on. The parent cites it twice:
+[LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on. The parent cites it twice:
 
 - **Disindividuation** (p. 1356): "Preindividual elements may overflow a
   being-in-becoming's ability to incorporate them into its
   individuation process and provoke disindividuating episodes (Simondon,
-  1989)". Not checked. In Bencherki 2017 (LIT-tmp1rpyl, p. 781) the
+  1989)". Not checked. In Bencherki 2017 ([LIT-tmp1rpyl](LIT-tmp1rpyl.md), p. 781) the
   phrase "emotional and provisional disindividuation" is Barthélémy's
   gloss on Simondon (Barthélémy 2014, p. 67). What Bencherki quotes from
   this book (p. 130) is that emotion "indicates that the principles of
@@ -81,5 +81,5 @@ LIT-tmp3mudg) lean on. The parent cites it twice:
   quotes this through Manning's translation (2013, p. 29) and says so.
   Not checked.
 
-LIT-1648, the full English translation, would serve for both if it were
+[LIT-1648](LIT-1648.md), the full English translation, would serve for both if it were
 obtained.

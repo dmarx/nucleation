@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp4ysch), from the journal's open-access
+  read in full 2026-10-31 ([NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md)), from the journal's open-access
   PDF (ephemera, CC BY-NC-ND). Worth reading as the direct ancestor of
-  Bencherki, Brummans & Vézy's "agency without agents" (LIT-tmp3mudg):
+  Bencherki, Brummans & Vézy's "agency without agents" ([LIT-tmp3mudg](LIT-tmp3mudg.md)):
   pre-individual action, affect, disindividuation, the continuation of
   personal into collective individuation, and coexisting significations
   are all here, seven years earlier. It is a conceptual proposal
@@ -60,7 +60,7 @@ summary: >-
 
 Bencherki, N. (2017). A pre-individual perspective to organizational action. *ephemera: theory & politics in organization*, 17(4), 777–799.
 
-Read in full in NOTE-tmp4ysch.
+Read in full in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md).
 
 ## Key takeaways
 
@@ -81,7 +81,7 @@ Read in full in NOTE-tmp4ysch.
 ## Why this is here
 
 The owner asked for the works Bencherki, Brummans & Vézy (2024,
-LIT-tmp3mudg) lean on. Bencherki is the first author of both. The parent
+[LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on. Bencherki is the first author of both. The parent
 cites this paper once, in a list (pp. 1354–1355), as work that tends "to
 mobilize [Simondon's] ideas to theorize the constitution of
 organizations without theorizing the vital role of agency in
@@ -102,4 +102,4 @@ parent's apparatus:
 What the parent adds is Massumi's definition of affect, with agency as
 its augmenting direction, the term "excess action", and the event. The
 record should read the 2024 paper as a development of this one.
-THEORY-tmpuh0eb states the claim both lean on.
+[THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md) states the claim both lean on.

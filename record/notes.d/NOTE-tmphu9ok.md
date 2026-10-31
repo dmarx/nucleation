@@ -99,22 +99,22 @@ The results are interpretive.
 
 ## Connections
 
-- **Bencherki & Iliadis (LIT-tmpwspny)** builds the organizational
+- **Bencherki & Iliadis ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md))** builds the organizational
   application on this exegesis and cites it for "informational ontology".
-- **Bencherki, Brummans & Vézy (LIT-tmp3mudg)** quotes it for the
+- **Bencherki, Brummans & Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md))** quotes it for the
   epithet and for transduction's "new informational structure".
 - **Floridi.** The author aligns Simondon with Floridi's levels of
   abstraction and with informational structural realism (pp. 13–14). The
   record holds a defence of informational structural realism as
-  LIT-152.
+  [LIT-152](../literature.d/LIT-152.md).
 
 ## Bearing on the record
 
-- **THEORY-tmp1g3ve** is sourced here: in Simondon, as read by Iliadis
+- **[THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md)** is sourced here: in Simondon, as read by Iliadis
   and by Bencherki & Iliadis, information is a disparity resolved by
   transduction into a new structure, and its meaning is the structure
   it produces. It stays Proposed because Simondon's text could not be
-  checked (LIT-1648, LIT-tmp18ayr, both Unavailable).
+  checked ([LIT-1648](../literature.d/LIT-1648.md), [LIT-tmp18ayr](../literature.d/LIT-tmp18ayr.md), both Unavailable).
 - **The parent's use.** The p. 13 quotation is exact. In Iliadis it
   describes transduction as the *beginning* of individuation; the parent
   (p. 1355) makes it the "provisional outcome" and calls it meaning.
@@ -122,10 +122,10 @@ The results are interpretive.
   of Iliadis for "the communicative encounters ... through which
   organizational realities are formed" (p. 1351) has no support here:
   the paper does not discuss organizations.
-- **LIT-1648's summary** describes transduction as structuring that
+- **[LIT-1648](../literature.d/LIT-1648.md)'s summary** describes transduction as structuring that
   propagates "step by step", as in crystallization. Iliadis does not
   use the crystal; Bencherki & Iliadis quote the propagation "from kin
-  to kin" (LIT-tmpwspny). The two descriptions agree.
+  to kin" ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md)). The two descriptions agree.
 
 ## Limitations
 
@@ -147,4 +147,4 @@ The results are interpretive.
   something counts as a failure to inform. As stated, every change of
   structure qualifies.
 - Whether the four concepts are Simondon's ordering or the author's; the
-  English translation (LIT-1648) would settle it.
+  English translation ([LIT-1648](../literature.d/LIT-1648.md)) would settle it.
