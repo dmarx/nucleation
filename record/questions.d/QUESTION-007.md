@@ -95,21 +95,21 @@ question stays Deferred with the authenticity line.
 
 ## Note of 2026-10-31: a process ethics across levels that rests on interdependence
 
-Bencherki, Brummans and Vézy (LIT-tmp3mudg, pp. 1366–1367) propose an
+Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1366–1367) propose an
 answer to the cross-agent form of this question. Beings "depend on each
 other to pursue their individuation", which "underscores the collective
 duty to foster each being-in-becoming, regardless of the 'level'". So
 responsibility is "an invitation ... to exercise caution in the way our
 individuation might affect 'weaker,' 'lesser' existences" (after
-Lapoujade, LIT-tmp6mtid, unread, and Jonas). It covers the case this
+Lapoujade, [LIT-tmp6mtid](../literature.d/LIT-tmp6mtid.md), unread, and Jonas). It covers the case this
 question names: agents sharing an environment at one level.
 
 The step is from interdependence to obligation. The note of 2026-10-18
-on CLAIM-096 records the record's verdict on it, from A25:
+on [CLAIM-096](../claims.d/CLAIM-096.md) records the record's verdict on it, from A25:
 "interdependence ⇏ obligation". The paper offers no further premise. It
 adds a priority for the precarious, "lesser existences" at risk of
 disindividuation, which would need a standard for which existence is the
-lesser (CLAIM-075's note of this date). The paper is a source for the
+lesser ([CLAIM-075](../claims.d/CLAIM-075.md)'s note of this date). The paper is a source for the
 question, not an answer to it. The status stays Deferred with its line.
 
 No status, title or warrant changes.

@@ -75,7 +75,7 @@ would be tested against.
 
 ## Note of 2026-10-31: the collective mirror, which separates authorizing an arrangement from attributing its result
 
-Bencherki's daycare (2017; LIT-tmp1rpyl, pp. 791–792; THEORY-tmpuh0eb) is
+Bencherki's daycare (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp. 791–792; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)) is
 a collective case that varies this one along an axis it does not have.
 The spouses consent to the arrangement: "If I volunteered, my daughter
 could go to daycare for free". Nothing is imposed on them in the way

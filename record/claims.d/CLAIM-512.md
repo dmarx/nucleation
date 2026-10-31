@@ -76,7 +76,7 @@ None was carried out. Until one is, this stands unanswered.
 
 ## Note of 2026-10-31: the parent paper's ethics on both horns, and a pair of cases that does not answer
 
-Bencherki, Brummans and Vézy's responsibility (LIT-tmp3mudg, pp.
+Bencherki, Brummans and Vézy's responsibility ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp.
 1366–1367) is a diachronic normative thesis of the kind this objection
 is aimed at, and it falls on the broad horn. It speaks of "the
 collective duty to foster each being-in-becoming, regardless of the
@@ -85,17 +85,17 @@ include a piston that "communicates movement" (p. 1364) and a virus that
 "is itself a process of becoming" (p. 1356). So the duty applies to
 every change, and it cannot arbitrate between individuations that block
 each other. The paper's own cases are such conflicts: the health
-department and MSF (pp. 1359–1363), the army and the spouses (LIT-tmp1rpyl).
+department and MSF (pp. 1359–1363), the army and the spouses ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md)).
 It also makes prescription the content of the judgment, which this
 objection's second part separates from evaluation.
 
 Bencherki (2017)'s checklist and daycare (pp. 789–792; note of this date
-on CLAIM-518) might seem to meet the third of A27's tests, counterfactual
+on [CLAIM-518](CLAIM-518.md)) might seem to meet the third of A27's tests, counterfactual
 discrimination. They are two cases with one end state that the verdict
 separates. But what separates them is a standard of authorship,
 "whose action it was", and not the individuation description, which
-THEORY-tmpuh0eb says needs that standard and disclaims it. The pair
-supports CLAIM-518's narrowed claim that some judgments need histories.
+[THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md) says needs that standard and disclaims it. The pair
+supports [CLAIM-518](CLAIM-518.md)'s narrowed claim that some judgments need histories.
 It does not show that the organizational description adds anything to
 the standard, which is what this objection asks.
 

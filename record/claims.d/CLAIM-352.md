@@ -165,16 +165,16 @@ Proposed and was not reviewed in this pass; its premises [CLAIM-079](CLAIM-079.m
 
 Bencherki, Brummans and Vézy define agency as "the affective force that
 governs the transition from a lesser to an augmented ability to act"
-(LIT-tmp3mudg, p. 1354; THEORY-tmpcaccx). They adapt Massumi's
-capacitation (THEORY-tmpkdsex). In this claim's split, a change in
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354; [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)). They adapt Massumi's
+capacitation ([THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)). In this claim's split, a change in
 ability to act is on the side of what can be reached, Sen's opportunity
 aspect, not on the side of the organization that selects among it. The
 paper says nothing about which of an agent's regimes becomes effective,
-which is what will-organization (TERM-023) is about. So the two are not
+which is what will-organization ([TERM-023](../terms.d/TERM-023.md)) is about. So the two are not
 rival accounts of agency. They answer different halves of this claim's
 division. The parent's paper has the weakness this claim finds in viable
 reachability: it never says which abilities count, so it has no map from
-"ability to act" to anything valued. CLAIM-tmptb7y2 states the three
+"ability to act" to anything valued. [CLAIM-tmptb7y2](CLAIM-tmptb7y2.md) states the three
 quantities apart.
 
 No status, title or warrant changes.

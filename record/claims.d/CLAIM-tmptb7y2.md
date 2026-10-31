@@ -54,28 +54,28 @@ summary: >-
 The record's affect line has two quantities and needs a third.
 
 - **Emotion is a claim.** A state of action readiness claims control
-  precedence (TERM-094); whether the claim is granted is a further fact
-  (CLAIM-442).
+  precedence ([TERM-094](../terms.d/TERM-094.md)); whether the claim is granted is a further fact
+  ([CLAIM-442](CLAIM-442.md)).
 - **System valence is a direction along what wins.** On the potential
-  account (CLAIM-440, TERM-076), valence is a regime in which an ordering
+  account ([CLAIM-440](CLAIM-440.md), [TERM-076](../terms.d/TERM-076.md)), valence is a regime in which an ordering
   of the organization's states by their bearing on its maintenance
   prevails in the negotiation, and its sign is whether the organization
   runs ahead of or behind a reference course along that ordering.
 - **Viable reach is what the organization can still do.** The set of
   states it can reach within a horizon, staying within its constraints,
-  at bounded cost: CLAIM-354's R_T^K, compared by inclusion.
+  at bounded cost: [CLAIM-354](CLAIM-354.md)'s R_T^K, compared by inclusion.
 
 The third is not a function of the first two. An ordering ranks states;
 reach is a property of the futures open from a state. Moving to a state
 the ordering ranks higher can be a move into a region from which fewer
-viable trajectories leave, which is CLAIM-079: a system can satisfy its
+viable trajectories leave, which is [CLAIM-079](CLAIM-079.md): a system can satisfy its
 constraints now without a trajectory that keeps satisfying them. So an
 organization can run ahead along its prevailing ordering, positive
-valence, while its viable reach contracts. Protective lock-in (TERM-020)
-and governance-maintained avoidance (CLAIM-446) are of that shape: the
+valence, while its viable reach contracts. Protective lock-in ([TERM-020](../terms.d/TERM-020.md))
+and governance-maintained avoidance ([CLAIM-446](CLAIM-446.md)) are of that shape: the
 defensive ordering wins, and the avoidance it selects narrows what can be
 reached. A firm whose prevailing ordering is a proxy for its maintenance
-(QUESTION-267) is another. The reverse is also possible: an organization
+([QUESTION-267](../questions.d/QUESTION-267.md)) is another. The reverse is also possible: an organization
 that falls behind its reference course while taking on capacities, as in
 an exploration that costs progress, has negative valence and a widening
 reach.
@@ -85,10 +85,10 @@ reach.
 Massumi's affect, in the definition Bencherki et al. quote, is "a power
 to affect and be affected [that] governs a transition, where a body
 passes from one state of capacitation to a diminished or augmented state
-of capacitation" (LIT-tmp8hcfz, p. 1; THEORY-tmpkdsex). The parent paper
+of capacitation" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 1; [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)). The parent paper
 defines agency as its augmenting half, "the affective force that governs
 the transition from a lesser to an augmented ability to act"
-(LIT-tmp3mudg, p. 1354; THEORY-tmpcaccx), and says the sharing of excess
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354; [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)), and says the sharing of excess
 action may "lead to a greater capacity to act for each individuation
 process" (p. 1351).
 
@@ -100,14 +100,14 @@ you can apply" (p. 3), and nothing in either text measures capacitation.
 What follows if the placing is accepted:
 
 1. **The readings are not rivals to the Frijda line.** Massumi's affect
-   and the parent's agency do not compete with CLAIM-442's emotion or
-   CLAIM-440's valence. They are about something neither measures.
+   and the parent's agency do not compete with [CLAIM-442](CLAIM-442.md)'s emotion or
+   [CLAIM-440](CLAIM-440.md)'s valence. They are about something neither measures.
 2. **The potential account cannot see capacitation.** It reads valence
-   off grants (CLAIM-442), so an augmenting or diminishing transition
+   off grants ([CLAIM-442](CLAIM-442.md)), so an augmenting or diminishing transition
    that leaves the winning ordering where it was leaves no mark on it.
 3. **The parent's verdict needs a comparison the record says is
    partial.** "Augmented" requires one reach set to contain another.
-   CLAIM-354 holds that reach compares by inclusion, with incomparable
+   [CLAIM-354](CLAIM-354.md) holds that reach compares by inclusion, with incomparable
    pairs. In the parent's MSF meeting (pp. 1359–1363) the organization
    takes on an "ad hoc training program" it had resisted ("MSF [is] ...
    not a university"). By the
@@ -116,8 +116,8 @@ What follows if the placing is accepted:
    that is augmentation depends on a measure the paper does not declare.
 4. **Massumi's "felt" is a separate question.** He adds that the
    transition is felt, but microperception is "felt without registering
-   consciously. It registers only in its effects" (LIT-tmp8hcfz, p. 4).
-   On CLAIM-439 that is unfelt. This claim takes no view on feeling.
+   consciously. It registers only in its effects" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 4).
+   On [CLAIM-439](CLAIM-439.md) that is unfelt. This claim takes no view on feeling.
 
 ## What it does not say
 
@@ -126,14 +126,14 @@ What follows if the placing is accepted:
 - **That the three never move together.** In many episodes they will. The
   claim is that none fixes another.
 - **That more reach is better, or augmentation good.** A narrow path can
-  be viable and a large option set nonviable (CLAIM-079), and viability
-  does not establish what ought to persist (CLAIM-075).
+  be viable and a large option set nonviable ([CLAIM-079](CLAIM-079.md)), and viability
+  does not establish what ought to persist ([CLAIM-075](CLAIM-075.md)).
 - **That emotion has no bearing on reach.** A granted claim changes the
   trajectory, and so what is reachable from it.
 
 ## Why it is Proposed
 
-No case in the record measures all three on one episode. QUESTION-266
+No case in the record measures all three on one episode. [QUESTION-266](../questions.d/QUESTION-266.md)
 asks for valence by independently measured layers. A case in which the
 winning ordering, the reference course and the reachable set are each
 recorded, and valence and reach move apart, would promote it.

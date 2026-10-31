@@ -193,21 +193,21 @@ claim's two parts.
 
 - **Tsoukas and Chia hold both, for the categories an organization
   applies.** "The application of a concept is always a normative act
-  insofar as it presupposes background knowledge" (LIT-tmpls0y0, p.
+  insofar as it presupposes background knowledge" ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), p.
   574). That is indexing. And "The indeterminacy of extension does not
   indicate arbitrariness. We are still able to make intelligent
-  judgements about problematic cases" (p. 574; THEORY-tmp9bte2). That is
+  judgements about problematic cases" (p. 574; [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)). That is
   the second part. Their example is Hart's statute against wheeled
   vehicles in a park. It adds rules in use to the kinds of judgment for
   which the record already held both parts: boundaries, function and
   viability.
 - **Bencherki, Brummans and Vézy hold only the first.** "Agency is a
   matter of perspective or perspectivism ... Who or what has agency is a
-  premature question" (LIT-tmp3mudg, p. 1357). Describing action from a
+  premature question" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1357). Describing action from a
   human starting point is "an 'agential cut'", an analytical choice.
   Nothing in the paper says that an attribution, once its perspective is
-  fixed, can be false. NOTE-tmpfw3f7 and THEORY-tmp4o1dd found the same
-  gap against CLAIM-405. In this claim's terms the paper indexes agency
+  fixed, can be false. [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md) and [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md) found the same
+  gap against [CLAIM-405](CLAIM-405.md). In this claim's terms the paper indexes agency
   and stops before the step that would keep the index from being
   relativism.
 

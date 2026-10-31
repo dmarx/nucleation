@@ -128,9 +128,9 @@ fix is a change in how jurisdiction is allocated or bounded, in
 Massumi's micropolitical aim is "a maximally inclusive co-patterning of
 contrasting tendencies, co-habiting the field in a way that facilitates
 each fully realizing itself ... in way that they do not oppose and
-curtail each other" (LIT-tmpi0u4n, p. 64; THEORY-tmpl13wj). Bencherki,
+curtail each other" ([LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 64; [THEORY-tmpl13wj](../theory.d/THEORY-tmpl13wj.md)). Bencherki,
 Brummans and Vézy say organizational becoming "is constituted by the
-micropolitics of attempting to reach" it (LIT-tmp3mudg, p. 1358).
+micropolitics of attempting to reach" it ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358).
 
 Read as a rule for an organization that must act, the aim asks for
 something like this claim's conditions. Each tendency would be decisive
@@ -142,7 +142,7 @@ structural reason for what Massumi calls "always-as-yet unknowable".
 
 This is a formal application, and it holds only on that reading. Massumi
 refuses the step it needs: the aim is "not to resolve the tension
-through a choice" (LIT-tmp8hcfz, p. 12). His co-patterning is not a
+through a choice" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 12). His co-patterning is not a
 social choice function. So the limit applies where the micropolitics
 must end in a choice, as the parent's MSF meeting ended in a yes or a no
 on training (pp. 1359–1363), and not to Massumi's aim as he states it.

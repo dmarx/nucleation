@@ -85,8 +85,8 @@ The readings filed on this date bear on this question three ways.
   and Chia hold that applying a category to a nonprototypical case is
   "an imaginative extension" that extends "the radius of application of
   the concept, thus transforming it", and that "the application of a
-  concept is always a normative act" (LIT-tmpls0y0, p. 574;
-  THEORY-tmp9bte2). Change of that kind "occurs naturally, incrementally,
+  concept is always a normative act" ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), p. 574;
+  [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)). Change of that kind "occurs naturally, incrementally,
   and inexorably through 'creep,' 'slippage,' and 'drift'" (p. 580). If
   the standards by which an organization reads authorization are
   categories of this kind, a history of authorization may contain no
@@ -95,7 +95,7 @@ The readings filed on this date bear on this question three ways.
   criterion of continuation cannot assume that revisions of the
   authorizing standard are discrete acts that can be checked one by one.
 - **A revision of the standard made in the act.** In the MSF meeting
-  (LIT-tmp3mudg, pp. 1359–1363), Robert first applies MSF's standard,
+  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1359–1363), Robert first applies MSF's standard,
   "MSF [is] ... not a university", "[they] are not here as educators"
   (p. 1362). He then extends it until an "ad hoc training program" falls
   inside, and ends with "at first sight, I don't have major objections"
@@ -111,6 +111,6 @@ The readings filed on this date bear on this question three ways.
   "enlist friends ... and start a local nonprofit", placing the urge in a
   collective (p. 1356). The person continues by relocating the demand,
   not by revising their own will-organization. Whether that counts as
-  continuation is filed as part of QUESTION-tmp3wvgk.
+  continuation is filed as part of [QUESTION-tmp3wvgk](QUESTION-tmp3wvgk.md).
 
 None of the three supplies a criterion. No status, title or warrant changes.

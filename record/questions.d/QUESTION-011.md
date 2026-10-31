@@ -62,7 +62,7 @@ limit again. It is worked on the will line as [QUESTION-071](QUESTION-071.md) (n
 
 ## Note of 2026-10-31: ownership as partial and plural, and manipulation as control of recognition
 
-Bencherki (2017; LIT-tmp1rpyl, read in NOTE-tmp4ysch; THEORY-tmpuh0eb)
+Bencherki (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md); [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md))
 bears on this question two ways. The status stays Deferred with its
 line.
 
@@ -72,7 +72,7 @@ line.
   782). One action can belong to a person and to an organization at once.
   Bencherki's Table 1 (p. 787) separates shared ownership,
   co-individuation, from usurpation, in which one side takes the action
-  and denies the other's part. CLAIM-016's ownership is graded, but it is
+  and denies the other's part. [CLAIM-016](../claims.d/CLAIM-016.md)'s ownership is graded, but it is
   graded within one agent. If the line is reopened, Bencherki's version
   asks whether a will-organization can be partly two agents' own, and
   what makes a shared claim legitimate and a taking a usurpation.
@@ -81,7 +81,7 @@ line.
   allowed" to contribute to (p. 786). Whoever controls the allowing
   controls ownership. The base commander does exactly that when he
   labels the spouses' demands "political activity" (pp. 787–788).
-  CLAIM-016 was deferred because a manipulator could engineer its
+  [CLAIM-016](../claims.d/CLAIM-016.md) was deferred because a manipulator could engineer its
   conditions. A recognition-based account hands ownership to whoever
   controls recognition, so it is more open to the same objection, not
   less.

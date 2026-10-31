@@ -42,7 +42,7 @@ attributing a collective will". Whether it is, is [QUESTION-009](../questions.d/
 
 ## Note of 2026-10-31: a reading that denies the supposition, and keeps using it
 
-Bencherki, Brummans and Vézy (LIT-tmp3mudg; THEORY-tmpcaccx) deny what
+Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md); [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)) deny what
 this claim supposes. "There are no already-constituted human beings prior
 to communication/becoming" (p. 1357). "Who or what has agency is a
 premature question" (p. 1357). Agency "happens before any becoming
@@ -52,21 +52,21 @@ It does not reach the will account, for three reasons.
 
 - **The claim is a supposition, and the account is indexed to it.** It
   asks how a given agent's efficacy is organized. A theory of how agents
-  come to be recognized would answer QUESTION-009, which this claim
-  leaves open. It would not undermine CLAIM-027.
+  come to be recognized would answer [QUESTION-009](../questions.d/QUESTION-009.md), which this claim
+  leaves open. It would not undermine [CLAIM-027](CLAIM-027.md).
 - **The parent's own analysis restores the agent.** The reanalysis
   attributes knowledge, surprise and discomfort to Robert. It concedes
   that it "still bears traces of entitative thinking" (p. 1364). The
   supposition is hard to do without even for a paper that rejects it.
 - **The neighbouring readings are compatible with it.** Bencherki and
-  Iliadis (THEORY-tmp4o1dd) treat persons and organizations as
+  Iliadis ([THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)) treat persons and organizations as
   coexisting levels, "they each exist fully and simultaneously". That
   allows a given agent at one level without deriving it. Tsoukas and
   Chia's becoming is carried by "actors ... reweaving their webs of
-  beliefs and habits" (LIT-tmpls0y0, p. 575; THEORY-tmprgc9k), which is
+  beliefs and habits" ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), p. 575; [THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md)), which is
   the agent this claim supposes.
 
-Where the parent does bear is on the outward route, QUESTION-tmp3wvgk:
+Where the parent does bear is on the outward route, [QUESTION-tmp3wvgk](../questions.d/QUESTION-tmp3wvgk.md):
 a conflict the agent settles by forming a collective crosses the
 boundary this claim draws.
 

@@ -242,17 +242,17 @@ the nearest antecedent.
 
 Massumi's definition of affect, which Bencherki, Brummans and Vézy
 build their agency on, ends "with the corollary that the transition is
-felt" (LIT-tmp8hcfz, p. 1; THEORY-tmpkdsex). His "felt" is not this
+felt" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 1; [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)). His "felt" is not this
 claim's. Microperception "is something that is felt without registering
 consciously. It registers only in its effects" (p. 4), and the onset of
 experience is "by nature imperceptible". On this claim, a change that
 reaches other processes only through its effects, with no deeper
 process modelling it, is unfelt valence, as Brouillet and Friston's
 unfelt fluency "orients attention". So when the parent paper says
-agency "can therefore be felt, observed, experienced" (LIT-tmp3mudg, p. 1363), its sense of the word
+agency "can therefore be felt, observed, experienced" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1363), its sense of the word
 does not meet this claim's condition, and nothing in it bears on
 whether that condition is right. The two uses should not be merged.
-CLAIM-tmptb7y2 also separates the quantity Massumi's affect is about
+[CLAIM-tmptb7y2](CLAIM-tmptb7y2.md) also separates the quantity Massumi's affect is about
 from valence.
 
 No status, title or warrant changes.
