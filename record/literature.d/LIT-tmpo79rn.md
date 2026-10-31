@@ -57,7 +57,7 @@ Not read: only the abstract was reached (see the status note).
 ## Why this is here
 
 The owner asked for the works Bencherki, Brummans & Vézy (2024,
-LIT-tmp3mudg) lean on. The parent quotes this paper four times
+[LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on. The parent quotes this paper four times
 (pp. 1355–1356):
 
 - **p. 1** "self-evolving, self-generating, and self-differentiating", of

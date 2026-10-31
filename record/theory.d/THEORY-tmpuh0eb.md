@@ -22,9 +22,9 @@ source:
 - LIT-tmp1rpyl
 - LIT-tmpwspny
 summary: >-
-  Bencherki (2017), LIT-tmp1rpyl, read in NOTE-tmp4ysch, with Bencherki &
-  Iliadis (2021), LIT-tmpwspny. The proposal of which Bencherki,
-  Brummans & Vézy's "agency without agents" (LIT-tmp3mudg) is a
+  Bencherki (2017), [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md), with Bencherki &
+  Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md). The proposal of which Bencherki,
+  Brummans & Vézy's "agency without agents" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) is a
   development. Proposed: argued, and illustrated by three excerpts from
   one documentary. Nothing identifies disindividuation apart from the
   affect it is inferred from, and the account needs, but disclaims, a
@@ -36,8 +36,8 @@ summary: >-
 
 ## Source
 
-Bencherki (2017), LIT-tmp1rpyl, pp. 780–793, read in NOTE-tmp4ysch.
-Bencherki & Iliadis (2021), LIT-tmpwspny, proposition 3, for signification
+Bencherki (2017), [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp. 780–793, read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md).
+Bencherki & Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), proposition 3, for signification
 as reordering.
 
 ## What was actually shown
@@ -65,7 +65,7 @@ spouses fill three of its cells: channeling (newsletters labelled
 checklist presented as an army service) and usurpation (volunteer-run
 daycare credited to the army).
 
-The parent paper (LIT-tmp3mudg) keeps this structure. It renames the
+The parent paper ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) keeps this structure. It renames the
 force by which action passes between individuations "agency", defines
 it by Massumi's augmentation, and calls the passing action "excess
 action" (pp. 1351, 1356–1358). Its "Coexisting meanings of the same
@@ -88,10 +88,10 @@ this paper's p. 783.
 
 ## Connections
 
-- **CLAIM-355** separates a real binding from a constructed single owner.
+- **[CLAIM-355](../claims.d/CLAIM-355.md)** separates a real binding from a constructed single owner.
   This account does not draw that line. It treats the army's attribution
   of the daycare as a real usurpation, not a misdescription.
-- **CLAIM-418**: Table 1 is a tabulation of ways in which agential
+- **[CLAIM-418](../claims.d/CLAIM-418.md)**: Table 1 is a tabulation of ways in which agential
   attribution and institutional recognition fail to coincide.
-- **THEORY-tmpcaccx** is the parent paper's development of this account
+- **[THEORY-tmpcaccx](THEORY-tmpcaccx.md)** is the parent paper's development of this account
   into agency without agents.

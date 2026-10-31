@@ -20,9 +20,9 @@ source:
 - LIT-tmpwspny
 - LIT-tmp1rpyl
 summary: >-
-  Bencherki & Iliadis (2021), LIT-tmpwspny, read in NOTE-tmp62e4t, with
-  Bencherki (2017), LIT-tmp1rpyl. The claim behind the parent paper's
-  dissolution of the scaling-up problem (LIT-tmp3mudg, p. 1364). Proposed:
+  Bencherki & Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), read in [NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md), with
+  Bencherki (2017), [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md). The claim behind the parent paper's
+  dissolution of the scaling-up problem ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1364). Proposed:
   a conceptual proposal, illustrated by one meeting excerpt, with no
   criterion that fixes a level independently of the analyst. It
   redescribes the problem; it does not show that aggregation never
@@ -33,9 +33,9 @@ summary: >-
 
 ## Source
 
-Bencherki & Iliadis (2021), LIT-tmpwspny, proposition 2 and manuscript pp.
-14–17, read in NOTE-tmp62e4t. Bencherki (2017), LIT-tmp1rpyl, p. 780,
-read in NOTE-tmp4ysch.
+Bencherki & Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), proposition 2 and manuscript pp.
+14–17, read in [NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md). Bencherki (2017), [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 780,
+read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md).
 
 ## What was actually shown
 
@@ -60,7 +60,7 @@ universe" (p. 780).
 The illustration is a meeting excerpt in which a subcommittee's
 ordering spreads to a council through sheets, a calendar and a website.
 
-**The parent paper** (LIT-tmp3mudg) draws the conclusion. "individuation
+**The parent paper** ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) draws the conclusion. "individuation
 takes place concurrently at different 'levels,' rather than scaling up
 from the individual to the collective"; the scaling question "vanishes
 the moment communication is viewed eventfully" (p. 1364). It cites
@@ -75,7 +75,7 @@ continuum" (p. 1351).
   addressed.
 - **What fixes a level.** Domains are distinguished "for practical
   purposes" by their internal ordering. Whose purposes, and how two
-  analysts would agree, is not said. CLAIM-405 holds that an
+  analysts would agree, is not said. [CLAIM-405](../claims.d/CLAIM-405.md) holds that an
   individuation is well defined only once its criterion is fixed.
 - **That coexistence is observed.** The cell-to-organization example is a
   thought experiment. The meeting excerpt shows one ordering spreading,

@@ -19,8 +19,8 @@ source:
 - LIT-tmpj9jyk
 - LIT-tmpwspny
 summary: >-
-  Iliadis (2013), LIT-tmpj9jyk, read in NOTE-tmphu9ok, with Bencherki &
-  Iliadis (2021), LIT-tmpwspny. The reading of Simondon on which
+  Iliadis (2013), [LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md), read in [NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md), with Bencherki &
+  Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md). The reading of Simondon on which
   Bencherki, Brummans & Vézy (2024) build their account of communication
   and meaning. Proposed: both sources are exegesis in their authors'
   translations, and Simondon's text could not be checked. It does not say
@@ -33,15 +33,15 @@ summary: >-
 
 ## Source
 
-Iliadis (2013), LIT-tmpj9jyk, pp. 10–13, read in NOTE-tmphu9ok. Bencherki
-& Iliadis (2021), LIT-tmpwspny, propositions 1 and 3, read in
-NOTE-tmp62e4t from the authors' manuscript.
+Iliadis (2013), [LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md), pp. 10–13, read in [NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md). Bencherki
+& Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), propositions 1 and 3, read in
+[NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md) from the authors' manuscript.
 
 ## What was actually shown
 
 Nothing was tested. Both papers set out Simondon's view through
 translated quotation, mostly from *L'individuation psychique et
-collective* (LIT-tmp18ayr), and Bencherki & Iliadis also quote the 2005
+collective* ([LIT-tmp18ayr](../literature.d/LIT-tmp18ayr.md)), and Bencherki & Iliadis also quote the 2005
 complete thesis (pp. 32–36).
 
 - **Iliadis.** In Simondon, information is "never a given thing". It
@@ -58,7 +58,7 @@ complete thesis (pp. 32–36).
 The two readings agree, but they are not independent: Iliadis is a
 co-author of the second.
 
-The parent paper, Bencherki, Brummans & Vézy (LIT-tmp3mudg, pp.
+The parent paper, Bencherki, Brummans & Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp.
 1355–1357), quotes Iliadis p. 13 exactly. It makes the "new
 informational structure" the provisional outcome of individuation and
 calls it meaning. It then builds its account of retrospective meaning
@@ -75,6 +75,6 @@ gives that action its meaning."
   cannot predict which encounters will be meaningful.
 - **That this is Simondon's own wording in English.** The English is
   the commentators'. The record's copy of the 2020 translation
-  (LIT-1648) is Unavailable.
+  ([LIT-1648](../literature.d/LIT-1648.md)) is Unavailable.
 - **That any change of structure is an informational event in a sense
   that discriminates.** As stated, every reordering qualifies.

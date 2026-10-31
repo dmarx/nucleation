@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmphu9ok), from the journal's open-access
+  read in full 2026-10-31 ([NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md)), from the journal's open-access
   PDF at openpublishing.library.umass.edu (CC BY-SA 4.0). A short
   exegesis, not an argument with tests: worth keeping as the source of
   the "informational ontology" reading of Simondon that Bencherki and
-  Iliadis (LIT-tmpwspny) and Bencherki, Brummans & Vézy (LIT-tmp3mudg)
+  Iliadis ([LIT-tmpwspny](LIT-tmpwspny.md)) and Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md))
   build on.
 title: 'Informational Ontology: The Meaning of Gilbert Simondon’s Concept of Individuation'
 version: 1
@@ -62,7 +62,7 @@ summary: >-
 
 Iliadis, A. (2013). Informational ontology: The meaning of Gilbert Simondon's concept of individuation. *communication +1*, 2(1), 1–19. doi:10.7275/R59884XW.
 
-Read in full in NOTE-tmphu9ok.
+Read in full in [NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md).
 
 ## Key takeaways
 
@@ -86,7 +86,7 @@ Read in full in NOTE-tmphu9ok.
 ## Why this is here
 
 The owner asked for the works Bencherki, Brummans & Vézy (2024,
-LIT-tmp3mudg) lean on. The parent takes three things from Iliadis:
+[LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on. The parent takes three things from Iliadis:
 
 - **The epithet** (p. 1354): Simondon is "the first true philosopher of
   information [and communication]" (Iliadis p. 1). The words are
@@ -107,11 +107,11 @@ LIT-tmp3mudg) lean on. The parent takes three things from Iliadis:
   Bencherki & Iliadis 2021 for "the communicative encounters of
   individuation processes (events) through which organizational
   realities are formed". Iliadis says nothing about organizations. The
-  citation is loose: it holds for Bencherki & Iliadis (LIT-tmpwspny),
+  citation is loose: it holds for Bencherki & Iliadis ([LIT-tmpwspny](LIT-tmpwspny.md)),
   not for this paper.
 
-The record holds Simondon's own book as LIT-1648, Unavailable, so this
+The record holds Simondon's own book as [LIT-1648](LIT-1648.md), Unavailable, so this
 is one of the record's second-hand readings of him; its quotations are
 from the 2007 Aubier reprint of L'individuation psychique et collective
-(LIT-tmp18ayr), in Iliadis's translation. THEORY-tmp1g3ve states what it
+([LIT-tmp18ayr](LIT-tmp18ayr.md)), in Iliadis's translation. [THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md) states what it
 supports.

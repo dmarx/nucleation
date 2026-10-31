@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp62e4t) from the authors' manuscript in
+  read in full 2026-10-31 ([NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md)) from the authors' manuscript in
   R-libre, TÉLUQ's repository: 43 pp., Word-generated, headed "A more
   recent version of this paper is published in Communication Theory".
   The version of record (Oxford, subscription) was not read, so its
   pagination (pp. 442–462) could not be checked against the text. Worth
   reading as the bridge between Iliadis's exegesis of Simondon
-  (LIT-tmpj9jyk) and the communicative constitution of organization;
+  ([LIT-tmpj9jyk](LIT-tmpj9jyk.md)) and the communicative constitution of organization;
   it is a theoretical proposal with one illustrative excerpt.
 title: 'The Constitution of Organization as Informational Individuation'
 version: 1
@@ -60,7 +60,7 @@ summary: >-
 
 Bencherki, N., & Iliadis, A. (2021). The constitution of organization as informational individuation. *Communication Theory*, 31(3), 442–462. doi:10.1093/ct/qtz018. (Online 29 November 2019.)
 
-Read in full, from the authors' manuscript, in NOTE-tmp62e4t.
+Read in full, from the authors' manuscript, in [NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md).
 
 ## Key takeaways
 
@@ -82,7 +82,7 @@ Read in full, from the authors' manuscript, in NOTE-tmp62e4t.
 ## Why this is here
 
 The owner asked for the works Bencherki, Brummans & Vézy (2024,
-LIT-tmp3mudg) lean on. Bencherki is the first author of both. The parent
+[LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on. Bencherki is the first author of both. The parent
 takes from this paper:
 
 - **Individuation as "the constitution of new entities or collectives"**
@@ -113,5 +113,5 @@ mobilize [Simondon's] ideas to theorize the constitution of
 organizations without theorizing the vital role of agency". That is
 accurate for this paper. It equates communication with the propagation
 of action. It says nothing of agency or affect, and its one empirical
-excerpt is read for ordering, not for who acts. THEORY-tmp4o1dd states
+excerpt is read for ordering, not for who acts. [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md) states
 the levels claim the parent leans on.

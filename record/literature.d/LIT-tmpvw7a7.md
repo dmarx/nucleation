@@ -33,7 +33,7 @@ keywords:
 implementations: []
 summary: >-
   Simondon (2010), posthumous courses and lectures on communication and
-  information. Bencherki & Iliadis (LIT-tmpwspny) cite it for
+  information. Bencherki & Iliadis ([LIT-tmpwspny](LIT-tmpwspny.md)) cite it for
   communication as "the process of information's circulation through the
   very systems whose reordering it provokes". Unread.
 ---
@@ -47,14 +47,14 @@ Not read: no lawful full text was reached (see the status note).
 ## Why this is here
 
 The owner asked for the works Bencherki, Brummans & Vézy (2024,
-LIT-tmp3mudg) lean on. The parent cites it once, with "see", for an
+[LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on. The parent cites it once, with "see", for an
 example of transduction as transformation (p. 1356): "A neural synapse,
 for instance, converts an electrical signal into a chemical medium
 (serotonin) and then into electricity; or a hunger pang is converted
 into the postponing of work until after lunch (see Simondon, 2010)."
-Not checked. The synapse appears in Bencherki & Iliadis (LIT-tmpwspny,
+Not checked. The synapse appears in Bencherki & Iliadis ([LIT-tmpwspny](LIT-tmpwspny.md),
 ms. p. 14), not attributed to this book: "In biology, transduction
 refers to the translation of one signal into another, for example the
 translation of a chemical signal into an electrical signal at the level
-of synapses." Iliadis (LIT-tmpj9jyk, fn. 28) calls Simondon's courses
+of synapses." Iliadis ([LIT-tmpj9jyk](LIT-tmpj9jyk.md), fn. 28) calls Simondon's courses
 "infinitely more technical in nature" than the thesis.

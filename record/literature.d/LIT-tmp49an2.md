@@ -55,7 +55,7 @@ Not read: only the abstract was reached (see the status note).
 ## Why this is here
 
 The owner asked for the works Bencherki, Brummans & Vézy (2024,
-LIT-tmp3mudg) lean on. The parent (p. 1356) quotes Styhre twice to
+[LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on. The parent (p. 1356) quotes Styhre twice to
 define transduction, which "Simondon refers to ... as communication or
 transduction":
 
@@ -74,5 +74,5 @@ those who theorize constitution "without theorizing the vital role of
 agency" (pp. 1354–1355). The abstract's subjects, Schatzki's site of
 the social and Czarniawska's action nets, are frameworks of action,
 so that characterization needs the full text to judge. Bencherki
-(LIT-tmp1rpyl, p. 782) cites Styhre for transduction as propagation from
+([LIT-tmp1rpyl](LIT-tmp1rpyl.md), p. 782) cites Styhre for transduction as propagation from
 "kin to kin".

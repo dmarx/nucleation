@@ -127,29 +127,29 @@ officer speaks for the army, and says so (p. 790).
 
 ## Connections
 
-- **Bencherki & Iliadis (LIT-tmpwspny)** generalizes the communication
+- **Bencherki & Iliadis ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md))** generalizes the communication
   side of this paper to CCO theory and drops the affect side.
-- **Bencherki, Brummans & Vézy (LIT-tmp3mudg)** restores the affect side,
+- **Bencherki, Brummans & Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md))** restores the affect side,
   through Massumi's definition of affect, and renames pre-individual
-  action as agency. The correspondence is tabulated in LIT-tmp1rpyl.
-- **Letiche & Moriceau 2017 (LIT-tmpo79rn)** and **Styhre 2010
-  (LIT-tmp49an2)** are cited as the rare organization-studies uses of
+  action as agency. The correspondence is tabulated in [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md).
+- **Letiche & Moriceau 2017 ([LIT-tmpo79rn](../literature.d/LIT-tmpo79rn.md))** and **Styhre 2010
+  ([LIT-tmp49an2](../literature.d/LIT-tmp49an2.md))** are cited as the rare organization-studies uses of
   Simondon (p. 780). Both are Unavailable here.
 - **Bencherki & Cooren 2011** on the "possessive constitution of
   organization" is the source of the possession vocabulary.
 
 ## Bearing on the record
 
-- **THEORY-tmpuh0eb** is sourced here: action is pre-individual,
+- **[THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)** is sourced here: action is pre-individual,
   authorship is an outcome of individuation, and an action's
   signification is its participation in individuations, so it can carry
   several. Proposed.
-- **CLAIM-355** (a response's binding can be real while its single
+- **[CLAIM-355](../claims.d/CLAIM-355.md)** (a response's binding can be real while its single
   owner is a representational construction) is close to "deciding on an
   author is the outcome of individuation, not its starting point" (p.
   786). The paper does not separate the binding from the attribution.
   In the daycare it treats the army's attribution as a real usurpation.
-- **CLAIM-418** (perspectival, agential and institutional boundaries need
+- **[CLAIM-418](../claims.d/CLAIM-418.md)** (perspectival, agential and institutional boundaries need
   not coincide) is what Table 1 tabulates. The cells are the ways
   agential attribution and institutional recognition come apart.
 - **The parent paper's citation** of this work (pp. 1354–1355) is
@@ -160,7 +160,7 @@ officer speaks for the army, and says so (p. 790).
   (p. 1356) is, in this paper, Barthélémy's gloss on Simondon (p. 781),
   with Simondon 1989: 130 quoted on emotion as putting "the
   individual's existence" on trial. Whether Simondon 1989 uses the word
-  could not be checked (LIT-tmp18ayr, Unavailable).
+  could not be checked ([LIT-tmp18ayr](../literature.d/LIT-tmp18ayr.md), Unavailable).
 
 ## Limitations
 
