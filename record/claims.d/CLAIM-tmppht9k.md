@@ -68,3 +68,9 @@ property from coupling-based individuation".
 - **That early-warning signals would catch it.** Critical slowing appears in
   the maintenance, not in the coupling. Why such signals are weak evidence
   anyway is [THEORY-136](../theory.d/THEORY-136.md)'s and [THEORY-214](../theory.d/THEORY-214.md)'s point.
+- **That the coupling lasts to the fold in a finite system.** The fold is a
+  deterministic, infinite-size statement. In a finite system the
+  maintained regime is metastable, and the coupling is lost at the escape
+  time. That comes before the fold, since the barrier closes as the
+  distance to the fold to the power 3/2 (THEORY-tmpwystk). The
+  dissociation holds for as long as the regime does.

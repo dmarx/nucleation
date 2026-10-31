@@ -122,3 +122,22 @@ not of the production graph alone. And maintenance that is "endogenous"
 relative to the organization lasts only while the reservoirs do. A
 chemostat is itself a finite-lived structure of a larger closed network,
 open for a time of order its abundance ratio (THEORY-tmp1nk6k).
+
+## Note of 2026-10-31: the folds are statements about infinite size
+
+Read with the stochastic-thermodynamics works, both constructions are
+deterministic, so they hold in the limit of infinite size. At finite size
+a maintained regime is metastable.
+- **Lifetime.** It lasts a time exponential in size, set by a barrier in a
+  quasi-potential computed from the dynamics, not by a free energy
+  (THEORY-tmpwystk, THEORY-tmpjzj2n).
+- **Before the fold.** The barrier closes as the 3/2 power of the distance
+  to the fold, so the lifetime collapses before the fold is reached.
+- **Dissipation.** The production and decay terms here are irreversible,
+  so they have no defined entropy production. To be paid for in
+  stochastic-thermodynamic terms, every step needs a reverse step obeying
+  local detailed balance (LIT-tmpm46ks, THEORY-tmpkze5s).
+
+Vellela and Qian's Schlögl model (LIT-tmpkp8vh) is the chemical,
+stochastic counterpart of this case, as CASE-111 is its deterministic
+predecessor.

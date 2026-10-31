@@ -157,3 +157,15 @@ regime ([THEORY-676](THEORY-676.md), Active). No system has had its degrees of f
 fixed before its steady state was predicted and found. A split into what
 Kleidon proposes would free nothing: [THEORY-517](THEORY-517.md), which presupposes it,
 also asks for a planetary test that does not assume MEP.
+
+## Note of 2026-10-31: counterevidence from the Schlögl model
+
+The readings of Vellela and Qian (LIT-tmpkp8vh) and of Falasco and
+Esposito (LIT-tmpm46ks) bear against selection by maximum entropy
+production:
+- in the bistable Schlögl model, the more stable state can carry either
+  the higher or the lower entropy production (THEORY-tmpshz26);
+- Falasco and Esposito find extremum principles hold only near detailed
+  balance or under "peculiar conditions".
+
+A status review should weigh this. Nothing here changes its status.

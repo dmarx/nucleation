@@ -1,0 +1,164 @@
+---
+status: Read
+paper: 'LIT-tmpayntj'
+title: 'LaMont & Wiggins — thermodynamics and inference'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Read from the arXiv preprint 1706.01428v5 (4 April 2019, the version
+    matching PRE 99, 052140), 25 pp. The PRE version of record was not
+    compared. Text extracted with pdftotext; Tables I–III came through
+    with their cells out of order and were reassembled by hand; the
+    figures survived only as captions. Read in full: abstract, §§I–IV,
+    Tables I–IV, appendix A (A1–A8) and appendix C2 (the uniform model).
+    Skimmed: appendix B (methods) and appendices C1, C3, C4 (the
+    worked normal, gamma and discrete-parameter derivations), whose
+    results I took from Tables II–III. I checked Table II's regular and
+    singular entries by differentiating the free energies, and computed
+    the learning capacity exactly in the singular model K(a, b) = a²b²
+    with uniform prior (λ = ½, multiplicity 2) for n = 10² to 10¹².
+date: '2026-10-31'
+summary: >-
+  Takes the evidence as a partition function with sample size N as
+  inverse temperature, and reads off the thermodynamic derivatives. The
+  internal energy is the leave-one-out predictive loss; the heat capacity
+  becomes a "learning capacity" equal to K/2 in a regular model
+  (equipartition) and to Watanabe's learning coefficient in a singular
+  one, and smaller when prior or discreteness fixes parameters
+  ("freeze-out"). A prior making the Gibbs entropy zero reproduces AIC.
+  The correspondence is formal; nothing in it is a physical current or
+  dissipation.
+---
+
+# NOTE-tmpyxfno: LaMont & Wiggins — thermodynamics and inference
+
+## Contribution
+
+It takes the long-noticed identity of the Bayesian evidence with a
+partition function, Z(xᴺ) = ∫ dθ ϖ(θ) e^{−NĤ(θ)} (eq. 4), and follows the
+thermodynamic identities through: F = −N⁻¹ log Z, U = ∂_N(NF),
+C = −N²∂²_N(NF), S = N²∂_N F (Table I). Two quantities are new: the
+learning capacity C, and a statistical Gibbs entropy S, used to define a
+"generalized principle of indifference" (GPI) prior. The authors present
+the GPI prior as a solution to the Lindley–Bartlett paradox.
+
+## Key insight
+
+With N playing β, the regular model is a free particle: its free energy
+H₀ + (K/2N) log(N/N₀) has the form E₀ + (K/2β) log(β/β₀) (Table II), so
+each parameter contributes ½ to the "heat capacity" exactly as each
+quadratic degree of freedom contributes ½k_B. The generalization error
+K/2N is equipartition. Where this fails, the reason is the physicist's
+one: a degree of freedom is frozen out, by the prior at small N ("high
+temperature") or by a discrete parameter at large N ("low temperature").
+
+## Assumptions
+
+- **IID data, θ₀ drawn from the prior, quantities averaged over data and
+  θ₀** (eqs. 1, 5).
+- **N is the inverse temperature.** The authors say this is a choice:
+  Watanabe's β* on the likelihood is the other one, set aside because only
+  β* = 1 is Bayesian and its internal energy is not the predictive loss
+  (appendix A3).
+- **A derivative in a discrete variable** is a finite difference averaged
+  over the N leave-one-out choices (eqs. 11–12), which makes U the LOOCV
+  loss (appendix A4, eq. A9 to O(N⁻¹)).
+- **Large-N asymptotics** for the singular row of Table II are Watanabe's,
+  cited, with γ the paper's "learning coefficient".
+
+## Key results
+
+- **Table II, regular model.** F = H₀ + (K/2N) log(N/N₀); U = H₀ + K/2N;
+  C = K/2; S = (K/2)(1 − log N/N₀). Checked by differentiation.
+- **Singular model (eq. 18).** C = ½K_eff + O(N⁻¹) with K_eff = γ. Two
+  remarks. First, the paper's γ is twice Watanabe's λ: its free energy is
+  H₀ + (γ/2N) log N, Watanabe's nS + λ log n. So C → λ, which THEORY-087
+  states as the singular Occam penalty. Second, Table II drops Watanabe's
+  −(m − 1) log log N term. With it, C = λ − (m − 1)/log N + …, a
+  correction of order 1/log N, not N⁻¹. In the deterministic part of the
+  free energy for K = a²b² with a uniform prior (λ = ½, m = 2, the model
+  of CASE-152), I computed C = 0.32 at n = 10², 0.40 at 10⁴, 0.43 at 10⁶
+  and 0.47 at 10¹², tracking ½ − 1/log n. So for multiplicity above one,
+  the equipartition value is approached only logarithmically slowly.
+- **Freeze-out examples (§III.C).** Normal mean with Gaussian prior:
+  C = K/(2(1 + N₀/N)²) (eq. 24), zero at small N. Two-component
+  exponential mixture at N = 100: C = 0.61 at the singular point, 1.5
+  away from it (eq. 28). Integer-valued normal mean: C drops from K/2 to
+  0 once the posterior width falls below the lattice spacing (eq. 30).
+  The uniform endpoint model has C = 1 for one parameter, twice the
+  equipartition value (appendix C2, eq. C44): non-regularity can raise
+  the capacity as well as lower it.
+- **Predictive sloppiness (eq. 40).** Defined as C < ½ dim Θ, a
+  reparametrization-invariant replacement for the Fisher-spectrum
+  definition, with the mechanism "parameters being determined by model
+  structure rather than the data" (§IV.A).
+- **GPI prior (eqs. 31–35, A10–A14).** Choose the prior so that the Gibbs
+  entropy is ≈ 0 for every θ. For a regular model at large N it is the
+  Jeffreys prior scaled by (N/2π)^{K/2} e^{−K}, and then
+  −log Z ≈ −log q(xᴺ|θ̂) + K, which is AIC (eqs. 41–42). The prior depends
+  on N, so, as the authors say, it "violates Lindley's dictum" and the
+  evidence is no longer a probability (§IV.B).
+- **Lindley–Bartlett demonstration (Fig. 1).** Five models, N = 20: the
+  improper-limit objective prior gives posterior 1 to the parameter-free
+  model whatever generated the data; the GPI prior ranks the generating
+  model first in each case. One simulated dataset per model.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | In a regular model the learning capacity is K/2, the statistical counterpart of equipartition | strong | Table II, derivation checked |
+| C2 | In a singular model it is the learning coefficient | moderate | cited asymptotics; the correction is O(1/log N) when m > 1, not O(N⁻¹) (my check) |
+| C3 | Sloppiness is learning capacity below ½ dim Θ, by freeze-out | moderate as a definition, weak as an explanation of deep networks | three toy models; the extension to "high-dimensional models more generally" is speculation, so labelled (§I.A) |
+| C4 | The GPI prior reproduces AIC and avoids the Lindley–Bartlett paradox | moderate | eqs. 41–43, one simulation |
+| C5 | GPI "subsumes" Jeffreys, reference priors and pseudo-Bayes factors | weak | asymptotic agreements, asserted |
+
+## Concepts
+
+- **Learning capacity** — C = −N²∂_N U, the rate at which predictive loss
+  falls with sample size, in units of 1/N (eq. 16).
+- **Statistical Gibbs entropy** — S = N(U − F), proposed as the log number
+  of distributions consistent with the data (eq. 19).
+- **Critical sample size N₀** — the sample size at which data and prior
+  carry equal weight (eq. 23), the analogue of the de Broglie
+  temperature.
+
+## Connections
+
+- Balasubramanian 1997 on N ↔ β and counting distinguishable
+  distributions; Watanabe for the singular asymptotics; Machta,
+  Transtrum et al. for sloppiness. None held here.
+- THEORY-087 is the record's statement of the Occam penalty this paper
+  differentiates.
+
+## Bearing on the record
+
+- **THEORY-087 and the A14 analogy.** The exchange set SLT's e^{−nK}
+  beside a physical e^{−ΩV}. This paper is the fullest working of the
+  statistical half, and its dictionary is formal. Its "temperature" is a
+  sample size, its "energy" an empirical cross-entropy, its "density of
+  states" a prior. No current, heat flow or entropy production appears,
+  and none could: there is no dynamics. A14's own caution, that "the same
+  statistical geometry does not fix the same physical currents or
+  dissipation", is borne out by omission. The concentration analogies are
+  real: N plays the large parameter as V does in LIT-tmpm46ks, and an
+  RLCT plays a dimension count. But the thermodynamics of maintenance
+  needs the dissipative structure this dictionary lacks.
+- **CASE-152 and CLAIM-188**: the learning capacity at their model's
+  singularity approaches λ = ½ only as 1/log n (THEORY-tmp5nt8h), the same
+  log log term CLAIM-188 carries in the penalty.
+- **An instruction for ML practice** is present in passing (use the GPI
+  prior or AIC for model selection), so the LIT takes the
+  `anthology-candidate` flag.
+- Produces THEORY-tmp5nt8h.
+
+## Limitations
+
+- The singular-model results rest on cited asymptotics, with the log log
+  term dropped.
+- The Lindley–Bartlett demonstration is one dataset per model at N = 20.
+- The GPI prior is sample-size dependent, which the authors acknowledge
+  costs coherence.
+- Appendices C1, C3, C4 skimmed.
