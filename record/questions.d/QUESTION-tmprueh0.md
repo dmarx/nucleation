@@ -46,45 +46,13 @@ authorization decides between them. [QUESTION-118](QUESTION-118.md)'s successor 
 the collective analogue; [CLAIM-344](../claims.d/CLAIM-344.md)'s resolve, which keeps the capacity to
 revise a commitment, is the nearest held account of what must persist.
 
-## Note of 2026-10-31: legibility, volitional efficacy and correctability (a synthesis, not a claim)
+## Note of 2026-10-31: legibility, volitional efficacy and correctability
 
-From the owner's review of the filing. Recorded as a synthesis linking
-held entries, not as a new claim.
-
-For an agent facing a normatively relevant discrepancy, three distinct
-things must happen:
-- **Legibility.** The discrepancy becomes recognizable ([TERM-064](../terms.d/TERM-064.md)).
-- **Volitional efficacy.** A corresponding demand can influence action,
-  through the agent's will-organization ([TERM-023](../terms.d/TERM-023.md)).
-- **Correctability.** An appropriate revision can be carried out, within
-  deadline and resources ([TERM-085](../terms.d/TERM-085.md)).
-
-None of them establishes that the demand or the revision is justified.
-Call the realized ability of a normatively relevant distinction to affect
-an organization's behaviour or governing standards its **normative
-efficacy**. It can fail along any of the three paths. That is why an
-agent can be sincere, well informed and able to act, and still fail to act
-on a commitment.
-
-In the terms of [CLAIM-tmpg69cm](../claims.d/CLAIM-tmpg69cm.md), separate:
-- 𝓗_exec(O, W, Λ; B, T), the histories the agent can realize through its
-  actual organization O, will-organization W and legibility apparatus Λ,
-  under budget B and horizon T;
-- 𝓗_N, the histories that satisfy an independently specified standard N.
-
-Their intersection is the set of norm-satisfying histories available to
-the agent as it actually is. Two cautions:
-- **A nonempty intersection does not show the agent will choose such a
-  history.**
-- **An empty intersection does not show the agent is beyond criticism.**
-  Its earlier actions may have destroyed the capacities required. An
-  intervention can make its own correction costlier or unreachable
-  ([CLAIM-464](../claims.d/CLAIM-464.md)).
-
-That last point ties historical responsibility to the record's
-resource-bounded account of future possibilities ([CLAIM-475](../claims.d/CLAIM-475.md)). Resolve, on
-[CLAIM-344](../claims.d/CLAIM-344.md)'s account, is what keeps a commitment effective through changes
-that do not defeat it, while keeping it revisable by those that do.
+The owner's synthesis from review of the filing is filed as a claim,
+CLAIM-tmpvr0mx: legibility, volitional efficacy and correctability are distinct
+achievements, none of which justifies a demand. It bears on this question
+because a revision can be legible, effective and executable while who has
+the authority to make it stays open.
 
 ## Note of 2026-10-31: historically situated corrective authority
 

@@ -1,7 +1,18 @@
 ---
-status: Active
-title: 'Not claimed: that a self-maintaining organization ought to preserve its corrigibility; the record has characterized corrigibility as a capacity and its consequences, and has shown its value only relative to declared objectives, uncertainties and costs'
-version: 1
+status: Proposed
+title: 'A self-maintaining organization ought to preserve its corrigibility'
+version: 2
+history:
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    Split under ADR-061 at the owner's question "no ARGs?". Version 1
+    disclaimed this proposition and gave the reasons in one entry. Its
+    title is now the bare proposition, still disclaimed and now Proposed:
+    the record neither holds nor rejects it. The verdict that the record's
+    constructions do not establish it is ARG-tmptzqyx, Rejected. The demonstrated
+    reason, that corrigibility's value is conditional, is CLAIM-tmpnxn4o. The
+    previous body is kept below its new heading.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -10,9 +21,6 @@ tags:
 date: '2026-10-31'
 line:
 - distributed-agency
-rests_on:
-- CLAIM-075
-- CLAIM-363
 complements:
 - CLAIM-462
 bears_on:
@@ -20,21 +28,27 @@ bears_on:
 - QUESTION-129
 - QUESTION-087
 summary: >-
-  Filed on the owner's question at U24 of the exchange "Analyze
+  The proposition the owner asked about at U24 of the exchange "Analyze
   nucleation concepts" (2026-10-31): "have we established ... why/that
-  corrigibility is desirable? or maybe we're mainly characterizing what
-  corrigibility is and/or its consequences? or some third thing?" A24's
-  answer, kept here: "We have not established that corrigibility is
-  unconditionally desirable", and "We shouldn't quietly convert a proof
-  of capacity into a proof of value." The disclaimer is filed because the
-  owner asked, so it marks a real boundary rather than an inference nobody
-  makes.
+  corrigibility is desirable?" Not claimed. The record's constructions of
+  maintained correction do not establish it (ARG-tmptzqyx, Rejected), and its
+  value is conditional on objectives, uncertainty and cost (CLAIM-tmpnxn4o). A24's
+  answer: "We have not established that corrigibility is unconditionally
+  desirable." Filed because the owner asked, so it marks a real boundary.
+  It would be argued from a declared standard, which is where QUESTION-128
+  and QUESTION-129 ask.
 ---
 <!-- inactive-ok-file: QUESTION-128 QUESTION-129 QUESTION-087 — Open; the questions of what ought to persist and of authority, cited as open -->
 
-# CLAIM-tmp025xj: Not claimed: that a self-maintaining organization ought to preserve its corrigibility; the record has characterized corrigibility as a capacity and its consequences, and has shown its value only relative to declared objectives, uncertainties and costs
+# CLAIM-tmp025xj: A self-maintaining organization ought to preserve its corrigibility
 
-## What is not claimed, and why
+## Not claimed
+
+The record does not claim this. Its constructions do not establish it
+(ARG-tmptzqyx), and the value of corrigibility is conditional (CLAIM-tmpnxn4o). The text of
+version 1 follows.
+
+## What is not claimed, and why (version 1)
 
 The constructions of the exchange ([CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md), [CASE-tmp061to](../cases.d/CASE-tmp061to.md)) and the record's
 own ([CASE-161](../cases.d/CASE-161.md), [CASE-162](../cases.d/CASE-162.md)) show what corrigibility is made of and what
