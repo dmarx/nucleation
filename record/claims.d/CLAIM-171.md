@@ -85,3 +85,50 @@ intention toward an audience and read by public criteria, so that being
 identified through a reading would not make it constituted by one. The
 reception-side readings this objection needs ([QUESTION-073](../questions.d/QUESTION-073.md): Austin on
 uptake, Goffman on keying) are unread.
+
+## Note of 2026-10-31: held readings on this side, and what they cost
+
+<!-- inactive-ok-file: THEORY-tmp5ux44 THEORY-tmp1g3ve THEORY-tmpuh0eb — Proposed; readings filed on 2026-10-31 that take a systemic form of this claim's position -->
+
+This claim says "No reader-response or reception theory is held". Since
+2026-10-31 the record holds three readings, all Proposed, that take a
+systemic form of its position.
+
+- **Bencherki, Brummans and Vézy** (LIT-tmp3mudg, THEORY-tmp5ux44):
+  "action contributes to informing a system that, retrospectively, gives
+  that action its meaning" (p. 1357). And: "What communication (and
+  information) means is not so much what people think about it, but rather
+  how it affects them" (p. 1358).
+- **Bencherki and Iliadis** (LIT-tmpwspny, THEORY-tmp1g3ve): the meaning
+  of an action "corresponds to its participation in the resolution of a
+  disparity of ordering" (proposition 3).
+- **Bencherki 2017** (LIT-tmp1rpyl, THEORY-tmpuh0eb): "Concurrent
+  significations, then, are not mere misunderstandings, but rather the
+  outcomes of simultaneous individuation processes" (p. 783).
+
+They go further than this claim. It says an unread text has possible
+meanings and takes on one with each reading. They say meaning is the
+effect on the system that takes an action up. They also set the writer's
+intention aside as a matter of method: research "grounded in people's
+understandings is unable to attune to the processual nature of the world"
+(LIT-tmp3mudg, p. 1358). So they give CLAIM-160's intended meaning no slot
+at all, which is stronger than this claim's "a reading privileged by
+convention".
+
+They do not answer what holds this claim open, whether a projected
+receiver can be identified other than by a reading. They do not ask it.
+They also show what the position costs at full strength. If meaning is
+the reordering an action produces, it is known only after the reordering
+(THEORY-tmp1g3ve, "What this does not say"). Every reordering qualifies,
+so nothing counts as failing to mean. Bencherki and Iliadis's evidence
+that an ordering propagated is that the event took place (NOTE-tmp62e4t,
+Limitations). The systemic view cannot draw CLAIM-160's reply to CASE-048,
+that the child's reading is the layer addressed to the child. On it, the
+child's and the adult's readings are two concurrent significations, with
+nothing to say which was addressed to whom.
+
+The readings show that the position is held in organization studies.
+They are conceptual and are not evidence for it. The open point is
+unchanged.
+
+No status, title or warrant changes.

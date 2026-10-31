@@ -113,3 +113,46 @@ receiver a bilingual, who is not the target-language reader [CLAIM-115](CLAIM-11
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) removed `rests_on` [CLAIM-074](CLAIM-074.md) and [CLAIM-151](CLAIM-151.md). The objection cites them as the line's own commitments, which the pooled tests are inconsistent with, not as premises it asserts. Its other two parts stand on [CASE-026](../cases.d/CASE-026.md) and [CASE-042](../cases.d/CASE-042.md).
+
+## Note of 2026-10-31: outside readings that disagreement is structured, and what they leave to the record
+
+<!-- inactive-ok-file: THEORY-tmpuh0eb THEORY-tmp5ux44 THEORY-tmpywwei CLAIM-240 — Proposed; readings filed on 2026-10-31, and the line's task-weighting claim, cited as open -->
+
+Three readings filed on 2026-10-31 hold this objection's premise, that
+receivers' disagreement is not noise, from outside the line:
+
+- **Bencherki 2017**: "Concurrent significations, then, are not mere
+  misunderstandings, but rather the outcomes of simultaneous individuation
+  processes" (LIT-tmp1rpyl, p. 783; THEORY-tmpuh0eb). The example is the
+  spouses' demand for a dental plan, "political activity" to the army and
+  a legitimate demand to the spouses (p. 793).
+- **Bencherki, Brummans and Vézy**: "Coexisting meanings of the same action
+  indicate that several individuations are ongoing" (LIT-tmp3mudg, p.
+  1358; THEORY-tmp5ux44). They set this against Weick's reduction of
+  equivocality.
+- **Massumi**: bodies cued by one event "will have been attuned –
+  differentially – to the same interruptive commotion"; "There is no
+  sameness of affect. There is affective difference in the same event"
+  (LIT-tmp8hcfz, p. 6; THEORY-tmpywwei). Uniform response happens only
+  where "other factors must have been active to pre-channel tendencies".
+
+None of them supplies what this objection asks for: a named population, a
+model of disagreement, or a design that separates population from
+transport. They say why disagreement is to be expected, not how to model
+it, and on the second the record already has more than they do. It
+separates four sources of a split:
+
+- differences of access (CLAIM-458);
+- of task weighting (CLAIM-240);
+- of interpreter history (CLAIM-074);
+- of the act a population's uptake partly constitutes (CLAIM-151).
+
+Massumi's pre-channelling corresponds to CLAIM-074's adaptational history:
+a shared history makes responses alike, and differing histories make them
+differ. The correspondence is of structure, not of mechanism (ADR-032),
+since his is affect before any content and the line's is judgement.
+"Concurrent individuations" picks out none of the four, so it adds no
+category a design could estimate. CASE-055's judge and group random
+effects remain the record's answer to this objection.
+
+No status, title or warrant changes.

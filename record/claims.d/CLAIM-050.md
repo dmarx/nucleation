@@ -170,3 +170,21 @@ rested on unread works, deficiency for the approximate case and the
 Wyner-Ziv form of side information, are [CLAIM-488](CLAIM-488.md), Active. The
 second clause of defeated_if stays as a test; it does not lean on
 Torgersen's results.
+
+## Note of 2026-10-31: a different information, not a rival
+
+<!-- inactive-ok-file: THEORY-tmp1g3ve CLAIM-tmpeli2w — Proposed; a reading filed on 2026-10-31 and the record's claim placing it -->
+
+The Simondon readings filed on 2026-10-31 (Iliadis, LIT-tmpj9jyk;
+Bencherki and Iliadis, LIT-tmpwspny; read together in THEORY-tmp1g3ve)
+hold that information is "never a given thing". On their account it is a
+disparity whose resolution produces a new structure in the system that
+takes it up. That could be read as a rival to this claim's information,
+evidence about a situation compared by Blackwell's order. CLAIM-tmpeli2w
+argues that it is not. The readings' information is a change in the
+interpreter (CLAIM-118) or in the questions a receiver can decide
+(CLAIM-257), and the order holds both fixed by construction. This claim's
+scope, report fidelity for receivers whose decision problems are given,
+is unaffected.
+
+No status, title or warrant changes.
