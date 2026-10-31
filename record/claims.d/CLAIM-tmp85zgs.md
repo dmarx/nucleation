@@ -32,7 +32,7 @@ summary: >-
   information recoverable from its behavior, the capabilities it can
   actually exercise, the mechanisms realizing those capabilities, and its
   ability to maintain or transform those mechanisms." It was drawn from
-  the world-model case (CLAIM-tmp4mq28) and judged "sufficiently general—and
+  the world-model case ([CLAIM-tmp4mq28](CLAIM-tmp4mq28.md)) and judged "sufficiently general—and
   sufficiently testable—that it deserves an explicit place in Nucleation's
   research program". Proposed and interpretive: its instances are
   demonstrated case by case, and the generalization is not.
@@ -56,18 +56,18 @@ For a cognitive property X of an organization, ask separately:
 
 The record already has instances in which these come apart:
 - **World models.**
-  - Recoverable without exercisable: CLAIM-tmp4htg4.
-  - Exercisable without an identified mechanism: CLAIM-tmph29mx.
-  - Their reconciliation: CLAIM-tmp4mq28.
+  - Recoverable without exercisable: [CLAIM-tmp4htg4](CLAIM-tmp4htg4.md).
+  - Exercisable without an identified mechanism: [CLAIM-tmph29mx](CLAIM-tmph29mx.md).
+  - Their reconciliation: [CLAIM-tmp4mq28](CLAIM-tmp4mq28.md).
 - **Maintenance.** Matched trajectories, even under every intervention on
-  state, do not show where maintenance is realized: CLAIM-414 and
-  CLAIM-tmpr8p2x.
+  state, do not show where maintenance is realized: [CLAIM-414](CLAIM-414.md) and
+  [CLAIM-tmpr8p2x](CLAIM-tmpr8p2x.md).
 - **Concepts.** Conceptual organization without conceptual corrigibility:
-  TERM-tmp6c38c.
+  [TERM-tmp6c38c](../terms.d/TERM-tmp6c38c.md).
 - **Normative demands.** Legible, effective and executable are three
-  achievements: CLAIM-tmpvr0mx.
+  achievements: [CLAIM-tmpvr0mx](CLAIM-tmpvr0mx.md).
 - **Organizational achievements.** These are partially ordered, not
-  nested: CLAIM-474.
+  nested: [CLAIM-474](CLAIM-474.md).
 
 The principle generalizes those instances. It says the four are where to
 look, not that they always come apart.
@@ -77,4 +77,4 @@ look, not that they always come apart.
 - **That the four always come apart.** In particular architectures they
   may coincide, and that is a finding to establish.
 - **That the four exhaust the questions.** Justification, authority and
-  value are further questions again (CLAIM-tmpvr0mx, CLAIM-tmp025xj).
+  value are further questions again ([CLAIM-tmpvr0mx](CLAIM-tmpvr0mx.md), [CLAIM-tmp025xj](CLAIM-tmp025xj.md)).

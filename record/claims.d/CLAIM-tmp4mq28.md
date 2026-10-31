@@ -35,7 +35,7 @@ summary: >-
   Richens result rather than rejecting it, preserves [the] original
   critique of folk-model attributions, and connects both to the larger
   Nucleation program." Proposed: a definition and an organizing thesis,
-  with the study CASE-tmp1a9u5 as its test.
+  with the study [CASE-tmp1a9u5](../cases.d/CASE-tmp1a9u5.md) as its test.
 ---
 <!-- inactive-ok-file: CLAIM-tmph29mx QUESTION-tmp6e1nh TERM-086 — Proposed or Open; the premises and question this joins, cited as open -->
 
@@ -71,9 +71,9 @@ family of query-relative capabilities, not one score of world-model
 possession.
 
 **Where the two claims it rests on sit.**
-- CLAIM-tmp4htg4 is about the behaviourally encoded model: the policy
+- [CLAIM-tmp4htg4](CLAIM-tmp4htg4.md) is about the behaviourally encoded model: the policy
   determines the dynamics, recoverable by an external algorithm.
-- CLAIM-tmph29mx is about the realized mechanism: behaviour does not
+- [CLAIM-tmph29mx](CLAIM-tmph29mx.md) is about the realized mechanism: behaviour does not
   identify it.
 
 They do not conflict once each is read as being about its own notion.
@@ -88,4 +88,4 @@ the model on demand, simulate with it, or update it when wrong.
 - **That the Richens result is an observer's fiction.** The recovered model
   is constrained by the behaviour. It is not arbitrary.
 - **That competence is no evidence of a model.** It does not establish one.
-  Under resource assumptions it can still favour one (CLAIM-tmph29mx).
+  Under resource assumptions it can still favour one ([CLAIM-tmph29mx](CLAIM-tmph29mx.md)).

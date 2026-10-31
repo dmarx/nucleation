@@ -37,7 +37,7 @@ Each is tested four ways, independently specified:
 | test | what it isolates |
 |---|---|
 | the original goal family | ordinary behavioural competence |
-| on-demand predictive and interventional queries | operational world-modeling competence, in CLAIM-tmp4mq28's sense |
+| on-demand predictive and interventional queries | operational world-modeling competence, in [CLAIM-tmp4mq28](../claims.d/CLAIM-tmp4mq28.md)'s sense |
 | targeted interventions on internals | the realized mechanism |
 | environmental change, and damage to the predictive machinery | modeling corrigibility and reconstruction |
 
@@ -56,12 +56,12 @@ are linked and which come apart, under matched conditions.
   the others on goals, they come apart.
 - If targeted interventions separate architectures that the first two
   tests do not, mechanism is underdetermined by capability, as
-  CLAIM-tmph29mx holds.
+  [CLAIM-tmph29mx](../claims.d/CLAIM-tmph29mx.md) holds.
 - Recovery after damage to the predictive machinery tests the
-  maintenance-and-revision row of QUESTION-tmp6e1nh.
+  maintenance-and-revision row of [QUESTION-tmp6e1nh](../questions.d/QUESTION-tmp6e1nh.md).
 
 Ordinary competence identifies less than targeted interventions on the
-machinery that sustains it (CLAIM-414, CASE-161).
+machinery that sustains it ([CLAIM-414](../claims.d/CLAIM-414.md), [CASE-161](CASE-161.md)).
 
 **Not tested.** The design does not test Richens et al.'s theorem, which
 is about full goal-conditioned policies in fully observed environments.

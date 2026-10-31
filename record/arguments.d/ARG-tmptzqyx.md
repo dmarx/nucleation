@@ -36,13 +36,13 @@ summary: >-
 The premises are of three kinds, and they differ in what they show.
 - **Executed studies.** These were run:
   - reciprocally produced governing rules that repair the loss of one rule
-    and not of both (CASE-161);
-  - capture and selectively admitted evidence (CASE-162).
+    and not of both ([CASE-161](../cases.d/CASE-161.md));
+  - capture and selectively admitted evidence ([CASE-162](../cases.d/CASE-162.md)).
 - **A mathematical construction.** A kinetic organization that regenerates
-  its copying machinery (CASE-tmpz9u5t). Its certificates were checked,
+  its copying machinery ([CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md)). Its certificates were checked,
   and its simulations were not run by the record.
 - **A proposed experiment, not run.** A second correction after the
-  corrective apparatus is injured (CASE-tmp061to). It enters as a design:
+  corrective apparatus is injured ([CASE-tmp061to](../cases.d/CASE-tmp061to.md)). It enters as a design:
   what it could show if run.
 
 It holds that what keeps a judgement–observation loop from confirming
