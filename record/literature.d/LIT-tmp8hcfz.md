@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmpyf5pn), from the journal's own open
+  read in full 2026-10-31 ([NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md)), from the journal's own open
   copy at inflexions.org, HTML and PDF (20 pp.). This is the interview
-  that Massumi's Politics of Affect (LIT-tmpe2cnn) reprints as its second
+  that Massumi's Politics of Affect ([LIT-tmpe2cnn](LIT-tmpe2cnn.md)) reprints as its second
   chapter, and it carries, word for word, the definition of affect that
-  Bencherki, Brummans & Vézy (LIT-tmp3mudg) quote from that book. Worth
+  Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) quote from that book. Worth
   reading as the shortest statement of Massumi's account of affect,
   microperception and micropolitics.
 title: 'Of Microperception and Micropolitics: An Interview with Brian Massumi, 15 August 2008'
@@ -66,9 +66,9 @@ interview with Brian Massumi, 15 August 2008. *Inflexions: A Journal for
 Research-Creation*, 3 (Micropolitics: Exploring Ethico-Aesthetics),
 October 2009. https://www.inflexions.org/n3_massumihtml.html. Reprinted as
 "Of microperception and micropolitics", ch. 2 of Massumi, *Politics of
-Affect* (Polity, 2015), LIT-tmpe2cnn.
+Affect* (Polity, 2015), [LIT-tmpe2cnn](LIT-tmpe2cnn.md).
 
-Read in full in NOTE-tmpyf5pn.
+Read in full in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md).
 
 ## Key takeaways
 
@@ -96,7 +96,7 @@ Read in full in NOTE-tmpyf5pn.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) take their definition of affect
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) take their definition of affect
 from Massumi 2015, p. 48, which reprints this interview. They quote it on
 p. 1353: "a power to affect and be affected [that] governs a transition,
 where a body passes from one state of capacitation to a diminished or
@@ -116,7 +116,7 @@ On reading, the quotation is accurate and the use is partly faithful:
   to an augmented ability to act" (p. 1354).
 - **Direction.** Massumi's transition runs both ways, "diminished or
   augmented". The parent keeps only the augmenting direction for agency.
-  That is the parent's choice, not Massumi's account (THEORY-tmpcaccx).
+  That is the parent's choice, not Massumi's account ([THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)).
 - **Transmission.** The parent says that what "passes" or "is
   communicated" from one individuation to another is "excess action"
   (p. 1356). Massumi says affect "is not a content that can be
@@ -125,7 +125,7 @@ On reading, the quotation is accurate and the use is partly faithful:
   transmission (p. 1356), which narrows the gap, but its examples (an
   employee's indignation that "spills over into her inert colleagues", p.
   1354) read as transfer. Massumi's term for the shared case is
-  differential "affective attunement" (p. 6). See THEORY-tmpywwei.
+  differential "affective attunement" (p. 6). See [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md).
 - **Starting in the middle.** The parent's "start in the middle" (p. 1358)
   is cited to Manning 2013 and Massumi 2011; this interview states it
   directly (pp. 1, 3).

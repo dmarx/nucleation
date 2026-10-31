@@ -17,11 +17,11 @@ source:
 - LIT-tmpi0u4n
 - LIT-tmp8hcfz
 summary: >-
-  Massumi (2017), LIT-tmpi0u4n, p. 64, read in NOTE-tmpn58uh; anticipated
-  in the 2009 interview (LIT-tmp8hcfz, p. 12) as "a symbiosis: a
+  Massumi (2017), [LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 64, read in [NOTE-tmpn58uh](../notes.d/NOTE-tmpn58uh.md); anticipated
+  in the 2009 interview ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 12) as "a symbiosis: a
   cross-fertilization of capacitations". It is an aim, which Massumi grants
   "sounds utopic" and calls "always-as-yet unknowable". Bencherki et al.
-  (LIT-tmp3mudg, p. 1358) quote it exactly and use it to say what
+  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358) quote it exactly and use it to say what
   organizational becoming is constituted by.
 ---
 <!-- inactive-ok-file: THEORY-tmpcaccx THEORY-tmpywwei — Proposed; readings set beside this -->
@@ -30,9 +30,9 @@ summary: >-
 
 ## Source
 
-Massumi (2017), *The Principle of Unrest*, LIT-tmpi0u4n, p. 64, skimmed
-in NOTE-tmpn58uh. Earlier, Massumi & McKim (2009), LIT-tmp8hcfz, p. 12,
-read in NOTE-tmpyf5pn.
+Massumi (2017), *The Principle of Unrest*, [LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 64, skimmed
+in [NOTE-tmpn58uh](../notes.d/NOTE-tmpn58uh.md). Earlier, Massumi & McKim (2009), [LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 12,
+read in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md).
 
 ## What was actually shown
 
@@ -48,7 +48,7 @@ affirmation of discord". In 2009 the same aim is "not to resolve the
 tension through a choice, but to modulate it into a symbiosis" (p. 12).
 
 The record checked the quotation that Bencherki, Brummans & Vézy
-(LIT-tmp3mudg, p. 1358) give, and found it exact and on p. 64.
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358) give, and found it exact and on p. 64.
 
 ## What this does not say
 

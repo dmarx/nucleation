@@ -17,11 +17,11 @@ date: '2026-10-31'
 source:
 - LIT-tmp8hcfz
 summary: >-
-  Massumi (2009), LIT-tmp8hcfz, read in NOTE-tmpyf5pn, pp. 6 and 9: affect
+  Massumi (2009), [LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), read in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md), pp. 6 and 9: affect
   "is not a content that can be transported from one event to another
   ... an event logic, not a logic of transmission or communication", and
   there is "affective difference in the same event". This sits uneasily
-  with the "excess action" that Bencherki et al. (LIT-tmp3mudg) have
+  with the "excess action" that Bencherki et al. ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) have
   passing between individuation processes.
 ---
 <!-- inactive-ok-file: THEORY-tmpcaccx THEORY-tmpl13wj — Proposed; readings set beside this -->
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Massumi, interviewed by McKim, Inflexions 3 (2009), LIT-tmp8hcfz, pp. 6,
-9; read in NOTE-tmpyf5pn.
+Massumi, interviewed by McKim, Inflexions 3 (2009), [LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), pp. 6,
+9; read in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md).
 
 ## What was actually shown
 
@@ -54,7 +54,7 @@ will be responding differently together" (p. 6).
   only where "other factors must have been active to pre-channel
   tendencies" (p. 6).
 - **That the parent paper is wrong.** Bencherki, Brummans & Vézy
-  (LIT-tmp3mudg) also reject transmission. Communication for them is
+  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) also reject transmission. Communication for them is
   transduction, "the continuity of action through beings" (p. 1364).
   But their mechanism has one process taking up "the excess action of
   another" (p. 1351), with indignation that "spills over into her inert

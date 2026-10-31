@@ -4,7 +4,7 @@ status_note: >-
   registered 2026-10-31, not read. A copy of the published article (the
   JSTOR scan of Cultural Critique 31, pp. 83–109) sits on a faculty site,
   http://www.davidbardschwarz.com/pdf/massumi.pdf, a lawful copy under
-  ADR-064. A reprint as chapter 1 of Parables for the Virtual sits on a
+  [ADR-064](../decisions.d/ADR-064.md). A reprint as chapter 1 of Parables for the Virtual sits on a
   University of Tartu course page,
   https://sisu.ut.ee/wp-content/uploads/sites/172/massumi._the_autonomy_of_affect-1.pdf.
   On 2026-10-31 this session's permission system refused the download of
@@ -65,13 +65,13 @@ thesis that affect is autonomous of signification. These are not checked.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) cite it twice. "Affect is a
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) cite it twice. "Affect is a
 response to another's action on one's body, prior to one's attribution of
 meaning and signification to that action (Massumi, 1995)" (p. 1354).
 People try to work out how an action affects their individuation
 "un/intentionally, un/consciously, in/voluntarily, and so on (Massumi,
 1995)" (p. 1358). Both are paraphrases, not quotations, and could not be
-checked against the essay. The later interview (LIT-tmp8hcfz, read) agrees
+checked against the essay. The later interview ([LIT-tmp8hcfz](LIT-tmp8hcfz.md), read) agrees
 that affect comes before content and before the subject ("in the instant
 of the affective hit, there is no content yet", p. 5). It also warns
 against reading affect as between already-formed subjects, which "a

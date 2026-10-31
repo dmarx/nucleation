@@ -58,7 +58,7 @@ Durham, NC: Duke University Press. doi:10.1215/9780822395829.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) lean on it for four things,
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on it for four things,
 none of which could be checked:
 
 - "in-forms (i.e., gives shape to, see Manning, 2013)" (pp. 1354, 1357);
@@ -69,8 +69,8 @@ none of which could be checked:
 - that individuals and collectives are "always more than one" (p. 1366).
 
 "In-form" in the Simondonian sense is also used by Massumi
-(LIT-tmpi0u4n, pp. 121, 124), and "start in the middle" is in his 2009
-interview (LIT-tmp8hcfz, p. 3), so the parent's gloss is consistent with
+([LIT-tmpi0u4n](LIT-tmpi0u4n.md), pp. 121, 124), and "start in the middle" is in his 2009
+interview ([LIT-tmp8hcfz](LIT-tmp8hcfz.md), p. 3), so the parent's gloss is consistent with
 the circle it draws on. Whether Manning's page 29 carries the Simondon
 translation as quoted needs a copy. The record's own copy of Simondon is
-also missing (LIT-1648).
+also missing ([LIT-1648](LIT-1648.md)).

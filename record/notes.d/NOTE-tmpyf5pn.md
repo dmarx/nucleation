@@ -32,7 +32,7 @@ summary: >-
 
 A compact statement of Massumi's account of affect, given to Joel McKim
 on 15 August 2008 and printed in Inflexions 3 (2009). It became chapter 2
-of Politics of Affect (LIT-tmpe2cnn). It ties the Spinoza–Deleuze
+of Politics of Affect ([LIT-tmpe2cnn](../literature.d/LIT-tmpe2cnn.md)). It ties the Spinoza–Deleuze
 definition of affect to microperception, to "affective attunement"
 (after Daniel Stern), and to a micropolitics of modulating potential
 rather than imposing programmes.
@@ -120,15 +120,15 @@ Builds on Spinoza and Deleuze for the definition, Peirce for shock,
 Whitehead for negative prehension and contrast, James for the specious
 present and the terminus, Stern for affective attunement, Stengers for
 the "ecology of practices". It is the first printing of Politics of
-Affect, ch. 2 (LIT-tmpe2cnn). The Principle of Unrest (LIT-tmpi0u4n)
+Affect, ch. 2 ([LIT-tmpe2cnn](../literature.d/LIT-tmpe2cnn.md)). The Principle of Unrest ([LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md))
 develops the same micropolitics as "co-patterning".
 
 ## Bearing on the record
 
-- **THEORY-tmpkdsex** (Proposed) states the definition, sourced here.
-- **THEORY-tmpywwei** (Proposed) states that affect is reactivated, not
+- **[THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)** (Proposed) states the definition, sourced here.
+- **[THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)** (Proposed) states that affect is reactivated, not
   transmitted.
-- **LIT-tmp3mudg** (Bencherki, Brummans & Vézy) quotes p. 1 accurately via
+- **[LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)** (Bencherki, Brummans & Vézy) quotes p. 1 accurately via
   the 2015 reprint (pp. 47–48). Three departures, set out in the LIT:
   1. It presents the definition as Massumi's own, where he gives it as
      Spinoza's as taken up by Deleuze.
@@ -137,7 +137,7 @@ develops the same micropolitics as "co-patterning".
   3. Its "excess action" that "passes" between individuations sits
      uneasily with "not a logic of transmission".
 
-  This bears on THEORY-tmpcaccx and THEORY-tmp5ux44. The first is the
+  This bears on [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md) and [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md). The first is the
   paper's central claim; its source passage is accurate, but Massumi does
   not license the one-directional definition of agency. Massumi's
   "differential attunement" would be a better ground for the paper's
