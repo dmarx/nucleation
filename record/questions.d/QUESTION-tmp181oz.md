@@ -75,3 +75,18 @@ inputs, integration with other capacities, and correction by evidence.
 Then a system where they can be tracked over training ([QUESTION-275](QUESTION-275.md)'s
 setting), to see whether they arrive together or apart. The candidate
 term [TERM-tmp6c38c](../terms.d/TERM-tmp6c38c.md) would stand, split or be rejected on the result.
+
+## Note of 2026-10-31: a negative control
+
+At the owner's review, TERM-tmp6c38c version 2 took correctability out of
+the definition of a concept. Conceptual corrigibility is now a further
+achievement. The question's list of criteria keeps correction by evidence
+as one property to track. The term no longer treats it as a condition of
+being a concept.
+
+A study of this question should include a negative control: a
+representation that is transferable and conceptual by the other criteria,
+but that the system using it cannot revise, such as a frozen component
+reused across tasks. The record's working answer is that this is an
+incorrigible concept, not something that has stopped being a concept. A
+reason to answer otherwise would need to be shown.

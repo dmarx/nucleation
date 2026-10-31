@@ -111,14 +111,22 @@ rate constants 1 and [S] = 3. The results:
 - **At zero affinity** there is a single equilibrium, c = (3, 3), with no
   current and no extinct state.
 - **Bistability appears** only above about 3.52 RT of driving, that is
-  [W] < 0.0887.
+  [W] < 0.0887. This threshold belongs to this one reversible network
+  with these parameters. It is not a general threshold for chemical
+  bistability or for organizational maintenance.
 - **The case's equilibria**, (3 ∓ √5)/2, return only in the limit
   [W] → 0, the limit of infinite affinity.
 - **The maintained state costs** dissipation equal to current times
   affinity, J_ε A_ε: 29.77 at [W] = 0.01.
 
-So the case's maintenance and extinction are features of strong driving,
-not of the production graph alone. And maintenance that is "endogenous"
+- **There is no extinct state at finite affinity.** With [W] > 0 the
+  reverse of decay is a positive basal production, so the lower stable
+  equilibrium is a low-activity branch with positive capacity, not zero.
+  It approaches extinction only in the singular limit [W] → 0.
+
+So the case's maintained branch, and the collapse to a low-activity
+branch, are features of strong driving, not of the production graph
+alone. "Extinction" in the case is the infinite-affinity idealization. And maintenance that is "endogenous"
 relative to the organization lasts only while the reservoirs do. A
 chemostat is itself a finite-lived structure of a larger closed network,
 open for a time of order its abundance ratio ([THEORY-tmp1nk6k](../theory.d/THEORY-tmp1nk6k.md)).
@@ -131,8 +139,11 @@ a maintained regime is metastable.
 - **Lifetime.** It lasts a time exponential in size, set by a barrier in a
   quasi-potential computed from the dynamics, not by a free energy
   ([THEORY-tmpwystk](../theory.d/THEORY-tmpwystk.md), [THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md)).
-- **Before the fold.** The barrier closes as the 3/2 power of the distance
-  to the fold, so the lifetime collapses before the fold is reached.
+- **Near the fold.** The barrier closes as the 3/2 power of the distance
+  to the fold, so the hazard of escape rises steeply as the fold nears.
+  Whether an observed transition comes before the fold is not fixed by
+  that alone. It depends on system size, noise scale, how long the system
+  is observed and how fast the parameter is changed.
 - **Dissipation.** The production and decay terms here are irreversible,
   so they have no defined entropy production. To be paid for in
   stochastic-thermodynamic terms, every step needs a reverse step obeying
@@ -141,3 +152,12 @@ a maintained regime is metastable.
 Vellela and Qian's Schlögl model ([LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md)) is the chemical,
 stochastic counterpart of this case, as [CASE-111](CASE-111.md) is its deterministic
 predecessor.
+
+Three claims are to be kept apart:
+1. a deterministic saddle-node exists in the limiting model;
+2. a finite stochastic system can escape its metastable regime before
+   that saddle-node;
+3. where the transition is observed depends on the finite-time protocol.
+
+The constructions establish the first. The stochastic readings establish
+the second. The third is a matter of the experiment's design.

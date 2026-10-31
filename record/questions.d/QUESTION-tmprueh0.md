@@ -45,3 +45,62 @@ one it classifies as replacement, and the reason the history of
 authorization decides between them. [QUESTION-118](QUESTION-118.md)'s successor relations are
 the collective analogue; [CLAIM-344](../claims.d/CLAIM-344.md)'s resolve, which keeps the capacity to
 revise a commitment, is the nearest held account of what must persist.
+
+## Note of 2026-10-31: legibility, volitional efficacy and correctability (a synthesis, not a claim)
+
+From the owner's review of the filing. Recorded as a synthesis linking
+held entries, not as a new claim.
+
+For an agent facing a normatively relevant discrepancy, three distinct
+things must happen:
+- **Legibility.** The discrepancy becomes recognizable (TERM-064).
+- **Volitional efficacy.** A corresponding demand can influence action,
+  through the agent's will-organization (TERM-023).
+- **Correctability.** An appropriate revision can be carried out, within
+  deadline and resources (TERM-085).
+
+None of them establishes that the demand or the revision is justified.
+Call the realized ability of a normatively relevant distinction to affect
+an organization's behaviour or governing standards its **normative
+efficacy**. It can fail along any of the three paths. That is why an
+agent can be sincere, well informed and able to act, and still fail to act
+on a commitment.
+
+In the terms of CLAIM-tmpg69cm, separate:
+- 𝓗_exec(O, W, Λ; B, T), the histories the agent can realize through its
+  actual organization O, will-organization W and legibility apparatus Λ,
+  under budget B and horizon T;
+- 𝓗_N, the histories that satisfy an independently specified standard N.
+
+Their intersection is the set of norm-satisfying histories available to
+the agent as it actually is. Two cautions:
+- **A nonempty intersection does not show the agent will choose such a
+  history.**
+- **An empty intersection does not show the agent is beyond criticism.**
+  Its earlier actions may have destroyed the capacities required. An
+  intervention can make its own correction costlier or unreachable
+  (CLAIM-464).
+
+That last point ties historical responsibility to the record's
+resource-bounded account of future possibilities (CLAIM-475). Resolve, on
+CLAIM-344's account, is what keeps a commitment effective through changes
+that do not defeat it, while keeping it revisable by those that do.
+
+## Note of 2026-10-31: historically situated corrective authority
+
+Also from the owner's review. Two organizations can have the same present
+decision procedures and make the same decisions while differing in how
+those procedures were authorized. CASE-128 is the basic case: voluntary
+precommitment against imposed restriction.
+
+This question asks how authorization persists, or fails to persist,
+through transformations of the very standards used to judge authorization.
+Identifying the process now effective cannot settle that, and neither can
+showing that the process is maintained internally (CLAIM-tmpr8p2x).
+Three things are distinct:
+
+  endogenous governance ≠ historically continuous authorization ≠
+  legitimate authority.
+
+The owner judged this possibly the most important remaining connection
+between the record's account of will and its account of normativity.

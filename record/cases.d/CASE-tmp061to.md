@@ -1,7 +1,19 @@
 ---
 status: Active
 title: 'A proposed study: an organization in a world whose hidden regime reverses and then leaves its hypothesis family, with evidence generation, admission and scoring separately lesionable, its diagnostic machinery maintained by its own reciprocal production, from outside, or not at all, and finite fuel shared among operation, maintenance and diagnosis, to find whether a second correction after injury to the diagnostic and copying machinery separates arrangements that correct the first failure alike'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    At the owner's review. The single conditional endpoint C₂ is replaced
+    by P(S₁ ∧ S₂) and P(S₂ | S₁), both preregistered, since conditioning
+    on first-stage success selects different organizations across arms.
+    A branch is added that starts every arm from a matched, successfully
+    corrected first-stage state. Detecting the failure of an
+    environmental hypothesis is separated from detecting the failure of
+    the diagnostic apparatus itself, which gets its own lesion and
+    endpoint.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -142,11 +154,37 @@ router, no audit, and external repair. "The router must receive exactly
 the information and resources received by the organizational
 controller", the standard [CASE-158](CASE-158.md) set.
 
-**Primary endpoint.** C₂(B, T): the probability that, after a first
-correction, the organization finds a new discrepancy within T, carries out
-an admissible correction within budget B, and ends with its diagnostic and
-reconstructive apparatus still viable. It is measured on a standardized
-second challenge, on fresh, held-out streams.
+**Primary endpoints, both preregistered.** Let S₁ be a successful first
+correction. Let S₂ be a successful second correction: the organization
+finds a new discrepancy within T, carries out an admissible correction
+within budget B, and ends with its diagnostic and reconstructive
+apparatus still viable. S₂ is measured on a standardized second
+challenge, on fresh, held-out streams.
+- **P(S₁ ∧ S₂)**: the probability of completing the whole challenge.
+- **P(S₂ | S₁)**: the conditional persistence of corrective ability. It is
+  not causal on its own. If the arms pass the first stage at different
+  rates, the survivors compared at the second are differently selected
+  organizations.
+
+**A matched-first-stage branch.** To isolate what the maintenance
+architecture contributes, a separate branch places every arm in a matched,
+successfully corrected first-stage state before the second lesion. The
+state is matched on beliefs, apparatus integrity, fuel and allocation.
+Comparing arms on S₂ in this branch removes selection at the first stage.
+Where the arms' own first-stage states cannot be matched without changing
+the architecture under test, the study reports that and does not claim a
+causal effect.
+
+**Two kinds of failure to detect.** The study scores separately:
+- the failure of an environmental hypothesis, where the world has changed
+  and the apparatus sees it;
+- the failure of the diagnostic apparatus itself, where the apparatus has
+  been damaged or captured and has to find that out.
+
+The second is the more demanding, reflexive form of legibility. It needs
+its own lesion, an undisclosed damage to the generate, admit or score
+operation, and its own endpoint: the probability that the organization
+flags its own apparatus as unreliable before acting on its output.
 
 **Secondary endpoints**, reported separately and not as a composite:
 - detection delay and false alarms;
@@ -163,8 +201,10 @@ second challenge, on fresh, held-out streams.
 - **Internal and external restoration are alike normally but diverge after
   producer-specific lesions.** Their causal difference is real
   ([CLAIM-tmpr8p2x](../claims.d/CLAIM-tmpr8p2x.md)).
-- **The first correction succeeds and the second fails.** Correction is
-  not recursive correctability.
+- **The first correction succeeds and the second fails, in the
+  matched-first-stage branch.** Correction is not recursive
+  correctability, and the difference is the architecture's, not
+  selection's.
 - **The router matches or beats the organizational controller.** The
   richer mechanism has earned no extra explanation.
 - **Familiar reversals are caught and out-of-family change is missed.**

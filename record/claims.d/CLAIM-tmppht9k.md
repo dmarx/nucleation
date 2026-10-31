@@ -70,7 +70,9 @@ property from coupling-based individuation".
   anyway is [THEORY-136](../theory.d/THEORY-136.md)'s and [THEORY-214](../theory.d/THEORY-214.md)'s point.
 - **That the coupling lasts to the fold in a finite system.** The fold is a
   deterministic, infinite-size statement. In a finite system the
-  maintained regime is metastable, and the coupling is lost at the escape
-  time. That comes before the fold, since the barrier closes as the
-  distance to the fold to the power 3/2 ([THEORY-tmpwystk](../theory.d/THEORY-tmpwystk.md)). The
-  dissociation holds for as long as the regime does.
+  maintained regime is metastable, and the coupling is lost when the
+  regime is, at the escape time. The barrier closes as the distance to the
+  fold to the power 3/2 (THEORY-tmpwystk), so the hazard of escape rises as
+  the fold nears. Whether the loss is observed before the fold depends on
+  size, noise, the observation horizon and how fast the parameter moves.
+  The dissociation holds for as long as the regime does.

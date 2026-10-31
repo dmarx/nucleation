@@ -1,7 +1,17 @@
 ---
 status: Proposed
-title: 'The diachronic relatum faces a dilemma: read narrowly it fails for judgments not about any organization''s continuation, such as that suffering is bad; read broadly every judgment can be redescribed as a preference between continuations, so it is met vacuously unless the organizational description adds causal specificity, transfer across contexts or counterfactual discrimination'
-version: 1
+title: 'The diachronic thesis faces two objections: a dilemma, that read narrowly it fails for judgments not about any organization''s continuation, such as that suffering is bad, and read broadly every judgment is met vacuously as a preference between continuations unless the organizational description adds causal specificity, transfer or counterfactual discrimination; and a distinction, that evaluating a history is not prescribing its continuation, so a judgment can be determinate with no future transformation fixed'
+version: 2
+history:
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    Widened at the owner's review: the distinction between evaluating a
+    history and prescribing its continuation is added. The thesis it
+    objects to was narrowed in response and no longer requires a
+    prescribed transformation, so this second objection is answered by
+    concession. The dilemma stands, unanswered, against the narrowed thesis's
+    scope.
 role: counter
 warrant: interpretive
 tags:
@@ -21,7 +31,7 @@ summary: >-
   A27's three tests are the form an answer would take.
 ---
 
-# CLAIM-tmp1l3am: The diachronic relatum faces a dilemma: read narrowly it fails for judgments not about any organization's continuation, such as that suffering is bad; read broadly every judgment can be redescribed as a preference between continuations, so it is met vacuously unless the organizational description adds causal specificity, transfer across contexts or counterfactual discrimination
+# CLAIM-tmp1l3am: The diachronic thesis faces two objections: a dilemma, that read narrowly it fails for judgments not about any organization's continuation, such as that suffering is bad, and read broadly every judgment is met vacuously as a preference between continuations unless the organizational description adds causal specificity, transfer or counterfactual discrimination; and a distinction, that evaluating a history is not prescribing its continuation, so a judgment can be determinate with no future transformation fixed
 
 ## The objection
 
@@ -34,6 +44,18 @@ rather than fix it.
 **Broad horn.** If any difference between possible histories counts as a
 change in some organization, every judgment has a diachronic relatum
 trivially, and [CLAIM-tmpg69cm](CLAIM-tmpg69cm.md) says nothing [CLAIM-363](CLAIM-363.md)'s standard did not.
+
+## The second objection: evaluation is not prescription
+
+A judgment that something went wrong need not say what should be done
+about it. "This institution violated its agreement" is fully determinate
+without fixing whether the institution should reform, compensate,
+dissolve or keep anything. Evaluating a history, J_N(γ), can be
+determinate while its admissible continuations, 𝒜_N(γ), are not. Version 1
+of the thesis made the second a condition of the first. That was the
+owner's objection at review, and the thesis was narrowed to meet it. It
+now claims only that some judgments need diachronic relations, and treats
+prescription as a further question.
 
 ## What an answer would need
 

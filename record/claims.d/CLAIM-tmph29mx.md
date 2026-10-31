@@ -1,7 +1,20 @@
 ---
 status: Proposed
-title: 'Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly, so ascribing a world model is an explanation of the behaviour, and it names a realized mechanism only where compression, generalization beyond the interface or intervention on internals shows one'
-version: 1
+title: 'Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions'
+version: 2
+history:
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    At the owner's review. Version 1 said compression, generalization or
+    intervention on internals can show a realized mechanism. Exceptional
+    compression and generalization favour a model-based explanation over a
+    particular lookup-table explanation. They do not identify the internal
+    architecture, since many compact controllers are not explicit
+    generative world models. The title and the evidence list now separate
+    a policy identifying predictive structure, where Richens et al.'s
+    result (CLAIM-tmp4htg4) belongs, from a particular component realizing
+    it, which needs evidence that discriminates implementations.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-092 QUESTION-086 — Proposed or Open; Block's argument and the question of endogenous revision, cited as open -->
 
-# CLAIM-tmph29mx: Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly, so ascribing a world model is an explanation of the behaviour, and it names a realized mechanism only where compression, generalization beyond the interface or intervention on internals shows one
+# CLAIM-tmph29mx: Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions
 
 ## The claim
 
@@ -69,22 +82,33 @@ the owner's U20 point. Brooks's robots are the standing example that
 competent action can run on the world as "its own best model"
 ([THEORY-689](../theory.d/THEORY-689.md)).
 
-The ascription can still name something real, and the claim says when.
-Three kinds of evidence go beyond the interface:
+Two things must be kept apart:
 
-- **Compression.** The table grows with the number of histories, and a
-  model can be exponentially smaller. Where resources are bounded, as in
-  every physical agent, matched competence under a resource bound can
-  favour the model ([THEORY-624](../theory.d/THEORY-624.md) casts this as model comparison
-  relative to a prior).
+  policy identifies predictive structure  ⇏  a particular internal
+  component realizes it.
+
+Richens et al.'s result belongs on the left (CLAIM-tmp4htg4). Mechanistic
+identification belongs on the right. The evidence for each differs.
+
+- **Compression.** A table grows with the number of histories, and a model
+  can be exponentially smaller. Where resources are bounded, as in every
+  physical agent, matched competence under a resource bound can favour a
+  model-based explanation (THEORY-624 casts this as model comparison
+  relative to a prior). It favours that explanation over a particular
+  table. It does not identify the architecture: many compact controllers
+  are not explicit generative world models.
 - **Generalization beyond what the implementation was built to cover.**
-  A model can serve new objectives or new horizons without relearning. A
-  table cannot go beyond its domain. A table whose domain already includes
-  the goals generalizes across them, so generalization within the covered
+  A model can serve new objectives or new horizons without relearning, and
+  a table cannot go beyond its domain. This too supports comparing
+  architectures, and no more. A table whose domain already includes the
+  goals generalizes across them, so generalization within the covered
   family does not discriminate.
-- **Intervention on internals.** Altering a component and finding the
-  behaviour change as a predictive model's would. Matched trajectories
-  conceal differences that intervention exposes ([CLAIM-414](CLAIM-414.md)).
+- **Evidence that discriminates implementations.** Establishing an internal
+  mechanism needs observations that candidate implementations, matched in
+  behaviour, predict differently. Targeted interventions on internals are
+  the main source: alter a component and find the behaviour change as a
+  predictive model's would, and not as the rivals' would. Matched
+  trajectories conceal differences that intervention exposes (CLAIM-414).
 
 ## What it does not say
 
