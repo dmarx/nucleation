@@ -24,9 +24,9 @@ grounds:
 - THEORY-tmp07kll
 - THEORY-tmpg84fa
 summary: >-
-  From the reading of Richens, Abel, Bellot and Everitt (LIT-tmplzs0t,
-  NOTE-tmp6gc1w), registered as the objection to watch against the owner's
-  U20 thesis CLAIM-tmph29mx. It defeats that thesis's functional reading
+  From the reading of Richens, Abel, Bellot and Everitt ([LIT-tmplzs0t](../literature.d/LIT-tmplzs0t.md),
+  [NOTE-tmp6gc1w](../notes.d/NOTE-tmp6gc1w.md)), registered as the objection to watch against the owner's
+  U20 thesis [CLAIM-tmph29mx](CLAIM-tmph29mx.md). It defeats that thesis's functional reading
   only. The thesis's defeated_if is not met: the theorem holds "regardless
   of ... architecture", makes no matched-resource comparison and no
   intervention on internals, and its authors say the map runs "from the
@@ -42,12 +42,12 @@ summary: >-
 Richens et al.'s reduction uses either-or goals. One goal is at most k
 successes of a transition (s, a) → s′ in n tries; the other is more than
 k. A competent agent's first action locates the binomial median, and the
-k at which its choice switches fixes P (THEORY-tmp07kll). So the
+k at which its choice switches fixes P ([THEORY-tmp07kll](../theory.d/THEORY-tmp07kll.md)). So the
 attribution is determined by the policy. This is unlike a Savage-style
 fit, which exists even for a random policy, and unlike Orseau et al.'s
-verdict, which is relative to a prior (THEORY-624).
+verdict, which is relative to a prior ([THEORY-624](../theory.d/THEORY-624.md)).
 
-Within that scope, CLAIM-tmph29mx's "ascribing a world model is an
+Within that scope, [CLAIM-tmph29mx](CLAIM-tmph29mx.md)'s "ascribing a world model is an
 explanation of the behaviour" is too weak. The world model is a
 measurable property of the goal-conditioned disposition, though not of
 any finite run.
@@ -56,7 +56,7 @@ It also corrects one item in the thesis's list of evidence that goes
 beyond the interface. Generalization across goals does not discriminate a
 table from a model when the table's domain includes the goals. Such a
 table is competent in the theorem's sense and yields the same world model
-(THEORY-tmpg84fa).
+([THEORY-tmpg84fa](../theory.d/THEORY-tmpg84fa.md)).
 
 ## What it does not say
 

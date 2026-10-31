@@ -37,14 +37,14 @@ A4 set out three relations, kept here:
 | relation | status |
 |---|---|
 | SGD converges to a minimum, the MAP estimate under a flat prior | standard |
-| constant-step SGD's stationary distribution approximates a posterior for a fixed dataset, under a locally quadratic loss and constant noise (LIT-tmpwzrx7, LIT-tmpxo5z5) | shown, near a minimum with positive-definite Hessian, so in one basin where the posterior has no phases; what is matched is the noise scale ε/S to 1/N (THEORY-tmp7gcht) |
-| SGD's transient over training time reproduces the posterior's transitions over sample size | "not established"; a partial datum below (THEORY-tmpzcsl4) |
+| constant-step SGD's stationary distribution approximates a posterior for a fixed dataset, under a locally quadratic loss and constant noise ([LIT-tmpwzrx7](../literature.d/LIT-tmpwzrx7.md), [LIT-tmpxo5z5](../literature.d/LIT-tmpxo5z5.md)) | shown, near a minimum with positive-definite Hessian, so in one basin where the posterior has no phases; what is matched is the noise scale ε/S to 1/N ([THEORY-tmp7gcht](../theory.d/THEORY-tmp7gcht.md)) |
+| SGD's transient over training time reproduces the posterior's transitions over sample size | "not established"; a partial datum below ([THEORY-tmpzcsl4](../theory.d/THEORY-tmpzcsl4.md)) |
 
 The record already holds the second row's neighbours: Kunin et al.'s
-modified-loss Gibbs distribution (THEORY-209) and the stationary Gaussian of
-underdamped Langevin SGD (THEORY-779). The only correspondence between
+modified-loss Gibbs distribution ([THEORY-209](../theory.d/THEORY-209.md)) and the stationary Gaussian of
+underdamped Langevin SGD ([THEORY-779](../theory.d/THEORY-779.md)). The only correspondence between
 examples processed and sample size in the readings is iterate averaging,
-in a regular model in one basin after equilibration (THEORY-tmp8ggnh). The
+in a regular model in one basin after equilibration ([THEORY-tmp8ggnh](../theory.d/THEORY-tmp8ggnh.md)). The
 third row is the question.
 
 **What the readings found (2026-10-31).**
@@ -61,12 +61,12 @@ third row is the question.
   order. But SGD trained on 1,000 samples skips the 6-gon, which the
   posterior has favoured since n ≈ 600, and ends at the 5- or 5⁺-gon. No
   single map from training time to sample size makes training end where
-  the posterior at its own sample size is (THEORY-tmpzcsl4, recomputed).
+  the posterior at its own sample size is ([THEORY-tmpzcsl4](../theory.d/THEORY-tmpzcsl4.md), recomputed).
 - **Hennick and De Baerdemacker's tempering is a temperature.** Their
   steady state is the posterior at an effective sample size set by the
   noise, and only within a region of constant effective diffusion. The
   weights between regions, where "accessibility" would act, are not
-  derived (THEORY-tmpe0idn). Their theory excludes phase transitions.
+  derived ([THEORY-tmpe0idn](../theory.d/THEORY-tmpe0idn.md)). Their theory excludes phase transitions.
 
 So the maps the readings supply run from noise scale to sample size, not
 from training time to sample size. Of the title's three candidates:

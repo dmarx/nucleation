@@ -11,13 +11,13 @@ source:
 - LIT-tmplzs0t
 - LIT-642
 summary: >-
-  Richens, Abel, Bellot and Everitt (2025), LIT-tmplzs0t, read in
-  NOTE-tmp6gc1w. The paper says its recovery map is "from the agent's
+  Richens, Abel, Bellot and Everitt (2025), [LIT-tmplzs0t](../literature.d/LIT-tmplzs0t.md), read in
+  [NOTE-tmp6gc1w](../notes.d/NOTE-tmp6gc1w.md). The paper says its recovery map is "from the agent's
   policy rather than its activations", that this is "strictly weaker",
   and that it shows "a world model encoded in the agent's policy, not its
   specific use"; it contrasts itself with Savage, whose fit exists even
   for a random policy. That the result applies to Block's lookup table
-  (LIT-642) is immediate from Def. 5, which constrains only the map.
+  ([LIT-642](../literature.d/LIT-642.md)) is immediate from Def. 5, which constrains only the map.
   Active: the paper's own statements plus a one-line corollary. It does
   not say whether a compact implementation must have a separable
   predictive part.
@@ -28,9 +28,9 @@ summary: >-
 
 ## Source
 
-Richens, Abel, Bellot and Everitt (2025), LIT-tmplzs0t, §§2.5, 3, 5 and
-footnote 1 (pp. 4–8); read in NOTE-tmp6gc1w. The lookup table is Block's
-(LIT-642, THEORY-092).
+Richens, Abel, Bellot and Everitt (2025), [LIT-tmplzs0t](../literature.d/LIT-tmplzs0t.md), §§2.5, 3, 5 and
+footnote 1 (pp. 4–8); read in [NOTE-tmp6gc1w](../notes.d/NOTE-tmp6gc1w.md). The lookup table is Block's
+([LIT-642](../literature.d/LIT-642.md), [THEORY-092](THEORY-092.md)).
 
 ## What was actually shown
 
@@ -46,10 +46,10 @@ utility to any coherent policy: "we may be able to assign a specific world
 model and utility function to a purely random policy ... but this clearly
 does not imply that learning a world model is necessary" (p. 8). Theorem
 1's P̂ is fixed by the policy to within its error bound
-(THEORY-tmp07kll). Two observers with different priors cannot read off
+([THEORY-tmp07kll](THEORY-tmp07kll.md)). Two observers with different priors cannot read off
 different transition functions. So within the theorem's scope, ascribing
 a world model is not a choice of stance in the way Orseau et al.'s
-agent-or-device verdict is prior-relative (THEORY-624).
+agent-or-device verdict is prior-relative ([THEORY-624](THEORY-624.md)).
 
 **Not a mechanism.** The map is "from the agent's policy rather than its
 activations. This is strictly weaker (as the policy is a function of the
@@ -81,4 +81,4 @@ theorem distinguishes it from a planner with an explicit model.
   criterion; it does not show they could not locate a model in a given
   agent.
 - **Anything beyond its scope.** Full observation, finite stationary
-  communicating environments, deterministic policies (THEORY-tmp07kll).
+  communicating environments, deterministic policies ([THEORY-tmp07kll](THEORY-tmp07kll.md)).

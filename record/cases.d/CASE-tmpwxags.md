@@ -98,7 +98,7 @@ substrates are assumed available, and the production terms are not yet
 paid for thermodynamically. A13 said that a positive production rate is
 not yet a realizable mechanism, and Rao and Esposito make it exact: in an
 open, reversible mass-action network, sustained currents need an emergent
-cycle with nonzero affinity (LIT-tmpj1wfs, THEORY-tmplh6oa). A12's "viability kernel" over
+cycle with nonzero affinity ([LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md), [THEORY-tmplh6oa](../theory.d/THEORY-tmplh6oa.md)). A12's "viability kernel" over
 every disturbance is Aubin's invariance kernel, not the viability kernel
 [THEORY-134](../theory.d/THEORY-134.md) defines.
 
@@ -121,4 +121,4 @@ So the case's maintenance and extinction are features of strong driving,
 not of the production graph alone. And maintenance that is "endogenous"
 relative to the organization lasts only while the reservoirs do. A
 chemostat is itself a finite-lived structure of a larger closed network,
-open for a time of order its abundance ratio (THEORY-tmp1nk6k).
+open for a time of order its abundance ratio ([THEORY-tmp1nk6k](../theory.d/THEORY-tmp1nk6k.md)).

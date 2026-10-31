@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmpjhivv); worth reading as the short
+  read in full 2026-10-31 ([NOTE-tmpjhivv](../notes.d/NOTE-tmpjhivv.md)); worth reading as the short
   statement of graded robust safety: under a bounded input disturbance a
   barrier-function controller keeps the state not in the safe set but in
   a set enlarged by a class-K function of the disturbance, and a damping
   term along the barrier's input direction delivers this with an
-  enlargement of ‖d‖²/(4ε) (THEORY-tmpmq3g1). It is not the robust box
-  invariance CASE-tmpz9u5t certifies, which is THEORY-134's.
+  enlargement of ‖d‖²/(4ε) ([THEORY-tmpmq3g1](../theory.d/THEORY-tmpmq3g1.md)). It is not the robust box
+  invariance [CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md) certifies, which is [THEORY-134](../theory.d/THEORY-134.md)'s.
 title: 'Input-to-State Safety With Control Barrier Functions'
 version: 2
 history:
@@ -63,19 +63,19 @@ summary: >-
 
 Kolathaya, S., & Ames, A. D. (2019). Input-to-state safety with control barrier functions. *IEEE Control Systems Letters*, 3(1), 108–113.
 
-Read in full in NOTE-tmpjhivv.
+Read in full in [NOTE-tmpjhivv](../notes.d/NOTE-tmpjhivv.md).
 
 ## Why this is here
 
 The one control-theory work the exchange gave an identifier for, when the
 owner said at U17 "I bet control theory has a bunch of tools that would be
 useful to us". A17 used barrier certificates for the viable boxes of its
-constructions (CASE-tmpz9u5t). The record's nearest tools are Aubin's
-viability theory (THEORY-134) and contraction under singular perturbation
-(THEORY-771). The reading separates two things the case runs together. The
+constructions ([CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md)). The record's nearest tools are Aubin's
+viability theory ([THEORY-134](../theory.d/THEORY-134.md)) and contraction under singular perturbation
+([THEORY-771](../theory.d/THEORY-771.md)). The reading separates two things the case runs together. The
 case's certificate shows each box face's inward margin exceeds the
 disturbance bound. That is robust invariance of the box itself, which is
 viability. ISSf is the graded guarantee for disturbances beyond the
-margin: the state leaves the box, but only by γ(‖d‖) (THEORY-tmpmq3g1).
+margin: the state leaves the box, but only by γ(‖d‖) ([THEORY-tmpmq3g1](../theory.d/THEORY-tmpmq3g1.md)).
 The topic vocabulary has no word for control theory; that is left to the
 owner.

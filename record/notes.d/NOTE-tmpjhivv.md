@@ -127,11 +127,11 @@ exponential-CBF version with gains k_p, k_d (eq. 37).
 - Sontag's ISS and universal formula are the templates (Theorem 2
   follows Sontag 1989's k(x) − L_g Vᵀ).
 - In the record, forward invariance of a constraint set is viability's
-  invariance (THEORY-134): a barrier inequality is a Nagumo tangency
+  invariance ([THEORY-134](../theory.d/THEORY-134.md)): a barrier inequality is a Nagumo tangency
   condition made quantitative. ISSf adds a statement about what happens
   when the tangency condition is violated by a bounded disturbance: the
   state leaves C but by a bounded amount. Contraction under singular
-  perturbation (THEORY-771) is the stability-side analogue of the same
+  perturbation ([THEORY-771](../theory.d/THEORY-771.md)) is the stability-side analogue of the same
   ISS template.
 
 ## Bearing on the record
@@ -141,17 +141,17 @@ exponential-CBF version with gains k_p, k_d (eq. 37).
   The enlargement is a class-K function γ of ‖d‖∞, measured in units of h
   rather than distance, and in the paper's own construction it is
   quadratic, ‖d‖²/(4ε) (or ι/λ for an exponential CBF).
-- **CASE-tmpz9u5t** says "Barrier certificates of this kind are Kolathaya
+- **[CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md)** says "Barrier certificates of this kind are Kolathaya
   and Ames's". That is loose. The case's box certificate checks that every
   face's inward margin exceeds the disturbance bound (margins +0.16 to
   +0.568 against disturbances of 0.02 for u and v). That is robust forward
   invariance of the box itself, a Nagumo or nominal barrier condition with
-  a disturbance margin, and it is THEORY-134's notion. ISSf is the
+  a disturbance margin, and it is [THEORY-134](../theory.d/THEORY-134.md)'s notion. ISSf is the
   different, weaker guarantee for when the disturbance can exceed the
   margin: the state may leave the box, but only into a set enlarged by
   γ(‖d‖). The case would gain from ISSf exactly where its certificate
   stops, for degradations beyond the stated bounds. The citation should
-  read "robust invariance of the box (THEORY-134); Kolathaya and Ames's
+  read "robust invariance of the box ([THEORY-134](../theory.d/THEORY-134.md)); Kolathaya and Ames's
   ISSf is the graded version that would apply beyond the margin".
 - **Topic.** The letter is control theory. Under the current vocabulary
   mathematics is the right primary tag; complex-systems is weak. The

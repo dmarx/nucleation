@@ -9,8 +9,8 @@ date: '2026-10-31'
 source:
 - LIT-tmplzs0t
 summary: >-
-  Richens, Abel, Bellot and Everitt (2025), LIT-tmplzs0t, Theorems 1
-  and 2, read in NOTE-tmp6gc1w. The reduction offers the agent a choice
+  Richens, Abel, Bellot and Everitt (2025), [LIT-tmplzs0t](../literature.d/LIT-tmplzs0t.md), Theorems 1
+  and 2, read in [NOTE-tmp6gc1w](../notes.d/NOTE-tmp6gc1w.md). The reduction offers the agent a choice
   between "at most k successes of a transition in n attempts" and "more
   than k"; its switch point locates the binomial median. The final bound
   was re-derived and checked numerically against an adversarial
@@ -24,9 +24,9 @@ summary: >-
 
 ## Source
 
-Richens, Abel, Bellot and Everitt (2025), LIT-tmplzs0t, Theorem 1 (pp. 4,
+Richens, Abel, Bellot and Everitt (2025), [LIT-tmplzs0t](../literature.d/LIT-tmplzs0t.md), Theorem 1 (pp. 4,
 17–20), Lemma 6 (p. 16) and Theorem 2 (pp. 5, 20–21) of arXiv
-2506.01622v5; read in NOTE-tmp6gc1w.
+2506.01622v5; read in [NOTE-tmp6gc1w](../notes.d/NOTE-tmp6gc1w.md).
 
 ## What was actually shown
 
@@ -75,7 +75,7 @@ pins the switch.
   The authors say "Theorem 1 proves the existence of a world model encoded
   in the agent's policy, not its specific use (e.g. for planning)" (p. 7).
   A lookup table over (history, goal) that reproduces a δ-bounded policy
-  satisfies the theorem just as well (THEORY-tmpg84fa).
+  satisfies the theorem just as well ([THEORY-tmpg84fa](THEORY-tmpg84fa.md)).
 - **Anything about a single task.** Competence at one fixed goal, or at
   one-step goals, fixes nothing about P (Theorem 2). The family of goals
   carries the result.

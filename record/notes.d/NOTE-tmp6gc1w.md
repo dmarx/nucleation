@@ -161,7 +161,7 @@ up to 1/(2n), negligible at large n.
 
 ## Connections
 
-- Brooks 1991 (LIT-436, THEORY-689) is the paper's named foil: "the world
+- Brooks 1991 ([LIT-436](../literature.d/LIT-436.md), [THEORY-689](../theory.d/THEORY-689.md)) is the paper's named foil: "the world
   is its own best model" (p. 1). The theorem does not touch Brooks's
   architectural point, that the robot has no central representation; it
   says that a Brooks robot competent across a rich enough goal family
@@ -179,13 +179,13 @@ up to 1/(2n), negligible at large n.
   interventional consistency "risks circular reasoning".
 - Richens & Everitt 2024 is the domain-generalization companion (causal
   world models from robustness to distribution shift). Kenton et al.
-  (LIT-909) shares authors and the interventional view of agency; Abel
-  et al. (LIT-969) shares an author and the frame-relativity of agency,
+  ([LIT-909](../literature.d/LIT-909.md)) shares authors and the interventional view of agency; Abel
+  et al. ([LIT-969](../literature.d/LIT-969.md)) shares an author and the frame-relativity of agency,
   which this paper does not take up.
 
 ## Bearing on the record
 
-- **CLAIM-tmph29mx, the owner's U20 thesis.** It does not defeat the
+- **[CLAIM-tmph29mx](../claims.d/CLAIM-tmph29mx.md), the owner's U20 thesis.** It does not defeat the
   thesis as stated; it defeats one reading the thesis already disowns,
   and it corrects one of the thesis's three kinds of evidence.
   - *The defeated_if is not met.* That condition asks for "an internally
@@ -210,7 +210,7 @@ up to 1/(2n), negligible at large n.
     a different stance could withhold. The transition function is
     identifiable from the goal-conditioned input-output map, uniquely to
     within ε. That differs from Savage-type fits and from Orseau et al.'s
-    prior-relative verdicts (THEORY-624). On this reading the "folk
+    prior-relative verdicts ([THEORY-624](../theory.d/THEORY-624.md)). On this reading the "folk
     explanatory tool" wording is too weak. The attribution is a
     measurable property of the behavioural disposition, though not of any
     finite run of behaviour.
@@ -229,14 +229,14 @@ up to 1/(2n), negligible at large n.
     or myopic agent need encode nothing about P. So on the thesis's own
     setup the theorem does not apply; it applies once the interface is
     widened to a family of goals. The functional reading deserves a
-    counter of its own, objecting to CLAIM-tmph29mx; this reading does
+    counter of its own, objecting to [CLAIM-tmph29mx](../claims.d/CLAIM-tmph29mx.md); this reading does
     not file it.
-- **THEORY-092 (Block).** Consistent. Block's machine is the table the
+- **[THEORY-092](../theory.d/THEORY-092.md) (Block).** Consistent. Block's machine is the table the
   theorem applies to. The theorem supplies a precise sense in which
   Block's machine, if it covered a goal family, would "contain" a world
   model, and says nothing about whether it has intelligence or how its
   responses are produced.
-- **THEORY-689 (Brooks).** Not contradicted. Brooks's robots have three
+- **[THEORY-689](../theory.d/THEORY-689.md) (Brooks).** Not contradicted. Brooks's robots have three
   fixed layers, not goal-conditioned policies over an LTL family.
 - **An instruction for ML practice is present**: train on sufficiently
   diverse multi-step goals, prefer model-based architectures, extract
@@ -263,7 +263,7 @@ up to 1/(2n), negligible at large n.
 - Is there a resource lower bound to go with Theorem 1: does any
   implementation meeting Def. 5 on a large enough goal family need memory
   close to that of P itself rather than of a table? That would turn the
-  informational result into the compression evidence CLAIM-tmph29mx asks
+  informational result into the compression evidence [CLAIM-tmph29mx](../claims.d/CLAIM-tmph29mx.md) asks
   for.
 - Under partial observation, what must be recoverable: a predictive state
   representation, a belief model, or less?

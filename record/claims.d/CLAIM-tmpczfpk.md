@@ -78,6 +78,6 @@ the knockout leaves each Pᵢ vanishing as its remaining parents do.
   of catalytic influence. Catalysts cancel out of the stoichiometric
   matrix, so a cycle of mutual catalytic production is not a cycle in the
   reaction network's kernel; steady currents run on fuel-to-waste cycles
-  (THEORY-tmp05y8u). Mossio, Montévil and Longo's closure likewise needs
+  ([THEORY-tmp05y8u](../theory.d/THEORY-tmp05y8u.md)). Mossio, Montévil and Longo's closure likewise needs
   another member, and their hydrological cycle is a cycle of processes that
-  is not closure (LIT-tmph8zl0).
+  is not closure ([LIT-tmph8zl0](../literature.d/LIT-tmph8zl0.md)).

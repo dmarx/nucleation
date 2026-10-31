@@ -21,8 +21,8 @@ date: '2026-10-31'
 source:
 - LIT-tmph8zl0
 summary: >-
-  Mossio, Montévil and Longo (2016), LIT-tmph8zl0, §5, read in
-  NOTE-tmp1gwqb. The conditional is close to definitional. That regeneration
+  Mossio, Montévil and Longo (2016), [LIT-tmph8zl0](../literature.d/LIT-tmph8zl0.md), §5, read in
+  [NOTE-tmp1gwqb](../notes.d/NOTE-tmp1gwqb.md). The conditional is close to definitional. That regeneration
   actually recovers is a dynamical claim the paper does not model, and
   the contrast with non-organized systems rests on three examples.
   Proposed. It does not say how large a variation closure can absorb,
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Mossio, Montévil and Longo (2016), LIT-tmph8zl0, §5.1–5.2 (pp. 9–12) of
-the authors' HAL manuscript; read in NOTE-tmp1gwqb.
+Mossio, Montévil and Longo (2016), [LIT-tmph8zl0](../literature.d/LIT-tmph8zl0.md), §5.1–5.2 (pp. 9–12) of
+the authors' HAL manuscript; read in [NOTE-tmp1gwqb](../notes.d/NOTE-tmp1gwqb.md).
 
 ## What was actually shown
 
@@ -69,12 +69,12 @@ errors, non-genetic inheritance). No model, no measurement.
   not reach the generators, regeneration recovers only if the maintaining
   dynamics are stable. The record's constructions show that maintenance
   can fail at a saddle-node while the present coupling looks healthy
-  (CASE-tmpwxags, CLAIM-tmppht9k).
+  ([CASE-tmpwxags](../cases.d/CASE-tmpwxags.md), [CLAIM-tmppht9k](../claims.d/CLAIM-tmppht9k.md)).
 - **How stability could be observed.** The paper infers stability from
   the dependence structure; state interventions alone cannot show where
-  maintenance is realized (CLAIM-tmpr8p2x).
+  maintenance is realized ([CLAIM-tmpr8p2x](../claims.d/CLAIM-tmpr8p2x.md)).
 - **That only organisms reach a new closure.** The paper attributes it to
-  organized systems in general; Baedke's demarcation (THEORY-514) uses
+  organized systems in general; Baedke's demarcation ([THEORY-514](THEORY-514.md)) uses
   it as the mark of organisms and says the restriction is asserted.
 - **That non-organized systems cannot reorganize globally.** Three
   examples are not an argument; multistable dissipative structures pass

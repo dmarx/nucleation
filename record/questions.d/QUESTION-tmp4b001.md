@@ -24,25 +24,25 @@ summary: >-
 
 ## Why it is a question
 
-Teoh (LIT-tmpu9af8) shows that the gradient of the multi-token-prediction
+Teoh ([LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md)) shows that the gradient of the multi-token-prediction
 loss at a prediction head's hidden state decomposes exactly into a forward-KL
 term toward the model's own next-token prediction, held fixed, plus a
-residual (THEORY-tmpxb5pl). A model's own outputs specify a target that
+residual ([THEORY-tmpxb5pl](../theory.d/THEORY-tmpxb5pl.md)). A model's own outputs specify a target that
 constrains how another part of it is trained. That is the shape of
 recursive production: a realization generating a specification that
-constrains its successor (CLAIM-477).
+constrains its successor ([CLAIM-477](../claims.d/CLAIM-477.md)).
 
 **The teacher there knows no more than the student.** In Teoh's main
 heads the student is fed the intervening tokens and conditions on the same
 prefix as its teacher. They differ in depth of computation, not in
-information (NOTE-tmp8ljm4). The exchange's A15 and A16 read it as a
+information ([NOTE-tmp8ljm4](../notes.d/NOTE-tmp8ljm4.md)). The exchange's A15 and A16 read it as a
 less-informed student, and that premise was wrong. The routing A16
 described holds, but the KL gradient also reaches the shared trunk that
 computes the teacher, so the student does pull on the teacher there.
 
 **What distillation can carry, when the teacher knows more.** The limit
-A15 §3 derived is published as Hossain et al.'s Proposition 1 (LIT-tmpbnm77,
-THEORY-tmpfm1ma). If the teacher sees information B and the student only
+A15 §3 derived is published as Hossain et al.'s Proposition 1 ([LIT-tmpbnm77](../literature.d/LIT-tmpbnm77.md),
+[THEORY-tmpfm1ma](../theory.d/THEORY-tmpfm1ma.md)). If the teacher sees information B and the student only
 A ⊆ B, the student's loss E KL(q_B ‖ p_A) splits into
 E KL(q_B ‖ E[q_B | A]), which no student can remove, and
 E KL(E[q_B | A] ‖ p_A). The best student reproduces the teacher averaged
@@ -51,14 +51,14 @@ irreducible part is I(Y; B | A), and the student is on average at least as
 uncertain as its teacher. Iterated through shrinking information sets,
 inheritance keeps exactly what survives every restriction (A16).
 Agreement with the teacher is coherence, not fidelity to the world
-(TERM-097): "perfect agreement with an increasingly degraded teacher" is
+([TERM-097](../terms.d/TERM-097.md)): "perfect agreement with an increasingly degraded teacher" is
 possible.
 
 Iterated self-distillation also changes what is kept round by round, by
 two distinct mechanisms. In Mobahi et al. nothing is withheld from the
 student, and the regularizer acting again shrinks the solution to zero
-(THEORY-tmp33nos). In Wu et al. each round projects onto a fresh random
-subspace, so noise and then signal are forgotten (THEORY-tmpp515i);
+([THEORY-tmp33nos](../theory.d/THEORY-tmp33nos.md)). In Wu et al. each round projects onto a fresh random
+subspace, so noise and then signal are forgotten ([THEORY-tmpp515i](../theory.d/THEORY-tmpp515i.md));
 repeating one projection loses nothing further.
 
 Three things keep it open.
