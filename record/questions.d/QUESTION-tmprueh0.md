@@ -49,7 +49,7 @@ revise a commitment, is the nearest held account of what must persist.
 ## Note of 2026-10-31: legibility, volitional efficacy and correctability
 
 The owner's synthesis from review of the filing is filed as a claim,
-CLAIM-tmpvr0mx: legibility, volitional efficacy and correctability are distinct
+[CLAIM-tmpvr0mx](../claims.d/CLAIM-tmpvr0mx.md): legibility, volitional efficacy and correctability are distinct
 achievements, none of which justifies a demand. It bears on this question
 because a revision can be legible, effective and executable while who has
 the authority to make it stays open.

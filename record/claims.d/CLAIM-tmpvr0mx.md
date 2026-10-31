@@ -34,11 +34,11 @@ bears_on:
 summary: >-
   The owner's synthesis at review of the filing of the exchange "Analyze
   nucleation concepts" (2026-10-31). It was first filed as a dated note on
-  QUESTION-tmprueh0, and filed as a claim at the owner's word ("this should
+  [QUESTION-tmprueh0](../questions.d/QUESTION-tmprueh0.md), and filed as a claim at the owner's word ("this should
   probably be a new CLAIM, not hidden inside the prose of a QUESTION"). It
-  joins three held entries, legibility (TERM-064), will-organization
-  (TERM-023) and correctability (TERM-085), into one account of normative
-  efficacy. It extends CLAIM-349's split of access, authority and action
+  joins three held entries, legibility ([TERM-064](../terms.d/TERM-064.md)), will-organization
+  ([TERM-023](../terms.d/TERM-023.md)) and correctability ([TERM-085](../terms.d/TERM-085.md)), into one account of normative
+  efficacy. It extends [CLAIM-349](CLAIM-349.md)'s split of access, authority and action
   from an organization's own signals to normatively relevant
   discrepancies. Proposed: the separations are argued, not built.
 ---
@@ -52,12 +52,12 @@ Faced with a normatively relevant discrepancy, an agent or organization
 needs three things for it to make a difference:
 
 - **Legibility.** The discrepancy becomes recognizable through the
-  distinctions the organization draws (TERM-064).
+  distinctions the organization draws ([TERM-064](../terms.d/TERM-064.md)).
 - **Volitional efficacy.** A corresponding demand can influence action
-  through the organization's will-organization (TERM-023).
+  through the organization's will-organization ([TERM-023](../terms.d/TERM-023.md)).
 - **Correctability.** A fitting revision can be carried out, found,
   authorized, coordinated and executed within deadline and resources
-  (TERM-085).
+  ([TERM-085](../terms.d/TERM-085.md)).
 
 Call **normative efficacy** the realized ability of a normatively relevant
 distinction to change an organization's behaviour or governing standards.
@@ -67,7 +67,7 @@ informed and able to act, and still not act on a commitment:
 - it becomes legible and is not given authority (volitional blockage);
 - it is given authority and no revision can be executed in time.
 
-This is CLAIM-349's split of access, authority and action, carried from an
+This is [CLAIM-349](CLAIM-349.md)'s split of access, authority and action, carried from an
 organization's own signals to normative demands.
 
 ## Histories available and histories required
@@ -82,25 +82,25 @@ Separate:
 it actually is. Two cautions:
 
 - **A nonempty intersection does not show the agent will choose such a
-  history.** Availability is not choice. Resolve (CLAIM-344) and the
+  history.** Availability is not choice. Resolve ([CLAIM-344](CLAIM-344.md)) and the
   volitional path are what make an available history the chosen one.
 - **An empty intersection does not show the agent is beyond criticism.**
   Its earlier actions may have destroyed the capacities required. An
   intervention can make its own correction costlier or unreachable
-  (CLAIM-464).
+  ([CLAIM-464](CLAIM-464.md)).
 
 The second caution ties historical responsibility to the record's
-resource-bounded account of what futures remain reachable (CLAIM-475).
+resource-bounded account of what futures remain reachable ([CLAIM-475](CLAIM-475.md)).
 
 ## What it does not say
 
 - **That any of the three justifies the demand or the revision.** A legible,
   effective, executable revision can be wrong. Viability does not establish
-  what ought to persist (CLAIM-075), and endorsing a motive does not
+  what ought to persist ([CLAIM-075](CLAIM-075.md)), and endorsing a motive does not
   justify it.
 - **That the three come in a fixed order.** Like the achievements of
-  CLAIM-474, they form no necessary sequence. An organization can have
+  [CLAIM-474](CLAIM-474.md), they form no necessary sequence. An organization can have
   executable corrective machinery for discrepancies it cannot see.
 - **Who has the authority to decide that a change is warranted.** That is
-  QUESTION-tmprueh0's question: endogenous governance, historically
+  [QUESTION-tmprueh0](../questions.d/QUESTION-tmprueh0.md)'s question: endogenous governance, historically
   continuous authorization and legitimate authority are three things.

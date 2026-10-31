@@ -31,12 +31,12 @@ summary: >-
   The proposition the owner asked about at U24 of the exchange "Analyze
   nucleation concepts" (2026-10-31): "have we established ... why/that
   corrigibility is desirable?" Not claimed. The record's constructions of
-  maintained correction do not establish it (ARG-tmptzqyx, Rejected), and its
-  value is conditional on objectives, uncertainty and cost (CLAIM-tmpnxn4o). A24's
+  maintained correction do not establish it ([ARG-tmptzqyx](../arguments.d/ARG-tmptzqyx.md), Rejected), and its
+  value is conditional on objectives, uncertainty and cost ([CLAIM-tmpnxn4o](CLAIM-tmpnxn4o.md)). A24's
   answer: "We have not established that corrigibility is unconditionally
   desirable." Filed because the owner asked, so it marks a real boundary.
-  It would be argued from a declared standard, which is where QUESTION-128
-  and QUESTION-129 ask.
+  It would be argued from a declared standard, which is where [QUESTION-128](../questions.d/QUESTION-128.md)
+  and [QUESTION-129](../questions.d/QUESTION-129.md) ask.
 ---
 <!-- inactive-ok-file: QUESTION-128 QUESTION-129 QUESTION-087 — Open; the questions of what ought to persist and of authority, cited as open -->
 
@@ -45,7 +45,7 @@ summary: >-
 ## Not claimed
 
 The record does not claim this. Its constructions do not establish it
-(ARG-tmptzqyx), and the value of corrigibility is conditional (CLAIM-tmpnxn4o). The text of
+([ARG-tmptzqyx](../arguments.d/ARG-tmptzqyx.md)), and the value of corrigibility is conditional ([CLAIM-tmpnxn4o](CLAIM-tmpnxn4o.md)). The text of
 version 1 follows.
 
 ## What is not claimed, and why (version 1)

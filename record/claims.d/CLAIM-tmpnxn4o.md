@@ -26,7 +26,7 @@ summary: >-
   had been established. The arithmetic was rechecked by the turns' reader.
   This is the subject-matter half of the answer. The support half, that
   the record's constructions do not establish that corrigibility ought to
-  be kept, is ARG-tmptzqyx, which this claim undercuts.
+  be kept, is [ARG-tmptzqyx](../arguments.d/ARG-tmptzqyx.md), which this claim undercuts.
 ---
 
 # CLAIM-tmpnxn4o: The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker's expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange's model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration
@@ -39,7 +39,7 @@ nothing cannot lower optimal expected performance. The agent can always
 ignore it. This is the ordinary non-negative value of information.
 
 **Costly correction.** The exchange's model is the regime-switching world
-of CASE-tmp061to. With the audit, the agent acts on the right regime with
+of [CASE-tmp061to](../cases.d/CASE-tmp061to.md). With the audit, the agent acts on the right regime with
 probability 1 − ε and earns 0.75 − 0.5ε per decision. Without it the agent
 earns 0.5, so the gain is 0.25 − 0.5ε per decision. Over k decisions,
 against a maintenance cost C, the net value is k(0.25 − 0.5ε) − C. It is
@@ -55,12 +55,12 @@ objectives.
 
 - **That costless information never hurts.** The first result assumes one
   time-consistent decision-maker. A divided agent can do better with fewer
-  options (CASE-128), and A29 endorsed that in the same synthesis without
+  options ([CASE-128](../cases.d/CASE-128.md)), and A29 endorsed that in the same synthesis without
   noting the tension.
 - **Anything about accountability.** Epistemic correction answers to
   evidence and organizational correction to viability. Correction by
   others answers to their standing, and self-correction is not
-  accountability (CLAIM-462).
+  accountability ([CLAIM-462](CLAIM-462.md)).
 - **That a corrigible process is good.** "A process that obeys every
   attempted correction is merely vulnerable to redirection. A process that
   resists every correction is insulated from accountability" (A24).

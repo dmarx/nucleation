@@ -19,13 +19,13 @@ date: '2026-10-31'
 line: distributed-agency
 summary: >-
   Filed at the owner's question of 2026-10-31 ("no ARGs?"), under
-  ADR-061, from the support half of CLAIM-tmp025xj. The owner had asked at
+  [ADR-061](../decisions.d/ADR-061.md), from the support half of [CLAIM-tmp025xj](../claims.d/CLAIM-tmp025xj.md). The owner had asked at
   U24 of the exchange "Analyze nucleation concepts" whether corrigibility's
   desirability had been established. The answer was no, and that answer is
   a verdict on support, so it is an ARG. Rejected. The constructions show
   what corrigibility is made of and what it costs to keep. They are
   equally expected whether or not it ought to be kept, so they do not bear
-  on the conclusion. Its value is conditional (CLAIM-tmpnxn4o, which undercuts this).
+  on the conclusion. Its value is conditional ([CLAIM-tmpnxn4o](../claims.d/CLAIM-tmpnxn4o.md), which undercuts this).
 ---
 <!-- inactive-ok-file: CLAIM-tmp025xj CASE-tmp061to — Proposed or a proposed study; the conclusion not claimed, and a design cited as a premise -->
 
@@ -35,18 +35,18 @@ summary: >-
 
 The record has built and run maintained correction:
 - reciprocally produced governing rules that repair the loss of one rule
-  and not of both (CASE-161);
-- capture and selectively admitted evidence (CASE-162);
+  and not of both ([CASE-161](../cases.d/CASE-161.md));
+- capture and selectively admitted evidence ([CASE-162](../cases.d/CASE-162.md));
 - a kinetic organization that regenerates its copying machinery
-  (CASE-tmpz9u5t);
+  ([CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md));
 - a proposed study of a second correction after the corrective apparatus
-  is injured (CASE-tmp061to).
+  is injured ([CASE-tmp061to](../cases.d/CASE-tmp061to.md)).
 
 It holds that what keeps a judgement–observation loop from confirming
 itself is evidence that does not pass through the interpretation it tests
-(CLAIM-342). The inference would go from these to the normative
+([CLAIM-342](../claims.d/CLAIM-342.md)). The inference would go from these to the normative
 conclusion that self-maintaining organizations ought to keep that
-capacity (CLAIM-tmp025xj).
+capacity ([CLAIM-tmp025xj](../claims.d/CLAIM-tmp025xj.md)).
 
 ## Critical questions
 
@@ -57,7 +57,7 @@ capacity (CLAIM-tmp025xj).
 - **Does it tell the conclusion apart from its rivals?** No. The rival is
   "corrigibility is worth keeping for some organizations, objectives and
   costs, and not for others", and the constructions are consistent with it.
-  The value claim CLAIM-tmpnxn4o is that rival, demonstrated in the exchange's model.
+  The value claim [CLAIM-tmpnxn4o](../claims.d/CLAIM-tmpnxn4o.md) is that rival, demonstrated in the exchange's model.
 - **Does the measure measure what it is said to?** No, and this is the
   question that fails. Every measure in the constructions is of capacity:
   detection, correction, retention of the apparatus. None is of value or
@@ -66,5 +66,5 @@ capacity (CLAIM-tmp025xj).
 
 Rejected. A normative argument from a declared standard would be a
 different ARG, with different premises. Viability alone cannot supply it
-(CLAIM-075). The questions of what ought to persist and of authority
-(QUESTION-128, QUESTION-129) are where it would be argued.
+([CLAIM-075](../claims.d/CLAIM-075.md)). The questions of what ought to persist and of authority
+([QUESTION-128](../questions.d/QUESTION-128.md), [QUESTION-129](../questions.d/QUESTION-129.md)) are where it would be argued.
