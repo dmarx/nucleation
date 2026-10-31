@@ -13,9 +13,9 @@ tags:
 date: '2026-10-31'
 line: will-organization
 summary: >-
-  From the connections pass of 2026-10-31 (CLAIM-484's note of that
+  From the connections pass of 2026-10-31 ([CLAIM-484](../claims.d/CLAIM-484.md)'s note of that
   date). The transcript Bencherki, Brummans and Vézy reanalyse records
-  the marks CLAIM-484 names. Rejected as evidence: the same marks fit
+  the marks [CLAIM-484](../claims.d/CLAIM-484.md) names. Rejected as evidence: the same marks fit
   the paper's reading, disindividuation before a demand from outside,
   and no claim or grant is recorded apart from the marks.
 ---
@@ -31,12 +31,12 @@ The transcript records:
 - difficulty "finding the words" (p. 1362);
 - a reversal: "at first sight, I don't have major objections" (line 75).
 
-CLAIM-484 reads such marks as a gap between the precedence a motive claims and the authority the rest of the organization grants it.
+[CLAIM-484](../claims.d/CLAIM-484.md) reads such marks as a gap between the precedence a motive claims and the authority the rest of the organization grants it.
 
 ## Critical questions
 
 - **Would the evidence be expected if the conclusion were false?** Yes. On the paper's reading the marks are disindividuation: an organization meeting a demand from outside that it cannot yet take in (p. 1356). That reading predicts the same pauses and reversal.
 - **Does it tell the claim apart from its rivals?** No, and this is the question that fails. Separating them needs the claim and the grant recorded independently of the marks, and the transcript records neither.
-- **Does the measure measure what it is said to?** No. The marks are read through supposition about what Robert knew and felt (NOTE-tmpfw3f7, Limitations).
+- **Does the measure measure what it is said to?** No. The marks are read through supposition about what Robert knew and felt ([NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md), Limitations).
 
-Rejected as evidence. CLAIM-484's note of 2026-10-29 still asks for an episode of the right kind.
+Rejected as evidence. [CLAIM-484](../claims.d/CLAIM-484.md)'s note of 2026-10-29 still asks for an episode of the right kind.

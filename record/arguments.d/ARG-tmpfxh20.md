@@ -14,8 +14,8 @@ tags:
 date: '2026-10-31'
 line: will-organization
 summary: >-
-  From the connections pass of 2026-10-31 (CLAIM-518's note of that
-  date). In Bencherki 2017 (LIT-tmp1rpyl), the army presents two
+  From the connections pass of 2026-10-31 ([CLAIM-518](../claims.d/CLAIM-518.md)'s note of that
+  date). In Bencherki 2017 ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md)), the army presents two
   community-made services as its own. One is co-individuation, the other
   usurpation. The difference is who did the work and whether it is
   acknowledged, which the end state does not contain. Proposed: part of
@@ -32,7 +32,7 @@ Bencherki presents two cases from the same army base.
 - **The checklist** (pp. 789–790). A community-made checklist is presented as a service "we offer", and its authors are named. Bencherki classes this as co-individuation.
 - **The daycare** (pp. 791–792). The daycare is presented as "one of the services we offer". It runs only because spouses volunteer, and their work "goes unacknowledged". Bencherki classes this as usurpation.
 
-The end states match: the army offers a service built on the community's work. The verdicts differ, so the judgment is not a function of the end state, as CLAIM-518 holds. It also prescribes nothing, as CLAIM-518's separation of evaluation from prescription expects.
+The end states match: the army offers a service built on the community's work. The verdicts differ, so the judgment is not a function of the end state, as [CLAIM-518](../claims.d/CLAIM-518.md) holds. It also prescribes nothing, as [CLAIM-518](../claims.d/CLAIM-518.md)'s separation of evaluation from prescription expects.
 
 ## Critical questions
 

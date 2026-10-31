@@ -11,9 +11,9 @@
 
   A workbench entry records the pass.
 
-- Six ARGs for support relations the connections pass recorded in dated notes (ADR-061).
-  - Proposed: Tsoukas & Chia's radial extension as a second line for CLAIM-418 (ARG-tmpqydlr); the MSF meeting for CLAIM-430's first and third parts (ARG-tmpho2jq); Bencherki's checklist and daycare for CLAIM-518 (ARG-tmpfxh20).
-  - Rejected: the Navy TQ case does not hold proposals fixed for CLAIM-122 (ARG-tmplxoo6); the MSF transcript's marks of conflict do not discriminate CLAIM-484 from the paper's reading (ARG-tmpt8hq5); Simondon's crystallization supports CLAIM-185 only by analogy (ARG-tmpj58hf).
+- Six ARGs for support relations the connections pass recorded in dated notes ([ADR-061](record/decisions.d/ADR-061.md)).
+  - Proposed: Tsoukas & Chia's radial extension as a second line for [CLAIM-418](record/claims.d/CLAIM-418.md) ([ARG-tmpqydlr](record/arguments.d/ARG-tmpqydlr.md)); the MSF meeting for [CLAIM-430](record/claims.d/CLAIM-430.md)'s first and third parts ([ARG-tmpho2jq](record/arguments.d/ARG-tmpho2jq.md)); Bencherki's checklist and daycare for [CLAIM-518](record/claims.d/CLAIM-518.md) ([ARG-tmpfxh20](record/arguments.d/ARG-tmpfxh20.md)).
+  - Rejected: the Navy TQ case does not hold proposals fixed for [CLAIM-122](record/claims.d/CLAIM-122.md) ([ARG-tmplxoo6](record/arguments.d/ARG-tmplxoo6.md)); the MSF transcript's marks of conflict do not discriminate [CLAIM-484](record/claims.d/CLAIM-484.md) from the paper's reading ([ARG-tmpt8hq5](record/arguments.d/ARG-tmpt8hq5.md)); Simondon's crystallization supports [CLAIM-185](record/claims.d/CLAIM-185.md) only by analogy ([ARG-tmpj58hf](record/arguments.d/ARG-tmpj58hf.md)).
 
 ### Changed
 

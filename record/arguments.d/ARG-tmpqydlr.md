@@ -14,9 +14,9 @@ tags:
 date: '2026-10-31'
 line: distributed-agency
 summary: >-
-  From the connections pass of 2026-10-31 (CLAIM-418's note of that
-  date). Tsoukas and Chia (LIT-tmpls0y0) give a mechanism for
-  CLAIM-418's third part: applying an institutionalized category to a
+  From the connections pass of 2026-10-31 ([CLAIM-418](../claims.d/CLAIM-418.md)'s note of that
+  date). Tsoukas and Chia ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md)) give a mechanism for
+  [CLAIM-418](../claims.d/CLAIM-418.md)'s third part: applying an institutionalized category to a
   nonprototypical case extends and transforms it, and whether the
   extension becomes the organization's depends on institutionalization,
   which can fail. Proposed: the readings argue and illustrate with
@@ -29,15 +29,15 @@ summary: >-
 
 ## The inference
 
-CLAIM-418's third part holds that a perspective can be reproduced or transformed with no agent governing it. Tsoukas and Chia say how such a change happens:
-- An institutionalized category is radially structured. Applying it to a nonprototypical case is "an imaginative extension" that extends "the radius of application of the concept, thus transforming it" (p. 574; THEORY-tmp9bte2).
+[CLAIM-418](../claims.d/CLAIM-418.md)'s third part holds that a perspective can be reproduced or transformed with no agent governing it. Tsoukas and Chia say how such a change happens:
+- An institutionalized category is radially structured. Applying it to a nonprototypical case is "an imaginative extension" that extends "the radius of application of the concept, thus transforming it" (p. 574; [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)).
 - Change of that kind "occurs naturally, incrementally, and inexorably through 'creep,' 'slippage,' and 'drift'" (p. 579). No one decides it.
-- Whether a local extension becomes the organization's depends on institutionalization in a "structural context" (pp. 578–579). That can fail (THEORY-tmprgc9k).
+- Whether a local extension becomes the organization's depends on institutionalization in a "structural context" (pp. 578–579). That can fail ([THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md)).
 
-The agents act, the category changes, and the institution may or may not take the change up. These are the three things CLAIM-418 keeps apart.
+The agents act, the category changes, and the institution may or may not take the change up. These are the three things [CLAIM-418](../claims.d/CLAIM-418.md) keeps apart.
 
 ## Critical questions
 
 - **Does the work say this, read in context?** Yes. Radial extension is the paper's own account (p. 574), with Feldman's move-in routine as its example (pp. 574–575). The condition of institutionalization is stated on pp. 578–579.
-- **Is it said within the scope the claim needs?** Mostly. Tsoukas and Chia speak of categories and routines, and CLAIM-418 of perspectives. A perspective in TERM-072's organizational sense is carried in such categories, but that link is the record's, not the paper's.
+- **Is it said within the scope the claim needs?** Mostly. Tsoukas and Chia speak of categories and routines, and [CLAIM-418](../claims.d/CLAIM-418.md) of perspectives. A perspective in [TERM-072](../terms.d/TERM-072.md)'s organizational sense is carried in such categories, but that link is the record's, not the paper's.
 - **Does the claim lean on the reading for more than it holds?** No. The paper does not test the mechanism; it argues it and illustrates it with other researchers' cases. So this is a second line in argument, not evidence, and Proposed.
