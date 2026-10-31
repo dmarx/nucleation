@@ -175,3 +175,52 @@ The exchange of 2026-10-26 used the claim at both ends.
 
 [TERM-080](../terms.d/TERM-080.md) separates the senses of collective intention the claim's
 "agent" leaves open.
+
+## Note of 2026-10-31: the Simondon and process readings
+
+<!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmpuh0eb THEORY-tmprgc9k THEORY-tmp9bte2 ARG-tmpm57h1 — Proposed or Rejected; the readings filed 2026-10-31 and the verdict on one of them, cited as context -->
+Three readings filed today bear on this claim. One of them was first said
+to, and on reading does not.
+
+- **Not Bencherki, Brummans and Vézy's perspectivism.** Their "agency is
+  a matter of perspective" (LIT-tmp3mudg, p. 1357; THEORY-tmpcaccx) is
+  the analyst's cut, Barad's agential cut, the place where a description
+  of continuous action is made to begin. It is not TERM-072's
+  organizational perspective, and it declines to draw the agential
+  boundary at all ("Who or what has agency is a premature question"). The
+  first filing called it "a version of" this claim. That is rejected in
+  ARG-tmpm57h1. Its real neighbour is CLAIM-405.
+- **Bencherki 2017's Table 1 is part 2 of this claim, tabulated**
+  (LIT-tmp1rpyl, p. 787; THEORY-tmpuh0eb). One action can be allowed or
+  prevented from counting toward a member's individuation and toward the
+  organization's, independently. That gives co-individuation and
+  channeling, usurpation of the member's action by the organization, and
+  the reverse. In the daycare excerpt (pp. 791–792), the spouses' volunteer
+  work is "one of the services we offer". The army takes it up as its own
+  and does not recognize the women as its authors. That is an
+  institutional boundary drawn across an agential one, with consequences
+  for both. Bencherki's thesis that "deciding on an author is the outcome
+  of individuation, not its starting point" (p. 786) is stronger than this
+  claim, which keeps agents and asks only whether the boundaries
+  coincide.
+- **Tsoukas and Chia supply a mechanism for part 3, and keep the agents**
+  (LIT-tmpls0y0; THEORY-tmprgc9k, THEORY-tmp9bte2). Part 3 says that the
+  exercise of agency can reproduce or transform the perspective it is
+  exercised through. Tsoukas and Chia say how. An institutionalized
+  category is radially structured, and applying it to a nonprototypical
+  case is "an imaginative extension" that extends "the radius of
+  application of the concept, thus transforming it" (p. 574). Feldman's
+  move-in routine, stretched by staff to cover traffic, vendors and a
+  football game (pp. 574–575), is their example. Whether such an
+  extension becomes the organization's depends on whether it is
+  institutionalized, which can fail (pp. 578–579). That is the claim's
+  "reproduce or transform" with the agent's act, the category and the
+  institution kept distinct, as the claim keeps them. The paper's change
+  is carried by "the ongoing agency of organizational members" (p. 580),
+  so it supports the claim's middle position, perspective without
+  identity with agency and agency without identity with perspective,
+  against the agent-free reading Bencherki, Brummans and Vézy take from
+  it (THEORY-tmprgc9k, "What this does not say"). It also bears on
+  QUESTION-259's first clause, how perspectives are transformed.
+
+No status, title or warrant changes.

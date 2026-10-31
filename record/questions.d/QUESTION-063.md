@@ -131,3 +131,32 @@ synchronous. So a pattern forced by the architecture means "equal input", not
 "coupled to each other". A cluster is evidence of coupling only relative to a
 graph that includes every source of input. That is the record's reading of the
 paper, which never discusses drive.
+
+## Note of 2026-10-31: shared cue or spillover, in two readings of affect
+
+<!-- inactive-ok-block: THEORY-tmpywwei THEORY-tmpcaccx — Proposed; the readings filed 2026-10-31, cited as context -->
+Two readings filed today disagree on this question's distinction, for
+affect in groups, and neither measures it.
+
+- **Spillover, which is coupling.** Bencherki, Brummans and Vézy describe
+  one person's anger as augmenting others' ability to act, "as her anger
+  spills over into her inert colleagues and turns them into active
+  strikers" (LIT-tmp3mudg, p. 1354), and
+  agency as one process taking up "the excess action of another" (p.
+  1351). That is influence passed between members.
+- **Shared cue, differential response, which is common drive.** Massumi
+  (LIT-tmp8hcfz, pp. 6, 9; THEORY-tmpywwei): affect "is not a content
+  that can be transported from one event to another"; bodies cued by the
+  same event, an alarm, "will have been attuned – differentially – to the
+  same interruptive commotion", "responding differently together".
+  Uniform response, which looks like contagion, needs "other factors" that
+  "pre-channel tendencies" (p. 6). That is this question's shared
+  external drive, with the members' differences kept.
+
+Massumi's alarm is THEORY-129's coral, for people. The record's test is
+the one CASE-149 ran in dancers: remove the shared cue and the channel
+between members independently. Neither reading proposes it. A collective
+emotion read off synchrony alone (CLAIM-355's "integrated regulatory
+pattern") would not tell the two apart.
+
+The question is unchanged and stays Open.

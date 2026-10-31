@@ -118,3 +118,34 @@ A12 proposed it as the first test of a `criterion` kind of TERM
 item 4 stands; without it, it is a construct. And: "A TERM supplies the
 criterion; a CLAIM argues that some proposed generalization holds; a CASE
 supplies observations or a construction."
+
+## Note of 2026-10-31: an augmented ability to act, with no target named
+
+<!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmpkdsex THEORY-tmpuh0eb — Proposed; the readings filed 2026-10-31, cited as context -->
+Bencherki, Brummans and Vézy define agency as "the affective force that
+governs the transition from a lesser to an augmented ability to act"
+(LIT-tmp3mudg, p. 1354; THEORY-tmpcaccx). Massumi's definition, from
+which theirs is taken, runs both ways, to "a diminished or augmented
+state of capacitation" (LIT-tmp8hcfz, p. 1; THEORY-tmpkdsex). The paper
+keeps only the augmenting half, and the record's reading found that this
+"makes a verdict depend on a judgment of whose capacity counts", which
+the paper does not supply. This term shows what is missing. Read through
+it, "an augmented ability to act" is a dispositional achievement with
+its first element, the target, left blank. A11's first question, "What
+was achieved?", has no answer in the paper's account. Its third, what
+shows the organization made the difference, is answered by the
+analyst's reading of hesitations and the eventual agreement.
+
+The term also does what the paper's definition cannot. It is "an
+attribution, not a compliment", so it can say what a channeling or a
+usurpation achieves. In Bencherki 2017's daycare (LIT-tmp1rpyl, pp.
+791–792; THEORY-tmpuh0eb), the army maintains a service that runs on the
+spouses' volunteer work and is credited to itself, "a caring
+organization at their expense" (p. 792). With the army's service as the
+target, that is a maintained organizational achievement. With the
+spouses' standing as the target, the same arrangement is the one that
+blocks it. Both verdicts can be stated, each with its target. The
+paper's vocabulary can state only one of them as agency, and the other
+as its lack.
+
+No status, title or warrant changes.

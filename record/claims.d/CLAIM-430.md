@@ -210,3 +210,42 @@ none sets an anonymous favour against one done in an encounter. The
 nearest evidence leans toward the second defeater (Lemmer and Wagner,
 between studies), and Scacco and Warren show conduct moving without
 a later measure of the reinterpretation.
+
+## Note of 2026-10-31: the MSF meeting, and a mechanism from Tsoukas and Chia
+
+<!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmp5ux44 THEORY-tmp9bte2 THEORY-tmprgc9k — Proposed; the readings filed 2026-10-31, cited as context -->
+Two readings filed today bear on this claim. One is an episode and the
+other a mechanism.
+
+- **The MSF meeting is part 1 with the order of part 2 reversed.**
+  Bencherki, Brummans and Vézy reread a meeting in which two Congolese
+  health officials ask MSF's representative for surgical training
+  (LIT-tmp3mudg, pp. 1359–1363; THEORY-tmpcaccx). The request offers MSF
+  a role, educator, that its operative perspective refuses: "MSF [is]...
+  not a university", "[they] are not here as educators" (p. 1362). It is
+  an invitation, not an argument. But Robert accepts by first
+  redescribing what MSF already does: physicians learn while at the
+  hospital, MSF provides tools, books and knowledge, so learning "occurs
+  due to MSF's 'mere' presence". Then he agrees, with an "ad hoc training
+  program ... without changing core aspects of how MSF has been
+  individuating" (pp. 1362–1363). Here the reinterpretation is made in
+  talk so that taking part becomes possible. It does not follow from
+  taking part. The paper's "retrospective" meaning, "offering training
+  might mean that MSF is becoming a 'university'" (p. 1363;
+  THEORY-tmp5ux44), puts the rest of the reinterpretation after the
+  joint action, where part 2 puts it, but the paper does not observe it.
+  The episode supports part 1 and part 3 and is neutral on part 2.
+- **Tsoukas and Chia's radial categories are a mechanism for the
+  redescription** (LIT-tmpls0y0, pp. 573–575; THEORY-tmp9bte2). A category
+  has a prototypical core and a periphery. Applying it to a
+  nonprototypical case is "an imaginative extension" that changes it, and
+  "the application of a concept is always a normative act" (p. 574).
+  Robert extends "teaching" to learning by presence and keeps the
+  prototype, formal "blackboard-style" teaching, outside. Tsoukas and
+  Chia also state part 3's distinction: whether a local extension becomes
+  the organization's depends on whether it is institutionalized, which
+  may never happen (pp. 578–579; THEORY-tmprgc9k). That is this claim's
+  "reproduced beyond the encounter" with a named condition. They put the
+  condition in the "structural context" senior managers create (p. 578).
+
+No status, title or warrant changes.

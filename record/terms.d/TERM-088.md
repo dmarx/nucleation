@@ -78,3 +78,42 @@ constraint that does individuating work" is the constitutive sense and
 [CLAIM-478](../claims.d/CLAIM-478.md)'s "scale separation as a mechanism of individuation" the
 dynamical one, and neither says so; whether those two senses differ in
 a given case is [QUESTION-284](../questions.d/QUESTION-284.md)'s question.
+
+## Note of 2026-10-31: the sense Simondon's readers use, which this term does not list
+
+<!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmp1g3ve THEORY-tmp4o1dd THEORY-tmpuh0eb — Proposed; the readings filed 2026-10-31, cited as context -->
+The readings filed today on Bencherki, Brummans and Vézy 2024 and its
+Simondonian sources use "individuation" throughout. Their sense is none of
+the four here.
+
+- **Genetic, or operational.** In those readings, individuation is the
+  operation by which a metastable system resolves a disparity between
+  differently ordered domains, and the individual is its partial,
+  provisional product (LIT-tmp3mudg, p. 1355; LIT-tmpj9jyk, pp. 10–12,
+  THEORY-tmp1g3ve). The four senses here are claims about a candidate
+  individual: that it can be tracked, that it persists, that its relations
+  fix it, that it maintains its own constraints. The readings' sense names
+  the process that would produce such a candidate. The record asks about
+  that process in QUESTION-281, how forms come into being and pass away,
+  without a word for it. A claim citing these readings should say that it
+  means the genetic sense and not one of the four.
+- **The product is never complete.** An individual "does not exhaust the
+  tensions that allowed its constitution" (Simondon 1989, quoted by Bencherki 2017, LIT-tmp1rpyl,
+  p. 782), and "an individuation process does not
+  'use up' or 'consume' the preindividual it integrates" (LIT-tmp3mudg, p.
+  1355). So a Simondonian individual carries unresolved potential by
+  definition. That sits uneasily with the dynamical sense's "robust
+  identity and boundaries". Whether a unit can be robustly individuated
+  and still metastable is the kind of question this term's senses let the
+  record ask: dynamical individuation is relative to specified
+  perturbations, and a system can pass for those and stay metastable for
+  others.
+- **"Not stages" is said of something else there.** Bencherki and
+  Iliadis's proposition 2, that persons and organizations "are not at
+  different stages of individuation, but rather different informational
+  levels" (LIT-tmpwspny, ms. p. 21; THEORY-tmp4o1dd), is about levels of
+  entities. This term's "the senses are not stages" is about kinds of
+  claim. The two agree in form only. CLAIM-tmpg3993 answers the levels
+  proposition.
+
+No status, title or warrant changes.
