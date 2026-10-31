@@ -214,3 +214,23 @@ particular agents and institutions."
 An inquiry is now [TERM-095](../terms.d/TERM-095.md): (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑). This claim is about
 its last component, 𝓑, and about how formulating spends it before answering
 does.
+
+## Note of 2026-10-31: organization in general, and three kinds of reachability
+
+At U20 of the exchange "Analyze nucleation concepts" the owner asked to
+"double click" on the assistant's line "Organization changes the resource
+cost of realizing further organization, and thereby changes the space of
+futures practically accessible to a system." A19 had announced it as a
+discovery. It is this claim's point, carried from specifications to any
+realized organization: tools, procedures and institutions. A20 added a
+distinction worth keeping. **Physical reachability** (what dynamics allow
+at all) is not **operational availability** (what can be done within a
+budget and deadline, TERM-085, CLAIM-312) and neither is **developed
+capability** (what the system has built the means to do). Building a tool
+does not enlarge the set of states physically reachable from the original
+state. It changes what is available within a budget. The amortization
+condition is elementary: a tool costing K to build and M(N) to maintain
+pays over N uses when N(c₀ − c₁) > K + M(N). A20 also noted that
+development "changes the shape of the capability frontier; it doesn't
+necessarily move the entire frontier outward", which is CLAIM-455. No
+status, title or warrant changes.

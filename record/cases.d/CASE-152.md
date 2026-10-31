@@ -65,3 +65,17 @@ intervention ([CLAIM-407](../claims.d/CLAIM-407.md)).
 That the two settings are different communicative acts. Whether "an
 attempt that was not taken up" is an act at all is a question for the
 account of communicative kinds ([TERM-040](../terms.d/TERM-040.md)), not for the likelihood.
+
+## Note of 2026-10-31: the same λ, different multiplicity
+
+A3 of the exchange "Analyze nucleation concepts" rebuilt this case as
+gradient flow on L = ½(uv − 1)² and added a contrast, rechecked. With a
+nonzero target the true set ab = c ≠ 0 is a smooth curve, with λ = ½ and
+m = 1. At the target 0 the true set is the crossing ab = 0, with λ = ½ and
+m = 2. So λ alone does not identify the geometry of the optimal set; the
+multiplicity separates them. A14 gave a variant for a three-factor probe
+Y ∼ N(q²c₁c₂, σ²) on a box. When the true response is zero, λ = ¼ and
+m = 1, from the q⁴ term. When it is positive, λ = ½. A15 gave the
+Bernoulli version, σ(uv), with the same pair of values as this case. The
+singularity is the probe's and the parameterization's, as this case
+already says ("What it cannot show").

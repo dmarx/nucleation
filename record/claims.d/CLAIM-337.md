@@ -116,3 +116,19 @@ Its grounds [THEORY-662](../theory.d/THEORY-662.md) and [THEORY-564](../theory.d
 Brouillet and Friston's fluency inference, and Smith et al.'s structure
 learning is one simulation. It also grounds on [THEORY-577](../theory.d/THEORY-577.md), Proposed, but
 uses only that reading's first clause, that problem reports are behaviour.
+
+## Note of 2026-10-31: the owner's "sounds close to FEP"
+
+At U8 of the exchange "Analyze nucleation concepts" the owner said the
+assistant's "Inquiry is the reflexive transformation of the apparatus of
+individuation" "sounds close to FEP". A8 introduced Smith et al.'s
+structure-learning paper as prior art. The record holds it (LIT-615, read
+in NOTE-485), and it is one of this claim's grounds. A8's caution is the
+one this claim's "What it does not say" already makes: free-energy
+minimization passes "too quickly from an admissible inferential
+description to the claim that the described system physically performs
+inference". The owner's other comparison at U8, that the record's unit of
+explanation "feels very 'wu-wei'", is not filed. The record's nearest
+entries are CLAIM-358 (local accommodation lowers the amortized cost of
+arbitration), CLAIM-162 (flow reported as effortless) and LIT-910
+(*Effortless Attention*, Unavailable).
