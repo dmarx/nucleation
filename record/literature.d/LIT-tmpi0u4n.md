@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-10-31 (NOTE-tmpn58uh), from the publisher's open-access PDF
+  skimmed 2026-10-31 ([NOTE-tmpn58uh](../notes.d/NOTE-tmpn58uh.md)), from the publisher's open-access PDF
   (Open Humanities Press, CC BY-SA 4.0). The passages Bencherki, Brummans
-  & Vézy (LIT-tmp3mudg) lean on were read in context and their quotation
+  & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) lean on were read in context and their quotation
   checked; most of the book was not read. A book of three long interviews
   and essays on movement, capitalism, micropolitics and SenseLab practice.
 title: 'The Principle of Unrest: Activist Philosophy in the Expanded Field'
@@ -61,7 +61,7 @@ Massumi, B. (2017). *The Principle of Unrest: Activist Philosophy in the
 Expanded Field*. London: Open Humanities Press (Immediations).
 doi:10.26530/oapen_630732. CC BY-SA 4.0.
 
-Skimmed in NOTE-tmpn58uh.
+Skimmed in [NOTE-tmpn58uh](../notes.d/NOTE-tmpn58uh.md).
 
 ## Key takeaways
 
@@ -78,7 +78,7 @@ Skimmed in NOTE-tmpn58uh.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) take two things from it.
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) take two things from it.
 
 - **Co-patterning (p. 1358).** "Organizational becoming is constituted by
   the micropolitics of attempting to reach 'a maximally inclusive
@@ -90,7 +90,7 @@ Bencherki, Brummans & Vézy (LIT-tmp3mudg) take two things from it.
   a constitutive claim: organizational becoming *is* the attempt. The
   word "attempting" keeps it close. Its gloss, "finding ways for
   different trajectories to inhabit the same space, rather than denying
-  those differences", is faithful. See THEORY-tmpl13wj.
+  those differences", is faithful. See [THEORY-tmpl13wj](../theory.d/THEORY-tmpl13wj.md).
 - **Vector of becoming (p. 1364).** "Robert is not an agent, but a vector
   of becoming (Massumi, 2017)". Massumi uses the phrase of "the
   neoliberal moment" (p. 9), and the idea of the human as "carrier" of a

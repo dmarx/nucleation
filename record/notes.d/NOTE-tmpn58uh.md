@@ -96,15 +96,15 @@ Not filled in: the note is Skimmed.
 
 ## Connections
 
-Continues the micropolitics of the 2009 interview (LIT-tmp8hcfz), where
+Continues the micropolitics of the 2009 interview ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md)), where
 the aim is "a symbiosis: a cross-fertilization of capacitations". Cites
 Manning's *The Minor Gesture* (2016) and *Relationscapes* (2009).
 
 ## Bearing on the record
 
-- **THEORY-tmpl13wj** (Proposed) states micropolitics as co-patterning,
+- **[THEORY-tmpl13wj](../theory.d/THEORY-tmpl13wj.md)** (Proposed) states micropolitics as co-patterning,
   sourced here.
-- **LIT-tmp3mudg** quotes p. 64 exactly. The departure is one of mood.
+- **[LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)** quotes p. 64 exactly. The departure is one of mood.
   Massumi states a micropolitical aim, aesthetic and affirming discord.
   The parent says organizational becoming "is constituted by the
   micropolitics of attempting to reach" it (p. 1358). That is a stronger,

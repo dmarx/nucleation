@@ -6,7 +6,7 @@ status_note: >-
   The publisher's reading sample (content.e-bookshelf.de, 27 pp.: preface,
   contributors, sources, and the opening of ch. 1) was read. Chapter 2,
   where the parent's quotations sit, first appeared as an open interview
-  in Inflexions 3 (2009), filed and read as LIT-tmp8hcfz.
+  in Inflexions 3 (2009), filed and read as [LIT-tmp8hcfz](LIT-tmp8hcfz.md).
 title: 'Politics of Affect'
 version: 1
 history:
@@ -46,7 +46,7 @@ summary: >-
   transition in a body's capacities; the book builds on it "differential
   affective attunement", "collective individuation", "micropolitics" and
   "ontopower". Unread beyond the publisher's sample; its ch. 2 is read in
-  its first printing, LIT-tmp8hcfz.
+  its first printing, [LIT-tmp8hcfz](LIT-tmp8hcfz.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpkdsex — Proposed; the reading of the definition quoted from this book -->
 
@@ -67,12 +67,12 @@ threshold, seen from the point of view of the change in capacity", and
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) take their definition of affect
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) take their definition of affect
 from it (p. 1353): affect is "a dimension of every event" (p. 47), "a
 power to affect and be affected [that] governs a transition, where a body
 passes from one state of capacitation to a diminished or augmented state
 of capacitation. This comes with the corollary that the transition is
 felt" (p. 48). They also cite p. 200 for "a field of relation" (pp. 1354,
 1356). The definition was checked word for word against ch. 2's first
-printing (LIT-tmp8hcfz, p. 1). Page 200 could not be checked. The
-parent's use of the definition is discussed there and in THEORY-tmpkdsex.
+printing ([LIT-tmp8hcfz](LIT-tmp8hcfz.md), p. 1). Page 200 could not be checked. The
+parent's use of the definition is discussed there and in [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md).

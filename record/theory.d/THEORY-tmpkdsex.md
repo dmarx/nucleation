@@ -19,11 +19,11 @@ source:
 - LIT-tmp8hcfz
 - LIT-tmpe2cnn
 summary: >-
-  Massumi (2009), LIT-tmp8hcfz, read in NOTE-tmpyf5pn, p. 1; reprinted in
-  Politics of Affect (2015, pp. 47–48), LIT-tmpe2cnn. The definition is
+  Massumi (2009), [LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), read in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md), p. 1; reprinted in
+  Politics of Affect (2015, pp. 47–48), [LIT-tmpe2cnn](../literature.d/LIT-tmpe2cnn.md). The definition is
   Spinoza's as Deleuze took it up, and it runs both ways, diminished or
   augmented. Massumi says it is "not a general definition that you can
-  apply". Bencherki et al. (LIT-tmp3mudg) quote it exactly and then apply
+  apply". Bencherki et al. ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) quote it exactly and then apply
   only its augmenting half, as a definition of agency.
 ---
 <!-- inactive-ok-file: LIT-tmpe2cnn THEORY-tmpcaccx — Unavailable or Proposed; the book that reprints the source, and the parent paper's claim set beside this -->
@@ -32,9 +32,9 @@ summary: >-
 
 ## Source
 
-Massumi, interviewed by McKim, Inflexions 3 (2009), LIT-tmp8hcfz, pp. 1–3,
-read in NOTE-tmpyf5pn. The interview is reprinted as ch. 2 of Politics of
-Affect (2015), LIT-tmpe2cnn, which was not reached.
+Massumi, interviewed by McKim, Inflexions 3 (2009), [LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), pp. 1–3,
+read in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md). The interview is reprinted as ch. 2 of Politics of
+Affect (2015), [LIT-tmpe2cnn](../literature.d/LIT-tmpe2cnn.md), which was not reached.
 
 ## What was actually shown
 
@@ -47,13 +47,13 @@ status: "It's not a general definition that you can apply ... Rather than
 a definition, what you have is a proposition" (p. 3).
 
 The record has checked that this is what Massumi says, in the form
-Bencherki, Brummans & Vézy (LIT-tmp3mudg, p. 1353) quote. Proposed status
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1353) quote. Proposed status
 is about the account of affect itself, which is offered without evidence.
 
 ## What this does not say
 
 - **That affect augments.** The transition is symmetric. Defining agency
-  as its augmenting half, as LIT-tmp3mudg does (THEORY-tmpcaccx), is a
+  as its augmenting half, as [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md) does ([THEORY-tmpcaccx](THEORY-tmpcaccx.md)), is a
   further step Massumi does not take.
 - **That it is Massumi's invention.** He presents it as Spinoza's, after
   Deleuze.
@@ -63,5 +63,5 @@ is about the account of affect itself, which is offered without evidence.
   augmented ability to act") goes beyond its source and needs its own
   criterion.
 - **That affect is emotion,** or a personal feeling. Emotion is "a very
-  partial expression of affect" (LIT-tmpe2cnn, ch. 1, in the publisher's
+  partial expression of affect" ([LIT-tmpe2cnn](../literature.d/LIT-tmpe2cnn.md), ch. 1, in the publisher's
   sample).

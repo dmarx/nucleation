@@ -6,8 +6,8 @@ status_note: >-
   closed, and OpenAlex reports no open location; the 2021
   twentieth-anniversary edition (10.1215/9781478021971) is closed too.
   Only chapter 1, "The Autonomy of Affect", sits on a course page, and a
-  single chapter does not count (ADR-053); that essay is filed as
-  LIT-tmpubqb9. The passage the parent paper quotes (pp. 218–219) is not
+  single chapter does not count ([ADR-053](../decisions.d/ADR-053.md)); that essay is filed as
+  [LIT-tmpubqb9](LIT-tmpubqb9.md). The passage the parent paper quotes (pp. 218–219) is not
   in that chapter.
 title: 'Parables for the Virtual: Movement, Affect, Sensation'
 version: 1
@@ -56,13 +56,13 @@ Sensation*. Durham, NC: Duke University Press. doi:10.1215/9780822383574.
 ## Key takeaways
 
 *Registered from metadata, not a reading.* The book revises "The Autonomy
-of Affect" (LIT-tmpubqb9) as its first chapter and argues for starting
+of Affect" ([LIT-tmpubqb9](LIT-tmpubqb9.md)) as its first chapter and argues for starting
 cultural theory from the body in movement rather than from fixed subject
 positions.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) quote it for disindividuation
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) quote it for disindividuation
 (p. 1356): "[t]here is self-activity qualitatively expressed, presenting
 an affective order that is not yet 'yours' or 'mine.' There is event.
 There is anomaly. There are jilted expectations" (Massumi 2002, p. 218).
@@ -72,5 +72,5 @@ distributed". They then equate their "excess action" with "what Massumi
 checked. One thing should be checked when a copy is supplied: whether
 Massumi's "exaggeration" is an excess to be discharged into others, as
 the parent uses it, or an excess of potential that is never transferred.
-In his later work it is the latter (LIT-tmp8hcfz, p. 9; LIT-tmpi0u4n, p.
+In his later work it is the latter ([LIT-tmp8hcfz](LIT-tmp8hcfz.md), p. 9; [LIT-tmpi0u4n](LIT-tmpi0u4n.md), p.
 29).
