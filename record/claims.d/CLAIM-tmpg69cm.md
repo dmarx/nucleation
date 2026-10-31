@@ -55,8 +55,8 @@ summary: >-
   need histories that present states and outcomes do not show. What is
   dropped is that every judgment needs a prescribed future: evaluating a
   history and fixing the admissible continuations are different problems.
-  "Cognizable" is read as "well-defined", CLAIM-363's sense. Its objection
-  is CLAIM-tmp1l3am.
+  "Cognizable" is read as "well-defined", [CLAIM-363](CLAIM-363.md)'s sense. Its objection
+  is [CLAIM-tmp1l3am](CLAIM-tmp1l3am.md).
 ---
 <!-- inactive-ok-file: QUESTION-128 QUESTION-256 — Open; the questions this bears on, cited as open -->
 
@@ -84,7 +84,7 @@ that a description of the present state or the outcome does not contain.
 - Two histories can end in the same state, one keeping a cap on working
   hours throughout and the other breaching it and then compensating (A27
   §1). A norm about the breach is not a function of the end state. This
-  is CLAIM-350's factorization condition applied to histories: J_N
+  is [CLAIM-350](CLAIM-350.md)'s factorization condition applied to histories: J_N
   factors through a description only if the description separates the
   histories J_N separates.
 - A reform can keep one capacity of an organization by changing another
@@ -95,7 +95,7 @@ that a description of the present state or the outcome does not contain.
 
 So specifying the relevant relations and histories can be necessary for
 applying such judgments adequately. That is the owner's insight, beside
-CLAIM-363's standpoint, standard, scale and context.
+[CLAIM-363](CLAIM-363.md)'s standpoint, standard, scale and context.
 
 **Prescription is a further question.** Which continuations ought to
 follow, 𝒜_N(γ), is a separate normative problem. It is not a
@@ -108,17 +108,17 @@ does not need one.
 
 - **That every normative judgment concerns organizations.** Judgments
   about experiences, such as that suffering is bad, may need no
-  diachronic relatum. This is CLAIM-tmp1l3am's narrow horn, which the
+  diachronic relatum. This is [CLAIM-tmp1l3am](CLAIM-tmp1l3am.md)'s narrow horn, which the
   narrowed claim no longer contests.
 - **That persistence is privileged.** Which continuation is warranted is
   the standard's question. The whole's persistence cannot outweigh its
-  constituents' claims by being the whole's (CLAIM-348).
+  constituents' claims by being the whole's ([CLAIM-348](CLAIM-348.md)).
 - **That the organization judged is the one whose identity persists.**
   Obligations can survive an organization's dissolution, and an
   organization can persist while its constitutive commitments lapse (A27
   §6). Normative continuity is not organizational identity.
 - **That specifying the history justifies the verdict.** Viability does not
-  establish what ought to persist (CLAIM-075).
+  establish what ought to persist ([CLAIM-075](CLAIM-075.md)).
 - **That a judgment no one recognizes is false.** "An injustice does not
   cease to be wrong because the institution responsible lacks the
   categories needed to recognize it" (A26).

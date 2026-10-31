@@ -87,13 +87,13 @@ Two things must be kept apart:
   policy identifies predictive structure  ⇏  a particular internal
   component realizes it.
 
-Richens et al.'s result belongs on the left (CLAIM-tmp4htg4). Mechanistic
+Richens et al.'s result belongs on the left ([CLAIM-tmp4htg4](CLAIM-tmp4htg4.md)). Mechanistic
 identification belongs on the right. The evidence for each differs.
 
 - **Compression.** A table grows with the number of histories, and a model
   can be exponentially smaller. Where resources are bounded, as in every
   physical agent, matched competence under a resource bound can favour a
-  model-based explanation (THEORY-624 casts this as model comparison
+  model-based explanation ([THEORY-624](../theory.d/THEORY-624.md) casts this as model comparison
   relative to a prior). It favours that explanation over a particular
   table. It does not identify the architecture: many compact controllers
   are not explicit generative world models.
@@ -108,7 +108,7 @@ identification belongs on the right. The evidence for each differs.
   behaviour, predict differently. Targeted interventions on internals are
   the main source: alter a component and find the behaviour change as a
   predictive model's would, and not as the rivals' would. Matched
-  trajectories conceal differences that intervention exposes (CLAIM-414).
+  trajectories conceal differences that intervention exposes ([CLAIM-414](CLAIM-414.md)).
 
 ## What it does not say
 

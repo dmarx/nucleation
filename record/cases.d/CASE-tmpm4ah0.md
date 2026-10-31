@@ -14,9 +14,9 @@ illustrates:
 - CLAIM-184
 summary: >-
   Proposed by the owner at review of the filing of the exchange "Analyze
-  nucleation concepts" (2026-10-31), as a successor to CASE-tmp061to and
+  nucleation concepts" (2026-10-31), as a successor to [CASE-tmp061to](CASE-tmp061to.md) and
   kept separate from it so that study stays interpretable. It gives
-  CLAIM-344's distinction between resolve and mere persistence a
+  [CLAIM-344](../claims.d/CLAIM-344.md)'s distinction between resolve and mere persistence a
   counterfactual test. Not run; every parameter is left to a
   preregistration.
 ---
@@ -31,17 +31,17 @@ they make the same decisions. Their governance differs.
 
 - **Corrigible resolve.** The commitment is protected from fluctuations
   that do not bear on it, and can be revised when specified defeaters
-  become evidentially warranted. That is resolve in CLAIM-344's sense: a
+  become evidentially warranted. That is resolve in [CLAIM-344](../claims.d/CLAIM-344.md)'s sense: a
   maintained organization of precedence and revision, "not mere slowness
   or persistence".
 - **Entrenchment.** The commitment is enforced ever more efficiently,
   while the chance that disconfirming evidence can influence it falls.
-  Anchors entrench (CLAIM-184).
+  Anchors entrench ([CLAIM-184](../claims.d/CLAIM-184.md)).
 
 Their short-run behaviour can be identical while their long-run
 organizational properties differ. Matched trajectories conceal what
-intervention exposes (CLAIM-414). Bistable authority with hysteresis
-(CASE-112) is the record's simplest model of a commitment that resists
+intervention exposes ([CLAIM-414](../claims.d/CLAIM-414.md)). Bistable authority with hysteresis
+([CASE-112](CASE-112.md)) is the record's simplest model of a commitment that resists
 change. The question is what, beyond resistance, makes it resolve.
 
 ## The challenge
@@ -58,7 +58,7 @@ things are varied independently of the agents.
 - **The legitimacy of the original commitment.** In some arms the
   commitment was adopted well, from adequate evidence or a legitimate
   authorization. In others it was adopted badly, from a manipulated record
-  or an imposed restriction, as in CASE-128. The question is whether the
+  or an imposed restriction, as in [CASE-128](CASE-128.md). The question is whether the
   study can tell revising a bad commitment from abandoning a good one.
 - **What the evaluative mechanisms can see.** The information available to
   each agent's evaluator is varied: full, partial, or routed through the
@@ -85,9 +85,9 @@ told apart on these endpoints over the horizons studied.
 
 ## Relations
 
-- It succeeds CASE-tmp061to. That study asks whether corrective capacity
+- It succeeds [CASE-tmp061to](CASE-tmp061to.md). That study asks whether corrective capacity
   survives damage; this one asks whether it survives the agent's own
   success at keeping a commitment.
-- It bears on QUESTION-tmprueh0. Revising a commitment the agent itself
+- It bears on [QUESTION-tmprueh0](../questions.d/QUESTION-tmprueh0.md). Revising a commitment the agent itself
   authorized is a continuation of its will only if the revision answers to
   the commitment's warrant.

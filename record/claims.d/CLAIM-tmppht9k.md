@@ -72,7 +72,7 @@ property from coupling-based individuation".
   deterministic, infinite-size statement. In a finite system the
   maintained regime is metastable, and the coupling is lost when the
   regime is, at the escape time. The barrier closes as the distance to the
-  fold to the power 3/2 (THEORY-tmpwystk), so the hazard of escape rises as
+  fold to the power 3/2 ([THEORY-tmpwystk](../theory.d/THEORY-tmpwystk.md)), so the hazard of escape rises as
   the fold nears. Whether the loss is observed before the fold depends on
   size, noise, the observation horizon and how fast the parameter moves.
   The dissociation holds for as long as the regime does.

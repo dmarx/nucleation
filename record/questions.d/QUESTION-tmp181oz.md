@@ -78,7 +78,7 @@ term [TERM-tmp6c38c](../terms.d/TERM-tmp6c38c.md) would stand, split or be rejec
 
 ## Note of 2026-10-31: a negative control
 
-At the owner's review, TERM-tmp6c38c version 2 took correctability out of
+At the owner's review, [TERM-tmp6c38c](../terms.d/TERM-tmp6c38c.md) version 2 took correctability out of
 the definition of a concept. Conceptual corrigibility is now a further
 achievement. The question's list of criteria keeps correction by evidence
 as one property to track. The term no longer treats it as a condition of

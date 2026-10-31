@@ -53,11 +53,11 @@ held entries, not as a new claim.
 
 For an agent facing a normatively relevant discrepancy, three distinct
 things must happen:
-- **Legibility.** The discrepancy becomes recognizable (TERM-064).
+- **Legibility.** The discrepancy becomes recognizable ([TERM-064](../terms.d/TERM-064.md)).
 - **Volitional efficacy.** A corresponding demand can influence action,
-  through the agent's will-organization (TERM-023).
+  through the agent's will-organization ([TERM-023](../terms.d/TERM-023.md)).
 - **Correctability.** An appropriate revision can be carried out, within
-  deadline and resources (TERM-085).
+  deadline and resources ([TERM-085](../terms.d/TERM-085.md)).
 
 None of them establishes that the demand or the revision is justified.
 Call the realized ability of a normatively relevant distinction to affect
@@ -66,7 +66,7 @@ efficacy**. It can fail along any of the three paths. That is why an
 agent can be sincere, well informed and able to act, and still fail to act
 on a commitment.
 
-In the terms of CLAIM-tmpg69cm, separate:
+In the terms of [CLAIM-tmpg69cm](../claims.d/CLAIM-tmpg69cm.md), separate:
 - 𝓗_exec(O, W, Λ; B, T), the histories the agent can realize through its
   actual organization O, will-organization W and legibility apparatus Λ,
   under budget B and horizon T;
@@ -79,24 +79,24 @@ the agent as it actually is. Two cautions:
 - **An empty intersection does not show the agent is beyond criticism.**
   Its earlier actions may have destroyed the capacities required. An
   intervention can make its own correction costlier or unreachable
-  (CLAIM-464).
+  ([CLAIM-464](../claims.d/CLAIM-464.md)).
 
 That last point ties historical responsibility to the record's
-resource-bounded account of future possibilities (CLAIM-475). Resolve, on
-CLAIM-344's account, is what keeps a commitment effective through changes
+resource-bounded account of future possibilities ([CLAIM-475](../claims.d/CLAIM-475.md)). Resolve, on
+[CLAIM-344](../claims.d/CLAIM-344.md)'s account, is what keeps a commitment effective through changes
 that do not defeat it, while keeping it revisable by those that do.
 
 ## Note of 2026-10-31: historically situated corrective authority
 
 Also from the owner's review. Two organizations can have the same present
 decision procedures and make the same decisions while differing in how
-those procedures were authorized. CASE-128 is the basic case: voluntary
+those procedures were authorized. [CASE-128](../cases.d/CASE-128.md) is the basic case: voluntary
 precommitment against imposed restriction.
 
 This question asks how authorization persists, or fails to persist,
 through transformations of the very standards used to judge authorization.
 Identifying the process now effective cannot settle that, and neither can
-showing that the process is maintained internally (CLAIM-tmpr8p2x).
+showing that the process is maintained internally ([CLAIM-tmpr8p2x](../claims.d/CLAIM-tmpr8p2x.md)).
 Three things are distinct:
 
   endogenous governance ≠ historically continuous authorization ≠
