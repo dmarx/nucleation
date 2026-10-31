@@ -17,9 +17,9 @@ date: '2026-10-31'
 source:
 - LIT-tmpls0y0
 summary: >-
-  Tsoukas & Chia (2002), LIT-tmpls0y0, read in NOTE-tmpyz5d5. The thesis
+  Tsoukas & Chia (2002), [LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md). The thesis
   of organizational becoming, which Bencherki, Brummans & Vézy 2024
-  (LIT-tmp3mudg) say their theory parallels. Proposed: it is argued from
+  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) say their theory parallels. Proposed: it is argued from
   process philosophy and illustrated from others' ethnographies. The
   change it describes is carried by human actors, not agent-free.
 ---
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Tsoukas & Chia (2002), LIT-tmpls0y0, pp. 567–580; read in NOTE-tmpyz5d5.
+Tsoukas & Chia (2002), [LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), pp. 567–580; read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md).
 
 ## What was actually shown
 
@@ -49,7 +49,7 @@ done that could have come out the other way.
 - **That agency is without agents.** The change is carried by "actors
   ... reweaving their webs of beliefs" and "the ongoing agency of
   organizational members" (pp. 575, 580). Citing this paper for an
-  agent-free process ontology, as LIT-tmp3mudg's "parallels" invites,
+  agent-free process ontology, as [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)'s "parallels" invites,
   takes from it more than it says.
 - **How individual reweaving becomes organizational.** That is left open
   (p. 580).

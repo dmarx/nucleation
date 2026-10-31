@@ -68,7 +68,7 @@ Hernes, T. (2014). *A Process Theory of Organization*. Oxford: Oxford University
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy 2024 (LIT-tmp3mudg) take from it:
+Bencherki, Brummans & Vézy 2024 ([LIT-tmp3mudg](LIT-tmp3mudg.md)) take from it:
 
 - their epigraph and central question, "How can there be agency without
   agents?" (p. 93, quoted pp. 1349, 1358 and 1363);

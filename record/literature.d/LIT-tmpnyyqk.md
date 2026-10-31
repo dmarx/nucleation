@@ -59,7 +59,7 @@ New York, NY: Routledge. doi:10.4324/9781315622514-7.
 ## Key takeaways
 
 *Registered from metadata, not a reading.* What the record knows of the
-chapter is what Bencherki, Brummans & Vézy (LIT-tmp3mudg) report of it
+chapter is what Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) report of it
 (pp. 1359–1361):
 
 - It analyses a 2005 meeting in the Democratic Republic of the Congo
@@ -76,7 +76,7 @@ chapter is what Bencherki, Brummans & Vézy (LIT-tmp3mudg) report of it
 
 ## Why this is here
 
-It is the data of LIT-tmp3mudg's illustration. The parent presents "a
+It is the data of [LIT-tmp3mudg](LIT-tmp3mudg.md)'s illustration. The parent presents "a
 simplified version of Cooren's excerpt", with nonverbal detail added from
 the video and nine further lines (68–76) beyond where Cooren stops (p.
 1359). It says Cooren's analysis, while it "opens up the conversational

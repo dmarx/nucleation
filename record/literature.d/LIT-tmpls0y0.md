@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmpyz5d5), from the version of record (a
+  read in full 2026-10-31 ([NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md)), from the version of record (a
   scan with OCR) posted on the first author's own site,
   htsoukas.com/wp-content/uploads/2014/03/tsoukas-chia-2002.pdf. Worth
   reading as the standard statement of "organizational becoming" in
@@ -59,7 +59,7 @@ summary: >-
 
 Tsoukas, H., & Chia, R. (2002). On organizational becoming: Rethinking organizational change. *Organization Science*, 13(5), 567–582. doi:10.1287/orsc.13.5.567.7810.
 
-Read in full in NOTE-tmpyz5d5.
+Read in full in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md).
 
 ## Key takeaways
 
@@ -79,7 +79,7 @@ Read in full in NOTE-tmpyz5d5.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy 2024 (LIT-tmp3mudg) cite it twice. On p. 1349
+Bencherki, Brummans & Vézy 2024 ([LIT-tmp3mudg](LIT-tmp3mudg.md)) cite it twice. On p. 1349
 it is named for drawing on Bergson and James. On p. 1351 the paper says
 its theory "parallels existing conceptions of organizational becoming
 (see Tsoukas & Chia, 2002), yet explicates the role agency plays in this

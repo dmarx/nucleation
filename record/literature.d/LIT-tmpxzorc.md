@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmpt4ssk), from the journal's open-access
+  read in full 2026-10-31 ([NOTE-tmpt4ssk](../notes.d/NOTE-tmpt4ssk.md)), from the journal's open-access
   PDF (CC BY 4.0). A five-page response to Cooren's "Pragmatism as
   ventriloquism" (Language Under Discussion 2014). Its point is about
   method: Montréal School CCO's commitment to interaction makes
   conversation analysis its method of choice, so ventriloquism cannot be
   the open metamodel for Craig's seven traditions that Cooren proposes.
-  Worth knowing chiefly because Bencherki, Brummans & Vézy (LIT-tmp3mudg)
+  Worth knowing chiefly because Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md))
   cite it for a claim it does not make, that Cooren's analyses "entify
   agents".
 title: "Ventriloquism's methodological scope"
@@ -54,7 +54,7 @@ summary: >-
 Wilhoit, E. D. (2016). Ventriloquism's methodological scope. *Language
 Under Discussion*, 2(1), 45–49. doi:10.31885/lud.2.1.243.
 
-Read in full in NOTE-tmpt4ssk.
+Read in full in [NOTE-tmpt4ssk](../notes.d/NOTE-tmpt4ssk.md).
 
 ## Key takeaways
 
@@ -72,7 +72,7 @@ Read in full in NOTE-tmpt4ssk.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) cite it three times:
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) cite it three times:
 
 - p. 1351: conversational analysis "creates the impression that
   already-constituted agents are interacting with one another (Wilhoit,
