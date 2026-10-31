@@ -139,3 +139,23 @@ rest only on Faye and Jaksland's quotations of Barad 2007 ([NOTE-1220](../notes.
 [NOTE-1230](../notes.d/NOTE-1230.md)). The 2012 essay says "a specific intra-action enacts an
 agential cut" and uses "apparatus" only of the two-slit set-up. Those
 clauses, which [CLAIM-476](../claims.d/CLAIM-476.md) uses, wait on a reading of [LIT-1657](../literature.d/LIT-1657.md).
+
+## Note of 2026-10-31: one paper, two senses
+
+<!-- inactive-ok-file: CLAIM-476 — Proposed; the claim that uses the third sense -->
+
+Bencherki, Brummans and Vézy (LIT-tmp3mudg) cite Barad (2003, p. 815) for
+the agential cut and use it in two senses. At p. 1357: "Describing an
+action by starting from a human being is but an analytical choice that
+isolates some aspect in a series of continuous individuation processes;
+it corresponds to an 'agential cut' ... or the selection of a link in a
+chain of agencies", and so "agency is a matter of perspective". That is an
+analyst choosing a description of a process individuated without the
+choice. It is none of this term's three senses, and nearest an observer's
+choice of coarse-graining. At p. 1366, researchers "can only investigate
+individuation processes by/while individuating into others". That is
+sense 3, a differentiation enacted within a process the analyst belongs
+to. The paper does not separate the two, and NOTE-tmpfw3f7's limitation,
+that perspectivism and realism pull against each other in it, is this
+ambiguity. A citation of the paper for "agential cut" should say which
+page it means. No status, title or warrant changes.

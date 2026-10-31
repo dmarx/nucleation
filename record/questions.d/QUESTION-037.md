@@ -64,3 +64,22 @@ it settle" procedurally only: an issue is settled "by convincing the
 opponents or decided by a formal decision procedure", or dodged, or
 substituted. It offers no account of an argument's structure stabilising
 over time, which is what this question asks.
+
+## Note of 2026-10-31: the metaphor's ancestor, and who individuates
+
+<!-- inactive-ok-file: LIT-1648 QUESTION-tmptu1u2 CLAIM-185 — Unavailable, Open or Proposed; Simondon's book unread, the question filed the same day, and the candidate answer -->
+
+This question's metaphor, a supersaturated solution that holds more than
+it fixes until a site forms, is Simondon's paradigm of individuation from
+a metastable state (LIT-1648, unread; read at second hand through
+LIT-tmpj9jyk and LIT-tmpwspny). The organization-studies readings of
+Simondon add one thing that bears on the question. Their method holds
+that the researcher must individuate along with what is studied (LIT-tmp3mudg,
+p. 1366). A collaborator that keeps no memory cannot do this across
+sessions; that is CLAIM-177's finding. On the readings' terms, then, what
+individuates over the argument's development is the record and not the
+collaborator, and the project memory is where the inquiry's own genesis is
+carried. This is an interpretation, not evidence. What it would commit
+the record to is QUESTION-tmptu1u2. CLAIM-185 (note of this date) gives
+the crystal's two senses in that literature. No status, title or warrant
+changes.

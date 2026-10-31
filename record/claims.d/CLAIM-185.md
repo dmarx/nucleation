@@ -229,3 +229,38 @@ this claim unchanged. The first defeater is still unchecked: [CASE-183](../cases
 inbound references per code have not been computed, and [ARG-028](../arguments.d/ARG-028.md)'s
 question, whether the record's own grammar can show anchoring, is still
 open.
+
+## Note of 2026-10-31: Simondon's crystal, at second hand, and the parent paper's other crystal
+
+<!-- inactive-ok-file: LIT-1648 THEORY-tmp1g3ve CLAIM-184 — Unavailable or Proposed; Simondon's book, unread, its reading at second hand, and the counter set beside this claim -->
+
+The image this line is named for has an ancestor the claim did not name.
+Simondon builds individuation on crystallization from a metastable
+solution. An individual forms by transduction, a structuring that
+propagates step by step, each structured region the condition for the
+next (LIT-1648's summary; the book is unread here). Bencherki and Iliadis
+quote the propagation "from kin to kin" (*de proche en proche*), each
+structured region serving as the principle of the next (Simondon 2005,
+p. 32, in their translation; NOTE-tmp62e4t). That is this claim's second
+part, that later structure grows only on structure that persists, stated
+as an account of all individuation. Simondon reached it from the same
+physics the record reads in Vekilov and Ostwald. It adds no evidence about
+arguments. Simondon generalizes the crystal by analogy, as this claim does,
+and his organizational readers use the generalization without a test
+(THEORY-tmp1g3ve; NOTE-tmphu9ok, "no argument that could fail"). Same
+structure, not shown to be the same mechanism.
+
+The parent paper (LIT-tmp3mudg) uses the crystal the other way. Crystals
+are "organized relatively homogeneously, and are therefore relatively
+stable" (p. 1355). "Some fields, such as crystals or well-oiled
+bureaucracies, are so densely assembled that they cannot be reorganized
+easily when they meet other fields. They remain mostly unaffected and
+communication with them is challenging" (pp. 1356–1357). That is the
+crystal once it has formed, not the crystal while it grows, and it is
+CLAIM-184's entrenchment, not this claim's anchoring. Both readings are
+physically right: the metastable field is the solution, and the crystal
+that has grown in it is stable. So the one image carries both of the
+line's poles, the seed that lets structure form and the dense structure
+that later material can no longer reorganize. Which pole a given anchor is
+at is CLAIM-184's question, and the readings do not answer it. No status,
+title or warrant changes.
