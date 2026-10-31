@@ -89,18 +89,18 @@ the four here.
 - **Genetic, or operational.** In those readings, individuation is the
   operation by which a metastable system resolves a disparity between
   differently ordered domains, and the individual is its partial,
-  provisional product (LIT-tmp3mudg, p. 1355; LIT-tmpj9jyk, pp. 10–12,
-  THEORY-tmp1g3ve). The four senses here are claims about a candidate
+  provisional product ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1355; [LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md), pp. 10–12,
+  [THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md)). The four senses here are claims about a candidate
   individual: that it can be tracked, that it persists, that its relations
   fix it, that it maintains its own constraints. The readings' sense names
   the process that would produce such a candidate. The record asks about
-  that process in QUESTION-281, how forms come into being and pass away,
+  that process in [QUESTION-281](../questions.d/QUESTION-281.md), how forms come into being and pass away,
   without a word for it. A claim citing these readings should say that it
   means the genetic sense and not one of the four.
 - **The product is never complete.** An individual "does not exhaust the
-  tensions that allowed its constitution" (Simondon 1989, quoted by Bencherki 2017, LIT-tmp1rpyl,
+  tensions that allowed its constitution" (Simondon 1989, quoted by Bencherki 2017, [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md),
   p. 782), and "an individuation process does not
-  'use up' or 'consume' the preindividual it integrates" (LIT-tmp3mudg, p.
+  'use up' or 'consume' the preindividual it integrates" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p.
   1355). So a Simondonian individual carries unresolved potential by
   definition. That sits uneasily with the dynamical sense's "robust
   identity and boundaries". Whether a unit can be robustly individuated
@@ -111,9 +111,9 @@ the four here.
 - **"Not stages" is said of something else there.** Bencherki and
   Iliadis's proposition 2, that persons and organizations "are not at
   different stages of individuation, but rather different informational
-  levels" (LIT-tmpwspny, ms. p. 21; THEORY-tmp4o1dd), is about levels of
+  levels" ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. p. 21; [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)), is about levels of
   entities. This term's "the senses are not stages" is about kinds of
-  claim. The two agree in form only. CLAIM-tmpg3993 answers the levels
+  claim. The two agree in form only. [CLAIM-tmpg3993](../claims.d/CLAIM-tmpg3993.md) answers the levels
   proposition.
 
 No status, title or warrant changes.

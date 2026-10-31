@@ -186,35 +186,35 @@ claim's. They mean two things by it, and only one of them is this claim's.
 
 - **Relative to other processes.** "individuation is always relative and
   is constituted through/in communication between preindividual elements"
-  (LIT-tmp3mudg, p. 1355), and "The individual is thus 'only individual in
+  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1355), and "The individual is thus 'only individual in
   relation to the multiplicity of preindividual potentialities that exist
   within it'" (the same page, quoting Bluemink). This is an ontological
   relationality: what an individual is depends on what it is in process
-  with. CLAIM-477 is the record's nearest claim. It is not relativity of a
+  with. [CLAIM-477](CLAIM-477.md) is the record's nearest claim. It is not relativity of a
   verdict to a criterion.
 - **Relative to a cut.** "Describing an action by starting from a human
   being is but an analytical choice ... it corresponds to an 'agential cut'
-  ... Hence, agency is a matter of perspective" (p. 1357; THEORY-tmpcaccx).
+  ... Hence, agency is a matter of perspective" (p. 1357; [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)).
   Bencherki and Iliadis individuate domains by "an internal ordering whose
   logic distinguishes different domains for practical purposes"
-  (LIT-tmpwspny, ms. p. 20; THEORY-tmp4o1dd). Bencherki 2017: which being
+  ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. p. 20; [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)). Bencherki 2017: which being
   is focal and which is its associated milieu "is a matter of perspective"
-  (LIT-tmp1rpyl, p. 781). This is this claim's part 1, with the criterion
+  ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 781). This is this claim's part 1, with the criterion
   left unfixed: no target, no transformations the unit must survive, no
   scale. As stated it is A9's second rejected position, a boundary "chosen
   pragmatically by investigators". This claim supplies what the readings
   lack. Once the cut's criterion is stated, the verdict can be wrong, and
   the readings' agent-free descriptions become assessable rather than only
-  available. ARG-tmpm57h1 records that this sentence bears here and not on
-  CLAIM-418.
+  available. [ARG-tmpm57h1](../arguments.d/ARG-tmpm57h1.md) records that this sentence bears here and not on
+  [CLAIM-418](CLAIM-418.md).
 
 One thing in the readings is a case of part 3. In Bencherki 2017
-(THEORY-tmpuh0eb), one action, the spouses' volunteer daycare, counts
+([THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)), one action, the spouses' volunteer daycare, counts
 toward the army's individuation and is prevented from counting toward
 the women's (p. 792). Whose action it is gets different, crossing
 answers depending on which individuation is the criterion. The paper
 calls the army's answer usurpation, so it treats one answer as wrong.
 That needs a criterion fixed in advance, which the paper's theory
-disclaims (NOTE-tmp4ysch, "Open questions").
+disclaims ([NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md), "Open questions").
 
 No status, title or warrant changes.
