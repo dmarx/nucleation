@@ -19,6 +19,9 @@ tags:
 date: '2026-10-31'
 source:
 - LIT-tmp3mudg
+bears_on:
+- QUESTION-063
+- QUESTION-tmp3wvgk
 summary: >-
   Bencherki, Brummans and Vézy (2024), [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), read in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md), pp. 1349–1357. The
   paper's central proposal, after the Spinozan formula for affect that
@@ -86,3 +89,28 @@ then reorganizes how he describes MSF so that it can accept.
 - **The actors-as-webs view.** Tsoukas and Chia's becoming, which the
   paper calls a parallel, keeps reflexive human actors as its carriers
   ([THEORY-tmprgc9k](THEORY-tmprgc9k.md)).
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Distributed agency and individuation
+
+- **ARG-tmpm57h1** (Rejected): the perspectivism bears on CLAIM-405, not CLAIM-418.
+- **TERM-086**: augmentation without a named target.
+- **QUESTION-063**: the spillover, read as coupling.
+- **CLAIM-430**: the MSF reanalysis.
+
+### Will-organization, organizational affect and authenticity
+
+- **CLAIM-352**: this is the reach side, not will-organization.
+- **CLAIM-354**: augmentation needs a comparison the record makes partial.
+- **CLAIM-tmptb7y2**.
+- **CLAIM-484**: excess action is close to a claim that exceeds its grant.
+- **CLAIM-080**: the supposition is denied, but the will account is not reached.
+
+### Nucleating argument and formal apparatus
+
+- **TERM-087.** The agential cut of p. 1357 is an analyst's choice, not Barad's sense; p. 1366 is closer to Barad's.
+- **CLAIM-419.** Disindividuation has the structure of a grammar misfit answered by reorganizing. Analogy only.
+

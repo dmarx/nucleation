@@ -16,6 +16,10 @@ tags:
 date: '2026-10-31'
 source:
 - LIT-tmp8hcfz
+bears_on:
+- QUESTION-063
+answers:
+- QUESTION-053
 summary: >-
   Massumi (2009), [LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), read in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md), pp. 6 and 9: affect
   "is not a content that can be transported from one event to another
@@ -63,3 +67,21 @@ will be responding differently together" (p. 6).
   load handed on. That reading fits the parent's own claim that
   "several meanings can also coexist within a single system" (p. 1358)
   better than its examples do.
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-226 and CLAIM-074.** Differential attunement and pre-channelling correspond, in structure, to interpreter history as a source of divergent response.
+- **CASE-068**, by analogy only: each speaker shifted the evaluative stance and each receiver tracked it. This is content-level, not affect.
+
+### Distributed agency and individuation
+
+- **QUESTION-063**: a shared cue is common drive, not coupling.
+
+### Will-organization, organizational affect and authenticity
+
+- **QUESTION-053**: a further option, with its own test. It is an analogy to CLAIM-437.
+

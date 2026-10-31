@@ -19,6 +19,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpwspny
 - LIT-tmp1rpyl
+bears_on:
+- QUESTION-284
 summary: >-
   Bencherki & Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), read in [NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md), with
   Bencherki (2017), [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md). The claim behind the parent paper's
@@ -80,3 +82,22 @@ continuum" (p. 1351).
 - **That coexistence is observed.** The cell-to-organization example is a
   thought experiment. The meeting excerpt shows one ordering spreading,
   not two levels changing at once.
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **QUESTION-130.** Not an answer: coexisting levels that propagation reorders are state evolution, with a connection the analyst chooses.
+
+### Distributed agency and individuation
+
+- **CLAIM-tmpg3993** answers it. **CLAIM-388** is the record's case of a closed level that is an aggregate.
+- **QUESTION-284**: individuation by internal ordering instead of a boundary.
+- **CLAIM-474**: rejecting stages here is about entities, not achievements.
+
+### Will-organization, organizational affect and authenticity
+
+- **CLAIM-080**: coexisting levels allow a given agent without deriving one.
+

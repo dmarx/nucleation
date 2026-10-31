@@ -87,7 +87,7 @@ The readings filed on this date bear on this question three ways.
   the concept, thus transforming it", and that "the application of a
   concept is always a normative act" (LIT-tmpls0y0, p. 574;
   THEORY-tmp9bte2). Change of that kind "occurs naturally, incrementally,
-  and inexorably through 'creep,' 'slippage,' and 'drift'" (p. 580). If
+  and inexorably through 'creep,' 'slippage,' and 'drift'" (p. 579). If
   the standards by which an organization reads authorization are
   categories of this kind, a history of authorization may contain no
   event at which the standard changed. Each application was authorized

@@ -16,6 +16,8 @@ tags:
 date: '2026-10-31'
 source:
 - LIT-tmpls0y0
+bears_on:
+- QUESTION-259
 summary: >-
   Tsoukas & Chia (2002), [LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md). The thesis
   of organizational becoming, which Bencherki, Brummans & Vézy 2024
@@ -28,7 +30,7 @@ summary: >-
 
 ## Source
 
-Tsoukas & Chia (2002), [LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), pp. 567–580; read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md).
+Tsoukas & Chia (2002), [LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), pp. 567–579; read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md).
 
 ## What was actually shown
 
@@ -45,11 +47,29 @@ done that could have come out the other way.
 ## What this does not say
 
 - **That organizations constantly change.** Inertia is granted, and it is
-  redescribed as local change that is not institutionalized (p. 580).
+  redescribed as local change that is not institutionalized (p. 579).
 - **That agency is without agents.** The change is carried by "actors
   ... reweaving their webs of beliefs" and "the ongoing agency of
-  organizational members" (pp. 575, 580). Citing this paper for an
+  organizational members" (pp. 575, 579). Citing this paper for an
   agent-free process ontology, as [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)'s "parallels" invites,
   takes from it more than it says.
 - **How individual reweaving becomes organizational.** That is left open
-  (p. 580).
+  (p. 579).
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Distributed agency and individuation
+
+- **CLAIM-418, part 3, and CLAIM-430, part 3**: radial extension, and the condition of institutionalization (pp. 578–579).
+
+### Will-organization, organizational affect and authenticity
+
+- **CLAIM-122**: the Navy TQ case and its structural context.
+- **CLAIM-080**: actors carry the change.
+
+### Nucleating argument and formal apparatus
+
+- **CLAIM-189.** It supports the counter that change in a developing argument is legitimate, and that traceability, not preservation, is what a record secures.
+

@@ -21,6 +21,9 @@ date: '2026-10-31'
 source:
 - LIT-tmp1rpyl
 - LIT-tmpwspny
+bears_on:
+- QUESTION-011
+- QUESTION-tmp3wvgk
 summary: >-
   Bencherki (2017), [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md), with Bencherki &
   Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md). The proposal of which Bencherki,
@@ -95,3 +98,30 @@ this paper's p. 783.
   attribution and institutional recognition fail to coincide.
 - **[THEORY-tmpcaccx](THEORY-tmpcaccx.md)** is the parent paper's development of this account
   into agency without agents.
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-255.** Usurpation needs performance fixed apart from recognition, which the theory makes one variable.
+- **CLAIM-226.** Concurrent significations show that disagreement is structured; the theory does not model it.
+
+### Distributed agency and individuation
+
+- **CLAIM-403**: usurpation is uptake without attribution.
+- **TERM-086**: the daycare as the army's achievement.
+- **CLAIM-405**: crossing verdicts on whose action it is.
+
+### Will-organization, organizational affect and authenticity
+
+- **CLAIM-022**: the same limit.
+- **CLAIM-518 and CLAIM-512**: the checklist and the daycare.
+- **CLAIM-523**: "political activity".
+- **CASE-128**.
+
+### Nucleating argument and formal apparatus
+
+- **CLAIM-310 and CLAIM-313.** Significations do not conflict as descriptions, and attributions conflict only when held once. Table 1's usurpation is exclusive credit, and its co-individuation is copied credit. Same structure, not shown to be the same mechanism.
+

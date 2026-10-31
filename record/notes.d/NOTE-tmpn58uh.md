@@ -129,3 +129,24 @@ What would show that a collective had reached, or failed to reach, "a
 maximally inclusive co-patterning"? Massumi calls it "always-as-yet
 unknowable", which makes it hard to use as a description of
 organizations.
+
+## Bearing on the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-496.** Co-patterning that affirms discord (p. 64) describes a family that is not coherent but not failing either. CLAIM-496 names what the ideal lacks: a task against which loss is read.
+
+### Distributed agency and individuation
+
+- **QUESTION-281.** The co-patterning of discord (p. 64) has the same structure as the frustration route, "organizing differences that cannot all be reconciled". It has no dynamics.
+
+### Will-organization, organizational affect and authenticity
+
+- **Co-patterning** (p. 64) is three things in the record's terms:
+  - local accommodation that keeps the discord (CLAIM-358);
+  - non-domination without alignment (CLAIM-362);
+  - on a reading that requires a choice, something CLAIM-353 limits.
+- **"Excess of activity over action"** (p. 29) is distinct from CLAIM-047's idle regime and from CLAIM-484's refused claim.
+

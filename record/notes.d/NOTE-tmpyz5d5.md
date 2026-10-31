@@ -11,7 +11,7 @@ history:
     13(5):567–582), 17 pp., the publisher's PDF posted on the first
     author's site. It is a scan, and the text was extracted with
     pdftotext from its OCR layer. Page numbers are the journal's. The body
-    was read in full, pp. 567–580. The reference list, pp. 580–582, was
+    was read in full, pp. 567–579. The reference list, pp. 579–582, was
     skimmed.
 date: '2026-10-31'
 summary: >-
@@ -89,7 +89,7 @@ The results are conceptual.
    life", not its origin.
 5. **Inertia.** Ongoing change does not mean organizations constantly
    change. Local adaptations may never be institutionalized. "Organizations
-   tend to resist change" is shorthand for that failure (p. 580).
+   tend to resist change" is shorthand for that failure (p. 579).
 
 ## Claims
 
@@ -99,7 +99,7 @@ The results are conceptual.
 | C2 | Applying radially structured categories to nonprototypical cases changes them | moderate | prototype theory plus Feldman's and Tsoukas & Vladimirou's cases (pp. 573–575) |
 | C3 | Change is ontologically prior to organization | weak | a stance motivated by C1 and C2; nothing is described that could count against it |
 | C4 | Change programmes work by amplifying changes already under way | weak | rereading of Barrett et al. and Orlikowski & Hofman (pp. 578–579) |
-| C5 | Inertia is failed institutionalization of local change, not its absence | moderate | conceptual distinction (p. 580) |
+| C5 | Inertia is failed institutionalization of local change, not its absence | moderate | conceptual distinction (p. 579) |
 
 ## Concepts
 
@@ -115,7 +115,7 @@ The results are conceptual.
 - **Discursive template.** The interpretive codes a change programme
   introduces.
 - **Microscopic change.** Change that occurs "through 'creep,' 'slippage,'
-  and 'drift'" and may never be institutionalized (p. 580).
+  and 'drift'" and may never be institutionalized (p. 579).
 
 ## Connections
 
@@ -126,7 +126,7 @@ The results are conceptual.
   (p. 1351). This paper is human-centred: change is "inherent in human
   action" (p. 570), its engine is "the intrinsically human ability to be
   reflexive" (p. 575), and organization emerges "through the ongoing
-  agency of organizational members" (p. 580). Bencherki et al. hold that
+  agency of organizational members" (p. 579). Bencherki et al. hold that
   "there are no already-constituted agents" (p. 1358). The two agree that
   organization is a secondary effect of process. They disagree on whether
   the process is carried by agents. Bencherki et al. do not mark the
@@ -148,17 +148,39 @@ The results are conceptual.
   ethnographies, chosen because they show change. No case is described
   in which a routine stays the same under performance.
 - **The ontological claim is not testable as stated.** The authors grant
-  that organizations often do not change (p. 580). They save the thesis
+  that organizations often do not change (p. 579). They save the thesis
   by placing change below the level of institutionalization, where it
   "may never acquire the status of formal organizational systems". This
   makes "change is pervasive" hard to fault.
 - **Unit of analysis.** The account is about individuals reweaving their
   beliefs. How individual reweaving becomes organizational is left as "a
-  different issue" for "empirical research" (p. 580).
+  different issue" for "empirical research" (p. 579).
 
 ## Open questions
 
 - Under what conditions does microscopic change become institutionalized?
-  The authors leave this open (p. 580).
+  The authors leave this open (p. 579).
 - Whether the radial-category mechanism predicts which rules will change,
   for instance that rules with more nonprototypical cases drift faster.
+
+## Bearing on the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Distributed agency and individuation
+
+- **CLAIM-418, part 3.** Radial categories (p. 574) and institutionalization in a "structural context" (pp. 578–579) give a mechanism by which agents' exercise of a shared perspective transforms it, with the agents kept. The same mechanism bears on QUESTION-259.
+- **CLAIM-430, part 3.** Whether a local extension becomes the organization's depends on institutionalization, which may fail (pp. 578–579).
+
+### Will-organization, organizational affect and authenticity
+
+- **Navy TQ** (pp. 578–579) is a second-hand instance for CLAIM-122, but it does not hold the proposals fixed. The "structural context" (p. 579) is what TERM-023 analyses.
+- **Creep, slippage and drift** (pp. 574, 579) mean authorizing standards can change with no act of revision (QUESTION-364). They give QUESTION-334 a mechanism and a test design, as an analogy.
+- **Both parts of CLAIM-363 hold for categories** (p. 574).
+- **Actors carry the change** (p. 575), which is consistent with CLAIM-080's supposition.
+
+### Nucleating argument and formal apparatus
+
+- **Radial extension and the record's closed vocabularies.** The record forbids the silent form ("never replaced by the nearest wrong one"). So a category is extended at the nonprototypical case by decision and institutionalized at once (CLAIM-419; CASE-178: 94% of terms were used in the pull request that added them). That is a designed answer to the open question at p. 579. CASE-178's note of 2026-10-31 sets out a blind self-test of THEORY-tmp9bte2.
+- **Change as legitimate.** The reading supports CLAIM-189's counter: CLAIM-177's redefinitions failed because they were silent, not because they happened. What a record secures is traceability.
+

@@ -148,3 +148,23 @@ The results are interpretive.
   structure qualifies.
 - Whether the four concepts are Simondon's ordering or the author's; the
   English translation ([LIT-1648](../literature.d/LIT-1648.md)) would settle it.
+
+## Bearing on the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-tmpeli2w** offers an operational answer to this note's first open question. An action fails to inform a population if, after exposure, neither its response function on held-out items nor the set of questions it can decide changes.
+
+### Distributed agency and individuation
+
+- **QUESTION-285.** Iliadis sets information "exchanged between beings already individuated" against information "within systems to come that produce a new individuation" (p. 11). That parallels a fixed apparatus against one whose discriminations are revised. Same structure only.
+- **TERM-088.** The paper's individuation is genetic, which is none of TERM-088's four senses.
+- **QUESTION-281.** "metastability to stability" (p. 11) is the only trace of the dynamical sense. Simondon's crystal (LIT-1648) would settle it.
+
+### Nucleating argument and formal apparatus
+
+- **The open question "whether anything counts as a failure to inform"** has an answer in decision-theoretic terms (CLAIM-503, note of 2026-10-31). An experiment within ε of an uninformative one improves no [0, 1]-loss decision problem by more than ε, and this is decided before any outcome. This is a translation, not an identity: Simondon's disparity is not a likelihood.
+- **The crystal.** Iliadis does not use it, but it is Simondon's model case (LIT-1648's summary) and the source of this record's own image (QUESTION-037, CLAIM-185).
+

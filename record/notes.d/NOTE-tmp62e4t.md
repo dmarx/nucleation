@@ -165,3 +165,33 @@ fieldwork (proposition 4).
   ordered domain on this account. The authors take Sillince's complaint
   that CCO uses "organization" for everything (ms. p. 20) and answer it
   by making "organization" cover any differently ordered group.
+
+## Bearing on the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-002.** In kin-to-kin propagation each structured region is the principle of the next (ms. pp. 13–14). That has the structure of a reconstruction chain, keeping continuity and dropping similarity of function.
+- **CLAIM-tmpeli2w.** Proposition 1's information, a disparity resolved by reordering a domain, is in the line's terms a change of interpreter or of cover. It is not evidence in Blackwell's sense.
+- **QUESTION-130.** Not an answer. Domains fixed "for practical purposes" (ms. p. 20) give no fixed connection, and propagation that reorders a domain is state evolution.
+
+### Distributed agency and individuation
+
+- **CLAIM-tmpg3993** answers proposition 2 (ms. p. 21). Levels coexist, but a closed level need not "preserve all the characteristics" of its components. A closed aggregate, such as CLAIM-388's sum, shows that stages and coexistence are not exclusive.
+- **QUESTION-284.** Domains are individuated by their internal ordering, and Luhmannian boundary reproduction is rejected (ms. pp. 20–21). That is a fourth option beside detected, maintained and constituted boundaries. CLAIM-388 is the record's formal case of it.
+- **QUESTION-285.** The classroom and recess example (ms. p. 7) is A19's definition of measurement, with the receiver's ordering deciding the difference an input makes. It does not separate record, use or inquiry.
+- **CLAIM-474.** "resolve their internal incompatibility into an organised reality" (ms. pp. 7–8) defines compatibility as individuation, which CLAIM-474 denies. It is a definition, not a defeater.
+- **CLAIM-477.** Transduction (ms. p. 14: "each constituted region of structure serves as a principle of constitution to the next region") states CLAIM-477's recursion as propagation. Same structure only.
+- **QUESTION-281.** "metastable systems (i.e. where energy is not homogeneously distributed)" (ms. p. 7) is not the sense of metastability that nucleation needs.
+
+### Will-organization, organizational affect and authenticity
+
+- Coexisting levels ("each exist fully and simultaneously") are compatible with CLAIM-080's given agent.
+
+### Nucleating argument and formal apparatus
+
+- **Proposition 4**, that knowledge "should reflect on the way that knowledge itself has individuated", is one of the two demands QUESTION-tmptu1u2 tests against CLAIM-294 and CLAIM-475.
+- **Transduction "from kin to kin"** (Simondon 2005 p. 32, ms. pp. 13–14) is CLAIM-185's anchoring stated as a general account of individuation; see the note of 2026-10-31 there. Analogy, not evidence.
+- **Domains "for practical purposes"** (ms. p. 20) are what the decision-theoretic comparison of CLAIM-503 fixes in advance. Fixing them buys an ex ante criterion of failing to inform, which this account lacks.
+

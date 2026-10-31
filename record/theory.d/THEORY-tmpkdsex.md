@@ -65,3 +65,17 @@ is about the account of affect itself, which is offered without evidence.
 - **That affect is emotion,** or a personal feeling. Emotion is "a very
   partial expression of affect" ([LIT-tmpe2cnn](../literature.d/LIT-tmpe2cnn.md), ch. 1, in the publisher's
   sample).
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Distributed agency and individuation
+
+- **TERM-086**: Massumi's transition is symmetric, and the paper's halving of it leaves the target unnamed.
+
+### Will-organization, organizational affect and authenticity
+
+- **CLAIM-tmptb7y2** places capacitation as viable reach, distinct from emotion (TERM-094) and valence (CLAIM-440).
+- **CLAIM-439**: Massumi's "felt" is its unfelt.
+

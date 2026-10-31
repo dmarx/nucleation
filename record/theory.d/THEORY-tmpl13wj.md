@@ -16,6 +16,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpi0u4n
 - LIT-tmp8hcfz
+bears_on:
+- QUESTION-034
 summary: >-
   Massumi (2017), [LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 64, read in [NOTE-tmpn58uh](../notes.d/NOTE-tmpn58uh.md); anticipated
   in the 2009 interview ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 12) as "a symbiosis: a
@@ -64,3 +66,20 @@ The record checked the quotation that Bencherki, Brummans & Vézy
 - **How to tell success from failure.** Massumi calls the outcome "always
   as-yet unknowable", so the ideal gives no criterion. That is why this
   stays Proposed.
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-496.** It is the record's case of incoherence without loss, and it supplies the task-relative criterion this ideal lacks.
+
+### Distributed agency and individuation
+
+- **QUESTION-281**: the discord route, by analogy only.
+
+### Will-organization, organizational affect and authenticity
+
+- **CLAIM-358, CLAIM-362, and CLAIM-353**: CLAIM-353 is the formal limit if a choice is required.
+

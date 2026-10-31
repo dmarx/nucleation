@@ -15,6 +15,10 @@ tags:
 date: '2026-10-31'
 source:
 - LIT-tmpls0y0
+bears_on:
+- QUESTION-259
+- QUESTION-334
+- QUESTION-364
 summary: >-
   Tsoukas & Chia (2002), [LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), pp. 573–575, read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md).
   The paper's mechanism for organizational becoming, built on Lakoff's
@@ -52,4 +56,21 @@ independently of this one (p. 575).
 - **That the extension is arbitrary.** "The indeterminacy of extension
   does not indicate arbitrariness" (p. 574).
 - **That an extension, once made, becomes organizational.** That needs
-  institutionalization, which may not happen (p. 580).
+  institutionalization, which may not happen (p. 579).
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Distributed agency and individuation
+
+- **CLAIM-418, part 3, and CLAIM-430, part 3**: radial extension, and the condition of institutionalization (pp. 578–579).
+
+### Will-organization, organizational affect and authenticity
+
+- **CLAIM-363**: both parts hold for rules. This THEORY's promote_when has QUESTION-334's design.
+
+### Nucleating argument and formal apparatus
+
+- **CLAIM-419 and CASE-178.** The record is its own case: a closed vocabulary turns radial extension into a decided amendment. CASE-178 is consistent with this theory but does not test it, since nothing was classified as prototypical in advance. Its 2026-10-31 note gives the test design.
+

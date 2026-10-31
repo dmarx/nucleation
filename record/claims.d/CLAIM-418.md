@@ -216,7 +216,7 @@ to, and on reading does not.
   institutionalized, which can fail (pp. 578–579). That is the claim's
   "reproduce or transform" with the agent's act, the category and the
   institution kept distinct, as the claim keeps them. The paper's change
-  is carried by "the ongoing agency of organizational members" (p. 580),
+  is carried by "the ongoing agency of organizational members" (p. 579),
   so it supports the claim's middle position, perspective without
   identity with agency and agency without identity with perspective,
   against the agent-free reading Bencherki, Brummans and Vézy take from

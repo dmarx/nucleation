@@ -18,6 +18,9 @@ date: '2026-10-31'
 source:
 - LIT-tmpj9jyk
 - LIT-tmpwspny
+bears_on:
+- QUESTION-285
+- QUESTION-281
 summary: >-
   Iliadis (2013), [LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md), read in [NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md), with Bencherki &
   Iliadis (2021), [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md). The reading of Simondon on which
@@ -78,3 +81,26 @@ gives that action its meaning."
   ([LIT-1648](../literature.d/LIT-1648.md)) is Unavailable.
 - **That any change of structure is an informational event in a sense
   that discriminates.** As stated, every reordering qualifies.
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-tmpeli2w.** Information in this sense is a change in the interpreter (CLAIM-118) or in the questions a receiver can decide (CLAIM-257). It is not evidence of the kind Blackwell's order compares (CLAIM-050, CLAIM-259), so the two are not rivals.
+- **CLAIM-171.** If meaning is the structure the transduction produces, it is known only afterwards. That is the cost of CLAIM-171's position at full strength.
+
+### Distributed agency and individuation
+
+- **QUESTION-285**: the classroom and recess example sits at the measurement rung.
+- **QUESTION-281**: the readings' "metastable" is not the sense nucleation needs.
+- **CLAIM-474**: compatibility is defined as individuation.
+- **CLAIM-477**: transduction is the recursion, stated as propagation.
+- **TERM-088**: the genetic sense.
+
+### Nucleating argument and formal apparatus
+
+- **CLAIM-503.** Information is relative to a system there too, but with an ex ante criterion of failing to inform, at the price of fixing states and decision problems in advance.
+- **CLAIM-185 and QUESTION-037.** Simondon's crystal, transduction as structuring that propagates step by step, is the ancestor of the nucleating-argument line's image. Analogy.
+

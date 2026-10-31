@@ -220,7 +220,7 @@ reached, read. Here is what they show about the paper's use of them.
   carried by "actors ... conceived as webs of beliefs and habits of action
   that keep reweaving" through "the intrinsically human ability to be
   reflexive" (p. 575), and organization emerges "through the ongoing agency
-  of organizational members" (p. 580) ([THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md)).
+  of organizational members" (p. 579) ([THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md)).
 - **Wilhoit 2016** ([LIT-tmpxzorc](../literature.d/LIT-tmpxzorc.md), read) does not say what the paper
   attributes to it.
   - The paper says (pp. 1363–1364) that Wilhoit noted Cooren's analyses
@@ -294,3 +294,60 @@ reached, read. Here is what they show about the paper's use of them.
   of the same episode does not.
 - What methods would let researchers "individuate into" what they study
   (p. 1366). The authors leave this open.
+
+## Bearing on the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-002.** Communication as "the continuity of action through beings" (p. 1364) is CLAIM-002's continuity of transmission taken without similarity of function. That is why the piston example makes it cover every causal continuity. Structure, not mechanism.
+- **CLAIM-171 and CLAIM-160.** Two passages are a systemic form of CLAIM-171's position, and stronger than it, since they leave no slot for intended meaning:
+  - "action contributes to informing a system that, retrospectively, gives that action its meaning" (p. 1357);
+  - the refusal of "people's understandings" (p. 1358).
+
+  They do not answer CLAIM-171's open point.
+- **CLAIM-226.** "Coexisting meanings of the same action indicate that several individuations are ongoing" (p. 1358) holds that disagreement is structured. The paper gives no model of it.
+- **CLAIM-496.** Rejecting the reduction of equivocality (p. 1358) is incoherence without failure. CLAIM-496, with CLAIM-259, supplies the task-relative criterion the paper lacks.
+- **CLAIM-tmpeli2w** places in the line's terms the paper's two senses of information (p. 1357) and its "dense" fields that "remain mostly unaffected" (pp. 1356–1357). They belong to the line's interpreter channel and change of cover.
+- **QUESTION-130.** Not an answer: transduction counts there as state evolution, not transport.
+
+### Distributed agency and individuation
+
+- **CLAIM-418, corrected.** "Agency is a matter of perspective" (p. 1357) is the analyst's agential cut, not TERM-072's organizational perspective. The bullet above calling it "a version of" CLAIM-418 over-reads it (ARG-tmpm57h1, Rejected). Its neighbour is CLAIM-405, whose criterion the paper leaves unfixed.
+- **Scaling up.** The claim that it "vanishes the moment communication is viewed eventfully" (p. 1364) holds for the aggregation of agents only. Whether an organization-level variable is closed against its realization stays decidable without agents (CLAIM-tmpg3993, resting on CLAIM-388 and CLAIM-386).
+- **Spillover or shared cue.** "her anger spills over into her inert colleagues" (p. 1354) is coupling. Massumi's account (THEORY-tmpywwei) is a common cue with differential response. The record's question on this is QUESTION-063.
+- **CLAIM-430.** The MSF reanalysis (pp. 1362–1363) is CLAIM-430's invitation with the order reversed: Robert redescribes MSF's existing practice so that he can take part.
+- **TERM-086.** "Augmented ability to act" is an organizational achievement with no target named. TERM-086 requires a target, which is the missing answer to "whose capacity counts".
+- **QUESTION-281.** The paper's "metastable" (p. 1355, where crystals are "relatively stable" and start-ups "less stable") is heterogeneity, not the locally stable state of the nucleation route. Disindividuation (pp. 1356, 1365) names the passing-away of forms without giving it any dynamics.
+
+### Will-organization, organizational affect and authenticity
+
+- **Agency here is a change in what can be done, not will-organization.**
+  - "Augmented ability to act" (p. 1354) falls on the reach side of CLAIM-352's split.
+  - CLAIM-354 makes the comparison it needs partial. Without a declared measure, the MSF outcome (pp. 1362–1363) is a change, not an augmentation.
+  - CLAIM-tmptb7y2 separates this quantity from Frijda's emotion and from the potential account's valence.
+- **The marks of conflict.** Robert's pause, gaze and reversal (pp. 1362–1363) are the marks CLAIM-484 names. The paper reads them as disindividuation, so the marks do not discriminate between the two readings (see the note on CLAIM-484).
+- **An outward route for internal conflict.** The climate-urge example (p. 1356) and "excess action" (p. 1351) settle a conflict by placing the demand in a collective. This is QUESTION-tmp3wvgk, beside CLAIM-358's local and escalated routes. It is also the personal form of QUESTION-364.
+- **The supposition denied.** "No already-constituted human beings" (p. 1357) denies CLAIM-080's supposition without reaching the will account. The reanalysis brings the agent back (p. 1364).
+- **Responsibility (pp. 1366–1367).** A duty "to foster each being-in-becoming", grounded in mutual dependence:
+  - is the inference CLAIM-075 disclaims, and the step QUESTION-007 records as "interdependence ⇏ obligation";
+  - offers prescription as the judgment itself, which CLAIM-518 separates and CLAIM-512's broad horn meets;
+  - treats responsibility as incorporation, without the justification step CLAIM-523 names.
+- **"Felt"** (p. 1363) is meant in Massumi's sense, which CLAIM-439 would call unfelt.
+
+### Nucleating argument and formal apparatus
+
+- **The method (p. 1366) and the record as apparatus.** Simondon's "following the being in its genesis, in accomplishing the genesis of thought at the same time as the genesis of the object" (Simondon 2020, p. 14, quoted) is a constitutive template beside Barad's for CLAIM-476.
+  - It needs no quantum premise, and it claims more than CLAIM-476 or CLAIM-470 allow.
+  - It derives no consequence beyond CLAIM-469's operational facts.
+  - QUESTION-tmptu1u2 asks whether knowing an object, and not only revising beliefs about it, needs the inquiry's own history.
+  - The record's workbench, history notes and decision-recorded grammar revisions (CASE-178) are a worked case of the methods the paper asks for.
+- **Two senses of the agential cut.** At p. 1357 the cut is "but an analytical choice"; at p. 1366 researchers are "individuating into others". See TERM-087's note of 2026-10-31. This is the source of the tension between perspectivism and realism noted under Limitations.
+- **Crystals.** The paper's crystals are "densely assembled" fields that "cannot be reorganized easily" (pp. 1355–1357). That is the formed crystal, CLAIM-184's entrenchment. Simondon's crystal, growing in a metastable solution, is CLAIM-185's anchoring.
+- **Disindividuation** (pp. 1356, 1365) has the structure of CLAIM-419's third outcome, a misfit answered by reorganizing. Analogy only.
+- **Coexisting meanings** (p. 1358).
+  - By CLAIM-310 they jointly refine and cost nothing, so coexistence alone does not show several individuations.
+  - By TERM-097 they are incoherent only under a stated correspondence structure, and the paper gives none.
+  - The dispute with Weick is about that structure.
+

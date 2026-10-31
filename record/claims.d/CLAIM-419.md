@@ -160,7 +160,7 @@ claim's third outcome.
   that was not dependence ([ADR-044](../decisions.d/ADR-044.md)), and a thought experiment among
   specimens ([ADR-042](../decisions.d/ADR-042.md)). What the record adds is where the extension
   happens. For Tsoukas and Chia it happens in use and may never be
-  institutionalized (p. 580). Here the closed vocabularies rule out the
+  institutionalized (p. 579). Here the closed vocabularies rule out the
   silent form: a missing word "is added by decision ... never replaced by
   the nearest wrong one" (CLAUDE.md). So the extension is made at the
   case that needed it, as a decision, and institutionalized at once

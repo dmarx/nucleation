@@ -19,6 +19,8 @@ tags:
 date: '2026-10-31'
 source:
 - LIT-tmp3mudg
+bears_on:
+- QUESTION-029
 summary: >-
   Bencherki, Brummans and Vézy (2024), [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), read in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md), pp. 1355–1358 and
   1363–1365. Simondon's transduction made into a theory of organizational
@@ -76,3 +78,23 @@ scaling-up account of the same meeting goes wrong.
 - **[CLAIM-430](../claims.d/CLAIM-430.md).** Taking part can come before the reinterpretation it
   later seems to express. That is the record's sharpest neighbour to
   retrospective meaning, with a mechanism the paper lacks.
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **CLAIM-002.** Transduction is continuity of transmission without similarity of function. CLAIM-002 says that gives descent, not fidelity.
+- **CLAIM-171.** Retrospective meaning is a systemic form of CLAIM-171's position, and it gives CLAIM-160's intended meaning no slot.
+- **CLAIM-496.** Coexisting meanings are incoherence that is not failure; the task-relative criterion is the record's own.
+
+### Distributed agency and individuation
+
+- **CLAIM-tmpg3993** meets this theory's own refutation condition for the question of levels, though not for the aggregation of agents.
+
+### Nucleating argument and formal apparatus
+
+- **TERM-097.** "Coexisting meanings" is not yet incoherence. Coherence is agreement under a stated correspondence structure, and the paper states none under which the meanings must agree (CLAIM-265). The dispute with Weick is about that structure.
+- **CLAIM-310.** Judgements of one action that are functions of its features jointly refine, so their coexistence does not by itself show that "several individuations are ongoing" (p. 1358).
+
