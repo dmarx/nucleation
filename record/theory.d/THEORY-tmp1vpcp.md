@@ -20,9 +20,9 @@ source:
 - LIT-tmph8zl0
 - LIT-582
 summary: >-
-  Mossio, Montévil and Longo (2016), LIT-tmph8zl0, §§1 and 4, read in
-  NOTE-tmp1gwqb; the definitions are Montévil and Mossio's (LIT-582,
-  TERM-070). The paper states the principle's status and scope and
+  Mossio, Montévil and Longo (2016), [LIT-tmph8zl0](../literature.d/LIT-tmph8zl0.md), §§1 and 4, read in
+  [NOTE-tmp1gwqb](../notes.d/NOTE-tmp1gwqb.md); the definitions are Montévil and Mossio's ([LIT-582](../literature.d/LIT-582.md),
+  [TERM-070](../terms.d/TERM-070.md)). The paper states the principle's status and scope and
   supports it by history and analogy; it derives nothing from it here.
   Proposed: what the principle buys is untested in this paper. It does
   not say that closure is observed in every organism, nor that only
@@ -34,9 +34,9 @@ summary: >-
 
 ## Source
 
-Mossio, Montévil and Longo (2016), LIT-tmph8zl0, §1 (pp. 1–2) and §4
-(pp. 6–9) of the authors' HAL manuscript; read in NOTE-tmp1gwqb. The
-definitions are LIT-582's.
+Mossio, Montévil and Longo (2016), [LIT-tmph8zl0](../literature.d/LIT-tmph8zl0.md), §1 (pp. 1–2) and §4
+(pp. 6–9) of the authors' HAL manuscript; read in [NOTE-tmp1gwqb](../notes.d/NOTE-tmp1gwqb.md). The
+definitions are [LIT-582](../literature.d/LIT-582.md)'s.
 
 ## What was actually shown
 
@@ -63,7 +63,7 @@ include (pp. 6–9).
 autopoiesis, Rosen and Kauffman (§3), and examples: the vasculature and
 gut, enzyme synthesis, the Na⁺/K⁺ pump. Nothing is derived from the
 principle in this paper beyond the two implications of §5
-(THEORY-tmptcl5r).
+([THEORY-tmptcl5r](THEORY-tmptcl5r.md)).
 
 ## What this does not say
 
@@ -71,7 +71,7 @@ principle in this paper beyond the two implications of §5
   exceptions" (p. 2) is secured by defining the domain through the
   principle.
 - **That only organisms realize closure.** The paper says the opposite:
-  the domain is presumably larger than organisms (compare THEORY-514).
+  the domain is presumably larger than organisms (compare [THEORY-514](THEORY-514.md)).
 - **What would count against the principle.** The paper does not say.
-- **Anything formal beyond LIT-582.** The definitions are restated; the
+- **Anything formal beyond [LIT-582](../literature.d/LIT-582.md).** The definitions are restated; the
   2015 paper's measure of a tendency to closure is not used.

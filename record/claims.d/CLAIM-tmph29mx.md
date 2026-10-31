@@ -93,9 +93,9 @@ Three kinds of evidence go beyond the interface:
 - **That the table encodes nothing.** Functionally, B's table determines
   every prediction A's model would make that the interface can reveal.
   Whether that counts as "containing" a model is the question Richens et
-  al. (LIT-tmplzs0t) answer yes, for goal-conditioned agents competent
+  al. ([LIT-tmplzs0t](../literature.d/LIT-tmplzs0t.md)) answer yes, for goal-conditioned agents competent
   across a family of composite goals. On that functional reading their
-  theorem holds and is filed as the counter CLAIM-tmp4htg4. On the explicit-component
+  theorem holds and is filed as the counter [CLAIM-tmp4htg4](CLAIM-tmp4htg4.md). On the explicit-component
   reading, the claim stands.
 - **That causal model, wanting and efficacy go together.** They are
   separable ([CLAIM-447](CLAIM-447.md)); this claim is about the first only.

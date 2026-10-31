@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp1gwqb) from the authors' HAL deposit;
+  read in full 2026-10-31 ([NOTE-tmp1gwqb](../notes.d/NOTE-tmp1gwqb.md)) from the authors' HAL deposit;
   worth reading for the status it gives closure of constraints, a
   theoretical principle that defines the domain of biology rather than
-  an empirical finding about organisms (THEORY-tmp1vpcp), and for its
+  an empirical finding about organisms ([THEORY-tmp1vpcp](../theory.d/THEORY-tmp1vpcp.md)), and for its
   argument that closure both removes and propagates variation
-  (THEORY-tmptcl5r). It adds no formal content to Montévil and Mossio
-  2015 (LIT-582), and its stability claims are argued without a model.
+  ([THEORY-tmptcl5r](../theory.d/THEORY-tmptcl5r.md)). It adds no formal content to Montévil and Mossio
+  2015 ([LIT-582](LIT-582.md)), and its stability claims are argued without a model.
 title: 'Theoretical principles for biology: Organization'
 version: 2
 history:
@@ -74,16 +74,16 @@ summary: >-
 
 Mossio, M., Montévil, M., & Longo, G. (2016). Theoretical principles for biology: Organization. *Progress in Biophysics and Molecular Biology*, 122(1), 24–35.
 
-Read in full in NOTE-tmp1gwqb.
+Read in full in [NOTE-tmp1gwqb](../notes.d/NOTE-tmp1gwqb.md).
 
 ## Why this is here
 
-A9 cited it beside Montévil and Mossio 2015 (LIT-582, read) for
+A9 cited it beside Montévil and Mossio 2015 ([LIT-582](LIT-582.md), read) for
 endogenous maintenance as closure. It states the principle the 2015 paper
-formalizes, and bears on TERM-070. The reading confirms both. It adds the
+formalizes, and bears on [TERM-070](../terms.d/TERM-070.md). The reading confirms both. It adds the
 point that a closure is always relative to external constraints it does
 not include. It also states the conditional that bears on the exchange's
 maintenance constructions: closure removes a variation only if the
 variation does not reach the constraints that regenerate the varied one
-(THEORY-tmptcl5r). It infers stability from that structure alone, which
-is the inference CLAIM-tmppht9k and CLAIM-tmpr8p2x caution against.
+([THEORY-tmptcl5r](../theory.d/THEORY-tmptcl5r.md)). It infers stability from that structure alone, which
+is the inference [CLAIM-tmppht9k](../claims.d/CLAIM-tmppht9k.md) and [CLAIM-tmpr8p2x](../claims.d/CLAIM-tmpr8p2x.md) caution against.

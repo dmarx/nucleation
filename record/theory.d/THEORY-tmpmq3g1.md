@@ -10,8 +10,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpody6k
 summary: >-
-  Kolathaya and Ames (2019), LIT-tmpody6k, Theorems 1–2 and Examples 1–2,
-  read in NOTE-tmpjhivv. Short proofs, checked by hand, and both
+  Kolathaya and Ames (2019), [LIT-tmpody6k](../literature.d/LIT-tmpody6k.md), Theorems 1–2 and Examples 1–2,
+  read in [NOTE-tmpjhivv](../notes.d/NOTE-tmpjhivv.md). Short proofs, checked by hand, and both
   examples checked by simulation. Active. Matched input disturbances only,
   local, and the enlargement is in barrier units and quadratic in the
   universal construction, not proportional to the disturbance.
@@ -21,8 +21,8 @@ summary: >-
 
 ## Source
 
-Kolathaya and Ames (2019), LIT-tmpody6k, §§III–V, pp. 2–4 of arXiv
-1803.03035v3; read in NOTE-tmpjhivv.
+Kolathaya and Ames (2019), [LIT-tmpody6k](../literature.d/LIT-tmpody6k.md), §§III–V, pp. 2–4 of arXiv
+1803.03035v3; read in [NOTE-tmpjhivv](../notes.d/NOTE-tmpjhivv.md).
 
 ## What was actually shown
 
@@ -58,4 +58,4 @@ d = 6, inside x ≤ 2 + d²/4 = 11. The bound is conservative.
   robust invariance of C: it trades staying in C for leaving it by a
   bounded amount. Where a certificate shows C itself invariant against
   the disturbance (inward margin larger than the disturbance), that is
-  robust invariance, the viability notion of THEORY-134, not ISSf.
+  robust invariance, the viability notion of [THEORY-134](THEORY-134.md), not ISSf.

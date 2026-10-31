@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp5ibkm), with the main proofs; worth
+  read in full 2026-10-31 ([NOTE-tmp5ibkm](../notes.d/NOTE-tmp5ibkm.md)), with the main proofs; worth
   reading for the precise
   sense in which evidence must precede commitment: the observation a
   committing action produces cannot justify it, and bounded information
   before commitment leaves a fixed fraction of the oracle gap to every
-  uniformly safe controller (THEORY-tmp78ls3). It also proves the
+  uniformly safe controller ([THEORY-tmp78ls3](../theory.d/THEORY-tmp78ls3.md)). It also proves the
   positive case, safe recovery from a repeatable informative experiment,
   and shows certainty equivalence failing at an active constraint
-  (THEORY-tmp7plj0).
+  ([THEORY-tmp7plj0](../theory.d/THEORY-tmp7plj0.md)).
 title: 'When Can Safe Controllers Adapt? Information before Commitment'
 version: 2
 history:
@@ -71,19 +71,19 @@ summary: >-
 
 Saligrama, V. (2026). When can safe controllers adapt? Information before commitment. arXiv:2607.16895.
 
-Read in full in NOTE-tmp5ibkm.
+Read in full in [NOTE-tmp5ibkm](../notes.d/NOTE-tmp5ibkm.md).
 
 ## Why this is here
 
 A20 §11 used it for the condition that inquiry needs information gathered
 before a correction is committed to: a discrepancy that cannot be
 distinguished in time cannot be corrected, whatever the update rule. It
-bears on CLAIM-312 and TERM-085's deadline. The reading bears A20's use
+bears on [CLAIM-312](../claims.d/CLAIM-312.md) and [TERM-085](../terms.d/TERM-085.md)'s deadline. The reading bears A20's use
 out and makes it exact. The floor on the evidence needed before the
 deadline is about log(1/(2α)) nats, and evidence that the corrective act
-itself would generate does not count (THEORY-tmp78ls3). Changing the
+itself would generate does not count ([THEORY-tmp78ls3](../theory.d/THEORY-tmp78ls3.md)). Changing the
 estimator cannot help; changing the experiment, the sensor (a persistent
 imprint rather than a transient signal) or the degree of specialization
 can. The "guarantee or exclude" choice, staying safe under every live
-alternative at a price fixed by information, bears on CLAIM-tmp025xj and
-QUESTION-285.
+alternative at a price fixed by information, bears on [CLAIM-tmp025xj](../claims.d/CLAIM-tmp025xj.md) and
+[QUESTION-285](../questions.d/QUESTION-285.md).

@@ -43,9 +43,9 @@ A programmatic paper in a special issue that proposes principles for a
 theory of organisms. It argues against "genocentrism", the view that
 genetic information determines biological organization (§1), and for
 organicism. It surveys the history of the idea of organization from Kant
-to Kauffman (§3), restates closure of constraints as the paper LIT-582
+to Kauffman (§3), restates closure of constraints as the paper [LIT-582](../literature.d/LIT-582.md)
 gave it (§4), and draws two implications for the relation between
-stability and variation (§5). Its novelty relative to LIT-582 is the
+stability and variation (§5). Its novelty relative to [LIT-582](../literature.d/LIT-582.md) is the
 status it gives closure: not a model or a criterion for drawing
 boundaries, but a *theoretical principle*.
 
@@ -142,15 +142,15 @@ These are definitions and arguments, not theorems.
 
 ## Connections
 
-- LIT-582 (Montévil and Mossio 2015, read) is the formal source; this
+- [LIT-582](../literature.d/LIT-582.md) (Montévil and Mossio 2015, read) is the formal source; this
   paper adds no formal content to its definitions and drops its
-  "tendency to closure" measure. TERM-070 holds the definition.
+  "tendency to closure" measure. [TERM-070](../terms.d/TERM-070.md) holds the definition.
 - The companion on variation, Montévil et al. 2016 in the same issue, is
   not held. Soto et al. 2016's default state (proliferation with
   variation and motility) is discussed in the conclusion as connected to
   organization, not proposed here as a third principle.
 - Rosen's closure to efficient causation, Kauffman's work–constraint
-  cycles, Piaget, autopoiesis (THEORY-666), and Ruiz-Mirazo and Moreno's
+  cycles, Piaget, autopoiesis ([THEORY-666](../theory.d/THEORY-666.md)), and Ruiz-Mirazo and Moreno's
   basic autonomy are surveyed (§3). Footnote 9 uses the hydrological
   cycle as a mutual dependence that is not biological organization,
   because the paper requires constraints, not just processes.
@@ -162,29 +162,29 @@ These are definitions and arguments, not theorems.
   proliferation with variation". The paper proposes two principles,
   organization and variation; the default state is Soto et al.'s, and
   the conclusion only relates organization to it.
-- **TERM-070.** Consistent; the same definition with the same direct and
+- **[TERM-070](../terms.d/TERM-070.md).** Consistent; the same definition with the same direct and
   generative qualifications (footnotes 15, 17). The paper adds the
   explicit statement that a closure is always realized relative to
-  external constraints (C₅), which TERM-070 could note.
-- **CLAIM-tmpczfpk.** The paper supports two parts of the claim. A
+  external constraints (C₅), which [TERM-070](../terms.d/TERM-070.md) could note.
+- **[CLAIM-tmpczfpk](../claims.d/CLAIM-tmpczfpk.md).** The paper supports two parts of the claim. A
   dependence cycle is needed for anything to persist beyond its own time
   scale. And a cycle of processes alone, like the hydrological cycle, is
   not closure. It says nothing quantitative.
-- **CLAIM-tmppht9k and CLAIM-tmpr8p2x.** The paper's stability argument
+- **[CLAIM-tmppht9k](../claims.d/CLAIM-tmppht9k.md) and [CLAIM-tmpr8p2x](../claims.d/CLAIM-tmpr8p2x.md).** The paper's stability argument
   is exactly the inference these claims caution against: it reads
   stability off the network of dependences without a dynamical model.
   Its own condition for conservative stabilization (that the variation not
   reach the generators) is a structural condition. Whether the
-  regeneration recovers is a separate dynamical question that CASE-tmpwxags
+  regeneration recovers is a separate dynamical question that [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)
   shows can fail at a saddle-node while the coupling looks healthy.
-- **THEORY-514** (Baedke): the "new closure" outcome of §5.2 is the
+- **[THEORY-514](../theory.d/THEORY-514.md)** (Baedke): the "new closure" outcome of §5.2 is the
   positive mark Baedke proposes for organisms. Mossio et al. state it as
   a feature of all organized systems, with no claim that only organisms
   achieve it. Their scope (biology covers any system meeting the
   principles, ecosystems possibly included) agrees with Baedke's negative
   half.
-- **THEORY-072.** Supports its demarcation from the flame (pp. 6, 12) but
-  adds no argument beyond LIT-582.
+- **[THEORY-072](../theory.d/THEORY-072.md).** Supports its demarcation from the flame (pp. 6, 12) but
+  adds no argument beyond [LIT-582](../literature.d/LIT-582.md).
 - No instruction for ML practice.
 
 ## Limitations

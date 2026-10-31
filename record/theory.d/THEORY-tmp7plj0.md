@@ -10,8 +10,8 @@ date: '2026-10-31'
 source:
 - LIT-tmp1o60r
 summary: >-
-  Saligrama (2026), LIT-tmp1o60r, §5 (Lemma 5, Theorem 2, Corollaries
-  5–7, §5.6.1), read in NOTE-tmp5ibkm with the proofs of Lemma 5 and
+  Saligrama (2026), [LIT-tmp1o60r](../literature.d/LIT-tmp1o60r.md), §5 (Lemma 5, Theorem 2, Corollaries
+  5–7, §5.6.1), read in [NOTE-tmp5ibkm](../notes.d/NOTE-tmp5ibkm.md) with the proofs of Lemma 5 and
   Theorem 2. Active: a short proof by a Gaussian mixture martingale and
   Ville's inequality, checked by hand, and an elementary calculation for
   certainty equivalence. Narrow: a scalar parameter with a known
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Saligrama (2026), LIT-tmp1o60r, §5 and Appendix B, pp. 20–25 and 38–40 of
-arXiv 2607.16895v1; read in NOTE-tmp5ibkm.
+Saligrama (2026), [LIT-tmp1o60r](../literature.d/LIT-tmp1o60r.md), §5 and Appendix B, pp. 20–25 and 38–40 of
+arXiv 2607.16895v1; read in [NOTE-tmp5ibkm](../notes.d/NOTE-tmp5ibkm.md).
 
 ## What was actually shown
 
@@ -64,5 +64,5 @@ to exploit it. The common-reset condition rules that out here.
   arguments" (Remark 9).
 - **That growth of information suffices.** Information must also be
   convertible into a safe transition to the selected regime (§6, §9).
-- **Anything when information is bounded.** That is THEORY-tmp78ls3's
+- **Anything when information is bounded.** That is [THEORY-tmp78ls3](THEORY-tmp78ls3.md)'s
   regime, where no rule recovers the gap.

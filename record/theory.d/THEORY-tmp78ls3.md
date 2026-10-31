@@ -11,8 +11,8 @@ date: '2026-10-31'
 source:
 - LIT-tmp1o60r
 summary: >-
-  Saligrama (2026), LIT-tmp1o60r, Theorem 1 and its examples, read in
-  NOTE-tmp5ibkm. The proof is data processing on the stopped record plus
+  Saligrama (2026), [LIT-tmp1o60r](../literature.d/LIT-tmp1o60r.md), Theorem 1 and its examples, read in
+  [NOTE-tmp5ibkm](../notes.d/NOTE-tmp5ibkm.md). The proof is data processing on the stopped record plus
   Bretagnolle–Huber, and the explicit relaxation and one example's
   optimization were checked numerically. Active: a theorem with a short
   proof, checked. It is a lower bound only; bounded information is
@@ -24,9 +24,9 @@ summary: >-
 
 ## Source
 
-Saligrama (2026), LIT-tmp1o60r, §§2–4 (Lemma 1, Definitions 3–6, Theorem
+Saligrama (2026), [LIT-tmp1o60r](../literature.d/LIT-tmp1o60r.md), §§2–4 (Lemma 1, Definitions 3–6, Theorem
 1, Corollaries 2–4), pp. 4–18 of arXiv 2607.16895v1; read in
-NOTE-tmp5ibkm.
+[NOTE-tmp5ibkm](../notes.d/NOTE-tmp5ibkm.md).
 
 ## What was actually shown
 

@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp6gc1w); worth reading for the cleanest
+  read in full 2026-10-31 ([NOTE-tmp6gc1w](../notes.d/NOTE-tmp6gc1w.md)); worth reading for the cleanest
   theorem that competence across a family of goals fixes the
   environment's dynamics, and for exactly what "contains a world model"
   means in it: the transition function is computable from the
-  goal-conditioned input-output map (THEORY-tmp07kll), which holds of a
-  lookup table as much as of a planner (THEORY-tmpg84fa). It is the
-  objection to the functional reading of CLAIM-tmph29mx, and it does not
+  goal-conditioned input-output map ([THEORY-tmp07kll](../theory.d/THEORY-tmp07kll.md)), which holds of a
+  lookup table as much as of a planner ([THEORY-tmpg84fa](../theory.d/THEORY-tmpg84fa.md)). It is the
+  objection to the functional reading of [CLAIM-tmph29mx](../claims.d/CLAIM-tmph29mx.md), and it does not
   meet that claim's defeated_if.
 title: 'General agents contain world models'
 version: 2
@@ -71,21 +71,21 @@ summary: >-
 
 Richens, J., Abel, D., Bellot, A., & Everitt, T. (2025). General agents contain world models. *Proceedings of the 42nd International Conference on Machine Learning*, PMLR 267. arXiv:2506.01622.
 
-Read in full in NOTE-tmp6gc1w.
+Read in full in [NOTE-tmp6gc1w](../notes.d/NOTE-tmp6gc1w.md).
 
 ## Why this is here
 
 Not named in the exchange. It is the published argument against
-CLAIM-tmph29mx, the owner's U20 thesis that a world model is an
+[CLAIM-tmph29mx](../claims.d/CLAIM-tmph29mx.md), the owner's U20 thesis that a world model is an
 explanatory attribution. Read with Block's lookup-table argument
-(THEORY-092). The reading settles how far it reaches. Under its
+([THEORY-092](../theory.d/THEORY-092.md)). The reading settles how far it reaches. Under its
 assumptions the transition function is identifiable from the
-goal-conditioned policy, uniquely to within the bound (THEORY-tmp07kll).
+goal-conditioned policy, uniquely to within the bound ([THEORY-tmp07kll](../theory.d/THEORY-tmp07kll.md)).
 So on the functional reading, ascribing a world model to a goal-general
 agent is not a stance one may withhold, and the thesis's "folk
 explanatory tool" is too weak there. But the recovery map runs from the
 policy, not from internals, and holds of a lookup table over histories
-and goals (THEORY-tmpg84fa). It makes no resource comparison and no
+and goals ([THEORY-tmpg84fa](../theory.d/THEORY-tmpg84fa.md)). It makes no resource comparison and no
 intervention, so it does not meet the thesis's defeated_if and does not
 reach its claim about realized mechanism. On the thesis's own setup, one
 fixed interface with no goal input, Theorem 2 shows nothing need be

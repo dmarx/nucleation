@@ -173,7 +173,7 @@ last step is a QCQP whose SDP dual gives upper certificates (§6).
 - Recursive feasibility, safety filters and returnability are the
   constrained-control tools; noncommitment is "exactly preservation of
   hard-safe recursive feasibility under that alternative" (p. 35). In
-  the record that is viability (THEORY-134): a commitment is the first
+  the record that is viability ([THEORY-134](../theory.d/THEORY-134.md)): a commitment is the first
   action that leaves the alternative's viability kernel.
 - Budgeted cumulative-violation constraints fall outside the theorem
   (Remark 4).
@@ -185,20 +185,20 @@ last step is a QCQP whose SDP dual gives upper certificates (§6).
   gap G_T, net of α_T and ζ_T, against the safe oracle; and the paper
   also proves the positive side (Theorem 2) and partial adaptation by
   lists, which the summary omits.
-- **CLAIM-312 and TERM-085.** A formal companion to both. CLAIM-312 says
+- **[CLAIM-312](../claims.d/CLAIM-312.md) and [TERM-085](../terms.d/TERM-085.md).** A formal companion to both. [CLAIM-312](../claims.d/CLAIM-312.md) says
   failure by the deadline establishes unavailability. Saligrama adds an
   information-theoretic floor on the evidence needed *before* the
   deadline: about log(1/(2α)) nats to act on an exclusion at risk α.
   The evidence a corrective act itself generates does not count towards
-  that floor. For TERM-085's correctability, a corrective objective that
+  that floor. For [TERM-085](../terms.d/TERM-085.md)'s correctability, a corrective objective that
   requires committing before enough evidence can be gathered has
   correctability bounded away from the oracle, whatever the update rule.
   That is A20's use, and it holds.
-- **CLAIM-tmp025xj and CASE-128.** The "guarantee or exclude" choice is a
+- **[CLAIM-tmp025xj](../claims.d/CLAIM-tmp025xj.md) and [CASE-128](../cases.d/CASE-128.md).** The "guarantee or exclude" choice is a
   clean case of the disclaimer's point. Staying correctable (preserving a
   safe continuation under every live alternative) has a price, ½e^{−β} of
   the gap, that is fixed by the information geometry, not by preference.
-- **QUESTION-285 (inquiry) and CASE-tmp061to.** The sensor ablation (§7.2)
+- **[QUESTION-285](../questions.d/QUESTION-285.md) (inquiry) and [CASE-tmp061to](../cases.d/CASE-tmp061to.md).** The sensor ablation (§7.2)
   is a crisp instance: the same safe prefix gives bounded evidence with a
   rate sensor and linearly growing evidence with a level sensor that
   records a persistent imprint. Whether a record of the past persists is
