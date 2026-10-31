@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'The MSF meeting reanalysed by Bencherki, Brummans and Vézy supports CLAIM-430''s first and third parts, and is neutral on its second'
+title: 'The MSF meeting reanalysed by Bencherki, Brummans and Vézy shows that an interaction can make available a way of relating its participants did not hold, and names the condition under which it lasts; it does not show that taking part comes before the reinterpretation'
 version: 1
 form: evidence
 grounds:
@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-430 LIT-tmp3mudg THEORY-tmp9bte2 THEORY-tmprgc9k — CLAIM-430 and the readings are Proposed -->
 
-# ARG-tmpho2jq: The MSF meeting reanalysed by Bencherki, Brummans and Vézy supports CLAIM-430's first and third parts, and is neutral on its second
+# ARG-tmpho2jq: The MSF meeting reanalysed by Bencherki, Brummans and Vézy shows that an interaction can make available a way of relating its participants did not hold, and names the condition under which it lasts; it does not show that taking part comes before the reinterpretation
 
 ## The inference
 

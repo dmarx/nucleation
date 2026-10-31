@@ -11,6 +11,10 @@
 
   A workbench entry records the pass.
 
+- Six ARGs for support relations the connections pass recorded in dated notes (ADR-061).
+  - Proposed: Tsoukas & Chia's radial extension as a second line for CLAIM-418 (ARG-tmpqydlr); the MSF meeting for CLAIM-430's first and third parts (ARG-tmpho2jq); Bencherki's checklist and daycare for CLAIM-518 (ARG-tmpfxh20).
+  - Rejected: the Navy TQ case does not hold proposals fixed for CLAIM-122 (ARG-tmplxoo6); the MSF transcript's marks of conflict do not discriminate CLAIM-484 from the paper's reading (ARG-tmpt8hq5); Simondon's crystallization supports CLAIM-185 only by analogy (ARG-tmpj58hf).
+
 ### Changed
 
 - [NOTE-tmpfw3f7](record/notes.d/NOTE-tmpfw3f7.md) and [THEORY-tmpcaccx](record/theory.d/THEORY-tmpcaccx.md) are corrected by the sources. Massumi's formula is a proposition and runs both ways. Hernes's "agency without agents" is an objection he anticipates. Tsoukas & Chia keep reflexive actors. Wilhoit does not make the claim attributed to her. Bencherki 2017 is the ancestor.
