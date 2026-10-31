@@ -15,7 +15,7 @@ summary: >-
   'concept' and a 'thing'?" and "how about 'entity'?". The assistant
   defined "concept" three times in three turns, each a little differently,
   which is the record's signal to give it a code. A candidate term is
-  filed beside it, Proposed (TERM-tmp6c38c); this question asks what would settle it.
+  filed beside it, Proposed ([TERM-tmp6c38c](../terms.d/TERM-tmp6c38c.md)); this question asks what would settle it.
 ---
 <!-- inactive-ok-file: QUESTION-275 QUESTION-285 TERM-088 — Open or Proposed; the questions this sits between and the senses of individuation, cited as open -->
 
@@ -23,7 +23,7 @@ summary: >-
 
 ## Why it is a question
 
-The record had no term for "concept" (TERM-tmp6c38c is now a Proposed
+The record had no term for "concept" ([TERM-tmp6c38c](../terms.d/TERM-tmp6c38c.md) is now a Proposed
 candidate). The exchange supplied three working definitions.
 
 - **A4:** a concept as discrimination, inferential role, relational
@@ -72,6 +72,6 @@ The record's own pieces:
 Criteria that separate concept, discriminator and habit, each measurable
 in a learning system: reuse across tasks, transfer to counterfactual
 inputs, integration with other capacities, and correction by evidence.
-Then a system where they can be tracked over training (QUESTION-275's
+Then a system where they can be tracked over training ([QUESTION-275](QUESTION-275.md)'s
 setting), to see whether they arrive together or apart. The candidate
-term TERM-tmp6c38c would stand, split or be rejected on the result.
+term [TERM-tmp6c38c](../terms.d/TERM-tmp6c38c.md) would stand, split or be rejected on the result.

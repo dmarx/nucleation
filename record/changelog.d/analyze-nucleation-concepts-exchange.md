@@ -18,9 +18,9 @@
 - A question on the continuation of will under revision of its own authorizing standards ([QUESTION-tmprueh0](record/questions.d/QUESTION-tmprueh0.md)).
 - Twenty-one works registered unread, every identifier checked, and a curation entry.
 
-- At the owner's decisions of 2026-10-31: `control-theory` joins the topics (ADR-066), and is added beside the existing tags of the viability and contraction entries (LIT-738, LIT-714, THEORY-134, LIT-1292, THEORY-771, THEORY-773); a Proposed term for "concept" (TERM-tmp6c38c), beside its question.
+- At the owner's decisions of 2026-10-31: `control-theory` joins the topics ([ADR-066](record/decisions.d/ADR-066.md)), and is added beside the existing tags of the viability and contraction entries ([LIT-738](record/literature.d/LIT-738.md), [LIT-714](record/literature.d/LIT-714.md), [THEORY-134](record/theory.d/THEORY-134.md), [LIT-1292](record/literature.d/LIT-1292.md), [THEORY-771](record/theory.d/THEORY-771.md), [THEORY-773](record/theory.d/THEORY-773.md)); a Proposed term for "concept" ([TERM-tmp6c38c](record/terms.d/TERM-tmp6c38c.md)), beside its question.
 
 ### Changed
 
 - Dated notes on [CLAIM-474](record/claims.d/CLAIM-474.md) (the achievements form a partial order, not a nesting, at the owner's U20), [CLAIM-475](record/claims.d/CLAIM-475.md) (three kinds of reachability), [CASE-152](record/cases.d/CASE-152.md), [CLAIM-337](record/claims.d/CLAIM-337.md), [TERM-085](record/terms.d/TERM-085.md) (correctability bounded by legibility) and [QUESTION-285](record/questions.d/QUESTION-285.md). No status, title or warrant of an existing entry changed.
-- CLAIM-474 version 3, at the owner's decision: its title states a partial order of achievements rather than a nested sequence. The five demonstrated claims filed Active stay Active, at the owner's decision.
+- [CLAIM-474](record/claims.d/CLAIM-474.md) version 3, at the owner's decision: its title states a partial order of achievements rather than a nested sequence. The five demonstrated claims filed Active stay Active, at the owner's decision.

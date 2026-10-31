@@ -193,4 +193,4 @@ was revised in version 3 to state a partial order.
 The owner's rule of method is kept here: derive the dependency structure
 of the achievements separately from the order in which an inquiry met
 them. An inquiry's order can harden into apparent structure, as anchors
-entrench (CLAIM-184). The status and warrant are unchanged.
+entrench ([CLAIM-184](CLAIM-184.md)). The status and warrant are unchanged.
