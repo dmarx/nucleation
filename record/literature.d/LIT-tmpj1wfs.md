@@ -1,9 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-31 from A13 of the exchange "Analyze nucleation concepts" (2026-10-30 to 31); not read.
+  read in full 2026-10-31 (NOTE-tmp3zcaf); worth reading as the
+  standard deterministic thermodynamics of open reaction networks, and
+  for what it makes exact in the exchange's A13: sustained turnover needs
+  an emergent fuel-to-waste cycle with nonzero affinity, and costs its
+  current times that affinity (THEORY-tmplh6oa).
 title: 'Nonequilibrium Thermodynamics of Chemical Reaction Networks: Wisdom from Stochastic Thermodynamics'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-31'
@@ -13,6 +17,14 @@ history:
     2016-02-23) and its DOI. A13 gave a shortened title. The summary
     follows the abstract and the exchange's description; a reading
     should check it first.
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    Read in full from the arXiv preprint 1602.07257v3, 22 pp., in
+    NOTE-tmp3zcaf; status Deferred → Active. The citation stands. The
+    summary is rewritten from the text; the registration's summary was
+    accurate. The reading produced THEORY-tmplh6oa and, with
+    LIT-tmpw6f74, THEORY-tmp05y8u.
 tags:
 - thermodynamics
 - complex-systems
@@ -28,19 +40,25 @@ keywords:
 - 'entropy production'
 implementations: []
 summary: >-
-  Rao & Esposito (2016). A thermodynamic theory of open, deterministic
-  chemical reaction networks with mass-action kinetics, built from
-  stochastic thermodynamics: entropy production split by the network's
-  conservation laws and cycles, and the work needed to hold a network
-  away from equilibrium.
+  Rao & Esposito (2016). A nonequilibrium thermodynamics for open,
+  deterministic, mass-action networks of reversible elementary reactions,
+  driven by possibly time-dependent chemostats. Each chemostatted species
+  breaks a conservation law or opens an emergent cycle; with every
+  emergent affinity zero the network relaxes to a unique equilibrium, and
+  a steady state dissipates the sum of emergent currents times
+  affinities. The minimal chemical work to create a nonequilibrium
+  distribution is RT times a relative entropy, a nonequilibrium Landauer
+  principle. Complex-balanced networks, deficiency zero among them, have
+  non-negative steady and transient dissipation and a unique globally
+  stable steady state however hard they are driven.
 ---
 
 # LIT-tmpj1wfs: Nonequilibrium Thermodynamics of Chemical Reaction Networks: Wisdom from Stochastic Thermodynamics
 
 Rao, R., & Esposito, M. (2016). Nonequilibrium thermodynamics of chemical reaction networks: Wisdom from stochastic thermodynamics. *Physical Review X*, 6, 041064.
 
-Filed, not read.
+Read in full in NOTE-tmp3zcaf.
 
 ## Why this is here
 
-A13's first toolkit for putting the toy production models on a thermodynamic footing: a production term written as a catalysed reaction must be paid for by an affinity, so a positive production rate is not yet a physically realizable maintenance mechanism. It bears on [CLAIM-273](../claims.d/CLAIM-273.md) and [THEORY-692](../theory.d/THEORY-692.md).
+A13's first toolkit for putting the toy production models on a thermodynamic footing: a production term written as a catalysed reaction must be paid for by an affinity, so a positive production rate is not yet a physically realizable maintenance mechanism. The reading bears A13 out and makes it exact (THEORY-tmplh6oa). Rewritten as reversible elementary chemistry, CASE-tmpwxags's first construction needs a fuel and a waste chemostat. At zero affinity it has a single equilibrium with no current. It is bistable only above 3.52 RT, and recovers the case's equilibria only as the affinity goes to infinity, which is also the limit in which CLAIM-tmpczfpk's "no basal production" holds (NOTE-tmp3zcaf). It bears on CLAIM-273, whose missing thermodynamic quantity is shown to need a stoichiometry, local detailed balance and reservoirs, and on THEORY-692: complex-balanced networks are a far-from-equilibrium case with a Lyapunov function, so a chemical dissipative structure needs nonzero deficiency.
