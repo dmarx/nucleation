@@ -1,0 +1,221 @@
+---
+status: Read
+paper: 'LIT-tmpu9af8'
+title: 'Teoh — Multi-token prediction done right'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Read in full from the arXiv preprint 2610.38331v1 (28 October 2026),
+    23 pp., fetched 2026-10-31 and extracted with `pdftotext`; page
+    numbers are the arXiv copy's. I read the abstract, §§1–8, Appendices
+    A–E, Algorithm 1, Tables 1–7 and the captions of Figs. 1–7; the
+    figures' curves did not survive extraction, and their numbers are
+    taken from captions and text. I checked numerically (numpy, finite
+    differences, my own script) eqs. (1), (2), (3) and (7) at the hidden
+    state: the hard MTP gradient equals W⊤(p − y), the gradient of
+    KL(sg(q) ‖ p) equals W⊤(p − q), and the difference of the two is the
+    NTP cross-entropy gradient at the aligned state, to 4 × 10⁻¹⁰. I also
+    checked that the routed field (student gets W⊤(p − q), teacher gets
+    W⊤(q − y)) has an asymmetric Jacobian, so it is no gradient field,
+    and that in value CE(y, p) = KL(q ‖ p) + (q − y)⊤Wh + H(q).
+    The released code was not run. A15 and A16 of the exchange "Analyze
+    nucleation concepts" were compared against the text.
+date: '2026-10-31'
+summary: >-
+  The cross-entropy gradient of a multi-token-prediction head, taken at
+  its hidden state under a shared output head, is exactly a forward-KL
+  self-distillation gradient toward the model's own position-aligned
+  next-token prediction plus the next-token cross-entropy gradient at the
+  aligned state; a straight-through routing removes the second from the
+  heads and trunk at no cost, and at 167M–1.2B this improves next-token
+  loss, speculative decoding and zero-shot accuracy by small margins in
+  single runs. In the main (DeepSeek-style) experiments the student head
+  sees the same tokens as its teacher, so the decomposition is not an
+  information projection.
+---
+<!-- inactive-ok-file: QUESTION-tmp4b001 — Open; the question this reading bears on, cited as open -->
+
+# NOTE-tmp8ljm4: Teoh — Multi-token prediction done right
+
+## Contribution
+
+Standard multi-token prediction (MTP) trains extra heads with
+cross-entropy against future tokens. The paper shows that this gradient,
+at each MTP hidden state, already contains a self-distillation gradient
+toward the model's own next-token (NTP) prediction for the same token,
+and that the remainder is the NTP cross-entropy gradient against the data
+(§4, eq. 2). It gives a one-line straight-through trick that removes the
+remainder from what the MTP heads and shared trunk receive while leaving
+the output head trained by cross-entropy (§5, Algorithm 1), and reports
+that this "Soft-MTP" beats standard MTP on every reported language-model
+and speculative-decoding metric at four scales (§6).
+
+## Key insight
+
+With a shared linear head W, the gradient of CE(y, softmax(Wh)) at h is
+W⊤(p − y). Add and subtract the aligned teacher q: W⊤(p − y) =
+W⊤(p − q) + W⊤(q − y). The first term is the gradient of
+KL(sg(q) ‖ p); the second does not depend on the student at all. Only the
+second depends on the sampled token, so it carries all of the one-hot
+sampling noise (§5.3, eq. 8). Removing it trades an unbiased, noisy
+gradient for a biased one aimed at the model's own NTP distribution
+rather than at the data.
+
+## Assumptions
+
+- **A shared linear output head** for NTP and every MTP head (§3.1). The
+  identity holds at the hidden state; Appendix B.3 carries it to every
+  upstream parameter by linearity of backpropagation.
+- **The teacher is held fixed** for the KL gradient (stop-gradient,
+  §4.1). The teacher is not frozen: it is the same model's NTP head,
+  trained by the NTP loss and computed by the same trunk that the KL
+  gradient updates.
+- **Position alignment.** MTP head k at position t and the NTP head at
+  t + k predict the same token x_{t+k+1} (§4, Fig. 2). In the
+  DeepSeek-style sequential heads used for every main result, head k at t
+  is fed the embeddings of x_{t+1}, …, x_{t+k} (Algorithm 1:
+  `mtp_head[k-1](h_prev[:, :T-k], x[:, k:])`). It therefore conditions on
+  the same prefix x_{≤t+k} as its teacher, through one extra layer per
+  step instead of the full 36-layer trunk. Only Meta-style parallel heads
+  (Appendix C, one run at 332M) predict from x_{≤t} alone.
+- **Scale and data**: LLaMA-style models of 167M–1.2B, 36 layers, K = 3,
+  λ_MTP = 1, Muon, 31.5B FineWeb-Edu tokens (§6, Table 7). Single runs;
+  no seeds or variances are reported.
+
+## Key results
+
+- **Eq. (1)–(3), (6)–(7)** (pp. 3–5, App. B). g_hard = W⊤(p − y) =
+  g_KL + g_res with g_KL = W⊤(p − q) = ∇_h KL(sg(q) ‖ p) and
+  g_res = W⊤(q − y). Routing h̃⁽⁰⁾_t = h⁽⁰⁾_t + Σ_k s_k(sg(h⁽ᵏ⁾_{t−k}) −
+  h⁽ᵏ⁾_{t−k}) leaves the forward pass and the NTP gradient unchanged and
+  injects −g_res at each MTP state, so the MTP heads and trunk receive
+  exactly g_KL (eq. 7; scale s_k = λ_MTP T / (K(T − k)), App. B.5). The
+  output head still receives the MTP cross-entropy gradient (Table 1,
+  App. B.4 "Output head"). Checked (history).
+- **Bias–variance reading** (§5.3, eq. 8): g_res = W⊤(q − π) +
+  W⊤(π − y), the teacher's own error plus zero-mean sampling noise. The
+  argument that the trade improves with scale is qualitative.
+- **Signal-to-noise** (§6.1, Fig. 3): the residual has about 4× lower SNR
+  than the KL component, 4.1× at 167M to 4.6× at 1.2B, yet carries "∼80%"
+  of the MTP gradient reaching the trunk. The share is a projection,
+  ⟨g_hard, g_c⟩ / ‖g_hard‖² (App. E.2), not a norm ratio.
+- **Interference** (Fig. 4a, App. E.3): a unit hidden-state step along the
+  KL component lowers NTP loss; one along the residual raises it, at every
+  scale. The authors call this a proxy only.
+- **Outcomes**: Soft-MTP beats MTP on every speculative-decoding cell
+  (Table 2; acceptance length +1.8–2.2%, speedup +1.4–1.5% averaged over
+  domains), on average zero-shot accuracy (Table 3; at 1.2B 57.31 against
+  56.80, NTP 56.75), and on seven of eight fine-tuning cells (Table 4).
+  The margins are small and come from single runs.
+- **Against explicit KL** (§6.3, Tables 5–6, Fig. 6): KL-MTP costs 5.6%
+  throughput and 21 GB; Soft-MTP matches or beats it except on math
+  fine-tuning. Effective rank of the logit map: NTP 496, Soft-MTP 437,
+  KL-MTP 321, standard MTP 131. The authors attribute KL-MTP's loss to a
+  "shortcut": a KL whose teacher is computed by the same head can be
+  reduced by making the head blind to the difference.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The MTP cross-entropy gradient at the hidden state is exactly the KL self-distillation gradient plus the aligned NTP cross-entropy gradient | strong | eq. 2, App. B; elementary, checked |
+| C2 | The straight-through routing delivers exactly g_KL to heads and trunk, with cross-entropy kept at the shared output head | strong | eqs. 4–7, App. B.4–B.5 |
+| C3 | The residual has low SNR, carries most of the trunk gradient, and works against NTP learning, increasingly with scale | moderate | Figs. 3–4, offline on frozen checkpoints, one run per scale |
+| C4 | Soft-MTP improves on standard MTP on every reported metric at every scale | moderate | Tables 2–4; small margins, single runs, no variance |
+| C5 | Soft-MTP is "a free lunch" | weak as stated | cost claim strong (Table 5); benefit claim rests on C4 |
+| C6 | Keeping cross-entropy at the shared head avoids a self-referential shortcut | weak to moderate | Fig. 6 and Table 6; one comparison at 1.2B |
+
+## Method
+
+1. Run the trunk; compute NTP states h⁽⁰⁾ and MTP states h⁽ᵏ⁾.
+2. Add s_k(h⁽ᵏ⁾.detach() − h⁽ᵏ⁾) to h⁽⁰⁾ at positions k: (numerically
+   zero).
+3. Back-propagate NTP plus weighted MTP cross-entropy as usual.
+
+## Concepts
+
+- **Hard MTP gradient** — the cross-entropy gradient at the MTP hidden
+  state (Def. 4.1).
+- **Position-aligned NTP distribution** — q⁽ᵏ⁾_t = p⁽⁰⁾_{t+k}, the NTP
+  prediction of the same target token (§4).
+- **KL gradient–recovery trick** — recovering ∇KL(sg(q) ‖ p) as the
+  difference of two cross-entropy gradients under a shared linear head
+  (§5.1).
+- **Soft gradient** — by analogy with soft targets (footnote 1).
+
+## Connections
+
+It builds on Gloeckle et al. (2024) and DeepSeek-V3's sequential MTP, and
+on explicit KL self-distillation for MTP (Teoh et al. 2025, Zhao et al.
+2026a). The trick is offered as general wherever teacher and student share
+a linear head, naming on-policy self-distillation (Zhao et al. 2026b), the
+setting of Hossain et al. (LIT-tmpbnm77), as a use (§7).
+
+## Bearing on the record
+
+- **QUESTION-tmp4b001: the decomposition is as A15 wrote it, and its
+  premise about information is not.** A15's boxed identity, the forward
+  direction KL(sg(q) ‖ p), the routing (residual removed from heads and
+  trunk, cross-entropy kept at the head), the "roughly 80%" share and the
+  bias toward the teacher all match the paper (THEORY-tmpxb5pl). But A15
+  ("a model predicts a future token with less context than its ordinary
+  next-token predictor") and A16 ("the next-token teacher sees more
+  preceding context for the target token than the multi-token student")
+  are true only of Meta-style parallel heads. In the DeepSeek-style
+  heads behind every main result the student is fed the intervening
+  tokens and conditions on the same prefix as its teacher; it differs in
+  computation (one layer per step on top of the trunk state at t), not in
+  information. The conditional-projection proposition the question
+  builds on, p*_A = E[q_B | A] with irreducible I(Y; B | A), has A = B
+  there and an irreducible term of zero. What Teoh instantiates is
+  transmission from a deeper to a shallower computation over the same
+  evidence. The information-projection reading has its published locus
+  in Hossain et al. (THEORY-tmpfm1ma), not here.
+- **A16's routing claim holds.** "The shared vocabulary head still
+  receives cross-entropy gradients, while the MTP modules and shared
+  trunk receive the KL self-distillation contribution" is Table 1 and
+  App. B.4 exactly.
+- **A16 §7's asymmetry needs a qualification.** The stop-gradient
+  makes the field non-conservative: the student's update depends on the
+  teacher and not conversely, so Soft-MTP itself, not only A16's toy, is
+  no gradient flow of one scalar (my check). But "the student does not
+  symmetrically pull the teacher toward its own behaviour" holds only on
+  the output path. The KL gradient enters the shared trunk, which also
+  computes the teacher. The teacher is shaped by the student's signal
+  through shared parameters. Fig. 4a reports that on those parameters
+  the KL step helps the teacher's loss.
+- **Who runs the distillation.** The optimizer, the routing and the
+  choice of teacher are the engineer's, as A15 said; nothing in the
+  paper bears on endogeneity.
+- **TERM-097, coherence against fidelity.** The paper's trade is exactly
+  this: Soft-MTP buys agreement with the model's own verifier (lower KL
+  and TV to the NTP head, Table 2) at the price of a bias away from the
+  data, and keeps a data-anchored gradient at the head to stop the
+  self-referential shortcut (§6.3). It is an engineered instance of
+  "coherence is not fidelity".
+- **An instruction for ML practice is present** (use Soft-MTP; keep
+  cross-entropy at the head). That belongs to the Anthology of the SOTA;
+  the LIT keeps the `anthology-candidate` flag.
+
+## Limitations
+
+- **Single runs** at each scale; no seeds, no variances, small margins.
+- **Up to 1.2B parameters** and 31.5B tokens; the "increasingly so with
+  scale" claims rest on four points.
+- **The diagnostics of §6.1 are offline** on frozen checkpoints, and the
+  interference test is a hidden-state proxy (App. E.3).
+- **Meta-style heads**: one run, losses only (App. C).
+- **The bias of g_KL is not bounded**; the argument that it shrinks with
+  scale is qualitative (§5.3).
+
+## Open questions
+
+- Does the SNR gap keep widening past 1.2B, and does the gain survive
+  seeds?
+- With Meta-style heads, where the student lacks the intervening tokens,
+  does the same routing help, given that the teacher then carries
+  information the student cannot use?
+- How much of Soft-MTP's gain comes through the trunk's shared role in
+  computing the teacher?

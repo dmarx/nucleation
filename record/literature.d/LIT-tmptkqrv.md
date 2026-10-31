@@ -1,9 +1,12 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-31 from A16 of the exchange "Analyze nucleation concepts" (2026-10-30 to 31); not read.
+  read 2026-10-31 (NOTE-tmptrip0), body and appendices, with the
+  proofs of Appendix C skimmed; worth reading as the clean case of
+  iterated self-distillation losing everything through the regularizer
+  alone, on the same inputs with nothing withheld (THEORY-tmp33nos).
 title: 'Self-Distillation Amplifies Regularization in Hilbert Space'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-31'
@@ -13,6 +16,16 @@ history:
     2020-02-13); A16 named it without an identifier. The summary
     follows the abstract and the exchange's description; a reading
     should check it first.
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    Read from the arXiv preprint 2002.05715v3 (the extended version of
+    the NeurIPS 2020 paper), 34 pp., in NOTE-tmptrip0; proofs of
+    Propositions 3–4 and Theorems 5–6 skimmed. Status Deferred → Active.
+    The citation stands. The summary is rewritten from the text. The
+    registration's summary was accurate. The §4 example was reproduced
+    from the paper's own values. THEORY-tmp33nos filed. The
+    anthology-candidate flag stays.
 tags:
 - learning-theory
 - anthology-candidate
@@ -27,19 +40,23 @@ keywords:
 - 'Hilbert space'
 implementations: []
 summary: >-
-  Mobahi, Farajtabar & Bartlett (2020). In regularized kernel
-  regression, repeated rounds of self-distillation progressively
-  restrict the basis functions used to represent the solution, acting as
-  amplified regularization that first reduces overfitting and then,
-  after too many rounds, underfits.
+  Mobahi, Farajtabar & Bartlett (2020). In ℓ2-regularized regression in
+  a Hilbert space held to a fixed training-error tolerance, refitting to
+  one's own predictions on the same inputs shrinks each eigencomponent
+  of the labels by d_k/(c_t + d_k). The multiplier c_t must rise as the
+  labels shrink. Rounds therefore amplify regularization, use
+  progressively fewer basis functions (Theorem 5) and collapse to the
+  zero function after finitely many. A few rounds can reduce
+  overfitting and more underfit, in a spline example and, by fractions
+  of a point, in ResNet and VGG runs on CIFAR.
 ---
 
 # LIT-tmptkqrv: Self-Distillation Amplifies Regularization in Hilbert Space
 
 Mobahi, H., Farajtabar, M., & Bartlett, P. L. (2020). Self-distillation amplifies regularization in Hilbert space. arXiv:2002.05715.
 
-Filed, not read.
+Read in NOTE-tmptrip0.
 
 ## Why this is here
 
-A16's example that iterated self-distillation changes what is preserved round by round: inheritance by repeated projection is not neutral copying. Bears on [CLAIM-090](../claims.d/CLAIM-090.md) (serial transmission is reconstructive) and [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md).
+A16's example that iterated self-distillation changes what is preserved round by round: inheritance by repeated projection is not neutral copying. Bears on [CLAIM-090](../claims.d/CLAIM-090.md) (serial transmission is reconstructive) and [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md). The reading sharpens one word. The round operator here is a shrinkage, not a projection, and nothing is withheld from the student: same inputs, the teacher's exact outputs. The loss is the inheritor's own inductive bias applied again. That is the "regularization" item on A16's list of what makes iterated inheritance degrade, isolated from the others (THEORY-tmp33nos).
