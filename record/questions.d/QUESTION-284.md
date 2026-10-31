@@ -81,7 +81,7 @@ from accompanying ones, and [QUESTION-073](QUESTION-073.md) is its sharpest case
 ## Note of 2026-10-31: individuation by internal ordering, without a boundary
 
 <!-- inactive-ok-block: THEORY-tmp4o1dd THEORY-tmpcaccx THEORY-tmp1g3ve — Proposed; the readings filed 2026-10-31, cited as context -->
-Bencherki and Iliadis (LIT-tmpwspny, read in NOTE-tmp62e4t) offer an
+Bencherki and Iliadis ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), read in [NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md)) offer an
 option this question's three boundaries do not list. They individuate a
 domain by its internal ordering and not by any boundary. "What matters,
 for Simondon, is not so much an external definition or bracketing of a
@@ -90,26 +90,26 @@ different domains for practical purposes. This should be contrasted ...
 with the notion of boundary ... in a Luhmannian perspective that states
 that 'to maintain its existence, the organization continuously needs to
 reproduce a boundary'" (ms. pp. 20–21). So they reject the maintained
-boundary (closure, TERM-070) as what individuates an organization, and
+boundary (closure, [TERM-070](../terms.d/TERM-070.md)) as what individuates an organization, and
 they do not offer a detected one.
 
-- **The record has a formal case of it.** CLAIM-388: a collective
+- **The record has a formal case of it.** [CLAIM-388](../claims.d/CLAIM-388.md): a collective
   variable can be exactly closed while no partition of the units is a
   weakly coupled block. A unit is individuated by its dynamics with no
-  bounded subsystem to carry it. CLAIM-418 already reads it so. Whether
+  bounded subsystem to carry it. [CLAIM-418](../claims.d/CLAIM-418.md) already reads it so. Whether
   "ordered differently from their neighbours" (ms. p. 21) can be stated
   as such a variable is the operational step the readings omit
-  (THEORY-tmp4o1dd, "What fixes a level").
+  ([THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md), "What fixes a level").
 - **The readings take the constitutive reading for granted.** Bencherki,
-  Brummans and Vézy adopt Barad's agential cut (LIT-tmp3mudg, p. 1357),
+  Brummans and Vézy adopt Barad's agential cut ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1357),
   and Bencherki and Iliadis's fourth proposition asks that knowledge of
   an entity "reflect on the way that knowledge itself has individuated"
   (ms. p. 22). Neither offers what this question asks for: a comparison
   that would tell constitution by the inquiry from detection. Their
-  illustrations were chosen to fit (NOTE-tmp62e4t, "Limitations"), so
+  illustrations were chosen to fit ([NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md), "Limitations"), so
   they could not have told them apart.
 - **One sharper point for the question's first half.** Bencherki 2017
-  (LIT-tmp1rpyl, p. 782): "a being only possesses its components from a
+  ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 782): "a being only possesses its components from a
   particular perspective: their contribution to its individuation
   process; possession is never complete or univocal." That says a
   component is a component of a whole only under the whole's

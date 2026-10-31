@@ -35,10 +35,10 @@ complements:
 summary: >-
   Filed on reading Bencherki & Iliadis 2021 and Bencherki, Brummans &
   Vézy 2024, who hold that the "scaling up" problem "vanishes the moment
-  communication is viewed eventfully" (LIT-tmp3mudg, p. 1364) because
+  communication is viewed eventfully" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1364) because
   persons and organizations are "different informational levels that
   preserve all the characteristics of their organized components"
-  (LIT-tmpwspny, ms. p. 21, proposition 2). The record's closure results
+  ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. p. 21, proposition 2). The record's closure results
   show what survives. What vanishes is the picture of agents adding up.
   What remains is whether a higher variable runs on its own, which is a
   question about variables and is decidable. The record's own case of a
@@ -53,12 +53,12 @@ summary: >-
 
 ## The claim
 
-Bencherki, Brummans and Vézy (THEORY-tmp5ux44) write that the problem of
+Bencherki, Brummans and Vézy ([THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)) write that the problem of
 scaling from individual to collective agency "is only relevant ... when
 communication is regarded as an interaction between already-existing
 agents, operating at different levels, and vanishes the moment
 communication is viewed eventfully" (p. 1364). They rest it on Bencherki and
-Iliadis (THEORY-tmp4o1dd): entities "are not at different stages of
+Iliadis ([THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)): entities "are not at different stages of
 individuation, but rather different informational levels that preserve
 all the characteristics of their organized components. An employee is not
 prior to the organization, nor is the organization an abstraction of its
@@ -68,28 +68,28 @@ The claim has three parts.
 
 1. **What dissolves.** If there are no agents prior to the process,
    there is no question of how their acts are summed into an
-   organization's. The record grants this much. CLAIM-030 already
+   organization's. The record grants this much. [CLAIM-030](CLAIM-030.md) already
    denies that an organized whole's intention is an expectation over its
    members' intentions.
 2. **What does not.** Whether a higher-level variable has dynamics of its
    own is a question about a process and a variable, not about agents. In
    the record it is decided by construction. A collective variable can be
    exactly dynamically independent of the activity realizing it
-   (CLAIM-388, CASE-120). Generally it is not: the Simon–Ando
+   ([CLAIM-388](CLAIM-388.md), [CASE-120](../cases.d/CASE-120.md)). Generally it is not: the Simon–Ando
    aggregate has a closure defect that vanishes only under stated
-   conditions (CLAIM-386). So "does the organization-level description
+   conditions ([CLAIM-386](CLAIM-386.md)). So "does the organization-level description
    run on its own?" can be asked on the eventful description, has
    answers, and some of them are no. That is the strong form's refutation
-   condition in THEORY-tmp5ux44's promote_when ("scaling-up questions remain
+   condition in [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)'s promote_when ("scaling-up questions remain
    answerable, and needed, under the eventful description"), met for the
    level question though not for agent aggregation.
-3. **Stages and coexistence are not exclusive.** CLAIM-388's closed
+3. **Stages and coexistence are not exclusive.** [CLAIM-388](CLAIM-388.md)'s closed
    variable is the *sum* of the units, an aggregate in the plainest sense,
    and it coexists with them: the units go on, and the sum's dynamics are
    closed. It does not "preserve all the characteristics" of its components.
    It keeps none of the distinctions among them, which is why it can be
    closed, and a composite can present at its boundary a constraint that no
-   part has (CLAIM-480). Coexistence is what the record's levels already
+   part has ([CLAIM-480](CLAIM-480.md)). Coexistence is what the record's levels already
    have. Preservation of every component characteristic is what they
    characteristically lack.
 
@@ -101,8 +101,8 @@ The claim has three parts.
 - **Not that the agent picture is right.** Part 1 grants the readings'
   point against it.
 - **Not that closure is the only criterion of a level.** Slowness
-  (CLAIM-331), scale separation (CLAIM-478) and a block's gap
-  (CLAIM-157) are others. Which one is meant is fixed by the
-  criterion (CLAIM-405), and CLAIM-474 holds that they need not agree.
+  ([CLAIM-331](CLAIM-331.md)), scale separation ([CLAIM-478](CLAIM-478.md)) and a block's gap
+  ([CLAIM-157](CLAIM-157.md)) are others. Which one is meant is fixed by the
+  criterion ([CLAIM-405](CLAIM-405.md)), and [CLAIM-474](CLAIM-474.md) holds that they need not agree.
 - **Not a reading of Simondon.** It answers his organization-studies
-  readers. His own text is held as LIT-1648, Unavailable.
+  readers. His own text is held as [LIT-1648](../literature.d/LIT-1648.md), Unavailable.

@@ -124,9 +124,9 @@ supplies observations or a construction."
 <!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmpkdsex THEORY-tmpuh0eb — Proposed; the readings filed 2026-10-31, cited as context -->
 Bencherki, Brummans and Vézy define agency as "the affective force that
 governs the transition from a lesser to an augmented ability to act"
-(LIT-tmp3mudg, p. 1354; THEORY-tmpcaccx). Massumi's definition, from
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354; [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)). Massumi's definition, from
 which theirs is taken, runs both ways, to "a diminished or augmented
-state of capacitation" (LIT-tmp8hcfz, p. 1; THEORY-tmpkdsex). The paper
+state of capacitation" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 1; [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)). The paper
 keeps only the augmenting half, and the record's reading found that this
 "makes a verdict depend on a judgment of whose capacity counts", which
 the paper does not supply. This term shows what is missing. Read through
@@ -138,8 +138,8 @@ analyst's reading of hesitations and the eventual agreement.
 
 The term also does what the paper's definition cannot. It is "an
 attribution, not a compliment", so it can say what a channeling or a
-usurpation achieves. In Bencherki 2017's daycare (LIT-tmp1rpyl, pp.
-791–792; THEORY-tmpuh0eb), the army maintains a service that runs on the
+usurpation achieves. In Bencherki 2017's daycare ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp.
+791–792; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)), the army maintains a service that runs on the
 spouses' volunteer work and is credited to itself, "a caring
 organization at their expense" (p. 792). With the army's service as the
 target, that is a maintained organizational achievement. With the
