@@ -1,0 +1,131 @@
+---
+status: Skimmed
+paper: 'LIT-tmpi0u4n'
+title: 'Massumi — The Principle of Unrest'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Skimmed 2026-10-31 from the Open Humanities Press PDF (151 pp., text
+    extracted with pdftotext, the book's page numbers). Read: ch. 1
+    ("Capital Moves", interview with Krystian Woznicki) pp. 7–~30 and pp.
+    62–65, the micropolitics passage the parent paper quotes. Also read:
+    ch. 2 ("Movements of Thought", interview with Adrian Heathfield) pp.
+    108–110, on sympathy, the middle and affect; ch. 3 ("Collective
+    Expression: A Radical Pragmatics") pp. 120–121 and 124, on
+    "in-forming". The rest was searched by keyword ("capacitation",
+    "transindividual", "Simondon", "in the middle") and not read. Read to
+    check what LIT-tmp3mudg takes from it.
+date: '2026-10-31'
+summary: >-
+  Interviews and an essay in activist philosophy. Movement is qualitative
+  relational transformation, and capitalism an ontopower feeding on "bare
+  activity". Micropolitics aims at "a maximally inclusive co-patterning
+  of contrasting tendencies" (p. 64), an aesthetic ideal that affirms
+  discord rather than resolving it. The parent paper's quotation is
+  exact; it turns the ideal into a description of organizational becoming.
+---
+<!-- inactive-ok-file: THEORY-tmpl13wj THEORY-tmpywwei — Proposed; the readings this note produces or bears on -->
+
+# NOTE-tmpn58uh: Massumi — The Principle of Unrest
+
+## Contribution
+
+On the parts read: a restatement, for a general reader, of Massumi's
+process philosophy, put to political use. Capitalism has become an
+"ontopower" that captures the emergent, "infra-individual" level of
+"bare activity", and couples it directly with the transindividual,
+bypassing the person (p. 14). Activism works on that same level, as
+micropolitics.
+
+## Key insight
+
+"There is always an excess of activity over action" (p. 29). Activity is
+potential not yet captured into a function, and politics, capitalist or
+counter-capitalist, is a matter of what captures it and how.
+
+## Assumptions
+
+- Process ontology: "there is no outside to movement" (p. 20); objects
+  are "movement field-effects".
+- Deleuze and Guattari's apparatuses of capture, Whitehead's contrast and
+  beauty, Simondon's transindividual, Spinozist joy as intensity.
+- The genre is the interview, so claims are asserted and illustrated
+  (Brexit, Facebook's mood experiment, for-profit prisons), not argued
+  from evidence.
+
+## Key results
+
+1. **Movement as transformation.** Displacement is "the index of a
+   becoming"; the human is "a carrier of a movement of relational
+   transformation" (p. 8). The neoliberal moment is "a vector of becoming
+   coming out the far side of our humanity" (p. 9).
+2. **The dividual.** Neoliberal capital works below the individual, on
+   the "dividual", and couples it to the transindividual (p. 14).
+3. **Excess of activity.** "An excess of potential over capture, of bare
+   activity over useful function" (p. 29).
+4. **Micropolitics as co-patterning.** "Micropolitics is the modulation of
+   this dynamic differential mutual inclusion, tending toward greater
+   field-intensities. What I mean by that is a maximally inclusive
+   co-patterning of contrasting tendencies, co-habiting the field in a way
+   that facilitates each fully realizing itself" (p. 64). "The
+   co-patterning at issue is aesthetic", Whitehead's beauty as "an
+   affirmation of discord". "If this sounds utopic, it isn't. It is just
+   always-as-yet unknowable" (p. 64). Micropolitics "cannot be separated
+   from macropolitics" (p. 64).
+5. **Affect.** In ch. 2, affect is "the ability to affect and be
+   affected"; it "escapes the active-passive opposition, and it always
+   directly operates transindividually" (p. 109). "Because you're in
+   the middle ... you're not in your subject position, you're in
+   becoming" (p. 108).
+
+## Claims
+
+Not filled in: the note is Skimmed.
+
+## Concepts
+
+- **bare activity** — formative, not yet formed movements: "ebbs and flows
+  of desire, tendency, fear, hope" (p. 14).
+- **ontopower** — "the power to bring to be" (p. 13).
+- **micropolitics** — politics of the minor event "on the verge of
+  becoming-perceptible", oriented toward joy (p. 63).
+- **in-forming** — the shaping passage of a formative potential between
+  media, in ch. 3 (pp. 121, 124).
+
+## Connections
+
+Continues the micropolitics of the 2009 interview (LIT-tmp8hcfz), where
+the aim is "a symbiosis: a cross-fertilization of capacitations". Cites
+Manning's *The Minor Gesture* (2016) and *Relationscapes* (2009).
+
+## Bearing on the record
+
+- **THEORY-tmpl13wj** (Proposed) states micropolitics as co-patterning,
+  sourced here.
+- **LIT-tmp3mudg** quotes p. 64 exactly. The departure is one of mood.
+  Massumi states a micropolitical aim, aesthetic and affirming discord.
+  The parent says organizational becoming "is constituted by the
+  micropolitics of attempting to reach" it (p. 1358). That is a stronger,
+  descriptive claim, though "attempting" softens it. The parent's "vector
+  of becoming" for a person (p. 1364) extends Massumi's use (p. 9),
+  consistently with p. 8.
+- Massumi's "excess of activity over action" names what is *not*
+  mobilized into action. The parent's "excess action" is what is passed to
+  another process and taken up by it. The parent's is closer to Massumi's
+  "capture" than to his "excess".
+- No instruction for machine-learning practice.
+
+## Limitations
+
+Most of the book was not read. Its political diagnoses (representation
+"is dead", accelerationism, the "Capitalocene") are opinion in interview
+form.
+
+## Open questions
+
+What would show that a collective had reached, or failed to reach, "a
+maximally inclusive co-patterning"? Massumi calls it "always-as-yet
+unknowable", which makes it hard to use as a description of
+organizations.
