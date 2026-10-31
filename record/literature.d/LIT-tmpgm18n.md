@@ -41,4 +41,4 @@ Filed, not read.
 
 ## Why this is here
 
-A13 cited it for the point that an "external" driving reservoir is a matter of where the boundary and the time scales are drawn. That is CLAIM-478's scale separation making constraints, in chemistry.
+A13 cited it for the point that an "external" driving reservoir is a matter of where the boundary and the time scales are drawn. That is [CLAIM-478](../claims.d/CLAIM-478.md)'s scale separation making constraints, in chemistry.

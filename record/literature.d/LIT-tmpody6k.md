@@ -42,4 +42,4 @@ Filed, not read.
 
 ## Why this is here
 
-The one control-theory work the exchange gave an identifier for, when the owner said at U17 "I bet control theory has a bunch of tools that would be useful to us". A17 used barrier certificates for the viable boxes of its constructions (CASE-tmpz9u5t). The record's nearest tools are Aubin's viability theory (THEORY-134) and contraction under singular perturbation (THEORY-771). The topic vocabulary has no word for control theory; that is left to the owner.
+The one control-theory work the exchange gave an identifier for, when the owner said at U17 "I bet control theory has a bunch of tools that would be useful to us". A17 used barrier certificates for the viable boxes of its constructions ([CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md)). The record's nearest tools are Aubin's viability theory ([THEORY-134](../theory.d/THEORY-134.md)) and contraction under singular perturbation ([THEORY-771](../theory.d/THEORY-771.md)). The topic vocabulary has no word for control theory; that is left to the owner.

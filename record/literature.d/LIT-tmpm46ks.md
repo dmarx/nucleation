@@ -41,4 +41,4 @@ Filed, not read.
 
 ## Why this is here
 
-A14 cited it for the large-deviation account of escape from a maintained state, where a barrier and a system-size parameter set the lifetime. Read with Langer (LIT-1664) for metastable decay.
+A14 cited it for the large-deviation account of escape from a maintained state, where a barrier and a system-size parameter set the lifetime. Read with Langer ([LIT-1664](LIT-1664.md)) for metastable decay.

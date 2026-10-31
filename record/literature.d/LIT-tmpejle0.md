@@ -43,4 +43,4 @@ Filed, not read.
 
 ## Why this is here
 
-A13 §6: dissipation constrains the reliability of maintenance, since a more precise maintained current costs more entropy production. It is the one place in the exchange where resource cost and precision of maintenance are tied by a theorem. Read with Seifert's review (LIT-523).
+A13 §6: dissipation constrains the reliability of maintenance, since a more precise maintained current costs more entropy production. It is the one place in the exchange where resource cost and precision of maintenance are tied by a theorem. Read with Seifert's review ([LIT-523](LIT-523.md)).

@@ -43,4 +43,4 @@ Filed, not read.
 
 ## Why this is here
 
-A13's first toolkit for putting the toy production models on a thermodynamic footing: a production term written as a catalysed reaction must be paid for by an affinity, so a positive production rate is not yet a physically realizable maintenance mechanism. It bears on CLAIM-273 and THEORY-692.
+A13's first toolkit for putting the toy production models on a thermodynamic footing: a production term written as a catalysed reaction must be paid for by an affinity, so a positive production rate is not yet a physically realizable maintenance mechanism. It bears on [CLAIM-273](../claims.d/CLAIM-273.md) and [THEORY-692](../theory.d/THEORY-692.md).

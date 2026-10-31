@@ -28,12 +28,12 @@ summary: >-
   concepts" (2026-10-31): "normative judgements are only cognizable when
   they are relative to a judgement of whether some organization should
   persist or change". Restated here in the form A26 and A27 gave it.
-  "Cognizable" is read as "well-defined", the sense of CLAIM-363, not
-  as "recognizable by an organization", which is CLAIM-348's and
-  TERM-064's question. The relatum is an object of possible continuity
+  "Cognizable" is read as "well-defined", the sense of [CLAIM-363](CLAIM-363.md), not
+  as "recognizable by an organization", which is [CLAIM-348](CLAIM-348.md)'s and
+  [TERM-064](../terms.d/TERM-064.md)'s question. The relatum is an object of possible continuity
   or transformation, not a prior verdict, which avoids the regress A26
   found in the owner's wording. Its first objection is filed beside it
-  (CLAIM-tmp1l3am).
+  ([CLAIM-tmp1l3am](CLAIM-tmp1l3am.md)).
 ---
 <!-- inactive-ok-file: QUESTION-128 QUESTION-256 — Open; the questions this bears on, cited as open -->
 
@@ -41,7 +41,7 @@ summary: >-
 
 ## The claim
 
-CLAIM-363 holds that a normative judgment is well-defined only once its
+[CLAIM-363](CLAIM-363.md) holds that a normative judgment is well-defined only once its
 organization or standpoint, standard, scale and context are fixed. The
 owner's U26 point adds a relatum that is diachronic: what the judgment
 would have persist, change, come to be or end. "This institution is
@@ -64,19 +64,19 @@ Three refinements came out of A26 and A27:
   end state can differ normatively, as when a cap on working hours is kept
   throughout in one and breached and then compensated for in the other
   (A27 §1). A norm about the breach is not a function of the end state.
-  This is CLAIM-350's factorization condition applied to histories.
+  This is [CLAIM-350](CLAIM-350.md)'s factorization condition applied to histories.
 
 ## What it does not say
 
 - **That persistence is privileged.** Which continuation is warranted is
   the standard's question. The whole's persistence cannot outweigh its
-  constituents' claims by being the whole's (CLAIM-348).
+  constituents' claims by being the whole's ([CLAIM-348](CLAIM-348.md)).
 - **That the organization in question is the one whose identity
   persists.** Obligations can survive an organization's dissolution, and an
   organization can persist while its constitutive commitments lapse (A27
   §6): normative continuity is not organizational identity.
 - **That fixing the relatum justifies the verdict.** Viability does not
-  establish what ought to persist (CLAIM-075).
+  establish what ought to persist ([CLAIM-075](CLAIM-075.md)).
 - **That a judgment unrecognized is false.** "An injustice does not cease
   to be wrong because the institution responsible lacks the categories
   needed to recognize it" (A26).

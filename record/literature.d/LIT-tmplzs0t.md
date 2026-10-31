@@ -44,4 +44,4 @@ Filed, not read.
 
 ## Why this is here
 
-Not named in the exchange. It is the published argument against CLAIM-tmph29mx, the owner's U20 thesis that a world model is an explanatory attribution: if it holds, a policy competent across a general enough task family encodes a world model functionally, whether or not a component can be pointed to. CLAIM-tmph29mx's defeated_if names this kind of result. Read with Block's lookup-table argument (THEORY-092).
+Not named in the exchange. It is the published argument against [CLAIM-tmph29mx](../claims.d/CLAIM-tmph29mx.md), the owner's U20 thesis that a world model is an explanatory attribution: if it holds, a policy competent across a general enough task family encodes a world model functionally, whether or not a component can be pointed to. [CLAIM-tmph29mx](../claims.d/CLAIM-tmph29mx.md)'s defeated_if names this kind of result. Read with Block's lookup-table argument ([THEORY-092](../theory.d/THEORY-092.md)).

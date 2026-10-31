@@ -60,12 +60,12 @@ path."
 
 The owner's guess was right: the record holds the mode-connectivity
 literature, and it bears on "just high-dimensional geometry?" both ways.
-Continuous symmetries stretch minima into connected manifolds (THEORY-210),
-and enough width gives piecewise-linear paths of minima (THEORY-741), which
+Continuous symmetries stretch minima into connected manifolds ([THEORY-210](../theory.d/THEORY-210.md)),
+and enough width gives piecewise-linear paths of minima ([THEORY-741](../theory.d/THEORY-741.md)), which
 is the geometric explanation. But at practical widths linear connectivity
-emerges in training (THEORY-114), and connectivity at initialization needs
-widths far past practice (THEORY-1172), which cuts against geometry alone.
-QUESTION-069 asks whether connectedness belongs to the solutions or to the
+emerges in training ([THEORY-114](../theory.d/THEORY-114.md)), and connectivity at initialization needs
+widths far past practice ([THEORY-1172](../theory.d/THEORY-1172.md)), which cuts against geometry alone.
+[QUESTION-069](../questions.d/QUESTION-069.md) asks whether connectedness belongs to the solutions or to the
 path family searched. This construction answers one part: for a fixed
 function and fixed endpoints, the answer changes with the path family
 admitted, and a resource bound is one way to restrict it.

@@ -42,4 +42,4 @@ Filed, not read.
 
 ## Why this is here
 
-A13's worked example of a bistable dissipative system whose maintained state has a finite stochastic lifetime. It is the chemical counterpart of the saddle-node constructions in CASE-tmpwxags, and of CASE-111.
+A13's worked example of a bistable dissipative system whose maintained state has a finite stochastic lifetime. It is the chemical counterpart of the saddle-node constructions in [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md), and of [CASE-111](../cases.d/CASE-111.md).

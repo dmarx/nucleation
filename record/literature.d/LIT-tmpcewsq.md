@@ -40,4 +40,4 @@ Filed, not read.
 
 ## Why this is here
 
-With LIT-tmptkqrv, A16's evidence that recursive reconstruction can lose as well as correct. It is the formal neighbour of CLAIM-081 and CLAIM-270 on forgetting the ancestor.
+With [LIT-tmptkqrv](LIT-tmptkqrv.md), A16's evidence that recursive reconstruction can lose as well as correct. It is the formal neighbour of [CLAIM-081](../claims.d/CLAIM-081.md) and [CLAIM-270](../claims.d/CLAIM-270.md) on forgetting the ancestor.

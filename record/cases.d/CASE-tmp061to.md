@@ -21,8 +21,8 @@ summary: >-
   proposed CASE", in the exchange "Analyze nucleation concepts"
   (2026-10-31), under A23's title "Maintained Inquiry Under Interpretive
   Capture, Productive Damage, and Environmental Novelty". Its admission ×
-  scoring arms repeat CASE-162's, and its double-lesion prediction is
-  CASE-161's finding. What is new is the primary endpoint, a second
+  scoring arms repeat [CASE-162](CASE-162.md)'s, and its double-lesion prediction is
+  [CASE-161](CASE-161.md)'s finding. What is new is the primary endpoint, a second
   correction after the machinery is injured; an environment that leaves
   the hypothesis family; and external restoration that is paid for. Not
   run. The analytic error rates hold only where admission is protected.
@@ -89,7 +89,7 @@ recorded separately.
 ## Maintenance and resources
 
 Diagnostic integrity A and evidence-governance integrity G are maintained
-in one of three ways, as in CASE-161:
+in one of three ways, as in [CASE-161](CASE-161.md):
 - **reciprocally**, A enabling G's production and G enabling A's, both
   costing fuel and degrading;
 - **by external restoration**, with ordinary trajectories matched where
@@ -109,7 +109,7 @@ operation, maintenance, diagnosis, teacher correction, student
 reconstruction and verification, with protected minimum shares for
 maintenance and diagnosis. A teacher updates from admitted evidence. A
 student reconstructs the teacher through a physically supported copying
-mechanism, and its memory is periodically erased, as in CASE-tmpz9u5t. After
+mechanism, and its memory is periodically erased, as in [CASE-tmpz9u5t](CASE-tmpz9u5t.md). After
 the first correction, the copying and diagnostic machinery is injured,
 and then a second challenge comes. "Successful first recovery is not the
 primary endpoint."
@@ -140,7 +140,7 @@ Requirements:
 Baselines: Bayesian, habit, fixed allocation, a conventional contextual
 router, no audit, and external repair. "The router must receive exactly
 the information and resources received by the organizational
-controller", the standard CASE-158 set.
+controller", the standard [CASE-158](CASE-158.md) set.
 
 **Primary endpoint.** C₂(B, T): the probability that, after a first
 correction, the organization finds a new discrepancy within T, carries out
@@ -162,7 +162,7 @@ second challenge, on fresh, held-out streams.
   Evidence access explains it, with no role for endogenous maintenance.
 - **Internal and external restoration are alike normally but diverge after
   producer-specific lesions.** Their causal difference is real
-  (CLAIM-tmpr8p2x).
+  ([CLAIM-tmpr8p2x](../claims.d/CLAIM-tmpr8p2x.md)).
 - **The first correction succeeds and the second fails.** Correction is
   not recursive correctability.
 - **The router matches or beats the organizational controller.** The
@@ -178,19 +178,19 @@ experiment. It would not establish consciousness, moral authority,
 invention of new laws, unlimited self-revision, or a boundary independent
 of the researcher's model.
 
-The precedents are CASE-153, CASE-158, CASE-161, CASE-162 and
-CASE-163. "The proposed contribution is their integration ... not a claim
+The precedents are [CASE-153](CASE-153.md), [CASE-158](CASE-158.md), [CASE-161](CASE-161.md), [CASE-162](CASE-162.md) and
+[CASE-163](CASE-163.md). "The proposed contribution is their integration ... not a claim
 that the individual mechanisms were previously unknown."
 
 Corrections to A23:
-- CASE-162 v1.3 already crosses self-scoring with selectivity.
-- QUESTION-016 asks whether iterated reconstruction preserves
+- [CASE-162](CASE-162.md) v1.3 already crosses self-scoring with selectivity.
+- [QUESTION-016](../questions.d/QUESTION-016.md) asks whether iterated reconstruction preserves
   task-relative sufficiency, not whether reconstruction preserves the
   capacity to reconstruct.
-- QUESTION-279 asks what would certify that no remedy exists.
+- [QUESTION-279](../questions.d/QUESTION-279.md) asks what would certify that no remedy exists.
 
-It bears most on QUESTION-285, which asks for a test on interventions
-the system did not select, and on QUESTION-086 and QUESTION-271.
+It bears most on [QUESTION-285](../questions.d/QUESTION-285.md), which asks for a test on interventions
+the system did not select, and on [QUESTION-086](../questions.d/QUESTION-086.md) and [QUESTION-271](../questions.d/QUESTION-271.md).
 
 A21's simulation of a smaller version is not filed as an executed study:
 - its code was not available;

@@ -41,4 +41,4 @@ Filed, not read.
 
 ## Why this is here
 
-A20 §11 used it for the condition that inquiry needs information gathered before a correction is committed to: a discrepancy that cannot be distinguished in time cannot be corrected, whatever the update rule. It bears on CLAIM-312 and TERM-085's deadline.
+A20 §11 used it for the condition that inquiry needs information gathered before a correction is committed to: a discrepancy that cannot be distinguished in time cannot be corrected, whatever the update rule. It bears on [CLAIM-312](../claims.d/CLAIM-312.md) and [TERM-085](../terms.d/TERM-085.md)'s deadline.

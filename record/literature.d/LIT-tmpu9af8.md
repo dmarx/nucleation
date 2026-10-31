@@ -46,4 +46,4 @@ Filed, not read.
 
 ## Why this is here
 
-The owner linked it at U15: "maybe framing this recursive production as self-distillation could be helpful". A15 and A16 built on its decomposition the reading of self-distillation as conditional projection: the student reproduces the teacher averaged over what the student cannot see. That is QUESTION-tmp4b001's starting point. A16's detail about the shared head's routing could not be checked from the abstract.
+The owner linked it at U15: "maybe framing this recursive production as self-distillation could be helpful". A15 and A16 built on its decomposition the reading of self-distillation as conditional projection: the student reproduces the teacher averaged over what the student cannot see. That is [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md)'s starting point. A16's detail about the shared head's routing could not be checked from the abstract.

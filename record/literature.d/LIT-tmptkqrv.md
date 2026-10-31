@@ -42,4 +42,4 @@ Filed, not read.
 
 ## Why this is here
 
-A16's example that iterated self-distillation changes what is preserved round by round: inheritance by repeated projection is not neutral copying. Bears on CLAIM-090 (serial transmission is reconstructive) and QUESTION-tmp4b001.
+A16's example that iterated self-distillation changes what is preserved round by round: inheritance by repeated projection is not neutral copying. Bears on [CLAIM-090](../claims.d/CLAIM-090.md) (serial transmission is reconstructive) and [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md).

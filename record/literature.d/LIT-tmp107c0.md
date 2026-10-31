@@ -46,4 +46,4 @@ Filed, not read.
 
 ## Why this is here
 
-A4 gave it as the strongest recent form of the SGD–Bayes connection, with "accessibility constraints" as what separates the two. That is the term QUESTION-tmpiir0l asks about. A4 dropped the abstract's "(if it exists)".
+A4 gave it as the strongest recent form of the SGD–Bayes connection, with "accessibility constraints" as what separates the two. That is the term [QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md) asks about. A4 dropped the abstract's "(if it exists)".

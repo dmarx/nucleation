@@ -42,4 +42,4 @@ Filed, not read.
 
 ## Why this is here
 
-A9 cited it beside Montévil and Mossio 2015 (LIT-582, read) for endogenous maintenance as closure. It states the principle the 2015 paper formalizes, and bears on TERM-070.
+A9 cited it beside Montévil and Mossio 2015 ([LIT-582](LIT-582.md), read) for endogenous maintenance as closure. It states the principle the 2015 paper formalizes, and bears on [TERM-070](../terms.d/TERM-070.md).

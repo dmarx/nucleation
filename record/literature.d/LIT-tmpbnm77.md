@@ -43,4 +43,4 @@ Filed, not read.
 
 ## Why this is here
 
-A16 used it for the "privileged teacher" case of self-distillation: what the teacher knows and the student cannot see is averaged away, which is the limit QUESTION-tmp4b001 starts from.
+A16 used it for the "privileged teacher" case of self-distillation: what the teacher knows and the student cannot see is averaged away, which is the limit [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md) starts from.

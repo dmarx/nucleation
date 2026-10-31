@@ -29,7 +29,7 @@ summary: >-
   which called it "a surprising result". It is generic for any saddle-node
   whose fold sits away from zero with no feedback from the coupled units to
   the maintaining core, so it is built in rather than surprising. It is
-  filed because it is a construction QUESTION-125 asks for: one in which
+  filed because it is a construction [QUESTION-125](../questions.d/QUESTION-125.md) asks for: one in which
   the regime changes while the block's gap does not. All numbers were
   recomputed.
 ---
@@ -39,7 +39,7 @@ summary: >-
 
 ## The claim
 
-In the seed–capture model of CASE-tmpwxags, with symmetric damage d, the
+In the seed–capture model of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md), with symmetric damage d, the
 positive equilibria satisfy q = 11/12 − 1/(12c²) and
 d(c) = (11c² − 1)/(3c(1 + c²)) − 1. The curve has its maximum at
 c*² = (7 + 2√15)/11, so c* ≈ 1.1578, q* ≈ 0.8545 and d* ≈ 0.6908: a
@@ -63,8 +63,8 @@ property from coupling-based individuation".
   the core, the gap depends on the equilibrium's value and not on its
   stability, so any such fold at nonzero value gives it.
 - **That coupling-based identification is wrong.** It answers a different
-  question. CLAIM-481 separates what coupling does to time scales; this
+  question. [CLAIM-481](CLAIM-481.md) separates what coupling does to time scales; this
   claim separates what coupling shows about its own maintenance.
 - **That early-warning signals would catch it.** Critical slowing appears in
   the maintenance, not in the coupling. Why such signals are weak evidence
-  anyway is THEORY-136's and THEORY-214's point.
+  anyway is [THEORY-136](../theory.d/THEORY-136.md)'s and [THEORY-214](../theory.d/THEORY-214.md)'s point.

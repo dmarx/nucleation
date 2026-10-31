@@ -13,8 +13,8 @@ summary: >-
   The owner's proposal at U15 of the exchange "Analyze nucleation
   concepts" (2026-10-31): "maybe framing this recursive production as
   self-distillation could be helpful or at least interesting?", with
-  Teoh's multi-token-prediction paper (LIT-tmpu9af8). A15 and A16 developed it as
-  "organizational inheritance". It refines QUESTION-016, which asks when
+  Teoh's multi-token-prediction paper ([LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md)). A15 and A16 developed it as
+  "organizational inheritance". It refines [QUESTION-016](QUESTION-016.md), which asks when
   iterated reconstruction preserves task-relative sufficiency, by adding
   who runs the reconstruction and whether the successor can carry it on.
 ---
@@ -24,12 +24,12 @@ summary: >-
 
 ## Why it is a question
 
-Teoh (LIT-tmpu9af8) shows that the multi-token-prediction loss decomposes
+Teoh ([LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md)) shows that the multi-token-prediction loss decomposes
 exactly into a self-distillation term toward the model's own next-token
 predictions plus a residual. A model's own outputs specify a target that
 constrains how another part of it is trained. That is the shape of
 recursive production: a realization generating a specification that
-constrains its successor (CLAIM-477).
+constrains its successor ([CLAIM-477](../claims.d/CLAIM-477.md)).
 
 **What distillation can carry.** A15 §3 gave the limit, rechecked. If the
 teacher sees information B and the student only A ⊆ B, the student's
@@ -39,9 +39,9 @@ teacher averaged over what the student cannot see; for a calibrated
 teacher the irreducible part is I(Y; B | A). Iterated through shrinking
 information sets, inheritance keeps exactly what survives every
 restriction (A16). Agreement with the teacher is coherence, not fidelity
-to the world (TERM-097): "perfect agreement with an increasingly degraded
+to the world ([TERM-097](../terms.d/TERM-097.md)): "perfect agreement with an increasingly degraded
 teacher" is possible. Iterated self-distillation also changes what is kept
-round by round (LIT-tmptkqrv, LIT-tmpcewsq).
+round by round ([LIT-tmptkqrv](../literature.d/LIT-tmptkqrv.md), [LIT-tmpcewsq](../literature.d/LIT-tmpcewsq.md)).
 
 Three things keep it open.
 
@@ -49,18 +49,18 @@ Three things keep it open.
   does not make that model an autonomous self-maintaining entity" (A15).
   In Teoh's setting the optimizer that runs the distillation is outside
   the model. What would make the distillation the organization's own is
-  the question CLAIM-414 and CLAIM-tmpr8p2x make hard: matched trajectories,
+  the question [CLAIM-414](../claims.d/CLAIM-414.md) and [CLAIM-tmpr8p2x](../claims.d/CLAIM-tmpr8p2x.md) make hard: matched trajectories,
   even under state intervention, do not show where the producer sits.
 - **Teaching as well as learning.** "A successor can be a perfect student
   and a poor teacher" (A16 §8). Among successors equally faithful on a
   declared probe family, some keep the capacity to reconstruct after damage
-  to themselves and some do not. CASE-161 shows the separation for
+  to themselves and some do not. [CASE-161](../cases.d/CASE-161.md) shows the separation for
   governing rules. Whether it is visible in the geometry of the set of
   equally faithful realizations, or only in their maintenance dynamics, is
   open.
 - **Continuity.** A faithful successor is not thereby the predecessor
-  continuing. That is QUESTION-118's question, and fidelity is not
-  lineage (CLAIM-329).
+  continuing. That is [QUESTION-118](QUESTION-118.md)'s question, and fidelity is not
+  lineage ([CLAIM-329](../claims.d/CLAIM-329.md)).
 
 ## What would count as an answer
 
@@ -69,7 +69,7 @@ is built to, with the producing mechanism inside a declared boundary; a
 test, by intervention on that mechanism, of whether the distillation is
 the system's own; and a comparison of successors matched on fidelity that
 differ in what they can pass on after a second injury. The constructions
-of the exchange (CASE-tmpz9u5t) go part of the way: a copying catalyst the
+of the exchange ([CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md)) go part of the way: a copying catalyst the
 organization keeps regenerated, with a student whose memory is erased and
 rebuilt. Its student never becomes a teacher, so the succession of
 realizations is not yet there.

@@ -33,7 +33,7 @@ summary: >-
 ## The six-variable model (A17)
 
 State z = (r, q, c₁, c₂, u, v): fuel r, supplied at rate J; the connector
-q of CASE-tmpwxags; two catalysts producing each other; a teacher u that
+q of [CASE-tmpwxags](CASE-tmpwxags.md); two catalysts producing each other; a teacher u that
 tracks a grounded signal θ; and a student v copied from the teacher at
 rate k_copy = r q c₂.
 
@@ -109,6 +109,6 @@ Three gaps remain:
 
 The motifs are irreversible mass action, as A17 said, "not yet a
 finite-affinity, microscopically reversible chemical model". Barrier
-certificates of this kind are Kolathaya and Ames's (LIT-tmpody6k); viability
-is THEORY-134's. That organization lowers the cost of further organization
-is CLAIM-475, which A19 announced as a discovery.
+certificates of this kind are Kolathaya and Ames's ([LIT-tmpody6k](../literature.d/LIT-tmpody6k.md)); viability
+is [THEORY-134](../theory.d/THEORY-134.md)'s. That organization lowers the cost of further organization
+is [CLAIM-475](../claims.d/CLAIM-475.md), which A19 announced as a discovery.

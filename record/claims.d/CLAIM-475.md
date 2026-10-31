@@ -225,12 +225,12 @@ discovery. It is this claim's point, carried from specifications to any
 realized organization: tools, procedures and institutions. A20 added a
 distinction worth keeping. **Physical reachability** (what dynamics allow
 at all) is not **operational availability** (what can be done within a
-budget and deadline, TERM-085, CLAIM-312) and neither is **developed
+budget and deadline, [TERM-085](../terms.d/TERM-085.md), [CLAIM-312](CLAIM-312.md)) and neither is **developed
 capability** (what the system has built the means to do). Building a tool
 does not enlarge the set of states physically reachable from the original
 state. It changes what is available within a budget. The amortization
 condition is elementary: a tool costing K to build and M(N) to maintain
 pays over N uses when N(c₀ − c₁) > K + M(N). A20 also noted that
 development "changes the shape of the capability frontier; it doesn't
-necessarily move the entire frontier outward", which is CLAIM-455. No
+necessarily move the entire frontier outward", which is [CLAIM-455](CLAIM-455.md). No
 status, title or warrant changes.

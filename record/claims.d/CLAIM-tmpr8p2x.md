@@ -30,10 +30,10 @@ summary: >-
   From A10 §4 (its Proposition 5) of the exchange "Analyze nucleation
   concepts" (2026-10-31). Close to definitional, and checked: substituting
   the controller gives the same differential equation. It extends
-  CLAIM-414 from passive observation to every intervention on state. As
+  [CLAIM-414](CLAIM-414.md) from passive observation to every intervention on state. As
   the reader noted, the causal dependence among the capacities is the same
   in both systems; only where the mechanism sits relative to the boundary
-  differs, which is CLAIM-194's point about boundaries.
+  differs, which is [CLAIM-194](CLAIM-194.md)'s point about boundaries.
 ---
 <!-- inactive-ok-file: QUESTION-093 — Open; the question of separable autonomy conditions, cited as open -->
 
@@ -56,8 +56,8 @@ the other."
 
 What separates them is an intervention on the mechanism: disabling a
 production pathway inside the declared boundary (A loses it, B does not),
-or interrupting the controller (B loses it, A does not). CASE-161 and
-CASE-163 are the record's runs of such interventions.
+or interrupting the controller (B loses it, A does not). [CASE-161](../cases.d/CASE-161.md) and
+[CASE-163](../cases.d/CASE-163.md) are the record's runs of such interventions.
 
 ## What it does not say
 
@@ -68,4 +68,4 @@ CASE-163 are the record's runs of such interventions.
   may leave signatures. The claim is the ideal case, which is the one that
   shows the limit is in principle.
 - **That the boundary is given.** Which mechanism is "inside" is fixed by a
-  declared boundary, and a gap criterion cannot supply it (CLAIM-194).
+  declared boundary, and a gap criterion cannot supply it ([CLAIM-194](CLAIM-194.md)).

@@ -45,25 +45,25 @@ leave open is the transition, which is this question.
 The record's own pieces:
 
 - A5's three "events" (ontic individuation, conceptual individuation,
-  constitutive conceptualization) are TERM-088's descriptive, dynamical
+  constitutive conceptualization) are [TERM-088](../terms.d/TERM-088.md)'s descriptive, dynamical
   and constitutive senses of individuation, renamed.
-- Type and token is TERM-040's communicative kind and token.
-- A group entity against the category of its members is TERM-096.
-- That a feature is not yet a concept bears on THEORY-965 (features as
-  units a model computes with) and on NOTE-1186 (token-specific features
+- Type and token is [TERM-040](../terms.d/TERM-040.md)'s communicative kind and token.
+- A group entity against the category of its members is [TERM-096](../terms.d/TERM-096.md).
+- That a feature is not yet a concept bears on [THEORY-965](../theory.d/THEORY-965.md) (features as
+  units a model computes with) and on [NOTE-1186](../notes.d/NOTE-1186.md) (token-specific features
   becoming abstract grammatical ones over training).
 - Barrett's emotion categories, grouped by the perceiver's concepts
-  (THEORY-057), are the record's case of a concept that partly constitutes
-  its object. Searle's status functions (THEORY-625) and Epstein's grounding
-  and anchoring (THEORY-487) are the institutional case A5 reached for with
+  ([THEORY-057](../theory.d/THEORY-057.md)), are the record's case of a concept that partly constitutes
+  its object. Searle's status functions ([THEORY-625](../theory.d/THEORY-625.md)) and Epstein's grounding
+  and anchoring ([THEORY-487](../theory.d/THEORY-487.md)) are the institutional case A5 reached for with
   *legal person*.
 
 ## Corrections to the exchange
 
-- A5 used CLAIM-476 for representational apparatuses in general and as
+- A5 used [CLAIM-476](../claims.d/CLAIM-476.md) for representational apparatuses in general and as
   backing for *legal person*. That claim is restricted to a record's
   objects, "and only for them".
-- A6 read CLAIM-136 as the general thesis that entities have no
+- A6 read [CLAIM-136](../claims.d/CLAIM-136.md) as the general thesis that entities have no
   independent identity. It is about communicative acts and their
   participants.
 
@@ -72,6 +72,6 @@ The record's own pieces:
 Criteria that separate concept, discriminator and habit, each measurable
 in a learning system: reuse across tasks, transfer to counterfactual
 inputs, integration with other capacities, and correction by evidence.
-Then a system where they can be tracked over training (QUESTION-275's
+Then a system where they can be tracked over training ([QUESTION-275](QUESTION-275.md)'s
 setting), to see whether they arrive together or apart. A term for
 "concept" should follow from that, not precede it.

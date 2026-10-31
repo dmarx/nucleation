@@ -45,4 +45,4 @@ Filed, not read.
 
 ## Why this is here
 
-A3 cited it to separate Bayesian and dynamical transitions, and did not report that its abstract conjectures the opposite, that SGD and Bayesian learning trace the same journey. The owner's U4 challenge is the paper's own conjecture. Read with LIT-323, the toy model it studies. It bears on QUESTION-tmpiir0l.
+A3 cited it to separate Bayesian and dynamical transitions, and did not report that its abstract conjectures the opposite, that SGD and Bayesian learning trace the same journey. The owner's U4 challenge is the paper's own conjecture. Read with [LIT-323](LIT-323.md), the toy model it studies. It bears on [QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md).

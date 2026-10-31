@@ -11,9 +11,9 @@ line: will-organization
 summary: >-
   One of the four "hardest problems" A29 listed in its synthesis of the
   exchange "Analyze nucleation concepts" (2026-10-31), under
-  "organizational identity and authorship". A29 cited QUESTION-284 for it,
+  "organizational identity and authorship". A29 cited [QUESTION-284](QUESTION-284.md) for it,
   which asks something else (whether constraints characterize or
-  constitute). The nearest held question, QUESTION-118, asks the
+  constitute). The nearest held question, [QUESTION-118](QUESTION-118.md), asks the
   collective form without will or authorization. This is the
   will-organization form.
 ---
@@ -24,10 +24,10 @@ summary: >-
 ## Why it is a question
 
 The record separates endorsing a motive from making it effective
-(CLAIM-047, CLAIM-122), explaining efficacy from settling whose the will
-is (CLAIM-022), and endogenous self-legislation from legitimate
-self-legislation (CLAIM-485). It holds that history matters to authorship:
-CASE-128's voluntary restriction differs from an imposed one only in how it
+([CLAIM-047](../claims.d/CLAIM-047.md), [CLAIM-122](../claims.d/CLAIM-122.md)), explaining efficacy from settling whose the will
+is ([CLAIM-022](../claims.d/CLAIM-022.md)), and endogenous self-legislation from legitimate
+self-legislation ([CLAIM-485](../claims.d/CLAIM-485.md)). It holds that history matters to authorship:
+[CASE-128](../cases.d/CASE-128.md)'s voluntary restriction differs from an imposed one only in how it
 came about.
 
 What it does not settle is the case the exchange's constructions made
@@ -42,6 +42,6 @@ self-legislation remain different achievements."
 A criterion of continuation for will-organization under revision of its
 own authorizing standards, with a case it classifies as continuation and
 one it classifies as replacement, and the reason the history of
-authorization decides between them. QUESTION-118's successor relations are
-the collective analogue; CLAIM-344's resolve, which keeps the capacity to
+authorization decides between them. [QUESTION-118](QUESTION-118.md)'s successor relations are
+the collective analogue; [CLAIM-344](../claims.d/CLAIM-344.md)'s resolve, which keeps the capacity to
 revise a commitment, is the nearest held account of what must persist.

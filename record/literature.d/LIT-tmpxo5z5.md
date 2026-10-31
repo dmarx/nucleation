@@ -41,4 +41,4 @@ Filed, not read.
 
 ## Why this is here
 
-Named in A4 as the precursor of Mandt, Hoffman and Blei 2017 (LIT-tmpwzrx7). Registered so that the two are read together; the later paper is the one to read first.
+Named in A4 as the precursor of Mandt, Hoffman and Blei 2017 ([LIT-tmpwzrx7](LIT-tmpwzrx7.md)). Registered so that the two are read together; the later paper is the one to read first.

@@ -16,9 +16,9 @@ summary: >-
   as sample size n changes is not the same process as gradient-based
   optimization as training time advances". The owner: "Isn't it? I think
   there's a David M Blei paper that discusses this." The paper is Mandt,
-  Hoffman and Blei 2017 (LIT-tmpwzrx7). A4 conceded the separation was "too
+  Hoffman and Blei 2017 ([LIT-tmpwzrx7](../literature.d/LIT-tmpwzrx7.md)). A4 conceded the separation was "too
   strong" and kept a narrower one, which is this question. It refines
-  QUESTION-039, which asks what sets the order and moment of acquisition.
+  [QUESTION-039](QUESTION-039.md), which asks what sets the order and moment of acquisition.
 ---
 <!-- inactive-ok-file: QUESTION-039 THEORY-209 — Open or Proposed; the question this refines and Kunin's sampler reading, cited as open -->
 
@@ -28,7 +28,7 @@ summary: >-
 
 Singular learning theory orders a model's regions by free energy,
 F_n ≈ nL_n + λ log n, so as n grows the posterior moves from simple,
-high-loss regions to complex, low-loss ones (THEORY-087). Training moves
+high-loss regions to complex, low-loss ones ([THEORY-087](../theory.d/THEORY-087.md)). Training moves
 through regions too, in time. Whether those are one journey is open, and
 the exchange's sources disagree about how far they coincide.
 
@@ -37,22 +37,22 @@ A4 set out three relations, kept here:
 | relation | status |
 |---|---|
 | SGD converges to a minimum, the MAP estimate under a flat prior | standard |
-| constant-step SGD's stationary distribution approximates a posterior for a fixed dataset, under a locally quadratic loss and constant noise (LIT-tmpwzrx7, LIT-tmpxo5z5) | shown, with assumptions |
+| constant-step SGD's stationary distribution approximates a posterior for a fixed dataset, under a locally quadratic loss and constant noise ([LIT-tmpwzrx7](../literature.d/LIT-tmpwzrx7.md), [LIT-tmpxo5z5](../literature.d/LIT-tmpxo5z5.md)) | shown, with assumptions |
 | SGD's transient over training time reproduces the posterior's transitions over sample size | "not established" |
 
 The record already holds the second row's neighbours: Kunin et al.'s
-modified-loss Gibbs distribution (THEORY-209) and the stationary Gaussian of
-underdamped Langevin SGD (THEORY-779). The third row is the question.
+modified-loss Gibbs distribution ([THEORY-209](../theory.d/THEORY-209.md)) and the stationary Gaussian of
+underdamped Langevin SGD ([THEORY-779](../theory.d/THEORY-779.md)). The third row is the question.
 
 Two sources pull opposite ways.
 
-- **Toward correspondence.** Chen et al. (LIT-tmpogi33) conjecture that
+- **Toward correspondence.** Chen et al. ([LIT-tmpogi33](../literature.d/LIT-tmpogi33.md)) conjecture that
   "the learning process in TMS, be it through SGD or Bayesian learning"
   moves from high loss and low complexity to low loss and high complexity.
   A3 cited this paper for the separation and did not report the
   conjecture.
 - **Toward a modified correspondence.** Hennick and De Baerdemacker
-  (LIT-tmp107c0) read SGD's local steady state, where one exists, as a tempered
+  ([LIT-tmp107c0](../literature.d/LIT-tmp107c0.md)) read SGD's local steady state, where one exists, as a tempered
   posterior that "accounts for local accessibility constraints". Their
   correction is the third candidate in the title.
 
@@ -63,7 +63,7 @@ between them, and nothing so far supplies one.
 ## What would count as an answer
 
 A model where both orders can be computed, such as the toy model of
-superposition (LIT-323) or the two-parameter models of CASE-152. Run
+superposition ([LIT-323](../literature.d/LIT-323.md)) or the two-parameter models of [CASE-152](../cases.d/CASE-152.md). Run
 SGD at several learning rates and batch sizes, and compute the posterior's
 phase order across n. Then either a map from training time to an effective
 sample size under which the orders agree, with the conditions it needs,

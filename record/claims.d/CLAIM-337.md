@@ -122,13 +122,13 @@ uses only that reading's first clause, that problem reports are behaviour.
 At U8 of the exchange "Analyze nucleation concepts" the owner said the
 assistant's "Inquiry is the reflexive transformation of the apparatus of
 individuation" "sounds close to FEP". A8 introduced Smith et al.'s
-structure-learning paper as prior art. The record holds it (LIT-615, read
-in NOTE-485), and it is one of this claim's grounds. A8's caution is the
+structure-learning paper as prior art. The record holds it ([LIT-615](../literature.d/LIT-615.md), read
+in [NOTE-485](../notes.d/NOTE-485.md)), and it is one of this claim's grounds. A8's caution is the
 one this claim's "What it does not say" already makes: free-energy
 minimization passes "too quickly from an admissible inferential
 description to the claim that the described system physically performs
 inference". The owner's other comparison at U8, that the record's unit of
 explanation "feels very 'wu-wei'", is not filed. The record's nearest
-entries are CLAIM-358 (local accommodation lowers the amortized cost of
-arbitration), CLAIM-162 (flow reported as effortless) and LIT-910
+entries are [CLAIM-358](CLAIM-358.md) (local accommodation lowers the amortized cost of
+arbitration), [CLAIM-162](CLAIM-162.md) (flow reported as effortless) and [LIT-910](../literature.d/LIT-910.md)
 (*Effortless Attention*, Unavailable).

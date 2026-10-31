@@ -12,7 +12,7 @@ line:
 objects_to:
 - 'CLAIM-tmpg69cm'
 summary: >-
-  The objection to CLAIM-tmpg69cm, put by the assistant itself in A26 §6 and A27
+  The objection to [CLAIM-tmpg69cm](CLAIM-tmpg69cm.md), put by the assistant itself in A26 §6 and A27
   §10 of the exchange "Analyze nucleation concepts" (2026-10-31): "If we
   call every difference between possible worlds a change in some
   organization, then all normative judgments can be represented in these
@@ -33,7 +33,7 @@ rather than fix it.
 
 **Broad horn.** If any difference between possible histories counts as a
 change in some organization, every judgment has a diachronic relatum
-trivially, and CLAIM-tmpg69cm says nothing CLAIM-363's standard did not.
+trivially, and [CLAIM-tmpg69cm](CLAIM-tmpg69cm.md) says nothing [CLAIM-363](CLAIM-363.md)'s standard did not.
 
 ## What an answer would need
 
@@ -44,6 +44,6 @@ earn its place:
   on, beyond what the standard says;
 - **transfer:** the same description predicts the verdict in a new context;
 - **counterfactual discrimination:** it separates cases the standard alone
-  does not, as CASE-110 does for coarse-grainings.
+  does not, as [CASE-110](../cases.d/CASE-110.md) does for coarse-grainings.
 
 None was carried out. Until one is, this stands unanswered.

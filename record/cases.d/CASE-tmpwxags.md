@@ -27,7 +27,7 @@ summary: >-
   construction, with illustrative parameters. A10's chart had three wrong
   points, which A10 corrected itself. A12 called its fold "the first
   mathematical account of organizational birth, commitment, and death
-  within Nucleation's framework"; CASE-111 is the earlier one, and this is
+  within Nucleation's framework"; [CASE-111](CASE-111.md) is the earlier one, and this is
   its variant with a coupling attached.
 ---
 
@@ -57,10 +57,10 @@ summary: >-
   ẋ₃(0) = 0 and ẍ₃(0) = a₁a₂ε: the third unit responds at second order,
   through the second.
 - **Knockout.** Removing the c₂ → c₁ production collapses both capacities
-  and with them the coupling, as CLAIM-tmpczfpk requires.
+  and with them the coupling, as [CLAIM-tmpczfpk](../claims.d/CLAIM-tmpczfpk.md) requires.
 - **Provenance.** An outside controller supplying the same production as
   state feedback gives identical trajectories under every perturbation
-  of state (CLAIM-tmpr8p2x).
+  of state ([CLAIM-tmpr8p2x](../claims.d/CLAIM-tmpr8p2x.md)).
 
 ## Construction 2: a transient encounter forms a maintained connector (A11, A12)
 
@@ -83,7 +83,7 @@ from q = 0, c₁ = c₂ = 3.
   c* ≈ 1.1578, q* ≈ 0.8545, d* ≈ 0.6908. The slowest maintenance eigenvalue
   goes to zero there.
 - **Coupling at the fold.** With L = q Bᵀ diag(c₁, c₂) B the spectrum at
-  the fold is {0, q*c*, 3q*c*}, so λ₂ ≈ 0.9894 (CLAIM-tmppht9k).
+  the fold is {0, q*c*, 3q*c*}, so λ₂ ≈ 0.9894 ([CLAIM-tmppht9k](../claims.d/CLAIM-tmppht9k.md)).
 
 ## What it shows and does not
 
@@ -96,6 +96,6 @@ the encounter supplies only the connector, so this is a bistable system
 pushed across a separatrix. Which terms are internal is stipulated, the
 substrates are assumed available, and the production terms are not yet
 paid for thermodynamically: A13 showed that a positive production rate is
-not yet a realizable mechanism (LIT-tmpj1wfs). A12's "viability kernel" over
+not yet a realizable mechanism ([LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md)). A12's "viability kernel" over
 every disturbance is Aubin's invariance kernel, not the viability kernel
-THEORY-134 defines.
+[THEORY-134](../theory.d/THEORY-134.md) defines.

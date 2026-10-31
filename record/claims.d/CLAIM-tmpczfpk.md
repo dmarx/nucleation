@@ -30,8 +30,8 @@ summary: >-
   program". The proof was rechecked by the reader of U7–U10. It is known in
   substance from autocatalytic-set theory, as A10 said. What it adds to the
   record is the boundary with closure: the necessary cycle may be a
-  self-loop, and a self-loop is not closure in TERM-070's sense or
-  CLAIM-395's, which need two or more constraints.
+  self-loop, and a self-loop is not closure in [TERM-070](../terms.d/TERM-070.md)'s sense or
+  [CLAIM-395](CLAIM-395.md)'s, which need two or more constraints.
 ---
 
 # CLAIM-tmpczfpk: Where every constraint capacity turns over at a positive rate and is produced only by others, with no basal production and production vanishing as its producers do, capacities whose production graph is acyclic all decay to zero: a capacity that persists needs a productive cycle among its ancestors, and removing a feedback edge set extinguishes every capacity; a cycle is necessary and not sufficient, and a one-member cycle is not closure
@@ -58,12 +58,12 @@ the knockout leaves each Pᵢ vanishing as its remaining parents do.
 
 ## What it does not say
 
-- **That a cycle suffices.** The two-constraint model of CASE-tmpwxags has a
+- **That a cycle suffices.** The two-constraint model of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) has a
   cycle and goes extinct from small seeds and above a damage threshold.
 - **That the cycle is closure.** A self-loop, a capacity producing itself,
-  satisfies the necessary condition. Closure in TERM-070's sense, and in
-  CLAIM-395's, needs at least two mutually dependent constraints, and
-  CASE-161 shows a self-dependent production rule does not regenerate a
+  satisfies the necessary condition. Closure in [TERM-070](../terms.d/TERM-070.md)'s sense, and in
+  [CLAIM-395](CLAIM-395.md)'s, needs at least two mutually dependent constraints, and
+  [CASE-161](../cases.d/CASE-161.md) shows a self-dependent production rule does not regenerate a
   zeroed rule. The theorem's necessary condition is weaker than closure.
 - **Anything about systems with basal production or an outside supply.**
   An exogenous source keeps an acyclic graph alive; that is the

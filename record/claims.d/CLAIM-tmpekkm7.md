@@ -47,7 +47,7 @@ enough for Nagumo's theorem, and suppose a reference regulator p* gives
 n·F(x, p*) ≤ −γ < 0 at every boundary point x with outward normal n, in
 every context the boundary meets. Then any successor p with
 TV(p(· | s), p*(· | s)) < γ/L at those contexts gives
-n·F(x, p) ≤ −γ + L·TV < 0, so K stays positively invariant (THEORY-134).
+n·F(x, p) ≤ −γ + L·TV < 0, so K stays positively invariant ([THEORY-134](../theory.d/THEORY-134.md)).
 
 A distillation loss is an average. If the successor was trained to
 forward KL ε under a context distribution μ, Pinsker and Jensen give
@@ -61,7 +61,7 @@ capacities under interventions that its transmission regime never
 samples." The contexts at the boundary of viability are those that
 ordinary operation rarely visits, so a successor faithful on ordinary
 operation can be arbitrarily wrong exactly where viability is decided.
-This is the coverage form of CLAIM-407: closure under ordinary dynamics
+This is the coverage form of [CLAIM-407](CLAIM-407.md): closure under ordinary dynamics
 does not fix responses to intervention.
 
 ## What it does not say
@@ -70,4 +70,4 @@ does not fix responses to intervention.
   sufficient, and it asks for coverage that ordinary training does not
   supply.
 - That fidelity is lineage. A successor meeting the bound is a faithful
-  student; whether it continues the predecessor is CLAIM-329's question.
+  student; whether it continues the predecessor is [CLAIM-329](CLAIM-329.md)'s question.

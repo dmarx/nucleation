@@ -43,4 +43,4 @@ Filed, not read.
 
 ## Why this is here
 
-A14's starting point for setting SLT's e^{-nK} beside a physical e^{-ΩV}. A14 itself kept them apart: the same statistical geometry does not fix the same physical currents or dissipation. Bears on THEORY-087.
+A14's starting point for setting SLT's e^{-nK} beside a physical e^{-ΩV}. A14 itself kept them apart: the same statistical geometry does not fix the same physical currents or dissipation. Bears on [THEORY-087](../theory.d/THEORY-087.md).
