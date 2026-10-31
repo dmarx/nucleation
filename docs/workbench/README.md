@@ -6,6 +6,11 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [31 Oct 16:21 — The owner's second review (2026-10-31, evening): "world model" names several things; a question that separates them, the owner's formulation and a general principle as claims, and a proposed study](2026-10.md#the-owners-second-review-2026-10-31-evening-world-model-names-several-things-a-question-that-separates-them-the-owners-formulation-and-a-general-principle-as-claims-and-a-proposed-study)
+- [31 Oct 16:01 — At the owner's question "no ARGs?": the filing's one verdict on support split out under ADR-061, and the synthesis on legibility, will and correction made a claim](2026-10.md#at-the-owners-question-no-args-the-filings-one-verdict-on-support-split-out-under-adr-061-and-the-synthesis-on-legibility-will-and-correction-made-a-claim)
+- [31 Oct 15:53 — The owner's review of the filing (2026-10-31, afternoon): three changes kept, five revisions made before merging, a synthesis note on will and correction, and a separate study of resolve against entrenchment](2026-10.md#the-owners-review-of-the-filing-2026-10-31-afternoon-three-changes-kept-five-revisions-made-before-merging-a-synthesis-note-on-will-and-correction-and-a-separate-study-of-resolve-against-entrenchment)
+- [31 Oct 15:27 — The owner's decisions on the exchange "Analyze nucleation concepts", and what reading its twenty-one works changed in its argument: a counter to the world-model thesis, the SGD and self-distillation questions corrected, and the nucleation constructions put on a thermodynamic footing](2026-10.md#the-owners-decisions-on-the-exchange-analyze-nucleation-concepts-and-what-reading-its-twenty-one-works-changed-in-its-argument-a-counter-to-the-world-model-thesis-the-sgd-and-self-distillation-questions-corrected-and-the-nucleation-constructions-put-on-a-thermodynamic-footing)
+- [31 Oct 08:48 — The exchange "Analyze nucleation concepts" (2026-10-30 to 31, U1–U29): from what the record says about specification and individuation, through constructions of endogenous maintenance, thermodynamics and self-distillation, to corrigibility, legibility, normativity and will; four of the owner's theses and questions filed, five constructions checked and filed, a proposed study, and what was not filed](2026-10.md#the-exchange-analyze-nucleation-concepts-2026-10-30-to-31-u1u29-from-what-the-record-says-about-specification-and-individuation-through-constructions-of-endogenous-maintenance-thermodynamics-and-self-distillation-to-corrigibility-legibility-normativity-and-will-four-of-the-owners-theses-and-questions-filed-five-constructions-checked-and-filed-a-proposed-study-and-what-was-not-filed)
 - [30 Oct 18:30 — The twenty-fourth status review: ADR-065 swept by reading](2026-10.md#the-twenty-fourth-status-review-adr-065-swept-by-reading)
 - [30 Oct 17:14 — The twenty-third status review: held entries rechecked when what they wait on moved](2026-10.md#the-twenty-third-status-review-held-entries-rechecked-when-what-they-wait-on-moved)
 - [30 Oct 08:29 — The twenty-second status review: ADR-065 applied to 58 readings](2026-10.md#the-twenty-second-status-review-adr-065-applied-to-58-readings)
@@ -124,8 +129,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-115 entries across 1 book, newest first.
+120 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 115 | 2026-10-07 | 2026-10-30 |
+| [2026-10](2026-10.md) | 120 | 2026-10-07 | 2026-10-31 |

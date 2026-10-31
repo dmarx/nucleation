@@ -6,8 +6,9 @@
 
 **Free will** — free will and volition, as philosophy and as science — compatibilism and its rivals, manipulation and responsibility, and the neuroscience of voluntary action such as the readiness potential (group: philosophy; ADR-025).
 
-1 of 359 QUESTION documents. Back to the [full index](../README.md).
+2 of 364 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-068](../../../record/questions.d/QUESTION-068.md) | Would settling whose a will-organization is settle the agent's accountability for what it does, or does accountability need conditions, such as normative competence and avoidability, that ownership does not supply? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [QUESTION-011](../../../record/questions.d/QUESTION-011.md), [CLAIM-022](../../../record/claims.d/CLAIM-022.md) and [CLAIM-016](../../../record/claims.d/CLAIM-016.md). [THEORY-118](../../../record/theory.d/THEORY-118.md), [THEORY-119](../../../record/theory.d/THEORY-119.md), [THEORY-122](../../../record/theory.d/THEORY-122.md) and [THEORY-147](../../../record/theory.d/THEORY-147.md) answer it in part; the body gives each one's limit. Deferred with its line. | Deferred |
+| [QUESTION-364](../../../record/questions.d/QUESTION-364.md) | When an agent's own processes revise its will-organization, what makes the result the continuation of that agent's will rather than a replacement authored by something else, and how can a history of authorization count when the standards for reading authorization are themselves revised? | One of the four "hardest problems" A29 listed in its synthesis of the exchange "Analyze nucleation concepts" (2026-10-31), under "organizational identity and authorship". A29 cited [QUESTION-284](../../../record/questions.d/QUESTION-284.md) for it, which asks something else (whether constraints characterize or constitute). The nearest held question, [QUESTION-118](../../../record/questions.d/QUESTION-118.md), asks the collective form without will or authorization. This is the will-organization form. | Open |

@@ -6,7 +6,7 @@
 
 **Moral psychology** — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
-4 of 510 CLAIM documents. Back to the [full index](../README.md).
+4 of 524 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

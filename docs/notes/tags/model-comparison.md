@@ -4,7 +4,7 @@
 
 **model-comparison**.
 
-12 of 1460 NOTE documents. Back to the [full index](../README.md).
+13 of 1481 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [NOTE-705](../../../record/notes.d/NOTE-705.md) | Orseau, McGill & Legg — Agents and Devices | A formal counterpart of Dennett's physical and intentional stances. A device is a mixture of input-output mappings; an agent is a mixture of goal-optimizing ε-greedy policies, by inverse RL. Bayes' rule gives the posterior probability that a system is an agent. It is illustrated in a toy gridworld, with no human comparison. Agency is explicitly relative to the observer's prior. A clearly identified system is assumed. | Read |
 | [NOTE-760](../../../record/notes.d/NOTE-760.md) | Grünwald & Roos — Minimum Description Length Revisited | A review of MDL since 2007. Each model is replaced by one universal distribution, chosen for small worst-case log-loss regret against the model's best fit. NML is the minimax choice, with complexity (k/2) log(n/2π) + log ∫ v√\|I\| + o(1). Estimation is penalised ML with a luckiness function v. The switch distribution nearly resolves AIC–BIC, the RIPr gives tests safe under optional continuation, and MDL and Bayes can be inconsistent under misspecification. Results are cited, not proved. | Read |
 | [NOTE-801](../../../record/notes.d/NOTE-801.md) | Vitányi & Li — MDL induction, Bayesianism and Kolmogorov complexity | With the universal prior, the Fundamental Inequality puts −log Pr(D\|H) − log P(H) within α = K(Pr(·\|H)) + K(P) of K(D\|H) + K(H) when D is random for H and H is random for P. So ideal MDL and MAP agree to a factor 2^{−α} among such "admissible" hypotheses. α can be as large as K(H), and outside the admissible set the two can pick different hypotheses. For finite-set models, MAP, ideal MDL and Kolmogorov's minimal sufficient statistic coincide. | Read |
+| [NOTE-1481](../../../record/notes.d/NOTE-1481.md) | LaMont & Wiggins — thermodynamics and inference | Takes the evidence as a partition function with sample size N as inverse temperature, and reads off the thermodynamic derivatives. The internal energy is the leave-one-out predictive loss; the heat capacity becomes a "learning capacity" equal to K/2 in a regular model (equipartition) and to Watanabe's learning coefficient in a singular one, and smaller when prior or discreteness fixes parameters ("freeze-out"). A prior making the Gibbs entropy zero reproduces AIC. The correspondence is formal; nothing in it is a physical current or dissipation. | Read |

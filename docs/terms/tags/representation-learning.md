@@ -6,10 +6,11 @@
 
 **Representation learning** — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
 
-3 of 97 TERM documents. Back to the [full index](../README.md).
+4 of 98 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-011](../../../record/terms.d/TERM-011.md) | frame, as inferred from evidence | A44–A48: a frame the interpreter infers from linguistic and contextual evidence, P(z \| c), between the frame that obtains (a property of the situation) and the intervention that tells or asks. The middle of three operations A45 said "should not be conflated". | Active |
 | [TERM-025](../../../record/terms.d/TERM-025.md) | frame, as a parameterized family of contexts | A49: c_f = Γ(f, c_0), a frame f realized relative to a background context c_0, inducing Q_θ,f,u(y) = P_θ(y \| Γ(f, c_0), u). Formalizes the owner's U17 "parameterized frame". Gone by outline v4, which returned to the tuple; absent from the manuscript. | Active |
 | [TERM-032](../../../record/terms.d/TERM-032.md) | levels, as a hierarchy of latent representations | A73, answering U27: surface realization, conceptual structure, pragmatic operation and communicative configuration, z(u, c) = (z_lex, z_concept, z_act, z_social), with the relational configuration on top. Replaced at U28 by levels of observables. | Superseded — by [TERM-009](../../../record/terms.d/TERM-009.md) |
+| [TERM-098](../../../record/terms.d/TERM-098.md) v2 | concept, as realized by an organization: a reusable, systematically consequential pattern of distinctions, applicable across a stated range of contexts with inferential or operational consequences; distinct from the feature or representation that carries it, from the organization that realizes it, and from what it is about, and distinct from conceptual corrigibility, the further capacity to find and revise its inadequacies | Filed at the owner's decision of 2026-10-31, after the exchange "Analyze nucleation concepts" defined "concept" three times in three turns (A4, A5, A6). At the owner's review, version 2 separates conceptual organization, which the term names, from conceptual corrigibility, a further achievement it does not require. A candidate, not adopted: [QUESTION-360](../../../record/questions.d/QUESTION-360.md) asks what would settle it. | Proposed |

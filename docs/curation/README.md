@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [31 Oct 15:27 — The twenty-one works from the exchange "Analyze nucleation concepts" read: nineteen in full and two skimmed in part, with twenty-one NOTEs and twenty-eight THEORYs, twenty-one Active; what the readings corrected in the exchange and in the registration](2026-10.md#the-twenty-one-works-from-the-exchange-analyze-nucleation-concepts-read-nineteen-in-full-and-two-skimmed-in-part-with-twenty-one-notes-and-twenty-eight-theorys-twenty-one-active-what-the-readings-corrected-in-the-exchange-and-in-the-registration)
+- [31 Oct 08:48 — Twenty-one works registered unread from the exchange "Analyze nucleation concepts": SGD as approximate Bayesian inference and its SLT neighbours, open reaction-network and stochastic thermodynamics, self-distillation, safe control, and organization as a principle; every identifier checked, one work added by the filer](2026-10.md#twenty-one-works-registered-unread-from-the-exchange-analyze-nucleation-concepts-sgd-as-approximate-bayesian-inference-and-its-slt-neighbours-open-reaction-network-and-stochastic-thermodynamics-self-distillation-safe-control-and-organization-as-a-principle-every-identifier-checked-one-work-added-by-the-filer)
 - [29 Oct 23:18 — The two candidate readings: causal feature learning read, with a THEORY joining it to effective information; Cernat 2011 is not the test it was named for](2026-10.md#the-two-candidate-readings-causal-feature-learning-read-with-a-theory-joining-it-to-effective-information-cernat-2011-is-not-the-test-it-was-named-for)
 - [29 Oct 22:38 — The triage's File tier registered and read: 8 of 18 reached, 2 THEORYs, THEORY-787's defeater met for effective information](2026-10.md#the-triages-file-tier-registered-and-read-8-of-18-reached-2-theorys-theory-787s-defeater-met-for-effective-information)
 - [29 Oct 20:59 — Triage of the 162 works the readings of 2026-10-29 named and did not register: 18 to file, 59 to consider, 85 to skip](2026-10.md#triage-of-the-162-works-the-readings-of-2026-10-29-named-and-did-not-register-18-to-file-59-to-consider-85-to-skip)
@@ -154,9 +156,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-192 entries across 2 books, newest first.
+194 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 145 | 2026-10-01 | 2026-10-29 |
+| [2026-10](2026-10.md) | 147 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

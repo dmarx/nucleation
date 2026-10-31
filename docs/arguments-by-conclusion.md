@@ -4,9 +4,9 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 46 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 47 matches
 
-**argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 28 matches
+**argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 29 matches
 
 - [CLAIM-005](../record/claims.d/CLAIM-005.md) — Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector; the match constrains a translation only once one outcome correspondence is fixed across many items, and summed over source contexts alone it charges for loss and not for addition *(Proposed, thesis)*
   - [ARG-026](../record/arguments.d/ARG-026.md) — Judged pragmatic observables that predict human judgements of fidelity or shared kind better than text similarity support the central theses of the pragmatic-transport line *(Rejected, evidence)*
@@ -119,3 +119,6 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-021](../record/arguments.d/ARG-021.md) — The manuscript's renderings, which keep the words and change the act, show that keeping the proposition is not necessary for keeping the act *(Rejected, existence)*
 - [CLAIM-497](../record/claims.d/CLAIM-497.md) — A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on *(Active, thesis)*
   - [ARG-041](../record/arguments.d/ARG-041.md) — From the effective-information bound and its ties to proportionality: a gain that depends on the intervention distribution is not a property of the system, the coarse-grainings that lose nothing are, and the coarsest of them is where the causes are *(Proposed, formal-application)*
+- [CLAIM-511](../record/claims.d/CLAIM-511.md) — A self-maintaining organization ought to preserve its corrigibility *(Proposed, disclaimed)*
+  - [ARG-042](../record/arguments.d/ARG-042.md) — The record's constructions of maintained correction show that self-maintaining organizations ought to preserve their corrigibility *(Rejected, evidence)*
+    - [CLAIM-520](../record/claims.d/CLAIM-520.md) — The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker's expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange's model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration *(Active, thesis)*

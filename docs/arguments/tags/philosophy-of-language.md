@@ -6,7 +6,7 @@
 
 **Philosophy of language** — meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy).
 
-15 of 41 ARG documents. Back to the [full index](../README.md).
+15 of 42 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

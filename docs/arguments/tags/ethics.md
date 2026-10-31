@@ -6,8 +6,8 @@
 
 **Ethics** — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy).
 
-0 of 41 ARG documents. Back to the [full index](../README.md).
+1 of 42 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-042](../../../record/arguments.d/ARG-042.md) | The record's constructions of maintained correction show that self-maintaining organizations ought to preserve their corrigibility | Filed at the owner's question of 2026-10-31 ("no ARGs?"), under [ADR-061](../../../record/decisions.d/ADR-061.md), from the support half of [CLAIM-511](../../../record/claims.d/CLAIM-511.md). The owner had asked at U24 of the exchange "Analyze nucleation concepts" whether corrigibility's desirability had been established. The answer was no, and that answer is a verdict on support, so it is an ARG. Rejected. The constructions show what corrigibility is made of and what it costs to keep. They are equally expected whether or not it ought to be kept, so they do not bear on the conclusion. Its value is conditional ([CLAIM-520](../../../record/claims.d/CLAIM-520.md), which undercuts this). | Rejected |

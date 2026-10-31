@@ -6,7 +6,7 @@
 
 **Offered** — stated and plausible, on evidence that is suggestive rather than settling — the document says what would settle it.
 
-15 of 41 ARG documents. Back to the [full index](../README.md).
+15 of 42 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

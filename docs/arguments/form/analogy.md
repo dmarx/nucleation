@@ -6,7 +6,7 @@
 
 **Analogy** — what holds of one case holds of another alike in the relevant respect. Critical questions: in what respect are they alike, and is that the respect the conclusion needs? What relevant difference is there? What transfers, and what does not?.
 
-8 of 41 ARG documents. Back to the [full index](../README.md).
+8 of 42 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,8 +6,8 @@
 
 **Thermodynamics** — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020).
 
-0 of 185 CASE documents. Back to the [full index](../README.md).
+1 of 190 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-190](../../../record/cases.d/CASE-190.md) | A kinetic construction of self-maintaining reconstruction: a brief encounter captures a fuel, connector and two-catalyst core into a box that stays invariant under bounded degradation, keeping its copying catalyst regenerated and a grounded teacher and an erasable student within bounded error; with a resource allocator holding reserved minima and a revisable copy rule, the certificate holds for every allocation and rule, because neither the information variables nor the rule feed back into maintenance | From A17 and A18 of the exchange "Analyze nucleation concepts" (2026-10-31), after the owner asked for "one system in which those conditions are all physically realized rather than assumed independently", and then for an endogenous allocation controller with a barrier certificate. The certificates were rechecked by the reader of U16–U19, and two of A's error bounds were loose. The simulations A17 and A18 report could not be checked: their code was in A's sandbox. A19 later said "Our last model explicitly demonstrated the separation" between matched successors after a second injury; it did not, and that experiment was never run. | Active |

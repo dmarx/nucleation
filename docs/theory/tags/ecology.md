@@ -6,7 +6,7 @@
 
 **Ecology** — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028). How a partner comes to live inside another and depend on it is endosymbiosis (ADR-055).
 
-12 of 1247 THEORY documents. Back to the [full index](../README.md).
+12 of 1275 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

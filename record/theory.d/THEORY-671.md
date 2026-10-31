@@ -160,11 +160,11 @@ also asks for a planetary test that does not assume MEP.
 
 ## Note of 2026-10-31: counterevidence from the Schlögl model
 
-The readings of Vellela and Qian ([LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md)) and of Falasco and
-Esposito ([LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md)) bear against selection by maximum entropy
+The readings of Vellela and Qian ([LIT-1890](../literature.d/LIT-1890.md)) and of Falasco and
+Esposito ([LIT-1892](../literature.d/LIT-1892.md)) bear against selection by maximum entropy
 production:
 - in the bistable Schlögl model, the more stable state can carry either
-  the higher or the lower entropy production ([THEORY-tmpshz26](THEORY-tmpshz26.md));
+  the higher or the lower entropy production ([THEORY-1270](THEORY-1270.md));
 - Falasco and Esposito find extremum principles hold only near detailed
   balance or under "peculiar conditions".
 

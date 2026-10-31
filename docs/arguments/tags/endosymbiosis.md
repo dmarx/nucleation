@@ -6,7 +6,7 @@
 
 **Endosymbiosis and reductive evolution** — how one organism comes to live inside another and depend on it, and how that ends — reductive genome evolution by drift, deletional bias or adaptive loss (including the Black Queen dependencies of free-living microbes), complementary loss across partners, nested symbioses and symbiont splitting and replacement, endosymbiotic gene transfer, protein import and host control of transmission, organellogenesis and organelle loss, and eukaryogenesis. The ecology of a partnership is ecology (ADR-055).
 
-0 of 41 ARG documents. Back to the [full index](../README.md).
+0 of 42 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

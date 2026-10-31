@@ -181,7 +181,7 @@ The exchange "Analyze nucleation concepts" built toward this question from
 U20 to U23. A22 called its protected-inquiry model "a partial constructive
 answer" and noted the gap this question names: the model meets the
 requirement of testing on interventions the system did not select only by
-design. The design A23 wrote out is filed as [CASE-tmp061to](../cases.d/CASE-tmp061to.md). Its primary endpoint
+design. The design A23 wrote out is filed as [CASE-186](../cases.d/CASE-186.md). Its primary endpoint
 is a second correction after the diagnostic and copying machinery is
 injured. Its out-of-family arm separates rejecting a hypothesis from
 finding the hypothesis family inadequate. That arm is still limited to a
