@@ -243,22 +243,22 @@ the fourteenth review); whether it is ever met turns on that cost.
 Two readings filed on this date bear on the two routes this claim
 compares.
 
-- **A third route.** Bencherki, Brummans and Vézy (LIT-tmp3mudg) settle
+- **A third route.** Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) settle
   a conflict the person cannot settle alone by taking it outward. An
   urge the person cannot fit into "the person I know to be 'myself'" is
   resolved when they "enlist friends with complementary skills and start
   a local nonprofit" (p. 1356). That is neither local accommodation nor
   escalation within the agent. The demand is granted in another
   organization. The parent gives no cost and no criterion for it. It is
-  filed as QUESTION-tmp3wvgk and not as a counter, because nothing in the
+  filed as [QUESTION-tmp3wvgk](../questions.d/QUESTION-tmp3wvgk.md) and not as a counter, because nothing in the
   readings says the two routes this claim compares cost what it says
   they do.
 - **Massumi's micropolitics is local accommodation that keeps the
   contrast.** He aims at "a maximally inclusive co-patterning of
   contrasting tendencies ... in way that they do not oppose and curtail
-  each other" (LIT-tmpi0u4n, p. 64), "not to resolve the tension through
-  a choice, but to modulate it into a symbiosis" (LIT-tmp8hcfz, p. 12;
-  THEORY-tmpl13wj). That is settlement without a mediator, as here. It
+  each other" ([LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 64), "not to resolve the tension through
+  a choice, but to modulate it into a symbiosis" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 12;
+  [THEORY-tmpl13wj](../theory.d/THEORY-tmpl13wj.md)). That is settlement without a mediator, as here. It
   differs in what it settles for: a stable accommodation in this claim,
   an affirmed discord in Massumi's. It also gives no cost, and Massumi
   calls the outcome "always-as-yet unknowable" (p. 64). It names an

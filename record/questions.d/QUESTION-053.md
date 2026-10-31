@@ -90,7 +90,7 @@ configuration.
 
 ## Note of 2026-10-31: differential attunement, a further option with a test of its own
 
-Massumi (LIT-tmp8hcfz, read in NOTE-tmpyf5pn; THEORY-tmpywwei) gives an
+Massumi ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), read in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md); [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)) gives an
 answer that is neither of this question's two options. It is close to
 the third option of the note of 2026-10-14 (Nowak et al.), coordination
 through difference, but it is attunement to one event and not a
@@ -99,7 +99,7 @@ configuration that performs a task.
 - **Not convergence.** Bodies cued by one event "will have been attuned –
   differentially – to the same interruptive commotion". "There is no
   sameness of affect. There is affective difference in the same event"
-  (p. 6). He sets this against "imitation or contagion". THEORY-126's
+  (p. 6). He sets this against "imitation or contagion". [THEORY-126](../theory.d/THEORY-126.md)'s
   synchronous convergence is what he denies, except where "other factors
   must have been active to pre-channel tendencies" (p. 6).
 - **Not a group subject.** Affect is not "intersubjective" if that means
@@ -112,15 +112,15 @@ It makes a prediction the two options do not. Members cued by one event
 respond in systematically different but coordinated ways, "responding
 differently together" (p. 6). Convergence predicts that their states
 become alike. That is the test this question asks for, a case where the
-options come apart. THEORY-tmpywwei's promote_when states it. The
-nearest held account is CLAIM-437. There, one change of state is ranked
+options come apart. [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)'s promote_when states it. The
+nearest held account is [CLAIM-437](../claims.d/CLAIM-437.md). There, one change of state is ranked
 by each perspective against its own concerns, so valence differs by
 perspective within one event. That is the same structure on the record's
 side, an analogy and not a shared mechanism.
 
 The parent paper does not keep to this. Its "indignation she can no
-longer contain" (LIT-tmp3mudg, p. 1354) "in-forms" her colleagues
-(THEORY-tmpywwei, "What this does not say"). That example is
+longer contain" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354) "in-forms" her colleagues
+([THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md), "What this does not say"). That example is
 convergence.
 
 No status, title or warrant changes.

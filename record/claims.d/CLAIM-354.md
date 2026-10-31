@@ -187,8 +187,8 @@ not settle. [CLAIM-410](CLAIM-410.md) uses the example.
 ## Note of 2026-10-31: "augmented ability to act" assumes a comparison this claim makes partial
 
 The parent paper filed on this date defines agency by a transition "from
-a lesser to an augmented ability to act" (LIT-tmp3mudg, p. 1354;
-THEORY-tmpcaccx). That verdict assumes two abilities can be ranked. On
+a lesser to an augmented ability to act" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354;
+[THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)). That verdict assumes two abilities can be ranked. On
 this claim they compare by inclusion, and pairs that overlap without
 containment are incomparable. The paper's own case is one. In the MSF
 meeting (pp. 1359–1363), MSF takes on an "ad hoc training program" it
@@ -198,9 +198,9 @@ department. And by the paper's own account it may be "becoming a 'university'" (
 Robert had tried "to protect the organization from" (p. 1362). The paper
 counts the outcome as transindividuation, "augmented ability to act" (p.
 1362). Without a declared measure, this claim would class it as a
-change, not an augmentation. NOTE-tmpfw3f7 found the same gap
+change, not an augmentation. [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md) found the same gap
 ("Building augmentation into 'agency' makes a verdict depend on a
 judgment of whose capacity counts"). This claim gives the reason in
-general. CLAIM-tmptb7y2 separates the quantity from valence and emotion.
+general. [CLAIM-tmptb7y2](CLAIM-tmptb7y2.md) separates the quantity from valence and emotion.
 
 No status, title or warrant changes.

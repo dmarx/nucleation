@@ -130,7 +130,7 @@ parameter."
 
 ## Note of 2026-10-31: a second-hand organizational instance, not proposals-fixed
 
-Tsoukas and Chia (LIT-tmpls0y0, read in NOTE-tmpyz5d5) reread Barrett et
+Tsoukas and Chia ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md)) reread Barrett et
 al.'s account of Total Quality in the US Navy (pp. 578–579). "Junior
 officers in the Navy always put forward suggestions, always adapted
 orders received to their local circumstances". Under the old template
@@ -146,10 +146,10 @@ let members "notice new things, make fresh distinctions, see new
 connections" (p. 579), so the proposals were not held fixed, and the
 defeater's alternative, a change in what was preferred, is not excluded.
 It is a second-hand reading of a published case, chosen because it
-showed change (NOTE-tmpyz5d5, Limitations). So it is recorded here and
+showed change ([NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md), Limitations). So it is recorded here and
 not as a ground. Tsoukas and Chia's name for what decides whether "local
 changes are amplified and become institutionalized" is the "structural
 context", created largely by senior managers (p. 579, after Burgelman).
-They do not analyse it further. TERM-023 is an analysis of it.
+They do not analyse it further. [TERM-023](../terms.d/TERM-023.md) is an analysis of it.
 
 No status, title or warrant changes.

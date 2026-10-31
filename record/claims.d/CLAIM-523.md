@@ -114,7 +114,7 @@ resource-bounded account of what futures remain reachable ([CLAIM-475](CLAIM-475
 Two of the readings filed on this date bear on this claim.
 
 - **One label does the work of legibility and of refusal.** In Bencherki
-  (2017; LIT-tmp1rpyl, read in NOTE-tmp4ysch, pp. 787–788) military
+  (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md), pp. 787–788) military
   spouses ask for a newsletter on daycare, dental care and pensions. The
   base commander reads every item as "political activity", which is
   forbidden on the base. The demands are legible, but only under a
@@ -130,13 +130,13 @@ Two of the readings filed on this date bear on this claim.
   missing.** Bencherki, Brummans and Vézy say "people become responsible
   as they incorporate/integrate (or deny the incorporation/integration
   of) the actions of others into their own becoming, which enables those
-  others to continue their individuation" (LIT-tmp3mudg, p. 1366). That
+  others to continue their individuation" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1366). That
   places responsibility in granting another's demand efficacy in one's
   own organization, this claim's volitional path. The paper gives no
   standard by which a demand ought to be incorporated, and this claim
   says none of the three achievements supplies one. Bencherki (2017)
   needs such a standard to call the army's taking of the women's daycare
   work "usurpation" (pp. 791–792). Its theory disclaims one
-  (THEORY-tmpuh0eb).
+  ([THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)).
 
 No status, title or warrant changes.

@@ -95,7 +95,7 @@ The readings filed on this date bear on this question three ways.
   criterion of continuation cannot assume that revisions of the
   authorizing standard are discrete acts that can be checked one by one.
 - **A revision of the standard made in the act.** In the MSF meeting
-  (LIT-tmp3mudg, pp. 1359–1363), Robert first applies MSF's standard,
+  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1359–1363), Robert first applies MSF's standard,
   "MSF [is] ... not a university", "[they] are not here as educators"
   (p. 1362). He then extends it until an "ad hoc training program" falls
   inside, and ends with "at first sight, I don't have major objections"
@@ -111,6 +111,6 @@ The readings filed on this date bear on this question three ways.
   "enlist friends ... and start a local nonprofit", placing the urge in a
   collective (p. 1356). The person continues by relocating the demand,
   not by revising their own will-organization. Whether that counts as
-  continuation is filed as part of QUESTION-tmp3wvgk.
+  continuation is filed as part of [QUESTION-tmp3wvgk](QUESTION-tmp3wvgk.md).
 
 None of the three supplies a criterion. No status, title or warrant changes.
