@@ -1,0 +1,141 @@
+---
+status: Read
+paper: 'LIT-tmpejle0'
+title: 'Barato & Seifert — thermodynamic uncertainty relation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Read in full from the arXiv preprint 1502.05944v2 (30 April 2015),
+    11 pp.: a 5-page letter and a 6-page Supplemental Material (§I the
+    positive semidefiniteness of G, §II Koza's formulas for J and D,
+    §III the unicyclic calculation, §IV six multicyclic networks). The
+    PRL version of record was not compared. Text extracted with
+    pdftotext; the supplement's long sums (eqs. 39–59) came through
+    scrambled and were followed from structure, not checked term by
+    term, and Figs. 2–3 survived only as axis labels and captions. I
+    checked numerically (my script): Q = A coth(A/2) for the biased walk;
+    Q = (A/N) coth(A/2N) for uniform unicyclic rings at N = 3, 5; and
+    Q ≥ 2 for 2,998 random fully connected four-state networks with
+    rates 10^U(−3,3), computing J and D from the tilted generator's top
+    eigenvalue.
+date: '2026-10-31'
+summary: >-
+  For counting currents in nonequilibrium steady states of finite Markov
+  jump networks, the total entropy produced over time t times the squared
+  relative uncertainty of the current is at least 2k_BT, whatever t. The
+  letter proves this within linear response and, for unicyclic networks,
+  at any affinity, with the sharper unicyclic bound (A/N) coth(A/2N); for
+  multicyclic networks far from equilibrium it gives numerical evidence on
+  seven networks and states the general case as a conjecture.
+---
+<!-- inactive-ok-file: THEORY-671 — Proposed; named as a principle this bound does not support -->
+
+# NOTE-tmpxh170: Barato & Seifert — thermodynamic uncertainty relation
+
+## Contribution
+
+A bound tying the precision of a steady-state output to its dissipation:
+Q ≡ σ t ε² ≥ 2k_BT, where σ is the entropy production rate, t the
+observation time and ε² = Var X/⟨X⟩² the squared relative uncertainty of a
+current X (eqs. 4, 10). The bound is time-independent, because both ε²
+and σt scale with t. To reach 1% precision needs at least 20,000 k_BT of
+dissipation (p. 2; 2/10⁻⁴, checked). The letter gave the relation its
+name; its general proof came later and is not in this paper.
+
+## Key insight
+
+Precision is bought with dissipation, at a fixed exchange rate. A
+nonequilibrium current is a biased count of transitions. Near
+equilibrium its mean grows with the affinity and its variance does not
+shrink, so making its relative noise small requires driving it hard or
+for long, and both cost entropy production in proportion.
+
+## Assumptions
+
+- **A finite Markov jump network in a nonequilibrium steady state.**
+- **Thermodynamic consistency**: every transition has its reverse
+  ("if kᵢⱼ ≠ 0 then kⱼᵢ ≠ 0", p. 2) and local detailed balance holds,
+  ln(kᵢⱼ/kⱼᵢ) = Σ_β dᵢⱼ^β A_β + Eᵢ − Eⱼ (eq. 5). Irreversible transitions
+  put the affinity at infinity, where the bound is trivially met.
+- **The observable is a current**, a count of transitions weighted by an
+  antisymmetric increment dᵢⱼ. Occupation-time observables are excluded
+  explicitly: their uncertainty "is finite even in equilibrium" (p. 1).
+- **Steady state, long times**: J and D are the stationary drift and
+  diffusion coefficient of X (eqs. 6–7).
+
+## Key results
+
+- **Biased walk (eq. 4).** Q = A coth(A/2k_BT) ≥ 2k_BT, increasing in A,
+  so the cheapest precision is near equilibrium, where however the time
+  to produce output diverges (p. 2). Checked.
+- **Linear response, any network (eqs. 11–13).** With the Einstein
+  relation D_α = L_αα, Q_α = 2[1 + Σ G_βγ A_β A_γ / (Σ L_αβ L_αγ A_β A_γ)]
+  with G_βγ = L_αα L_βγ − L_αβ L_αγ positive semidefinite (supplement §I,
+  by Sylvester's bordered-determinant identity). So Q_α ≥ 2, with equality
+  when only A_α is nonzero.
+- **Unicyclic networks, any affinity (eq. 20).** For N states and cycle
+  affinity A, Q ≥ (A/N) coth(A/2N) ≥ 2, the minimum at uniform rates.
+  The supplement shows uniform rates are a stationary point of the
+  relevant ratio and says "we are not able to provide a rigorous proof of
+  this uniqueness" (§III). So the unicyclic bound is proved up to that
+  gap. Checked at N = 3 (A = 2, 10) and N = 5 (A = 4): Q agrees with the
+  formula to six digits.
+- **Fano factor (eq. 22).** F ≥ (1/N) coth(A/2N), sharper than the known
+  F ≥ 1/N when the affinity is known; a diagnostic for the number of
+  states in an enzyme cycle.
+- **Multicyclic networks beyond linear response.** Numerical only: one
+  two-substrate enzyme and six further networks, rates random and
+  minimised; "we conjecture that Q_α ≥ 2 also for general multicyclic
+  networks beyond linear response" (p. 4). My random check of the
+  complete four-state graph found min Q = 2.08 over 2,998 draws.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Q ≥ 2k_BT within linear response for any network | strong | eq. 13 with supplement §I |
+| C2 | Q ≥ (A/N) coth(A/2N) ≥ 2 for unicyclic networks at any affinity | strong, with a uniqueness gap the authors name | supplement §III; checked at uniform rates |
+| C3 | Q ≥ 2 for multicyclic networks far from equilibrium | moderate (conjecture) | numerics on seven networks; my random check |
+| C4 | Minimal cost for given precision is reached near equilibrium | strong | eqs. 4, 20 |
+
+## Concepts
+
+- **Q, the dissipation–precision product** — σtε², dimensionless with
+  k_B = T = 1 (eq. 10).
+- **Generalized distance dᵢⱼ^α** — how much X_α changes on transition
+  i → j, antisymmetric.
+- **Koza's formulas** — J and D from the coefficients of the tilted
+  generator's characteristic polynomial (eqs. 14–17).
+
+## Connections
+
+- Uses Seifert's framework ([LIT-523](../literature.d/LIT-523.md)) for σ = Σ J_β A_β (eq. 9).
+- The review [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md) (§VIII.B.1) states the macroscopic form: for a
+  system prepared in one attractor and observed for less than its
+  lifetime, the bound involves only that attractor's own dissipation.
+- Later proofs of the general case (Gingrich et al. 2016, Horowitz &
+  Gingrich 2020) are not held and were not read.
+
+## Bearing on the record
+
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) (maintenance) and A13's use of it.** The exchange said
+  the relation ties "resource cost and precision of maintenance". It ties
+  the precision of a *current* to dissipation. A maintained state is an
+  occupation, and the paper explicitly sets occupation observables aside.
+  What it does bound is the precision of the throughput that maintenance
+  runs on, for instance a production flux counted over time. So it can
+  price a reliable production rate in a construction like [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s,
+  once that construction is made thermodynamically consistent (every
+  production step reversible). It does not price how long the maintained
+  state lasts; that is the escape-rate question of [THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md).
+- **[THEORY-671](../theory.d/THEORY-671.md) (maximum entropy production).** Nothing here selects a
+  steady state; the bound constrains fluctuations at a given state.
+- Produces [THEORY-tmpnaoak](../theory.d/THEORY-tmpnaoak.md).
+
+## Limitations
+
+- The general multicyclic case is conjectural in this paper.
+- Steady states only; finite time and driven protocols are not treated.
+- The supplement's algebra is long and I followed, not re-derived, it.

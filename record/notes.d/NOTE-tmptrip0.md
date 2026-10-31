@@ -1,0 +1,185 @@
+---
+status: Read
+paper: 'LIT-tmptkqrv'
+title: 'Mobahi, Farajtabar & Bartlett — Self-distillation amplifies regularization'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Read from the arXiv preprint 2002.05715v3 (26 October 2020, the
+    "more detailed version" of the NeurIPS 2020 paper), 34 pp., fetched
+    2026-10-31 and extracted with `pdftotext -layout`; page numbers are
+    the arXiv copy's. I read the abstract, §§1–6, Appendix A (the
+    variational solution), the statement and opening of Appendix B (the
+    equivalent kernel), Appendix D (experiment details) and Appendix E
+    (the Mathematica code). The proofs in Appendix C of Propositions 3–4
+    and Theorems 5–6 were skimmed, not checked line by line. The plotted
+    curves did not survive extraction; their captions and the axis ranges
+    did. I reproduced the illustrative example of §4 (numpy and scipy, my
+    own script) with the paper's own sample values from Appendix E,
+    finding four non-collapsed rounds as the paper reports, with the
+    multiplier c_t rising about 300-fold across them. Doing so showed
+    that the caption's ε = 0.04 is infeasible at the first round, while
+    the code's ε = 0.045 works; that the Gram matrix of the example is
+    singular, not positive definite; and that Proposition 4's guaranteed
+    number of rounds is about 0.0006 there.
+date: '2026-10-31'
+summary: >-
+  For ℓ2-regularized regression in a Hilbert space with a fixed
+  training-error tolerance, refitting to one's own predictions on the
+  same inputs multiplies the labels' eigencomponents by d_k/(c_t + d_k),
+  where the multiplier c_t must grow as the labels shrink. Rounds
+  therefore amplify regularization, relatively suppress
+  small-eigenvalue components and collapse the solution to zero after
+  finitely many rounds. A few rounds can help and more hurt, which
+  ResNet and VGG runs on CIFAR echo by fractions of a point. The loss
+  comes from the regularizer, not from any information withheld from
+  the student.
+---
+<!-- inactive-ok-file: QUESTION-tmp4b001 QUESTION-016 CLAIM-090 — Open or Proposed; the questions and claim this reading bears on, cited as open -->
+
+# NOTE-tmptrip0: Mobahi, Farajtabar & Bartlett — Self-distillation amplifies regularization
+
+## Contribution
+
+What the authors present as the first theoretical analysis of
+self-distillation, in the sense of Furlanello et al.'s born-again
+networks: retrain the same model class on the previous
+model's predictions at the same training inputs, and repeat. In ℓ2-
+regularized kernel regression it shows that each round shrinks the label
+vector in the eigenbasis of the Gram matrix, more for small eigenvalues.
+So rounds act as a growing regularizer. It is sparsifying, unlike
+loosening the error tolerance, and it ends in the zero function (§§3.1–3.5).
+
+## Key insight
+
+The student gets nothing the teacher lacked, but the loop is not neutral.
+Each round applies the operator D(c_t I + D)⁻¹, which is a shrinkage and
+not a projection. And the fixed tolerance ε forces c_t up as the labels
+shrink. Repetition alone amplifies whatever inductive bias the
+regularizer carries.
+
+## Assumptions
+
+- **Regression with a regularizer** R(f) = ∫∫ u(x, x†) f(x) f(x†), u a
+  positive definite kernel with a continuous Green's function g; the
+  learning problem is min R(f) subject to (1/K)Σ(f(x_k) − y_k)² ≤ ε
+  (eq. 1). The tolerance ε, not the penalty weight, is held fixed.
+- **Same training inputs every round**: only the labels change,
+  y_t = f_{t−1}(x_1…x_K) (eq. 29). There is no fresh sample and no
+  coverage change.
+- **Squared loss.** Cross-entropy and hard labels appear only in
+  experiments (Fig. 5, App. D.3).
+- **A positive definite Gram matrix G** with condition number κ
+  (§2.2). The illustrative example violates this: the boundary
+  conditions put zero rows at x = 0 and x = 1.
+- **The NTK link** to neural networks (§5.1) is offered as motivation,
+  not proved.
+
+## Key results
+
+- **Prop. 1** (eq. 17): f*(x) = g_xᵀ(cI + G)⁻¹y.
+- **Recurrence** (eqs. 29–34): with G = VᵀDV and z = Vy,
+  z_t = D(c_{t−1}I + D)⁻¹ z_{t−1}, so ‖z_t‖ strictly decreases.
+- **Bounds on c** (eq. 24): d_min√(Kε)/(‖z‖ − √(Kε)) ≤ c ≤
+  d_max√(Kε)/(‖z‖ − √(Kε)). As ‖z_t‖ falls toward √(Kε), c_t grows
+  without bound.
+- **Collapse** (§2.1, §3.2): once ‖y_t‖ ≤ √(Kε) the solution is
+  f ≡ 0. **Prop. 4**: at least (‖y_0‖/√(Kε) − 1)/κ rounds before that.
+- **Theorem 5** (eq. 46): for d_k > d_j, B_{t−1}[k,k]/B_{t−1}[j,j] grows
+  at least geometrically in t, where B_t = Π A_i and
+  f_t(x) = p_xᵀ B_t z_0 (eq. 47). Fewer basis functions carry the
+  solution as rounds pass.
+- **Early stopping is different** (§3.4): a larger ε only changes the
+  scalar c_0, which cannot sparsify D.
+- **Theorem 6**: the attainable sparsity index improves as ε → 0, but
+  ε = 0 makes every round reproduce the last.
+- **Generalization** (§3.7, App. B): f_t equals kernel ridge regression
+  with an equivalent kernel whose Gram spectrum
+  d†_k = c_0 / (Π_{i≤t}(d_k + c_i)/d_k^{t+1} − 1) shrinks with t, so
+  standard Rademacher bounds apply.
+- **Illustrative example** (§4, Figs. 2–3): spline regularizer
+  ∫(f″)², eleven noisy samples of sin 2πx. Rounds 0–3 run before
+  collapse, the fit first improving and then underfitting. Reproduced
+  with the Appendix E values at ε = 0.045 (history). The text's
+  "y_k = x_k + η" is a typo for sin(2πx_k) + η.
+- **Neural networks** (§5, Figs. 4–6, App. D): ResNet-50 and VGG-16 on
+  CIFAR-10/100, ℓ2 on softmax outputs, 10 runs. Test accuracy rises then
+  falls over about ten rounds while training accuracy falls; the swings
+  are fractions of a point (CIFAR-10 test about 0.860–0.868).
+  Self-distillation and loss-matched early stopping give different
+  accuracies (Fig. 6).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | In this setting each round shrinks the labels' eigencomponents by d_k/(c_t + d_k) with c_t growing, so rounds amplify regularization | strong | eqs. 29–37, elementary; reproduced |
+| C2 | The solution collapses to zero after finitely many rounds | strong | §3.2, reproduced |
+| C3 | Rounds sparsify the basis representation at a geometric rate | strong as a bound | Theorem 5 (proof skimmed) |
+| C4 | Self-distillation's regularization is not that of early stopping | moderate | §3.4 argument; Fig. 6 |
+| C5 | Deep networks show the same rise-then-fall | weak to moderate | Figs. 4–6, small effects, NTK link motivational |
+| C6 | Proposition 4 gives a useful lower bound on the rounds | weak | vacuous in the paper's own example (κ unbounded) |
+
+## Concepts
+
+- **Self-distillation** — refitting the same model class to its own
+  predictions on the training inputs (footnote 1, after Furlanello et
+  al.).
+- **Collapse regime** — ‖y‖² ≤ Kε, where f ≡ 0 is feasible and optimal.
+- **Sparsity index** — the smallest ratio bound of Theorem 5 over
+  eigenvalue pairs (eq. 49).
+
+## Connections
+
+Self-distillation as diffusion or boosting in image processing (Milanfar
+2013). Gerstgrasser et al. ([LIT-971](../literature.d/LIT-971.md), [NOTE-815](NOTE-815.md)) cite it as the noiseless
+case of model collapse, where predictions shrink to zero; [THEORY-289](../theory.d/THEORY-289.md) holds
+their noisy, data-reusing contrast. Wu, Yang and Sun ([LIT-tmpcewsq](../literature.d/LIT-tmpcewsq.md)) study
+the same loop with fresh inputs each round.
+
+## Bearing on the record
+
+- **[QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md) and A16.** A16 cited this paper as showing that
+  "repeated self-distillation can progressively suppress representational
+  components through regularization". That is accurate. A16's own
+  theorem says exact projection under a fixed information structure is
+  idempotent, so continued loss needs "approximation error,
+  regularization, sampling noise, or other alterations". This paper is
+  the regularization case, with nothing else changing: same inputs, no
+  noise, no information withheld. Its round operator is a shrinkage, not
+  a projection ([THEORY-tmp33nos](../theory.d/THEORY-tmp33nos.md)). Iterated inheritance can lose
+  everything through the inheritor's own bias alone, without any
+  information bottleneck.
+- **[CLAIM-090](../claims.d/CLAIM-090.md)** (Proposed): serial transmission filtered by the
+  transmitters' inductive biases. This is a formal instance with an
+  exactly stated bias, the regularizer. It stabilizes nowhere except
+  at zero: the "stable endpoint" here is the empty function.
+- **[QUESTION-016](../questions.d/QUESTION-016.md).** In this setting iterated reconstruction destroys
+  sufficiency for every task, at a rate set by the Gram spectrum and ε.
+  The order of loss is fixed: small-eigenvalue components go first.
+- **An instruction for ML practice is implicit** (a few rounds, then
+  stop). That belongs to the Anthology of the SOTA; the LIT keeps the
+  `anthology-candidate` flag.
+
+## Limitations
+
+- **The amplification depends on holding ε fixed.** With a fixed penalty
+  weight c the shrinkage per round is fixed instead of growing. The
+  paper motivates the choice (footnote 2) but does not analyse the
+  alternative.
+- **Squared loss and kernels only**; the neural results are small and
+  rest on an NTK analogy.
+- **Prop. 4 can be vacuous**, and Theorem 5 is a ratio bound, not a rate
+  for the error.
+- **The example departs from the stated assumptions** (singular G; the
+  caption's ε infeasible).
+
+## Open questions
+
+- With a fixed penalty weight instead of a fixed tolerance, does the
+  generalization benefit survive, or is it the tolerance that does the
+  work?
+- Under cross-entropy and soft labels, is there a comparable shrinkage
+  operator?

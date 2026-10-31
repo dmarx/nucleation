@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp5mn7l
 title: 'In a singularly perturbed system, fast states x̃ with dx̃/dt = f̃(x̃, y) + ε·δf and slow states y with dy/dt = ε·ḡ(y) + ε·δg, if f̃ is contracting in x̃ at rate β_f with x̃ = 0 an equilibrium for every y, ḡ is contracting at rate β_g, and |δf| ≤ d_f + α_f,x|x̃| + α_f,y|y|, |δg| ≤ d_g + α_g,x|x̃|, then for every ε below ε_c = β_f / [χ_f(α_f,x + χ_g α_f,y α_g,x / β_g)] the fast states stay within O(ε) of zero and, when d_g = 0, the slow states within O(ε) of the reduced trajectory, uniformly in time after a transient of order (1/β_f + 1/(εβ_g)) log(1/ε)'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-20'
@@ -43,9 +43,15 @@ history:
     of NOTE-1020), so the condition is met under ADR-047 v2. Lemma 4 is
     bypassed, not repaired. "What this does not say" gains the two
     precisions R2 makes explicit.
+- version: 4
+  date: '2026-10-31'
+  note: >-
+    Tagged control-theory beside the existing tags (ADR-066). Nothing
+    else changes.
 tags:
 - complex-systems
 - mathematics
+- control-theory
 date: '2026-10-20'
 source:
 - LIT-1292

@@ -1,0 +1,203 @@
+---
+status: Read
+paper: 'LIT-tmpgm18n'
+title: 'Remlein, Esposito & Avanzini — Open reaction networks emerging in closed ones'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Read from the arXiv preprint 2604.14848v2 (19 October 2026), 29 pp.,
+    fetched 2026-10-31; the Physical Review X version was not compared.
+    Text extracted with plain `pdftotext`; several figures came out as
+    embedded LaTeX residue and were read from their captions. I read the
+    abstract and §§I–XI in full, with §VI A–B and §VIII A–C for their
+    statements and the steps the main text gives. Appendices A–F (the
+    multiscale hierarchy, chemical capacity, the WKB large-deviation
+    argument, the dissipation proof, the semi-analytical example and
+    general stoichiometry) were skimmed. I checked the predicted lifetime
+    of the open regime on the paper's §IX network with a deterministic
+    mean-field integration (scipy, Radau, my own script): the time at
+    which the entropy production departs by 1% from the open value grows
+    as 0.00483 Ω, against the paper's stochastic fit 0.0048 Ω + 0.33, and
+    a two-line calculation gives the same slope.
+date: '2026-10-31'
+summary: >-
+  Shows that a closed reaction network behaves, to leading order, as an
+  open chemostatted one when two conditions hold together: exchange
+  reactions much faster than the rest (time-scale separation) and
+  reservoir species much more abundant than the rest (abundance
+  separation, a diverging chemical capacity). In that regime the
+  chemical master equation, local detailed balance, entropy production
+  and Gibbs balance of the open network all emerge. The regime lasts
+  from the equilibration of the exchange reactions to a time of order
+  the abundance ratio Ω, after which a driven network relaxes to the
+  closed system's equilibrium. Chemostats are emergent structures, not
+  external idealisations.
+---
+<!-- inactive-ok-file: CLAIM-478 THEORY-1052 — Proposed; the claim and reading this bears on, cited as open -->
+
+# NOTE-tmp658wp: Remlein, Esposito & Avanzini — Open reaction networks emerging in closed ones
+
+## Contribution
+
+The thermodynamics of open reaction networks rests on chemostats, infinite
+reservoirs that fix concentrations. "In reality, chemical systems are
+fueled by a finite amount of fuel, which is eventually depleted, and produce
+only a finite amount of waste, which eventually accumulates. In other words,
+real chemical systems are fundamentally closed and ultimately relax to
+equilibrium" (p. 2). The paper derives the open description from a closed
+one, for arbitrary stoichiometry, and states how long it holds. An earlier
+paper by two of the authors (their ref. 57) needed restrictive
+stoichiometric conditions; this one does not (§X).
+
+## Key insight
+
+A chemostat is a thermostat for a species. A thermostat needs a fast energy
+exchange and a diverging heat capacity; a chemostat needs a fast exchange
+reaction and a diverging chemical capacity, an abundance so large that the
+network's draw on it is negligible (§I, App. B). Both properties can be had
+inside a closed system. So "external driving" is a regime of a closed
+system: a window between the time the exchanges take to equilibrate and the
+time the network takes to use up the reservoir.
+
+## Assumptions
+
+- **Closed, dilute, stochastic mass-action networks**, all reactions
+  reversible and elementary, with local detailed balance (§III).
+- **A partition.** Internal species S_x; species S_y that become the
+  chemostatted ones; abundant species S_Y that act as chemostats. Internal
+  reactions R_int touch only S_x and S_y; exchange reactions R_exc
+  interconvert each y with its Y (§IV, generalised in §X).
+- **Time-scale separation**: k_{ρe} = κ̂_{ρe}, k_{ρi} = ε κ̂_{ρi}, ε ≪ 1
+  (eq. 18).
+- **Abundance separation**: L^y = O(Ω), with ⟨n_y⟩ = O(1) and
+  ⟨n_{Y(y)}⟩ = O(Ω) after fast equilibration (eq. 31).
+- **Order of limits**: ε → 0 first, then Ω → ∞. "These limits do not
+  commute" (p. 6). The other order is the earlier, restrictive framework.
+
+## Key results
+
+- **Time-scale separation alone is not enough (§VI A).** After the fast
+  reactions equilibrate the closed network obeys a master equation for the
+  slow totals L^x, L^y (eq. 36), but its rates (eq. 37) are not the open
+  network's, and L^y is still dynamical: "the time-scale separation is a
+  necessary, but not sufficient, condition" (p. 6).
+- **Adding abundance separation gives the open network (§VI B).** To
+  leading order in Ω⁻¹ the averaged rates become the open rates with
+  [y] = L^y 𝔭_y / V (eqs. 38–40), and a large-deviation argument fixes L^y
+  at its most probable value.
+- **The window (§VI C, eq. 44).** The totals L^y change by O(Ω) only after
+  T = O(Ω) on the slow clock T = εt, so there are three time scales: fast
+  (exchange equilibrates), slow (open-network dynamics), ultra-slow (T/Ω,
+  the reservoir moves). If the emergent open network is detailed-balanced it
+  equilibrates on the slow scale and the two descriptions agree for all
+  times. If it is driven, "the closed CRN, which is detailed balanced,
+  eventually equilibrates on this ultra-slow time scale", and the two agree
+  for all times "only in the singular limit Ω → ∞" (p. 9).
+- **Brusselator (§VII, Fig. 3).** A closed Brusselator with Δμ = 4.8 shows
+  the open Brusselator's oscillations; for Ω = 10 they deviate at long T,
+  for Ω ≥ 10² they agree "throughout the entire time window" (p. 11).
+- **Thermodynamics (§VIII).** The emergent rates satisfy open-network local
+  detailed balance (eq. 49); the closed network's leading-order dissipation
+  equals the open network's (eq. 57); and the Gibbs balance has the open
+  second law's form (eq. 61). Exchange dissipation is O(ε²) after the fast
+  relaxation (p. 14).
+- **Lifetime, numerically (§IX, Fig. 5).** For x ⇌ y₁, x ⇌ y₂ with
+  y_i ⇌ Y_i fast, the time at which the closed entropy production departs
+  from the open one by δ = 0.01 fits T_δ = 0.0048 Ω + 0.33 (Fig. 5 inset).
+  **Checked:** a deterministic integration of the same network with
+  ε = 10⁻⁴ and Ω = 3 × 10³ to 10⁵ gives T_δ = 0.00483 Ω − 0.27. Analytically,
+  with x slaved, y₁ − y₂ decays as e^{−T/Ω}, the open entropy production is
+  (Δ/2) ln((3 + Δ)/(3 − Δ)) with Δ = y₁ − y₂, and a 1% fall needs
+  T/Ω = 0.00483.
+- **Buffers (§X).** A weak acid and its conjugate base form a chemostat for
+  H⁺, and buffer capacity is the chemical capacity: it diverges when both
+  concentrations do (p. 14). "This example provides a direct experimental
+  realization of the abundance-separation condition."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A closed CRN with fast exchange reactions and abundant reservoir species has, to leading order, the dynamics of an open CRN | strong | multiscale and WKB derivation, §§V–VI, App. A, C; arbitrary stoichiometry §X |
+| C2 | Neither separation alone suffices, and the limits do not commute | strong | §VI A remark, §V C |
+| C3 | The emergent open CRN inherits local detailed balance, dissipation and the Gibbs balance | strong | §VIII, App. D |
+| C4 | The open regime lasts a time of order Ω, after which a driven network relaxes to equilibrium | strong for the scaling, moderate for when deviation actually occurs | eq. 44; Fig. 5 (my check reproduces the slope); the authors note topology decides whether deviation happens |
+| C5 | Buffer capacity is a chemical capacity | moderate | §X, by analogy of definitions |
+
+## Concepts
+
+- **Chemical capacity** — the inverse sensitivity of a species' chemical
+  potential to the number of molecules exchanged; diverges for a chemostat,
+  as heat capacity does for a thermostat (App. B).
+- **Abundance separation** — reservoir species O(Ω) more abundant than the
+  rest.
+- **Emergent open CRN** — the slow-time-scale description of a closed CRN in
+  the window, with S_x internal and S_y chemostatted.
+
+## Connections
+
+It derives the chemostats that Rao and Esposito ([LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md),
+[NOTE-tmp3zcaf](NOTE-tmp3zcaf.md)) postulate, and that Rao and Esposito already glossed as
+"abundant species whose concentrations are negligibly affected ... within
+relevant time scales". The emergent open network can then be analysed with
+cycles and conservation laws ([LIT-tmpw6f74](../literature.d/LIT-tmpw6f74.md), [NOTE-tmpif2g2](NOTE-tmpif2g2.md)) and bounded
+([LIT-tmpfq9vf](../literature.d/LIT-tmpfq9vf.md), [NOTE-tmp3di1n](NOTE-tmp3di1n.md)). Cross and Hohenberg's remark in [THEORY-692](../theory.d/THEORY-692.md),
+that a closed chemical system "ultimately must come to equilibrium", so that
+non-equilibrium structure is a transient or a response to "external
+chemical pumping", is this paper's starting point; it says how long the
+transient is.
+
+## Bearing on the record
+
+- **[CLAIM-478](../claims.d/CLAIM-478.md): a clean instance of both the claim and its window.** A13
+  cited this paper for the point that an "external" driving reservoir is a
+  matter of where the boundary and the time scales are drawn. That is what
+  it shows ([THEORY-tmp1nk6k](../theory.d/THEORY-tmp1nk6k.md)). A relation among fast degrees of freedom (the
+  exchange equilibria) becomes a constraint on the slow dynamics (fixed
+  [y]) over a window bounded below by the fast relaxation and above by a
+  time of order Ω. It sharpens the claim in two ways. First, time-scale
+  separation is not enough. The constraint needs a second separation, of
+  abundance, and the two limits must be taken in order. Second, the window
+  has three time scales, not two, as Ashwin et al. found for tracking
+  ([THEORY-1052](../theory.d/THEORY-1052.md), cited in [CLAIM-478](../claims.d/CLAIM-478.md)'s note), and its upper end is set by
+  capacity, not by a slow mode. The claim's list of mechanisms should carry
+  abundance (capacity) separation beside rate separation.
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) and A13's "finite lifetime because its driving is
+  exhausted".** This is the paper that supports that point, not Liang et al.
+  ([NOTE-tmp3di1n](NOTE-tmp3di1n.md)). A maintained organization powered by a finite reservoir
+  is maintained only for a time of order the reservoir's abundance divided
+  by its draw. After that it relaxes to the closed system's equilibrium,
+  whatever its organization. "Endogenously maintained" in the case's sense
+  is therefore always relative to a window, and the window's length is a
+  property of the environment's capacity, not of the organization.
+- **[CLAIM-273](../claims.d/CLAIM-273.md).** The r/place canvas's "flow" of placements comes from a
+  finite population over a finite event. The structural analogy has the
+  same shape: maintenance holds over a window set by how long the supply
+  lasts. This paper gives the chemical version a scaling law. It gives the
+  canvas nothing, since there is still no thermodynamic quantity there.
+- **[THEORY-692](../theory.d/THEORY-692.md).** It answers the review's remark quoted there: a
+  far-from-equilibrium structure in a closed chemical system is a transient,
+  and the paper says how long it lasts, O(Ω) on the slow clock.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **Leading order only.** Corrections in ε and Ω⁻¹ are not bounded
+  explicitly in the main text.
+- **Whether deviation occurs at T = O(Ω) depends on topology**; the scaling
+  is an onset, not a guarantee (p. 9).
+- **Two illustrative networks**; the Brusselator comparison is shown, not
+  quantified.
+- **Appendices skimmed**; the WKB and convergence arguments are taken on the
+  main text's account.
+
+## Open questions
+
+- In a network whose maintained state is bistable, does reservoir depletion
+  end the window by a saddle-node, as [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s damage does, and at
+  what fraction of Ω?
+- Can chemical capacity be measured directly in a living cell, beyond the
+  buffer case, to estimate how long a given metabolic state can last
+  without supply?

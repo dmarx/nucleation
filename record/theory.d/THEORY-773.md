@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcfuar
 title: 'In a singularly perturbed system ẋ = f(x, z, t), εż = g(x, z, ε), if g is contracting in z at rate λ_z for every x and ε, the reduced system ẋ = f(x, γ(x), t) on the slow manifold z = γ(x) is contracting at rate λ_x, f is α-Lipschitz in z, |∂γ/∂x · f| ≤ d and g is K-Lipschitz in ε, then for all t ≥ 0 the fast state is within χ_z e^{−λ_z t/ε}|z(0) − γ(x(0))| + εχ_z(d + K)/λ_z of the manifold and the slow state within χ_x|x(0) − x_γ(0)|e^{−λ_x t} + ε[C₁(e^{−λ_x t} − e^{−λ_z t/ε}) + C₂(1 − e^{−λ_x t})] of the reduced trajectory; partial contraction of f in x alone is not enough'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -17,9 +17,15 @@ history:
     step by step in NOTE-1020, which meets ADR-047 v2's condition for
     Active. The counterexample to the theorem as printed, and the
     numerical checks, are the record's.
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    Tagged control-theory beside the existing tags (ADR-066). Nothing
+    else changes.
 tags:
 - mathematics
 - complex-systems
+- control-theory
 date: '2026-10-20'
 source:
 - LIT-1295

@@ -110,3 +110,27 @@ and proposed questions instead. The term is filed anyway because the
 object recurred under four names in A7 to A10 and the claims filed from
 them need one; whether it should instead be a note widening [TERM-055](TERM-055.md)
 is the owner's call.
+
+## Note of 2026-10-31: correctability is bounded by legibility
+
+At U25 of the exchange "Analyze nucleation concepts" the owner suggested
+connecting corrigibility with the record's treatment of legibility. A25
+gave the bound that ties this term's "starting from the description of the
+problem it actually has" to legibility ([TERM-064](TERM-064.md)). Suppose two equally
+likely failures need remedies that exclude each other, and the
+description the arrangement corrects from has laws P₀ and P₁ under them.
+Then no remedy, actuator or decision rule acting on that description picks
+the right remedy with probability above (1 + TV(P₀, P₁))/2. It is ½ when
+the description is the same under both. This is the two-point Bayes-risk
+identity of Le Cam, the record's [CLAIM-199](../claims.d/CLAIM-199.md) and [CLAIM-503](../claims.d/CLAIM-503.md) applied to
+correction, and it is not filed as a new claim. Its use: "no improvement
+in the downstream corrective mechanism can recover that lost distinction
+from those observations alone". A25's reading of [CASE-154](../cases.d/CASE-154.md) is corrected.
+That case restricts the observer to one coordinate, not the
+representation to one bit. A25's table of correction stages extends
+[CLAIM-403](../claims.d/CLAIM-403.md)'s rungs for a contributor; [CLAIM-349](../claims.d/CLAIM-349.md)'s split of access,
+authority and action is the version for an organization's own signals. A
+corrected judgment need not be a corrected organization. In [CASE-124](../cases.d/CASE-124.md)'s
+model, resetting the interpretation's state while its residue r₀ ≠ 0
+remains regrows it at the next step (m₁ = ν·r₀), which then decays at the
+slow rate ([CLAIM-400](../claims.d/CLAIM-400.md)).
