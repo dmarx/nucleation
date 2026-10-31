@@ -1,9 +1,15 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-31 from A17 of the exchange "Analyze nucleation concepts" (2026-10-30 to 31); not read.
+  read in full 2026-10-31 (NOTE-tmpjhivv); worth reading as the short
+  statement of graded robust safety: under a bounded input disturbance a
+  barrier-function controller keeps the state not in the safe set but in
+  a set enlarged by a class-K function of the disturbance, and a damping
+  term along the barrier's input direction delivers this with an
+  enlargement of ‖d‖²/(4ε) (THEORY-tmpmq3g1). It is not the robust box
+  invariance CASE-tmpz9u5t certifies, which is THEORY-134's.
 title: 'Input-to-State Safety With Control Barrier Functions'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-31'
@@ -14,7 +20,18 @@ history:
     `published:` takes the arXiv date (ADR-002). The summary follows
     the abstract and the exchange's description; a reading should
     check it first.
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    Read in full from arXiv 1803.03035v3 (11 August 2018), 7 pp., in
+    NOTE-tmpjhivv; status Deferred → Active. The citation stands. The
+    summary is corrected: it said the state stays "within a set enlarged
+    in proportion to the disturbance bound". The enlargement is a class-K
+    function of the bound, in units of the barrier function, and
+    quadratic in the paper's construction.
+    Tagged control-theory first (ADR-066).
 tags:
+- control-theory
 - mathematics
 - complex-systems
 date: '2026-10-31'
@@ -26,20 +43,39 @@ keywords:
 - 'control barrier functions'
 - 'input-to-state safety'
 - 'robust safety'
+- 'forward invariance'
+- 'quadratic programs'
+- 'control Lyapunov functions'
 implementations: []
 summary: >-
-  Kolathaya & Ames (2019). Extends control barrier functions to input-
-  to-state safety: under bounded disturbances, a controller certified by
-  a barrier function keeps the state within a set enlarged in proportion
-  to the disturbance bound.
+  Kolathaya & Ames (2019). Defines input-to-state safety for a safe set
+  C = {h ≥ 0}: under an input disturbance bounded by ‖d‖∞, the larger set
+  {h + γ(‖d‖∞) ≥ 0} stays forward invariant, for some class-K γ. A
+  barrier inequality with a disturbance penalty, ḣ ≥ −α(h) − ι(‖d‖),
+  implies it. Adding a damping term εL_g hᵀ to any barrier controller, or
+  the matching constraint to a CLF–CBF quadratic program, gives ι = ‖d‖²/(4ε).
+  The paper's examples show that nominal barrier controllers, including the
+  standard quadratic program, can leave the safe set without bound under
+  small disturbances.
 ---
 
 # LIT-tmpody6k: Input-to-State Safety With Control Barrier Functions
 
 Kolathaya, S., & Ames, A. D. (2019). Input-to-state safety with control barrier functions. *IEEE Control Systems Letters*, 3(1), 108–113.
 
-Filed, not read.
+Read in full in NOTE-tmpjhivv.
 
 ## Why this is here
 
-The one control-theory work the exchange gave an identifier for, when the owner said at U17 "I bet control theory has a bunch of tools that would be useful to us". A17 used barrier certificates for the viable boxes of its constructions ([CASE-tmpz9u5t](../cases.d/CASE-tmpz9u5t.md)). The record's nearest tools are Aubin's viability theory ([THEORY-134](../theory.d/THEORY-134.md)) and contraction under singular perturbation ([THEORY-771](../theory.d/THEORY-771.md)). The topic vocabulary has no word for control theory; that is left to the owner.
+The one control-theory work the exchange gave an identifier for, when the
+owner said at U17 "I bet control theory has a bunch of tools that would be
+useful to us". A17 used barrier certificates for the viable boxes of its
+constructions (CASE-tmpz9u5t). The record's nearest tools are Aubin's
+viability theory (THEORY-134) and contraction under singular perturbation
+(THEORY-771). The reading separates two things the case runs together. The
+case's certificate shows each box face's inward margin exceeds the
+disturbance bound. That is robust invariance of the box itself, which is
+viability. ISSf is the graded guarantee for disturbances beyond the
+margin: the state leaves the box, but only by γ(‖d‖) (THEORY-tmpmq3g1).
+The topic vocabulary has no word for control theory; that is left to the
+owner.
