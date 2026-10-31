@@ -166,12 +166,12 @@ trade of space against query time.
 
 <!-- inactive-ok-file: THEORY-tmpuh0eb THEORY-tmp5ux44 — Proposed; the readings this note bears on -->
 
-Bencherki (LIT-tmp1rpyl, pp. 782–783; THEORY-tmpuh0eb) holds that an
+Bencherki ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp. 782–783; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)) holds that an
 action has as many significations as the individuations it takes part
 in, and that "Concurrent significations ... are not mere
 misunderstandings". The parent paper goes further: "Coexisting meanings
 of the same action indicate that several individuations are ongoing"
-(LIT-tmp3mudg, p. 1358; THEORY-tmp5ux44).
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358; [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)).
 
 This claim's first clause says why coexistence costs nothing. Judgements
 of one action that are each functions of its determinate features
@@ -182,7 +182,7 @@ one action. So coexistence alone does not tell several individuations
 apart from one action seen by several receivers, and the inference at
 p. 1358 needs more than it states.
 
-The second clause, with CLAIM-313, says where conflict does arise: in an
+The second clause, with [CLAIM-313](CLAIM-313.md), says where conflict does arise: in an
 arrangement that holds each item once. The paper's politics lies there.
 Table 1 (p. 787) asks whether an action may count toward the person's
 individuation, the organization's, or both. Its conflicting cell,

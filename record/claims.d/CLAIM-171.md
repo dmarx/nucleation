@@ -94,15 +94,15 @@ This claim says "No reader-response or reception theory is held". Since
 2026-10-31 the record holds three readings, all Proposed, that take a
 systemic form of its position.
 
-- **Bencherki, Brummans and Vézy** (LIT-tmp3mudg, THEORY-tmp5ux44):
+- **Bencherki, Brummans and Vézy** ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)):
   "action contributes to informing a system that, retrospectively, gives
   that action its meaning" (p. 1357). And: "What communication (and
   information) means is not so much what people think about it, but rather
   how it affects them" (p. 1358).
-- **Bencherki and Iliadis** (LIT-tmpwspny, THEORY-tmp1g3ve): the meaning
+- **Bencherki and Iliadis** ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), [THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md)): the meaning
   of an action "corresponds to its participation in the resolution of a
   disparity of ordering" (proposition 3).
-- **Bencherki 2017** (LIT-tmp1rpyl, THEORY-tmpuh0eb): "Concurrent
+- **Bencherki 2017** ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)): "Concurrent
   significations, then, are not mere misunderstandings, but rather the
   outcomes of simultaneous individuation processes" (p. 783).
 
@@ -111,7 +111,7 @@ meanings and takes on one with each reading. They say meaning is the
 effect on the system that takes an action up. They also set the writer's
 intention aside as a matter of method: research "grounded in people's
 understandings is unable to attune to the processual nature of the world"
-(LIT-tmp3mudg, p. 1358). So they give CLAIM-160's intended meaning no slot
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358). So they give [CLAIM-160](CLAIM-160.md)'s intended meaning no slot
 at all, which is stronger than this claim's "a reading privileged by
 convention".
 
@@ -119,10 +119,10 @@ They do not answer what holds this claim open, whether a projected
 receiver can be identified other than by a reading. They do not ask it.
 They also show what the position costs at full strength. If meaning is
 the reordering an action produces, it is known only after the reordering
-(THEORY-tmp1g3ve, "What this does not say"). Every reordering qualifies,
+([THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md), "What this does not say"). Every reordering qualifies,
 so nothing counts as failing to mean. Bencherki and Iliadis's evidence
-that an ordering propagated is that the event took place (NOTE-tmp62e4t,
-Limitations). The systemic view cannot draw CLAIM-160's reply to CASE-048,
+that an ordering propagated is that the event took place ([NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md),
+Limitations). The systemic view cannot draw [CLAIM-160](CLAIM-160.md)'s reply to [CASE-048](../cases.d/CASE-048.md),
 that the child's reading is the layer addressed to the child. On it, the
 child's and the adult's readings are two concurrent significations, with
 nothing to say which was addressed to whom.

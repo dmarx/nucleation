@@ -216,11 +216,11 @@ separated by this case.
 
 <!-- inactive-ok-file: THEORY-tmp9bte2 — Proposed; the reading this case is set against -->
 
-Tsoukas and Chia (THEORY-tmp9bte2) hold that a category changes when it
+Tsoukas and Chia ([THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)) hold that a category changes when it
 is applied to nonprototypical cases. This case is consistent with that:
 94% of the terms added were used in the pull request that added them, so
 the grammar was extended at the case that needed the extension. As
-measured, though, the case cannot test it. THEORY-tmp9bte2 is promoted
+measured, though, the case cannot test it. [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md) is promoted
 by a study that classifies cases as prototypical or not *before* seeing
 which categories change. The record could run that study on itself. Take
 the documents filed under each vocabulary term, code each one blind as

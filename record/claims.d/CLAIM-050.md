@@ -175,15 +175,15 @@ Torgersen's results.
 
 <!-- inactive-ok-file: THEORY-tmp1g3ve CLAIM-tmpeli2w — Proposed; a reading filed on 2026-10-31 and the record's claim placing it -->
 
-The Simondon readings filed on 2026-10-31 (Iliadis, LIT-tmpj9jyk;
-Bencherki and Iliadis, LIT-tmpwspny; read together in THEORY-tmp1g3ve)
+The Simondon readings filed on 2026-10-31 (Iliadis, [LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md);
+Bencherki and Iliadis, [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md); read together in [THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md))
 hold that information is "never a given thing". On their account it is a
 disparity whose resolution produces a new structure in the system that
 takes it up. That could be read as a rival to this claim's information,
-evidence about a situation compared by Blackwell's order. CLAIM-tmpeli2w
+evidence about a situation compared by Blackwell's order. [CLAIM-tmpeli2w](CLAIM-tmpeli2w.md)
 argues that it is not. The readings' information is a change in the
-interpreter (CLAIM-118) or in the questions a receiver can decide
-(CLAIM-257), and the order holds both fixed by construction. This claim's
+interpreter ([CLAIM-118](CLAIM-118.md)) or in the questions a receiver can decide
+([CLAIM-257](CLAIM-257.md)), and the order holds both fixed by construction. This claim's
 scope, report fidelity for receivers whose decision problems are given,
 is unaffected.
 

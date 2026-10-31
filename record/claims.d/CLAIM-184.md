@@ -129,7 +129,7 @@ lock-in.
 
 <!-- inactive-ok-file: CLAIM-185 — Proposed; the thesis this counter answers -->
 
-Bencherki, Brummans and Vézy (LIT-tmp3mudg, pp. 1356–1357) state this
+Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1356–1357) state this
 counter's worry as a property of fields. Each being-in-becoming is a
 "field of relation, more or less densely assembling the preindividual
 action it has integrated thus far". Dense fields, "crystals or well-oiled
@@ -139,5 +139,5 @@ The paper offers no measure of density and no account of how a field
 becomes dense, so it adds a name for lock-in and not a mechanism. It does
 place lock-in where this claim does: in what has accumulated, not in any
 single anchor. The crystal that is the paper's dense field is also the
-record's seed (CLAIM-185, note of this date). No status, title or warrant
+record's seed ([CLAIM-185](CLAIM-185.md), note of this date). No status, title or warrant
 changes.
