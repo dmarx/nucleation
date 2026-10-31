@@ -73,7 +73,7 @@ doi:10.1177/0018726711424227.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) use it three ways. It supplies
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) use it three ways. It supplies
 the phrase that defines what they reject: most organizational
 scholarship on agency focuses on "who or what acts" (p. 1350, citing p.
 1581, "emphasis original"). It is the line of research showing that

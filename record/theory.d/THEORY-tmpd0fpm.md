@@ -15,17 +15,17 @@ date: '2026-10-31'
 source:
 - LIT-tmpxzorc
 summary: >-
-  Wilhoit (2016), LIT-tmpxzorc, read in NOTE-tmpt4ssk. An argument about
+  Wilhoit (2016), [LIT-tmpxzorc](../literature.d/LIT-tmpxzorc.md), read in [NOTE-tmpt4ssk](../notes.d/NOTE-tmpt4ssk.md). An argument about
   method in a five-page reply to Cooren. It is not a claim that
   ventriloquial analyses entify agents, which is what Bencherki,
-  Brummans & Vézy (LIT-tmp3mudg, pp. 1363–1364) cite it for.
+  Brummans & Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1363–1364) cite it for.
 ---
 
 # THEORY-tmpd0fpm: Montréal School CCO's commitment to interaction as the basis of organizing makes conversation analysis its method of choice, and that commitment keeps ventriloquism from serving as an open metamodel for communication theory
 
 ## Source
 
-Wilhoit (2016), LIT-tmpxzorc, pp. 45–49; read in NOTE-tmpt4ssk.
+Wilhoit (2016), [LIT-tmpxzorc](../literature.d/LIT-tmpxzorc.md), pp. 45–49; read in [NOTE-tmpt4ssk](../notes.d/NOTE-tmpt4ssk.md).
 
 ## What was actually shown
 
@@ -43,7 +43,7 @@ have come out otherwise: it is a reading, not a test.
 
 - It does not say that ventriloquial or conversation-analytic studies
   entify agents, or treat interlocutors as already constituted. Those are
-  Bencherki, Brummans & Vézy's claims (LIT-tmp3mudg, pp. 1351, 1359,
+  Bencherki, Brummans & Vézy's claims ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1351, 1359,
   1363–1364), which they attribute to this paper.
 - It does not assess any of Cooren's analyses, of MSF or anything else.
 - It does not say ventriloquism is wrong, only that, as Cooren deploys

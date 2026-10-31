@@ -65,14 +65,14 @@ mechanisms are named "dislocation" and "stabilization".
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) take from it the phrase
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) take from it the phrase
 "scaling up" (p. 1364, citing p. 119) for the move "from the individual
 to organizational/collective action" that, they say, makes approaches
 like Cooren's zoom in on agents. They reject it: individuation runs
 concurrently at different "levels", and the question of scaling up "is
 only relevant ... when communication is regarded as an interaction
 between already-existing agents, operating at different levels" (p.
-1364). THEORY-tmp5ux44 records that claim.
+1364). [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md) records that claim.
 
 Whether the parent represents the chapter fairly could not be checked.
 The point to check when a copy comes: whether Cooren and Fairhurst treat

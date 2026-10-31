@@ -66,7 +66,7 @@ Chia, R. (1995). From modern to postmodern organizational analysis. *Organizatio
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy 2024 (LIT-tmp3mudg) take from it:
+Bencherki, Brummans & Vézy 2024 ([LIT-tmp3mudg](LIT-tmp3mudg.md)) take from it:
 
 - that process perspectives reject the idea that "actions, interactions
   and the local orchestration of relationships are. . .the incidental

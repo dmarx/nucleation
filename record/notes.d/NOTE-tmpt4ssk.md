@@ -82,15 +82,15 @@ organization-bound statement of ventriloquism (p. 46).
 
 ## Bearing on the record
 
-Produces THEORY-tmpd0fpm, Proposed.
+Produces [THEORY-tmpd0fpm](../theory.d/THEORY-tmpd0fpm.md), Proposed.
 
-Bencherki, Brummans & Vézy (LIT-tmp3mudg) cite this paper for the claim
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) cite this paper for the claim
 that Cooren's analyses "still tend to entify agents" because of the
 conversation-analytic approach (pp. 1363–1364), and that CA "does not
 question the status of interlocutors as agents" (p. 1359). The paper
 supports only the link between the Montréal School and CA. It makes no
 claim about entification, about the status of interlocutors, or about a
-gap between Cooren's processual theory and his analyses. NOTE-tmpfw3f7's
+gap between Cooren's processual theory and his analyses. [NOTE-tmpfw3f7](NOTE-tmpfw3f7.md)'s
 Connections bullet, which quotes the parent as saying the CCO tradition
 "still tend[s] to entify agents", reports the parent correctly; the
 attribution to Wilhoit is the parent's and does not hold.

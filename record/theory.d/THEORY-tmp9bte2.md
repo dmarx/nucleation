@@ -16,7 +16,7 @@ date: '2026-10-31'
 source:
 - LIT-tmpls0y0
 summary: >-
-  Tsoukas & Chia (2002), LIT-tmpls0y0, pp. 573–575, read in NOTE-tmpyz5d5.
+  Tsoukas & Chia (2002), [LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), pp. 573–575, read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md).
   The paper's mechanism for organizational becoming, built on Lakoff's
   and Johnson's prototype theory and Hart's penumbra of legal rules.
   Proposed: it is supported by illustrative cases, not tested.
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Tsoukas & Chia (2002), LIT-tmpls0y0, pp. 573–575; read in NOTE-tmpyz5d5.
+Tsoukas & Chia (2002), [LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), pp. 573–575; read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md).
 
 ## What was actually shown
 

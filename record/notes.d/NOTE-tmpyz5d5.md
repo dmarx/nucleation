@@ -121,7 +121,7 @@ The results are conceptual.
 
 - **Weick, Orlikowski and Feldman.** The paper builds on their process
   views and says they "do not go far enough" (p. 569).
-- **Bencherki, Brummans & Vézy 2024 (LIT-tmp3mudg).** It cites this paper
+- **Bencherki, Brummans & Vézy 2024 ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)).** It cites this paper
   as the conception of organizational becoming its own theory "parallels"
   (p. 1351). This paper is human-centred: change is "inherent in human
   action" (p. 570), its engine is "the intrinsically human ability to be
@@ -134,10 +134,10 @@ The results are conceptual.
 
 ## Bearing on the record
 
-- **THEORY-tmprgc9k** files the paper's central thesis, Proposed.
-- **THEORY-tmp9bte2** files its mechanism, the radial structure of
+- **[THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md)** files the paper's central thesis, Proposed.
+- **[THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)** files its mechanism, the radial structure of
   categories, Proposed.
-- **THEORY-tmpcaccx** (Bencherki et al.'s agency without agents) cites
+- **[THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)** (Bencherki et al.'s agency without agents) cites
   this paper only as a parallel. On reading, the parallel holds for the
   priority of process over organization, not for the priority of process
   over agents.

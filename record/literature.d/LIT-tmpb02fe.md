@@ -58,7 +58,7 @@ their becoming.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy 2024 (LIT-tmp3mudg) take from it:
+Bencherki, Brummans & Vézy 2024 ([LIT-tmp3mudg](LIT-tmp3mudg.md)) take from it:
 
 - that for process scholars agency happens in "streams" that "precede
   actors and not vice versa" ("Hernes, 2016, p. 3", quoted p. 1350);

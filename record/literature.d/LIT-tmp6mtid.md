@@ -57,7 +57,7 @@ whose existence is weak and needs to be taken up by others.
 
 ## Why this is here
 
-Bencherki, Brummans & Vézy 2024 (LIT-tmp3mudg) borrow the term "lesser
+Bencherki, Brummans & Vézy 2024 ([LIT-tmp3mudg](LIT-tmp3mudg.md)) borrow the term "lesser
 existences" for their account of responsibility (p. 1366). They define
 lesser existences as "those whose process of individuation has not yet
 found its way into others and who are still at risk of disindividuation".
