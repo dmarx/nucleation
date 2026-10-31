@@ -1,0 +1,3 @@
+### Added
+
+- Bencherki, Brummans and Vézy 2024, "Agency Without Agents" (LIT-tmp3mudg), read in full from the owner's copy (NOTE-tmpfw3f7), with two Proposed THEORYs: agency redescribed as the affective force by which individuation processes take up one another's excess action (THEORY-tmpcaccx), and communication as transduction, the continuity of action through processes (THEORY-tmp5ux44). The reading finds a vocabulary for redescription without a criterion that could count against it, and sets it beside CLAIM-355, CLAIM-418, CLAIM-430 and CLAIM-515. Every open copy was refused to this client; a curation entry records where it looked.
