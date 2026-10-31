@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmpfw3f7), from the version of record the owner
+  read in full 2026-10-31 ([NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md)), from the version of record the owner
   supplied. The publisher's copy is open access (CC BY-NC 4.0) and a copy is
   deposited in R-libre (TÉLUQ). This client could not fetch either: SAGE
   and CORE served a bot check, and the repository reset every connection.
@@ -61,21 +61,21 @@ summary: >-
 
 Bencherki, N., Brummans, B. H. J. M., & Vézy, C. (2024). Agency without agents: Affective forces, communicative events, and organizational becomings. *Organization Studies*, 45(9), 1349–1372. doi:10.1177/01708406241266310.
 
-Read in full in NOTE-tmpfw3f7.
+Read in full in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md).
 
 ## Why this is here
 
 Filed at the owner's request. The paper is the organization-studies form of
-a thesis the record holds in its own terms. CLAIM-355 holds that a
+a thesis the record holds in its own terms. [CLAIM-355](../claims.d/CLAIM-355.md) holds that a
 distributed agent's response can be real while its single owner is a
-representational construction. CLAIM-418 holds that perspectives,
+representational construction. [CLAIM-418](../claims.d/CLAIM-418.md) holds that perspectives,
 agencies and institutions need not coincide. The paper draws on Simondon,
 whose *Individuation in Light of Notions of Form and Information*
-(LIT-1648) the record could not obtain, so this is the record's first
+([LIT-1648](LIT-1648.md)) the record could not obtain, so this is the record's first
 reading of Simondon's individuation, at second hand. Its account of
 agency as the transition to an "augmented ability to act" sits beside the
-record's account of capabilities (CLAIM-475) and of normative efficacy
-(CLAIM-523). It does not separate the four questions of CLAIM-515:
+record's account of capabilities ([CLAIM-475](../claims.d/CLAIM-475.md)) and of normative efficacy
+([CLAIM-523](../claims.d/CLAIM-523.md)). It does not separate the four questions of [CLAIM-515](../claims.d/CLAIM-515.md):
 recoverable, exercisable, realized, maintainable. The record's reading
-of it (THEORY-tmpcaccx, THEORY-tmp5ux44) is that it is a vocabulary for redescription, not yet a
+of it ([THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md), [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)) is that it is a vocabulary for redescription, not yet a
 theory with tests.

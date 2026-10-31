@@ -20,7 +20,7 @@ date: '2026-10-31'
 source:
 - LIT-tmp3mudg
 summary: >-
-  Bencherki, Brummans and Vézy (2024), LIT-tmp3mudg, read in NOTE-tmpfw3f7, pp. 1349–1357. The
+  Bencherki, Brummans and Vézy (2024), [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), read in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md), pp. 1349–1357. The
   paper's central proposal, after Massumi's definition of affect and
   Simondon's individuation. Proposed: argued, and illustrated by one
   reanalysed meeting. It has no criterion that would let an observation
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Bencherki, Brummans and Vézy (2024), LIT-tmp3mudg, pp. 1350–1357, and the abstract;
-read in NOTE-tmpfw3f7.
+Bencherki, Brummans and Vézy (2024), [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1350–1357, and the abstract;
+read in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md).
 
 ## What was actually shown
 
@@ -70,11 +70,11 @@ then reorganizes how he describes MSF so that it can accept.
 
 ## Connections
 
-- **CLAIM-355** holds the weaker form in the record's own terms: the
+- **[CLAIM-355](../claims.d/CLAIM-355.md)** holds the weaker form in the record's own terms: the
   binding of a response can be real while its single owner is a
   construction.
-- **CLAIM-418** holds that perspectival, agential and institutional
+- **[CLAIM-418](../claims.d/CLAIM-418.md)** holds that perspectival, agential and institutional
   boundaries need not coincide.
-- **CLAIM-405** holds that an individuation relative to its criterion is
+- **[CLAIM-405](../claims.d/CLAIM-405.md)** holds that an individuation relative to its criterion is
   not arbitrary. The paper's perspectivism does not say what makes one cut
   better than another.

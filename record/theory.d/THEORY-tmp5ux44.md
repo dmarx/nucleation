@@ -20,7 +20,7 @@ date: '2026-10-31'
 source:
 - LIT-tmp3mudg
 summary: >-
-  Bencherki, Brummans and Vézy (2024), LIT-tmp3mudg, read in NOTE-tmpfw3f7, pp. 1355–1358 and
+  Bencherki, Brummans and Vézy (2024), [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), read in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md), pp. 1355–1358 and
   1363–1365. Simondon's transduction made into a theory of organizational
   communication. Proposed: argued from examples, with the dissolution of
   scaling up asserted. The examples (a synapse, a hunger pang, a piston)
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Bencherki, Brummans and Vézy (2024), LIT-tmp3mudg, pp. 1355–1358 and 1363–1365;
-read in NOTE-tmpfw3f7.
+Bencherki, Brummans and Vézy (2024), [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1355–1358 and 1363–1365;
+read in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md).
 
 ## What was actually shown
 
@@ -70,9 +70,9 @@ scaling-up account of the same meeting goes wrong.
 
 ## Connections
 
-- **TERM-097.** The record holds coherence as agreement among the members
+- **[TERM-097](../terms.d/TERM-097.md).** The record holds coherence as agreement among the members
   of a family. "Coexisting meanings" is the paper's case of incoherence
   that is not failure.
-- **CLAIM-430.** Taking part can come before the reinterpretation it
+- **[CLAIM-430](../claims.d/CLAIM-430.md).** Taking part can come before the reinterpretation it
   later seems to express. That is the record's sharpest neighbour to
   retrospective meaning, with a mechanism the paper lacks.
