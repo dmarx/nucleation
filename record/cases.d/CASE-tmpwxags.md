@@ -95,7 +95,30 @@ fundamental law". The capacities exist from the start in Construction 2;
 the encounter supplies only the connector, so this is a bistable system
 pushed across a separatrix. Which terms are internal is stipulated, the
 substrates are assumed available, and the production terms are not yet
-paid for thermodynamically: A13 showed that a positive production rate is
-not yet a realizable mechanism ([LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md)). A12's "viability kernel" over
+paid for thermodynamically. A13 said that a positive production rate is
+not yet a realizable mechanism, and Rao and Esposito make it exact: in an
+open, reversible mass-action network, sustained currents need an emergent
+cycle with nonzero affinity (LIT-tmpj1wfs, THEORY-tmplh6oa). A12's "viability kernel" over
 every disturbance is Aubin's invariance kernel, not the viability kernel
 [THEORY-134](../theory.d/THEORY-134.md) defines.
+
+## Note of 2026-10-31: Construction 1 as reversible chemistry
+
+The reading of the reaction-network works rewrote Construction 1 as
+reversible mass-action chemistry, with fuel S and waste W chemostatted, all
+rate constants 1 and [S] = 3. The results:
+
+- **At zero affinity** there is a single equilibrium, c = (3, 3), with no
+  current and no extinct state.
+- **Bistability appears** only above about 3.52 RT of driving, that is
+  [W] < 0.0887.
+- **The case's equilibria**, (3 ∓ √5)/2, return only in the limit
+  [W] → 0, the limit of infinite affinity.
+- **The maintained state costs** dissipation equal to current times
+  affinity, J_ε A_ε: 29.77 at [W] = 0.01.
+
+So the case's maintenance and extinction are features of strong driving,
+not of the production graph alone. And maintenance that is "endogenous"
+relative to the organization lasts only while the reservoirs do. A
+chemostat is itself a finite-lived structure of a larger closed network,
+open for a time of order its abundance ratio (THEORY-tmp1nk6k).

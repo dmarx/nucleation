@@ -37,28 +37,44 @@ A4 set out three relations, kept here:
 | relation | status |
 |---|---|
 | SGD converges to a minimum, the MAP estimate under a flat prior | standard |
-| constant-step SGD's stationary distribution approximates a posterior for a fixed dataset, under a locally quadratic loss and constant noise ([LIT-tmpwzrx7](../literature.d/LIT-tmpwzrx7.md), [LIT-tmpxo5z5](../literature.d/LIT-tmpxo5z5.md)) | shown, with assumptions |
-| SGD's transient over training time reproduces the posterior's transitions over sample size | "not established" |
+| constant-step SGD's stationary distribution approximates a posterior for a fixed dataset, under a locally quadratic loss and constant noise (LIT-tmpwzrx7, LIT-tmpxo5z5) | shown, near a minimum with positive-definite Hessian, so in one basin where the posterior has no phases; what is matched is the noise scale ε/S to 1/N (THEORY-tmp7gcht) |
+| SGD's transient over training time reproduces the posterior's transitions over sample size | "not established"; a partial datum below (THEORY-tmpzcsl4) |
 
 The record already holds the second row's neighbours: Kunin et al.'s
-modified-loss Gibbs distribution ([THEORY-209](../theory.d/THEORY-209.md)) and the stationary Gaussian of
-underdamped Langevin SGD ([THEORY-779](../theory.d/THEORY-779.md)). The third row is the question.
+modified-loss Gibbs distribution (THEORY-209) and the stationary Gaussian of
+underdamped Langevin SGD (THEORY-779). The only correspondence between
+examples processed and sample size in the readings is iterate averaging,
+in a regular model in one basin after equilibration (THEORY-tmp8ggnh). The
+third row is the question.
 
-Two sources pull opposite ways.
+**What the readings found (2026-10-31).**
 
-- **Toward correspondence.** Chen et al. ([LIT-tmpogi33](../literature.d/LIT-tmpogi33.md)) conjecture that
-  "the learning process in TMS, be it through SGD or Bayesian learning"
-  moves from high loss and low complexity to low loss and high complexity.
-  A3 cited this paper for the separation and did not report the
-  conjecture.
-- **Toward a modified correspondence.** Hennick and De Baerdemacker
-  ([LIT-tmp107c0](../literature.d/LIT-tmp107c0.md)) read SGD's local steady state, where one exists, as a tempered
-  posterior that "accounts for local accessibility constraints". Their
-  correction is the third candidate in the title.
+- **Chen et al. do not conjecture coincidence.** Their abstract's
+  "journey" from high loss and low complexity to low loss and high
+  complexity is a shared direction. Their §5.1 says there is "no necessary
+  relation between these two kinds of transitions". Their Bayesian
+  antecedent hypothesis runs one way: transitions seen in training have
+  Bayesian counterparts. The exchange's reading, repeated in the first
+  filing's workbench and curation entries, overstated this.
+- **A partial datum.** Along the chain SGD takes in their toy model, the
+  Bayesian counterparts fall at n ≈ 190, 370 and 1,600–2,500, in training
+  order. But SGD trained on 1,000 samples skips the 6-gon, which the
+  posterior has favoured since n ≈ 600, and ends at the 5- or 5⁺-gon. No
+  single map from training time to sample size makes training end where
+  the posterior at its own sample size is (THEORY-tmpzcsl4, recomputed).
+- **Hennick and De Baerdemacker's tempering is a temperature.** Their
+  steady state is the posterior at an effective sample size set by the
+  noise, and only within a region of constant effective diffusion. The
+  weights between regions, where "accessibility" would act, are not
+  derived (THEORY-tmpe0idn). Their theory excludes phase transitions.
 
-The two variables are different. n changes the target. Training time
-changes the iterate under a fixed target. A correspondence needs a map
-between them, and nothing so far supplies one.
+So the maps the readings supply run from noise scale to sample size, not
+from training time to sample size. Of the title's three candidates:
+- **The effective temperature** is the bridge in both stationary accounts.
+- **Barriers and distance** are Chen et al.'s stated reason for the
+  missing 6-gon, but they do not show it.
+- **Time to equilibrate** is assumed by Mandt et al. and by Hennick and De
+  Baerdemacker, and analysed by neither.
 
 ## What would count as an answer
 
@@ -68,6 +84,9 @@ SGD at several learning rates and batch sizes, and compute the posterior's
 phase order across n. Then either a map from training time to an effective
 sample size under which the orders agree, with the conditions it needs,
 or a stated case where they cannot agree, because a region dominant in the
-posterior is not accessible to the dynamics. A14 found that its own
+posterior is not accessible to the dynamics. Chen et al.'s 5-gon to
+6-gon transition is the candidate case. "Inaccessible" and "not reached
+in 4,500 epochs at one setting" are not yet told apart; SGD at n = 1,000
+across several learning rates and batch sizes would separate them. A14 found that its own
 attempt at the second fails: the region it offered is invariant under
 gradient flow but unstable, so noise escapes it.

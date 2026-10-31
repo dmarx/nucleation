@@ -68,3 +68,16 @@ the knockout leaves each Pᵢ vanishing as its remaining parents do.
 - **Anything about systems with basal production or an outside supply.**
   An exogenous source keeps an acyclic graph alive; that is the
   externally maintained case.
+- **That real chemistry decays to zero.** The hypothesis of no basal
+  production and decay to zero is the limit of infinite affinity, with
+  irreversible decay. Under local detailed balance the decay c ⇌ W has a
+  back reaction, and with any waste present the capacities of an acyclic
+  graph relax to (d′/d)[W], not to zero. The proof and the warrant stand
+  for the stated hypotheses.
+- **That the production cycle is a stoichiometric cycle.** The graph is one
+  of catalytic influence. Catalysts cancel out of the stoichiometric
+  matrix, so a cycle of mutual catalytic production is not a cycle in the
+  reaction network's kernel; steady currents run on fuel-to-waste cycles
+  (THEORY-tmp05y8u). Mossio, Montévil and Longo's closure likewise needs
+  another member, and their hydrological cycle is a cycle of processes that
+  is not closure (LIT-tmph8zl0).

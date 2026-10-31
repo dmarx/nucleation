@@ -108,7 +108,11 @@ Three gaps remain:
 - **There is no succession.** The student never becomes a teacher.
 
 The motifs are irreversible mass action, as A17 said, "not yet a
-finite-affinity, microscopically reversible chemical model". Barrier
-certificates of this kind are Kolathaya and Ames's ([LIT-tmpody6k](../literature.d/LIT-tmpody6k.md)); viability
-is [THEORY-134](../theory.d/THEORY-134.md)'s. That organization lowers the cost of further organization
+finite-affinity, microscopically reversible chemical model". Each face's
+inward margin exceeds the disturbance bound (+0.16 to +0.568 against 0.02),
+so the box certificate is robust invariance of the box itself, viability in
+THEORY-134's sense. Kolathaya and Ames's input-to-state safety
+(LIT-tmpody6k, THEORY-tmpmq3g1) is the weaker, graded guarantee that would
+apply beyond that margin, where the safe set is enlarged by a class-K
+function of the disturbance. That organization lowers the cost of further organization
 is [CLAIM-475](../claims.d/CLAIM-475.md), which A19 announced as a discovery.

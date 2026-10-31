@@ -11,9 +11,10 @@ defeated_if: >-
   repertoire and developmental history: for instance a behavioural
   signature over the declared tests (transfer to new objectives,
   counterfactual generalization) that no organization of the same
-  resources without such a component reproduces. Richens et al.
-  (LIT-tmplzs0t) argue for a result of this kind for general agents. It
-  is not defeated by showing that some agents do contain world models.
+  resources without such a component reproduces. It is not defeated by
+  showing that some agents do contain world models, nor by Richens et
+  al.'s theorem (LIT-tmplzs0t), which holds of every implementation of a
+  competent goal-conditioned policy, a lookup table included (CLAIM-tmp4htg4).
 tags:
 - agency
 - cognition
@@ -76,8 +77,11 @@ Three kinds of evidence go beyond the interface:
   every physical agent, matched competence under a resource bound can
   favour the model ([THEORY-624](../theory.d/THEORY-624.md) casts this as model comparison
   relative to a prior).
-- **Generalization beyond the interface.** A model can serve new
-  objectives or new horizons without relearning. The table cannot.
+- **Generalization beyond what the implementation was built to cover.**
+  A model can serve new objectives or new horizons without relearning. A
+  table cannot go beyond its domain. A table whose domain already includes
+  the goals generalizes across them, so generalization within the covered
+  family does not discriminate.
 - **Intervention on internals.** Altering a component and finding the
   behaviour change as a predictive model's would. Matched trajectories
   conceal differences that intervention exposes ([CLAIM-414](CLAIM-414.md)).
@@ -89,8 +93,9 @@ Three kinds of evidence go beyond the interface:
 - **That the table encodes nothing.** Functionally, B's table determines
   every prediction A's model would make that the interface can reveal.
   Whether that counts as "containing" a model is the question Richens et
-  al. ([LIT-tmplzs0t](../literature.d/LIT-tmplzs0t.md)) answer yes for general agents. On the explicit-component
-  reading the claim stands; on the functional reading their result is the
-  objection to file if it holds.
+  al. (LIT-tmplzs0t) answer yes, for goal-conditioned agents competent
+  across a family of composite goals. On that functional reading their
+  theorem holds and is filed as the counter CLAIM-tmp4htg4. On the explicit-component
+  reading, the claim stands.
 - **That causal model, wanting and efficacy go together.** They are
   separable ([CLAIM-447](CLAIM-447.md)); this claim is about the first only.
