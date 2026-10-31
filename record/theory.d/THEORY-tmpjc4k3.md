@@ -17,8 +17,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpu9af8
 summary: >-
-  Teoh (2026), LIT-tmpu9af8, §6 Figs. 3–4 and Tables 2–6; read in
-  NOTE-tmp8ljm4. Proposed: one run per scale, four scales, no seeds or
+  Teoh (2026), [LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md), §6 Figs. 3–4 and Tables 2–6; read in
+  [NOTE-tmp8ljm4](../notes.d/NOTE-tmp8ljm4.md). Proposed: one run per scale, four scales, no seeds or
   variances, margins of one to two percent. It does not show that
   data-anchored correction is dispensable: the output head keeps it, and
   the paper attributes the explicit-KL variant's weaker head to its
@@ -29,9 +29,9 @@ summary: >-
 
 ## Source
 
-Teoh (2026), LIT-tmpu9af8, §6.1–6.3, Figs. 3–6, Tables 2–6 and
+Teoh (2026), [LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md), §6.1–6.3, Figs. 3–6, Tables 2–6 and
 Appendix E, pp. 7–12 and 21–23 of arXiv 2610.38331v1; read in
-NOTE-tmp8ljm4.
+[NOTE-tmp8ljm4](../notes.d/NOTE-tmp8ljm4.md).
 
 ## What was actually shown
 

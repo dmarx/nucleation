@@ -9,8 +9,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpu9af8
 summary: >-
-  Teoh (2026), LIT-tmpu9af8, eqs. 1–3 and Appendix B; read in
-  NOTE-tmp8ljm4 and checked by finite differences. Active: elementary and
+  Teoh (2026), [LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md), eqs. 1–3 and Appendix B; read in
+  [NOTE-tmp8ljm4](../notes.d/NOTE-tmp8ljm4.md) and checked by finite differences. Active: elementary and
   checked. It is a gradient identity, not a decomposition of the loss's
   value, and it does not by itself make the self-distillation a
   projection onto less information: in the DeepSeek-style heads of the
@@ -22,9 +22,9 @@ summary: >-
 
 ## Source
 
-Teoh (2026), LIT-tmpu9af8, §4 eqs. (1)–(3), §5.1 eqs. (4)–(7), §5.3
+Teoh (2026), [LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md), §4 eqs. (1)–(3), §5.1 eqs. (4)–(7), §5.3
 eq. (8) and Appendix B, pp. 3–6 and 18–20 of arXiv 2610.38331v1; read in
-NOTE-tmp8ljm4.
+[NOTE-tmp8ljm4](../notes.d/NOTE-tmp8ljm4.md).
 
 ## What was actually shown
 
@@ -68,12 +68,12 @@ student's own readout.
   (App. C) predict from less context. So the conditional-projection
   account, in which the best student is E[teacher | student's
   information] with an irreducible conditional mutual information
-  (THEORY-tmpfm1ma), is not what this identity instantiates in the main
+  ([THEORY-tmpfm1ma](THEORY-tmpfm1ma.md)), is not what this identity instantiates in the main
   experiments; there the irreducible term is zero.
 - **That the teacher is untouched by the student.** The stop-gradient
   cuts only the teacher's output path. The KL gradient flows into the
   trunk that also computes the teacher.
 - **That removing the residual is better.** That is the paper's empirical
-  claim (THEORY-tmpjc4k3), not a consequence of the identity.
+  claim ([THEORY-tmpjc4k3](THEORY-tmpjc4k3.md)), not a consequence of the identity.
 - **Anything about who runs the distillation.** Teacher, routing and
   optimizer are the engineer's.

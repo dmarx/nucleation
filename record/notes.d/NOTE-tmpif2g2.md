@@ -149,22 +149,22 @@ ones are the emergent cycles that run from one chemostat to another.
 
 It generalises Polettini's earlier graph cocycles (their ref. 17) and the
 Polettini–Esposito emergent-cycle bookkeeping that Rao and Esposito use
-(LIT-tmpj1wfs, NOTE-tmp3zcaf). Liang, De Los Rios and Busiello
-(LIT-tmpfq9vf, NOTE-tmp3di1n) build their bounds on the same cycle structure,
+([LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md), [NOTE-tmp3zcaf](NOTE-tmp3zcaf.md)). Liang, De Los Rios and Busiello
+([LIT-tmpfq9vf](../literature.d/LIT-tmpfq9vf.md), [NOTE-tmp3di1n](NOTE-tmp3di1n.md)) build their bounds on the same cycle structure,
 as elementary flux modes. The Schnakenberg decomposition for Markov chains
-is in Seifert's review, LIT-523 (NOTE-420).
+is in Seifert's review, [LIT-523](../literature.d/LIT-523.md) ([NOTE-420](NOTE-420.md)).
 
 ## Bearing on the record
 
 - **A13 §4, "A productive cycle need not be a stoichiometric cycle": right,
-  and stronger than A13 put it** (THEORY-tmp05y8u). The paper's cycles are
+  and stronger than A13 put it** ([THEORY-tmp05y8u](../theory.d/THEORY-tmp05y8u.md)). The paper's cycles are
   vectors in ker S built from net stoichiometry, from which a catalyst
-  cancels. In my rewriting of CASE-tmpwxags's first construction (c₂
+  cancels. In my rewriting of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s first construction (c₂
   catalysing S → c₁, c₁ catalysing S → c₂, both decaying to W), the internal
   matrix has kernel spanned by (1, 0, 1, 0) and (0, 1, 0, 1): fuel → c₁ →
   waste and fuel → c₂ → waste. The closed network's one cycle is
   (−1, 1, −1, 1), a futile loop of zero affinity. The mutual production of
-  c₁ and c₂, the cycle CLAIM-tmpczfpk proves necessary, is none of these. It
+  c₁ and c₂, the cycle [CLAIM-tmpczfpk](../claims.d/CLAIM-tmpczfpk.md) proves necessary, is none of these. It
   lives in the rates, through the exponents of the mass-action law, and the
   paper's geometry, thermodynamics included, does not see it. Net production
   from the reservoirs, (1, 1, 0, 0) ↦ S_X j = (1, 1) > 0, is Gordan's case
@@ -172,7 +172,7 @@ is in Seifert's review, LIT-523 (NOTE-420).
   kinds of cycle A13 separated are three different objects: a production
   cycle in the catalytic influence graph; a stoichiometric or emergent
   cycle in ker S; and a sheaf's kernel, on which this paper says nothing.
-- **CLAIM-478: a chemical instance of the first half, by inhibition.**
+- **[CLAIM-478](../claims.d/CLAIM-478.md): a chemical instance of the first half, by inhibition.**
   Suppressing the reactions of a cocycle by a factor ε makes the island
   total z_γ conserved over the window the suppression opens, with a plateau
   whose length is set by ε (Fig. 9, §III B 4). That is the claim's
@@ -182,7 +182,7 @@ is in Seifert's review, LIT-523 (NOTE-420).
   through catalysts and inhibitors" (p. 23). The claim's list of mechanisms
   should carry it: a slowed reaction channel makes an approximate
   conservation law.
-- **CASE-tmpwxags and the record's toy models in general.** The authors note
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) and the record's toy models in general.** The authors note
   that in "phenomenological models of evolutionary games, gene regulatory
   networks or theoretical ecology ... effective reactions are typically
   irreversible" (p. 15), and that for biological species "no notion of

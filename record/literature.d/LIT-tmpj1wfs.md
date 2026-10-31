@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp3zcaf); worth reading as the
+  read in full 2026-10-31 ([NOTE-tmp3zcaf](../notes.d/NOTE-tmp3zcaf.md)); worth reading as the
   standard deterministic thermodynamics of open reaction networks, and
   for what it makes exact in the exchange's A13: sustained turnover needs
   an emergent fuel-to-waste cycle with nonzero affinity, and costs its
-  current times that affinity (THEORY-tmplh6oa).
+  current times that affinity ([THEORY-tmplh6oa](../theory.d/THEORY-tmplh6oa.md)).
 title: 'Nonequilibrium Thermodynamics of Chemical Reaction Networks: Wisdom from Stochastic Thermodynamics'
 version: 2
 history:
@@ -57,8 +57,8 @@ summary: >-
 
 Rao, R., & Esposito, M. (2016). Nonequilibrium thermodynamics of chemical reaction networks: Wisdom from stochastic thermodynamics. *Physical Review X*, 6, 041064.
 
-Read in full in NOTE-tmp3zcaf.
+Read in full in [NOTE-tmp3zcaf](../notes.d/NOTE-tmp3zcaf.md).
 
 ## Why this is here
 
-A13's first toolkit for putting the toy production models on a thermodynamic footing: a production term written as a catalysed reaction must be paid for by an affinity, so a positive production rate is not yet a physically realizable maintenance mechanism. The reading bears A13 out and makes it exact (THEORY-tmplh6oa). Rewritten as reversible elementary chemistry, CASE-tmpwxags's first construction needs a fuel and a waste chemostat. At zero affinity it has a single equilibrium with no current. It is bistable only above 3.52 RT, and recovers the case's equilibria only as the affinity goes to infinity, which is also the limit in which CLAIM-tmpczfpk's "no basal production" holds (NOTE-tmp3zcaf). It bears on CLAIM-273, whose missing thermodynamic quantity is shown to need a stoichiometry, local detailed balance and reservoirs, and on THEORY-692: complex-balanced networks are a far-from-equilibrium case with a Lyapunov function, so a chemical dissipative structure needs nonzero deficiency.
+A13's first toolkit for putting the toy production models on a thermodynamic footing: a production term written as a catalysed reaction must be paid for by an affinity, so a positive production rate is not yet a physically realizable maintenance mechanism. The reading bears A13 out and makes it exact ([THEORY-tmplh6oa](../theory.d/THEORY-tmplh6oa.md)). Rewritten as reversible elementary chemistry, [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s first construction needs a fuel and a waste chemostat. At zero affinity it has a single equilibrium with no current. It is bistable only above 3.52 RT, and recovers the case's equilibria only as the affinity goes to infinity, which is also the limit in which [CLAIM-tmpczfpk](../claims.d/CLAIM-tmpczfpk.md)'s "no basal production" holds ([NOTE-tmp3zcaf](../notes.d/NOTE-tmp3zcaf.md)). It bears on [CLAIM-273](../claims.d/CLAIM-273.md), whose missing thermodynamic quantity is shown to need a stoichiometry, local detailed balance and reservoirs, and on [THEORY-692](../theory.d/THEORY-692.md): complex-balanced networks are a far-from-equilibrium case with a Lyapunov function, so a chemical dissipative structure needs nonzero deficiency.

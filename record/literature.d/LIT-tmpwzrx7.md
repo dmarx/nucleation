@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmpiaa2o); the paper the owner recalled at
+  read in full 2026-10-31 ([NOTE-tmpiaa2o](../notes.d/NOTE-tmpiaa2o.md)); the paper the owner recalled at
   U4, and the right one, but what it shows is narrower than "the same
   process": near one non-degenerate minimum, the optimiser's noise scale
   ε/S plays the part of 1/N, and training time enters only as the wait
-  for stationarity (THEORY-tmp7gcht, THEORY-tmp8ggnh).
+  for stationarity ([THEORY-tmp7gcht](../theory.d/THEORY-tmp7gcht.md), [THEORY-tmp8ggnh](../theory.d/THEORY-tmp8ggnh.md)).
 title: 'Stochastic Gradient Descent as Approximate Bayesian Inference'
 version: 2
 history:
@@ -62,8 +62,8 @@ summary: >-
 
 Mandt, S., Hoffman, M. D., & Blei, D. M. (2017). Stochastic gradient descent as approximate Bayesian inference. *Journal of Machine Learning Research*, 18(134), 1–35.
 
-Read in full in NOTE-tmpiaa2o.
+Read in full in [NOTE-tmpiaa2o](../notes.d/NOTE-tmpiaa2o.md).
 
 ## Why this is here
 
-The paper the owner recalled at U4 ("I think there's a David M Blei paper that discusses this") against A3's claim that Bayesian posterior dominance as n grows "is not the same process" as gradient-based optimization over training time. A4 conceded the separation was "too strong", with a limit kept here: the result relates SGD's long-run distribution to a posterior for a fixed dataset, not training time t to sample size n. The reading bears A4's limit out and sharpens it. The result assumes a positive-definite Hessian, so it concerns a regular model in one basin, where the posterior has no phases to order. What it maps to sample size is the optimiser's noise scale, ε/S against 1/N (THEORY-tmp7gcht). The one place examples processed map to a sample size is iterate averaging after equilibration (THEORY-tmp8ggnh). The record already reads this line of work through Kunin et al. (THEORY-209) and the underdamped stationary Gaussian (THEORY-779), which is this paper's well-specified case with momentum; NOTE-293 cites this paper for McCandlish's temperature. It grounds QUESTION-tmpiir0l. Its precursor is LIT-tmpxo5z5.
+The paper the owner recalled at U4 ("I think there's a David M Blei paper that discusses this") against A3's claim that Bayesian posterior dominance as n grows "is not the same process" as gradient-based optimization over training time. A4 conceded the separation was "too strong", with a limit kept here: the result relates SGD's long-run distribution to a posterior for a fixed dataset, not training time t to sample size n. The reading bears A4's limit out and sharpens it. The result assumes a positive-definite Hessian, so it concerns a regular model in one basin, where the posterior has no phases to order. What it maps to sample size is the optimiser's noise scale, ε/S against 1/N ([THEORY-tmp7gcht](../theory.d/THEORY-tmp7gcht.md)). The one place examples processed map to a sample size is iterate averaging after equilibration ([THEORY-tmp8ggnh](../theory.d/THEORY-tmp8ggnh.md)). The record already reads this line of work through Kunin et al. ([THEORY-209](../theory.d/THEORY-209.md)) and the underdamped stationary Gaussian ([THEORY-779](../theory.d/THEORY-779.md)), which is this paper's well-specified case with momentum; [NOTE-293](../notes.d/NOTE-293.md) cites this paper for McCandlish's temperature. It grounds [QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md). Its precursor is [LIT-tmpxo5z5](LIT-tmpxo5z5.md).

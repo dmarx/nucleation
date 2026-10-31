@@ -151,15 +151,15 @@ It builds on Gloeckle et al. (2024) and DeepSeek-V3's sequential MTP, and
 on explicit KL self-distillation for MTP (Teoh et al. 2025, Zhao et al.
 2026a). The trick is offered as general wherever teacher and student share
 a linear head, naming on-policy self-distillation (Zhao et al. 2026b), the
-setting of Hossain et al. (LIT-tmpbnm77), as a use (§7).
+setting of Hossain et al. ([LIT-tmpbnm77](../literature.d/LIT-tmpbnm77.md)), as a use (§7).
 
 ## Bearing on the record
 
-- **QUESTION-tmp4b001: the decomposition is as A15 wrote it, and its
+- **[QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md): the decomposition is as A15 wrote it, and its
   premise about information is not.** A15's boxed identity, the forward
   direction KL(sg(q) ‖ p), the routing (residual removed from heads and
   trunk, cross-entropy kept at the head), the "roughly 80%" share and the
-  bias toward the teacher all match the paper (THEORY-tmpxb5pl). But A15
+  bias toward the teacher all match the paper ([THEORY-tmpxb5pl](../theory.d/THEORY-tmpxb5pl.md)). But A15
   ("a model predicts a future token with less context than its ordinary
   next-token predictor") and A16 ("the next-token teacher sees more
   preceding context for the target token than the multi-token student")
@@ -172,7 +172,7 @@ setting of Hossain et al. (LIT-tmpbnm77), as a use (§7).
   there and an irreducible term of zero. What Teoh instantiates is
   transmission from a deeper to a shallower computation over the same
   evidence. The information-projection reading has its published locus
-  in Hossain et al. (THEORY-tmpfm1ma), not here.
+  in Hossain et al. ([THEORY-tmpfm1ma](../theory.d/THEORY-tmpfm1ma.md)), not here.
 - **A16's routing claim holds.** "The shared vocabulary head still
   receives cross-entropy gradients, while the MTP modules and shared
   trunk receive the KL self-distillation contribution" is Table 1 and
@@ -189,7 +189,7 @@ setting of Hossain et al. (LIT-tmpbnm77), as a use (§7).
 - **Who runs the distillation.** The optimizer, the routing and the
   choice of teacher are the engineer's, as A15 said; nothing in the
   paper bears on endogeneity.
-- **TERM-097, coherence against fidelity.** The paper's trade is exactly
+- **[TERM-097](../terms.d/TERM-097.md), coherence against fidelity.** The paper's trade is exactly
   this: Soft-MTP buys agreement with the model's own verifier (lower KL
   and TV to the NTP head, Table 2) at the price of a bias away from the
   data, and keeps a data-anchored gradient at the head to stop the

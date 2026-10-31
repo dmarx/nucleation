@@ -10,11 +10,11 @@ source:
 - LIT-tmpj1wfs
 - LIT-tmpw6f74
 summary: >-
-  Rao and Esposito (2016), LIT-tmpj1wfs, read in NOTE-tmp3zcaf, with the
+  Rao and Esposito (2016), [LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md), read in [NOTE-tmp3zcaf](../notes.d/NOTE-tmp3zcaf.md), with the
   one-chemostat proof of Dal Cengio, Lecomte and Polettini (2023),
-  LIT-tmpw6f74 (NOTE-tmpif2g2). Active: rank–nullity, Wegscheider's
+  [LIT-tmpw6f74](../literature.d/LIT-tmpw6f74.md) ([NOTE-tmpif2g2](../notes.d/NOTE-tmpif2g2.md)). Active: rank–nullity, Wegscheider's
   condition and two lines of algebra, checked numerically on a
-  reversible rewriting of CASE-tmpwxags's first construction, which has
+  reversible rewriting of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s first construction, which has
   a single equilibrium at zero affinity and is bistable only above
   3.52 RT. It does not say that a driven network is far from
   equilibrium, multistable or organized; only that without an emergent
@@ -25,11 +25,11 @@ summary: >-
 
 ## Source
 
-Rao and Esposito (2016), LIT-tmpj1wfs, §§II C–E and III D, eqs. 20, 28, 50,
+Rao and Esposito (2016), [LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md), §§II C–E and III D, eqs. 20, 28, 50,
 55 and 59–61, Example 6, pp. 4–10 of arXiv 1602.07257v3; read in
-NOTE-tmp3zcaf. The proof that a single chemostat leaves the affinity
-conservative is Dal Cengio, Lecomte and Polettini (2023), LIT-tmpw6f74, eq. 47
-(NOTE-tmpif2g2).
+[NOTE-tmp3zcaf](../notes.d/NOTE-tmp3zcaf.md). The proof that a single chemostat leaves the affinity
+conservative is Dal Cengio, Lecomte and Polettini (2023), [LIT-tmpw6f74](../literature.d/LIT-tmpw6f74.md), eq. 47
+([NOTE-tmpif2g2](../notes.d/NOTE-tmpif2g2.md)).
 
 ## What was actually shown
 
@@ -53,7 +53,7 @@ is globally stable and unique for given unbroken conserved quantities
 **Cost.** Entropy production is RT Σ_ρ (J⁺ − J⁻) ln(J⁺/J⁻) ≥ 0 (eq. 55); at a
 nonequilibrium steady state it equals Σ_ε J_ε A_ε (eq. 61).
 
-**A worked check (mine).** CASE-tmpwxags's first construction, two
+**A worked check (mine).** [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s first construction, two
 capacities producing each other with saturating production and turnover,
 is written with irreversible Hill terms. Rewritten as elementary reversible
 chemistry, with fuel S and waste W chemostatted, S + 2c₂ ⇌ c₁ + 2c₂,
@@ -77,16 +77,16 @@ are exact.
   equilibrium.** A nonzero affinity is necessary. What the network does with
   it is kinetics. Complex-balanced networks, including every deficiency-zero
   network, have a unique globally attracting steady state however hard they
-  are driven (LIT-tmpj1wfs, §IV), so they form no dissipative structure.
+  are driven ([LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md), §IV), so they form no dissipative structure.
 - **That a positive production rate in a phenomenological model is a
   mechanism.** Hill and Michaelis–Menten terms, and irreversible decay, are
   effective rate laws outside the theory until resolved into elementary
   steps. The infinite-affinity limit in which they are recovered is where a
-  model's "no basal production" assumption lives (NOTE-tmp3zcaf, on
-  CLAIM-tmpczfpk).
+  model's "no basal production" assumption lives ([NOTE-tmp3zcaf](../notes.d/NOTE-tmp3zcaf.md), on
+  [CLAIM-tmpczfpk](../claims.d/CLAIM-tmpczfpk.md)).
 - **Anything about catalytic organization.** Catalysts cancel from the
   stoichiometric matrix, so who produces whom does not enter the
-  thermodynamic budget (THEORY-tmp05y8u).
+  thermodynamic budget ([THEORY-tmp05y8u](THEORY-tmp05y8u.md)).
 - **That the chemostats are external.** They are a regime of a larger closed
-  system, valid for a window (THEORY-tmp1nk6k).
+  system, valid for a window ([THEORY-tmp1nk6k](THEORY-tmp1nk6k.md)).
 - **Anything beyond ideal dilute, well-mixed, deterministic chemistry.**

@@ -54,7 +54,7 @@ inverse noise covariance samples the posterior exactly (Corollary 4), a
 variational EM scheme (§4.2), the stationary law of SGD with momentum
 (§4.3), the bias of constant-rate SGLD and of diagonal SGFS (§5), and a
 short proof of Polyak averaging's optimality with a sampler built on it
-(§6). The 2016 ICML paper (LIT-tmpxo5z5, NOTE-tmph1our) is the first half of this one.
+(§6). The 2016 ICML paper ([LIT-tmpxo5z5](../literature.d/LIT-tmpxo5z5.md), [NOTE-tmph1our](NOTE-tmph1our.md)) is the first half of this one.
 
 ## Key insight
 
@@ -116,7 +116,7 @@ results concern the third.
   the exact stationary covariance of the discrete recursion: relative
   error 3.9%, 0.65% and 0.07% at ε = 10⁻², 10⁻³, 10⁻⁴ with μ = 0.1, and
   below 0.2% for μ ≥ 0.5. With BBᵀ = σ²A it gives Σ = εσ²/(2μS)·I, which
-  is THEORY-779's λ → 0 limit with μ = 1 − β.
+  is [THEORY-779](../theory.d/THEORY-779.md)'s λ → 0 limit with μ = 1 − β.
 - **SGLD at a constant rate (§5.1).** The stationary covariance
   overestimates the posterior's, by correction terms that vanish only as
   ε → 0.
@@ -176,20 +176,20 @@ log|Σ| = D log(ε/S) + const. Minimise over ε, S or H.
 
 ## Connections
 
-- Kunin et al.'s underdamped model (LIT-1011, THEORY-779, THEORY-209)
+- Kunin et al.'s underdamped model ([LIT-1011](../literature.d/LIT-1011.md), [THEORY-779](../theory.d/THEORY-779.md), [THEORY-209](../theory.d/THEORY-209.md))
   is the same OU calculation with momentum, noise ∝ Hessian and weight
   decay; its isotropic stationary covariance is this paper's A5 case.
-- McCandlish et al. (LIT-348, NOTE-293) use this paper's stationary
-  quadratic model for their temperature ε/B (App. C there). NOTE-293
+- McCandlish et al. ([LIT-348](../literature.d/LIT-348.md), [NOTE-293](NOTE-293.md)) use this paper's stationary
+  quadratic model for their temperature ε/B (App. C there). [NOTE-293](NOTE-293.md)
   names it without a LIT; this is that LIT.
-- Hennick and De Baerdemacker (LIT-tmp107c0, NOTE-tmp5vh75) cite the 2016
+- Hennick and De Baerdemacker ([LIT-tmp107c0](../literature.d/LIT-tmp107c0.md), [NOTE-tmp5vh75](NOTE-tmp5vh75.md)) cite the 2016
   version as the non-degenerate case they generalise.
 - Polyak and Juditsky (1992) for averaging; Ahn et al. (2012) for SGFS;
   Welling and Teh (2011) for SGLD. None held here.
 
 ## Bearing on the record
 
-- **QUESTION-tmpiir0l, the three-row table.** Row 2 is right about this
+- **[QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md), the three-row table.** Row 2 is right about this
   paper, and needs one sharpening. The stationary distribution "can be
   made close to" a posterior only under A1–A4, and A4 requires a
   positive-definite Hessian, so the result is about a **regular model in
@@ -202,15 +202,15 @@ log|Σ| = D log(ε/S) + const. Minimise over ε, S or H.
   sample size**, ε/S against 1/N, not from training time to sample size.
   The one place training time maps to a sample size is iterate averaging:
   after T steps of batch S, the average's covariance is that of a
-  posterior from TS observations (THEORY-tmp8ggnh). That too is regular,
+  posterior from TS observations ([THEORY-tmp8ggnh](../theory.d/THEORY-tmp8ggnh.md)). That too is regular,
   single-basin and post-equilibrium, and it describes spread around a fixed
   optimum, not which region dominates.
-- **THEORY-209 and THEORY-779.** Consistent. This paper is the
-  general-noise, first-order antecedent of Kunin's model; THEORY-779's
+- **[THEORY-209](../theory.d/THEORY-209.md) and [THEORY-779](../theory.d/THEORY-779.md).** Consistent. This paper is the
+  general-noise, first-order antecedent of Kunin's model; [THEORY-779](../theory.d/THEORY-779.md)'s
   isotropy is its A5 case. No change to either.
-- **NOTE-293.** Its "via Mandt–Hoffman–Blei" now has a LIT.
-- **New:** THEORY-tmp7gcht (the stationary law and posterior matching, with
-  their scope) and THEORY-tmp8ggnh (averaging).
+- **[NOTE-293](NOTE-293.md).** Its "via Mandt–Hoffman–Blei" now has a LIT.
+- **New:** [THEORY-tmp7gcht](../theory.d/THEORY-tmp7gcht.md) (the stationary law and posterior matching, with
+  their scope) and [THEORY-tmp8ggnh](../theory.d/THEORY-tmp8ggnh.md) (averaging).
 - **ML practice.** The paper carries instructions: rates, batch sizes and
   preconditioners for approximate sampling, and noise injection in SGFS.
   The LIT keeps the `anthology-candidate` flag.
@@ -234,7 +234,7 @@ log|Σ| = D log(ε/S) + const. Minimise over ε, S or H.
 
 - What replaces Eq. 13 at a degenerate minimum, where A has a null space
   and the posterior is not Gaussian? Hennick and De Baerdemacker attempt
-  it (NOTE-tmp5vh75).
+  it ([NOTE-tmp5vh75](NOTE-tmp5vh75.md)).
 - Does iterate averaging's examples-to-sample-size correspondence survive
   across basins, where the posterior at sample size TS would favour a
   different region from the one the iterate sits in?

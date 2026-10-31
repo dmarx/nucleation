@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmpuemsh); worth reading as the
+  read in full 2026-10-31 ([NOTE-tmpuemsh](../notes.d/NOTE-tmpuemsh.md)); worth reading as the
   published statement of the forward-KL limit on distilling from a
   better-informed teacher, with its entropy consequence
-  (THEORY-tmpfm1ma), and for the finding that such supervision helps
-  only where it is imitable (THEORY-tmpjz0xp). The trained objective
+  ([THEORY-tmpfm1ma](../theory.d/THEORY-tmpfm1ma.md)), and for the finding that such supervision helps
+  only where it is imitable ([THEORY-tmpjz0xp](../theory.d/THEORY-tmpjz0xp.md)). The trained objective
   clips each entry and is not a forward KL.
 title: 'Overcoming Scaling Limits in On-Policy Self-Distillation for LLM Reasoning'
 version: 2
@@ -64,8 +64,8 @@ summary: >-
 
 Hossain, M. I., Kousar, H., & Tourni, I. C. (2026). Overcoming scaling limits in on-policy self-distillation for LLM reasoning. arXiv:2609.37915.
 
-Read in full in NOTE-tmpuemsh.
+Read in full in [NOTE-tmpuemsh](../notes.d/NOTE-tmpuemsh.md).
 
 ## Why this is here
 
-A16 used it for the "privileged teacher" case of self-distillation: what the teacher knows and the student cannot see is averaged away, which is the limit [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md) starts from. The reading confirms that the paper states this limit (THEORY-tmpfm1ma) and adds its consequence: supervision where the teacher's advantage is privileged makes the student less certain, and the useful supervision is on states the student can already reach (THEORY-tmpjz0xp). Two qualifications. The teacher is the frozen initial model, not the evolving one. And the objective actually trained is a per-entry clipped KL, not the forward KL the proposition is about.
+A16 used it for the "privileged teacher" case of self-distillation: what the teacher knows and the student cannot see is averaged away, which is the limit [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md) starts from. The reading confirms that the paper states this limit ([THEORY-tmpfm1ma](../theory.d/THEORY-tmpfm1ma.md)) and adds its consequence: supervision where the teacher's advantage is privileged makes the student less certain, and the useful supervision is on states the student can already reach ([THEORY-tmpjz0xp](../theory.d/THEORY-tmpjz0xp.md)). Two qualifications. The teacher is the frozen initial model, not the evolving one. And the objective actually trained is a per-entry clipped KL, not the forward KL the proposition is about.

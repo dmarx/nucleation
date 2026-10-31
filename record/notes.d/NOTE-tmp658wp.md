@@ -138,12 +138,12 @@ time the network takes to use up the reservoir.
 
 ## Connections
 
-It derives the chemostats that Rao and Esposito (LIT-tmpj1wfs,
-NOTE-tmp3zcaf) postulate, and that Rao and Esposito already glossed as
+It derives the chemostats that Rao and Esposito ([LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md),
+[NOTE-tmp3zcaf](NOTE-tmp3zcaf.md)) postulate, and that Rao and Esposito already glossed as
 "abundant species whose concentrations are negligibly affected ... within
 relevant time scales". The emergent open network can then be analysed with
-cycles and conservation laws (LIT-tmpw6f74, NOTE-tmpif2g2) and bounded
-(LIT-tmpfq9vf, NOTE-tmp3di1n). Cross and Hohenberg's remark in THEORY-692,
+cycles and conservation laws ([LIT-tmpw6f74](../literature.d/LIT-tmpw6f74.md), [NOTE-tmpif2g2](NOTE-tmpif2g2.md)) and bounded
+([LIT-tmpfq9vf](../literature.d/LIT-tmpfq9vf.md), [NOTE-tmp3di1n](NOTE-tmp3di1n.md)). Cross and Hohenberg's remark in [THEORY-692](../theory.d/THEORY-692.md),
 that a closed chemical system "ultimately must come to equilibrium", so that
 non-equilibrium structure is a transient or a response to "external
 chemical pumping", is this paper's starting point; it says how long the
@@ -151,33 +151,33 @@ transient is.
 
 ## Bearing on the record
 
-- **CLAIM-478: a clean instance of both the claim and its window.** A13
+- **[CLAIM-478](../claims.d/CLAIM-478.md): a clean instance of both the claim and its window.** A13
   cited this paper for the point that an "external" driving reservoir is a
   matter of where the boundary and the time scales are drawn. That is what
-  it shows (THEORY-tmp1nk6k). A relation among fast degrees of freedom (the
+  it shows ([THEORY-tmp1nk6k](../theory.d/THEORY-tmp1nk6k.md)). A relation among fast degrees of freedom (the
   exchange equilibria) becomes a constraint on the slow dynamics (fixed
   [y]) over a window bounded below by the fast relaxation and above by a
   time of order Ω. It sharpens the claim in two ways. First, time-scale
   separation is not enough. The constraint needs a second separation, of
   abundance, and the two limits must be taken in order. Second, the window
   has three time scales, not two, as Ashwin et al. found for tracking
-  (THEORY-1052, cited in CLAIM-478's note), and its upper end is set by
+  ([THEORY-1052](../theory.d/THEORY-1052.md), cited in [CLAIM-478](../claims.d/CLAIM-478.md)'s note), and its upper end is set by
   capacity, not by a slow mode. The claim's list of mechanisms should carry
   abundance (capacity) separation beside rate separation.
-- **CASE-tmpwxags and A13's "finite lifetime because its driving is
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) and A13's "finite lifetime because its driving is
   exhausted".** This is the paper that supports that point, not Liang et al.
-  (NOTE-tmp3di1n). A maintained organization powered by a finite reservoir
+  ([NOTE-tmp3di1n](NOTE-tmp3di1n.md)). A maintained organization powered by a finite reservoir
   is maintained only for a time of order the reservoir's abundance divided
   by its draw. After that it relaxes to the closed system's equilibrium,
   whatever its organization. "Endogenously maintained" in the case's sense
   is therefore always relative to a window, and the window's length is a
   property of the environment's capacity, not of the organization.
-- **CLAIM-273.** The r/place canvas's "flow" of placements comes from a
+- **[CLAIM-273](../claims.d/CLAIM-273.md).** The r/place canvas's "flow" of placements comes from a
   finite population over a finite event. The structural analogy has the
   same shape: maintenance holds over a window set by how long the supply
   lasts. This paper gives the chemical version a scaling law. It gives the
   canvas nothing, since there is still no thermodynamic quantity there.
-- **THEORY-692.** It answers the review's remark quoted there: a
+- **[THEORY-692](../theory.d/THEORY-692.md).** It answers the review's remark quoted there: a
   far-from-equilibrium structure in a closed chemical system is a transient,
   and the paper says how long it lasts, O(Ω) on the slow clock.
 - **No instruction for machine-learning practice.**
@@ -196,7 +196,7 @@ transient is.
 ## Open questions
 
 - In a network whose maintained state is bistable, does reservoir depletion
-  end the window by a saddle-node, as CASE-tmpwxags's damage does, and at
+  end the window by a saddle-node, as [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s damage does, and at
   what fraction of Ω?
 - Can chemical capacity be measured directly in a living cell, beyond the
   buffer case, to estimate how long a given metabolic state can last

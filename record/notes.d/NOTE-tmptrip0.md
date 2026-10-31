@@ -134,14 +134,14 @@ regularizer carries.
 ## Connections
 
 Self-distillation as diffusion or boosting in image processing (Milanfar
-2013). Gerstgrasser et al. (LIT-971, NOTE-815) cite it as the noiseless
-case of model collapse, where predictions shrink to zero; THEORY-289 holds
-their noisy, data-reusing contrast. Wu, Yang and Sun (LIT-tmpcewsq) study
+2013). Gerstgrasser et al. ([LIT-971](../literature.d/LIT-971.md), [NOTE-815](NOTE-815.md)) cite it as the noiseless
+case of model collapse, where predictions shrink to zero; [THEORY-289](../theory.d/THEORY-289.md) holds
+their noisy, data-reusing contrast. Wu, Yang and Sun ([LIT-tmpcewsq](../literature.d/LIT-tmpcewsq.md)) study
 the same loop with fresh inputs each round.
 
 ## Bearing on the record
 
-- **QUESTION-tmp4b001 and A16.** A16 cited this paper as showing that
+- **[QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md) and A16.** A16 cited this paper as showing that
   "repeated self-distillation can progressively suppress representational
   components through regularization". That is accurate. A16's own
   theorem says exact projection under a fixed information structure is
@@ -149,14 +149,14 @@ the same loop with fresh inputs each round.
   regularization, sampling noise, or other alterations". This paper is
   the regularization case, with nothing else changing: same inputs, no
   noise, no information withheld. Its round operator is a shrinkage, not
-  a projection (THEORY-tmp33nos). Iterated inheritance can lose
+  a projection ([THEORY-tmp33nos](../theory.d/THEORY-tmp33nos.md)). Iterated inheritance can lose
   everything through the inheritor's own bias alone, without any
   information bottleneck.
-- **CLAIM-090** (Proposed): serial transmission filtered by the
+- **[CLAIM-090](../claims.d/CLAIM-090.md)** (Proposed): serial transmission filtered by the
   transmitters' inductive biases. This is a formal instance with an
   exactly stated bias, the regularizer. It stabilizes nowhere except
   at zero: the "stable endpoint" here is the empty function.
-- **QUESTION-016.** In this setting iterated reconstruction destroys
+- **[QUESTION-016](../questions.d/QUESTION-016.md).** In this setting iterated reconstruction destroys
   sufficiency for every task, at a rate set by the Gram spectrum and ε.
   The order of loss is fixed: small-eigenvalue components go first.
 - **An instruction for ML practice is implicit** (a few rounds, then

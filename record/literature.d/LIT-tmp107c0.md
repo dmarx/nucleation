@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp5vh75); its "tempered posterior" is a
+  read in full 2026-10-31 ([NOTE-tmp5vh75](../notes.d/NOTE-tmp5vh75.md)); its "tempered posterior" is a
   temperature, the posterior at effective sample size 1/D_ξ within a
   region of constant diffusion, and the "accessibility" that would make
   SGD differ from Bayes across regions is not derived but fitted
-  (THEORY-tmpe0idn); its sub-diffusion fits are filed as Proposed
-  (THEORY-tmptkuok).
+  ([THEORY-tmpe0idn](../theory.d/THEORY-tmpe0idn.md)); its sub-diffusion fits are filed as Proposed
+  ([THEORY-tmptkuok](../theory.d/THEORY-tmptkuok.md)).
 title: 'Almost Bayesian: The Fractal Dynamics of Stochastic Gradient Descent'
 version: 2
 history:
@@ -70,8 +70,8 @@ summary: >-
 
 Hennick, M., & De Baerdemacker, S. (2025). Almost Bayesian: The fractal dynamics of stochastic gradient descent. arXiv:2503.22478. Published at ICLR 2026 as "Almost Bayesian: Dynamics of SGD Through Singular Learning Theory".
 
-Read in full in NOTE-tmp5vh75.
+Read in full in [NOTE-tmp5vh75](../notes.d/NOTE-tmp5vh75.md).
 
 ## Why this is here
 
-A4 gave it as the strongest recent form of the SGD–Bayes connection, with "accessibility constraints" as what separates the two. That is the term QUESTION-tmpiir0l asks about. The reading finds less there than the question's title expects. Within a region the paper's steady state is a tempered posterior, so the correspondence it gives is between a noise scale and a sample size, as in Mandt et al. (LIT-tmpwzrx7), and not between training time and sample size. Accessibility, the part that would make SGD's weighting of regions differ from the posterior's, is not derived (THEORY-tmpe0idn). Phase transitions are explicitly outside its steady-state theory. Its displacement results bear on how SGD moves late in training (THEORY-tmptkuok).
+A4 gave it as the strongest recent form of the SGD–Bayes connection, with "accessibility constraints" as what separates the two. That is the term [QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md) asks about. The reading finds less there than the question's title expects. Within a region the paper's steady state is a tempered posterior, so the correspondence it gives is between a noise scale and a sample size, as in Mandt et al. ([LIT-tmpwzrx7](LIT-tmpwzrx7.md)), and not between training time and sample size. Accessibility, the part that would make SGD's weighting of regions differ from the posterior's, is not derived ([THEORY-tmpe0idn](../theory.d/THEORY-tmpe0idn.md)). Phase transitions are explicitly outside its steady-state theory. Its displacement results bear on how SGD moves late in training ([THEORY-tmptkuok](../theory.d/THEORY-tmptkuok.md)).

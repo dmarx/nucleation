@@ -9,8 +9,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpcewsq
 summary: >-
-  Wu, Yang and Sun (2026), LIT-tmpcewsq, Theorem 3.2, Corollaries 3.3–3.4
-  and B.1, and the projection identity of §3.2; read in NOTE-tmpbslp3 and
+  Wu, Yang and Sun (2026), [LIT-tmpcewsq](../literature.d/LIT-tmpcewsq.md), Theorem 3.2, Corollaries 3.3–3.4
+  and B.1, and the projection identity of §3.2; read in [NOTE-tmpbslp3](../notes.d/NOTE-tmpbslp3.md) and
   checked by Monte Carlo in the spiked model. Active for the spiked
   closed form; the general concentration result (Theorem 4.2) is the
   paper's, proof not checked. It does not cover reused data, noise
@@ -21,8 +21,8 @@ summary: >-
 
 ## Source
 
-Wu, Yang and Sun (2026), LIT-tmpcewsq, §§3–4 and Appendix B, pp. 3–7 and
-11–12 of arXiv 2602.14029v1; read in NOTE-tmpbslp3.
+Wu, Yang and Sun (2026), [LIT-tmpcewsq](../literature.d/LIT-tmpcewsq.md), §§3–4 and Appendix B, pp. 3–7 and
+11–12 of arXiv 2602.14029v1; read in [NOTE-tmpbslp3](../notes.d/NOTE-tmpbslp3.md).
 
 ## What was actually shown
 
@@ -55,7 +55,7 @@ preserved the teacher, giving no change.
   round depends on the spectrum and the noise; the iterated GCV that finds
   it is proved for this model only.
 - **Anything about noise entering every round.** That is model collapse,
-  where error grows (THEORY-289); here noise enters once.
+  where error grows ([THEORY-289](THEORY-289.md)); here noise enters once.
 - **That deep networks follow it.** One CIFAR-10 experiment of four rounds
   is suggestive only.
 - **That a student which agrees with its teacher on its data agrees

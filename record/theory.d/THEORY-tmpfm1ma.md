@@ -9,9 +9,9 @@ date: '2026-10-31'
 source:
 - LIT-tmpbnm77
 summary: >-
-  Hossain, Kousar and Tourni (2026), LIT-tmpbnm77, Proposition 1; read
-  in NOTE-tmpuemsh. Active: elementary and checked numerically. This is
-  the published statement of the limit QUESTION-tmp4b001 starts from. It
+  Hossain, Kousar and Tourni (2026), [LIT-tmpbnm77](../literature.d/LIT-tmpbnm77.md), Proposition 1; read
+  in [NOTE-tmpuemsh](../notes.d/NOTE-tmpuemsh.md). Active: elementary and checked numerically. This is
+  the published statement of the limit [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md) starts from. It
   holds for the unclipped forward KL; the OPSD objective the paper trains
   clips each vocabulary entry, which the paper shows reverses the
   gradient on the teacher's most preferred tokens.
@@ -22,9 +22,9 @@ summary: >-
 
 ## Source
 
-Hossain, Kousar and Tourni (2026), LIT-tmpbnm77, §3.5 and Appendix A.1
+Hossain, Kousar and Tourni (2026), [LIT-tmpbnm77](../literature.d/LIT-tmpbnm77.md), §3.5 and Appendix A.1
 (Propositions 1 and 2), pp. 5 and 12–14 of arXiv 2609.37915v1; read in
-NOTE-tmpuemsh.
+[NOTE-tmpuemsh](../notes.d/NOTE-tmpuemsh.md).
 
 ## What was actually shown
 
@@ -51,7 +51,7 @@ removes 94–97% of the positive KL mass (Fig. 4).
 
 - **That a calibrated teacher is needed.** The bound concerns the
   teacher's output. It equals the predictive information I(Y; R | Z)
-  about the world only if the teacher is calibrated, as QUESTION-tmp4b001
+  about the world only if the teacher is calibrated, as [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md)
   assumes.
 - **That OPSD minimises this objective.** The paper says Proposition 1
   "should not be read as an exact characterization of the implemented
@@ -65,5 +65,5 @@ removes 94–97% of the positive KL mass (Fig. 4).
   published locus and for the entropy consequence: supervision where the
   teacher's advantage is privileged makes the student less certain.
 - **Anything about MTP self-distillation.** In Teoh's DeepSeek-style heads
-  (LIT-tmpu9af8) the student sees what its teacher sees, and the
-  irreducible term is zero (THEORY-tmpxb5pl).
+  ([LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md)) the student sees what its teacher sees, and the
+  irreducible term is zero ([THEORY-tmpxb5pl](THEORY-tmpxb5pl.md)).

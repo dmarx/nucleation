@@ -159,13 +159,13 @@ raising the SGD distribution to the power set by ξ.
 
 ## Connections
 
-- Mandt et al. (LIT-tmpxo5z5, LIT-tmpwzrx7) is the non-degenerate case
+- Mandt et al. ([LIT-tmpxo5z5](../literature.d/LIT-tmpxo5z5.md), [LIT-tmpwzrx7](../literature.d/LIT-tmpwzrx7.md)) is the non-degenerate case
   this paper sets out to generalise (pp. 1–2).
-- Chen et al. (LIT-tmpogi33) is cited among the SLT works it builds on.
-- Wang et al.'s refined LLC (LIT-1535) is cited for stage boundaries
+- Chen et al. ([LIT-tmpogi33](../literature.d/LIT-tmpogi33.md)) is cited among the SLT works it builds on.
+- Wang et al.'s refined LLC ([LIT-1535](../literature.d/LIT-1535.md)) is cited for stage boundaries
   (App. F). Lau et al.'s LLC estimator, used throughout, is not held here.
-- Kunin et al.'s anomalous diffusion at the end of training (LIT-1011,
-  THEORY-209) reports anomalous drift of converged networks too, but
+- Kunin et al.'s anomalous diffusion at the end of training ([LIT-1011](../literature.d/LIT-1011.md),
+  [THEORY-209](../theory.d/THEORY-209.md)) reports anomalous drift of converged networks too, but
   super-diffusive: squared displacement ∝ t^c with c from about 1.07 to
   1.62, explained by damping in a regular quadratic model. This paper does
   not cite it.
@@ -174,7 +174,7 @@ raising the SGD distribution to the power set by ξ.
 
 ## Bearing on the record
 
-- **QUESTION-tmpiir0l.** The question reads this paper as "a tempered
+- **[QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md).** The question reads this paper as "a tempered
   posterior that accounts for local accessibility constraints", the third
   candidate in its title. Two corrections.
   - **The tempering is a temperature, and it maps to sample size, not to
@@ -189,7 +189,7 @@ raising the SGD distribution to the power set by ξ.
     steady state there is exactly a tempered posterior. Between regions,
     the paper's own Fokker–Planck equation with a spatially varying D gives
     a zero-flux steady state ∝ exp(−∫∇L/D), which depends on D along the
-    paths between regions, not on each region's own D (THEORY-tmpe0idn).
+    paths between regions, not on each region's own D ([THEORY-tmpe0idn](../theory.d/THEORY-tmpe0idn.md)).
     The relative mass of regions is therefore not given by per-region
     tempering, and in §4.2 it is matched after fitting ξ. The paper does
     not give a case of the kind the question asks for, a region dominant in
@@ -199,15 +199,15 @@ raising the SGD distribution to the power set by ξ.
     phase transitions" (p. 7), and treats LLC jumps in grokking as needing
     a space-fractional term it does not develop (App. F). So it says
     nothing about the order of transitions over training.
-- **QUESTION-039.** The sub-diffusion results bear on how fast SGD moves
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** The sub-diffusion results bear on how fast SGD moves
   late in training, not on what sets the order of acquisition.
-- **THEORY-209.** Both describe a converged network that keeps moving.
+- **[THEORY-209](../theory.d/THEORY-209.md).** Both describe a converged network that keeps moving.
   Kunin's model is regular and quadratic and explains super-diffusive
   drift by overdamped modes, with larger rates lowering the exponent; this
   paper reports sub-diffusion and attributes it to degeneracy. The settings differ (resumed ImageNet
   training at the original schedule there, low-rate fine-tuning here), and
   neither paper addresses the other.
-- **New:** THEORY-tmpe0idn, Active, and THEORY-tmptkuok, Proposed.
+- **New:** [THEORY-tmpe0idn](../theory.d/THEORY-tmpe0idn.md), Active, and [THEORY-tmptkuok](../theory.d/THEORY-tmptkuok.md), Proposed.
 - **ML practice.** Appendix C proposes uses for transfer learning,
   schedulers and optimiser evaluation; the LIT keeps `anthology-candidate`.
 

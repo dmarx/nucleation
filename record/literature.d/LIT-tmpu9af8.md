@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp8ljm4); worth reading for its exact
+  read in full 2026-10-31 ([NOTE-tmp8ljm4](../notes.d/NOTE-tmp8ljm4.md)); worth reading for its exact
   split of the multi-token-prediction gradient into self-distillation
   toward the model's own next-token head and a data-target residual
-  (THEORY-tmpxb5pl), and for what the split does not carry: in the
+  ([THEORY-tmpxb5pl](../theory.d/THEORY-tmpxb5pl.md)), and for what the split does not carry: in the
   DeepSeek-style heads of its main results the student sees the same
   tokens as its teacher, so it is not the information projection the
   exchange read into it.
@@ -65,8 +65,8 @@ summary: >-
 
 Teoh, J. (2026). Multi-token prediction done right. arXiv:2610.38331.
 
-Read in full in NOTE-tmp8ljm4.
+Read in full in [NOTE-tmp8ljm4](../notes.d/NOTE-tmp8ljm4.md).
 
 ## Why this is here
 
-The owner linked it at U15: "maybe framing this recursive production as self-distillation could be helpful". A15 and A16 built on its decomposition the reading of self-distillation as conditional projection: the student reproduces the teacher averaged over what the student cannot see. That is [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md)'s starting point. The reading confirms the decomposition and A16's routing, and corrects the premise. In the DeepSeek-style heads behind every main result, the MTP head is fed the intervening tokens and conditions on the same prefix as its next-token teacher. Teacher and student differ in depth of computation, not in information. The conditional-projection limit, with its irreducible conditional mutual information, belongs to the privileged-context case of Hossain et al. (LIT-tmpbnm77, THEORY-tmpfm1ma). Here it is zero (THEORY-tmpxb5pl).
+The owner linked it at U15: "maybe framing this recursive production as self-distillation could be helpful". A15 and A16 built on its decomposition the reading of self-distillation as conditional projection: the student reproduces the teacher averaged over what the student cannot see. That is [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md)'s starting point. The reading confirms the decomposition and A16's routing, and corrects the premise. In the DeepSeek-style heads behind every main result, the MTP head is fed the intervening tokens and conditions on the same prefix as its next-token teacher. Teacher and student differ in depth of computation, not in information. The conditional-projection limit, with its irreducible conditional mutual information, belongs to the privileged-context case of Hossain et al. ([LIT-tmpbnm77](LIT-tmpbnm77.md), [THEORY-tmpfm1ma](../theory.d/THEORY-tmpfm1ma.md)). Here it is zero ([THEORY-tmpxb5pl](../theory.d/THEORY-tmpxb5pl.md)).

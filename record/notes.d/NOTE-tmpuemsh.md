@@ -151,7 +151,7 @@ OPSD's unchanged clipped loss against the frozen teacher.
 It places OPSD in learning with privileged information (Pechyony &
 Vapnik 2010) and the imitation gap with unobserved contexts (Swamy et al.
 2022; Weihs et al. 2021). It agrees with Ichihara et al. (2026) that
-reference content matters less than OPSD assumes. Teoh (LIT-tmpu9af8)
+reference content matters less than OPSD assumes. Teoh ([LIT-tmpu9af8](../literature.d/LIT-tmpu9af8.md))
 names OPSD as a setting for his KL gradient-recovery trick.
 
 ## Bearing on the record
@@ -161,23 +161,23 @@ names OPSD as a setting for his KL gradient-recovery trick.
   are "treated explicitly" here. They are: Proposition 1 states the
   mixture optimum, the conditional-mutual-information minimum and the
   entropy inequality, and its proof is A15's two-term decomposition
-  (THEORY-tmpfm1ma). The qualifications: the authors say the proposition
+  ([THEORY-tmpfm1ma](../theory.d/THEORY-tmpfm1ma.md)). The qualifications: the authors say the proposition
   is not an exact characterization of the objective they train, which
   clips each entry and removes 94–97% of the positive KL mass (C2); and
   the teacher is the frozen initial model, not the evolving one.
-- **QUESTION-tmp4b001: what distillation can carry.** The question's
+- **[QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md): what distillation can carry.** The question's
   limit has its published statement here, with the consequence the
   question does not draw. Distillation on states where the teacher's
   advantage is privileged makes the student less certain (the entropy
   inequality, and OPSD's rising entropy, Table 5). Inheritance from a
   better-informed predecessor transmits that predecessor's knowledge only
   where the successor can see what it rests on. Elsewhere it transmits a
-  blurred average (THEORY-tmpjz0xp).
-- **QUESTION-tmp4b001: teacher and student "belong to one model".** Here
+  blurred average ([THEORY-tmpjz0xp](../theory.d/THEORY-tmpjz0xp.md)).
+- **[QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md): teacher and student "belong to one model".** Here
   they share weights but not time: the teacher is π_θ0 throughout. That is
   closer to inheritance from a fixed ancestor than to a model teaching
   itself.
-- **TERM-097.** OASIS supervises with a teacher conditioned on the
+- **[TERM-097](../terms.d/TERM-097.md).** OASIS supervises with a teacher conditioned on the
   student's own failed attempt. Coherence with a teacher that knows
   nothing the student lacks still helps, once the scaffold is selected by
   an outside verifier. The verifier, not the teacher, supplies the

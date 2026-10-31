@@ -8,8 +8,8 @@ date: '2026-10-31'
 source:
 - LIT-tmptkqrv
 summary: >-
-  Mobahi, Farajtabar and Bartlett (2020), LIT-tmptkqrv, eqs. 24–37 and
-  §§3.2–4; read in NOTE-tmptrip0, with the paper's illustrative example
+  Mobahi, Farajtabar and Bartlett (2020), [LIT-tmptkqrv](../literature.d/LIT-tmptkqrv.md), eqs. 24–37 and
+  §§3.2–4; read in [NOTE-tmptrip0](../notes.d/NOTE-tmptrip0.md), with the paper's illustrative example
   reproduced from its own sample values. Active for the recurrence,
   the rising multiplier and collapse, which are elementary and
   reproduced; the sparsity rate of Theorem 5 is the paper's, proof not
@@ -21,9 +21,9 @@ summary: >-
 
 ## Source
 
-Mobahi, Farajtabar and Bartlett (2020), LIT-tmptkqrv, §§2–4, eqs.
+Mobahi, Farajtabar and Bartlett (2020), [LIT-tmptkqrv](../literature.d/LIT-tmptkqrv.md), §§2–4, eqs.
 (17)–(52) and Appendix E, pp. 5–13 and 31–32 of arXiv 2002.05715v3; read
-in NOTE-tmptrip0.
+in [NOTE-tmptrip0](../notes.d/NOTE-tmptrip0.md).
 
 ## What was actually shown
 
