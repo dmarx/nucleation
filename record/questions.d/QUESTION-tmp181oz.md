@@ -14,8 +14,8 @@ summary: >-
   characterize the notion of a 'concept'?", "can we distinguish between a
   'concept' and a 'thing'?" and "how about 'entity'?". The assistant
   defined "concept" three times in three turns, each a little differently,
-  which is the record's signal to give it a code. It gets a question, not a
-  term, because what a definition should fix is still open.
+  which is the record's signal to give it a code. A candidate term is
+  filed beside it, Proposed (TERM-tmp6c38c); this question asks what would settle it.
 ---
 <!-- inactive-ok-file: QUESTION-275 QUESTION-285 TERM-088 — Open or Proposed; the questions this sits between and the senses of individuation, cited as open -->
 
@@ -23,8 +23,8 @@ summary: >-
 
 ## Why it is a question
 
-The record has no term for "concept". The exchange supplied three
-working definitions.
+The record had no term for "concept" (TERM-tmp6c38c is now a Proposed
+candidate). The exchange supplied three working definitions.
 
 - **A4:** a concept as discrimination, inferential role, relational
   organization and developmental realization, plus grounding. "A change in
@@ -72,6 +72,6 @@ The record's own pieces:
 Criteria that separate concept, discriminator and habit, each measurable
 in a learning system: reuse across tasks, transfer to counterfactual
 inputs, integration with other capacities, and correction by evidence.
-Then a system where they can be tracked over training ([QUESTION-275](QUESTION-275.md)'s
-setting), to see whether they arrive together or apart. A term for
-"concept" should follow from that, not precede it.
+Then a system where they can be tracked over training (QUESTION-275's
+setting), to see whether they arrive together or apart. The candidate
+term TERM-tmp6c38c would stand, split or be rejected on the result.

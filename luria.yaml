@@ -195,6 +195,9 @@ vocabularies:
       loss-landscapes:
         label: Loss landscapes
         blurb: 'the geometry of trained solutions in weight space — mode connectivity, linear and along curves, barriers between minima and the permutation symmetries that hide or remove them, re-basin alignment, star domains and connecting simplexes, local versus global landscape structure, and model merging as its use (ADR-027)'
+      control-theory:
+        label: Control theory
+        blurb: 'the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066)'
       ethics:
         label: Ethics
         blurb: 'moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy)'

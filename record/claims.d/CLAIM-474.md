@@ -3,8 +3,8 @@ number: 474
 status: Proposed
 formerly:
 - CLAIM-tmpgubhp
-title: 'From interconnection to individuation, five relationships are distinct achievements and none implies the next: interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which compatible, frustrated or differentiated organizations persist, individuation which persistent organizations have sufficiently robust identity and boundaries, organizational autonomy being the further question which of those also help maintain their own constitutive constraints, and inquiry which of them can measure and revise their own models and apparatuses under resource bounds; the research program is to find the conditions for each transition'
-version: 2
+title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -17,6 +17,18 @@ history:
     organizational autonomy, the further question, for contributing to
     maintaining one's own constitutive constraints. The body already drew
     the line ("Persistence without autonomy"); the table row is aligned.
+- version: 3
+  date: '2026-10-31'
+  note: >-
+    Title revised at the owner's decision of 2026-10-31, after U20 of the
+    exchange "Analyze nucleation concepts": the old title nested each step
+    in the previous one ("the further question which of those", "which of
+    them"), and the exchange found converse failures, inquiry and
+    reconstruction without autonomy. The achievements are now stated as a
+    partial order, and the program is to find their dependencies apart from
+    the order an inquiry meets them (the owner's rule of method). The
+    five-row table and defeated_if are unchanged; the note of 2026-10-31
+    gives the reasons.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -73,7 +85,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-480 CLAIM-481 CLAIM-470 CLAIM-475 CLAIM-477 CLAIM-478 CLAIM-469 CLAIM-342 CLAIM-395 CASE-179 — Proposed or new; the claims this synthesis organizes, cited as open -->
 
-# CLAIM-474: From interconnection to individuation, five relationships are distinct achievements and none implies the next: interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which compatible, frustrated or differentiated organizations persist, individuation which persistent organizations have sufficiently robust identity and boundaries, organizational autonomy being the further question which of those also help maintain their own constitutive constraints, and inquiry which of them can measure and revise their own models and apparatuses under resource bounds; the research program is to find the conditions for each transition
+# CLAIM-474: From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
 
 ## The claim
 
@@ -175,9 +187,10 @@ regeneration: No"; "A scientist can revise a measurement apparatus without
 that apparatus autonomously producing its own parts". So the five are
 better read as a partial order of distinct achievements, and a later one
 can occur where an earlier one is absent. The title's "which of those"
-and "which of them" read as nesting and should not be taken that way.
+and "which of them" read as nesting; at the owner's decision the title
+was revised in version 3 to state a partial order.
 
 The owner's rule of method is kept here: derive the dependency structure
 of the achievements separately from the order in which an inquiry met
 them. An inquiry's order can harden into apparent structure, as anchors
-entrench ([CLAIM-184](CLAIM-184.md)). No status, title or warrant changes.
+entrench (CLAIM-184). The status and warrant are unchanged.

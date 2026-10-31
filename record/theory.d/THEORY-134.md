@@ -4,10 +4,21 @@ status: Active
 formerly:
 - THEORY-tmp4t87t
 title: 'Whether a system can persist is a question about a constraint set fixed independently of its dynamics: a set is viable when from each of its states some evolution can stay in it, and when it is not, its viability kernel is the largest part that is, from the rest of which every evolution leaves in finite time'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-10-05'
+  note: >-
+    Filed.
+- version: 2
+  date: '2026-10-31'
+  note: >-
+    Tagged control-theory beside the existing tags (ADR-066). Nothing
+    else changes.
 tags:
 - mathematics
 - complex-systems
+- control-theory
 date: '2026-10-05'
 source:
 - LIT-714
