@@ -147,39 +147,39 @@ objections" (line 75).
 - **Cooren.** It positions itself against Cooren's ventriloquism and the
   communicative constitution of organizations (CCO) tradition, which "still
   tend[s] to entify agents" (p. 1364).
-- **Barad.** It borrows the agential cut, held in the record as LIT-1653,
-  Unavailable, and read in THEORY-1083 and THEORY-1071.
+- **Barad.** It borrows the agential cut, held in the record as [LIT-1653](../literature.d/LIT-1653.md),
+  Unavailable, and read in [THEORY-1083](../theory.d/THEORY-1083.md) and [THEORY-1071](../theory.d/THEORY-1071.md).
 - **Simondon.** The source is *Individuation in Light of Notions of Form
-  and Information*, which the record holds as LIT-1648, Unavailable.
+  and Information*, which the record holds as [LIT-1648](../literature.d/LIT-1648.md), Unavailable.
 
 ## Bearing on the record
 
-- **CLAIM-355 is the record's form of "agency without agents".** It holds
+- **[CLAIM-355](../claims.d/CLAIM-355.md) is the record's form of "agency without agents".** It holds
   that a distributed agent's response can be real while the single owner a
   self-description attributes it to is a representational construction.
   The paper reaches a stronger conclusion: there are no agents prior to
-  communication at all. It does so without CLAIM-355's distinction between
+  communication at all. It does so without [CLAIM-355](../claims.d/CLAIM-355.md)'s distinction between
   the binding, which is real, and its attribution, which is constructed.
-- **CLAIM-418** holds that perspectival, agential and institutional
+- **[CLAIM-418](../claims.d/CLAIM-418.md)** holds that perspectival, agential and institutional
   boundaries need not coincide. The paper's "agency is a matter of
   perspective" is a version of it. But the paper does not say what makes
-  one cut better than another. CLAIM-405 says individuation is relative to
+  one cut better than another. [CLAIM-405](../claims.d/CLAIM-405.md) says individuation is relative to
   a criterion without being arbitrary, which the paper's perspectivism
   leaves open.
-- **CLAIM-430** is closest to the reanalysis. An interaction can make
+- **[CLAIM-430](../claims.d/CLAIM-430.md)** is closest to the reanalysis. An interaction can make
   available a way of relating that takes part before the reinterpretation
   it later seems to express. Robert discovering that MSF already teaches
   is that pattern.
-- **CLAIM-515's four questions, which the paper does not separate.**
-  - "Augmented ability to act" is a change in capability, CLAIM-515's
+- **[CLAIM-515](../claims.d/CLAIM-515.md)'s four questions, which the paper does not separate.**
+  - "Augmented ability to act" is a change in capability, [CLAIM-515](../claims.d/CLAIM-515.md)'s
     exercisable.
-  - Its source in "excess action" is a mechanism, CLAIM-515's realized.
+  - Its source in "excess action" is a mechanism, [CLAIM-515](../claims.d/CLAIM-515.md)'s realized.
   - Its continuation through transindividuation is maintenance.
 
   The paper treats all three as one event.
-- **CLAIM-523.** The responsibility section, a duty to processes whose
+- **[CLAIM-523](../claims.d/CLAIM-523.md).** The responsibility section, a duty to processes whose
   individuation is precarious, presupposes a standard for which processes
-  should continue. CLAIM-523 holds that legibility, efficacy and
+  should continue. [CLAIM-523](../claims.d/CLAIM-523.md) holds that legibility, efficacy and
   correctability do not supply one. The paper's agency is defined by
   augmentation, so it builds a valence into the definition.
 
@@ -201,7 +201,7 @@ objections" (line 75).
   (p. 1364) and every being-in-becoming is a field of relation, then
   "communication" and "agency" apply to everything that changes. This is
   the broad horn of the dilemma the record filed against its own normative
-  thesis (CLAIM-512). The organizational description has to add discrimination
+  thesis ([CLAIM-512](../claims.d/CLAIM-512.md)). The organizational description has to add discrimination
   to earn its place.
 - **Valence is defined in.** Agency is the transition to augmented ability
   only; diminution is its "lack". So whether an event shows agency depends
