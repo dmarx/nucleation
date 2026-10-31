@@ -28,7 +28,6 @@ summary: >-
   with the "excess action" that Bencherki et al. ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) have
   passing between individuation processes.
 ---
-<!-- inactive-ok-file: THEORY-tmpcaccx THEORY-tmpl13wj — Proposed; readings set beside this -->
 
 # THEORY-tmpywwei: Affect is not transmitted from one body or event to another; it is reactivated anew in each event, and bodies cued by the same event are attuned to it differentially rather than made alike
 

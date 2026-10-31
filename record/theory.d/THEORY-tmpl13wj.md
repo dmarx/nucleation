@@ -26,7 +26,6 @@ summary: >-
   ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358) quote it exactly and use it to say what
   organizational becoming is constituted by.
 ---
-<!-- inactive-ok-file: THEORY-tmpcaccx THEORY-tmpywwei — Proposed; readings set beside this -->
 
 # THEORY-tmpl13wj: Micropolitics is the modulation of a relational field toward a maximally inclusive co-patterning of contrasting tendencies, in which each realizes itself without curtailing the others; the co-patterning is aesthetic, an affirmation of discord rather than its resolution
 
