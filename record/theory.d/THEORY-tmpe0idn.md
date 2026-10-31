@@ -9,8 +9,8 @@ date: '2026-10-31'
 source:
 - LIT-tmp107c0
 summary: >-
-  Hennick and De Baerdemacker (2025; ICLR 2026), LIT-tmp107c0, read in
-  NOTE-tmp5vh75. Their Lemma 3.3 and Corollary 3.2 show that where a scalar
+  Hennick and De Baerdemacker (2025; ICLR 2026), [LIT-tmp107c0](../literature.d/LIT-tmp107c0.md), read in
+  [NOTE-tmp5vh75](../notes.d/NOTE-tmp5vh75.md). Their Lemma 3.3 and Corollary 3.2 show that where a scalar
   effective diffusion D_ξ is constant, the steady state is exp(−L_m/D_ξ),
   the posterior at effective sample size 1/D_ξ. That is a temperature, and
   inside such a region it leaves no room for an accessibility correction.
@@ -26,9 +26,9 @@ summary: >-
 
 ## Source
 
-Hennick and De Baerdemacker (2025), LIT-tmp107c0, §3.4 (Lemma 3.3,
+Hennick and De Baerdemacker (2025), [LIT-tmp107c0](../literature.d/LIT-tmp107c0.md), §3.4 (Lemma 3.3,
 Corollary 3.2), §4.2 (Figs. 3–4, Table 2) and App. D.3 of arXiv
-2503.22478v2; read in NOTE-tmp5vh75.
+2503.22478v2; read in [NOTE-tmp5vh75](../notes.d/NOTE-tmp5vh75.md).
 
 ## What was actually shown
 
@@ -71,7 +71,7 @@ cannot.
   that the paper derives no correction for them, and its one test fits ξ.
 - **Anything about training time.** The correspondence is temperature to
   sample size, 1/D_ξ against n, of the same kind as Mandt et al.'s ε/S
-  against 1/N (THEORY-tmp7gcht). The paper ties its steady state to
+  against 1/N ([THEORY-tmp7gcht](THEORY-tmp7gcht.md)). The paper ties its steady state to
   regions where λ is "locally constant ... away from phase transitions"
   (p. 7), so it says nothing about the order of transitions over training.
 - **That the Fokker–Planck form is the right one for SGD.** Other

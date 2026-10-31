@@ -46,7 +46,7 @@ summary: >-
 
 ## Contribution
 
-For the toy model of superposition (TMS, LIT-323) in its high-sparsity
+For the toy model of superposition (TMS, [LIT-323](../literature.d/LIT-323.md)) in its high-sparsity
 limit, f(x, w) = ReLU(WᵀWx + b) with inputs μe_i, μ ~ U[0, 1], the paper:
 
 - derives a closed form for the population loss (Lemma 3.1);
@@ -153,18 +153,18 @@ convex hull and bias signs, verified by a symmetry-quotiented t-SNE
 
 ## Connections
 
-- Elhage et al. (LIT-323) defines the model.
-- Watanabe (LIT-616; the book, LIT-354, is not read) for the free energy
-  formula, which THEORY-087 holds with its conditions.
+- Elhage et al. ([LIT-323](../literature.d/LIT-323.md)) defines the model.
+- Watanabe ([LIT-616](../literature.d/LIT-616.md); the book, [LIT-354](../literature.d/LIT-354.md), is not read) for the free energy
+  formula, which [THEORY-087](../theory.d/THEORY-087.md) holds with its conditions.
 - Lau et al. (2023) for the LLC estimator; not held here. Wang et al.'s
-  refined LLC (LIT-1535) is the same group's later work.
+  refined LLC ([LIT-1535](../literature.d/LIT-1535.md)) is the same group's later work.
 - Saddle-to-saddle dynamics in deep linear networks (Saxe et al., Jacot et
   al.) and Abbe et al.'s leap complexity are named as the dynamical
   precedent (§2).
 
 ## Bearing on the record
 
-- **QUESTION-tmpiir0l: the question misdescribes this paper, and so did
+- **[QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md): the question misdescribes this paper, and so did
   the exchange's critique of A3.** The question files it as pulling
   "toward correspondence", quoting the abstract's "journey". The paper
   holds three things, and only the first is correspondence:
@@ -190,11 +190,11 @@ convex hull and bias signs, verified by a symmetry-quotiented t-SNE
   would have to be monotone along the chain and still could not send the
   end of training to n = 1000. This is the stated case of the question's
   "What would count": a posterior-dominant region SGD did not reach
-  (THEORY-tmpzcsl4).
-- **QUESTION-039.** For TMS, what sets the order of acquisition is the
+  ([THEORY-tmpzcsl4](../theory.d/THEORY-tmpzcsl4.md)).
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** For TMS, what sets the order of acquisition is the
   sequence of saddles a trajectory passes from its initialisation; the
   4-gon initialisation was chosen to produce transitions (§5).
-- **CLAIM-474.** Its note on order as an artefact of encounter has a
+- **[CLAIM-474](../claims.d/CLAIM-474.md).** Its note on order as an artefact of encounter has a
   concrete analogue here: different initialisations give different chains
   (Eq. 10), and none of them contains the posterior's 5 → 6.
 - **ML practice.** None to speak of; the LIT's `anthology-candidate` flag

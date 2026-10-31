@@ -9,8 +9,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpgm18n
 summary: >-
-  Remlein, Esposito and Avanzini (2026), LIT-tmpgm18n, read in
-  NOTE-tmp658wp: a multiscale expansion in the rate ratio ε and a WKB
+  Remlein, Esposito and Avanzini (2026), [LIT-tmpgm18n](../literature.d/LIT-tmpgm18n.md), read in
+  [NOTE-tmp658wp](../notes.d/NOTE-tmp658wp.md): a multiscale expansion in the rate ratio ε and a WKB
   argument in the abundance ratio Ω, for arbitrary stoichiometry. The
   lifetime scaling was checked by integrating the paper's §IX network,
   T_δ = 0.00483 Ω against its fit 0.0048 Ω + 0.33. Active. It does not
@@ -24,9 +24,9 @@ summary: >-
 
 ## Source
 
-Remlein, Esposito and Avanzini (2026), LIT-tmpgm18n, §§V–IX and XI, eqs. 18,
+Remlein, Esposito and Avanzini (2026), [LIT-tmpgm18n](../literature.d/LIT-tmpgm18n.md), §§V–IX and XI, eqs. 18,
 31, 36–44, 49, 57 and Fig. 5, pp. 4–15 of arXiv 2604.14848v2; read in
-NOTE-tmp658wp.
+[NOTE-tmp658wp](../notes.d/NOTE-tmp658wp.md).
 
 ## What was actually shown
 
@@ -67,11 +67,11 @@ linearly in Ω.
   leading order.
 - **That maintenance is a property of the maintained system alone.** The
   window's upper end is set by the reservoir's capacity, which belongs to
-  the environment. A maintained organization in the sense of CASE-tmpwxags
+  the environment. A maintained organization in the sense of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)
   is maintained relative to such a window.
 - **That this is the only route to an effective constraint.** For
-  CLAIM-478 it is one mechanism among several, and it needs two
+  [CLAIM-478](../claims.d/CLAIM-478.md) it is one mechanism among several, and it needs two
   separations, of rate and of abundance, rather than the one the claim
-  names. Like the tracking result of THEORY-1052, it has three time scales.
+  names. Like the tracking result of [THEORY-1052](THEORY-1052.md), it has three time scales.
 - **Anything outside dilute mass-action chemistry.** Buffers are the one
   laboratory instance the paper gives.

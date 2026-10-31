@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-31 (NOTE-tmpif2g2; appendices skimmed); worth reading
+  read 2026-10-31 ([NOTE-tmpif2g2](../notes.d/NOTE-tmpif2g2.md); appendices skimmed); worth reading
   for the cycle–cocycle geometry of reaction hypergraphs and as the
   exact form of the exchange's "a productive cycle need not be a
   stoichiometric cycle": catalysts cancel from the stoichiometric
   matrix, so mutual catalytic production is not a cycle of it
-  (THEORY-tmp05y8u).
+  ([THEORY-tmp05y8u](../theory.d/THEORY-tmp05y8u.md)).
 title: 'Geometry of Nonequilibrium Reaction Networks'
 version: 2
 history:
@@ -59,8 +59,8 @@ summary: >-
 
 Dal Cengio, S., Lecomte, V., & Polettini, M. (2023). Geometry of nonequilibrium reaction networks. *Physical Review X*, 13, 021040.
 
-Read in NOTE-tmpif2g2.
+Read in [NOTE-tmpif2g2](../notes.d/NOTE-tmpif2g2.md).
 
 ## Why this is here
 
-A13 §4 used it to separate three kinds of cycle that the exchange had run together: a production cycle among constraints, a stoichiometric cycle in the kernel of the reaction network, and a cycle in a sheaf's kernel. "A productive cycle need not be a stoichiometric cycle." The reading confirms this and makes it exact (THEORY-tmp05y8u): the paper's cycles are built from net stoichiometry, from which a catalyst cancels, so the mutual production that CLAIM-tmpczfpk proves necessary is invisible to them and to the thermodynamic budget. In CASE-tmpwxags rewritten as chemistry, the stoichiometric cycles are the fuel-to-waste pathways. Its islands also give CLAIM-478 a chemical mechanism: a slowed reaction channel makes an approximate conservation law over the window the slowing opens.
+A13 §4 used it to separate three kinds of cycle that the exchange had run together: a production cycle among constraints, a stoichiometric cycle in the kernel of the reaction network, and a cycle in a sheaf's kernel. "A productive cycle need not be a stoichiometric cycle." The reading confirms this and makes it exact ([THEORY-tmp05y8u](../theory.d/THEORY-tmp05y8u.md)): the paper's cycles are built from net stoichiometry, from which a catalyst cancels, so the mutual production that [CLAIM-tmpczfpk](../claims.d/CLAIM-tmpczfpk.md) proves necessary is invisible to them and to the thermodynamic budget. In [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) rewritten as chemistry, the stoichiometric cycles are the fuel-to-waste pathways. Its islands also give [CLAIM-478](../claims.d/CLAIM-478.md) a chemical mechanism: a slowed reaction channel makes an approximate conservation law over the window the slowing opens.

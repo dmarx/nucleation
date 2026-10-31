@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-31, the derivation appendices skimmed (NOTE-tmp1z319); it
+  read 2026-10-31, the derivation appendices skimmed ([NOTE-tmp1z319](../notes.d/NOTE-tmp1z319.md)); it
   does not argue that SGD and the posterior trace one journey: it states
   "no necessary relation" between their transitions, proposes only that
   training's transitions have Bayesian antecedents, and its main Bayesian
-  transition, 5-gon to 6-gon, was not seen in training (THEORY-tmpzcsl4).
+  transition, 5-gon to 6-gon, was not seen in training ([THEORY-tmpzcsl4](../theory.d/THEORY-tmpzcsl4.md)).
 title: 'Dynamical versus Bayesian Phase Transitions in a Toy Model of Superposition'
 version: 2
 history:
@@ -65,8 +65,8 @@ summary: >-
 
 Chen, Z., Lau, E., Mendel, J., Wei, S., & Murfet, D. (2023). Dynamical versus Bayesian phase transitions in a toy model of superposition. arXiv:2310.06301.
 
-Read in NOTE-tmp1z319, with the derivation appendices skimmed.
+Read in [NOTE-tmp1z319](../notes.d/NOTE-tmp1z319.md), with the derivation appendices skimmed.
 
 ## Why this is here
 
-A3 cited it to separate Bayesian and dynamical transitions. The paper does state that separation: "There is no necessary relation between these two kinds of transitions" (§5.1), and its main Bayesian transition, 5-gon to 6-gon, was never seen in training. What A3 left out is the rest: the two processes share their landmarks, the critical points, and their direction, from high loss and low complexity to low loss and high complexity; and the paper conjectures that training's transitions have Bayesian antecedents. That conjecture runs one way and does not say the two orders coincide. From the paper's numbers, the antecedents of one observed chain do fall in training order, while SGD trained on 1000 samples ends where the posterior at 1000 does not (THEORY-tmpzcsl4). Read with LIT-323, the toy model it studies. It bears on QUESTION-tmpiir0l.
+A3 cited it to separate Bayesian and dynamical transitions. The paper does state that separation: "There is no necessary relation between these two kinds of transitions" (§5.1), and its main Bayesian transition, 5-gon to 6-gon, was never seen in training. What A3 left out is the rest: the two processes share their landmarks, the critical points, and their direction, from high loss and low complexity to low loss and high complexity; and the paper conjectures that training's transitions have Bayesian antecedents. That conjecture runs one way and does not say the two orders coincide. From the paper's numbers, the antecedents of one observed chain do fall in training order, while SGD trained on 1000 samples ends where the posterior at 1000 does not ([THEORY-tmpzcsl4](../theory.d/THEORY-tmpzcsl4.md)). Read with [LIT-323](LIT-323.md), the toy model it studies. It bears on [QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md).

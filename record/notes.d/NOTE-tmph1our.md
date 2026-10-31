@@ -43,7 +43,7 @@ the 2017 paper's §7.1 and §7.3: Table 1's KL values are identical.
 
 ## Key insight
 
-As in the 2017 paper (NOTE-tmpiaa2o): the learning rate, batch size and
+As in the 2017 paper ([NOTE-tmpiaa2o](NOTE-tmpiaa2o.md)): the learning rate, batch size and
 preconditioner choose a stationary distribution, and its scale ε/S is
 what is matched to the posterior's 1/N.
 
@@ -76,26 +76,26 @@ convergence, generates samples from a stationary distribution".
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | Constant SGD's stationary law is N(0, Σ) with ΣA + AΣ = (ε/S)BBᵀ under A1–A4 | strong (derivation) | App. A |
-| C2 | The KL-optimal rate and preconditioner are Eqs. 17 and 19, and the full preconditioner is exact | strong (derivation) | Theorems 1–2; checked in NOTE-tmpiaa2o |
+| C2 | The KL-optimal rate and preconditioner are Eqs. 17 and 19, and the full preconditioner is exact | strong (derivation) | Theorems 1–2; checked in [NOTE-tmpiaa2o](NOTE-tmpiaa2o.md) |
 | C3 | Constant SGD approximates the posterior about as well as SG-MCMC methods, when preconditioned | moderate (experiment) | Table 1, three regression datasets |
 | C4 | It supports hyperparameter selection comparable to BBVI | weak | Fig. 3, one model, two datasets |
 
 ## Connections
 
-Superseded in content by the 2017 JMLR paper, LIT-tmpwzrx7, which this
+Superseded in content by the 2017 JMLR paper, [LIT-tmpwzrx7](../literature.d/LIT-tmpwzrx7.md), which this
 paper's arXiv record does not point to. Hennick and De Baerdemacker cite
 this version ("Mandt et al., 2016b") as the non-degenerate case
-(NOTE-tmp5vh75).
+([NOTE-tmp5vh75](NOTE-tmp5vh75.md)).
 
 ## Bearing on the record
 
-- **QUESTION-tmpiir0l.** The second row of the question's table cites this
+- **[QUESTION-tmpiir0l](../questions.d/QUESTION-tmpiir0l.md).** The second row of the question's table cites this
   paper with the 2017 one. That is accurate, with the scope of the 2017
   reading: stationary regime, quadratic loss, one basin. This paper says
   nothing about training's transient. It adds nothing to the question that
   the 2017 paper does not.
 - **No THEORY of its own.** Its results are filed once, with this paper as
-  a second source, in THEORY-tmp7gcht.
+  a second source, in [THEORY-tmp7gcht](../theory.d/THEORY-tmp7gcht.md).
 - **ML practice.** The same instructions as the 2017 paper; the LIT keeps
   `anthology-candidate`.
 
@@ -110,4 +110,4 @@ this version ("Mandt et al., 2016b") as the non-degenerate case
 
 ## Open questions
 
-None beyond those in NOTE-tmpiaa2o.
+None beyond those in [NOTE-tmpiaa2o](NOTE-tmpiaa2o.md).

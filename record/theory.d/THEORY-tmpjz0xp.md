@@ -18,8 +18,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpbnm77
 summary: >-
-  Hossain, Kousar and Tourni (2026), LIT-tmpbnm77, Tables 1, 2 and 5; read
-  in NOTE-tmpuemsh. Proposed: single training runs, Qwen3 only, the
+  Hossain, Kousar and Tourni (2026), [LIT-tmpbnm77](../literature.d/LIT-tmpbnm77.md), Tables 1, 2 and 5; read
+  in [NOTE-tmpuemsh](../notes.d/NOTE-tmpuemsh.md). Proposed: single training runs, Qwen3 only, the
   teacher's advantage measured at two of three scales, and a second
   candidate cause, per-entry clipping, left in every run. It does not
   show that the teacher's privileged knowledge is useless; it shows that
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Hossain, Kousar and Tourni (2026), LIT-tmpbnm77, §§3.2–5.3, Tables 1, 2,
-4–6, Figs. 2 and 5; read in NOTE-tmpuemsh.
+Hossain, Kousar and Tourni (2026), [LIT-tmpbnm77](../literature.d/LIT-tmpbnm77.md), §§3.2–5.3, Tables 1, 2,
+4–6, Figs. 2 and 5; read in [NOTE-tmpuemsh](../notes.d/NOTE-tmpuemsh.md).
 
 ## What was actually shown
 

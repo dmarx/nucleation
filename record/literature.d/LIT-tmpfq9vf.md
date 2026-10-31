@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-31 (NOTE-tmp3di1n; appendices skimmed); worth reading
+  read 2026-10-31 ([NOTE-tmp3di1n](../notes.d/NOTE-tmp3di1n.md); appendices skimmed); worth reading
   for the bounds a fixed driving places on every stationary state of
-  any reaction network (THEORY-tmph5hkv). The exchange's A13 also cited
+  any reaction network ([THEORY-tmph5hkv](../theory.d/THEORY-tmph5hkv.md)). The exchange's A13 also cited
   it for organizations that end when their driving is exhausted; the
-  paper's chemostats are fixed, and that point is LIT-tmpgm18n's.
+  paper's chemostats are fixed, and that point is [LIT-tmpgm18n](LIT-tmpgm18n.md)'s.
 title: 'Thermodynamic Space of Chemical Reaction Networks'
 version: 2
 history:
@@ -56,8 +56,8 @@ summary: >-
 
 Liang, S., De Los Rios, P., & Busiello, D. M. (2026). Thermodynamic space of chemical reaction networks. *Physical Review X*, 16, 041026.
 
-Read in NOTE-tmp3di1n.
+Read in [NOTE-tmp3di1n](../notes.d/NOTE-tmp3di1n.md).
 
 ## Why this is here
 
-A13 used it for the intersection of the dynamically viable region with what thermodynamic driving permits, and the paper supplies exactly that (THEORY-tmph5hkv): no stationary state, for any kinetics, lies outside a region set by topology and driving, and the region is a point at equilibrium. A13 also used it for "an organization endogenously maintained relative to its own organization can still have a finite lifetime because its driving is exhausted". The paper does not show that: its chemostats are fixed and it treats only stationary states. The finite-lifetime point is Remlein, Esposito and Avanzini's (LIT-tmpgm18n). For CASE-tmpwxags rewritten as chemistry, every fixed point lies between the floor set by the waste and the ceiling set by the fuel (NOTE-tmp3di1n).
+A13 used it for the intersection of the dynamically viable region with what thermodynamic driving permits, and the paper supplies exactly that ([THEORY-tmph5hkv](../theory.d/THEORY-tmph5hkv.md)): no stationary state, for any kinetics, lies outside a region set by topology and driving, and the region is a point at equilibrium. A13 also used it for "an organization endogenously maintained relative to its own organization can still have a finite lifetime because its driving is exhausted". The paper does not show that: its chemostats are fixed and it treats only stationary states. The finite-lifetime point is Remlein, Esposito and Avanzini's ([LIT-tmpgm18n](LIT-tmpgm18n.md)). For [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) rewritten as chemistry, every fixed point lies between the floor set by the waste and the ceiling set by the fuel ([NOTE-tmp3di1n](../notes.d/NOTE-tmp3di1n.md)).

@@ -11,11 +11,11 @@ source:
 - LIT-tmpj1wfs
 summary: >-
   From the definitions of Dal Cengio, Lecomte and Polettini (2023),
-  LIT-tmpw6f74 (NOTE-tmpif2g2), and Rao and Esposito (2016),
-  LIT-tmpj1wfs (NOTE-tmp3zcaf), neither of which says it in these words.
+  [LIT-tmpw6f74](../literature.d/LIT-tmpw6f74.md) ([NOTE-tmpif2g2](../notes.d/NOTE-tmpif2g2.md)), and Rao and Esposito (2016),
+  [LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md) ([NOTE-tmp3zcaf](../notes.d/NOTE-tmp3zcaf.md)), neither of which says it in these words.
   It makes exact A13's "a productive cycle need not be a stoichiometric
   cycle" from the exchange "Analyze nucleation concepts". Checked on a
-  reversible rewriting of CASE-tmpwxags's first construction. Active:
+  reversible rewriting of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s first construction. Active:
   definitional and checked. It does not say that catalytic cycles are
   thermodynamically idle. They decide which of the states the driving
   allows is reached, and bistability needs them; but the budget they
@@ -26,12 +26,12 @@ summary: >-
 
 ## Source
 
-Dal Cengio, Lecomte and Polettini (2023), LIT-tmpw6f74: the stoichiometric
+Dal Cengio, Lecomte and Polettini (2023), [LIT-tmpw6f74](../literature.d/LIT-tmpw6f74.md): the stoichiometric
 matrix of net changes S_ρ = ν^{−ρ} − ν^{+ρ} (eq. 5), cycles as ker S (§III A),
 the cycle affinity as the circulation c_α · A, independent of concentrations
-(eq. 30), and Gordan's alternative (footnote 6); read in NOTE-tmpif2g2. Rao
-and Esposito (2016), LIT-tmpj1wfs: ∇ = ∇⁻ − ∇⁺ (eq. 2), emergent cycles
-(eq. 20), local detailed balance (eq. 50); read in NOTE-tmp3zcaf.
+(eq. 30), and Gordan's alternative (footnote 6); read in [NOTE-tmpif2g2](../notes.d/NOTE-tmpif2g2.md). Rao
+and Esposito (2016), [LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md): ∇ = ∇⁻ − ∇⁺ (eq. 2), emergent cycles
+(eq. 20), local detailed balance (eq. 50); read in [NOTE-tmp3zcaf](../notes.d/NOTE-tmp3zcaf.md).
 
 ## What was actually shown
 
@@ -61,11 +61,11 @@ stoichiometry, or the affinity could have depended on it. It enters neither.
 
 - **That catalytic cycles do nothing thermodynamically.** They shape the
   rates, and so they decide where in the space the driving allows the
-  network sits (THEORY-tmph5hkv) and whether it is multistable. In the check
+  network sits ([THEORY-tmph5hkv](THEORY-tmph5hkv.md)) and whether it is multistable. In the check
   above, deleting either catalysed reaction, or making it uncatalysed,
   leaves a single fixed point. But the
   affinity available, and the cost of the steady state, are set by the
-  fuel-to-waste cycles alone (THEORY-tmplh6oa).
+  fuel-to-waste cycles alone ([THEORY-tmplh6oa](THEORY-tmplh6oa.md)).
 - **That production cycles and stoichiometric cycles never coincide.**
   Stoichiometric autocatalysis, X + S ⇌ 2X, puts the producer in the net
   stoichiometry. A cycle of such reactions does change S, and Dal Cengio et
@@ -73,7 +73,7 @@ stoichiometry, or the affinity could have depended on it. It enters neither.
   The claim is that a cycle of *catalytic* production, the form the
   record's constraint models take, has no stoichiometric counterpart.
 - **Anything about sheaf kernels**, the third kind of cycle A13 separated.
-- **That closure of constraints (TERM-070) is thermodynamically invisible
+- **That closure of constraints ([TERM-070](../terms.d/TERM-070.md)) is thermodynamically invisible
   in every sense.** It is invisible to the budget. Whether a closed set of
   constraints lowers the driving needed to sustain a state is a kinetic
   question this does not touch.

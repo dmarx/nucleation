@@ -127,10 +127,10 @@ t ≥ 1 draw fresh X_t, set Y_t = X_t β̂_{t−1}, refit.
 
 It contrasts itself with model collapse under recursive training with
 fresh label noise (Shumailov; Dohmatob et al.; Gerstgrasser et al.,
-LIT-971 and THEORY-289). There noise enters every round and error grows.
+[LIT-971](../literature.d/LIT-971.md) and [THEORY-289](../theory.d/THEORY-289.md)). There noise enters every round and error grows.
 Here noise enters once and is filtered out. It relates the mechanism to
 weak-to-strong generalization (Burns et al. 2024). Mobahi et al.
-(LIT-tmptkqrv) is the same loop on fixed inputs, where the loss comes
+([LIT-tmptkqrv](../literature.d/LIT-tmptkqrv.md)) is the same loop on fixed inputs, where the loss comes
 from the regularizer.
 
 ## Bearing on the record
@@ -140,25 +140,25 @@ from the regularizer.
   data-dependent subspaces" is exact: the projections are literal
   orthogonal projections, and the change of subspace each round is what
   drives the loss. It confirms A16's idempotence remark: with X_t reused,
-  the iterates stop changing after one round (THEORY-tmpp515i).
-- **CLAIM-tmpekkm7 (no change needed; an illustration).** Every student
+  the iterates stop changing after one round ([THEORY-tmpp515i](../theory.d/THEORY-tmpp515i.md)).
+- **[CLAIM-tmpekkm7](../claims.d/CLAIM-tmpekkm7.md) (no change needed; an illustration).** Every student
   here fits its teacher exactly on the contexts it was trained on, and
   differs from it everywhere else. The distillation loss on the sample is
   zero, yet risk under the deployment distribution first falls and then
   rises toward the null predictor. That is the claim's "fidelity measured
   in ordinary operation certifies nothing" in its sharpest form: a
   perfect student on the sampled contexts, with no guarantee off them.
-- **QUESTION-016.** A precise answer in one model. Iterated
+- **[QUESTION-016](../questions.d/QUESTION-016.md).** A precise answer in one model. Iterated
   reconstruction through fresh low-rank views preserves sufficiency for
   tasks carried by high-variance directions and destroys it for
   low-variance ones, at rates s_j/(s_j + τ) per round. In the limit it
   destroys it for every task.
-- **CLAIM-081 and CLAIM-270.** The chain forgets its ancestor β̂_0
+- **[CLAIM-081](../claims.d/CLAIM-081.md) and [CLAIM-270](../claims.d/CLAIM-270.md).** The chain forgets its ancestor β̂_0
   entirely, and that is first good and then bad for fidelity to the
   world β. The ancestor contains noise, and the first thing forgotten is
   the noise. "Forgetting the ancestor" and "losing fidelity to the
   source" separate here, and their difference is the U-shape.
-- **TERM-097.** Each round is perfect coherence between student and
+- **[TERM-097](../terms.d/TERM-097.md).** Each round is perfect coherence between student and
   teacher on the student's sample, while fidelity to β varies freely.
 - **An instruction for ML practice is present** (stop self-training at
   the iGCV minimum). That belongs to the Anthology of the SOTA; the LIT

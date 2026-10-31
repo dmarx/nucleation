@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-31 (NOTE-tmpbslp3), body and appendices, with the proofs
+  read 2026-10-31 ([NOTE-tmpbslp3](../notes.d/NOTE-tmpbslp3.md)), body and appendices, with the proofs
   skimmed; worth reading for an exact account of iterated
   reconstruction through fresh low-rank views, in which forgetting the
   ancestor first improves and then destroys fidelity to the world, and
   every student fits its teacher exactly on its own sample
-  (THEORY-tmpp515i).
+  ([THEORY-tmpp515i](../theory.d/THEORY-tmpp515i.md)).
 title: 'Why Self-Training Helps and Hurts: Denoising vs. Signal Forgetting'
 version: 2
 history:
@@ -57,8 +57,8 @@ summary: >-
 
 Wu, M., Yang, A. Y., & Sun, Q. (2026). Why self-training helps and hurts: Denoising vs. signal forgetting. arXiv:2602.14029.
 
-Read in NOTE-tmpbslp3.
+Read in [NOTE-tmpbslp3](../notes.d/NOTE-tmpbslp3.md).
 
 ## Why this is here
 
-With [LIT-tmptkqrv](LIT-tmptkqrv.md), A16's evidence that recursive reconstruction can lose as well as correct. It is the formal neighbour of [CLAIM-081](../claims.d/CLAIM-081.md) and [CLAIM-270](../claims.d/CLAIM-270.md) on forgetting the ancestor. The reading makes the neighbourhood precise. The chain forgets its ancestor entirely, and since the ancestor carries noise, forgetting it first improves fidelity to the source and then destroys it. A single projection repeated would change nothing; the loss comes from drawing a new one each round (THEORY-tmpp515i). Each student also fits its teacher exactly on its own sample while differing from it elsewhere, an illustration for CLAIM-tmpekkm7.
+With [LIT-tmptkqrv](LIT-tmptkqrv.md), A16's evidence that recursive reconstruction can lose as well as correct. It is the formal neighbour of [CLAIM-081](../claims.d/CLAIM-081.md) and [CLAIM-270](../claims.d/CLAIM-270.md) on forgetting the ancestor. The reading makes the neighbourhood precise. The chain forgets its ancestor entirely, and since the ancestor carries noise, forgetting it first improves fidelity to the source and then destroys it. A single projection repeated would change nothing; the loss comes from drawing a new one each round ([THEORY-tmpp515i](../theory.d/THEORY-tmpp515i.md)). Each student also fits its teacher exactly on its own sample while differing from it elsewhere, an illustration for [CLAIM-tmpekkm7](../claims.d/CLAIM-tmpekkm7.md).

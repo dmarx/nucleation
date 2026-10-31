@@ -127,7 +127,7 @@ reservoirs are held.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | Each chemostatted species breaks a conservation law or creates an emergent cycle, |S_y| = |λ_b| + |ε| | strong | rank–nullity, p. 5; checked on Example 5 and on my rewriting of CASE-tmpwxags |
+| C1 | Each chemostatted species breaks a conservation law or creates an emergent cycle, |S_y| = |λ_b| + |ε| | strong | rank–nullity, p. 5; checked on Example 5 and on my rewriting of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) |
 | C2 | A network with one chemostat, or with all emergent affinities zero, relaxes to a unique equilibrium | strong | Example 6; Wegscheider and cited global stability |
 | C3 | Steady-state dissipation is Σ_ε J_ε A_ε | strong | eqs. 60–61; checked numerically |
 | C4 | The irreversible chemical work to reach a nonequilibrium distribution is at least RT times a relative entropy | strong | eqs. 78–83, derived |
@@ -140,7 +140,7 @@ reservoirs are held.
   "via external reactions ... or via abundant species whose concentrations
   are negligibly affected by the CRN reactions within relevant time scales"
   (p. 3). The second reading is what Remlein, Esposito and Avanzini later
-  derive (LIT-tmpgm18n, NOTE-tmp658wp).
+  derive ([LIT-tmpgm18n](../literature.d/LIT-tmpgm18n.md), [NOTE-tmp658wp](NOTE-tmp658wp.md)).
 - **Emergent cycle** — a reaction combination leaving the internal species
   unchanged and moving chemicals between chemostats (eq. 20); its affinity
   A_ε (eq. 49) is the external force.
@@ -153,22 +153,22 @@ reservoirs are held.
 
 The cycle and conservation-law bookkeeping is Polettini and Esposito 2014
 (their ref. 56), not held here. Its geometry for hypergraphs is Dal Cengio,
-Lecomte and Polettini (LIT-tmpw6f74, NOTE-tmpif2g2); its bounds on what a
-given driving can sustain are Liang, De Los Rios and Busiello (LIT-tmpfq9vf,
-NOTE-tmp3di1n); the derivation of chemostats inside closed systems is
-LIT-tmpgm18n (NOTE-tmp658wp). The stochastic precursor is Seifert's review,
-LIT-523, read in NOTE-420; Prigogine's linear-regime thermodynamics, which
-the paper "embeds", is THEORY-692. Vellela and Qian (LIT-tmpkp8vh) and
-Barato and Seifert (LIT-tmpejle0), registered from the same exchange, are its
+Lecomte and Polettini ([LIT-tmpw6f74](../literature.d/LIT-tmpw6f74.md), [NOTE-tmpif2g2](NOTE-tmpif2g2.md)); its bounds on what a
+given driving can sustain are Liang, De Los Rios and Busiello ([LIT-tmpfq9vf](../literature.d/LIT-tmpfq9vf.md),
+[NOTE-tmp3di1n](NOTE-tmp3di1n.md)); the derivation of chemostats inside closed systems is
+[LIT-tmpgm18n](../literature.d/LIT-tmpgm18n.md) ([NOTE-tmp658wp](NOTE-tmp658wp.md)). The stochastic precursor is Seifert's review,
+[LIT-523](../literature.d/LIT-523.md), read in [NOTE-420](NOTE-420.md); Prigogine's linear-regime thermodynamics, which
+the paper "embeds", is [THEORY-692](../theory.d/THEORY-692.md). Vellela and Qian ([LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md)) and
+Barato and Seifert ([LIT-tmpejle0](../literature.d/LIT-tmpejle0.md)), registered from the same exchange, are its
 neighbours.
 
 ## Bearing on the record
 
 - **A13's line "positive production term ⇏ physically realizable maintenance
-  mechanism" is right, and the paper makes it exact** (THEORY-tmplh6oa). A
+  mechanism" is right, and the paper makes it exact** ([THEORY-tmplh6oa](../theory.d/THEORY-tmplh6oa.md)). A
   production term is admissible only as a reversible elementary reaction,
   and sustained turnover needs an emergent cycle with nonzero affinity. I
-  rewrote CASE-tmpwxags's first construction that way: fuel S and waste W
+  rewrote [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s first construction that way: fuel S and waste W
   chemostatted, c₂ catalysing S + 2c₂ ⇌ c₁ + 2c₂, c₁ catalysing the
   mirror reaction, and decay c_i ⇌ W, all rate constants 1, [S] = 3. The
   network has two chemostats, one broken conservation law, one emergent cycle
@@ -182,7 +182,7 @@ neighbours.
   J_ε A_ε agree to five figures. So in this rewriting the case's maintained
   organization, with its extinct alternative, exists only above a finite
   fuel-to-waste affinity, and it costs that dissipation per unit time.
-- **CLAIM-tmpczfpk: its hypothesis is an infinite-affinity limit.** Local
+- **[CLAIM-tmpczfpk](../claims.d/CLAIM-tmpczfpk.md): its hypothesis is an infinite-affinity limit.** Local
   detailed balance makes decay reversible, c ⇌ W. With any waste present the
   back reaction is a basal production d′[W] > 0, which the claim excludes.
   Capacities in an acyclic production graph then relax to the level set by
@@ -190,9 +190,9 @@ neighbours.
   What changes is its physical reading: "extinction" means relaxation to
   equilibrium with the waste, and the hypothesis holds only to the extent
   that waste is removed or its back reaction negligible. The claim's
-  production graph is also not a stoichiometric object (THEORY-tmp05y8u).
-- **THEORY-692: a far-from-equilibrium exception, and a topological
-  necessary condition.** THEORY-692 follows Cross and Hohenberg in saying no
+  production graph is also not a stoichiometric object ([THEORY-tmp05y8u](../theory.d/THEORY-tmp05y8u.md)).
+- **[THEORY-692](../theory.d/THEORY-692.md): a far-from-equilibrium exception, and a topological
+  necessary condition.** [THEORY-692](../theory.d/THEORY-692.md) follows Cross and Hohenberg in saying no
   Lyapunov potential exists in general "though there are notable
   exceptions". Complex-balanced networks are one: however hard they are
   driven, L(Z|Z̄) is a Lyapunov function and the steady state is unique and
@@ -201,19 +201,19 @@ neighbours.
   under its driving, and in particular one of nonzero deficiency, since
   deficiency zero forces complex balance (App. D). That is a topological
   sharpening of Prigogine's "autocatalytic steps are necessary but not
-  sufficient". It should be added to THEORY-692's connections.
-- **CLAIM-273: what a thermodynamic quantity would need.** CLAIM-273 says
+  sufficient". It should be added to [THEORY-692](../theory.d/THEORY-692.md)'s connections.
+- **[CLAIM-273](../claims.d/CLAIM-273.md): what a thermodynamic quantity would need.** [CLAIM-273](../claims.d/CLAIM-273.md) says
   no thermodynamic quantity is defined for r/place. This paper shows what
   defining one takes in chemistry: a stoichiometry, local detailed balance
   tying rates to free energies, and reservoirs. A canvas has none of the
   three, so the claim's restriction to the structural sense stands.
-- **TERM-070.** In Montévil and Mossio's closure the paradigm constraint is
+- **[TERM-070](../terms.d/TERM-070.md).** In Montévil and Mossio's closure the paradigm constraint is
   an enzyme: it acts on a process without being consumed by it. A catalyst
   cancels from the net stoichiometric matrix (eq. 2), so the thermodynamic
   account here does not see closure at all. It sees only which fuel-to-waste
   cycles the network runs. Closure is a kinetic and organizational property
   layered on a thermodynamic budget that is indifferent to it
-  (THEORY-tmp05y8u).
+  ([THEORY-tmp05y8u](../theory.d/THEORY-tmp05y8u.md)).
 - **No instruction for machine-learning practice.**
 
 ## Limitations
@@ -223,7 +223,7 @@ neighbours.
 - **Elementary reversible reactions only.** Michaelis–Menten, Hill and other
   effective rate laws, the forms the record's toy models use, are not
   covered without being resolved into elementary steps.
-- **Chemostats are postulated.** Where they come from is LIT-tmpgm18n.
+- **Chemostats are postulated.** Where they come from is [LIT-tmpgm18n](../literature.d/LIT-tmpgm18n.md).
 - **Nothing on multistability, oscillation or selection.** Beyond the
   global stability of detailed- and complex-balanced networks, the paper is
   silent on what a driven network does.
@@ -235,7 +235,7 @@ neighbours.
 - For the class of production models the record uses, what is the least
   emergent affinity at which a bistable maintained state exists? For the
   rewriting above it is 3.52 RT; a general bound would come from
-  Liang et al.'s thermodynamic space (NOTE-tmp3di1n) combined with
+  Liang et al.'s thermodynamic space ([NOTE-tmp3di1n](NOTE-tmp3di1n.md)) combined with
   deficiency theory.
 - Does the nonequilibrium Landauer bound (eq. 83) give a lower bound on the
   cost of maintaining an organization against a given damage rate?

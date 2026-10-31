@@ -21,8 +21,8 @@ date: '2026-10-31'
 source:
 - LIT-tmpogi33
 summary: >-
-  Chen, Lau, Mendel, Wei and Murfet (2023), LIT-tmpogi33, read in
-  NOTE-tmp1z319. Their Bayesian antecedent hypothesis is one-way: training's
+  Chen, Lau, Mendel, Wei and Murfet (2023), [LIT-tmpogi33](../literature.d/LIT-tmpogi33.md), read in
+  [NOTE-tmp1z319](../notes.d/NOTE-tmp1z319.md). Their Bayesian antecedent hypothesis is one-way: training's
   transitions have Bayesian counterparts. From their numbers the
   antecedents of the chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ fall at n ≈ 190, 370 and
   1,600–2,500, rising with training. But the posterior's transition 5 → 6
@@ -36,13 +36,13 @@ summary: >-
 
 ## Source
 
-Chen, Lau, Mendel, Wei and Murfet (2023), LIT-tmpogi33, §§4–5 and
-Appendices C, D, F and K of arXiv 2310.06301v1; read in NOTE-tmp1z319.
+Chen, Lau, Mendel, Wei and Murfet (2023), [LIT-tmpogi33](../literature.d/LIT-tmpogi33.md), §§4–5 and
+Appendices C, D, F and K of arXiv 2310.06301v1; read in [NOTE-tmp1z319](../notes.d/NOTE-tmp1z319.md).
 
 ## What was actually shown
 
 **The setting.** TMS with r = 2 hidden and c = 6 input dimensions in the
-high-sparsity limit (LIT-323). Phases are regions dominated by k-gon
+high-sparsity limit ([LIT-323](../literature.d/LIT-323.md)). Phases are regions dominated by k-gon
 critical points. The local free energy is F_n(W_α) ≈ nL_α + λ_α log n + c_α,
 and a Bayesian transition α → β happens where the two cross (Eq. 12).
 

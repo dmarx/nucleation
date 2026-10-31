@@ -20,8 +20,8 @@ date: '2026-10-31'
 source:
 - LIT-tmp107c0
 summary: >-
-  Hennick and De Baerdemacker (2025; ICLR 2026), LIT-tmp107c0, read in
-  NOTE-tmp5vh75. Late-training displacement fits R(t) ∝ t^α with α below ½
+  Hennick and De Baerdemacker (2025; ICLR 2026), [LIT-tmp107c0](../literature.d/LIT-tmp107c0.md), read in
+  [NOTE-tmp5vh75](../notes.d/NOTE-tmp5vh75.md). Late-training displacement fits R(t) ∝ t^α with α below ½
   on MNIST MLPs, TinyStories models and ImageNet convnets fine-tuned with
   SGD, read through the Alexander–Orbach relation as α = d_s/(2λ) with
   d_s ≤ λ. Proposed: d_s is obtained by fitting that same relation, so the
@@ -34,9 +34,9 @@ summary: >-
 
 ## Source
 
-Hennick and De Baerdemacker (2025), LIT-tmp107c0, §§3.1–3.3, §4.1
+Hennick and De Baerdemacker (2025), [LIT-tmp107c0](../literature.d/LIT-tmp107c0.md), §§3.1–3.3, §4.1
 (Table 1, Fig. 2), Appendices B, D.3, H–J of arXiv 2503.22478v2; read in
-NOTE-tmp5vh75.
+[NOTE-tmp5vh75](../notes.d/NOTE-tmp5vh75.md).
 
 ## What was actually shown
 
@@ -69,7 +69,7 @@ faster late in training. In these runs it grew more slowly.
   the paper notes for the LLC estimator (App. H).
 - **That it holds at ordinary learning rates.** The language models ran
   at 10⁻⁵, the vision models' SGD phase at 10⁻⁵ after Adam, MNIST at 10⁻³.
-  Kunin et al. (THEORY-209) find super-diffusive drift in resumed ImageNet
+  Kunin et al. ([THEORY-209](THEORY-209.md)) find super-diffusive drift in resumed ImageNet
   training at the original schedule, explained by damping in a quadratic
   model.
 - **That the vision fits mean much.** With α ≈ 0.001–0.004 the

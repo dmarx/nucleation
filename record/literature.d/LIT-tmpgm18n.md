@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-31 (NOTE-tmp658wp; appendices skimmed); worth reading as
+  read 2026-10-31 ([NOTE-tmp658wp](../notes.d/NOTE-tmp658wp.md); appendices skimmed); worth reading as
   the derivation of chemostats inside closed systems, with a lifetime:
   open behaviour needs both time-scale and abundance separation and
-  lasts a time of order the abundance ratio (THEORY-tmp1nk6k). It, not
-  LIT-tmpfq9vf, supports A13's point that maintained organizations end
+  lasts a time of order the abundance ratio ([THEORY-tmp1nk6k](../theory.d/THEORY-tmp1nk6k.md)). It, not
+  [LIT-tmpfq9vf](LIT-tmpfq9vf.md), supports A13's point that maintained organizations end
   when their driving is exhausted.
 title: 'Emergence of Open Chemical Reaction Network Thermodynamics within Closed Systems'
 version: 2
@@ -57,8 +57,8 @@ summary: >-
 
 Remlein, B., Esposito, M., & Avanzini, F. (2026). Emergence of open chemical reaction network thermodynamics within closed systems. *Physical Review X*. arXiv:2604.14848.
 
-Read in NOTE-tmp658wp.
+Read in [NOTE-tmp658wp](../notes.d/NOTE-tmp658wp.md).
 
 ## Why this is here
 
-A13 cited it for the point that an "external" driving reservoir is a matter of where the boundary and the time scales are drawn. That is CLAIM-478's scale separation making constraints, in chemistry, and the reading bears it out (THEORY-tmp1nk6k), with two sharpenings for the claim: the constraint needs abundance separation as well as rate separation, and its window has three time scales, its upper end set by the reservoir's capacity. It is also the paper that supports A13's finite-lifetime point, which the registration attributed to LIT-tmpfq9vf: an organization maintained by a finite reservoir is maintained for a time of order the reservoir's abundance over its draw, which bears on what "endogenously maintained" can mean in CASE-tmpwxags.
+A13 cited it for the point that an "external" driving reservoir is a matter of where the boundary and the time scales are drawn. That is [CLAIM-478](../claims.d/CLAIM-478.md)'s scale separation making constraints, in chemistry, and the reading bears it out ([THEORY-tmp1nk6k](../theory.d/THEORY-tmp1nk6k.md)), with two sharpenings for the claim: the constraint needs abundance separation as well as rate separation, and its window has three time scales, its upper end set by the reservoir's capacity. It is also the paper that supports A13's finite-lifetime point, which the registration attributed to [LIT-tmpfq9vf](LIT-tmpfq9vf.md): an organization maintained by a finite reservoir is maintained for a time of order the reservoir's abundance over its draw, which bears on what "endogenously maintained" can mean in [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md).

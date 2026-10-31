@@ -8,11 +8,11 @@ date: '2026-10-31'
 source:
 - LIT-tmpfq9vf
 summary: >-
-  Liang, De Los Rios and Busiello (2024; PRX 2026), LIT-tmpfq9vf, read in
-  NOTE-tmp3di1n: eqs. 20, 24 and 29, proved for arbitrary stoichiometry
+  Liang, De Los Rios and Busiello (2024; PRX 2026), [LIT-tmpfq9vf](../literature.d/LIT-tmpfq9vf.md), read in
+  [NOTE-tmp3di1n](../notes.d/NOTE-tmp3di1n.md): eqs. 20, 24 and 29, proved for arbitrary stoichiometry
   from local detailed balance and the conformal decomposition of steady
   fluxes into elementary flux modes. Checked on the paper's Schlögl
-  parameters and on a reversible rewriting of CASE-tmpwxags. Active. It
+  parameters and on a reversible rewriting of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md). Active. It
   bounds where a stationary state can be, for every choice of kinetics;
   it does not say which state is reached, whether it is stable, or how
   long the driving lasts.
@@ -23,9 +23,9 @@ summary: >-
 
 ## Source
 
-Liang, De Los Rios and Busiello (2024; PRX 16, 041026, 2026), LIT-tmpfq9vf,
+Liang, De Los Rios and Busiello (2024; PRX 16, 041026, 2026), [LIT-tmpfq9vf](../literature.d/LIT-tmpfq9vf.md),
 §IV, eqs. 15–29, and §V, pp. 7–17 of arXiv 2407.11498v4; read in
-NOTE-tmp3di1n.
+[NOTE-tmp3di1n](../notes.d/NOTE-tmp3di1n.md).
 
 ## What was actually shown
 
@@ -48,7 +48,7 @@ the space is a point.
 b = 0.02 and a = 0.8 has fixed points 0.0234, 0.1787 and 0.5979, all in the
 bound [0.02, 0.8] of eq. 36. At a = 0.5 and 0.3 there is one fixed point,
 inside; at a = b the bound and the fixed point are both 0.02. In a
-reversible rewriting of CASE-tmpwxags's first construction, every fixed
+reversible rewriting of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s first construction, every fixed
 point lies in [(d′/d)[W], (k/k′)[S]] for each [W] tried.
 
 **What could have failed.** A stationary state could have lain outside the
@@ -60,16 +60,16 @@ simulations and my two checks find none.
 
 - **Which state is occupied.** The bounds are attained only when one
   pathway dominates kinetically, a time-scale-separation limit; otherwise the
-  state is interior and set by kinetics. This is THEORY-692's "thermodynamics
+  state is interior and set by kinetics. This is [THEORY-692](THEORY-692.md)'s "thermodynamics
   supplies ... not a principle selecting which structure appears", made
   quantitative. It neither supports nor refutes maximum entropy production
-  (THEORY-671).
+  ([THEORY-671](THEORY-671.md)).
 - **How much driving multistability needs.** The space has positive width
   for any positive driving; a particular network may need much more. The
-  rewriting of CASE-tmpwxags is monostable below 3.52 RT (THEORY-tmplh6oa).
+  rewriting of [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) is monostable below 3.52 RT ([THEORY-tmplh6oa](THEORY-tmplh6oa.md)).
 - **Anything about oscillations or transients.** The authors exclude
   persistent oscillations.
 - **That an organization's lifetime is bounded by its driving.** The
   chemostats are fixed. A13 of the exchange "Analyze nucleation concepts"
-  cited this paper for that point; it belongs to LIT-tmpgm18n
-  (THEORY-tmp1nk6k).
+  cited this paper for that point; it belongs to [LIT-tmpgm18n](../literature.d/LIT-tmpgm18n.md)
+  ([THEORY-tmp1nk6k](THEORY-tmp1nk6k.md)).

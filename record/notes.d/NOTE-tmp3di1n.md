@@ -140,12 +140,12 @@ point in it.
 
 ## Connections
 
-It uses the open-network framework of Rao and Esposito (LIT-tmpj1wfs,
-NOTE-tmp3zcaf), whose emergent cycles are its driven EFMs, and the
-hypergraph cycle geometry of Dal Cengio et al. (LIT-tmpw6f74,
-NOTE-tmpif2g2). It generalises Maes and Netočný's bound for linear networks
+It uses the open-network framework of Rao and Esposito ([LIT-tmpj1wfs](../literature.d/LIT-tmpj1wfs.md),
+[NOTE-tmp3zcaf](NOTE-tmp3zcaf.md)), whose emergent cycles are its driven EFMs, and the
+hypergraph cycle geometry of Dal Cengio et al. ([LIT-tmpw6f74](../literature.d/LIT-tmpw6f74.md),
+[NOTE-tmpif2g2](NOTE-tmpif2g2.md)). It generalises Maes and Netočný's bound for linear networks
 and Liang and Pigolotti's flux-ratio bound (eq. 33). Prigogine's question,
-which structure appears, is THEORY-692's; this paper bounds where any can
+which structure appears, is [THEORY-692](../theory.d/THEORY-692.md)'s; this paper bounds where any can
 appear and does not choose.
 
 ## Bearing on the record
@@ -153,13 +153,13 @@ appear and does not choose.
 - **A13's use of it: half right, and the other half belongs to another
   paper.** The registration says A13 used it for "the intersection of the
   dynamically viable region with what thermodynamic driving permits". That
-  is what the paper gives (THEORY-tmph5hkv). A13 also used it for "an
+  is what the paper gives ([THEORY-tmph5hkv](../theory.d/THEORY-tmph5hkv.md)). A13 also used it for "an
   organization ... can still have a finite lifetime because its driving is
   exhausted". The paper says nothing of that: its chemostats are fixed and
   its states stationary. Exhaustion of driving, and the time at which it
-  happens, is Remlein, Esposito and Avanzini (LIT-tmpgm18n, NOTE-tmp658wp).
+  happens, is Remlein, Esposito and Avanzini ([LIT-tmpgm18n](../literature.d/LIT-tmpgm18n.md), [NOTE-tmp658wp](NOTE-tmp658wp.md)).
   The LIT's "Why this is here" should say so.
-- **CASE-tmpwxags, rewritten.** The probe ∅ → c₁ has two pathways, from
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md), rewritten.** The probe ∅ → c₁ has two pathways, from
   fuel through the catalysed reaction and from waste through reversed decay.
   So (d′/d)[W] ≤ c₁ ≤ (k/k′)[S]. In my rewriting ([S] = 3, unit rates) every
   fixed point, stable or not, lies in [[W], 3] for [W] = 0.01, 0.08 and 1. The
@@ -167,14 +167,14 @@ appear and does not choose.
   maintained state's ceiling, set by the fuel. The space is empty of width
   when [W] = 3, which is why the rewriting has a single equilibrium there.
   The construction's bistability needs a width it does not have below
-  3.52 RT (NOTE-tmp3zcaf).
-- **CLAIM-273 and THEORY-692.** The paper makes concrete THEORY-692's point
+  3.52 RT ([NOTE-tmp3zcaf](NOTE-tmp3zcaf.md)).
+- **[CLAIM-273](../claims.d/CLAIM-273.md) and [THEORY-692](../theory.d/THEORY-692.md).** The paper makes concrete [THEORY-692](../theory.d/THEORY-692.md)'s point
   that thermodynamics bounds and does not select. Driving fixes a region;
   which state in it is occupied is "kinetically dominated" (p. 3). It is no
-  support for maximum entropy production (THEORY-671) or for driven
-  adaptation (THEORY-412) as selection principles, and no evidence against
+  support for maximum entropy production ([THEORY-671](../theory.d/THEORY-671.md)) or for driven
+  adaptation ([THEORY-412](../theory.d/THEORY-412.md)) as selection principles, and no evidence against
   them.
-- **CLAIM-478.** The bounds are attained in time-scale-separation limits:
+- **[CLAIM-478](../claims.d/CLAIM-478.md).** The bounds are attained in time-scale-separation limits:
   the Schlögl upper bound when reaction 1 is much faster than reaction 2
   (p. 13), the chiral bound as dimerisation becomes fast (eq. 40). A fast
   pathway reaches pseudo-equilibrium and fixes the concentrations the slow
@@ -197,6 +197,6 @@ appear and does not choose.
 
 - Is there a lower bound on the driving needed for multistability in a
   given topology, as distinct from the space in which it must lie? The
-  rewriting in NOTE-tmp3zcaf needs 3.52 RT; the space alone gives only
+  rewriting in [NOTE-tmp3zcaf](NOTE-tmp3zcaf.md) needs 3.52 RT; the space alone gives only
   "more than zero".
-- What becomes of the space when the chemostats deplete (LIT-tmpgm18n)?
+- What becomes of the space when the chemostats deplete ([LIT-tmpgm18n](../literature.d/LIT-tmpgm18n.md))?

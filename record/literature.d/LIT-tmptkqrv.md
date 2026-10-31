@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-31 (NOTE-tmptrip0), body and appendices, with the
+  read 2026-10-31 ([NOTE-tmptrip0](../notes.d/NOTE-tmptrip0.md)), body and appendices, with the
   proofs of Appendix C skimmed; worth reading as the clean case of
   iterated self-distillation losing everything through the regularizer
-  alone, on the same inputs with nothing withheld (THEORY-tmp33nos).
+  alone, on the same inputs with nothing withheld ([THEORY-tmp33nos](../theory.d/THEORY-tmp33nos.md)).
 title: 'Self-Distillation Amplifies Regularization in Hilbert Space'
 version: 2
 history:
@@ -55,8 +55,8 @@ summary: >-
 
 Mobahi, H., Farajtabar, M., & Bartlett, P. L. (2020). Self-distillation amplifies regularization in Hilbert space. arXiv:2002.05715.
 
-Read in NOTE-tmptrip0.
+Read in [NOTE-tmptrip0](../notes.d/NOTE-tmptrip0.md).
 
 ## Why this is here
 
-A16's example that iterated self-distillation changes what is preserved round by round: inheritance by repeated projection is not neutral copying. Bears on [CLAIM-090](../claims.d/CLAIM-090.md) (serial transmission is reconstructive) and [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md). The reading sharpens one word. The round operator here is a shrinkage, not a projection, and nothing is withheld from the student: same inputs, the teacher's exact outputs. The loss is the inheritor's own inductive bias applied again. That is the "regularization" item on A16's list of what makes iterated inheritance degrade, isolated from the others (THEORY-tmp33nos).
+A16's example that iterated self-distillation changes what is preserved round by round: inheritance by repeated projection is not neutral copying. Bears on [CLAIM-090](../claims.d/CLAIM-090.md) (serial transmission is reconstructive) and [QUESTION-tmp4b001](../questions.d/QUESTION-tmp4b001.md). The reading sharpens one word. The round operator here is a shrinkage, not a projection, and nothing is withheld from the student: same inputs, the teacher's exact outputs. The loss is the inheritor's own inductive bias applied again. That is the "regularization" item on A16's list of what makes iterated inheritance degrade, isolated from the others ([THEORY-tmp33nos](../theory.d/THEORY-tmp33nos.md)).

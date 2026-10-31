@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmph1our); every result reappears in the
-  2017 JMLR paper (LIT-tmpwzrx7), which is the one to cite. Worth keeping
+  read in full 2026-10-31 ([NOTE-tmph1our](../notes.d/NOTE-tmph1our.md)); every result reappears in the
+  2017 JMLR paper ([LIT-tmpwzrx7](LIT-tmpwzrx7.md)), which is the one to cite. Worth keeping
   as the first statement and as the version Hennick and De Baerdemacker
   cite.
 title: 'A Variational Analysis of Stochastic Gradient Algorithms'
@@ -53,8 +53,8 @@ summary: >-
 
 Mandt, S., Hoffman, M. D., & Blei, D. M. (2016). A variational analysis of stochastic gradient algorithms. *Proceedings of ICML 2016*, 354–363.
 
-Read in full in NOTE-tmph1our.
+Read in full in [NOTE-tmph1our](../notes.d/NOTE-tmph1our.md).
 
 ## Why this is here
 
-Named in A4 as the precursor of Mandt, Hoffman and Blei 2017 (LIT-tmpwzrx7). Registered so that the two are read together; the later paper is the one to read first. The reading confirms that this one adds nothing the later one lacks, and that its scope is the same: the stationary regime of a regular model near one optimum.
+Named in A4 as the precursor of Mandt, Hoffman and Blei 2017 ([LIT-tmpwzrx7](LIT-tmpwzrx7.md)). Registered so that the two are read together; the later paper is the one to read first. The reading confirms that this one adds nothing the later one lacks, and that its scope is the same: the stationary regime of a regular model near one optimum.
