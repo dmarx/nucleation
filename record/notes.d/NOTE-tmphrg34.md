@@ -192,16 +192,16 @@ disagree when t → ∞ is taken first (Keizer's paradox, §3.4, appendix A).
 
 - Hänggi et al. 1984 and Hinch & Chapman 2005 for the rates (cited);
   Keizer 1979; Horsthemke et al. 1977 on the Fokker–Planck failure.
-- Falasco & Esposito's review (LIT-tmpm46ks, §VII.A.1) redoes this model in
+- Falasco & Esposito's review ([LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), §VII.A.1) redoes this model in
   the language of quasi-potentials and cites this paper for the two-state
   reduction and the diffusion failure; its eq. (243) is the closed form of
   this paper's u(x) with the opposite sign.
-- Langer's decay of metastable states (LIT-1664, unread) is the
+- Langer's decay of metastable states ([LIT-1664](../literature.d/LIT-1664.md), unread) is the
   equilibrium-nucleation counterpart.
 
 ## Bearing on the record
 
-- **CASE-tmpwxags and CASE-111: what a fold becomes at finite size.** Both
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) and [CASE-111](../cases.d/CASE-111.md): what a fold becomes at finite size.** Both
   cases are deterministic, and in both a maintained regime "ends" at a
   saddle-node. This paper shows the stochastic reading of such a regime:
   it is a metastable state with a lifetime exponential in system size,
@@ -212,14 +212,14 @@ disagree when t → ∞ is taken first (Keizer's paradox, §3.4, appendix A).
   V → ∞ statement. Also: the cases use irreversible production and decay,
   which have no defined entropy production; a thermodynamic reading of
   them needs reverse reactions, as this paper's ΔG does.
-- **THEORY-671 (maximum entropy production selects the steady state):
+- **[THEORY-671](../theory.d/THEORY-671.md) (maximum entropy production selects the steady state):
   a counterexample.** The more stable Schlögl state can carry either the
-  higher or the lower entropy production (THEORY-tmpshz26).
-- **QUESTION-281's nucleation route**: a worked chemical example of
+  higher or the lower entropy production ([THEORY-tmpshz26](../theory.d/THEORY-tmpshz26.md)).
+- **[QUESTION-281](../questions.d/QUESTION-281.md)'s nucleation route**: a worked chemical example of
   passage across a finite barrier from a locally stable state, with the
   waiting time computed.
-- Produces THEORY-tmpwystk, THEORY-tmpshz26 and, with the review,
-  THEORY-tmpkze5s.
+- Produces [THEORY-tmpwystk](../theory.d/THEORY-tmpwystk.md), [THEORY-tmpshz26](../theory.d/THEORY-tmpshz26.md) and, with the review,
+  [THEORY-tmpkze5s](../theory.d/THEORY-tmpkze5s.md).
 
 ## Limitations
 

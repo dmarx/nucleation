@@ -10,9 +10,9 @@ source:
 - LIT-tmpm46ks
 - LIT-tmpkp8vh
 summary: >-
-  Falasco & Esposito (2025), LIT-tmpm46ks, §IV.D–E and §VII.A.1, read in
-  NOTE-tmpf1zx4; Vellela & Qian (2009), LIT-tmpkp8vh, appendix A, read in
-  NOTE-tmphrg34. Active: both formulas were checked on the Schlögl model,
+  Falasco & Esposito (2025), [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), §IV.D–E and §VII.A.1, read in
+  [NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md); Vellela & Qian (2009), [LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md), appendix A, read in
+  [NOTE-tmphrg34](../notes.d/NOTE-tmphrg34.md). Active: both formulas were checked on the Schlögl model,
   including Vellela & Qian's counterexample, where the exact and
   diffusion quasi-potentials favour different states. It does not say
   diffusion approximations fail near fixed points or for Gaussian
@@ -23,10 +23,10 @@ summary: >-
 
 ## Source
 
-Falasco & Esposito (2025), LIT-tmpm46ks, §IV.D (eqs. 132–138), §IV.E
-(eqs. 139–146), §VII.A.1 (eqs. 243–244, Fig. 4), read in NOTE-tmpf1zx4.
-Vellela & Qian (2009), LIT-tmpkp8vh, appendix A (eqs. A1–A11) and footnote
-5, read in NOTE-tmphrg34.
+Falasco & Esposito (2025), [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), §IV.D (eqs. 132–138), §IV.E
+(eqs. 139–146), §VII.A.1 (eqs. 243–244, Fig. 4), read in [NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md).
+Vellela & Qian (2009), [LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md), appendix A (eqs. A1–A11) and footnote
+5, read in [NOTE-tmphrg34](../notes.d/NOTE-tmphrg34.md).
 
 ## What was actually shown
 

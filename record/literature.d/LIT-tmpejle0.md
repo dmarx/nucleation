@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmpxh170); worth reading as the letter that
+  read in full 2026-10-31 ([NOTE-tmpxh170](../notes.d/NOTE-tmpxh170.md)); worth reading as the letter that
   named the thermodynamic uncertainty relation: a current counted in a
   steady state with relative uncertainty ε costs at least 2k_BT/ε² of
   dissipation, proved within linear response and for single-cycle
   networks, conjectured with numerical support for many-cycle ones
-  (THEORY-tmpnaoak). It bounds the precision of currents, not of
+  ([THEORY-tmpnaoak](../theory.d/THEORY-tmpnaoak.md)). It bounds the precision of currents, not of
   occupations.
 title: 'Thermodynamic Uncertainty Relation for Biomolecular Processes'
 version: 2
@@ -60,8 +60,8 @@ summary: >-
 
 Barato, A. C., & Seifert, U. (2015). Thermodynamic uncertainty relation for biomolecular processes. *Physical Review Letters*, 114, 158101.
 
-Read in full in NOTE-tmpxh170.
+Read in full in [NOTE-tmpxh170](../notes.d/NOTE-tmpxh170.md).
 
 ## Why this is here
 
-A13 §6 cited it as tying the resource cost of maintenance to its precision. Read with Seifert's review (LIT-523). The reading narrows that: the relation prices the precision of a current, such as a production flux counted over time, and the authors set occupation observables aside explicitly. It does not price how reliably, or for how long, a maintained state is held; that is the escape-rate question of THEORY-tmpjzj2n. Applied to a construction like CASE-tmpwxags it bites only once every production step is reversible.
+A13 §6 cited it as tying the resource cost of maintenance to its precision. Read with Seifert's review ([LIT-523](LIT-523.md)). The reading narrows that: the relation prices the precision of a current, such as a production flux counted over time, and the authors set occupation observables aside explicitly. It does not price how reliably, or for how long, a maintained state is held; that is the escape-rate question of [THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md). Applied to a construction like [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) it bites only once every production step is reversible.

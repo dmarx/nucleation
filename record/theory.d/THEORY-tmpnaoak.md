@@ -9,7 +9,7 @@ date: '2026-10-31'
 source:
 - LIT-tmpejle0
 summary: >-
-  Barato & Seifert (2015), LIT-tmpejle0, read in full in NOTE-tmpxh170.
+  Barato & Seifert (2015), [LIT-tmpejle0](../literature.d/LIT-tmpejle0.md), read in full in [NOTE-tmpxh170](../notes.d/NOTE-tmpxh170.md).
   Active for the scope stated in the title: the biased walk, the
   unicyclic formula (A/N) coth(A/2N) and the bound on random four-state
   networks were checked numerically. It bounds the precision of currents,
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Barato & Seifert (2015), LIT-tmpejle0, letter eqs. (1)–(24) and
-Supplemental Material §§I–IV, read in full in NOTE-tmpxh170 from arXiv
+Barato & Seifert (2015), [LIT-tmpejle0](../literature.d/LIT-tmpejle0.md), letter eqs. (1)–(24) and
+Supplemental Material §§I–IV, read in full in [NOTE-tmpxh170](../notes.d/NOTE-tmpxh170.md) from arXiv
 1502.05944v2.
 
 ## What was actually shown
@@ -65,14 +65,14 @@ sampled networks did.
   say that keeping a system in a maintained state reliably costs
   dissipation. It says that a reliable *flux*, such as a production rate
   counted over time, does. How long a maintained state lasts is the
-  escape-rate question (THEORY-tmpjzj2n).
+  escape-rate question ([THEORY-tmpjzj2n](THEORY-tmpjzj2n.md)).
 - **That the general case is proved here.** Proofs for general networks
   came later and are not held.
 - **That systems sit at the bound.** Q = 2 is reached only near
   equilibrium with a single affinity, where output is slow.
 - **That dissipation selects anything.** The bound constrains
   fluctuations at a given state; it is not an extremum principle
-  (contrast THEORY-671).
+  (contrast [THEORY-671](THEORY-671.md)).
 - **For irreversible models.** With one-way reactions the affinity is
-  infinite and the bound is trivially met. A model like CASE-tmpwxags's
+  infinite and the bound is trivially met. A model like [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s
   must be made reversible before the bound bites.

@@ -199,18 +199,18 @@ entropy produced in relaxing into it and escaping from it (eq. 160).
 
 ## Connections
 
-- Vellela & Qian (LIT-tmpkp8vh) on the same model, cited for the two-state
+- Vellela & Qian ([LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md)) on the same model, cited for the two-state
   reduction and the diffusion failure.
-- Santolin et al. (LIT-tmp24302) proves the escape bounds for diffusions,
+- Santolin et al. ([LIT-tmp24302](../literature.d/LIT-tmp24302.md)) proves the escape bounds for diffusions,
   citing this review for jump processes.
-- Barato & Seifert (LIT-tmpejle0) for the TUR; Seifert's review (LIT-523)
+- Barato & Seifert ([LIT-tmpejle0](../literature.d/LIT-tmpejle0.md)) for the TUR; Seifert's review ([LIT-523](../literature.d/LIT-523.md))
   for the ST it starts from.
-- Langer 1969 (LIT-1664, unread) and Eyring–Kramers supply the prefactors
+- Langer 1969 ([LIT-1664](../literature.d/LIT-1664.md), unread) and Eyring–Kramers supply the prefactors
   this review leaves out.
 
 ## Bearing on the record
 
-- **CASE-tmpwxags and CASE-111: maintained regimes as dissipative
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) and [CASE-111](../cases.d/CASE-111.md): maintained regimes as dissipative
   attractors.** The review supplies the frame in which their folds have a
   finite-size meaning. A maintained regime is an attractor with its own
   housekeeping dissipation ⟨σ̇_γ⟩ (eq. 225). Its lifetime is e^{VΔI_ss},
@@ -218,12 +218,12 @@ entropy produced in relaxing into it and escaping from it (eq. 160).
   barrier closes (Fig. 10a–b). It also gives the condition the cases'
   production terms would have to meet to be "paid for": every production
   step reversible with local detailed balance.
-- **THEORY-671 (maximum entropy production selects the steady state).**
+- **[THEORY-671](../theory.d/THEORY-671.md) (maximum entropy production selects the steady state).**
   Both sides of the review count against the strong form: the
   dissipation-ranked principle holds only under "peculiar conditions",
   the lifetime-ranked one only near detailed balance, and lifetime need
   not fix stationary probability when there are more than two attractors.
-- **The A14 analogy with SLT (THEORY-087).** The formal parallel is exact
+- **The A14 analogy with SLT ([THEORY-087](../theory.d/THEORY-087.md)).** The formal parallel is exact
   as far as it goes: V here and n there are large parameters, and I_ss
   and K(w) are rate functions whose minima carry the mass. The
   disanalogy is what this review adds. I_ss is a property of a
@@ -231,10 +231,10 @@ entropy produced in relaxing into it and escaping from it (eq. 160).
   posterior is a static Gibbs measure, the detailed-balance case.
   Dissipative features, such as circulation on level sets, instanton
   asymmetry and ⟨σ̇_γ⟩ > 0, have no counterpart in the evidence.
-- **QUESTION-281's nucleation route**: the escape-rate theory here is its
+- **[QUESTION-281](../questions.d/QUESTION-281.md)'s nucleation route**: the escape-rate theory here is its
   nonequilibrium general case.
-- Produces THEORY-tmpjzj2n and THEORY-tmpkze5s; co-source of
-  THEORY-tmpwystk and THEORY-tmpshz26.
+- Produces [THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md) and [THEORY-tmpkze5s](../theory.d/THEORY-tmpkze5s.md); co-source of
+  [THEORY-tmpwystk](../theory.d/THEORY-tmpwystk.md) and [THEORY-tmpshz26](../theory.d/THEORY-tmpshz26.md).
 
 ## Limitations
 

@@ -37,7 +37,7 @@ summary: >-
 ## Contribution
 
 The diffusion-process counterpart of the bounds in Falasco & Esposito's
-review (LIT-tmpm46ks, §IV.H), which the authors cite as previously derived
+review ([LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), §IV.H), which the authors cite as previously derived
 for jump processes with a macroscopic limit ([17, 18]). Two things are
 added: a recursive expansion of the quasi-potential I_ss in powers of
 the nonconservative force, each order an integral along
@@ -128,22 +128,22 @@ nothing; the bracket's width grows quickly with the rotational drive.
 
 - Freidlin & Wentzell; Bouchet & Reygner 2016 for the nonreversible
   Eyring–Kramers prefactor (cited, appendix A); Freitas & Esposito 2022
-  for the emergent second law; LIT-tmpm46ks for the jump-process version.
+  for the emergent second law; [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md) for the jump-process version.
 
 ## Bearing on the record
 
-- **CASE-tmpwxags.** For a diffusion model of a maintained regime, this
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md).** For a diffusion model of a maintained regime, this
   is the theorem that converts "finite lifetime" into thermodynamic
   terms: the lifetime is e^{ΩΔI_ss}, and ΔI_ss lies between the
   dissipation of relaxing into the regime and minus that of escaping it.
   It does not say the more dissipative regime lives longer; that is true
-  only where the bracket is tight (THEORY-tmpjzj2n).
-- **THEORY-671.** The paper's bound is a constraint on rates, not a
+  only where the bracket is tight ([THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md)).
+- **[THEORY-671](../theory.d/THEORY-671.md).** The paper's bound is a constraint on rates, not a
   selection principle among steady states.
 - **The A14 SLT analogy.** The quasi-potential plays the role a free
   energy plays at detailed balance; the disanalogy is the circulation v,
   which a Bayesian posterior (a Gibbs measure) does not have.
-- Produces THEORY-tmpjzj2n with LIT-tmpm46ks.
+- Produces [THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md) with [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md).
 
 ## Limitations
 

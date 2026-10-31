@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-10-31 (NOTE-tmpf1zx4, Skimmed: §§I–III, IV.A–D, IV.G–H,
+  read in part 2026-10-31 ([NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md), Skimmed: §§I–III, IV.A–D, IV.G–H,
   VI, VII.A.1, VIII and appendix A read in full; field theory and two of
   three applications not read); worth reading as the systematic statement
   of how maintained nonequilibrium states behave at large size: a
   quasi-potential, not a free energy, sets their lifetimes, which
   dissipation along relaxation and escape paths brackets
-  (THEORY-tmpjzj2n); each carries its own housekeeping dissipation; and
+  ([THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md)); each carries its own housekeeping dissipation; and
   Gaussian-noise Langevin models get both barriers and entropy production
-  wrong (THEORY-tmpkze5s).
+  wrong ([THEORY-tmpkze5s](../theory.d/THEORY-tmpkze5s.md)).
 title: 'Macroscopic stochastic thermodynamics'
 version: 2
 history:
@@ -74,8 +74,8 @@ summary: >-
 
 Falasco, G., & Esposito, M. (2025). Macroscopic stochastic thermodynamics. *Reviews of Modern Physics*, 97, 015002.
 
-Read in part in NOTE-tmpf1zx4 (Skimmed; the parts on large deviations, metastability and escape, and dissipation read in full).
+Read in part in [NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md) (Skimmed; the parts on large deviations, metastability and escape, and dissipation read in full).
 
 ## Why this is here
 
-A14 cited it for the large-deviation account of escape from a maintained state, where a barrier and a system-size parameter set the lifetime. Read with Langer (LIT-1664) for metastable decay. The reading confirms that account and corrects one implication: the barrier is in a quasi-potential computed from the dynamics, not in a free energy, and dissipation only brackets it (THEORY-tmpjzj2n). For CASE-tmpwxags and CASE-111 it supplies the finite-size reading of a fold: a maintained regime is an attractor with its own steady dissipation, whose lifetime collapses as the barrier closes at the saddle-node. For the A14 analogy with SLT (THEORY-087) it supplies the disanalogy: the quasi-potential belongs to a dynamics with circulating currents and housekeeping dissipation, and a Bayesian posterior is the detailed-balance case, with neither. Against THEORY-671 it shows that entropy-production extremum principles hold only in special regimes (THEORY-tmpshz26).
+A14 cited it for the large-deviation account of escape from a maintained state, where a barrier and a system-size parameter set the lifetime. Read with Langer ([LIT-1664](LIT-1664.md)) for metastable decay. The reading confirms that account and corrects one implication: the barrier is in a quasi-potential computed from the dynamics, not in a free energy, and dissipation only brackets it ([THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md)). For [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) and [CASE-111](../cases.d/CASE-111.md) it supplies the finite-size reading of a fold: a maintained regime is an attractor with its own steady dissipation, whose lifetime collapses as the barrier closes at the saddle-node. For the A14 analogy with SLT ([THEORY-087](../theory.d/THEORY-087.md)) it supplies the disanalogy: the quasi-potential belongs to a dynamics with circulating currents and housekeeping dissipation, and a Bayesian posterior is the detailed-balance case, with neither. Against [THEORY-671](../theory.d/THEORY-671.md) it shows that entropy-production extremum principles hold only in special regimes ([THEORY-tmpshz26](../theory.d/THEORY-tmpshz26.md)).

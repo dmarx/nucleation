@@ -11,10 +11,10 @@ date: '2026-10-31'
 source:
 - LIT-tmpayntj
 summary: >-
-  LaMont & Wiggins (2019), LIT-tmpayntj, read in NOTE-tmpyxfno: the
+  LaMont & Wiggins (2019), [LIT-tmpayntj](../literature.d/LIT-tmpayntj.md), read in [NOTE-tmpyxfno](../notes.d/NOTE-tmpyxfno.md): the
   learning capacity C = −N²∂_N U and its equipartition values (Table II,
   eqs. 16–18, 24, 28, 30). Active: the regular entries were checked by
-  differentiation, and the singular case exactly in K = a²b² (CASE-152's
+  differentiation, and the singular case exactly in K = a²b² ([CASE-152](../cases.d/CASE-152.md)'s
   model), where C approaches λ = ½ as ½ − 1/log n, not with the O(1/N)
   error the paper states. The statistical "temperature" is a sample size,
   so nothing in the dictionary is a physical heat flow.
@@ -24,10 +24,10 @@ summary: >-
 
 ## Source
 
-LaMont & Wiggins (2019), LIT-tmpayntj, §§II–III.C, Tables I–II, eqs.
-(4)–(30) and appendices A3–A4, read in NOTE-tmpyxfno from arXiv
+LaMont & Wiggins (2019), [LIT-tmpayntj](../literature.d/LIT-tmpayntj.md), §§II–III.C, Tables I–II, eqs.
+(4)–(30) and appendices A3–A4, read in [NOTE-tmpyxfno](../notes.d/NOTE-tmpyxfno.md) from arXiv
 1706.01428v5. The singular asymptotics are Watanabe's, cited there, as in
-THEORY-087.
+[THEORY-087](THEORY-087.md).
 
 ## What was actually shown
 
@@ -55,7 +55,7 @@ exceed K/2: the uniform endpoint model has C = 1 for one parameter
 **The logarithmic approach (my check).** Watanabe's free energy has a
 further −(m − 1) log log n term, which Table II drops. With it,
 C = λ − (m − 1)/log n + …. For the deterministic part of the free energy
-of K = a²b² with a uniform prior on [0, 1]² (λ = ½, m = 2; CASE-152's
+of K = a²b² with a uniform prior on [0, 1]² (λ = ½, m = 2; [CASE-152](../cases.d/CASE-152.md)'s
 model), exactly: C = 0.325, 0.375, 0.403, 0.433, 0.449, 0.465 at
 n = 10², 10³, 10⁴, 10⁶, 10⁸, 10¹², against ½ − 1/log n = 0.283, 0.355,
 0.391, 0.428, 0.446, 0.464.
@@ -72,7 +72,7 @@ the direction of the RLCT.
   analogy between SLT's e^{−nK} and a physical e^{−ΩV} is exact as a
   statement about concentration of a Gibbs-form measure. It is silent on
   the dissipative structure that maintained physical states carry
-  (THEORY-tmpjzj2n, THEORY-tmpkze5s).
+  ([THEORY-tmpjzj2n](THEORY-tmpjzj2n.md), [THEORY-tmpkze5s](THEORY-tmpkze5s.md)).
 - **That the learning capacity is the singular penalty itself.** It is its
   second derivative in N. For m > 1 it reaches λ only logarithmically, so
   at practical n a measured C is not λ (0.40 against 0.5 at n = 10⁴ in the
@@ -80,7 +80,7 @@ the direction of the RLCT.
 - **That sloppiness in large networks is freeze-out.** The authors
   "speculate" this (§I.A); their evidence is three toy models.
 - **Anything about the GPI prior.** Its AIC limit and its treatment of the
-  Lindley–Bartlett paradox are in NOTE-tmpyxfno and are not part of this
+  Lindley–Bartlett paradox are in [NOTE-tmpyxfno](../notes.d/NOTE-tmpyxfno.md) and are not part of this
   claim.
 - **The fluctuation part.** My check computes only the deterministic part
   of the free energy; data fluctuations add terms the check does not

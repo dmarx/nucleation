@@ -11,9 +11,9 @@ source:
 - LIT-tmpkp8vh
 - LIT-tmpm46ks
 summary: >-
-  Vellela & Qian (2009), LIT-tmpkp8vh, read in NOTE-tmphrg34, on the
-  Schlögl model, with Falasco & Esposito's general frame (LIT-tmpm46ks,
-  §§III.C, IV.H, VI; NOTE-tmpf1zx4). Active: the slow eigenvalue, the
+  Vellela & Qian (2009), [LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md), read in [NOTE-tmphrg34](../notes.d/NOTE-tmphrg34.md), on the
+  Schlögl model, with Falasco & Esposito's general frame ([LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md),
+  §§III.C, IV.H, VI; [NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md)). Active: the slow eigenvalue, the
   barriers, the initial-condition independence and the closing of the
   barrier at the fold were checked numerically on the paper's model. It
   does not say which state is the more stable without computing the
@@ -25,10 +25,10 @@ summary: >-
 
 ## Source
 
-Vellela & Qian (2009), LIT-tmpkp8vh, §§2–4 and appendix A, read in
-NOTE-tmphrg34 from the PMC copy. Falasco & Esposito (2025), LIT-tmpm46ks,
+Vellela & Qian (2009), [LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md), §§2–4 and appendix A, read in
+[NOTE-tmphrg34](../notes.d/NOTE-tmphrg34.md) from the PMC copy. Falasco & Esposito (2025), [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md),
 §III.C (multistability against metastability), §IV.H (eq. 157) and §VI,
-read in NOTE-tmpf1zx4.
+read in [NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md).
 
 ## What was actually shown
 
@@ -79,12 +79,12 @@ irreducible.
   barrier is in a quasi-potential computed from the rates. Its sign is
   not given by the rate equation's "potential" ∫ẋ dx (Vellela & Qian
   footnote 1), nor reliably by a Fokker–Planck approximation
-  (THEORY-tmpkze5s).
+  ([THEORY-tmpkze5s](THEORY-tmpkze5s.md)).
 - **That the paper's asymptotic rates are right.** As printed,
   eqs. (3.29)–(3.30) carry a factor 1/V that puts them below the exact
   λ₁ by a factor growing like V (0.59V at V = 150). The paper's reported
   "breakdown" of asymptotics at small volume is mostly that factor
-  (NOTE-tmphrg34).
+  ([NOTE-tmphrg34](../notes.d/NOTE-tmphrg34.md)).
 - **That lifetime fixes stationary probability in general.** With two
   states it does, P₋/P₊ = τ₋/τ₊. With three or more attractors the
   routing between them matters, and Falasco & Esposito note that a
@@ -92,8 +92,8 @@ irreducible.
   & Netočný, not read).
 - **Anything about two or more species.** The closed-form stationary law
   is a one-dimensional accident; in higher dimension the quasi-potential
-  must be found from a Hamilton–Jacobi equation (LIT-tmpm46ks, eq. 34).
-- **That deterministic constructions such as CASE-tmpwxags or CASE-111 are
+  must be found from a Hamilton–Jacobi equation ([LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), eq. 34).
+- **That deterministic constructions such as [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) or [CASE-111](../cases.d/CASE-111.md) are
   wrong.** Their folds are the V → ∞ statements. What changes at finite
   size is that a maintained regime has a lifetime, and loses it before the
   fold.

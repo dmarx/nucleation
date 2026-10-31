@@ -121,7 +121,7 @@ So the case's maintenance and extinction are features of strong driving,
 not of the production graph alone. And maintenance that is "endogenous"
 relative to the organization lasts only while the reservoirs do. A
 chemostat is itself a finite-lived structure of a larger closed network,
-open for a time of order its abundance ratio (THEORY-tmp1nk6k).
+open for a time of order its abundance ratio ([THEORY-tmp1nk6k](../theory.d/THEORY-tmp1nk6k.md)).
 
 ## Note of 2026-10-31: the folds are statements about infinite size
 
@@ -130,14 +130,14 @@ deterministic, so they hold in the limit of infinite size. At finite size
 a maintained regime is metastable.
 - **Lifetime.** It lasts a time exponential in size, set by a barrier in a
   quasi-potential computed from the dynamics, not by a free energy
-  (THEORY-tmpwystk, THEORY-tmpjzj2n).
+  ([THEORY-tmpwystk](../theory.d/THEORY-tmpwystk.md), [THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md)).
 - **Before the fold.** The barrier closes as the 3/2 power of the distance
   to the fold, so the lifetime collapses before the fold is reached.
 - **Dissipation.** The production and decay terms here are irreversible,
   so they have no defined entropy production. To be paid for in
   stochastic-thermodynamic terms, every step needs a reverse step obeying
-  local detailed balance (LIT-tmpm46ks, THEORY-tmpkze5s).
+  local detailed balance ([LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), [THEORY-tmpkze5s](../theory.d/THEORY-tmpkze5s.md)).
 
-Vellela and Qian's Schlögl model (LIT-tmpkp8vh) is the chemical,
-stochastic counterpart of this case, as CASE-111 is its deterministic
+Vellela and Qian's Schlögl model ([LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md)) is the chemical,
+stochastic counterpart of this case, as [CASE-111](CASE-111.md) is its deterministic
 predecessor.

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-31 (NOTE-tmpyxfno; appendices B, C1, C3, C4 skimmed); worth
+  read 2026-10-31 ([NOTE-tmpyxfno](../notes.d/NOTE-tmpyxfno.md); appendices B, C1, C3, C4 skimmed); worth
   reading as the fullest working of the evidence-as-partition-function
   dictionary with sample size as inverse temperature: generalization
   error as equipartition, a "learning capacity" equal to K/2 in regular
-  and to the RLCT in singular models (THEORY-tmp5nt8h), and a
+  and to the RLCT in singular models ([THEORY-tmp5nt8h](../theory.d/THEORY-tmp5nt8h.md)), and a
   sample-size-dependent prior that reproduces AIC. The dictionary is
   formal; it has no physical currents or dissipation.
 title: 'Correspondence between thermodynamics and inference'
@@ -70,8 +70,8 @@ summary: >-
 
 LaMont, C. H., & Wiggins, P. A. (2019). Correspondence between thermodynamics and inference. *Physical Review E*, 99, 052140.
 
-Read in NOTE-tmpyxfno.
+Read in [NOTE-tmpyxfno](../notes.d/NOTE-tmpyxfno.md).
 
 ## Why this is here
 
-A14's starting point for setting SLT's e^{-nK} beside a physical e^{-ΩV}. A14 itself kept them apart: the same statistical geometry does not fix the same physical currents or dissipation. Bears on THEORY-087. The reading bears A14's caution out. The paper's temperature is a sample size, and its dictionary has no dynamics, so nothing in it corresponds to a current, a housekeeping dissipation or an escape path, which are what LIT-tmpm46ks and LIT-tmp24302 attach to maintained physical states. What it does give THEORY-087 is a second derivative of the Occam penalty with an equipartition reading (THEORY-tmp5nt8h). That derivative approaches the RLCT only logarithmically when the multiplicity exceeds one, as in CASE-152's model.
+A14's starting point for setting SLT's e^{-nK} beside a physical e^{-ΩV}. A14 itself kept them apart: the same statistical geometry does not fix the same physical currents or dissipation. Bears on [THEORY-087](../theory.d/THEORY-087.md). The reading bears A14's caution out. The paper's temperature is a sample size, and its dictionary has no dynamics, so nothing in it corresponds to a current, a housekeeping dissipation or an escape path, which are what [LIT-tmpm46ks](LIT-tmpm46ks.md) and [LIT-tmp24302](LIT-tmp24302.md) attach to maintained physical states. What it does give [THEORY-087](../theory.d/THEORY-087.md) is a second derivative of the Occam penalty with an equipartition reading ([THEORY-tmp5nt8h](../theory.d/THEORY-tmp5nt8h.md)). That derivative approaches the RLCT only logarithmically when the multiplicity exceeds one, as in [CASE-152](../cases.d/CASE-152.md)'s model.

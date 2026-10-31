@@ -111,8 +111,8 @@ for long, and both cost entropy production in proportion.
 
 ## Connections
 
-- Uses Seifert's framework (LIT-523) for σ = Σ J_β A_β (eq. 9).
-- The review LIT-tmpm46ks (§VIII.B.1) states the macroscopic form: for a
+- Uses Seifert's framework ([LIT-523](../literature.d/LIT-523.md)) for σ = Σ J_β A_β (eq. 9).
+- The review [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md) (§VIII.B.1) states the macroscopic form: for a
   system prepared in one attractor and observed for less than its
   lifetime, the bound involves only that attractor's own dissipation.
 - Later proofs of the general case (Gingrich et al. 2016, Horowitz &
@@ -120,19 +120,19 @@ for long, and both cost entropy production in proportion.
 
 ## Bearing on the record
 
-- **CASE-tmpwxags (maintenance) and A13's use of it.** The exchange said
+- **[CASE-tmpwxags](../cases.d/CASE-tmpwxags.md) (maintenance) and A13's use of it.** The exchange said
   the relation ties "resource cost and precision of maintenance". It ties
   the precision of a *current* to dissipation. A maintained state is an
   occupation, and the paper explicitly sets occupation observables aside.
   What it does bound is the precision of the throughput that maintenance
   runs on, for instance a production flux counted over time. So it can
-  price a reliable production rate in a construction like CASE-tmpwxags's,
+  price a reliable production rate in a construction like [CASE-tmpwxags](../cases.d/CASE-tmpwxags.md)'s,
   once that construction is made thermodynamically consistent (every
   production step reversible). It does not price how long the maintained
-  state lasts; that is the escape-rate question of THEORY-tmpjzj2n.
-- **THEORY-671 (maximum entropy production).** Nothing here selects a
+  state lasts; that is the escape-rate question of [THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md).
+- **[THEORY-671](../theory.d/THEORY-671.md) (maximum entropy production).** Nothing here selects a
   steady state; the bound constrains fluctuations at a given state.
-- Produces THEORY-tmpnaoak.
+- Produces [THEORY-tmpnaoak](../theory.d/THEORY-tmpnaoak.md).
 
 ## Limitations
 

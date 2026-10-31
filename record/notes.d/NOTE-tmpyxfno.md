@@ -74,12 +74,12 @@ temperature") or by a discrete parameter at large N ("low temperature").
   C = K/2; S = (K/2)(1 − log N/N₀). Checked by differentiation.
 - **Singular model (eq. 18).** C = ½K_eff + O(N⁻¹) with K_eff = γ. Two
   remarks. First, the paper's γ is twice Watanabe's λ: its free energy is
-  H₀ + (γ/2N) log N, Watanabe's nS + λ log n. So C → λ, which THEORY-087
+  H₀ + (γ/2N) log N, Watanabe's nS + λ log n. So C → λ, which [THEORY-087](../theory.d/THEORY-087.md)
   states as the singular Occam penalty. Second, Table II drops Watanabe's
   −(m − 1) log log N term. With it, C = λ − (m − 1)/log N + …, a
   correction of order 1/log N, not N⁻¹. In the deterministic part of the
   free energy for K = a²b² with a uniform prior (λ = ½, m = 2, the model
-  of CASE-152), I computed C = 0.32 at n = 10², 0.40 at 10⁴, 0.43 at 10⁶
+  of [CASE-152](../cases.d/CASE-152.md)), I computed C = 0.32 at n = 10², 0.40 at 10⁴, 0.43 at 10⁶
   and 0.47 at 10¹², tracking ½ − 1/log n. So for multiplicity above one,
   the equipartition value is approached only logarithmically slowly.
 - **Freeze-out examples (§III.C).** Normal mean with Gaussian prior:
@@ -130,12 +130,12 @@ temperature") or by a discrete parameter at large N ("low temperature").
 - Balasubramanian 1997 on N ↔ β and counting distinguishable
   distributions; Watanabe for the singular asymptotics; Machta,
   Transtrum et al. for sloppiness. None held here.
-- THEORY-087 is the record's statement of the Occam penalty this paper
+- [THEORY-087](../theory.d/THEORY-087.md) is the record's statement of the Occam penalty this paper
   differentiates.
 
 ## Bearing on the record
 
-- **THEORY-087 and the A14 analogy.** The exchange set SLT's e^{−nK}
+- **[THEORY-087](../theory.d/THEORY-087.md) and the A14 analogy.** The exchange set SLT's e^{−nK}
   beside a physical e^{−ΩV}. This paper is the fullest working of the
   statistical half, and its dictionary is formal. Its "temperature" is a
   sample size, its "energy" an empirical cross-entropy, its "density of
@@ -143,16 +143,16 @@ temperature") or by a discrete parameter at large N ("low temperature").
   and none could: there is no dynamics. A14's own caution, that "the same
   statistical geometry does not fix the same physical currents or
   dissipation", is borne out by omission. The concentration analogies are
-  real: N plays the large parameter as V does in LIT-tmpm46ks, and an
+  real: N plays the large parameter as V does in [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), and an
   RLCT plays a dimension count. But the thermodynamics of maintenance
   needs the dissipative structure this dictionary lacks.
-- **CASE-152 and CLAIM-188**: the learning capacity at their model's
-  singularity approaches λ = ½ only as 1/log n (THEORY-tmp5nt8h), the same
-  log log term CLAIM-188 carries in the penalty.
+- **[CASE-152](../cases.d/CASE-152.md) and [CLAIM-188](../claims.d/CLAIM-188.md)**: the learning capacity at their model's
+  singularity approaches λ = ½ only as 1/log n ([THEORY-tmp5nt8h](../theory.d/THEORY-tmp5nt8h.md)), the same
+  log log term [CLAIM-188](../claims.d/CLAIM-188.md) carries in the penalty.
 - **An instruction for ML practice** is present in passing (use the GPI
   prior or AIC for model selection), so the LIT takes the
   `anthology-candidate` flag.
-- Produces THEORY-tmp5nt8h.
+- Produces [THEORY-tmp5nt8h](../theory.d/THEORY-tmp5nt8h.md).
 
 ## Limitations
 

@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-31 (NOTE-tmp3zjqz); worth reading as the short,
+  read in full 2026-10-31 ([NOTE-tmp3zjqz](../notes.d/NOTE-tmp3zjqz.md)); worth reading as the short,
   self-contained proof, for overdamped diffusions, that a nonequilibrium
   escape rate e^{−ΩΔI} is bracketed by the entropy produced in relaxing
-  into the attractor and in escaping it (THEORY-tmpjzj2n), with a
+  into the attractor and in escaping it ([THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md)), with a
   recursive expansion of the quasi-potential about the free energy. The
   bracket closes only at detailed balance.
 title: 'Bridging Freidlin-Wentzell large deviations theory and stochastic thermodynamics'
@@ -60,8 +60,8 @@ summary: >-
 
 Santolin, D., Freitas, N., Esposito, M., & Falasco, G. (2025). Bridging Freidlin-Wentzell large deviations theory and stochastic thermodynamics. *Physical Review E*, 111, 024106.
 
-Read in full in NOTE-tmp3zjqz.
+Read in full in [NOTE-tmp3zjqz](../notes.d/NOTE-tmp3zjqz.md).
 
 ## Why this is here
 
-With LIT-tmpm46ks, A14's source for reading a maintained regime's lifetime and escape route thermodynamically, beside the SLT reading of a posterior concentrating on a singular set. The reading supplies the theorem: lifetime e^{ΩΔI}, with ΔI between the dissipation of relaxing in and minus that of escaping out (THEORY-tmpjzj2n). It also marks where the SLT side has no counterpart: the circulation that separates relaxation from escape, and so opens the bracket, is absent from a Gibbs posterior.
+With [LIT-tmpm46ks](LIT-tmpm46ks.md), A14's source for reading a maintained regime's lifetime and escape route thermodynamically, beside the SLT reading of a posterior concentrating on a singular set. The reading supplies the theorem: lifetime e^{ΩΔI}, with ΔI between the dissipation of relaxing in and minus that of escaping out ([THEORY-tmpjzj2n](../theory.d/THEORY-tmpjzj2n.md)). It also marks where the SLT side has no counterpart: the circulation that separates relaxation from escape, and so opens the bracket, is absent from a Gibbs posterior.

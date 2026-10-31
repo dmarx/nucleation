@@ -10,9 +10,9 @@ source:
 - LIT-tmp24302
 - LIT-tmpm46ks
 summary: >-
-  Santolin, Freitas, Esposito & Falasco (2025), LIT-tmp24302, read in
-  NOTE-tmp3zjqz, for overdamped diffusions; Falasco & Esposito (2025),
-  LIT-tmpm46ks, §IV.H and appendix A, read in NOTE-tmpf1zx4, for jump
+  Santolin, Freitas, Esposito & Falasco (2025), [LIT-tmp24302](../literature.d/LIT-tmp24302.md), read in
+  [NOTE-tmp3zjqz](../notes.d/NOTE-tmp3zjqz.md), for overdamped diffusions; Falasco & Esposito (2025),
+  [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), §IV.H and appendix A, read in [NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md), for jump
   processes with a macroscopic limit. Active: the derivation is two lines
   from the orthogonal decomposition of the drift and was checked on a
   linear nonequilibrium diffusion. It does not say that the more
@@ -25,10 +25,10 @@ summary: >-
 
 ## Source
 
-Santolin et al. (2025), LIT-tmp24302, §§IV–VIII (eqs. 32, 45, 61–76),
-read in full in NOTE-tmp3zjqz. Falasco & Esposito (2025), LIT-tmpm46ks,
+Santolin et al. (2025), [LIT-tmp24302](../literature.d/LIT-tmp24302.md), §§IV–VIII (eqs. 32, 45, 61–76),
+read in full in [NOTE-tmp3zjqz](../notes.d/NOTE-tmp3zjqz.md). Falasco & Esposito (2025), [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md),
 §IV.B (eq. 119), §IV.H (eqs. 157–166), §VII.A.1 and appendix A, read in
-NOTE-tmpf1zx4.
+[NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md).
 
 ## What was actually shown
 
@@ -69,7 +69,7 @@ Orthogonality makes it identical on both.
 - **That the longest-lived attractor is the most dissipative.** The bound
   ranks lifetimes by path entropies only where it is tight. Falasco &
   Esposito show that steady dissipation and lifetime agree only "under
-  some peculiar conditions" (THEORY-tmpshz26).
+  some peculiar conditions" ([THEORY-tmpshz26](THEORY-tmpshz26.md)).
 - **That the bounds are useful far from equilibrium.** In the Schlögl
   model, where bistability exists only far from equilibrium, the path
   entropies "are very large, thus making the bound (160) very loose"
@@ -83,5 +83,5 @@ Orthogonality makes it identical on both.
 - **Anything about prefactors.** Only the exponential order is
   controlled; at moderate Ω the prefactor can change the rate by orders of
   magnitude, and for the Schlögl model it even decides which state is
-  favoured at small V (THEORY-tmpwystk).
+  favoured at small V ([THEORY-tmpwystk](THEORY-tmpwystk.md)).
 - **Limit cycles or chaotic attractors**, which both papers set aside.

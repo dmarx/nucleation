@@ -10,9 +10,9 @@ source:
 - LIT-tmpkp8vh
 - LIT-tmpm46ks
 summary: >-
-  Vellela & Qian (2009), LIT-tmpkp8vh (§3.3, Fig. 6), read in
-  NOTE-tmphrg34, show the counterexample; Falasco & Esposito (2025),
-  LIT-tmpm46ks (§§III.F, IV.H, VIII.B.6), read in NOTE-tmpf1zx4, give the
+  Vellela & Qian (2009), [LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md) (§3.3, Fig. 6), read in
+  [NOTE-tmphrg34](../notes.d/NOTE-tmphrg34.md), show the counterexample; Falasco & Esposito (2025),
+  [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md) (§§III.F, IV.H, VIII.B.6), read in [NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md), give the
   general account: minimum entropy production holds only near detailed
   balance with linear dynamics, and the two maximum principles hold only
   where relaxation and escape dissipations nearly coincide. Active as a
@@ -25,10 +25,10 @@ summary: >-
 
 ## Source
 
-Vellela & Qian (2009), LIT-tmpkp8vh, §3.3 (eqs. 3.12–3.27, Figs. 6–7) and
-§5, read in NOTE-tmphrg34. Falasco & Esposito (2025), LIT-tmpm46ks, §III.F
+Vellela & Qian (2009), [LIT-tmpkp8vh](../literature.d/LIT-tmpkp8vh.md), §3.3 (eqs. 3.12–3.27, Figs. 6–7) and
+§5, read in [NOTE-tmphrg34](../notes.d/NOTE-tmphrg34.md). Falasco & Esposito (2025), [LIT-tmpm46ks](../literature.d/LIT-tmpm46ks.md), §III.F
 (eqs. 101–102), §IV.H (eq. 160) and §VIII.B.6 (eqs. 290–292), read in
-NOTE-tmpf1zx4.
+[NOTE-tmpf1zx4](../notes.d/NOTE-tmpf1zx4.md).
 
 ## What was actually shown
 
@@ -66,15 +66,15 @@ higher (or lower) one. In the sweep it is not.
 ## What this does not say
 
 - **That dissipation is irrelevant to stability.** The escape rate is
-  bracketed by path entropies (THEORY-tmpjzj2n); dissipation along
+  bracketed by path entropies ([THEORY-tmpjzj2n](THEORY-tmpjzj2n.md)); dissipation along
   trajectories constrains lifetimes. What fails is ranking states by
   their steady dissipation rate alone.
 - **That Fig. 7's trend is a principle.** Vellela & Qian's observation
   that entropy production falls as the dominant state's barrier rises,
   offered as support for least dissipation as robustness, is one sweep of
   one parameter in one model.
-- **That every maximum-entropy-production claim is refuted.** THEORY-671
+- **That every maximum-entropy-production claim is refuted.** [THEORY-671](THEORY-671.md)
   states a selection principle for systems with many internal degrees of
   freedom. This is a one-variable counterexample plus a general argument
   that the principle needs special conditions; it does not show that the
-  conditions never hold in the systems THEORY-671 is about.
+  conditions never hold in the systems [THEORY-671](THEORY-671.md) is about.
