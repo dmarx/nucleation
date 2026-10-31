@@ -58,6 +58,7 @@ summary: >-
   holds only if operator jurisdiction is pairwise decisiveness, which
   [THEORY-027](../theory.d/THEORY-027.md) leaves open even for persons.
 ---
+<!-- inactive-ok-file: THEORY-tmpl13wj — Proposed; Massumi's micropolitics, the ideal this result is applied to -->
 
 # CLAIM-353: A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow's impossibility this is not escaped by giving endorsement richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction
 
@@ -121,3 +122,30 @@ fix is a change in how jurisdiction is allocated or bounded, in
   between liberty and overall desire fulfilment, is [THEORY-027](../theory.d/THEORY-027.md)'s
   interpretation, not a result, and has no worked analogue for operators
   here.
+
+## Note of 2026-10-31: Massumi's co-patterning meets this limit only where an organization must choose
+
+Massumi's micropolitical aim is "a maximally inclusive co-patterning of
+contrasting tendencies, co-habiting the field in a way that facilitates
+each fully realizing itself ... in way that they do not oppose and
+curtail each other" (LIT-tmpi0u4n, p. 64; THEORY-tmpl13wj). Bencherki,
+Brummans and Vézy say organizational becoming "is constituted by the
+micropolitics of attempting to reach" it (LIT-tmp3mudg, p. 1358).
+
+Read as a rule for an organization that must act, the aim asks for
+something like this claim's conditions. Each tendency would be decisive
+over what concerns it, and an outcome that every tendency prefers would
+not be passed over. This claim says that two decisive domains, unanimity
+and an unrestricted profile can leave a menu with no choosable state.
+On that reading, the co-patterning cannot be guaranteed. That gives a
+structural reason for what Massumi calls "always-as-yet unknowable".
+
+This is a formal application, and it holds only on that reading. Massumi
+refuses the step it needs: the aim is "not to resolve the tension
+through a choice" (LIT-tmp8hcfz, p. 12). His co-patterning is not a
+social choice function. So the limit applies where the micropolitics
+must end in a choice, as the parent's MSF meeting ended in a yes or a no
+on training (pp. 1359–1363), and not to Massumi's aim as he states it.
+It tells against the parent's descriptive use more than against Massumi.
+
+No status, title or warrant changes.

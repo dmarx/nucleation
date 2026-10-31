@@ -75,6 +75,7 @@ corroborated_by:
 - THEORY-025
 - THEORY-411
 ---
+<!-- inactive-ok-file: THEORY-tmpcaccx THEORY-tmpkdsex CLAIM-tmptb7y2 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 
 # CLAIM-352: Sen's two aspects of freedom divide along the record's line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy
 
@@ -159,3 +160,21 @@ by that fact a fair process.
 Its "no scalar without a standard" step stands on [THEORY-411](../theory.d/THEORY-411.md), which is
 Proposed and was not reviewed in this pass; its premises [CLAIM-079](CLAIM-079.md) and
 [CLAIM-027](CLAIM-027.md) are Active and it has no objection.
+
+## Note of 2026-10-31: "agency without agents" falls on the reach side of this split
+
+Bencherki, Brummans and Vézy define agency as "the affective force that
+governs the transition from a lesser to an augmented ability to act"
+(LIT-tmp3mudg, p. 1354; THEORY-tmpcaccx). They adapt Massumi's
+capacitation (THEORY-tmpkdsex). In this claim's split, a change in
+ability to act is on the side of what can be reached, Sen's opportunity
+aspect, not on the side of the organization that selects among it. The
+paper says nothing about which of an agent's regimes becomes effective,
+which is what will-organization (TERM-023) is about. So the two are not
+rival accounts of agency. They answer different halves of this claim's
+division. The parent's paper has the weakness this claim finds in viable
+reachability: it never says which abilities count, so it has no map from
+"ability to act" to anything valued. CLAIM-tmptb7y2 states the three
+quantities apart.
+
+No status, title or warrant changes.

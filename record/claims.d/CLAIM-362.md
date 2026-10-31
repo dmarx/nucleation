@@ -44,6 +44,7 @@ summary: >-
   on 2026-10-05; filing this does not reopen it, and whether it reopens is
   the owner's call. The manipulation objection stands ([CLAIM-364](CLAIM-364.md)).
 ---
+<!-- inactive-ok-file: THEORY-tmpl13wj — Proposed; Massumi's micropolitics, a neighbouring form of non-domination -->
 <!-- inactive-ok-file: CLAIM-016 TERM-006 QUESTION-011 — Deferred; the set-aside authenticity line this claim is a candidate repair for, cited to say what it would repair -->
 <!-- inactive-ok-file: CLAIM-261 THEORY-040 THEORY-054 THEORY-077 QUESTION-071 CLAIM-358 CLAIM-364 — Proposed; the claims and readings set beside this one, open -->
 
@@ -154,3 +155,31 @@ any account of authenticity.
 - **That it is republican non-domination.** The word recalls political
   theory's, which the record holds no reading of; neither the owner nor
   A45 cited it.
+
+## Note of 2026-10-31: non-domination without alignment
+
+Massumi's micropolitics (THEORY-tmpl13wj) is a neighbour of this claim
+and differs from it in one respect. Both describe an organization in
+which no process imposes the outcome on the others. In the owner's
+wording here, the lower-level processes are "already aligned with the
+outcomes the higher level processes would otherwise enforce". Massumi's
+co-patterning keeps the contrast instead: "contrasting tendencies,
+co-habiting the field in a way that facilitates each fully realizing
+itself", as "an affirmation of discord" (LIT-tmpi0u4n, p. 64). It is "not
+to resolve the tension through a choice, but to modulate it into a
+symbiosis" (LIT-tmp8hcfz, p. 12).
+
+So there are two forms of non-domination. In one the processes agree. In
+the other they disagree, and none curtails the rest. This claim's
+candidate constituent of authenticity reads as the first. Whether the
+second should also count is open. TERM-061's practical synchronization,
+compatible courses of activity, would admit it. CLAIM-261, which says
+synchronization is desirable but not necessary, does not decide it.
+
+Massumi's form does not help with CLAIM-364. A process conditioned never
+to object shows no contrast to co-pattern. A criterion that asks for
+affirmed discord would class it as dominated only if its silenced
+dissent could be observed. CLAIM-364 says that is possible only under
+intervention or from its history.
+
+No status, title or warrant changes.
