@@ -77,13 +77,13 @@ around loops without a word.
 
 <!-- inactive-ok-file: THEORY-tmp5ux44 — Proposed; the reading this note qualifies -->
 
-Bencherki, Brummans and Vézy (LIT-tmp3mudg, p. 1358) set "Coexisting
+Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358) set "Coexisting
 meanings of the same action" against Weick's sensemaking as the
-reduction of equivocality. THEORY-tmp5ux44's Connections reads this as
+reduction of equivocality. [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)'s Connections reads this as
 "incoherence that is not failure". By this term's definition it is not
 yet incoherence at all. Coherence is agreement under a stated
 correspondence structure, and the paper states none under which the
-meanings would have to agree. CLAIM-265 applies: disagreeing local
+meanings would have to agree. [CLAIM-265](../claims.d/CLAIM-265.md) applies: disagreeing local
 descriptions are not thereby incompatible. The dispute with Weick is
 therefore about the correspondence structure, not about the meanings.
 Weick's organizations impose one, since members must act on a shared

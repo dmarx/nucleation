@@ -153,9 +153,9 @@ an answer. The question is unchanged and stays Open.
 
 The readings filed on 2026-10-31 describe one action propagating through
 a series of organizational domains, each reordered as it passes
-(Bencherki and Iliadis, LIT-tmpwspny, ms. pp. 13–17; THEORY-tmp4o1dd). They
+(Bencherki and Iliadis, [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. pp. 13–17; [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)). They
 also describe one action with several coexisting significations
-(LIT-tmp3mudg, p. 1358; LIT-tmp1rpyl, p. 783). That reads like A19's
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 783). That reads like A19's
 sharper hypothesis, path dependence across organizational frames. It is
 not an answer, for two reasons this question already gives.
 
@@ -166,7 +166,7 @@ not an answer, for two reasons this question already gives.
   geometric transport".
 - **No connection is fixed.** Domains are told apart by their internal
   ordering "for practical purposes" (ms. p. 20), so the maps between them
-  are the analyst's. That is LIT-038's arbitrariness, which the question's
+  are the analyst's. That is [LIT-038](../literature.d/LIT-038.md)'s arbitrariness, which the question's
   first objection excludes. Coexisting significations are perspectival
   plurality, and the question's null target is that such plurality does
   not imply curvature.

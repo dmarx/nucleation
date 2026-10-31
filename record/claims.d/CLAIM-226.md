@@ -123,17 +123,17 @@ receivers' disagreement is not noise, from outside the line:
 
 - **Bencherki 2017**: "Concurrent significations, then, are not mere
   misunderstandings, but rather the outcomes of simultaneous individuation
-  processes" (LIT-tmp1rpyl, p. 783; THEORY-tmpuh0eb). The example is the
+  processes" ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 783; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)). The example is the
   spouses' demand for a dental plan, "political activity" to the army and
   a legitimate demand to the spouses (p. 793).
 - **Bencherki, Brummans and Vézy**: "Coexisting meanings of the same action
-  indicate that several individuations are ongoing" (LIT-tmp3mudg, p.
-  1358; THEORY-tmp5ux44). They set this against Weick's reduction of
+  indicate that several individuations are ongoing" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p.
+  1358; [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)). They set this against Weick's reduction of
   equivocality.
 - **Massumi**: bodies cued by one event "will have been attuned –
   differentially – to the same interruptive commotion"; "There is no
   sameness of affect. There is affective difference in the same event"
-  (LIT-tmp8hcfz, p. 6; THEORY-tmpywwei). Uniform response happens only
+  ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 6; [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)). Uniform response happens only
   where "other factors must have been active to pre-channel tendencies".
 
 None of them supplies what this objection asks for: a named population, a
@@ -142,17 +142,17 @@ transport. They say why disagreement is to be expected, not how to model
 it, and on the second the record already has more than they do. It
 separates four sources of a split:
 
-- differences of access (CLAIM-458);
-- of task weighting (CLAIM-240);
-- of interpreter history (CLAIM-074);
-- of the act a population's uptake partly constitutes (CLAIM-151).
+- differences of access ([CLAIM-458](CLAIM-458.md));
+- of task weighting ([CLAIM-240](CLAIM-240.md));
+- of interpreter history ([CLAIM-074](CLAIM-074.md));
+- of the act a population's uptake partly constitutes ([CLAIM-151](CLAIM-151.md)).
 
-Massumi's pre-channelling corresponds to CLAIM-074's adaptational history:
+Massumi's pre-channelling corresponds to [CLAIM-074](CLAIM-074.md)'s adaptational history:
 a shared history makes responses alike, and differing histories make them
-differ. The correspondence is of structure, not of mechanism (ADR-032),
+differ. The correspondence is of structure, not of mechanism ([ADR-032](../decisions.d/ADR-032.md)),
 since his is affect before any content and the line's is judgement.
 "Concurrent individuations" picks out none of the four, so it adds no
-category a design could estimate. CASE-055's judge and group random
+category a design could estimate. [CASE-055](../cases.d/CASE-055.md)'s judge and group random
 effects remain the record's answer to this objection.
 
 No status, title or warrant changes.
