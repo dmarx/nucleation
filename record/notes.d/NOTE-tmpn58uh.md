@@ -136,17 +136,17 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-496.** Co-patterning that affirms discord (p. 64) describes a family that is not coherent but not failing either. CLAIM-496 names what the ideal lacks: a task against which loss is read.
+- **[CLAIM-496](../claims.d/CLAIM-496.md).** Co-patterning that affirms discord (p. 64) describes a family that is not coherent but not failing either. [CLAIM-496](../claims.d/CLAIM-496.md) names what the ideal lacks: a task against which loss is read.
 
 ### Distributed agency and individuation
 
-- **QUESTION-281.** The co-patterning of discord (p. 64) has the same structure as the frustration route, "organizing differences that cannot all be reconciled". It has no dynamics.
+- **[QUESTION-281](../questions.d/QUESTION-281.md).** The co-patterning of discord (p. 64) has the same structure as the frustration route, "organizing differences that cannot all be reconciled". It has no dynamics.
 
 ### Will-organization, organizational affect and authenticity
 
 - **Co-patterning** (p. 64) is three things in the record's terms:
-  - local accommodation that keeps the discord (CLAIM-358);
-  - non-domination without alignment (CLAIM-362);
-  - on a reading that requires a choice, something CLAIM-353 limits.
-- **"Excess of activity over action"** (p. 29) is distinct from CLAIM-047's idle regime and from CLAIM-484's refused claim.
+  - local accommodation that keeps the discord ([CLAIM-358](../claims.d/CLAIM-358.md));
+  - non-domination without alignment ([CLAIM-362](../claims.d/CLAIM-362.md));
+  - on a reading that requires a choice, something [CLAIM-353](../claims.d/CLAIM-353.md) limits.
+- **"Excess of activity over action"** (p. 29) is distinct from [CLAIM-047](../claims.d/CLAIM-047.md)'s idle regime and from [CLAIM-484](../claims.d/CLAIM-484.md)'s refused claim.
 

@@ -96,21 +96,21 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Distributed agency and individuation
 
-- **ARG-tmpm57h1** (Rejected): the perspectivism bears on CLAIM-405, not CLAIM-418.
-- **TERM-086**: augmentation without a named target.
-- **QUESTION-063**: the spillover, read as coupling.
-- **CLAIM-430**: the MSF reanalysis.
+- **[ARG-tmpm57h1](../arguments.d/ARG-tmpm57h1.md)** (Rejected): the perspectivism bears on [CLAIM-405](../claims.d/CLAIM-405.md), not [CLAIM-418](../claims.d/CLAIM-418.md).
+- **[TERM-086](../terms.d/TERM-086.md)**: augmentation without a named target.
+- **[QUESTION-063](../questions.d/QUESTION-063.md)**: the spillover, read as coupling.
+- **[CLAIM-430](../claims.d/CLAIM-430.md)**: the MSF reanalysis.
 
 ### Will-organization, organizational affect and authenticity
 
-- **CLAIM-352**: this is the reach side, not will-organization.
-- **CLAIM-354**: augmentation needs a comparison the record makes partial.
-- **CLAIM-tmptb7y2**.
-- **CLAIM-484**: excess action is close to a claim that exceeds its grant.
-- **CLAIM-080**: the supposition is denied, but the will account is not reached.
+- **[CLAIM-352](../claims.d/CLAIM-352.md)**: this is the reach side, not will-organization.
+- **[CLAIM-354](../claims.d/CLAIM-354.md)**: augmentation needs a comparison the record makes partial.
+- **[CLAIM-tmptb7y2](../claims.d/CLAIM-tmptb7y2.md)**.
+- **[CLAIM-484](../claims.d/CLAIM-484.md)**: excess action is close to a claim that exceeds its grant.
+- **[CLAIM-080](../claims.d/CLAIM-080.md)**: the supposition is denied, but the will account is not reached.
 
 ### Nucleating argument and formal apparatus
 
-- **TERM-087.** The agential cut of p. 1357 is an analyst's choice, not Barad's sense; p. 1366 is closer to Barad's.
-- **CLAIM-419.** Disindividuation has the structure of a grammar misfit answered by reorganizing. Analogy only.
+- **[TERM-087](../terms.d/TERM-087.md).** The agential cut of p. 1357 is an analyst's choice, not Barad's sense; p. 1366 is closer to Barad's.
+- **[CLAIM-419](../claims.d/CLAIM-419.md).** Disindividuation has the structure of a grammar misfit answered by reorganizing. Analogy only.
 

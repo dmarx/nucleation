@@ -169,18 +169,18 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Distributed agency and individuation
 
-- **CLAIM-418, part 3.** Radial categories (p. 574) and institutionalization in a "structural context" (pp. 578–579) give a mechanism by which agents' exercise of a shared perspective transforms it, with the agents kept. The same mechanism bears on QUESTION-259.
-- **CLAIM-430, part 3.** Whether a local extension becomes the organization's depends on institutionalization, which may fail (pp. 578–579).
+- **[CLAIM-418](../claims.d/CLAIM-418.md), part 3.** Radial categories (p. 574) and institutionalization in a "structural context" (pp. 578–579) give a mechanism by which agents' exercise of a shared perspective transforms it, with the agents kept. The same mechanism bears on [QUESTION-259](../questions.d/QUESTION-259.md).
+- **[CLAIM-430](../claims.d/CLAIM-430.md), part 3.** Whether a local extension becomes the organization's depends on institutionalization, which may fail (pp. 578–579).
 
 ### Will-organization, organizational affect and authenticity
 
-- **Navy TQ** (pp. 578–579) is a second-hand instance for CLAIM-122, but it does not hold the proposals fixed. The "structural context" (p. 579) is what TERM-023 analyses.
-- **Creep, slippage and drift** (pp. 574, 579) mean authorizing standards can change with no act of revision (QUESTION-364). They give QUESTION-334 a mechanism and a test design, as an analogy.
-- **Both parts of CLAIM-363 hold for categories** (p. 574).
-- **Actors carry the change** (p. 575), which is consistent with CLAIM-080's supposition.
+- **Navy TQ** (pp. 578–579) is a second-hand instance for [CLAIM-122](../claims.d/CLAIM-122.md), but it does not hold the proposals fixed. The "structural context" (p. 579) is what [TERM-023](../terms.d/TERM-023.md) analyses.
+- **Creep, slippage and drift** (pp. 574, 579) mean authorizing standards can change with no act of revision ([QUESTION-364](../questions.d/QUESTION-364.md)). They give [QUESTION-334](../questions.d/QUESTION-334.md) a mechanism and a test design, as an analogy.
+- **Both parts of [CLAIM-363](../claims.d/CLAIM-363.md) hold for categories** (p. 574).
+- **Actors carry the change** (p. 575), which is consistent with [CLAIM-080](../claims.d/CLAIM-080.md)'s supposition.
 
 ### Nucleating argument and formal apparatus
 
-- **Radial extension and the record's closed vocabularies.** The record forbids the silent form ("never replaced by the nearest wrong one"). So a category is extended at the nonprototypical case by decision and institutionalized at once (CLAIM-419; CASE-178: 94% of terms were used in the pull request that added them). That is a designed answer to the open question at p. 579. CASE-178's note of 2026-10-31 sets out a blind self-test of THEORY-tmp9bte2.
-- **Change as legitimate.** The reading supports CLAIM-189's counter: CLAIM-177's redefinitions failed because they were silent, not because they happened. What a record secures is traceability.
+- **Radial extension and the record's closed vocabularies.** The record forbids the silent form ("never replaced by the nearest wrong one"). So a category is extended at the nonprototypical case by decision and institutionalized at once ([CLAIM-419](../claims.d/CLAIM-419.md); [CASE-178](../cases.d/CASE-178.md): 94% of terms were used in the pull request that added them). That is a designed answer to the open question at p. 579. [CASE-178](../cases.d/CASE-178.md)'s note of 2026-10-31 sets out a blind self-test of [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md).
+- **Change as legitimate.** The reading supports [CLAIM-189](../claims.d/CLAIM-189.md)'s counter: [CLAIM-177](../claims.d/CLAIM-177.md)'s redefinitions failed because they were silent, not because they happened. What a record secures is traceability.
 

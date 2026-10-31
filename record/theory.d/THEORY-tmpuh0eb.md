@@ -105,23 +105,23 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-255.** Usurpation needs performance fixed apart from recognition, which the theory makes one variable.
-- **CLAIM-226.** Concurrent significations show that disagreement is structured; the theory does not model it.
+- **[CLAIM-255](../claims.d/CLAIM-255.md).** Usurpation needs performance fixed apart from recognition, which the theory makes one variable.
+- **[CLAIM-226](../claims.d/CLAIM-226.md).** Concurrent significations show that disagreement is structured; the theory does not model it.
 
 ### Distributed agency and individuation
 
-- **CLAIM-403**: usurpation is uptake without attribution.
-- **TERM-086**: the daycare as the army's achievement.
-- **CLAIM-405**: crossing verdicts on whose action it is.
+- **[CLAIM-403](../claims.d/CLAIM-403.md)**: usurpation is uptake without attribution.
+- **[TERM-086](../terms.d/TERM-086.md)**: the daycare as the army's achievement.
+- **[CLAIM-405](../claims.d/CLAIM-405.md)**: crossing verdicts on whose action it is.
 
 ### Will-organization, organizational affect and authenticity
 
-- **CLAIM-022**: the same limit.
-- **CLAIM-518 and CLAIM-512**: the checklist and the daycare.
-- **CLAIM-523**: "political activity".
-- **CASE-128**.
+- **[CLAIM-022](../claims.d/CLAIM-022.md)**: the same limit.
+- **[CLAIM-518](../claims.d/CLAIM-518.md) and [CLAIM-512](../claims.d/CLAIM-512.md)**: the checklist and the daycare.
+- **[CLAIM-523](../claims.d/CLAIM-523.md)**: "political activity".
+- **[CASE-128](../cases.d/CASE-128.md)**.
 
 ### Nucleating argument and formal apparatus
 
-- **CLAIM-310 and CLAIM-313.** Significations do not conflict as descriptions, and attributions conflict only when held once. Table 1's usurpation is exclusive credit, and its co-individuation is copied credit. Same structure, not shown to be the same mechanism.
+- **[CLAIM-310](../claims.d/CLAIM-310.md) and [CLAIM-313](../claims.d/CLAIM-313.md).** Significations do not conflict as descriptions, and attributions conflict only when held once. Table 1's usurpation is exclusive credit, and its co-individuation is copied credit. Same structure, not shown to be the same mechanism.
 

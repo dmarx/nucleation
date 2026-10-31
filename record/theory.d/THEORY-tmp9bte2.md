@@ -64,13 +64,13 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Distributed agency and individuation
 
-- **CLAIM-418, part 3, and CLAIM-430, part 3**: radial extension, and the condition of institutionalization (pp. 578–579).
+- **[CLAIM-418](../claims.d/CLAIM-418.md), part 3, and [CLAIM-430](../claims.d/CLAIM-430.md), part 3**: radial extension, and the condition of institutionalization (pp. 578–579).
 
 ### Will-organization, organizational affect and authenticity
 
-- **CLAIM-363**: both parts hold for rules. This THEORY's promote_when has QUESTION-334's design.
+- **[CLAIM-363](../claims.d/CLAIM-363.md)**: both parts hold for rules. This THEORY's promote_when has [QUESTION-334](../questions.d/QUESTION-334.md)'s design.
 
 ### Nucleating argument and formal apparatus
 
-- **CLAIM-419 and CASE-178.** The record is its own case: a closed vocabulary turns radial extension into a decided amendment. CASE-178 is consistent with this theory but does not test it, since nothing was classified as prototypical in advance. Its 2026-10-31 note gives the test design.
+- **[CLAIM-419](../claims.d/CLAIM-419.md) and [CASE-178](../cases.d/CASE-178.md).** The record is its own case: a closed vocabulary turns radial extension into a decided amendment. [CASE-178](../cases.d/CASE-178.md) is consistent with this theory but does not test it, since nothing was classified as prototypical in advance. Its 2026-10-31 note gives the test design.
 

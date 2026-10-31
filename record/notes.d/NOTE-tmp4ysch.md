@@ -194,32 +194,32 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-255.** Table 1 (p. 787) merges the performance and the recognition of authorship. The usurpation case (pp. 786–792) needs them apart, which is CLAIM-255's decomposition.
-- **CLAIM-226.** "Concurrent significations ... are not mere misunderstandings" (p. 783) supports the view that disagreement is structured. The paper gives no model of it.
+- **[CLAIM-255](../claims.d/CLAIM-255.md).** Table 1 (p. 787) merges the performance and the recognition of authorship. The usurpation case (pp. 786–792) needs them apart, which is [CLAIM-255](../claims.d/CLAIM-255.md)'s decomposition.
+- **[CLAIM-226](../claims.d/CLAIM-226.md).** "Concurrent significations ... are not mere misunderstandings" (p. 783) supports the view that disagreement is structured. The paper gives no model of it.
 
 ### Distributed agency and individuation
 
-- **CLAIM-403.** Table 1 crosses CLAIM-403's ladder.
+- **[CLAIM-403](../claims.d/CLAIM-403.md).** Table 1 crosses [CLAIM-403](../claims.d/CLAIM-403.md)'s ladder.
   - Channeling (the newsletter as "political activity", pp. 787–788) is a failure of recognition in apt terms.
   - Usurpation (the daycare, pp. 791–792) is full uptake without attribution, an axis the ladder lacks.
-- **CLAIM-405.** The daycare is one action with crossing answers to "whose action?", depending on which individuation is the criterion. Calling the army's answer usurpation needs a criterion fixed in advance.
-- **CLAIM-477.** Action is "logically prior" (p. 777) but "not chronologically prior" (p. 781). That is a qualified priority of the kind CLAIM-477 asks for. The 2024 paper drops the qualification.
-- **TERM-086.** With the army's service as the target, the daycare is the army's maintained organizational achievement. With the spouses' standing as the target, the same arrangement blocks it.
-- **TERM-088 and QUESTION-281.** An individual "does not exhaust the tensions that allowed its constitution" (p. 782, quoting Simondon 1989). The individual keeps an unresolved residue.
-- **QUESTION-284.** "possession is never complete or univocal" (p. 782) is a constitutive claim about the relation of part to whole, stated and not argued.
+- **[CLAIM-405](../claims.d/CLAIM-405.md).** The daycare is one action with crossing answers to "whose action?", depending on which individuation is the criterion. Calling the army's answer usurpation needs a criterion fixed in advance.
+- **[CLAIM-477](../claims.d/CLAIM-477.md).** Action is "logically prior" (p. 777) but "not chronologically prior" (p. 781). That is a qualified priority of the kind [CLAIM-477](../claims.d/CLAIM-477.md) asks for. The 2024 paper drops the qualification.
+- **[TERM-086](../terms.d/TERM-086.md).** With the army's service as the target, the daycare is the army's maintained organizational achievement. With the spouses' standing as the target, the same arrangement blocks it.
+- **[TERM-088](../terms.d/TERM-088.md) and [QUESTION-281](../questions.d/QUESTION-281.md).** An individual "does not exhaust the tensions that allowed its constitution" (p. 782, quoting Simondon 1989). The individual keeps an unresolved residue.
+- **[QUESTION-284](../questions.d/QUESTION-284.md).** "possession is never complete or univocal" (p. 782) is a constitutive claim about the relation of part to whole, stated and not argued.
 
 ### Will-organization, organizational affect and authenticity
 
-- **Checklist and daycare** (pp. 789–792). They end in the same state with opposite verdicts, so the judgment depends on history, which supports CLAIM-518.
-  - It does not answer CLAIM-512, since what separates the cases is the authorship standard.
-  - The daycare is CASE-128's collective mirror: the arrangement was authorized and its result misattributed.
-- **"Political activity"** (pp. 787–788): legibility and refusal in one label (CLAIM-523).
-- **Ownership partial and plural** (pp. 782, 786). This bears on QUESTION-011. Ownership based on recognition is open to the manipulation objection, and it meets CLAIM-022's limit a second time.
-- **"Seeks his kindred"** (p. 781): QUESTION-tmp3wvgk.
+- **Checklist and daycare** (pp. 789–792). They end in the same state with opposite verdicts, so the judgment depends on history, which supports [CLAIM-518](../claims.d/CLAIM-518.md).
+  - It does not answer [CLAIM-512](../claims.d/CLAIM-512.md), since what separates the cases is the authorship standard.
+  - The daycare is [CASE-128](../cases.d/CASE-128.md)'s collective mirror: the arrangement was authorized and its result misattributed.
+- **"Political activity"** (pp. 787–788): legibility and refusal in one label ([CLAIM-523](../claims.d/CLAIM-523.md)).
+- **Ownership partial and plural** (pp. 782, 786). This bears on [QUESTION-011](../questions.d/QUESTION-011.md). Ownership based on recognition is open to the manipulation objection, and it meets [CLAIM-022](../claims.d/CLAIM-022.md)'s limit a second time.
+- **"Seeks his kindred"** (p. 781): [QUESTION-tmp3wvgk](../questions.d/QUESTION-tmp3wvgk.md).
 
 ### Nucleating argument and formal apparatus
 
-- **Table 1 as a one-copy constraint.** Concurrent significations (pp. 782–783; the dental plan, p. 793) never conflict as descriptions (CLAIM-310). Conflict arises where an attribution is held once (CLAIM-313).
+- **Table 1 as a one-copy constraint.** Concurrent significations (pp. 782–783; the dental plan, p. 793) never conflict as descriptions ([CLAIM-310](../claims.d/CLAIM-310.md)). Conflict arises where an attribution is held once ([CLAIM-313](../claims.d/CLAIM-313.md)).
   - Usurpation (the daycare credited to the army) is credit held once.
   - Co-individuation is credit copied: the checklist is both the community's work and a service "we offer".
 

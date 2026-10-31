@@ -85,8 +85,8 @@ The readings filed on this date bear on this question three ways.
   and Chia hold that applying a category to a nonprototypical case is
   "an imaginative extension" that extends "the radius of application of
   the concept, thus transforming it", and that "the application of a
-  concept is always a normative act" (LIT-tmpls0y0, p. 574;
-  THEORY-tmp9bte2). Change of that kind "occurs naturally, incrementally,
+  concept is always a normative act" ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), p. 574;
+  [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)). Change of that kind "occurs naturally, incrementally,
   and inexorably through 'creep,' 'slippage,' and 'drift'" (p. 579). If
   the standards by which an organization reads authorization are
   categories of this kind, a history of authorization may contain no

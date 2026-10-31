@@ -72,10 +72,10 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Distributed agency and individuation
 
-- **TERM-086**: Massumi's transition is symmetric, and the paper's halving of it leaves the target unnamed.
+- **[TERM-086](../terms.d/TERM-086.md)**: Massumi's transition is symmetric, and the paper's halving of it leaves the target unnamed.
 
 ### Will-organization, organizational affect and authenticity
 
-- **CLAIM-tmptb7y2** places capacitation as viable reach, distinct from emotion (TERM-094) and valence (CLAIM-440).
-- **CLAIM-439**: Massumi's "felt" is its unfelt.
+- **[CLAIM-tmptb7y2](../claims.d/CLAIM-tmptb7y2.md)** places capacitation as viable reach, distinct from emotion ([TERM-094](../terms.d/TERM-094.md)) and valence ([CLAIM-440](../claims.d/CLAIM-440.md)).
+- **[CLAIM-439](../claims.d/CLAIM-439.md)**: Massumi's "felt" is its unfelt.
 

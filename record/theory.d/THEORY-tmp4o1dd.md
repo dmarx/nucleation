@@ -89,15 +89,15 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **QUESTION-130.** Not an answer: coexisting levels that propagation reorders are state evolution, with a connection the analyst chooses.
+- **[QUESTION-130](../questions.d/QUESTION-130.md).** Not an answer: coexisting levels that propagation reorders are state evolution, with a connection the analyst chooses.
 
 ### Distributed agency and individuation
 
-- **CLAIM-tmpg3993** answers it. **CLAIM-388** is the record's case of a closed level that is an aggregate.
-- **QUESTION-284**: individuation by internal ordering instead of a boundary.
-- **CLAIM-474**: rejecting stages here is about entities, not achievements.
+- **[CLAIM-tmpg3993](../claims.d/CLAIM-tmpg3993.md)** answers it. **[CLAIM-388](../claims.d/CLAIM-388.md)** is the record's case of a closed level that is an aggregate.
+- **[QUESTION-284](../questions.d/QUESTION-284.md)**: individuation by internal ordering instead of a boundary.
+- **[CLAIM-474](../claims.d/CLAIM-474.md)**: rejecting stages here is about entities, not achievements.
 
 ### Will-organization, organizational affect and authenticity
 
-- **CLAIM-080**: coexisting levels allow a given agent without deriving one.
+- **[CLAIM-080](../claims.d/CLAIM-080.md)**: coexisting levels allow a given agent without deriving one.
 

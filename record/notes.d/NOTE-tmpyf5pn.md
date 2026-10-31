@@ -167,19 +167,19 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-226 and CLAIM-074.** Differential attunement (p. 6) holds that receivers are expected to diverge. "Pre-channel tendencies" corresponds, in structure only, to CLAIM-074's adaptational history.
-- **CLAIM-002.** "Not a logic of transmission" (p. 9) denies carried content, not causal descent. The two do not conflict.
-- **CASE-068**, by analogy only. In Moussaïd et al., speakers shifted the evaluative signal toward their own opinion (c = 0.25), and receivers tracked the signal they received (c = 0.55). That is neither pure contagion nor attunement without uptake. The stance coded there is sentence-level content, not affect in Massumi's sense, so it does not test him.
+- **[CLAIM-226](../claims.d/CLAIM-226.md) and [CLAIM-074](../claims.d/CLAIM-074.md).** Differential attunement (p. 6) holds that receivers are expected to diverge. "Pre-channel tendencies" corresponds, in structure only, to [CLAIM-074](../claims.d/CLAIM-074.md)'s adaptational history.
+- **[CLAIM-002](../claims.d/CLAIM-002.md).** "Not a logic of transmission" (p. 9) denies carried content, not causal descent. The two do not conflict.
+- **[CASE-068](../cases.d/CASE-068.md)**, by analogy only. In Moussaïd et al., speakers shifted the evaluative signal toward their own opinion (c = 0.25), and receivers tracked the signal they received (c = 0.55). That is neither pure contagion nor attunement without uptake. The stance coded there is sentence-level content, not affect in Massumi's sense, so it does not test him.
 
 ### Distributed agency and individuation
 
-- **QUESTION-063.** The alarm (p. 6) is a shared cue with differential response, which is the question's common-drive case. Uniform response would need pre-channelled tendencies. This sets Massumi against Bencherki, Brummans and Vézy's spillover.
+- **[QUESTION-063](../questions.d/QUESTION-063.md).** The alarm (p. 6) is a shared cue with differential response, which is the question's common-drive case. Uniform response would need pre-channelled tendencies. This sets Massumi against Bencherki, Brummans and Vézy's spillover.
 
 ### Will-organization, organizational affect and authenticity
 
-- **Capacitation** is a third quantity beside emotion and valence: see CLAIM-tmptb7y2, and CLAIM-039's note, which finds it neither a ground nor a defeater.
-- **"Felt … only in its effects"** (p. 4) is CLAIM-439's unfelt.
-- **Differential attunement** (pp. 3, 6, 9) is a further option for QUESTION-053, with its own test. It is an analogy to CLAIM-437.
-- **Symbiosis, not choice** (p. 12). CLAIM-353 applies only where an organization must choose. This is CLAIM-362's second form of non-domination.
-- **"Surplus of unacted-out potential"** (p. 7) is the third surplus in CLAIM-047's note.
+- **Capacitation** is a third quantity beside emotion and valence: see [CLAIM-tmptb7y2](../claims.d/CLAIM-tmptb7y2.md), and [CLAIM-039](../claims.d/CLAIM-039.md)'s note, which finds it neither a ground nor a defeater.
+- **"Felt … only in its effects"** (p. 4) is [CLAIM-439](../claims.d/CLAIM-439.md)'s unfelt.
+- **Differential attunement** (pp. 3, 6, 9) is a further option for [QUESTION-053](../questions.d/QUESTION-053.md), with its own test. It is an analogy to [CLAIM-437](../claims.d/CLAIM-437.md).
+- **Symbiosis, not choice** (p. 12). [CLAIM-353](../claims.d/CLAIM-353.md) applies only where an organization must choose. This is [CLAIM-362](../claims.d/CLAIM-362.md)'s second form of non-domination.
+- **"Surplus of unacted-out potential"** (p. 7) is the third surplus in [CLAIM-047](../claims.d/CLAIM-047.md)'s note.
 

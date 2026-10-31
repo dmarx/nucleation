@@ -85,16 +85,16 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-002.** Transduction is continuity of transmission without similarity of function. CLAIM-002 says that gives descent, not fidelity.
-- **CLAIM-171.** Retrospective meaning is a systemic form of CLAIM-171's position, and it gives CLAIM-160's intended meaning no slot.
-- **CLAIM-496.** Coexisting meanings are incoherence that is not failure; the task-relative criterion is the record's own.
+- **[CLAIM-002](../claims.d/CLAIM-002.md).** Transduction is continuity of transmission without similarity of function. [CLAIM-002](../claims.d/CLAIM-002.md) says that gives descent, not fidelity.
+- **[CLAIM-171](../claims.d/CLAIM-171.md).** Retrospective meaning is a systemic form of [CLAIM-171](../claims.d/CLAIM-171.md)'s position, and it gives [CLAIM-160](../claims.d/CLAIM-160.md)'s intended meaning no slot.
+- **[CLAIM-496](../claims.d/CLAIM-496.md).** Coexisting meanings are incoherence that is not failure; the task-relative criterion is the record's own.
 
 ### Distributed agency and individuation
 
-- **CLAIM-tmpg3993** meets this theory's own refutation condition for the question of levels, though not for the aggregation of agents.
+- **[CLAIM-tmpg3993](../claims.d/CLAIM-tmpg3993.md)** meets this theory's own refutation condition for the question of levels, though not for the aggregation of agents.
 
 ### Nucleating argument and formal apparatus
 
-- **TERM-097.** "Coexisting meanings" is not yet incoherence. Coherence is agreement under a stated correspondence structure, and the paper states none under which the meanings must agree (CLAIM-265). The dispute with Weick is about that structure.
-- **CLAIM-310.** Judgements of one action that are functions of its features jointly refine, so their coexistence does not by itself show that "several individuations are ongoing" (p. 1358).
+- **[TERM-097](../terms.d/TERM-097.md).** "Coexisting meanings" is not yet incoherence. Coherence is agreement under a stated correspondence structure, and the paper states none under which the meanings must agree ([CLAIM-265](../claims.d/CLAIM-265.md)). The dispute with Weick is about that structure.
+- **[CLAIM-310](../claims.d/CLAIM-310.md).** Judgements of one action that are functions of its features jointly refine, so their coexistence does not by itself show that "several individuations are ongoing" (p. 1358).
 

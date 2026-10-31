@@ -88,19 +88,19 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-tmpeli2w.** Information in this sense is a change in the interpreter (CLAIM-118) or in the questions a receiver can decide (CLAIM-257). It is not evidence of the kind Blackwell's order compares (CLAIM-050, CLAIM-259), so the two are not rivals.
-- **CLAIM-171.** If meaning is the structure the transduction produces, it is known only afterwards. That is the cost of CLAIM-171's position at full strength.
+- **[CLAIM-tmpeli2w](../claims.d/CLAIM-tmpeli2w.md).** Information in this sense is a change in the interpreter ([CLAIM-118](../claims.d/CLAIM-118.md)) or in the questions a receiver can decide ([CLAIM-257](../claims.d/CLAIM-257.md)). It is not evidence of the kind Blackwell's order compares ([CLAIM-050](../claims.d/CLAIM-050.md), [CLAIM-259](../claims.d/CLAIM-259.md)), so the two are not rivals.
+- **[CLAIM-171](../claims.d/CLAIM-171.md).** If meaning is the structure the transduction produces, it is known only afterwards. That is the cost of [CLAIM-171](../claims.d/CLAIM-171.md)'s position at full strength.
 
 ### Distributed agency and individuation
 
-- **QUESTION-285**: the classroom and recess example sits at the measurement rung.
-- **QUESTION-281**: the readings' "metastable" is not the sense nucleation needs.
-- **CLAIM-474**: compatibility is defined as individuation.
-- **CLAIM-477**: transduction is the recursion, stated as propagation.
-- **TERM-088**: the genetic sense.
+- **[QUESTION-285](../questions.d/QUESTION-285.md)**: the classroom and recess example sits at the measurement rung.
+- **[QUESTION-281](../questions.d/QUESTION-281.md)**: the readings' "metastable" is not the sense nucleation needs.
+- **[CLAIM-474](../claims.d/CLAIM-474.md)**: compatibility is defined as individuation.
+- **[CLAIM-477](../claims.d/CLAIM-477.md)**: transduction is the recursion, stated as propagation.
+- **[TERM-088](../terms.d/TERM-088.md)**: the genetic sense.
 
 ### Nucleating argument and formal apparatus
 
-- **CLAIM-503.** Information is relative to a system there too, but with an ex ante criterion of failing to inform, at the price of fixing states and decision problems in advance.
-- **CLAIM-185 and QUESTION-037.** Simondon's crystal, transduction as structuring that propagates step by step, is the ancestor of the nucleating-argument line's image. Analogy.
+- **[CLAIM-503](../claims.d/CLAIM-503.md).** Information is relative to a system there too, but with an ex ante criterion of failing to inform, at the price of fixing states and decision problems in advance.
+- **[CLAIM-185](../claims.d/CLAIM-185.md) and [QUESTION-037](../questions.d/QUESTION-037.md).** Simondon's crystal, transduction as structuring that propagates step by step, is the ancestor of the nucleating-argument line's image. Analogy.
 

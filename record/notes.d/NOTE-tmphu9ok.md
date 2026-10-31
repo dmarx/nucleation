@@ -155,16 +155,16 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-tmpeli2w** offers an operational answer to this note's first open question. An action fails to inform a population if, after exposure, neither its response function on held-out items nor the set of questions it can decide changes.
+- **[CLAIM-tmpeli2w](../claims.d/CLAIM-tmpeli2w.md)** offers an operational answer to this note's first open question. An action fails to inform a population if, after exposure, neither its response function on held-out items nor the set of questions it can decide changes.
 
 ### Distributed agency and individuation
 
-- **QUESTION-285.** Iliadis sets information "exchanged between beings already individuated" against information "within systems to come that produce a new individuation" (p. 11). That parallels a fixed apparatus against one whose discriminations are revised. Same structure only.
-- **TERM-088.** The paper's individuation is genetic, which is none of TERM-088's four senses.
-- **QUESTION-281.** "metastability to stability" (p. 11) is the only trace of the dynamical sense. Simondon's crystal (LIT-1648) would settle it.
+- **[QUESTION-285](../questions.d/QUESTION-285.md).** Iliadis sets information "exchanged between beings already individuated" against information "within systems to come that produce a new individuation" (p. 11). That parallels a fixed apparatus against one whose discriminations are revised. Same structure only.
+- **[TERM-088](../terms.d/TERM-088.md).** The paper's individuation is genetic, which is none of [TERM-088](../terms.d/TERM-088.md)'s four senses.
+- **[QUESTION-281](../questions.d/QUESTION-281.md).** "metastability to stability" (p. 11) is the only trace of the dynamical sense. Simondon's crystal ([LIT-1648](../literature.d/LIT-1648.md)) would settle it.
 
 ### Nucleating argument and formal apparatus
 
-- **The open question "whether anything counts as a failure to inform"** has an answer in decision-theoretic terms (CLAIM-503, note of 2026-10-31). An experiment within ε of an uninformative one improves no [0, 1]-loss decision problem by more than ε, and this is decided before any outcome. This is a translation, not an identity: Simondon's disparity is not a likelihood.
-- **The crystal.** Iliadis does not use it, but it is Simondon's model case (LIT-1648's summary) and the source of this record's own image (QUESTION-037, CLAIM-185).
+- **The open question "whether anything counts as a failure to inform"** has an answer in decision-theoretic terms ([CLAIM-503](../claims.d/CLAIM-503.md), note of 2026-10-31). An experiment within ε of an uninformative one improves no [0, 1]-loss decision problem by more than ε, and this is decided before any outcome. This is a translation, not an identity: Simondon's disparity is not a likelihood.
+- **The crystal.** Iliadis does not use it, but it is Simondon's model case ([LIT-1648](../literature.d/LIT-1648.md)'s summary) and the source of this record's own image ([QUESTION-037](../questions.d/QUESTION-037.md), [CLAIM-185](../claims.d/CLAIM-185.md)).
 

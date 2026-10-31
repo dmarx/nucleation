@@ -62,14 +62,14 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Distributed agency and individuation
 
-- **CLAIM-418, part 3, and CLAIM-430, part 3**: radial extension, and the condition of institutionalization (pp. 578–579).
+- **[CLAIM-418](../claims.d/CLAIM-418.md), part 3, and [CLAIM-430](../claims.d/CLAIM-430.md), part 3**: radial extension, and the condition of institutionalization (pp. 578–579).
 
 ### Will-organization, organizational affect and authenticity
 
-- **CLAIM-122**: the Navy TQ case and its structural context.
-- **CLAIM-080**: actors carry the change.
+- **[CLAIM-122](../claims.d/CLAIM-122.md)**: the Navy TQ case and its structural context.
+- **[CLAIM-080](../claims.d/CLAIM-080.md)**: actors carry the change.
 
 ### Nucleating argument and formal apparatus
 
-- **CLAIM-189.** It supports the counter that change in a developing argument is legitimate, and that traceability, not preservation, is what a record secures.
+- **[CLAIM-189](../claims.d/CLAIM-189.md).** It supports the counter that change in a developing argument is legitimate, and that traceability, not preservation, is what a record secures.
 

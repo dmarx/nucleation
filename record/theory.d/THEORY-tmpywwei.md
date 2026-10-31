@@ -74,14 +74,14 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-226 and CLAIM-074.** Differential attunement and pre-channelling correspond, in structure, to interpreter history as a source of divergent response.
-- **CASE-068**, by analogy only: each speaker shifted the evaluative stance and each receiver tracked it. This is content-level, not affect.
+- **[CLAIM-226](../claims.d/CLAIM-226.md) and [CLAIM-074](../claims.d/CLAIM-074.md).** Differential attunement and pre-channelling correspond, in structure, to interpreter history as a source of divergent response.
+- **[CASE-068](../cases.d/CASE-068.md)**, by analogy only: each speaker shifted the evaluative stance and each receiver tracked it. This is content-level, not affect.
 
 ### Distributed agency and individuation
 
-- **QUESTION-063**: a shared cue is common drive, not coupling.
+- **[QUESTION-063](../questions.d/QUESTION-063.md)**: a shared cue is common drive, not coupling.
 
 ### Will-organization, organizational affect and authenticity
 
-- **QUESTION-053**: a further option, with its own test. It is an analogy to CLAIM-437.
+- **[QUESTION-053](../questions.d/QUESTION-053.md)**: a further option, with its own test. It is an analogy to [CLAIM-437](../claims.d/CLAIM-437.md).
 

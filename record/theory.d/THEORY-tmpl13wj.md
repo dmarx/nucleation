@@ -73,13 +73,13 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ### Pragmatic transport
 
-- **CLAIM-496.** It is the record's case of incoherence without loss, and it supplies the task-relative criterion this ideal lacks.
+- **[CLAIM-496](../claims.d/CLAIM-496.md).** It is the record's case of incoherence without loss, and it supplies the task-relative criterion this ideal lacks.
 
 ### Distributed agency and individuation
 
-- **QUESTION-281**: the discord route, by analogy only.
+- **[QUESTION-281](../questions.d/QUESTION-281.md)**: the discord route, by analogy only.
 
 ### Will-organization, organizational affect and authenticity
 
-- **CLAIM-358, CLAIM-362, and CLAIM-353**: CLAIM-353 is the formal limit if a choice is required.
+- **[CLAIM-358](../claims.d/CLAIM-358.md), [CLAIM-362](../claims.d/CLAIM-362.md), and [CLAIM-353](../claims.d/CLAIM-353.md)**: [CLAIM-353](../claims.d/CLAIM-353.md) is the formal limit if a choice is required.
 
