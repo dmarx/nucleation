@@ -1,0 +1,225 @@
+---
+status: Skimmed
+paper: LIT-tmpogi33
+title: 'Chen, Lau, Mendel, Wei & Murfet — dynamical versus Bayesian transitions in TMS'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    From the arXiv preprint 2310.06301v1 (10 October 2023), 66 pp., fetched
+    2026-10-31; the only arXiv version. Text extracted with `pdftotext
+    -layout`. Read in full: the abstract, §§1–6, the reference list, and
+    Appendices A (critical points, with Table A.1), B (SGD trajectories, by
+    caption), C (the free energy formula, critical sample sizes, double
+    transitions), D (Bayesian antecedents), E (the LLC as complexity), F
+    (MCMC experiments, health, c = 4 and 5) and K (LLC estimation, Table
+    K.1). Skimmed: Appendices G–J (pp. 36–64), the derivations of the
+    potential in local coordinates and of the k-gons' learning
+    coefficients; I read their statements (Lemma 3.1's proof structure,
+    Theorems H.1, I.1–I.2, J.1–J.4, Table H.2) and not the algebra. The
+    figures did not survive extraction; their captions did. Checks, my own
+    scripts: the population loss computed directly from the model by
+    quadrature, independently of Lemma 3.1, reproduces Table 1's losses
+    (6-gon 0.04819, 5-gon 0.06874, 5⁺-gon 0.06180) and §C.3's 4⁺-gon
+    0.10417; solving Eq. 12 reproduces n_cr ≈ 601 for 5 → 6 and ≈ 381 (327
+    with Δc = 0) for 4⁺ → 5; the c-gon learning coefficient (3c − 1)/2 is
+    the dimension count modulo the O(2) orbit; and I computed the critical
+    sample sizes of the antecedents along the chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺,
+    which the paper plots but does not tabulate.
+date: '2026-10-31'
+summary: >-
+  In Elhage et al.'s toy model of superposition with two hidden dimensions,
+  regular k-gons are critical points of a closed-form population loss, and
+  their local learning coefficients predict, through the free energy
+  formula, a Bayesian phase transition from the 5-gon to the 6-gon near
+  n = 600 that MCMC confirms. SGD trajectories plateau at the same
+  critical points and move to lower loss and higher estimated complexity.
+  The paper's Bayesian antecedent hypothesis is one-directional, that
+  training's transitions have Bayesian counterparts; it says outright
+  that there is "no necessary relation" between the two kinds, and its
+  main Bayesian transition, 5 → 6, was never seen in training.
+---
+<!-- inactive-ok-file: QUESTION-tmpiir0l QUESTION-039 CLAIM-474 THEORY-tmpzcsl4 LIT-354 — Open, Proposed or Unavailable; the question this bears on, the one it refines, a claim about sequence, the THEORY filed from this reading, and Watanabe's unread book -->
+
+# NOTE-tmp1z319: Chen, Lau, Mendel, Wei & Murfet — dynamical versus Bayesian transitions in TMS
+
+## Contribution
+
+For the toy model of superposition (TMS, LIT-323) in its high-sparsity
+limit, f(x, w) = ReLU(WᵀWx + b) with inputs μe_i, μ ~ U[0, 1], the paper:
+
+- derives a closed form for the population loss (Lemma 3.1);
+- classifies families of critical points for r = 2 hidden dimensions as
+  k-gons with σ positive biases and ϕ large negative ones (§3.2, App. A),
+  and derives the local learning coefficients of several (Table 1,
+  Table H.2), e.g. 5-gon λ = 7, 5⁺ and 6-gon λ = 8.5 at c = 6;
+- shows with the free energy formula, and confirms with MCMC, a Bayesian
+  phase transition 5 → 6 between n = 600 and 700 (Fig. 2, App. C.2);
+- shows SGD trajectories plateau at the same critical points, with
+  "opposing staircases" of falling loss and rising estimated LLC (Fig. 1,
+  Fig. 3, App. B);
+- proposes the Bayesian antecedent hypothesis (BAH, §5.1).
+
+## Key insight
+
+Free energy F_n ≈ nL + λ log n + c orders a model's regions differently
+at different n: small n favours low λ, large n low loss. Gradient-based
+training also moves from high loss and low λ to low loss and high λ. The
+two share the same landmarks, the critical points, because both are
+governed by the singularities of the same loss. That they share landmarks
+does not make them one journey, and the paper says so.
+
+## Assumptions
+
+- **High-sparsity TMS** with the Gaussian-noise likelihood
+  p(x|w) ∝ exp(−½‖x − f(x, w)‖²) (Eq. 3), r = 2, mostly c = 6.
+- **The free energy formula holds at finite n** with the volume and lower
+  order terms absorbed into a constant c_α (Eq. 9), and the constant taken
+  to come from the prior, −log(V_α φ(w*_α)) (App. C.1). The authors flag
+  the "fundamental tension" of using an asymptotic formula at finite n
+  (§4.2).
+- **Phases are regions W_{k,σ}** defined by the convex-hull count and the
+  number of positive biases, each assumed dominated by its k^{σ+}-gon
+  (§4.2, App. F.2).
+- **SGD settings.** n = 1000 training samples, batch 20, rate 0.005, 4500
+  epochs, initialised at a 4-gon plus noise of s.d. 0.01 "to encourage the
+  SGD trajectory to pass through critical points with high loss" (§5); a
+  second set initialised at MCMC samples from the posterior at n = 100.
+
+## Key results
+
+- **Table 1 (c = 6).** 5-gon: λ = 7, L = 0.06874. 5⁺-gon: λ = 8.5,
+  L = 0.06180. 6-gon: λ = 8.5, L = 0.04819. Losses checked independently.
+- **The Bayesian transition 5 → 6.** ΔL = −0.02055, Δλ = 1.5,
+  Δc = 2.7535 give n_cr = 601 (App. C.2, checked); MCMC (NUTS, six chains,
+  N(0, 1) prior, ten datasets per n) shows the switch between 600 and 700
+  (Fig. 2, F.2). MCMC fails to mix at n far above the reported range
+  (Fig. F.4).
+- **Dynamical transitions observed (Eq. 10).** 4⁺⁺⁻⁻⁻ → 4⁺⁻⁻ → 4⁻,
+  4⁺⁻⁻⁻ → 4⁻⁻, 4⁺⁺⁻⁻ → 4⁺⁻ → 4, and 4⁺⁺⁻ → 4⁺ → 5 → 5⁺. These come from
+  the runs among 30 seeds that showed a transition (App. B), and from 400
+  posterior-initialised runs (Fig. 3).
+- **No dynamical 5 → 6.** "the Bayesian phase transition 5 → 6 has not
+  been observed as a dynamical transition (it may occur, just with low
+  probability per SGD step)" (§5.1).
+- **The BAH.** "The dynamical transitions α → β encountered in neural
+  network training have Bayesian antecedents" (§5.1). App. D finds
+  antecedents for all transitions in Eq. 10, the two lowest-n ones
+  inconclusive.
+- **Order (App. C.4, Fig. D.1).** With Δc = 0, n_cr = N(−Δλ/ΔL), N the
+  inverse of n/log n. So two successive Bayesian transitions occur in
+  increasing n only if the slope ΔL/Δλ rises along the chain: the curve in
+  the (λ, L) plane is concave up. Fig. D.1's caption states this is
+  necessary "if the time order of dynamical transitions matches the sample
+  size order of Bayesian transitions". The paper does not tabulate the
+  resulting n_cr. My computation, with Table C.2's constants, Table K.1's
+  λ̂ and losses from my quadrature: 4⁺⁺⁻ → 4⁺ at n ≈ 190, 4⁺ → 5 at
+  ≈ 370, 5 → 5⁺ at ≈ 2,500 (≈ 1,600 with the theoretical λ = 7 and 8.5).
+  The slopes are −0.029, −0.018, −0.003, rising, so along this chain the
+  time order and the n order agree.
+- **Two consequences the paper does not draw.** At n = 1000, the size of
+  SGD's own training set, the posterior is dominated by the 6-gon (Fig. 2),
+  which SGD did not reach; and SGD's last step, 5 → 5⁺, has its antecedent
+  only above n ≈ 1,600, so at n = 1000 the free energy still prefers the
+  5-gon SGD left. Training at sample size n ends neither where the
+  posterior at n is nor at a point on its path.
+- **Table K.1.** λ̂ (n = 5000, bespoke SGLD steps): 4: 5.30, 4⁺: 5.76,
+  5: 7.71, 5⁺: 9.91, 6: 9.03, against theory 7, 8.5, 8.5 for 5, 5⁺, 6.
+  The estimator overstates the 5⁺-gon relative to the 6-gon, whose
+  theoretical values are equal. For high-loss points SGLD can itself
+  transition, giving negative λ̂ (Fig. 3).
+
+## Method
+
+Classify critical points of the closed-form loss; compute λ by showing
+the potential is locally a (non-full) sum of squares (minimally singular)
+and counting; predict phase occupancy from exp(−f_α(n)) normalised over
+phases (App. F.1); sample the posterior with NUTS and classify samples by
+convex hull and bias signs, verified by a symmetry-quotiented t-SNE
+(App. F.2); run SGD and estimate λ̂ along trajectories with SGLD.
+
+## Concepts
+
+- **Bayesian phase transition α → β** — the local free energies F_n(W_α),
+  F_n(W_β) swap order at a critical sample size n_cr (§4.1).
+- **Dynamical transition α → β** — a trajectory near w*_α at τ₁ and near
+  w*_β at τ₂ > τ₁ "without encountering an intermediate critical point"
+  (§5).
+- **Bayesian antecedent** — a Bayesian transition between the same phases
+  as a dynamical one (§5.1).
+- **Internal model selection** — the posterior's choice among phases by
+  local free energy (§4.1, after Watanabe §7.6).
+
+## Connections
+
+- Elhage et al. (LIT-323) defines the model.
+- Watanabe (LIT-616; the book, LIT-354, is not read) for the free energy
+  formula, which THEORY-087 holds with its conditions.
+- Lau et al. (2023) for the LLC estimator; not held here. Wang et al.'s
+  refined LLC (LIT-1535) is the same group's later work.
+- Saddle-to-saddle dynamics in deep linear networks (Saxe et al., Jacot et
+  al.) and Abbe et al.'s leap complexity are named as the dynamical
+  precedent (§2).
+
+## Bearing on the record
+
+- **QUESTION-tmpiir0l: the question misdescribes this paper, and so did
+  the exchange's critique of A3.** The question files it as pulling
+  "toward correspondence", quoting the abstract's "journey". The paper
+  holds three things, and only the first is correspondence:
+  1. the two processes share landmarks and a direction of travel (high
+     loss, low λ to low loss, high λ);
+  2. "There is no necessary relation between these two kinds of
+     transitions" (§5.1), with a reason (distant regions, high barriers)
+     and an instance: the posterior's main transition, 5 → 6, was not
+     observed in training;
+  3. a one-way conjecture, the BAH: training's transitions have Bayesian
+     antecedents. It does not claim the converse, nor that the posterior's
+     order over n is training's order over t.
+  So A3's citation of it for a separation was not wrong: §5.1 states one.
+  What A3 left out was the BAH and the shared direction. The workbench
+  entry's "A3 had cited Chen et al. for the separation without reporting
+  their conjecture of the opposite" overstates the conjecture, which is
+  not the opposite of the separation.
+- **The question's third row now has a partial datum.** Along the one
+  observed chain, the antecedents' n_cr rise in the order training meets
+  them (190, 370, then 1,600–2,500). But SGD at n = 1000 skips the 6-gon,
+  which dominates the posterior from n ≈ 600, and steps to the 5⁺-gon,
+  which the posterior prefers only above n ≈ 1,600. A map from t to n
+  would have to be monotone along the chain and still could not send the
+  end of training to n = 1000. This is the stated case of the question's
+  "What would count": a posterior-dominant region SGD did not reach
+  (THEORY-tmpzcsl4).
+- **QUESTION-039.** For TMS, what sets the order of acquisition is the
+  sequence of saddles a trajectory passes from its initialisation; the
+  4-gon initialisation was chosen to produce transitions (§5).
+- **CLAIM-474.** Its note on order as an artefact of encounter has a
+  concrete analogue here: different initialisations give different chains
+  (Eq. 10), and none of them contains the posterior's 5 → 6.
+- **ML practice.** None to speak of; the LIT's `anthology-candidate` flag
+  rests on the LLC as a tool and can stay.
+
+## Limitations
+
+- **One toy model**, r = 2, c ≤ 6, high-sparsity limit.
+- **The free energy formula is used at n from 100 to 1000**, with a
+  heuristic constant term; the authors caution against reading the low-n
+  region (§4.2, F.2).
+- **λ̂ values for most 4-gon variants are estimates** with large standard
+  deviations (Table K.1); the low-n antecedents (D.2, D.3) are inconclusive
+  by the authors' own account.
+- **SGD hyperparameters are fixed** (one rate, one batch size); the
+  question of whether larger noise lets SGD cross to the 6-gon is not
+  asked.
+- **Appendices G–J were skimmed**: the learning coefficients they derive
+  are taken as stated, except the c-gons', which follow from a dimension
+  count.
+
+## Open questions
+
+- At which learning rates and batch sizes, if any, does SGD at n = 1000
+  reach the 6-gon? That is the experiment that would separate "not
+  accessible" from "not reached in 4500 epochs".
+- Do the BAH's antecedents keep the training order in other chains of
+  Eq. 10, once constants and λ̂ uncertainties are propagated?
