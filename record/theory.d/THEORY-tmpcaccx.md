@@ -80,9 +80,9 @@ then reorganizes how he describes MSF so that it can accept.
   not arbitrary. The paper's perspectivism does not say what makes one cut
   better than another.
 - **Massumi's formula.** It runs both ways, toward augmented or diminished
-  capacitation, and he denies that affect is transmitted (THEORY-tmpkdsex,
-  THEORY-tmpywwei). Restricting agency to augmentation, and the passing
+  capacitation, and he denies that affect is transmitted ([THEORY-tmpkdsex](THEORY-tmpkdsex.md),
+  [THEORY-tmpywwei](THEORY-tmpywwei.md)). Restricting agency to augmentation, and the passing
   of excess action, are the authors' own moves.
 - **The actors-as-webs view.** Tsoukas and Chia's becoming, which the
   paper calls a parallel, keeps reflexive human actors as its carriers
-  (THEORY-tmprgc9k).
+  ([THEORY-tmprgc9k](THEORY-tmprgc9k.md)).
