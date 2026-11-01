@@ -173,7 +173,6 @@ is not a case of frustration making a form.
 
 ## Note of 2026-10-31: Simondon's metastability as his organization-studies readers use it
 
-<!-- inactive-ok-block: THEORY-1276 THEORY-1280 THEORY-1278 THEORY-1283 — Proposed; the readings filed 2026-10-31, cited as context -->
 This question's nucleation route, "from a locally stable state" across "a
 finite barrier", is the physical sense of metastability. Simondon's
 individuation, read today through Iliadis 2013 and two organization
@@ -225,3 +224,26 @@ direct, and in these readings it is not.
   so these are names for this question's second clause, not answers to it.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-01: stabilization and entrenchment kept apart, from evolutionary transitions
+<!-- inactive-ok-block: LIT-188 CLAIM-tmpr242r — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+
+Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §2; [NOTE-173](../notes.d/NOTE-173.md), re-read 2026-11-01) separate
+two of this question's three achievements for social groups, without a
+dynamical model. A connected collection can dissolve, persist on outside
+scaffolding, or "stabilize the network of interactions" through
+self-organizing processes. Only then, in the paper's words,
+"stabilization of the network affords the opportunity for evolution to
+entrench particular patterns of interactions", making some of them
+"core", the ones whose perturbation
+is "catastrophic to the whole system" (§2). Stabilization is one event.
+Coming to be core, which is a constitutive role in the sense this
+question asks about, is another and later one. The paper says the result
+is "highly contingent, even if contingently irreversible", and that
+whether a given conexus will get there is "very difficult to predict".
+It names no dynamical route among those listed here. Its entrenchment is
+an evolutionary process of building dependents on what has stabilized,
+which none of the four routes names. [CLAIM-tmpr242r](../claims.d/CLAIM-tmpr242r.md) adds that
+entrenchment does not by itself give closure.
+
+No status, title or warrant changes.

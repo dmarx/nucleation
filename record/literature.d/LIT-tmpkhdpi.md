@@ -1,0 +1,79 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-01 ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md)) from the authors' penultimate
+  draft; worth keeping as the proof that, if constitution is non-causal
+  and wholes supervene on their parts, every cause of a whole's behaviour
+  is a common cause of it and of some part's, so mutual manipulability by
+  ideal interventions is unsatisfiable and, once relaxed, gives no
+  evidence of constitution ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)).
+title: 'Constitutive Relevance, Mutual Manipulability, and Fat-Handedness'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Filed and read at the owner's request to read and file the debate on
+    mechanistic constitution after Craver. Citation verified on Crossref:
+    BJPS 67(3), 731–756, doi 10.1093/bjps/axv003. Crossref gives the print
+    date 2016-09-01; OpenAlex gives 2015-02-26, the advance-access date
+    under which the paper is often cited as 2015. `published:` takes the
+    earlier (ADR-002). Read from the authors' penultimate draft,
+    https://m-baum.github.io/docs/Mechanisms.pdf, 25 pp.
+tags:
+- philosophy-of-science
+- causality
+- mereology
+date: '2026-11-01'
+published: '2015-02-26'
+doi: '10.1093/bjps/axv003'
+first_author: 'Baumgartner'
+keywords:
+- 'constitutive relevance'
+- 'mutual manipulability'
+- 'interventionism'
+- 'fat-handed interventions'
+- 'supervenience'
+- 'mechanistic explanation'
+implementations: []
+summary: >-
+  Baumgartner & Gebharter (2016). Embedded in Woodward's 2003
+  interventionism, Craver's mutual manipulability entails that no part is
+  constitutively relevant to any whole, since every cause of a
+  supervening behaviour is a common cause of it and of its base and so
+  not an intervention; embedded in Woodward's relaxed version it makes
+  constitution causal; with a temporal clause added (causes precede
+  effects for some intervention) it is consistent, but then mutual
+  manipulation is fat-handed and its correlations are equally explained
+  by a model with no constitution. Constitution gets only second-order,
+  abductive evidence: no surgical cause of the whole is ever found.
+---
+<!-- inactive-ok-file: CLAIM-515 QUESTION-284 CLAIM-tmp1qybv — Proposed or Open; the entries this work bears on, cited as open -->
+
+# LIT-tmpkhdpi: Constitutive Relevance, Mutual Manipulability, and Fat-Handedness
+
+Baumgartner, M., & Gebharter, A. (2016). Constitutive relevance, mutual manipulability, and fat-handedness. *British Journal for the Philosophy of Science*, 67(3), 731–756.
+
+Read in full in [NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md).
+
+## Key takeaways
+
+- Under supervenience and non-causal constitution, top-down ideal
+  interventions on a whole with respect to its parts cannot exist (pp.
+  10–13), so mutual manipulability under Woodward 2003 entails that there
+  is no constitution.
+- Under Woodward's relaxed interventions, it entails that whole and parts
+  are causally related, contradicting non-causal constitution (pp. 15–17).
+- A temporal clause restores consistency (pp. 17–18), but all mutual
+  manipulations are then common causes, and a model with no constitutive
+  dependence implies the same correlations (pp. 18–20).
+- The fat-handedness criterion: infer constitution when every intervention
+  on the whole turns out, as the variable set is expanded, to be a common
+  cause of it and some part (pp. 20–22). Only inductive.
+
+## Standing in the record
+
+The sharpest statement of what the record's intervention results can and
+cannot show about where a capacity is realized. It bears on [CLAIM-522](../claims.d/CLAIM-522.md),
+[CLAIM-515](../claims.d/CLAIM-515.md) and [QUESTION-284](../questions.d/QUESTION-284.md); the bearing is set out in the note and in
+[CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md).

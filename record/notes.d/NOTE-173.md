@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpvdh17
 paper: LIT-188
 title: 'Griesemer & Shavit — Scaffolding individuality (3Cs)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-26'
@@ -22,6 +22,14 @@ history:
     R. Soc. B 378(1872): 20210398, online 2023-01-23).). Upgraded from
     `Skimmed` to `Read`: the claims table, assumptions and results are new,
     and the skim is corrected where the full text disagreed.
+- version: 3
+  date: '2026-11-01'
+  note: >-
+    Re-read in full on 2026-11-01 from the Europe PMC JATS XML
+    (PMC9869437, CC BY), at the owner's request, for its handling of
+    circularity and its modes of collective interaction. The PDFs served
+    proof-of-work or Cloudflare checks and were not used, so sections
+    stand in for pages. Corrections and a new section are appended.
 date: '2026-09-26'
 summary: >-
   The paper sets out an idealized three-stage sequence of interaction
@@ -126,7 +134,7 @@ There is no formal method. It is conceptual analysis by definition, analogy (pop
 
 ## Connections
 
-The paper's nearest neighbours in this record are Bourrat's individuality papers. It engages Bourrat's endogenization-of-scaffolding account directly (the BJPS paper, not held here) and Black, Bourrat & Rainey (2020), the model that [LIT-005](../literature.d/LIT-005.md) names as a test case. It shares the scaffolding premise but pushes against a purely Darwinian-properties account of individuality, and that is where it differs from [LIT-049](../literature.d/LIT-049.md) (individuals as coarse-grainings of lower-level processes) and [LIT-005](../literature.d/LIT-005.md) (information-theoretic individuality made interventional). Its reproducer-based framing, taken from Griesemer (2000), is the ancestor of the distinctions in [LIT-157](../literature.d/LIT-157.md) (reproducees, reproducers, Darwinian individuals). Its MLS1/MLS2 vocabulary cites Heisler & Damuth (1987), not the 1988 paper held as [LIT-201](../literature.d/LIT-201.md), but it trades on the distinction [LIT-201](../literature.d/LIT-201.md) draws. Its "levels of individuality and reproduction … have a complicated relationship to levels of selection" points at the units-of-selection map in [LIT-160](../literature.d/LIT-160.md). For the broader individuality landscape see [LIT-168](../literature.d/LIT-168.md), and for organism-centred process accounts see [LIT-167](../literature.d/LIT-167.md). Its scaffolding/niche framing sits alongside [LIT-110](../literature.d/LIT-110.md), [LIT-169](../literature.d/LIT-169.md) and [LIT-127](../literature.d/LIT-127.md), though it does not cite them.
+The paper's nearest neighbours in this record are Bourrat's individuality papers. It engages Bourrat's endogenization-of-scaffolding account directly (the BJPS paper, now registered as [LIT-tmpc4wc1](../literature.d/LIT-tmpc4wc1.md)) and Black, Bourrat & Rainey (2020), the model that [LIT-005](../literature.d/LIT-005.md) names as a test case. It shares the scaffolding premise but pushes against a purely Darwinian-properties account of individuality, and that is where it differs from [LIT-049](../literature.d/LIT-049.md) (individuals as coarse-grainings of lower-level processes) and [LIT-005](../literature.d/LIT-005.md) (information-theoretic individuality made interventional). Its reproducer-based framing, taken from Griesemer (2000), is the ancestor of the distinctions in [LIT-157](../literature.d/LIT-157.md) (reproducees, reproducers, Darwinian individuals). Its MLS1/MLS2 vocabulary cites Heisler & Damuth (1987), not the 1988 paper held as [LIT-201](../literature.d/LIT-201.md), but it trades on the distinction [LIT-201](../literature.d/LIT-201.md) draws. Its "levels of individuality and reproduction … have a complicated relationship to levels of selection" points at the units-of-selection map in [LIT-160](../literature.d/LIT-160.md). For the broader individuality landscape see [LIT-168](../literature.d/LIT-168.md), and for organism-centred process accounts see [LIT-167](../literature.d/LIT-167.md). Its scaffolding/niche framing sits alongside [LIT-110](../literature.d/LIT-110.md), [LIT-169](../literature.d/LIT-169.md) and [LIT-127](../literature.d/LIT-127.md), though it does not cite them.
 
 ## Bearing on the record
 
@@ -164,3 +172,84 @@ The paper's nearest neighbours in this record are Bourrat's individuality papers
 - The skim's open question treats discipline formation (§1) as an analogy from biology to academic communities. In the text it is an example of a *reverse* pathway in "fraternal" cases, running collaboration → cooperation → coordination. The paper's focus is human socio-cultural evolution throughout, and biology enters mainly through population-genetic analogies (Wilson trait groups, Wright demes).
 - The skim does not record that §2 engages Bourrat directly. The paper endorses his scaffolding and endogenization account (Bourrat, BJPS; Black, Bourrat & Rainey 2020) but faults his "reliance on classical island migration models" for neglecting Wright's shifting-balance tradition. It then proposes a "missing ingredient": community *reliability*, with endogenization "into the community rather than into a lower-level individual".
 - Minor: [LIT-188](../literature.d/LIT-188.md)'s summary reads "Griesemer et al. (2023)". There are two authors, James Griesemer and Ayelet Shavit.
+
+## Re-reading of 2026-11-01: corrections
+
+- **The among/within criterion.** The correction above says the body never
+  uses it. That is too strong. §2 uses the contrast once: the transition
+  "may ... incorporate inter-actions among disparate collective conexuses
+  as 'intra-actions' within an expanded, stabilized community" (after
+  Barad). It describes the transition there, and is never applied as a test
+  of non-circularity. So the substance of the correction stands.
+- **What defines Stage 3.** Only the shared goal is definitional ("otherwise
+  it is merely cooperation", §1). Belonging and identity are what
+  collaboration "may contribute to" in a community. The charge that Stage 3
+  presupposes the group is better grounded in §3. There, sustaining
+  heterogeneity "becomes a focal goal of every participating member", and
+  the paper cites Caporael's "cognition about the group itself".
+- **Three orderings, not two.** §2 also says demic groups are "candidates
+  for higher-level reproducers that may, post-transition, evolve the
+  developmental integration necessary to count them higher-level
+  individuals". That puts reproduction before individuality, beside §2's
+  later sentence and §3's "in tandem".
+- **Missed passages.**
+  - §3: "Reliability can involve a trade-off between developmental resources
+    carried within and ecological scaffolding outside the propagule", and
+    migrants carry "capacities to engage scaffolding".
+  - §3: migration is "a means for the products of evolution to modify the
+    mechanisms of the evolutionary process that created them".
+  - The abstract: "Reproducing 'systems' tend to hybridize with
+    environmental components".
+- **Minor.** C7 drops the paper's hedge: Bourrat's reliance on island models
+  "may neglect" Wright. Griesemer's "Units of evolutionary transition" is
+  dated January 2001 by Crossref.
+
+## Re-reading of 2026-11-01: circularity and individuating an organization
+
+**Circularity.** The paper never argues the answer its abstract gives. The
+body has three moves.
+1. **It starts from lower-level individuals.** They coordinate "to continue
+   to pursue whatever process trajectories they were individually
+   following" (§2). That is not circular for the transition in question,
+   but it leaves the regress the abstract names untouched.
+2. **It identifies a reproducer before an individual.** Demic groups are
+   candidate higher-level reproducers that become individuals only
+   "post-transition" (§2, after Griesemer 2000, [LIT-tmpjjlyw](../literature.d/LIT-tmpjjlyw.md), and
+   "The Units of Evolutionary Transition", [LIT-tmppe8tc](../literature.d/LIT-tmppe8tc.md)).
+3. **It lets scaffolds carry early coherence.** Crosswalk stripes, queues
+   and "external ecological scaffolding" do this. Endogenization later moves
+   "scaffolding effects into the community rather than into a lower-level
+   individual" (§2; Bourrat, [LIT-tmpc4wc1](../literature.d/LIT-tmpc4wc1.md); Black, Bourrat & Rainey 2020,
+   [LIT-tmptyunu](../literature.d/LIT-tmptyunu.md)).
+
+Generative entrenchment (Wimsatt 2007, [LIT-tmp9dwb5](../literature.d/LIT-tmp9dwb5.md)) is the mechanism. The
+loop by which products modify their own mechanisms is treated as a
+feature (§3), not dissolved.
+
+**The modes as criteria.** Each grade comes with a candidate criterion.
+- **Collection.** Membership lasts only while the interaction does ("only
+  'in' the collection ... so long as they interact"), and contributions are
+  aggregative.
+- **Conexus.** A connected web of binary interactions, with benefit that can
+  be booked per member (the lions).
+- **Community.**
+  - Per-member accounting of benefit becomes "effectively meaningless".
+  - Core interactions are entrenched.
+  - Removing a node or an interaction type disrupts the organization.
+  - Closure is asserted.
+
+The criteria fall into two kinds.
+- **Stated on interactions:** per-member accounting, the order of
+  entrenchment, the knockout test and release from a scaffold. Only these
+  can individuate an organization without presupposing it, and they do so
+  as a declared candidate whose verdict can come out false
+  ([CLAIM-tmpbij2b](../claims.d/CLAIM-tmpbij2b.md)).
+- **Stated on members' attitudes toward the group:** the shared goal,
+  belonging, the focal goal and group cognition. These individuate
+  constitutively.
+
+Knockout and entrenchment show dependence, not closure ([CLAIM-tmpr242r](../claims.d/CLAIM-tmpr242r.md)).
+None of the criteria is made operational. The companion Neolithic paper
+(Shavit & Sharon 2023, [LIT-tmpnhel1](../literature.d/LIT-tmpnhel1.md)) is the promised application, and is
+registered unread.
+

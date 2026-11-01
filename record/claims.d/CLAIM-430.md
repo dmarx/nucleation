@@ -249,3 +249,21 @@ other a mechanism.
   condition in the "structural context" senior managers create (p. 578).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-01: cooperation before the shared goal, in Griesemer and Shavit
+<!-- inactive-ok-block: LIT-188 — Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+
+Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §1; [NOTE-173](../notes.d/NOTE-173.md)) order the stages of an
+"egalitarian" transition in this claim's way: participants "must first
+coordinate before they have the opportunity to cooperate and they must
+cooperate in order to find common ground (shared goal or purpose) upon
+which to collaborate". Taking part in cooperation, for separate ends,
+comes before the shared goal that collaboration is later defined by. The
+paper's firm example is the cooperative stage: "I may work for the
+paycheck. You may work for prestige." It does not say how the shared goal
+arises from the cooperation. It also allows the reverse order in
+"fraternal" cases. Same structure, not shown same mechanism: the paper is
+about the formation of groups, and this claim is about an encounter's
+effect on its participants' perspectives.
+
+No status, title or warrant changes.

@@ -197,3 +197,38 @@ longer holds.
 
 Neither reading separates continuation from independent reconstitution.
 The question is unchanged and stays Open.
+
+## Note of 2026-11-01: Griesemer and Shavit on community reproduction, re-read
+<!-- inactive-ok-block: LIT-188 LIT-tmpjjlyw THEORY-418 — Deferred, unread; Proposed; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+
+[LIT-188](../literature.d/LIT-188.md) ([NOTE-173](../notes.d/NOTE-173.md), re-read in full on 2026-11-01) bears on this question
+from the side of reproduction, not persistence, and [THEORY-418](../theory.d/THEORY-418.md) already
+says so. Three points the earlier connection did not record:
+
+- **A criterion that not every causal descendant meets.** On Griesemer's
+  account of inheritance, which the paper adopts (§3; the source is
+  registered unread as [LIT-tmpjjlyw](../literature.d/LIT-tmpjjlyw.md)), offspring develop from a "sample"
+  of the parent's material parts, and "sampling propagates more than mere
+  resemblance in virtue of the offspring propagule having originated from
+  parts of the parents". A group founded by migrants drawn from the parent
+  community meets it. A similar group assembled independently does not.
+  That separates descent from independent reconstitution, one of the
+  three verdicts "What would count as an answer" asks for. It does not
+  separate numerical continuation from descent: the paper treats the
+  founding of a new group as reproduction throughout.
+- **What the sample must carry.** Not members but "the heterogeneous
+  structure and dynamics of their interactions", because "no one
+  individual migrant can carry even a symbolic representation of the
+  whole community structure in their head" (§3). The offspring must
+  "repeat the assembly" (after Caporael) of the organization by
+  development. So the paper's answer to "what must stay causally
+  continuous" is developmental capacity carried by an organized sample.
+  It is stated, and the Neolithic case that illustrates it is
+  conditional.
+- **The converse case.** The paper also describes a group changing while
+  its members stay: "reference groups themselves can move their trait
+  boundaries", so that "a person can no longer 'recognize' their party"
+  while remaining a member (§2). Members can also migrate among groups
+  within a group generation. Neither is analysed for persistence.
+
+No status, title or warrant changes.

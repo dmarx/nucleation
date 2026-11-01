@@ -109,3 +109,32 @@ The claim has three parts.
   criterion ([CLAIM-405](CLAIM-405.md)), and [CLAIM-474](CLAIM-474.md) holds that they need not agree.
 - **Not a reading of Simondon.** It answers his organization-studies
   readers. His own text is held as [LIT-1648](../literature.d/LIT-1648.md), Unavailable.
+
+## Note of 2026-11-01: coexisting levels in the constitution debate
+
+<!-- inactive-ok-block: LIT-tmpk95bs CLAIM-tmp1qybv — Unfetched or Proposed; filed 2026-11-01, cited as context -->
+The debate on mechanistic constitution read today holds part 3's picture
+of levels, coexisting and without causal relation between them, and adds
+two points.
+
+- **Coexistence without inter-level causation is the mechanists' default.**
+  If a whole supervenes on its parts and is not caused by them, every cause
+  of the whole is a common cause of it and some part ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)).
+  Romero 2015 ([LIT-tmpk95bs](../literature.d/LIT-tmpk95bs.md), unread) is cited for explaining inter-level
+  relations "without inter-level causation". So the claim's "coexists with
+  its realization" is the standard picture. What is new in the claim is
+  the closure criterion, which the debate lacks.
+- **The levels are different levels.** The debate's levels are levels of
+  parthood, local to a phenomenon ([NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md), footnote 6). The claim's
+  are levels of description, picked out by closure. [CLAIM-388](CLAIM-388.md)'s sum is a
+  property of the whole, and its units are parts, so the two coincide
+  there. In general they need not, which [CLAIM-405](CLAIM-405.md) already allows.
+- **Closure is testable where constitution is not.** The debate's
+  asymmetry is that the parts can change without the whole changing but
+  not the reverse ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md), p. 20). Whether a collective variable is
+  closed is decided by exactly those changes, redistributions that leave
+  the aggregate fixed, which can be made without touching the aggregate.
+  So part 2's "can be decided" survives the debate's negative results,
+  which concern constitution, not closure.
+
+No status, title or warrant changes.

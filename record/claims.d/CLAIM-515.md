@@ -81,3 +81,46 @@ look, not that they always come apart.
   may coincide, and that is a finding to establish.
 - **That the four exhaust the questions.** Justification, authority and
   value are further questions again ([CLAIM-523](CLAIM-523.md), [CLAIM-511](CLAIM-511.md)).
+
+## Note of 2026-11-01: the "realized" question in the mechanism literature
+
+<!-- inactive-ok-file: CLAIM-tmpg57ci — Proposed; the claim filed from this reading, cited as open -->
+
+- **Question 3, "realized".** Bechtel and Abrahamsen ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md),
+  [THEORY-tmpakm3a](../theory.d/THEORY-tmpakm3a.md)) hold that a model posited to fit behaviour shows only
+  how a mechanism of that kind could produce it, and that fit usually
+  cannot decide between architectures. What decides is identifying parts
+  and operations by experiment. That is this claim's "interventions that
+  discriminate implementations", with a field's history behind it.
+- **Question 4, "maintained".** The constitutive-relevance criterion
+  answers which parts realize a capability only relative to a declared
+  boundary ([CLAIM-tmpg57ci](CLAIM-tmpg57ci.md)). So the claim's fourth question, whether the
+  organization can maintain its own mechanisms, presupposes an answer to
+  where the organization ends. Interlevel experiments do not supply that
+  answer.
+
+No status, title or warrant changes.
+
+## Note of 2026-11-01: two senses of "realized"
+
+<!-- inactive-ok-block: CLAIM-tmp1qybv THEORY-tmp3pqnm THEORY-tmpy9dyw THEORY-tmpv5g3z CLAIM-tmpg57ci — Proposed or newly filed; the readings and claims that split this question, cited as context -->
+The mechanistic-constitution readings of this date split this claim's
+third question, "what mechanisms realize those capabilities, shown by
+interventions that discriminate implementations".
+- **Produced through, over time.** This is a causal relation, and
+  interventions can show it. The wording of the third question is right
+  for this sense.
+- **Consists in, at a time.** This is constitution. If a whole
+  supervenes on its parts and constitution is not causal, no set of
+  manipulation data separates a constitutive model from a pure
+  common-cause one (Baumgartner & Gebharter, [THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)). It is
+  then inferred abductively ([THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)). Or it is read off a
+  surgical intervention, given simultaneity and parthood already settled
+  ([THEORY-tmpv5g3z](../theory.d/THEORY-tmpv5g3z.md)).
+
+[CLAIM-tmp1qybv](CLAIM-tmp1qybv.md) states the split. It adds that the line between the two
+senses moves with the time scale of the description. [CLAIM-tmpg57ci](CLAIM-tmpg57ci.md) adds
+that, even in the causal sense, separating an internal producer from an
+outside controller needs a boundary the interventions presuppose. A use
+of this claim should say which sense of "realized" it means. No status,
+title or warrant changes.

@@ -134,7 +134,6 @@ paper, which never discusses drive.
 
 ## Note of 2026-10-31: shared cue or spillover, in two readings of affect
 
-<!-- inactive-ok-block: THEORY-1286 THEORY-1280 — Proposed; the readings filed 2026-10-31, cited as context -->
 Two readings filed today disagree on this question's distinction, for
 affect in groups, and neither measures it.
 

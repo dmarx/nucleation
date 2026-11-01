@@ -142,7 +142,6 @@ clauses, which [CLAIM-476](../claims.d/CLAIM-476.md) uses, wait on a reading of 
 
 ## Note of 2026-10-31: one paper, two senses
 
-<!-- inactive-ok-file: CLAIM-476 — Proposed; the claim that uses the third sense -->
 
 Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md)) cite Barad (2003, p. 815) for
 the agential cut and use it in two senses. At p. 1357: "Describing an

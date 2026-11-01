@@ -1,0 +1,69 @@
+---
+status: Unfetched
+status_note: >-
+  A lawful free copy was located 2026-11-01 and could not be fetched: the
+  author's preprint on PhilSci-Archive,
+  https://philsci-archive.pitt.edu/11083/5/Mutual_Manipulability_and_Causal_Inbetweenness.pdf.
+  The server's certificate chain ends in a root this client does not
+  trust, a second fetcher got HTTP 503, the Wayback capture
+  (20240604111239) reset the connection, and CORE's copy
+  (core.ac.uk/download/33752704.pdf) returned a Cloudflare challenge,
+  which was not pursued. The Springer version is paywalled. Free copy:
+  https://philsci-archive.pitt.edu/11083/5/Mutual_Manipulability_and_Causal_Inbetweenness.pdf.
+title: 'Mutual manipulability and causal inbetweenness'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Filed, not read, at the owner's request to read and file the debate on
+    mechanistic constitution after Craver. Citation verified on Crossref:
+    Synthese 195(1), 35–54 (2018), doi 10.1007/s11229-014-0564-5. Crossref
+    gives published-online 2014-10-10, OpenAlex 2014-10-09; `published:`
+    takes the earlier (ADR-002).
+tags:
+- philosophy-of-science
+- causality
+date: '2026-11-01'
+published: '2014-10-09'
+doi: '10.1007/s11229-014-0564-5'
+first_author: 'Harinen'
+keywords:
+- 'mutual manipulability'
+- 'interventionism'
+- 'mechanistic explanation'
+- 'non-causal dependence'
+- 'ideal interventions'
+implementations: []
+summary: >-
+  Harinen (2018), DOI-10.1007/s11229-014-0564-5. By the descriptions
+  available, mechanistic models contain non-causal relations beside causal
+  ones, so the standard ideal intervention is the wrong notion for
+  mutual manipulability, and an extended interventionism is proposed.
+  Unread; Baumgartner & Casini answer it (their footnote 8) that relaxing
+  interventions so deprives interventions on mechanisms of their
+  inferential value.
+---
+
+# LIT-tmpqah2d: Mutual manipulability and causal inbetweenness
+
+Harinen, T. (2018). Mutual manipulability and causal inbetweenness. *Synthese*, 195(1), 35–54. Online 2014.
+
+## Key takeaways
+
+*Not read.* From catalogue descriptions and from the work read beside it:
+
+- Catalogue descriptions: typical mechanistic models contain non-causal
+  relations as well as causal ones, so the standard ideal intervention is
+  not appropriate there, and an extended interventionism is argued for.
+- Baumgartner and Casini ([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md)), footnote 8: "Harinen (2014), who
+  also points out that MM imposes unsatisfiable requirements on
+  interventions, fails to see that relaxing the requirements in the vein
+  of interventionism∗ deprives interventions on mechanisms of their
+  inferential value."
+
+## Standing in the record
+
+Filed with the debate it belongs to. Whether its "causal inbetweenness"
+gives intervention data more leverage than Baumgartner and Casini allow is
+open until it is read.

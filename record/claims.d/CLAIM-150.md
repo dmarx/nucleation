@@ -180,3 +180,14 @@ arguments, and it is still the guard [CLAIM-206](CLAIM-206.md) rests on and [CLA
 [CLAIM-476](CLAIM-476.md) and [CLAIM-477](CLAIM-477.md) name. It keeps [THEORY-032](../theory.d/THEORY-032.md) and [LIT-222](../literature.d/LIT-222.md) among its
 grounds, since the lemma presupposing its relata is why an object
 ontology reproduces the categorical identification.
+
+## Note of 2026-11-01: a proved instance, for mechanisms
+
+<!-- inactive-ok-block: THEORY-tmp3pqnm — newly filed; a proved instance of this claim's pattern -->
+Baumgartner & Gebharter (2016) prove a case of this claim's pattern
+([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)). If a whole supervenes on its parts and constitution
+is not causal, then every constitutive model of a mechanism has a pure
+common-cause model that fits all the manipulation data equally well,
+even under ideal conditions. Interventional evidence underdetermines
+constitution, and only a further inference settles it. No status,
+title or warrant changes.

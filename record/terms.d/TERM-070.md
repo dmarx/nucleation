@@ -69,3 +69,27 @@ single constraint of its own cannot realise closure.
   closure. They do not mean a subject or self-governance.").
 - **Not agency.** [THEORY-071](../theory.d/THEORY-071.md) makes individuality, of which this is the
   organizational form, a precondition of agency that does not suffice.
+
+## Note of 2026-11-01: closure of interactions, and entrenchment
+<!-- inactive-ok-block: LIT-188 CLAIM-tmpr242r — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+
+Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §3; [NOTE-173](../notes.d/NOTE-173.md)) adopt this term from Moreno
+and Mossio for social groups: "community requires 'organizational
+closure' of the system of social interactions". Two things a reader
+citing them should know:
+
+- **The members are interactions, not constraints.** The paper does not
+  say which interactions constrain which, or what each one's production
+  is. The term's definition is about constraints, so applying it needs a
+  reading of an interaction as a constraint, which the paper leaves
+  implicit.
+- **The test it gives shows dependence, not closure.** "Integration means
+  that removal of node or interaction types disrupts social
+  organization", and the paper's mechanism is generative entrenchment, in
+  which later interactions depend on core ones. Both are met by a one-way
+  dependency order whose core depends on nothing in the set. The term
+  needs every member to be depended on and to depend on another member.
+  [CLAIM-tmpr242r](../claims.d/CLAIM-tmpr242r.md) states the gap, and what an order that is both
+  entrenched and closed would look like.
+
+No status, title or warrant changes.

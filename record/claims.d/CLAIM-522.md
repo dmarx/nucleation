@@ -72,3 +72,46 @@ or interrupting the controller (B loses it, A does not). [CASE-161](../cases.d/C
   shows the limit is in principle.
 - **That the boundary is given.** Which mechanism is "inside" is fixed by a
   declared boundary, and a gap criterion cannot supply it ([CLAIM-194](CLAIM-194.md)).
+
+## Note of 2026-11-01: constitutive relevance needs the boundary too
+
+<!-- inactive-ok-file: CLAIM-tmpg57ci THEORY-tmpnzjca LIT-tmpj2ar6 LIT-tmph2s2a — Proposed, Unfetched or Unavailable; the claim and readings filed from the mechanism literature, cited as open -->
+
+Read beside Craver and Bechtel ([LIT-tmpgntir](../literature.d/LIT-tmpgntir.md), [NOTE-tmp6uiie](../notes.d/NOTE-tmp6uiie.md)) and Bechtel
+and Abrahamsen ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md)). Craver's own statements of
+the criterion ([LIT-tmph2s2a](../literature.d/LIT-tmph2s2a.md), [LIT-tmpj2ar6](../literature.d/LIT-tmpj2ar6.md)) were not reached.
+
+- **Is "where maintenance is realized" a question of constitutive
+  relevance? Yes, but the criterion does not answer it without this
+  claim's declared boundary.** Take this claim's producer and controller
+  as candidate components for "c is maintained". Both meet mutual
+  manipulability's bottom-up and top-down conditions with identical
+  responses. Disabling or stimulating either changes c, and intervening
+  on c changes either's activity, because the equations coincide.
+  Craver and Bechtel's one marker of a component against a background
+  condition, being "interactively integrated" (p. 553, n. 10), is met by
+  a controller that reads c and acts on it ([THEORY-tmp09e3b](../theory.d/THEORY-tmp09e3b.md)). What
+  separates them is the criterion's parthood condition, which is this
+  claim's boundary. Filed as [CLAIM-tmpg57ci](CLAIM-tmpg57ci.md), Proposed until Craver's
+  texts are read. What the criterion needs is what this claim says:
+  ideal interventions on the parts, relative to a mechanism boundary
+  declared beforehand.
+- **A candidate source for the boundary.** Closure in [TERM-070](../terms.d/TERM-070.md)'s sense
+  would count a producer as inside when it is itself maintained by what
+  it produces. This claim's one-variable model has no term for the
+  producer's own maintenance, so it cannot test that. A construction
+  that could would intervene one level down.
+- **A biological case at the claim's edge.** Peripheral circadian clocks
+  posed this claim's question: are they self-sustained, or damped
+  oscillators driven by the SCN ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), p. 328)? There the outside
+  drive does not reproduce the inside law, and a model predicts different
+  responses to a phase shift ([THEORY-tmpnzjca](../theory.d/THEORY-tmpnzjca.md)). That is the case the
+  claim's defeated_if sets aside, a controller unlike the ideal one, which
+  state probes may expose.
+- **The same structure in a model of memory.** McClelland et al. supply
+  the hippocampus's training signal to a neocortex model from outside the
+  model, and stopping it stands for a lesion ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), p. 331). Same
+  structure, not shown same mechanism: inside the model, nothing
+  distinguishes a part's output from one the modeller supplies.
+
+No status, title or warrant changes.

@@ -71,3 +71,20 @@ table is competent in the theorem's sense and yields the same world model
 - Anything about cost or compression. A lower bound on the resources any
   competent implementation needs is the thesis's compression point, still
   open.
+
+## Note of 2026-11-01: "realized inside" has two readings, and interventions settle one
+
+<!-- inactive-ok-block: CLAIM-tmp1qybv CLAIM-515 — Proposed; cited as context -->
+The claim leaves open "whether a predictive component is realized inside
+the agent". The constitution debate read today ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md),
+[CLAIM-tmp1qybv](CLAIM-tmp1qybv.md)) separates two things that phrase could mean. (1) The
+agent's competence is produced through an internal state that carries
+predictions and later shapes action. That is causal. An intervention on
+the state, such as a patch to it, can be surgical, and it is what tells
+the lookup table from the model. (2) The competence consists, at a time,
+in such a component. Every intervention on the competence then also acts
+on some component along another path, and no finite set of interventions
+shows the relation. What is left open here is (1), which interventions can
+settle. [CLAIM-515](CLAIM-515.md)'s "realized" should say which it means.
+
+No status, title or warrant changes.

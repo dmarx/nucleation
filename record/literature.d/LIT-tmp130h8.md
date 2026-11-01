@@ -1,0 +1,74 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-01 ([NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md)) from the authors' penultimate
+  draft; worth keeping as the one positive interventionist result in the
+  debate: given that every change in a phenomenon is simultaneously
+  realized on every lower level, that simultaneous changes are not
+  causally related, and that parthood and levels are settled, a single
+  intervention that changes one part per level and the phenomenon
+  simultaneously suffices for constitution ([THEORY-tmpv5g3z](../theory.d/THEORY-tmpv5g3z.md)).
+title: 'Horizontal Surgicality and Mechanistic Constitution'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Filed and read at the owner's request to read and file the debate on
+    mechanistic constitution after Craver. Citation verified on Crossref:
+    Erkenntnis 85(2), 417–430 (2020), doi 10.1007/s10670-018-0033-5, online
+    2018-07-28, used as `published:` (ADR-002). Springer's free copy
+    returned a bot challenge, which was not pursued; read from the authors'
+    penultimate draft, https://m-baum.github.io/docs/HSMC.pdf, 14 pp.
+tags:
+- philosophy-of-science
+- causality
+- mereology
+date: '2026-11-01'
+published: '2018-07-28'
+doi: '10.1007/s10670-018-0033-5'
+first_author: 'Baumgartner'
+keywords:
+- 'mechanism'
+- 'constitution'
+- 'ideal intervention'
+- 'fat-handed intervention'
+- 'horizontal surgicality'
+implementations: []
+summary: >-
+  Baumgartner, Casini & Krickel (2020). Since phenomena can be
+  manipulated only via common causes of them and their parts, constitution
+  must be analysed with non-ideal interventions; counting every
+  supervenience-respecting common cause as an intervention begs the
+  question, and admitting every common cause is a non-starter. An
+  intervention that directly changes at most one behaviour on each lower
+  level, and changes its target and the phenomenon simultaneously, is
+  "horizontally surgical"; under Universal Constitution, Simultaneity and
+  transitivity of co-occurrence, one such intervention suffices for
+  constitution. The proof presupposes settled parthood and levels.
+---
+
+# LIT-tmp130h8: Horizontal Surgicality and Mechanistic Constitution
+
+Baumgartner, M., Casini, L., & Krickel, B. (2020). Horizontal surgicality and mechanistic constitution. *Erkenntnis*, 85(2), 417–430.
+
+Read in full in [NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md).
+
+## Key takeaways
+
+- Systematic Fat-Handedness follows from Universal Constitution and
+  Simultaneity (p. 6).
+- Woodward's 2015 "permissibly fat-handed" interventions presuppose the
+  supervenience base, so a definition of constitution built on them
+  (pFAT) is question-begging (pp. 7–8).
+- Horizontal surgicality (H, p. 9) and the sufficiency condition SUF, with
+  an eight-line reductio (p. 10).
+- Upgrading SUF to a definition (hFAT) inherits interventionism's
+  questions about whether the required interventions exist (pp. 11–12).
+
+## Standing in the record
+
+The result says what has to be given before an intervention can show
+constitution: parthood, a hierarchy of levels, and simultaneity. That is
+what the record's own boundary claims ([CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-522](../claims.d/CLAIM-522.md)) say cannot be
+read off the data. See [NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md).
