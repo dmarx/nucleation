@@ -1540,7 +1540,8 @@ schemes:
     # One section of a WORK's prose, under "## Manuscript text", which is
     # what the view transcludes. Each paragraph says what it does with the
     # record's argument in a `ref::asserts` or `ref::discusses` directive,
-    # which `luria link --fix` pushes up into these fields (ADR-067).
+    # which `luria link --fix` pushes up into these fields; the ledger flags
+    # a field entry no paragraph states any more (ADR-067).
     dir: record/sections.d
     output: docs/sections
     active: Active
@@ -1561,7 +1562,6 @@ schemes:
         scheme: [CLAIM, ARG]
         required: false
         many: true
-        explain: cited
       discusses:
         label: Discusses
         blurb: what the prose uses without staking the work on it — a case, a term, a question, a
@@ -1569,7 +1569,6 @@ schemes:
         scheme: [CLAIM, ARG, CASE, TERM, QUESTION]
         required: false
         many: true
-        explain: cited
       superseded_by:
         scheme: SECTION
         many: true

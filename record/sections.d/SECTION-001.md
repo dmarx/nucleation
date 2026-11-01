@@ -11,6 +11,7 @@ asserts:
 - CLAIM-405
 discusses:
 - CASE-189
+- CLAIM-522
 - CLAIM-194
 - TERM-088
 - QUESTION-tmp9hvu1

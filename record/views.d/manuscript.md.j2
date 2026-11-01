@@ -32,8 +32,8 @@ What each section asserts and discusses, and how that stands in the record,
 is in the ledger.*
 {%- endmacro -%}
 
-{%- macro row(c, since) -%}
-| {{ c.code }} | {{ c.status }}{% if c.warrant is defined and c.warrant %}, {{ c.warrant }}{% endif %} | {{ c.title | truncate(160) }} |{% if latest(c) > since %} revised {{ latest(c) }}{% endif %} |
+{%- macro row(c, since, text) -%}
+| {{ c.code }} | {{ c.status }}{% if c.warrant is defined and c.warrant %}, {{ c.warrant }}{% endif %} | {{ c.title | truncate(160) }} |{% if latest(c) > since %} revised {{ latest(c) }}{% endif %}{% if c.code not in text %} **in no paragraph**{% endif %} |
 {%- endmacro -%}
 
 {%- macro ledger(code) -%}
@@ -46,26 +46,28 @@ staking the work on it; each paragraph says which in a directive. A claim's
 status is the record's credence, not the manuscript's: asserting a Proposed
 claim is staking the work on something the record has not accepted. "Revised"
 marks an entry changed after the section was last revised, so the prose may
-be stale.
+be stale. "In no paragraph" marks a field entry that no paragraph's
+directive states any more: the prose it anchored was cut.
 {% set ns = namespace(placed=[], staked=[]) %}
 {%- for s in w.sections %}
 {%- set since = latest(s) %}
+{%- set text = s.part("Manuscript text") %}
 
 ## {{ loop.index }}. {{ s.title }} ({{ s.code }}, revised {{ since }})
 
-| Asserts | Status | Title | Since |
+| Asserts | Status | Title | Flags |
 |---|---|---|---|
 {% for c in s.asserts -%}
-{{ row(c, since) }}
+{{ row(c, since, text) }}
 {% set ns.placed = ns.placed + [c.code] -%}
 {% if c.status != "Active" %}{% set ns.staked = ns.staked + [c] %}{% endif -%}
 {% else -%}
 | — | | | |
 {% endfor %}
-| Discusses | Status | Title | Since |
+| Discusses | Status | Title | Flags |
 |---|---|---|---|
 {% for c in s.discusses -%}
-{{ row(c, since) }}
+{{ row(c, since, text) }}
 {% set ns.placed = ns.placed + [c.code] -%}
 {% else -%}
 | — | | | |
