@@ -224,3 +224,20 @@ to, and on reading does not.
   [QUESTION-259](../questions.d/QUESTION-259.md)'s first clause, how perspectives are transformed.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-01: membership that comes apart by dimension
+<!-- inactive-ok-block: LIT-188 — Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+
+Griesemer and Shavit (LIT-188, §2; NOTE-173) give a case of this claim's
+boundaries not coinciding, at the level of membership. Reference groups
+can "move their trait boundaries" away from their members: "a person can
+no longer 'recognize' their party owing to political radicalization in
+the latter, though they might continue to stay a voting member in that
+party owing to another, social rather than ideological, dimension of
+belonging". Ideological and social belonging, and the institutional one
+of the vote, then pick out different boundaries for one party. The paper
+treats this as a source of instability in a connected collection, not as
+a claim about perspectives or agents. It is an illustration, stated
+without data.
+
+No status, title or warrant changes.

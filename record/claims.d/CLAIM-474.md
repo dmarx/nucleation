@@ -227,3 +227,35 @@ hold a position this claim denies, and do not argue for it.
   "scaling up vanishes" conclusion drawn from it ([LIT-1902](../literature.d/LIT-1902.md), p. 1364).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-01: reproduction, individuality and inheritance in Griesemer and Shavit
+<!-- inactive-ok-block: LIT-188 CLAIM-tmpr242r — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+
+LIT-188 (NOTE-173, re-read 2026-11-01) is a source for this claim's form,
+from evolutionary transitions, though it does not say so.
+
+- **A sequence offered as a normal table.** Its three stages,
+  coordination, cooperation and collaboration, are "idealized in the
+  sense that it identifies one possible pathway ... analogous to 'normal'
+  development as outlined in normal tables in embryology", with other
+  pathways "heterochronic" (§1). Reverse pathways are given: new
+  disciplines run from collaboration to coordination. So the stages are
+  not offered as a nested sequence either.
+- **Three achievements whose order the paper leaves open.** It separates
+  a new level of reproduction, a new level of individuality and a new
+  inheritance system, and orders them three ways. A demic group can be a
+  "candidate for higher-level reproducers" that only "post-transition"
+  evolves the integration "to count them higher-level individuals" (§2).
+  A new level of reproduction "may indicate the emergence of a new level
+  of individuality, but not yet of a transition in inheritance system"
+  (§2). And inheritance systems "seem likely to evolve in tandem" with
+  individuality (§3). NOTE-173 recorded the second and third. The first
+  adds reproduction without individuality, a line this claim's list of
+  failed implications lacks.
+- **Persistence without autonomy, as an outcome.** One of the three fates
+  of a conexus is to persist, unstable, "maintained by external
+  ecological scaffolding" (§2), which is this claim's "persistence without
+  autonomy". CLAIM-tmpr242r adds that entrenchment can also hold without
+  closure.
+
+No status, title or warrant changes.

@@ -141,3 +141,23 @@ place lock-in where this claim does: in what has accumulated, not in any
 single anchor. The crystal that is the paper's dense field is also the
 record's seed ([CLAIM-185](CLAIM-185.md), note of this date). No status, title or warrant
 changes.
+
+## Note of 2026-11-01: lock-in as generative entrenchment
+<!-- inactive-ok-block: LIT-188 LIT-tmp9dwb5 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+
+The mechanism this claim names has a standard source the record now
+holds as a registration: Wimsatt's generative entrenchment
+(LIT-tmp9dwb5, unread), as Griesemer and Shavit quote it (LIT-188, §2;
+NOTE-173). An entrenched element is one "that later-evolved interactions
+will depend on for their existence and character, so that perturbations
+of it will tend to be catastrophic to the whole system while changes in
+the later interactions tend to lead to tolerable system changes". That is
+this claim's "replacing it later means re-anchoring all of that", with
+the asymmetry stated. The paper also calls the outcome "highly
+contingent, even if contingently irreversible" (§2): nothing makes a
+given anchor entrench, but once it has, the change is unlikely to be
+undone. The record's remedy, retirement by status, works against that
+asymmetry only if superseded anchors stop gaining dependents, which is
+this claim's own test. Same structure, not shown same mechanism.
+
+No status, title or warrant changes.

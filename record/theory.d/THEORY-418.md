@@ -14,8 +14,8 @@ promote_when: >-
   re-founded from members alone without their interaction structure. The
   promised model of community reliability, or further definitions and
   illustrations, cannot settle it.
-title: "A collective becomes a new level of individuality, on this sketch, only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it and some core interactions have become generatively entrenched so that it has organizational closure; such a community can then be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone"
-version: 2
+title: "A collective becomes a new level of individuality, on this sketch, only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it and some core interactions have become generatively entrenched and, as the paper asserts without deriving it from entrenchment, it has organizational closure; such a community can then be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone"
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -27,6 +27,17 @@ history:
     this sketch" in the title asserts the account, so this entry keeps the
     question whether the account holds, and keeps its promote_when. The
     title and the condition are unchanged.
+- version: 3
+  date: '2026-11-01'
+  note: >-
+    Corrected on a re-reading of the full text (Europe PMC JATS, CC BY).
+    The title said core interactions are entrenched "so that" the
+    community has closure, a link the paper does not draw; it now says
+    the paper asserts closure beside entrenchment. Only the shared goal
+    defines Stage 3 (§1); belonging and identity are what collaboration
+    "may contribute to". The charge that Stage 3 presupposes the group
+    rests better on §3. CLAIM-tmpr242r argues that entrenchment does not
+    give closure.
 tags:
 - philosophy-of-biology
 - individuation
@@ -42,8 +53,9 @@ summary: >-
   criteria. The paper's two headline claims, that it describes
   evolutionary transitions non-circularly and that individuality is a
   special case of collectivity, appear only in the abstract and are not
-  argued. Stage 3 is defined partly by a shared goal and a sense of
-  belonging, which presuppose the group. The one argued conclusion, that
+  argued. Stage 3 is defined by a shared goal (§1), and §3 makes
+  sustaining the community "a focal goal of every participating member",
+  which presupposes the group. The one argued conclusion, that
   inheritance at the new level evolves "in tandem", is hedged and in
   tension with §2.
 ---
@@ -52,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch this account states, filed as Proposed for the same reason -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed: read in full and unproven; named as rival emphases on individuality, not leaned on -->
 
-# THEORY-418: A collective becomes a new level of individuality, on this sketch, only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it and some core interactions have become generatively entrenched so that it has organizational closure; such a community can then be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone
+# THEORY-418: A collective becomes a new level of individuality, on this sketch, only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it and some core interactions have become generatively entrenched and, as the paper asserts without deriving it from entrenchment, it has organizational closure; such a community can then be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone
 
 ## Source
 
@@ -103,8 +115,10 @@ why the account is Proposed.
 
 - **That transitions are described without circularity.** That claim is in
   the abstract only. The among-members against within-members criterion it
-  names is never applied, and Stage 3's shared goal, sense of belonging and
-  group identity presuppose the group ([NOTE-173](../notes.d/NOTE-173.md), corrections).
+  names is used once, to describe the transition (§2), and never as a
+  test. Stage 3's shared goal (§1), and §3's "focal goal of every
+  participating member" and "cognition about the group itself", presuppose
+  the group ([NOTE-173](../notes.d/NOTE-173.md), corrections).
 - **That individuality is a special case of collectivity, with explanatory
   benefits.** Abstract only. The body gives a graded scale of collectivity
   and no argument for the benefit.
