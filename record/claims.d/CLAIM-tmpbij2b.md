@@ -33,15 +33,15 @@ complements:
 bears_on:
 - QUESTION-284
 summary: >-
-  Filed on re-reading Griesemer & Shavit 2023 (LIT-188, NOTE-173). Their
+  Filed on re-reading Griesemer & Shavit 2023 ([LIT-188](../literature.d/LIT-188.md), [NOTE-173](../notes.d/NOTE-173.md)). Their
   abstract says transitions in individuality are hard to describe without
   circularity, since the features used are products of the transition,
   and claims a non-circular description that the body never argues. The
   body holds the parts of an answer, and they are of two kinds. Criteria
   on interactions (per-member accounting of benefit, entrenchment order,
   knockout of interaction types, release from a scaffold) can test a
-  declared candidate without assuming it is a unit (CLAIM-405), and the
-  scaffold test needs the declared boundary (CLAIM-522). Criteria on
+  declared candidate without assuming it is a unit ([CLAIM-405](CLAIM-405.md)), and the
+  scaffold test needs the declared boundary ([CLAIM-522](CLAIM-522.md)). Criteria on
   members' attitudes toward the group (shared goal, belonging, focal goal
   of sustaining it) individuate constitutively, which is not the
   non-circular route and is unavailable for organisms without such
@@ -56,24 +56,24 @@ summary: >-
 
 ## The claim
 
-Griesemer and Shavit (LIT-188, abstract) name the circularity:
+Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), abstract) name the circularity:
 evolutionary transitions "seem difficult to track without circularity,
 since their features—units of selection, individuality, inheritance at
 multiple levels (MLS1, MLS2)—are products of one process". Their answer
 is one abstract sentence, describing transitions by "kinds of interactions
 among community members ... that are not instances of those same
 interactions within community members", and the body never returns to it
-(NOTE-173). The body does contain the parts of an answer. They are of two
+([NOTE-173](../notes.d/NOTE-173.md)). The body does contain the parts of an answer. They are of two
 kinds, and only one kind avoids the circle.
 
 1. **The unit enters as a hypothesis.** Declare a candidate grouping and
-   a criterion. The verdict can then be false (CLAIM-405). The
+   a criterion. The verdict can then be false ([CLAIM-405](CLAIM-405.md)). The
    candidate is presupposed only as something to be tested, which is not
    the presupposition the charge is about. Some tests need the declared
    boundary to mean anything. Only interventions on mechanisms, relative
    to a declared boundary, tell maintenance realized inside from
-   maintenance supplied from outside (CLAIM-522). Endogenization, as the
-   paper takes it from Bourrat (LIT-tmpc4wc1), is such a test:
+   maintenance supplied from outside ([CLAIM-522](CLAIM-522.md)). Endogenization, as the
+   paper takes it from Bourrat ([LIT-tmpc4wc1](../literature.d/LIT-tmpc4wc1.md)), is such a test:
    "undoing or releasing the system from scaffolding" (§2) separates a
    collective that has brought its scaffolded features inside from one
    that has not, and "inside" is fixed by the candidate. So endogenization
@@ -95,8 +95,8 @@ kinds, and only one kind avoids the circle.
 
    Each can be applied to a grouping without first deciding whether it is
    a collection, a conexus or a community, and each can fail. The paper
-   gives no operational form of any of them (NOTE-173, Limitations), and
-   they need not agree: CLAIM-tmpr242r shows the second and third can
+   gives no operational form of any of them ([NOTE-173](../notes.d/NOTE-173.md), Limitations), and
+   they need not agree: [CLAIM-tmpr242r](CLAIM-tmpr242r.md) shows the second and third can
    hold where closure fails.
 3. **Criteria on attitudes.** Stage 3 is also marked by a shared goal,
    which "may contribute to a 'sense of belonging' or group identity"
@@ -105,7 +105,7 @@ kinds, and only one kind avoids the circle.
    Caporael's truly social cognition is "cognition about the group itself"
    (§3). These take the group as their object. That need not be vicious:
    it makes the group partly constituted by being taken as one, the
-   constitutive sense of TERM-088 and QUESTION-284's second case. But
+   constitutive sense of [TERM-088](../terms.d/TERM-088.md) and [QUESTION-284](../questions.d/QUESTION-284.md)'s second case. But
    it does not answer the charge, since the group figures in its own
    definiens. It also cannot be what tells a conexus from a community among
    cells or insects, which the paper hopes its sketch covers ("all life
@@ -121,8 +121,8 @@ kinds, and only one kind avoids the circle.
   process trajectories they were individually following" (§2). That is no
   circle for the transition in question, but the abstract's worry covers
   those units too, and the paper does not take it up. Its sources offer a
-  route the record has not read: Griesemer's reproducer (LIT-tmpjjlyw,
-  LIT-tmppe8tc), on which a demic group can be a "candidate for
+  route the record has not read: Griesemer's reproducer ([LIT-tmpjjlyw](../literature.d/LIT-tmpjjlyw.md),
+  [LIT-tmppe8tc](../literature.d/LIT-tmppe8tc.md)), on which a demic group can be a "candidate for
   higher-level reproducers" that only "post-transition" evolves "the
   developmental integration necessary to count them higher-level
   individuals" (§2). Reproduction would then be identified before
@@ -130,6 +130,6 @@ kinds, and only one kind avoids the circle.
 - **That attitude criteria are illegitimate for human groups.**
   Individuation through members' attitudes is a real case. It is not the
   non-circular route, and it is a different sense of individuation.
-- **That a declared candidate can be chosen without bias.** CLAIM-405
+- **That a declared candidate can be chosen without bias.** [CLAIM-405](CLAIM-405.md)
   makes the verdict objective once the criterion is fixed, not the choice
   of criterion or candidate.

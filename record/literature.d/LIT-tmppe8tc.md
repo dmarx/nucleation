@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-01, not read. Registered because it is the source of the reproducer-based account of transitions that Griesemer and Shavit (LIT-188, §2) lean on to treat demic groups as candidate higher-level reproducers. OpenAlex reports it closed. No reading was attempted.
+  filed 2026-11-01, not read. Registered because it is the source of the reproducer-based account of transitions that Griesemer and Shavit ([LIT-188](LIT-188.md), §2) lean on to treat demic groups as candidate higher-level reproducers. OpenAlex reports it closed. No reading was attempted.
 title: 'The Units of Evolutionary Transition'
 version: 1
 history:
@@ -33,8 +33,8 @@ James Griesemer (2000; issue dated January 2001). "The Units of Evolutionary Tra
 
 ## Key takeaways
 
-*From the abstract (OpenAlex), not read.* Maynard Smith's analysis of units of evolution is compared with approaches that generalize Darwin's principles. His principle of multiplication is elaborated into an account of reproduction that integrates heredity and development and applies at all levels. That suggests "a new unit of evolution, the reproducer", generalizing the replicator. The theory of evolutionary transitions is revised to fit, and "a three-stage scenario for evolutionary transition is suggested". Griesemer and Shavit (LIT-188, §2) cite it for the claim that demic groups, unlike trait groups, are candidates for higher-level reproducers.
+*From the abstract (OpenAlex), not read.* Maynard Smith's analysis of units of evolution is compared with approaches that generalize Darwin's principles. His principle of multiplication is elaborated into an account of reproduction that integrates heredity and development and applies at all levels. That suggests "a new unit of evolution, the reproducer", generalizing the replicator. The theory of evolutionary transitions is revised to fit, and "a three-stage scenario for evolutionary transition is suggested". Griesemer and Shavit ([LIT-188](LIT-188.md), §2) cite it for the claim that demic groups, unlike trait groups, are candidates for higher-level reproducers.
 
 ## Standing in the record
 
-Registered on 2026-11-01 from the re-reading of LIT-188 (NOTE-173). This is the paper to read for the owner's question about circularity: whether a unit that reproduces can be identified before, and without assuming, the individual a transition produces. Its three-stage scenario should be compared with LIT-188's three stages, which LIT-188 does not do.
+Registered on 2026-11-01 from the re-reading of [LIT-188](LIT-188.md) ([NOTE-173](../notes.d/NOTE-173.md)). This is the paper to read for the owner's question about circularity: whether a unit that reproduces can be identified before, and without assuming, the individual a transition produces. Its three-stage scenario should be compared with [LIT-188](LIT-188.md)'s three stages, which [LIT-188](LIT-188.md) does not do.

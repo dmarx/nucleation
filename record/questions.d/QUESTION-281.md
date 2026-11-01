@@ -229,7 +229,7 @@ The question is unchanged and stays Open.
 ## Note of 2026-11-01: stabilization and entrenchment kept apart, from evolutionary transitions
 <!-- inactive-ok-block: LIT-188 CLAIM-tmpr242r — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
-Griesemer and Shavit (LIT-188, §2; NOTE-173, re-read 2026-11-01) separate
+Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §2; [NOTE-173](../notes.d/NOTE-173.md), re-read 2026-11-01) separate
 two of this question's three achievements for social groups, without a
 dynamical model. A connected collection can dissolve, persist on outside
 scaffolding, or "stabilize the network of interactions" through
@@ -244,7 +244,7 @@ is "highly contingent, even if contingently irreversible", and that
 whether a given conexus will get there is "very difficult to predict".
 It names no dynamical route among those listed here. Its entrenchment is
 an evolutionary process of building dependents on what has stabilized,
-which none of the four routes names. CLAIM-tmpr242r adds that
+which none of the four routes names. [CLAIM-tmpr242r](../claims.d/CLAIM-tmpr242r.md) adds that
 entrenchment does not by itself give closure.
 
 No status, title or warrant changes.

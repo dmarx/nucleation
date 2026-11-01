@@ -253,7 +253,7 @@ No status, title or warrant changes.
 ## Note of 2026-11-01: cooperation before the shared goal, in Griesemer and Shavit
 <!-- inactive-ok-block: LIT-188 — Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
-Griesemer and Shavit (LIT-188, §1; NOTE-173) order the stages of an
+Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §1; [NOTE-173](../notes.d/NOTE-173.md)) order the stages of an
 "egalitarian" transition in this claim's way: participants "must first
 coordinate before they have the opportunity to cooperate and they must
 cooperate in order to find common ground (shared goal or purpose) upon
