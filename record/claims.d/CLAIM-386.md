@@ -90,3 +90,21 @@ reduced slow system: the fast part x̃ stays O(ε) uniformly after a
 transient, so the coupling defect ε·QCx̃ is O(ε²). In continuous time
 block sums are slow coordinates iff QA* = 0, the counterpart of equal
 column sums. The claim, discrete-time and one-step, is unchanged.
+
+## Note of 2026-11-01: the closure defect as a response to within-block redistribution
+
+The defect QA(I − VQ) is the aggregate's one-step response to the part of
+the state that the aggregation map Q discards. VQ keeps each block's sum
+and spreads it along the block's leading eigenvector, and since
+Q(I − VQ) = 0, (I − VQ)x is a redistribution within blocks that leaves
+every block sum unchanged.
+In the terms of the constitution debate read today (NOTE-tmpeljd8, p. 20;
+THEORY-tmp3pqnm), these are changes to the parts that leave the whole fixed,
+the one kind of intervention across levels that can be surgical. So the
+defect is measurable by intervention, by perturbing within blocks and
+reading the aggregate's next value. The relation between an aggregate and
+its blocks cannot be measured that way, since every intervention on an
+aggregate also changes some block. Same structure, not shown to be the
+debate's part–whole relation: Q is a linear map, not a mechanism.
+
+No status, title or warrant changes.

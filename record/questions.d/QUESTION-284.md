@@ -117,3 +117,45 @@ they do not offer a detected one.
   rather than the boundary. It is stated, not argued.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-01: the mechanists' answer for part–whole constitution
+
+<!-- inactive-ok-block: THEORY-tmpy9dyw CLAIM-tmp1qybv LIT-tmpgs9lv — Proposed or Unavailable; the readings and claim filed 2026-11-01, cited as open -->
+The debate on Craver's mutual manipulability criterion, read today, answers
+this question's evidential half for one relation: a part's behaviour
+constituting a whole's behaviour.
+
+- **No finite set of manipulations tells constitution from causal
+  modification.** If a whole supervenes on its parts and is not caused by
+  them, every cause of the whole is a common cause of it and some part, so
+  "For every model featuring constitution there exists a pure common-cause
+  model that entails the very same correlations under manipulations"
+  (Baumgartner and Casini, NOTE-tmp5hk5o, p. 10; THEORY-tmp3pqnm). This is
+  the outcome the question foresaw ("If none does, that is itself an
+  answer"), proved for this relation, and it survives ideal experimental
+  conditions.
+- **A second-order pattern can.** Constitution is preferred when every
+  attempt to find a cause of the whole that spares the candidate parts
+  fails as the variables studied are expanded (THEORY-tmpy9dyw). The
+  inference is abductive and never conclusive.
+- **Or one restricted intervention can, at a price.** An intervention that
+  changes a part and the whole at the same time, touching nothing else on
+  that level, suffices, given that realization is simultaneous and that
+  parthood and levels are already settled (THEORY-tmpv5g3z).
+- **Neither route supplies the boundary.** All three papers take parthood
+  as given. Leuridan's endosymbiosis counterexample (LIT-tmpgs9lv, from its
+  abstract only) is aimed at reading parthood as spatiotemporal inclusion.
+  So for this relation the question's second half, whether a detected,
+  maintained or constituted boundary differ, is prior to the evidential
+  half: the evidence for constitution presupposes a boundary.
+
+Two cautions. The relation is part–whole realization, not relations
+constituting the identity of their relata, which is what the question
+asks. The form of the evidential problem carries over; that it is the
+same problem has not been shown. And the debate draws the line between
+causation and constitution at simultaneity, which CLAIM-tmp1qybv argues
+moves with the time scale of the description. So "constitutive" may be
+relative to a resolution, as CLAIM-405 says other individuation verdicts
+are.
+
+The question is unchanged and stays Open. No status, title or warrant changes.

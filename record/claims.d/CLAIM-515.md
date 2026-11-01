@@ -100,3 +100,27 @@ look, not that they always come apart.
   answer.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-01: two senses of "realized"
+
+<!-- inactive-ok-block: CLAIM-tmp1qybv THEORY-tmp3pqnm THEORY-tmpy9dyw THEORY-tmpv5g3z CLAIM-tmpg57ci — Proposed or newly filed; the readings and claims that split this question, cited as context -->
+The mechanistic-constitution readings of this date split this claim's
+third question, "what mechanisms realize those capabilities, shown by
+interventions that discriminate implementations".
+- **Produced through, over time.** This is a causal relation, and
+  interventions can show it. The wording of the third question is right
+  for this sense.
+- **Consists in, at a time.** This is constitution. If a whole
+  supervenes on its parts and constitution is not causal, no set of
+  manipulation data separates a constitutive model from a pure
+  common-cause one (Baumgartner & Gebharter, THEORY-tmp3pqnm). It is
+  then inferred abductively (THEORY-tmpy9dyw). Or it is read off a
+  surgical intervention, given simultaneity and parthood already settled
+  (THEORY-tmpv5g3z).
+
+CLAIM-tmp1qybv states the split. It adds that the line between the two
+senses moves with the time scale of the description. CLAIM-tmpg57ci adds
+that, even in the causal sense, separating an internal producer from an
+outside controller needs a boundary the interventions presuppose. A use
+of this claim should say which sense of "realized" it means. No status,
+title or warrant changes.

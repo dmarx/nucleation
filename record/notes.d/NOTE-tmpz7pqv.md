@@ -1,0 +1,207 @@
+---
+status: Read
+paper: 'LIT-tmp130h8'
+title: 'Baumgartner, Casini & Krickel — horizontal surgicality'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Read in full from the authors' penultimate draft ("Erkenntnis
+    manuscript No."), https://m-baum.github.io/docs/HSMC.pdf (14 pp.,
+    fetched 2026-11-01), extracted with `pdftotext -layout`. Page numbers
+    are the draft's; the journal pagination (85: 417–430) was not
+    compared. Springer's own free copy returned a bot challenge and was
+    not pursued. I read the abstract, §§1–5, footnotes 1–10, the caption of
+    Fig. 1 and the references, and checked the eight-line reductio of §4
+    against H, UC, SIM and TR.
+date: '2026-11-01'
+summary: >-
+  Upper and lower levels of a mechanism can only be manipulated via common
+  causes, so an interventionist analysis of constitution needs a
+  restricted kind of fat-handed intervention. Counting every common cause
+  whose effects stand in supervenience begs the question; counting every
+  common cause cannot tell constituents from sterile effects or detached
+  parts. An intervention that directly changes at most one behaviour on
+  each lower level, and changes its target and the phenomenon
+  simultaneously, is horizontally surgical. Given that every change in a
+  phenomenon is simultaneously realized on every lower level, that
+  simultaneous changes are not causally related, and that co-occurrence
+  is transitive, one such intervention suffices for constitution. The
+  proof presupposes settled parthood and levels.
+---
+<!-- inactive-ok-file: CLAIM-515 CLAIM-480 QUESTION-284 TERM-088 LIT-tmp5bf7n LIT-tmpgs9lv LIT-tmpk95bs CLAIM-tmp1qybv — Proposed, Open, Unavailable or Unfetched; the entries this reading bears on and the unread works it cites, cited as open -->
+
+# NOTE-tmpz7pqv: Baumgartner, Casini & Krickel — horizontal surgicality
+
+## Contribution
+
+After the negative results (NOTE-tmpeljd8, NOTE-tmp5hk5o), it shows that
+an intervention-based sufficient condition for constitution exists after
+all, if the intervention is restricted the right way and three
+metaphysical principles are granted. It also shows why the obvious
+repair, admitting Woodward's "permissibly fat-handed" interventions, is
+circular.
+
+## Key insight
+
+A constitutionally revealing intervention may be fat-handed across levels
+but must be surgical within each level. If it changes a part and the whole
+at once, the whole's change must be realized at that part's level by some
+constituent. If the part were not a constituent, the intervention would
+have to change a second behaviour at the same level, and so would not be
+horizontally surgical. Simultaneity does the work. Because changes that
+happen together cannot be causally related, the second change cannot be
+downstream of the first.
+
+## Assumptions
+
+- **Parthood and levels are given.** "We will henceforth assume clarity on
+  the spatiotemporal parthood relations obtaining among analyzed
+  behaviors" (p. 5). Levels are local, defined by direct proper parthood
+  relative to the phenomenon, after Eronen 2013; "merely instrumental"
+  (footnote 6). The Parthood principle is taken from Leuridan's p. 410.
+- **Non-gerrymandered variables** are assumed without a criterion
+  (footnote 5).
+- **(UC) Universal Constitution** (p. 5): "Every (change in a) state of any
+  (non-fundamental) phenomenon Ψ is necessarily and simultaneously
+  realized by (a change in) the state of at least one constituent Φᵏᵢ of Ψ
+  on every lower level, such that Ψ ≠ Φᵏᵢ." No gaps in constitutional
+  hierarchies.
+- **(SIM) Simultaneity** (p. 6): "Simultaneous changes cannot be causally
+  related."
+- **(TR) Transitivity** of co-occurrence, at non-relativistic distances
+  (p. 10).
+
+## Key results
+
+- **Systematic Fat-Handedness (p. 6).** From UC and SIM: a cause Σ of Ψ
+  changes some constituent simultaneously with Ψ; the path Σ → Ψ → Φ is
+  excluded by SIM; so Σ is a common cause. "Every cause of a phenomenon is
+  also a cause of some constituent or other of that phenomenon on a
+  different causal path (Romero 2015; Baumgartner and Gebharter, 2016)."
+- **pFAT is question-begging (pp. 7–8).** Whether a common cause of Ψ and Φ
+  is "permissibly" fat-handed under Woodward 2015 "depends on whether Φᵏᵢ
+  belongs to the supervenience base of Ψ, which, in turn, depends on
+  whether Φᵏᵢ is a constituent of Ψ."
+- **FAT is a non-starter (p. 8).** Sterile effects (the heat sink warmed by
+  the first transistor) and detached parts (a disconnected heat sink
+  smashed by the same hammer as the transistor) share common causes with
+  the phenomenon. "Only simultaneous changes in parts and phenomena are
+  revealing of constitution", and a revealing intervention "must not
+  directly target multiple parts ... on the same level" (pp. 8–9).
+- **(H) (p. 9).** I is a horizontally surgical intervention variable on a
+  part Φᵏᵢ of Ψ w.r.t. Ψ iff (i) I causes Φᵏᵢ; (ii) if I changes both Φᵏᵢ and
+  Ψ, the changes are simultaneous; (iii) I directly causes at most one
+  behaviour on every level lower than Ψ's.
+- **(SUF) and its proof (pp. 9–11).** SUF: some possible horizontally
+  surgical intervention on Φᵏᵢ changes both Φᵏᵢ and Ψ. Then Φᵏᵢ is a
+  constituent. Reductio: assume (1) such an intervention and (2) Φᵏᵢ ∉ Φ.
+  By H the changes are simultaneous (3). By UC some constituent Φʰⱼ on the
+  same level realizes Ψ's change simultaneously (4). By TR, Φᵏᵢ's and Φʰⱼ's
+  changes co-occur (5). By SIM they are not causally related, so both are
+  direct effects of I (6). So I directly causes two behaviours on one level
+  (7), contradicting H(iii). Checked: valid on UC, SIM and TR. Example: a
+  needle that changes hippocampal map generation and the oxygen
+  concentration in a vessel, but not neural firing, cannot exist if
+  oxygenation is a sterile effect.
+- **hFAT (pp. 11–12).** Making SUF also necessary yields a definition.
+  It is not paradoxical, as MM was, but "a matter of scope", and shares
+  interventionism's doubt about whether ideal interventions exist for
+  every dependence (the moon and the tides).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Given UC and SIM, every cause of a phenomenon is a common cause of it and some constituent | strong | p. 6, deduction |
+| C2 | Defining constitution by Woodward's permissibly fat-handed interventions is circular | strong | pp. 7–8 |
+| C3 | One horizontally surgical intervention that changes a part and the phenomenon suffices for the part's being a constituent | strong, on its premises | §4 reductio, valid given UC, SIM, TR and settled parthood |
+| C4 | SUF can be upgraded to a definition (hFAT) without MM's paradox | weak | pp. 11–12, argued by analogy with interventionism; necessity not argued |
+
+## Concepts
+
+- **Horizontally surgical intervention** — fat-handed across levels,
+  surgical within each: at most one directly caused behaviour per lower
+  level, and simultaneous change of target and phenomenon (p. 9).
+- **Permissibly fat-handed intervention** — a common cause whose parallel
+  effects are related by supervenience, after Woodward 2015 (p. 7).
+- **Constituting set** — all and only the constituents responsible for Ψ
+  in its mechanistic context (p. 4).
+
+## Connections
+
+- Takes Systematic Fat-Handedness from Romero (LIT-tmpk95bs), Baumgartner &
+  Gebharter (LIT-tmpkhdpi) and Baumgartner & Casini (LIT-tmps6sc3), and
+  presents itself as the interventionist alternative to the latter's
+  abductive NDC (p. 9).
+- Footnote 3: Krickel's separate route (LIT-tmp5bf7n), "MM may be saved if
+  the phenomenon is represented by multiple variables standing for
+  different temporal phases".
+- Footnote 2 reports that Craver acknowledges the difficulty (Craver &
+  Tabery 2017) and holds it a matter of formulation.
+
+## Bearing on the record's own argument
+
+- **CLAIM-522 and CLAIM-194: what has to be given.** The one positive
+  intervention result in this debate needs parthood and a hierarchy of
+  levels as inputs (p. 5) and outputs constitution. It does not output a
+  boundary. That is CLAIM-522's "relative to a declared boundary" and
+  CLAIM-194's "a coupling statistic has no term for who made the
+  coupling", found in a literature that set out to analyse constitution by
+  intervention. Same point, reached for part–whole constitution.
+- **CLAIM-522's interventions are not horizontally surgical, and need not
+  be.** H(ii) requires the target and the phenomenon to change
+  simultaneously. A production knockout in CASE-189 changes the
+  capacities only over time. So SUF neither applies to nor is needed for
+  CLAIM-522's conclusion, which is about where a cause sits, not what
+  constitutes what (ARG-tmp39a6w).
+- **CLAIM-480: Simultaneity is a property of a description's time
+  scale.** SIM and H(ii) make the line between causation and constitution
+  the line between delayed and simultaneous change. CLAIM-480's chain has
+  an interior x₂ whose response to the boundary is instantaneous when it
+  equilibrates fast (E_eff, memoryless) and delayed when it relaxes slowly
+  (a memory kernel). So whether the interior's change counts as
+  simultaneous with the boundary's, and so whether the dependence is
+  constitutive by SIM, depends on the time resolution of the description.
+  The paper's TR is restricted to non-relativistic distances; it has no
+  parallel restriction to time scales. CLAIM-tmp1qybv part 3 states this.
+  Krickel's temporal-phase move (footnote 3) points the same way and has
+  not been read here.
+- **CLAIM-515's "realized".** SUF is the one route by which a single
+  intervention shows realization in the synchronic sense. It needs UC, SIM,
+  TR and the level hierarchy. An organization's capability is rarely given
+  with a level hierarchy of parts, so for the record's organizations the
+  route is mostly closed, and the realization question falls back to
+  abduction (NOTE-tmp5hk5o).
+- **QUESTION-284.** A positive answer to "what evidence would tell
+  constitution from ... ordinary causal modification", for part–whole
+  constitution: a simultaneous change in whole and part under an
+  intervention that touches nothing else at that level. Its price is
+  QUESTION-284's second half: the boundary and the levels must already be
+  fixed.
+- **TERM-088.** The paper's levels are local parthood levels relative to a
+  phenomenon (footnote 6), neither the term's senses nor CLAIM-526's
+  levels of description.
+
+## Limitations
+
+- **UC is strong.** Constituents "on every lower level", with no gaps, and
+  realization necessary and simultaneous. For organizations whose
+  behaviour is realized by processes that take time, it is unclear what UC
+  asserts.
+- **SIM is assumed, not argued**, beyond Craver and Bechtel 2007. It is
+  sharp only at a fixed time resolution.
+- **Parthood is assumed clear**, and Leuridan's endosymbiosis case
+  (LIT-tmpgs9lv) is not discussed. Gerrymandering is set aside without a
+  criterion (footnote 5).
+- **Whether horizontally surgical interventions exist** in any real system
+  is not shown; hFAT's necessity half is only suggested.
+
+## Open questions
+
+- In a dynamical model with explicit relaxation times, is there an
+  intervention that is horizontally surgical at one time resolution and
+  not at another? CLAIM-480's chain is a candidate to compute.
+- Does SUF survive replacing SIM with "changes within the relaxation time
+  of the faster process are not causally related"?

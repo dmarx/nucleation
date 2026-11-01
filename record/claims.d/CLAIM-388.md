@@ -121,3 +121,21 @@ The same holds for Markov chains. With uniform weights every partition is
 strongly lumpable, so every block label is closed ([THEORY-822](../theory.d/THEORY-822.md)), and
 Rosas et al.'s "modular" random walk closes at every ratio of between- to
 within-module rates, by symmetry rather than modularity ([NOTE-1030](../notes.d/NOTE-1030.md)).
+
+## Note of 2026-11-01: closure is tested by the interventions the constitution debate allows
+
+<!-- inactive-ok-block: CLAIM-526 — Proposed; cited as context -->
+Baumgartner and Gebharter (NOTE-tmpeljd8, p. 20) note an asymmetry
+between levels. A whole's parts can be changed without the whole changing,
+since several micro states realize one macro state. The whole cannot be
+changed without some part changing (THEORY-tmp3pqnm). This claim's closure
+is a statement about the first kind of change. The sum is exactly
+dynamically independent because any redistribution of activity among the
+units that leaves the sum fixed leaves the sum's future unchanged. Those
+redistributions are interventions inside a fibre of the map from units to
+sum. In the debate's terms they are surgical bottom-up interventions,
+which can exist. So closure, unlike constitution, is in principle testable
+by intervention. The test is to perturb within the fibre and watch the
+aggregate. CLAIM-526 uses this.
+
+No status, title or warrant changes.

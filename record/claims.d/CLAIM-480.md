@@ -227,3 +227,24 @@ realized by (A23 §XII).
 - **Spivak** ([NOTE-1225](../notes.d/NOTE-1225.md)) composes by summing pulled-back potentials and
   never eliminates an interior. Rigid constraints appear in his paper only
   as limits of stiff potentials (p. 9).
+
+## Note of 2026-11-01: the relaxation time decides whether a dependence counts as constitution or causation
+
+<!-- inactive-ok-block: CLAIM-tmp1qybv LIT-tmp5bf7n — Proposed or Unfetched; filed 2026-11-01, cited as context -->
+The constitution debate read today draws the line between constitution
+and causation at simultaneity. "Simultaneous changes cannot be causally
+related" (Baumgartner, Casini and Krickel, NOTE-tmpz7pqv, p. 6), and a
+revealing intervention must change part and whole "simultaneously" (their
+H(ii)). This claim's chain makes that line depend on the description. If
+x₂ equilibrates fast, the boundary's constraint is the memoryless E_eff,
+x₂ follows x₁ and x₃ at once, and the interior's dependence is synchronic,
+on the constitution side. If x₂ relaxes slowly, eliminating it leaves a
+memory kernel: x₂'s response follows the boundary's change, on the
+causation side. Whether the dependence is constitution or causation, in
+the debate's sense, is then fixed by the time resolution at which the
+description treats x₂'s relaxation as instantaneous. CLAIM-tmp1qybv part 3
+rests on this. Krickel 2018 (LIT-tmp5bf7n, unread) reportedly reads mutual
+manipulability causally, between a component and temporal phases of the
+phenomenon. If so, it is the same move made from the other side.
+
+No status, title or warrant changes.
