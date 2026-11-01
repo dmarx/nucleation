@@ -2,7 +2,7 @@
 
 # ARGs with `works` `character-that-changed-parties`
 
-*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
+*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **The Character That Changed Parties** — the owner's essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning Applications" (A33), later folded into organization-of-perspective: political realignment and the persistence of perspectives across institutions. The continuity of a political organization, the persistence of a perspective and the descent of a tradition are distinct, and a perspective can move between carriers without an immutable essence or one continuing collective agent.
 
