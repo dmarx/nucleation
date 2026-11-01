@@ -35,12 +35,12 @@ bears_on:
 - QUESTION-284
 - QUESTION-093
 summary: >-
-  Filed on re-reading Griesemer & Shavit 2023 (LIT-188, NOTE-173), who
+  Filed on re-reading Griesemer & Shavit 2023 ([LIT-188](../literature.d/LIT-188.md), [NOTE-173](../notes.d/NOTE-173.md)), who
   mark the step from conexus to community by generative entrenchment of
   core interactions and then, with "Hence", by organizational closure.
   Entrenchment as they define it is a one-way dependency order, and a tree
   rooted in its core passes their knockout test; closure needs the core
-  to depend in turn on the set. By CLAIM-516, read for interactions, an
+  to depend in turn on the set. By [CLAIM-516](CLAIM-516.md), read for interactions, an
   acyclic order persists only on outside supply, which is their own
   scaffolded conexus. It does not say their communities lack closure,
   only that entrenchment and knockout do not show it; and it reads
@@ -54,7 +54,7 @@ summary: >-
 
 ## The claim
 
-Griesemer and Shavit (THEORY-1247; LIT-188, read in NOTE-173) mark the
+Griesemer and Shavit ([THEORY-1247](../theory.d/THEORY-1247.md); [LIT-188](../literature.d/LIT-188.md), read in [NOTE-173](../notes.d/NOTE-173.md)) mark the
 step from conexus to community in two ways and pass from one to the
 other without an argument. Entrenchment, after Wimsatt: "A generatively
 entrenched interaction is a core interaction that later-evolved
@@ -73,12 +73,12 @@ Hence, community constitutes a new level of individuality" (§3).
    it exactly: removing the root removes everything, removing a leaf
    removes only the leaf. The same tree passes the knockout test the
    paper gives for integration.
-2. **Closure needs the other direction.** In TERM-070's sense, each
+2. **Closure needs the other direction.** In [TERM-070](../terms.d/TERM-070.md)'s sense, each
    member of the set depends directly on another member and has another
    depending on it. The root of a tree depends on nothing in the set. So
    entrenchment plus a knockout effect does not give closure, and the
    paper's "Put differently" is a further claim, not a restatement.
-3. **An acyclic order persists only on outside supply.** CLAIM-516
+3. **An acyclic order persists only on outside supply.** [CLAIM-516](CLAIM-516.md)
    shows that where constraint capacities turn over at a positive rate and
    each is produced only by its parents, with no basal production, an
    acyclic production graph decays to zero, and whatever persists has a
@@ -89,7 +89,7 @@ Hence, community constitutes a new level of individuality" (§3).
    members' separate motives. That is the paper's own second outcome for a
    conexus, persisting "maintained by external ecological scaffolding"
    (§2), and Bourrat's de-Darwinized collective as the paper reports it
-   (LIT-tmpc4wc1).
+   ([LIT-tmpc4wc1](../literature.d/LIT-tmpc4wc1.md)).
 4. **What entrenched and closed looks like.** If the core is maintained
    from inside, some interactions that depend on the core also maintain
    it, so the core lies on a cycle. Each interaction on that cycle is then
@@ -105,8 +105,8 @@ cycle: an outside supply of the core is replaced by maintenance from
 interactions that depend on it. Entrenchment can come first, under the
 scaffold, and does not show that the cycle has closed. Telling the two
 apart needs an intervention on the supply relative to a declared boundary
-(CLAIM-522), not a knockout of interaction types. A coupling or gap test
-cannot do it either (CLAIM-194).
+([CLAIM-522](CLAIM-522.md)), not a knockout of interaction types. A coupling or gap test
+cannot do it either ([CLAIM-194](CLAIM-194.md)).
 
 ## What it does not say
 
@@ -115,16 +115,16 @@ cannot do it either (CLAIM-194).
   it.
 - **That Wimsatt's own concept is acyclic.** Only the definition the paper
   quotes is read here. Wimsatt's book is registered unread
-  (LIT-tmp9dwb5), and it may let a core be maintained by what depends on
+  ([LIT-tmp9dwb5](../literature.d/LIT-tmp9dwb5.md)), and it may let a core be maintained by what depends on
   it.
-- **That closure suffices for individuality.** TERM-088 treats closure as
+- **That closure suffices for individuality.** [TERM-088](../terms.d/TERM-088.md) treats closure as
   organizational autonomy, a further achievement, and the paper adopts
   Moreno and Mossio's link between closure and individuality without
   arguing it.
-- **That CLAIM-516's hypotheses hold for social interactions.** An
+- **That [CLAIM-516](CLAIM-516.md)'s hypotheses hold for social interactions.** An
   interaction that members would perform anyway for their own ends has
   basal production in that claim's sense. The present claim counts it as
   outside supply, which is a choice of boundary, not a finding.
-- **That a cycle suffices for closure.** CLAIM-516 says a cycle is
+- **That a cycle suffices for closure.** [CLAIM-516](CLAIM-516.md) says a cycle is
   necessary and not sufficient, and that a one-member cycle is not
   closure.

@@ -134,7 +134,7 @@ There is no formal method. It is conceptual analysis by definition, analogy (pop
 
 ## Connections
 
-The paper's nearest neighbours in this record are Bourrat's individuality papers. It engages Bourrat's endogenization-of-scaffolding account directly (the BJPS paper, now registered as LIT-tmpc4wc1) and Black, Bourrat & Rainey (2020), the model that [LIT-005](../literature.d/LIT-005.md) names as a test case. It shares the scaffolding premise but pushes against a purely Darwinian-properties account of individuality, and that is where it differs from [LIT-049](../literature.d/LIT-049.md) (individuals as coarse-grainings of lower-level processes) and [LIT-005](../literature.d/LIT-005.md) (information-theoretic individuality made interventional). Its reproducer-based framing, taken from Griesemer (2000), is the ancestor of the distinctions in [LIT-157](../literature.d/LIT-157.md) (reproducees, reproducers, Darwinian individuals). Its MLS1/MLS2 vocabulary cites Heisler & Damuth (1987), not the 1988 paper held as [LIT-201](../literature.d/LIT-201.md), but it trades on the distinction [LIT-201](../literature.d/LIT-201.md) draws. Its "levels of individuality and reproduction … have a complicated relationship to levels of selection" points at the units-of-selection map in [LIT-160](../literature.d/LIT-160.md). For the broader individuality landscape see [LIT-168](../literature.d/LIT-168.md), and for organism-centred process accounts see [LIT-167](../literature.d/LIT-167.md). Its scaffolding/niche framing sits alongside [LIT-110](../literature.d/LIT-110.md), [LIT-169](../literature.d/LIT-169.md) and [LIT-127](../literature.d/LIT-127.md), though it does not cite them.
+The paper's nearest neighbours in this record are Bourrat's individuality papers. It engages Bourrat's endogenization-of-scaffolding account directly (the BJPS paper, now registered as [LIT-tmpc4wc1](../literature.d/LIT-tmpc4wc1.md)) and Black, Bourrat & Rainey (2020), the model that [LIT-005](../literature.d/LIT-005.md) names as a test case. It shares the scaffolding premise but pushes against a purely Darwinian-properties account of individuality, and that is where it differs from [LIT-049](../literature.d/LIT-049.md) (individuals as coarse-grainings of lower-level processes) and [LIT-005](../literature.d/LIT-005.md) (information-theoretic individuality made interventional). Its reproducer-based framing, taken from Griesemer (2000), is the ancestor of the distinctions in [LIT-157](../literature.d/LIT-157.md) (reproducees, reproducers, Darwinian individuals). Its MLS1/MLS2 vocabulary cites Heisler & Damuth (1987), not the 1988 paper held as [LIT-201](../literature.d/LIT-201.md), but it trades on the distinction [LIT-201](../literature.d/LIT-201.md) draws. Its "levels of individuality and reproduction … have a complicated relationship to levels of selection" points at the units-of-selection map in [LIT-160](../literature.d/LIT-160.md). For the broader individuality landscape see [LIT-168](../literature.d/LIT-168.md), and for organism-centred process accounts see [LIT-167](../literature.d/LIT-167.md). Its scaffolding/niche framing sits alongside [LIT-110](../literature.d/LIT-110.md), [LIT-169](../literature.d/LIT-169.md) and [LIT-127](../literature.d/LIT-127.md), though it does not cite them.
 
 ## Bearing on the record
 
@@ -214,15 +214,15 @@ body has three moves.
    but it leaves the regress the abstract names untouched.
 2. **It identifies a reproducer before an individual.** Demic groups are
    candidate higher-level reproducers that become individuals only
-   "post-transition" (§2, after Griesemer 2000, LIT-tmpjjlyw, and
-   "The Units of Evolutionary Transition", LIT-tmppe8tc).
+   "post-transition" (§2, after Griesemer 2000, [LIT-tmpjjlyw](../literature.d/LIT-tmpjjlyw.md), and
+   "The Units of Evolutionary Transition", [LIT-tmppe8tc](../literature.d/LIT-tmppe8tc.md)).
 3. **It lets scaffolds carry early coherence.** Crosswalk stripes, queues
    and "external ecological scaffolding" do this. Endogenization later moves
    "scaffolding effects into the community rather than into a lower-level
-   individual" (§2; Bourrat, LIT-tmpc4wc1; Black, Bourrat & Rainey 2020,
-   LIT-tmptyunu).
+   individual" (§2; Bourrat, [LIT-tmpc4wc1](../literature.d/LIT-tmpc4wc1.md); Black, Bourrat & Rainey 2020,
+   [LIT-tmptyunu](../literature.d/LIT-tmptyunu.md)).
 
-Generative entrenchment (Wimsatt 2007, LIT-tmp9dwb5) is the mechanism. The
+Generative entrenchment (Wimsatt 2007, [LIT-tmp9dwb5](../literature.d/LIT-tmp9dwb5.md)) is the mechanism. The
 loop by which products modify their own mechanisms is treated as a
 feature (§3), not dissolved.
 
@@ -243,13 +243,13 @@ The criteria fall into two kinds.
   entrenchment, the knockout test and release from a scaffold. Only these
   can individuate an organization without presupposing it, and they do so
   as a declared candidate whose verdict can come out false
-  (CLAIM-tmpbij2b).
+  ([CLAIM-tmpbij2b](../claims.d/CLAIM-tmpbij2b.md)).
 - **Stated on members' attitudes toward the group:** the shared goal,
   belonging, the focal goal and group cognition. These individuate
   constitutively.
 
-Knockout and entrenchment show dependence, not closure (CLAIM-tmpr242r).
+Knockout and entrenchment show dependence, not closure ([CLAIM-tmpr242r](../claims.d/CLAIM-tmpr242r.md)).
 None of the criteria is made operational. The companion Neolithic paper
-(Shavit & Sharon 2023, LIT-tmpnhel1) is the promised application, and is
+(Shavit & Sharon 2023, [LIT-tmpnhel1](../literature.d/LIT-tmpnhel1.md)) is the promised application, and is
 registered unread.
 

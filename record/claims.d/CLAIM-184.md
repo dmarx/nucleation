@@ -147,8 +147,8 @@ changes.
 
 The mechanism this claim names has a standard source the record now
 holds as a registration: Wimsatt's generative entrenchment
-(LIT-tmp9dwb5, unread), as Griesemer and Shavit quote it (LIT-188, §2;
-NOTE-173). An entrenched element is one "that later-evolved interactions
+([LIT-tmp9dwb5](../literature.d/LIT-tmp9dwb5.md), unread), as Griesemer and Shavit quote it ([LIT-188](../literature.d/LIT-188.md), §2;
+[NOTE-173](../notes.d/NOTE-173.md)). An entrenched element is one "that later-evolved interactions
 will depend on for their existence and character, so that perturbations
 of it will tend to be catastrophic to the whole system while changes in
 the later interactions tend to lead to tolerable system changes". That is

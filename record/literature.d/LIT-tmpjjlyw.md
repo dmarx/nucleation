@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-01, not read. Registered because Griesemer and Shavit's account of community reproduction (LIT-188, §3) is this paper's account of inheritance carried to social groups. OpenAlex reports it closed; a CiteSeerX record of a submitted version is listed there and was not tried.
+  filed 2026-11-01, not read. Registered because Griesemer and Shavit's account of community reproduction ([LIT-188](LIT-188.md), §3) is this paper's account of inheritance carried to social groups. OpenAlex reports it closed; a CiteSeerX record of a submitted version is listed there and was not tried.
 title: 'Development, Culture, and the Units of Inheritance'
 version: 1
 history:
@@ -33,8 +33,8 @@ James R. Griesemer (2000). "Development, Culture, and the Units of Inheritance."
 
 ## Key takeaways
 
-*From the abstract (Crossref), not read.* Developmental systems theory widens the unit of replication to the whole system of developmental resources, but keeps the classical gene and so achieves "only a nominal reunification of heredity and development". An alternative conception of inheritance yields "a new unit—the reproducer—which genuinely integrates genetic and developmental perspectives", articulating "the non-separability of 'genetic' and 'developmental' roles". Reformulated in reproducers, the theory keeps a distinction between cultural and biological evolution. Griesemer and Shavit (LIT-188, §3) take from it that inheritance is propagation by sampling of parental material parts into propagules that carry developmental capacities.
+*From the abstract (Crossref), not read.* Developmental systems theory widens the unit of replication to the whole system of developmental resources, but keeps the classical gene and so achieves "only a nominal reunification of heredity and development". An alternative conception of inheritance yields "a new unit—the reproducer—which genuinely integrates genetic and developmental perspectives", articulating "the non-separability of 'genetic' and 'developmental' roles". Reformulated in reproducers, the theory keeps a distinction between cultural and biological evolution. Griesemer and Shavit ([LIT-188](LIT-188.md), §3) take from it that inheritance is propagation by sampling of parental material parts into propagules that carry developmental capacities.
 
 ## Standing in the record
 
-Registered on 2026-11-01 from the re-reading of LIT-188 (NOTE-173). The reproducer is the unit Griesemer's view uses in place of units of selection, and it is how LIT-188 can speak of a group as a candidate reproducer before it is an individual (§2). LIT-157 (Bourrat on reproducees, reproducers and Darwinian individuals) descends from it.
+Registered on 2026-11-01 from the re-reading of [LIT-188](LIT-188.md) ([NOTE-173](../notes.d/NOTE-173.md)). The reproducer is the unit Griesemer's view uses in place of units of selection, and it is how [LIT-188](LIT-188.md) can speak of a group as a candidate reproducer before it is an individual (§2). [LIT-157](LIT-157.md) (Bourrat on reproducees, reproducers and Darwinian individuals) descends from it.

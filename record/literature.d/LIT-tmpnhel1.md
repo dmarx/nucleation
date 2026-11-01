@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-01, not read. The companion paper to LIT-188 in the same theme issue, and the source of its one worked illustration. Open access (CC BY) at PubMed Central as PMC9869441; no reading was attempted.
+  filed 2026-11-01, not read. The companion paper to [LIT-188](LIT-188.md) in the same theme issue, and the source of its one worked illustration. Open access (CC BY) at PubMed Central as PMC9869441; no reading was attempted.
 title: 'Can models of evolutionary transition clarify the debates over the Neolithic Revolution?'
 version: 1
 history:
@@ -38,4 +38,4 @@ Ayelet Shavit, Gonen Sharon (2023). "Can models of evolutionary transition clari
 
 ## Standing in the record
 
-Registered on 2026-11-01 from the re-reading of LIT-188 (NOTE-173). LIT-188's status note names it as the kind of worked case that could settle that paper: one that tells collection, conexus and community apart by measurable criteria. Its abstract promises a lens, not such criteria, so it may not. A reading should check whether it scores any Natufian or Neolithic site against the 3Cs.
+Registered on 2026-11-01 from the re-reading of [LIT-188](LIT-188.md) ([NOTE-173](../notes.d/NOTE-173.md)). [LIT-188](LIT-188.md)'s status note names it as the kind of worked case that could settle that paper: one that tells collection, conexus and community apart by measurable criteria. Its abstract promises a lens, not such criteria, so it may not. A reading should check whether it scores any Natufian or Neolithic site against the 3Cs.
