@@ -10,6 +10,7 @@ kind: thought-experiment
 tags:
 - agency
 - free-will
+line: will-organization
 date: '2026-10-27'
 reported_in:
 - LIT-692

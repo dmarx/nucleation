@@ -11,6 +11,9 @@ tags:
 - society-and-governance
 - social-ontology
 - ethics
+line:
+- distributed-agency
+- organizational-affect
 date: '2026-10-23'
 summary: >-
   The Wells Fargo sales-practices episode, as reported by the bank's

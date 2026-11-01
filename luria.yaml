@@ -1337,6 +1337,7 @@ schemes:
       line:
         vocabulary: lines
         many: true
+        required: true
     axis: tags
     retires_on: Superseded
     successor: superseded_by
@@ -1501,6 +1502,7 @@ schemes:
       line:
         vocabulary: lines
         many: true
+        required: true
       works:
         vocabulary: works
         many: true
