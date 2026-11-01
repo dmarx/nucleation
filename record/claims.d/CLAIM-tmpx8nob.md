@@ -39,8 +39,8 @@ bears_on:
 summary: >-
   From U13 of the exchange "Explain Nucleation Website" (2026-11-01), the
   proposed update to the record after a survey of the `works:` field. It
-  joins two existing results: CLAIM-522 says where a productive mechanism
-  sits relative to a declared boundary, and CLAIM-280 says a product's
+  joins two existing results: [CLAIM-522](CLAIM-522.md) says where a productive mechanism
+  sits relative to a declared boundary, and [CLAIM-280](CLAIM-280.md) says a product's
   persistence is not its producer's. What it adds is that finding the
   sustaining processes is not finding one sustaining individual. The
   central distinction of The Individual and Its Conditions.
@@ -58,14 +58,14 @@ does not establish the boundary, autonomy or individuality of what
 produces it. The same processes can maintain several products, and a
 product can survive the replacement or reorganization of its maintainers.
 
-It is not CLAIM-522 restated. CLAIM-522 locates a productive mechanism
-relative to a declared boundary: inside or outside. CLAIM-280 separates
+It is not [CLAIM-522](CLAIM-522.md) restated. [CLAIM-522](CLAIM-522.md) locates a productive mechanism
+relative to a declared boundary: inside or outside. [CLAIM-280](CLAIM-280.md) separates
 the persistence of a product from the persistence of its producer. This
 claim takes a further step neither makes: identifying the processes that
 sustain a product does not by itself identify a single sustaining
-individual. On r/place (CASE-079) the image, the shifting coalition that
+individual. On r/place ([CASE-079](../cases.d/CASE-079.md)) the image, the shifting coalition that
 defends it and the practices passed among contributors are three
-candidates, not one. In CASE-189 the outside controller maintains the
+candidates, not one. In [CASE-189](../cases.d/CASE-189.md) the outside controller maintains the
 coupling without being part of anything the coupling individuates.
 
 It matters for organizations maintained by dispersed practices,
@@ -79,10 +79,10 @@ infer a producer from a product.
   point is the reverse: that it need not be.
 - **That causal dependence yields relational constitution.** Which
   maintaining relations are constitutive is the open question this claim
-  bears on, and CLAIM-530 says what the mechanistic answer presupposes.
+  bears on, and [CLAIM-530](CLAIM-530.md) says what the mechanistic answer presupposes.
 - **That product and producer never coincide.** In a cell they may.
-- **A metaphysics of recursive individuation.** CLAIM-477 proposes the
+- **A metaphysics of recursive individuation.** [CLAIM-477](CLAIM-477.md) proposes the
   broader synthesis, and this claim does not inherit it.
 
 The warrant is interpretive although two of its premises are
-demonstrated: warrants are not inherited (ADR-043).
+demonstrated: warrants are not inherited ([ADR-043](../decisions.d/ADR-043.md)).

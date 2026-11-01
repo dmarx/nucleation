@@ -12,7 +12,7 @@ refines:
 - QUESTION-284
 summary: >-
   From U13 of the exchange "Explain Nucleation Website" (2026-11-01). The
-  narrow form of QUESTION-284 that The Individual and Its Conditions
+  narrow form of [QUESTION-284](QUESTION-284.md) that The Individual and Its Conditions
   leaves open: interventions on mechanisms say where and how maintenance
   happens, not which boundary is privileged or which relations constitute
   the individual.
@@ -23,13 +23,13 @@ summary: >-
 ## Why it is a question
 
 Interventions on mechanisms can establish where and how productive
-maintenance happens (CLAIM-522, ARG-050). They do not by themselves
+maintenance happens ([CLAIM-522](../claims.d/CLAIM-522.md), [ARG-050](../arguments.d/ARG-050.md)). They do not by themselves
 establish which boundary is privileged or which relations constitute the
 individual. Two systems can differ in provenance without differing in
 every legitimate kind of individuality. The mechanistic reading sharpens
 the gap: interventions show that a capacity is produced through a
-pathway, not that it consists in it (CLAIM-528), and the manipulability
-conditions presuppose the parthood they would need to find (CLAIM-530).
+pathway, not that it consists in it ([CLAIM-528](../claims.d/CLAIM-528.md)), and the manipulability
+conditions presuppose the parthood they would need to find ([CLAIM-530](../claims.d/CLAIM-530.md)).
 
 An answer would specify, for at least one kind of organization, which
 further premises about organization, causal realization and persistence

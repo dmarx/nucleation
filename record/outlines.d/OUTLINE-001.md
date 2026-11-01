@@ -20,7 +20,7 @@ sections:
 summary: >-
   The spine of the owner's philosophy article: its title, abstract,
   editorial commitments and the order of its nine SECTIONs. The manuscript
-  is a view assembled from these (ADR-067), and its status is the
+  is a view assembled from these ([ADR-067](../decisions.d/ADR-067.md)), and its status is the
   article's, not a verdict on the claims it discusses.
 ---
 
@@ -34,7 +34,7 @@ What makes an organization one individual rather than an aggregate of interactin
 
 Not transcluded; these bind revisions of the sections.
 
-- The two constructions (CASE-189) are counterexamples to entailments, not
+- The two constructions ([CASE-189](../cases.d/CASE-189.md)) are counterexamples to entailments, not
   demonstrations of a universal theory.
 - The gap from causal provenance to metaphysical constitution stays open
   in this article (the question it leaves is filed beside it).

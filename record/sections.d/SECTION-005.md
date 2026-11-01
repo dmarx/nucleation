@@ -35,4 +35,4 @@ A candidate boundary can be used provisionally without circularity. What would b
 
 ## Revision notes
 
-Not transcluded. The prose names the mechanistic-constitution literature as a direct interlocutor but does not yet engage it. The record filed that reading the same day: CLAIM-528 (produced through versus consisting in) and CLAIM-530 (parthood is what the manipulability conditions presuppose) are the points this section should take up.
+Not transcluded. The prose names the mechanistic-constitution literature as a direct interlocutor but does not yet engage it. The record filed that reading the same day: [CLAIM-528](../claims.d/CLAIM-528.md) (produced through versus consisting in) and [CLAIM-530](../claims.d/CLAIM-530.md) (parthood is what the manipulability conditions presuppose) are the points this section should take up.
