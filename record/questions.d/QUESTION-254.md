@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpc4j7p
 title: 'What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode''s current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -38,6 +38,14 @@ history:
     NOTE-1163: its group-theoretic layer offers a structural mark of a
     perspective but no criterion against a perspective-free invariant
     extractor. The question is unchanged.
+- version: 6
+  date: '2026-11-01'
+  note: >-
+    Note of 2026-11-01 added, from the readings of Metzinger 2020 and
+    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): his model of the system's
+    epistemic openness, tested against the question's conditions; a
+    candidate of the right form that does not answer it. The question
+    is unchanged.
 tags:
 - consciousness
 - phenomenal-unity
@@ -63,6 +71,7 @@ bearing:
 - THEORY-882
 - THEORY-876
 ---
+<!-- inactive-ok-file: THEORY-tmplvoa3 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-368 CLAIM-411 CLAIM-412 CLAIM-413 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; a reading cited as a candidate, nothing here rests on its being settled -->
 # QUESTION-254: What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode's current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?
@@ -263,3 +272,36 @@ any object recognizer is, and the paper calls the layer a suggestive
 sketch. It narrows the question to what co-presence adds over invariant
 extraction; it does not answer it. The inference is the record's. The
 question is unchanged.
+
+## Note of 2026-11-01: Metzinger's model of epistemic openness, as a candidate
+
+Metzinger 2020 and 2024 ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md) in [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md); [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md) in
+[NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md)) offer a candidate property of the kind the question asks
+for: a temporally thin, integrated model of the system's own epistemic
+capacities, of its tonic alertness. Tonic alertness that is not so
+modelled is not experienced (2020, p. 33). In the 2024 active-inference
+sketch, the top level, a model of "the system's global 'epistemic
+openness'", is what "endows the content generated on all lower-order
+levels with phenomenality" (pp. 476–477). Stated as [THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md).
+
+Tested against the question's conditions:
+
+- **Not stated without reference to experience or report.** The account
+  was fitted to contemplative reports, and no measure of the model is
+  given. Unresponsive wakefulness is offered as the case of alertness
+  without its model. There the absence of experience is inferred from
+  behaviour.
+- **Blindsight and the rest are not addressed** in the pages read.
+- **On machines it asserts possibility, not a verdict.** Tonic alertness
+  "could be realized by very different physical properties in machines
+  that create an integrated internal model of their own epistemic space"
+  (2020, p. 32). This is the question's worry: the account gives no reason
+  why an engineered self-monitor of readiness would not qualify.
+- **It cuts against the question's word "perspective".** The account's
+  minimal experience is "aperspectival" (2020, p. 11). If that is right,
+  the organization that makes a state experiential is not the
+  organization of a perspective in [TERM-072](../terms.d/TERM-072.md)'s senses 2 or 3, though it
+  may be in sense 1.
+
+So it is a candidate of the right form and does not answer the question.
+No status, title or warrant changes.

@@ -20,7 +20,7 @@ promote_when: >-
   performative worry about reports of selfless experience. It is refuted
   if every state with a unified world also has a self-model, so that the
   "selfless snapshot" is empty in fact and not only "probably". A
-  first-hand reading of Being No One (LIT-467, Deferred) would show what
+  first-hand reading of Being No One (LIT-467, Unavailable) would show what
   the book adds. More arguments that unity is a datum of introspection
   cannot settle it.
 title: "The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model"
@@ -150,3 +150,22 @@ phenomenological inference from reported states, which is all it claims.
   theory. Together they mark the line [ADR-024](../decisions.d/ADR-024.md) draws: phenomenal unity is
   given by integration; unity of agency, on Korsgaard's view, has to be
   achieved.
+
+## Note of 2026-11-01: Metzinger's later minimal case
+
+<!-- inactive-ok-block: THEORY-tmplvoa3 THEORY-tmp8nd9o — Proposed or newly filed; the readings of Metzinger's later work -->
+Metzinger's later work qualifies this reading's second clause; it does not
+confirm it. The new readings are "Minimal phenomenal experience" (2020,
+[LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md)) and *The Elephant and the Blind* (2024, [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md)).
+- **Not a "selfless unified world".** His minimal case lacks world-content
+  and any felt oneness (2020 p. 13; 2024 p. 477).
+- **Still a self-model of a kind.** He describes it as a "nonegoic
+  self-model" (2024 p. 477) and as "non-egoic self-modelling" (2020
+  p. 36) ([THEORY-tmplvoa3](THEORY-tmplvoa3.md)).
+
+So what the evidence could show is unity without an *egoic* self-model,
+which is narrower than "does not require a self-model". The worry about
+report this reading's promote_when names is stated in the book itself
+and left open (p. 19; [THEORY-tmp8nd9o](THEORY-tmp8nd9o.md)). No status, title or warrant
+changes.
+

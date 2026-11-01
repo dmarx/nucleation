@@ -16,7 +16,7 @@ promote_when: >-
   claim: that transparency is graded, inversely with the attentional
   availability of earlier processing stages, so that a measure of that
   availability covaries with reported selfhood. A first-hand reading of
-  Being No One (LIT-467, Deferred), whose case studies the précis leaves
+  Being No One (LIT-467, Unavailable), whose case studies the précis leaves
   out, could move it either way. What cannot settle it: the ontological
   half, that nothing beyond such models is a self, which the theory
   stipulates by identifying "self" with a substantial individual; and more
@@ -176,3 +176,12 @@ per se", not loss of self, so [THEORY-597](THEORY-597.md)'s "loss of basic self"
 count as selfhood falling with opacity without a measure of opacity.
 Being No One ([LIT-467](../literature.d/LIT-467.md)) is Unavailable. [CLAIM-156](../claims.d/CLAIM-156.md) cites this reading as
 corroboration, and [CLAIM-355](../claims.d/CLAIM-355.md) still grounds on it.
+
+## Note of 2026-11-01: transparency carried to epistemic openness
+
+*The Elephant and the Blind* (2024, [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), pp. 362–369) carries
+this reading's transparency apparatus to the model of epistemic openness
+itself. It gives no test of the prediction that a fully opaque self-model
+would end selfhood. Meditation as "opacity control" names a mechanism
+but no measure. No status, title or warrant changes.
+

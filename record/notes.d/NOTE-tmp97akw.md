@@ -1,0 +1,223 @@
+---
+status: Read
+paper: 'LIT-tmp23d7b'
+title: 'Metzinger — The myth of cognitive agency'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Read in full from the publisher's PDF (Frontiers in Psychology 4:931,
+    published 19 December 2013), fetched 2026-11-01 from
+    frontiersin.org/articles/10.3389/fpsyg.2013.00931/pdf and extracted
+    with `pdftotext` (plain and `-layout`). Page numbers are the article's
+    (1–19). I read the abstract, every section, the footnotes 1–13, Box 1
+    (pp. 12–13) and the conclusions (pp. 14–16); the reference list was
+    consulted, not read. None of the works it cites was read: Schooler et
+    al. 2011, Killingsworth and Gilbert 2010, Nielsen 2000, Brass and
+    Haggard 2007, Smallwood 2013. I recomputed the paper's minute counts
+    (p. 6) by hand.
+date: '2026-11-01'
+summary: >-
+  Mind-wandering is a recurring, unnoticed loss of M-autonomy, the
+  veto-centred ability to control one's own mental processes. Most
+  conscious thought is subpersonal mental behaviour, and a thought becomes
+  the person's only when integrated into a transparent "epistemic agent
+  model". The paper states that we lack M-autonomy for about two thirds of
+  conscious life; its own minutes give 52%.
+---
+<!-- inactive-ok-file: THEORY-tmpcq8bx ARG-tmpmibc8 — Proposed; the reading and inference filed from this note, cited as open -->
+<!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the theory the paper applies, not leaned on -->
+<!-- inactive-ok-file: CLAIM-156 CLAIM-484 CLAIM-523 CLAIM-358 THEORY-064 QUESTION-034 — Proposed or Open; the entries this reading bears on, cited as open -->
+
+# NOTE-tmp97akw: Metzinger — The myth of cognitive agency
+
+## Contribution
+
+It brings the psychology of mind-wandering into philosophy of mind as a
+claim about agency. Mind-wandering is "a specific form of mental autonomy
+loss" (abstract); the loss recurs many hundreds of times a day, usually
+unnoticed; and "the paradigmatic case of conscious cognition is one of
+autonomous, self-controlled rational thought" is a myth, the "Myth of
+Cognitive Agency" (p. 7). It introduces the working concept of
+M-autonomy, the "epistemic agent model" (EAM), the "self-representational
+blink" (SRB) and the "unit of identification" (UI), and ends with a
+research agenda. It is a Hypothesis and Theory article with no data of its
+own.
+
+## Key insight
+
+Whether a stretch of conscious thinking is the person's doing is not
+settled by its content, its intelligence or its goal-directedness. Mind-
+wandering can be about one's plans and serve them. It is settled by
+whether the thinking is under veto: whether it could be suspended or ended
+now, and whether the person represents that it could. That representation
+is the EAM, and its collapse marks the onset of each episode. "As long as
+the EAM still represents the ability to become an active attentional or
+cognitive agent, we have M-autonomy" (p. 3, note 4).
+
+## Assumptions
+
+- **Veto as the defining element.** "the third defining characteristic"
+  of autonomy, being able to inhibit, suspend or terminate (p. 3), is made
+  the core of M-autonomy (p. 4). Rational self-control is "only a special
+  case" (p. 4).
+- **Mind-wandering is unintentional.** Intentional daydreaming with
+  attentional or cognitive agency does not count (p. 3, note 4).
+- **Domain-specific identity** of mind-wandering episodes with their
+  neural correlate, largely default-mode network activity (pp. 7–8).
+- **Survey and sampling figures as given.** 30–50% of waking time
+  mind-wandering (Kane et al. 2007; Killingsworth and Gilbert 2010;
+  Schooler et al. 2011), Nielsen's (2000) recall rates for REM and NREM
+  awakenings (p. 6).
+
+## Key results
+
+- **The definition** (p. 4): M-autonomy is "the ability to control the
+  conscious contents of one's mind in a goal-directed way, by means of
+  attentional or [cognitive agency]", whose crucial element is the veto
+  component, "the ability, the functional potential, is given and ... the
+  person has knowledge of this fact".
+- **The estimate** (p. 6). Waking 960 min, 40% mind-wandering = 384 min.
+  REM 105 min × 81.9% = 86 min of mentation; NREM 375 min × 43% = 161 min.
+  Conscious time 1207 min; "healthy adults are only M-autonomous for 9.6 h
+  (576 min; or 40% of an average day)". Conclusion: "not autonomous mental
+  subjects for roughly two thirds of their lifetime" (p. 6), "for about two
+  thirds of their conscious lifetime" (p. 14). **Checked:** the figures give
+  384 + 86 + 161 = 631 non-autonomous minutes of 1207, 52%; 576/1207 = 48%
+  autonomous. Two thirds is reached only with exclusions the paper names
+  and does not count (childhood, old age, illness, mind-blanking,
+  insomnia), and the 576 minutes count every waking minute not spent
+  mind-wandering as M-autonomous. 40% is 576 of all 1440 minutes, not of
+  conscious time.
+- **Personal level** (p. 8): processes are experienced as personal-level
+  "Because they have been embedded into an EAM ... and because we live in
+  a normative sociocultural context in which we ... reciprocally
+  acknowledge each other as rational individuals".
+- **Two ends of an episode** (p. 14): one with an SRB and a new UI, one
+  without.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Mind-wandering is a loss of M-autonomy: while it unfolds it cannot be suspended or ended at will | moderate as conceptual analysis | definition plus phenomenology (pp. 3–4, 6) |
+| C2 | Humans lack M-autonomy for about two thirds of conscious life | weak; misstated | the paper's own minutes give about half (p. 6) |
+| C3 | Conscious thought is predominantly subpersonal; it becomes personal-level by integration into an EAM | moderate as a proposal | conceptual argument, DMN overlap cited (pp. 7–8) |
+| C4 | An experienced return of control may not have been a personal-level act ("autophenomenological post-hoc-confabulation") | weak; hypothesis | Schooler et al. 2011 and Wegner 2002 cited (pp. 4, 11) |
+| C5 | Inhibition can be wholly subpersonal; "There is no free won't" | moderate as cited | Hepler and Albarracín 2013; van Gaal et al. 2010 cited, not read (p. 13) |
+| C6 | Subjects should be blind to self-related stimuli during the SRB | prediction; untested | conceptual, by analogy to the attentional blink (p. 9) |
+| C7 | Meditation is a formal practice of cultivating M-autonomy | moderate as an interpretation | Mrazek et al. 2012, Hölzel et al. 2011 cited (pp. 11, 15) |
+
+## Concepts
+
+- **M-autonomy** — the ability to control the conscious contents of one's
+  mind in a goal-directed way, by attention or deliberate thought, whose
+  defining component is veto plus knowledge of having it (p. 4; Box 1).
+- **V-autonomy** — "the capacity to voluntarily suspend or inhibit an
+  action", ascribed "not to the brain, but to the person as a whole";
+  intentional inhibition, after Brass and Haggard (p. 4).
+- **Attentional agency (AA) / cognitive agency (CA)** — control of
+  attentional focus / of goal-related deliberate thought; each also a
+  phenomenal property (pp. 2–3).
+- **2nd-order mental action** — mental action whose satisfaction
+  conditions are "successfully influencing other mental actions or mental
+  behaviors"; meta-awareness is its "necessary precondition" (p. 3).
+- **EAM** — a transparent self-model of oneself as an epistemic agent, or
+  as able to be one; "AA is sufficient for having an EAM, CA is not a
+  necessary condition" (Box 1).
+- **Weak and strong EAM** — "tuning out" keeps "a conscious self-model
+  involving the ability for epistemic agency, a weak EAM"; "zoning out" is
+  its "complete collapse" (p. 15).
+- **SRB** — a brief loss of self-awareness at the onset of an episode,
+  followed by an involuntary shift in the UI (p. 9).
+- **UI** — "the phenomenal property with which we currently identify ...
+  'I am this!'" (p. 10).
+- **Principle of Virtual Identity Formation** — higher cognition
+  presupposes a self-model portraying the organism as one entity over
+  time, and mind-wandering may maintain it (p. 5).
+
+## Connections
+
+It applies the self-model theory (Being No One, [LIT-467](../literature.d/LIT-467.md); the précis,
+[LIT-568](../literature.d/LIT-568.md), read in [NOTE-460](NOTE-460.md)) to the empirical mind-wandering literature, and
+it shares its concepts, the EAM and the UI, with the dreams paper of the
+same year ([LIT-1871](../literature.d/LIT-1871.md), read in [NOTE-1434](NOTE-1434.md)), which it cites as Metzinger
+2013a. Veto and intentional inhibition come from Brass and Haggard 2007.
+[LIT-tmp0w298](../literature.d/LIT-tmp0w298.md) develops it, and [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md) puts it in predictive
+processing.
+
+## Limitations
+
+- **No data of its own**, and the estimate misstates its own arithmetic
+  (Key results).
+- **The 30–50% figures are not M-autonomy measures.** Probe-caught
+  mind-wandering is task-unrelated thought, which the paper's note 4
+  separates from intentional daydreaming. Sampling studies do not tell the
+  two apart reliably, so the figure can overcount losses of M-autonomy.
+- **The SRB and the UI** are introduced from conceptual considerations and
+  "the description of a specific phenomenological aspect alone" (p. 10).
+- **Veto as ability "plus knowledge of this fact"** joins a functional and
+  an epistemic condition; the paper does not say which a measurement
+  should track.
+
+## Open questions
+
+- Is the onset of mind-wandering caused by a change in what the person is
+  pursuing (cued current concerns), or by a lapse in control with goals
+  unchanged? The paper names both causes and does not separate them.
+- Does every episode begin with an SRB, and are subjects blind to
+  self-related stimuli during it (p. 15)?
+- Is the experienced return of control ever the person's act, and how
+  would one tell?
+
+## Bearing on the record's own argument
+
+Same structure, not shown same mechanism, throughout: the paper is about
+control of one's own mental processes, the record's will-organization line
+about which of an agent's action-generating regimes acts.
+
+- **[CLAIM-047](../claims.d/CLAIM-047.md) and [CLAIM-027](../claims.d/CLAIM-027.md).** M-autonomy's veto is [TERM-017](../terms.d/TERM-017.md)'s suspension
+  at the scale of mental action, a relation by which an applicable process
+  "may be disabled". Its loss in mind-wandering is a change in whether that
+  relation can be exercised, while the competing mental processes run on.
+  The paper's note 4 (p. 3) puts the condition in the self-model: as long
+  as the EAM represents the ability, M-autonomy remains. [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md) makes
+  this explicit, and the ARG filed with these readings ([ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md)) holds
+  the verdict.
+- **[CLAIM-122](../claims.d/CLAIM-122.md).** Not a proposals-fixed case. The paper's own causal story
+  for the onset of an episode (p. 13) is "introspectively inaccessible goal
+  representations", "postponed goal-states ... environmentally cued", which
+  is the defeater's alternative: a change in a goal state that predicts the
+  switch. Its story for the return of control is different ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md),
+  p. 283).
+- **[CLAIM-156](../claims.d/CLAIM-156.md) and [QUESTION-034](../questions.d/QUESTION-034.md).** Meditation "is a systematic, formal
+  practice of cultivating M-autonomy" (p. 15), and the meditator's return
+  to the breath is "an equally recurring mental action" (p. 11). That fits
+  the claim's route, a change in which processes may act, at the scale of
+  thought. It says nothing about valuation or discounting. And it cautions
+  against the evidence the claim relies on: a meditator's report of
+  noticing and redirecting "may be false" as a description of what did the
+  work (p. 4).
+- **[CLAIM-523](../claims.d/CLAIM-523.md).** "Oops, I have just been daydreaming again!" can start a
+  second episode, with "a new phenomenal UI (the phenomenal subject of
+  meta-awareness ...), but the functional properties characterizing
+  M-autonomy are not realized" (p. 14). That is legibility without
+  volitional efficacy in one mind. "Successful inhibition can be an
+  entirely subpersonal process" (p. 13) is correction without legibility.
+- **[CLAIM-484](../claims.d/CLAIM-484.md).** The onset of mind-wandering is unnoticed (the SRB, p. 9):
+  a stream that claims attention is granted it with no mark of conflict,
+  which the claim allows as no gap. The paper does not record claim and
+  grant apart.
+- **[CLAIM-355](../claims.d/CLAIM-355.md) (not this reader's line).** The EAM "is not a little man in
+  the head, but itself an entirely subpersonal process" (p. 8), and the
+  regained sense of control may be a confabulation (pp. 4, 11). That is a
+  candidate for the case [CLAIM-355](../claims.d/CLAIM-355.md)'s note of 2026-10-29 says the record
+  lacks, a self-model misdescribing who controls what. It is proposed here,
+  not shown.
+- **[CLAIM-358](../claims.d/CLAIM-358.md).** Executive control fails often "to shield primary-task
+  performance off against interference" (p. 7); nothing is said of cost.
+- **[THEORY-064](../theory.d/THEORY-064.md).** The paper uses the self-model theory and adds no test of
+  it. Its UI shifts are reports of identification moving to "the
+  protagonist" of a daydream (p. 10), not of a self-model becoming opaque.
+- No instruction for machine-learning practice.

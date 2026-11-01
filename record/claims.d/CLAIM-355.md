@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-22'
@@ -48,6 +48,13 @@ history:
     note of 2026-10-22 cites as supporting the split, is added to
     corroborated_by. The body now cites LIT-220 for the sense; it read
     "real in THEORY-563's sense". The claim is unchanged.
+- version: 7
+  date: '2026-11-01'
+  note: >-
+    Note of 2026-11-01 added, from the readings of Metzinger 2020 and
+    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): the epistemic agent model and
+    the contraction principle, a finer statement of the owner as a
+    content; no evidence added. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -367,3 +374,46 @@ lossy-compression reading (the note of 2026-10-22), is answered only
 conditionally: no case in the record shows a unified self-model
 misdescribing who controls what, which is what [CASE-114](../cases.d/CASE-114.md) is built to test
 and has not run.
+
+## Note of 2026-11-01: Metzinger's later account
+
+The claim leans on [THEORY-064](../theory.d/THEORY-064.md)'s transparent self-model for "the owner as a
+content", and its body records that Metzinger keeps the unity of
+experience apart from the self-model ([THEORY-063](../theory.d/THEORY-063.md)). Metzinger's later work,
+read on 2026-11-01 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md) in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md); [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md) in
+[NOTE-tmptylts](../notes.d/NOTE-tmptylts.md)), adds a finer division the claim can use. The layer of the
+self-model that represents a *knowing* self, the "epistemic agent model",
+is what "creates subjectivity in the sense of a strong first-person
+perspective". A subject, phenomenologically, "is an epistemic agent model
+that functions as the unit of identification" (2024, pp. 302, 306). It
+comes and goes within ordinary waking life (Figure 25.1, p. 305).
+
+So the "single owner" the claim calls a constructed attribution
+corresponds, in Metzinger's later terms, to the epistemic agent model,
+not to the whole self-model. The contraction principle (2024, p. 80) is
+the claim's thesis in his words. Phenomenality belongs to subpersonal
+states and is "misrepresent[ed]" as the property of a person. That makes
+it a second statement of the claim's position from the represented side,
+same structure, not shown same mechanism. It adds no evidence: the cases
+offered are nondual meditative states, known only by report
+([THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md)). No status, title or warrant changes.
+
+## Note of 2026-11-01: Metzinger on mental autonomy
+
+<!-- inactive-ok-block: THEORY-tmpjtjll QUESTION-tmp7czq0 — Proposed or Open; the reading and question filed 2026-11-01, cited as context -->
+Metzinger proposes the specific misdescription this claim's note of
+2026-10-29 says the record lacks ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 290–292;
+[THEORY-tmpjtjll](../theory.d/THEORY-tmpjtjll.md)).
+- **The misdescription.** The return of mental control after
+  mind-wandering is "really triggered by unconscious events", but it is
+  represented as self-caused ("I generated this insight myself!"). This
+  keeps the autobiographical self-model continuous.
+- **The model that attributes it** "is not a little man in the head, but
+  itself an entirely subpersonal process" (p. 282).
+
+The condition is not met. This is a hypothesis built on Schooler et al.
+2011 and Wegner 2002, and it offers no case in which the cause and the
+report were recorded apart. His 2017 chapter ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 13–14)
+leaves open whether such self-representations constitute, enable or only
+accompany control. That is A26's reply to plain fictionalism, now
+[QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md). No status, title or warrant changes.

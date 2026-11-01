@@ -10,6 +10,7 @@ kind: construction
 tags:
 - self-governance
 - social-ontology
+line: distributed-agency
 date: '2026-10-28'
 supports:
 - CLAIM-277

@@ -4,13 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmp5bnsn
 title: 'What can report, no-report, deficit and architectural evidence each establish about experience as opposed to access, and does any of it survive in a system that lacks cortex or biology?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
     After the reading of LIT-982 (NOTE-849). "What the record holds"
     adds THEORY-298, with its limit. The question stays open.
+- version: 3
+  date: '2026-11-01'
+  note: >-
+    Note of 2026-11-01 added, from the readings of Metzinger 2020 and
+    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): what report evidence can and
+    cannot establish about minimal phenomenal experience, by the
+    author's own account. The question is unchanged.
 tags:
 - consciousness
 - philosophy-of-science
@@ -59,3 +66,43 @@ Two claims on the organizational-affect line depend on the answer. [CLAIM-039](.
 ## What would answer it
 
 For each kind of evidence, a case where access and experience come apart and the evidence follows one of them. Superblindsight, inconspicuous rivalry recorded intracranially, or a marker both sides accept in advance would each do this. More correlates found with report would not.
+
+## Note of 2026-11-01: Metzinger on reports of minimal experience
+
+Metzinger's later work, read on 2026-11-01, is the largest body of report
+evidence the record holds for one kind of experience: "pure awareness",
+or minimal phenomenal experience (MPE). It states the limits of report
+evidence itself, and they belong in "What the record holds".
+
+- **Retrospective report cannot show that a state was selfless.**
+  Metzinger 2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), p. 19): a report of having
+  been selfless is "highly dubious from a methodological perspective",
+  since autobiographical memory represents events as a self's. The state
+  may be "stored and later retrieved in an autobiographical format, as a
+  post hoc mnemonic misrepresentation". He leaves the problem open. The
+  2020 paper ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), p. 15) goes further: the
+  content of a full-absorption episode "cannot be reported", and only
+  entry and exit are remembered. The book's summary calls such states
+  "empirically established" all the same (p. 457). [THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md) states
+  the gap. Limit: a conceptual argument, which the book does not test,
+  for instance with reports taken at the end of a session, as it
+  recommends (p. 18).
+- **No phenomenal contrast for the minimal case.** If MPE is
+  consciousness as such, "the method of phenomenal contrast ... cannot be
+  applied" (2020, p. 13), because its contrast class is unconsciousness.
+  So no-report designs that contrast seen with unseen cannot isolate it.
+- **Reports about what an episode was.** The E-fallacy and the C-fallacy,
+  with its mirror image: "Just because something is reported as feeling
+  not like an experience at all, this doesn't license the conclusion that
+  it isn't" (2024, p. 417).
+- **A function without experience, by Metzinger's reading.** Tonic
+  alertness without wakefulness, in unresponsive wakefulness (2020,
+  p. 33). Limit: the absence of experience there is inferred from
+  behaviour, which is [THEORY-091](../theory.d/THEORY-091.md)'s limit.
+- **The architectural route he proposes.** The Triple Triangulation Project
+  looks for the "minimally sufficient neural correlates" common to full
+  absorption entered from waking, from NREM sleep and from lucid dreams
+  (2024, pp. 220–221). Limit: every episode would still be picked out by
+  report, so it inherits [THEORY-298](../theory.d/THEORY-298.md)'s problem.
+
+No status, title or warrant changes.

@@ -1,0 +1,127 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-01 ([NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md)), from the open-access PDF on
+  the collection's own site
+  (predictive-mind.net/papers/the-problem-of-mental-action/at_download/paperPDF),
+  text extracted with pdftotext. Worth reading for two things the 2013
+  and 2015 papers lack: a model of mental action as selection from a
+  competition among candidate thoughts that mind-wandering supplies (the
+  "cognitive affordance hypothesis"), and a plain statement that the data
+  cannot yet decide whether the epistemic agent model constitutes mental
+  control, represents and enables it, or is a phenomenal by-product
+  ([THEORY-tmp92dsq](../theory.d/THEORY-tmp92dsq.md)). That withholds what M-autonomy ([LIT-tmp0w298](LIT-tmp0w298.md))
+  asserted as a principle. Four testable hypotheses, none tested; no data.
+title: 'The Problem of Mental Action: Predictive Control without Sensory Sheets'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Filed and read 2026-11-01. Citation checked against the PDF's own
+    footer and DataCite (DOI 10.15502/9783958573208, registered with
+    DataCite, not Crossref): Thomas Metzinger, "The Problem of Mental
+    Action: Predictive Control without Sensory Sheets", in T. Metzinger &
+    W. Wiese (eds), Philosophy and Predictive Processing, chapter 19,
+    Frankfurt am Main: MIND Group, 2017; 26 pp. DataCite gives the year
+    only. `published:` is 2017-02-20, the DC.date.created of the
+    chapter's landing page on predictive-mind.net, the only day any
+    source gives (ADR-002); its DC.date.modified is 2017-03-20. Pezzulo's
+    commentary on it (Frontiers in Psychology 9:1291, 2018,
+    doi 10.3389/fpsyg.2018.01291) exists and was not read. A grep of
+    record/literature.d for the DOI and the title found nothing.
+tags:
+- agency
+- cognition
+- self
+- probabilistic-modeling
+date: '2026-11-01'
+published: '2017-02-20'
+doi: '10.15502/9783958573208'
+first_author: 'Metzinger'
+keywords:
+- 'attentional agency'
+- 'cognitive affordance hypothesis'
+- 'cognitive agency'
+- 'epistemic agency'
+- 'epistemic agent model'
+- 'epistemic self-control'
+- 'epistemic value'
+- 'M-autonomy'
+- 'mind wandering'
+- 'phenomenal self-model'
+- 'predictive control'
+- 'veto control'
+implementations: []
+extends:
+- LIT-tmp0w298
+summary: >-
+  Metzinger (2017), in Philosophy and Predictive Processing. Mental action
+  cannot be active inference through the body, since no sensory sheet is
+  in the loop; it is offered instead as predictive control of effective
+  connectivity aimed at the epistemic value of states in the self-model.
+  Attentional agency controls precision expectations of an internal model.
+  Cognitive agency selects among candidate thoughts that mind-wandering
+  continually generates ("mental sleep-walking"), and M-autonomy lets the
+  system "actively sculpt its own internal affordance landscape". Whether
+  the conscious epistemic agent model constitutes this control, represents
+  and enables it, or is a phenomenal artefact, current data "do not help
+  to decide". Agency's sense of origination may be an enculturated
+  post-hoc confabulation.
+---
+<!-- inactive-ok-file: THEORY-tmp92dsq — Proposed; the reading this work grounds, cited as open -->
+
+# LIT-tmppbt0s: The Problem of Mental Action: Predictive Control without Sensory Sheets
+
+Metzinger, T. (2017). The problem of mental action: Predictive control
+without sensory sheets. In T. Metzinger & W. Wiese (Eds.), *Philosophy and
+Predictive Processing* (ch. 19). Frankfurt am Main: MIND Group. DOI
+10.15502/9783958573208.
+
+Read in full in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md).
+
+## Key takeaways
+
+- **Mental action and mental behaviour.** Both are directed at goal states;
+  only actions "can be terminated, suspended, or intentionally inhibited";
+  mind-wandering is "a paradigm case of unintentional mental behavior"
+  (pp. 2–3). M-autonomy is "the capacity for second-order mental action,
+  i.e., vertical, intra-mental, top-down control", with veto "the central
+  semantic element" (p. 4).
+- **Attentional agency as precision control.** "Computationally,
+  attentional agency (AA) ... is the ability to control precision
+  expectations"; what it controls is "the precision expectation embodied
+  by an internal model" (p. 10). Its felt effort may be how "active,
+  top-down precision control 'collides' with an automatically arising
+  precision prediction error" (p. 10).
+- **The cognitive affordance hypothesis.** "a central function of
+  autonomous activity in the mind wandering network is to create a constant
+  stream of affordances for cognitive agency, a competition among possible
+  cognitive actions"; thinking is "controlled mind wandering" (pp. 11–12).
+- **The EAM's role left open.** "on one end of the spectrum we might treat
+  the EAM as a mere epiphenomenon ... at the other end it could be exactly
+  the missing computational element ... An intermediate position ... the
+  EAM would not constitute, but represent. It might causally enable
+  relevant second-order functional properties like veto control"; the data
+  "do not help to decide" (pp. 13–14).
+- **Four hypotheses.** Blocking the EAM's introspective availability should
+  start a mind-wandering episode (H1); re-establishing predictive
+  self-control should make a dream lucid (H2) or end an episode (H3);
+  blocking the subject–object loop should remove the phenomenology of
+  epistemic goal-directedness (H4) (pp. 14–15). None is tested.
+- **Model-free and model-based self-control.** "mind wandering is
+  model-free epistemic self-control, whereas mental agency is model-based
+  epistemic self-control" (p. 15).
+- **Agency as enculturated self-deception.** Action initiation is "a
+  functionally adequate form of self-deception"; the sense of ultimate
+  origination "could therefore be an enculturated post-hoc confabulation"
+  installed by caregivers before autobiographical memory begins (pp.
+  18–21).
+
+## Standing in the record
+
+Filed at the owner's request of 2026-11-01 and read for the
+will-organization line. It gives the record's account of competing regimes
+a mental-scale counterpart: candidate thoughts compete, and control
+decides which is pursued. It carries no instruction for machine-learning
+practice; its predictive-processing apparatus is about brains.

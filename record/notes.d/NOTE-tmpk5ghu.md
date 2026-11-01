@@ -1,0 +1,226 @@
+---
+status: Read
+paper: 'LIT-tmppbt0s'
+title: 'Metzinger — The problem of mental action'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Read in full from the open-access PDF on predictive-mind.net
+    (chapter 19 of Philosophy and Predictive Processing, 2017), fetched
+    2026-11-01, 26 pages in the collection's layout; page numbers are the
+    PDF's own footer (1–26), text pp. 1–22, references pp. 23–26.
+    Extracted with `pdftotext`. I read the abstract, §§1–5 and footnotes
+    1–11; the reference list was consulted, not read. None of the works it
+    cites was read, including Hohwy 2013, Clark 2016, Seth 2015b, Friston
+    et al. 2015, Pezzulo et al. 2016 and Axelrod et al. 2015; nor
+    Pezzulo's 2018 commentary on this chapter.
+date: '2026-11-01'
+summary: >-
+  Mental action, which has no sensory sheet in its loop, is cast as
+  predictive control of effective connectivity aimed at the epistemic value
+  of states in the self-model. Mind-wandering supplies a competition among
+  candidate thoughts that control selects from. Whether the conscious
+  epistemic agent model constitutes the control, represents and enables
+  it, or is a by-product, the data "do not help to decide", which leaves
+  open what M-autonomy stated as a principle.
+---
+<!-- inactive-ok-file: THEORY-tmp92dsq THEORY-882 ARG-tmpmibc8 QUESTION-tmp7czq0 — Proposed or Open; readings, inference and question cited as open -->
+<!-- inactive-ok-file: CLAIM-484 CLAIM-358 CLAIM-355 QUESTION-364 THEORY-070 — Proposed or Open; the entries this reading bears on, cited as open -->
+
+# NOTE-tmpk5ghu: Metzinger — The problem of mental action
+
+## Contribution
+
+It asks whether predictive processing (PP) can accommodate mental action,
+given that "In mental actions there is no motor plant to be controlled, no
+sensory manifold that could be manipulated by bodily movement" (p. 1). It
+proposes four "building blocks" towards a working concept: attentional
+agency as control of precision expectations; cognitive agency as selection
+from an internal "affordance competition" set up by mind-wandering; the
+convergence of instrumental and epistemic action for mental action; and
+epistemic value as the goal. It ends with three open problems and does not
+answer whether mental actions exist (p. 22).
+
+## Key insight
+
+The candidates for mental action are produced by a process that is not an
+action. "Mind wandering is mental sleep-walking. But unlike embodied
+somnambulism it actually sets up the inner world which later allows us to
+autonomously perform mental actions" (p. 12). Thinking is then
+"controlled mind wandering" (p. 12), as perception is controlled
+hallucination. Control does not author the content; it selects and
+sustains one of the offered thoughts, and with M-autonomy can "actively
+sculpt its own internal affordance landscape" (p. 13).
+
+## Assumptions
+
+- **Predictive processing**, with active inference as the account of bodily
+  action (pp. 1, 9).
+- **Mental actions are epistemic**; reward-directed mental action is set
+  aside, with the suggestion that reward expectation reduces to epistemic
+  value "for the very large majority" (p. 3).
+- **M-autonomy and veto as in [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md)** (p. 4).
+- **"Roughly ... one third of our conscious lifetime"** of autonomous
+  self-control, from the 2015 paper's figure 2 (p. 12).
+
+## Key results
+
+- **Attentional agency** (p. 10): "the ability to control precision
+  expectations"; it is mental because "what is controlled is a property of a
+  representational entity, namely the precision expectation embodied by an
+  internal model". All volitional attention is "active introspection"
+  (p. 9).
+- **Effort as collision** (p. 10), offered as speculation: "Perhaps we can
+  describe this experiential tension as the way in which active, top-down
+  precision control 'collides' with an automatically arising precision
+  prediction error. If so, one might speculate that the temporal curve in
+  which the phenomenal sense of agency unfolds over time exactly reflects
+  this 'collision' and its eventual resolution."
+- **The cognitive affordance hypothesis** (pp. 11–13), stated above; "the
+  mind wandering network sets up this task domain, and sometimes frontal
+  regions of the brain latch onto the best candidate, and create a
+  transient functional integration with the EAM".
+- **Three options for the EAM** (pp. 13–14): epiphenomenon; "exactly the
+  missing computational element that constitutes epistemic, model-based
+  predictive control"; or "the EAM would not constitute, but represent. It
+  might causally enable relevant second-order functional properties like
+  veto control". "Currently available empirical data do not help to decide
+  between these three metaphysical options."
+- **H1–H4** (pp. 14–15), untested: blocking the EAM's introspective
+  availability should trigger mind-wandering (H1); re-establishing
+  predictive self-control should induce lucidity (H2) or end an episode
+  (H3); blocking the subject–object loop by TMS should remove the
+  phenomenology of epistemic goal-directedness (H4).
+- **Model-free and model-based** (p. 15): "mind wandering is model-free
+  epistemic self-control, whereas mental agency is model-based epistemic
+  self-control"; after Conant and Ashby, mind-wandering is "self-regulation
+  on the mental level without an explicit model of the 'epistemic plant'"
+  (p. 17).
+- **The working concept** (p. 17): "the predictive control of effective
+  connectivity aimed at optimizing the epistemic value of attentional and
+  cognitive states embedded in the system's phenomenal self-model,
+  accompanied by the emergence of a new content layer ... the EAM".
+- **Agency as enculturated** (pp. 20–21): caregivers ascribe veto and
+  "ultimate origination" to children who lack them; the ascription is
+  internalised before autobiographical memory; so the adult's model of
+  self-causation "could therefore be an enculturated post-hoc
+  confabulation". A model of initiation exists for cognitive agency (the
+  affordance competition) "but not for AA" (p. 22).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Mental action cannot be active inference through the non-neural body | moderate | conceptual: no sensory sheet in the loop (pp. 1, 16–17) |
+| C2 | Attentional agency is control of precision expectations of an internal model | weak; proposal | conceptual, after Hohwy 2013 (pp. 9–10) |
+| C3 | Mind-wandering supplies a competition among candidate cognitive actions, from which cognitive agency selects | weak; hypothesis | conceptual, after Clark 2016 and Cisek; DMN and FPN literature cited (pp. 11–13) |
+| C4 | Whether the EAM constitutes, enables or merely accompanies mental control is undecided by current data | strong as a report of the state of evidence | the author's own survey (pp. 13–14) |
+| C5 | Felt mental effort tracks a collision of top-down precision control with bottom-up precision prediction error | speculation | none (p. 10) |
+| C6 | The sense of origination in agency may be an enculturated post-hoc confabulation | weak; one horn of a dilemma | three-phase sketch; Khalighinejad et al. 2016 cited (pp. 20–21) |
+
+## Concepts
+
+- **Sensory sheet** — "a collection or population of receptors" (p. 2,
+  note 1).
+- **Mental action / mental behaviour** — as in [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md); actions are
+  "typically directed at epistemic goal-states" (p. 3).
+- **Cognitive affordance** — "Every spontaneously occurring 'task-unrelated'
+  mental event is a potential task in itself ... a dynamic state which has
+  the potential to be selected and transformed from unintentional mental
+  behavior into mental action" (p. 12).
+- **EAM-space** — "a new subregion or partition of the organism's global
+  self-model, constituted by all those hypotheses exclusively predicting the
+  organism's epistemic properties" (p. 14).
+- **Epistemic value** — "the expected information gain under predicted
+  outcomes" (Friston et al. 2015, quoted p. 17).
+- **The bubble in the bubble** (p. 18) — modelling mental action as active
+  inference posits a second Markov blanket inside the brain and invites an
+  "epistemic surfer" homunculus.
+- **Self-deception model of goal selection** (p. 19) — "all
+  goal-representations are misrepresentations" from a naturalist third
+  person; organisms solve self-motivation "by hallucinating goals".
+
+## Connections
+
+It builds on [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md) and [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md) (cited as Metzinger 2015 and
+2013a), Hohwy 2013 on attention as precision, Clark 2016 and Cisek on
+affordance competition, Seth 2015b on predictive control, and Friston et
+al. 2015 on epistemic value. [THEORY-882](../theory.d/THEORY-882.md) (Laukkonen, Friston and Chandaria,
+read in [NOTE-1063](NOTE-1063.md)) is a later PP account in which a hyper-model sets
+precision at every level and agency is not required for awareness; this
+chapter makes agency the special case where precision is controlled under a
+self-model.
+
+## Limitations
+
+- **No data, no simulation, no equations.** The PP terms are used
+  qualitatively; nothing is derived.
+- **The EAM's role is left open**, by the author's own statement, so the
+  chapter cannot be used to show that the self-model is a cause of mental
+  control.
+- **No model of attentional action initiation** (p. 22), which is the type
+  M-autonomy's veto most often concerns.
+- **"Effective connectivity"** is named as what is controlled and never
+  made precise.
+
+## Open questions
+
+- H1–H4: does blocking the EAM start mind-wandering, and does restoring
+  control end it or induce lucidity?
+- Is felt mental effort a measure of conflict between a bottom-up claim on
+  precision and top-down allocation, and could the two be recorded apart
+  from the feeling?
+- Realism or elimination about mental action (Problem 3)?
+
+## Bearing on the record's own argument
+
+Same structure, not shown same mechanism, throughout.
+
+- **[CLAIM-027](../claims.d/CLAIM-027.md) and [TERM-023](../terms.d/TERM-023.md).** The cognitive affordance hypothesis has the
+  claim's shape: several candidate mental processes are available at once,
+  and something other than their content decides which is pursued.
+  "Frontal regions ... latch onto the best candidate" (p. 12) is
+  precedence; veto is suspension; sculpting "its own internal affordance
+  landscape" is transformation. "Best" is not defined, so whether
+  selection is by the candidates' own strength (content) or by maintained
+  relations is exactly what the chapter does not say. The support verdict
+  is [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md).
+- **[CLAIM-484](../claims.d/CLAIM-484.md).** The effort passage (p. 10) is the nearest thing in these
+  readings to the episode the claim needs. Its terms are defined apart from
+  the felt mark: an "automatically arising precision prediction error" is a
+  claim on precision, top-down precision control is the grant, and the
+  sense of effort is the mark, whose "temporal curve" would track their
+  "collision". If that held, gap and mark could be measured separately at
+  the scale of attention. The passage is speculation, and no study is
+  cited.
+- **[CLAIM-358](../claims.d/CLAIM-358.md).** Mind-wandering is "model-free epistemic self-control" and
+  mental agency "model-based" (p. 15); "mind wandering is self-regulation on
+  the mental level without an explicit model of the 'epistemic plant'"
+  (p. 17). That is the claim's contrast, regulation without a mediator
+  against regulation through a higher model, at the scale of thought. The
+  chapter gives no costs, so it does not bear on the claim's amortization.
+  The cost of control the claim leans on is [THEORY-070](../theory.d/THEORY-070.md)'s.
+- **[CLAIM-355](../claims.d/CLAIM-355.md) and the record's split between effective organization and
+  its representation (not this reader's line for [CLAIM-355](../claims.d/CLAIM-355.md)).** The chapter
+  keeps the split open where M-autonomy closed it: the EAM may constitute
+  the control, enable it, or accompany it (pp. 13–14). That is the
+  question [CLAIM-355](../claims.d/CLAIM-355.md)'s A26 answers one way ("self-representations may
+  themselves be parts of the real causal organization they represent").
+  The reading neither supports nor defeats it. It names the interventions
+  that would decide (H1, H3). [QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md) is filed for them.
+- **[QUESTION-364](../questions.d/QUESTION-364.md).** The standard by which an adult reads its own acts as
+  self-originated is installed by caregivers' ascriptions "at a stage where
+  ... young children almost certainly do not possess these capacities",
+  and "the process of amnestic enculturation itself will never be
+  introspectively available" (pp. 20–21). If so, the history of
+  authorization the question asks about begins with a standard the agent
+  did not authorize and cannot recall acquiring. That sharpens the
+  question; it supplies no criterion.
+- **[CLAIM-122](../claims.d/CLAIM-122.md).** The selection story allows the defeater's route: if "best
+  candidate" is fixed by the candidates' epistemic value, a change in that
+  value, not in a governing relation, predicts which thought is pursued.
+  The chapter does not separate them.
+- No instruction for machine-learning practice; the PP apparatus is about
+  brains.

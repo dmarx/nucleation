@@ -10,7 +10,9 @@ tags:
 - agency
 - social-ontology
 date: '2026-10-31'
-line: will-organization
+line:
+- will-organization
+- distributed-agency
 summary: >-
   Filed 2026-10-31 from Bencherki, Brummans and Vézy (2024) and Bencherki
   (2017), after Simondon. The record settles conflict among an agent's

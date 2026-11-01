@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpg0hhr
 title: 'self, and which sense'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-11'
@@ -43,6 +43,13 @@ history:
     reworded with TERM-075's version 2 (twelfth status review,
     ADR-057), and TERM-075 is no longer marked Proposed there, since
     it was adopted the same day. The definition is unchanged.
+- version: 7
+  date: '2026-11-01'
+  note: >-
+    Note of 2026-11-01 added, from the readings of Metzinger 2020 and
+    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): the flagged modeled sense would
+    need two sub-senses, a model of a knowing self and a nonegoic
+    model of the system. The definition is unchanged.
 tags:
 - self
 date: '2026-10-11'
@@ -73,6 +80,7 @@ used_by:
 complements:
 - TERM-075
 ---
+<!-- inactive-ok-file: THEORY-tmplvoa3 — Proposed; Metzinger's account, cited in the note of 2026-11-01, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-417 CLAIM-424 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
@@ -185,3 +193,29 @@ the self the person takes themselves to be only when appropriated
 ([TERM-075](TERM-075.md), sense 4), and can then become content of sense 4, the
 narrative self, and sense 7, the presented self; unappropriated, they can
 still shape what the person does ([CASE-142](../cases.d/CASE-142.md)).
+
+## Note of 2026-11-01: the "modeled" sense needs a division
+
+The note of 2026-10-18 flagged a "modeled" sense, the self as the content
+of a self-model the system does not recognise as a model ([THEORY-064](../theory.d/THEORY-064.md)). It
+did not add it. Metzinger's later work, read on 2026-11-01, shows that
+any such sense would itself need two sub-senses:
+
+- **A model of a knowing self.** The "epistemic agent model", the layer
+  of the self-model that represents a self that attends, thinks and
+  knows. Metzinger 2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), pp. 302, 306): "a
+  subject is an epistemic agent model that functions as the unit of
+  identification". This is the self that ego dissolution removes.
+- **A model of the system that is not a model of a self.** Minimal
+  phenomenal experience is "non-egoic self-modelling" (Metzinger 2020,
+  [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), p. 36). It is "a highest-level but nonegoic
+  self-model" of the organism's own epistemic openness (2024, p. 477).
+  Its epistemic subject "simply is the organism or conscious system as a
+  whole" (2020, p. 27).
+
+The second is a self-model in the sense of a model the system has of
+itself, with no self in senses 1–7 as its content. A claim that says
+experience "needs no self-model" should say which it means ([THEORY-063](../theory.d/THEORY-063.md);
+[THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md)). The senses are unchanged, and adding the modeled sense
+remains a new version of this term by its own rule. No status, title or
+warrant changes.

@@ -1,0 +1,115 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-01 ([NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md)), from the author's copy on his
+  Mainz university pages
+  (blogs.uni-mainz.de/fb05philosophie/files/2013/04/Metzinger_M-Autonomy_JCS_2015.pdf,
+  linked from thomasmetzinger.com), typeset with the journal's running
+  heads and pagination, text extracted with pdftotext. Worth reading for
+  the sharpest statement of the will-organization question in Metzinger:
+  what mind-wandering loses is "not the ability itself" but the conscious
+  knowledge of it, and "one can only deliberately and autonomously exert
+  an ability if that ability is explicitly represented in one's phenomenal
+  self-model" ([THEORY-tmptbvmq](../theory.d/THEORY-tmptbvmq.md)). It also argues that the return of control
+  is represented as self-caused even when an unconscious event caused it
+  ([THEORY-tmpjtjll](../theory.d/THEORY-tmpjtjll.md)). A development of [LIT-tmp23d7b](LIT-tmp23d7b.md) with the empirical
+  detail cut; no new data.
+title: 'M-Autonomy'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Filed and read 2026-11-01. Citation checked against the copy's own
+    running head: Thomas Metzinger, "M-Autonomy", Journal of
+    Consciousness Studies 22, No. 11–12, 2015, pp. 270–302. The journal
+    issues no DOI and Crossref holds no record of the article; OpenAlex
+    refused requests without a key that day, and PhilPapers and
+    IngentaConnect answered with bot checks, which were not attempted.
+    `published:` is the first of November 2015, the first month of the
+    double issue, since no source reached gives a day (ADR-002). The
+    copy is the author's, linked from his own site. A grep of
+    record/literature.d for the title and journal found nothing.
+tags:
+- agency
+- self
+- cognition
+- personhood
+date: '2026-11-01'
+published: '2015-11-01'
+url: 'https://www.blogs.uni-mainz.de/fb05philosophie/files/2013/04/Metzinger_M-Autonomy_JCS_2015.pdf'
+first_author: 'Metzinger'
+keywords:
+- 'mental autonomy'
+- 'mind-wandering'
+- 'epistemic agent model'
+- 'veto control'
+- 'first-person perspective'
+- 'personhood'
+implementations: []
+extends:
+- LIT-tmp23d7b
+summary: >-
+  Metzinger (2015). M-autonomy is the capacity for second-order mental
+  action, whose central element is veto: rules imposed on one's own mental
+  behaviour, goal selection and permanence, rational guidance, and the
+  intentional inhibition, suspension or ending of an ongoing process. It
+  comes in three degrees: represented knowledge that one has the ability,
+  executed attentional control, and cognitive control. During
+  mind-wandering the ability is kept and its representation in the
+  self-model, the "epistemic agent model", is lost, and an ability is
+  exercised only when so represented. The return of control is
+  represented as self-caused even when an unconscious event caused it, a
+  "functionally adequate form of self-deception". The quantitative
+  argument and the two-thirds figure repeat the 2013 paper's.
+---
+<!-- inactive-ok-file: THEORY-tmptbvmq THEORY-tmpjtjll QUESTION-tmp7czq0 — Proposed or Open; the readings this work grounds and the question it raised, cited as open -->
+
+# LIT-tmp0w298: M-Autonomy
+
+Metzinger, T. (2015). M-Autonomy. *Journal of Consciousness Studies*,
+22(11–12), 270–302.
+
+Read in full in [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md).
+
+## Key takeaways
+
+- **Second-order mental action.** M-autonomy decomposes into "The imposing
+  of rules on one's own mental behaviour; explicit goal-selection,
+  goal-commitment, goal-permanence; satisfaction of rationality
+  constraints or rational guidance; intentional inhibition, suspension, or
+  termination of an ongoing process" (p. 276), and veto "may have to be the
+  central semantic element" (p. 278).
+- **The ability is kept; its representation is lost.** "what we have lost
+  is a specific form of knowledge, and not the ability itself, namely,
+  conscious knowledge of our potential for second-order mental action. We
+  are still persons, because we have the relevant potential" (p. 282).
+- **Representation as a condition of exercise.** "the principle of
+  'Autonomy by Phenomenal Self-Representation': one can only deliberately
+  and autonomously exert an ability if that ability is explicitly
+  represented in one's phenomenal self-model" (p. 280).
+- **The personal level is drawn by the self-model.** "an individual
+  representational token or event only becomes part of a personal-level
+  process by being functionally integrated into and actively controlled
+  with the help of ... the 'epistemic agent model' (EAM), and by being
+  embedded into a highly specific sociocultural context" (p. 296); and the
+  EAM "is not a little man in the head, but itself an entirely subpersonal
+  process" (p. 282).
+- **Regained control is represented as self-caused.** "the re-emergence of
+  an EAM, really triggered by unconscious events, may necessarily involve
+  a confabulatory element ('I generated this insight myself!') in order to
+  ensure the coherence of the autobiographical self-model over time" (p.
+  291).
+- **Meditation.** "a systematic and formal mental practice of cultivating
+  M-autonomy" (p. 288). Focused practice has an EAM; advanced open
+  monitoring is "meta-awareness without an EAM" (p. 289).
+
+## Standing in the record
+
+Filed at the owner's request of 2026-11-01 and read for the
+will-organization line. Its moderate reading is the will-organization
+question at the scale of mental action: an agent keeps a capacity and it
+loses and regains efficacy, and the paper names the condition, the
+capacity's representation in the self-model. Whether that representation
+is a condition of efficacy or its accompaniment is [QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md). It
+carries no instruction for machine-learning practice.

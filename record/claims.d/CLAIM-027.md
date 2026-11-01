@@ -207,3 +207,32 @@ meets its defeated_if. The two arguments stay Proposed. Their unanswered
 critical questions are what would demote this claim, so an intervention
 that holds the regimes fixed and changes R with nothing else changing is
 the test the record most owes it.
+
+## Note of 2026-11-01: mind-wandering as a mental-scale instance, and the test Metzinger names
+
+<!-- inactive-ok: THEORY-tmpcq8bx THEORY-tmptbvmq THEORY-tmp92dsq ARG-tmpmibc8 QUESTION-tmp7czq0 — Proposed or Open; the readings, the inference and the question this note reports, cited as open -->
+
+Metzinger's work on mental autonomy ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md),
+[LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md)) was read for this claim. It is filed as [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md), a third
+line beside [ARG-005](../arguments.d/ARG-005.md) and [ARG-009](../arguments.d/ARG-009.md), Proposed.
+
+- **What it would add.** In mind-wandering the capacity to suspend or end
+  one's own train of thought is kept, "not the ability itself" is lost
+  ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 282), and it is not effective until its representation
+  in the self-model returns ([THEORY-tmptbvmq](../theory.d/THEORY-tmptbvmq.md)). That is suspension at the
+  individual scale. [ARG-005](../arguments.d/ARG-005.md) says jurisdiction and suspension "have only
+  institutional examples"; this would be the first in one mind.
+- **Why it does not yet support the claim.** Metzinger traces the onset of
+  an episode to cued, unconscious goal states ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 13), which
+  is a content route; only the return is put down to something else. And
+  in 2017 he says the data cannot decide whether the self-model's
+  representation does any causal work ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 13–14).
+- **The test.** His H1 and H3 ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), p. 14), blocking or restoring
+  the epistemic agent model and watching whether control ends or returns,
+  are interventions on a condition of efficacy. Run with the task, the
+  competing thoughts and an externally cued measure of the ability held
+  fixed, they would be the intervention this claim's note of 2026-10-28
+  says the record most owes it, at the scale of thought. Neither is
+  reported run in these papers.
+
+No status, title or warrant changes.
