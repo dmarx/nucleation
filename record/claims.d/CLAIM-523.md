@@ -145,7 +145,7 @@ No status, title or warrant changes.
 
 <!-- inactive-ok: THEORY-tmptbvmq QUESTION-tmp7czq0 — Proposed or Open; the reading and the question this note reports, cited as open -->
 
-Metzinger's work on mind-wandering (LIT-tmp23d7b, LIT-tmp0w298) has
+Metzinger's work on mind-wandering ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md)) has
 instances of two of this claim's separations within one person. Same
 structure, not shown same mechanism: the discrepancy is being off task,
 not a normative demand on an organization.
@@ -155,11 +155,11 @@ not a normative demand on an organization.
   been daydreaming again!" leads to "another train of thought about having
   regained meta-awareness", with "a new phenomenal UI ... but the
   functional properties characterizing M-autonomy are not realized"
-  (LIT-tmp23d7b, p. 14).
+  ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 14).
 - **Correction without legibility.** "Successful inhibition can be an
-  entirely subpersonal process" (LIT-tmp23d7b, p. 13).
+  entirely subpersonal process" ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 13).
 - **An order at the personal level.** Meta-awareness is "a necessary
-  precondition for second-order mental action" (LIT-tmp0w298, p. 277).
+  precondition for second-order mental action" ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 277).
   This claim says the three form no necessary sequence. Metzinger asserts
   one for deliberate control in one mind, and allows correction without it
   below the personal level, which is consistent with the claim if the
@@ -167,6 +167,6 @@ not a normative demand on an organization.
 
 Metzinger's condition for volitional efficacy is not legibility of the
 discrepancy but the agent's representation of its own capacity to act on
-it. That is a different variable, filed as QUESTION-tmp7czq0.
+it. That is a different variable, filed as [QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md).
 
 No status, title or warrant changes.

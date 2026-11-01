@@ -33,7 +33,7 @@ summary: >-
 
 ## Contribution
 
-A shorter and sharper version of the 2013 paper (LIT-tmp23d7b), which its
+A shorter and sharper version of the 2013 paper ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md)), which its
 note 1 names as the "more comprehensive publication". Three things are new.
 It decomposes M-autonomy into four capacities of second-order mental action
 and three degrees. It takes a "moderate, nuanced position": mind-wandering
@@ -103,7 +103,7 @@ and hence, on return, the misattribution of the return to oneself.
   "effortless and non-agentive".
 - **The estimate** (pp. 292–295), as in 2013: "not autonomous mental
   subjects for roughly two thirds of their conscious lifetime". Its minutes
-  give 52% (NOTE-tmp97akw).
+  give 52% ([NOTE-tmp97akw](NOTE-tmp97akw.md)).
 
 ## Claims
 
@@ -139,27 +139,27 @@ and hence, on return, the misattribution of the return to oneself.
 
 ## Connections
 
-It extends LIT-tmp23d7b and leaves out the SRB and the UI (note 1). It adds
+It extends [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md) and leaves out the SRB and the UI (note 1). It adds
 predictive processing (Hohwy 2013; Clark 2015) for the difference between
 attending to breath and attending to thought: the cognitive self-model
 predicts "much more abstract aspects of reality, in a wider temporal frame
 of reference, and not ongoing events on the sensory sheet" (p. 287), the
-theme LIT-tmppbt0s develops. Its EAM is the self-model theory's
-(LIT-568, NOTE-460; THEORY-064) specialised to the knowing self, as in
-LIT-1871.
+theme [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md) develops. Its EAM is the self-model theory's
+([LIT-568](../literature.d/LIT-568.md), [NOTE-460](NOTE-460.md); [THEORY-064](../theory.d/THEORY-064.md)) specialised to the knowing self, as in
+[LIT-1871](../literature.d/LIT-1871.md).
 
 ## Limitations
 
 - **The central principle is stated, not argued.** "Autonomy by Phenomenal
   Self-Representation" is introduced in one sentence (p. 280). The paper
   also says inhibition "can be an entirely subpersonal process"
-  (LIT-tmp23d7b, p. 13), which is control exercised without the
+  ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 13), which is control exercised without the
   representation; the principle is saved only by "deliberately and
   autonomously". So the principle may be true by definition of
   "deliberately".
 - **The moderate position has no test.** Nothing in the paper separates
   "the ability is kept and unrepresented" from "the ability is lost".
-  LIT-tmppbt0s's H1 and H3 would.
+  [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md)'s H1 and H3 would.
 - **The confabulation hypothesis is unfalsified as stated.** The return is
   "really triggered by unconscious events" in "many such cases" (p. 291);
   which cases, and how one would tell, is not said.
@@ -170,7 +170,7 @@ LIT-1871.
 - Does a capacity for mental control that is not represented in the
   self-model stay available, in the sense that a cue to the representation
   alone restores it? If so, the representation is a condition of efficacy;
-  if not, the ability itself lapsed (QUESTION-tmp7czq0).
+  if not, the ability itself lapsed ([QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md)).
 - In which returns of control did the person's control system cause the
   return, and in which was it caused otherwise and represented as
   self-caused?
@@ -179,27 +179,27 @@ LIT-1871.
 
 Same structure, not shown same mechanism, unless said otherwise.
 
-- **CLAIM-047.** The moderate position is this claim at the scale of mental
+- **[CLAIM-047](../claims.d/CLAIM-047.md).** The moderate position is this claim at the scale of mental
   action: during mind-wandering the agent possesses the regime of
   second-order mental control, "We are still persons, because we have the
-  relevant potential" (p. 282), and the regime is not effective. CLAIM-047
+  relevant potential" (p. 282), and the regime is not effective. [CLAIM-047](../claims.d/CLAIM-047.md)
   says possession and efficacy differ and leaves what makes the difference
-  to CLAIM-027. Metzinger names a candidate: representation of the capacity
+  to [CLAIM-027](../claims.d/CLAIM-027.md). Metzinger names a candidate: representation of the capacity
   in the self-model (p. 280).
-- **CLAIM-027 and TERM-023.** The candidate is a relation, not a content.
+- **[CLAIM-027](../claims.d/CLAIM-027.md) and [TERM-023](../terms.d/TERM-023.md).** The candidate is a relation, not a content.
   Nothing in the competing mental processes changes when the EAM collapses
   or returns; what changes is whether the veto can be exercised. Of
-  TERM-023's dimensions it is accessibility, and the veto itself is
-  TERM-017's suspension. The four capacities (p. 276) also include
+  [TERM-023](../terms.d/TERM-023.md)'s dimensions it is accessibility, and the veto itself is
+  [TERM-017](../terms.d/TERM-017.md)'s suspension. The four capacities (p. 276) also include
   precedence-like ("rules on one's own mental behaviour") and
   persistence-like ("goal-permanence") relations. The support verdict is
-  ARG-tmpmibc8, Proposed: alike in structure, the mechanism not shown, and
+  [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md), Proposed: alike in structure, the mechanism not shown, and
   the intervention that holds the processes fixed not run.
-- **CLAIM-122.** The return of control is the cleaner half: "caused by an
+- **[CLAIM-122](../claims.d/CLAIM-122.md).** The return of control is the cleaner half: "caused by an
   unconscious event, perhaps by chance" (p. 283), with no change in what
   the person pursues proposed. But no intervention is reported, so it is
   not a ground.
-- **CLAIM-156.** Meditation as "cultivating M-autonomy" (p. 288) is a
+- **[CLAIM-156](../claims.d/CLAIM-156.md).** Meditation as "cultivating M-autonomy" (p. 288) is a
   change in which mental processes may be stopped, not in what is valued,
   which is the claim's route at the scale of thought. Two cautions. The
   paper's advanced stage is "meta-awareness without an EAM" (p. 289), so
@@ -209,30 +209,30 @@ Same structure, not shown same mechanism, unless said otherwise.
   (p. 289), so self-reported decentering cannot by itself show the
   mechanism the claim names. Nothing here touches discounting, so the
   claim's defeater is not reached.
-- **CLAIM-022.** Ownership and efficacy come apart both ways here.
+- **[CLAIM-022](../claims.d/CLAIM-022.md).** Ownership and efficacy come apart both ways here.
   Mind-wandering has "ownership without agency" (p. 272); the regained
   control is attributed to oneself whether or not one caused it (p. 291);
   and whether a thought is the person's is settled by integration into the
   EAM and by social ascription (p. 296), not by what was effective. The
   claim's disclaimer holds in this literature too.
-- **CLAIM-523.** Meta-awareness is "a necessary precondition for
+- **[CLAIM-523](../claims.d/CLAIM-523.md).** Meta-awareness is "a necessary precondition for
   second-order mental action" (p. 277): at the personal level, legibility
   before volitional efficacy. The claim says the three achievements have
   no fixed order across organizations; for deliberate mental control in
   one mind Metzinger asserts one, and allows subpersonal correction
   without it.
-- **QUESTION-364.** Personhood is "constituted not in brains, but in
+- **[QUESTION-364](../questions.d/QUESTION-364.md).** Personhood is "constituted not in brains, but in
   societies" (p. 284), and the representation that makes a process the
   person's is scaffolded by "normative practices of mutually ascribing
   personhood" (p. 296). The standard by which a process is read as one's
-  own is supplied from outside the agent. LIT-tmppbt0s adds that it is
+  own is supplied from outside the agent. [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md) adds that it is
   installed before autobiographical memory.
-- **CLAIM-355 (not this reader's line).** Pp. 290–292 propose a specific
+- **[CLAIM-355](../claims.d/CLAIM-355.md) (not this reader's line).** Pp. 290–292 propose a specific
   self-model misdescription of who controls what: an unconsciously
   triggered return represented as "I generated this insight myself!". It
   is offered as a hypothesis with no case, so it does not meet what the
   claim's note of 2026-10-29 asks for.
-- **QUESTION-tmp7czq0** is filed from this reading: whether representing a
+- **[QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md)** is filed from this reading: whether representing a
   capacity is a condition of its efficacy, so a relation the
   will-organization maintains, or only its accompaniment.
 - No instruction for machine-learning practice.
