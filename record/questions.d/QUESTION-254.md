@@ -42,7 +42,7 @@ history:
   date: '2026-11-01'
   note: >-
     Note of 2026-11-01 added, from the readings of Metzinger 2020 and
-    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): his model of the system's
+    2024 (LIT-1946, LIT-1943): his model of the system's
     epistemic openness, tested against the question's conditions; a
     candidate of the right form that does not answer it. The question
     is unchanged.
@@ -71,7 +71,7 @@ bearing:
 - THEORY-882
 - THEORY-876
 ---
-<!-- inactive-ok-file: THEORY-tmplvoa3 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-1299 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-368 CLAIM-411 CLAIM-412 CLAIM-413 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; a reading cited as a candidate, nothing here rests on its being settled -->
 # QUESTION-254: What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode's current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?
@@ -275,14 +275,14 @@ question is unchanged.
 
 ## Note of 2026-11-01: Metzinger's model of epistemic openness, as a candidate
 
-Metzinger 2020 and 2024 ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md) in [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md); [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md) in
-[NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md)) offer a candidate property of the kind the question asks
+Metzinger 2020 and 2024 ([LIT-1946](../literature.d/LIT-1946.md) in [NOTE-1498](../notes.d/NOTE-1498.md); [LIT-1943](../literature.d/LIT-1943.md) in
+[NOTE-1499](../notes.d/NOTE-1499.md)) offer a candidate property of the kind the question asks
 for: a temporally thin, integrated model of the system's own epistemic
 capacities, of its tonic alertness. Tonic alertness that is not so
 modelled is not experienced (2020, p. 33). In the 2024 active-inference
 sketch, the top level, a model of "the system's global 'epistemic
 openness'", is what "endows the content generated on all lower-order
-levels with phenomenality" (pp. 476–477). Stated as [THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md).
+levels with phenomenality" (pp. 476–477). Stated as [THEORY-1299](../theory.d/THEORY-1299.md).
 
 Tested against the question's conditions:
 

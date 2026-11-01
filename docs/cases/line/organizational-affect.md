@@ -6,9 +6,11 @@
 
 **Organizational affect** — affective states as properties of organized systems, read through Frijda — the line the will paper grew out of.
 
-2 of 190 CASE documents. Back to the [full index](../README.md).
+4 of 190 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
+| [CASE-014](../../../record/cases.d/CASE-014.md) v2 | Microsoft, as the philosophical target | The real corporation the first framing asked about. Committed to as a recurring touchstone (A205) and then silently dropped from the drafts; retired here by status rather than left as a promise nobody kept. | Deferred |
 | [CASE-024](../../../record/cases.d/CASE-024.md) | A coral reef | The owner's second holobiont direction (U30): a reef as a coordinated ecological whole. Its job changed four times in the exchange; filed once so that each change is visible. | Active |
 | [CASE-033](../../../record/cases.d/CASE-033.md) | Driving home while daydreaming | The owner's case at U26: driving home with access to the road and to a daydream, arriving with no memory of the drive. Compartmented access, not unconsciousness. | Active |
+| [CASE-151](../../../record/cases.d/CASE-151.md) | Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted accounts that the board's own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them | The Wells Fargo sales-practices episode, as reported by the bank's independent directors (2017; [LIT-1425](../../../record/literature.d/LIT-1425.md), read in [NOTE-1095](../../../record/notes.d/NOTE-1095.md)). The report finds the root cause in the Community Bank's sales culture and performance management, sustained by a decentralized structure that deferred to the business line. It finds that leadership blamed individual employees, and that the signals of harm were held by investigators, regional leaders and control functions without authority to act, or filtered before reaching the board. It also names and sanctions individuals. Not shown: intent, the absence of individual culpability, or anything beyond the company's own account of itself. | Active |

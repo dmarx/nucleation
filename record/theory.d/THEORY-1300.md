@@ -1,10 +1,13 @@
 ---
+number: 1300
 status: Proposed
+formerly:
+- THEORY-tmptbvmq
 promote_when: >-
   An intervention on the self-model's representation of the capacity
   alone, with the capacity checked independently, that removes and
   restores deliberate mental control: for instance, Metzinger's H1 and H3
-  (LIT-tmppbt0s, p. 14), blocking the introspective availability of the
+  (LIT-1945, p. 14), blocking the introspective availability of the
   epistemic agent model and finding that mind-wandering begins, then
   restoring it and finding that control returns, while a measure of the
   ability that does not pass through the representation (performance on
@@ -22,33 +25,33 @@ tags:
 - cognition
 date: '2026-11-01'
 source:
-- LIT-tmp0w298
-- LIT-tmp23d7b
-- LIT-tmppbt0s
+- LIT-1941
+- LIT-1942
+- LIT-1945
 bears_on:
-- QUESTION-tmp7czq0
+- QUESTION-367
 summary: >-
-  Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 280–283 and 296, read in
-  [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md); anticipated in 2013 ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 3, note 4). The
+  Metzinger (2015), [LIT-1941](../literature.d/LIT-1941.md), pp. 280–283 and 296, read in
+  [NOTE-1497](../notes.d/NOTE-1497.md); anticipated in 2013 ([LIT-1942](../literature.d/LIT-1942.md), p. 3, note 4). The
   "moderate, nuanced position": what is lost is "not the ability itself"
   but "conscious knowledge of our potential for second-order mental
   action", with the "principle of 'Autonomy by Phenomenal
   Self-Representation'". Both are stated, not argued, and neither is
-  tested. Metzinger's 2017 chapter ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 13–14) says the
+  tested. Metzinger's 2017 chapter ([LIT-1945](../literature.d/LIT-1945.md), pp. 13–14) says the
   data cannot decide whether the self-model constitutes, enables or only
   accompanies control, which withholds the principle's causal reading.
   "Deliberately" also does work: inhibition can be wholly subpersonal.
 ---
-<!-- inactive-ok-file: QUESTION-tmp7czq0 ARG-tmpmibc8 CLAIM-355 THEORY-064 — Proposed or Open; the question, inference and neighbours this reading bears on, cited as open -->
+<!-- inactive-ok-file: QUESTION-367 ARG-051 CLAIM-355 THEORY-064 — Proposed or Open; the question, inference and neighbours this reading bears on, cited as open -->
 
-# THEORY-tmptbvmq: In mind-wandering the capacity for veto over one's own mental processes is kept and its representation in the self-model is lost, and on Metzinger's principle a capacity can be deliberately exercised only while it is so represented; the loss of M-autonomy is then the loss of a condition of the capacity's efficacy, not of the capacity
+# THEORY-1300: In mind-wandering the capacity for veto over one's own mental processes is kept and its representation in the self-model is lost, and on Metzinger's principle a capacity can be deliberately exercised only while it is so represented; the loss of M-autonomy is then the loss of a condition of the capacity's efficacy, not of the capacity
 
 ## Source
 
-Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 280–283, 290–291 and 296, read in
-[NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md). Metzinger (2013), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 3 note 4, p. 5 and
-p. 13, read in [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md). Metzinger (2017), [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 13–14,
-read in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md).
+Metzinger (2015), [LIT-1941](../literature.d/LIT-1941.md), pp. 280–283, 290–291 and 296, read in
+[NOTE-1497](../notes.d/NOTE-1497.md). Metzinger (2013), [LIT-1942](../literature.d/LIT-1942.md), p. 3 note 4, p. 5 and
+p. 13, read in [NOTE-1495](../notes.d/NOTE-1495.md). Metzinger (2017), [LIT-1945](../literature.d/LIT-1945.md), pp. 13–14,
+read in [NOTE-1496](../notes.d/NOTE-1496.md).
 
 ## What was actually shown
 
@@ -113,8 +116,8 @@ and from the phenomenology of the return.
 - **[CLAIM-027](../claims.d/CLAIM-027.md) and [TERM-023](../terms.d/TERM-023.md).** If the representation is a condition of
   efficacy, it is a relation of the kind [TERM-023](../terms.d/TERM-023.md) lists, closest to
   accessibility, and it changes without any change in the competing mental
-  processes. [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md) holds the analogy, Proposed.
-- **[QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md)** asks whether representing a capacity is a condition
+  processes. [ARG-051](../arguments.d/ARG-051.md) holds the analogy, Proposed.
+- **[QUESTION-367](../questions.d/QUESTION-367.md)** asks whether representing a capacity is a condition
   of its efficacy or its accompaniment, which this account asserts and the
   2017 chapter withholds.
 - **[CLAIM-355](../claims.d/CLAIM-355.md).** The account keeps the effective capacity and its

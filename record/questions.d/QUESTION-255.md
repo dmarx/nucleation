@@ -42,7 +42,7 @@ history:
   date: '2026-11-01'
   note: >-
     Note of 2026-11-01 added, from the readings of Metzinger 2020 and
-    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): his minimal case lacks
+    2024 (LIT-1946, LIT-1943): his minimal case lacks
     phenomenal oneness and local contexts, so it is neither kind (1)
     nor kind (2). The question is unchanged.
 tags:
@@ -237,11 +237,11 @@ kind-(1) case. The inference is the record's. The question is unchanged.
 
 The question names Metzinger's "single functional cluster" ([THEORY-063](../theory.d/THEORY-063.md)) as
 a dynamic criterion of unity. His later work, read on 2026-11-01, changes
-what that criterion can cover. Metzinger 2020 ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md))
+what that criterion can cover. Metzinger 2020 ([LIT-1946](../literature.d/LIT-1946.md), [NOTE-1498](../notes.d/NOTE-1498.md))
 offers as the simplest consciousness a state with "neither centre nor
 periphery". It "lacks the phenomenal quality of singularity or numerical
 identity", and he adds "non-oneness" to "non-duality" (p. 13). Metzinger
-2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md)) models that state as inference at the
+2024 ([LIT-1943](../literature.d/LIT-1943.md), [NOTE-1499](../notes.d/NOTE-1499.md)) models that state as inference at the
 top level of a hierarchy "without any perceptual inference at the levels
 below it" (p. 477).
 

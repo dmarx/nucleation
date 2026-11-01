@@ -161,12 +161,12 @@ and Ge et al. ([LIT-916](../literature.d/LIT-916.md)) are known only as summarie
 
 ## Note of 2026-11-01: Metzinger, meditation as cultivating M-autonomy
 
-<!-- inactive-ok: THEORY-tmpcq8bx THEORY-tmptbvmq THEORY-tmpjtjll — Proposed; the readings this note reports, cited as open -->
+<!-- inactive-ok: THEORY-1297 THEORY-1300 THEORY-1298 — Proposed; the readings this note reports, cited as open -->
 
-Metzinger ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 15; [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 288) calls classical
+Metzinger ([LIT-1942](../literature.d/LIT-1942.md), p. 15; [LIT-1941](../literature.d/LIT-1941.md), p. 288) calls classical
 mindfulness meditation "a systematic and formal mental practice of
 cultivating M-autonomy", the veto-centred capacity to suspend or end one's
-own ongoing mental processes ([THEORY-tmpcq8bx](../theory.d/THEORY-tmpcq8bx.md)). Three things follow for
+own ongoing mental processes ([THEORY-1297](../theory.d/THEORY-1297.md)). Three things follow for
 this claim.
 
 - **The route matches, at the scale of thought.** On his account practice
@@ -178,7 +178,7 @@ this claim.
 - **The mature stage has no suspender.** Focused practice has "an equally
   recurring second-order mental action", the return to the breath, with an
   epistemic agent model; advanced open monitoring is "meta-awareness
-  without an EAM", "effortless and non-agentive" ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp.
+  without an EAM", "effortless and non-agentive" ([LIT-1941](../literature.d/LIT-1941.md), pp.
   288–289). If mindfulness integrates by suspension, in its mature form it
   is suspension that no represented controller performs. That fits the
   claim's ACT reading (decentering is not a self), and it means the claim
@@ -186,8 +186,8 @@ this claim.
 - **Reports cannot carry the mechanism.** A meditator's "I have just
   realized that I was daydreaming and redirected my attention" "may be
   false" as a description of what did the work, "a shift in the
-  subpersonal self-model that is then misdescribed" ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 4;
-  [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 289; [THEORY-tmpjtjll](../theory.d/THEORY-tmpjtjll.md)). Evidence for this claim's route
+  subpersonal self-model that is then misdescribed" ([LIT-1942](../literature.d/LIT-1942.md), p. 4;
+  [LIT-1941](../literature.d/LIT-1941.md), p. 289; [THEORY-1298](../theory.d/THEORY-1298.md)). Evidence for this claim's route
   therefore has to come from behaviour, as its "What would tell the routes
   apart" already asks, not from reports of noticing.
 

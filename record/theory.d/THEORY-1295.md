@@ -1,5 +1,8 @@
 ---
+number: 1295
 status: Active
+formerly:
+- THEORY-tmp8nd9o
 title: 'Metzinger 2024 calls consciousness without an egoic self or first-person perspective "empirically established" on the strength of retrospective, self-selected reports from meditators, while its own methods chapter grants that a remembered report of a selfless state is "highly dubious" evidence that the state was selfless when it occurred, and leaves that problem open'
 version: 1
 tags:
@@ -8,10 +11,10 @@ tags:
 - self
 date: '2026-11-01'
 source:
-- LIT-tmp3uosd
-- LIT-tmpr0pnp
+- LIT-1943
+- LIT-1946
 summary: >-
-  Metzinger (2024), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), read in part in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md). The
+  Metzinger (2024), [LIT-1943](../literature.d/LIT-1943.md), read in part in [NOTE-1499](../notes.d/NOTE-1499.md). The
   summary chapter says that "full-absorption episodes, nonegoic
   self-awareness, and nondual modes of consciousness are empirically
   established phenomena" (p. 457), and that the strong reading of
@@ -25,17 +28,17 @@ summary: >-
 bears_on:
 - QUESTION-048
 ---
-<!-- inactive-ok-file: NOTE-tmpy472x — Skimmed; the pages this reading rests on are named and were read -->
+<!-- inactive-ok-file: NOTE-1499 — Skimmed; the pages this reading rests on are named and were read -->
 <!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-870 QUESTION-048 — Proposed or Open; the readings and question this gap bears on, cited as open -->
 
-# THEORY-tmp8nd9o: Metzinger 2024 calls consciousness without an egoic self or first-person perspective "empirically established" on the strength of retrospective, self-selected reports from meditators, while its own methods chapter grants that a remembered report of a selfless state is "highly dubious" evidence that the state was selfless when it occurred, and leaves that problem open
+# THEORY-1295: Metzinger 2024 calls consciousness without an egoic self or first-person perspective "empirically established" on the strength of retrospective, self-selected reports from meditators, while its own methods chapter grants that a remembered report of a selfless state is "highly dubious" evidence that the state was selfless when it occurred, and leaves that problem open
 
 ## Source
 
-Metzinger (2024), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md): introduction, pp. xvi–xxvi; chapter 2,
+Metzinger (2024), [LIT-1943](../literature.d/LIT-1943.md): introduction, pp. xvi–xxvi; chapter 2,
 pp. 12–20; chapter 31, pp. 416–418; chapter 34, pp. 457–467. Read in
-[NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md). Metzinger (2020), [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), p. 15, read in full in
-[NOTE-tmptylts](../notes.d/NOTE-tmptylts.md).
+[NOTE-1499](../notes.d/NOTE-1499.md). Metzinger (2020), [LIT-1946](../literature.d/LIT-1946.md), p. 15, read in full in
+[NOTE-1498](../notes.d/NOTE-1498.md).
 
 ## What was actually shown
 
@@ -67,7 +70,7 @@ experiences "in which there is an 'awareness of awareness itself'"
   specific philosophical question about MPE and autobiographical memory
   remains open" (p. 19). The 2020 paper goes further: the content of a
   full-absorption episode "cannot be reported", and only entry and exit
-  are remembered ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), p. 15).
+  are remembered ([LIT-1946](../literature.d/LIT-1946.md), p. 15).
 - Reports that an episode was "not an experience" do not show that it was
   not one, nor that it was (the C-fallacy and its mirror, p. 417).
 

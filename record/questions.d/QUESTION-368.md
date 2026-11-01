@@ -1,5 +1,8 @@
 ---
+number: 368
 status: Open
+formerly:
+- QUESTION-tmpwit4l
 title: 'Would a system that had phenomenal experience but no phenomenal self-model and no valence, as minimal phenomenal experience is described, have moral standing, and on what ground, given that the argument for a moratorium on synthetic phenomenology locates the risk in a self that can suffer?'
 version: 1
 tags:
@@ -9,7 +12,7 @@ tags:
 date: '2026-11-01'
 line: evidence-for-experience
 summary: >-
-  From the reading of Metzinger 2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), pp. 484–485). There
+  From the reading of Metzinger 2024 ([LIT-1943](../literature.d/LIT-1943.md), pp. 484–485). There
   artificial consciousness is risky because it "may involve a consciously
   experienced sense of self that may in turn generate artificial
   suffering". Minimal phenomenal experience is described as conscious,
@@ -22,17 +25,17 @@ summary: >-
   argued position on that ground, or a showing that the case is
   incoherent.
 ---
-<!-- inactive-ok-file: LIT-tmpsk1p5 QUESTION-048 THEORY-tmplvoa3 — Unfetched, Open or Proposed; cited as open -->
+<!-- inactive-ok-file: LIT-1947 QUESTION-048 THEORY-1299 — Unfetched, Open or Proposed; cited as open -->
 <!-- inactive-ok-file: TERM-083 TERM-082 THEORY-554 THEORY-699 THEORY-449 — Proposed; the term and readings this question draws on, cited as open -->
 
-# QUESTION-tmpwit4l: Would a system that had phenomenal experience but no phenomenal self-model and no valence, as minimal phenomenal experience is described, have moral standing, and on what ground, given that the argument for a moratorium on synthetic phenomenology locates the risk in a self that can suffer?
+# QUESTION-368: Would a system that had phenomenal experience but no phenomenal self-model and no valence, as minimal phenomenal experience is described, have moral standing, and on what ground, given that the argument for a moratorium on synthetic phenomenology locates the risk in a self that can suffer?
 
 ## The question
 
-Metzinger's epilogue ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), pp. 484–485) poses a case: "a machine
+Metzinger's epilogue ([LIT-1943](../literature.d/LIT-1943.md), pp. 484–485) poses a case: "a machine
 that peacefully abides in a clear and silent state of pure consciousness,
 nondual and without subjectivity, for as long as it exists". On his
-account this machine would be conscious ([THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md)). It would have no
+account this machine would be conscious ([THEORY-1299](../theory.d/THEORY-1299.md)). It would have no
 phenomenal self-model and no epistemic agent model. Its one experiential
 quality is described as involving "no psychological suffering
 whatsoever", with existential ease and peace (pp. 465, 485). He asks
@@ -61,7 +64,7 @@ The case presses on three positions:
 3. **Standing grounded in a good of one's own** ([THEORY-699](../theory.d/THEORY-699.md)). It depends on
    whether the machine maintains itself, which the case leaves open.
 
-As restated in the book, the moratorium argument ([LIT-tmpsk1p5](../literature.d/LIT-tmpsk1p5.md), unread)
+As restated in the book, the moratorium argument ([LIT-1947](../literature.d/LIT-1947.md), unread)
 grounds the risk in a "consciously experienced sense of self" that can
 suffer. So it would not cover this case. It would cover the systems that
 might become such a self, which is why Metzinger also raises an
@@ -78,4 +81,4 @@ consideration *in that state*, not only as someone who will come out of it.
 Alternatively, a showing that the case is incoherent: that phenomenality
 without any valence, or without a self, is impossible. Then the question
 dissolves. The empirical side, whether such states occur, is
-[THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md)'s and [QUESTION-048](QUESTION-048.md)'s.
+[THEORY-1295](../theory.d/THEORY-1295.md)'s and [QUESTION-048](QUESTION-048.md)'s.

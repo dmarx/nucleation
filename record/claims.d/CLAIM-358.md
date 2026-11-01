@@ -269,9 +269,9 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: model-free and model-based self-control of thought
 
-<!-- inactive-ok: THEORY-tmp92dsq — Proposed; the reading this note reports, cited as open -->
+<!-- inactive-ok: THEORY-1296 — Proposed; the reading this note reports, cited as open -->
 
-Metzinger's chapter on mental action ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), read in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md))
+Metzinger's chapter on mental action ([LIT-1945](../literature.d/LIT-1945.md), read in [NOTE-1496](../notes.d/NOTE-1496.md))
 draws this claim's contrast at the scale of thought, without costs.
 "Mind wandering is model-free epistemic self-control, whereas mental
 agency is model-based epistemic self-control" (p. 15); mind-wandering is

@@ -10,7 +10,7 @@ history:
   date: '2026-11-01'
   note: >-
     Note of 2026-11-01 added, from the readings of Metzinger 2020 and
-    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): his split of arousal, tonic
+    2024 (LIT-1946, LIT-1943): his split of arousal, tonic
     alertness and wakefulness separates three properties that sense 4
     runs together. The definition is unchanged.
 tags:
@@ -73,8 +73,8 @@ evidence-for-experience line, which this term does not answer.
 ## Note of 2026-11-01: sense 4 runs three properties together
 
 Sense 4 reads "Wakefulness or arousal. A clinical or behavioural state of
-responsiveness". Metzinger (2020, [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md),
-pp. 32–33; 2024, [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), pp. 36–37) separates three
+responsiveness". Metzinger (2020, [LIT-1946](../literature.d/LIT-1946.md), [NOTE-1498](../notes.d/NOTE-1498.md),
+pp. 32–33; 2024, [LIT-1943](../literature.d/LIT-1943.md), [NOTE-1499](../notes.d/NOTE-1499.md), pp. 36–37) separates three
 properties under those words:
 
 - **arousal**, "a graded physical property of the human brain", the level

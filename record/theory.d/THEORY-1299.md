@@ -1,5 +1,8 @@
 ---
+number: 1299
 status: Proposed
+formerly:
+- THEORY-tmplvoa3
 promote_when: >-
   Evidence that tells apart a represented tonic alertness from tonic
   alertness itself, without using the reports it is meant to explain.
@@ -25,11 +28,11 @@ tags:
 - neuroscience
 date: '2026-11-01'
 source:
-- LIT-tmpr0pnp
-- LIT-tmp3uosd
+- LIT-1946
+- LIT-1943
 summary: >-
-  Metzinger (2020), [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), read in full in [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), and
-  Metzinger (2024), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), skimmed in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md). MPE is "an
+  Metzinger (2020), [LIT-1946](../literature.d/LIT-1946.md), read in full in [NOTE-1498](../notes.d/NOTE-1498.md), and
+  Metzinger (2024), [LIT-1943](../literature.d/LIT-1943.md), skimmed in [NOTE-1499](../notes.d/NOTE-1499.md). MPE is "an
   inner representation of tonic alertness", "non-egoic self-modelling"
   that "definitely has representational content". In the 2024 sketch it
   is "a highest-level but nonegoic self-model" of the system's epistemic
@@ -41,16 +44,16 @@ bears_on:
 - QUESTION-048
 - QUESTION-254
 ---
-<!-- inactive-ok-file: NOTE-tmpy472x — Skimmed; the partial reading of the 2024 book, the 2020 paper being read in full -->
+<!-- inactive-ok-file: NOTE-1499 — Skimmed; the partial reading of the 2024 book, the 2020 paper being read in full -->
 <!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-882 QUESTION-048 QUESTION-254 QUESTION-255 CLAIM-412 CLAIM-411 TERM-082 — Proposed or Open; the readings, questions, claims and terms this account bears on, cited as open -->
 
-# THEORY-tmplvoa3: Pure awareness, on Metzinger's account, is the content of a temporally thin model of the organism's own tonic alertness, its capacity to know; experience in this minimal form lacks an egoic self-model, a first-person perspective, time, space and even phenomenal oneness, but not self-modelling, and tonic alertness that is not so modelled is not experienced
+# THEORY-1299: Pure awareness, on Metzinger's account, is the content of a temporally thin model of the organism's own tonic alertness, its capacity to know; experience in this minimal form lacks an egoic self-model, a first-person perspective, time, space and even phenomenal oneness, but not self-modelling, and tonic alertness that is not so modelled is not experienced
 
 ## Source
 
-Metzinger (2020), [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), §§2–4, pp. 9–38, read in full in
-[NOTE-tmptylts](../notes.d/NOTE-tmptylts.md). Metzinger (2024), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), chapters 4, 25 and 34, pp.
-36–44, 300–306 and 455–478, read in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md).
+Metzinger (2020), [LIT-1946](../literature.d/LIT-1946.md), §§2–4, pp. 9–38, read in full in
+[NOTE-1498](../notes.d/NOTE-1498.md). Metzinger (2024), [LIT-1943](../literature.d/LIT-1943.md), chapters 4, 25 and 34, pp.
+36–44, 300–306 and 455–478, read in [NOTE-1499](../notes.d/NOTE-1499.md).
 
 ## What was actually shown
 
@@ -85,7 +88,7 @@ is completely missing in all full-absorption episodes" (2024, pp. 302,
 306).
 
 **The evidence.** Quoted reports in 2020, and in 2024 a survey of meditators
-with free-text reports ([THEORY-tmp8nd9o](THEORY-tmp8nd9o.md)). Both texts call the model a
+with free-text reports ([THEORY-1295](THEORY-1295.md)). Both texts call the model a
 hypothesis: "a hypothetical starting point" (2024, p. 477). The one
 dissociation offered independently of contemplative report is unresponsive
 wakefulness. There the absence of experience is itself inferred from

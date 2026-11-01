@@ -1,5 +1,8 @@
 ---
+number: 367
 status: Open
+formerly:
+- QUESTION-tmp7czq0
 title: "Is an agent's representation of its own capacity to control a process a condition of that capacity's efficacy, and so one of the relations a will-organization maintains, or only its accompaniment, and what intervention would tell the two apart?"
 version: 1
 tags:
@@ -10,21 +13,21 @@ date: '2026-11-01'
 line: will-organization
 summary: >-
   Filed 2026-11-01 from Metzinger's work on mental autonomy. In 2015
-  ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md)) he holds that mind-wandering loses not the ability to
+  ([LIT-1941](../literature.d/LIT-1941.md)) he holds that mind-wandering loses not the ability to
   stop one's own thinking but its representation in the self-model, and
   that "one can only deliberately and autonomously exert an ability if
-  that ability is explicitly represented" ([THEORY-tmptbvmq](../theory.d/THEORY-tmptbvmq.md)). In 2017
-  ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md)) he says the data cannot decide whether that
+  that ability is explicitly represented" ([THEORY-1300](../theory.d/THEORY-1300.md)). In 2017
+  ([LIT-1945](../literature.d/LIT-1945.md)) he says the data cannot decide whether that
   representation constitutes the control, enables it, or only accompanies
-  it ([THEORY-tmp92dsq](../theory.d/THEORY-tmp92dsq.md)). The record's six relations ([CLAIM-027](../claims.d/CLAIM-027.md)) are all
+  it ([THEORY-1296](../theory.d/THEORY-1296.md)). The record's six relations ([CLAIM-027](../claims.d/CLAIM-027.md)) are all
   relations among regimes; none is the agent's representation of a
   regime. If the first answer is right, the will-organization includes a
   self-representational relation the record has not named.
 ---
-<!-- inactive-ok-file: THEORY-tmptbvmq THEORY-tmp92dsq THEORY-tmpjtjll CLAIM-122 — Proposed; the readings this question is filed from, cited as open -->
+<!-- inactive-ok-file: THEORY-1300 THEORY-1296 THEORY-1298 CLAIM-122 — Proposed; the readings this question is filed from, cited as open -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-523 QUESTION-364 — Proposed or Open; the claim whose split between organization and representation this question bears on, and its neighbours -->
 
-# QUESTION-tmp7czq0: Is an agent's representation of its own capacity to control a process a condition of that capacity's efficacy, and so one of the relations a will-organization maintains, or only its accompaniment, and what intervention would tell the two apart?
+# QUESTION-367: Is an agent's representation of its own capacity to control a process a condition of that capacity's efficacy, and so one of the relations a will-organization maintains, or only its accompaniment, and what intervention would tell the two apart?
 
 ## Why it is a question
 
@@ -38,7 +41,7 @@ what it can do.
 Metzinger's mind-wandering is a case where that is the variable. During an
 episode the capacity to suspend or end one's own train of thought is, on
 his "moderate" reading, kept: "what we have lost is a specific form of
-knowledge, and not the ability itself" ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 282). It is not
+knowledge, and not the ability itself" ([LIT-1941](../literature.d/LIT-1941.md), p. 282). It is not
 exercised, and he says why: "one can only deliberately and autonomously
 exert an ability if that ability is explicitly represented in one's
 phenomenal self-model" (p. 280). If so, the representation is a condition
@@ -48,7 +51,7 @@ the causal reading. The epistemic agent model may be "a mere
 epiphenomenon", or "exactly the missing computational element that
 constitutes" control, or may "not constitute, but represent" and "causally
 enable relevant second-order functional properties like veto control"; the
-data "do not help to decide" ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 13–14).
+data "do not help to decide" ([LIT-1945](../literature.d/LIT-1945.md), pp. 13–14).
 
 The question matters to the record beyond the will line. [CLAIM-355](../claims.d/CLAIM-355.md) keeps
 real organization apart from the owner a self-model represents, and A26's
@@ -60,20 +63,20 @@ capacity, that reply is true.
 Metzinger's own material shows the two can come apart both ways:
 
 - **Control without the representation.** "Successful inhibition can be an
-  entirely subpersonal process" ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 13). If so, the
+  entirely subpersonal process" ([LIT-1942](../literature.d/LIT-1942.md), p. 13). If so, the
   representation is not necessary for control as such, and the principle
   holds only for "deliberate" control, which may be defined by the
   representation.
 - **The representation without control.** "the phenomenology of
   M-autonomy does not justify the claim that the functional property of
-  M-autonomy was actually present" ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 290), and the return
+  M-autonomy was actually present" ([LIT-1941](../literature.d/LIT-1941.md), p. 290), and the return
   of control is represented as self-caused whatever caused it
-  ([THEORY-tmpjtjll](../theory.d/THEORY-tmpjtjll.md)).
+  ([THEORY-1298](../theory.d/THEORY-1298.md)).
 
 ## What would count as an answer
 
 An intervention on the representation alone, with the capacity measured by
-a route that does not pass through it. Metzinger's H1 and H3 ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md),
+a route that does not pass through it. Metzinger's H1 and H3 ([LIT-1945](../literature.d/LIT-1945.md),
 p. 14) are of this kind: block the epistemic agent model's introspective
 availability and see whether mind-wandering begins; restore predictive
 self-control and see whether an episode ends. Held fixed must be the
@@ -98,5 +101,5 @@ separately must be the ability, for instance by externally cued stopping.
 - Not [CLAIM-022](../claims.d/CLAIM-022.md)'s question of whose the will is. A representation could be
   a condition of efficacy and still be authored or installed by others;
   Metzinger says the adult's sense of origination is installed by
-  caregivers before autobiographical memory ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 20–21), which
+  caregivers before autobiographical memory ([LIT-1945](../literature.d/LIT-1945.md), pp. 20–21), which
   bears on [QUESTION-364](QUESTION-364.md).

@@ -77,13 +77,13 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: the claim at the scale of mental action, with a candidate for what makes the difference
 
-<!-- inactive-ok: THEORY-tmptbvmq QUESTION-tmp7czq0 — Proposed or Open; the reading and the question this note reports, cited as open -->
+<!-- inactive-ok: THEORY-1300 QUESTION-367 — Proposed or Open; the reading and the question this note reports, cited as open -->
 
 Metzinger's "moderate, nuanced position" on mind-wandering is this claim
 for one regime, second-order control of one's own thought: "what we have
 lost is a specific form of knowledge, and not the ability itself ... We
 are still persons, because we have the relevant potential"
-([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 282; [THEORY-tmptbvmq](../theory.d/THEORY-tmptbvmq.md)). The regime is possessed through
+([LIT-1941](../literature.d/LIT-1941.md), p. 282; [THEORY-1300](../theory.d/THEORY-1300.md)). The regime is possessed through
 the episode and not effective. He also names what makes the difference,
 which this claim leaves to [CLAIM-027](CLAIM-027.md): "one can only deliberately and
 autonomously exert an ability if that ability is explicitly represented in
@@ -93,8 +93,8 @@ Of the three surpluses this claim's note of 2026-10-31 keeps apart, this
 is the first, an available regime that is idle. Its stated cause is not a
 refused claim to precedence and not uncaptured potential, but a missing
 self-representation. Whether that is a condition of efficacy or only
-accompanies one is [QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md). The 2015 paper asserts the principle
+accompanies one is [QUESTION-367](../questions.d/QUESTION-367.md). The 2015 paper asserts the principle
 without a test, and Metzinger's 2017 chapter says the data cannot yet
-decide ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 13–14).
+decide ([LIT-1945](../literature.d/LIT-1945.md), pp. 13–14).
 
 No status, title or warrant changes.

@@ -1,5 +1,8 @@
 ---
+number: 1296
 status: Proposed
+formerly:
+- THEORY-tmp92dsq
 promote_when: >-
   Two kinds of result, one for each clause. For the selection clause:
   evidence that the contents of deliberate thought are drawn from the
@@ -24,11 +27,11 @@ tags:
 - probabilistic-modeling
 date: '2026-11-01'
 source:
-- LIT-tmppbt0s
+- LIT-1945
 bears_on:
-- QUESTION-tmp7czq0
+- QUESTION-367
 summary: >-
-  Metzinger (2017), [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 11–17, read in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md). The
+  Metzinger (2017), [LIT-1945](../literature.d/LIT-1945.md), pp. 11–17, read in [NOTE-1496](../notes.d/NOTE-1496.md). The
   "cognitive affordance hypothesis": mind-wandering is "mental
   sleep-walking" that "sets up the inner world" of candidate mental actions,
   and frontal control "latch[es] onto the best candidate". Offered as a
@@ -39,15 +42,15 @@ summary: >-
   hypothesis does not say whether selection is by the candidates' content
   or by relations that govern them.
 ---
-<!-- inactive-ok-file: THEORY-tmptbvmq QUESTION-tmp7czq0 ARG-tmpmibc8 — Proposed or Open; companion reading, question and inference, cited as open -->
+<!-- inactive-ok-file: THEORY-1300 QUESTION-367 ARG-051 — Proposed or Open; companion reading, question and inference, cited as open -->
 <!-- inactive-ok-file: THEORY-882 CLAIM-484 — Proposed; the PP account and the claim this one is set beside, cited as open -->
 
-# THEORY-tmp92dsq: Deliberate thought selects and sustains candidates from a stream of unintended thoughts that mind-wandering generates, and whether the conscious model of oneself as a knower that accompanies the selection causes it, enables it or only accompanies it is undecided by current evidence
+# THEORY-1296: Deliberate thought selects and sustains candidates from a stream of unintended thoughts that mind-wandering generates, and whether the conscious model of oneself as a knower that accompanies the selection causes it, enables it or only accompanies it is undecided by current evidence
 
 ## Source
 
-Metzinger (2017), [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), §§3.2–3.4, pp. 11–17, read in
-[NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md).
+Metzinger (2017), [LIT-1945](../literature.d/LIT-1945.md), §§3.2–3.4, pp. 11–17, read in
+[NOTE-1496](../notes.d/NOTE-1496.md).
 
 ## What was actually shown
 
@@ -97,8 +100,8 @@ proposed tests; the chapter cites Axelrod et al. (2015) and Broadway et al.
   the autobiographical self-model (p. 3).
 - **How attentional action begins.** "we may have a model of action
   initiation for CA, but not for AA" (p. 22).
-- **That the 2015 principle holds.** [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md) states that an ability is
-  deliberately exercised only when represented ([THEORY-tmptbvmq](THEORY-tmptbvmq.md)). This
+- **That the 2015 principle holds.** [LIT-1941](../literature.d/LIT-1941.md) states that an ability is
+  deliberately exercised only when represented ([THEORY-1300](THEORY-1300.md)). This
   chapter leaves open whether the representation does anything.
 
 ## Connections
@@ -106,7 +109,7 @@ proposed tests; the chapter cites Axelrod et al. (2015) and Broadway et al.
 - **[CLAIM-027](../claims.d/CLAIM-027.md).** Same structure, not shown same mechanism: candidate
   mental processes compete and something other than their content decides
   which is pursued, if "best" is not content. The chapter does not settle
-  that, so the reading is a shape, not support. [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md) holds the
+  that, so the reading is a shape, not support. [ARG-051](../arguments.d/ARG-051.md) holds the
   verdict.
 - **[CLAIM-484](../claims.d/CLAIM-484.md).** The same chapter's account of mental effort (p. 10) as the
   "collision" of top-down precision control with "an automatically arising
@@ -116,4 +119,4 @@ proposed tests; the chapter cites Axelrod et al. (2015) and Broadway et al.
   precision is set at every level by a hyper-model and agency is not
   required; here agency is the special case where precision is controlled
   under a self-model.
-- **[QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md)** takes the open clause as the record's question.
+- **[QUESTION-367](../questions.d/QUESTION-367.md)** takes the open clause as the record's question.

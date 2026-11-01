@@ -195,7 +195,7 @@ this directory, then run `luria index`.
 
 **By kind:** [Specimen](kind/specimen.md) (62) · [Thought experiment](kind/thought-experiment.md) (42) · [Construction](kind/construction.md) (38) · [Reported study](kind/reported-study.md) (9) · [Proposed study](kind/proposed-study.md) (29) · [Executed study](kind/executed-study.md) (10)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (82) · [Will-organization](line/will-organization.md) (17) · [Organizational affect](line/organizational-affect.md) (2) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (57) · [Nucleating an argument](line/nucleating-argument.md) (12) · [Evidence for experience](line/evidence-for-experience.md) (2) · [How training finds structure](line/learned-structure.md) (1) · [Formal apparatus](line/formal-apparatus.md) (6)
+**By line:** [Distributed agency](line/distributed-agency.md) (88) · [Will-organization](line/will-organization.md) (20) · [Organizational affect](line/organizational-affect.md) (4) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (57) · [Nucleating an argument](line/nucleating-argument.md) (12) · [Evidence for experience](line/evidence-for-experience.md) (2) · [How training finds structure](line/learned-structure.md) (1) · [Formal apparatus](line/formal-apparatus.md) (6)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 

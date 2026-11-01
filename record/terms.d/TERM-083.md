@@ -10,8 +10,8 @@ history:
   date: '2026-11-01'
   note: >-
     Note of 2026-11-01 added, from the reading of Metzinger 2024
-    (LIT-tmp3uosd) and the registration of Metzinger 2021
-    (LIT-tmpsk1p5): the moratorium grounds risk in a self that can
+    (LIT-1943) and the registration of Metzinger 2021
+    (LIT-1947): the moratorium grounds risk in a self that can
     suffer, and his minimal experience separates phenomenal
     consciousness from valenced sentience as grounds. The definition
     is unchanged.
@@ -32,7 +32,7 @@ summary: >-
   the displaced are owed consideration whether or not they form one agent.
   Proposed.
 ---
-<!-- inactive-ok-file: LIT-tmpsk1p5 QUESTION-tmpwit4l — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
+<!-- inactive-ok-file: LIT-1947 QUESTION-368 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
 
 # TERM-083: moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others
 
@@ -75,8 +75,8 @@ rights to restitution or participation."
 ## Note of 2026-11-01: consciousness without suffering, and the moratorium
 
 Metzinger argues for a global moratorium on synthetic phenomenology
-([LIT-tmpsk1p5](../literature.d/LIT-tmpsk1p5.md), not read: a lawful copy exists and could not be fetched).
-His 2024 restatement ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), pp. 484–485) grounds the
+([LIT-1947](../literature.d/LIT-1947.md), not read: a lawful copy exists and could not be fetched).
+His 2024 restatement ([LIT-1943](../literature.d/LIT-1943.md), [NOTE-1499](../notes.d/NOTE-1499.md), pp. 484–485) grounds the
 risk in a self that can suffer, not in consciousness as such. Artificial
 consciousness "may involve a consciously experienced sense of self that
 may in turn generate artificial suffering". In the same passage he
@@ -92,7 +92,7 @@ sentience as valenced experience ([THEORY-449](../theory.d/THEORY-449.md)) come 
 Metzinger's description. A claim of standing that names "sentience" as
 its ground should say which it means. The book does not ask whether the
 machine would itself be owed anything. That is filed as
-[QUESTION-tmpwit4l](../questions.d/QUESTION-tmpwit4l.md). The moratorium, as restated, is a claim about what we
+[QUESTION-368](../questions.d/QUESTION-368.md). The moratorium, as restated, is a claim about what we
 owe to possible future subjects of suffering. It is an argument from
 precaution, and [THEORY-677](../theory.d/THEORY-677.md)'s point applies: precaution alone does not fix
 which error is worse. Whether the paper answers that cannot be checked

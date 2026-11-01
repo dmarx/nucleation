@@ -15,7 +15,7 @@ history:
   date: '2026-11-01'
   note: >-
     Note of 2026-11-01 added, from the readings of Metzinger 2020 and
-    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): what report evidence can and
+    2024 (LIT-1946, LIT-1943): what report evidence can and
     cannot establish about minimal phenomenal experience, by the
     author's own account. The question is unchanged.
 tags:
@@ -75,15 +75,15 @@ or minimal phenomenal experience (MPE). It states the limits of report
 evidence itself, and they belong in "What the record holds".
 
 - **Retrospective report cannot show that a state was selfless.**
-  Metzinger 2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), p. 19): a report of having
+  Metzinger 2024 ([LIT-1943](../literature.d/LIT-1943.md), [NOTE-1499](../notes.d/NOTE-1499.md), p. 19): a report of having
   been selfless is "highly dubious from a methodological perspective",
   since autobiographical memory represents events as a self's. The state
   may be "stored and later retrieved in an autobiographical format, as a
   post hoc mnemonic misrepresentation". He leaves the problem open. The
-  2020 paper ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), p. 15) goes further: the
+  2020 paper ([LIT-1946](../literature.d/LIT-1946.md), [NOTE-1498](../notes.d/NOTE-1498.md), p. 15) goes further: the
   content of a full-absorption episode "cannot be reported", and only
   entry and exit are remembered. The book's summary calls such states
-  "empirically established" all the same (p. 457). [THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md) states
+  "empirically established" all the same (p. 457). [THEORY-1295](../theory.d/THEORY-1295.md) states
   the gap. Limit: a conceptual argument, which the book does not test,
   for instance with reports taken at the end of a session, as it
   recommends (p. 18).

@@ -1,5 +1,8 @@
 ---
+number: 1297
 status: Proposed
+formerly:
+- THEORY-tmpcq8bx
 promote_when: >-
   For the identification: within-person evidence that during probe-caught,
   unintentional mind-wandering the ability to suspend or end the current
@@ -22,11 +25,11 @@ tags:
 - consciousness
 date: '2026-11-01'
 source:
-- LIT-tmp23d7b
-- LIT-tmp0w298
+- LIT-1942
+- LIT-1941
 summary: >-
-  Metzinger (2013), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), restated in 2015, [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md); read in
-  [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md) and [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md). The identification is conceptual: an
+  Metzinger (2013), [LIT-1942](../literature.d/LIT-1942.md), restated in 2015, [LIT-1941](../literature.d/LIT-1941.md); read in
+  [NOTE-1495](../notes.d/NOTE-1495.md) and [NOTE-1497](../notes.d/NOTE-1497.md). The identification is conceptual: an
   episode of unintentional mind-wandering cannot, while it runs, be
   suspended or ended at will, and veto is what M-autonomy turns on. The
   share is computed from others' figures, and recomputed here: 631 of
@@ -35,16 +38,16 @@ summary: >-
   and the 30–50% figures count task-unrelated thought, which includes
   deliberate daydreaming the definition excludes.
 ---
-<!-- inactive-ok-file: THEORY-tmptbvmq ARG-tmpmibc8 — Proposed; companion reading and the inference it grounds, cited as open -->
+<!-- inactive-ok-file: THEORY-1300 ARG-051 — Proposed; companion reading and the inference it grounds, cited as open -->
 <!-- inactive-ok-file: THEORY-064 CLAIM-156 — Proposed; readings and claims this one is set beside, cited as open -->
 
-# THEORY-tmpcq8bx: Mind-wandering is a recurring loss of M-autonomy, the veto-centred ability to suspend or end one's own ongoing mental processes; on the figures Metzinger uses, it takes about half of conscious time, not the two thirds he states
+# THEORY-1297: Mind-wandering is a recurring loss of M-autonomy, the veto-centred ability to suspend or end one's own ongoing mental processes; on the figures Metzinger uses, it takes about half of conscious time, not the two thirds he states
 
 ## Source
 
-Metzinger (2013), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), pp. 2–7 and Box 1, read in [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md);
-Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 276–280 and 292–295, read in
-[NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md).
+Metzinger (2013), [LIT-1942](../literature.d/LIT-1942.md), pp. 2–7 and Box 1, read in [NOTE-1495](../notes.d/NOTE-1495.md);
+Metzinger (2015), [LIT-1941](../literature.d/LIT-1941.md), pp. 276–280 and 292–295, read in
+[NOTE-1497](../notes.d/NOTE-1497.md).
 
 ## What was actually shown
 
@@ -92,9 +95,9 @@ figures.
   unintentional episodes, so they can overcount losses of M-autonomy.
 - **That mind-wandering is dysfunctional.** The papers say it may be
   adaptive, maintaining the autobiographical self-model (2013, p. 5) or
-  supplying candidate thoughts ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md)).
+  supplying candidate thoughts ([LIT-1945](../literature.d/LIT-1945.md)).
 - **That the ability itself is lost.** The 2015 paper's "moderate"
-  reading is that its representation is lost ([THEORY-tmptbvmq](THEORY-tmptbvmq.md)).
+  reading is that its representation is lost ([THEORY-1300](THEORY-1300.md)).
 - **Anything about overt action.** M-autonomy is control of mental
   processes; a person mind-wandering may be acting skilfully in the world.
 
@@ -102,7 +105,7 @@ figures.
 
 - **[CLAIM-047](../claims.d/CLAIM-047.md) and [CLAIM-027](../claims.d/CLAIM-027.md).** Same structure, not shown same mechanism: a
   capacity of the agent, veto over its own mental processes, recurrently
-  loses and regains efficacy. The support verdict is [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md).
+  loses and regains efficacy. The support verdict is [ARG-051](../arguments.d/ARG-051.md).
 - **[CLAIM-156](../claims.d/CLAIM-156.md).** Meditation, "a systematic, formal practice of cultivating
   M-autonomy" (2013, p. 15), would act on this loss. The reading says
   nothing about valuation.

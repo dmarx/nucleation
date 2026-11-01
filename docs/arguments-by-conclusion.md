@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 55 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 56 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 29 matches
 
@@ -15,6 +15,7 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
 - [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them *(Active, thesis)*
   - [ARG-005](../record/arguments.d/ARG-005.md) — The reluctant writer's precommitment device changes what they do without changing what they want, so the conditions of efficacy govern which regime acts *(Proposed, contrast)*
   - [ARG-009](../record/arguments.d/ARG-009.md) — Northstar-A and Northstar-B differ only in escalation authority and act differently, so escalation authority helps govern efficacy *(Proposed, contrast)*
+  - [ARG-051](../record/arguments.d/ARG-051.md) — Mind-wandering, read as Metzinger reads it, is an individual-scale case in which a capacity the agent keeps, veto over its own mental processes, loses and regains efficacy through a change in a condition of efficacy and not in the competing processes, so it is a further instance of the conditions of efficacy governing which regime acts, the first in the record for suspension in one mind *(Proposed, analogy)*
 - [CLAIM-037](../record/claims.d/CLAIM-037.md) — Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context *(Proposed, thesis)*
   - [ARG-022](../record/arguments.d/ARG-022.md) — The 2016 Contextuality-by-Default paper grounds the criterion the manuscript's general observational covers need *(Rejected, source)*
 - [CLAIM-038](../record/claims.d/CLAIM-038.md) — A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation *(Active, thesis)*

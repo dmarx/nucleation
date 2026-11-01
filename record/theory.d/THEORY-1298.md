@@ -1,5 +1,8 @@
 ---
+number: 1298
 status: Proposed
+formerly:
+- THEORY-tmpjtjll
 promote_when: >-
   Episodes in which the end of mind-wandering has a known cause outside the
   person's control system (an experimenter's cue below report threshold, a
@@ -20,12 +23,12 @@ tags:
 - cognition
 date: '2026-11-01'
 source:
-- LIT-tmp0w298
-- LIT-tmp23d7b
-- LIT-tmppbt0s
+- LIT-1941
+- LIT-1942
+- LIT-1945
 summary: >-
-  Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 289–292, read in [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md); first
-  in 2013 ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), pp. 4, 11) and widened in 2017 ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md),
+  Metzinger (2015), [LIT-1941](../literature.d/LIT-1941.md), pp. 289–292, read in [NOTE-1497](../notes.d/NOTE-1497.md); first
+  in 2013 ([LIT-1942](../literature.d/LIT-1942.md), pp. 4, 11) and widened in 2017 ([LIT-1945](../literature.d/LIT-1945.md),
   pp. 20–21) to the sense of origination in agency generally. It rests on
   Schooler et al. (2011) and Wegner (2002), neither read, and on the
   argument that a self-model which must represent itself as always having
@@ -33,16 +36,16 @@ summary: >-
   hypothesis: no episode is reported in which the cause of a return and the
   report of it were recorded apart.
 ---
-<!-- inactive-ok-file: THEORY-tmptbvmq — Proposed; companion reading, cited as open -->
+<!-- inactive-ok-file: THEORY-1300 — Proposed; companion reading, cited as open -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-156 — Proposed; claims this one bears on, cited as open -->
 
-# THEORY-tmpjtjll: When mental control returns after mind-wandering, the self-model represents the return as the person's own act whether or not the person's control system caused it, because it must bridge to earlier control to keep the autobiographical self-model continuous
+# THEORY-1298: When mental control returns after mind-wandering, the self-model represents the return as the person's own act whether or not the person's control system caused it, because it must bridge to earlier control to keep the autobiographical self-model continuous
 
 ## Source
 
-Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 289–292, read in [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md);
-Metzinger (2013), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), pp. 4–5 and 11, read in [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md);
-Metzinger (2017), [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 6 and 20–21, read in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md).
+Metzinger (2015), [LIT-1941](../literature.d/LIT-1941.md), pp. 289–292, read in [NOTE-1497](../notes.d/NOTE-1497.md);
+Metzinger (2013), [LIT-1942](../literature.d/LIT-1942.md), pp. 4–5 and 11, read in [NOTE-1495](../notes.d/NOTE-1495.md);
+Metzinger (2017), [LIT-1945](../literature.d/LIT-1945.md), pp. 6 and 20–21, read in [NOTE-1496](../notes.d/NOTE-1496.md).
 
 ## What was actually shown
 
@@ -89,7 +92,7 @@ represent, not an observation.
 - **That every return is confabulated.** "at least in many such cases"
   (2015, p. 291); which cases is not said.
 - **That the person never ends an episode.** On the 2015 reading the
-  ability is kept throughout ([THEORY-tmptbvmq](THEORY-tmptbvmq.md)); the claim is about the
+  ability is kept throughout ([THEORY-1300](THEORY-1300.md)); the claim is about the
   attribution of a particular return.
 - **That the confabulation is harmful.** It is "functionally adequate", a
   condition of a coherent self-model over time.

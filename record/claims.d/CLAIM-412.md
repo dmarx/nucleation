@@ -70,7 +70,7 @@ history:
   date: '2026-11-01'
   note: >-
     Note of 2026-11-01 added, from the readings of Metzinger 2020 and
-    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): a candidate for part 3's
+    2024 (LIT-1946, LIT-1943): a candidate for part 3's
     organization, which is aperspectival, so part 3's wording is
     pressed; nothing added to the grounds. The claim is unchanged.
 role: thesis
@@ -118,7 +118,7 @@ objected_by:
 corroborated_by:
 - THEORY-871
 ---
-<!-- inactive-ok-file: THEORY-tmplvoa3 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-1299 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-411 CLAIM-413 THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1346 LIT-1348 LIT-1351 LIT-1353 LIT-1354 LIT-1355 LIT-1359 — Deferred; works registered unread, cited as such -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
@@ -438,8 +438,8 @@ circularity its own defeated_if names.
 ## Note of 2026-11-01: Metzinger on minimal phenomenal experience
 
 The body cites Metzinger's unity without a self-model ([THEORY-063](../theory.d/THEORY-063.md)) as
-"part 4 already read". His later work, read on 2026-11-01 ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md) in
-[NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md) in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md)), bears on the claim in three
+"part 4 already read". His later work, read on 2026-11-01 ([LIT-1946](../literature.d/LIT-1946.md) in
+[NOTE-1498](../notes.d/NOTE-1498.md), [LIT-1943](../literature.d/LIT-1943.md) in [NOTE-1499](../notes.d/NOTE-1499.md)), bears on the claim in three
 places. None of them meets the defeater.
 
 - **A candidate for part 3's organization.** On Metzinger's account the
@@ -448,7 +448,7 @@ places. None of them meets the defeater.
   modelled, as in unresponsive wakefulness, is not experienced: "an
   organism can be tonically alert without knowing that it is alert:
   Consciousness is knowing that one is alert" (2020, p. 33). That is an
-  organizational condition of the kind part 3 owes ([THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md)).
+  organizational condition of the kind part 3 owes ([THEORY-1299](../theory.d/THEORY-1299.md)).
   It is stated without report-independent evidence, so it does not meet
   [CLAIM-411](CLAIM-411.md)'s defeater.
 - **Part 3 says the organization must be perspectival.** Metzinger's
@@ -471,4 +471,4 @@ places. None of them meets the defeater.
 
 The evidence for the minimal case is retrospective report, and the 2024
 book grants that such reports cannot show that the state was selfless when
-it occurred ([THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md)). No status, title or warrant changes.
+it occurred ([THEORY-1295](../theory.d/THEORY-1295.md)). No status, title or warrant changes.
