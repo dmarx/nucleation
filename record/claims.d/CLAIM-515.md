@@ -86,15 +86,15 @@ look, not that they always come apart.
 
 <!-- inactive-ok-file: CLAIM-tmpg57ci — Proposed; the claim filed from this reading, cited as open -->
 
-- **Question 3, "realized".** Bechtel and Abrahamsen (LIT-tmppbuqq,
-  THEORY-tmpakm3a) hold that a model posited to fit behaviour shows only
+- **Question 3, "realized".** Bechtel and Abrahamsen ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md),
+  [THEORY-tmpakm3a](../theory.d/THEORY-tmpakm3a.md)) hold that a model posited to fit behaviour shows only
   how a mechanism of that kind could produce it, and that fit usually
   cannot decide between architectures. What decides is identifying parts
   and operations by experiment. That is this claim's "interventions that
   discriminate implementations", with a field's history behind it.
 - **Question 4, "maintained".** The constitutive-relevance criterion
   answers which parts realize a capability only relative to a declared
-  boundary (CLAIM-tmpg57ci). So the claim's fourth question, whether the
+  boundary ([CLAIM-tmpg57ci](CLAIM-tmpg57ci.md)). So the claim's fourth question, whether the
   organization can maintain its own mechanisms, presupposes an answer to
   where the organization ends. Interlevel experiments do not supply that
   answer.

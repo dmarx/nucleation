@@ -20,8 +20,8 @@ source:
 bears_on:
 - QUESTION-086
 summary: >-
-  Craver and Bechtel (2007), LIT-tmpgntir, pp. 553–554, read in
-  NOTE-tmp6uiie. The four kinds of interlevel experiment "share a form
+  Craver and Bechtel (2007), [LIT-tmpgntir](../literature.d/LIT-tmpgntir.md), pp. 553–554, read in
+  [NOTE-tmp6uiie](../notes.d/NOTE-tmp6uiie.md). The four kinds of interlevel experiment "share a form
   with Mill's methods" and are symmetrical. A lesion deficit is "only
   prima facie" evidence of componency, since a part "not interactively
   integrated" may be a background condition (n. 10). "Integrated" is
@@ -35,8 +35,8 @@ summary: >-
 
 ## Source
 
-Craver and Bechtel (2007), LIT-tmpgntir, pp. 548, 553–554 and nn. 10–11;
-read in NOTE-tmp6uiie.
+Craver and Bechtel (2007), [LIT-tmpgntir](../literature.d/LIT-tmpgntir.md), pp. 548, 553–554 and nn. 10–11;
+read in [NOTE-tmp6uiie](../notes.d/NOTE-tmp6uiie.md).
 
 ## What was actually shown
 
@@ -73,30 +73,30 @@ read in NOTE-tmp6uiie.
   a lesion that removes the phenomenon shows the lesioned item is needed
   for it. What they cannot settle is whether the item is inside.
 - **That Craver's constitutive-relevance criterion has the same gap.**
-  Mutual manipulability, stated in Explaining the Brain (LIT-832) and
-  "Constitutive explanatory relevance" (LIT-tmph2s2a), is reported to add
+  Mutual manipulability, stated in Explaining the Brain ([LIT-832](../literature.d/LIT-832.md)) and
+  "Constitutive explanatory relevance" ([LIT-tmph2s2a](../literature.d/LIT-tmph2s2a.md)), is reported to add
   a parthood condition to two manipulability conditions. If it does, the
   boundary is supplied by parthood, which is a further input, not by the
   experiments. That reading is not checked here, since neither text was
   reached. The amended account, matched interlevel experiments grounded
-  in causal betweenness (LIT-tmpj2ar6), was not reached either.
+  in causal betweenness ([LIT-tmpj2ar6](../literature.d/LIT-tmpj2ar6.md)), was not reached either.
 - **That every outside item passes.** A background condition that is not
   coupled to the phenomenon does not pass. The worry is items coupled to
   the whole in both directions.
 
 ## Connections
 
-- **CLAIM-522 and CLAIM-tmpg57ci.** An outside controller that reads the
+- **[CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md).** An outside controller that reads the
   maintained capacities and supplies their production law is
   "interactively integrated" in any sense the paper gives the phrase. It
   passes all four experiments exactly as an internal producer does. That
-  is CLAIM-tmpg57ci. It traces CLAIM-522's proviso, that the boundary is
+  is [CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md). It traces [CLAIM-522](../claims.d/CLAIM-522.md)'s proviso, that the boundary is
   declared and not given, into the mechanist's account of constitution.
-- **CLAIM-194.** Interactive integration is a coupling notion. So the one
-  discriminator the paper offers inherits CLAIM-194's point: it has "no
+- **[CLAIM-194](../claims.d/CLAIM-194.md).** Interactive integration is a coupling notion. So the one
+  discriminator the paper offers inherits [CLAIM-194](../claims.d/CLAIM-194.md)'s point: it has "no
   term for who made the coupling".
-- **QUESTION-086.** The experiments answer "by what intervention" only
-  relative to a boundary drawn beforehand. That is the limit QUESTION-086's
-  note of 2026-10-26 already records for CASE-161 and CASE-163.
-- **THEORY-tmp7jall.** Bechtel and Abrahamsen's clamping test is a fifth,
+- **[QUESTION-086](../questions.d/QUESTION-086.md).** The experiments answer "by what intervention" only
+  relative to a boundary drawn beforehand. That is the limit [QUESTION-086](../questions.d/QUESTION-086.md)'s
+  note of 2026-10-26 already records for [CASE-161](../cases.d/CASE-161.md) and [CASE-163](../cases.d/CASE-163.md).
+- **[THEORY-tmp7jall](THEORY-tmp7jall.md).** Bechtel and Abrahamsen's clamping test is a fifth,
   model-based experiment of this family, with the same limit.

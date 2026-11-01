@@ -17,8 +17,8 @@ date: '2026-11-01'
 source:
 - LIT-tmppbuqq
 summary: >-
-  Bechtel and Abrahamsen (2010), LIT-tmppbuqq, contribution C3 (p. 326),
-  read in NOTE-tmpbljat. Smolen et al. (2001) fixed the concentration of
+  Bechtel and Abrahamsen (2010), [LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), contribution C3 (p. 326),
+  read in [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md). Smolen et al. (2001) fixed the concentration of
   CLOCK in a reduced model of the Drosophila clock, and oscillation
   continued. They concluded that the positive CLOCK loop "was not
   critical". That is a part that belongs to the system and not to "the
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Bechtel and Abrahamsen (2010), LIT-tmppbuqq, §3.3, p. 326, reporting
-Smolen, Baxter and Byrne (2001); read in NOTE-tmpbljat.
+Bechtel and Abrahamsen (2010), [LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), §3.3, p. 326, reporting
+Smolen, Baxter and Byrne (2001); read in [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md).
 
 ## What was actually shown
 
@@ -71,20 +71,20 @@ Smolen, Baxter and Byrne (2001); read in NOTE-tmpbljat.
   located outside the boundary of the system said to have the phenomenon,
   as McClelland et al.'s externally supplied hippocampal training is
   needed for their model's consolidation (p. 331). Where the boundary
-  runs is a separate input (THEORY-tmp09e3b, CLAIM-tmpg57ci).
+  runs is a separate input ([THEORY-tmp09e3b](THEORY-tmp09e3b.md), [CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md)).
 
 ## Connections
 
 - **The record's knockouts.** "Removing the c₂ → c₁ production collapses
-  both capacities" (CASE-189). "Removing any single production pathway
-  sends all three to zero" (CASE-189, Construction 2). The knockout in
-  CASE-190 is the same. Each is a C3 test in a model. Each shows that the
+  both capacities" ([CASE-189](../cases.d/CASE-189.md)). "Removing any single production pathway
+  sends all three to zero" ([CASE-189](../cases.d/CASE-189.md), Construction 2). The knockout in
+  [CASE-190](../cases.d/CASE-190.md) is the same. Each is a C3 test in a model. Each shows that the
   maintenance phenomenon needs that pathway. Since the models stipulate
   which terms are internal, each shows nothing about whether the pathway
   is the organization's own.
-- **CLAIM-516.** Removing a feedback edge set extinguishes every capacity.
+- **[CLAIM-516](../claims.d/CLAIM-516.md).** Removing a feedback edge set extinguishes every capacity.
   That is C3 applied to every cycle at once, and proved rather than
   simulated.
-- **CLAIM-414 and CLAIM-522.** The separating intervention in each is a
+- **[CLAIM-414](../claims.d/CLAIM-414.md) and [CLAIM-522](../claims.d/CLAIM-522.md).** The separating intervention in each is a
   clamp or knockout of a production pathway. This paper's C3 is the same
   move in a model of real biology.

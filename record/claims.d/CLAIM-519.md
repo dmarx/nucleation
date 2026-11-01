@@ -136,7 +136,7 @@ identification belongs on the right. The evidence for each differs.
 
 ## Note of 2026-11-01: a precedent in cognitive modelling
 
-Bechtel and Abrahamsen (LIT-tmppbuqq, NOTE-tmpbljat, THEORY-tmpakm3a)
+Bechtel and Abrahamsen ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md), [THEORY-tmpakm3a](../theory.d/THEORY-tmpakm3a.md))
 make this claim's methodological point about cognitive models in
 general. Such models are proposed de novo and checked only by fit, and
 "Empirical evidence can rule out specific models, but usually cannot

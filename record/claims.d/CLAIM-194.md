@@ -139,14 +139,14 @@ produced boundary from an imposed one. The two closures are separated in
 
 <!-- inactive-ok-file: CLAIM-tmpg57ci — Proposed; the claim filed from this reading, cited as open -->
 
-Craver and Bechtel (LIT-tmpgntir, NOTE-tmp6uiie) concede that interlevel
+Craver and Bechtel ([LIT-tmpgntir](../literature.d/LIT-tmpgntir.md), [NOTE-tmp6uiie](../notes.d/NOTE-tmp6uiie.md)) concede that interlevel
 experiments show only prima facie that an item is a component. They say
 the difference from a background condition is whether it is
 "interactively integrated into the system" (p. 553, n. 10). That is a
 coupling notion, so it inherits this claim's point that it has no term
 for who made the coupling. An outside controller coupled to the system
 in both directions passes their four experiments exactly as an internal
-producer does (THEORY-tmp09e3b, CLAIM-tmpg57ci). Same structure, not
+producer does ([THEORY-tmp09e3b](../theory.d/THEORY-tmp09e3b.md), [CLAIM-tmpg57ci](CLAIM-tmpg57ci.md)). Same structure, not
 shown same mechanism: this claim is about observational statistics, and
 theirs is about interventions. Their framework draws a mechanism's
 boundary by its parthood condition, which takes the boundary as an input,

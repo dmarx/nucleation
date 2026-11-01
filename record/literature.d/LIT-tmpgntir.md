@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmp6uiie); worth keeping as the
+  read in full 2026-11-01 ([NOTE-tmp6uiie](../notes.d/NOTE-tmp6uiie.md)); worth keeping as the
   mechanist's statement that the relation between levels is constitution,
   not causation, and for an admission the record needs. Interlevel
   experiments are symmetrical, and a lesion shows only "prima facie" that
   something is a component, since a part not "interactively integrated"
   may be a background condition (p. 553, n. 10). So the experiments do
-  not by themselves draw the mechanism's boundary (THEORY-tmp09e3b,
-  CLAIM-tmpg57ci).
+  not by themselves draw the mechanism's boundary ([THEORY-tmp09e3b](../theory.d/THEORY-tmp09e3b.md),
+  [CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md)).
 title: 'Top-down causation without top-down causes'
 version: 1
 history:
@@ -61,7 +61,7 @@ summary: >-
 
 Craver, C. F., & Bechtel, W. (2007). Top-down causation without top-down causes. *Biology and Philosophy*, 22, 547–563 (online 2006) — DOI-10.1007/s10539-006-9028-8
 
-Read in full in NOTE-tmp6uiie.
+Read in full in [NOTE-tmp6uiie](../notes.d/NOTE-tmp6uiie.md).
 
 ## Key takeaways
 
@@ -86,7 +86,7 @@ Read in full in NOTE-tmp6uiie.
 ## Standing in the record
 
 The record's constructions put a maintaining process inside one system and
-outside another (CLAIM-522, CLAIM-414, CASE-189). Whether the difference is
+outside another ([CLAIM-522](../claims.d/CLAIM-522.md), [CLAIM-414](../claims.d/CLAIM-414.md), [CASE-189](../cases.d/CASE-189.md)). Whether the difference is
 one of constitution is the question this paper's framework poses, and its
 own experiments leave open. Read for that, not for the debate about
 downward causation.
