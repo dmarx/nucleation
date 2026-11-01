@@ -2,7 +2,7 @@
 
 # CLAIMs with `works` `self-without-a-sovereign`
 
-*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
+*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **The Self Without a Sovereign** — the owner's essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning Applications" (A33), later folded into organization-of-perspective: distributed agency, organizational perspectives and the fiction of a single owner. Many functions credited to a unified self are better explained by historically organized, partly overlapping perspectives that can represent themselves as one owner without that owner being a further executive entity; Clive Wearing as the opening case.
 

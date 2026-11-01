@@ -15,7 +15,7 @@ discusses:
 - TERM-088
 - QUESTION-tmp9hvu1
 summary: >-
-  Section 1 of WORK-010, The Individual and Its Conditions. Its prose
+  Section 1 of [WORK-010](../works.d/WORK-010.md), The Individual and Its Conditions. Its prose
   is transcluded by the manuscript view; each paragraph says in a
   directive which claims it asserts and which it only discusses.
 ---

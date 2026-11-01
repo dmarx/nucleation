@@ -2,7 +2,7 @@
 
 # CLAIMs with `works` `organization-of-will`
 
-*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
+*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **The Organization of Will** — the owner's essay, drafted 2026-10-04 to 2026-10-06: will-organization as the agent-indexed organization of practical efficacy, and why effective will is precarious.
 

@@ -31,4 +31,4 @@ overlapping perspectives that can represent themselves as one owner
 without that owner being a further executive entity; Clive Wearing as the
 opening case
 
-Until ADR-067 this work was the `works` vocabulary term `self-without-a-sovereign`.
+Until [ADR-067](../decisions.d/ADR-067.md) this work was the `works` vocabulary term `self-without-a-sovereign`.

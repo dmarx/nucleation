@@ -11,7 +11,7 @@ discusses:
 - CLAIM-528
 - CLAIM-530
 summary: >-
-  Section 5 of WORK-010, The Individual and Its Conditions. Its prose
+  Section 5 of [WORK-010](../works.d/WORK-010.md), The Individual and Its Conditions. Its prose
   is transcluded by the manuscript view; each paragraph says in a
   directive which claims it asserts and which it only discusses.
 ---
@@ -36,4 +36,4 @@ Not transcluded.
 
 The prose names the mechanistic-constitution literature as a direct interlocutor but does not yet engage it. The record filed that reading the same day: [CLAIM-528](../claims.d/CLAIM-528.md) (produced through versus consisting in) and [CLAIM-530](../claims.d/CLAIM-530.md) (parthood is what the manipulability conditions presuppose) are the points this section should take up.
 
-Claims the prose makes that the record does not hold: Paragraph 3 (the university department) is an example the record does not hold as a CASE. Paragraph 4 proposes a *defeasible constitutive warrant*, a five-step procedure for assessing a constitutive claim; the record holds no claim stating it, and it is the article's most direct answer to QUESTION-tmp9hvu1. Both are candidates to file.
+Claims the prose makes that the record does not hold: Paragraph 3 (the university department) is an example the record does not hold as a CASE. Paragraph 4 proposes a *defeasible constitutive warrant*, a five-step procedure for assessing a constitutive claim; the record holds no claim stating it, and it is the article's most direct answer to [QUESTION-tmp9hvu1](../questions.d/QUESTION-tmp9hvu1.md). Both are candidates to file.

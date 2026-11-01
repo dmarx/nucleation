@@ -14,7 +14,7 @@ discusses:
 - CLAIM-280
 - CASE-079
 summary: >-
-  Section 3 of WORK-010, The Individual and Its Conditions. Its prose
+  Section 3 of [WORK-010](../works.d/WORK-010.md), The Individual and Its Conditions. Its prose
   is transcluded by the manuscript view; each paragraph says in a
   directive which claims it asserts and which it only discusses.
 ---

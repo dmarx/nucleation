@@ -2,7 +2,7 @@
 
 # ARGs with `works` `who-gets-to-say-stop`
 
-*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
+*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **Who Gets to Say Stop?** — the owner's essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning Applications" (A33), later folded into organization-of-perspective: Challenger, Crew Resource Management and the organization of practical authority. An organization's operative perspective is partly constituted by the maintained relations through which evidence becomes credible, objections consequential and decisions revisable, so it can hold accurate information and be unable to act on it.
 

@@ -2,7 +2,7 @@
 
 # CLAIMs with `works` `organization-of-perspective`
 
-*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
+*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **The Organization of Perspective** — the owner's manuscript, drafted 2026-10-22 from the exchange "Graph Learning Applications" (A34), superseding a plan of four 6,000-word essays: Character, Practical Authority, and Historical Persistence Across Minds and Institutions. An organizational perspective as a historically realized pattern through which information becomes salient, interpretable, evaluable and consequential for action, kept apart from its carriers, its lineage, the agents it serves and phenomenal subjectivity; Clive Wearing, Challenger and aviation safety, party realignment and commitments across political succession as its cases.
 

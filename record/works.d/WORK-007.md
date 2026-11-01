@@ -30,4 +30,4 @@ perspective is partly constituted by the maintained relations through
 which evidence becomes credible, objections consequential and decisions
 revisable, so it can hold accurate information and be unable to act on it
 
-Until ADR-067 this work was the `works` vocabulary term `who-gets-to-say-stop`.
+Until [ADR-067](../decisions.d/ADR-067.md) this work was the `works` vocabulary term `who-gets-to-say-stop`.

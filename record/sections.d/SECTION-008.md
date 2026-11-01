@@ -12,7 +12,7 @@ discusses:
 - CLAIM-477
 - CLAIM-474
 summary: >-
-  Section 8 of WORK-010, The Individual and Its Conditions. Its prose
+  Section 8 of [WORK-010](../works.d/WORK-010.md), The Individual and Its Conditions. Its prose
   is transcluded by the manuscript view; each paragraph says in a
   directive which claims it asserts and which it only discusses.
 ---
@@ -33,4 +33,4 @@ These distinctions restrict a proposed universal recursive-individuation theory 
 
 Not transcluded.
 
-Claims the prose makes that the record does not hold: Paragraph 1 states the article's conception of recursive individuation, which the record holds only in CLAIM-477's broader, Proposed form.
+Claims the prose makes that the record does not hold: Paragraph 1 states the article's conception of recursive individuation, which the record holds only in [CLAIM-477](../claims.d/CLAIM-477.md)'s broader, Proposed form.
