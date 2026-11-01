@@ -114,3 +114,29 @@ The readings filed on this date bear on this question three ways.
   continuation is filed as part of [QUESTION-365](QUESTION-365.md).
 
 None of the three supplies a criterion. No status, title or warrant changes.
+
+## Note of 2026-11-01: a standard of self-attribution installed before memory
+
+Metzinger's chapter on mental action (LIT-tmppbt0s, pp. 20–21, read in
+NOTE-tmpk5ghu) sketches, as one horn of a dilemma, how an adult comes to
+read its own acts as self-originated. Caregivers ascribe veto and "ultimate
+origination" ("You could have done otherwise!") "at a stage where, from a
+scientific perspective, young children almost certainly do not possess
+these capacities"; the ascription is internalized; and because
+autobiographical memory begins only between two and four, "the process of
+amnestic enculturation itself will never be introspectively available".
+The result is "a strong hyperprior for autonomy and moral responsibility",
+installed "before our conscious inner life-history has even begun". His
+2015 paper calls personhood "a concept of social ontology", "constituted
+not in brains, but in societies" (LIT-tmp0w298, p. 284).
+
+This sharpens the question in a direction the notes of 2026-10-31 did not.
+They showed standards changing by use with no act of revision. Here the
+first standard by which an agent reads authorization of its own acts was
+never authorized by that agent, and the history that installed it cannot
+be consulted by it. A criterion of continuation cannot then start from a
+first self-authorized standard and check the history forward, because on
+this sketch there is none. It is a sketch, offered for the eliminativist
+horn, not a result, and it supplies no criterion.
+
+No status, title or warrant changes.

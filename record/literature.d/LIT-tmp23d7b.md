@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-01 (NOTE-tmp97akw), from the publisher's
+  open-access PDF (frontiersin.org/articles/10.3389/fpsyg.2013.00931/pdf;
+  also PMC3868016), text extracted with pdftotext. Worth reading as the
+  origin of M-autonomy: the ability to control one's own mental
+  processes, defined by its veto component, and lost without notice in
+  every episode of mind-wandering. It argues that most conscious thought
+  is subpersonal and that a thought becomes the person's only by
+  integration into an "epistemic agent model". The "two thirds of
+  conscious lifetime" without M-autonomy is not what its own figures give:
+  they give about half (THEORY-tmpcq8bx). Conceptual work on others' data;
+  no new data.
+title: 'The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Filed and read 2026-11-01. Citation checked against the article and
+    Crossref (DOI 10.3389/fpsyg.2013.00931): Thomas Metzinger, Frontiers
+    in Psychology 4, article 931, a Hypothesis and Theory article in
+    Perception Science, received 9 September 2013, accepted 25 November
+    2013, "published online: 19 December 2013", which is the `published:`
+    date (Crossref gives the year only). PMC3868016. Read from the
+    publisher's PDF, article pp. 1–16 of text and Box 1, references pp.
+    16–19. A grep of record/literature.d for the DOI, the PMC id and the
+    title words found nothing; NOTE-1434 names M-autonomy from the dreams
+    paper and does not hold this one.
+tags:
+- cognition
+- agency
+- self
+- consciousness
+date: '2026-11-01'
+published: '2013-12-19'
+doi: '10.3389/fpsyg.2013.00931'
+first_author: 'Metzinger'
+keywords:
+- 'consciousness'
+- 'self-consciousness'
+- 'cognitive phenomenology'
+- 'mental autonomy'
+- 'subpersonal processes'
+- 'mind wandering'
+- 'meditation'
+- 'epistemic agency'
+implementations: []
+summary: >-
+  Metzinger (2013). Mind-wandering is a recurring, unnoticed loss of
+  M-autonomy, the ability to control one's own mental processes, whose
+  defining component is veto: that every ongoing process could be
+  suspended or ended, and that the person knows it. Conscious thought is
+  for the most part subpersonal mental behaviour; it becomes personal-level
+  only when integrated into an "epistemic agent model" (EAM), a transparent
+  self-model of oneself as a knowing, attention-controlling self, which
+  collapses at the onset of each episode. Proposes the "self-representational
+  blink" and a shift in the "unit of identification" to individuate
+  episodes. Its claim that we lack M-autonomy for "roughly two thirds" of
+  conscious life is not borne out by its own minutes, which give about
+  half.
+---
+<!-- inactive-ok-file: THEORY-tmpcq8bx — Proposed; the reading this work grounds, cited as open -->
+
+# LIT-tmp23d7b: The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy
+
+Metzinger, T. (2013). The myth of cognitive agency: subpersonal thinking as
+a cyclically recurring loss of mental autonomy. *Frontiers in Psychology*,
+4, 931. DOI 10.3389/fpsyg.2013.00931, PMC3868016.
+
+Read in full in NOTE-tmp97akw.
+
+## Key takeaways
+
+- **M-autonomy, defined by veto.** "the ability to control the conscious
+  contents of one's mind in a goal-directed way, by means of attentional or
+  CA"; "What is crucial is the 'veto component': Being mentally autonomous
+  means that all currently ongoing processes can in principle be suspended
+  or terminated ... the ability, the functional potential, is given and
+  that the person has knowledge of this fact" (p. 4).
+- **Two kinds of mental action.** Attentional agency, "the ability to
+  control one's focus of attention", and cognitive agency, "the ability to
+  control goal/task-related, deliberate thought" (p. 2).
+- **Mind-wandering as its loss.** Unintentional mental behaviour that,
+  while it unfolds, "cannot be terminated at will" (p. 6); "at the onset of
+  a mind wandering episode, the EAM collapses" (p. 3).
+- **Conscious thought is mostly subpersonal.** "conscious thought
+  primarily and predominantly is an automatic subpersonal process, like
+  heartbeat or immune autoregulation" (p. 6); a process becomes
+  personal-level by being "embedded into an EAM" and through a social
+  practice of mutual ascription (p. 8).
+- **The estimate.** From 30–50% of waking time mind-wandering and sleep
+  mentation figures, "healthy adults are only M-autonomous for 9.6 h (576
+  min; or 40% of an average day)" (p. 6), stated as "roughly two thirds"
+  of conscious life without M-autonomy. The same figures give 631 of 1207
+  conscious minutes, 52%.
+- **Regained control may be confabulated.** A report of having noticed
+  and redirected attention "may be false"; "What is subjectively described
+  or experienced as 2nd-order mental action may sometimes not be a
+  personal-level event at all, but a shift in the subpersonal self-model"
+  (p. 4). "There is no free won't" (p. 13).
+- **Meditation cultivates M-autonomy**, and its advanced, open-monitoring
+  stage is meta-awareness that is "effortless and non-agentive" (pp. 11,
+  15).
+
+## Standing in the record
+
+Filed at the owner's request of 2026-11-01 for Metzinger's later work, and
+read for the will-organization line. Its moderate claim, that a capacity
+for control can be held and still not be exercised, is CLAIM-047's
+distinction at the scale of mental action; its fuller statement is in
+LIT-tmp0w298. It carries no instruction for machine-learning practice.
