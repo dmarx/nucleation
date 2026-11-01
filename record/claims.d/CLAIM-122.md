@@ -127,3 +127,29 @@ finite counterexample", without the note of 2026-10-18, which already
 holds A12's Proposition 2 in words. This is the first instance with
 numbers. [CLAIM-116](CLAIM-116.md) still holds: A16, "K is simply a hidden mechanism
 parameter."
+
+## Note of 2026-10-31: a second-hand organizational instance, not proposals-fixed
+
+Tsoukas and Chia ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), read in [NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md)) reread Barrett et
+al.'s account of Total Quality in the US Navy (pp. 578–579). "Junior
+officers in the Navy always put forward suggestions, always adapted
+orders received to their local circumstances". Under the old template
+their ideas "would be channelled in a very time-consuming and
+frustrating manner through the chain of command". After TQ was
+introduced, such changes "were brought into focus, amplified, and earned
+legitimacy" (p. 579). The suggestions were there before and after. What
+changed is whether they could move the organization. This claim says
+the same of firms and persons.
+
+It is not a clean instance. The new template also changed content. It
+let members "notice new things, make fresh distinctions, see new
+connections" (p. 579), so the proposals were not held fixed, and the
+defeater's alternative, a change in what was preferred, is not excluded.
+It is a second-hand reading of a published case, chosen because it
+showed change ([NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md), Limitations). So it is recorded here and
+not as a ground. Tsoukas and Chia's name for what decides whether "local
+changes are amplified and become institutionalized" is the "structural
+context", created largely by senior managers (p. 579, after Burgelman).
+They do not analyse it further. [TERM-023](../terms.d/TERM-023.md) is an analysis of it.
+
+No status, title or warrant changes.

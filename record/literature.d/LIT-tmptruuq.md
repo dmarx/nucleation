@@ -1,0 +1,76 @@
+---
+status: Unavailable
+status_note: >-
+  registered 2026-10-31, not read: no lawful full text was found. Duke's
+  copy (10.1215/9780822383574) and its De Gruyter and JSTOR copies are
+  closed, and OpenAlex reports no open location; the 2021
+  twentieth-anniversary edition (10.1215/9781478021971) is closed too.
+  Only chapter 1, "The Autonomy of Affect", sits on a course page, and a
+  single chapter does not count ([ADR-053](../decisions.d/ADR-053.md)); that essay is filed as
+  [LIT-tmpubqb9](LIT-tmpubqb9.md). The passage the parent paper quotes (pp. 218–219) is not
+  in that chapter.
+title: 'Parables for the Virtual: Movement, Affect, Sensation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Registered, not read, while checking the works Bencherki, Brummans &
+    Vézy (LIT-tmp3mudg) lean on. Citation checked against Crossref: Brian
+    Massumi, Duke University Press, 2002, Post-Contemporary
+    Interventions, DOI 10.1215/9780822383574, ISBNs 9780822328827 and
+    9780822383574. Crossref gives the year only, so `published:` is 1
+    January 2002. Searched on 2026-10-31: OpenAlex, Crossref, the
+    publisher's page and web search. A retailer and a subscription
+    platform offer it; no open copy was found.
+tags:
+- emotion-and-affect
+- metaphysics
+- embodied-cognition
+date: '2026-10-31'
+published: '2002-01-01'
+doi: '10.1215/9780822383574'
+first_author: 'Massumi'
+keywords:
+- 'affect'
+- 'movement'
+- 'sensation'
+- 'virtual'
+- 'body'
+- 'cultural theory'
+implementations: []
+summary: >-
+  Massumi (2002), Duke University Press. Essays on movement, affect and
+  sensation, built on "The Autonomy of Affect" (ch. 1), arguing that
+  cultural theory must start from the body in movement and from affect as
+  intensity rather than from positioned subjects and signification.
+  Unread: registered from metadata and the standard citation.
+---
+<!-- inactive-ok-file: LIT-tmpubqb9 — Unfetched; the essay that is this book's first chapter -->
+
+# LIT-tmptruuq: Parables for the Virtual: Movement, Affect, Sensation
+
+Massumi, B. (2002). *Parables for the Virtual: Movement, Affect,
+Sensation*. Durham, NC: Duke University Press. doi:10.1215/9780822383574.
+
+## Key takeaways
+
+*Registered from metadata, not a reading.* The book revises "The Autonomy
+of Affect" ([LIT-tmpubqb9](LIT-tmpubqb9.md)) as its first chapter and argues for starting
+cultural theory from the body in movement rather than from fixed subject
+positions.
+
+## Why this is here
+
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) quote it for disindividuation
+(p. 1356): "[t]here is self-activity qualitatively expressed, presenting
+an affective order that is not yet 'yours' or 'mine.' There is event.
+There is anomaly. There are jilted expectations" (Massumi 2002, p. 218).
+Such "[a]ffective 'exaggeration'" (p. 219) "must be contained, ordered,
+distributed". They then equate their "excess action" with "what Massumi
+(2002, p. 219) calls 'affective exaggeration'". None of this could be
+checked. One thing should be checked when a copy is supplied: whether
+Massumi's "exaggeration" is an excess to be discharged into others, as
+the parent uses it, or an excess of potential that is never transferred.
+In his later work it is the latter ([LIT-tmp8hcfz](LIT-tmp8hcfz.md), p. 9; [LIT-tmpi0u4n](LIT-tmpi0u4n.md), p.
+29).

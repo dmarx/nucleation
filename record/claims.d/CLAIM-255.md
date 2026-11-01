@@ -65,3 +65,44 @@ It does not decide which variable [QUESTION-029](../questions.d/QUESTION-029.md)
 Two of its three clauses are premises the record does not hold: intended
 meaning fixed at production is [CLAIM-160](CLAIM-160.md), and the act partly constituted by
 roles, standing and norms is [CLAIM-151](CLAIM-151.md), both Proposed.
+
+## Note of 2026-10-31: a theory that merges the variables, and a critique that needs them apart
+
+<!-- inactive-ok-file: THEORY-tmpuh0eb — Proposed; a reading filed on 2026-10-31 and set beside this claim -->
+
+Bencherki 2017 ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md) and [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md))
+makes authorship an outcome: deciding on an author "is the outcome of
+individuation, not its starting point" (p. 786). And: "a being only
+possesses its components from a particular perspective ... possession is
+never complete or univocal" (p. 782). That merges performing an act and
+being recognized as its author into one variable, settled by which
+individuations the action is allowed to count toward. Table 1 (p. 787)
+crosses two such allowances: whether the action may count toward the
+person's individuation, and whether it may count toward the
+organization's.
+
+The paper's critical case needs this claim's split. In the daycare
+excerpt, care work done by military spouses as volunteers is credited to
+the army, and the paper calls this usurpation (pp. 786–792). Usurpation is
+a wrong only if the spouses performed the act and the organization's
+recognition misassigned it. So the case has force only if performance is
+fixed apart from recognition. [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)'s "What this does not say"
+makes the same point from the reading's side. [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md)'s first open
+question asks how channelling is told from usurpation "without a prior
+standard of whose action it rightly was". This claim's decomposition
+gives that standard a place: performance is fixed partly by roles,
+standing and norms, and recognition by uptake, here the institution's.
+
+The parent paper ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) removes the place altogether: "Who or what
+has agency is a premature question" (p. 1357). Its responsibility section
+(pp. 1366–1367) then needs a standard for which individuations ought to
+continue, and [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md) found none supplied.
+
+What this adds is an outside instance, from organizations rather than
+conversation, of an account that merges performance and recognition and
+then needs them apart to say anything critical. It is an argument from a
+reading's internal tension, not evidence for the decomposition. The data
+are a documentary, watched as second-hand ethnography with one side heard
+(pp. 784–785).
+
+No status, title or warrant changes.

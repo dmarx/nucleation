@@ -24,6 +24,7 @@ summary: >-
   domination is too simple. Not shown: where a legitimate precommitment
   ends and an unaccountable one begins.
 ---
+<!-- inactive-ok-file: THEORY-tmpuh0eb — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-344 CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -71,3 +72,23 @@ to the purposes for which it was adopted." The case poses that line and
 does not draw it. Bénabou and Tirole's personal rules ([LIT-1389](../literature.d/LIT-1389.md)) and
 Ainslie's bargaining interests ([THEORY-067](../theory.d/THEORY-067.md)) are the existing accounts it
 would be tested against.
+
+## Note of 2026-10-31: the collective mirror, which separates authorizing an arrangement from attributing its result
+
+Bencherki's daycare (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp. 791–792; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)) is
+a collective case that varies this one along an axis it does not have.
+The spouses consent to the arrangement: "If I volunteered, my daughter
+could go to daycare for free". Nothing is imposed on them in the way
+this case's second person's restriction is. The wrong Bencherki finds is
+in what follows. The army presents the result as "one of the services we
+offer" and the spouses' work "goes unacknowledged, unrecorded, and
+unpaid". So an arrangement can be authorized and its result still
+misattributed. This case asks "who authorized the arrangement". The
+daycare adds a second question: to whom its result is credited. The
+checklist in the same paper (pp. 789–790), presented as the army's
+service with the community named as its maker, is the contrast with
+attribution intact.
+
+It is a second-hand reading of a documentary (p. 785), and it shows the
+distinction, not where either line falls. No status, title or warrant
+changes.

@@ -146,3 +146,30 @@ with the situation held fixed. The curvature belongs to the statistical
 family, whatever is evaluated. So the paper supplies a connection that is
 non-arbitrary and nontrivially curved, and not about context. It is not
 an answer. The question is unchanged and stays Open.
+
+## Note of 2026-10-31: the Simondonian readings fall on the excluded side
+
+<!-- inactive-ok-file: THEORY-tmp4o1dd — Proposed; a reading filed on 2026-10-31, cited as not an answer -->
+
+The readings filed on 2026-10-31 describe one action propagating through
+a series of organizational domains, each reordered as it passes
+(Bencherki and Iliadis, [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. pp. 13–17; [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)). They
+also describe one action with several coexisting significations
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 783). That reads like A19's
+sharper hypothesis, path dependence across organizational frames. It is
+not an answer, for two reasons this question already gives.
+
+- **It is state evolution, not transport.** Communication on this account
+  "organizes a domain as it circulates through it" (proposition 1, ms. pp.
+  21–22). The question sets aside a difference produced because the system
+  changed along the loop, as "substantive state evolution rather than
+  geometric transport".
+- **No connection is fixed.** Domains are told apart by their internal
+  ordering "for practical purposes" (ms. p. 20), so the maps between them
+  are the analyst's. That is [LIT-038](../literature.d/LIT-038.md)'s arbitrariness, which the question's
+  first objection excludes. Coexisting significations are perspectival
+  plurality, and the question's null target is that such plurality does
+  not imply curvature.
+
+The question is unchanged and stays Open. No status, title or warrant
+changes.

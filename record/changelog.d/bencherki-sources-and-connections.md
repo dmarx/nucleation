@@ -1,0 +1,21 @@
+### Added
+
+- The works Bencherki, Brummans and Vézy 2024 lean on, at the owner's request: twenty-three registered, every citation checked and every lawful route recorded. Seven are read: Iliadis 2013, Bencherki & Iliadis 2021, Bencherki 2017, Massumi & McKim 2009, *The Principle of Unrest*, Tsoukas & Chia 2002 and Wilhoit 2016. They come with seven NOTEs and nine Proposed THEORYs. Fifteen are Unavailable and one Unfetched. A curation entry lists them and what the sources show about the paper's use of them.
+- At the owner's word that the readings connect more richly to the record, the readings are read against the record's own lines: pragmatic transport, distributed agency and individuation, will-organization, organizational affect and authenticity, and the nucleating argument. Fifty-three dated notes, and new entries:
+  - [CLAIM-tmpeli2w](record/claims.d/CLAIM-tmpeli2w.md): Simondonian information is a change of interpreter, not Blackwell evidence.
+  - [CLAIM-tmpg3993](record/claims.d/CLAIM-tmpg3993.md): coexisting levels remove the question of how agents add up, not the question of levels.
+  - [CLAIM-tmptb7y2](record/claims.d/CLAIM-tmptb7y2.md): viable reach, valence and emotion are three quantities.
+  - [QUESTION-tmp3wvgk](record/questions.d/QUESTION-tmp3wvgk.md): settling an internal conflict outward.
+  - [QUESTION-tmptu1u2](record/questions.d/QUESTION-tmptu1u2.md): whether knowing needs the inquiry's own history.
+  - [ARG-tmpm57h1](record/arguments.d/ARG-tmpm57h1.md), Rejected: correcting the first filing's link to [CLAIM-418](record/claims.d/CLAIM-418.md).
+
+  A workbench entry records the pass.
+
+- Six ARGs for support relations the connections pass recorded in dated notes ([ADR-061](record/decisions.d/ADR-061.md)).
+  - Proposed: Tsoukas & Chia's radial extension as a second line for [CLAIM-418](record/claims.d/CLAIM-418.md) ([ARG-tmpqydlr](record/arguments.d/ARG-tmpqydlr.md)); the MSF meeting for [CLAIM-430](record/claims.d/CLAIM-430.md)'s first and third parts ([ARG-tmpho2jq](record/arguments.d/ARG-tmpho2jq.md)); Bencherki's checklist and daycare for [CLAIM-518](record/claims.d/CLAIM-518.md) ([ARG-tmpfxh20](record/arguments.d/ARG-tmpfxh20.md)).
+  - Rejected: the Navy TQ case does not hold proposals fixed for [CLAIM-122](record/claims.d/CLAIM-122.md) ([ARG-tmplxoo6](record/arguments.d/ARG-tmplxoo6.md)); the MSF transcript's marks of conflict do not discriminate [CLAIM-484](record/claims.d/CLAIM-484.md) from the paper's reading ([ARG-tmpt8hq5](record/arguments.d/ARG-tmpt8hq5.md)); Simondon's crystallization supports [CLAIM-185](record/claims.d/CLAIM-185.md) only by analogy ([ARG-tmpj58hf](record/arguments.d/ARG-tmpj58hf.md)).
+
+### Changed
+
+- [NOTE-tmpfw3f7](record/notes.d/NOTE-tmpfw3f7.md) and [THEORY-tmpcaccx](record/theory.d/THEORY-tmpcaccx.md) are corrected by the sources. Massumi's formula is a proposition and runs both ways. Hernes's "agency without agents" is an objection he anticipates. Tsoukas & Chia keep reflexive actors. Wilhoit does not make the claim attributed to her. Bencherki 2017 is the ancestor.
+- Each new reading gains a section bearing on the record's own argument, and its THEORYs gain relations to the questions they bear on. Citations of Tsoukas & Chia corrected from p. 580 to p. 579. [LIT-1648](record/literature.d/LIT-1648.md) records a further unsuccessful search for a lawful copy.

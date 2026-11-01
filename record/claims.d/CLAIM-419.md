@@ -143,3 +143,40 @@ disanalogies bear on this claim's limit.
 
 And even with a certified misfit, the least amendment can be hard to find: the
 coarsest split that removes a counterexample is NP-hard (Thm 3).
+
+## Note of 2026-10-31: the misfit as a nonprototypical case, and as disindividuation
+
+<!-- inactive-ok-file: THEORY-tmp9bte2 THEORY-tmpcaccx — Proposed; the readings set beside this claim -->
+
+Two of the readings filed for Bencherki, Brummans and Vézy bear on this
+claim's third outcome.
+
+- **Tsoukas and Chia** ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), pp. 573–575; [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)).
+  Categories are radially structured. Applying one to a nonprototypical
+  case is "an imaginative extension" that widens "the radius of
+  application of the concept, thus transforming it" (p. 574). That act
+  is normative, and "The indeterminacy of extension does not indicate
+  arbitrariness". The amendments listed above are such cases: support
+  that was not dependence ([ADR-044](../decisions.d/ADR-044.md)), and a thought experiment among
+  specimens ([ADR-042](../decisions.d/ADR-042.md)). What the record adds is where the extension
+  happens. For Tsoukas and Chia it happens in use and may never be
+  institutionalized (p. 579). Here the closed vocabularies rule out the
+  silent form: a missing word "is added by decision ... never replaced by
+  the nearest wrong one" (CLAUDE.md). So the extension is made at the
+  case that needed it, as a decision, and institutionalized at once
+  ([CASE-178](../cases.d/CASE-178.md)). Their open question, how a local extension becomes
+  organizational, has a designed answer in this record. This is the
+  record's own case. It does not test [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md), because nobody
+  classified the cases as prototypical before seeing what changed.
+- **Disindividuation** ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1356): "the experience of needing
+  to reorganize in order to deal with a preindividual element that
+  resists incorporation", read at p. 1365 as an "inflection point" that
+  calls "for creativity". This has the structure of the third outcome: a
+  move that does not fit becomes the occasion for reorganizing the
+  grammar. It is analogy only. The paper identifies disindividuation by
+  felt hesitation ([THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)), and the record identifies a misfit
+  by a filer's judgement that a structure is awkward ([LU-DP-016](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-16)). Neither
+  is a check, so this claim's caveat stands: a misfit absorbed without
+  being noticed leaves no decision behind.
+
+No status, title or warrant changes.

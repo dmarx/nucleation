@@ -161,3 +161,39 @@ Hashing-based search stores every point in many tables, each a partition.
 The title and the arrangement clause now carry the condition. The trade this
 claim describes is unchanged for bricks. For copyable items it becomes a
 trade of space against query time.
+
+## Note of 2026-10-31: concurrent significations, and usurpation as a one-copy constraint
+
+<!-- inactive-ok-file: THEORY-tmpuh0eb THEORY-tmp5ux44 — Proposed; the readings this note bears on -->
+
+Bencherki ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp. 782–783; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)) holds that an
+action has as many significations as the individuations it takes part
+in, and that "Concurrent significations ... are not mere
+misunderstandings". The parent paper goes further: "Coexisting meanings
+of the same action indicate that several individuations are ongoing"
+([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358; [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)).
+
+This claim's first clause says why coexistence costs nothing. Judgements
+of one action that are each functions of its determinate features
+jointly refine, so they never conflict as descriptions. The spouses'
+dental plan is "political activity" to the base commander and a
+legitimate demand to the spouses (p. 793). Those are two coordinates of
+one action. So coexistence alone does not tell several individuations
+apart from one action seen by several receivers, and the inference at
+p. 1358 needs more than it states.
+
+The second clause, with [CLAIM-313](CLAIM-313.md), says where conflict does arise: in an
+arrangement that holds each item once. The paper's politics lies there.
+Table 1 (p. 787) asks whether an action may count toward the person's
+individuation, the organization's, or both. Its conflicting cell,
+usurpation, is volunteer-run daycare credited to the army and not to the
+volunteers, which is an attribution held once. Its harmonious cell,
+co-individuation, is the checklist that is at once the community's work
+and a service "we offer", which is the attribution copied. Read across,
+contested authorship is a one-copy constraint on credit, not a clash of
+meanings. This is the same structure, not shown to be the same mechanism.
+Whether organizational credit is exclusive is an empirical matter, and
+the paper's open problem stays open: telling usurpation from legitimate
+incorporation without a prior standard of whose action it was. The
+distributed-agency line may want this as a claim of its own. No status,
+title or warrant changes.

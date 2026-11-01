@@ -1,0 +1,78 @@
+---
+status: Unfetched
+status_note: >-
+  registered 2026-10-31, not read. A copy of the published article (the
+  JSTOR scan of Cultural Critique 31, pp. 83–109) sits on a faculty site,
+  http://www.davidbardschwarz.com/pdf/massumi.pdf, a lawful copy under
+  [ADR-064](../decisions.d/ADR-064.md). A reprint as chapter 1 of Parables for the Virtual sits on a
+  University of Tartu course page,
+  https://sisu.ut.ee/wp-content/uploads/sites/172/massumi._the_autonomy_of_affect-1.pdf.
+  On 2026-10-31 this session's permission system refused the download of
+  both, and the refusal was not worked around. JSTOR (10.2307/1354446) is
+  closed; OpenAlex reports no open copy. A browser and a minute should
+  reach the first address.
+title: 'The Autonomy of Affect'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Registered, not read, while checking the works Bencherki, Brummans &
+    Vézy (LIT-tmp3mudg) lean on. Citation checked against Crossref: Brian
+    Massumi, Cultural Critique no. 31 (The Politics of Systems and
+    Environments, Part II), Autumn 1995, pp. 83–109, published by the
+    University of Minnesota Press, DOI 10.2307/1354446. Crossref gives the
+    year only, so `published:` is 1 January 1995 (ADR-002: when unsure,
+    the earlier date). Revised as chapter 1 of Parables for the Virtual
+    (LIT-tmptruuq) and reprinted in Observing Complexity (Minnesota, 2010,
+    DOI 10.5749/9780816652914-014).
+tags:
+- emotion-and-affect
+- metaphysics
+date: '2026-10-31'
+published: '1995-01-01'
+doi: '10.2307/1354446'
+first_author: 'Massumi'
+keywords:
+- 'affect'
+- 'intensity'
+- 'emotion'
+- 'virtual'
+- 'body'
+- 'cultural theory'
+implementations: []
+summary: >-
+  Massumi (1995), Cultural Critique 31:83–109. The essay that launched the
+  "affective turn" in cultural theory, standardly cited for the claim that
+  affect, as unqualified intensity, is distinct from emotion, which is
+  intensity owned and qualified, and that affect is "autonomous" of
+  meaning and signification. Unread: this summary follows the standard
+  citation and should be checked against the text.
+---
+<!-- inactive-ok-file: LIT-tmptruuq — Unavailable; the book that reprints this essay -->
+
+# LIT-tmpubqb9: The Autonomy of Affect
+
+Massumi, B. (1995). The autonomy of affect. *Cultural Critique*, 31,
+83–109. doi:10.2307/1354446.
+
+## Key takeaways
+
+*Registered from metadata, not a reading.* The essay is standardly cited
+for a distinction between affect, as intensity not yet owned or
+qualified, and emotion, as intensity "owned and recognized", and for the
+thesis that affect is autonomous of signification. These are not checked.
+
+## Why this is here
+
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) cite it twice. "Affect is a
+response to another's action on one's body, prior to one's attribution of
+meaning and signification to that action (Massumi, 1995)" (p. 1354).
+People try to work out how an action affects their individuation
+"un/intentionally, un/consciously, in/voluntarily, and so on (Massumi,
+1995)" (p. 1358). Both are paraphrases, not quotations, and could not be
+checked against the essay. The later interview ([LIT-tmp8hcfz](LIT-tmp8hcfz.md), read) agrees
+that affect comes before content and before the subject ("in the instant
+of the affective hit, there is no content yet", p. 5). It also warns
+against reading affect as between already-formed subjects, which "a
+response to another's action on one's body" comes close to.

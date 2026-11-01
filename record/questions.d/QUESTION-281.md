@@ -170,3 +170,58 @@ frustration route the earlier note took from A23.
 It is still a stated system with the unmaking transition named, apart from the
 geometry of its constraints. That is half of what an answer here asks for. It
 is not a case of frustration making a form.
+
+## Note of 2026-10-31: Simondon's metastability as his organization-studies readers use it
+
+<!-- inactive-ok-block: THEORY-tmp1g3ve THEORY-tmpcaccx THEORY-tmp5ux44 THEORY-tmpl13wj — Proposed; the readings filed 2026-10-31, cited as context -->
+This question's nucleation route, "from a locally stable state" across "a
+finite barrier", is the physical sense of metastability. Simondon's
+individuation, read today through Iliadis 2013 and two organization
+papers, is the resolution of a metastable system. The connection looks
+direct, and in these readings it is not.
+
+- **Their "metastable" is not this question's.** Bencherki and Iliadis
+  gloss metastable systems as those "where energy is not homogeneously
+  distributed" ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. p. 7). Bencherki, Brummans and Vézy
+  call crystals and bureaucracies "organized relatively homogeneously,
+  and ... therefore relatively stable", and sand dunes and start-ups
+  "less stable" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1355). In nucleation the textbook
+  metastable state is a homogeneous supersaturated phase, and the
+  crystal is what resolves it. The readings make metastability a matter
+  of heterogeneity, and they drop the barrier, the waiting time and the
+  seed, the features this question uses to tell nucleation from
+  instability. Iliadis keeps only "Information passes from a state of
+  'metastability to stability'" ([LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md), p. 11). So these readings
+  are not evidence for the nucleation route or illustrations of it.
+  Simondon's own crystal, the paradigm case of a germ seeding a
+  metastable solution, is in [LIT-1648](../literature.d/LIT-1648.md), Unavailable. A reading of it would
+  settle whether his concept is the dynamical one.
+- **What does bear: the form keeps a residue.** "an individuation process
+  does not 'use up' or 'consume' the preindividual it integrates"
+  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1355). An individual "does not exhaust the tensions
+  that allowed its constitution" (Simondon 1989, in [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 782).
+  On this account a form is made while leaving an unresolved remainder,
+  which can start the next individuation. That is the frustration route
+  the note of 2026-10-27 (U15–U23) added, "organizing differences that
+  cannot all be reconciled", in other words. The organizational versions
+  say so in their own terms. "Coexisting meanings of the same action
+  indicate that several individuations are ongoing", against Weick's
+  reduction of equivocality ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358; [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)).
+  Massumi's micropolitics aims at "a maximally inclusive co-patterning
+  of contrasting tendencies", an "affirmation of discord" and not its
+  resolution ([LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 64; [THEORY-tmpl13wj](../theory.d/THEORY-tmpl13wj.md)). A23: "We should not
+  mistake consensus for the general mechanism of individuation." Same
+  structure only: none of these readings has a dynamics, and Torres-Hugas
+  et al. found that frustration in their model does not make a form
+  (the evening note above).
+- **"Pass away" has a name there and no dynamics.** Disindividuation is
+  "the experience of needing to reorganize in order to deal with a
+  preindividual element that resists incorporation" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p.
+  1356), and "moments of disindividuation may constitute important
+  inflection points that call for creativity" (p. 1365). The readings'
+  "dense" fields, which "cannot be reorganized easily when they meet
+  other fields" (p. 1356), suggest a deep basin or hysteresis of the kind
+  [CASE-111](../cases.d/CASE-111.md) models. Nothing in the readings says what the transition is,
+  so these are names for this question's second clause, not answers to it.
+
+The question is unchanged and stays Open.

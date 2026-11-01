@@ -1,0 +1,78 @@
+---
+status: Unavailable
+status_note: >-
+  registered 2026-10-31, not read: no lawful full text was found. Polity
+  gives it no DOI, and no open copy turned up in OpenAlex or web search.
+  The publisher's reading sample (content.e-bookshelf.de, 27 pp.: preface,
+  contributors, sources, and the opening of ch. 1) was read. Chapter 2,
+  where the parent's quotations sit, first appeared as an open interview
+  in Inflexions 3 (2009), filed and read as [LIT-tmp8hcfz](LIT-tmp8hcfz.md).
+title: 'Politics of Affect'
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Registered, not read, while checking the works Bencherki, Brummans &
+    Vézy (LIT-tmp3mudg) lean on. The citation was checked against the
+    copyright page in the publisher's reading sample
+    (https://content.e-bookshelf.de/media/reading/L-3836008-daf9b7c0d4.pdf):
+    Polity, Cambridge, 2015, ISBN 9780745689814 (hb), 9780745689821 (pb).
+    Crossref has no record of it. No day of publication was found, so
+    `published:` is 1 January 2015. The sample's list of first printings
+    gives ch. 2 as Inflexions no. 3 (October 2009). The sample has no
+    page numbers, so the parent's pp. 47–48 could not be matched to the
+    book's pagination.
+tags:
+- emotion-and-affect
+- society-and-governance
+- metaphysics
+date: '2026-10-31'
+published: '2015-01-01'
+url: 'https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/politics-of-affect-978-0-7456-8981-4'
+first_author: 'Massumi'
+keywords:
+- 'affect'
+- 'micropolitics'
+- 'affective attunement'
+- 'collective individuation'
+- 'bare activity'
+- 'ontopower'
+- 'thinking-feeling'
+implementations: []
+summary: >-
+  Massumi (2015), Polity. Six interviews (2002–2014) on affect and
+  politics. Affect is the capacity to affect and be affected, a felt
+  transition in a body's capacities; the book builds on it "differential
+  affective attunement", "collective individuation", "micropolitics" and
+  "ontopower". Unread beyond the publisher's sample; its ch. 2 is read in
+  its first printing, [LIT-tmp8hcfz](LIT-tmp8hcfz.md).
+---
+<!-- inactive-ok-file: THEORY-tmpkdsex — Proposed; the reading of the definition quoted from this book -->
+
+# LIT-tmpe2cnn: Politics of Affect
+
+Massumi, B. (2015). *Politics of Affect*. Cambridge: Polity.
+
+## Key takeaways
+
+*Not read beyond the publisher's sample.* The preface says the book's
+concepts, among them "'differential affective attunement', 'collective
+individuation', 'micropolitics', 'thinking-feeling', 'bare activity',
+'ontopower' and 'immanent critique'", "relay the base definition of affect
+with which the first interview begins". The first interview (with Mary
+Zournazi, 2002) gives it after Spinoza: affect "is this passing of a
+threshold, seen from the point of view of the change in capacity", and
+"every transition is accompanied by a feeling of the change in capacity".
+
+## Why this is here
+
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) take their definition of affect
+from it (p. 1353): affect is "a dimension of every event" (p. 47), "a
+power to affect and be affected [that] governs a transition, where a body
+passes from one state of capacitation to a diminished or augmented state
+of capacitation. This comes with the corollary that the transition is
+felt" (p. 48). They also cite p. 200 for "a field of relation" (pp. 1354,
+1356). The definition was checked word for word against ch. 2's first
+printing ([LIT-tmp8hcfz](LIT-tmp8hcfz.md), p. 1). Page 200 could not be checked. The
+parent's use of the definition is discussed there and in [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md).

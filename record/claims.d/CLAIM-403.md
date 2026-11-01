@@ -221,3 +221,39 @@ whether the institution's judgment then becomes an act, through others
 who must be willing to carry it into deeds. A judgment can be taken up
 and still not be executed, and the ladder above does not name that
 step. The claim is unchanged.
+
+## Note of 2026-10-31: attribution, which the ladder does not name
+
+<!-- inactive-ok-block: THEORY-tmpuh0eb — Proposed; the reading filed 2026-10-31, cited as context -->
+Bencherki 2017 ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md); [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md))
+sorts how an organization treats its members' actions. The sorting
+crosses this ladder rather than adding a rung to it. Table 1 (p. 787)
+asks two things of one action: whether it may count toward the member's
+individuation, and whether it may count toward the organization's.
+
+- **Channeling is a failure of recognition.** The spouses' newsletter
+  on pensions, daycare and dental care was read item by item as
+  "political activity" (pp. 787–788). The contribution was admitted, and
+  the label then licensed treating its authors as trespassers. That is
+  recognition in inapt terms in this claim's sense, with the inapt term
+  doing the excluding.
+- **Usurpation is uptake without attribution.** The volunteer-run daycare
+  is "one of the services we offer" (p. 791). The army "recognizes the
+  actions as its own and incorporates them into its own individuation
+  process, but ignores the women as also being their authors" (p. 792).
+  On the ladder, this contribution passes every rung up to uptake: it is
+  admitted, apt in its terms and acted on in full. What fails is a
+  dimension the ladder does not list, whose contribution the uptake is
+  recorded as. Bencherki's point is that this matters to the contributor
+  even with full uptake, because people need their actions to count
+  toward their own continuing as members (pp. 781–782). It also bears on
+  the top rung. A contributor whose authorship is erased has no standing
+  from which to take part in revising the standards of uptake.
+
+The narrator's "goes unacknowledged, unrecorded, and unpaid" (p. 792)
+names three ways attribution can fail: acknowledgment, record and
+reward. If the ladder is revised, attribution belongs beside it as a
+separate axis, not as a sixth rung. An organization can grant or deny it
+at any rung from uptake down.
+
+No status, title or warrant changes.

@@ -20,6 +20,7 @@ summary: >-
   collective form without will or authorization. This is the
   will-organization form.
 ---
+<!-- inactive-ok-file: THEORY-tmp9bte2 QUESTION-tmp3wvgk — Proposed or Open; Tsoukas and Chia's mechanism of category extension, and the outward route filed as a question -->
 <!-- inactive-ok-file: QUESTION-118 — Open; the collective form of the continuity question, cited as open -->
 
 # QUESTION-364: When an agent's own processes revise its will-organization, what makes the result the continuation of that agent's will rather than a replacement authored by something else, and how can a history of authorization count when the standards for reading authorization are themselves revised?
@@ -75,3 +76,41 @@ Three things are distinct:
 
 The owner judged this possibly the most important remaining connection
 between the record's account of will and its account of normativity.
+
+## Note of 2026-10-31: standards that change by use, and two episodes from the parent paper
+
+The readings filed on this date bear on this question three ways.
+
+- **Authorizing standards can change with no act of revision.** Tsoukas
+  and Chia hold that applying a category to a nonprototypical case is
+  "an imaginative extension" that extends "the radius of application of
+  the concept, thus transforming it", and that "the application of a
+  concept is always a normative act" ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), p. 574;
+  [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)). Change of that kind "occurs naturally, incrementally,
+  and inexorably through 'creep,' 'slippage,' and 'drift'" (p. 579). If
+  the standards by which an organization reads authorization are
+  categories of this kind, a history of authorization may contain no
+  event at which the standard changed. Each application was authorized
+  under the standard as it then stood. That sharpens the question. A
+  criterion of continuation cannot assume that revisions of the
+  authorizing standard are discrete acts that can be checked one by one.
+- **A revision of the standard made in the act.** In the MSF meeting
+  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1359–1363), Robert first applies MSF's standard,
+  "MSF [is] ... not a university", "[they] are not here as educators"
+  (p. 1362). He then extends it until an "ad hoc training program" falls
+  inside, and ends with "at first sight, I don't have major objections"
+  (p. 1363). The paper reads this as MSF's continued individuation. Under
+  this question it is a candidate case of an organization's standard
+  being revised by one of its members during the decision it governs. It
+  cannot be classified from what is published, because nothing records
+  what authority Robert had to reinterpret MSF's mandate. His "at first
+  sight" may be a reservation of that authority.
+- **The personal form of the question, answered by changing the unit.**
+  The parent's climate example asks, "How can I go on as the person I
+  know to be 'myself' now that I feel this urge?" Its answer is to
+  "enlist friends ... and start a local nonprofit", placing the urge in a
+  collective (p. 1356). The person continues by relocating the demand,
+  not by revising their own will-organization. Whether that counts as
+  continuation is filed as part of [QUESTION-tmp3wvgk](QUESTION-tmp3wvgk.md).
+
+None of the three supplies a criterion. No status, title or warrant changes.

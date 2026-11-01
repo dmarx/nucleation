@@ -72,3 +72,22 @@ Adopted by the owner on 2026-10-29. Claims that use "coherent" or
 "consistent" in this sense may name it in `uses`. A narrower rival that
 restricted coherence to gluing would leave agreement between routes and
 around loops without a word.
+
+## Note of 2026-10-31: coexisting meanings are not yet incoherence
+
+<!-- inactive-ok-file: THEORY-tmp5ux44 — Proposed; the reading this note qualifies -->
+
+Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358) set "Coexisting
+meanings of the same action" against Weick's sensemaking as the
+reduction of equivocality. [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)'s Connections reads this as
+"incoherence that is not failure". By this term's definition it is not
+yet incoherence at all. Coherence is agreement under a stated
+correspondence structure, and the paper states none under which the
+meanings would have to agree. [CLAIM-265](../claims.d/CLAIM-265.md) applies: disagreeing local
+descriptions are not thereby incompatible. The dispute with Weick is
+therefore about the correspondence structure, not about the meanings.
+Weick's organizations impose one, since members must act on a shared
+reading. The paper's organizations impose none. The question the paper
+leaves open is when an organization has such a structure: when coexisting
+meanings must be made to agree, and when they can simply coexist. No
+status, title or warrant changes.

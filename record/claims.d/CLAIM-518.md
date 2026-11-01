@@ -125,3 +125,35 @@ does not need one.
 - **That a judgment no one recognizes is false.** "An injustice does not
   cease to be wrong because the institution responsible lacks the
   categories needed to recognize it" (A26).
+
+## Note of 2026-10-31: two cases with one end state and opposite verdicts
+
+Bencherki (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md)) gives a pair of
+cases of the kind this claim needs.
+
+- **The checklist** (pp. 789–790). An army officer presents a
+  community-made checklist as a service "we offer". He also says it was
+  made by the "community": "action is shared between the two". Bencherki
+  classes this as positive co-individuation.
+- **The daycare** (pp. 791–792). The same officer presents the daycare as
+  "one of the services we offer". It runs only because spouses volunteer
+  ("If I volunteered, my daughter could go to daycare for free"), and
+  their work "goes unacknowledged, unrecorded, and unpaid". Bencherki
+  classes this as usurpation.
+
+The end state is the same in both: the army offers a service built on
+the community's work. The verdicts are opposite, and the difference is
+who did the work and whether that is acknowledged. "Usurpation" is a
+judgment of the J_N(γ) kind. It is not a function of the end state, as
+this claim says. It also prescribes nothing: Bencherki does not say what
+the army should do.
+
+Two limits. Part of the difference lies in the present attribution, the
+officer's words, as well as in the history. And the cases are excerpts
+from a documentary whose framing Bencherki follows (p. 785). The parent
+paper ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1366) then does what this claim separates. It
+makes responsibility the prescription of continuations, "the collective
+duty to foster each being-in-becoming". That is 𝒜_N, offered as the
+content of a judgment and not as a further question. [CLAIM-512](CLAIM-512.md) meets it.
+
+No status, title or warrant changes.

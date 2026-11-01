@@ -1,0 +1,102 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-31 ([NOTE-tmpt4ssk](../notes.d/NOTE-tmpt4ssk.md)), from the journal's open-access
+  PDF (CC BY 4.0). A five-page response to Cooren's "Pragmatism as
+  ventriloquism" (Language Under Discussion 2014). Its point is about
+  method: Montréal School CCO's commitment to interaction makes
+  conversation analysis its method of choice, so ventriloquism cannot be
+  the open metamodel for Craig's seven traditions that Cooren proposes.
+  Worth knowing chiefly because Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md))
+  cite it for a claim it does not make, that Cooren's analyses "entify
+  agents".
+title: "Ventriloquism's methodological scope"
+version: 1
+history:
+- version: 1
+  date: '2026-10-31'
+  note: >-
+    Filed and read the same day, as one of the works LIT-tmp3mudg leans
+    on. The citation was checked against Crossref (DOI
+    10.31885/lud.2.1.243, Language Under Discussion 2(1), CC BY 4.0,
+    online 2 March 2016) and the journal's landing page
+    (journals.helsinki.fi/lud/article/view/243). The issue is dated
+    November 2014 on the PDF; the article was received 15 September 2015
+    and published online 2 March 2016, the date used here (ADR-002). The
+    PDF was fetched from journals.helsinki.fi/lud/article/download/243/193
+    and extracted with pdftotext. No anthology check (ADR-048).
+tags:
+- social-science
+- pragmatics
+- philosophy-of-science
+date: '2026-10-31'
+published: '2016-03-02'
+doi: '10.31885/lud.2.1.243'
+url: 'https://journals.helsinki.fi/lud/article/view/243'
+first_author: 'Wilhoit'
+keywords:
+- 'ventriloquism'
+- 'methodology'
+- 'epistemology'
+- 'communicative constitution of organizations'
+implementations: []
+summary: >-
+  Wilhoit (2016), Language Under Discussion 2:45–49. A response to Cooren
+  (2014): Montréal School CCO is ontologically committed to interaction,
+  so it takes conversation analysis as its method of choice, and a
+  ventriloquism carrying those commitments cannot be the open metamodel
+  Craig (1999) asked for. Dialogue is emerging instead from CCO work that
+  uses other methods. It does not say Cooren's analyses "entify agents".
+---
+
+# LIT-tmpxzorc: Ventriloquism's methodological scope
+
+Wilhoit, E. D. (2016). Ventriloquism's methodological scope. *Language
+Under Discussion*, 2(1), 45–49. doi:10.31885/lud.2.1.243.
+
+Read in full in [NOTE-tmpt4ssk](../notes.d/NOTE-tmpt4ssk.md).
+
+## Key takeaways
+
+- Cooren (2014) offered ventriloquism as a pragmatic metadiscourse to
+  bring Craig's (1999) seven traditions of communication theory into
+  dialogue. Wilhoit, extending Craig (2015), argues that it yields "a
+  more unified than dialogic metamodel" (p. 45).
+- The reason is method. The Montréal School is "committed to interaction
+  as the basis of organizing", which results in "CA as CCO's method of
+  choice" (p. 46). Sociopsychological, rhetorical and critical scholars
+  would not adopt those commitments (pp. 46–47).
+- Dialogue is coming from the other direction: CCO studies that use
+  interviews, observation and other non-CA methods (pp. 47–48). Wilhoit
+  reports reviewers rejecting her own non-CA CCO work as not CCO.
+
+## Why this is here
+
+Bencherki, Brummans & Vézy ([LIT-tmp3mudg](LIT-tmp3mudg.md)) cite it three times:
+
+- p. 1351: conversational analysis "creates the impression that
+  already-constituted agents are interacting with one another (Wilhoit,
+  2016; see also Brummans & Vézy, 2022)";
+- p. 1359: CA "traditionally does not question the status of
+  interlocutors as agents (see Wilhoit, 2016)";
+- pp. 1363–1364: "as Elizabeth Wilhoit (2016) noted, while Cooren (2010)
+  theorizes agency from a processual perspective, his analyses still tend
+  to entify agents. This is mainly attributable, Wilhoit suggested, to the
+  interaction/conversation analytic approach he employs."
+
+On reading, only the last sentence's second half is in Wilhoit: she does
+tie the Montréal School to CA (p. 46). The rest is not. Wilhoit never
+says Cooren's analyses entify agents, never contrasts a processual theory
+of agency with entitative analyses, and does not discuss whether CA
+questions the status of interlocutors as agents. Her objection is that
+CA's commitments make ventriloquism too narrow to host other traditions'
+methods. She cites Cooren (2010) only as the earlier,
+organization-bound statement of ventriloquism (p. 46). The nearest thing
+to the parent's point is a remark about the critical tradition: studying
+communication "is never a matter of simply looking at how certain agents
+are made present in language because the language itself has already
+been imbued with power" (p. 47). That is about power, which the parent
+attributes to Bencherki, Matte & Cooren (2019) instead. The parent's
+critique of entification may well be right, but it is the parent's, and
+"see also Brummans & Vézy, 2022" is the citation that would need to
+carry it.

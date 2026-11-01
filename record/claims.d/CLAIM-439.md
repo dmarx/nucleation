@@ -67,6 +67,7 @@ summary: >-
   sufficiency condition, for affect only, and it adopts [THEORY-662](../theory.d/THEORY-662.md)'s sense
   of "felt": attended and available, not a further phenomenal fact.
 ---
+<!-- inactive-ok-file: THEORY-tmpkdsex CLAIM-tmptb7y2 — Proposed; Massumi's affect, and the claim that places its quantity -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; the beautiful-loop account, a rival on sufficiency, cited as open -->
 <!-- inactive-ok-file: CLAIM-438 THEORY-893 — Proposed; the objection and reading filed with this batch, cited as open -->
 <!-- inactive-ok-file: CLAIM-440 CLAIM-355 CLAIM-411 THEORY-662 THEORY-873 THEORY-090 QUESTION-059 QUESTION-048 QUESTION-266 — Proposed, Open or Deferred; the account this extends, the readings it is grounded in and the questions it bears on, cited as open -->
@@ -236,3 +237,22 @@ evaluation, the gate on its influence and the model of the state, can be
 manipulated separately, which is [QUESTION-266](../questions.d/QUESTION-266.md)'s design. [THEORY-570](../theory.d/THEORY-570.md)'s
 Minsky, for whom feelings are descriptions of organizational cascades, is
 the nearest antecedent.
+
+## Note of 2026-10-31: Massumi's "felt" is this claim's unfelt
+
+Massumi's definition of affect, which Bencherki, Brummans and Vézy
+build their agency on, ends "with the corollary that the transition is
+felt" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 1; [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)). His "felt" is not this
+claim's. Microperception "is something that is felt without registering
+consciously. It registers only in its effects" (p. 4), and the onset of
+experience is "by nature imperceptible". On this claim, a change that
+reaches other processes only through its effects, with no deeper
+process modelling it, is unfelt valence, as Brouillet and Friston's
+unfelt fluency "orients attention". So when the parent paper says
+agency "can therefore be felt, observed, experienced" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1363), its sense of the word
+does not meet this claim's condition, and nothing in it bears on
+whether that condition is right. The two uses should not be merged.
+[CLAIM-tmptb7y2](CLAIM-tmptb7y2.md) also separates the quantity Massumi's affect is about
+from valence.
+
+No status, title or warrant changes.

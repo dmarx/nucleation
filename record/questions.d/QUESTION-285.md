@@ -193,3 +193,41 @@ A29 listed "endogenous repertoire expansion" among its hardest problems:
 building new kinds of experiment, reconstruction or governance beyond a
 family given in advance. That is this question's second clause, and no new
 question is filed for it.
+
+## Note of 2026-10-31: Simondon's signification at the measurement rung
+
+<!-- inactive-ok-block: THEORY-tmp1g3ve THEORY-tmp5ux44 — Proposed; the readings filed 2026-10-31, cited as context -->
+The Simondonian readings filed today ([THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md), [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md))
+give an observer-free account of meaning, and it lands on this question's
+second rung and stops there.
+
+- **A19's definition of measurement, in other words.** Bencherki and
+  Iliadis: "communication must be taken up by the receiving domain, which
+  can only welcome this new contribution if it ... is already structured
+  in such a way to allow for the new action to make any difference. The
+  difference that is made is the signification". The same two students
+  talking "mean" a disturbance in a classroom and play at recess
+  ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. p. 7). That is "an interaction organized to make
+  particular differences consequential in the state of another system"
+  (A19 §2), with the receiver's prior ordering doing the organizing.
+  They extend it to any chain, finger to keyboard to router to screen,
+  "each time reordering a domain" (the same page).
+- **It does not separate the rungs above.** Signification is any
+  reordering, so record, redundant record and use are not told apart,
+  and nothing counts as a failure to inform ([NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md), "Open
+  questions"). That is RQM's place in this question's "Each rung needs a
+  criterion": every interaction qualifies.
+- **A distinction near the top rung.** Iliadis quotes Simondon: information
+  can be "exchanged between beings already individuated" but also "within
+  systems to come that produce a new individuation" ([LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md), p. 11,
+  citing Simondon 2007, p. 234). The first is exchange through a fixed
+  receiver; the second changes the receiver's own structure. That is the
+  difference between A fixed and G changing which distinctions A makes,
+  stated without a criterion. Same structure only.
+- **Nothing on answerability.** Bencherki and Iliadis's fourth
+  proposition, that knowledge should "reflect on the way that knowledge
+  itself has individuated" (ms. p. 22), is reflexive in the sense of
+  this question's second clause. It says nothing about what the
+  reflection may not rewrite, which is the open part ([CLAIM-342](../claims.d/CLAIM-342.md)).
+
+The question is unchanged and stays Open.

@@ -350,3 +350,52 @@ shown that does not follow from [CLAIM-469](CLAIM-469.md)'s operational facts,
 2012 essay, now read, supplies the cut but no account of the apparatus, so
 the constitutive sense the title names rests on [TERM-087](../terms.d/TERM-087.md)'s second-hand
 clause, which waits on a reading of [LIT-1657](../literature.d/LIT-1657.md).
+
+## Note of 2026-10-31: Simondon's method as a second constitutive template
+
+<!-- inactive-ok-file: LIT-1648 QUESTION-tmptu1u2 TERM-087 — Unavailable, Open or Proposed; Simondon's book unread, the question filed from this note, and the term's senses -->
+
+The parent paper ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1366) quotes Simondon's English
+translation ([LIT-1648](../literature.d/LIT-1648.md), unread here, p. 14). Research "consists in
+following the being in its genesis, in accomplishing the genesis of
+thought at the same time as the genesis of the object". It concludes that
+"researchers can only investigate individuation processes by/while
+individuating into others". Bencherki and Iliadis ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md),
+proposition 4) make it a rule: knowledge of an entity "should reflect on
+the way that knowledge itself has individuated".
+
+What this does for the claim:
+
+- **It is a template without the quantum premise.** The claim stands on
+  the template reading of Barad, and Barad's apparatus comes tied to a
+  disputed reading of quantum mechanics ([THEORY-1071](../theory.d/THEORY-1071.md)). Simondon's
+  co-genesis of thought and object is a second constitutive template for
+  the same point: knower and known are not individuated before the
+  inquiry. It rests on no physics of measurement. It is read here only at
+  second hand. It is also stronger than this claim, since it covers any
+  object of research and this claim covers only a record's objects.
+  [CLAIM-470](CLAIM-470.md) disclaims the general form: "That inquiry makes what it
+  investigates."
+- **It does not answer the first defeater.** Neither reading derives a
+  consequence of co-genesis that the operational description ([CLAIM-469](CLAIM-469.md))
+  would miss; both quote it. [QUESTION-tmptu1u2](../questions.d/QUESTION-tmptu1u2.md) asks for one such
+  consequence in a form the record could test: whether knowing a
+  record's objects, and not only revising them, needs the record's
+  history. The two-apparatus experiment this claim proposes is the way to
+  run it, with one arm that keeps its history and one that keeps only its
+  current state.
+- **The record is a worked case of the method the paper asks for.** The
+  paper's open question (p. 1366) is "What kind of methodologies and
+  methods/techniques ... would help us" to "express our own individuation
+  in relation to the individuation of others in our work". The workbench
+  journal, history notes, supersession and the decision-recorded grammar
+  revisions ([CASE-178](../cases.d/CASE-178.md)) keep this inquiry's development beside its
+  objects'. That is a case of the practice, not evidence for the ontology
+  behind it.
+- **The paper's "agential cut" is not always this claim's.** At p. 1357
+  the cut is "but an analytical choice", and agency "a matter of
+  perspective". At p. 1366 researcher and researched individuate into each
+  other. Only the second is the constitutive sense this claim borrows
+  ([TERM-087](../terms.d/TERM-087.md), note of this date).
+
+No status, title or warrant changes.

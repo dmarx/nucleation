@@ -52,6 +52,7 @@ supports:
 uses:
 - TERM-094
 ---
+<!-- inactive-ok-file: THEORY-tmpkdsex CLAIM-tmptb7y2 — Proposed; Massumi's affect, and the claim that places its quantity -->
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
 
@@ -145,3 +146,19 @@ record holds no claim showing either that action readiness with control
 precedence ([TERM-094](../terms.d/TERM-094.md)) can be had without hedonic valence, or that Veit's
 identity, argued for animal valence and rated a sketch in [THEORY-101](../theory.d/THEORY-101.md), does
 not extend to it. A claim that settles either would answer it.
+
+## Note of 2026-10-31: Massumi's affect is a different characterization, and neither grounds nor defeats this one
+
+Massumi's affect ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 1; [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)), which Bencherki,
+Brummans and Vézy take up, is not a Frijda-style functional
+characterization. It is "an event, or a dimension of every event", the
+felt transition of a body's capacitation. Emotion is "a very partial
+expression" of it. It is pre-subjective, and it is offered as "a
+proposition", not a definition to apply (p. 3). It does not meet this
+claim's defeater, because it is not a Frijda-style characterization that
+an organization fails. It gives the claim no ground, because it says
+nothing about action readiness or control precedence. What it adds is a
+quantity this line had no name for, a change in what an organization can
+do. [CLAIM-tmptb7y2](CLAIM-tmptb7y2.md) places it beside emotion and valence.
+
+No status, title or warrant changes.

@@ -28,6 +28,7 @@ summary: >-
   The distinction the paper inherits from Frankfurt ([THEORY-120](../theory.d/THEORY-120.md)) and
   generalizes beyond desires: the audit's "established foundation".
 ---
+<!-- inactive-ok-file: CLAIM-484 — Proposed; the claim-grant gap, cited to keep it apart from this claim -->
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -50,3 +51,26 @@ in [THEORY-120](../theory.d/THEORY-120.md), Frankfurt's account of ownership, wh
 claim uses Frankfurt's unwilling addict and none of the account's thesis
 about identification or responsibility. The case is now [CASE-181](../cases.d/CASE-181.md),
 reported in [LIT-692](../literature.d/LIT-692.md) and read in [NOTE-545](../notes.d/NOTE-545.md), and the claim is grounded in it.
+
+## Note of 2026-10-31: three surpluses the readings run together
+
+The readings filed on this date each name something available that does
+not act. The record keeps three such things apart.
+
+- **An available regime that is not effective.** This claim.
+- **A claim to precedence that is not granted.** [CLAIM-484](CLAIM-484.md)'s gap. The
+  parent paper's "excess action", "the feelings you cannot deal with,
+  unchanneled energy, skills in search of an outlet" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p.
+  1351), is closest to this.
+- **Potential not yet captured into any regime.** Massumi's "excess of
+  activity over action" ([LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 29) and the "surplus of
+  unacted-out potential that is collectively felt" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 7).
+  [NOTE-tmpn58uh](../notes.d/NOTE-tmpn58uh.md) observes that the parent's excess action is closer to
+  Massumi's "capture" than to his "excess".
+
+This claim covers only the first. Keeping the three apart lets the
+record separate what the parent's "excess action" joins: a regime that
+is available and idle, a claim that is refused, and a potential that no
+regime yet carries.
+
+No status, title or warrant changes.
