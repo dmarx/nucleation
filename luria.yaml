@@ -1605,6 +1605,10 @@ lint:
   - inverted_ground
   - answered_but_open
   - answered_but_open_reading
+  # A close reading of a work the record says it never reached (ADR-068).
+  - read_but_unreached
+  - read_but_unfetched
+  - read_but_unreviewed
   # A count that may fall and may not rise (ADR-057, mechanism 5). `load-bearing`
   # is left a warning: filing a claim on a Proposed premise is ordinary work.
   baseline:
@@ -1632,6 +1636,22 @@ patterns:
     match: "(q:QUESTION {status: 'Open'})<-[:answers]-(t:THEORY {status: 'Active'})"
     report: true
     blurb: An Open question with an Active reading as its answer, which ADR-049 says is Answered or split (ADR-060).
+  # A Read note is the full text, read closely; Unavailable and Unfetched
+  # say no full text was reached, and Deferred that it was not read closely
+  # enough to place. None can hold beside it. A Skimmed note can: a
+  # précis or an introduction is a skim of an unreached work (ADR-068).
+  read_but_unreached:
+    match: "(n:NOTE {status: 'Read'})-[:paper]->(l:LIT {status: 'Unavailable'})"
+    report: true
+    blurb: A Read note on a work marked Unavailable; either the copy was reached and the LIT returns to reading, or the note is Skimmed (ADR-068).
+  read_but_unfetched:
+    match: "(n:NOTE {status: 'Read'})-[:paper]->(l:LIT {status: 'Unfetched'})"
+    report: true
+    blurb: A Read note on a work marked Unfetched; either the copy was reached and the LIT returns to reading, or the note is Skimmed (ADR-068).
+  read_but_unreviewed:
+    match: "(n:NOTE {status: 'Read'})-[:paper]->(l:LIT {status: 'Deferred'})"
+    report: true
+    blurb: A Read note on a work marked Deferred, which says it was not read closely enough to place; place the LIT, or the note is Skimmed (ADR-068).
   # A claim and the claims an argument draws it from. No field holds this:
   # the conclusion is the ARG's `concludes`, the premises its `rests_on`. So
   # the `argument` chain walks it beside `rests_on`, and each step it adds
