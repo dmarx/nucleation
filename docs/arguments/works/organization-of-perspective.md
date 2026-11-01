@@ -6,7 +6,7 @@
 
 **The Organization of Perspective** — the owner's manuscript, drafted 2026-10-22 from the exchange "Graph Learning Applications" (A34), superseding a plan of four 6,000-word essays: Character, Practical Authority, and Historical Persistence Across Minds and Institutions. An organizational perspective as a historically realized pattern through which information becomes salient, interpretable, evaluable and consequential for action, kept apart from its carriers, its lineage, the agents it serves and phenomenal subjectivity; Clive Wearing, Challenger and aviation safety, party realignment and commitments across political succession as its cases.
 
-1 of 49 ARG documents. Back to the [full index](../README.md).
+1 of 50 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

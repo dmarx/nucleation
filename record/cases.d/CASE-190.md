@@ -122,7 +122,7 @@ is [CLAIM-475](../claims.d/CLAIM-475.md), which A19 announced as a discovery.
 
 ## Note of 2026-11-01: a teacher and student in the memory literature
 
-Bechtel and Abrahamsen ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), p. 331) report McClelland et al.'s
+Bechtel and Abrahamsen ([LIT-1936](../literature.d/LIT-1936.md), p. 331) report McClelland et al.'s
 (1995) consolidation model. The hippocampus acts as trainer, replaying
 items to a neocortex network that learns slowly. The hippocampus is not
 modelled: its interleaved output is supplied from outside, and stopping
@@ -141,6 +141,6 @@ for this case. Same structure, not shown same mechanism.
   student's dependence on the teacher would test it.
 
 Both models are de novo in Bechtel and Abrahamsen's sense
-([THEORY-tmpakm3a](../theory.d/THEORY-tmpakm3a.md)).
+([THEORY-1290](../theory.d/THEORY-1290.md)).
 
 No status, title or warrant changes.

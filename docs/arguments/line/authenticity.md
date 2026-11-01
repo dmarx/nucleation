@@ -6,7 +6,7 @@
 
 **Authenticity and concordance** — what makes a will-organization the agent's own, and normativity across the scales an agent spans. Set aside on 2026-10-05 as future work.
 
-1 of 49 ARG documents. Back to the [full index](../README.md).
+1 of 50 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

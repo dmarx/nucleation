@@ -183,9 +183,9 @@ ontology reproduces the categorical identification.
 
 ## Note of 2026-11-01: a proved instance, for mechanisms
 
-<!-- inactive-ok-block: THEORY-tmp3pqnm — newly filed; a proved instance of this claim's pattern -->
+<!-- inactive-ok-block: THEORY-1288 — newly filed; a proved instance of this claim's pattern -->
 Baumgartner & Gebharter (2016) prove a case of this claim's pattern
-([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)). If a whole supervenes on its parts and constitution
+([THEORY-1288](../theory.d/THEORY-1288.md)). If a whole supervenes on its parts and constitution
 is not causal, then every constitutive model of a mechanism has a pure
 common-cause model that fits all the manipulation data equally well,
 even under ideal conditions. Interventional evidence underdetermines

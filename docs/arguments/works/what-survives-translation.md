@@ -6,7 +6,7 @@
 
 **What Survives Translation?** — the owner's working manuscript, drafted October 2026: contextual pragmatic information transport, combining structuralism, speech-act pragmatics, sheaf-theoretic contextuality, symmetry, rate–distortion and Blackwell comparison, conditional diffusion and iterated learning.
 
-5 of 49 ARG documents. Back to the [full index](../README.md).
+5 of 50 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

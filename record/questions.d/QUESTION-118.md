@@ -199,7 +199,7 @@ Neither reading separates continuation from independent reconstitution.
 The question is unchanged and stays Open.
 
 ## Note of 2026-11-01: Griesemer and Shavit on community reproduction, re-read
-<!-- inactive-ok-block: LIT-188 LIT-tmpjjlyw THEORY-418 — Deferred, unread; Proposed; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 LIT-1932 THEORY-418 — Deferred, unread; Proposed; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 [LIT-188](../literature.d/LIT-188.md) ([NOTE-173](../notes.d/NOTE-173.md), re-read in full on 2026-11-01) bears on this question
 from the side of reproduction, not persistence, and [THEORY-418](../theory.d/THEORY-418.md) already
@@ -207,7 +207,7 @@ says so. Three points the earlier connection did not record:
 
 - **A criterion that not every causal descendant meets.** On Griesemer's
   account of inheritance, which the paper adopts (§3; the source is
-  registered unread as [LIT-tmpjjlyw](../literature.d/LIT-tmpjjlyw.md)), offspring develop from a "sample"
+  registered unread as [LIT-1932](../literature.d/LIT-1932.md)), offspring develop from a "sample"
   of the parent's material parts, and "sampling propagates more than mere
   resemblance in virtue of the offspring propagule having originated from
   parts of the parents". A group founded by migrants drawn from the parent

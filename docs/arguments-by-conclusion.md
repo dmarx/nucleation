@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 54 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 55 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 29 matches
 
@@ -134,3 +134,5 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
     - [CLAIM-520](../record/claims.d/CLAIM-520.md) — The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker's expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange's model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration *(Active, thesis)*
 - [CLAIM-518](../record/claims.d/CLAIM-518.md) — Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment *(Proposed, thesis)*
   - [ARG-043](../record/arguments.d/ARG-043.md) — Bencherki's checklist and daycare, one end state with opposite verdicts, show a normative judgment about an organization that depends on a history its end state does not show *(Proposed, evidence)*
+- [CLAIM-522](../record/claims.d/CLAIM-522.md) — Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two *(Active, thesis)*
+  - [ARG-050](../record/arguments.d/ARG-050.md) — An intervention that disables a production pathway inside a declared boundary, or interrupts an outside controller, locates the producer of a maintained organization, because the pathway causes the capacities with a delay and can be intervened on surgically, so the fat-handedness of interventions on wholes does not reach the inference *(Active, contrast)*

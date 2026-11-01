@@ -379,8 +379,8 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: being a constituent is fixed by the configuration a part enters
 
-<!-- inactive-ok-block: THEORY-tmpy9dyw — Proposed; filed 2026-11-01, cited as context -->
-Baumgartner and Casini ([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md), p. 16; [THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)) define a
+<!-- inactive-ok-block: THEORY-1294 — Proposed; filed 2026-11-01, cited as context -->
+Baumgartner and Casini ([NOTE-1490](../notes.d/NOTE-1490.md), p. 16; [THEORY-1294](../theory.d/THEORY-1294.md)) define a
 part's constitutive relevance to a phenomenon as "an extrinsic property of
 that pair, which depends on whether Φi is contained in a constituting
 set": a part is a constituent only as a member of a redundancy-free set

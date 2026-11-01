@@ -6,7 +6,7 @@
 
 **The Self as a Recursive Ecology of Meaning and Influence** — the owner's manuscript idea, proposed 2026-10-13 from an exchange on meaning operators: a self as a metastable, recursively composed organization of processes that transform shared meaning and allocate authority to one another by endorsement, with trust, specialization and higher-level agency emerging rather than imposed; r/place as the observable case, and a constitutive question kept apart from the explanatory one.
 
-1 of 49 ARG documents. Back to the [full index](../README.md).
+1 of 50 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

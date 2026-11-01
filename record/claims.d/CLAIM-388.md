@@ -125,10 +125,10 @@ within-module rates, by symmetry rather than modularity ([NOTE-1030](../notes.d/
 ## Note of 2026-11-01: closure is tested by the interventions the constitution debate allows
 
 <!-- inactive-ok-block: CLAIM-526 — Proposed; cited as context -->
-Baumgartner and Gebharter ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md), p. 20) note an asymmetry
+Baumgartner and Gebharter ([NOTE-1493](../notes.d/NOTE-1493.md), p. 20) note an asymmetry
 between levels. A whole's parts can be changed without the whole changing,
 since several micro states realize one macro state. The whole cannot be
-changed without some part changing ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)). This claim's closure
+changed without some part changing ([THEORY-1288](../theory.d/THEORY-1288.md)). This claim's closure
 is a statement about the first kind of change. The sum is exactly
 dynamically independent because any redistribution of activity among the
 units that leaves the sum fixed leaves the sum's future unchanged. Those

@@ -71,7 +71,7 @@ single constraint of its own cannot realise closure.
   organizational form, a precondition of agency that does not suffice.
 
 ## Note of 2026-11-01: closure of interactions, and entrenchment
-<!-- inactive-ok-block: LIT-188 CLAIM-tmpr242r — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 CLAIM-531 — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §3; [NOTE-173](../notes.d/NOTE-173.md)) adopt this term from Moreno
 and Mossio for social groups: "community requires 'organizational
@@ -89,7 +89,7 @@ citing them should know:
   which later interactions depend on core ones. Both are met by a one-way
   dependency order whose core depends on nothing in the set. The term
   needs every member to be depended on and to depend on another member.
-  [CLAIM-tmpr242r](../claims.d/CLAIM-tmpr242r.md) states the gap, and what an order that is both
+  [CLAIM-531](../claims.d/CLAIM-531.md) states the gap, and what an order that is both
   entrenched and closed would look like.
 
 No status, title or warrant changes.

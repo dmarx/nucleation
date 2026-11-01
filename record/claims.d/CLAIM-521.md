@@ -82,7 +82,7 @@ property from coupling-based individuation".
 
 ## Note of 2026-11-01: where coupling carries maintenance, the dissociation fails
 
-Bechtel and Abrahamsen ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), p. 327) report To et al.'s (2007)
+Bechtel and Abrahamsen ([LIT-1936](../literature.d/LIT-1936.md), p. 327) report To et al.'s (2007)
 model of the SCN. About 40% of cells can sustain oscillation alone, and
 without the coupling peptide VIP about 60% become arrhythmic. For those
 cells the coupling is what maintains the oscillation. That is the

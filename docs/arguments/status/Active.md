@@ -6,7 +6,7 @@
 
 **The current account** — the best explanation the record holds for why this happens.
 
-5 of 49 ARG documents. Back to the [full index](../README.md).
+6 of 50 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [ARG-006](../../../record/arguments.d/ARG-006.md) v3 | If the transport intertwines each framing operation exactly, it intertwines their commutator, so a translation that preserves the framing operations preserves their noncommutativity | A34 §4: from ΦA_o = A_tΦ and ΦB_o = B_tΦ, Φ[A_o,B_o] = [A_t,B_t]Φ follows algebraically. The algebra holds; the conclusion holds only of Φ's image unless Φ is informative (A40 §6.4). | Active |
 | [ARG-007](../../../record/arguments.d/ARG-007.md) | Stability does not entail viability, and the emergency regime keeps its operation and its governance while its transformation capacity degrades, so effective action and the capacity to govern among regimes are different achievements | The argument for the paper's main result (Section 6.11). Linked: all three premises are needed. Canguilhem is not among them. | Active |
 | [ARG-008](../../../record/arguments.d/ARG-008.md) v2 | A language model's response to its context is functionally a parameterized frame, so context-conditioned models give a controlled setting in which to test the theory | The owner's U17 analogy, which A43 enlarged into "the primary formal example". Undercut by the assistant in its own outlines: a prompt is not a social situation, model behaviour need not match human inference, and judging with the generating model measures only its preferences. | Active |
+| [ARG-050](../../../record/arguments.d/ARG-050.md) | An intervention that disables a production pathway inside a declared boundary, or interrupts an outside controller, locates the producer of a maintained organization, because the pathway causes the capacities with a delay and can be intervened on surgically, so the fat-handedness of interventions on wholes does not reach the inference | Filed on reading the fat-handedness debate after Craver (Baumgartner & Gebharter 2016, Baumgartner & Casini 2017, Baumgartner, Casini & Krickel 2020). The doubt: since every intervention on a whole also acts on its parts along another path, intervention data cannot show what a whole consists in, so they might not show where maintenance is realized either. Answered: [CLAIM-522](../../../record/claims.d/CLAIM-522.md)'s interventions act on diachronic causes, not on a whole and its parts at a time, so the inference holds. Its weakest step is the boundary, which the inference takes as declared and no intervention supplies. | Active |

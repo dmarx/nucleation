@@ -6,7 +6,7 @@
 
 **Evidence** — an observation or result supports a hypothesis. Critical questions: would the evidence be expected if the hypothesis were false? Does it tell the hypothesis apart from its rivals? Does the measure measure what it is said to? (ADR-061).
 
-22 of 49 ARG documents. Back to the [full index](../README.md).
+22 of 50 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

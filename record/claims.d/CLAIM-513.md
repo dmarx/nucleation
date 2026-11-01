@@ -74,10 +74,10 @@ table is competent in the theorem's sense and yields the same world model
 
 ## Note of 2026-11-01: "realized inside" has two readings, and interventions settle one
 
-<!-- inactive-ok-block: CLAIM-tmp1qybv CLAIM-515 — Proposed; cited as context -->
+<!-- inactive-ok-block: CLAIM-528 CLAIM-515 — Proposed; cited as context -->
 The claim leaves open "whether a predictive component is realized inside
-the agent". The constitution debate read today ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md),
-[CLAIM-tmp1qybv](CLAIM-tmp1qybv.md)) separates two things that phrase could mean. (1) The
+the agent". The constitution debate read today ([THEORY-1288](../theory.d/THEORY-1288.md),
+[CLAIM-528](CLAIM-528.md)) separates two things that phrase could mean. (1) The
 agent's competence is produced through an internal state that carries
 predictions and later shapes action. That is causal. An intervention on
 the state, such as a patch to it, can be surgical, and it is what tells

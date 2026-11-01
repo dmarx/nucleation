@@ -128,20 +128,20 @@ constituting a whole's behaviour.
   them, every cause of the whole is a common cause of it and some part, so
   "For every model featuring constitution there exists a pure common-cause
   model that entails the very same correlations under manipulations"
-  (Baumgartner and Casini, [NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md), p. 10; [THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)). This is
+  (Baumgartner and Casini, [NOTE-1490](../notes.d/NOTE-1490.md), p. 10; [THEORY-1288](../theory.d/THEORY-1288.md)). This is
   the outcome the question foresaw ("If none does, that is itself an
   answer"), proved for this relation, and it survives ideal experimental
   conditions.
 - **A second-order pattern can.** Constitution is preferred when every
   attempt to find a cause of the whole that spares the candidate parts
-  fails as the variables studied are expanded ([THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)). The
+  fails as the variables studied are expanded ([THEORY-1294](../theory.d/THEORY-1294.md)). The
   inference is abductive and never conclusive.
 - **Or one restricted intervention can, at a price.** An intervention that
   changes a part and the whole at the same time, touching nothing else on
   that level, suffices, given that realization is simultaneous and that
-  parthood and levels are already settled ([THEORY-tmpv5g3z](../theory.d/THEORY-tmpv5g3z.md)).
+  parthood and levels are already settled ([THEORY-1293](../theory.d/THEORY-1293.md)).
 - **Neither route supplies the boundary.** All three papers take parthood
-  as given. Leuridan's endosymbiosis counterexample ([LIT-tmpgs9lv](../literature.d/LIT-tmpgs9lv.md), from its
+  as given. Leuridan's endosymbiosis counterexample ([LIT-1929](../literature.d/LIT-1929.md), from its
   abstract only) is aimed at reading parthood as spatiotemporal inclusion.
   So for this relation the question's second half, whether a detected,
   maintained or constituted boundary differ, is prior to the evidential
@@ -151,7 +151,7 @@ Two cautions. The relation is part–whole realization, not relations
 constituting the identity of their relata, which is what the question
 asks. The form of the evidential problem carries over; that it is the
 same problem has not been shown. And the debate draws the line between
-causation and constitution at simultaneity, which [CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md) argues
+causation and constitution at simultaneity, which [CLAIM-528](../claims.d/CLAIM-528.md) argues
 moves with the time scale of the description. So "constitutive" may be
 relative to a resolution, as [CLAIM-405](../claims.d/CLAIM-405.md) says other individuation verdicts
 are.

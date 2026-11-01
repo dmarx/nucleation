@@ -125,9 +125,9 @@ demonstrated twice: noise is closed, and closure does not compose
 
 ## Note of 2026-11-01: top-down influence without top-down causes
 
-<!-- inactive-ok-file: THEORY-tmpb393n CLAIM-tmpg57ci — Proposed; the readings and claim filed from the mechanism literature, cited as open -->
+<!-- inactive-ok-file: THEORY-1291 CLAIM-530 — Proposed; the readings and claim filed from the mechanism literature, cited as open -->
 
-Craver and Bechtel ([LIT-tmpgntir](../literature.d/LIT-tmpgntir.md), [THEORY-tmpb393n](../theory.d/THEORY-tmpb393n.md)) read the influence of
+Craver and Bechtel ([LIT-1928](../literature.d/LIT-1928.md), [THEORY-1291](../theory.d/THEORY-1291.md)) read the influence of
 a whole on its members as a mechanistically mediated effect. Members are
 "enlisted in the ride" by intralevel causation, and the whole's condition
 is constituted by theirs. On that reading none of this question's four
@@ -135,6 +135,6 @@ criteria needs top-down causation in a stronger sense. A coalition can
 have interventional autonomy without causing anything "downward". Their
 framework does not help choose among the criteria. Its experiments find
 a mechanism's components only relative to a boundary drawn beforehand
-([CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md)), so they cannot supply self-individuation.
+([CLAIM-530](../claims.d/CLAIM-530.md)), so they cannot supply self-individuation.
 
 No status, title or warrant changes.

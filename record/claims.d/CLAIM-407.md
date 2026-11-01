@@ -217,7 +217,7 @@ claim is unchanged.
 
 ## Note of 2026-11-01: a reduced circadian model as a possible instance
 
-Bechtel and Abrahamsen ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md)) report two models of
+Bechtel and Abrahamsen ([LIT-1936](../literature.d/LIT-1936.md), [NOTE-1492](../notes.d/NOTE-1492.md)) report two models of
 the Drosophila clock.
 - Leloup and Goldbeter model light as a doubling of TIM's degradation
   rate, which reproduces phase shifts (p. 325).

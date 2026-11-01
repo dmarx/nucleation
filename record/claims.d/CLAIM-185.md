@@ -266,7 +266,7 @@ at is [CLAIM-184](CLAIM-184.md)'s question, and the readings do not answer it. N
 title or warrant changes.
 
 ## Note of 2026-11-01: the same shape in Griesemer and Shavit's entrenchment
-<!-- inactive-ok-block: LIT-188 LIT-tmp9dwb5 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 LIT-1926 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §2; [NOTE-173](../notes.d/NOTE-173.md)) describe the step from a
 connected collection to a community in this claim's terms, for social
@@ -276,7 +276,7 @@ fixed, other interactions ... can be stably assembled on top of—i.e. as
 depending on—what become 'core' interactions." Persistence comes first,
 then structure is built on what persists. They take the idea from
 Wimsatt's generative entrenchment, now registered unread as
-[LIT-tmp9dwb5](../literature.d/LIT-tmp9dwb5.md), the general source this line's anchor claims lack. Same
+[LIT-1926](../literature.d/LIT-1926.md), the general source this line's anchor claims lack. Same
 structure, not shown same mechanism: theirs is about social interactions
 in evolution, and this claim is about an argument's entries. The paper
 adds a point this claim does not make: "stabilization of the network

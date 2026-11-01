@@ -229,7 +229,7 @@ hold a position this claim denies, and do not argue for it.
 No status, title or warrant changes.
 
 ## Note of 2026-11-01: reproduction, individuality and inheritance in Griesemer and Shavit
-<!-- inactive-ok-block: LIT-188 CLAIM-tmpr242r — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 CLAIM-531 — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 [LIT-188](../literature.d/LIT-188.md) ([NOTE-173](../notes.d/NOTE-173.md), re-read 2026-11-01) is a source for this claim's form,
 from evolutionary transitions, though it does not say so.
@@ -255,7 +255,7 @@ from evolutionary transitions, though it does not say so.
 - **Persistence without autonomy, as an outcome.** One of the three fates
   of a conexus is to persist, unstable, "maintained by external
   ecological scaffolding" (§2), which is this claim's "persistence without
-  autonomy". [CLAIM-tmpr242r](CLAIM-tmpr242r.md) adds that entrenchment can also hold without
+  autonomy". [CLAIM-531](CLAIM-531.md) adds that entrenchment can also hold without
   closure.
 
 No status, title or warrant changes.

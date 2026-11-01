@@ -36,7 +36,7 @@ history:
     the paper asserts closure beside entrenchment. Only the shared goal
     defines Stage 3 (§1); belonging and identity are what collaboration
     "may contribute to". The charge that Stage 3 presupposes the group
-    rests better on §3. CLAIM-tmpr242r argues that entrenchment does not
+    rests better on §3. CLAIM-531 argues that entrenchment does not
     give closure.
 tags:
 - philosophy-of-biology

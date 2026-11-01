@@ -98,8 +98,8 @@ the state that the aggregation map Q discards. VQ keeps each block's sum
 and spreads it along the block's leading eigenvector, and since
 Q(I − VQ) = 0, (I − VQ)x is a redistribution within blocks that leaves
 every block sum unchanged.
-In the terms of the constitution debate read today ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md), p. 20;
-[THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)), these are changes to the parts that leave the whole fixed,
+In the terms of the constitution debate read today ([NOTE-1493](../notes.d/NOTE-1493.md), p. 20;
+[THEORY-1288](../theory.d/THEORY-1288.md)), these are changes to the parts that leave the whole fixed,
 the one kind of intervention across levels that can be surgical. So the
 defect is measurable by intervention, by perturbing within blocks and
 reading the aggregate's next value. The relation between an aggregate and

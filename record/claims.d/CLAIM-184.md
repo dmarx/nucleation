@@ -143,11 +143,11 @@ record's seed ([CLAIM-185](CLAIM-185.md), note of this date). No status, title o
 changes.
 
 ## Note of 2026-11-01: lock-in as generative entrenchment
-<!-- inactive-ok-block: LIT-188 LIT-tmp9dwb5 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 LIT-1926 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 The mechanism this claim names has a standard source the record now
 holds as a registration: Wimsatt's generative entrenchment
-([LIT-tmp9dwb5](../literature.d/LIT-tmp9dwb5.md), unread), as Griesemer and Shavit quote it ([LIT-188](../literature.d/LIT-188.md), §2;
+([LIT-1926](../literature.d/LIT-1926.md), unread), as Griesemer and Shavit quote it ([LIT-188](../literature.d/LIT-188.md), §2;
 [NOTE-173](../notes.d/NOTE-173.md)). An entrenched element is one "that later-evolved interactions
 will depend on for their existence and character, so that perturbations
 of it will tend to be catastrophic to the whole system while changes in

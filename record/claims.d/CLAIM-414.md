@@ -186,23 +186,23 @@ independence theorem. The claim is unchanged.
 
 ## Note of 2026-11-01: the separating intervention in the mechanism literature
 
-<!-- inactive-ok-file: CLAIM-tmpg57ci THEORY-tmpnzjca CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
+<!-- inactive-ok-file: CLAIM-530 THEORY-1292 CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
 
 - **The intervention is the mechanists' "lesion".** The claim's second
   construction separates the pair by a perturbation of the maintained
   constraints. The record's later cases ([CASE-161](../cases.d/CASE-161.md), [CASE-163](../cases.d/CASE-163.md)) separate
   theirs by knocking out production pathways. In Craver and Bechtel's
-  terms ([LIT-tmpgntir](../literature.d/LIT-tmpgntir.md), pp. 553–554) these are interlevel experiments, and
-  in Bechtel and Abrahamsen's ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), p. 326) they are C3: clamp a
-  part and see whether the phenomenon survives ([THEORY-tmp7jall](../theory.d/THEORY-tmp7jall.md)). Both
+  terms ([LIT-1928](../literature.d/LIT-1928.md), pp. 553–554) these are interlevel experiments, and
+  in Bechtel and Abrahamsen's ([LIT-1936](../literature.d/LIT-1936.md), p. 326) they are C3: clamp a
+  part and see whether the phenomenon survives ([THEORY-1289](../theory.d/THEORY-1289.md)). Both
   readings agree with the claim's second limit, that knowing the
   mechanisms tells the systems apart. Both also say such experiments show
   componency only relative to a boundary drawn beforehand
-  ([THEORY-tmp09e3b](../theory.d/THEORY-tmp09e3b.md), [CLAIM-tmpg57ci](CLAIM-tmpg57ci.md)).
+  ([THEORY-1287](../theory.d/THEORY-1287.md), [CLAIM-530](CLAIM-530.md)).
 - **A biological parallel to construction 2.** Bechtel and Abrahamsen
   report the open question whether peripheral clocks keep their own
   rhythm or are damped oscillators reset by the SCN, and a model in which
-  the two respond differently to a phase shift (p. 328; [THEORY-tmpnzjca](../theory.d/THEORY-tmpnzjca.md)).
+  the two respond differently to a phase shift (p. 328; [THEORY-1292](../theory.d/THEORY-1292.md)).
   Same structure, not shown same mechanism: there the perturbation
   separates them because the two arrangements obey different equations.
 
