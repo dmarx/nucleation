@@ -1,0 +1,23 @@
+{#- record/views.d/the-individual-and-its-conditions.md.j2
+    The manuscript's text lives in OUTLINE-001 and its SECTIONs; this file
+    holds layout only (ADR-067). -#}
+{% set manuscript = doc("OUTLINE-001") -%}
+# {{ manuscript.title }}
+
+*{{ manuscript.subtitle }}*
+
+## Abstract
+
+{{ manuscript.part("Abstract") }}
+{% for section in manuscript.sections %}
+
+## {{ loop.index }}. {{ section.title }}
+
+{{ section.part("Manuscript text") }}
+{% endfor %}
+
+---
+
+*Assembled from {{ manuscript.code }} ({{ manuscript.status }}). Edit the
+outline and its sections, not this page. Entries the sections draw on keep
+their own status and warrant; being in the manuscript is not endorsement.*

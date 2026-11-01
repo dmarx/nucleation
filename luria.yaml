@@ -626,6 +626,14 @@ vocabularies:
           political authority. Legal continuity makes an international commitment the state''s, but its durability
           depends on processes on different timescales that reproduce, contest and transform the authority through
           which it is enacted; the Paris Agreement as the case'
+      the-individual-and-its-conditions:
+        label: 'The Individual and Its Conditions'
+        blurb: 'the owner''s philosophy article, drafted 2026-10-31 to 2026-11-01 from the exchange "Explain
+          Nucleation Website": Causal Provenance and Organizational Individuation. An organization''s present
+          unity does not reveal the stability or the provenance of the processes maintaining it; provenance
+          constrains but does not settle constitution; and an organized product and the processes maintaining
+          it need not share a boundary or make one producer. Assembled as a view from OUTLINE-001 and its
+          SECTIONs (ADR-067)'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).
@@ -1503,6 +1511,82 @@ schemes:
     axis: tags
     retires_on: Superseded
     successor: superseded_by
+  OUTLINE:
+    # A manuscript's spine: its title, abstract and the ordered SECTIONs it
+    # is assembled from. The order is the `sections` field; the manuscript
+    # itself is a view under `views:` (ADR-067).
+    dir: record/outlines.d
+    output: docs/outlines
+    active: Active
+    render: index
+    allocate: merge
+    references:
+      sections:
+        label: Sections
+        blurb: the SECTIONs the manuscript is assembled from, in reading order
+        scheme: SECTION
+        required: true
+        many: true
+        converse: outlined_in
+      superseded_by:
+        scheme: OUTLINE
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+    fields:
+      status:
+        vocabulary: statuses
+      works:
+        vocabulary: works
+        many: true
+        required: true
+    axis: works
+    retires_on: Superseded
+    successor: superseded_by
+  SECTION:
+    # One section of a manuscript, its prose under "## Manuscript text",
+    # which is what the view transcludes. Its references name the record's
+    # own entries the prose draws on; drawing on a claim is not endorsing
+    # it, and the claim keeps its own status and warrant (ADR-067).
+    dir: record/sections.d
+    output: docs/sections
+    active: Active
+    render: index
+    allocate: merge
+    references:
+      outlined_in:
+        label: In outline
+        blurb: the OUTLINE that places this section, written by `luria link --fix` from its `sections`
+        scheme: OUTLINE
+        required: false
+        many: true
+        converse: sections
+      draws_on:
+        label: Draws on
+        blurb: the record's own claims, cases, terms and questions the section's prose uses or discusses.
+          Not a premise list and not an endorsement
+        scheme: [CLAIM, CASE, TERM, QUESTION, ARG]
+        required: false
+        many: true
+      superseded_by:
+        scheme: SECTION
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+    fields:
+      status:
+        vocabulary: statuses
+      works:
+        vocabulary: works
+        many: true
+        required: true
+    axis: works
+    retires_on: Superseded
+    successor: superseded_by
 remotes:
   ARXIV:
     name: arXiv
@@ -1663,6 +1747,12 @@ patterns:
   argued_for_undercut:
     match: (c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)
     output: docs/arguments-by-conclusion.md
+views:
+  # A manuscript assembled from its OUTLINE and SECTIONs; the template holds
+  # layout only (ADR-067).
+  the-individual-and-its-conditions:
+    template: record/views.d/the-individual-and-its-conditions.md.j2
+    output: docs/manuscripts/the-individual-and-its-conditions.md
 chains:
   lineage:
     scheme: LIT

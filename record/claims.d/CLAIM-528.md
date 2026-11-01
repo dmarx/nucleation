@@ -41,6 +41,7 @@ complements:
 - CLAIM-194
 bears_on:
 - QUESTION-284
+- QUESTION-tmp9hvu1
 summary: >-
   Filed on reading the fat-handedness debate after Craver: Baumgartner &
   Gebharter 2016, Baumgartner & Casini 2017 and Baumgartner, Casini &
