@@ -7,8 +7,8 @@ status_note: >-
   marked "restricted" in Biblio's own metadata and redirected this client
   to an institutional sign-in, so it is not a free copy. No PhilSci-Archive
   or PhilArchive deposit was found. Known here only from its abstract and
-  from what the three works read with it say of it (NOTE-tmpeljd8,
-  NOTE-tmp5hk5o, NOTE-tmpz7pqv). It stays Unavailable until a copy is
+  from what the three works read with it say of it ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md),
+  [NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md), [NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md)). It stays Unavailable until a copy is
   supplied, not on merit.
 title: 'Three Problems for the Mutual Manipulability Account of Constitutive Relevance in Mechanisms'
 version: 1
@@ -66,7 +66,7 @@ the works filed beside it:
   Baumgartner and Gebharter report the conclusion as "Causal relevance
   (sensu latu) thus comes in two varieties: intralevel etiological
   relevance (or causal relevance sensu strictu) and interlevel relevance"
-  (Leuridan p. 424, quoted in NOTE-tmpeljd8), and grant that if constitution
+  (Leuridan p. 424, quoted in [NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md)), and grant that if constitution
   is not assumed non-causal, mutual manipulability under Woodward's
   definitions does reduce it to a causal relation.
 - **Parthood as spatiotemporal inclusion fails.** The abstract: "if (as is
@@ -83,7 +83,7 @@ the works filed beside it:
 
 Filed because it opened the line of criticism the three works read here
 develop. Its endosymbiosis case bears directly on the record's questions
-about whether a boundary is given or produced (CLAIM-194, QUESTION-284):
+about whether a boundary is given or produced ([CLAIM-194](../claims.d/CLAIM-194.md), [QUESTION-284](../questions.d/QUESTION-284.md)):
 if a symbiont inside a cell counts as part of it by inclusion, inclusion is
 not what makes a part. That reading is from the abstract and has not been
 checked against the text.

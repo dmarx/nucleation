@@ -12,8 +12,8 @@ source:
 bears_on:
 - QUESTION-284
 summary: >-
-  Baumgartner, Casini & Krickel (2020), LIT-tmp130h8, §§3–4, read in
-  NOTE-tmpz7pqv. Active as a conditional: the eight-line reductio is valid
+  Baumgartner, Casini & Krickel (2020), [LIT-tmp130h8](../literature.d/LIT-tmp130h8.md), §§3–4, read in
+  [NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md). Active as a conditional: the eight-line reductio is valid
   on Universal Constitution, Simultaneity and transitivity of
   co-occurrence, and checked. It does not say such interventions exist in
   any real system, that the condition is necessary, or where the boundary
@@ -26,9 +26,9 @@ summary: >-
 
 ## Source
 
-Baumgartner, Casini and Krickel (2020), LIT-tmp130h8, §2 (pp. 3–6), §3
+Baumgartner, Casini and Krickel (2020), [LIT-tmp130h8](../literature.d/LIT-tmp130h8.md), §2 (pp. 3–6), §3
 (pp. 6–9) and §4 (pp. 9–12) of the penultimate draft; read in
-NOTE-tmpz7pqv.
+[NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md).
 
 ## What was actually shown
 
@@ -69,23 +69,23 @@ parthood.
   "tempting" and "beyond the scope" (pp. 3, 11).
 - **Where the boundary is, or what the levels are.** These are inputs.
   The condition sorts parts already known to be parts. Leuridan's
-  endosymbiosis case (LIT-tmpgs9lv, unread) is a reason to doubt that
+  endosymbiosis case ([LIT-tmpgs9lv](../literature.d/LIT-tmpgs9lv.md), unread) is a reason to doubt that
   spatiotemporal inclusion settles parthood.
 - **That simultaneity is sharp.** H(ii) and SIM draw the line at zero
   delay. Where a part's response takes time, as for an interior that
   relaxes at a finite rate, whether it counts as simultaneous depends on
-  the time resolution of the description (CLAIM-480; CLAIM-tmp1qybv part
+  the time resolution of the description ([CLAIM-480](../claims.d/CLAIM-480.md); [CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md) part
   3). Krickel's temporal-phase reading of mutual manipulability
-  (LIT-tmp5bf7n, footnote 3, unread) points the same way.
+  ([LIT-tmp5bf7n](../literature.d/LIT-tmp5bf7n.md), footnote 3, unread) points the same way.
 
 ## Connections
 
-- **QUESTION-284**: a positive evidential criterion for part–whole
+- **[QUESTION-284](../questions.d/QUESTION-284.md)**: a positive evidential criterion for part–whole
   constitution, at the price the question's second half names: the
   boundary and levels must be fixed first.
-- **CLAIM-522 and CLAIM-194**: the one intervention-based route to
-  constitution in this debate presupposes a boundary, as CLAIM-522 says
-  every intervention-based verdict on maintenance does. CLAIM-522's own
+- **[CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-194](../claims.d/CLAIM-194.md)**: the one intervention-based route to
+  constitution in this debate presupposes a boundary, as [CLAIM-522](../claims.d/CLAIM-522.md) says
+  every intervention-based verdict on maintenance does. [CLAIM-522](../claims.d/CLAIM-522.md)'s own
   separating interventions act with delay and are not of this kind.
-- **CLAIM-515**: the single-intervention route to synchronic realization;
+- **[CLAIM-515](../claims.d/CLAIM-515.md)**: the single-intervention route to synchronic realization;
   its premises are rarely available for an organization's capabilities.

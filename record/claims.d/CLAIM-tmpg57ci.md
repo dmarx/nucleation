@@ -127,11 +127,11 @@ constitutive relevance itself needs.
   condition is part of the criterion. The claim says only that the
   manipulability half cannot be the thing that answers [CLAIM-522](CLAIM-522.md).
 - **That this is new to the debate.** Critics argue that the account
-  confuses constitution with causation. Leuridan (LIT-tmpgs9lv, unread,
+  confuses constitution with causation. Leuridan ([LIT-tmpgs9lv](../literature.d/LIT-tmpgs9lv.md), unread,
   by its abstract) holds that under Woodward's interventionism
   constitutive relevance threatens to imply causal relevance, and that
   parthood as spatiotemporal inclusion meets a counterexample from
-  endosymbiosis. Baumgartner and Gebharter (LIT-tmpkhdpi) conclude that
+  endosymbiosis. Baumgartner and Gebharter ([LIT-tmpkhdpi](../literature.d/LIT-tmpkhdpi.md)) conclude that
   constitution gets only abductive evidence. This pair is a case of the
   first point: the outside relation is plainly causal and still meets
   both manipulability conditions. It is also a case of the second: only

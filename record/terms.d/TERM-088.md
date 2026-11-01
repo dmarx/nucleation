@@ -121,8 +121,8 @@ No status, title or warrant changes.
 ## Note of 2026-11-01: "constitutive" in the mechanists' sense is another relation
 
 <!-- inactive-ok-block: CLAIM-tmp1qybv — Proposed; filed 2026-11-01, cited as context -->
-The mechanistic literature filed today (NOTE-tmpeljd8, NOTE-tmp5hk5o,
-NOTE-tmpz7pqv) uses "constitutive relevance" for a part's behaviour
+The mechanistic literature filed today ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md), [NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md),
+[NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md)) uses "constitutive relevance" for a part's behaviour
 realizing a whole's behaviour at a time, after Craver. This term's
 constitutive sense is a relational organization fixing an entity's
 identity and boundary. The two differ in relata and in what they need.
@@ -133,11 +133,11 @@ The debate does give one reason the term's senses need different
 evidence. The dynamical sense can be shown by perturbation. A
 constitutive dependence of a whole on its parts at a time cannot be shown
 by any finite set of interventions, because every intervention on the
-whole also acts on a part along another path (THEORY-tmp3pqnm). It can
+whole also acts on a part along another path ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)). It can
 only be inferred abductively or from further principles. A claim citing
 this debate should say it means constitutive relevance in Craver's sense.
 A claim that calls something constitutively individuated should say what
 evidence it has, since interventions alone will not supply it
-(CLAIM-tmp1qybv).
+([CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md)).
 
 No status, title or warrant changes.

@@ -225,19 +225,19 @@ No status, title or warrant changes.
 Two readings filed today give this claim's form in another literature.
 
 - **Relative to a phenomenon, and still capable of being false.**
-  Baumgartner and Casini's No De-Coupling account (THEORY-tmpy9dyw) makes
+  Baumgartner and Casini's No De-Coupling account ([THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)) makes
   constitutive relevance depend on whether a part belongs to some set
   coupled with the phenomenon, which they call "extrinsic", and yet "does
   not turn it into a relativized notion": once the phenomenon is fixed the
   verdict holds across every expansion of the variables or not at all
-  (NOTE-tmp5hk5o, pp. 16–17). The mechanists' levels are likewise local,
-  defined by direct parthood relative to a phenomenon (NOTE-tmpz7pqv,
+  ([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md), pp. 16–17). The mechanists' levels are likewise local,
+  defined by direct parthood relative to a phenomenon ([NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md),
   footnote 6). So the criterion is fixed by the phenomenon, which is the
   claim's "target it serves".
 - **The causation–constitution line is itself criterion-relative.** The
   same debate draws that line at simultaneity, and whether a part's
   response counts as simultaneous depends on the time resolution of the
-  description (CLAIM-tmp1qybv part 3, from CLAIM-480). That is this claim's
+  description ([CLAIM-tmp1qybv](CLAIM-tmp1qybv.md) part 3, from [CLAIM-480](CLAIM-480.md)). That is this claim's
   "scale" entering a verdict the debate treats as absolute.
 
 Same structure, not shown to be the same relation: the mechanists'

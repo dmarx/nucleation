@@ -233,7 +233,7 @@ realized by (A23 §XII).
 <!-- inactive-ok-block: CLAIM-tmp1qybv LIT-tmp5bf7n — Proposed or Unfetched; filed 2026-11-01, cited as context -->
 The constitution debate read today draws the line between constitution
 and causation at simultaneity. "Simultaneous changes cannot be causally
-related" (Baumgartner, Casini and Krickel, NOTE-tmpz7pqv, p. 6), and a
+related" (Baumgartner, Casini and Krickel, [NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md), p. 6), and a
 revealing intervention must change part and whole "simultaneously" (their
 H(ii)). This claim's chain makes that line depend on the description. If
 x₂ equilibrates fast, the boundary's constraint is the memoryless E_eff,
@@ -242,8 +242,8 @@ on the constitution side. If x₂ relaxes slowly, eliminating it leaves a
 memory kernel: x₂'s response follows the boundary's change, on the
 causation side. Whether the dependence is constitution or causation, in
 the debate's sense, is then fixed by the time resolution at which the
-description treats x₂'s relaxation as instantaneous. CLAIM-tmp1qybv part 3
-rests on this. Krickel 2018 (LIT-tmp5bf7n, unread) reportedly reads mutual
+description treats x₂'s relaxation as instantaneous. [CLAIM-tmp1qybv](CLAIM-tmp1qybv.md) part 3
+rests on this. Krickel 2018 ([LIT-tmp5bf7n](../literature.d/LIT-tmp5bf7n.md), unread) reportedly reads mutual
 manipulability causally, between a component and temporal phases of the
 phenomenon. If so, it is the same move made from the other side.
 

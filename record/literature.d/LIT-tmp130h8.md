@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmpz7pqv) from the authors' penultimate
+  read in full 2026-11-01 ([NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md)) from the authors' penultimate
   draft; worth keeping as the one positive interventionist result in the
   debate: given that every change in a phenomenon is simultaneously
   realized on every lower level, that simultaneous changes are not
   causally related, and that parthood and levels are settled, a single
   intervention that changes one part per level and the phenomenon
-  simultaneously suffices for constitution (THEORY-tmpv5g3z).
+  simultaneously suffices for constitution ([THEORY-tmpv5g3z](../theory.d/THEORY-tmpv5g3z.md)).
 title: 'Horizontal Surgicality and Mechanistic Constitution'
 version: 1
 history:
@@ -52,7 +52,7 @@ summary: >-
 
 Baumgartner, M., Casini, L., & Krickel, B. (2020). Horizontal surgicality and mechanistic constitution. *Erkenntnis*, 85(2), 417–430.
 
-Read in full in NOTE-tmpz7pqv.
+Read in full in [NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md).
 
 ## Key takeaways
 
@@ -70,5 +70,5 @@ Read in full in NOTE-tmpz7pqv.
 
 The result says what has to be given before an intervention can show
 constitution: parthood, a hierarchy of levels, and simultaneity. That is
-what the record's own boundary claims (CLAIM-194, CLAIM-522) say cannot be
-read off the data. See NOTE-tmpz7pqv.
+what the record's own boundary claims ([CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-522](../claims.d/CLAIM-522.md)) say cannot be
+read off the data. See [NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md).

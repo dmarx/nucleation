@@ -36,7 +36,7 @@ summary: >-
 ## Contribution
 
 It generalizes Baumgartner and Gebharter's evidential result
-(NOTE-tmpeljd8) into a claim about constitution as such: there is no
+([NOTE-tmpeljd8](NOTE-tmpeljd8.md)) into a claim about constitution as such: there is no
 experimentum crucis for it, "not even under ideal discovery circumstances"
 (abstract). It then defines constitution in a way that fits that fact. On
 the No De-Coupling theory (NDC), a part is a constituent because whole and
@@ -137,20 +137,20 @@ that pattern, and a common-cause model only tolerates it (pp. 14–15).
 
 ## Connections
 
-- Builds on Baumgartner & Gebharter (LIT-tmpkhdpi), dropping its claim
+- Builds on Baumgartner & Gebharter ([LIT-tmpkhdpi](../literature.d/LIT-tmpkhdpi.md)), dropping its claim
   that a temporal clause restores MM's consistency, and on Scheines 2005
   for fat-handed interventions.
-- Cites Romero 2015 (LIT-tmpk95bs) and Eronen & Brooks 2014 for the same
+- Cites Romero 2015 ([LIT-tmpk95bs](../literature.d/LIT-tmpk95bs.md)) and Eronen & Brooks 2014 for the same
   fat-handedness result (footnote 6), and answers Harinen
-  (LIT-tmpqah2d) in footnote 8.
+  ([LIT-tmpqah2d](../literature.d/LIT-tmpqah2d.md)) in footnote 8.
 - Footnote 9 notes a parallel with Causey 1977: a biconditional bridge law
   is read as identity when every causal explanation of it has failed.
-- Baumgartner, Casini & Krickel (LIT-tmp130h8) take the opposite route, a
+- Baumgartner, Casini & Krickel ([LIT-tmp130h8](../literature.d/LIT-tmp130h8.md)) take the opposite route, a
   restricted intervention that gives a sufficient condition.
 
 ## Bearing on the record's own argument
 
-- **CLAIM-522: the same test turned round, in form only.** CLAIM-522
+- **[CLAIM-522](../claims.d/CLAIM-522.md): the same test turned round, in form only.** [CLAIM-522](../claims.d/CLAIM-522.md)
   separates an internal producer from an outside controller by an
   intervention that breaks one of them: disable the pathway inside, or
   interrupt the controller. NDC calls a set of parts constitutive when no
@@ -159,14 +159,14 @@ that pattern, and a common-cause model only tolerates it (pp. 14–15).
   plays the part of the cause NDC looks for: something that moves the
   capacities while running through nothing inside the declared boundary.
   That is a likeness of form, not shown to be the same relation.
-  CLAIM-522's producer–capacity relation is diachronic production, which
+  [CLAIM-522](../claims.d/CLAIM-522.md)'s producer–capacity relation is diachronic production, which
   can be broken surgically, not part–whole realization, which by C1 cannot.
   Nothing here makes the producer part of the system. Which pathways are
   "inside" is NDC's Parthood condition, taken as given (footnote 1), and
-  CLAIM-522's declared boundary.
-- **QUESTION-284 and CLAIM-150.** QUESTION-284 anticipated that if no
+  [CLAIM-522](../claims.d/CLAIM-522.md)'s declared boundary.
+- **[QUESTION-284](../questions.d/QUESTION-284.md) and [CLAIM-150](../claims.d/CLAIM-150.md).** [QUESTION-284](../questions.d/QUESTION-284.md) anticipated that if no
   evidence distinguishes "ontological constitution from ordinary causal
-  modification", that is itself an answer, CLAIM-150's underdetermination.
+  modification", that is itself an answer, [CLAIM-150](../claims.d/CLAIM-150.md)'s underdetermination.
   This paper proves the first-order version for part–whole constitution
   (C2, C3) and adds a second-order route: constitution is preferred when
   every attempt to decouple fails, and preferred for its explanatory
@@ -175,23 +175,23 @@ that pattern, and a common-cause model only tolerates it (pp. 14–15).
   set of manipulations, and abduction from the failure to decouple. The
   question's "constitute" (relations fixing what a relatum is) is a
   different relation. Whether the same second-order route is open for it
-  is a sharper form of the question (THEORY-tmpy9dyw's Connections).
-- **CLAIM-477 and CLAIM-405.** NDC makes constitutive relevance extrinsic
+  is a sharper form of the question ([THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)'s Connections).
+- **[CLAIM-477](../claims.d/CLAIM-477.md) and [CLAIM-405](../claims.d/CLAIM-405.md).** NDC makes constitutive relevance extrinsic
   to the part–whole pair, a matter of the part's membership in a
-  redundancy-free set coupled with the whole (p. 16). That is CLAIM-477's
+  redundancy-free set coupled with the whole (p. 16). That is [CLAIM-477](../claims.d/CLAIM-477.md)'s
   "what an entity is, is partly fixed by the ... configurations ... it can
   enter", for one relation: being a constituent is fixed by the set the
   part belongs to. And it is set-relative without being relativized (pp.
-  16–17), which is CLAIM-405's "dependence does not make it arbitrary": the
+  16–17), which is [CLAIM-405](../claims.d/CLAIM-405.md)'s "dependence does not make it arbitrary": the
   verdict depends on a set, but once the phenomenon is fixed it can be
   false. Same structure, not shown same relation in either case.
-- **CLAIM-515's "realized".** On this paper, if "realized" means
+- **[CLAIM-515](../claims.d/CLAIM-515.md)'s "realized".** On this paper, if "realized" means
   constituted, "shown by interventions that discriminate implementations"
   is not available even in principle (C3). It is inferred abductively from
-  the failure to decouple. CASE-163's catalog identification separates
+  the failure to decouple. [CASE-163](../cases.d/CASE-163.md)'s catalog identification separates
   candidate causal mechanisms, which is a different inference
-  (CLAIM-tmp1qybv).
-- **TERM-088.** "Constitutive" individuation in the term and constitutive
+  ([CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md)).
+- **[TERM-088](../terms.d/TERM-088.md).** "Constitutive" individuation in the term and constitutive
   relevance here are different relations. The paper does give a reason a
   constitutive sense needs its own evidence: it cannot be read off
   interventions as the dynamical sense can.
@@ -202,7 +202,7 @@ that pattern, and a common-cause model only tolerates it (pp. 14–15).
   How to enumerate "every cause of Ψ in V", and when V has been expanded
   enough (footnote 10), are left open.
 - **Parthood is assumed thin and given** (footnote 1). Leuridan's
-  endosymbiosis counterexample (LIT-tmpgs9lv, from its abstract) is not
+  endosymbiosis counterexample ([LIT-tmpgs9lv](../literature.d/LIT-tmpgs9lv.md), from its abstract) is not
   discussed.
 - **The contrast with causation is overdrawn in one respect.** The
   conclusiveness of ideal causal experiments is cited, not shown, and it

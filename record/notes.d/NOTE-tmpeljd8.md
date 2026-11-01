@@ -74,7 +74,7 @@ found that leaves every part alone (pp. 20–21).
   levels is left open; Ψ and the Φᵢ are "different random variables such
   that changes in the values of Ψ supervene on changes in V1" (p. 6).
 - **Parthood is not analysed.** (SC) is used as given; its problems are
-  referred to Leuridan's §6 (LIT-tmpgs9lv) and Franklin-Hall (p. 6).
+  referred to Leuridan's §6 ([LIT-tmpgs9lv](../literature.d/LIT-tmpgs9lv.md)) and Franklin-Hall (p. 6).
 
 ## Key results
 
@@ -147,78 +147,78 @@ found that leaves every part alone (pp. 20–21).
 
 ## Connections
 
-- Craver 2007 (LIT-832, unread here) and Craver 2007a are MM's sources;
+- Craver 2007 ([LIT-832](../literature.d/LIT-832.md), unread here) and Craver 2007a are MM's sources;
   Woodward 2003 and 2011 the interventionist background.
-- Leuridan 2012 (LIT-tmpgs9lv) drops (NC); the paper answers him on p. 15.
-- Baumgartner & Casini (LIT-tmps6sc3, NOTE-tmp5hk5o) turn FH into the
+- Leuridan 2012 ([LIT-tmpgs9lv](../literature.d/LIT-tmpgs9lv.md)) drops (NC); the paper answers him on p. 15.
+- Baumgartner & Casini ([LIT-tmps6sc3](../literature.d/LIT-tmps6sc3.md), [NOTE-tmp5hk5o](NOTE-tmp5hk5o.md)) turn FH into the
   No De-Coupling account and drop the claim that a temporal clause rescues
-  MM's evidential role. Baumgartner, Casini & Krickel (LIT-tmp130h8,
-  NOTE-tmpz7pqv) restrict fat-handed interventions instead.
-- Romero 2015 (LIT-tmpk95bs) reaches the fat-handedness of interventions on
+  MM's evidential role. Baumgartner, Casini & Krickel ([LIT-tmp130h8](../literature.d/LIT-tmp130h8.md),
+  [NOTE-tmpz7pqv](NOTE-tmpz7pqv.md)) restrict fat-handed interventions instead.
+- Romero 2015 ([LIT-tmpk95bs](../literature.d/LIT-tmpk95bs.md)) reaches the fat-handedness of interventions on
   phenomena independently, by later citations.
 
 ## Bearing on the record's own argument
 
-- **CLAIM-522: left standing, and its "declared boundary" clause is
+- **[CLAIM-522](../claims.d/CLAIM-522.md): left standing, and its "declared boundary" clause is
   sharpened.** The paper's problem is synchronic: whole and part change at
-  the same time, so nothing can act on one without the other. CLAIM-522's
+  the same time, so nothing can act on one without the other. [CLAIM-522](../claims.d/CLAIM-522.md)'s
   separating interventions are diachronic. Knocking out a production
-  pathway in CASE-189 (removing c₂ → c₁) changes ċ₁ at once and c₁ only
+  pathway in [CASE-189](../cases.d/CASE-189.md) (removing c₂ → c₁) changes ċ₁ at once and c₁ only
   over the following interval, so by the paper's own temporal criterion
   (M**) (p. 17) the pathway is a cause of the later capacities, not a
   constituent of them, and interventions on it can be surgical. The paper
   allows this explicitly: bottom-up interventions "may well exist"
   (footnote 8, p. 13). So the fat-handedness result does not reach
-  CLAIM-522's conclusion. What it does reach is the step CLAIM-522 already
+  [CLAIM-522](../claims.d/CLAIM-522.md)'s conclusion. What it does reach is the step [CLAIM-522](../claims.d/CLAIM-522.md) already
   declines to take: whether the producer is part of the system. The paper
   takes parthood as given (SC) and refers its problems to Leuridan (p. 6).
   Intervention data do not supply a boundary here either, which is
-  CLAIM-522's "relative to a declared boundary" and CLAIM-194's point.
-  CLAIM-tmp1qybv and ARG-tmp39a6w set this out.
-- **CASE-189 holds a fat-handed dependence of exactly this kind.** The
+  [CLAIM-522](../claims.d/CLAIM-522.md)'s "relative to a declared boundary" and [CLAIM-194](../claims.d/CLAIM-194.md)'s point.
+  [CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md) and [ARG-tmp39a6w](../arguments.d/ARG-tmp39a6w.md) set this out.
+- **[CASE-189](../cases.d/CASE-189.md) holds a fat-handed dependence of exactly this kind.** The
   coupling L(c) = Bᵀ diag(a₁, a₂)B with aᵢ = max{cᵢ − ½, 0} is a function of
   the capacities, changing whenever they do. Any intervention on c is an
   intervention on L, so "c maintains the coupling" and "the coupling is
-  realized by c" cannot be separated by intervening on c. CLAIM-521's
+  realized by c" cannot be separated by intervening on c. [CLAIM-521](../claims.d/CLAIM-521.md)'s
   comparison of coupling and maintenance is made on the model, which is
   what makes it possible. Same structure, not shown to be the paper's
   part–whole relation: L is a parameter, not a whole.
-- **CLAIM-515's third question, "Realized ... shown by interventions that
+- **[CLAIM-515](../claims.d/CLAIM-515.md)'s third question, "Realized ... shown by interventions that
   discriminate implementations".** If "realized" means that the capability
   consists in the mechanism, synchronically, this paper says intervention
   data cannot show it: the interventions that change both are common
   causes (C5), and only a pattern across many experiments supports it
   (C6). If it means that the capability is produced through the mechanism,
-  diachronically, interventions can show it. CASE-163's identification of
+  diachronically, interventions can show it. [CASE-163](../cases.d/CASE-163.md)'s identification of
   a mechanism from probes within a catalog is of the second kind. The
-  claim does not say which it means (CLAIM-tmp1qybv).
-- **QUESTION-284: an answer for one kind of constitution.** QUESTION-284
+  claim does not say which it means ([CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md)).
+- **[QUESTION-284](../questions.d/QUESTION-284.md): an answer for one kind of constitution.** [QUESTION-284](../questions.d/QUESTION-284.md)
   asks "whether any evidence distinguishes ontological constitution from
   ordinary causal modification". For part–whole constitution in
   mechanisms, this paper's answer is: no single manipulation does (C5),
   because every manipulation of the whole is a causal modification of some
   part. A second-order pattern does (C6), and only inductively. That is
-  CLAIM-150's underdetermination with a way out, and the way out is
+  [CLAIM-150](../claims.d/CLAIM-150.md)'s underdetermination with a way out, and the way out is
   abductive. The question's "constitute" is about relations fixing the
   identity of relata, which is not this relation; the bearing is the form
   of the evidential problem, not shown to be the same problem.
-- **CLAIM-388 and CLAIM-386: the asymmetry the closure tests use.** The
+- **[CLAIM-388](../claims.d/CLAIM-388.md) and [CLAIM-386](../claims.d/CLAIM-386.md): the asymmetry the closure tests use.** The
   paper's asymmetry, that the micro level can change without the macro
   level changing but not the reverse (p. 20), is exactly what a test of
-  dynamical closure uses. CLAIM-388's sum is closed because changes in the
+  dynamical closure uses. [CLAIM-388](../claims.d/CLAIM-388.md)'s sum is closed because changes in the
   distribution of activity among units that leave the sum fixed do not
-  change the sum's future; CLAIM-386's closure defect QA(I − VQ) is the
+  change the sum's future; [CLAIM-386](../claims.d/CLAIM-386.md)'s closure defect QA(I − VQ) is the
   aggregate's response to such within-block redistributions. Those are
   bottom-up interventions inside a fibre of the supervenience map, and they
   are the surgical ones. Closure of a collective variable is thus testable
   by the interventions this paper allows, which constitution is not.
-- **CLAIM-526: coexisting levels without inter-level causation.** The
+- **[CLAIM-526](../claims.d/CLAIM-526.md): coexisting levels without inter-level causation.** The
   paper's (M**) makes macro and micro "two closely related, but still
   distinct" relata of a non-causal dependence (pp. 22–23), which is
-  CLAIM-526's coexistence. The levels differ, though: the paper's are
-  levels of parthood; CLAIM-526's are levels of description fixed by
-  closure. CLAIM-405 already says such criteria need not agree.
-- **TERM-088.** The term's "constitutive" sense (relational organization
+  [CLAIM-526](../claims.d/CLAIM-526.md)'s coexistence. The levels differ, though: the paper's are
+  levels of parthood; [CLAIM-526](../claims.d/CLAIM-526.md)'s are levels of description fixed by
+  closure. [CLAIM-405](../claims.d/CLAIM-405.md) already says such criteria need not agree.
+- **[TERM-088](../terms.d/TERM-088.md).** The term's "constitutive" sense (relational organization
   helps fix identity and boundary) is not this paper's constitutive
   relevance (a part's behaviour realizing a whole's behaviour). A claim
   citing this debate should say it means the latter.
@@ -232,7 +232,7 @@ found that leaves every part alone (pp. 20–21).
 - **(M**) is offered "only" for causation in mechanisms (footnote 10), and
   the strict temporal overlap of macro and micro changes is assumed, not
   argued. Where a part's response takes time, (SC)'s overlap is an
-  idealization (CLAIM-480's point; CLAIM-tmp1qybv part 3).
+  idealization ([CLAIM-480](../claims.d/CLAIM-480.md)'s point; [CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md) part 3).
 - **No case is analysed.** The Mimosa example is illustrative; the authors
   say they have not tested whether practice fits (CR) (p. 22).
 - **FH is untestable as stated** except inductively, and the paper gives

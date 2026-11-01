@@ -102,11 +102,11 @@ determine environmental structure "without identifying any internal
 mechanism". The constitution debate read today bears on the next step,
 identifying the mechanism. If "realization" means that the capability is
 produced through an internal predictive mechanism over time,
-interventions on that mechanism can show it (CLAIM-tmp1qybv, reading 1).
+interventions on that mechanism can show it ([CLAIM-tmp1qybv](CLAIM-tmp1qybv.md), reading 1).
 If it means that the capability at a time consists in the mechanism,
 interventions cannot. Every intervention on the capability also acts on
 some part of the mechanism along another path, and the inference is
-abductive (THEORY-tmp3pqnm, THEORY-tmpy9dyw). The claim's "producing,
+abductive ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md), [THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)). The claim's "producing,
 maintaining and revising" world-modeling capabilities are diachronic, and
 so of the first kind.
 

@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmp5hk5o) from the authors' penultimate
+  read in full 2026-11-01 ([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md)) from the authors' penultimate
   draft; worth keeping for the claim that, unlike causation, constitution
   has no experimentum crucis, and for its alternative: constitution is
   inferred abductively from a redundancy-free common-cause coupling of
   whole and parts that no expansion of the variable set breaks
-  (THEORY-tmp3pqnm, THEORY-tmpy9dyw).
+  ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md), [THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)).
 title: 'An Abductive Theory of Constitution'
 version: 1
 history:
@@ -55,7 +55,7 @@ summary: >-
 
 Baumgartner, M., & Casini, L. (2017). An abductive theory of constitution. *Philosophy of Science*, 84(2), 214–233.
 
-Read in full in NOTE-tmp5hk5o.
+Read in full in [NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md).
 
 ## Key takeaways
 
@@ -74,5 +74,5 @@ Read in full in NOTE-tmp5hk5o.
 ## Standing in the record
 
 Its answer to "what evidence tells constitution from causal modification"
-is the answer QUESTION-284 asks for, for one kind of constitution. See
-NOTE-tmp5hk5o.
+is the answer [QUESTION-284](../questions.d/QUESTION-284.md) asks for, for one kind of constitution. See
+[NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md).

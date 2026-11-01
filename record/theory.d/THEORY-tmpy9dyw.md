@@ -21,10 +21,10 @@ source:
 bears_on:
 - QUESTION-284
 summary: >-
-  Baumgartner & Casini (2017), LIT-tmps6sc3, §§4–5, their No De-Coupling
+  Baumgartner & Casini (2017), [LIT-tmps6sc3](../literature.d/LIT-tmps6sc3.md), §§4–5, their No De-Coupling
   account, developing the fat-handedness criterion of Baumgartner &
-  Gebharter (2016), LIT-tmpkhdpi, pp. 20–22. Read in NOTE-tmp5hk5o and
-  NOTE-tmpeljd8. Proposed: a definition offered with no
+  Gebharter (2016), [LIT-tmpkhdpi](../literature.d/LIT-tmpkhdpi.md), pp. 20–22. Read in [NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md) and
+  [NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md). Proposed: a definition offered with no
   operationalization and no case from practice, which the authors say
   themselves. It does not say how far a variable set must be expanded,
   and it takes parthood as given.
@@ -35,9 +35,9 @@ summary: >-
 
 ## Source
 
-Baumgartner and Casini (2017), LIT-tmps6sc3, §§4–5, pp. 12–18
-(NOTE-tmp5hk5o); the criterion it develops is Baumgartner and Gebharter's
-(FH) and (CR), LIT-tmpkhdpi, pp. 20–22 (NOTE-tmpeljd8).
+Baumgartner and Casini (2017), [LIT-tmps6sc3](../literature.d/LIT-tmps6sc3.md), §§4–5, pp. 12–18
+([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md)); the criterion it develops is Baumgartner and Gebharter's
+(FH) and (CR), [LIT-tmpkhdpi](../literature.d/LIT-tmpkhdpi.md), pp. 20–22 ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md)).
 
 ## What was actually shown
 
@@ -57,7 +57,7 @@ constituent. Dropping them leaves the coupling intact, so (2.ii) excludes
 them (B&C p. 13).
 
 **Why abductive.** Data from any finite V are reproduced by a pure
-common-cause model (THEORY-tmp3pqnm). The two models differ in what they
+common-cause model ([THEORY-tmp3pqnm](THEORY-tmp3pqnm.md)). The two models differ in what they
 predict when V is expanded. The common-cause model gives no reason why a
 surgical cause of Ψ should never appear; the constitutive model makes it
 impossible. When repeated expansions fail to break the coupling, the
@@ -91,21 +91,21 @@ across expansions the relation holds throughout or not at all.
 
 ## Connections
 
-- **QUESTION-284** asks, for a stated kind of entity, what evidence tells
+- **[QUESTION-284](../questions.d/QUESTION-284.md)** asks, for a stated kind of entity, what evidence tells
   constitution from characterization and from causal modification. For
   part–whole constitution in mechanisms, this is one answer: a
   second-order pattern, the persistent failure to decouple, and nothing
   less. Whether a like route exists for relations constituting relata is
   the question's harder half.
-- **CLAIM-477**: constitutive relevance here is extrinsic to the pair and
+- **[CLAIM-477](../claims.d/CLAIM-477.md)**: constitutive relevance here is extrinsic to the pair and
   fixed by membership in a set, a case of identity-of-role fixed by
   configuration. Same structure, not shown same relation.
-- **CLAIM-405**: set-relative and not relativized, so a verdict, once the
+- **[CLAIM-405](../claims.d/CLAIM-405.md)**: set-relative and not relativized, so a verdict, once the
   phenomenon is fixed, can be false.
-- **CLAIM-522**: the outside controller of CLAIM-522 plays the part of
+- **[CLAIM-522](../claims.d/CLAIM-522.md)**: the outside controller of [CLAIM-522](../claims.d/CLAIM-522.md) plays the part of
   NDC's de-coupling cause, something that moves the capacities while
   running through nothing inside the declared boundary. Same structure,
-  not shown same relation: CLAIM-522's production is diachronic.
-- **CLAIM-515**: on this account, "realized" in the synchronic sense is
+  not shown same relation: [CLAIM-522](../claims.d/CLAIM-522.md)'s production is diachronic.
+- **[CLAIM-515](../claims.d/CLAIM-515.md)**: on this account, "realized" in the synchronic sense is
   inferred by abduction, not shown by discriminating interventions
-  (CLAIM-tmp1qybv).
+  ([CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md)).

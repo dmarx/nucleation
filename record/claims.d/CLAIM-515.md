@@ -113,13 +113,13 @@ interventions that discriminate implementations".
 - **Consists in, at a time.** This is constitution. If a whole
   supervenes on its parts and constitution is not causal, no set of
   manipulation data separates a constitutive model from a pure
-  common-cause one (Baumgartner & Gebharter, THEORY-tmp3pqnm). It is
-  then inferred abductively (THEORY-tmpy9dyw). Or it is read off a
+  common-cause one (Baumgartner & Gebharter, [THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)). It is
+  then inferred abductively ([THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)). Or it is read off a
   surgical intervention, given simultaneity and parthood already settled
-  (THEORY-tmpv5g3z).
+  ([THEORY-tmpv5g3z](../theory.d/THEORY-tmpv5g3z.md)).
 
-CLAIM-tmp1qybv states the split. It adds that the line between the two
-senses moves with the time scale of the description. CLAIM-tmpg57ci adds
+[CLAIM-tmp1qybv](CLAIM-tmp1qybv.md) states the split. It adds that the line between the two
+senses moves with the time scale of the description. [CLAIM-tmpg57ci](CLAIM-tmpg57ci.md) adds
 that, even in the causal sense, separating an internal producer from an
 outside controller needs a boundary the interventions presuppose. A use
 of this claim should say which sense of "realized" it means. No status,

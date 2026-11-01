@@ -60,16 +60,16 @@ read beside it:
 - The abstract, as catalogues give it, proposes "to explain inter-level
   relations without inter-level causation by appealing to the notion of
   fat-handed interventions".
-- Baumgartner and Casini (NOTE-tmp5hk5o, their footnote 6): "Romero (2015)
+- Baumgartner and Casini ([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md), their footnote 6): "Romero (2015)
   and Eronen and Brooks (2014, 194) have recently argued that it follows
   from non-reductive physicalism and interventionism that interventions on
   phenomena are necessarily fat-handed (or common causes)".
-- Baumgartner, Casini and Krickel (NOTE-tmpz7pqv) cite it with Baumgartner
+- Baumgartner, Casini and Krickel ([NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md)) cite it with Baumgartner
   and Gebharter as having shown "that upper and lower levels of mechanisms
   can only be manipulated via common causes" (pp. 2–3, 6).
 
 ## Standing in the record
 
-Bears on CLAIM-526 and CLAIM-480: whether a collective variable acts on
+Bears on [CLAIM-526](../claims.d/CLAIM-526.md) and [CLAIM-480](../claims.d/CLAIM-480.md): whether a collective variable acts on
 the activity that realizes it, or only coexists with it. Read it before
 leaning on it there.

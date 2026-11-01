@@ -380,7 +380,7 @@ No status, title or warrant changes.
 ## Note of 2026-11-01: being a constituent is fixed by the configuration a part enters
 
 <!-- inactive-ok-block: THEORY-tmpy9dyw — Proposed; filed 2026-11-01, cited as context -->
-Baumgartner and Casini (NOTE-tmp5hk5o, p. 16; THEORY-tmpy9dyw) define a
+Baumgartner and Casini ([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md), p. 16; [THEORY-tmpy9dyw](../theory.d/THEORY-tmpy9dyw.md)) define a
 part's constitutive relevance to a phenomenon as "an extrinsic property of
 that pair, which depends on whether Φi is contained in a constituting
 set": a part is a constituent only as a member of a redundancy-free set
@@ -391,7 +391,7 @@ configurations ... it can enter" for one role, being a constituent. The
 paper also says what kind of evidence fixes it: no single manipulation,
 only the repeated failure to decouple, which is abductive. If the claim
 wants a criterion for when constraints constitute rather than
-characterize (QUESTION-284), this is one worked answer for one relation.
+characterize ([QUESTION-284](../questions.d/QUESTION-284.md)), this is one worked answer for one relation.
 Same structure, not shown same relation: the mechanists' relata are
 behaviours of parts, and their constraint is causal coupling, not a
 constraint on admissible configurations.

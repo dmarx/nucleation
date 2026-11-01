@@ -43,7 +43,7 @@ summary: >-
   manipulability is read as a causal relation between a component and a
   temporal part of the phenomenon, which is represented by several
   variables for its phases. Unread; her co-authored 2020 paper reports the
-  move in one sentence (NOTE-tmpz7pqv).
+  move in one sentence ([NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmp1qybv — Proposed or Open; the entries this work bears on, cited as open -->
 
@@ -68,5 +68,5 @@ Krickel, B. (2018). Saving the mutual manipulability account of constitutive rel
 ## Standing in the record
 
 If the move works, it puts a time scale into the line between causation
-and constitution, which is CLAIM-tmp1qybv's third part. That claim does
+and constitution, which is [CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md)'s third part. That claim does
 not rest on this reading, since the paper was not read.

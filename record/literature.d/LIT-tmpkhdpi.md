@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmpeljd8) from the authors' penultimate
+  read in full 2026-11-01 ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md)) from the authors' penultimate
   draft; worth keeping as the proof that, if constitution is non-causal
   and wholes supervene on their parts, every cause of a whole's behaviour
   is a common cause of it and of some part's, so mutual manipulability by
   ideal interventions is unsatisfiable and, once relaxed, gives no
-  evidence of constitution (THEORY-tmp3pqnm).
+  evidence of constitution ([THEORY-tmp3pqnm](../theory.d/THEORY-tmp3pqnm.md)).
 title: 'Constitutive Relevance, Mutual Manipulability, and Fat-Handedness'
 version: 1
 history:
@@ -54,7 +54,7 @@ summary: >-
 
 Baumgartner, M., & Gebharter, A. (2016). Constitutive relevance, mutual manipulability, and fat-handedness. *British Journal for the Philosophy of Science*, 67(3), 731–756.
 
-Read in full in NOTE-tmpeljd8.
+Read in full in [NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md).
 
 ## Key takeaways
 
@@ -74,6 +74,6 @@ Read in full in NOTE-tmpeljd8.
 ## Standing in the record
 
 The sharpest statement of what the record's intervention results can and
-cannot show about where a capacity is realized. It bears on CLAIM-522,
-CLAIM-515 and QUESTION-284; the bearing is set out in the note and in
-CLAIM-tmp1qybv.
+cannot show about where a capacity is realized. It bears on [CLAIM-522](../claims.d/CLAIM-522.md),
+[CLAIM-515](../claims.d/CLAIM-515.md) and [QUESTION-284](../questions.d/QUESTION-284.md); the bearing is set out in the note and in
+[CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md).

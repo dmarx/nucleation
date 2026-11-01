@@ -56,7 +56,7 @@ Harinen, T. (2018). Mutual manipulability and causal inbetweenness. *Synthese*, 
 - Catalogue descriptions: typical mechanistic models contain non-causal
   relations as well as causal ones, so the standard ideal intervention is
   not appropriate there, and an extended interventionism is argued for.
-- Baumgartner and Casini (NOTE-tmp5hk5o), footnote 8: "Harinen (2014), who
+- Baumgartner and Casini ([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md)), footnote 8: "Harinen (2014), who
   also points out that MM imposes unsatisfiable requirements on
   interventions, fails to see that relaxing the requirements in the vein
   of interventionism∗ deprives interventions on mechanisms of their

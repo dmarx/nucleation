@@ -14,10 +14,10 @@ source:
 bears_on:
 - QUESTION-284
 summary: >-
-  Baumgartner & Gebharter (2016), LIT-tmpkhdpi, pp. 10–13, 18–20, and
-  Baumgartner & Casini (2017), LIT-tmps6sc3, pp. 6–11; restated by
+  Baumgartner & Gebharter (2016), [LIT-tmpkhdpi](../literature.d/LIT-tmpkhdpi.md), pp. 10–13, 18–20, and
+  Baumgartner & Casini (2017), [LIT-tmps6sc3](../literature.d/LIT-tmps6sc3.md), pp. 6–11; restated by
   Baumgartner, Casini & Krickel (2020) as Systematic Fat-Handedness. Read
-  in NOTE-tmpeljd8 and NOTE-tmp5hk5o. Active as a conditional: valid on
+  in [NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md) and [NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md). Active as a conditional: valid on
   supervenience and non-causal constitution, and checked step by step. It
   does not say that constitution cannot be known, only that no finite set
   of manipulations of whole and part shows it; and it is about
@@ -30,11 +30,11 @@ summary: >-
 
 ## Source
 
-Baumgartner and Gebharter (2016), LIT-tmpkhdpi, §§3–5, pp. 10–20 of the
-penultimate draft (NOTE-tmpeljd8); Baumgartner and Casini (2017),
-LIT-tmps6sc3, §§2–3, pp. 6–11 (NOTE-tmp5hk5o); Baumgartner, Casini and
-Krickel (2020), LIT-tmp130h8, §2, p. 6 (NOTE-tmpz7pqv). Romero 2015
-(LIT-tmpk95bs, unread) is cited by all three for the same result.
+Baumgartner and Gebharter (2016), [LIT-tmpkhdpi](../literature.d/LIT-tmpkhdpi.md), §§3–5, pp. 10–20 of the
+penultimate draft ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md)); Baumgartner and Casini (2017),
+[LIT-tmps6sc3](../literature.d/LIT-tmps6sc3.md), §§2–3, pp. 6–11 ([NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md)); Baumgartner, Casini and
+Krickel (2020), [LIT-tmp130h8](../literature.d/LIT-tmp130h8.md), §2, p. 6 ([NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md)). Romero 2015
+([LIT-tmpk95bs](../literature.d/LIT-tmpk95bs.md), unread) is cited by all three for the same result.
 
 ## What was actually shown
 
@@ -84,8 +84,8 @@ of the whole that leaves all parts alone.
 
 - **That constitution cannot be known.** It says first-order intervention
   data cannot show it. B&G and B&C each propose a second-order, abductive
-  route (THEORY-tmpy9dyw), and BCK a sufficient condition under further
-  principles (THEORY-tmpv5g3z).
+  route ([THEORY-tmpy9dyw](THEORY-tmpy9dyw.md)), and BCK a sufficient condition under further
+  principles ([THEORY-tmpv5g3z](THEORY-tmpv5g3z.md)).
 - **That interventions inside a mechanism are uninformative.** The result
   concerns a whole and its parts changing together. A diachronic cause
   inside a system, such as a production pathway whose knockout changes a
@@ -93,7 +93,7 @@ of the whole that leaves all parts alone.
   on surgically. By B&G's own temporal clause (M**) (p. 17), it is not a
   constituent of what it later changes.
 - **That the premises are agreed.** Leuridan rejects (NC); Krickel 2018
-  (LIT-tmp5bf7n, unread) proposes reading mutual manipulability causally,
+  ([LIT-tmp5bf7n](../literature.d/LIT-tmp5bf7n.md), unread) proposes reading mutual manipulability causally,
   between a component and temporal parts of the phenomenon. The result
   is conditional on (Sup) and (NC).
 - **Anything about where a system's boundary lies.** All three papers take
@@ -101,24 +101,24 @@ of the whole that leaves all parts alone.
 - **That simultaneity is sharp.** (NC) via Simultaneity draws the line
   between causation and constitution at zero delay. In a dynamical model a
   part's response takes time, and whether it counts as simultaneous
-  depends on the time scale of the description (CLAIM-tmp1qybv).
+  depends on the time scale of the description ([CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md)).
 
 ## Connections
 
-- **CLAIM-522** is left standing: its separating interventions act on
+- **[CLAIM-522](../claims.d/CLAIM-522.md)** is left standing: its separating interventions act on
   production pathways whose effects on the capacities are delayed, and its
   question is where a producer sits relative to a declared boundary, not
-  what constitutes the organization (ARG-tmp39a6w).
-- **CLAIM-515**'s third question, "which mechanisms realize those
+  what constitutes the organization ([ARG-tmp39a6w](../arguments.d/ARG-tmp39a6w.md)).
+- **[CLAIM-515](../claims.d/CLAIM-515.md)**'s third question, "which mechanisms realize those
   capabilities, shown by interventions that discriminate implementations",
   is answerable by intervention only where "realize" is read
-  diachronically (CLAIM-tmp1qybv).
-- **QUESTION-284** asks whether any evidence tells constitution from
+  diachronically ([CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md)).
+- **[QUESTION-284](../questions.d/QUESTION-284.md)** asks whether any evidence tells constitution from
   causal modification. For part–whole constitution, no finite set of
   manipulations does; a second-order pattern may.
-- **CLAIM-150** says identification underdetermines constitution for
+- **[CLAIM-150](../claims.d/CLAIM-150.md)** says identification underdetermines constitution for
   communicative acts. This is a proved instance of that form for
   mechanisms.
-- **CLAIM-388, CLAIM-386.** Tests of a collective variable's closure use
+- **[CLAIM-388](../claims.d/CLAIM-388.md), [CLAIM-386](../claims.d/CLAIM-386.md).** Tests of a collective variable's closure use
   micro changes that leave the aggregate fixed, the surgical bottom-up
   interventions the asymmetry above allows.

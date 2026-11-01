@@ -36,7 +36,7 @@ summary: >-
 
 ## Contribution
 
-After the negative results (NOTE-tmpeljd8, NOTE-tmp5hk5o), it shows that
+After the negative results ([NOTE-tmpeljd8](NOTE-tmpeljd8.md), [NOTE-tmp5hk5o](NOTE-tmp5hk5o.md)), it shows that
 an intervention-based sufficient condition for constitution exists after
 all, if the intervention is restricted the right way and three
 metaphysical principles are granted. It also shows why the obvious
@@ -131,11 +131,11 @@ downstream of the first.
 
 ## Connections
 
-- Takes Systematic Fat-Handedness from Romero (LIT-tmpk95bs), Baumgartner &
-  Gebharter (LIT-tmpkhdpi) and Baumgartner & Casini (LIT-tmps6sc3), and
+- Takes Systematic Fat-Handedness from Romero ([LIT-tmpk95bs](../literature.d/LIT-tmpk95bs.md)), Baumgartner &
+  Gebharter ([LIT-tmpkhdpi](../literature.d/LIT-tmpkhdpi.md)) and Baumgartner & Casini ([LIT-tmps6sc3](../literature.d/LIT-tmps6sc3.md)), and
   presents itself as the interventionist alternative to the latter's
   abductive NDC (p. 9).
-- Footnote 3: Krickel's separate route (LIT-tmp5bf7n), "MM may be saved if
+- Footnote 3: Krickel's separate route ([LIT-tmp5bf7n](../literature.d/LIT-tmp5bf7n.md)), "MM may be saved if
   the phenomenon is represented by multiple variables standing for
   different temporal phases".
 - Footnote 2 reports that Craver acknowledges the difficulty (Craver &
@@ -143,45 +143,45 @@ downstream of the first.
 
 ## Bearing on the record's own argument
 
-- **CLAIM-522 and CLAIM-194: what has to be given.** The one positive
+- **[CLAIM-522](../claims.d/CLAIM-522.md) and [CLAIM-194](../claims.d/CLAIM-194.md): what has to be given.** The one positive
   intervention result in this debate needs parthood and a hierarchy of
   levels as inputs (p. 5) and outputs constitution. It does not output a
-  boundary. That is CLAIM-522's "relative to a declared boundary" and
-  CLAIM-194's "a coupling statistic has no term for who made the
+  boundary. That is [CLAIM-522](../claims.d/CLAIM-522.md)'s "relative to a declared boundary" and
+  [CLAIM-194](../claims.d/CLAIM-194.md)'s "a coupling statistic has no term for who made the
   coupling", found in a literature that set out to analyse constitution by
   intervention. Same point, reached for part–whole constitution.
-- **CLAIM-522's interventions are not horizontally surgical, and need not
+- **[CLAIM-522](../claims.d/CLAIM-522.md)'s interventions are not horizontally surgical, and need not
   be.** H(ii) requires the target and the phenomenon to change
-  simultaneously. A production knockout in CASE-189 changes the
+  simultaneously. A production knockout in [CASE-189](../cases.d/CASE-189.md) changes the
   capacities only over time. So SUF neither applies to nor is needed for
-  CLAIM-522's conclusion, which is about where a cause sits, not what
-  constitutes what (ARG-tmp39a6w).
-- **CLAIM-480: Simultaneity is a property of a description's time
+  [CLAIM-522](../claims.d/CLAIM-522.md)'s conclusion, which is about where a cause sits, not what
+  constitutes what ([ARG-tmp39a6w](../arguments.d/ARG-tmp39a6w.md)).
+- **[CLAIM-480](../claims.d/CLAIM-480.md): Simultaneity is a property of a description's time
   scale.** SIM and H(ii) make the line between causation and constitution
-  the line between delayed and simultaneous change. CLAIM-480's chain has
+  the line between delayed and simultaneous change. [CLAIM-480](../claims.d/CLAIM-480.md)'s chain has
   an interior x₂ whose response to the boundary is instantaneous when it
   equilibrates fast (E_eff, memoryless) and delayed when it relaxes slowly
   (a memory kernel). So whether the interior's change counts as
   simultaneous with the boundary's, and so whether the dependence is
   constitutive by SIM, depends on the time resolution of the description.
   The paper's TR is restricted to non-relativistic distances; it has no
-  parallel restriction to time scales. CLAIM-tmp1qybv part 3 states this.
+  parallel restriction to time scales. [CLAIM-tmp1qybv](../claims.d/CLAIM-tmp1qybv.md) part 3 states this.
   Krickel's temporal-phase move (footnote 3) points the same way and has
   not been read here.
-- **CLAIM-515's "realized".** SUF is the one route by which a single
+- **[CLAIM-515](../claims.d/CLAIM-515.md)'s "realized".** SUF is the one route by which a single
   intervention shows realization in the synchronic sense. It needs UC, SIM,
   TR and the level hierarchy. An organization's capability is rarely given
   with a level hierarchy of parts, so for the record's organizations the
   route is mostly closed, and the realization question falls back to
-  abduction (NOTE-tmp5hk5o).
-- **QUESTION-284.** A positive answer to "what evidence would tell
+  abduction ([NOTE-tmp5hk5o](NOTE-tmp5hk5o.md)).
+- **[QUESTION-284](../questions.d/QUESTION-284.md).** A positive answer to "what evidence would tell
   constitution from ... ordinary causal modification", for part–whole
   constitution: a simultaneous change in whole and part under an
   intervention that touches nothing else at that level. Its price is
-  QUESTION-284's second half: the boundary and the levels must already be
+  [QUESTION-284](../questions.d/QUESTION-284.md)'s second half: the boundary and the levels must already be
   fixed.
-- **TERM-088.** The paper's levels are local parthood levels relative to a
-  phenomenon (footnote 6), neither the term's senses nor CLAIM-526's
+- **[TERM-088](../terms.d/TERM-088.md).** The paper's levels are local parthood levels relative to a
+  phenomenon (footnote 6), neither the term's senses nor [CLAIM-526](../claims.d/CLAIM-526.md)'s
   levels of description.
 
 ## Limitations
@@ -193,7 +193,7 @@ downstream of the first.
 - **SIM is assumed, not argued**, beyond Craver and Bechtel 2007. It is
   sharp only at a fixed time resolution.
 - **Parthood is assumed clear**, and Leuridan's endosymbiosis case
-  (LIT-tmpgs9lv) is not discussed. Gerrymandering is set aside without a
+  ([LIT-tmpgs9lv](../literature.d/LIT-tmpgs9lv.md)) is not discussed. Gerrymandering is set aside without a
   criterion (footnote 5).
 - **Whether horizontally surgical interventions exist** in any real system
   is not shown; hFAT's necessity half is only suggested.
@@ -202,6 +202,6 @@ downstream of the first.
 
 - In a dynamical model with explicit relaxation times, is there an
   intervention that is horizontally surgical at one time resolution and
-  not at another? CLAIM-480's chain is a candidate to compute.
+  not at another? [CLAIM-480](../claims.d/CLAIM-480.md)'s chain is a candidate to compute.
 - Does SUF survive replacing SIM with "changes within the relaxation time
   of the faster process are not causally related"?
