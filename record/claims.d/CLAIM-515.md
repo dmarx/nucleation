@@ -81,3 +81,22 @@ look, not that they always come apart.
   may coincide, and that is a finding to establish.
 - **That the four exhaust the questions.** Justification, authority and
   value are further questions again ([CLAIM-523](CLAIM-523.md), [CLAIM-511](CLAIM-511.md)).
+
+## Note of 2026-11-01: the "realized" question in the mechanism literature
+
+<!-- inactive-ok-file: CLAIM-tmpg57ci — Proposed; the claim filed from this reading, cited as open -->
+
+- **Question 3, "realized".** Bechtel and Abrahamsen (LIT-tmppbuqq,
+  THEORY-tmpakm3a) hold that a model posited to fit behaviour shows only
+  how a mechanism of that kind could produce it, and that fit usually
+  cannot decide between architectures. What decides is identifying parts
+  and operations by experiment. That is this claim's "interventions that
+  discriminate implementations", with a field's history behind it.
+- **Question 4, "maintained".** The constitutive-relevance criterion
+  answers which parts realize a capability only relative to a declared
+  boundary (CLAIM-tmpg57ci). So the claim's fourth question, whether the
+  organization can maintain its own mechanisms, presupposes an answer to
+  where the organization ends. Interlevel experiments do not supply that
+  answer.
+
+No status, title or warrant changes.

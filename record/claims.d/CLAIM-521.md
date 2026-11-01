@@ -79,3 +79,18 @@ property from coupling-based individuation".
   the fold nears. Whether the loss is observed before the fold depends on
   size, noise, the observation horizon and how fast the parameter moves.
   The dissociation holds for as long as the regime does.
+
+## Note of 2026-11-01: where coupling carries maintenance, the dissociation fails
+
+Bechtel and Abrahamsen (LIT-tmppbuqq, p. 327) report To et al.'s (2007)
+model of the SCN. About 40% of cells can sustain oscillation alone, and
+without the coupling peptide VIP about 60% become arrhythmic. For those
+cells the coupling is what maintains the oscillation. That is the
+feedback from coupled units to the maintaining process that this claim's
+construction excludes. In such an architecture, losing the coupling and
+losing maintenance go together, so the coupling would not stay strong up
+to a fold of maintenance. This is a contrast, not a counterexample. It
+supports the claim's own statement that the dissociation belongs to
+architectures without that feedback.
+
+No status, title or warrant changes.

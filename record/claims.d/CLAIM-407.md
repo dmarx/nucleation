@@ -214,3 +214,23 @@ damaged one. v1.9 (dmarx/PerspectiveLab@9f82bfd) estimates Γ from sampled
 intervention outcomes, as held-out log-loss: 0.7718 bits at 300 windows
 and 0.5103 at 19,200, against 0.5051. Small samples overstate it. The
 claim is unchanged.
+
+## Note of 2026-11-01: a reduced circadian model as a possible instance
+
+Bechtel and Abrahamsen (LIT-tmppbuqq, NOTE-tmpbljat) report two models of
+the Drosophila clock.
+- Leloup and Goldbeter model light as a doubling of TIM's degradation
+  rate, which reproduces phase shifts (p. 325).
+- Smolen et al.'s reduced model merges PER and TIM into one variable and
+  still reproduces the 24-hour oscillation (p. 326).
+
+A coarse-graining that merges the two is adequate to the ordinary
+dynamics. It may not preserve the response to an intervention that acts
+on TIM alone, since it has no variable for light to act on separately.
+That is this claim's structure: ordinary adequacy without preservation of
+the response to an intervention on the mechanism. Same structure, not
+shown same mechanism. Neither the paper nor the models compute anything
+like Γ, and whether the reduced model mispredicts light responses is not
+reported.
+
+No status, title or warrant changes.

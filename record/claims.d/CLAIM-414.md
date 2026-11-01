@@ -183,3 +183,27 @@ which one applies in every reference run and predicts interventions
 never probed (dmarx/PerspectiveLab@9f82bfd). Decay and threshold are
 recovered only approximately. Both are stipulated constructions, not an
 independence theorem. The claim is unchanged.
+
+## Note of 2026-11-01: the separating intervention in the mechanism literature
+
+<!-- inactive-ok-file: CLAIM-tmpg57ci THEORY-tmpnzjca CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
+
+- **The intervention is the mechanists' "lesion".** The claim's second
+  construction separates the pair by a perturbation of the maintained
+  constraints. The record's later cases (CASE-161, CASE-163) separate
+  theirs by knocking out production pathways. In Craver and Bechtel's
+  terms (LIT-tmpgntir, pp. 553–554) these are interlevel experiments, and
+  in Bechtel and Abrahamsen's (LIT-tmppbuqq, p. 326) they are C3: clamp a
+  part and see whether the phenomenon survives (THEORY-tmp7jall). Both
+  readings agree with the claim's second limit, that knowing the
+  mechanisms tells the systems apart. Both also say such experiments show
+  componency only relative to a boundary drawn beforehand
+  (THEORY-tmp09e3b, CLAIM-tmpg57ci).
+- **A biological parallel to construction 2.** Bechtel and Abrahamsen
+  report the open question whether peripheral clocks keep their own
+  rhythm or are damped oscillators reset by the SCN, and a model in which
+  the two respond differently to a phase shift (p. 328; THEORY-tmpnzjca).
+  Same structure, not shown same mechanism: there the perturbation
+  separates them because the two arrangements obey different equations.
+
+No status, title or warrant changes.

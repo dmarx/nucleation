@@ -133,3 +133,21 @@ identification belongs on the right. The evidence for each differs.
   reading, the claim stands.
 - **That causal model, wanting and efficacy go together.** They are
   separable ([CLAIM-447](CLAIM-447.md)); this claim is about the first only.
+
+## Note of 2026-11-01: a precedent in cognitive modelling
+
+Bechtel and Abrahamsen (LIT-tmppbuqq, NOTE-tmpbljat, THEORY-tmpakm3a)
+make this claim's methodological point about cognitive models in
+general. Such models are proposed de novo and checked only by fit, and
+"Empirical evidence can rule out specific models, but usually cannot
+decide between competing architectures" (p. 332). Their example is the
+past-tense debate, "irresolvable" without constraint from identified
+parts (p. 330). Their footnote 5 (p. 329) bears on the claim's two
+readings of "contains a model". A model whose variables track a
+mechanism describes it and does not perform its operations. A system
+whose behaviour a predictive model describes need not contain a
+component that performs prediction. Their remedy is anchoring variables
+to parts found by experiment. That is the claim's "evidence that
+discriminates candidate implementations".
+
+No status, title or warrant changes.

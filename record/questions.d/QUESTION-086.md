@@ -179,3 +179,32 @@ worse. Diagnosis by intervention therefore holds only within the
 catalog the modeller supplies, and v2.5 shows how to detect, not repair,
 leaving it. Nothing here bears on whether a maintaining arrangement is
 self-constituting.
+
+## Note of 2026-11-01: a candidate short of removal, and the boundary again
+
+<!-- inactive-ok-file: THEORY-tmpnzjca CLAIM-tmpg57ci — Proposed; the reading and claim filed from the mechanism literature, cited as open -->
+
+- **A candidate answer from biology, with a condition.** Bechtel and
+  Abrahamsen (LIT-tmppbuqq, p. 328) report an open question: are
+  peripheral circadian clocks self-sustained, or damped oscillators
+  driven by the SCN? They also report a model in which the two
+  arrangements respond differently to a phase shift. The damped ones
+  regain phase fast. The self-sustained ones are slow, need strong
+  coupling, and sometimes resynchronize by a fifteen-hour delay instead of
+  a six-hour advance (THEORY-tmpnzjca). That is an intervention short of
+  removing the controller. It works when the outside arrangement is not
+  dynamically equivalent to the inside one. Where the outside supplier
+  reproduces the inside law exactly (CLAIM-522), it cannot. The
+  signatures are model outputs and are not confirmed.
+- **A10's problem of scale is the parthood condition.** On Craver's
+  mutual-manipulability criterion, a producer and an outside controller
+  pass the same interventions. Only the parthood condition, a boundary
+  drawn beforehand, puts one inside (CLAIM-tmpg57ci). Craver and Bechtel
+  concede that their interlevel experiments establish componency only
+  prima facie (THEORY-tmp09e3b). So "which side of a boundary the
+  controller sits on depends on where the boundary is drawn" holds in the
+  mechanist's own account. If the question has an answer that does not
+  presuppose a boundary, it will not come from interlevel experiments
+  alone.
+
+No status, title or warrant changes.
