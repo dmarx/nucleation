@@ -28,7 +28,7 @@ source:
 bears_on:
 - QUESTION-093
 summary: >-
-  Craver and Bechtel (2007), LIT-tmpgntir, read in NOTE-tmp6uiie. Parts and
+  Craver and Bechtel (2007), [LIT-tmpgntir](../literature.d/LIT-tmpgntir.md), read in [NOTE-tmp6uiie](../notes.d/NOTE-tmp6uiie.md). Parts and
   wholes are not distinct events. So, given transmission, distinctness or
   asymmetry views of causation, they cannot be cause and effect, and the
   symmetry of interlevel experiments is explained by constitution. The
@@ -42,8 +42,8 @@ summary: >-
 
 ## Source
 
-Craver and Bechtel (2007), LIT-tmpgntir, Biology and Philosophy 22:547–563;
-read in NOTE-tmp6uiie.
+Craver and Bechtel (2007), [LIT-tmpgntir](../literature.d/LIT-tmpgntir.md), Biology and Philosophy 22:547–563;
+read in [NOTE-tmp6uiie](../notes.d/NOTE-tmp6uiie.md).
 
 ## What was actually shown
 
@@ -81,19 +81,19 @@ read in NOTE-tmp6uiie.
 - **Anything about boundaries.** Feedback "inside the mechanism" raises no
   mystery (p. 560). The paper does not ask what changes when the loop runs
   through something outside the mechanism. Who is inside is the
-  definition's undefined "component" (THEORY-tmp09e3b).
+  definition's undefined "component" ([THEORY-tmp09e3b](THEORY-tmp09e3b.md)).
 - **Anything about strong emergence,** which is set aside by definition
   (p. 551).
 
 ## Connections
 
-- **QUESTION-093.** A coalition's influence on its members is, on this
+- **[QUESTION-093](../questions.d/QUESTION-093.md).** A coalition's influence on its members is, on this
   account, a mechanistically mediated effect. The question's four
   criteria (predictive and interventional autonomy, closure,
   self-individuation) need no top-down causation in any stronger sense.
   The account offers nothing for deciding which of them a higher-level
   agent needs.
-- **THEORY-072 and CLAIM-516.** Mutual production among constraints is,
+- **[THEORY-072](THEORY-072.md) and [CLAIM-516](../claims.d/CLAIM-516.md).** Mutual production among constraints is,
   in this vocabulary, intralevel causation among components. The
   organization's persistence is constituted by it. The account is
   consistent with both and adds nothing to them.

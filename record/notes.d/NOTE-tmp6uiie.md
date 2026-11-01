@@ -146,13 +146,13 @@ The results are a definition, an argument, and translations.
 ## Connections
 
 It applies Craver's account of levels (Craver 2001, and Explaining the
-Brain, LIT-832, then forthcoming). The account of interlevel experiments
+Brain, [LIT-832](../literature.d/LIT-832.md), then forthcoming). The account of interlevel experiments
 is Craver 2002, the source of the mutual-manipulability criterion. That
 criterion is stated in Explaining the Brain and in "Constitutive
-explanatory relevance" (LIT-tmph2s2a), neither of which was reached. The
+explanatory relevance" ([LIT-tmph2s2a](../literature.d/LIT-tmph2s2a.md)), neither of which was reached. The
 paper answers Kim's (2000) argument that simultaneous upward and downward
 influence makes causal circles. It anticipates the later charge
-(Baumgartner and Gebharter 2016, reported in LIT-tmpj2ar6) that an
+(Baumgartner and Gebharter 2016, reported in [LIT-tmpj2ar6](../literature.d/LIT-tmpj2ar6.md)) that an
 interventionist reading of these experiments confuses constitution with
 causation. Here the symmetry of the experiments is the evidence for
 constitution. Bechtel's later paper on top-down causation through networks and
@@ -165,8 +165,8 @@ That is known here from a search snippet, not from reading it.
 - **No test of componency.** The definition of level takes "component" as
   given. The experiments supply only prima facie evidence, and the
   difference between a component and a background condition is left to an
-  undefined "interactively integrated". Constitutive relevance (LIT-832,
-  LIT-tmph2s2a) is meant to supply the test, and this paper does not.
+  undefined "interactively integrated". Constitutive relevance ([LIT-832](../literature.d/LIT-832.md),
+  [LIT-tmph2s2a](../literature.d/LIT-tmph2s2a.md)) is meant to supply the test, and this paper does not.
 - **The conclusion is mostly assumed.** That all higher-level causes have
   mechanistic explanations is an assumption (p. 548). So the translation's
   success shows that the view is coherent, not that it is true.
@@ -185,13 +185,13 @@ That is known here from a search snippet, not from reading it.
   paper's virus example suggests the explanandum (p. 557).
 - Does an item that is causally coupled to a system in both directions,
   but located outside it, pass the paper's four experiments? For a
-  state-feedback controller it does (CLAIM-tmpg57ci). If so, what rules it
+  state-feedback controller it does ([CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md)). If so, what rules it
   out as a component, other than a boundary drawn beforehand?
 
 ## Bearing on the record's own argument
 
-- **CLAIM-522: the boundary it requires is the paper's undefined
-  "component".** CLAIM-522 says that only interventions on mechanisms,
+- **[CLAIM-522](../claims.d/CLAIM-522.md): the boundary it requires is the paper's undefined
+  "component".** [CLAIM-522](../claims.d/CLAIM-522.md) says that only interventions on mechanisms,
   relative to a declared boundary, separate an internal producer from an
   outside controller that supplies the same law. Run this paper's four
   experiments (pp. 553–554) on both systems, with maintenance of c as
@@ -208,33 +208,33 @@ That is known here from a search snippet, not from reading it.
   c and acting on it. So by the paper's own markers the controller is a
   component of the mechanism for "c is maintained". What puts it outside
   is the declared boundary, which the phenomenon "the system maintains c"
-  already names. That is filed as CLAIM-tmpg57ci. It is CLAIM-522's own
+  already names. That is filed as [CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md). It is [CLAIM-522](../claims.d/CLAIM-522.md)'s own
   closing proviso, that the boundary is not given, now traced into the
   mechanist's account of constitution.
-- **CLAIM-194: a second instance of the same gap.** CLAIM-194 says a
+- **[CLAIM-194](../claims.d/CLAIM-194.md): a second instance of the same gap.** [CLAIM-194](../claims.d/CLAIM-194.md) says a
   coupling criterion has "no term for who made the coupling". This paper's
   experiments have no term for which side of a boundary a component sits
   on. Interactive integration, the paper's only discriminator, is a
-  coupling notion. So it inherits CLAIM-194's blindness to who made the
-  coupling. Same structure, not shown same mechanism: CLAIM-194 is about
+  coupling notion. So it inherits [CLAIM-194](../claims.d/CLAIM-194.md)'s blindness to who made the
+  coupling. Same structure, not shown same mechanism: [CLAIM-194](../claims.d/CLAIM-194.md) is about
   observational statistics, and this is about interventions.
-- **CLAIM-414 and QUESTION-086: what the experiments do separate.** Within
-  a fixed boundary the lesion experiment is just CLAIM-414's separating
+- **[CLAIM-414](../claims.d/CLAIM-414.md) and [QUESTION-086](../questions.d/QUESTION-086.md): what the experiments do separate.** Within
+  a fixed boundary the lesion experiment is just [CLAIM-414](../claims.d/CLAIM-414.md)'s separating
   intervention. Disabling the inside pathway ends A's maintenance and
   leaves B's untouched. So the paper supports the record's view that an
   intervention on mechanism, not state, is what separates them. It
-  supplies no intervention that finds the boundary. QUESTION-086's "by what
+  supplies no intervention that finds the boundary. [QUESTION-086](../questions.d/QUESTION-086.md)'s "by what
   intervention" is answered by this paper only relative to a boundary
   already drawn.
-- **QUESTION-093 and the "higher-level agent".** On this paper's account, a
+- **[QUESTION-093](../questions.d/QUESTION-093.md) and the "higher-level agent".** On this paper's account, a
   coalition's higher-level "influence" on its members is a mechanistically
   mediated effect: members enlisted in the ride (p. 559). Nothing in
-  QUESTION-093's four criteria needs top-down causation in a stronger
+  [QUESTION-093](../questions.d/QUESTION-093.md)'s four criteria needs top-down causation in a stronger
   sense. The paper also gives no reason to think closure or
   self-individuation could be read from interlevel experiments without a
   boundary.
-- **THEORY-072 and production.** THEORY-072 draws the line at "constraints
+- **[THEORY-072](../theory.d/THEORY-072.md) and production.** [THEORY-072](../theory.d/THEORY-072.md) draws the line at "constraints
   that produce one another". In this paper's vocabulary, mutual production
   is intralevel causation among components, and the organism's persistence
-  is constituted by it. That is consistent with THEORY-072. It adds nothing
+  is constituted by it. That is consistent with [THEORY-072](../theory.d/THEORY-072.md). It adds nothing
   on whether production happens inside or outside the boundary.

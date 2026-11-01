@@ -69,12 +69,12 @@ Craver, C. F., Glennan, S., & Povich, M. (2021). Constitutive relevance & mutual
 
 ## Standing in the record
 
-This is the text that would settle whether CLAIM-tmpg57ci is right that
+This is the text that would settle whether [CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md) is right that
 the manipulability conditions take the mechanism's boundary as given.
 "Causal betweenness" is the part to check. If a constituent is whatever
 lies causally between a phenomenon's input and its output, then an
 outside controller that closes the production loop lies between them
 too. On that reading, betweenness alone does not put the controller
 outside the system any more than mutual manipulability does. That is
-the question for CLAIM-522 and QUESTION-086. Until a copy is read it is
+the question for [CLAIM-522](../claims.d/CLAIM-522.md) and [QUESTION-086](../questions.d/QUESTION-086.md). Until a copy is read it is
 only a question.

@@ -169,19 +169,19 @@ the second. The third is a matter of the experiment's design.
 
 <!-- inactive-ok-file: CLAIM-tmpg57ci — Proposed; the claim filed from this reading, cited as open -->
 
-- **How-possibly.** In Bechtel and Abrahamsen's terms (LIT-tmppbuqq,
-  THEORY-tmpakm3a) both constructions are de novo dynamical models. Their
+- **How-possibly.** In Bechtel and Abrahamsen's terms ([LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md),
+  [THEORY-tmpakm3a](../theory.d/THEORY-tmpakm3a.md)) both constructions are de novo dynamical models. Their
   variables are posited, not properties of parts found by experiment. So
   they show how a maintained organization could behave (contributions C1
   and C2), not that any system is organized this way.
 - **The knockouts.** Removing a production pathway and finding that
-  maintenance ends is their C3, a clamp in a model (THEORY-tmp7jall). It
+  maintenance ends is their C3, a clamp in a model ([THEORY-tmp7jall](../theory.d/THEORY-tmp7jall.md)). It
   shows the pathway is a component of the mechanism responsible for
   maintenance. It does not show the pathway is the organization's own,
   since "Which terms are internal is stipulated".
-- **Provenance.** The outside controller of CLAIM-522 meets mutual
+- **Provenance.** The outside controller of [CLAIM-522](../claims.d/CLAIM-522.md) meets mutual
   manipulability's manipulability conditions as the internal pathway
   does. So which one is a constituent of the organization is settled by
-  the declared boundary (CLAIM-tmpg57ci).
+  the declared boundary ([CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md)).
 
 No status, title or warrant changes.

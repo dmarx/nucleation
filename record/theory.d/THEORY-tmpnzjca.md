@@ -29,14 +29,14 @@ source:
 bears_on:
 - QUESTION-086
 summary: >-
-  Bechtel and Abrahamsen (2010), LIT-tmppbuqq, §3.6, p. 328, read in
-  NOTE-tmpbljat. Peripheral clocks were once taken for "slaves" of the
+  Bechtel and Abrahamsen (2010), [LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), §3.6, p. 328, read in
+  [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md). Peripheral clocks were once taken for "slaves" of the
   SCN, damping without it. Later evidence suggested they keep oscillating
   and lose synchrony, so the SCN is "a conductor" rather than "a
   ringmaster". The paper's reading is that models of both kinds "can
   reveal the empirical signatures that each may leave". This is a
   biological instance of the record's question where maintenance is
-  realized. It is also a case outside CLAIM-522's ideal limit: the
+  realized. It is also a case outside [CLAIM-522](../claims.d/CLAIM-522.md)'s ideal limit: the
   outside drive does not reproduce the inside law, so a perturbation of
   state may tell them apart.
 ---
@@ -46,8 +46,8 @@ summary: >-
 
 ## Source
 
-Bechtel and Abrahamsen (2010), LIT-tmppbuqq, §3.6, p. 328, and §3.5,
-p. 327; read in NOTE-tmpbljat. It reports Davidson et al. (2004) and
+Bechtel and Abrahamsen (2010), [LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), §3.6, p. 328, and §3.5,
+p. 327; read in [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md). It reports Davidson et al. (2004) and
 Leise and Siegelmann (2006), neither held here.
 
 ## What was actually shown
@@ -91,7 +91,7 @@ Leise and Siegelmann (2006), neither held here.
 - **That a state probe always separates inside from outside maintenance.**
   It separates these two arrangements because they obey different
   equations. A drive that reproduced the oscillator's own law exactly, the
-  ideal case of CLAIM-522, would leave no such signature.
+  ideal case of [CLAIM-522](../claims.d/CLAIM-522.md), would leave no such signature.
 - **That "self-sustained" settles where the rhythm is maintained.** A
   self-sustained peripheral cell still depends on its own substrates and
   on the organism. The distinction is relative to a declared boundary, the
@@ -99,22 +99,22 @@ Leise and Siegelmann (2006), neither held here.
 
 ## Connections
 
-- **QUESTION-086.** It asks for an intervention short of removing the
+- **[QUESTION-086](../questions.d/QUESTION-086.md).** It asks for an intervention short of removing the
   controller that tells self-maintenance from outside maintenance. This
   is a candidate answer, with its condition: a perturbation of state,
   here a phase shift, can do it when the outside arrangement is not
   dynamically equivalent to the inside one. That fits A44's prediction,
-  filed in QUESTION-086's note of 2026-10-18, that "the way coherence is
+  filed in [QUESTION-086](../questions.d/QUESTION-086.md)'s note of 2026-10-18, that "the way coherence is
   achieved predicts how coherence fails". It is a biological case, not
   a construction. The signatures are unconfirmed.
-- **CLAIM-522.** It marks the edge of the claim's ideal limit, which the
+- **[CLAIM-522](../claims.d/CLAIM-522.md).** It marks the edge of the claim's ideal limit, which the
   claim's own defeated_if anticipates: a controller with lag, saturation
   or a different law "may be detectable by state probes, and that is not a
   counterexample". Here the outside arrangement differs in law, not only
   in lag.
-- **CLAIM-414.** Its maintenance pair, closed production against outside
+- **[CLAIM-414](../claims.d/CLAIM-414.md).** Its maintenance pair, closed production against outside
   reset, is told apart by a single perturbation of state. This case is
   the same structure in a biological model. Same structure, not shown
   same mechanism.
-- **CLAIM-521.** In To et al.'s cells, coupling carries maintenance. That
-  is the feedback CLAIM-521's construction excludes.
+- **[CLAIM-521](../claims.d/CLAIM-521.md).** In To et al.'s cells, coupling carries maintenance. That
+  is the feedback [CLAIM-521](../claims.d/CLAIM-521.md)'s construction excludes.

@@ -1,16 +1,16 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmpbljat); worth keeping for the line it
+  read in full 2026-11-01 ([NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md)); worth keeping for the line it
   draws between a dynamical model whose variables are anchored to parts
   and operations already found by experiment, and one posited de novo
-  that is checked only by fit to behaviour (THEORY-tmpakm3a). Kept also
+  that is checked only by fit to behaviour ([THEORY-tmpakm3a](../theory.d/THEORY-tmpakm3a.md)). Kept also
   for two uses of modelling that bear on the record's maintenance
   constructions. One is clamping a variable to test whether an
   identified part belongs to the responsible mechanism
-  (THEORY-tmp7jall). The other is the open question whether peripheral
+  ([THEORY-tmp7jall](../theory.d/THEORY-tmp7jall.md)). The other is the open question whether peripheral
   circadian clocks sustain their own rhythm or are damped oscillators
-  driven from outside (THEORY-tmpnzjca).
+  driven from outside ([THEORY-tmpnzjca](../theory.d/THEORY-tmpnzjca.md)).
 title: 'Dynamic mechanistic explanation: computational modeling of circadian rhythms as an exemplar for cognitive science'
 version: 1
 history:
@@ -63,7 +63,7 @@ summary: >-
 
 Bechtel, W., & Abrahamsen, A. (2010). Dynamic mechanistic explanation: computational modeling of circadian rhythms as an exemplar for cognitive science. *Studies in History and Philosophy of Science Part A*, 41(3), 321–333 — DOI-10.1016/j.shpsa.2010.07.003
 
-Read in full in NOTE-tmpbljat.
+Read in full in [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md).
 
 ## Key takeaways
 
@@ -91,10 +91,10 @@ Read in full in NOTE-tmpbljat.
 
 ## Standing in the record
 
-The record's maintenance constructions (CASE-189, CASE-190) are dynamical
+The record's maintenance constructions ([CASE-189](../cases.d/CASE-189.md), [CASE-190](../cases.d/CASE-190.md)) are dynamical
 models whose variables, "constraint capacities", are posited, not found.
-In this paper's terms they are de novo, how-possibly models. CLAIM-522 and
-CLAIM-519 say that the same effective dynamics can be realized by
+In this paper's terms they are de novo, how-possibly models. [CLAIM-522](../claims.d/CLAIM-522.md) and
+[CLAIM-519](../claims.d/CLAIM-519.md) say that the same effective dynamics can be realized by
 different mechanisms. This paper says what tells them apart in practice:
 independent evidence about the parts and operations. Fit and dynamics
 alone do not.

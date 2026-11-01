@@ -192,9 +192,9 @@ The six contributions, each with its circadian exemplar.
 It builds on Bechtel and Abrahamsen 2005's account of mechanism, here
 extended to dynamics, and anticipates their "Complex biological
 mechanisms: cyclic, oscillatory, and autonomous" (then in press). It cites
-Craver 2007 (LIT-832) for "how possibly". The C3 test is a model-based
+Craver 2007 ([LIT-832](../literature.d/LIT-832.md)) for "how possibly". The C3 test is a model-based
 version of the interlevel experiments in Craver and Bechtel
-(LIT-tmpgntir): an ideal intervention on a part, which the model makes
+([LIT-tmpgntir](../literature.d/LIT-tmpgntir.md)): an ideal intervention on a part, which the model makes
 cheap. It does not engage the dynamicist challenge to mechanism (van
 Gelder, Kelso). Its Beer and van Leeuwen examples show dynamical tools
 used within a mechanistic project.
@@ -223,7 +223,7 @@ used within a mechanistic project.
 
 - Did isolation experiments settle whether peripheral clocks are
   self-sustained? The paper treats it as open. The answer bears on
-  THEORY-tmpnzjca.
+  [THEORY-tmpnzjca](../theory.d/THEORY-tmpnzjca.md).
 - Are Leise and Siegelmann's signatures (recovery time, a fifteen-hour
   delay instead of a six-hour advance) seen in tissue? Then a perturbation
   of state alone would tell the two arrangements apart, because they are
@@ -231,22 +231,22 @@ used within a mechanistic project.
 
 ## Bearing on the record's own argument
 
-- **CASE-189 and CASE-190 are de novo, how-possibly models in this
+- **[CASE-189](../cases.d/CASE-189.md) and [CASE-190](../cases.d/CASE-190.md) are de novo, how-possibly models in this
   paper's sense.** Their variables, "constraint capacities", a connector q,
   a copying catalyst, are posited to exhibit maintenance. They are not
   properties of parts found by experiment, which the cases themselves say
-  ("Which terms are internal is stipulated", CASE-189). So they can make
+  ("Which terms are internal is stipulated", [CASE-189](../cases.d/CASE-189.md)). So they can make
   contributions C1 and C2: an organization of this kind can be maintained,
   is lost at a fold, and so on. They also make C3 and C5 inside the model:
   the knockouts and the coupling. What they cannot do, on this paper's
   account, is show that any actual system is organized that way. That
   needs anchoring. The record already says this in its own terms. This
   paper gives it a name and a precedent.
-- **CLAIM-522: the dynamics underdetermine the mechanism, and grounding is
-  the remedy.** CLAIM-522's pair has identical equations, so no model of
+- **[CLAIM-522](../claims.d/CLAIM-522.md): the dynamics underdetermine the mechanism, and grounding is
+  the remedy.** [CLAIM-522](../claims.d/CLAIM-522.md)'s pair has identical equations, so no model of
   the dynamics alone can choose between them. This paper's answer is the
-  one CLAIM-522 gives: identify the parts and intervene on them. Two cases
-  in the paper have CLAIM-522's structure. Same structure, not shown same
+  one [CLAIM-522](../claims.d/CLAIM-522.md) gives: identify the parts and intervene on them. Two cases
+  in the paper have [CLAIM-522](../claims.d/CLAIM-522.md)'s structure. Same structure, not shown same
   mechanism:
   - **McClelland et al. (p. 331).** The hippocampus is not modelled. Its
     output is supplied from outside the model as a training schedule.
@@ -254,37 +254,37 @@ used within a mechanistic project.
     the model nothing distinguishes a training signal produced by an
     internal part from one supplied by the modeller. Whether the
     hippocampus is a component of the memory mechanism is settled by
-    anatomy and lesion, outside the model, just as CLAIM-522's boundary
+    anatomy and lesion, outside the model, just as [CLAIM-522](../claims.d/CLAIM-522.md)'s boundary
     is declared.
   - **The peripheral clocks (p. 328).** "Slave" against "conductor" is
     exactly the question where an oscillation is maintained: by the
     peripheral cell itself, or by its drive from the SCN. The direct
     test, by definition of the two kinds, is to remove the drive, which
-    is the intervention CLAIM-522 names. The paper does not say what the
+    is the intervention [CLAIM-522](../claims.d/CLAIM-522.md) names. The paper does not say what the
     evidence it reports was.
-  - The modelled phase-shift signatures show the limit of CLAIM-522's
+  - The modelled phase-shift signatures show the limit of [CLAIM-522](../claims.d/CLAIM-522.md)'s
     ideal case. A driven damped oscillator is not dynamically equivalent
     to a self-sustained one, so a perturbation of state can separate
-    them. CLAIM-522 holds where the outside supplier reproduces the
+    them. [CLAIM-522](../claims.d/CLAIM-522.md) holds where the outside supplier reproduces the
     production law exactly, and a damped oscillator plus its drive does
     not.
-  - That is THEORY-tmpnzjca, which bears on QUESTION-086's search for an
+  - That is [THEORY-tmpnzjca](../theory.d/THEORY-tmpnzjca.md), which bears on [QUESTION-086](../questions.d/QUESTION-086.md)'s search for an
     intervention short of removal.
-- **CLAIM-519: the cognitive half of this paper is CLAIM-519 at the level
-  of practice.** CLAIM-519 says competent behaviour does not establish an
+- **[CLAIM-519](../claims.d/CLAIM-519.md): the cognitive half of this paper is [CLAIM-519](../claims.d/CLAIM-519.md) at the level
+  of practice.** [CLAIM-519](../claims.d/CLAIM-519.md) says competent behaviour does not establish an
   internal world model, and that establishing a mechanism needs evidence
   that discriminates implementations. This paper says the same of
   cognitive models in general: fit is "indirect evidence" (p. 330), and
   architectures stay underdetermined. Footnote 5's contrast between
-  describing and mirroring bears on CLAIM-519's two readings of "contains
+  describing and mirroring bears on [CLAIM-519](../claims.d/CLAIM-519.md)'s two readings of "contains
   a model". A model that tracks variables of a mechanism is not thereby a
   component that performs the operations.
-- **CLAIM-515: its "realized" question needs anchored evidence.**
-  CLAIM-515's third question, which mechanisms realize a capability, is
+- **[CLAIM-515](../claims.d/CLAIM-515.md): its "realized" question needs anchored evidence.**
+  [CLAIM-515](../claims.d/CLAIM-515.md)'s third question, which mechanisms realize a capability, is
   the question this paper says cognitive modelling cannot answer by fit.
   Its fourth question, maintenance, is the one circadian models of damage
   and recovery (C4, C6) approach.
-- **CLAIM-521: a contrast, not a counterexample.** CLAIM-521's
+- **[CLAIM-521](../claims.d/CLAIM-521.md): a contrast, not a counterexample.** [CLAIM-521](../claims.d/CLAIM-521.md)'s
   dissociation needs "no feedback from the coupled units to the
   maintaining core". In To et al.'s SCN model the coupling signal (VIP)
   is itself what sustains oscillation in about 60% of the cells (p. 327).
@@ -293,9 +293,9 @@ used within a mechanistic project.
   dissociation is a property of one-way architectures. Same structure,
   not shown same mechanism.
 - **Clamping is the ideal intervention on a part that a construction
-  makes free.** In CASE-189, CASE-190 and the record's knockouts, removing
+  makes free.** In [CASE-189](../cases.d/CASE-189.md), [CASE-190](../cases.d/CASE-190.md) and the record's knockouts, removing
   a production pathway is C3 in this paper's sense. It decides whether
   that pathway is a component of the mechanism responsible for
   maintenance, relative to the phenomenon and the model
-  (THEORY-tmp7jall). Which pathways count as inside is not decided by
-  the clamp. That is CLAIM-tmpg57ci's point.
+  ([THEORY-tmp7jall](../theory.d/THEORY-tmp7jall.md)). Which pathways count as inside is not decided by
+  the clamp. That is [CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md)'s point.

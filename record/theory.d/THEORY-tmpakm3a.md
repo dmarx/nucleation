@@ -18,7 +18,7 @@ date: '2026-11-01'
 source:
 - LIT-tmppbuqq
 summary: >-
-  Bechtel and Abrahamsen (2010), LIT-tmppbuqq, read in NOTE-tmpbljat.
+  Bechtel and Abrahamsen (2010), [LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), read in [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md).
   Circadian models came after the clock's parts were found in the
   laboratory, and they explore those parts' dynamics. Cognitive models
   posit their parts. "Empirical evidence can rule out specific models, but
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Bechtel and Abrahamsen (2010), LIT-tmppbuqq, §§2, 4–5, pp. 322–323 and
-328–332; read in NOTE-tmpbljat.
+Bechtel and Abrahamsen (2010), [LIT-tmppbuqq](../literature.d/LIT-tmppbuqq.md), §§2, 4–5, pp. 322–323 and
+328–332; read in [NOTE-tmpbljat](../notes.d/NOTE-tmpbljat.md).
 
 ## What was actually shown
 
@@ -80,23 +80,23 @@ Bechtel and Abrahamsen (2010), LIT-tmppbuqq, §§2, 4–5, pp. 322–323 and
   can be ruled out, and a set of rivals can be pruned to one if the
   phenomena are rich enough. The paper gives no measure of when.
 - **A general theorem of underdetermination.** That comes from the
-  record's own construction (CLAIM-519): over a fixed interface and
+  record's own construction ([CLAIM-519](../claims.d/CLAIM-519.md)): over a fixed interface and
   horizon, a lookup table reproduces any agent's interaction law exactly.
 
 ## Connections
 
-- **CLAIM-519.** The same thesis for world models: competence does not
+- **[CLAIM-519](../claims.d/CLAIM-519.md).** The same thesis for world models: competence does not
   establish an internal model, and "establishing an internal mechanism
   needs evidence that discriminates candidate implementations". This paper
   supplies the methodological precedent, and its name for the
   discriminating evidence: identification of parts and operations by
   experiment.
-- **CLAIM-515.** Its third question, which mechanisms realize a
+- **[CLAIM-515](../claims.d/CLAIM-515.md).** Its third question, which mechanisms realize a
   capability, is what this paper says fit alone does not answer.
-- **CASE-189 and CASE-190.** The record's constructions are de novo in
+- **[CASE-189](../cases.d/CASE-189.md) and [CASE-190](../cases.d/CASE-190.md).** The record's constructions are de novo in
   this sense. Their capacities and connectors are posited, and "Which
   terms are internal is stipulated". They show how a maintained
   organization could behave, not that any actual system is one.
-- **CLAIM-522.** Different mechanisms, internal producer and outside
+- **[CLAIM-522](../claims.d/CLAIM-522.md).** Different mechanisms, internal producer and outside
   controller, with identical dynamics. This paper's remedy, find the parts
-  and intervene on them, is the one CLAIM-522 gives.
+  and intervene on them, is the one [CLAIM-522](../claims.d/CLAIM-522.md) gives.

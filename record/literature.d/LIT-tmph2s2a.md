@@ -49,7 +49,7 @@ Craver, C. F. (2007). Constitutive explanatory relevance. *Journal of Philosophi
 
 *Not read.* The following comes from the publisher's abstract, as a search
 engine reported it, and from the abstract of Craver, Glennan and Povich
-(2021, LIT-tmpj2ar6).
+(2021, [LIT-tmpj2ar6](LIT-tmpj2ar6.md)).
 
 - **The problem.** Which components' activities are explanatorily relevant
   to the behaviour of a mechanism as a whole? This relevance holds between a
@@ -60,16 +60,16 @@ engine reported it, and from the abstract of Craver, Glennan and Povich
   activities of its components. Craver, Glennan and Povich describe this as
   extending Woodward's manipulationist counterfactuals to interlevel
   experiments.
-- **The setting.** Explaining the Brain (LIT-832) gives the book-length
+- **The setting.** Explaining the Brain ([LIT-832](LIT-832.md)) gives the book-length
   version. Neither text has been read here.
 
 ## Standing in the record
 
 Filed because the record's claims about where maintenance is realized
-(CLAIM-522, CLAIM-414, CLAIM-194) turn on what makes a process a part of
+([CLAIM-522](../claims.d/CLAIM-522.md), [CLAIM-414](../claims.d/CLAIM-414.md), [CLAIM-194](../claims.d/CLAIM-194.md)) turn on what makes a process a part of
 the system that maintains itself. That is the question constitutive
 relevance answers. The question the record needs answered from this text
 is whether the criterion's parthood condition is taken as given. The new
-claim CLAIM-tmpg57ci says it must be. Until the paper is read, that rests
+claim [CLAIM-tmpg57ci](../claims.d/CLAIM-tmpg57ci.md) says it must be. Until the paper is read, that rests
 on the criterion as its successors and reviewers report it, and on
-Craver and Bechtel (LIT-tmpgntir), which was read.
+Craver and Bechtel ([LIT-tmpgntir](LIT-tmpgntir.md)), which was read.
