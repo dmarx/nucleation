@@ -20,7 +20,7 @@ line:
 - distributed-agency
 - formal-apparatus
 works:
-- the-individual-and-its-conditions
+- WORK-010
 complements:
 - CLAIM-414
 - CLAIM-079

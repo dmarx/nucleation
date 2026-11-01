@@ -1,12 +1,11 @@
 ---
-number: 1
-status: Proposed
+number: 10
+status: Active
 title: 'The Individual and Its Conditions'
-subtitle: 'Causal Provenance and Organizational Individuation'
 version: 1
-works:
-- the-individual-and-its-conditions
+stage: drafted
 date: '2026-11-01'
+subtitle: 'Causal Provenance and Organizational Individuation'
 sections:
 - SECTION-001
 - SECTION-002
@@ -18,13 +17,30 @@ sections:
 - SECTION-008
 - SECTION-009
 summary: >-
-  The spine of the owner's philosophy article: its title, abstract,
-  editorial commitments and the order of its nine SECTIONs. The manuscript
-  is a view assembled from these ([ADR-067](../decisions.d/ADR-067.md)), and its status is the
-  article's, not a verdict on the claims it discusses.
+  The owner's philosophy article, drafted 2026-10-31 to 2026-11-01 from
+  the exchange "Explain Nucleation Website": Causal Provenance and
+  Organizational Individuation. An organization's present unity does not
+  reveal the stability or the provenance of the processes maintaining it;
+  provenance constrains but does not settle constitution; and an organized
+  product and the processes maintaining it need not share a boundary or
+  make one producer. Its prose is held here as SECTIONs and assembled as a
+  view (ADR-067)
 ---
 
-# OUTLINE-001: The Individual and Its Conditions
+# WORK-010: The Individual and Its Conditions
+
+## About
+
+The owner's philosophy article, drafted 2026-10-31 to 2026-11-01 from the
+exchange "Explain Nucleation Website": Causal Provenance and
+Organizational Individuation. An organization's present unity does not
+reveal the stability or the provenance of the processes maintaining it;
+provenance constrains but does not settle constitution; and an organized
+product and the processes maintaining it need not share a boundary or make
+one producer. Its prose is held here as SECTIONs and assembled as a view
+(ADR-067)
+
+Until ADR-067 this work was the `works` vocabulary term `the-individual-and-its-conditions`.
 
 ## Abstract
 

@@ -44,7 +44,7 @@ tags:
 date: '2026-10-12'
 line: 'nucleating-argument'
 works:
-- luria-nucleating-an-argument
+- WORK-003
 summary: >-
   Filed at the owner's request, ahead of its readings: Fricker's account of
   testimonial and hermeneutical injustice ([LIT-1004](../literature.d/LIT-1004.md)) is registered

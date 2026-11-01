@@ -18,7 +18,7 @@ tags:
 date: '2026-10-28'
 line: will-organization
 works:
-- organization-of-will
+- WORK-001
 rests_on:
 - CLAIM-027
 bears_on:

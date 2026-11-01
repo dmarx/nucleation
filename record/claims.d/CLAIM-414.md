@@ -46,7 +46,7 @@ line:
 - evidence-for-experience
 - formal-apparatus
 works:
-- the-individual-and-its-conditions
+- WORK-010
 grounds:
 - CASE-126
 complements:

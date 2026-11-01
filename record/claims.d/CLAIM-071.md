@@ -14,7 +14,7 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 works:
-- what-survives-translation
+- WORK-002
 objects_to:
 - CLAIM-001
 supersedes:

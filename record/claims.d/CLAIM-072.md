@@ -22,7 +22,7 @@ superseded_by:
 - ARG-034
 - ARG-033
 works:
-- what-survives-translation
+- WORK-002
 grounds:
 - LIT-774
 summary: >-

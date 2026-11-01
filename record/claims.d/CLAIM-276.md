@@ -27,7 +27,7 @@ tags:
 - epistemology
 date: '2026-10-13'
 works:
-- self-as-recursive-ecology
+- WORK-004
 line:
 - distributed-agency
 grounds:

@@ -38,7 +38,7 @@ date: '2026-10-21'
 line:
 - distributed-agency
 works:
-- the-individual-and-its-conditions
+- WORK-010
 rests_on:
 - CLAIM-152
 complements:

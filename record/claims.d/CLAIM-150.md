@@ -28,7 +28,7 @@ tags:
 date: '2026-10-10'
 line: 'pragmatic-transport'
 works:
-- the-individual-and-its-conditions
+- WORK-010
 grounds:
 - THEORY-032
 - LIT-222

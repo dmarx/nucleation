@@ -29,7 +29,7 @@ tags:
 date: '2026-10-28'
 line: pragmatic-transport
 works:
-- what-survives-translation
+- WORK-002
 grounds:
 - CASE-056
 complements:

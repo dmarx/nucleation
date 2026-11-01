@@ -30,7 +30,7 @@ tags:
 - mathematics
 date: '2026-10-30'
 works:
-- self-as-recursive-ecology
+- WORK-004
 line:
 - distributed-agency
 - formal-apparatus

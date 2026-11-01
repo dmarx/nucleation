@@ -23,7 +23,7 @@ date: '2026-10-22'
 line:
 - distributed-agency
 works:
-- organization-of-perspective
+- WORK-005
 rests_on:
 - CLAIM-275
 uses:

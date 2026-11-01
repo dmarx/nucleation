@@ -39,8 +39,8 @@ tags:
 date: '2026-10-05'
 line: will-organization
 works:
-- organization-of-will
-- self-as-recursive-ecology
+- WORK-001
+- WORK-004
 grounds:
 - CASE-013
 - CASE-003

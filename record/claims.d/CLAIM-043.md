@@ -15,7 +15,7 @@ line:
 - pragmatic-transport
 - formal-apparatus
 works:
-- what-survives-translation
+- WORK-002
 complements:
 - CLAIM-038
 - CLAIM-132

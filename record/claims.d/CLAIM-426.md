@@ -34,7 +34,7 @@ date: '2026-10-23'
 line:
 - distributed-agency
 works:
-- self-without-a-sovereign
+- WORK-006
 objects_to:
 - CLAIM-425
 uses:

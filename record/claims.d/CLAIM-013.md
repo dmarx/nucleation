@@ -32,7 +32,7 @@ tags:
 date: '2026-10-09'
 line: pragmatic-transport
 works:
-- what-survives-translation
+- WORK-002
 grounds:
 - LIT-782
 - LIT-783

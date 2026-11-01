@@ -28,7 +28,7 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 works:
-- what-survives-translation
+- WORK-002
 uses:
 - TERM-033
 summary: >-

@@ -12,7 +12,7 @@ tags:
 date: '2026-10-05'
 line: will-organization
 works:
-- organization-of-will
+- WORK-001
 supports:
 - ARG-009
 - CLAIM-027

@@ -32,7 +32,7 @@ line:
 superseded_by:
 - ARG-022
 works:
-- what-survives-translation
+- WORK-002
 grounds:
 - LIT-777
 - THEORY-168

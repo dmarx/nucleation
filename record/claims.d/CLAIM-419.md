@@ -29,7 +29,7 @@ tags:
 date: '2026-10-22'
 line: nucleating-argument
 works:
-- luria-nucleating-an-argument
+- WORK-003
 objects_to:
 - CLAIM-181
 grounds:

@@ -21,7 +21,7 @@ tags:
 date: '2026-10-23'
 line: distributed-agency
 works:
-- organization-of-perspective
+- WORK-005
 summary: >-
   Proposed at A4 of the exchange of 2026-10-23, "Framework Overview
   Request", which called it "the most philosophically important new

@@ -13,7 +13,7 @@ tags:
 date: '2026-10-05'
 line: will-organization
 works:
-- organization-of-will
+- WORK-001
 objects_to:
 - CLAIM-010
 illustrated_by:
