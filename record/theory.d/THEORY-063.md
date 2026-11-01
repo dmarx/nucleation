@@ -156,16 +156,16 @@ phenomenological inference from reported states, which is all it claims.
 <!-- inactive-ok-block: THEORY-tmplvoa3 THEORY-tmp8nd9o — Proposed or newly filed; the readings of Metzinger's later work -->
 Metzinger's later work qualifies this reading's second clause; it does not
 confirm it. The new readings are "Minimal phenomenal experience" (2020,
-LIT-tmpr0pnp) and *The Elephant and the Blind* (2024, LIT-tmp3uosd).
+[LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md)) and *The Elephant and the Blind* (2024, [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md)).
 - **Not a "selfless unified world".** His minimal case lacks world-content
   and any felt oneness (2020 p. 13; 2024 p. 477).
 - **Still a self-model of a kind.** He describes it as a "nonegoic
   self-model" (2024 p. 477) and as "non-egoic self-modelling" (2020
-  p. 36) (THEORY-tmplvoa3).
+  p. 36) ([THEORY-tmplvoa3](THEORY-tmplvoa3.md)).
 
 So what the evidence could show is unity without an *egoic* self-model,
 which is narrower than "does not require a self-model". The worry about
 report this reading's promote_when names is stated in the book itself
-and left open (p. 19; THEORY-tmp8nd9o). No status, title or warrant
+and left open (p. 19; [THEORY-tmp8nd9o](THEORY-tmp8nd9o.md)). No status, title or warrant
 changes.
 

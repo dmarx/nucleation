@@ -55,7 +55,7 @@ An integration or dynamic-core measure, or an anti-nesting rule justified on oth
 
 ## Note of 2026-11-01: Metzinger's contraction principle
 
-Metzinger 2024 (LIT-tmp3uosd, NOTE-tmpy472x, pp. 79–82) gives a view
+Metzinger 2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), pp. 79–82) gives a view
 on which the question's "whole that is a subject" is misframed. On it,
 phenomenality "is a subpersonal property, a property of certain
 functionally integrated brain states". Ordinary brains misrepresent it
@@ -67,10 +67,10 @@ subpersonal world-model in the person's head is what is truly conscious"
 
 If that is right, a criterion of the kind the question asks for would
 classify states, not wholes, and a whole would be a subject in the strong
-sense only by representing itself as one. Like THEORY-063's
+sense only by representing itself as one. Like [THEORY-063](../theory.d/THEORY-063.md)'s
 dynamic-core prediction, this is motivated within one brain and not by
 groups. It is stated without a measure. The evidence offered is nondual
-meditative states, known by report (THEORY-tmp8nd9o). Same structure as
+meditative states, known by report ([THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md)). Same structure as
 the record's distinction between an organization's state and its
 members', not shown same mechanism. It does not answer the question. It
 narrows what an answer would have to classify. No status, title or warrant

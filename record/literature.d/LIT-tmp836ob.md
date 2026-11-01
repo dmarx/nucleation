@@ -7,8 +7,8 @@ status_note: >-
   edition. The Internet Archive's copy (egotunnelscience0000metz) is in
   its print-disabled and lending collections, which require a borrowing
   account, so it is not an open copy. No author-posted copy was found.
-  The theory it popularises is read in the record in LIT-450 and LIT-568,
-  and its later development in LIT-tmp3uosd. It stays Unavailable until a
+  The theory it popularises is read in the record in [LIT-450](LIT-450.md) and [LIT-568](LIT-568.md),
+  and its later development in [LIT-tmp3uosd](LIT-tmp3uosd.md). It stays Unavailable until a
   copy is supplied, not on merit.
 title: 'The Ego Tunnel: The Science of the Mind and the Myth of the Self'
 version: 1
@@ -42,7 +42,7 @@ summary: >-
   theory of subjectivity: the conscious self is the content of a
   transparent self-model, and the experienced world is a "tunnel" the
   brain generates. Unread: registered from its bibliographic records. The
-  theory is read in the record in LIT-450 and LIT-568.
+  theory is read in the record in [LIT-450](LIT-450.md) and [LIT-568](LIT-568.md).
 ---
 <!-- inactive-ok-file: LIT-467 — Unavailable; the book-length statement of the theory, named as unread -->
 
@@ -55,13 +55,13 @@ Myth of the Self*. New York: Basic Books. ISBN 978-0-465-04567-9.
 
 *Registered, not read.*
 
-- The popular book of the self-model theory read in the record in LIT-450
-  and LIT-568, whose full statement is Being No One (LIT-467, Unavailable).
+- The popular book of the self-model theory read in the record in [LIT-450](LIT-450.md)
+  and [LIT-568](LIT-568.md), whose full statement is Being No One ([LIT-467](LIT-467.md), Unavailable).
 
 ## Standing in the record
 
 Filed at the owner's request on 2026-11-01 with Metzinger's later work.
-Nothing in the record rests on it. Metzinger 2024 (LIT-tmp3uosd) cites
+Nothing in the record rests on it. Metzinger 2024 ([LIT-tmp3uosd](LIT-tmp3uosd.md)) cites
 the book for the idea of a "Bewusstseinskultur", a culture of
 consciousness, and points to its extended German version of 2014 (epilogue,
 note 2). The book also introduces the "Ego Tunnel" image, which the 2024

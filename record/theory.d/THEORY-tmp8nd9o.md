@@ -11,7 +11,7 @@ source:
 - LIT-tmp3uosd
 - LIT-tmpr0pnp
 summary: >-
-  Metzinger (2024), LIT-tmp3uosd, read in part in NOTE-tmpy472x. The
+  Metzinger (2024), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), read in part in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md). The
   summary chapter says that "full-absorption episodes, nonegoic
   self-awareness, and nondual modes of consciousness are empirically
   established phenomena" (p. 457), and that the strong reading of
@@ -32,10 +32,10 @@ bears_on:
 
 ## Source
 
-Metzinger (2024), LIT-tmp3uosd: introduction, pp. xvi–xxvi; chapter 2,
+Metzinger (2024), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md): introduction, pp. xvi–xxvi; chapter 2,
 pp. 12–20; chapter 31, pp. 416–418; chapter 34, pp. 457–467. Read in
-NOTE-tmpy472x. Metzinger (2020), LIT-tmpr0pnp, p. 15, read in full in
-NOTE-tmptylts.
+[NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md). Metzinger (2020), [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), p. 15, read in full in
+[NOTE-tmptylts](../notes.d/NOTE-tmptylts.md).
 
 ## What was actually shown
 
@@ -67,7 +67,7 @@ experiences "in which there is an 'awareness of awareness itself'"
   specific philosophical question about MPE and autobiographical memory
   remains open" (p. 19). The 2020 paper goes further: the content of a
   full-absorption episode "cannot be reported", and only entry and exit
-  are remembered (LIT-tmpr0pnp, p. 15).
+  are remembered ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), p. 15).
 - Reports that an episode was "not an experience" do not show that it was
   not one, nor that it was (the C-fallacy and its mirror, p. 417).
 
@@ -103,21 +103,21 @@ episode. It does neither.
   had a self, or of a gap.
 - **That the survey is worthless.** Its factor structure and its corpus of
   descriptions are data about how practitioners describe these episodes.
-  That is what THEORY-870 found for the TM study as well: evidence about
+  That is what [THEORY-870](THEORY-870.md) found for the TM study as well: evidence about
   reports.
 - **That the problem is unique to this book.** It is the performative worry
-  THEORY-063's `promote_when` already names, and the précis named it too.
+  [THEORY-063](THEORY-063.md)'s `promote_when` already names, and the précis named it too.
   This book states it most fully and then sets it aside in its
   conclusions.
 
 ## Connections
 
-- **THEORY-063.** Its `promote_when` asks for selfless states "established
+- **[THEORY-063](THEORY-063.md).** Its `promote_when` asks for selfless states "established
   by methods that meet its own performative worry about reports of
   selfless experience". This book, the largest body of such reports, does
   not meet it, and says so at p. 19.
-- **THEORY-870 and THEORY-866.** The same pattern in the TM study and in
+- **[THEORY-870](THEORY-870.md) and [THEORY-866](THEORY-866.md).** The same pattern in the TM study and in
   the expert-text synthesis: reported contentless or selfless states, with
   report as the only access.
-- **QUESTION-048.** A clean case of what report alone can and cannot
+- **[QUESTION-048](../questions.d/QUESTION-048.md).** A clean case of what report alone can and cannot
   establish about experience as opposed to its later description.

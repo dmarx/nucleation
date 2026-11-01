@@ -197,25 +197,25 @@ still shape what the person does ([CASE-142](../cases.d/CASE-142.md)).
 ## Note of 2026-11-01: the "modeled" sense needs a division
 
 The note of 2026-10-18 flagged a "modeled" sense, the self as the content
-of a self-model the system does not recognise as a model (THEORY-064). It
+of a self-model the system does not recognise as a model ([THEORY-064](../theory.d/THEORY-064.md)). It
 did not add it. Metzinger's later work, read on 2026-11-01, shows that
 any such sense would itself need two sub-senses:
 
 - **A model of a knowing self.** The "epistemic agent model", the layer
   of the self-model that represents a self that attends, thinks and
-  knows. Metzinger 2024 (LIT-tmp3uosd, NOTE-tmpy472x, pp. 302, 306): "a
+  knows. Metzinger 2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), pp. 302, 306): "a
   subject is an epistemic agent model that functions as the unit of
   identification". This is the self that ego dissolution removes.
 - **A model of the system that is not a model of a self.** Minimal
   phenomenal experience is "non-egoic self-modelling" (Metzinger 2020,
-  LIT-tmpr0pnp, NOTE-tmptylts, p. 36). It is "a highest-level but nonegoic
+  [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), p. 36). It is "a highest-level but nonegoic
   self-model" of the organism's own epistemic openness (2024, p. 477).
   Its epistemic subject "simply is the organism or conscious system as a
   whole" (2020, p. 27).
 
 The second is a self-model in the sense of a model the system has of
 itself, with no self in senses 1–7 as its content. A claim that says
-experience "needs no self-model" should say which it means (THEORY-063;
-THEORY-tmplvoa3). The senses are unchanged, and adding the modeled sense
+experience "needs no self-model" should say which it means ([THEORY-063](../theory.d/THEORY-063.md);
+[THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md)). The senses are unchanged, and adding the modeled sense
 remains a new version of this term by its own rule. No status, title or
 warrant changes.

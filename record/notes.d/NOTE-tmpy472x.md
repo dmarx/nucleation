@@ -161,7 +161,7 @@ Not filled: the note is Skimmed.
 ## Method
 
 A three-way approach (pp. xx, 14): semantic constraints drawn from
-traditional texts (Metzinger 2020, LIT-tmpr0pnp), exploratory factor
+traditional texts (Metzinger 2020, [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md)), exploratory factor
 analysis of the 92 items, and a "soft qualitative analysis that doesn't
 satisfy academic criteria for systematicity and completeness" (p. xxvi).
 The grouping of reports reflects "the implicit phenomenological
@@ -197,21 +197,21 @@ forty-seven years" (pp. 12–14).
 
 ## Connections
 
-It develops Metzinger 2020 (LIT-tmpr0pnp) at book length, with the survey
+It develops Metzinger 2020 ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md)) at book length, with the survey
 behind it. The concept of minimal phenomenal selfhood comes from Blanke and
-Metzinger 2009 (LIT-1274), and its revision on bodiless dreams from
-Metzinger 2013 (LIT-1871, NOTE-1434). The self-model and transparency come
-from Being No One (LIT-467, Unavailable), read in the record through
-LIT-450 and LIT-568. Woods, Windt and Carter (LIT-1351, THEORY-866) are
+Metzinger 2009 ([LIT-1274](../literature.d/LIT-1274.md)), and its revision on bodiless dreams from
+Metzinger 2013 ([LIT-1871](../literature.d/LIT-1871.md), [NOTE-1434](NOTE-1434.md)). The self-model and transparency come
+from Being No One ([LIT-467](../literature.d/LIT-467.md), Unavailable), read in the record through
+[LIT-450](../literature.d/LIT-450.md) and [LIT-568](../literature.d/LIT-568.md). Woods, Windt and Carter ([LIT-1351](../literature.d/LIT-1351.md), [THEORY-866](../theory.d/THEORY-866.md)) are
 cited for the semantics of "pure consciousness" (p. 545, n. 9). The
 mind-wandering estimate comes from Metzinger's "M-Autonomy" (2015). The
-machine-ethics passage cites Metzinger 2021 (LIT-tmpsk1p5). The
+machine-ethics passage cites Metzinger 2021 ([LIT-tmpsk1p5](../literature.d/LIT-tmpsk1p5.md)). The
 active-inference sketch is shared with Laukkonen, Friston and Chandaria
-(THEORY-882), who also use MPE.
+([THEORY-882](../theory.d/THEORY-882.md)), who also use MPE.
 
 ## Bearing on the record's own argument
 
-- **THEORY-063 (unity of experience without a self-model): it qualifies the
+- **[THEORY-063](../theory.d/THEORY-063.md) (unity of experience without a self-model): it qualifies the
   second clause rather than confirming it.** The précis's minimal case was
   "Selfless Snapshot Consciousness", the presence of "one unified world"
   with no perspective. The précis itself called it "probably empirically
@@ -220,26 +220,26 @@ active-inference sketch is shared with Laukkonen, Friston and Chandaria
   a world experienced as one. In it "the distinction between world and
   self is not yet represented", and there is no world-model content at
   all (p. 477). The 2020 paper adds that it lacks any "phenomenal quality
-  of singularity" (LIT-tmpr0pnp, p. 13). Second, the model that remains
+  of singularity" ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), p. 13). Second, the model that remains
   is described as "a highest-level but nonegoic self-model" (p. 477). So
   what the case would show is unity without an *egoic* self-model, or an
   epistemic agent model, which is narrower than "no self-model". Third,
-  the cases nearer to THEORY-063's selfless world are the nondual
+  the cases nearer to [THEORY-063](../theory.d/THEORY-063.md)'s selfless world are the nondual
   *modes* (pp. 470–471), in which a world is present and subject/object
   structure is absent. These, too, are known only by report, and the
-  pages read give no measure of integration for them. THEORY-063's
+  pages read give no measure of integration for them. [THEORY-063](../theory.d/THEORY-063.md)'s
   `promote_when` asks for such states "established by methods that meet
   its own performative worry". The book states the worry and leaves it
   open (p. 19). The inference is the record's.
-- **THEORY-064 (transparent self-model).** The book restates transparency
+- **[THEORY-064](../theory.d/THEORY-064.md) (transparent self-model).** The book restates transparency
   as Being No One gave it (pp. 362–363), and extends it from the
   self-model to the model of epistemic openness (pp. 368–369). On
-  THEORY-064's prediction that a fully opaque self-model would end
+  [THEORY-064](../theory.d/THEORY-064.md)'s prediction that a fully opaque self-model would end
   selfhood, the book offers no test. Its opaque cases are opacity of
   *awareness*, not of the self-model. It reads meditation as "opacity
   control" (p. 366, after Sandved-Smith et al.), a mechanism of the kind
   that prediction needs. It gives no measure of opacity.
-- **QUESTION-048 (what report evidence can establish).** The book is a
+- **[QUESTION-048](../questions.d/QUESTION-048.md) (what report evidence can establish).** The book is a
   worked example of report-only evidence, and it states the limits
   itself. It names self-selection, theory contamination, memory and
   "response drift" (pp. 16–20), concurrent ineffability (p. xxi), and the
@@ -254,8 +254,8 @@ active-inference sketch is shared with Laukkonen, Friston and Chandaria
   says that "full-absorption episodes, nonegoic self-awareness, and nondual
   modes of consciousness are empirically established phenomena" (p. 457),
   and that the strong reading of subjectivity "is false" (p. 459).
-  THEORY-tmp8nd9o states the gap.
-- **QUESTION-046 (whether an organized whole is a subject of experience).**
+  [THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md) states the gap.
+- **[QUESTION-046](../questions.d/QUESTION-046.md) (whether an organized whole is a subject of experience).**
   The contraction principle answers part of the question with a
   stipulation, not a criterion. The bearer of phenomenality is "the
   subpersonal world-model", and system consciousness is a representation
@@ -265,44 +265,44 @@ active-inference sketch is shared with Laukkonen, Friston and Chandaria
   inside a whole, not the whole. Same structure as the record's
   distinction between an organization and its members' states, not shown
   same mechanism.
-- **QUESTION-254 and CLAIM-412 (experience as perspectival interpretive
-  organization).** CLAIM-412's part 3 requires the organization to be
+- **[QUESTION-254](../questions.d/QUESTION-254.md) and [CLAIM-412](../claims.d/CLAIM-412.md) (experience as perspectival interpretive
+  organization).** [CLAIM-412](../claims.d/CLAIM-412.md)'s part 3 requires the organization to be
   perspectival. On this book's account the simplest experience is
   aperspectival, though it is still an organization: a model of the
   system's own epistemic capacity. If the account were right, part 3
   would need either a sense of "perspectival" that the zero-person
-  perspective satisfies, or a weaker condition. TERM-072's sense 1, an
+  perspective satisfies, or a weaker condition. [TERM-072](../terms.d/TERM-072.md)'s sense 1, an
   organizational perspective, may be that sense. The book's "level 4"
   (p. 477) is a candidate statement of what makes lower-order content
   experiential. It is stated without report-independent evidence, which
-  is what QUESTION-254 asks for.
-- **TERM-082 (senses of consciousness).** The three-level split of arousal,
-  tonic alertness and wakefulness (pp. 36–37) refines TERM-082's sense 4,
+  is what [QUESTION-254](../questions.d/QUESTION-254.md) asks for.
+- **[TERM-082](../terms.d/TERM-082.md) (senses of consciousness).** The three-level split of arousal,
+  tonic alertness and wakefulness (pp. 36–37) refines [TERM-082](../terms.d/TERM-082.md)'s sense 4,
   wakefulness or arousal. The book cites unresponsive wakefulness, a
   sleep–wake cycle without awareness, as tonic alertness without
   phenomenal wakefulness (p. 37). On its usage, "wakefulness" names a
-  phenomenal property, so TERM-082's sense 4 as worded would be split
+  phenomenal property, so [TERM-082](../terms.d/TERM-082.md)'s sense 4 as worded would be split
   between the functional and the phenomenal.
-- **TERM-083 (moral standing) and THEORY-554, THEORY-677.** The epilogue
+- **[TERM-083](../terms.d/TERM-083.md) (moral standing) and [THEORY-554](../theory.d/THEORY-554.md), [THEORY-677](../theory.d/THEORY-677.md).** The epilogue
   separates consciousness from suffering. Artificial consciousness "may
   involve a consciously experienced sense of self that may in turn
   generate artificial suffering". Yet MPE "involves no psychological
   suffering whatsoever", and the book asks whether a machine that "reliably
   remains in a single full-absorption episode" would be wrong to build
   (pp. 484–485). The book does not ask whether such a machine would have
-  standing. That is filed as QUESTION-tmpwit4l. The epilogue also flags
+  standing. That is filed as [QUESTION-tmpwit4l](../questions.d/QUESTION-tmpwit4l.md). The epilogue also flags
   an information hazard: the simplest conscious state "may be the easiest
   to implement" (p. 484).
-- **LIT-1354 (Chandia-Jorquera et al.).** Their "pure awareness" scale is
+- **[LIT-1354](../literature.d/LIT-1354.md) (Chandia-Jorquera et al.).** Their "pure awareness" scale is
   defined by this framework's MPE. The book's own measure, the
   questionnaire's sliders, has the same structure: practitioners rate
   episodes against the experimenters' description of the target. The
   survey's instructions defined the target as "awareness of awareness
-  itself" (p. xvi). The worry NOTE-1058 raises about a defined scale
+  itself" (p. xvi). The worry [NOTE-1058](NOTE-1058.md) raises about a defined scale
   applies here too, and more strongly: the reports are of past episodes,
   some from decades earlier (p. 18).
-- **THEORY filed.** THEORY-tmplvoa3 states the account, with the 2020
-  paper. THEORY-tmp8nd9o states the evidential gap.
+- **THEORY filed.** [THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md) states the account, with the 2020
+  paper. [THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md) states the evidential gap.
 - No instruction for machine-learning practice.
 
 ## Limitations
@@ -319,7 +319,7 @@ active-inference sketch is shared with Laukkonen, Friston and Chandaria
   reports and "more than 500" printed (p. xvi). The limitations section
   speaks of "the 1,183 written phenomenological reports presented in this
   book" (p. 17). The acknowledgments thank 1,187 meditators (p. xi).
-- **The summary claims more than the methods allow** (THEORY-tmp8nd9o).
+- **The summary claims more than the methods allow** ([THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md)).
 - **A participant-researcher.** The grouping is the author's, a
   practitioner of 47 years, and he grants that it carries biases "I am
   completely unaware of" (p. 14).
@@ -334,4 +334,4 @@ active-inference sketch is shared with Laukkonen, Friston and Chandaria
   contemplative networks?
 - Is the "nonegoic self-model" of p. 477 a self-model in Being No One's
   sense, one the system identifies with, or only a model of the system?
-  The answer decides how THEORY-063's second clause should read.
+  The answer decides how [THEORY-063](../theory.d/THEORY-063.md)'s second clause should read.

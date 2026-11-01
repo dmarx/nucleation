@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmptylts) from the journal's open-access
+  read in full 2026-11-01 ([NOTE-tmptylts](../notes.d/NOTE-tmptylts.md)) from the journal's open-access
   PDF. Worth reading as the founding statement of minimal phenomenal
   experience, the concept the record's reading of Chandia-Jorquera et al.
-  (LIT-1354) takes as given. It holds that pure awareness has
+  ([LIT-1354](LIT-1354.md)) takes as given. It holds that pure awareness has
   representational content: a temporally thin, nonegoic model of the
   organism's tonic alertness, its "epistemic space". On that account,
   consciousness without a self-model in the egoic sense still involves
@@ -72,10 +72,10 @@ the Mind Sciences*, 1(I), 7. doi:10.33735/phimisci.2020.I.46.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmptylts.*
+*From the reading, [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md).*
 
 - MPE is defined by subtraction from minimal phenomenal selfhood (Blanke
-  and Metzinger 2009, LIT-1274). It lacks MPS and every egoic
+  and Metzinger 2009, [LIT-1274](LIT-1274.md)). It lacks MPS and every egoic
   self-consciousness, time and a spatial frame (p. 2). It is
   "aperspectival: no epistemic agent model" (p. 11).
 - Wakefulness is the phenomenal property. Tonic alertness is the
@@ -97,9 +97,9 @@ the Mind Sciences*, 1(I), 7. doi:10.33735/phimisci.2020.I.46.
 ## Standing in the record
 
 Filed at the owner's request on 2026-11-01, for the evidence-for-experience
-line. It supplies the concept that LIT-1354 assumes. It also bears on
-THEORY-063's "selfless snapshot". That was a selfless world experienced as
+line. It supplies the concept that [LIT-1354](LIT-1354.md) assumes. It also bears on
+[THEORY-063](../theory.d/THEORY-063.md)'s "selfless snapshot". That was a selfless world experienced as
 one, and here the minimal case is selfless and not experienced as one.
-Read with Metzinger 2024 (LIT-tmp3uosd), which develops the same account
+Read with Metzinger 2024 ([LIT-tmp3uosd](LIT-tmp3uosd.md)), which develops the same account
 at book length with survey data. No instruction for machine-learning
 practice.

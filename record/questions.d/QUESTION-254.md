@@ -275,14 +275,14 @@ question is unchanged.
 
 ## Note of 2026-11-01: Metzinger's model of epistemic openness, as a candidate
 
-Metzinger 2020 and 2024 (LIT-tmpr0pnp in NOTE-tmptylts; LIT-tmp3uosd in
-NOTE-tmpy472x) offer a candidate property of the kind the question asks
+Metzinger 2020 and 2024 ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md) in [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md); [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md) in
+[NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md)) offer a candidate property of the kind the question asks
 for: a temporally thin, integrated model of the system's own epistemic
 capacities, of its tonic alertness. Tonic alertness that is not so
 modelled is not experienced (2020, p. 33). In the 2024 active-inference
 sketch, the top level, a model of "the system's global 'epistemic
 openness'", is what "endows the content generated on all lower-order
-levels with phenomenality" (pp. 476–477). Stated as THEORY-tmplvoa3.
+levels with phenomenality" (pp. 476–477). Stated as [THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md).
 
 Tested against the question's conditions:
 
@@ -300,7 +300,7 @@ Tested against the question's conditions:
 - **It cuts against the question's word "perspective".** The account's
   minimal experience is "aperspectival" (2020, p. 11). If that is right,
   the organization that makes a state experiential is not the
-  organization of a perspective in TERM-072's senses 2 or 3, though it
+  organization of a perspective in [TERM-072](../terms.d/TERM-072.md)'s senses 2 or 3, though it
   may be in sense 1.
 
 So it is a candidate of the right form and does not answer the question.

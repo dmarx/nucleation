@@ -235,13 +235,13 @@ kind-(1) case. The inference is the record's. The question is unchanged.
 
 ## Note of 2026-11-01: Metzinger's minimal phenomenal experience
 
-The question names Metzinger's "single functional cluster" (THEORY-063) as
+The question names Metzinger's "single functional cluster" ([THEORY-063](../theory.d/THEORY-063.md)) as
 a dynamic criterion of unity. His later work, read on 2026-11-01, changes
-what that criterion can cover. Metzinger 2020 (LIT-tmpr0pnp, NOTE-tmptylts)
+what that criterion can cover. Metzinger 2020 ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md))
 offers as the simplest consciousness a state with "neither centre nor
 periphery". It "lacks the phenomenal quality of singularity or numerical
 identity", and he adds "non-oneness" to "non-duality" (p. 13). Metzinger
-2024 (LIT-tmp3uosd, NOTE-tmpy472x) models that state as inference at the
+2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md)) models that state as inference at the
 top level of a hierarchy "without any perceptual inference at the levels
 below it" (p. 477).
 

@@ -15,7 +15,7 @@ status_note: >-
   connection. The failure is on access, not availability, and a browser
   fetch of either address is the cheapest way to read the paper. Its
   argument is known here only from Metzinger's own restatement in the
-  epilogue of LIT-tmp3uosd (pp. 484–485), which cites it. It stays
+  epilogue of [LIT-tmp3uosd](LIT-tmp3uosd.md) (pp. 484–485), which cites it. It stays
   Unfetched until a copy is supplied.
 title: 'Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology'
 version: 1
@@ -55,7 +55,7 @@ summary: >-
   creating artificial consciousness, on the ground that synthetic
   phenomenology may create artificial suffering. Unread: a lawful open
   copy exists and could not be fetched. The argument is known here only
-  from the author's restatement in Metzinger 2024 (LIT-tmp3uosd,
+  from the author's restatement in Metzinger 2024 ([LIT-tmp3uosd](LIT-tmp3uosd.md),
   pp. 484–485). There, artificial consciousness "may involve a
   consciously experienced sense of self that may in turn generate
   artificial suffering", and a moratorium is proposed "until we know
@@ -73,7 +73,7 @@ and Consciousness*, 8(1), 43–66. doi:10.1142/S270507852150003X.
 ## Key takeaways
 
 *Not read. What follows is the author's later restatement, quoted from
-Metzinger 2024 (LIT-tmp3uosd, pp. 484–485), not this paper.*
+Metzinger 2024 ([LIT-tmp3uosd](LIT-tmp3uosd.md), pp. 484–485), not this paper.*
 
 - We should not "recklessly (whether intentionally or not) create
   artificial consciousness because artificial consciousness may involve a
@@ -85,10 +85,10 @@ Metzinger 2024 (LIT-tmp3uosd, pp. 484–485), not this paper.*
 
 ## Standing in the record
 
-Filed at the owner's request on 2026-11-01. It bears on TERM-083 (moral
-standing) and on the record's AI moral-standing readings (THEORY-554,
-THEORY-677). The restatement in the book grounds the risk in a
+Filed at the owner's request on 2026-11-01. It bears on [TERM-083](../terms.d/TERM-083.md) (moral
+standing) and on the record's AI moral-standing readings ([THEORY-554](../theory.d/THEORY-554.md),
+[THEORY-677](../theory.d/THEORY-677.md)). The restatement in the book grounds the risk in a
 *phenomenal self-model*. That is, it grounds it in a self, not in
 consciousness as such, so a conscious system without one would fall
-outside the argument as restated (QUESTION-tmpwit4l). Whether the paper
+outside the argument as restated ([QUESTION-tmpwit4l](../questions.d/QUESTION-tmpwit4l.md)). Whether the paper
 says the same cannot be checked until it is read.

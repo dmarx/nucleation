@@ -75,8 +75,8 @@ rights to restitution or participation."
 ## Note of 2026-11-01: consciousness without suffering, and the moratorium
 
 Metzinger argues for a global moratorium on synthetic phenomenology
-(LIT-tmpsk1p5, not read: a lawful copy exists and could not be fetched).
-His 2024 restatement (LIT-tmp3uosd, NOTE-tmpy472x, pp. 484–485) grounds the
+([LIT-tmpsk1p5](../literature.d/LIT-tmpsk1p5.md), not read: a lawful copy exists and could not be fetched).
+His 2024 restatement ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), pp. 484–485) grounds the
 risk in a self that can suffer, not in consciousness as such. Artificial
 consciousness "may involve a consciously experienced sense of self that
 may in turn generate artificial suffering". In the same passage he
@@ -87,13 +87,13 @@ of conscious intelligence without suffering might oblige us to build such
 machines.
 
 For this term the case separates two grounds that the readings cited
-above run together. Phenomenal consciousness (TERM-082, sense 1) and
-sentience as valenced experience (THEORY-449) come apart in it, on
+above run together. Phenomenal consciousness ([TERM-082](TERM-082.md), sense 1) and
+sentience as valenced experience ([THEORY-449](../theory.d/THEORY-449.md)) come apart in it, on
 Metzinger's description. A claim of standing that names "sentience" as
 its ground should say which it means. The book does not ask whether the
 machine would itself be owed anything. That is filed as
-QUESTION-tmpwit4l. The moratorium, as restated, is a claim about what we
+[QUESTION-tmpwit4l](../questions.d/QUESTION-tmpwit4l.md). The moratorium, as restated, is a claim about what we
 owe to possible future subjects of suffering. It is an argument from
-precaution, and THEORY-677's point applies: precaution alone does not fix
+precaution, and [THEORY-677](../theory.d/THEORY-677.md)'s point applies: precaution alone does not fix
 which error is worse. Whether the paper answers that cannot be checked
 until it is read. No status, title or warrant changes.

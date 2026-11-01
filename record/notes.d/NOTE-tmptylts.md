@@ -39,7 +39,7 @@ with "maximal prototypicality" (pp. 2–3, n. 1). The paper gives a first
 six-dimensional concept of MPE and a hypothesis about what MPE represents:
 the organism's own tonic alertness. Its evidence is quoted report and
 exegesis. It promises psychometric work, which became Metzinger 2024
-(LIT-tmp3uosd).
+([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md)).
 
 ## Key insight
 
@@ -73,7 +73,7 @@ self-modelling" (p. 36).
 ## Key results
 
 - **From MPS to MPE** (p. 2). Blanke and Metzinger's minimal phenomenal
-  selfhood (LIT-1274) has three features: identification with the body
+  selfhood ([LIT-1274](../literature.d/LIT-1274.md)) has three features: identification with the body
   as a whole, spatiotemporal self-location and a weak first-person
   perspective. MPE is hypothesised to lack MPS and all other egoic
   self-consciousness, time representation and a spatial frame.
@@ -162,22 +162,22 @@ self-modelling" (p. 36).
 
 ## Connections
 
-It builds on Blanke and Metzinger 2009 (LIT-1274) and on Windt's coinage
+It builds on Blanke and Metzinger 2009 ([LIT-1274](../literature.d/LIT-1274.md)) and on Windt's coinage
 of MPE. It draws on Moore 1903 for transparency, and on Forman, Stace,
-Shear and Tibetan sources for the reports. LIT-1354 (Chandia-Jorquera et
+Shear and Tibetan sources for the reports. [LIT-1354](../literature.d/LIT-1354.md) (Chandia-Jorquera et
 al.) adopts its definition of pure awareness. Woods, Windt and Carter
-(LIT-1351) test its premise that such goal states are contentless and
+([LIT-1351](../literature.d/LIT-1351.md)) test its premise that such goal states are contentless and
 find them not to be. Its active-inference reading is shared with
-Laukkonen et al. (THEORY-882). Metzinger 2024 (LIT-tmp3uosd) is its
+Laukkonen et al. ([THEORY-882](../theory.d/THEORY-882.md)). Metzinger 2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md)) is its
 sequel, with the survey.
 
 ## Bearing on the record's own argument
 
-- **THEORY-063 (unity without a self-model).** This paper replaces the
+- **[THEORY-063](../theory.d/THEORY-063.md) (unity without a self-model).** This paper replaces the
   précis's "Selfless Snapshot" with a minimal case that is selfless and
   *not* experienced as one. It has no "phenomenal quality of singularity"
   (p. 13). It is still a model, and a self-directed one: "non-egoic
-  self-modelling" (p. 36). For THEORY-063 the bearing is twofold. (a)
+  self-modelling" (p. 36). For [THEORY-063](../theory.d/THEORY-063.md) the bearing is twofold. (a)
   If MPE is real, then on Metzinger's own later account there is
   consciousness that is not the integration of "one global world-model",
   since MPE models the system's capacity to know and not a world. So the
@@ -186,7 +186,7 @@ sequel, with the survey.
   the narrower form that phenomenal experience needs no egoic self-model.
   The inference is the record's. The paper does not mention the
   globality constraint.
-- **QUESTION-048 (what each kind of evidence can establish).** The paper
+- **[QUESTION-048](../questions.d/QUESTION-048.md) (what each kind of evidence can establish).** The paper
   argues that MPE's own content is unreportable from memory (p. 15) and
   closed to the method of phenomenal contrast (p. 13). If both are right,
   its prototype is closed to the two standard routes of report-based
@@ -195,30 +195,30 @@ sequel, with the survey.
   alertness without wakefulness, in unresponsive wakefulness, is a case
   in which a function is present and, on the paper's reading, experience
   is absent (p. 33). The reading of experience as absent rests on
-  behaviour, which is QUESTION-048's problem again.
-- **QUESTION-254 and CLAIM-412 (what makes an organization
+  behaviour, which is [QUESTION-048](../questions.d/QUESTION-048.md)'s problem again.
+- **[QUESTION-254](../questions.d/QUESTION-254.md) and [CLAIM-412](../claims.d/CLAIM-412.md) (what makes an organization
   experiential).** The paper's answer is a specific organization: a
   predictive model of the system's own epistemic capacities, temporally
   thin and integrated. Without it, alertness is not experienced (p. 33).
-  That is a candidate for CLAIM-412's missing qualifying condition, in a
-  form close to TERM-073's interpretation (distinction, context,
-  consequentiality). It is aperspectival, which CLAIM-412's part 3 does
+  That is a candidate for [CLAIM-412](../claims.d/CLAIM-412.md)'s missing qualifying condition, in a
+  form close to [TERM-073](../terms.d/TERM-073.md)'s interpretation (distinction, context,
+  consequentiality). It is aperspectival, which [CLAIM-412](../claims.d/CLAIM-412.md)'s part 3 does
   not allow as worded. It is not stated independently of report, so it
-  does not meet CLAIM-411's defeater either.
-- **QUESTION-255 (non-gluing and unity).** If MPE has no centre, no
+  does not meet [CLAIM-411](../claims.d/CLAIM-411.md)'s defeater either.
+- **[QUESTION-255](../questions.d/QUESTION-255.md) (non-gluing and unity).** If MPE has no centre, no
   boundary and no oneness (p. 13), it is a case where the question of
   unity, glued or not, may not arise in phenomenal terms. One cannot ask
   whether local interpretations glue when there are no local
   interpretations. That is the record's inference. It marks a limit of the
   sheaf framing, not a case of kind (2).
-- **TERM-082 (senses of consciousness).** Its arousal, tonic alertness and
-  wakefulness triad (pp. 32–33) is a three-way split of TERM-082's sense
+- **[TERM-082](../terms.d/TERM-082.md) (senses of consciousness).** Its arousal, tonic alertness and
+  wakefulness triad (pp. 32–33) is a three-way split of [TERM-082](../terms.d/TERM-082.md)'s sense
   4, which runs the physical, the functional and the phenomenal together.
-- **TERM-045 (self, and which sense).** "Non-egoic self-modelling" is a
-  case for the "modeled" sense that TERM-045's note of 2026-10-18 flags.
+- **[TERM-045](../terms.d/TERM-045.md) (self, and which sense).** "Non-egoic self-modelling" is a
+  case for the "modeled" sense that [TERM-045](../terms.d/TERM-045.md)'s note of 2026-10-18 flags.
   It also shows that the modeled sense needs a further division, between
   a model of a self as subject and a model of the system's capacities.
-- **THEORY filed.** THEORY-tmplvoa3, with Metzinger 2024.
+- **THEORY filed.** [THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md), with Metzinger 2024.
 - No instruction for machine-learning practice.
 
 ## Limitations
@@ -228,7 +228,7 @@ sequel, with the survey.
   actually fewer paradigmatic reports of such experiences in the literature
   than previously assumed" (p. 38).
 - **The methodological problems are deferred** (n. 27). The paper does not
-  answer the performative worry, which is THEORY-063's.
+  answer the performative worry, which is [THEORY-063](../theory.d/THEORY-063.md)'s.
 - **A tension between PC2 and the conclusion.** Low Complexity is first
   read as "the complete absence of intentional content" (p. 9), and the
   conclusion says MPE "definitely has representational content" (p. 38).

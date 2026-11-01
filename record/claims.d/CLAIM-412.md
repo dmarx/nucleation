@@ -437,9 +437,9 @@ circularity its own defeated_if names.
 
 ## Note of 2026-11-01: Metzinger on minimal phenomenal experience
 
-The body cites Metzinger's unity without a self-model (THEORY-063) as
-"part 4 already read". His later work, read on 2026-11-01 (LIT-tmpr0pnp in
-NOTE-tmptylts, LIT-tmp3uosd in NOTE-tmpy472x), bears on the claim in three
+The body cites Metzinger's unity without a self-model ([THEORY-063](../theory.d/THEORY-063.md)) as
+"part 4 already read". His later work, read on 2026-11-01 ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md) in
+[NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md) in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md)), bears on the claim in three
 places. None of them meets the defeater.
 
 - **A candidate for part 3's organization.** On Metzinger's account the
@@ -448,14 +448,14 @@ places. None of them meets the defeater.
   modelled, as in unresponsive wakefulness, is not experienced: "an
   organism can be tonically alert without knowing that it is alert:
   Consciousness is knowing that one is alert" (2020, p. 33). That is an
-  organizational condition of the kind part 3 owes (THEORY-tmplvoa3).
+  organizational condition of the kind part 3 owes ([THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md)).
   It is stated without report-independent evidence, so it does not meet
-  CLAIM-411's defeater.
+  [CLAIM-411](CLAIM-411.md)'s defeater.
 - **Part 3 says the organization must be perspectival.** Metzinger's
   minimal case is "aperspectival: no epistemic agent model" (2020, p. 11).
   He calls it the "zero-person perspective" (2024, p. xix). If the account
   holds, part 3 needs a sense of "perspectival" that the zero-person case
-  meets, or it is too strong. TERM-072's sense 1, an organizational
+  meets, or it is too strong. [TERM-072](../terms.d/TERM-072.md)'s sense 1, an organizational
   perspective, might be that sense: the organism's model of its own
   openness is organized relative to the organism without representing a
   subject.
@@ -471,4 +471,4 @@ places. None of them meets the defeater.
 
 The evidence for the minimal case is retrospective report, and the 2024
 book grants that such reports cannot show that the state was selfless when
-it occurred (THEORY-tmp8nd9o). No status, title or warrant changes.
+it occurred ([THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md)). No status, title or warrant changes.

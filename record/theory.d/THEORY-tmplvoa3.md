@@ -28,8 +28,8 @@ source:
 - LIT-tmpr0pnp
 - LIT-tmp3uosd
 summary: >-
-  Metzinger (2020), LIT-tmpr0pnp, read in full in NOTE-tmptylts, and
-  Metzinger (2024), LIT-tmp3uosd, skimmed in NOTE-tmpy472x. MPE is "an
+  Metzinger (2020), [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), read in full in [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), and
+  Metzinger (2024), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), skimmed in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md). MPE is "an
   inner representation of tonic alertness", "non-egoic self-modelling"
   that "definitely has representational content". In the 2024 sketch it
   is "a highest-level but nonegoic self-model" of the system's epistemic
@@ -48,9 +48,9 @@ bears_on:
 
 ## Source
 
-Metzinger (2020), LIT-tmpr0pnp, §§2–4, pp. 9–38, read in full in
-NOTE-tmptylts. Metzinger (2024), LIT-tmp3uosd, chapters 4, 25 and 34, pp.
-36–44, 300–306 and 455–478, read in NOTE-tmpy472x.
+Metzinger (2020), [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), §§2–4, pp. 9–38, read in full in
+[NOTE-tmptylts](../notes.d/NOTE-tmptylts.md). Metzinger (2024), [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), chapters 4, 25 and 34, pp.
+36–44, 300–306 and 455–478, read in [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md).
 
 ## What was actually shown
 
@@ -85,7 +85,7 @@ is completely missing in all full-absorption episodes" (2024, pp. 302,
 306).
 
 **The evidence.** Quoted reports in 2020, and in 2024 a survey of meditators
-with free-text reports (THEORY-tmp8nd9o). Both texts call the model a
+with free-text reports ([THEORY-tmp8nd9o](THEORY-tmp8nd9o.md)). Both texts call the model a
 hypothesis: "a hypothetical starting point" (2024, p. 477). The one
 dissociation offered independently of contemplative report is unresponsive
 wakefulness. There the absence of experience is itself inferred from
@@ -108,7 +108,7 @@ under a definition that already named awareness of awareness.
   system identifies with, and MPE is said to be able to become a
   "nonegoic unit of identification" (2024, pp. 470–471).
 - **That the minimal case is a unified world.** It is neither a world nor
-  experienced as one (2020, p. 13; 2024, p. 477). THEORY-063's "Selfless
+  experienced as one (2020, p. 13; 2024, p. 477). [THEORY-063](THEORY-063.md)'s "Selfless
   Snapshot", the presence of "one unified world", is a different minimal
   case.
 - **That the model has been found.** No neural or computational measure of
@@ -121,28 +121,28 @@ under a definition that already named awareness of awareness.
 
 ## Connections
 
-- **THEORY-063.** That reading's second clause, that unity needs no
+- **[THEORY-063](THEORY-063.md).** That reading's second clause, that unity needs no
   self-model, is narrowed by this account to "no egoic self-model". Its
   minimal case, a selfless unified world, is not this account's minimal
   case, which has no world and no oneness. The two can both be true only
-  if THEORY-063's first clause is about the integration of world-content
+  if [THEORY-063](THEORY-063.md)'s first clause is about the integration of world-content
   in ordinary waking experience, not about phenomenality as such. The
   inference is the record's.
-- **THEORY-064.** The same transparency apparatus is applied to the
+- **[THEORY-064](THEORY-064.md).** The same transparency apparatus is applied to the
   model of epistemic openness: transparent, it yields a real world;
   opaque, an "explicit experience of emptiness and bare wakefulness"
   (2024, p. 369).
-- **THEORY-882 (Laukkonen, Friston and Chandaria).** The same family:
+- **[THEORY-882](THEORY-882.md) (Laukkonen, Friston and Chandaria).** The same family:
   a hyper-model over the hierarchy that sets precision. They also read MPE
   as the model with no content. Neither gives data.
-- **CLAIM-412 and QUESTION-254.** A candidate for the qualifying
-  organization CLAIM-412 lacks: a temporally thin model of the system's
+- **[CLAIM-412](../claims.d/CLAIM-412.md) and [QUESTION-254](../questions.d/QUESTION-254.md).** A candidate for the qualifying
+  organization [CLAIM-412](../claims.d/CLAIM-412.md) lacks: a temporally thin model of the system's
   own epistemic capacities, stated in organizational terms. It is
-  aperspectival, which CLAIM-412's part 3 does not allow as worded. It is
-  not stated independently of report, which CLAIM-411's defeater requires.
-- **QUESTION-048.** The account implies that its own prototype cannot be
+  aperspectival, which [CLAIM-412](../claims.d/CLAIM-412.md)'s part 3 does not allow as worded. It is
+  not stated independently of report, which [CLAIM-411](../claims.d/CLAIM-411.md)'s defeater requires.
+- **[QUESTION-048](../questions.d/QUESTION-048.md).** The account implies that its own prototype cannot be
   remembered (2020, p. 15) and has no phenomenal contrast class (2020,
   p. 13). If so, report evidence can reach only the entry to and exit from
   full absorption, and the account's test must be architectural.
-- **TERM-082.** The triad splits TERM-082's sense 4 into a physical, a
+- **[TERM-082](../terms.d/TERM-082.md).** The triad splits [TERM-082](../terms.d/TERM-082.md)'s sense 4 into a physical, a
   functional and a phenomenal property.

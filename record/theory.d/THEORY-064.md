@@ -179,7 +179,7 @@ corroboration, and [CLAIM-355](../claims.d/CLAIM-355.md) still grounds on it.
 
 ## Note of 2026-11-01: transparency carried to epistemic openness
 
-*The Elephant and the Blind* (2024, LIT-tmp3uosd, pp. 362–369) carries
+*The Elephant and the Blind* (2024, [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), pp. 362–369) carries
 this reading's transparency apparatus to the model of epistemic openness
 itself. It gives no test of the prediction that a fully opaque self-model
 would end selfhood. Meditation as "opacity control" names a mechanism

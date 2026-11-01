@@ -73,8 +73,8 @@ evidence-for-experience line, which this term does not answer.
 ## Note of 2026-11-01: sense 4 runs three properties together
 
 Sense 4 reads "Wakefulness or arousal. A clinical or behavioural state of
-responsiveness". Metzinger (2020, LIT-tmpr0pnp, NOTE-tmptylts,
-pp. 32–33; 2024, LIT-tmp3uosd, NOTE-tmpy472x, pp. 36–37) separates three
+responsiveness". Metzinger (2020, [LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md),
+pp. 32–33; 2024, [LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), pp. 36–37) separates three
 properties under those words:
 
 - **arousal**, "a graded physical property of the human brain", the level

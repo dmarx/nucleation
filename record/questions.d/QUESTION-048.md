@@ -75,15 +75,15 @@ or minimal phenomenal experience (MPE). It states the limits of report
 evidence itself, and they belong in "What the record holds".
 
 - **Retrospective report cannot show that a state was selfless.**
-  Metzinger 2024 (LIT-tmp3uosd, NOTE-tmpy472x, p. 19): a report of having
+  Metzinger 2024 ([LIT-tmp3uosd](../literature.d/LIT-tmp3uosd.md), [NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md), p. 19): a report of having
   been selfless is "highly dubious from a methodological perspective",
   since autobiographical memory represents events as a self's. The state
   may be "stored and later retrieved in an autobiographical format, as a
   post hoc mnemonic misrepresentation". He leaves the problem open. The
-  2020 paper (LIT-tmpr0pnp, NOTE-tmptylts, p. 15) goes further: the
+  2020 paper ([LIT-tmpr0pnp](../literature.d/LIT-tmpr0pnp.md), [NOTE-tmptylts](../notes.d/NOTE-tmptylts.md), p. 15) goes further: the
   content of a full-absorption episode "cannot be reported", and only
   entry and exit are remembered. The book's summary calls such states
-  "empirically established" all the same (p. 457). THEORY-tmp8nd9o states
+  "empirically established" all the same (p. 457). [THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md) states
   the gap. Limit: a conceptual argument, which the book does not test,
   for instance with reports taken at the end of a session, as it
   recommends (p. 18).
@@ -98,11 +98,11 @@ evidence itself, and they belong in "What the record holds".
 - **A function without experience, by Metzinger's reading.** Tonic
   alertness without wakefulness, in unresponsive wakefulness (2020,
   p. 33). Limit: the absence of experience there is inferred from
-  behaviour, which is THEORY-091's limit.
+  behaviour, which is [THEORY-091](../theory.d/THEORY-091.md)'s limit.
 - **The architectural route he proposes.** The Triple Triangulation Project
   looks for the "minimally sufficient neural correlates" common to full
   absorption entered from waking, from NREM sleep and from lucid dreams
   (2024, pp. 220–221). Limit: every episode would still be picked out by
-  report, so it inherits THEORY-298's problem.
+  report, so it inherits [THEORY-298](../theory.d/THEORY-298.md)'s problem.
 
 No status, title or warrant changes.

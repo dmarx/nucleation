@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-01 (NOTE-tmpy472x), from the publisher's open-access
+  skimmed 2026-11-01 ([NOTE-tmpy472x](../notes.d/NOTE-tmpy472x.md)), from the publisher's open-access
   PDF: the introduction, the theoretical commentary of chapters 2, 4, 8,
   25, 28 and 31, all of chapter 34 and the epilogue's ethics sections were
   read; the report chapters were sampled, not read through. Worth reading
@@ -125,23 +125,23 @@ access, CC BY-NC-ND 4.0.
   The epilogue asks whether a machine kept in pure awareness, "nondual
   and without subjectivity", conscious but without suffering, would be
   wrong to build. It restates the case for a moratorium on synthetic
-  phenomenology and cites his 2021 paper (LIT-tmpsk1p5).
+  phenomenology and cites his 2021 paper ([LIT-tmpsk1p5](LIT-tmpsk1p5.md)).
 
 ## Standing in the record
 
 Filed at the owner's request on 2026-11-01, with Metzinger's later work,
 for the evidence-for-experience line. It is the record's first reading
-of Metzinger's minimal phenomenal experience. LIT-1354 (Chandia-Jorquera et
-al.) takes that concept as its definition of pure awareness, and NOTE-1058
+of Metzinger's minimal phenomenal experience. [LIT-1354](LIT-1354.md) (Chandia-Jorquera et
+al.) takes that concept as its definition of pure awareness, and [NOTE-1058](../notes.d/NOTE-1058.md)
 says the record then held no reading of it.
 
-It bears on three entries. First, THEORY-063's claim that the unity of
+It bears on three entries. First, [THEORY-063](../theory.d/THEORY-063.md)'s claim that the unity of
 experience needs no self-model. The later account removes the egoic
 self-model and the perspective, but it describes MPE itself as a nonegoic
-self-model. Second, QUESTION-048, on what reports can establish. The book
-grants the main limits of its own evidence. Third, TERM-083, through the
+self-model. Second, [QUESTION-048](../questions.d/QUESTION-048.md), on what reports can establish. The book
+grants the main limits of its own evidence. Third, [TERM-083](../terms.d/TERM-083.md), through the
 epilogue's question about a conscious machine that does not suffer. See the
-NOTE for each, and THEORY-tmplvoa3 and THEORY-tmp8nd9o for the findings.
+NOTE for each, and [THEORY-tmplvoa3](../theory.d/THEORY-tmplvoa3.md) and [THEORY-tmp8nd9o](../theory.d/THEORY-tmp8nd9o.md) for the findings.
 `religion` is carried for the contemplative traditions whose texts and
 practitioners supply the material. `ethics` is carried for the epilogue.
 No instruction for machine-learning practice.
