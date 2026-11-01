@@ -66,34 +66,34 @@ silent drift.
 
 <!-- inactive-ok: THEORY-tmptbvmq THEORY-tmp92dsq ARG-tmpmibc8 QUESTION-tmp7czq0 — Proposed or Open; the readings and the inference this note reports, cited as open -->
 
-Metzinger's work on mental autonomy (LIT-tmp23d7b, LIT-tmp0w298,
-LIT-tmppbt0s) has this term's shape at the scale of one mind's thinking.
-M-autonomy is "the capacity for second-order mental action" (LIT-tmppbt0s,
+Metzinger's work on mental autonomy ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md),
+[LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md)) has this term's shape at the scale of one mind's thinking.
+M-autonomy is "the capacity for second-order mental action" ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md),
 p. 4), and its parts line up with the term's dimensions: veto, "the
 intentional inhibition, suspension, or termination of an ongoing process",
 is suspension; "goal-permanence" is persistence; frontal control that
 "latch[es] onto the best candidate" among the thoughts mind-wandering
 offers is precedence; and the ability "to actively sculpt its own internal
-affordance landscape" is transformation (LIT-tmp0w298, p. 276;
-LIT-tmppbt0s, pp. 12–13). Its cyclic loss in mind-wandering is, on the
+affordance landscape" is transformation ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 276;
+[LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 12–13). Its cyclic loss in mind-wandering is, on the
 2015 reading, a change in the efficacy of a capacity the agent keeps, not
-in the capacity (THEORY-tmptbvmq). Same structure, not shown same
-mechanism; ARG-tmpmibc8 holds the verdict, Proposed.
+in the capacity ([THEORY-tmptbvmq](../theory.d/THEORY-tmptbvmq.md)). Same structure, not shown same
+mechanism; [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md) holds the verdict, Proposed.
 
 Two points bear on the definition itself.
 
 - **The agent index survives.** Metzinger makes the first-person
   perspective and "certain necessary conditions of personhood" "rare,
-  graded, and dynamically variable" (LIT-tmp0w298, p. 295), which might
+  graded, and dynamically variable" ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 295), which might
   seem to remove the agent this term is indexed to during each lapse. He
   keeps it: "We are still persons, because we have the relevant potential"
   (p. 282). The agent is warranted across the lapse; only the efficacy of
   one of its capacities lapses. That is how this term is meant to be read.
 - **A condition the term does not list.** Metzinger's condition of efficacy
   is the agent's representation of its own capacity in its self-model
-  (LIT-tmp0w298, p. 280). The term's relations hold among regimes. Whether
+  ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 280). The term's relations hold among regimes. Whether
   such a representation is one of the maintained relations, or only
-  accompanies them, is QUESTION-tmp7czq0. If it is, a fourth wording of the
+  accompanies them, is [QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md). If it is, a fourth wording of the
   definition would be needed, as a new version here.
 
 No status, title or warrant changes.

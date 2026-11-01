@@ -64,16 +64,16 @@ No status, title or warrant changes.
 
 <!-- inactive-ok: THEORY-tmpjtjll — Proposed; the reading this note reports, cited as open -->
 
-Metzinger (LIT-tmp0w298, LIT-tmp23d7b) separates what makes a thought
+Metzinger ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md)) separates what makes a thought
 effective from what makes it the person's, in both directions.
 
 - **Owned and not controlled.** Mind-wandering has "ownership without
-  agency" (LIT-tmp0w298, p. 272): the thoughts are phenomenally one's own
+  agency" ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), p. 272): the thoughts are phenomenally one's own
   while no control of them is exercised.
 - **Attributed and not caused.** The return of control is represented as
   self-caused, "I generated this insight myself!", even when "really
   triggered by unconscious events", to keep the self-model continuous
-  (p. 291; THEORY-tmpjtjll).
+  (p. 291; [THEORY-tmpjtjll](../theory.d/THEORY-tmpjtjll.md)).
 - **Whose, settled elsewhere.** A process "only becomes part of a
   personal-level process by being functionally integrated into ... the
   'epistemic agent model' (EAM), and by being embedded into a highly
@@ -82,7 +82,7 @@ effective from what makes it the person's, in both directions.
 So in this literature the person's thought is fixed by a representation
 and a social practice, not by what was effective, which is this claim's
 disclaimer in another form. It does not settle whose the will is either:
-LIT-tmppbt0s adds that the standard of self-attribution is installed by
-caregivers before memory (pp. 20–21), the issue QUESTION-364 takes up.
+[LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md) adds that the standard of self-attribution is installed by
+caregivers before memory (pp. 20–21), the issue [QUESTION-364](../questions.d/QUESTION-364.md) takes up.
 
 No status, title or warrant changes.

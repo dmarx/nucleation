@@ -61,7 +61,7 @@ sculpt its own internal affordance landscape" (p. 13).
 - **Mental actions are epistemic**; reward-directed mental action is set
   aside, with the suggestion that reward expectation reduces to epistemic
   value "for the very large majority" (p. 3).
-- **M-autonomy and veto as in LIT-tmp0w298** (p. 4).
+- **M-autonomy and veto as in [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md)** (p. 4).
 - **"Roughly ... one third of our conscious lifetime"** of autonomous
   self-control, from the 2015 paper's figure 2 (p. 12).
 
@@ -124,7 +124,7 @@ sculpt its own internal affordance landscape" (p. 13).
 
 - **Sensory sheet** — "a collection or population of receptors" (p. 2,
   note 1).
-- **Mental action / mental behaviour** — as in LIT-tmp0w298; actions are
+- **Mental action / mental behaviour** — as in [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md); actions are
   "typically directed at epistemic goal-states" (p. 3).
 - **Cognitive affordance** — "Every spontaneously occurring 'task-unrelated'
   mental event is a potential task in itself ... a dynamic state which has
@@ -144,11 +144,11 @@ sculpt its own internal affordance landscape" (p. 13).
 
 ## Connections
 
-It builds on LIT-tmp0w298 and LIT-tmp23d7b (cited as Metzinger 2015 and
+It builds on [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md) and [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md) (cited as Metzinger 2015 and
 2013a), Hohwy 2013 on attention as precision, Clark 2016 and Cisek on
 affordance competition, Seth 2015b on predictive control, and Friston et
-al. 2015 on epistemic value. THEORY-882 (Laukkonen, Friston and Chandaria,
-read in NOTE-1063) is a later PP account in which a hyper-model sets
+al. 2015 on epistemic value. [THEORY-882](../theory.d/THEORY-882.md) (Laukkonen, Friston and Chandaria,
+read in [NOTE-1063](NOTE-1063.md)) is a later PP account in which a hyper-model sets
 precision at every level and agency is not required for awareness; this
 chapter makes agency the special case where precision is controlled under a
 self-model.
@@ -178,7 +178,7 @@ self-model.
 
 Same structure, not shown same mechanism, throughout.
 
-- **CLAIM-027 and TERM-023.** The cognitive affordance hypothesis has the
+- **[CLAIM-027](../claims.d/CLAIM-027.md) and [TERM-023](../terms.d/TERM-023.md).** The cognitive affordance hypothesis has the
   claim's shape: several candidate mental processes are available at once,
   and something other than their content decides which is pursued.
   "Frontal regions ... latch onto the best candidate" (p. 12) is
@@ -186,8 +186,8 @@ Same structure, not shown same mechanism, throughout.
   landscape" is transformation. "Best" is not defined, so whether
   selection is by the candidates' own strength (content) or by maintained
   relations is exactly what the chapter does not say. The support verdict
-  is ARG-tmpmibc8.
-- **CLAIM-484.** The effort passage (p. 10) is the nearest thing in these
+  is [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md).
+- **[CLAIM-484](../claims.d/CLAIM-484.md).** The effort passage (p. 10) is the nearest thing in these
   readings to the episode the claim needs. Its terms are defined apart from
   the felt mark: an "automatically arising precision prediction error" is a
   claim on precision, top-down precision control is the grant, and the
@@ -195,22 +195,22 @@ Same structure, not shown same mechanism, throughout.
   "collision". If that held, gap and mark could be measured separately at
   the scale of attention. The passage is speculation, and no study is
   cited.
-- **CLAIM-358.** Mind-wandering is "model-free epistemic self-control" and
+- **[CLAIM-358](../claims.d/CLAIM-358.md).** Mind-wandering is "model-free epistemic self-control" and
   mental agency "model-based" (p. 15); "mind wandering is self-regulation on
   the mental level without an explicit model of the 'epistemic plant'"
   (p. 17). That is the claim's contrast, regulation without a mediator
   against regulation through a higher model, at the scale of thought. The
   chapter gives no costs, so it does not bear on the claim's amortization.
-  The cost of control the claim leans on is THEORY-070's.
-- **CLAIM-355 and the record's split between effective organization and
-  its representation (not this reader's line for CLAIM-355).** The chapter
+  The cost of control the claim leans on is [THEORY-070](../theory.d/THEORY-070.md)'s.
+- **[CLAIM-355](../claims.d/CLAIM-355.md) and the record's split between effective organization and
+  its representation (not this reader's line for [CLAIM-355](../claims.d/CLAIM-355.md)).** The chapter
   keeps the split open where M-autonomy closed it: the EAM may constitute
   the control, enable it, or accompany it (pp. 13–14). That is the
-  question CLAIM-355's A26 answers one way ("self-representations may
+  question [CLAIM-355](../claims.d/CLAIM-355.md)'s A26 answers one way ("self-representations may
   themselves be parts of the real causal organization they represent").
   The reading neither supports nor defeats it. It names the interventions
-  that would decide (H1, H3). QUESTION-tmp7czq0 is filed for them.
-- **QUESTION-364.** The standard by which an adult reads its own acts as
+  that would decide (H1, H3). [QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md) is filed for them.
+- **[QUESTION-364](../questions.d/QUESTION-364.md).** The standard by which an adult reads its own acts as
   self-originated is installed by caregivers' ascriptions "at a stage where
   ... young children almost certainly do not possess these capacities",
   and "the process of amnestic enculturation itself will never be
@@ -218,7 +218,7 @@ Same structure, not shown same mechanism, throughout.
   authorization the question asks about begins with a standard the agent
   did not authorize and cannot recall acquiring. That sharpens the
   question; it supplies no criterion.
-- **CLAIM-122.** The selection story allows the defeater's route: if "best
+- **[CLAIM-122](../claims.d/CLAIM-122.md).** The selection story allows the defeater's route: if "best
   candidate" is fixed by the candidates' epistemic value, a change in that
   value, not in a governing relation, predicts which thought is pursued.
   The chapter does not separate them.

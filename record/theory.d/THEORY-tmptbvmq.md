@@ -28,13 +28,13 @@ source:
 bears_on:
 - QUESTION-tmp7czq0
 summary: >-
-  Metzinger (2015), LIT-tmp0w298, pp. 280–283 and 296, read in
-  NOTE-tmprpztl; anticipated in 2013 (LIT-tmp23d7b, p. 3, note 4). The
+  Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 280–283 and 296, read in
+  [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md); anticipated in 2013 ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 3, note 4). The
   "moderate, nuanced position": what is lost is "not the ability itself"
   but "conscious knowledge of our potential for second-order mental
   action", with the "principle of 'Autonomy by Phenomenal
   Self-Representation'". Both are stated, not argued, and neither is
-  tested. Metzinger's 2017 chapter (LIT-tmppbt0s, pp. 13–14) says the
+  tested. Metzinger's 2017 chapter ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 13–14) says the
   data cannot decide whether the self-model constitutes, enables or only
   accompanies control, which withholds the principle's causal reading.
   "Deliberately" also does work: inhibition can be wholly subpersonal.
@@ -45,10 +45,10 @@ summary: >-
 
 ## Source
 
-Metzinger (2015), LIT-tmp0w298, pp. 280–283, 290–291 and 296, read in
-NOTE-tmprpztl. Metzinger (2013), LIT-tmp23d7b, p. 3 note 4, p. 5 and
-p. 13, read in NOTE-tmp97akw. Metzinger (2017), LIT-tmppbt0s, pp. 13–14,
-read in NOTE-tmpk5ghu.
+Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 280–283, 290–291 and 296, read in
+[NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md). Metzinger (2013), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 3 note 4, p. 5 and
+p. 13, read in [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md). Metzinger (2017), [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 13–14,
+read in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md).
 
 ## What was actually shown
 
@@ -106,19 +106,19 @@ and from the phenomenology of the return.
 
 ## Connections
 
-- **CLAIM-047.** Same structure, not shown same mechanism: a regime (here,
-  second-order mental control) possessed and not effective. CLAIM-047 says
+- **[CLAIM-047](../claims.d/CLAIM-047.md).** Same structure, not shown same mechanism: a regime (here,
+  second-order mental control) possessed and not effective. [CLAIM-047](../claims.d/CLAIM-047.md) says
   the two differ; this account names a candidate for what makes the
   difference, the capacity's representation in the self-model.
-- **CLAIM-027 and TERM-023.** If the representation is a condition of
-  efficacy, it is a relation of the kind TERM-023 lists, closest to
+- **[CLAIM-027](../claims.d/CLAIM-027.md) and [TERM-023](../terms.d/TERM-023.md).** If the representation is a condition of
+  efficacy, it is a relation of the kind [TERM-023](../terms.d/TERM-023.md) lists, closest to
   accessibility, and it changes without any change in the competing mental
-  processes. ARG-tmpmibc8 holds the analogy, Proposed.
-- **QUESTION-tmp7czq0** asks whether representing a capacity is a condition
+  processes. [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md) holds the analogy, Proposed.
+- **[QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md)** asks whether representing a capacity is a condition
   of its efficacy or its accompaniment, which this account asserts and the
   2017 chapter withholds.
-- **CLAIM-355.** The account keeps the effective capacity and its
+- **[CLAIM-355](../claims.d/CLAIM-355.md).** The account keeps the effective capacity and its
   representation apart and lets them come apart in time, which is the split
-  CLAIM-355 draws between real organization and a represented owner.
-- **THEORY-064.** The EAM is a layer of the transparent self-model that
+  [CLAIM-355](../claims.d/CLAIM-355.md) draws between real organization and a represented owner.
+- **[THEORY-064](THEORY-064.md).** The EAM is a layer of the transparent self-model that
   account describes.

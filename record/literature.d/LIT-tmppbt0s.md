@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmpk5ghu), from the open-access PDF on
+  read in full 2026-11-01 ([NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md)), from the open-access PDF on
   the collection's own site
   (predictive-mind.net/papers/the-problem-of-mental-action/at_download/paperPDF),
   text extracted with pdftotext. Worth reading for two things the 2013
@@ -10,7 +10,7 @@ status_note: >-
   "cognitive affordance hypothesis"), and a plain statement that the data
   cannot yet decide whether the epistemic agent model constitutes mental
   control, represents and enables it, or is a phenomenal by-product
-  (THEORY-tmp92dsq). That withholds what M-autonomy (LIT-tmp0w298)
+  ([THEORY-tmp92dsq](../theory.d/THEORY-tmp92dsq.md)). That withholds what M-autonomy ([LIT-tmp0w298](LIT-tmp0w298.md))
   asserted as a principle. Four testable hypotheses, none tested; no data.
 title: 'The Problem of Mental Action: Predictive Control without Sensory Sheets'
 version: 1
@@ -78,7 +78,7 @@ without sensory sheets. In T. Metzinger & W. Wiese (Eds.), *Philosophy and
 Predictive Processing* (ch. 19). Frankfurt am Main: MIND Group. DOI
 10.15502/9783958573208.
 
-Read in full in NOTE-tmpk5ghu.
+Read in full in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md).
 
 ## Key takeaways
 

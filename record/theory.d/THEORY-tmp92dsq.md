@@ -28,7 +28,7 @@ source:
 bears_on:
 - QUESTION-tmp7czq0
 summary: >-
-  Metzinger (2017), LIT-tmppbt0s, pp. 11–17, read in NOTE-tmpk5ghu. The
+  Metzinger (2017), [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 11–17, read in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md). The
   "cognitive affordance hypothesis": mind-wandering is "mental
   sleep-walking" that "sets up the inner world" of candidate mental actions,
   and frontal control "latch[es] onto the best candidate". Offered as a
@@ -46,8 +46,8 @@ summary: >-
 
 ## Source
 
-Metzinger (2017), LIT-tmppbt0s, §§3.2–3.4, pp. 11–17, read in
-NOTE-tmpk5ghu.
+Metzinger (2017), [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), §§3.2–3.4, pp. 11–17, read in
+[NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md).
 
 ## What was actually shown
 
@@ -97,23 +97,23 @@ proposed tests; the chapter cites Axelrod et al. (2015) and Broadway et al.
   the autobiographical self-model (p. 3).
 - **How attentional action begins.** "we may have a model of action
   initiation for CA, but not for AA" (p. 22).
-- **That the 2015 principle holds.** LIT-tmp0w298 states that an ability is
-  deliberately exercised only when represented (THEORY-tmptbvmq). This
+- **That the 2015 principle holds.** [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md) states that an ability is
+  deliberately exercised only when represented ([THEORY-tmptbvmq](THEORY-tmptbvmq.md)). This
   chapter leaves open whether the representation does anything.
 
 ## Connections
 
-- **CLAIM-027.** Same structure, not shown same mechanism: candidate
+- **[CLAIM-027](../claims.d/CLAIM-027.md).** Same structure, not shown same mechanism: candidate
   mental processes compete and something other than their content decides
   which is pursued, if "best" is not content. The chapter does not settle
-  that, so the reading is a shape, not support. ARG-tmpmibc8 holds the
+  that, so the reading is a shape, not support. [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md) holds the
   verdict.
-- **CLAIM-484.** The same chapter's account of mental effort (p. 10) as the
+- **[CLAIM-484](../claims.d/CLAIM-484.md).** The same chapter's account of mental effort (p. 10) as the
   "collision" of top-down precision control with "an automatically arising
   precision prediction error" defines a claim and a grant apart from the
   felt mark; it is speculation.
-- **THEORY-882.** A predictive-processing account of awareness in which
+- **[THEORY-882](THEORY-882.md).** A predictive-processing account of awareness in which
   precision is set at every level by a hyper-model and agency is not
   required; here agency is the special case where precision is controlled
   under a self-model.
-- **QUESTION-tmp7czq0** takes the open clause as the record's question.
+- **[QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md)** takes the open clause as the record's question.

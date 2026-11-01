@@ -24,8 +24,8 @@ source:
 - LIT-tmp23d7b
 - LIT-tmppbt0s
 summary: >-
-  Metzinger (2015), LIT-tmp0w298, pp. 289–292, read in NOTE-tmprpztl; first
-  in 2013 (LIT-tmp23d7b, pp. 4, 11) and widened in 2017 (LIT-tmppbt0s,
+  Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 289–292, read in [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md); first
+  in 2013 ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), pp. 4, 11) and widened in 2017 ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md),
   pp. 20–21) to the sense of origination in agency generally. It rests on
   Schooler et al. (2011) and Wegner (2002), neither read, and on the
   argument that a self-model which must represent itself as always having
@@ -40,9 +40,9 @@ summary: >-
 
 ## Source
 
-Metzinger (2015), LIT-tmp0w298, pp. 289–292, read in NOTE-tmprpztl;
-Metzinger (2013), LIT-tmp23d7b, pp. 4–5 and 11, read in NOTE-tmp97akw;
-Metzinger (2017), LIT-tmppbt0s, pp. 6 and 20–21, read in NOTE-tmpk5ghu.
+Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 289–292, read in [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md);
+Metzinger (2013), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), pp. 4–5 and 11, read in [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md);
+Metzinger (2017), [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), pp. 6 and 20–21, read in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md).
 
 ## What was actually shown
 
@@ -89,7 +89,7 @@ represent, not an observation.
 - **That every return is confabulated.** "at least in many such cases"
   (2015, p. 291); which cases is not said.
 - **That the person never ends an episode.** On the 2015 reading the
-  ability is kept throughout (THEORY-tmptbvmq); the claim is about the
+  ability is kept throughout ([THEORY-tmptbvmq](THEORY-tmptbvmq.md)); the claim is about the
   attribution of a particular return.
 - **That the confabulation is harmful.** It is "functionally adequate", a
   condition of a coherent self-model over time.
@@ -98,15 +98,15 @@ represent, not an observation.
 
 ## Connections
 
-- **CLAIM-355.** This is a proposed case of the misdescription CLAIM-355
+- **[CLAIM-355](../claims.d/CLAIM-355.md).** This is a proposed case of the misdescription [CLAIM-355](../claims.d/CLAIM-355.md)
   needs: a unified self-model attributing to the person a control event
   the person's control system did not cause. It is a hypothesis with no
-  case recorded, so it does not meet CLAIM-355's note of 2026-10-29.
-- **CLAIM-022.** Attribution and efficacy come apart here in one mind: who
+  case recorded, so it does not meet [CLAIM-355](../claims.d/CLAIM-355.md)'s note of 2026-10-29.
+- **[CLAIM-022](../claims.d/CLAIM-022.md).** Attribution and efficacy come apart here in one mind: who
   is represented as having acted is fixed by the self-model's need for
   continuity, not by what was effective.
-- **CLAIM-156.** Self-reports of noticing an impulse as an impulse are the
+- **[CLAIM-156](../claims.d/CLAIM-156.md).** Self-reports of noticing an impulse as an impulse are the
   kind of report this account says may misdescribe its cause, so they
-  cannot by themselves show CLAIM-156's mechanism.
-- **THEORY-064.** It applies the self-model theory's transparency: the
+  cannot by themselves show [CLAIM-156](../claims.d/CLAIM-156.md)'s mechanism.
+- **[THEORY-064](THEORY-064.md).** It applies the self-model theory's transparency: the
   self-model presents its own reconstruction as what happened.

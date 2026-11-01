@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmprpztl), from the author's copy on his
+  read in full 2026-11-01 ([NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md)), from the author's copy on his
   Mainz university pages
   (blogs.uni-mainz.de/fb05philosophie/files/2013/04/Metzinger_M-Autonomy_JCS_2015.pdf,
   linked from thomasmetzinger.com), typeset with the journal's running
@@ -10,9 +10,9 @@ status_note: >-
   what mind-wandering loses is "not the ability itself" but the conscious
   knowledge of it, and "one can only deliberately and autonomously exert
   an ability if that ability is explicitly represented in one's phenomenal
-  self-model" (THEORY-tmptbvmq). It also argues that the return of control
+  self-model" ([THEORY-tmptbvmq](../theory.d/THEORY-tmptbvmq.md)). It also argues that the return of control
   is represented as self-caused even when an unconscious event caused it
-  (THEORY-tmpjtjll). A development of LIT-tmp23d7b with the empirical
+  ([THEORY-tmpjtjll](../theory.d/THEORY-tmpjtjll.md)). A development of [LIT-tmp23d7b](LIT-tmp23d7b.md) with the empirical
   detail cut; no new data.
 title: 'M-Autonomy'
 version: 1
@@ -70,7 +70,7 @@ summary: >-
 Metzinger, T. (2015). M-Autonomy. *Journal of Consciousness Studies*,
 22(11–12), 270–302.
 
-Read in full in NOTE-tmprpztl.
+Read in full in [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md).
 
 ## Key takeaways
 
@@ -111,5 +111,5 @@ will-organization line. Its moderate reading is the will-organization
 question at the scale of mental action: an agent keeps a capacity and it
 loses and regains efficacy, and the paper names the condition, the
 capacity's representation in the self-model. Whether that representation
-is a condition of efficacy or its accompaniment is QUESTION-tmp7czq0. It
+is a condition of efficacy or its accompaniment is [QUESTION-tmp7czq0](../questions.d/QUESTION-tmp7czq0.md). It
 carries no instruction for machine-learning practice.

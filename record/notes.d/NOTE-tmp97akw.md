@@ -139,12 +139,12 @@ cognitive agent, we have M-autonomy" (p. 3, note 4).
 
 ## Connections
 
-It applies the self-model theory (Being No One, LIT-467; the précis,
-LIT-568, read in NOTE-460) to the empirical mind-wandering literature, and
+It applies the self-model theory (Being No One, [LIT-467](../literature.d/LIT-467.md); the précis,
+[LIT-568](../literature.d/LIT-568.md), read in [NOTE-460](NOTE-460.md)) to the empirical mind-wandering literature, and
 it shares its concepts, the EAM and the UI, with the dreams paper of the
-same year (LIT-1871, read in NOTE-1434), which it cites as Metzinger
+same year ([LIT-1871](../literature.d/LIT-1871.md), read in [NOTE-1434](NOTE-1434.md)), which it cites as Metzinger
 2013a. Veto and intentional inhibition come from Brass and Haggard 2007.
-LIT-tmp0w298 develops it, and LIT-tmppbt0s puts it in predictive
+[LIT-tmp0w298](../literature.d/LIT-tmp0w298.md) develops it, and [LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md) puts it in predictive
 processing.
 
 ## Limitations
@@ -177,21 +177,21 @@ Same structure, not shown same mechanism, throughout: the paper is about
 control of one's own mental processes, the record's will-organization line
 about which of an agent's action-generating regimes acts.
 
-- **CLAIM-047 and CLAIM-027.** M-autonomy's veto is TERM-017's suspension
+- **[CLAIM-047](../claims.d/CLAIM-047.md) and [CLAIM-027](../claims.d/CLAIM-027.md).** M-autonomy's veto is [TERM-017](../terms.d/TERM-017.md)'s suspension
   at the scale of mental action, a relation by which an applicable process
   "may be disabled". Its loss in mind-wandering is a change in whether that
   relation can be exercised, while the competing mental processes run on.
   The paper's note 4 (p. 3) puts the condition in the self-model: as long
-  as the EAM represents the ability, M-autonomy remains. LIT-tmp0w298 makes
-  this explicit, and the ARG filed with these readings (ARG-tmpmibc8) holds
+  as the EAM represents the ability, M-autonomy remains. [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md) makes
+  this explicit, and the ARG filed with these readings ([ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md)) holds
   the verdict.
-- **CLAIM-122.** Not a proposals-fixed case. The paper's own causal story
+- **[CLAIM-122](../claims.d/CLAIM-122.md).** Not a proposals-fixed case. The paper's own causal story
   for the onset of an episode (p. 13) is "introspectively inaccessible goal
   representations", "postponed goal-states ... environmentally cued", which
   is the defeater's alternative: a change in a goal state that predicts the
-  switch. Its story for the return of control is different (LIT-tmp0w298,
+  switch. Its story for the return of control is different ([LIT-tmp0w298](../literature.d/LIT-tmp0w298.md),
   p. 283).
-- **CLAIM-156 and QUESTION-034.** Meditation "is a systematic, formal
+- **[CLAIM-156](../claims.d/CLAIM-156.md) and [QUESTION-034](../questions.d/QUESTION-034.md).** Meditation "is a systematic, formal
   practice of cultivating M-autonomy" (p. 15), and the meditator's return
   to the breath is "an equally recurring mental action" (p. 11). That fits
   the claim's route, a change in which processes may act, at the scale of
@@ -199,25 +199,25 @@ about which of an agent's action-generating regimes acts.
   against the evidence the claim relies on: a meditator's report of
   noticing and redirecting "may be false" as a description of what did the
   work (p. 4).
-- **CLAIM-523.** "Oops, I have just been daydreaming again!" can start a
+- **[CLAIM-523](../claims.d/CLAIM-523.md).** "Oops, I have just been daydreaming again!" can start a
   second episode, with "a new phenomenal UI (the phenomenal subject of
   meta-awareness ...), but the functional properties characterizing
   M-autonomy are not realized" (p. 14). That is legibility without
   volitional efficacy in one mind. "Successful inhibition can be an
   entirely subpersonal process" (p. 13) is correction without legibility.
-- **CLAIM-484.** The onset of mind-wandering is unnoticed (the SRB, p. 9):
+- **[CLAIM-484](../claims.d/CLAIM-484.md).** The onset of mind-wandering is unnoticed (the SRB, p. 9):
   a stream that claims attention is granted it with no mark of conflict,
   which the claim allows as no gap. The paper does not record claim and
   grant apart.
-- **CLAIM-355 (not this reader's line).** The EAM "is not a little man in
+- **[CLAIM-355](../claims.d/CLAIM-355.md) (not this reader's line).** The EAM "is not a little man in
   the head, but itself an entirely subpersonal process" (p. 8), and the
   regained sense of control may be a confabulation (pp. 4, 11). That is a
-  candidate for the case CLAIM-355's note of 2026-10-29 says the record
+  candidate for the case [CLAIM-355](../claims.d/CLAIM-355.md)'s note of 2026-10-29 says the record
   lacks, a self-model misdescribing who controls what. It is proposed here,
   not shown.
-- **CLAIM-358.** Executive control fails often "to shield primary-task
+- **[CLAIM-358](../claims.d/CLAIM-358.md).** Executive control fails often "to shield primary-task
   performance off against interference" (p. 7); nothing is said of cost.
-- **THEORY-064.** The paper uses the self-model theory and adds no test of
+- **[THEORY-064](../theory.d/THEORY-064.md).** The paper uses the self-model theory and adds no test of
   it. Its UI shifts are reports of identification moving to "the
   protagonist" of a daydream (p. 10), not of a self-model becoming opaque.
 - No instruction for machine-learning practice.

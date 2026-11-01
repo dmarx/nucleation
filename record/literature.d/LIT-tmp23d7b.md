@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-01 (NOTE-tmp97akw), from the publisher's
+  read in full 2026-11-01 ([NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md)), from the publisher's
   open-access PDF (frontiersin.org/articles/10.3389/fpsyg.2013.00931/pdf;
   also PMC3868016), text extracted with pdftotext. Worth reading as the
   origin of M-autonomy: the ability to control one's own mental
@@ -10,7 +10,7 @@ status_note: >-
   is subpersonal and that a thought becomes the person's only by
   integration into an "epistemic agent model". The "two thirds of
   conscious lifetime" without M-autonomy is not what its own figures give:
-  they give about half (THEORY-tmpcq8bx). Conceptual work on others' data;
+  they give about half ([THEORY-tmpcq8bx](../theory.d/THEORY-tmpcq8bx.md)). Conceptual work on others' data;
   no new data.
 title: 'The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy'
 version: 1
@@ -69,7 +69,7 @@ Metzinger, T. (2013). The myth of cognitive agency: subpersonal thinking as
 a cyclically recurring loss of mental autonomy. *Frontiers in Psychology*,
 4, 931. DOI 10.3389/fpsyg.2013.00931, PMC3868016.
 
-Read in full in NOTE-tmp97akw.
+Read in full in [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md).
 
 ## Key takeaways
 
@@ -108,6 +108,6 @@ Read in full in NOTE-tmp97akw.
 
 Filed at the owner's request of 2026-11-01 for Metzinger's later work, and
 read for the will-organization line. Its moderate claim, that a capacity
-for control can be held and still not be exercised, is CLAIM-047's
+for control can be held and still not be exercised, is [CLAIM-047](../claims.d/CLAIM-047.md)'s
 distinction at the scale of mental action; its fuller statement is in
-LIT-tmp0w298. It carries no instruction for machine-learning practice.
+[LIT-tmp0w298](LIT-tmp0w298.md). It carries no instruction for machine-learning practice.

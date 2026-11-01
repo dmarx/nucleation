@@ -25,8 +25,8 @@ source:
 - LIT-tmp23d7b
 - LIT-tmp0w298
 summary: >-
-  Metzinger (2013), LIT-tmp23d7b, restated in 2015, LIT-tmp0w298; read in
-  NOTE-tmp97akw and NOTE-tmprpztl. The identification is conceptual: an
+  Metzinger (2013), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), restated in 2015, [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md); read in
+  [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md) and [NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md). The identification is conceptual: an
   episode of unintentional mind-wandering cannot, while it runs, be
   suspended or ended at will, and veto is what M-autonomy turns on. The
   share is computed from others' figures, and recomputed here: 631 of
@@ -42,9 +42,9 @@ summary: >-
 
 ## Source
 
-Metzinger (2013), LIT-tmp23d7b, pp. 2–7 and Box 1, read in NOTE-tmp97akw;
-Metzinger (2015), LIT-tmp0w298, pp. 276–280 and 292–295, read in
-NOTE-tmprpztl.
+Metzinger (2013), [LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), pp. 2–7 and Box 1, read in [NOTE-tmp97akw](../notes.d/NOTE-tmp97akw.md);
+Metzinger (2015), [LIT-tmp0w298](../literature.d/LIT-tmp0w298.md), pp. 276–280 and 292–295, read in
+[NOTE-tmprpztl](../notes.d/NOTE-tmprpztl.md).
 
 ## What was actually shown
 
@@ -92,19 +92,19 @@ figures.
   unintentional episodes, so they can overcount losses of M-autonomy.
 - **That mind-wandering is dysfunctional.** The papers say it may be
   adaptive, maintaining the autobiographical self-model (2013, p. 5) or
-  supplying candidate thoughts (LIT-tmppbt0s).
+  supplying candidate thoughts ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md)).
 - **That the ability itself is lost.** The 2015 paper's "moderate"
-  reading is that its representation is lost (THEORY-tmptbvmq).
+  reading is that its representation is lost ([THEORY-tmptbvmq](THEORY-tmptbvmq.md)).
 - **Anything about overt action.** M-autonomy is control of mental
   processes; a person mind-wandering may be acting skilfully in the world.
 
 ## Connections
 
-- **CLAIM-047 and CLAIM-027.** Same structure, not shown same mechanism: a
+- **[CLAIM-047](../claims.d/CLAIM-047.md) and [CLAIM-027](../claims.d/CLAIM-027.md).** Same structure, not shown same mechanism: a
   capacity of the agent, veto over its own mental processes, recurrently
-  loses and regains efficacy. The support verdict is ARG-tmpmibc8.
-- **CLAIM-156.** Meditation, "a systematic, formal practice of cultivating
+  loses and regains efficacy. The support verdict is [ARG-tmpmibc8](../arguments.d/ARG-tmpmibc8.md).
+- **[CLAIM-156](../claims.d/CLAIM-156.md).** Meditation, "a systematic, formal practice of cultivating
   M-autonomy" (2013, p. 15), would act on this loss. The reading says
   nothing about valuation.
-- **THEORY-064.** The self-model theory supplies the EAM, whose collapse
+- **[THEORY-064](THEORY-064.md).** The self-model theory supplies the EAM, whose collapse
   marks each episode; this account does not test it.

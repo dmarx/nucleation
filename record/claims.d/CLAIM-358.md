@@ -271,7 +271,7 @@ No status, title or warrant changes.
 
 <!-- inactive-ok: THEORY-tmp92dsq — Proposed; the reading this note reports, cited as open -->
 
-Metzinger's chapter on mental action (LIT-tmppbt0s, read in NOTE-tmpk5ghu)
+Metzinger's chapter on mental action ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), read in [NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md))
 draws this claim's contrast at the scale of thought, without costs.
 "Mind wandering is model-free epistemic self-control, whereas mental
 agency is model-based epistemic self-control" (p. 15); mind-wandering is

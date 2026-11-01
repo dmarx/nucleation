@@ -119,8 +119,8 @@ status, title or warrant changes.
 
 <!-- inactive-ok: THEORY-tmp92dsq — Proposed; the reading this note reports, cited as open -->
 
-Metzinger's chapter on mental action (LIT-tmppbt0s, p. 10, read in
-NOTE-tmpk5ghu) gives the nearest thing in the record to the episode this
+Metzinger's chapter on mental action ([LIT-tmppbt0s](../literature.d/LIT-tmppbt0s.md), p. 10, read in
+[NOTE-tmpk5ghu](../notes.d/NOTE-tmpk5ghu.md)) gives the nearest thing in the record to the episode this
 claim's note of 2026-10-29 asks for, at the scale of attention, as a
 speculation: "Perhaps we can describe this experiential tension as the way
 in which active, top-down precision control 'collides' with an
@@ -137,7 +137,7 @@ seen to vary together. It is offered with no study, and Metzinger has no
 account of how attentional action starts (p. 22).
 
 The same readings give the case the claim allows as no gap: the onset of
-mind-wandering is unnoticed (LIT-tmp23d7b, p. 9), so a stream that claims
+mind-wandering is unnoticed ([LIT-tmp23d7b](../literature.d/LIT-tmp23d7b.md), p. 9), so a stream that claims
 attention is granted it with no mark. Same structure, not shown same
 mechanism. Neither meets the need.
 
