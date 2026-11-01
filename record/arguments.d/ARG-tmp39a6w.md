@@ -14,9 +14,7 @@ tags:
 - philosophy-of-science
 - individuation
 date: '2026-11-01'
-line:
-- distributed-agency
-- formal-apparatus
+line: distributed-agency
 summary: >-
   Filed on reading the fat-handedness debate after Craver (Baumgartner &
   Gebharter 2016, Baumgartner & Casini 2017, Baumgartner, Casini &

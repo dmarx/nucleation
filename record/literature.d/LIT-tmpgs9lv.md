@@ -49,7 +49,6 @@ summary: >-
   Woodward's interventionism, that constitutive relevance is a form of
   bidirectional causal relevance.
 ---
-<!-- inactive-ok-file: QUESTION-284 — Proposed or Open; the entries this work bears on, cited as open -->
 
 # LIT-tmpgs9lv: Three Problems for the Mutual Manipulability Account of Constitutive Relevance in Mechanisms
 

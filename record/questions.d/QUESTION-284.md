@@ -80,7 +80,6 @@ from accompanying ones, and [QUESTION-073](QUESTION-073.md) is its sharpest case
 
 ## Note of 2026-10-31: individuation by internal ordering, without a boundary
 
-<!-- inactive-ok-block: THEORY-1277 THEORY-1280 THEORY-1276 — Proposed; the readings filed 2026-10-31, cited as context -->
 Bencherki and Iliadis ([LIT-1922](../literature.d/LIT-1922.md), read in [NOTE-1483](../notes.d/NOTE-1483.md)) offer an
 option this question's three boundaries do not list. They individuate a
 domain by its internal ordering and not by any boundary. "What matters,
@@ -120,7 +119,6 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-01: the mechanists' answer for part–whole constitution
 
-<!-- inactive-ok-block: THEORY-tmpy9dyw CLAIM-tmp1qybv LIT-tmpgs9lv — Proposed or Unavailable; the readings and claim filed 2026-11-01, cited as open -->
 The debate on Craver's mutual manipulability criterion, read today, answers
 this question's evidential half for one relation: a part's behaviour
 constituting a whole's behaviour.

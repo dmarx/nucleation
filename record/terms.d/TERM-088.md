@@ -81,7 +81,6 @@ a given case is [QUESTION-284](../questions.d/QUESTION-284.md)'s question.
 
 ## Note of 2026-10-31: the sense Simondon's readers use, which this term does not list
 
-<!-- inactive-ok-block: THEORY-1280 THEORY-1276 THEORY-1277 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
 The readings filed today on Bencherki, Brummans and Vézy 2024 and its
 Simondonian sources use "individuation" throughout. Their sense is none of
 the four here.
@@ -120,7 +119,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: "constitutive" in the mechanists' sense is another relation
 
-<!-- inactive-ok-block: CLAIM-tmp1qybv — Proposed; filed 2026-11-01, cited as context -->
 The mechanistic literature filed today ([NOTE-tmpeljd8](../notes.d/NOTE-tmpeljd8.md), [NOTE-tmp5hk5o](../notes.d/NOTE-tmp5hk5o.md),
 [NOTE-tmpz7pqv](../notes.d/NOTE-tmpz7pqv.md)) uses "constitutive relevance" for a part's behaviour
 realizing a whole's behaviour at a time, after Craver. This term's

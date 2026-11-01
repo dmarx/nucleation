@@ -40,7 +40,6 @@ summary: >-
   outside drive does not reproduce the inside law, so a perturbation of
   state may tell them apart.
 ---
-<!-- inactive-ok-file: QUESTION-086 — Open; the question of an intervention short of removal, cited as open -->
 
 # THEORY-tmpnzjca: Whether a coupled oscillator sustains its own rhythm or is a damped oscillator driven from outside is settled directly by removing the drive, and, because the two arrangements are not dynamically equivalent, may also show in how they respond to a shift of phase: in Leise and Siegelmann's model, damped peripheral clocks regain their phase relation to the central clock quickly, while self-sustained ones take longer, need strong coupling, and sometimes resynchronize by a long delay instead of an advance
 

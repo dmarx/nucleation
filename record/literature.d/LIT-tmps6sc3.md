@@ -49,7 +49,6 @@ summary: >-
   does as much, and no expansion of the variable set breaks the coupling.
   The inference is abductive and only inductively corroborated.
 ---
-<!-- inactive-ok-file: QUESTION-284 — Proposed or Open; the entries this work bears on, cited as open -->
 
 # LIT-tmps6sc3: An Abductive Theory of Constitution
 

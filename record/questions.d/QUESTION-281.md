@@ -173,7 +173,6 @@ is not a case of frustration making a form.
 
 ## Note of 2026-10-31: Simondon's metastability as his organization-studies readers use it
 
-<!-- inactive-ok-block: THEORY-1276 THEORY-1280 THEORY-1278 THEORY-1283 — Proposed; the readings filed 2026-10-31, cited as context -->
 This question's nucleation route, "from a locally stable state" across "a
 finite barrier", is the physical sense of metastability. Simondon's
 individuation, read today through Iliadis 2013 and two organization
