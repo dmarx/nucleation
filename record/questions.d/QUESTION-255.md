@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpzje42
 title: 'Can an empirical model that genuinely fails to glue, under a specified cover and correspondence between its contexts, take part in one phenomenally unified process, given that a unified experience can contain conflicting interpretations or demands and that such conflicts are not by themselves gluing obstructions?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-22'
@@ -38,6 +38,13 @@ history:
     Unavailable; that sentence now points to the new note, and LIT-1361 is
     dropped from the inactive-ok comment, as it is now Active. The question
     is unchanged.
+- version: 6
+  date: '2026-11-01'
+  note: >-
+    Note of 2026-11-01 added, from the readings of Metzinger 2020 and
+    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): his minimal case lacks
+    phenomenal oneness and local contexts, so it is neither kind (1)
+    nor kind (2). The question is unchanged.
 tags:
 - phenomenal-unity
 - mathematics
@@ -225,3 +232,26 @@ consistent. So it is material for a kind-(1) reading of felt conflict,
 one global state holding both sides, not a model of kind (2). Its two
 co-present levels of colour experience ([THEORY-959](../theory.d/THEORY-959.md)) are another
 kind-(1) case. The inference is the record's. The question is unchanged.
+
+## Note of 2026-11-01: Metzinger's minimal phenomenal experience
+
+The question names Metzinger's "single functional cluster" (THEORY-063) as
+a dynamic criterion of unity. His later work, read on 2026-11-01, changes
+what that criterion can cover. Metzinger 2020 (LIT-tmpr0pnp, NOTE-tmptylts)
+offers as the simplest consciousness a state with "neither centre nor
+periphery". It "lacks the phenomenal quality of singularity or numerical
+identity", and he adds "non-oneness" to "non-duality" (p. 13). Metzinger
+2024 (LIT-tmp3uosd, NOTE-tmpy472x) models that state as inference at the
+top level of a hierarchy "without any perceptual inference at the levels
+below it" (p. 477).
+
+If that account is right, the minimal case has no local interpretations
+to glue or fail to glue. It is neither kind (1) nor kind (2). The question
+of phenomenal unity, kind (3), may not arise for it in phenomenal terms. It
+would be unified only in the thin sense that it is one state of one
+system. That marks a limit of the sheaf framing: the framing presupposes
+contexts, and the minimal case has none. It supplies no case of kind (2).
+The nondual "modes", in which a world is present without subject/object
+structure (2024, pp. 470–471), are where kind (2) could be looked for. The
+pages read describe them only by report. The inference is the record's.
+No status, title or warrant changes.

@@ -1,0 +1,68 @@
+---
+status: Unavailable
+status_note: >-
+  registered 2026-11-01 at the owner's request, not read. No lawful open
+  full text was reached, and the book is in copyright with Basic Books.
+  OpenAlex has no record of the book. Google Books shows no viewable
+  edition. The Internet Archive's copy (egotunnelscience0000metz) is in
+  its print-disabled and lending collections, which require a borrowing
+  account, so it is not an open copy. No author-posted copy was found.
+  The theory it popularises is read in the record in LIT-450 and LIT-568,
+  and its later development in LIT-tmp3uosd. It stays Unavailable until a
+  copy is supplied, not on merit.
+title: 'The Ego Tunnel: The Science of the Mind and the Myth of the Self'
+version: 1
+history:
+- version: 1
+  date: '2026-11-01'
+  note: >-
+    Registered, not read. Details checked against Open Library (edition
+    ISBN 9780465045679: "The ego tunnel: the science of the mind and the
+    myth of the self", Basic Books, 2009, LC BF311 .M47 2009) and against
+    Crossref's records of its 2009–2012 reviews (Flanagan, New Scientist,
+    March 2009; Choice 47-3487; Buckner, Philosophical Psychology, 2012).
+    No DOI exists, so the source is the Open Library work. No source gave
+    a day or month, so `published:` is the first of the year (ADR-002).
+    The brief's details are right. Metzinger 2024 (LIT-tmp3uosd) mentions
+    an extended German version of 2014, which was not looked for.
+tags:
+- self
+- consciousness
+date: '2026-11-01'
+published: '2009-01-01'
+url: 'https://openlibrary.org/works/OL3031120W'
+first_author: 'Metzinger'
+keywords:
+- 'self-model theory of subjectivity'
+- 'phenomenal self-model'
+- 'Ego Tunnel'
+implementations: []
+summary: >-
+  Metzinger (2009), Basic Books. The popular statement of the self-model
+  theory of subjectivity: the conscious self is the content of a
+  transparent self-model, and the experienced world is a "tunnel" the
+  brain generates. Unread: registered from its bibliographic records. The
+  theory is read in the record in LIT-450 and LIT-568.
+---
+<!-- inactive-ok-file: LIT-467 — Unavailable; the book-length statement of the theory, named as unread -->
+
+# LIT-tmp836ob: The Ego Tunnel: The Science of the Mind and the Myth of the Self
+
+Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the
+Myth of the Self*. New York: Basic Books. ISBN 978-0-465-04567-9.
+
+## Key takeaways
+
+*Registered, not read.*
+
+- The popular book of the self-model theory read in the record in LIT-450
+  and LIT-568, whose full statement is Being No One (LIT-467, Unavailable).
+
+## Standing in the record
+
+Filed at the owner's request on 2026-11-01 with Metzinger's later work.
+Nothing in the record rests on it. Metzinger 2024 (LIT-tmp3uosd) cites
+the book for the idea of a "Bewusstseinskultur", a culture of
+consciousness, and points to its extended German version of 2014 (epilogue,
+note 2). The book also introduces the "Ego Tunnel" image, which the 2024
+book reuses (pp. 369, 375).

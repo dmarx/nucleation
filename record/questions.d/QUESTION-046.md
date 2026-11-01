@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmp4ltsz
 title: 'What criterion, applied the same way to a modular mind and to an organized group, would say whether an organized whole is a subject of experience and not only an agent?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-01'
+  note: >-
+    Note of 2026-11-01 added, from the reading of Metzinger 2024
+    (LIT-tmp3uosd): the contraction principle, on which phenomenality
+    belongs to states and system consciousness is a
+    self-representation. The question is unchanged.
 tags:
 - consciousness
 - mereology
@@ -44,3 +52,26 @@ The distributed-agency line assumes such a line exists. [CLAIM-155](../claims.d/
 ## What would answer it
 
 An integration or dynamic-core measure, or an anti-nesting rule justified on other grounds, actually applied to a modular-mind model and to a group model. It should put them on different sides for a reason not drawn from the verdict. Another thought experiment, or another intuition that a nation is not conscious, would not answer it.
+
+## Note of 2026-11-01: Metzinger's contraction principle
+
+Metzinger 2024 (LIT-tmp3uosd, NOTE-tmpy472x, pp. 79–82) gives a view
+on which the question's "whole that is a subject" is misframed. On it,
+phenomenality "is a subpersonal property, a property of certain
+functionally integrated brain states". Ordinary brains misrepresent it
+"by contracting it into a transparent conscious self-model", so that the
+person seems to be what is conscious. State consciousness "can occur
+without system consciousness, but not vice versa" (p. 81). "The
+subpersonal world-model in the person's head is what is truly conscious"
+(p. 82).
+
+If that is right, a criterion of the kind the question asks for would
+classify states, not wholes, and a whole would be a subject in the strong
+sense only by representing itself as one. Like THEORY-063's
+dynamic-core prediction, this is motivated within one brain and not by
+groups. It is stated without a measure. The evidence offered is nondual
+meditative states, known by report (THEORY-tmp8nd9o). Same structure as
+the record's distinction between an organization's state and its
+members', not shown same mechanism. It does not answer the question. It
+narrows what an answer would have to classify. No status, title or warrant
+changes.

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdga80
 title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-22'
@@ -66,6 +66,13 @@ history:
     result THEORY-056 and THEORY-680 absorb as well. Version 7's grounds
     were THEORY-871. The directive naming TERM-072 and TERM-073 as
     Proposed is dropped, since both are Active. The claim is unchanged.
+- version: 9
+  date: '2026-11-01'
+  note: >-
+    Note of 2026-11-01 added, from the readings of Metzinger 2020 and
+    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): a candidate for part 3's
+    organization, which is aperspectival, so part 3's wording is
+    pressed; nothing added to the grounds. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -111,6 +118,7 @@ objected_by:
 corroborated_by:
 - THEORY-871
 ---
+<!-- inactive-ok-file: THEORY-tmplvoa3 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-411 CLAIM-413 THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1343 LIT-1346 LIT-1348 LIT-1351 LIT-1353 LIT-1354 LIT-1355 LIT-1359 — Deferred; works registered unread, cited as such -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; the reading of Isaac's constancy layer, cited as open, nothing here rests on it -->
@@ -426,3 +434,41 @@ records are unanswered: that the identity is eliminativism by another
 name (Negro, [THEORY-868](../theory.d/THEORY-868.md)), and that nothing means anything to a system
 unless there is already something it is like to be it, which is the
 circularity its own defeated_if names.
+
+## Note of 2026-11-01: Metzinger on minimal phenomenal experience
+
+The body cites Metzinger's unity without a self-model (THEORY-063) as
+"part 4 already read". His later work, read on 2026-11-01 (LIT-tmpr0pnp in
+NOTE-tmptylts, LIT-tmp3uosd in NOTE-tmpy472x), bears on the claim in three
+places. None of them meets the defeater.
+
+- **A candidate for part 3's organization.** On Metzinger's account the
+  minimal experience is a temporally thin model of the system's own tonic
+  alertness, its "epistemic space". Tonic alertness that is not so
+  modelled, as in unresponsive wakefulness, is not experienced: "an
+  organism can be tonically alert without knowing that it is alert:
+  Consciousness is knowing that one is alert" (2020, p. 33). That is an
+  organizational condition of the kind part 3 owes (THEORY-tmplvoa3).
+  It is stated without report-independent evidence, so it does not meet
+  CLAIM-411's defeater.
+- **Part 3 says the organization must be perspectival.** Metzinger's
+  minimal case is "aperspectival: no epistemic agent model" (2020, p. 11).
+  He calls it the "zero-person perspective" (2024, p. xix). If the account
+  holds, part 3 needs a sense of "perspectival" that the zero-person case
+  meets, or it is too strong. TERM-072's sense 1, an organizational
+  perspective, might be that sense: the organism's model of its own
+  openness is organized relative to the organism without representing a
+  subject.
+- **Part 4 and "experience with little interpretation".** Metzinger holds
+  that the minimal case "definitely has representational content" (2020,
+  p. 38), an abstract content, the capacity to know. That fits the body's
+  point that interpretation must not be identified with rich
+  conceptualization. On his account the minimal case is not experience
+  without interpretation but experience whose only content is the system's
+  model of its own readiness. He also offers his account of it as
+  "nonegoic self-awareness" (2024, pp. 466–467). Same structure as part 4's
+  subject constituted with the experience, not shown same mechanism.
+
+The evidence for the minimal case is retrospective report, and the 2024
+book grants that such reports cannot show that the state was selfless when
+it occurred (THEORY-tmp8nd9o). No status, title or warrant changes.

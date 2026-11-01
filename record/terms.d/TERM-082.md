@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - TERM-tmpi9ctf
 title: 'consciousness, and which sense: phenomenal, access, self-consciousness or wakefulness'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-01'
+  note: >-
+    Note of 2026-11-01 added, from the readings of Metzinger 2020 and
+    2024 (LIT-tmpr0pnp, LIT-tmp3uosd): his split of arousal, tonic
+    alertness and wakefulness separates three properties that sense 4
+    runs together. The definition is unchanged.
 tags:
 - consciousness
 - cognition
@@ -61,3 +69,30 @@ evidence-for-experience line, which this term does not answer.
 - **Evidence.** A behavioural or architectural indicator of consciousness is
   not thereby a constitutive condition of it ([ADR-056](../decisions.d/ADR-056.md)'s distinction
   between criterion and indicator).
+
+## Note of 2026-11-01: sense 4 runs three properties together
+
+Sense 4 reads "Wakefulness or arousal. A clinical or behavioural state of
+responsiveness". Metzinger (2020, LIT-tmpr0pnp, NOTE-tmptylts,
+pp. 32–33; 2024, LIT-tmp3uosd, NOTE-tmpy472x, pp. 36–37) separates three
+properties under those words:
+
+- **arousal**, "a graded physical property of the human brain", the level
+  of cortical activation;
+- **tonic alertness**, "a graded functional property determining the
+  capacity for sustained attention";
+- **wakefulness**, "a graded phenomenal property", the experience of tonic
+  alertness, and so a case of sense 1.
+
+His dissociation is unresponsive wakefulness: a sleep–wake cycle, so
+arousal and some alertness, without wakefulness in his phenomenal sense.
+"An organism can be tonically alert without knowing that it is alert"
+(2020, p. 33). He also argues the converse is possible: wakefulness in a
+low-arousal state, in lucid dreamless sleep (2020, p. 13).
+
+On that usage, sense 4 as worded holds a physical and a functional
+property, while "wakefulness" names a phenomenal one. A claim using sense 4
+should say which. The term's warning, "access, reportability,
+self-modeling ... do not individually establish phenomenal
+consciousness", applies to alertness as well. The definition is unchanged.
+No status, title or warrant changes.
