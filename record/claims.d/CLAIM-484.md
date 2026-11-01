@@ -36,7 +36,7 @@ summary: >-
   authority, and their notes say they do not show that a motive claimed
   precedence.
 ---
-<!-- inactive-ok-file: QUESTION-tmp3wvgk — Open; the question the parent's outward route is filed as -->
+<!-- inactive-ok-file: QUESTION-365 — Open; the question the parent's outward route is filed as -->
 
 # CLAIM-484: Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it
 
@@ -80,7 +80,7 @@ they do not show that a motive claimed precedence.
 
 ## Note of 2026-10-31: the marks of conflict read as disindividuation
 
-Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), read in [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md)) reread
+Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), read in [NOTE-1484](../notes.d/NOTE-1484.md)) reread
 a meeting whose transcript records the marks this claim names. Robert,
 for MSF, is asked to have MSF's surgeon train local physicians. He
 answers "MSF we are not a university", and the transcript shows "a
@@ -108,9 +108,9 @@ Two things follow for this claim.
   "the feelings you cannot deal with, unchanneled energy, skills in
   search of an outlet" (p. 1351), are readiness claiming more than it is
   granted. The parent resolves it differently: another process takes the
-  excess up. That route is [QUESTION-tmp3wvgk](../questions.d/QUESTION-tmp3wvgk.md).
+  excess up. That route is [QUESTION-365](../questions.d/QUESTION-365.md).
 
 The episode does not meet the need this claim's note of 2026-10-29
 records. No claim or grant is recorded independently of the marks, and
-the reading of the marks "leans on supposition" ([NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md)). No
+the reading of the marks "leans on supposition" ([NOTE-1484](../notes.d/NOTE-1484.md)). No
 status, title or warrant changes.

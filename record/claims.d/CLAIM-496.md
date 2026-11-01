@@ -97,14 +97,14 @@ the loss is read ([CASE-185](../cases.d/CASE-185.md)).
 
 ## Note of 2026-10-31: coexisting meanings, and the criterion they lack
 
-<!-- inactive-ok-file: THEORY-tmp5ux44 THEORY-tmpl13wj — Proposed; readings filed on 2026-10-31 and set beside this claim -->
+<!-- inactive-ok-file: THEORY-1278 THEORY-1283 — Proposed; readings filed on 2026-10-31 and set beside this claim -->
 
-Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)) hold that
+Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), [THEORY-1278](../theory.d/THEORY-1278.md)) hold that
 organizational becoming "is not constituted by the erasure of differences
 in meanings (or the reduction of equivocality)" (p. 1358). They take
 Massumi's aim for micropolitics, "a maximally inclusive co-patterning of
-contrasting tendencies" (Massumi 2017, p. 64; [LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md),
-[THEORY-tmpl13wj](../theory.d/THEORY-tmpl13wj.md)), whose beauty "requires an affirmation of discord". Both
+contrasting tendencies" (Massumi 2017, p. 64; [LIT-1910](../literature.d/LIT-1910.md),
+[THEORY-1283](../theory.d/THEORY-1283.md)), whose beauty "requires an affirmation of discord". Both
 say that a family of readings can lack coherence, in [TERM-097](../terms.d/TERM-097.md)'s sense,
 without that being a failure.
 
@@ -117,7 +117,7 @@ one action in an organization.
 
 The construction supplies what the readings lack. Neither says when
 coexisting meanings are harmless and when one of them is a loss. Massumi
-calls the outcome "always as-yet unknowable" ([THEORY-tmpl13wj](../theory.d/THEORY-tmpl13wj.md)). On this
+calls the outcome "always as-yet unknowable" ([THEORY-1283](../theory.d/THEORY-1283.md)). On this
 claim, whether a disagreement costs anything can be answered only
 relative to a declared task, by [CLAIM-259](CLAIM-259.md)'s directed loss, and coherence
 alone answers nothing either way. The first construction is the converse

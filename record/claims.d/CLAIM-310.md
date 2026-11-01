@@ -164,14 +164,14 @@ trade of space against query time.
 
 ## Note of 2026-10-31: concurrent significations, and usurpation as a one-copy constraint
 
-<!-- inactive-ok-file: THEORY-tmpuh0eb THEORY-tmp5ux44 — Proposed; the readings this note bears on -->
+<!-- inactive-ok-file: THEORY-1285 THEORY-1278 — Proposed; the readings this note bears on -->
 
-Bencherki ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp. 782–783; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)) holds that an
+Bencherki ([LIT-1901](../literature.d/LIT-1901.md), pp. 782–783; [THEORY-1285](../theory.d/THEORY-1285.md)) holds that an
 action has as many significations as the individuations it takes part
 in, and that "Concurrent significations ... are not mere
 misunderstandings". The parent paper goes further: "Coexisting meanings
 of the same action indicate that several individuations are ongoing"
-([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358; [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)).
+([LIT-1902](../literature.d/LIT-1902.md), p. 1358; [THEORY-1278](../theory.d/THEORY-1278.md)).
 
 This claim's first clause says why coexistence costs nothing. Judgements
 of one action that are each functions of its determinate features

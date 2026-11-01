@@ -6,7 +6,7 @@
 
 **The Self Without a Sovereign** — the owner's essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning Applications" (A33), later folded into organization-of-perspective: distributed agency, organizational perspectives and the fiction of a single owner. Many functions credited to a unified self are better explained by historically organized, partly overlapping perspectives that can represent themselves as one owner without that owner being a further executive entity; Clive Wearing as the opening case.
 
-5 of 524 CLAIM documents. Back to the [full index](../README.md).
+5 of 527 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

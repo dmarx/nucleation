@@ -24,7 +24,7 @@ summary: >-
   domination is too simple. Not shown: where a legitimate precommitment
   ends and an unaccountable one begins.
 ---
-<!-- inactive-ok-file: THEORY-tmpuh0eb — Proposed; Bencherki's account, the source of the collective case set beside this one -->
+<!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-344 CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -75,7 +75,7 @@ would be tested against.
 
 ## Note of 2026-10-31: the collective mirror, which separates authorizing an arrangement from attributing its result
 
-Bencherki's daycare (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp. 791–792; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)) is
+Bencherki's daycare (2017; [LIT-1901](../literature.d/LIT-1901.md), pp. 791–792; [THEORY-1285](../theory.d/THEORY-1285.md)) is
 a collective case that varies this one along an axis it does not have.
 The spouses consent to the arrangement: "If I volunteered, my daughter
 could go to daycare for free". Nothing is imposed on them in the way

@@ -224,8 +224,8 @@ step. The claim is unchanged.
 
 ## Note of 2026-10-31: attribution, which the ladder does not name
 
-<!-- inactive-ok-block: THEORY-tmpuh0eb — Proposed; the reading filed 2026-10-31, cited as context -->
-Bencherki 2017 ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md); [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md))
+<!-- inactive-ok-block: THEORY-1285 — Proposed; the reading filed 2026-10-31, cited as context -->
+Bencherki 2017 ([LIT-1901](../literature.d/LIT-1901.md), read in [NOTE-1482](../notes.d/NOTE-1482.md); [THEORY-1285](../theory.d/THEORY-1285.md))
 sorts how an organization treats its members' actions. The sorting
 crosses this ladder rather than adding a rung to it. Table 1 (p. 787)
 asks two things of one action: whether it may count toward the member's

@@ -4,8 +4,8 @@
 
 **Rejected** — no longer in force and nothing replaced it — kept because a rejection is worth being able to point at.
 
-0 of 66 decisions. Back to the [full index](../README.md).
+1 of 66 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ADR-056](../../../record/decisions.d/ADR-056.md) v2 | A TERM says what job its definition does (disambiguation, construct, criterion or position), piloted on a sample before it becomes a field, and a criterion TERM carries an application contract that keeps its criterion apart from its indicators | The owner, U12 of the exchange of 2026-10-26: "I feel like we need a lot of our TERMs to be like this, maybe this is a particular 'kind' within the TERM schema we should distinguish." A12 proposed four kinds, a TERM that separates senses, one that introduces a theoretical object, one that states when a concept applies and one that names a position, with an application contract for the third. Proposed, and not yet a schema change: the kinds are piloted on a sample first, as CASE's were under [ADR-042](../../../record/decisions.d/ADR-042.md), and the field says what a definition does, never whether it is true or adopted. | Rejected |

@@ -178,20 +178,20 @@ The exchange of 2026-10-26 used the claim at both ends.
 
 ## Note of 2026-10-31: the Simondon and process readings
 
-<!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmpuh0eb THEORY-tmprgc9k THEORY-tmp9bte2 ARG-tmpm57h1 — Proposed or Rejected; the readings filed 2026-10-31 and the verdict on one of them, cited as context -->
+<!-- inactive-ok-block: THEORY-1280 THEORY-1285 THEORY-1284 THEORY-1279 ARG-047 — Proposed or Rejected; the readings filed 2026-10-31 and the verdict on one of them, cited as context -->
 Three readings filed today bear on this claim. One of them was first said
 to, and on reading does not.
 
 - **Not Bencherki, Brummans and Vézy's perspectivism.** Their "agency is
-  a matter of perspective" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1357; [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)) is
+  a matter of perspective" ([LIT-1902](../literature.d/LIT-1902.md), p. 1357; [THEORY-1280](../theory.d/THEORY-1280.md)) is
   the analyst's cut, Barad's agential cut, the place where a description
   of continuous action is made to begin. It is not [TERM-072](../terms.d/TERM-072.md)'s
   organizational perspective, and it declines to draw the agential
   boundary at all ("Who or what has agency is a premature question"). The
   first filing called it "a version of" this claim. That is rejected in
-  [ARG-tmpm57h1](../arguments.d/ARG-tmpm57h1.md). Its real neighbour is [CLAIM-405](CLAIM-405.md).
+  [ARG-047](../arguments.d/ARG-047.md). Its real neighbour is [CLAIM-405](CLAIM-405.md).
 - **Bencherki 2017's Table 1 is part 2 of this claim, tabulated**
-  ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 787; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)). One action can be allowed or
+  ([LIT-1901](../literature.d/LIT-1901.md), p. 787; [THEORY-1285](../theory.d/THEORY-1285.md)). One action can be allowed or
   prevented from counting toward a member's individuation and toward the
   organization's, independently. That gives co-individuation and
   channeling, usurpation of the member's action by the organization, and
@@ -204,7 +204,7 @@ to, and on reading does not.
   claim, which keeps agents and asks only whether the boundaries
   coincide.
 - **Tsoukas and Chia supply a mechanism for part 3, and keep the agents**
-  ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md); [THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md), [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)). Part 3 says that the
+  ([LIT-1913](../literature.d/LIT-1913.md); [THEORY-1284](../theory.d/THEORY-1284.md), [THEORY-1279](../theory.d/THEORY-1279.md)). Part 3 says that the
   exercise of agency can reproduce or transform the perspective it is
   exercised through. Tsoukas and Chia say how. An institutionalized
   category is radially structured, and applying it to a nonprototypical
@@ -220,7 +220,7 @@ to, and on reading does not.
   so it supports the claim's middle position, perspective without
   identity with agency and agency without identity with perspective,
   against the agent-free reading Bencherki, Brummans and Vézy take from
-  it ([THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md), "What this does not say"). It also bears on
+  it ([THEORY-1284](../theory.d/THEORY-1284.md), "What this does not say"). It also bears on
   [QUESTION-259](../questions.d/QUESTION-259.md)'s first clause, how perspectives are transformed.
 
 No status, title or warrant changes.

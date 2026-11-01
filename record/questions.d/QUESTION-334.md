@@ -17,7 +17,7 @@ summary: >-
   Board's finding concerns two accidents in one agency; whether
   normalization of deviance is a general, causal pattern is this question.
 ---
-<!-- inactive-ok-file: THEORY-tmp9bte2 — Proposed; Tsoukas and Chia's mechanism of category extension, set beside this question as an analogy -->
+<!-- inactive-ok-file: THEORY-1279 — Proposed; Tsoukas and Chia's mechanism of category extension, set beside this question as an analogy -->
 <!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, the general theory this asks about -->
 
 # QUESTION-334: Outside NASA, does an organization's first acceptance of a deviation, traced prospectively, predict widening acceptance and later failure more often than in comparable organizations that eliminate deviations, and does an independent safety function interrupt the pattern?
@@ -44,7 +44,7 @@ since they select the cases that ended badly.
 
 ## Note of 2026-10-31: a general mechanism for widening acceptance, and a test of the same design
 
-Tsoukas and Chia ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md); [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)) give a general mechanism
+Tsoukas and Chia ([LIT-1913](../literature.d/LIT-1913.md); [THEORY-1279](../theory.d/THEORY-1279.md)) give a general mechanism
 of which widening acceptance of deviations would be one case. An
 organization's categories are radially structured. Applying one to a
 nonprototypical case is "an imaginative extension" that extends "the
@@ -58,7 +58,7 @@ that "the indeterminacy of extension does not indicate arbitrariness" (p.
 This is an analogy of structure. Tsoukas and Chia do not discuss safety,
 deviations or failure, and their examples are a statute, a call centre
 and a housing routine. What it adds to this question is a test of the
-same design. [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)'s promote_when asks for categories
+same design. [THEORY-1279](../theory.d/THEORY-1279.md)'s promote_when asks for categories
 classified as prototypical or nonprototypical "before seeing what
 happens", and predicts more change where more nonprototypical cases are
 met. That is this question's prospective tracing, generalized from

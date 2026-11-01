@@ -78,7 +78,7 @@ summary: >-
 complements:
 - CLAIM-405
 ---
-<!-- inactive-ok-file: THEORY-tmp9bte2 THEORY-tmp4o1dd — Proposed; Tsoukas and Chia's radial categories and Bencherki and Iliadis's coexisting levels, set beside this claim -->
+<!-- inactive-ok-file: THEORY-1279 THEORY-1277 — Proposed; Tsoukas and Chia's radial categories and Bencherki and Iliadis's coexisting levels, set beside this claim -->
 <!-- inactive-ok-file: CLAIM-405 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-363: A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false
@@ -193,20 +193,20 @@ claim's two parts.
 
 - **Tsoukas and Chia hold both, for the categories an organization
   applies.** "The application of a concept is always a normative act
-  insofar as it presupposes background knowledge" ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), p.
+  insofar as it presupposes background knowledge" ([LIT-1913](../literature.d/LIT-1913.md), p.
   574). That is indexing. And "The indeterminacy of extension does not
   indicate arbitrariness. We are still able to make intelligent
-  judgements about problematic cases" (p. 574; [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)). That is
+  judgements about problematic cases" (p. 574; [THEORY-1279](../theory.d/THEORY-1279.md)). That is
   the second part. Their example is Hart's statute against wheeled
   vehicles in a park. It adds rules in use to the kinds of judgment for
   which the record already held both parts: boundaries, function and
   viability.
 - **Bencherki, Brummans and Vézy hold only the first.** "Agency is a
   matter of perspective or perspectivism ... Who or what has agency is a
-  premature question" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1357). Describing action from a
+  premature question" ([LIT-1902](../literature.d/LIT-1902.md), p. 1357). Describing action from a
   human starting point is "an 'agential cut'", an analytical choice.
   Nothing in the paper says that an attribution, once its perspective is
-  fixed, can be false. [NOTE-tmpfw3f7](../notes.d/NOTE-tmpfw3f7.md) and [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md) found the same
+  fixed, can be false. [NOTE-1484](../notes.d/NOTE-1484.md) and [THEORY-1277](../theory.d/THEORY-1277.md) found the same
   gap against [CLAIM-405](CLAIM-405.md). In this claim's terms the paper indexes agency
   and stops before the step that would keep the index from being
   relativism.

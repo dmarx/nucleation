@@ -128,7 +128,7 @@ does not need one.
 
 ## Note of 2026-10-31: two cases with one end state and opposite verdicts
 
-Bencherki (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md)) gives a pair of
+Bencherki (2017; [LIT-1901](../literature.d/LIT-1901.md), read in [NOTE-1482](../notes.d/NOTE-1482.md)) gives a pair of
 cases of the kind this claim needs.
 
 - **The checklist** (pp. 789–790). An army officer presents a
@@ -151,7 +151,7 @@ the army should do.
 Two limits. Part of the difference lies in the present attribution, the
 officer's words, as well as in the history. And the cases are excerpts
 from a documentary whose framing Bencherki follows (p. 785). The parent
-paper ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1366) then does what this claim separates. It
+paper ([LIT-1902](../literature.d/LIT-1902.md), p. 1366) then does what this claim separates. It
 makes responsibility the prescription of continuations, "the collective
 duty to foster each being-in-becoming". That is 𝒜_N, offered as the
 content of a judgment and not as a further question. [CLAIM-512](CLAIM-512.md) meets it.

@@ -1,0 +1,130 @@
+---
+number: 1285
+status: Proposed
+formerly:
+- THEORY-tmpuh0eb
+promote_when: >-
+  Organizational data in which the attribution of one and the same
+  action is contested, coded for which individuations the action was
+  allowed to count toward (Table 1 of LIT-1901) by coders blind to
+  the outcome, and shown to predict what followed: exit,
+  counter-organization, or continued participation by the people whose
+  action was usurped or channeled. Or a case where the pre-individual
+  description separates two situations that an agent-based account of
+  ownership and credit treats as the same. What cannot settle it:
+  further readings of documentaries or meetings chosen because they
+  already fit.
+title: 'Organizational action can be described as pre-individual, so that whose action it is, a person''s or an organization''s, is an outcome of the individuations it is allowed to contribute to rather than a given; an action then has as many significations as the individuations it takes part in, and a person whose action is refused a collective''s recognition experiences that as disindividuation'
+version: 1
+tags:
+- individuation
+- agency
+- social-ontology
+date: '2026-10-31'
+source:
+- LIT-1901
+- LIT-1922
+bears_on:
+- QUESTION-011
+- QUESTION-365
+summary: >-
+  Bencherki (2017), [LIT-1901](../literature.d/LIT-1901.md), read in [NOTE-1482](../notes.d/NOTE-1482.md), with Bencherki &
+  Iliadis (2021), [LIT-1922](../literature.d/LIT-1922.md). The proposal of which Bencherki,
+  Brummans & Vézy's "agency without agents" ([LIT-1902](../literature.d/LIT-1902.md)) is a
+  development. Proposed: argued, and illustrated by three excerpts from
+  one documentary. Nothing identifies disindividuation apart from the
+  affect it is inferred from, and the account needs, but disclaims, a
+  standard of whose action it rightly was.
+---
+<!-- inactive-ok-file: CLAIM-355 THEORY-1280 — Proposed; the record's own claim and the parent paper's theory, set beside this reading -->
+
+# THEORY-1285: Organizational action can be described as pre-individual, so that whose action it is, a person's or an organization's, is an outcome of the individuations it is allowed to contribute to rather than a given; an action then has as many significations as the individuations it takes part in, and a person whose action is refused a collective's recognition experiences that as disindividuation
+
+## Source
+
+Bencherki (2017), [LIT-1901](../literature.d/LIT-1901.md), pp. 780–793, read in [NOTE-1482](../notes.d/NOTE-1482.md).
+Bencherki & Iliadis (2021), [LIT-1922](../literature.d/LIT-1922.md), proposition 3, for signification
+as reordering.
+
+## What was actually shown
+
+Nothing empirical in the sense of a test. Following Simondon (1989; 2005,
+in the author's translation), the paper argues three things:
+
+- **Action is not an agent's deed.** It is "a difference that tilts the
+  stability of a being and provokes change" (p. 781).
+- **Possession is partial.** "a being only possesses its components from
+  a particular perspective: their contribution to its individuation
+  process; possession is never complete or univocal" (p. 782).
+- **Signification is participation.** "Concurrent significations ... are
+  ... the outcomes of simultaneous individuation processes" (p. 783).
+
+Affect, after Massumi and Barthélémy, is where a person discovers a
+pre-individual load that only a collective can resolve. Refusal is
+"disindividuation".
+
+Table 1 (p. 787) crosses two questions: may the action count toward
+the person's individuation, and may it count toward the
+organization's? Three excerpts from a documentary on Canadian military
+spouses fill three of its cells: channeling (newsletters labelled
+"political activity"), positive co-individuation (a community-made
+checklist presented as an army service) and usurpation (volunteer-run
+daycare credited to the army).
+
+The parent paper ([LIT-1902](../literature.d/LIT-1902.md)) keeps this structure. It renames the
+force by which action passes between individuations "agency", defines
+it by Massumi's augmentation, and calls the passing action "excess
+action" (pp. 1351, 1356–1358). Its "Coexisting meanings of the same
+action indicate that several individuations are ongoing" (p. 1358) is
+this paper's p. 783.
+
+## What this does not say
+
+- **That people are not agents, or that their action is not theirs.** It
+  says ownership is settled in individuation. The daycare case only has
+  force if the women's authorship was real and denied.
+- **How to tell usurpation from legitimate organizational
+  incorporation** without a prior standard of whose action it was. The
+  paper's politics needs such a standard; its theory disclaims one.
+- **That disindividuation is observed.** It is inferred from stated
+  outrage, in data framed by a director who presents the women and the
+  army as already-constituted entities (p. 785).
+- **That the scheme predicts.** Table 1 classifies; nothing says which
+  cell an encounter will fall into, or what follows from each.
+
+## Connections
+
+- **[CLAIM-355](../claims.d/CLAIM-355.md)** separates a real binding from a constructed single owner.
+  This account does not draw that line. It treats the army's attribution
+  of the daycare as a real usurpation, not a misdescription.
+- **[CLAIM-418](../claims.d/CLAIM-418.md)**: Table 1 is a tabulation of ways in which agential
+  attribution and institutional recognition fail to coincide.
+- **[THEORY-1280](THEORY-1280.md)** is the parent paper's development of this account
+  into agency without agents.
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **[CLAIM-255](../claims.d/CLAIM-255.md).** Usurpation needs performance fixed apart from recognition, which the theory makes one variable.
+- **[CLAIM-226](../claims.d/CLAIM-226.md).** Concurrent significations show that disagreement is structured; the theory does not model it.
+
+### Distributed agency and individuation
+
+- **[CLAIM-403](../claims.d/CLAIM-403.md)**: usurpation is uptake without attribution.
+- **[TERM-086](../terms.d/TERM-086.md)**: the daycare as the army's achievement.
+- **[CLAIM-405](../claims.d/CLAIM-405.md)**: crossing verdicts on whose action it is.
+
+### Will-organization, organizational affect and authenticity
+
+- **[CLAIM-022](../claims.d/CLAIM-022.md)**: the same limit.
+- **[CLAIM-518](../claims.d/CLAIM-518.md) and [CLAIM-512](../claims.d/CLAIM-512.md)**: the checklist and the daycare.
+- **[CLAIM-523](../claims.d/CLAIM-523.md)**: "political activity".
+- **[CASE-128](../cases.d/CASE-128.md)**.
+
+### Nucleating argument and formal apparatus
+
+- **[CLAIM-310](../claims.d/CLAIM-310.md) and [CLAIM-313](../claims.d/CLAIM-313.md).** Significations do not conflict as descriptions, and attributions conflict only when held once. Table 1's usurpation is exclusive credit, and its co-individuation is copied credit. Same structure, not shown to be the same mechanism.
+

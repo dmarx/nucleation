@@ -197,33 +197,33 @@ entrench ([CLAIM-184](CLAIM-184.md)). The status and warrant are unchanged.
 
 ## Note of 2026-10-31: an account in which resolving incompatibility is individuation
 
-<!-- inactive-ok-block: THEORY-tmp1g3ve THEORY-tmp4o1dd THEORY-tmp5ux44 CLAIM-tmpg3993 — Proposed or new; the readings filed 2026-10-31 and the claim filed on them, cited as context -->
-The Simondonian readings filed today ([THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md), [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md))
+<!-- inactive-ok-block: THEORY-1276 THEORY-1277 THEORY-1278 CLAIM-526 — Proposed or new; the readings filed 2026-10-31 and the claim filed on them, cited as context -->
+The Simondonian readings filed today ([THEORY-1276](../theory.d/THEORY-1276.md), [THEORY-1277](../theory.d/THEORY-1277.md))
 hold a position this claim denies, and do not argue for it.
 
 - **They collapse compatibility into individuation.** Bencherki and
   Iliadis: "Information is therefore what triggers metastable systems ...
   to resolve their internal incompatibility into an organised reality",
   and "information and communication lead to individuation—the
-  constitution of new entities or collectives" ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. pp.
+  constitution of new entities or collectives" ([LIT-1922](../literature.d/LIT-1922.md), ms. pp.
   7–8). Iliadis: information is "a meaning that arises when an operation
   of individuation discovers that the two disparate yet real dimensions
-  may be a system" ([LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md), p. 11). In this claim's table, finding
+  may be a system" ([LIT-1911](../literature.d/LIT-1911.md), p. 11). In this claim's table, finding
   that two local descriptions admit a coherent whole is compatibility,
   and robust identity and boundaries are individuation, a separate
   achievement. In the readings, the first is the second.
 - **It is not a defeater.** defeated_if asks for "a general result that
   collapses two adjacent steps". The readings define the collapse in;
   they give no result. Their own limitation, that nothing counts as a
-  failure to inform ([NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md), "Open questions"), is what this
+  failure to inform ([NOTE-1485](../notes.d/NOTE-1485.md), "Open questions"), is what this
   claim's "Interconnection without compatibility" and "Persistence
   without individuality" lines supply: cases where the resolution fails
   or does not last.
 - **"Levels, not stages" is a different axis.** The readings' rejection of
-  stages ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. p. 21) is about persons and organizations as
+  stages ([LIT-1922](../literature.d/LIT-1922.md), ms. p. 21) is about persons and organizations as
   levels of entities. This claim's rejection of a nested sequence is
   about kinds of achievement. They agree in rejecting a ladder and share
-  nothing else. [CLAIM-tmpg3993](CLAIM-tmpg3993.md) takes up the levels proposition and the
-  "scaling up vanishes" conclusion drawn from it ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1364).
+  nothing else. [CLAIM-526](CLAIM-526.md) takes up the levels proposition and the
+  "scaling up vanishes" conclusion drawn from it ([LIT-1902](../literature.d/LIT-1902.md), p. 1364).
 
 No status, title or warrant changes.

@@ -98,9 +98,9 @@ pragmatic-transport aside no longer takes this premise with it.
 
 ## Note of 2026-10-31: organizational becoming on change and tracing
 
-<!-- inactive-ok-file: THEORY-tmprgc9k THEORY-tmp9bte2 — Proposed; the readings set beside this counter -->
+<!-- inactive-ok-file: THEORY-1284 THEORY-1279 — Proposed; the readings set beside this counter -->
 
-Tsoukas and Chia ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md); [THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md), [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)) take
+Tsoukas and Chia ([LIT-1913](../literature.d/LIT-1913.md); [THEORY-1284](../theory.d/THEORY-1284.md), [THEORY-1279](../theory.d/THEORY-1279.md)) take
 this counter's view of concepts in general. Categories change as they
 are applied to new cases, and the change is not arbitrary (p. 574):
 "organization aims at stemming change but, in the process of doing so,
@@ -112,5 +112,5 @@ narrowing the claim the way the interlocutor advised: against preserving
 propositions, and for keeping change traceable. The reading gives no
 further support. Tsoukas and Chia describe no case in which a change was
 traced, and they protect their thesis by placing change below the level
-of institutionalization ([NOTE-tmpyz5d5](../notes.d/NOTE-tmpyz5d5.md)). No status, title or warrant
+of institutionalization ([NOTE-1489](../notes.d/NOTE-1489.md)). No status, title or warrant
 changes.

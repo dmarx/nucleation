@@ -23,7 +23,7 @@ bearing:
 - THEORY-125
 - THEORY-123
 ---
-<!-- inactive-ok-file: THEORY-tmpywwei CLAIM-437 — Proposed; Massumi's differential attunement, and the record's perspective-relative valence set beside it -->
+<!-- inactive-ok-file: THEORY-1286 CLAIM-437 — Proposed; Massumi's differential attunement, and the record's perspective-relative valence set beside it -->
 <!-- inactive-ok-file: CLAIM-039 — Deferred; the claim this question bears on, with its line set aside -->
 
 # QUESTION-053: Does organizational affect need a group subject, a state of the group not reducible to its members' states, or only the synchronized convergence of members' affect?
@@ -90,7 +90,7 @@ configuration.
 
 ## Note of 2026-10-31: differential attunement, a further option with a test of its own
 
-Massumi ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), read in [NOTE-tmpyf5pn](../notes.d/NOTE-tmpyf5pn.md); [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)) gives an
+Massumi ([LIT-1905](../literature.d/LIT-1905.md), read in [NOTE-1488](../notes.d/NOTE-1488.md); [THEORY-1286](../theory.d/THEORY-1286.md)) gives an
 answer that is neither of this question's two options. It is close to
 the third option of the note of 2026-10-14 (Nowak et al.), coordination
 through difference, but it is attunement to one event and not a
@@ -112,15 +112,15 @@ It makes a prediction the two options do not. Members cued by one event
 respond in systematically different but coordinated ways, "responding
 differently together" (p. 6). Convergence predicts that their states
 become alike. That is the test this question asks for, a case where the
-options come apart. [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)'s promote_when states it. The
+options come apart. [THEORY-1286](../theory.d/THEORY-1286.md)'s promote_when states it. The
 nearest held account is [CLAIM-437](../claims.d/CLAIM-437.md). There, one change of state is ranked
 by each perspective against its own concerns, so valence differs by
 perspective within one event. That is the same structure on the record's
 side, an analogy and not a shared mechanism.
 
 The parent paper does not keep to this. Its "indignation she can no
-longer contain" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354) "in-forms" her colleagues
-([THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md), "What this does not say"). That example is
+longer contain" ([LIT-1902](../literature.d/LIT-1902.md), p. 1354) "in-forms" her colleagues
+([THEORY-1286](../theory.d/THEORY-1286.md), "What this does not say"). That example is
 convergence.
 
 No status, title or warrant changes.

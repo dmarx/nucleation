@@ -52,7 +52,7 @@ supports:
 uses:
 - TERM-094
 ---
-<!-- inactive-ok-file: THEORY-tmpkdsex CLAIM-tmptb7y2 — Proposed; Massumi's affect, and the claim that places its quantity -->
+<!-- inactive-ok-file: THEORY-1282 CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
 
@@ -149,7 +149,7 @@ not extend to it. A claim that settles either would answer it.
 
 ## Note of 2026-10-31: Massumi's affect is a different characterization, and neither grounds nor defeats this one
 
-Massumi's affect ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 1; [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)), which Bencherki,
+Massumi's affect ([LIT-1905](../literature.d/LIT-1905.md), p. 1; [THEORY-1282](../theory.d/THEORY-1282.md)), which Bencherki,
 Brummans and Vézy take up, is not a Frijda-style functional
 characterization. It is "an event, or a dimension of every event", the
 felt transition of a body's capacitation. Emotion is "a very partial
@@ -159,6 +159,6 @@ claim's defeater, because it is not a Frijda-style characterization that
 an organization fails. It gives the claim no ground, because it says
 nothing about action readiness or control precedence. What it adds is a
 quantity this line had no name for, a change in what an organization can
-do. [CLAIM-tmptb7y2](CLAIM-tmptb7y2.md) places it beside emotion and valence.
+do. [CLAIM-527](CLAIM-527.md) places it beside emotion and valence.
 
 No status, title or warrant changes.

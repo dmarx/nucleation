@@ -81,7 +81,7 @@ a given case is [QUESTION-284](../questions.d/QUESTION-284.md)'s question.
 
 ## Note of 2026-10-31: the sense Simondon's readers use, which this term does not list
 
-<!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmp1g3ve THEORY-tmp4o1dd THEORY-tmpuh0eb — Proposed; the readings filed 2026-10-31, cited as context -->
+<!-- inactive-ok-block: THEORY-1280 THEORY-1276 THEORY-1277 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
 The readings filed today on Bencherki, Brummans and Vézy 2024 and its
 Simondonian sources use "individuation" throughout. Their sense is none of
 the four here.
@@ -89,8 +89,8 @@ the four here.
 - **Genetic, or operational.** In those readings, individuation is the
   operation by which a metastable system resolves a disparity between
   differently ordered domains, and the individual is its partial,
-  provisional product ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1355; [LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md), pp. 10–12,
-  [THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md)). The four senses here are claims about a candidate
+  provisional product ([LIT-1902](../literature.d/LIT-1902.md), p. 1355; [LIT-1911](../literature.d/LIT-1911.md), pp. 10–12,
+  [THEORY-1276](../theory.d/THEORY-1276.md)). The four senses here are claims about a candidate
   individual: that it can be tracked, that it persists, that its relations
   fix it, that it maintains its own constraints. The readings' sense names
   the process that would produce such a candidate. The record asks about
@@ -98,9 +98,9 @@ the four here.
   without a word for it. A claim citing these readings should say that it
   means the genetic sense and not one of the four.
 - **The product is never complete.** An individual "does not exhaust the
-  tensions that allowed its constitution" (Simondon 1989, quoted by Bencherki 2017, [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md),
+  tensions that allowed its constitution" (Simondon 1989, quoted by Bencherki 2017, [LIT-1901](../literature.d/LIT-1901.md),
   p. 782), and "an individuation process does not
-  'use up' or 'consume' the preindividual it integrates" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p.
+  'use up' or 'consume' the preindividual it integrates" ([LIT-1902](../literature.d/LIT-1902.md), p.
   1355). So a Simondonian individual carries unresolved potential by
   definition. That sits uneasily with the dynamical sense's "robust
   identity and boundaries". Whether a unit can be robustly individuated
@@ -111,9 +111,9 @@ the four here.
 - **"Not stages" is said of something else there.** Bencherki and
   Iliadis's proposition 2, that persons and organizations "are not at
   different stages of individuation, but rather different informational
-  levels" ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. p. 21; [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)), is about levels of
+  levels" ([LIT-1922](../literature.d/LIT-1922.md), ms. p. 21; [THEORY-1277](../theory.d/THEORY-1277.md)), is about levels of
   entities. This term's "the senses are not stages" is about kinds of
-  claim. The two agree in form only. [CLAIM-tmpg3993](../claims.d/CLAIM-tmpg3993.md) answers the levels
+  claim. The two agree in form only. [CLAIM-526](../claims.d/CLAIM-526.md) answers the levels
   proposition.
 
 No status, title or warrant changes.

@@ -1,0 +1,89 @@
+---
+number: 1286
+status: Proposed
+formerly:
+- THEORY-tmpywwei
+promote_when: >-
+  A case where people cued by one event are observed to respond in
+  systematically different but coordinated ways, as differential
+  attunement predicts, and where a transmission or contagion account,
+  in which one party's state is copied into another, predicts
+  convergence and is wrong. Or the reverse, which would count against
+  it. What cannot settle it: redescription of a single episode in either
+  vocabulary.
+title: 'Affect is not transmitted from one body or event to another; it is reactivated anew in each event, and bodies cued by the same event are attuned to it differentially rather than made alike'
+version: 1
+tags:
+- emotion-and-affect
+- metaphysics
+date: '2026-10-31'
+source:
+- LIT-1905
+bears_on:
+- QUESTION-063
+answers:
+- QUESTION-053
+summary: >-
+  Massumi (2009), [LIT-1905](../literature.d/LIT-1905.md), read in [NOTE-1488](../notes.d/NOTE-1488.md), pp. 6 and 9: affect
+  "is not a content that can be transported from one event to another
+  ... an event logic, not a logic of transmission or communication", and
+  there is "affective difference in the same event". This sits uneasily
+  with the "excess action" that Bencherki et al. ([LIT-1902](../literature.d/LIT-1902.md)) have
+  passing between individuation processes.
+---
+
+# THEORY-1286: Affect is not transmitted from one body or event to another; it is reactivated anew in each event, and bodies cued by the same event are attuned to it differentially rather than made alike
+
+## Source
+
+Massumi, interviewed by McKim, Inflexions 3 (2009), [LIT-1905](../literature.d/LIT-1905.md), pp. 6,
+9; read in [NOTE-1488](../notes.d/NOTE-1488.md).
+
+## What was actually shown
+
+An argument from the logic of events, with examples. Affect "is not a
+content that can be transported from one event to another. Like all
+event factors, it can be repeated, reactivated, it can rearise, but
+always anew ... It's an event logic, not a logic of transmission or
+communication" (p. 9). Bodies primed by the same cue "will have been
+attuned – differentially – to the same interruptive commotion". This
+"finds difference in unison", unlike "imitation or contagion" (p. 6). The
+example is an alarm. Those who hear it respond differently, "but they
+will be responding differently together" (p. 6).
+
+## What this does not say
+
+- **That nothing passes between bodies.** A cue, an alarm or an outburst
+  does reach others. What Massumi denies is that the affect travels as a
+  content; each body's response is its own reactivation.
+- **That contagion never happens.** Uniform response is possible, but
+  only where "other factors must have been active to pre-channel
+  tendencies" (p. 6).
+- **That the parent paper is wrong.** Bencherki, Brummans & Vézy
+  ([LIT-1902](../literature.d/LIT-1902.md)) also reject transmission. Communication for them is
+  transduction, "the continuity of action through beings" (p. 1364).
+  But their mechanism has one process taking up "the excess action of
+  another" (p. 1351), with indignation that "spills over into her inert
+  colleagues" (p. 1354). Read with this account, the shared excess would
+  be a common cue to which each process is differently attuned, not a
+  load handed on. That reading fits the parent's own claim that
+  "several meanings can also coexist within a single system" (p. 1358)
+  better than its examples do.
+
+## Connections to the record's own argument
+
+Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Vézy 2024 and the works it leans on to the record's lines. Analogies are marked as such.
+
+### Pragmatic transport
+
+- **[CLAIM-226](../claims.d/CLAIM-226.md) and [CLAIM-074](../claims.d/CLAIM-074.md).** Differential attunement and pre-channelling correspond, in structure, to interpreter history as a source of divergent response.
+- **[CASE-068](../cases.d/CASE-068.md)**, by analogy only: each speaker shifted the evaluative stance and each receiver tracked it. This is content-level, not affect.
+
+### Distributed agency and individuation
+
+- **[QUESTION-063](../questions.d/QUESTION-063.md)**: a shared cue is common drive, not coupling.
+
+### Will-organization, organizational affect and authenticity
+
+- **[QUESTION-053](../questions.d/QUESTION-053.md)**: a further option, with its own test. It is an analogy to [CLAIM-437](../claims.d/CLAIM-437.md).
+

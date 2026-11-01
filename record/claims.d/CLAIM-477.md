@@ -344,18 +344,18 @@ residue.
 
 ## Note of 2026-10-31: transduction, and a priority that is logical but not chronological
 
-<!-- inactive-ok-block: THEORY-tmp1g3ve THEORY-tmpuh0eb — Proposed; the readings filed 2026-10-31, cited as context -->
+<!-- inactive-ok-block: THEORY-1276 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
 Two things in the Simondonian readings filed today bear on this claim's
 recursion. Both come through commentators: Simondon's own text is
-Unavailable here ([LIT-1648](../literature.d/LIT-1648.md), [LIT-tmp18ayr](../literature.d/LIT-tmp18ayr.md)).
+Unavailable here ([LIT-1648](../literature.d/LIT-1648.md), [LIT-1900](../literature.d/LIT-1900.md)).
 
 - **Transduction states the recursion as propagation.** Bencherki and
   Iliadis translate Simondon (2005, p. 32) on transduction as action
   propagating "from kin to kin" (*de proche en proche*): "each
   constituted region of structure serves as a principle of constitution
   to the next region, in such a way that a change extends progressively
-  at the same time as the structuring operation" ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. p.
-  14; [THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md)). In this claim's terms,
+  at the same time as the structuring operation" ([LIT-1922](../literature.d/LIT-1922.md), ms. p.
+  14; [THEORY-1276](../theory.d/THEORY-1276.md)). In this claim's terms,
   a realization becomes the constraint on the next realization. That is
   "constraints are themselves realizations within larger relational
   structures", in the direction of growth. It is a third reading beside
@@ -363,15 +363,15 @@ Unavailable here ([LIT-1648](../literature.d/LIT-1648.md), [LIT-tmp18ayr](../lit
   translated, with no mechanism or time scale, which are what [CLAIM-478](CLAIM-478.md)
   adds. Same structure, and no claim about mechanism.
 - **"Logically, not chronologically, prior."** Bencherki 2017 makes
-  action pre-individual, "logically prior to any individual" ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md),
+  action pre-individual, "logically prior to any individual" ([LIT-1901](../literature.d/LIT-1901.md),
   p. 777), and immediately qualifies it: action "is not chronologically
   prior" to beings; "individuations continue into each other ceaselessly"
-  (p. 781; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)). That is a qualified priority of the kind this
+  (p. 781; [THEORY-1285](../theory.d/THEORY-1285.md)). That is a qualified priority of the kind this
   claim's last clause asks for. It is weaker than "neither is prior": the
   relation (action) is given an explanatory priority over the relata that
   the claim does not grant. Bencherki, Brummans and Vézy drop the
   qualification ("there are no already-constituted human beings prior to
-  communication/becoming", [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1357), which puts them nearer
+  communication/becoming", [LIT-1902](../literature.d/LIT-1902.md), p. 1357), which puts them nearer
   A10's "pure structure-first ontology" than to this claim, though their
   priority is of process, not of structure.
 

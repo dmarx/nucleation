@@ -29,7 +29,7 @@ summary: >-
   all, gives it downward from an agent to its constituents, and not
   sideways between peers. Set aside with the authenticity line.
 ---
-<!-- inactive-ok-file: LIT-tmp6mtid — Unavailable; Lapoujade, the source of the parent's 'lesser existences', unread -->
+<!-- inactive-ok-file: LIT-1904 — Unavailable; Lapoujade, the source of the parent's 'lesser existences', unread -->
 <!-- inactive-ok-file: CLAIM-016 CLAIM-096 CLAIM-104 — Deferred; set aside, and cited to say what was set aside with it -->
 <!-- inactive-ok-file: CLAIM-403 THEORY-151 THEORY-414 THEORY-495 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
@@ -95,13 +95,13 @@ question stays Deferred with the authenticity line.
 
 ## Note of 2026-10-31: a process ethics across levels that rests on interdependence
 
-Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1366–1367) propose an
+Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), pp. 1366–1367) propose an
 answer to the cross-agent form of this question. Beings "depend on each
 other to pursue their individuation", which "underscores the collective
 duty to foster each being-in-becoming, regardless of the 'level'". So
 responsibility is "an invitation ... to exercise caution in the way our
 individuation might affect 'weaker,' 'lesser' existences" (after
-Lapoujade, [LIT-tmp6mtid](../literature.d/LIT-tmp6mtid.md), unread, and Jonas). It covers the case this
+Lapoujade, [LIT-1904](../literature.d/LIT-1904.md), unread, and Jonas). It covers the case this
 question names: agents sharing an environment at one level.
 
 The step is from interdependence to obligation. The note of 2026-10-18

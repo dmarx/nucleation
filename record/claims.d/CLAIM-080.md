@@ -23,7 +23,7 @@ summary: >-
 supersedes:
 - CLAIM-062
 ---
-<!-- inactive-ok-file: THEORY-tmpcaccx THEORY-tmp4o1dd THEORY-tmprgc9k QUESTION-tmp3wvgk QUESTION-009 — Proposed or Open; the readings set against and beside this supposition, and the questions it leaves open -->
+<!-- inactive-ok-file: THEORY-1280 THEORY-1277 THEORY-1284 QUESTION-365 QUESTION-009 — Proposed or Open; the readings set against and beside this supposition, and the questions it leaves open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
 
 # CLAIM-080: The agent is independently warranted: the account asks how a given agent's practical efficacy is organized, not what makes something an agent
@@ -42,7 +42,7 @@ attributing a collective will". Whether it is, is [QUESTION-009](../questions.d/
 
 ## Note of 2026-10-31: a reading that denies the supposition, and keeps using it
 
-Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md); [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)) deny what
+Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md); [THEORY-1280](../theory.d/THEORY-1280.md)) deny what
 this claim supposes. "There are no already-constituted human beings prior
 to communication/becoming" (p. 1357). "Who or what has agency is a
 premature question" (p. 1357). Agency "happens before any becoming
@@ -59,14 +59,14 @@ It does not reach the will account, for three reasons.
   that it "still bears traces of entitative thinking" (p. 1364). The
   supposition is hard to do without even for a paper that rejects it.
 - **The neighbouring readings are compatible with it.** Bencherki and
-  Iliadis ([THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)) treat persons and organizations as
+  Iliadis ([THEORY-1277](../theory.d/THEORY-1277.md)) treat persons and organizations as
   coexisting levels, "they each exist fully and simultaneously". That
   allows a given agent at one level without deriving it. Tsoukas and
   Chia's becoming is carried by "actors ... reweaving their webs of
-  beliefs and habits" ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), p. 575; [THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md)), which is
+  beliefs and habits" ([LIT-1913](../literature.d/LIT-1913.md), p. 575; [THEORY-1284](../theory.d/THEORY-1284.md)), which is
   the agent this claim supposes.
 
-Where the parent does bear is on the outward route, [QUESTION-tmp3wvgk](../questions.d/QUESTION-tmp3wvgk.md):
+Where the parent does bear is on the outward route, [QUESTION-365](../questions.d/QUESTION-365.md):
 a conflict the agent settles by forming a collective crosses the
 boundary this claim draws.
 

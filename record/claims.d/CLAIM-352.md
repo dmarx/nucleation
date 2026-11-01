@@ -75,7 +75,7 @@ corroborated_by:
 - THEORY-025
 - THEORY-411
 ---
-<!-- inactive-ok-file: THEORY-tmpcaccx THEORY-tmpkdsex CLAIM-tmptb7y2 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
+<!-- inactive-ok-file: THEORY-1280 THEORY-1282 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 
 # CLAIM-352: Sen's two aspects of freedom divide along the record's line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy
 
@@ -165,8 +165,8 @@ Proposed and was not reviewed in this pass; its premises [CLAIM-079](CLAIM-079.m
 
 Bencherki, Brummans and Vézy define agency as "the affective force that
 governs the transition from a lesser to an augmented ability to act"
-([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354; [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)). They adapt Massumi's
-capacitation ([THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)). In this claim's split, a change in
+([LIT-1902](../literature.d/LIT-1902.md), p. 1354; [THEORY-1280](../theory.d/THEORY-1280.md)). They adapt Massumi's
+capacitation ([THEORY-1282](../theory.d/THEORY-1282.md)). In this claim's split, a change in
 ability to act is on the side of what can be reached, Sen's opportunity
 aspect, not on the side of the organization that selects among it. The
 paper says nothing about which of an agent's regimes becomes effective,
@@ -174,7 +174,7 @@ which is what will-organization ([TERM-023](../terms.d/TERM-023.md)) is about. S
 rival accounts of agency. They answer different halves of this claim's
 division. The parent's paper has the weakness this claim finds in viable
 reachability: it never says which abilities count, so it has no map from
-"ability to act" to anything valued. [CLAIM-tmptb7y2](CLAIM-tmptb7y2.md) states the three
+"ability to act" to anything valued. [CLAIM-527](CLAIM-527.md) states the three
 quantities apart.
 
 No status, title or warrant changes.

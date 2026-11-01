@@ -60,12 +60,12 @@ not act. The record keeps three such things apart.
 - **An available regime that is not effective.** This claim.
 - **A claim to precedence that is not granted.** [CLAIM-484](CLAIM-484.md)'s gap. The
   parent paper's "excess action", "the feelings you cannot deal with,
-  unchanneled energy, skills in search of an outlet" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p.
+  unchanneled energy, skills in search of an outlet" ([LIT-1902](../literature.d/LIT-1902.md), p.
   1351), is closest to this.
 - **Potential not yet captured into any regime.** Massumi's "excess of
-  activity over action" ([LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 29) and the "surplus of
-  unacted-out potential that is collectively felt" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 7).
-  [NOTE-tmpn58uh](../notes.d/NOTE-tmpn58uh.md) observes that the parent's excess action is closer to
+  activity over action" ([LIT-1910](../literature.d/LIT-1910.md), p. 29) and the "surplus of
+  unacted-out potential that is collectively felt" ([LIT-1905](../literature.d/LIT-1905.md), p. 7).
+  [NOTE-1486](../notes.d/NOTE-1486.md) observes that the parent's excess action is closer to
   Massumi's "capture" than to his "excess".
 
 This claim covers only the first. Keeping the three apart lets the

@@ -213,14 +213,14 @@ a later measure of the reinterpretation.
 
 ## Note of 2026-10-31: the MSF meeting, and a mechanism from Tsoukas and Chia
 
-<!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmp5ux44 THEORY-tmp9bte2 THEORY-tmprgc9k — Proposed; the readings filed 2026-10-31, cited as context -->
+<!-- inactive-ok-block: THEORY-1280 THEORY-1278 THEORY-1279 THEORY-1284 — Proposed; the readings filed 2026-10-31, cited as context -->
 Two readings filed today bear on this claim. One is an episode and the
 other a mechanism.
 
 - **The MSF meeting is part 1 with the order of part 2 reversed.**
   Bencherki, Brummans and Vézy reread a meeting in which two Congolese
   health officials ask MSF's representative for surgical training
-  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1359–1363; [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)). The request offers MSF
+  ([LIT-1902](../literature.d/LIT-1902.md), pp. 1359–1363; [THEORY-1280](../theory.d/THEORY-1280.md)). The request offers MSF
   a role, educator, that its operative perspective refuses: "MSF [is]...
   not a university", "[they] are not here as educators" (p. 1362). It is
   an invitation, not an argument. But Robert accepts by first
@@ -232,11 +232,11 @@ other a mechanism.
   talk so that taking part becomes possible. It does not follow from
   taking part. The paper's "retrospective" meaning, "offering training
   might mean that MSF is becoming a 'university'" (p. 1363;
-  [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)), puts the rest of the reinterpretation after the
+  [THEORY-1278](../theory.d/THEORY-1278.md)), puts the rest of the reinterpretation after the
   joint action, where part 2 puts it, but the paper does not observe it.
   The episode supports part 1 and part 3 and is neutral on part 2.
 - **Tsoukas and Chia's radial categories are a mechanism for the
-  redescription** ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), pp. 573–575; [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)). A category
+  redescription** ([LIT-1913](../literature.d/LIT-1913.md), pp. 573–575; [THEORY-1279](../theory.d/THEORY-1279.md)). A category
   has a prototypical core and a periphery. Applying it to a
   nonprototypical case is "an imaginative extension" that changes it, and
   "the application of a concept is always a normative act" (p. 574).
@@ -244,7 +244,7 @@ other a mechanism.
   prototype, formal "blackboard-style" teaching, outside. Tsoukas and
   Chia also state part 3's distinction: whether a local extension becomes
   the organization's depends on whether it is institutionalized, which
-  may never happen (pp. 578–579; [THEORY-tmprgc9k](../theory.d/THEORY-tmprgc9k.md)). That is this claim's
+  may never happen (pp. 578–579; [THEORY-1284](../theory.d/THEORY-1284.md)). That is this claim's
   "reproduced beyond the encounter" with a named condition. They put the
   condition in the "structural context" senior managers create (p. 578).
 

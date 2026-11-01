@@ -89,13 +89,13 @@ C6 dropped it; its two uses of "descent" are gradient descent.
 
 ## Note of 2026-10-31: communication as transduction is continuity of transmission taken alone
 
-<!-- inactive-ok-file: THEORY-tmp5ux44 THEORY-tmpywwei — Proposed; readings filed on 2026-10-31 and set beside this claim -->
+<!-- inactive-ok-file: THEORY-1278 THEORY-1286 — Proposed; readings filed on 2026-10-31 and set beside this claim -->
 
-Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), read in [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md))
+Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), read in [THEORY-1278](../theory.d/THEORY-1278.md))
 define communication as "the continuity of action through beings who are
 in a perpetual state of becoming" (p. 1364). It is a transduction in which
 "any communication also implies a transformation" (p. 1356). Bencherki and
-Iliadis ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), [NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md)) give the mechanism as Simondon's
+Iliadis ([LIT-1922](../literature.d/LIT-1922.md), [NOTE-1483](../notes.d/NOTE-1483.md)) give the mechanism as Simondon's
 propagation "from kin to kin", in which each structured region serves as
 the principle of the next (ms. pp. 13–14).
 
@@ -111,15 +111,15 @@ continuity of transmission, taken alone. Two things follow.
 - **This claim locates the readings' vacuity.** The paper's examples
   include a piston that "communicates movement" (p. 1364). The record's
   reading found that "communication" then covers every causal continuity
-  ([THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md), "What this does not say"). On this claim, continuity
+  ([THEORY-1278](../theory.d/THEORY-1278.md), "What this does not say"). On this claim, continuity
   of transmission without similarity of communicative function gives
   descent, not identity or fidelity. A distant retelling is recognizably
   descended because the relations come apart. An account that keeps only
   continuity cannot say whether a descendant still does what its original
   did, and that is the discrimination the reading found missing.
 
-Massumi's "not a logic of transmission or communication" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md),
-p. 9; [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)) does not conflict with continuity of transmission
+Massumi's "not a logic of transmission or communication" ([LIT-1905](../literature.d/LIT-1905.md),
+p. 9; [THEORY-1286](../theory.d/THEORY-1286.md)) does not conflict with continuity of transmission
 here. He denies that a content is carried unchanged from one event to
 another, and he grants that event factors "can be repeated, reactivated".
 This claim's continuity is causal descent, not conservation of a content,

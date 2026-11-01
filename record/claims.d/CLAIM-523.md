@@ -45,7 +45,7 @@ summary: >-
   from an organization's own signals to normatively relevant
   discrepancies. Proposed: the separations are argued, not built.
 ---
-<!-- inactive-ok-file: THEORY-tmpuh0eb — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
+<!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
 <!-- inactive-ok-file: QUESTION-364 — Open; the question this bears on, cited as open -->
 
 # CLAIM-523: For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed
@@ -114,7 +114,7 @@ resource-bounded account of what futures remain reachable ([CLAIM-475](CLAIM-475
 Two of the readings filed on this date bear on this claim.
 
 - **One label does the work of legibility and of refusal.** In Bencherki
-  (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md), pp. 787–788) military
+  (2017; [LIT-1901](../literature.d/LIT-1901.md), read in [NOTE-1482](../notes.d/NOTE-1482.md), pp. 787–788) military
   spouses ask for a newsletter on daycare, dental care and pensions. The
   base commander reads every item as "political activity", which is
   forbidden on the base. The demands are legible, but only under a
@@ -130,13 +130,13 @@ Two of the readings filed on this date bear on this claim.
   missing.** Bencherki, Brummans and Vézy say "people become responsible
   as they incorporate/integrate (or deny the incorporation/integration
   of) the actions of others into their own becoming, which enables those
-  others to continue their individuation" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1366). That
+  others to continue their individuation" ([LIT-1902](../literature.d/LIT-1902.md), p. 1366). That
   places responsibility in granting another's demand efficacy in one's
   own organization, this claim's volitional path. The paper gives no
   standard by which a demand ought to be incorporated, and this claim
   says none of the three achievements supplies one. Bencherki (2017)
   needs such a standard to call the army's taking of the women's daycare
   work "usurpation" (pp. 791–792). Its theory disclaims one
-  ([THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)).
+  ([THEORY-1285](../theory.d/THEORY-1285.md)).
 
 No status, title or warrant changes.

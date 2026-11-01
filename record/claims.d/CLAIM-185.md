@@ -232,7 +232,7 @@ open.
 
 ## Note of 2026-10-31: Simondon's crystal, at second hand, and the parent paper's other crystal
 
-<!-- inactive-ok-file: LIT-1648 THEORY-tmp1g3ve CLAIM-184 — Unavailable or Proposed; Simondon's book, unread, its reading at second hand, and the counter set beside this claim -->
+<!-- inactive-ok-file: LIT-1648 THEORY-1276 CLAIM-184 — Unavailable or Proposed; Simondon's book, unread, its reading at second hand, and the counter set beside this claim -->
 
 The image this line is named for has an ancestor the claim did not name.
 Simondon builds individuation on crystallization from a metastable
@@ -241,16 +241,16 @@ propagates step by step, each structured region the condition for the
 next ([LIT-1648](../literature.d/LIT-1648.md)'s summary; the book is unread here). Bencherki and Iliadis
 quote the propagation "from kin to kin" (*de proche en proche*), each
 structured region serving as the principle of the next (Simondon 2005,
-p. 32, in their translation; [NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md)). That is this claim's second
+p. 32, in their translation; [NOTE-1483](../notes.d/NOTE-1483.md)). That is this claim's second
 part, that later structure grows only on structure that persists, stated
 as an account of all individuation. Simondon reached it from the same
 physics the record reads in Vekilov and Ostwald. It adds no evidence about
 arguments. Simondon generalizes the crystal by analogy, as this claim does,
 and his organizational readers use the generalization without a test
-([THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md); [NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md), "no argument that could fail"). Same
+([THEORY-1276](../theory.d/THEORY-1276.md); [NOTE-1485](../notes.d/NOTE-1485.md), "no argument that could fail"). Same
 structure, not shown to be the same mechanism.
 
-The parent paper ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md)) uses the crystal the other way. Crystals
+The parent paper ([LIT-1902](../literature.d/LIT-1902.md)) uses the crystal the other way. Crystals
 are "organized relatively homogeneously, and are therefore relatively
 stable" (p. 1355). "Some fields, such as crystals or well-oiled
 bureaucracies, are so densely assembled that they cannot be reorganized

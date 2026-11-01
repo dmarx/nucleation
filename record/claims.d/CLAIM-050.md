@@ -173,14 +173,14 @@ Torgersen's results.
 
 ## Note of 2026-10-31: a different information, not a rival
 
-<!-- inactive-ok-file: THEORY-tmp1g3ve CLAIM-tmpeli2w — Proposed; a reading filed on 2026-10-31 and the record's claim placing it -->
+<!-- inactive-ok-file: THEORY-1276 CLAIM-525 — Proposed; a reading filed on 2026-10-31 and the record's claim placing it -->
 
-The Simondon readings filed on 2026-10-31 (Iliadis, [LIT-tmpj9jyk](../literature.d/LIT-tmpj9jyk.md);
-Bencherki and Iliadis, [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md); read together in [THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md))
+The Simondon readings filed on 2026-10-31 (Iliadis, [LIT-1911](../literature.d/LIT-1911.md);
+Bencherki and Iliadis, [LIT-1922](../literature.d/LIT-1922.md); read together in [THEORY-1276](../theory.d/THEORY-1276.md))
 hold that information is "never a given thing". On their account it is a
 disparity whose resolution produces a new structure in the system that
 takes it up. That could be read as a rival to this claim's information,
-evidence about a situation compared by Blackwell's order. [CLAIM-tmpeli2w](CLAIM-tmpeli2w.md)
+evidence about a situation compared by Blackwell's order. [CLAIM-525](CLAIM-525.md)
 argues that it is not. The readings' information is a change in the
 interpreter ([CLAIM-118](CLAIM-118.md)) or in the questions a receiver can decide
 ([CLAIM-257](CLAIM-257.md)), and the order holds both fixed by construction. This claim's

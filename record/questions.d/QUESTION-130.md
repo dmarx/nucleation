@@ -149,13 +149,13 @@ an answer. The question is unchanged and stays Open.
 
 ## Note of 2026-10-31: the Simondonian readings fall on the excluded side
 
-<!-- inactive-ok-file: THEORY-tmp4o1dd — Proposed; a reading filed on 2026-10-31, cited as not an answer -->
+<!-- inactive-ok-file: THEORY-1277 — Proposed; a reading filed on 2026-10-31, cited as not an answer -->
 
 The readings filed on 2026-10-31 describe one action propagating through
 a series of organizational domains, each reordered as it passes
-(Bencherki and Iliadis, [LIT-tmpwspny](../literature.d/LIT-tmpwspny.md), ms. pp. 13–17; [THEORY-tmp4o1dd](../theory.d/THEORY-tmp4o1dd.md)). They
+(Bencherki and Iliadis, [LIT-1922](../literature.d/LIT-1922.md), ms. pp. 13–17; [THEORY-1277](../theory.d/THEORY-1277.md)). They
 also describe one action with several coexisting significations
-([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 783). That reads like A19's
+([LIT-1902](../literature.d/LIT-1902.md), p. 1358; [LIT-1901](../literature.d/LIT-1901.md), p. 783). That reads like A19's
 sharper hypothesis, path dependence across organizational frames. It is
 not an answer, for two reasons this question already gives.
 

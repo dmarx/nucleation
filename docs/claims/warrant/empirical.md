@@ -6,7 +6,7 @@
 
 **Empirical** — supported by observation or experiment, and scoped to that evidence.
 
-20 of 524 CLAIM documents. Back to the [full index](../README.md).
+20 of 527 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -44,7 +44,7 @@ summary: >-
   on 2026-10-05; filing this does not reopen it, and whether it reopens is
   the owner's call. The manipulation objection stands ([CLAIM-364](CLAIM-364.md)).
 ---
-<!-- inactive-ok-file: THEORY-tmpl13wj — Proposed; Massumi's micropolitics, a neighbouring form of non-domination -->
+<!-- inactive-ok-file: THEORY-1283 — Proposed; Massumi's micropolitics, a neighbouring form of non-domination -->
 <!-- inactive-ok-file: CLAIM-016 TERM-006 QUESTION-011 — Deferred; the set-aside authenticity line this claim is a candidate repair for, cited to say what it would repair -->
 <!-- inactive-ok-file: CLAIM-261 THEORY-040 THEORY-054 THEORY-077 QUESTION-071 CLAIM-358 CLAIM-364 — Proposed; the claims and readings set beside this one, open -->
 
@@ -158,16 +158,16 @@ any account of authenticity.
 
 ## Note of 2026-10-31: non-domination without alignment
 
-Massumi's micropolitics ([THEORY-tmpl13wj](../theory.d/THEORY-tmpl13wj.md)) is a neighbour of this claim
+Massumi's micropolitics ([THEORY-1283](../theory.d/THEORY-1283.md)) is a neighbour of this claim
 and differs from it in one respect. Both describe an organization in
 which no process imposes the outcome on the others. In the owner's
 wording here, the lower-level processes are "already aligned with the
 outcomes the higher level processes would otherwise enforce". Massumi's
 co-patterning keeps the contrast instead: "contrasting tendencies,
 co-habiting the field in a way that facilitates each fully realizing
-itself", as "an affirmation of discord" ([LIT-tmpi0u4n](../literature.d/LIT-tmpi0u4n.md), p. 64). It is "not
+itself", as "an affirmation of discord" ([LIT-1910](../literature.d/LIT-1910.md), p. 64). It is "not
 to resolve the tension through a choice, but to modulate it into a
-symbiosis" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 12).
+symbiosis" ([LIT-1905](../literature.d/LIT-1905.md), p. 12).
 
 So there are two forms of non-domination. In one the processes agree. In
 the other they disagree, and none curtails the rest. This claim's

@@ -116,24 +116,24 @@ The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](
 
 ## Note of 2026-10-31: outside readings that disagreement is structured, and what they leave to the record
 
-<!-- inactive-ok-file: THEORY-tmpuh0eb THEORY-tmp5ux44 THEORY-tmpywwei CLAIM-240 — Proposed; readings filed on 2026-10-31, and the line's task-weighting claim, cited as open -->
+<!-- inactive-ok-file: THEORY-1285 THEORY-1278 THEORY-1286 CLAIM-240 — Proposed; readings filed on 2026-10-31, and the line's task-weighting claim, cited as open -->
 
 Three readings filed on 2026-10-31 hold this objection's premise, that
 receivers' disagreement is not noise, from outside the line:
 
 - **Bencherki 2017**: "Concurrent significations, then, are not mere
   misunderstandings, but rather the outcomes of simultaneous individuation
-  processes" ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), p. 783; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)). The example is the
+  processes" ([LIT-1901](../literature.d/LIT-1901.md), p. 783; [THEORY-1285](../theory.d/THEORY-1285.md)). The example is the
   spouses' demand for a dental plan, "political activity" to the army and
   a legitimate demand to the spouses (p. 793).
 - **Bencherki, Brummans and Vézy**: "Coexisting meanings of the same action
-  indicate that several individuations are ongoing" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p.
-  1358; [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)). They set this against Weick's reduction of
+  indicate that several individuations are ongoing" ([LIT-1902](../literature.d/LIT-1902.md), p.
+  1358; [THEORY-1278](../theory.d/THEORY-1278.md)). They set this against Weick's reduction of
   equivocality.
 - **Massumi**: bodies cued by one event "will have been attuned –
   differentially – to the same interruptive commotion"; "There is no
   sameness of affect. There is affective difference in the same event"
-  ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 6; [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)). Uniform response happens only
+  ([LIT-1905](../literature.d/LIT-1905.md), p. 6; [THEORY-1286](../theory.d/THEORY-1286.md)). Uniform response happens only
   where "other factors must have been active to pre-channel tendencies".
 
 None of them supplies what this objection asks for: a named population, a

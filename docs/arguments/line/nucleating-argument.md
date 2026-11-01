@@ -6,8 +6,9 @@
 
 **Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure, and what a project memory contributes — the record itself as the case.
 
-1 of 42 ARG documents. Back to the [full index](../README.md).
+2 of 49 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-028](../../../record/arguments.d/ARG-028.md) | Inbound references per code and turns per filed entry show which structures anchor and that drift falls as anchoring keeps up with arrival | The line's proposed measures, counted in the record, as evidence for its persistence and growth-rate theses. The question that is open is whether the measures measure what they are said to: they are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell. Proposed, because the dispute over what drift should be judged against is open. | Proposed |
+| [ARG-045](../../../record/arguments.d/ARG-045.md) | Simondon's account of individuation as crystallization from a metastable state, propagating from kin to kin, supports the thesis that an argument's later structure can evolve only on structure that persists | From the connections pass of 2026-10-31 ([CLAIM-185](../../../record/claims.d/CLAIM-185.md)'s note of that date). Simondon makes the growth of a crystal in a metastable solution the model of all individuation, which is the shape of [CLAIM-185](../../../record/claims.d/CLAIM-185.md)'s anchoring thesis. Rejected as support: the same structure, not shown to be the same mechanism; Simondon generalizes by analogy as [CLAIM-185](../../../record/claims.d/CLAIM-185.md) does, and his book is unread here. | Rejected |

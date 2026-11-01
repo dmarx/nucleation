@@ -134,18 +134,18 @@ paper, which never discusses drive.
 
 ## Note of 2026-10-31: shared cue or spillover, in two readings of affect
 
-<!-- inactive-ok-block: THEORY-tmpywwei THEORY-tmpcaccx — Proposed; the readings filed 2026-10-31, cited as context -->
+<!-- inactive-ok-block: THEORY-1286 THEORY-1280 — Proposed; the readings filed 2026-10-31, cited as context -->
 Two readings filed today disagree on this question's distinction, for
 affect in groups, and neither measures it.
 
 - **Spillover, which is coupling.** Bencherki, Brummans and Vézy describe
   one person's anger as augmenting others' ability to act, "as her anger
   spills over into her inert colleagues and turns them into active
-  strikers" ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354), and
+  strikers" ([LIT-1902](../literature.d/LIT-1902.md), p. 1354), and
   agency as one process taking up "the excess action of another" (p.
   1351). That is influence passed between members.
 - **Shared cue, differential response, which is common drive.** Massumi
-  ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), pp. 6, 9; [THEORY-tmpywwei](../theory.d/THEORY-tmpywwei.md)): affect "is not a content
+  ([LIT-1905](../literature.d/LIT-1905.md), pp. 6, 9; [THEORY-1286](../theory.d/THEORY-1286.md)): affect "is not a content
   that can be transported from one event to another"; bodies cued by the
   same event, an alarm, "will have been attuned – differentially – to the
   same interruptive commotion", "responding differently together".

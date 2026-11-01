@@ -353,14 +353,14 @@ clause, which waits on a reading of [LIT-1657](../literature.d/LIT-1657.md).
 
 ## Note of 2026-10-31: Simondon's method as a second constitutive template
 
-<!-- inactive-ok-file: LIT-1648 QUESTION-tmptu1u2 TERM-087 — Unavailable, Open or Proposed; Simondon's book unread, the question filed from this note, and the term's senses -->
+<!-- inactive-ok-file: LIT-1648 QUESTION-366 TERM-087 — Unavailable, Open or Proposed; Simondon's book unread, the question filed from this note, and the term's senses -->
 
-The parent paper ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1366) quotes Simondon's English
+The parent paper ([LIT-1902](../literature.d/LIT-1902.md), p. 1366) quotes Simondon's English
 translation ([LIT-1648](../literature.d/LIT-1648.md), unread here, p. 14). Research "consists in
 following the being in its genesis, in accomplishing the genesis of
 thought at the same time as the genesis of the object". It concludes that
 "researchers can only investigate individuation processes by/while
-individuating into others". Bencherki and Iliadis ([LIT-tmpwspny](../literature.d/LIT-tmpwspny.md),
+individuating into others". Bencherki and Iliadis ([LIT-1922](../literature.d/LIT-1922.md),
 proposition 4) make it a rule: knowledge of an entity "should reflect on
 the way that knowledge itself has individuated".
 
@@ -378,7 +378,7 @@ What this does for the claim:
   investigates."
 - **It does not answer the first defeater.** Neither reading derives a
   consequence of co-genesis that the operational description ([CLAIM-469](CLAIM-469.md))
-  would miss; both quote it. [QUESTION-tmptu1u2](../questions.d/QUESTION-tmptu1u2.md) asks for one such
+  would miss; both quote it. [QUESTION-366](../questions.d/QUESTION-366.md) asks for one such
   consequence in a form the record could test: whether knowing a
   record's objects, and not only revising them, needs the record's
   history. The two-apparatus experiment this claim proposes is the way to

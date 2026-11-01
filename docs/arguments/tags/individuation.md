@@ -6,8 +6,8 @@
 
 **Individuation** — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024).
 
-0 of 42 ARG documents. Back to the [full index](../README.md).
+1 of 49 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-045](../../../record/arguments.d/ARG-045.md) | Simondon's account of individuation as crystallization from a metastable state, propagating from kin to kin, supports the thesis that an argument's later structure can evolve only on structure that persists | From the connections pass of 2026-10-31 ([CLAIM-185](../../../record/claims.d/CLAIM-185.md)'s note of that date). Simondon makes the growth of a crystal in a metastable solution the model of all individuation, which is the shape of [CLAIM-185](../../../record/claims.d/CLAIM-185.md)'s anchoring thesis. Rejected as support: the same structure, not shown to be the same mechanism; Simondon generalizes by analogy as [CLAIM-185](../../../record/claims.d/CLAIM-185.md) does, and his book is unread here. | Rejected |

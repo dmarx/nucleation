@@ -75,11 +75,11 @@ around loops without a word.
 
 ## Note of 2026-10-31: coexisting meanings are not yet incoherence
 
-<!-- inactive-ok-file: THEORY-tmp5ux44 — Proposed; the reading this note qualifies -->
+<!-- inactive-ok-file: THEORY-1278 — Proposed; the reading this note qualifies -->
 
-Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1358) set "Coexisting
+Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1358) set "Coexisting
 meanings of the same action" against Weick's sensemaking as the
-reduction of equivocality. [THEORY-tmp5ux44](../theory.d/THEORY-tmp5ux44.md)'s Connections reads this as
+reduction of equivocality. [THEORY-1278](../theory.d/THEORY-1278.md)'s Connections reads this as
 "incoherence that is not failure". By this term's definition it is not
 yet incoherence at all. Coherence is agreement under a stated
 correspondence structure, and the paper states none under which the

@@ -6,8 +6,9 @@
 
 **Ethics** — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy).
 
-1 of 42 ARG documents. Back to the [full index](../README.md).
+2 of 49 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-042](../../../record/arguments.d/ARG-042.md) | The record's constructions of maintained correction show that self-maintaining organizations ought to preserve their corrigibility | Filed at the owner's question of 2026-10-31 ("no ARGs?"), under [ADR-061](../../../record/decisions.d/ADR-061.md), from the support half of [CLAIM-511](../../../record/claims.d/CLAIM-511.md). The owner had asked at U24 of the exchange "Analyze nucleation concepts" whether corrigibility's desirability had been established. The answer was no, and that answer is a verdict on support, so it is an ARG. Rejected. The constructions show what corrigibility is made of and what it costs to keep. They are equally expected whether or not it ought to be kept, so they do not bear on the conclusion. Its value is conditional ([CLAIM-520](../../../record/claims.d/CLAIM-520.md), which undercuts this). | Rejected |
+| [ARG-043](../../../record/arguments.d/ARG-043.md) | Bencherki's checklist and daycare, one end state with opposite verdicts, show a normative judgment about an organization that depends on a history its end state does not show | From the connections pass of 2026-10-31 ([CLAIM-518](../../../record/claims.d/CLAIM-518.md)'s note of that date). In Bencherki 2017 ([LIT-1901](../../../record/literature.d/LIT-1901.md)), the army presents two community-made services as its own. One is co-individuation, the other usurpation. The difference is who did the work and whether it is acknowledged, which the end state does not contain. Proposed: part of the difference lies in present attribution, and the cases come from a documentary whose framing Bencherki follows. | Proposed |

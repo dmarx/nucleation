@@ -140,15 +140,15 @@ can be matched at every state. [CLAIM-488](CLAIM-488.md) rests on it.
 
 ## Note of 2026-10-31: an ex ante criterion of failing to inform
 
-<!-- inactive-ok-file: THEORY-tmp1g3ve — Proposed; the reading this note sets beside the result -->
+<!-- inactive-ok-file: THEORY-1276 — Proposed; the reading this note sets beside the result -->
 
-[THEORY-tmp1g3ve](../theory.d/THEORY-tmp1g3ve.md) reads Simondon, through Iliadis and Bencherki & Iliadis,
+[THEORY-1276](../theory.d/THEORY-1276.md) reads Simondon, through Iliadis and Bencherki & Iliadis,
 on information. Information is a disparity that transduction resolves.
 It has no "unity and identity" apart from a system (Iliadis, pp.
 10–11). Its meaning is the structure the resolution produces, so it is
-known only afterwards ("retrospectively", [LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1357). The
+known only afterwards ("retrospectively", [LIT-1902](../literature.d/LIT-1902.md), p. 1357). The
 readers left open whether anything counts as a failure to inform
-([NOTE-tmphu9ok](../notes.d/NOTE-tmphu9ok.md)). This result agrees on the first point and, in its own
+([NOTE-1485](../notes.d/NOTE-1485.md)). This result agrees on the first point and, in its own
 terms, answers the second. Here too an experiment is informative only
 relative to decision problems: it has no informational content apart
 from what it lets a receiver do. The comparison, though, comes before
@@ -158,7 +158,7 @@ with losses in [0, 1] by more than ε. So the decision-theoretic notion
 has what the Simondonian one lacks, an ex ante criterion of failure. The
 price is fixing the states and the receivers' problems in advance, which
 is what the process readings decline to do: their domains are
-individuated "for practical purposes" ([NOTE-tmp62e4t](../notes.d/NOTE-tmp62e4t.md)). This is a
+individuated "for practical purposes" ([NOTE-1483](../notes.d/NOTE-1483.md)). This is a
 translation, not an identity. Simondon's disparity is not a likelihood,
 and nothing in the readings says how to write it as one. No status,
 title or warrant changes.

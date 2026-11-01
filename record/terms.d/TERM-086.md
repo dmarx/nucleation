@@ -121,12 +121,12 @@ supplies observations or a construction."
 
 ## Note of 2026-10-31: an augmented ability to act, with no target named
 
-<!-- inactive-ok-block: THEORY-tmpcaccx THEORY-tmpkdsex THEORY-tmpuh0eb — Proposed; the readings filed 2026-10-31, cited as context -->
+<!-- inactive-ok-block: THEORY-1280 THEORY-1282 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
 Bencherki, Brummans and Vézy define agency as "the affective force that
 governs the transition from a lesser to an augmented ability to act"
-([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), p. 1354; [THEORY-tmpcaccx](../theory.d/THEORY-tmpcaccx.md)). Massumi's definition, from
+([LIT-1902](../literature.d/LIT-1902.md), p. 1354; [THEORY-1280](../theory.d/THEORY-1280.md)). Massumi's definition, from
 which theirs is taken, runs both ways, to "a diminished or augmented
-state of capacitation" ([LIT-tmp8hcfz](../literature.d/LIT-tmp8hcfz.md), p. 1; [THEORY-tmpkdsex](../theory.d/THEORY-tmpkdsex.md)). The paper
+state of capacitation" ([LIT-1905](../literature.d/LIT-1905.md), p. 1; [THEORY-1282](../theory.d/THEORY-1282.md)). The paper
 keeps only the augmenting half, and the record's reading found that this
 "makes a verdict depend on a judgment of whose capacity counts", which
 the paper does not supply. This term shows what is missing. Read through
@@ -138,8 +138,8 @@ analyst's reading of hesitations and the eventual agreement.
 
 The term also does what the paper's definition cannot. It is "an
 attribution, not a compliment", so it can say what a channeling or a
-usurpation achieves. In Bencherki 2017's daycare ([LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp.
-791–792; [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md)), the army maintains a service that runs on the
+usurpation achieves. In Bencherki 2017's daycare ([LIT-1901](../literature.d/LIT-1901.md), pp.
+791–792; [THEORY-1285](../theory.d/THEORY-1285.md)), the army maintains a service that runs on the
 spouses' volunteer work and is credited to itself, "a caring
 organization at their expense" (p. 792). With the army's service as the
 target, that is a maintained organizational achievement. With the

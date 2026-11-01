@@ -22,7 +22,7 @@ complements:
 supports:
 - CLAIM-363
 ---
-<!-- inactive-ok-file: LIT-tmpo79rn — Unavailable; Letiche and Moriceau, cited from its abstract as a doubt in this claim's direction -->
+<!-- inactive-ok-file: LIT-1915 — Unavailable; Letiche and Moriceau, cited from its abstract as a doubt in this claim's direction -->
 
 # CLAIM-075: Viability does not establish what ought to persist
 
@@ -58,7 +58,7 @@ starts from. Nothing here changes it.
 
 ## Note of 2026-10-31: a process ethics that makes the inference this claim disclaims
 
-Bencherki, Brummans and Vézy ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1366–1367) answer the
+Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), pp. 1366–1367) answer the
 charge that agency without agents is apolitical with a duty "to help
 'lesser existences' ... those whose process of individuation has not yet
 found its way into others and who are still at risk of
@@ -71,7 +71,7 @@ step this claim disclaims.
 
 The paper's own pages hold this claim's counterexamples. The virus that
 infects cells "is itself a process of becoming" (p. 1356), and it is a
-being-in-becoming at a "level". In Bencherki (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), pp.
+being-in-becoming at a "level". In Bencherki (2017; [LIT-1901](../literature.d/LIT-1901.md), pp.
 791–792) the army continues its individuation by taking up the spouses'
 daycare work, and Bencherki calls that usurpation. "Foster each
 being-in-becoming" cannot be meant without exception, and the
@@ -85,7 +85,7 @@ be indexed to a standard before it can be true or false. In the MSF
 meeting the paper finds disindividuation on both sides, in Robert and
 in "the doctors" (p. 1365). The paper also quotes Letiche and Moriceau
 that "agency creates and destroys, frees and imprisons, all at once" (p.
-1355). Their abstract ([LIT-tmpo79rn](../literature.d/LIT-tmpo79rn.md), unread beyond it) warns that
+1355). Their abstract ([LIT-1915](../literature.d/LIT-1915.md), unread beyond it) warns that
 transduction "would seem to escape the individual and/or collective will
 – becoming an all-important life-force outside political or ethical
 control". The paper does not take up that warning, which points the

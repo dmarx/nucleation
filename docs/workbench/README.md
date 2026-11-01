@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [31 Oct 21:48 — At the owner's "surely these readings connect more richly": the Bencherki readings read against the record's own lines, fifty-three dated notes, three claims, two questions and an ARG](2026-10.md#at-the-owners-surely-these-readings-connect-more-richly-the-bencherki-readings-read-against-the-records-own-lines-fifty-three-dated-notes-three-claims-two-questions-and-an-arg)
 - [31 Oct 16:21 — The owner's second review (2026-10-31, evening): "world model" names several things; a question that separates them, the owner's formulation and a general principle as claims, and a proposed study](2026-10.md#the-owners-second-review-2026-10-31-evening-world-model-names-several-things-a-question-that-separates-them-the-owners-formulation-and-a-general-principle-as-claims-and-a-proposed-study)
 - [31 Oct 16:01 — At the owner's question "no ARGs?": the filing's one verdict on support split out under ADR-061, and the synthesis on legibility, will and correction made a claim](2026-10.md#at-the-owners-question-no-args-the-filings-one-verdict-on-support-split-out-under-adr-061-and-the-synthesis-on-legibility-will-and-correction-made-a-claim)
 - [31 Oct 15:53 — The owner's review of the filing (2026-10-31, afternoon): three changes kept, five revisions made before merging, a synthesis note on will and correction, and a separate study of resolve against entrenchment](2026-10.md#the-owners-review-of-the-filing-2026-10-31-afternoon-three-changes-kept-five-revisions-made-before-merging-a-synthesis-note-on-will-and-correction-and-a-separate-study-of-resolve-against-entrenchment)
@@ -129,8 +130,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-120 entries across 1 book, newest first.
+121 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 120 | 2026-10-07 | 2026-10-31 |
+| [2026-10](2026-10.md) | 121 | 2026-10-07 | 2026-10-31 |

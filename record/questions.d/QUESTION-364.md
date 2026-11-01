@@ -20,7 +20,7 @@ summary: >-
   collective form without will or authorization. This is the
   will-organization form.
 ---
-<!-- inactive-ok-file: THEORY-tmp9bte2 QUESTION-tmp3wvgk — Proposed or Open; Tsoukas and Chia's mechanism of category extension, and the outward route filed as a question -->
+<!-- inactive-ok-file: THEORY-1279 QUESTION-365 — Proposed or Open; Tsoukas and Chia's mechanism of category extension, and the outward route filed as a question -->
 <!-- inactive-ok-file: QUESTION-118 — Open; the collective form of the continuity question, cited as open -->
 
 # QUESTION-364: When an agent's own processes revise its will-organization, what makes the result the continuation of that agent's will rather than a replacement authored by something else, and how can a history of authorization count when the standards for reading authorization are themselves revised?
@@ -85,8 +85,8 @@ The readings filed on this date bear on this question three ways.
   and Chia hold that applying a category to a nonprototypical case is
   "an imaginative extension" that extends "the radius of application of
   the concept, thus transforming it", and that "the application of a
-  concept is always a normative act" ([LIT-tmpls0y0](../literature.d/LIT-tmpls0y0.md), p. 574;
-  [THEORY-tmp9bte2](../theory.d/THEORY-tmp9bte2.md)). Change of that kind "occurs naturally, incrementally,
+  concept is always a normative act" ([LIT-1913](../literature.d/LIT-1913.md), p. 574;
+  [THEORY-1279](../theory.d/THEORY-1279.md)). Change of that kind "occurs naturally, incrementally,
   and inexorably through 'creep,' 'slippage,' and 'drift'" (p. 579). If
   the standards by which an organization reads authorization are
   categories of this kind, a history of authorization may contain no
@@ -95,7 +95,7 @@ The readings filed on this date bear on this question three ways.
   criterion of continuation cannot assume that revisions of the
   authorizing standard are discrete acts that can be checked one by one.
 - **A revision of the standard made in the act.** In the MSF meeting
-  ([LIT-tmp3mudg](../literature.d/LIT-tmp3mudg.md), pp. 1359–1363), Robert first applies MSF's standard,
+  ([LIT-1902](../literature.d/LIT-1902.md), pp. 1359–1363), Robert first applies MSF's standard,
   "MSF [is] ... not a university", "[they] are not here as educators"
   (p. 1362). He then extends it until an "ad hoc training program" falls
   inside, and ends with "at first sight, I don't have major objections"
@@ -111,6 +111,6 @@ The readings filed on this date bear on this question three ways.
   "enlist friends ... and start a local nonprofit", placing the urge in a
   collective (p. 1356). The person continues by relocating the demand,
   not by revising their own will-organization. Whether that counts as
-  continuation is filed as part of [QUESTION-tmp3wvgk](QUESTION-tmp3wvgk.md).
+  continuation is filed as part of [QUESTION-365](QUESTION-365.md).
 
 None of the three supplies a criterion. No status, title or warrant changes.

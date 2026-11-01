@@ -28,7 +28,7 @@ summary: >-
 refined_by:
 - QUESTION-057
 ---
-<!-- inactive-ok-file: THEORY-tmpuh0eb — Proposed; Bencherki's account of authorship, set beside this question -->
+<!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account of authorship, set beside this question -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; set aside, and cited to say what was set aside with it -->
 
 # QUESTION-011: What makes a will-organization the agent's own, rather than merely effective within it?
@@ -62,7 +62,7 @@ limit again. It is worked on the will line as [QUESTION-071](QUESTION-071.md) (n
 
 ## Note of 2026-10-31: ownership as partial and plural, and manipulation as control of recognition
 
-Bencherki (2017; [LIT-tmp1rpyl](../literature.d/LIT-tmp1rpyl.md), read in [NOTE-tmp4ysch](../notes.d/NOTE-tmp4ysch.md); [THEORY-tmpuh0eb](../theory.d/THEORY-tmpuh0eb.md))
+Bencherki (2017; [LIT-1901](../literature.d/LIT-1901.md), read in [NOTE-1482](../notes.d/NOTE-1482.md); [THEORY-1285](../theory.d/THEORY-1285.md))
 bears on this question two ways. The status stays Deferred with its
 line.
 
