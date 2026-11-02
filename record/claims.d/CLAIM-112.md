@@ -12,7 +12,7 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 works:
-- what-survives-translation
+- WORK-002
 summary: >-
   A38 §10.1 and A40 §13.1. The manuscript's conclusion keeps it: the
   question is "neither whether a translation duplicates an invariant

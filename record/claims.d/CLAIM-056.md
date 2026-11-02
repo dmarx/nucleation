@@ -59,7 +59,7 @@ tags:
 date: '2026-10-08'
 line: pragmatic-transport
 works:
-- what-survives-translation
+- WORK-002
 rests_on:
 - CLAIM-106
 - CLAIM-267

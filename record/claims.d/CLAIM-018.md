@@ -43,7 +43,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
-- organization-of-will
+- WORK-001
 grounds:
 - LIT-1861
 - LIT-1876

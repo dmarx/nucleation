@@ -46,7 +46,7 @@ line:
 
 # Optional. The manuscript(s) this claim is marshalled into.
 # works:
-# - organization-of-will
+# - WORK-001
 
 # Relations, each optional; converses are written by `luria link --fix`.
 # `rests_on` names the record's own claims this one could not stand without —

@@ -14,7 +14,7 @@ tags:
 date: '2026-10-23'
 line: distributed-agency
 works:
-- organization-of-perspective
+- WORK-005
 summary: >-
   Proposed at A4 of the exchange of 2026-10-23, "Framework Overview
   Request", as an extension of [CASE-101](CASE-101.md). It asks which components carry a

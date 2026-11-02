@@ -1,0 +1,99 @@
+{#- record/views.d/manuscript.md.j2
+    Macros every manuscript view imports (ADR-068). A per-work template is
+    two lines: import, then call with the WORK's code. Layout only; the
+    text is the WORK's and its SECTIONs'. -#}
+
+{%- macro latest(d) -%}
+{%- set ns = namespace(v=d.date | string) -%}
+{%- if d.history is defined and d.history -%}
+{%- for h in d.history if h.date is defined and (h.date | string) > ns.v -%}{%- set ns.v = h.date | string -%}{%- endfor -%}
+{%- endif -%}
+{{ ns.v }}
+{%- endmacro -%}
+
+{%- macro manuscript(code) -%}
+{%- set w = doc(code) -%}
+# {{ w.title }}
+{{ "\n*" ~ w.subtitle ~ "*\n" if w.subtitle is defined else "" }}
+## Abstract
+
+{{ w.part("Abstract") }}
+{% for s in w.sections %}
+
+## {{ loop.index }}. {{ s.title }}
+
+{{ s.part("Manuscript text") }}
+{% endfor %}
+
+---
+
+*Assembled from {{ w.code }} and its sections. Edit those, not this page.
+What each section asserts and discusses, and how that stands in the record,
+is in the ledger.*
+{%- endmacro -%}
+
+{%- macro row(c, since, text) -%}
+| {{ c.code }} | {{ c.status }}{% if c.warrant is defined and c.warrant %}, {{ c.warrant }}{% endif %} | {{ c.title | truncate(160) }} |{% if latest(c) > since %} revised {{ latest(c) }}{% endif %}{% if c.code not in text %} **in no paragraph**{% endif %} |
+{%- endmacro -%}
+
+{%- macro ledger(code) -%}
+{%- set w = doc(code) -%}
+# {{ w.title }}: ledger
+
+What each section of {{ w.code }} does with the record's argument. A section
+**asserts** what it stakes the work on and **discusses** what it uses without
+staking the work on it; each paragraph says which in a directive. A claim's
+status is the record's credence, not the manuscript's: asserting a Proposed
+claim is staking the work on something the record has not accepted. "Revised"
+marks an entry changed after the section was last revised, so the prose may
+be stale. "In no paragraph" marks a field entry that no paragraph's
+directive states any more: the prose it anchored was cut.
+{% set ns = namespace(placed=[], staked=[]) %}
+{%- for s in w.sections %}
+{%- set since = latest(s) %}
+{%- set text = s.part("Manuscript text") %}
+
+## {{ loop.index }}. {{ s.title }} ({{ s.code }}, revised {{ since }})
+
+| Asserts | Status | Title | Flags |
+|---|---|---|---|
+{% for c in s.asserts -%}
+{{ row(c, since, text) }}
+{% set ns.placed = ns.placed + [c.code] -%}
+{% if c.status != "Active" %}{% set ns.staked = ns.staked + [c] %}{% endif -%}
+{% else -%}
+| — | | | |
+{% endfor %}
+| Discusses | Status | Title | Flags |
+|---|---|---|---|
+{% for c in s.discusses -%}
+{{ row(c, since, text) }}
+{% set ns.placed = ns.placed + [c.code] -%}
+{% else -%}
+| — | | | |
+{% endfor -%}
+{% endfor %}
+
+## Staked but not held
+
+Asserted by a section while the record does not hold them Active.
+
+{% for c in ns.staked | unique(attribute="code") -%}
+- {{ c.code }} ({{ c.status }}): {{ c.title | truncate(200) }}
+{% else -%}
+- None.
+{% endfor %}
+
+## Members not placed
+
+In {{ w.code }} but neither asserted nor discussed by any section: dropped, or
+not yet written in.
+
+{% set ns2 = namespace(any=false) -%}
+{% for c in docs("CLAIM") if code in (c.works | map(attribute="code") | list) and c.code not in ns.placed -%}
+{% set ns2.any = true -%}
+- {{ c.code }} ({{ c.status }}): {{ c.title | truncate(200) }}
+{% endfor -%}
+{% if not ns2.any %}- None.
+{% endif %}
+{%- endmacro -%}

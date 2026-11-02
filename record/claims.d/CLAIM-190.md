@@ -24,7 +24,7 @@ tags:
 date: '2026-10-12'
 line: nucleating-argument
 works:
-- luria-nucleating-an-argument
+- WORK-003
 rests_on:
 - CLAIM-181
 - CLAIM-264

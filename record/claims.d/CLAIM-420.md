@@ -46,8 +46,8 @@ line:
 complements:
 - CLAIM-329
 works:
-- organization-of-perspective
-- character-that-changed-parties
+- WORK-005
+- WORK-008
 uses:
 - TERM-084
 summary: >-

@@ -32,7 +32,7 @@ concludes:
 - CLAIM-000
 # The TERMs the inference is stated in, and the manuscripts it is argued in.
 # uses: [TERM-000]
-# works: [organization-of-will]
+# works: [WORK-001]
 
 tags:
 - agency

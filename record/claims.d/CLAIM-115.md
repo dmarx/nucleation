@@ -56,7 +56,7 @@ tags:
 date: '2026-10-09'
 line: pragmatic-transport
 works:
-- what-survives-translation
+- WORK-002
 answers:
 - QUESTION-002
 supersedes:

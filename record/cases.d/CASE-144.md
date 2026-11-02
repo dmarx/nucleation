@@ -20,7 +20,7 @@ tags:
 date: '2026-10-23'
 line: distributed-agency
 works:
-- organization-of-perspective
+- WORK-005
 summary: >-
   Proposed in the exchange of 2026-10-23, "Framework Overview Request",
   at A5 (section 5) with A4's "corrigibility trap", after the owner asked

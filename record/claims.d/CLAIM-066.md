@@ -22,7 +22,7 @@ line: pragmatic-transport
 superseded_by:
 - ARG-035
 works:
-- what-survives-translation
+- WORK-002
 grounds:
 - THEORY-155
 - LIT-771

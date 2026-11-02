@@ -33,8 +33,8 @@ tags:
 - complex-systems
 date: '2026-10-13'
 works:
-- self-as-recursive-ecology
-- the-individual-and-its-conditions
+- WORK-004
+- WORK-010
 line:
 - distributed-agency
 grounds:

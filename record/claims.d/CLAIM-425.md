@@ -23,7 +23,7 @@ date: '2026-10-22'
 line:
 - distributed-agency
 works:
-- self-without-a-sovereign
+- WORK-006
 rests_on:
 - CLAIM-415
 - CLAIM-349

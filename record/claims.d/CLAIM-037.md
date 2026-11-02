@@ -51,7 +51,7 @@ line:
 - pragmatic-transport
 - formal-apparatus
 works:
-- what-survives-translation
+- WORK-002
 rests_on:
 - CLAIM-374
 grounds:

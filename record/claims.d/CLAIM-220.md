@@ -50,7 +50,7 @@ uses:
 supersedes:
 - CLAIM-115
 works:
-- what-survives-translation
+- WORK-002
 bears_on:
 - QUESTION-021
 summary: >-

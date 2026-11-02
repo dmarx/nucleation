@@ -23,7 +23,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
-- organization-of-will
+- WORK-001
 undercuts:
 - ARG-003
 summary: >-

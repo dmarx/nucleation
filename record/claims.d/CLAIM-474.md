@@ -50,7 +50,7 @@ date: '2026-10-27'
 line:
 - distributed-agency
 works:
-- the-individual-and-its-conditions
+- WORK-010
 rests_on:
 - CLAIM-471
 - CLAIM-480

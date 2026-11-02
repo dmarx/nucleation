@@ -12,7 +12,7 @@ tags:
 date: '2026-10-23'
 line: distributed-agency
 works:
-- organization-of-perspective
+- WORK-005
 refines:
 - QUESTION-259
 summary: >-

@@ -50,7 +50,7 @@ line:
 - pragmatic-transport
 - formal-apparatus
 works:
-- what-survives-translation
+- WORK-002
 uses:
 - TERM-027
 summary: >-

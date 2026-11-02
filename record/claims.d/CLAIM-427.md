@@ -68,7 +68,7 @@ date: '2026-10-23'
 line:
 - distributed-agency
 works:
-- organization-of-perspective
+- WORK-005
 rests_on:
 - CLAIM-414
 complements:

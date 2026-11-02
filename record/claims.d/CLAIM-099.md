@@ -17,7 +17,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
-- organization-of-will
+- WORK-001
 uses:
 - TERM-023
 - TERM-020

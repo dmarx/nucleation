@@ -82,7 +82,7 @@ date: '2026-10-13'
 answers:
 - QUESTION-092
 works:
-- self-as-recursive-ecology
+- WORK-004
 line:
 - distributed-agency
 rests_on:

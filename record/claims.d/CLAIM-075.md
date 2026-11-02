@@ -13,7 +13,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
-- organization-of-will
+- WORK-001
 summary: >-
   Sections 6.10 and 7.3: "An unjust institution may be highly viable."
   Viability licenses conditional functional judgment only.

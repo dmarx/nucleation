@@ -66,9 +66,9 @@ complements:
 - CLAIM-328
 - CLAIM-420
 works:
-- organization-of-perspective
-- character-that-changed-parties
-- the-individual-and-its-conditions
+- WORK-005
+- WORK-008
+- WORK-010
 uses:
 - TERM-084
 summary: >-

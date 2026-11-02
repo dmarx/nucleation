@@ -2,7 +2,7 @@
 
 # ARGs with `works` `self-as-recursive-ecology`
 
-*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
+*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
 
 **The Self as a Recursive Ecology of Meaning and Influence** — the owner's manuscript idea, proposed 2026-10-13 from an exchange on meaning operators: a self as a metastable, recursively composed organization of processes that transform shared meaning and allocate authority to one another by endorsement, with trust, specialization and higher-level agency emerging rather than imposed; r/place as the observable case, and a constitutive question kept apart from the explanatory one.
 
