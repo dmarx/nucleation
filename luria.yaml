@@ -626,6 +626,13 @@ vocabularies:
           political authority. Legal continuity makes an international commitment the state''s, but its durability
           depends on processes on different timescales that reproduce, contest and transform the authority through
           which it is enacted; the Paris Agreement as the case'
+      the-individual-and-its-conditions:
+        label: 'The Individual and Its Conditions'
+        blurb: 'the owner''s philosophy article, drafted 2026-10-31 to 2026-11-01 from the exchange "Explain
+          Nucleation Website": Causal Provenance and Organizational Individuation. An organization''s present
+          unity does not reveal the stability or the provenance of the processes maintaining it; provenance
+          constrains but does not settle constitution; and an organized product and the processes maintaining
+          it need not share a boundary or make one producer'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).
