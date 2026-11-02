@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-16'
@@ -52,6 +52,13 @@ history:
     Note of 2026-10-29 added, from the readings of Flack 2012
     (NOTE-1351) and Medrano, Friston and Zeidman
     (NOTE-1383). The claim is unchanged.
+- version: 10
+  date: '2026-11-02'
+  note: >-
+    Note of 2026-11-02 added, from the reading of Yang and Abanin
+    (NOTE-tmpxpf7y): what slowness marks is relative to an environment
+    and a measure of size, and moves with the environment's strength.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -265,5 +272,24 @@ Two works read on this date bear on the facet. Neither is a test of it.
   analysis, they are not evidence that levels are slower. What it adds
   is a test for when a slower level earns its place: the free-energy
   comparison of models with and without it.
+
+The claim is unchanged.
+
+## Note of 2026-11-02: Yang and Abanin, read
+
+Yang and Abanin 2025 (NOTE-tmpxpf7y; THEORY-tmpggrkf) give a physical case
+for the claim's "a mark and not its definition", from a side the earlier
+notes did not cover. In a closed many-body system, nothing decays, so slowness
+ranks nothing. Once weak local noise is added, the slowest modes are the
+small conserved quantities. But that ranking presupposes a noise model that
+punishes size, and a split into sites that defines size. Under a channel
+that leaves one large operator alone, that operator is slow without being
+small (their Appendix B). The ranking also moves with the noise strength.
+At γ = 0.1 an approximate conservation law overtakes the exact H² that ranks
+above it at γ = 10⁻³ (their Fig. 6). The authors' gloss is "a model that
+looks chaotic on a long time scale may look less chaotic at shorter times".
+So which variables slowness marks depends on the window of observation that
+the environment sets. That is a reason, beyond CASE-116's arm A, not to let
+slowness define a level.
 
 The claim is unchanged.

@@ -82,3 +82,19 @@ limit taken ([NOTE-1015](../notes.d/NOTE-1015.md)).
   μ only the eigenspace is fixed.
 - **Not a reading of Turner and Sahani** ([LIT-1287](../literature.d/LIT-1287.md), Unavailable),
   though its noise-free mixing model is of their kind.
+
+## Note of 2026-11-02: a quantum parallel
+
+Yang and Abanin 2025 (NOTE-tmpxpf7y; THEORY-tmpggrkf) have a generator that
+is not self-adjoint: a weakly dissipative Lindbladian, whose Hamiltonian
+part is anti-Hermitian. In it the slowest-decaying operators, small
+conserved quantities, nearly coincide with the slowest eigenoperators. The
+leak out of the conserved direction is bounded by ε over a gap, small when
+ε ≲ γ ≪ 1, an argument they make at first order and check at small sizes.
+Under a noise channel that is itself not Hermitian, the slow eigenoperators
+lose their orthogonality. This is a parallel, not a test: the setting is
+not linear Gaussian, and what they compare is norm decay against
+eigenoperators, not slow features against closure. It shows the
+off-reversibility worry can be tamed by a small parameter where one exists.
+
+The claim is unchanged.
