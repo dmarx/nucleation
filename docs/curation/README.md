@@ -6,14 +6,15 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [1 Nov 15:36 — Metzinger's later work: five works read (one in part), two not reachable, Being No One retried; mental autonomy read against the will line and minimal phenomenal experience against evidence for experience](2026-11.md#metzingers-later-work-five-works-read-one-in-part-two-not-reachable-being-no-one-retried-mental-autonomy-read-against-the-will-line-and-minimal-phenomenal-experience-against-evidence-for-experience)
 - [1 Nov 05:49 — Mechanistic constitution, dynamical mechanistic explanation and scaffolded individuality: eleven works registered and five read, Griesemer and Shavit re-read, and what the debate over constitutive relevance does to the record's maintenance claims](2026-11.md#mechanistic-constitution-dynamical-mechanistic-explanation-and-scaffolded-individuality-eleven-works-registered-and-five-read-griesemer-and-shavit-re-read-and-what-the-debate-over-constitutive-relevance-does-to-the-records-maintenance-claims)
 
 ## All books
 
-198 entries across 3 books, newest first.
+199 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 1 | 2026-11-01 | 2026-11-01 |
+| [2026-11](2026-11.md) | 2 | 2026-11-01 | 2026-11-01 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

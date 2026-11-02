@@ -2,11 +2,17 @@
 
 # Lines of work
 
-84 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+85 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
 ## agency
+
+### From The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy
+
+- [LIT-1942](../record/literature.d/LIT-1942.md) — The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy *(Active)*
+  - [LIT-1941](../record/literature.d/LIT-1941.md) — M-Autonomy *(Active)*
+    - [LIT-1945](../record/literature.d/LIT-1945.md) — The Problem of Mental Action: Predictive Control without Sensory Sheets *(Active)*
 
 ### From The Society of Mind
 
@@ -297,6 +303,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1460](../record/literature.d/LIT-1460.md) — Semiorders and a Theory of Utility Discrimination *(Unavailable)*
   - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unfetched)*
+
+### From The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy
+
+- [LIT-1942](../record/literature.d/LIT-1942.md) — The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy *(Active)*
+  - [LIT-1941](../record/literature.d/LIT-1941.md) — M-Autonomy *(Active)*
+    - [LIT-1945](../record/literature.d/LIT-1945.md) — The Problem of Mental Action: Predictive Control without Sensory Sheets *(Active)*
 
 ### From Psychological Predicates
 
@@ -1141,6 +1153,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-885](../record/literature.d/LIT-885.md) — Relevance in the Renormalization Group and in Information Theory *(Active)*
 
 ## self
+
+### From The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy
+
+- [LIT-1942](../record/literature.d/LIT-1942.md) — The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy *(Active)*
+  - [LIT-1941](../record/literature.d/LIT-1941.md) — M-Autonomy *(Active)*
+    - [LIT-1945](../record/literature.d/LIT-1945.md) — The Problem of Mental Action: Predictive Control without Sensory Sheets *(Active)*
 
 ### From Being No One: The Self-Model Theory of Subjectivity
 

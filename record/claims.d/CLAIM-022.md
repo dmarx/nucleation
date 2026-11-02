@@ -59,3 +59,30 @@ say"). This claim's disclaimer holds, in another literature: explaining
 how action comes to be counted as someone's does not settle whose it is.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-01: attribution and efficacy come apart in Metzinger's mental autonomy
+
+<!-- inactive-ok: THEORY-1298 — Proposed; the reading this note reports, cited as open -->
+
+Metzinger ([LIT-1941](../literature.d/LIT-1941.md), [LIT-1942](../literature.d/LIT-1942.md)) separates what makes a thought
+effective from what makes it the person's, in both directions.
+
+- **Owned and not controlled.** Mind-wandering has "ownership without
+  agency" ([LIT-1941](../literature.d/LIT-1941.md), p. 272): the thoughts are phenomenally one's own
+  while no control of them is exercised.
+- **Attributed and not caused.** The return of control is represented as
+  self-caused, "I generated this insight myself!", even when "really
+  triggered by unconscious events", to keep the self-model continuous
+  (p. 291; [THEORY-1298](../theory.d/THEORY-1298.md)).
+- **Whose, settled elsewhere.** A process "only becomes part of a
+  personal-level process by being functionally integrated into ... the
+  'epistemic agent model' (EAM), and by being embedded into a highly
+  specific sociocultural context" of mutual ascription (p. 296).
+
+So in this literature the person's thought is fixed by a representation
+and a social practice, not by what was effective, which is this claim's
+disclaimer in another form. It does not settle whose the will is either:
+[LIT-1945](../literature.d/LIT-1945.md) adds that the standard of self-attribution is installed by
+caregivers before memory (pp. 20–21), the issue [QUESTION-364](../questions.d/QUESTION-364.md) takes up.
+
+No status, title or warrant changes.

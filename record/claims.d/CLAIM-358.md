@@ -266,3 +266,25 @@ compares.
   is cheaper.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-01: model-free and model-based self-control of thought
+
+<!-- inactive-ok: THEORY-1296 — Proposed; the reading this note reports, cited as open -->
+
+Metzinger's chapter on mental action ([LIT-1945](../literature.d/LIT-1945.md), read in [NOTE-1496](../notes.d/NOTE-1496.md))
+draws this claim's contrast at the scale of thought, without costs.
+"Mind wandering is model-free epistemic self-control, whereas mental
+agency is model-based epistemic self-control" (p. 15); mind-wandering is
+"self-regulation on the mental level without an explicit model of the
+'epistemic plant'", and mental action "precisely the rare, special case
+where we actually operate under a conscious and explicit model of
+ourselves as epistemic agents" (p. 17). Model-based control comes with "a
+specific sense of effort, a sort of resistance" (p. 10).
+
+That matches the claim's two regimes: most regulation without a mediator,
+and a costly, recruited higher-level mode. Same structure, not shown same
+mechanism. Nothing in the chapter prices either mode, and its unmediated
+mode is not an accommodation among disagreeing processes but a stream that
+supplies them. It is no evidence for the amortization the claim states.
+
+No status, title or warrant changes.

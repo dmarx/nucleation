@@ -153,3 +153,29 @@ context", created largely by senior managers (p. 579, after Burgelman).
 They do not analyse it further. [TERM-023](../terms.d/TERM-023.md) is an analysis of it.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-01: mind-wandering splits into a content-driven onset and an efficacy-driven return
+
+<!-- inactive-ok: THEORY-1300 ARG-051 — Proposed; the reading and the inference this note reports, cited as open -->
+
+Metzinger's account of mind-wandering ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md)) bears
+on this claim in two halves, and only one is on its side.
+
+- **The onset is the defeater's route.** Episodes are started by
+  "introspectively inaccessible goal representations", "postponed
+  goal-states which have been environmentally cued by goal-related stimuli
+  under high cognitive load" ([LIT-1942](../literature.d/LIT-1942.md), p. 13; [LIT-1941](../literature.d/LIT-1941.md), p. 275).
+  A change in which process controls thought is then predicted by a change
+  in a goal state, as the defeated_if describes.
+- **The return is this claim's form.** Control comes back when the
+  self-model again represents the capacity, "caused by an unconscious
+  event, perhaps by chance" ([LIT-1941](../literature.d/LIT-1941.md), p. 283), with no change in what
+  the person pursues proposed ([THEORY-1300](../theory.d/THEORY-1300.md)). In a meditation retreat
+  the instruction, return to the breath, is fixed throughout, and what
+  varies is whether the capacity to return is effective (p. 288).
+
+Neither half is an intervention with the proposals held fixed, so the
+case is recorded here and not as a ground. [ARG-051](../arguments.d/ARG-051.md) states the
+verdict for [CLAIM-027](CLAIM-027.md).
+
+No status, title or warrant changes.

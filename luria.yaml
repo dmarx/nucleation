@@ -565,7 +565,7 @@ vocabularies:
   work-stages:
     label: Work stages
     blurb: How far a manuscript has got, kept apart from its status, which says only whether the work
-      is still live (ADR-067).
+      is still live (ADR-068).
     terms:
       idea:
         label: Idea
@@ -969,7 +969,7 @@ schemes:
       works:
         label: In works
         blurb: the manuscripts this is marshalled into. Membership is independent of credence (ADR-032,
-          ADR-067)
+          ADR-068)
         scheme: WORK
         required: false
         many: true
@@ -1024,6 +1024,7 @@ schemes:
         closed: true
       line:
         vocabulary: lines
+        many: true
         required: true
     axis: line
     retires_on: Superseded
@@ -1038,7 +1039,7 @@ schemes:
       works:
         label: In works
         blurb: the manuscripts this is marshalled into. Membership is independent of credence (ADR-032,
-          ADR-067)
+          ADR-068)
         scheme: WORK
         required: false
         many: true
@@ -1220,7 +1221,7 @@ schemes:
       works:
         label: In works
         blurb: the manuscripts this is marshalled into. Membership is independent of credence (ADR-032,
-          ADR-067)
+          ADR-068)
         scheme: WORK
         required: false
         many: true
@@ -1312,6 +1313,8 @@ schemes:
         closed: true
       line:
         vocabulary: lines
+        many: true
+        required: true
     axis: tags
     retires_on: Superseded
     successor: superseded_by
@@ -1387,6 +1390,7 @@ schemes:
         closed: true
       line:
         vocabulary: lines
+        many: true
     axis: tags
     retires_on: Superseded
     successor: superseded_by
@@ -1400,7 +1404,7 @@ schemes:
       works:
         label: In works
         blurb: the manuscripts this is marshalled into. Membership is independent of credence (ADR-032,
-          ADR-067)
+          ADR-068)
         scheme: WORK
         required: false
         many: true
@@ -1482,13 +1486,15 @@ schemes:
         closed: true
       line:
         vocabulary: lines
+        many: true
+        required: true
     axis: tags
     retires_on: Superseded
     successor: superseded_by
   WORK:
     # A manuscript the record's argument is marshalled into: its status,
     # stage, abstract and, where its prose is held here, its ordered
-    # SECTIONs. Was the `works` vocabulary until ADR-067.
+    # SECTIONs. Was the `works` vocabulary until ADR-068.
     dir: record/works.d
     output: docs/works
     active: Active
@@ -1541,7 +1547,7 @@ schemes:
     # what the view transcludes. Each paragraph says what it does with the
     # record's argument in a `ref::asserts` or `ref::discusses` directive,
     # which `luria link --fix` pushes up into these fields; the ledger flags
-    # a field entry no paragraph states any more (ADR-067).
+    # a field entry no paragraph states any more (ADR-068).
     dir: record/sections.d
     output: docs/sections
     active: Active
@@ -1582,7 +1588,6 @@ schemes:
     axis: status
     retires_on: Superseded
     successor: superseded_by
-
 remotes:
   ARXIV:
     name: arXiv
@@ -1743,7 +1748,7 @@ patterns:
   argued_for_undercut:
     match: (c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)
     output: docs/arguments-by-conclusion.md
-  # The manuscript audit (ADR-067): what CLAIM-324 counted by hand. Each
+  # The manuscript audit (ADR-068): what CLAIM-324 counted by hand. Each
   # is a warning class; none fails a build until it has been fired and seen
   # to hold at zero.
   unplaced_in_work:
@@ -1770,7 +1775,7 @@ patterns:
 views:
   # A manuscript is a view over its WORK and SECTIONs: a reading copy, and a
   # ledger of what each section does with the argument. The templates are
-  # two lines each over a shared macro (ADR-067).
+  # two lines each over a shared macro (ADR-068).
   the-individual-and-its-conditions:
     template: record/views.d/the-individual-and-its-conditions.md.j2
     output: docs/manuscripts/the-individual-and-its-conditions.md

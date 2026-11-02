@@ -2,11 +2,11 @@
 
 # ARGs with `works` `what-survives-translation`
 
-*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
+*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
 
 **What Survives Translation?** — the owner's working manuscript, drafted October 2026: contextual pragmatic information transport, combining structuralism, speech-act pragmatics, sheaf-theoretic contextuality, symmetry, rate–distortion and Blackwell comparison, conditional diffusion and iterated learning.
 
-5 of 50 ARG documents. Back to the [full index](../README.md).
+5 of 51 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -18,6 +18,9 @@ kind: specimen
 tags:
 - social-ontology
 - agency
+line:
+- will-organization
+- organizational-affect
 date: '2026-10-04'
 summary: >-
   The real corporation the first framing asked about. Committed to as a

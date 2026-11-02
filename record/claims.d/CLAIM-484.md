@@ -114,3 +114,31 @@ The episode does not meet the need this claim's note of 2026-10-29
 records. No claim or grant is recorded independently of the marks, and
 the reading of the marks "leans on supposition" ([NOTE-1484](../notes.d/NOTE-1484.md)). No
 status, title or warrant changes.
+
+## Note of 2026-11-01: mental effort as a collision of claim and grant, proposed
+
+<!-- inactive-ok: THEORY-1296 — Proposed; the reading this note reports, cited as open -->
+
+Metzinger's chapter on mental action ([LIT-1945](../literature.d/LIT-1945.md), p. 10, read in
+[NOTE-1496](../notes.d/NOTE-1496.md)) gives the nearest thing in the record to the episode this
+claim's note of 2026-10-29 asks for, at the scale of attention, as a
+speculation: "Perhaps we can describe this experiential tension as the way
+in which active, top-down precision control 'collides' with an
+automatically arising precision prediction error. If so, one might
+speculate that the temporal curve in which the phenomenal sense of agency
+unfolds over time exactly reflects this 'collision' and its eventual
+resolution."
+
+In this claim's terms the bottom-up prediction error claims precision, the
+top-down allocation is the grant, and the felt effort is the mark. The
+three are defined apart, which is what the MSF transcript could not
+supply. If the passage held, gap and mark could be measured separately and
+seen to vary together. It is offered with no study, and Metzinger has no
+account of how attentional action starts (p. 22).
+
+The same readings give the case the claim allows as no gap: the onset of
+mind-wandering is unnoticed ([LIT-1942](../literature.d/LIT-1942.md), p. 9), so a stream that claims
+attention is granted it with no mark. Same structure, not shown same
+mechanism. Neither meets the need.
+
+No status, title or warrant changes.

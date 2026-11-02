@@ -10,6 +10,7 @@ kind: specimen
 tags:
 - social-ontology
 - agency
+line: distributed-agency
 date: '2026-10-04'
 superseded_by:
 - CASE-025

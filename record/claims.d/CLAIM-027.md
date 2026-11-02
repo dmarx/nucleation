@@ -207,3 +207,32 @@ meets its defeated_if. The two arguments stay Proposed. Their unanswered
 critical questions are what would demote this claim, so an intervention
 that holds the regimes fixed and changes R with nothing else changing is
 the test the record most owes it.
+
+## Note of 2026-11-01: mind-wandering as a mental-scale instance, and the test Metzinger names
+
+<!-- inactive-ok: THEORY-1297 THEORY-1300 THEORY-1296 ARG-051 QUESTION-367 — Proposed or Open; the readings, the inference and the question this note reports, cited as open -->
+
+Metzinger's work on mental autonomy ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md),
+[LIT-1945](../literature.d/LIT-1945.md)) was read for this claim. It is filed as [ARG-051](../arguments.d/ARG-051.md), a third
+line beside [ARG-005](../arguments.d/ARG-005.md) and [ARG-009](../arguments.d/ARG-009.md), Proposed.
+
+- **What it would add.** In mind-wandering the capacity to suspend or end
+  one's own train of thought is kept, "not the ability itself" is lost
+  ([LIT-1941](../literature.d/LIT-1941.md), p. 282), and it is not effective until its representation
+  in the self-model returns ([THEORY-1300](../theory.d/THEORY-1300.md)). That is suspension at the
+  individual scale. [ARG-005](../arguments.d/ARG-005.md) says jurisdiction and suspension "have only
+  institutional examples"; this would be the first in one mind.
+- **Why it does not yet support the claim.** Metzinger traces the onset of
+  an episode to cued, unconscious goal states ([LIT-1942](../literature.d/LIT-1942.md), p. 13), which
+  is a content route; only the return is put down to something else. And
+  in 2017 he says the data cannot decide whether the self-model's
+  representation does any causal work ([LIT-1945](../literature.d/LIT-1945.md), pp. 13–14).
+- **The test.** His H1 and H3 ([LIT-1945](../literature.d/LIT-1945.md), p. 14), blocking or restoring
+  the epistemic agent model and watching whether control ends or returns,
+  are interventions on a condition of efficacy. Run with the task, the
+  competing thoughts and an externally cued measure of the ability held
+  fixed, they would be the intervention this claim's note of 2026-10-28
+  says the record most owes it, at the scale of thought. Neither is
+  reported run in these papers.
+
+No status, title or warrant changes.

@@ -10,6 +10,7 @@ kind: thought-experiment
 tags:
 - social-ontology
 - agency
+line: distributed-agency
 date: '2026-10-04'
 illustrates:
 - CLAIM-030

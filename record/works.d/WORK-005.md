@@ -36,6 +36,6 @@ lineage, the agents it serves and phenomenal subjectivity; Clive Wearing,
 Challenger and aviation safety, party realignment and commitments across
 political succession as its cases
 
-Until [ADR-067](../decisions.d/ADR-067.md) this work was the `works` vocabulary term `organization-of-perspective`.
+Until [ADR-068](../decisions.d/ADR-068.md) this work was the `works` vocabulary term `organization-of-perspective`.
 
 Its prose lives outside the record; members carry section pointers in their summaries.

@@ -23,4 +23,4 @@ memory that makes structures persist gives it anchors to grow on, and the
 manuscript becomes a view over the argument rather than its only copy.
 luria is the tool and this record the case
 
-Until [ADR-067](../decisions.d/ADR-067.md) this work was the `works` vocabulary term `luria-nucleating-an-argument`.
+Until [ADR-068](../decisions.d/ADR-068.md) this work was the `works` vocabulary term `luria-nucleating-an-argument`.

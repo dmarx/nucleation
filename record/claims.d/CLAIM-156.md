@@ -158,3 +158,37 @@ read measures discounting and choice under temptation before and after
 practice and asks whether discounting mediates the change. Morrison et
 al. measured discounting only and found it moved. Dixon et al. ([LIT-906](../literature.d/LIT-906.md))
 and Ge et al. ([LIT-916](../literature.d/LIT-916.md)) are known only as summaries.
+
+## Note of 2026-11-01: Metzinger, meditation as cultivating M-autonomy
+
+<!-- inactive-ok: THEORY-1297 THEORY-1300 THEORY-1298 — Proposed; the readings this note reports, cited as open -->
+
+Metzinger ([LIT-1942](../literature.d/LIT-1942.md), p. 15; [LIT-1941](../literature.d/LIT-1941.md), p. 288) calls classical
+mindfulness meditation "a systematic and formal mental practice of
+cultivating M-autonomy", the veto-centred capacity to suspend or end one's
+own ongoing mental processes ([THEORY-1297](../theory.d/THEORY-1297.md)). Three things follow for
+this claim.
+
+- **The route matches, at the scale of thought.** On his account practice
+  changes whether ongoing mental processes can be suspended, not what is
+  valued, which is this claim's route ("which of them may act"). Same
+  structure, not shown same mechanism: his object is trains of thought,
+  not choices under temptation, and he says nothing about valuation or
+  discounting. The defeat condition is not reached either way.
+- **The mature stage has no suspender.** Focused practice has "an equally
+  recurring second-order mental action", the return to the breath, with an
+  epistemic agent model; advanced open monitoring is "meta-awareness
+  without an EAM", "effortless and non-agentive" ([LIT-1941](../literature.d/LIT-1941.md), pp.
+  288–289). If mindfulness integrates by suspension, in its mature form it
+  is suspension that no represented controller performs. That fits the
+  claim's ACT reading (decentering is not a self), and it means the claim
+  should not describe the mature case as an act of noticing.
+- **Reports cannot carry the mechanism.** A meditator's "I have just
+  realized that I was daydreaming and redirected my attention" "may be
+  false" as a description of what did the work, "a shift in the
+  subpersonal self-model that is then misdescribed" ([LIT-1942](../literature.d/LIT-1942.md), p. 4;
+  [LIT-1941](../literature.d/LIT-1941.md), p. 289; [THEORY-1298](../theory.d/THEORY-1298.md)). Evidence for this claim's route
+  therefore has to come from behaviour, as its "What would tell the routes
+  apart" already asks, not from reports of noticing.
+
+No status, title or warrant changes.

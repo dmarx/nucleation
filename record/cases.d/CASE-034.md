@@ -10,6 +10,7 @@ kind: thought-experiment
 tags:
 - agency
 - complex-systems
+line: will-organization
 date: '2026-10-04'
 illustrates:
 - CLAIM-116

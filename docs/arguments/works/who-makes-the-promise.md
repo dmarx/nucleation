@@ -2,11 +2,11 @@
 
 # ARGs with `works` `who-makes-the-promise`
 
-*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree ([ADR-032](../../../record/decisions.d/ADR-032.md)).*
+*Works — A manuscript the record's claims are marshalled into. Membership says a claim is in the work; whether the record believes it is the status, and the two disagree (ADR-032).*
 
 **Who Makes the Promise When Governments Change?** — the owner's essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning Applications" (A33), later folded into organization-of-perspective: the state as a changing ecology of political authority. Legal continuity makes an international commitment the state's, but its durability depends on processes on different timescales that reproduce, contest and transform the authority through which it is enacted; the Paris Agreement as the case.
 
-0 of 50 ARG documents. Back to the [full index](../README.md).
+0 of 51 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -140,3 +140,33 @@ Two of the readings filed on this date bear on this claim.
   ([THEORY-1285](../theory.d/THEORY-1285.md)).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-01: the three achievements in one mind
+
+<!-- inactive-ok: THEORY-1300 QUESTION-367 — Proposed or Open; the reading and the question this note reports, cited as open -->
+
+Metzinger's work on mind-wandering ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md)) has
+instances of two of this claim's separations within one person. Same
+structure, not shown same mechanism: the discrepancy is being off task,
+not a normative demand on an organization.
+
+- **Legible, and no volitional efficacy.** Noticing that one has been
+  mind-wandering can itself start a second episode: "Oops, I have just
+  been daydreaming again!" leads to "another train of thought about having
+  regained meta-awareness", with "a new phenomenal UI ... but the
+  functional properties characterizing M-autonomy are not realized"
+  ([LIT-1942](../literature.d/LIT-1942.md), p. 14).
+- **Correction without legibility.** "Successful inhibition can be an
+  entirely subpersonal process" ([LIT-1942](../literature.d/LIT-1942.md), p. 13).
+- **An order at the personal level.** Meta-awareness is "a necessary
+  precondition for second-order mental action" ([LIT-1941](../literature.d/LIT-1941.md), p. 277).
+  This claim says the three form no necessary sequence. Metzinger asserts
+  one for deliberate control in one mind, and allows correction without it
+  below the personal level, which is consistent with the claim if the
+  claim's "volitional efficacy" includes subpersonal correction.
+
+Metzinger's condition for volitional efficacy is not legibility of the
+discrepancy but the agent's representation of its own capacity to act on
+it. That is a different variable, filed as [QUESTION-367](../questions.d/QUESTION-367.md).
+
+No status, title or warrant changes.

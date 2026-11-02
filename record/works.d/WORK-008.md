@@ -29,4 +29,4 @@ organization, the persistence of a perspective and the descent of a
 tradition are distinct, and a perspective can move between carriers
 without an immutable essence or one continuing collective agent
 
-Until [ADR-067](../decisions.d/ADR-067.md) this work was the `works` vocabulary term `character-that-changed-parties`.
+Until [ADR-068](../decisions.d/ADR-068.md) this work was the `works` vocabulary term `character-that-changed-parties`.

@@ -24,7 +24,7 @@ summary: >-
   provenance constrains but does not settle constitution; and an organized
   product and the processes maintaining it need not share a boundary or
   make one producer. Its prose is held here as SECTIONs and assembled as a
-  view ([ADR-067](../decisions.d/ADR-067.md))
+  view ([ADR-068](../decisions.d/ADR-068.md))
 ---
 
 # WORK-010: The Individual and Its Conditions
@@ -38,9 +38,9 @@ reveal the stability or the provenance of the processes maintaining it;
 provenance constrains but does not settle constitution; and an organized
 product and the processes maintaining it need not share a boundary or make
 one producer. Its prose is held here as SECTIONs and assembled as a view
-([ADR-067](../decisions.d/ADR-067.md))
+([ADR-068](../decisions.d/ADR-068.md))
 
-Until [ADR-067](../decisions.d/ADR-067.md) this work was the `works` vocabulary term `the-individual-and-its-conditions`.
+Until [ADR-068](../decisions.d/ADR-068.md) this work was the `works` vocabulary term `the-individual-and-its-conditions`.
 
 ## Abstract
 

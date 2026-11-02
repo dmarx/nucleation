@@ -6,7 +6,7 @@
 
 **Source** — a reading of a work grounds a claim. Critical questions: does the work say this, read in context? Is it said within the scope the claim needs? Does the claim lean on the reading for more than the reading holds? (ADR-061).
 
-6 of 50 ARG documents. Back to the [full index](../README.md).
+6 of 51 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

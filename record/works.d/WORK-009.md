@@ -29,4 +29,4 @@ but its durability depends on processes on different timescales that
 reproduce, contest and transform the authority through which it is
 enacted; the Paris Agreement as the case
 
-Until [ADR-067](../decisions.d/ADR-067.md) this work was the `works` vocabulary term `who-makes-the-promise`.
+Until [ADR-068](../decisions.d/ADR-068.md) this work was the `works` vocabulary term `who-makes-the-promise`.
