@@ -9,10 +9,10 @@ date: '2026-11-02'
 source:
 - LIT-tmp8mp1c
 summary: >-
-  Yang and Abanin (2025), LIT-tmp8mp1c, read in NOTE-tmpxpf7y. Active as a
+  Yang and Abanin (2025), [LIT-tmp8mp1c](../literature.d/LIT-tmp8mp1c.md), read in [NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md). Active as a
   statement of what the paper derived exactly and what its exact
   diagonalization showed at the sizes it reached. It does not say that the
-  correspondence holds at large system size (THEORY-tmpull8q), that every
+  correspondence holds at large system size ([THEORY-tmpull8q](THEORY-tmpull8q.md)), that every
   integral of motion is found (those above size 3–4 are not), or that
   slowness ranks conserved quantities independently of the environment.
 ---
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Yang and Abanin (2025), LIT-tmp8mp1c, arXiv:2506.02970v3, §§II–III and
-Appendices A–G; read in NOTE-tmpxpf7y.
+Yang and Abanin (2025), [LIT-tmp8mp1c](../literature.d/LIT-tmp8mp1c.md), arXiv:2506.02970v3, §§II–III and
+Appendices A–G; read in [NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md).
 
 ## What was actually shown
 
@@ -60,7 +60,7 @@ decay rate of roughly Aε² + Bγ for an approximate IOM against one linear in
 ## What this does not say
 
 - **That it holds at large L.** The diagonalization stops at nine sites;
-  the large-system argument is THEORY-tmpull8q's, and Proposed.
+  the large-system argument is [THEORY-tmpull8q](THEORY-tmpull8q.md)'s, and Proposed.
 - **That every integral of motion appears.** IOMs larger than a threshold
   proportional to L, about 3–4 here, sink into the bulk (Appendix D); the
   quasi-local IOM of the XXX chain was not seen.

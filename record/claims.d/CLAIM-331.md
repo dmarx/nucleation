@@ -277,7 +277,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-02: Yang and Abanin, read
 
-Yang and Abanin 2025 (NOTE-tmpxpf7y; THEORY-tmpggrkf) give a physical case
+Yang and Abanin 2025 ([NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md); [THEORY-tmpggrkf](../theory.d/THEORY-tmpggrkf.md)) give a physical case
 for the claim's "a mark and not its definition", from a side the earlier
 notes did not cover. In a closed many-body system, nothing decays, so slowness
 ranks nothing. Once weak local noise is added, the slowest modes are the
@@ -289,7 +289,7 @@ At γ = 0.1 an approximate conservation law overtakes the exact H² that ranks
 above it at γ = 10⁻³ (their Fig. 6). The authors' gloss is "a model that
 looks chaotic on a long time scale may look less chaotic at shorter times".
 So which variables slowness marks depends on the window of observation that
-the environment sets. That is a reason, beyond CASE-116's arm A, not to let
+the environment sets. That is a reason, beyond [CASE-116](../cases.d/CASE-116.md)'s arm A, not to let
 slowness define a level.
 
 The claim is unchanged.

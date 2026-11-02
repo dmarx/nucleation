@@ -192,21 +192,21 @@ operator growth the conserved quantities would not stand out.
   superoperator routes to conserved quantities, from entanglement
   Hamiltonians and as ground states of local superoperators. The record
   holds none of them.
-- **Within the record.** THEORY-158 (LIT-773) states, for classical Markov
+- **Within the record.** [THEORY-158](../theory.d/THEORY-158.md) ([LIT-773](../literature.d/LIT-773.md)) states, for classical Markov
   generators, when an observable is exactly conserved. This paper's
   quantities are conserved by the Hamiltonian part only, and under the
-  full generator are slow, not conserved. Zurek's einselection (NOTE-1229)
+  full generator are slow, not conserved. Zurek's einselection ([NOTE-1229](NOTE-1229.md))
   has a related shape: what the environment leaves alone persists. Here
   the environment acts on every site alike, and what persists is what the
   system's own dynamics keeps small.
 
 ## Bearing on the record
 
-- **CLAIM-478: a mechanism of slowness its list lacks in this form.** The
+- **[CLAIM-478](../claims.d/CLAIM-478.md): a mechanism of slowness its list lacks in this form.** The
   claim's "Not one mechanism" names near-decomposability, slaving,
   metastability, conservation and transport, and renormalization (A13),
-  with broken symmetry (Toner–Tu, NOTE-1228) and dissipative coupling
-  (CLAIM-481) added since. This paper's route is conservation, but the
+  with broken symmetry (Toner–Tu, [NOTE-1228](NOTE-1228.md)) and dissipative coupling
+  ([CLAIM-481](../claims.d/CLAIM-481.md)) added since. This paper's route is conservation, but the
   separation is made by two things together: weak local noise, which
   punishes size, and the system's own chaos, which grows everything it
   does not conserve. The fast side's rate is set by the chaos: the gap is
@@ -218,7 +218,7 @@ operator growth the conserved quantities would not stand out.
   an observable. That supports the first half. It does not bear on
   defeater (a), since an exact conservation law is the limit of slowness,
   not a constraint that works without it, or on the second half.
-- **CLAIM-331: slowness as a mark, relative to an environment and a
+- **[CLAIM-331](../claims.d/CLAIM-331.md): slowness as a mark, relative to an environment and a
   measure of size.** Without noise every eigenoperator of i[H, ·] has zero
   decay rate and slowness ranks nothing; the ranking exists only once a
   weak environment and a notion of size, fixed by the tensor-product
@@ -228,19 +228,19 @@ operator growth the conserved quantities would not stand out.
   long time scale may look less chaotic at shorter times" is the claim's
   point that slowness marks and does not define, in a case where what is
   marked depends on the observation window.
-- **CLAIM-394: a non-reversible generator where slowest-decaying and
+- **[CLAIM-394](../claims.d/CLAIM-394.md): a non-reversible generator where slowest-decaying and
   eigen-directions nearly coincide, and where they come apart.** i[H, ·] is
   anti-Hermitian and depolarizing D Hermitian, so L† is not self-adjoint,
   yet the small IOM Q and the eigenoperator V near it agree to
   ‖V⊥‖ ≲ ε/E_g^<, small when ε ≲ γ ≪ 1 (§IV). With dephasing–decay noise D
   is not Hermitian either, and the eigenoperators lose orthogonality
-  (Fig. 7b). CLAIM-394's linear Gaussian setting is not this one, so
+  (Fig. 7b). [CLAIM-394](../claims.d/CLAIM-394.md)'s linear Gaussian setting is not this one, so
   this is a parallel, not a test.
-- **THEORY-158 and THEORY-160**: complementary, as above; nothing in them
+- **[THEORY-158](../theory.d/THEORY-158.md) and [THEORY-160](../theory.d/THEORY-160.md)**: complementary, as above; nothing in them
   is changed.
 - **No instruction for machine-learning practice.**
-- **Two THEORYs filed:** THEORY-tmpggrkf (Active), what the diagonalization
-  showed at the sizes studied; THEORY-tmpull8q (Proposed), the large-L
+- **Two THEORYs filed:** [THEORY-tmpggrkf](../theory.d/THEORY-tmpggrkf.md) (Active), what the diagonalization
+  showed at the sizes studied; [THEORY-tmpull8q](../theory.d/THEORY-tmpull8q.md) (Proposed), the large-L
   claim.
 
 ## Limitations
@@ -271,7 +271,7 @@ operator growth the conserved quantities would not stand out.
 - Does the correspondence hold at large L in chaotic models where the IOM
   is not an exact eigenoperator (H in MFIM)? Tensor-network
   diagonalization or long-time evolution of the Lindbladian, which the
-  authors propose (pp. 8–9), would say (THEORY-tmpull8q).
+  authors propose (pp. 8–9), would say ([THEORY-tmpull8q](../theory.d/THEORY-tmpull8q.md)).
 - Is there a Mori gap at all once hydrodynamic modes are counted (p. 8)?
 - Can the low-lying spectrum name an approximate conservation law nobody
   has written down, rather than confirm one?

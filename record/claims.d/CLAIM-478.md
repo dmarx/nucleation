@@ -248,7 +248,7 @@ sizes, not times.
 
 ## Note of 2026-11-02: Yang and Abanin, read
 
-Yang and Abanin 2025 (NOTE-tmpxpf7y; THEORY-tmpggrkf, THEORY-tmpull8q) give a
+Yang and Abanin 2025 ([NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md); [THEORY-tmpggrkf](../theory.d/THEORY-tmpggrkf.md), [THEORY-tmpull8q](../theory.d/THEORY-tmpull8q.md)) give a
 route to separation that the list under "Not one mechanism" holds only in
 part. It is conservation, but the separation comes from two things
 together. Weak local noise makes every operator decay at a rate
@@ -267,5 +267,5 @@ is what an observable comes to. That supports the first half in a quantum
 many-body case. It does not bear on defeater (a): an exact conservation law
 is the limit of slowness, not a constraint that works without it. Nor does
 it bear on the second half. The large-system footing is Proposed
-(THEORY-tmpull8q), and the authors say hydrodynamic modes may close the gap
+([THEORY-tmpull8q](../theory.d/THEORY-tmpull8q.md)), and the authors say hydrodynamic modes may close the gap
 the argument needs.

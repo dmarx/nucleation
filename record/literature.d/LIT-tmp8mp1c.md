@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-02 (NOTE-tmpxpf7y), from arXiv:2506.02970v3 with its
+  read in full 2026-11-02 ([NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md)), from arXiv:2506.02970v3 with its
   supplementary material; worth reading as a clean physical case of
   slowness picking out structure: under weak local noise, a Hamiltonian's
   small conserved quantities are the slowest modes because they do not
@@ -57,7 +57,7 @@ summary: >-
 
 Yang, T.-H., & Abanin, D. A. (2025). Integrals of motion as slow modes in dissipative many-body operator dynamics. *Physical Review B*, 112, 094304. doi:10.1103/d9b4-wlv6. Preprint: arXiv:2506.02970.
 
-Read in full on 2026-11-02 (NOTE-tmpxpf7y).
+Read in full on 2026-11-02 ([NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md)).
 
 ## Key takeaways
 
@@ -74,7 +74,7 @@ Read in full on 2026-11-02 (NOTE-tmpxpf7y).
 
 ## Standing in the record
 
-Filed for CLAIM-478's list of the ways slowness arises, and for CLAIM-331
-and CLAIM-394 on what slowness picks out. It is the record's first work on
+Filed for [CLAIM-478](../claims.d/CLAIM-478.md)'s list of the ways slowness arises, and for [CLAIM-331](../claims.d/CLAIM-331.md)
+and [CLAIM-394](../claims.d/CLAIM-394.md) on what slowness picks out. It is the record's first work on
 open quantum many-body dynamics. It carries no instruction for
 machine-learning practice.

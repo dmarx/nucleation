@@ -22,7 +22,7 @@ date: '2026-11-02'
 source:
 - LIT-tmp8mp1c
 summary: >-
-  Yang and Abanin (2025), LIT-tmp8mp1c, §IV, read in NOTE-tmpxpf7y.
+  Yang and Abanin (2025), [LIT-tmp8mp1c](../literature.d/LIT-tmp8mp1c.md), §IV, read in [NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md).
   Proposed because the argument assumes fully chaotic operator growth for
   the complement, is checked numerically only at nine sites, and is
   qualified by the authors themselves: hydrodynamic modes give a continuum
@@ -35,8 +35,8 @@ summary: >-
 
 ## Source
 
-Yang and Abanin (2025), LIT-tmp8mp1c, §IV (eqs. 13–23, Fig. 5), pp. 6–8;
-read in NOTE-tmpxpf7y.
+Yang and Abanin (2025), [LIT-tmp8mp1c](../literature.d/LIT-tmp8mp1c.md), §IV (eqs. 13–23, Fig. 5), pp. 6–8;
+read in [NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md).
 
 ## What was actually shown
 
@@ -74,5 +74,5 @@ failed to converge, or (E_g^<)⁻¹ could have scaled otherwise in γ.
 - **That large L has been reached.** The only sizes computed are L ≤ 9.
 - **The time-scale ratio as a result.** That the slow and fast rates
   separate by a factor of order √(v_B/γ) follows from eq. 22 under the
-  same assumptions, and is the record's reading for CLAIM-478, not a
+  same assumptions, and is the record's reading for [CLAIM-478](../claims.d/CLAIM-478.md), not a
   number the paper reports.
