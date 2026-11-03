@@ -60,6 +60,7 @@ complements:
 corroborated_by:
 - CLAIM-407
 ---
+<!-- inactive-ok-file: CLAIM-tmplyicq — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: THEORY-120 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answered in part, answered in full on 2026-10-27 -->
@@ -184,8 +185,8 @@ No status, title or warrant changes.
 ## Note of 2026-11-02: "Frankfurt with a hat on"
 
 In the exchange "Assess SDT Coverage" (2026-11-02) the owner asked whether Jennings's "Attention as the Source of a Free
-Will" (forthcoming in *Synthese*; uploaded by the owner, not yet registered
-or read) is "Frankfurt with a hat on" (U14). This claim's note of
+Will" (forthcoming in *Synthese*; LIT-tmpasemk, read on 2026-11-03 in
+NOTE-tmpby7i2) is "Frankfurt with a hat on" (U14). This claim's note of
 2026-10-18 answers it. "Higher-order volition is an attitude concerning
 what should be effective. Metacontrol is the causal machinery capable of
 altering what becomes effective." Jennings's attention, as A14 reports it,
@@ -202,6 +203,11 @@ that attention forms new interests ([TERM-023](../terms.d/TERM-023.md)'s transfo
 and that it is a contextually emergent cause ([CLAIM-334](CLAIM-334.md)'s note of
 2026-11-02). A14 also says both that Jennings supports "a form of
 libertarian freedom" and that she places her view "between compatibilism
-and libertarianism". That cannot be settled until the paper is read.
+and libertarianism". The paper says both (p. 3): it places itself "in
+between libertarianism and compatibilism" with a non-reductive power it
+says supports libertarian free will, and without indeterminism. Read, the
+paper bears this note out: attention is prioritization by a collection of
+interests, with no endorsement, and Frankfurt is not cited. The comparison
+is filed as CLAIM-tmplyicq, resting on this claim.
 
 The claim is unchanged.

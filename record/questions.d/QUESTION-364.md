@@ -145,7 +145,8 @@ No status, title or warrant changes.
 ## Note of 2026-11-02: Jennings's fluid interests
 
 In the exchange "Assess SDT Coverage" (2026-11-02) A5 reviewed Jennings's "Attention as the Source of a Free Will"
-(uploaded by the owner, not yet read here). On A5's report, fluid interests
+(LIT-tmpasemk, read on 2026-11-03 in NOTE-tmpby7i2). On A5's report,
+which the paper bears out (pp. 25–26), fluid interests
 are formed through attention and shape the interests that will guide later
 choices. That would be a worked case of this question, a will-organization
 revising itself. A5's ownership and manipulation objections are this

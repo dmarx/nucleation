@@ -79,6 +79,14 @@ The owner's connection puts that gap in control terms:
   [THEORY-tmpggrkf](../theory.d/THEORY-tmpggrkf.md)). By analogy, an amplified effort shapes a will
   durably only where it reaches the slow variables, which is the owner's
   "slow modes" and [CLAIM-478](CLAIM-478.md)'s scale separation.
+- **A rival emphasis.** Jennings (LIT-tmpasemk, NOTE-tmpby7i2), whom Kane
+  read in draft, reverses the classic problem: "the task now is to explain
+  how we manage to find stability in a stochastic one" (p. 3), and
+  "constraint, in a noisy environment, is what gives us power over
+  ourselves" (p. 33). On her account what makes the outcome the agent's is a
+  stable constraint, not amplification. That fits this claim's point that
+  sensitivity supplies no control, and CLAIM-478's constraints, though her
+  constraint is a boundary, not a feedback channel.
 - **Reflexive control is the test case** (U19). The leverage that makes
   self-formation cheap makes outside steering cheap. Comparing the agent's
   channel with an outsider's for the same transition, by their Gramians, is

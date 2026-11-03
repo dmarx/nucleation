@@ -242,7 +242,8 @@ No status, title or warrant changes.
 
 In the exchange "Assess SDT Coverage" (2026-11-02) the owner uploaded Jennings's "Attention as the Source of a Free
 Will" (forthcoming in *Synthese*) and asked for a review (U4, U5). The paper
-is not yet registered or read. As A5 reports it, attention is "the
+is now LIT-tmpasemk, read on 2026-11-03 (NOTE-tmpby7i2). As A5 reports it,
+and the paper bears out (p. 31), attention is "the
 prioritization of mental processing by an emergent subject", with fluid
 interests influencing which established interests prevail. That is a
 mechanism-level candidate for the precedence relations this claim names.

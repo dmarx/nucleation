@@ -29,6 +29,7 @@ summary: >-
   requires does not exist ([THEORY-704](../theory.d/THEORY-704.md)). Measuring every boid does not
   help, by [CLAIM-333](CLAIM-333.md).
 ---
+<!-- inactive-ok-file: THEORY-tmp6xjgq — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: LIT-tmpo8e51 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-334: Granger causation from a macro variable to the micro variables it supervenes on, Seth's downward Granger causation, is not evidence of a macro-to-micro intervention effect, even with every micro variable measured: supervenience leaves no intervention on the macro variable that holds its micro base fixed at the same time
@@ -95,3 +96,10 @@ higher-level description, not new causal powers. Whether Jennings departs
 from that is a question for a reading of the paper.
 
 The claim is unchanged.
+
+Read on 2026-11-03 (LIT-tmpasemk, NOTE-tmpby7i2). The paper denies
+supervenience and says it needs neither downward nor circular causation
+(fn. 14). Its reason that the boundary resists redescription is that the
+boundary's properties "are macro-level ones" (p. 20), and it offers no
+intervention on the macro level that holds the base fixed. So the note
+stands: the premise is denied, not refuted (THEORY-tmp6xjgq).

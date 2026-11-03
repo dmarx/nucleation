@@ -1,0 +1,88 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-03 (NOTE-tmpby7i2), from the manuscript of
+  2026-10-29 the owner supplied; worth reading as a worked attempt to make
+  attention the mechanism of a will without a homunculus, and for its one
+  original move, a boundary between an emergent phenomenon and its context
+  as what keeps contextual emergence from collapsing into supervenience.
+  Read it knowing that its neural evidence (phase-amplitude coupling,
+  ephaptic coupling) is consistent with the weakly emergent models it
+  rejects, and that its step from a non-reducible subject to free will is
+  asserted.
+title: 'Attention as the Source of a Free Will'
+version: 1
+history:
+- version: 1
+  date: '2026-11-03'
+  note: >-
+    Filed and read on the owner's request, from the exchange "Assess SDT
+    Coverage" of 2026-11-02, where the owner uploaded the PDF (U4). The
+    owner then supplied the same manuscript under the file name
+    JENAAT-12, its PhilArchive record ID; the url is built from that ID
+    and was not fetched, since PhilArchive refuses this host. Crossref
+    has no Synthese DOI for it as of 2026-11-03. `published:` is the date
+    the manuscript carries, 2026-10-29, per ADR-002; add the DOI when it
+    is registered. Two THEORYs are filed from it (THEORY-tmptunid,
+    THEORY-tmp6xjgq).
+tags:
+- free-will
+- agency
+- neuroscience
+- metaphysics
+date: '2026-11-03'
+published: '2026-10-29'
+url: 'https://philarchive.org/rec/JENAAT-12'
+first_author: 'Jennings'
+keywords:
+- 'attention'
+- 'free will'
+- 'contextual emergence'
+- 'self-organization'
+- 'phase-amplitude coupling'
+- 'self'
+implementations: []
+summary: >-
+  Jennings (2026), forthcoming in Synthese. Attention is prioritization
+  of mental processing by a subject, and the subject is a collection of
+  fixed, formed and fluid interests with the power to constrain those
+  interests. That power is contextually emergent: the collection's parts
+  are necessary but not sufficient, and a boundary from its context, the
+  skull, meninges and brain stem, is what lets macro-level patterns
+  constrain micro-level ones. Phase-amplitude coupling is offered as its
+  signature and ephaptic coupling as evidence against weak emergence.
+  Attention breaks stalemates between equally weighted interests and so
+  forms new interests, which the paper offers in place of Kane's
+  indeterminism as the source of a free will, placing itself "in between
+  libertarianism and compatibilism".
+---
+<!-- inactive-ok-file: CLAIM-tmplyicq THEORY-tmptunid THEORY-tmp6xjgq — Proposed; the claim and readings filed from this work -->
+
+# LIT-tmpasemk: Attention as the Source of a Free Will
+
+Jennings, C. D. (2026). Attention as the source of a free will. *Synthese*, forthcoming. Manuscript of 29 October 2026, 52 pp. PhilArchive JENAAT-12.
+
+Read in full on 2026-11-03 (NOTE-tmpby7i2).
+
+## Key takeaways
+
+- Attention is defined as prioritization by a subject, and the subject as a
+  collection of interests. That avoids a homunculus by making the subject
+  distributed, and it separates attention from filtering by whether the
+  selection answers to the whole collection (pp. 21–32).
+- Attention resolves conflicts between equally weighted interests and
+  turns a fluid interest into a formed one. On this account that is where
+  a will is formed (pp. 25–26).
+- Contextual emergence is given a condition the paper says other accounts
+  lack: a boundary between the emergent phenomenon and its context (pp.
+  18–20).
+- Freedom comes from constraint: "constraint, in a noisy environment, is
+  what gives us power over ourselves" (p. 33).
+
+## Standing in the record
+
+The owner uploaded it to the exchange "Assess SDT Coverage" and asked
+whether it is "Frankfurt with a hat on" (U14); that is CLAIM-tmplyicq. It
+bears on the will line, where it is a candidate realizer of CLAIM-027's
+precedence relations, and on CLAIM-334, whose supervenience premise it
+denies. The paper does not cite Frankfurt.

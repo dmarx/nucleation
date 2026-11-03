@@ -57,6 +57,8 @@ and it is told apart from the observer's learning only by intervening
 
 - **That self-formation does not happen.** It says this hierarchy's
   reinforcement is not evidence of it.
-- **Anything about Jennings's paper.** The paper is not held. The claim is
-  the formal limit on reading its fluid-to-formed transition off observed
-  choice sequences.
+- **Anything about Jennings's paper** (LIT-tmpasemk) beyond this. The claim
+  is the formal limit on reading its fluid-to-formed transition off
+  observed choice sequences. The paper's own mechanism, from Voigt 2022, is
+  a causal update of the chosen option's stored value (p. 25), which is the
+  structure this claim says self-formation needs (NOTE-tmpby7i2).
