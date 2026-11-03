@@ -82,6 +82,7 @@ complements:
 - CLAIM-354
 - CLAIM-454
 ---
+<!-- inactive-ok-file: CLAIM-156 QUESTION-034 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-487 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -236,3 +237,22 @@ line beside [ARG-005](../arguments.d/ARG-005.md) and [ARG-009](../arguments.d/AR
   reported run in these papers.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-02: Jennings's attention as a candidate realizer
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the owner uploaded Jennings's "Attention as the Source of a Free
+Will" (forthcoming in *Synthese*) and asked for a review (U4, U5). The paper
+is not yet registered or read. As A5 reports it, attention is "the
+prioritization of mental processing by an emergent subject", with fluid
+interests influencing which established interests prevail. That is a
+mechanism-level candidate for the precedence relations this claim names.
+It goes further than this claim by asserting macro-to-micro constraint
+through contextual emergence. This claim says "whatever mechanisms realize
+them" and claims non-reducibility to the contents of the regimes, not to
+physics, so the reductionist objection A5 raises to Jennings's further step
+leaves it standing. A5 cited none of the record's will line. The rivals
+CLAIM-159 places (Ainslie, the expected value of control, will-organization)
+are where Jennings would be a fourth. Attention changing which interests
+may act is CLAIM-156 and QUESTION-034's second option.
+
+The claim is unchanged.

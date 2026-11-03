@@ -52,6 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
+<!-- inactive-ok-file: CLAIM-tmpex9rg — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-480 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1073 THEORY-1052 — Proposed; readings cited as open -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-331 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
@@ -269,3 +270,17 @@ is the limit of slowness, not a constraint that works without it. Nor does
 it bear on the second half. The large-system footing is Proposed
 ([THEORY-tmpull8q](../theory.d/THEORY-tmpull8q.md)), and the authors say hydrodynamic modes may close the gap
 the argument needs.
+
+## Note of 2026-11-02 (later): chaos and slow modes, the owner's
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the owner tied "controllability and sensitivity to change and chaos
+and slow modes" together (U16). The replies never cited Yang and Abanin
+(LIT-tmp8mp1c), filed earlier the same day, which fits the grouping. Under
+weak noise, chaos plays two roles. It amplifies differences, and it erases
+their coarse trace except along slow, near-conserved quantities. So an
+effect that lasts must reach the slow modes. For a slow mode ṡ = −εs + bu
+the long-horizon gain is b/ε and holding a value costs u = εs*/b. But for
+εT ≪ 1, s(T) ≈ buT whatever ε is, so slowness makes a change last and
+cheap to hold, not faster to make. The owner's thesis is CLAIM-tmpex9rg.
+
+The claim is unchanged.

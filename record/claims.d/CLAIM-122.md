@@ -60,6 +60,7 @@ complements:
 corroborated_by:
 - CLAIM-407
 ---
+<!-- inactive-ok-file: THEORY-120 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answered in part, answered in full on 2026-10-27 -->
 
@@ -179,3 +180,28 @@ case is recorded here and not as a ground. [ARG-051](../arguments.d/ARG-051.md) 
 verdict for [CLAIM-027](CLAIM-027.md).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-02: "Frankfurt with a hat on"
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the owner asked whether Jennings's "Attention as the Source of a Free
+Will" (forthcoming in *Synthese*; uploaded by the owner, not yet registered
+or read) is "Frankfurt with a hat on" (U14). This claim's note of
+2026-10-18 answers it. "Higher-order volition is an attitude concerning
+what should be effective. Metacontrol is the causal machinery capable of
+altering what becomes effective." Jennings's attention, as A14 reports it,
+"need not be reflective endorsement", so it is metacontrol and not a
+higher-order volition.
+
+So the architecture is Frankfurt's (LIT-692, THEORY-120). There are two
+levels, and the upper settles which first-order interest becomes effective.
+But the upper level is a process, not an attitude, so the hat is not
+decoration. What the account inherits unchanged is the ownership problem:
+a manipulated organization can be wholehearted, which CLAIM-022 already
+applies to higher-order organizations. What it adds, by A14's report, is
+that attention forms new interests (TERM-023's transformation; CLAIM-025)
+and that it is a contextually emergent cause (CLAIM-334's note of
+2026-11-02). A14 also says both that Jennings supports "a form of
+libertarian freedom" and that she places her view "between compatibilism
+and libertarianism". That cannot be settled until the paper is read.
+
+The claim is unchanged.

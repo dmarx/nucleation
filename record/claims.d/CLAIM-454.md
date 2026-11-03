@@ -74,6 +74,7 @@ summary: >-
   ever one feature's carriers. It says the allocation underdetermines the
   perspective.
 ---
+<!-- inactive-ok-file: CLAIM-tmpwh2jo LIT-tmp4flye QUESTION-tmpildq9 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-367 — Proposed; cited for where the governance of training lies, nothing here rests on it -->
 <!-- inactive-ok-file: CASE-165 CASE-166 — Proposed; the cases filed with this claim from the same exchange, an illustration and a reported study, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-1011 THEORY-1014 — Rejected and Proposed; circuits readings cited as hypotheses, not leaned on -->
@@ -216,3 +217,25 @@ test.
 - Not that relations suffice. Relations among carriers with no shared
   feature organize nothing interpretive. The claim is about what the
   allocation lacks, not about what would be enough.
+
+## Note of 2026-11-02: a persona distribution, the seventh appearance
+
+In the exchange "Assess SDT Coverage" (2026-11-02), U6 to U12 read a language model under the Persona Selection Model
+(LIT-tmp4flye) as a distribution over perspectives, and asked how an LDA
+over it would bear on will-organization. The replies re-derived this claim
+three times without citing it: A6 with personas, A8 with a hierarchy over
+them, and A9 with topic prevalence in place of feature allocation, whose
+20%-safety-topic veto case is TERM-074's safety engineer again. It is the
+claim's seventh appearance.
+
+The owner's own contributions are filed as CLAIM-tmpwh2jo (a persona model
+is organizationally flat unless components condition one another) and
+CLAIM-tmphbnqm (categorical against Dirichlet–categorical). The owner's
+U10, "the J-Space is basically this kind of LDA" (LIT-1347), is filed as
+QUESTION-tmpildq9 with two corrections. J-lens directions name single
+tokens, so they are LDA's words, not its topics. And the workspace's
+privilege is selective, where an LDA topic mediates every word. Both bear
+here: a workspace loading is at most a constituent, as the claim says of
+any feature.
+
+The claim is unchanged.

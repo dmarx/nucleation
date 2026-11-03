@@ -21,6 +21,7 @@ summary: >-
   ownership." What the authenticity line tried to supply, the paper now
   disclaims; [QUESTION-011](../questions.d/QUESTION-011.md) holds the question.
 ---
+<!-- inactive-ok-file: CLAIM-tmpex9rg LIT-tmpmi6rp LIT-tmpnqv86 THEORY-316 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account of authorship, a second instance of this limit -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; set aside, and cited to say what was set aside with it -->
 
@@ -86,3 +87,28 @@ disclaimer in another form. It does not settle whose the will is either:
 caregivers before memory (pp. 20–21), the issue [QUESTION-364](../questions.d/QUESTION-364.md) takes up.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-02: Kane, registered
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the owner asked about Kane's libertarian sourcehood (U15). Kane's
+ultimate responsibility is the historical condition that would answer this
+disclaimer's question. The record held Kane only second-hand (THEORY-316,
+LIT-1867, LIT-1045, NOTE-548, NOTE-856). *The Significance of Free Will*
+(LIT-tmpnqv86) and "Libertarianism" (LIT-tmpmi6rp) are now registered,
+unread.
+
+A15 drew a distinction the record already observes. "The self-formation
+thesis: Agents can participate in shaping the dispositions and governing
+relationships through which their future actions become possible and
+effective." "The libertarian sourcehood thesis: Some of that participation
+must be undetermined, and its indeterminacy must be compatible with a kind
+of control sufficient for ultimate responsibility." The record holds the
+first (TERM-023's transformation; CLAIM-025) and, by this claim, does not
+settle the second. The authenticity line, set aside on 2026-10-05, is
+where it belongs. The entry a Kanean would contest is CLAIM-356 ("exogenous
+origin does not disqualify a goal"). It is about goals and not
+responsibility, so there is no contradiction, but a theorist of ultimate
+responsibility denies its analogue for responsibility. The owner's link
+between Kane and chaos is CLAIM-tmpex9rg.
+
+The claim is unchanged.

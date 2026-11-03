@@ -44,6 +44,7 @@ summary: >-
 bears_on:
 - QUESTION-045
 ---
+<!-- inactive-ok-file: LIT-tmpazv5c LIT-tmpjcuzb QUESTION-tmpee04a — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-050 THEORY-058 — Proposed; relations stated in prose, nothing here rests on them -->
 
 # THEORY-052: Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology
@@ -123,3 +124,17 @@ frustration, measured other than by a self-report sharing content with
 distress, precedes or mediates symptoms of more than one disorder. Campbell
 et al. (2018a), the one longitudinal study cited, is unread.
 [CLAIM-368](../claims.d/CLAIM-368.md) now cites this reading as corroboration, not as a ground.
+
+## Note of 2026-11-02: two separate objections to its evidence
+
+In the exchange "Assess SDT Coverage" (2026-11-02), A3 asked for the evidence to be "reassess[ed] separately".
+
+- **The one longitudinal study** this theory cites through LIT-561 p. 12 is
+  now identified: Campbell et al. 2018 (LIT-tmpazv5c), registered unread.
+- **A different objection.** Murphy et al. 2023 (LIT-tmpjcuzb) argue that
+  the need-frustration scale's frustration factor is largely an artefact of
+  item keying. That is a construct-validity objection, distinct from the
+  shared-content one under "What this does not say", and new to the record.
+
+Neither is read. QUESTION-tmpee04a asks the prior question, what would show
+a need is a need. The status is unchanged.

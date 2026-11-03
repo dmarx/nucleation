@@ -61,6 +61,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: CLAIM-tmpxpdqi LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency, and the claim that separates its quantity -->
 <!-- inactive-ok-file: CLAIM-410 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
@@ -204,3 +205,30 @@ judgment of whose capacity counts"). This claim gives the reason in
 general. [CLAIM-527](CLAIM-527.md) separates the quantity from valence and emotion.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-02: what the profile lacks, and a corrected reachable set
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the replies rebuilt this claim three times without saying so: A16's
+reachable set and Gramian, A21's "robust reachability" and A22's three
+levels. Three points add to it.
+
+- **Non-domination** (Pettit, LIT-1614). An agent can be unfree because
+  another holds an effective, unaccountable channel it never uses. The
+  "governance" dimension, the remote-operated robot, covers actual external
+  determination, not that counterfactual capacity. Formally it is the robust
+  reachable set taken against an adversary class that includes the unused
+  channel.
+- **The allocation of control across channels, and its history** (A21 §8,
+  A22 §3). A slow state that changes the agent's own gain, an outsider's and
+  the noise gain makes susceptibility itself governable. That extends
+  governance reconfigurability from what the agent can do to what can be
+  done to it. The demonstrated part is CLAIM-tmpptgk8.
+- **A25 §7's reachable set of governance and legibility configurations**,
+  ∃π_s ∀π_e. It ranges over every feedback policy. Against A25's own model
+  it should range over the policies the current organization can carry out
+  that read only what its legibility regime makes usable. Otherwise
+  legibility drops out of the set.
+
+A26 identified freedom with the whole profile under reflexive revision.
+That is filed as CLAIM-tmpxpdqi, Proposed, resting on this claim. The claim
+is unchanged.

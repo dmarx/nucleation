@@ -20,6 +20,7 @@ summary: >-
   collective form without will or authorization. This is the
   will-organization form.
 ---
+<!-- inactive-ok-file: QUESTION-071 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1279 QUESTION-365 — Proposed or Open; Tsoukas and Chia's mechanism of category extension, and the outward route filed as a question -->
 <!-- inactive-ok-file: QUESTION-118 — Open; the collective form of the continuity question, cited as open -->
 
@@ -140,3 +141,18 @@ this sketch there is none. It is a sketch, offered for the eliminativist
 horn, not a result, and it supplies no criterion.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-02: Jennings's fluid interests
+
+In the exchange "Assess SDT Coverage" (2026-11-02) A5 reviewed Jennings's "Attention as the Source of a Free Will"
+(uploaded by the owner, not yet read here). On A5's report, fluid interests
+are formed through attention and shape the interests that will guide later
+choices. That would be a worked case of this question, a will-organization
+revising itself. A5's ownership and manipulation objections are this
+question's own, and the installed-organization case is QUESTION-071's. A5
+offered them as new. A13's formal point bears too. The persistence a
+Dirichlet–categorical hierarchy gives a run of choices is the observer's
+learning, not a change in the chooser (CLAIM-tmplz9zf). So a sequence of
+choices alone cannot show the fluid-to-formed transition.
+
+The question stays open.

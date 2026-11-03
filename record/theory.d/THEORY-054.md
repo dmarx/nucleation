@@ -67,6 +67,7 @@ supports:
 - CLAIM-016
 - CLAIM-354
 ---
+<!-- inactive-ok-file: LIT-tmpfyba0 LIT-tmpwslkc THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-047 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
@@ -174,3 +175,14 @@ reasons. Nor does the record hold a case in which a motive endorsed at a
 higher order behaves like a controlled one. [THEORY-074](THEORY-074.md)'s overlap index
 ([NOTE-469](../notes.d/NOTE-469.md)) is a candidate measure of integration apart from endorsement,
 untested as one.
+
+## Note of 2026-11-02: the evidence its promote_when asks for
+
+In the exchange "Assess SDT Coverage" (2026-11-02), A2 named Howard, Gagné and Bureau 2017 (LIT-tmpwslkc), a
+meta-analysis of the continuum of self-determined motivation, as bearing on
+whether integrated regulation is separable from identified regulation. A2
+says it does not find integrated regulation as a distinct factor. That is
+unverified until the paper is read. Deci et al. 1994 (LIT-tmpfyba0), which
+this theory and THEORY-047 hold second-hand, is registered too.
+
+The status is unchanged.

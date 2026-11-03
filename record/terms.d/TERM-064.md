@@ -50,6 +50,7 @@ used_by:
 - CLAIM-448
 - CLAIM-450
 ---
+<!-- inactive-ok-file: CLAIM-404 LIT-tmp91wxa — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-841 THEORY-857 — Proposed; Hayek's argument and James et al.'s bidirectionality, cited as readings that bear on the term, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1321 LIT-1328 — Unavailable; Scott and Lan, named as works the term's sources lean on that no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-081 CLAIM-199 CLAIM-296 CLAIM-338 CLAIM-342 CLAIM-348 CLAIM-349 CLAIM-404 — Proposed; open claims that bear on or use the term, cited as open -->
@@ -236,3 +237,32 @@ be legible and taken up and still not be executed. In [CASE-176](../cases.d/CASE
 legibility of a claim to an enforcer stood in for its validity; Cover's
 warden, choosing which paper to obey, is the same relation seen from the
 enforcer's side. The term is unchanged.
+
+## Note of 2026-11-02: QKV, MVC and legibility
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the owner wrote "has me thinking about QKV and model-view-controller"
+(U23), then "sounds like we're moving towards nucleation's account of
+legibility" (U24). The link is right and new.
+
+- **Model–View–Controller.** Reenskaug's note of 1979-12-10 (doi
+  10.5281/zenodo.3676092, checked through DataCite) names the triad for a
+  user interface. The View is a maintained presentation of a model to the
+  party that acts on it. In the note the controller handles the user's
+  input and arranges views; the user, outside the triad, decides. A23
+  mapped the Controller to a decider, which is loose. The note is not
+  registered, because the vocabulary has no topic for software design.
+- **Attention.** Each head's QK circuit is a bounded observer selecting
+  among sources, an observer's rule class realized in an architecture. The
+  OV circuit is what the selection transports (Vaswani et al.,
+  LIT-tmp91wxa; Elhage et al., LIT-1534; THEORY-988). The separation is
+  exact only with attention patterns frozen.
+
+So routing against transport, and presentation against model, both separate
+what can be recognized from what it then moves. That is this term's
+legibility, apart from efficacy. The structure is the same; the mechanism is
+not shown to be. A23's "capture of the view" is CLAIM-404's informational
+route and CASE-123, and A24's "legibility capture" is CLAIM-342. A24's new
+question, how much controllable state is legibly controllable, is answered
+by TERM-085's note of 2026-10-31.
+
+The term is unchanged.

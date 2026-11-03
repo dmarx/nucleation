@@ -81,6 +81,7 @@ used_by:
 - CLAIM-430
 - CLAIM-454
 ---
+<!-- inactive-ok-file: CLAIM-tmpwh2jo LIT-tmp4flye — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: ADR-050 CLAIM-418 TERM-074 — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
@@ -294,3 +295,19 @@ additional questions." Its last sentence is A11's exclusions made
 explicit, and "arrangement" is the default sense of organization
 ([TERM-074](TERM-074.md), sense 1). The usage rule that a claim say which object
 it means is [ADR-050](../decisions.d/ADR-050.md), Proposed.
+
+## Note of 2026-11-02: a persona is a character
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the Persona Selection Model (LIT-tmp4flye) was read as a distribution
+over perspectives (U6). On this term's reading a persona is a character, a
+relation among realizations, not a sense. The model's "distribution over
+personas" is then over kinds the simulator represents. Whether any
+realization of one is a sense-1 perspective is open. The nearest evidence
+is still the note of 2026-10-22, that post-training installs the
+Assistant's standpoint into the workspace (LIT-1347, NOTE-1069, graded weak
+to moderate). CLAIM-tmpwh2jo states what a persona model would need to
+count as one: components that condition one another, shown under
+intervention. In the record "PSM" also abbreviates Metzinger's phenomenal
+self-model (NOTE-460), so the Persona Selection Model is named in full.
+
+The term is unchanged.

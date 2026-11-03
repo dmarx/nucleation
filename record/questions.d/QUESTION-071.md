@@ -71,6 +71,7 @@ bearing:
 - THEORY-040
 - THEORY-121
 ---
+<!-- inactive-ok-file: CLAIM-tmpxpdqi LIT-tmpk8i57 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, named in a dated note -->
@@ -209,3 +210,32 @@ had meaningful opportunities to understand or challenge" its assumptions
 does not show ownership, is adaptive preference ([THEORY-025](../theory.d/THEORY-025.md)) and
 [QUESTION-057](QUESTION-057.md)'s point that avowal is one more attitude. Not filed as a
 claim.
+
+## Note of 2026-11-02: the stipulated indistinguishability a third time, and what a path can show
+
+In the exchange "Assess SDT Coverage" (2026-11-02), A22 §4 built a double well with a slow reinforcing variable, in
+which a self-initiated, an outside and a noise-driven displacement leave the
+same end state and dispositions. As A16 and A27 did before it (the note of
+2026-10-21), it is true by construction: the inputs enter only through their
+sum. This is the third time. Two points are new.
+
+- **The transition path, not the end state** (A21 §3). In a gradient system
+  with small isotropic noise, the most likely escape follows the
+  time-reversal of the relaxation path from the saddle (Freidlin–Wentzell;
+  LIT-1881; Heymann and Vanden-Eijnden, LIT-tmpk8i57, registered). A directed
+  transition need not, unless the controller imitates the noise path. So
+  history can record more than the end state. This holds only in the
+  frozen-slow-variable limit, since the toy is not a gradient system and its
+  noise is degenerate.
+- **From the owner's U19**, on malicious reflexive control:
+  - Self-formation can be causally the agent's without being autonomous: an
+    outside input at a sensitive moment, amplified and then written into
+    slow dispositions by the agent's own processes (A19 §5).
+  - Comparing the agent's channel with an outsider's for the same transition
+    by their Gramians gives one measurable component (A20 §4;
+    CLAIM-tmpptgk8).
+  - Capture needs no instability. Near threshold, CASE-099's mixed mode is
+    also its slow one, so a one-time perturbation lasts about −1/ln λ₊ steps.
+    That is persistence, not self-maintenance (CLAIM-tmpxpdqi).
+
+The question stays open.
