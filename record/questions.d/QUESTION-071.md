@@ -71,6 +71,7 @@ bearing:
 - THEORY-040
 - THEORY-121
 ---
+<!-- inactive-ok-file: CASE-tmph9iwi THEORY-1118 THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-tmpxpdqi LIT-tmpk8i57 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
@@ -239,3 +240,21 @@ sum. This is the third time. Two points are new.
     That is persistence, not self-maintenance ([CLAIM-tmpxpdqi](../claims.d/CLAIM-tmpxpdqi.md)).
 
 The question stays open.
+
+## Note of 2026-11-03: a construction for part 1, and why it matters
+
+CASE-tmph9iwi builds part 1 for self-formation. An agent whose capacity was
+installed by a single outside pulse and then maintained by its own cycle is,
+after formation, the same organization as one that formed the capacity itself,
+under every knockout of production or maintenance. Only a knockout during
+formation separates them. So for part 2, what history must record is whether
+the producing process that formed the capacity was the agent's own while it
+ran. That is the historical condition THEORY-040 and THEORY-1118 say
+structural accounts need, the vulnerability CLAIM-404 and CASE-123 describe
+for reflexive control, and the place where self-determination theory's
+history of internalization (THEORY-047) would have to leave a trace in the
+capacity's relations to the rest of the organization, since it leaves none in
+the capacity.
+
+The question stays open.
+
