@@ -28,7 +28,7 @@ summary: >-
   Deci and Ryan (1985), doi:10.1016/0092-6566(85)90023-6. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A2). The source of
   Causality Orientations Theory, which the record holds only through
-  NOTE-439 and NOTE-441.
+  [NOTE-439](../notes.d/NOTE-439.md) and [NOTE-441](../notes.d/NOTE-441.md).
 ---
 
 # LIT-tmp7s2t8: The general causality orientations scale: Self-determination in personality
@@ -42,4 +42,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The source of Causality Orientations Theory, which the record holds only through NOTE-439 and NOTE-441.
+The source of Causality Orientations Theory, which the record holds only through [NOTE-439](../notes.d/NOTE-439.md) and [NOTE-441](../notes.d/NOTE-441.md).

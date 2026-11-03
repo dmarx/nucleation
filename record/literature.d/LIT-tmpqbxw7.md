@@ -28,7 +28,7 @@ summary: >-
   Juarrero (1999), doi:10.7551/mitpress/2528.001.0001. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A21). Intentional
   action as context-sensitive constraint in a complex system, the nearest
-  philosophical prior art for CLAIM-tmpex9rg and CLAIM-478's constraints.
+  philosophical prior art for [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) and [CLAIM-478](../claims.d/CLAIM-478.md)'s constraints.
 ---
 <!-- inactive-ok-file: CLAIM-478 CLAIM-tmpex9rg — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Intentional action as context-sensitive constraint in a complex system, the nearest philosophical prior art for CLAIM-tmpex9rg and CLAIM-478's constraints.
+Intentional action as context-sensitive constraint in a complex system, the nearest philosophical prior art for [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) and [CLAIM-478](../claims.d/CLAIM-478.md)'s constraints.

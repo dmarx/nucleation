@@ -30,7 +30,7 @@ summary: >-
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A21).
   Empowerment as channel capacity from actions to later sensor states,
   which A21 reads as controllability and observability together. Bears on
-  CLAIM-354.
+  [CLAIM-354](../claims.d/CLAIM-354.md).
 ---
 <!-- inactive-ok-file: CLAIM-354 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -45,4 +45,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Empowerment as channel capacity from actions to later sensor states, which A21 reads as controllability and observability together. Bears on CLAIM-354.
+Empowerment as channel capacity from actions to later sensor states, which A21 reads as controllability and observability together. Bears on [CLAIM-354](../claims.d/CLAIM-354.md).

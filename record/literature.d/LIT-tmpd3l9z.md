@@ -28,8 +28,8 @@ implementations: []
 summary: >-
   Sheldon et al. (2001), doi:10.1037/0022-3514.80.2.325. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A3). Tests ten
-  candidate needs; self-esteem performs strongly. NOTE-440 holds SDT's
-  reply, that self-esteem is derivative. For QUESTION-tmpee04a.
+  candidate needs; self-esteem performs strongly. [NOTE-440](../notes.d/NOTE-440.md) holds SDT's
+  reply, that self-esteem is derivative. For [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).
 ---
 <!-- inactive-ok-file: QUESTION-tmpee04a — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Tests ten candidate needs; self-esteem performs strongly. NOTE-440 holds SDT's reply, that self-esteem is derivative. For QUESTION-tmpee04a.
+Tests ten candidate needs; self-esteem performs strongly. [NOTE-440](../notes.d/NOTE-440.md) holds SDT's reply, that self-esteem is derivative. For [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).

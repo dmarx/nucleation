@@ -28,7 +28,7 @@ summary: >-
   Ryan et al. (2022), doi:10.1037/bul0000385. Registered unread from the
   exchange "Assess SDT Coverage" of 2026-11-02 (A2). A meta-review of SDT's
   meta-analyses, the broadest test of the theory's evidence. The record's
-  SDT readings (LIT-558 to LIT-561) are the theory's own statements; this
+  SDT readings ([LIT-558](LIT-558.md) to [LIT-561](LIT-561.md)) are the theory's own statements; this
   is the nearest thing to an audit of them.
 ---
 
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-A meta-review of SDT's meta-analyses, the broadest test of the theory's evidence. The record's SDT readings (LIT-558 to LIT-561) are the theory's own statements; this is the nearest thing to an audit of them.
+A meta-review of SDT's meta-analyses, the broadest test of the theory's evidence. The record's SDT readings ([LIT-558](LIT-558.md) to [LIT-561](LIT-561.md)) are the theory's own statements; this is the nearest thing to an audit of them.

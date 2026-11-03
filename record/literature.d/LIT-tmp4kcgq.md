@@ -26,7 +26,7 @@ summary: >-
   Anastassiou et al. (2011), doi:10.1038/nn.2727. Registered unread from
   the exchange "Assess SDT Coverage" of 2026-11-02 (A5). Weak extracellular
   fields entrain spiking. The record holds ephaptic coupling as a
-  hypothesis about sentience in LIT-388 (NOTE-330); this would be the
+  hypothesis about sentience in [LIT-388](LIT-388.md) ([NOTE-330](../notes.d/NOTE-330.md)); this would be the
   second appearance.
 ---
 
@@ -41,4 +41,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Weak extracellular fields entrain spiking. The record holds ephaptic coupling as a hypothesis about sentience in LIT-388 (NOTE-330); this would be the second appearance.
+Weak extracellular fields entrain spiking. The record holds ephaptic coupling as a hypothesis about sentience in [LIT-388](LIT-388.md) ([NOTE-330](../notes.d/NOTE-330.md)); this would be the second appearance.

@@ -29,7 +29,7 @@ summary: >-
   Lu et al. (2026), arXiv:2601.10387. Registered unread from the exchange
   "Assess SDT Coverage" of 2026-11-02 (A6). A direction along which the
   default Assistant persona is situated and stabilized; bears on what
-  post-training installs (TERM-072's note of 2026-10-22, NOTE-1069).
+  post-training installs ([TERM-072](../terms.d/TERM-072.md)'s note of 2026-10-22, [NOTE-1069](../notes.d/NOTE-1069.md)).
 ---
 
 # LIT-tmpqjfxe: The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-A direction along which the default Assistant persona is situated and stabilized; bears on what post-training installs (TERM-072's note of 2026-10-22, NOTE-1069).
+A direction along which the default Assistant persona is situated and stabilized; bears on what post-training installs ([TERM-072](../terms.d/TERM-072.md)'s note of 2026-10-22, [NOTE-1069](../notes.d/NOTE-1069.md)).

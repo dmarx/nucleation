@@ -27,7 +27,7 @@ keywords:
 implementations: []
 summary: >-
   Howard et al. (2017), doi:10.1037/bul0000125. Registered unread from the
-  exchange "Assess SDT Coverage" of 2026-11-02 (A2). Bears on THEORY-054,
+  exchange "Assess SDT Coverage" of 2026-11-02 (A2). Bears on [THEORY-054](../theory.d/THEORY-054.md),
   whose promote_when asks for a measure of integrated regulation separable
   from identified regulation. A2 says the meta-analysis does not find
   integrated regulation as a distinct factor; that is unverified until
@@ -46,4 +46,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Bears on THEORY-054, whose promote_when asks for a measure of integrated regulation separable from identified regulation. A2 says the meta-analysis does not find integrated regulation as a distinct factor; that is unverified until read.
+Bears on [THEORY-054](../theory.d/THEORY-054.md), whose promote_when asks for a measure of integrated regulation separable from identified regulation. A2 says the meta-analysis does not find integrated regulation as a distinct factor; that is unverified until read.

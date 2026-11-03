@@ -28,7 +28,7 @@ summary: >-
   Levine et al. (2021), doi:10.1007/s11031-021-09920-3. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A3). Whether need
   frustration predicts depressive symptoms beyond negative affect, the
-  distinction CLAIM-368 draws between frustration and distress.
+  distinction [CLAIM-368](../claims.d/CLAIM-368.md) draws between frustration and distress.
 ---
 
 # LIT-tmpgv3da: Unhappy or unsatisfied: distinguishing the role of negative affect and need frustration in depressive symptoms over the academic year and during the COVID-19 pandemic
@@ -42,4 +42,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Whether need frustration predicts depressive symptoms beyond negative affect, the distinction CLAIM-368 draws between frustration and distress.
+Whether need frustration predicts depressive symptoms beyond negative affect, the distinction [CLAIM-368](../claims.d/CLAIM-368.md) draws between frustration and distress.

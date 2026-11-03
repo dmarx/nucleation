@@ -26,8 +26,8 @@ keywords:
 implementations: []
 summary: >-
   Aubin (1990), doi:10.1137/0328044. Registered unread from the exchange
-  "Assess SDT Coverage" of 2026-11-02 (A21). Aubin's survey. THEORY-134
-  holds the viability kernel from the 1999 notes (LIT-714); the robust,
+  "Assess SDT Coverage" of 2026-11-02 (A21). Aubin's survey. [THEORY-134](../theory.d/THEORY-134.md)
+  holds the viability kernel from the 1999 notes ([LIT-714](LIT-714.md)); the robust,
   discriminating kernel A21 uses is not held.
 ---
 
@@ -42,4 +42,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Aubin's survey. THEORY-134 holds the viability kernel from the 1999 notes (LIT-714); the robust, discriminating kernel A21 uses is not held.
+Aubin's survey. [THEORY-134](../theory.d/THEORY-134.md) holds the viability kernel from the 1999 notes ([LIT-714](LIT-714.md)); the robust, discriminating kernel A21 uses is not held.

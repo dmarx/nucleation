@@ -48,7 +48,7 @@ summary: >-
   not state or endorse its wording; adopting it is the owner's call. The
   phrase is A's, from A22 §3 ("a will that governs its own
   governability") through A24 to A26. Its parts are held, two of them the
-  owner's: CLAIM-354 and CLAIM-523, with CLAIM-485 and CLAIM-404. What it
+  owner's: [CLAIM-354](CLAIM-354.md) and [CLAIM-523](CLAIM-523.md), with [CLAIM-485](CLAIM-485.md) and [CLAIM-404](CLAIM-404.md). What it
   adds is the identification. The record had dimensions of freedom and no
   thesis of what freedom is. Three qualifications A26 dropped are
   restored: the sense is operational, the claim is descriptive, and it is
@@ -67,47 +67,47 @@ capacity to determine which influences become authoritative."
 The record already holds the parts:
 
 - **The dimensions of freedom of will**, as a partial order and not a
-  scalar (CLAIM-354, the owner's of 2026-10-17), with the cost of control
-  (CLAIM-345).
+  scalar ([CLAIM-354](CLAIM-354.md), the owner's of 2026-10-17), with the cost of control
+  ([CLAIM-345](CLAIM-345.md)).
 - **Normative efficacy's three achievements**, legibility, volitional
-  efficacy and correctability (CLAIM-523, the owner's of 2026-10-31), on
-  TERM-064 and TERM-085.
+  efficacy and correctability ([CLAIM-523](CLAIM-523.md), the owner's of 2026-10-31), on
+  [TERM-064](../terms.d/TERM-064.md) and [TERM-085](../terms.d/TERM-085.md).
 - **Reflexive revision** of one's governing standards as what endogenous
-  governance adds (CLAIM-485, CLAIM-424), with the regime, its governing
-  organization and the capacity to transform it separable (CLAIM-025,
-  CLAIM-027).
+  governance adds ([CLAIM-485](CLAIM-485.md), [CLAIM-424](CLAIM-424.md)), with the regime, its governing
+  organization and the capacity to transform it separable ([CLAIM-025](CLAIM-025.md),
+  [CLAIM-027](CLAIM-027.md)).
 - **Outside governance without decisions**, through evidence or criteria
-  (CLAIM-404).
-- **Sensitivity is not control** (CLAIM-tmpex9rg, the owner's U16 and U20).
+  ([CLAIM-404](CLAIM-404.md)).
+- **Sensitivity is not control** ([CLAIM-tmpex9rg](CLAIM-tmpex9rg.md), the owner's U16 and U20).
 
 The claim identifies freedom, operationally, with the agent's own governance
 of these relations, its governability. The architecture in which routing and
 transport come apart, a QK circuit choosing what is read and an OV circuit
-what it carries (THEORY-988), is the owner's U23 analogy for the
-separation of legibility from efficacy (TERM-064's note of 2026-11-02).
-Pettit's non-domination (LIT-1614) supplies the last clause: an agent can be
+what it carries ([THEORY-988](../theory.d/THEORY-988.md)), is the owner's U23 analogy for the
+separation of legibility from efficacy ([TERM-064](../terms.d/TERM-064.md)'s note of 2026-11-02).
+Pettit's non-domination ([LIT-1614](../literature.d/LIT-1614.md)) supplies the last clause: an agent can be
 unfree because another holds an unaccountable channel to those relations,
 whether or not it is ever used.
 
-"Freedom is an organizational achievement", A26's other line, is TERM-086,
+"Freedom is an organizational achievement", A26's other line, is [TERM-086](../terms.d/TERM-086.md),
 the owner's term, which A26 did not cite.
 
 ## What it does not say
 
 - **That the agent's governance is justified.** A26 wrote "appropriate
-  practical authority" and "warranted changes". CLAIM-523, which A26 cites,
+  practical authority" and "warranted changes". [CLAIM-523](CLAIM-523.md), which A26 cites,
   says none of its three achievements "establishes that the demand or the
-  revision is justified", and CLAIM-075 says viability does not establish
+  revision is justified", and [CLAIM-075](CLAIM-075.md) says viability does not establish
   what ought to persist. The claim is descriptive.
 - **That it settles ultimate responsibility or metaphysical free will**
-  (CLAIM-354; CLAIM-022).
+  ([CLAIM-354](CLAIM-354.md); [CLAIM-022](CLAIM-022.md)).
 - **Whose governance it is when the governing standards are themselves
-  revised** (QUESTION-364).
-- **That capture is self-maintaining.** A26 called the CLAIM-400 dynamics
-  "self-maintaining capture". CLAIM-400's model is linear with λ < 1: below
+  revised** ([QUESTION-364](../questions.d/QUESTION-364.md)).
+- **That capture is self-maintaining.** A26 called the [CLAIM-400](CLAIM-400.md) dynamics
+  "self-maintaining capture". [CLAIM-400](CLAIM-400.md)'s model is linear with λ < 1: below
   threshold a lean decays, slowly. Self-maintenance needs the system past
-  threshold (CLAIM-330, CLAIM-340) or hysteresis (CLAIM-463). A25 had this
+  threshold ([CLAIM-330](CLAIM-330.md), [CLAIM-340](CLAIM-340.md)) or hysteresis ([CLAIM-463](CLAIM-463.md)). A25 had this
   right; A26 dropped it.
 - **That the present profile is enough.** The claim is stated in present
-  organization, and THEORY-040 and QUESTION-071 are the objection to any
+  organization, and [THEORY-040](../theory.d/THEORY-040.md) and [QUESTION-071](../questions.d/QUESTION-071.md) are the objection to any
   such condition. It is the claim's defeater, not something it answers.

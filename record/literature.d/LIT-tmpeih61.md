@@ -27,8 +27,8 @@ implementations: []
 summary: >-
   Ryan et al. (1983), doi:10.1037/0022-3514.45.4.736. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A2). Cited
-  second-hand in THEORY-049 ("Ryan et al. 1983, p. 653") for the
-  reward-context result; the primary paper would settle what THEORY-049's
+  second-hand in [THEORY-049](../theory.d/THEORY-049.md) ("Ryan et al. 1983, p. 653") for the
+  reward-context result; the primary paper would settle what [THEORY-049](../theory.d/THEORY-049.md)'s
   promote_when asks.
 ---
 <!-- inactive-ok-file: THEORY-049 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Cited second-hand in THEORY-049 ("Ryan et al. 1983, p. 653") for the reward-context result; the primary paper would settle what THEORY-049's promote_when asks.
+Cited second-hand in [THEORY-049](../theory.d/THEORY-049.md) ("Ryan et al. 1983, p. 653") for the reward-context result; the primary paper would settle what [THEORY-049](../theory.d/THEORY-049.md)'s promote_when asks.

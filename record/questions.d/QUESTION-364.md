@@ -149,10 +149,10 @@ In the exchange "Assess SDT Coverage" (2026-11-02) A5 reviewed Jennings's "Atten
 are formed through attention and shape the interests that will guide later
 choices. That would be a worked case of this question, a will-organization
 revising itself. A5's ownership and manipulation objections are this
-question's own, and the installed-organization case is QUESTION-071's. A5
+question's own, and the installed-organization case is [QUESTION-071](QUESTION-071.md)'s. A5
 offered them as new. A13's formal point bears too. The persistence a
 Dirichlet–categorical hierarchy gives a run of choices is the observer's
-learning, not a change in the chooser (CLAIM-tmplz9zf). So a sequence of
+learning, not a change in the chooser ([CLAIM-tmplz9zf](../claims.d/CLAIM-tmplz9zf.md)). So a sequence of
 choices alone cannot show the fluid-to-formed transition.
 
 The question stays open.

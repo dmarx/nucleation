@@ -138,5 +138,5 @@ arbitration), [CLAIM-162](CLAIM-162.md) (flow reported as effortless) and [LIT-9
 
 The owner's "very wu-wei" came back in the exchange "Assess SDT Coverage" (2026-11-02), this time of Ott–Grebogi–Yorke
 control of chaos (U17). This note's predecessor recorded it as appearing once
-and not filed. On its second appearance it is filed as CLAIM-tmpp8p4i,
-Proposed, beside CLAIM-162 and CLAIM-358.
+and not filed. On its second appearance it is filed as [CLAIM-tmpp8p4i](CLAIM-tmpp8p4i.md),
+Proposed, beside [CLAIM-162](CLAIM-162.md) and [CLAIM-358](CLAIM-358.md).

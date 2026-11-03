@@ -178,11 +178,11 @@ untested as one.
 
 ## Note of 2026-11-02: the evidence its promote_when asks for
 
-In the exchange "Assess SDT Coverage" (2026-11-02), A2 named Howard, Gagné and Bureau 2017 (LIT-tmpwslkc), a
+In the exchange "Assess SDT Coverage" (2026-11-02), A2 named Howard, Gagné and Bureau 2017 ([LIT-tmpwslkc](../literature.d/LIT-tmpwslkc.md)), a
 meta-analysis of the continuum of self-determined motivation, as bearing on
 whether integrated regulation is separable from identified regulation. A2
 says it does not find integrated regulation as a distinct factor. That is
-unverified until the paper is read. Deci et al. 1994 (LIT-tmpfyba0), which
-this theory and THEORY-047 hold second-hand, is registered too.
+unverified until the paper is read. Deci et al. 1994 ([LIT-tmpfyba0](../literature.d/LIT-tmpfyba0.md)), which
+this theory and [THEORY-047](THEORY-047.md) hold second-hand, is registered too.
 
 The status is unchanged.

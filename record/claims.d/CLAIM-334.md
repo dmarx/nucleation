@@ -87,7 +87,7 @@ In the exchange "Assess SDT Coverage" (2026-11-02), A5 proposed testing Jennings
 slow oscillations "while holding relevant local inputs … constant". Under
 supervenience that is an intervention on the micro base, which is this
 claim's point. Jennings's abstract distinguishes contextual emergence
-(Bishop and Atmanspacher, LIT-tmpo8e51) from supervenience. So if her paper
+(Bishop and Atmanspacher, [LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)) from supervenience. So if her paper
 succeeds, it falls outside this claim's scope rather than refuting it. That
 is the precise point of contact, and A5 missed it. Bishop and Atmanspacher's
 contextual emergence claims stability conditions for a well-defined

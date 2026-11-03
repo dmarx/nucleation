@@ -28,7 +28,7 @@ implementations: []
 summary: >-
   Reis et al. (2000), doi:10.1177/0146167200266002. Registered unread from
   the exchange "Assess SDT Coverage" of 2026-11-02 (A3). Within-person
-  evidence for the three needs, the design THEORY-052's promote_when
+  evidence for the three needs, the design [THEORY-052](../theory.d/THEORY-052.md)'s promote_when
   prefers to between-person correlation.
 ---
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Within-person evidence for the three needs, the design THEORY-052's promote_when prefers to between-person correlation.
+Within-person evidence for the three needs, the design [THEORY-052](../theory.d/THEORY-052.md)'s promote_when prefers to between-person correlation.

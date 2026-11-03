@@ -251,8 +251,8 @@ through contextual emergence. This claim says "whatever mechanisms realize
 them" and claims non-reducibility to the contents of the regimes, not to
 physics, so the reductionist objection A5 raises to Jennings's further step
 leaves it standing. A5 cited none of the record's will line. The rivals
-CLAIM-159 places (Ainslie, the expected value of control, will-organization)
+[CLAIM-159](CLAIM-159.md) places (Ainslie, the expected value of control, will-organization)
 are where Jennings would be a fourth. Attention changing which interests
-may act is CLAIM-156 and QUESTION-034's second option.
+may act is [CLAIM-156](CLAIM-156.md) and [QUESTION-034](../questions.d/QUESTION-034.md)'s second option.
 
 The claim is unchanged.

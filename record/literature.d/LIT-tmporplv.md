@@ -28,7 +28,7 @@ implementations: []
 summary: >-
   Chirkov et al. (2003), doi:10.1037/0022-3514.84.1.97. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A2). Held
-  second-hand in NOTE-441 (p. 1577); the primary paper for SDT's claim that
+  second-hand in [NOTE-441](../notes.d/NOTE-441.md) (p. 1577); the primary paper for SDT's claim that
   autonomy is not individualism.
 ---
 
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Held second-hand in NOTE-441 (p. 1577); the primary paper for SDT's claim that autonomy is not individualism.
+Held second-hand in [NOTE-441](../notes.d/NOTE-441.md) (p. 1577); the primary paper for SDT's claim that autonomy is not individualism.

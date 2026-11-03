@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Sánchez-Cañizares (2026), doi:10.1007/s11097-026-10164-0. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A21). The
-  open-access follow-up LIT-1132's status note already names. A22
+  open-access follow-up [LIT-1132](LIT-1132.md)'s status note already names. A22
   summarizes what it concedes; that summary is unchecked until it is read.
 ---
 <!-- inactive-ok-file: LIT-1132 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The open-access follow-up LIT-1132's status note already names. A22 summarizes what it concedes; that summary is unchecked until it is read.
+The open-access follow-up [LIT-1132](LIT-1132.md)'s status note already names. A22 summarizes what it concedes; that summary is unchecked until it is read.

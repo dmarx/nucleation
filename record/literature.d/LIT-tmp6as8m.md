@@ -28,7 +28,7 @@ implementations: []
 summary: >-
   Bartholomew et al. (2011), doi:10.1123/jsep.33.1.75. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A3). The
-  operational construct of need thwarting, which bears on QUESTION-131's
+  operational construct of need thwarting, which bears on [QUESTION-131](../questions.d/QUESTION-131.md)'s
   distinction between structural frustration and operative thwarting.
 ---
 <!-- inactive-ok-file: QUESTION-131 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The operational construct of need thwarting, which bears on QUESTION-131's distinction between structural frustration and operative thwarting.
+The operational construct of need thwarting, which bears on [QUESTION-131](../questions.d/QUESTION-131.md)'s distinction between structural frustration and operative thwarting.

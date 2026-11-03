@@ -167,9 +167,9 @@ governance ([CLAIM-357](../claims.d/CLAIM-357.md)).
 
 In the exchange "Assess SDT Coverage" (2026-11-02), A3 named the measures by which self-determination theory
 operationalizes the two halves of this question. Bartholomew et al. 2011
-(LIT-tmp6as8m) measures need thwarting, close to operative thwarting. The
-need-frustration scale (Chen et al., LIT-tmpzyunx) measures felt frustration.
-Murphy et al. 2023 (LIT-tmpjcuzb) doubt the second's validity. All three are
+([LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md)) measures need thwarting, close to operative thwarting. The
+need-frustration scale (Chen et al., [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md)) measures felt frustration.
+Murphy et al. 2023 ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md)) doubt the second's validity. All three are
 registered unread.
 
 The question stays open.

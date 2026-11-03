@@ -29,7 +29,7 @@ summary: >-
   Iyengar and Lepper (1999), doi:10.1037/0022-3514.76.3.349. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A2). The
   cultural challenge to the value of choice; discussed second-hand in
-  NOTE-439 and NOTE-441.
+  [NOTE-439](../notes.d/NOTE-439.md) and [NOTE-441](../notes.d/NOTE-441.md).
 ---
 
 # LIT-tmp0rsz4: Rethinking the value of choice: A cultural perspective on intrinsic motivation.
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The cultural challenge to the value of choice; discussed second-hand in NOTE-439 and NOTE-441.
+The cultural challenge to the value of choice; discussed second-hand in [NOTE-439](../notes.d/NOTE-439.md) and [NOTE-441](../notes.d/NOTE-441.md).

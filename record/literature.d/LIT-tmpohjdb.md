@@ -26,7 +26,7 @@ implementations: []
 summary: >-
   Kermavnar et al. (2024), doi:10.3389/fpsyg.2024.1427478. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A3). A map
-  of the scales by which needs are measured, for QUESTION-tmpee04a.
+  of the scales by which needs are measured, for [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).
 ---
 <!-- inactive-ok-file: QUESTION-tmpee04a — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -41,4 +41,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-A map of the scales by which needs are measured, for QUESTION-tmpee04a.
+A map of the scales by which needs are measured, for [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).

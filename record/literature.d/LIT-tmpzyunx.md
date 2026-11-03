@@ -28,8 +28,8 @@ implementations: []
 summary: >-
   Chen et al. (2014), doi:10.1007/s11031-014-9450-1. Registered unread from
   the exchange "Assess SDT Coverage" of 2026-11-02 (A2, A3). Tests need
-  satisfaction and frustration across four cultures; bears on THEORY-052
-  and on QUESTION-131's operative frustration. Not NOTE-440's "Chen et al.
+  satisfaction and frustration across four cultures; bears on [THEORY-052](../theory.d/THEORY-052.md)
+  and on [QUESTION-131](../questions.d/QUESTION-131.md)'s operative frustration. Not [NOTE-440](../notes.d/NOTE-440.md)'s "Chen et al.
   2015b", which is a different paper.
 ---
 <!-- inactive-ok-file: QUESTION-131 THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -45,4 +45,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Tests need satisfaction and frustration across four cultures; bears on THEORY-052 and on QUESTION-131's operative frustration. Not NOTE-440's "Chen et al. 2015b", which is a different paper.
+Tests need satisfaction and frustration across four cultures; bears on [THEORY-052](../theory.d/THEORY-052.md) and on [QUESTION-131](../questions.d/QUESTION-131.md)'s operative frustration. Not [NOTE-440](../notes.d/NOTE-440.md)'s "Chen et al. 2015b", which is a different paper.

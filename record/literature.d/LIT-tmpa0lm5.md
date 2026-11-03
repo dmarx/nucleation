@@ -28,7 +28,7 @@ summary: >-
   Ntoumanis et al. (2020), doi:10.1080/17437199.2020.1718529. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A2). The
   intervention evidence: whether manipulating need support changes
-  outcomes, which THEORY-052's promote_when asks for in place of
+  outcomes, which [THEORY-052](../theory.d/THEORY-052.md)'s promote_when asks for in place of
   correlations of self-reports.
 ---
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The intervention evidence: whether manipulating need support changes outcomes, which THEORY-052's promote_when asks for in place of correlations of self-reports.
+The intervention evidence: whether manipulating need support changes outcomes, which [THEORY-052](../theory.d/THEORY-052.md)'s promote_when asks for in place of correlations of self-reports.

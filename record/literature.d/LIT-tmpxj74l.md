@@ -30,7 +30,7 @@ summary: >-
   method the owner called "very wu-wei" (U17): small parameter
   perturbations, timed by the system's own wandering, hold it on an
   unstable periodic orbit. The control is small but continues while the
-  orbit is held. Grounds CLAIM-tmpp8p4i and CLAIM-tmpptgk8.
+  orbit is held. Grounds [CLAIM-tmpp8p4i](../claims.d/CLAIM-tmpp8p4i.md) and [CLAIM-tmpptgk8](../claims.d/CLAIM-tmpptgk8.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8p4i — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -45,4 +45,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The method the owner called "very wu-wei" (U17): small parameter perturbations, timed by the system's own wandering, hold it on an unstable periodic orbit. The control is small but continues while the orbit is held. Grounds CLAIM-tmpp8p4i and CLAIM-tmpptgk8.
+The method the owner called "very wu-wei" (U17): small parameter perturbations, timed by the system's own wandering, hold it on an unstable periodic orbit. The control is small but continues while the orbit is held. Grounds [CLAIM-tmpp8p4i](../claims.d/CLAIM-tmpp8p4i.md) and [CLAIM-tmpptgk8](../claims.d/CLAIM-tmpptgk8.md).

@@ -192,14 +192,14 @@ altering what becomes effective." Jennings's attention, as A14 reports it,
 "need not be reflective endorsement", so it is metacontrol and not a
 higher-order volition.
 
-So the architecture is Frankfurt's (LIT-692, THEORY-120). There are two
+So the architecture is Frankfurt's ([LIT-692](../literature.d/LIT-692.md), [THEORY-120](../theory.d/THEORY-120.md)). There are two
 levels, and the upper settles which first-order interest becomes effective.
 But the upper level is a process, not an attitude, so the hat is not
 decoration. What the account inherits unchanged is the ownership problem:
-a manipulated organization can be wholehearted, which CLAIM-022 already
+a manipulated organization can be wholehearted, which [CLAIM-022](CLAIM-022.md) already
 applies to higher-order organizations. What it adds, by A14's report, is
-that attention forms new interests (TERM-023's transformation; CLAIM-025)
-and that it is a contextually emergent cause (CLAIM-334's note of
+that attention forms new interests ([TERM-023](../terms.d/TERM-023.md)'s transformation; [CLAIM-025](CLAIM-025.md))
+and that it is a contextually emergent cause ([CLAIM-334](CLAIM-334.md)'s note of
 2026-11-02). A14 also says both that Jennings supports "a form of
 libertarian freedom" and that she places her view "between compatibilism
 and libertarianism". That cannot be settled until the paper is read.

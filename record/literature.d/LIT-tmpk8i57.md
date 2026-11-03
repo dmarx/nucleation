@@ -29,7 +29,7 @@ summary: >-
   Heymann and Vanden-Eijnden (2008), doi:10.1002/cpa.20238. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A21).
   Computes the most likely transition paths of a noisy system. Bears on the
-  note of 2026-11-02 on QUESTION-071, that a transition's path, not its end
+  note of 2026-11-02 on [QUESTION-071](../questions.d/QUESTION-071.md), that a transition's path, not its end
   state, can tell a noise-driven escape from a directed one.
 ---
 <!-- inactive-ok-file: QUESTION-071 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -45,4 +45,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Computes the most likely transition paths of a noisy system. Bears on the note of 2026-11-02 on QUESTION-071, that a transition's path, not its end state, can tell a noise-driven escape from a directed one.
+Computes the most likely transition paths of a noisy system. Bears on the note of 2026-11-02 on [QUESTION-071](../questions.d/QUESTION-071.md), that a transition's path, not its end state, can tell a noise-driven escape from a directed one.

@@ -28,7 +28,7 @@ summary: >-
   Slingerland (2003), doi:10.1093/oso/9780195138993.001.0001. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (reader of
   U17). Not named by A. The sinological reading against which
-  CLAIM-tmpp8p4i's reading of wu-wei as well-timed small control should be
+  [CLAIM-tmpp8p4i](../claims.d/CLAIM-tmpp8p4i.md)'s reading of wu-wei as well-timed small control should be
   checked (its defeater).
 ---
 <!-- inactive-ok-file: CLAIM-tmpp8p4i — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Not named by A. The sinological reading against which CLAIM-tmpp8p4i's reading of wu-wei as well-timed small control should be checked (its defeater).
+Not named by A. The sinological reading against which [CLAIM-tmpp8p4i](../claims.d/CLAIM-tmpp8p4i.md)'s reading of wu-wei as well-timed small control should be checked (its defeater).

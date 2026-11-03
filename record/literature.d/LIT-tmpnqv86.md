@@ -30,8 +30,8 @@ summary: >-
   exchange "Assess SDT Coverage" of 2026-11-02 (A15, A20). Kane's ultimate
   responsibility and self-forming actions, and ch. 8's chaotic
   amplification of indeterminacy in conflict, which the owner's U20 links
-  to formal chaos (CLAIM-tmpex9rg). The record held Kane only second-hand
-  (THEORY-316, LIT-1867, NOTE-548).
+  to formal chaos ([CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md)). The record held Kane only second-hand
+  ([THEORY-316](../theory.d/THEORY-316.md), [LIT-1867](LIT-1867.md), [NOTE-548](../notes.d/NOTE-548.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpex9rg THEORY-316 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -46,4 +46,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Kane's ultimate responsibility and self-forming actions, and ch. 8's chaotic amplification of indeterminacy in conflict, which the owner's U20 links to formal chaos (CLAIM-tmpex9rg). The record held Kane only second-hand (THEORY-316, LIT-1867, NOTE-548).
+Kane's ultimate responsibility and self-forming actions, and ch. 8's chaotic amplification of indeterminacy in conflict, which the owner's U20 links to formal chaos ([CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md)). The record held Kane only second-hand ([THEORY-316](../theory.d/THEORY-316.md), [LIT-1867](LIT-1867.md), [NOTE-548](../notes.d/NOTE-548.md)).

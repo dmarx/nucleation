@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Campbell et al. (2018), doi:10.1002/jclp.22628. Registered unread from
   the exchange "Assess SDT Coverage" of 2026-11-02 (A3). The one
-  longitudinal study THEORY-052 cites, through LIT-561 p. 12, for need
+  longitudinal study [THEORY-052](../theory.d/THEORY-052.md) cites, through [LIT-561](LIT-561.md) p. 12, for need
   frustration as a transdiagnostic process. Now identified.
 ---
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The one longitudinal study THEORY-052 cites, through LIT-561 p. 12, for need frustration as a transdiagnostic process. Now identified.
+The one longitudinal study [THEORY-052](../theory.d/THEORY-052.md) cites, through [LIT-561](LIT-561.md) p. 12, for need frustration as a transdiagnostic process. Now identified.

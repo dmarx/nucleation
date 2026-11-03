@@ -298,16 +298,16 @@ it means is [ADR-050](../decisions.d/ADR-050.md), Proposed.
 
 ## Note of 2026-11-02: a persona is a character
 
-In the exchange "Assess SDT Coverage" (2026-11-02) the Persona Selection Model (LIT-tmp4flye) was read as a distribution
+In the exchange "Assess SDT Coverage" (2026-11-02) the Persona Selection Model ([LIT-tmp4flye](../literature.d/LIT-tmp4flye.md)) was read as a distribution
 over perspectives (U6). On this term's reading a persona is a character, a
 relation among realizations, not a sense. The model's "distribution over
 personas" is then over kinds the simulator represents. Whether any
 realization of one is a sense-1 perspective is open. The nearest evidence
 is still the note of 2026-10-22, that post-training installs the
-Assistant's standpoint into the workspace (LIT-1347, NOTE-1069, graded weak
-to moderate). CLAIM-tmpwh2jo states what a persona model would need to
+Assistant's standpoint into the workspace ([LIT-1347](../literature.d/LIT-1347.md), [NOTE-1069](../notes.d/NOTE-1069.md), graded weak
+to moderate). [CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md) states what a persona model would need to
 count as one: components that condition one another, shown under
 intervention. In the record "PSM" also abbreviates Metzinger's phenomenal
-self-model (NOTE-460), so the Persona Selection Model is named in full.
+self-model ([NOTE-460](../notes.d/NOTE-460.md)), so the Persona Selection Model is named in full.
 
 The term is unchanged.

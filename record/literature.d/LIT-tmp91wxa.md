@@ -28,7 +28,7 @@ summary: >-
   Vaswani et al. (2017), arXiv:1706.03762. Registered unread from the
   exchange "Assess SDT Coverage" of 2026-11-02 (A23). The source of
   query–key–value attention, the other side of the owner's U23 analogy. The
-  record holds the QK/OV analysis of it (LIT-1534, THEORY-988) but not the
+  record holds the QK/OV analysis of it ([LIT-1534](LIT-1534.md), [THEORY-988](../theory.d/THEORY-988.md)) but not the
   paper.
 ---
 
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The source of query–key–value attention, the other side of the owner's U23 analogy. The record holds the QK/OV analysis of it (LIT-1534, THEORY-988) but not the paper.
+The source of query–key–value attention, the other side of the owner's U23 analogy. The record holds the QK/OV analysis of it ([LIT-1534](LIT-1534.md), [THEORY-988](../theory.d/THEORY-988.md)) but not the paper.

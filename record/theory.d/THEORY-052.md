@@ -129,12 +129,12 @@ et al. (2018a), the one longitudinal study cited, is unread.
 
 In the exchange "Assess SDT Coverage" (2026-11-02), A3 asked for the evidence to be "reassess[ed] separately".
 
-- **The one longitudinal study** this theory cites through LIT-561 p. 12 is
-  now identified: Campbell et al. 2018 (LIT-tmpazv5c), registered unread.
-- **A different objection.** Murphy et al. 2023 (LIT-tmpjcuzb) argue that
+- **The one longitudinal study** this theory cites through [LIT-561](../literature.d/LIT-561.md) p. 12 is
+  now identified: Campbell et al. 2018 ([LIT-tmpazv5c](../literature.d/LIT-tmpazv5c.md)), registered unread.
+- **A different objection.** Murphy et al. 2023 ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md)) argue that
   the need-frustration scale's frustration factor is largely an artefact of
   item keying. That is a construct-validity objection, distinct from the
   shared-content one under "What this does not say", and new to the record.
 
-Neither is read. QUESTION-tmpee04a asks the prior question, what would show
+Neither is read. [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md) asks the prior question, what would show
 a need is a need. The status is unchanged.

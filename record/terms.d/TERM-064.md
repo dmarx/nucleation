@@ -254,15 +254,15 @@ legibility" (U24). The link is right and new.
 - **Attention.** Each head's QK circuit is a bounded observer selecting
   among sources, an observer's rule class realized in an architecture. The
   OV circuit is what the selection transports (Vaswani et al.,
-  LIT-tmp91wxa; Elhage et al., LIT-1534; THEORY-988). The separation is
+  [LIT-tmp91wxa](../literature.d/LIT-tmp91wxa.md); Elhage et al., [LIT-1534](../literature.d/LIT-1534.md); [THEORY-988](../theory.d/THEORY-988.md)). The separation is
   exact only with attention patterns frozen.
 
 So routing against transport, and presentation against model, both separate
 what can be recognized from what it then moves. That is this term's
 legibility, apart from efficacy. The structure is the same; the mechanism is
-not shown to be. A23's "capture of the view" is CLAIM-404's informational
-route and CASE-123, and A24's "legibility capture" is CLAIM-342. A24's new
+not shown to be. A23's "capture of the view" is [CLAIM-404](../claims.d/CLAIM-404.md)'s informational
+route and [CASE-123](../cases.d/CASE-123.md), and A24's "legibility capture" is [CLAIM-342](../claims.d/CLAIM-342.md). A24's new
 question, how much controllable state is legibly controllable, is answered
-by TERM-085's note of 2026-10-31.
+by [TERM-085](TERM-085.md)'s note of 2026-10-31.
 
 The term is unchanged.

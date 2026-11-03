@@ -29,7 +29,7 @@ summary: >-
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A21). The
   SEP entry A21 cites: it says incompatibilists such as Kane must still
   show that agents can harness amplified indeterminism, which is
-  CLAIM-tmpex9rg's point.
+  [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md)'s point.
 ---
 <!-- inactive-ok-file: CLAIM-tmpex9rg — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The SEP entry A21 cites: it says incompatibilists such as Kane must still show that agents can harness amplified indeterminism, which is CLAIM-tmpex9rg's point.
+The SEP entry A21 cites: it says incompatibilists such as Kane must still show that agents can harness amplified indeterminism, which is [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md)'s point.

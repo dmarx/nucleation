@@ -28,8 +28,8 @@ implementations: []
 summary: >-
   Deci et al. (1994), doi:10.1111/j.1467-6494.1994.tb00797.x. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A2).
-  THEORY-047 names it as the missing primary source for its internalization
-  experiment, and THEORY-054 leans on the same study. Held second-hand
+  [THEORY-047](../theory.d/THEORY-047.md) names it as the missing primary source for its internalization
+  experiment, and [THEORY-054](../theory.d/THEORY-054.md) leans on the same study. Held second-hand
   only.
 ---
 <!-- inactive-ok-file: THEORY-047 THEORY-054 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -45,4 +45,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-THEORY-047 names it as the missing primary source for its internalization experiment, and THEORY-054 leans on the same study. Held second-hand only.
+[THEORY-047](../theory.d/THEORY-047.md) names it as the missing primary source for its internalization experiment, and [THEORY-054](../theory.d/THEORY-054.md) leans on the same study. Held second-hand only.

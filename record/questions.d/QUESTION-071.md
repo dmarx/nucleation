@@ -222,7 +222,7 @@ sum. This is the third time. Two points are new.
 - **The transition path, not the end state** (A21 §3). In a gradient system
   with small isotropic noise, the most likely escape follows the
   time-reversal of the relaxation path from the saddle (Freidlin–Wentzell;
-  LIT-1881; Heymann and Vanden-Eijnden, LIT-tmpk8i57, registered). A directed
+  [LIT-1881](../literature.d/LIT-1881.md); Heymann and Vanden-Eijnden, [LIT-tmpk8i57](../literature.d/LIT-tmpk8i57.md), registered). A directed
   transition need not, unless the controller imitates the noise path. So
   history can record more than the end state. This holds only in the
   frozen-slow-variable limit, since the toy is not a gradient system and its
@@ -233,9 +233,9 @@ sum. This is the third time. Two points are new.
     slow dispositions by the agent's own processes (A19 §5).
   - Comparing the agent's channel with an outsider's for the same transition
     by their Gramians gives one measurable component (A20 §4;
-    CLAIM-tmpptgk8).
-  - Capture needs no instability. Near threshold, CASE-099's mixed mode is
+    [CLAIM-tmpptgk8](../claims.d/CLAIM-tmpptgk8.md)).
+  - Capture needs no instability. Near threshold, [CASE-099](../cases.d/CASE-099.md)'s mixed mode is
     also its slow one, so a one-time perturbation lasts about −1/ln λ₊ steps.
-    That is persistence, not self-maintenance (CLAIM-tmpxpdqi).
+    That is persistence, not self-maintenance ([CLAIM-tmpxpdqi](../claims.d/CLAIM-tmpxpdqi.md)).
 
 The question stays open.

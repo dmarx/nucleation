@@ -29,7 +29,7 @@ summary: >-
   account of contextual emergence Jennings's paper is reported to use. It
   claims stability conditions that make a higher-level description well
   defined, not new causal powers; that is the point of contact with
-  CLAIM-334.
+  [CLAIM-334](../claims.d/CLAIM-334.md).
 ---
 
 # LIT-tmpo8e51: Contextual Emergence in the Description of Properties
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The account of contextual emergence Jennings's paper is reported to use. It claims stability conditions that make a higher-level description well defined, not new causal powers; that is the point of contact with CLAIM-334.
+The account of contextual emergence Jennings's paper is reported to use. It claims stability conditions that make a higher-level description well defined, not new causal powers; that is the point of contact with [CLAIM-334](../claims.d/CLAIM-334.md).

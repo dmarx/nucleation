@@ -30,9 +30,9 @@ summary: >-
   Registered unread from the exchange "Assess SDT Coverage" of 2026-11-02
   (A6). The Persona Selection Model, the frame of U6 to U12: pretraining
   learns a distribution over personas, post-training a distribution over
-  Assistant personas, and context conditions it. CLAIM-tmpwh2jo and
-  QUESTION-tmpildq9 are put against it. "PSM" in the record already
-  abbreviates Metzinger's phenomenal self-model (NOTE-460), so this work is
+  Assistant personas, and context conditions it. [CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md) and
+  [QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md) are put against it. "PSM" in the record already
+  abbreviates Metzinger's phenomenal self-model ([NOTE-460](../notes.d/NOTE-460.md)), so this work is
   named in full.
 ---
 <!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-tmpildq9 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -48,4 +48,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The Persona Selection Model, the frame of U6 to U12: pretraining learns a distribution over personas, post-training a distribution over Assistant personas, and context conditions it. CLAIM-tmpwh2jo and QUESTION-tmpildq9 are put against it. "PSM" in the record already abbreviates Metzinger's phenomenal self-model (NOTE-460), so this work is named in full.
+The Persona Selection Model, the frame of U6 to U12: pretraining learns a distribution over personas, post-training a distribution over Assistant personas, and context conditions it. [CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md) and [QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md) are put against it. "PSM" in the record already abbreviates Metzinger's phenomenal self-model ([NOTE-460](../notes.d/NOTE-460.md)), so this work is named in full.

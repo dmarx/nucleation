@@ -28,7 +28,7 @@ summary: >-
   Scheffer et al. (2009), doi:10.1038/nature08227. Registered unread from
   the exchange "Assess SDT Coverage" of 2026-11-02 (A21). Critical slowing
   down as an early warning. The record holds Scheffer et al. 2001 and
-  Scheffer and Carpenter 2003 (LIT-720, LIT-726); this is the review A16
+  Scheffer and Carpenter 2003 ([LIT-720](LIT-720.md), [LIT-726](LIT-726.md)); this is the review A16
   and A21 cite.
 ---
 <!-- inactive-ok-file: LIT-720 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Critical slowing down as an early warning. The record holds Scheffer et al. 2001 and Scheffer and Carpenter 2003 (LIT-720, LIT-726); this is the review A16 and A21 cite.
+Critical slowing down as an early warning. The record holds Scheffer et al. 2001 and Scheffer and Carpenter 2003 ([LIT-720](LIT-720.md), [LIT-726](LIT-726.md)); this is the review A16 and A21 cite.

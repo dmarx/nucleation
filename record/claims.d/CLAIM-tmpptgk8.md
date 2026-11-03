@@ -33,7 +33,7 @@ summary: >-
   e^{λT}") and A22 §5 the channel case. The scalar signal-to-noise result
   is the reader's derivation, checked by simulation. It sharpens the
   owner's point: sensitivity makes control cheaper and, without feedback,
-  less decisive against noise. CLAIM-345 holds the cost formula and not
+  less decisive against noise. [CLAIM-345](CLAIM-345.md) holds the cost formula and not
   the allocation across channels.
 ---
 <!-- inactive-ok-file: CLAIM-354 CLAIM-tmpex9rg LIT-tmpxj74l QUESTION-071 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -48,7 +48,7 @@ outside party's and ξ noise. By variation of constants every input reaches
 the final state through the same Φ(T, t). The Lyapunov spectrum is a property
 of Φ. What each input can reach is a property of (Φ, B_w), its Gramian
 W_w(T) = ∫₀ᵀ Φ(T, t)B_wB_wᵀΦ(T, t)ᵀ dt, and its least energy for a
-displacement Δx in range is Δxᵀ W_w^† Δx (CLAIM-345). So two systems equally
+displacement Δx in range is Δxᵀ W_w^† Δx ([CLAIM-345](CLAIM-345.md)). So two systems equally
 chaotic can differ arbitrarily in how control is shared among the three.
 Over long horizons any channel with a generic component along the leading
 unstable direction grows at the same rate λ, so the channels differ in their
@@ -71,7 +71,7 @@ Simulated (20,000 paths, T = 8, b = u = σ = 1): λ = 0.5, 1, 2 give ratios
 So sensitivity lowers the cost of control but does not raise the
 controller's share of the outcome against disturbances in the same
 direction. Feedback that observes the state changes that, which is what
-Ott, Grebogi and Yorke's control of chaos does (LIT-tmpxj74l).
+Ott, Grebogi and Yorke's control of chaos does ([LIT-tmpxj74l](../literature.d/LIT-tmpxj74l.md)).
 
 ## What it does not say
 
@@ -79,6 +79,6 @@ Ott, Grebogi and Yorke's control of chaos does (LIT-tmpxj74l).
   and slow modes are where an effect can outlast its cause; the claim is
   local.
 - **That the agent is the author of what its channel does.** A channel's
-  reach is not whose input it carries (CLAIM-022, QUESTION-071).
-- **That comparisons of energy across channels are free.** As CLAIM-345
+  reach is not whose input it carries ([CLAIM-022](CLAIM-022.md), [QUESTION-071](../questions.d/QUESTION-071.md)).
+- **That comparisons of energy across channels are free.** As [CLAIM-345](CLAIM-345.md)
   says, they need inputs in common units and budgets.

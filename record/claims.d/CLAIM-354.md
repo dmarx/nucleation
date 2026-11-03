@@ -212,7 +212,7 @@ In the exchange "Assess SDT Coverage" (2026-11-02) the replies rebuilt this clai
 reachable set and Gramian, A21's "robust reachability" and A22's three
 levels. Three points add to it.
 
-- **Non-domination** (Pettit, LIT-1614). An agent can be unfree because
+- **Non-domination** (Pettit, [LIT-1614](../literature.d/LIT-1614.md)). An agent can be unfree because
   another holds an effective, unaccountable channel it never uses. The
   "governance" dimension, the remote-operated robot, covers actual external
   determination, not that counterfactual capacity. Formally it is the robust
@@ -222,7 +222,7 @@ levels. Three points add to it.
   A22 §3). A slow state that changes the agent's own gain, an outsider's and
   the noise gain makes susceptibility itself governable. That extends
   governance reconfigurability from what the agent can do to what can be
-  done to it. The demonstrated part is CLAIM-tmpptgk8.
+  done to it. The demonstrated part is [CLAIM-tmpptgk8](CLAIM-tmpptgk8.md).
 - **A25 §7's reachable set of governance and legibility configurations**,
   ∃π_s ∀π_e. It ranges over every feedback policy. Against A25's own model
   it should range over the policies the current organization can carry out
@@ -230,5 +230,5 @@ levels. Three points add to it.
   legibility drops out of the set.
 
 A26 identified freedom with the whole profile under reflexive revision.
-That is filed as CLAIM-tmpxpdqi, Proposed, resting on this claim. The claim
+That is filed as [CLAIM-tmpxpdqi](CLAIM-tmpxpdqi.md), Proposed, resting on this claim. The claim
 is unchanged.

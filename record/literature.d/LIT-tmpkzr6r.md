@@ -27,9 +27,9 @@ implementations: []
 summary: >-
   Martela and Ryan (2019), doi:10.1007/s11031-019-09800-x. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A3). Held
-  second-hand in NOTE-440: beneficence's frustration adds no variance, so
+  second-hand in [NOTE-440](../notes.d/NOTE-440.md): beneficence's frustration adds no variance, so
   it is classed a wellness enhancer rather than a need. For
-  QUESTION-tmpee04a.
+  [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).
 ---
 <!-- inactive-ok-file: QUESTION-tmpee04a — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Held second-hand in NOTE-440: beneficence's frustration adds no variance, so it is classed a wellness enhancer rather than a need. For QUESTION-tmpee04a.
+Held second-hand in [NOTE-440](../notes.d/NOTE-440.md): beneficence's frustration adds no variance, so it is classed a wellness enhancer rather than a need. For [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).

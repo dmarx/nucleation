@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Froese (2023), doi:10.3390/e25050748. Registered unread from the exchange
   "Assess SDT Coverage" of 2026-11-02 (A21). The source of Irruption
-  Theory, which LIT-1132 and Sánchez-Cañizares 2026 apply.
+  Theory, which [LIT-1132](LIT-1132.md) and Sánchez-Cañizares 2026 apply.
 ---
 <!-- inactive-ok-file: LIT-1132 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -42,4 +42,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The source of Irruption Theory, which LIT-1132 and Sánchez-Cañizares 2026 apply.
+The source of Irruption Theory, which [LIT-1132](LIT-1132.md) and Sánchez-Cañizares 2026 apply.

@@ -27,9 +27,9 @@ implementations: []
 summary: >-
   Blei et al. (2003), https://jmlr.org/papers/v3/blei03a.html. Registered
   unread from the exchange "Assess SDT Coverage" of 2026-11-02 (U9–U12).
-  The model the owner's U12 says H2 is. The record holds hLDA (LIT-1542),
-  the nested HDP (LIT-002) and LIT-677, an ELBO paper about LDA, but not
-  LDA itself. Grounds CLAIM-tmphbnqm.
+  The model the owner's U12 says H2 is. The record holds hLDA ([LIT-1542](LIT-1542.md)),
+  the nested HDP ([LIT-002](LIT-002.md)) and [LIT-677](LIT-677.md), an ELBO paper about LDA, but not
+  LDA itself. Grounds [CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md).
 ---
 <!-- inactive-ok-file: LIT-677 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -44,4 +44,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The model the owner's U12 says H2 is. The record holds hLDA (LIT-1542), the nested HDP (LIT-002) and LIT-677, an ELBO paper about LDA, but not LDA itself. Grounds CLAIM-tmphbnqm.
+The model the owner's U12 says H2 is. The record holds hLDA ([LIT-1542](LIT-1542.md)), the nested HDP ([LIT-002](LIT-002.md)) and [LIT-677](LIT-677.md), an ELBO paper about LDA, but not LDA itself. Grounds [CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md).

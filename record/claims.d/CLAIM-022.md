@@ -92,9 +92,9 @@ No status, title or warrant changes.
 
 In the exchange "Assess SDT Coverage" (2026-11-02) the owner asked about Kane's libertarian sourcehood (U15). Kane's
 ultimate responsibility is the historical condition that would answer this
-disclaimer's question. The record held Kane only second-hand (THEORY-316,
-LIT-1867, LIT-1045, NOTE-548, NOTE-856). *The Significance of Free Will*
-(LIT-tmpnqv86) and "Libertarianism" (LIT-tmpmi6rp) are now registered,
+disclaimer's question. The record held Kane only second-hand ([THEORY-316](../theory.d/THEORY-316.md),
+[LIT-1867](../literature.d/LIT-1867.md), [LIT-1045](../literature.d/LIT-1045.md), [NOTE-548](../notes.d/NOTE-548.md), [NOTE-856](../notes.d/NOTE-856.md)). *The Significance of Free Will*
+([LIT-tmpnqv86](../literature.d/LIT-tmpnqv86.md)) and "Libertarianism" ([LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md)) are now registered,
 unread.
 
 A15 drew a distinction the record already observes. "The self-formation
@@ -103,12 +103,12 @@ relationships through which their future actions become possible and
 effective." "The libertarian sourcehood thesis: Some of that participation
 must be undetermined, and its indeterminacy must be compatible with a kind
 of control sufficient for ultimate responsibility." The record holds the
-first (TERM-023's transformation; CLAIM-025) and, by this claim, does not
+first ([TERM-023](../terms.d/TERM-023.md)'s transformation; [CLAIM-025](CLAIM-025.md)) and, by this claim, does not
 settle the second. The authenticity line, set aside on 2026-10-05, is
-where it belongs. The entry a Kanean would contest is CLAIM-356 ("exogenous
+where it belongs. The entry a Kanean would contest is [CLAIM-356](CLAIM-356.md) ("exogenous
 origin does not disqualify a goal"). It is about goals and not
 responsibility, so there is no contradiction, but a theorist of ultimate
 responsibility denies its analogue for responsibility. The owner's link
-between Kane and chaos is CLAIM-tmpex9rg.
+between Kane and chaos is [CLAIM-tmpex9rg](CLAIM-tmpex9rg.md).
 
 The claim is unchanged.

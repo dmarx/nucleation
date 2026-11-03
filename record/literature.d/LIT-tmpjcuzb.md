@@ -31,7 +31,7 @@ summary: >-
   exchange "Assess SDT Coverage" of 2026-11-02 (A3). A construct-validity
   objection to the need-frustration scale, that its frustration factor may
   be largely an item-keying artefact. Distinct from the shared-content
-  objection THEORY-052 already notes, and new to the record.
+  objection [THEORY-052](../theory.d/THEORY-052.md) already notes, and new to the record.
 ---
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -46,4 +46,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-A construct-validity objection to the need-frustration scale, that its frustration factor may be largely an item-keying artefact. Distinct from the shared-content objection THEORY-052 already notes, and new to the record.
+A construct-validity objection to the need-frustration scale, that its frustration factor may be largely an item-keying artefact. Distinct from the shared-content objection [THEORY-052](../theory.d/THEORY-052.md) already notes, and new to the record.

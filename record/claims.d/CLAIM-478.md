@@ -275,12 +275,12 @@ the argument needs.
 
 In the exchange "Assess SDT Coverage" (2026-11-02) the owner tied "controllability and sensitivity to change and chaos
 and slow modes" together (U16). The replies never cited Yang and Abanin
-(LIT-tmp8mp1c), filed earlier the same day, which fits the grouping. Under
+([LIT-tmp8mp1c](../literature.d/LIT-tmp8mp1c.md)), filed earlier the same day, which fits the grouping. Under
 weak noise, chaos plays two roles. It amplifies differences, and it erases
 their coarse trace except along slow, near-conserved quantities. So an
 effect that lasts must reach the slow modes. For a slow mode ṡ = −εs + bu
 the long-horizon gain is b/ε and holding a value costs u = εs*/b. But for
 εT ≪ 1, s(T) ≈ buT whatever ε is, so slowness makes a change last and
-cheap to hold, not faster to make. The owner's thesis is CLAIM-tmpex9rg.
+cheap to hold, not faster to make. The owner's thesis is [CLAIM-tmpex9rg](CLAIM-tmpex9rg.md).
 
 The claim is unchanged.

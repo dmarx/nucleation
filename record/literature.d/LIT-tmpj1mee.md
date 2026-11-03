@@ -27,7 +27,7 @@ implementations: []
 summary: >-
   Kasser and Ryan (1996), doi:10.1177/0146167296223006. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A2). Goal Contents
-  Theory. NOTE-439's C4 (extrinsic aspirations predict lower well-being
+  Theory. [NOTE-439](../notes.d/NOTE-439.md)'s C4 (extrinsic aspirations predict lower well-being
   beyond the reasons for them) is held as SDT's report, graded moderate,
   without the primary studies.
 ---
@@ -43,4 +43,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-Goal Contents Theory. NOTE-439's C4 (extrinsic aspirations predict lower well-being beyond the reasons for them) is held as SDT's report, graded moderate, without the primary studies.
+Goal Contents Theory. [NOTE-439](../notes.d/NOTE-439.md)'s C4 (extrinsic aspirations predict lower well-being beyond the reasons for them) is held as SDT's report, graded moderate, without the primary studies.

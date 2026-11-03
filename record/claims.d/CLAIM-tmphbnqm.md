@@ -47,7 +47,7 @@ episode d:
 
 - **H1, categorical.** z_{d,n} ~ Cat(π) for one fixed π shared by every
   episode.
-- **H2, LDA-style admixture** (Blei, Ng and Jordan, LIT-tmp0o6ud). Each episode
+- **H2, LDA-style admixture** (Blei, Ng and Jordan, [LIT-tmp0o6ud](../literature.d/LIT-tmp0o6ud.md)). Each episode
   draws its own mixture θ_d ~ Dir(α), then z_{d,n} ~ Cat(θ_d). In smoothed
   LDA each topic's distribution over outputs has its own Dirichlet prior,
   which is not the one at issue here.
@@ -76,7 +76,7 @@ P(z_{d,1} = z_{d',1}) = Σ_k E[θ_k] E[θ'_k] = 1/K.
 So the owner's H1 has two readings, one draw per conversation or one per
 act, and they are the two limits of H2's concentration. H2 is the family
 between them. The contrast is testable by within-episode against
-between-episode co-occurrence (QUESTION-tmpildq9).
+between-episode co-occurrence ([QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md)).
 
 **Checked** by simulation (400,000 episodes each, 2026-11-02): K = 3, a = 1
 gives 0.499 within against 0.5 predicted, and 0.3335 across against 1/3; K =
@@ -91,11 +91,11 @@ gives 0.499 within against 0.5 predicted, and 0.3335 across against 1/3; K =
   gives the same 1/2. What makes LDA hierarchical is many episodes, each with
   its own θ_d, sharing α. Its signature is the within-against-between
   contrast, not the within-episode figure alone.
-- **That an admixture is a feature allocation.** CASE-165's
+- **That an admixture is a feature allocation.** [CASE-165](../cases.d/CASE-165.md)'s
   beta–Bernoulli model lets a member hold several features at once, and
-  CLAIM-454's "feature allocation" is that sense. An admixture puts one
+  [CLAIM-454](CLAIM-454.md)'s "feature allocation" is that sense. An admixture puts one
   component behind each act. Which H2 the record means matters for
-  QUESTION-276's overlap requirement.
+  [QUESTION-276](../questions.d/QUESTION-276.md)'s overlap requirement.
 - **That an H2 fit is organization.** An LDA's components are exchangeable
-  given θ_d (CLAIM-tmpwh2jo), and its reinforcement of a run of choices is
-  the observer's learning (CLAIM-tmplz9zf).
+  given θ_d ([CLAIM-tmpwh2jo](CLAIM-tmpwh2jo.md)), and its reinforcement of a run of choices is
+  the observer's learning ([CLAIM-tmplz9zf](CLAIM-tmplz9zf.md)).

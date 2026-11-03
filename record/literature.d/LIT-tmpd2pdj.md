@@ -30,7 +30,7 @@ summary: >-
   Klyubin et al. (2005), doi:10.1109/CEC.2005.1554676. Registered unread
   from the exchange "Assess SDT Coverage" of 2026-11-02 (A21, A25). The
   first statement of empowerment. Identified in the curation entry of
-  2026-10-18 as essential for CLAIM-354 and left unregistered then.
+  2026-10-18 as essential for [CLAIM-354](../claims.d/CLAIM-354.md) and left unregistered then.
 ---
 <!-- inactive-ok-file: CLAIM-354 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -45,4 +45,4 @@ replies said of it is unverified.
 
 ## Standing in the record
 
-The first statement of empowerment. Identified in the curation entry of 2026-10-18 as essential for CLAIM-354 and left unregistered then.
+The first statement of empowerment. Identified in the curation entry of 2026-10-18 as essential for [CLAIM-354](../claims.d/CLAIM-354.md) and left unregistered then.

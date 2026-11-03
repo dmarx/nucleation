@@ -28,7 +28,7 @@ summary: >-
   Jennings's attention as the source of a free will. A13: "Self-formation
   requires a causal update, not merely a posterior update in the
   observer." Correct, short and not held. It limits the record's own
-  H1/H2 reading (CLAIM-tmphbnqm) and A11's suggestion that LDA already has
+  H1/H2 reading ([CLAIM-tmphbnqm](CLAIM-tmphbnqm.md)) and A11's suggestion that LDA already has
   "a primitive analogue of a will-organization". Rechecked here by
   simulation.
 ---
@@ -47,11 +47,11 @@ The rise from 1/2 to 2/3 is information about θ, gained by whoever watches
 the first choice. Nothing in the chooser changed. So the tendency of a
 Dirichlet–categorical hierarchy to "reinforce" a run of selections is the
 observer's learning about a fixed mixture. Self-formation, in the sense the
-record holds (TERM-023's transformation; CLAIM-025's capacity to transform
+record holds ([TERM-023](../terms.d/TERM-023.md)'s transformation; [CLAIM-025](CLAIM-025.md)'s capacity to transform
 the governing organization), needs the mixture itself to change because of
 the choice. That is a further structure, for example θ_{t+1} = F(θ_t, Z_t),
 and it is told apart from the observer's learning only by intervening
-(CLAIM-414).
+([CLAIM-414](CLAIM-414.md)).
 
 ## What it does not say
 
