@@ -28,7 +28,7 @@ reported_in:
 - LIT-1302
 - NOTE-1019
 ---
-<!-- inactive-ok-file: CLAIM-034 CLAIM-220 CLAIM-002 — Proposed; claims this case illustrates or bears on, open -->
+<!-- inactive-ok-file: CLAIM-034 CLAIM-220 — Proposed; claims this case illustrates or bears on, open -->
 
 # CASE-122: Warhol's Orange Prince, licensed to Condé Nast in 2016 from a 1981 Goldsmith photograph: the Supreme Court judged the use by its purpose and the dissent by its meaning, and the same cover came out a substitute on one test and a new work on the other
 

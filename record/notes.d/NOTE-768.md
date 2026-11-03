@@ -27,7 +27,7 @@ summary: >-
   from a common external signal, and the paper treats both alike.
 ---
 <!-- inactive-ok-file: THEORY-125 THEORY-126 THEORY-129 THEORY-069 — Proposed; the accounts on QUESTION-053 and QUESTION-063 this reading is set beside, and the coordination-dynamics line it draws on, open -->
-<!-- inactive-ok-file: CLAIM-172 CLAIM-167 — Proposed; the coupling-architecture claims QUESTION-063 serves, open -->
+<!-- inactive-ok-file: CLAIM-167 — Proposed; the coupling-architecture claims QUESTION-063 serves, open -->
 
 # NOTE-768: Nowak et al. — Functional Synchronization
 

@@ -23,7 +23,7 @@ summary: >-
   that would sharpen the world-model distinction. Not run; its
   architectures, tasks and margins are left to a preregistration.
 ---
-<!-- inactive-ok-file: CLAIM-514 CLAIM-519 QUESTION-362 — Proposed or Open; the claims it would test and the question it serves, cited as open -->
+<!-- inactive-ok-file: CLAIM-514 CLAIM-519 — Proposed or Open; the claims it would test and the question it serves, cited as open -->
 
 # CASE-187: A proposed study: agents matched on competence over a declared family of goals, one planning with an explicit transition model, one a directly learned goal-conditioned policy, one a distributed predictive-state controller, compared on the original goals, on on-demand predictive and interventional queries, under targeted internal interventions, and after environmental change and damage to their predictive machinery, to find which world-modeling achievements are linked and which come apart under matched resources
 

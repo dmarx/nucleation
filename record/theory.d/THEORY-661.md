@@ -50,8 +50,8 @@ supports:
 - CLAIM-157
 - CLAIM-331
 ---
-<!-- inactive-ok-file: LIT-1127 LIT-1242 — Deferred; works registered unread, cited as open, nothing here rests on them -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-194 CLAIM-331 THEORY-257 THEORY-265 — Proposed; claims that rest on this result and neighbouring accounts, named for context -->
+<!-- inactive-ok-file: LIT-1127 — Deferred; works registered unread, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; claims that rest on this result and neighbouring accounts, named for context -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; the objection named for what the theorem does not settle -->
 
 # THEORY-661: In a nearly decomposable system, where interactions within subsystems are much stronger than interactions between them, each subsystem's short-run behaviour is approximately independent of the others', and in the long run each depends on the others only through their aggregate behaviour; so a hierarchy defined by intensity of interaction separates fast dynamics inside its parts from slow, aggregate dynamics between them

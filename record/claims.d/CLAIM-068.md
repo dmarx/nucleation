@@ -52,8 +52,7 @@ summary: >-
 illustrated_by:
 - CASE-068
 ---
-<!-- inactive-ok-file: THEORY-164 THEORY-167 — Proposed; cited as bearing on this claim, not as settled -->
-<!-- inactive-ok-file: CLAIM-081 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-167 — Proposed; cited as bearing on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-090 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-234 — Superseded by ARG-027; the objection as conceded on 2026-10-10, cited as history -->
 <!-- inactive-ok-file: THEORY-173 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->

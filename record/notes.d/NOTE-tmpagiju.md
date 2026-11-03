@@ -28,7 +28,7 @@ summary: >-
   Assistant; capping the projection cuts persona-jailbreak harm by about
   60% without measured capability loss.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-tmpildq9 THEORY-tmprb3rb — Proposed or Open; the entries the reading bears on and a THEORY filed from it, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpwh2jo THEORY-tmprb3rb — Proposed or Open; the entries the reading bears on and a THEORY filed from it, cited as open -->
 
 # NOTE-tmpagiju: Lu, Gallagher, Michala, Fish & Lindsey — The Assistant Axis
 

@@ -26,7 +26,7 @@ summary: >-
   samples of 42 to 128, mostly as predicted, a few at p < .07, and
   behaviour is the weakest link.
 ---
-<!-- inactive-ok-file: THEORY-049 THEORY-054 QUESTION-071 CLAIM-016 — Proposed, Open or Deferred; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-049 THEORY-054 CLAIM-016 — Proposed, Open or Deferred; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpuvza0: Deci & Ryan — The General Causality Orientations Scale
 

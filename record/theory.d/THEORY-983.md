@@ -29,7 +29,7 @@ summary: >-
   accuracy on training pairs, nor that the learned subspaces are unique:
   every rotation within them gives the same interventions.
 ---
-<!-- inactive-ok-file: THEORY-802 CLAIM-454 — Proposed; the account and claim this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-802 — Proposed; the account and claim this bears on, cited as open -->
 
 # THEORY-983: In Geiger et al.'s three-layer feed-forward network trained on hierarchical equality and in BERT fine-tuned on monotonicity inference, interchange interventions on subspaces found by a learned rotation aligned the hypothesised two-variable causal models with interchange intervention accuracy of 1.00 on the rotation's training data, where the axis-aligned alignment closest to the learned rotation reached 0.73 and 0.51; in BERT, the learned lexical-entailment subspace was in turn aligned, at 0.97 to 0.98, with a model holding only the identities of the two words
 

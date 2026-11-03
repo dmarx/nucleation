@@ -34,7 +34,7 @@ summary: >-
   the last few blocks, and full fine-tuning erases the difference. For the
   pretraining classes themselves, more separation helps.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-104 THEORY-286 — Proposed; the statement of collapse, the layer-wise account, and the two derivations of collapse filed today -->
+<!-- inactive-ok-file: THEORY-104 THEORY-286 — Proposed; the statement of collapse, the layer-wise account, and the two derivations of collapse filed today -->
 
 # NOTE-762: Kornblith, Chen, Lee & Norouzi — Why Do Better Loss Functions Lead to Less Transferable Features?
 

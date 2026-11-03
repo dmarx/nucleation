@@ -82,14 +82,12 @@ complements:
 - CLAIM-354
 - CLAIM-454
 ---
-<!-- inactive-ok-file: CLAIM-156 QUESTION-034 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-156 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-487 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
-<!-- inactive-ok-file: CLAIM-159 — Proposed; the partial reply to CLAIM-024 the status review of 2026-10-27 names, open -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; answered on 2026-10-27, cited as the history of this claim's objections -->
-<!-- inactive-ok-file: CLAIM-296 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-027: Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them
 
@@ -211,7 +209,7 @@ the test the record most owes it.
 
 ## Note of 2026-11-01: mind-wandering as a mental-scale instance, and the test Metzinger names
 
-<!-- inactive-ok: THEORY-1297 THEORY-1300 THEORY-1296 ARG-051 QUESTION-367 — Proposed or Open; the readings, the inference and the question this note reports, cited as open -->
+<!-- inactive-ok: THEORY-1297 THEORY-1300 THEORY-1296 ARG-051 — Proposed or Open; the readings, the inference and the question this note reports, cited as open -->
 
 Metzinger's work on mental autonomy ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md),
 [LIT-1945](../literature.d/LIT-1945.md)) was read for this claim. It is filed as [ARG-051](../arguments.d/ARG-051.md), a third

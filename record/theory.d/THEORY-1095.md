@@ -31,7 +31,6 @@ summary: >-
   with z < 2, which is expected "on physical grounds". The change-of-
   neighbours mechanism is a heuristic. Proposed for those two steps.
 ---
-<!-- inactive-ok-file: CLAIM-280 — Proposed; the turnover claim this mechanism bears on, cited as open -->
 
 # THEORY-1095: In Toner and Tu's hydrodynamic model of a flock, true long-range orientational order survives in two dimensions, where the Mermin–Wagner theorem forbids it at equilibrium and the model's own linearized theory loses it, because the convective coupling of the velocity field to its own transport, relevant below four dimensions, keeps the transverse velocity fluctuations bounded; the authors' heuristic is that motion keeps changing each member's neighbours, so originally distant members come to interact
 

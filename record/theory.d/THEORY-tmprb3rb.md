@@ -26,7 +26,6 @@ summary: >-
   human study.
 ---
 <!-- inactive-ok-file: NOTE-tmpagiju — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: QUESTION-tmpildq9 — Open; the question whose test the result bears on -->
 
 # THEORY-tmprb3rb: In multi-turn conversations a chat model's persona is not fixed for the episode: its position along the Assistant Axis is set mainly by the most recent user message (ridge R² 0.53–0.77 from message embeddings) rather than by where it was before (R² 0.10 for the change), so that therapy-like and AI-philosophy conversations drift away from the Assistant and coding and writing ones do not
 

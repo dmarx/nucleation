@@ -24,7 +24,7 @@ summary: >-
   each other's relation to well-being, and the authors say the direction
   is undetermined.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a THEORY-052 THEORY-tmpvfke3 TERM-tmp8spbn — Open, Proposed or new; cited as open -->
+<!-- inactive-ok-file: THEORY-052 TERM-tmp8spbn — Open, Proposed or new; cited as open -->
 
 # NOTE-tmpo9h31: La Guardia et al. — Within-person variation in security of attachment
 

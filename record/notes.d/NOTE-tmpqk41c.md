@@ -28,7 +28,7 @@ summary: >-
   mediation was not tested, the number of SDT techniques predicted
   nothing, and need frustration was not an outcome.
 ---
-<!-- inactive-ok-file: THEORY-tmpdzmer THEORY-052 THEORY-050 QUESTION-tmpee04a — Proposed or Open; the THEORY filed from this reading and the entries it bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-050 — Proposed or Open; the THEORY filed from this reading and the entries it bears on, cited as open -->
 
 # NOTE-tmpqk41c: Ntoumanis et al. — SDT-informed health interventions, a meta-analysis
 

@@ -43,7 +43,6 @@ summary: >-
 corroborates:
 - CLAIM-321
 ---
-<!-- inactive-ok-file: CLAIM-321 — Proposed; the record's own claim this reading corroborates, named in Connections -->
 
 # THEORY-678: In Stable Diffusion, a subject named in a two-subject prompt is left out of the image when its token governs no region of the cross-attention map early in sampling, and raising that token's smoothed peak attention during the first half of sampling, by gradient steps on the latent with no retraining, brings the subject back; that this also fixes attribute binding is argued, not measured by the paper
 

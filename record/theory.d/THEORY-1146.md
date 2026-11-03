@@ -54,7 +54,6 @@ summary: >-
   report (ADR-065); whether search finds it at scale is QUESTION-346.
 ---
 
-<!-- inactive-ok-file: QUESTION-346 — Open; the question this report leaves, cited as open -->
 
 # THEORY-1146: Under confounding the partition of a variable X by what it predicts about a target Y can differ from its partition by what setting it does to Y, so the information bottleneck at full sufficiency can learn distinctions no intervention could use and miss ones only intervention reveals, as it did in two confounded toy models, while the causal information bottleneck, computed from observational data through a backdoor set, recovered the causal partition in all three toy models, projected gradient search finding it in 95 to 100 percent of runs
 

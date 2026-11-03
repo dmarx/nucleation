@@ -29,7 +29,7 @@ summary: >-
   formats. It names no criterion for need-hood and declines to take a
   side on the two-dimensional model.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a QUESTION-131 THEORY-052 THEORY-tmp62iwr LIT-tmp6as8m LIT-tmpd3l9z — Open, Proposed or registered unread; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-tmp62iwr LIT-tmp6as8m — Open, Proposed or registered unread; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpe2f2g: Kermavnar et al. — A systematic map of need-fulfillment scales
 

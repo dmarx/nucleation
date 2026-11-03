@@ -23,7 +23,7 @@ summary: >-
 supports:
 - CLAIM-160
 ---
-<!-- inactive-ok-file: CLAIM-160 CLAIM-172 — Proposed; the claims this case is used for, open -->
+<!-- inactive-ok-file: CLAIM-160 — Proposed; the claims this case is used for, open -->
 
 # CASE-043: Data written for a future reader and never read
 

@@ -28,7 +28,7 @@ summary: >-
   and "input-invariant" holds only up to a per-token LayerNorm scalar and
   only while the later feature is active.
 ---
-<!-- inactive-ok-file: CLAIM-454 THEORY-802 — Proposed; the record's own claim and a neighbouring account, named, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-802 — Proposed; the record's own claim and a neighbouring account, named, nothing here rests on them -->
 # THEORY-974: When a transformer's MLP sublayers are replaced by transcoders and the attention patterns and LayerNorm scales on a prompt are held fixed, the contribution of an earlier transcoder feature at the same token to a later one's pre-activation is the earlier feature's activation times the dot product of its decoder with the later feature's encoder, scaled by one LayerNorm constant per token, so the weight factor is fixed by the trained weights and holds on every input
 
 ## Source

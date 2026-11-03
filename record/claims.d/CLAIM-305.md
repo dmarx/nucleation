@@ -38,7 +38,6 @@ complements:
 grounds:
 - CASE-152
 ---
-<!-- inactive-ok-file: THEORY-087 — Proposed; an account cited for what it states, nothing here rests on its being settled -->
 
 # CLAIM-305: Resolving a singularity by blow-up reparametrizes the states and adds no observation, so it cannot make indistinguishable states distinguishable: every point over a singular point gives the same distribution, and the Fisher information can stay degenerate there; what the resolution buys is a normal form for the divergence, and so the learning coefficient
 

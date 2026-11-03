@@ -50,7 +50,7 @@ bears_on:
 - QUESTION-312
 ---
 <!-- inactive-ok-file: LIT-370 — Proposed; named as a re-measurement of the shared-state onset, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-109 THEORY-112 — Proposed; the account this extends, and the symmetry account filed with it, named in the body -->
+<!-- inactive-ok-file: THEORY-109 — Proposed; the account this extends, and the symmetry account filed with it, named in the body -->
 
 # THEORY-114: In image classification, linear mode connectivity appeared during training and not at initialization: copies of ResNet-20 and VGG-16 on CIFAR-10 and of ResNet-50 and Inception-v3 on ImageNet, trained from a shared state, became stable to SGD noise in test error only after 1.5–20% of training (LeNet on MNIST was stable from the start), and between independently initialized MLPs on MNIST and CIFAR-10 the barrier after weight-matching alignment was high at initialization and fell gradually through training
 

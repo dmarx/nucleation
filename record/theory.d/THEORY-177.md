@@ -38,7 +38,6 @@ supports:
 - CLAIM-245
 ---
 
-<!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as the claim this finding bears on -->
 
 # THEORY-177: In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the sum, over contents, of the least direct influence of context that a canonical causal model of the data must place on each content, and each content's least influence is the total-variation distance between its two marginals
 

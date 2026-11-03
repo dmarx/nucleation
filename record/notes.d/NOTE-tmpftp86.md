@@ -27,7 +27,7 @@ summary: >-
   system".
 ---
 <!-- inactive-ok-file: NOTE-tmpagiju NOTE-tmpp25f6 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-tmpildq9 THEORY-490 THEORY-614 CLAIM-367 — Proposed or Open; the entries the reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpwh2jo THEORY-490 THEORY-614 CLAIM-367 — Proposed or Open; the entries the reading bears on, cited as open -->
 
 # NOTE-tmpftp86: Marks, Lindsey & Olah — The Persona Selection Model
 

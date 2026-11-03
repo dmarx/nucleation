@@ -36,9 +36,8 @@ supports:
 illustrated_by:
 - CASE-041
 ---
-<!-- inactive-ok-file: CLAIM-077 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-149 CLAIM-138 CLAIM-143 — Proposed; open, and cited as the later uses of this claim, not as settled -->
+<!-- inactive-ok-file: CLAIM-138 — Proposed; open, and cited as the later uses of this claim, not as settled -->
 
 # CLAIM-011: Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on
 

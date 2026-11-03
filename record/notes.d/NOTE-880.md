@@ -54,7 +54,6 @@ summary: >-
   but statistically very different; with Theorem 6.2.2 that gives the one-way function
   form, but the paper never writes that combined sentence.
 ---
-<!-- inactive-ok-file: CLAIM-199 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1053 — Unavailable; held without a reading, cited as such -->
 
 # NOTE-880: Håstad, Impagliazzo, Levin & Luby — A pseudorandom generator from any one-way function

@@ -41,7 +41,6 @@ supports:
 - CLAIM-094
 ---
 
-<!-- inactive-ok-file: THEORY-019 — Proposed; named as a parallel on commutants, with no relation claimed -->
 
 # THEORY-158: For a Markov process on a finite state space, an observable commutes with the generator exactly when its mean and variance are both conserved in every state, which is exactly when it is constant on each connected component of the transition graph, so a conserved mean alone does not give a symmetry
 

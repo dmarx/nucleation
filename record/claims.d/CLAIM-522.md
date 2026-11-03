@@ -46,7 +46,6 @@ summary: >-
   differs, which is [CLAIM-194](CLAIM-194.md)'s point about boundaries.
 ---
 <!-- inactive-ok-file: TERM-tmp8spbn — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
-<!-- inactive-ok-file: QUESTION-093 — Open; the question of separable autonomy conditions, cited as open -->
 
 # CLAIM-522: Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two
 

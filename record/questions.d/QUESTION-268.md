@@ -19,7 +19,7 @@ summary: >-
   whether the measured (actual) and the dispositional readings agree,
   which bears on the counterfactual eraser ([THEORY-252](../theory.d/THEORY-252.md)).
 ---
-<!-- inactive-ok-file: CLAIM-434 TERM-076 — the demonstrated claim and term filed with this batch -->
+<!-- inactive-ok-file: TERM-076 — the demonstrated claim and term filed with this batch -->
 <!-- inactive-ok-file: CLAIM-433 — Proposed; the reply filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-1469 — Unavailable, abstract only; DynAffect, named for its attractor-strength parameter -->
 <!-- inactive-ok-file: TERM-076 CLAIM-440 THEORY-252 — Proposed; the term and claim this asks about, and the dilemma it bears on, cited as open -->

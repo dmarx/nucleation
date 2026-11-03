@@ -22,7 +22,7 @@ summary: >-
   infinitary principles as axiom schemas, and it is a fact about axiom
   systems: it does not say classical mereology is true of anything.
 ---
-<!-- inactive-ok-file: THEORY-017 THEORY-589 THEORY-622 — Proposed; neighbouring accounts named for comparison; this result does not rest on them -->
+<!-- inactive-ok-file: THEORY-589 THEORY-622 — Proposed; neighbouring accounts named for comparison; this result does not rest on them -->
 
 # THEORY-493: From core mereology, classical extensional mereology (GEM) is reached by exactly three pairings of a decomposition principle with an unrestricted-sum principle: Supplementation with Sum2, Strong Supplementation with Sum3, and Complementation with Sum1; Supplementation with Sum3, the pairing given by Simons (1987), does not yield it, because which definition of 'sum' is used decides which decomposition axiom is needed
 

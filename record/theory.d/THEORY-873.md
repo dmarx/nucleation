@@ -45,7 +45,7 @@ summary: >-
 corroborates:
 - CLAIM-439
 ---
-<!-- inactive-ok-file: THEORY-633 THEORY-577 THEORY-064 CLAIM-355 CLAIM-412 CLAIM-411 TERM-072 — Proposed; claims, terms and readings cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-633 THEORY-577 THEORY-064 CLAIM-355 CLAIM-412 — Proposed; claims, terms and readings cited as open, nothing here rests on them -->
 
 # THEORY-873: Claims to be conscious are produced by an automatic internal model, and since such models are schematic, the intangible, what-it-is-like essence people report is that model's caricature of a real process, proposed to be attention, or the deep selective processing of information that attention, the global workspace and integration share; a theory that explains how neurons produce a feeling without explaining how the feeling comes to be encoded for report (Arrow B) does not explain the reports
 

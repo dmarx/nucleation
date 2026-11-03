@@ -18,7 +18,6 @@ summary: >-
   four coalition-state features. How common the first is, and whether the
   second is in the dynamics or in the feature set, are untested.
 ---
-<!-- inactive-ok-file: CLAIM-280 CLAIM-273 THEORY-214 — Proposed; claims this question would test and a sister reading, cited as open -->
 
 # QUESTION-169: On a contested shared canvas, do lasting artworks as a population receive sustained overwrites and repairs, and does adding interaction features make coalition survival predictable early?
 

@@ -25,7 +25,6 @@ supports:
 - CLAIM-306
 - CLAIM-312
 ---
-<!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CASE-085: The medication in the ambulance: a drug the EMT knew was stocked could not be found during a resuscitation, the paramedic changed the request, and afterwards said "If I can't find it, it isn't there"
 

@@ -30,7 +30,7 @@ summary: >-
   correlating device; inertia is needed; and interior correlated equilibria
   that are not pure Nash cannot be the limit.
 ---
-<!-- inactive-ok-file: NOTE-1142 THEORY-414 CLAIM-443 — Proposed or new; the source and the accounts this bears on, named -->
+<!-- inactive-ok-file: THEORY-414 — Proposed or new; the source and the accounts this bears on, named -->
 
 # THEORY-941: If every player of a finite game switches from its last action to each other action with probability proportional to its positive conditional regret, the empirical distribution of play converges almost surely to the set of correlated equilibria
 

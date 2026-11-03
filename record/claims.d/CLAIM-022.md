@@ -28,9 +28,8 @@ summary: >-
   ownership." What the authenticity line tried to supply, the paper now
   disclaims; [QUESTION-011](../questions.d/QUESTION-011.md) holds the question.
 ---
-<!-- inactive-ok-file: LIT-tmpmi6rp NOTE-tmpku07s — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
 <!-- inactive-ok-file: TERM-tmp8spbn — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
-<!-- inactive-ok-file: CLAIM-tmpex9rg LIT-tmpmi6rp LIT-tmpnqv86 THEORY-316 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-tmpex9rg LIT-tmpnqv86 THEORY-316 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account of authorship, a second instance of this limit -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; set aside, and cited to say what was set aside with it -->
 

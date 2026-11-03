@@ -24,7 +24,7 @@ summary: >-
   the natural line, set aside; whether it reopens is the owner's
   decision, not made here.
 ---
-<!-- inactive-ok-file: CLAIM-367 CLAIM-368 CLAIM-351 CASE-113 CLAIM-288 — Proposed; candidate answers and readings, cited as open -->
+<!-- inactive-ok-file: CLAIM-367 — Proposed; candidate answers and readings, cited as open -->
 <!-- inactive-ok-file: QUESTION-059 — Deferred; the organizational-affect line, set aside, cited as where the felt half of this question already sits -->
 
 # QUESTION-122: Can a deep network during training have meaningful affect-like states, such as frustration of its demands, and to which unit, the network, the network–optimizer pair or the training process, would they belong?

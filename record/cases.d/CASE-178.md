@@ -42,7 +42,6 @@ summary: >-
   and nested, the rarer level arriving with the commoner ones in one pull
   request.
 ---
-<!-- inactive-ok-file: CLAIM-475 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-476 — Proposed; the claims the measurement bears on -->
 
 # CASE-178: How the record's grammar grows: after its scaffold, this record filed documents on all 32 days, added vocabulary terms on 18, fields or relations to schemes on 8, whole vocabularies on 3, schemes on 1 and a remote project on 1, so the owner's ordering of levels holds by frequency; but each refinement came in the same pull request as the documents that needed it and, nine times in ten, an ADR, so the levels are rarer events of one loop of work, not slower processes of their own, and the grammar's rates fell while filing rose

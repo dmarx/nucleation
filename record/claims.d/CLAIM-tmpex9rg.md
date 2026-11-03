@@ -48,10 +48,10 @@ summary: >-
   filed as [CLAIM-354](CLAIM-354.md) and [CLAIM-345](CLAIM-345.md), and the sensitivity half had no code.
   This is its second appearance. Its demonstrated part is [CLAIM-tmpptgk8](CLAIM-tmpptgk8.md).
 ---
-<!-- inactive-ok-file: LIT-tmpmi6rp NOTE-tmpku07s THEORY-tmpjn453 THEORY-tmpjkav4 — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
+<!-- inactive-ok-file: THEORY-tmpjn453 THEORY-tmpjkav4 — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-tmpyhyrz THEORY-tmp1jrus THEORY-tmped3yc — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: TERM-tmp8cp5q — Proposed; terms added at the owner's review of 2026-11-03 -->
-<!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-478 LIT-tmp9hfqf LIT-tmpnqv86 LIT-tmpxj74l QUESTION-071 THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-478 LIT-tmpnqv86 LIT-tmpxj74l THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-tmpex9rg: The sensitivity that formal chaos gives a will's dynamics is not control over them: in Kane's self-forming actions, chaotic amplification keeps the outcome open, but it magnifies the agent's efforts, uncontrolled fluctuations and outside inputs alike, so what would make the outcome the agent's is how its own control couples to the amplifying directions, relative to noise and to other parties' inputs and with what feedback, which sensitivity does not supply; and under weak noise what amplification touches lasts only where it reaches the slow modes
 

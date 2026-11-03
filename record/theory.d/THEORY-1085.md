@@ -19,7 +19,7 @@ summary: >-
   right ([THEORY-1095](THEORY-1095.md)), that the universality claim holds, or that the
   order so described is an agent or an individual.
 ---
-<!-- inactive-ok-file: THEORY-1095 CLAIM-478 CLAIM-157 QUESTION-281 — Proposed or Open; neighbours cited as open -->
+<!-- inactive-ok-file: THEORY-1095 CLAIM-478 CLAIM-157 — Proposed or Open; neighbours cited as open -->
 
 # THEORY-1085: In Toner and Tu's hydrodynamic theory, a flock's ordered state is a broken continuous symmetry of a coarse-grained velocity field: speed fluctuations relax in a finite time of order 1/α and are dropped, leaving as slow degrees of freedom the transverse velocity and the conserved density, which propagate as sound at ω = ±cq⊥; no individual member appears in the description, which is offered for a universality class of microscopic rules
 

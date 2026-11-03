@@ -61,7 +61,6 @@ summary: >-
   depend on; in an inventory model, poorer bases raise cost and the
   non-adjustable counterpart is infeasible.
 ---
-<!-- inactive-ok-file: CLAIM-tmpkogzd — new; the claim this work frames -->
 
 # LIT-tmphox4k: Adjustable robust solutions of uncertain linear programs
 

@@ -51,7 +51,7 @@ extended_by:
 bears_on:
 - QUESTION-051
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
+<!-- inactive-ok-file: THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
 <!-- inactive-ok-file: THEORY-797 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-278: Under MSE loss, in Han, Papyan and Donoho's VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse

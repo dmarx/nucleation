@@ -32,7 +32,6 @@ summary: >-
   assumed for memberships, not the graph. The confounding of ρ with B's
   scale is exact even in the marginal likelihood.
 ---
-<!-- inactive-ok-file: CLAIM-135 — Proposed; the claim whose second achievement this bears on, open -->
 
 # THEORY-993: In the mixed membership stochastic blockmodel the probability of an edge from p to q, given the memberships, is (1 − ρ)π_pᵀBπ_q, so the graph's likelihood given the memberships is unchanged by π ↦ Rπ, B ↦ R⁻ᵀBR⁻¹ for any invertible R that keeps the memberships on the simplex and B in [0, 1], a continuum around any solution with B's rates strictly between 0 and 1; and the sparsity parameter ρ enters only through (1 − ρ)B, so it is fixed by nothing but the bound B ≤ 1, and the paper's printed estimator of it is the fraction of absent edges whatever the fit
 

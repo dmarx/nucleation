@@ -34,7 +34,7 @@ summary: >-
   about what the error terms hold, and it does not compare features with
   neurons on equal terms, which the authors say cannot be done.
 ---
-<!-- inactive-ok-file: CLAIM-454 THEORY-1014 — Proposed; the claim this bears on and the account filed from the same reading, cited as open -->
+<!-- inactive-ok-file: THEORY-1014 — Proposed; the claim this bears on and the account filed from the same reading, cited as open -->
 # THEORY-1007: On four subject–verb agreement tasks in Pythia-70M and Gemma-2-2B, circuits of sparse-autoencoder features and autoencoder error nodes, selected by linear estimates of indirect effect, carried half or more of the behaviour on held-out pairs with about 100 and 500 nodes, where circuits of neurons needed about 1,500 and more than 30,000; with the error nodes removed, the same feature circuits carried little of it, under about a quarter in Pythia and almost none in Gemma
 
 ## Source

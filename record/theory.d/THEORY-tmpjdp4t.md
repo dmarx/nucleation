@@ -19,7 +19,7 @@ summary: >-
   the theory's co-founder, with several included meta-analyses by its
   authors.
 ---
-<!-- inactive-ok-file: THEORY-052 THEORY-054 THEORY-049 QUESTION-tmpee04a LIT-tmpwslkc — Proposed, Open or Unfetched; neighbours whose promote_when this map bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-054 THEORY-049 LIT-tmpwslkc — Proposed, Open or Unfetched; neighbours whose promote_when this map bears on, cited as open -->
 
 # THEORY-tmpjdp4t: As Ryan and colleagues' 2022 meta-review maps it, the meta-analytic evidence for self-determination theory is concentrated in cognitive evaluation, organismic integration and basic needs theory, is mostly cross-sectional and heterogeneous, and has gaps: no meta-analysis of relationships motivation theory or of need frustration, one or two of causality orientations and goal contents, and none that separates integrated from identified regulation
 

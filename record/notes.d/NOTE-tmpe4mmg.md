@@ -32,7 +32,7 @@ summary: >-
   predicted marginally (β = .14, p = .074). Self-report, single-construct
   outcome, no random intercepts in the reported models.
 ---
-<!-- inactive-ok-file: THEORY-052 QUESTION-tmpee04a — Proposed, Open or registered unread; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 — Proposed, Open or registered unread; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpe4mmg: Levine et al. — Need frustration, negative affect and depressive symptoms
 

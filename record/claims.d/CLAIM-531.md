@@ -51,7 +51,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose step from entrenchment to closure this claim examines -->
 <!-- inactive-ok-file: LIT-1927 LIT-1926 — Deferred: registered 2026-11-01, unread; cited for what the reading of LIT-188 reports of them -->
-<!-- inactive-ok-file: QUESTION-284 QUESTION-093 — Open; the questions this bears on -->
 
 # CLAIM-531: Generative entrenchment does not by itself give organizational closure: an entrenched core, which later interactions depend on so that perturbing it is catastrophic and perturbing them tolerable, can sit at the root of an acyclic dependency order, and where interactions turn over such an order persists only while something outside supplies its core; an organization that is both entrenched and closed has a core containing a cycle of mutual maintenance, each interaction on which is itself core unless its share of the maintenance is redundant
 

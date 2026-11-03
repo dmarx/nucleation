@@ -32,7 +32,6 @@ summary: >-
   they infer from it; whether the thesis holds is this entry's question, and
   its promote_when is [THEORY-1108](THEORY-1108.md)'s old condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1200: The Asgard archaeal ancestor of eukaryotes depended on metabolic partners: like Candidatus Prometheoarchaeum syntrophicum, it degraded amino acids in syntrophy, handing hydrogen and formate to partners that removed them
 

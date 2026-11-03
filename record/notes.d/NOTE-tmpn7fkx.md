@@ -29,8 +29,8 @@ summary: >-
   in Hopfield networks with random resets and Hebbian learning. Conceptual
   throughout: no model, no data.
 ---
-<!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b — new; Juarrero 2023, read on 2026-11-03 -->
-<!-- inactive-ok-file: CLAIM-tmpex9rg CLAIM-478 CLAIM-354 QUESTION-071 THEORY-328 THEORY-040 LIT-1132 LIT-tmpqbxw7 LIT-tmp8fjub LIT-tmpqt7ea THEORY-tmped3yc — Proposed, Open or Unavailable; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: NOTE-tmpv0g6b — new; Juarrero 2023, read on 2026-11-03 -->
+<!-- inactive-ok-file: CLAIM-tmpex9rg CLAIM-478 CLAIM-354 THEORY-328 THEORY-040 LIT-1132 LIT-tmpqbxw7 LIT-tmp8fjub THEORY-tmped3yc — Proposed, Open or Unavailable; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpn7fkx: Froese — Irruption Theory
 

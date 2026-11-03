@@ -26,7 +26,6 @@ supports:
 - CLAIM-201
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
-<!-- inactive-ok-file: CLAIM-257 — Proposed; the measure of a change of cover, cited as a companion proposal -->
 
 # CASE-072: Hafez's "Shirazi Turk" in English: one ungendered beloved rendered as a maid, as God and as a boy
 

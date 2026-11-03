@@ -59,8 +59,7 @@ supports:
 bears_on:
 - QUESTION-071
 ---
-<!-- inactive-ok-file: NOTE-tmp1eol1 NOTE-tmpgd5c5 CASE-tmph9iwi — new or Proposed; readings of 2026-11-03 cited as open -->
-<!-- inactive-ok-file: CASE-tmph9iwi THEORY-054 LIT-tmpfyba0 — new, Proposed or Deferred; cited as open -->
+<!-- inactive-ok-file: THEORY-054 LIT-tmpfyba0 — new, Proposed or Deferred; cited as open -->
 <!-- inactive-ok-file: THEORY-054 THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
 
 # THEORY-047: A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is

@@ -40,7 +40,7 @@ summary: >-
   Nucleation program." Proposed: a definition and an organizing thesis,
   with the study [CASE-187](../cases.d/CASE-187.md) as its test.
 ---
-<!-- inactive-ok-file: CLAIM-519 QUESTION-362 TERM-086 — Proposed or Open; the premises and question this joins, cited as open -->
+<!-- inactive-ok-file: CLAIM-519 TERM-086 — Proposed or Open; the premises and question this joins, cited as open -->
 
 # CLAIM-514: World-modeling is a family of resource-bounded capabilities for producing and using predictions about an environment's possibilities and consequences, each relative to a declared family of questions; a world model in the representational sense is one possible realization of them, competent behaviour can determine environmental structure without identifying any internal mechanism, and producing, maintaining and revising world-modeling capabilities are further achievements, not prerequisites of agency in general
 

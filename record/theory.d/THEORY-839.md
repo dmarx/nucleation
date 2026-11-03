@@ -30,7 +30,6 @@ summary: >-
 supports:
 - CLAIM-402
 ---
-<!-- inactive-ok-file: CLAIM-402 — Proposed; filed from the same exchange, the claim this account bears on, cited as open -->
 
 # THEORY-839: A model optimal for the distribution its own deployment induces, a performatively stable point, need not minimize the risk it actually incurs, and the gap is bounded: for a loss that is L_z-Lipschitz in the data and γ-strongly convex in the parameters, and a distribution map that is ε-Lipschitz in Wasserstein-1 distance, every stable point lies within 2L_zε/γ of every performative optimum; in a biased-coin example the stable point is µ/(1 − ε) and the optimum µ/(1 − 2ε), equal only when the prediction has no effect
 

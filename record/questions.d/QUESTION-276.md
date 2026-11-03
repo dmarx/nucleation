@@ -36,8 +36,8 @@ summary: >-
   candidate methods, not its answer. It does not ask whether perspectives
   exist in firms.
 ---
-<!-- inactive-ok-file: CLAIM-418 CLAIM-327 CLAIM-427 CLAIM-135 CLAIM-188 TERM-072 TERM-074 — Proposed; the claims and terms the question is framed by, cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CASE-166 CLAIM-454 CASE-165 — Proposed; filed with this question from the same exchange -->
+<!-- inactive-ok-file: CLAIM-327 CLAIM-427 — Proposed; the claims and terms the question is framed by, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-166 CASE-165 — Proposed; filed with this question from the same exchange -->
 
 # QUESTION-276: How can overlapping higher-level perspectives be identified from the activity of the members who realize them, without being inserted into the model and without their number being fixed in advance, and told apart from coactivity that a common cause produces; and does a structure so inferred, such as a feature allocation under an Indian buffet prior or a nested topic hierarchy, predict an organization's responses to interventions on its records, membership and authority better than its communication and authorization relations alone?
 

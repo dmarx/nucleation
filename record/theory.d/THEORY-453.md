@@ -36,7 +36,7 @@ summary: >-
   covariance the view rests on. The no-priority argument assumes three
   options are exhaustive.
 ---
-<!-- inactive-ok-file: THEORY-034 THEORY-038 THEORY-535 — Proposed; neighbouring accounts, named for comparison and for the census this reading corrects -->
+<!-- inactive-ok-file: THEORY-038 THEORY-535 — Proposed; neighbouring accounts, named for comparison and for the census this reading corrects -->
 <!-- inactive-ok-file: CLAIM-134 CLAIM-136 CLAIM-138 — Proposed; the record's open claims this reading bears on, cited as open -->
 
 # THEORY-453: Basic physical objects can be nothing beyond the bearers of their relations: relations give them identity conditions wherever they discern them, and where nothing discerns them, as with entangled systems of one kind or points of a symmetric space-time, a primitive numerical diversity that is not a thisness suffices; general relativity's tensor and fibre-bundle formulations fit this reading but do not require it

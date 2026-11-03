@@ -25,7 +25,7 @@ summary: >-
   Theorem 3 of Blackwell (1953), [LIT-781](../literature.d/LIT-781.md), read in [NOTE-595](../notes.d/NOTE-595.md), and Blackwell's
   1951 result. The finite converse is [THEORY-717](THEORY-717.md), Active.
 ---
-<!-- inactive-ok-file: THEORY-156 ADR-047 — Proposed and Superseded; the account this is split from, and the decision whose re-derivation ruling ADR-057 keeps -->
+<!-- inactive-ok-file: ADR-047 — Proposed and Superseded; the account this is split from, and the decision whose re-derivation ruling ADR-057 keeps -->
 
 # THEORY-1096: Blackwell's comparison of experiments, its easy direction: an experiment is a family of distributions indexed by a common parameter, and if one experiment is a garbling of another by a Markov kernel, every risk attainable with the garbling in any decision problem with bounded losses is attainable with the original, on any outcome spaces
 

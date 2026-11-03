@@ -63,7 +63,7 @@ corroborates:
 - CLAIM-164
 ---
 
-<!-- inactive-ok-file: THEORY-085 THEORY-083 THEORY-084 — Proposed; named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-085 THEORY-084 — Proposed; named in Connections, nothing here rests on them -->
 
 # THEORY-078: The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
 

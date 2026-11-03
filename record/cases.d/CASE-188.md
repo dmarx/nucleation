@@ -23,7 +23,6 @@ summary: >-
   counterfactual test. Not run; every parameter is left to a
   preregistration.
 ---
-<!-- inactive-ok-file: CASE-186 QUESTION-364 — proposed or Open; the study this succeeds and the question it bears on, cited as open -->
 
 # CASE-188: A proposed study: two agents keep the same long-term commitment and decide alike under ordinary conditions, one protecting it from irrelevant fluctuation while letting specified defeaters revise it, the other growing ever more efficient at enforcing it while evidence against it loses its way in; varying the environment, the legitimacy of the original commitment and what the evaluative mechanisms can see, to tell corrigible resolve from entrenchment without building the answer into the diagnostic or the score
 

@@ -45,7 +45,6 @@ summary: >-
   transfer; [THEORY-1105](../theory.d/THEORY-1105.md) reports Bernabeu and colleagues' concession about
   their own donors. This claim is what the record draws from both.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # CLAIM-508: Gene ancestries alone cannot tell a symbiotic partner from a source of transferred genes: a partner whose genes were mostly lost, replaced or spread thin would leave the diffuse trace that Tobiasson and colleagues read as piecemeal transfer, and Bernabeu and colleagues concede that their donor signals say nothing of the kind of interaction
 

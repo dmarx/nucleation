@@ -19,7 +19,7 @@ summary: >-
   mediation is cross-sectional), or that the three needs are distinct
   dimensions.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a THEORY-054 — Open or Proposed; the question this bears on and a neighbour, cited as open -->
+<!-- inactive-ok-file: THEORY-054 — Open or Proposed; the question this bears on and a neighbour, cited as open -->
 
 # THEORY-tmpw35bj: In Patrick, Knee, Canevello and Lonsbary's three correlational studies, perceiving that a romantic partner fulfils one's needs for autonomy, competence and relatedness goes with better relationship quality, with relatedness the strongest unique predictor and the partner's fulfilment adding to one's own; but the measure does not separate the needs, its autonomy and competence subscales correlating .96 once corrected for unreliability
 

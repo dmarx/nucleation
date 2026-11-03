@@ -44,8 +44,6 @@ summary: >-
 bears_on:
 - QUESTION-045
 ---
-<!-- inactive-ok-file: NOTE-tmpxovm7 NOTE-tmpe4mmg NOTE-tmpswlms NOTE-tmpr36wg NOTE-tmpqk41c NOTE-tmp1eol1 — new or Proposed; readings of 2026-11-03 cited as open -->
-<!-- inactive-ok-file: LIT-tmpazv5c LIT-tmpjcuzb QUESTION-tmpee04a — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-050 THEORY-058 — Proposed; relations stated in prose, nothing here rests on them -->
 
 # THEORY-052: Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology

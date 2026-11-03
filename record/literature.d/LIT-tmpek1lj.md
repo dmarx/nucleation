@@ -53,7 +53,6 @@ summary: >-
   carries fulfilment's association with post-disagreement satisfaction.
   Autonomy and competence subscales correlate .96 after correction.
 ---
-<!-- inactive-ok-file: LIT-tmpjpszp — Unavailable; the study whose measure this one uses -->
 
 # LIT-tmpek1lj: The role of need fulfillment in relationship functioning and well-being: A self-determination theory perspective.
 

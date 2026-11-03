@@ -36,7 +36,7 @@ summary: >-
 bears_on:
 - QUESTION-254
 ---
-<!-- inactive-ok-file: CLAIM-413 CLAIM-412 TERM-072 THEORY-063 — Proposed; the claims, terms and accounts it bears on, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-412 THEORY-063 — Proposed; the claims, terms and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-882 — Proposed; filed in the same batch, named -->
 
 # THEORY-876: Phenomenal consciousness is the coherent functioning of an embodied agent's generative model of its sensorium, coherent in space, time and cause and run either coupled to sense data (perception) or decoupled from it (imagination); embodied grounding, the model's capacity to inform and be informed by action–perception cycles at behavioural timescales and the history of such coupling by which it was learned, is necessary, so that integrated information or a functional global workspace without it does not suffice

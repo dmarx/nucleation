@@ -28,7 +28,7 @@ summary: >-
   association with post-disagreement satisfaction in a diary study. The
   autonomy and competence subscales correlate .96 once corrected.
 ---
-<!-- inactive-ok-file: THEORY-052 QUESTION-tmpee04a QUESTION-131 THEORY-054 LIT-tmpjpszp — Proposed, Open or Unavailable; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-054 — Proposed, Open or Unavailable; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpi2z1s: Patrick et al. — Need fulfillment in relationship functioning
 

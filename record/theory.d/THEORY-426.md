@@ -45,7 +45,7 @@ summary: >-
   of those runs; the general form is THEORY-1245, Proposed.
 ---
 
-<!-- inactive-ok-file: THEORY-045 THEORY-285 — Proposed; named as the record's other active-inference accounts, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-045 — Proposed; named as the record's other active-inference accounts, nothing here rests on them -->
 
 # THEORY-426: Evaluating expected free energy recursively over the beliefs an agent would hold after each plausible outcome makes active inference a pruned tree search over belief states, formally analogous to Bellman recursion; in single deterministic runs on a T-maze and an 8 × 8 maze it planned through short-term costs that agents with a shorter horizon did not; that the pruning keeps deep search tractable beyond toy problems is argued, not shown
 

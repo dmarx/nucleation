@@ -30,7 +30,7 @@ summary: >-
   difference in distribution contextual.
 ---
 
-<!-- inactive-ok-file: THEORY-013 THEORY-168 — Proposed; cited for what this reading adds to them -->
+<!-- inactive-ok-file: THEORY-013 — Proposed; cited for what this reading adds to them -->
 
 # NOTE-640: Contextuality in canonical systems
 

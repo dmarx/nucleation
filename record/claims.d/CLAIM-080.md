@@ -23,7 +23,7 @@ summary: >-
 supersedes:
 - CLAIM-062
 ---
-<!-- inactive-ok-file: THEORY-1280 THEORY-1277 THEORY-1284 QUESTION-365 QUESTION-009 — Proposed or Open; the readings set against and beside this supposition, and the questions it leaves open -->
+<!-- inactive-ok-file: THEORY-1280 THEORY-1277 THEORY-1284 QUESTION-009 — Proposed or Open; the readings set against and beside this supposition, and the questions it leaves open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
 
 # CLAIM-080: The agent is independently warranted: the account asks how a given agent's practical efficacy is organized, not what makes something an agent

@@ -22,7 +22,6 @@ summary: >-
   true classifications compete not for truth but for uptake. Not shown:
   when routing becomes an allocation of authority, which the case asks.
 ---
-<!-- inactive-ok-file: CLAIM-403 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-132: One complaint, two taxonomies: a report of an unsafe practice is correctly classified both by equipment and by workers' obligations, the intake procedure needs one primary class, and the class chosen decides whether the report reaches a body that can change working conditions
 

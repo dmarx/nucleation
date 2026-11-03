@@ -38,7 +38,7 @@ summary: >-
 supports:
 - CLAIM-401
 ---
-<!-- inactive-ok-file: CLAIM-117 CLAIM-199 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-117 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-304: A rendering can keep a distinction recoverable in principle and make it infeasible to recover: if pseudorandom generators exist, a uniformly random bit can be encoded so that an unbounded receiver recovers it except with probability at most 2⁻⁽ⁿ⁺¹⁾, while no efficient receiver does non-negligibly better than chance
 

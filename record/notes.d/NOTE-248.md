@@ -48,7 +48,6 @@ summary: >-
   (Theorems 30–38).
 ---
 
-<!-- inactive-ok-file: THEORY-017 — Proposed: the account whose finite-dimensional boundary this paper was filed to test; the directive lapses when its status changes -->
 
 # NOTE-248: H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics
 

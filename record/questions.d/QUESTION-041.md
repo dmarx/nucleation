@@ -33,7 +33,6 @@ bearing:
 - THEORY-152
 - THEORY-149
 ---
-<!-- inactive-ok-file: CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # QUESTION-041: When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization?
 

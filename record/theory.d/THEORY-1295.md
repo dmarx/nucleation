@@ -29,7 +29,7 @@ bears_on:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: NOTE-1499 — Skimmed; the pages this reading rests on are named and were read -->
-<!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-870 QUESTION-048 — Proposed or Open; the readings and question this gap bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-063 THEORY-064 — Proposed or Open; the readings and question this gap bears on, cited as open -->
 
 # THEORY-1295: Metzinger 2024 calls consciousness without an egoic self or first-person perspective "empirically established" on the strength of retrospective, self-selected reports from meditators, while its own methods chapter grants that a remembered report of a selfless state is "highly dubious" evidence that the state was selfless when it occurred, and leaves that problem open
 

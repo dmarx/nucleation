@@ -34,7 +34,7 @@ summary: >-
   "is not as compelling as I had hoped".
 ---
 <!-- inactive-ok-file: THEORY-254 — Proposed; the theory filed from this reading -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-172 — Proposed; the answer and entrainment mark this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the answer and entrainment mark this reading bears on, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
 
 # NOTE-814: Salter-Duke — Tangled webs

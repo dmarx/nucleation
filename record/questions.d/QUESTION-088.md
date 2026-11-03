@@ -74,7 +74,7 @@ better or do not.
 
 ## Note of 2026-10-26: the lab is not yet the comparison
 
-<!-- inactive-ok-file: CASE-162 CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as tools for the comparison, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as tools for the comparison, nothing here rests on them -->
 
 The Perspective Population Lab (dmarx/PerspectiveLab, through v2.2 at
 @9f82bfd) is one engineered lineage in which authority, selected

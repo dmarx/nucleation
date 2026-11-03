@@ -28,7 +28,7 @@ summary: >-
   outside installation only if it is made during formation. After the
   fact the two are the same organization.
 ---
-<!-- inactive-ok-file: THEORY-040 THEORY-1118 THEORY-328 THEORY-047 THEORY-054 QUESTION-011 QUESTION-071 QUESTION-118 QUESTION-364 CLAIM-404 TERM-066 CLAIM-329 CLAIM-tmpxpdqi — Proposed, Open or Deferred; the entries on which provenance matters, cited as open -->
+<!-- inactive-ok-file: THEORY-040 THEORY-328 THEORY-047 THEORY-054 QUESTION-011 CLAIM-404 TERM-066 CLAIM-329 CLAIM-tmpxpdqi — Proposed, Open or Deferred; the entries on which provenance matters, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpbeh2e — Proposed; the claim this construction tests -->
 
 # CASE-tmph9iwi: A construction of self-formation: an agent's own frustration at two demands one shared output cannot meet drives production of a sensor and a differentiating channel that then maintain each other; past a threshold of discrepancy (D ≈ 0.645 at unit drive) the capacity forms, outlasts the conflict, meets later conflicts of the same class up to D ≈ 1.047 with no frustration, and is lost at damage 0.5; a capacity upheld from outside is told apart by knockouts afterwards, but one installed by an outside pulse and then self-maintained is told apart only by a knockout during formation

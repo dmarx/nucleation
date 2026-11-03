@@ -50,7 +50,6 @@ supports:
 - ARG-008
 ---
 <!-- inactive-ok-file: THEORY-490 — Proposed; the role-play framing's statement, a ground of this Proposed claim, cited as open -->
-<!-- inactive-ok-file: CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-251 — Proposed; filed today, cited as a qualification of the defeater, not leaned on -->
 
 # CLAIM-029: A language model's response to a context is functionally a parameterized pragmatic frame

@@ -55,7 +55,6 @@ summary: >-
   it is classed a wellness enhancer rather than a need. For
   [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # LIT-tmpkzr6r: Distinguishing between basic psychological needs and basic wellness enhancers: the case of beneficence as a candidate psychological need
 

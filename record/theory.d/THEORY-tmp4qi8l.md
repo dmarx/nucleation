@@ -28,7 +28,7 @@ summary: >-
   test half, and because explicit valuation and desire are the only
   measures of need strength.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a THEORY-052 THEORY-tmpr67qi — Open or Proposed; neighbours cited as open -->
+<!-- inactive-ok-file: THEORY-052 — Open or Proposed; neighbours cited as open -->
 
 # THEORY-tmp4qi8l: In Chen et al.'s student samples from Belgium, China, the USA and Peru, need satisfaction related to life satisfaction and vitality and need frustration to depressive symptoms with no detectable difference across countries, and neither relation was moderated by how much a person valued or desired the need
 

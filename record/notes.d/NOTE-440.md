@@ -30,7 +30,6 @@ summary: >-
   side"). Novelty, morality and beneficence are weighed as fourth needs and
   not yet admitted.
 ---
-<!-- inactive-ok-file: NOTE-tmpswlms NOTE-tmp3xmvo — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: THEORY-050 THEORY-029 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
 
 # NOTE-440: Basic psychological need theory: Advancements, critical themes, and future directions

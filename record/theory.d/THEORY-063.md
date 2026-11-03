@@ -153,7 +153,7 @@ phenomenological inference from reported states, which is all it claims.
 
 ## Note of 2026-11-01: Metzinger's later minimal case
 
-<!-- inactive-ok-block: THEORY-1299 THEORY-1295 — Proposed or newly filed; the readings of Metzinger's later work -->
+<!-- inactive-ok-block: THEORY-1299 — Proposed or newly filed; the readings of Metzinger's later work -->
 Metzinger's later work qualifies this reading's second clause; it does not
 confirm it. The new readings are "Minimal phenomenal experience" (2020,
 [LIT-1946](../literature.d/LIT-1946.md)) and *The Elephant and the Blind* (2024, [LIT-1943](../literature.d/LIT-1943.md)).

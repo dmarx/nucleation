@@ -52,7 +52,7 @@ summary: >-
   no study separates the two kinds of model on a language model.
 ---
 <!-- inactive-ok-file: NOTE-tmpp25f6 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: CLAIM-029 CLAIM-367 LIT-tmp0o6ud LIT-tmp4flye QUESTION-275 QUESTION-276 QUESTION-tmpildq9 THEORY-490 THEORY-614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-029 CLAIM-367 THEORY-490 THEORY-614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-tmpwh2jo: What separates a language model's distribution over personas from a distribution over organizational perspectives is not whether the latent model is hierarchical, since a mixture or an LDA-style admixture already is, but whether some latent components condition which others are available or consequential: a model whose components are exchangeable given their weights is organizationally flat however many levels its prior has, and dependencies among components count as organization (organization as relational arrangement) only where interventions, not fit, support them
 

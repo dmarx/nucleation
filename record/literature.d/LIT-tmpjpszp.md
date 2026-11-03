@@ -63,7 +63,6 @@ summary: >-
   not. Need satisfaction and security each partly mediated the other's
   relation to well-being. All cross-sectional.
 ---
-<!-- inactive-ok-file: LIT-tmpek1lj — cited as the second-hand report of this work -->
 
 # LIT-tmpjpszp: Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being.
 

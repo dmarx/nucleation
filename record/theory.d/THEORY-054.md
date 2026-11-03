@@ -67,7 +67,6 @@ supports:
 - CLAIM-016
 - CLAIM-354
 ---
-<!-- inactive-ok-file: NOTE-tmp1eol1 NOTE-tmpuvza0 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: LIT-tmpfyba0 LIT-tmpwslkc THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-047 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->

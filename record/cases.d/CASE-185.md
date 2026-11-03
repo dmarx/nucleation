@@ -29,7 +29,7 @@ summary: >-
   communities' response matrices and scores them on held-out data. Not
   run; every margin is left to a preregistration.
 ---
-<!-- inactive-ok-file: CLAIM-202 CLAIM-257 CLAIM-259 CLAIM-135 — Proposed; the record's theses and measures this design would test, cited as open -->
+<!-- inactive-ok-file: CLAIM-202 — Proposed; the record's theses and measures this design would test, cited as open -->
 
 # CASE-185: A proposed study: direct and relay translations of one set of source utterances through three languages, to find whether agreement between the routes, the task-relative loss on each route, and the preservation of response to later framing come apart, and whether correspondences fitted between the communities' response structures on some items predict receivers' judgements on held-out items, translators and situations
 

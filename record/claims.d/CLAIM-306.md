@@ -50,7 +50,6 @@ summary: >-
 objected_by:
 - CLAIM-311
 ---
-<!-- inactive-ok-file: CLAIM-296 — Proposed; open claims cited as open, nothing here rests on their being settled -->
 
 # CLAIM-306: Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
 

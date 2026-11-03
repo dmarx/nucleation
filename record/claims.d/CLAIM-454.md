@@ -74,7 +74,7 @@ summary: >-
   ever one feature's carriers. It says the allocation underdetermines the
   perspective.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwh2jo LIT-tmp4flye QUESTION-tmpildq9 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-tmpwh2jo — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-367 — Proposed; cited for where the governance of training lies, nothing here rests on it -->
 <!-- inactive-ok-file: CASE-165 CASE-166 — Proposed; the cases filed with this claim from the same exchange, an illustration and a reported study, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-1011 THEORY-1014 — Rejected and Proposed; circuits readings cited as hypotheses, not leaned on -->

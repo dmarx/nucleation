@@ -19,7 +19,7 @@ summary: >-
   terms). It does not rank the scales, test their validity, offer a
   criterion for need-hood, or take a side on the two-dimensional model.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a QUESTION-131 THEORY-tmp62iwr LIT-tmp6as8m — Open, Proposed or Unfetched; neighbours cited as open -->
+<!-- inactive-ok-file: THEORY-tmp62iwr LIT-tmp6as8m — Open, Proposed or Unfetched; neighbours cited as open -->
 
 # THEORY-tmpbkq7u: Among 31 original self-report scales of psychological need fulfillment found by a 2023 systematic search, 21 measure satisfaction only, one measures frustration only and one thwarting only; all are self-reports of experience or of the perceived environment, the field uses satisfaction, frustration, support and thwarting interchangeably in places, and several frustration scales are negatively worded satisfaction items
 

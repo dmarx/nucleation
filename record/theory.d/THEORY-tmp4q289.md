@@ -16,7 +16,6 @@ summary: >-
   theoretical grounds only; it does not say support causes need
   satisfaction, or that the needs are distinct in the world.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a — Open; the question this bears on -->
 
 # THEORY-tmp4q289: In Slemp et al.'s meta-analysis of 881 mostly cross-sectional samples, perceived support for autonomy, competence and relatedness each correlated strongly with satisfaction of all three needs (ρ = .44–.62) and negatively with their frustration, but the three supports intercorrelated .67–.71, and their need-specificity appears only in joint models: with all three entered, relatedness support carried relatedness satisfaction (β = .56) and autonomy support added nothing to it (β = .007)
 

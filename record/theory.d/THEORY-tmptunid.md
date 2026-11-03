@@ -29,8 +29,6 @@ summary: >-
   attention is the source of a free will.
 ---
 <!-- inactive-ok-file: THEORY-tmpicoxo — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: LIT-tmphwtm4 — Deferred; sources registered unread on 2026-11-03 -->
-<!-- inactive-ok-file: QUESTION-071 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: THEORY-tmp6xjgq — Proposed; the paper's metaphysical half -->
 
 # THEORY-tmptunid: In Jennings's hybrid account, attention is prioritization of processing by a subject that is the whole collection of an organism's fixed, formed and fluid interests, separated from filtering by whether selection answers to that collection, marked by feedback from dorsolateral prefrontal cortex; when interests are equally weighted, attention breaks the stalemate and updates the chosen option's value, so that a fluid interest becomes a formed one

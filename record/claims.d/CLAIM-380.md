@@ -54,7 +54,6 @@ summary: >-
   Theorem 6 ([THEORY-717](../theory.d/THEORY-717.md)). It does not cover outcome spaces that are not
   finite, or say this is the right decision term.
 ---
-<!-- inactive-ok-file: CLAIM-259 — Proposed; the proposal it supports, cited as open -->
 
 # CLAIM-380: With finitely many states and finitely many outcomes, the positive part of the Bayes-risk increase on the same decision problem is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source, and has A86's D_Q as its symmetrization
 

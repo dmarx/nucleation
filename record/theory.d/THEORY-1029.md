@@ -32,7 +32,6 @@ summary: >-
   not say how often this happens in other models, nor that the adversary
   they propose would remove it.
 ---
-<!-- inactive-ok-file: CLAIM-454 — Proposed; the claim this bears on, cited as open -->
 
 # THEORY-1029: On a three-layer parenthesis-balance classifier, causal-scrubbing hypotheses that resample the terms of one head's input separately scored 81% and 84% of the loss recovered against 77% for the less specific hypothesis they refine, and the authors attribute the rise to resampling washing out a signal, not to a better explanation
 

@@ -16,7 +16,7 @@ summary: >-
   anything beyond devices for representing word distributions, which the
   authors disclaim.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-tmpildq9 — Proposed or Open; the entries this structure is put to, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpwh2jo — Proposed or Open; the entries this structure is put to, cited as open -->
 
 # THEORY-tmp37m50: In latent Dirichlet allocation each document draws its own topic mixture from a Dirichlet shared across the corpus and draws a topic afresh for every word, a three-level model of conditionally independent assignments; the mixture of unigrams, which draws one topic per document, is its two-level comparison, and the Dirichlet is a distribution over mixtures, not over topics
 

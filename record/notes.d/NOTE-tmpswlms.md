@@ -33,7 +33,7 @@ summary: >-
   say the question cannot be settled with existing data, because keying
   and the purported construct are fully confounded.
 ---
-<!-- inactive-ok-file: THEORY-052 QUESTION-131 QUESTION-tmpee04a THEORY-tmp62iwr LIT-tmp6as8m LIT-tmpzyunx — Proposed, Open or Unfetched; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-tmp62iwr LIT-tmp6as8m — Proposed, Open or Unfetched; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpswlms: Murphy et al. — The BPNSFS probably does not validly measure need frustration
 

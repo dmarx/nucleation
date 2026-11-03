@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
-<!-- inactive-ok-file: CLAIM-344 CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-128: The voluntary delegation: a person gives a friend the password to a distracting application during a calm period and is refused it later under temptation, while another person lives under the same restriction imposed without consent
 

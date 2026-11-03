@@ -64,7 +64,6 @@ supports:
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim this theory bears on -->
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited for what this theory does not say, not as settled -->
 
 # THEORY-174: Classical simulations between no-signalling empirical models on different scenarios never create contextuality, and a convex map between two scenarios' model sets is induced by a classical non-adaptive procedure exactly when some non-contextual model of the hom scenario that satisfies its predicate induces it
 

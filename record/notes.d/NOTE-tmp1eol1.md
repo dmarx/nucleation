@@ -32,7 +32,7 @@ summary: >-
   Integrated regulation is not separated from identified regulation in
   the meta-analyses it reports.
 ---
-<!-- inactive-ok-file: THEORY-047 THEORY-049 THEORY-052 THEORY-054 THEORY-154 QUESTION-tmpee04a QUESTION-066 LIT-tmpwslkc LIT-tmpfyba0 LIT-tmpjpszp — Proposed, Open or Unavailable; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-047 THEORY-049 THEORY-052 THEORY-054 THEORY-154 LIT-tmpwslkc LIT-tmpfyba0 — Proposed, Open or Unavailable; the entries this reading bears on, cited as open -->
 
 # NOTE-tmp1eol1: Ryan et al. — We know this much is (meta-analytically) true
 

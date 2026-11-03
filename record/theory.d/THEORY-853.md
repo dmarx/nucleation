@@ -36,8 +36,6 @@ summary: >-
   only; for bounded ones a garbling can make a receiver easier to steer
   and easier to inform at once.
 ---
-<!-- inactive-ok-file: THEORY-156 — Proposed; the reading of Blackwell's order this extends, cited as open -->
-<!-- inactive-ok-file: CLAIM-199 CLAIM-326 — Proposed; the Blackwell line, named for comparison, cited as open -->
 
 # THEORY-853: Giving players more information shrinks what an information designer can make them do: for one player, being more informative in Blackwell's sense, being a garbling's source and leaving a smaller set of Bayes correlated equilibria in every decision problem are the same order; for many players the incentive order is individual sufficiency, which neither implies nor is implied by sufficiency of the players' joint information
 

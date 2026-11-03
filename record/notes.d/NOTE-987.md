@@ -41,8 +41,7 @@ summary: >-
   information about V's next value minus V's one-step dynamical dependence,
   which ties it to Barnett–Seth dynamical independence ([THEORY-764](../theory.d/THEORY-764.md)).
 ---
-<!-- inactive-ok-file: THEORY-497 THEORY-222 THEORY-257 — Proposed; the accounts this reading bears on, open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1137 — Deferred; registered unread, cited as open -->
+<!-- inactive-ok-file: THEORY-497 THEORY-257 — Proposed; the accounts this reading bears on, open, nothing here rests on their being settled -->
 
 # NOTE-987: Rosas, Mediano et al. — Reconciling emergences
 

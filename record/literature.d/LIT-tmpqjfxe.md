@@ -54,7 +54,7 @@ summary: >-
   to persona jailbreaks by about 60% without measured capability loss.
 ---
 <!-- inactive-ok-file: NOTE-tmpagiju — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: THEORY-tmprb3rb QUESTION-tmpildq9 — Proposed or Open; a THEORY filed from this reading and the question it bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmprb3rb — Proposed or Open; a THEORY filed from this reading and the question it bears on, cited as open -->
 
 # LIT-tmpqjfxe: The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models
 

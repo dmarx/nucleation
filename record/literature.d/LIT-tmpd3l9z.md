@@ -52,7 +52,6 @@ summary: >-
   concluded there may be four needs. Security mattered in unsatisfying
   events; money–luxury came last.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a — Open; the question it was registered for -->
 
 # LIT-tmpd3l9z: What is satisfying about satisfying events? Testing 10 candidate psychological needs.
 

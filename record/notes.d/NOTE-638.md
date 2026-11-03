@@ -30,7 +30,6 @@ summary: >-
   bottleneck, which the paper does not note.
 ---
 
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited for the comparison of experiments the TV bound relates to -->
 
 # NOTE-638: Semantic Rate-Distortion Theory with Applications
 

@@ -80,8 +80,7 @@ extends:
 answers:
 - QUESTION-204
 ---
-<!-- inactive-ok-file: QUESTION-204 — Open; the question whose first half the note of 2026-10-29 reports answered, cited as open -->
-<!-- inactive-ok-file: CLAIM-497 ARG-041 QUESTION-335 — Proposed or Open; what replaces this account and the case it leaves, named in the status note -->
+<!-- inactive-ok-file: ARG-041 — Proposed or Open; what replaces this account and the case it leaves, named in the status note -->
 
 
 # THEORY-787: A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information

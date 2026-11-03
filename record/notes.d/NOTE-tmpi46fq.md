@@ -27,7 +27,7 @@ summary: >-
   Kirchhoff's laws and a threshold model.
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: THEORY-tmp6xjgq THEORY-tmpvy87o — Proposed or new; readings this bears on -->
+<!-- inactive-ok-file: THEORY-tmp6xjgq — Proposed or new; readings this bears on -->
 
 # NOTE-tmpi46fq: Anastassiou et al. — Ephaptic coupling of cortical neurons
 

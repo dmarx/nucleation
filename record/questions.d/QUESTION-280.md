@@ -21,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: THEORY-1086 — Proposed; the reading of the paper the question is from, cited as open -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-405 CLAIM-477 — Proposed; the claims the question presses on, cited as open -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-477 — Proposed; the claims the question presses on, cited as open -->
 
 # QUESTION-280: Can the independence of individuals be approximately true of a world in which individuals are relationally constituted, as Newtonian mechanics is approximately true of a quantum world, or do some ontological features resist approximation however well a system is decoupled?
 

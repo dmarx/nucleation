@@ -29,7 +29,7 @@ summary: >-
 bearing:
 - CLAIM-281
 ---
-<!-- inactive-ok-file: CLAIM-279 THEORY-142 THEORY-151 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-142 THEORY-151 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-089: When does a process that destabilizes a whole's prevailing pattern improve the organization rather than only disrupt it, and does that depend on others able to build on what it opens and on authority that can move to them?
 

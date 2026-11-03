@@ -22,7 +22,7 @@ summary: >-
   claims are tested where the layers come apart.
 ---
 <!-- inactive-ok-file: CLAIM-438 THEORY-893 — Proposed; the objection and reading filed with this batch, cited as open -->
-<!-- inactive-ok-file: CLAIM-440 CLAIM-439 QUESTION-268 THEORY-662 — Proposed or Open; the account and candidate this question would test, cited as open -->
+<!-- inactive-ok-file: CLAIM-440 CLAIM-439 THEORY-662 — Proposed or Open; the account and candidate this question would test, cited as open -->
 
 # QUESTION-266: Can felt valence be operationalized, for systems that report and systems that cannot, by three layers measured independently, an ordering serving as the negotiation's potential in the system's conflicts, a hedonic marker that does not depend on choice, and the system's own model of its potential, and do the layers dissociate where the potential account and its rivals say they should?
 

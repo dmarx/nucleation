@@ -38,7 +38,7 @@ reported_in:
 - LIT-1391
 - NOTE-1092
 ---
-<!-- inactive-ok-file: CLAIM-416 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-130: Gracie jiu-jitsu against luta livre: two Brazilian grappling traditions whose contests were fought over the rules as well as under them, and whose matches placed them in a racial hierarchy as well as ranking them by results
 

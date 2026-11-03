@@ -38,8 +38,7 @@ summary: >-
   of four known mechanisms whose equations the forecaster is given, and
   every probe is a separate branch from the same starting state.
 ---
-<!-- inactive-ok-file: CASE-161 — Proposed; the case this one varies, filed with it -->
-<!-- inactive-ok-file: CLAIM-427 CLAIM-278 QUESTION-031 — Proposed or Open; the grades of evidence, the objection and the question on probes this case bears on, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-427 CLAIM-278 — Proposed or Open; the grades of evidence, the objection and the question on probes this case bears on, nothing here rests on them -->
 
 # CASE-163: Identifying how governing rules are maintained from diagnostic probes: a predictor fitted under reciprocal production fails under self-dependent production with histories matched, an audit pulse with a short producer interruption identifies which of four known mechanisms applies and predicts withheld interventions, and fitting decay and threshold as well helps after the parameters shift and hurts at nominal ones, within a known catalog and with every probe run on a counterfactual reset
 

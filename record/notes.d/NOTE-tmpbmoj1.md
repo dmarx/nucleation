@@ -30,7 +30,7 @@ summary: >-
   underivable. Re-simulation confirms the trend, but under the stated noise
   the deviation settles near 0.40, not 0.
 ---
-<!-- inactive-ok-file: LIT-1132 LIT-tmp31f3t LIT-tmp8fjub CLAIM-tmpex9rg CLAIM-478 QUESTION-071 THEORY-tmp1jrus — Proposed, Open, Deferred or Unavailable; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: LIT-1132 LIT-tmp8fjub CLAIM-tmpex9rg CLAIM-478 THEORY-tmp1jrus — Proposed, Open, Deferred or Unavailable; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpbmoj1: Sánchez-Cañizares — Decision-making through irruption theory
 

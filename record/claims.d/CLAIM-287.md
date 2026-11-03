@@ -78,7 +78,7 @@ bears_on:
 - QUESTION-043
 ---
 <!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the parallel this claim restates, cited as open -->
-<!-- inactive-ok-file: QUESTION-043 CLAIM-161 CLAIM-280 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-161 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-287: What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation
 

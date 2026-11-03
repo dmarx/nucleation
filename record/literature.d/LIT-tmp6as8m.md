@@ -57,7 +57,6 @@ summary: >-
   operational construct of need thwarting, which bears on [QUESTION-131](../questions.d/QUESTION-131.md)'s
   distinction between structural frustration and operative thwarting.
 ---
-<!-- inactive-ok-file: QUESTION-131 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # LIT-tmp6as8m: Psychological Need Thwarting in the Sport Context: Assessing the Darker Side of Athletic Experience
 

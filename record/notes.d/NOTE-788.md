@@ -33,7 +33,7 @@ summary: >-
   the drive and raises what the particles share. Without the drive, the
   coupled particles are statistically independent.
 ---
-<!-- inactive-ok-file: CLAIM-172 CLAIM-167 — Proposed; the coupling-architecture claims this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-167 — Proposed; the coupling-architecture claims this reading bears on, open -->
 
 # NOTE-788: Das, Manikandan and Banerjee — Information flow with hydrodynamic interactions
 

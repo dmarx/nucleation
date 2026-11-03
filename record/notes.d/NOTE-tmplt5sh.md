@@ -25,7 +25,7 @@ summary: >-
   two corpora LDA has the lowest held-out perplexity of the four models.
 ---
 <!-- inactive-ok-file: NOTE-tmpagiju — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-tmpildq9 QUESTION-276 CASE-165 THEORY-614 LIT-677 — Proposed or Open; the entries the reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpwh2jo CASE-165 THEORY-614 LIT-677 — Proposed or Open; the entries the reading bears on, cited as open -->
 
 # NOTE-tmplt5sh: Blei, Ng & Jordan — Latent Dirichlet allocation
 

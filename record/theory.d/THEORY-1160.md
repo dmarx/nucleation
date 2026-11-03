@@ -27,7 +27,6 @@ summary: >-
   near one-to-one, so a coherence proxy and accuracy agree. It chooses
   among fixed questions; it does not extend what can be asked.
 ---
-<!-- inactive-ok-file: TERM-092 — Proposed; the term whose distinction this result respects -->
 
 # THEORY-1160: Choosing which source objects to have an oracle match, by the derivative of a proxy utility of the entropic transport plan (its nearness to a permutation, or its consistency with the graphs) with respect to supervising each candidate match, averaged over matches by the current plan, raises held-out alignment accuracy more than uncertainty, centrality and matching-sampling query rules at the same label budget, by up to about three points on network alignment and less on image–text tasks; the gain depends on weighting by the current plan, without which the rule does worse than random
 

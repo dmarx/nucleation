@@ -36,7 +36,6 @@ summary: >-
   emergence, and stress that quantitative traces cannot tell cooperation
   from conflict or reveal affiliation.
 ---
-<!-- inactive-ok-file: CLAIM-272 CLAIM-279 CLAIM-280 THEORY-218 — Proposed; open claims and this reading's account, cited as what this reading bears on, nothing rests on their being settled -->
 
 # NOTE-733: Litherland & Mørch — Instruction vs. emergence on r/place
 

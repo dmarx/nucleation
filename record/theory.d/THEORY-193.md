@@ -45,7 +45,7 @@ summary: >-
   d ≥ 3 it is not a tiling. This says nothing about whether real networks
   grow this way.
 ---
-<!-- inactive-ok-file: THEORY-188 THEORY-196 QUESTION-025 — Proposed or Open; cited as the accounts this one sits beside -->
+<!-- inactive-ok-file: THEORY-188 THEORY-196 — Proposed or Open; cited as the accounts this one sits beside -->
 
 # THEORY-193: A simplicial complex grown by gluing each new d-simplex to one (d − 1)-face, by a rule that uses no geometry, has a 1-skeleton whose geodesic triangles are 2-thin at every size, so hyperbolic network geometry in Gromov's sense is an outcome of the combinatorial growth; the equal-link drawing as ideal simplices is a convention, a tiling of the hyperbolic plane for d = 2 in the manifold flavor but not a tiling of hyperbolic d-space for d ≥ 3
 

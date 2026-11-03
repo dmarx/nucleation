@@ -51,7 +51,7 @@ objected_by:
 complements:
 - CLAIM-202
 ---
-<!-- inactive-ok-file: CLAIM-056 CLAIM-059 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-059 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-202 — Proposed; the line's distinctive test, cited as carrying the stronger rival, open -->
 
 # CLAIM-078: The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws

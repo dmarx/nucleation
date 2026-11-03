@@ -33,7 +33,7 @@ summary: >-
   say how often this holds beyond the two prompts, and for other prompts
   the authors found no intermediate features at this layer.
 ---
-<!-- inactive-ok-file: CLAIM-454 THEORY-965 — Proposed; the claim this bears on and the wider thesis filed from the same reading, cited as open -->
+<!-- inactive-ok-file: THEORY-965 — Proposed; the claim this bears on and the wider thesis filed from the same reading, cited as open -->
 # THEORY-987: In Claude 3 Sonnet's middle-layer residual stream, on two prompts for which every active sparse-autoencoder feature was ablated, how strongly a feature was active predicted its ablation effect on the answer poorly (correlation about 0.12) while its gradient attribution predicted it well (about 0.81), and on the multi-step prompt only three of the ten most active features were among the ten with the largest ablation effect
 
 ## Source

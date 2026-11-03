@@ -33,7 +33,7 @@ summary: >-
   account cannot be decided with data in which keying and construct are
   confounded. Proposed for that step.
 ---
-<!-- inactive-ok-file: THEORY-052 QUESTION-131 QUESTION-tmpee04a LIT-tmpzyunx — Proposed, Open or registered unread; neighbours cited as open -->
+<!-- inactive-ok-file: THEORY-052 — Proposed, Open or registered unread; neighbours cited as open -->
 
 # THEORY-tmp62iwr: The BPNSFS frustration scales measure low need satisfaction in negatively keyed form, not need frustration in the sense of active thwarting, so the separation of frustration from low satisfaction in BPNSFS data, and frustration's stronger link to ill-being there, is largely a keying artefact
 

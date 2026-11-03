@@ -36,7 +36,6 @@ summary: >-
   authority, and their notes say they do not show that a motive claimed
   precedence.
 ---
-<!-- inactive-ok-file: QUESTION-365 — Open; the question the parent's outward route is filed as -->
 
 # CLAIM-484: Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it
 

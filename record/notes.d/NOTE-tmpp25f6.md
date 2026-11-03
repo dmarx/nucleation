@@ -26,7 +26,7 @@ summary: >-
   training data onto the vector flags data that will induce the trait.
   Prompt-time monitoring works mainly between prompt types.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-tmpildq9 THEORY-614 — Proposed or Open; the entries the reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpwh2jo THEORY-614 — Proposed or Open; the entries the reading bears on, cited as open -->
 
 # NOTE-tmpp25f6: Chen, Arditi, Sleight, Evans & Lindsey — Persona vectors
 

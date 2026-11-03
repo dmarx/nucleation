@@ -57,7 +57,6 @@ summary: >-
   4.
 ---
 <!-- inactive-ok-file: NOTE-tmp6wm7j — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: QUESTION-071 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # LIT-tmpk8i57: The geometric minimum action method: A least action principle on the space of curves
 

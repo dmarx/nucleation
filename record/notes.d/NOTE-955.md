@@ -31,7 +31,7 @@ summary: >-
   physical science. No theorem or model: an interpretive essay.
 ---
 
-<!-- inactive-ok-file: CLAIM-341 CLAIM-337 CLAIM-339 CLAIM-342 — Proposed; the record's own claims this reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-337 — Proposed; the record's own claims this reading bears on, cited as open -->
 
 # NOTE-955: Fuchs, Mermin & Schack — an introduction to QBism
 

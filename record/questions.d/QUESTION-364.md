@@ -20,9 +20,7 @@ summary: >-
   collective form without will or authorization. This is the
   will-organization form.
 ---
-<!-- inactive-ok-file: QUESTION-071 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
-<!-- inactive-ok-file: THEORY-1279 QUESTION-365 — Proposed or Open; Tsoukas and Chia's mechanism of category extension, and the outward route filed as a question -->
-<!-- inactive-ok-file: QUESTION-118 — Open; the collective form of the continuity question, cited as open -->
+<!-- inactive-ok-file: THEORY-1279 — Proposed or Open; Tsoukas and Chia's mechanism of category extension, and the outward route filed as a question -->
 
 # QUESTION-364: When an agent's own processes revise its will-organization, what makes the result the continuation of that agent's will rather than a replacement authored by something else, and how can a history of authorization count when the standards for reading authorization are themselves revised?
 

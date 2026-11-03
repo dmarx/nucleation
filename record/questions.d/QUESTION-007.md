@@ -31,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1904 — Unavailable; Lapoujade, the source of the parent's 'lesser existences', unread -->
 <!-- inactive-ok-file: CLAIM-016 CLAIM-096 CLAIM-104 — Deferred; set aside, and cited to say what was set aside with it -->
-<!-- inactive-ok-file: CLAIM-403 THEORY-151 THEORY-414 THEORY-495 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-151 THEORY-414 THEORY-495 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-007: What grounds normativity across agents that share an environment and a level of organization?
 

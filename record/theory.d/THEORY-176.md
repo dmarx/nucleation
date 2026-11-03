@@ -41,7 +41,6 @@ supports:
 - CLAIM-225
 - CLAIM-199
 ---
-<!-- inactive-ok-file: THEORY-156 THEORY-112 — Proposed; the order this one is compared with, and an account named in What this does not say, cited as readings, not as settled -->
 
 # THEORY-176: A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell's order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced
 

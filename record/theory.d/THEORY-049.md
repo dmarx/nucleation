@@ -64,7 +64,6 @@ summary: >-
 bears_on:
 - QUESTION-066
 ---
-<!-- inactive-ok-file: LIT-tmpeih61 NOTE-tmpnibvh LIT-tmp7s2t8 NOTE-tmpuvza0 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: LIT-545 — Unavailable; Bandura, named for the rival side's self-efficacy, not leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-154 — Proposed; a neighbour named in Connections, and the rival account -->
 

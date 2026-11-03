@@ -33,7 +33,7 @@ summary: >-
   scores the actual history with one member's part replaced. Removal was
   not the best clamp.
 ---
-<!-- inactive-ok-file: NOTE-1153 LIT-1515 — the reading this is filed from, and the Unavailable paper it stands in for -->
+<!-- inactive-ok-file: LIT-1515 — the reading this is filed from, and the Unavailable paper it stands in for -->
 
 # THEORY-939: In a multi-agent system run against a world utility, a private utility is factored, ranking each agent's own alternatives with the others fixed as the world utility ranks them, exactly when it is an increasing function of the world utility given the components the agent cannot affect; the world utility minus its value with the agent's effect set clamped is factored, and in a sixty-agent bar problem clamping to the average action learned better than clamping to absence or using the world utility itself
 

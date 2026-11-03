@@ -71,9 +71,9 @@ bearing:
 - THEORY-040
 - THEORY-121
 ---
-<!-- inactive-ok-file: NOTE-tmp6wm7j NOTE-tmpbmoj1 — new or Proposed; readings of 2026-11-03 cited as open -->
-<!-- inactive-ok-file: CASE-tmph9iwi THEORY-1118 THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->
-<!-- inactive-ok-file: CLAIM-tmpxpdqi LIT-tmpk8i57 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: NOTE-tmp6wm7j — new or Proposed; readings of 2026-11-03 cited as open -->
+<!-- inactive-ok-file: THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->
+<!-- inactive-ok-file: CLAIM-tmpxpdqi — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, named in a dated note -->

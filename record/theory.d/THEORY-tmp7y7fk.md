@@ -20,7 +20,7 @@ summary: >-
   hold that this cannot be settled with existing data, and the inference
   is [THEORY-tmp62iwr](THEORY-tmp62iwr.md)'s.
 ---
-<!-- inactive-ok-file: THEORY-052 QUESTION-tmpee04a THEORY-tmp62iwr LIT-tmp6as8m — Proposed, Open or Unfetched; neighbours cited as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-tmp62iwr LIT-tmp6as8m — Proposed, Open or Unfetched; neighbours cited as open -->
 
 # THEORY-tmp7y7fk: In eight samples pooled to 3,692 respondents, the covariance of the BPNSFS items is organized more by item keying than by need: factors sharing a keying direction correlate .64 to .75 while satisfaction and frustration of the same need correlate .17 to .38, a higher-order model grouping the six scales by keying fits better than one grouping them by need, and the frustration items carry almost no thwarting content
 

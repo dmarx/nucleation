@@ -35,7 +35,7 @@ summary: >-
   not of manipulation as such. The paper claims a harm in every case, not
   a wrong, and never examines its own intent requirement.
 ---
-<!-- inactive-ok-file: QUESTION-070 QUESTION-071 THEORY-040 THEORY-047 — Open or Proposed; the questions and accounts this bears on, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-040 THEORY-047 — Open or Proposed; the questions and accounts this bears on, named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; named as where the authenticity line sits, not leaned on -->
 
 # THEORY-235: Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case

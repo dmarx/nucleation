@@ -57,7 +57,7 @@ rivals:
 bears_on:
 - QUESTION-035
 ---
-<!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 THEORY-343 THEORY-646 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-343 THEORY-646 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
 # THEORY-579: If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue
 

@@ -43,7 +43,6 @@ summary: >-
 bears_on:
 - QUESTION-058
 ---
-<!-- inactive-ok-file: THEORY-017 — Proposed; named in Connections for which structure is intrinsic, not leaned on -->
 
 # THEORY-021: In the exact configurations of uniform superposition (regular polygons, the tetrahedron, antipodal pairs, and tegum products of these that span the hidden space, with equal norms within each factor) the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity
 

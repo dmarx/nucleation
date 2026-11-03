@@ -31,7 +31,7 @@ bears_on:
 - QUESTION-217
 ---
 <!-- inactive-ok-file: LIT-1287 — Unavailable; the maximum-likelihood account this one is contrasted with, not read -->
-<!-- inactive-ok-file: CLAIM-331 THEORY-257 — Proposed; entries this bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-257 — Proposed; entries this bears on, nothing here rests on their being settled -->
 
 # THEORY-775: With a Gaussian random-walk prior and an instantaneous unit-variance Gaussian encoder, the KL half of the evidence lower bound is the unordered slowness loss plus a constant; with a linear Gaussian encoder and decoder on whitened input, the bound is maximized on the span of the slowest SFA directions whose lag-one autocorrelation exceeds one half, with the basis inside that span unidentified, and on unwhitened input the maximizer is neither SFA's subspace nor invariant to rescaling the input
 

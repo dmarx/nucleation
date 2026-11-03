@@ -29,7 +29,7 @@ summary: >-
   self-esteem as an outcome "imprudent". Security emerged in unsatisfying
   events; money–luxury was last throughout.
 ---
-<!-- inactive-ok-file: THEORY-tmp5tsat QUESTION-tmpee04a THEORY-052 LIT-tmpkzr6r LIT-tmpk1ssy LIT-tmpzyunx LIT-tmporplv LIT-tmp0rsz4 — Proposed, Open or Deferred; the THEORY filed from this reading and the entries it bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 LIT-tmpkzr6r LIT-tmpk1ssy LIT-tmp0rsz4 — Proposed, Open or Deferred; the THEORY filed from this reading and the entries it bears on, cited as open -->
 
 # NOTE-tmp3xmvo: Sheldon, Elliot, Kim & Kasser — What is satisfying about satisfying events?
 

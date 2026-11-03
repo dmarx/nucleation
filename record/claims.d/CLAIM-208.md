@@ -40,7 +40,7 @@ summary: >-
   manuscript, not that it cannot fail as stated. It does not say error
   propagation is unimportant.
 ---
-<!-- inactive-ok-file: CLAIM-078 CLAIM-056 CLAIM-059 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-078 CLAIM-059 — Proposed; open, and cited as the claims this objection is to -->
 
 # CLAIM-208: The compositional predictions are upper bounds whose constants cannot be estimated from serial-reproduction data in a metric fixed beforehand, so the compositional half of the success criterion cannot fail
 

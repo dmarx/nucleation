@@ -32,7 +32,7 @@ summary: >-
   which also contrast exposure that restores context sensitivity with a
   precision-lowering drug that removes symptoms until it stops.
 ---
-<!-- inactive-ok-file: THEORY-058 THEORY-285 — Proposed; the loop account QUESTION-045 names as a partial answer, and the account filed from this reading -->
+<!-- inactive-ok-file: THEORY-058 — Proposed; the loop account QUESTION-045 names as a partial answer, and the account filed from this reading -->
 
 # NOTE-766: Linson et al. — Impaired context disambiguation in post-traumatic psychopathology
 

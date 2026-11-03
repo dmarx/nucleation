@@ -37,7 +37,6 @@ reported_in:
 - NOTE-1086
 - NOTE-1087
 ---
-<!-- inactive-ok-file: CLAIM-349 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-127: United 173 and Crew Resource Management: a crew whose concern about the fuel did not reach the captain as a demand to act, and the training that followed, which asked for participative captains and assertive crews
 

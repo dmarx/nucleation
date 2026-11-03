@@ -32,7 +32,7 @@ reported_in:
 supports:
 - CLAIM-432
 ---
-<!-- inactive-ok-file: THEORY-131 THEORY-139 CLAIM-349 — Proposed; the accounts and the claim this case bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; the accounts and the claim this case bears on, cited as open -->
 
 # CASE-151: Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted accounts that the board's own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them
 

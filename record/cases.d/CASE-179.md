@@ -38,7 +38,7 @@ summary: >-
   the apparatus did not choose. Not run.
 ---
 <!-- inactive-ok-file: CLAIM-251 CLAIM-404 CLAIM-tmpbeh2e — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
-<!-- inactive-ok-file: CLAIM-474 CLAIM-481 CLAIM-480 CLAIM-342 QUESTION-282 QUESTION-283 QUESTION-063 — Proposed, Open or new; the claims and questions the study would test -->
+<!-- inactive-ok-file: CLAIM-474 — Proposed, Open or new; the claims and questions the study would test -->
 
 # CASE-179: A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish
 

@@ -28,7 +28,7 @@ summary: >-
   pre-emptive, as with an un-refreshed list of expert witnesses.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis -->
-<!-- inactive-ok-file: THEORY-317 THEORY-327 THEORY-326 — Proposed; the account from the précis and the accounts filed from this batch -->
+<!-- inactive-ok-file: THEORY-317 THEORY-326 — Proposed; the account from the précis and the accounts filed from this batch -->
 
 # NOTE-853: Fricker — Evolving Concepts of Epistemic Injustice
 

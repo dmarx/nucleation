@@ -35,7 +35,6 @@ summary: >-
   eliminative OSR untouched.
 ---
 
-<!-- inactive-ok-file: THEORY-034 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-149: Chakravartty — Ontological Priority and non-eliminative OSR
 

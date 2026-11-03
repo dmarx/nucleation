@@ -28,7 +28,6 @@ summary: >-
   parallel to the drift; in the nongradient Maier–Stein model they depart
   from the heteroclinic orbit once the drift is far enough from gradient.
 ---
-<!-- inactive-ok-file: QUESTION-071 — Open; the question whose note the reading bears on -->
 
 # NOTE-tmp6wm7j: Heymann & Vanden-Eijnden — The geometric minimum action method
 

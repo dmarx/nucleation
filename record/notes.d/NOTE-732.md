@@ -41,7 +41,7 @@ summary: >-
   space. Theory-building from two anecdotal vignettes and four public
   incidents; five propositions, none tested.
 ---
-<!-- inactive-ok-file: CLAIM-284 CLAIM-288 CLAIM-285 — Proposed; open claims, cited as what this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-285 — Proposed; open claims, cited as what this reading bears on, nothing here rests on their being settled -->
 
 # NOTE-732: Lahiri — Agent-initiated socio-technical reconfiguration
 

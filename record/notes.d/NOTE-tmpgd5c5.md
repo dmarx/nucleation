@@ -28,7 +28,7 @@ summary: >-
   Cross-sectional self-report; the authors' definition of autonomy as
   volition is the paper's thesis and its measure.
 ---
-<!-- inactive-ok-file: THEORY-tmphu42d QUESTION-tmpee04a THEORY-047 THEORY-054 LIT-tmp0rsz4 LIT-tmpd3l9z LIT-tmpdbw3y — Proposed, Open or Deferred; the THEORY filed from this reading and the entries it bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmphu42d THEORY-047 THEORY-054 LIT-tmp0rsz4 LIT-tmpdbw3y — Proposed, Open or Deferred; the THEORY filed from this reading and the entries it bears on, cited as open -->
 
 # NOTE-tmpgd5c5: Chirkov, Ryan, Kim & Kaplan — Differentiating autonomy from individualism
 

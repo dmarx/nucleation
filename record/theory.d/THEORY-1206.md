@@ -35,7 +35,6 @@ summary: >-
   how the authors read it; whether the thesis holds is this entry's question,
   and its promote_when is [THEORY-1102](THEORY-1102.md)'s old condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1206: The mitochondrion was acquired late in eukaryogenesis, by a host whose proteome was already chimaeric, with genes from several bacterial sources acquired before it
 

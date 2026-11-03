@@ -41,7 +41,7 @@ summary: >-
   between too many global readings and none. Dropped at C6 without
   critique.
 ---
-<!-- inactive-ok-file: CLAIM-037 CLAIM-038 CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-037 CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-044: Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
 

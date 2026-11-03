@@ -106,7 +106,7 @@ allows. The claim is unchanged.
 
 ## Note of 2026-10-26: the router result reproduced, and run on equal terms
 
-<!-- inactive-ok-file: CASE-162 CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as evidence reported for the objection, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as evidence reported for the objection, nothing here rests on their being settled -->
 
 The software behind A47's result is now held, as dmarx/PerspectiveLab
 (v1.0 at dmarx/PerspectiveLab@41e56df). Its v1.1 (@7e2edc2) reproduces

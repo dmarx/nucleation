@@ -28,7 +28,7 @@ summary: >-
   loss of control when rates converge is asserted, not shown. It is the
   closest prior art the record holds for [CLAIM-478](../claims.d/CLAIM-478.md).
 ---
-<!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b CLAIM-478 CLAIM-331 CLAIM-477 THEORY-tmpny96e — Proposed or new; the source, its reading and the claims it bears on, cited as open -->
+<!-- inactive-ok-file: NOTE-tmpv0g6b CLAIM-478 CLAIM-477 — Proposed or new; the source, its reading and the claims it bears on, cited as open -->
 
 # THEORY-tmp4nt8x: In hierarchically organized systems, levels are demarcated by sharp discontinuities in characteristic process and relaxation rates, the embedding level being slower than its components, and a level controls another by constraint only while their rates stay separated: when the cycling rates converge, the control asymmetry and the distinction between the levels are lost, whatever the signal amplitude; Juarrero's statement of Salthe's and Allen and Starr's hierarchy theory
 

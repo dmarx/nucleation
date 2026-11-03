@@ -54,7 +54,6 @@ summary: >-
   read.
 ---
 <!-- inactive-ok-file: THEORY-054 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
-<!-- inactive-ok-file: LIT-tmpd9u4s — cited as the second-hand report of this work -->
 
 # LIT-tmpwslkc: Testing a continuum structure of self-determined motivation: A meta-analysis.
 

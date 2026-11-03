@@ -40,7 +40,7 @@ summary: >-
   endorsement anywhere, and no historical condition.
 ---
 <!-- inactive-ok-file: THEORY-tmp6xjgq — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
-<!-- inactive-ok-file: THEORY-tmptunid THEORY-120 QUESTION-071 — Proposed or Open; the reading and the question the claim bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmptunid THEORY-120 — Proposed or Open; the reading and the question the claim bears on, cited as open -->
 
 # CLAIM-tmplyicq: Jennings's attention as the source of a free will has Frankfurt's two-level architecture with its upper level changed from an attitude to a process: the whole collection of an agent's interests, prioritizing, settles which first-order interest becomes effective, as a second-order volition does for Frankfurt, but by metacontrol and not by endorsement; so it inherits unchanged the objection that a manipulated organization can meet the condition, and what it adds to Frankfurt is that the process forms new interests and is a contextually emergent cause
 

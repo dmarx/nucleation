@@ -39,7 +39,6 @@ summary: >-
   for well-being, and need-deprivation is offered as a principal source of
   distress and psychopathology.
 ---
-<!-- inactive-ok-file: NOTE-tmpmgw5i — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: LIT-545 — Unavailable: Bandura (1977) is unread; named because this paper names self-efficacy, not leaned on -->
 <!-- inactive-ok-file: LIT-556 — Unavailable: Cameron & Pierce (1994) is unread; named as one side of the reward dispute -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this reading on them is stated, nothing here rests on them -->

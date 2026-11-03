@@ -37,7 +37,7 @@ summary: >-
   carry errors, and the heat-kernel proof has a gap.
 ---
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading whose phrase is checked here -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-331 THEORY-186 THEORY-481 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-186 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
 
 # NOTE-985: Coifman and Lafon — Diffusion maps
 

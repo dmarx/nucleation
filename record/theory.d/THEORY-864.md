@@ -30,7 +30,6 @@ summary: >-
   injustice in Fricker's sense, or that the amplification is a loop with
   any stated condition.
 ---
-<!-- inactive-ok-file: THEORY-327 CLAIM-406 CLAIM-277 — Proposed; readings and claims this account is set beside, nothing here rests on them -->
 # THEORY-864: When a generative model reproduces a prejudiced narrative learned from its training data, the resulting testimonial injustice runs through a credibility excess assigned to the model, so that hearers believe the amplified account over the testimony of those it discredits, rather than through a hearer's prejudiced judgement of a present speaker
 
 ## Source

@@ -83,7 +83,6 @@ supports:
 - CLAIM-357
 ---
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: NOTE-tmpswlms NOTE-tmpr36wg NOTE-tmpe4mmg — new or Proposed; readings of 2026-11-03 cited as open -->
 
 # CLAIM-368: The primitive for an organization's regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either
 

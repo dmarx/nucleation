@@ -50,10 +50,10 @@ used_by:
 - CLAIM-448
 - CLAIM-450
 ---
-<!-- inactive-ok-file: CLAIM-404 LIT-tmp91wxa — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-404 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-841 THEORY-857 — Proposed; Hayek's argument and James et al.'s bidirectionality, cited as readings that bear on the term, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1321 LIT-1328 — Unavailable; Scott and Lan, named as works the term's sources lean on that no lawful copy reached -->
-<!-- inactive-ok-file: CLAIM-081 CLAIM-199 CLAIM-296 CLAIM-338 CLAIM-342 CLAIM-348 CLAIM-349 CLAIM-404 — Proposed; open claims that bear on or use the term, cited as open -->
+<!-- inactive-ok-file: CLAIM-338 CLAIM-404 — Proposed; open claims that bear on or use the term, cited as open -->
 
 # TERM-064: legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer's rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations
 

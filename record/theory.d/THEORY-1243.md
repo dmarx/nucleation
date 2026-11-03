@@ -36,7 +36,6 @@ summary: >-
   the trait mapping; whether real symbioses are dependence-first is this
   entry's question, with [THEORY-1050](THEORY-1050.md)'s old condition.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1243: In incipient endosymbioses in nature, mutual dependence evolves ahead of reproductive cohesion, so that endosymbioses are more likely to be mutually dependent than cohesive
 

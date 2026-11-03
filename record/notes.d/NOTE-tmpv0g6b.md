@@ -40,7 +40,7 @@ summary: >-
   verbatim (pp. 93–94). It has no formal model of its own and does not
   discuss Kane, free will, chaos or contextual emergence.
 ---
-<!-- inactive-ok-file: LIT-tmpqbxw7 CLAIM-478 CLAIM-tmpex9rg TERM-tmp8spbn CLAIM-tmpbeh2e CASE-tmph9iwi THEORY-tmp6xjgq NOTE-tmpn7fkx NOTE-tmpby7i2 LIT-tmp31f3t LIT-tmpasemk THEORY-tmpny96e THEORY-tmp4nt8x THEORY-tmpt161r CLAIM-331 CLAIM-477 THEORY-072 THEORY-071 QUESTION-071 NOTE-tmpbmoj1 — Proposed, Open, Unavailable or new; the entries this reading answers and the THEORYs filed from it, cited as open -->
+<!-- inactive-ok-file: LIT-tmpqbxw7 CLAIM-478 CLAIM-tmpex9rg TERM-tmp8spbn CLAIM-tmpbeh2e THEORY-tmp6xjgq THEORY-tmp4nt8x THEORY-tmpt161r CLAIM-477 THEORY-072 THEORY-071 — Proposed, Open, Unavailable or new; the entries this reading answers and the THEORYs filed from it, cited as open -->
 
 # NOTE-tmpv0g6b: Juarrero — Context Changes Everything
 

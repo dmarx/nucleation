@@ -72,7 +72,6 @@ summary: >-
   in the sense of proportionality. It does not say the macro adds causal
   information.
 ---
-<!-- inactive-ok-file: QUESTION-204 QUESTION-335 — Open; the question this claim bears on and the case it leaves open, cited as open -->
 <!-- inactive-ok-file: THEORY-787 — Rejected; the account this claim replaces, cited as rejected -->
 
 # CLAIM-497: A system's causes are found at the coarsest description whose interventions are unambiguous: a macro description is causally proportionate where it merges only micro states that intervention cannot tell apart, and no coarse-graining carries more causal information than the micro description it supervenes on

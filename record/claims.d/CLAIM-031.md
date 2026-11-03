@@ -24,7 +24,6 @@ summary: >-
 corroborated_by:
 - THEORY-203
 ---
-<!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-031: A reconstruction chain reorganizes observational constraints rather than only accumulating metric error: a text can change greatly while keeping a few consequential constraints, and one changed constraint can change the act
 

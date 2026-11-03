@@ -22,7 +22,7 @@ summary: >-
   judgement reaches the far future only when prompted. Which ground holds
   decides whether the owner's thesis has a counterexample here.
 ---
-<!-- inactive-ok-file: QUESTION-301 CLAIM-491 CLAIM-492 LIT-469 LIT-1754 LIT-1716 LIT-1724 LIT-1684 LIT-1739 LIT-1773 LIT-1768 LIT-1769 LIT-1681 LIT-1733 LIT-1712 LIT-1756 LIT-1753 LIT-1688 LIT-1748 LIT-1749 LIT-1741 LIT-1747 LIT-1678 — Open, Proposed, Deferred or Unavailable; the questions, thesis and works the question is organised around, cited as open -->
+<!-- inactive-ok-file: CLAIM-491 LIT-469 LIT-1754 LIT-1716 LIT-1724 LIT-1769 LIT-1712 LIT-1741 LIT-1747 LIT-1678 — Open, Proposed, Deferred or Unavailable; the questions, thesis and works the question is organised around, cited as open -->
 
 # QUESTION-299: What, if anything, do the living owe people who will live in the far future, and does that obligation rest on the good of those people, on an impersonal good, or on what the living themselves value?
 

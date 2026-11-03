@@ -17,7 +17,7 @@ summary: >-
   frustration dimension is an artefact, only that this evidence cannot
   tell it from one; that test is Murphy et al.'s ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md)), unread.
 ---
-<!-- inactive-ok-file: THEORY-052 LIT-tmpjcuzb QUESTION-tmpee04a CLAIM-368 LIT-tmp6as8m — Proposed, Open, Deferred or Unfetched; the entries this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 LIT-tmp6as8m — Proposed, Open, Deferred or Unfetched; the entries this bears on, cited as open -->
 
 # THEORY-tmpr67qi: In the Basic Psychological Need Satisfaction and Frustration Scale as Chen et al. built it, the distinction between satisfaction and frustration coincides with item direction: every satisfaction item states a positive experience and every frustration item an aversive one, so the better fit of six factors over three, which is the scale's evidence that frustration is a separate dimension, is also what a keying or valence factor would produce
 

@@ -73,7 +73,7 @@ summary: >-
   summary, not counted, and the import mechanisms are unknown.
 ---
 <!-- inactive-ok-file: THEORY-1228 — Proposed; filed beside this reading by the twenty-third status review: the wider thesis it reports -->
-<!-- inactive-ok-file: QUESTION-277 CASE-174 CASE-167 — Open or Proposed; the question, cases, accounts and unread works set beside this, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-174 CASE-167 — Open or Proposed; the question, cases, accounts and unread works set beside this, nothing here rests on them -->
 
 # THEORY-1100: On Sørensen and colleagues' review, a bacterial endosymbiont becomes genetically integrated, the authors' mark of an organelle, when nuclear genes whose products are imported into it functionally replace essential genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, many of which fill gaps left by lost genes, the imported proteins come mostly from the host's own genes or from other bacteria, and in the nitroplast no gene transfer from the endosymbiont has been found
 

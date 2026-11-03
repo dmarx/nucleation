@@ -68,7 +68,7 @@ summary: >-
   conclude the split is "likely primarily" a keying artefact, while
   saying the confound cannot be resolved with existing data.
 ---
-<!-- inactive-ok-file: THEORY-052 THEORY-tmp62iwr QUESTION-131 QUESTION-tmpee04a — Proposed or Open; the entries the reading bears on and a THEORY filed from it, cited as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-tmp62iwr — Proposed or Open; the entries the reading bears on and a THEORY filed from it, cited as open -->
 
 # LIT-tmpjcuzb: The Basic Psychological Need Satisfaction and Frustration Scales probably do not validly measure need frustration.
 

@@ -33,7 +33,7 @@ summary: >-
   produced/imposed distinction, and it classifies the record's combined
   forms as fiat without choosing among them.
 ---
-<!-- inactive-ok-file: CLAIM-157 CLAIM-194 — Proposed; the record's open claims this reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the record's open claims this reading bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-072 THEORY-589 THEORY-452 — Proposed; neighbouring accounts named for comparison, not leaned on -->
 
 # THEORY-622: Spatial boundaries are bona fide where a spatial discontinuity or a heterogeneity of material is present and fiat where they exist only by demarcation; the two obey different topologies, distinct bodies are never in bona fide contact, so any whole of separate bodies is a fiat object, and real properties of the material still enable and constrain where fiat boundaries can be drawn

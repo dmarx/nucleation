@@ -50,7 +50,6 @@ summary: >-
   does it show that the starting differences were noise rather than
   quality, beyond citing Sauder and Lancaster.
 ---
-<!-- inactive-ok-file: CLAIM-402 CLAIM-342 — Proposed; the claims this account would instance, cited as open -->
 
 # THEORY-854: A public ranking can raise its own validity through the reactions it provokes: where a unit's published rank affects the inputs to its next rank, as when applicants choose by rank and their choices feed the selectivity score, or raters who know little but the last rank fill the reputation survey, rank differences that began as measurement noise can become real differences that the ranking then correctly reports
 

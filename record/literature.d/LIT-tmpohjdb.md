@@ -58,7 +58,7 @@ summary: >-
   a need basic, takes no side on the two-dimensional model, and names
   the IBQ and GNSF as good practice.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a QUESTION-131 THEORY-tmp62iwr LIT-tmp6as8m — Open, Proposed or Unfetched; the entries the reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp62iwr LIT-tmp6as8m — Open, Proposed or Unfetched; the entries the reading bears on, cited as open -->
 
 # LIT-tmpohjdb: Assessing basic/fundamental psychological need fulfillment: systematic mapping and review of existing scales to foster cumulative science
 

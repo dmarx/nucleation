@@ -24,7 +24,7 @@ summary: >-
   cause. Timeless meaning is to be explained from occasion meaning. It is
   an analysis of meaning, offered "roughly", not of illocutionary acts.
 ---
-<!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 — Proposed or Open; the objection, claim, question and case this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-221 CLAIM-151 — Proposed or Open; the objection, claim, question and case this reading bears on, open -->
 
 # NOTE-735: Grice — Meaning
 

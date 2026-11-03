@@ -60,7 +60,6 @@ corroborates:
 bears_on:
 - QUESTION-349
 ---
-<!-- inactive-ok-file: QUESTION-349 — Open; the replication its condition asked for -->
 
 # THEORY-937: When a mixture of experts is trained on the error of a single expert chosen stochastically by the gate, or on the negative log-likelihood of the mixture, the gradient raises the gate's logit for an expert that fits a case better than the gate-weighted average and lowers it for one that fits worse; on a four-class vowel task, mixtures of 4 or 8 linear experts learned in about half the epochs of backpropagation networks of roughly equal parameter count, at equal accuracy, and divided the task by class pair, leaving all but 2 or 3 experts with mixing proportions effectively zero
 

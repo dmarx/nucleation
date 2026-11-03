@@ -38,7 +38,6 @@ summary: >-
   whether that is true is this entry's question, and its promote_when is
   [THEORY-1105](THEORY-1105.md)'s old condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1215: Besides Asgard archaea and the alphaproteobacterial ancestor of mitochondria, Myxococcota and Planctomycetota were major donors of genes to the eukaryotic lineage before its last common ancestor, in waves: Asgard first, then Planctomycetota before the mitochondrion, then the mitochondrial ancestor and Myxococcota together
 

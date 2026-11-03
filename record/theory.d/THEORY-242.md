@@ -51,7 +51,7 @@ summary: >-
   minority view, and the majority is overturned only when the minority
   exceeds about 30%.
 ---
-<!-- inactive-ok-file: THEORY-146 THEORY-143 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
+<!-- inactive-ok-file: THEORY-143 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
 
 # THEORY-242: A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small
 

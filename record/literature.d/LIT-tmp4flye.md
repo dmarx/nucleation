@@ -55,7 +55,7 @@ summary: >-
   Metzinger's phenomenal self-model ([NOTE-460](../notes.d/NOTE-460.md)), so this work is named
   in full.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-tmpildq9 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-tmpwh2jo — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # LIT-tmp4flye: The Persona Selection Model: Why AI Assistants might Behave like Humans
 

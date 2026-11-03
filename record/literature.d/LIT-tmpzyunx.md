@@ -53,7 +53,7 @@ summary: >-
   valuation or need desire. All frustration items are negatively worded and
   all satisfaction items positively.
 ---
-<!-- inactive-ok-file: QUESTION-131 THEORY-052 THEORY-tmp4qi8l — Proposed or Open; cited from the exchange "Assess SDT Coverage" of 2026-11-02 and from this reading as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-tmp4qi8l — Proposed or Open; cited from the exchange "Assess SDT Coverage" of 2026-11-02 and from this reading as open -->
 
 # LIT-tmpzyunx: Basic psychological need satisfaction, need frustration, and need strength across four cultures
 

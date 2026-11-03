@@ -23,7 +23,7 @@ summary: >-
   and this term says nothing about determinism. [ADR-056](../decisions.d/ADR-056.md)'s proposed kinds
   would class it as a construct.
 ---
-<!-- inactive-ok-file: TERM-tmp8spbn CLAIM-tmpbeh2e CLAIM-tmplz9zf CLAIM-tmpex9rg CASE-tmph9iwi QUESTION-071 LIT-tmpnqv86 — Proposed, Open, Deferred or new; cited as open -->
+<!-- inactive-ok-file: TERM-tmp8spbn CLAIM-tmpbeh2e CLAIM-tmpex9rg LIT-tmpnqv86 — Proposed, Open, Deferred or new; cited as open -->
 
 # TERM-tmp8cp5q: self-formation, of an agent: the production, by the agent's own activity on a discrepancy it cannot yet resolve, of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones
 

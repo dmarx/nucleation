@@ -29,8 +29,8 @@ bearing:
 - THEORY-748
 ---
 <!-- inactive-ok-file: NOTE-974 THEORY-763 THEORY-776 NOTE-1022 THEORY-772 NOTE-1027 THEORY-821 — Skimmed or Proposed; the negative half of Onsager, cited as open -->
-<!-- inactive-ok-file: LIT-1239 LIT-1243 LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-273 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-219: Can a persistent pattern of transfer through a system, kept while its constituents are replaced, pick out a unit that neither a block test nor a closed collective mode finds, and what separates such organized throughput from mere transport?
 
 ## Why it is a question

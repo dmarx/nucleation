@@ -69,7 +69,7 @@ complements:
 - CLAIM-443
 ---
 
-<!-- inactive-ok-file: CLAIM-359 THEORY-067 — Proposed; an open claim this one cites and the reading that corroborates it, cited as open -->
+<!-- inactive-ok-file: THEORY-067 — Proposed; an open claim this one cites and the reading that corroborates it, cited as open -->
 
 # CLAIM-344: Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve
 

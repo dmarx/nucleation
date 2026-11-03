@@ -27,7 +27,7 @@ summary: >-
   less than unrewarded groups given the same feedback. Felt pressure was
   higher under controlling conditions; mediation was not tested.
 ---
-<!-- inactive-ok-file: THEORY-049 THEORY-154 QUESTION-066 — Proposed or Open; the account this experiment tests, its rival, and a neighbouring question, cited as open -->
+<!-- inactive-ok-file: THEORY-049 THEORY-154 — Proposed or Open; the account this experiment tests, its rival, and a neighbouring question, cited as open -->
 
 # NOTE-tmpnibvh: Ryan, Mims & Koestner — Reward contingency and interpersonal context
 

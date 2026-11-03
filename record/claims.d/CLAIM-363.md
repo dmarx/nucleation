@@ -79,7 +79,6 @@ complements:
 - CLAIM-405
 ---
 <!-- inactive-ok-file: THEORY-1279 THEORY-1277 — Proposed; Tsoukas and Chia's radial categories and Bencherki and Iliadis's coexisting levels, set beside this claim -->
-<!-- inactive-ok-file: CLAIM-405 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-363: A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false
 

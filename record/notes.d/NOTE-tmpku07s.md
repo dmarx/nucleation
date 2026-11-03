@@ -23,7 +23,7 @@ summary: >-
   outcome is a willed success. Indeterminism lessens control without
   lessening responsibility; what is needed is macro-control.
 ---
-<!-- inactive-ok-file: CLAIM-tmpex9rg CLAIM-tmpptgk8 TERM-tmp8spbn TERM-tmp8cp5q CASE-tmph9iwi THEORY-328 THEORY-040 QUESTION-071 LIT-tmpnqv86 — Proposed, Open, Unavailable or new; cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpex9rg TERM-tmp8spbn TERM-tmp8cp5q THEORY-328 THEORY-040 LIT-tmpnqv86 — Proposed, Open, Unavailable or new; cited as open -->
 
 # NOTE-tmpku07s: Kane — Libertarianism
 

@@ -21,7 +21,7 @@ summary: >-
   what "sufficiently rich" means and what plays the role of the fibre
   functor, or shows that no such reconstruction can hold.
 ---
-<!-- inactive-ok-file: THEORY-002 THEORY-019 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: THEORY-002 — listed as material that may bear on this question, not as settled -->
 
 # QUESTION-036: Can the admissible symmetries of a communicative kind be reconstructed from a sufficiently rich family of its observable realizations and transformations?
 

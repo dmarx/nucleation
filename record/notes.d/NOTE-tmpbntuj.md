@@ -33,7 +33,7 @@ summary: >-
   moderated 2 of 18 relations; heterogeneity was very high (I² mostly
   above 90%).
 ---
-<!-- inactive-ok-file: THEORY-tmp4q289 THEORY-052 QUESTION-tmpee04a THEORY-047 LIT-tmpa0lm5 LIT-tmp0rsz4 — Proposed, Open or Deferred; the THEORY filed from this reading and the entries it bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-052 THEORY-047 LIT-tmp0rsz4 — Proposed, Open or Deferred; the THEORY filed from this reading and the entries it bears on, cited as open -->
 
 # NOTE-tmpbntuj: Slemp et al. — Interpersonal supports for basic needs, a meta-analysis
 

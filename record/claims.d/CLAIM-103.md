@@ -25,7 +25,6 @@ summary: >-
   are special cases" and drops the nesting and the yardstick role,
   apparently by inadvertence.
 ---
-<!-- inactive-ok-file: CLAIM-113 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-103: Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed
 

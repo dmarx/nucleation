@@ -30,7 +30,6 @@ bears_on:
 - QUESTION-041
 ---
 <!-- inactive-ok-file: LIT-748 — Unavailable, unread; the 1970 book this essay extends -->
-<!-- inactive-ok-file: THEORY-140 — Proposed; the CAIB account, named for comparison -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; Argyris, named for comparison -->
 
 # THEORY-152: When a firm, public service or other organization deteriorates, its members' exit and voice are both recuperation mechanisms: voice carries richer information than exit and can be felt as a benefit rather than a cost, exit can be costly even without loyalty and can signal nothing, loyalty makes members voice rather than exit, and an organization needs floor levels of both for feedback but disintegrates or is disrupted beyond ceiling levels, while its managers may favour whichever response least threatens their hold on power

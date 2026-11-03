@@ -36,8 +36,7 @@ summary: >-
   The distinction is about whether a discontinuity is there, not about who
   made it, so it does not map onto [CLAIM-194](../claims.d/CLAIM-194.md)'s produced/imposed.
 ---
-<!-- inactive-ok-file: CLAIM-194 — Proposed; the counter this reading was filed to test -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-174 — Proposed; the candidate answers this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the candidate answers this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; the accounts CLAIM-194 grounds on, named as such -->
 
 # NOTE-721: Smith & Varzi — Fiat and Bona Fide Boundaries

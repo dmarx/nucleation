@@ -50,7 +50,7 @@ summary: >-
   corruption is high early and low late. This is a feedback from pattern to
   flow, and it answers [QUESTION-085](../questions.d/QUESTION-085.md) in part. Untested on the logs.
 ---
-<!-- inactive-ok-file: QUESTION-085 CLAIM-273 CLAIM-277 THEORY-072 — Proposed; claims and readings cited as open -->
+<!-- inactive-ok-file: THEORY-072 — Proposed; claims and readings cited as open -->
 
 # CLAIM-274: Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself
 

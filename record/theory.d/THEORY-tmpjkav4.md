@@ -24,7 +24,7 @@ summary: >-
   concession, that indeterminism lessens control, is what [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md)
   turns on.
 ---
-<!-- inactive-ok-file: CLAIM-tmpex9rg THEORY-328 CLAIM-tmpptgk8 — Proposed; the entries this reply bears on -->
+<!-- inactive-ok-file: CLAIM-tmpex9rg THEORY-328 — Proposed; the entries this reply bears on -->
 
 # THEORY-tmpjkav4: Kane answers the luck objection by making indeterminism a hindrance inside goal-directed effort rather than a cause on its own: in a self-forming action the agent makes two competing efforts, each meeting the indeterminacy as interference from the other, so whichever succeeds is a willed success for which the agent is responsible; indeterminism lessens the agent's control but not its responsibility, and what responsibility needs is macro-control of processes involving many neurons, not control of each
 

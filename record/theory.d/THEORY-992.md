@@ -32,7 +32,7 @@ summary: >-
   model's training data from frequency in the autoencoder's, which the
   authors say are similar mixtures.
 ---
-<!-- inactive-ok-file: THEORY-1016 THEORY-017 CLAIM-454 THEORY-965 — Proposed; the accounts and claim this one bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-1016 THEORY-965 — Proposed; the accounts and claim this one bears on, cited as open -->
 # THEORY-992: In sparse autoencoders of about 1M, 4M and 34M features on Claude 3 Sonnet's middle-layer residual stream, whether a concept among chemical elements, cities, animals and foods had a dedicated feature depended on how often it occurs in the training data: the frequency at which a concept became more than 50% likely to have one was slightly below one over the number of live features, and the three dictionaries' curves roughly coincided when frequency was rescaled by that number
 
 ## Source

@@ -38,7 +38,7 @@ summary: >-
   The paper puts this down to the shape of the curve, but most of it
   comes from the curve getting longer.
 ---
-<!-- inactive-ok-file: THEORY-186 THEORY-481 — Proposed; accounts this reading is set beside, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-186 — Proposed; accounts this reading is set beside, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the empirical account filed from this reading -->
 
 # NOTE-983: Rahaman et al. — On the Spectral Bias of Neural Networks

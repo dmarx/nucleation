@@ -20,7 +20,7 @@ summary: >-
   is set by [CLAIM-260](../claims.d/CLAIM-260.md): approximate transports compose only under
   conditions.
 ---
-<!-- inactive-ok-file: CLAIM-202 CLAIM-205 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
+<!-- inactive-ok-file: CLAIM-202 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
 # QUESTION-074: Can the transport structure fitted to single transformations predict what receivers recover under a composition of transformations no data were fitted on, within the conditions under which approximate transports compose?
 
 ## The question

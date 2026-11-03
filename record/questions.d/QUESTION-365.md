@@ -23,7 +23,7 @@ summary: >-
   The record has no place for it, because its account of will is indexed
   to a given agent ([CLAIM-080](../claims.d/CLAIM-080.md)).
 ---
-<!-- inactive-ok-file: CLAIM-358 CLAIM-484 THEORY-1280 THEORY-1285 QUESTION-364 — Proposed or Open; the record's two routes, the readings that propose a third, and the question it borders -->
+<!-- inactive-ok-file: CLAIM-358 CLAIM-484 THEORY-1280 THEORY-1285 — Proposed or Open; the record's two routes, the readings that propose a third, and the question it borders -->
 
 # QUESTION-365: When a conflict among an agent's processes is settled neither by local accommodation nor by escalation, can it be settled by another organization taking up the demand the agent's arbitration leaves ungranted, and what would tell that apart from suppression of the demand or a change in the agent's own arbitration?
 

@@ -23,7 +23,7 @@ summary: >-
   is a move the grammar could not hold, caught and answered by amending the
   grammar. Not shown: that such moves are always caught.
 ---
-<!-- inactive-ok-file: CLAIM-181 CLAIM-296 CLAIM-419 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-181 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-131: The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation
 

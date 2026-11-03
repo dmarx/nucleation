@@ -68,7 +68,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-478 — Proposed; the claims this corroborates and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 — Unavailable; cited for what it is standardly cited for -->
-<!-- inactive-ok-file: QUESTION-283 CLAIM-419 CLAIM-479 — Open, Proposed or new; the question this result raises and the claims about luria it bears on -->
 
 # CLAIM-480: Composing interactions can turn an interior into a constraint, and sometimes into a constraint of a new kind: in the chain E = ½k₁(x₁ − x₂)² + ½k₂(x₂ − x₃)², with x₂ internal and equilibrated, the boundary sees E_eff = ½·k₁k₂/(k₁ + k₂)·(x₁ − x₃)², a coupling between x₁ and x₃ that neither part has; if the interior relaxes slowly, eliminating it leaves a history-dependent constraint, a memory kernel, so interconnection fixes an effective constraint on the boundary's trajectories and separation of time scales decides only whether that constraint is approximately memoryless; and for cellular sheaves the reduced constraint can relate three boundary values where every relation among the parts is pairwise
 

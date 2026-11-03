@@ -29,7 +29,7 @@ summary: >-
   correlational; extrinsic attainment's zero-order correlation with
   well-being is positive (mean r = .19).
 ---
-<!-- inactive-ok-file: THEORY-tmpcjdte QUESTION-tmpee04a THEORY-052 THEORY-049 THEORY-054 — Proposed or Open; the THEORY filed from this reading and the entries it bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmpcjdte THEORY-052 THEORY-049 THEORY-054 — Proposed or Open; the THEORY filed from this reading and the entries it bears on, cited as open -->
 
 # NOTE-tmpmgw5i: Niemiec, Ryan & Deci — The path taken
 

@@ -27,8 +27,8 @@ summary: >-
   the weakly emergent models it rejects.
 ---
 <!-- inactive-ok-file: NOTE-tmpyhyrz — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: LIT-tmphwtm4 LIT-tmpszapu — Deferred; sources registered unread on 2026-11-03 -->
-<!-- inactive-ok-file: CLAIM-tmplyicq THEORY-tmptunid THEORY-tmp6xjgq CLAIM-tmpex9rg CLAIM-tmplz9zf CLAIM-478 CLAIM-158 CLAIM-156 QUESTION-033 QUESTION-034 QUESTION-071 QUESTION-364 QUESTION-011 THEORY-040 THEORY-1296 LIT-tmpnqv86 LIT-tmpo8e51 LIT-tmpkq6x5 LIT-tmp4kcgq — Proposed, Open, Deferred or new; the entries the reading bears on, cited as open -->
+<!-- inactive-ok-file: LIT-tmpszapu — Deferred; sources registered unread on 2026-11-03 -->
+<!-- inactive-ok-file: CLAIM-tmplyicq THEORY-tmptunid THEORY-tmp6xjgq CLAIM-tmpex9rg CLAIM-478 CLAIM-158 CLAIM-156 QUESTION-011 THEORY-040 THEORY-1296 LIT-tmpnqv86 LIT-tmpo8e51 — Proposed, Open, Deferred or new; the entries the reading bears on, cited as open -->
 
 # NOTE-tmpby7i2: Jennings — Attention as the Source of a Free Will
 

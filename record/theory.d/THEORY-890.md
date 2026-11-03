@@ -35,7 +35,7 @@ summary: >-
   test it, are left open. It does not say that values are inert: within
   an established strategy they "fine-tune the regulation of action".
 ---
-<!-- inactive-ok-file: CLAIM-416 CLAIM-417 CLAIM-420 — Proposed; the claims this account bears on, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-417 — Proposed; the claims this account bears on, named, not leaned on -->
 
 # THEORY-890: Culture shapes action less by setting its ends than by supplying a repertoire of skills, habits and styles from which people build strategies of action, so strategies outlast the ends they serve; in settled periods culture constrains through the cost of retooling, while in unsettled periods explicit ideologies govern action directly but structural opportunities decide which of the competing ideologies survive
 

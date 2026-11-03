@@ -44,7 +44,6 @@ summary: >-
   and the Memory-Test condition differed from the others in more than retrieval
   cost.
 ---
-<!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # NOTE-864: Gray & Fu — Soft constraints in interactive behavior
 

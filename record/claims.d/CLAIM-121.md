@@ -37,8 +37,6 @@ supports:
 - CLAIM-207
 ---
 <!-- ref::uses-file: TERM-008 — stated in "transport"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- inactive-ok-file: THEORY-174 — Proposed; cited as the reading that generalises this proposition, not as settled -->
-<!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as open: the narrowed problem this proposition supports -->
 
 # CLAIM-121: A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models
 

@@ -16,7 +16,6 @@ summary: >-
   one remembered event, and the self-esteem items read like well-being,
   which is [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md)'s problem in miniature.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a — Open; the question this bears on -->
 
 # THEORY-tmp5tsat: In Sheldon, Elliot, Kim and Kasser's three studies of most satisfying events, self-esteem was as salient as autonomy, competence and relatedness in every sample and the largest unique predictor of event affect balance among ten candidate needs in two of the three US samples (β = .28, .38); the authors, SDT researchers, concluded that there may be four fundamental needs and judged it imprudent to treat self-esteem as an outcome
 

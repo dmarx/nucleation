@@ -62,7 +62,7 @@ summary: The general content of [CLAIM-143](CLAIM-143.md), filed alone under [AD
 supports:
 - CLAIM-143
 ---
-<!-- inactive-ok-file: CLAIM-004 CLAIM-143 — Proposed; cited for what each holds or applies, open, not settled -->
+<!-- inactive-ok-file: CLAIM-004 — Proposed; cited for what each holds or applies, open, not settled -->
 
 # CLAIM-265: Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description is decided only relative to a specified class of admissible correspondences between their observations, and a correspondence admitted only because it removes the disagreement decides nothing
 

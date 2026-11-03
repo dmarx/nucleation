@@ -33,7 +33,6 @@ summary: >-
   5- or 5⁺-gon while the posterior at n = 1000 favours the 6-gon. Proposed:
   one model, one SGD setting, estimated learning coefficients.
 ---
-<!-- inactive-ok-file: QUESTION-363 QUESTION-039 — Open; the question this bears on, and the question it refines -->
 
 # THEORY-1275: In the toy model of superposition, SGD's transitions have Bayesian counterparts whose critical sample sizes rise in the order training meets them, yet SGD was not seen to take the posterior's main transition and ends in a phase the posterior has left at the training sample size
 

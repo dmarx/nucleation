@@ -70,7 +70,7 @@ summary: >-
   Mossio (ch. 7); control is analog (ch. 11); delayed-response
   neuroscience is read as top-down control (ch. 15).
 ---
-<!-- inactive-ok-file: LIT-tmpqbxw7 NOTE-tmpv0g6b THEORY-tmpny96e THEORY-tmp4nt8x THEORY-tmpt161r CLAIM-478 CLAIM-tmpex9rg TERM-tmp8spbn CLAIM-tmpbeh2e THEORY-tmp6xjgq — Proposed, Unavailable or new; the work it stands in for, its reading and the entries it was registered for, cited as open -->
+<!-- inactive-ok-file: LIT-tmpqbxw7 NOTE-tmpv0g6b THEORY-tmp4nt8x THEORY-tmpt161r CLAIM-478 CLAIM-tmpex9rg TERM-tmp8spbn CLAIM-tmpbeh2e THEORY-tmp6xjgq — Proposed, Unavailable or new; the work it stands in for, its reading and the entries it was registered for, cited as open -->
 
 # LIT-tmpw5nxr: Context Changes Everything: How Constraints Create Coherence
 

@@ -40,7 +40,6 @@ summary: >-
 bears_on:
 - QUESTION-310
 ---
-<!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 
 # THEORY-918: Across 642 experimental tests to September 2019, forming implementation intentions improved outcomes, with uncorrected effects on behaviour (d = .27), cognitive performance (.47), affect regulation (.66) and social judgement (.52), but publication bias was substantial: the pooled d = .36 falls to a model-averaged d = .15 under robust Bayesian meta-analysis, which still found extreme evidence of an effect (BF10 = 319), with large heterogeneity
 

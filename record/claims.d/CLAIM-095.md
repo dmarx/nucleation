@@ -22,7 +22,6 @@ summary: >-
   the guard that it does not mean concealing limitations. Its sweep
   removed hedges, and with them some substantive points.
 ---
-<!-- inactive-ok-file: CLAIM-077 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-095: Anticipated objections are better met by precise definitions, constructions and results than by hedges
 

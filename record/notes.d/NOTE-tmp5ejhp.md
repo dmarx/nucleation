@@ -29,7 +29,7 @@ summary: >-
   inventory example, poorer information bases raise cost and the
   non-adjustable RC is infeasible.
 ---
-<!-- inactive-ok-file: CLAIM-354 QUESTION-282 — Proposed or Open; entries the reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-354 — Proposed or Open; entries the reading bears on, cited as open -->
 
 # NOTE-tmp5ejhp: Ben-Tal, Goryashko, Guslitzer & Nemirovski — Adjustable robust solutions
 

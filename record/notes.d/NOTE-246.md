@@ -48,7 +48,6 @@ summary: >-
   and the definition numbers are the same data re-reported.
 ---
 
-<!-- inactive-ok-file: THEORY-017 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-246: Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras
 

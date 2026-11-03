@@ -49,7 +49,6 @@ supports:
 extended_by:
 - THEORY-798
 ---
-<!-- inactive-ok-file: THEORY-008 THEORY-112 — Proposed; cited as the kernel and symmetry accounts this one sits beside -->
 <!-- inactive-ok-file: THEORY-798 — Proposed; the wider hypothesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-175: Cosine similarities to matched anchor points are unchanged by exactly the maps that preserve each sample's cosines to the anchors, among them every orthogonal map times a positive scalar and every per-sample positive rescaling but not translations; in Moschella et al.'s experiments independently trained encoders agreed in them only approximately, enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differed

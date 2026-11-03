@@ -26,7 +26,7 @@ summary: >-
   Adopted on filing, because the record already relies on it in nine
   places and its definition is quoted from a source read in full.
 ---
-<!-- inactive-ok-file: THEORY-055 THEORY-056 THEORY-057 TERM-078 — Proposed; the account this term is separated from, its neighbour and its rival, and the term that builds on its marks -->
+<!-- inactive-ok-file: THEORY-055 THEORY-056 THEORY-057 — Proposed; the account this term is separated from, its neighbour and its rival, and the term that builds on its marks -->
 
 # TERM-094: action readiness, with control precedence, in Frijda's sense: a state of preparation for action, not a representation of a desirable state, that claims control over behaviour by persisting until an end state, resuming after interruption, capturing attention and taking priority over other actions
 

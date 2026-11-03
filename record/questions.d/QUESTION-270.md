@@ -43,7 +43,6 @@ summary: >-
   [CLAIM-437](../claims.d/CLAIM-437.md)'s wanting and liking, [CLAIM-403](../claims.d/CLAIM-403.md)'s ladder from access to uptake,
   and [CASE-124](../cases.d/CASE-124.md)'s legibility.
 ---
-<!-- inactive-ok-file: CLAIM-403 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # QUESTION-270: When can an organization hold an evaluation that is accurate, a consummatory process registering that an outcome no longer pleases or a process whose belief keeps predicting well, and still deny it the authority to revise pursuit or the collective judgement, and how is that told apart from the evaluation's not being recognized at all?
 

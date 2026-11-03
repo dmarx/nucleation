@@ -79,8 +79,7 @@ complements:
 bears_on:
 - QUESTION-031
 ---
-<!-- inactive-ok-file: CLAIM-269 — Proposed; the general form of a premise, filed under ADR-040, open -->
-<!-- inactive-ok-file: CLAIM-142 CLAIM-204 CLAIM-206 CLAIM-209 CLAIM-217 THEORY-019 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-142 CLAIM-204 CLAIM-206 CLAIM-209 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-193: A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
 

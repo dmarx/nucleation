@@ -30,7 +30,7 @@ summary: >-
   correlational sample cannot show that extrinsic success fails to raise
   well-being.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a THEORY-049 — Open or Proposed; neighbours cited as open -->
+<!-- inactive-ok-file: THEORY-049 — Open or Proposed; neighbours cited as open -->
 
 # THEORY-tmpcjdte: In Niemiec, Ryan and Deci's post-college sample, attaining intrinsic aspirations went with more well-being and less ill-being, and attaining extrinsic aspirations, entered alongside it, added nothing to well-being and went with more ill-being; the extrinsic null is a unique-variance result, since alone extrinsic attainment correlated positively with well-being and need satisfaction
 

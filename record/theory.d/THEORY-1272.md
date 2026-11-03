@@ -31,7 +31,7 @@ summary: >-
   fits test the power law and not its link to the LLC; Kunin et al. report
   super-diffusion in another regime.
 ---
-<!-- inactive-ok-file: THEORY-209 QUESTION-039 — Proposed or Open; Kunin's account of the same motion, and the question about timing -->
+<!-- inactive-ok-file: THEORY-209 — Proposed or Open; Kunin's account of the same motion, and the question about timing -->
 
 # THEORY-1272: Late in training, SGD weights drift sub-diffusively, with displacement growing as a power of training time set by a spectral dimension and the local learning coefficient
 

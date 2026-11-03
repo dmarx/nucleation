@@ -65,7 +65,7 @@ summary: >-
   lookup-table argument ([THEORY-092](../theory.d/THEORY-092.md)) applied to agency, so it is
   elementary; the thesis is the reading of it.
 ---
-<!-- inactive-ok-file: THEORY-092 QUESTION-086 — Proposed or Open; Block's argument and the question of endogenous revision, cited as open -->
+<!-- inactive-ok-file: THEORY-092 — Proposed or Open; Block's argument and the question of endogenous revision, cited as open -->
 
 # CLAIM-519: Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions
 

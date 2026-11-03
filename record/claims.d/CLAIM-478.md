@@ -52,14 +52,14 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
-<!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b THEORY-tmp4nt8x — new; Juarrero 2023, read on 2026-11-03 -->
-<!-- inactive-ok-file: NOTE-tmpyug9h THEORY-tmp7q08l NOTE-tmpi46fq — new or Proposed; readings of 2026-11-03 cited as open -->
+<!-- inactive-ok-file: NOTE-tmpv0g6b THEORY-tmp4nt8x — new; Juarrero 2023, read on 2026-11-03 -->
+<!-- inactive-ok-file: NOTE-tmpyug9h — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpex9rg — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
-<!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-480 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
+<!-- inactive-ok-file: CLAIM-473 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1073 THEORY-1052 — Proposed; readings cited as open -->
-<!-- inactive-ok-file: CLAIM-477 CLAIM-331 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-477 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: THEORY-tmpull8q — Proposed; the large-system argument of a reading cited as open -->
-<!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 LIT-1630 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
+<!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-478: Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 

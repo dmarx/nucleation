@@ -17,7 +17,6 @@ summary: >-
   task needs two or three lines; whether the sparse division appears on
   tasks without so few natural subtasks is open.
 ---
-<!-- inactive-ok-file: QUESTION-132 — Open; the separate question of whether an idle expert recovers, named -->
 
 # QUESTION-349: On tasks other than Jacobs and colleagues' four-class vowel discrimination, do mixtures of experts trained on the error of a single expert chosen stochastically by the gate, or on the mixture's negative log-likelihood, leave most experts with near-zero mixing proportions while matching the accuracy of a dense network of equal size?
 

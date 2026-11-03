@@ -29,7 +29,7 @@ summary: >-
   moderated by need valuation or need desire. Every satisfaction item is
   worded positively and every frustration item negatively.
 ---
-<!-- inactive-ok-file: THEORY-tmpr67qi THEORY-tmp4qi8l THEORY-052 QUESTION-131 QUESTION-tmpee04a CLAIM-368 LIT-tmpjcuzb LIT-tmpohjdb LIT-tmp6as8m — Proposed, Open or Deferred; the THEORYs filed from this reading and the entries it bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp4qi8l THEORY-052 LIT-tmp6as8m — Proposed, Open or Deferred; the THEORYs filed from this reading and the entries it bears on, cited as open -->
 
 # NOTE-tmpr36wg: Chen et al. — Need satisfaction, frustration and strength across four cultures
 

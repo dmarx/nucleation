@@ -27,7 +27,7 @@ summary: >-
   pattern survives the reasons for pursuing the goals, and says that
   test would be interesting.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a THEORY-054 — Open or Proposed; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-054 — Open or Proposed; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpp47uv: Kasser & Ryan — Further examining the American dream
 

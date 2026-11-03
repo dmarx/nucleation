@@ -57,7 +57,7 @@ summary: >-
   action as context-sensitive constraint in a complex system, the nearest
   philosophical prior art for [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) and [CLAIM-478](../claims.d/CLAIM-478.md)'s constraints.
 ---
-<!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b — new; the stand-in registered 2026-11-03 and its reading -->
+<!-- inactive-ok-file: NOTE-tmpv0g6b — new; the stand-in registered 2026-11-03 and its reading -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-tmpex9rg — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # LIT-tmpqbxw7: Dynamics in Action: Intentional Behavior as a Complex System

@@ -24,7 +24,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-331 — Unavailable; named as the later generalisation, not read -->
-<!-- inactive-ok-file: THEORY-019 — Proposed; named for the half of its promote_when this account supplies, not leaned on -->
 
 # THEORY-652: Over any field, a finite-dimensional associative algebra with no nilpotent two-sided ideal is uniquely a direct sum of simple algebras, and each simple algebra is a full matrix algebra over a division algebra, which over the reals can be the complex numbers or the quaternions
 

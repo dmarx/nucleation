@@ -30,8 +30,6 @@ objected_by:
 superseded_by:
 - CLAIM-125
 ---
-<!-- inactive-ok-file: CLAIM-125 — Proposed; the narrowed claim that replaces this one -->
-<!-- inactive-ok-file: THEORY-174 — Proposed; simulations never create contextuality, cited as partial answer, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-100: Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
