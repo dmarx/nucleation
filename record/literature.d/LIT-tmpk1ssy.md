@@ -1,10 +1,15 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A3). No reading was attempted.
+  searched 2026-11-03 for a lawful full text; one exists but this client
+  could not fetch it, so it is not read and no NOTE is filed. OpenAlex
+  lists it as open access under CC BY at the publisher,
+  link.springer.com/content/pdf/10.1007/s11031-026-10216-7.pdf, which
+  returned a client challenge (bot check) to curl and was not retried.
+  No repository copy is listed and none was found. A browser fetch of
+  the Springer address is the cheapest way to read it.
 title: 'Beyond the three basic needs: beneficence satisfaction and frustration as predictors of well- and ill-being in a Central European sample'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -12,6 +17,15 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-11-02 (no
     email address sent, ADR-008): dated 2026-03-10. The summary says why it
     is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Searched for a lawful full text; status Deferred → Unfetched
+    (ADR-053). OpenAlex lists hybrid open access, CC BY, at Springer only,
+    with no repository copy. Springer's PDF returned a client challenge
+    and was not retried. No email address was sent to any service
+    (ADR-008). Not read; the summary still says why it is here, not what
+    it shows.
 tags:
 - motivation
 - well-being
