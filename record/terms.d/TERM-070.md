@@ -29,6 +29,7 @@ summary: >-
 used_by:
 - CLAIM-414
 ---
+<!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b — new; Juarrero 2023, read on 2026-11-03 -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and the agency reading that use this sense, cited as open -->
 
 # TERM-070: organizational closure, as closure of constraints: a set of constraints each of which depends directly on another in the set and has another depending on it (Montévil and Mossio 2015), distinct from informational closure and from a flame's maintenance of the conditions of its own combustion
@@ -93,3 +94,16 @@ citing them should know:
   entrenched and closed would look like.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-03: Juarrero's constraint is not this one
+
+A reader citing Juarrero 2023 (LIT-tmpw5nxr, NOTE-tmpv0g6b) for "constraint"
+should know that her context-dependent constraint is Gatlin's conditional
+dependence among processes (p. 67), with no condition of conservation at a time
+scale. Only chapter 7 matches this term: there she adopts its closure of
+constraints from Moreno and Mossio (pp. 93–94), adding that the closed loop spans
+a longer interval and persists through turnover (p. 94). She also calls Bénard
+cells and the BZ reaction "autopoietic" (p. 91) while reporting that Mossio et
+al. deny them self-constraint (p. 92).
+
+The term is unchanged.

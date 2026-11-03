@@ -52,6 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
+<!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b THEORY-tmp4nt8x — new; Juarrero 2023, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-tmpyug9h THEORY-tmp7q08l NOTE-tmpi46fq — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpex9rg — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-480 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
@@ -295,5 +296,19 @@ alone does not show new organization forming. And Anastassiou et al.
 ([NOTE-tmpi46fq](../notes.d/NOTE-tmpi46fq.md)) are a neural case of the first half: a slow field constrains
 fast spike timing without setting spike counts, most effectively when slow,
 though there the slowness is imposed.
+
+The claim is unchanged.
+
+## Note of 2026-11-03 (later): Juarrero 2023, prior art for both directions
+
+Juarrero's *Context Changes Everything* (LIT-tmpw5nxr, NOTE-tmpv0g6b, ch. 12)
+holds both directions as philosophy, from hierarchy theory: coherence makes
+slower wholes (entrained pendulums "longer and slower", p. 68; higher levels
+"usually slower", p. 183), and a separation of rates is a condition of control
+between levels ("Lack of asymmetry in cycling rates … reflects the absence of
+control constraint", p. 190; THEORY-tmp4nt8x). It gives no mechanism, no slow
+manifold or critical slowing, and its constraint is not relative to a time
+scale (p. 40). Its swing-timing example (p. 46), a phase relation that is not a
+slower variable, is a candidate for defeater (a) worth checking.
 
 The claim is unchanged.

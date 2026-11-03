@@ -170,6 +170,15 @@ several entries on which something does.
   [QUESTION-118](../questions.d/QUESTION-118.md)). Whether a self-formed capacity continues the agent's will is
   the same question asked of a capacity ([QUESTION-364](../questions.d/QUESTION-364.md)).
 
+**The view it qualifies.** Juarrero (LIT-tmpw5nxr, NOTE-tmpv0g6b) holds that
+coherent dynamics "carry their history on their backs" (p. 75) and "make
+manifest the context and the moment in which they were created" (p. 76). Her
+examples, graphite and diamond, are different attractors reached by different
+routes. Here one attractor is reached by two routes and keeps no trace of which,
+so the construction limits her general claim without contradicting her
+examples. Her self-determination is closure, a present, maintenance-provenance
+notion with no formation condition (pp. 93–94).
+
 It does not show a new variable coming to be. S and G are in the model from the
 start, and formation raises them from zero, so this is a bistable system pushed
 across a separatrix, as [CASE-189](CASE-189.md) says of itself. The "class" is fixed by the

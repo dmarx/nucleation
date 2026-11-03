@@ -9,8 +9,12 @@ status_note: >-
   10.7551/mitpress/14630.001.0001), is open access and is not this work.
   Froese 2023 (NOTE-tmpn7fkx) cites this book among the constraint
   accounts it criticizes. It stays Unavailable until a copy is supplied.
+  Note of 2026-11-03: the 2023 book is now registered and read as its
+  stand-in (LIT-tmpw5nxr, NOTE-tmpv0g6b, Skimmed); it restates this
+  book's constraint vocabulary and cites it for enabling and second-order
+  context-dependent constraints, but not its action theory.
 title: 'Dynamics in Action: Intentional Behavior as a Complex System'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-02'
@@ -25,6 +29,16 @@ history:
     full text on 2026-11-03 (OpenAlex, Crossref, the publisher, which
     returned 403, web searches for an open edition) reached none. The
     open-access title is the 2023 book, not this one. No NOTE is filed.
+- version: 3
+  date: '2026-11-03'
+  note: >-
+    Dated note, no status change: at the owner's request the 2023 book,
+    Context Changes Everything, is registered and read as this work's
+    open-access stand-in (LIT-tmpw5nxr; NOTE-tmpv0g6b, Skimmed). It
+    restates the constraint vocabulary and credits this book for
+    enabling constraints (p. 71) and second-order context-dependent
+    constraints (p. 81). It does not stand in for this book's account of
+    intentional action, which stays unread.
 tags:
 - agency
 - complex-systems
@@ -43,6 +57,7 @@ summary: >-
   action as context-sensitive constraint in a complex system, the nearest
   philosophical prior art for [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) and [CLAIM-478](../claims.d/CLAIM-478.md)'s constraints.
 ---
+<!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b — new; the stand-in registered 2026-11-03 and its reading -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-tmpex9rg — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # LIT-tmpqbxw7: Dynamics in Action: Intentional Behavior as a Complex System

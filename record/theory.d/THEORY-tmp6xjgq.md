@@ -85,3 +85,10 @@ Weaker than the paper states. Szczepanski et al. are correlational
 (Donoghue et al., [THEORY-tmp66yzx](THEORY-tmp66yzx.md)); 1/f structure is present in every
 recording ([THEORY-tmpqlync](THEORY-tmpqlync.md)); and ephaptic coupling is circuit physics with
 fields applied from outside ([THEORY-tmpvy87o](THEORY-tmpvy87o.md)).
+
+Juarrero 2023 (NOTE-tmpv0g6b) does not use "contextual emergence". She shares
+the Bénard case (p. 91) and even the skull (p. 168), but her boundaries are
+differences of rate that "need not be tangible, material structures" (p. 77),
+and she holds the governing regime not other than the parts (p. 81). So she does
+not supply the irreducible boundary this theory's promote_when asks for.
+

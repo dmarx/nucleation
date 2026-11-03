@@ -29,6 +29,7 @@ summary: >-
   in Hopfield networks with random resets and Hebbian learning. Conceptual
   throughout: no model, no data.
 ---
+<!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b — new; Juarrero 2023, read on 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-tmpex9rg CLAIM-478 CLAIM-354 QUESTION-071 THEORY-328 THEORY-040 LIT-1132 LIT-tmpqbxw7 LIT-tmp8fjub LIT-tmpqt7ea THEORY-tmped3yc — Proposed, Open or Unavailable; the entries this reading bears on, cited as open -->
 
 # NOTE-tmpn7fkx: Froese — Irruption Theory
@@ -238,3 +239,13 @@ establishes is a set of definitions and an argument.
 - In the self-optimization model, does it matter when the resets come or
   where they land? If it does, the timing of resets is a channel, and the
   question becomes whose it is.
+
+## Note of 2026-11-03 (later): Juarrero 2023
+
+Froese's diagnosis fits Juarrero's 2023 book as well as the 1999 one he cites
+(LIT-tmpw5nxr, NOTE-tmpv0g6b): it grants that governing constraints are "not
+spatiotemporally other than the components" (p. 81), and its reply to
+overdetermination, that constraints transfer no energy (pp. 25, 46), answers the
+closure worry, not the question of whose efficacy it is. It is not libertarian;
+it accepts "indetermination and uncertainty" (p. 235). Whether this holds of the
+1999 book stays unread.
