@@ -33,6 +33,7 @@ summary: >-
   within Nucleation's framework"; [CASE-111](CASE-111.md) is the earlier one, and this is
   its variant with a coupling attached.
 ---
+<!-- inactive-ok-file: CASE-tmph9iwi — new; the variant built on 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-tmpbeh2e — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 
 # CASE-189: Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling's gap is still ≈ 0.989
@@ -193,5 +194,7 @@ A31 of the exchange "Assess SDT Coverage" (2026-11-02) read this case as an orga
 structure it did not previously possess", "a genuinely self-maintaining
 organization". The case says otherwise: "The capacities exist from the start
 in Construction 2; the encounter supplies only the connector". It is the
-starting point for the construction [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md) calls for, in which the
-encounter would produce a new distinction and channel.
+starting point for the construction CLAIM-tmpbeh2e calls for, in which the
+encounter would produce a new distinction and channel. That construction is
+CASE-tmph9iwi, a variant of this case with the encounter replaced by the agent's
+own frustration.
