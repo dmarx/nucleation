@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpe2f2g), from the version of record
+  read in full 2026-11-03 ([NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md)), from the version of record
   (CC BY) via Europe PMC; worth reading as a finding aid to the 31
   original need-fulfillment scales and as a plain list of the field's
   measurement faults: satisfaction, frustration, support and thwarting
   confused, frustration scales built from negatively worded satisfaction
   items, double-barrelled items. It offers no criterion for need-hood
-  (THEORY-tmpbkq7u).
+  ([THEORY-tmpbkq7u](../theory.d/THEORY-tmpbkq7u.md)).
 title: 'Assessing basic/fundamental psychological need fulfillment: systematic mapping and review of existing scales to foster cumulative science'
 version: 2
 history:
@@ -66,15 +66,15 @@ Kermavnar, T., Avsec, A., Huang, S., Desmet, P. M. A. (2024). Assessing basic/fu
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpe2f2g). THEORY: THEORY-tmpbkq7u
+Read in full on 2026-11-03 ([NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md)). THEORY: [THEORY-tmpbkq7u](../theory.d/THEORY-tmpbkq7u.md)
 (Active).
 
 - 31 original scales; 21 measure satisfaction only, one frustration only,
   one thwarting. All are self-reports, so none measures a functional
-  deficit, the kind of evidence QUESTION-tmpee04a asks for.
+  deficit, the kind of evidence [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md) asks for.
 - The field confuses satisfaction, frustration, support and thwarting in
   places; the BPNSFS's frustration items are negatively coded satisfaction
-  items (LIT-tmpjcuzb).
+  items ([LIT-tmpjcuzb](LIT-tmpjcuzb.md)).
 - No criterion for need-hood is offered, and the two-dimensional model is
   neither endorsed nor rejected.
 

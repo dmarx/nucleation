@@ -142,21 +142,21 @@ key point, it is the urgent need to reduce this ambiguity and confusion"
 
 ## Connections
 
-- **Murphy et al. 2023** (LIT-tmpjcuzb): adopted for the BPNSFS. Murphy was
+- **Murphy et al. 2023** ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md)): adopted for the BPNSFS. Murphy was
   one of the review's two named reviewers.
-- **Bartholomew et al. 2011** (LIT-tmp6as8m): the PNTS, the one thwarting
+- **Bartholomew et al. 2011** ([LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md)): the PNTS, the one thwarting
   scale, and the first to bring "the darker side" into the scales.
-- **Sheldon et al. 2001** (LIT-tmpd3l9z): the "Sheldon scale", ten candidate
+- **Sheldon et al. 2001** ([LIT-tmpd3l9z](../literature.d/LIT-tmpd3l9z.md)): the "Sheldon scale", ten candidate
   needs; noted as having failed to extract its expected ten factors and
   proceeded anyway (§4.5.3).
 - **Elson et al. 2023**, "the toothbrush problem", as the motive.
-- **Vansteenkiste, Ryan and Soenens 2020** (LIT-561): the nine criteria are
+- **Vansteenkiste, Ryan and Soenens 2020** ([LIT-561](../literature.d/LIT-561.md)): the nine criteria are
   mentioned (§1, "five 'basic' and four 'associated' criteria") and not
   applied.
 
 ## Bearing on the record
 
-- **QUESTION-tmpee04a (what would show a need is a need).** The review does
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md) (what would show a need is a need).** The review does
   not answer it and says the field has not: "a current lack of consensus of
   what constitutes a fundamental psychological need" (§1), with typologies
   differing on innateness, universality and interrelatedness (§4.1.1). It
@@ -168,7 +168,7 @@ key point, it is the urgent need to reduce this ambiguity and confusion"
   because "the frustration of ARC alone may not adequately predict
   individuals' ill-being" (§4.1.2): the well-being route the question
   doubts, stated as the motive.
-- **QUESTION-131.** The review's four-cell table (Table 1) is the
+- **[QUESTION-131](../questions.d/QUESTION-131.md).** The review's four-cell table (Table 1) is the
   psychology's version of the question's rows, with one difference: it
   places thwarting in the environment and frustration in the person, where
   the question places thwarting on a constituent's demand. Its cross-paths
@@ -176,13 +176,13 @@ key point, it is the urgent need to reduce this ambiguity and confusion"
   separations in each direction the question asks for, stated as examples,
   not shown. The review also says measures of external conditions "do not
   always predict personal experiences" (§1).
-- **THEORY-052.** It corroborates Murphy et al.'s point that the BPNSFS
+- **[THEORY-052](../theory.d/THEORY-052.md).** It corroborates Murphy et al.'s point that the BPNSFS
   frustration scale was not built for the two-dimensional construct, and
   adds that scales for frustration proper are few and recent (2020). It
   does not assess whether need frustration predicts psychopathology.
-- **THEORY filed from this reading**: THEORY-tmpbkq7u (Active), what the
+- **THEORY filed from this reading**: [THEORY-tmpbkq7u](../theory.d/THEORY-tmpbkq7u.md) (Active), what the
   review counted and the faults it documents. It is also a second source
-  for THEORY-tmp62iwr.
+  for [THEORY-tmp62iwr](../theory.d/THEORY-tmp62iwr.md).
 - **No instruction for machine-learning practice.**
 
 ## Limitations

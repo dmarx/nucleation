@@ -29,7 +29,7 @@ summary: >-
   falls from .50 to .42 with perfectionism and to a non-significant .18
   with frustration added. In latent change models, correlated change of
   the two symptoms falls from .43 to .39 and then .24. This is the study
-  LIT-561 cites as showing need frustration "predicted" the symptoms and
+  [LIT-561](../literature.d/LIT-561.md) cites as showing need frustration "predicted" the symptoms and
   "largely accounted for their co-occurrence and co-evolution across
   time"; it is mediation of correlated change between two waves, not
   temporal precedence.
@@ -142,12 +142,12 @@ or were only minimally (Study 2) related to each other" (p. 11).
   increases in binge eating.
 - **Bartholomew, Ntoumanis, Ryan, Bosch and Thøgersen-Ntoumani 2011**
   (PSPB), on need frustration with depression and disordered eating in
-  athletes; a different paper from LIT-tmp6as8m.
+  athletes; a different paper from [LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md).
 - **Chen et al. 2015**: the BPNSFS, whose frustration items are the measure.
 
 ## Bearing on the record
 
-- **THEORY-052 and LIT-561.** THEORY-052 quotes LIT-561 p. 12: Campbell et
+- **[THEORY-052](../theory.d/THEORY-052.md) and [LIT-561](../literature.d/LIT-561.md).** [THEORY-052](../theory.d/THEORY-052.md) quotes [LIT-561](../literature.d/LIT-561.md) p. 12: Campbell et
   al. (2018a) found that need frustration "not only predicted adolescents'
   depressive symptoms and eating pathology, but also largely accounted for
   their co-occurrence and co-evolution across time". Read against the
@@ -156,23 +156,23 @@ or were only minimally (Study 2) related to each other" (p. 11).
   with frustration in the model. "Predicted" is right only statistically.
   There is no lagged prediction: the longitudinal study has two waves, and
   its frustration and symptom variables are changes over the same six
-  months. THEORY-052's note of 2026-10-28 calls it "the one longitudinal
+  months. [THEORY-052](../theory.d/THEORY-052.md)'s note of 2026-10-28 calls it "the one longitudinal
   study cited"; it is longitudinal in having two waves, and gives no
   evidence of temporal order. On the promote_when: it is not prospective
   prediction of onset; it covers two internalizing domains, "more than one
   kind", but not externalizing; and the frustration measure is the BPNSFS
-  frustration scale, which Murphy et al. (LIT-tmpjcuzb, NOTE-tmpswlms)
-  argue is a keyed low-satisfaction score (THEORY-tmp62iwr), with items ("I feel like a
+  frustration scale, which Murphy et al. ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md), [NOTE-tmpswlms](NOTE-tmpswlms.md))
+  argue is a keyed low-satisfaction score ([THEORY-tmp62iwr](../theory.d/THEORY-tmp62iwr.md)), with items ("I feel like a
   failure because of the mistakes I make") close in content to both the
   perfectionism predictor and depressive symptoms. So it does not meet the
-  promote_when, and THEORY-052 stays where it is.
+  promote_when, and [THEORY-052](../theory.d/THEORY-052.md) stays where it is.
 - **The comorbidity framing is the strongest form of the transdiagnostic
   claim in the record**: not "frustration correlates with each disorder"
   but "frustration absorbs the association between disorders". It could
   have failed (a residual symptom correlation near .50 would have), and
-  in Study 1 it did not. That is worth stating in THEORY-052 alongside the
+  in Study 1 it did not. That is worth stating in [THEORY-052](../theory.d/THEORY-052.md) alongside the
   measurement objections.
-- **THEORY filed from this reading**: THEORY-tmpeqxmj (Active), the
+- **THEORY filed from this reading**: [THEORY-tmpeqxmj](../theory.d/THEORY-tmpeqxmj.md) (Active), the
   comorbidity result and its design.
 - **No instruction for machine-learning practice.**
 

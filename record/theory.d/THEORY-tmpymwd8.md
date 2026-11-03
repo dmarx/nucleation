@@ -9,7 +9,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpgv3da
 summary: >-
-  Levine et al. (2021), LIT-tmpgv3da, read in NOTE-tmpe4mmg from the
+  Levine et al. (2021), [LIT-tmpgv3da](../literature.d/LIT-tmpgv3da.md), read in [NOTE-tmpe4mmg](../notes.d/NOTE-tmpe4mmg.md) from the
   version of record in PMC. Active as a statement of the reported paths,
   checked against Tables 2, 4 and 5. It does not say the frustration
   causes the depression: the models are traditional cross-lagged panels
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Levine, Brabander, Moore, Holding and Koestner (2021), LIT-tmpgv3da,
-Motivation and Emotion 46(1); read in NOTE-tmpe4mmg.
+Levine, Brabander, Moore, Holding and Koestner (2021), [LIT-tmpgv3da](../literature.d/LIT-tmpgv3da.md),
+Motivation and Emotion 46(1); read in [NOTE-tmpe4mmg](../notes.d/NOTE-tmpe4mmg.md).
 
 ## What was actually shown
 
@@ -59,11 +59,11 @@ ones, as cross-sectional work had suggested.
   reverse path at Study 1's first lag (.20) exceeds the forward one (.13).
 - **That what predicts is frustration rather than low satisfaction.** The
   BMPN's satisfaction half is not modelled, and the items are negatively
-  worded, like the outcomes (THEORY-tmp62iwr's objection in another
+  worded, like the outcomes ([THEORY-tmp62iwr](THEORY-tmp62iwr.md)'s objection in another
   instrument).
 - **That frustration is transdiagnostic.** The authors say so; the outcomes
   are one symptom domain and a mood state.
 - **Anything about the descriptives of Study 2.** Its Table 3 repeats Study
   1's means and SDs digit for digit, so one of them is a copying error
-  (NOTE-tmpe4mmg, Limitations). The path coefficients are reported
+  ([NOTE-tmpe4mmg](../notes.d/NOTE-tmpe4mmg.md), Limitations). The path coefficients are reported
   separately and are not affected on their face.

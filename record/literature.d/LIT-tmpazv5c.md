@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpxovm7), from the publisher's
+  read in full 2026-11-03 ([NOTE-tmpxovm7](../notes.d/NOTE-tmpxovm7.md)), from the publisher's
   early-view PDF posted on selfdeterminationtheory.org; worth reading as
-  the study THEORY-052 cites, through LIT-561 p. 12, for need
+  the study [THEORY-052](../theory.d/THEORY-052.md) cites, through [LIT-561](LIT-561.md) p. 12, for need
   frustration as transdiagnostic, and as the strongest form of that
   claim in the record: frustration statistically absorbs the association
   between depressive and eating symptoms. Its longitudinal study is two
   waves of correlated change, so it shows no temporal order, and its
-  measure is the BPNSFS frustration scale (THEORY-tmpeqxmj).
+  measure is the BPNSFS frustration scale ([THEORY-tmpeqxmj](../theory.d/THEORY-tmpeqxmj.md)).
 title: 'Psychological need frustration as a transdiagnostic process in associations of self-critical perfectionism with depressive symptoms and eating pathology'
 version: 2
 history:
@@ -66,14 +66,14 @@ Campbell, R., Boone, L., Vansteenkiste, M., Soenens, B. (2018). Psychological ne
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpxovm7). THEORY: THEORY-tmpeqxmj
+Read in full on 2026-11-03 ([NOTE-tmpxovm7](../notes.d/NOTE-tmpxovm7.md)). THEORY: [THEORY-tmpeqxmj](../theory.d/THEORY-tmpeqxmj.md)
 (Active).
 
 - Need frustration absorbs most of the depression–eating association,
   cross-sectionally (.50 to .18, ns) and in correlated change (.43 to .24).
 - The "longitudinal" evidence is two waves of same-interval change: no
-  temporal order, so it does not meet THEORY-052's promote_when.
-- The measure is the BPNSFS frustration scale, which LIT-tmpjcuzb argues is
+  temporal order, so it does not meet [THEORY-052](../theory.d/THEORY-052.md)'s promote_when.
+- The measure is the BPNSFS frustration scale, which [LIT-tmpjcuzb](LIT-tmpjcuzb.md) argues is
   keyed low satisfaction.
 
 ## Standing in the record

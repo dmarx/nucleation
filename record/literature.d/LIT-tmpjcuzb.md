@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpswlms), from the PMC author
+  read in full 2026-11-03 ([NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md)), from the PMC author
   manuscript; worth reading as the case that the dominant
   need-frustration measure separates frustration from satisfaction
-  mostly by item keying, which undercuts the BPNSFS evidence THEORY-052
+  mostly by item keying, which undercuts the BPNSFS evidence [THEORY-052](../theory.d/THEORY-052.md)
   leans on. Shown: the items lack thwarting content and keying organizes
-  the covariance more than need does (THEORY-tmp7y7fk). Argued, not
+  the covariance more than need does ([THEORY-tmp7y7fk](../theory.d/THEORY-tmp7y7fk.md)). Argued, not
   settled: that the frustration scales are therefore keyed low
-  satisfaction (THEORY-tmp62iwr).
+  satisfaction ([THEORY-tmp62iwr](../theory.d/THEORY-tmp62iwr.md)).
 title: 'The Basic Psychological Need Satisfaction and Frustration Scales probably do not validly measure need frustration.'
 version: 2
 history:
@@ -76,8 +76,8 @@ Murphy, B. A., Watts, A. L., Baker, Z. G., Don, B. P., Jolink, T. A., Algoe, S. 
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpswlms). THEORYs: THEORY-tmp7y7fk
-(Active), THEORY-tmp62iwr (Proposed).
+Read in full on 2026-11-03 ([NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md)). THEORYs: [THEORY-tmp7y7fk](../theory.d/THEORY-tmp7y7fk.md)
+(Active), [THEORY-tmp62iwr](../theory.d/THEORY-tmp62iwr.md) (Proposed).
 
 - The BPNSFS frustration items lack thwarting content; two are
   reverse-worded twins of satisfaction items.

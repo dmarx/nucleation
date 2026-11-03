@@ -12,8 +12,8 @@ bears_on:
 - QUESTION-tmpee04a
 - QUESTION-131
 summary: >-
-  Kermavnar, Avsec, Huang and Desmet (2024), LIT-tmpohjdb, read in
-  NOTE-tmpe2f2g from the version of record. Active as a statement of what
+  Kermavnar, Avsec, Huang and Desmet (2024), [LIT-tmpohjdb](../literature.d/LIT-tmpohjdb.md), read in
+  [NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md) from the version of record. Active as a statement of what
   the review counted and found, checked against its §3 and Tables 2–4,
   within the scope it set (English, healthy general populations, title
   terms). It does not rank the scales, test their validity, offer a
@@ -25,8 +25,8 @@ summary: >-
 
 ## Source
 
-Kermavnar, Avsec, Huang and Desmet (2024), LIT-tmpohjdb, Frontiers in
-Psychology 15; read in NOTE-tmpe2f2g.
+Kermavnar, Avsec, Huang and Desmet (2024), [LIT-tmpohjdb](../literature.d/LIT-tmpohjdb.md), Frontiers in
+Psychology 15; read in [NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md).
 
 ## What was actually shown
 
@@ -37,7 +37,7 @@ theory, 8 on other typologies.
 
 **The states measured** (§3.2.2): satisfaction 21, satisfaction and
 frustration 4 (BPNSFS, GNSF, NSFS, PNSS-S), support 3, frustration 1
-(PNFS-PA, 2020), thwarting 1 (PNTS, Bartholomew et al. 2011, LIT-tmp6as8m),
+(PNFS-PA, 2020), thwarting 1 (PNTS, Bartholomew et al. 2011, [LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md)),
 support and thwarting 1 (IBQ). Every one is a self-report questionnaire
 (the review's scope), of experience or of the perceived social environment.
 
@@ -59,6 +59,6 @@ coded items" of a satisfaction measure; reverse-scored items read as
   two-dimensional model (§5).
 - **That the scales are invalid.** It reports what the developers did,
   not tests of its own. Its one validity verdict, on the BPNSFS, is
-  Murphy et al.'s (THEORY-tmp62iwr), stated more firmly than they state it.
+  Murphy et al.'s ([THEORY-tmp62iwr](THEORY-tmp62iwr.md)), stated more firmly than they state it.
 - **How often the terms are confused.** The interchangeable use is shown by
   example, not counted.

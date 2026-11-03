@@ -11,14 +11,14 @@ source:
 bears_on:
 - QUESTION-tmpee04a
 summary: >-
-  Murphy et al. (2023), LIT-tmpjcuzb, read in NOTE-tmpswlms from the PMC
+  Murphy et al. (2023), [LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md), read in [NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md) from the PMC
   author manuscript. Active as a statement of what their analyses show,
   checked against Tables 1–3 and the reported fits: the factor
   intercorrelations, the two higher-order models and their indices, the
   external correlates sorted by keying, and the items. It does not say
   that the frustration scales measure nothing but keying; the authors
   hold that this cannot be settled with existing data, and the inference
-  is THEORY-tmp62iwr's.
+  is [THEORY-tmp62iwr](THEORY-tmp62iwr.md)'s.
 ---
 <!-- inactive-ok-file: THEORY-052 QUESTION-tmpee04a THEORY-tmp62iwr LIT-tmp6as8m — Proposed, Open or Unfetched; neighbours cited as open -->
 
@@ -26,8 +26,8 @@ summary: >-
 
 ## Source
 
-Murphy, Watts, Baker, Don, Jolink and Algoe (2023), LIT-tmpjcuzb,
-Psychological Assessment 35(2); read in NOTE-tmpswlms from the author
+Murphy, Watts, Baker, Don, Jolink and Algoe (2023), [LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md),
+Psychological Assessment 35(2); read in [NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md) from the author
 manuscript, PMC11554446.
 
 ## What was actually shown
@@ -69,14 +69,14 @@ did not.
 - **That the frustration scales measure only keying.** The authors say the
   confound between keying and construct is complete in the BPNSFS, so no
   factor analysis can decide it. That inference, and what would settle it,
-  is THEORY-tmp62iwr.
+  is [THEORY-tmp62iwr](THEORY-tmp62iwr.md).
 - **That need frustration does not exist or does not matter.** The paper
   attacks a measure, not the construct, and points to the thwarting scale
-  (LIT-tmp6as8m) as closer to it.
+  ([LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md)) as closer to it.
 - **Anything about other languages, versions or populations.** Three of the
   scale's fifty-odd versions were used.
 - **Anything about the autonomy scales that the paper's own table
   supports.** The text says at one point that the Autonomy Frustration items
   load weakly on Autonomy; its Table 3 shows the Autonomy Satisfaction items
   doing so (.34 to .49) and the frustration items loading .62 to .76
-  (NOTE-tmpswlms, Limitations).
+  ([NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md), Limitations).

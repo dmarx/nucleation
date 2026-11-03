@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpe4mmg), from the version of record in
+  read in full 2026-11-03 ([NOTE-tmpe4mmg](../notes.d/NOTE-tmpe4mmg.md)), from the version of record in
   PMC's Open Access Subset via Europe PMC; worth reading as prospective
   evidence, in two student samples, that a need-frustration self-report
   predicts later depressive symptoms where negative affect does not (β
   .13–.18). It does not establish order (no random intercepts; the
   reverse path was as large at one lag) or a transdiagnostic role
-  (THEORY-tmpymwd8).
+  ([THEORY-tmpymwd8](../theory.d/THEORY-tmpymwd8.md)).
 title: 'Unhappy or unsatisfied: distinguishing the role of negative affect and need frustration in depressive symptoms over the academic year and during the COVID-19 pandemic'
 version: 2
 history:
@@ -67,7 +67,7 @@ Levine, S. L., Brabander, C. J., Moore, A. M., Holding, A. C., Koestner, R. (202
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpe4mmg). THEORY: THEORY-tmpymwd8
+Read in full on 2026-11-03 ([NOTE-tmpe4mmg](../notes.d/NOTE-tmpe4mmg.md)). THEORY: [THEORY-tmpymwd8](../theory.d/THEORY-tmpymwd8.md)
 (Active).
 
 - Need frustration, not negative affect, predicted later depressive symptoms
@@ -75,7 +75,7 @@ Read in full on 2026-11-03 (NOTE-tmpe4mmg). THEORY: THEORY-tmpymwd8
 - Order is not established: no random intercepts in the reported models, and
   depression predicted later frustration at one lag.
 - One symptom domain and all self-report, so it meets only part of
-  THEORY-052's promote_when.
+  [THEORY-052](../theory.d/THEORY-052.md)'s promote_when.
 
 ## Standing in the record
 

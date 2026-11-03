@@ -25,9 +25,9 @@ bears_on:
 - QUESTION-131
 - QUESTION-tmpee04a
 summary: >-
-  Murphy et al. (2023), LIT-tmpjcuzb, read in NOTE-tmpswlms; Kermavnar et
-  al. (2024), LIT-tmpohjdb, read in NOTE-tmpe2f2g, adopt it. The item
-  content and the keying structure (THEORY-tmp7y7fk) are shown. That the
+  Murphy et al. (2023), [LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md), read in [NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md); Kermavnar et
+  al. (2024), [LIT-tmpohjdb](../literature.d/LIT-tmpohjdb.md), read in [NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md), adopt it. The item
+  content and the keying structure ([THEORY-tmp7y7fk](THEORY-tmp7y7fk.md)) are shown. That the
   frustration scales are therefore low satisfaction is the authors'
   conclusion, held "probably" and "likely primarily", and by their own
   account cannot be decided with data in which keying and construct are
@@ -39,9 +39,9 @@ summary: >-
 
 ## Source
 
-- Murphy et al. (2023), LIT-tmpjcuzb, read in NOTE-tmpswlms: the argument
+- Murphy et al. (2023), [LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md), read in [NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md): the argument
   and the eight-sample analyses.
-- Kermavnar et al. (2024), LIT-tmpohjdb, read in NOTE-tmpe2f2g, §4.2.2: the
+- Kermavnar et al. (2024), [LIT-tmpohjdb](../literature.d/LIT-tmpohjdb.md), read in [NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md), §4.2.2: the
   scale's history ("the 12 negatively coded items were repurposed to
   represent need frustration").
 
@@ -51,13 +51,13 @@ summary: >-
 satisfaction measure, four positive and four negative items per need, and
 "tentatively concluded that the item pool did not support the creation of
 separate frustration scales" (Murphy et al., introduction). Chen et al.
-(2015, LIT-tmpzyunx) presented the negative items as three frustration
+(2015, [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md)) presented the negative items as three frustration
 scales. Kermavnar et al. report the same history.
 
 **The content.** The frustration items lack thwarting, the defining part of
 frustration in Vansteenkiste and Ryan (2013).
 
-**The structure and correlates** are THEORY-tmp7y7fk's: keying groups the
+**The structure and correlates** are [THEORY-tmp7y7fk](THEORY-tmp7y7fk.md)'s: keying groups the
 items more strongly than need does, and the frustration items' excess
 correlation with ill-being follows the keying of the ill-being measures.
 
@@ -79,4 +79,4 @@ keying would produce.
 - **That every finding using the BPNSFS is an artefact.** Findings that
   compare frustration with satisfaction, or that rest on frustration's
   separate link to ill-being, are what it would undercut. Campbell et al.
-  2018 (LIT-tmpazv5c) used the frustration items alone.
+  2018 ([LIT-tmpazv5c](../literature.d/LIT-tmpazv5c.md)) used the frustration items alone.

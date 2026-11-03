@@ -9,14 +9,14 @@ date: '2026-11-03'
 source:
 - LIT-tmpazv5c
 summary: >-
-  Campbell, Boone, Vansteenkiste and Soenens (2018), LIT-tmpazv5c, read
-  in NOTE-tmpxovm7 from the early-view PDF on selfdeterminationtheory.org.
+  Campbell, Boone, Vansteenkiste and Soenens (2018), [LIT-tmpazv5c](../literature.d/LIT-tmpazv5c.md), read
+  in [NOTE-tmpxovm7](../notes.d/NOTE-tmpxovm7.md) from the early-view PDF on selfdeterminationtheory.org.
   Active as a statement of the reported models, checked against the text
-  and Tables 1–2. It is the study THEORY-052 cites through LIT-561 p. 12
+  and Tables 1–2. It is the study [THEORY-052](THEORY-052.md) cites through [LIT-561](../literature.d/LIT-561.md) p. 12
   as the one longitudinal evidence for need frustration as
   transdiagnostic. It does not show that frustration precedes the
   symptoms, does not reach externalizing problems, and its measure is
-  the one THEORY-tmp62iwr doubts.
+  the one [THEORY-tmp62iwr](THEORY-tmp62iwr.md) doubts.
 ---
 <!-- inactive-ok-file: THEORY-052 THEORY-tmp62iwr — Proposed; neighbours cited as open -->
 
@@ -24,8 +24,8 @@ summary: >-
 
 ## Source
 
-Campbell, Boone, Vansteenkiste and Soenens (2018), LIT-tmpazv5c, Journal of
-Clinical Psychology 74(10); read in NOTE-tmpxovm7.
+Campbell, Boone, Vansteenkiste and Soenens (2018), [LIT-tmpazv5c](../literature.d/LIT-tmpazv5c.md), Journal of
+Clinical Psychology 74(10); read in [NOTE-tmpxovm7](../notes.d/NOTE-tmpxovm7.md).
 
 ## What was actually shown
 
@@ -54,10 +54,10 @@ comorbidity. In Study 1 it did not stay.
 - **That frustration precedes or causes the symptoms.** Study 2's mediator
   and outcomes are changes over one interval. The authors: "Due to the
   correlational nature of these findings, future experimental research is
-  needed" (p. 12). LIT-561's "predicted" is statistical.
+  needed" (p. 12). [LIT-561](../literature.d/LIT-561.md)'s "predicted" is statistical.
 - **That it holds beyond internalizing symptoms**, in clinical samples or
   in adults; the authors list these as untested.
 - **That it holds for need frustration as SDT defines it.** The measure is
-  the BPNSFS frustration items, which on THEORY-tmp62iwr may be keyed low
+  the BPNSFS frustration items, which on [THEORY-tmp62iwr](THEORY-tmp62iwr.md) may be keyed low
   satisfaction, and whose content (failure, pressure) is close to the
   perfectionism and depression measures.

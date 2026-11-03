@@ -147,7 +147,7 @@ an antecedent of depressive symptoms over time" (abstract).
 
 ## Connections
 
-- **Campbell et al. 2018** (LIT-tmpazv5c) is cited as showing need
+- **Campbell et al. 2018** ([LIT-tmpazv5c](../literature.d/LIT-tmpazv5c.md)) is cited as showing need
   frustration "mediates the relationship between negative environments and
   depressive symptoms", and among works using it as a mediator. Its sample
   was self-critical perfectionism, not environments.
@@ -157,7 +157,7 @@ an antecedent of depressive symptoms over time" (abstract).
 
 ## Bearing on the record
 
-- **THEORY-052.** It is prospective evidence the record lacked, and it
+- **[THEORY-052](../theory.d/THEORY-052.md).** It is prospective evidence the record lacked, and it
   meets part of the promote_when ("prospective studies in which
   frustration … predicts") and fails the rest. One kind of disorder, not
   more: the outcomes are depressive symptoms and negative affect, so the
@@ -168,26 +168,26 @@ an antecedent of depressive symptoms over time" (abstract).
   from the instrument, not this text). The outcome is symptom level, not
   first onset. And the reverse path, depression → later frustration, was
   as large as the forward one at the first lag of Study 1, which is the
-  "vicious cycle" THEORY-052 already notes from LIT-561. It does strengthen
+  "vicious cycle" [THEORY-052](../theory.d/THEORY-052.md) already notes from [LIT-561](../literature.d/LIT-561.md). It does strengthen
   the claim that frustration predicts depression beyond negative affect,
   which the theory's "What this does not say" does not yet record.
-- **LIT-tmpjcuzb (Murphy et al.).** Levine's frustration score is the BMPN's
+- **[LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md) (Murphy et al.).** Levine's frustration score is the BMPN's
   negative half with no satisfaction half modelled, and the rival it beats
   is also a negatively valenced self-report. So the keying objection does
   not bite in its BPNSFS form (no satisfaction comparison is made), but the
   result is "a negatively worded need report predicts a negatively worded
   symptom report six weeks to four months later", and does not show that
   what predicts is frustration rather than low satisfaction.
-- **CLAIM-368** separates frustration from distress as constructs in an
+- **[CLAIM-368](../claims.d/CLAIM-368.md)** separates frustration from distress as constructs in an
   organization. This paper separates their measures in individuals: need
   frustration and negative affect correlate .40–.67 within waves, yet
   their lagged roles differ. That is a parallel, at the individual and felt
   level, for the claim's "distinct from distress"; it is not evidence for a
   claim about organizations, and the claim does not need it.
-- **QUESTION-tmpee04a.** Frustration predicting depression is the
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** Frustration predicting depression is the
   well-being route to need-hood again: a symptom report, not a functional
   deficit.
-- **THEORY filed from this reading**: THEORY-tmpymwd8 (Active), the
+- **THEORY filed from this reading**: [THEORY-tmpymwd8](../theory.d/THEORY-tmpymwd8.md) (Active), the
   reported lagged paths and what they do not show.
 - **No instruction for machine-learning practice.**
 

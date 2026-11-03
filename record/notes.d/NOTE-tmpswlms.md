@@ -97,7 +97,7 @@ basic psychological needs dimensions themselves" (Discussion, Issue A).
   modelled the negative items as a method. The 2015 paper presented six
   scales from the same pool.
 - Footnote 2 contrasts the Psychological Need Thwarting Scale (Bartholomew
-  et al. 2011, LIT-tmp6as8m), which "measures being thwarted far more
+  et al. 2011, [LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md)), which "measures being thwarted far more
   explicitly", e.g. "I feel forced to follow decisions made for me".
 
 ### Issue A: keying (Results)
@@ -184,19 +184,19 @@ basic psychological needs dimensions themselves" (Discussion, Issue A).
 - **Chen (2013) and Chen et al. (2015).** The dissertation and the published
   scale; the paper's arguments "are corroborations of Chen's (2013)
   insightful conclusions", in new samples. Chen et al. is held as
-  LIT-tmpzyunx, unread.
+  [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md), unread.
 - **Kam and Meyer (2015)**, on the Rosenberg scale: the method of testing
   whether keying drives a nomological difference.
-- **Bartholomew et al. (2011)**, LIT-tmp6as8m, the thwarting scale, as the
+- **Bartholomew et al. (2011)**, [LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md), the thwarting scale, as the
   contrast: explicitly thwarting items.
-- **Vansteenkiste, Ryan and Soenens (2020)**, LIT-561, which "promoted" the
+- **Vansteenkiste, Ryan and Soenens (2020)**, [LIT-561](../literature.d/LIT-561.md), which "promoted" the
   BPNSFS as valid for both constructs.
 - Brett Murphy, the first author, was a named reviewer of Kermavnar et al.
-  2024 (LIT-tmpohjdb), which adopts this paper's conclusion.
+  2024 ([LIT-tmpohjdb](../literature.d/LIT-tmpohjdb.md)), which adopts this paper's conclusion.
 
 ## Bearing on the record
 
-- **THEORY-052 (need frustration as transdiagnostic).** Its "What was
+- **[THEORY-052](../theory.d/THEORY-052.md) (need frustration as transdiagnostic).** Its "What was
   actually shown" opens "Measured directly (BPNSFS and similar scales),
   frustration predicted burnout, eating symptoms and negative affect beyond
   low satisfaction". This paper says that, for the BPNSFS, "beyond low
@@ -206,12 +206,12 @@ basic psychological needs dimensions themselves" (Discussion, Issue A).
   from low satisfaction, as measured by the BPNSFS, is not evidence that
   frustration is a separate dimension. Campbell et al. 2018, its one
   longitudinal study, measured need frustration with exactly these twelve
-  items (NOTE-tmpxovm7). The objection is distinct from the shared-content
-  one THEORY-052 already notes, as its 2026-11-02 note says, and both hit
+  items ([NOTE-tmpxovm7](NOTE-tmpxovm7.md)). The objection is distinct from the shared-content
+  one [THEORY-052](../theory.d/THEORY-052.md) already notes, as its 2026-11-02 note says, and both hit
   the same evidence. Its promote_when already asks for a measure that is not
   a distress-sharing self-report; it should also exclude a frustration
   score whose separation from satisfaction is a keying split.
-- **QUESTION-131 (structural frustration and operative thwarting).** The
+- **[QUESTION-131](../questions.d/QUESTION-131.md) (structural frustration and operative thwarting).** The
   paper is a measurement-level case of the question's distinction. The
   construct SDT names frustration is defined by an identified thwarting
   agent, which is the question's "operative thwarting". The BPNSFS items
@@ -220,19 +220,19 @@ basic psychological needs dimensions themselves" (Discussion, Issue A).
   neither. The thwarting scale (footnote 2) is the instrument that names an
   agent. So the psychology already separates the three rows, and its most
   used scale collapses the third into the second.
-- **QUESTION-tmpee04a (what would show a need is a need).** The frustration
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md) (what would show a need is a need).** The frustration
   test (frustration predicts ill-being beyond low satisfaction) is one of
   SDT's routes to need-hood. If the BPNSFS frustration score is a keyed
   satisfaction score, a candidate need's frustration "adding variance" can
   be a fact about keying; and its correlates sort by the valence of the
   outcome measure, so the test is partly the well-being measure again. This
-  is the interdefinition NOTE-439 records, at the level of the instrument.
-- **CLAIM-368** cites THEORY-052 as a parallel only ("keeps need frustration
+  is the interdefinition [NOTE-439](NOTE-439.md) records, at the level of the instrument.
+- **[CLAIM-368](../claims.d/CLAIM-368.md)** cites [THEORY-052](../theory.d/THEORY-052.md) as a parallel only ("keeps need frustration
   apart from low satisfaction"). That sentence is true of the theory and,
   on this reading, not established of the BPNSFS measurements. The claim's
   own case does not rest on it.
-- **THEORYs filed from this reading**: THEORY-tmp7y7fk (Active), what the
-  item content and keying structure show; THEORY-tmp62iwr (Proposed), that
+- **THEORYs filed from this reading**: [THEORY-tmp7y7fk](../theory.d/THEORY-tmp7y7fk.md) (Active), what the
+  item content and keying structure show; [THEORY-tmp62iwr](../theory.d/THEORY-tmp62iwr.md) (Proposed), that
   the frustration scales are therefore keyed low satisfaction.
 - **No instruction for machine-learning practice.**
 
@@ -274,5 +274,5 @@ basic psychological needs dimensions themselves" (Discussion, Issue A).
   GNSF Kermavnar et al. single out) separate from satisfaction when its
   keying is balanced, and does it predict ill-being beyond low
   satisfaction?
-- How much of THEORY-052's evidence used the BPNSFS? Campbell et al. 2018
+- How much of [THEORY-052](../theory.d/THEORY-052.md)'s evidence used the BPNSFS? Campbell et al. 2018
   did.
