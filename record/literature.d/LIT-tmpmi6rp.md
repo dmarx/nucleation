@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpku07s), from the JSTOR download
+  read in full 2026-11-03 ([NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md)), from the JSTOR download
   reposted on cooperative-individualism.org, at the owner's direction.
   Worth reading as Kane's own compact statement of ultimate
   responsibility, self-forming actions and his reply to the luck
@@ -78,8 +78,8 @@ Kane, R. (2009). Libertarianism. *Philosophical Studies, 144(1), 35-44*. doi:10.
 
 ## Standing in the record
 
-Registered for CLAIM-tmpex9rg, the owner's thesis that the sensitivity chaos
-gives a will is not control over it, and for CLAIM-022's note on ultimate
+Registered for [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md), the owner's thesis that the sensitivity chaos
+gives a will is not control over it, and for [CLAIM-022](../claims.d/CLAIM-022.md)'s note on ultimate
 responsibility. The reading confirms both the claim's attribution and its
 defeater: Kane's reply is the one the defeater names, and it is about
-responsibility, not control (NOTE-tmpku07s).
+responsibility, not control ([NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md)).

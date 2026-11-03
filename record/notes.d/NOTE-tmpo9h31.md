@@ -99,16 +99,16 @@ tracks security with that partner, relationship by relationship.
 
 ## Connections
 
-- **Patrick et al. 2007** (LIT-tmpek1lj, NOTE-tmpi2z1s) summarize it; their
+- **Patrick et al. 2007** ([LIT-tmpek1lj](../literature.d/LIT-tmpek1lj.md), [NOTE-tmpi2z1s](NOTE-tmpi2z1s.md)) summarize it; their
   account checks.
 - **Bowlby; Hazan and Shaver; Bartholomew and Horowitz**, the attachment
   tradition it extends.
-- **Kasser and Ryan 1996** (LIT-tmpj1mee), whose residualizing method it adapts
+- **Kasser and Ryan 1996** ([LIT-tmpj1mee](../literature.d/LIT-tmpj1mee.md)), whose residualizing method it adapts
   (p. 375).
 
 ## Bearing on the record
 
-- **QUESTION-tmpee04a.** The need that best predicts the outcome, relatedness, is
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** The need that best predicts the outcome, relatedness, is
   the one whose items are closest to the outcome in content, so the authors
   repeat everything without it (p. 370). That is the interdefinition worry at
   the level of an instrument: a need claim tested by an outcome partly made of
@@ -116,7 +116,7 @@ tracks security with that partner, relationship by relationship.
   answer, for autonomy and competence only.
 - **Need satisfaction is relational.** The variance is mostly across partners,
   so a need's satisfaction is a property of a person in a relationship. This
-  bears on THEORY-052 and CLAIM-368 only as a reminder that a person-level
+  bears on [THEORY-052](../theory.d/THEORY-052.md) and [CLAIM-368](../claims.d/CLAIM-368.md) only as a reminder that a person-level
   frustration score averages over relations that differ.
 - **No instruction for machine-learning practice.**
 

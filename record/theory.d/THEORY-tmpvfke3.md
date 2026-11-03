@@ -9,8 +9,8 @@ date: '2026-11-03'
 source:
 - LIT-tmpjpszp
 summary: >-
-  La Guardia, Ryan, Couchman and Deci (2000), LIT-tmpjpszp, read in
-  NOTE-tmpo9h31. Active as a statement of the associations the three
+  La Guardia, Ryan, Couchman and Deci (2000), [LIT-tmpjpszp](../literature.d/LIT-tmpjpszp.md), read in
+  [NOTE-tmpo9h31](../notes.d/NOTE-tmpo9h31.md). Active as a statement of the associations the three
   studies report, with their sizes. It does not say that need
   satisfaction causes security, which the authors say their data cannot
   show and believe runs both ways (p. 381).
@@ -20,7 +20,7 @@ summary: >-
 
 ## Source
 
-La Guardia et al. (2000), LIT-tmpjpszp, pp. 371–380; read in NOTE-tmpo9h31.
+La Guardia et al. (2000), [LIT-tmpjpszp](../literature.d/LIT-tmpjpszp.md), pp. 371–380; read in [NOTE-tmpo9h31](../notes.d/NOTE-tmpo9h31.md).
 
 ## What was actually shown
 
@@ -41,4 +41,4 @@ vanished without the relatedness items. Neither happened.
 - **That need satisfaction produces security.** Cross-sectional; the authors
   say the relation is bidirectional and could reflect third variables (p. 381).
 - **That the measures separate the needs.** Patrick et al.'s corrected
-  correlations among them run to .96 (NOTE-tmpi2z1s).
+  correlations among them run to .96 ([NOTE-tmpi2z1s](../notes.d/NOTE-tmpi2z1s.md)).

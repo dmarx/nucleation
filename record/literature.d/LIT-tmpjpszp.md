@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpo9h31), from the typeset.io copy of the
+  read in full 2026-11-03 ([NOTE-tmpo9h31](../notes.d/NOTE-tmpo9h31.md)), from the typeset.io copy of the
   published article, at the owner's direction. Worth reading as the source
   of the claim that need satisfaction varies by relationship and predicts
   attachment security relationship by relationship: most of the variance
@@ -83,6 +83,6 @@ La Guardia, J. G., Ryan, R. M., Couchman, C. E., Deci, E. L. (2000). Within-pers
 ## Standing in the record
 
 Registered as part of Relationships Motivation Theory's evidence, which the
-record held only through Patrick et al. 2007. It bears on QUESTION-tmpee04a's
+record held only through Patrick et al. 2007. It bears on [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md)'s
 interdefinition worry at instrument level: the need most predictive of the
-outcome is the one closest to it in content (NOTE-tmpo9h31).
+outcome is the one closest to it in content ([NOTE-tmpo9h31](../notes.d/NOTE-tmpo9h31.md)).

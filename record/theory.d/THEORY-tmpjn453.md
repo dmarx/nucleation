@@ -18,11 +18,11 @@ date: '2026-11-03'
 source:
 - LIT-tmpmi6rp
 summary: >-
-  Kane (2009), LIT-tmpmi6rp, p. 39, read in NOTE-tmpku07s. Kane's neural
+  Kane (2009), [LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md), p. 39, read in [NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md). Kane's neural
   hypothesis, stated without evidence in this paper. Proposed: it is an
   empirical claim about brains for which the paper gives none, and the
   record holds nothing that measures it. It is the attribution
-  CLAIM-tmpex9rg makes to Kane, now checked against his text.
+  [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) makes to Kane, now checked against his text.
 ---
 <!-- inactive-ok-file: CLAIM-tmpex9rg — Proposed; the claim this attribution supports -->
 
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Kane (2009), LIT-tmpmi6rp, pp. 39–41; read in NOTE-tmpku07s.
+Kane (2009), [LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md), pp. 39–41; read in [NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md).
 
 ## What was actually shown
 
@@ -44,6 +44,6 @@ two crossing recurrent networks carrying the competing motives (p. 40).
 ## What this does not say
 
 - **That such sensitivity gives control.** Kane concedes it lessens control
-  (p. 43; THEORY-tmpjkav4).
+  (p. 43; [THEORY-tmpjkav4](THEORY-tmpjkav4.md)).
 - **That the indeterminacy is all endogenous.** The account needs it to be
-  (NOTE-tmpku07s, Bearing).
+  ([NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md), Bearing).

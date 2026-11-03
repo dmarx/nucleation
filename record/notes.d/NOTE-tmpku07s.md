@@ -110,13 +110,13 @@ The paper argues; it reports no data.
 
 - **Fischer, Pereboom, Vargas and McKenna**, the symposium's other authors,
   answered at pp. 35–39. The record holds Pereboom's four-case argument
-  (THEORY-328) and McKenna and Coates on manipulation (THEORY-040).
+  ([THEORY-328](../theory.d/THEORY-328.md)) and McKenna and Coates on manipulation ([THEORY-040](../theory.d/THEORY-040.md)).
 - **Austin 1961 and Anscombe 1971**, the source of the obstacle examples (p. 40).
-- **The 1996 book** (LIT-tmpnqv86, Unavailable), where the argument is developed.
+- **The 1996 book** ([LIT-tmpnqv86](../literature.d/LIT-tmpnqv86.md), Unavailable), where the argument is developed.
 
 ## Bearing on the record
 
-- **CLAIM-tmpex9rg: the attribution confirmed, and the defeater located.** The
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md): the attribution confirmed, and the defeater located.** The
   chaos is Kane's (p. 39). His reply is the one the claim's defeater names, the
   indeterminacy as "a hindrance or obstacle to the attainment of the goal"
   internal to the effort (p. 42). But the reply is about responsibility, not
@@ -124,7 +124,7 @@ The paper argues; it reports no data.
   not defeat the claim, which is about control; it moves the question to
   whether responsibility can do without the control the claim says sensitivity
   does not supply.
-- **CLAIM-tmpptgk8: noise relabelled as the agent's own input.** In an SFA, Kane
+- **[CLAIM-tmpptgk8](../claims.d/CLAIM-tmpptgk8.md): noise relabelled as the agent's own input.** In an SFA, Kane
   says, the noise hindering each choice "is coming from her own will" (p. 40).
   In the claim's terms that moves the noise channel into the agent's own
   channel: two of the agent's efforts, each the other's disturbance. Then
@@ -132,19 +132,19 @@ The paper argues; it reports no data.
   the agent's share against noise has no outside noise to measure against.
   That is Kane's escape, and it holds only if the indeterminacy is all
   endogenous to the conflict, which the paper assumes.
-- **TERM-tmp8spbn: UR is formation provenance.** Kane's central question is
+- **[TERM-tmp8spbn](../terms.d/TERM-tmp8spbn.md): UR is formation provenance.** Kane's central question is
   whether "the sources of our wills" can "be completely traced backwards to
   something over which we had no control, such as Fate … or social conditioning
   or hidden controllers" (p. 37). That is the formation sense, and type-2
   freedom, acting "of our own free will" from a will one formed, is
-  provenance-dependent in exactly that sense. CASE-tmph9iwi's result, that
+  provenance-dependent in exactly that sense. [CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md)'s result, that
   formation provenance leaves no trace in a self-maintained capacity, is why
   UR has to be a historical condition.
-- **TERM-tmp8cp5q: Kane's self-formation is not the record's.** Kane's SFAs are
+- **[TERM-tmp8cp5q](../terms.d/TERM-tmp8cp5q.md): Kane's self-formation is not the record's.** Kane's SFAs are
   undetermined choices that set the will; the record's self-formation is the
   production of a maintained capacity, with nothing said of determinism. The
   term already says so; the text confirms it.
-- **QUESTION-071 and THEORY-328.** Kane's UR is a historical answer to
+- **[QUESTION-071](../questions.d/QUESTION-071.md) and [THEORY-328](../theory.d/THEORY-328.md).** Kane's UR is a historical answer to
   manipulation; Pereboom's four-case argument is the reply that such a history
   need not separate a manipulated agent from an ordinarily determined one. The
   paper does not answer it.

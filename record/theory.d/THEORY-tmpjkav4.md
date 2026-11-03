@@ -16,12 +16,12 @@ date: '2026-11-03'
 source:
 - LIT-tmpmi6rp
 summary: >-
-  Kane (2009), LIT-tmpmi6rp, pp. 39–44, read in NOTE-tmpku07s. Proposed:
+  Kane (2009), [LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md), pp. 39–44, read in [NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md). Proposed:
   the reply rests on analogies whose structure differs from the
   self-forming case (one aim and an outside obstacle against two aims,
   each the other's obstacle), and it does not meet the rollback form of
-  the luck objection (THEORY-328 is the record's nearest neighbour). Its
-  concession, that indeterminism lessens control, is what CLAIM-tmpex9rg
+  the luck objection ([THEORY-328](THEORY-328.md) is the record's nearest neighbour). Its
+  concession, that indeterminism lessens control, is what [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md)
   turns on.
 ---
 <!-- inactive-ok-file: CLAIM-tmpex9rg THEORY-328 CLAIM-tmpptgk8 — Proposed; the entries this reply bears on -->
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Kane (2009), LIT-tmpmi6rp, pp. 39–44; read in NOTE-tmpku07s.
+Kane (2009), [LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md), pp. 39–44; read in [NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md).
 
 ## What was actually shown
 

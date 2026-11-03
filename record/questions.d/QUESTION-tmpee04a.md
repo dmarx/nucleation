@@ -88,7 +88,7 @@ second-hand. The question stays open.
 
 ## Note of 2026-11-03 (later): La Guardia et al., read
 
-La Guardia et al. 2000 (NOTE-tmpo9h31) give the interdefinition worry at the
+La Guardia et al. 2000 ([NOTE-tmpo9h31](../notes.d/NOTE-tmpo9h31.md)) give the interdefinition worry at the
 level of an instrument. The need that best predicts attachment security,
 relatedness, has items closest to security in content, so the authors repeat
 every analysis without it. The results hold for autonomy and competence, which

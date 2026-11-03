@@ -105,7 +105,7 @@ where it is. Linear regime only.
 
 ## Note of 2026-11-03 (later): Kane's relabelling
 
-Kane's self-forming action (NOTE-tmpku07s, p. 40) makes the noise that hinders
+Kane's self-forming action ([NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md), p. 40) makes the noise that hinders
 each choice the agent's own competing effort. In this claim's terms that moves
 Σ into B_self: two of the agent's channels, each the other's disturbance. The
 share of the outcome against outside noise is then undefined, because there is

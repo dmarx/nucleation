@@ -124,13 +124,13 @@ The claim is unchanged.
 
 ## Note of 2026-11-03: Kane, read first-hand
 
-Kane's "Libertarianism" (LIT-tmpmi6rp, NOTE-tmpku07s) states ultimate
+Kane's "Libertarianism" ([LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md), [NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md)) states ultimate
 responsibility in his own words: "to be ultimately responsible for an action,
 an agent must be responsible for anything that is a sufficient reason, cause or
 motive for the action's occurring" (p. 36), and asks whether "the sources of our
 wills" can "be completely traced backwards to something over which we had no
 control, such as … social conditioning or hidden controllers" (p. 37). That is
 the historical condition this disclaimer leaves open, in the formation sense of
-TERM-tmp8spbn.
+[TERM-tmp8spbn](../terms.d/TERM-tmp8spbn.md).
 
 The claim is unchanged.
