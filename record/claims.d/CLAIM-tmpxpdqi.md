@@ -119,11 +119,11 @@ The owner's U27 followed this synthesis with "compatibility of tolerance
 bounds", and U28 with "nucleation has some sheaf theory tools that might be
 useful here". That gives the clause "revises the relations that govern those
 three" a formal object. An agent can move the mismatch along the tolerance
-frontier of CLAIM-tmplvc8b, change which overlaps are evaluated, or enlarge
-its repertoire so that the frontier itself moves (CLAIM-347). Only the last is
+frontier of [CLAIM-tmplvc8b](CLAIM-tmplvc8b.md), change which overlaps are evaluated, or enlarge
+its repertoire so that the frontier itself moves ([CLAIM-347](CLAIM-347.md)). Only the last is
 relief; the first is a choice of who bears the mismatch, and the second can
 fake compatibility. Motivational integration so understood is
-CLAIM-tmpexvc6. A29's closing "domination occurs when the power to define,
+[CLAIM-tmpexvc6](CLAIM-tmpexvc6.md). A29's closing "domination occurs when the power to define,
 conceal, or revise compatibility is exercised without effective
 accountability" restates this claim's last clause and is not filed.
 

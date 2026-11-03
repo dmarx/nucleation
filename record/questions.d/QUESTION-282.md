@@ -107,9 +107,9 @@ isomorphism and preserves every compatibility verdict, so a change that
 alters a verdict is not a redescription. The converse fails: a change that is
 not an isomorphism can preserve every verdict. So the test separates
 redescription in one direction only. A30's triad (coordinate, organizational,
-evaluative) is TERM-093's formed and adapted, plus redescription, and lacks
-*discovered*. CASE-189's Construction 2 is the record's how-possibly model of
-interaction producing a new correspondence, and CLAIM-516 its necessary
+evaluative) is [TERM-093](../terms.d/TERM-093.md)'s formed and adapted, plus redescription, and lacks
+*discovered*. [CASE-189](../cases.d/CASE-189.md)'s Construction 2 is the record's how-possibly model of
+interaction producing a new correspondence, and [CLAIM-516](../claims.d/CLAIM-516.md) its necessary
 condition.
 
 The question stays open.

@@ -238,10 +238,10 @@ is unchanged.
 
 This claim's note of 2026-11-02 said a reachable set should range over the
 policies an organization can carry out on what it can read. Two
-demonstrated claims from U30 to U33 of the exchange "Assess SDT Coverage" (2026-11-02) state it: CLAIM-tmpg1n2c in
+demonstrated claims from U30 to U33 of the exchange "Assess SDT Coverage" (2026-11-02) state it: [CLAIM-tmpg1n2c](CLAIM-tmpg1n2c.md) in
 general (a policy acceptable everywhere exists exactly when the
 circumstances an observation cannot separate share an acceptable action),
-and CLAIM-tmpkogzd for tolerance-bounded compatibility. The motivational
-integration this claim names is given a positive account in CLAIM-tmpexvc6.
+and [CLAIM-tmpkogzd](CLAIM-tmpkogzd.md) for tolerance-bounded compatibility. The motivational
+integration this claim names is given a positive account in [CLAIM-tmpexvc6](CLAIM-tmpexvc6.md).
 
 The claim is unchanged.

@@ -79,12 +79,12 @@ does not change 𝒦.
 
 ## Note of 2026-11-03: differentiation driven by frustration
 
-A33's H2 in the exchange "Assess SDT Coverage" (2026-11-02), integration through adaptive differentiation, is CASE-115's
+A33's H2 in the exchange "Assess SDT Coverage" (2026-11-02), integration through adaptive differentiation, is [CASE-115](../cases.d/CASE-115.md)'s
 construction (one shared parameter split into task-routed ones) without
 citing it. What it adds is a hypothesis: recurrent frustration between
 demands is the signal that drives the split, and maintenance keeps the new
-channel after the conflict that occasioned it ends. CASE-117 is the study
-that would test it, and CLAIM-tmpbeh2e states it as part of a positive
+channel after the conflict that occasioned it ends. [CASE-117](../cases.d/CASE-117.md) is the study
+that would test it, and [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md) states it as part of a positive
 account of self-formation.
 
 The question stays open.

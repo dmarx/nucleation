@@ -32,9 +32,9 @@ summary: >-
   owner's "keep going", with the second and third conditions derived by
   the reader of U30–U31 and checked by simulation (500 random instances,
   no mismatch). It is the first concrete instance of the branch's note of
-  2026-11-02 on CLAIM-354, that a reachable set should range over the
+  2026-11-02 on [CLAIM-354](CLAIM-354.md), that a reachable set should range over the
   policies an organization can carry out on what it can read. The framing
-  is adjustable robust optimization (LIT-tmphox4k). Static selection only,
+  is adjustable robust optimization ([LIT-tmphox4k](../literature.d/LIT-tmphox4k.md)). Static selection only,
   scalar overlaps only.
 ---
 <!-- inactive-ok-file: CLAIM-354 CLAIM-tmplvc8b CLAIM-tmpg1n2c LIT-tmphox4k QUESTION-282 — Proposed, Open, Deferred or new; cited as open -->
@@ -43,7 +43,7 @@ summary: >-
 
 ## The claim
 
-Let the offsets of CLAIM-tmplvc8b be disturbed, a = a₀ + w with |w_e| ≤ η_e.
+Let the offsets of [CLAIM-tmplvc8b](CLAIM-tmplvc8b.md) be disturbed, a = a₀ + w with |w_e| ≤ η_e.
 Three conditions, in increasing strength:
 
 - **I, adjustable.** For every w some x(w) is within tolerance. Swapping ∀w
@@ -61,9 +61,9 @@ world has a compatible configuration. II fails, since edge 12 would need
 x₂ − x₁ in both [0.3, 0.9] and [−0.9, −0.3]. An agent that cannot tell the two
 worlds apart cannot select a compatible state, though one exists in each.
 
-This is CLAIM-354's note of 2026-11-02 made concrete: what an agent can
+This is [CLAIM-354](CLAIM-354.md)'s note of 2026-11-02 made concrete: what an agent can
 achieve is what the policies it can carry out on what it can read achieve,
-not what exists state by state. CLAIM-tmpg1n2c states the same in general.
+not what exists state by state. [CLAIM-tmpg1n2c](CLAIM-tmpg1n2c.md) states the same in general.
 
 ## What it does not say
 

@@ -57,7 +57,7 @@ summary: >-
 Contexts are the vertices of a finite graph with incidence matrix D. Each
 context sets a local value x_v, each overlap e = (u, v) has a preferred offset
 a_e between them, and a tolerance δ_e within which a demand on that overlap
-counts as met (TERM-060's threshold demands, in additive form). The question
+counts as met ([TERM-060](../terms.d/TERM-060.md)'s threshold demands, in additive form). The question
 the owner's U27 asks is whether all the tolerances can be met at once.
 
 - **The cycle criterion.** By Farkas, some x has |Dx − a| ≤ δ exactly when
@@ -78,7 +78,7 @@ the owner's U27 asks is whether all the tolerances can be met at once.
   re-centring redistributes an obstruction and never removes it. On the
   frontier the residual is forced (r_e = ∓δ_e), so which overlap bears the
   mismatch is fixed by the allocation alone. That allocation is a choice, and
-  whose choice it is is CLAIM-361's question.
+  whose choice it is is [CLAIM-361](CLAIM-361.md)'s question.
 - **Omission.** Delete one edge of a witnessing cycle from what is evaluated
   and the evaluated graph may have no cycle there, so every offset can be met
   exactly on it. Feasibility on the whole graph implies it on any evaluated
@@ -95,11 +95,11 @@ the constant sheaf is only the reading of the witnesses as graph cycles.
 
 ## What it does not say
 
-- **Anything about circle-valued or nonabelian offsets.** Those are CLAIM-153
-  and THEORY-1082, the exact cases.
-- **That a minimal non-face of CLAIM-347's complex is a cycle obstruction.**
-  CLAIM-347 itself declines that link.
+- **Anything about circle-valued or nonabelian offsets.** Those are [CLAIM-153](CLAIM-153.md)
+  and [THEORY-1082](../theory.d/THEORY-1082.md), the exact cases.
+- **That a minimal non-face of [CLAIM-347](CLAIM-347.md)'s complex is a cycle obstruction.**
+  [CLAIM-347](CLAIM-347.md) itself declines that link.
 - **That an allocation is fair or warranted.** Tolerances are declared; who may
-  revise them, and against what reference, is CLAIM-361's.
+  revise them, and against what reference, is [CLAIM-361](CLAIM-361.md)'s.
 - **That low measured mismatch is compatibility.** That is the omission
-  clause, and CLAIM-357.
+  clause, and [CLAIM-357](CLAIM-357.md).

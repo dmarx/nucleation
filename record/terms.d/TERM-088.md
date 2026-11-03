@@ -149,15 +149,15 @@ term's earlier notes warn against.
 - **It conflated two senses.** Its §1 said oscillators driven by one outside
   clock "need not constitute an individual". This term says a pattern "can be
   dynamically individuated while sustained wholly from outside", as the owner
-  corrected on 2026-10-27 (CLAIM-474 v2; CLAIM-167, "one-way drive rightly
-  passes"). A31's point was about autonomy (CLAIM-194, CLAIM-522).
+  corrected on 2026-10-27 ([CLAIM-474](../claims.d/CLAIM-474.md) v2; [CLAIM-167](../claims.d/CLAIM-167.md), "one-way drive rightly
+  passes"). A31's point was about autonomy ([CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-522](../claims.d/CLAIM-522.md)).
 - **Its candidate principle named no sense**, and its table used the genetic
   sense without saying so, against the note of 2026-10-31.
 - **It ran together two "metastabilities"**, Simondon's heterogeneity and
-  CASE-111's bistability, which QUESTION-281's note keeps apart.
+  [CASE-111](../cases.d/CASE-111.md)'s bistability, which [QUESTION-281](../questions.d/QUESTION-281.md)'s note keeps apart.
 
-It also missed CLAIM-170, the owner's bridge between will and individuation.
-The join is filed as CLAIM-tmpxes2o, which names its sense: constitutive, at
-CLAIM-170's level and target.
+It also missed [CLAIM-170](../claims.d/CLAIM-170.md), the owner's bridge between will and individuation.
+The join is filed as [CLAIM-tmpxes2o](../claims.d/CLAIM-tmpxes2o.md), which names its sense: constitutive, at
+[CLAIM-170](../claims.d/CLAIM-170.md)'s level and target.
 
 The term is unchanged.

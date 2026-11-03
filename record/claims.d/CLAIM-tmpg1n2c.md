@@ -34,7 +34,7 @@ summary: >-
   owner's U33 request for positive accounts, with A30 §2's example and
   A32's Claim B. Its second appearance in the exchange, so it gets a code.
   The criterion is elementary, and its monotonicity is Blackwell's easy
-  direction (THEORY-1096). What it adds to CLAIM-350, its single-valued
+  direction ([THEORY-1096](../theory.d/THEORY-1096.md)). What it adds to [CLAIM-350](CLAIM-350.md), its single-valued
   case, is found by the reader of U32–U33: with overlapping acceptable
   sets, legibility is relative to policy. A positive characterization of
   what legibility must supply for action.
@@ -53,19 +53,19 @@ acceptable actions. A policy π: O → actions is acceptable everywhere when
   o. If each such intersection is nonempty, pick π(o) in it. If one is empty,
   any π(o) fails some w in that class.
 - **Possibility is not enough.** A(w) ≠ ∅ for every w does not give a policy,
-  as in CLAIM-tmpkogzd's triangle.
+  as in [CLAIM-tmpkogzd](CLAIM-tmpkogzd.md)'s triangle.
 - **Refinement.** If h = g ∘ h′, any policy π for h gives π ∘ g for h′, so a
   finer observation never removes an acceptable policy (Blackwell's easy
-  direction, THEORY-1096).
+  direction, [THEORY-1096](../theory.d/THEORY-1096.md)).
 - **Policy-relativity.** With W = {1, 2, 3}, A(1) = {a}, A(2) = {a, b},
   A(3) = {b}, the partitions {1, 2} | {3} and {1} | {2, 3} both suffice, neither
   refines the other, and the trivial partition does not. So there is no unique
   coarsest sufficient observation. Which distinctions the organization must
   make legible depends on which acceptable action it commits to where it has
-  a choice. CLAIM-350's unique coarsest partition is the case with one
+  a choice. [CLAIM-350](CLAIM-350.md)'s unique coarsest partition is the case with one
   acceptable action per circumstance.
 
-So legibility, in TERM-064's sense, has a positive job here: to make legible
+So legibility, in [TERM-064](../terms.d/TERM-064.md)'s sense, has a positive job here: to make legible
 the distinctions that separate circumstances with no common acceptable
 action, under the policy the organization adopts.
 

@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-03, not read. Registered from U30 of the exchange "Assess
-  SDT Coverage" as the standard source for the distinction CLAIM-tmpkogzd
+  SDT Coverage" as the standard source for the distinction [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md)
   draws, between a configuration chosen after the disturbance, one fixed
   before it, and one chosen from what is observed. No reading was
   attempted.
@@ -35,7 +35,7 @@ summary: >-
   Adjustable robust optimization: decisions that may depend on part of the
   uncertainty, between the static robust counterpart (one decision for
   every realization) and the fully adjustable one (a decision per
-  realization). It is the standard framing for CLAIM-tmpkogzd.
+  realization). It is the standard framing for [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpkogzd — new; the claim this work frames -->
 
@@ -49,6 +49,6 @@ Ben-Tal, A., Goryashko, A., Guslitzer, E., & Nemirovski, A. (2004). Adjustable r
 
 ## Standing in the record
 
-The framing of CLAIM-tmpkogzd: a compatible configuration may be chosen after
+The framing of [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md): a compatible configuration may be chosen after
 a disturbance, fixed before it, or chosen from what is observed of it. The
 record's question there is which of the three an agent's legibility gives it.

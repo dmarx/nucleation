@@ -139,18 +139,18 @@ U27 to U33 of the exchange "Assess SDT Coverage" (2026-11-02) proposed most of t
 "Case B"). What they add are arms it does not have:
 
 - **Declared tolerances** on the overlaps, so that compatibility is
-  CLAIM-tmplvc8b's frontier and not exact agreement.
-- **Own against outside channels** on the same modes (CLAIM-tmpptgk8).
+  [CLAIM-tmplvc8b](../claims.d/CLAIM-tmplvc8b.md)'s frontier and not exact agreement.
+- **Own against outside channels** on the same modes ([CLAIM-tmpptgk8](../claims.d/CLAIM-tmpptgk8.md)).
 - **Observer-limited policies**, which can use only what the revising
-  apparatus can read (CLAIM-tmpkogzd, CLAIM-tmpg1n2c).
+  apparatus can read ([CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md), [CLAIM-tmpg1n2c](../claims.d/CLAIM-tmpg1n2c.md)).
 - **A captured-correspondence arm**, in which the evaluator's comparison
   omits one overlap of a witnessing cycle while it still operates, so that
-  evaluation reports a compatibility that does not hold (CLAIM-tmplvc8b's
-  omission clause; THEORY-1088, CLAIM-404, CLAIM-251). The cover, the declared
+  evaluation reports a compatibility that does not hold ([CLAIM-tmplvc8b](../claims.d/CLAIM-tmplvc8b.md)'s
+  omission clause; [THEORY-1088](../theory.d/THEORY-1088.md), [CLAIM-404](../claims.d/CLAIM-404.md), [CLAIM-251](../claims.d/CLAIM-251.md)). The cover, the declared
   scenario and the evaluator's effective observations must be kept separate.
-- **Maintenance-provenance knockouts** (CLAIM-522, CASE-161).
+- **Maintenance-provenance knockouts** ([CLAIM-522](../claims.d/CLAIM-522.md), [CASE-161](CASE-161.md)).
 - **A positive arm** (A33): correspondence changes generated inside the
   system, judged by held-out control and viability against requirements
-  fixed independently of it (TERM-097), as CLAIM-tmpbeh2e's test asks.
+  fixed independently of it ([TERM-097](../terms.d/TERM-097.md)), as [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md)'s test asks.
 
 The study is still proposed.
