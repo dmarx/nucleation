@@ -97,7 +97,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-03: Juarrero's constraint is not this one
 
-A reader citing Juarrero 2023 (LIT-tmpw5nxr, NOTE-tmpv0g6b) for "constraint"
+A reader citing Juarrero 2023 ([LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), [NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md)) for "constraint"
 should know that her context-dependent constraint is Gatlin's conditional
 dependence among processes (p. 67), with no condition of conservation at a time
 scale. Only chapter 7 matches this term: there she adopts its closure of

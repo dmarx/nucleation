@@ -20,13 +20,13 @@ date: '2026-11-03'
 source:
 - LIT-tmpw5nxr
 summary: >-
-  Juarrero (2023), LIT-tmpw5nxr, ch. 12 (pp. 183–191) with ch. 6 (pp. 68,
-  72, 77), read in NOTE-tmpv0g6b. A philosophical statement of hierarchy
+  Juarrero (2023), [LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), ch. 12 (pp. 183–191) with ch. 6 (pp. 68,
+  72, 77), read in [NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md). A philosophical statement of hierarchy
   theory, quoting Salthe 1985 and Allen, O'Neill and Hoekstra 1984, with
   examples from academic administration and tumours; no model. Proposed:
   the rate-demarcation of levels is the hierarchy theorists', and the
   loss of control when rates converge is asserted, not shown. It is the
-  closest prior art the record holds for CLAIM-478.
+  closest prior art the record holds for [CLAIM-478](../claims.d/CLAIM-478.md).
 ---
 <!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b CLAIM-478 CLAIM-331 CLAIM-477 THEORY-tmpny96e — Proposed or new; the source, its reading and the claims it bears on, cited as open -->
 
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Juarrero (2023), LIT-tmpw5nxr, pp. 68, 72, 77 and 183–191; read in
-NOTE-tmpv0g6b.
+Juarrero (2023), [LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), pp. 68, 72, 77 and 183–191; read in
+[NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md).
 
 ## What was actually shown
 
@@ -82,8 +82,8 @@ chapter offers none of either and tests neither.
 - **That slowness makes a constraint.** The book's constraint (p. 40) has no
   time-scale condition; rate separation here marks levels and is a
   condition of control, not a mechanism by which a relation becomes a
-  constraint. That mechanism, the slow manifold, is CLAIM-478's, from
-  LIT-1292 and LIT-582, not this book's.
+  constraint. That mechanism, the slow manifold, is [CLAIM-478](../claims.d/CLAIM-478.md)'s, from
+  [LIT-1292](../literature.d/LIT-1292.md) and [LIT-582](../literature.d/LIT-582.md), not this book's.
 - **That organization makes the separation by an instability.** The
   pendulums' slower wave (p. 68) is a slower whole, but the book does not
   treat critical slowing, and Haken appears only for "slaving" (p. 81).

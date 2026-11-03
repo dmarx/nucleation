@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-03 (NOTE-tmpv0g6b): chapters 2, 3, 6, 7, 11, 12, 15 and
+  skimmed 2026-11-03 ([NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md)): chapters 2, 3, 6, 7, 11, 12, 15 and
   16 read in full from the MIT Press open-access PDF, the rest searched by
   term. Worth reading as the readable statement of Juarrero's constraint
   vocabulary (enabling, governing, second-order context-dependent
   constraints), which the record could not reach in the 1999 book, and for
   chapter 12's hierarchy-theory account of rate-demarcated levels, the
-  nearest philosophical prior art for CLAIM-478. Speculative by the
+  nearest philosophical prior art for [CLAIM-478](../claims.d/CLAIM-478.md). Speculative by the
   author's account, with no model of its own; its "context-dependent
-  constraint" is Gatlin's conditional dependence, not TERM-070's
+  constraint" is Gatlin's conditional dependence, not [TERM-070](../terms.d/TERM-070.md)'s
   constraint.
 title: 'Context Changes Everything: How Constraints Create Coherence'
 version: 2
@@ -76,28 +76,28 @@ summary: >-
 
 Juarrero, A. (2023). *Context Changes Everything: How Constraints Create Coherence*. The MIT Press. doi:10.7551/mitpress/14630.001.0001. Open access, CC BY-NC-ND 4.0.
 
-Skimmed on 2026-11-03 (NOTE-tmpv0g6b): chapters 2, 3, 6, 7, 11, 12, 15 and 16.
+Skimmed on 2026-11-03 ([NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md)): chapters 2, 3, 6, 7, 11, 12, 15 and 16.
 
 ## Key takeaways
 
 - **Constraint, defined without time scale.** A constraint raises or lowers
   barriers to energy flow without transferring kinetic energy (p. 40).
   "Context-dependent" means it makes processes conditionally dependent
-  (Gatlin; p. 67), which is not TERM-070's constraint, conserved at the
-  time scale of what it acts on. The book adopts TERM-070's closure
+  (Gatlin; p. 67), which is not [TERM-070](../terms.d/TERM-070.md)'s constraint, conserved at the
+  time scale of what it acts on. The book adopts [TERM-070](../terms.d/TERM-070.md)'s closure
   verbatim (pp. 93–94).
 - **Top-down by confinement.** A coherent dynamic's constitutive constraints
   act as "second-order" governing constraints, through negative feedback,
   holding components to a subregion of state space (pp. 79–84), and are
   "not spatiotemporally other than" the components (p. 81)
-  (THEORY-tmpny96e).
+  ([THEORY-tmpny96e](../theory.d/THEORY-tmpny96e.md)).
 - **Levels by rates.** Higher levels are slower, inter-level relations are
   constraint because the fast level completes before the slow one's
   feedback arrives, and control is lost when the rates converge (pp.
-  183–190; THEORY-tmp4nt8x). Prior art for CLAIM-478, without its
+  183–190; [THEORY-tmp4nt8x](../theory.d/THEORY-tmp4nt8x.md)). Prior art for [CLAIM-478](../claims.d/CLAIM-478.md), without its
   mechanism.
 - **History in structure.** Coherent dynamics "carry their history on their
-  backs" (p. 75), asserted by example; CASE-tmph9iwi is a case where the
+  backs" (p. 75), asserted by example; [CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md) is a case where the
   present organization does not carry it.
 - **Not about chaos or free will.** Kane, sensitivity, chaos and contextual
   emergence do not appear. The book accepts indetermination as the price of
@@ -106,9 +106,9 @@ Skimmed on 2026-11-03 (NOTE-tmpv0g6b): chapters 2, 3, 6, 7, 11, 12, 15 and 16.
 ## Standing in the record
 
 Registered at the owner's request on 2026-11-03 as the readable stand-in for
-Juarrero 1999 (LIT-tmpqbxw7), which Froese (NOTE-tmpn7fkx) cites among the
+Juarrero 1999 ([LIT-tmpqbxw7](LIT-tmpqbxw7.md)), which Froese ([NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md)) cites among the
 top-down-constraint accounts it criticizes and which the exchange "Assess
-SDT Coverage" (A21) named as prior art for CLAIM-tmpex9rg and CLAIM-478's
-constraints. Read for those claims, for TERM-tmp8spbn and CLAIM-tmpbeh2e
+SDT Coverage" (A21) named as prior art for [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) and [CLAIM-478](../claims.d/CLAIM-478.md)'s
+constraints. Read for those claims, for [TERM-tmp8spbn](../terms.d/TERM-tmp8spbn.md) and [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md)
 (self-determination and history), for Jennings's contextual emergence
-(THEORY-tmp6xjgq), and to settle whether Juarrero's vocabulary is TERM-070's.
+([THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)), and to settle whether Juarrero's vocabulary is [TERM-070](../terms.d/TERM-070.md)'s.

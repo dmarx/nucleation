@@ -10,12 +10,12 @@ date: '2026-11-03'
 source:
 - LIT-tmpw5nxr
 summary: >-
-  Juarrero (2023), LIT-tmpw5nxr, read in NOTE-tmpv0g6b (Skimmed; chapters
+  Juarrero (2023), [LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), read in [NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md) (Skimmed; chapters
   2, 3, 6, 7, 11, 12, 15 and 16 in full). Active as a statement of what the
   account is: its kinds of constraint, its definition, and its top-down
   step, all stated in the text (pp. 25, 40, 67, 71, 79–84). It does not say
   that the account is true, that constraints transfer no energy, or that
-  her constraint is the record's (TERM-070's).
+  her constraint is the record's ([TERM-070](../terms.d/TERM-070.md)'s).
 ---
 <!-- inactive-ok-file: LIT-tmpw5nxr NOTE-tmpv0g6b LIT-tmpqbxw7 NOTE-tmpn7fkx THEORY-tmp4nt8x — Unavailable or new; the source, its reading and neighbours, cited as open -->
 
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Juarrero (2023), LIT-tmpw5nxr, chapters 2, 3 and 6, pp. 21–86; read in
-NOTE-tmpv0g6b from the MIT Press open-access PDF.
+Juarrero (2023), [LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), chapters 2, 3 and 6, pp. 21–86; read in
+[NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md) from the MIT Press open-access PDF.
 
 ## What was actually shown
 
@@ -61,7 +61,7 @@ other than the components and constraints from which they were formed and
 which they control" (p. 81; again pp. 84, 95).
 
 The account could have been stated otherwise: with a time-scale condition
-on constraints, as Montévil and Mossio's has (LIT-582), or with the
+on constraints, as Montévil and Mossio's has ([LIT-582](../literature.d/LIT-582.md)), or with the
 governing regime as a distinct entity. It is not.
 
 ## What this does not say
@@ -72,12 +72,12 @@ governing regime as a distinct entity. It is not.
   processes.
 - **That the account is true or explanatory.** The author calls the book
   "speculative metaphysics" (p. 32).
-- **That "context-dependent constraint" is TERM-070's constraint.** It is a
-  conditional dependence; TERM-070's is conserved at the time scale of the
-  process it acts on. The book adopts TERM-070's closure only in chapter 7
+- **That "context-dependent constraint" is [TERM-070](../terms.d/TERM-070.md)'s constraint.** It is a
+  conditional dependence; [TERM-070](../terms.d/TERM-070.md)'s is conserved at the time scale of the
+  process it acts on. The book adopts [TERM-070](../terms.d/TERM-070.md)'s closure only in chapter 7
   (pp. 93–94).
 - **That governing constraints give an agent control in the libertarian
   sense.** The book accepts "indetermination and uncertainty" as the price
   of creativity (p. 235) and gives no account of control over them; Froese
-  (NOTE-tmpn7fkx) cites the 1999 book among accounts that do not explain
+  ([NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md)) cites the 1999 book among accounts that do not explain
   whose efficacy a top-down constraint is.

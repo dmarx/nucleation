@@ -20,8 +20,8 @@ date: '2026-11-03'
 source:
 - LIT-tmpw5nxr
 summary: >-
-  Juarrero (2023), LIT-tmpw5nxr, ch. 15 (pp. 223–232), read in
-  NOTE-tmpv0g6b; the primary studies are not held. The subspaces and their
+  Juarrero (2023), [LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), ch. 15 (pp. 223–232), read in
+  [NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md); the primary studies are not held. The subspaces and their
   predictive power are the studies' findings as the chapter reports them.
   That the subspace controls behavior top down, is "the standing cause of
   the response" (p. 230) and correlates with prior and proximate intentions
@@ -35,7 +35,7 @@ summary: >-
 
 ## Source
 
-Juarrero (2023), LIT-tmpw5nxr, ch. 15, pp. 223–232; read in NOTE-tmpv0g6b.
+Juarrero (2023), [LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), ch. 15, pp. 223–232; read in [NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md).
 The chapter reports Churchland, Cunningham et al. 2012, Shenoy, Kaufman et
 al. 2011, Kaufman, Churchland et al. 2014 and Mante, Sussillo et al. 2013;
 none of these is held or read here.
@@ -73,10 +73,10 @@ constrain, since nothing reported intervenes on it.
   book holds that governing constraints are "not spatiotemporally other
   than" their components (p. 81), so the reading is compatible with a
   bottom-up mechanism summarized in low dimension.
-- **That this is control in CLAIM-tmpex9rg's sense.** It is confinement of
+- **That this is control in [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md)'s sense.** It is confinement of
   the state to a task subregion plus context-gated integration of evidence;
   nothing about sensitivity, amplification or noise.
-- **That the boundary of the system matters** in THEORY-tmp6xjgq's sense;
+- **That the boundary of the system matters** in [THEORY-tmp6xjgq](THEORY-tmp6xjgq.md)'s sense;
   the studies are of task context, not of a boundary between brain and
   surroundings.
 - **What the primary papers say.** Read only through the chapter.

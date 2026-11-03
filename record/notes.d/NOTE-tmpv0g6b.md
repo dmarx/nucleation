@@ -47,7 +47,7 @@ summary: >-
 ## Contribution
 
 A book-length synthesis, not a result. It restates the constraint vocabulary
-of *Dynamics in Action* (1999, LIT-tmpqbxw7, which it cites for enabling
+of *Dynamics in Action* (1999, [LIT-tmpqbxw7](../literature.d/LIT-tmpqbxw7.md), which it cites for enabling
 constraints, second-order context-dependent constraints and hermeneutics)
 and extends it from intentional action to "complex systems, living and
 nonliving" (p. 23): convection, lasers, homeostasis, ecosystems, economies,
@@ -234,11 +234,11 @@ the system's overall possibility space" (p. 80).
 
 ## Connections
 
-- **Juarrero 1999** (LIT-tmpqbxw7), cited for enabling constraints (p. 71),
+- **Juarrero 1999** ([LIT-tmpqbxw7](../literature.d/LIT-tmpqbxw7.md)), cited for enabling constraints (p. 71),
   second-order context-dependent constraints (p. 81), the content of
   intentions (p. 179) and hermeneutics (p. 163).
-- **Montévil and Mossio 2015; Moreno and Mossio 2015, 2016** (LIT-582,
-  NOTE-468): closure of constraints, adopted (pp. 92–95).
+- **Montévil and Mossio 2015; Moreno and Mossio 2015, 2016** ([LIT-582](../literature.d/LIT-582.md),
+  [NOTE-468](NOTE-468.md)): closure of constraints, adopted (pp. 92–95).
 - **Gatlin 1972**: the two kinds of constraint as departures from
   equiprobability and from independence.
 - **Salthe 1985, Allen and Starr 1982, Pattee 1973, Simon 1969**: the
@@ -252,7 +252,7 @@ the system's overall possibility space" (p. 80).
 
 ## Bearing on the record
 
-- **CLAIM-478: philosophical prior art for both directions, without the
+- **[CLAIM-478](../claims.d/CLAIM-478.md): philosophical prior art for both directions, without the
   mechanism.** Organization makes separation: entrained pendulums produce a
   pattern "longer and slower" than their swings (p. 68), and higher levels
   are "usually slower than their components" (p. 183). Separation makes
@@ -262,14 +262,14 @@ the system's overall possibility space" (p. 80).
   (p. 190). That is close to the claim's thesis and to its defeater's
   negation. But the book has no slow manifold, no singular perturbation and
   no critical slowing; its source is hierarchy theory (Salthe), and its
-  constraint (p. 40) is not relative to a time scale, unlike LIT-582's.
+  constraint (p. 40) is not relative to a time scale, unlike [LIT-582](../literature.d/LIT-582.md)'s.
   It also says that within a coherent dynamic the internal loops get
   faster (p. 72), which fits the claim (fast internal relaxation is what
   settles a relation) but which the book does not connect to the slow
-  whole. Bousquet et al.'s critical separation (LIT-1292) is the formal
+  whole. Bousquet et al.'s critical separation ([LIT-1292](../literature.d/LIT-1292.md)) is the formal
   counterpart of its p. 189: an asymmetry that fails when the rates come
-  together. THEORY-tmp4nt8x states what the book holds here.
-- **CLAIM-tmpex9rg: the 2023 book has nothing on sensitivity or chaos, and
+  together. [THEORY-tmp4nt8x](../theory.d/THEORY-tmp4nt8x.md) states what the book holds here.
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md): the 2023 book has nothing on sensitivity or chaos, and
   credits control to confinement.** Its control is governing constraints
   holding components to a subregion "through cascades of negative feedback"
   (p. 101; pp. 79–80, 167), measured against Ashby's requisite variety
@@ -277,7 +277,7 @@ the system's overall possibility space" (p. 80).
   phase transition (p. 25). That fits the claim's "sensitivity is not
   control", and Jennings's emphasis on constraint over amplification, but it
   is not an argument for either.
-- **Froese's objection (NOTE-tmpn7fkx), read against the 2023 book.** Froese
+- **Froese's objection ([NOTE-tmpn7fkx](NOTE-tmpn7fkx.md)), read against the 2023 book.** Froese
   says it makes no difference to the subject's efficacy whether one credits
   an order parameter or the neural substrate. The 2023 book grants his
   premise: governing constraints "are not spatiotemporally other than the
@@ -288,30 +288,30 @@ the system's overall possibility space" (p. 80).
   indetermination and uncertainty" (p. 235), with no account of an
   agent's control over that indetermination. So Froese's diagnosis fits
   the 2023 book; whether it fits the 1999 book is unread.
-- **TERM-070: Juarrero's context-dependent constraint is not the record's
+- **[TERM-070](../terms.d/TERM-070.md): Juarrero's context-dependent constraint is not the record's
   constraint.** Hers is Gatlin's: a departure from independence, a
   conditional dependence among processes (p. 67), with no condition that it
-  be conserved at the time scale of the process it acts on. TERM-070's
+  be conserved at the time scale of the process it acts on. [TERM-070](../terms.d/TERM-070.md)'s
   constraint is Montévil and Mossio's, which has that condition. The two
-  meet only in chapter 7, where the book adopts TERM-070's closure word for
+  meet only in chapter 7, where the book adopts [TERM-070](../terms.d/TERM-070.md)'s closure word for
   word (pp. 93–94) and adds the time-scale reading of the loop (p. 94). Her
   "governing constraint" is the nearer match: it is a whole's regime acting
   on parts, and her chapter 12 makes it slower. A reader citing Juarrero
-  for "constraint" in TERM-070's sense should cite chapter 7 only.
-- **TERM-tmp8spbn and CLAIM-tmpbeh2e: self-determination here is closure,
+  for "constraint" in [TERM-070](../terms.d/TERM-070.md)'s sense should cite chapter 7 only.
+- **[TERM-tmp8spbn](../terms.d/TERM-tmp8spbn.md) and [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md): self-determination here is closure,
   so maintenance, and the book's claim about history is the opposite of
-  CASE-tmph9iwi's result.** Self-determination is "self-constraint" by
+  [CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md)'s result.** Self-determination is "self-constraint" by
   closure (pp. 93–94), a present organization; the book offers no
   formation condition. But it holds that coherent dynamics "carry their
   history on their backs" (p. 75) and that constrained trajectories "make
   manifest the context and the moment in which they were created" (p. 76),
-  with graphite and diamond as the case. CASE-tmph9iwi builds two agents
+  with graphite and diamond as the case. [CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md) builds two agents
   with different formation histories that reach the same organization,
   which no knockout separates afterwards. The book's own multiple
   realizability (one type, many routes) cuts the same way as the case.
   Its examples differ in kind (different attractors); the case is one
   attractor reached two ways.
-- **THEORY-tmp6xjgq (Jennings, contextual emergence): a related view with a
+- **[THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md) (Jennings, contextual emergence): a related view with a
   different boundary.** The book does not use "contextual emergence". It
   shares the Bénard case and says convection cells "depend on externally
   set boundary conditions" (p. 91). It even has the skull: "a central
@@ -320,9 +320,9 @@ the system's overall possibility space" (p. 80).
   boundaries are rate differences, not material ones ("boundaries need not
   be tangible, material structures", p. 77), and it holds that the governing
   regime is not other than the parts (p. 81). So it does not supply the
-  irreducible boundary that THEORY-tmp6xjgq's promote_when asks for, and its
+  irreducible boundary that [THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)'s promote_when asks for, and its
   neural evidence (ch. 15) is of the same correlational and model kind.
-- **As a stand-in for LIT-tmpqbxw7.** It restates the 1999 constraint
+- **As a stand-in for [LIT-tmpqbxw7](../literature.d/LIT-tmpqbxw7.md).** It restates the 1999 constraint
   vocabulary and cites the 1999 book for its key terms, so it is a fair
   source for what Juarrero means by enabling, governing and second-order
   constraints. It is not a source for the 1999 book's action theory
@@ -349,8 +349,8 @@ the system's overall possibility space" (p. 80).
 - What, in the book's terms, separates a constraint that is slower than
   the process it constrains from one that is not? Its swing-timing example
   (p. 46) is a phase relation, not a slow variable; does it fall under
-  CLAIM-478 or against it?
+  [CLAIM-478](../claims.d/CLAIM-478.md) or against it?
 - Does the 1999 book's account of intentions as context-sensitive
   constraints say more about control against noise than this one does?
-- Chapters 9 and 10 (persistence, entrenchment) may bear on CLAIM-331 and
-  CLAIM-477; unread here.
+- Chapters 9 and 10 (persistence, entrenchment) may bear on [CLAIM-331](../claims.d/CLAIM-331.md) and
+  [CLAIM-477](../claims.d/CLAIM-477.md); unread here.

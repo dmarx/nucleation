@@ -301,12 +301,12 @@ The claim is unchanged.
 
 ## Note of 2026-11-03 (later): Juarrero 2023, prior art for both directions
 
-Juarrero's *Context Changes Everything* (LIT-tmpw5nxr, NOTE-tmpv0g6b, ch. 12)
+Juarrero's *Context Changes Everything* ([LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), [NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md), ch. 12)
 holds both directions as philosophy, from hierarchy theory: coherence makes
 slower wholes (entrained pendulums "longer and slower", p. 68; higher levels
 "usually slower", p. 183), and a separation of rates is a condition of control
 between levels ("Lack of asymmetry in cycling rates … reflects the absence of
-control constraint", p. 190; THEORY-tmp4nt8x). It gives no mechanism, no slow
+control constraint", p. 190; [THEORY-tmp4nt8x](../theory.d/THEORY-tmp4nt8x.md)). It gives no mechanism, no slow
 manifold or critical slowing, and its constraint is not relative to a time
 scale (p. 40). Its swing-timing example (p. 46), a phase relation that is not a
 slower variable, is a candidate for defeater (a) worth checking.

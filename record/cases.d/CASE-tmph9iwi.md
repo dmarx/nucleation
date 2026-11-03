@@ -170,7 +170,7 @@ several entries on which something does.
   [QUESTION-118](../questions.d/QUESTION-118.md)). Whether a self-formed capacity continues the agent's will is
   the same question asked of a capacity ([QUESTION-364](../questions.d/QUESTION-364.md)).
 
-**The view it qualifies.** Juarrero (LIT-tmpw5nxr, NOTE-tmpv0g6b) holds that
+**The view it qualifies.** Juarrero ([LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), [NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md)) holds that
 coherent dynamics "carry their history on their backs" (p. 75) and "make
 manifest the context and the moment in which they were created" (p. 76). Her
 examples, graphite and diamond, are different attractors reached by different

@@ -131,28 +131,28 @@ The owner's connection puts that gap in control terms:
 
 ## Note of 2026-11-03 (later): Kane, read
 
-Kane's "Libertarianism" (2009) was read at the owner's direction (LIT-tmpmi6rp,
-NOTE-tmpku07s), so the note above saying Kane is unread is out of date for
+Kane's "Libertarianism" (2009) was read at the owner's direction ([LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md),
+[NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md)), so the note above saying Kane is unread is out of date for
 that paper; the 1996 book is still Unavailable.
 
 - **The attribution checks.** The chaos is Kane's: conflict is reflected in the
   brain "by movement away from thermodynamic equilibrium—in short, a kind of
   'stirring up of chaos' in the brain that makes it sensitive to
-  micro-indeterminacies at the neuronal level" (p. 39; THEORY-tmpjn453).
+  micro-indeterminacies at the neuronal level" (p. 39; [THEORY-tmpjn453](../theory.d/THEORY-tmpjn453.md)).
 - **The defeater is his reply, and it does not defeat the claim.** Kane makes the
   indeterminacy "a hindrance or obstacle to the attainment of the goal" inside
   goal-directed effort (p. 42), which is what this claim's defeater names. But
   he concedes that indeterminism lessens control: "diminished control in such
   circumstances does not entail diminished responsibility" (p. 43;
-  THEORY-tmpjkav4). So his reply is about responsibility, and grants this
+  [THEORY-tmpjkav4](../theory.d/THEORY-tmpjkav4.md)). So his reply is about responsibility, and grants this
   claim's point about control.
 - **His escape is to make the noise the agent's own.** In a self-forming action
   the noise hindering each choice "is coming from her own will" (p. 40), so
   there is no outside noise for the agent's share to be measured against. That
   holds only if the indeterminacy is all endogenous to the conflict, which Kane
-  assumes (NOTE-tmpku07s).
+  assumes ([NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md)).
 
-Juarrero 2023 (NOTE-tmpv0g6b), registered as a stand-in for the 1999 book, does
+Juarrero 2023 ([NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md)), registered as a stand-in for the 1999 book, does
 not discuss Kane, chaos, sensitivity or free will. Its control is confinement by
 governing constraints through negative feedback (pp. 79–80, 101) and analog
 control under Ashby's law (p. 168), which fits this claim and Jennings's

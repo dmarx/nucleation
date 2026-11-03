@@ -243,7 +243,7 @@ establishes is a set of definitions and an argument.
 ## Note of 2026-11-03 (later): Juarrero 2023
 
 Froese's diagnosis fits Juarrero's 2023 book as well as the 1999 one he cites
-(LIT-tmpw5nxr, NOTE-tmpv0g6b): it grants that governing constraints are "not
+([LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), [NOTE-tmpv0g6b](NOTE-tmpv0g6b.md)): it grants that governing constraints are "not
 spatiotemporally other than the components" (p. 81), and its reply to
 overdetermination, that constraints transfer no energy (pp. 25, 46), answers the
 closure worry, not the question of whose efficacy it is. It is not libertarian;
