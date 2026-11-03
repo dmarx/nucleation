@@ -13,7 +13,7 @@
 - A Proposed thesis from the synthesis the owner asked for: freedom as an agent's governance of its own governability, with the qualifications the unhedged version dropped restored ([CLAIM-tmpxpdqi](record/claims.d/CLAIM-tmpxpdqi.md)).
 - A question on what shows an experience is a basic psychological need rather than a well-being raiser ([QUESTION-tmpee04a](record/questions.d/QUESTION-tmpee04a.md)).
 - Forty-seven works registered unread, every identifier checked, and a curation entry.
-- Jennings, "Attention as the Source of a Free Will" (forthcoming in *Synthese*), read in full from the manuscript the owner supplied (LIT-tmpasemk, NOTE-tmpby7i2), with two Proposed THEORYs: the hybrid account of attention (THEORY-tmptunid) and the contextual emergence of its subject (THEORY-tmp6xjgq). The owner's "Frankfurt with a hat on" is filed as a Proposed thesis (CLAIM-tmplyicq): Frankfurt's architecture, with metacontrol in place of endorsement and the manipulation objection inherited.
+- Jennings, "Attention as the Source of a Free Will" (forthcoming in *Synthese*), read in full from the manuscript the owner supplied ([LIT-tmpasemk](record/literature.d/LIT-tmpasemk.md), [NOTE-tmpby7i2](record/notes.d/NOTE-tmpby7i2.md)), with two Proposed THEORYs: the hybrid account of attention ([THEORY-tmptunid](record/theory.d/THEORY-tmptunid.md)) and the contextual emergence of its subject ([THEORY-tmp6xjgq](record/theory.d/THEORY-tmp6xjgq.md)). The owner's "Frankfurt with a hat on" is filed as a Proposed thesis ([CLAIM-tmplyicq](record/claims.d/CLAIM-tmplyicq.md)): Frankfurt's architecture, with metacontrol in place of endorsement and the manipulation objection inherited.
 
 ### Changed
 

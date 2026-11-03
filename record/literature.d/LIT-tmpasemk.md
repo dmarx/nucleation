@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpby7i2), from the manuscript of
+  read in full 2026-11-03 ([NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md)), from the manuscript of
   2026-10-29 the owner supplied; worth reading as a worked attempt to make
   attention the mechanism of a will without a homunculus, and for its one
   original move, a boundary between an emergent phenomenon and its context
@@ -62,7 +62,7 @@ summary: >-
 
 Jennings, C. D. (2026). Attention as the source of a free will. *Synthese*, forthcoming. Manuscript of 29 October 2026, 52 pp. PhilArchive JENAAT-12.
 
-Read in full on 2026-11-03 (NOTE-tmpby7i2).
+Read in full on 2026-11-03 ([NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md)).
 
 ## Key takeaways
 
@@ -82,7 +82,7 @@ Read in full on 2026-11-03 (NOTE-tmpby7i2).
 ## Standing in the record
 
 The owner uploaded it to the exchange "Assess SDT Coverage" and asked
-whether it is "Frankfurt with a hat on" (U14); that is CLAIM-tmplyicq. It
-bears on the will line, where it is a candidate realizer of CLAIM-027's
-precedence relations, and on CLAIM-334, whose supervenience premise it
+whether it is "Frankfurt with a hat on" (U14); that is [CLAIM-tmplyicq](../claims.d/CLAIM-tmplyicq.md). It
+bears on the will line, where it is a candidate realizer of [CLAIM-027](../claims.d/CLAIM-027.md)'s
+precedence relations, and on [CLAIM-334](../claims.d/CLAIM-334.md), whose supervenience premise it
 denies. The paper does not cite Frankfurt.

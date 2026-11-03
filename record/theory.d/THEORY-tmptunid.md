@@ -20,12 +20,12 @@ date: '2026-11-03'
 source:
 - LIT-tmpasemk
 summary: >-
-  Jennings (2026), LIT-tmpasemk, §6, read in NOTE-tmpby7i2. The
+  Jennings (2026), [LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), §6, read in [NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md). The
   operational half of the paper: what attention is, how it is told from
   filtering, and how it forms interests. The stalemate mechanism is taken
   from Voigt 2022, which the record does not hold. Proposed because the
   criterion is inferred, not tested, and the paper reports no data. It does
-  not say the subject is contextually emergent (THEORY-tmp6xjgq) or that
+  not say the subject is contextually emergent ([THEORY-tmp6xjgq](THEORY-tmp6xjgq.md)) or that
   attention is the source of a free will.
 ---
 <!-- inactive-ok-file: QUESTION-071 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
@@ -35,8 +35,8 @@ summary: >-
 
 ## Source
 
-Jennings (2026), LIT-tmpasemk, pp. 21–32 of the manuscript of 2026-10-29;
-read in NOTE-tmpby7i2.
+Jennings (2026), [LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), pp. 21–32 of the manuscript of 2026-10-29;
+read in [NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md).
 
 ## What was actually shown
 
@@ -63,10 +63,10 @@ accompany formed-interest selection as well.
 
 ## What this does not say
 
-- **That the subject is non-reducible.** That is THEORY-tmp6xjgq, a
+- **That the subject is non-reducible.** That is [THEORY-tmp6xjgq](THEORY-tmp6xjgq.md), a
   separate and weaker part of the paper.
 - **That attention so defined is free will.** The paper's step from here to
-  sourcehood is asserted (NOTE-tmpby7i2, C6).
+  sourcehood is asserted ([NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md), C6).
 - **That the stalemate mechanism is established.** It is one model, cited.
 - **That the subject is the agent's own.** A collection whose interests were
-  installed meets the definition (QUESTION-071).
+  installed meets the definition ([QUESTION-071](../questions.d/QUESTION-071.md)).

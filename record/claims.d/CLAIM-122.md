@@ -185,8 +185,8 @@ No status, title or warrant changes.
 ## Note of 2026-11-02: "Frankfurt with a hat on"
 
 In the exchange "Assess SDT Coverage" (2026-11-02) the owner asked whether Jennings's "Attention as the Source of a Free
-Will" (forthcoming in *Synthese*; LIT-tmpasemk, read on 2026-11-03 in
-NOTE-tmpby7i2) is "Frankfurt with a hat on" (U14). This claim's note of
+Will" (forthcoming in *Synthese*; [LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), read on 2026-11-03 in
+[NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md)) is "Frankfurt with a hat on" (U14). This claim's note of
 2026-10-18 answers it. "Higher-order volition is an attitude concerning
 what should be effective. Metacontrol is the causal machinery capable of
 altering what becomes effective." Jennings's attention, as A14 reports it,
@@ -208,6 +208,6 @@ between libertarianism and compatibilism" with a non-reductive power it
 says supports libertarian free will, and without indeterminism. Read, the
 paper bears this note out: attention is prioritization by a collection of
 interests, with no endorsement, and Frankfurt is not cited. The comparison
-is filed as CLAIM-tmplyicq, resting on this claim.
+is filed as [CLAIM-tmplyicq](CLAIM-tmplyicq.md), resting on this claim.
 
 The claim is unchanged.

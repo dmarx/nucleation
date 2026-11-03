@@ -31,11 +31,11 @@ bears_on:
 summary: >-
   The owner's U14 of the exchange "Assess SDT Coverage" (2026-11-02):
   "would it be fair to say Jennings theory is Frankfurt with a hat on?"
-  Answered from CLAIM-122's note of 2026-10-18, which separates
+  Answered from [CLAIM-122](CLAIM-122.md)'s note of 2026-10-18, which separates
   higher-order volition, an attitude about what should be effective, from
   metacontrol, the machinery that alters what becomes effective. First
-  filed as a note on CLAIM-122, since the paper was unread. The owner then
-  supplied it, and the reading (NOTE-tmpby7i2) bears the claim out:
+  filed as a note on [CLAIM-122](CLAIM-122.md), since the paper was unread. The owner then
+  supplied it, and the reading ([NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md)) bears the claim out:
   attention is prioritization by a collection of interests, with no
   endorsement anywhere, and no historical condition.
 ---
@@ -46,15 +46,15 @@ summary: >-
 
 ## The claim
 
-Frankfurt (LIT-692, THEORY-120): a person's will is free when the desire
+Frankfurt ([LIT-692](../literature.d/LIT-692.md), [THEORY-120](../theory.d/THEORY-120.md)): a person's will is free when the desire
 that moves them is one they want to be moved by, a second-order volition
-settling which first-order desire is effective. Jennings (LIT-tmpasemk):
+settling which first-order desire is effective. Jennings ([LIT-tmpasemk](../literature.d/LIT-tmpasemk.md)):
 "When interests conflict, the collection will determine which of the
 interests wins" (p. 31), and attention is that "prioritization by the
 subject, or by this collection of interests" (p. 32).
 
 The structure is the same: an upper level settles which lower-level
-motive becomes effective. What sits at the upper level differs. CLAIM-122's
+motive becomes effective. What sits at the upper level differs. [CLAIM-122](CLAIM-122.md)'s
 note of 2026-10-18: "Higher-order volition is an attitude concerning what
 should be effective. Metacontrol is the causal machinery capable of
 altering what becomes effective." Jennings's upper level is a process of
@@ -67,14 +67,14 @@ process. Two things come with that:
 
 - **Inherited unchanged: manipulation.** A collection of interests installed
   by someone else meets the condition as well as one the agent grew.
-  CLAIM-022 already applies Velleman's objection to higher-order
+  [CLAIM-022](CLAIM-022.md) already applies Velleman's objection to higher-order
   organizations as much as to higher-order desires. The paper does not take
   it up.
 - **Added: formation and emergence.** Attention forms new interests,
-  turning fluid ones into formed ones (THEORY-tmptunid), which is TERM-023's
+  turning fluid ones into formed ones ([THEORY-tmptunid](../theory.d/THEORY-tmptunid.md)), which is [TERM-023](../terms.d/TERM-023.md)'s
   transformation and goes beyond Frankfurt's static hierarchy. And the
   upper level is claimed to be a contextually emergent cause
-  (THEORY-tmp6xjgq), which is the paper's bid to be "in between
+  ([THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)), which is the paper's bid to be "in between
   libertarianism and compatibilism" (p. 3).
 
 ## What it does not say
@@ -82,6 +82,6 @@ process. Two things come with that:
 - **That the paper is derivative.** Its account of attention and its
   boundary condition on contextual emergence are its own.
 - **That metacontrol without endorsement cannot ground freedom.** That is
-  open; CLAIM-122 says only that they are different things.
-- **That the contextual-emergence step succeeds** (NOTE-tmpby7i2,
+  open; [CLAIM-122](CLAIM-122.md) says only that they are different things.
+- **That the contextual-emergence step succeeds** ([NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md),
   Limitations).

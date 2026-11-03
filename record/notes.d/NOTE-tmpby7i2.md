@@ -67,7 +67,7 @@ collection of interests, and what it does is prioritize among them.
 - **A taxonomy of emergence by the parts' necessity and sufficiency**
   (p. 17): weak emergence, parts necessary and sufficient; strong, neither;
   supervenience, sufficient but not necessary; contextual, necessary but not
-  sufficient. Attributed to Bishop and Atmanspacher 2006 (LIT-tmpo8e51) for
+  sufficient. Attributed to Bishop and Atmanspacher 2006 ([LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)) for
   the distinctness of contextual emergence; the necessity–sufficiency gloss
   is the paper's.
 - **Biological systems are not deterministic** "according to the best
@@ -105,7 +105,7 @@ The paper is argument and review. It reports no new data.
   later mixed agent- and event-causal view.
 - **The signature** (pp. 27–29). 1/f scaling and phase-amplitude coupling,
   "evidence that low frequency waves constrain high frequency waves",
-  associated with attention (Szczepanski et al. 2014, LIT-tmpkq6x5). The
+  associated with attention (Szczepanski et al. 2014, [LIT-tmpkq6x5](../literature.d/LIT-tmpkq6x5.md)). The
   analogy: a quiet flute must wait for a loud bassoon to fall silent to be
   heard (p. 28).
 - **Where fluid interests enter** (pp. 30–32). Formed interests act through
@@ -124,7 +124,7 @@ The paper is argument and review. It reports no new data.
   interests use memory (pp. 33–34). Weak emergence: reply by ephaptic
   coupling, which "demonstrates that brain activity cannot be described
   simply through local interactions" (p. 35; Anastassiou et al. 2011,
-  LIT-tmp4kcgq). No-self views (Metzinger; Lindahl and Britton): loss of the
+  [LIT-tmp4kcgq](../literature.d/LIT-tmp4kcgq.md)). No-self views (Metzinger; Lindahl and Britton): loss of the
   sense of self is not loss of the self (pp. 36–38).
 
 ## Claims
@@ -156,19 +156,19 @@ The paper is argument and review. It reports no new data.
 
 ## Connections
 
-- **Bishop and Atmanspacher 2006** (LIT-tmpo8e51) and **Bishop, Silberstein
+- **Bishop and Atmanspacher 2006** ([LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)) and **Bishop, Silberstein
   and Pexton 2022**: the source of contextual emergence. Bishop and
   Atmanspacher's version is about stability conditions that make a
   higher-level description well defined; the paper's boundary condition and
   its causal reading go further. Bishop et al. 2022 is not held.
-- **Kane** (LIT-tmpnqv86 and Kane 1999, *J. Phil.* 96, cited; the 1999 paper
+- **Kane** ([LIT-tmpnqv86](../literature.d/LIT-tmpnqv86.md) and Kane 1999, *J. Phil.* 96, cited; the 1999 paper
   is not held): self-forming actions as the case the account serves.
 - **Voigt 2022**: the model of stalemate-breaking. Not held.
 - **Desimone and Duncan 1995**: biased competition, the weakly emergent rival.
   Not held.
 - **Moreno and Mossio; Thompson** (fn. 14): circular or downward causation as
   the account of biological agency the paper avoids. The record holds
-  readings close to them (LIT-1027).
+  readings close to them ([LIT-1027](../literature.d/LIT-1027.md)).
 - **Potter, Ellis and Mitchell 2026**, "Reframing the free will debate: the
   universe is not deterministic" (*Synthese* 207: 71). Not held.
 - **Frankfurt is not cited**, and Wegner 2017 appears only as the
@@ -176,7 +176,7 @@ The paper is argument and review. It reports no new data.
 
 ## Bearing on the record
 
-- **CLAIM-tmplyicq: the owner's "Frankfurt with a hat on", now checked
+- **[CLAIM-tmplyicq](../claims.d/CLAIM-tmplyicq.md): the owner's "Frankfurt with a hat on", now checked
   against the text.** The architecture is two-level: a collection of
   interests decides which interest wins when they conflict (p. 31). The upper
   level is prioritization, a process, not a higher-order volition or an
@@ -185,15 +185,15 @@ The paper is argument and review. It reports no new data.
   a power it says "qualifies as a non-reductive causal power, supporting
   libertarian free will" (p. 3), and without indeterminism (p. 32). A14 reported both descriptions, and both are the
   paper's. It is not an inconsistency in A14's report.
-- **CLAIM-027.** A mechanism-level candidate for its precedence relations:
+- **[CLAIM-027](../claims.d/CLAIM-027.md).** A mechanism-level candidate for its precedence relations:
   "When interests conflict, the collection will determine which of the
   interests wins. Without an emergent subject …, the winner would depend
   only on the existing strength of the interests in conflict and their local
-  interactions" (p. 31). That is CLAIM-027's non-reducibility to regime
-  contents, plus a claim of non-reducibility to micro-dynamics that CLAIM-027
-  does not make. CLAIM-159's cells place it as "emergent from the whole"
+  interactions" (p. 31). That is [CLAIM-027](../claims.d/CLAIM-027.md)'s non-reducibility to regime
+  contents, plus a claim of non-reducibility to micro-dynamics that [CLAIM-027](../claims.d/CLAIM-027.md)
+  does not make. [CLAIM-159](../claims.d/CLAIM-159.md)'s cells place it as "emergent from the whole"
   acting on the parts.
-- **CLAIM-334.** The paper denies supervenience explicitly and says it needs
+- **[CLAIM-334](../claims.d/CLAIM-334.md).** The paper denies supervenience explicitly and says it needs
   neither downward nor circular causation (fn. 14). Its argument that the
   boundary resists redescription is that the boundary's properties "are
   macro-level ones" (p. 20). But a macro-level description of a boundary is
@@ -201,32 +201,32 @@ The paper is argument and review. It reports no new data.
   paper itself states and sets aside (p. 19). So the claim's premise is denied
   rather than refuted. The paper offers no intervention on the macro level
   that holds its base fixed.
-- **CLAIM-tmplz9zf.** The stalemate-breaking mechanism is a causal update:
+- **[CLAIM-tmplz9zf](../claims.d/CLAIM-tmplz9zf.md).** The stalemate-breaking mechanism is a causal update:
   attention on the chosen item updates its stored value (p. 25). That is the
-  structure CLAIM-tmplz9zf says self-formation needs, a mixture that changes
+  structure [CLAIM-tmplz9zf](../claims.d/CLAIM-tmplz9zf.md) says self-formation needs, a mixture that changes
   because of the choice. It is shown, in the paper, by citing Voigt's model,
   not by an intervention.
-- **CLAIM-tmpex9rg.** The paper's reversal of the classic problem bears on
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md).** The paper's reversal of the classic problem bears on
   the owner's: "while the question was once how we can be undetermined in a
   deterministic universe, the task now is to explain how we manage to find
   stability in a stochastic one" (p. 3), and "constraint, in a noisy
   environment, is what gives us power over ourselves" (p. 33). That is
-  CLAIM-478's constraint read as freedom. It is also the opposite emphasis to
+  [CLAIM-478](../claims.d/CLAIM-478.md)'s constraint read as freedom. It is also the opposite emphasis to
   Kane's chaos: for Jennings what makes the outcome the agent's is a stable
   constraint, not amplification.
-- **QUESTION-364.** Fluid interests turning into formed ones are a worked
+- **[QUESTION-364](../questions.d/QUESTION-364.md).** Fluid interests turning into formed ones are a worked
   case of a will revising itself. The paper answers whose revision it is by
   the subject's being the whole collection. It says nothing about a
-  collection whose interests were installed, so QUESTION-071 and THEORY-040's
+  collection whose interests were installed, so [QUESTION-071](../questions.d/QUESTION-071.md) and [THEORY-040](../theory.d/THEORY-040.md)'s
   manipulation case are untouched.
-- **QUESTION-033, QUESTION-034, CLAIM-156, CLAIM-158.** "Who drives" has the
-  answer "the collection, through its context"; QUESTION-034's second option,
+- **[QUESTION-033](../questions.d/QUESTION-033.md), [QUESTION-034](../questions.d/QUESTION-034.md), [CLAIM-156](../claims.d/CLAIM-156.md), [CLAIM-158](../claims.d/CLAIM-158.md).** "Who drives" has the
+  answer "the collection, through its context"; [QUESTION-034](../questions.d/QUESTION-034.md)'s second option,
   a change in which interests may act, is the mechanism.
-- **THEORY-1296 and Metzinger.** The paper takes Metzinger's no-self view as
+- **[THEORY-1296](../theory.d/THEORY-1296.md) and Metzinger.** The paper takes Metzinger's no-self view as
   an objection and answers it by separating the self from the sense of self
   (pp. 36–37). Metzinger's M-autonomy, the record's nearest neighbour, is not
   cited.
-- **LIT-388 (ephaptic coupling).** The second appearance of ephaptic coupling
+- **[LIT-388](../literature.d/LIT-388.md) (ephaptic coupling).** The second appearance of ephaptic coupling
   as a basis of subjecthood. The paper offers it against weak emergence, but
   a field effect is another physical channel among neurons. It is non-local
   in wiring, not non-reducible.
@@ -267,5 +267,5 @@ The paper is argument and review. It reports no new data.
 - Can a weakly emergent model with the same boundary conditions, encoded as
   micro constraints, fail to reproduce the macro constraint? That is what
   would separate contextual emergence from global supervenience
-  (THEORY-tmp6xjgq).
+  ([THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)).
 - Would a subject whose interests were installed be free on this account?

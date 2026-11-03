@@ -97,9 +97,9 @@ from that is a question for a reading of the paper.
 
 The claim is unchanged.
 
-Read on 2026-11-03 (LIT-tmpasemk, NOTE-tmpby7i2). The paper denies
+Read on 2026-11-03 ([LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), [NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md)). The paper denies
 supervenience and says it needs neither downward nor circular causation
 (fn. 14). Its reason that the boundary resists redescription is that the
 boundary's properties "are macro-level ones" (p. 20), and it offers no
 intervention on the macro level that holds the base fixed. So the note
-stands: the premise is denied, not refuted (THEORY-tmp6xjgq).
+stands: the premise is denied, not refuted ([THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)).
