@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-03, not read. Registered at the owner's request as a source
-  of Jennings 2026 (LIT-tmpasemk). No reading was attempted.
+  of Jennings 2026 ([LIT-tmpasemk](LIT-tmpasemk.md)). No reading was attempted.
 title: 'Emergence in Context: A Treatise in Twenty-First Century Natural Philosophy'
 version: 1
 history:
@@ -29,7 +29,7 @@ keywords:
 implementations: []
 summary: >-
   Bishop et al. (2022), doi:10.1093/oso/9780192849786.001.0001. Registered unread as a source of
-  Jennings 2026. The book-length account of contextual emergence, with Bishop and Atmanspacher 2006 (LIT-tmpo8e51). Jennings quotes it for the constraint Bénard cells place on their fluid parcels ("these cells constrain or shape the states of motion accessible to fluid parcels", p. 41, at LIT-tmpasemk p. 20). The reading THEORY-tmp6xjgq needs, to say whether Jennings's boundary condition and causal reading go beyond its source.
+  Jennings 2026. The book-length account of contextual emergence, with Bishop and Atmanspacher 2006 ([LIT-tmpo8e51](LIT-tmpo8e51.md)). Jennings quotes it for the constraint Bénard cells place on their fluid parcels ("these cells constrain or shape the states of motion accessible to fluid parcels", p. 41, at [LIT-tmpasemk](LIT-tmpasemk.md) p. 20). The reading [THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md) needs, to say whether Jennings's boundary condition and causal reading go beyond its source.
 ---
 <!-- inactive-ok-file: THEORY-tmptunid THEORY-tmp6xjgq LIT-tmpo8e51 — Proposed or Deferred; the readings that rest on this work, and its companion, cited as open -->
 
@@ -43,4 +43,4 @@ Bishop, R. C., Silberstein, M., & Pexton, M. (2022). *Emergence in Context: A Tr
 
 ## Standing in the record
 
-The book-length account of contextual emergence, with Bishop and Atmanspacher 2006 (LIT-tmpo8e51). Jennings quotes it for the constraint Bénard cells place on their fluid parcels ("these cells constrain or shape the states of motion accessible to fluid parcels", p. 41, at LIT-tmpasemk p. 20). The reading THEORY-tmp6xjgq needs, to say whether Jennings's boundary condition and causal reading go beyond its source.
+The book-length account of contextual emergence, with Bishop and Atmanspacher 2006 ([LIT-tmpo8e51](LIT-tmpo8e51.md)). Jennings quotes it for the constraint Bénard cells place on their fluid parcels ("these cells constrain or shape the states of motion accessible to fluid parcels", p. 41, at [LIT-tmpasemk](LIT-tmpasemk.md) p. 20). The reading [THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md) needs, to say whether Jennings's boundary condition and causal reading go beyond its source.

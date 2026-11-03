@@ -54,7 +54,7 @@ Nothing new was measured. The paper assembles:
   necessary for interests that require ongoing maintenance" (p. 31), while
   reward history can drive selection without it (Awh, Belopolsky and
   Theeuwes 2012).
-- **A mechanism**, from Voigt 2022 (LIT-tmphwtm4): with equally valued options, dlPFC and
+- **A mechanism**, from Voigt 2022 ([LIT-tmphwtm4](../literature.d/LIT-tmphwtm4.md)): with equally valued options, dlPFC and
   precuneus raise attention on one, "allowing for both a decision and an
   updating of values in the memory system" (p. 25).
 

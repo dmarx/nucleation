@@ -22,13 +22,13 @@ source:
 - LIT-tmpo8e51
 - LIT-tmpszapu
 summary: >-
-  Jennings (2026), LIT-tmpasemk, §§4–6, read in NOTE-tmpby7i2, with
-  Bishop and Atmanspacher 2006 (LIT-tmpo8e51) and Bishop, Silberstein and
-  Pexton 2022 (LIT-tmpszapu), both unread, for contextual emergence. The boundary condition is the paper's own addition (fn. 15).
+  Jennings (2026), [LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), §§4–6, read in [NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md), with
+  Bishop and Atmanspacher 2006 ([LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)) and Bishop, Silberstein and
+  Pexton 2022 ([LIT-tmpszapu](../literature.d/LIT-tmpszapu.md)), both unread, for contextual emergence. The boundary condition is the paper's own addition (fn. 15).
   Proposed, with a sharp edge: the paper's reason that the boundary resists
   micro redescription is that its properties "are macro-level ones" (p.
   20), which is the point at issue, and its neural evidence fits weak
-  emergence too. Bears on CLAIM-334, whose supervenience premise it
+  emergence too. Bears on [CLAIM-334](../claims.d/CLAIM-334.md), whose supervenience premise it
   denies.
 ---
 <!-- inactive-ok-file: LIT-tmpo8e51 LIT-tmpszapu — Deferred; the source of contextual emergence, registered unread -->
@@ -37,8 +37,8 @@ summary: >-
 
 ## Source
 
-Jennings (2026), LIT-tmpasemk, pp. 15–21 and 27–29, and §7 (pp. 34–35);
-read in NOTE-tmpby7i2.
+Jennings (2026), [LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), pp. 15–21 and 27–29, and §7 (pp. 34–35);
+read in [NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md).
 
 ## What was actually shown
 
@@ -69,7 +69,7 @@ models produce the neural signatures.
 - **That the subject has new causal powers in Bishop and Atmanspacher's
   sense.** Their contextual emergence concerns stability conditions for a
   well-defined higher-level description; the causal reading is the paper's.
-- **That CLAIM-334 is wrong.** It denies its premise; it offers no
+- **That [CLAIM-334](../claims.d/CLAIM-334.md) is wrong.** It denies its premise; it offers no
   intervention on the macro level that holds the base fixed.
 - **That the subject is free.** That further step is the paper's and is not
   part of this reading.

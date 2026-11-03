@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-03, not read. Registered at the owner's request as a source
-  of Jennings 2026 (LIT-tmpasemk). No reading was attempted.
+  of Jennings 2026 ([LIT-tmpasemk](LIT-tmpasemk.md)). No reading was attempted.
 title: 'Where do our preferences come from? How hard decisions shape our preferences'
 version: 1
 history:
@@ -29,7 +29,7 @@ keywords:
 implementations: []
 summary: >-
   Voigt (2022), doi:10.3389/fnbeh.2022.956307. Registered unread as a source of
-  Jennings 2026. The model Jennings (LIT-tmpasemk, p. 25) takes her stalemate mechanism from: with equally valued options, dorsolateral prefrontal cortex and precuneus raise attention on one, allowing a decision and an update of its value, so that hard choices shape later preferences. THEORY-tmptunid rests on it at second hand. A Frontiers review, open access, so it can be read.
+  Jennings 2026. The model Jennings ([LIT-tmpasemk](LIT-tmpasemk.md), p. 25) takes her stalemate mechanism from: with equally valued options, dorsolateral prefrontal cortex and precuneus raise attention on one, allowing a decision and an update of its value, so that hard choices shape later preferences. [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md) rests on it at second hand. A Frontiers review, open access, so it can be read.
 ---
 <!-- inactive-ok-file: THEORY-tmptunid THEORY-tmp6xjgq LIT-tmpo8e51 — Proposed or Deferred; the readings that rest on this work, and its companion, cited as open -->
 
@@ -43,4 +43,4 @@ Voigt, K. (2022). Where do our preferences come from? How hard decisions shape o
 
 ## Standing in the record
 
-The model Jennings (LIT-tmpasemk, p. 25) takes her stalemate mechanism from: with equally valued options, dorsolateral prefrontal cortex and precuneus raise attention on one, allowing a decision and an update of its value, so that hard choices shape later preferences. THEORY-tmptunid rests on it at second hand. A Frontiers review, open access, so it can be read.
+The model Jennings ([LIT-tmpasemk](LIT-tmpasemk.md), p. 25) takes her stalemate mechanism from: with equally valued options, dorsolateral prefrontal cortex and precuneus raise attention on one, allowing a decision and an update of its value, so that hard choices shape later preferences. [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md) rests on it at second hand. A Frontiers review, open access, so it can be read.
