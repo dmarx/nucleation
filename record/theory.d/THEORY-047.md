@@ -138,14 +138,14 @@ control, compared on maintenance and well-being.
 
 ## Note of 2026-11-03: where the history would have to show
 
-CASE-tmph9iwi is a construction in which a capacity installed from outside
+[CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md) is a construction in which a capacity installed from outside
 and then self-maintained is, in itself, identical to one the agent formed: no
 knockout after formation tells them apart. If this theory is right, the
 history of acquisition shapes autonomy anyway, so the difference has to lie
 in something the construction leaves out, such as how the capacity is
-integrated with the agent's other values and demands (THEORY-054). That
+integrated with the agent's other values and demands ([THEORY-054](THEORY-054.md)). That
 sharpens what a test of the theory should measure. Not the regulation itself,
-but its relations to the rest. Deci et al. 1994 (LIT-tmpfyba0), the primary
+but its relations to the rest. Deci et al. 1994 ([LIT-tmpfyba0](../literature.d/LIT-tmpfyba0.md)), the primary
 study this theory holds second-hand, is registered.
 
 The status is unchanged.

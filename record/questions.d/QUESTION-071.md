@@ -243,16 +243,16 @@ The question stays open.
 
 ## Note of 2026-11-03: a construction for part 1, and why it matters
 
-CASE-tmph9iwi builds part 1 for self-formation. An agent whose capacity was
+[CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md) builds part 1 for self-formation. An agent whose capacity was
 installed by a single outside pulse and then maintained by its own cycle is,
 after formation, the same organization as one that formed the capacity itself,
 under every knockout of production or maintenance. Only a knockout during
 formation separates them. So for part 2, what history must record is whether
 the producing process that formed the capacity was the agent's own while it
-ran. That is the historical condition THEORY-040 and THEORY-1118 say
-structural accounts need, the vulnerability CLAIM-404 and CASE-123 describe
+ran. That is the historical condition [THEORY-040](../theory.d/THEORY-040.md) and [THEORY-1118](../theory.d/THEORY-1118.md) say
+structural accounts need, the vulnerability [CLAIM-404](../claims.d/CLAIM-404.md) and [CASE-123](../cases.d/CASE-123.md) describe
 for reflexive control, and the place where self-determination theory's
-history of internalization (THEORY-047) would have to leave a trace in the
+history of internalization ([THEORY-047](../theory.d/THEORY-047.md)) would have to leave a trace in the
 capacity's relations to the rest of the organization, since it leaves none in
 the capacity.
 

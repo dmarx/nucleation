@@ -132,43 +132,43 @@ several entries on which something does.
 
 - **Responsibility and freedom.** On structural accounts of free agency, a
   condition stated only in present psychological structure is met by an agent
-  whose structure a manipulator installed (THEORY-040; McKenna and Coates,
-  THEORY-1118). The "pulse" agent here is that agent in miniature: installed
+  whose structure a manipulator installed ([THEORY-040](../theory.d/THEORY-040.md); McKenna and Coates,
+  [THEORY-1118](../theory.d/THEORY-1118.md)). The "pulse" agent here is that agent in miniature: installed
   once, then self-maintaining, indistinguishable afterwards. So the
   construction is a case for the historical condition those entries say such
   accounts need. Fischer and Ravizza's ownership is historical, by taking
-  responsibility (THEORY-121). Kane's ultimate responsibility is the strongest
-  such condition (CLAIM-022's note of 2026-11-02). And Pereboom's four-case
-  argument (THEORY-328) is the warning that a historical condition may not
+  responsibility ([THEORY-121](../theory.d/THEORY-121.md)). Kane's ultimate responsibility is the strongest
+  such condition ([CLAIM-022](../claims.d/CLAIM-022.md)'s note of 2026-11-02). And Pereboom's four-case
+  argument ([THEORY-328](../theory.d/THEORY-328.md)) is the warning that a historical condition may not
   separate the installed agent from an ordinarily caused one either.
 - **Whose the will is.** Explaining efficacy does not settle whose the will is
-  (CLAIM-022), and what makes a will-organization the agent's own is
-  QUESTION-011. Both hold only with a historical condition, and this
+  ([CLAIM-022](../claims.d/CLAIM-022.md)), and what makes a will-organization the agent's own is
+  [QUESTION-011](../questions.d/QUESTION-011.md). Both hold only with a historical condition, and this
   construction shows the present cannot supply one.
 - **Reflexive control.** An outside pulse that leaves the agent maintaining
-  what was installed is CLAIM-404's informational route and CASE-123's
-  one-time-perturbation variant, interpretive capture (TERM-066) that needs no
+  what was installed is [CLAIM-404](../claims.d/CLAIM-404.md)'s informational route and [CASE-123](CASE-123.md)'s
+  one-time-perturbation variant, interpretive capture ([TERM-066](../terms.d/TERM-066.md)) that needs no
   continued control. This is the dynamics that makes it undetectable after the
-  fact. CLAIM-tmpxpdqi's domination clause, another's capacity to govern one's
+  fact. [CLAIM-tmpxpdqi](../claims.d/CLAIM-tmpxpdqi.md)'s domination clause, another's capacity to govern one's
   governing relations whether used or not, is the standing form of the same
   vulnerability.
 - **Autonomy as psychology measures it.** Self-determination theory holds that
   how a regulation was taken in, under controlling or supportive conditions,
-  shapes how autonomous acting on it is (THEORY-047). If that is right, an
+  shapes how autonomous acting on it is ([THEORY-047](../theory.d/THEORY-047.md)). If that is right, an
   outside-installed and a self-formed capacity must differ somewhere this model
   lacks, for instance in how the capacity is integrated with the agent's other
-  demands (THEORY-054). The construction locates where to look: not in the
+  demands ([THEORY-054](../theory.d/THEORY-054.md)). The construction locates where to look: not in the
   capacity, which is identical, but in its relations to the rest.
-- **Endorsement in advance.** The voluntary delegation of CASE-128 differs from
+- **Endorsement in advance.** The voluntary delegation of [CASE-128](CASE-128.md) differs from
   an imposed restriction only in how it came about. The record already counts
   that difference as one of self-governance.
 - **The counterweight.** An objective that originates outside a learning system
-  can still become its goal (CLAIM-356). Exogenous origin does not by itself
+  can still become its goal ([CLAIM-356](../claims.d/CLAIM-356.md)). Exogenous origin does not by itself
   disqualify; the entries above say what more, on each view, would.
 - **Persistence.** For collectives the record already holds that what persists
-  is what is causally transmitted, not what resembles (CLAIM-329,
-  QUESTION-118). Whether a self-formed capacity continues the agent's will is
-  the same question asked of a capacity (QUESTION-364).
+  is what is causally transmitted, not what resembles ([CLAIM-329](../claims.d/CLAIM-329.md),
+  [QUESTION-118](../questions.d/QUESTION-118.md)). Whether a self-formed capacity continues the agent's will is
+  the same question asked of a capacity ([QUESTION-364](../questions.d/QUESTION-364.md)).
 
 It does not show a new variable coming to be. S and G are in the model from the
 start, and formation raises them from zero, so this is a bistable system pushed
