@@ -23,11 +23,12 @@ summary: >-
   Jennings (2026), [LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), §6, read in [NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md). The
   operational half of the paper: what attention is, how it is told from
   filtering, and how it forms interests. The stalemate mechanism is taken
-  from Voigt 2022, which the record does not hold. Proposed because the
+  from Voigt 2022 (LIT-tmphwtm4), registered unread. Proposed because the
   criterion is inferred, not tested, and the paper reports no data. It does
   not say the subject is contextually emergent ([THEORY-tmp6xjgq](THEORY-tmp6xjgq.md)) or that
   attention is the source of a free will.
 ---
+<!-- inactive-ok-file: LIT-tmphwtm4 — Deferred; sources registered unread on 2026-11-03 -->
 <!-- inactive-ok-file: QUESTION-071 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: THEORY-tmp6xjgq — Proposed; the paper's metaphysical half -->
 
@@ -53,7 +54,7 @@ Nothing new was measured. The paper assembles:
   necessary for interests that require ongoing maintenance" (p. 31), while
   reward history can drive selection without it (Awh, Belopolsky and
   Theeuwes 2012).
-- **A mechanism**, from Voigt 2022: with equally valued options, dlPFC and
+- **A mechanism**, from Voigt 2022 (LIT-tmphwtm4): with equally valued options, dlPFC and
   precuneus raise attention on one, "allowing for both a decision and an
   updating of values in the memory system" (p. 25).
 
