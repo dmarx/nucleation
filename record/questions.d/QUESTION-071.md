@@ -262,12 +262,12 @@ The question stays open.
 ## Note of 2026-11-03 (later): the readings
 
 - **The path test, confirmed and bounded.** Heymann and Vanden-Eijnden
-  (NOTE-tmp6wm7j) confirm the note of 2026-11-02 for gradient drift with
+  ([NOTE-tmp6wm7j](../notes.d/NOTE-tmp6wm7j.md)) confirm the note of 2026-11-02 for gradient drift with
   identity noise, and the degenerate-noise caveat. Gradient is sufficient, not
   necessary: in the Maier–Stein model the noise path stays the reversed
   relaxation path up to β = 4, though the drift is gradient only at β = 1. And
   the path evidence is a small-noise statement; a controller can compute and
   follow the noise path.
 - **The same problem for one act.** On Sánchez-Cañizares's irruption model
-  (NOTE-tmpbmoj1, p. 15), a change of mind-set parameter cannot be told from one
+  ([NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md), p. 15), a change of mind-set parameter cannot be told from one
   set by a stimulus, by internal dynamics or by another party.

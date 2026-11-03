@@ -18,12 +18,12 @@ date: '2026-11-03'
 source:
 - LIT-tmphwtm4
 summary: >-
-  Voigt (2022), LIT-tmphwtm4, an Opinion article read in NOTE-tmpic1x7.
+  Voigt (2022), [LIT-tmphwtm4](../literature.d/LIT-tmphwtm4.md), an Opinion article read in [NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md).
   The model is the author's "tentative" synthesis, resting mainly on
   Voigt et al. 2019 (not held) in which fixation duration and dlPFC and
   precuneus activity predicted later preference change; the causal role
   of gaze is imported from other studies. Proposed. The sharp edge for
-  its use by Jennings (THEORY-tmptunid): the attentional step is bottom-up
+  its use by Jennings ([THEORY-tmptunid](THEORY-tmptunid.md)): the attentional step is bottom-up
   capture by salience, not top-down prefrontal feedback.
 ---
 <!-- inactive-ok-file: THEORY-tmptunid — Proposed; the reading of Jennings 2026 that rests on this model -->
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Voigt (2022), LIT-tmphwtm4, pp. 1–4; read in NOTE-tmpic1x7.
+Voigt (2022), [LIT-tmphwtm4](../literature.d/LIT-tmphwtm4.md), pp. 1–4; read in [NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md).
 
 ## What was actually shown
 
@@ -64,7 +64,7 @@ purely post-decisional, or unrelated to fixation once choice is controlled.
 - **That the tie is broken top-down.** The model's attentional step is
   bottom-up capture by the salient item; dlPFC holds what precuneus
   selected. It gives no support to dlPFC feedback as a marker of a
-  non-salience-driven "fluid interest" (THEORY-tmptunid).
+  non-salience-driven "fluid interest" ([THEORY-tmptunid](THEORY-tmptunid.md)).
 - **That an agent or subject resolves the tie.** Voigt's conclusion is that
   preferences "might be emergent consequences from the particulars of the
   decision scenario itself and brain networks" (p. 4).

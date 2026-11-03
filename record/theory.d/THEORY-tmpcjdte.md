@@ -22,7 +22,7 @@ date: '2026-11-03'
 source:
 - LIT-tmp99221
 summary: >-
-  Niemiec, Ryan and Deci (2009), LIT-tmp99221, read in NOTE-tmpmgw5i from
+  Niemiec, Ryan and Deci (2009), [LIT-tmp99221](../literature.d/LIT-tmp99221.md), read in [NOTE-tmpmgw5i](../notes.d/NOTE-tmpmgw5i.md) from
   the PMC author manuscript. N = 147 at two years post-college; latent
   SEM and residualized-change models, all self-report. The intrinsic
   result and the extrinsic null are as reported; the null holds only with
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Niemiec, Ryan and Deci (2009), LIT-tmp99221, read in NOTE-tmpmgw5i from the
+Niemiec, Ryan and Deci (2009), [LIT-tmp99221](../literature.d/LIT-tmp99221.md), read in [NOTE-tmpmgw5i](../notes.d/NOTE-tmpmgw5i.md) from the
 PubMed Central author manuscript PMC2736104.
 
 ## What was actually shown
@@ -76,5 +76,5 @@ the more strongly related intrinsic attainment as one explanation.
 - **That intrinsic aspirations are identified independently of the needs.**
   They are labelled intrinsic because they are taken to satisfy the needs,
   so the mediation tests a link the classification presumes
-  (QUESTION-tmpee04a).
+  ([QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md)).
 - **Anything about need frustration or psychopathology.**

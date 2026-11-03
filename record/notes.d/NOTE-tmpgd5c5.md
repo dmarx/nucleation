@@ -142,7 +142,7 @@ choices independently from one's reference group" (p. 97).
 
 ## Connections
 
-- **Iyengar and Lepper 1999** (LIT-tmp0rsz4) is the paper's chief target.
+- **Iyengar and Lepper 1999** ([LIT-tmp0rsz4](../literature.d/LIT-tmp0rsz4.md)) is the paper's chief target.
   It reports them as finding that experimenter-imposed choice undermined
   intrinsic motivation in both Asian and Anglo American children, and that
   choice by trusted others "uniquely enhanced intrinsic motivation for the
@@ -150,24 +150,24 @@ choices independently from one's reference group" (p. 97).
   is Chirkov et al.'s account; the original is not held.
 - **Oishi 2000** and **Miller 1997** are criticized for measuring autonomy
   as individualist values or as freedom from all influence (pp. 97–98).
-- **Sheldon et al. 2001** (LIT-tmpd3l9z), cited for event autonomy
+- **Sheldon et al. 2001** ([LIT-tmpd3l9z](../literature.d/LIT-tmpd3l9z.md)), cited for event autonomy
   predicting well-being in Korea and the USA (p. 99).
-- Reis et al. 2000 (LIT-tmpdbw3y) and Sheldon, Ryan and Reis 1996 are
+- Reis et al. 2000 ([LIT-tmpdbw3y](../literature.d/LIT-tmpdbw3y.md)) and Sheldon, Ryan and Reis 1996 are
   cited as the only diary studies of the needs, both American (p. 107).
 
 ## Bearing on the record
 
-- **NOTE-441** holds this study second-hand (p. 1577 of Ryan and Deci
+- **[NOTE-441](NOTE-441.md)** holds this study second-hand (p. 1577 of Ryan and Deci
   2006; its C8), as "Autonomous reasons predicted well-being with no moderation by culture
   in Russia, the United States, Turkey and South Korea". The primary text
   bears that out. Two qualifications for anyone leaning on it: the samples
   are 94 to 195 students per country, and "no moderation" is twelve
   non-significant interaction terms, not a bound on their size.
-- **THEORY-047 and THEORY-054** (internalization and regulation): primary
+- **[THEORY-047](../theory.d/THEORY-047.md) and [THEORY-054](../theory.d/THEORY-054.md)** (internalization and regulation): primary
   evidence that the internalization continuum, scored as a relative
   autonomy index, predicts well-being outside the US, for practices the
   participants did not choose.
-- **QUESTION-tmpee04a.** The paper is about whether autonomy's link to
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** The paper is about whether autonomy's link to
   well-being is universal, not about what makes autonomy a need. Its
   argument for need-hood is the universality of the link, which is one of
   the nine criteria; it still uses well-being as the criterion, and the
@@ -177,7 +177,7 @@ choices independently from one's reference group" (p. 97).
   individualism is true by SDT's definition; what is empirical is that the
   so-defined autonomy predicts well-being for collectivist practices too.
   The paper tests the second; the first is argued.
-- Filed from it: THEORY-tmphu42d (Proposed).
+- Filed from it: [THEORY-tmphu42d](../theory.d/THEORY-tmphu42d.md) (Proposed).
 - **No instruction for machine-learning practice.**
 
 ## Limitations

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpeeo19), from the University of
+  read in full 2026-11-03 ([NOTE-tmpeeo19](../notes.d/NOTE-tmpeeo19.md)), from the University of
   Hertfordshire archive copy; worth reading as the first definition of
   empowerment, the capacity of the channel from an agent's actions to
   its own later sensor, which counts only the control the agent can
-  perceive, a legibility-limited measure of reach for CLAIM-354.
+  perceive, a legibility-limited measure of reach for [CLAIM-354](../claims.d/CLAIM-354.md).
 title: 'Empowerment: A Universal Agent-Centric Measure of Control'
 version: 2
 history:
@@ -57,7 +57,7 @@ summary: >-
 
 Klyubin, A., Polani, D., Nehaniv, C. (2005). Empowerment: A Universal Agent-Centric Measure of Control. *2005 IEEE Congress on Evolutionary Computation, 1, 128-135*. doi:10.1109/CEC.2005.1554676.
 
-Read in full on 2026-11-03 (NOTE-tmpeeo19; THEORY-tmpuw92f).
+Read in full on 2026-11-03 ([NOTE-tmpeeo19](../notes.d/NOTE-tmpeeo19.md); [THEORY-tmpuw92f](../theory.d/THEORY-tmpuw92f.md)).
 
 ## Key takeaways
 

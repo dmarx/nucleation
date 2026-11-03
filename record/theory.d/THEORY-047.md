@@ -154,11 +154,11 @@ The status is unchanged.
 ## Note of 2026-11-03 (later): the readings
 
 Deci et al. 1994 is Unavailable, so the experiment is still held second-hand.
-Ryan et al. 2022 (NOTE-tmp1eol1) report Steingut et al. 2017, 23 rationale
+Ryan et al. 2022 ([NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md)) report Steingut et al. 2017, 23 rationale
 experiments with perceived autonomy at r = .20: the nearest meta-analytic
 evidence, but it measures present endorsement, not the history against the
-structure that CASE-tmph9iwi's note asks a test to separate. Chirkov et al. 2003
-(NOTE-tmpgd5c5) hold internalization predicting well-being across four
+structure that [CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md)'s note asks a test to separate. Chirkov et al. 2003
+([NOTE-tmpgd5c5](../notes.d/NOTE-tmpgd5c5.md)) hold internalization predicting well-being across four
 cultures, correlationally.
 
 The status is unchanged.

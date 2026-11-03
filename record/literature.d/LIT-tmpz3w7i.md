@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-03 (NOTE-tmpsrba2), from the authors' PsyArXiv preprint;
+  read 2026-11-03 ([NOTE-tmpsrba2](../notes.d/NOTE-tmpsrba2.md)), from the authors' PsyArXiv preprint;
   worth reading as a compact, simulation-backed guide to how spectral
   measures of field potentials are misread: absent oscillations, shifted
   peaks, aperiodic 1/f activity, bursts, non-sinusoidal shape,
@@ -56,9 +56,9 @@ Donoghue, T., Schaworonkow, N., Voytek, B. (2021). Methodological considerations
 
 ## Key takeaways
 
-- Non-sinusoidal waveforms produce significant phase-amplitude coupling with no second rhythm; coupling confined to exact harmonic multiples is the warning sign (THEORY-tmp66yzx).
-- Aperiodic 1/f activity has power at all frequencies and varies with state, so band power and 1/f structure are not by themselves evidence of oscillations or of any particular organization (THEORY-tmpqlync).
-- Read in NOTE-tmpsrba2.
+- Non-sinusoidal waveforms produce significant phase-amplitude coupling with no second rhythm; coupling confined to exact harmonic multiples is the warning sign ([THEORY-tmp66yzx](../theory.d/THEORY-tmp66yzx.md)).
+- Aperiodic 1/f activity has power at all frequencies and varies with state, so band power and 1/f structure are not by themselves evidence of oscillations or of any particular organization ([THEORY-tmpqlync](../theory.d/THEORY-tmpqlync.md)).
+- Read in [NOTE-tmpsrba2](../notes.d/NOTE-tmpsrba2.md).
 
 ## Standing in the record
 

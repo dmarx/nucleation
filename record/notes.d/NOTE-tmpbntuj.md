@@ -165,11 +165,11 @@ autonomy support's is .007 (Table 2).
 
 - Updates Slemp et al. 2018 (leader autonomy support), Ng et al. 2012
   (health care) and Vasconcellos et al. 2020 (PE) (pp. 2–3).
-- Cites Ntoumanis et al. 2021 (LIT-tmpa0lm5) among "experimental work
+- Cites Ntoumanis et al. 2021 ([LIT-tmpa0lm5](../literature.d/LIT-tmpa0lm5.md)) among "experimental work
   demonstrating that need-supportive interpersonal behaviors yield
   positive motivation and well-being-based outcomes" (p. 20).
-- Chirkov et al. 2003 (LIT-tmporplv) and Iyengar and Lepper 1999
-  (LIT-tmp0rsz4) frame the culture question (p. 5).
+- Chirkov et al. 2003 ([LIT-tmporplv](../literature.d/LIT-tmporplv.md)) and Iyengar and Lepper 1999
+  ([LIT-tmp0rsz4](../literature.d/LIT-tmp0rsz4.md)) frame the culture question (p. 5).
 
 ## Bearing on the record
 
@@ -179,20 +179,20 @@ autonomy support's is .007 (Table 2).
   need-supportive behaviors as the antecedent was based purely on
   theoretical grounds" and that reverse causation could not be ruled out
   (p. 20). Both sides are mostly the same person's report.
-- **QUESTION-tmpee04a.** The three-way intercorrelation of the supports
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** The three-way intercorrelation of the supports
   (~.7) and of the satisfactions (.61–.72) is a discriminant-validity
   question the record's question inherits: if the needs are distinct, their
   measures and their antecedents are hard to tell apart in the data. The
   specificity in the joint models (relatedness support → relatedness
   satisfaction) is the best evidence here that they are not one factor.
-- **THEORY-052.** Support correlates with frustration at −.20 to −.55, on
+- **[THEORY-052](../theory.d/THEORY-052.md).** Support correlates with frustration at −.20 to −.55, on
   k = 8 for two of the three supports. Nothing about psychopathology,
   direction, or onset; the promote_when is not touched.
-- **THEORY-047 / internalization.** Support's near-zero relation to
+- **[THEORY-047](../theory.d/THEORY-047.md) / internalization.** Support's near-zero relation to
   controlled motivation (.01–.10) and strong one to autonomous motivation
   (.40–.44) is consistent with SDT's claim that support fosters
   internalization rather than less regulation.
-- Filed from it: THEORY-tmp4q289 (Active).
+- Filed from it: [THEORY-tmp4q289](../theory.d/THEORY-tmp4q289.md) (Active).
 - **No instruction for machine-learning practice.** Its practical
   recommendations concern teaching, management and health care.
 

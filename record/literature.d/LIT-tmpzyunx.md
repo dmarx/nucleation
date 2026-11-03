@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpr36wg), from the publisher's typeset copy
+  read in full 2026-11-03 ([NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md)), from the publisher's typeset copy
   in the ULB repository DI-fusion; worth reading as the source of the
   BPNSFS, the standard need-frustration scale, and for its test that need
   satisfaction helps regardless of how much a person values or desires the
@@ -61,7 +61,7 @@ Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Van der Kaap-De
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpr36wg). THEORY-tmpr67qi (Active) and THEORY-tmp4qi8l (Proposed) are filed from it.
+Read in full on 2026-11-03 ([NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md)). [THEORY-tmpr67qi](../theory.d/THEORY-tmpr67qi.md) (Active) and [THEORY-tmp4qi8l](../theory.d/THEORY-tmp4qi8l.md) (Proposed) are filed from it.
 
 ## Standing in the record
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpbntuj), from the CC BY Online First PDF
+  read in full 2026-11-03 ([NOTE-tmpbntuj](../notes.d/NOTE-tmpbntuj.md)), from the CC BY Online First PDF
   as posted on selfdeterminationtheory.org; supplementary tables not read.
   Worth reading as the largest synthesis of SDT's contextual claim, 881
   samples; its "effects" are correlations, mostly cross-sectional, and its
@@ -59,7 +59,7 @@ Slemp, G. R., Field, J. G., Ryan, R. M., Forner, V. W., Van den Broeck, A., Lewi
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpbntuj); supplementary tables not read. THEORY-tmp4q289, Active, is filed from it.
+Read in full on 2026-11-03 ([NOTE-tmpbntuj](../notes.d/NOTE-tmpbntuj.md)); supplementary tables not read. [THEORY-tmp4q289](../theory.d/THEORY-tmp4q289.md), Active, is filed from it.
 
 ## Standing in the record
 

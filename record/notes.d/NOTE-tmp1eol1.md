@@ -218,54 +218,54 @@ manuscript's.
 
 It is the record's first second-order look at SDT's evidence. Of the
 record's own SDT readings, it re-reports Deci, Koestner and Ryan 1999
-(LIT-557) with the same numbers as NOTE-438, and it cites Ryan, Mims and
-Koestner 1983 (LIT-tmpeih61) and Deci and Ryan 1985 (LIT-tmp7s2t8) for the
+([LIT-557](../literature.d/LIT-557.md)) with the same numbers as [NOTE-438](NOTE-438.md), and it cites Ryan, Mims and
+Koestner 1983 ([LIT-tmpeih61](../literature.d/LIT-tmpeih61.md)) and Deci and Ryan 1985 ([LIT-tmp7s2t8](../literature.d/LIT-tmp7s2t8.md)) for the
 reward taxonomy and COT. It does not cite Cameron, Banko and Pierce 2001
-(LIT-562): the reward dispute is told through Cameron and Pierce 1994,
+([LIT-562](../literature.d/LIT-562.md)): the reward dispute is told through Cameron and Pierce 1994,
 Eisenberger and Cameron 1996 and Eisenberger et al. 1999, the last of
 which, it says, "did not dispute the errors discovered".
 
 ## Bearing on the record
 
-- **THEORY-054: confirms what A2 said of Howard et al. 2017, and adds a
+- **[THEORY-054](../theory.d/THEORY-054.md): confirms what A2 said of Howard et al. 2017, and adds a
   second source.** The review reports that Howard et al. did not
   differentiate integrated from identified regulation, partly because too
   few studies measured integration, and that Van den Broeck et al. (2021)
-  found the same at work. So THEORY-054's first promote_when clause, a
+  found the same at work. So [THEORY-054](../theory.d/THEORY-054.md)'s first promote_when clause, a
   measure of integration separable from identification, is unmet in the
   meta-analytic literature as of 2021. This is second-hand; Howard et al.
-  (LIT-tmpwslkc) is not read. Mossman et al.'s r = .37 for integrated
+  ([LIT-tmpwslkc](../literature.d/LIT-tmpwslkc.md)) is not read. Mossman et al.'s r = .37 for integrated
   regulation with coach autonomy support is not evidence of separability,
   since it is no different in kind from identified (.31).
-- **THEORY-052: the review says the needed meta-analysis does not exist.**
+- **[THEORY-052](../theory.d/THEORY-052.md): the review says the needed meta-analysis does not exist.**
   "The proposition that frustration of these needs is associated with
   ill-being has yet to be meta-analytically investigated" (BPNT Summary).
-  THEORY-052 is about frustration as a transdiagnostic process; the
+  [THEORY-052](../theory.d/THEORY-052.md) is about frustration as a transdiagnostic process; the
   review's satisfaction–well-being correlations do not bear on its
   promote_when, which asks for temporal precedence measured without
   shared self-report content.
-- **QUESTION-tmpee04a: the review's evidence is of the kind the question
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md): the review's evidence is of the kind the question
   says cannot settle it.** Needs are supported by correlations of need
   satisfaction with well-being and affect (Stanley et al.; Tang et al.;
   Yu et al.). Van den Broeck et al.'s doubt that needs predicting positive
   more than negative outcomes are "truly basic" is the nearest the review
   comes to the question, and the authors answer it with frustration
   measures, which have no meta-analysis.
-- **THEORY-049 and THEORY-154.** The review states CET's third
+- **[THEORY-049](../theory.d/THEORY-049.md) and [THEORY-154](../theory.d/THEORY-154.md).** The review states CET's third
   proposition as a mediation claim, that "experiences of autonomy versus
   control, and of competence versus lack of it, mediate the relations
   between external events and their … effects", and reports no
-  meta-analytic test of that mediation. THEORY-049's promote_when stands
-  unmet. The review does not engage LIT-562.
-- **THEORY-047.** Steingut et al.'s rationale meta-analysis (23
+  meta-analytic test of that mediation. [THEORY-049](../theory.d/THEORY-049.md)'s promote_when stands
+  unmet. The review does not engage [LIT-562](../literature.d/LIT-562.md).
+- **[THEORY-047](../theory.d/THEORY-047.md).** Steingut et al.'s rationale meta-analysis (23
   experiments) is the nearest meta-analytic evidence to Deci et al. 1994
-  (LIT-tmpfyba0): a rationale raises perceived autonomy (.20) and task
+  ([LIT-tmpfyba0](../literature.d/LIT-tmpfyba0.md)): a rationale raises perceived autonomy (.20) and task
   value (.16), and is "most effective" when delivered autonomously. It
   measures present endorsement, not the history-versus-structure contrast
-  THEORY-047's promote_when asks for.
-- **RMT, the registration's target for LIT-tmpjpszp and LIT-tmpek1lj.**
+  [THEORY-047](../theory.d/THEORY-047.md)'s promote_when asks for.
+- **RMT, the registration's target for [LIT-tmpjpszp](../literature.d/LIT-tmpjpszp.md) and [LIT-tmpek1lj](../literature.d/LIT-tmpek1lj.md).**
   The review confirms A1's table: no RMT meta-analysis exists.
-- **QUESTION-066.** No meta-analysis in the review tests persistence after
+- **[QUESTION-066](../questions.d/QUESTION-066.md).** No meta-analysis in the review tests persistence after
   support is removed with valuation held fixed; Howard et al. 2021's
   persistence outcomes are cross-sectional.
 - **No instruction for machine-learning practice.**

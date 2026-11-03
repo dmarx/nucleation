@@ -10,8 +10,8 @@ source:
 - LIT-tmpd2pdj
 - LIT-tmp3h572
 summary: >-
-  Klyubin, Polani and Nehaniv (2005, 2008), LIT-tmpd2pdj and LIT-tmp3h572,
-  read in full in NOTE-tmpeeo19 and NOTE-tmpgoetm. Active as definitions
+  Klyubin, Polani and Nehaniv (2005, 2008), [LIT-tmpd2pdj](../literature.d/LIT-tmpd2pdj.md) and [LIT-tmp3h572](../literature.d/LIT-tmp3h572.md),
+  read in full in [NOTE-tmpeeo19](../notes.d/NOTE-tmpeeo19.md) and [NOTE-tmpgoetm](../notes.d/NOTE-tmpgoetm.md). Active as definitions
   and one inequality, re-derived. It does not say empowerment is what
   organisms maximize, which the authors offer as a hypothesis in a weak
   form only, nor that it prices control cost or viability.
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Klyubin, Polani and Nehaniv (2005), LIT-tmpd2pdj, eq. 3; (2008),
-LIT-tmp3h572, eqs. 1–3. Read in NOTE-tmpeeo19 and NOTE-tmpgoetm.
+Klyubin, Polani and Nehaniv (2005), [LIT-tmpd2pdj](../literature.d/LIT-tmpd2pdj.md), eq. 3; (2008),
+[LIT-tmp3h572](../literature.d/LIT-tmp3h572.md), eqs. 1–3. Read in [NOTE-tmpeeo19](../notes.d/NOTE-tmpeeo19.md) and [NOTE-tmpgoetm](../notes.d/NOTE-tmpgoetm.md).
 
 ## What was actually shown
 
@@ -45,6 +45,6 @@ possibly know" (2008, p. 4).
 ## What this does not say
 
 - That a high-empowerment state is reachable or sustainable: in the
-  cart-pole the maxima are not (THEORY-tmpoy5a7).
+  cart-pole the maxima are not ([THEORY-tmpoy5a7](THEORY-tmpoy5a7.md)).
 - That it measures cost, viability or closed-loop control.
 - That it is a universal drive in organisms.

@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpqk41c), from the open-access PDF in White
+  read in full 2026-11-03 ([NOTE-tmpqk41c](../notes.d/NOTE-tmpqk41c.md)), from the open-access PDF in White
   Rose eprints; worth reading as the experimental evidence that manipulating
   need support moves need satisfaction, autonomous motivation and health
-  behaviour. It does not give what THEORY-052's promote_when asks: no
+  behaviour. It does not give what [THEORY-052](../theory.d/THEORY-052.md)'s promote_when asks: no
   need-frustration outcome, no mediation test, and a psychological-health
   effect that is gone at follow-up.
 title: 'A meta-analysis of self-determination theory-informed intervention studies in the health domain: effects on motivation, health behavior, physical, and psychological health'
@@ -59,7 +59,7 @@ Ntoumanis, N., Ng, J. Y., Prestwich, A., Quested, E., Hancox, J. E., Thøgersen-
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpqk41c). THEORY-tmpdzmer, Active, is filed from it.
+Read in full on 2026-11-03 ([NOTE-tmpqk41c](../notes.d/NOTE-tmpqk41c.md)). [THEORY-tmpdzmer](../theory.d/THEORY-tmpdzmer.md), Active, is filed from it.
 
 ## Standing in the record
 

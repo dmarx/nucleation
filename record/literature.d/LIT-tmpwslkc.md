@@ -63,7 +63,7 @@ Howard, J. L., Gagné, M., Bureau, J. S. (2017). Testing a continuum structure o
 ## Key takeaways
 
 *Not read.* A lawful copy was located and not fetched (see the status note).
-Ryan et al. 2022 (LIT-tmpd9u4s) report its main finding second-hand.
+Ryan et al. 2022 ([LIT-tmpd9u4s](LIT-tmpd9u4s.md)) report its main finding second-hand.
 
 ## Standing in the record
 

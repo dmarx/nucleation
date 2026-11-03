@@ -68,6 +68,6 @@ and it is told apart from the observer's learning only by intervening
 ## Note of 2026-11-03: Voigt, read
 
 The causal update Jennings takes from Voigt is a correlational finding with a
-causal role imported for gaze, not an intervention (NOTE-tmpic1x7). So the
+causal role imported for gaze, not an intervention ([NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md)). So the
 structure this claim says self-formation needs is proposed there, not shown.
-CASE-tmph9iwi builds it.
+[CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md) builds it.

@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-03 (NOTE-tmp6wm7j, Skimmed: §§1, 2.1–2.2, 4.1
+  read in part 2026-11-03 ([NOTE-tmp6wm7j](../notes.d/NOTE-tmp6wm7j.md), Skimmed: §§1, 2.1–2.2, 4.1
   and 5), from the published text on a Peking University course page;
   worth reading as the standard computation of most likely transition
-  paths in small-noise systems, which confirms QUESTION-071's note of
+  paths in small-noise systems, which confirms [QUESTION-071](../questions.d/QUESTION-071.md)'s note of
   2026-11-02 for gradient drift with identity noise and shows, in the
   Maier–Stein model, that the noise path stays the reversed relaxation
   path until the drift is far from gradient.
@@ -63,7 +63,7 @@ summary: >-
 
 Heymann, M., Vanden-Eijnden, E. (2008). The geometric minimum action method: A least action principle on the space of curves. *Communications on Pure and Applied Mathematics, 61(8), 1052-1117*. doi:10.1002/cpa.20238.
 
-Read in part on 2026-11-03 (NOTE-tmp6wm7j, Skimmed; THEORY-tmp544fr).
+Read in part on 2026-11-03 ([NOTE-tmp6wm7j](../notes.d/NOTE-tmp6wm7j.md), Skimmed; [THEORY-tmp544fr](../theory.d/THEORY-tmp544fr.md)).
 
 ## Key takeaways
 

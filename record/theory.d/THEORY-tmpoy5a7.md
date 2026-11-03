@@ -18,8 +18,8 @@ date: '2026-11-03'
 source:
 - LIT-tmp3h572
 summary: >-
-  Klyubin, Polani and Nehaniv (2008), LIT-tmp3h572, pp. 4–7, read in
-  NOTE-tmpgoetm. A single simulation of one model with two actions,
+  Klyubin, Polani and Nehaniv (2008), [LIT-tmp3h572](../literature.d/LIT-tmp3h572.md), pp. 4–7, read in
+  [NOTE-tmpgoetm](../notes.d/NOTE-tmpgoetm.md). A single simulation of one model with two actions,
   computed by the authors; the robustness of the off-centre maxima is
   stated, not shown. Proposed for want of a reproduction and a second
   system.
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Klyubin et al. (2008), LIT-tmp3h572; read in NOTE-tmpgoetm.
+Klyubin et al. (2008), [LIT-tmp3h572](../literature.d/LIT-tmp3h572.md); read in [NOTE-tmpgoetm](../notes.d/NOTE-tmpgoetm.md).
 
 ## What was actually shown
 
@@ -50,5 +50,5 @@ Klyubin et al. (2008), LIT-tmp3h572; read in NOTE-tmpgoetm.
 
 - That empowerment maximization generally finds the intuitive task.
 - That upright is the empowerment optimum: it is near, not at, the maximum.
-- Bearing: CLAIM-354's reachable set, not a state-wise score, is what
+- Bearing: [CLAIM-354](../claims.d/CLAIM-354.md)'s reachable set, not a state-wise score, is what
   separates what an agent can keep from what is merely best placed.

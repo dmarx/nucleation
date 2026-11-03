@@ -190,11 +190,11 @@ The status is unchanged.
 
 ## Note of 2026-11-03: Howard et al., second-hand
 
-Howard et al. 2017 is Unfetched. Ryan et al. 2022 (NOTE-tmp1eol1) report it:
+Howard et al. 2017 is Unfetched. Ryan et al. 2022 ([NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md)) report it:
 integrated regulation was not separated from identified, partly because few
 studies measured integration, and Van den Broeck et al. 2021 found the same at
 work. So the promote_when's first clause stays unmet, now on two reports. The
-causality orientations paper (NOTE-tmpuvza0, p. 111), where inner "I have to"
+causality orientations paper ([NOTE-tmpuvza0](../notes.d/NOTE-tmpuvza0.md), p. 111), where inner "I have to"
 events count as controls, is an early SDT statement of the claim's "not order"
 half.
 

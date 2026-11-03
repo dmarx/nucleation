@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpgoetm), from the PLoS ONE version
+  read in full 2026-11-03 ([NOTE-tmpgoetm](../notes.d/NOTE-tmpgoetm.md)), from the PLoS ONE version
   of record; worth reading for contextual empowerment, ordered by what
   the agent can read, and for the cart-pole, where greedy empowerment
   maximization balances the pole though the most empowered states are
-  unreachable, a case of CLAIM-354's distinction between reach and
+  unreachable, a case of [CLAIM-354](../claims.d/CLAIM-354.md)'s distinction between reach and
   what can be sustained.
 title: 'Keep Your Options Open: An Information-Based Driving Principle for Sensorimotor Systems'
 version: 2
@@ -62,7 +62,7 @@ summary: >-
 
 Klyubin, A. S., Polani, D., Nehaniv, C. L. (2008). Keep Your Options Open: An Information-Based Driving Principle for Sensorimotor Systems. *PLoS ONE, 3(12), e4018*. doi:10.1371/journal.pone.0004018.
 
-Read in full on 2026-11-03 (NOTE-tmpgoetm; THEORY-tmpuw92f, THEORY-tmpoy5a7).
+Read in full on 2026-11-03 ([NOTE-tmpgoetm](../notes.d/NOTE-tmpgoetm.md); [THEORY-tmpuw92f](../theory.d/THEORY-tmpuw92f.md), [THEORY-tmpoy5a7](../theory.d/THEORY-tmpoy5a7.md)).
 
 ## Key takeaways
 

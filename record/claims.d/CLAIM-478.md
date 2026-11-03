@@ -288,11 +288,11 @@ The claim is unchanged.
 
 ## Note of 2026-11-03: slowing is not a sign of new organization
 
-Scheffer et al. 2009 (NOTE-tmpyug9h, THEORY-tmp7q08l) give the generic slowing
+Scheffer et al. 2009 ([NOTE-tmpyug9h](../notes.d/NOTE-tmpyug9h.md), [THEORY-tmp7q08l](../theory.d/THEORY-tmp7q08l.md)) give the generic slowing
 down the second half uses near an instability. They also warn that the same
 signals, weaker, come before thresholds that are not bifurcations, so slowness
 alone does not show new organization forming. And Anastassiou et al.
-(NOTE-tmpi46fq) are a neural case of the first half: a slow field constrains
+([NOTE-tmpi46fq](../notes.d/NOTE-tmpi46fq.md)) are a neural case of the first half: a slow field constrains
 fast spike timing without setting spike counts, most effectively when slow,
 though there the slowness is imposed.
 

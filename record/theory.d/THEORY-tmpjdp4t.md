@@ -11,7 +11,7 @@ source:
 - LIT-tmpd9u4s
 summary: >-
   Ryan, Duineveld, Di Domenico, Ryan, Steward and Bradshaw (2022),
-  LIT-tmpd9u4s, read in NOTE-tmp1eol1 from the accepted manuscript on OSF.
+  [LIT-tmpd9u4s](../literature.d/LIT-tmpd9u4s.md), read in [NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md) from the accepted manuscript on OSF.
   Active as a statement of what the review reports about the 60
   meta-analyses it found to July 2021, which is checkable against its
   Tables 1 and 2 and its own summaries. It does not say the meta-analyses
@@ -25,8 +25,8 @@ summary: >-
 
 ## Source
 
-Ryan et al. (2022), LIT-tmpd9u4s, *Psychological Bulletin* 148, 813–842,
-read in NOTE-tmp1eol1 from the authors' accepted manuscript (OSF preprint
+Ryan et al. (2022), [LIT-tmpd9u4s](../literature.d/LIT-tmpd9u4s.md), *Psychological Bulletin* 148, 813–842,
+read in [NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md) from the authors' accepted manuscript (OSF preprint
 gk5cy). The manuscript has no page numbers; sections are named.
 
 ## What was actually shown
@@ -80,17 +80,17 @@ and did not find them.
   frustration) are outside it.
 - **That it is independent.** The lead author co-founded the theory and
   several included meta-analyses are the authors' own.
-- **Anything about the primary studies.** Howard et al. 2017 (LIT-tmpwslkc)
+- **Anything about the primary studies.** Howard et al. 2017 ([LIT-tmpwslkc](../literature.d/LIT-tmpwslkc.md))
   is reported here second-hand.
 
 ## Connections
 
-- **THEORY-054.** The integration gap is its first promote_when clause,
+- **[THEORY-054](THEORY-054.md).** The integration gap is its first promote_when clause,
   unmet in the meta-analytic literature to 2021.
-- **THEORY-052.** The need-frustration gap is the evidence its
+- **[THEORY-052](THEORY-052.md).** The need-frustration gap is the evidence its
   promote_when asks for, and none exists at the meta-analytic level.
-- **THEORY-049.** CET's mediation proposition is stated, not
+- **[THEORY-049](THEORY-049.md).** CET's mediation proposition is stated, not
   meta-analytically tested, as its promote_when says.
-- **QUESTION-tmpee04a.** The BPNT evidence the review lists is need
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** The BPNT evidence the review lists is need
   satisfaction correlated with well-being, the kind the question says
   cannot settle what a need is.

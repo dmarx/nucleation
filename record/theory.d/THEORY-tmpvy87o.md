@@ -8,21 +8,21 @@ date: '2026-11-03'
 source:
 - LIT-tmp4kcgq
 summary: >-
-  Anastassiou et al. (2011), LIT-tmp4kcgq, read in NOTE-tmpi46fq from the
+  Anastassiou et al. (2011), [LIT-tmp4kcgq](../literature.d/LIT-tmp4kcgq.md), read in [NOTE-tmpi46fq](../notes.d/NOTE-tmpi46fq.md) from the
   gwern.net scan at the owner's direction. Active as a statement of what
   the experiments measured, which the paper reports with sizes, samples
   and corrected tests. It does not say that the fields neurons generate do
   this in vivo, that ephaptic coupling bears on attention or experience,
   or that it is evidence against micro-level description, which is the
-  use Jennings makes of it (LIT-tmpasemk, p. 35).
+  use Jennings makes of it ([LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), p. 35).
 ---
 
 # THEORY-tmpvy87o: In rat cortical slices with synapses blocked, extracellular fields of the local field potential's size, applied by an electrode, shift the membrane potential of layer 5 pyramidal neurons by less than 0.5 mV at frequencies up to 100 Hz and, with spiking driven by current, phase-lock spike times without changing spike counts, most effectively for slow fields, and synchronize nearby neurons; the authors explain the effect by Kirchhoff's circuit laws and a fixed firing threshold
 
 ## Source
 
-Anastassiou, Perin, Markram & Koch (2011), LIT-tmp4kcgq, pp. 217–222 and the
-online methods; read in NOTE-tmpi46fq.
+Anastassiou, Perin, Markram & Koch (2011), [LIT-tmp4kcgq](../literature.d/LIT-tmp4kcgq.md), pp. 217–222 and the
+online methods; read in [NOTE-tmpi46fq](../notes.d/NOTE-tmpi46fq.md).
 
 ## What was actually shown
 
@@ -45,4 +45,4 @@ could have come with a rate change that explained it. Neither happened.
   are an argument.
 - **That brain activity is not locally describable.** The authors' own
   explanation is circuit physics (p. 221).
-- **Anything about attention or experience** (LIT-388).
+- **Anything about attention or experience** ([LIT-388](../literature.d/LIT-388.md)).

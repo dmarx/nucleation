@@ -97,7 +97,7 @@ Thms 6.1–6.2.
 
 On a stable direction, dx = (−|λ|x + bu)dt + σ dW, the stationary
 signal-to-noise ratio is (bu/σ)√(2/|λ|), which rises as a fold is approached
-(the reader of Scheffer et al., NOTE-tmpyug9h). So the open-loop ratio goes as
+(the reader of Scheffer et al., [NOTE-tmpyug9h](../notes.d/NOTE-tmpyug9h.md)). So the open-loop ratio goes as
 1/√|λ| on both sides of marginal stability: near the fold a constant input is
 most decisive against noise and cheapest to sustain, and slowing down is
 where it is. Linear regime only.

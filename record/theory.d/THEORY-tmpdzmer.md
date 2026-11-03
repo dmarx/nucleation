@@ -9,12 +9,12 @@ date: '2026-11-03'
 source:
 - LIT-tmpa0lm5
 summary: >-
-  Ntoumanis et al. (2020; issue 2021), LIT-tmpa0lm5, read in
-  NOTE-tmpqk41c from the open-access PDF. Active as a statement of what
+  Ntoumanis et al. (2020; issue 2021), [LIT-tmpa0lm5](../literature.d/LIT-tmpa0lm5.md), read in
+  [NOTE-tmpqk41c](../notes.d/NOTE-tmpqk41c.md) from the open-access PDF. Active as a statement of what
   the meta-analysis reports (Table 1, p. 222), with its sizes, intervals
   and k. It is the record's experimental evidence that manipulating need
   support moves SDT's proximal constructs; it is not evidence that need
-  frustration is a process in psychopathology (THEORY-052).
+  frustration is a process in psychopathology ([THEORY-052](THEORY-052.md)).
 ---
 <!-- inactive-ok-file: THEORY-052 — Proposed; the account this does not move -->
 
@@ -23,8 +23,8 @@ summary: >-
 ## Source
 
 Ntoumanis, Ng, Prestwich, Quested, Hancox, Thøgersen-Ntoumani, Deci, Ryan,
-Lonsdale and Williams (2020), LIT-tmpa0lm5, pp. 222–237; read in
-NOTE-tmpqk41c.
+Lonsdale and Williams (2020), [LIT-tmpa0lm5](../literature.d/LIT-tmpa0lm5.md), pp. 222–237; read in
+[NOTE-tmpqk41c](../notes.d/NOTE-tmpqk41c.md).
 
 ## What was actually shown
 

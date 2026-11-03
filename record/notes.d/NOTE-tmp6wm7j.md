@@ -106,11 +106,11 @@ invariant under reparametrization, and minimized there (pp. 1058–1059).
 
 Freidlin and Wentzell; the original MAM (E, Ren and Vanden-Eijnden); the
 string method and nudged elastic band; Maier and Stein. The record's
-reading of transition paths in Freidlin–Wentzell is LIT-1881.
+reading of transition paths in Freidlin–Wentzell is [LIT-1881](../literature.d/LIT-1881.md).
 
 ## Bearing on the record
 
-- **QUESTION-071's note of 2026-11-02 holds, with two refinements.**
+- **[QUESTION-071](../questions.d/QUESTION-071.md)'s note of 2026-11-02 holds, with two refinements.**
   - *Holds.* "In a gradient system with small isotropic noise, the most
     likely escape follows the time-reversal of the relaxation path from the
     saddle" is the paper's gradient case (p. 1058) and re-derives from

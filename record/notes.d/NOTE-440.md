@@ -198,8 +198,8 @@ they surface when other needs are frustrated (pp. 5, 7).
 ## Note of 2026-11-03: two qualifications
 
 - The frustration scale this reading's evidence rests on is contested on keying
-  (Murphy et al., NOTE-tmpswlms).
+  (Murphy et al., [NOTE-tmpswlms](NOTE-tmpswlms.md)).
 - The reply that self-esteem is derivative answers SDT's own researchers.
-  Sheldon et al. 2001 (NOTE-tmp3xmvo) anticipated it, declined it as
+  Sheldon et al. 2001 ([NOTE-tmp3xmvo](NOTE-tmp3xmvo.md)) anticipated it, declined it as
   "imprudent", and concluded there "may be four fundamental psychological
   needs".

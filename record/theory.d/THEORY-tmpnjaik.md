@@ -9,8 +9,8 @@ date: '2026-11-03'
 source:
 - LIT-tmp9hfqf
 summary: >-
-  Bishop, SEP "Chaos" (2008; revision of 2024-10-11), LIT-tmp9hfqf, §§4,
-  6.1 and 6.4, read in NOTE-tmpyhyrz. Active as a statement of the
+  Bishop, SEP "Chaos" (2008; revision of 2024-10-11), [LIT-tmp9hfqf](../literature.d/LIT-tmp9hfqf.md), §§4,
+  6.1 and 6.4, read in [NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md). Active as a statement of the
   entry's position, checked verbatim, and its §4 dynamics is elementary.
   The sharp edge: the brain-redundancy point is asserted without
   evidence, and the entry does not argue that harnessing is impossible,
@@ -25,8 +25,8 @@ summary: >-
 ## Source
 
 Bishop, "Chaos", *Stanford Encyclopedia of Philosophy*, substantive
-revision of 11 October 2024, LIT-tmp9hfqf, §§4, 6.1, 6.4; read in
-NOTE-tmpyhyrz.
+revision of 11 October 2024, [LIT-tmp9hfqf](../literature.d/LIT-tmp9hfqf.md), §§4, 6.1, 6.4; read in
+[NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md).
 
 ## What was actually shown
 
@@ -56,6 +56,6 @@ An argument, not data.
 - **That the brain is not chaotic.** "The presence of chaos in the brain …
   is an empirical matter that's hotly debated" (§6.4).
 - **What harnessing would require.** The entry gives no criterion; the
-  record's attempt at one is CLAIM-tmpex9rg's coupling of control to the
+  record's attempt at one is [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md)'s coupling of control to the
   amplifying directions.
 - **Evidence for the redundancy point**, which is uncited.

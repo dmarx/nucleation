@@ -20,8 +20,8 @@ date: '2026-11-03'
 source:
 - LIT-tmporplv
 summary: >-
-  Chirkov, Ryan, Kim and Kaplan (2003), LIT-tmporplv, read in
-  NOTE-tmpgd5c5 from the published PDF on selfdeterminationtheory.org.
+  Chirkov, Ryan, Kim and Kaplan (2003), [LIT-tmporplv](../literature.d/LIT-tmporplv.md), read in
+  [NOTE-tmpgd5c5](../notes.d/NOTE-tmpgd5c5.md) from the published PDF on selfdeterminationtheory.org.
   N = 559, cross-sectional self-report. The positive relation held in
   every country and for every type of practice (β = .15–.42 within
   country); "no moderation" is twelve non-significant interactions in
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Chirkov, Ryan, Kim and Kaplan (2003), LIT-tmporplv, pp. 100–106; read in
-NOTE-tmpgd5c5.
+Chirkov, Ryan, Kim and Kaplan (2003), [LIT-tmporplv](../literature.d/LIT-tmporplv.md), pp. 100–106; read in
+[NOTE-tmpgd5c5](../notes.d/NOTE-tmpgd5c5.md).
 
 ## What was actually shown
 
@@ -67,7 +67,7 @@ on the index and vertical 1.60, t(557) = 27.20 (p. 104).
   That is SDT's definition. What is shown is that autonomy so measured
   predicts well-being for collectivist practices too.
 - **That autonomy is a need** rather than a universal correlate of
-  well-being (QUESTION-tmpee04a).
+  well-being ([QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md)).
 - **That vertical arrangements frustrate needs.** The lower internalization
   is a mean difference on the authors' item set, which they caution does
   not represent all vertical practices (p. 107).

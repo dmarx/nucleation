@@ -85,7 +85,7 @@ drive the dynamics, but none completely controls it" (p. 7).
 - **The bifurcation (p. 8).** With b = 1, there are two minima, at 0 and π,
   for |a| < 4, and one otherwise. *Checked*: V″ = a cos φ + 4b cos 2φ is
   positive at π iff a < 4b and at 0 iff a > −4b. This is the anti-phase
-  stability boundary b/a = 1/4 of THEORY-1227.
+  stability boundary b/a = 1/4 of [THEORY-1227](../theory.d/THEORY-1227.md).
 - **The simulated trend (pp. 10–12, Figs. 2, 3).** In 0 ≤ t < 1, cos φ has
   mean 0. In 1 ≤ t < 2 the standard deviations of φ and cos φ rise ("a
   bump") as paths split between the wells. For t ≥ 2 "the average values of
@@ -157,16 +157,16 @@ drive the dynamics, but none completely controls it" (p. 7).
 
 ## Connections
 
-- **Haken, Kelso and Bunz 1985** (LIT-588, NOTE-1424, THEORY-1227) supply
+- **Haken, Kelso and Bunz 1985** ([LIT-588](../literature.d/LIT-588.md), [NOTE-1424](NOTE-1424.md), [THEORY-1227](../theory.d/THEORY-1227.md)) supply
   the potential; Schöner, Haken and Kelso 1986 its stochastic version
   (fn. 11).
-- **Sánchez-Cañizares 2024** (LIT-1132, Unavailable) is the "proof of
+- **Sánchez-Cañizares 2024** ([LIT-1132](../literature.d/LIT-1132.md), Unavailable) is the "proof of
   concept" this extends; the 2026 paper's novelty is the time-dependent
   parameters (p. 8). It quotes its Fig. 6 as a "cycle of relaxation,
   fixation of possibilities, and decision-making" (p. 10).
-- **Froese 2023** (LIT-tmp31f3t, NOTE-tmpn7fkx) and **Froese 2024**
+- **Froese 2023** ([LIT-tmp31f3t](../literature.d/LIT-tmp31f3t.md), [NOTE-tmpn7fkx](NOTE-tmpn7fkx.md)) and **Froese 2024**
   (*Entropy* 26:288, not held).
-- **Hölken 2024** (LIT-tmp8fjub) is cited once, for the criticism that IT
+- **Hölken 2024** ([LIT-tmp8fjub](../literature.d/LIT-tmp8fjub.md)) is cited once, for the criticism that IT
   does not explain "how underdetermination arises in material systems and
   how the scaling-up of irruptions causally affects normative behavior"
   (fn. 6, p. 6). This 2026 paper does not answer it. It places the mind at
@@ -179,11 +179,11 @@ drive the dynamics, but none completely controls it" (p. 7).
 
 ## Bearing on the record
 
-- **LIT-1132.** Its status note expected this paper "may cover the same
+- **[LIT-1132](../literature.d/LIT-1132.md).** Its status note expected this paper "may cover the same
   ground". It does not reproduce the 2024 paper. It extends it, with
   time-dependent parameters and a comparison with experiments, and it
   restates the 2024 result only in a sentence (p. 19): the HKB model "can
-  instantiate some of IT's predictions". LIT-1132 stays unread.
+  instantiate some of IT's predictions". [LIT-1132](../literature.d/LIT-1132.md) stays unread.
 - **What it concedes.** The registration says A22 "summarizes what it
   concedes"; A22's text is not in the record, so this reading lists the
   concessions in the paper's words, against which A22 can be checked:
@@ -199,7 +199,7 @@ drive the dynamics, but none completely controls it" (p. 7).
     like SNR, but they are also the effect of internal brain dynamics"
     (p. 15).
   - Making IAT* testable and not ad hoc needs "much more" (p. 20).
-- **CLAIM-tmpex9rg.** This is the irruption-theory reading A21 put first
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md).** This is the irruption-theory reading A21 put first
   "for the chaos line", but it has no chaos in it. Its dynamics is a
   one-dimensional gradient flow, φ̇ = −∂V/∂φ, which cannot be chaotic, and
   its openness is bistability plus noise. On the claim's terms the agent
@@ -210,15 +210,15 @@ drive the dynamics, but none completely controls it" (p. 7).
   how the choice between the two wells is made in the bistable interval.
   In its own simulation that is settled by the initial condition and noise
   (pp. 10–11), and the mind's contribution is to remove one well (b → 0).
-  So the paper locates control exactly where CLAIM-tmpex9rg says it must
+  So the paper locates control exactly where [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) says it must
   be, in a channel to the slow structure, but without any account of whose
   input sets the parameters.
-- **CLAIM-478.** The model's control parameters are the slow structure that
+- **[CLAIM-478](../claims.d/CLAIM-478.md).** The model's control parameters are the slow structure that
   constrains the fast phase, the claim's scale separation, and the paper
   attributes setting them to the mind. Its fn. 12 appeals to critical
-  fluctuations and slowing near transitions, which is CLAIM-478's second
+  fluctuations and slowing near transitions, which is [CLAIM-478](../claims.d/CLAIM-478.md)'s second
   half.
-- **QUESTION-071.** If what the mind does is set a(t), b(t), and those are
+- **[QUESTION-071](../questions.d/QUESTION-071.md).** If what the mind does is set a(t), b(t), and those are
   also set by SNR and internal dynamics (p. 15), nothing in the measured
   dynamics tells a mind-set parameter change from one set by stimulus or by
   another party. The paper treats that as the black box's virtue (p. 20).
@@ -247,4 +247,4 @@ drive the dynamics, but none completely controls it" (p. 7).
   variability?
 - Can a(t), b(t) be estimated from data trial by trial, and does any
   variable other than stimulus and task predict them? That is the test the
-  mental attribution would need (THEORY-tmp1jrus).
+  mental attribution would need ([THEORY-tmp1jrus](../theory.d/THEORY-tmp1jrus.md)).

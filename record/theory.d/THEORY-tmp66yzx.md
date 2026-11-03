@@ -9,8 +9,8 @@ date: '2026-11-03'
 source:
 - LIT-tmpz3w7i
 summary: >-
-  Donoghue, Schaworonkow and Voytek (2021), LIT-tmpz3w7i, §5 and Fig.
-  5D–E, read in NOTE-tmpsrba2 from the PsyArXiv preprint, standing on
+  Donoghue, Schaworonkow and Voytek (2021), [LIT-tmpz3w7i](../literature.d/LIT-tmpz3w7i.md), §5 and Fig.
+  5D–E, read in [NOTE-tmpsrba2](../notes.d/NOTE-tmpsrba2.md) from the PsyArXiv preprint, standing on
   Kramer et al. 2008 and Cole et al. 2017. Active: checked by a short
   simulation in which a sharp-peaked 10 Hz wave gave a modulation index
   of 0.021 between its phase and 25–60 Hz amplitude against 0.0001 for a
@@ -24,8 +24,8 @@ summary: >-
 
 ## Source
 
-Donoghue, Schaworonkow and Voytek (2021), LIT-tmpz3w7i, pp. 24–27 of the
-PsyArXiv preprint; read in NOTE-tmpsrba2.
+Donoghue, Schaworonkow and Voytek (2021), [LIT-tmpz3w7i](../literature.d/LIT-tmpz3w7i.md), pp. 24–27 of the
+PsyArXiv preprint; read in [NOTE-tmpsrba2](../notes.d/NOTE-tmpsrba2.md).
 
 ## What was actually shown
 
@@ -53,7 +53,7 @@ reproduced with a strictly periodic wave.
 - **That any reported PAC is spurious.** The paper re-analyses no
   empirical result.
 - **That broadband coupling far above the harmonics, such as 2–5 Hz phase
-  with 80–250 Hz amplitude (THEORY-tmp9pem2), is a shape artefact.** By
+  with 80–250 Hz amplitude ([THEORY-tmp9pem2](THEORY-tmp9pem2.md)), is a shape artefact.** By
   the paper's own diagnostic it is the less suspect kind; it remains
   uncontrolled.
 - **That PAC is never one rhythm gating another.** Genuine nesting is

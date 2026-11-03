@@ -10,14 +10,14 @@ source:
 - LIT-tmpqt7ea
 - LIT-588
 summary: >-
-  Sánchez-Cañizares (2026), LIT-tmpqt7ea, read in full in NOTE-tmpbmoj1
+  Sánchez-Cañizares (2026), [LIT-tmpqt7ea](../literature.d/LIT-tmpqt7ea.md), read in full in [NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md)
   from the publisher's open-access PDF. Active for the model's behaviour,
   which this reading checked: the bistability condition |a| < 4b
   analytically, and the rise and fall by re-simulation (20,000 paths). The
   paper's statement that the spread decreases "to 0" holds without noise
   and fails at q = 1. It does not say that the model fits the cited EEG
   data, which the author calls "only qualitative", or that the parameter
-  changes are the mind's (THEORY-tmp1jrus).
+  changes are the mind's ([THEORY-tmp1jrus](THEORY-tmp1jrus.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmp1jrus — Proposed; the interpretation filed beside this, cited as open -->
 
@@ -25,15 +25,15 @@ summary: >-
 
 ## Source
 
-Sánchez-Cañizares (2026), LIT-tmpqt7ea, §4 (PDF pp. 7–12) and §5
-(pp. 13–18); read in NOTE-tmpbmoj1. The potential is Haken, Kelso and Bunz
-1985 (LIT-588; THEORY-1227).
+Sánchez-Cañizares (2026), [LIT-tmpqt7ea](../literature.d/LIT-tmpqt7ea.md), §4 (PDF pp. 7–12) and §5
+(pp. 13–18); read in [NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md). The potential is Haken, Kelso and Bunz
+1985 ([LIT-588](../literature.d/LIT-588.md); [THEORY-1227](THEORY-1227.md)).
 
 ## What was actually shown
 
 **The landscape (p. 8).** φ̇ = −a sin φ − 2b sin 2φ. With b = 1 there are
 minima at 0 and π for |a| < 4 and one minimum otherwise. Checked: V″ = a cos
-φ + 4b cos 2φ is positive at π iff a < 4b, which is THEORY-1227's anti-phase
+φ + 4b cos 2φ is positive at π iff a < 4b, which is [THEORY-1227](THEORY-1227.md)'s anti-phase
 boundary.
 
 **The schedule (eq. 3, p. 8) and the statistics (eqs. 4–7, p. 11).** Means
@@ -68,4 +68,4 @@ the model, and at low SNR the experimental SD is smaller (p. 15, fn. 17).
   agreement is "only qualitative" (p. 18).
 - That the trial-to-trial variability in the experiments arises from
   spread of initial conditions, as the model's statistics do.
-- Anything about the mind. That is THEORY-tmp1jrus.
+- Anything about the mind. That is [THEORY-tmp1jrus](THEORY-tmp1jrus.md).

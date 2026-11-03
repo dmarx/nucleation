@@ -21,13 +21,13 @@ source:
 - LIT-tmpqt7ea
 - LIT-tmp31f3t
 summary: >-
-  Sánchez-Cañizares (2026), LIT-tmpqt7ea, read in full in NOTE-tmpbmoj1.
+  Sánchez-Cañizares (2026), [LIT-tmpqt7ea](../literature.d/LIT-tmpqt7ea.md), read in full in [NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md).
   The interpretation is the paper's (pp. 6–7, 18–20); the last clause is
   this reading's description of the control architecture it implies, from
   the model and simulation of pp. 8–12, in which the choice between wells
   is settled by initial condition and noise. Proposed: the paper says IAT*
   "cannot be tested with empirical results without further assumptions"
-  (p. 7). Bears on CLAIM-tmpex9rg and QUESTION-071.
+  (p. 7). Bears on [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) and [QUESTION-071](../questions.d/QUESTION-071.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpex9rg QUESTION-071 LIT-1132 — Proposed, Open or Unavailable; cited as open -->
 
@@ -35,8 +35,8 @@ summary: >-
 
 ## Source
 
-Sánchez-Cañizares (2026), LIT-tmpqt7ea, §§2–3 and 6 (PDF pp. 4–7,
-18–20), fn. 12 (p. 10); read in NOTE-tmpbmoj1. Froese 2023 (LIT-tmp31f3t)
+Sánchez-Cañizares (2026), [LIT-tmpqt7ea](../literature.d/LIT-tmpqt7ea.md), §§2–3 and 6 (PDF pp. 4–7,
+18–20), fn. 12 (p. 10); read in [NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md). Froese 2023 ([LIT-tmp31f3t](../literature.d/LIT-tmp31f3t.md))
 and Froese 2024 (not held) are the theory revised.
 
 ## What was actually shown
@@ -74,7 +74,7 @@ selects the set of outcomes, and the selection among them is not modelled.
 
 - That the mind sets the parameters. The paper grants that a and b also
   move with stimulus and internal dynamics (p. 15) and that IAT* is untested.
-- That the paper reproduces or replaces Sánchez-Cañizares 2024 (LIT-1132),
+- That the paper reproduces or replaces Sánchez-Cañizares 2024 ([LIT-1132](../literature.d/LIT-1132.md)),
   which it summarizes in one sentence (p. 19).
 - That this is Kane's view or concerns chaos. Neither is cited, and the
   model, a one-dimensional gradient flow, cannot be chaotic.

@@ -75,7 +75,7 @@ accompany formed-interest selection as well.
 
 ## Note of 2026-11-03: Voigt, read
 
-Voigt 2022 (NOTE-tmpic1x7, THEORY-tmpicoxo) is an Opinion article, and in its
+Voigt 2022 ([NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md), [THEORY-tmpicoxo](THEORY-tmpicoxo.md)) is an Opinion article, and in its
 model the attention that breaks a stalemate is allocated bottom-up, to the
 salient item by the precuneus, and only held by dlPFC. The value update is
 correlational. That undercuts dlPFC feedback as the mark of fluid interests in

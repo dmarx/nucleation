@@ -170,16 +170,16 @@ establishes is a set of definitions and an argument.
   random "breaks". Irruptions are modelled on these.
 - **Watson, Buckley and Mills 2011** (ref. 102) and Froese's own
   self-optimization papers (refs. 11, 103–106).
-- **Juarrero 1999** (ref. 56; LIT-tmpqbxw7) is cited among the
+- **Juarrero 1999** (ref. 56; [LIT-tmpqbxw7](../literature.d/LIT-tmpqbxw7.md)) is cited among the
   embodied-dynamicist accounts that the diagnosis targets. **Kane is not
   cited.** Neither is any work on control of chaos.
 - Later work: Froese 2024's absorption (*Entropy* 26:288, not held), and
-  Sánchez-Cañizares 2024 and 2026 (LIT-1132; LIT-tmpqt7ea, NOTE-tmpbmoj1).
-  Hölken's critique (LIT-tmp8fjub) is unread here.
+  Sánchez-Cañizares 2024 and 2026 ([LIT-1132](../literature.d/LIT-1132.md); [LIT-tmpqt7ea](../literature.d/LIT-tmpqt7ea.md), [NOTE-tmpbmoj1](NOTE-tmpbmoj1.md)).
+  Hölken's critique ([LIT-tmp8fjub](../literature.d/LIT-tmp8fjub.md)) is unread here.
 
 ## Bearing on the record
 
-- **CLAIM-tmpex9rg: a held source that says sensitivity is not control, in
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md): a held source that says sensitivity is not control, in
   its own terms.** The scalability thesis is the Kane-style move the claim
   addresses: microscopic indeterminacy amplified by chaos or criticality
   into behaviour. The attunement thesis then concedes the claim's central
@@ -195,23 +195,23 @@ establishes is a set of definitions and an argument.
   against noise, which the claim says amplification cannot supply, is not
   supplied here either. This is a second independent statement of the
   claim's gap, after Bishop's SEP entry, and from a libertarian.
-- **CLAIM-478: a rival reading of constraints.** Froese's §4 targets the
-  family of views CLAIM-478 belongs to: top-down constraints and order
+- **[CLAIM-478](../claims.d/CLAIM-478.md): a rival reading of constraints.** Froese's §4 targets the
+  family of views [CLAIM-478](../claims.d/CLAIM-478.md) belongs to: top-down constraints and order
   parameters as what organizes behaviour. His objection is not that they
   fail to constrain. It is that crediting motivation to them makes
   motivation's efficacy a material surrogate's. That bears on whether
-  CLAIM-478's constraints can carry agency, not on whether they make
-  structure, which is what CLAIM-478 claims. Noted, not a defeater.
-- **CLAIM-354 and QUESTION-071.** On this theory an agent's motivations
+  [CLAIM-478](../claims.d/CLAIM-478.md)'s constraints can carry agency, not on whether they make
+  structure, which is what [CLAIM-478](../claims.d/CLAIM-478.md) claims. Noted, not a defeater.
+- **[CLAIM-354](../claims.d/CLAIM-354.md) and [QUESTION-071](../questions.d/QUESTION-071.md).** On this theory an agent's motivations
   act by widening a system's options, so a manipulator's injected noise and
   the agent's irruption are, by Axiom 2, indistinguishable in any
-  measurement. That is QUESTION-071's present-structure problem in an
+  measurement. That is [QUESTION-071](../questions.d/QUESTION-071.md)'s present-structure problem in an
   extreme form, at the level of a single act. The paper does not raise it.
-- **THEORY-328 and THEORY-040 (the luck objection).** The paper claims to
+- **[THEORY-328](../theory.d/THEORY-328.md) and [THEORY-040](../theory.d/THEORY-040.md) (the luck objection).** The paper claims to
   answer "the main concern raised against libertarian interpretations",
   the randomness horn. What it offers locates the effectiveness in
   attunement, which is the agent's history and not the indeterminacy. That
-  is the compatibilist's resource, not a reply to luck. THEORY-tmped3yc
+  is the compatibilist's resource, not a reply to luck. [THEORY-tmped3yc](../theory.d/THEORY-tmped3yc.md)
   files this as Proposed.
 - **No instruction for machine-learning practice.**
 

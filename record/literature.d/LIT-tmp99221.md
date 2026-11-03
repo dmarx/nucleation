@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpmgw5i), from the PubMed Central author
+  read in full 2026-11-03 ([NOTE-tmpmgw5i](../notes.d/NOTE-tmpmgw5i.md)), from the PubMed Central author
   manuscript PMC2736104; worth reading as the direct longitudinal test of
   goal contents theory's claim about attainment, and for what it shows that
   its citations drop: extrinsic attainment's null is a unique-variance
@@ -57,7 +57,7 @@ Niemiec, C. P., Ryan, R. M., Deci, E. L. (2009). The path taken: Consequences of
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpmgw5i). THEORY-tmpcjdte, Proposed, is filed from it.
+Read in full on 2026-11-03 ([NOTE-tmpmgw5i](../notes.d/NOTE-tmpmgw5i.md)). [THEORY-tmpcjdte](../theory.d/THEORY-tmpcjdte.md), Proposed, is filed from it.
 
 ## Standing in the record
 

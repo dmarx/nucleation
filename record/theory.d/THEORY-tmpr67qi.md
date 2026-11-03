@@ -10,12 +10,12 @@ date: '2026-11-03'
 source:
 - LIT-tmpzyunx
 summary: >-
-  Chen et al. (2015), LIT-tmpzyunx, read in NOTE-tmpr36wg from the
+  Chen et al. (2015), [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md), read in [NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md) from the
   publisher's typeset copy in the ULB repository. Active as a statement
   about the instrument, checked against its Table 3 item by item and its
   model comparison (ΔSBSχ²(12) = 450.79, p. 226). It does not say the
   frustration dimension is an artefact, only that this evidence cannot
-  tell it from one; that test is Murphy et al.'s (LIT-tmpjcuzb), unread.
+  tell it from one; that test is Murphy et al.'s ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md)), unread.
 ---
 <!-- inactive-ok-file: THEORY-052 LIT-tmpjcuzb QUESTION-tmpee04a CLAIM-368 LIT-tmp6as8m — Proposed, Open, Deferred or Unfetched; the entries this bears on, cited as open -->
 
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Chen et al. (2015), LIT-tmpzyunx, pp. 223–227 and Table 3; read in
-NOTE-tmpr36wg.
+Chen et al. (2015), [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md), pp. 223–227 and Table 3; read in
+[NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md).
 
 ## What was actually shown
 
@@ -61,11 +61,11 @@ not a reanalysis.
 
 - **That need frustration is not a distinct dimension.** It may be; the
   instrument's own evidence is compatible with both. Murphy et al. 2023
-  (LIT-tmpjcuzb) argue the artefact case and are unread here.
+  ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md)) argue the artefact case and are unread here.
 - **That the frustration–ill-being correlations are spurious.** Keying is
   one alternative; shared content with depressive items, raised in
-  THEORY-052, is another, and the reconstructed covariance of −.84 between
+  [THEORY-052](THEORY-052.md), is another, and the reconstructed covariance of −.84 between
   the latent satisfaction and frustration composites (Fig. 1) is a third
   reason for caution. None is tested in the paper.
 - **Anything about other frustration measures**, such as Bartholomew et
-  al.'s thwarting scale (LIT-tmp6as8m).
+  al.'s thwarting scale ([LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md)).

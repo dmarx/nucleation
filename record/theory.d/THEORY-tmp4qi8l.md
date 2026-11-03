@@ -21,7 +21,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpzyunx
 summary: >-
-  Chen et al. (2015), LIT-tmpzyunx, read in NOTE-tmpr36wg. Two
+  Chen et al. (2015), [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md), read in [NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md). Two
   cross-sectional studies, N = 683 and 1,051. The relations and the
   null moderations are as reported. Proposed because universality is
   inferred from failures to reject, with fewer than 150 per country in the
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Chen et al. (2015), LIT-tmpzyunx, pp. 220–233; read in NOTE-tmpr36wg.
+Chen et al. (2015), [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md), pp. 220–233; read in [NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md).
 
 ## What was actually shown
 
@@ -68,5 +68,5 @@ worse fit under constraint, would have shown moderation.
   desire were tested; implicit motives are set aside (pp. 231–232), and
   desire is itself correlated with frustration.
 - **That the needs are needs and not universal enhancers.** Non-moderation
-  by preference is consistent with both (QUESTION-tmpee04a).
-- **That the frustration dimension is valid.** See THEORY-tmpr67qi.
+  by preference is consistent with both ([QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md)).
+- **That the frustration dimension is valid.** See [THEORY-tmpr67qi](THEORY-tmpr67qi.md).

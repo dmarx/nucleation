@@ -101,11 +101,11 @@ have control over the neuron" (p. 129), and it does not count.
 
 Ashby's law of requisite variety and Touchette and Lloyd's information
 limits of control; Gibson's affordances; the authors' information-flow work.
-Extended in Klyubin et al. 2008 (LIT-tmp3h572, NOTE-tmpgoetm).
+Extended in Klyubin et al. 2008 ([LIT-tmp3h572](../literature.d/LIT-tmp3h572.md), [NOTE-tmpgoetm](NOTE-tmpgoetm.md)).
 
 ## Bearing on the record
 
-- **CLAIM-354.** Empowerment is a ready-made candidate for the claim's
+- **[CLAIM-354](../claims.d/CLAIM-354.md).** Empowerment is a ready-made candidate for the claim's
   "viable reachability" dimension restricted to what the agent can tell
   apart: the capacity of the channel from its actions to its later sensor
   is the log of how many perceptibly different futures it can bring about,
@@ -120,14 +120,14 @@ Extended in Klyubin et al. 2008 (LIT-tmp3h572, NOTE-tmpgoetm).
   - The neurosurgeon point is the legibility restriction of the claim's note
     of 2026-11-02, built into the definition: control the agent cannot read
     does not count. Empowerment is legibility-limited reachability in exactly
-    the sense CLAIM-tmpkogzd makes concrete, but measured by information
+    the sense [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md) makes concrete, but measured by information
     rather than by sets.
 - **A21's "controllability and observability together" (the registration
-  of LIT-tmp3h572).** Fair: the capacity is zero if the actions cannot move
+  of [LIT-tmp3h572](../literature.d/LIT-tmp3h572.md)).** Fair: the capacity is zero if the actions cannot move
   the sensor (uncontrollable) or the sensor cannot register the move
   (unobservable). It is an information measure, not a rank: a noisy channel
   with full rank has low empowerment.
-- **TERM-064.** "What it does not matter … what other agents perceive" (p.
+- **[TERM-064](../terms.d/TERM-064.md).** "What it does not matter … what other agents perceive" (p.
   129) is legibility to oneself, not to a governing observer.
 
 ## Limitations

@@ -140,9 +140,9 @@ vulnerability move it away (Table 5, p. 12).
 
 ## Connections
 
-Extends persona vectors (LIT-tmpyjvij) to 275 archetypes and finds their
+Extends persona vectors ([LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md)) to 275 archetypes and finds their
 low-dimensional structure. Li et al. on system-prompt persona decay;
-Shanahan et al. on role-play (LIT-460). PSM (LIT-tmp4flye) reads it as
+Shanahan et al. on role-play ([LIT-460](../literature.d/LIT-460.md)). PSM ([LIT-tmp4flye](../literature.d/LIT-tmp4flye.md)) reads it as
 "direct evidence that post-training selects a particular default region of a
 pre-existing persona space".
 
@@ -153,12 +153,12 @@ pre-existing persona space".
   Assistant persona "derives from an amalgamation of many character
   archetypes" (p. 3), and that the stabilization is weak without
   intervention.
-- **TERM-072's note of 2026-10-22 and NOTE-1069 (what post-training
-  installs).** Consistent with NOTE-1069's weak-to-moderate C9, by another
+- **[TERM-072](../terms.d/TERM-072.md)'s note of 2026-10-22 and [NOTE-1069](NOTE-1069.md) (what post-training
+  installs).** Consistent with [NOTE-1069](NOTE-1069.md)'s weak-to-moderate C9, by another
   route: post-training places the default at one end of a pre-existing axis
   rather than creating the axis; the axis's AI-assistant associations are
   "later acquir[ed] … during post-training" (p. 10).
-- **CLAIM-tmphbnqm: the a → 0 reading of persona selection does not fit.**
+- **[CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md): the a → 0 reading of persona selection does not fit.**
   Within a conversation the persona position changes turn by turn and is
   predicted by the latest user message (R² 0.53–0.77) rather than by its
   previous value (R² 0.10). That is neither one persona per conversation nor
@@ -166,7 +166,7 @@ pre-existing persona space".
   is the claim's own defeater ("a Markov-switching persona model, which is
   neither a mixture nor an admixture … would leave the derivation standing
   and narrow the claim's reading of H1"). The derivation is untouched.
-- **QUESTION-tmpildq9.** Its proposed test, within- against between-episode
+- **[QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md).** Its proposed test, within- against between-episode
   co-occurrence under an exchangeable admixture, would be confounded by this
   drift: within-episode agreement would be inflated by the shared user and
   topic, not by an episode-level mixture. An admixture with covariates, or a
@@ -174,7 +174,7 @@ pre-existing persona space".
   capping intervention is the kind of intervention the question asks for,
   one level up: it clamps a persona coordinate, not a workspace mixture, and
   measures harm, not report.
-- **CLAIM-tmpwh2jo.** Persona space is low-dimensional (4–19 PCs for 70%),
+- **[CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md).** Persona space is low-dimensional (4–19 PCs for 70%),
   and the drift is along a coordinate, so the paper's picture is of a
   continuous persona state, not of discrete components. Nothing in it tests
   whether components condition one another.

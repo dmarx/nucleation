@@ -123,7 +123,7 @@ The article reports no new data. Its empirical basis, as it states it:
 
 ## Bearing on the record
 
-- **Jennings 2026 (LIT-tmpasemk, NOTE-tmpby7i2, THEORY-tmptunid): the use is
+- **Jennings 2026 ([LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), [NOTE-tmpby7i2](NOTE-tmpby7i2.md), [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md)): the use is
   broadly faithful on the mechanism and unfaithful on two points.**
   - Faithful: vmPFC and ACC judging whether the value difference suffices;
     dlPFC and precuneus raising attention on one item, "allowing for both a
@@ -139,10 +139,10 @@ The article reports no new data. Its empirical basis, as it states it:
     (manuscript pp. 31–32). On Voigt's model the tie is broken by the
     salient item's capture of attention, which on Jennings's taxonomy is a
     fixed interest at work. That undercuts the step from Voigt to
-    THEORY-tmptunid's criterion.
+    [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md)'s criterion.
   - **Model, not demonstration.** Jennings presents it as "a model for how
     such conflict is resolved in the brain" (p. 25), which is fair, but
-    THEORY-tmptunid's "updates the chosen option's value" rests on
+    [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md)'s "updates the chosen option's value" rests on
     correlations (fixation predicts value change), plus a causal role for
     gaze imported from other studies. Voigt does not show that attention
     updates value; it proposes it, with correlational support.
@@ -151,12 +151,12 @@ The article reports no new data. Its empirical basis, as it states it:
     bottom up. Voigt's own conclusion is deflationary about the self:
     preferences "might be emergent consequences from the particulars of
     the decision scenario itself" (p. 4), emergence in the weak sense.
-- **CLAIM-tmplz9zf.** NOTE-tmpby7i2 read the mechanism as a causal update,
+- **[CLAIM-tmplz9zf](../claims.d/CLAIM-tmplz9zf.md).** [NOTE-tmpby7i2](NOTE-tmpby7i2.md) read the mechanism as a causal update,
   a mixture that changes because of the choice. Voigt's evidence that the
   value changes because of the fixation, not merely with it, is the
   "controlling for choice" analysis of 2019 and imported gaze-manipulation
   results; within this article it is not an intervention.
-- **CLAIM-tmpex9rg.** If the stalemate is broken by which item captures
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md).** If the stalemate is broken by which item captures
   gaze, the outcome is decided by a fluctuation in salience, which is the
   "uncontrolled fluctuations and outside inputs" the claim says
   amplification does not tell apart from the agent's effort.
@@ -178,4 +178,4 @@ The article reports no new data. Its empirical basis, as it states it:
   later preference, and does disrupting precuneus or dlPFC (e.g. by TMS)
   abolish the in-decision update?
 - Is the tie broken by salience or by a goal, i.e. bottom up or top down?
-  That is the question on which its use in THEORY-tmptunid turns.
+  That is the question on which its use in [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md) turns.

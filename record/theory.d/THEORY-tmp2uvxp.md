@@ -9,8 +9,8 @@ date: '2026-11-03'
 source:
 - LIT-tmphox4k
 summary: >-
-  Ben-Tal, Goryashko, Guslitzer and Nemirovski (2004), LIT-tmphox4k, read
-  in NOTE-tmp5ejhp. Active: the definitions, the two worked examples
+  Ben-Tal, Goryashko, Guslitzer and Nemirovski (2004), [LIT-tmphox4k](../literature.d/LIT-tmphox4k.md), read
+  in [NOTE-tmp5ejhp](../notes.d/NOTE-tmp5ejhp.md). Active: the definitions, the two worked examples
   (checked by hand), Theorem 2.1 and its proof, and the reported inventory
   results with their sizes. It does not say the information-basis case is
   solved in general (the paper asserts it extends), nor that affine rules
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Ben-Tal et al. (2004), LIT-tmphox4k, Math. Program. 99: 351–376; read in
-NOTE-tmp5ejhp.
+Ben-Tal et al. (2004), [LIT-tmphox4k](../literature.d/LIT-tmphox4k.md), Math. Program. 99: 351–376; read in
+[NOTE-tmp5ejhp](../notes.d/NOTE-tmp5ejhp.md).
 
 ## What was actually shown
 
@@ -48,7 +48,7 @@ NOTE-tmp5ejhp.
 - That the information-basis case has been worked out beyond the
   black-and-white case and Remark 4.1's linear maps.
 - That the AARC equals the ARC.
-- Bearing: CLAIM-tmpkogzd's conditions I and II are this paper's ARC and RC
+- Bearing: [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md)'s conditions I and II are this paper's ARC and RC
   in a feasibility problem; its III is an information basis given by a
-  general h; CLAIM-354's legibility-limited policies are this paper's
+  general h; [CLAIM-354](../claims.d/CLAIM-354.md)'s legibility-limited policies are this paper's
   information bases.

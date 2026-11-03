@@ -9,7 +9,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpqjfxe
 summary: >-
-  Lu et al. (2026), LIT-tmpqjfxe, main text read in NOTE-tmpagiju. Active
+  Lu et al. (2026), [LIT-tmpqjfxe](../literature.d/LIT-tmpqjfxe.md), main text read in [NOTE-tmpagiju](../notes.d/NOTE-tmpagiju.md). Active
   as the reported geometry, with its sizes: three open-weight models,
   judge-filtered role vectors at one layer, base-model evidence from one
   model's PCs and two models' steering. It does not say the Assistant is
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Lu, Gallagher, Michala, Fish and Lindsey (2026), LIT-tmpqjfxe,
-arXiv:2601.10387v1; read in NOTE-tmpagiju.
+Lu, Gallagher, Michala, Fish and Lindsey (2026), [LIT-tmpqjfxe](../literature.d/LIT-tmpqjfxe.md),
+arXiv:2601.10387v1; read in [NOTE-tmpagiju](../notes.d/NOTE-tmpagiju.md).
 
 ## What was actually shown
 

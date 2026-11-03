@@ -127,6 +127,6 @@ appearance in the record.
 The Persona Selection Model's "router" (its Appendix B, persona swapping) is
 this claim's component that conditions which others are consequential, named by
 the model's authors as a possible agency outside the persona distribution
-(NOTE-tmpftp86). Persona Vectors' cross-trait entanglement is undirected
-statistical dependence, H2a, not organization (NOTE-tmpp25f6). The quotations
-from LDA check (NOTE-tmplt5sh).
+([NOTE-tmpftp86](../notes.d/NOTE-tmpftp86.md)). Persona Vectors' cross-trait entanglement is undirected
+statistical dependence, H2a, not organization ([NOTE-tmpp25f6](../notes.d/NOTE-tmpp25f6.md)). The quotations
+from LDA check ([NOTE-tmplt5sh](../notes.d/NOTE-tmplt5sh.md)).

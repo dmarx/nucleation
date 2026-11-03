@@ -127,14 +127,14 @@ signal" (pp. 4–5).
   macaque V1 under rhythmic attention; the present study differs by
   jittered targets and association cortex (pp. 9–10).
 - The PAC method is Voytek and colleagues' (ref. 68); Voytek is a co-author
-  of Donoghue et al. 2021 (LIT-tmpz3w7i, NOTE-tmpsrba2), which warns that
+  of Donoghue et al. 2021 ([LIT-tmpz3w7i](../literature.d/LIT-tmpz3w7i.md), [NOTE-tmpsrba2](NOTE-tmpsrba2.md)), which warns that
   waveform shape can produce PAC.
 - Rodent theta–gamma coupling tracking learning (ref. 63) is cited as
   further evidence that "PAC serves a functional role" (p. 10).
 
 ## Bearing on the record
 
-- **Jennings 2026 (LIT-tmpasemk, NOTE-tmpby7i2) overstates it in one word.**
+- **Jennings 2026 ([LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), [NOTE-tmpby7i2](NOTE-tmpby7i2.md)) overstates it in one word.**
   Jennings writes that PAC "has been shown to be associated with and to
   improve attention (Szczepanski et al., 2014)" (manuscript p. 28). The
   paper shows association: coupling strength correlates with RT in 28
@@ -147,16 +147,16 @@ signal" (pp. 4–5).
   statistical dependence (p. 2) and takes excitability control from
   earlier work as the "physiologically plausible mechanism", a mechanism
   wholly at the level of membrane potentials and spiking. Nothing in it
-  favours the contextually emergent reading of THEORY-tmp6xjgq over a
+  favours the contextually emergent reading of [THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md) over a
   micro-level one; it bears out that entry's note that the signature fits
   weak emergence too.
-- **THEORY-tmptunid.** The task is covert, cue-directed spatial attention,
+- **[THEORY-tmptunid](../theory.d/THEORY-tmptunid.md).** The task is covert, cue-directed spatial attention,
   i.e. selection by an instructed goal. It says nothing about fluid
   interests, stalemates or dlPFC feedback as a criterion; its frontal
   electrodes are not localized to dlPFC as such.
 - **The exchange's (A5) methodological caution is apt but untested here.**
   The paper reports no check of the slow rhythm's waveform shape
-  (NOTE-tmpsrba2). Its coupled band, 80–250 Hz against a 2–5 Hz phase,
+  ([NOTE-tmpsrba2](NOTE-tmpsrba2.md)). Its coupled band, 80–250 Hz against a 2–5 Hz phase,
   is broad and far above low harmonics, which by Donoghue et al.'s own
   heuristic points toward genuine coupling rather than a shape artefact,
   but that is an inference, not a control.

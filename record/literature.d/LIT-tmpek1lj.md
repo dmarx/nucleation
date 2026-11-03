@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpi2z1s), from the article on the SDT
+  read in full 2026-11-03 ([NOTE-tmpi2z1s](../notes.d/NOTE-tmpi2z1s.md)), from the article on the SDT
   site. Worth reading as the relationship-level test of all three needs:
   fulfilment by a partner goes with relationship quality, relatedness
   most, and the partner's fulfilment adds to one's own; but its measure
@@ -61,7 +61,7 @@ Patrick, H., Knee, C. R., Canevello, A., Lonsbary, C. (2007). The role of need f
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpi2z1s).
+Read in full on 2026-11-03 ([NOTE-tmpi2z1s](../notes.d/NOTE-tmpi2z1s.md)).
 
 - Need fulfilment by a partner tracks relationship quality; relatedness
   most.
@@ -69,7 +69,7 @@ Read in full on 2026-11-03 (NOTE-tmpi2z1s).
 - Autonomous relationship motivation carries the association, in a
   cross-sectional mediation.
 - The three needs are not separated by the measure (.84–.96 corrected).
-- THEORY-tmpw35bj.
+- [THEORY-tmpw35bj](../theory.d/THEORY-tmpw35bj.md).
 
 ## Standing in the record
 

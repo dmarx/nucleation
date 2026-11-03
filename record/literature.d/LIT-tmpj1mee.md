@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpp47uv), from the scan on the SDT
+  read in full 2026-11-03 ([NOTE-tmpp47uv](../notes.d/NOTE-tmpp47uv.md)), from the scan on the SDT
   site. Worth reading as a primary source of goal contents theory: with
   overall striving held fixed, extrinsic aspirations go with lower and
   intrinsic with higher self-reported well-being, in an adult and a
   student sample. It does not test the "beyond the reasons" half of
-  NOTE-439's C4, which it names as an open question.
+  [NOTE-439](../notes.d/NOTE-439.md)'s C4, which it names as an open question.
 title: 'Further Examining the American Dream: Differential Correlates of Intrinsic and Extrinsic Goals'
 version: 2
 history:
@@ -61,13 +61,13 @@ Kasser, T., Ryan, R. M. (1996). Further Examining the American Dream: Differenti
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpp47uv).
+Read in full on 2026-11-03 ([NOTE-tmpp47uv](../notes.d/NOTE-tmpp47uv.md)).
 
 - Intrinsic and extrinsic aspirations are separate factors.
 - The balance between them, not overall striving, tracks well-being.
 - The intrinsic and extrinsic results are close to one contrast.
 - Correlational and self-report; reasons are not measured.
-- THEORY-tmp49j7m.
+- [THEORY-tmp49j7m](../theory.d/THEORY-tmp49j7m.md).
 
 ## Standing in the record
 

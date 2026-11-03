@@ -178,12 +178,12 @@ The question stays open.
 ## Note of 2026-11-03: what the scales measure, read
 
 The readings sharpen the note of 2026-11-02. Every BPNSFS frustration item is
-"I feel …" or "I have the impression …" (Chen et al., NOTE-tmpr36wg), and on
-Murphy et al. (NOTE-tmpswlms) the items carry no thwarting agent and may
+"I feel …" or "I have the impression …" (Chen et al., [NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md)), and on
+Murphy et al. ([NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md)) the items carry no thwarting agent and may
 measure low satisfaction, this question's non-attainment, not operative
 thwarting. Kermavnar et al.'s four cells (satisfaction and frustration as
 experience, support and thwarting as environment) and their "cross-paths",
-thwarting without frustration and the reverse (NOTE-tmpe2f2g), are the
+thwarting without frustration and the reverse ([NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md)), are the
 psychology's version of the separations asked for, given as examples, not
 shown. Bartholomew et al.'s thwarting scale is Unfetched.
 

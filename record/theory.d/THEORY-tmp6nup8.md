@@ -9,7 +9,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpyjvij
 summary: >-
-  Chen et al. (2025), LIT-tmpyjvij, read in NOTE-tmpp25f6 (main text in
+  Chen et al. (2025), [LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md), read in [NOTE-tmpp25f6](../notes.d/NOTE-tmpp25f6.md) (main text in
   full, appendices C.2, G.2 and M). Active as the reported measurements,
   with their sizes and scope: two models, three main traits, synthetic
   datasets and an LLM judge. It does not say that persona vectors are the
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Chen, Arditi, Sleight, Evans and Lindsey (2025), LIT-tmpyjvij,
-arXiv:2507.21509v3; read in NOTE-tmpp25f6.
+Chen, Arditi, Sleight, Evans and Lindsey (2025), [LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md),
+arXiv:2507.21509v3; read in [NOTE-tmpp25f6](../notes.d/NOTE-tmpp25f6.md).
 
 ## What was actually shown
 

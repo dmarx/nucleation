@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpbmoj1), from the publisher's open-access
+  read in full 2026-11-03 ([NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md)), from the publisher's open-access
   PDF; worth reading as the one place Irruption Theory is tied to a
   dynamical model and to data: the HKB potential with time-switched
   parameters, compared qualitatively with trial-to-trial variability in
@@ -66,15 +66,15 @@ Sánchez-Cañizares, J. (2026). Decision-making through irruption theory: how to
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpbmoj1).
+Read in full on 2026-11-03 ([NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md)).
 
 - The time-switched HKB model and its rise-and-fall of variability,
   checked by re-simulation; under the stated noise q = 1 the spread
-  settles near 0.40, not 0 as the paper says (THEORY-tmp100uk).
+  settles near 0.40, not 0 as the paper says ([THEORY-tmp100uk](../theory.d/THEORY-tmp100uk.md)).
 - IAT*: the mind controls which outcomes exist (the landscape's
-  parameters), not which the state reaches (THEORY-tmp1jrus).
+  parameters), not which the state reaches ([THEORY-tmp1jrus](../theory.d/THEORY-tmp1jrus.md)).
 - No chaos and no Kane: the model is a one-dimensional gradient flow.
 
 ## Standing in the record
 
-The open-access follow-up LIT-1132's status note already names. A22 summarizes what it concedes; NOTE-tmpbmoj1 lists the concessions in the paper's words.
+The open-access follow-up [LIT-1132](LIT-1132.md)'s status note already names. A22 summarizes what it concedes; [NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md) lists the concessions in the paper's words.

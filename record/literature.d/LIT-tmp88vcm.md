@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-03 (NOTE-tmpyug9h, Skimmed), from the version reprinted as
+  read 2026-11-03 ([NOTE-tmpyug9h](../notes.d/NOTE-tmpyug9h.md), Skimmed), from the version reprinted as
   chapter 2 of Dakos's 2011 Wageningen thesis (edepot.wur.nl/168815), its
   two technical boxes not extractable; worth reading as the standard
   review of generic early warnings of tipping points, critical slowing
@@ -64,14 +64,14 @@ Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S. R., Dakos,
 
 ## Key takeaways
 
-Read on 2026-11-03 from the thesis-chapter version (NOTE-tmpyug9h,
+Read on 2026-11-03 from the thesis-chapter version ([NOTE-tmpyug9h](../notes.d/NOTE-tmpyug9h.md),
 Skimmed).
 
 - Critical slowing down and its three signals, with the caution that they
-  mark proximity to a broad class of thresholds (THEORY-tmp7q08l).
+  mark proximity to a broad class of thresholds ([THEORY-tmp7q08l](../theory.d/THEORY-tmp7q08l.md)).
 - No early-warning theory yet for chaotic systems or basin-boundary
   collisions (p. 24 of the chapter).
 
 ## Standing in the record
 
-Critical slowing down as an early warning. The record holds Scheffer et al. 2001 and Scheffer and Carpenter 2003 (LIT-720, LIT-726); this is the review A16 and A21 cite.
+Critical slowing down as an early warning. The record holds Scheffer et al. 2001 and Scheffer and Carpenter 2003 ([LIT-720](LIT-720.md), [LIT-726](LIT-726.md)); this is the review A16 and A21 cite.

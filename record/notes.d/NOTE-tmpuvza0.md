@@ -176,10 +176,10 @@ tend to occur in informational environments" (p. 113).
 ## Connections
 
 It is the trait counterpart of the experimental work in Ryan 1982 and
-Ryan, Mims and Koestner 1983 (LIT-tmpeih61), which it cites as
+Ryan, Mims and Koestner 1983 ([LIT-tmpeih61](../literature.d/LIT-tmpeih61.md)), which it cites as
 manipulating "the interpersonal context of rewards or feedback" (p. 110).
 The record held causality orientations only as one-line mentions in
-NOTE-439 (p. 240 of LIT-558) and NOTE-441 (p. 1562 of LIT-560). The paper
+[NOTE-439](NOTE-439.md) (p. 240 of [LIT-558](../literature.d/LIT-558.md)) and [NOTE-441](NOTE-441.md) (p. 1562 of [LIT-560](../literature.d/LIT-560.md)). The paper
 anticipates Deci and Ryan's 1985 book and a causality-orientations-at-work
 scale (p. 131).
 
@@ -188,22 +188,22 @@ scale (p. 131).
 - **The registration's "the source of Causality Orientations Theory" is
   right**, with the qualification that the paper presents a scale and its
   validity, not a theory with propositions: COT's propositions are stated
-  later (Ryan et al. 2022, LIT-tmpd9u4s, cites this paper as COT's
+  later (Ryan et al. 2022, [LIT-tmpd9u4s](../literature.d/LIT-tmpd9u4s.md), cites this paper as COT's
   source and reports one or two meta-analyses).
-- **THEORY-054 (graded autonomy, not order).** The paper's renaming is
+- **[THEORY-054](../theory.d/THEORY-054.md) (graded autonomy, not order).** The paper's renaming is
   evidence for the account's "Not order" half in the SDT sources: inner
   events such as "I *have* to do that to feel worthwhile" "function more
   like external controls" (p. 111), so a motive inside the person can be
-  controlled. It is the same position as LIT-558's introjects, ten years
+  controlled. It is the same position as [LIT-558](../literature.d/LIT-558.md)'s introjects, ten years
   earlier, and is not a test of it.
-- **THEORY-049 (functional significance).** The paper adds a person-side
+- **[THEORY-049](../theory.d/THEORY-049.md) (functional significance).** The paper adds a person-side
   route to the same account: whether an event is informational or
   controlling depends on the recipient's orientation as well as the
   event. That makes the account's refutation harder to set up, since an
   event can be controlling for one person and informational for another;
-  a test of THEORY-049's clause needs the orientation measured or
+  a test of [THEORY-049](../theory.d/THEORY-049.md)'s clause needs the orientation measured or
   randomized away.
-- **QUESTION-071 and CLAIM-016 (history and manipulation).** The paper
+- **[QUESTION-071](../questions.d/QUESTION-071.md) and [CLAIM-016](../claims.d/CLAIM-016.md) (history and manipulation).** The paper
   holds that orientations develop from the person's history of contexts,
   but measures only the present disposition, so it does not bear on
   history against present structure.

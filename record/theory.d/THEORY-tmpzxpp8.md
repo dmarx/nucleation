@@ -9,8 +9,8 @@ date: '2026-11-03'
 source:
 - LIT-tmp4flye
 summary: >-
-  Marks, Lindsey and Olah (2026), LIT-tmp4flye, read in full in
-  NOTE-tmpftp86. Active as a statement of what the model says and does
+  Marks, Lindsey and Olah (2026), [LIT-tmp4flye](../literature.d/LIT-tmp4flye.md), read in full in
+  [NOTE-tmpftp86](../notes.d/NOTE-tmpftp86.md). Active as a statement of what the model says and does
   not say, all of it in the text. It does not say that the model is true:
   the authors are "overall unsure how complete" it is, its evidence is
   surveyed rather than new, and its updating is offered as "can be viewed
@@ -22,7 +22,7 @@ summary: >-
 
 ## Source
 
-Marks, Lindsey and Olah (2026), LIT-tmp4flye; read in NOTE-tmpftp86.
+Marks, Lindsey and Olah (2026), [LIT-tmp4flye](../literature.d/LIT-tmp4flye.md); read in [NOTE-tmpftp86](../notes.d/NOTE-tmpftp86.md).
 
 ## What was actually shown
 

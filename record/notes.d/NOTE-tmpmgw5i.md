@@ -141,10 +141,10 @@ mediator is what turns "goal contents matter" into a claim about needs.
 
 ## Connections
 
-- **Kasser and Ryan 1996** (LIT-tmpj1mee) supplies the two factors; Kasser
+- **Kasser and Ryan 1996** ([LIT-tmpj1mee](../literature.d/LIT-tmpj1mee.md)) supplies the two factors; Kasser
   and Ryan 2001 and Ryan et al. 1999 (Russia) the cross-sectional
   attainment findings this extends.
-- **Sheldon and Elliot 1999** (LIT-589, NOTE-448), the self-concordance
+- **Sheldon and Elliot 1999** ([LIT-589](../literature.d/LIT-589.md), [NOTE-448](NOTE-448.md)), the self-concordance
   model, is the regulation half; this paper claims the content half and
   says "the content, in addition to the regulation, of goals matters"
   (Broader Implications). Some data were also used in Study 3 of Sheldon et
@@ -152,7 +152,7 @@ mediator is what turns "goal contents matter" into a claim about needs.
 
 ## Bearing on the record
 
-- **NOTE-442's summary of Ryan and Deci 2000 says extrinsic aspirations'
+- **[NOTE-442](NOTE-442.md)'s summary of Ryan and Deci 2000 says extrinsic aspirations'
   attainment "does not help".** This paper is the later direct test, and it
   qualifies that: the null is a unique-variance result with intrinsic
   attainment in the same model. Alone, extrinsic attainment correlates
@@ -160,7 +160,7 @@ mediator is what turns "goal contents matter" into a claim about needs.
   (.18). What the paper shows is that extrinsic attainment adds nothing
   once intrinsic attainment is known, and goes with more ill-being at the
   cross-section.
-- **QUESTION-tmpee04a.** The paper uses needs as the mediator that explains
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** The paper uses needs as the mediator that explains
   why some goal successes do not pay, which is one of the "functional"
   uses of need-hood the question asks about. But it inherits the
   question's circularity: intrinsic aspirations are *defined* as those
@@ -168,11 +168,11 @@ mediator is what turns "goal contents matter" into a claim about needs.
   well-being outcome includes self-esteem, and mediator and outcome are
   both self-reported at the same occasions. It does not supply a criterion
   for need-hood that avoids the well-being measure.
-- **THEORY-049 and THEORY-054**, which hold goal contents and regulation
+- **[THEORY-049](../theory.d/THEORY-049.md) and [THEORY-054](../theory.d/THEORY-054.md)**, which hold goal contents and regulation
   second-hand: this is primary evidence for the content side, at N = 147.
-- **THEORY-052** is not addressed: no frustration measure, no clinical
+- **[THEORY-052](../theory.d/THEORY-052.md)** is not addressed: no frustration measure, no clinical
   outcome.
-- Filed from it: THEORY-tmpcjdte (Proposed).
+- Filed from it: [THEORY-tmpcjdte](../theory.d/THEORY-tmpcjdte.md) (Proposed).
 - **No instruction for machine-learning practice.**
 
 ## Limitations

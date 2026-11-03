@@ -9,7 +9,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpj1mee
 summary: >-
-  Kasser and Ryan (1996), LIT-tmpj1mee, read in NOTE-tmpp47uv from the scan
+  Kasser and Ryan (1996), [LIT-tmpj1mee](../literature.d/LIT-tmpj1mee.md), read in [NOTE-tmpp47uv](../notes.d/NOTE-tmpp47uv.md) from the scan
   on the SDT site. Active as a careful reading of reported associations
   with their sizes and samples: 100 community adults and 192 students, all
   self-report. The intrinsic and extrinsic results are nearly one
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Kasser and Ryan (1996), LIT-tmpj1mee, *PSPB* 22, 280–287; read in
-NOTE-tmpp47uv.
+Kasser and Ryan (1996), [LIT-tmpj1mee](../literature.d/LIT-tmpj1mee.md), *PSPB* 22, 280–287; read in
+[NOTE-tmpp47uv](../notes.d/NOTE-tmpp47uv.md).
 
 ## What was actually shown
 
@@ -45,7 +45,7 @@ symptoms dropping to marginal (p. 285).
 **The scoring carries the result.** The overall score averages all
 domains (p. 282); the result is about the balance of aspirations, the
 same reading Bradshaw et al. 2022 later gave through relative-centrality
-scoring (as reported in LIT-tmpd9u4s).
+scoring (as reported in [LIT-tmpd9u4s](../literature.d/LIT-tmpd9u4s.md)).
 
 This could have come out otherwise: with overall striving held fixed,
 the content of aspirations could have been unrelated to well-being.
@@ -64,5 +64,5 @@ the content of aspirations could have been unrelated to well-being.
 
 ## Connections
 
-- **NOTE-439's C4** ("beyond the reasons for pursuing them"): this paper
+- **[NOTE-439](../notes.d/NOTE-439.md)'s C4** ("beyond the reasons for pursuing them"): this paper
   supports the first half only.

@@ -216,11 +216,11 @@ cited in the body, rest on this claim; they are not its premises.
 
 ## Note of 2026-11-03: the measure it cites in parallel
 
-Its sentence that self-determination theory (THEORY-052) keeps need
+Its sentence that self-determination theory ([THEORY-052](../theory.d/THEORY-052.md)) keeps need
 frustration apart from low satisfaction is true of the theory and not
 established of its main measure, whose split is organized by item keying
-(Murphy et al., NOTE-tmpswlms; Chen et al., NOTE-tmpr36wg). The claim does not
-rest on it. Levine et al. (NOTE-tmpe4mmg) separate frustration from negative
+(Murphy et al., [NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md); Chen et al., [NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md)). The claim does not
+rest on it. Levine et al. ([NOTE-tmpe4mmg](../notes.d/NOTE-tmpe4mmg.md)) separate frustration from negative
 affect in individuals, a parallel to "frustration, not distress", not evidence
 about organizations.
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpryuio), from the publisher's open-access
+  read in full 2026-11-03 ([NOTE-tmpryuio](../notes.d/NOTE-tmpryuio.md)), from the publisher's open-access
   PDF; worth reading as, by its own account, the first human intracranial test of whether
   phase-amplitude coupling tracks the allocation of spatial
   attention in fronto-parietal cortex, with careful controls for evoked
@@ -58,9 +58,9 @@ Szczepanski, S. M., Crone, N. E., Kuperman, R. A., Auguste, K. I., Parvizi, J., 
 
 ## Key takeaways
 
-- Delta/theta (2–5 Hz) phase to high-gamma amplitude coupling during held spatial attention, in 123 of 273 electrodes across frontal, parietal and visual cortex (NOTE-tmpryuio).
+- Delta/theta (2–5 Hz) phase to high-gamma amplitude coupling during held spatial attention, in 123 of 273 electrodes across frontal, parietal and visual cortex ([NOTE-tmpryuio](../notes.d/NOTE-tmpryuio.md)).
 - Coupling strength predicts reaction time trial by trial in 28 electrodes; neither band's amplitude does.
-- No manipulation, no waveform-shape control: it shows that coupling tracks attention, not that it improves it (THEORY-tmp9pem2).
+- No manipulation, no waveform-shape control: it shows that coupling tracks attention, not that it improves it ([THEORY-tmp9pem2](../theory.d/THEORY-tmp9pem2.md)).
 
 ## Standing in the record
 

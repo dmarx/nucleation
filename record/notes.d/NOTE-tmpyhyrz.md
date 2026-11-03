@@ -129,16 +129,16 @@ exponents at the moment of the perturbation (§4).
 
 ## Connections
 
-- Kane 1996 (LIT-tmpnqv86, Deferred) is the incompatibilist named in §6.4.
-- Bishop, Silberstein and Pexton 2022 (LIT-tmpszapu) is cited for
+- Kane 1996 ([LIT-tmpnqv86](../literature.d/LIT-tmpnqv86.md), Deferred) is the incompatibilist named in §6.4.
+- Bishop, Silberstein and Pexton 2022 ([LIT-tmpszapu](../literature.d/LIT-tmpszapu.md)) is cited for
   contextual emergence (§§6.2–6.3); Bishop and Atmanspacher 2006
-  (LIT-tmpo8e51) is the earlier statement.
+  ([LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)) is the earlier statement.
 - Juarrero 1999 and 2023, Kelso 1995, van Gelder 1995: the dynamical-systems
   approach to cognition and action (§6.4).
 
 ## Bearing on the record
 
-- **CLAIM-tmpex9rg: the registration's quotation checks, and the entry
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md): the registration's quotation checks, and the entry
   says more.** "The challenge remains for incompatibilists, such Robert
   Kane (1996), to demonstrate agents can effectively harness such
   indeterminism" is verbatim in §6.4 (the SEP's "such Robert Kane" lacks
@@ -152,11 +152,11 @@ exponents at the moment of the perturbation (§4).
   amplification touches lasts only where it reaches the slow modes, and
   adds that it may not be amplified at all. The redundancy point is
   asserted without evidence.
-- **THEORY-tmp6xjgq and NOTE-tmpby7i2: the record's gloss on Bishop is too
+- **[THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md) and [NOTE-tmpby7i2](NOTE-tmpby7i2.md): the record's gloss on Bishop is too
   thin.** Both say that Bishop and Atmanspacher's contextual emergence is
   about "stability conditions that make a higher-level description well
   defined", and that the causal reading is Jennings's. That may hold of
-  the 2006 paper (unread, LIT-tmpo8e51), whose title is about the
+  the 2006 paper (unread, [LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)), whose title is about the
   description of properties. But by 2024 Bishop states contextual
   emergence as ontological: stability conditions at larger scales
   "constrain or enable" smaller-scale processes, "making modal changes to
@@ -170,7 +170,7 @@ exponents at the moment of the perturbation (§4).
   strong emergence's brute "causal powers" (§6.2) and treats causation
   pluralistically (§6.3), so "causal power" is a word Jennings adds, not
   one the source supplies.
-- **CLAIM-334.** §6.3 says the classical-to-quantum determination "runs in
+- **[CLAIM-334](../claims.d/CLAIM-334.md).** §6.3 says the classical-to-quantum determination "runs in
   the opposite direction of the supervenience intuition". That is a
   statement about modelling relations between classical and quantum
   descriptions, not an intervention on a macro variable with its base held
@@ -192,4 +192,4 @@ exponents at the moment of the perturbation (§4).
 - Does Bishop's contextual emergence, as ontological constraint, give the
   macro level anything an intervention could find that the micro
   description, with the same stability conditions written as constraints,
-  lacks? That is THEORY-tmp6xjgq's question, put to Bishop.
+  lacks? That is [THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)'s question, put to Bishop.

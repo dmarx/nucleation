@@ -10,7 +10,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpek1lj
 summary: >-
-  Patrick et al. (2007), LIT-tmpek1lj, read in NOTE-tmpi2z1s from the
+  Patrick et al. (2007), [LIT-tmpek1lj](../literature.d/LIT-tmpek1lj.md), read in [NOTE-tmpi2z1s](../notes.d/NOTE-tmpi2z1s.md) from the
   article on the SDT site. Active as a careful reading of reported results
   with their sizes and samples: eight pooled samples (N = 1,918), 66
   couples, and 120 diarists with 908 disagreements, all self-report,
@@ -25,8 +25,8 @@ summary: >-
 
 ## Source
 
-Patrick, Knee, Canevello and Lonsbary (2007), LIT-tmpek1lj, *JPSP* 92,
-434–457; read in NOTE-tmpi2z1s.
+Patrick, Knee, Canevello and Lonsbary (2007), [LIT-tmpek1lj](../literature.d/LIT-tmpek1lj.md), *JPSP* 92,
+434–457; read in [NOTE-tmpi2z1s](../notes.d/NOTE-tmpi2z1s.md).
 
 ## What was actually shown
 
@@ -73,10 +73,10 @@ distinct, and each could have predicted relationship outcomes equally.
 
 ## Connections
 
-- **QUESTION-tmpee04a.** Evidence of the kind the question says cannot
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** Evidence of the kind the question says cannot
   settle it, and a further problem the question does not state: a
   relationship-level measure of three needs that behaves, in these data,
   as one or two.
-- **THEORY-054.** Study 3 reports a simplex among relationship-motivation
+- **[THEORY-054](THEORY-054.md).** Study 3 reports a simplex among relationship-motivation
   subscales and then scores one weighted index (p. 447); integration is not
   measured.

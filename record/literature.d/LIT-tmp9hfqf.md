@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-03 (NOTE-tmpyhyrz), from the live SEP page, §§4 and 6
+  skimmed 2026-11-03 ([NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md)), from the live SEP page, §§4 and 6
   and the stock-taking sections read closely; worth reading for its case
   that chaos is not indeterminism, that amplification of small
   perturbations is physically conditional, and that Kane's use of chaos
@@ -63,10 +63,10 @@ Bishop, R. (2008). Chaos. *Stanford Encyclopedia of Philosophy (substantive revi
 
 ## Key takeaways
 
-- Chaos is deterministic; sensitivity is not openness, and amplification is physically conditional (THEORY-tmpnjaik).
-- Kane must still show that agents can harness amplified indeterminism (§6.4, verbatim as CLAIM-tmpex9rg quotes it).
-- Contextual emergence, in Bishop's 2024 statement, is ontological constraint by larger-scale stability conditions, set against strong emergence's causal powers (THEORY-tmpnkdiy).
-- Skimmed in NOTE-tmpyhyrz.
+- Chaos is deterministic; sensitivity is not openness, and amplification is physically conditional ([THEORY-tmpnjaik](../theory.d/THEORY-tmpnjaik.md)).
+- Kane must still show that agents can harness amplified indeterminism (§6.4, verbatim as [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) quotes it).
+- Contextual emergence, in Bishop's 2024 statement, is ontological constraint by larger-scale stability conditions, set against strong emergence's causal powers ([THEORY-tmpnkdiy](../theory.d/THEORY-tmpnkdiy.md)).
+- Skimmed in [NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md).
 
 ## Standing in the record
 

@@ -129,8 +129,8 @@ many tokens" (pp. 13–14).
 Builds on activation steering (Turner et al.; Panickssery et al.; Zou et al.),
 Wu et al.'s automated contrastive pipeline, Wang et al.'s "misaligned
 persona" features, emergent misalignment (Betley et al.) and CAFT
-(Casademunt et al.). The Assistant Axis (LIT-tmpqjfxe) extends it to 275
-roles. PSM (LIT-tmp4flye) reads it as evidence that training-time shifts
+(Casademunt et al.). The Assistant Axis ([LIT-tmpqjfxe](../literature.d/LIT-tmpqjfxe.md)) extends it to 275
+roles. PSM ([LIT-tmp4flye](../literature.d/LIT-tmp4flye.md)) reads it as evidence that training-time shifts
 "can be regarded as conditioning".
 
 ## Bearing on the record
@@ -143,7 +143,7 @@ roles. PSM (LIT-tmp4flye) reads it as evidence that training-time shifts
   methods to characterize the space of *all* personas … does there exist a
   natural 'persona basis'?" (p. 14). It is a handle on movement along named
   traits.
-- **CLAIM-tmpwh2jo.** The cross-trait entanglement (negative traits and humor
+- **[CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md).** The cross-trait entanglement (negative traits and humor
   shifting together, opposite to optimism) is dependence among trait
   directions of the statistical, undirected kind the claim calls H2a: it
   holds under finetuning across datasets and the authors attribute it to
@@ -153,7 +153,7 @@ roles. PSM (LIT-tmp4flye) reads it as evidence that training-time shifts
   The regularization result, the trait re-encoded "using alternative
   directions", is a caution for any reading of one vector as the trait's
   mechanism.
-- **QUESTION-tmpildq9.** The paper supplies an intervention handle of the
+- **[QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md).** The paper supplies an intervention handle of the
   kind the question asks for: steering at every decoding step changes
   behaviour; but the measured effect is a judge's trait score, not which
   concepts reach report, and there is no workspace or bypass distinction.

@@ -145,27 +145,27 @@ a need is a need. The status is unchanged.
 The works registered on 2026-11-02 were read (curation entry of 2026-11-03).
 None meets the promote_when.
 
-- **Campbell et al. 2018** (NOTE-tmpxovm7), the "longitudinal study" cited
-  through LIT-561 p. 12. Frustration largely accounts for the co-occurrence of
+- **Campbell et al. 2018** ([NOTE-tmpxovm7](../notes.d/NOTE-tmpxovm7.md)), the "longitudinal study" cited
+  through [LIT-561](../literature.d/LIT-561.md) p. 12. Frustration largely accounts for the co-occurrence of
   depression and eating pathology (.50 falls to a non-significant .18), but the
   follow-up has two waves, with frustration and symptoms both measured as change
   over the same six months. It gives no temporal order.
-- **Levine et al. 2021** (NOTE-tmpe4mmg) is the record's first prospective
+- **Levine et al. 2021** ([NOTE-tmpe4mmg](../notes.d/NOTE-tmpe4mmg.md)) is the record's first prospective
   evidence: frustration predicted later depressive symptoms (β .13–.18) where
   negative affect did not. One disorder, all self-report, and depression also
   predicted later frustration at one lag (β .20).
-- **The measure.** Murphy et al. 2023 (NOTE-tmpswlms) find the BPNSFS's
+- **The measure.** Murphy et al. 2023 ([NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md)) find the BPNSFS's
   satisfaction–frustration split organized by item keying: same-keyed factors
   correlate .64–.75, satisfaction and frustration of one need only .17–.38. Chen
-  et al. (NOTE-tmpr36wg) word every frustration item negatively and every
+  et al. ([NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md)) word every frustration item negatively and every
   satisfaction item positively, so the scale's own evidence cannot rule this
   out, and some frustration items read like depression-scale items. So
   "frustration predicts ill-being beyond low satisfaction", in BPNSFS data, is
   what keying alone would produce. The promote_when should exclude a frustration
   score whose separation from satisfaction is a keying split.
-- **Intervention.** Ntoumanis et al. (NOTE-tmpqk41c) measure no need frustration
+- **Intervention.** Ntoumanis et al. ([NOTE-tmpqk41c](../notes.d/NOTE-tmpqk41c.md)) measure no need frustration
   and test no mediation, and the psychological-health effect (g = 0.29) is not
-  significant at follow-up (g = 0.14). Ryan et al. 2022 (NOTE-tmp1eol1): the
+  significant at follow-up (g = 0.14). Ryan et al. 2022 ([NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md)): the
   frustration–ill-being link "has yet to be meta-analytically investigated".
 
 The status is unchanged.

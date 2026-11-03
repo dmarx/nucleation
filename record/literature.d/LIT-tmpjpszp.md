@@ -9,7 +9,7 @@ status_note: >-
   https://typeset.io/pdf/within-person-variation-in-security-of-attachment-a-self-5bo5w7krr7.pdf;
   its provenance could not be judged and this session's permission check
   refused the fetch, so it was not read. Patrick et al. 2007
-  (LIT-tmpek1lj, read) reports its results second-hand.
+  ([LIT-tmpek1lj](LIT-tmpek1lj.md), read) reports its results second-hand.
 title: 'Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being.'
 version: 2
 history:
@@ -59,7 +59,7 @@ La Guardia, J. G., Ryan, R. M., Couchman, C. E., Deci, E. L. (2000). Within-pers
 ## Key takeaways
 
 *Not read.* No lawful copy was reached (see the status note).
-Patrick et al. 2007 (LIT-tmpek1lj) report its results second-hand.
+Patrick et al. 2007 ([LIT-tmpek1lj](LIT-tmpek1lj.md)) report its results second-hand.
 
 ## Standing in the record
 

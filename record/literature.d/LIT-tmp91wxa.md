@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmp2mbd7), from arXiv v7; worth
+  read in full 2026-11-03 ([NOTE-tmp2mbd7](../notes.d/NOTE-tmp2mbd7.md)), from arXiv v7; worth
   reading as the source of query–key–value attention, whose
   factorization into compatibility weights and transported values is
-  the structure TERM-064's note of 2026-11-02 compares to legibility.
+  the structure [TERM-064](../terms.d/TERM-064.md)'s note of 2026-11-02 compares to legibility.
   The QK/OV vocabulary is Elhage et al.'s, not this paper's.
 title: 'Attention Is All You Need'
 version: 2
@@ -52,7 +52,7 @@ summary: >-
 
 Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., et al. (2017). Attention Is All You Need. *arXiv preprint; NeurIPS 2017*. arXiv:1706.03762.
 
-Read in full on 2026-11-03 (NOTE-tmp2mbd7; THEORY-tmpu6kk8).
+Read in full on 2026-11-03 ([NOTE-tmp2mbd7](../notes.d/NOTE-tmp2mbd7.md); [THEORY-tmpu6kk8](../theory.d/THEORY-tmpu6kk8.md)).
 
 ## Key takeaways
 

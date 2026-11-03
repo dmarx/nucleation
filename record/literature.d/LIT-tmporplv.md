@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpgd5c5), from the published PDF on
+  read in full 2026-11-03 ([NOTE-tmpgd5c5](../notes.d/NOTE-tmpgd5c5.md)), from the published PDF on
   selfdeterminationtheory.org; worth reading as the primary study for SDT's
   claim that autonomy is not individualism: autonomous enactment of
   collectivist and vertical practices predicts well-being in four countries.
@@ -61,7 +61,7 @@ Chirkov, V., Ryan, R. M., Kim, Y., Kaplan, U. (2003). Differentiating autonomy f
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpgd5c5). THEORY-tmphu42d, Proposed, is filed from it.
+Read in full on 2026-11-03 ([NOTE-tmpgd5c5](../notes.d/NOTE-tmpgd5c5.md)). [THEORY-tmphu42d](../theory.d/THEORY-tmphu42d.md), Proposed, is filed from it.
 
 ## Standing in the record
 

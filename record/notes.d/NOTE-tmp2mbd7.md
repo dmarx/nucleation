@@ -93,15 +93,15 @@ Every pair of positions is one operation apart (Table 1).
 
 Bahdanau et al. (additive attention), end-to-end memory networks, ByteNet and
 ConvS2S, the parallel non-recurrent predecessors. In the record the circuit
-analysis of attention is Elhage et al. (LIT-1534, THEORY-988).
+analysis of attention is Elhage et al. ([LIT-1534](../literature.d/LIT-1534.md), [THEORY-988](../theory.d/THEORY-988.md)).
 
 ## Bearing on the record
 
-- **TERM-064's note of 2026-11-02 ("QKV, MVC and legibility").** The paper
+- **[TERM-064](../terms.d/TERM-064.md)'s note of 2026-11-02 ("QKV, MVC and legibility").** The paper
   supports its structural reading: the weights depend on queries and keys
   alone and the output is the weighted values, so selection and transport are
   separate factors of eq. (1). Three refinements:
-  - The words "QK circuit" and "OV circuit" are Elhage et al.'s (LIT-1534);
+  - The words "QK circuit" and "OV circuit" are Elhage et al.'s ([LIT-1534](../literature.d/LIT-1534.md));
     Vaswani et al. speak of a compatibility function and values. The note's
     attribution "(Vaswani et al., … Elhage et al.)" reads as if both used the
     split; only the second names it.

@@ -112,18 +112,18 @@ The owner's connection puts that gap in control terms:
 
 ## Note of 2026-11-03: the readings
 
-- **The SEP quotation is verbatim** (§6.4; NOTE-tmpyhyrz). Bishop adds that
+- **The SEP quotation is verbatim** (§6.4; [NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md)). Bishop adds that
   amplification "may be severely constrained", by damping and by negative
   local Lyapunov exponents at arrival (§4), and without citation by neural
-  redundancy (THEORY-tmpnjaik). That supports the slow-modes clause.
-- **A libertarian concedes the core.** Froese (NOTE-tmpn7fkx): amplified
+  redundancy ([THEORY-tmpnjaik](../theory.d/THEORY-tmpnjaik.md)). That supports the slow-modes clause.
+- **A libertarian concedes the core.** Froese ([NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md)): amplified
   irruptions "cannot directly control … cannot force the formation of the
   behavior that is to come" (§5.2.3). His remedy is attunement, but in the model
   he cites the resets are arbitrary, so nothing tells the agent's input from
-  noise (THEORY-tmped3yc).
-- **No chaos in the irruption model.** Sánchez-Cañizares 2026 (NOTE-tmpbmoj1)
+  noise ([THEORY-tmped3yc](../theory.d/THEORY-tmped3yc.md)).
+- **No chaos in the irruption model.** Sánchez-Cañizares 2026 ([NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md))
   has a one-dimensional gradient flow and does not cite Kane; the mind's only
   channel is to the landscape's parameters, so it sets which outcomes exist, not
-  which is reached (THEORY-tmp1jrus).
+  which is reached ([THEORY-tmp1jrus](../theory.d/THEORY-tmp1jrus.md)).
 - **Kane is still unread.** The book is Unavailable and the 1999 and 2009 papers
   unreached, so "as the standard reading has it" stands.

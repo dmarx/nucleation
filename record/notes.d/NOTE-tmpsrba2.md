@@ -125,7 +125,7 @@ that the caption does not specify.
   al. 2017, Lozano-Soldevilla et al. 2016, Giehl et al. 2021 and Vaz et
   al. 2017 are the PAC-and-shape literature it rests on (p. 25).
 - Voytek is senior author here and the source of the PAC method
-  Szczepanski et al. used (LIT-tmpkq6x5, NOTE-tmpryuio).
+  Szczepanski et al. used ([LIT-tmpkq6x5](../literature.d/LIT-tmpkq6x5.md), [NOTE-tmpryuio](NOTE-tmpryuio.md)).
 - **"Park and colleagues (2017)", which A5 attributed to this line of
   caution, is not cited in this paper.** The only 2017 entries near the
   name are Cole et al. 2017 on Parkinson's beta, whose title contains
@@ -133,12 +133,12 @@ that the caption does not specify.
 
 ## Bearing on the record
 
-- **Jennings 2026 (LIT-tmpasemk, NOTE-tmpby7i2), on PAC.** Jennings reads PAC
+- **Jennings 2026 ([LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), [NOTE-tmpby7i2](NOTE-tmpby7i2.md)), on PAC.** Jennings reads PAC
   as "evidence that low frequency waves constrain high frequency waves, a
   form of power or control" (p. 28). This paper shows that a PAC measure
   can be significant with no second rhythm at all. A measured PAC therefore
   needs shape controls before it is evidence of one rhythm modulating
-  another, let alone of a macro-level power (THEORY-tmp6xjgq).
+  another, let alone of a macro-level power ([THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)).
 - **On 1/f scaling.** Jennings offers the brain's self-organization "into
   scale-free patterns" as what "allows for the emergence of the subject"
   (pp. 27–29), noting in fn. 20 that such background activity was once
@@ -147,7 +147,7 @@ that the caption does not specify.
   postsynaptic currents (p. 9; Gao et al. 2017). It is a physiological
   feature worth studying, but its presence is not by itself evidence of a
   higher-level constraint.
-- **On Szczepanski et al. (THEORY-tmp9pem2).** That study's 80–250 Hz
+- **On Szczepanski et al. ([THEORY-tmp9pem2](../theory.d/THEORY-tmp9pem2.md)).** That study's 80–250 Hz
   coupling to a 2–5 Hz phase is broad and far from low harmonics, so by
   C4 it is not the typical shape artefact; but no shape control was run.
   A5's caution applies in principle and is not shown to defeat it.

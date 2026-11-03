@@ -153,25 +153,25 @@ more predictive than any of them in two of three US samples.
 ## Connections
 
 - The nine-item autonomy, competence and relatedness subset became Study
-  1's measure in Chen et al. 2015 (LIT-tmpzyunx), which criticizes this
+  1's measure in Chen et al. 2015 ([LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md)), which criticizes this
   paper for not testing measurement equivalence.
-- Chirkov et al. 2003 (LIT-tmporplv) cites it as evidence that event
+- Chirkov et al. 2003 ([LIT-tmporplv](../literature.d/LIT-tmporplv.md)) cites it as evidence that event
   autonomy predicts well-being in Korea as in the USA.
-- It answers Iyengar and Lepper 1999 (LIT-tmp0rsz4) and Markus et al. 1996
+- It answers Iyengar and Lepper 1999 ([LIT-tmp0rsz4](../literature.d/LIT-tmp0rsz4.md)) and Markus et al. 1996
   on autonomy's universality (p. 333).
 - Kasser and Ryan 1993, 1996 for the "dark side" of the American dream.
 
 ## Bearing on the record
 
-- **The registration and NOTE-440's reply, corrected.** LIT-tmpd3l9z says
-  "self-esteem performs strongly. NOTE-440 holds SDT's reply, that
+- **The registration and [NOTE-440](NOTE-440.md)'s reply, corrected.** [LIT-tmpd3l9z](../literature.d/LIT-tmpd3l9z.md) says
+  "self-esteem performs strongly. [NOTE-440](NOTE-440.md) holds SDT's reply, that
   self-esteem is derivative." The paper's own authors, Kasser and Sheldon
   among SDT's central researchers, considered that reply in the paper and
   rejected it: treating self-esteem as an outcome would be "imprudent",
   and the "preliminary conclusion" is four needs (p. 336). SDT's later
-  position (NOTE-440, pp. 5, 7) is a reply to its own authors' 2001
+  position ([NOTE-440](NOTE-440.md), pp. 5, 7) is a reply to its own authors' 2001
   conclusion, not to an outside critic.
-- **QUESTION-tmpee04a: the paper names the question's problem in its own
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md): the paper names the question's problem in its own
   case.** Self-esteem can be a need or "a well-being outcome rather than a
   predictor"; the data cannot decide, because the criterion is affect and
   the self-esteem items ("Quite satisfied with who I am") read like
@@ -179,18 +179,18 @@ more predictive than any of them in two of three US samples.
   vividness. The paper's two criteria are both self-reports of the same
   remembered event, so convergence between them is not independent
   confirmation. It is the clearest worked instance in the record of the
-  interdefinition NOTE-439 flags.
+  interdefinition [NOTE-439](NOTE-439.md) flags.
 - **Its own measure of autonomy preference labels autonomy
   "autonomy–independence"** (Appendix), the conflation Chirkov et al.
-  (LIT-tmporplv) argue against two years later.
-- **LIT-tmpkzr6r and LIT-tmpk1ssy** test beneficence by the frustration
+  ([LIT-tmporplv](../literature.d/LIT-tmporplv.md)) argue against two years later.
+- **[LIT-tmpkzr6r](../literature.d/LIT-tmpkzr6r.md) and [LIT-tmpk1ssy](../literature.d/LIT-tmpk1ssy.md)** test beneficence by the frustration
   criterion; this paper's deficiency analysis (Study 3) is an early form of
   that criterion, and on it autonomy and relatedness "did not as strongly
   influence the affect associated with unsatisfying events" (p. 337).
-- **THEORY-052**: Study 3's "missing" ratings are an early, event-level
+- **[THEORY-052](../theory.d/THEORY-052.md)**: Study 3's "missing" ratings are an early, event-level
   measure of something like frustration; competence and security, not all
   three SDT needs, carried the unique variance there.
-- Filed from it: THEORY-tmp5tsat (Active).
+- Filed from it: [THEORY-tmp5tsat](../theory.d/THEORY-tmp5tsat.md) (Active).
 - **No instruction for machine-learning practice.**
 
 ## Limitations

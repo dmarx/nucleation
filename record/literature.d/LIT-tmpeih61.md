@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpnibvh), from the scan on the SDT
+  read in full 2026-11-03 ([NOTE-tmpnibvh](../notes.d/NOTE-tmpnibvh.md)), from the scan on the SDT
   site. Worth reading as the source of the reward-contingency taxonomy
   and the one experiment that gives the same performance-contingent
   reward in an informational and a controlling style, each against a
@@ -68,14 +68,14 @@ Ryan, R. M., Mims, V., Koestner, R. (1983). Relation of reward contingency and i
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpnibvh).
+Read in full on 2026-11-03 ([NOTE-tmpnibvh](../notes.d/NOTE-tmpnibvh.md)).
 
 - Four contingencies; under a common terminology the studies mostly agree.
 - Performance-contingent rewards carry both information and control; their
   effect depends on how they are given.
 - Against a no-reward group with identical feedback, they still undermine.
 - One small experiment; felt control was not tested as mediator.
-- THEORY-tmph0nrv.
+- [THEORY-tmph0nrv](../theory.d/THEORY-tmph0nrv.md).
 
 ## Standing in the record
 

@@ -6,7 +6,7 @@ status_note: >-
   published article reposted on a third-party site that hosts papers for
   discussion, at
   https://www.cooperative-individualism.org/kane-robert_libertarianism-2009-may.pdf.
-  ADR-064 counts such copies as lawful to read; this session's
+  [ADR-064](../decisions.d/ADR-064.md) counts such copies as lawful to read; this session's
   permission check refused the download, and no attempt was made to get
   round it. The owner can open that address directly. OpenAlex,
   Unpaywall (noreply address) and Crossref report the article closed,

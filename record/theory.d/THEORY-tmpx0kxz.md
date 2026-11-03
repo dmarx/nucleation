@@ -10,12 +10,12 @@ date: '2026-11-03'
 source:
 - LIT-tmp31f3t
 summary: >-
-  Froese (2023), LIT-tmp31f3t, read in full in NOTE-tmpn7fkx from PubMed
+  Froese (2023), [LIT-tmp31f3t](../literature.d/LIT-tmp31f3t.md), read in full in [NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md) from PubMed
   Central's copy. Active as a statement of what the theory says: its three
   axioms, its three theses, and the commitment that irruptions are
   undirected, all in the text (§§5.1–5.2.3). It does not say that the
   theory is true, that neural entropy measures motivation, or that
-  attunement answers the luck objection (THEORY-tmped3yc, Proposed).
+  attunement answers the luck objection ([THEORY-tmped3yc](THEORY-tmped3yc.md), Proposed).
 ---
 <!-- inactive-ok-file: THEORY-tmped3yc CLAIM-tmpex9rg — Proposed; the companion THEORY and the claim this bears on, cited as open -->
 
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Froese (2023), LIT-tmp31f3t, §§4–6 of the version of record in PubMed
-Central (PMC10217218); read in NOTE-tmpn7fkx.
+Froese (2023), [LIT-tmp31f3t](../literature.d/LIT-tmp31f3t.md), §§4–6 of the version of record in PubMed
+Central (PMC10217218); read in [NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md).
 
 ## What was actually shown
 
@@ -64,4 +64,4 @@ explicitly does not.
 - That entropy measures irruption. The paper proposes it and gives no way
   to separate motivated unpredictability from other unpredictability.
 - That attunement makes underdetermined behaviour the agent's own. That is
-  the paper's further, unestablished claim (THEORY-tmped3yc).
+  the paper's further, unestablished claim ([THEORY-tmped3yc](THEORY-tmped3yc.md)).

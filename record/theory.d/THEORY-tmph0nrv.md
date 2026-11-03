@@ -24,7 +24,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpeih61
 summary: >-
-  Ryan, Mims and Koestner (1983), LIT-tmpeih61, read in NOTE-tmpnibvh from
+  Ryan, Mims and Koestner (1983), [LIT-tmpeih61](../literature.d/LIT-tmpeih61.md), read in [NOTE-tmpnibvh](../notes.d/NOTE-tmpnibvh.md) from
   the scan on the SDT site. One experiment, N = 96, n = 16 per cell, ANCOVA
   on initial interest. The framing effect is F(1, 89) = 4.25 and the
   reward effect against feedback-matched controls F(1, 89) = 4.34;
@@ -38,8 +38,8 @@ summary: >-
 
 ## Source
 
-Ryan, Mims and Koestner (1983), LIT-tmpeih61, *JPSP* 45, 736–750, pp.
-744–748; read in NOTE-tmpnibvh.
+Ryan, Mims and Koestner (1983), [LIT-tmpeih61](../literature.d/LIT-tmpeih61.md), *JPSP* 45, 736–750, pp.
+744–748; read in [NOTE-tmpnibvh](../notes.d/NOTE-tmpnibvh.md).
 
 ## What was actually shown
 
@@ -83,16 +83,16 @@ positive-feedback controls (p. 741).
   students; the self-report interest measure did not reach significance
   (p. 748).
 - **Anything about rewards tied to a stated score or to beating others.**
-  The criterion was "do well", unstated; THEORY-154's distinction is not
+  The criterion was "do well", unstated; [THEORY-154](THEORY-154.md)'s distinction is not
   tested.
 
 ## Connections
 
-- **THEORY-049.** This is the primary study its promote_when names, and
+- **[THEORY-049](THEORY-049.md).** This is the primary study its promote_when names, and
   evidence for it: the same reward's effect changes with its framing, and
   the clause's refuting outcome (rewards tied to performance raising free
   choice against feedback-matched controls) did not occur. It is one
-  study without mediation, so it does not promote THEORY-049.
-- **THEORY-154, only indirectly.** Cameron, Banko and Pierce classify by what participants
+  study without mediation, so it does not promote [THEORY-049](THEORY-049.md).
+- **[THEORY-154](THEORY-154.md), only indirectly.** Cameron, Banko and Pierce classify by what participants
   were told about the standard; this experiment held the standard vague
   and varied only the style.

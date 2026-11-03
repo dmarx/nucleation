@@ -62,7 +62,7 @@ Bishop, R. C., Atmanspacher, H. (2006). Contextual Emergence in the Description 
 
 ## Key takeaways
 
-*Not read.* A lawful copy exists on PhilSci-Archive but could not be fetched (status note). Bishop's later statement of the view is read in NOTE-tmpyhyrz (THEORY-tmpnkdiy).
+*Not read.* A lawful copy exists on PhilSci-Archive but could not be fetched (status note). Bishop's later statement of the view is read in [NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md) ([THEORY-tmpnkdiy](../theory.d/THEORY-tmpnkdiy.md)).
 
 ## Standing in the record
 

@@ -9,7 +9,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpkq6x5
 summary: >-
-  Szczepanski et al. (2014), LIT-tmpkq6x5, read in NOTE-tmpryuio from the
+  Szczepanski et al. (2014), [LIT-tmpkq6x5](../literature.d/LIT-tmpkq6x5.md), read in [NOTE-tmpryuio](../notes.d/NOTE-tmpryuio.md) from the
   publisher's open-access PDF. Active for what it states: the reported
   counts (123 of 273 electrodes coupled; 55 stronger contralaterally; 28
   correlating with RT, r(41) = −0.51 and r(47) = −0.37 in the examples)
@@ -25,7 +25,7 @@ summary: >-
 ## Source
 
 Szczepanski, Crone, Kuperman, Auguste, Parvizi and Knight (2014),
-LIT-tmpkq6x5, pp. 2–12; read in NOTE-tmpryuio.
+[LIT-tmpkq6x5](../literature.d/LIT-tmpkq6x5.md), pp. 2–12; read in [NOTE-tmpryuio](../notes.d/NOTE-tmpryuio.md).
 
 ## What was actually shown
 
@@ -52,8 +52,8 @@ across hemifields, confined to the evoked window, or unrelated to RT.
 - **That slow waves constrain fast ones in any sense beyond a statistical
   dependence.** The paper's mechanism is excitability modulation through
   membrane potentials (p. 2), entirely micro-level; it does not bear on
-  whether a macro pattern has a power its parts lack (THEORY-tmp6xjgq).
+  whether a macro pattern has a power its parts lack ([THEORY-tmp6xjgq](THEORY-tmp6xjgq.md)).
 - **That the coupling is free of waveform-shape artefact.** No shape
-  control is reported (see THEORY-tmp66yzx).
+  control is reported (see [THEORY-tmp66yzx](THEORY-tmp66yzx.md)).
 - **Anything about choice, value or stalemates.** The task is instructed
   spatial attention.

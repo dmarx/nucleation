@@ -166,14 +166,14 @@ group is what had been confusing the literature.
 
 It applies Ryan 1982's informational/controlling manipulation of feedback
 (the "should" locution) to rewards, and Deci and Ryan 1980's
-cognitive-evaluation framework. Deci, Koestner and Ryan 1999 (LIT-557) use
-its contingency taxonomy; Ryan et al. 2022 (LIT-tmpd9u4s) cite it as the
-taxonomy's source. Cameron, Banko and Pierce (LIT-562) re-code the same
+cognitive-evaluation framework. Deci, Koestner and Ryan 1999 ([LIT-557](../literature.d/LIT-557.md)) use
+its contingency taxonomy; Ryan et al. 2022 ([LIT-tmpd9u4s](../literature.d/LIT-tmpd9u4s.md)) cite it as the
+taxonomy's source. Cameron, Banko and Pierce ([LIT-562](../literature.d/LIT-562.md)) re-code the same
 literature by what participants were told.
 
 ## Bearing on the record
 
-- **THEORY-049: the primary study its promote_when names, read.** Its
+- **[THEORY-049](../theory.d/THEORY-049.md): the primary study its promote_when names, read.** Its
   promote_when asks for experiments that "manipulate only the interpersonal
   framing of the same reward (informational versus controlling, as in Ryan,
   Mims and Koestner 1983) and find the predicted difference mediated by felt
@@ -182,26 +182,26 @@ literature by what participants were told.
   runs no mediation analysis, and the pressure effect is reported for the
   information–control dimension as a whole, not for the rewarded cells.
   So it is the single study the clause describes, not a mediation result.
-- **THEORY-049's text, a correction.** THEORY-049 reports, from LIT-557
+- **[THEORY-049](../theory.d/THEORY-049.md)'s text, a correction.** [THEORY-049](../theory.d/THEORY-049.md) reports, from [LIT-557](../literature.d/LIT-557.md)
   (p. 653), that this study "found the same pattern, not significantly".
   The primary paper reports the informational and controlling
   performance-contingent groups as significantly different, F(1, 89) =
-  4.25, p < .05 (p. 747). Either LIT-557 computed a different contrast
+  4.25, p < .05 (p. 747). Either [LIT-557](../literature.d/LIT-557.md) computed a different contrast
   (for example, each rewarded group against its own control), or the
-  record's paraphrase is wrong; NOTE-438 should be checked against p. 653.
-- **THEORY-049's refutation clause.** The clause says the account is
+  record's paraphrase is wrong; [NOTE-438](NOTE-438.md) should be checked against p. 653.
+- **[THEORY-049](../theory.d/THEORY-049.md)'s refutation clause.** The clause says the account is
   refuted "if rewards tied to a performance standard raise free choice
   against a control group given the same performance feedback". This
   experiment has exactly that control in both styles, and the rewards
   lowered free choice (229.4 vs 282.6; 117.3 vs 195.8; C3). One study of
   n = 16 per cell; it does not meet the clause and counts against the
   refuting outcome.
-- **THEORY-154 (Cameron, Banko and Pierce).** The paper's review is the
+- **[THEORY-154](../theory.d/THEORY-154.md) (Cameron, Banko and Pierce).** The paper's review is the
   earlier, CET-side reading of the same contingency literature. Its own
   experiment's rewards were for doing "well" with no stated score or
-  comparison, so it does not test THEORY-154's distinction between rewards
+  comparison, so it does not test [THEORY-154](../theory.d/THEORY-154.md)'s distinction between rewards
   for surpassing a score and for exceeding others.
-- **QUESTION-066.** The free-choice period measures persistence once the
+- **[QUESTION-066](../questions.d/QUESTION-066.md).** The free-choice period measures persistence once the
   experimenter's support is removed, and initial interest is a covariate,
   so it approaches the question's "valuation held fixed", for one
   6-minute period.
@@ -228,4 +228,4 @@ literature by what participants were told.
 - Does felt control, measured between the reward and the free-choice
   period, statistically mediate the framing effect on the same reward?
 - Does the framing effect replicate at adequate power, and with rewards
-  tied to a stated score, where THEORY-154 predicts no undermining?
+  tied to a stated score, where [THEORY-154](../theory.d/THEORY-154.md) predicts no undermining?

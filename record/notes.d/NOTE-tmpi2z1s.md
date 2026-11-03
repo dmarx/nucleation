@@ -138,7 +138,7 @@ turn, predicts better relationship well-being" (p. 450).
 
 ## Connections
 
-It builds on La Guardia et al. 2000 (LIT-tmpjpszp), whose need-satisfaction
+It builds on La Guardia et al. 2000 ([LIT-tmpjpszp](../literature.d/LIT-tmpjpszp.md)), whose need-satisfaction
 measure it uses and whose finding that relatedness best predicts
 attachment it extends (pp. 436–437), and on Knee et al. 2005 and Blais et
 al. 1990 for relationship motivation. It places SDT beside self-expansion,
@@ -148,26 +148,26 @@ a distinction of qualities of motivation.
 
 ## Bearing on the record
 
-- **QUESTION-tmpee04a (what shows a need is a need).** This study is of the
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md) (what shows a need is a need).** This study is of the
   kind the question says cannot settle it: needs are identified by their
   correlation with self-reported well-being and relationship quality. It
   also shows something the question did not ask: in this measure the three
   needs are hardly separable (autonomy–competence .96, autonomy–relatedness
   .86, corrected), so "three needs" is not evidenced here as three
   dimensions. A note on the question should say so.
-- **THEORY-052 (need frustration as transdiagnostic).** No bearing on its
+- **[THEORY-052](../theory.d/THEORY-052.md) (need frustration as transdiagnostic).** No bearing on its
   promote_when: satisfaction, not frustration, is measured, and nothing
   precedes anything.
-- **THEORY-054.** Study 3 reports "a simplex pattern" among the Couple
+- **[THEORY-054](../theory.d/THEORY-054.md).** Study 3 reports "a simplex pattern" among the Couple
   Motivation Questionnaire's subscales (p. 447) and then collapses them
-  into one weighted index, the practice THEORY-054's note says keeps
+  into one weighted index, the practice [THEORY-054](../theory.d/THEORY-054.md)'s note says keeps
   integration unmeasured.
 - **RMT, the registration's reason.** The registration filed this as
   relationships motivation theory with La Guardia et al. The paper does not
   use that name; it is one of the studies RMT was later built on, and its
   mutuality finding (C3) is the "mutuality of autonomy support" Ryan et al.
   2022 name as RMT's concern. Ryan et al. report no RMT meta-analysis.
-- **QUESTION-131.** No bearing: the paper has no notion of frustration
+- **[QUESTION-131](../questions.d/QUESTION-131.md).** No bearing: the paper has no notion of frustration
   among incompatible demands.
 - **No instruction for machine-learning practice.**
 

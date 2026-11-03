@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmplt5sh), from the JMLR PDF; worth
+  read in full 2026-11-03 ([NOTE-tmplt5sh](../notes.d/NOTE-tmplt5sh.md)), from the JMLR PDF; worth
   reading as the source of the per-document Dirichlet mixture that
-  CLAIM-tmphbnqm makes the difference between the owner's H1 and H2, and
+  [CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md) makes the difference between the owner's H1 and H2, and
   for the authors' own contrast with the one-topic-per-document mixture of
   unigrams. The structure is definitional and checked; the empirical
   superiority rests on perplexity on two corpora.
@@ -56,7 +56,7 @@ summary: >-
 
 Blei, D. M., Ng, A. Y., Jordan, M. I. (2003). Latent Dirichlet Allocation. *Journal of Machine Learning Research 3(Jan): 993–1022*. https://jmlr.org/papers/v3/blei03a.html.
 
-Read in full on 2026-11-03 (NOTE-tmplt5sh; THEORY-tmp37m50).
+Read in full on 2026-11-03 ([NOTE-tmplt5sh](../notes.d/NOTE-tmplt5sh.md); [THEORY-tmp37m50](../theory.d/THEORY-tmp37m50.md)).
 
 ## Key takeaways
 

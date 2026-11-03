@@ -8,7 +8,7 @@ status_note: >-
   subscription access, and journals.sagepub.com returned 403 to this
   client. Web searches found no preprint, PhilArchive copy or author
   upload; the author is at Ruhr-University Bochum (ORCID
-  0000-0002-4280-5048). Sánchez-Cañizares 2026 (NOTE-tmpbmoj1) cites its
+  0000-0002-4280-5048). Sánchez-Cañizares 2026 ([NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md)) cites its
   criticism in one line. It stays Unavailable until a copy is supplied.
 title: 'Underdetermination and causality in Irruption Theory: A critical analysis from a complex systems perspective'
 version: 2

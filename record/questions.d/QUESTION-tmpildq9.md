@@ -82,7 +82,7 @@ within-against-between agreement is its statistic. A12 §4 proposed it.
 
 The within- against between-episode test would be confounded by input-driven
 drift: the Assistant Axis finds persona following the latest user message
-(NOTE-tmpagiju). It needs the user's messages as covariates, or a per-turn state
+([NOTE-tmpagiju](../notes.d/NOTE-tmpagiju.md)). It needs the user's messages as covariates, or a per-turn state
 model. The Persona Selection Model distinguishes more bearers than the three
 listed: persona, actor, author or narrative, router and the network
-(NOTE-tmpftp86).
+([NOTE-tmpftp86](../notes.d/NOTE-tmpftp86.md)).

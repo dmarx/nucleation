@@ -116,7 +116,7 @@ stochastic programming (recourse); linear feedback control (Example 2.1).
 
 ## Bearing on the record
 
-- **CLAIM-tmpkogzd's three-way framing.** Conditions I and II are exactly the
+- **[CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md)'s three-way framing.** Conditions I and II are exactly the
   paper's ARC and RC for a pure feasibility problem with every variable
   adjustable or none: I is ∀w ∃x, II is ∃x ∀w. Condition III, x chosen from
   o = h(w), is the paper's information basis, which it names (p. 353) and
@@ -129,7 +129,7 @@ stochastic programming (recourse); linear feedback control (Example 2.1).
     the static robust counterpart … and the fully adjustable one") runs the
     two together. Both are intermediate, along different axes.
   - The paper proves nothing about the information-basis case in general; it
-    asserts the black-and-white results extend. CLAIM-tmpkogzd's statement
+    asserts the black-and-white results extend. [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md)'s statement
     that III holds exactly when II holds within each class h⁻¹(o) is the
     claim's own, and is immediate (choose x(o) to be a static solution for
     the class), not a citation.
@@ -139,16 +139,16 @@ stochastic programming (recourse); linear feedback control (Example 2.1).
     I = II, need not hold, as A30's triangle shows. If each inequality had
     its own disturbance, the theorem (with x bounded) would make I and II
     coincide.
-- **CLAIM-354's note of 2026-11-02 and of 2026-11-03.** Table 2 is a
+- **[CLAIM-354](../claims.d/CLAIM-354.md)'s note of 2026-11-02 and of 2026-11-03.** Table 2 is a
   quantitative instance of "a reachable set should range over the policies an
   organization can carry out on what it can read": with the same model and
   data, the feasible policies shrink as the information basis shrinks, to
   infeasibility at a four-period delay. Here legibility is lag in observing
   demand.
-- **QUESTION-282.** The affine restriction is a model of a bounded
+- **[QUESTION-282](../questions.d/QUESTION-282.md).** The affine restriction is a model of a bounded
   controller: even with full information, an AARC policy may fail where an
   ARC one succeeds. That separates "what the agent can read" from "what rule
-  it can compute", two limits CLAIM-tmpkogzd folds into one.
+  it can compute", two limits [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md) folds into one.
 - **No instruction for ML practice.**
 
 ## Limitations

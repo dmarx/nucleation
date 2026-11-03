@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmp1eol1), from the authors' accepted
+  read in full 2026-11-03 ([NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md)), from the authors' accepted
   manuscript on OSF; the online supplement was not read. Worth reading
   as the one map of SDT's meta-analytic evidence: where it is strong
   (CET, OIT, BPNT), thin (COT, GCT) or absent (RMT, need frustration,
@@ -65,19 +65,19 @@ Ryan, R. M., Duineveld, J. J., Di Domenico, S. I., Ryan, W. S., Steward, B. A., 
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmp1eol1), from the accepted manuscript.
+Read in full on 2026-11-03 ([NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md)), from the accepted manuscript.
 
 - 60 meta-analyses, sorted by mini-theory (Table 1) and domain (Table 2);
   relationships motivation theory has none.
 - The continuum of regulation is supported as an ordering, but integrated
   regulation is not distinguished from identified (Howard et al. 2017, as
-  reported; LIT-tmpwslkc is unread).
+  reported; [LIT-tmpwslkc](LIT-tmpwslkc.md) is unread).
 - Need satisfaction correlates with well-being across cultures; the link
   of need frustration to ill-being "has yet to be meta-analytically
-  investigated" (THEORY-052).
+  investigated" ([THEORY-052](../theory.d/THEORY-052.md)).
 - Mostly cross-sectional; heterogeneity high and "far from" explained.
 - Written by the theory's co-founder; several included meta-analyses are
-  the authors' own. THEORY-tmpjdp4t.
+  the authors' own. [THEORY-tmpjdp4t](../theory.d/THEORY-tmpjdp4t.md).
 
 ## Standing in the record
 

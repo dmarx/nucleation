@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpuvza0), from the scan on the SDT
+  read in full 2026-11-03 ([NOTE-tmpuvza0](../notes.d/NOTE-tmpuvza0.md)), from the scan on the SDT
   site. Worth reading as the founding instrument of causality
   orientations theory: three separately scored, nearly independent
   orientations with good reliability, whose validity in 1985 was a set
@@ -60,14 +60,14 @@ Deci, E. L., Ryan, R. M. (1985). The general causality orientations scale: Self-
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpuvza0).
+Read in full on 2026-11-03 ([NOTE-tmpuvza0](../notes.d/NOTE-tmpuvza0.md)).
 
 - Three orientations, scored as levels within a person, not types.
 - Autonomy and control are independent (r = .03), not poles.
 - Reliable (α .69–.74) and stable (retest .71–.78, n = 51).
 - Validity is correlational and small-sample; "All of the predicted
   relationships appeared" (p. 123) overstates its own Table 2.
-- THEORY-tmplookm.
+- [THEORY-tmplookm](../theory.d/THEORY-tmplookm.md).
 
 ## Standing in the record
 

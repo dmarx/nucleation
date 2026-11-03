@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-03 (NOTE-tmpp25f6, Skimmed: main text in full,
+  read 2026-11-03 ([NOTE-tmpp25f6](../notes.d/NOTE-tmpp25f6.md), Skimmed: main text in full,
   appendices C.2, G.2 and M only), from arXiv v3; worth reading as the
   method behind PSM's interpretability evidence: one
   difference-of-means trait direction tracks prompt-induced and
@@ -62,7 +62,7 @@ summary: >-
 
 Chen, R., Arditi, A., Sleight, H., Evans, O., Lindsey, J. (2025). Persona Vectors: Monitoring and Controlling Character Traits in Language Models. *arXiv preprint*. arXiv:2507.21509.
 
-Read on 2026-11-03, main text in full (NOTE-tmpp25f6, Skimmed; THEORY-tmp6nup8, THEORY-tmpnmlyx).
+Read on 2026-11-03, main text in full ([NOTE-tmpp25f6](../notes.d/NOTE-tmpp25f6.md), Skimmed; [THEORY-tmp6nup8](../theory.d/THEORY-tmp6nup8.md), [THEORY-tmpnmlyx](../theory.d/THEORY-tmpnmlyx.md)).
 
 ## Key takeaways
 

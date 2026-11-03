@@ -32,7 +32,7 @@ summary: >-
 
 ## Contribution
 
-It recasts empowerment (LIT-tmpd2pdj) as an interventional quantity, adds
+It recasts empowerment ([LIT-tmpd2pdj](../literature.d/LIT-tmpd2pdj.md)) as an interventional quantity, adds
 *contextual* empowerment with "objective" (state) and "subjective" (sensor
 history) contexts and a constructible context automaton, and tests the idea
 in three scenarios: cart-pole, sensor evolution, and a hardware robot.
@@ -121,32 +121,32 @@ action-selection mechanism" (p. 11).
 
 Gibson; Ashby's requisite variety; homeokinesis and predictive information
 (Ay et al.); the free energy principle (Friston), compared in the
-Discussion. Klyubin et al. 2005 (LIT-tmpd2pdj, NOTE-tmpeeo19) is the
+Discussion. Klyubin et al. 2005 ([LIT-tmpd2pdj](../literature.d/LIT-tmpd2pdj.md), [NOTE-tmpeeo19](NOTE-tmpeeo19.md)) is the
 context-free origin.
 
 ## Bearing on the record
 
-- **CLAIM-354.**
+- **[CLAIM-354](../claims.d/CLAIM-354.md).**
   - *Reachability against sustainability.* The cart-pole shows state-wise
     empowerment and what the agent can sustain coming apart: the maxima are
     unreachable, and the agent's own dynamics settle on upright. This is the
     claim's point that the viable alternatives, not states taken one at a
-    time, are what count (CLAIM-079), found inside the empowerment
+    time, are what count ([CLAIM-079](../claims.d/CLAIM-079.md)), found inside the empowerment
     literature.
   - *A partial order in empowerment's own terms.* Objective ≥ subjective
     (history) ≥ automaton ≥ context-free is an ordering by what the agent can
-    read, which is CLAIM-354's note of 2026-11-02 and CLAIM-tmpkogzd's I ≥ III
+    read, which is [CLAIM-354](../claims.d/CLAIM-354.md)'s note of 2026-11-02 and [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md)'s I ≥ III
     ≥ II, in bits.
   - *Not a defeater.* Empowerment is a scalar, but it is horizon-dependent
     ("the main free variable") and ignores cost and viability constraints
     unless they are built into the channel, so it does not fix the claim's
     other dimensions.
-- **CLAIM-tmpkogzd.** The claim's three conditions have an information
+- **[CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md).** The claim's three conditions have an information
   analogue here: the side-information capacity (eq. 2) is the adjustable
   case with the agent reading the context, context-free is the static case,
   and the automaton is the observed case with a bounded reader. The
   correspondence is of structure; the paper has no tolerance model.
-- **TERM-064.** The AIBO result is a constructed legibility: an internal
+- **[TERM-064](../terms.d/TERM-064.md).** The AIBO result is a constructed legibility: an internal
   context that comes to carry an external distinction only because the
   distinction modulates the agent's influence ("if it does not modulate the
   influence of the agent on the world, the context change is not considered

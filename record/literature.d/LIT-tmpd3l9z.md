@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmp3xmvo), from the scan on
+  read in full 2026-11-03 ([NOTE-tmp3xmvo](../notes.d/NOTE-tmp3xmvo.md)), from the scan on
   selfdeterminationtheory.org, read as page images; worth reading because
   its own SDT authors concluded there may be four needs, self-esteem the
-  fourth, and named the need-or-outcome ambiguity that QUESTION-tmpee04a
+  fourth, and named the need-or-outcome ambiguity that [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md)
   asks about.
 title: 'What is satisfying about satisfying events? Testing 10 candidate psychological needs.'
 version: 2
@@ -60,7 +60,7 @@ Sheldon, K. M., Elliot, A. J., Kim, Y., Kasser, T. (2001). What is satisfying ab
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmp3xmvo). THEORY-tmp5tsat, Active, is filed from it.
+Read in full on 2026-11-03 ([NOTE-tmp3xmvo](../notes.d/NOTE-tmp3xmvo.md)). [THEORY-tmp5tsat](../theory.d/THEORY-tmp5tsat.md), Active, is filed from it.
 
 ## Standing in the record
 

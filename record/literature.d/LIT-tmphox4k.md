@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-03 (NOTE-tmp5ejhp), from the published text on A.
+  read 2026-11-03 ([NOTE-tmp5ejhp](../notes.d/NOTE-tmp5ejhp.md)), from the published text on A.
   Nemirovski's faculty page; worth reading as the standard distinction
   between robust (∃ solution ∀ data) and adjustable robust (∀ data ∃
   adjustment) decisions, with information bases between them, which
-  CLAIM-tmpkogzd's conditions I and II instantiate; its own
+  [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md)'s conditions I and II instantiate; its own
   intermediate case is a restriction on the rule's form (affine), not
   on what is read.
 title: 'Adjustable robust solutions of uncertain linear programs'
@@ -67,7 +67,7 @@ summary: >-
 
 Ben-Tal, A., Goryashko, A., Guslitzer, E., & Nemirovski, A. (2004). Adjustable robust solutions of uncertain linear programs. *Mathematical Programming*, 99(2), 351–376. doi:10.1007/s10107-003-0454-y.
 
-Read on 2026-11-03 (NOTE-tmp5ejhp; THEORY-tmp2uvxp).
+Read on 2026-11-03 ([NOTE-tmp5ejhp](../notes.d/NOTE-tmp5ejhp.md); [THEORY-tmp2uvxp](../theory.d/THEORY-tmp2uvxp.md)).
 
 ## Key takeaways
 
@@ -81,6 +81,6 @@ Read on 2026-11-03 (NOTE-tmp5ejhp; THEORY-tmp2uvxp).
 
 ## Standing in the record
 
-The framing of CLAIM-tmpkogzd: a compatible configuration may be chosen after
+The framing of [CLAIM-tmpkogzd](../claims.d/CLAIM-tmpkogzd.md): a compatible configuration may be chosen after
 a disturbance, fixed before it, or chosen from what is observed of it. The
 record's question there is which of the three an agent's legibility gives it.

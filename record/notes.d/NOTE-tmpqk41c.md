@@ -155,29 +155,29 @@ does not outlast the intervention.
   the authors attribute the gap to inclusion criteria (p. 234).
 - **Ng et al. 2012**, the correlational health meta-analysis, gave the path
   model this tests experimentally (p. 216).
-- **Slemp et al. 2024** (LIT-tmpeapgr) cites this paper as the
+- **Slemp et al. 2024** ([LIT-tmpeapgr](../literature.d/LIT-tmpeapgr.md)) cites this paper as the
   experimental counterpart of its correlations.
 - The 93-item behaviour change technique taxonomy of Michie et al. 2013
   is coded alongside (p. 218).
 
 ## Bearing on the record
 
-- **THEORY-052: the registration overstated what this meta-analysis
-  offers.** LIT-tmpa0lm5 was registered as "whether manipulating need
-  support changes outcomes, which THEORY-052's promote_when asks for". The
+- **[THEORY-052](../theory.d/THEORY-052.md): the registration overstated what this meta-analysis
+  offers.** [LIT-tmpa0lm5](../literature.d/LIT-tmpa0lm5.md) was registered as "whether manipulating need
+  support changes outcomes, which [THEORY-052](../theory.d/THEORY-052.md)'s promote_when asks for". The
   promote_when asks for interventions that "reduce need frustration and
   reduce symptoms of several disorders, mediated by the change in
   frustration". This paper measures no need frustration, tests no
   mediation (p. 237), and pools "psychological health" outcomes in a
   general population mostly targeted at physical activity. Its psychological
   health effect is small at the end and gone at follow-up. It does not move
-  THEORY-052.
+  [THEORY-052](../theory.d/THEORY-052.md).
 - **It does answer a different question the registration also raised:**
   manipulating need support changes perceived support, need satisfaction
   and autonomous motivation, and behaviour. That is experimental evidence
   for SDT's contextual claim that the correlational syntheses (Slemp et al.,
-  NOTE-tmpbntuj) cannot give.
-- **QUESTION-tmpee04a.** Two findings bear on need-hood. Relatedness
+  [NOTE-tmpbntuj](NOTE-tmpbntuj.md)) cannot give.
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** Two findings bear on need-hood. Relatedness
   satisfaction did not respond to the interventions (g = 0.20, ns), so the
   experimental leverage is on autonomy and competence. And the
   across-study link between need satisfaction and psychological health
@@ -188,9 +188,9 @@ does not outlast the intervention.
   outperformed the SDT technique it co-occurred with on autonomous
   motivation (p. 230). Neither fits a simple story in which more need
   support gives more benefit.
-- **THEORY-050** (inflexibility): no overlap; noted because the record pairs
+- **[THEORY-050](../theory.d/THEORY-050.md)** (inflexibility): no overlap; noted because the record pairs
   the two transdiagnostic accounts.
-- Filed from it: THEORY-tmpdzmer (Active).
+- Filed from it: [THEORY-tmpdzmer](../theory.d/THEORY-tmpdzmer.md) (Active).
 - **No instruction for machine-learning practice.**
 
 ## Limitations
@@ -211,6 +211,6 @@ does not outlast the intervention.
 - Does the change in need satisfaction or autonomous motivation mediate the
   change in behaviour within trials?
 - Can an intervention reduce need frustration, and does that reduce
-  symptoms (THEORY-052)?
+  symptoms ([THEORY-052](../theory.d/THEORY-052.md))?
 - Why does relatedness not respond: the techniques used, or the target
   behaviours (p. 234)?

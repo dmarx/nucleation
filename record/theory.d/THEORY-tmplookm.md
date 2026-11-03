@@ -10,7 +10,7 @@ date: '2026-11-03'
 source:
 - LIT-tmp7s2t8
 summary: >-
-  Deci and Ryan (1985), LIT-tmp7s2t8, read in NOTE-tmpuvza0 from the scan on
+  Deci and Ryan (1985), [LIT-tmp7s2t8](../literature.d/LIT-tmp7s2t8.md), read in [NOTE-tmpuvza0](../notes.d/NOTE-tmpuvza0.md) from the scan on
   the SDT site. Active as a statement of what the scale is and what its
   founding paper showed: α .69–.74 and near-independent subscales in 636
   students, retest .71–.78 in 51, and a nomological table in samples of 42
@@ -24,8 +24,8 @@ summary: >-
 
 ## Source
 
-Deci and Ryan (1985), LIT-tmp7s2t8, *Journal of Research in Personality*
-19, 109–134, read in NOTE-tmpuvza0.
+Deci and Ryan (1985), [LIT-tmp7s2t8](../literature.d/LIT-tmp7s2t8.md), *Journal of Research in Personality*
+19, 109–134, read in [NOTE-tmpuvza0](../notes.d/NOTE-tmpuvza0.md).
 
 ## What was actually shown
 
@@ -70,11 +70,11 @@ and the impersonal scale could have tracked nothing beyond Rotter.
 
 ## Connections
 
-- **THEORY-049.** A person-side source of an event's functional
+- **[THEORY-049](THEORY-049.md).** A person-side source of an event's functional
   significance: the same reward can be informational to the
   autonomy-oriented and controlling to the control-oriented, so a test of
-  THEORY-049 should measure or randomize orientation.
-- **THEORY-054.** The paper's reason for renaming "internal" as
+  [THEORY-049](THEORY-049.md) should measure or randomize orientation.
+- **[THEORY-054](THEORY-054.md).** The paper's reason for renaming "internal" as
   "autonomy" is that inner events like "I *have* to do that to feel
   worthwhile" act as controls (p. 111): heteronomy inside the person,
-  THEORY-054's "Not order" half, in 1985.
+  [THEORY-054](THEORY-054.md)'s "Not order" half, in 1985.

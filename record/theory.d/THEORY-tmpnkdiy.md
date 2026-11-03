@@ -10,11 +10,11 @@ date: '2026-11-03'
 source:
 - LIT-tmp9hfqf
 summary: >-
-  Bishop, SEP "Chaos" (revision of 2024-10-11), LIT-tmp9hfqf, §§6.2–6.3,
-  read in NOTE-tmpyhyrz, summarizing Bishop, Silberstein and Pexton 2022
-  (LIT-tmpszapu, not reached). Active as a statement of the view, checked
-  verbatim. It corrects the record's gloss (THEORY-tmp6xjgq,
-  NOTE-tmpby7i2) that Bishop's contextual emergence concerns only the
+  Bishop, SEP "Chaos" (revision of 2024-10-11), [LIT-tmp9hfqf](../literature.d/LIT-tmp9hfqf.md), §§6.2–6.3,
+  read in [NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md), summarizing Bishop, Silberstein and Pexton 2022
+  ([LIT-tmpszapu](../literature.d/LIT-tmpszapu.md), not reached). Active as a statement of the view, checked
+  verbatim. It corrects the record's gloss ([THEORY-tmp6xjgq](THEORY-tmp6xjgq.md),
+  [NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md)) that Bishop's contextual emergence concerns only the
   well-definedness of a higher-level description; it is not evidence that
   the view is true, and it sets the view against causal powers, not for
   them.
@@ -27,9 +27,9 @@ summary: >-
 
 ## Source
 
-Bishop, "Chaos", SEP, revision of 11 October 2024, LIT-tmp9hfqf, §§6.2–6.3;
-read in NOTE-tmpyhyrz. The entry cites Bishop, Silberstein and Pexton 2022
-(LIT-tmpszapu) and Bishop 2024 for the view.
+Bishop, "Chaos", SEP, revision of 11 October 2024, [LIT-tmp9hfqf](../literature.d/LIT-tmp9hfqf.md), §§6.2–6.3;
+read in [NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md). The entry cites Bishop, Silberstein and Pexton 2022
+([LIT-tmpszapu](../literature.d/LIT-tmpszapu.md)) and Bishop 2024 for the view.
 
 ## What was actually shown
 
@@ -60,11 +60,11 @@ A statement of the view with examples, not an argument for it.
   pluralistically (§6.3); "causal power" is set on the strong-emergence
   side (§6.2).
 - **That a boundary between phenomenon and context is required.** That is
-  Jennings's addition (THEORY-tmp6xjgq); the entry's stability conditions
+  Jennings's addition ([THEORY-tmp6xjgq](THEORY-tmp6xjgq.md)); the entry's stability conditions
   include parameter values and dimensionality, which are not boundaries.
 - **That the micro description, with the stability conditions written in
   as constraints, fails to reproduce the macro constraint.** That is the
-  open question THEORY-tmp6xjgq's promote_when asks, and the entry does not
+  open question [THEORY-tmp6xjgq](THEORY-tmp6xjgq.md)'s promote_when asks, and the entry does not
   address it.
-- **What the 2006 paper says.** LIT-tmpo8e51 was not reached; the
+- **What the 2006 paper says.** [LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md) was not reached; the
   record's gloss of it as about descriptions may be right for 2006.

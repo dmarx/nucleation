@@ -76,7 +76,7 @@ not what exists state by state. [CLAIM-tmpg1n2c](CLAIM-tmpg1n2c.md) states the s
 ## Note of 2026-11-03: Ben-Tal et al., read
 
 Conditions I and II are exactly Ben-Tal et al.'s adjustable and ordinary
-robust counterparts (NOTE-tmp5ejhp). Condition III matches what the paper calls
+robust counterparts ([NOTE-tmp5ejhp](../notes.d/NOTE-tmp5ejhp.md)). Condition III matches what the paper calls
 an "information basis", which it names (p. 353) and does not develop, so III is
 this claim's own result, not a citation. The paper's in-between case, the
 affinely adjustable counterpart, restricts the rule's form, not what it reads.

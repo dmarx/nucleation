@@ -9,7 +9,7 @@ date: '2026-11-03'
 source:
 - LIT-tmp88vcm
 summary: >-
-  Scheffer et al. (2009), LIT-tmp88vcm, read in NOTE-tmpyug9h (Skimmed)
+  Scheffer et al. (2009), [LIT-tmp88vcm](../literature.d/LIT-tmp88vcm.md), read in [NOTE-tmpyug9h](../notes.d/NOTE-tmpyug9h.md) (Skimmed)
   from the version reprinted as chapter 2 of Dakos's 2011 thesis. Active
   for the slowing-down result, which is standard (Wissel 1984), checked in
   the chapter's Box 2.2 example, and re-derived and simulated here for
@@ -27,10 +27,10 @@ summary: >-
 ## Source
 
 Scheffer, Bascompte, Brock, Brovkin, Carpenter, Dakos, Held, van Nes,
-Rietkerk and Sugihara (2009), LIT-tmp88vcm, read in NOTE-tmpyug9h from
+Rietkerk and Sugihara (2009), [LIT-tmp88vcm](../literature.d/LIT-tmp88vcm.md), read in [NOTE-tmpyug9h](../notes.d/NOTE-tmpyug9h.md) from
 chapter 2 (pp. 17–32) of V. Dakos, *Expecting the Unexpected* (Wageningen,
-2011), edepot.wur.nl/168815. Earlier work: Scheffer et al. 2001 (LIT-720)
-and Scheffer and Carpenter 2003 (LIT-726).
+2011), edepot.wur.nl/168815. Earlier work: Scheffer et al. 2001 ([LIT-720](../literature.d/LIT-720.md))
+and Scheffer and Carpenter 2003 ([LIT-726](../literature.d/LIT-726.md)).
 
 ## What was actually shown
 

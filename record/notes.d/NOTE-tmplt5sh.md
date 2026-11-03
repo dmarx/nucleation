@@ -142,12 +142,12 @@ conditional factors, which "is simple and factored" (p. 995).
 - **de Finetti, Aldous, Diaconis** for exchangeability (pp. 994–998).
 - **Kass and Steffey; Gelman et al.; Morris**: hierarchical and parametric
   empirical Bayes models (p. 997).
-- In the record: hLDA (LIT-1542) and the nested HDP (LIT-002) build on it;
-  LIT-677 is an ELBO paper about it.
+- In the record: hLDA ([LIT-1542](../literature.d/LIT-1542.md)) and the nested HDP ([LIT-002](../literature.d/LIT-002.md)) build on it;
+  [LIT-677](../literature.d/LIT-677.md) is an ELBO paper about it.
 
 ## Bearing on the record
 
-- **CLAIM-tmphbnqm: its account of LDA matches the paper, with one
+- **[CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md): its account of LDA matches the paper, with one
   over-statement and one gloss to add.**
   - *Matches.* "Each episode draws its own mixture θ_d ~ Dir(α), then
     z_{d,n} ~ Cat(θ_d)" is the generative process (p. 996). "The Dirichlet
@@ -177,7 +177,7 @@ conditional factors, which "is simple and factored" (p. 995).
     reads "Each topic is, in turn, modeled as an infinite mixture over an
     underlying set of topic probabilities", which is garbled in the same
     direction as the owner's phrase. The body is unambiguous (pp. 996–998).
-- **CLAIM-tmpwh2jo.** Its quotation is exact: "a three-level hierarchical
+- **[CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md).** Its quotation is exact: "a three-level hierarchical
   Bayesian model" (abstract), drawn in plates (Figure 1). Its point that the
   topic assignments are "conditionally independent given a document's
   proportions" is the paper's own description, "conditionally independent
@@ -186,9 +186,9 @@ conditional factors, which "is simple and factored" (p. 995).
   that would break exchangeability among topics, a time series of topics,
   conditioning on exogenous variables, mixtures of Dirichlets (p. 1015). None
   of them is a dependency in which one topic conditions which others are
-  available, so none would be organization in CLAIM-tmpwh2jo's sense; the
+  available, so none would be organization in [CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md)'s sense; the
   correlated and Pachinko models it names are later.
-- **QUESTION-tmpildq9.** The test it proposes, within- against
+- **[QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md).** The test it proposes, within- against
   between-episode co-occurrence, is exactly what separates LDA from the
   paper's two-level clustering model. The paper's own discussion (p. 1015)
   says that in LDA "the 'emission' probability p(wₙ | zₙ) contributes only a
@@ -211,5 +211,5 @@ conditional factors, which "is simple and factored" (p. 995).
 - The paper's suggested relaxations to partial exchangeability (time series
   of topics, conditioning on paragraph or sentence) are where a
   sequence-aware analogue for an Assistant episode would start; the
-  Assistant Axis reading (NOTE-tmpagiju) finds within-episode drift driven by
+  Assistant Axis reading ([NOTE-tmpagiju](NOTE-tmpagiju.md)) finds within-episode drift driven by
   the latest message, which no exchangeable model represents.

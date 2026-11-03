@@ -67,7 +67,7 @@ models produce the neural signatures.
 ## What this does not say
 
 - **That the subject has causal powers in Bishop's sense.** Bishop's 2024 SEP
-  entry (THEORY-tmpnkdiy) presents contextual emergence as real constraint by
+  entry ([THEORY-tmpnkdiy](THEORY-tmpnkdiy.md)) presents contextual emergence as real constraint by
   larger-scale stability conditions, with convection as the case, and
   contrasts it with causal powers. The constraint is Bishop's; the boundary
   condition and the causal-power reading are Jennings's. (Revised on
@@ -81,7 +81,7 @@ models produce the neural signatures.
 ## Note of 2026-11-03: the neural evidence, read
 
 Weaker than the paper states. Szczepanski et al. are correlational
-(THEORY-tmp9pem2); phase-amplitude coupling can be a waveform artefact
-(Donoghue et al., THEORY-tmp66yzx); 1/f structure is present in every
-recording (THEORY-tmpqlync); and ephaptic coupling is circuit physics with
-fields applied from outside (THEORY-tmpvy87o).
+([THEORY-tmp9pem2](THEORY-tmp9pem2.md)); phase-amplitude coupling can be a waveform artefact
+(Donoghue et al., [THEORY-tmp66yzx](THEORY-tmp66yzx.md)); 1/f structure is present in every
+recording ([THEORY-tmpqlync](THEORY-tmpqlync.md)); and ephaptic coupling is circuit physics with
+fields applied from outside ([THEORY-tmpvy87o](THEORY-tmpvy87o.md)).

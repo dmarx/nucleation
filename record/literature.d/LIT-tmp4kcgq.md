@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-03 (NOTE-tmpi46fq), main text, online methods and
+  read 2026-11-03 ([NOTE-tmpi46fq](../notes.d/NOTE-tmpi46fq.md)), main text, online methods and
   references, from the scan of the published article on gwern.net, at the
   owner's direction; the supplementary material was not read. Worth
   reading as the measurement of how large, and how small, ephaptic effects
@@ -79,12 +79,12 @@ Anastassiou, C. A., Perin, R., Markram, H., Koch, C. (2011). Ephaptic coupling o
 
 ## Standing in the record
 
-Registered as Jennings's evidence against weak emergence (LIT-tmpasemk, p.
+Registered as Jennings's evidence against weak emergence ([LIT-tmpasemk](LIT-tmpasemk.md), p.
 35). The paper supports her quotation, that "groups of cells change their
 local electric environment, which in turn feeds back onto the electric
 activity of all of its members" (p. 217). It does not support her
 inference, that "brain activity cannot be described simply through local
 interactions": the authors call the potentials "a simple consequence of
 Kirchhoffs' circuit laws" (p. 221). It is also the second appearance of
-ephaptic coupling in the record, after LIT-388's hypothesis about sentience,
+ephaptic coupling in the record, after [LIT-388](LIT-388.md)'s hypothesis about sentience,
 on which it is silent.

@@ -104,14 +104,14 @@ gives 0.499 within against 0.5 predicted, and 0.3335 across against 1/3; K =
 
 ## Note of 2026-11-03: LDA and the Assistant Axis, read
 
-The account of LDA matches the paper (NOTE-tmplt5sh), which itself names the
+The account of LDA matches the paper ([NOTE-tmplt5sh](../notes.d/NOTE-tmplt5sh.md)), which itself names the
 one-topic-per-document comparison (a "Dirichlet-multinomial clustering model",
 p. 997; the mixture of unigrams, §4.2). The agreement formula was
 re-simulated. Two refinements: the symmetric a → 0 limit is the mixture of
 unigrams with uniform p(z), where the paper's has a free p(z), the limit of
 Dir(sπ); and the a → ∞ limit is the paper's unigram model once z is
 marginalized, so per-act independent personas are unidentifiable from one
-output distribution. And the Assistant Axis (NOTE-tmpagiju) finds the persona
+output distribution. And the Assistant Axis ([NOTE-tmpagiju](../notes.d/NOTE-tmpagiju.md)) finds the persona
 following the latest user message within a conversation (R² 0.53–0.77 against
 0.10), neither limit: the switching model this claim's defeater names. So
 persona selection read as one persona per conversation does not fit what

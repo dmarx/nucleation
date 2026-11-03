@@ -81,7 +81,7 @@ The evidence is a survey; nothing is newly measured except one experiment.
 - **Interpretability.** SAE features transfer from base to post-trained
   models; the same features fire on the Assistant and on characters in
   stories; Wang et al.'s "toxic persona" feature; Chen et al.'s persona
-  vectors (LIT-tmpyjvij); Lu et al.'s Assistant Axis (LIT-tmpqjfxe), which
+  vectors ([LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md)); Lu et al.'s Assistant Axis ([LIT-tmpqjfxe](../literature.d/LIT-tmpqjfxe.md)), which
   "provides direct evidence that post-training selects a particular default
   region of a pre-existing persona space". Caveat: a streetlight effect if
   reused representations are the more interpretable ones.
@@ -137,10 +137,10 @@ empirical evidence"), and an inductive bias to reuse persona machinery.
 
 ## Connections
 
-- The record's readings closest to it: Shanahan's characters (LIT-460),
-  identity as a shifting distribution of roles (LIT-465), in-context learning
-  as Bayesian inference over a latent concept (THEORY-614).
-- The interpretability evidence is LIT-tmpyjvij and LIT-tmpqjfxe.
+- The record's readings closest to it: Shanahan's characters ([LIT-460](../literature.d/LIT-460.md)),
+  identity as a shifting distribution of roles ([LIT-465](../literature.d/LIT-465.md)), in-context learning
+  as Bayesian inference over a latent concept ([THEORY-614](../theory.d/THEORY-614.md)).
+- The interpretability evidence is [LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md) and [LIT-tmpqjfxe](../literature.d/LIT-tmpqjfxe.md).
 
 ## Bearing on the record
 
@@ -149,7 +149,7 @@ empirical evidence"), and an inductive bias to reuse persona machinery.
   context conditions it" is the statement almost word for word. Two
   additions it lacks: PSM explicitly disowns a single coherent persona, and
   it holds the agency question open.
-- **CLAIM-tmpwh2jo: the router is the claim's dependency among components,
+- **[CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md): the router is the claim's dependency among components,
   stated by PSM's authors.** The claim says organization would need "some
   latent components condition which others are available or consequential".
   PSM's router is exactly a mechanism that makes one persona consequential
@@ -159,25 +159,25 @@ empirical evidence"), and an inductive bias to reuse persona machinery.
   possibility outside the persona distribution, the structure the claim says
   would be organization. PSM offers no intervention that separates a router
   from a flat posterior; the Alice/Bob case is matched behaviour with
-  different governance, TERM-067's point.
-- **QUESTION-tmpildq9's last clause.** PSM's spectrum gives the bearers a
+  different governance, [TERM-067](../terms.d/TERM-067.md)'s point.
+- **[QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md)'s last clause.** PSM's spectrum gives the bearers a
   finer list than "simulated Assistant, network, deployed system": the
   Assistant persona, an actor persona behind it, an implicit author or
   narrative, a router, and the LLM as shoggoth. The router sits between
   persona and network: it is a mechanism of the network, but its "goal" is
   "likely something very predictable from the post-training process".
-- **CLAIM-tmphbnqm: PSM is not "one persona per conversation".** The claim
+- **[CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md): PSM is not "one persona per conversation".** The claim
   reads persona selection as the a → 0 limit. PSM's text says context keeps
   conditioning the posterior within a rollout (many-shot jailbreaks as
   accumulating evidence), and the Assistant Axis measures drift turn by turn
-  (NOTE-tmpagiju). The selection is per rollout only as a first
+  ([NOTE-tmpagiju](NOTE-tmpagiju.md)). The selection is per rollout only as a first
   approximation; the defeater the claim itself names, a persona model that
   is neither mixture nor admixture, is closer to what PSM describes.
-- **CLAIM-367 and the claim that a Bayesian update is not endorsement.** PSM
+- **[CLAIM-367](../claims.d/CLAIM-367.md) and the claim that a Bayesian update is not endorsement.** PSM
   says post-training "can be viewed as" updating; the update is the
   optimizer's, the posterior a description of the model, which agrees with
-  CLAIM-tmpwh2jo's "What it does not say".
-- **TERM-072.** The Assistant is a character in TERM-072's sense; PSM's
+  [CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md)'s "What it does not say".
+- **[TERM-072](../terms.d/TERM-072.md).** The Assistant is a character in [TERM-072](../terms.d/TERM-072.md)'s sense; PSM's
   welfare section explicitly places moral consideration on "the Assistant
   persona, not the underlying LLM".
 - **Instructions for ML practice** (inoculation prompting, "I can't say"
@@ -196,5 +196,5 @@ empirical evidence"), and an inductive bias to reuse persona machinery.
 
 The authors' own list: a precise formulation of "persona"; empirical
 predictions; scaling; "How entangled are personas? Do they share knowledge?
-Propensities?", which is the dependency question CLAIM-tmpwh2jo poses; and
+Propensities?", which is the dependency question [CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md) poses; and
 the mechanistic basis of the persona being enacted.

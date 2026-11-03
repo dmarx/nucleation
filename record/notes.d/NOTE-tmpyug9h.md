@@ -137,30 +137,30 @@ the threshold" (p. 21).
 
 ## Connections
 
-- **Scheffer et al. 2001** (LIT-720, Unavailable) and **Scheffer and
-  Carpenter 2003** (LIT-726) are cited as the ecological case for
+- **Scheffer et al. 2001** ([LIT-720](../literature.d/LIT-720.md), Unavailable) and **Scheffer and
+  Carpenter 2003** ([LIT-726](../literature.d/LIT-726.md)) are cited as the ecological case for
   alternative stable states (p. 28).
-- **Kelso's HKB** (LIT-588, THEORY-1227) is the other held case of critical
+- **Kelso's HKB** ([LIT-588](../literature.d/LIT-588.md), [THEORY-1227](../theory.d/THEORY-1227.md)) is the other held case of critical
   fluctuations and slowing as early warning, in motor coordination; this
   review does not cite it, though its phase-locking paragraph (p. 24) is
   about the same class of transition.
 
 ## Bearing on the record
 
-- **CLAIM-478, second half: a statement and a caution.** The claim says
+- **[CLAIM-478](../claims.d/CLAIM-478.md), second half: a statement and a caution.** The claim says
   modes slow near an instability and can become order parameters. This
   review supplies the generic result behind "slow near an instability"
   (pp. 19–21) and its measurable marks. It also limits the claim's use of
   slowness as a sign of new structure: the same slowing appears, "less
   pronounced", before thresholds that are not bifurcations (p. 31), so
   slowness alone does not tell that a new organization is forming.
-- **CLAIM-tmpex9rg, the slow-mode point.** Near a transition, small inputs
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md), the slow-mode point.** Near a transition, small inputs
   have larger and longer-lasting effects, since perturbations decay at the
   vanishing rate. That is a second mechanism, beside chaos, by which small
   efforts could be amplified, and one in which the amplification is
   durable because the mode is slow. The review gives no early-warning
   theory for chaotic systems (p. 24), which is where Kane's case sits.
-- **CLAIM-tmpptgk8.** The variance result is the stable-side mirror of the
+- **[CLAIM-tmpptgk8](../claims.d/CLAIM-tmpptgk8.md).** The variance result is the stable-side mirror of the
   claim's scalar case: with λ < 0, noise variance σ²/(2|λ|) grows as
   λ → 0, so the signal-to-noise ratio of a constant input against noise
   entering the same direction, b u/|λ| over σ/√(2|λ|), is

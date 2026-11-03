@@ -9,8 +9,8 @@ date: '2026-11-03'
 source:
 - LIT-tmpz3w7i
 summary: >-
-  Donoghue, Schaworonkow and Voytek (2021), LIT-tmpz3w7i, §§1 and 3,
-  read in NOTE-tmpsrba2. Active: the spectral argument is elementary (an
+  Donoghue, Schaworonkow and Voytek (2021), [LIT-tmpz3w7i](../literature.d/LIT-tmpz3w7i.md), §§1 and 3,
+  read in [NOTE-tmpsrba2](../notes.d/NOTE-tmpsrba2.md). Active: the spectral argument is elementary (an
   aperiodic signal has power at all frequencies, and a change in its
   exponent moves every band), and the simulations and cited cases (the
   ADHD theta/beta ratio) are in the text. It does not say aperiodic
@@ -23,8 +23,8 @@ summary: >-
 
 ## Source
 
-Donoghue, Schaworonkow and Voytek (2021), LIT-tmpz3w7i, pp. 9–19 and 39 of
-the PsyArXiv preprint; read in NOTE-tmpsrba2.
+Donoghue, Schaworonkow and Voytek (2021), [LIT-tmpz3w7i](../literature.d/LIT-tmpz3w7i.md), pp. 9–19 and 39 of
+the PsyArXiv preprint; read in [NOTE-tmpsrba2](../notes.d/NOTE-tmpsrba2.md).
 
 ## What was actually shown
 
@@ -47,5 +47,5 @@ diagnosis, sleep and task (p. 17).
   oscillations" (p. 39).
 - **That it is or is not a signature of a macro-level constraint.** The
   paper does not address emergence. What follows from it for
-  THEORY-tmp6xjgq is narrower: since every field recording shows 1/f
+  [THEORY-tmp6xjgq](THEORY-tmp6xjgq.md) is narrower: since every field recording shows 1/f
   structure, its presence does not discriminate between accounts.

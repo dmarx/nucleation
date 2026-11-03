@@ -57,7 +57,7 @@ Bishop, R. C., Silberstein, M., & Pexton, M. (2022). *Emergence in Context: A Tr
 
 ## Key takeaways
 
-*Not read.* No lawful copy found (status note). Bishop's own summary of its view is in the SEP entry, read in NOTE-tmpyhyrz (THEORY-tmpnkdiy).
+*Not read.* No lawful copy found (status note). Bishop's own summary of its view is in the SEP entry, read in [NOTE-tmpyhyrz](../notes.d/NOTE-tmpyhyrz.md) ([THEORY-tmpnkdiy](../theory.d/THEORY-tmpnkdiy.md)).
 
 ## Standing in the record
 

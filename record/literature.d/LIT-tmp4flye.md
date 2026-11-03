@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpftp86), from the page at
+  read in full 2026-11-03 ([NOTE-tmpftp86](../notes.d/NOTE-tmpftp86.md)), from the page at
   alignment.anthropic.com; worth reading as the plainest statement of
   the persona-distribution picture the record's U6 to U12 build on,
   and for its spectrum of views on exhaustiveness, whose router is the
@@ -52,7 +52,7 @@ summary: >-
   coin-flip experiment. The open question is exhaustiveness, set out
   as a spectrum from a shoggoth through a router that swaps personas
   to an operating system. "PSM" in the record already abbreviates
-  Metzinger's phenomenal self-model (NOTE-460), so this work is named
+  Metzinger's phenomenal self-model ([NOTE-460](../notes.d/NOTE-460.md)), so this work is named
   in full.
 ---
 <!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-tmpildq9 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -61,7 +61,7 @@ summary: >-
 
 Marks, S., Lindsey, J., Olah, C. (2026). The Persona Selection Model: Why AI Assistants might Behave like Humans. *Anthropic Alignment Science blog*. https://alignment.anthropic.com/2026/psm/.
 
-Read in full on 2026-11-03 (NOTE-tmpftp86; THEORY-tmpzxpp8).
+Read in full on 2026-11-03 ([NOTE-tmpftp86](../notes.d/NOTE-tmpftp86.md); [THEORY-tmpzxpp8](../theory.d/THEORY-tmpzxpp8.md)).
 
 ## Key takeaways
 

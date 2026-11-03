@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-03 (NOTE-tmpagiju, Skimmed: main text in full,
+  read 2026-11-03 ([NOTE-tmpagiju](../notes.d/NOTE-tmpagiju.md), Skimmed: main text in full,
   appendices not read), from arXiv v1; worth reading for the geometry
   of persona space in three open-weight models, the Assistant at one
   end of a pre-existing first axis, and for the finding that within a
   conversation the persona's position follows the latest user message,
-  which bears on any episode-level model of personas (CLAIM-tmphbnqm,
-  QUESTION-tmpildq9).
+  which bears on any episode-level model of personas ([CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md),
+  [QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md)).
 title: 'The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models'
 version: 2
 history:
@@ -60,7 +60,7 @@ summary: >-
 
 Lu, C., Gallagher, J., Michala, J., Fish, K., Lindsey, J. (2026). The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models. *arXiv preprint; PMLR v306*. arXiv:2601.10387.
 
-Read on 2026-11-03, main text in full (NOTE-tmpagiju, Skimmed; THEORY-tmple55n, THEORY-tmprb3rb).
+Read on 2026-11-03, main text in full ([NOTE-tmpagiju](../notes.d/NOTE-tmpagiju.md), Skimmed; [THEORY-tmple55n](../theory.d/THEORY-tmple55n.md), [THEORY-tmprb3rb](../theory.d/THEORY-tmprb3rb.md)).
 
 ## Key takeaways
 

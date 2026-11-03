@@ -20,8 +20,8 @@ date: '2026-11-03'
 source:
 - LIT-tmpyjvij
 summary: >-
-  Chen et al. (2025), LIT-tmpyjvij, read in NOTE-tmpp25f6. The mediating
-  reading is the authors' framing and PSM's use of the paper (LIT-tmp4flye:
+  Chen et al. (2025), [LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md), read in [NOTE-tmpp25f6](../notes.d/NOTE-tmpp25f6.md). The mediating
+  reading is the authors' framing and PSM's use of the paper ([LIT-tmp4flye](../literature.d/LIT-tmp4flye.md):
   training-time shifts "can be regarded as conditioning"). What the paper
   shows is correlation of shift with expression, and steering effects in
   both directions; that the regularizer against the shift fails, with the
@@ -34,13 +34,13 @@ summary: >-
 
 ## Source
 
-Chen et al. (2025), LIT-tmpyjvij; read in NOTE-tmpp25f6.
+Chen et al. (2025), [LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md); read in [NOTE-tmpp25f6](../notes.d/NOTE-tmpp25f6.md).
 
 ## What was actually shown
 
 - The same vector, extracted from system-prompted contrasts, steers the trait
   (§3.2), tracks prompt-induced shifts (§3.3) and tracks finetuning-induced
-  shifts (§4.2, THEORY-tmp6nup8).
+  shifts (§4.2, [THEORY-tmp6nup8](THEORY-tmp6nup8.md)).
 - Subtracting it after finetuning lowers the trait (§5.1); adding it during
   finetuning prevents much of the shift (§5.2).
 - A loss penalizing change along it is "ineffective", "We suspect this is

@@ -8,8 +8,8 @@ date: '2026-11-03'
 source:
 - LIT-tmp0o6ud
 summary: >-
-  Blei, Ng and Jordan (2003), LIT-tmp0o6ud, read in full in
-  NOTE-tmplt5sh. Active as a statement of the model's structure, which is
+  Blei, Ng and Jordan (2003), [LIT-tmp0o6ud](../literature.d/LIT-tmp0o6ud.md), read in full in
+  [NOTE-tmplt5sh](../notes.d/NOTE-tmplt5sh.md). Active as a statement of the model's structure, which is
   definitional and is stated in the text (pp. 996–1001); the variational
   updates were checked against Appendix A. It does not say LDA fits text
   well, which rests on perplexity on two corpora, or that its topics are
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Blei, Ng and Jordan (2003), LIT-tmp0o6ud, JMLR 3: 993–1022; read in
-NOTE-tmplt5sh.
+Blei, Ng and Jordan (2003), [LIT-tmp0o6ud](../literature.d/LIT-tmp0o6ud.md), JMLR 3: 993–1022; read in
+[NOTE-tmplt5sh](../notes.d/NOTE-tmplt5sh.md).
 
 ## What was actually shown
 

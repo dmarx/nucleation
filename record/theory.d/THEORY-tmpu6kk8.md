@@ -9,9 +9,9 @@ source:
 - LIT-tmp91wxa
 - LIT-1534
 summary: >-
-  Vaswani et al. (2017), LIT-tmp91wxa, read in full in NOTE-tmp2mbd7, eq. 1
-  and §3.2.2; the circuit vocabulary is Elhage et al.'s (LIT-1534,
-  THEORY-988). Active: it is the definition of the mechanism, checked
+  Vaswani et al. (2017), [LIT-tmp91wxa](../literature.d/LIT-tmp91wxa.md), read in full in [NOTE-tmp2mbd7](../notes.d/NOTE-tmp2mbd7.md), eq. 1
+  and §3.2.2; the circuit vocabulary is Elhage et al.'s ([LIT-1534](../literature.d/LIT-1534.md),
+  [THEORY-988](THEORY-988.md)). Active: it is the definition of the mechanism, checked
   against the equations. It does not say that heads are interpretable
   observers, which the paper supports only with visualizations, or that
   the separation survives composition across layers.
@@ -21,8 +21,8 @@ summary: >-
 
 ## Source
 
-Vaswani et al. (2017), LIT-tmp91wxa, §3.2; read in NOTE-tmp2mbd7. The QK/OV
-naming is Elhage et al.'s, LIT-1534.
+Vaswani et al. (2017), [LIT-tmp91wxa](../literature.d/LIT-tmp91wxa.md), §3.2; read in [NOTE-tmp2mbd7](../notes.d/NOTE-tmp2mbd7.md). The QK/OV
+naming is Elhage et al.'s, [LIT-1534](../literature.d/LIT-1534.md).
 
 ## What was actually shown
 

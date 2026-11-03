@@ -160,7 +160,7 @@ The paper is argument and review. It reports no new data.
 
 - **Bishop and Atmanspacher 2006** ([LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)) and **Bishop, Silberstein
   and Pexton 2022**: the source of contextual emergence. Bishop's own later
-  statement, the SEP entry of 2024 (LIT-tmp9hfqf, NOTE-tmpyhyrz), presents
+  statement, the SEP entry of 2024 ([LIT-tmp9hfqf](../literature.d/LIT-tmp9hfqf.md), [NOTE-tmpyhyrz](NOTE-tmpyhyrz.md)), presents
   contextual emergence as real constraint by larger-scale stability conditions,
   with convection as the case, and sets it against causal powers. So "the whole
   constrains its parts" is Bishop's; what the paper adds is the boundary
@@ -281,15 +281,15 @@ The paper is argument and review. It reports no new data.
 
 ## Note of 2026-11-03 (later): the sources, read
 
-- **Szczepanski et al.** (NOTE-tmpryuio) show correlation only: coupling
+- **Szczepanski et al.** ([NOTE-tmpryuio](NOTE-tmpryuio.md)) show correlation only: coupling
   strength predicted reaction time at 28 of 123 coupled electrodes, and nothing
   was manipulated. The paper's "associated with" is accurate; its "improve"
   (p. 28) is not.
-- **Voigt 2022** (NOTE-tmpic1x7) is an Opinion article. It proposes that
+- **Voigt 2022** ([NOTE-tmpic1x7](NOTE-tmpic1x7.md)) is an Opinion article. It proposes that
   attention updates value and does not show it, and its attention step is
   bottom-up: the precuneus picks the salient item and dlPFC holds it.
-- **Anastassiou et al.** (NOTE-tmpi46fq) bear out the quotation on p. 35 and not
+- **Anastassiou et al.** ([NOTE-tmpi46fq](NOTE-tmpi46fq.md)) bear out the quotation on p. 35 and not
   the inference: the authors explain field effects by circuit physics.
 - **Unverified.** A search summary attributes a necessary-but-not-sufficient
   taxonomy of emergence to Bishop and Atmanspacher themselves; check when
-  LIT-tmpo8e51 is fetched.
+  [LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md) is fetched.

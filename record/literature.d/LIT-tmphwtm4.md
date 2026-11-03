@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpic1x7), from the publisher's open-access
+  read in full 2026-11-03 ([NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md)), from the publisher's open-access
   PDF; worth reading as a short statement of the view that
   preferences form during hard choices, through fixation, rather than
   only after them through dissonance reduction. It is an Opinion article
@@ -63,10 +63,10 @@ Voigt, K. (2022). Where do our preferences come from? How hard decisions shape o
 
 ## Key takeaways
 
-- Choice-induced preference change is proposed to arise during hard choices, through fixation, not only after them (NOTE-tmpic1x7).
-- The tie-breaking attention is bottom-up: precuneus to the salient item, dlPFC holding it (THEORY-tmpicoxo, Proposed).
+- Choice-induced preference change is proposed to arise during hard choices, through fixation, not only after them ([NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md)).
+- The tie-breaking attention is bottom-up: precuneus to the salient item, dlPFC holding it ([THEORY-tmpicoxo](../theory.d/THEORY-tmpicoxo.md), Proposed).
 - Evidence correlational; an Opinion article, not a review.
 
 ## Standing in the record
 
-The model Jennings ([LIT-tmpasemk](LIT-tmpasemk.md), p. 25) takes her stalemate mechanism from: with equally valued options, dorsolateral prefrontal cortex and precuneus raise attention on one, allowing a decision and an update of its value, so that hard choices shape later preferences. [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md) rests on it at second hand. A Frontiers Opinion article, open access; read in NOTE-tmpic1x7, which finds the tie-breaking attention bottom-up and the value update correlational.
+The model Jennings ([LIT-tmpasemk](LIT-tmpasemk.md), p. 25) takes her stalemate mechanism from: with equally valued options, dorsolateral prefrontal cortex and precuneus raise attention on one, allowing a decision and an update of its value, so that hard choices shape later preferences. [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md) rests on it at second hand. A Frontiers Opinion article, open access; read in [NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md), which finds the tie-breaking attention bottom-up and the value update correlational.

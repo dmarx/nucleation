@@ -20,13 +20,13 @@ date: '2026-11-03'
 source:
 - LIT-tmp31f3t
 summary: >-
-  Froese (2023), LIT-tmp31f3t, read in full in NOTE-tmpn7fkx. The first
+  Froese (2023), [LIT-tmp31f3t](../literature.d/LIT-tmp31f3t.md), read in full in [NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md). The first
   half is the paper's proposal (§§4, 5.2.3, 6); the second half is this
   reading's observation about the model it cites, from the paper's own
   description of it ("reset to an arbitrary configuration"). Proposed
   because the proposal is stated as potential ("holds potential to provide")
   and no model with motivated irruptions is given. It bears directly on
-  CLAIM-tmpex9rg and on the luck objection (THEORY-328, THEORY-040).
+  [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md) and on the luck objection ([THEORY-328](THEORY-328.md), [THEORY-040](THEORY-040.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpex9rg THEORY-328 THEORY-040 — Proposed; the claim and the objection this bears on, cited as open -->
 
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Froese (2023), LIT-tmp31f3t, §§4, 5.2.3 and 6, with Fig. 4 (from Froese,
-Weber, Shpurov and Ikegami); read in NOTE-tmpn7fkx. The self-optimization
+Froese (2023), [LIT-tmp31f3t](../literature.d/LIT-tmp31f3t.md), §§4, 5.2.3 and 6, with Fig. 4 (from Froese,
+Weber, Shpurov and Ikegami); read in [NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md). The self-optimization
 model is Watson, Buckley and Mills (2011), which the record does not hold.
 
 ## What was actually shown

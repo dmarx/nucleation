@@ -64,23 +64,23 @@ frustration's measurement.
 ## Note of 2026-11-03: the readings
 
 - **No functional measure exists.** All 31 need scales Kermavnar et al. map are
-  self-reports (NOTE-tmpe2f2g), so none measures the functional deficit this
+  self-reports ([NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md)), so none measures the functional deficit this
   question's answer calls for. Candidate needs are proposed because the three
   needs' frustration "may not adequately predict … ill-being": the well-being
   route itself.
 - **The measures do not separate the needs.** In Patrick et al. 2007
-  (NOTE-tmpi2z1s), corrected for unreliability, autonomy and competence
+  ([NOTE-tmpi2z1s](../notes.d/NOTE-tmpi2z1s.md)), corrected for unreliability, autonomy and competence
   correlate .96 and autonomy and relatedness .86. The frustration test sorts
-  partly by keying (Murphy et al., NOTE-tmpswlms).
+  partly by keying (Murphy et al., [NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md)).
 - **SDT's own researchers raised the question.** Sheldon et al. 2001
-  (NOTE-tmp3xmvo) weighed treating self-esteem as an outcome, called that
+  ([NOTE-tmp3xmvo](../notes.d/NOTE-tmp3xmvo.md)) weighed treating self-esteem as an outcome, called that
   "imprudent", and concluded "there may be four fundamental psychological
-  needs". NOTE-440's "derivative" reply answers them.
+  needs". [NOTE-440](../notes.d/NOTE-440.md)'s "derivative" reply answers them.
 - **One criterion off the well-being route, weak.** Chen et al. find need
   satisfaction helps whether or not the need is valued or desired
-  (NOTE-tmpr36wg). It cannot tell a need from a universal enhancer.
+  ([NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md)). It cannot tell a need from a universal enhancer.
 - **Circularity elsewhere.** Niemiec et al. define intrinsic aspirations by their
-  link to the needs (NOTE-tmpmgw5i), so their mediation inherits it.
+  link to the needs ([NOTE-tmpmgw5i](../notes.d/NOTE-tmpmgw5i.md)), so their mediation inherits it.
 
 Martela and Ryan and Lubics et al. are Unfetched, so beneficence is still held
 second-hand. The question stays open.

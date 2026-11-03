@@ -9,12 +9,12 @@ date: '2026-11-03'
 source:
 - LIT-tmpd3l9z
 summary: >-
-  Sheldon et al. (2001), LIT-tmpd3l9z, read in NOTE-tmp3xmvo from the scan
+  Sheldon et al. (2001), [LIT-tmpd3l9z](../literature.d/LIT-tmpd3l9z.md), read in [NOTE-tmp3xmvo](../notes.d/NOTE-tmp3xmvo.md) from the scan
   on selfdeterminationtheory.org. Active as a statement of what the
   paper reports and concludes, checked against Tables 2–7 and p. 336. It
   does not say self-esteem is a need: the criteria are self-reports of
   one remembered event, and the self-esteem items read like well-being,
-  which is QUESTION-tmpee04a's problem in miniature.
+  which is [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md)'s problem in miniature.
 ---
 <!-- inactive-ok-file: QUESTION-tmpee04a — Open; the question this bears on -->
 
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Sheldon, Elliot, Kim and Kasser (2001), LIT-tmpd3l9z, pp. 328–337; read in
-NOTE-tmp3xmvo.
+Sheldon, Elliot, Kim and Kasser (2001), [LIT-tmpd3l9z](../literature.d/LIT-tmpd3l9z.md), pp. 328–337; read in
+[NOTE-tmp3xmvo](../notes.d/NOTE-tmp3xmvo.md).
 
 ## What was actually shown
 

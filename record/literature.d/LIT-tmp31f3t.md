@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-03 (NOTE-tmpn7fkx), from PubMed Central's copy of
+  read in full 2026-11-03 ([NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md)), from PubMed Central's copy of
   the version of record; worth reading as the founding statement of
   Irruption Theory, a libertarian enactivist account on which motivation
   shows only as material underdetermination, and for its own concession
@@ -61,16 +61,16 @@ Froese, T. (2023). Irruption Theory: A Novel Conceptualization of the Enactive A
 
 ## Key takeaways
 
-Read in full on 2026-11-03 (NOTE-tmpn7fkx).
+Read in full on 2026-11-03 ([NOTE-tmpn7fkx](../notes.d/NOTE-tmpn7fkx.md)).
 
 - Irruption Theory's axioms, its three theses and its commitment that
-  irruptions are undirected (THEORY-tmpx0kxz).
+  irruptions are undirected ([THEORY-tmpx0kxz](../theory.d/THEORY-tmpx0kxz.md)).
 - Its proposed answer to the randomness horn of the libertarian dilemma,
   attunement by self-optimization, in which the resets are arbitrary
-  (THEORY-tmped3yc).
-- A libertarian source that concedes the point of CLAIM-tmpex9rg: amplified
+  ([THEORY-tmped3yc](../theory.d/THEORY-tmped3yc.md)).
+- A libertarian source that concedes the point of [CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md): amplified
   indeterminacy "cannot directly control".
 
 ## Standing in the record
 
-The source of Irruption Theory, which LIT-1132 and Sánchez-Cañizares 2026 apply.
+The source of Irruption Theory, which [LIT-1132](LIT-1132.md) and Sánchez-Cañizares 2026 apply.

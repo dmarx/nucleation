@@ -135,27 +135,27 @@ allure usually lies in the presumed admiration that attends them" (p. 280).
 
 ## Connections
 
-It extends Kasser and Ryan 1993 and cites Deci and Ryan 1985a (LIT-tmp7s2t8)
+It extends Kasser and Ryan 1993 and cites Deci and Ryan 1985a ([LIT-tmp7s2t8](../literature.d/LIT-tmp7s2t8.md))
 for the control orientation as "a focus on obtaining rewards or praise from
-others" (p. 281). Ryan et al. 2022 (LIT-tmpd9u4s) cite it among goal
+others" (p. 281). Ryan et al. 2022 ([LIT-tmpd9u4s](../literature.d/LIT-tmpd9u4s.md)) cite it among goal
 contents theory's sources; Bradshaw et al. 2022 there confirm that
 relative-centrality scoring, as here, is what produces the negative
 extrinsic association.
 
 ## Bearing on the record
 
-- **NOTE-439's C4, a correction to the registration.** The registration
-  filed this paper for NOTE-439's C4, "Extrinsic aspirations predict lower
+- **[NOTE-439](NOTE-439.md)'s C4, a correction to the registration.** The registration
+  filed this paper for [NOTE-439](NOTE-439.md)'s C4, "Extrinsic aspirations predict lower
   well-being, beyond the reasons for pursuing them". The paper supports the
   first half only. It has no measure of reasons and names the second half
-  as a future question (p. 286). NOTE-439's own support for C4 is Carver and
-  Baird (pp. 244–245 of LIT-558), which this paper does not include.
-- **QUESTION-tmpee04a.** The paper ties extrinsic goals to well-being
+  as a future question (p. 286). [NOTE-439](NOTE-439.md)'s own support for C4 is Carver and
+  Baird (pp. 244–245 of [LIT-558](../literature.d/LIT-558.md)), which this paper does not include.
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).** The paper ties extrinsic goals to well-being
   through need satisfaction in its theory, "likely to satisfy basic and
   inherent psychological needs" (p. 280), but measures no need. It is
   evidence that aspiration content correlates with well-being, not that
   needs are needs.
-- **THEORY-054.** Its caveat is THEORY-054's distinction in another form:
+- **[THEORY-054](../theory.d/THEORY-054.md).** Its caveat is [THEORY-054](../theory.d/THEORY-054.md)'s distinction in another form:
   goals such as religiosity "may not, on the basis of their surface
   content, be a priori accordant or discordant with integrative and
   actualizing processes … the relationship … likely depends on whether the

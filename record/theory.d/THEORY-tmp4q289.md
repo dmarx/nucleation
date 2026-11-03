@@ -9,7 +9,7 @@ date: '2026-11-03'
 source:
 - LIT-tmpeapgr
 summary: >-
-  Slemp et al. (2024), LIT-tmpeapgr, read in NOTE-tmpbntuj from the CC BY
+  Slemp et al. (2024), [LIT-tmpeapgr](../literature.d/LIT-tmpeapgr.md), read in [NOTE-tmpbntuj](../notes.d/NOTE-tmpbntuj.md) from the CC BY
   Online First PDF. Active as a statement of what the meta-analysis
   reports, its Table 2 reproduced from its Table 1 matrix. It is a
   statement about correlations, which the authors interpret as effects on
@@ -22,8 +22,8 @@ summary: >-
 
 ## Source
 
-Slemp, Field, Ryan, Forner, Van den Broeck and Lewis (2024), LIT-tmpeapgr,
-pp. 8–17 of the Online First PDF; read in NOTE-tmpbntuj.
+Slemp, Field, Ryan, Forner, Van den Broeck and Lewis (2024), [LIT-tmpeapgr](../literature.d/LIT-tmpeapgr.md),
+pp. 8–17 of the Online First PDF; read in [NOTE-tmpbntuj](../notes.d/NOTE-tmpbntuj.md).
 
 ## What was actually shown
 

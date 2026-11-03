@@ -64,7 +64,7 @@ applied to culture (p. 219).
   Study 2 (pp. 221, 224). Implicit motives are set aside as a different
   construct (pp. 231–232).
 - **Study 1's need measure** is the nine-item scale of Sheldon et al. 2001
-  (LIT-tmpd3l9z), with Chinese autonomy α = .47 and Chinese autonomy
+  ([LIT-tmpd3l9z](../literature.d/LIT-tmpd3l9z.md)), with Chinese autonomy α = .47 and Chinese autonomy
   valuation α = .41 (p. 221).
 - **Study 2's main analyses** use saved latent factor scores in path
   models, because each country group in the hypothesis-testing half has
@@ -158,21 +158,21 @@ applied to culture (p. 219).
 
 ## Connections
 
-- **Bartholomew et al. 2011** (LIT-tmp6as8m), on need thwarting, is the
+- **Bartholomew et al. 2011** ([LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md)), on need thwarting, is the
   frustration construct's precursor (pp. 217, 230).
 - **Sheldon and Gunz 2009** supply the desire items and the finding that
   desire is rooted in frustration (pp. 219, 232).
-- **Sheldon et al. 2001** (LIT-tmpd3l9z), whose nine items are Study 1's
+- **Sheldon et al. 2001** ([LIT-tmpd3l9z](../literature.d/LIT-tmpd3l9z.md)), whose nine items are Study 1's
   measure; Chen et al. criticize it for not testing measurement equivalence
   (p. 219).
-- **Chirkov et al. 2003** (LIT-tmporplv) for autonomy as volition, not
+- **Chirkov et al. 2003** ([LIT-tmporplv](../literature.d/LIT-tmporplv.md)) for autonomy as volition, not
   independence (pp. 216, 218).
-- Not the "Chen et al. 2015b" of NOTE-440, which is the poverty and safety
-  study; LIT-tmpzyunx's registration says so correctly.
+- Not the "Chen et al. 2015b" of [NOTE-440](NOTE-440.md), which is the poverty and safety
+  study; [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md)'s registration says so correctly.
 
 ## Bearing on the record
 
-- **QUESTION-tmpee04a: the paper's need-strength test is a partial answer
+- **[QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md): the paper's need-strength test is a partial answer
   of the kind the question asks for.** A preference helps those who hold
   it; a need should help regardless. Non-moderation by valuation and
   desire is evidence on that, and it does not pass through the well-being
@@ -181,30 +181,30 @@ applied to culture (p. 219).
   outcome is still self-reported well-being. It cannot tell a need from a
   universal enhancer, since a universal enhancer also helps regardless of
   preference.
-- **THEORY-052 and LIT-tmpjcuzb: the satisfaction/frustration split is
+- **[THEORY-052](../theory.d/THEORY-052.md) and [LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md): the satisfaction/frustration split is
   confounded with item direction by construction.** All frustration items
   are negatively valenced experiences and all satisfaction items positive
   ones, so the six-factor model's better fit (ΔSBSχ²(12) = 450.79) is what
   a keying or valence factor would also produce. Murphy et al.'s objection
-  (THEORY-052's note of 2026-11-02) applies to this scale as built. The
+  ([THEORY-052](../theory.d/THEORY-052.md)'s note of 2026-11-02) applies to this scale as built. The
   latent composites are also close to collinear on the reconstructed
-  Fig. 1 (−.84). THEORY-tmpr67qi states this.
-- **THEORY-052's "shared content" worry, sharpened.** Several frustration
+  Fig. 1 (−.84). [THEORY-tmpr67qi](../theory.d/THEORY-tmpr67qi.md) states this.
+- **[THEORY-052](../theory.d/THEORY-052.md)'s "shared content" worry, sharpened.** Several frustration
   items are near-paraphrases of depressive cognitions ("I feel like a
   failure because of the mistakes I make"; "people I spend time with
   dislike me"), and the outcome is the CES-D. The 20-item CES-D includes
   "I felt that people disliked me" and "I thought my life had been a
   failure" (not in this text; which ten items were used is not stated), so
   some of the frustration–depression correlation may be item overlap.
-- **QUESTION-131.** The note of 2026-11-02 says this scale measures felt
+- **[QUESTION-131](../questions.d/QUESTION-131.md).** The note of 2026-11-02 says this scale measures felt
   frustration. It does: every item is "I feel ..." or "I have the
   impression ...". Nothing in it identifies a constraint or countervailing
   process, so it measures the experience, not operative thwarting.
-- **THEORY-052's promote_when** is not met: cross-sectional, one internalizing
+- **[THEORY-052](../theory.d/THEORY-052.md)'s promote_when** is not met: cross-sectional, one internalizing
   outcome, self-report.
-- **CLAIM-368**, which uses frustration as a primitive, inherits the scale's
+- **[CLAIM-368](../claims.d/CLAIM-368.md)**, which uses frustration as a primitive, inherits the scale's
   keying problem wherever it relies on BPNSFS-measured frustration.
-- Filed from it: THEORY-tmpr67qi (Active) and THEORY-tmp4qi8l (Proposed).
+- Filed from it: [THEORY-tmpr67qi](../theory.d/THEORY-tmpr67qi.md) (Active) and [THEORY-tmp4qi8l](../theory.d/THEORY-tmp4qi8l.md) (Proposed).
 - **No instruction for machine-learning practice.**
 
 ## Limitations
@@ -225,7 +225,7 @@ applied to culture (p. 219).
 ## Open questions
 
 - Does the satisfaction/frustration distinction survive a balanced-keying
-  design, with reverse-worded items in each subscale (LIT-tmpjcuzb's test)?
+  design, with reverse-worded items in each subscale ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md)'s test)?
 - Does frustration predict ill-being with outcomes that share no content
   with the items: informant ratings, clinical diagnosis, behaviour?
 - Would an equivalence test with adequate power confirm the absence of

@@ -9,8 +9,8 @@ date: '2026-11-03'
 source:
 - LIT-tmpk8i57
 summary: >-
-  Heymann and Vanden-Eijnden (2008), LIT-tmpk8i57, read in part in
-  NOTE-tmp6wm7j (§§1, 2.1–2.2, 4.1, 5). Active: the geometric formula and
+  Heymann and Vanden-Eijnden (2008), [LIT-tmpk8i57](../literature.d/LIT-tmpk8i57.md), read in part in
+  [NOTE-tmp6wm7j](../notes.d/NOTE-tmp6wm7j.md) (§§1, 2.1–2.2, 4.1, 5). Active: the geometric formula and
   the gradient case were re-derived for this reading; the path
   concentration is Proposition 2.3, whose proof was not read but whose
   statement is standard Freidlin–Wentzell theory; the Maier–Stein
@@ -24,7 +24,7 @@ summary: >-
 
 ## Source
 
-Heymann and Vanden-Eijnden (2008), LIT-tmpk8i57; read in NOTE-tmp6wm7j.
+Heymann and Vanden-Eijnden (2008), [LIT-tmpk8i57](../literature.d/LIT-tmpk8i57.md); read in [NOTE-tmp6wm7j](../notes.d/NOTE-tmp6wm7j.md).
 
 ## What was actually shown
 

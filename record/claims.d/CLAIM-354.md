@@ -249,12 +249,12 @@ The claim is unchanged.
 
 ## Note of 2026-11-03 (later): empowerment and information, read
 
-Empowerment (Klyubin et al. 2005, 2008; NOTE-tmpeeo19, NOTE-tmpgoetm) is a
+Empowerment (Klyubin et al. 2005, 2008; [NOTE-tmpeeo19](../notes.d/NOTE-tmpeeo19.md), [NOTE-tmpgoetm](../notes.d/NOTE-tmpgoetm.md)) is a
 task-free number for perceivable reach, but it is open-loop, depends on the
 horizon and ignores cost and viability, so it does not collapse this claim's
 profile to a scalar. Its maxima in the cart-pole cannot be reached and held,
-against what the agent can sustain (CLAIM-079). Ben-Tal et al.'s Table 2
-(NOTE-tmp5ejhp) is a quantitative case of legibility-limited policies: cost
+against what the agent can sustain ([CLAIM-079](CLAIM-079.md)). Ben-Tal et al.'s Table 2
+([NOTE-tmp5ejhp](../notes.d/NOTE-tmp5ejhp.md)) is a quantitative case of legibility-limited policies: cost
 34,583 with on-line information, 35,121 with past demands, infeasible with a
 four-period delay or none.
 
