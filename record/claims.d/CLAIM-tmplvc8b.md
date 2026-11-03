@@ -27,9 +27,9 @@ complements:
 - CLAIM-365
 - CLAIM-361
 - CLAIM-495
+grounds:
 - THEORY-1082
 - THEORY-894
-grounds:
 - LIT-1659
 - LIT-1439
 bears_on:

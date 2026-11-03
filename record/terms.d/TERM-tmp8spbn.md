@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance (TERM-084''s sense 1: what it was made from)'
+title: 'provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance (what it was made from, the sense the descent term holds)'
 version: 1
 tags:
 - agency
@@ -27,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-066 CASE-tmph9iwi CLAIM-tmpbeh2e CLAIM-tmpxes2o CLAIM-tmpxpdqi CLAIM-404 THEORY-040 THEORY-1118 THEORY-328 THEORY-047 THEORY-054 QUESTION-071 QUESTION-011 QUESTION-364 QUESTION-118 CLAIM-329 TERM-tmp8cp5q — Proposed, Open, Deferred or new; cited as open -->
 
-# TERM-tmp8spbn: provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance ([TERM-084](TERM-084.md)'s sense 1: what it was made from)
+# TERM-tmp8spbn: provenance, of a capacity or an organization, and which sense: formation provenance (whose process produced it), maintenance provenance (whose process keeps it), or source provenance (what it was made from, the sense the descent term holds)
 
 ## Definition
 

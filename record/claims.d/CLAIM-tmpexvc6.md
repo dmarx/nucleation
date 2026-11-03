@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'A plural will''s motivational integration, the dimension of freedom CLAIM-354 names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up'
+title: 'A plural will''s motivational integration, a dimension of freedom of will the record names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up'
 version: 1
 role: thesis
 warrant: interpretive
@@ -47,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-361 CLAIM-523 — Proposed, Open, Deferred or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-354 CLAIM-tmplvc8b CLAIM-tmpxpdqi QUESTION-255 CLAIM-357 — Proposed, Open or new; cited as open -->
 
-# CLAIM-tmpexvc6: A plural will's motivational integration, the dimension of freedom [CLAIM-354](CLAIM-354.md) names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up
+# CLAIM-tmpexvc6: A plural will's motivational integration, a dimension of freedom of will the record names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up
 
 ## The claim
 

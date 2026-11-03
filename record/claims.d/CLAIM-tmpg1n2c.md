@@ -18,6 +18,7 @@ line:
 - formal-apparatus
 rests_on:
 - CLAIM-350
+grounds:
 - THEORY-1096
 uses:
 - TERM-064

@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Self-formation, in the sense the record holds (TERM-023''s transformation, CLAIM-025), is the production by an agent''s own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it'
+title: 'Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent''s own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it'
 version: 1
 role: thesis
 warrant: interpretive
@@ -63,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-tmph9iwi QUESTION-071 — new or Open; the construction that tests this claim -->
 <!-- inactive-ok-file: CASE-115 CASE-189 CASE-161 CLAIM-485 CLAIM-475 CLAIM-tmpxpdqi CLAIM-tmpg1n2c QUESTION-133 QUESTION-364 QUESTION-282 THEORY-1119 — Proposed, Open or new; cited as open -->
 
-# CLAIM-tmpbeh2e: Self-formation, in the sense the record holds ([TERM-023](../terms.d/TERM-023.md)'s transformation, [CLAIM-025](CLAIM-025.md)), is the production by an agent's own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it
+# CLAIM-tmpbeh2e: Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent's own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it
 
 ## The claim
 

@@ -7,6 +7,7 @@ tags:
 - well-being
 - psychometrics
 date: '2026-11-02'
+line: distributed-agency
 summary: >-
   A3's closing question in the exchange "Assess SDT Coverage"
   (2026-11-02), at the owner's U3 ("how about the basic psychological
