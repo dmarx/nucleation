@@ -18,6 +18,7 @@ summary: >-
   paper "does not show how to test a need claim without assuming the
   well-being measure". A3 did not know the record had raised it.
 ---
+<!-- inactive-ok-file: NOTE-tmpo9h31 — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-tmpe2f2g NOTE-tmpi2z1s NOTE-tmpswlms NOTE-tmp3xmvo NOTE-tmpr36wg NOTE-tmpmgw5i — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: LIT-tmpd3l9z LIT-tmpjcuzb LIT-tmpk1ssy LIT-tmpkzr6r LIT-tmpohjdb THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -84,3 +85,12 @@ frustration's measurement.
 
 Martela and Ryan and Lubics et al. are Unfetched, so beneficence is still held
 second-hand. The question stays open.
+
+## Note of 2026-11-03 (later): La Guardia et al., read
+
+La Guardia et al. 2000 (NOTE-tmpo9h31) give the interdefinition worry at the
+level of an instrument. The need that best predicts attachment security,
+relatedness, has items closest to security in content, so the authors repeat
+every analysis without it. The results hold for autonomy and competence, which
+is their answer. And the variance is mostly across partners, so a need's
+satisfaction is a property of a person in a relationship, not of a person.

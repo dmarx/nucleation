@@ -48,6 +48,7 @@ summary: >-
   filed as [CLAIM-354](CLAIM-354.md) and [CLAIM-345](CLAIM-345.md), and the sensitivity half had no code.
   This is its second appearance. Its demonstrated part is [CLAIM-tmpptgk8](CLAIM-tmpptgk8.md).
 ---
+<!-- inactive-ok-file: LIT-tmpmi6rp NOTE-tmpku07s THEORY-tmpjn453 THEORY-tmpjkav4 — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-tmpyhyrz THEORY-tmp1jrus THEORY-tmped3yc — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: TERM-tmp8cp5q — Proposed; terms added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-478 LIT-tmp9hfqf LIT-tmpnqv86 LIT-tmpxj74l QUESTION-071 THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -127,3 +128,26 @@ The owner's connection puts that gap in control terms:
   which is reached ([THEORY-tmp1jrus](../theory.d/THEORY-tmp1jrus.md)).
 - **Kane is still unread.** The book is Unavailable and the 1999 and 2009 papers
   unreached, so "as the standard reading has it" stands.
+
+## Note of 2026-11-03 (later): Kane, read
+
+Kane's "Libertarianism" (2009) was read at the owner's direction (LIT-tmpmi6rp,
+NOTE-tmpku07s), so the note above saying Kane is unread is out of date for
+that paper; the 1996 book is still Unavailable.
+
+- **The attribution checks.** The chaos is Kane's: conflict is reflected in the
+  brain "by movement away from thermodynamic equilibrium—in short, a kind of
+  'stirring up of chaos' in the brain that makes it sensitive to
+  micro-indeterminacies at the neuronal level" (p. 39; THEORY-tmpjn453).
+- **The defeater is his reply, and it does not defeat the claim.** Kane makes the
+  indeterminacy "a hindrance or obstacle to the attainment of the goal" inside
+  goal-directed effort (p. 42), which is what this claim's defeater names. But
+  he concedes that indeterminism lessens control: "diminished control in such
+  circumstances does not entail diminished responsibility" (p. 43;
+  THEORY-tmpjkav4). So his reply is about responsibility, and grants this
+  claim's point about control.
+- **His escape is to make the noise the agent's own.** In a self-forming action
+  the noise hindering each choice "is coming from her own will" (p. 40), so
+  there is no outside noise for the agent's share to be measured against. That
+  holds only if the indeterminacy is all endogenous to the conflict, which Kane
+  assumes (NOTE-tmpku07s).

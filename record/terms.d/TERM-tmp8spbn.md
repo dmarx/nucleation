@@ -65,6 +65,10 @@ These entries turn on formation provenance, not only on maintenance:
   ([THEORY-121](../theory.d/THEORY-121.md)); Kane's ultimate responsibility ([CLAIM-022](../claims.d/CLAIM-022.md)'s note of
   2026-11-02); and the warning that a historical condition may not separate
   the manipulated agent from an ordinarily caused one ([THEORY-328](../theory.d/THEORY-328.md)).
+- **Kane's ultimate responsibility is formation provenance.** Whether "the
+  sources of our wills" can "be completely traced backwards to something over
+  which we had no control, such as … social conditioning or hidden controllers"
+  (LIT-tmpmi6rp, p. 37).
 - **Whose the will is.** [CLAIM-022](../claims.d/CLAIM-022.md), [QUESTION-011](../questions.d/QUESTION-011.md), [QUESTION-071](../questions.d/QUESTION-071.md) and
   [QUESTION-364](../questions.d/QUESTION-364.md).
 - **Capture and domination.** Reflexive control by a one-time perturbation

@@ -36,6 +36,7 @@ summary: >-
   less decisive against noise. [CLAIM-345](CLAIM-345.md) holds the cost formula and not
   the allocation across channels.
 ---
+<!-- inactive-ok-file: NOTE-tmpku07s — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-tmpyug9h — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-354 CLAIM-tmpex9rg LIT-tmpxj74l QUESTION-071 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -101,3 +102,12 @@ signal-to-noise ratio is (bu/σ)√(2/|λ|), which rises as a fold is approached
 1/√|λ| on both sides of marginal stability: near the fold a constant input is
 most decisive against noise and cheapest to sustain, and slowing down is
 where it is. Linear regime only.
+
+## Note of 2026-11-03 (later): Kane's relabelling
+
+Kane's self-forming action (NOTE-tmpku07s, p. 40) makes the noise that hinders
+each choice the agent's own competing effort. In this claim's terms that moves
+Σ into B_self: two of the agent's channels, each the other's disturbance. The
+share of the outcome against outside noise is then undefined, because there is
+none. The claim's results hold wherever some of the noise is exogenous, which
+neural noise generally is.

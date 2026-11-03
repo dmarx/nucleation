@@ -1,18 +1,16 @@
 ---
-status: Unfetched
+status: Active
 status_note: >-
-  searched 2026-11-03; a free copy was located and not fetched, so it is
-  not read and no NOTE is filed. The copy is a JSTOR download of the
-  published article reposted on a third-party site that hosts papers for
-  discussion, at
-  https://www.cooperative-individualism.org/kane-robert_libertarianism-2009-may.pdf.
-  [ADR-064](../decisions.d/ADR-064.md) counts such copies as lawful to read; this session's
-  permission check refused the download, and no attempt was made to get
-  round it. The owner can open that address directly. OpenAlex,
-  Unpaywall (noreply address) and Crossref report the article closed,
-  with Springer and JSTOR (stable/27734424) subscription access only.
+  read in full 2026-11-03 (NOTE-tmpku07s), from the JSTOR download
+  reposted on cooperative-individualism.org, at the owner's direction.
+  Worth reading as Kane's own compact statement of ultimate
+  responsibility, self-forming actions and his reply to the luck
+  objection: the "stirring up of chaos" that makes the brain sensitive to
+  micro-indeterminacy is his, and his answer to the control objection
+  concedes that indeterminism diminishes control and denies that it
+  diminishes responsibility.
 title: 'Libertarianism'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-02'
@@ -29,6 +27,14 @@ history:
     (a JSTOR download reposted by a third-party paper archive, lawful
     under ADR-064), and the session's permission check refused the fetch.
     Not read; no NOTE is filed.
+- version: 3
+  date: '2026-11-03'
+  note: >-
+    Read at the owner's direction ("read the … cooperative-individualism …
+    copies too") from https://www.cooperative-individualism.org/kane-robert_libertarianism-2009-may.pdf, a JSTOR download of the published
+    article (pp. 35–44) reposted there; text extracted with pypdf, all ten
+    pages and the references read. Status Unfetched → Active. The summary
+    is replaced by one from the text. Two THEORYs are filed (THEORY-tmpjn453, THEORY-tmpjkav4).
 tags:
 - free-will
 date: '2026-11-02'
@@ -40,9 +46,17 @@ keywords:
 - 'ultimate responsibility'
 implementations: []
 summary: >-
-  Kane (2009), doi:10.1007/s11098-009-9365-y. Registered unread from the
-  exchange "Assess SDT Coverage" of 2026-11-02 (A15). Kane's short
-  statement of his view; the developed argument is in the 1996 book.
+  Kane (2009), Philosophical Studies 144: 35–44. Free will is "the power
+  to be the ultimate creator and sustainer of one's own ends or purposes",
+  and requires ultimate responsibility (UR): an agent must be responsible
+  for anything that is a sufficient cause or motive of the act. UR
+  requires that some acts in a life, self-forming actions, were
+  undetermined, and Frankfurt cases do not touch them. SFAs occur under
+  conflict, when a "stirring up of chaos" in the brain makes it sensitive
+  to micro-indeterminacy; the indeterminacy is a hindrance within each of
+  two competing efforts, both willed, so either outcome is the agent's
+  success. Indeterminism lessens control without lessening responsibility,
+  and what responsibility needs is macro-control, not control of neurons.
 ---
 
 # LIT-tmpmi6rp: Libertarianism
@@ -51,9 +65,21 @@ Kane, R. (2009). Libertarianism. *Philosophical Studies, 144(1), 35-44*. doi:10.
 
 ## Key takeaways
 
-*Not read.* Nothing here reports the work's findings; what the exchange's
-replies said of it is unverified.
+- The chaos in the self-forming action is Kane's own: tension "reflected in
+  appropriate regions of our brains by movement away from thermodynamic
+  equilibrium—in short, a kind of 'stirring up of chaos' in the brain that
+  makes it sensitive to micro-indeterminacies at the neuronal level" (p. 39).
+- His reply to the luck objection makes the indeterminacy a hindrance inside a
+  goal-directed effort, like noise on a Morse line (p. 42), and moves control
+  from neurons to "macro-control of processes involving many neurons" (p. 43).
+- He concedes that indeterminism lessens control and denies that this lessens
+  responsibility, with three assassins of 50, 80 and 100% chance equally guilty
+  (pp. 43–44).
 
 ## Standing in the record
 
-Kane's short statement of his view; the developed argument is in the 1996 book.
+Registered for CLAIM-tmpex9rg, the owner's thesis that the sensitivity chaos
+gives a will is not control over it, and for CLAIM-022's note on ultimate
+responsibility. The reading confirms both the claim's attribution and its
+defeater: Kane's reply is the one the defeater names, and it is about
+responsibility, not control (NOTE-tmpku07s).

@@ -1,17 +1,15 @@
 ---
-status: Unavailable
+status: Active
 status_note: >-
-  looked for 2026-11-03, no lawful copy reached. OpenAlex (no email
-  address sent) lists only the APA record and PubMed, closed; about ten
-  filenames on the SDT site's SDT/documents/2000_… pattern returned 404,
-  and its search pages are behind a Cloudflare check. A third-party copy
-  is listed at
-  https://typeset.io/pdf/within-person-variation-in-security-of-attachment-a-self-5bo5w7krr7.pdf;
-  its provenance could not be judged and this session's permission check
-  refused the fetch, so it was not read. Patrick et al. 2007
-  ([LIT-tmpek1lj](LIT-tmpek1lj.md), read) reports its results second-hand.
+  read in full 2026-11-03 (NOTE-tmpo9h31), from the typeset.io copy of the
+  published article, at the owner's direction. Worth reading as the source
+  of the claim that need satisfaction varies by relationship and predicts
+  attachment security relationship by relationship: most of the variance
+  in attachment is within persons, across partners. Cross-sectional, and
+  the authors say so: the direction is undetermined and probably runs both
+  ways.
 title: 'Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being.'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-02'
@@ -32,6 +30,14 @@ history:
     variation in attachment across figures, predicted by need
     fulfilment, relatedness the strongest unique predictor (pp.
     436–437 of that paper).
+- version: 3
+  date: '2026-11-03'
+  note: >-
+    Read at the owner's direction ("read the typeset … copies too") from
+    https://typeset.io/pdf/within-person-variation-in-security-of-attachment-a-self-5bo5w7krr7.pdf, a scan of the published article (pp.
+    367–384); text extracted with pypdf, all three studies, the general
+    discussion and the appendix read, the reference list not. Status
+    Unavailable → Active. Patrick et al. 2007's second-hand account (LIT-tmpek1lj) checks. One THEORY is filed (THEORY-tmpvfke3).
 tags:
 - motivation
 - well-being
@@ -45,10 +51,17 @@ keywords:
 - 'relationships motivation theory'
 implementations: []
 summary: >-
-  La Guardia et al. (2000), doi:10.1037/0022-3514.79.3.367. Registered
-  unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A2).
-  Relationships Motivation Theory, the SDT mini-theory the record holds
-  least of (A1's table).
+  La Guardia, Ryan, Couchman and Deci (2000), JPSP 79: 367–384. In three
+  studies of undergraduates (N = 136, 152, 160), between 19% and 44% of
+  the variance in attachment security was between persons, the rest within
+  persons across partners (mother, father, romantic partner, best friend,
+  and in Study 2 roommate and another adult). Relationship-specific
+  satisfaction of the three needs predicted relationship-specific
+  security, also without the relatedness items; relatedness was the
+  strongest unique predictor, then autonomy, then competence. Mean
+  security predicted well-being and variability across partners mostly did
+  not. Need satisfaction and security each partly mediated the other's
+  relation to well-being. All cross-sectional.
 ---
 <!-- inactive-ok-file: LIT-tmpek1lj — cited as the second-hand report of this work -->
 
@@ -58,9 +71,18 @@ La Guardia, J. G., Ryan, R. M., Couchman, C. E., Deci, E. L. (2000). Within-pers
 
 ## Key takeaways
 
-*Not read.* No lawful copy was reached (see the status note).
-Patrick et al. 2007 ([LIT-tmpek1lj](LIT-tmpek1lj.md)) report its results second-hand.
+- Attachment security is mostly relational, not a trait: within-person
+  variance across partners was 56%, 79% and about two thirds in the three
+  studies, with error included.
+- Need satisfaction with a partner predicts security with that partner, in
+  every relationship tested (Table 3, betas .59–.79 for overall security in
+  Study 2).
+- The relatedness items overlap conceptually with security, which the authors
+  handle by repeating every analysis without them; autonomy then predicts most.
 
 ## Standing in the record
 
-Relationships Motivation Theory, the SDT mini-theory the record holds least of (A1's table).
+Registered as part of Relationships Motivation Theory's evidence, which the
+record held only through Patrick et al. 2007. It bears on QUESTION-tmpee04a's
+interdefinition worry at instrument level: the need most predictive of the
+outcome is the one closest to it in content (NOTE-tmpo9h31).
