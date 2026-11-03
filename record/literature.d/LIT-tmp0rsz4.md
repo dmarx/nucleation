@@ -1,10 +1,17 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A2). No reading was attempted.
+  sought 2026-11-03, no lawful copy reached. OpenAlex lists it closed with
+  no repository copy; APA's page is paywalled; web searches found only the
+  separate 2000 paper "When choice is demotivating" on a course page;
+  Iyengar's Columbia pages (columbia.edu/~ss957) refuse this client with 403
+  throughout, so no address there could be confirmed; a CORE result
+  (core.ac.uk/download/161434838.pdf) returned 403 and could not be
+  identified. Its findings are held second-hand in Chirkov et al. 2003
+  (NOTE-tmpgd5c5, p. 97) as well as NOTE-439 and NOTE-441; a supplied copy
+  returns it to reading.
 title: 'Rethinking the value of choice: A cultural perspective on intrinsic motivation.'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -13,6 +20,21 @@ history:
     email address sent, ADR-008): dated 1999-03 with no day, so the first
     of the month per ADR-002. The summary says why it is here, not what it
     shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Sought for reading on 2026-11-03, not read. Places looked: OpenAlex
+    (closed, no repository copy), APA (paywall), web search for the title
+    with and without "pdf", the first author's Columbia site (HTTP 403 for
+    every page, so no address confirmed), selfdeterminationtheory.org
+    (nothing for it), and a CORE download that returned 403 and is
+    unidentified. Status Deferred → Unavailable per ADR-041 and ADR-053. The
+    reading of Chirkov et al. 2003 (NOTE-tmpgd5c5) adds a third second-hand
+    account of it: experimenter-imposed choice undermined intrinsic
+    motivation in Asian and Anglo American children alike, and choice by
+    trusted others enhanced it for the Asian children only. That account is
+    Chirkov et al.'s and is not a reading of this paper. No email address
+    was sent to any service (ADR-008).
 tags:
 - motivation
 - social-science

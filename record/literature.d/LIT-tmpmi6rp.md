@@ -1,10 +1,18 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A15). No reading was attempted.
+  searched 2026-11-03; a free copy was located and not fetched, so it is
+  not read and no NOTE is filed. The copy is a JSTOR download of the
+  published article reposted on a third-party site that hosts papers for
+  discussion, at
+  https://www.cooperative-individualism.org/kane-robert_libertarianism-2009-may.pdf.
+  ADR-064 counts such copies as lawful to read; this session's
+  permission check refused the download, and no attempt was made to get
+  round it. The owner can open that address directly. OpenAlex,
+  Unpaywall (noreply address) and Crossref report the article closed,
+  with Springer and JSTOR (stable/27734424) subscription access only.
 title: 'Libertarianism'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -12,6 +20,15 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-11-02 (no
     email address sent, ADR-008): dated 2009-03-27. The summary says why it
     is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Status Deferred → Unfetched under ADR-053: a free copy was located on
+    2026-11-03 at
+    https://www.cooperative-individualism.org/kane-robert_libertarianism-2009-may.pdf
+    (a JSTOR download reposted by a third-party paper archive, lawful
+    under ADR-064), and the session's permission check refused the fetch.
+    Not read; no NOTE is filed.
 tags:
 - free-will
 date: '2026-11-02'

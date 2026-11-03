@@ -1,10 +1,16 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A3). No reading was attempted.
+  sought 2026-11-03; a lawful free copy is located and was not fetched. The
+  co-author Shelly Gable's lab page posts the article at
+  https://labs.psych.ucsb.edu/gable/shelly/sites/labs.psych.ucsb.edu.gable.shelly/files/pubs/reis_et_al._2000.pdf
+  (listed, per a web search, on https://labs.psych.ucsb.edu/gable/shelly/node/390). From this
+  client the host failed TLS certificate verification through the session
+  proxy and returned HTTP 503 to a second fetcher; a Wayback capture of
+  2024-07-03 exists, and web.archive.org is blocked by this session's egress
+  policy. Supplying that PDF returns it to reading.
 title: 'Daily Well-Being: The Role of Autonomy, Competence, and Relatedness'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -13,6 +19,18 @@ history:
     email address sent, ADR-008): dated 2000-04 with no day, so the first
     of the month per ADR-002. The summary says why it is here, not what it
     shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Sought for reading on 2026-11-03, not read. OpenAlex lists no open copy
+    and SAGE's page is restricted. A web search found the PDF on the lab
+    page of the co-author Shelly Gable (UCSB), an author's upload and lawful
+    under ADR-064; the archive.org availability API confirms a capture of it
+    from 2024-07-03. The UCSB host failed certificate verification through
+    this client's proxy and gave HTTP 503 to WebFetch; web.archive.org was
+    refused by the egress policy. Status Deferred → Unfetched per ADR-053,
+    with the address in the status note. No email address was sent to any
+    service (ADR-008).
 tags:
 - motivation
 - well-being

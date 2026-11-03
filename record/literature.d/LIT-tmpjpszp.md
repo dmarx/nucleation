@@ -1,10 +1,17 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A2). No reading was attempted.
+  looked for 2026-11-03, no lawful copy reached. OpenAlex (no email
+  address sent) lists only the APA record and PubMed, closed; about ten
+  filenames on the SDT site's SDT/documents/2000_… pattern returned 404,
+  and its search pages are behind a Cloudflare check. A third-party copy
+  is listed at
+  https://typeset.io/pdf/within-person-variation-in-security-of-attachment-a-self-5bo5w7krr7.pdf;
+  its provenance could not be judged and this session's permission check
+  refused the fetch, so it was not read. Patrick et al. 2007
+  (LIT-tmpek1lj, read) reports its results second-hand.
 title: 'Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being.'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -13,6 +20,18 @@ history:
     email address sent, ADR-008): dated 2000 with no day, so the first of
     the month per ADR-002. The summary says why it is here, not what it
     shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Sought 2026-11-03 for reading: OpenAlex, web search, the SDT
+    site's document paths, and a typeset.io listing whose fetch this
+    session refused. No copy was reached. Status Deferred →
+    Unavailable (ADR-041); if the owner judges the typeset.io copy
+    lawful (ADR-064), it is Unfetched at that address. Patrick et al.
+    2007 (LIT-tmpek1lj) summarize it: substantial within-person
+    variation in attachment across figures, predicted by need
+    fulfilment, relatedness the strongest unique predictor (pp.
+    436–437 of that paper).
 tags:
 - motivation
 - well-being
@@ -31,6 +50,7 @@ summary: >-
   Relationships Motivation Theory, the SDT mini-theory the record holds
   least of (A1's table).
 ---
+<!-- inactive-ok-file: LIT-tmpek1lj — cited as the second-hand report of this work -->
 
 # LIT-tmpjpszp: Within-person variation in security of attachment: A self-determination theory perspective on attachment, need fulfillment, and well-being.
 
@@ -38,8 +58,8 @@ La Guardia, J. G., Ryan, R. M., Couchman, C. E., Deci, E. L. (2000). Within-pers
 
 ## Key takeaways
 
-*Not read.* Nothing here reports the work's findings; what the exchange's
-replies said of it is unverified.
+*Not read.* No lawful copy was reached (see the status note).
+Patrick et al. 2007 (LIT-tmpek1lj) report its results second-hand.
 
 ## Standing in the record
 

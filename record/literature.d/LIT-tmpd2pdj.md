@@ -1,10 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A21, A25). No reading was attempted.
+  read in full 2026-11-03 (NOTE-tmpeeo19), from the University of
+  Hertfordshire archive copy; worth reading as the first definition of
+  empowerment, the capacity of the channel from an agent's actions to
+  its own later sensor, which counts only the control the agent can
+  perceive, a legibility-limited measure of reach for CLAIM-354.
 title: 'Empowerment: A Universal Agent-Centric Measure of Control'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -14,6 +17,16 @@ history:
     creation, 2005-12-13, used here; the conference met in September 2005
     on 2026-11-02 (no email address sent, ADR-008): dated 2005-12-13. The
     summary says why it is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Read in full from the University of Hertfordshire Research
+    Archive copy (uhra.herts.ac.uk/id/eprint/282/1/901241.pdf, via
+    hdl.handle.net/2299/1114), pp. 128–135; the first NOTE on the
+    work (NOTE-tmpeeo19). Status set from the reading: Active. A
+    `url:` to the archive copy is added. The summary is replaced by
+    one from the text. The registration's account held. Its THEORY
+    is filed jointly with the 2008 paper (THEORY-tmpuw92f).
 tags:
 - information-theory
 - agency
@@ -21,16 +34,22 @@ tags:
 date: '2026-11-02'
 published: '2005-12-13'
 doi: '10.1109/CEC.2005.1554676'
+url: 'https://uhra.herts.ac.uk/id/eprint/282/1/901241.pdf'
 first_author: 'Klyubin'
 keywords:
 - 'empowerment'
 - 'agent-centric control'
 implementations: []
 summary: >-
-  Klyubin et al. (2005), doi:10.1109/CEC.2005.1554676. Registered unread
-  from the exchange "Assess SDT Coverage" of 2026-11-02 (A21, A25). The
-  first statement of empowerment. Identified in the curation entry of
-  2026-10-18 as essential for [CLAIM-354](../claims.d/CLAIM-354.md) and left unregistered then.
+  Klyubin, Polani and Nehaniv (2005), IEEE CEC 2005, pp. 128–135.
+  Empowerment is defined as the Shannon capacity of an agent's
+  actuation channel, max over action distributions of I(Aⁿ; S_{t+n}),
+  counted only as far as the agent's own sensors register it. Knowing
+  the channel's state can raise it. As a fitness function in a grid
+  world with a signal source it evolves sensors that switch from
+  displacement blobs near the source to bearing arcs far from it, and
+  a wider variety of actuators, with empowerment capped by the
+  sensor's capacity.
 ---
 <!-- inactive-ok-file: CLAIM-354 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -38,10 +57,14 @@ summary: >-
 
 Klyubin, A., Polani, D., Nehaniv, C. (2005). Empowerment: A Universal Agent-Centric Measure of Control. *2005 IEEE Congress on Evolutionary Computation, 1, 128-135*. doi:10.1109/CEC.2005.1554676.
 
+Read in full on 2026-11-03 (NOTE-tmpeeo19; THEORY-tmpuw92f).
+
 ## Key takeaways
 
-*Not read.* Nothing here reports the work's findings; what the exchange's
-replies said of it is unverified.
+- Empowerment = max_{p(aⁿ)} I(Aⁿ_t; S_{t+n}) (eq. 3), open-loop, in bits.
+- Control the agent cannot perceive does not count (the neurosurgeon
+  example, p. 129).
+- Evolved sensors change representation with the niche (Figure 3).
 
 ## Standing in the record
 

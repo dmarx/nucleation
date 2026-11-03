@@ -22,6 +22,7 @@ summary: >-
   mixture, and the workspace's privilege is selective, where an LDA topic
   mediates every word.
 ---
+<!-- inactive-ok-file: NOTE-tmpagiju — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpwh2jo QUESTION-275 QUESTION-276 THEORY-1226 THEORY-490 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-tmpildq9: Do the concepts a language model's workspace makes reportable across an Assistant episode share an episode-level mixture, so that an LDA-style admixture over J-lens readouts predicts their co-occurrence better than one persona selected per conversation and better than independent draws per position; does intervening on the inferred mixture change which concepts reach report while leaving the consumers that bypass the workspace unchanged; and if two models matched on persona distribution and mixture differ under such interventions, whose will-organization is that difference: the simulated Assistant's, the network's or the deployed system's?
@@ -76,3 +77,12 @@ within-against-between agreement is its statistic. A12 §4 proposed it.
 ## Bears on
 
 [CLAIM-454](../claims.d/CLAIM-454.md), [QUESTION-275](QUESTION-275.md), [QUESTION-276](QUESTION-276.md) and [TERM-072](../terms.d/TERM-072.md).
+
+## Note of 2026-11-03: a confound, and more bearers
+
+The within- against between-episode test would be confounded by input-driven
+drift: the Assistant Axis finds persona following the latest user message
+(NOTE-tmpagiju). It needs the user's messages as covariates, or a per-turn state
+model. The Persona Selection Model distinguishes more bearers than the three
+listed: persona, actor, author or narrative, router and the network
+(NOTE-tmpftp86).

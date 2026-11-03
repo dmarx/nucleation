@@ -1,10 +1,16 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A2). No reading was attempted.
+  looked for 2026-11-03, no lawful copy found. OpenAlex (no email
+  address sent) lists only the Wiley record and PubMed, closed; web
+  searches found citing works and bibliographic records only; on the SDT
+  site, which hosts many of its authors' papers, about ten filenames on
+  its SDT/documents/1994_… pattern returned 404, and its search pages
+  are behind a Cloudflare check that was not passed. The experiment is
+  held only as LIT-558 and LIT-559 report it, and Steingut et al.'s
+  rationale meta-analysis (in LIT-tmpd9u4s) is the nearest evidence.
 title: 'Facilitating Internalization: The Self-Determination Theory Perspective'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -13,6 +19,13 @@ history:
     email address sent, ADR-008): dated 1994-03 with no day, so the first
     of the month per ADR-002. The summary says why it is here, not what it
     shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Sought 2026-11-03 for reading: OpenAlex, web search, and the SDT
+    site's document paths. No lawful copy was reached. Status Deferred
+    → Unavailable (ADR-041). The SDT site may hold a copy under a
+    filename not guessed; its listing pages refuse this client.
 tags:
 - motivation
 - self-governance
@@ -40,8 +53,7 @@ Deci, E. L., Eghrari, H., Patrick, B. C., Leone, D. R. (1994). Facilitating Inte
 
 ## Key takeaways
 
-*Not read.* Nothing here reports the work's findings; what the exchange's
-replies said of it is unverified.
+*Not read.* No lawful copy was reached (see the status note).
 
 ## Standing in the record
 

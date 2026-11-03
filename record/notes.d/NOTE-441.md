@@ -29,6 +29,7 @@ summary: >-
   critiques. Autonomy lies not in being an uncaused cause but in the
   capacity to "reflectively endorse or reject prompted actions" (p. 1573).
 ---
+<!-- inactive-ok-file: NOTE-tmpgd5c5 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: LIT-545 — Unavailable: Bandura (1977) is unread; this paper argues with Bandura (1989), named here, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
 
@@ -271,3 +272,10 @@ What the paper argues, in its order.
   Frankfurt's later work or any objection to hierarchical accounts.
 - The citation is right: Journal of Personality 74(6):1557–1586, December
   2006 (online 12 September 2006 per Crossref).
+
+## Note of 2026-11-03: C8 against its primary source
+
+Chirkov et al. 2003 (NOTE-tmpgd5c5) bear out this reading's account. Its "no
+moderation by culture" rests on twelve non-significant interactions in samples
+of 94 to 195 students, and its text for vertical collectivism repeats the
+vertical individualism statistics (p. 105 against Table 6).

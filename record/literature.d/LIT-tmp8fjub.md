@@ -1,10 +1,17 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A21). No reading was attempted.
+  searched 2026-11-03 for a lawful full text and none was reached, so it
+  is not read and no NOTE is filed. OpenAlex and Unpaywall (noreply
+  address) report it closed with no repository copy; Crossref lists
+  Sage's text-and-data-mining licence and Sage's PDF and XML, which are
+  subscription access, and journals.sagepub.com returned 403 to this
+  client. Web searches found no preprint, PhilArchive copy or author
+  upload; the author is at Ruhr-University Bochum (ORCID
+  0000-0002-4280-5048). Sánchez-Cañizares 2026 (NOTE-tmpbmoj1) cites its
+  criticism in one line. It stays Unavailable until a copy is supplied.
 title: 'Underdetermination and causality in Irruption Theory: A critical analysis from a complex systems perspective'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -12,6 +19,13 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-11-02 (no
     email address sent, ADR-008): dated 2024-11-23. The summary says why it
     is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a search for a lawful
+    full text on 2026-11-03 (OpenAlex, Unpaywall with the noreply address,
+    Crossref, the publisher, which returned 403, web searches for
+    preprints and author copies) reached none. No NOTE is filed.
 tags:
 - complex-systems
 - philosophy-of-science

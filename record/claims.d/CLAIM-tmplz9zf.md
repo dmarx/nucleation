@@ -21,6 +21,7 @@ complements:
 - CLAIM-025
 - CLAIM-tmphbnqm
 uses:
+- TERM-tmp8cp5q
 - TERM-023
 summary: >-
   A13 of the exchange "Assess SDT Coverage" (2026-11-02), answering the
@@ -32,6 +33,7 @@ summary: >-
   "a primitive analogue of a will-organization". Rechecked here by
   simulation.
 ---
+<!-- inactive-ok-file: TERM-tmp8cp5q — Proposed; terms added at the owner's review of 2026-11-03 -->
 
 # CLAIM-tmplz9zf: The persistence a Dirichlet–categorical hierarchy gives a run of selections is an observer's learning about a fixed mixture, not a change in what selects: under a uniform prior an observed first choice raises the predicted chance of repeating it from 1/2 to 2/3, while the same choice forced leaves it at 1/2, so the hierarchy's reinforcement is not evidence of self-formation or of a maintained will-organization, which need the mixture itself to change under the choice
 
@@ -62,3 +64,10 @@ and it is told apart from the observer's learning only by intervening
   observed choice sequences. The paper's own mechanism, from Voigt 2022, is
   a causal update of the chosen option's stored value (p. 25), which is the
   structure this claim says self-formation needs ([NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md)).
+
+## Note of 2026-11-03: Voigt, read
+
+The causal update Jennings takes from Voigt is a correlational finding with a
+causal role imported for gaze, not an intervention (NOTE-tmpic1x7). So the
+structure this claim says self-formation needs is proposed there, not shown.
+CASE-tmph9iwi builds it.

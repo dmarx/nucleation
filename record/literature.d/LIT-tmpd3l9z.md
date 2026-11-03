@@ -1,10 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A3). No reading was attempted.
+  read in full 2026-11-03 (NOTE-tmp3xmvo), from the scan on
+  selfdeterminationtheory.org, read as page images; worth reading because
+  its own SDT authors concluded there may be four needs, self-esteem the
+  fourth, and named the need-or-outcome ambiguity that QUESTION-tmpee04a
+  asks about.
 title: 'What is satisfying about satisfying events? Testing 10 candidate psychological needs.'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -13,6 +16,20 @@ history:
     email address sent, ADR-008): dated 2001 with no day, so the first of
     the month per ADR-002. The summary says why it is here, not what it
     shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Read in full from the scan of the published article on
+    selfdeterminationtheory.org
+    (SDT/documents/2001_SheldonElliotKimKasser.pdf), a scholarly third-party
+    page lawful under ADR-064. The PDF has no text layer; its pages were
+    rendered to images and read by eye. The first NOTE on the work
+    (NOTE-tmp3xmvo). Status set from the reading: Active. The summary is
+    replaced by one from the text. The registration's "self-esteem performs
+    strongly" holds; its framing of SDT's reply is corrected in the NOTE:
+    the authors themselves weighed treating self-esteem as an outcome and
+    called it "imprudent" (p. 336). One THEORY filed, Active
+    (THEORY-tmp5tsat). No email address was sent to any service (ADR-008).
 tags:
 - motivation
 - well-being
@@ -26,12 +43,16 @@ keywords:
 - 'satisfying events'
 implementations: []
 summary: >-
-  Sheldon et al. (2001), doi:10.1037/0022-3514.80.2.325. Registered unread
-  from the exchange "Assess SDT Coverage" of 2026-11-02 (A3). Tests ten
-  candidate needs; self-esteem performs strongly. [NOTE-440](../notes.d/NOTE-440.md) holds SDT's
-  reply, that self-esteem is derivative. For [QUESTION-tmpee04a](../questions.d/QUESTION-tmpee04a.md).
+  Sheldon, Elliot, Kim and Kasser (2001), JPSP 80. Three studies (USA; USA
+  and South Korea; USA) rated ten candidate needs within participants' most
+  satisfying event of the last month, week or semester. Autonomy,
+  competence, relatedness and self-esteem were the most salient and the
+  strongest correlates of event affect; among all ten, self-esteem was the
+  largest unique predictor in Studies 1 and 3 (β = .28, .38). The authors
+  concluded there may be four needs. Security mattered in unsatisfying
+  events; money–luxury came last.
 ---
-<!-- inactive-ok-file: QUESTION-tmpee04a — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: QUESTION-tmpee04a — Open; the question it was registered for -->
 
 # LIT-tmpd3l9z: What is satisfying about satisfying events? Testing 10 candidate psychological needs.
 
@@ -39,8 +60,7 @@ Sheldon, K. M., Elliot, A. J., Kim, Y., Kasser, T. (2001). What is satisfying ab
 
 ## Key takeaways
 
-*Not read.* Nothing here reports the work's findings; what the exchange's
-replies said of it is unverified.
+Read in full on 2026-11-03 (NOTE-tmp3xmvo). THEORY-tmp5tsat, Active, is filed from it.
 
 ## Standing in the record
 

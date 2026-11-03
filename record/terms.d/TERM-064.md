@@ -253,7 +253,9 @@ legibility" (U24). The link is right and new.
   registered, because the vocabulary has no topic for software design.
 - **Attention.** Each head's QK circuit is a bounded observer selecting
   among sources, an observer's rule class realized in an architecture. The
-  OV circuit is what the selection transports (Vaswani et al.,
+  OV circuit is what the selection transports. "QK" and "OV circuit" are
+  Elhage et al.'s terms; Vaswani et al. speak of a compatibility function and
+  values (eq. 1) (Vaswani et al.,
   [LIT-tmp91wxa](../literature.d/LIT-tmp91wxa.md); Elhage et al., [LIT-1534](../literature.d/LIT-1534.md); [THEORY-988](../theory.d/THEORY-988.md)). The separation is
   exact only with attention patterns frozen.
 

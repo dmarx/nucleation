@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -24,6 +24,10 @@ history:
     review's ruling (the owner delegated these rulings); ADR-065; the
     parenthetical that called it Proposed is corrected. Nothing else
     changes.
+- version: 4
+  date: '2026-11-03'
+  note: >-
+    uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,6 +67,7 @@ complements:
 - CLAIM-359
 - CLAIM-428
 uses:
+- TERM-tmp8spbn
 - TERM-066
 - TERM-064
 summary: >-
@@ -80,6 +85,7 @@ summary: >-
 illustrated_by:
 - CASE-123
 ---
+<!-- inactive-ok-file: TERM-tmp8spbn — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-342 CLAIM-348 CLAIM-359 CLAIM-410 THEORY-146 THEORY-151 CLAIM-297 CLAIM-277 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1324 LIT-1332 — Unavailable; Stigler and Entman, named as works the replies cited that no lawful copy reached -->

@@ -1,10 +1,13 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A2). No reading was attempted.
+  read in full 2026-11-03 (NOTE-tmpmgw5i), from the PubMed Central author
+  manuscript PMC2736104; worth reading as the direct longitudinal test of
+  goal contents theory's claim about attainment, and for what it shows that
+  its citations drop: extrinsic attainment's null is a unique-variance
+  result, and alone it correlates positively with well-being.
 title: 'The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -13,6 +16,16 @@ history:
     email address sent, ADR-008): dated 2009-06 with no day, so the first
     of the month per ADR-002. The summary says why it is here, not what it
     shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Read in full from the PubMed Central author manuscript (PMC2736104,
+    HTML), the first NOTE on the work (NOTE-tmpmgw5i). Status set from the
+    reading: Active. The summary is replaced by one from the text. The
+    registration's "attaining extrinsic aspirations, not only pursuing them"
+    holds, with one qualification the NOTE records: the extrinsic null is
+    with intrinsic attainment in the model. One THEORY filed, Proposed
+    (THEORY-tmpcjdte). No email address was sent to any service (ADR-008).
 tags:
 - motivation
 - well-being
@@ -26,11 +39,17 @@ keywords:
 - 'goal contents theory'
 implementations: []
 summary: >-
-  Niemiec et al. (2009), doi:10.1016/j.jrp.2008.09.001. Registered unread
-  from the exchange "Assess SDT Coverage" of 2026-11-02 (A2). Goal Contents
-  Theory: attaining extrinsic aspirations, not only pursuing them. With
-  Kasser and Ryan 1996.
+  Niemiec, Ryan and Deci (2009), J. Res. Pers. 43. 147 graduates surveyed
+  one and two years after college. Valuing intrinsic or extrinsic
+  aspirations predicted attaining them (β = .51, .67). With both attainments
+  in the model, intrinsic attainment predicted well-being (β = .77) and
+  ill-being (β = −.66), extrinsic attainment well-being β = .00 and
+  ill-being β = .38; over the year, change in need satisfaction mediated
+  intrinsic attainment's link to change in well-being. All self-report and
+  correlational; alone, extrinsic attainment correlates positively with
+  well-being (mean r = .19).
 ---
+<!-- inactive-ok-file: THEORY-tmpcjdte — Proposed; the THEORY filed from this reading, cited as open -->
 
 # LIT-tmp99221: The path taken: Consequences of attaining intrinsic and extrinsic aspirations in post-college life
 
@@ -38,8 +57,7 @@ Niemiec, C. P., Ryan, R. M., Deci, E. L. (2009). The path taken: Consequences of
 
 ## Key takeaways
 
-*Not read.* Nothing here reports the work's findings; what the exchange's
-replies said of it is unverified.
+Read in full on 2026-11-03 (NOTE-tmpmgw5i). THEORY-tmpcjdte, Proposed, is filed from it.
 
 ## Standing in the record
 

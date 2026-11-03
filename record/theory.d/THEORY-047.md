@@ -59,6 +59,7 @@ supports:
 bears_on:
 - QUESTION-071
 ---
+<!-- inactive-ok-file: NOTE-tmp1eol1 NOTE-tmpgd5c5 CASE-tmph9iwi — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CASE-tmph9iwi THEORY-054 LIT-tmpfyba0 — new, Proposed or Deferred; cited as open -->
 <!-- inactive-ok-file: THEORY-054 THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
 
@@ -150,3 +151,14 @@ study this theory holds second-hand, is registered.
 
 The status is unchanged.
 
+## Note of 2026-11-03 (later): the readings
+
+Deci et al. 1994 is Unavailable, so the experiment is still held second-hand.
+Ryan et al. 2022 (NOTE-tmp1eol1) report Steingut et al. 2017, 23 rationale
+experiments with perceived autonomy at r = .20: the nearest meta-analytic
+evidence, but it measures present endorsement, not the history against the
+structure that CASE-tmph9iwi's note asks a test to separate. Chirkov et al. 2003
+(NOTE-tmpgd5c5) hold internalization predicting well-being across four
+cultures, correlationally.
+
+The status is unchanged.

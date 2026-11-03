@@ -1,10 +1,15 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (reader of U17). No reading was attempted.
+  searched 2026-11-03 for a lawful full text and none was reached, so it
+  is not read and no NOTE is filed. OpenAlex reports it closed with no
+  repository copy; Crossref lists only Oxford Academic. A whole
+  in-copyright book on a file host would not count (ADR-064).
+  CLAIM-tmpp8p4i's defeater, a sinological reading of wu-wei, therefore
+  stays untested against this book. It stays Unavailable until a copy is
+  supplied.
 title: 'Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -12,6 +17,12 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-11-02 (no
     email address sent, ADR-008): dated 2003-03-27. Crossref gives the main title only; the subtitle is the book's. The summary says why it
     is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a search for a lawful
+    full text on 2026-11-03 (OpenAlex, Crossref, web searches) reached
+    none. No NOTE is filed; CLAIM-tmpp8p4i's defeater remains unchecked.
 tags:
 - religion
 - agency

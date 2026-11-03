@@ -71,6 +71,7 @@ bearing:
 - THEORY-040
 - THEORY-121
 ---
+<!-- inactive-ok-file: NOTE-tmp6wm7j NOTE-tmpbmoj1 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CASE-tmph9iwi THEORY-1118 THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-tmpxpdqi LIT-tmpk8i57 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
@@ -258,3 +259,15 @@ the capacity.
 
 The question stays open.
 
+## Note of 2026-11-03 (later): the readings
+
+- **The path test, confirmed and bounded.** Heymann and Vanden-Eijnden
+  (NOTE-tmp6wm7j) confirm the note of 2026-11-02 for gradient drift with
+  identity noise, and the degenerate-noise caveat. Gradient is sufficient, not
+  necessary: in the Maier–Stein model the noise path stays the reversed
+  relaxation path up to β = 4, though the drift is gradient only at β = 1. And
+  the path evidence is a small-noise statement; a controller can compute and
+  follow the noise path.
+- **The same problem for one act.** On Sánchez-Cañizares's irruption model
+  (NOTE-tmpbmoj1, p. 15), a change of mind-set parameter cannot be told from one
+  set by a stimulus, by internal dynamics or by another party.

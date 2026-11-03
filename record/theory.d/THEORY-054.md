@@ -67,6 +67,7 @@ supports:
 - CLAIM-016
 - CLAIM-354
 ---
+<!-- inactive-ok-file: NOTE-tmp1eol1 NOTE-tmpuvza0 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: LIT-tmpfyba0 LIT-tmpwslkc THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-047 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
@@ -184,5 +185,17 @@ whether integrated regulation is separable from identified regulation. A2
 says it does not find integrated regulation as a distinct factor. That is
 unverified until the paper is read. Deci et al. 1994 ([LIT-tmpfyba0](../literature.d/LIT-tmpfyba0.md)), which
 this theory and [THEORY-047](THEORY-047.md) hold second-hand, is registered too.
+
+The status is unchanged.
+
+## Note of 2026-11-03: Howard et al., second-hand
+
+Howard et al. 2017 is Unfetched. Ryan et al. 2022 (NOTE-tmp1eol1) report it:
+integrated regulation was not separated from identified, partly because few
+studies measured integration, and Van den Broeck et al. 2021 found the same at
+work. So the promote_when's first clause stays unmet, now on two reports. The
+causality orientations paper (NOTE-tmpuvza0, p. 111), where inner "I have to"
+events count as controls, is an early SDT statement of the claim's "not order"
+half.
 
 The status is unchanged.

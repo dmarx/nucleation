@@ -4,7 +4,12 @@ status: Active
 formerly:
 - CLAIM-tmp64xks
 title: 'Explaining practical efficacy does not settle whose the will is'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -16,11 +21,14 @@ works:
 - organization-of-will
 grounds:
 - LIT-292
+uses:
+- TERM-tmp8spbn
 summary: >-
   Section 7.2, "No. The theory explains practical efficacy, not
   ownership." What the authenticity line tried to supply, the paper now
   disclaims; [QUESTION-011](../questions.d/QUESTION-011.md) holds the question.
 ---
+<!-- inactive-ok-file: TERM-tmp8spbn — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-tmpex9rg LIT-tmpmi6rp LIT-tmpnqv86 THEORY-316 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account of authorship, a second instance of this limit -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; set aside, and cited to say what was set aside with it -->

@@ -34,6 +34,8 @@ complements:
 - CLAIM-478
 bears_on:
 - QUESTION-071
+uses:
+- TERM-tmp8cp5q
 summary: >-
   The owner's, at U16 and U20 of the exchange "Assess SDT Coverage"
   (2026-11-02). U16: "I think there's an intuitive control theoretic
@@ -46,6 +48,8 @@ summary: >-
   filed as [CLAIM-354](CLAIM-354.md) and [CLAIM-345](CLAIM-345.md), and the sensitivity half had no code.
   This is its second appearance. Its demonstrated part is [CLAIM-tmpptgk8](CLAIM-tmpptgk8.md).
 ---
+<!-- inactive-ok-file: NOTE-tmpyhyrz THEORY-tmp1jrus THEORY-tmped3yc — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
+<!-- inactive-ok-file: TERM-tmp8cp5q — Proposed; terms added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-478 LIT-tmp9hfqf LIT-tmpnqv86 LIT-tmpxj74l QUESTION-071 THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-tmpex9rg: The sensitivity that formal chaos gives a will's dynamics is not control over them: in Kane's self-forming actions, chaotic amplification keeps the outcome open, but it magnifies the agent's efforts, uncontrolled fluctuations and outside inputs alike, so what would make the outcome the agent's is how its own control couples to the amplifying directions, relative to noise and to other parties' inputs and with what feedback, which sensitivity does not supply; and under weak noise what amplification touches lasts only where it reaches the slow modes
@@ -105,3 +109,21 @@ The owner's connection puts that gap in control terms:
 - **That the slow-mode point is shown for brains or wills.** It is shown
   for weakly dissipative quantum many-body systems and carried over by
   analogy.
+
+## Note of 2026-11-03: the readings
+
+- **The SEP quotation is verbatim** (§6.4; NOTE-tmpyhyrz). Bishop adds that
+  amplification "may be severely constrained", by damping and by negative
+  local Lyapunov exponents at arrival (§4), and without citation by neural
+  redundancy (THEORY-tmpnjaik). That supports the slow-modes clause.
+- **A libertarian concedes the core.** Froese (NOTE-tmpn7fkx): amplified
+  irruptions "cannot directly control … cannot force the formation of the
+  behavior that is to come" (§5.2.3). His remedy is attunement, but in the model
+  he cites the resets are arbitrary, so nothing tells the agent's input from
+  noise (THEORY-tmped3yc).
+- **No chaos in the irruption model.** Sánchez-Cañizares 2026 (NOTE-tmpbmoj1)
+  has a one-dimensional gradient flow and does not cite Kane; the mind's only
+  channel is to the landscape's parameters, so it sets which outcomes exist, not
+  which is reached (THEORY-tmp1jrus).
+- **Kane is still unread.** The book is Unavailable and the 1999 and 2009 papers
+  unreached, so "as the standard reading has it" stands.

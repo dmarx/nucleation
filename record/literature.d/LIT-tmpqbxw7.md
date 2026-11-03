@@ -1,10 +1,16 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A21). No reading was attempted.
+  searched 2026-11-03 for a lawful full text and none was reached, so it
+  is not read and no NOTE is filed. OpenAlex reports it closed; Crossref
+  gives no licence; direct.mit.edu returned 403 to this client; web
+  searches found no open-access edition of this book. Juarrero's later
+  book, Context Changes Everything (MIT Press 2023, doi
+  10.7551/mitpress/14630.001.0001), is open access and is not this work.
+  Froese 2023 (NOTE-tmpn7fkx) cites this book among the constraint
+  accounts it criticizes. It stays Unavailable until a copy is supplied.
 title: 'Dynamics in Action: Intentional Behavior as a Complex System'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -12,6 +18,13 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-11-02 (no
     email address sent, ADR-008): dated 1999-11-22. Crossref gives the main title only; the subtitle is the book's. The summary says why it
     is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a search for a lawful
+    full text on 2026-11-03 (OpenAlex, Crossref, the publisher, which
+    returned 403, web searches for an open edition) reached none. The
+    open-access title is the 2023 book, not this one. No NOTE is filed.
 tags:
 - agency
 - complex-systems

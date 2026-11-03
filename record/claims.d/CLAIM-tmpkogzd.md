@@ -72,3 +72,13 @@ not what exists state by state. [CLAIM-tmpg1n2c](CLAIM-tmpg1n2c.md) states the s
 - **That A30's moving-target example shows a gluing effect.** It fails on one
   overlap whose target moves faster than its relative actuation; the cycle
   plays no part.
+
+## Note of 2026-11-03: Ben-Tal et al., read
+
+Conditions I and II are exactly Ben-Tal et al.'s adjustable and ordinary
+robust counterparts (NOTE-tmp5ejhp). Condition III matches what the paper calls
+an "information basis", which it names (p. 353) and does not develop, so III is
+this claim's own result, not a citation. The paper's in-between case, the
+affinely adjustable counterpart, restricts the rule's form, not what it reads.
+Its Theorem 2.1 explains the gap here: an edge's two inequalities share one
+disturbance, so the uncertainty is not constraint-wise.

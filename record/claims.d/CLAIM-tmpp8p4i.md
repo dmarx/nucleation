@@ -76,3 +76,10 @@ They may be reported alike and differ in mechanism.
   ([LIT-tmpuiuhc](../literature.d/LIT-tmpuiuhc.md)) is the reading to check it against.
 - **That small control is autonomous.** Low effort is not ownership: a
   remote operator can steer cheaply too ([CLAIM-354](CLAIM-354.md); [CLAIM-tmpex9rg](CLAIM-tmpex9rg.md)).
+
+## Note of 2026-11-03: its sources are unread
+
+Ott, Grebogi and Yorke, Shinbrot et al. and Slingerland were all looked for and
+are Unavailable, so both the claim's formal instance and the source named in
+its defeater rest on unread works. OGY is one of PRL's milestone letters; if
+the APS makes those free it should be Unfetched.

@@ -29,6 +29,7 @@ summary: >-
   substitutes and rigid defences when needs are thwarted. Autonomy is
   self-organization, defended as an evolved, domain-general design feature.
 ---
+<!-- inactive-ok-file: NOTE-tmpp47uv — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: LIT-545 — Unavailable: Bandura (1977) is unread; the paper argues with self-efficacy theory, which is named here, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-056 THEORY-050 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
 
@@ -268,3 +269,11 @@ The article is a review and argument; results are cited.
 - The brief's citation is right: Psychological Inquiry 11(4):227–268, 2000.
   Crossref prints the title with title-case and curly quotes, "The 'What' and
   'Why' of Goal Pursuits".
+
+## Note of 2026-11-03: C4 against its primary source
+
+Kasser and Ryan 1996 (NOTE-tmpp47uv) support only C4's first half, that
+extrinsic aspirations go with lower well-being. They measure no reasons and
+call the "beyond the reasons" test future work (p. 286). Their intrinsic and
+extrinsic results are close to one contrast, since both are entered after an
+overall score averaged across all seven domains.

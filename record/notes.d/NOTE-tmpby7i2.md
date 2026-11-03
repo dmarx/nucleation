@@ -26,6 +26,7 @@ summary: >-
   with Bénard cells, and the neural evidence does not separate it from
   the weakly emergent models it rejects.
 ---
+<!-- inactive-ok-file: NOTE-tmpyhyrz — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: LIT-tmphwtm4 LIT-tmpszapu — Deferred; sources registered unread on 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-tmplyicq THEORY-tmptunid THEORY-tmp6xjgq CLAIM-tmpex9rg CLAIM-tmplz9zf CLAIM-478 CLAIM-158 CLAIM-156 QUESTION-033 QUESTION-034 QUESTION-071 QUESTION-364 QUESTION-011 THEORY-040 THEORY-1296 LIT-tmpnqv86 LIT-tmpo8e51 LIT-tmpkq6x5 LIT-tmp4kcgq — Proposed, Open, Deferred or new; the entries the reading bears on, cited as open -->
 
@@ -134,7 +135,7 @@ The paper is argument and review. It reports no new data.
 |---|---|---|---|
 | C1 | Attention, unlike filtering, is selection that answers to the whole collection of a subject's interests | moderate as a definition | conceptual argument from the filter view's lack of a principled boundary (p. 11) |
 | C2 | Feedback from dlPFC marks the involvement of fluid interests, and so of attention proper | weak | inferred from reviews that prefrontal feedback is needed for maintained goals (pp. 31–32); no study is cited that uses it as a criterion |
-| C3 | Attention breaks stalemates between equally weighted interests and forms new interests | moderate | Voigt 2022's model, a review (p. 25) |
+| C3 | Attention breaks stalemates between equally weighted interests and forms new interests | moderate | Voigt 2022's model, an Opinion article (p. 25) |
 | C4 | Contextual emergence needs a boundary between the emergent phenomenon and its context, without which it collapses into weak emergence or supervenience | moderate as a philosophical proposal | argued on Bénard cells (pp. 18–20); stated by the paper as a stipulation (fn. 15) |
 | C5 | The subject is contextually emergent, with a power over its parts that weak emergence cannot give | weak | analogy with Bénard cells; phase-amplitude coupling and ephaptic coupling (pp. 27–29, 35), both consistent with weak emergence |
 | C6 | Attention so understood is the source of a free will, without indeterminism | weak | follows only if C5 holds and a non-reducible power suffices for sourcehood, which is asserted (p. 32) |
@@ -158,10 +159,15 @@ The paper is argument and review. It reports no new data.
 ## Connections
 
 - **Bishop and Atmanspacher 2006** ([LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)) and **Bishop, Silberstein
-  and Pexton 2022**: the source of contextual emergence. Bishop and
-  Atmanspacher's version is about stability conditions that make a
-  higher-level description well defined; the paper's boundary condition and
-  its causal reading go further. Bishop et al. 2022 is [LIT-tmpszapu](../literature.d/LIT-tmpszapu.md),
+  and Pexton 2022**: the source of contextual emergence. Bishop's own later
+  statement, the SEP entry of 2024 (LIT-tmp9hfqf, NOTE-tmpyhyrz), presents
+  contextual emergence as real constraint by larger-scale stability conditions,
+  with convection as the case, and sets it against causal powers. So "the whole
+  constrains its parts" is Bishop's; what the paper adds is the boundary
+  condition and the step to causal power and free will. (Corrected on
+  2026-11-03; this line first glossed Bishop and Atmanspacher as about
+  stability conditions for a well-defined description only. The 2006 paper is
+  Unfetched.) Bishop et al. 2022 is [LIT-tmpszapu](../literature.d/LIT-tmpszapu.md),
   registered unread.
 - **Kane** ([LIT-tmpnqv86](../literature.d/LIT-tmpnqv86.md) and Kane 1999, *J. Phil.* 96, cited; the 1999 paper
   is not held): self-forming actions as the case the account serves.
@@ -272,3 +278,18 @@ The paper is argument and review. It reports no new data.
   would separate contextual emergence from global supervenience
   ([THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)).
 - Would a subject whose interests were installed be free on this account?
+
+## Note of 2026-11-03 (later): the sources, read
+
+- **Szczepanski et al.** (NOTE-tmpryuio) show correlation only: coupling
+  strength predicted reaction time at 28 of 123 coupled electrodes, and nothing
+  was manipulated. The paper's "associated with" is accurate; its "improve"
+  (p. 28) is not.
+- **Voigt 2022** (NOTE-tmpic1x7) is an Opinion article. It proposes that
+  attention updates value and does not show it, and its attention step is
+  bottom-up: the precuneus picks the salient item and dlPFC holds it.
+- **Anastassiou et al.** (NOTE-tmpi46fq) bear out the quotation on p. 35 and not
+  the inference: the authors explain field effects by circuit physics.
+- **Unverified.** A search summary attributes a necessary-but-not-sufficient
+  taxonomy of emergence to Bishop and Atmanspacher themselves; check when
+  LIT-tmpo8e51 is fetched.

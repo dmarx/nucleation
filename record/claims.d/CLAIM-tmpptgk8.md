@@ -36,6 +36,7 @@ summary: >-
   less decisive against noise. [CLAIM-345](CLAIM-345.md) holds the cost formula and not
   the allocation across channels.
 ---
+<!-- inactive-ok-file: NOTE-tmpyug9h — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-354 CLAIM-tmpex9rg LIT-tmpxj74l QUESTION-071 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-tmpptgk8: Sensitivity does not fix the allocation or the authorship of control: linearized, every input reaches the final state through the same transition operator, ∂x_T/∂w_t = Φ(T, t)B_w(t), so systems with the same Lyapunov spectrum can differ arbitrarily in what an agent's own channel, an outside party's channel and noise each reach and at what least energy; and along one unstable direction a larger exponent λ lowers the least effort to reach a displacement, since W_T = b²(e^{2λT} − 1)/2λ grows with λ, while a constant open-loop input against white noise entering the same direction has terminal signal-to-noise ratio tending to (bu/σ)√(2/λ), which falls as λ grows, so only feedback that observes the state turns cheaper control into reliable direction
@@ -91,3 +92,12 @@ Thms 6.1–6.2.
   reach is not whose input it carries ([CLAIM-022](CLAIM-022.md), [QUESTION-071](../questions.d/QUESTION-071.md)).
 - **That comparisons of energy across channels are free.** As [CLAIM-345](CLAIM-345.md)
   says, they need inputs in common units and budgets.
+
+## Note of 2026-11-03: the stable side
+
+On a stable direction, dx = (−|λ|x + bu)dt + σ dW, the stationary
+signal-to-noise ratio is (bu/σ)√(2/|λ|), which rises as a fold is approached
+(the reader of Scheffer et al., NOTE-tmpyug9h). So the open-loop ratio goes as
+1/√|λ| on both sides of marginal stability: near the fold a constant input is
+most decisive against noise and cheapest to sustain, and slowing down is
+where it is. Linear regime only.

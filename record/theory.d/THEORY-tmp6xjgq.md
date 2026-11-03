@@ -66,10 +66,22 @@ models produce the neural signatures.
 
 ## What this does not say
 
-- **That the subject has new causal powers in Bishop and Atmanspacher's
-  sense.** Their contextual emergence concerns stability conditions for a
-  well-defined higher-level description; the causal reading is the paper's.
+- **That the subject has causal powers in Bishop's sense.** Bishop's 2024 SEP
+  entry (THEORY-tmpnkdiy) presents contextual emergence as real constraint by
+  larger-scale stability conditions, with convection as the case, and
+  contrasts it with causal powers. The constraint is Bishop's; the boundary
+  condition and the causal-power reading are Jennings's. (Revised on
+  2026-11-03, from a gloss of Bishop and Atmanspacher as stability conditions
+  for a description only.)
 - **That [CLAIM-334](../claims.d/CLAIM-334.md) is wrong.** It denies its premise; it offers no
   intervention on the macro level that holds the base fixed.
 - **That the subject is free.** That further step is the paper's and is not
   part of this reading.
+
+## Note of 2026-11-03: the neural evidence, read
+
+Weaker than the paper states. Szczepanski et al. are correlational
+(THEORY-tmp9pem2); phase-amplitude coupling can be a waveform artefact
+(Donoghue et al., THEORY-tmp66yzx); 1/f structure is present in every
+recording (THEORY-tmpqlync); and ephaptic coupling is circuit physics with
+fields applied from outside (THEORY-tmpvy87o).

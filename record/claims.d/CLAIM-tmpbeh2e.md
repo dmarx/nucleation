@@ -27,6 +27,8 @@ rests_on:
 - CLAIM-tmplz9zf
 - CLAIM-tmpg1n2c
 uses:
+- TERM-tmp8spbn
+- TERM-tmp8cp5q
 - TERM-023
 - TERM-064
 grounds:
@@ -55,6 +57,7 @@ summary: >-
   chains, discrepancy to discrimination to response to maintained
   capacity to revised governance, are not a sequence ([CLAIM-474](CLAIM-474.md)).
 ---
+<!-- inactive-ok-file: TERM-tmp8spbn TERM-tmp8cp5q — Proposed; terms added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-1118 THEORY-047 CLAIM-404 — Proposed; the entries on which provenance matters -->
 <!-- inactive-ok-file: CLAIM-474 THEORY-tmptunid — Proposed, Open, Deferred or new; cited as open -->
 <!-- inactive-ok-file: CASE-tmph9iwi QUESTION-071 — new or Open; the construction that tests this claim -->

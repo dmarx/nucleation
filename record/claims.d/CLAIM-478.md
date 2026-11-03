@@ -52,6 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
+<!-- inactive-ok-file: NOTE-tmpyug9h THEORY-tmp7q08l NOTE-tmpi46fq — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpex9rg — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-480 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1073 THEORY-1052 — Proposed; readings cited as open -->
@@ -282,5 +283,17 @@ effect that lasts must reach the slow modes. For a slow mode ṡ = −εs + bu
 the long-horizon gain is b/ε and holding a value costs u = εs*/b. But for
 εT ≪ 1, s(T) ≈ buT whatever ε is, so slowness makes a change last and
 cheap to hold, not faster to make. The owner's thesis is [CLAIM-tmpex9rg](CLAIM-tmpex9rg.md).
+
+The claim is unchanged.
+
+## Note of 2026-11-03: slowing is not a sign of new organization
+
+Scheffer et al. 2009 (NOTE-tmpyug9h, THEORY-tmp7q08l) give the generic slowing
+down the second half uses near an instability. They also warn that the same
+signals, weaker, come before thresholds that are not bifurcations, so slowness
+alone does not show new organization forming. And Anastassiou et al.
+(NOTE-tmpi46fq) are a neural case of the first half: a slow field constrains
+fast spike timing without setting spike counts, most effectively when slow,
+though there the slowness is imposed.
 
 The claim is unchanged.

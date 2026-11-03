@@ -28,6 +28,7 @@ summary: >-
   not say the subject is contextually emergent ([THEORY-tmp6xjgq](THEORY-tmp6xjgq.md)) or that
   attention is the source of a free will.
 ---
+<!-- inactive-ok-file: THEORY-tmpicoxo — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: LIT-tmphwtm4 — Deferred; sources registered unread on 2026-11-03 -->
 <!-- inactive-ok-file: QUESTION-071 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: THEORY-tmp6xjgq — Proposed; the paper's metaphysical half -->
@@ -71,3 +72,11 @@ accompany formed-interest selection as well.
 - **That the stalemate mechanism is established.** It is one model, cited.
 - **That the subject is the agent's own.** A collection whose interests were
   installed meets the definition ([QUESTION-071](../questions.d/QUESTION-071.md)).
+
+## Note of 2026-11-03: Voigt, read
+
+Voigt 2022 (NOTE-tmpic1x7, THEORY-tmpicoxo) is an Opinion article, and in its
+model the attention that breaks a stalemate is allocated bottom-up, to the
+salient item by the precuneus, and only held by dlPFC. The value update is
+correlational. That undercuts dlPFC feedback as the mark of fluid interests in
+exactly the stalemate case the account rests on.

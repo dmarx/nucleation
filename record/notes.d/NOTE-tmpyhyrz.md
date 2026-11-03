@@ -1,0 +1,195 @@
+---
+status: Skimmed
+paper: LIT-tmp9hfqf
+title: 'Bishop — Chaos (SEP)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-03'
+  note: >-
+    Read from the live SEP page (plato.stanford.edu/entries/chaos/,
+    "First published Wed Jul 16, 2008; substantive revision Fri Oct 11,
+    2024"), converted from HTML to text. Read closely: the preamble, §1.4
+    (Taking Stock), §4 (Chaos, Determinism and Quantum Mechanics), §5.3,
+    and all of §6 (6.1 Determinism, 6.2 Emergence, 6.3 Laws and Causation,
+    6.4 Consciousness and Free Will). §§1.1–1.3, 2, 3, 5.1–5.2, the
+    supplements (Quantum Chaos, Global Lyapunov Exponents), the notes and
+    the bibliography were skimmed by heading or not read. Skimmed for
+    that reason. SEP has no page numbers; sections are cited.
+date: '2026-11-03'
+summary: >-
+  The 2024 revision of Bishop's SEP entry. Chaos is a property of
+  deterministic models; unpredictability is not indeterminism. The
+  sensitive-dependence argument that chaos amplifies quantum events is
+  qualified: damping, negative local Lyapunov exponents and, in the
+  brain, "parallel redundancy" may stop amplification. For Kane, sensitivity
+  alone does not give incompatibilist freedom, and the incompatibilist must
+  still show agents can "harness" indeterminism. §6.2–6.3 state Bishop's
+  contextual emergence as an ontological account: larger-scale stability
+  conditions that constrain and enable smaller-scale behaviour.
+---
+<!-- inactive-ok-file: CLAIM-tmpex9rg THEORY-tmp6xjgq — Proposed; the entries this reading bears on, cited as open -->
+<!-- inactive-ok-file: LIT-tmpnqv86 LIT-tmpo8e51 LIT-tmpszapu — Deferred, Unfetched or Unavailable; Kane and the contextual-emergence sources, cited as unread -->
+
+# NOTE-tmpyhyrz: Bishop — Chaos (SEP)
+
+## Contribution
+
+A survey of the philosophy of chaos: its definitions, the faithful-model
+assumption, confirmation, quantum chaos, realism and explanation, and its
+bearing on determinism, emergence, laws, causation, consciousness and free
+will. The 2024 revision adds Bishop's own contextual-emergence framing of
+chaos (§§6.2–6.3), citing Bishop, Silberstein and Pexton 2022.
+
+## Key insight
+
+Sensitivity is not openness. "Chaos is a property of dynamical systems which
+are deterministic" (§6.1), and identifying unpredictability with
+indeterminism confuses an epistemic property with an ontological one. Where
+indeterminism is real, chaos may amplify it, but whether it does depends on
+the physics of the case: damping and the sign of the local Lyapunov
+exponents at the moment of the perturbation (§4).
+
+## Assumptions
+
+- **The faithful model assumption** (§1.1.3, cited throughout): inferences
+  from a chaotic model to a target system need the model to be faithful,
+  which for nonlinear systems is hard to secure (§6.1).
+- **Chaos needs nonlinearity** (non-separable Hamiltonians) and, on the
+  best candidate definitions, stretching and folding or exponential
+  divergence on average (§1.4).
+
+## Key results
+
+- **Unpredictability is "a myth"** in its strong form: local Lyapunov
+  exponents vary, uncertainties shrink in some regions, and ensemble
+  forecasting works (§1.4).
+- **The SD argument** (§4): chaos plus quantum limits on precision
+  supposedly lets quantum effects violate unique evolution. It "doesn't go
+  through as smoothly as its advocates claim": it depends on the
+  interpretation of QM; "damping due to friction can place constraints on
+  how quickly amplification of quantum effects takes place before being
+  completely washed out"; and a perturbation arriving "when the local
+  Lyapunov exponents are negative" will "dissipate rather than amplify".
+- **Determinism may be context dependent** (§6.1): macroscopic contexts
+  well described deterministically, microscopic ones not, and unique
+  evolution can fail even in Newtonian gravity (Xia 1992).
+- **Free will** (§6.4): "applying SD arguments to concrete physical systems
+  indicates amplification processes may be severely constrained. In the
+  case of the brain, we currently don't know all the constraints on
+  amplification, but large amounts of parallel redundancy in brain regions
+  and neural networks make changes in one neuron's firing unlikely to be
+  amplified to any appreciable degree affecting neural dynamics." And: "if
+  the world is deterministic, then the invocation of SDIC in cognitive
+  dynamics (e.g., Kane 1996) may provide a sophisticated framework for
+  exploring deliberative processes, but wouldn't be sufficient for
+  incompatibilist notions of freedom. If indeterminism (quantum mechanical
+  or otherwise) is operative in the brain, the challenge remains for
+  incompatibilists, such Robert Kane (1996), to demonstrate agents can
+  effectively harness such indeterminism by utilizing the exquisite
+  sensitivity provided by nonlinear dynamics to explain free will."
+- **Contextual emergence** (§6.2): "Contextual emergence emphasizes
+  multi-scale relations and the roles of stability conditions not given at
+  smaller length and shorter time scales that nevertheless constrain or
+  enable properties, entities, and processes at these smaller/shorter
+  scales, making modal changes to possibility and actualization at these
+  latter scales (Bishop, Silberstein, and Pexton 2022)". It is offered as
+  an *ontological* account, set against strong emergence, "where brute
+  inexplicable bridge laws or causal powers come into existence with no
+  connection to any other properties".
+- **Constraint instead of governance** (§6.3): forces and laws are modelled
+  "in terms of energy, constraints and affordances"; "In fluid convection,
+  for instance, emergent large-scale fluid rotation constrains possible
+  motions of smaller-scale fluid molecules under the action of gravity
+  (Bishop 2024)". Laws "delineate bounds of possibility; they don't
+  determine concrete actualization". Classical chaos modifies quantum
+  tunnelling rates, a determination that "runs in the opposite direction of
+  the supervenience intuition" (§6.3).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Chaotic unpredictability does not imply indeterminism | strong | conceptual: chaos is defined on deterministic models (§6.1) |
+| C2 | Whether chaos amplifies a small (quantum) perturbation depends on damping and on the local Lyapunov exponents when it arrives | strong | §4, elementary dynamics |
+| C3 | In the brain, parallel redundancy makes amplification of one neuron's change unlikely | weak | asserted without citation (§6.4) |
+| C4 | Under determinism SDIC is insufficient for incompatibilist freedom; under indeterminism the incompatibilist must show agents can harness it | moderate | conceptual (§6.4) |
+| C5 | Larger-scale stability conditions constrain and enable smaller-scale behaviour, ontologically, without brute causal powers | moderate as a statement of the view | stated, with convection and quantum chaos as examples (§§6.2–6.3); argued at length in the book, not here |
+
+## Concepts
+
+- **SDIC** — sensitive dependence on initial conditions.
+- **Faithful model assumption** — that the model's state space and dynamics
+  correspond to the target's (§1.1.3).
+- **SD argument** — the argument that SDIC lets quantum indeterminacy reach
+  macroscopic behaviour (§4).
+- **Stability conditions** — features such as parameter values,
+  dimensionality and mass ratios that set "when SDIC, aperiodicity, and
+  other signatures of chaos emerge" (§6.2).
+
+## Connections
+
+- Kane 1996 (LIT-tmpnqv86, Deferred) is the incompatibilist named in §6.4.
+- Bishop, Silberstein and Pexton 2022 (LIT-tmpszapu) is cited for
+  contextual emergence (§§6.2–6.3); Bishop and Atmanspacher 2006
+  (LIT-tmpo8e51) is the earlier statement.
+- Juarrero 1999 and 2023, Kelso 1995, van Gelder 1995: the dynamical-systems
+  approach to cognition and action (§6.4).
+
+## Bearing on the record
+
+- **CLAIM-tmpex9rg: the registration's quotation checks, and the entry
+  says more.** "The challenge remains for incompatibilists, such Robert
+  Kane (1996), to demonstrate agents can effectively harness such
+  indeterminism" is verbatim in §6.4 (the SEP's "such Robert Kane" lacks
+  "as"). The entry adds two things the claim can use. First, the
+  conditional structure: under determinism SDIC is a framework for
+  deliberation but "wouldn't be sufficient"; under indeterminism the
+  harnessing question remains. Second, a physical doubt the claim does not
+  state: amplification "may be severely constrained", by damping, by
+  arrival when local Lyapunov exponents are negative (§4), and by neural
+  redundancy (§6.4). That fits the claim's last clause, that what
+  amplification touches lasts only where it reaches the slow modes, and
+  adds that it may not be amplified at all. The redundancy point is
+  asserted without evidence.
+- **THEORY-tmp6xjgq and NOTE-tmpby7i2: the record's gloss on Bishop is too
+  thin.** Both say that Bishop and Atmanspacher's contextual emergence is
+  about "stability conditions that make a higher-level description well
+  defined", and that the causal reading is Jennings's. That may hold of
+  the 2006 paper (unread, LIT-tmpo8e51), whose title is about the
+  description of properties. But by 2024 Bishop states contextual
+  emergence as ontological: stability conditions at larger scales
+  "constrain or enable" smaller-scale processes, "making modal changes to
+  possibility and actualization" (§6.2), with convection rolls
+  constraining fluid molecules (§6.3), which is Jennings's Bénard example
+  and close to the sentence she quotes from the book. Jennings's idea that
+  the whole constrains its parts without downward causation is therefore
+  Bishop's own, not an addition. What remains hers is the boundary
+  condition and the step from constraint to a "non-reductive causal
+  power" grounding free will. Bishop sets contextual emergence against
+  strong emergence's brute "causal powers" (§6.2) and treats causation
+  pluralistically (§6.3), so "causal power" is a word Jennings adds, not
+  one the source supplies.
+- **CLAIM-334.** §6.3 says the classical-to-quantum determination "runs in
+  the opposite direction of the supervenience intuition". That is a
+  statement about modelling relations between classical and quantum
+  descriptions, not an intervention on a macro variable with its base held
+  fixed, so it does not touch the claim.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- Skimmed: §§1–3 and 5 and the supplements were not read closely.
+- An encyclopedia entry: its positions on emergence and laws are argued in
+  Bishop's other work, which it cites; here they are stated.
+- The brain-redundancy claim has no citation.
+
+## Open questions
+
+- Does any model of neural dynamics show amplification of a single-neuron
+  perturbation to choice-level behaviour, given the redundancy Bishop
+  cites? (The record holds none.)
+- Does Bishop's contextual emergence, as ontological constraint, give the
+  macro level anything an intervention could find that the micro
+  description, with the same stability conditions written as constraints,
+  lacks? That is THEORY-tmp6xjgq's question, put to Bishop.

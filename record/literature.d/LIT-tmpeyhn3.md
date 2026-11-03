@@ -1,10 +1,15 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A18). No reading was attempted.
+  searched 2026-11-03 for a lawful full text and none was reached, so it
+  is not read and no NOTE is filed. OpenAlex and Unpaywall (noreply
+  address) report it closed; PubMed has the abstract only;
+  journals.aps.org returns a bot check to this client. Web searches
+  found the 1992 experimental follow-up's portal record at Aberdeen and
+  a São Paulo thesis on targeting, but no copy of this letter. It stays
+  Unavailable until a copy is supplied.
 title: 'Using chaos to direct trajectories to targets'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -12,6 +17,13 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-11-02 (no
     email address sent, ADR-008): dated 1990-12-24. The summary says why it
     is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a search for a lawful
+    full text on 2026-11-03 (OpenAlex, Unpaywall with the noreply address,
+    PubMed, web searches for author or course copies) reached none; the
+    APS site returns a bot check. No NOTE is filed.
 tags:
 - control-theory
 - complex-systems

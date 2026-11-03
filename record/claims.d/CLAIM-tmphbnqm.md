@@ -36,6 +36,7 @@ summary: >-
   categories that mixture weights. The agreement formula, derived here and
   checked by simulation, shows that both readings of H1 are limits of H2.
 ---
+<!-- inactive-ok-file: NOTE-tmpagiju — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CASE-165 CLAIM-tmpwh2jo LIT-tmp0o6ud QUESTION-276 QUESTION-tmpildq9 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-tmphbnqm: A categorical model of perspectives and an LDA-style model differ in where the mixture lives: the first draws every act's perspective from one fixed categorical distribution, the second gives each episode its own mixture, drawn from a Dirichlet, and draws each act from it; the Dirichlet is a distribution over mixtures, not the perspectives themselves, and with symmetric concentration a over K perspectives two acts in one episode share a perspective with probability (a + 1)/(Ka + 1) against 1/K across episodes, so the concentration runs from one perspective per episode, as in persona selection (a → 0), to a fresh independent draw for every act (a → ∞)
@@ -49,8 +50,9 @@ episode d:
   episode.
 - **H2, LDA-style admixture** (Blei, Ng and Jordan, [LIT-tmp0o6ud](../literature.d/LIT-tmp0o6ud.md)). Each episode
   draws its own mixture θ_d ~ Dir(α), then z_{d,n} ~ Cat(θ_d). In smoothed
-  LDA each topic's distribution over outputs has its own Dirichlet prior,
-  which is not the one at issue here.
+  LDA each topic's distribution over outputs is an independent draw from one
+  shared exchangeable Dirichlet, Dir(η) (§5.4), which is not the one at issue
+  here.
 
 What separates them is the per-episode mixture, as the owner said. The
 owner's "the topics … are the dirichlet" names the wrong thing. The
@@ -99,3 +101,18 @@ gives 0.499 within against 0.5 predicted, and 0.3335 across against 1/3; K =
 - **That an H2 fit is organization.** An LDA's components are exchangeable
   given θ_d ([CLAIM-tmpwh2jo](CLAIM-tmpwh2jo.md)), and its reinforcement of a run of choices is
   the observer's learning ([CLAIM-tmplz9zf](CLAIM-tmplz9zf.md)).
+
+## Note of 2026-11-03: LDA and the Assistant Axis, read
+
+The account of LDA matches the paper (NOTE-tmplt5sh), which itself names the
+one-topic-per-document comparison (a "Dirichlet-multinomial clustering model",
+p. 997; the mixture of unigrams, §4.2). The agreement formula was
+re-simulated. Two refinements: the symmetric a → 0 limit is the mixture of
+unigrams with uniform p(z), where the paper's has a free p(z), the limit of
+Dir(sπ); and the a → ∞ limit is the paper's unigram model once z is
+marginalized, so per-act independent personas are unidentifiable from one
+output distribution. And the Assistant Axis (NOTE-tmpagiju) finds the persona
+following the latest user message within a conversation (R² 0.53–0.77 against
+0.10), neither limit: the switching model this claim's defeater names. So
+persona selection read as one persona per conversation does not fit what
+either source describes. The derivation stands.

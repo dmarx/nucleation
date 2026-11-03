@@ -1,0 +1,164 @@
+---
+status: Read
+paper: LIT-tmphox4k
+title: 'Ben-Tal, Goryashko, Guslitzer & Nemirovski — Adjustable robust solutions'
+version: 1
+history:
+- version: 1
+  date: '2026-11-03'
+  note: >-
+    Read from the published text as posted on A. Nemirovski's faculty page
+    (www2.isye.gatech.edu/~nemirovs/MP_Elana_2004.pdf), Math. Program. Ser.
+    A 99: 351–376, 26 pp.: the abstract, §§1–5 and the appendix's proof of
+    Theorem 2.1. §§3.1–4 (Theorems 3.2–4.3, the semidefinite approximations
+    and their S-lemma proofs, pp. 357–366) were read for their statements and
+    the structure of the arguments, not checked line by line. Text extracted
+    with pypdf. The page header gives "Received: September 18, 2002 /
+    Accepted: April 21, 2003 / Published online: August 8, 2003". Pages are
+    the journal's.
+date: '2026-11-03'
+summary: >-
+  For an uncertain LP whose variables split into here-and-now ones and
+  adjustable ones chosen after the data are revealed, the Adjustable
+  Robust Counterpart (∀ data ∃ adjustment) can be much less conservative
+  than the usual Robust Counterpart (∃ one solution ∀ data); they coincide
+  under constraint-wise uncertainty. The ARC is usually NP-hard;
+  restricting adjustments to affine functions of the data (AARC) is
+  tractable with fixed recourse. Each variable may have an information
+  basis, a prescribed portion of the data it can depend on; in an
+  inventory example, poorer information bases raise cost and the
+  non-adjustable RC is infeasible.
+---
+<!-- inactive-ok-file: CLAIM-354 QUESTION-282 — Proposed or Open; entries the reading bears on, cited as open -->
+
+# NOTE-tmp5ejhp: Ben-Tal, Goryashko, Guslitzer & Nemirovski — Adjustable robust solutions
+
+## Contribution
+
+It extends robust optimization from decisions all made before the uncertainty
+is revealed to decisions some of which wait, defines the Adjustable Robust
+Counterpart (ARC), shows when it equals the usual RC, shows it is usually
+intractable, and introduces the tractable Affinely Adjustable Robust
+Counterpart (AARC).
+
+## Key insight
+
+The difference between robust and adjustable robust is the order of two
+quantifiers: RC is min_u {cᵀu : ∃v ∀ζ ∈ Z : Uu + Vv ≤ b}; ARC is
+min_u {cᵀu : ∀ζ ∈ Z ∃v : Uu + Vv ≤ b} (eqs. 5–6, pp. 353–354). Between them
+sit restrictions on how v may depend on ζ: on *which part* of ζ (the
+information basis) and on *what form* (affine).
+
+## Assumptions
+
+- An uncertain LP {min cᵀx : Ax ≤ b}, data ζ in a nonempty compact convex
+  set Z (eq. 1); normalized so the objective is certain (eq. 3).
+- x = (u, v), u non-adjustable, v adjustable; V the recourse matrix; fixed
+  recourse when V is certain (eq. 4).
+- "In general, every variable xᵢ may have its own information basis, i.e.,
+  can depend on a prescribed portion ζᵢ of the true data" (p. 353). The paper
+  treats only the "black and white" case (v depends on all of ζ) and says the
+  results extend "straightforwardly"; Remark 4.1 extends the AARC results to
+  vᵢ affine in Pᵢξ for given matrices Pᵢ.
+
+## Key results
+
+- **ARC ⊇ RC**, possibly strictly. Example 1.2 (p. 354): αu + βv = 1 with
+  α, β ∈ [½, 1]; RC feasible set ∅, ARC feasible set ℝ (v = (1 − αū)/β).
+  Example after Theorem 2.1 (p. 355): min −u s.t. (1 − 2ξ)u + v ≥ 0,
+  ξu − v ≥ 0, u ≤ 1, ξ ∈ [0, 1]: RC value 0, ARC value −1 (v = ξū). Both
+  checked by hand for this note.
+- **Theorem 2.1 (pp. 354–355).** If the uncertainty is constraint-wise (each
+  row depends only on its own block ζⁱ, Z = Z₁ × … × Z_m) and the
+  ARC-feasible u bound v to a compact set, RC = ARC. Proof (appendix) by
+  minimax over the compact set. "The conditions … are quite stringent."
+- **Tractability (Theorem 2.2, p. 355).** With Z the convex hull of N points
+  and fixed recourse, the ARC is an LP with one v per vertex; with a general
+  polytope, or uncertain recourse, it can be NP-hard (citing [12]).
+- **AARC (eq. 8, p. 356).** v = w + Wζ; "in-between" RC (W = 0) and ARC.
+  Theorem 3.1: tractable for fixed recourse whenever Z is; Theorems 3.2–3.3:
+  explicit LP, SOCP or SDP for structured Z; Theorems 4.1–4.3: tight SDP
+  approximations with uncertain recourse, exact for one ellipsoid. Motivated
+  by linear feedback in control (Example 2.1): with linear output feedback and
+  uncertain exogenous input, controls are affine in past disturbances.
+- **Inventory (§5, Tables 1–2).** 24 periods, three factories, demand
+  uniform in [(1 − θ)d*, (1 + θ)d*], 100 simulations. AARC with the
+  standard basis (past demands) costs 3.4% above the clairvoyant optimum at
+  θ = 20%, 0.3% at 2.5%. By information basis at θ = 20%: on-line {1, …, t}
+  34,583; standard {1, …, t − 1} 35,121; four-period delay infeasible; empty
+  (the RC) infeasible. The RC becomes feasible only at θ = 2.5%, at 4.3%
+  above ideal.
+- **Against dynamic programming (p. 373):** minimax DP solves the ARC
+  exactly when it can be run, which a 4-dimensional state already defeats.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The ARC is never more conservative than the RC and can be far less | strong | definition; two worked examples, checked |
+| C2 | RC = ARC under constraint-wise uncertainty and bounded recourse | strong | Theorem 2.1, proved |
+| C3 | The ARC is generally NP-hard | strong | cited proofs [12] |
+| C4 | The AARC is tractable with fixed recourse | strong | Theorem 3.1, reduction to an RC |
+| C5 | Richer information bases lower cost, and the RC can be infeasible where adjustable policies are not | moderate | one inventory model, 100 simulations |
+
+## Concepts
+
+- **Non-adjustable ("here and now") / adjustable ("wait and see")
+  variables.**
+- **Information basis** — the portion of the data a decision may depend on.
+- **ARC, RC, AARC** — as above.
+- **Fixed recourse** — the coefficient matrix of v is certain.
+
+## Connections
+
+Robust optimization (Ben-Tal and Nemirovski; El Ghaoui; Bertsimas); two-stage
+stochastic programming (recourse); linear feedback control (Example 2.1).
+
+## Bearing on the record
+
+- **CLAIM-tmpkogzd's three-way framing.** Conditions I and II are exactly the
+  paper's ARC and RC for a pure feasibility problem with every variable
+  adjustable or none: I is ∀w ∃x, II is ∃x ∀w. Condition III, x chosen from
+  o = h(w), is the paper's information basis, which it names (p. 353) and
+  uses (§5), but only for a "prescribed portion" of the data (and, for the
+  AARC, a linear map Pᵢξ, Remark 4.1). Three corrections to how the record
+  uses it:
+  - The paper's own "in-between" is the AARC, a restriction on the *form* of
+    the adjustment (affine), not on what it reads. The registration's
+    summary ("decisions that may depend on part of the uncertainty, between
+    the static robust counterpart … and the fully adjustable one") runs the
+    two together. Both are intermediate, along different axes.
+  - The paper proves nothing about the information-basis case in general; it
+    asserts the black-and-white results extend. CLAIM-tmpkogzd's statement
+    that III holds exactly when II holds within each class h⁻¹(o) is the
+    claim's own, and is immediate (choose x(o) to be a static solution for
+    the class), not a citation.
+  - Theorem 2.1 explains the claim's gap. In |Dx − a₀ − w| ≤ δ the two
+    inequalities of one edge share w_e, so the uncertainty is not
+    constraint-wise in the theorem's sense, and the theorem's conclusion,
+    I = II, need not hold, as A30's triangle shows. If each inequality had
+    its own disturbance, the theorem (with x bounded) would make I and II
+    coincide.
+- **CLAIM-354's note of 2026-11-02 and of 2026-11-03.** Table 2 is a
+  quantitative instance of "a reachable set should range over the policies an
+  organization can carry out on what it can read": with the same model and
+  data, the feasible policies shrink as the information basis shrinks, to
+  infeasibility at a four-period delay. Here legibility is lag in observing
+  demand.
+- **QUESTION-282.** The affine restriction is a model of a bounded
+  controller: even with full information, an AARC policy may fail where an
+  ARC one succeeds. That separates "what the agent can read" from "what rule
+  it can compute", two limits CLAIM-tmpkogzd folds into one.
+- **No instruction for ML practice.**
+
+## Limitations
+
+- LPs only; the inventory example is one model; the semidefinite
+  approximations' tightness constants were not checked in this reading.
+- The general information-basis case is asserted to follow, not proved.
+
+## Open questions
+
+When does the AARC equal the ARC? (Not answered here; later literature takes
+it up.) For the record: how much of A30's gap between I and II survives an
+affine-in-observation policy?

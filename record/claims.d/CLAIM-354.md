@@ -61,6 +61,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: NOTE-tmpeeo19 NOTE-tmpgoetm NOTE-tmp5ejhp — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpexvc6 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-tmpxpdqi LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency, and the claim that separates its quantity -->
@@ -243,5 +244,18 @@ general (a policy acceptable everywhere exists exactly when the
 circumstances an observation cannot separate share an acceptable action),
 and [CLAIM-tmpkogzd](CLAIM-tmpkogzd.md) for tolerance-bounded compatibility. The motivational
 integration this claim names is given a positive account in [CLAIM-tmpexvc6](CLAIM-tmpexvc6.md).
+
+The claim is unchanged.
+
+## Note of 2026-11-03 (later): empowerment and information, read
+
+Empowerment (Klyubin et al. 2005, 2008; NOTE-tmpeeo19, NOTE-tmpgoetm) is a
+task-free number for perceivable reach, but it is open-loop, depends on the
+horizon and ignores cost and viability, so it does not collapse this claim's
+profile to a scalar. Its maxima in the cart-pole cannot be reached and held,
+against what the agent can sustain (CLAIM-079). Ben-Tal et al.'s Table 2
+(NOTE-tmp5ejhp) is a quantitative case of legibility-limited policies: cost
+34,583 with on-line information, 35,121 with past demands, infeasible with a
+four-period delay or none.
 
 The claim is unchanged.

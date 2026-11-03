@@ -1,10 +1,15 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A21). No reading was attempted.
+  read in full 2026-11-03 (NOTE-tmpbmoj1), from the publisher's open-access
+  PDF; worth reading as the one place Irruption Theory is tied to a
+  dynamical model and to data: the HKB potential with time-switched
+  parameters, compared qualitatively with trial-to-trial variability in
+  decision tasks, with the mind cast as setting the landscape rather than
+  pushing the state. The fit is by eye; the model's late-time spread is
+  misdescribed for the stated noise.
 title: 'Decision-making through irruption theory: how to use and interpret the Haken-Kelso-Bunz model'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -12,6 +17,21 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-11-02 (no
     email address sent, ADR-008): dated 2026-05-14. The summary says why it
     is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Read in full from the publisher's open-access PDF
+    (link.springer.com/content/pdf/10.1007/s11097-026-10164-0.pdf, CC BY
+    4.0, online-first, 23 pp.); the first NOTE on the work (NOTE-tmpbmoj1).
+    The model of §4 was re-simulated. Status set from the reading:
+    Deferred → Active. The summary is replaced by one from the text. The
+    registration is corrected in one respect: LIT-1132's note expected it
+    "may cover the same ground" as the 2024 paper, but it extends that
+    paper (time-dependent parameters, comparison with experiments) and
+    restates it in one sentence, so LIT-1132 stays unread. What it concedes
+    is listed in the NOTE in its own words, for checking A22's summary.
+    Two THEORYs are filed from it, THEORY-tmp100uk (Active) and
+    THEORY-tmp1jrus (Proposed). It cites neither Kane nor chaos.
 tags:
 - free-will
 - complex-systems
@@ -25,12 +45,20 @@ keywords:
 - 'decision-making'
 implementations: []
 summary: >-
-  Sánchez-Cañizares (2026), doi:10.1007/s11097-026-10164-0. Registered
-  unread from the exchange "Assess SDT Coverage" of 2026-11-02 (A21). The
-  open-access follow-up [LIT-1132](LIT-1132.md)'s status note already names. A22
-  summarizes what it concedes; that summary is unchecked until it is read.
+  Sánchez-Cañizares (2026), Phenomenology and the Cognitive Sciences. The
+  HKB potential V = −a cos φ − b cos 2φ with parameters switched in time,
+  from no landscape to two wells to one, makes the across-trial spread of
+  the relative phase rise and then fall, which is compared by eye with
+  post-stimulus quenching of ERP trial-to-trial variability in Sergent et
+  al. 2021, Wolff et al. 2019 and 2021 and Hua et al. 2025. Irruption
+  Theory is revised as IAT*: irruption is the onset of the bistable
+  landscape and absorption its passage to one attractor, reversing Froese
+  2024's variance hypothesis. The mind sets the control parameters by
+  "selecting the relevant physical coarse-graining". The author calls the
+  agreement "only qualitative" and IAT* untestable without further
+  assumptions.
 ---
-<!-- inactive-ok-file: LIT-1132 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: LIT-1132 THEORY-tmp1jrus — Proposed or Unavailable; cited as open -->
 
 # LIT-tmpqt7ea: Decision-making through irruption theory: how to use and interpret the Haken-Kelso-Bunz model
 
@@ -38,9 +66,15 @@ Sánchez-Cañizares, J. (2026). Decision-making through irruption theory: how to
 
 ## Key takeaways
 
-*Not read.* Nothing here reports the work's findings; what the exchange's
-replies said of it is unverified.
+Read in full on 2026-11-03 (NOTE-tmpbmoj1).
+
+- The time-switched HKB model and its rise-and-fall of variability,
+  checked by re-simulation; under the stated noise q = 1 the spread
+  settles near 0.40, not 0 as the paper says (THEORY-tmp100uk).
+- IAT*: the mind controls which outcomes exist (the landscape's
+  parameters), not which the state reaches (THEORY-tmp1jrus).
+- No chaos and no Kane: the model is a one-dimensional gradient flow.
 
 ## Standing in the record
 
-The open-access follow-up [LIT-1132](LIT-1132.md)'s status note already names. A22 summarizes what it concedes; that summary is unchecked until it is read.
+The open-access follow-up LIT-1132's status note already names. A22 summarizes what it concedes; NOTE-tmpbmoj1 lists the concessions in the paper's words.

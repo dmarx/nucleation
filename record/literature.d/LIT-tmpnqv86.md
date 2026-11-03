@@ -1,10 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-02, not read. Registered from the exchange "Assess SDT
-  Coverage" (A15, A20). No reading was attempted.
+  searched 2026-11-03 for a lawful full text and none was reached, so it
+  is not read and no NOTE is filed. OpenAlex reports it closed; its two
+  other locations are a CiNii catalogue record and a UCLouvain DIAL
+  ebook record (hdl.handle.net/2078/ebook:67558), a licensed library
+  ebook, which timed out; Crossref lists only Oxford Academic, which is
+  subscription access. Web searches found no author copy of the book or
+  of ch. 8. What Kane's text says about chaos, which CLAIM-tmpex9rg
+  leans on as "the standard reading", is therefore still unchecked here.
+  A whole in-copyright book on a file host would not count (ADR-064). It
+  stays Unavailable until a copy is supplied.
 title: 'The Significance of Free Will'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-02'
@@ -13,6 +21,14 @@ history:
     email address sent, ADR-008): dated 1999-03-18; this is the Oxford
     Scholarship Online date, and the print book is 1996. The summary says
     why it is here, not what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a search for a lawful
+    full text on 2026-11-03 (OpenAlex, Unpaywall with the noreply address,
+    Crossref, web searches for author or course copies) reached none. No
+    NOTE is filed. Kane's ch. 8 on chaotic amplification, which
+    CLAIM-tmpex9rg cites second-hand, remains unread.
 tags:
 - free-will
 - agency

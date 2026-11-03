@@ -51,6 +51,7 @@ summary: >-
   H1/H2 contrast is [CLAIM-tmphbnqm](CLAIM-tmphbnqm.md). Proposed: the contrast is argued, and
   no study separates the two kinds of model on a language model.
 ---
+<!-- inactive-ok-file: NOTE-tmpp25f6 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-029 CLAIM-367 LIT-tmp0o6ud LIT-tmp4flye QUESTION-275 QUESTION-276 QUESTION-tmpildq9 THEORY-490 THEORY-614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-tmpwh2jo: What separates a language model's distribution over personas from a distribution over organizational perspectives ([TERM-072](../terms.d/TERM-072.md), sense 1) is not whether the latent model is hierarchical, since a mixture or an LDA-style admixture already is, but whether some latent components condition which others are available or consequential: a model whose components are exchangeable given their weights is organizationally flat however many levels its prior has, and dependencies among components count as organization ([TERM-074](../terms.d/TERM-074.md), sense 1) only where interventions, not fit, support them
@@ -120,3 +121,12 @@ appearance in the record.
   over LDA's proportions, or the Persona Selection Model's reading of
   post-training as Bayesian updating, is the analyst's or the optimizer's
   inference, not a process among the components ([TERM-053](../terms.d/TERM-053.md), [CLAIM-367](CLAIM-367.md)).
+
+## Note of 2026-11-03: the readings
+
+The Persona Selection Model's "router" (its Appendix B, persona swapping) is
+this claim's component that conditions which others are consequential, named by
+the model's authors as a possible agency outside the persona distribution
+(NOTE-tmpftp86). Persona Vectors' cross-trait entanglement is undirected
+statistical dependence, H2a, not organization (NOTE-tmpp25f6). The quotations
+from LDA check (NOTE-tmplt5sh).

@@ -64,6 +64,7 @@ summary: >-
 bears_on:
 - QUESTION-066
 ---
+<!-- inactive-ok-file: LIT-tmpeih61 NOTE-tmpnibvh LIT-tmp7s2t8 NOTE-tmpuvza0 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: LIT-545 — Unavailable; Bandura, named for the rival side's self-efficacy, not leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-154 — Proposed; a neighbour named in Connections, and the rival account -->
 
@@ -142,3 +143,21 @@ autonomy ([LIT-558](../literature.d/LIT-558.md), p. 234).
 - **Bandura ([LIT-545](../literature.d/LIT-545.md), unread).** Self-efficacy is SDT's perceived competence;
   CET holds it necessary but not sufficient ([LIT-558](../literature.d/LIT-558.md), p. 234). The rival
   side explains reward effects through self-efficacy.
+
+## Note of 2026-11-03: Ryan, Mims and Koestner 1983, read
+
+- **A correction.** This entry says, citing LIT-557 p. 653, that Ryan et al. 1983
+  "found the same pattern, not significantly". The primary paper (LIT-tmpeih61,
+  NOTE-tmpnibvh, p. 747) reports the informational and controlling
+  performance-contingent groups as significantly different (229 against 117 s
+  of 360; F(1, 89) = 4.25, p < .05). LIT-557's figure should be checked for which
+  contrast it computed.
+- **The refutation test.** The study has the feedback-matched no-reward control
+  the refutation clause needs. Rewards undermined in both styles (F = 4.34 with
+  the covariate, about p = .07 without), so the refuting outcome did not occur.
+  No mediation test was run, so the promote_when is not met.
+- **The person's side.** The causality orientations scale (LIT-tmp7s2t8,
+  NOTE-tmpuvza0) makes an event's functional significance partly a fact about
+  the person, so a test should measure orientation or randomize it away.
+
+The status is unchanged.
