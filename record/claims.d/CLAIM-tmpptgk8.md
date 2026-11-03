@@ -73,6 +73,15 @@ controller's share of the outcome against disturbances in the same
 direction. Feedback that observes the state changes that, which is what
 Ott, Grebogi and Yorke's control of chaos does ([LIT-tmpxj74l](../literature.d/LIT-tmpxj74l.md)).
 
+**Mode by mode** (A28 §4 of the exchange). For ż = −κLz + B_s u + B_e v with L
+symmetric and eigenvectors w_k, a constant outside input along mode k
+displaces it by (w_kᵀB_e v)/(κλ_k), so the slowest modes are the most
+displaced. If w_kᵀB_s = 0 the agent's own channel cannot reach that mode at
+all, by the PBH eigenvector test. And a channel of rank one cannot control a
+system with a repeated eigenvalue, so a single channel cannot control a sheaf
+with dim H⁰ ≥ 2. Stabilizability and detectability with H⁰ = 0 are NOTE-1222's
+Thms 6.1–6.2.
+
 ## What it does not say
 
 - **Anything beyond the linearization.** Nonlinear basins, separatrices

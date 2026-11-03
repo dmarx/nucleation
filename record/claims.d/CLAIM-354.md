@@ -61,6 +61,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: CLAIM-tmpexvc6 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-tmpxpdqi LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency, and the claim that separates its quantity -->
 <!-- inactive-ok-file: CLAIM-410 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
@@ -232,3 +233,15 @@ levels. Three points add to it.
 A26 identified freedom with the whole profile under reflexive revision.
 That is filed as [CLAIM-tmpxpdqi](CLAIM-tmpxpdqi.md), Proposed, resting on this claim. The claim
 is unchanged.
+
+## Note of 2026-11-03: legibility-limited policies, stated
+
+This claim's note of 2026-11-02 said a reachable set should range over the
+policies an organization can carry out on what it can read. Two
+demonstrated claims from U30 to U33 of the exchange "Assess SDT Coverage" (2026-11-02) state it: CLAIM-tmpg1n2c in
+general (a policy acceptable everywhere exists exactly when the
+circumstances an observation cannot separate share an acceptable action),
+and CLAIM-tmpkogzd for tolerance-bounded compatibility. The motivational
+integration this claim names is given a positive account in CLAIM-tmpexvc6.
+
+The claim is unchanged.

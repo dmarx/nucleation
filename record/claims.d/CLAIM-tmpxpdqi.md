@@ -54,6 +54,7 @@ summary: >-
   restored: the sense is operational, the claim is descriptive, and it is
   open to the manipulation objection.
 ---
+<!-- inactive-ok-file: CLAIM-tmpexvc6 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-523 CLAIM-tmpex9rg LIT-1614 QUESTION-071 QUESTION-364 TERM-086 THEORY-040 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-tmpxpdqi: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
@@ -111,3 +112,18 @@ the owner's term, which A26 did not cite.
 - **That the present profile is enough.** The claim is stated in present
   organization, and [THEORY-040](../theory.d/THEORY-040.md) and [QUESTION-071](../questions.d/QUESTION-071.md) are the objection to any
   such condition. It is the claim's defeater, not something it answers.
+
+## Note of 2026-11-03: tolerance bounds, the owner's next step
+
+The owner's U27 followed this synthesis with "compatibility of tolerance
+bounds", and U28 with "nucleation has some sheaf theory tools that might be
+useful here". That gives the clause "revises the relations that govern those
+three" a formal object. An agent can move the mismatch along the tolerance
+frontier of CLAIM-tmplvc8b, change which overlaps are evaluated, or enlarge
+its repertoire so that the frontier itself moves (CLAIM-347). Only the last is
+relief; the first is a choice of who bears the mismatch, and the second can
+fake compatibility. Motivational integration so understood is
+CLAIM-tmpexvc6. A29's closing "domination occurs when the power to define,
+conceal, or revise compatibility is exercised without effective
+accountability" restates this claim's last clause and is not filed.
+

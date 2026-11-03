@@ -98,3 +98,18 @@ Candidates the record holds or can name, none yet shown to be a case:
 3. Or an argument that none can. On that answer, correspondence structures
    are always background or representational, and [CLAIM-471](../claims.d/CLAIM-471.md)'s first
    mechanism reduces to composition under fixed junction laws.
+
+## Note of 2026-11-03: redescription, one way only
+
+A30 §5 of the exchange "Assess SDT Coverage" (2026-11-02) tested whether a change of correspondence maps is mere
+redescription. An invertible change of local and edge coordinates is a sheaf
+isomorphism and preserves every compatibility verdict, so a change that
+alters a verdict is not a redescription. The converse fails: a change that is
+not an isomorphism can preserve every verdict. So the test separates
+redescription in one direction only. A30's triad (coordinate, organizational,
+evaluative) is TERM-093's formed and adapted, plus redescription, and lacks
+*discovered*. CASE-189's Construction 2 is the record's how-possibly model of
+interaction producing a new correspondence, and CLAIM-516 its necessary
+condition.
+
+The question stays open.
