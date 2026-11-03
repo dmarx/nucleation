@@ -194,7 +194,7 @@ A31 of the exchange "Assess SDT Coverage" (2026-11-02) read this case as an orga
 structure it did not previously possess", "a genuinely self-maintaining
 organization". The case says otherwise: "The capacities exist from the start
 in Construction 2; the encounter supplies only the connector". It is the
-starting point for the construction CLAIM-tmpbeh2e calls for, in which the
+starting point for the construction [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md) calls for, in which the
 encounter would produce a new distinction and channel. That construction is
-CASE-tmph9iwi, a variant of this case with the encounter replaced by the agent's
+[CASE-tmph9iwi](CASE-tmph9iwi.md), a variant of this case with the encounter replaced by the agent's
 own frustration.

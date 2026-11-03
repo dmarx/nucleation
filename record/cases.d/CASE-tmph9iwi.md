@@ -18,11 +18,11 @@ illustrates:
 - CLAIM-516
 - CLAIM-522
 summary: >-
-  Built at the owner's request ("build the CASE-189 extension") to test
-  CLAIM-tmpbeh2e, the positive account of self-formation filed from U33 of
+  Built at the owner's request ("build the [CASE-189](CASE-189.md) extension") to test
+  [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md), the positive account of self-formation filed from U33 of
   the exchange "Assess SDT Coverage". scratch/formal/self_formation.py.
   Fictional and stipulated: the sensor and channel are capacity variables
-  present from the start, raised from zero, as CASE-189's are. It bears out
+  present from the start, raised from zero, as [CASE-189](CASE-189.md)'s are. It bears out
   the claim's first test (transfer within a class) and qualifies its
   second: a knockout of the producing process separates own formation from
   outside installation only if it is made during formation. After the
@@ -35,7 +35,7 @@ summary: >-
 ## The construction
 
 An agent acts in two contexts, A and B, with targets a and b, D = |a − b|. As
-in CASE-115, one shared output cannot meet both. Its output is
+in [CASE-115](CASE-115.md), one shared output cannot meet both. Its output is
 y_k = x + s_k·u·z with s_A = +1, s_B = −1, a shared level x and a
 differentiating command z ∈ [−1, 1]. How far it can differentiate is
 u = σ(S)σ(G), σ(c) = c/(1 + c), where S is its capacity to tell A from B, a
@@ -49,8 +49,8 @@ The capacities are slow:
 - P(c) = 3c²/(1 + c²)
 
 αF is production driven by the agent's own frustration, the "own activity on a
-discrepancy" of CLAIM-tmpbeh2e. βP is the mutual production by which sensor
-and channel maintain each other, CASE-189's Construction 1. e(t) is any outside
+discrepancy" of [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md). βP is the mutual production by which sensor
+and channel maintain each other, [CASE-189](CASE-189.md)'s Construction 1. e(t) is any outside
 supply, and d damage on turnover.
 
 ## Results
@@ -91,7 +91,7 @@ t = 29:
   of 3 on t < 2, then its own maintenance;
 - *upheld*, with no internal maintenance (β = 0) and an outside controller
   supplying P(G) and P(S) as feedback; its trajectory equals own's to
-  machine precision (CLAIM-522).
+  machine precision ([CLAIM-522](../claims.d/CLAIM-522.md)).
 
 | knockout | own | pulse | upheld |
 |---|---|---|---|
@@ -106,25 +106,25 @@ separates them.
 **Damage.** With constant damage on turnover after formation, the capacity
 settles at 1.730 for d = 0.3 and 1.299 for d = 0.45. At d = 0.5 it approaches
 the fold at 1 (critical slowing, 1.003 at t + 400), and at d = 0.55 it is lost,
-as in CASE-189's Construction 1.
+as in [CASE-189](CASE-189.md)'s Construction 1.
 
 ## What it shows and does not
 
-It shows CLAIM-tmpbeh2e's account working in a model. A discrepancy the agent
+It shows [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md)'s account working in a model. A discrepancy the agent
 cannot meet drives production of a distinction and a channel. The capacity
 outlasts the discrepancy because sensor and channel maintain each other
-(CLAIM-516's productive cycle), and it serves later discrepancies of the same
+([CLAIM-516](../claims.d/CLAIM-516.md)'s productive cycle), and it serves later discrepancies of the same
 class, which the claim's first test detects.
 
 It qualifies the claim's second test. Interventions on the processes that
 produce and maintain a capacity tell an agent that formed it from one in which
 it is upheld from outside. But they tell it from one in which it was installed
 from outside and then self-maintained only if made during formation. After the
-fact the history leaves no trace, which is QUESTION-071's point for
+fact the history leaves no trace, which is [QUESTION-071](../questions.d/QUESTION-071.md)'s point for
 self-formation.
 
 It does not show a new variable coming to be. S and G are in the model from the
 start, and formation raises them from zero, so this is a bistable system pushed
-across a separatrix, as CASE-189 says of itself. The "class" is fixed by the
+across a separatrix, as [CASE-189](CASE-189.md) says of itself. The "class" is fixed by the
 stipulated cue: the sensor tells A from B and nothing else. The production terms
-are not paid for thermodynamically (CASE-189's notes of 2026-10-31).
+are not paid for thermodynamically ([CASE-189](CASE-189.md)'s notes of 2026-10-31).
