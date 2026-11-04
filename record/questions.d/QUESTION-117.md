@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpamn8i
 title: 'Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -42,6 +42,12 @@ history:
     like-and-like predecessor that gives persistent influence
     classes from identical units; DeMarzo, Vayanos and Zwiebel 2001
     registered, Unavailable. The question is unchanged.
+- version: 7
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - complex-systems
 - network-science
@@ -59,6 +65,7 @@ summary: >-
   or a reduction of it, inside one of these models, or names the outcome
   they forbid and it allows.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1318 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
 <!-- inactive-ok-file: THEORY-143 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -82,7 +89,7 @@ The candidate predecessors, as A15 described them (registered, unread):
 - **Reflected appraisal** (Jia, MirTabatabaei, Friedkin and Bullo, [LIT-1146](../literature.d/LIT-1146.md)): opinions
   converge on each issue, and each member's social power on the next
   issue is set by its influence on the last. A15's mapping: the record's
-  momentary endorsement, trust and authority ([CLAIM-277](../claims.d/CLAIM-277.md)). The difference
+  momentary conferral, trust and authority ([CLAIM-277](../claims.d/CLAIM-277.md)). The difference
   A15 claims: the record's operators decide what is retrieved, what counts
   as evidence and how the next query is framed, and their authority is
   indexed by role ([CLAIM-281](../claims.d/CLAIM-281.md)).
@@ -120,7 +127,7 @@ A32 of the exchange of 2026-10-17 proposed a design for this question while
 applying the coupled model to learning: crossed ablations in a learner with
 specialized operators, an influence-allocation mechanism and an internal
 estimate of strain, in four conditions (strain represented or not, able to
-change endorsement or not). Its prediction is not lower loss in the fully
+change conferral or not). Its prediction is not lower loss in the fully
 coupled condition but "distinctive **persistent regulatory modes**:
 coordinated shifts in which operators are recruited, which evidence is
 inspected, and which adaptation strategies are maintained". And it named this
@@ -165,7 +172,7 @@ From A36, A38 and A43 of the exchange of 2026-10-24, continued.
 
 - **Endogenous influence.** A36 proposed an influence matrix that evolves,
   under which dL = ℓᵀdx + (dℓ)ᵀx, and a loop from access through influence,
-  observed performance and endorsement back to access, as "a microscopic
+  observed performance and conferral back to access, as "a microscopic
   realization of the meaning–authority–legibility loop". The nearest exact model is
   reflected appraisal ([THEORY-916](../theory.d/THEORY-916.md)), in which ℓ is fed back as
   self-weight. Not cited.
@@ -229,7 +236,7 @@ them. Each sets a different floor.
   and a list of mechanisms, not tools: no model in it has authority or
   role, and its only weighted, directed cases are coupled oscillators.
   Two items bear. Like-and-like reinforcement producing persistent leader
-  and follower classes is a predecessor to beat if endorsement
+  and follower classes is a predecessor to beat if conferral
   concentration is offered as new. Moment closure, a few variables for
   state plus topology, is the kind of economical reduction "as
   economically" invites. Its summary of Holme and Newman is wrong, so it
@@ -253,7 +260,7 @@ The question is unchanged and stays Open.
 
 - **Ito and Kaneko**, [LIT-1842](../literature.d/LIT-1842.md) ([NOTE-1414](../notes.d/NOTE-1414.md)), the like-and-like
   reinforcement the earlier note of this date takes from Gross and
-  Blasius, is now read. It is closer to this question's endorsement
+  Blasius, is now read. It is closer to this question's conferral
   circuit than the review suggests. Each unit allocates a fixed budget of
   attention (its incoming weights sum to 1), moves attention toward those
   whose state resembles its own, and is driven by those it attends to.

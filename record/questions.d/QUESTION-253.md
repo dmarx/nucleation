@@ -4,7 +4,7 @@ status: Answered
 formerly:
 - QUESTION-tmp4147z
 title: 'In the coupled meaning–authority model, is authority''s effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime''s κ′, how far the prevailing interpretation bends the reading of the evidence?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -35,6 +35,12 @@ history:
     review's ruling (the owner delegated these rulings); ADR-065; the
     parenthetical that called it Proposed is corrected. Nothing else
     changes.
+- version: 6
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - complex-systems
 - epistemology
@@ -55,6 +61,7 @@ summary: >-
 answered_by:
 - CLAIM-400
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-838 — Proposed; readings of 2026-10-21 named as static candidates, not answers -->
 <!-- inactive-ok-file: CLAIM-338 — Proposed; the claims and the candidate term the question works from, cited as open -->
 
@@ -76,7 +83,7 @@ organized activity."
 What the record holds:
 
 - **[CLAIM-330](../claims.d/CLAIM-330.md)** (Active, demonstrated): two arrows, β (authority shaping
-  interpretation) and γ (interpretation shaping endorsement). The
+  interpretation) and γ (interpretation shaping conferral). The
   symmetric state is unstable when βγ > (1 − α)(1 − δ).
 - **[CLAIM-340](../claims.d/CLAIM-340.md)** (Active, demonstrated): with committed predictions,
   γ = 4ηs(κ′ − κ̄), where κ′ is how far the shared meaning bends the reading

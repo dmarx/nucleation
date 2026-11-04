@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpzi3da
 title: 'Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another''s influence, with trust, specialization and higher-level agency arising from its history and not imposed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -17,6 +17,12 @@ history:
     settle the question. "It is under CLAIM-278's objection, which A7
     granted." now names ARG-036, to which the Superseded CLAIM-278
     moved. A blocker note is added. The claim is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,6 +56,7 @@ bears_on:
 - QUESTION-088
 - QUESTION-090
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-446 CLAIM-447 CLAIM-465 THEORY-050 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-024 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -138,7 +145,7 @@ detecting and resolving problems", and that attention and control are
   ([THEORY-050](../theory.d/THEORY-050.md)) the protective perspective avoids anticipated private
   events. (c) None.
 - **Endorsement.** (a) §6's "reflective endorsement" is Frankfurt's. (b) In
-  [TERM-053](../terms.d/TERM-053.md)'s sense: why is the reflective process's effect on the pursuit
+  [TERM-053](../terms.d/TERM-053.md)'s sense, now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)): why is the reflective process's effect on the pursuit
   process's future influence near zero, though its evaluation is negative
   ([CLAIM-447](CLAIM-447.md), [CASE-181](../cases.d/CASE-181.md))? (c) None.
 

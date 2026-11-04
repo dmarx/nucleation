@@ -3,8 +3,8 @@ number: 282
 status: Active
 formerly:
 - CLAIM-tmppy0ey
-title: 'Forbidding self-endorsement does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic endorsements recycle authority, so an operator''s authority depends on its own endorsements, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing endorsements, makes it exactly independent of them'
-version: 2
+title: 'Forbidding self-granting does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic grants recycle authority, so an operator''s authority depends on its own grants, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing grants, makes it exactly independent of them'
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -22,6 +22,12 @@ history:
     note only (ADR-047, kind 3), and the objection is written in here
     (ADR-059). The 2026-10-29 note's last sentence is corrected to match.
     The status stays Active.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -36,13 +42,13 @@ line:
 summary: >-
   A2's own analysis of the owner's U2 design, conceded in the exchange
   and checked here. With damped recursive delegation (a PageRank-like
-  fixed point), two operators that endorse each other pass authority back
-  and forth, so each one's authority depends on its own outgoing
-  endorsements even though neither endorses itself. With one-hop
-  allocation from budgets fixed independently of outgoing endorsements,
-  that dependence is exactly zero. No accounting rule removes the slower
+  fixed point), two operators that grant each other influence pass
+  authority back and forth, so each one's authority depends on its own
+  outgoing grants even though neither grants to itself. With one-hop
+  allocation from budgets fixed independently of outgoing grants, that
+  dependence is exactly zero. No accounting rule removes the slower
   route: an operator can change its authority by changing what others
-  endorse.
+  grant.
 complements:
 - CLAIM-277
 supports:
@@ -56,14 +62,15 @@ illustrated_by:
 objected_by:
 - CLAIM-502
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-282: Forbidding self-endorsement does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic endorsements recycle authority, so an operator's authority depends on its own endorsements, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing endorsements, makes it exactly independent of them
+# CLAIM-282: Forbidding self-granting does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic grants recycle authority, so an operator's authority depends on its own grants, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing grants, makes it exactly independent of them
 
 ## The claim
 
 A2 §5 set up the recursive rule g = (1 − η)b + ηEᵀg, with 0 ≤ η < 1, base
-budgets b, a row-stochastic endorsement matrix E and E_ii = 0. Its solution
+budgets b, a row-stochastic grant matrix E and E_ii = 0. Its solution
 is g = (1 − η)(I − ηEᵀ)⁻¹b. A2: "Suppose D₁ endorses D₂, and D₂ endorses D₁.
 Even though neither endorses itself directly, their reciprocal relationship
 can recycle delegated authority between them." And: "The constraint
@@ -71,17 +78,17 @@ E_ii = 0 therefore prevents **direct self-endorsement**, but not indirect
 amplification."
 
 This is right, and it is a fact about the fixed point, not about any
-psychology. In the two-operator case each endorses only the other, so
+psychology. In the two-operator case each grants only to the other, so
 g₁ = (1 − η)b₁ + ηg₂ and g₂ = (1 − η)b₂ + ηg₁. Then
 g₁ = (b₁ + ηb₂)/(1 + η). Operator 1's authority depends on its partner's
-endorsement, which returns operator 1's own contribution after two hops.
+grant, which returns operator 1's own contribution after two hops.
 With more operators, any cycle through i makes g_i depend on E_ij. So the
 condition [CLAIM-285](CLAIM-285.md) needs, |∂g_i/∂E_ij| ≈ 0, fails.
 
 A3 §4 gave the case where it holds. Under one-hop allocation,
 I_j = I_j⁰ + Σ_{i≠j} b_i E_ij, where the budgets b and baseline I⁰ are fixed
-independently of outgoing endorsements. Then I_i depends on what others
-endorse and not on E_i·. A3: "For the one-hop aggregation above, this
+independently of outgoing grants. Then I_i depends on what others
+grant and not on E_i·. A3: "For the one-hop aggregation above, this
 condition holds exactly if budgets and baseline authority are fixed
 independently of outgoing endorsements. Other agents' responses can still
 change I_i later." Its proposal: "one-hop authority allocation within a
@@ -93,7 +100,7 @@ their endorsements. That is a genuine social feedback effect, not an
 accounting loop. It cannot be eliminated by cycle prevention alone."
 
 A6 §4 restated the principle for nested organizations, where the
-constituents of a higher-level operator legitimately endorse it: "Authority
+constituents of a higher-level operator legitimately grant it influence: "Authority
 may circulate, but its accounting cannot multiply through circulation
 alone." That calls for tracking where delegated authority came from, not for
 banning every return to its source. It is held here as A6's slogan, not as a
@@ -111,13 +118,13 @@ concludes, so it carries `formal-apparatus` as a second line ([ADR-040](../decis
 ## What it does not say
 
 - It does not say multi-hop delegation is useless. It says multi-hop
-  delegation and insensitivity to one's own endorsements cannot both be had
+  delegation and insensitivity to one's own grants cannot both be had
   from cycle bans alone.
 - It does not say the slower social route is a defect. A5 and the owner
   hold that durable trust is how authority should arise ([CLAIM-277](CLAIM-277.md)).
   The same route is also how authority is captured.
 - It does not say one-hop allocation is the only rule that makes an
-  operator's authority independent of its own endorsements. Leave-one-out
+  operator's authority independent of its own grants. Leave-one-out
   delegation, which counts the authority reaching an operator only along
   paths that have not passed through it, does so while carrying authority
   beyond one hop ([CLAIM-502](CLAIM-502.md)). That rule is not a cycle ban: cycles

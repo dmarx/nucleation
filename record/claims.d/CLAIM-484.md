@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpxb1wf
 title: 'Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,13 +43,14 @@ summary: >-
   authority, and their notes say they do not show that a motive claimed
   precedence.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CLAIM-484: Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it
 
 ## The claim
 
 A4 §2 of the exchange of 2026-10-13 proposed the distinction between
-*claimed precedence* and *endorsed authority* because it "may be essential
+*claimed precedence* and *endorsed authority* (here, granted authority) because it "may be essential
 to modeling internal conflict". [CLAIM-283](CLAIM-283.md) version 1 joined two things: the
 distinction itself, and the identification of internal conflict with the
 gap. The audit of 2026-10-23 (workbench entry of 2026-10-24) suggested

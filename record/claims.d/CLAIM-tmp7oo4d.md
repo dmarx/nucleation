@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -46,6 +53,7 @@ summary: >-
   reader's. The wording is A's, sharpened by the reader; adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-361 CLAIM-534 TERM-tmpszrpp — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-tmp7oo4d: The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration
@@ -128,7 +136,7 @@ fixed.
   first is the open question.
 - (c) The owner made no correction.
 
-**Endorsement ([TERM-053](../terms.d/TERM-053.md)).** A28 §5: "Previously, we treated tolerance as
+**Endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)).** A28 §5: "Previously, we treated tolerance as
 the amount of discrepancy from an endorsed will".
 
 - (a) This is Frankfurt's sense, the will a perspective would approve. The
@@ -136,7 +144,7 @@ the amount of discrepancy from an endorsed will".
 - (b) In [TERM-053](../terms.d/TERM-053.md)'s sense, a perspective's region of tolerance would be the
   set of effective wills on which its activity leaves other processes'
   future shares of influence unchanged. Where it intervenes, its
-  endorsement of the governing processes turns negative. Tolerance is then
+  conferral on the governing processes turns negative. Tolerance is then
   the zero set of i's row of E_ij, which can be measured.
 - (c) The owner made no correction at A28.
 

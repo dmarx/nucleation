@@ -4,14 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmp4u6xx
 title: 'The governance-induced kind of frustration is not idle: some failures of an organization''s actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A showing that every failure of actual updates to meet satisfiable
   demands is explained by known optimization mechanisms (step size,
   curvature, noise, conditioning, a fixed weighting rule) without
-  modelling endorsement or the allocation of authority, so that the
+  modelling conferral or the allocation of authority, so that the
   governance-induced category adds nothing an optimizer analysis does not
   already give. Not defeated by cases where the two kinds occur together.
 tags:
@@ -40,6 +47,7 @@ summary: >-
   through the allocation of influence. Untested; A39's case study 2 on
   [CASE-099](../cases.d/CASE-099.md) would test it.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CLAIM-500: The governance-induced kind of frustration is not idle: some failures of an organization's actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule
 

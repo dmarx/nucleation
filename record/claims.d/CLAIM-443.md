@@ -3,8 +3,8 @@ number: 443
 status: Active
 formerly:
 - CLAIM-tmp0qupq
-title: 'A learned prior over which processes govern, P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)), its bias b_H trained by reward-modulated Hebbian updates to the relations by which one process recruits or endorses another, is a candidate mechanism for durable authority and for amortized governance; but persistence is not amortization, which is shown only when earlier work replaces later computation, communication or recruitment, and a prior over authority differs from a prior over actions only when what is appropriate changes'
-version: 3
+title: 'A learned prior over which processes govern, P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)), its bias b_H trained by reward-modulated Hebbian updates to the relations by which one process recruits another or grants it influence, is a candidate mechanism for durable authority and for amortized governance; but persistence is not amortization, which is shown only when earlier work replaces later computation, communication or recruitment, and a prior over authority differs from a prior over actions only when what is appropriate changes'
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -37,6 +37,12 @@ history:
     "CLAIM-358's cost argument says when it pays." The inequality now
     says its maintenance and error terms are totals over the N
     encounters. The claim is unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -85,8 +91,9 @@ illustrated_by:
 supports:
 - CLAIM-446
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
-# CLAIM-443: A learned prior over which processes govern, P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)), its bias b_H trained by reward-modulated Hebbian updates to the relations by which one process recruits or endorses another, is a candidate mechanism for durable authority and for amortized governance; but persistence is not amortization, which is shown only when earlier work replaces later computation, communication or recruitment, and a prior over authority differs from a prior over actions only when what is appropriate changes
+# CLAIM-443: A learned prior over which processes govern, P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)), its bias b_H trained by reward-modulated Hebbian updates to the relations by which one process recruits another or grants it influence, is a candidate mechanism for durable authority and for amortized governance; but persistence is not amortization, which is shown only when earlier work replaces later computation, communication or recruitment, and a prior over authority differs from a prior over actions only when what is appropriate changes
 
 ## The claim
 
@@ -107,8 +114,8 @@ processes and z the context. Governance is selected as
 
 with Q the current evaluation of the allocation and b_H a learned,
 history-dependent bias toward allocations used before. The bias is
-trained on the relations by which a process j recruits or endorses a
-process i:
+trained on the relations by which a process j recruits a process i or
+grants it influence:
 
     ΔE_ji = η x_j y_i (R_t − R̂_t) − λ E_ji,
 
@@ -116,7 +123,7 @@ co-activation gated by an outcome signal, with forgetting. This is a
 schematic three-factor rule, not a claim about any neural implementation.
 In a familiar context the prior already puts a process in a position to
 govern, so the case for it need not be rebuilt. [CLAIM-277](CLAIM-277.md)'s durable
-authority from repeated endorsement becomes this prior; [CLAIM-358](CLAIM-358.md)'s note
+authority from repeated conferral becomes this prior; [CLAIM-358](CLAIM-358.md)'s note
 of 2026-10-23 gives the accounting for when it pays.
 
 **Worked example (DBT).** An avoidance process A, a relationship process

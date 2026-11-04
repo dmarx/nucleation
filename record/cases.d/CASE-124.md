@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpc0mv0
 title: 'A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-21'
@@ -21,6 +21,12 @@ history:
     only varied κ′ (κ′ = κ′₀ + c r), its effect on authority would be
     4ηs c r m, second order at symmetry, and would move no linear threshold.
     The result is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -48,6 +54,7 @@ supports:
 variants:
 - CASE-156
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CASE-124: A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ
 
@@ -61,14 +68,14 @@ variants:
 
 - m is the meaning bias and a the authority bias, as in [CASE-099](CASE-099.md), with
   β authority shaping interpretation and γ interpretation shaping
-  endorsement ([CLAIM-330](../claims.d/CLAIM-330.md)).
+  conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md); [CLAIM-330](../claims.d/CLAIM-330.md)).
 - r is the lean of the legibility regime toward one interpretation: which
   categories exist, what is recorded, which sources are channels. It is
   [QUESTION-253](../questions.d/QUESTION-253.md)'s "third, slower variable".
 - ε ≥ 0: authority moves the regime.
 - ν ≥ 0: the regime moves what is interpreted (the route r → m, proposed
   in the owner's review of 2026-10-21).
-- μ ≥ 0: the regime moves endorsement directly: what it records or scores
+- μ ≥ 0: the regime moves conferral directly: what it records or scores
   counts toward authority whatever the reading. This is not the question's
   reading of r as setting [CLAIM-340](../claims.d/CLAIM-340.md)'s κ′. There γ = 4ηs(κ′ − κ̄), so a
   regime that only varies κ′ (κ′ = κ′₀ + c r) adds 4ηs c r m to the

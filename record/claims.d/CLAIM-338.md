@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpj10k0
 title: 'The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston''s self-confirming sampling the model''s authority-to-interpretation arrow and his agent a coupled loop run without independent scoring'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,12 @@ history:
     enough to count as evidence" is this claim's authority arrow stated for
     institutions; whether it is a new channel is QUESTION-253. The
     claim is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,6 +61,7 @@ summary: >-
   is [CLAIM-337](CLAIM-337.md)'s move reversed, and it holds only if the agent's own
   store can surprise it as the world can.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CLAIM-338: The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston's self-confirming sampling the model's authority-to-interpretation arrow and his agent a coupled loop run without independent scoring
 
@@ -64,7 +71,7 @@ The owner, at U10, on Friston et al.'s description of action as "sampling
 selectively what one expects to experience" ([LIT-1181](../literature.d/LIT-1181.md), [NOTE-960](../notes.d/NOTE-960.md)):
 "I think this selectivity maps to the authority space in my coupled model."
 
-In [CLAIM-297](CLAIM-297.md)'s circuit, frame → retrieval → interpretation → endorsement →
+In [CLAIM-297](CLAIM-297.md)'s circuit, frame → retrieval → interpretation → grant →
 future retrieval policy, influence w decides which operators act, the
 operators that act decide what is retrieved, and what is retrieved is what
 the next judgement observes. The current allocation of influence selects
@@ -80,7 +87,7 @@ the evidence. In [CASE-099](../cases.d/CASE-099.md)'s two-hypothesis linearizati
   current beliefs, so the prevailing interpretation decides which policy,
   and so which sampling, gets authority.
 
-The model's γ is the coupling from interpretation to endorsement. It is
+The model's γ is the coupling from interpretation to grants. It is
 not active inference's γ, the precision over policies, which in this
 mapping sits on the authority side.
 

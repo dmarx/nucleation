@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpebtmy
 title: 'Is there a governing level among an agent''s regimes, a system that specifies control apart from the systems that carry it out, or is governance the interaction of the regimes themselves?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - behavioral-integration
 - self-governance
@@ -25,6 +32,7 @@ bearing:
 - THEORY-062
 - THEORY-056
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-054: Is there a governing level among an agent's regimes, a system that specifies control apart from the systems that carry it out, or is governance the interaction of the regimes themselves?
@@ -64,8 +72,8 @@ The THEORYs this question cites now carry `answered_by` edges. [THEORY-056](../t
 ## Note of 2026-10-13: a candidate answer, with a residue
 
 The exchange of 2026-10-13 built a model in which governance is the
-interaction of the processes themselves. Each process endorses others,
-and authority is computed from the endorsements ([CLAIM-285](../claims.d/CLAIM-285.md)). A4 took
+interaction of the processes themselves. Each process grants others
+influence, and authority is computed from the grants ([CLAIM-285](../claims.d/CLAIM-285.md)). A4 took
 it as Daw, Niv and Dayan's arbitration ([THEORY-062](../theory.d/THEORY-062.md)) generalized "from two
 controllers to a population", and as Frijda's one motive checking another
 ([THEORY-056](../theory.d/THEORY-056.md)). The residue is the aggregation rule. Keeping processes from

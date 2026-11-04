@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -41,6 +41,12 @@ history:
     frame by supervised search; in v2.9 the engine predicts exactly as a
     one-feature selector. Neither derives a joint prediction of the two
     lines. The claim stays untested and is unchanged.
+- version: 7
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -86,6 +92,7 @@ complements:
 supports:
 - CLAIM-338
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
@@ -117,7 +124,7 @@ The mapping, A6's:
 | interpretive state ([TERM-026](../terms.d/TERM-026.md)) | meaning state x | — |
 | judgement, response J | the state P(q)ᵀx the operators yield, read out | — |
 | — | operator, or coalition of operators | action-generating regime ([TERM-019](../terms.d/TERM-019.md)) |
-| — | influence w, and its update G with endorsement E ([TERM-053](../terms.d/TERM-053.md)) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
+| — | influence w, and its update G with conferral E ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
 | transport between two interpreters | a map between two such organizations | — |
 
 Read this way, the pragmatic-transport line studies the model from the
@@ -127,7 +134,7 @@ keep. The will-organization line studies it from the inside. It asks which
 operators get to act, and what keeps that allocation the agent's own. The
 loop [CLAIM-341](CLAIM-341.md) puts at the centre, judgement reshaping the observer,
 is where the two meet. A judgement under a context changes x, and through
-endorsement changes w and so which operators act under the next context.
+conferral changes w and so which operators act under the next context.
 
 ## What it does not say
 

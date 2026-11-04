@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmr1t8
 title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -23,6 +23,12 @@ history:
     is Active since the ninth review, so the claim is held by THEORY-070
     alone. CLAIM-443 leaves supports, since it no longer rests on this
     claim. The claim is unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -79,6 +85,7 @@ summary: >-
 bears_on:
 - QUESTION-054
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-361 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-1283 — Open or Proposed; the outward route filed as a question, and Massumi's micropolitics set beside this claim -->
 <!-- inactive-ok-file: CLAIM-162 ARG-016 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
@@ -204,8 +211,8 @@ same course first.
 From the exchange's elaboration of this claim (workbench entry of
 2026-10-24, U9–U12). Four learned changes save different things: a cached
 prediction saves repeated prospective computation; a compiled skill saves
-response selection; a learned endorsement saves negotiation over
-authority; a local accommodation saves escalation to a mediator. A
+response selection; a learned grant ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)) saves negotiation
+over authority; a local accommodation saves escalation to a mediator. A
 practised controller can still intervene every time, only more cheaply,
 while an accommodation lets familiar conflicts settle without it, and the
 two fail differently under selective disruption. Reuse pays, under a

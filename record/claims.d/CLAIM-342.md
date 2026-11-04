@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt568z
 title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -25,6 +25,12 @@ history:
     through the tested interpretation, which the claim covers);
     nothing meets either defeater. One bullet added to "What it does
     not say", from THEORY-845. The claim is unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,6 +80,7 @@ supports:
 - CLAIM-404
 - CLAIM-413
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-404 TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
@@ -104,7 +111,7 @@ that bear on that minimum.
 - **Independent scoring prevents it.** [CLAIM-330](CLAIM-330.md) (Active, demonstrated): in
   the linearized operator model, capture starting at symmetry needs both
   arrows of [CLAIM-297](CLAIM-297.md)'s circuit, authority shaping interpretation and
-  interpretation shaping endorsement. "Scoring operators independently of
+  interpretation shaping grants. "Scoring operators independently of
   the dominant interpretation (Regime B, γ ≈ 0) removes the
   coupling-driven instability."
 

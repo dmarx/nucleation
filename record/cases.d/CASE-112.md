@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpiyvbk
 title: 'Bistable authority with a tilt: in ẇ = μw − w³ + h, with w the balance of authority between two regimes and h a higher-order volition favouring one, for μ > 0 the operative regime changes only when |h| passes 2μ^{3/2}/(3√3), so a sincere and efficacious higher-order volition can move the balance without moving the regime, and which regime operates depends on the path of h'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,12 @@ history:
     (CLAIM-408); there the pitchfork is supercritical and restoring the
     constraint restores equality, and this case's hysteresis is in the tilt
     h at fixed μ > 0. Extended the same day: Arthur's planner who tilts at the outset matches the tilt before symmetry breaks. The case is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -37,6 +43,7 @@ supports:
 - CLAIM-025
 - CLAIM-408
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-465 CLAIM-539 CLAIM-545 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-112: Bistable authority with a tilt: in ẇ = μw − w³ + h, with w the balance of authority between two regimes and h a higher-order volition favouring one, for μ > 0 the operative regime changes only when |h| passes 2μ^{3/2}/(3√3), so a sincere and efficacious higher-order volition can move the balance without moving the regime, and which regime operates depends on the path of h
@@ -52,8 +59,8 @@ them. A minimal nonlinear model is
 Here μ controls the stability structure, and h tilts the competition
 toward the endorsed regime." A12's Proposition 3 is the same equation in z.
 Here h is a higher-order volition in Frankfurt's sense, an attitude that
-one regime should be effective. The record's endorsement ([TERM-053](../terms.d/TERM-053.md)) is a
-different thing, an effect of one process on another's share of
+one regime should be effective. The record's conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md),
+[TERM-053](../terms.d/TERM-053.md)'s former endorsement) is a different thing, an effect of one process on another's share of
 influence.
 
 Equilibria satisfy h = φ(w) = w³ − μw, and f′(w) = μ − 3w².
