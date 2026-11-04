@@ -42,7 +42,7 @@ summary: >-
   motivating. consider someone punching a wall in anger." A18 conceded and
   separated motivational salience, the activation threshold and practical
   efficacy. A26, A27 and A29 reuse the example. The record holds the rival:
-  Moors, Boddez and De Houwer (LIT-1434, NOTE-1117) read costly aggression
+  Moors, Boddez and De Houwer ([LIT-1434](../literature.d/LIT-1434.md), [NOTE-1117](../notes.d/NOTE-1117.md)) read costly aggression
   as serving a hidden outcome of higher value. The point is the owner's.
   The wording is A's, sharpened by the reader; adopting it is the owner's
   call.
@@ -93,14 +93,14 @@ The claim has three parts.
 
 ## Where it sits
 
-- **Frijda's action readiness (TERM-094).** It is "not a representation of
+- **Frijda's action readiness ([TERM-094](../terms.d/TERM-094.md)).** It is "not a representation of
   a desirable state" and claims control precedence. That is the
   individual-scale basis of part 1.
-- **CLAIM-283.** Claimed precedence is not granted authority. That is
+- **[CLAIM-283](CLAIM-283.md).** Claimed precedence is not granted authority. That is
   part 2's middle step, and the claim rests on it.
-- **CLAIM-459** is the converse case. An input to a bistable balance can be
+- **[CLAIM-459](CLAIM-459.md)** is the converse case. An input to a bistable balance can be
   efficacious on the balance without changing which regime acts.
-- **CLAIM-156.** Noticing an impulse as an impulse suspends the step from
+- **[CLAIM-156](CLAIM-156.md).** Noticing an impulse as an impulse suspends the step from
   its dominance to its control of action. That is the inhibited arm of
   part 2.
 - **Wall-punching at four levels**, from A18: the action tendency, its
@@ -109,16 +109,16 @@ The claim has three parts.
 
 ## The rival reading
 
-Moors, Boddez and De Houwer 2017 (LIT-1434, read in NOTE-1117) make
+Moors, Boddez and De Houwer 2017 ([LIT-1434](../literature.d/LIT-1434.md), read in [NOTE-1117](../notes.d/NOTE-1117.md)) make
 goal-directed processes the default cause of emotional action. Those
 processes weigh options by the values and expectancies of their outcomes.
-In NOTE-1117's words, "Costly aggression, for instance, may serve a
+In [NOTE-1117](../notes.d/NOTE-1117.md)'s words, "Costly aggression, for instance, may serve a
 higher-valued outcome such as repaired self-esteem (p. 18)." On that
 reading the wall-punch is instrumental after all, toward an outcome other
 than the problem.
 
-The record already parts from Moors on the common currency (CLAIM-440).
-NOTE-1117 adds that "A lexicographic reading of the same cases is open."
+The record already parts from Moors on the common currency ([CLAIM-440](CLAIM-440.md)).
+[NOTE-1117](../notes.d/NOTE-1117.md) adds that "A lexicographic reading of the same cases is open."
 The wall-punch is a case on which the two readings divide. This claim
 takes the side the owner took. Its defeater is Moors's reading made good
 on such cases.
@@ -131,7 +131,7 @@ on such cases.
 - That the expected-benefit model is useless. It is the special case for
   deliberate choice among interventions.
 - That an activated, effective impulse is disowned. Whether the person
-  endorses it is a further question (THEORY-120).
-- That an organization can be angry. QUESTION-044 asks that, and the claim
+  endorses it is a further question ([THEORY-120](../theory.d/THEORY-120.md)).
+- That an organization can be angry. [QUESTION-044](../questions.d/QUESTION-044.md) asks that, and the claim
   is stated for processes.
 - Anything about how often non-instrumental activation occurs.

@@ -101,9 +101,9 @@ incompatible without changing the person's motivations."
 The reader checked it. The family is downward-closed and monotone in B.
 With Aᵢ = {rᵢ ≥ nᵢ} it is a knapsack test, Σ_{i∈S} nᵢ ≤ B, and pairwise
 compatibility does not give joint compatibility (three perspectives with
-nᵢ = 0.4B), as in CASE-119. What follows is A29's: low performance alone
+nᵢ = 0.4B), as in [CASE-119](../cases.d/CASE-119.md). What follows is A29's: low performance alone
 does not tell "attention dysregulation due to governance" from "attention
-limitations due to capacity". CLAIM-475 and TERM-092 index inquiry by a
+limitations due to capacity". [CLAIM-475](CLAIM-475.md) and [TERM-092](../terms.d/TERM-092.md) index inquiry by a
 budget in the same way. If this index is filed, it is a sibling of this
 claim's index by legibility, not a consequence of it. The wording is A's,
 sharpened by the reader; adopting it is the owner's call. No status

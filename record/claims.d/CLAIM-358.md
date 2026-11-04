@@ -314,9 +314,9 @@ The arbitration cost this claim names is one term of that sum. The claim's cauti
 The reader checked the totals. A9: "The first expands effective capability relative to fixed demands. The second renegotiates what the demands require."
 
 **Held elsewhere.**
-- Only the first route is relief, by CLAIM-347 and CLAIM-361.
-- The same feasibility at a different cost has a demonstrated control-theoretic form in CLAIM-345.
-- CLAIM-475 holds that stabilized specifications make later questions cheaper.
+- Only the first route is relief, by [CLAIM-347](CLAIM-347.md) and [CLAIM-361](CLAIM-361.md).
+- The same feasibility at a different cost has a demonstrated control-theoretic form in [CLAIM-345](CLAIM-345.md).
+- [CLAIM-475](CLAIM-475.md) holds that stabilized specifications make later questions cheaper.
 
 **Unremarked by A9.** A tolerance τ ≥ 1 admits u = 0 with no sensing, so renegotiation can be made free.
 

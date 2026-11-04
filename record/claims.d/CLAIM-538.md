@@ -114,19 +114,19 @@ The owner's U25: "visualization needs more dynamics/flow, maybe instead of a sim
 - **The flow.** Take a 3-cycle with a = (0.5, 0.4, 0.3), so the holonomy is 1.2, and δ = (0.3, 0.3, 0.3).
   - Local re-centring is the gradient flow ẋ = DᵀW(a − Dx).
   - Along the flow the residuals keep their cycle sum at exactly 1.2, the holonomy.
-  - The flow ends at the weighted harmonic residual, r*_e ∝ 1/w_e (THEORY-1141's limit). That is (0.4, 0.4, 0.4) for equal weights and (0.686, 0.343, 0.171) for weights (1, 2, 4).
-  - So the weights decide where the mismatch settles, which is CLAIM-534's allocation part. They never decide whether it exists.
+  - The flow ends at the weighted harmonic residual, r*_e ∝ 1/w_e ([THEORY-1141](../theory.d/THEORY-1141.md)'s limit). That is (0.4, 0.4, 0.4) for equal weights and (0.686, 0.343, 0.171) for weights (1, 2, 4).
+  - So the weights decide where the mismatch settles, which is [CLAIM-534](CLAIM-534.md)'s allocation part. They never decide whether it exists.
   - Feasibility needs ρ ≥ 4/3, this claim's A29 number.
   - Checked by simulation.
 - **What A drew instead.** A25's animated figure covers a line with three patches, U₁ ∩ U₃ = ∅. Its nerve is a path, so the "mismatch" A shows can never be structural ("on a forest it always holds"). A says so itself: "a mismatch among the currently selected local proposals doesn't prove that no global section exists".
-- **A26** says a cyclic obstruction needs "a torsor and specified transition offsets. Ordinary set incompatibility does not supply that automatically." That is right for CLAIM-153. This claim is the real-offset version with tolerances, and A did not cite it.
+- **A26** says a cyclic obstruction needs "a torsor and specified transition offsets. Ordinary set incompatibility does not supply that automatically." That is right for [CLAIM-153](CLAIM-153.md). This claim is the real-offset version with tolerances, and A did not cite it.
 - **Cut against cover** (the reader of U1–U7, from the owner's U3: "I think you need to take a closer look at the sheaf theoretic account in the discussion I linked."). Besides enlarging δ or changing [a] in H¹, a reorganization can remove a witnessing cycle in two ways:
-  - it can *cut* the cycle by decoupling an overlap (CASE-115's differentiation);
-  - it can *cover* it with a context in which the three are coherent (CLAIM-153: the triple overlap makes Φ a coboundary).
+  - it can *cut* the cycle by decoupling an overlap ([CASE-115](../cases.d/CASE-115.md)'s differentiation);
+  - it can *cover* it with a context in which the three are coherent ([CLAIM-153](CLAIM-153.md): the triple overlap makes Φ a coboundary).
 
   Cutting the overlap is different from omitting it from evaluation. Omission fakes compatibility, by this claim's omission clause, while the coupling still acts. That difference is unchecked beyond the definitions.
 - **Terms of art.**
-  - (a) A's "tolerance" τ_i (A22–A24) is the slack on one demand's threshold. That is CLAIM-347's threshold demand, not δ_e on an overlap. It needs no entry of its own.
+  - (a) A's "tolerance" τ_i (A22–A24) is the slack on one demand's threshold. That is [CLAIM-347](CLAIM-347.md)'s threshold demand, not δ_e on an overlap. It needs no entry of its own.
   - (b) Read as this claim means it, A would have drawn a cycle of contexts, each overlap carrying an offset and a tolerance band, with holonomy against summed tolerance. A25's gluing test is exact equality, where this claim's test is |Dx − a| ≤ δ.
   - (c) The owner's U25 is in effect the correction.
 

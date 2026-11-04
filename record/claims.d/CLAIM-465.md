@@ -90,20 +90,20 @@ A19 and A26 cited this claim. A29 §3 applied it to rumination without
 citing it: "It could instead be a failure of **authority release**. The
 perspective activates appropriately but cannot stop governing attention."
 The rival is reactivation by "self-referential or threatening material",
-which is CLAIM-286's recurrent coalition. The proposed test is to
+which is [CLAIM-286](CLAIM-286.md)'s recurrent coalition. The proposed test is to
 "separately measure changes in negative material's motivational salience
 and changes in its control over attention." The analogy, a regime "that
-remains in power after the original emergency has passed", is CASE-036.
+remains in power after the original emergency has passed", is [CASE-036](../cases.d/CASE-036.md).
 
 A20 §5 gave a mechanism, hysteresis with θᵢ^off < θᵢ^on: "Hysteresis can
 be useful. It prevents rapid switching in response to noisy input. But it
-can also produce lock-in." CASE-112, CLAIM-459 and CLAIM-463 already hold it
+can also produce lock-in." [CASE-112](../cases.d/CASE-112.md), [CLAIM-459](CLAIM-459.md) and [CLAIM-463](CLAIM-463.md) already hold it
 in structural form. Neither is the second case this claim waits for, and
-the note of 2026-10-30's question, why release is not TERM-017's
+the note of 2026-10-30's question, why release is not [TERM-017](../terms.d/TERM-017.md)'s
 suspension, stays unanswered.
 
 **Jurisdiction.** (a) A29's §3 heading, "a perspective that cannot
-relinquish jurisdiction", means the persistence of authority, not TERM-017's
-or TERM-047's jurisdiction. (b) Read as intended: the absence of a release
+relinquish jurisdiction", means the persistence of authority, not [TERM-017](../terms.d/TERM-017.md)'s
+or [TERM-047](../terms.d/TERM-047.md)'s jurisdiction. (b) Read as intended: the absence of a release
 condition in this claim's sense. (c) The owner made no correction.
 No status changes.

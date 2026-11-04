@@ -40,8 +40,8 @@ summary: >-
   complex from activation thresholds and called it "a quiescent
   compatibility complex". A19, A20 and A26 kept it apart from the
   requirement complex, and A28 restated the split for motivating
-  perspectives (TERM-tmpszrpp). The requirement complex is the one the
-  record already holds: CLAIM-347's, over TERM-060's acceptance sets. A
+  perspectives ([TERM-tmpszrpp](../terms.d/TERM-tmpszrpp.md)). The requirement complex is the one the
+  record already holds: [CLAIM-347](CLAIM-347.md)'s, over [TERM-060](../terms.d/TERM-060.md)'s acceptance sets. A
   wrote at A28 as if it were new. The two-perspective example is the
   reader's. The wording is A's, sharpened by the reader; adopting it is
   the owner's call.
@@ -56,8 +56,8 @@ Fix an organization, its attainable arrangements ℛ(c) in context c, and a
 set P of perspectives. There are two complexes over P.
 
 - **The requirement complex.** Each perspective i has an acceptance set
-  Aᵢ(c), as in TERM-060. A set S is a face when ℛ(c) ∩ ⋂_{i∈S} Aᵢ(c) ≠ ∅.
-  This is CLAIM-347's complex. A26 wrote it as 𝒦_𝒪(c) and said it
+  Aᵢ(c), as in [TERM-060](../terms.d/TERM-060.md). A set S is a face when ℛ(c) ∩ ⋂_{i∈S} Aᵢ(c) ≠ ∅.
+  This is [CLAIM-347](CLAIM-347.md)'s complex. A26 wrote it as 𝒦_𝒪(c) and said it
   "records which subsets of motivational requirements can be realized
   together."
 - **The quiescent complex.** Each perspective has a region Tᵢ(c) of
@@ -79,7 +79,7 @@ Both are downward-closed. The claim has three parts.
    corresponding quiescent tolerance set cannot shrink, and the quiescent
    compatibility complex cannot shrink either." The requirement complex
    does not depend on thresholds, so it does not move.
-3. **So it is not relief.** CLAIM-361 judges relief against a fixed set of
+3. **So it is not relief.** [CLAIM-361](CLAIM-361.md) judges relief against a fixed set of
    the original demands. A larger quiescent complex with the same
    requirement complex is a quieter organization, not a less frustrated
    one. A26: "Increasing activation thresholds can enlarge the quiescent
@@ -105,35 +105,35 @@ The reader's. Two perspectives, two attainable arrangements x and y.
 A19 said why: "simply raising the activation thresholds until none of the
 processes reacts would also expand the quiet compatibility complex, but it
 would not necessarily improve the agent's capacities." A20 put it as
-"quiescence is not the right ultimate goal". CASE-129 is the record's case
+"quiescence is not the right ultimate goal". [CASE-129](../cases.d/CASE-129.md) is the record's case
 of this: two alarms are both quiet, and only one responds to a new hazard.
-CASE-109 is a case where two people show the same calm with their conflict
+[CASE-109](../cases.d/CASE-109.md) is a case where two people show the same calm with their conflict
 settled in different ways.
 
 A28 asked the question that follows: "could an organization learn to
 expand the latter without reducing the sensitivity of its motivating
-perspectives?" That is relief in CLAIM-361's sense, with thresholds held
+perspectives?" That is relief in [CLAIM-361](CLAIM-361.md)'s sense, with thresholds held
 fixed.
 
 ## A term A read past
 
-**Compatibility complex (CLAIM-347, TERM-060).**
+**Compatibility complex ([CLAIM-347](CLAIM-347.md), [TERM-060](../terms.d/TERM-060.md)).**
 
 - (a) A28 presents the requirement complex as a new move, "rather than
   merely the compatibility of current activation levels". The contrast
   between the two complexes is worth keeping, and this claim keeps it.
-- (b) Read as intended, A would have said: keep TERM-060's complex as the
+- (b) Read as intended, A would have said: keep [TERM-060](../terms.d/TERM-060.md)'s complex as the
   requirement complex the record already has, and add the quiescent
   complex as a second object relative to activation, whose relation to the
   first is the open question.
 - (c) The owner made no correction.
 
-**Endorsement (TERM-053).** A28 §5: "Previously, we treated tolerance as
+**Endorsement ([TERM-053](../terms.d/TERM-053.md)).** A28 §5: "Previously, we treated tolerance as
 the amount of discrepancy from an endorsed will".
 
 - (a) This is Frankfurt's sense, the will a perspective would approve. The
   idea is worth keeping under another word, "the will i would accept".
-- (b) In TERM-053's sense, a perspective's region of tolerance would be the
+- (b) In [TERM-053](../terms.d/TERM-053.md)'s sense, a perspective's region of tolerance would be the
   set of effective wills on which its activity leaves other processes'
   future shares of influence unchanged. Where it intervenes, its
   endorsement of the governing processes turns negative. Tolerance is then
@@ -144,7 +144,7 @@ the amount of discrepancy from an endorsed will".
 
 - **That quiescence is bad.** Hysteresis and high thresholds can be
   useful. A20: "It prevents rapid switching in response to noisy input."
-- **That thresholds are irrelevant to integration.** CLAIM-534's tolerance
+- **That thresholds are irrelevant to integration.** [CLAIM-534](CLAIM-534.md)'s tolerance
   is recognized tolerance. This claim says only that moving a threshold
   does not move the requirement complex.
 - **That Tᵢ^ε is well defined as A wrote it.** zᵢ carries memory, so

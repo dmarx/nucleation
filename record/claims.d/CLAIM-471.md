@@ -376,10 +376,10 @@ changing the organization of contexts and restriction maps".
 
 This is the second appearance of this claim's correspondence adaptation, with
 the sections added as the locus that changes nothing structural. A4 attaches
-the right safeguard, THEORY-1088: adapting the maps "can eliminate
+the right safeguard, [THEORY-1088](../theory.d/THEORY-1088.md): adapting the maps "can eliminate
 disagreement by changing what gets expressed". A3 and A4 did not cite
-CLAIM-538. Read through CLAIM-538, the three loci become three things that
+[CLAIM-538](CLAIM-538.md). Read through [CLAIM-538](CLAIM-538.md), the three loci become three things that
 can change: the allocation (which cannot remove a cycle's obstruction), the
-tolerances and offsets, and the graph (see CLAIM-538's note of this date).
+tolerances and offsets, and the graph (see [CLAIM-538](CLAIM-538.md)'s note of this date).
 
 No status changes.

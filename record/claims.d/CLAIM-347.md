@@ -306,7 +306,7 @@ bound and A's plotted points (0.8894, 0.8033, 0.75, 0.6839, 0.6116,
 The complex therefore holds the pair {1, 2} as a face for H ≤ ln 2 and
 not beyond. A8: "Acquiring a differentiated capacity and acquiring the
 capacity to maintain that differentiation are separate developmental
-achievements." CASE-189, CASE-191 and CLAIM-520 hold the maintenance side.
+achievements." [CASE-189](../cases.d/CASE-189.md), [CASE-191](../cases.d/CASE-191.md) and [CLAIM-520](CLAIM-520.md) hold the maintenance side.
 This example adds only the horizon dependence, so it stays here as a note
 and is not filed as a CASE.
 
@@ -327,7 +327,7 @@ homotopy type as their union."
   is reachable. In it, no demand is met.
 
 The reading holds when the acceptance sets within ℛ are closed and
-convex. It is new to the record. CLAIM-365's Helly bound is the
+convex. It is new to the record. [CLAIM-365](CLAIM-365.md)'s Helly bound is the
 neighbouring convexity fact.
 
 No status changes.

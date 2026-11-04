@@ -199,8 +199,8 @@ promoting it would reject [ARG-030](../arguments.d/ARG-030.md) on the authentici
 - In the other, "a central authority assigns the tolerances and trains the constituents not to escalate objections."
 - The test: "introduce a novel, legitimate requirement from a constituent that was previously quiet."
 
-**What was already held.** That is A45's first test above, "Introduce a novel but legitimate constituent demand". A10 §2C restates the objection: "an organization in which subordinate processes have learned never to object can look equally economical." CASE-129, the alarm that learned against the alarm that was disabled, is the same pattern.
+**What was already held.** That is A45's first test above, "Introduce a novel but legitimate constituent demand". A10 §2C restates the objection: "an organization in which subordinate processes have learned never to object can look equally economical." [CASE-129](../cases.d/CASE-129.md), the alarm that learned against the alarm that was disabled, is the same pattern.
 
-**What A10 adds.** Only the object that differs: *who sets the tolerances* and whether they can be reopened. That ties this objection to CLAIM-534's allocation part and to the note of 2026-11-03 on CLAIM-545. A10's own measures were "whether the requirement becomes legible, whether it can influence decisions, whether a fitting revision is attempted, who bears its cost, and whether the system can restore coordination afterward."
+**What A10 adds.** Only the object that differs: *who sets the tolerances* and whether they can be reopened. That ties this objection to [CLAIM-534](CLAIM-534.md)'s allocation part and to the note of 2026-11-03 on [CLAIM-545](CLAIM-545.md). A10's own measures were "whether the requirement becomes legible, whether it can influence decisions, whether a fitting revision is attempted, who bears its cost, and whether the system can restore coordination afterward."
 
 The case is not filed separately. No status changes.

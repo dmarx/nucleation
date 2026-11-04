@@ -267,11 +267,11 @@ The claim is unchanged.
 - viability, "the arrangement can be maintained over a relevant horizon without violating specified requirements";
 - reconfigurability, "the organization can subsequently move to another appropriate arrangement when circumstances change".
 
-It added that "acquiring authority and relinquishing authority are independently relevant capacities", citing CLAIM-465. This claim already names viable reachability, governance reconfigurability and motivational integration as dimensions. CLAIM-534 holds realizability, realization and maintenance, and CLAIM-079 holds stability against viability. A26 cites none of them. A23 had drawn the same four properties, and CLAIM-099 and CLAIM-025 hold reconfigurability apart from viability. The exchange adds no new dimension.
+It added that "acquiring authority and relinquishing authority are independently relevant capacities", citing [CLAIM-465](CLAIM-465.md). This claim already names viable reachability, governance reconfigurability and motivational integration as dimensions. [CLAIM-534](CLAIM-534.md) holds realizability, realization and maintenance, and [CLAIM-079](CLAIM-079.md) holds stability against viability. A26 cites none of them. A23 had drawn the same four properties, and [CLAIM-099](CLAIM-099.md) and [CLAIM-025](CLAIM-025.md) hold reconfigurability apart from viability. The exchange adds no new dimension.
 
 **Endorsement, misread.**
 - (a) A26 keeps only "Frankfurtian endorsement". It uses the record's sense unnamed, as "practical authority", and as E_t, "the relations through which processes affect one another's future authority".
-- (b) Read as TERM-053, E_t is that term's E_ij, and a perspective's tolerance is its criterion for operative endorsement (CLAIM-tmpgjdby). Frankfurt's sense is TERM-tmp0evbm.
+- (b) Read as [TERM-053](../terms.d/TERM-053.md), E_t is that term's E_ij, and a perspective's tolerance is its criterion for operative endorsement ([CLAIM-tmpgjdby](CLAIM-tmpgjdby.md)). Frankfurt's sense is [TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md).
 - (c) At U14 the owner asked whether the record's endorsement "satisfies the Frankfurtian sense". A14 itself answered that it does not.
 
-A26's gloss of authenticity, "Non-dominating, answerable governance", leans on TERM-006, which is Deferred. Its domination clause is this claim's non-domination profile and CLAIM-545's. The claim is unchanged.
+A26's gloss of authenticity, "Non-dominating, answerable governance", leans on [TERM-006](../terms.d/TERM-006.md), which is Deferred. Its domination clause is this claim's non-domination profile and [CLAIM-545](CLAIM-545.md)'s. The claim is unchanged.

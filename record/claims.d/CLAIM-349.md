@@ -331,9 +331,9 @@ K^C_O(B) = {D ⊆ C : ∃π ∈ Π_O(B) ∀c ∈ D, h^π(c) ∈ N(c)}. It called
 "∀c ∃π_c ⇏ ∃π ∀c" "the key mathematical gap between local motivational
 compatibility and psychological flexibility". That gap is this claim's
 ordinal form: contexts that give the same evidence admit no policy that
-succeeds in both. It is also CLAIM-537's last clause. A20's two-context
+succeeds in both. It is also [CLAIM-537](CLAIM-537.md)'s last clause. A20's two-context
 example, exploration against withdrawal under one observation, is
-CASE-153. A20 drew the same conclusion as this claim: "better legibility
+[CASE-153](../cases.d/CASE-153.md). A20 drew the same conclusion as this claim: "better legibility
 connected to appropriate authority allocation".
 
 **What it adds.** A randomized policy does no better. A20: "If it explores
@@ -342,11 +342,11 @@ and 1−p. It cannot exceed 50% reliability in both simultaneously." The
 reader checked this: max over p of min(p, 1 − p) is 1/2.
 
 **Activation without authority.** A18 split activation, authority and
-efficacy, prompted by the owner's U18 wall-punch (CLAIM-tmp6zm3v). A20 §6
+efficacy, prompted by the owner's U18 wall-punch ([CLAIM-tmp6zm3v](CLAIM-tmp6zm3v.md)). A20 §6
 gave three readings of an inhibited defensive process: "Suppression",
 "Conditional governance" and "Accommodation". The first two are this
 claim's overcontrol and adaptive regulation. The third, which changes
-what can be attained, is new to this claim's list. It is CLAIM-347's
+what can be attained, is new to this claim's list. It is [CLAIM-347](CLAIM-347.md)'s
 relief.
 
 **A rival definition.** A19 §4: "Psychological flexibility is not the
@@ -355,7 +355,7 @@ recover appropriate motivational accommodation as circumstances change."
 A19 also said "CLAIM-349 already supplies" a definition of psychological
 flexibility. That misreads this claim, which defines organizational
 flexibility and cites ACT as an analogy whose clinical evidence does not
-carry over. CLAIM-446's note of the same date has the term's (a), (b) and
+carry over. [CLAIM-446](CLAIM-446.md)'s note of the same date has the term's (a), (b) and
 (c).
 
 No status changes.

@@ -105,9 +105,9 @@ Learning the distinction makes it "more capable of expressing its
 commitment discriminately. The new legibility makes a new endorsement
 relation possible." A13 §5: "It is not simply increasing tolerance. It is
 learning *what should be tolerated and why*." In this claim's terms, a
-finer distinction the organization can recognize (TERM-064) can enlarge
-the frontier at unchanged demands. By CLAIM-347 that is relief, not a
-widened tolerance. It is TERM-099's self-formation, a new distinction made
+finer distinction the organization can recognize ([TERM-064](../terms.d/TERM-064.md)) can enlarge
+the frontier at unchanged demands. By [CLAIM-347](CLAIM-347.md) that is relief, not a
+widened tolerance. It is [TERM-099](../terms.d/TERM-099.md)'s self-formation, a new distinction made
 legible, applied to integration.
 
 **A transition graph on satisfaction signatures (A23 §4).** Each
@@ -119,15 +119,15 @@ complexes." "The complex describes possible accommodation. The transition
 structure describes **reconfigurability of accommodation**." A: "I think
 the real payoff is the transition structure between feasible
 combinations." It is a candidate way to operationalize a part this claim
-does not list. CLAIM-354's "governance reconfigurability", CLAIM-025,
-CLAIM-099 and QUESTION-054 hold the idea. Not filed.
+does not list. [CLAIM-354](CLAIM-354.md)'s "governance reconfigurability", [CLAIM-025](CLAIM-025.md),
+[CLAIM-099](CLAIM-099.md) and [QUESTION-054](../questions.d/QUESTION-054.md) hold the idea. Not filed.
 
 **An uncited restatement (A26).** A26 boxed compatibility ≠ reachability ≠
 viability ≠ reconfigurability, and wrote: "**Third, compatibility is not
 realization.** The existence of a mutually acceptable arrangement does not
 mean the organization can discover it, choose it, reach it from its present
 state, or maintain it." That is this claim's realizability, realization and
-maintenance, with CLAIM-354's reconfigurability added. A cited neither
+maintenance, with [CLAIM-354](CLAIM-354.md)'s reconfigurability added. A cited neither
 claim. A26 leaves out allocation.
 
 No status changes.

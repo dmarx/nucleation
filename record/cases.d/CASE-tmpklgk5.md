@@ -22,9 +22,9 @@ summary: >-
   A8's Proposal E, from the exchange "Organizational Nucleation and SLT"
   (2026-11-04). Three organizations have identical task performance. Their
   limitations are structural, observational and governance limitations,
-  and only intervention separates them. A cited CLAIM-346 for the
-  distinctions, but CLAIM-346's three obstructions are a different set.
-  The observational arm is CLAIM-535 and the governance arm is CLAIM-357.
+  and only intervention separates them. A cited [CLAIM-346](../claims.d/CLAIM-346.md) for the
+  distinctions, but [CLAIM-346](../claims.d/CLAIM-346.md)'s three obstructions are a different set.
+  The observational arm is [CLAIM-535](../claims.d/CLAIM-535.md) and the governance arm is [CLAIM-357](../claims.d/CLAIM-357.md).
   A's meta-learning extension is a proposed study and is not filed here.
   The wording is A's, sharpened by the reader; adopting it is the owner's
   call.
@@ -72,7 +72,7 @@ of capabilities it already possesses."
 **E's feasibility depends on the policy class.** A8: "E is also infeasible
 when feasibility is defined relative to its currently implementable
 observation-limited policies. It is feasible at the plant level but not at
-the policy level." This is CLAIM-535. Every circumstance has an acceptable
+the policy level." This is [CLAIM-535](../claims.d/CLAIM-535.md). Every circumstance has an acceptable
 action, but no policy that acts on E's observation is acceptable in both,
 because the two circumstances cannot be told apart and share no acceptable
 action. So "the experiment must declare the relevant admissible-policy
@@ -83,25 +83,25 @@ class, rather than classify the arms by labels alone."
 **It shows that equal performance does not locate a limitation.** Here
 three of the record's distinctions are set in one task at equal score:
 
-- structural frustration, TERM-060 and CLAIM-347;
-- observation-relative infeasibility, CLAIM-535;
-- governance frustration as against structural frustration, CLAIM-357.
+- structural frustration, [TERM-060](../terms.d/TERM-060.md) and [CLAIM-347](../claims.d/CLAIM-347.md);
+- observation-relative infeasibility, [CLAIM-535](../claims.d/CLAIM-535.md);
+- governance frustration as against structural frustration, [CLAIM-357](../claims.d/CLAIM-357.md).
 
-Each organization calls for a different repair. CLAIM-523's three
+Each organization calls for a different repair. [CLAIM-523](../claims.d/CLAIM-523.md)'s three
 achievements, legibility, volitional efficacy and correctability, sit
 behind them, but they do not map one to one onto S, E and G.
 
-**It is not CLAIM-346's triple.** A8 said "The individual distinctions
-exist in CLAIM-346, CLAIM-357, and several governance CASEs." CLAIM-346's
+**It is not [CLAIM-346](../claims.d/CLAIM-346.md)'s triple.** A8 said "The individual distinctions
+exist in [CLAIM-346](../claims.d/CLAIM-346.md), [CLAIM-357](../claims.d/CLAIM-357.md), and several governance CASEs." [CLAIM-346](../claims.d/CLAIM-346.md)'s
 three obstructions are feasibility, aggregation (no coherent social
 choice) and epistemic *coordination* (the coordinated-attack result). E's
 limitation is observation, not coordination over an unreliable channel.
 G's is an authority rule that selects badly, not a failure of aggregation
-to yield a choice. S matches CLAIM-346's feasibility.
+to yield a choice. S matches [CLAIM-346](../claims.d/CLAIM-346.md)'s feasibility.
 
 **Its method is matched behaviour, then intervention.** This is the pattern
-of CASE-076, CASE-125, CASE-126 and CASE-129. It is also the first two
-evidence grades of CLAIM-427, now superseded by ARG-025.
+of [CASE-076](CASE-076.md), [CASE-125](CASE-125.md), [CASE-126](CASE-126.md) and [CASE-129](CASE-129.md). It is also the first two
+evidence grades of [CLAIM-427](../claims.d/CLAIM-427.md), now superseded by [ARG-025](../arguments.d/ARG-025.md).
 
 **It does not show a developing diagnostic capacity.** A8 proposed an
 extension: a meta-learner that "can experimentally ask whether better
@@ -110,4 +110,4 @@ Its achievement would be "a capacity to distinguish different limitations
 on effective regulation and construct the corresponding corrective
 mechanisms". That is a proposed study with no design yet. It is left for
 a later filing, as "a more focused successor to the broad experimental
-architecture of CASE-179".
+architecture of [CASE-179](CASE-179.md)".

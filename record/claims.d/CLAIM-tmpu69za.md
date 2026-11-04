@@ -48,10 +48,10 @@ summary: >-
   likelihood of communicating a complaint. characterize an individual as
   a structure over available perspectives. examine the compatibility
   structure." A15 was lost in the export; A16 carries the construction.
-  Narrowed here. The complex is CLAIM-347's, and the individual as a
-  structure over perspectives is CLAIM-417's. What is new is the scalar
+  Narrowed here. The complex is [CLAIM-347](CLAIM-347.md)'s, and the individual as a
+  structure over perspectives is [CLAIM-417](CLAIM-417.md)'s. What is new is the scalar
   tolerance read as complaint propensity, factored from the channel, and
-  the reader's reading of it as Frankfurt's satisfaction (THEORY-120). The
+  the reader's reading of it as Frankfurt's satisfaction ([THEORY-120](../theory.d/THEORY-120.md)). The
   wording is A's, sharpened by the reader; adopting it is the owner's
   call.
 ---
@@ -77,7 +77,7 @@ discrepancy and has a channel. τ_i is the discrepancy at which q_i = ½.
 
 **The channel is separate (A16 §2).** The complaint that can be observed
 is p_i(w) = s_i(w) q_i(w), where s_i is the chance that the discrepancy is
-legible (TERM-064) and a channel carries the complaint. A16: "This
+legible ([TERM-064](../terms.d/TERM-064.md)) and a channel carries the complaint. A16: "This
 factorization is an assumption about the communication mechanism; it is
 not a general identity." It "lets us distinguish a tolerant perspective
 from a silenced perspective." A15's opening: "silence cannot automatically
@@ -85,9 +85,9 @@ count as endorsement." A16 §1: "Not complaining is not equivalent to
 endorsing."
 
 **The complex (A16 §5).** 𝒦_τ = {S ⊆ P : some attainable history's will
-lies within τ_i for every i in S}. It is downward closed, as in CLAIM-347.
-Pairwise compatibility does not give joint compatibility, as in CASE-119.
-The budget form, three perspectives sharing two units, is in CASE-119's
+lies within τ_i for every i in S}. It is downward closed, as in [CLAIM-347](CLAIM-347.md).
+Pairwise compatibility does not give joint compatibility, as in [CASE-119](../cases.d/CASE-119.md).
+The budget form, three perspectives sharing two units, is in [CASE-119](../cases.d/CASE-119.md)'s
 note of 2026-11-04.
 
 **Observed against required (A16 §7).** A second complex, of wills at
@@ -96,14 +96,14 @@ which observed complaint rates stay below set bounds, can be larger than
 condition. Tolerance and channel part only under intervention: a changed
 tolerance "should shift the response to discrepancies under a fixed
 channel; suppression should change the channel's efficacy while the
-underlying rejection remains." This is CLAIM-364 and CASE-129, and
-THEORY-152's voice as a feedback channel.
+underlying rejection remains." This is [CLAIM-364](CLAIM-364.md) and [CASE-129](../cases.d/CASE-129.md), and
+[THEORY-152](../theory.d/THEORY-152.md)'s voice as a feedback channel.
 
-**Read as Frankfurt's satisfaction (the reader's).** THEORY-120 reports
+**Read as Frankfurt's satisfaction (the reader's).** [THEORY-120](../theory.d/THEORY-120.md) reports
 Frankfurt's later criterion of identification as "satisfaction", "an
-absence of 'restlessness or resistance'" (LIT-296, n. 1, by report). It
+absence of 'restlessness or resistance'" ([LIT-296](../literature.d/LIT-296.md), n. 1, by report). It
 holds his 2004 condition first-hand: "no conflict in us between this
-motive and any desire at any higher order" (LIT-293, p. 178). A
+motive and any desire at any higher order" ([LIT-293](../literature.d/LIT-293.md), p. 178). A
 perspective that would not complain is not restless or resistant. So:
 
 - an individual is wholehearted at w, in this sense, when every
@@ -112,10 +112,10 @@ perspective that would not complain is not restless or resistant. So:
 - an individual whose complex lacks the full face cannot be wholehearted,
   whatever higher-order volition it forms. Its minimal non-faces are its
   minimal ambivalences;
-- the graded q_i gives a graded form of what THEORY-120 makes all or
-  nothing, which meets THEORY-054's objection inside Frankfurt's own
+- the graded q_i gives a graded form of what [THEORY-120](../theory.d/THEORY-120.md) makes all or
+  nothing, which meets [THEORY-054](../theory.d/THEORY-054.md)'s objection inside Frankfurt's own
   criterion;
-- resigned acceptance, which THEORY-120 records as disputed, is low
+- resigned acceptance, which [THEORY-120](../theory.d/THEORY-120.md) records as disputed, is low
   complaint at high discrepancy, that is, a high τ_i.
 
 ## What it does not say
@@ -123,13 +123,13 @@ perspective that would not complain is not restless or resistant. So:
 - **That the perspectives' acceptance is the person's identification.** A
   perspective's volition is not the person's. A14 §5: "That attribution
   is precisely the ownership problem we haven't settled." That is
-  QUESTION-071 and CLAIM-022.
-- **That the satisfaction reading is Frankfurt's.** LIT-695, where
+  [QUESTION-071](../questions.d/QUESTION-071.md) and [CLAIM-022](CLAIM-022.md).
+- **That the satisfaction reading is Frankfurt's.** [LIT-695](../literature.d/LIT-695.md), where
   satisfaction is introduced, is unread. The reading rests on report.
 - **That a full face makes an individual.** A16 §8: a population can share
   a jointly acceptable will with no maintained organization, and an
   individual can stay unified with an incomplete complex.
-- **That raising a tolerance relieves frustration.** By CLAIM-347 it
+- **That raising a tolerance relieves frustration.** By [CLAIM-347](CLAIM-347.md) it
   changes the demand.
 - **That the logistic is a psychological law.** A16 calls it "a modeling
   convention, not an empirically established psychological law."

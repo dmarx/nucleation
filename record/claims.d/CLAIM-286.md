@@ -122,10 +122,10 @@ behaviors, cognitive dysregulation, etc." A29 ran this claim's programme
 uncited: "A behavior can be locally appropriate to the concerns of one
 motivating perspective while being maladaptive for the individual as a
 dynamically organized whole." Its seven regimes are "not psychiatric
-diagnoses". Most are on file: corrective lock-in is TERM-020, avoidance is
-CASE-013 and CLAIM-446, release is CLAIM-465, and the proposed simulation is
-CASE-153. New: rumination split into reactivation and failed release, and
-capacity kept apart from governance (CLAIM-537's note). Stated as fact
+diagnoses". Most are on file: corrective lock-in is [TERM-020](../terms.d/TERM-020.md), avoidance is
+[CASE-013](../cases.d/CASE-013.md) and [CLAIM-446](CLAIM-446.md), release is [CLAIM-465](CLAIM-465.md), and the proposed simulation is
+[CASE-153](../cases.d/CASE-153.md). New: rumination split into reactivation and failed release, and
+capacity kept apart from governance ([CLAIM-537](CLAIM-537.md)'s note). Stated as fact
 without support: "Rumination can recruit mechanisms ordinarily involved in
 detecting and resolving problems", and that attention and control are
 "limited resources", a contested modelling choice.
@@ -135,12 +135,12 @@ detecting and resolving problems", and that attention and control are
   interpretation governance can draw on. (c) None; the owner's intent is
   for the owner.
 - **Experiential avoidance.** (a) §2 avoids a task. (b) In ACT's sense
-  (THEORY-050) the protective perspective avoids anticipated private
+  ([THEORY-050](../theory.d/THEORY-050.md)) the protective perspective avoids anticipated private
   events. (c) None.
 - **Endorsement.** (a) §6's "reflective endorsement" is Frankfurt's. (b) In
-  TERM-053's sense: why is the reflective process's effect on the pursuit
+  [TERM-053](../terms.d/TERM-053.md)'s sense: why is the reflective process's effect on the pursuit
   process's future influence near zero, though its evaluation is negative
-  (CLAIM-447, CASE-181)? (c) None.
+  ([CLAIM-447](CLAIM-447.md), [CASE-181](../cases.d/CASE-181.md))? (c) None.
 
 The wording is A's, sharpened by the reader; adopting it is the owner's
 call. No status changes.

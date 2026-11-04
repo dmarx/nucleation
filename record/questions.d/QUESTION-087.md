@@ -91,7 +91,7 @@ consequences of actions for themselves and others", and grants that
 
 It adds one distinction: "A theory of motivational organization needs to
 distinguish **internal dysregulation from externally imposed
-infeasibility**." That is CLAIM-357's split between governance and
+infeasibility**." That is [CLAIM-357](../claims.d/CLAIM-357.md)'s split between governance and
 structural frustration, applied to the question whether a regime is
 pathological. A structurally frustrated organization's persistent conflict
 is no evidence of malfunction. A29 offers no standard grounded in the

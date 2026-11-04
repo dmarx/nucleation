@@ -60,11 +60,11 @@ smooth positive prior near the minimum.
 
 - **Arms 1 and 2.** Every output has the form (z, z), so no setting meets
   both demands. A8: "nothing about the original frustration has changed."
-  Arm 2 is CASE-152's product singularity. Its λ equals Arm 1's. What makes
+  Arm 2 is [CASE-152](CASE-152.md)'s product singularity. Its λ equals Arm 1's. What makes
   it singular is the multiplicity, the log correction, and the gap below
   d/2. It does not have a lower λ.
 - **Arm 3.** L₃ = ½[(x + d − 1)² + (x − d + 1)²] = x² + (d − 1)². At
-  (x, d) = (0, 1) both demands are met exactly. This is CASE-115's split of
+  (x, d) = (0, 1) both demands are met exactly. This is [CASE-115](CASE-115.md)'s split of
   θ, in rotated coordinates.
 - **Arm 4.** The minimum set {x = 0, de = 1} is a smooth curve in ℝ³, of
   codimension 2, so λ = 1 < 3/2. Every point on it meets both demands.
@@ -90,16 +90,16 @@ differentiation**." Arm 2 "adds parameters and a genuine statistical
 singularity but no new ability to satisfy the demands". Arm 4 shows the
 converse: a singular model can also be one that relieves the frustration.
 
-**It is a caution for QUESTION-133 and QUESTION-275.** A8: "It prevents us
+**It is a caution for [QUESTION-133](../questions.d/QUESTION-133.md) and [QUESTION-275](../questions.d/QUESTION-275.md).** A8: "It prevents us
 from prematurely interpreting an SLT phase distinction as evidence of
 improved organizational integration." A positive result must show "a
 relationship between changes in the statistical geometry and changes in
 *jointly realizable behavior*, rather than the mere presence of
 singularities."
 
-**Relief here is CLAIM-347's.** Arms 3 and 4 enlarge the attainable set
+**Relief here is [CLAIM-347](../claims.d/CLAIM-347.md)'s.** Arms 3 and 4 enlarge the attainable set
 for the same acceptance sets. Arm 2 adds parameters without enlarging it.
-CLAIM-305, now superseded, made the neighbouring point that resolving a
+[CLAIM-305](../claims.d/CLAIM-305.md), now superseded, made the neighbouring point that resolving a
 singularity adds no observation.
 
 **It does not show a learning trajectory.** A8: "These are three fixed

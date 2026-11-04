@@ -94,8 +94,8 @@ d_i = 1 − x_i and tolerance 0.2, so each accepts x_i ≥ 0.8.
 The reader rechecked this: a grid search gives min-max discrepancy 1/3, and
 σ(2.133) = 0.8941. A16 calls the result "the distinction between
 **resolving a conflict** and **governing an unavoidable conflict**". In this
-case's terms, the second is CLAIM-534's allocation, and relief would need a
+case's terms, the second is [CLAIM-534](../claims.d/CLAIM-534.md)'s allocation, and relief would need a
 larger budget or a composite policy, as here.
 
-It is a variant, not a new construction. Its use is CLAIM-tmpu69za.
+It is a variant, not a new construction. Its use is [CLAIM-tmpu69za](../claims.d/CLAIM-tmpu69za.md).
 No status changes.

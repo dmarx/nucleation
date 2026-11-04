@@ -159,11 +159,11 @@ A22 proposed "a compatibility complex linked to a dynamical phase portrait of th
 A cited nothing for any of them. They are this claim's reduction, on the record already:
 - the replicator on π is a dynamics on that simplex;
 - capture is the coordination-game lock-in;
-- cycling is the harmonic part of Candogan's decomposition, CLAIM-451's stable cyclic regime;
-- CASE-159 supplies the simplex's metric.
+- cycling is the harmonic part of Candogan's decomposition, [CLAIM-451](CLAIM-451.md)'s stable cyclic regime;
+- [CASE-159](../cases.d/CASE-159.md) supplies the simplex's metric.
 
 A23's caution matches the "What the reduction loses" list here: "plot **empirical or simulated trajectories**, not assume there exists a unique two-dimensional vector field in authority space", because hidden activation and maintained state also drive the dynamics.
 
-A's new piece is a directed graph on "satisfaction signatures" S(g) = {i : g ∈ T_i}, meaning which jointly satisfying sets the dynamics can move between. It is noted on CLAIM-534. A24's SVG draws it only as a chain with no return edges.
+A's new piece is a directed graph on "satisfaction signatures" S(g) = {i : g ∈ T_i}, meaning which jointly satisfying sets the dynamics can move between. It is noted on [CLAIM-534](CLAIM-534.md). A24's SVG draws it only as a chain with no return edges.
 
 No status changes.

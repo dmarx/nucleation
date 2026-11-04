@@ -193,7 +193,7 @@ The question stays open.
 
 After the owner's U7 ("I think nucleation's account of "frustration" might
 bring some useful nuance that I think your invocation of "competition"
-misses"), A7 drew a table, credited to CLAIM-449, CLAIM-368 and this
+misses"), A7 drew a table, credited to [CLAIM-449](../claims.d/CLAIM-449.md), [CLAIM-368](../claims.d/CLAIM-368.md) and this
 question:
 
 | Phenomenon | What it establishes (A7) |
@@ -209,16 +209,16 @@ The competition row is A7's own. No entry holds it. It meets this question's
 own sentence partway: "Two processes with individually attainable objectives
 that compete for one shared resource are structurally frustrated as a pair."
 Competitors that coexist are not frustrated, and frustration needs no
-competitor (CLAIM-347's 120° gradients).
+competitor ([CLAIM-347](../claims.d/CLAIM-347.md)'s 120° gradients).
 
 **The split A7 missed.** A7: "Nor is every unmet demand frustrated. A jointly
 acceptable outcome might exist but go unrealized because the organization
 lacks the information, search capacity, or effective control to produce it."
 That matches this question's middle row, non-attainment, "not established".
-But the causes it names are TERM-060's "Frustrated, by governance" and
-CLAIM-357's "manufactured frustration". The table therefore needs a row
+But the causes it names are [TERM-060](../terms.d/TERM-060.md)'s "Frustrated, by governance" and
+[CLAIM-357](../claims.d/CLAIM-357.md)'s "manufactured frustration". The table therefore needs a row
 between structural frustration and operative thwarting.
 
-Candidate account 3 is developed in CLAIM-tmpv67b2.
+Candidate account 3 is developed in [CLAIM-tmpv67b2](../claims.d/CLAIM-tmpv67b2.md).
 
 The question stays open.

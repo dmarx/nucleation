@@ -300,9 +300,9 @@ relations, or control channels" "feels like it could connect to the
 nucleation records singuular learning theory account of topological phase
 transitions during learning". A4 §5 gave the narrow form, that such
 transitions "may correspond to distinct computational phases characterized by
-singular learning theory". The halves are held: CASE-191 for the
-organization, THEORY-1275 and QUESTION-363 for the learner. CLAIM-tmpzj6at
-(the owner's U5) puts them on one parameter space. CASE-tmps4kry answers for
+singular learning theory". The halves are held: [CASE-191](../cases.d/CASE-191.md) for the
+organization, [THEORY-1275](../theory.d/THEORY-1275.md) and [QUESTION-363](QUESTION-363.md) for the learner. [CLAIM-tmpzj6at](../claims.d/CLAIM-tmpzj6at.md)
+(the owner's U5) puts them on one parameter space. [CASE-tmps4kry](../cases.d/CASE-tmps4kry.md) answers for
 one model: the 5 → 6 transition in the toy model of superposition is relief
 only from 0.0482 to 1/3, and it adds a vertex rather than filling a hole.
 
@@ -312,8 +312,8 @@ only from 0.0482 to 1/3, and it adds a vertex rather than filling a hole.
   emergence of a *locally self-stabilizing organizational arrangement* that
   can recruit other activities into its pattern of coordination", distinct
   from phase transition and from self-formation. That reading is held as a
-  route in QUESTION-281 ("nucleation across a finite barrier from a locally
-  stable state"). Its three-way split is QUESTION-281's closing question.
+  route in [QUESTION-281](QUESTION-281.md) ("nucleation across a finite barrier from a locally
+  stable state"). Its three-way split is [QUESTION-281](QUESTION-281.md)'s closing question.
   Lei Dong's driven-nucleation preprint (arXiv 2607.27281, not held) is a
   candidate source.
 - (b) Read as the name of this record, the proposal is the question above.

@@ -92,7 +92,7 @@ raised it is the question. Where the governance of updates sits is
 our current definition satisfies the Frankfurtian sense, or if that is a
 different sense we should consider." It does not, and this term says so.
 A14 agreed, citing this term. The reflective sense is now coded as
-TERM-tmp0evbm, higher-order volition.
+[TERM-tmp0evbm](TERM-tmp0evbm.md), higher-order volition.
 
 **A proposed narrowing (A14 §4).** "A positive influence derivative alone
 would establish facilitation, but not necessarily endorsement." "We should
@@ -116,16 +116,16 @@ first and not the second.
 - (a) A's earlier turns used "endorse" for the reflective attitude (A12 §1,
   "willing to endorse"; A15, "the will each perspective would endorse";
   A16, "the will it would endorse"). A14's four senses (evaluative, volitional, operative,
-  constitutive) are a usable map. Its "constitutive" sense is TERM-006's
+  constitutive) are a usable map. Its "constitutive" sense is [TERM-006](TERM-006.md)'s
   definition and the phrase quoted above from A10. A14's 2×2 table puts the
-  unwilling addict in the cell with no operative endorsement. By CASE-112
+  unwilling addict in the cell with no operative endorsement. By [CASE-112](../cases.d/CASE-112.md)
   that is wrong: his volition can have a positive effect that falls short of
   switching the regime. What he lacks is success, not endorsement.
 - (b) Read as intended, the owner's U12 "endorsement criteria" make a
   perspective's tolerance the switching surface of the sign of E_{i→j}
-  (CLAIM-tmpgjdby). A complaint that is communicated and taken up is
+  ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)). A complaint that is communicated and taken up is
   negative endorsement, so the uptake of a complaint turns the reflective
-  sense into this one (CLAIM-tmpu69za; QUESTION-270).
+  sense into this one ([CLAIM-tmpu69za](../claims.d/CLAIM-tmpu69za.md); [QUESTION-270](../questions.d/QUESTION-270.md)).
 - (c) The owner made no correction. At U15 the owner chose the Frankfurtian
   sense deliberately: "apply tolerance as a condition on the Frankfurtian
   sense."
@@ -137,8 +137,8 @@ No status changes.
 The owner's U11: "what if we interpret these tolerances as measures of local endorsement?"
 
 - **(a) The idea as A stated it.** A11's opening: "a tight tolerance can mean strongly endorsing a requirement, while a generous tolerance can mean endorsing another process's freedom to vary."
-  - The first reading is the attitudinal sense, valuing or identifying with a demand. That is Frankfurt's sense (THEORY-120), which this term excludes. It is worth recording only as the reading to rule out.
+  - The first reading is the attitudinal sense, valuing or identifying with a demand. That is Frankfurt's sense ([THEORY-120](../theory.d/THEORY-120.md)), which this term excludes. It is worth recording only as the reading to rule out.
   - The second reading comes close to this term if it is cashed out causally.
   - A9 had already said a tolerance "is neither an endorsement weight", without saying in which sense.
 - **(b) Read as intended.** Within i's tolerance at an overlap, E_ij ≥ 0. Beyond it, i may act to lower j's future influence, E_ij < 0. The tolerance is then i's *criterion* of endorsement in this term's causal sense. It is a necessary condition of non-opposition, not a measure of how strongly i endorses j.
-- **(c) The owner's correction.** The owner's U12: "i was thinking more along the linesof tolerances expressing endorsement criteria relative to some given perspective's priorities. maybe I'm confusing necessary vs sufficient conditions." This agrees with (b). Being within tolerance is at most necessary for E_ij ≥ 0. It is not sufficient for positive endorsement, which needs an intervention by i that raises j's influence. CLAIM-tmpgjdby holds the owner's reading.
+- **(c) The owner's correction.** The owner's U12: "i was thinking more along the linesof tolerances expressing endorsement criteria relative to some given perspective's priorities. maybe I'm confusing necessary vs sufficient conditions." This agrees with (b). Being within tolerance is at most necessary for E_ij ≥ 0. It is not sufficient for positive endorsement, which needs an intervention by i that raises j's influence. [CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md) holds the owner's reading.

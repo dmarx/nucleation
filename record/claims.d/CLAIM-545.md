@@ -147,14 +147,14 @@ The owner's U10: "i wonder if this framework alludes to some useful axes for nor
 A10 also proposed an "accommodation-profile set" of tolerances, cost bearers, legibility and voice, ordered by inclusion. Its synthesis: "**The normative quality of an organizational arrangement depends not only on what it realizes, but also on which demands it recognizes, how it determines permissible accommodations, how it distributes their burdens, whose contributions remain consequential, and whether those arrangements can be justifiably contested and revised.**"
 
 **What the record already holds.** Most of this is already here.
-- **Legibility, efficacy and revision:** this claim's own clauses. Directed legibility is TERM-064.
+- **Legibility, efficacy and revision:** this claim's own clauses. Directed legibility is [TERM-064](../terms.d/TERM-064.md).
 - **Non-domination:** this claim's last clause, after Pettit.
-- **Burdens:** the note of 2026-11-03 says that moving the mismatch along CLAIM-538's frontier "is a choice of who bears the mismatch". CLAIM-534's allocation part says the same.
-- **Fidelity:** suppression faking compatibility is CLAIM-347's relief condition and CLAIM-538's omission clause.
-- **Justification:** CLAIM-075, CLAIM-523 and CLAIM-060 disclaim it.
-- **Just tolerances:** CLAIM-416's "a fair test need not be neutral across competences" is the record's form of A10's "the smallest possible tolerance is not necessarily the most just tolerance".
+- **Burdens:** the note of 2026-11-03 says that moving the mismatch along [CLAIM-538](CLAIM-538.md)'s frontier "is a choice of who bears the mismatch". [CLAIM-534](CLAIM-534.md)'s allocation part says the same.
+- **Fidelity:** suppression faking compatibility is [CLAIM-347](CLAIM-347.md)'s relief condition and [CLAIM-538](CLAIM-538.md)'s omission clause.
+- **Justification:** [CLAIM-075](CLAIM-075.md), [CLAIM-523](CLAIM-523.md) and [CLAIM-060](CLAIM-060.md) disclaim it.
+- **Just tolerances:** [CLAIM-416](CLAIM-416.md)'s "a fair test need not be neutral across competences" is the record's form of A10's "the smallest possible tolerance is not necessarily the most just tolerance".
 
-**What A10 adds.** It turns this claim's descriptive clauses into evaluative questions. Two of A's phrasings are new to the record: "accommodation equity", which A flags as "a new proposal, not an established Nucleation term", and "epistemic accessibility", from CLAIM-475, for objections that are too costly even to formulate. A10 itself: "This doesn't yet constitute a moral theory."
+**What A10 adds.** It turns this claim's descriptive clauses into evaluative questions. Two of A's phrasings are new to the record: "accommodation equity", which A flags as "a new proposal, not an established Nucleation term", and "epistemic accessibility", from [CLAIM-475](CLAIM-475.md), for objections that are too costly even to formulate. A10 itself: "This doesn't yet constitute a moral theory."
 
 **The second appearance of a line.** A10 §2C's "Efficiency can conceal domination" is the second appearance of A29's line, recorded in the note of 2026-11-03 and not filed: "domination occurs when the power to define, conceal, or revise compatibility is exercised without effective accountability". It restates this claim's last clause. If it gets a code, it belongs as a revision of that clause.
 

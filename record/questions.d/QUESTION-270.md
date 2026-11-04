@@ -234,7 +234,7 @@ unchanged.
 
 The owner's U13 asked to connect tolerance, endorsement and accommodation
 "to the liking vs wanting distinction, organizational authenticity, and
-agency". A13 cited this question and CLAIM-437.
+agency". A13 cited this question and [CLAIM-437](../claims.d/CLAIM-437.md).
 
 **The mechanism.** A13 §2 puts a tolerance in the consummatory process H
 over pursuit P: Q_{H→P} = 1 when the predicted outcome lies within H's
@@ -248,7 +248,7 @@ conditional endorsement, or of the authority to make it effective.
 accommodation (registered, outweighed) and conditioned conformity (no
 objections produced). "liking–wanting divergence is neither necessary nor
 sufficient for inauthenticity." The first three restate the note of
-2026-10-25 and the note of 2026-10-26. The last is CLAIM-364.
+2026-10-25 and the note of 2026-10-26. The last is [CLAIM-364](../claims.d/CLAIM-364.md).
 
 **The test.** "If experience changes, can the evaluating process still
 alter the conditions under which pursuit receives influence?"
@@ -258,7 +258,7 @@ hardship: three organizations with matched behavior and different
 endorsement relations." A13: "This would extend QUESTION-270's existing
 synthetic separation of liking, wanting, registration, and authority by
 adding learned tolerances, reciprocal accommodation, and governance
-revision." The new arm is a tolerance the governance can revise. CASE-129
+revision." The new arm is a tolerance the governance can revise. [CASE-129](../cases.d/CASE-129.md)
 already holds the learned and disabled pair.
 
 No status changes.

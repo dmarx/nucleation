@@ -6,17 +6,17 @@
 
 - The exchange "Organizational Nucleation and SLT" (29 owner turns, continuing "Assess SDT Coverage") is filed. Seven readers read every turn, rechecked the record, and reran A's mathematics and code. A curation entry and a workbench entry record what was found. Most of the exchange was already held.
 - The owner's claims, each Proposed:
-  - the compatibility complex and SLT's singular geometry are two invariants of one object (CLAIM-tmpzj6at, U5);
-  - a perspective's tolerance is its directed endorsement criterion (CLAIM-tmpgjdby, U12);
-  - complaint propensity times channel, so that silence is not endorsement (CLAIM-tmpu69za, U15);
-  - activation does not require expected success (CLAIM-tmp6zm3v, U18);
-  - tolerance derived from threshold (CLAIM-tmp8e3ye, U15 → U17 → U19).
-- Two of A's claims, each Proposed: niche differentiation as relief of structural frustration (CLAIM-tmpv67b2), and the quiescent complex is not the requirement complex (CLAIM-tmp7oo4d).
-- Two Proposed terms: higher-order volition (TERM-tmp0evbm), the reflective sense of "endorse", kept apart from TERM-053; and motivating perspective (TERM-tmpszrpp).
-- A question holding the owner's U19 chain (QUESTION-tmpu6o08).
+  - the compatibility complex and SLT's singular geometry are two invariants of one object ([CLAIM-tmpzj6at](record/claims.d/CLAIM-tmpzj6at.md), U5);
+  - a perspective's tolerance is its directed endorsement criterion ([CLAIM-tmpgjdby](record/claims.d/CLAIM-tmpgjdby.md), U12);
+  - complaint propensity times channel, so that silence is not endorsement ([CLAIM-tmpu69za](record/claims.d/CLAIM-tmpu69za.md), U15);
+  - activation does not require expected success ([CLAIM-tmp6zm3v](record/claims.d/CLAIM-tmp6zm3v.md), U18);
+  - tolerance derived from threshold ([CLAIM-tmp8e3ye](record/claims.d/CLAIM-tmp8e3ye.md), U15 → U17 → U19).
+- Two of A's claims, each Proposed: niche differentiation as relief of structural frustration ([CLAIM-tmpv67b2](record/claims.d/CLAIM-tmpv67b2.md)), and the quiescent complex is not the requirement complex ([CLAIM-tmp7oo4d](record/claims.d/CLAIM-tmp7oo4d.md)).
+- Two Proposed terms: higher-order volition ([TERM-tmp0evbm](record/terms.d/TERM-tmp0evbm.md)), the reflective sense of "endorse", kept apart from [TERM-053](record/terms.d/TERM-053.md); and motivating perspective ([TERM-tmpszrpp](record/terms.d/TERM-tmpszrpp.md)).
+- A question holding the owner's U19 chain ([QUESTION-tmpu6o08](record/questions.d/QUESTION-tmpu6o08.md)).
 - Four constructions, with scripts in scratch/formal/:
-  - three species with a bistable band (CASE-tmpqzzui);
-  - an SLT invariant does not track the complex (CASE-tmpbd03o);
-  - three organizations at 50% (CASE-tmpklgk5);
-  - the toy model of superposition's per-feature complex (CASE-tmps4kry).
+  - three species with a bistable band ([CASE-tmpqzzui](record/cases.d/CASE-tmpqzzui.md));
+  - an SLT invariant does not track the complex ([CASE-tmpbd03o](record/cases.d/CASE-tmpbd03o.md));
+  - three organizations at 50% ([CASE-tmpklgk5](record/cases.d/CASE-tmpklgk5.md));
+  - the toy model of superposition's per-feature complex ([CASE-tmps4kry](record/cases.d/CASE-tmps4kry.md)).
 - Thirty dated notes on held entries. Where A misread a term of art (nucleation, frustration, the sheaf account, endorsement, psychological flexibility), the entry or note records both the idea as A stated it and what A would have proposed with the term read as intended.

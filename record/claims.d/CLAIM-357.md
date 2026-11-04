@@ -240,6 +240,6 @@ The reader recomputed the allocations. They show this claim's separation more sh
 
 So the case is realized violation with no structural infeasibility, where Φ ≤ 0 and m(d_actual) > 0. A presented it only as "the actual distribution of influence changes".
 
-The same contrast is CLAIM-122's form, and CASE-119 is the same three-demand complex.
+The same contrast is [CLAIM-122](CLAIM-122.md)'s form, and [CASE-119](../cases.d/CASE-119.md) is the same three-demand complex.
 
 No status changes.

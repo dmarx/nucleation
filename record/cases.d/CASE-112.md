@@ -146,8 +146,8 @@ shape only.
 
 A23's "Regime B: authority capture" is this case, uncited. In A23's words, the individual stays in one pairwise arrangement "even when restoration becomes relevant", because "the existing allocation of authority perpetuates itself". In this model that is the lower branch for 0 < h < h_c: the state stays put while another stable arrangement exists. It is also the hysteresis that keeps the agent there until h passes h_c.
 
-A23 then reads Frankfurt into the dynamics. A higher-order volition is "a preference concerning the dynamics themselves**—which perspectives should become effective under which circumstances, and which transitions should remain possible." Here that has a precise form: a volition that changes μ, and so h_c, rather than h. That is this case's "changing the conditions, not the attitude", and it is CLAIM-122's form. CLAIM-539 and CLAIM-545 hold the rest of A's reading.
+A23 then reads Frankfurt into the dynamics. A higher-order volition is "a preference concerning the dynamics themselves**—which perspectives should become effective under which circumstances, and which transitions should remain possible." Here that has a precise form: a volition that changes μ, and so h_c, rather than h. That is this case's "changing the conditions, not the attitude", and it is [CLAIM-122](../claims.d/CLAIM-122.md)'s form. [CLAIM-539](../claims.d/CLAIM-539.md) and [CLAIM-545](../claims.d/CLAIM-545.md) hold the rest of A's reading.
 
-CLAIM-465's release condition and CLAIM-359's capture of authority-allocating processes bear on the same regime.
+[CLAIM-465](../claims.d/CLAIM-465.md)'s release condition and [CLAIM-359](../claims.d/CLAIM-359.md)'s capture of authority-allocating processes bear on the same regime.
 
 No status changes.

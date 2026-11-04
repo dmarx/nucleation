@@ -127,7 +127,7 @@ The case is unchanged.
 ## Note of 2026-11-04: the mode vote as a rule for selecting actions, from "Organizational Nucleation and SLT"
 
 The owner's U16: "I think the twitch-plays-pokemon and /r/all CASEs might
-be particularly illuminating here." A16 used this case and CASE-075.
+be particularly illuminating here." A16 used this case and [CASE-075](CASE-075.md).
 
 - **A command vote is not a complaint.** A16 §3: a chat command is
   "ordinarily a **first-order intervention**, not necessarily a
@@ -135,15 +135,15 @@ be particularly illuminating here." A16 used this case and CASE-075.
   left, to follow the majority or to frustrate another group.
 - **The mode vote is one level up.** "Ordinary button votes select actions;
   a vote about which mode should govern selects a *rule for selecting
-  actions*." That is the shape of a higher-order volition (TERM-tmp0evbm).
+  actions*." That is the shape of a higher-order volition ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)).
   A16: "The analogy is not identity".
 - **The tally coordinates without changing criteria.** A16 §6: under the
   shown tally the crowd can converge "because participants see where the
   majority is going", which can be "coordination without changed
-  endorsement criteria". The spiral of silence (THEORY-242) is the held
+  endorsement criteria". The spiral of silence ([THEORY-242](../theory.d/THEORY-242.md)) is the held
   case of expressed opinion leaving private opinion with no member changing
   belief.
 
 "/r/all" in U16 matches no entry. The record holds no r/all case. A16 and
-A26 both took the Reddit case to be CASE-079, r/place. The owner did not
+A26 both took the Reddit case to be [CASE-079](CASE-079.md), r/place. The owner did not
 correct this. No status changes.

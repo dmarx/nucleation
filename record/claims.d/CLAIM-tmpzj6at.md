@@ -47,7 +47,7 @@ summary: >-
   responding to different demands manifested within the training data,
   which the parameters are being trained to learn to satisfy jointly." A5
   conceded and built the nerve; the reader ran its proposed test
-  (CASE-tmps4kry). The thesis is the owner's. The construction is A5's,
+  ([CASE-tmps4kry](../cases.d/CASE-tmps4kry.md)). The thesis is the owner's. The construction is A5's,
   with qualifications the reader added from the record. Proposed: the
   identification is argued, its formal core is definitional, and one model
   has been checked. The wording of the construction is A's, sharpened by
@@ -60,8 +60,8 @@ summary: >-
 ## The claim
 
 **The owner's correction.** In A4 the assistant had separated two things: the
-topology of jointly feasible demands (CLAIM-347, CASE-119) and the singular
-geometry of learned parameters (NOTE-1462, THEORY-1275). The owner's U5
+topology of jointly feasible demands ([CLAIM-347](CLAIM-347.md), [CASE-119](../cases.d/CASE-119.md)) and the singular
+geometry of learned parameters ([NOTE-1462](../notes.d/NOTE-1462.md), [THEORY-1275](../theory.d/THEORY-1275.md)). The owner's U5
 denies that separation: "the parameter configurations are responding to
 different demands manifested within the training data, which the parameters
 are being trained to learn to satisfy jointly." A5: "I think your objection
@@ -96,18 +96,18 @@ any nerve.
 demands, the full set of theoretically feasible configurations doesn't
 necessarily change during training." The complex that changes is the one
 restricted to what is accessible, 𝒦_t(ε) = {S : U_t ∩ ⋂_S A_i(ε_i) ≠ ∅}. That
-is CLAIM-347's complex indexed to an organization, horizon and budget,
+is [CLAIM-347](CLAIM-347.md)'s complex indexed to an organization, horizon and budget,
 ℛ(𝒪_t; H, B) (A38 §2 of the exchange of 2026-10-17). How accessibility
-weights regions is what THEORY-1258 leaves underived.
+weights regions is what [THEORY-1258](../theory.d/THEORY-1258.md) leaves underived.
 
 **An invariance the reader adds.** Nonemptiness of an intersection of sets is
 preserved by any bijection of Θ. So 𝒦(ε) is unchanged by reparameterization,
 and by quotienting function-preserving symmetries. This is the set-level
-counterpart of CLAIM-366's result for common descent directions, and it
-answers QUESTION-127 for this diagnosis. The learning coefficient has only
+counterpart of [CLAIM-366](CLAIM-366.md)'s result for common descent directions, and it
+answers [QUESTION-127](../questions.d/QUESTION-127.md) for this diagnosis. The learning coefficient has only
 the invariance of the analytic setting.
 
-**One model checked.** CASE-tmps4kry builds the complex for the toy model of
+**One model checked.** [CASE-tmps4kry](../cases.d/CASE-tmps4kry.md) builds the complex for the toy model of
 superposition, with each feature's reconstruction loss as a demand. The
 posterior's 5 → 6 transition there is relief at common tolerances from
 0.0482 to 1/3. Below 0.0482 it trades five well-met demands for six less
@@ -118,15 +118,15 @@ does.
 
 - **That the learning coefficient is a topological invariant of the
   complex**, or that every Bayesian transition changes its Betti numbers.
-  CASE-tmps4kry's transition changes none.
-- **That training's demands are the network's own.** TERM-060: "Ordinary
+  [CASE-tmps4kry](../cases.d/CASE-tmps4kry.md)'s transition changes none.
+- **That training's demands are the network's own.** [TERM-060](../terms.d/TERM-060.md): "Ordinary
   training is the case A33 §7 named, where the objectives are the trainer's"
-  (see CLAIM-288). Whose demands they are, and to which unit any frustration
-  belongs, is QUESTION-122's question.
-- **That SGD follows the posterior.** THEORY-1275 records a Bayesian
-  transition not seen in training, and QUESTION-363 is open.
+  (see [CLAIM-288](CLAIM-288.md)). Whose demands they are, and to which unit any frustration
+  belongs, is [QUESTION-122](../questions.d/QUESTION-122.md)'s question.
+- **That SGD follows the posterior.** [THEORY-1275](../theory.d/THEORY-1275.md) records a Bayesian
+  transition not seen in training, and [QUESTION-363](../questions.d/QUESTION-363.md) is open.
 - **That the decomposition into demands is given.** It is a choice. The
   claim is defeated if equally good choices disagree about relief.
 - **That a transition which relieves frustration is self-formation.** That
   needs a capacity that persists and serves later demands of its class
-  (CLAIM-532, CASE-191).
+  ([CLAIM-532](CLAIM-532.md), [CASE-191](../cases.d/CASE-191.md)).

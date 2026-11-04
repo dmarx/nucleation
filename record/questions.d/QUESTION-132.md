@@ -259,7 +259,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-04: a dormant specialist with negative recovery growth, from "Organizational Nucleation and SLT"
 
-This question already separates a specialist kept active from one kept "dormant but recoverable". CASE-117 measures recovery with frozen parameters. A8's Proposal D, answering the owner's U8, adds explicit numbers:
+This question already separates a specialist kept active from one kept "dormant but recoverable". [CASE-117](../cases.d/CASE-117.md) measures recovery with frozen parameters. A8's Proposal D, answering the owner's U8, adds explicit numbers:
 
 - A specialist useful in a rare context, of probability 0.01, has active intensity multiplied by 0.99 in ordinary contexts and by 2 in its own.
 - Its long-run growth exponent is λ = 0.99 log 0.99 + 0.01 log 2 ≈ −0.00302. The reader checked it.

@@ -176,16 +176,16 @@ relational graph would answer it too, in the negative.
 A28 asked this question for one agent's perspectives: "What makes two
 different motivational responses enactments of the same motivating
 perspective, rather than distinct motivations that merely share a cue or a
-goal?" (TERM-tmpszrpp). It restates two conditions at the scale of an
+goal?" ([TERM-tmpszrpp](../terms.d/TERM-tmpszrpp.md)). It restates two conditions at the scale of an
 individual. On overlap (condition 2): "A perspective might involve several
 dynamically coupled processes, and one process might participate in several
 perspectives." On counting: "we shouldn't automatically infer the number of
-perspectives from the number of measured activation modes" (CLAIM-454).
+perspectives from the number of measured activation modes" ([CLAIM-454](../claims.d/CLAIM-454.md)).
 
 It adds a candidate test of identity. A28's counterfactual signature asks
 which change of interpretation moves readiness with the opportunity held
 fixed, and two responses would be one perspective's if they share one.
-CLAIM-405 and CLAIM-152 say such a test is well defined only once its
+[CLAIM-405](../claims.d/CLAIM-405.md) and [CLAIM-152](../claims.d/CLAIM-152.md) say such a test is well defined only once its
 criterion is fixed, so an answer should state what the signature is
 sufficient for. A28 ran no model. The wording is A's, sharpened by the
 reader; adopting it is the owner's call. No status changes.

@@ -152,9 +152,9 @@ What A16 adds here:
   or shared plans may change "the *actual conditions under which groups can
   realize their preferred outcomes*. That can expand compatibility at fixed
   tolerances." It is "organizational accommodation that alters what is
-  jointly feasible". Twitch's shown tally only coordinates (CASE-074).
-- In this record's terms, the first is relief in CLAIM-347's sense, and
-  QUESTION-133 asks when differentiation gives it. A16: "Neither is
+  jointly feasible". Twitch's shown tally only coordinates ([CASE-074](CASE-074.md)).
+- In this record's terms, the first is relief in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, and
+  [QUESTION-133](../questions.d/QUESTION-133.md) asks when differentiation gives it. A16: "Neither is
   necessarily authentic."
 
 No status changes.

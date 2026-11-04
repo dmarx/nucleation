@@ -398,7 +398,7 @@ automatically determine behavior", and one "develops a way of engaging
 that meets some of the defensive process's legitimate concerns". The
 second is this claim's "strong alarm with a valued action carried
 through". A20 §4's safe and dangerous contexts that give one observation
-are this claim's identifiability step, built as CASE-153.
+are this claim's identifiability step, built as [CASE-153](../cases.d/CASE-153.md).
 
 **The term "psychological flexibility."** A19 used it for the end of the
 owner's U19 chain.
@@ -406,24 +406,24 @@ owner's U19 chain.
 - **(a) As A stated it:** "the capacity to maintain or recover
   appropriate motivational accommodation as circumstances change". It is
   scored by R(π) against an "independently specified" standard A(c). That
-  is CLAIM-349's organizational flexibility, nearer Kashdan and
-  Rottenberg's broad sense (LIT-553) than ACT's. It drops ACT's relation
+  is [CLAIM-349](CLAIM-349.md)'s organizational flexibility, nearer Kashdan and
+  Rottenberg's broad sense ([LIT-553](../literature.d/LIT-553.md)) than ACT's. It drops ACT's relation
   to private events and keeps only defusion's analogue, activation without
   authority. A20 §6 flagged this itself: "an extension of that idea, not
   an empirically established mechanism of ACT."
-- **(b) With the term read as ACT's** (LIT-555, NOTE-431, p. 7: "to
+- **(b) With the term read as ACT's** ([LIT-555](../literature.d/LIT-555.md), [NOTE-431](../notes.d/NOTE-431.md), p. 7: "to
   change or persist in behavior when doing so serves valued ends"), the
   proposal would be this claim generalized. Organizational experiential
   avoidance is governance that acts to keep its constituent processes
-  below threshold, maximizing the quiescent complex (CLAIM-tmp7oo4d), and
+  below threshold, maximizing the quiescent complex ([CLAIM-tmp7oo4d](CLAIM-tmp7oo4d.md)), and
   so narrows the contexts it handles. Flexibility in ACT's sense would
   keep activation accessible (acceptance), not let activation fix
   authority (defusion), and change or persist by the demands the
   organization maintains (values). On that reading, A(c) is set by those
-  demands, not from outside (QUESTION-087). The mechanism is already this
+  demands, not from outside ([QUESTION-087](../questions.d/QUESTION-087.md)). The mechanism is already this
   claim's. The note adds the ACT reading, not a new claim.
 - **(c) The owner's correction:** none on the term. At U19 the owner
   wrote "psychological flexibility / organizational effectiveness" with a
-  slash. A drew it as a further arrow (QUESTION-tmpu6o08).
+  slash. A drew it as a further arrow ([QUESTION-tmpu6o08](../questions.d/QUESTION-tmpu6o08.md)).
 
 No status changes.

@@ -91,9 +91,9 @@ the hazards that matter. The raised threshold is therefore a third arm.
   occur, but changing the discrepancy won't restore influence until the
   authority channel is repaired."
 
-Accommodation is CASE-109's local coordination. A21's caveat stands: "the
+Accommodation is [CASE-109](CASE-109.md)'s local coordination. A21's caveat stands: "the
 figure shouldn't portray high thresholds as intrinsically pathological.
-They may be exactly right for some contexts." CLAIM-tmp8e3ye holds the
+They may be exactly right for some contexts." [CLAIM-tmp8e3ye](../claims.d/CLAIM-tmp8e3ye.md) holds the
 point that raising a threshold is not relief.
 
 No status changes.

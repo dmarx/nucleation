@@ -37,7 +37,7 @@ summary: >-
   and U17, "reframe 'complaint' as something closer to 'intervention
   threshold' or 'activation threshold'". A20 §2 derived τ = (θ − b)/α, and
   A26 §2 restated it. That is the ε = 1/2 case only. The reader of U26–U27
-  gave the general ε form. CLAIM-534 takes tolerances as given, and this
+  gave the general ε form. [CLAIM-534](CLAIM-534.md) takes tolerances as given, and this
   derives them. The chain is the owner's. The wording is A's, sharpened by
   the reader; adopting it is the owner's call.
 ---
@@ -91,21 +91,21 @@ depends on κ. If α_i < 0 the inequality reverses.
    raising a threshold enlarges the perspective's low-activation region,
    and enlarges every complex built on such regions. It does so without
    changing what the organization can attain, or what any demand requires.
-   By CLAIM-347 and CLAIM-361, a change to the criteria being tested is not
+   By [CLAIM-347](CLAIM-347.md) and [CLAIM-361](CLAIM-361.md), a change to the criteria being tested is not
    relief. A21 put the contrast as "Route 1: Increase tolerance" against
-   "Route 2: Improve accommodation". CLAIM-tmp7oo4d holds the complex-level
+   "Route 2: Improve accommodation". [CLAIM-tmp7oo4d](CLAIM-tmp7oo4d.md) holds the complex-level
    form.
 
 ## Where it sits
 
-- **CLAIM-534** speaks of demands "jointly met, within tolerances it can
-  recognize", and CLAIM-538 gives per-overlap tolerances δ_e. Both take
+- **[CLAIM-534](CLAIM-534.md)** speaks of demands "jointly met, within tolerances it can
+  recognize", and [CLAIM-538](CLAIM-538.md) gives per-overlap tolerances δ_e. Both take
   tolerances as given. This claim gives one way they can arise: from the
   activation dynamics of the perspective that maintains the demand.
-- **CASE-112** is the record's precedent for a threshold derived from
+- **[CASE-112](../cases.d/CASE-112.md)** is the record's precedent for a threshold derived from
   dynamics. It is a regime switch at h_c = 2μ^{3/2}/(3√3), not the
   tolerance of a demand.
-- **CASE-156** is a worked logistic with a baseline and a gain. In it one
+- **[CASE-156](../cases.d/CASE-156.md)** is a worked logistic with a baseline and a gain. In it one
   rule admits different fractions as these vary, which is the shape of
   consequence 1.
 

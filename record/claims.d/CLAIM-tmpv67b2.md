@@ -49,7 +49,7 @@ summary: >-
   differentiation. A7 conceded: "Competition describes one possible
   interaction among constituents. Frustration describes a limitation in
   what an organization can jointly realize". This is the idea's second
-  appearance, after QUESTION-131's candidate account 3, "frustration as
+  appearance, after [QUESTION-131](../questions.d/QUESTION-131.md)'s candidate account 3, "frustration as
   constrained coexistence". The reader adds the governance case A7
   dropped and the separation of coexistence from cooperation. The wording
   is A's, sharpened by the reader; adopting it is the owner's call.
@@ -70,10 +70,10 @@ summary: >-
   differentiated roles that make their continued coexistence possible", and
   the three settings are "three descriptions of the same developmental
   mechanism: competition reshapes the geometry of functional participation".
-  For symmetric resource competition this much is held exactly, by CLAIM-369
-  and CASE-118. It needs no new filing.
+  For symmetric resource competition this much is held exactly, by [CLAIM-369](CLAIM-369.md)
+  and [CASE-118](../cases.d/CASE-118.md). It needs no new filing.
 - **(b) Read in the record's terms.** The organizing relation is frustration,
-  TERM-060: "the failure of the demands it maintains to be jointly realizable
+  [TERM-060](../terms.d/TERM-060.md): "the failure of the demands it maintains to be jointly realizable
   under its admissible transformations and its governance". With that term,
   A's proposal is this claim.
 - **(c) The owner's correction.** U7.
@@ -84,8 +84,8 @@ of viable histories, not of instantaneous states. A7: "If persistence is the
 demand, our acceptance sets must concern viable histories over an appropriate
 horizon, not merely instantaneous population states." A reorganization
 relieves frustration when it enlarges the complex for the same demands,
-𝒦_before ⊊ 𝒦_after (CLAIM-347), judged against a fixed reference set
-(CLAIM-361). Niche differentiation is one way to bring that about. A7: "The
+𝒦_before ⊊ 𝒦_after ([CLAIM-347](CLAIM-347.md)), judged against a fixed reference set
+([CLAIM-361](CLAIM-361.md)). Niche differentiation is one way to bring that about. A7: "The
 key achievement is not reduced opposition as such. It is a change in joint
 realizability."
 
@@ -93,20 +93,20 @@ realizability."
 
 | relation | what it says | where held |
 |---|---|---|
-| contested rankings | processes prefer different outcomes | CLAIM-449 |
+| contested rankings | processes prefer different outcomes | [CLAIM-449](CLAIM-449.md) |
 | competition | processes affect one another's access to resources or opportunities | A7's own row; no entry |
-| structural frustration | no attainable outcome meets every demand in a set | CLAIM-347, TERM-060 |
-| governance frustration | a jointly acceptable outcome exists, and the one selected lies outside it | TERM-060, CLAIM-357 |
-| operative thwarting | a constituent's attempted realization is causally blocked | QUESTION-131 |
-| strain | the demands are met, at a cost | TERM-060, CLAIM-368 |
-| coexistence | the types persist together | CLAIM-546: not cooperation |
+| structural frustration | no attainable outcome meets every demand in a set | [CLAIM-347](CLAIM-347.md), [TERM-060](../terms.d/TERM-060.md) |
+| governance frustration | a jointly acceptable outcome exists, and the one selected lies outside it | [TERM-060](../terms.d/TERM-060.md), [CLAIM-357](CLAIM-357.md) |
+| operative thwarting | a constituent's attempted realization is causally blocked | [QUESTION-131](../questions.d/QUESTION-131.md) |
+| strain | the demands are met, at a cost | [TERM-060](../terms.d/TERM-060.md), [CLAIM-368](CLAIM-368.md) |
+| coexistence | the types persist together | [CLAIM-546](CLAIM-546.md): not cooperation |
 
-Competition and structural frustration overlap only in part. QUESTION-131:
+Competition and structural frustration overlap only in part. [QUESTION-131](../questions.d/QUESTION-131.md):
 "Two processes with individually attainable objectives that compete for one
 shared resource are structurally frustrated as a pair." Competitors that
-coexist, as in CASE-118 within |δ| < (1 − ρ)/(1 + ρ), compete without
+coexist, as in [CASE-118](../cases.d/CASE-118.md) within |δ| < (1 − ρ)/(1 + ρ), compete without
 frustration of their persistence demands. Frustration can be higher-order
-with no competing pair at all. CLAIM-347's three gradients at 120° are
+with no competing pair at all. [CLAIM-347](CLAIM-347.md)'s three gradients at 120° are
 pairwise compatible and jointly infeasible.
 
 **What does not count as relief.** A7 gave three outcomes:
@@ -129,16 +129,16 @@ relief either.
 **The governance case (the reader's, which A7 dropped).** A7: "Nor is every
 unmet demand frustrated. A jointly acceptable outcome might exist but go
 unrealized because the organization lacks the information, search capacity,
-or effective control to produce it." QUESTION-131 counts bare non-attainment
-as no established obstruction. But the causes A7 lists are TERM-060's second
-case, "Frustrated, by governance". CLAIM-357 calls it "manufactured
+or effective control to produce it." [QUESTION-131](../questions.d/QUESTION-131.md) counts bare non-attainment
+as no established obstruction. But the causes A7 lists are [TERM-060](../terms.d/TERM-060.md)'s second
+case, "Frustrated, by governance". [CLAIM-357](CLAIM-357.md) calls it "manufactured
 frustration", produced by "the governance rule, restricted representation, or
 allocation of influence". For niches, this is a specialist that could coexist
 but whose influence or training opportunities governance withdraws
-(QUESTION-134). Differentiation cannot relieve that. A change of governance
+([QUESTION-134](../questions.d/QUESTION-134.md)). Differentiation cannot relieve that. A change of governance
 can.
 
-**Differentiation without competition.** CASE-115's split of one shared
+**Differentiation without competition.** [CASE-115](../cases.d/CASE-115.md)'s split of one shared
 parameter into θ_A and θ_B relieves two incompatible demands. No two
 specialists competed before it. A7: "**The organization created
 differentiated functional jurisdictions where there had previously been an
@@ -148,11 +148,11 @@ undifferentiated one.**"
 
 - **That frustration should always be relieved.** Some demands are rightly
   left unmet, or revised. A revision of what the organization maintains is
-  transformation, not relief (CLAIM-361).
+  transformation, not relief ([CLAIM-361](CLAIM-361.md)).
 - **That relief is sustained.** A newly feasible coexistence can be unstable.
-  Recovery when rare tests stability, and QUESTION-132 and QUESTION-135 ask
+  Recovery when rare tests stability, and [QUESTION-132](../questions.d/QUESTION-132.md) and [QUESTION-135](../questions.d/QUESTION-135.md) ask
   when differentiation provides it.
 - **That a coexistence threshold is an SLT phase boundary.** A6 itself said
   "an ecological coexistence threshold is not automatically an SLT phase
-  boundary". CLAIM-tmpzj6at is the claim about learners.
-- **That persisting together is cooperating.** It is not (CLAIM-546).
+  boundary". [CLAIM-tmpzj6at](CLAIM-tmpzj6at.md) is the claim about learners.
+- **That persisting together is cooperating.** It is not ([CLAIM-546](CLAIM-546.md)).

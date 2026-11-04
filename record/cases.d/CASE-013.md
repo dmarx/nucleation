@@ -87,7 +87,7 @@ regime, and a change in the structure of the competition switches it.
 A29 §2 rebuilt this case without citing it: "someone who genuinely wants to
 complete an important writing project but repeatedly avoids beginning",
 with achievement, protective and restorative perspectives. Its prediction is
-CLAIM-446's: "changing how protective activation influences action should
+[CLAIM-446](../claims.d/CLAIM-446.md)'s: "changing how protective activation influences action should
 improve task engagement even if the threat appraisal and subjective anxiety
 do not initially disappear." It names rival causes: "exhaustion, missing
 skills, inaccessible task information, or genuine structural
@@ -100,6 +100,6 @@ reader closed it with g = σ(k(z − θ)), with ρ = 0.6, capacity 1.5, pressure
 1, k = 4 and θ = 2. With β = 0.1 or 0.3, a starting backlog of 0 or 3 is
 cleared and a backlog of 10 runs away (about 205–210 after 200 steps, g → 1).
 Without the link the backlog is always cleared. So lock-in needs the link,
-and it then depends on history: CLAIM-459's bistability and CLAIM-463's
+and it then depends on history: [CLAIM-459](../claims.d/CLAIM-459.md)'s bistability and [CLAIM-463](../claims.d/CLAIM-463.md)'s
 hysteresis. "Deadline" is really backlog. The wording is A's, sharpened by
 the reader; adopting it is the owner's call. No status changes.

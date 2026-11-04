@@ -38,11 +38,11 @@ summary: >-
   (2026-11-04), which continues "Assess SDT Coverage": "i was thinking
   more along the linesof tolerances expressing endorsement criteria
   relative to some given perspective's priorities. maybe I'm confusing
-  necessary vs sufficient conditions." It turns CLAIM-534's and
-  CLAIM-538's tolerances, symmetric bounds on an edge, into each
+  necessary vs sufficient conditions." It turns [CLAIM-534](CLAIM-534.md)'s and
+  [CLAIM-538](CLAIM-538.md)'s tolerances, symmetric bounds on an edge, into each
   perspective's criterion for endorsing another. A12 separated
   permission, grant and causal effect. The reading of the criterion as
-  the boundary where the sign of TERM-053's endorsement changes is the
+  the boundary where the sign of [TERM-053](../terms.d/TERM-053.md)'s endorsement changes is the
   reader's. The wording is A's, sharpened by the reader; adopting it is
   the owner's call.
 ---
@@ -52,7 +52,7 @@ summary: >-
 
 ## The claim
 
-CLAIM-534 and CLAIM-538 give each overlap one tolerance, the same for both
+[CLAIM-534](CLAIM-534.md) and [CLAIM-538](CLAIM-538.md) give each overlap one tolerance, the same for both
 sides. The owner's U12 makes a tolerance belong to a perspective.
 Perspective i holds a criterion for j's contribution y:
 
@@ -72,7 +72,7 @@ Three things follow.
   own." The criterion is an acceptance set, and may hold several
   conditions.
 
-**The criterion sets the sign of endorsement.** In TERM-053's sense, i
+**The criterion sets the sign of endorsement.** In [TERM-053](../terms.d/TERM-053.md)'s sense, i
 endorses j to the extent that an intervention of i raises j's chance of
 influence, and opposition is negative endorsement. The claim is that
 Q_{i→j} is the switching surface of that effect: inside A_{i→j}, i's
@@ -96,7 +96,7 @@ grant and the effect.
 
 **Joint realizability.** Collect the acceptance relations of every
 required ordered pair. Whether some attainable arrangement meets them all
-is CLAIM-347's question with acceptance sets indexed by ordered pairs.
+is [CLAIM-347](CLAIM-347.md)'s question with acceptance sets indexed by ordered pairs.
 A12 §3: "every pair of perspectives might admit a mutually acceptable
 relationship, while the complete collection does not." So conditional
 endorsements can be jointly frustrated "even without any constituent
@@ -112,12 +112,12 @@ perspective can contest it.
 
 - **That meeting a criterion is endorsing.** A criterion met with no
   channel or rule to carry it raises nobody's influence. That gap is
-  QUESTION-270's denied uptake and CLAIM-283's split between precedence
+  [QUESTION-270](../questions.d/QUESTION-270.md)'s denied uptake and [CLAIM-283](CLAIM-283.md)'s split between precedence
   claimed and authority granted.
 - **That the criterion is an attitude.** It may be subpersonal and not
-  represented, as TERM-053 allows. The reflective sense is
-  TERM-tmp0evbm.
-- **That widening a tolerance relieves frustration.** By CLAIM-347 it
+  represented, as [TERM-053](../terms.d/TERM-053.md) allows. The reflective sense is
+  [TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md).
+- **That widening a tolerance relieves frustration.** By [CLAIM-347](CLAIM-347.md) it
   changes the demand. Relief needs a new arrangement that meets the old
   criteria. A13 §6: "A widened tolerance is not automatically relief of
   frustration under the original demands."

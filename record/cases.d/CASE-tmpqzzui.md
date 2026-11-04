@@ -20,7 +20,7 @@ illustrates:
 summary: >-
   A8's Proposal A, from the exchange "Organizational Nucleation and SLT"
   (2026-11-04), answering the owner's U8 request for CASEs the record
-  lacks. CASE-119 stipulates a complex with every edge and no triangle.
+  lacks. [CASE-119](CASE-119.md) stipulates a complex with every edge and no triangle.
   This one derives it from ecological dynamics, with every pair's dynamics
   identical at every b. A stated two results. The reader confirmed both by
   simulation, derived the two thresholds, and found a bistable band A did
@@ -57,7 +57,7 @@ operates when all three populations are present".
   present."
 
 The persistence of a species stands in for a demand here. That is a
-modelling choice, as in CASE-118.
+modelling choice, as in [CASE-118](CASE-118.md).
 
 ## Results
 
@@ -107,32 +107,32 @@ depends on the declared notion of compatibility:
 ## What it shows and does not
 
 **It shows that a missing simplex can be derived, not only stipulated.**
-CASE-119's point, that pairwise compatibility does not fix joint
+[CASE-119](CASE-119.md)'s point, that pairwise compatibility does not fix joint
 compatibility, here comes out of dynamics. Every pair is held exactly
 fixed while b varies. A8: "a precise example of community-level
 frustration that cannot be diagnosed from pairwise coexistence data."
 
-**It shows that the face criterion is part of what is declared.** CLAIM-347
+**It shows that the face criterion is part of what is declared.** [CLAIM-347](../claims.d/CLAIM-347.md)
 indexes the complex to an organization, a horizon and a budget. This case
 adds a further index: what counts as joint persistence. In the band, robust
 permanence and stable coexistence give different complexes. This is
-CLAIM-534's point that integration has to be "kept so under its own
+[CLAIM-534](../claims.d/CLAIM-534.md)'s point that integration has to be "kept so under its own
 dynamics", made sharper.
 
-**It is the nonlinear case THEORY-598 marks.** THEORY-598 says group terms
+**It is the nonlinear case [THEORY-598](../theory.d/THEORY-598.md) marks.** [THEORY-598](../theory.d/THEORY-598.md) says group terms
 that enter linearly reduce to pairwise dynamics, while bistability comes
 from group terms that enter nonlinearly. The b term is a product, and the
 band is its bistability. The organizational counterpart is the bistable
-authority balance of CLAIM-459 and CASE-112.
+authority balance of [CLAIM-459](../claims.d/CLAIM-459.md) and [CASE-112](CASE-112.md).
 
-**Its invasion structure is acyclic.** THEORY-1168 shows that the invasion
+**Its invasion structure is acyclic.** [THEORY-1168](../theory.d/THEORY-1168.md) shows that the invasion
 graph of symmetric Lotka–Volterra has no cycles. This model is not
 Lotka–Volterra, because of the product term. Its invasion structure, from
 singletons to pairs with no edge into the triple, is acyclic in any case.
-NOTE-1379, a reading of Hofbauer and Schreiber (LIT-1233), gives the
+[NOTE-1379](../notes.d/NOTE-1379.md), a reading of Hofbauer and Schreiber ([LIT-1233](../literature.d/LIT-1233.md)), gives the
 invasion-graph criterion for permanence.
 
 **It does not show relief.** A8 suggested adding an adaptive variable
 that lowers the effective three-way term. A8: "This would not establish
 that differentiation is spontaneously learned. That additional mechanism
-would have to be specified and tested." That is QUESTION-133.
+would have to be specified and tested." That is [QUESTION-133](../questions.d/QUESTION-133.md).

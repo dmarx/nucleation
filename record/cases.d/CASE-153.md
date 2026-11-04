@@ -151,15 +151,15 @@ The owner's U27 asked to "numerically simulate a dynamically maintained will org
 **What the reader's checks qualify.** Each of these is the reader's.
 - **The evidence channel sets the ranking.** The responsive law scores authority mainly on a noisy copy of the target. With that cue's weight set to 0, it falls to .444 over 20 seeds, below activation-only. A says "This setting favors evidence-responsive governance by design."
 - **Switching cost reverses the ranking.** Charging λ per unit of authority change, per step, the fixed law overtakes the responsive one at λ ≈ 9.3. A said "A different cost structure could therefore alter the ranking."
-- **Sticky is capture, not failed release.** It takes Explore early and keeps it: on seed 7, Explore leads in all three contexts. That is CLAIM-277's "the same loop entrenches whatever gained influence early", not this case's escalation followed by failed release.
-- **The evidence is exogenous.** No regime can shift the evidence used to judge it, so the toy cannot show CLAIM-445's self-maintenance or this case's restriction of evidence. It has no hidden state, no learning and no audit, so it is a weaker model than this case.
-- **No gluing obstruction is possible.** The contexts form a path in time, so the nerve has no cycle. By CLAIM-153 and CLAIM-197 nothing can fail to glue there. A said so: "This is approximate reconciliation, not exact sheaf gluing."
+- **Sticky is capture, not failed release.** It takes Explore early and keeps it: on seed 7, Explore leads in all three contexts. That is [CLAIM-277](../claims.d/CLAIM-277.md)'s "the same loop entrenches whatever gained influence early", not this case's escalation followed by failed release.
+- **The evidence is exogenous.** No regime can shift the evidence used to judge it, so the toy cannot show [CLAIM-445](../claims.d/CLAIM-445.md)'s self-maintenance or this case's restriction of evidence. It has no hidden state, no learning and no audit, so it is a weaker model than this case.
+- **No gluing obstruction is possible.** The contexts form a path in time, so the nerve has no cycle. By [CLAIM-153](../claims.d/CLAIM-153.md) and [CLAIM-197](../claims.d/CLAIM-197.md) nothing can fail to glue there. A said so: "This is approximate reconciliation, not exact sheaf gluing."
 
 **"Frustration", misread.** A's code comment reads "Frustration term is small and independent of task-performance reward." It names the rise in a process's drive when its authority is below 0.4.
-- (a) That is deprivation of one constituent, nearer QUESTION-131's operative thwarting. As a mechanism it is worth keeping.
-- (b) In TERM-060's sense, the toy's three demands g_i ≥ 0.4 are structurally frustrated: a hollow triangle, CASE-119's shape. A would likely have measured governance-induced frustration: the share of steps on which a feasible pair face that the context made relevant went unselected.
+- (a) That is deprivation of one constituent, nearer [QUESTION-131](../questions.d/QUESTION-131.md)'s operative thwarting. As a mechanism it is worth keeping.
+- (b) In [TERM-060](../terms.d/TERM-060.md)'s sense, the toy's three demands g_i ≥ 0.4 are structurally frustrated: a hollow triangle, [CASE-119](CASE-119.md)'s shape. A would likely have measured governance-induced frustration: the share of steps on which a feasible pair face that the context made relevant went unselected.
 - (c) The owner had corrected "competition" to frustration at U7.
 
-**"Support", rightly read.** A's support term, a_j·q_i, is TERM-053 endorsement, and A correctly says "Support is not Frankfurtian identification." It is undiscriminating, though: every active process supports every other. Read with the owner's U12, the grant would depend on j's tolerance of i's proposal (CLAIM-tmpgjdby).
+**"Support", rightly read.** A's support term, a_j·q_i, is [TERM-053](../terms.d/TERM-053.md) endorsement, and A correctly says "Support is not Frankfurtian identification." It is undiscriminating, though: every active process supports every other. Read with the owner's U12, the grant would depend on j's tolerance of i's proposal ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)).
 
-CASE-117 holds the comparison of influence laws as a design. The case is unchanged.
+[CASE-117](CASE-117.md) holds the comparison of influence laws as a design. The case is unchanged.

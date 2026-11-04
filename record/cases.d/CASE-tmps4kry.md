@@ -37,8 +37,8 @@ summary: >-
 
 ## The construction
 
-**The model.** This is the toy model of superposition (LIT-323) in Chen et
-al.'s setting (LIT-1894, read in NOTE-1462):
+**The model.** This is the toy model of superposition ([LIT-323](../literature.d/LIT-323.md)) in Chen et
+al.'s setting ([LIT-1894](../literature.d/LIT-1894.md), read in [NOTE-1462](../notes.d/NOTE-1462.md)):
 
 - c = 6 input features and r = 2 hidden dimensions;
 - output f(x) = ReLU(WᵀWx + b);
@@ -59,7 +59,7 @@ the six L_i is the population loss in this limit. So the decomposition splits
 the model's own loss by which feature is active. It is not imposed from
 outside the model.
 
-**The complex.** CLAIM-347's complex, with the attainable set taken as a
+**The complex.** [CLAIM-347](../claims.d/CLAIM-347.md)'s complex, with the attainable set taken as a
 critical point, or as a neighbourhood of one:
 
   𝒦(U; ε) = {S : U ∩ ⋂_{i∈S} A_i(ε) ≠ ∅}.
@@ -72,7 +72,7 @@ quadrature on 4001 points.
 **The critical points reproduce the recorded losses.** Each phase's a and b
 are optimized numerically.
 
-| phase | a | b | mean loss | Table 1 (NOTE-1462) |
+| phase | a | b | mean loss | Table 1 ([NOTE-1462](../notes.d/NOTE-1462.md)) |
 |---|---|---|---|---|
 | 5-gon | 1.1705 | −0.2823 | 0.06874 | 0.06874 |
 | 6-gon | 1.3205 | −0.6180 | 0.04819 | 0.04819 |
@@ -124,30 +124,30 @@ is made only for the critical points.
 
 ## What it shows and does not
 
-**It shows one SLT transition read in CLAIM-347's terms.** NOTE-1462 and
-THEORY-1275 hold that the posterior moves from the 5-gon to the 6-gon at
+**It shows one SLT transition read in [CLAIM-347](../claims.d/CLAIM-347.md)'s terms.** [NOTE-1462](../notes.d/NOTE-1462.md) and
+[THEORY-1275](../theory.d/THEORY-1275.md) hold that the posterior moves from the 5-gon to the 6-gon at
 n_cr ≈ 601. Read as a change of attainable set, that move is relief at
 moderate tolerance: a dropped demand becomes satisfiable, and no face is lost.
 At tight tolerance it is a trade: five demands met well give way to six met
-less well. This fits CLAIM-tmpzj6at. The same parameter space carries both the
+less well. This fits [CLAIM-tmpzj6at](../claims.d/CLAIM-tmpzj6at.md). The same parameter space carries both the
 singular geometry (λ = 7 against 8.5) and the complex, and the complex alone
 says whether the transition is relief.
 
-**It is not CASE-119's kind of change.** CASE-119 fills a missing triangle,
+**It is not [CASE-119](CASE-119.md)'s kind of change.** [CASE-119](CASE-119.md) fills a missing triangle,
 so β₁ goes from 1 to 0. Here no hole is filled: a vertex is added. A3's
 conjecture, that "some developmental transitions are changes in the topology
 of the system's effective organizational possibilities", is met here only in
 the weak sense of a new vertex.
-This bears on QUESTION-275 and on A4's narrow hypothesis.
+This bears on [QUESTION-275](../questions.d/QUESTION-275.md) and on A4's narrow hypothesis.
 
 **It does not show:**
 
-- That SGD makes the transition. THEORY-1275 records that the 5 → 6
+- That SGD makes the transition. [THEORY-1275](../theory.d/THEORY-1275.md) records that the 5 → 6
   transition "has not been observed as a dynamical transition", and
-  QUESTION-363 asks when the two orders agree.
+  [QUESTION-363](../questions.d/QUESTION-363.md) asks when the two orders agree.
 - That a common tolerance is the right choice. With per-demand tolerances,
   other bands appear.
 - Anything about neighbourhoods beyond the sampled radius, or about the
   posterior-weighted complex.
 - That these demands are the network's own. They are the trainer's
-  (TERM-060, CLAIM-288).
+  ([TERM-060](../terms.d/TERM-060.md), [CLAIM-288](../claims.d/CLAIM-288.md)).
