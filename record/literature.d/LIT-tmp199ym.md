@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmptsczp) from the publisher's typeset PDF posted
+  read 2026-11-04 ([NOTE-tmptsczp](../notes.d/NOTE-tmptsczp.md)) from the publisher's typeset PDF posted
   on the first author's lab publications page; worth reading as the neural
-  follow-up to Collins and Frank (2013), LIT-tmpe9iv8, and as a worked
+  follow-up to Collins and Frank (2013), [LIT-tmpe9iv8](LIT-tmpe9iv8.md), and as a worked
   case of corroborating a latent, individually built rule structure with
   several observables at once. It re-analyses that paper's Experiment 2
   participants (N = 35), so it is not an independent sample; the
@@ -73,11 +73,11 @@ Collins, A. G. E., Cavanagh, J. F. & Frank, M. J. (2014). Human EEG Uncovers Lat
 
 ## Key takeaways
 
-*From the reading, NOTE-tmptsczp. Page numbers are the journal's.*
+*From the reading, [NOTE-tmptsczp](../notes.d/NOTE-tmptsczp.md). Page numbers are the journal's.*
 
 - **The same participants as the 2013 Experiment 2.** Forty recruited,
   two lost to software problems and three excluded, N = 35, as in
-  LIT-tmpe9iv8's Experiment 2; first-block behaviour "were reported by
+  [LIT-tmpe9iv8](LIT-tmpe9iv8.md)'s Experiment 2; first-block behaviour "were reported by
   Collins and Frank, 2013" (p. 4679).
 - **A switch potential for the context dimension only.** The late
   negativity "is sensitive only to change in high-level TS and not to the
@@ -97,9 +97,9 @@ The pasted synthesis mentioned it unnamed, as having found neural signals
 for participants' inferred rule structures that predicted later
 generalization. That is right in outline and overstated in detail: only
 two of the three markers predicted transfer, neither the headline one,
-and the sample is the 2013 paper's own. Filed from it: THEORY-tmpiosxd.
+and the sample is the 2013 paper's own. Filed from it: [THEORY-tmpiosxd](../theory.d/THEORY-tmpiosxd.md).
 It is more correlational evidence of task-set coding in lateral
-prefrontal cortex, the kind THEORY-484's promotion condition says cannot
-settle that theory, and a case for QUESTION-276 of corroborating a latent
+prefrontal cortex, the kind [THEORY-484](../theory.d/THEORY-484.md)'s promotion condition says cannot
+settle that theory, and a case for [QUESTION-276](../questions.d/QUESTION-276.md) of corroborating a latent
 structure through several observables. No instruction for
 machine-learning practice.

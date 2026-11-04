@@ -144,7 +144,7 @@ from LDA check ([NOTE-1519](../notes.d/NOTE-1519.md)).
 
 ## Note of 2026-11-04: Kemp, Perfors and Tenenbaum, "Learning overhypotheses", read
 
-LIT-tmplu70i, read in NOTE-tmpazn9q, supports this claim's first half. Its
+[LIT-tmplu70i](../literature.d/LIT-tmplu70i.md), read in [NOTE-tmpazn9q](../notes.d/NOTE-tmpazn9q.md), supports this claim's first half. Its
 model is a three-level hierarchy whose categories are exchangeable given
 the higher-level parameters (α, β): hierarchical, and organizationally flat
 in this claim's sense. Its ontological-kinds extension adds a partition of
@@ -156,7 +156,7 @@ status changes.
 
 ## Note of 2026-11-04: Kemp, Goodman and Tenenbaum, "Learning to Learn Causal Models", read
 
-LIT-tmp6aw6y, read in NOTE-tmpvyejl, qualifies this claim. Its causal
+[LIT-tmp6aw6y](../literature.d/LIT-tmp6aw6y.md), read in [NOTE-tmpvyejl](../notes.d/NOTE-tmpvyejl.md), qualifies this claim. Its causal
 schema carries models for pairs of categories, dependencies among latent
 components learned from intervention data (a block placed in a machine),
 which is nearer what this claim counts as organization than an

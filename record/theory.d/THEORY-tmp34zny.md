@@ -17,7 +17,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpe9iv8
 summary: >-
-  Collins and Frank (2013), LIT-tmpe9iv8, read in NOTE-tmpi89bb. Proposed:
+  Collins and Frank (2013), [LIT-tmpe9iv8](../literature.d/LIT-tmpe9iv8.md), read in [NOTE-tmpi89bb](../notes.d/NOTE-tmpi89bb.md). Proposed:
   positive transfer replicated across the paper's two experiments (N = 33,
   N = 35) but is modest (t = 2.37, p = .024 in Experiment 1), and the
   negative-transfer interaction was significant over the whole group only
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Collins and Frank (2013), LIT-tmpe9iv8; read in NOTE-tmpi89bb.
+Collins and Frank (2013), [LIT-tmpe9iv8](../literature.d/LIT-tmpe9iv8.md); read in [NOTE-tmpi89bb](../notes.d/NOTE-tmpi89bb.md).
 
 ## What was actually shown
 

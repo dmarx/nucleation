@@ -17,8 +17,8 @@ date: '2026-11-04'
 source:
 - LIT-tmp8aj28
 summary: >-
-  Lake, Salakhutdinov & Tenenbaum (2015), LIT-tmp8aj28, main text read in
-  NOTE-tmp6p61k. BPL erred 3.3% against people's 4.5% on 20-way one-shot
+  Lake, Salakhutdinov & Tenenbaum (2015), [LIT-tmp8aj28](../literature.d/LIT-tmp8aj28.md), main text read in
+  [NOTE-tmp6p61k](../notes.d/NOTE-tmp6p61k.md). BPL erred 3.3% against people's 4.5% on 20-way one-shot
   classification within 10 held-out Omniglot alphabets; judges identified
   its productions at 49–59% in four visual Turing tests; lesions without
   learning to learn or without compositionality erred 11.0% and 14.0% and
@@ -27,13 +27,13 @@ summary: >-
   reading did not cover. The wording is the reader's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmp8aj28 NOTE-tmp6p61k — new; the reading of Lake, Salakhutdinov & Tenenbaum (2015) this account is filed from -->
+<!-- inactive-ok-file: NOTE-tmp6p61k — new; the reading of Lake, Salakhutdinov & Tenenbaum (2015) this account is filed from -->
 
 # THEORY-tmp4s0in: Lake, Salakhutdinov and Tenenbaum show that a model representing handwritten characters as probabilistic programs, composing strokes from primitives learned on other alphabets into types whose executions produce tokens, classifies new characters from one example as accurately as people and generates exemplars and new characters that judges mostly cannot tell from people's, and that removing either compositionality or the learned priors degrades both
 
 ## Source
 
-Lake, Salakhutdinov & Tenenbaum (2015), LIT-tmp8aj28; main text read in NOTE-tmp6p61k.
+Lake, Salakhutdinov & Tenenbaum (2015), [LIT-tmp8aj28](../literature.d/LIT-tmp8aj28.md); main text read in [NOTE-tmp6p61k](../notes.d/NOTE-tmp6p61k.md).
 
 ## What was actually shown
 

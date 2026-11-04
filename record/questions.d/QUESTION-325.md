@@ -57,4 +57,4 @@ simulations to further published effects cannot settle it.
 
 ## Note of 2026-11-04: Gershman, Blei & Niv, "Context, learning, and extinction", read
 
-Gershman, Blei & Niv (2010), LIT-tmpdnjkj, read in NOTE-tmpn30ni, suggest a third option beside an inflated uncertainty estimate and governance. Safety experience may be filed under a new latent cause, leaving the estimate for the avoided state untouched. That needs no inflated uncertainty, only the inference that the safe trials came from a different cause. The paper models no avoidance, so it raises the alternative without bearing on which holds. No status changes.
+Gershman, Blei & Niv (2010), [LIT-tmpdnjkj](../literature.d/LIT-tmpdnjkj.md), read in [NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md), suggest a third option beside an inflated uncertainty estimate and governance. Safety experience may be filed under a new latent cause, leaving the estimate for the avoided state untouched. That needs no inflated uncertainty, only the inference that the safe trials came from a different cause. The paper models no avoidance, so it raises the alternative without bearing on which holds. No status changes.

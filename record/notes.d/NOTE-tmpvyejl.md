@@ -44,7 +44,7 @@ abstract representation above the networks: the causal schema. The
 authors call it "one of the first attempts to explore learning to learn in
 a causal" setting (p. 48). Four experiments on adults test one-shot and
 zero-shot learning shaped by the learned schema. Against Kemp et al.
-(2007), LIT-tmplu70i, the top level is a whole schema, not one or two
+(2007), [LIT-tmplu70i](../literature.d/LIT-tmplu70i.md), the top level is a whole schema, not one or two
 parameters.
 
 ## Key insight
@@ -131,13 +131,13 @@ category.
 
 ## Connections
 
-It extends Kemp, Perfors & Tenenbaum (2007), LIT-tmplu70i, and draws on
+It extends Kemp, Perfors & Tenenbaum (2007), [LIT-tmplu70i](../literature.d/LIT-tmplu70i.md), and draws on
 the infinite relational model, Anderson's rational categorization, Cheng's
 causal power and Griffiths & Tenenbaum's causal Bayes nets, Novick & Cheng
 (2004) and Lu et al. (2008). It cites Lucas & Griffiths (2010) for learning
 the functional form of causal relations, not read here. Hierarchies of
 categories (Kemp et al. 2004; Kemp & Tenenbaum 2008; Schmidt et al. 2006)
-are named as the extension its flat CRP lacks, the direction of LIT-1542's
+are named as the extension its flat CRP lacks, the direction of [LIT-1542](../literature.d/LIT-1542.md)'s
 nested CRP.
 
 ## Bearing on the record
@@ -166,7 +166,7 @@ nested CRP.
     the list of what is given in advance.
   - **Lucas and colleagues (2010).** Lucas & Griffiths, two authors;
     "colleagues" is loose, not wrong. Not read.
-- **QUESTION-276 (overlapping higher-level perspectives from members'
+- **[QUESTION-276](../questions.d/QUESTION-276.md) (overlapping higher-level perspectives from members'
   activity).** Qualifies. Experiment 4 and the model infer latent
   groupings from interaction data alone, with no distinguishing features
   and no fixed number: a precedent for inferring higher-level structure
@@ -175,24 +175,24 @@ nested CRP.
   common causes. But the categories partition and do not overlap, and the
   test is of adults' predictions and sorts, not of an organization's
   response to intervention. Dated note added.
-- **CLAIM-543 (hierarchy alone is not organization).** Qualifies. The
+- **[CLAIM-543](../claims.d/CLAIM-543.md) (hierarchy alone is not organization).** Qualifies. The
   schema's between-category interaction models are dependencies among
   latent components learned from intervention data, nearer to what the
-  claim counts as organization than LIT-tmplu70i's exchangeable
+  claim counts as organization than [LIT-tmplu70i](../literature.d/LIT-tmplu70i.md)'s exchangeable
   categories. They are dependencies in what the components do jointly,
   not components conditioning which others are available, and the
   categories are "not grouped into higher-level categories". Dated note
   added.
-- **THEORY-1012.** Related: categories generate both features and causal
+- **[THEORY-1012](../theory.d/THEORY-1012.md).** Related: categories generate both features and causal
   powers, a partition analogue of a category layer making features
   co-vary.
-- **LIT-1542 and THEORY-969 (nested CRP).** Named by the authors, in
+- **[LIT-1542](../literature.d/LIT-1542.md) and [THEORY-969](../theory.d/THEORY-969.md) (nested CRP).** Named by the authors, in
   effect, as future work.
-- **CASE-165.** Unrelated in formalism: partition, not feature allocation.
-- **THEORY-1137 and LIT-1551 (causal abstraction).** Unrelated: maps
+- **[CASE-165](../cases.d/CASE-165.md).** Unrelated in formalism: partition, not feature allocation.
+- **[THEORY-1137](../theory.d/THEORY-1137.md) and [LIT-1551](../literature.d/LIT-1551.md) (causal abstraction).** Unrelated: maps
   between causal models of one system, not schemata learned across many.
-- **LIT-563 and NOTE-466 (HDDM).** Unrelated in aim.
-- Filed: THEORY-tmpablo5. No instruction for machine-learning practice;
+- **[LIT-563](../literature.d/LIT-563.md) and [NOTE-466](NOTE-466.md) (HDDM).** Unrelated in aim.
+- Filed: [THEORY-tmpablo5](../theory.d/THEORY-tmpablo5.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations
@@ -216,5 +216,5 @@ nested CRP.
 - Do people's judgments about a sparsely observed new object follow the
   causal powers of the category its trials or features assign it to,
   outside the blocks-and-machine paradigm?
-- Can categories inferred from interactions overlap, as QUESTION-276
+- Can categories inferred from interactions overlap, as [QUESTION-276](../questions.d/QUESTION-276.md)
   needs, or must they partition?

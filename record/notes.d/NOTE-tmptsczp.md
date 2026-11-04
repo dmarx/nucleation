@@ -36,7 +36,7 @@ summary: >-
 
 ## Contribution
 
-Collins and Frank (2013), LIT-tmpe9iv8, inferred from behaviour alone that
+Collins and Frank (2013), [LIT-tmpe9iv8](../literature.d/LIT-tmpe9iv8.md), inferred from behaviour alone that
 people build latent task-set structure into a learning problem that does
 not reward it. This paper looks for that structure in the brain, with two
 theory-driven ERP markers and one data-driven decoder, each stratified by
@@ -58,7 +58,7 @@ correlation across participants.
 
 - **The same participants as the 2013 Experiment 2 (p. 4679).** Forty
   recruited, two lost to software problems and three excluded for
-  inattention, N = 35, matching Experiment 2 of LIT-tmpe9iv8: "Behavioral
+  inattention, N = 35, matching Experiment 2 of [LIT-tmpe9iv8](../literature.d/LIT-tmpe9iv8.md): "Behavioral
   results for the first block, during which subjects are naive to task
   structure and thus incidental structure learning can be tested, were
   reported by Collins and Frank, 2013." Here all three blocks are reported,
@@ -132,7 +132,7 @@ correlation across participants.
 
 ## Connections
 
-It extends Collins and Frank (2013), LIT-tmpe9iv8, using its task, its
+It extends Collins and Frank (2013), [LIT-tmpe9iv8](../literature.d/LIT-tmpe9iv8.md), using its task, its
 participants and its network model; it draws on the instructed
 task-switching ERP literature and on rostro-caudal accounts of
 prefrontal hierarchy.
@@ -155,24 +155,24 @@ prefrontal hierarchy.
   Missing: the authors; that the participants are the 2013 paper's
   Experiment 2 (N = 35); the decoding result; the anterior/posterior
   dissociation; the half who did not transfer.
-- **THEORY-484 (options-based hierarchical RL, DLPFC coding the active
+- **[THEORY-484](../theory.d/THEORY-484.md) (options-based hierarchical RL, DLPFC coding the active
   option): qualifies, does not move it.** This is correlational evidence of
-  task-set coding in lateral PFC, the kind THEORY-484's promotion condition
+  task-set coding in lateral PFC, the kind [THEORY-484](../theory.d/THEORY-484.md)'s promotion condition
   says cannot settle it, and of a within-trial state-abstraction hierarchy
   rather than a temporal options hierarchy.
-- **QUESTION-276 (identifying latent higher-level structure from members'
+- **[QUESTION-276](../questions.d/QUESTION-276.md) (identifying latent higher-level structure from members'
   activity): qualifies.** A concrete case of corroborating a latent
   structure through several observables (behaviour, ERPs, a decoder
   trained elsewhere), and of the limit: the latent assignment itself comes
   from a behavioural proxy, and the indices agree only marginally.
-- **CLAIM-262 (discrete switches or continuous reorganization):
+- **[CLAIM-262](../claims.d/CLAIM-262.md) (discrete switches or continuous reorganization):
   adjacent.** Task-set switch potentials are a neural signature of discrete
   regime switching.
-- **THEORY-688**: the same analogy as for the 2013 paper, through negative
-  transfer. **THEORY-245**, the record's nearest prefrontal decoding result,
-  is about consciousness and unrelated in substance. **LIT-563** (HDDM)
+- **[THEORY-688](../theory.d/THEORY-688.md)**: the same analogy as for the 2013 paper, through negative
+  transfer. **[THEORY-245](../theory.d/THEORY-245.md)**, the record's nearest prefrontal decoding result,
+  is about consciousness and unrelated in substance. **[LIT-563](../literature.d/LIT-563.md)** (HDDM)
   shares only authors.
-- Filed: THEORY-tmpiosxd. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpiosxd](../theory.d/THEORY-tmpiosxd.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

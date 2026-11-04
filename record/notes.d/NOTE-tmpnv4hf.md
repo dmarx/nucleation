@@ -163,34 +163,34 @@ mentions deep networks as a possible stronger cue-based rival, untested.
     and tied with BToM on Experiment 1 beliefs. A also omits that the desire
     fit is between scenario types only, that only adults were tested, and
     the sample sizes.
-- **THEORY-538 (Dennett: a system believes and desires when predictable as
+- **[THEORY-538](../theory.d/THEORY-538.md) (Dennett: a system believes and desires when predictable as
   a rational agent).** Qualifies. BToM is a quantitative model of how
   observers ascribe beliefs and desires by assuming approximately rational
   action, the stance's method. But it predicts observers' judgements, not
   agents' behaviour, and the agents were scripted paths, so it is not the
-  measured case THEORY-538's promote_when asks for. Its contrast with a
+  measured case [THEORY-538](../theory.d/THEORY-538.md)'s promote_when asks for. Its contrast with a
   motion heuristic is the closest the record holds.
-- **THEORY-596 (Dennett: ascription assumes rationality and mostly true
+- **[THEORY-596](../theory.d/THEORY-596.md) (Dennett: ascription assumes rationality and mostly true
   beliefs; the believer is an idealisation).** Supports, with a
   qualification: BToM ascribes specific false beliefs within a rationality
   assumption, its softmax β is a fitted version of the slack, and the
   closing "rational to the core" claim about intuitive theories, not actual
-  minds, is close to THEORY-596's idealisation clause.
-- **LIT-911 (Orseau, McGill & Legg, Agents and Devices).** Related in
+  minds, is close to [THEORY-596](../theory.d/THEORY-596.md)'s idealisation clause.
+- **[LIT-911](../literature.d/LIT-911.md) (Orseau, McGill & Legg, Agents and Devices).** Related in
   method: Bayesian inversion of a goal-directed model of a gridworld mover.
-  LIT-911 asks agent or device; BToM assumes an agent and infers its mental
+  [LIT-911](../literature.d/LIT-911.md) asks agent or device; BToM assumes an agent and infers its mental
   states.
-- **THEORY-636 (Quillien: judgements of wanting predict intentionality
+- **[THEORY-636](../theory.d/THEORY-636.md) (Quillien: judgements of wanting predict intentionality
   judgements).** Neighbouring work on folk attribution of desire;
   consistent with, not tested by, this paper.
-- **QUESTION-276.** Related only by analogy, as inference of latent states
+- **[QUESTION-276](../questions.d/QUESTION-276.md).** Related only by analogy, as inference of latent states
   from behaviour; BToM fixes its hypothesis spaces in advance, which is what
   the question wants to avoid.
-- **CASE-153 (the self-protecting sentry).** Formal kin only: a POMDP-style
+- **[CASE-153](../cases.d/CASE-153.md) (the self-protecting sentry).** Formal kin only: a POMDP-style
   hidden world. The one point of contact is that BToM yields
   information-seeking as "implicit epistemic goals" inside an instrumental
   plan.
-- Filed: THEORY-tmpc5lgz. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpc5lgz](../theory.d/THEORY-tmpc5lgz.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

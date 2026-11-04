@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmpn30ni) from the APA version of record posted on
+  read 2026-11-04 ([NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md)) from the APA version of record posted on
   the Gershman lab's publications page; worth reading as the normative,
   nonparametric account of why extinction does not erase conditioning:
   trials are assigned to latent causes under a Chinese restaurant process
@@ -68,7 +68,7 @@ summary: >-
   cause can be inferred, the loss of context-dependence after hippocampal
   lesions and in young rats. Qualitative fits to replotted data.
 ---
-<!-- inactive-ok-file: NOTE-tmpn30ni THEORY-tmp1zlbc CASE-165 — new or Proposed; the reading of Gershman, Blei & Niv (2010) and the account filed from it -->
+<!-- inactive-ok-file: THEORY-tmp1zlbc CASE-165 — new or Proposed; the reading of Gershman, Blei & Niv (2010) and the account filed from it -->
 
 # LIT-tmpdnjkj: Context, learning, and extinction
 
@@ -76,7 +76,7 @@ Gershman, S. J., Blei, D. M. & Niv, Y. (2010). Context, learning, and extinction
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpn30ni. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md). Page numbers are the journal's.*
 
 - **Extinction as a new cause.** "our model predicts ABA renewal as a
   consequence of the animal’s inference that different latent causes are
@@ -99,7 +99,7 @@ Cited by A's synthesis among hierarchical models of cognition. The model's
 hierarchy is shallow (a CRP over causes, a Dirichlet over each cause's
 feature probabilities): it is a nonparametric mixture, not a multi-level
 hierarchy of knowledge. It gives a computational reason, consistent with
-the inhibitory-learning view of LIT-1500, that the original association
+the inhibitory-learning view of [LIT-1500](LIT-1500.md), that the original association
 survives extinction, and it is a worked case of inferring how many hidden
-causes there are, set against the fixed pool of spare states in LIT-615
-and the feature allocation of CASE-165. Filed from it: THEORY-tmp1zlbc.
+causes there are, set against the fixed pool of spare states in [LIT-615](LIT-615.md)
+and the feature allocation of [CASE-165](../cases.d/CASE-165.md). Filed from it: [THEORY-tmp1zlbc](../theory.d/THEORY-tmp1zlbc.md).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpnv4hf) from the publisher's typeset PDF
+  read in full 2026-11-04 ([NOTE-tmpnv4hf](../notes.d/NOTE-tmpnv4hf.md)) from the publisher's typeset PDF
   posted on the Saxe lab site at MIT (Rebecca Saxe is an author); worth
   reading as the quantitative test of Bayesian theory of mind: an observer
   that inverts a model of the agent as an approximately rational planner
@@ -78,7 +78,7 @@ Baker, C. L., Jara-Ettinger, J., Saxe, R. & Tenenbaum, J. B. (2017). Rational qu
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpnv4hf. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpnv4hf](../notes.d/NOTE-tmpnv4hf.md). Page numbers are the journal's.*
 
 - **Joint inversion.** "Here we present a model of core mentalizing
   computations: inferring jointly an actor's beliefs, desires and percepts
@@ -109,8 +109,8 @@ hierarchies it names are the I-POMDP levels and Marr's levels. And the
 cue-based rival is not a simpler lesioned model; it tied on Experiment 1
 beliefs.
 
-It is the nearest held work to LIT-911 in method (Bayesian inversion of a
+It is the nearest held work to [LIT-911](LIT-911.md) in method (Bayesian inversion of a
 goal-directed model of a gridworld mover), and a quantitative instance of
-the rationality-assuming ascription that THEORY-538 and THEORY-596 take
+the rationality-assuming ascription that [THEORY-538](../theory.d/THEORY-538.md) and [THEORY-596](../theory.d/THEORY-596.md) take
 from Dennett, though it predicts observers' judgements, not agents'
-behaviour. Filed from it: THEORY-tmpc5lgz.
+behaviour. Filed from it: [THEORY-tmpc5lgz](../theory.d/THEORY-tmpc5lgz.md).

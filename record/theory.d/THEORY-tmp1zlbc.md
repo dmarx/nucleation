@@ -16,7 +16,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpdnjkj
 summary: >-
-  Gershman, Blei & Niv (2010), LIT-tmpdnjkj, read in NOTE-tmpn30ni. A
+  Gershman, Blei & Niv (2010), [LIT-tmpdnjkj](../literature.d/LIT-tmpdnjkj.md), read in [NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md). A
   Chinese restaurant process mixture over trials, inferred online by a
   particle filter, reproduces acquisition, extinction, ABA and ABC renewal
   and context-specific latent inhibition in simulation; with the
@@ -26,13 +26,12 @@ summary: >-
   fitted parameters and no quantitative comparison with rival models. The
   wording is the reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpdnjkj NOTE-tmpn30ni — new; the reading of Gershman, Blei & Niv (2010) this account is filed from -->
 
 # THEORY-tmp1zlbc: Gershman, Blei and Niv propose that animals in conditioning experiments assign trials to latent causes under a prior admitting an unbounded number of causes, so that extinction is learned as a new cause rather than erasing the conditioned one, and that renewal and the context-dependence of latent inhibition follow from this inference while hippocampal lesions and immaturity abolish them by preventing new causes from being inferred
 
 ## Source
 
-Gershman, Blei & Niv (2010), LIT-tmpdnjkj; read in NOTE-tmpn30ni.
+Gershman, Blei & Niv (2010), [LIT-tmpdnjkj](../literature.d/LIT-tmpdnjkj.md); read in [NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md).
 
 ## What was actually shown
 

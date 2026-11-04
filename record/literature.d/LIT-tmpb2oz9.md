@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmp53s7s) from the publisher's open-access
+  read in full 2026-11-04 ([NOTE-tmp53s7s](../notes.d/NOTE-tmp53s7s.md)) from the publisher's open-access
   PDF on journals.plos.org; worth reading as the source of the Bayesian
   causal-inference observer for multisensory cue combination: the observer
   infers whether two cues share a cause and averages the fused and the
@@ -73,7 +73,7 @@ Körding, K. P., Beierholm, U., Ma, W. J., Quartz, S., Tenenbaum, J. B. & Shams,
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp53s7s. Page numbers are the PDF's.*
+*From the reading, [NOTE-tmp53s7s](../notes.d/NOTE-tmp53s7s.md). Page numbers are the PDF's.*
 
 - **Averaging over causal structures.** The observer does not decide
   "one cause" and then fuse; it weights the fused and the separate
@@ -107,8 +107,8 @@ two-component mixture over causal structure with a fixed prior fitted per
 dataset, and nothing is learned at the upper level across contexts.
 Automaticity is asserted ("continually and effortlessly"), not tested.
 
-It is the formal common-cause observer that THEORY-769 borrows for body
-ownership, and that NOTE-997 and NOTE-992 name as the causal-inference
+It is the formal common-cause observer that [THEORY-769](../theory.d/THEORY-769.md) borrows for body
+ownership, and that [NOTE-997](../notes.d/NOTE-997.md) and [NOTE-992](../notes.d/NOTE-992.md) name as the causal-inference
 model the rubber-hand literature wants tested; it shows such a model fitting
 localization, not ownership. Its observer is ideal relative to its noisy
-measurements, as THEORY-336 holds. Filed from it: THEORY-tmpbqbnn.
+measurements, as [THEORY-336](../theory.d/THEORY-336.md) holds. Filed from it: [THEORY-tmpbqbnn](../theory.d/THEORY-tmpbqbnn.md).

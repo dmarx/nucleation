@@ -30,7 +30,7 @@ source:
 bears_on:
 - QUESTION-276
 summary: >-
-  Kemp, Perfors & Tenenbaum (2007), LIT-tmplu70i, read in NOTE-tmpazn9q.
+  Kemp, Perfors & Tenenbaum (2007), [LIT-tmplu70i](../literature.d/LIT-tmplu70i.md), read in [NOTE-tmpazn9q](../notes.d/NOTE-tmpazn9q.md).
   Learning a constraint is inference over a hierarchy's higher-level
   parameters (α, β): low within-category variability of shape is the
   shape bias. The model reproduces Smith et al.'s first- and second-order
@@ -42,7 +42,7 @@ summary: >-
 
 ## Source
 
-Kemp, Perfors and Tenenbaum (2007), LIT-tmplu70i; read in NOTE-tmpazn9q.
+Kemp, Perfors and Tenenbaum (2007), [LIT-tmplu70i](../literature.d/LIT-tmplu70i.md); read in [NOTE-tmpazn9q](../notes.d/NOTE-tmpazn9q.md).
 
 ## What was actually shown
 

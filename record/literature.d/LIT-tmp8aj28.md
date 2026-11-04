@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  main text read 2026-11-04 (NOTE-tmp6p61k, Skimmed) from the Science
+  main text read 2026-11-04 ([NOTE-tmp6p61k](../notes.d/NOTE-tmp6p61k.md), Skimmed) from the Science
   author copy on Brenden Lake's page; the Supplementary Materials, which
   hold the model specification and controls, were not read. Worth reading
   as the standard demonstration that a hierarchical generative model of
@@ -74,7 +74,7 @@ Lake, B. M., Salakhutdinov, R. & Tenenbaum, J. B. (2015). Human-level concept le
 
 ## Key takeaways
 
-*From the reading of the main text, NOTE-tmp6p61k. Page numbers are the journal's.*
+*From the reading of the main text, [NOTE-tmp6p61k](../notes.d/NOTE-tmp6p61k.md). Page numbers are the journal's.*
 
 - **A generative model of generative models.** Types are programs, tokens
   their executions, images their renderings; priors over each level are
@@ -95,7 +95,7 @@ Lake, B. M., Salakhutdinov, R. & Tenenbaum, J. B. (2015). Human-level concept le
 Cited by A's synthesis as a hierarchical probabilistic model of concept
 learning. Its hierarchy is type, token and image, with the priors fit to
 background alphabets as the level above. The record has no other reading
-on human one-shot concept learning; LIT-615 approaches concept learning by
+on human one-shot concept learning; [LIT-615](LIT-615.md) approaches concept learning by
 active-inference structure learning, and the few-shot accounts of language
-models (THEORY-614, THEORY-251) concern machines that hold no explicit
-generative model. Filed from it: THEORY-tmp4s0in.
+models ([THEORY-614](../theory.d/THEORY-614.md), [THEORY-251](../theory.d/THEORY-251.md)) concern machines that hold no explicit
+generative model. Filed from it: [THEORY-tmp4s0in](../theory.d/THEORY-tmp4s0in.md).

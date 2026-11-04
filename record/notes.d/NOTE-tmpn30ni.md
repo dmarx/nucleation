@@ -132,7 +132,7 @@ A reply to Redish, Jensen, Johnson & Kurth-Nelson (2007), not held, which
 it reformulates; it builds on Courville's (2006) latent-cause work and
 contrasts Fuhs & Touretzky's (2007) dynamic mixture. The record holds none
 of these, nor Bouton's renewal work. The CRP used here is what the nested
-CRP of LIT-1542 (Blei a co-author there too) generalises to trees.
+CRP of [LIT-1542](../literature.d/LIT-1542.md) (Blei a co-author there too) generalises to trees.
 
 ## Bearing on the record
 
@@ -158,37 +158,37 @@ CRP of LIT-1542 (Blei a co-author there too) generalises to trees.
     nonparametric mixture rather than a multi-level hierarchy of knowledge.
   - **The sentence A puts in quotation marks is A's paraphrase**, not the
     paper's.
-- **LIT-1500 / NOTE-1137 (inhibitory learning in exposure; renewal shows
+- **[LIT-1500](../literature.d/LIT-1500.md) / [NOTE-1137](NOTE-1137.md) (inhibitory learning in exposure; renewal shows
   the original learning survives).** Supports: a computational reason the
   original association survives extinction.
-- **THEORY-1193 and QUESTION-333 (fear decline within or across sessions
+- **[THEORY-1193](../theory.d/THEORY-1193.md) and [QUESTION-333](../questions.d/QUESTION-333.md) (fear decline within or across sessions
   does not predict follow-up fear).** Supports as a mechanism: in this
   model the fall in responding during extinction is learning about a new
   cause and says nothing about the old one. The paper does not model
   follow-up fear; that step is the record's.
-- **LIT-983 / NOTE-766 (impaired context disambiguation in post-traumatic
+- **[LIT-983](../literature.d/LIT-983.md) / [NOTE-766](NOTE-766.md) (impaired context disambiguation in post-traumatic
   psychopathology).** Shares the idea that context matters by
   disambiguating hidden causes, in a different formalism; a precursor
-  NOTE-766 could cite.
-- **LIT-615 / NOTE-485 and CLAIM-337 (active-inference structure learning
+  [NOTE-766](NOTE-766.md) could cite.
+- **[LIT-615](../literature.d/LIT-615.md) / [NOTE-485](NOTE-485.md) and [CLAIM-337](../claims.d/CLAIM-337.md) (active-inference structure learning
   by spare hidden-state slots).** Qualifies: a rival formalisation of
   inferring that a new hidden state exists, with an unbounded CRP prior in
   place of a fixed pool of spare slots.
-- **CLAIM-446 and QUESTION-325 (anxiety maintained although safety is
-  experienced), with LIT-1477 / NOTE-1134.** Qualifies tangentially: a
+- **[CLAIM-446](../claims.d/CLAIM-446.md) and [QUESTION-325](../questions.d/QUESTION-325.md) (anxiety maintained although safety is
+  experienced), with [LIT-1477](../literature.d/LIT-1477.md) / [NOTE-1134](NOTE-1134.md).** Qualifies tangentially: a
   belief-level route by which repeated safety leaves the threat estimate
-  standing (safety assigned to a new cause), a rival to CLAIM-446's
+  standing (safety assigned to a new cause), a rival to [CLAIM-446](../claims.d/CLAIM-446.md)'s
   governance-maintained route. The paper models no avoidance.
-- **QUESTION-276 and CASE-165 (identifying perspectives without fixing
+- **[QUESTION-276](../questions.d/QUESTION-276.md) and [CASE-165](../cases.d/CASE-165.md) (identifying perspectives without fixing
   their number; a latent-feature prior).** Qualifies: a worked case of
   inferring an unbounded number of causes, but a mixture allows one cause
   per observation, so it cannot represent overlapping perspectives; the
-  product-style allocation CASE-165 uses is what the paper sets aside
+  product-style allocation [CASE-165](../cases.d/CASE-165.md) uses is what the paper sets aside
   (pp. 204–205).
-- **LIT-1384 / NOTE-1082 (event models segmented at boundaries).** Related:
+- **[LIT-1384](../literature.d/LIT-1384.md) / [NOTE-1082](NOTE-1082.md) (event models segmented at boundaries).** Related:
   a human-memory relative of context as a disambiguator of causes; not
   cited by the paper.
-- Filed: THEORY-tmp1zlbc. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp1zlbc](../theory.d/THEORY-tmp1zlbc.md). No instruction for machine-learning practice.
 
 ## Limitations
 

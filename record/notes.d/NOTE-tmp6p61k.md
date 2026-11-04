@@ -119,11 +119,11 @@ for generative models" (p. 1333).
 ## Connections
 
 It cites Kemp, Perfors & Tenenbaum (2007) for hierarchical priors, not held
-here. The record holds no Omniglot follow-up. LIT-615 / NOTE-485 approaches
+here. The record holds no Omniglot follow-up. [LIT-615](../literature.d/LIT-615.md) / [NOTE-485](NOTE-485.md) approaches
 concept learning by active-inference structure learning, a different route
-to the same question with no overlap in task or claim. CLAIM-090 and
-THEORY-489 treat inductive biases revealed by iterated learning; BPL's
-learned prior is the same notion acquired from background data. LIT-877
+to the same question with no overlap in task or claim. [CLAIM-090](../claims.d/CLAIM-090.md) and
+[THEORY-489](../theory.d/THEORY-489.md) treat inductive biases revealed by iterated learning; BPL's
+learned prior is the same notion acquired from background data. [LIT-877](../literature.d/LIT-877.md)
 studies how deep networks learn compositional data.
 
 ## Bearing on the record
@@ -144,13 +144,13 @@ studies how deep networks learn compositional data.
     it in premotor cortex.
   - **The sentence A puts in quotation marks is A's paraphrase**, not the
     paper's.
-- **THEORY-614, THEORY-496, THEORY-683, THEORY-251 (few-shot and
+- **[THEORY-614](../theory.d/THEORY-614.md), [THEORY-496](../theory.d/THEORY-496.md), [THEORY-683](../theory.d/THEORY-683.md), [THEORY-251](../theory.d/THEORY-251.md) (few-shot and
   in-context learning in language models).** Unrelated in mechanism; a
   natural reference point if the record argues about human and machine
   sample efficiency.
-- **QUESTION-276, CASE-165, LIT-1542.** Unrelated in subject; the only
+- **[QUESTION-276](../questions.d/QUESTION-276.md), [CASE-165](../cases.d/CASE-165.md), [LIT-1542](../literature.d/LIT-1542.md).** Unrelated in subject; the only
   contact is BPL's nonparametric type prior reusing inferred parts.
-- Filed: THEORY-tmp4s0in. It compares with deep networks but gives no
+- Filed: [THEORY-tmp4s0in](../theory.d/THEORY-tmp4s0in.md). It compares with deep networks but gives no
   instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

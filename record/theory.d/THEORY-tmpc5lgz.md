@@ -20,8 +20,8 @@ date: '2026-11-04'
 source:
 - LIT-tmphd2wq
 summary: >-
-  Baker, Jara-Ettinger, Saxe and Tenenbaum (2017), LIT-tmphd2wq, read in
-  full in NOTE-tmpnv4hf. Proposed: two experiments (16 and 176 adults)
+  Baker, Jara-Ettinger, Saxe and Tenenbaum (2017), [LIT-tmphd2wq](../literature.d/LIT-tmphd2wq.md), read in
+  full in [NOTE-tmpnv4hf](../notes.d/NOTE-tmpnv4hf.md). Proposed: two experiments (16 and 176 adults)
   support it against the lesioned models, but the motion heuristic tied on
   Experiment 1 beliefs, the desire fit carries no information within
   scenario type, and the test is cross-validation over the authors' own
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Baker, Jara-Ettinger, Saxe and Tenenbaum (2017), LIT-tmphd2wq; read in
-NOTE-tmpnv4hf.
+Baker, Jara-Ettinger, Saxe and Tenenbaum (2017), [LIT-tmphd2wq](../literature.d/LIT-tmphd2wq.md); read in
+[NOTE-tmpnv4hf](../notes.d/NOTE-tmpnv4hf.md).
 
 ## What was actually shown
 

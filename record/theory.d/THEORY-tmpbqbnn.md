@@ -20,7 +20,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpb2oz9
 summary: >-
-  Körding et al. (2007), LIT-tmpb2oz9, read in full in NOTE-tmp53s7s.
+  Körding et al. (2007), [LIT-tmpb2oz9](../literature.d/LIT-tmpb2oz9.md), read in full in [NOTE-tmp53s7s](../notes.d/NOTE-tmp53s7s.md).
   Proposed: one experiment of the authors' own (19 subjects) and a refit of
   Wallace et al.'s (2004) published data support it, against forced fusion,
   segregation, a MAP rule and two interaction priors, but the rule that
@@ -36,8 +36,8 @@ summary: >-
 
 ## Source
 
-Körding, Beierholm, Ma, Quartz, Tenenbaum and Shams (2007), LIT-tmpb2oz9;
-read in NOTE-tmp53s7s.
+Körding, Beierholm, Ma, Quartz, Tenenbaum and Shams (2007), [LIT-tmpb2oz9](../literature.d/LIT-tmpb2oz9.md);
+read in [NOTE-tmp53s7s](../notes.d/NOTE-tmp53s7s.md).
 
 ## What was actually shown
 
@@ -65,6 +65,6 @@ read in NOTE-tmp53s7s.
   manipulated.
 - That the model is hierarchical in the sense of shared, learned
   higher-level knowledge; the paper never uses the word.
-- Anything about body ownership; THEORY-769 borrows the model class, and
+- Anything about body ownership; [THEORY-769](THEORY-769.md) borrows the model class, and
   this paper supplies no evidence for that use.
 - That there were two new experiments: there was one.

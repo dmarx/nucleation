@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmpi89bb) from the publisher's typeset PDF posted
+  read 2026-11-04 ([NOTE-tmpi89bb](../notes.d/NOTE-tmpi89bb.md)) from the publisher's typeset PDF posted
   on the first author's lab publications page; worth reading as the paper
   that carries Chinese-restaurant-process clustering from category
   learning into task-set learning, with a model, a corticostriatal network
@@ -82,7 +82,7 @@ Collins, A. G. E. & Frank, M. J. (2013). Cognitive control over learning: Creati
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpi89bb. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpi89bb](../notes.d/NOTE-tmpi89bb.md). Page numbers are the journal's.*
 
 - **Clustering contexts by what they predict.** The C-TS model is
   "inspired by nonparametric Bayesian methods" (p. 190): contexts are
@@ -109,10 +109,10 @@ Cited, by authors, year and title, in a pasted synthesis written by
 another assistant, as the source of a model of inferring hidden task-sets
 and reusing or creating them. That much is right. The synthesis's quoted
 summary sentence is its own paraphrase, and the "related 2014 EEG study"
-it adds, LIT-tmp199ym, re-analyses this paper's Experiment 2 participants
-(N = 35), not a new sample. Filed from it: THEORY-tmp34zny. It bears on
-QUESTION-276 as a worked case of inferring an unfixed number of latent
-rules from behaviour, and on THEORY-484 by drawing a line between
+it adds, [LIT-tmp199ym](LIT-tmp199ym.md), re-analyses this paper's Experiment 2 participants
+(N = 35), not a new sample. Filed from it: [THEORY-tmp34zny](../theory.d/THEORY-tmp34zny.md). It bears on
+[QUESTION-276](../questions.d/QUESTION-276.md) as a worked case of inferring an unfixed number of latent
+rules from behaviour, and on [THEORY-484](../theory.d/THEORY-484.md) by drawing a line between
 state-space abstraction over task-sets and the options framework's
 temporal abstraction; the double edge of reuse it shows has an analogue
-in THEORY-688. No instruction for machine-learning practice.
+in [THEORY-688](../theory.d/THEORY-688.md). No instruction for machine-learning practice.

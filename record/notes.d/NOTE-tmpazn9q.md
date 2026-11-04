@@ -130,8 +130,8 @@ Tenenbaum and Xu's Bayesian word learning, and on Smith et al. (2002),
 Jones & Smith (2002), Samuelson (2002) and Nisbett et al. (1983) for the
 data. Colunga & Smith's connectionist account is discussed, not fitted.
 Tree-structured ontologies (Keil's M-constraint) are named as future work,
-the direction the nested CRP of LIT-1542 takes. Its successor in causal
-learning is LIT-tmp6aw6y.
+the direction the nested CRP of [LIT-1542](../literature.d/LIT-1542.md) takes. Its successor in causal
+learning is [LIT-tmp6aw6y](../literature.d/LIT-tmp6aw6y.md).
 
 ## Bearing on the record
 
@@ -157,29 +157,29 @@ learning is LIT-tmp6aw6y.
     the paper; the two predictions; the no-name misfit; the given
     structure. "Transfer between concepts" is fair as second-order
     generalization, a word the paper does not use.
-- **QUESTION-276 (overlapping higher-level perspectives, number not
+- **[QUESTION-276](../questions.d/QUESTION-276.md) (overlapping higher-level perspectives, number not
   fixed).** Qualifies, weakly. The kinds model infers groupings of
   categories without fixing their number, but by partition: each category
   has one kind. A precedent for a number not fixed, not for overlap, which
-  is the Indian-buffet work of LIT-1623, LIT-1556 and CASE-165. Nothing on
+  is the Indian-buffet work of [LIT-1623](../literature.d/LIT-1623.md), [LIT-1556](../literature.d/LIT-1556.md) and [CASE-165](../cases.d/CASE-165.md). Nothing on
   interventions. Dated note added.
-- **CLAIM-543 (hierarchy is not organization).** Supports its first half.
+- **[CLAIM-543](../claims.d/CLAIM-543.md) (hierarchy is not organization).** Supports its first half.
   The model is hierarchical and its categories are exchangeable given
   (α, β): a hierarchy that is organizationally flat in the claim's sense.
   The kinds extension adds a partition, not components conditioning one
-  another. Dated note added. CLAIM-536 is not touched.
-- **CASE-165.** Unrelated in substance: partition, not feature allocation.
-- **LIT-1542 and THEORY-969 (nested CRP).** The lineage: a flat CRP over
+  another. Dated note added. [CLAIM-536](../claims.d/CLAIM-536.md) is not touched.
+- **[CASE-165](../cases.d/CASE-165.md).** Unrelated in substance: partition, not feature allocation.
+- **[LIT-1542](../literature.d/LIT-1542.md) and [THEORY-969](../theory.d/THEORY-969.md) (nested CRP).** The lineage: a flat CRP over
   kinds, with trees named as future work.
-- **LIT-563, NOTE-466 and THEORY-475 (HDDM).** The same machinery for
+- **[LIT-563](../literature.d/LIT-563.md), [NOTE-466](NOTE-466.md) and [THEORY-475](../theory.d/THEORY-475.md) (HDDM).** The same machinery for
   another aim: there partial pooling estimates parameters, here it is the
   psychological theory.
-- **LIT-820, LIT-769 and NOTE-596 (iterated learning; the shape bias in
+- **[LIT-820](../literature.d/LIT-820.md), [LIT-769](../literature.d/LIT-769.md) and [NOTE-596](NOTE-596.md) (iterated learning; the shape bias in
   transmission chains).** Complementary: they measure or infer a learner's
   fixed prior; this paper accounts for how such a bias could be learned.
-- **THEORY-1012 (features made dependent through a layer of
+- **[THEORY-1012](../theory.d/THEORY-1012.md) (features made dependent through a layer of
   categories).** Structurally cognate, in a feature-allocation formalism.
-- Filed: THEORY-tmpi143z. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpi143z](../theory.d/THEORY-tmpi143z.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

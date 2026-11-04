@@ -17,7 +17,7 @@ date: '2026-11-04'
 source:
 - LIT-tmp199ym
 summary: >-
-  Collins, Cavanagh and Frank (2014), LIT-tmp199ym, read in NOTE-tmptsczp.
+  Collins, Cavanagh and Frank (2014), [LIT-tmp199ym](../literature.d/LIT-tmp199ym.md), read in [NOTE-tmptsczp](../notes.d/NOTE-tmptsczp.md).
   Proposed: one sample, the participants of Collins and Frank's (2013)
   Experiment 2 (N = 35; 33 for ERP, 32 for classification), with several
   uncorrected topographic tests and an early-positivity window chosen from
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Collins, Cavanagh and Frank (2014), LIT-tmp199ym; read in NOTE-tmptsczp.
+Collins, Cavanagh and Frank (2014), [LIT-tmp199ym](../literature.d/LIT-tmp199ym.md); read in [NOTE-tmptsczp](../notes.d/NOTE-tmptsczp.md).
 
 ## What was actually shown
 

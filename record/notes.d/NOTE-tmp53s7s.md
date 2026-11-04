@@ -155,33 +155,33 @@ held.
     also performed continually and effortlessly in perception", and the
     Discussion offers the link to cognition as "an intriguing link"; no
     load, timing or awareness manipulation tests it.
-- **THEORY-769 (body ownership as a graded belief in a common cause).**
+- **[THEORY-769](../theory.d/THEORY-769.md) (body ownership as a graded belief in a common cause).**
   Supports the model class, not the claim: this is the formal common-cause
-  observer THEORY-769 borrows, shown to fit localization, and it says
+  observer [THEORY-769](../theory.d/THEORY-769.md) borrows, shown to fit localization, and it says
   nothing about ownership. Its split-half test against all-or-none rivals is
-  a template for the result THEORY-769's promote_when asks for, not an
+  a template for the result [THEORY-769](../theory.d/THEORY-769.md)'s promote_when asks for, not an
   instance of it.
-- **NOTE-997 and NOTE-992.** Both name this paper's lineage (Körding et al.
+- **[NOTE-997](NOTE-997.md) and [NOTE-992](NOTE-992.md).** Both name this paper's lineage (Körding et al.
   2007; Samad et al. 2015) as the causal-inference model the rubber-hand
   literature should test; filing it gives those mentions a target.
-- **THEORY-827 (the rubber hand illusion is multisensory integration, not
+- **[THEORY-827](../theory.d/THEORY-827.md) (the rubber hand illusion is multisensory integration, not
   expectation).** No bearing on its question: there are no expectation or
   demand controls here.
-- **THEORY-336 and LIT-1055 (an ideal observer is optimal relative to the
+- **[THEORY-336](../theory.d/THEORY-336.md) and [LIT-1055](../literature.d/LIT-1055.md) (an ideal observer is optimal relative to the
   information it is given).** Supports. The observer is ideal relative to
   the noisy measurements x_V, x_A, not the stimuli, and the insistence on
   simulating over those measurements is the same point in practice. The
   authors: "there is no reason why the nervous system should be optimal
   under all circumstances".
-- **QUESTION-276 (identifying latent higher-level structure, without fixing
+- **[QUESTION-276](../questions.d/QUESTION-276.md) (identifying latent higher-level structure, without fixing
   its number in advance, from coactivity a common cause produces).**
   Qualifies, as a minimal case: here common-cause inference is Bayesian
   model selection between two structures fixed in advance, which shows it
   can be read from behaviour but not with the number of structures left
   open.
-- **LIT-620 and NOTE-487 (post hoc Bayesian model selection).** Related in
+- **[LIT-620](../literature.d/LIT-620.md) and [NOTE-487](NOTE-487.md) (post hoc Bayesian model selection).** Related in
   method only: here the observer does the model selection, not the analyst.
-- Filed: THEORY-tmpbqbnn. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpbqbnn](../theory.d/THEORY-tmpbqbnn.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

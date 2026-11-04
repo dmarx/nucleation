@@ -86,7 +86,7 @@ transfer in subsequent generalization tests" (p. 190).
   for inattention, N = 33. Experiment 2: 40 recruited, 2 lost to software
   problems and 3 excluded, N = 35, each subject running the experiment
   three times with different shapes and colours. Collins, Cavanagh and
-  Frank (2014), LIT-tmp199ym, re-analyse these Experiment 2 participants
+  Frank (2014), [LIT-tmp199ym](../literature.d/LIT-tmp199ym.md), re-analyse these Experiment 2 participants
   with EEG.
 
 ## Key results
@@ -156,13 +156,13 @@ transfer in subsequent generalization tests" (p. 190).
 ## Connections
 
 It takes the CRP from Bayesian nonparametrics, citing among others the
-nested-CRP paper (LIT-1542), though C-TS uses a flat CRP over task-sets;
+nested-CRP paper ([LIT-1542](../literature.d/LIT-1542.md)), though C-TS uses a flat CRP over task-sets;
 the latent-cause family of Gershman, Blei and Niv (2010); category
 learning models; and the corticostriatal gating models of the authors'
 lab. It sets itself against hierarchical reinforcement learning with
 options, citing Botvinick (2008) rather than Botvinick, Niv and Barto
-(2009), LIT-581 (NOTE-451). Collins, Cavanagh and Frank (2014),
-LIT-tmp199ym, is its EEG follow-up on Experiment 2's participants.
+(2009), [LIT-581](../literature.d/LIT-581.md) ([NOTE-451](NOTE-451.md)). Collins, Cavanagh and Frank (2014),
+[LIT-tmp199ym](../literature.d/LIT-tmp199ym.md), is its EEG follow-up on Experiment 2's participants.
 
 ## Bearing on the record
 
@@ -182,38 +182,38 @@ LIT-tmp199ym, is its EEG follow-up on Experiment 2's participants.
   within-task-set; that structure is costly during acquisition here.
   Wrong only in implication: the 2014 study is of the same participants
   as Experiment 2 (N = 35), not a new sample.
-- **QUESTION-276 (identifying latent higher-level perspectives without
+- **[QUESTION-276](../questions.d/QUESTION-276.md) (identifying latent higher-level perspectives without
   fixing their number): qualifies.** A worked case of inferring a growing
   number of latent rules from behaviour alone, identified only by the
   contingencies they condition; and the C-TS fit to network choices
   recovers the number of PFC stripes used without access to them. But it
   is a partition, not the overlapping allocation the question asks for.
-- **THEORY-484 (options-based hierarchical RL in the brain): qualifies.**
+- **[THEORY-484](../theory.d/THEORY-484.md) (options-based hierarchical RL in the brain): qualifies.**
   The paper says the options framework "does not consider structure in the
   state space for determining which policy applies" (p. 218), and that a
   task-set is like an option only when actions change the state. Task-set
   selection maps to anterior PFC, but as within-trial state abstraction,
   not temporal abstraction.
-- **THEORY-688 (options help only with the right subroutines): supports,
+- **[THEORY-688](../theory.d/THEORY-688.md) (options help only with the right subroutines): supports,
   by analogy.** The same double edge for reused structure: positive
   transfer when a new context fits an old task-set, negative when it partly
   overlaps one.
-- **THEORY-339 (reuse of earlier computation carries its error): supports,
+- **[THEORY-339](../theory.d/THEORY-339.md) (reuse of earlier computation carries its error): supports,
   by analogy.** Negative transfer is error carried by reuse.
-- **THEORY-070 (expected value of control): adjacent.** The paper asks
+- **[THEORY-070](../theory.d/THEORY-070.md) (expected value of control): adjacent.** The paper asks
   why people engage control that does not pay during learning, and
   suggests long-run payoff through generalization; in tension with a
   purely immediate cost–benefit account, though discounted future payoff
   could absorb it.
-- **CLAIM-262 (discrete switches or continuous reorganization): adjacent.**
+- **[CLAIM-262](../claims.d/CLAIM-262.md) (discrete switches or continuous reorganization): adjacent.**
   Task-set switching with persistent PFC states, and a measurable
   switch-cost, is a case of discrete switching.
-- **LIT-1542 and CASE-165: related, not supporting.** A flat CRP, not a
+- **[LIT-1542](../literature.d/LIT-1542.md) and [CASE-165](../cases.d/CASE-165.md): related, not supporting.** A flat CRP, not a
   nested CRP or an Indian buffet prior.
-- **QUESTION-328 (latent-cause models of avoidance): adjacent** through the
+- **[QUESTION-328](../questions.d/QUESTION-328.md) (latent-cause models of avoidance): adjacent** through the
   latent-cause family; it does not bear directly.
-- **LIT-563 (NOTE-466), HDDM: unrelated** beyond the shared lab.
-- Filed: THEORY-tmp34zny. No instruction for machine-learning practice;
+- **[LIT-563](../literature.d/LIT-563.md) ([NOTE-466](NOTE-466.md)), HDDM: unrelated** beyond the shared lab.
+- Filed: [THEORY-tmp34zny](../theory.d/THEORY-tmp34zny.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

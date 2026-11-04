@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpazn9q) from the version of record
+  read in full 2026-11-04 ([NOTE-tmpazn9q](../notes.d/NOTE-tmpazn9q.md)) from the version of record
   posted on the first author's site; worth reading as the paper that made
   learning an inductive constraint, Goodman's overhypothesis, a matter of
   inferring the higher-level parameters of a hierarchical Bayesian model,
@@ -76,7 +76,7 @@ Kemp, C., Perfors, A. & Tenenbaum, J. B. (2007). Learning overhypotheses with hi
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpazn9q. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpazn9q](../notes.d/NOTE-tmpazn9q.md). Page numbers are the journal's.*
 
 - **The thesis.** "Inductive learning is impossible without overhypotheses,
   or constraints on the hypotheses considered by the learner" (p. 307);
@@ -108,9 +108,9 @@ the authors concede a flat model with the right prior could mimic theirs.
 It is the record's first entry on the shape bias, on Goodman's
 overhypotheses and on hierarchical Bayesian models as psychological
 theories of learning to learn. Its successor in causal learning is
-LIT-tmp6aw6y. Its Chinese-restaurant extension partitions categories into
-kinds without fixing their number, which bears weakly on QUESTION-276; it
-does not allow overlap. Complementary to LIT-820 and NOTE-596, which
+[LIT-tmp6aw6y](LIT-tmp6aw6y.md). Its Chinese-restaurant extension partitions categories into
+kinds without fixing their number, which bears weakly on [QUESTION-276](../questions.d/QUESTION-276.md); it
+does not allow overlap. Complementary to [LIT-820](LIT-820.md) and [NOTE-596](../notes.d/NOTE-596.md), which
 measure a learner's inductive bias where this paper accounts for how one
-could be learned. Filed from it: THEORY-tmpi143z. No instruction for
+could be learned. Filed from it: [THEORY-tmpi143z](../theory.d/THEORY-tmpi143z.md). No instruction for
 machine-learning practice; not an anthology candidate.

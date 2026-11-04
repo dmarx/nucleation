@@ -30,7 +30,7 @@ source:
 bears_on:
 - QUESTION-276
 summary: >-
-  Kemp, Goodman & Tenenbaum (2010), LIT-tmp6aw6y, read in NOTE-tmpvyejl.
+  Kemp, Goodman & Tenenbaum (2010), [LIT-tmp6aw6y](../literature.d/LIT-tmp6aw6y.md), read in [NOTE-tmpvyejl](../notes.d/NOTE-tmpvyejl.md).
   A causal schema, a CRP partition of objects with category-level causal
   models, features and pairwise interactions, sits above object-level
   causal Bayes nets; four adult experiments in one paradigm show one-shot
@@ -43,7 +43,7 @@ summary: >-
 
 ## Source
 
-Kemp, Goodman and Tenenbaum (2010), LIT-tmp6aw6y; read in NOTE-tmpvyejl.
+Kemp, Goodman and Tenenbaum (2010), [LIT-tmp6aw6y](../literature.d/LIT-tmp6aw6y.md); read in [NOTE-tmpvyejl](../notes.d/NOTE-tmpvyejl.md).
 Page numbers are the Early View PDF's.
 
 ## What was actually shown

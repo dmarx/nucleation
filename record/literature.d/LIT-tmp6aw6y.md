@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmpvyejl) from the publisher's Early View PDF
+  read 2026-11-04 ([NOTE-tmpvyejl](../notes.d/NOTE-tmpvyejl.md)) from the publisher's Early View PDF
   posted on the first author's site; worth reading as a hierarchical
   Bayesian account of learning to learn in causal cognition, in which a
   causal schema, a partition of objects into categories with
@@ -73,7 +73,7 @@ Kemp, C., Goodman, N. D. & Tenenbaum, J. B. (2010). Learning to Learn Causal Mod
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpvyejl. Page numbers are the Early View PDF's,
+*From the reading, [NOTE-tmpvyejl](../notes.d/NOTE-tmpvyejl.md). Page numbers are the Early View PDF's,
 1–59; add 1184 for the issue's.*
 
 - **The schema.** Members of a category are not given identical causal
@@ -101,10 +101,10 @@ Registered from the owner's pasted synthesis of 2026-11-04, which cites it
 for the claim that a hierarchical model accounted for adults' rapid causal
 learning better than alternatives. The reading confirms the experiments
 and narrows the comparison: two simple baselines, compared qualitatively.
-It extends the overhypothesis programme of LIT-tmplu70i from one or two
+It extends the overhypothesis programme of [LIT-tmplu70i](LIT-tmplu70i.md) from one or two
 top-level parameters to a whole schema. Its Experiment 4 infers categories
 from how objects interact, their number not fixed, which qualifies
-QUESTION-276 and CLAIM-543; the categories still partition. Filed from it:
-THEORY-tmpablo5. No instruction for machine-learning practice; not an
+[QUESTION-276](../questions.d/QUESTION-276.md) and [CLAIM-543](../claims.d/CLAIM-543.md); the categories still partition. Filed from it:
+[THEORY-tmpablo5](../theory.d/THEORY-tmpablo5.md). No instruction for machine-learning practice; not an
 anthology candidate, though it names transfer and multitask learning as
 relatives.

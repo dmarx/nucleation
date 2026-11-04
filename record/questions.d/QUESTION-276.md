@@ -192,19 +192,19 @@ reader; adopting it is the owner's call. No status changes.
 
 ## Note of 2026-11-04: Kemp, Perfors and Tenenbaum, "Learning overhypotheses", read
 
-LIT-tmplu70i, read in NOTE-tmpazn9q, qualifies this question weakly. Its
+[LIT-tmplu70i](../literature.d/LIT-tmplu70i.md), read in [NOTE-tmpazn9q](../notes.d/NOTE-tmpazn9q.md), qualifies this question weakly. Its
 ontological-kinds model puts a Chinese-restaurant prior over categories and
 infers how many kinds there are, objects and substances, from the
 categories' features and their variability, so a higher-level grouping is
 found without its number being fixed. But it is a partition: each category
 belongs to one kind, so it is no precedent for overlap, which remains the
-Indian-buffet line of LIT-1623 and LIT-1556. It says nothing about telling
+Indian-buffet line of [LIT-1623](../literature.d/LIT-1623.md) and [LIT-1556](../literature.d/LIT-1556.md). It says nothing about telling
 such groupings from a common cause, or about interventions. No status
 changes.
 
 ## Note of 2026-11-04: Kemp, Goodman and Tenenbaum, "Learning to Learn Causal Models", read
 
-LIT-tmp6aw6y, read in NOTE-tmpvyejl, qualifies this question. Its
+[LIT-tmp6aw6y](../literature.d/LIT-tmp6aw6y.md), read in [NOTE-tmpvyejl](../notes.d/NOTE-tmpvyejl.md), qualifies this question. Its
 Experiment 4 and model infer categories of objects from pairwise
 interactions alone, with no distinguishing features and their number not
 fixed: a precedent for inferring higher-level structure from how members
@@ -217,16 +217,16 @@ records, membership and authority. No status changes.
 
 ## Note of 2026-11-04: Gershman, Blei & Niv, "Context, learning, and extinction", read
 
-Gershman, Blei & Niv (2010), LIT-tmpdnjkj, read in NOTE-tmpn30ni, give a worked case of inferring latent causes from observations without fixing their number in advance: a Chinese restaurant process mixture. Each observation belongs to exactly one cause, so it cannot represent overlapping perspectives. The authors defend that choice against product-style models (pp. 204–205), and a product-style model is what this question needs. It leaves open the feature-allocation counterpart. No status changes.
+Gershman, Blei & Niv (2010), [LIT-tmpdnjkj](../literature.d/LIT-tmpdnjkj.md), read in [NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md), give a worked case of inferring latent causes from observations without fixing their number in advance: a Chinese restaurant process mixture. Each observation belongs to exactly one cause, so it cannot represent overlapping perspectives. The authors defend that choice against product-style models (pp. 204–205), and a product-style model is what this question needs. It leaves open the feature-allocation counterpart. No status changes.
 
 ## Note of 2026-11-04: Körding, Beierholm, Ma, Quartz, Tenenbaum and Shams, "Causal Inference in Multisensory Perception", read
 
-Körding et al. (2007), LIT-tmpb2oz9, read in NOTE-tmp53s7s, is a minimal case of telling a common cause from independent sources by inference from behaviour. Their observer computes the posterior probability that a visual and an auditory cue share a cause, which the paper says "amounts to a Bayesian model selection problem", and the model fits localization responses better than forced fusion or forced segregation. It qualifies the question rather than answering it: there are two candidate structures, one cause or two, fixed in advance, and their prior is a constant fitted per dataset, so nothing is learned about how many structures there are. It leaves open how the structures, and how many, would be inferred. No status changes.
+Körding et al. (2007), [LIT-tmpb2oz9](../literature.d/LIT-tmpb2oz9.md), read in [NOTE-tmp53s7s](../notes.d/NOTE-tmp53s7s.md), is a minimal case of telling a common cause from independent sources by inference from behaviour. Their observer computes the posterior probability that a visual and an auditory cue share a cause, which the paper says "amounts to a Bayesian model selection problem", and the model fits localization responses better than forced fusion or forced segregation. It qualifies the question rather than answering it: there are two candidate structures, one cause or two, fixed in advance, and their prior is a constant fitted per dataset, so nothing is learned about how many structures there are. It leaves open how the structures, and how many, would be inferred. No status changes.
 
 ## Note of 2026-11-04: Collins and Frank, "Cognitive control over learning", read
 
-LIT-tmpe9iv8, read in NOTE-tmpi89bb, qualifies this question. Its context–task-set model infers a growing number of latent rules from behaviour alone, under a Chinese-restaurant-process prior, with the number not fixed in advance; the clusters are identified only by the stimulus–action–outcome contingencies they condition, not by how the contexts look. The paper's own validation is that the model, fitted to a neural network's choices, recovers the number of prefrontal "stripes" the network used without access to them: a precedent for checking an inferred latent structure against a known one. It leaves the rest open: the structure is a partition, not an overlapping feature allocation; which input dimension is the context is given to the model, or read from a reaction-time proxy; and nothing separates the inferred structure from coactivity that a common cause produces. No status changes.
+[LIT-tmpe9iv8](../literature.d/LIT-tmpe9iv8.md), read in [NOTE-tmpi89bb](../notes.d/NOTE-tmpi89bb.md), qualifies this question. Its context–task-set model infers a growing number of latent rules from behaviour alone, under a Chinese-restaurant-process prior, with the number not fixed in advance; the clusters are identified only by the stimulus–action–outcome contingencies they condition, not by how the contexts look. The paper's own validation is that the model, fitted to a neural network's choices, recovers the number of prefrontal "stripes" the network used without access to them: a precedent for checking an inferred latent structure against a known one. It leaves the rest open: the structure is a partition, not an overlapping feature allocation; which input dimension is the context is given to the model, or read from a reaction-time proxy; and nothing separates the inferred structure from coactivity that a common cause produces. No status changes.
 
 ## Note of 2026-11-04: Collins, Cavanagh and Frank, "Human EEG Uncovers Latent Generalizable Rule Structure", read
 
-LIT-tmp199ym, read in NOTE-tmptsczp, qualifies this question. It corroborates a latent structure, the task-set organization each participant built incidentally, through several observables at once: behavioural transfer, lateral-prefrontal switch potentials stratified by the structure, and a classifier trained on a separate task, two of which covary with later generalization. It also shows the limit. The latent assignment itself comes from a behavioural switch-cost proxy, the indices agree with each other only marginally (ρ = 0.33, p = 0.068), and the sample is Collins and Frank's (2013) Experiment 2, so the corroboration is within one dataset. It leaves open whether observables that are independent in this sense can tell a constructed structure from a common cause. No status changes.
+[LIT-tmp199ym](../literature.d/LIT-tmp199ym.md), read in [NOTE-tmptsczp](../notes.d/NOTE-tmptsczp.md), qualifies this question. It corroborates a latent structure, the task-set organization each participant built incidentally, through several observables at once: behavioural transfer, lateral-prefrontal switch potentials stratified by the structure, and a classifier trained on a separate task, two of which covary with later generalization. It also shows the limit. The latent assignment itself comes from a behavioural switch-cost proxy, the indices agree with each other only marginally (ρ = 0.33, p = 0.068), and the sample is Collins and Frank's (2013) Experiment 2, so the corroboration is within one dataset. It leaves open whether observables that are independent in this sense can tell a constructed structure from a common cause. No status changes.
