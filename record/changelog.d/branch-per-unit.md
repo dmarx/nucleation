@@ -1,1 +1,1 @@
-At the owner's instruction, each logical unit of work goes on its own branch, cut from the default branch, with its own pull request ([ADR-tmp8mm4e](record/decisions.d/ADR-tmp8mm4e.md)); CLAUDE.md's Working section says so.
+At the owner's instruction, each logical unit of work goes on its own branch, cut from the default branch, with its own pull request ([ADR-071](record/decisions.d/ADR-071.md)); CLAUDE.md's Working section says so.
