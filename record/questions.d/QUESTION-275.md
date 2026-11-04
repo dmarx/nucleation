@@ -314,8 +314,8 @@ only from 0.0482 to 1/3, and it adds a vertex rather than filling a hole.
   from phase transition and from self-formation. That reading is held as a
   route in [QUESTION-281](QUESTION-281.md) ("nucleation across a finite barrier from a locally
   stable state"). Its three-way split is [QUESTION-281](QUESTION-281.md)'s closing question.
-  Lei Dong's driven-nucleation preprint (arXiv 2607.27281, not held) is a
-  candidate source.
+  Lei Dong's driven-nucleation preprint (LIT-tmpywx5m, registered unread at
+  the owner's request) is a candidate source.
 - (b) Read as the name of this record, the proposal is the question above.
   Does a learner's Bayesian or dynamical transition coincide with a strict
   enlargement of the compatibility complex of the demands its objective
