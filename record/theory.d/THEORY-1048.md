@@ -59,7 +59,7 @@ summary: >-
   from beneficiaries to helpers, and involves no collective.
 ---
 <!-- inactive-ok-file: THEORY-1235 — Proposed; filed beside this reading by the twenty-fourth status review: the hypothesis itself, whether it is true -->
-<!-- inactive-ok-file: QUESTION-277 LIT-1570 LIT-1225 THEORY-141 — Open, Deferred or Proposed; the question this bears on and the accounts set beside it, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-141 — Open, Deferred or Proposed; the question this bears on and the accounts set beside it, nothing here rests on them -->
 # THEORY-1048: On the Black Queen Hypothesis of Morris, Lenski and Zinser, losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
 
 ## Source

@@ -49,7 +49,6 @@ summary: >-
   the arrangement changes what the system can do is established by analysis of the
   tasks, not by data.
 ---
-<!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1060 — Unavailable; held without a reading, cited as such -->
 
 # NOTE-867: Hutchins — How a cockpit remembers its speeds

@@ -37,7 +37,7 @@ summary: >-
 bears_on:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-186 QUESTION-081 — Proposed or Open; the readings this account generalizes or is set beside, and the question it raises, open -->
+<!-- inactive-ok-file: THEORY-186 — Proposed or Open; the readings this account generalizes or is set beside, and the question it raises, open -->
 
 # THEORY-212: In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic
 

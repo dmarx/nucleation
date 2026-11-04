@@ -4735,4 +4735,859 @@ Chalmers and McQueen's consciousness-collapse paper is filed and read in part, t
   - a decision: the record's own argument is stated ordinally first, with a measure's cardinality stated and partial identification reported as a result ([ADR-052](record/decisions.d/ADR-052.md)).
 - A dated note on [QUESTION-267](record/questions.d/QUESTION-267.md) reading a proxy-keyed potential as a protective lock-in.
 
+### Fixed
+
+- The dialectic page now shows undercuts. A claim that undercuts an ARG joins the thread of the claim the argument concludes, through the `undercuts_support_of` pattern, and names the argument it went through. Five undercuts were on no thread before ([CLAIM-032](record/claims.d/CLAIM-032.md), [CLAIM-035](record/claims.d/CLAIM-035.md), [CLAIM-085](record/claims.d/CLAIM-085.md), [CLAIM-141](record/claims.d/CLAIM-141.md), [CLAIM-144](record/claims.d/CLAIM-144.md)) ([ADR-061](record/decisions.d/ADR-061.md)).
+
+### Documentation
+
+- [ADR-061](record/decisions.d/ADR-061.md), Proposed: the boundary between CLAIM and ARG is redrawn by subject. An ARG is any claim about support, a negative verdict included, and a claim about what a source says is a THEORY. It reports a classification of the 453 claims filed by 2026-10-26 (42 about support, 21 about a source, 17 mixed) and leaves the migration until the decision is accepted. A support claim that Active claims rest on is split rather than superseded, so that no Active claim is left resting on a retired one.
+
+### Added
+
+- Three works on self-categorization theory, filed at the owner's request: Turner et al. 1987, *Rediscovering the Social Group* ([LIT-1723](record/literature.d/LIT-1723.md)); Turner, Oakes, Haslam and McGarty 1994, "Self and Collective" ([LIT-1794](record/literature.d/LIT-1794.md)); and Hornsey 2008's historical review of social identity and self-categorization theory ([LIT-1742](record/literature.d/LIT-1742.md)). The record had held social identity work only as unread fandom papers citing the theory, with none of its sources.
+- The two articles read in full from copies the owner supplied, each Unavailable → Active with a NOTE: Turner et al. 1994 ([NOTE-1284](record/notes.d/NOTE-1284.md)) and Hornsey 2008 ([NOTE-1253](record/notes.d/NOTE-1253.md)). The 1987 book stays Unavailable: the only lawful copy found is an Internet Archive lending item.
+- [THEORY-1114](record/theory.d/THEORY-1114.md) (Proposed): self-categorization theory's core claim, that the level, kind, content and prototype of a self-category vary lawfully with the comparative frame by metacontrast and normative fit, with depersonalization as salience rises. Every result behind it comes through the theory's authors without data, so its promote_when asks for a primary study that varies only the frame. The authors' further speculation, that the self is generated rather than stored, is recorded in the NOTE and not filed.
+- Three open works read in full in place of the 1987 book, each filed Active with a NOTE. Skorich's "Self-Categorization Theory 2.0" ([LIT-1765](record/literature.d/LIT-1765.md), [NOTE-1295](record/notes.d/NOTE-1295.md)), a PsyArXiv critique that quotes the book's chapter 3 with page numbers. Reimer, Schmid, Hewstone and Al Ramiah's textbook chapter ([LIT-1790](record/literature.d/LIT-1790.md), [NOTE-1251](record/notes.d/NOTE-1251.md)). León's "Being one of us" ([LIT-1721](record/literature.d/LIT-1721.md), [NOTE-1309](record/notes.d/NOTE-1309.md)), CC BY. The book's LIT stays Unavailable and now lists what was read in its place, and what is still missing.
+- [THEORY-1112](record/theory.d/THEORY-1112.md) (Proposed, from Skorich): perceiving people as a group entity requires cues to collective intentionality; similarity yields interchangeable members, not a group. It rivals [THEORY-1114](record/theory.d/THEORY-1114.md) on the mechanism.
+- [THEORY-1115](record/theory.d/THEORY-1115.md) (Proposed, from León): a we-identity can arise through mutual individualization, as in close relationships, without depersonalization.
+
+### Added
+
+- The fandom works registered on 2026-10-16, worked through. Four read in full, each Deferred → Active with a NOTE:
+  - Biel 2026 on a European fan community ([LIT-1133](record/literature.d/LIT-1133.md), [NOTE-1299](record/notes.d/NOTE-1299.md));
+  - Berendt and Uhrich 2016 on rivalry ([LIT-1147](record/literature.d/LIT-1147.md), [NOTE-1303](record/notes.d/NOTE-1303.md));
+  - Giulianotti 2002's spectator taxonomy ([LIT-1150](record/literature.d/LIT-1150.md), [NOTE-1244](record/notes.d/NOTE-1244.md));
+  - Siegel's Juggernaut oral history ([LIT-1142](record/literature.d/LIT-1142.md), [NOTE-1272](record/notes.d/NOTE-1272.md)).
+- Three Proposed THEORYs from them:
+  - rivalry's gains for fans run through perceived reciprocity ([THEORY-1113](record/theory.d/THEORY-1113.md));
+  - superordinate fan identification coexists with club identity and is independent of views of governance ([THEORY-1116](record/theory.d/THEORY-1116.md));
+  - the four-type spectator taxonomy and its drift towards the flâneur ([THEORY-1111](record/theory.d/THEORY-1111.md)).
+
+### Changed
+
+- Four fandom works could not be read:
+  - Čater et al. 2026 ([LIT-1138](record/literature.d/LIT-1138.md)) and Qi et al. 2026 ([LIT-1131](record/literature.d/LIT-1131.md)) are Unfetched: CC-licensed copies exist at SAGE, which refused this client.
+  - Wegner et al. 2020 ([LIT-1140](record/literature.d/LIT-1140.md)) and Talarico and Moore 2012 ([LIT-1125](record/literature.d/LIT-1125.md)) are Unavailable: paywalled, with no open copy found.
+- [CASE-098](record/cases.d/CASE-098.md) and [CASE-100](record/cases.d/CASE-100.md) each take a dated note on what the readings add. The Ringer piece dates the Juggernaut line to reshoots but gives no production testimony on why it was added.
+
+### Added
+
+- `social-identity` and `altruism` join the topics ([ADR-062](record/decisions.d/ADR-062.md)), at the owner's word that the vocabulary may be expanded where merited.
+  - They are applied first to this contribution's works on group membership and on self-interest.
+  - They are added beside existing tags on Pettigrew, von Scheve and Ismer, the fandom LITs, Hamilton, Boehm and Parfit.
+- Twenty-eight works filed unread (Deferred), each checked against Crossref or Open Library. They are listed in the curation entry of 2026-10-29. They cover:
+  - the primary studies behind [THEORY-1114](record/theory.d/THEORY-1114.md);
+  - Tajfel's minimal-group experiment and social identity theory;
+  - group-based emotion, crowds and recategorization;
+  - rivalry;
+  - the phenomenology of the "we";
+  - the empathy–altruism debate, self-expansion, identity fusion, self-construal, team reasoning, identity economics, Sober and Wilson, and Johnston.
+- The owner's thesis that no action is selfless, only aimed at a larger self ([CLAIM-491](record/claims.d/CLAIM-491.md), Proposed). It comes with its question ([QUESTION-300](record/questions.d/QUESTION-300.md)) and two counters ([CLAIM-494](record/claims.d/CLAIM-494.md), [CLAIM-492](record/claims.d/CLAIM-492.md)).
+- Two candidate answers to [QUESTION-119](record/questions.d/QUESTION-119.md) ([CLAIM-493](record/claims.d/CLAIM-493.md), [CLAIM-490](record/claims.d/CLAIM-490.md)), a question on whether a rivalry's perceived reciprocity is accurate ([QUESTION-298](record/questions.d/QUESTION-298.md)), and a Proposed term distinguishing a group entity from a category of members ([TERM-096](record/terms.d/TERM-096.md)).
+
+- Ten works on legacy, the self extended in time, filed unread (Deferred) with a question ([QUESTION-301](record/questions.d/QUESTION-301.md)), at the owner's word that Johnston's *Surviving Death* opened that angle. They are listed in the curation entry of 2026-10-29 (022531). Hershfield 2011, the one with an open copy, is Unfetched: Europe PMC refused this client.
+- Fifteen open works read in place of unavailable ones, each Active with a NOTE. The originals stay Unavailable and gain a "Read in its place" section; the curation entry lists the pairs. No stand-in was found for Haslam et al. 1992.
+
+- Sixteen works on obligations to the future (longtermism, existential risk, person-affecting views, intergenerational justice, the psychology of concern for the future), filed with [QUESTION-299](record/questions.d/QUESTION-299.md) at the owner's word extending the legacy line. [ADR-063](record/decisions.d/ADR-063.md) adds the topic `future-generations`.
+
+- Sixteen works on intergenerational trauma and epigenetic transmission, filed with [QUESTION-297](record/questions.d/QUESTION-297.md) at the owner's question: the epigenetic evidence and its sceptics, survivors' descendants, and trauma as group identity.
+
+- Four works on memory that survives metamorphosis and regeneration, filed with [QUESTION-302](record/questions.d/QUESTION-302.md) at the owner's recollection of a child's caterpillar experiment, which turns out to be unpublished.
+- The legacy works are Unavailable, each with its search recorded. Ten open works were read in place of seven of them, among them Scheffler's Tanner Lectures, Many Labs 4 and Chen et al. on terror management. Castano et al. 2002 and Hershfield 2011 were read themselves.
+- Eight of the works on obligations to the future were read, three from the authors' working papers.
+- At the owner's word, "read anything that's still unread", fourteen more works were read: Gardiner, Parfit 2017 and Ramsey on obligations to the future; the moth study and its authors' perspective; and, by other lawful routes than the ones refused before, Markus and Kitayama, Akerlof and Kranton, Zahavi, Rubin and Hewstone, and Botzung et al. Eight works were read in place of seven that stay closed; the curation entry lists the pairs. Six are now Unavailable and Ord's book Unfetched.
+- Six of the trauma works were read: Dias and Ressler, Costa et al., Heijmans et al. (from a thesis reprint) and the three sceptical reviews. Seven are Unavailable and three Unfetched, each with its search recorded. Eight works were read in place of seven of them; the curation entry lists the pairs. Danieli, Norris and Engdahl 2016 was read, on the owner's word, from a co-author's institutional posting of the publisher's PDF. No stand-in was read for Lehrner and Yehuda.
+
+### Changed
+
+- [NOTE-1244](record/notes.d/NOTE-1244.md), [NOTE-1309](record/notes.d/NOTE-1309.md), [NOTE-1251](record/notes.d/NOTE-1251.md), [THEORY-1114](record/theory.d/THEORY-1114.md) and [CASE-098](record/cases.d/CASE-098.md) name the newly filed works they point to.
+- First readings from the batch:
+  - Salice and Miyazono ([LIT-1686](record/literature.d/LIT-1686.md), [NOTE-1266](record/notes.d/NOTE-1266.md)) and Robertson, Akles and Van Bavel ([LIT-1743](record/literature.d/LIT-1743.md), [NOTE-1245](record/notes.d/NOTE-1245.md)) are read and Active. Both filing summaries were corrected by the reading.
+  - Six are Unfetched: free copies were located but refused to this client. They are Botzung et al. (PMC), Zahavi (Copenhagen), Rubin and Hewstone (Durham), Turner 2005 (Wiley), Tyler and Cobbs (SSRN) and Akerlof and Kranton (Duke).
+  - [CLAIM-491](record/claims.d/CLAIM-491.md) takes a note on Salice and Miyazono's team reasoner versus team benefactor.
+  - Swann et al. on identity fusion ([LIT-1735](record/literature.d/LIT-1735.md), [NOTE-1256](record/notes.d/NOTE-1256.md)) and Kilduff, Elfenbein and Staw on rivalry ([LIT-1755](record/literature.d/LIT-1755.md), [NOTE-1292](record/notes.d/NOTE-1292.md)) are read and Active, from copies on co-authors' institutional pages.
+  - Markus and Kitayama is Unfetched: Markus's own posting survives only in the Wayback Machine, which refused this client.
+  - The other seventeen, fourteen articles and three books, are Unavailable. Each status note records where a lawful copy was sought.
+  - [CLAIM-491](record/claims.d/CLAIM-491.md) takes a note on fusion, [CASE-098](record/cases.d/CASE-098.md) a note on Kilduff et al., and [QUESTION-298](record/questions.d/QUESTION-298.md) their partial evidence on reciprocity.
+  - [CLAIM-491](record/claims.d/CLAIM-491.md), [CLAIM-492](record/claims.d/CLAIM-492.md) and [CLAIM-494](record/claims.d/CLAIM-494.md) take notes on the readings done in place of unavailable works.
+  - [LIT-1700](record/literature.d/LIT-1700.md) and [CLAIM-494](record/claims.d/CLAIM-494.md) no longer say Batson et al. ran four experiments; the SEP says two.
+
+### Added
+
+- The exchange "Paper assessment" (2026-10-28 to 29) is filed. The owner asked whether Sarkar, Mukherjee and Sato's "Attention as Lattice Gauge Theory" ([LIT-1820](record/literature.d/LIT-1820.md)) is on to something or AI slop, and then how it connects to the record. It is read in full ([NOTE-1331](record/notes.d/NOTE-1331.md)), and its companion paper is skimmed ([LIT-1803](record/literature.d/LIT-1803.md), [NOTE-1326](record/notes.d/NOTE-1326.md)). Verdict: a sound conditional theorem, standard in lattice gauge theory and synchronization, with framing that outruns it.
+- [THEORY-1140](record/theory.d/THEORY-1140.md) (Active): under per-entity O(d) frame freedom, transports interact only around cycles, through class functions of their holonomy, and an equivariant edge update is Ψ(H)Tᵢⱼ. The symmetry fixes a family of updates, not one mechanism. [THEORY-1158](record/theory.d/THEORY-1158.md) (Proposed): on S4 synchronization, composition gives most of the gain and Wilson-loop routing adds 0.6–7.8 points; the 0.99 AUC is a ceiling the data's construction sets, recomputed here.
+- The record's own argument: [CLAIM-496](record/claims.d/CLAIM-496.md) (Active, demonstrated) holds that agreement between translation routes measures coherence, not fidelity, and is independent of task loss. [CLAIM-495](record/claims.d/CLAIM-495.md) (Active, demonstrated) holds that for O(d) connections compatibility can be partial and graded by direction, where for U(1) it is all or nothing. [QUESTION-319](record/questions.d/QUESTION-319.md) asks whether an organization's holonomy is an error or a feature it maintains. [CASE-185](record/cases.d/CASE-185.md) is a proposed relay-translation study, a variant of [CASE-055](record/cases.d/CASE-055.md).
+- Twenty-three works the exchange recommended are registered unread, every identifier checked. They cover pragmatic corpora and measures, Gromov–Wasserstein alignment and its extensions, learned sheaves, consistency failures, causal and active transport, and the POT library.
+
+- At the owner's request, all twenty-three works are read in full, each with a NOTE. So are Goguen and Burstall's *Institutions* ([LIT-1661](record/literature.d/LIT-1661.md), from the owner's copy, Unfetched → Active) and Nicholson 2026 on Paul Weiss ([LIT-1821](record/literature.d/LIT-1821.md), registered at the owner's request). Thirty-nine THEORYs are filed from them. The curation entry of 09:16 lists them.
+- [TERM-097](record/terms.d/TERM-097.md) (Active, adopted by the owner): coherence, as agreement among the members of a family under a stated correspondence structure, distinct from fidelity, integration and knowledge. It was filed on the owner's question whether the record had TERMs for both; fidelity already has several.
+
+### Changed
+
+- [CASE-185](record/cases.d/CASE-185.md) is corrected by its sources' readings. Its items must be written for it, its criterion must be a panel mean, and its correspondence arm states the identification limits of GW, COOT and anchoring.
+
+- [QUESTION-130](record/questions.d/QUESTION-130.md) (v2) names [LIT-1820](record/literature.d/LIT-1820.md) as carrying its construction further without answering it.
+
+### Fixed
+
+- 282 lint annotations that no longer applied are removed from 267 entries. Each excused nothing: the entries they named have gone Active, or nothing in scope cites them. Two `source-ok` directives that read as stale only because upstream identifiers could not be verified in CI are kept.
+
+### Documentation
+
+- CLAUDE.md now states [ADR-008](record/decisions.d/ADR-008.md): no agent sends an email address to an outside service, and a brief written for another agent must say so. The rule had lived only in the ADR, and this filing broke it three times.
+
+<!-- inactive-ok-file: LIT-1206 LIT-1216 LIT-1609 — Deferred; skimmed, listed -->
+
+### Added
+
+- At the owner's request ("we have a ton of deferred LITs. file readings for any you can find"), the record's 99 Deferred LITs were searched on 2026-10-29 for lawful full texts.
+  - 51 were read in full, and each got a NOTE (Read). They are now Active.
+  - 3 were skimmed: SP 800-53, the SEI insider-threat guide and Herd & Moynihan's introduction. Each got a Skimmed NOTE and stays Deferred.
+  - 14 are now Unfetched, each with the address of a free copy this client was blocked from.
+  - 31 are now Unavailable, each with where the search looked.
+- Three THEORYs, two of them Active and re-derived:
+  - [THEORY-1163](record/theory.d/THEORY-1163.md): Krakauer et al.'s individuality measures cannot decrease as a candidate boundary grows.
+  - [THEORY-1162](record/theory.d/THEORY-1162.md): where Blumenthal et al.'s consumer–resource fixed point loses stability.
+  - [THEORY-1161](record/theory.d/THEORY-1161.md) (Proposed): whether reflected appraisal concentrates power depends on the single-issue step.
+- A curation entry with the outcome for every work and the errors found in the works. It also lists more than a hundred works the readings named that are not registered, and flags two copies taken from course pages for the owner to rule on.
+- The readings found substantive errors in the works, among them:
+  - Zhang et al.'s Proposition 5 is false;
+  - Switch Transformers' auxiliary loss is not minimized by uniform routing;
+  - Hofbauer & Schreiber swap two invasion conditions;
+  - RefraMED's "throughout" fails at 7 months, and its Fisher test does not reproduce.
+
+### Fixed
+
+- Five LIT summaries were wrong in substance and were corrected against the readings: [LIT-1128](record/literature.d/LIT-1128.md), [LIT-1134](record/literature.d/LIT-1134.md), [LIT-1223](record/literature.d/LIT-1223.md), [LIT-1594](record/literature.d/LIT-1594.md) and [LIT-1619](record/literature.d/LIT-1619.md). In all, 49 of the 51 read works' summaries were rewritten against the reading.
+- The acknowledgement in [CLAIM-426](record/claims.d/CLAIM-426.md) of [LIT-1395](record/literature.d/LIT-1395.md), which is now Unavailable, carries an `until` date.
+
+### Added
+
+- [ADR-064](record/decisions.d/ADR-064.md), on the owner's ruling of 2026-10-29. Copies of published articles on university course, faculty and scholarly third-party pages, and authors' own uploads, count as lawful copies to read. Shadow libraries and uploads of whole in-copyright books still do not. [ADR-053](record/decisions.d/ADR-053.md) gets a dated note.
+- The ten works whose copies the first deferred-LIT pass turned down were sought again.
+  - Nine were read in full and are now Active, each with a Read NOTE: Edmondson 1999, the three Pettigrew contact papers, Merton 1948, Nisbett & Wilson 1977, Akkoyunlu et al. 1975, Seeley et al. 2012 and Revonsuo 1999.
+  - Carver 2003 is now Unfetched: its academia.edu upload blocked this client.
+- A curation entry for the pass. It records that Akkoyunlu et al. do state the coordinated attack problem, and finds a misprinted Sobel statistic in Pettigrew & Tropp 2008 (4.38 for 12.43).
+
+### Fixed
+
+- Three LIT summaries were wrong and are corrected against the readings: [LIT-1408](record/literature.d/LIT-1408.md), [LIT-1406](record/literature.d/LIT-1406.md) and [LIT-1214](record/literature.d/LIT-1214.md).
+
+### Added
+
+- A triage of the 162 works that the readings of 2026-10-29 named and did not register, done at the owner's request. Each work was judged by what reading it would do for the record's Open QUESTIONs and open entries.
+  - **18 to file.** Among them: Eberhardt & Lee 2022 with Comolatti & Hoel 2022, which together could settle [THEORY-787](record/theory.d/THEORY-787.md) and [QUESTION-204](record/questions.d/QUESTION-204.md); Pfante et al. 2014 for [QUESTION-252](record/questions.d/QUESTION-252.md); DeMarzo, Vayanos & Zwiebel 2001 for [CLAIM-297](record/claims.d/CLAIM-297.md); Chesson 1990 or 1994 for [QUESTION-083](record/questions.d/QUESTION-083.md) and [QUESTION-132](record/questions.d/QUESTION-132.md); and Lemmer & Wagner 2015 with Scacco & Warren 2018 for [CLAIM-430](record/claims.d/CLAIM-430.md) and [QUESTION-262](record/questions.d/QUESTION-262.md).
+  - **59 to consider.**
+  - **85 to skip:** cited in passing, ML practice, not findable, or already held.
+- Nothing was registered. The curation entry lists each work with the entry it bears on, plus the calls left to the owner.
+
+### Added
+
+- The triage's 18 File-tier works were registered and searched for lawful copies at the owner's request.
+  - 8 were read in full and are now Active: Eberhardt & Lee 2022, Comolatti & Hoel 2022, Ito & Kaneko 2002, Serván & Allesina 2021, the RefraMED EME monograph, Scacco & Warren 2018, Lemmer & Wagner 2015, and the Abrego Garcia remand's discovery order (ECF 79).
+  - 4 are Unfetched: Chesson 1990, Revonsuo & Newman 1999, Edmondson 1996 and Bancoult No 1. Each records the copy's address.
+  - 6 are Unavailable.
+- Two THEORYs, both Active and re-derived:
+  - [THEORY-1167](record/theory.d/THEORY-1167.md): under one intervention distribution, macro effective information cannot exceed micro.
+  - [THEORY-1168](record/theory.d/THEORY-1168.md): a symmetric Lotka–Volterra community's invasion graph is acyclic.
+- [THEORY-787](record/theory.d/THEORY-787.md)'s own defeater is met for effective information. A move to Rejected is put to the owner.
+- [CASE-118](record/cases.d/CASE-118.md)'s 1 − ρ turns out to be Chesson's niche difference, not his overlap.
+- A curation entry for the pass, and dated notes on the entries the readings bear on.
+
+### Fixed
+
+- The record's citation of Bond 2018 ([LIT-1218](record/literature.d/LIT-1218.md)) is corrected: pp. 185–199, in Wilson & Hayes (eds.).
+
+### Added
+
+- The two candidate readings named on 2026-10-29, filed at the owner's request ("find those new candidate readings").
+  - Causal feature learning: Chalupka, Perona & Eberhardt 2016 and the 2017 overview, both read and Active.
+  - [THEORY-1169](record/theory.d/THEORY-1169.md) (Active, re-derived and checked numerically): under one common intervention distribution, a coarse-graining keeps all the micro effective information exactly at causal feature learning's partitions. This gives [QUESTION-204](record/questions.d/QUESTION-204.md)'s second half its test and a partial answer.
+  - Cernat 2011 is registered and Unfetched. Its abstract shows it does not test [CLAIM-430](record/claims.d/CLAIM-430.md)'s defeater.
+- The readings found that Theorems 5 and 12 of Chalupka et al. 2016 are false as stated: effects with proportional columns merge without loss.
+
+<!-- inactive-ok-file: CLAIM-497 ARG-041 QUESTION-335 QUESTION-204 — Proposed or Open; the entries this contribution files or notes -->
+
+### Changed
+
+- [THEORY-787](record/theory.d/THEORY-787.md) (Hoel, Albantakis & Tononi's causal emergence from effective information) moves from Proposed to Rejected, at the owner's direction of 2026-10-30. Its own refutation condition is met: [THEORY-1167](record/theory.d/THEORY-1167.md) shows the macro advantage disappears whenever one intervention distribution is used at both levels. The body is unchanged. [THEORY-1167](record/theory.d/THEORY-1167.md) now `corrects` it.
+
+### Added
+
+- [CLAIM-497](record/claims.d/CLAIM-497.md) (Proposed, thesis, interpretive), the record's own position in place of [THEORY-787](record/theory.d/THEORY-787.md). A system's causes are found at the coarsest description whose interventions are unambiguous: a macro can be the proportionate description, but it never carries more causal information than the micro. It answers [QUESTION-204](record/questions.d/QUESTION-204.md) in part.
+- [ARG-041](record/arguments.d/ARG-041.md) (formal-application), the inference behind that claim. It goes from [THEORY-1167](record/theory.d/THEORY-1167.md) and [THEORY-1169](record/theory.d/THEORY-1169.md) to proportionality, and names the one interpretive premise.
+- [QUESTION-335](record/questions.d/QUESTION-335.md) holds the case the bound does not reach: Hoel's temporal and spatio-temporal macros. Do their gains survive a common distribution, or do they come from comparing a k-step macro with a one-step micro?
+- A dated note on [QUESTION-204](record/questions.d/QUESTION-204.md). Its status is left to the status review.
+
+### Added
+
+- From the owner's exchange "About the Chagossians" (2026-10-26, U1–U12): five documented cases, the Chagossians' expulsion and diaspora ([CASE-169](record/cases.d/CASE-169.md)), federal science and education in 2025–2026 ([CASE-172](record/cases.d/CASE-172.md)), the US Institute of Peace takeover and the police entry before any ruling ([CASE-176](record/cases.d/CASE-176.md)), CECOT ([CASE-175](record/cases.d/CASE-175.md)) and the East Wing ([CASE-170](record/cases.d/CASE-170.md)), each with its particulars held as the exchange's; a Proposed claim that an intervention can change what it would take to correct it ([CLAIM-464](record/claims.d/CLAIM-464.md)); a demonstrated claim that no unilateral capacity to remedy is not no capacity ([CLAIM-457](record/claims.d/CLAIM-457.md)); a Proposed claim that capacity for action and capacity to be corrected are held in different relations ([CLAIM-462](record/claims.d/CLAIM-462.md)); questions on correction between institutions ([QUESTION-278](record/questions.d/QUESTION-278.md), refining [QUESTION-041](record/questions.d/QUESTION-041.md)) and on what certifies that no remedy exists ([QUESTION-279](record/questions.d/QUESTION-279.md)); six Proposed terms, organizational achievement ([TERM-086](record/terms.d/TERM-086.md)), correctability ([TERM-085](record/terms.d/TERM-085.md)), consciousness ([TERM-082](record/terms.d/TERM-082.md)), collective intention ([TERM-080](record/terms.d/TERM-080.md)), moral standing ([TERM-083](record/terms.d/TERM-083.md)) and moral worth ([TERM-081](record/terms.d/TERM-081.md)); and a Proposed decision to pilot a `kind` for TERMs ([ADR-056](record/decisions.d/ADR-056.md)). Twenty works registered unread. A workbench entry and a curation entry.
+- From an audit of all 171 cases, at the owner's request, for propositions a case states that no claim holds: eight claims, each grounded in its case. A4's restoration claim from [CASE-111](record/cases.d/CASE-111.md) ([CLAIM-463](record/claims.d/CLAIM-463.md), demonstrated, Active); a transformation legible for one task and not another ([CLAIM-455](record/claims.d/CLAIM-455.md), from [CASE-154](record/cases.d/CASE-154.md), Active); efficacy without transition ([CLAIM-459](record/claims.d/CLAIM-459.md), from [CASE-112](record/cases.d/CASE-112.md), Active); internal maintenance as the more fragile ([CLAIM-456](record/claims.d/CLAIM-456.md), from [CASE-161](record/cases.d/CASE-161.md)); different remedies for selection and self-scoring ([CLAIM-466](record/claims.d/CLAIM-466.md), from [CASE-162](record/cases.d/CASE-162.md)); governance no better than a router under full information ([CLAIM-467](record/claims.d/CLAIM-467.md), from [CASE-158](record/cases.d/CASE-158.md)); release as well as escalation ([CLAIM-465](record/claims.d/CLAIM-465.md), from [CASE-135](record/cases.d/CASE-135.md)); and the locked-in state's evidential asymmetry ([CLAIM-460](record/claims.d/CLAIM-460.md), from [CASE-107](record/cases.d/CASE-107.md)). Twenty-four further candidates are listed for the owner in a workbench entry. Three objections that were written only into claims' notes are filed as counters: on compensation against [CLAIM-212](record/claims.d/CLAIM-212.md) ([CLAIM-461](record/claims.d/CLAIM-461.md)), on access against [CLAIM-240](record/claims.d/CLAIM-240.md) ([CLAIM-458](record/claims.d/CLAIM-458.md)), and on valence intensity against [CLAIM-440](record/claims.d/CLAIM-440.md) ([CLAIM-468](record/claims.d/CLAIM-468.md)).
+
+### Changed
+
+- Dated notes of 2026-10-27 on eight entries: [CLAIM-421](record/claims.d/CLAIM-421.md) (three interruptions at the scale of a people and a research community), [QUESTION-257](record/questions.d/QUESTION-257.md) (restated by the exchange, and a third case), [CLAIM-348](record/claims.d/CLAIM-348.md) (an override is not a merge), [CLAIM-418](record/claims.d/CLAIM-418.md) (a people's perspective without one agent, and two governments without one), [QUESTION-118](record/questions.d/QUESTION-118.md) (continuation relations and the record's structural realism), [CLAIM-328](record/claims.d/CLAIM-328.md) (a second case of the respects coming apart), [CLAIM-410](record/claims.d/CLAIM-410.md) (interpretation and organizational control in the profile) and [CLAIM-312](record/claims.d/CLAIM-312.md) (an institution's "we cannot" as a failed search). No status, title or warrant changed.
+- [CLAIM-210](record/claims.d/CLAIM-210.md) and [CASE-054](record/cases.d/CASE-054.md) reworded so that they agree: a rendering's provenance is supplied by transport, and descent by common ancestry relates realizations with no transport between them. Neither changes what it claims.
+- A term for descent and its four senses, provenance, lineage, common ancestry and causal descent ([TERM-084](record/terms.d/TERM-084.md)), so that a claim using the word says which; adopted by the owner, and named in `uses` by the nine claims that use the word in one of those senses ([CLAIM-002](record/claims.d/CLAIM-002.md), [CLAIM-191](record/claims.d/CLAIM-191.md), [CLAIM-204](record/claims.d/CLAIM-204.md), [CLAIM-210](record/claims.d/CLAIM-210.md), [CLAIM-246](record/claims.d/CLAIM-246.md), [CLAIM-287](record/claims.d/CLAIM-287.md), [CLAIM-329](record/claims.d/CLAIM-329.md), [CLAIM-417](record/claims.d/CLAIM-417.md), [CLAIM-420](record/claims.d/CLAIM-420.md)).
+
+### Changed
+
+- [ADR-061](record/decisions.d/ADR-061.md) accepted, with its migration: claims about support between the record's entries are now ARGs. 29 ARGs filed, 14 claims superseded by them and 15 split to their subject matter.
+- The ARG scheme gains `uses` (a TERM's `used_by` now names arguments too) and `works`, and one ARG may conclude several theses. The ARGs that replaced claims carry those claims' terms and manuscripts.
+
+### Changed
+
+- Three overdue decisions are given a status at the owner's request.
+  - [ADR-041](record/decisions.d/ADR-041.md) (`Unavailable` for a LIT whose lawful text was sought and not reached) is Active; it has been in force since it was filed.
+  - [ADR-050](record/decisions.d/ADR-050.md) (a usage protocol for "organized", "perspective", "agent" and kindred words) is Deferred at the owner's decision; its terms [TERM-074](record/terms.d/TERM-074.md) and [TERM-072](record/terms.d/TERM-072.md) are unaffected.
+  - [ADR-056](record/decisions.d/ADR-056.md) (a `kind` field for TERM) is Rejected on the pilot it asked for. Eleven of sixteen sampled TERMs sort cleanly. Five force an arbitrary choice, chiefly at the boundary between construct and criterion where the field was meant to work. A curation entry reports the pilot.
+
+### Fixed
+
+- **Narrowings' dropped claims routed by [ADR-047](record/decisions.d/ADR-047.md)'s four kinds.** Status
+  reviews 8 to 14 moved every narrowed reading's wide form to a QUESTION. The
+  sweep (workbench entry of 2026-10-30) files 22 Proposed readings for wide
+  forms the sources assert (kind 1), each extending its narrowed entry and
+  inheriting its promote_when; 2 interpretive claims for the record's own
+  extrapolations (kind 2); and dated notes on [THEORY-335](record/theory.d/THEORY-335.md), -481, -913, -904,
+  -146, -917 and -920 for clauses that were mis-statements (kind 3). The
+  QUESTIONs stay Open beside them.
+
+### Added
+
+- The exchange "Analyze nucleation concepts" (2026-10-30 to 31, U1–U29) is filed. It went from what the record says about specification and individuation, through constructions of endogenous maintenance, dissipative thermodynamics, SLT and self-distillation, to corrigibility, legibility, normativity and will. Seven readers read every turn, checked every record code the replies cited and redid their mathematics. A workbench entry records each turn's findings, what the replies got right and missed, and what was not filed.
+- The owner's own contributions:
+  - a Proposed thesis that competent behaviour does not establish an internal world model ([CLAIM-519](record/claims.d/CLAIM-519.md));
+  - a Proposed thesis that a normative judgment takes a diachronic relatum, what it would have persist, change, come to be or end, resting on [CLAIM-363](record/claims.d/CLAIM-363.md) ([CLAIM-518](record/claims.d/CLAIM-518.md)), with its unanswered objection ([CLAIM-512](record/claims.d/CLAIM-512.md));
+  - two questions, on when SGD's order over training time follows the posterior's order over sample size ([QUESTION-363](record/questions.d/QUESTION-363.md)) and on recursive production as self-distillation ([QUESTION-361](record/questions.d/QUESTION-361.md));
+  - a question on when a learned distinction becomes a concept ([QUESTION-360](record/questions.d/QUESTION-360.md)).
+- Five demonstrated claims, each rechecked:
+  - acyclic production goes extinct, and a self-loop is not closure ([CLAIM-516](record/claims.d/CLAIM-516.md));
+  - interventions on state cannot locate maintenance ([CLAIM-522](record/claims.d/CLAIM-522.md));
+  - coupling strength need not reveal the stability of its maintenance ([CLAIM-521](record/claims.d/CLAIM-521.md));
+  - connectedness of equivalent realizations depends on the admissible paths, and a resource budget below √2 disconnects them ([CLAIM-524](record/claims.d/CLAIM-524.md));
+  - distillation preserves viability only through coverage of the boundary contexts ([CLAIM-517](record/claims.d/CLAIM-517.md)).
+- The constructions behind those claims, as two cases ([CASE-189](record/cases.d/CASE-189.md), a variant of [CASE-111](record/cases.d/CASE-111.md); [CASE-190](record/cases.d/CASE-190.md)).
+- A proposed study of maintained inquiry under capture, damage and out-of-family change ([CASE-186](record/cases.d/CASE-186.md)).
+- A disclaimer that the record has not established corrigibility's desirability ([CLAIM-511](record/claims.d/CLAIM-511.md)).
+- A question on the continuation of will under revision of its own authorizing standards ([QUESTION-364](record/questions.d/QUESTION-364.md)).
+- Twenty-one works registered unread, every identifier checked, and a curation entry.
+
+- At the owner's decisions of 2026-10-31: `control-theory` joins the topics ([ADR-066](record/decisions.d/ADR-066.md)), and is added beside the existing tags of the viability and contraction entries ([LIT-738](record/literature.d/LIT-738.md), [LIT-714](record/literature.d/LIT-714.md), [THEORY-134](record/theory.d/THEORY-134.md), [LIT-1292](record/literature.d/LIT-1292.md), [THEORY-771](record/theory.d/THEORY-771.md), [THEORY-773](record/theory.d/THEORY-773.md)); a Proposed term for "concept" ([TERM-098](record/terms.d/TERM-098.md)), beside its question.
+
+- The twenty-one works are read at the owner's request: twenty-one NOTEs, two of them Skimmed in part, and twenty-eight THEORYs, twenty-one Active. A curation entry lists them, with the errors found in the papers and in the registration.
+- A counter to the owner's world-model thesis, from Richens et al. ([CLAIM-513](record/claims.d/CLAIM-513.md), Active, demonstrated): across a family of goals, a competent policy fixes the world model, a lookup table's included. It defeats the thesis's functional reading only.
+
+- At the owner's review: a proposed study of corrigible resolve against entrenchment ([CASE-188](record/cases.d/CASE-188.md)), and two synthesis notes on [QUESTION-364](record/questions.d/QUESTION-364.md), one on legibility, volitional efficacy and correctability and one on historically situated corrective authority.
+
+- At the owner's question "no ARGs?" ([ADR-061](record/decisions.d/ADR-061.md)): [ARG-042](record/arguments.d/ARG-042.md), Rejected, holds the verdict that the record's constructions of maintained correction do not establish that corrigibility ought to be kept; [CLAIM-520](record/claims.d/CLAIM-520.md) (Active, demonstrated) holds that its value is conditional, and undercuts it. The owner's synthesis on legibility, volitional efficacy and correctability is filed as a claim, [CLAIM-523](record/claims.d/CLAIM-523.md) (Proposed).
+
+- At the owner's second review: a question separating five notions of world model ([QUESTION-362](record/questions.d/QUESTION-362.md)); the owner's formulation of world-modeling as a family of resource-bounded, query-relative capabilities, of which a representational world model is one realization ([CLAIM-514](record/claims.d/CLAIM-514.md), Proposed); the general principle that having a cognitive property is four questions, recoverable, exercisable, realized and maintainable ([CLAIM-515](record/claims.d/CLAIM-515.md), Proposed); and a proposed study comparing architectures matched on competence ([CASE-187](record/cases.d/CASE-187.md)).
+
+### Changed
+
+- Dated notes on [CLAIM-474](record/claims.d/CLAIM-474.md) (the achievements form a partial order, not a nesting, at the owner's U20), [CLAIM-475](record/claims.d/CLAIM-475.md) (three kinds of reachability), [CASE-152](record/cases.d/CASE-152.md), [CLAIM-337](record/claims.d/CLAIM-337.md), [TERM-085](record/terms.d/TERM-085.md) (correctability bounded by legibility) and [QUESTION-285](record/questions.d/QUESTION-285.md). No status, title or warrant of an existing entry changed.
+- [CLAIM-474](record/claims.d/CLAIM-474.md) version 3, at the owner's decision: its title states a partial order of achievements rather than a nested sequence. The five demonstrated claims filed Active stay Active, at the owner's decision.
+- What the readings changed, each in place: the world-model thesis (its generalization item and defeated_if), the SGD question (Chen et al. deny a necessary relation; the maps run from noise scale, not training time), the self-distillation question (Teoh's student is not less informed), the nucleation case and the acyclic-production claim (reversible chemistry, finite size, the infinite-affinity limit), the fold claim (the coupling is lost at the escape time), and the kinetic case (robust invariance, not input-to-state safety). [THEORY-671](record/theory.d/THEORY-671.md) gets a note on the Schlögl counterevidence. A second workbench entry records the decisions and these changes.
+- At the owner's review: the normative thesis narrowed to judgments that need diachronic relations, with evaluation separated from prescription ([CLAIM-518](record/claims.d/CLAIM-518.md) v2, its objection v2); the corrigibility study's endpoints made robust to first-stage selection, with a matched-first-stage branch ([CASE-186](record/cases.d/CASE-186.md) v2); correctability taken out of the definition of a concept ([TERM-098](record/terms.d/TERM-098.md) v2); the world-model thesis's evidential standard sharpened ([CLAIM-519](record/claims.d/CLAIM-519.md) v2); the thermodynamic qualifications made precise ([CASE-189](record/cases.d/CASE-189.md), [CLAIM-521](record/claims.d/CLAIM-521.md)). A third workbench entry records the review.
+- [CLAIM-511](record/claims.d/CLAIM-511.md) version 2: split under [ADR-061](record/decisions.d/ADR-061.md), now the bare proposition, disclaimed and Proposed, as the ARG's conclusion.
+- At the owner's second review: [CLAIM-519](record/claims.d/CLAIM-519.md) says competence is "not sufficient to establish" a world model, not "not evidence"; [ARG-042](record/arguments.d/ARG-042.md) sorts its premises into executed studies, a construction and a proposed experiment.
+
+### Added
+
+- Bencherki, Brummans and Vézy 2024, "Agency Without Agents" ([LIT-1902](record/literature.d/LIT-1902.md)), read in full from the owner's copy ([NOTE-1484](record/notes.d/NOTE-1484.md)), with two Proposed THEORYs: agency redescribed as the affective force by which individuation processes take up one another's excess action ([THEORY-1280](record/theory.d/THEORY-1280.md)), and communication as transduction, the continuity of action through processes ([THEORY-1278](record/theory.d/THEORY-1278.md)). The reading finds a vocabulary for redescription without a criterion that could count against it, and sets it beside [CLAIM-355](record/claims.d/CLAIM-355.md), [CLAIM-418](record/claims.d/CLAIM-418.md), [CLAIM-430](record/claims.d/CLAIM-430.md) and [CLAIM-515](record/claims.d/CLAIM-515.md). Every open copy was refused to this client; a curation entry records where it looked.
+
+### Added
+
+- The works Bencherki, Brummans and Vézy 2024 lean on, at the owner's request: twenty-three registered, every citation checked and every lawful route recorded. Seven are read: Iliadis 2013, Bencherki & Iliadis 2021, Bencherki 2017, Massumi & McKim 2009, *The Principle of Unrest*, Tsoukas & Chia 2002 and Wilhoit 2016. They come with seven NOTEs and nine Proposed THEORYs. Fifteen are Unavailable and one Unfetched. A curation entry lists them and what the sources show about the paper's use of them.
+- At the owner's word that the readings connect more richly to the record, the readings are read against the record's own lines: pragmatic transport, distributed agency and individuation, will-organization, organizational affect and authenticity, and the nucleating argument. Fifty-three dated notes, and new entries:
+  - [CLAIM-525](record/claims.d/CLAIM-525.md): Simondonian information is a change of interpreter, not Blackwell evidence.
+  - [CLAIM-526](record/claims.d/CLAIM-526.md): coexisting levels remove the question of how agents add up, not the question of levels.
+  - [CLAIM-527](record/claims.d/CLAIM-527.md): viable reach, valence and emotion are three quantities.
+  - [QUESTION-365](record/questions.d/QUESTION-365.md): settling an internal conflict outward.
+  - [QUESTION-366](record/questions.d/QUESTION-366.md): whether knowing needs the inquiry's own history.
+  - [ARG-047](record/arguments.d/ARG-047.md), Rejected: correcting the first filing's link to [CLAIM-418](record/claims.d/CLAIM-418.md).
+
+  A workbench entry records the pass.
+
+- Six ARGs for support relations the connections pass recorded in dated notes ([ADR-061](record/decisions.d/ADR-061.md)).
+  - Proposed: Tsoukas & Chia's radial extension as a second line for [CLAIM-418](record/claims.d/CLAIM-418.md) ([ARG-048](record/arguments.d/ARG-048.md)); the MSF meeting for [CLAIM-430](record/claims.d/CLAIM-430.md)'s first and third parts ([ARG-044](record/arguments.d/ARG-044.md)); Bencherki's checklist and daycare for [CLAIM-518](record/claims.d/CLAIM-518.md) ([ARG-043](record/arguments.d/ARG-043.md)).
+  - Rejected: the Navy TQ case does not hold proposals fixed for [CLAIM-122](record/claims.d/CLAIM-122.md) ([ARG-046](record/arguments.d/ARG-046.md)); the MSF transcript's marks of conflict do not discriminate [CLAIM-484](record/claims.d/CLAIM-484.md) from the paper's reading ([ARG-049](record/arguments.d/ARG-049.md)); Simondon's crystallization supports [CLAIM-185](record/claims.d/CLAIM-185.md) only by analogy ([ARG-045](record/arguments.d/ARG-045.md)).
+
+### Changed
+
+- [NOTE-1484](record/notes.d/NOTE-1484.md) and [THEORY-1280](record/theory.d/THEORY-1280.md) are corrected by the sources. Massumi's formula is a proposition and runs both ways. Hernes's "agency without agents" is an objection he anticipates. Tsoukas & Chia keep reflexive actors. Wilhoit does not make the claim attributed to her. Bencherki 2017 is the ancestor.
+- Each new reading gains a section bearing on the record's own argument, and its THEORYs gain relations to the questions they bear on. Citations of Tsoukas & Chia corrected from p. 580 to p. 579. [LIT-1648](record/literature.d/LIT-1648.md) records a further unsuccessful search for a lawful copy.
+
+### Changed
+
+- Work is pushed to its pull request as it is made, and the pull request's `docs-check` job does the repair and the lint ([ADR-054](record/decisions.d/ADR-054.md), Active, at the owner's direction). Contributors no longer run `luria repair`, `link --fix`, `index` or `lint` as a gate before pushing; `luria new` stays local, a red check is fixed on the branch, and a narrow local command is still fine for diagnosing. CLAUDE.md's "Working" section and its rule on link targets say so.
+
+<!-- inactive-ok-file: THEORY-802 CLAIM-263 CLAIM-367 THEORY-022 CLAIM-454 — Proposed; entries that received dated notes or were extended, listed -->
+
+### Added
+
+- At the owner's request (2026-10-26: "how's the record on neural circuit theory?", then "go ahead and register and read those"), fourteen core mechanistic-interpretability works registered and read the same day, all now Active: [LIT-1543](record/literature.d/LIT-1543.md) (Zoom In), [LIT-1534](record/literature.d/LIT-1534.md) (A Mathematical Framework for Transformer Circuits), [LIT-1540](record/literature.d/LIT-1540.md) (IOI), [LIT-1536](record/literature.d/LIT-1536.md) (ROME), [LIT-1549](record/literature.d/LIT-1549.md) (causal scrubbing), [LIT-1547](record/literature.d/LIT-1547.md) (ACDC), [LIT-1531](record/literature.d/LIT-1531.md) (AtP*), [LIT-1551](record/literature.d/LIT-1551.md) (DAS), [LIT-1545](record/literature.d/LIT-1545.md) (Towards Monosemanticity), [LIT-1533](record/literature.d/LIT-1533.md) (Scaling Monosemanticity), [LIT-1532](record/literature.d/LIT-1532.md) (Sparse Feature Circuits), [LIT-1554](record/literature.d/LIT-1554.md) (transcoders), [LIT-1552](record/literature.d/LIT-1552.md) (Circuit Tracing) and [LIT-1541](record/literature.d/LIT-1541.md) (On the Biology of a Large Language Model). Fourteen NOTEs, all Read, and thirty-two THEORYs, twenty-three Active and nine Proposed. The readings found, among other errors, that DAS's MoNLI brute-force row copies its Table 1 digit for digit; that ACDC's §4.1 claims a win on tracr-reverse that its own Table 2 does not show; that the IOI paper calls the naive circuit's faithfulness "comparable" where by its own measure it is better; that ROME's §2.1 and Appendix B.1 disagree on the hidden-state AIE; and that the Biology paper's revenue-table arithmetic is off by $30.
+- [QUESTION-274](record/questions.d/QUESTION-274.md), raised by two of the readings: whether two dictionaries of equal fidelity give the same validated circuit, [THEORY-802](record/theory.d/THEORY-802.md)'s thesis asked of dictionaries.
+- A curation entry for the reading: the request, the fourteen works with their LIT, NOTE and THEORY codes, what was read of each (the Biology NOTE in two passes the same day), the errors found, and seven works the readers named and did not register (among them Hase et al. 2023, Geva et al. 2021, MEMIT and Curve Detectors).
+- The readings cross-cited among themselves and written into the entries filed earlier in this contribution: [QUESTION-275](record/questions.d/QUESTION-275.md), [CLAIM-454](record/claims.d/CLAIM-454.md), [NOTE-1173](record/notes.d/NOTE-1173.md), [THEORY-973](record/theory.d/THEORY-973.md), [THEORY-990](record/theory.d/THEORY-990.md), [NOTE-1169](record/notes.d/NOTE-1169.md), [THEORY-968](record/theory.d/THEORY-968.md), [THEORY-997](record/theory.d/THEORY-997.md), [NOTE-1183](record/notes.d/NOTE-1183.md), [THEORY-1004](record/theory.d/THEORY-1004.md), [NOTE-1186](record/notes.d/NOTE-1186.md), [THEORY-975](record/theory.d/THEORY-975.md), [THEORY-967](record/theory.d/THEORY-967.md), [THEORY-981](record/theory.d/THEORY-981.md) and [THEORY-1009](record/theory.d/THEORY-1009.md).
+
+### Changed
+
+- Dated notes of 2026-10-27 from the circuits readings on thirteen entries: [LIT-323](record/literature.d/LIT-323.md) (its first case, Zoom In's, and its sequels), [NOTE-782](record/notes.d/NOTE-782.md) and [NOTE-809](record/notes.d/NOTE-809.md) (ROME, IOI and DAS now held), [THEORY-802](record/theory.d/THEORY-802.md) and [QUESTION-234](record/questions.d/QUESTION-234.md) (ties by construction in the instruments, a trained-network case of refinement, and dictionaries), [THEORY-018](record/theory.d/THEORY-018.md) (the residual stream's basis freedom), [CLAIM-263](record/claims.d/CLAIM-263.md) (universality), [CLAIM-367](record/claims.d/CLAIM-367.md) (IOI's backup heads), [LIT-1310](record/literature.d/LIT-1310.md) (causal abstraction through DAS and causal scrubbing), [NOTE-106](record/notes.d/NOTE-106.md) (ACDC now held), [NOTE-482](record/notes.d/NOTE-482.md) (the transcoder finding it reverses, scoped so the two do not contradict), [THEORY-504](record/theory.d/THEORY-504.md) (residual-stream error terms) and [THEORY-022](record/theory.d/THEORY-022.md) (addition in a language model is not all Fourier). No title, status or warrant changed.
+
+### Added
+
+- Ten more endosymbiosis works read in full, each Deferred → Active with a NOTE and Proposed THEORYs:
+  - eukaryogenesis: Kay et al. 2026 ([LIT-1566](record/literature.d/LIT-1566.md)), Pittis & Gabaldón 2016 ([LIT-1595](record/literature.d/LIT-1595.md)), Imachi et al. 2020 ([LIT-1591](record/literature.d/LIT-1591.md)), Tobiasson et al. 2026 ([LIT-1558](record/literature.d/LIT-1558.md)), Bernabeu et al. 2026 ([LIT-1561](record/literature.d/LIT-1561.md)) and Santana-Molina et al. 2025 ([LIT-1564](record/literature.d/LIT-1564.md));
+  - organelles: Sørensen et al. 2025 ([LIT-1560](record/literature.d/LIT-1560.md)) and Karnkowska et al. 2019 ([LIT-1574](record/literature.d/LIT-1574.md));
+  - insect symbioses: Shigenobu et al. 2000 ([LIT-1596](record/literature.d/LIT-1596.md)) and Campbell et al. 2018 ([LIT-1590](record/literature.d/LIT-1590.md)).
+
+### Changed
+
+- The other 21 unread works in the cluster are Unfetched (11, [ADR-053](record/decisions.d/ADR-053.md)) or Unavailable (10, [ADR-041](record/decisions.d/ADR-041.md)), with the fetch attempts in their status notes.
+- Dated notes on [QUESTION-277](record/questions.d/QUESTION-277.md), [CASE-167](record/cases.d/CASE-167.md), [CASE-168](record/cases.d/CASE-168.md), [CASE-171](record/cases.d/CASE-171.md), [CASE-173](record/cases.d/CASE-173.md), [CASE-174](record/cases.d/CASE-174.md), [CASE-177](record/cases.d/CASE-177.md) and [THEORY-1049](record/theory.d/THEORY-1049.md), from what the readings corrected:
+  - transfer and import is mostly import of host-encoded proteins;
+  - the eukaryogenesis programmes disagree on donors and on stem-length timing, not on a two-partner merger;
+  - no import into a symbiont below 200 kb is shown.
+- [CASE-168](record/cases.d/CASE-168.md) and [CASE-174](record/cases.d/CASE-174.md) are retitled.
+- [LIT-1561](record/literature.d/LIT-1561.md)'s history corrects the preprint title given in its first note.
+
+### Added
+
+- Reductive evolution and endosymbiosis, from the exchange of 2026-10-27 on the record's coverage, where the record had nothing: eighteen works registered unread (Deferred), on genome reduction and its causes (McCutcheon & Moran, [LIT-1559](record/literature.d/LIT-1559.md); the Black Queen Hypothesis, [LIT-1568](record/literature.d/LIT-1568.md); Moran 1996, [LIT-1573](record/literature.d/LIT-1573.md); McCutcheon et al. 2024, [LIT-1571](record/literature.d/LIT-1571.md)), nested and split insect symbioses ([LIT-1565](record/literature.d/LIT-1565.md), [LIT-1569](record/literature.d/LIT-1569.md), [LIT-1572](record/literature.d/LIT-1572.md), [LIT-1563](record/literature.d/LIT-1563.md)), organellogenesis ([LIT-1557](record/literature.d/LIT-1557.md), [LIT-1562](record/literature.d/LIT-1562.md), [LIT-1560](record/literature.d/LIT-1560.md)), organelle loss ([LIT-1567](record/literature.d/LIT-1567.md), [LIT-1574](record/literature.d/LIT-1574.md)), eukaryogenesis ([LIT-1564](record/literature.d/LIT-1564.md), [LIT-1566](record/literature.d/LIT-1566.md), [LIT-1558](record/literature.d/LIT-1558.md), [LIT-1561](record/literature.d/LIT-1561.md)) and the evolution of dependence and cohesion (Athreya et al., [LIT-1570](record/literature.d/LIT-1570.md)).
+- [QUESTION-277](record/questions.d/QUESTION-277.md), refining [QUESTION-035](record/questions.d/QUESTION-035.md): which properties each route to dependence produces, and which of them make a partnership a new evolutionary individual. A curation entry records what was registered, what the lookups corrected, and what was named and not registered.
+
+### Added
+
+- Readings in full of three of the four works the coverage exchange of 2026-10-27 called "Critical", each Deferred → Active with a NOTE:
+  - The Black Queen Hypothesis ([LIT-1568](record/literature.d/LIT-1568.md), [NOTE-1212](record/notes.d/NOTE-1212.md)), filed as [THEORY-1048](record/theory.d/THEORY-1048.md): dependence by individual selection on leaky functions, with no collective.
+  - McCutcheon et al. 2024 ([LIT-1571](record/literature.d/LIT-1571.md), [NOTE-1213](record/notes.d/NOTE-1213.md)), filed as [THEORY-1049](record/theory.d/THEORY-1049.md): endosymbionts lose their envelope genes below about 400 kb and translation genes below about 200 kb, and the host presumably supplies what is missing.
+  - Athreya, Czuppon & Gokhale 2025 ([LIT-1570](record/literature.d/LIT-1570.md), [NOTE-1211](record/notes.d/NOTE-1211.md)), filed as [THEORY-1050](record/theory.d/THEORY-1050.md) and [THEORY-1051](record/theory.d/THEORY-1051.md): the faster partner becomes obligate first, and the other's fate turns on births and deaths inside the collective. The "dependence before cohesion" result is set by the authors' trait mapping and reverses under the opposite one.
+
+### Changed
+
+- Dated notes on [QUESTION-277](record/questions.d/QUESTION-277.md) (what the readings say of its routes and dimensions, correcting its account of Athreya et al.), [CASE-173](record/cases.d/CASE-173.md) (a host-encoded protein in *Buchnera*'s cytoplasm; the model's prediction for the host) and [CASE-171](record/cases.d/CASE-171.md) (*Tremblaya* as a tipping-point endosymbiont).
+- Moran 1996 ([LIT-1573](record/literature.d/LIT-1573.md)) is Deferred → Unfetched under [ADR-053](record/decisions.d/ADR-053.md). Its free copy at PubMed Central and Europe PMC answered this client with a challenge page.
+- [LIT-1570](record/literature.d/LIT-1570.md)'s history corrects its first note: version 1 of the preprint had a different title. Its `published:` date is unchanged.
+
+### Added
+
+- `endosymbiosis` joins the topics, labelled "Endosymbiosis and reductive evolution" ([ADR-055](record/decisions.d/ADR-055.md)). It covers how one organism comes to live inside another and depend on it, and how that ends. `ecology` keeps symbiosis as an ecological interaction. [ADR-028](record/decisions.d/ADR-028.md) takes a history note.
+- Six Proposed, documented CASEs for the systems in [QUESTION-277](record/questions.d/QUESTION-277.md): aphid–*Buchnera* ([CASE-173](record/cases.d/CASE-173.md)), the mealybug's nested symbionts ([CASE-171](record/cases.d/CASE-171.md)), *Hodgkinia*'s splitting in cicadas ([CASE-177](record/cases.d/CASE-177.md)), *Paulinella* ([CASE-174](record/cases.d/CASE-174.md)), the nitroplast ([CASE-167](record/cases.d/CASE-167.md)) and *Monocercomonoides* ([CASE-168](record/cases.d/CASE-168.md)).
+- Seventeen works registered unread for what the exchange of 2026-10-27 mentioned without citing. Found: the *Magicicada* and *Tettigades* *Hodgkinia* papers ([LIT-1612](record/literature.d/LIT-1612.md), [LIT-1602](record/literature.d/LIT-1602.md), [LIT-1586](record/literature.d/LIT-1586.md)), host compensation at transmission ([LIT-1590](record/literature.d/LIT-1590.md)), the *Buchnera* and *Paulinella* genome papers ([LIT-1596](record/literature.d/LIT-1596.md), [LIT-1621](record/literature.d/LIT-1621.md)), endosymbiotic gene transfer ([LIT-1588](record/literature.d/LIT-1588.md)), and the syntrophy and mito-late scenarios of eukaryogenesis ([LIT-1597](record/literature.d/LIT-1597.md), [LIT-1591](record/literature.d/LIT-1591.md), [LIT-1595](record/literature.d/LIT-1595.md)). Adjacent, for ideas named with no work: gene-loss models ([LIT-1611](record/literature.d/LIT-1611.md), [LIT-1616](record/literature.d/LIT-1616.md)), metabolic-network constraints ([LIT-1585](record/literature.d/LIT-1585.md)), mutualism theory ([LIT-1603](record/literature.d/LIT-1603.md)), host–symbiont conflict and host control ([LIT-1617](record/literature.d/LIT-1617.md), [LIT-1605](record/literature.d/LIT-1605.md)) and branching processes ([LIT-1608](record/literature.d/LIT-1608.md)).
+
+### Changed
+
+- The eighteen LITs of the first pass and [QUESTION-277](record/questions.d/QUESTION-277.md) are retagged with `endosymbiosis`. [QUESTION-277](record/questions.d/QUESTION-277.md) has a dated note pointing to the cases and the new works.
+
+### Added
+
+- From turns T18–T24 of the exchange "Experimental Infrastructure Review" (a saved page the owner uploaded, since the share could not be fetched; T24's reply pasted by the owner; T0–T17 absent): five entries. [QUESTION-276](record/questions.d/QUESTION-276.md) asks how overlapping higher-level perspectives can be inferred from members' activity without inserting them or fixing their number, told from common-cause coactivity, and tested against interventions; it refines [QUESTION-259](record/questions.d/QUESTION-259.md), with the owner's hLDA and Indian buffet proposals as candidate methods. [CLAIM-454](record/claims.d/CLAIM-454.md) (Proposed, interpretive) holds that a latent feature inferred from activity is at most a constituent of a perspective. [CASE-166](record/cases.d/CASE-166.md) (proposed-study) is the multilevel Northstar design, with the reply's PerspectiveLab v2.11 results held as reported and not reproduced, since dmarx/PerspectiveLab holds nothing past v2.9 (c54617e). [CASE-165](record/cases.d/CASE-165.md) (construction) is the reply's dynamic beta–Bernoulli model of members, with its mathematics re-checked: at sixteen features it falls short of the Indian buffet process it quotes (6.83 occupied features against 9.31), its persistence term does not hold rare features, and having a capacity is not identified from using it. [QUESTION-275](record/questions.d/QUESTION-275.md), refining [QUESTION-039](record/questions.d/QUESTION-039.md), is the owner's question whether the setup can serve as an interpretive framework for transformer learning dynamics, with prospective prediction from early checkpoints as its test.
+- Thirteen works registered and, at the owner's request ("go ahead and read all of them"), read in full the same day, all now Active: [LIT-1556](record/literature.d/LIT-1556.md), [LIT-1542](record/literature.d/LIT-1542.md), [LIT-1546](record/literature.d/LIT-1546.md), [LIT-1553](record/literature.d/LIT-1553.md), [LIT-1537](record/literature.d/LIT-1537.md), [LIT-1548](record/literature.d/LIT-1548.md), [LIT-1544](record/literature.d/LIT-1544.md), [LIT-1538](record/literature.d/LIT-1538.md), [LIT-1550](record/literature.d/LIT-1550.md), [LIT-1535](record/literature.d/LIT-1535.md), [LIT-1555](record/literature.d/LIT-1555.md), [LIT-1539](record/literature.d/LIT-1539.md) and [LIT-1530](record/literature.d/LIT-1530.md), with a curation entry recording the lookups, the corrections they made, the works named but not registered, and the readings. Thirteen NOTEs, all Read, and twenty-two THEORYs, fifteen Active and seven Proposed. The readings found that the IBP review gives αH_N only for the infinite limit, so T23's figure at sixteen features has no source; that the correlated latent-feature paper supports features that reinforce or depend on one another but not ones that inhibit, as T22 cited it; that the dependent IBP's marginals are an IBP only in its collapsed form; that the author–topic model and the mixed membership blockmodel are unidentified along a continuum, beyond the permutations they name, and the blockmodel's sparsity estimate is fixed whatever the fit; and that the fine-tuning paper's node-against-edge contrast is what a fixed edge budget alone produces. The induction-heads paper takes its first-publication date, 8 March 2022.
+- The readings' bearing written into [CASE-165](record/cases.d/CASE-165.md), [QUESTION-276](record/questions.d/QUESTION-276.md), [QUESTION-275](record/questions.d/QUESTION-275.md) and [CLAIM-454](record/claims.d/CLAIM-454.md).
+- A workbench entry for the span, one bullet per owner turn, with what was filed and not filed.
+
+### Changed
+
+- Dated notes of 2026-10-26 on thirteen entries: [QUESTION-259](record/questions.d/QUESTION-259.md), [CLAIM-427](record/claims.d/CLAIM-427.md) ("later"), [CASE-134](record/cases.d/CASE-134.md), [CASE-158](record/cases.d/CASE-158.md), [CLAIM-403](record/claims.d/CLAIM-403.md), [CLAIM-148](record/claims.d/CLAIM-148.md), [NOTE-008](record/notes.d/NOTE-008.md), [QUESTION-063](record/questions.d/QUESTION-063.md), [CLAIM-203](record/claims.d/CLAIM-203.md), [CLAIM-329](record/claims.d/CLAIM-329.md), [CASE-113](record/cases.d/CASE-113.md), [QUESTION-134](record/questions.d/QUESTION-134.md) and [CLAIM-366](record/claims.d/CLAIM-366.md). No title, status or warrant changed.
+- Dated notes of 2026-10-26 from the readings on ten more: [CLAIM-135](record/claims.d/CLAIM-135.md), [CLAIM-367](record/claims.d/CLAIM-367.md), [QUESTION-039](record/questions.d/QUESTION-039.md), [QUESTION-193](record/questions.d/QUESTION-193.md), [QUESTION-234](record/questions.d/QUESTION-234.md), [THEORY-039](record/theory.d/THEORY-039.md), [THEORY-253](record/theory.d/THEORY-253.md), [THEORY-279](record/theory.d/THEORY-279.md), [THEORY-783](record/theory.d/THEORY-783.md) and [LIT-002](record/literature.d/LIT-002.md) (which now `extends` the nCRP paper, [LIT-1542](record/literature.d/LIT-1542.md)); and the notes above on [CLAIM-148](record/claims.d/CLAIM-148.md), [CLAIM-203](record/claims.d/CLAIM-203.md) and [CLAIM-329](record/claims.d/CLAIM-329.md) extended with the readings. No title, status or warrant changed.
+
+### Changed
+
+- `line:` takes several values in QUESTION, CASE, TERM and ARG, as it already did in CLAIM ([ADR-067](record/decisions.d/ADR-067.md)), at the owner's word.
+  - [QUESTION-365](record/questions.d/QUESTION-365.md) gets `distributed-agency` back, and [ARG-050](record/arguments.d/ARG-050.md) gets `formal-apparatus` back. Both had been cut to pass lint.
+- `line:` is required in CASE and ARG, as it already was in QUESTION and CLAIM. TERM stays optional.
+  - Every ARG already had a line. The nine CASEs without one got lines from a graph query over `luria export`, recorded in [ADR-067](record/decisions.d/ADR-067.md): [CASE-006](record/cases.d/CASE-006.md), [CASE-007](record/cases.d/CASE-007.md), [CASE-014](record/cases.d/CASE-014.md), [CASE-025](record/cases.d/CASE-025.md), [CASE-028](record/cases.d/CASE-028.md), [CASE-034](record/cases.d/CASE-034.md), [CASE-151](record/cases.d/CASE-151.md), [CASE-181](record/cases.d/CASE-181.md) and [CASE-182](record/cases.d/CASE-182.md).
+
+### Changed
+
+- luria pinned to 1.5.0 (from 1.3.0). Its pattern pages render as outlines, and patterns that share an output merge into one page.
+
+### Added
+
+- **Arguments by conclusion** (`docs/arguments-by-conclusion.md`): every claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument nothing undercuts is on no dialectic thread, so this page is where it shows. It is two patterns, `argued_for` and `argued_for_undercut`, sharing one output.
+
+### Changed
+
+- CI pins luria 1.6.0 (was 1.5.0) in the docs and pages workflows. Its one change is a faster `luria lint`, measured on this record at 614 s before and 145 s after with identical output (luria#384).
+
+### Added
+
+- Mechanistic constitution and dynamical mechanistic explanation, at the owner's request. Eleven works on Craver's constitutive relevance and the debate after it, and Bechtel & Abrahamsen 2010, are registered.
+  - Five are read: Craver & Bechtel 2007, Bechtel & Abrahamsen 2010, Baumgartner & Gebharter 2016, Baumgartner & Casini 2017, and Baumgartner, Casini & Krickel 2020. They come with eight THEORYs.
+  - New claims: mutual manipulability separates an internal producer from an outside controller only through a declared boundary ([CLAIM-530](record/claims.d/CLAIM-530.md)); "realized" has two senses, produced through and consists in, divided by time scale ([CLAIM-528](record/claims.d/CLAIM-528.md)).
+  - [ARG-050](record/arguments.d/ARG-050.md) (Active): the fat-handedness objection does not reach [CLAIM-522](record/claims.d/CLAIM-522.md).
+- Griesemer & Shavit 2023 re-read. New claims: entrenchment does not by itself give closure ([CLAIM-531](record/claims.d/CLAIM-531.md)); only criteria stated on interactions individuate an organization without presupposing it ([CLAIM-529](record/claims.d/CLAIM-529.md)). Six of its sources are registered unread.
+
+### Changed
+
+- [NOTE-173](record/notes.d/NOTE-173.md) (v3) and [THEORY-418](record/theory.d/THEORY-418.md) (v3) corrected on re-reading Griesemer & Shavit. Dated notes go on some thirty claims, questions, cases and terms in the maintenance and individuation neighbourhood. A curation entry records the readings and where every copy was looked for.
+
+### Added
+
+- Metzinger's later work, at the owner's request.
+  - Read: "The myth of cognitive agency" (2013), "M-autonomy" (2015), "The problem of mental action" (2017) and "Minimal phenomenal experience" (2020), and *The Elephant and the Blind* (2024) in part. They come with six THEORYs.
+  - Not reachable: "Artificial suffering" is Unfetched and *The Ego Tunnel* Unavailable. *Being No One* was retried.
+- New entries:
+  - [QUESTION-367](record/questions.d/QUESTION-367.md): is an agent's representation of its control capacity a condition of that capacity's efficacy?
+  - [QUESTION-368](record/questions.d/QUESTION-368.md): would experience without self-model or valence ground moral standing?
+  - [ARG-051](record/arguments.d/ARG-051.md) (Proposed): mental autonomy as an analogy for [CLAIM-027](record/claims.d/CLAIM-027.md).
+- Dated notes on the will-organization and evidence-for-experience lines, and on [THEORY-063](record/theory.d/THEORY-063.md), [THEORY-064](record/theory.d/THEORY-064.md) and [NOTE-1058](record/notes.d/NOTE-1058.md). A curation entry records the readings.
+
+<!-- inactive-ok-file: THEORY-1011 THEORY-1013 THEORY-986 THEORY-990 THEORY-1000 CASE-165 — Proposed; entries that received dated notes, listed -->
+
+### Added
+
+- At the owner's request (2026-10-27: "get started on the seven works and markov IBP"), the works the circuits readings named without registering, ten in all, registered and read the same day, all now Active: [LIT-1578](record/literature.d/LIT-1578.md) (Hase et al., Does Localization Inform Editing?), [LIT-1576](record/literature.d/LIT-1576.md) (Geva et al., feed-forward layers as key–value memories), [LIT-1582](record/literature.d/LIT-1582.md) (MEMIT), [LIT-1575](record/literature.d/LIT-1575.md) (Curve Detectors), [LIT-1581](record/literature.d/LIT-1581.md) (Nanda's attribution patching post), [LIT-1584](record/literature.d/LIT-1584.md) (Auditing language models for hidden objectives), causal scrubbing's three companion posts, each its own work extending [LIT-1549](record/literature.d/LIT-1549.md) ([LIT-1580](record/literature.d/LIT-1580.md), the paren balance checker; [LIT-1579](record/literature.d/LIT-1579.md), induction heads; [LIT-1583](record/literature.d/LIT-1583.md), the appendix), and [LIT-1577](record/literature.d/LIT-1577.md) (Van Gael, Teh and Ghahramani's infinite factorial HMM, which introduces the Markov IBP, dated to NIPS 21 of December 2008 where the record had "2009" from the review's printed volume). Ten NOTEs, all Read, and sixteen THEORYs, eleven Active and five Proposed. The readings found, among other errors, that a row of Hase et al.'s Table 3 was taken from the wrong table; that the infinite factorial HMM's two printed predictive rules are both wrong against its own eq. (6); that causal scrubbing's two results posts measure against baselines on different scales, which [LIT-1549](record/literature.d/LIT-1549.md)'s summary sets side by side; and that the induction post's headline 89% is a bonus hypothesis, not the 86% the main post reports.
+- A curation entry for the reading: the request, the ten works with their LIT, NOTE and THEORY codes and what was read of each, the decision to file the companion posts separately, the Markov IBP's year, the errors found, the question for the owner on [THEORY-1011](record/theory.d/THEORY-1011.md), and the works the readers named and did not register (among them An Overview of Early Vision in InceptionV1 and Curve Circuits).
+
+### Changed
+
+- Dated notes of 2026-10-27 from these readings on twenty-four entries: [THEORY-1011](record/theory.d/THEORY-1011.md) (Hase et al. meet its refutation clause for the localization part; its conjecture that any middle layer could store a fact is not refuted; status left for the owner), [NOTE-1166](record/notes.d/NOTE-1166.md), [NOTE-782](record/notes.d/NOTE-782.md) and [THEORY-998](record/theory.d/THEORY-998.md) (Hase et al., Geva et al. and MEMIT now held), [THEORY-1013](record/theory.d/THEORY-1013.md), [NOTE-1182](record/notes.d/NOTE-1182.md) and [THEORY-986](record/theory.d/THEORY-986.md) (Curve Detectors supplies four of Zoom In's seven arguments and no denominator), [LIT-1531](record/literature.d/LIT-1531.md) (now `extends` the post), [NOTE-1190](record/notes.d/NOTE-1190.md), [THEORY-996](record/theory.d/THEORY-996.md) and [THEORY-1000](record/theory.d/THEORY-1000.md) (attribution patching's origin), [THEORY-976](record/theory.d/THEORY-976.md), [NOTE-1181](record/notes.d/NOTE-1181.md) and [QUESTION-274](record/questions.d/QUESTION-274.md) (the hidden-objectives model organism at its source), [LIT-1549](record/literature.d/LIT-1549.md), [NOTE-1168](record/notes.d/NOTE-1168.md), [THEORY-978](record/theory.d/THEORY-978.md), [THEORY-973](record/theory.d/THEORY-973.md) and [THEORY-990](record/theory.d/THEORY-990.md) (the companion posts), and [CASE-165](record/cases.d/CASE-165.md), [NOTE-1172](record/notes.d/NOTE-1172.md), [NOTE-1175](record/notes.d/NOTE-1175.md), [NOTE-1184](record/notes.d/NOTE-1184.md) and [LIT-1556](record/literature.d/LIT-1556.md) (the Markov IBP against [CASE-165](record/cases.d/CASE-165.md)'s sticky transition). Each says which "not registered", "not held" or "not read" is no longer true. No title, status or warrant changed.
+
+<!-- inactive-ok-file: THEORY-1013 THEORY-1022 CASE-165 — Proposed; entries that received dated notes, listed -->
+
+### Added
+
+- At the owner's request (2026-10-27: "file the next readings"), the eight works the readings of PR [#338](https://github.com/dmarx/nucleation/issues/338) named without registering, registered and read the same day, all now Active: [LIT-1624](record/literature.d/LIT-1624.md) (Olah et al., An Overview of Early Vision in InceptionV1), [LIT-1629](record/literature.d/LIT-1629.md) (Cammarata et al., Curve Circuits, `extends` [LIT-1575](record/literature.d/LIT-1575.md)), [LIT-1625](record/literature.d/LIT-1625.md) (Scherlis et al., Polysemanticity and Capacity in Neural Networks, the causal scrubbing appendix's "polysemanticity toy model paper", `extends` [LIT-323](record/literature.d/LIT-323.md)), [LIT-1623](record/literature.d/LIT-1623.md) (Griffiths and Ghahramani 2005, the Indian buffet process's original paper), [LIT-1627](record/literature.d/LIT-1627.md) (Teh, Görür and Ghahramani, the stick-breaking construction), [LIT-1622](record/literature.d/LIT-1622.md) (Van Gael, Saatci, Teh and Ghahramani, the beam sampler), [LIT-1628](record/literature.d/LIT-1628.md) (Ghahramani and Jordan, Factorial Hidden Markov Models, dated 1995-11 by its NIPS 8 version under [ADR-002](record/decisions.d/ADR-002.md)) and [LIT-1626](record/literature.d/LIT-1626.md) (Knowles and Ghahramani, infinite sparse factor analysis and ICA). Eight NOTEs, all Read, and twelve THEORYs, eight Active and four Proposed. Early Vision and Curve Circuits cite their distill.pub URLs, because the DOIs they print (.002 and .006) do not resolve. The readings found, among other errors, that Curve Circuits places in mixed4a the curve shapes its links put in mixed3b; that Scherlis et al.'s §4.3 keeps a scale error that v4 corrected in §4.4, and that its contributions credit an author it does not list; that a footnote of Ghahramani and Jordan's claims that orthogonal features decouple the chains under any diagonal noise, where only isotropic noise does; and that Knowles and Ghahramani call Nα the total number of features.
+- A curation entry for the reading: the request, the eight works with their LIT, NOTE and THEORY codes and what was read of each, the unresolvable DOIs, the factorial HMM's date, the errors found, and the works the readers named and did not register.
+
+### Changed
+
+- [LIT-1577](record/literature.d/LIT-1577.md) (the infinite factorial HMM) now `extends` [LIT-1623](record/literature.d/LIT-1623.md) and [LIT-1628](record/literature.d/LIT-1628.md) and is `compared_against` [LIT-1626](record/literature.d/LIT-1626.md). [LIT-1556](record/literature.d/LIT-1556.md) (the IBP review) now `extends` [LIT-1623](record/literature.d/LIT-1623.md).
+- Dated notes of 2026-10-27 from these readings on fourteen entries: [THEORY-1013](record/theory.d/THEORY-1013.md), [NOTE-1182](record/notes.d/NOTE-1182.md), [NOTE-1198](record/notes.d/NOTE-1198.md), [THEORY-1022](record/theory.d/THEORY-1022.md), [LIT-1575](record/literature.d/LIT-1575.md), [THEORY-1028](record/theory.d/THEORY-1028.md) and [NOTE-1201](record/notes.d/NOTE-1201.md) (Early Vision gives [THEORY-1013](record/theory.d/THEORY-1013.md) a denominator, 1,056 units of which the authors flag 37%, but no criterion; Curve Circuits completes Zoom In's seven arguments for one family, with one tested weight edit); [NOTE-1202](record/notes.d/NOTE-1202.md) (the toy-model paper and Curve Detectors now held); and [CASE-165](record/cases.d/CASE-165.md), [LIT-1577](record/literature.d/LIT-1577.md), [LIT-1556](record/literature.d/LIT-1556.md), [NOTE-1172](record/notes.d/NOTE-1172.md), [NOTE-1199](record/notes.d/NOTE-1199.md) and [THEORY-999](record/theory.d/THEORY-999.md) ([CASE-165](record/cases.d/CASE-165.md)'s 8.97 is exact but its reason is qualified, its "not by the data" holds only with the activation fixed, and its model per member is a factorial HMM). Each says which "not registered", "not held" or "not read" is no longer true. No title, status or warrant changed.
+
+### Changed
+
+- [ADR-065](record/decisions.d/ADR-065.md): a reading's promote_when asks only for what its title asserts. Reported and one-study titles go Active on their reading; wider demands move to a QUESTION or to a Proposed THEORY that extends the entry. General titles keep their strict conditions.
+- The held timer stays as a floor ([ADR-057](record/decisions.d/ADR-057.md) v7): the worklist now also brings a held entry back early when something its blocker note names has moved, an entry revised or a work read.
+- Twenty-second status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-30): [ADR-065](record/decisions.d/ADR-065.md) applied to the 58 readings its survey flagged.
+- **Promoted:** 53 readings. 29 were narrowed first, seven of them for titles that misstated their sources ([THEORY-375](record/theory.d/THEORY-375.md), 383, 1158, 889, 1104, 924, 943).
+- **Filed beside them:** 46 new entries: 32 Proposed THEORYs carrying the sources' wider theses with the old conditions, 10 QUESTIONs, and 4 interpretive CLAIMs carrying the record's own critiques.
+- **Kept:** [THEORY-989](record/theory.d/THEORY-989.md), 613, 1192, 564 and 351. [THEORY-1192](record/theory.d/THEORY-1192.md)'s condition now asks for what its title claims.
+- **Proofs:** ten proofs are promoted on a second checker's re-derivation, which each body now writes out.
+- **Endosymbiosis readings:** their edges to [QUESTION-277](record/questions.d/QUESTION-277.md) become `bears_on`.
+- **README:** a version-of-record demand with no discrepancy named is dropped, as [ADR-065](record/decisions.d/ADR-065.md) §4 says.
+
+### Added
+
+- From the owner's exchange "Field Existence Question" (2026-10-27, U1–U10), which went from a field that interacts with nothing to structural realism, Barad's apparatus and agential cut, Jaksland, and luria: a Proposed thesis, the owner's U8 analogy, that relata stand to relations as realizations to specifications and that the constraints are realized too, unrestricted in domain ([CLAIM-477](record/claims.d/CLAIM-477.md)); an Active demonstrated claim, the owner's U6 observation, that in the record a typed relation is more constrained than its relata and that its rigidity is not soundness ([CLAIM-479](record/claims.d/CLAIM-479.md)); a Proposed thesis, the owner's U7, that luria is an apparatus in Barad's sense for a record's objects and only for them, resting on [CLAIM-419](record/claims.d/CLAIM-419.md) and [CLAIM-195](record/claims.d/CLAIM-195.md) ([CLAIM-476](record/claims.d/CLAIM-476.md)); a Proposed thesis that choosing an apparatus is open to evaluation while a cut's exclusions fix no obligation ([CLAIM-472](record/claims.d/CLAIM-472.md)); questions on when constraints constitute rather than characterize, with detected, maintained and constituted boundaries ([QUESTION-284](record/questions.d/QUESTION-284.md), refined by [QUESTION-030](record/questions.d/QUESTION-030.md)), and on whether independence can be approximately true ([QUESTION-280](record/questions.d/QUESTION-280.md), Jaksland's); and a Proposed term for three senses of "cut" ([TERM-087](record/terms.d/TERM-087.md)). Thirteen works registered unread, Barad's three among them. A workbench entry and a curation entry.
+- Read in full, at the owner's request, the two open works the exchange put first: Jaksland 2024 ([LIT-1673](record/literature.d/LIT-1673.md), [NOTE-1230](record/notes.d/NOTE-1230.md)) and Faye and Jaksland 2021 ([LIT-1672](record/literature.d/LIT-1672.md), [NOTE-1220](record/notes.d/NOTE-1220.md)), both now Active; five THEORYs, three Active (Barad's agential realism as naturalized metaphysics applied once, not a template, [THEORY-1083](record/theory.d/THEORY-1083.md); Bohr's phenomena epistemic and his relata real, [THEORY-1076](record/theory.d/THEORY-1076.md); quantum mechanics not entailing agential realism, [THEORY-1071](record/theory.d/THEORY-1071.md)) and two Proposed (Jaksland's no-approximation conditional, [THEORY-1086](record/theory.d/THEORY-1086.md); the measurement-problem challenge, [THEORY-1091](record/theory.d/THEORY-1091.md)). Barad 2003 ([LIT-1653](record/literature.d/LIT-1653.md)) is Unavailable under [ADR-041](record/decisions.d/ADR-041.md). A curation entry records the lookups and findings.
+- From U11–U14 of the same exchange (a second share, 08:15–09:05 UTC): a Proposed thesis, the owner's U12, that scale separation makes constraints and organization makes separation, resting on [CLAIM-477](record/claims.d/CLAIM-477.md) and [CLAIM-331](record/claims.d/CLAIM-331.md) ([CLAIM-478](record/claims.d/CLAIM-478.md)); a question, the owner's U14, on the transitions by which forms arise and pass away and whether creation, stabilization and a constitutive role are separate achievements ([QUESTION-281](record/questions.d/QUESTION-281.md)). Thirteen works registered unread (Rheinberger, Pickering, Bowker and Star, Deutsch and Marletto, Rosen, Fenichel, Haken 1996, Flack 2017, Wilson 1975, Knobloch 2015, Langer 1969, Ashwin et al. 2012, Toner and Tu 1995). A second workbench entry and a curation entry.
+- The remaining twenty-three works from the exchange looked for, at the owner's request ("take care of those readings"): five read in full and Active, Rovelli 1996 ([NOTE-1227](record/notes.d/NOTE-1227.md)), Deutsch and Marletto 2015 ([NOTE-1219](record/notes.d/NOTE-1219.md)), Flack 2017 ([NOTE-1216](record/notes.d/NOTE-1216.md)), Ashwin et al. 2012 ([NOTE-1215](record/notes.d/NOTE-1215.md)) and Toner and Tu 1995 ([NOTE-1228](record/notes.d/NOTE-1228.md)), with eleven THEORYs, eight Active and three Proposed; three Unfetched under [ADR-053](record/decisions.d/ADR-053.md) (Goguen and Burstall, Fenichel, Knobloch) and fifteen Unavailable under [ADR-041](record/decisions.d/ADR-041.md). A curation entry.
+- The record's own rates measured, at the owner's request ("run your measurements against the record"): an executed study of every commit to this record ([CASE-180](record/cases.d/CASE-180.md), with scratch/formal/record_rates.py). Once an entry's first day is past, its prose is revised about once in 22 days, its status once in 128, its relations once in 132, and no relation type has been redeclared; in the first day every layer moves, and validation runs at the rate of the edits it follows.
+- The grammar's growth measured by level, at the owner's direction ([CASE-178](record/cases.d/CASE-178.md), with scratch/formal/schema_rates.py, run on this record, luria's and strata-g's): documents on all 32 days, vocabulary terms on 18, scheme members on 8, schemes and remote projects on one each. Each refinement came in the pull request whose documents needed it, nine times in ten with an ADR, and the grammar's rates fell while filing rose.
+- From U15–U23 of the same exchange (a third share, 14:41–16:26 UTC), which the owner said "revealed significant maturation of the theory": the owner's theses that inquiry is a form of specification ([CLAIM-470](record/claims.d/CLAIM-470.md)) and that specifying is itself a resource-bounded realization ([CLAIM-475](record/claims.d/CLAIM-475.md)), both Proposed; the owner's U20 that interactions generate constraints acting as gluing conditions between local descriptions, restated from "inertial frames" through [CLAIM-144](record/claims.d/CLAIM-144.md) ([CLAIM-471](record/claims.d/CLAIM-471.md), Proposed), and its less confident second half that coupling necessarily induces scale separation ([CLAIM-473](record/claims.d/CLAIM-473.md)), Rejected on filing against a demonstrated counterexample and condition ([CLAIM-481](record/claims.d/CLAIM-481.md), Active); a demonstrated result that composing interactions turns an equilibrated interior into a boundary constraint, or into memory when the interior is slow ([CLAIM-480](record/claims.d/CLAIM-480.md), Active); a question on observation and inquiry without a conscious investigator ([QUESTION-285](record/questions.d/QUESTION-285.md)); and a proposed operational sense of "apparatus" ([TERM-089](record/terms.d/TERM-089.md)). Twenty-one works registered unread. A third workbench entry and a curation entry.
+- The twenty-one works registered from U15–U23 looked for, at the owner's request ("get started on the readings"): thirteen read in full and Active (Hansen and Ghrist 2019 and 2021, Singer, Robinson, Torres-Hugas et al., Baez and Fong, Spivak, Stewart, Golubitsky and Pivato, Di Biagio and Rovelli 2021 and 2025, Zurek, Simon 1973, Clarke et al. 2000), with thirteen NOTEs and twenty-eight THEORYs; three Unfetched under [ADR-053](record/decisions.d/ADR-053.md) (Lindley, Thorstad, Cervera et al.) and five Unavailable under [ADR-041](record/decisions.d/ADR-041.md) (Fagin and Halpern, Willems, Dewey, Collingwood, Chang). A curation entry.
+- At the owner's review of the pull request: the operational half of the luria apparatus claim ([CLAIM-469](record/claims.d/CLAIM-469.md), Proposed, demonstrated for three of four functions), split from [CLAIM-476](record/claims.d/CLAIM-476.md); questions on how interaction generates correspondence structures ([QUESTION-282](record/questions.d/QUESTION-282.md)) and on when composition forces a richer relational vocabulary ([QUESTION-283](record/questions.d/QUESTION-283.md)); a synthesis, that interconnection, compatibility, dynamics, individuation and inquiry are distinct achievements none of which implies the next ([CLAIM-474](record/claims.d/CLAIM-474.md)), with the study that would make them come apart ([CASE-179](record/cases.d/CASE-179.md), proposed); a workbench entry.
+- At the owner's request for more terms, five Proposed TERMs for notions the exchange's claims kept using without a name: correspondence structure, held as formed, discovered or adapted ([TERM-093](record/terms.d/TERM-093.md)); effective boundary constraint of a composite ([TERM-090](record/terms.d/TERM-090.md)); relational vocabulary of a class of descriptions ([TERM-091](record/terms.d/TERM-091.md)); individuation in four senses, with organizational autonomy apart ([TERM-088](record/terms.d/TERM-088.md)); and inquiry frontier ([TERM-092](record/terms.d/TERM-092.md)). [CLAIM-471](record/claims.d/CLAIM-471.md), [CLAIM-480](record/claims.d/CLAIM-480.md), [CLAIM-474](record/claims.d/CLAIM-474.md) and [CLAIM-475](record/claims.d/CLAIM-475.md) now name the terms they are stated in.
+
+### Changed
+
+- [CLAIM-151](record/claims.d/CLAIM-151.md) version 3, at the owner's direction at U6 ("that should be changed. the project's ambitions are extremely abstract and unrestricted"): the sentence bounding the record ("not about fundamental ontology") is withdrawn, the claim's argument and scope are kept, and the general frame is named. Title, defeater, status and warrant are unchanged.
+- Dated notes of 2026-10-27 on six entries: [CLAIM-136](record/claims.d/CLAIM-136.md) (the scope it was filed under), [CLAIM-138](record/claims.d/CLAIM-138.md) (Newman's paper registered, and the cost carried to the general frame), [CLAIM-150](record/claims.d/CLAIM-150.md) (the guard restated by the exchange), [CLAIM-405](record/claims.d/CLAIM-405.md) (discovered or enacted boundaries, and approximate independence), [CLAIM-419](record/claims.d/CLAIM-419.md) (the loop found again in luria without this claim) and [TERM-038](record/terms.d/TERM-038.md) (asked without a domain). No status, title or warrant changed.
+- From the readings: dated notes on [CLAIM-476](record/claims.d/CLAIM-476.md) (its comparison is on the template conception Barad rejects), [CLAIM-477](record/claims.d/CLAIM-477.md) (an unrestricted template; Bohr, not Barad, as its non-eliminative precedent), [CLAIM-472](record/claims.d/CLAIM-472.md), [QUESTION-280](record/questions.d/QUESTION-280.md) (Jaksland leans yes on individuals; a third, contingent answer) and [CLAIM-136](record/claims.d/CLAIM-136.md); [TERM-087](record/terms.d/TERM-087.md) corrected in place on the Heisenberg cut, with Barad's definition of an apparatus at second hand. No status, title or warrant changed.
+- From U11–U14: dated notes on [CLAIM-395](record/claims.d/CLAIM-395.md) (read as the centre of a multiscale account), [CLAIM-157](record/claims.d/CLAIM-157.md) (pressures from the dynamics of transitions), [CLAIM-479](record/claims.d/CLAIM-479.md) (why the relation is rigid: [CLAIM-184](record/claims.d/CLAIM-184.md)'s entrenchment and a disparity of rates), [CLAIM-476](record/claims.d/CLAIM-476.md) (Rheinberger, second-order observation, and unmeasured rates), [CLAIM-477](record/claims.d/CLAIM-477.md) (mechanism, universality and kinds) and [CLAIM-472](record/claims.d/CLAIM-472.md) (Bowker and Star). [CLAIM-181](record/claims.d/CLAIM-181.md)'s parenthesis that no crystal-growth work is held is corrected in a note: [LIT-919](record/literature.d/LIT-919.md) was filed the same day and has been read. No status, title or warrant changed.
+- From those readings: dated notes on [CLAIM-327](record/claims.d/CLAIM-327.md) (its third stage, regeneration by use, is not among Flack's criteria), [CASE-116](record/cases.d/CASE-116.md), [CLAIM-478](record/claims.d/CLAIM-478.md) (supported and widened by Flack, Ashwin et al. and Toner and Tu), [QUESTION-281](record/questions.d/QUESTION-281.md) (a worked case of creation and stabilization coming apart; rate-induced tipping corrected), [CLAIM-157](record/claims.d/CLAIM-157.md), [CLAIM-477](record/claims.d/CLAIM-477.md) (constructor theory's modal individuation presses its defeater), [THEORY-1071](record/theory.d/THEORY-1071.md) (the 1996 RQM has no ontology of events) and [THEORY-136](record/theory.d/THEORY-136.md). Ashwin et al. and Toner and Tu take their arXiv v1 dates. No status, title or warrant of a claim changed.
+- From the measurement: dated notes on [CLAIM-476](record/claims.d/CLAIM-476.md) (its rate reading tested), [CLAIM-479](record/claims.d/CLAIM-479.md) (the rigidity in the rates; types are added beside, not redeclared) and [CLAIM-478](record/claims.d/CLAIM-478.md) (a hierarchy with a window, its direction untested). No status, title or warrant changed.
+- From the growth measurement: dated notes on [CLAIM-478](record/claims.d/CLAIM-478.md) (a hierarchy made by thresholds in one loop, not by slow modes), [CLAIM-476](record/claims.d/CLAIM-476.md) (the apparatus reconstituted in the act of filing, by decision) and [CASE-180](record/cases.d/CASE-180.md).
+- From U15–U23: dated notes on [CLAIM-477](record/claims.d/CLAIM-477.md) (the synthesis the exchange ended on, and the pressure that conservation laws are not realized by the interactions they constrain), [CLAIM-476](record/claims.d/CLAIM-476.md) (inquiry as specification; the operational sense of apparatus as a split the claim could take), [CLAIM-478](record/claims.d/CLAIM-478.md) (coupling, spectra and evolving gluing), [CLAIM-342](record/claims.d/CLAIM-342.md) (re-derived for an apparatus and for gluing), [CLAIM-144](record/claims.d/CLAIM-144.md), [QUESTION-281](record/questions.d/QUESTION-281.md) (suppression, amplification and frustration as routes), [TERM-065](record/terms.d/TERM-065.md) (where its query family comes from; not amended) and [CASE-178](record/cases.d/CASE-178.md). No existing entry's status, title or warrant changed.
+- From the readings of the U15–U23 works: dated notes on [CLAIM-471](record/claims.d/CLAIM-471.md), [CLAIM-481](record/claims.d/CLAIM-481.md), [CLAIM-480](record/claims.d/CLAIM-480.md), [CLAIM-473](record/claims.d/CLAIM-473.md), [CLAIM-475](record/claims.d/CLAIM-475.md), [CLAIM-470](record/claims.d/CLAIM-470.md), [CLAIM-419](record/claims.d/CLAIM-419.md), [CLAIM-476](record/claims.d/CLAIM-476.md), [CLAIM-477](record/claims.d/CLAIM-477.md), [CLAIM-143](record/claims.d/CLAIM-143.md), [CLAIM-342](record/claims.d/CLAIM-342.md), [CLAIM-478](record/claims.d/CLAIM-478.md), [QUESTION-285](record/questions.d/QUESTION-285.md), [QUESTION-280](record/questions.d/QUESTION-280.md), [QUESTION-281](record/questions.d/QUESTION-281.md), [QUESTION-063](record/questions.d/QUESTION-063.md), [TERM-089](record/terms.d/TERM-089.md), [THEORY-621](record/theory.d/THEORY-621.md) and [THEORY-276](record/theory.d/THEORY-276.md); [QUESTION-285](record/questions.d/QUESTION-285.md) and [CLAIM-471](record/claims.d/CLAIM-471.md) corrected in place where the readings showed an attribution wrong. No status, title or warrant changed.
+- At the owner's review: [CLAIM-471](record/claims.d/CLAIM-471.md) version 2, restated around physical constraint formation, correspondence discovery and correspondence adaptation; [CLAIM-480](record/claims.d/CLAIM-480.md) version 2, a memory kernel counted as a constraint and the higher-order sheaf reduction ([THEORY-1090](record/theory.d/THEORY-1090.md)) brought in; [CLAIM-476](record/claims.d/CLAIM-476.md) version 2, the constitutive thesis only, resting on [CLAIM-469](record/claims.d/CLAIM-469.md); [TERM-089](record/terms.d/TERM-089.md) adopted (Active); [CASE-180](record/cases.d/CASE-180.md) and [CASE-178](record/cases.d/CASE-178.md) version 2, event rates kept apart from time-scale separation; [CLAIM-478](record/claims.d/CLAIM-478.md)'s notes corrected to match. No status or warrant of a claim changed.
+
+### Changed
+
+- Tenth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29, 07:39).
+- **Promoted:** [CLAIM-056](record/claims.d/CLAIM-056.md) (narrowed), [CLAIM-077](record/claims.d/CLAIM-077.md), [CLAIM-135](record/claims.d/CLAIM-135.md), [CLAIM-002](record/claims.d/CLAIM-002.md),
+  [CLAIM-419](record/claims.d/CLAIM-419.md), [CLAIM-324](record/claims.d/CLAIM-324.md); [THEORY-904](record/theory.d/THEORY-904.md), -908, -909, -913, -918, -922, -923, -218,
+  -087, -114 and -017 (most narrowed to what their sources showed).
+- **New:** [THEORY-1119](record/theory.d/THEORY-1119.md) and [THEORY-1118](record/theory.d/THEORY-1118.md) (proposal splits of [THEORY-071](record/theory.d/THEORY-071.md)
+  and [THEORY-040](record/theory.d/THEORY-040.md)); nine QUESTIONs holding promotion conditions the narrowed
+  titles no longer claim.
+- **Concessions written in:** [CLAIM-056](record/claims.d/CLAIM-056.md), [CLAIM-181](record/claims.d/CLAIM-181.md), [CLAIM-024](record/claims.d/CLAIM-024.md). **Restated:**
+  [CLAIM-118](record/claims.d/CLAIM-118.md), by what each history carries.
+- [THEORY-904](record/theory.d/THEORY-904.md)'s d = .79 corrected, with [NOTE-1131](record/notes.d/NOTE-1131.md).
+
+### Changed
+
+- Eleventh status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29).
+- **The six unwritten concessions written in:** [CLAIM-117](record/claims.d/CLAIM-117.md), [CLAIM-125](record/claims.d/CLAIM-125.md),
+  [CLAIM-063](record/claims.d/CLAIM-063.md) (with [ARG-006](record/arguments.d/ARG-006.md)), [CLAIM-050](record/claims.d/CLAIM-050.md), [CLAIM-105](record/claims.d/CLAIM-105.md); [CLAIM-230](record/claims.d/CLAIM-230.md) no longer objects
+  to [CLAIM-126](record/claims.d/CLAIM-126.md).
+- **Promoted:** [CLAIM-125](record/claims.d/CLAIM-125.md), [CLAIM-126](record/claims.d/CLAIM-126.md), [CLAIM-081](record/claims.d/CLAIM-081.md), [CLAIM-469](record/claims.d/CLAIM-469.md), [CLAIM-416](record/claims.d/CLAIM-416.md), [CLAIM-287](record/claims.d/CLAIM-287.md),
+  [CLAIM-429](record/claims.d/CLAIM-429.md) (narrowed), [CLAIM-188](record/claims.d/CLAIM-188.md); [THEORY-111](record/theory.d/THEORY-111.md), -112, -113 and -146 (narrowed).
+- **[CLAIM-154](record/claims.d/CLAIM-154.md)** narrowed to models regular where the candidate is switched off
+  ([CLAIM-188](record/claims.d/CLAIM-188.md), checked on [CASE-152](record/cases.d/CASE-152.md)'s model).
+- **[CLAIM-284](record/claims.d/CLAIM-284.md)** narrowed to [CLAIM-485](record/claims.d/CLAIM-485.md)'s distinction; still Proposed.
+- [CLAIM-269](record/claims.d/CLAIM-269.md) and [CLAIM-193](record/claims.d/CLAIM-193.md) ground on [THEORY-004](record/theory.d/THEORY-004.md) and [THEORY-723](record/theory.d/THEORY-723.md), not [THEORY-002](record/theory.d/THEORY-002.md).
+
+### Changed
+
+- Twelfth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29).
+- **Promoted:** [CLAIM-223](record/claims.d/CLAIM-223.md), [CLAIM-266](record/claims.d/CLAIM-266.md), [CLAIM-348](record/claims.d/CLAIM-348.md), [CLAIM-280](record/claims.d/CLAIM-280.md), [CLAIM-339](record/claims.d/CLAIM-339.md),
+  [CLAIM-485](record/claims.d/CLAIM-485.md); [THEORY-019](record/theory.d/THEORY-019.md) (the real Schur corollary proved), [THEORY-156](record/theory.d/THEORY-156.md) (narrowed
+  to standard Borel outcome spaces), [THEORY-168](record/theory.d/THEORY-168.md), [THEORY-214](record/theory.d/THEORY-214.md), [THEORY-327](record/theory.d/THEORY-327.md) and
+  [THEORY-335](record/theory.d/THEORY-335.md) (each narrowed, its unmet condition now a QUESTION).
+- **Adopted:** [TERM-075](record/terms.d/TERM-075.md), [TERM-085](record/terms.d/TERM-085.md), [TERM-090](record/terms.d/TERM-090.md). [TERM-092](record/terms.d/TERM-092.md) revised, still Proposed.
+- **Split on [THEORY-1110](record/theory.d/THEORY-1110.md)'s pattern:** "Kahl proposes" ([THEORY-1165](record/theory.d/THEORY-1165.md), from
+  [THEORY-219](record/theory.d/THEORY-219.md)), "Di Paolo argues" ([THEORY-1166](record/theory.d/THEORY-1166.md), from [THEORY-628](record/theory.d/THEORY-628.md)) and "Propp
+  proposes" ([THEORY-1164](record/theory.d/THEORY-1164.md), from [THEORY-167](record/theory.d/THEORY-167.md)), so [CLAIM-485](record/claims.d/CLAIM-485.md), -339, -288, -145
+  and -147 can stand on what the sources propose.
+- **[ARG-022](record/arguments.d/ARG-022.md) Rejected** on the condition its body names; [THEORY-168](record/theory.d/THEORY-168.md) now gives the
+  worked case. [QUESTION-092](record/questions.d/QUESTION-092.md) Answered by [CLAIM-485](record/claims.d/CLAIM-485.md).
+- [CLAIM-211](record/claims.d/CLAIM-211.md) narrowed to "Read as worded"; [CLAIM-450](record/claims.d/CLAIM-450.md), [CLAIM-406](record/claims.d/CLAIM-406.md) and [CLAIM-431](record/claims.d/CLAIM-431.md)
+  drop grounds that were not doing the work.
+
+### Changed
+
+- Thirteenth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29).
+- **Promoted claims:** [CLAIM-326](record/claims.d/CLAIM-326.md) (narrowed: the standard Borel condition is on
+  the source), [CLAIM-259](record/claims.d/CLAIM-259.md) (narrowed to report fidelity), [CLAIM-269](record/claims.d/CLAIM-269.md) (narrowed to
+  what readouts cannot supply), [CLAIM-149](record/claims.d/CLAIM-149.md), [CLAIM-199](record/claims.d/CLAIM-199.md), [CLAIM-284](record/claims.d/CLAIM-284.md), [CLAIM-406](record/claims.d/CLAIM-406.md),
+  [CLAIM-344](record/claims.d/CLAIM-344.md), [CLAIM-401](record/claims.d/CLAIM-401.md) ([QUESTION-252](record/questions.d/QUESTION-252.md)'s last clause split off as an Answered
+  child), [CLAIM-470](record/claims.d/CLAIM-470.md), [CLAIM-145](record/claims.d/CLAIM-145.md).
+- **Promoted readings:** [THEORY-897](record/theory.d/THEORY-897.md), -900, -901, -903, -907, -910, -912, -915,
+  -917 and -920; their unmet conditions are seven new QUESTIONs.
+- **Adopted:** [TERM-091](record/terms.d/TERM-091.md), [TERM-093](record/terms.d/TERM-093.md) (its formed row restated as map, not kernel).
+- **[CLAIM-489](record/claims.d/CLAIM-489.md) Rejected** on its own defeat condition ([THEORY-172](record/theory.d/THEORY-172.md)).
+- Grounds sorted under [ADR-058](record/decisions.d/ADR-058.md) on [CLAIM-446](record/claims.d/CLAIM-446.md), [CLAIM-174](record/claims.d/CLAIM-174.md), [CLAIM-068](record/claims.d/CLAIM-068.md), [CLAIM-029](record/claims.d/CLAIM-029.md),
+  [CLAIM-090](record/claims.d/CLAIM-090.md), [CLAIM-471](record/claims.d/CLAIM-471.md) and [CLAIM-193](record/claims.d/CLAIM-193.md).
+
+### Changed
+
+- Fourteenth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29).
+- **Promoted claims:** [CLAIM-450](record/claims.d/CLAIM-450.md), [CLAIM-279](record/claims.d/CLAIM-279.md), [CLAIM-443](record/claims.d/CLAIM-443.md) ([CLAIM-358](record/claims.d/CLAIM-358.md) now a
+  complement), [CLAIM-195](record/claims.d/CLAIM-195.md) ([CLAIM-185](record/claims.d/CLAIM-185.md) now a complement), [CLAIM-422](record/claims.d/CLAIM-422.md) (defeat
+  condition restated), [CLAIM-410](record/claims.d/CLAIM-410.md), [CLAIM-038](record/claims.d/CLAIM-038.md).
+- **Promoted readings:** [THEORY-921](record/theory.d/THEORY-921.md) and [THEORY-140](record/theory.d/THEORY-140.md), each narrowed, their unmet
+  conditions now QUESTIONs.
+- **Objections written in:** [CLAIM-194](record/claims.d/CLAIM-194.md) into [CLAIM-157](record/claims.d/CLAIM-157.md) and [CLAIM-174](record/claims.d/CLAIM-174.md); [CLAIM-393](record/claims.d/CLAIM-393.md)
+  into [CLAIM-174](record/claims.d/CLAIM-174.md).
+- **Split:** [QUESTION-055](record/questions.d/QUESTION-055.md)'s presheaf part, now Answered by [CLAIM-038](record/claims.d/CLAIM-038.md).
+- Grounds sorted under [ADR-058](record/decisions.d/ADR-058.md) on [CLAIM-446](record/claims.d/CLAIM-446.md), [CLAIM-068](record/claims.d/CLAIM-068.md), [CLAIM-052](record/claims.d/CLAIM-052.md), [CLAIM-138](record/claims.d/CLAIM-138.md),
+  [CLAIM-170](record/claims.d/CLAIM-170.md), [CLAIM-185](record/claims.d/CLAIM-185.md), [CLAIM-257](record/claims.d/CLAIM-257.md), [CLAIM-422](record/claims.d/CLAIM-422.md) and [CLAIM-410](record/claims.d/CLAIM-410.md).
+
+### Changed
+
+- Fifteenth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-30).
+- **Promoted claims:** [CLAIM-462](record/claims.d/CLAIM-462.md), [CLAIM-257](record/claims.d/CLAIM-257.md), [CLAIM-475](record/claims.d/CLAIM-475.md), [CLAIM-418](record/claims.d/CLAIM-418.md), [CLAIM-413](record/claims.d/CLAIM-413.md)
+  (title brought to its body), [CLAIM-359](record/claims.d/CLAIM-359.md), [CLAIM-403](record/claims.d/CLAIM-403.md), [CLAIM-194](record/claims.d/CLAIM-194.md), [CLAIM-360](record/claims.d/CLAIM-360.md).
+- **Promoted readings:** [THEORY-164](record/theory.d/THEORY-164.md) and [THEORY-174](record/theory.d/THEORY-174.md), each with its wide form
+  kept as a Proposed reading ([ADR-047](record/decisions.d/ADR-047.md), kind 1); [THEORY-034](record/theory.d/THEORY-034.md), its unplaced
+  texts a new QUESTION.
+- **Adopted:** [TERM-074](record/terms.d/TERM-074.md), [TERM-092](record/terms.d/TERM-092.md).
+- Grounds sorted under [ADR-058](record/decisions.d/ADR-058.md) on [CLAIM-446](record/claims.d/CLAIM-446.md), -359, -403, -276, -352, -183,
+  -194, -360, -033, -402, -413, -435, -475 and -476; [THEORY-103](record/theory.d/THEORY-103.md) bears on
+  [QUESTION-061](record/questions.d/QUESTION-061.md) rather than answering it ([ADR-060](record/decisions.d/ADR-060.md)).
+
+### Changed
+
+- Sixteenth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-30).
+- **Promoted claims:** [CLAIM-402](record/claims.d/CLAIM-402.md), [CLAIM-352](record/claims.d/CLAIM-352.md), [CLAIM-341](record/claims.d/CLAIM-341.md) (its objections now in
+  objects_to), [CLAIM-175](record/claims.d/CLAIM-175.md) (on an Active split of [THEORY-579](record/theory.d/THEORY-579.md)), [CLAIM-356](record/claims.d/CLAIM-356.md),
+  [CLAIM-296](record/claims.d/CLAIM-296.md), [CLAIM-273](record/claims.d/CLAIM-273.md) (title brought to its body), [CLAIM-363](record/claims.d/CLAIM-363.md), [CLAIM-288](record/claims.d/CLAIM-288.md)
+  (after conceding [CLAIM-356](record/claims.d/CLAIM-356.md)).
+- **Promoted reading:** [THEORY-265](record/theory.d/THEORY-265.md), on a checked re-implementation.
+- Grounds sorted under [ADR-058](record/decisions.d/ADR-058.md) on [CLAIM-402](record/claims.d/CLAIM-402.md), -352, -341, -355, -296, -273,
+  -363, -491, -288, -172 and -321; [QUESTION-061](record/questions.d/QUESTION-061.md)'s answers sorted ([ADR-060](record/decisions.d/ADR-060.md)).
+
+### Changed
+
+- Seventeenth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-30): the pragmatic-transport line is ruled through.
+- **Promoted claims:**
+  - [CLAIM-098](record/claims.d/CLAIM-098.md);
+  - [CLAIM-049](record/claims.d/CLAIM-049.md) (with corroboration from [THEORY-155](record/theory.d/THEORY-155.md) and [THEORY-489](record/theory.d/THEORY-489.md));
+  - [CLAIM-216](record/claims.d/CLAIM-216.md) (conceded by [CLAIM-204](record/claims.d/CLAIM-204.md));
+  - [CLAIM-321](record/claims.d/CLAIM-321.md), narrowed to spatial relations and attribute binding;
+  - [CLAIM-143](record/claims.d/CLAIM-143.md), narrowed to a class of admissible correspondences;
+  - [CLAIM-458](record/claims.d/CLAIM-458.md), narrowed (conceded in [CLAIM-240](record/claims.d/CLAIM-240.md)'s title).
+- [CLAIM-004](record/claims.d/CLAIM-004.md) leaves `rests_on` of [CLAIM-143](record/claims.d/CLAIM-143.md) and [CLAIM-151](record/claims.d/CLAIM-151.md), where it was only an attribution. [CLAIM-255](record/claims.d/CLAIM-255.md) now rests on [CLAIM-151](record/claims.d/CLAIM-151.md) and [CLAIM-160](record/claims.d/CLAIM-160.md).
+- 30 claims kept Proposed, each with a note saying what holds it back.
+- Worklist: an objection now counts when only the objector records it, and a claim argued only by unsound arguments is no longer listed as ready.
+
+### Changed
+
+- Eighteenth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-30): the distributed-agency and nucleating-argument lines are ruled through.
+- **Promoted claims:**
+  - [CLAIM-316](record/claims.d/CLAIM-316.md);
+  - [CLAIM-272](record/claims.d/CLAIM-272.md), narrowed;
+  - [CLAIM-357](record/claims.d/CLAIM-357.md), narrowed, with its defeat condition restated and its old thesis filed as [CLAIM-500](record/claims.d/CLAIM-500.md);
+  - [CLAIM-424](record/claims.d/CLAIM-424.md), narrowed;
+  - [CLAIM-420](record/claims.d/CLAIM-420.md), narrowed;
+  - [CLAIM-421](record/claims.d/CLAIM-421.md);
+  - [CLAIM-464](record/claims.d/CLAIM-464.md);
+  - [CLAIM-492](record/claims.d/CLAIM-492.md), conceded in [CLAIM-491](record/claims.d/CLAIM-491.md).
+- [CLAIM-308](record/claims.d/CLAIM-308.md)'s bound is corrected to 2 − (c_a + u)/c_r, and the claim concedes [CLAIM-314](record/claims.d/CLAIM-314.md). [CLAIM-179](record/claims.d/CLAIM-179.md) now grounds on [THEORY-311](record/theory.d/THEORY-311.md).
+- 25 claims and [THEORY-159](record/theory.d/THEORY-159.md) kept Proposed, each with a note saying what holds it back.
+- Worklist: it loads literature and lists live claims that need a work no NOTE reads.
+
+### Changed
+
+- Nineteenth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-30). No claim is left ready for a ruling.
+- **Promoted claims:** [CLAIM-122](record/claims.d/CLAIM-122.md), [CLAIM-353](record/claims.d/CLAIM-353.md), [CLAIM-411](record/claims.d/CLAIM-411.md) (conceded in [CLAIM-412](record/claims.d/CLAIM-412.md)), [CLAIM-460](record/claims.d/CLAIM-460.md), [CLAIM-497](record/claims.d/CLAIM-497.md).
+- **[CLAIM-282](record/claims.d/CLAIM-282.md) narrowed to its body.** The leave-one-out construction that showed its old title false is filed as [CLAIM-502](record/claims.d/CLAIM-502.md), Active and demonstrated.
+- **Eight Active claims no longer ground on unread works:** [CLAIM-019](record/claims.d/CLAIM-019.md), -023, -061, -132, -141, -233, -436 and -470.
+  - [CLAIM-132](record/claims.d/CLAIM-132.md) now stands on Peter and Weyl.
+  - [CLAIM-233](record/claims.d/CLAIM-233.md) is narrowed, and what Gutt's account predicts is filed as [CLAIM-501](record/claims.d/CLAIM-501.md).
+- **Kept Proposed, each with a note saying what holds it back:** 11 claims and [THEORY-1114](record/theory.d/THEORY-1114.md).
+- **Worklist:** a history note that only mentions an objection no longer counts as writing it in.
+
+### Changed
+
+- Twentieth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-30).
+- **Promoted:** [CASE-161](record/cases.d/CASE-161.md) and [CASE-162](record/cases.d/CASE-162.md), the first lab cases promoted. They rest on their stored results at PerspectiveLab@7e2edc2, re-checked figure by figure. [CLAIM-456](record/claims.d/CLAIM-456.md), [CLAIM-466](record/claims.d/CLAIM-466.md) and [CLAIM-454](record/claims.d/CLAIM-454.md) are promoted with them.
+- **No live claim now grounds on a work no NOTE reads.** 26 such edges on 14 Proposed claims are dropped. Three move to entries the record holds: [CLAIM-471](record/claims.d/CLAIM-471.md) to [CLAIM-480](record/claims.d/CLAIM-480.md), [CLAIM-488](record/claims.d/CLAIM-488.md) to [CLAIM-381](record/claims.d/CLAIM-381.md), and [CLAIM-494](record/claims.d/CLAIM-494.md) to [LIT-1729](record/literature.d/LIT-1729.md).
+- **Moved to corroboration:** [THEORY-871](record/theory.d/THEORY-871.md) on [CLAIM-412](record/claims.d/CLAIM-412.md). [CLAIM-137](record/claims.d/CLAIM-137.md)'s note is brought up to date.
+- **Worklist:** it lists only the sole blockers that no recent blocker note already answers.
+
+### Changed
+
+- Twenty-third status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-30).
+- **Promoted:** [CLAIM-172](record/claims.d/CLAIM-172.md) (on a split of [THEORY-069](record/theory.d/THEORY-069.md)), [CLAIM-448](record/claims.d/CLAIM-448.md) and [CLAIM-467](record/claims.d/CLAIM-467.md) (their sole blockers moved to corroboration), and [CLAIM-506](record/claims.d/CLAIM-506.md) (narrowed), 508 and 509. [THEORY-937](record/theory.d/THEORY-937.md) is promoted narrowed to the gate's logit, with an exact counterexample for the mixing proportion. [THEORY-1100](record/theory.d/THEORY-1100.md) and 906 are promoted as reports, with their wider theses filed beside them.
+- **Held entries rechecked:** 15 of the 16 whose blocker notes named something that had moved stay held, each with a dated note. The README now says a recheck leaves a dated note, which is what clears the flag.
+- **Worklist:** a blocker note naming a temporary code now watches that entry too.
+
+### Changed
+
+- Twenty-fourth status review ([ADR-057](record/decisions.d/ADR-057.md), [ADR-065](record/decisions.d/ADR-065.md); workbench entry of 2026-10-30): a reading-based sweep of the 570 Proposed readings with a source read in full.
+- **Promoted:** 29 readings, about half after narrowing, and [CLAIM-471](record/claims.d/CLAIM-471.md) narrowed to "estimate". The wider claims are filed beside them as 21 Proposed THEORYs and 14 QUESTIONs.
+- **Kept:** [THEORY-277](record/theory.d/THEORY-277.md), 339, 355, 359, 476 and 777, and [CLAIM-160](record/claims.d/CLAIM-160.md).
+- **Corrections:**
+  - [CLAIM-448](record/claims.d/CLAIM-448.md)'s removed ground was [LIT-1146](record/literature.d/LIT-1146.md)'s alias, not a code naming nothing.
+  - Thirteen `NOTE-xxxx` placeholders are replaced.
+
+### Changed
+
+- Fourth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-28).
+- **[CLAIM-277](record/claims.d/CLAIM-277.md) promoted.** It is promoted on [CASE-182](record/cases.d/CASE-182.md), a construction
+  of its two loops (scratch/formal/trust_loop.py). It now rests on
+  [CLAIM-282](record/claims.d/CLAIM-282.md), as its body said. [QUESTION-083](record/questions.d/QUESTION-083.md) is split, and
+  [QUESTION-295](record/questions.d/QUESTION-295.md) is Answered.
+- **168 offered answers moved.** Of the 240 Proposed `answers` edges on
+  Open questions, 168 move to `bears_on`. [ADR-060](record/decisions.d/ADR-060.md) version 2 covers offered
+  part-answers.
+- **The worklist** leaves out sound arguments whose held undercutters
+  already narrow them ([ADR-059](record/decisions.d/ADR-059.md)).
+- **Blockers recorded:** [CLAIM-063](record/claims.d/CLAIM-063.md)'s and [CLAIM-004](record/claims.d/CLAIM-004.md)'s are now on the
+  entries.
+- **luria 1.3.0 adopted ([ADR-057](record/decisions.d/ADR-057.md), mechanisms 3–5).**
+  - `reliance` ranks the pending report by dependents, and `load_bearing: 5`
+    names the most relied on (38, a warning).
+  - Four credence checks are reported patterns and fail the lint (all 0).
+  - Acknowledgements of retired premises without `until` are held at a
+    baseline of 41.
+- **The owner's rulings on the five UNSURE edges.**
+  - [CLAIM-160](record/claims.d/CLAIM-160.md), [CLAIM-296](record/claims.d/CLAIM-296.md) and [THEORY-219](record/theory.d/THEORY-219.md) now bear on their questions rather
+    than answering them. [CLAIM-160](record/claims.d/CLAIM-160.md) complements [CLAIM-204](record/claims.d/CLAIM-204.md), on intended
+    meaning against the act.
+  - [CLAIM-485](record/claims.d/CLAIM-485.md) is filed as the bridge that answers [QUESTION-092](record/questions.d/QUESTION-092.md): what
+    endogenous governance adds in the self-governing sense is revision of
+    its own standards, not allocation of authority.
+
+### Changed
+
+- Fifth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-28).
+- **Promoted:** [CLAIM-130](record/claims.d/CLAIM-130.md), [CLAIM-050](record/claims.d/CLAIM-050.md) (narrowed), [CLAIM-061](record/claims.d/CLAIM-061.md) (narrowed),
+  [CLAIM-106](record/claims.d/CLAIM-106.md).
+  - [CLAIM-130](record/claims.d/CLAIM-130.md) no longer rests on [CLAIM-127](record/claims.d/CLAIM-127.md). [QUESTION-030](record/questions.d/QUESTION-030.md) is split, and
+    [QUESTION-296](record/questions.d/QUESTION-296.md) is Answered.
+  - [CLAIM-050](record/claims.d/CLAIM-050.md) is narrowed to report fidelity and a ceiling, conceding
+    [CLAIM-225](record/claims.d/CLAIM-225.md), [CLAIM-230](record/claims.d/CLAIM-230.md) and [CLAIM-258](record/claims.d/CLAIM-258.md). The steps it took from unread
+    works are [CLAIM-488](record/claims.d/CLAIM-488.md).
+  - [CLAIM-061](record/claims.d/CLAIM-061.md) is narrowed to sufficiency, conceding [CLAIM-053](record/claims.d/CLAIM-053.md), [CLAIM-229](record/claims.d/CLAIM-229.md)
+    and [CLAIM-227](record/claims.d/CLAIM-227.md). Its necessity half is [CLAIM-486](record/claims.d/CLAIM-486.md).
+- **[CLAIM-027](record/claims.d/CLAIM-027.md) narrowed and promoted**, on the owner's ruling, and
+  [QUESTION-015](record/questions.d/QUESTION-015.md) is Answered by it. The explanatory gain the paper
+  stakes on it is now [CLAIM-487](record/claims.d/CLAIM-487.md), and [CLAIM-024](record/claims.d/CLAIM-024.md) objects to that.
+  [CLAIM-021](record/claims.d/CLAIM-021.md) now complements [CLAIM-024](record/claims.d/CLAIM-024.md) rather than objecting to it.
+- **Blockers recorded:** [THEORY-067](record/theory.d/THEORY-067.md), [CLAIM-169](record/claims.d/CLAIM-169.md), [THEORY-162](record/theory.d/THEORY-162.md) and [CLAIM-004](record/claims.d/CLAIM-004.md).
+- **[ADR-058](record/decisions.d/ADR-058.md):** [THEORY-067](record/theory.d/THEORY-067.md) corroborates [CLAIM-344](record/claims.d/CLAIM-344.md), and [THEORY-162](record/theory.d/THEORY-162.md)
+  corroborates [CLAIM-061](record/claims.d/CLAIM-061.md) and [CLAIM-363](record/claims.d/CLAIM-363.md).
+
+### Changed
+
+- Sixth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-28).
+- **Promoted:** [CLAIM-368](record/claims.d/CLAIM-368.md). It stands on [CLAIM-283](record/claims.d/CLAIM-283.md), [CLAIM-027](record/claims.d/CLAIM-027.md) and [TERM-060](record/terms.d/TERM-060.md); its three readings corroborate it.
+- **[ARG-017](record/arguments.d/ARG-017.md) to Proposed**, and [CLAIM-228](record/claims.d/CLAIM-228.md) is retitled to the proposal it kept: that the restated D_obs is informative. That waits on [CASE-055](record/cases.d/CASE-055.md).
+- **Narrowed to concessions:**
+  - [CLAIM-082](record/claims.d/CLAIM-082.md) to value ([CLAIM-072](record/claims.d/CLAIM-072.md), [ARG-034](record/arguments.d/ARG-034.md)); its first title is [CLAIM-489](record/claims.d/CLAIM-489.md).
+  - [CLAIM-162](record/claims.d/CLAIM-162.md) to non-crossing valuations ([ARG-016](record/arguments.d/ARG-016.md)).
+- **Blockers recorded:** [THEORY-056](record/theory.d/THEORY-056.md), [THEORY-159](record/theory.d/THEORY-159.md), [THEORY-070](record/theory.d/THEORY-070.md), [THEORY-232](record/theory.d/THEORY-232.md), [THEORY-052](record/theory.d/THEORY-052.md), [THEORY-217](record/theory.d/THEORY-217.md), [CLAIM-082](record/claims.d/CLAIM-082.md), [CLAIM-159](record/claims.d/CLAIM-159.md), [CLAIM-162](record/claims.d/CLAIM-162.md) and [CLAIM-358](record/claims.d/CLAIM-358.md).
+- **[ADR-058](record/decisions.d/ADR-058.md):** readings move to `corroborated_by` on [CLAIM-358](record/claims.d/CLAIM-358.md), [CLAIM-440](record/claims.d/CLAIM-440.md), [CLAIM-368](record/claims.d/CLAIM-368.md) and [CLAIM-082](record/claims.d/CLAIM-082.md). [CASE-109](record/cases.d/CASE-109.md) illustrates [CLAIM-358](record/claims.d/CLAIM-358.md). [THEORY-070](record/theory.d/THEORY-070.md) bears on [QUESTION-054](record/questions.d/QUESTION-054.md).
+- **At the owner's direction:**
+  - [THEORY-1110](record/theory.d/THEORY-1110.md), Active, states what the expected-value-of-control paper proposes, split from [THEORY-070](record/theory.d/THEORY-070.md). [CLAIM-159](record/claims.d/CLAIM-159.md) now grounds on it.
+  - [ARG-040](record/arguments.d/ARG-040.md) files a second line to [CLAIM-115](record/claims.d/CLAIM-115.md) from [CLAIM-242](record/claims.d/CLAIM-242.md)'s use-level contrast, independent of Saussure.
+
+### Changed
+
+- Seventh status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29): the
+  concessions the worklist found unwritten are written into their targets
+  ([ADR-059](record/decisions.d/ADR-059.md)).
+- **Narrowed:** [CLAIM-137](record/claims.d/CLAIM-137.md) (an anchored symmetry group, [CLAIM-249](record/claims.d/CLAIM-249.md)), [CLAIM-013](record/claims.d/CLAIM-013.md)
+  ([CLAIM-097](record/claims.d/CLAIM-097.md)), [CLAIM-005](record/claims.d/CLAIM-005.md) ([CLAIM-207](record/claims.d/CLAIM-207.md), [CLAIM-256](record/claims.d/CLAIM-256.md)) and [CLAIM-084](record/claims.d/CLAIM-084.md) (a reliable
+  footing measure first, [CLAIM-227](record/claims.d/CLAIM-227.md)).
+- **Defeat conditions given margins:** [CLAIM-139](record/claims.d/CLAIM-139.md), [CLAIM-115](record/claims.d/CLAIM-115.md) and [CLAIM-143](record/claims.d/CLAIM-143.md)
+  ([CLAIM-238](record/claims.d/CLAIM-238.md)), titles unchanged. [CLAIM-139](record/claims.d/CLAIM-139.md) and [CLAIM-115](record/claims.d/CLAIM-115.md) no longer complement
+  each other ([CLAIM-211](record/claims.d/CLAIM-211.md)), and [CLAIM-139](record/claims.d/CLAIM-139.md) answers [QUESTION-002](record/questions.d/QUESTION-002.md).
+- [CLAIM-132](record/claims.d/CLAIM-132.md) no longer objects to [CLAIM-136](record/claims.d/CLAIM-136.md).
+- **Blockers recorded:** [CLAIM-136](record/claims.d/CLAIM-136.md), [CLAIM-137](record/claims.d/CLAIM-137.md), [CLAIM-139](record/claims.d/CLAIM-139.md), [CLAIM-115](record/claims.d/CLAIM-115.md),
+  [CLAIM-143](record/claims.d/CLAIM-143.md), [CLAIM-013](record/claims.d/CLAIM-013.md), [CLAIM-005](record/claims.d/CLAIM-005.md), [CLAIM-084](record/claims.d/CLAIM-084.md), [CLAIM-301](record/claims.d/CLAIM-301.md) and [CLAIM-295](record/claims.d/CLAIM-295.md).
+- **Superseded:** [CLAIM-115](record/claims.d/CLAIM-115.md) by [CLAIM-220](record/claims.d/CLAIM-220.md) and [CLAIM-139](record/claims.d/CLAIM-139.md) by [CLAIM-204](record/claims.d/CLAIM-204.md). [CLAIM-078](record/claims.d/CLAIM-078.md)
+  and [CLAIM-450](record/claims.d/CLAIM-450.md) now rest on [CLAIM-220](record/claims.d/CLAIM-220.md). [ARG-019](record/arguments.d/ARG-019.md) and [ARG-040](record/arguments.d/ARG-040.md) conclude it.
+  [CLAIM-129](record/claims.d/CLAIM-129.md) and [CLAIM-215](record/claims.d/CLAIM-215.md) complement the successors.
+- **Defeat conditions restated:** [CLAIM-005](record/claims.d/CLAIM-005.md) ([CLAIM-207](record/claims.d/CLAIM-207.md), [CLAIM-226](record/claims.d/CLAIM-226.md),
+  [CLAIM-238](record/claims.d/CLAIM-238.md)), [CLAIM-295](record/claims.d/CLAIM-295.md) (to match its title), [CLAIM-220](record/claims.d/CLAIM-220.md) and [CLAIM-204](record/claims.d/CLAIM-204.md)
+  (power and weights fixed in advance).
+
+### Changed
+
+- Eighth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29, 06:24).
+- **Adopted:** [TERM-078](record/terms.d/TERM-078.md) and [TERM-072](record/terms.d/TERM-072.md). **Promoted:** [CLAIM-347](record/claims.d/CLAIM-347.md), [CLAIM-275](record/claims.d/CLAIM-275.md)
+  (narrowed) and [THEORY-285](record/theory.d/THEORY-285.md) (narrowed; its promotion condition is now
+  [QUESTION-303](record/questions.d/QUESTION-303.md)).
+- **[CLAIM-349](record/claims.d/CLAIM-349.md)** rests on [CLAIM-027](record/claims.d/CLAIM-027.md) and [CLAIM-025](record/claims.d/CLAIM-025.md), with [CLAIM-156](record/claims.d/CLAIM-156.md) and the ACT
+  readings as corroboration. **[CLAIM-156](record/claims.d/CLAIM-156.md)** is narrowed to what its defeat
+  condition tests. **[TERM-076](record/terms.d/TERM-076.md)** says contest, not frustration ([CLAIM-449](record/claims.d/CLAIM-449.md)).
+- **Relation fixes ([ADR-058](record/decisions.d/ADR-058.md), [ADR-060](record/decisions.d/ADR-060.md)):** [CLAIM-039](record/claims.d/CLAIM-039.md), [CLAIM-151](record/claims.d/CLAIM-151.md), [CLAIM-156](record/claims.d/CLAIM-156.md),
+  [CLAIM-347](record/claims.d/CLAIM-347.md), [CLAIM-356](record/claims.d/CLAIM-356.md), [CLAIM-436](record/claims.d/CLAIM-436.md), [CLAIM-477](record/claims.d/CLAIM-477.md), [CLAIM-184](record/claims.d/CLAIM-184.md) → [CLAIM-185](record/claims.d/CLAIM-185.md) and
+  [THEORY-101](record/theory.d/THEORY-101.md) → [QUESTION-059](record/questions.d/QUESTION-059.md).
+- [QUESTION-044](record/questions.d/QUESTION-044.md) is Open again with its line.
+- Nineteen temporary codes split by a line wrap are rewritten to their codes.
+
+### Changed
+
+- Ninth status review ([ADR-057](record/decisions.d/ADR-057.md); workbench entry of 2026-10-29).
+- **Promoted:** [CLAIM-405](record/claims.d/CLAIM-405.md), [CLAIM-042](record/claims.d/CLAIM-042.md) (narrowed), [CLAIM-113](record/claims.d/CLAIM-113.md), [CLAIM-331](record/claims.d/CLAIM-331.md),
+  [CLAIM-349](record/claims.d/CLAIM-349.md), [CLAIM-297](record/claims.d/CLAIM-297.md), [CLAIM-261](record/claims.d/CLAIM-261.md), [CLAIM-342](record/claims.d/CLAIM-342.md), [CLAIM-159](record/claims.d/CLAIM-159.md), [CLAIM-449](record/claims.d/CLAIM-449.md) and
+  [CLAIM-436](record/claims.d/CLAIM-436.md); [THEORY-481](record/theory.d/THEORY-481.md) (corrected and narrowed). **Adopted:** [TERM-073](record/terms.d/TERM-073.md).
+- **New:** [THEORY-1117](record/theory.d/THEORY-1117.md), what Ainslie proposes, split from [THEORY-067](record/theory.d/THEORY-067.md);
+  [QUESTION-305](record/questions.d/QUESTION-305.md) ([THEORY-481](record/theory.d/THEORY-481.md)'s alignment condition) and [QUESTION-304](record/questions.d/QUESTION-304.md)
+  (split from [QUESTION-078](record/questions.d/QUESTION-078.md), Answered by [CLAIM-261](record/claims.d/CLAIM-261.md)).
+- **[CLAIM-440](record/claims.d/CLAIM-440.md)** written up to [CLAIM-449](record/claims.d/CLAIM-449.md) and [CLAIM-448](record/claims.d/CLAIM-448.md). **[CLAIM-074](record/claims.d/CLAIM-074.md)** narrowed
+  to what each history carries. **[CLAIM-118](record/claims.d/CLAIM-118.md)**'s readings corroborate it.
+- [QUESTION-059](record/questions.d/QUESTION-059.md)'s answerers bear on it; none answers it as posed.
+
+### Changed
+
+- **Status-review worklist reordered ([ADR-057](record/decisions.d/ADR-057.md) version 6).** The sections that
+  must be empty come first, now including stale converses (a Proposed reading
+  still supporting an Active claim). Then the work: claims ready for a ruling
+  (unblocked and not held by a recent blocker note), grouped by line; sole
+  blockers, the unheld premises ranked by how many claims each alone holds
+  back; blocker notes a premise has changed since; and readings no source of
+  which is read in full. Reach, which had flattened to 1, is printed last.
+
+### Added
+
+- `record/status-review/README.md`: how a pass is run, from building the
+  worklist to landing the pull request, including [ADR-047](record/decisions.d/ADR-047.md)'s routing of a
+  narrowing's dropped clauses. It replaces briefs kept outside the record.
+
+### Added
+
+- [ADR-057](record/decisions.d/ADR-057.md) (Proposed): status review is ranked by reliance, derived from
+  the record on each pass, covers relations as well as statuses, and makes
+  its changes in the pull request that decides them. It proposes five lint
+  forcing functions against a repeat of the backlog.
+- `record/status-review/worklist.py`, with tests: load-bearing Proposed
+  entries, credence inversions, retired premises, Open questions with an
+  Active answer, and unblocked Proposed claims.
+- [CLAIM-482](record/claims.d/CLAIM-482.md): a reply to [CLAIM-089](record/claims.d/CLAIM-089.md) on [CLAIM-434](record/claims.d/CLAIM-434.md)'s result.
+- [TERM-095](record/terms.d/TERM-095.md): inquiry, as (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑).
+
+### Changed
+
+- `stale_days: 14`. The default of 90 could not name a stale document in
+  a record a month old.
+- [CLAIM-365](record/claims.d/CLAIM-365.md) `complements` [CLAIM-347](record/claims.d/CLAIM-347.md) instead of resting on it.
+  [CLAIM-159](record/claims.d/CLAIM-159.md) `objects_to` [CLAIM-024](record/claims.d/CLAIM-024.md). [CLAIM-470](record/claims.d/CLAIM-470.md) and [CLAIM-475](record/claims.d/CLAIM-475.md) use the new
+  TERM.
+- The workbench entry of 2026-10-27 records the pass.
+- The owner's rulings, 2026-10-27:
+  - [ADR-057](record/decisions.d/ADR-057.md) is Active and [ADR-047](record/decisions.d/ADR-047.md) Superseded.
+  - [CLAIM-482](record/claims.d/CLAIM-482.md) is held, and [CLAIM-089](record/claims.d/CLAIM-089.md) is Rejected.
+  - [TERM-095](record/terms.d/TERM-095.md) (inquiry) is adopted.
+  - Mechanism 2 is declined ([DP-3](docs/design-principles.md#dp-3)), and mechanism 5 is adopted as a
+    convention.
+- The five promotions [ADR-047](record/decisions.d/ADR-047.md)'s audit decided and never carried out:
+  - [CLAIM-322](record/claims.d/CLAIM-322.md), [CLAIM-328](record/claims.d/CLAIM-328.md) and [CLAIM-046](record/claims.d/CLAIM-046.md) are Active.
+  - [CLAIM-241](record/claims.d/CLAIM-241.md) is Active, and [CLAIM-217](record/claims.d/CLAIM-217.md) concedes it at version 2: uptake is
+    a defeasible standard.
+  - [THEORY-073](record/theory.d/THEORY-073.md) is narrowed to Friston's 2013 formulation and promoted. The
+    wider form is [THEORY-1097](record/theory.d/THEORY-1097.md), Proposed.
+- Pass 2 (workbench entry of 2026-10-27):
+  - [CLAIM-283](record/claims.d/CLAIM-283.md), [CLAIM-025](record/claims.d/CLAIM-025.md) and [CLAIM-177](record/claims.d/CLAIM-177.md) are promoted. [CLAIM-283](record/claims.d/CLAIM-283.md) and
+    [CLAIM-177](record/claims.d/CLAIM-177.md) are narrowed, with their dropped halves filed as
+    [CLAIM-484](record/claims.d/CLAIM-484.md) and [CLAIM-483](record/claims.d/CLAIM-483.md).
+  - [TERM-094](record/terms.d/TERM-094.md) (Frijda's action readiness) and [CASE-181](record/cases.d/CASE-181.md)
+    (Frankfurt's unwilling addict) take the place of contested THEORYs as
+    the grounds of claims that used only their concept or case.
+  - Four claims move off Superseded TERMs.
+  - The worklist counts inversions on ARGs.
+- Pass 3 (workbench entry of 2026-10-27):
+  - [ADR-058](record/decisions.d/ADR-058.md): a THEORY can corroborate a CLAIM. 16 edges move from
+    `grounds` to `corroborated_by`.
+  - [THEORY-1096](record/theory.d/THEORY-1096.md) states Blackwell's definitions and easy direction with
+    a proof, and ten claims move onto it. Five claims move from [THEORY-174](record/theory.d/THEORY-174.md)
+    to [THEORY-720](record/theory.d/THEORY-720.md).
+  - Credence inversions go from 38 to 3. The three that remain need the
+    owner's ruling.
+  - Eight questions are split under [ADR-049](record/decisions.d/ADR-049.md). [ADR-049](record/decisions.d/ADR-049.md) version 2 sizes
+    splits by [ADR-057](record/decisions.d/ADR-057.md)'s pass.
+- The owner's rulings on pass 3:
+  - [CLAIM-069](record/claims.d/CLAIM-069.md) and [CLAIM-438](record/claims.d/CLAIM-438.md) are Proposed.
+  - [ADR-060](record/decisions.d/ADR-060.md) adds `bears_on` and `bearing`, and moves 102 Active `answers`
+    edges on Open questions to `bears_on`.
+  - [ADR-059](record/decisions.d/ADR-059.md) (Proposed) says what a status means for an ARG (credence in
+    its inference) and for a conceded counter (recorded by the target's
+    revision).
+- [ADR-059](record/decisions.d/ADR-059.md) is accepted. The worklist lists sound arguments with unheld
+  conclusions in place of ARG premise inversions, and the claims template's
+  convention for conceded counters is rewritten.
+
+### Added
+
+- **Readings filed for unread works that held entries wait on (2026-10-30).** 30 new LITs and 38 NOTEs. Five held works return to Active, read from lawful copies: [LIT-1728](record/literature.d/LIT-1728.md), [LIT-588](record/literature.d/LIT-588.md), [LIT-1375](record/literature.d/LIT-1375.md), [LIT-756](record/literature.d/LIT-756.md) and [LIT-1079](record/literature.d/LIT-1079.md). Works located but not fetchable are filed or marked Unfetched, with their addresses.
+- **[CLAIM-503](record/claims.d/CLAIM-503.md):** Le Cam's randomization criterion for finite experiments, derived and checked. Active and demonstrated.
+
+### Changed
+
+- **Promoted:** [CLAIM-501](record/claims.d/CLAIM-501.md), [CLAIM-205](record/claims.d/CLAIM-205.md) (narrowed), [CLAIM-018](record/claims.d/CLAIM-018.md) and [CLAIM-488](record/claims.d/CLAIM-488.md). [ARG-031](record/arguments.d/ARG-031.md) is Rejected.
+- **New Proposed claims:** [CLAIM-504](record/claims.d/CLAIM-504.md) and [CLAIM-505](record/claims.d/CLAIM-505.md).
+- **Corrected from first-hand readings:** [CLAIM-181](record/claims.d/CLAIM-181.md), [CLAIM-233](record/claims.d/CLAIM-233.md), [CLAIM-476](record/claims.d/CLAIM-476.md), [TERM-087](record/terms.d/TERM-087.md), [THEORY-069](record/theory.d/THEORY-069.md), [THEORY-565](record/theory.d/THEORY-565.md), [THEORY-728](record/theory.d/THEORY-728.md) and [THEORY-896](record/theory.d/THEORY-896.md).
+- **[LIT-536](record/literature.d/LIT-536.md)'s status note corrected.** HAL holds only the Introduction. [NOTE-784](record/notes.d/NOTE-784.md) is superseded.
+
+### Changed
+
+- [THEORY-1011](record/theory.d/THEORY-1011.md) is Rejected at the owner's decision. Its localization part, that the middle layers causal tracing implicates are where a fact is stored, met its own refutation clause: Hase et al. ([THEORY-1024](record/theory.d/THEORY-1024.md)) find edits of equal quality at layers tracing does not implicate. Its promote_when now says what would reinstate it. The conjecture its title bundled, that any fact could be stored equally in any middle MLP layer, is split out to [THEORY-1039](record/theory.d/THEORY-1039.md) (Proposed), under [ADR-047](record/decisions.d/ADR-047.md)'s rule on dropped claims. Its promote_when asks for a clean-run ablation, layer by layer, and rules out more successful edits as evidence. Dated notes on [NOTE-1166](record/notes.d/NOTE-1166.md) and [LIT-968](record/literature.d/LIT-968.md).
+- `docs.yml` cancels a pull request's `docs-check` run when a newer push overtakes it. The overtaken run's repair rebased in the newer push's unrepaired commits and linted them red. Runs on the default branch are not affected. [ADR-054](record/decisions.d/ADR-054.md) records it as a consequence (version 2).
+
+### Changed
+
+- **Worklist: concessions** ([ADR-057](record/decisions.d/ADR-057.md) v4). The section now reads every Active
+  objection, not only `role: granted` ones, so counters that went Active when
+  conceded ([CLAIM-222](record/claims.d/CLAIM-222.md), [CLAIM-226](record/claims.d/CLAIM-226.md), [CLAIM-243](record/claims.d/CLAIM-243.md), [CLAIM-071](record/claims.d/CLAIM-071.md)) are listed. A target
+  filed with the concession already in its text says so under a fixed note
+  heading, "filed with its concessions", instead of a version bump.
+- **Worklist: live objections.** An Active objection written into its target
+  no longer counts as live, so a narrowed claim can show as unblocked.
+
+### Changed
+
+- The status-review worklist ([ADR-057](record/decisions.d/ADR-057.md), version 3) gains two sections.
+  - **Held:** an entry with a blocker note under 14 days old, headed `what holds it back`, is listed as held rather than as work, so the next pass does not re-review it.
+  - **Concessions not written into their targets:** an Active granted claim whose target has no revision since the concession. It lists 14 today.
+- [THEORY-067](record/theory.d/THEORY-067.md)'s and [CLAIM-169](record/claims.d/CLAIM-169.md)'s blocker notes take the fixed heading.
+
+### Changed
+
+- **Worklist: a concession is written only where it is named** ([ADR-057](record/decisions.d/ADR-057.md) v5).
+  A target revised for something else after an objection no longer counts as
+  having conceded it; its history note, or a "filed with its concessions"
+  note, must name the objection. A Proposed objection written in no longer
+  counts as live. Fired on main: eight unwritten concessions surface,
+  among them [CLAIM-031](record/claims.d/CLAIM-031.md) and [CLAIM-208](record/claims.d/CLAIM-208.md) against [CLAIM-056](record/claims.d/CLAIM-056.md).
+
 <!-- luria-insert-here -->

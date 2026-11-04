@@ -26,7 +26,6 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: THEORY-112 THEORY-114 — Proposed; the alignment and shared-history accounts this result is set beside, not leaned on -->
 
 # THEORY-509: Under genericity conditions, two dense or top-k (k ≥ 2) mixture-of-experts layers compute the same function only if they differ by a permutation of the experts with their gates and a common translation of the gate weights, and the translation leaves every interpolation barrier unchanged, so expert order is the only gate symmetry alignment must undo
 

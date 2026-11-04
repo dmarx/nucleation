@@ -41,7 +41,7 @@ summary: >-
   and content-free; and one mouse regimen fails the main analysis.
 ---
 <!-- inactive-ok-file: THEORY-240 THEORY-091 THEORY-063 THEORY-497 — Proposed; accounts this one is set beside, not leaned on -->
-<!-- inactive-ok-file: CLAIM-412 CLAIM-411 — Proposed; the batch's claims, cited as open -->
+<!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claims, cited as open -->
 
 # THEORY-881: Across humans, macaques, marmosets and mice, loss of behavioural responsiveness under anaesthesia goes with lower whole-brain pairwise integrated information ΦR in resting fMRI, and its return goes with ΦR's return, including when central thalamic stimulation restores responsiveness during continued anaesthesia; ΦR tracks the macaque arousal score better than the original Φ, causal density, net information flow or functional connectivity
 

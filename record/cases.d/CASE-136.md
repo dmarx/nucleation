@@ -49,7 +49,6 @@ reported_in:
 - NOTE-1082
 - NOTE-1083
 ---
-<!-- inactive-ok-file: CLAIM-421 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-136: The doorway effect: memory for an object carried through a doorway into another room is worse than after walking as far within one, returning to the first room does not restore it, and outside the original laboratory's set-up the effect has not always appeared
 

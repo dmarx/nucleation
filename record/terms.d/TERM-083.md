@@ -32,7 +32,7 @@ summary: >-
   the displaced are owed consideration whether or not they form one agent.
   Proposed.
 ---
-<!-- inactive-ok-file: LIT-1947 QUESTION-368 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
+<!-- inactive-ok-file: LIT-1947 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
 
 # TERM-083: moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others
 

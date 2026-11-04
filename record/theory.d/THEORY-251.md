@@ -28,7 +28,7 @@ summary: >-
   readout explanation is inferred from that dissociation, not measured;
   base Llama-3.1-8B and Gemma-2-2B, mostly synthetic data.
 ---
-<!-- inactive-ok-file: CLAIM-029 CLAIM-118 THEORY-264 — Proposed; claims and theory this account bears on, open -->
+<!-- inactive-ok-file: CLAIM-029 THEORY-264 — Proposed; claims and theory this account bears on, open -->
 
 # THEORY-251: In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout
 

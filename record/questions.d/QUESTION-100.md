@@ -42,7 +42,7 @@ refined_by:
 bearing:
 - CLAIM-297
 ---
-<!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-281 CLAIM-285 CLAIM-297 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-100: Beyond the linearization at symmetry, when does coupling interpretation-dependent retrieval to performance-dependent endorsement produce stable expertise, and when does it produce self-reinforcing interpretive capture?
 
@@ -81,7 +81,6 @@ regime.
 
 ## Note of 2026-10-26: a nonlinear fold, and capture in a population
 
-<!-- inactive-ok-file: CASE-162 — Proposed; the lab's capture runs filed 2026-10-26, cited as bearing on the remainder, not as answering it -->
 
 [CASE-162](../cases.d/CASE-162.md) bears on the remainder without answering it
 (dmarx/PerspectiveLab@7e2edc2).

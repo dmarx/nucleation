@@ -53,7 +53,7 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: THEORY-112 THEORY-109 — Proposed; the accounts this one extends, filed with it -->
+<!-- inactive-ok-file: THEORY-109 — Proposed; the accounts this one extends, filed with it -->
 
 # THEORY-110: A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex
 

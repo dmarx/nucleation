@@ -55,7 +55,6 @@ summary: >-
   for syntrophy; this claim is the record's judgement that the split
   cannot carry that reading.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # CLAIM-506: The split of the last eukaryotic common ancestor's central carbon metabolism, archaeal enzymes in the cytosol and alphaproteobacterial ones in the mitochondrion, does not single out syntrophy: a host that kept its own archaeal glycolysis and took up a bacterium with a TCA cycle leaves it whether the partnership began in syntrophy or by engulfment by an already complex host, and what the split counts against is a host whose carbon metabolism was replaced by the symbiont's
 

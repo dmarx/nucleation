@@ -48,7 +48,6 @@ used_by:
 - CLAIM-407
 - CLAIM-399
 ---
-<!-- inactive-ok-file: CLAIM-122 — Proposed; the supervisory test this profile parameterizes, open -->
 
 # TERM-067: governance-response profile, of a state for a declared family of interventions on the mechanisms that govern efficacy: the tuple of its response kernels, J_I(s) = (K_i(· | s))_{i∈I} with K_i(y | s) = P(Y^(i) = y | S = s); a description is governance-response sufficient for (I, Y) when the profile factors through it
 
@@ -132,3 +131,9 @@ governance-response sufficient in this term's sense. None was run. A40's
 and A41's interventions on access change outcomes by construction (where
 operators differ, changing who acts where must change the output), and do
 not test it. The term is unchanged.
+
+## Note of 2026-11-02: proposed a fourth and fifth time
+
+In the exchange "Assess SDT Coverage" (2026-11-02), A21 §9 (four matched systems) and A22 §10 proposed the
+matched-populations test again. Neither cited this term's note of
+2026-10-25, and it is still not run.

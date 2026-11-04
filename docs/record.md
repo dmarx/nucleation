@@ -31,6 +31,45 @@ A code — `ADR-012` — resolves to a document, and every reference to it in th
 
 A scheme's own account of itself, where it gives one — `title` and `blurb` on `schemes.X`. The table above says where a family's files live and how its codes are spelled; this says what the family is for, which is the part a reader needs first and the part a config could not previously state (#279).
 
+**`LIT`** — Works
+
+One entry per work: its bibliography, its source identifier and its standing here, which is whether it is worth reading and not whether its findings are true. A work nobody has tried to read is Deferred; one whose lawful copy was not reached is Unfetched or Unavailable. Ported unchanged from the Anthology of the SOTA, so a work can move between the two records (ADR-001).
+
+**`NOTE`** — Readings
+
+One entry per work actually read: what it contains, assumes and shows, and how deeply it was read. Its status says Read or Skimmed, honestly. A reading is not the work's standing, which is the LIT's, and the two may disagree. No NOTE means the work is unread.
+
+**`THEORY`** — Accounts
+
+A claim about what is true, attributed to the work it comes from, with the evidence that work gives. Its status is the record's credence in the account. A Proposed one says in promote_when what would make it accepted, and asks only for what its title asserts (ADR-065).
+
+**`ADR`** — Decisions
+
+A decision about how the record works, with the alternatives it rejected. It is superseded when the choice changes, and corrected in place, with its version bumped, when only a reason was wrong.
+
+**`DP`** — Design principles
+
+A standing value that decisions cite by number, stated as a claim someone could disagree with. Read as one page.
+
+**`QUESTION`** — Questions
+
+What the record is asking, filed under a line of inquiry. A question is Open until an Active claim or account answers it. A partly answered one splits into an Answered child and a narrowed Open parent (ADR-049).
+
+**`CLAIM`** — Claims
+
+What the record itself holds about its subject matter, as distinct from its readings of others' (ADR-032). Each has a credence (status), a voice (role) and a warrant (demonstrated, empirical or interpretive; ADR-043). An objection is a claim. rests_on joins claims and grounds points outside them, so an argument and its objections render as chains.
+
+**`CASE`** — Cases
+
+An example the argument uses: a real specimen, a thought experiment, a formal construction, or a study reported, proposed or executed (ADR-042). Its standing says how much of it is fact, and reported_in says where the record got it (ADR-051).
+
+**`TERM`** — Terms
+
+A concept the record defines and uses, versioned by supersession. A term says what job its definition does (ADR-056). Where the record uses a concept in its own sense, it cites the term by code (ADR-038).
+
+**`ARG`** — Arguments
+
+What the record says about support between its entries: that these premises do, or do not, establish this conclusion (ADR-061). Its status is the verdict on the inference, not on the conclusion. "X does not show Y" is the ARG from X to Y, Rejected, with the form's critical questions answered in its body.
 
 ## What an entry must carry
 
@@ -243,6 +282,7 @@ Everything not listed here is at Luria's default.
 | key | this project | Luria's default |
 |---|---|---|
 | `issue_url` | `https://github.com/dmarx/nucleation/issues/{n}` | *empty* |
+| `code.globs` | `.claude/skills/**/*.md` | *empty* |
 | `chains.lineage` | *6 keys set* | *unset* |
 | `chains.theory` | *6 keys set* | *unset* |
 | `chains.argument` | *7 keys set* | *unset* |

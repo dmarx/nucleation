@@ -43,7 +43,6 @@ summary: >-
   be optimistic". Active as a report of the proposal; whether it is
   right, which wants a test, is THEORY-1216, Proposed.
 ---
-<!-- inactive-ok-file: CLAIM-470 — Proposed; the claim whose defeater this bears on, cited as open -->
 
 # THEORY-1084: Simon proposes that ill structured problems can be handled by an alternation between a solver working on a problem that is well structured at each moment and a recognition and retrieval system that keeps modifying the problem space from memory or the environment, that a serial solver gains nothing by assembling the problem space at the outset, and that nothing but the size of the knowledge base may separate ill from well structured problems, so that no qualitatively new mechanisms are needed
 

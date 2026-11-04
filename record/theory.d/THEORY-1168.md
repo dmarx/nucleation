@@ -36,7 +36,6 @@ summary: >-
   definiteness. It does not say assembly is order-independent: an
   indefinite symmetric matrix has several sinks.
 ---
-<!-- inactive-ok-file: QUESTION-132 — Open; the question whose invasion-graph condition this meets in the potential case, cited as open -->
 
 # THEORY-1168: In a Lotka–Volterra community with a symmetric interaction matrix, the growth-weighted biomass rᵀx strictly increases along every edge of the invasion graph, so the invasion graph has no cycles
 

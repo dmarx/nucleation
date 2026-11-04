@@ -49,7 +49,7 @@ supports:
 ---
 <!-- inactive-ok-file: LIT-892 — Unavailable; registered unread, cited only for its fixed-point condition -->
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this claim undercuts -->
-<!-- inactive-ok-file: CLAIM-037 CLAIM-044 CLAIM-038 CLAIM-056 CLAIM-098 CLAIM-127 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-037 CLAIM-044 CLAIM-127 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-813 — Superseded; withdrawn by its authors, and cited only to say that A161 recommended it as current -->
 
 # CLAIM-141: Causal-loop consistency and sheaf contextuality are both local-to-global problems, but passing to distributions affects them oppositely: a loop with no deterministic solution has a distributional fixed point, while a model with no global section in its supports has no global distribution either

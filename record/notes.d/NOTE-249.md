@@ -48,7 +48,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-276 — Rejected: the paper this note reads, placed by this reading; the directive lapses when its status changes -->
-<!-- inactive-ok-file: THEORY-017 — Proposed: named only to warn against reading this paper as support for it; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-024 — Rejected; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-249: Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics

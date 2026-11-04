@@ -38,7 +38,6 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
-<!-- inactive-ok-file: CLAIM-098 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-035: Translation operations are generally not invertible, need not compose by a fixed rule, and preserve no structure given in advance; which communicative properties are invariant must be discovered or negotiated
 

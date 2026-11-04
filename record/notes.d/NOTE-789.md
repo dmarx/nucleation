@@ -27,7 +27,7 @@ summary: >-
   from the choice of examples or from relabelled categories leave the class
   manifolds separable and fail at the readout.
 ---
-<!-- inactive-ok-file: CLAIM-029 CLAIM-118 THEORY-251 THEORY-264 — Proposed; the claims this reading bears on and the theories it files, open -->
+<!-- inactive-ok-file: CLAIM-029 THEORY-251 THEORY-264 — Proposed; the claims this reading bears on and the theories it files, open -->
 
 # NOTE-789: Kirsanov et al. — The Geometry of Prompting
 

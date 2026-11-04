@@ -233,3 +233,11 @@ The paper reports others' results. Its main claims, with its pages:
 - The brief's citation is right. The DOI is printed in the PDF as
   "10.1037110003-066X.55.1.68", an OCR artefact of "10.1037//0003-066X.55.1.68";
   the registered DOI is 10.1037/0003-066X.55.1.68.
+
+## Note of 2026-11-03: attainment, read first-hand
+
+Niemiec et al. 2009 ([NOTE-1520](NOTE-1520.md)), the direct test, show extrinsic attainment
+adding nothing to well-being only with intrinsic attainment in the same model
+(β = .00 on well-being, .38 on ill-being). On its own extrinsic attainment
+correlates positively with well-being (mean r = .19) and with need
+satisfaction (.18).

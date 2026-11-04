@@ -6,13 +6,13 @@
 
 **The Organization of Will** — the owner's essay, drafted 2026-10-04 to 2026-10-06: will-organization as the agent-indexed organization of practical efficacy, and why effective will is precarious.
 
-16 of 531 CLAIM documents. Back to the [full index](../README.md).
+16 of 547 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CLAIM-018](../../../record/claims.d/CLAIM-018.md) v3 | Canguilhem's distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity | An interpretation, not a premise (Section 6.8): "Nor does the present argument depend upon importing Canguilhem's account into viability theory." Its absence from the premises of [ARG-007](../../../record/arguments.d/ARG-007.md) is how the record says so. | Active |
 | [CLAIM-021](../../../record/claims.d/CLAIM-021.md) v2 | The mechanisms composing a will-organization are not novel | Conceded to [CLAIM-024](../../../record/claims.d/CLAIM-024.md): the claimed novelty is a common explanatory role across realizers, not a mechanism (Sections 3.7, 7.1). | Active |
-| [CLAIM-022](../../../record/claims.d/CLAIM-022.md) | Explaining practical efficacy does not settle whose the will is | Section 7.2, "No. The theory explains practical efficacy, not ownership." What the authenticity line tried to supply, the paper now disclaims; [QUESTION-011](../../../record/questions.d/QUESTION-011.md) holds the question. | Active |
+| [CLAIM-022](../../../record/claims.d/CLAIM-022.md) v2 | Explaining practical efficacy does not settle whose the will is | Section 7.2, "No. The theory explains practical efficacy, not ownership." What the authenticity line tried to supply, the paper now disclaims; [QUESTION-011](../../../record/questions.d/QUESTION-011.md) holds the question. | Active |
 | [CLAIM-025](../../../record/claims.d/CLAIM-025.md) v3 | An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately | Section 6.2, from the emergency variant of Northstar. | Active |
 | [CLAIM-027](../../../record/claims.d/CLAIM-027.md) v4 | Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes, whatever mechanisms realize them | The paper's central thesis, Active since the status review of 2026-10-28. The audit called it the strongest original contribution. The comparison with planning, executive control and institutional decision procedures it owed is now owed by [CLAIM-487](../../../record/claims.d/CLAIM-487.md), the gain claim, which stays Proposed. | Active |
 | [CLAIM-032](../../../record/claims.d/CLAIM-032.md) v2 | Northstar's internal procedures are not morally or historically analogous to the regime Fraenkel described | The caution the paper states before using Fraenkel (Section 5.6). As an objection to the inference it narrows the respect in which the analogy holds, to structure alone. | Active |

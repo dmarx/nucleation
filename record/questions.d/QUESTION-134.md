@@ -32,7 +32,7 @@ summary: >-
   test for one mechanism of domination without defining domination as
   holding less authority.
 ---
-<!-- inactive-ok-file: CLAIM-266 CLAIM-277 CLAIM-297 CLAIM-356 CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # QUESTION-134: When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?
 

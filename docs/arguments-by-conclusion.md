@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 56 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 57 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 29 matches
 
@@ -137,3 +137,5 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-043](../record/arguments.d/ARG-043.md) — Bencherki's checklist and daycare, one end state with opposite verdicts, show a normative judgment about an organization that depends on a history its end state does not show *(Proposed, evidence)*
 - [CLAIM-522](../record/claims.d/CLAIM-522.md) — Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two *(Active, thesis)*
   - [ARG-050](../record/arguments.d/ARG-050.md) — An intervention that disables a production pathway inside a declared boundary, or interrupts an outside controller, locates the producer of a maintained organization, because the pathway causes the capacities with a delay and can be intervened on surgically, so the fat-handedness of interventions on wholes does not reach the inference *(Active, contrast)*
+- [CLAIM-547](../record/claims.d/CLAIM-547.md) — Cooperation within groups and the coexistence of groups are distinct targets that can trade off: in the group-selection rule of Nowak's five, b/c > 1 + n/m, cooperation spreads because a group that grows to size n splits and another group is driven extinct, so the mechanism that stabilizes cooperation inside groups works by removing groups; cooperation local to a group, the persistence of several groups whose interests are opposed, and concern for those outside one's group are three achievements, and none of them secures the next *(Proposed, thesis)*
+  - [ARG-052](../record/arguments.d/ARG-052.md) — Van Lange and Bergmann's model of intergroup cooperation does not establish that cooperation within groups and the coexistence of groups are distinct targets that can trade off: it shows that the processes building in-group cooperation can fuel conflict between groups, and says nothing on whether groups persist, go extinct or are owed impartial concern *(Rejected, source)*

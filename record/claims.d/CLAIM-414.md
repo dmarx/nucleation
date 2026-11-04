@@ -72,7 +72,6 @@ supports:
 - CLAIM-427
 - CLAIM-454
 ---
-<!-- inactive-ok-file: TERM-072 TERM-073 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
 # CLAIM-414: Matched ordinary trajectories can conceal differences in an interpretation's efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not
 
@@ -163,7 +162,7 @@ its construction meets that claim's conditions (A) and (B).
 
 ## Note of 2026-10-26: the maintenance separation in a population
 
-<!-- inactive-ok-file: CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as illustrations, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as illustrations, nothing here rests on them -->
 
 [CASE-161](../cases.d/CASE-161.md) carries the claim's second construction to a stochastic
 population of 32 members (dmarx/PerspectiveLab@7e2edc2): external reset,

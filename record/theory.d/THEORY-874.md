@@ -40,7 +40,7 @@ summary: >-
   argue that organicism is true, and the line between distinctive and
   characteristic properties of life is left without a criterion.
 ---
-<!-- inactive-ok-file: CLAIM-413 CLAIM-412 TERM-073 TERM-072 QUESTION-254 THEORY-767 — Proposed or Open; the claims, terms, question and account this one bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-412 THEORY-767 — Proposed or Open; the claims, terms, question and account this one bears on, named and not leaned on -->
 
 # THEORY-874: Whether a view of mind is organicist or informationalist is a dimension orthogonal to whether it is cognitivist or embodied, and the enactive approach of The Embodied Mind is set apart from other embodied views by organicism with experiential primacy and reciprocity, not by sensorimotor emphasis
 

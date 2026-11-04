@@ -36,7 +36,7 @@ summary: >-
   computable; β_x is not even semicomputable. Finite sets only; the
   extension to computable distributions costs O(log n).
 ---
-<!-- inactive-ok-file: THEORY-277 THEORY-036 THEORY-087 CLAIM-188 — Proposed; the theory filed from this reading and the entries it bears on, open -->
+<!-- inactive-ok-file: THEORY-277 THEORY-036 — Proposed; the theory filed from this reading and the entries it bears on, open -->
 
 # NOTE-787: Vereshchagin & Vitányi — Kolmogorov's structure functions and model selection
 

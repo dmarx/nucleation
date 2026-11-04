@@ -46,7 +46,7 @@ extended_by:
 - THEORY-803
 ---
 <!-- inactive-ok-file: THEORY-799 THEORY-803 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
-<!-- inactive-ok-file: THEORY-188 QUESTION-025 — Proposed or Open; cited as the model this extends and the question it bears on weakly -->
+<!-- inactive-ok-file: THEORY-188 — Proposed or Open; cited as the model this extends and the question it bears on weakly -->
 
 # THEORY-190: Under geometric coarse-graining of the S¹ hidden-metric network model, which merges blocks of r angular neighbours into supernodes linked if any of their members were, the supernodes' link probability approaches the S¹ form with β kept, κ′ = (Σκ^β)^{1/β}, μ′ = μ/r and R′ = R/r, its ratio to that form tending to 1 as their separation grows large against the block width and the coupling μκ′κ″; between nearby supernodes it exceeds that form
 

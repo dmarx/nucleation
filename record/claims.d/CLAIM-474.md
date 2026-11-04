@@ -83,7 +83,7 @@ summary: >-
   [QUESTION-282](../questions.d/QUESTION-282.md), [QUESTION-283](../questions.d/QUESTION-283.md), [QUESTION-285](../questions.d/QUESTION-285.md),
   [QUESTION-281](../questions.d/QUESTION-281.md) and [QUESTION-115](../questions.d/QUESTION-115.md).
 ---
-<!-- inactive-ok-file: CLAIM-480 CLAIM-481 CLAIM-470 CLAIM-475 CLAIM-477 CLAIM-478 CLAIM-469 CLAIM-342 CLAIM-395 CASE-179 — Proposed or new; the claims this synthesis organizes, cited as open -->
+<!-- inactive-ok-file: CLAIM-477 CLAIM-478 — Proposed or new; the claims this synthesis organizes, cited as open -->
 
 # CLAIM-474: From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
 
@@ -259,3 +259,16 @@ from evolutionary transitions, though it does not say so.
   closure.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-04: West et al. 2015, read
+
+West, Fisher, Gardner and Kiers ([LIT-2003](../literature.d/LIT-2003.md), [NOTE-1538](../notes.d/NOTE-1538.md)) define a
+transition in individuality by two conditions, mutual dependence and
+negligible conflict. Their Table 1 separates the two in both directions:
+social aphids have negligible conflict without mutual dependence, and
+*Melipona* bees have the reverse. That is "none implies the next" inside
+what this claim calls individuation. Their two steps, forming a group and
+then transforming it, are a sequence, but they say the steps "may not have
+clear borders", and between species specialization can come before the
+group forms. No conflict with this claim. No status, title or warrant
+changes.

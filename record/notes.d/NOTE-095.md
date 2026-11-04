@@ -35,7 +35,6 @@ summary: >-
   only partial dependence symmetric.
 ---
 
-<!-- inactive-ok-file: THEORY-034 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-095: Morganti — From OSR to metaphysical coherentism
 

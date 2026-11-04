@@ -28,7 +28,6 @@ summary: >-
   −α log(1 − ε) (Eqs. 14–18). No new theorem, no experiment.
 ---
 
-<!-- inactive-ok-file: THEORY-087 — Proposed; named for the regular versus singular complexity penalty, with no relation claimed -->
 
 # NOTE-542: Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior
 

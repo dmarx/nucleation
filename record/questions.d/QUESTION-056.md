@@ -20,7 +20,6 @@ refined_by:
 bearing:
 - THEORY-048
 ---
-<!-- inactive-ok-file: CLAIM-122 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-056: When the mechanisms composing a will-organization are described by control theory and executive-control research, does that description implement the will-organization account or replace it, and what result would show the agent-level description had become idle?
 

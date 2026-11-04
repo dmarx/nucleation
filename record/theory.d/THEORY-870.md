@@ -58,7 +58,7 @@ summary: >-
   not a neural signature of an experience with little content.
 ---
 <!-- inactive-ok-file: THEORY-1241 — Proposed; filed beside this reading by the twenty-fourth status review: the general form of the finding -->
-<!-- inactive-ok-file: CLAIM-412 CLAIM-411 — Proposed; the claims this one bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-412 — Proposed; the claims this one bears on, named and not leaned on -->
 
 # THEORY-870: In one study of 33 experienced Transcendental Meditation practitioners and 33 matched controls who counted instead, the practitioners rated their session higher on a retrospective pure-awareness scale whose top was defined for them as free from content (d = 0.77), and a classifier on EEG separated meditation from counting at 65% balanced accuracy on held-out subjects and, within practitioners, meditation from rest with 88% sensitivity; the authors found no robust association between the ratings and the EEG features
 

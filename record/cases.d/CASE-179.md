@@ -37,7 +37,8 @@ summary: >-
   the structure, and whether revision improves prediction on interventions
   the apparatus did not choose. Not run.
 ---
-<!-- inactive-ok-file: CLAIM-474 CLAIM-481 CLAIM-480 CLAIM-342 QUESTION-282 QUESTION-283 QUESTION-063 — Proposed, Open or new; the claims and questions the study would test -->
+<!-- inactive-ok-file: CLAIM-251 CLAIM-404 CLAIM-532 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
+<!-- inactive-ok-file: CLAIM-474 — Proposed, Open or new; the claims and questions the study would test -->
 
 # CASE-179: A proposed study: one network of locally described units in which physical coupling, the correspondence maps that say which local states agree, and the apparatus that revises those maps are manipulated independently, to find which of compatibility, attraction, effective boundary constraint, persistent individuation and reliable revision come apart, and how much each costs to establish
 
@@ -131,3 +132,25 @@ Stipulated, since nothing has been run. It is set out from A22 §10, A23 §XIII
 and the owner's review of the pull request, 2026-10-27: "The key experimental
 proposal should compare systems in which physical coupling, correspondence
 maps, and apparatus revision are independently manipulated."
+
+## Note of 2026-11-03: the arms the design lacks
+
+U27 to U33 of the exchange "Assess SDT Coverage" (2026-11-02) proposed most of this study again (A28 §8, A29 §10, A32's
+"Case B"). What they add are arms it does not have:
+
+- **Declared tolerances** on the overlaps, so that compatibility is
+  [CLAIM-538](../claims.d/CLAIM-538.md)'s frontier and not exact agreement.
+- **Own against outside channels** on the same modes ([CLAIM-542](../claims.d/CLAIM-542.md)).
+- **Observer-limited policies**, which can use only what the revising
+  apparatus can read ([CLAIM-537](../claims.d/CLAIM-537.md), [CLAIM-535](../claims.d/CLAIM-535.md)).
+- **A captured-correspondence arm**, in which the evaluator's comparison
+  omits one overlap of a witnessing cycle while it still operates, so that
+  evaluation reports a compatibility that does not hold ([CLAIM-538](../claims.d/CLAIM-538.md)'s
+  omission clause; [THEORY-1088](../theory.d/THEORY-1088.md), [CLAIM-404](../claims.d/CLAIM-404.md), [CLAIM-251](../claims.d/CLAIM-251.md)). The cover, the declared
+  scenario and the evaluator's effective observations must be kept separate.
+- **Maintenance-provenance knockouts** ([CLAIM-522](../claims.d/CLAIM-522.md), [CASE-161](CASE-161.md)).
+- **A positive arm** (A33): correspondence changes generated inside the
+  system, judged by held-out control and viability against requirements
+  fixed independently of it ([TERM-097](../terms.d/TERM-097.md)), as [CLAIM-532](../claims.d/CLAIM-532.md)'s test asks.
+
+The study is still proposed.

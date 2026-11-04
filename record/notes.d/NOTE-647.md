@@ -35,7 +35,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim this reading bears on -->
-<!-- inactive-ok-file: THEORY-174 — Proposed; cited for what this reading bears on, not as settled -->
 
 # NOTE-647: A comonadic view of simulation and quantum resources
 

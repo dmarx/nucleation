@@ -45,7 +45,7 @@ summary: >-
 objected_by:
 - CLAIM-426
 ---
-<!-- inactive-ok-file: CLAIM-349 CLAIM-415 CLAIM-424 CASE-142 CASE-140 TERM-075 — Proposed; claims, cases and terms cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-415 — Proposed; claims, cases and terms cited as open, nothing here rests on their being settled -->
 
 # CLAIM-425: A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response
 

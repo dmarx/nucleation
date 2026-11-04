@@ -32,7 +32,7 @@ summary: >-
   system's edge is. That leaves the mechanism's boundary to be fixed some
   other way.
 ---
-<!-- inactive-ok-file: CLAIM-530 QUESTION-086 LIT-832 LIT-1930 LIT-1931 CASE-163 — Proposed, Open, Unavailable or Unfetched; the claim drawn from this reading, the question it bears on, and the unread texts that state the criterion, cited as open -->
+<!-- inactive-ok-file: CLAIM-530 LIT-832 LIT-1930 LIT-1931 CASE-163 — Proposed, Open, Unavailable or Unfetched; the claim drawn from this reading, the question it bears on, and the unread texts that state the criterion, cited as open -->
 
 # THEORY-1287: The experiments mechanists use to find a mechanism's components (correlation, lesion, stimulation, and intervening on the whole while recording the parts) run in both directions between part and whole and, by Craver and Bechtel's own account, show only prima facie that an item is a component, because an item not interactively integrated into the system could be a background condition; they give no test of integration, so the experiments do not by themselves fix where a mechanism ends
 

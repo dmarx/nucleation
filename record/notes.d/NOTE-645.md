@@ -47,7 +47,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; cited for what this reading bears on, not as settled -->
-<!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-038 CLAIM-044 — Proposed; open, and cited as open: the claims this reading bears on -->
+<!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-044 — Proposed; open, and cited as open: the claims this reading bears on -->
 
 # NOTE-645: On the Quantum-like Contextuality of Ambiguous Phrases
 

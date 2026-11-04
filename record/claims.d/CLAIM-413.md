@@ -76,9 +76,8 @@ summary: >-
   interpretive organization experiential is not necessarily what makes
   its contents veridical."
 ---
-<!-- inactive-ok-file: CLAIM-342 — Proposed; the claim this one rests on for its epistemic sense, open as this one is -->
 <!-- inactive-ok-file: CLAIM-412 THEORY-095 — Proposed; the claim this complements and a reading cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1343 LIT-1345 LIT-1350 LIT-1356 — Deferred; works registered unread, cited as such -->
+<!-- inactive-ok-file: LIT-1343 LIT-1350 — Deferred; works registered unread, cited as such -->
 # CLAIM-413: Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; its current, developmental and epistemic senses come apart from one another, and in the current sense it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical
 
 ## The claim

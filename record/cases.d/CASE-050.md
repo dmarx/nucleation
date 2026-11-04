@@ -25,7 +25,7 @@ summary: >-
   incentives realigned. Whether the firm so synchronized is a self is
   the open question, not something the case settles.
 ---
-<!-- inactive-ok-file: CLAIM-172 CLAIM-165 CLAIM-160 CLAIM-162 — Proposed; the claims this case illustrates or is set beside, open -->
+<!-- inactive-ok-file: CLAIM-165 CLAIM-160 CLAIM-162 — Proposed; the claims this case illustrates or is set beside, open -->
 <!-- inactive-ok-file: THEORY-126 THEORY-043 — Proposed; the readings the case draws on, with their standing as it is -->
 
 # CASE-050: The all-hands: a corporate event as a synchronization mechanism for the firm

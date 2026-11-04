@@ -31,7 +31,7 @@ summary: >-
   the others keep it. An 11-node electro-optic network showed this as
   predicted.
 ---
-<!-- inactive-ok-file: CLAIM-172 CLAIM-167 CLAIM-157 — Proposed; the coupling and boundary claims this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-167 CLAIM-157 — Proposed; the coupling and boundary claims this reading bears on, open -->
 
 # NOTE-775: Pecora et al. — Cluster synchronization and isolated desynchronization
 

@@ -75,7 +75,7 @@ summary: >-
   exact Bayes factor keeps. CLAIM-154 is narrowed to models that stay
   regular at the switch-off.
 ---
-<!-- inactive-ok-file: CLAIM-174 CLAIM-175 THEORY-079 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: CLAIM-174 THEORY-079 — Proposed; open, and cited as open: under test, not settled -->
 
 # CLAIM-188: Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2 and multiplicity m, the reification rule's Gaussian Occam term overcharges keeping the candidate by (d/2 − λ) log n + (m − 1) log log n to leading order, so near the threshold the rule prunes candidates the Bayes factor keeps, and its derivation holds only where that model stays regular
 

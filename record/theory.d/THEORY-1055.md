@@ -35,7 +35,7 @@ summary: >-
   information alone does not guarantee independently accessible records,
   is not in the paper. Proposed for that step.
 ---
-<!-- inactive-ok-file: THEORY-621 THEORY-1053 — Proposed or new; neighbouring readings, cited as open -->
+<!-- inactive-ok-file: THEORY-621 — Proposed or new; neighbouring readings, cited as open -->
 
 # THEORY-1055: In models of decoherence, the information a small fraction of the environment holds about a system rises steeply to a plateau at the system's entropy H_S, so many disjoint fragments each carry nearly all of it, and this redundancy is high only for the pointer observable; Zurek identifies it with objective existence, many observers learning the pointer state independently and without disturbing the system, though the paper argues and does not prove that a plateau in mutual information gives each observer the same record
 

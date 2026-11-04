@@ -71,7 +71,6 @@ summary: >-
   information on the host or endosymbiotic nature of any partner".
 ---
 <!-- inactive-ok-file: THEORY-1215 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
-<!-- inactive-ok-file: NOTE-1237 NOTE-1242 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
 # THEORY-1105: In Bernabeu, Manzano-Morales, Marcet-Houben and Gabaldón's reconstruction of the last eukaryotic common ancestor's proteome, two bacterial phyla besides the mitochondrial ancestor, Myxococcota and Planctomycetota, each account for a share of the proteome comparable to that of Alphaproteobacteria and Asgard archaea under thresholds calibrated on those accepted partners, and stem-length distributions order the acquisitions as waves, Asgard first, then Planctomycetota, then the mitochondrial ancestor and Myxococcota together; the authors read this as serial associations with several partners, while conceding that their data cannot say whether any donor was a symbiont
 
 ## Source

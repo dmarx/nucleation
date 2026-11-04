@@ -20,7 +20,7 @@ summary: >-
   external instruction". It is the case [CLAIM-288](../claims.d/CLAIM-288.md) is about, and the
   place where that objection could be answered.
 ---
-<!-- inactive-ok-file: CLAIM-288 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-081: Self-maintenance learned for a designer's reward: a system that maintains itself because it was trained to, and later revises the policy and keeps maintaining itself without further instruction
 

@@ -38,7 +38,7 @@ summary: >-
   that separates the pair, or an argument that none can short of the
   removal.
 ---
-<!-- inactive-ok-file: CLAIM-194 CLAIM-284 LIT-1030 THEORY-071 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1030 THEORY-071 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-086: Can two systems with matching behaviour and persistence be told apart by whether their own processes generate and revise the constraints that keep them going, and by what intervention?
 
@@ -146,7 +146,7 @@ answer.
 
 ## Note of 2026-10-26: interventions named, for arrangements the modeller assigns
 
-<!-- inactive-ok-file: CASE-161 CASE-163 — Proposed; the lab's maintenance and identification runs filed 2026-10-26, cited as bearing on the question, not as answering it -->
+<!-- inactive-ok-file: CASE-163 — Proposed; the lab's maintenance and identification runs filed 2026-10-26, cited as bearing on the question, not as answering it -->
 
 A seventh appearance, and the first to carry this question's own
 distinction into a population. [CASE-126](../cases.d/CASE-126.md) and [CLAIM-414](../claims.d/CLAIM-414.md) (Active) had already

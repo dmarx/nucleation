@@ -19,7 +19,6 @@ summary: >-
   clips each vocabulary entry, which the paper shows reverses the
   gradient on the teacher's most preferred tokens.
 ---
-<!-- inactive-ok-file: QUESTION-361 — Open; the question this account bears on, cited as open -->
 
 # THEORY-1259: When a teacher's next-token distribution depends on a context the student cannot observe, the forward-KL-optimal student is the teacher averaged over the contexts compatible with the student's observation, the loss it cannot remove is the conditional mutual information between the teacher's output and the hidden context, and the optimal student is at least as uncertain as the teacher is on average; the self-distillation objectives actually trained may not be forward KL at all
 

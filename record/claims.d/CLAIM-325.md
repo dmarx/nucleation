@@ -38,7 +38,6 @@ supports:
 - CLAIM-201
 - CLAIM-219
 ---
-<!-- inactive-ok-file: CLAIM-125 — Proposed; cited for the signalling counts, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; the headline and its narrowing this premise bears on, open -->
 
 # CLAIM-325: The behavioural data the record has read show no contextuality proper: none of the five kinds of data Dzhafarov, Zhang and Kujala re-analyse is contextual, Wang et al. test none of their 90 language systems for it, and no documented test of pragmatic or meaning judgements finds it at adequate power

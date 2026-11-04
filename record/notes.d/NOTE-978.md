@@ -37,7 +37,6 @@ summary: >-
   measuring instrument, as the paper's own logistic-map example shows.
 ---
 <!-- inactive-ok-file: THEORY-157 THEORY-257 — Proposed; readings this note connects to, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1126 — Deferred; the authors' later treatment, registered unread -->
 # NOTE-978: Crutchfield and Shalizi — Thermodynamic depth of causal states
 
 ## Contribution

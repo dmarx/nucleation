@@ -193,3 +193,12 @@ they surface when other needs are frustrated (pp. 5, 7).
 - none to a seeded skim (there was no seed)
 - The citation is right: Motivation and Emotion 44(1):1–31, published online
   21 January 2020. It is an editorial ("EDITORIAL" is printed on p. 1).
+
+## Note of 2026-11-03: two qualifications
+
+- The frustration scale this reading's evidence rests on is contested on keying
+  (Murphy et al., [NOTE-1530](NOTE-1530.md)).
+- The reply that self-esteem is derivative answers SDT's own researchers.
+  Sheldon et al. 2001 ([NOTE-1502](NOTE-1502.md)) anticipated it, declined it as
+  "imprudent", and concluded there "may be four fundamental psychological
+  needs".

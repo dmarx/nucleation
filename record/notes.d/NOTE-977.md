@@ -39,7 +39,7 @@ summary: >-
   (equitable partitions) and from linkage-equilibrium character
   aggregation.
 ---
-<!-- inactive-ok-file: CLAIM-157 CLAIM-331 CLAIM-327 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1127 — Unavailable; the theorem's original, cited as not yet read -->
 
 # NOTE-977: Shpak, Stadler, Wagner and Altenberg — Simon–Ando decomposability and fitness landscapes

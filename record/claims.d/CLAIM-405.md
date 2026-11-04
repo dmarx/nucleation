@@ -65,7 +65,7 @@ illustrated_by:
 bears_on:
 - QUESTION-065
 ---
-<!-- inactive-ok-file: CLAIM-363 CLAIM-348 CLAIM-174 CLAIM-195 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
+<!-- inactive-ok-file: CLAIM-174 — Proposed; the owner's thesis this complements and the claims it is read beside, open -->
 
 # CLAIM-405: An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it
 
@@ -179,7 +179,6 @@ geographical one. The claim is unchanged.
 
 ## Note of 2026-10-31: Simondon's organization-studies readers, and two senses of "relative"
 
-<!-- inactive-ok-block: THEORY-1280 THEORY-1277 THEORY-1285 ARG-047 — Proposed or Rejected; the readings filed 2026-10-31 and the verdict on one of them, cited as context -->
 The readings filed today on Bencherki, Brummans and Vézy 2024 and its
 sources say that individuation is relative, in words close to this
 claim's. They mean two things by it, and only one of them is this claim's.
@@ -221,7 +220,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: constitution in the mechanists' sense is set-relative and not arbitrary
 
-<!-- inactive-ok-block: THEORY-1294 CLAIM-528 — Proposed; filed 2026-11-01, cited as context -->
 Two readings filed today give this claim's form in another literature.
 
 - **Relative to a phenomenon, and still capable of being false.**

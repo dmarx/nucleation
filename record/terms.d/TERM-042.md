@@ -27,7 +27,6 @@ used_by:
 - CLAIM-247
 ---
 <!-- inactive-ok-file: TERM-002 — Superseded; replaced by this entry, and cited as the history it corrects -->
-<!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # TERM-042: communicative object, as a context-indexed system of empirical constraints over a cover
 

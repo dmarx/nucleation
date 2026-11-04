@@ -25,7 +25,6 @@ summary: >-
 supports:
 - CLAIM-449
 ---
-<!-- inactive-ok-file: CLAIM-347 CLAIM-360 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # CASE-119: Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed
 

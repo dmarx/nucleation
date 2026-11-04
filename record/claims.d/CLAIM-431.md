@@ -46,7 +46,7 @@ summary: >-
   its own ends. Velasquez's "as if" ([LIT-1432](../literature.d/LIT-1432.md)) in functional form.
 ---
 
-<!-- inactive-ok-file: CLAIM-418 CLAIM-432 CLAIM-039 THEORY-892 — Proposed; the claims and reading this objection argues from or against, cited as open -->
+<!-- inactive-ok-file: CLAIM-432 CLAIM-039 THEORY-892 — Proposed; the claims and reading this objection argues from or against, cited as open -->
 <!-- inactive-ok-file: LIT-1432 — Unavailable, no lawful full text; its abstract's "as if", not leaned on as read -->
 
 # CLAIM-431: A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives

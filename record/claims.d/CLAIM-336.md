@@ -85,7 +85,6 @@ complements:
 supports:
 - CLAIM-338
 ---
-<!-- inactive-ok-file: CLAIM-297 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
@@ -207,7 +206,7 @@ untested. The claim is unchanged.
 
 ## Note of 2026-10-26: the lab held, and its later versions
 
-<!-- inactive-ok-file: CASE-162 CASE-164 CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as what has been built, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-164 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as what has been built, nothing here rests on them -->
 
 The Perspective Population Lab of the note of 2026-10-25 is now held:
 v1.0 as dmarx/PerspectiveLab@41e56df, and its successors at @7e2edc2

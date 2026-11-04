@@ -21,7 +21,6 @@ summary: >-
   iterated reconstruction preserves task-relative sufficiency, by adding
   who runs the reconstruction and whether the successor can carry it on.
 ---
-<!-- inactive-ok-file: QUESTION-016 QUESTION-118 — Open; the questions of iterated reconstruction and of continuity through replacement, cited as open -->
 
 # QUESTION-361: Is an organization's recursive production usefully understood as self-distillation, each realization generating a specification of its own effective organization that constrains how its successor is built, and if so, what makes the distillation the organization's own rather than run by an outside optimizer, and what makes a successor a good teacher as well as a faithful student?
 

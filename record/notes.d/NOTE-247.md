@@ -39,7 +39,6 @@ summary: >-
   comonoid homomorphisms it is equivalent to FinSet.
 ---
 
-<!-- inactive-ok-file: THEORY-017 — Proposed: the account this paper was filed to test; it stays Proposed on its remaining condition; the directive lapses when its status changes -->
 
 # NOTE-247: A new description of orthogonal bases
 

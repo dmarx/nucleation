@@ -52,7 +52,6 @@ supports:
 <!-- ref::uses-file: TERM-009 — stated in "levels, as levels at which observables exist"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-042 — TERM-042's context-indexed constraints over a cover reduce to the intersection of constraint regions when the contexts share one ambient space, which is the case the title names last (the manuscript keeps it as that special case, §2); until 2026-10-27 it used TERM-022, now Superseded -->
 <!-- inactive-ok-file: CLAIM-008 TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-042: The levels at which communicative observables exist organize observables, not objects: a communicative object is identified jointly by constraints from observables at several levels, which, where those observables share one state space, is the intersection of the regions they pick out
 

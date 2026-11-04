@@ -40,7 +40,6 @@ summary: >-
   question, and its promote_when is [THEORY-1104](THEORY-1104.md)'s old condition, word for
   word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1197: Eukaryogenesis involved one archaeal host lineage, of Asgard descent, and one bacterial endosymbiont, the alphaproteobacterial ancestor of mitochondria; the eukaryotic genes from other bacteria came by piecemeal gene transfer, not from further symbiotic partners
 

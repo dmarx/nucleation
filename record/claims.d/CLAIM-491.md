@@ -88,7 +88,7 @@ objected_by:
 - CLAIM-492
 - CLAIM-494
 ---
-<!-- inactive-ok-file: QUESTION-300 QUESTION-297 CLAIM-494 NOTE-1266 CLAIM-492 THEORY-1114 THEORY-1115 THEORY-655 LIT-1700 LIT-1735 LIT-1706 LIT-1782 LIT-1752 LIT-1759 LIT-1758 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-494 THEORY-1114 THEORY-1115 THEORY-655 LIT-1700 LIT-1706 LIT-1782 LIT-1759 — Open, Proposed or Deferred; the question, objections, readings and unread works the thesis is stated against, nothing here rests on their being settled -->
 
 # CLAIM-491: No action is selfless in the sense of aiming at a good that is no self's: what is called selflessness, collectivist or altruistic, is concern for the good of a self extended to include others or a group, so collectivism is self-interest on a larger self-identity
 

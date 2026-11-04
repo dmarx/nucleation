@@ -34,8 +34,8 @@ summary: >-
   faster 4/3 decay. Locality here is in scale, for one field. Nothing in
   it bears on units.
 ---
-<!-- inactive-ok-file: LIT-1252 LIT-1243 — Deferred; works registered unread, cited as open, nothing here rests on them -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-331 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
 # NOTE-969: Eyink and Aluie — Localness of energy cascade I
 
 ## Contribution

@@ -52,10 +52,14 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
-<!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-480 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
+<!-- inactive-ok-file: NOTE-1532 THEORY-1306 — new; Juarrero 2023, read on 2026-11-03 -->
+<!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
+<!-- inactive-ok-file: CLAIM-533 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-473 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1073 THEORY-1052 — Proposed; readings cited as open -->
-<!-- inactive-ok-file: CLAIM-477 CLAIM-331 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
-<!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 LIT-1630 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
+<!-- inactive-ok-file: CLAIM-477 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
+<!-- inactive-ok-file: THEORY-1343 — Proposed; the large-system argument of a reading cited as open -->
+<!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-478: Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 
@@ -244,3 +248,67 @@ claim's list of mechanisms. Zurek ([NOTE-1229](../notes.d/NOTE-1229.md)) has the
 half, since superpositions decay at decoherence rates while pointer states
 persist, but he gives no time scales; the ratio he states is of fragment
 sizes, not times.
+
+## Note of 2026-11-02: Yang and Abanin, read
+
+Yang and Abanin 2025 ([NOTE-1534](../notes.d/NOTE-1534.md); [THEORY-1323](../theory.d/THEORY-1323.md), [THEORY-1343](../theory.d/THEORY-1343.md)) give a
+route to separation that the list under "Not one mechanism" holds only in
+part. It is conservation, but the separation comes from two things
+together. Weak local noise makes every operator decay at a rate
+proportional to its size. The system's own chaos grows every operator it
+does not conserve. So small conserved quantities are slow, and the fast
+side's rate is set by operator growth: a gap of order √(v_Bγ), against slow
+rates of order γ. The ratio grows like √(v_B/γ) as the noise weakens. That
+ratio is the record's reading of their eq. 22, not a number they report.
+Their modulated energy densities H_k are A13's transport branch arising in
+the same setting.
+
+On the first half: once the non-conserved part of an observable has
+decayed, O(t) ≈ O∥(t), its projection onto the conserved sector (their
+Fig. 1d). So over the window between the two rates, the conserved sector
+is what an observable comes to. That supports the first half in a quantum
+many-body case. It does not bear on defeater (a): an exact conservation law
+is the limit of slowness, not a constraint that works without it. Nor does
+it bear on the second half. The large-system footing is Proposed
+([THEORY-1343](../theory.d/THEORY-1343.md)), and the authors say hydrodynamic modes may close the gap
+the argument needs.
+
+## Note of 2026-11-02 (later): chaos and slow modes, the owner's
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the owner tied "controllability and sensitivity to change and chaos
+and slow modes" together (U16). The replies never cited Yang and Abanin
+([LIT-1958](../literature.d/LIT-1958.md)), filed earlier the same day, which fits the grouping. Under
+weak noise, chaos plays two roles. It amplifies differences, and it erases
+their coarse trace except along slow, near-conserved quantities. So an
+effect that lasts must reach the slow modes. For a slow mode ṡ = −εs + bu
+the long-horizon gain is b/ε and holding a value costs u = εs*/b. But for
+εT ≪ 1, s(T) ≈ buT whatever ε is, so slowness makes a change last and
+cheap to hold, not faster to make. The owner's thesis is [CLAIM-533](CLAIM-533.md).
+
+The claim is unchanged.
+
+## Note of 2026-11-03: slowing is not a sign of new organization
+
+Scheffer et al. 2009 ([NOTE-1536](../notes.d/NOTE-1536.md), [THEORY-1315](../theory.d/THEORY-1315.md)) give the generic slowing
+down the second half uses near an instability. They also warn that the same
+signals, weaker, come before thresholds that are not bifurcations, so slowness
+alone does not show new organization forming. And Anastassiou et al.
+([NOTE-1516](../notes.d/NOTE-1516.md)) are a neural case of the first half: a slow field constrains
+fast spike timing without setting spike counts, most effectively when slow,
+though there the slowness is imposed.
+
+The claim is unchanged.
+
+## Note of 2026-11-03 (later): Juarrero 2023, prior art for both directions
+
+Juarrero's *Context Changes Everything* ([LIT-1995](../literature.d/LIT-1995.md), [NOTE-1532](../notes.d/NOTE-1532.md), ch. 12)
+holds both directions as philosophy, from hierarchy theory: coherence makes
+slower wholes (entrained pendulums "longer and slower", p. 68; higher levels
+"usually slower", p. 183), and a separation of rates is a condition of control
+between levels ("Lack of asymmetry in cycling rates … reflects the absence of
+control constraint", p. 190; [THEORY-1306](../theory.d/THEORY-1306.md)). It gives no mechanism, no slow
+manifold or critical slowing, and its constraint is not relative to a time
+scale (p. 40). Its swing-timing example (p. 46), a phase relation that is not a
+slower variable, is a candidate for defeater (a) worth checking.
+
+The claim is unchanged.

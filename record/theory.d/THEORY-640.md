@@ -21,7 +21,7 @@ summary: >-
   It is local neighbourhood agreement that rises with competence, not
   kernel equality and not convergence to a model of reality.
 ---
-<!-- inactive-ok-file: THEORY-002 THEORY-008 — Proposed; the formal reading of the hypothesis and an account of readout agreement, set beside this measurement, not leaned on -->
+<!-- inactive-ok-file: THEORY-002 — Proposed; the formal reading of the hypothesis and an account of readout agreement, set beside this measurement, not leaned on -->
 
 # THEORY-640: Measured as mutual 10-nearest-neighbour overlap, competent vision models agree more with one another and better language models agree more with vision models, but the cross-modal score reaches only 0.16 of a possible 1, is the maximum over all layer pairs, and was adopted after a global kernel metric showed only a very weak trend
 

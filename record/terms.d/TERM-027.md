@@ -20,7 +20,7 @@ used_by:
 - CLAIM-107
 - CLAIM-276
 ---
-<!-- inactive-ok-file: CLAIM-068 CLAIM-081 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # TERM-027: cultural attractor
 

@@ -42,7 +42,7 @@ summary: >-
   hypothesis does not say whether selection is by the candidates' content
   or by relations that govern them.
 ---
-<!-- inactive-ok-file: THEORY-1300 QUESTION-367 ARG-051 — Proposed or Open; companion reading, question and inference, cited as open -->
+<!-- inactive-ok-file: THEORY-1300 ARG-051 — Proposed or Open; companion reading, question and inference, cited as open -->
 <!-- inactive-ok-file: THEORY-882 CLAIM-484 — Proposed; the PP account and the claim this one is set beside, cited as open -->
 
 # THEORY-1296: Deliberate thought selects and sustains candidates from a stream of unintended thoughts that mind-wandering generates, and whether the conscious model of oneself as a knower that accompanies the selection causes it, enables it or only accompanies it is undecided by current evidence

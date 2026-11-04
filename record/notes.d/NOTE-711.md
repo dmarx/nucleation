@@ -26,7 +26,7 @@ summary: >-
   and a ResNet-18 on ImageNet shows the predicted isotropy, velocity
   regularization, oscillations and speed.
 ---
-<!-- inactive-ok-file: THEORY-108 THEORY-114 THEORY-209 — Proposed; readings this one connects to and the account filed from it, open -->
+<!-- inactive-ok-file: THEORY-108 THEORY-209 — Proposed; readings this one connects to and the account filed from it, open -->
 
 # NOTE-711: The Limiting Dynamics of SGD
 

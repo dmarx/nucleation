@@ -44,7 +44,6 @@ summary: >-
 bears_on:
 - QUESTION-314
 ---
-<!-- inactive-ok-file: CLAIM-443 — Proposed or Open; the claims and readings this bears on, named, nothing here rests on them -->
 <!-- inactive-ok-file: ADR-047 THEORY-1176 — ADR-047 Superseded by ADR-057, which keeps its evidence rulings; THEORY-1176 Proposed, the reading that keeps the general clause of the old title -->
 
 # THEORY-904: Gollwitzer and Sheeran (2006) conclude, narratively from a handful of studies that measured or manipulated the goal intention, that implementation intentions affect performance only when the goal intention they serve is strong and activated, so the planned response is not elicited mechanically by its cue; in 2024, across eight tests, plan effects were larger with strong, activated or self-concordant goal intentions than with weak, unactivated or self-discordant ones (d = .79 for the difference), and in 31 physical-activity tests split at the median of intention, planning helped with strong intentions (d = .31) and had no effect with weak ones (d ≈ 0)

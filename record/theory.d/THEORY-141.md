@@ -46,6 +46,7 @@ rivals:
 corroborates:
 - CLAIM-060
 ---
+<!-- inactive-ok-file: THEORY-1351 — new; West et al.'s account, cited in the note of 2026-11-04 -->
 <!-- inactive-ok-file: LIT-721 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-135 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
@@ -114,3 +115,14 @@ those in which selection among their members was suppressed or their
 interests aligned. It could be narrowed to what Okasha holds, keeping
 the wide form as a Proposed THEORY under [ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a claim
 comes to need only that.
+
+## Note of 2026-11-04: West et al. 2015, read
+
+West, Fisher, Gardner and Kiers ([LIT-2003](../literature.d/LIT-2003.md), [NOTE-1538](../notes.d/NOTE-1538.md); [THEORY-1351](THEORY-1351.md))
+agree that within-group conflict must be overcome, and that a transition is
+more than altruism or Hamilton's rule. They disagree on how it is overcome.
+Within species, kin discrimination and the repression of competition
+"played a limited role", except for policing in haplodiploids. How groups
+form does the work. They also assume that every transition poses "the same
+problem" of selfish interests, the framing Okasha cautions against. No
+status change.

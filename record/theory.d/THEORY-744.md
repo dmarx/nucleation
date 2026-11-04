@@ -44,7 +44,6 @@ summary: >-
   incomplete and are left to [QUESTION-231](../questions.d/QUESTION-231.md).
 ---
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading whose phrase is checked here -->
-<!-- inactive-ok-file: CLAIM-331 — Proposed; named for context, nothing here rests on it -->
 
 # THEORY-744: As the kernel width ε goes to 0, Coifman and Lafon's α-normalized diffusion operator (I − P_{ε,α})/ε, for data sampled with density q = e^{−U} from a compact manifold without boundary, converges uniformly on smooth functions, at rate O(ε), to Δf + 2(1 − α)⟨∇U, ∇f⟩ with Δ the non-negative Laplace–Beltrami operator, which is minus the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density
 

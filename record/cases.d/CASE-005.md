@@ -24,7 +24,7 @@ supports:
 variants:
 - CASE-055
 ---
-<!-- inactive-ok-file: CLAIM-074 CLAIM-117 CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CASE-005: The language-model experiments: frame commutator, trajectory-preserving selection, ICL against TTT

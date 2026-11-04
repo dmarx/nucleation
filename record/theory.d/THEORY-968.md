@@ -28,7 +28,7 @@ summary: >-
   into every intervention, and the best method is supervised by the
   hypothesis it is scored against.
 ---
-<!-- inactive-ok-file: CLAIM-454 THEORY-802 — Proposed; the claim and account this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-802 — Proposed; the claim and account this bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-965 — Proposed; the thesis this account tests, cited as open -->
 
 # THEORY-968: In the Mechanistic Interpretability Benchmark's causal-variable localization baselines on Gemma-2 2B and Llama-3.1 8B, features of the public Gemma Scope and Llama Scope sparse autoencoders, selected by a learned binary mask, never gave a higher mean interchange-intervention accuracy than the same mask over the model's own hidden dimensions, in all sixteen task–variable cells and by 1 to 14 points, while distributed alignment search, trained against the causal model it is scored on, gave the highest mean in fifteen of them

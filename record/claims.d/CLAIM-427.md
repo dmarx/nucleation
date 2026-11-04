@@ -137,7 +137,7 @@ A4's table, which the claim adopts:
 
 ## Note of 2026-10-26: where the lab stands on the grades
 
-<!-- inactive-ok-file: CASE-164 CASE-161 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as where the evidence stands, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-164 CASE-163 — Proposed; the lab's runs filed 2026-10-26, cited as where the evidence stands, nothing here rests on them -->
 
 The Perspective Population Lab's later versions meet the first two
 grades within synthetic constructions and do not reach the third.

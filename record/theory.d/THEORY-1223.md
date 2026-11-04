@@ -35,7 +35,6 @@ summary: >-
   question, and its promote_when is [THEORY-1098](THEORY-1098.md)'s old condition, word for
   word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1223: Monocercomonoides exilis lost its mitochondrion only after the organelle's essential functions had been removed in steps, Fe–S cluster assembly to a cytosolic SUF system and then the glycine cleavage system by loss, and the loss required no compensating change elsewhere in the cell
 

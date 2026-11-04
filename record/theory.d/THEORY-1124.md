@@ -28,7 +28,6 @@ summary: >-
   only a non-asymptotic range, and the free-association data fail the
   reciprocity criterion the paper states. Proposed.
 ---
-<!-- inactive-ok-file: CLAIM-135 — Proposed; the distinction between identification and constitution this bears on, cited as open -->
 
 # THEORY-1124: Normalized log co-occurrences of words in large corpora behave as distances in a Euclidean semantic space: they correlate with human similarity ratings (r = 0.75 against MEN) and their nearest-neighbour centrality and reciprocity fall in the range expected of points sampled in a Euclidean space, apart from superordinate and function words
 

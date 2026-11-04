@@ -42,7 +42,7 @@ summary: >-
   right to life.
 ---
 <!-- inactive-ok-file: THEORY-666 THEORY-628 — Proposed; the rival accounts filed from this reading and Di Paolo's, named in Connections -->
-<!-- inactive-ok-file: CLAIM-194 CLAIM-157 CLAIM-174 — Proposed; the counter this reading was filed for and its targets, open -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the counter this reading was filed for and its targets, open -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; the accounts the counter grounds on, named for what this reading adds to them -->
 
 # NOTE-720: Weber & Varela — Life after Kant

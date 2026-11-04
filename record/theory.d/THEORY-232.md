@@ -41,10 +41,9 @@ supports:
 - CLAIM-361
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this bears on, on a set-aside line -->
-<!-- inactive-ok-file: QUESTION-032 CLAIM-170 CLAIM-174 CLAIM-168 CLAIM-172 THEORY-071 — Open or Proposed; the question, claims and account this reading bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-168 THEORY-071 — Open or Proposed; the question, claims and account this reading bears on, named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
 <!-- inactive-ok-file: THEORY-249 — Proposed; named in Connections as the general form of this account's frame-dependence, not leaned on -->
-<!-- inactive-ok-file: THEORY-265 — Proposed; the timing result this reading reported, now held and read, named and not leaned on -->
 
 # THEORY-232: A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification
 

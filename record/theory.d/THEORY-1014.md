@@ -46,7 +46,6 @@ summary: >-
   mechanism, circuit-level analysis reveals in both cases a union of
   distinct mechanisms."
 ---
-<!-- inactive-ok-file: CLAIM-454 — Proposed; the claim this bears on, cited as open -->
 # THEORY-1014: In a language model, a behaviour that looks like one mechanism, whether picked out by one contrast or by one cluster of next-token predictions, is often carried by several distinct pathways of sparse features that converge on the output without fully intersecting, as in Pythia-70M's agreement across a relative clause, its prediction of "to" before an infinitival object, and its incrementing of sequences
 
 ## Source

@@ -22,7 +22,6 @@ summary: >-
   other processes at another, so which side of the boundary the controller
   sits on depends on where the boundary is drawn.
 ---
-<!-- inactive-ok-file: CLAIM-284 CLAIM-194 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-076: Twin pattern-keepers: two systems keep the same pattern, one by its own responses and one through an external controller, and only removing the controller tells them apart
 

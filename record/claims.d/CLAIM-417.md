@@ -75,7 +75,7 @@ illustrated_by:
 - CASE-137
 - CASE-139
 ---
-<!-- inactive-ok-file: CLAIM-137 CLAIM-196 CLAIM-284 CLAIM-329 CLAIM-355 CLAIM-412 CLAIM-415 CLAIM-424 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-137 CLAIM-196 CLAIM-329 CLAIM-355 CLAIM-412 CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-417: What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself
 

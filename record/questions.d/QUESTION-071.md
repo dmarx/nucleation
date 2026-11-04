@@ -71,6 +71,9 @@ bearing:
 - THEORY-040
 - THEORY-121
 ---
+<!-- inactive-ok-file: NOTE-1504 — new or Proposed; readings of 2026-11-03 cited as open -->
+<!-- inactive-ok-file: THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->
+<!-- inactive-ok-file: CLAIM-545 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, named in a dated note -->
@@ -209,3 +212,62 @@ had meaningful opportunities to understand or challenge" its assumptions
 does not show ownership, is adaptive preference ([THEORY-025](../theory.d/THEORY-025.md)) and
 [QUESTION-057](QUESTION-057.md)'s point that avowal is one more attitude. Not filed as a
 claim.
+
+## Note of 2026-11-02: the stipulated indistinguishability a third time, and what a path can show
+
+In the exchange "Assess SDT Coverage" (2026-11-02), A22 §4 built a double well with a slow reinforcing variable, in
+which a self-initiated, an outside and a noise-driven displacement leave the
+same end state and dispositions. As A16 and A27 did before it (the note of
+2026-10-21), it is true by construction: the inputs enter only through their
+sum. This is the third time. Two points are new.
+
+- **The transition path, not the end state** (A21 §3). In a gradient system
+  with small isotropic noise, the most likely escape follows the
+  time-reversal of the relaxation path from the saddle (Freidlin–Wentzell;
+  [LIT-1881](../literature.d/LIT-1881.md); Heymann and Vanden-Eijnden, [LIT-1981](../literature.d/LIT-1981.md), registered). A directed
+  transition need not, unless the controller imitates the noise path. So
+  history can record more than the end state. This holds only in the
+  frozen-slow-variable limit, since the toy is not a gradient system and its
+  noise is degenerate.
+- **From the owner's U19**, on malicious reflexive control:
+  - Self-formation can be causally the agent's without being autonomous: an
+    outside input at a sensitive moment, amplified and then written into
+    slow dispositions by the agent's own processes (A19 §5).
+  - Comparing the agent's channel with an outsider's for the same transition
+    by their Gramians gives one measurable component (A20 §4;
+    [CLAIM-542](../claims.d/CLAIM-542.md)).
+  - Capture needs no instability. Near threshold, [CASE-099](../cases.d/CASE-099.md)'s mixed mode is
+    also its slow one, so a one-time perturbation lasts about −1/ln λ₊ steps.
+    That is persistence, not self-maintenance ([CLAIM-545](../claims.d/CLAIM-545.md)).
+
+The question stays open.
+
+## Note of 2026-11-03: a construction for part 1, and why it matters
+
+[CASE-191](../cases.d/CASE-191.md) builds part 1 for self-formation. An agent whose capacity was
+installed by a single outside pulse and then maintained by its own cycle is,
+after formation, the same organization as one that formed the capacity itself,
+under every knockout of production or maintenance. Only a knockout during
+formation separates them. So for part 2, what history must record is whether
+the producing process that formed the capacity was the agent's own while it
+ran. That is the historical condition [THEORY-040](../theory.d/THEORY-040.md) and [THEORY-1118](../theory.d/THEORY-1118.md) say
+structural accounts need, the vulnerability [CLAIM-404](../claims.d/CLAIM-404.md) and [CASE-123](../cases.d/CASE-123.md) describe
+for reflexive control, and the place where self-determination theory's
+history of internalization ([THEORY-047](../theory.d/THEORY-047.md)) would have to leave a trace in the
+capacity's relations to the rest of the organization, since it leaves none in
+the capacity.
+
+The question stays open.
+
+## Note of 2026-11-03 (later): the readings
+
+- **The path test, confirmed and bounded.** Heymann and Vanden-Eijnden
+  ([NOTE-1504](../notes.d/NOTE-1504.md)) confirm the note of 2026-11-02 for gradient drift with
+  identity noise, and the degenerate-noise caveat. Gradient is sufficient, not
+  necessary: in the Maier–Stein model the noise path stays the reversed
+  relaxation path up to β = 4, though the drift is gradient only at β = 1. And
+  the path evidence is a small-noise statement; a controller can compute and
+  follow the noise path.
+- **The same problem for one act.** On Sánchez-Cañizares's irruption model
+  ([NOTE-1506](../notes.d/NOTE-1506.md), p. 15), a change of mind-set parameter cannot be told from one
+  set by a stimulus, by internal dynamics or by another party.

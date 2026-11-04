@@ -56,7 +56,6 @@ illustrated_by:
 bears_on:
 - QUESTION-002
 ---
-<!-- inactive-ok-file: CLAIM-113 CLAIM-077 CLAIM-034 CLAIM-002 CLAIM-145 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp that is the prior art, not as settled -->
 
 # CLAIM-147: A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation

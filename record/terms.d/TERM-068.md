@@ -31,7 +31,7 @@ summary: >-
 used_by:
 - CLAIM-409
 ---
-<!-- inactive-ok-file: CLAIM-119 CLAIM-172 CLAIM-341 CLAIM-347 — Proposed; named only for the homonym or the sense they use, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-119 — Proposed; named only for the homonym or the sense they use, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and agency readings that use organizational closure, cited as open -->
 
 # TERM-068: closure, and which sense

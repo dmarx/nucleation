@@ -33,7 +33,6 @@ summary: >-
   it; whether the thesis holds is this entry's question, and its promote_when
   is [THEORY-1106](THEORY-1106.md)'s old condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1214: Cicada hosts whose endosymbiont Hodgkinia has split into many interdependent lineages compensate by sending more Hodgkinia cells to each egg, with Sulcia numbers and the transmission route unchanged, so that every egg still receives every lineage; the raised titre is a host adaptation driven by the symbiont's fragmentation, and a cost of it
 

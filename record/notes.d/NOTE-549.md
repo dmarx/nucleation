@@ -32,7 +32,6 @@ summary: >-
   participation ratio near min(k, M).
 ---
 
-<!-- inactive-ok-file: THEORY-017 — Proposed; named for the point that a basis is extra structure, which the neuron basis supplies physically -->
 
 # NOTE-549: Rarely categorical, highly separable representations along the cortical hierarchy
 

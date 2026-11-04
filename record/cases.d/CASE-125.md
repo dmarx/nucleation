@@ -41,7 +41,6 @@ supports:
 variants:
 - CASE-164
 ---
-<!-- inactive-ok-file: CLAIM-122 — Proposed; the will paper's claim this case illustrates, open, and the case bears no weight for it -->
 <!-- inactive-ok-file: CLAIM-336 — Proposed; named as the test this case cannot be, open -->
 
 # CASE-125: A hidden governance bit: an output that is fresh fair noise whatever a fixed hidden bit K is, until an intervention h makes the output read K, so the output alone is exactly informationally closed under ordinary operation and keeps nothing about the response to h

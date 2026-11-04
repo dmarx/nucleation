@@ -58,9 +58,9 @@ bearing:
 - THEORY-317
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the reading this question was filed ahead of, read only in the author's précis -->
-<!-- inactive-ok-file: THEORY-327 THEORY-326 — Proposed; the accounts filed 2026-10-14 from Fricker's own papers, named in a dated note -->
+<!-- inactive-ok-file: THEORY-326 — Proposed; the accounts filed 2026-10-14 from Fricker's own papers, named in a dated note -->
 <!-- inactive-ok-file: THEORY-317 — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
-<!-- inactive-ok-file: CLAIM-181 CLAIM-182 CLAIM-277 CLAIM-406 THEORY-864 THEORY-834 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-181 CLAIM-182 THEORY-864 THEORY-834 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 

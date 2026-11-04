@@ -54,9 +54,8 @@ summary: >-
   estimator. It does not say signalling is rare in pragmatic judgements,
   where order effects are themselves signalling.
 ---
-<!-- inactive-ok-file: CLAIM-125 CLAIM-105 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its separation of corpus from elicitation and its two routes to signalling, open -->
-<!-- inactive-ok-file: THEORY-168 — Proposed; cited for the Lipschitz bound, the representation-dependence of CbD verdicts, task-loss comparison and the signalling identity, not as settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that makes deficiency computable, cited as open -->
 <!-- inactive-ok-file: ARG-037 — Rejected; the argument this claim's support verdict moved to, which it undercuts -->
 

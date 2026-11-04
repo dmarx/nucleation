@@ -67,7 +67,6 @@ bears_on:
 corroborates:
 - CLAIM-363
 ---
-<!-- inactive-ok-file: CLAIM-288 CLAIM-284 — Proposed; the claims this bears on, not settled -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 — Proposed; compared, nothing here rests on them -->
 
 # THEORY-220: A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights

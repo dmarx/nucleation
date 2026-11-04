@@ -41,7 +41,7 @@ summary: >-
   demonstrated on synthetic signals. The premise that slower means more
   abstract is assumed, not shown, and no generative model is used.
 ---
-<!-- inactive-ok-file: CLAIM-331 CLAIM-327 THEORY-186 — Proposed; claims and accounts this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-327 THEORY-186 — Proposed; claims and accounts this reading bears on, nothing here rests on their being settled -->
 
 # NOTE-971: Wiskott and Sejnowski — Slow feature analysis
 

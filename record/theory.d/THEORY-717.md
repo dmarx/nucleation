@@ -44,7 +44,6 @@ supports:
 - CLAIM-381
 - CLAIM-409
 ---
-<!-- inactive-ok-file: THEORY-156 — Proposed; the general case this one was split from and that extends it, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; named as where the quantitative question lives, not read -->
 
 # THEORY-717: For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix

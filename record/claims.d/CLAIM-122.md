@@ -60,6 +60,8 @@ complements:
 corroborated_by:
 - CLAIM-407
 ---
+<!-- inactive-ok-file: CLAIM-539 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
+<!-- inactive-ok-file: THEORY-120 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answered in part, answered in full on 2026-10-27 -->
 
@@ -156,7 +158,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: mind-wandering splits into a content-driven onset and an efficacy-driven return
 
-<!-- inactive-ok: THEORY-1300 ARG-051 — Proposed; the reading and the inference this note reports, cited as open -->
 
 Metzinger's account of mind-wandering ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md)) bears
 on this claim in two halves, and only one is on its side.
@@ -179,3 +180,33 @@ case is recorded here and not as a ground. [ARG-051](../arguments.d/ARG-051.md) 
 verdict for [CLAIM-027](CLAIM-027.md).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-02: "Frankfurt with a hat on"
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the owner asked whether Jennings's "Attention as the Source of a Free
+Will" (forthcoming in *Synthese*; [LIT-1963](../literature.d/LIT-1963.md), read on 2026-11-03 in
+[NOTE-1508](../notes.d/NOTE-1508.md)) is "Frankfurt with a hat on" (U14). This claim's note of
+2026-10-18 answers it. "Higher-order volition is an attitude concerning
+what should be effective. Metacontrol is the causal machinery capable of
+altering what becomes effective." Jennings's attention, as A14 reports it,
+"need not be reflective endorsement", so it is metacontrol and not a
+higher-order volition.
+
+So the architecture is Frankfurt's ([LIT-692](../literature.d/LIT-692.md), [THEORY-120](../theory.d/THEORY-120.md)). There are two
+levels, and the upper settles which first-order interest becomes effective.
+But the upper level is a process, not an attitude, so the hat is not
+decoration. What the account inherits unchanged is the ownership problem:
+a manipulated organization can be wholehearted, which [CLAIM-022](CLAIM-022.md) already
+applies to higher-order organizations. What it adds, by A14's report, is
+that attention forms new interests ([TERM-023](../terms.d/TERM-023.md)'s transformation; [CLAIM-025](CLAIM-025.md))
+and that it is a contextually emergent cause ([CLAIM-334](CLAIM-334.md)'s note of
+2026-11-02). A14 also says both that Jennings supports "a form of
+libertarian freedom" and that she places her view "between compatibilism
+and libertarianism". The paper says both (p. 3): it places itself "in
+between libertarianism and compatibilism" with a non-reductive power it
+says supports libertarian free will, and without indeterminism. Read, the
+paper bears this note out: attention is prioritization by a collection of
+interests, with no endorsement, and Frankfurt is not cited. The comparison
+is filed as [CLAIM-539](CLAIM-539.md), resting on this claim.
+
+The claim is unchanged.

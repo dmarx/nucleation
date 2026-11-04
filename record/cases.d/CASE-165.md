@@ -67,7 +67,6 @@ illustrates:
 - CLAIM-454
 ---
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the quotient test cited as one way to tell a birth from a split, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-454 — Proposed; filed with this case from the same exchange -->
 <!-- inactive-ok-file: THEORY-1004 — Proposed; a reading of the same day, cited for its measure of presence against use -->
 <!-- inactive-ok-file: THEORY-1044 — Proposed; the beam sampler's mixing claim, cited as open -->
 

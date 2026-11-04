@@ -18,7 +18,7 @@ summary: >-
   someone part of a group entity, and the members of a group entity need
   not be alike.
 ---
-<!-- inactive-ok-file: THEORY-1112 THEORY-1115 CLAIM-490 CLAIM-493 QUESTION-119 — Proposed or Open; the accounts, claims and question the term would let the record state precisely -->
+<!-- inactive-ok-file: THEORY-1112 THEORY-1115 CLAIM-490 CLAIM-493 — Proposed or Open; the accounts, claims and question the term would let the record state precisely -->
 
 # TERM-096: group entity, as distinct from a category of members
 

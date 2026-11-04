@@ -41,7 +41,7 @@ summary: >-
   of coupling.
 ---
 
-<!-- inactive-ok-file: CLAIM-172 CLAIM-167 — Proposed; the architecture claims this one qualifies, open -->
+<!-- inactive-ok-file: CLAIM-167 — Proposed; the architecture claims this one qualifies, open -->
 
 # CLAIM-396: Directional information measures between reciprocally coupled units follow the path of a one-sided drive rather than the symmetry of the coupling, so the observed direction of information flow does not by itself reveal which way, or whether both ways, the units are coupled
 

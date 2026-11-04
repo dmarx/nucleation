@@ -38,7 +38,7 @@ summary: >-
   genealogy is historical; the non-computability and AI verdicts are
   asserted or argued from Rosen, not demonstrated.
 ---
-<!-- inactive-ok-file: CLAIM-284 CLAIM-288 CLAIM-194 THEORY-072 THEORY-071 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-536 — Unavailable; Biological Autonomy, named as the source of the closure-of-constraints account, not leaned on -->
 
 # NOTE-727: Rubin, Roli, Stano & Damiano — Genealogies of organizational closure

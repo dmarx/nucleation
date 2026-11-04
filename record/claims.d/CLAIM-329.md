@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -39,6 +39,10 @@ history:
     Pentland, Marquis and Tilcsik, and Gioia, Schultz and Corley;
     none separates a particular organization's continuity from
     reproduction of its kind. The claim is unchanged.
+- version: 6
+  date: '2026-11-03'
+  note: >-
+    uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +73,7 @@ works:
 - organization-of-perspective
 - character-that-changed-parties
 uses:
+- TERM-100
 - TERM-084
 summary: >-
   A5, A8 and A9 of the exchange of 2026-10-16. A9 §9 separated three
@@ -86,7 +91,7 @@ illustrated_by:
 - CASE-133
 ---
 <!-- inactive-ok-file: LIT-1381 — Deferred; works registered unread, or entries set aside, cited as such -->
-<!-- inactive-ok-file: CLAIM-287 CLAIM-417 CLAIM-420 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-329: A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it

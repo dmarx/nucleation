@@ -42,7 +42,7 @@ supports:
 bears_on:
 - QUESTION-114
 ---
-<!-- inactive-ok-file: CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
+<!-- inactive-ok-file: CLAIM-303 CLAIM-308 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
 
 # THEORY-374: Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size under the open-world assumption when the views are conjunctive and the query conjunctive or datalog, but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries
 

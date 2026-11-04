@@ -30,7 +30,6 @@ summary: >-
   population form of what [CLAIM-280](../claims.d/CLAIM-280.md) needs.
 ---
 
-<!-- inactive-ok-file: CLAIM-280 THEORY-214 — Proposed; the record's persistence claim this thesis would supply a population case for, and a sister study set beside it, open -->
 
 # THEORY-795: On a contested shared canvas, the artworks that last are those whose coalitions keep repairing them under continual overwriting, not those left unattacked, as Wu and Silva propose from the 2017 r/place lifecycles
 

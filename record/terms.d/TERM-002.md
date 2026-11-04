@@ -22,7 +22,6 @@ used_by:
 superseded_by:
 - TERM-042
 ---
-<!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-002: communicative object, as a compatible family of local sections

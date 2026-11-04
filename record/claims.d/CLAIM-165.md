@@ -45,7 +45,6 @@ objected_by:
 complements:
 - CLAIM-355
 ---
-<!-- inactive-ok-file: CLAIM-172 CLAIM-175 — Proposed; the claim this objection targets and the owner's reply that narrowed it, both open -->
 
 # CLAIM-165: A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects
 

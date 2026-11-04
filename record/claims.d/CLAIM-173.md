@@ -44,7 +44,7 @@ objected_by:
 - CLAIM-167
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the reply that rejected this objection -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-172 — Proposed; the target of this objection and the claim whose mutuality condition would answer it, open -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the target of this objection and the claim whose mutuality condition would answer it, open -->
 
 # CLAIM-173: The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system
 

@@ -37,7 +37,7 @@ supports:
 variants:
 - CASE-071
 ---
-<!-- inactive-ok-file: CLAIM-149 CLAIM-142 CLAIM-005 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-142 CLAIM-005 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # CASE-041: FID and Projected GANs: one ImageNet-trained probe family used both to train a generator and to evaluate it
 

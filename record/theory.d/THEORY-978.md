@@ -36,7 +36,7 @@ summary: >-
   dataset". It does not say that a passing hypothesis is otherwise wrong,
   nor anything about features correlated only imperfectly.
 ---
-<!-- inactive-ok-file: THEORY-802 CLAIM-454 — Proposed; the account and claim this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-802 — Proposed; the account and claim this bears on, cited as open -->
 
 # THEORY-978: Causal scrubbing scores a hypothesis through the partitions of the dataset that its interpretation nodes induce, so two hypotheses that assign different features to a node but induce the same partition on the dataset, such as two features perfectly correlated on it, receive the same score
 

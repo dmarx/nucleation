@@ -37,7 +37,7 @@ summary: >-
   paper's practical criterion; it says nothing about the PID quantities
   themselves.
 ---
-<!-- inactive-ok-file: THEORY-257 THEORY-497 THEORY-222 — Proposed; the accounts this one relates, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-257 THEORY-497 — Proposed; the accounts this one relates, nothing here rests on their being settled -->
 
 # THEORY-764: For a deterministic supervenient feature V of a Markov system, Rosas et al.'s practical emergence criterion Ψ equals the parts' whole-minus-sum information about V's next value minus V's one-step dynamical dependence I(V_t′; X_t | V_t), so dynamical independence raises Ψ but neither implies emergence nor is implied by it, and the paper's sufficient test for causal decoupling can pass a feature that is not dynamically independent
 

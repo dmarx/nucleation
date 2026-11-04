@@ -50,7 +50,7 @@ summary: >-
 bears_on:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-186 QUESTION-025 — Proposed or open; cited as the account this one extends and those it is set beside -->
+<!-- inactive-ok-file: THEORY-186 — Proposed or open; cited as the account this one extends and those it is set beside -->
 
 # THEORY-200: On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task
 

@@ -37,7 +37,7 @@ summary: >-
 bears_on:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-087 THEORY-106 THEORY-108 — Proposed; neighbouring accounts of complexity, double descent and phase diagrams, named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-106 THEORY-108 — Proposed; neighbouring accounts of complexity, double descent and phase diagrams, named in Connections, not leaned on -->
 
 # THEORY-521: In the thermodynamic limit, with examples and capacity growing together at fixed load, generalization error can jump discontinuously with the load when the entropy of hypotheses just above the best error vanishes faster than the training-error energy grows: a spherical perceptron's error falls smoothly as 1/α, an Ising perceptron's drops to zero at a critical load
 

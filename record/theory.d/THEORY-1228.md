@@ -36,7 +36,6 @@ summary: >-
   whether the thesis holds is this entry's question, and its
   promote_when is [THEORY-1100](THEORY-1100.md)'s old condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1228: A bacterial endosymbiont becomes genetically integrated, an organelle, when host proteins imported into it replace genes it has lost, and this does not require gene transfer from the endosymbiont: in the Paulinella chromatophore and the nitroplast, the two systems with hundreds of imported proteins, the replacing genes are mostly the host's own or come from other bacteria
 

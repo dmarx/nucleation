@@ -33,7 +33,7 @@ summary: >-
   hierarchy always nests under its top. It says nothing about whether
   optima at two finite β nest. Finite alphabets only.
 ---
-<!-- inactive-ok-file: THEORY-157 THEORY-163 — Proposed; connections named for context, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-157 — Proposed; connections named for context, nothing here rests on them -->
 # THEORY-743: For finite X and Y, every information-bottleneck optimum at every β gives one encoder to all inputs sharing p(y|x), so it is a stochastic coarsening of the minimal sufficient partition (the causal states of memoryless transduction); as β → ∞ the optima converge to that partition, but in general no finite β attains it, except when Y is a function of X
 
 ## Source

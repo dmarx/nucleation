@@ -46,7 +46,6 @@ summary: >-
   discrepancies. Proposed: the separations are argued, not built.
 ---
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's pre-individual account of organizational action, cited for its unsupplied standard -->
-<!-- inactive-ok-file: QUESTION-364 — Open; the question this bears on, cited as open -->
 
 # CLAIM-523: For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed
 
@@ -143,7 +142,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: the three achievements in one mind
 
-<!-- inactive-ok: THEORY-1300 QUESTION-367 — Proposed or Open; the reading and the question this note reports, cited as open -->
 
 Metzinger's work on mind-wandering ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md)) has
 instances of two of this claim's separations within one person. Same

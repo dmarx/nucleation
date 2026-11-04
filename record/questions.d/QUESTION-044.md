@@ -75,4 +75,4 @@ four conditions crossing internal coordination with a unified collective
 report, is a design for this question's first alternative. Whether the line
 reopens is the owner's decision.
 
-<!-- inactive-ok-file: CLAIM-368 CLAIM-288 THEORY-628 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+<!-- inactive-ok-file: THEORY-628 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

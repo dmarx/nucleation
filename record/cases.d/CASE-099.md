@@ -32,7 +32,6 @@ variants:
 - CASE-155
 ---
 
-<!-- inactive-ok-file: CLAIM-297 — Proposed; the thesis this construction bears on and the claim it grounds -->
 
 # CASE-099: The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping endorsement (γ)
 

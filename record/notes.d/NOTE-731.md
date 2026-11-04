@@ -32,7 +32,7 @@ summary: >-
   warning. The interpretation of the precursors is the authors' conjecture
   from SHAP curves.
 ---
-<!-- inactive-ok-file: CLAIM-280 CLAIM-279 CLAIM-163 THEORY-069 THEORY-058 THEORY-214 — Proposed; open claims and readings, cited as what this reading bears on, nothing rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-163 THEORY-069 THEORY-058 — Proposed; open claims and readings, cited as what this reading bears on, nothing rests on their being settled -->
 
 # NOTE-731: Falmagne, Stephenson & Levin — Interpretable early warnings using machine learning in an online game-experiment
 

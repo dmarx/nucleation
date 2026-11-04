@@ -72,7 +72,7 @@ bearing:
 - THEORY-876
 ---
 <!-- inactive-ok-file: THEORY-1299 — Proposed; Metzinger's account, cited in the note of 2026-11-01 as a candidate, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-355 CLAIM-368 CLAIM-411 CLAIM-412 CLAIM-413 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-355 CLAIM-412 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-959 — Proposed; a reading cited as a candidate, nothing here rests on its being settled -->
 # QUESTION-254: What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode's current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?
 

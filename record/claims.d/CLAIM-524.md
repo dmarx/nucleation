@@ -34,7 +34,7 @@ summary: >-
   reader's, rechecked. "Viable mode connectivity" is A18's name and is not
   filed as a term.
 ---
-<!-- inactive-ok-file: QUESTION-069 THEORY-1172 THEORY-210 — Open or Proposed; the question this answers in part, the wide form of connectivity and the symmetry account, cited as context and not leaned on -->
+<!-- inactive-ok-file: THEORY-1172 THEORY-210 — Open or Proposed; the question this answers in part, the wide form of connectivity and the symmetry account, cited as context and not leaned on -->
 
 # CLAIM-524: Whether functionally equivalent realizations are connected depends on which paths are admissible: for f = u₁v₁ + u₂v₂ with nonnegative weights, (1, 1, 0, 0) and (0, 0, 1, 1) are joined by a curve along which f stays 1 though the straight line between them falls to ½, and under any resource budget below √2 times the endpoints' cost no path with f = 1 joins them
 

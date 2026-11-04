@@ -29,7 +29,6 @@ summary: >-
 used_by:
 - CLAIM-042
 ---
-<!-- inactive-ok-file: CLAIM-042 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # TERM-009: levels, as levels at which observables exist
 

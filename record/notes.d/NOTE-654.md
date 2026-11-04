@@ -42,9 +42,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; cited for what this reading bears on, not as settled -->
-<!-- inactive-ok-file: THEORY-168 — Proposed; cited for a consequence this reading illustrates -->
-<!-- inactive-ok-file: THEORY-174 — Proposed; cited for an open question this reading raises -->
-<!-- inactive-ok-file: CLAIM-125 CLAIM-037 — Proposed; open, and cited as open: the claims this reading bears on -->
+<!-- inactive-ok-file: CLAIM-037 — Proposed; open, and cited as open: the claims this reading bears on -->
 
 # NOTE-654: Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools
 

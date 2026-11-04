@@ -123,3 +123,47 @@ frustration, measured other than by a self-report sharing content with
 distress, precedes or mediates symptoms of more than one disorder. Campbell
 et al. (2018a), the one longitudinal study cited, is unread.
 [CLAIM-368](../claims.d/CLAIM-368.md) now cites this reading as corroboration, not as a ground.
+
+## Note of 2026-11-02: two separate objections to its evidence
+
+In the exchange "Assess SDT Coverage" (2026-11-02), A3 asked for the evidence to be "reassess[ed] separately".
+
+- **The one longitudinal study** this theory cites through [LIT-561](../literature.d/LIT-561.md) p. 12 is
+  now identified: Campbell et al. 2018 ([LIT-1964](../literature.d/LIT-1964.md)), registered unread.
+- **A different objection.** Murphy et al. 2023 ([LIT-1978](../literature.d/LIT-1978.md)) argue that
+  the need-frustration scale's frustration factor is largely an artefact of
+  item keying. That is a construct-validity objection, distinct from the
+  shared-content one under "What this does not say", and new to the record.
+
+Neither is read. [QUESTION-369](../questions.d/QUESTION-369.md) asks the prior question, what would show
+a need is a need. The status is unchanged.
+
+## Note of 2026-11-03: the evidence, read
+
+The works registered on 2026-11-02 were read (curation entry of 2026-11-03).
+None meets the promote_when.
+
+- **Campbell et al. 2018** ([NOTE-1533](../notes.d/NOTE-1533.md)), the "longitudinal study" cited
+  through [LIT-561](../literature.d/LIT-561.md) p. 12. Frustration largely accounts for the co-occurrence of
+  depression and eating pathology (.50 falls to a non-significant .18), but the
+  follow-up has two waves, with frustration and symptoms both measured as change
+  over the same six months. It gives no temporal order.
+- **Levine et al. 2021** ([NOTE-1510](../notes.d/NOTE-1510.md)) is the record's first prospective
+  evidence: frustration predicted later depressive symptoms (β .13–.18) where
+  negative affect did not. One disorder, all self-report, and depression also
+  predicted later frustration at one lag (β .20).
+- **The measure.** Murphy et al. 2023 ([NOTE-1530](../notes.d/NOTE-1530.md)) find the BPNSFS's
+  satisfaction–frustration split organized by item keying: same-keyed factors
+  correlate .64–.75, satisfaction and frustration of one need only .17–.38. Chen
+  et al. ([NOTE-1527](../notes.d/NOTE-1527.md)) word every frustration item negatively and every
+  satisfaction item positively, so the scale's own evidence cannot rule this
+  out, and some frustration items read like depression-scale items. So
+  "frustration predicts ill-being beyond low satisfaction", in BPNSFS data, is
+  what keying alone would produce. The promote_when should exclude a frustration
+  score whose separation from satisfaction is a keying split.
+- **Intervention.** Ntoumanis et al. ([NOTE-1526](../notes.d/NOTE-1526.md)) measure no need frustration
+  and test no mediation, and the psychological-health effect (g = 0.29) is not
+  significant at follow-up (g = 0.14). Ryan et al. 2022 ([NOTE-1500](../notes.d/NOTE-1500.md)): the
+  frustration–ill-being link "has yet to be meta-analytically investigated".
+
+The status is unchanged.

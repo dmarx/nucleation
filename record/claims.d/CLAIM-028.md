@@ -26,7 +26,7 @@ summary: >-
 supports:
 - CLAIM-238
 ---
-<!-- inactive-ok-file: CLAIM-081 CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-028: No result from the exchange's four experiments reached a later draft: the authored chains were excluded by rule, and the synthetic constructions were dropped without a stated reason
 

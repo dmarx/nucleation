@@ -36,8 +36,7 @@ summary: >-
   module's internal pull at a shared moment, not by any signal passed
   inside it.
 ---
-<!-- inactive-ok-file: THEORY-265 — Proposed; the theory filed from this reading -->
-<!-- inactive-ok-file: CLAIM-172 CLAIM-157 THEORY-232 THEORY-069 — Proposed; the entrainment mark, block answer and accounts this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-232 THEORY-069 — Proposed; the entrainment mark, block answer and accounts this reading bears on, open -->
 
 # NOTE-773: Tissot et al. — An ability to respond begins with inner alignment
 

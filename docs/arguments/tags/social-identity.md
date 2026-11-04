@@ -6,8 +6,8 @@
 
 **Social identity** — the psychology of group membership — social identity and self-categorization theory, how people categorize themselves and others and when a group identity becomes salient, identification and its measurement, in-group bias and intergroup relations, rivalry, recategorization and common in-group identity, group-based emotion, crowds and fandom. What a group is, as ontology, is social-ontology; here it is how people come to see themselves and act as members (ADR-062).
 
-0 of 51 ARG documents. Back to the [full index](../README.md).
+1 of 52 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-052](../../../record/arguments.d/ARG-052.md) | Van Lange and Bergmann's model of intergroup cooperation does not establish that cooperation within groups and the coexistence of groups are distinct targets that can trade off: it shows that the processes building in-group cooperation can fuel conflict between groups, and says nothing on whether groups persist, go extinct or are owed impartial concern | [CLAIM-547](../../../record/claims.d/CLAIM-547.md) was filed citing Van Lange and Bergmann (2026) as the evidence the synthesis offers for its human case, before the review was read. Read in [NOTE-1537](../../../record/notes.d/NOTE-1537.md), the review carries one link in the claim and not the claim. Rejected as an inference to the claim as titled. The link it does carry is recorded as corroboration ([THEORY-1352](../../../record/theory.d/THEORY-1352.md) corroborates [CLAIM-547](../../../record/claims.d/CLAIM-547.md)), and the review is no longer among the claim's grounds. | Rejected |

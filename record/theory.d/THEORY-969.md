@@ -29,7 +29,6 @@ summary: >-
   data, and it says nothing about whether the tree the sampler finds is
   identified. The multiple-path relaxation is the nested HDP's ([LIT-002](../literature.d/LIT-002.md)).
 ---
-<!-- inactive-ok-file: CLAIM-454 — Proposed; the claim this account is set beside, open -->
 
 # THEORY-969: In hierarchical LDA every document draws all its words from the topics on one root-to-leaf path of a tree drawn from the nested Chinese restaurant process, so the prior is a nested sequence of partitions of the documents, exchangeable in them, and two documents share a topic only by sharing the whole path above it: no document can draw on two sibling subtrees
 

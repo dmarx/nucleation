@@ -61,7 +61,6 @@ summary: >-
   "Cognizable" is read as "well-defined", [CLAIM-363](CLAIM-363.md)'s sense. Its objection
   is [CLAIM-512](CLAIM-512.md).
 ---
-<!-- inactive-ok-file: QUESTION-128 QUESTION-256 — Open; the questions this bears on, cited as open -->
 
 # CLAIM-518: Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment
 

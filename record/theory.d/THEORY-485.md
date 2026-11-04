@@ -34,7 +34,7 @@ summary: >-
   The target is conceded to be a picture, not a published argument, and the
   dynamical-to-causal bridge is asserted, not argued.
 ---
-<!-- inactive-ok-file: THEORY-017 THEORY-612 — Proposed; neighbouring accounts named for comparison, not leaned on -->
+<!-- inactive-ok-file: THEORY-612 — Proposed; neighbouring accounts named for comparison, not leaned on -->
 <!-- inactive-ok-file: LIT-144 — Unavailable; named as the held work this paper adjoins, not leaned on -->
 <!-- inactive-ok-file: LIT-200 — Proposed; named as a reading the paper's point applies to, not leaned on -->
 

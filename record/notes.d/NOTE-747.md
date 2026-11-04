@@ -31,7 +31,7 @@ summary: >-
   formula beyond comparing total frustration.
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this work was filed for, on a set-aside line -->
-<!-- inactive-ok-file: QUESTION-032 CLAIM-170 CLAIM-174 CLAIM-168 CLAIM-172 — Open or Proposed; the question, answers and objection this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-168 — Open or Proposed; the question, answers and objection this reading bears on, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any account must meet, not as standing -->
 
 # NOTE-747: Watson — Agency, Goal-Directed Behavior, and Part-Whole Relationships

@@ -45,7 +45,7 @@ bears_on:
 - QUESTION-254
 ---
 <!-- inactive-ok-file: NOTE-1499 — Skimmed; the partial reading of the 2024 book, the 2020 paper being read in full -->
-<!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-882 QUESTION-048 QUESTION-254 QUESTION-255 CLAIM-412 CLAIM-411 TERM-082 — Proposed or Open; the readings, questions, claims and terms this account bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-882 CLAIM-412 TERM-082 — Proposed or Open; the readings, questions, claims and terms this account bears on, cited as open -->
 
 # THEORY-1299: Pure awareness, on Metzinger's account, is the content of a temporally thin model of the organism's own tonic alertness, its capacity to know; experience in this minimal form lacks an egoic self-model, a first-person perspective, time, space and even phenomenal oneness, but not self-modelling, and tonic alertness that is not so modelled is not experienced
 

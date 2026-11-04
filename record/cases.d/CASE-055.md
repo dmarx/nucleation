@@ -28,9 +28,9 @@ summary: >-
   raters, named populations, an interlingual arm and a measurement
   stage. It has not been run, and its margins are not yet fixed.
 ---
-<!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 CLAIM-240 CLAIM-228 CLAIM-259 CLAIM-257 — Proposed; the record's revised theses and restated measures of 2026-10-10, open, which this design would test -->
+<!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-204 CLAIM-240 CLAIM-228 — Proposed; the record's revised theses and restated measures of 2026-10-10, open, which this design would test -->
 <!-- inactive-ok-file: CLAIM-244 — Proposed; an objection this design answers, left open until the owner decides on the revised theses -->
-<!-- inactive-ok-file: CLAIM-135 CLAIM-129 — Proposed; open, cited in the note of 2026-10-10 for the gap between recovering structure and reaching the act -->
+<!-- inactive-ok-file: CLAIM-129 — Proposed; open, cited in the note of 2026-10-10 for the gap between recovering structure and reaching the act -->
 
 # CASE-055: The discriminating fidelity study: renderings built to dissociate wording, proposition, static stance and transport structure, judged by named populations in two languages on stated tasks
 

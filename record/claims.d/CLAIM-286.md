@@ -50,7 +50,7 @@ bears_on:
 - QUESTION-088
 - QUESTION-090
 ---
-<!-- inactive-ok-file: CLAIM-284 CLAIM-278 CLAIM-024 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-278 CLAIM-024 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-286: Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed
 

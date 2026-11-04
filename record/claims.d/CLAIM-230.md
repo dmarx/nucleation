@@ -48,7 +48,6 @@ summary: >-
   "one rendering is a garbling of another", is then not well typed. It
   does not say a design-based state is illegitimate.
 ---
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of task-loss comparison, not as settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that meets this objection, cited as open -->
 
 # CLAIM-230: Blackwell comparison needs the state each rendering is about, which natural texts do not supply, so a decision measure is fixed by whoever labels the state, and it orders translation procedures, not single renderings

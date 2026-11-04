@@ -34,7 +34,6 @@ summary: >-
   holds is this entry's question, and its promote_when is [THEORY-1103](THEORY-1103.md)'s old
   condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1219: Buchnera's metabolism interlocks with its aphid host's: it makes the essential amino acids its host cannot from host-supplied glutamate and aspartate, depends on the host for the non-essential amino acids and its membrane phospholipids, and cannot live outside the bacteriocyte
 

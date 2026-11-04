@@ -41,7 +41,6 @@ summary: >-
   says it measures something [CLAIM-259](CLAIM-259.md)'s directed loss does not, and
   conversely.
 ---
-<!-- inactive-ok-file: QUESTION-130 CLAIM-259 — Open or Proposed; the question this bears on and the loss it is set beside, cited as open -->
 
 # CLAIM-496: Agreement between routes of translation is a measure of coherence, not of fidelity, and the two are independent: a rendering that sends every source utterance to one output makes direct and relay transport agree exactly while a receiver who could tell a promise from a prediction with no error is left at chance, and two routes that keep the act and differ in register disagree completely while losing nothing the act-identification task needs
 

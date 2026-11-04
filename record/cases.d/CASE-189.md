@@ -33,6 +33,7 @@ summary: >-
   within Nucleation's framework"; [CASE-111](CASE-111.md) is the earlier one, and this is
   its variant with a coupling attached.
 ---
+<!-- inactive-ok-file: CLAIM-532 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 
 # CASE-189: Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling's gap is still ≈ 0.989
 
@@ -185,3 +186,14 @@ the second. The third is a matter of the experiment's design.
   the declared boundary ([CLAIM-530](../claims.d/CLAIM-530.md)).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-03: not a new organization
+
+A31 of the exchange "Assess SDT Coverage" (2026-11-02) read this case as an organization that "develops a dependency
+structure it did not previously possess", "a genuinely self-maintaining
+organization". The case says otherwise: "The capacities exist from the start
+in Construction 2; the encounter supplies only the connector". It is the
+starting point for the construction [CLAIM-532](../claims.d/CLAIM-532.md) calls for, in which the
+encounter would produce a new distinction and channel. That construction is
+[CASE-191](CASE-191.md), a variant of this case with the encounter replaced by the agent's
+own frustration.

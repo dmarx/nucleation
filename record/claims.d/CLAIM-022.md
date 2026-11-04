@@ -4,7 +4,12 @@ status: Active
 formerly:
 - CLAIM-tmp64xks
 title: 'Explaining practical efficacy does not settle whose the will is'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -16,11 +21,15 @@ works:
 - organization-of-will
 grounds:
 - LIT-292
+uses:
+- TERM-100
 summary: >-
   Section 7.2, "No. The theory explains practical efficacy, not
   ownership." What the authenticity line tried to supply, the paper now
   disclaims; [QUESTION-011](../questions.d/QUESTION-011.md) holds the question.
 ---
+<!-- inactive-ok-file: TERM-100 — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
+<!-- inactive-ok-file: CLAIM-533 LIT-1985 THEORY-316 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account of authorship, a second instance of this limit -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; set aside, and cited to say what was set aside with it -->
 
@@ -62,7 +71,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: attribution and efficacy come apart in Metzinger's mental autonomy
 
-<!-- inactive-ok: THEORY-1298 — Proposed; the reading this note reports, cited as open -->
 
 Metzinger ([LIT-1941](../literature.d/LIT-1941.md), [LIT-1942](../literature.d/LIT-1942.md)) separates what makes a thought
 effective from what makes it the person's, in both directions.
@@ -86,3 +94,41 @@ disclaimer in another form. It does not settle whose the will is either:
 caregivers before memory (pp. 20–21), the issue [QUESTION-364](../questions.d/QUESTION-364.md) takes up.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-02: Kane, registered
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the owner asked about Kane's libertarian sourcehood (U15). Kane's
+ultimate responsibility is the historical condition that would answer this
+disclaimer's question. The record held Kane only second-hand ([THEORY-316](../theory.d/THEORY-316.md),
+[LIT-1867](../literature.d/LIT-1867.md), [LIT-1045](../literature.d/LIT-1045.md), [NOTE-548](../notes.d/NOTE-548.md), [NOTE-856](../notes.d/NOTE-856.md)). *The Significance of Free Will*
+([LIT-1985](../literature.d/LIT-1985.md)) and "Libertarianism" ([LIT-1984](../literature.d/LIT-1984.md)) are now registered,
+unread.
+
+A15 drew a distinction the record already observes. "The self-formation
+thesis: Agents can participate in shaping the dispositions and governing
+relationships through which their future actions become possible and
+effective." "The libertarian sourcehood thesis: Some of that participation
+must be undetermined, and its indeterminacy must be compatible with a kind
+of control sufficient for ultimate responsibility." The record holds the
+first ([TERM-023](../terms.d/TERM-023.md)'s transformation; [CLAIM-025](CLAIM-025.md)) and, by this claim, does not
+settle the second. The authenticity line, set aside on 2026-10-05, is
+where it belongs. The entry a Kanean would contest is [CLAIM-356](CLAIM-356.md) ("exogenous
+origin does not disqualify a goal"). It is about goals and not
+responsibility, so there is no contradiction, but a theorist of ultimate
+responsibility denies its analogue for responsibility. The owner's link
+between Kane and chaos is [CLAIM-533](CLAIM-533.md).
+
+The claim is unchanged.
+
+## Note of 2026-11-03: Kane, read first-hand
+
+Kane's "Libertarianism" ([LIT-1984](../literature.d/LIT-1984.md), [NOTE-1518](../notes.d/NOTE-1518.md)) states ultimate
+responsibility in his own words: "to be ultimately responsible for an action,
+an agent must be responsible for anything that is a sufficient reason, cause or
+motive for the action's occurring" (p. 36), and asks whether "the sources of our
+wills" can "be completely traced backwards to something over which we had no
+control, such as … social conditioning or hidden controllers" (p. 37). That is
+the historical condition this disclaimer leaves open, in the formation sense of
+[TERM-100](../terms.d/TERM-100.md).
+
+The claim is unchanged.

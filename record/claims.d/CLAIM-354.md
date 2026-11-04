@@ -61,8 +61,9 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: CLAIM-534 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
+<!-- inactive-ok-file: CLAIM-545 LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency, and the claim that separates its quantity -->
-<!-- inactive-ok-file: CLAIM-410 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-354: Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
 
@@ -204,3 +205,55 @@ judgment of whose capacity counts"). This claim gives the reason in
 general. [CLAIM-527](CLAIM-527.md) separates the quantity from valence and emotion.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-02: what the profile lacks, and a corrected reachable set
+
+In the exchange "Assess SDT Coverage" (2026-11-02) the replies rebuilt this claim three times without saying so: A16's
+reachable set and Gramian, A21's "robust reachability" and A22's three
+levels. Three points add to it.
+
+- **Non-domination** (Pettit, [LIT-1614](../literature.d/LIT-1614.md)). An agent can be unfree because
+  another holds an effective, unaccountable channel it never uses. The
+  "governance" dimension, the remote-operated robot, covers actual external
+  determination, not that counterfactual capacity. Formally it is the robust
+  reachable set taken against an adversary class that includes the unused
+  channel.
+- **The allocation of control across channels, and its history** (A21 §8,
+  A22 §3). A slow state that changes the agent's own gain, an outsider's and
+  the noise gain makes susceptibility itself governable. That extends
+  governance reconfigurability from what the agent can do to what can be
+  done to it. The demonstrated part is [CLAIM-542](CLAIM-542.md).
+- **A25 §7's reachable set of governance and legibility configurations**,
+  ∃π_s ∀π_e. It ranges over every feedback policy. Against A25's own model
+  it should range over the policies the current organization can carry out
+  that read only what its legibility regime makes usable. Otherwise
+  legibility drops out of the set.
+
+A26 identified freedom with the whole profile under reflexive revision.
+That is filed as [CLAIM-545](CLAIM-545.md), Proposed, resting on this claim. The claim
+is unchanged.
+
+## Note of 2026-11-03: legibility-limited policies, stated
+
+This claim's note of 2026-11-02 said a reachable set should range over the
+policies an organization can carry out on what it can read. Two
+demonstrated claims from U30 to U33 of the exchange "Assess SDT Coverage" (2026-11-02) state it: [CLAIM-535](CLAIM-535.md) in
+general (a policy acceptable everywhere exists exactly when the
+circumstances an observation cannot separate share an acceptable action),
+and [CLAIM-537](CLAIM-537.md) for tolerance-bounded compatibility. The motivational
+integration this claim names is given a positive account in [CLAIM-534](CLAIM-534.md).
+
+The claim is unchanged.
+
+## Note of 2026-11-03 (later): empowerment and information, read
+
+Empowerment (Klyubin et al. 2005, 2008; [NOTE-1511](../notes.d/NOTE-1511.md), [NOTE-1514](../notes.d/NOTE-1514.md)) is a
+task-free number for perceivable reach, but it is open-loop, depends on the
+horizon and ignores cost and viability, so it does not collapse this claim's
+profile to a scalar. Its maxima in the cart-pole cannot be reached and held,
+against what the agent can sustain ([CLAIM-079](CLAIM-079.md)). Ben-Tal et al.'s Table 2
+([NOTE-1503](../notes.d/NOTE-1503.md)) is a quantitative case of legibility-limited policies: cost
+34,583 with on-line information, 35,121 with past demands, infeasible with a
+four-period delay or none.
+
+The claim is unchanged.

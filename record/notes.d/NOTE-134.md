@@ -50,7 +50,6 @@ summary: >-
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 
-<!-- inactive-ok-file: THEORY-017 — Proposed: the synthesis this note's 2026-09-27 connections point to, awaiting the close reading its promote_when names; the directive lapses when its status changes -->
 
 # NOTE-134: Carroll — Reality as a vector in Hilbert space
 

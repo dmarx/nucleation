@@ -53,7 +53,7 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: THEORY-085 THEORY-083 THEORY-210 QUESTION-080 — Proposed or Open; readings and a question set beside this account on 2026-10-13, open -->
+<!-- inactive-ok-file: THEORY-085 THEORY-210 — Proposed or Open; readings and a question set beside this account on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-108 — Proposed; the reading whose temperature axis this account interprets, open -->
 
 # THEORY-209: A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size

@@ -36,7 +36,6 @@ summary: >-
   holds is this entry's question, and its promote_when is [THEORY-1049](THEORY-1049.md)'s old
   condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1208: Bacterial endosymbionts lose their cell-envelope and envelope-transport genes together below about 400 kb and begin to lose translation genes below about 200 kb, and the host supplies the membranes, transport and protein synthesis that the smallest-genome symbionts no longer encode, as for organelles
 

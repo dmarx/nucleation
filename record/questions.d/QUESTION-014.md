@@ -18,7 +18,7 @@ summary: >-
   admonitory, alternating and random frames) would answer it; no data
   exists.
 ---
-<!-- inactive-ok-file: CLAIM-186 THEORY-155 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: CLAIM-186 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-068 CLAIM-084 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-014: Does a stable speaker footing measurably reduce pragmatic drift relative to shifting frames, even when both drift lexically?

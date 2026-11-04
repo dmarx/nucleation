@@ -67,7 +67,7 @@ illustrated_by:
 - CASE-169
 - CASE-175
 ---
-<!-- inactive-ok-file: CLAIM-417 CLAIM-424 TERM-063 — Proposed; claims and terms cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-417 TERM-063 — Proposed; claims and terms cited as open, nothing here rests on their being settled -->
 
 # CLAIM-418: Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent's activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open
 
@@ -178,7 +178,6 @@ The exchange of 2026-10-26 used the claim at both ends.
 
 ## Note of 2026-10-31: the Simondon and process readings
 
-<!-- inactive-ok-block: THEORY-1280 THEORY-1285 THEORY-1284 THEORY-1279 ARG-047 — Proposed or Rejected; the readings filed 2026-10-31 and the verdict on one of them, cited as context -->
 Three readings filed today bear on this claim. One of them was first said
 to, and on reading does not.
 

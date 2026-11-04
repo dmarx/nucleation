@@ -35,7 +35,6 @@ summary: >-
   guarantee for individual stages or rolling windows, and none when the
   signal law is unknown.
 ---
-<!-- inactive-ok-file: CLAIM-357 — Proposed; the claim whose dated note cites this work, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the regret classification compared with, from this batch -->
 # THEORY-947: For Blackwell approachability of an approachable polytope under partial monitoring with a known signal law, there are efficient algorithms whose average vector payoff reaches the target at expected distance O(T^-1/3) for general signals and O(T^-1/2) when the signal law does not depend on the decision, the worst-case optimal rates for those two classes
 

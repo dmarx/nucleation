@@ -33,7 +33,7 @@ summary: >-
   undefined. The view is agnostic about what there is; the ontic turn,
   Ramsey sentences and the Newman objection belong to later work.
 ---
-<!-- inactive-ok-file: THEORY-017 THEORY-034 THEORY-594 THEORY-690 — Proposed; named as later or analogous accounts, not leaned on -->
+<!-- inactive-ok-file: THEORY-594 THEORY-690 — Proposed; named as later or analogous accounts, not leaned on -->
 <!-- inactive-ok-file: LIT-342 — Unavailable; named as the later ontic turn, not leaned on -->
 
 # THEORY-610: What survives radical theory change in a mature science, and so what its predictive success warrants belief in, is mathematical structure, equations carried over intact or recovered as limiting cases, and not the ontology that interpreted them, as Fresnel's reflection and refraction equations survive into Maxwell's theory while the elastic-solid ether does not

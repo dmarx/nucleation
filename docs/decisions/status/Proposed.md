@@ -4,8 +4,8 @@
 
 **Proposed** — not in force yet — an open question, so citing it as settled is the thing the report catches.
 
-0 of 67 decisions. Back to the [full index](../README.md).
+1 of 68 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ADR-068](../../../record/decisions.d/ADR-068.md) | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice | The record takes in reading through a practice of eleven steps: intake, a check against the record, identifiers, registration, a lawful copy, reading, verification, filing the reading, filing the argument, accounting for everything, and acknowledgement. Until now it lived in session memory and in the pieces [ADR-002](../../../record/decisions.d/ADR-002.md), [ADR-008](../../../record/decisions.d/ADR-008.md), [ADR-041](../../../record/decisions.d/ADR-041.md), [ADR-053](../../../record/decisions.d/ADR-053.md), [ADR-054](../../../record/decisions.d/ADR-054.md), [ADR-064](../../../record/decisions.d/ADR-064.md) and [ADR-065](../../../record/decisions.d/ADR-065.md) decided one at a time. Each session rebuilt it, and applied it unevenly ([ADR-064](../../../record/decisions.d/ADR-064.md)'s case). This decision fixes the eight invariants. The steps go in `.claude/skills/read-and-file/SKILL.md`, edited in the pull request whose work shows a step wrong. Rejected: leaving the practice unwritten; writing every step into an ADR, which would make each refinement a supersession; a section of CLAUDE.md, which is a map and not a manual; a page under docs/, which is generated; and building it into luria before the steps have settled. | Proposed |

@@ -34,8 +34,7 @@ complements:
 - CLAIM-299
 ---
 <!-- inactive-ok-file: CLAIM-250 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
-<!-- inactive-ok-file: CLAIM-034 CLAIM-081 CLAIM-178 CLAIM-191 — Proposed; open, and cited as open: under test, not settled -->
-<!-- inactive-ok-file: CLAIM-259 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-034 CLAIM-178 CLAIM-191 — Proposed; open, and cited as open: under test, not settled -->
 
 # CLAIM-189: Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation
 

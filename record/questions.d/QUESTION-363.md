@@ -23,7 +23,7 @@ summary: >-
   strong" and kept a narrower one, which is this question. It refines
   [QUESTION-039](QUESTION-039.md), which asks what sets the order and moment of acquisition.
 ---
-<!-- inactive-ok-file: QUESTION-039 THEORY-209 — Open or Proposed; the question this refines and Kunin's sampler reading, cited as open -->
+<!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this refines and Kunin's sampler reading, cited as open -->
 
 # QUESTION-363: When does the order in which stochastic gradient descent comes to occupy a network's organizations over training time follow the order in which they come to dominate the Bayesian posterior as the sample grows, and what fixes the correspondence where it holds: an effective temperature set by learning rate and batch size, the accessibility of regions and the barriers between them, or the time allowed to equilibrate?
 

@@ -81,8 +81,7 @@ summary: >-
   symbiogenetic models.
 ---
 <!-- inactive-ok-file: THEORY-1205 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
-<!-- inactive-ok-file: NOTE-1239 NOTE-1237 — filed in the same batch of readings and not yet merged; the reading this comes from and the accounts it is set beside -->
-<!-- inactive-ok-file: QUESTION-277 LIT-1597 — Open or Unavailable; the question this bears on and an unavailable work it is set beside, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1597 — Open or Unavailable; the question this bears on and an unavailable work it is set beside, nothing here rests on them -->
 # THEORY-1109: Santana-Molina, Williams, Snel and Spang find that the last eukaryotic common ancestor's central carbon metabolism was chimeric: a few Asgard-archaeal enzymes in cytosolic glycolysis and the pentose phosphate pathway, four placed with Asgard archaea at bootstrap 39–97% and two ambiguously, most alphaproteobacterial ones in the mitochondrial TCA cycle and pyruvate conversion, and others from various bacteria with no third dominant donor, since remodelled by loss, horizontal replacement and retargeting so that compartment no longer follows origin; the authors take the cytosol–mitochondrion split as support for syntrophy
 
 ## Source

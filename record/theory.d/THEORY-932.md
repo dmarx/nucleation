@@ -37,7 +37,7 @@ summary: >-
   review of 2026-10-30. The experiments are three games, one temperature,
   compared by eye; whether Q-learning departs in general is [THEORY-1234](THEORY-1234.md).
 ---
-<!-- inactive-ok-file: LIT-1501 NOTE-1140 CLAIM-446 — Proposed, Unavailable or new; the sources and the accounts this bears on, named -->
+<!-- inactive-ok-file: LIT-1501 CLAIM-446 — Proposed, Unavailable or new; the sources and the accounts this bears on, named -->
 
 <!-- inactive-ok-file: THEORY-1234 — Proposed; the wide form this entry was narrowed from, which extends it -->
 

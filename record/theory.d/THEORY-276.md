@@ -35,7 +35,7 @@ summary: >-
   says nothing about external drive, so the use of these clusters as a
   sign of coupling rather than a shared cue is the record's inference.
 ---
-<!-- inactive-ok-file: CLAIM-172 CLAIM-157 — Proposed; the coupling and boundary claims this account bears on, open -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the coupling and boundary claims this account bears on, open -->
 
 # THEORY-276: In a network of identical units with identical couplings, the orbits of the graph's symmetry group are synchronization clusters, and a cluster moved only by its own factor of the group can lose synchrony while the others keep it
 

@@ -115,8 +115,8 @@ summary: >-
   physically operative correspondence structure, rather than revealing or
   redescribing it.
 ---
-<!-- inactive-ok-file: CLAIM-473 CLAIM-481 CLAIM-342 — Proposed or new; the claims this rests on and sits beside, cited as open -->
-<!-- inactive-ok-file: LIT-1660 LIT-1659 LIT-1646 LIT-1658 LIT-1668 LIT-1639 LIT-1674 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
+<!-- inactive-ok-file: CLAIM-473 — Proposed or new; the claims this rests on and sits beside, cited as open -->
+<!-- inactive-ok-file: LIT-1660 LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 
 # CLAIM-471: Physical interconnection can generate effective constraints on joint behaviour; measurement can estimate correspondences among local descriptions; and adaptive apparatuses can revise those correspondences; gluing expresses compatibility under specified relations, but neither the relations' physical generation nor their adequacy follows from gluing alone
 

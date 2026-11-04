@@ -53,7 +53,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose parts this claim sorts -->
 <!-- inactive-ok-file: LIT-1927 LIT-1932 LIT-1937 — Deferred: registered 2026-11-01, unread; named for what the reading of LIT-188 reports of them -->
-<!-- inactive-ok-file: QUESTION-284 — Open; the question this bears on -->
 
 # CLAIM-529: An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate's interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, a different individuation, unavailable where members have no such attitudes
 

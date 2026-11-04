@@ -34,9 +34,7 @@ summary: >-
 complements:
 - CLAIM-077
 ---
-<!-- inactive-ok-file: CLAIM-125 CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
-<!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition that would exclude the constant kernel, which the manuscript lacks -->
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited for the Blackwell condition the uniform reading becomes, not as settled -->
+<!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; cited only for the parallel with CLAIM-011 -->
 <!-- inactive-ok-file: CLAIM-258 — Proposed; companion objections from the same audit, cited for their neighbouring points -->
 

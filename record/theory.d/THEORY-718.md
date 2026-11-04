@@ -40,7 +40,6 @@ summary: >-
 extended_by:
 - THEORY-087
 ---
-<!-- inactive-ok-file: THEORY-087 — Proposed; the general and singular account this case was split from and that extends it, cited as open -->
 
 # THEORY-718: In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n
 

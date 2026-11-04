@@ -268,3 +268,11 @@ The article is a review and argument; results are cited.
 - The brief's citation is right: Psychological Inquiry 11(4):227–268, 2000.
   Crossref prints the title with title-case and curly quotes, "The 'What' and
   'Why' of Goal Pursuits".
+
+## Note of 2026-11-03: C4 against its primary source
+
+Kasser and Ryan 1996 ([NOTE-1525](NOTE-1525.md)) support only C4's first half, that
+extrinsic aspirations go with lower well-being. They measure no reasons and
+call the "beyond the reasons" test future work (p. 286). Their intrinsic and
+extrinsic results are close to one contrast, since both are entered after an
+overall score averaged across all seven domains.

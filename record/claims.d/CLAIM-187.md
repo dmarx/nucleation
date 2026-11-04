@@ -47,7 +47,7 @@ summary: >-
   carry-over from trained networks to communicative kinds is the
   filer's, and is the claim's weak point.
 ---
-<!-- inactive-ok-file: CLAIM-263 CLAIM-264 — Proposed; the general forms of this claim's premises, filed under ADR-040, open -->
+<!-- inactive-ok-file: CLAIM-263 — Proposed; the general forms of this claim's premises, filed under ADR-040, open -->
 
 # CLAIM-187: Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison
 

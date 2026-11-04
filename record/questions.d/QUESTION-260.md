@@ -20,7 +20,7 @@ summary: >-
   constraint the agent works through? It refines [QUESTION-093](QUESTION-093.md), which asks
   what a coalition of processes needs before it is a higher-level agent.
 ---
-<!-- inactive-ok-file: CLAIM-418 CLAIM-424 TERM-063 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: TERM-063 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-260: Under what conditions is an organizational perspective constitutive of an agent's practical organization, rather than one of the perspectives that influence the agent, and can a perspective be agentic in its own right under the record's competing criteria of agency?
 

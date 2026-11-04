@@ -25,7 +25,6 @@ supports:
 variants:
 - CASE-037
 ---
-<!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CASE-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

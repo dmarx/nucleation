@@ -36,7 +36,7 @@ summary: >-
   argues; whether the comparison is a criterion of agency for real systems
   is this entry's question, with [THEORY-624](THEORY-624.md)'s old condition word for word.
 ---
-<!-- inactive-ok-file: THEORY-801 QUESTION-032 QUESTION-228 — Proposed or Open; the rival account and the questions this bears on, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-801 — Proposed or Open; the rival account and the questions this bears on, nothing here rests on them -->
 
 # THEORY-1236: Agency is relative to an observer: an identified system is an agent, for that observer, to the degree that a description of the function it optimises explains its behaviour better under the observer's prior than any description of its input-output mapping
 

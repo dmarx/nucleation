@@ -35,7 +35,7 @@ summary: >-
   does not show that rougher solutions dissipate. Two printed formulas in
   the manuscript are wrong as typeset, without effect on the result.
 ---
-<!-- inactive-ok-file: CLAIM-157 CLAIM-327 CLAIM-331 THEORY-257 — Proposed; open claims and readings this reading is set beside and does not address, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings this reading is set beside and does not address, nothing here rests on their being settled -->
 # NOTE-982: Constantin, E and Titi — Onsager's conjecture on energy conservation
 
 ## Contribution

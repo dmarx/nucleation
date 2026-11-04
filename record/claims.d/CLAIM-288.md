@@ -101,7 +101,6 @@ objected_by:
 - CLAIM-356
 ---
 <!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, named in the history as the reading the grounds moved from -->
-<!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument this claim undercuts, split from it under ADR-061 -->
 
 # CLAIM-288: In a population whose operators each maximize an objective the modeller fixed, the norms the organization appears to maintain are set by the modeller, not by the organization: they can become its goals through their role in selecting what persists, but it does not produce or revise them

@@ -29,7 +29,6 @@ summary: >-
   hypothesis space and naive updating, and says nothing about richer
   hypothesis spaces or audiences that model the selection.
 ---
-<!-- inactive-ok-file: CLAIM-342 — Proposed; the anchor claim named in a connection, cited as open -->
 
 # THEORY-845: In Weatherall, O'Connor and Bruner's network model a policy maker's credence depends on the evidence it has received only through the total excess of successes over failures of the new action, so a propagandist's effect is the excess of failures it adds; for the same pulls, running single-trial studies and publishing the failures adds at least as large an excess as any other division into studies, which is why biased production does best with the smallest studies
 

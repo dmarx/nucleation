@@ -18,7 +18,7 @@ summary: >-
   §3). The model makes the prediction; whether real symbioses bear it out
   is this question.
 ---
-<!-- inactive-ok-file: QUESTION-277 CASE-173 — Open or Proposed; the question this refines and the case it names -->
+<!-- inactive-ok-file: CASE-173 — Open or Proposed; the question this refines and the case it names -->
 
 # QUESTION-353: Across real symbioses, does the partner with the larger and faster-growing population become obligate first more often than chance, and does the other partner's dependence follow the balance of births and deaths inside the collective, as Athreya, Czuppon and Gokhale's model predicts?
 

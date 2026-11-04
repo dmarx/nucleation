@@ -38,7 +38,6 @@ summary: >-
   that a constraint is inexpressible in a vocabulary, which is different
   from saying that it is false or unknown. Adopted 2026-10-29.
 ---
-<!-- inactive-ok-file: QUESTION-283 CLAIM-419 CLAIM-479 CLAIM-469 — Proposed, Open or new; the entries this term serves -->
 
 # TERM-091: relational vocabulary, of a class of descriptions: the arities and kinds of relation it can state (pairwise or higher-order, among states or among histories, of which declared types), and so which constraints are expressible in it at all
 

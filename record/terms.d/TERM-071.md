@@ -33,7 +33,7 @@ used_by:
 complements:
 - TERM-074
 ---
-<!-- inactive-ok-file: CLAIM-329 CLAIM-331 CLAIM-287 CLAIM-327 — Proposed; the claims each sense is taken from, open -->
+<!-- inactive-ok-file: CLAIM-329 CLAIM-327 — Proposed; the claims each sense is taken from, open -->
 <!-- inactive-ok-file: THEORY-418 THEORY-465 — Proposed; readings on reconstitution and on being reproduced, cited as open -->
 
 # TERM-071: persistence, of an organization, and which sense: state, dynamical, historical, viable and reinstatable

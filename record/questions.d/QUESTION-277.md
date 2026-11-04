@@ -47,11 +47,11 @@ summary: >-
   which of them a theory of individuality must require. All the works cited
   are filed unread.
 ---
-<!-- inactive-ok-file: NOTE-1241 NOTE-1243 NOTE-1236 NOTE-1235 NOTE-1234 NOTE-1240 NOTE-1238 NOTE-1242 NOTE-1237 NOTE-1239 LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
 
-<!-- inactive-ok-file: LIT-1559 LIT-1568 LIT-1560 LIT-1562 LIT-1564 LIT-1558 LIT-1566 LIT-1561 LIT-1570 LIT-1573 LIT-1571 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 LIT-1574 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1559 LIT-1562 LIT-1573 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-141 THEORY-418 THEORY-443 LIT-188 — Proposed; accounts the question would test, cited as open -->
-<!-- inactive-ok-file: LIT-1588 LIT-1590 LIT-1611 LIT-1616 LIT-1585 LIT-1608 LIT-1603 LIT-1617 LIT-1605 LIT-1597 LIT-1591 LIT-1595 CASE-173 CASE-171 CASE-177 CASE-174 CASE-167 CASE-168 — Deferred works and Proposed cases of the second pass, cited in the note of 2026-10-27 (later), nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1588 LIT-1611 LIT-1616 LIT-1585 LIT-1608 LIT-1603 LIT-1617 LIT-1605 LIT-1597 CASE-173 CASE-171 CASE-177 CASE-174 CASE-167 CASE-168 — Deferred works and Proposed cases of the second pass, cited in the note of 2026-10-27 (later), nothing here rests on them -->
 
 # QUESTION-277: When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host's regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?
 
@@ -325,3 +325,17 @@ and as a sixth route, is now read ([NOTE-1369](../notes.d/NOTE-1369.md)). The ro
 in the paper's conclusion ("a driver, not a consequence"), not shown. The
 model ends at dependence, some individuals "completely dependent upon the
 helping behaviour of others", and has no higher-level unit. The question is unchanged.
+
+## Note of 2026-11-04: West et al. 2015, read
+
+West, Fisher, Gardner and Kiers ([LIT-2003](../literature.d/LIT-2003.md), [NOTE-1538](../notes.d/NOTE-1538.md)) give an order
+of conditions rather than of routes. The conditions of group formation come
+first, and align the partners' interests: clonal bottlenecks, lifetime
+monogamy, vertical transmission of clonal symbionts. Mutual dependence
+comes later, "in most cases" through extreme division of labour. Drift is
+another route, with the host taking over roles a symbiont loses. Their
+criterion for a completed transition is mutual dependence together with
+negligible conflict, and Table 1 shows that neither suffices alone. They do
+not separate the remaining candidates, and they report "an almost complete
+lack of work addressing why certain traits are lost". The question is
+unchanged.

@@ -26,7 +26,6 @@ supports:
 - CLAIM-201
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
-<!-- inactive-ok-file: CLAIM-257 — Proposed; the measure of a change of cover, cited as a companion proposal -->
 
 # CASE-059: Tatiana's letter in Eugene Onegin III: вы to ты and back, lost in Kline and half kept in Spalding
 

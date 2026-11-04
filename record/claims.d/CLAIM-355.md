@@ -121,7 +121,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; the organizational-affect line, set aside by the owner, cited as the line this claim would rest on, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-165 CLAIM-155 CLAIM-288 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
+<!-- inactive-ok-file: CLAIM-165 CLAIM-155 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
 <!-- inactive-ok-file: LIT-1835 — Unfetched since 2026-10-29; Revonsuo and Newman 1999, cited in the note of that date as not read, nothing here rests on it -->
 
 # CLAIM-355: In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real
@@ -400,7 +400,7 @@ offered are nondual meditative states, known only by report
 
 ## Note of 2026-11-01: Metzinger on mental autonomy
 
-<!-- inactive-ok-block: THEORY-1298 QUESTION-367 — Proposed or Open; the reading and question filed 2026-11-01, cited as context -->
+<!-- inactive-ok-block: THEORY-1298 — Proposed or Open; the reading and question filed 2026-11-01, cited as context -->
 Metzinger proposes the specific misdescription this claim's note of
 2026-10-29 says the record lacks ([LIT-1941](../literature.d/LIT-1941.md), pp. 290–292;
 [THEORY-1298](../theory.d/THEORY-1298.md)).

@@ -34,7 +34,7 @@ supports:
 bears_on:
 - QUESTION-047
 ---
-<!-- inactive-ok-file: CLAIM-404 THEORY-143 THEORY-146 — Proposed; the claim and accounts this model bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-404 THEORY-143 — Proposed; the claim and accounts this model bears on, cited as open -->
 <!-- inactive-ok-file: LIT-751 — Unavailable; Holman and Bruner's unread model, named for contrast -->
 
 # THEORY-855: In Bala–Goyal network models of unbiased scientists testing a slightly better new action, a propagandist who forwards to Bayesian policy makers only those real results that favour the worse action can leave the policy makers near-certain of the false theory while the scientists converge on the true one; the effect weakens as the policy makers hear more scientists, as the better action's advantage grows and as each study gets larger

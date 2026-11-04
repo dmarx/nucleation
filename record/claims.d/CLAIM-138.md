@@ -46,7 +46,6 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-477 LIT-1633 — the frame the cost is carried to (Proposed) and the primary source, registered unread (Deferred) -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the thesis this objection presses and the qualified claim it spares, both open -->
-<!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition the exchange offered as the remedy, open -->
 <!-- inactive-ok-file: THEORY-880 — Proposed; Lyre's structuralism, cited for comparison, not leaned on -->
 
 # CLAIM-138: The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity

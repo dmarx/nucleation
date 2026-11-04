@@ -33,7 +33,6 @@ illustrated_by:
 - CASE-039
 ---
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this claim undercuts -->
-<!-- inactive-ok-file: CLAIM-143 CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # CLAIM-144: Inertial observers who disagree about temporal order differ in coordinates, not in a failure to glue: only spacelike-separated events change order between frames, and frames are global charts related by a group action
 

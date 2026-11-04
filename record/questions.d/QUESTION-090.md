@@ -25,7 +25,7 @@ bearing:
 - CLAIM-286
 - CLAIM-285
 ---
-<!-- inactive-ok-file: CLAIM-285 CLAIM-277 CLAIM-284 THEORY-067 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-285 THEORY-067 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-090: Under what conditions does a population of heterogeneous processes develop a self-maintaining, internally differentiated governance structure that acts coherently without suppressing the plurality of processes it emerges from?
 

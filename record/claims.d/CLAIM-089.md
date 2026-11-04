@@ -32,7 +32,6 @@ summary: >-
   individual-attitude version; the aggregate revealed-preference version
   is still open, so this counter stays Proposed.
 ---
-<!-- inactive-ok-file: CLAIM-122 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-089: Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy
 

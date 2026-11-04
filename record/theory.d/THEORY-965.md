@@ -48,7 +48,7 @@ summary: >-
   record holds a result against it for known causal variables
   ([THEORY-968](THEORY-968.md)).
 ---
-<!-- inactive-ok-file: CLAIM-454 THEORY-1016 — Proposed; the claim and the account this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-1016 — Proposed; the claim and the account this bears on, cited as open -->
 # THEORY-965: Sparse-autoencoder features of a large language model's residual stream are units the model computes with: they track abstract concepts across languages, modalities and concrete or abstract instances, and intervening on one changes the model's behaviour in the way its label predicts, better than directions found from a few labelled examples
 
 ## Source

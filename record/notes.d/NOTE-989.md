@@ -41,7 +41,7 @@ summary: >-
   Markovian scheme misses. The paper states no fluctuation–dissipation
   relation and no criterion for when the Markovian term suffices.
 ---
-<!-- inactive-ok-file: THEORY-257 CLAIM-327 CLAIM-331 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-257 CLAIM-327 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
 # NOTE-989: Chorin, Hald and Kupferman — Optimal prediction and the Mori–Zwanzig representation
 
 ## Contribution
