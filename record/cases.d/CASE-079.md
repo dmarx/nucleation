@@ -134,3 +134,27 @@ five minutes. Unverified accounts sometimes had 10- or 20-minute cooldowns
 canvas is observed directly for one artwork in [LIT-1037](../literature.d/LIT-1037.md). There the
 design was negotiated in a forum of 161 accounts while about 77,000 placed
 tiles ([THEORY-218](../theory.d/THEORY-218.md)).
+
+## Note of 2026-11-04: accommodation that enlarges what is feasible, from "Organizational Nucleation and SLT"
+
+The owner's U16 named "the twitch-plays-pokemon and /r/all CASEs". No
+r/all case is held. A16: "The closest existing Reddit case I found is
+CASE-079 on r/place, not one explicitly titled `/r/all`." A26 repeated it.
+Whether the owner meant this case or a new one on the r/all feed is the
+owner's to say.
+
+What A16 adds here:
+
+- **A pixel is not a complaint.** Replacing a pixel "might express
+  disagreement with an artwork, loyalty to a template, or merely
+  participation in a local contest" (A16 §3).
+- **Off-canvas plans enlarge the complex.** A16 §6: negotiated boundaries
+  or shared plans may change "the *actual conditions under which groups can
+  realize their preferred outcomes*. That can expand compatibility at fixed
+  tolerances." It is "organizational accommodation that alters what is
+  jointly feasible". Twitch's shown tally only coordinates (CASE-074).
+- In this record's terms, the first is relief in CLAIM-347's sense, and
+  QUESTION-133 asks when differentiation gives it. A16: "Neither is
+  necessarily authentic."
+
+No status changes.

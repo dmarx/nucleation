@@ -106,6 +106,7 @@ complements:
 - CLAIM-432
 - CLAIM-443
 ---
+<!-- inactive-ok-file: CLAIM-446 CLAIM-tmp6zm3v — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 <!-- inactive-ok-file: CLAIM-156 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1830 LIT-1823 — Unavailable and Unfetched since 2026-10-29; Bond 2018 and Edmondson 1996, cited in the note of that date as not read, nothing here rests on them -->
@@ -322,3 +323,39 @@ The claim is unchanged.
   nothing that tests the claim, which is about organizations.
 
 The claim is unchanged.
+
+## Note of 2026-11-04: the compatibility–flexibility gap, activation without authority, and a rival definition, from "Organizational Nucleation and SLT"
+
+**What the exchange restates.** A20 §4 built a complex over contexts,
+K^C_O(B) = {D ⊆ C : ∃π ∈ Π_O(B) ∀c ∈ D, h^π(c) ∈ N(c)}. It called
+"∀c ∃π_c ⇏ ∃π ∀c" "the key mathematical gap between local motivational
+compatibility and psychological flexibility". That gap is this claim's
+ordinal form: contexts that give the same evidence admit no policy that
+succeeds in both. It is also CLAIM-537's last clause. A20's two-context
+example, exploration against withdrawal under one observation, is
+CASE-153. A20 drew the same conclusion as this claim: "better legibility
+connected to appropriate authority allocation".
+
+**What it adds.** A randomized policy does no better. A20: "If it explores
+with probability p, its success probabilities in the two contexts are p
+and 1−p. It cannot exceed 50% reliability in both simultaneously." The
+reader checked this: max over p of min(p, 1 − p) is 1/2.
+
+**Activation without authority.** A18 split activation, authority and
+efficacy, prompted by the owner's U18 wall-punch (CLAIM-tmp6zm3v). A20 §6
+gave three readings of an inhibited defensive process: "Suppression",
+"Conditional governance" and "Accommodation". The first two are this
+claim's overcontrol and adaptive regulation. The third, which changes
+what can be attained, is new to this claim's list. It is CLAIM-347's
+relief.
+
+**A rival definition.** A19 §4: "Psychological flexibility is not the
+possession of large tolerance regions. It is the capacity to maintain or
+recover appropriate motivational accommodation as circumstances change."
+A19 also said "CLAIM-349 already supplies" a definition of psychological
+flexibility. That misreads this claim, which defines organizational
+flexibility and cites ACT as an analogy whose clinical evidence does not
+carry over. CLAIM-446's note of the same date has the term's (a), (b) and
+(c).
+
+No status changes.

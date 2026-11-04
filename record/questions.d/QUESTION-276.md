@@ -36,6 +36,7 @@ summary: >-
   candidate methods, not its answer. It does not ask whether perspectives
   exist in firms.
 ---
+<!-- inactive-ok-file: TERM-tmpszrpp — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-327 CLAIM-427 — Proposed; the claims and terms the question is framed by, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-166 CASE-165 — Proposed; filed with this question from the same exchange -->
 
@@ -169,3 +170,22 @@ relational graph would answer it too, in the negative.
   2026-10-26). hLDA's paper has the published example: eight of ten trees
   recovered from corpora simulated under its own prior ([THEORY-1010](../theory.d/THEORY-1010.md)).
 - A mode named after the departments or roles that make it up.
+
+## Note of 2026-11-04: the individuation of motivating perspectives, from "Organizational Nucleation and SLT"
+
+A28 asked this question for one agent's perspectives: "What makes two
+different motivational responses enactments of the same motivating
+perspective, rather than distinct motivations that merely share a cue or a
+goal?" (TERM-tmpszrpp). It restates two conditions at the scale of an
+individual. On overlap (condition 2): "A perspective might involve several
+dynamically coupled processes, and one process might participate in several
+perspectives." On counting: "we shouldn't automatically infer the number of
+perspectives from the number of measured activation modes" (CLAIM-454).
+
+It adds a candidate test of identity. A28's counterfactual signature asks
+which change of interpretation moves readiness with the opportunity held
+fixed, and two responses would be one perspective's if they share one.
+CLAIM-405 and CLAIM-152 say such a test is well defined only once its
+criterion is fixed, so an answer should state what the signature is
+sufficient for. A28 ran no model. The wording is A's, sharpened by the
+reader; adopting it is the owner's call. No status changes.

@@ -33,6 +33,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
+<!-- inactive-ok-file: CLAIM-445 CLAIM-tmpgjdby — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-404 CLAIM-446 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CASE-153: The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design
@@ -138,3 +139,27 @@ replicator and a history-dependent gate) and a variant in which unused
 specialists deteriorate. As partial monitoring, the case's game is locally
 observable, so what fails is access, not observability ([CLAIM-446](../claims.d/CLAIM-446.md)'s
 note of 2026-10-25, the approach–avoid game). The case is unchanged.
+
+## Note of 2026-11-04: a smaller version run, from "Organizational Nucleation and SLT"
+
+The owner's U27 asked to "numerically simulate a dynamically maintained will organization of differentiated motivational perspectives." A27 built and ran a toy without citing this case.
+
+**The toy.** It has three fixed proposals: Explore (1, 0), Protect (−1, 0) and Restore (0, 1). It runs 510 steps over overlapping contexts, with noisy cues, protective spikes, and authority g on the simplex. Five authority laws are compared over 50 seeds: responsive, activation-only, sticky, fixed and silenced protection. Mean performance comes out at .9175, .7278, .4763, .3454 and .6383 respectively. The reader rebuilt the script from the share and reran it. Every number reproduces exactly.
+
+**What it adds here.** Activation without authority: at step 33 protection is fully active under both the responsive and activation-only laws. It holds 9.0% of authority under the first and 95.9% under the second.
+
+**What the reader's checks qualify.** Each of these is the reader's.
+- **The evidence channel sets the ranking.** The responsive law scores authority mainly on a noisy copy of the target. With that cue's weight set to 0, it falls to .444 over 20 seeds, below activation-only. A says "This setting favors evidence-responsive governance by design."
+- **Switching cost reverses the ranking.** Charging λ per unit of authority change, per step, the fixed law overtakes the responsive one at λ ≈ 9.3. A said "A different cost structure could therefore alter the ranking."
+- **Sticky is capture, not failed release.** It takes Explore early and keeps it: on seed 7, Explore leads in all three contexts. That is CLAIM-277's "the same loop entrenches whatever gained influence early", not this case's escalation followed by failed release.
+- **The evidence is exogenous.** No regime can shift the evidence used to judge it, so the toy cannot show CLAIM-445's self-maintenance or this case's restriction of evidence. It has no hidden state, no learning and no audit, so it is a weaker model than this case.
+- **No gluing obstruction is possible.** The contexts form a path in time, so the nerve has no cycle. By CLAIM-153 and CLAIM-197 nothing can fail to glue there. A said so: "This is approximate reconciliation, not exact sheaf gluing."
+
+**"Frustration", misread.** A's code comment reads "Frustration term is small and independent of task-performance reward." It names the rise in a process's drive when its authority is below 0.4.
+- (a) That is deprivation of one constituent, nearer QUESTION-131's operative thwarting. As a mechanism it is worth keeping.
+- (b) In TERM-060's sense, the toy's three demands g_i ≥ 0.4 are structurally frustrated: a hollow triangle, CASE-119's shape. A would likely have measured governance-induced frustration: the share of steps on which a feasible pair face that the context made relevant went unselected.
+- (c) The owner had corrected "competition" to frustration at U7.
+
+**"Support", rightly read.** A's support term, a_j·q_i, is TERM-053 endorsement, and A correctly says "Support is not Frankfurtian identification." It is undiscriminating, though: every active process supports every other. Read with the owner's U12, the grant would depend on j's tolerance of i's proposal (CLAIM-tmpgjdby).
+
+CASE-117 holds the comparison of influence laws as a design. The case is unchanged.

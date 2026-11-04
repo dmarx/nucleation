@@ -23,6 +23,7 @@ used_by:
 - CLAIM-336
 - CLAIM-375
 ---
+<!-- inactive-ok-file: CLAIM-tmpgjdby CLAIM-tmpu69za TERM-006 TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-120 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # TERM-053: endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case
@@ -84,3 +85,60 @@ raised it is the question. Where the governance of updates sits is
 [CLAIM-367](../claims.d/CLAIM-367.md).
 
 <!-- inactive-ok-file: CLAIM-367 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+
+## Note of 2026-11-04: a proposed narrowing, two thresholds, and the Frankfurtian sense, from "Organizational Nucleation and SLT"
+
+**What the exchange asked.** The owner's U14: "concretely, I'm wondering if
+our current definition satisfies the Frankfurtian sense, or if that is a
+different sense we should consider." It does not, and this term says so.
+A14 agreed, citing this term. The reflective sense is now coded as
+TERM-tmp0evbm, higher-order volition.
+
+**A proposed narrowing (A14 §4).** "A positive influence derivative alone
+would establish facilitation, but not necessarily endorsement." "We should
+require some evidence that the causal effect is mediated by a maintained
+relation of granting, delegation, eligibility, or support before
+interpreting it as endorsement." This conflicts with "any effect" above,
+which counts suppressing a rival as endorsement. It extends the note of
+2026-10-18, which already excludes an external update rule. It is a
+proposal for the owner's ruling. The definition is unchanged.
+
+**Two thresholds (the reader of U17–U21).** A18 kept acting apart from
+acting on the will: "punching the wall is an action, but it is not
+necessarily an *attempt to revise the organization of the will*." A20 §1
+said activation coupling "is not automatically endorsement in Nucleation's
+causal-governance sense". In this term's sense a perspective has two
+thresholds: one for acting at all, and one for endorsing or opposing,
+acting on another's share of future influence. Wall-punching crosses the
+first and not the second.
+
+**The Frankfurtian misreading.**
+- (a) A's earlier turns used "endorse" for the reflective attitude (A12 §1,
+  "willing to endorse"; A15, "the will each perspective would endorse";
+  A16, "the will it would endorse"). A14's four senses (evaluative, volitional, operative,
+  constitutive) are a usable map. Its "constitutive" sense is TERM-006's
+  definition and the phrase quoted above from A10. A14's 2×2 table puts the
+  unwilling addict in the cell with no operative endorsement. By CASE-112
+  that is wrong: his volition can have a positive effect that falls short of
+  switching the regime. What he lacks is success, not endorsement.
+- (b) Read as intended, the owner's U12 "endorsement criteria" make a
+  perspective's tolerance the switching surface of the sign of E_{i→j}
+  (CLAIM-tmpgjdby). A complaint that is communicated and taken up is
+  negative endorsement, so the uptake of a complaint turns the reflective
+  sense into this one (CLAIM-tmpu69za; QUESTION-270).
+- (c) The owner made no correction. At U15 the owner chose the Frankfurtian
+  sense deliberately: "apply tolerance as a condition on the Frankfurtian
+  sense."
+
+No status changes.
+
+**Tolerance as "local endorsement" (U11).** A11 is lost apart from its opening sentence.
+
+The owner's U11: "what if we interpret these tolerances as measures of local endorsement?"
+
+- **(a) The idea as A stated it.** A11's opening: "a tight tolerance can mean strongly endorsing a requirement, while a generous tolerance can mean endorsing another process's freedom to vary."
+  - The first reading is the attitudinal sense, valuing or identifying with a demand. That is Frankfurt's sense (THEORY-120), which this term excludes. It is worth recording only as the reading to rule out.
+  - The second reading comes close to this term if it is cashed out causally.
+  - A9 had already said a tolerance "is neither an endorsement weight", without saying in which sense.
+- **(b) Read as intended.** Within i's tolerance at an overlap, E_ij ≥ 0. Beyond it, i may act to lower j's future influence, E_ij < 0. The tolerance is then i's *criterion* of endorsement in this term's causal sense. It is a necessary condition of non-opposition, not a measure of how strongly i endorses j.
+- **(c) The owner's correction.** The owner's U12: "i was thinking more along the linesof tolerances expressing endorsement criteria relative to some given perspective's priorities. maybe I'm confusing necessary vs sufficient conditions." This agrees with (b). Being within tolerance is at most necessary for E_ij ≥ 0. It is not sufficient for positive endorsement, which needs an intervention by i that raises j's influence. CLAIM-tmpgjdby holds the owner's reading.

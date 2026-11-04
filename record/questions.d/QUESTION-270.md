@@ -43,6 +43,7 @@ summary: >-
   [CLAIM-437](../claims.d/CLAIM-437.md)'s wanting and liking, [CLAIM-403](../claims.d/CLAIM-403.md)'s ladder from access to uptake,
   and [CASE-124](../cases.d/CASE-124.md)'s legibility.
 ---
+<!-- inactive-ok-file: CLAIM-364 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # QUESTION-270: When can an organization hold an evaluation that is accurate, a consummatory process registering that an outcome no longer pleases or a process whose belief keeps predicting well, and still deny it the authority to revise pursuit or the collective judgement, and how is that told apart from the evaluation's not being recognized at all?
 
@@ -228,3 +229,36 @@ its evidence: choice gates what is sampled, in every world alike. The
 epistemic instance is not touched. No Active claim or reading answers the
 question ([ADR-049](../decisions.d/ADR-049.md)), and nothing is split from it. The question is
 unchanged.
+
+## Note of 2026-11-04: five configurations, and tolerance as the missing mechanism, from "Organizational Nucleation and SLT"
+
+The owner's U13 asked to connect tolerance, endorsement and accommodation
+"to the liking vs wanting distinction, organizational authenticity, and
+agency". A13 cited this question and CLAIM-437.
+
+**The mechanism.** A13 §2 puts a tolerance in the consummatory process H
+over pursuit P: Q_{H→P} = 1 when the predicted outcome lies within H's
+tolerance. The criterion is not uptake: "a process can have an evaluation
+without having a consequential way to express it in the organization's
+allocation of authority." This question's case is then a failure of
+conditional endorsement, or of the authority to make it effective.
+
+**Five configurations (A13 §3).** Persistent wanting, evaluative isolation
+(not registered), denied uptake (registered, no effect), deliberate
+accommodation (registered, outweighed) and conditioned conformity (no
+objections produced). "liking–wanting divergence is neither necessary nor
+sufficient for inauthenticity." The first three restate the note of
+2026-10-25 and the note of 2026-10-26. The last is CLAIM-364.
+
+**The test.** "If experience changes, can the evaluating process still
+alter the conditions under which pursuit receives influence?"
+
+**A proposed CASE, not filed.** "The unliked pursuit and the tolerated
+hardship: three organizations with matched behavior and different
+endorsement relations." A13: "This would extend QUESTION-270's existing
+synthetic separation of liking, wanting, registration, and authority by
+adding learned tolerances, reciprocal accommodation, and governance
+revision." The new arm is a tolerance the governance can revise. CASE-129
+already holds the learned and disabled pair.
+
+No status changes.

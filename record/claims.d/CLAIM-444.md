@@ -52,6 +52,7 @@ illustrated_by:
 - CASE-157
 - CASE-159
 ---
+<!-- inactive-ok-file: CLAIM-534 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-451 — cited as the tools the reduction brings in -->
 
 # CLAIM-444: A replicator dynamic on the distribution of authority among an organization's processes is the special case of the meaning–authority–legibility model in which the organization's interpretation is the authority-weighted mixture of its processes' and evidence reaches scoring without a maintained regime of its own; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply, and the record's separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority
@@ -147,3 +148,22 @@ the processes' response profiles, and is never larger ([CASE-159](../cases.d/CAS
 the mixture condition has a cost: a redistribution between processes that
 agree under the current probes is a change of state the probes cannot see.
 The claim is unchanged.
+
+## Note of 2026-11-04: the "phase portrait of the will" A proposed is this null model, from "Organizational Nucleation and SLT"
+
+A22 proposed "a compatibility complex linked to a dynamical phase portrait of the will". At the owner's U23 ("kick this idea around"), A23 put trajectories on the authority simplex g ∈ Δ², with T_i = {g_i ≥ 0.4}. It gave three regimes:
+- adaptive reorganization;
+- capture ("the existing allocation of authority perpetuates itself");
+- cycling ("because one process's activation recruits opposition from another").
+
+A cited nothing for any of them. They are this claim's reduction, on the record already:
+- the replicator on π is a dynamics on that simplex;
+- capture is the coordination-game lock-in;
+- cycling is the harmonic part of Candogan's decomposition, CLAIM-451's stable cyclic regime;
+- CASE-159 supplies the simplex's metric.
+
+A23's caution matches the "What the reduction loses" list here: "plot **empirical or simulated trajectories**, not assume there exists a unique two-dimensional vector field in authority space", because hidden activation and maintained state also drive the dynamics.
+
+A's new piece is a directed graph on "satisfaction signatures" S(g) = {i : g ∈ T_i}, meaning which jointly satisfying sets the dynamics can move between. It is noted on CLAIM-534. A24's SVG draws it only as a chain with no return edges.
+
+No status changes.

@@ -61,6 +61,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: CLAIM-465 CLAIM-tmpgjdby TERM-006 TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-534 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-545 LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency, and the claim that separates its quantity -->
@@ -257,3 +258,20 @@ against what the agent can sustain ([CLAIM-079](CLAIM-079.md)). Ben-Tal et al.'s
 four-period delay or none.
 
 The claim is unchanged.
+
+## Note of 2026-11-04: restated without citation, from "Organizational Nucleation and SLT"
+
+**What A26 restated.** The owner's U26 asked A to "synthesize the discussion". A26 gave four properties as distinct:
+- compatibility;
+- reachability, "the organization can attain it from its current state under the applicable constraints";
+- viability, "the arrangement can be maintained over a relevant horizon without violating specified requirements";
+- reconfigurability, "the organization can subsequently move to another appropriate arrangement when circumstances change".
+
+It added that "acquiring authority and relinquishing authority are independently relevant capacities", citing CLAIM-465. This claim already names viable reachability, governance reconfigurability and motivational integration as dimensions. CLAIM-534 holds realizability, realization and maintenance, and CLAIM-079 holds stability against viability. A26 cites none of them. A23 had drawn the same four properties, and CLAIM-099 and CLAIM-025 hold reconfigurability apart from viability. The exchange adds no new dimension.
+
+**Endorsement, misread.**
+- (a) A26 keeps only "Frankfurtian endorsement". It uses the record's sense unnamed, as "practical authority", and as E_t, "the relations through which processes affect one another's future authority".
+- (b) Read as TERM-053, E_t is that term's E_ij, and a perspective's tolerance is its criterion for operative endorsement (CLAIM-tmpgjdby). Frankfurt's sense is TERM-tmp0evbm.
+- (c) At U14 the owner asked whether the record's endorsement "satisfies the Frankfurtian sense". A14 itself answered that it does not.
+
+A26's gloss of authenticity, "Non-dominating, answerable governance", leans on TERM-006, which is Deferred. Its domination clause is this claim's non-domination profile and CLAIM-545's. The claim is unchanged.

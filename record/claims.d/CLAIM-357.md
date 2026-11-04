@@ -226,3 +226,20 @@ geometry" (A30), a scale this claim does not otherwise need.
 Approachability is already in the record as the engine of Hart and
 Mas-Colell's proof ([NOTE-1142](../notes.d/NOTE-1142.md)): regret matching is approachability of
 the negative orthant by the regret vector. The claim is unchanged.
+
+## Note of 2026-11-04: feasible but unrealized, in A's own mock-up, from "Organizational Nucleation and SLT"
+
+A22 built a three-demand toy.
+- **The model.** The attainable outcomes are ℛ = {x ∈ [0,1]³ : Σx ≤ B}. Each demand requires x_i ≥ 0.8.
+- **The "will-governance rule".** Each perspective splits its support over the other two, and the budget is shared in proportion to incoming support, capped at 1.
+- **A's moral.** "feasibility is not governance". A put it as "Two individuals can have exactly the same motivational compatibility complex but different effective wills because their influence structures differ."
+
+The reader recomputed the allocations. They show this claim's separation more sharply than A did.
+- At B = 1.7 every pair is jointly realizable. None of A's three rules meets more than one demand: (0.567 ×3) meets none, and (1, 0.35, 0.35) meets one.
+- At B = 2.5 the triple is realizable. The two favoring rules still meet only one demand each.
+
+So the case is realized violation with no structural infeasibility, where Φ ≤ 0 and m(d_actual) > 0. A presented it only as "the actual distribution of influence changes".
+
+The same contrast is CLAIM-122's form, and CASE-119 is the same three-demand complex.
+
+No status changes.

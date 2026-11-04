@@ -79,6 +79,7 @@ summary: >-
 bears_on:
 - QUESTION-054
 ---
+<!-- inactive-ok-file: CLAIM-361 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-1283 — Open or Proposed; the outward route filed as a question, and Massumi's micropolitics set beside this claim -->
 <!-- inactive-ok-file: CLAIM-162 ARG-016 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
@@ -287,3 +288,36 @@ mode is not an accommodation among disagreeing processes but a stream that
 supplies them. It is no evidence for the amortization the claim states.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-04: the owner's saving, extended to a minimum accommodation cost, from "Organizational Nucleation and SLT"
+
+This claim is the owner's (U45 of 2026-10-17): processes that settle disagreement among themselves "require fewer resources from the system than processes which need to activate additional subsystems to resolve disagreement". It locates the saving in arbitration.
+
+The owner's U9 of the new exchange: "I think it's particularly interesting how our account combines resource boundedness of constraints and legibility, and demand accommodation subject to tolerances."
+
+**A9's generalization.** A9 §4 generalized the saving to every cost of meeting a declared set of demands S within tolerances τ over a horizon H:
+
+  C_𝒪(S, τ; H) = inf over implementable policies meeting every i ∈ S of (C_legibility + C_control + C_maintenance),
+
+which is infinite if no policy exists. A9: "Development can also change the **resource cost of achieving compatibility at a given level of fidelity**." And: "The organization hasn't necessarily enlarged its compatibility complex at every budget. It has made compatibility less expensive to realize."
+
+The arbitration cost this claim names is one term of that sum. The claim's caution carries over unchanged: local negotiation "and the relations it needs are not free".
+
+**A worked example.** A9 §2 gives one. Circumstances w = ±1 require |u − w| ≤ τ. An observation of w costs s, actuation costs 0.5|u|, and the budget is 0.70.
+
+| route | sensing cost s | tolerance τ | total cost | within 0.70 |
+|---|---|---|---|---|
+| start | 0.35 | 0.2 | 0.75 | no |
+| cheaper sensing | 0.25 | 0.2 | 0.65 | yes |
+| wider tolerance | 0.35 | 0.3 | 0.70 | yes, exactly |
+
+The reader checked the totals. A9: "The first expands effective capability relative to fixed demands. The second renegotiates what the demands require."
+
+**Held elsewhere.**
+- Only the first route is relief, by CLAIM-347 and CLAIM-361.
+- The same feasibility at a different cost has a demonstrated control-theoretic form in CLAIM-345.
+- CLAIM-475 holds that stabilized specifications make later questions cheaper.
+
+**Unremarked by A9.** A tolerance τ ≥ 1 admits u = 0 with no sensing, so renegotiation can be made free.
+
+No status changes.

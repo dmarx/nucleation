@@ -139,6 +139,7 @@ illustrated_by:
 supports:
 - CLAIM-445
 ---
+<!-- inactive-ok-file: CLAIM-tmp7oo4d — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 
 # CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
@@ -386,3 +387,43 @@ above names as Proposed is now Active. The claim stays held by the rest
 of that note: no result measures defensive authority apart from threat
 belief, the uncertainty estimate and the belief about one's own future
 control, so the rivals it names are not excluded.
+
+## Note of 2026-11-04: the ACT reading, organizational experiential avoidance, from "Organizational Nucleation and SLT"
+
+A20 §6 used this claim's case without citing it: "imagine an anxious
+person who wants to enter a previously avoided social situation". It gave
+three arrangements: one "prevents defensive activation from occurring",
+one "allows anxiety to arise while ensuring that anxiety does not
+automatically determine behavior", and one "develops a way of engaging
+that meets some of the defensive process's legitimate concerns". The
+second is this claim's "strong alarm with a valued action carried
+through". A20 §4's safe and dangerous contexts that give one observation
+are this claim's identifiability step, built as CASE-153.
+
+**The term "psychological flexibility."** A19 used it for the end of the
+owner's U19 chain.
+
+- **(a) As A stated it:** "the capacity to maintain or recover
+  appropriate motivational accommodation as circumstances change". It is
+  scored by R(π) against an "independently specified" standard A(c). That
+  is CLAIM-349's organizational flexibility, nearer Kashdan and
+  Rottenberg's broad sense (LIT-553) than ACT's. It drops ACT's relation
+  to private events and keeps only defusion's analogue, activation without
+  authority. A20 §6 flagged this itself: "an extension of that idea, not
+  an empirically established mechanism of ACT."
+- **(b) With the term read as ACT's** (LIT-555, NOTE-431, p. 7: "to
+  change or persist in behavior when doing so serves valued ends"), the
+  proposal would be this claim generalized. Organizational experiential
+  avoidance is governance that acts to keep its constituent processes
+  below threshold, maximizing the quiescent complex (CLAIM-tmp7oo4d), and
+  so narrows the contexts it handles. Flexibility in ACT's sense would
+  keep activation accessible (acceptance), not let activation fix
+  authority (defusion), and change or persist by the demands the
+  organization maintains (values). On that reading, A(c) is set by those
+  demands, not from outside (QUESTION-087). The mechanism is already this
+  claim's. The note adds the ACT reading, not a new claim.
+- **(c) The owner's correction:** none on the term. At U19 the owner
+  wrote "psychological flexibility / organizational effectiveness" with a
+  slash. A drew it as a further arrow (QUESTION-tmpu6o08).
+
+No status changes.

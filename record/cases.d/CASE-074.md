@@ -40,6 +40,7 @@ supports:
 variants:
 - CASE-160
 ---
+<!-- inactive-ok-file: TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
 
@@ -122,3 +123,27 @@ From A35–A37 of the exchange of 2026-10-24, continued.
   with fixed bounds and κ − λ from 0 to 2 confirms it ([CASE-160](CASE-160.md)).
 
 The case is unchanged.
+
+## Note of 2026-11-04: the mode vote as a rule for selecting actions, from "Organizational Nucleation and SLT"
+
+The owner's U16: "I think the twitch-plays-pokemon and /r/all CASEs might
+be particularly illuminating here." A16 used this case and CASE-075.
+
+- **A command vote is not a complaint.** A16 §3: a chat command is
+  "ordinarily a **first-order intervention**, not necessarily a
+  communicated second-order complaint". A player may vote left to move
+  left, to follow the majority or to frustrate another group.
+- **The mode vote is one level up.** "Ordinary button votes select actions;
+  a vote about which mode should govern selects a *rule for selecting
+  actions*." That is the shape of a higher-order volition (TERM-tmp0evbm).
+  A16: "The analogy is not identity".
+- **The tally coordinates without changing criteria.** A16 §6: under the
+  shown tally the crowd can converge "because participants see where the
+  majority is going", which can be "coordination without changed
+  endorsement criteria". The spiral of silence (THEORY-242) is the held
+  case of expressed opinion leaving private opinion with no member changing
+  belief.
+
+"/r/all" in U16 matches no entry. The record holds no r/all case. A16 and
+A26 both took the Reddit case to be CASE-079, r/place. The owner did not
+correct this. No status changes.

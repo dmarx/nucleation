@@ -35,6 +35,7 @@ summary: >-
   not announce when it was complete. [CLAIM-027](CLAIM-027.md)'s maintained relations and
   [TERM-017](../terms.d/TERM-017.md) name suspension, not release. The edge: one documented incident.
 ---
+<!-- inactive-ok-file: CLAIM-286 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-465: An organization's flexibility among regimes depends on the conditions under which a regime gives up authority as well as those under which it takes it, so escalation without a release condition leaves authority with a regime after the demand that justified it has passed
 
@@ -82,3 +83,27 @@ regime as well as the incumbent, and the claim does not say why release is
 not that. Its first clause also contradicts "What it does not say", which
 counts a lapse built into the escalation as a release condition, so the
 condition needs restating.
+
+## Note of 2026-11-04: rumination as failed release, and hysteresis, from "Organizational Nucleation and SLT"
+
+A19 and A26 cited this claim. A29 §3 applied it to rumination without
+citing it: "It could instead be a failure of **authority release**. The
+perspective activates appropriately but cannot stop governing attention."
+The rival is reactivation by "self-referential or threatening material",
+which is CLAIM-286's recurrent coalition. The proposed test is to
+"separately measure changes in negative material's motivational salience
+and changes in its control over attention." The analogy, a regime "that
+remains in power after the original emergency has passed", is CASE-036.
+
+A20 §5 gave a mechanism, hysteresis with θᵢ^off < θᵢ^on: "Hysteresis can
+be useful. It prevents rapid switching in response to noisy input. But it
+can also produce lock-in." CASE-112, CLAIM-459 and CLAIM-463 already hold it
+in structural form. Neither is the second case this claim waits for, and
+the note of 2026-10-30's question, why release is not TERM-017's
+suspension, stays unanswered.
+
+**Jurisdiction.** (a) A29's §3 heading, "a perspective that cannot
+relinquish jurisdiction", means the persistence of authority, not TERM-017's
+or TERM-047's jurisdiction. (b) Read as intended: the absence of a release
+condition in this claim's sense. (c) The owner made no correction.
+No status changes.

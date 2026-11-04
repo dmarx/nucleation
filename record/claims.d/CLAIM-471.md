@@ -356,3 +356,30 @@ are trusted. [CLAIM-143](CLAIM-143.md) is now Active as narrowed (2026-10-30), t
 relative to a specified class of admissible correspondences, independently
 validated; that firms the standard and supplies no case. The remaining way
 out is to narrow "establish" to "estimate", in the title and in defeater (b).
+
+## Note of 2026-11-04: three loci of change, from "Organizational Nucleation and SLT"
+
+Asked by the owner's U3 to "take a closer look at the sheaf theoretic
+account", A3 and A4 drew a distinction this claim already makes in part.
+A3: "Learning need not merely change the sections selected by the agent. It
+may change the admissible local activities, the relations among them, or the
+effective organization through which they can be jointly realized." A4
+writes a family of coboundaries δ_φ: ⊕V_v(φ) → ⊕W_e(φ):
+
+- "**Learning within an organization** changes the local activities x while
+  leaving the operative coordination structure δ_φ fixed."
+- "**Learning the organization** changes φ, thereby changing which
+  collections of local activities are compatible".
+
+A3 names three loci: "changing sections, changing admissible supports, and
+changing the organization of contexts and restriction maps".
+
+This is the second appearance of this claim's correspondence adaptation, with
+the sections added as the locus that changes nothing structural. A4 attaches
+the right safeguard, THEORY-1088: adapting the maps "can eliminate
+disagreement by changing what gets expressed". A3 and A4 did not cite
+CLAIM-538. Read through CLAIM-538, the three loci become three things that
+can change: the allocation (which cannot remove a cycle's obstruction), the
+tolerances and offsets, and the graph (see CLAIM-538's note of this date).
+
+No status changes.

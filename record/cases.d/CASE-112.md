@@ -37,6 +37,7 @@ supports:
 - CLAIM-025
 - CLAIM-408
 ---
+<!-- inactive-ok-file: CLAIM-465 CLAIM-539 CLAIM-545 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-112: Bistable authority with a tilt: in ẇ = μw − w³ + h, with w the balance of authority between two regimes and h a higher-order volition favouring one, for μ > 0 the operative regime changes only when |h| passes 2μ^{3/2}/(3√3), so a sincere and efficacious higher-order volition can move the balance without moving the regime, and which regime operates depends on the path of h
 
@@ -140,3 +141,13 @@ swing the market ([THEORY-863](../theory.d/THEORY-863.md)). That matches this ca
 symmetry breaks and its hysteresis in h after; Arthur's lock-in is
 absorption in accumulated adoptions, not a pitchfork, so the match is of
 shape only.
+
+## Note of 2026-11-04: authority capture, and a volition about the dynamics, from "Organizational Nucleation and SLT"
+
+A23's "Regime B: authority capture" is this case, uncited. In A23's words, the individual stays in one pairwise arrangement "even when restoration becomes relevant", because "the existing allocation of authority perpetuates itself". In this model that is the lower branch for 0 < h < h_c: the state stays put while another stable arrangement exists. It is also the hysteresis that keeps the agent there until h passes h_c.
+
+A23 then reads Frankfurt into the dynamics. A higher-order volition is "a preference concerning the dynamics themselves**—which perspectives should become effective under which circumstances, and which transitions should remain possible." Here that has a precise form: a volition that changes μ, and so h_c, rather than h. That is this case's "changing the conditions, not the attitude", and it is CLAIM-122's form. CLAIM-539 and CLAIM-545 hold the rest of A's reading.
+
+CLAIM-465's release condition and CLAIM-359's capture of authority-allocating processes bear on the same regime.
+
+No status changes.
