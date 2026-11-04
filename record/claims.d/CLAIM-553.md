@@ -1,5 +1,8 @@
 ---
+number: 553
 status: Proposed
+formerly:
+- CLAIM-tmpu69za
 title: 'Give each of an individual''s perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective''s tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change'
 version: 1
 role: thesis
@@ -26,10 +29,10 @@ rests_on:
 - CLAIM-534
 complements:
 - CLAIM-364
-- CLAIM-tmpgjdby
-- CLAIM-tmp6zm3v
-- CLAIM-tmp8e3ye
-- CLAIM-tmp7oo4d
+- CLAIM-552
+- CLAIM-548
+- CLAIM-550
+- CLAIM-549
 grounds:
 - THEORY-120
 - THEORY-152
@@ -38,8 +41,8 @@ grounds:
 uses:
 - TERM-060
 - TERM-064
-- TERM-tmplu4ih
-- TERM-tmp0evbm
+- TERM-103
+- TERM-102
 bears_on:
 - QUESTION-041
 - QUESTION-071
@@ -51,7 +54,7 @@ summary: >-
   complaint", an individual as a structure over its perspectives, and the
   compatibility structure. U17 recast "complaint" as "intervention
   threshold" or "activation threshold", and U18 added that an intervention
-  need not be predicted to work to be motivating ([CLAIM-tmp6zm3v](CLAIM-tmp6zm3v.md)). This
+  need not be predicted to work to be motivating ([CLAIM-548](CLAIM-548.md)). This
   claim states the corrected construct. A15 was lost in the export; A16
   carries the construction, in U15's terms. Narrowed: the complex is
   [CLAIM-347](CLAIM-347.md)'s, and the individual as a structure over perspectives is
@@ -61,9 +64,9 @@ summary: >-
   sharpened by the reader; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
-<!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 CLAIM-tmp6zm3v CLAIM-tmp7oo4d CLAIM-tmp8e3ye CLAIM-tmpgjdby TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 CLAIM-548 CLAIM-549 CLAIM-550 CLAIM-552 TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmpu69za: Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
+# CLAIM-553: Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
 
 ## The claim
 
@@ -71,7 +74,7 @@ summary: >-
 perspective that measures its "likelihood of communicating a complaint".
 U17 recast that as an "intervention threshold" or "activation threshold".
 U18 then said that an intervention need not be predicted to be effective
-to be motivating ([CLAIM-tmp6zm3v](CLAIM-tmp6zm3v.md)). The construct is therefore a threshold
+to be motivating ([CLAIM-548](CLAIM-548.md)). The construct is therefore a threshold
 on mobilizing to intervene, not on objecting in words, and not on
 expecting success.
 
@@ -89,11 +92,11 @@ them together. Kept apart:
 
 | tolerance | crossing it means | held in |
 |---|---|---|
-| τ_i^acc, acceptance | i no longer accepts w; the sign of its conferral turns | [CLAIM-tmpgjdby](CLAIM-tmpgjdby.md) |
-| τ_i^act, activation | i is active, without necessarily acting | [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md); [TERM-053](../terms.d/TERM-053.md)'s note of 2026-11-04 |
+| τ_i^acc, acceptance | i no longer accepts w; the sign of its conferral turns | [CLAIM-552](CLAIM-552.md) |
+| τ_i^act, activation | i is active, without necessarily acting | [CLAIM-550](CLAIM-550.md); [TERM-053](../terms.d/TERM-053.md)'s note of 2026-11-04 |
 | τ_i^int, intervention | i takes an action on the current state | U17, as the owner clarified at review |
 
-[CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md) is the formalization in this neighbourhood: from one
+[CLAIM-550](CLAIM-550.md) is the formalization in this neighbourhood: from one
 activation threshold θ it derives, for each response level ε, a
 different tolerance on the same discrepancy, (θ + κ⁻¹ logit ε − b)/α. So
 a ladder of tolerances on one divergence is what a graded response
@@ -118,7 +121,7 @@ A16: "This factorization is an assumption about the communication
 mechanism; it is not a general identity." It "lets us distinguish a
 tolerant perspective from a silenced perspective." A15's opening:
 "silence cannot automatically count as endorsement." An intervention that is taken up and lowers the current will's influence
-is negative conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), formerly [TERM-053](../terms.d/TERM-053.md)'s endorsement). An intervention with no channel is
+is negative conferral ([TERM-103](../terms.d/TERM-103.md), formerly [TERM-053](../terms.d/TERM-053.md)'s endorsement). An intervention with no channel is
 not, and neither is its absence.
 
 **The complex (A16 §5).** 𝒦_τ = {S ⊆ P : some attainable history's will
@@ -154,11 +157,11 @@ complains. In this construct:
   condition excludes is there. Quiet counts as evidence only when the
   channel is known ([CASE-129](../cases.d/CASE-129.md)). Mapping wholeheartedness onto the quiescent
   complex would have contradicted this claim's own point, that not
-  intervening is not endorsing; by [CLAIM-tmp7oo4d](CLAIM-tmp7oo4d.md) the two complexes can
+  intervening is not endorsing; by [CLAIM-549](CLAIM-549.md) the two complexes can
   differ;
 - an individual whose 𝒦_τ lacks the full face cannot act wholeheartedly
   with any attainable will, whatever higher-order volition
-  ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)) it forms. Its minimal non-faces are its minimal
+  ([TERM-102](../terms.d/TERM-102.md)) it forms. Its minimal non-faces are its minimal
   ambivalences;
 - it can become wholehearted only by changing a demand: a raised τ_i^acc,
   or a new target. Frankfurt's willing acceptance "may be resigned"

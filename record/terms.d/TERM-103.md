@@ -1,5 +1,8 @@
 ---
+number: 103
 status: Active
+formerly:
+- TERM-tmplu4ih
 title: 'conferral, between an organization''s processes: any effect one process has on another''s share of future influence, of which an explicit vote is one case; negative conferral withdraws influence'
 version: 1
 tags:
@@ -14,13 +17,13 @@ summary: >-
   influence there; a negative effect is negative conferral. Attending to
   j's output, keeping it active, passing it resources and suppressing its
   rivals all confer. It is an effect, not a stance: not Frankfurt's
-  endorsement ([TERM-tmp0evbm](TERM-tmp0evbm.md)), and not a grant ([TERM-tmp08c21](TERM-tmp08c21.md)), which is
+  endorsement ([TERM-102](TERM-102.md)), and not a grant ([TERM-101](TERM-101.md)), which is
   conferral through a maintained relation.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
-<!-- inactive-ok-file: TERM-tmp0evbm CLAIM-285 CLAIM-367 THEORY-120 — Proposed or new; cited as open -->
+<!-- inactive-ok-file: TERM-102 CLAIM-285 CLAIM-367 THEORY-120 — Proposed or new; cited as open -->
 
-# TERM-tmplu4ih: conferral, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case; negative conferral withdraws influence
+# TERM-103: conferral, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case; negative conferral withdraws influence
 
 ## Definition
 
@@ -44,10 +47,10 @@ realized ([CLAIM-285](../claims.d/CLAIM-285.md)).
 ## What it is not
 
 - **Not endorsement in Frankfurt's sense.** That is a reflective attitude
-  toward a motive, [TERM-tmp0evbm](TERM-tmp0evbm.md). A conferral may be subpersonal and not
+  toward a motive, [TERM-102](TERM-102.md). A conferral may be subpersonal and not
   represented, and an attitude may confer nothing (the unwilling addict
   of [CASE-112](../cases.d/CASE-112.md), whose volition falls short of switching the regime).
-- **Not a grant.** A grant ([TERM-tmp08c21](TERM-tmp08c21.md)) is conferral that runs through
+- **Not a grant.** A grant ([TERM-101](TERM-101.md)) is conferral that runs through
   a maintained relation of granting, delegation, eligibility or support.
   Suppressing a rival confers on j and grants j nothing.
 - **Not an external update rule.** An optimizer that raises a component's

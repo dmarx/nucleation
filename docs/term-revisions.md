@@ -2,7 +2,7 @@
 
 # How the terms changed
 
-6 lines, walked from `supersedes:` on TERM documents. Each step explains itself; this page is the order they came in.
+7 lines, walked from `supersedes:` on TERM documents. Each step explains itself; this page is the order they came in.
 
 ## From fidelity, as the number of preserved constraints
 
@@ -41,3 +41,9 @@
 
 - [TERM-033](../record/terms.d/TERM-033.md) — fidelity, as observational equivalence over response trajectories *(Active)*
   - [TERM-015](../record/terms.d/TERM-015.md) — fidelity, as graded, directed transport distortion *(Active)*
+
+## From endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case
+
+- [TERM-053](../record/terms.d/TERM-053.md) — endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case *(Superseded)*
+  - [TERM-101](../record/terms.d/TERM-101.md) — grant, between an organization's processes: a conferral that runs through a maintained relation of granting, delegation, eligibility or support, so that the effect on another's future influence is mediated by a relation the organization keeps; withdrawing it is revocation *(Active)*
+  - [TERM-103](../record/terms.d/TERM-103.md) — conferral, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case; negative conferral withdraws influence *(Active)*

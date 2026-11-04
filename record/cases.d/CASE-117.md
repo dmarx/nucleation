@@ -22,7 +22,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 standing: stipulated
 kind: proposed-study
@@ -43,7 +43,7 @@ summary: >-
   routing is the baseline. Even positive results would not show
   self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)).
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-367 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # CASE-117: Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, grant-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity
@@ -61,7 +61,7 @@ assumptions about the organization.
 | dimension | conditions |
 |---|---|
 | feature adaptation | fixed features; learned features |
-| influence update | uniform; historical grants ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md); [CLAIM-277](../claims.d/CLAIM-277.md)); context-sensitive contribution |
+| influence update | uniform; historical grants ([TERM-101](../terms.d/TERM-101.md); [CLAIM-277](../claims.d/CLAIM-277.md)); context-sensitive contribution |
 | competence exposure | training opportunities independent of influence; influence-dependent |
 | diversity mechanism | none; fixed usage balancing; endogenous recovery feedback |
 | environment | stationary; recurring regimes; abrupt distribution shifts |

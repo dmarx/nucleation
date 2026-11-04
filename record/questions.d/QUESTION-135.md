@@ -31,7 +31,7 @@ summary: >-
   else, such as supply, task distribution or evaluation opportunities, has
   to be fixed for it to.
 ---
-<!-- inactive-ok-file: CLAIM-tmpv67b2 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-554 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # QUESTION-135: When does spectral differentiation among learned features correspond to stabilizing coexistence among the processes that implement them, and what besides the feature geometry decides it?
@@ -121,7 +121,7 @@ question's recovery dynamics. At ρ = 1, UᵀU, the Hessian of [CLAIM-369](../cl
 objective, is singular, so differentiation removes one degeneracy. That
 holds only for this linear model.
 
-[CLAIM-tmpv67b2](../claims.d/CLAIM-tmpv67b2.md) reads niche differentiation as relief of frustration among
+[CLAIM-554](../claims.d/CLAIM-554.md) reads niche differentiation as relief of frustration among
 persistence demands.
 
 No status changes.

@@ -36,7 +36,7 @@ summary: >-
   candidate methods, not its answer. It does not ask whether perspectives
   exist in firms.
 ---
-<!-- inactive-ok-file: TERM-tmpszrpp — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: TERM-104 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-327 CLAIM-427 — Proposed; the claims and terms the question is framed by, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-166 CASE-165 — Proposed; filed with this question from the same exchange -->
 
@@ -176,7 +176,7 @@ relational graph would answer it too, in the negative.
 A28 asked this question for one agent's perspectives: "What makes two
 different motivational responses enactments of the same motivating
 perspective, rather than distinct motivations that merely share a cue or a
-goal?" ([TERM-tmpszrpp](../terms.d/TERM-tmpszrpp.md)). It restates two conditions at the scale of an
+goal?" ([TERM-104](../terms.d/TERM-104.md)). It restates two conditions at the scale of an
 individual. On overlap (condition 2): "A perspective might involve several
 dynamically coupled processes, and one process might participate in several
 perspectives." On counting: "we shouldn't automatically infer the number of

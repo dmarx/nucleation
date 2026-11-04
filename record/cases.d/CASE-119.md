@@ -25,7 +25,7 @@ summary: >-
 supports:
 - CLAIM-449
 ---
-<!-- inactive-ok-file: CLAIM-534 CLAIM-tmpu69za — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-534 CLAIM-553 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-119: Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed
 
@@ -98,5 +98,5 @@ The reader rechecked this: a grid search gives min-max discrepancy 1/3, and
 case's terms, the second is [CLAIM-534](../claims.d/CLAIM-534.md)'s allocation, and relief would need a
 larger budget or a composite policy, as here.
 
-It is a variant, not a new construction. Its use is [CLAIM-tmpu69za](../claims.d/CLAIM-tmpu69za.md).
+It is a variant, not a new construction. Its use is [CLAIM-553](../claims.d/CLAIM-553.md).
 No status changes.

@@ -1,5 +1,8 @@
 ---
+number: 551
 status: Proposed
+formerly:
+- CLAIM-tmp99a8m
 title: 'Read in DBT''s sense, cognitive dysregulation is a consequence of emotion dysregulation, not a failure to allocate attention: a perspective with high gain, intense response and slow return to baseline has a small and lingering tolerance, can stay active when the current discrepancy no longer warrants it, and while active supplies the interpretation that governance acts on, so the effective will becomes mood-dependent; it predicts impairment that follows arousal and its slow decay, where the attentional reading predicts impairment that follows competing demand on a fixed budget'
 version: 1
 role: thesis
@@ -21,13 +24,13 @@ date: '2026-11-04'
 line:
 - will-organization
 rests_on:
-- CLAIM-tmp8e3ye
+- CLAIM-550
 complements:
 - CLAIM-286
 - CLAIM-446
 - CLAIM-537
 grounds:
-- LIT-tmp6tcgp
+- LIT-2005
 summary: >-
   The DBT reading of "cognitive dysregulation" in the owner's U29 of the
   exchange "Organizational Nucleation and SLT" (2026-11-04), written up
@@ -35,13 +38,13 @@ summary: >-
   attentional reading, which stays in [CLAIM-286](CLAIM-286.md)'s note of 2026-11-04 and
   [CLAIM-537](CLAIM-537.md)'s. A29 never named the DBT sense. The reader proposed it; the
   DBT content is Linehan's biosocial theory as restated with her in
-  [LIT-tmp6tcgp](../literature.d/LIT-tmp6tcgp.md); the mapping onto [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md)'s tolerance is the
+  [LIT-2005](../literature.d/LIT-2005.md); the mapping onto [CLAIM-550](CLAIM-550.md)'s tolerance is the
   filer's. Both readings can stand: they put dysregulation at different
   loci. Adopting either is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp5hhsy CLAIM-tmp8e3ye CLAIM-286 CLAIM-446 LIT-1221 LIT-1492 — Proposed, Unavailable, Open or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-192 CLAIM-550 CLAIM-286 CLAIM-446 LIT-1221 LIT-1492 — Proposed, Unavailable, Open or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmp99a8m: Read in DBT's sense, cognitive dysregulation is a consequence of emotion dysregulation, not a failure to allocate attention: a perspective with high gain, intense response and slow return to baseline has a small and lingering tolerance, can stay active when the current discrepancy no longer warrants it, and while active supplies the interpretation that governance acts on, so the effective will becomes mood-dependent; it predicts impairment that follows arousal and its slow decay, where the attentional reading predicts impairment that follows competing demand on a fixed budget
+# CLAIM-551: Read in DBT's sense, cognitive dysregulation is a consequence of emotion dysregulation, not a failure to allocate attention: a perspective with high gain, intense response and slow return to baseline has a small and lingering tolerance, can stay active when the current discrepancy no longer warrants it, and while active supplies the interpretation that governance acts on, so the effective will becomes mood-dependent; it predicts impairment that follows arousal and its slow decay, where the attentional reading predicts impairment that follows competing demand on a fixed budget
 
 ## The two readings
 
@@ -57,7 +60,7 @@ it. Linehan's borderline personality is "primarily a disorder of emotion
 dysregulation", which is "(a) heightened emotional sensitivity, (b)
 inability to regulate intense emotional responses, and (c) slow return to
 emotional baseline", and her construct of emotion includes
-"emotion-linked cognitive process" ([LIT-tmp6tcgp](../literature.d/LIT-tmp6tcgp.md), p. 496). Cognition is
+"emotion-linked cognitive process" ([LIT-2005](../literature.d/LIT-2005.md), p. 496). Cognition is
 dysregulated as a consequence: reactions to emotional situations "result
 in distorted information processing, difficulties regulating actions to
 achieve non-mood-dependent goals, problems controlling emotion-linked
@@ -65,7 +68,7 @@ behavior, and shutting down/freezing" (p. 502).
 
 ## The claim, in the framework's terms
 
-Take [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md)'s perspective, with activation z = b(c) + α(c)d rising
+Take [CLAIM-550](CLAIM-550.md)'s perspective, with activation z = b(c) + α(c)d rising
 with discrepancy d, acting with probability σ(κ(z − θ)), and tolerating
 the discrepancy (θ + κ⁻¹ logit ε − b)/α. Linehan's three properties are
 three of its parameters:
@@ -76,7 +79,7 @@ three of its parameters:
 | intense response, not regulated | high κ, and governance unable to lower z | activation reaches extremes and is not damped |
 | slow return to baseline | b(c, t) raised by an earlier event and decaying slowly | smaller, or negative, long after the event |
 
-A negative tolerance is [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md)'s mark of activation "driven by
+A negative tolerance is [CLAIM-550](CLAIM-550.md)'s mark of activation "driven by
 something other than the discrepancy". Here it is driven by the history
 of activation itself.
 
@@ -99,7 +102,7 @@ a will that is mood-dependent.
 | outlasts the event | no, once demand falls | yes, until activation returns to baseline |
 | what restores it | reprioritizing, or more capacity | lowering activation; DBT's distress-tolerance and emotion-regulation skills |
 
-[CASE-tmp5hhsy](../cases.d/CASE-tmp5hhsy.md) builds the two as organizations equally impaired during an
+[CASE-192](../cases.d/CASE-192.md) builds the two as organizations equally impaired during an
 episode and separates them by time course and by intervention.
 
 They can both hold in one individual, and an episode can involve both.

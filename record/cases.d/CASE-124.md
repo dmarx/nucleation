@@ -25,7 +25,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 standing: fictional
 kind: construction
@@ -54,7 +54,7 @@ supports:
 variants:
 - CASE-156
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CASE-124: A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ
 
@@ -68,7 +68,7 @@ variants:
 
 - m is the meaning bias and a the authority bias, as in [CASE-099](CASE-099.md), with
   β authority shaping interpretation and γ interpretation shaping
-  conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md); [CLAIM-330](../claims.d/CLAIM-330.md)).
+  conferral ([TERM-103](../terms.d/TERM-103.md); [CLAIM-330](../claims.d/CLAIM-330.md)).
 - r is the lean of the legibility regime toward one interpretation: which
   categories exist, what is recorded, which sources are channels. It is
   [QUESTION-253](../questions.d/QUESTION-253.md)'s "third, slower variable".

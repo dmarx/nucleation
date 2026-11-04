@@ -250,7 +250,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-04: Dong, "The Kinetics of Training", read
 
-Dong (2026; [LIT-tmpywx5m](../literature.d/LIT-tmpywx5m.md), [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md), [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) is a worked
+Dong (2026; [LIT-2006](../literature.d/LIT-2006.md), [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md), [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) is a worked
 case of nucleation across a finite barrier in trained transformers, and it
 measures this question's three achievements apart. Creation is activated
 escape above a data-concentration floor, with memoryless waiting.

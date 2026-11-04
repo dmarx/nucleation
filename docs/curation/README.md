@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [4 Nov 06:43 — The exchange "Organizational Nucleation and SLT" filed: most of it already held, five owner claims, two of A's, two terms, a question and four constructions, thirty dated notes, and every misread term of art given both its stated idea and the proposal its intended sense would have made](2026-11.md#the-exchange-organizational-nucleation-and-slt-filed-most-of-it-already-held-five-owner-claims-two-of-as-two-terms-a-question-and-four-constructions-thirty-dated-notes-and-every-misread-term-of-art-given-both-its-stated-idea-and-the-proposal-its-intended-sense-would-have-made)
 - [4 Nov 01:36 — The synthesis "The Evolution of Cooperation: From Coexistence to Symbiosis to Morality" checked against the record: most of it already held; four works registered, two claims and a question filed, one citation not identified](2026-11.md#the-synthesis-the-evolution-of-cooperation-from-coexistence-to-symbiosis-to-morality-checked-against-the-record-most-of-it-already-held-four-works-registered-two-claims-and-a-question-filed-one-citation-not-identified)
 - [3 Nov 22:17 — The fifty works registered from the exchange "Assess SDT Coverage" looked for: thirty-two read, twenty-seven in full and five skimmed, with thirty-two NOTEs and thirty-five THEORYs, twenty-five Active; seven Unfetched and eleven Unavailable; what the readings corrected in the registrations, in the exchange and in the record](2026-11.md#the-fifty-works-registered-from-the-exchange-assess-sdt-coverage-looked-for-thirty-two-read-twenty-seven-in-full-and-five-skimmed-with-thirty-two-notes-and-thirty-five-theorys-twenty-five-active-seven-unfetched-and-eleven-unavailable-what-the-readings-corrected-in-the-registrations-in-the-exchange-and-in-the-record)
 - [3 Nov 20:40 — Forty-seven works registered unread, and Jennings read, from the exchange "Assess SDT Coverage": self-determination theory and the basic needs, personas and topic models, Kane, control of chaos and wu-wei, Irruption Theory and its prior art; Reenskaug left unregistered](2026-11.md#forty-seven-works-registered-unread-and-jennings-read-from-the-exchange-assess-sdt-coverage-self-determination-theory-and-the-basic-needs-personas-and-topic-models-kane-control-of-chaos-and-wu-wei-irruption-theory-and-its-prior-art-reenskaug-left-unregistered)
@@ -15,10 +16,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-203 entries across 3 books, newest first.
+204 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 6 | 2026-11-01 | 2026-11-04 |
+| [2026-11](2026-11.md) | 7 | 2026-11-01 | 2026-11-04 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

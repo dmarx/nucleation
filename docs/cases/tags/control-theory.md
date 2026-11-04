@@ -6,8 +6,8 @@
 
 **Control theory** — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066).
 
-0 of 191 CASE documents. Back to the [full index](../README.md).
+1 of 197 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-194](../../../record/cases.d/CASE-194.md) | Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies | A8's Proposal E, from the exchange "Organizational Nucleation and SLT" (2026-11-04). Three organizations have identical task performance. Their limitations are structural, observational and governance limitations, and only intervention separates them. A cited [CLAIM-346](../../../record/claims.d/CLAIM-346.md) for the distinctions, but [CLAIM-346](../../../record/claims.d/CLAIM-346.md)'s three obstructions are a different set. The observational arm is [CLAIM-535](../../../record/claims.d/CLAIM-535.md) and the governance arm is [CLAIM-357](../../../record/claims.d/CLAIM-357.md). A's meta-learning extension is a proposed study and is not filed here. The wording is A's, sharpened by the reader; adopting it is the owner's call. | Proposed |

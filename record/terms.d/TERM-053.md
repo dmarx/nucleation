@@ -10,13 +10,13 @@ history:
   date: '2026-11-04'
   note: >-
     Superseded at the owner's decision (ADR-070). The definition is
-    renamed conferral (TERM-tmplu4ih), and A14 §4's narrowing, conferral
-    through a maintained relation, is adopted as grant (TERM-tmp08c21).
-    "Endorse" is left to the reflective sense (TERM-tmp0evbm). The body
+    renamed conferral (TERM-103), and A14 §4's narrowing, conferral
+    through a maintained relation, is adopted as grant (TERM-101).
+    "Endorse" is left to the reflective sense (TERM-102). The body
     is kept as the history of the word.
 superseded_by:
-- TERM-tmplu4ih
-- TERM-tmp08c21
+- TERM-103
+- TERM-101
 tags:
 - self-governance
 - social-ontology
@@ -35,7 +35,7 @@ used_by:
 - CLAIM-336
 - CLAIM-375
 ---
-<!-- inactive-ok-file: CLAIM-tmpgjdby CLAIM-tmpu69za TERM-006 TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-552 CLAIM-553 TERM-006 TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-120 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # TERM-053: endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case
@@ -104,7 +104,7 @@ raised it is the question. Where the governance of updates sits is
 our current definition satisfies the Frankfurtian sense, or if that is a
 different sense we should consider." It does not, and this term says so.
 A14 agreed, citing this term. The reflective sense is now coded as
-[TERM-tmp0evbm](TERM-tmp0evbm.md), higher-order volition.
+[TERM-102](TERM-102.md), higher-order volition.
 
 **A proposed narrowing (A14 §4).** "A positive influence derivative alone
 would establish facilitation, but not necessarily endorsement." "We should
@@ -137,10 +137,10 @@ first and not the second.
   switching the regime. What he lacks is success, not endorsement.
 - (b) Read as intended, the owner's U12 "endorsement criteria" make a
   perspective's tolerance the switching surface of the sign of E_{i→j}
-  ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)). An intervention that is carried and taken up is
+  ([CLAIM-552](../claims.d/CLAIM-552.md)). An intervention that is carried and taken up is
   negative endorsement, so the uptake of an intervention turns the
   reflective sense into this one. U15 first framed it as a complaint, and
-  the owner recast that as an intervention threshold at U17 ([CLAIM-tmpu69za](../claims.d/CLAIM-tmpu69za.md); [QUESTION-270](../questions.d/QUESTION-270.md)).
+  the owner recast that as an intervention threshold at U17 ([CLAIM-553](../claims.d/CLAIM-553.md); [QUESTION-270](../questions.d/QUESTION-270.md)).
 - (c) The owner made no correction. At U15 the owner chose the Frankfurtian
   sense deliberately: "apply tolerance as a condition on the Frankfurtian
   sense."
@@ -156,4 +156,4 @@ The owner's U11: "what if we interpret these tolerances as measures of local end
   - The second reading comes close to this term if it is cashed out causally.
   - A9 had already said a tolerance "is neither an endorsement weight", without saying in which sense.
 - **(b) Read as intended.** Within i's tolerance at an overlap, E_ij ≥ 0. Beyond it, i may act to lower j's future influence, E_ij < 0. The tolerance is then i's *criterion* of endorsement in this term's causal sense. It is a necessary condition of non-opposition, not a measure of how strongly i endorses j.
-- **(c) The owner's correction.** The owner's U12: "i was thinking more along the linesof tolerances expressing endorsement criteria relative to some given perspective's priorities. maybe I'm confusing necessary vs sufficient conditions." This agrees with (b). Being within tolerance is at most necessary for E_ij ≥ 0. It is not sufficient for positive endorsement, which needs an intervention by i that raises j's influence. [CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md) holds the owner's reading.
+- **(c) The owner's correction.** The owner's U12: "i was thinking more along the linesof tolerances expressing endorsement criteria relative to some given perspective's priorities. maybe I'm confusing necessary vs sufficient conditions." This agrees with (b). Being within tolerance is at most necessary for E_ij ≥ 0. It is not sufficient for positive endorsement, which needs an intervention by i that raises j's influence. [CLAIM-552](../claims.d/CLAIM-552.md) holds the owner's reading.

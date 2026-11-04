@@ -1,5 +1,8 @@
 ---
+number: 372
 status: Open
+formerly:
+- QUESTION-tmpu6o08
 title: 'Does a perspective''s motivational threshold induce its tolerances, do those tolerances induce the organization''s motivational compatibility, and does that compatibility, kept across changing contexts, give psychological flexibility or organizational effectiveness; and are those last two one property named at two scales, or two properties?'
 version: 1
 tags:
@@ -19,13 +22,13 @@ summary: >-
   two. A19 and A20 drew it as a fifth arrow and argued that flexibility and
   effectiveness differ. A19 read the arrows as "a progression through
   levels of description, not a chain of automatic implications". The first
-  link is derived in [CLAIM-tmp8e3ye](../claims.d/CLAIM-tmp8e3ye.md). The third is the gap [CLAIM-349](../claims.d/CLAIM-349.md),
+  link is derived in [CLAIM-550](../claims.d/CLAIM-550.md). The third is the gap [CLAIM-349](../claims.d/CLAIM-349.md),
   [CLAIM-537](../claims.d/CLAIM-537.md) and [CASE-153](../cases.d/CASE-153.md) already hold. Whether the slash names one property
   at two scales is the owner's to say.
 ---
-<!-- inactive-ok-file: CASE-tmpo70k5 CLAIM-446 CLAIM-534 CLAIM-tmp7oo4d CLAIM-tmp8e3ye LIT-1830 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-195 CLAIM-446 CLAIM-534 CLAIM-549 CLAIM-550 LIT-1830 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# QUESTION-tmpu6o08: Does a perspective's motivational threshold induce its tolerances, do those tolerances induce the organization's motivational compatibility, and does that compatibility, kept across changing contexts, give psychological flexibility or organizational effectiveness; and are those last two one property named at two scales, or two properties?
+# QUESTION-372: Does a perspective's motivational threshold induce its tolerances, do those tolerances induce the organization's motivational compatibility, and does that compatibility, kept across changing contexts, give psychological flexibility or organizational effectiveness; and are those last two one property named at two scales, or two properties?
 
 ## Why it is a question
 
@@ -36,7 +39,7 @@ effectiveness".
 Each link is a different kind of step.
 
 1. **Threshold to tolerance.** In a linear-logistic model this is a
-   derivation ([CLAIM-tmp8e3ye](../claims.d/CLAIM-tmp8e3ye.md)). Open: whether perspectives in persons or
+   derivation ([CLAIM-550](../claims.d/CLAIM-550.md)). Open: whether perspectives in persons or
    organizations have a threshold that stays fixed while baseline and gain
    move.
 2. **Tolerance to compatibility.** A complex built from low-activation
@@ -46,7 +49,7 @@ Each link is a different kind of step.
    *nonactivation region*, not automatically an endorsement region". A19
    and A20 therefore split a quiet complex K^Q from an accommodated one,
    K^A, whose requirements "can include activation, inhibition, delegation,
-   continued accessibility, and appropriate response" ([CLAIM-tmp7oo4d](../claims.d/CLAIM-tmp7oo4d.md)).
+   continued accessibility, and appropriate response" ([CLAIM-549](../claims.d/CLAIM-549.md)).
    [CLAIM-534](../claims.d/CLAIM-534.md) already holds "jointly met, within tolerances … across the
    contexts where they interact". Open: whether K^A is determined by the
    tolerances and the attainable set, or needs requirements stated
@@ -77,7 +80,7 @@ Each link is a different kind of step.
 
 - **Link 1.** A measurement of a perspective's activation probability
   against discrepancy in two contexts. A fixed threshold with a shifted
-  baseline would fit [CLAIM-tmp8e3ye](../claims.d/CLAIM-tmp8e3ye.md). A threshold that moves with context
+  baseline would fit [CLAIM-550](../claims.d/CLAIM-550.md). A threshold that moves with context
   would not.
 - **Link 2.** A construction in which K^A is computed from tolerance
   regions and the attainable set alone, or a counterexample in which two
@@ -97,7 +100,7 @@ Each link is a different kind of step.
 At the owner's review the owner said the intended sense does not matter
 here, and invited a case for any alternative reading that supports one.
 The second reading of link 4, one property at two scales, does:
-[CASE-tmpo70k5](../cases.d/CASE-tmpo70k5.md) joins psychological and organizational flexibility by
+[CASE-195](../cases.d/CASE-195.md) joins psychological and organizational flexibility by
 propagation through a conferral network, after Guida, Minutola and Presti
 ([LIT-1218](../literature.d/LIT-1218.md)). Under ACT's definition flexibility already serves the
 system's own valued ends, so the two readings part only on the standard

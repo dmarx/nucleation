@@ -1,5 +1,8 @@
 ---
+number: 554
 status: Proposed
+formerly:
+- CLAIM-tmpv67b2
 title: 'Niche differentiation matters to an organization''s development as possible relief of structural frustration among its constituents'' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves nothing, and specialization can relieve frustration where nothing competes'
 version: 1
 role: thesis
@@ -28,7 +31,7 @@ rests_on:
 complements:
 - CLAIM-546
 - CLAIM-534
-- CLAIM-tmpzj6at
+- CLAIM-555
 uses:
 - TERM-060
 grounds:
@@ -54,9 +57,9 @@ summary: >-
   dropped and the separation of coexistence from cooperation. The wording
   is A's, sharpened by the reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-361 CLAIM-546 CLAIM-tmpzj6at — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-361 CLAIM-546 CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmpv67b2: Niche differentiation matters to an organization's development as possible relief of structural frustration among its constituents' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves nothing, and specialization can relieve frustration where nothing competes
+# CLAIM-554: Niche differentiation matters to an organization's development as possible relief of structural frustration among its constituents' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves nothing, and specialization can relieve frustration where nothing competes
 
 ## The claim
 
@@ -154,5 +157,5 @@ undifferentiated one.**"
   when differentiation provides it.
 - **That a coexistence threshold is an SLT phase boundary.** A6 itself said
   "an ecological coexistence threshold is not automatically an SLT phase
-  boundary". [CLAIM-tmpzj6at](CLAIM-tmpzj6at.md) is the claim about learners.
+  boundary". [CLAIM-555](CLAIM-555.md) is the claim about learners.
 - **That persisting together is cooperating.** It is not ([CLAIM-546](CLAIM-546.md)).

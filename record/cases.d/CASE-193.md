@@ -1,5 +1,8 @@
 ---
+number: 193
 status: Proposed
+formerly:
+- CASE-tmpbd03o
 title: 'Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so an SLT invariant and the compatibility complex vary independently'
 version: 1
 standing: fictional
@@ -27,7 +30,7 @@ summary: >-
   reader; adopting it is the owner's call.
 ---
 
-# CASE-tmpbd03o: Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so an SLT invariant and the compatibility complex vary independently
+# CASE-193: Four model classes on one task with two contexts, targets ±1 and demands ŷ_A ≥ ½, ŷ_B ≤ −½: a shared scalar is regular and frustrated (λ = ½), a shared product ab is singular and frustrated (λ = ½, multiplicity 2), a context-split x ± d is regular and compatible (λ = 1), and x ± de is singular and compatible (λ = 1 against d/2 = 3/2), so an SLT invariant and the compatibility complex vary independently
 
 ## The construction
 

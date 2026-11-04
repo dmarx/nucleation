@@ -1,6 +1,6 @@
 ---
 status: Read
-paper: LIT-tmpywx5m
+paper: LIT-2006
 title: 'Dong — The Kinetics of Training'
 version: 1
 history:

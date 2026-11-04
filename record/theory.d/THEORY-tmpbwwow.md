@@ -19,7 +19,7 @@ tags:
 - anthology-candidate
 date: '2026-11-04'
 source:
-- LIT-tmpywx5m
+- LIT-2006
 rivals:
 - THEORY-213
 - THEORY-293
@@ -39,7 +39,7 @@ summary: >-
 
 ## Source
 
-Dong (2026), [LIT-tmpywx5m](../literature.d/LIT-tmpywx5m.md), read in [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md).
+Dong (2026), [LIT-2006](../literature.d/LIT-2006.md), read in [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md).
 
 ## What was actually shown
 

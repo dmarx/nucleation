@@ -1,5 +1,8 @@
 ---
+number: 555
 status: Proposed
+formerly:
+- CLAIM-tmpzj6at
 title: 'In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand''s acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible'
 version: 1
 role: thesis
@@ -26,12 +29,12 @@ rests_on:
 - CLAIM-347
 complements:
 - CLAIM-366
-- CLAIM-tmpv67b2
+- CLAIM-554
 uses:
 - TERM-060
 grounds:
 - THEORY-1275
-- CASE-tmps4kry
+- CASE-197
 - CASE-115
 bears_on:
 - QUESTION-127
@@ -47,15 +50,15 @@ summary: >-
   responding to different demands manifested within the training data,
   which the parameters are being trained to learn to satisfy jointly." A5
   conceded and built the nerve; the reader ran its proposed test
-  ([CASE-tmps4kry](../cases.d/CASE-tmps4kry.md)). The thesis is the owner's. The construction is A5's,
+  ([CASE-197](../cases.d/CASE-197.md)). The thesis is the owner's. The construction is A5's,
   with qualifications the reader added from the record. Proposed: the
   identification is argued, its formal core is definitional, and one model
   has been checked. The wording of the construction is A's, sharpened by
   the reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmps4kry CLAIM-532 NOTE-1462 THEORY-1275 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-197 CLAIM-532 NOTE-1462 THEORY-1275 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmpzj6at: In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible
+# CLAIM-555: In statistical learning, the compatibility complex of the demands a training distribution presents and the singular geometry singular learning theory studies are two invariants of one object, not descriptions of two: each demand's acceptance set is a sublevel set of its loss on the parameter space, the complex is the nerve of those sets, and the aggregate loss whose geometry fixes the learning coefficient is built from the same losses; the nerve is coarse, the learning coefficient finer, and over a fixed architecture the complex changes in training only through which configurations are accessible
 
 ## The claim
 
@@ -107,7 +110,7 @@ counterpart of [CLAIM-366](CLAIM-366.md)'s result for common descent directions,
 answers [QUESTION-127](../questions.d/QUESTION-127.md) for this diagnosis. The learning coefficient has only
 the invariance of the analytic setting.
 
-**One model checked.** [CASE-tmps4kry](../cases.d/CASE-tmps4kry.md) builds the complex for the toy model of
+**One model checked.** [CASE-197](../cases.d/CASE-197.md) builds the complex for the toy model of
 superposition, with each feature's reconstruction loss as a demand. The
 posterior's 5 → 6 transition there is relief at common tolerances from
 0.0482 to 1/3. Below 0.0482 it trades five well-met demands for six less
@@ -118,7 +121,7 @@ does.
 
 - **That the learning coefficient is a topological invariant of the
   complex**, or that every Bayesian transition changes its Betti numbers.
-  [CASE-tmps4kry](../cases.d/CASE-tmps4kry.md)'s transition changes none.
+  [CASE-197](../cases.d/CASE-197.md)'s transition changes none.
 - **That training's demands are the network's own.** [TERM-060](../terms.d/TERM-060.md): "Ordinary
   training is the case A33 §7 named, where the objectives are the trainer's"
   (see [CLAIM-288](CLAIM-288.md)). Whose demands they are, and to which unit any frustration
