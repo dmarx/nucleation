@@ -96,4 +96,4 @@ unchanged.
 
 ## Note of 2026-11-04: response readiness, proposed beside it
 
-A proposed TERM-tmpuc919: the probability that an organization under its actual policy responds effectively to an imposed contingency by its deadline. It is organizational, takes the policy as followed rather than the supremum over procedures, and includes recognition and mobilization, so resources each available in this term's sense can still give low readiness when the dispatch policy fails to mobilize them. The two complement each other. The term is unchanged.
+A proposed [TERM-tmpuc919](TERM-tmpuc919.md): the probability that an organization under its actual policy responds effectively to an imposed contingency by its deadline. It is organizational, takes the policy as followed rather than the supremum over procedures, and includes recognition and mobilization, so resources each available in this term's sense can still give low readiness when the dispatch policy fails to mobilize them. The two complement each other. The term is unchanged.

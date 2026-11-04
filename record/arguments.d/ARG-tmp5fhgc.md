@@ -20,12 +20,12 @@ line:
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
-  section 8 of A's "Proposed additions to Nucleation PR #401". The
+  section 8 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)". The
   inference from "kept at a cost, seldom or never used" to "wasteful".
   Rejected, as A proposes: the observations are equally expected if the
   capability is insurance against contingencies that did not occur, and
-  the two departments of CASE-tmpoo2tj are identical in routine output.
-  CLAIM-tmp5rh3v undercuts it. The counterpart of ARG-042. The wording is
+  the two departments of [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) are identical in routine output.
+  [CLAIM-tmp5rh3v](../claims.d/CLAIM-tmp5rh3v.md) undercuts it. The counterpart of [ARG-042](ARG-042.md). The wording is
   A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpoo2tj CASE-tmpt6fm7 CLAIM-tmpsmebu CLAIM-tmp5rh3v TERM-tmp5t7y8 ARG-042 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
@@ -36,12 +36,12 @@ summary: >-
 
 1. A specialized resource is maintained at positive cost.
 2. It is seldom or never used for its specialized function.
-3. Therefore its maintenance expenditure is wasteful (CLAIM-tmpsmebu).
+3. Therefore its maintenance expenditure is wasteful ([CLAIM-tmpsmebu](../claims.d/CLAIM-tmpsmebu.md)).
 
-The premises come from two constructions. CASE-tmpoo2tj gives two departments with
-zero extrications, one with a rescue squad and one without. CASE-tmpt6fm7
+The premises come from two constructions. [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) gives two departments with
+zero extrications, one with a rescue squad and one without. [CASE-tmpt6fm7](../cases.d/CASE-tmpt6fm7.md)
 gives a squad that is dispatched and cancelled, committed provisionally
-(TERM-tmp5t7y8) without being exercised. In each, the premises hold.
+([TERM-tmp5t7y8](../terms.d/TERM-tmp5t7y8.md)) without being exercised. In each, the premises hold.
 
 ## Critical questions
 
@@ -49,11 +49,11 @@ gives a squad that is dispatched and cancelled, committed provisionally
   A capability that is valuable insurance against consequential
   contingencies that did not occur is also kept at a cost and seldom used.
   And a resource rightly dispatched under uncertainty is often cancelled:
-  in CLAIM-tmp5rh3v's model the optimal threshold can be about 0.143, so
+  in [CLAIM-tmp5rh3v](../claims.d/CLAIM-tmp5rh3v.md)'s model the optimal threshold can be about 0.143, so
   the resource is sent more often than it is needed.
 - **Does it tell the conclusion apart from its rivals?** No. The rivals
   are that the capability is unnecessary relative to the demands,
-  alternatives and costs, and that it is insurance. CASE-tmpoo2tj makes
+  alternatives and costs, and that it is insurance. [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) makes
   them observationally identical in routine output: the department with
   the squad and the department without it have the same record.
 - **Does the measure measure what it is said to?** No, and this is the
@@ -63,6 +63,6 @@ gives a squad that is dispatched and cancelled, committed provisionally
 
 Rejected. A: "Nonuse ⇏ Worthlessness". The opposite inference fails too:
 "Possible usefulness ⇏ Worth preserving". That a capability might be used
-does not show it is worth its cost, which CLAIM-520 shows for a
-corrective capacity. ARG-042 rejects that opposite inference for
+does not show it is worth its cost, which [CLAIM-520](../claims.d/CLAIM-520.md) shows for a
+corrective capacity. [ARG-042](ARG-042.md) rejects that opposite inference for
 corrigibility.

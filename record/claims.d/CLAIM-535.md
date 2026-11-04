@@ -96,4 +96,4 @@ The moral-hazard case Ratliff et al. (2019), [LIT-tmpsj5c6](../literature.d/LIT-
 
 ## Note of 2026-11-04: observations that arrive in sequence
 
-A's CLAIM-tmp4pk8d (Proposed) carries this claim to two stages: as the first unit's report arrives, the acceptable action changes from dispatch to cancel under one objective, so a reversal is not by itself evidence of error. The claim is unchanged.
+A's [CLAIM-tmp4pk8d](CLAIM-tmp4pk8d.md) (Proposed) carries this claim to two stages: as the first unit's report arrives, the acceptable action changes from dispatch to cancel under one objective, so a reversal is not by itself evidence of error. The claim is unchanged.

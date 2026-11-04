@@ -30,7 +30,7 @@ bears_on:
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
-  section 6 of A's "Proposed additions to Nucleation PR #401". With an
+  section 6 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)". With an
   initial belief at which dispatch pays and a later report that makes
   continuing not pay, dispatching and then cancelling are each optimal for
   the information held when they are taken. A: "The original dispatch is
@@ -45,7 +45,7 @@ summary: >-
 
 **Two stages.** At time zero the belief that the capability is needed is
 p0, with organizational state s0, and dispatch has expected advantage
-ΔV(p0) > 0, as in CLAIM-tmp5rh3v. After the first unit reports, the
+ΔV(p0) > 0, as in [CLAIM-tmp5rh3v](CLAIM-tmp5rh3v.md). After the first unit reports, the
 belief is p1 and the state s1, and continuing has expected advantage
 ΔV_continue(p1, s1) < 0.
 
@@ -59,9 +59,9 @@ cancellation," and "appropriate withdrawal of a commitment can be a
 successful act of governance."
 
 **What makes it possible** is that the commitment was provisional
-(TERM-tmp5t7y8): the policy allowed release on new information.
+([TERM-tmp5t7y8](../terms.d/TERM-tmp5t7y8.md)): the policy allowed release on new information.
 
-CLAIM-535 says which observations a single policy must distinguish for
+[CLAIM-535](CLAIM-535.md) says which observations a single policy must distinguish for
 every circumstance to get an acceptable action. This claim adds the
 sequential case: as observations arrive, the acceptable action changes
 without the objective changing, so a reversal is not by itself evidence of

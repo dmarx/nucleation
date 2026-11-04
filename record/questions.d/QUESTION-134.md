@@ -38,7 +38,6 @@ summary: >-
   test for one mechanism of domination without defining domination as
   holding less authority.
 ---
-<!-- inactive-ok-file: QUESTION-tmpmtvei — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
@@ -125,4 +124,4 @@ unchanged.
 
 ## Note of 2026-11-04: an institutional neighbour
 
-A's QUESTION-tmpmtvei asks whether activity-based budgeting can defund a rare-event capability into incapacity, with k_{t+1} = (1−δ)k_t + βm_t and B_{t+1} = B̄ + ηM_t. It differs from this question in three ways: the allocation is institutional, the signal is observed utilization, and the capability is deadline-conditioned. The question is unchanged.
+A's [QUESTION-tmpmtvei](QUESTION-tmpmtvei.md) asks whether activity-based budgeting can defund a rare-event capability into incapacity, with k_{t+1} = (1−δ)k_t + βm_t and B_{t+1} = B̄ + ηM_t. It differs from this question in three ways: the allocation is institutional, the signal is observed utilization, and the capability is deadline-conditioned. The question is unchanged.

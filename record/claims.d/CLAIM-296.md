@@ -149,4 +149,4 @@ Larson's hypercube model, Daskin's MEXCLP and ReVelle and Hogan's MALP ([LIT-tmp
 
 ## Note of 2026-11-04: deployability under a policy
 
-A's CLAIM-tmpvhj8j and TERM-tmpuc919 (both Proposed) carry the split between having and deploying to an organization. Equipment present and staff qualified do not give readiness if a complementary capacity is absent or the policy does not mobilize them, and since readiness is a joint probability, one resource's utilization need not track it. The claim is unchanged.
+A's [CLAIM-tmpvhj8j](CLAIM-tmpvhj8j.md) and [TERM-tmpuc919](../terms.d/TERM-tmpuc919.md) (both Proposed) carry the split between having and deploying to an organization. Equipment present and staff qualified do not give readiness if a complementary capacity is absent or the policy does not mobilize them, and since readiness is a joint probability, one resource's utilization need not track it. The claim is unchanged.

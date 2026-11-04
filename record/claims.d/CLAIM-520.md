@@ -84,4 +84,4 @@ Skimmed in [NOTE-tmpsnl7o](../notes.d/NOTE-tmpsnl7o.md) as the stand-in for Jord
 
 ## Note of 2026-11-04: the same conditionality for a dispatched resource
 
-A's CLAIM-tmp5rh3v (Proposed) gives the dispatch analogue: provisional dispatch pays when p > (c0 + g)/(H + c0 − c1), which can be about 0.14, so neither a cancellation rate nor low use shows waste. ARG-tmp5fhgc (Rejected) is the counterpart of ARG-042. The claim is unchanged.
+A's [CLAIM-tmp5rh3v](CLAIM-tmp5rh3v.md) (Proposed) gives the dispatch analogue: provisional dispatch pays when p > (c0 + g)/(H + c0 − c1), which can be about 0.14, so neither a cancellation rate nor low use shows waste. [ARG-tmp5fhgc](../arguments.d/ARG-tmp5fhgc.md) (Rejected) is the counterpart of [ARG-042](../arguments.d/ARG-042.md). The claim is unchanged.

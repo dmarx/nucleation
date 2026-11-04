@@ -12,11 +12,11 @@ line:
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
-  section 11 of A's "Proposed additions to Nucleation PR #401". If budgets
+  section 11 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)". If budgets
   follow observed activity and competence decays without funded
   maintenance, a capability used only in rare circumstances may be
   defunded into incapacity. A: "Its existence and harmfulness should not be
-  assumed." Distinct from QUESTION-134. The wording is A's; adopting it is
+  assumed." Distinct from [QUESTION-134](QUESTION-134.md). The wording is A's; adopting it is
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpvhj8j TERM-tmpuc919 ARG-tmp5fhgc — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
@@ -43,13 +43,13 @@ capability's circumstances are rare, the loop can drive k down. Whether
 it does, for which rules, is open. A: "Its existence and harmfulness
 should not be assumed."
 
-It differs from QUESTION-134, where influence decides a specialist's
+It differs from [QUESTION-134](QUESTION-134.md), where influence decides a specialist's
 access to learning. Here the allocation is institutional, the signal is
 observable utilization, and the capability at stake is deadline-
-conditioned readiness (TERM-tmpuc919) for rare contingencies. The loop
-would act on one factor of CLAIM-tmpvhj8j's joint readiness, proficiency,
+conditioned readiness ([TERM-tmpuc919](../terms.d/TERM-tmpuc919.md)) for rare contingencies. The loop
+would act on one factor of [CLAIM-tmpvhj8j](../claims.d/CLAIM-tmpvhj8j.md)'s joint readiness, proficiency,
 and so its effect depends on the others. It would be the institutional
-form of ARG-tmp5fhgc's rejected inference, acted on.
+form of [ARG-tmp5fhgc](../arguments.d/ARG-tmp5fhgc.md)'s rejected inference, acted on.
 
 ## What would answer it
 

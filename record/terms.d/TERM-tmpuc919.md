@@ -14,10 +14,10 @@ complements:
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
-  section 4 of A's "Proposed additions to Nucleation PR #401", where A
+  section 4 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)", where A
   named it "scenario-conditioned operational readiness". Renamed on
-  filing, to keep it apart from TERM-055's operational availability and
-  TERM-094's action readiness. R^π_O(c, τ | s) is the probability of an
+  filing, to keep it apart from [TERM-055](TERM-055.md)'s operational availability and
+  [TERM-094](TERM-094.md)'s action readiness. R^π_O(c, τ | s) is the probability of an
   effective response by τ when contingency c is imposed on organization O
   in state s under its actual policy π. It is a family indexed by
   contingency, not one number. The wording is A's; adopting it is the
@@ -44,18 +44,18 @@ ready for some contingencies than the other.
 
 ## What it is not
 
-- **Operational availability (TERM-055).** That is the chance that a
+- **Operational availability ([TERM-055](TERM-055.md)).** That is the chance that a
   resource is deployed for a task before the deadline, given the cue
   actually supplied, taking the supremum over the procedures available.
   This term is about an organization's effective response under a
   specified policy, which includes recognizing the contingency,
   mobilizing for it and performing successfully, and it takes the policy
   as followed, not the best one available. So a system can have the
-  equipment and the personnel, each available in TERM-055's sense, and
+  equipment and the personnel, each available in [TERM-055](TERM-055.md)'s sense, and
   low readiness, because its dispatch policy fails to mobilize them. The
   two are complements: availability of each resource is one factor of
   this term.
-- **Action readiness (TERM-094).** Frijda's term is a state of an agent:
+- **Action readiness ([TERM-094](TERM-094.md)).** Frijda's term is a state of an agent:
   a preparation for action that claims control over behaviour. This term
   is not a state at all but a probability, of an organization, for a
   contingency, and it says nothing about what claims control. An

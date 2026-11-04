@@ -29,7 +29,7 @@ bears_on:
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
-  section 7 of A's "Proposed additions to Nucleation PR #401",
+  section 7 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)",
   demonstrated in a stated construction. When a response succeeds only if
   crew, proficiency, equipment and timely assembly all hold, readiness is a
   chain-rule product of conditional probabilities, and the value of
@@ -49,7 +49,7 @@ summary: >-
 
 with C a qualified crew available, K knowledge and proficiency
 maintained, M material resources operational, and T the response
-assembled before the deadline. Readiness (TERM-tmpuc919) is
+assembled before the deadline. Readiness ([TERM-tmpuc919](../terms.d/TERM-tmpuc919.md)) is
 
   R = Pr(C ∩ K ∩ M ∩ T) = Pr(C) · Pr(K | C) · Pr(M | C, K) · Pr(T | C, K, M),
 
@@ -66,9 +66,9 @@ capability depends on the system in which it is embedded."
 equipment runs, need not track R. A: "the object being produced is joint
 response capability, not the activity of any single component."
 
-CLAIM-422 separates a corrective act, a procedure and a maintained
+[CLAIM-422](CLAIM-422.md) separates a corrective act, a procedure and a maintained
 capacity; this claim adds that a maintained capacity is worth what the
-capacities it works with let it deliver. CLAIM-347 treats which of an
+capacities it works with let it deliver. [CLAIM-347](CLAIM-347.md) treats which of an
 organization's demands can be satisfied together; this treats which
 capacities must be present together for one demand to be met.
 

@@ -16,11 +16,11 @@ illustrates:
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
-  section 3 of A's "Proposed additions to Nucleation PR #401". Two
+  section 3 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)". Two
   departments with the same ordinary resources, one of which also keeps a
   trained, staffed and equipped rescue squad, have the same incident
   history and zero extrications. Only an imposed time-critical extrication
-  tells them apart. A proposed it to support CLAIM-414 rather than as a
+  tells them apart. A proposed it to support [CLAIM-414](../claims.d/CLAIM-414.md) rather than as a
   near-duplicate claim; it illustrates that claim for a capability. The
   wording is A's; adopting it is the owner's call.
 ---
@@ -50,14 +50,14 @@ successful selective nonaction, Department A's squad not used because no
 incident called for it, from nonaction caused by incapacity, Department
 B's squad never used because B has none. The two look the same in routine output.
 
-This is CLAIM-414's pattern carried from interpretation to a capability:
+This is [CLAIM-414](../claims.d/CLAIM-414.md)'s pattern carried from interpretation to a capability:
 systems that agree under ordinary operation differ, and a specified
 intervention exposes the difference that passive observation of the
-matched trajectories does not. CLAIM-414 rests on its own constructions,
+matched trajectories does not. [CLAIM-414](../claims.d/CLAIM-414.md) rests on its own constructions,
 not on this one, so the case illustrates it without bearing its weight.
-It is one premise of ARG-tmp5fhgc, the inference from low exercise to
-waste, which it helps defeat. QUESTION-tmpw46vw asks what observations
-would tell the two departments apart short of the intervention; in TERM-tmpuc919's
+It is one premise of [ARG-tmp5fhgc](../arguments.d/ARG-tmp5fhgc.md), the inference from low exercise to
+waste, which it helps defeat. [QUESTION-tmpw46vw](../questions.d/QUESTION-tmpw46vw.md) asks what observations
+would tell the two departments apart short of the intervention; in [TERM-tmpuc919](../terms.d/TERM-tmpuc919.md)'s
 terms they differ in readiness for one contingency.
 
 ## What it cannot show

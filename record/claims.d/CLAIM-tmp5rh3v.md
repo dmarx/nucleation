@@ -33,11 +33,11 @@ bears_on:
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
-  section 2 of A's "Proposed additions to Nucleation PR #401". In an
-  expected-loss model of CASE-tmpt6fm7, provisional dispatch pays when
+  section 2 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)". In an
+  expected-loss model of [CASE-tmpt6fm7](../cases.d/CASE-tmpt6fm7.md), provisional dispatch pays when
   p > (c0 + g)/(H + c0 − c1), and the threshold can lie below 1/2, so a
   resource more often cancelled than used can be rightly sent. Checked.
-  It undercuts ARG-tmp5fhgc. The wording is A's; adopting it is the
+  It undercuts [ARG-tmp5fhgc](../arguments.d/ARG-tmp5fhgc.md). The wording is A's; adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpt6fm7 ARG-tmp5fhgc TERM-tmp5t7y8 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
@@ -46,7 +46,7 @@ summary: >-
 
 ## The claim
 
-**The model.** For the dispatch of CASE-tmpt6fm7, let
+**The model.** For the dispatch of [CASE-tmpt6fm7](../cases.d/CASE-tmpt6fm7.md), let
 - p be the probability the specialized resource is needed;
 - H the expected harm avoided by provisional rather than delayed
   dispatch, given need;
@@ -54,7 +54,7 @@ summary: >-
   unnecessary, and c1 when it proves necessary;
 - g a fixed expected coverage opportunity cost.
 
-The expected advantage of dispatching provisionally (TERM-tmp5t7y8) over
+The expected advantage of dispatching provisionally ([TERM-tmp5t7y8](../terms.d/TERM-tmp5t7y8.md)) over
 waiting is
 
   ΔV = pH − (1 − p)c0 − pc1 − g = p(H + c0 − c1) − (c0 + g).
@@ -74,8 +74,8 @@ is right although the resource will be cancelled four times in five.
 
 **So** a cancellation rate alone cannot identify waste. A high rate is
 what this optimal policy produces when need is uncommon and the delay it
-saves is costly. That undercuts ARG-tmp5fhgc's inference from low exercise
-to waste. CLAIM-520 makes the converse point for a corrective capacity:
+saves is costly. That undercuts [ARG-tmp5fhgc](../arguments.d/ARG-tmp5fhgc.md)'s inference from low exercise
+to waste. [CLAIM-520](CLAIM-520.md) makes the converse point for a corrective capacity:
 its value is conditional on cost and consequence, so neither low use nor
 possible use settles it.
 
@@ -84,7 +84,7 @@ possible use settles it.
 - **That real dispatch policies are optimal.** It is an expected-loss
   model with fixed costs.
 - **That costs and severity are constant.** They can depend on the state
-  of the system, which QUESTION-tmpvweyo asks about.
+  of the system, which [QUESTION-tmpvweyo](../questions.d/QUESTION-tmpvweyo.md) asks about.
 - **Anything about deployment risk.** Travel and operation risks to the
   crew and the public are left out.
 - **That high cancellation is desirable**, or that any given cancellation

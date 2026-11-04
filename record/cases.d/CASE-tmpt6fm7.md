@@ -14,14 +14,14 @@ line:
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
-  section 1 of A's "Proposed additions to Nucleation PR #401". A heavy
+  section 1 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)". A heavy
   rescue squad is dispatched to a reported collision before the first
   engine has established whether extrication is needed, and is cancelled
   when the engine finds it is not. Waiting costs A + T minutes;
   provisional dispatch costs max(A, T), so it saves min(A, T). A
-  constructed case: the USFA page LIT-tmpnhw2v is a real-world analogue,
-  not its documentation. The case grounds CLAIM-tmp5rh3v and
-  CLAIM-tmp4pk8d. The wording is A's; adopting it is the owner's call.
+  constructed case: the USFA page [LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md) is a real-world analogue,
+  not its documentation. The case grounds [CLAIM-tmp5rh3v](../claims.d/CLAIM-tmp5rh3v.md) and
+  [CLAIM-tmp4pk8d](../claims.d/CLAIM-tmp4pk8d.md). The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp5rh3v CLAIM-tmp4pk8d TERM-tmp5t7y8 TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
@@ -56,13 +56,13 @@ mobilization."
 
 **What a full version would add**, in A's list: the incremental cost of a
 response, the squad's temporary unavailability for other incidents, and
-the reliability of the first unit's assessment. CLAIM-tmp5rh3v adds the
-costs; QUESTION-tmpvweyo asks how coverage changes them.
+the reliability of the first unit's assessment. [CLAIM-tmp5rh3v](../claims.d/CLAIM-tmp5rh3v.md) adds the
+costs; [QUESTION-tmpvweyo](../questions.d/QUESTION-tmpvweyo.md) asks how coverage changes them.
 
 **Provenance.** The heavy-rescue example is constructed. A: "The
 heavy-rescue example here is our constructed case. The USFA document is a
 real-world analogue". The U.S. Fire Administration's NFIRS coding page,
-LIT-tmpnhw2v, has no heavy rescue squad. Its second scenario cancels one
+[LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md), has no heavy rescue squad. Its second scenario cancels one
 tanker/tender and one rescue vehicle after the first-arriving engine finds
 a false alarm. The page also says that a call a department could not
 answer for lack of resources is not an NFIRS incident, so the failures
@@ -75,13 +75,13 @@ documents nothing about this case.
 A's reading: "A resource may be correctly mobilized and correctly
 canceled without performing its specialized operation. The two decisions
 can both be optimal because they are made under different information
-states." The dispatch is a provisional commitment (TERM-tmp5t7y8), not an
-exercise of the squad's specialized function. CLAIM-tmp4pk8d states the
+states." The dispatch is a provisional commitment ([TERM-tmp5t7y8](../terms.d/TERM-tmp5t7y8.md)), not an
+exercise of the squad's specialized function. [CLAIM-tmp4pk8d](../claims.d/CLAIM-tmp4pk8d.md) states the
 two-stage result.
 
 It sits beside the record's other work on deployment under a deadline:
-CLAIM-296 and TERM-055 separate having a resource from deploying it in
-time, and CLAIM-535 asks which observations a policy must act on. Here the
+[CLAIM-296](../claims.d/CLAIM-296.md) and [TERM-055](../terms.d/TERM-055.md) separate having a resource from deploying it in
+time, and [CLAIM-535](../claims.d/CLAIM-535.md) asks which observations a policy must act on. Here the
 policy acts first on a report and then on the first unit's assessment.
 
 ## What it cannot show
@@ -91,5 +91,5 @@ policy acts first on a report and then on the first unit's assessment.
 - **That any real department's policy is optimal**, or that any real
   cancellation was appropriate. It is a construction with fixed travel
   times and a perfect assessment.
-- **Anything about the squad's readiness** (TERM-tmpuc919): it assumes the
+- **Anything about the squad's readiness** ([TERM-tmpuc919](../terms.d/TERM-tmpuc919.md)): it assumes the
   squad can deploy, and asks only when to send it.

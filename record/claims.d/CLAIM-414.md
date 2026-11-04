@@ -222,4 +222,4 @@ A call cancelled en route ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) is a
 
 ## Note of 2026-11-04: a capability concealed by matched routine output
 
-A's CASE-tmpoo2tj (fictional) has two departments with the same incident history and zero extrications, of which only one can meet an imposed time-critical extrication. It is this claim's pattern carried from interpretation to a maintained capability, and it illustrates the claim without bearing its weight. The claim is unchanged.
+A's [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) (fictional) has two departments with the same incident history and zero extrications, of which only one can meet an imposed time-critical extrication. It is this claim's pattern carried from interpretation to a maintained capability, and it illustrates the claim without bearing its weight. The claim is unchanged.

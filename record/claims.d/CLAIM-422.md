@@ -178,4 +178,4 @@ Oskar and colleagues' scoping review ([LIT-tmp07mjg](../literature.d/LIT-tmp07mj
 
 ## Note of 2026-11-04: a maintained capacity among complements
 
-A's CLAIM-tmpvhj8j (Proposed) adds that a maintained capacity is worth what its complements let it deliver: with the material resources absent, proficiency cannot produce success. The claim is unchanged.
+A's [CLAIM-tmpvhj8j](CLAIM-tmpvhj8j.md) (Proposed) adds that a maintained capacity is worth what its complements let it deliver: with the material resources absent, proficiency cannot produce success. The claim is unchanged.
