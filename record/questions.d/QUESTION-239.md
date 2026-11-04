@@ -4,7 +4,14 @@ status: Answered
 formerly:
 - QUESTION-tmp7x8l1
 title: 'In the linearized operator model, is scoring operators against predictions committed before the evidence equivalent to Regime B''s independent scoring?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - cognition
 - complex-systems
@@ -15,7 +22,7 @@ refines:
 summary: >-
   The formal sub-question [QUESTION-121](QUESTION-121.md) asked of its third candidate,
   commitment before evidence. Split off under [ADR-049](../decisions.d/ADR-049.md) and answered No by
-  [CLAIM-340](../claims.d/CLAIM-340.md). The coupling of interpretation to endorsement is
+  [CLAIM-340](../claims.d/CLAIM-340.md). The coupling of interpretation to conferral is
   γ = 4ηs(κ′ − κ̄), so commitment removes capture only when the
   interpretation bends the reading of the evidence no more than it bends
   the predictions. Which source in one mind does the scoring stays with
@@ -30,7 +37,7 @@ answered_by:
 
 No. [CLAIM-340](../claims.d/CLAIM-340.md) (Active, demonstrated) derives it in [CASE-106](../cases.d/CASE-106.md), within
 [CASE-099](../cases.d/CASE-099.md)'s linearization at the symmetric state, for squared-error
-scoring. The coupling of interpretation to endorsement is
+scoring. The coupling of interpretation to conferral is
 
   γ = 4ηs(κ′ − κ̄),
 

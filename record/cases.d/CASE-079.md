@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpd83bj
 title: 'r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities built, defended and overwrote images, coordinating through the canvas itself as well as off it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -15,6 +15,12 @@ history:
     canvas. The title and two sentences of the body said coordination
     happens off the canvas, and now say it happens through the canvas as
     well. The facts of the event are unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -82,7 +88,7 @@ they coordinate off the canvas or through it.
 A8 mapped the exchange's model onto it. The pixel array is observable, and
 what the pixels mean to each group is latent. Users, groups, subreddits,
 bots and alliances are operators at different scales. Following a plan or
-deferring to a template is endorsement ([TERM-053](../terms.d/TERM-053.md)).
+deferring to a template is conferral (TERM-tmplu4ih, [TERM-053](../terms.d/TERM-053.md)'s endorsement).
 
 - **The same act stabilizes or destabilizes, relative to a plan.** A8 §2:
   restoring a pixel is denoising for the group whose image it is, and the

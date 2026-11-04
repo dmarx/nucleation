@@ -7,7 +7,7 @@ title: When an operator's authority is updated by how well it performs on the in
   it helped make dominant, the coupled meaning and influence of an organization
   can amplify an initial interpretive advantage without any gain in fidelity to
   independent evidence
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-26'
@@ -47,6 +47,12 @@ history:
     Note of 2026-10-29 added: DeMarzo, Vayanos and Zwiebel 2001,
     which the earlier note calls not registered, is registered and
     Unavailable (LIT-1825). The claim is unchanged.
+- version: 6
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -100,7 +106,7 @@ A22 §8: "When operator authority is updated using performance assessed
 against the interpretation that those operators help determine, the
 coupled system can reinforce an initial interpretive advantage without
 corresponding improvement in independent evidential fidelity." The
-circuit, A22 §2: frame → retrieval → interpretation → endorsement →
+circuit, A22 §2: frame → retrieval → interpretation → conferral →
 future retrieval policy.
 
 A22 wrote it as two coupled processes. Meaning: x_{t+1} = Σᵢ w_{i,t}
@@ -120,7 +126,7 @@ on the first ([CLAIM-285](CLAIM-285.md), [TERM-053](../terms.d/TERM-053.md)). A2
 the claims around them: [CLAIM-275](CLAIM-275.md) (meaning, policy and influence
 co-evolve), [CLAIM-277](CLAIM-277.md) (trust earned by being right, and its entrenchment
 loop), [CLAIM-276](CLAIM-276.md) (coherence, fidelity and plurality are separate),
-[CLAIM-281](CLAIM-281.md) (role-indexed endorsement) and [CLAIM-280](CLAIM-280.md). This claim names a
+[CLAIM-281](CLAIM-281.md) (role-indexed grants) and [CLAIM-280](CLAIM-280.md). This claim names a
 mechanism by which [CLAIM-277](CLAIM-277.md)'s entrenchment would run, and the sense in
 which it fails [CLAIM-276](CLAIM-276.md)'s fidelity.
 

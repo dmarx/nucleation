@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqkpuo
 title: 'The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities: a motive can claim control without receiving it, and be granted control it does not claim'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -16,6 +16,12 @@ history:
     Proposed. Grounds on THEORY-055 and THEORY-056 removed: the first
     is replaced by TERM-094, the second is cited and not rested
     on.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,7 +52,7 @@ summary: >-
   An operator can urgently demand control without receiving it. That
   distinction between *claimed precedence* and *endorsed authority* may be
   essential to modeling internal conflict." It joins [THEORY-055](../theory.d/THEORY-055.md) to the
-  endorsement scheme. It does not say which wins.
+  grant scheme. It does not say which wins.
 supports:
 - CLAIM-368
 - CLAIM-440
@@ -69,7 +75,7 @@ without receiving it. That distinction between *claimed precedence* and
 For Frijda ([THEORY-055](../theory.d/THEORY-055.md)) an emotion is a state of action readiness that
 claims control precedence. [THEORY-056](../theory.d/THEORY-056.md) has regulation as one motive state
 checking another: anger held back by fear of retaliation. Put together with
-the endorsement scheme, anger claims precedence and fear works by
+the grant scheme, anger claims precedence and fear works by
 withholding it. The conflict is the difference between what a state claims
 and what it is granted. [TERM-017](../terms.d/TERM-017.md)'s precedence is a maintained relation
 among regimes, and [CLAIM-027](CLAIM-027.md) says which regime is effective depends on such
@@ -90,7 +96,7 @@ relations. This claim splits precedence into a claim and a grant.
 A34 §3 of the exchange of 2026-10-17 restated this claim's gap as p_i − w_i,
 "a candidate indicator of frustrated precedence when the quantities have
 been defined on comparable scales", and called it "the missing bridge"
-between Frijda and the endorsement model. It is this claim's gap, not an
+between Frijda and the grant model. It is this claim's gap, not an
 extension of it. A34 added the caution the claim's own "What it does not
 say" implies: "Nor does disagreement between claimed and granted
 authority necessarily indicate dysfunction: a good organization may
