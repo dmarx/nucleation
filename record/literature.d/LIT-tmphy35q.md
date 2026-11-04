@@ -1,0 +1,98 @@
+---
+status: Active
+status_note: >-
+  read in part 2026-11-04 (NOTE-tmp5y2s6, Skimmed) from the arXiv preprint,
+  v1; worth reading as a clear statement of the two recurring EMS decisions,
+  which ambulance to send or whether to queue a call, and where a freed
+  ambulance goes, with the trade-off that serving a call now lowers
+  readiness for calls not yet known, and for its station-level
+  preparedness metric, the steady-state cost rate of a Markov chain over a
+  station's busy ambulances, used inside a one-step integer program. In a
+  Rio de Janeiro simulation the resulting policy had the lowest mean
+  allocation cost against nine published policies in most configurations.
+  Its main limits: an unrefereed preprint; a local, per-station
+  approximation the authors say may fail when demand is large relative to
+  supply; assumed allocation costs, which the authors call examples, not
+  guidelines; one city; and no comparison with the approximate dynamic
+  programming policies. Filed as a weak stand-in for Nasrollahzadeh,
+  Khademi and Mayorga (2018), LIT-tmpsdrz9, which it describes in two
+  sentences only.
+title: 'Policies for the Operation of an Ambulance Fleet under Uncertainty based on a New Preparedness Metric'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered and read on 2026-11-04, at the owner's request, as a
+    stand-in for Nasrollahzadeh, Khademi and Mayorga (2018), LIT-tmpsdrz9,
+    a work cited in the pasted bibliography on emergency readiness
+    (written by another assistant, A, and pasted by the owner on
+    2026-11-04) of which no lawful full text was found. This work is not
+    in A's list. Bibliography checked against the arXiv API: Vincent
+    Guigues (FGV), Anton J. Kleywegt (Georgia Tech) and Victor Hugo
+    Nascimento (FGV), arXiv:2605.05421 [math.OC], v1 of 6 May 2026
+    (`published:`), no journal reference. Not held before. Copy:
+    https://arxiv.org/pdf/2605.05421v1, 34 pages, extracted with
+    pdftotext; read in part (see NOTE-tmp5y2s6).
+tags:
+- operations-research
+- probabilistic-modeling
+date: '2026-11-04'
+published: '2026-05-06'
+arxiv: '2605.05421'
+first_author: 'Guigues'
+keywords:
+- 'ambulance selection'
+- 'ambulance reassignment'
+- 'preparedness metric'
+- 'emergency medical services'
+- 'continuous-time Markov chain'
+- 'dispatch policy'
+implementations: []
+summary: >-
+  Guigues, Kleywegt & Nascimento (2026). An EMS repeatedly chooses which
+  ambulance to send to a new call, or to queue it, and where a newly free
+  ambulance goes, to a queued call or a station; each choice affects
+  readiness for calls not yet known. The paper defines a station-level
+  preparedness metric, the steady-state cost rate of a continuous-time
+  Markov chain over the station's busy ambulances by ambulance and
+  emergency type, computed offline for every supply vector, and makes each
+  decision by a small integer program trading immediate response cost,
+  queueing penalty and a weighted change in preparedness. In a Rio de
+  Janeiro simulation this policy had lower mean allocation cost than nine
+  published policies in most cases and was among the best on mean
+  response time.
+---
+<!-- inactive-ok-file: NOTE-tmp5y2s6 THEORY-tmpnqoln LIT-tmpsdrz9 — Skimmed, Proposed or Unavailable; the reading of this preprint, the account filed from it, and the unread paper it stands in for -->
+
+# LIT-tmphy35q: Policies for the Operation of an Ambulance Fleet under Uncertainty based on a New Preparedness Metric
+
+Guigues, V., Kleywegt, A. J. & Nascimento, V. H. (2026). Policies for the Operation of an Ambulance Fleet under Uncertainty based on a New Preparedness Metric. arXiv:2605.05421 [math.OC].
+
+## Key takeaways
+
+*From the reading, NOTE-tmp5y2s6. Page numbers are the preprint's.*
+
+- **Readiness is the cost of a dispatch.** An ambulance "may be
+  dispatched to a current, less urgent, emergency", and then "it may not
+  be available for a future, more urgent, emergency" (p. 4).
+- **Queueing is a choice.** Queueing a call "may be desirable if the
+  emergency is not urgent" (p. 3), not only forced when no unit is free.
+- **A nonlinear metric.** It "allows performance to be nonlinear in
+  supply relative to demand, as is typical in queueing systems" (p. 12).
+- **The comparison.** "In most cases, this policy performed better than
+  the 9 policies in terms of mean allocation costs" (p. 29), on simulated
+  Rio de Janeiro data with assumed costs.
+
+## Standing in the record
+
+Filed at the owner's request as a stand-in for Nasrollahzadeh, Khademi
+and Mayorga (2018), LIT-tmpsdrz9, which could not be read. It stands in
+weakly: it shares that paper's problem class and trade-off, and confirms
+only that the paper used basis functions to approximate the value
+function of an MDP and compared the policy with benchmarks and lower
+bounds (p. 7). It states none of that paper's results and does not test
+against its policy. For the pasted bibliography's theme, the value of
+availability, it is the more direct of the two: its metric prices
+keeping units free for calls that may never come. Filed from it:
+THEORY-tmpnqoln.

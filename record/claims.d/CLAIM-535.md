@@ -80,3 +80,11 @@ action, under the policy the organization adopts.
 - **That choosing what to observe under cost is covered.** That is active
   sensing and dual control (Feldbaum), not registered because its citation
   could not be checked.
+
+## Note of 2026-11-04: Guigues, Kleywegt and Nascimento, "Policies for the Operation of an Ambulance Fleet", read
+
+Ambulance selection in their policies (LIT-tmphy35q) acts on the emergency type as the dispatcher classifies it: one dispatch policy whose observation is coarser than the circumstances, which qualifies the claim by analogy. It does not test the claim. No status changes.
+
+## Note of 2026-11-04: U.S. Fire Administration, "Dispatched and Canceled en Route", read
+
+The page's Scenario 2 (LIT-tmpnhw2v) dispatches "Based on information provided by dispatch" and cancels two units once the first-arriving engine finds a false alarm: a coarse observation refined, which supports the claim by analogy. The page does not say whether the initial dispatch was acceptable in every circumstance consistent with the call. No status changes.

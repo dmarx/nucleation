@@ -74,3 +74,7 @@ does not fix responses to intervention.
   supply.
 - That fidelity is lineage. A successor meeting the bound is a faithful
   student; whether it continues the predecessor is [CLAIM-329](CLAIM-329.md)'s question.
+
+## Note of 2026-11-04: Guigues, Kleywegt and Nascimento, "Policies for the Operation of an Ambulance Fleet", read
+
+The authors say their local preparedness approximation "may be inaccurate if demand is large relative to supply" (LIT-tmphy35q). The metric is least reliable in high-load contexts, which qualifies, by analogy, any reliance on fidelity under ordinary load. Nothing formal links the two. No status changes.
