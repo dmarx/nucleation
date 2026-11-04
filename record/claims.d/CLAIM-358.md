@@ -85,6 +85,7 @@ summary: >-
 bears_on:
 - QUESTION-054
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-361 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-1283 — Open or Proposed; the outward route filed as a question, and Massumi's micropolitics set beside this claim -->
 <!-- inactive-ok-file: CLAIM-162 ARG-016 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->

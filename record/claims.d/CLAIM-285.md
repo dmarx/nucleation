@@ -80,6 +80,7 @@ complements:
 bears_on:
 - QUESTION-090
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-285: A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation

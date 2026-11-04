@@ -60,6 +60,7 @@ summary: >-
 used_by:
 - CLAIM-404
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-859 — Proposed; Short, Hill and Brown's general form, cited as an instance of the sense not adopted -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as the source A20 cited, which no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-404 — Proposed; open claims that use the word or this definition, cited as open -->

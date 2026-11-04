@@ -61,6 +61,7 @@ summary: >-
   H1/H2 contrast is [CLAIM-536](CLAIM-536.md). Proposed: the contrast is argued, and
   no study separates the two kinds of model on a language model.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: NOTE-1524 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-029 CLAIM-367 THEORY-490 THEORY-614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 

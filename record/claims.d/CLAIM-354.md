@@ -67,6 +67,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-465 CLAIM-tmpgjdby TERM-006 TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-534 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-545 LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->

@@ -76,6 +76,7 @@ corroborated_by:
 - THEORY-135
 - THEORY-141
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 <!-- inactive-ok-file: CLAIM-276 CLAIM-281 THEORY-135 THEORY-141 — Proposed; claims this one complements and cites, and readings that corroborate it, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1206 LIT-1216 — Deferred; skimmed on 2026-10-29 and cited in the note of that date for the parts read, nothing here rests on them -->

@@ -59,6 +59,7 @@ grounds:
 supports:
 - CLAIM-357
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CLAIM-365: On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret
 

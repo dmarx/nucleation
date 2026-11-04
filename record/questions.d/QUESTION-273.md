@@ -47,6 +47,7 @@ summary: >-
 bearing:
 - THEORY-958
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 CLAIM-336 — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-949 — Proposed; the switching ablation as Zhong et al. report it, its sample unreported, cited as bearing on the question, not as settling it -->
 

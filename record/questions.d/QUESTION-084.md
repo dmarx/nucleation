@@ -29,6 +29,7 @@ summary: >-
 bearing:
 - THEORY-218
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # QUESTION-084: Can a grant between processes be inferred from their behaviour, or does telling authorization from incidental coupling and common cause need a record of the coordination itself?
 

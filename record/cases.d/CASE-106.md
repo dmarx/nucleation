@@ -34,6 +34,7 @@ summary: >-
 supports:
 - CLAIM-340
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CASE-106: The two-hypothesis linearization with authority conferred by scores on committed predictions: when the shared meaning bends the specialists' predictions with weight κ and the reading of the evidence with weight κ′, the coupling of interpretation to conferral is γ = 4ηs(κ′ − κ̄)
 

@@ -48,6 +48,7 @@ used_by:
 - CLAIM-441
 - CLAIM-442
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1462 — Unavailable or Proposed; Monderer and Shapley, read second-hand, and its reading -->
 <!-- inactive-ok-file: LIT-1437 — Unavailable, abstract only; Fontaine et al. 2007, cited for the dimension it names -->
 <!-- inactive-ok-file: LIT-1441 — Unavailable, unread; Carver and Scheier 1990, read through Carver 2018 (LIT-1449) -->

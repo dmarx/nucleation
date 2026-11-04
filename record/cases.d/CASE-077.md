@@ -29,6 +29,7 @@ summary: >-
   Used to show that a ban on self-grants does not make authority
   independent of one's own grants.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CASE-077: The reciprocal pair: two processes that grant influence only to each other under recursive delegation, so that each one's authority returns to it through the other
 

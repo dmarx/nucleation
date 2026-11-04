@@ -46,6 +46,7 @@ summary: >-
 illustrated_by:
 - CASE-098
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1840 LIT-1828 — Unavailable since 2026-10-29; the two Flack 2006 papers, cited in the note of that date as not reached, nothing here rests on them -->
 # CLAIM-327: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 

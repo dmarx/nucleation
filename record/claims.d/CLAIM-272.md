@@ -63,6 +63,7 @@ summary: >-
   qualifies [CLAIM-285](CLAIM-285.md): the budget constrains moves, and conferral
   moves authority. It does not say the inequality is illegitimate.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-272: Giving every member an equal budget of actions does not equalize their influence: coordination is one route, letting a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority

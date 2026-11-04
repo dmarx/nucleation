@@ -63,6 +63,7 @@ summary: >-
 complements:
 - CLAIM-445
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->

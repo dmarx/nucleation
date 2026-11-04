@@ -92,6 +92,7 @@ complements:
 supports:
 - CLAIM-338
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 

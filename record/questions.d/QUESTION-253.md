@@ -61,6 +61,7 @@ summary: >-
 answered_by:
 - CLAIM-400
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-838 — Proposed; readings of 2026-10-21 named as static candidates, not answers -->
 <!-- inactive-ok-file: CLAIM-338 — Proposed; the claims and the candidate term the question works from, cited as open -->
 

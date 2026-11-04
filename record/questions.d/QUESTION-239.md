@@ -30,6 +30,7 @@ summary: >-
 answered_by:
 - CLAIM-340
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # QUESTION-239: In the linearized operator model, is scoring operators against predictions committed before the evidence equivalent to Regime B's independent scoring?
 

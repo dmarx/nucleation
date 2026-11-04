@@ -29,6 +29,7 @@ summary: >-
 answered_by:
 - CLAIM-330
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # QUESTION-241: In the coupled meaning–influence model linearized at its symmetric state, when is the symmetric state unstable, and does scoring conferral independently of the interpretation remove the instability?
 

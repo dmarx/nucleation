@@ -41,6 +41,7 @@ variants:
 - CASE-099
 - CASE-153
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-281 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

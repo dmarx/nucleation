@@ -80,6 +80,7 @@ supports:
 bears_on:
 - QUESTION-083
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-142 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-279: Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator

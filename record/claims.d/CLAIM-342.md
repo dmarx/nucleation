@@ -80,6 +80,7 @@ supports:
 - CLAIM-404
 - CLAIM-413
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-404 TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 

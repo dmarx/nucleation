@@ -62,6 +62,7 @@ illustrated_by:
 objected_by:
 - CLAIM-502
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-282: Forbidding self-granting does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic grants recycle authority, so an operator's authority depends on its own grants, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing grants, makes it exactly independent of them

@@ -51,6 +51,7 @@ reported_in:
 - LIT-1032
 - LIT-1037
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-224 — Proposed; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

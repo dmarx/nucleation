@@ -59,6 +59,7 @@ supports:
 - CLAIM-446
 - CLAIM-442
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-055 THEORY-056 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-484 — Proposed; this claim's former second half, split off 2026-10-27 -->
 

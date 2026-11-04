@@ -51,6 +51,7 @@ supports:
 illustrated_by:
 - CASE-123
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 
 # CLAIM-330: In the coupled meaning–influence model linearized at its symmetric state, with each field stable alone and nonnegative couplings, the coupling destabilizes symmetry exactly when βγ > (1 − α)(1 − δ): only the loop can do it, and the direction that grows mixes meaning and authority

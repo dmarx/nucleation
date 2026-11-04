@@ -32,6 +32,7 @@ bearing:
 - THEORY-062
 - THEORY-056
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-054: Is there a governing level among an agent's regimes, a system that specifies control apart from the systems that carry it out, or is governance the interaction of the regimes themselves?

@@ -58,6 +58,7 @@ summary: >-
   authority, that it closes the social route of moving others'
   grants, or that [CLAIM-375](CLAIM-375.md)'s guarantee carries over.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction bears on, cited as open -->
 
 # CLAIM-502: Multi-hop delegation can keep an operator's authority exactly independent of its own grants: under leave-one-out damped delegation, which counts the authority reaching each operator only along paths that have not already passed through it, an operator's grants raise the authority of every operator its grantee reaches and leave its own unchanged

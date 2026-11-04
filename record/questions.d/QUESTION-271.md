@@ -40,6 +40,7 @@ summary: >-
   The question asks what evaluation procedures resist capture, and in
   which of four senses.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # QUESTION-271: How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?
 

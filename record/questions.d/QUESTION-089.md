@@ -35,6 +35,7 @@ summary: >-
 bearing:
 - CLAIM-281
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-142 THEORY-151 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-089: When does a process that destabilizes a whole's prevailing pattern improve the organization rather than only disrupt it, and does that depend on others able to build on what it opens and on authority that can move to them?

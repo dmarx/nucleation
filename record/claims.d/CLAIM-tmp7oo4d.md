@@ -53,6 +53,7 @@ summary: >-
   reader's. The wording is A's, sharpened by the reader; adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-361 CLAIM-534 TERM-tmpszrpp — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-tmp7oo4d: The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration

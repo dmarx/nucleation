@@ -54,6 +54,7 @@ supports:
 variants:
 - CASE-156
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CASE-124: A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ
 

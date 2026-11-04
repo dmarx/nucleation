@@ -38,6 +38,7 @@ variants:
 - CASE-124
 - CASE-155
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 
 # CASE-099: The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping conferral (γ)

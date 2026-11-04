@@ -43,6 +43,7 @@ summary: >-
   authority, and their notes say they do not show that a motive claimed
   precedence.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # CLAIM-484: Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it
 

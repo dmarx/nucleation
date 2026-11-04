@@ -95,6 +95,7 @@ illustrated_by:
 bears_on:
 - QUESTION-100
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1825 — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
 

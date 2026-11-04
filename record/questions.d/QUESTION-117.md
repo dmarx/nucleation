@@ -65,6 +65,7 @@ summary: >-
   or a reduction of it, inside one of these models, or names the outcome
   they forbid and it allows.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1318 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
 <!-- inactive-ok-file: THEORY-143 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

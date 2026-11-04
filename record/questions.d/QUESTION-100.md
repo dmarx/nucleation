@@ -48,6 +48,7 @@ refined_by:
 bearing:
 - CLAIM-297
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-100: Beyond the linearization at symmetry, when does coupling interpretation-dependent retrieval to performance-dependent grants produce stable expertise, and when does it produce self-reinforcing interpretive capture?
