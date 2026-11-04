@@ -4,7 +4,14 @@ status: Answered
 formerly:
 - QUESTION-tmpl8ywi
 title: 'Can processes that share one update rule and differ only in parameters and history come to hold stable, differentiated authority without any governance role being coded in, and can the same rule entrench whatever gained influence early?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - social-ontology
@@ -28,14 +35,14 @@ summary: >-
 [QUESTION-083](QUESTION-083.md) asks for stable, differentiated and mutually regulated
 authority with specialized niches. This question asks the first part: is a
 governance role needed for durable differentiated authority at all, and
-does the endorsement rule that produces it also produce entrenchment?
+does the conferral rule that produces it also produce entrenchment?
 
 ## The answer
 
 [CLAIM-277](../claims.d/CLAIM-277.md), Active, on [CASE-182](../cases.d/CASE-182.md):
 
-- **Durable authority without a role coded in.** Under one endorsement
-  rule, scored every round, the more accurate of two operators ends more
-  endorsed in 200 of 200 seeds, whatever the start.
+- **Durable authority without a role coded in.** Under one conferral
+  rule, scored every round, the more accurate of two operators ends with more
+  influence conferred on it in 200 of 200 seeds, whatever the start.
 - **Entrenchment by the same rule.** Scored only when acting, with sharp
   selection, the early leader is never displaced in 200 of 200 seeds.

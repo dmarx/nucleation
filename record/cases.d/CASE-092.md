@@ -5,8 +5,8 @@ formerly:
 - CASE-tmpyoenf
 title: 'A minimal coupled meaning–influence model: two hypotheses, two retrieval
   specialists, a fixed balanced corpus, queries set by the dominant interpretation
-  and endorsement updated from apparent retrieval success'
-version: 3
+  and conferral updated from apparent retrieval success'
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
@@ -20,6 +20,12 @@ history:
     THEORY-1161); reflected appraisal concentrates power under
     the Friedkin–Johnsen step and not under DeGroot's. The design is
     unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -39,19 +45,19 @@ variants:
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-281 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
-# CASE-092: A minimal coupled meaning–influence model: two hypotheses, two retrieval specialists, a fixed balanced corpus, queries set by the dominant interpretation and endorsement updated from apparent retrieval success
+# CASE-092: A minimal coupled meaning–influence model: two hypotheses, two retrieval specialists, a fixed balanced corpus, queries set by the dominant interpretation and conferral updated from apparent retrieval success
 
 ## The case
 
 Two hypotheses with comparable evidence in a fixed corpus; two operators,
 one better at finding evidence bearing on each; queries conditioned on the
-currently dominant hypothesis; endorsement updated from apparent retrieval
+currently dominant hypothesis; conferral updated from apparent retrieval
 success, with an adjustable memory timescale.
 
 Regime A scores operators against the current dominant interpretation.
 Regime B scores them by independently assessed relevance and role
 ([CLAIM-281](../claims.d/CLAIM-281.md)). Controls (A23 XI.B): initial framing asymmetry, coupling
-strength, exploration rate, endorsement timescale, independence of
+strength, exploration rate, conferral timescale, independence of
 evaluation, role specificity.
 
 Measures (A22 §7): meaning concentration, influence concentration,
@@ -90,7 +96,7 @@ eigenmodes of the joint dynamics against ablations of each arrow;
 effective information of macrovariables spanning both fields, against
 either field alone and a matched full-state model ([THEORY-222](../theory.d/THEORY-222.md)); predictive
 closure ([THEORY-257](../theory.d/THEORY-257.md)); persistence under periodic replacement of operators;
-role-indexed against scalar endorsement ([CLAIM-281](../claims.d/CLAIM-281.md)); and ablation against
+role-indexed against scalar grants ([CLAIM-281](../claims.d/CLAIM-281.md)); and ablation against
 simpler models ([CLAIM-278](../claims.d/CLAIM-278.md)). A15 named the simpler models: reflected
 appraisal (DeGroot–Friedkin), adaptive networks and persuasion bias, as
 the baseline before any claim of novelty ([QUESTION-117](../questions.d/QUESTION-117.md)). They are

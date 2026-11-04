@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpoxld9
 title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -37,6 +37,12 @@ history:
     A bullet now says that it uses Fricker's account as THEORY-327 states
     it, not its truth, which is QUESTION-322's. Status Proposed to
     Active. The claim is unchanged.
+- version: 6
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -92,9 +98,9 @@ those accounts ... not to rediscover epistemic injustice under new
 terminology."
 
 **The loop is held.** [CLAIM-277](CLAIM-277.md): one chain is good policy, then
-endorsement, then greater influence, then more chances to show competence;
+conferral, then greater influence, then more chances to show competence;
 the other is early advantage, then greater influence, then more
-visibility, then greater endorsement. "This is how a system might develop
+visibility, then greater conferral. "This is how a system might develop
 both well-calibrated expertise and undeserved authority." Its note of
 2026-10-18 runs it from the side that loses: "Low exposure → Poor
 competence estimates → Low endorsement → Even lower exposure". [CLAIM-330](CLAIM-330.md)

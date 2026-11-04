@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmplstea
 title: 'Under what conditions does a population of heterogeneous processes develop a self-maintaining, internally differentiated governance structure that acts coherently without suppressing the plurality of processes it emerges from?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - behavioral-integration
@@ -51,8 +58,8 @@ or agreement. This question adds what the exchange made central:
 - **Without suppressing plurality.** [QUESTION-078](QUESTION-078.md) asks whether acting as one
   requires the interests to synchronize. This question requires that it not.
 
-The exchange proposed partial answers, all Proposed: endorsement without
-self-allocation ([CLAIM-285](../claims.d/CLAIM-285.md)), trust as a regularity of endorsement
+The exchange proposed partial answers, all Proposed: grants without
+self-allocation ([CLAIM-285](../claims.d/CLAIM-285.md)), trust as a regularity of conferral
 ([CLAIM-277](../claims.d/CLAIM-277.md)), and the self-governing self ([CLAIM-284](../claims.d/CLAIM-284.md)). An answer
 would give conditions, on the aggregation rule, memory and coupling, under
 which coherence and plurality coexist, and show where one is lost.

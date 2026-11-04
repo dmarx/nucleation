@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpp9ox0
 title: 'A self-governing organization''s robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts; safeguards against capture can also restrict the disagreement and revision that self-governance needs, and where they do security and self-governance trade off, while others, such as audits independent of the audited that protect dissent, serve both, so the two are distinct achievements and not opposed ones'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -22,6 +22,12 @@ history:
     corroborated_by (ADR-058): the body cites them as a biological
     precedent, and the claim's steps stand on its premises. The claim
     is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -91,12 +97,12 @@ self-transformation on which its continued adaptability depends?"
 
 Three steps make the claim.
 
-1. **The target is the allocation of authority.** With endorsement-based
+1. **The target is the allocation of authority.** With grant-based
    authority w = (1 − η)b + ηEᵀw, an insider who can move relations in E,
    the evidence of competence, or the authorization rules need not
    sabotage the current decision. "It could instead increase its future
-   authority." [CLAIM-282](CLAIM-282.md) shows why forbidding self-endorsement does not
-   stop this: reciprocal and cyclic endorsements recycle authority, and an
+   authority." [CLAIM-282](CLAIM-282.md) shows why forbidding self-grants does not
+   stop this: reciprocal and cyclic grants recycle authority, and an
    operator "can change its authority by changing what others endorse".
    A41 separates "**Adversarial authority capture**" from "**Endogenous
    authority capture**", the second being [CLAIM-277](CLAIM-277.md)'s loop that "entrenches
@@ -107,7 +113,7 @@ Three steps make the claim.
    bounded jurisdiction, separation of duties, revocable authorization as
    suspension, independent audit ("Prevent the actor being evaluated from
    controlling all the evidence of its competence"), distributed approval,
-   incident recovery. Role-indexed endorsement ([CLAIM-281](CLAIM-281.md)) is how a
+   incident recovery. Role-indexed granting ([CLAIM-281](CLAIM-281.md)) is how a
    process can be trusted as a critic without control over policy. And
    because an operative regime, the governing organization among regimes
    and the capacity to transform it fail separately ([CLAIM-025](CLAIM-025.md)), recovery

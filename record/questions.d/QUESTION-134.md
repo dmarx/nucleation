@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpn0znj
 title: 'When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-26'
@@ -14,6 +14,12 @@ history:
     where backpropagation couples a component's training signal to its
     downstream influence by construction (checked). The question is
     unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -23,7 +29,7 @@ line: distributed-agency
 summary: >-
   From the synthesis the owner relayed on 2026-10-18. [CLAIM-277](../claims.d/CLAIM-277.md)'s note of
   2026-10-18 records niche exclusion by authority deprivation: low
-  exposure, poor competence estimates, low endorsement, lower exposure.
+  exposure, poor competence estimates, low grants, lower exposure.
   This asks whether the loop goes further and destroys the competence, not
   just the measurement of it. When training opportunities follow
   influence, a specialist denied opportunities may become genuinely unable

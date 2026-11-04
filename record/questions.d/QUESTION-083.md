@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp2y4xi
 title: 'Beyond stable, differentiated authority, which one update rule can produce, can processes that share it come to hold mutually regulated authority with specialized niches, without any governance role being coded in, when some competences show only in rare contexts?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -27,6 +27,12 @@ history:
     positive definite potential case; Ito and Kaneko read
     (NOTE-1414), influence without mutual regulation; Chesson
     1990 Unfetched and 1994 Unavailable. The question is unchanged.
+- version: 5
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -35,7 +41,7 @@ line: distributed-agency
 summary: >-
   A10's first decisive question, and the experiment A7 called the ideal
   first result. Two Proposed claims answer it in advance: trust emerges as
-  a regularity of endorsement ([CLAIM-277](../claims.d/CLAIM-277.md)), and roles are regimes, not
+  a regularity of grants ([CLAIM-277](../claims.d/CLAIM-277.md)), and roles are regimes, not
   kinds ([CLAIM-279](../claims.d/CLAIM-279.md)). Nothing has been run. An answer is a population
   model with no role primitives, and whether durable differentiated
   authority forms.

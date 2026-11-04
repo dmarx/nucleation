@@ -4,7 +4,7 @@ status: Superseded
 formerly:
 - CLAIM-tmpgdvrd
 title: 'An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-25'
@@ -33,6 +33,12 @@ history:
   note: >-
     Moved to ARG-036 under ADR-061, as an argument about
     support; the claim's text below is unchanged.
+- version: 6
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -74,8 +80,9 @@ theories do not generate as naturally."
 Over the exchange the framework kept getting more general. Denoisers became
 operators with a repertoire (A3). The repertoire became "a general
 state-dependent transformation" (A5 §2). The ontology became three
-processes, transition, event generation and governance (A6 §9). Endorsement
-became any causal effect on another's influence (A5 §7). Each move was made
+processes, transition, event generation and governance (A6 §9). Endorsement,
+now called conferral, became any causal effect on another's influence
+(A5 §7). Each move was made
 to avoid hard-coding outcomes, and each one widened what the model can fit.
 No reply named an outcome the model rules out.
 

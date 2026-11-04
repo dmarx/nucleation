@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpzeoja
 title: 'Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -29,6 +29,12 @@ history:
     evidence are fixed by construction, and CLAIM-407 builds the
     supervisory test with numbers; CLAIM-407 now corroborates it
     (ADR-058). The claim is unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -95,7 +101,8 @@ citing it.
   volition is an attitude concerning what should be effective. Metacontrol
   is the causal machinery capable of altering what becomes effective.**
   They may be coupled; they are not identical." A8 uses "endorsement" in
-  the reflective, Frankfurtian sense. The record's endorsement ([TERM-053](../terms.d/TERM-053.md))
+  the reflective, Frankfurtian sense. What the record called
+  endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral (TERM-tmplu4ih),
   is an effect of one process on another's share of influence, and is not
   Frankfurt's, so a filing from A8 says higher-order volition. A8's
   candidate claim is this one with [CLAIM-025](CLAIM-025.md), and was not filed. Its

@@ -3,8 +3,15 @@ number: 124
 status: Open
 formerly:
 - QUESTION-tmp82n3z
-title: 'When do endorsement dynamics turn a transient conflict among an organization''s demands into a persistent regime of frustration, and can the condition be stated in an architecture-sensitive update geometry such as modular duality''s?'
-version: 1
+title: 'When do conferral dynamics turn a transient conflict among an organization''s demands into a persistent regime of frustration, and can the condition be stated in an architecture-sensitive update geometry such as modular duality''s?'
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - loss-landscapes
@@ -20,12 +27,12 @@ summary: >-
   static parts, the residual and its certificate ([CLAIM-365](../claims.d/CLAIM-365.md)) and the
   structural/governance split ([CLAIM-357](../claims.d/CLAIM-357.md)), and a linear capture
   threshold ([CLAIM-330](../claims.d/CLAIM-330.md)). It has no dynamics joining them. An answer gives
-  a condition on the coupling of endorsement to demands under which
+  a condition on the coupling of conferral to demands under which
   governance-induced frustration persists after the conflict that started
   it is gone, and says whether the update geometry enters it.
 ---
 
-# QUESTION-124: When do endorsement dynamics turn a transient conflict among an organization's demands into a persistent regime of frustration, and can the condition be stated in an architecture-sensitive update geometry such as modular duality's?
+# QUESTION-124: When do conferral dynamics turn a transient conflict among an organization's demands into a persistent regime of frustration, and can the condition be stated in an architecture-sensitive update geometry such as modular duality's?
 
 ## Why it is a question
 
@@ -50,7 +57,7 @@ A33's next result has two halves:
    be assigned to a layer or module, "whether a particular layer or
    subnetwork becomes a bottleneck through which several competing
    learning demands must pass".
-2. **Persistence through endorsement.** A33 §8: "a system may become
+2. **Persistence through conferral.** A33 §8: "a system may become
    trapped in a self-reinforcing frustration regime even though better
    alternatives remain available." In [CLAIM-357](../claims.d/CLAIM-357.md)'s terms, Γ stays
    positive while Φ ≤ 0, and stays so because the allocation of influence
@@ -69,11 +76,11 @@ adding demands and a feasible-update oracle to [CASE-099](../cases.d/CASE-099.md
 ## What would count as an answer
 
 A model with demands g_i, an update geometry, and influence weights w_t
-updated by an endorsement rule, and a condition, in its parameters, under
+updated by a conferral rule, and a condition, in its parameters, under
 which a conflict present at t₀ and absent later (Φ ≤ 0 from some t₁)
 leaves Γ bounded away from zero. Better still if the condition shows a
 dependence on the norm: that a modular geometry and a Euclidean one give
-different persistence for the same demands and the same endorsement rule.
+different persistence for the same demands and the same conferral rule.
 A negative answer would also count: that persistence is fixed by the
-endorsement rule alone and the update geometry never enters, which would
+conferral rule alone and the update geometry never enters, which would
 make modular duality irrelevant to this half.

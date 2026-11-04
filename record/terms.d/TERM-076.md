@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp8gbrt
 title: 'goal-conduciveness valence, organizational: a regime in which the negotiation among a system''s perspectives has, approximately, a potential, an ordering of the system''s own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation''s decisions follow it rather than any rival ordering'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -16,6 +16,12 @@ history:
     the definition' and 'Valence on this term presupposes it'. They
     now name contest. The condition is unchanged (eighth status
     review).
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - emotion-and-affect
 - motivation
@@ -52,7 +58,7 @@ used_by:
 
 In [CLAIM-347](../claims.d/CLAIM-347.md)'s notation, let an organization 𝒪 face, at time t, the
 attainable options X_t. Each of its perspectives i ranks X_t by a
-preorder ≿ᵢ and holds an authority that the organization's endorsement
+preorder ≿ᵢ and holds an authority that the organization's conferral
 dynamics set ([CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-283](../claims.d/CLAIM-283.md)). The organization's **appraisal** is
 the negotiation N_t that takes the profile of rankings and authorities
 to a collective relation R_t on X_t.

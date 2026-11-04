@@ -3,8 +3,15 @@ number: 241
 status: Answered
 formerly:
 - QUESTION-tmphi1l2
-title: 'In the coupled meaning–influence model linearized at its symmetric state, when is the symmetric state unstable, and does scoring endorsement independently of the interpretation remove the instability?'
-version: 1
+title: 'In the coupled meaning–influence model linearized at its symmetric state, when is the symmetric state unstable, and does scoring conferral independently of the interpretation remove the instability?'
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -23,7 +30,7 @@ answered_by:
 - CLAIM-330
 ---
 
-# QUESTION-241: In the coupled meaning–influence model linearized at its symmetric state, when is the symmetric state unstable, and does scoring endorsement independently of the interpretation remove the instability?
+# QUESTION-241: In the coupled meaning–influence model linearized at its symmetric state, when is the symmetric state unstable, and does scoring conferral independently of the interpretation remove the instability?
 
 ## Answer
 
@@ -34,10 +41,10 @@ J = [[α, β], [γ, δ]] with nonnegative entries and α, δ < 1:
   βγ > (1 − α)(1 − δ).
 - **Only the loop.** If either coupling is zero the eigenvalues are α and
   δ, so capture that starts at symmetry needs both arrows: authority
-  shaping interpretation, and interpretation shaping endorsement.
+  shaping interpretation, and interpretation shaping conferral.
 - **Independent scoring.** Scoring operators independently of the
   dominant interpretation (Regime B, γ ≈ 0) removes the coupling-driven
-  instability, whatever the memory of endorsement.
+  instability, whatever the memory of conferral.
 - **What grows.** The leading eigenvector, (β, λ+ − α), is positive in
   both components: a joint lean of meaning and authority.
 
@@ -50,4 +57,4 @@ The answer holds for the linearization at symmetry. [CLAIM-330](../claims.d/CLAI
 say that [CASE-092](../cases.d/CASE-092.md)'s full model has this linearization, since the sign and
 size of γ in Regime A are assumptions about an unbuilt model. It says
 nothing about the bounded nonlinear system's attractors or hysteresis,
-about whether capture costs fidelity, or about role-indexed endorsement.
+about whether capture costs fidelity, or about role-indexed grants.

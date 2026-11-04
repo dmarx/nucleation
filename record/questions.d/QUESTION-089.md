@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmplh9fr
 title: 'When does a process that destabilizes a whole''s prevailing pattern improve the organization rather than only disrupt it, and does that depend on others able to build on what it opens and on authority that can move to them?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-23'
@@ -12,6 +12,12 @@ history:
     Note of 2026-10-23 added: two hidden-profile studies and a
     meta-analysis, registered, the two studies Unavailable and read from
     abstracts. The question stays Open; no THEORY is filed.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - social-ontology
@@ -22,8 +28,8 @@ refines:
 summary: >-
   A4's research direction B, "When does dissent improve the organization
   rather than merely destabilize it?", with its proposed answer. A3's
-  case: a dissenter that cannot overturn a consensus endorses a process
-  that can generate alternatives. It refines [QUESTION-041](QUESTION-041.md), which asks what
+  case: a dissenter that cannot overturn a consensus grants influence to
+  a process that can generate alternatives. It refines [QUESTION-041](QUESTION-041.md), which asks what
   channels keep a whole's course correctable. This asks when using such a
   channel helps.
 bearing:
@@ -41,8 +47,8 @@ contribution depends on whether the system can subsequently exploit the
 newly accessible alternatives. A potential prediction is that re-noising is
 most valuable when paired with translation and synthesis capacity, and when
 authority can be dynamically reallocated to those operators." A3 §6 gave the
-case. A skeptic that cannot overturn an emerging consensus endorses a
-process that can generate alternative hypotheses, and "The population can
+case. A skeptic that cannot overturn an emerging consensus grants
+influence to a process that can generate alternative hypotheses, and "The population can
 become more epistemically robust precisely because a dissenting operator
 successfully delegates authority to a different operator." A7's H3 and its
 second result: "constructive dissent improves adaptation".
