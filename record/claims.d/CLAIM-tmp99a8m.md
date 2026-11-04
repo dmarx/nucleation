@@ -99,7 +99,7 @@ a will that is mood-dependent.
 | outlasts the event | no, once demand falls | yes, until activation returns to baseline |
 | what restores it | reprioritizing, or more capacity | lowering activation; DBT's distress-tolerance and emotion-regulation skills |
 
-CASE-tmp5hhsy builds the two as organizations equally impaired during an
+[CASE-tmp5hhsy](../cases.d/CASE-tmp5hhsy.md) builds the two as organizations equally impaired during an
 episode and separates them by time course and by intervention.
 
 They can both hold in one individual, and an episode can involve both.

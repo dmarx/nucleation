@@ -75,7 +75,7 @@ Three things follow.
   conditions.
 
 **The criterion sets the sign of conferral.** i confers influence on j
-(TERM-tmplu4ih) to the extent that an intervention of i raises j's chance
+([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) to the extent that an intervention of i raises j's chance
 of influence, and opposition is negative conferral. The claim is that
 Q_{i→j} is the switching surface of that effect: inside A_{i→j}, i's
 interventions raise j's share; outside, they lower it. This is the
@@ -86,8 +86,8 @@ reader's reading of the owner's "endorsement criteria".
 | role | what holds |
 |---|---|
 | permissibility | i does not object within the tolerance |
-| grant (A12: "conditional endorsement") | i grants j support when the conditions are met (TERM-tmp08c21) |
-| conferral (A12: "effective endorsement") | i's activity raises j's future influence (TERM-tmplu4ih) |
+| grant (A12: "conditional endorsement") | i grants j support when the conditions are met ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)) |
+| conferral (A12: "effective endorsement") | i's activity raises j's future influence ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) |
 
 Where the criterion is mandatory, a grant by i implies Q_{i→j} = 1,
 "but the converse need not hold" (A12 §2). Under a rule G_{i→j} = Q_{i→j},
@@ -116,7 +116,7 @@ perspective can contest it.
   [QUESTION-270](../questions.d/QUESTION-270.md)'s denied uptake and [CLAIM-283](CLAIM-283.md)'s split between precedence
   claimed and authority granted.
 - **That the criterion is an attitude.** It may be subpersonal and not
-  represented, as conferral allows (TERM-tmplu4ih). The reflective sense is
+  represented, as conferral allows ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)). The reflective sense is
   [TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md).
 - **That widening a tolerance relieves frustration.** By [CLAIM-347](CLAIM-347.md) it
   changes the demand. Relief needs a new arrangement that meets the old

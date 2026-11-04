@@ -3,7 +3,7 @@ status: Deferred
 status_note: >-
   registered unread 2026-11-04 at the owner's request; a candidate source
   for nucleation across a finite barrier as a mechanism of capability
-  formation in training (QUESTION-281's route).
+  formation in training ([QUESTION-281](../questions.d/QUESTION-281.md)'s route).
 title: 'The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models'
 version: 1
 history:
@@ -37,7 +37,6 @@ summary: >-
   plasticity loss past a critical step that validation loss does not show,
   and a cure by re-initializing query-key slices. Unread.
 ---
-<!-- inactive-ok-file: QUESTION-281 QUESTION-275 — Open; the questions this unread work is a candidate source for -->
 
 # LIT-tmpywx5m: The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models
 
@@ -59,7 +58,7 @@ Unread. By the abstract:
 ## Standing in the record
 
 A candidate source for nucleation across a finite barrier, the route
-QUESTION-281 holds, and for the claim that a joint requirement with no
+[QUESTION-281](../questions.d/QUESTION-281.md) holds, and for the claim that a joint requirement with no
 partial credit has a waiting time set by what is missing. The compatibility
 complex of this record's exchange, where a face is all-or-nothing, is the
 nearest construct here; whether the two connect is not asked yet.

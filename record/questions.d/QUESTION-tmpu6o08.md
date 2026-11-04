@@ -97,9 +97,9 @@ Each link is a different kind of step.
 At the owner's review the owner said the intended sense does not matter
 here, and invited a case for any alternative reading that supports one.
 The second reading of link 4, one property at two scales, does:
-CASE-tmpo70k5 joins psychological and organizational flexibility by
+[CASE-tmpo70k5](../cases.d/CASE-tmpo70k5.md) joins psychological and organizational flexibility by
 propagation through a conferral network, after Guida, Minutola and Presti
-(LIT-1218). Under ACT's definition flexibility already serves the
+([LIT-1218](../literature.d/LIT-1218.md)). Under ACT's definition flexibility already serves the
 system's own valued ends, so the two readings part only on the standard
 for effectiveness: the organization's own values, or one specified
 independently of them, A19's. No status changes.

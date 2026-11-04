@@ -39,10 +39,10 @@ wanting a desire "to be his will" (p. 10).
 
 **The job.** It is a disambiguation. Where an exchange, a reading or a
 claim says "endorse" for this attitude, the record writes "higher-order
-volition" and cites this term. By ADR-070, "endorse" is left to this
-sense; the effect between processes that TERM-053 called endorsement is
-conferral (TERM-tmplu4ih), and conferral through a maintained relation is
-a grant (TERM-tmp08c21).
+volition" and cites this term. By [ADR-070](../decisions.d/ADR-070.md), "endorse" is left to this
+sense; the effect between processes that [TERM-053](TERM-053.md) called endorsement is
+conferral ([TERM-tmplu4ih](TERM-tmplu4ih.md)), and conferral through a maintained relation is
+a grant ([TERM-tmp08c21](TERM-tmp08c21.md)).
 
 **Bearer.** In Frankfurt the bearer is the person. The record also uses
 the term for a process's attitude about which regime should govern
@@ -54,8 +54,8 @@ settled."
 
 ## What it is not
 
-- **Not conferral between processes.** Conferral (TERM-tmplu4ih, formerly
-  TERM-053) is an effect, the
+- **Not conferral between processes.** Conferral ([TERM-tmplu4ih](TERM-tmplu4ih.md), formerly
+  [TERM-053](TERM-053.md)) is an effect, the
   change an intervention of one process makes in another's share of
   future influence. A higher-order volition is an attitude. A14 §2 put
   it as wanting a desire to govern ≠ causing that desire to govern.

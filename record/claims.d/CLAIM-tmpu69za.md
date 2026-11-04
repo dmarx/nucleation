@@ -118,7 +118,7 @@ A16: "This factorization is an assumption about the communication
 mechanism; it is not a general identity." It "lets us distinguish a
 tolerant perspective from a silenced perspective." A15's opening:
 "silence cannot automatically count as endorsement." An intervention that is taken up and lowers the current will's influence
-is negative conferral (TERM-tmplu4ih, formerly TERM-053's endorsement). An intervention with no channel is
+is negative conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), formerly [TERM-053](../terms.d/TERM-053.md)'s endorsement). An intervention with no channel is
 not, and neither is its absence.
 
 **The complex (A16 §5).** 𝒦_τ = {S ⊆ P : some attainable history's will
