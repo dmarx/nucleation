@@ -187,6 +187,7 @@ independence theorem. The claim is unchanged.
 ## Note of 2026-11-01: the separating intervention in the mechanism literature
 
 <!-- inactive-ok-file: CLAIM-530 THEORY-1292 CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
+<!-- inactive-ok-file: CASE-tmp4op8y — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 
 - **The intervention is the mechanists' "lesion".** The claim's second
   construction separates the pair by a perturbation of the maintained
@@ -223,3 +224,7 @@ A call cancelled en route ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) is a
 ## Note of 2026-11-04: a capability concealed by matched routine output
 
 A's [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) (fictional) has two departments with the same incident history and zero extrications, of which only one can meet an imposed time-critical extrication. It is this claim's pattern carried from interpretation to a maintained capability, and it illustrates the claim without bearing its weight. The claim is unchanged.
+
+## Note of 2026-11-04: an intervention the reporting system cannot see
+
+Under the NFIRS guidance (CASE-tmp4op8y), a call the department could not answer for lack of resources is not an incident at all. That is the failure that would expose a difference in readiness. The ordinary records of two departments can therefore match even where a demand that only one of them could meet would separate them. The guidance recommends a separate record of such calls but does not require one. No status changes.

@@ -38,6 +38,7 @@ reported_in:
 - LIT-1374
 - NOTE-1073
 ---
+<!-- inactive-ok-file: CASE-tmp4op8y — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 
 # CASE-135: The Brookhollow Apartments fire, Wichita, 2023: a mayday after a stair roof collapses on two companies opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome
 
@@ -132,3 +133,7 @@ the exchange's, unverified.
 - **The phrase.** "an emergency arising within another emergency" is the
   exchange's paraphrase of "an emergency incident occurring within the
   larger context of an emergency incident" (p. 61).
+
+## Note of 2026-11-04: a second fire-service case
+
+CASE-tmp4op8y documents what U.S. incident reporting can carry. It records units assigned, arrived and cancelled, but not calls left unanswered for lack of resources. The case is unchanged.

@@ -77,6 +77,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-tmpvhj8j — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: LIT-tmpr53a0 — Unfetched; Tatel and Ackerman (2025), cited from the reading of 2026-11-04 as the article the dissertation precedes -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmpsm9h9 CLAIM-tmp4g8e1 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 
 # CLAIM-422: A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained
 
@@ -179,3 +180,7 @@ Oskar and colleagues' scoping review ([LIT-tmp07mjg](../literature.d/LIT-tmp07mj
 ## Note of 2026-11-04: a maintained capacity among complements
 
 A's [CLAIM-tmpvhj8j](CLAIM-tmpvhj8j.md) (Proposed) adds that a maintained capacity is worth what its complements let it deliver: with the material resources absent, proficiency cannot produce success. The claim is unchanged.
+
+## Note of 2026-11-04: decay with disuse as one mechanism
+
+Tatel's meta-analysis (THEORY-tmpsm9h9) gives a measured mechanism for procedure held without maintained capacity. Procedural skill that goes unused falls by about 0.06 to 0.08 standard deviations a month, and practice in the interval slows the fall. The organizational extension is the proposed CLAIM-tmp4g8e1. No status changes.

@@ -1,0 +1,82 @@
+---
+status: Proposed
+title: 'unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth'
+version: 1
+tags:
+- operations-research
+- agency
+date: '2026-11-04'
+line:
+- will-organization
+summary: >-
+  Filed at the owner's request on 2026-11-04, to account for a
+  construction the readings of the pasted bibliography on emergency
+  readiness surfaced and the record lacked. Its source is Larson and
+  Odoni's Urban Operations Research, ch. 5 §5.4.1 (LIT-tmpe9zd7), read as
+  the neighbour standing in for Larson's hypercube paper (LIT-tmpum63p,
+  Unavailable). The book gives it as a dispatch-order device and makes no
+  claim about its value; that its use measures congestion and not its
+  worth is the filer's reading of the construction. The wording is the
+  filer's; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: LIT-tmpum63p — Unavailable; the paper the book stands in for, nothing here rests on it -->
+<!-- inactive-ok-file: NOTE-tmpxzaki — Skimmed; the reading the quotations come from -->
+<!-- inactive-ok-file: THEORY-tmph4325 TERM-tmpuc919 TERM-tmp46hcg — Proposed; the hypercube account and the terms of the same filing, cited as filed -->
+
+# TERM-tmpexd3x: unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth
+
+## Definition
+
+A **unit of last resort** is a response unit that a dispatch policy puts
+last in every preference list, so that it is sent only when every regular
+unit able to respond is busy. Larson and Odoni (LIT-tmpe9zd7, skimmed in
+NOTE-tmpxzaki; THEORY-tmph4325), §5.4.1: "These units would not ordinarily be
+used in the routine assignment of units to service requests; however,
+they would be called upon during heavy workload conditions to avoid the
+formation of (or reduce the probability of) queues." Their examples:
+"sergeants' cars (police), mobile cardiac care units (emergency medical
+services), social service supervisors (for nonscheduled home visits), or
+other backup personnel". The hypercube model computes their workloads and
+where they respond by giving them last preference.
+
+The term's job is to name a capability whose use is a by-product of the
+policy's ordering. How often such a unit is sent is the probability that
+the regular units are all busy, times the demand then arriving. That
+measures the congestion of the rest of the system. It does not measure
+what the unit's response is worth when it is sent, and it falls as the
+regular fleet grows or demand falls, whatever the value of the response
+it gives on those rare occasions.
+
+## Why it matters for readiness
+
+A unit of last resort is the formal case of a capability whose
+contribution shows only in saturation. Measured by
+utilization, it looks idle by design; the less often it is needed, the
+better the rest of the system is doing. So a rule that allocates by
+observed use would cut it first, and at exactly the times it is needed
+the cut would show. That inference is the filer's, not the book's.
+
+## What it is not
+
+- **Operational availability** (TERM-055): the chance a resource is
+  deployed for a task by its deadline. A unit of last resort is a unit
+  whose availability is high and whose use is low; the term names that
+  role in a policy, not a probability.
+- **A specialized unit.** Larson and Odoni treat matching a unit's
+  capability to a neighbourhood's needs (bilingual or cardiac units)
+  separately. A unit of last resort is defined by its place in the
+  dispatch order, not by what it can do; a heavy rescue squad held for
+  extrications is specialized, and is a unit of last resort only if it is
+  also sent as general backup when the others are busy.
+- **Slack** (TERM-tmp46hcg, filed the same day): resources beyond what
+  current output requires. A unit of last resort is a reserve whose
+  output is small by design; whether it is useful or wasteful slack is
+  the open question that term names.
+- **Scenario-conditioned readiness** (A's term, TERM-tmpuc919): a
+  probability of effective response to an imposed contingency, which a
+  unit of last resort raises in the saturation scenarios.
+
+## What would settle it
+
+A claim of the record's own stated in it, or a reading of Larson's 1974
+paper confirming the construction there. Adopting it is the owner's call.
