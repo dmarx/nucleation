@@ -37,8 +37,8 @@ summary: >-
   owner's synthesis of 2026-11-04, which names it as the origin of major
   evolutionary transitions theory and that theory as the bridge between
   coexistence, endosymbiosis, game theory and morality. The record has
-  held the theory only through Okasha's reading of it (LIT-749,
-  NOTE-586).
+  held the theory only through Okasha's reading of it ([LIT-749](LIT-749.md),
+  [NOTE-586](../notes.d/NOTE-586.md)).
 ---
 <!-- inactive-ok-file: LIT-1927 LIT-1940 — Deferred; the scaffolding accounts that argue over this book's list, cited unread -->
 
@@ -52,5 +52,5 @@ Maynard Smith, J., Szathmáry, E. (1995). The Major Transitions in Evolution. Ox
 
 ## Standing in the record
 
-The source of the list of transitions that Okasha's paper (LIT-749,
-NOTE-586) and the scaffolding accounts (LIT-1927, LIT-1940) argue over.
+The source of the list of transitions that Okasha's paper ([LIT-749](LIT-749.md),
+[NOTE-586](../notes.d/NOTE-586.md)) and the scaffolding accounts ([LIT-1927](LIT-1927.md), [LIT-1940](LIT-1940.md)) argue over.

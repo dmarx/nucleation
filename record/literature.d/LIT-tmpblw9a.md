@@ -35,7 +35,7 @@ summary: >-
   an asymmetry: human cooperation is robust between individuals and
   fragile between groups, above all when the groups see their interests
   as opposed. The title says as much; the rest is unverified until read.
-  It is the empirical side of CLAIM-tmpjnqe9.
+  It is the empirical side of [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md).
 ---
 <!-- inactive-ok-file: CLAIM-493 CLAIM-tmpjnqe9 THEORY-1112 THEORY-1114 — Proposed or new; the record's intergroup material and the claim this work bears on, cited as open -->
 
@@ -50,8 +50,8 @@ Van Lange, P. A. M., Bergmann, M. (2026). Human cooperation is strong among indi
 ## Standing in the record
 
 The record holds intergroup material on categorization and entitativity
-(THEORY-1114, THEORY-1112) and on a fanbase set against an outside party
-(CLAIM-493). It holds nothing on whether cooperation survives between
-groups. CLAIM-tmpjnqe9 says that within-group cooperation and
+([THEORY-1114](../theory.d/THEORY-1114.md), [THEORY-1112](../theory.d/THEORY-1112.md)) and on a fanbase set against an outside party
+([CLAIM-493](../claims.d/CLAIM-493.md)). It holds nothing on whether cooperation survives between
+groups. [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md) says that within-group cooperation and
 between-group coexistence are distinct targets. This review is the
 evidence the synthesis offers for the human case.

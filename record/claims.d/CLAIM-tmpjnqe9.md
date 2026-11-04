@@ -37,7 +37,7 @@ summary: >-
   within groups can undermine coexistence between groups. The synthesis
   separates local cooperation, system-level coexistence and impartial
   moral concern. Nowak's group-selection model, which the record holds
-  (THEORY-567), turns out to be an exact instance: there, cooperation
+  ([THEORY-567](../theory.d/THEORY-567.md)), turns out to be an exact instance: there, cooperation
   within groups is bought by group extinction. The wording is the
   reader's; adopting it is the owner's call.
 ---
@@ -47,7 +47,7 @@ summary: >-
 
 ## The claim
 
-Nowak's fifth rule (LIT-501, THEORY-567) is group selection. There are m
+Nowak's fifth rule ([LIT-501](../literature.d/LIT-501.md), [THEORY-567](../theory.d/THEORY-567.md)) is group selection. There are m
 groups, and a group that reaches size n splits in two. "In this case,
 another group becomes extinct in order to constrain the total population
 size." Cooperators are favoured when b/c > 1 + n/m. Groups of cooperators
@@ -66,17 +66,17 @@ That makes the synthesis's §7 exact for one case. It names three things:
 None secures the next. The group-selection model has the first without
 the second. A society of coexisting groups that are each indifferent to
 outsiders has the second without the third. Morality-as-cooperation's
-group-loyalty domain (THEORY-468) is a solution to the first problem,
-and it can work against the second. Van Lange and Bergmann (LIT-tmpblw9a,
+group-loyalty domain ([THEORY-468](../theory.d/THEORY-468.md)) is a solution to the first problem,
+and it can work against the second. Van Lange and Bergmann ([LIT-tmpblw9a](../literature.d/LIT-tmpblw9a.md),
 unread) are the synthesis's evidence that, among people, cooperation is
 robust between individuals and fragile between groups.
 
 The record's other entries put this in two places:
 
-- CLAIM-075: viability does not establish what ought to persist. A
+- [CLAIM-075](CLAIM-075.md): viability does not establish what ought to persist. A
   cooperative arrangement that evolved, or that persists, is not thereby
   justified. The synthesis says the same.
-- CLAIM-545's last clause: domination is another's capacity to govern
+- [CLAIM-545](CLAIM-545.md)'s last clause: domination is another's capacity to govern
   the relations that make a will free. A group whose internal
   cooperation lets it set the terms for others is that case at the scale
   of groups.
@@ -86,5 +86,5 @@ The record's other entries put this in two places:
 - **That between-group competition must be lethal.** In the model it is,
   by construction.
 - **That impartial concern is the right standard.** Which of the three a
-  moral framework should serve is open (QUESTION-tmp22a7y).
+  moral framework should serve is open ([QUESTION-tmp22a7y](../questions.d/QUESTION-tmp22a7y.md)).
 - **Anything the review shows.** It is unread.

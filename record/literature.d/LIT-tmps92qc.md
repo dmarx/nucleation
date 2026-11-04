@@ -40,8 +40,8 @@ summary: >-
   the scale and cultural variability of human cooperation, so cultural
   evolution, norms, institutions and culture–gene coevolution matter
   too. That is unverified until read. The record holds the genetic
-  mechanisms (THEORY-567, THEORY-655, THEORY-663) and the moral
-  psychology (THEORY-468, THEORY-539), not the cultural-evolutionary
+  mechanisms ([THEORY-567](../theory.d/THEORY-567.md), [THEORY-655](../theory.d/THEORY-655.md), [THEORY-663](../theory.d/THEORY-663.md)) and the moral
+  psychology ([THEORY-468](../theory.d/THEORY-468.md), [THEORY-539](../theory.d/THEORY-539.md)), not the cultural-evolutionary
   account.
 ---
 <!-- inactive-ok-file: THEORY-655 THEORY-663 THEORY-468 THEORY-539 — Proposed; accounts this work is set beside, cited as open -->
@@ -57,8 +57,8 @@ Henrich, J., Muthukrishna, M. (2021). The Origins and Psychology of Human Cooper
 ## Standing in the record
 
 The record's account of how cooperation evolves is genetic and
-game-theoretic: Nowak's five rules (THEORY-567), Hamilton (THEORY-655),
-Trivers (THEORY-663). Its moral psychology is morality-as-cooperation
-(THEORY-468) and moral foundations (THEORY-539). Nothing it holds argues
+game-theoretic: Nowak's five rules ([THEORY-567](../theory.d/THEORY-567.md)), Hamilton ([THEORY-655](../theory.d/THEORY-655.md)),
+Trivers ([THEORY-663](../theory.d/THEORY-663.md)). Its moral psychology is morality-as-cooperation
+([THEORY-468](../theory.d/THEORY-468.md)) and moral foundations ([THEORY-539](../theory.d/THEORY-539.md)). Nothing it holds argues
 that cultural evolution is needed for cooperation at human scale. This
 review is the synthesis's source for that step.

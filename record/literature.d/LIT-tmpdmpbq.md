@@ -38,7 +38,7 @@ summary: >-
   transformation into an integrated entity, and names cooperation,
   division of labour, communication, mutual dependence and negligible
   within-group conflict as what those steps require. That is unverified
-  until read. Bears on QUESTION-277 and CLAIM-474.
+  until read. Bears on [QUESTION-277](../questions.d/QUESTION-277.md) and [CLAIM-474](../claims.d/CLAIM-474.md).
 ---
 <!-- inactive-ok-file: LIT-188 LIT-1927 LIT-1940 — Proposed or Deferred; the scaffolding accounts this work is set beside, cited as open -->
 <!-- inactive-ok-file: CLAIM-474 — Proposed; the claim this work bears on, cited as open -->
@@ -54,11 +54,11 @@ West, S. A., Fisher, R. M., Gardner, A., Kiers, E. T. (2015). Major evolutionary
 ## Standing in the record
 
 The record holds the transitions through Okasha's philosophy-of-science
-reading (LIT-749, NOTE-586), the scaffolding accounts (LIT-188,
-LIT-1927, LIT-1940) and the endosymbiosis cases. It has not held the
-two-step account itself. QUESTION-277 asks which of mutual dependence,
+reading ([LIT-749](LIT-749.md), [NOTE-586](../notes.d/NOTE-586.md)), the scaffolding accounts ([LIT-188](LIT-188.md),
+[LIT-1927](LIT-1927.md), [LIT-1940](LIT-1940.md)) and the endosymbiosis cases. It has not held the
+two-step account itself. [QUESTION-277](../questions.d/QUESTION-277.md) asks which of mutual dependence,
 reproductive cohesion and the rest come first when partners come to
 depend on one another, which is the order this paper proposes.
-CLAIM-474 says the steps from interconnection to individuation form a
+[CLAIM-474](../claims.d/CLAIM-474.md) says the steps from interconnection to individuation form a
 partial order, not a sequence; this paper's two steps are a sequence,
 and reading it would test that claim.

@@ -13,7 +13,7 @@ summary: >-
   Coexistence to Symbiosis to Morality", which the owner supplied on
   2026-11-04: "Can moral norms function analogously to ecological
   stabilizing mechanisms by preventing powerful groups from excluding
-  weaker ones?" Made precise here with Chesson's distinction (LIT-1219).
+  weaker ones?" Made precise here with Chesson's distinction ([LIT-1219](../literature.d/LIT-1219.md)).
   A stabilizing mechanism makes each type limit itself more than it
   limits others, which is what lets a type recover from rarity.
 ---
@@ -23,11 +23,11 @@ summary: >-
 
 ## Why it is a question
 
-Chesson (LIT-1219) separates two ways competitors come to coexist.
+Chesson ([LIT-1219](../literature.d/LIT-1219.md)) separates two ways competitors come to coexist.
 Equalizing mechanisms shrink the differences in average fitness. A
 stabilizing mechanism makes each type limit itself more than it limits
-the others, so a type that falls rare increases again (CASE-118 for two
-competitors). CLAIM-tmpjnqe9 says cooperation within groups and the
+the others, so a type that falls rare increases again ([CASE-118](../cases.d/CASE-118.md) for two
+competitors). [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md) says cooperation within groups and the
 coexistence of groups can trade off. This question asks whether moral
 norms can supply the missing stabilization.
 
@@ -47,8 +47,8 @@ form.
 ## What it is not
 
 - **Not whether such norms are justified.** Viability does not establish
-  what ought to persist (CLAIM-075).
-- **Not the record's question about processes.** QUESTION-083 asks
+  what ought to persist ([CLAIM-075](../claims.d/CLAIM-075.md)).
+- **Not the record's question about processes.** [QUESTION-083](QUESTION-083.md) asks
   whether processes sharing an update rule can come to hold mutually
   regulated authority. This question is its analogue for groups of
   agents, with norms in place of an update rule.
