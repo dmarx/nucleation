@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmp5upz4) from the authors' manuscript
+  read in full 2026-11-04 ([NOTE-tmp5upz4](../notes.d/NOTE-tmp5upz4.md)) from the authors' manuscript
   posted on co-author Shreyas Sekar's own site, not the typeset journal
   version; worth reading as a map of incentive design across economics,
   control theory and online learning, set on one principal–agent template,
@@ -72,7 +72,7 @@ Ratliff, L. J., Dong, R., Sekar, S. & Fiez, T. (2019). A Perspective on Incentiv
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp5upz4. Page numbers are the manuscript's 1–37, not the journal's.*
+*From the reading, [NOTE-tmp5upz4](../notes.d/NOTE-tmp5upz4.md). Page numbers are the manuscript's 1–37, not the journal's.*
 
 - **Three partial toolkits.** Economics works "in static environments" and
   is "very heavily model-based" (p. 4); control's adaptive results need
@@ -98,7 +98,7 @@ substance, though the paper sets the three side by side and calls for
 joining them rather than joining them. It never uses the words ratchet,
 budgeting or year-end, and has nothing on slack or readiness; its one
 ratchet-like remark is an open problem. For the ratchet itself the record
-has LIT-tmpfzy5q (Freixas, Guesnerie and Tirole, unread) and its stand-in,
-LIT-tmpbit9m. Its nearest held formal neighbour is LIT-1336 (performative
+has [LIT-tmpfzy5q](LIT-tmpfzy5q.md) (Freixas, Guesnerie and Tirole, unread) and its stand-in,
+[LIT-tmpbit9m](LIT-tmpbit9m.md). Its nearest held formal neighbour is [LIT-1336](LIT-1336.md) (performative
 prediction), where a deployed rule shifts the data it then faces. Filed
-from it: THEORY-tmp30jgj.
+from it: [THEORY-tmp30jgj](../theory.d/THEORY-tmp30jgj.md).

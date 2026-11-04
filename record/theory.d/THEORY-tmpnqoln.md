@@ -14,8 +14,8 @@ date: '2026-11-04'
 source:
 - LIT-tmphy35q
 summary: >-
-  Guigues, Kleywegt and Nascimento (2026), LIT-tmphy35q, read in part in
-  NOTE-tmp5y2s6. Proposed: the metric and policies were read in full, but
+  Guigues, Kleywegt and Nascimento (2026), [LIT-tmphy35q](../literature.d/LIT-tmphy35q.md), read in part in
+  [NOTE-tmp5y2s6](../notes.d/NOTE-tmp5y2s6.md). Proposed: the metric and policies were read in full, but
   the comparison rests on a simulation with assumed allocation costs whose
   per-figure results were skimmed, in an unrefereed preprint. The account
   is about mean allocation cost in one city's simulated system; it does
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Guigues, Kleywegt and Nascimento (2026), LIT-tmphy35q; read in part in
-NOTE-tmp5y2s6.
+Guigues, Kleywegt and Nascimento (2026), [LIT-tmphy35q](../literature.d/LIT-tmphy35q.md); read in part in
+[NOTE-tmp5y2s6](../notes.d/NOTE-tmp5y2s6.md).
 
 ## What was actually shown
 

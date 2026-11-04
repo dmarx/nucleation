@@ -11,8 +11,8 @@ status_note: >-
   so it would not have counted as an author copy. Searches of the
   authors' pages and of .edu hosts found no copy; Academia.edu and
   ResearchGate (login walls) were not used. Stands in for it, for the idea
-  and not the results: Erkut, Ingolfsson and Erdoğan (2008), LIT-tmprfb8b,
-  read in NOTE-tmp241k1, which argues more strongly that coverage within
+  and not the results: Erkut, Ingolfsson and Erdoğan (2008), [LIT-tmprfb8b](LIT-tmprfb8b.md),
+  read in [NOTE-tmp241k1](../notes.d/NOTE-tmp241k1.md), which argues more strongly that coverage within
   a time standard is a proxy for survivors and compares
   survival-maximizing with covering locations on Edmonton data; it
   partly pulls against this paper's headline, finding that a realistic
@@ -94,8 +94,8 @@ divergence reported is between total survival and equity. Whether a
 metric tracks the objective here depends on the threshold chosen.
 
 The paper was not read. Its neighbour, Erkut, Ingolfsson and Erdoğan
-(2008), LIT-tmprfb8b, read in full in NOTE-tmp241k1 (account filed as
-THEORY-tmpagbfa), stands in for the shared idea, that a response-time
+(2008), [LIT-tmprfb8b](LIT-tmprfb8b.md), read in full in [NOTE-tmp241k1](../notes.d/NOTE-tmp241k1.md) (account filed as
+[THEORY-tmpagbfa](../theory.d/THEORY-tmpagbfa.md)), stands in for the shared idea, that a response-time
 standard is a proxy for survival and that locating for the proxy can
 differ from locating for survivors, but not for this paper's method or
 Hanover County results. The two partly pull against each other: Erkut et

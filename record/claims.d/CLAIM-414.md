@@ -209,12 +209,12 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-04: Tatel, "A Meta-Analytic Investigation of Procedural Skill Retention and Decay", read
 
-Tatel's dissertation (LIT-tmplozja) supports the claim weakly, as an empirical instance. Skill decay shows only under a retention test, the specified intervention, and not in ordinary operation. The dissertation also warns that later retention trials measure relearning, so even the test can hide the difference. The claim's constructions concern interpretation and enabling constraints, which are not studied here. No status changes.
+Tatel's dissertation ([LIT-tmplozja](../literature.d/LIT-tmplozja.md)) supports the claim weakly, as an empirical instance. Skill decay shows only under a retention test, the specified intervention, and not in ordinary operation. The dissertation also warns that later retention trials measure relearning, so even the test can hide the difference. The claim's constructions concern interpretation and enabling constraints, which are not studied here. No status changes.
 
 ## Note of 2026-11-04: Oskar et al., "Procedural Skills Decay in Emergency Medicine", read
 
-Oskar and colleagues' review (LIT-tmp07mjg) supports the claim by analogy. Physicians in the same ordinary practice may differ in maintained procedural skill, and the difference appears only under deliberate retention testing, which the literature rarely does: "Very few studies attempted to track performance until observable decay emerged". It does not test the claim's mechanism. No status changes.
+Oskar and colleagues' review ([LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md)) supports the claim by analogy. Physicians in the same ordinary practice may differ in maintained procedural skill, and the difference appears only under deliberate retention testing, which the literature rarely does: "Very few studies attempted to track performance until observable decay emerged". It does not test the claim's mechanism. No status changes.
 
 ## Note of 2026-11-04: U.S. Fire Administration, "Dispatched and Canceled en Route", read
 
-A call cancelled en route (LIT-tmpnhw2v) is an ordinary trajectory in which the dispatched rescue capability was never exercised, so such records cannot show whether that capability was maintained. That qualifies the claim with an operational case. The page itself claims nothing about capability. No status changes.
+A call cancelled en route ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) is an ordinary trajectory in which the dispatched rescue capability was never exercised, so such records cannot show whether that capability was maintained. That qualifies the claim with an operational case. The page itself claims nothing about capability. No status changes.

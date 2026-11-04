@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmpsnl7o, Skimmed) from the INFORMS
+  read in part 2026-11-04 ([NOTE-tmpsnl7o](../notes.d/NOTE-tmpsnl7o.md), Skimmed) from the INFORMS
   author-courtesy PDF on NUS Business School's site; worth reading as the
   analytical backing for the chaining principle of process flexibility:
   for balanced, identical plants and products with independent demand, the
@@ -10,7 +10,7 @@ status_note: >-
   general a suitably sampled sparse structure comes within ε of full
   flexibility, while with correlated demand a sparse structure can lose
   almost everything. Registered as the stand-in for Jordan and Graves
-  (1995), LIT-tmpaku09, whose simulation findings it reports. Its main
+  (1995), [LIT-tmpaku09](LIT-tmpaku09.md), whose simulation findings it reports. Its main
   limits: a single period, lost sales, and the chain results only for
   balanced, independent, symmetric demand.
 title: 'Design for Process Flexibility: Efficiency of the Long Chain and Sparse Structure'
@@ -71,7 +71,7 @@ Chou, M. C., Chua, G. A., Teo, C.-P. & Zheng, H. (2010). Design for Process Flex
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpsnl7o. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpsnl7o](../notes.d/NOTE-tmpsnl7o.md). Page numbers are the journal's.*
 
 - **Jordan and Graves, as reported** (§2, p. 45): "They observe, through
   extensive simulation, that limited flexibility, configured the right way,
@@ -88,12 +88,12 @@ Chou, M. C., Chua, G. A., Teo, C.-P. & Zheng, H. (2010). Design for Process Flex
 
 ## Standing in the record
 
-Registered as the stand-in for Jordan and Graves (1995), LIT-tmpaku09,
+Registered as the stand-in for Jordan and Graves (1995), [LIT-tmpaku09](LIT-tmpaku09.md),
 which the pasted bibliography on emergency readiness cites and whose
 copies could not be fetched. It reports that paper's headline findings in
 paraphrase and reuses its data, but does not give its guidelines,
-flexibility index or simulation design. Filed from it: THEORY-tmpgeseh.
+flexibility index or simulation design. Filed from it: [THEORY-tmpgeseh](../theory.d/THEORY-tmpgeseh.md).
 Flexibility here is standing capacity to re-route work under realised
 demand, not a capability kept for rare events; its nearest echo in the
-record is CLAIM-347, where adding links enlarges the set of demands that
+record is [CLAIM-347](../claims.d/CLAIM-347.md), where adding links enlarges the set of demands that
 can be met together.

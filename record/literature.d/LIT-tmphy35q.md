@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmp5y2s6, Skimmed) from the arXiv preprint,
+  read in part 2026-11-04 ([NOTE-tmp5y2s6](../notes.d/NOTE-tmp5y2s6.md), Skimmed) from the arXiv preprint,
   v1; worth reading as a clear statement of the two recurring EMS decisions,
   which ambulance to send or whether to queue a call, and where a freed
   ambulance goes, with the trade-off that serving a call now lowers
@@ -15,7 +15,7 @@ status_note: >-
   supply; assumed allocation costs, which the authors call examples, not
   guidelines; one city; and no comparison with the approximate dynamic
   programming policies. Filed as a weak stand-in for Nasrollahzadeh,
-  Khademi and Mayorga (2018), LIT-tmpsdrz9, which it describes in two
+  Khademi and Mayorga (2018), [LIT-tmpsdrz9](LIT-tmpsdrz9.md), which it describes in two
   sentences only.
 title: 'Policies for the Operation of an Ambulance Fleet under Uncertainty based on a New Preparedness Metric'
 version: 1
@@ -71,7 +71,7 @@ Guigues, V., Kleywegt, A. J. & Nascimento, V. H. (2026). Policies for the Operat
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp5y2s6. Page numbers are the preprint's.*
+*From the reading, [NOTE-tmp5y2s6](../notes.d/NOTE-tmp5y2s6.md). Page numbers are the preprint's.*
 
 - **Readiness is the cost of a dispatch.** An ambulance "may be
   dispatched to a current, less urgent, emergency", and then "it may not
@@ -87,7 +87,7 @@ Guigues, V., Kleywegt, A. J. & Nascimento, V. H. (2026). Policies for the Operat
 ## Standing in the record
 
 Filed at the owner's request as a stand-in for Nasrollahzadeh, Khademi
-and Mayorga (2018), LIT-tmpsdrz9, which could not be read. It stands in
+and Mayorga (2018), [LIT-tmpsdrz9](LIT-tmpsdrz9.md), which could not be read. It stands in
 weakly: it shares that paper's problem class and trade-off, and confirms
 only that the paper used basis functions to approximate the value
 function of an MDP and compared the policy with benchmarks and lower
@@ -95,4 +95,4 @@ bounds (p. 7). It states none of that paper's results and does not test
 against its policy. For the pasted bibliography's theme, the value of
 availability, it is the more direct of the two: its metric prices
 keeping units free for calls that may never come. Filed from it:
-THEORY-tmpnqoln.
+[THEORY-tmpnqoln](../theory.d/THEORY-tmpnqoln.md).

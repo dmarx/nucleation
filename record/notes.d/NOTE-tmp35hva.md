@@ -134,7 +134,7 @@ It extends Arthur et al. (1998), whose meta-analysis it partly replicates
 in §5.1 (not read here).
 
 **Against the article it stands in for**, Tatel & Ackerman (2025),
-LIT-tmpr53a0, known only from its abstract:
+[LIT-tmpr53a0](../literature.d/LIT-tmpr53a0.md), known only from its abstract:
 
 - *Restates:* the slopes of 0.08 SD a month (accuracy) and 0.06 (speed and
   mixed); the four moderators of the abstract (task type, task complexity,
@@ -161,34 +161,34 @@ LIT-tmpr53a0, known only from its abstract:
   (accuracy only, tentatively). It says nothing on measurement by
   utilization or organizational incentives, which A's proposition is
   about.
-- **TERM-055 (operational availability): qualifies.** Decay lowers
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability): qualifies.** Decay lowers
   whether a trained resource can be deployed in time while it is
-  nominally present, the separation TERM-055 draws; speed measures map
+  nominally present, the separation [TERM-055](../terms.d/TERM-055.md) draws; speed measures map
   onto its deadline and accuracy onto success. But the term is about
   retrieval under a cue in an agent–environment system, and this is
   individual motor performance under test: an instance of the
   separation, not of the full construct.
-- **CLAIM-422 (corrective act, procedure, maintained capacity): supports.**
+- **[CLAIM-422](../claims.d/CLAIM-422.md) (corrective act, procedure, maintained capacity): supports.**
   Training achieves acquisition; without use the capacity decays on a
   measurable schedule.
-- **CLAIM-414 (matched ordinary trajectories conceal maintenance
+- **[CLAIM-414](../claims.d/CLAIM-414.md) (matched ordinary trajectories conceal maintenance
   differences): supports, weakly.** Decay shows only under a retention
   test.
-- **CLAIM-463 (restoring conditions need not restore a capacity):
+- **[CLAIM-463](../claims.d/CLAIM-463.md) (restoring conditions need not restore a capacity):
   qualifies.** The relearning-savings background (p. 124) says individual
   procedural skills are relearned faster than first learned, which cuts
-  against a cost asymmetry in this domain; CLAIM-463's mechanism,
+  against a cost asymmetry in this domain; [CLAIM-463](../claims.d/CLAIM-463.md)'s mechanism,
   self-reinforcing maintenance activity, is not studied here.
-- **THEORY-061 (instructions set accumulation parameters): bears on** the
+- **[THEORY-061](../theory.d/THEORY-061.md) (instructions set accumulation parameters): bears on** the
   task-instruction moderator and the speed–accuracy confound; it fits the
   author's reading that instruction effects may be shifts of the
   speed–accuracy setting rather than skill loss.
-- **LIT-1059** (Cognitive Offloading) lists skill decay as a cost of
+- **[LIT-1059](../literature.d/LIT-1059.md)** (Cognitive Offloading) lists skill decay as a cost of
   offloading; compatible.
-- **Unrelated:** CLAIM-079, CLAIM-347; CLAIM-517 at most by analogy;
-  QUESTION-132, which A glosses wrongly (it concerns initially equivalent
+- **Unrelated:** [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md); [CLAIM-517](../claims.d/CLAIM-517.md) at most by analogy;
+  [QUESTION-132](../questions.d/QUESTION-132.md), which A glosses wrongly (it concerns initially equivalent
   adaptive operators differentiating into specialists).
-- Filed: THEORY-tmpsm9h9. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpsm9h9](../theory.d/THEORY-tmpsm9h9.md). No instruction for machine-learning practice.
 
 ## Limitations
 
@@ -213,6 +213,6 @@ The reader's:
 ## Open questions
 
 - Does the article's final analysis change the half-loss estimates or the
-  moderators? Reading LIT-tmpr53a0 would tell.
+  moderators? Reading [LIT-tmpr53a0](../literature.d/LIT-tmpr53a0.md) would tell.
 - Is decay linear beyond a year? It needs more studies with long
   retention intervals and a single first retention trial.

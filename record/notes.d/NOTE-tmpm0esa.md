@@ -133,7 +133,7 @@ why full roll-over is not always best.
 
 ## Connections
 
-It builds on Liebman and Mahoney (LIT-tmp4kmcg), keeping their year-end
+It builds on Liebman and Mahoney ([LIT-tmp4kmcg](../literature.d/LIT-tmp4kmcg.md)), keeping their year-end
 problem and their commitment point but replacing shared preferences and
 precautionary saving with misuse under private information and risk
 neutrality; their mechanism is explicitly not this one (p. 19). It draws on
@@ -153,19 +153,19 @@ the audit rules, and contrasts itself with the ratchet-effect literature.
   The word unlimited is A's: the paper's Δ is a share, not a cap. A also
   leaves out the audit structure, the maximal punishment, roll-over as a
   substitute for auditing, and underfunding.
-- **TERM-055 (operational availability).** Qualifies the term's reach,
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability).** Qualifies the term's reach,
   weakly. Roll-over keeps funds available for a later need, and
   underfunding knowingly lowers the chance a need can be met; but the model
   has no cue, no deployment step and no task deadline. An analogy.
-- **CLAIM-347 (the frustration complex).** Unrelated, though superficially
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (the frustration complex).** Unrelated, though superficially
   close: the conflict is a misalignment over spending above need, not joint
   infeasibility of declared demands.
-- **CLAIM-079, CLAIM-517, QUESTION-132, CLAIM-357 and CLAIM-365.**
-  Unrelated. A's gloss of QUESTION-132 is wrong.
-- **The self-control and precommitment cluster** (LIT-1389, THEORY-067,
-  CASE-128). Unrelated in structure: there the commitment binds one's own
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md), [CLAIM-357](../claims.d/CLAIM-357.md) and [CLAIM-365](../claims.d/CLAIM-365.md).**
+  Unrelated. A's gloss of [QUESTION-132](../questions.d/QUESTION-132.md) is wrong.
+- **The self-control and precommitment cluster** ([LIT-1389](../literature.d/LIT-1389.md), [THEORY-067](../theory.d/THEORY-067.md),
+  [CASE-128](../cases.d/CASE-128.md)). Unrelated in structure: there the commitment binds one's own
   later choice; here a principal commits toward an agent.
-- Filed: THEORY-tmpn0uzd. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpn0uzd](../theory.d/THEORY-tmpn0uzd.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

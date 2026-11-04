@@ -100,7 +100,7 @@ of waiting neither vanishes nor tends to one.
 
 ## Connections
 
-Registered as the stand-in for Halfin and Whitt (1981), LIT-tmpodkh1,
+Registered as the stand-in for Halfin and Whitt (1981), [LIT-tmpodkh1](../literature.d/LIT-tmpodkh1.md),
 which could not be found. Of that paper's results it restates, attributed
 and in formulas: the M/M/s square-root scaling; the iff condition
 (1 − ρ)√s → β for a non-degenerate delay probability, and the limit g(β);
@@ -112,21 +112,21 @@ proof in Halfin & Whitt [63] relies on Stone's Theorem", p. 16), the
 original's treatment of other arrival processes and models, its numerical
 work, or its own statement of scope.
 
-Adjacent in method only: THEORY-1265, on approximating a chemical master
+Adjacent in method only: [THEORY-1265](../theory.d/THEORY-1265.md), on approximating a chemical master
 equation by a Fokker–Planck or Langevin equation, the same move as this
 tutorial's diffusion limit of a birth–death chain, in another subject.
 
 ## Bearing on the record
 
-- **CLAIM-520** (the value of keeping a corrective capacity is conditional
+- **[CLAIM-520](../claims.d/CLAIM-520.md)** (the value of keeping a corrective capacity is conditional
   on objectives, uncertainty and cost): supports in kind. §4 sets headroom
   by optimising a cost of capacity against a cost of delay, with an optimum
   β*, so how much spare capacity is worth keeping is conditional on both.
-- **TERM-055** (operational availability): qualifies. P(delay) is the
+- **[TERM-055](../terms.d/TERM-055.md)** (operational availability): qualifies. P(delay) is the
   chance that no server is free when a job arrives, an availability of
   capacity across a population, with no cue and no deadline-specific
   action. At most a special case.
-- **THEORY-144** (organizations drift toward the boundary and redundant
+- **[THEORY-144](../theory.d/THEORY-144.md)** (organizations drift toward the boundary and redundant
   defences erode unobserved): qualifies. The QED regime is a principled
   operating point near full utilization; operating near the boundary can be
   efficient when capacity is pooled, which is not drift.
@@ -153,4 +153,4 @@ tutorial's diffusion limit of a birth–death chain, in another subject.
 
 Whether Halfin and Whitt's paper states the M/M/s results as the tutorial
 reports them, and what it says for other arrival processes, needs
-LIT-tmpodkh1 read, perhaps from Whitt's own site.
+[LIT-tmpodkh1](../literature.d/LIT-tmpodkh1.md) read, perhaps from Whitt's own site.

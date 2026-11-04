@@ -14,7 +14,7 @@ status_note: >-
   returned 403 with a Cloudflare challenge and was not retried.
   ResearchGate (login wall) and a commercial translation-sales site were
   not used. Stands in for it, weakly: Guigues, Kleywegt and Nascimento
-  (2026), LIT-tmphy35q, which states the same problem class (choose any
+  (2026), [LIT-tmphy35q](LIT-tmphy35q.md), which states the same problem class (choose any
   available ambulance or queue the call; reassign a freed ambulance) and
   describes this paper in two sentences, but gives none of its
   formulation, bounds or results and does not compare against its
@@ -100,7 +100,7 @@ cancellation en route, A's running example, cannot be told from the
 abstract.
 
 The paper was not read. Its neighbour, Guigues, Kleywegt and Nascimento
-(2026), LIT-tmphy35q, read in part in NOTE-tmp5y2s6, stands in for it
+(2026), [LIT-tmphy35q](LIT-tmphy35q.md), read in part in [NOTE-tmp5y2s6](../notes.d/NOTE-tmp5y2s6.md), stands in for it
 only weakly: it states the same joint selection-and-reassignment problem,
 with the same trade-off between serving a call now and readiness for later
 ones, and says of this paper only that it "proposed a number of basis

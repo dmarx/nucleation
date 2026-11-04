@@ -96,7 +96,7 @@ adding more links buys little, unless demands move together.
 
 ## Connections
 
-Registered as the stand-in for Jordan and Graves (1995), LIT-tmpaku09,
+Registered as the stand-in for Jordan and Graves (1995), [LIT-tmpaku09](../literature.d/LIT-tmpaku09.md),
 whose copies could not be fetched. Of that paper's results it restates, in
 attributed paraphrase: that Jordan and Graves introduced limited
 flexibility and chaining; that by extensive simulation limited flexibility
@@ -115,12 +115,12 @@ case under correlation.
 
 A second neighbour, Chen, Ma, Zhang and Zhou (arXiv:1806.02894), restates
 Jordan and Graves only as the bipartite max-flow model and was set aside.
-LIT-1155 (Linial, London and Rabinovich, the geometry of graphs) is
+[LIT-1155](../literature.d/LIT-1155.md) (Linial, London and Rabinovich, the geometry of graphs) is
 adjacent in method, through max-flow and expansion.
 
 ## Bearing on the record
 
-- **CLAIM-347** (frustration among demands as an ordinal fact: the jointly
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (frustration among demands as an ordinal fact: the jointly
   satisfiable sets form a complex, and relief is its enlargement):
   qualifies, with a real structural echo. Adding plant–product links
   enlarges the set of demand realisations that can be met together, and
@@ -128,13 +128,13 @@ adjacent in method, through max-flow and expansion.
   literature measures the enlargement in expected sales, not ordinally,
   and its correlated-demand example shows how much the measure depends on
   which realisations are likely.
-- **CLAIM-520** (the value of a maintained capacity is conditional on cost
+- **[CLAIM-520](../claims.d/CLAIM-520.md)** (the value of a maintained capacity is conditional on cost
   and use): supports in kind. Full flexibility is costly, so the sparse
   design that keeps most of its value is preferred (p. 44).
-- **TERM-055** (operational availability): weak. Fulfilled demand is
+- **[TERM-055](../terms.d/TERM-055.md)** (operational availability): weak. Fulfilled demand is
   capacity actually deployable to a product under realised demand, but
   nothing here concerns cues or deadlines.
-- **THEORY-144** (redundant defences erode unobserved): unrelated in
+- **[THEORY-144](../theory.d/THEORY-144.md)** (redundant defences erode unobserved): unrelated in
   mechanism.
 - **A's characterization of Jordan and Graves**, a mathematical study of
   limited flexibility under variable demand: right that it concerns limited
@@ -157,5 +157,5 @@ adjacent in method, through max-flow and expansion.
 ## Open questions
 
 Whether Jordan and Graves state their principle as this paper reports it,
-and how they define the JG index, needs LIT-tmpaku09 read from the MIT
+and how they define the JG index, needs [LIT-tmpaku09](../literature.d/LIT-tmpaku09.md) read from the MIT
 working paper.

@@ -11,7 +11,7 @@ status_note: >-
   never seen. OpenAlex reports no open full text; the publisher (JSTOR,
   Oxford University Press) is subscription only and was not tried. Only the
   abstract was read, on RePEc/IDEAS. Gerardi and Maestri (2020),
-  LIT-tmpbit9m, stands in for it on the phenomenon and the setting only (a
+  [LIT-tmpbit9m](LIT-tmpbit9m.md), stands in for it on the phenomenon and the setting only (a
   principal who cannot commit revises terms on revealed performance, so a
   productive agent hides), and credits it, jointly with Gibbons and
   Laffont–Tirole, with founding the two-period literature; it does not
@@ -94,8 +94,8 @@ kept for rare events, and its headline result is the planner's optimal
 response, not waste or lost capacity. Carrying it to readiness is A's
 analogy.
 
-**The neighbour.** Gerardi and Maestri (2020), LIT-tmpbit9m, read Skimmed
-in NOTE-tmpoec9n, stands in for it only on the phenomenon and the setting:
+**The neighbour.** Gerardi and Maestri (2020), [LIT-tmpbit9m](LIT-tmpbit9m.md), read Skimmed
+in [NOTE-tmpoec9n](../notes.d/NOTE-tmpoec9n.md), stands in for it only on the phenomenon and the setting:
 a principal who cannot commit to future terms revises them on what
 performance reveals, so a productive agent mimics an unproductive one. It
 names this paper once, in its literature review, among the two-period
@@ -103,6 +103,6 @@ papers that "pioneered" the subject, and credits that group jointly with
 semi-pooling in the first period and full separation in the second. It does
 not restate this paper's planner–firm model, the form of its incentive
 schemes, or its result on the marginal price of output, none of which can
-be cited from it. The account filed from the neighbour, THEORY-tmp6sg3n,
+be cited from it. The account filed from the neighbour, [THEORY-tmp6sg3n](../theory.d/THEORY-tmp6sg3n.md),
 is Gerardi and Maestri's own infinite-horizon result. No THEORY is filed
 for this paper until it is read.

@@ -14,7 +14,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpbit9m
 summary: >-
-  Gerardi and Maestri (2020), LIT-tmpbit9m, read Skimmed in NOTE-tmpoec9n:
+  Gerardi and Maestri (2020), [LIT-tmpbit9m](../literature.d/LIT-tmpbit9m.md), read Skimmed in [NOTE-tmpoec9n](../notes.d/NOTE-tmpoec9n.md):
   the statements of Propositions 2–3 and their discussion were read, the
   proofs were not. Read as a stand-in for Freixas, Guesnerie and Tirole
   (1985), whose own two-period result it does not restate. It holds in the
@@ -27,9 +27,9 @@ summary: >-
 
 ## Source
 
-Gerardi and Maestri (2020), LIT-tmpbit9m; read in NOTE-tmpoec9n (journal
+Gerardi and Maestri (2020), [LIT-tmpbit9m](../literature.d/LIT-tmpbit9m.md); read in [NOTE-tmpoec9n](../notes.d/NOTE-tmpoec9n.md) (journal
 pagination). Registered as a stand-in for Freixas, Guesnerie and Tirole
-(1985), LIT-tmpfzy5q, unread.
+(1985), [LIT-tmpfzy5q](../literature.d/LIT-tmpfzy5q.md), unread.
 
 ## What was actually shown
 

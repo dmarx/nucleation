@@ -131,12 +131,12 @@ the question asks.
 
 ## Note of 2026-11-04: Guigues, Kleywegt and Nascimento, "Policies for the Operation of an Ambulance Fleet", read
 
-Their preparedness metric (LIT-tmphy35q) is defined over the ambulances a station can actually deploy, so a busy unit adds nothing. That supports separating having a resource from being able to deploy it, at the level of a fleet. It leaves open whether a steady-state fleet rate is an instance of the claim's agent-level relation or only an analogue. No status changes.
+Their preparedness metric ([LIT-tmphy35q](../literature.d/LIT-tmphy35q.md)) is defined over the ambulances a station can actually deploy, so a busy unit adds nothing. That supports separating having a resource from being able to deploy it, at the level of a fleet. It leaves open whether a steady-state fleet rate is an instance of the claim's agent-level relation or only an analogue. No status changes.
 
 ## Note of 2026-11-04: Erkut, Ingolfsson and Erdoğan, "Ambulance location for maximum survival", read
 
-In the expected-covering models (LIT-tmprfb8b), a unit at a station counts only with the probability that it is free. That supports the claim's distinction in a location model. It leaves open the cue and the knowing-it-has parts, which the model lacks. No status changes.
+In the expected-covering models ([LIT-tmprfb8b](../literature.d/LIT-tmprfb8b.md)), a unit at a station counts only with the probability that it is free. That supports the claim's distinction in a location model. It leaves open the cue and the knowing-it-has parts, which the model lacks. No status changes.
 
 ## Note of 2026-11-04: U.S. Fire Administration, "Dispatched and Canceled en Route", read
 
-The NFIRS guidance (LIT-tmpnhw2v) records separately the resources assigned, the units that arrived and the units cancelled en route, and it excludes from the incident data the calls a department could not answer for lack of resources. That supports the claim's distinctions at the level of reporting. It leaves open how often the missing case occurs, since NFIRS by design does not see it. No status changes.
+The NFIRS guidance ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) records separately the resources assigned, the units that arrived and the units cancelled en route, and it excludes from the incident data the calls a department could not answer for lack of resources. That supports the claim's distinctions at the level of reporting. It leaves open how often the missing case occurs, since NFIRS by design does not see it. No status changes.

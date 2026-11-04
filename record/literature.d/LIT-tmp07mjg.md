@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmpw1i6o) from the Europe PMC full text of the
+  read 2026-11-04 ([NOTE-tmpw1i6o](../notes.d/NOTE-tmpw1i6o.md)) from the Europe PMC full text of the
   open-access version of record (PMC13051320); worth reading as a map of
   how little the emergency-medicine literature can say about procedural
   skill decay: of 37 included studies few make decay the primary outcome,
@@ -70,7 +70,7 @@ Oskar, K., Prehoda, E., Sapp, R., Qi, X., Botticelli, B. & Palaganas, J. C. (202
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpw1i6o. Cureus pages are unnumbered; places are the review's sections.*
+*From the reading, [NOTE-tmpw1i6o](../notes.d/NOTE-tmpw1i6o.md). Cureus pages are unnumbered; places are the review's sections.*
 
 - **Decay is rarely the outcome.** "Few studies were explicitly designed
   to isolate and analyze skill decay as a primary outcome" (Theme 1).
@@ -94,5 +94,5 @@ rarely used clinical skills is poorly measured, and it carries the HALO
 framing (high-acuity, low-occurrence procedures need training beyond
 clinical shifts), which it takes from cited frequency studies, not from
 its own synthesis. It says nothing about measuring capabilities by
-utilization or about organizational slack. Filed from it: THEORY-tmpkplf4.
+utilization or about organizational slack. Filed from it: [THEORY-tmpkplf4](../theory.d/THEORY-tmpkplf4.md).
 No instruction for machine-learning practice; nothing for the anthology.

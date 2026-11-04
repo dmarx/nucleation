@@ -9,7 +9,7 @@ status_note: >-
   (RePEc/IDEAS, dblp) and secondary summaries, none of them the paper; the
   publisher, pubsonline.informs.org, not fetched because OpenAlex marks it
   subscription only. Unpaywall not used, since it requires an email
-  address. Kaelbling, Littman and Cassandra (1998), LIT-tmpex3e4, stands
+  address. Kaelbling, Littman and Cassandra (1998), [LIT-tmpex3e4](LIT-tmpex3e4.md), stands
   in for it on the core finite-horizon results (the belief state as a
   sufficient statistic, the piecewise-linear convex value function, and the
   existence and exponential worst case of Smallwood and Sondik's algorithm),
@@ -54,7 +54,7 @@ summary: >-
   were reached. The pasted bibliography on emergency readiness cites it as
   the foundational finite-horizon treatment of partially observable Markov
   decision processes, and Kaelbling, Littman and Cassandra (1998),
-  LIT-tmpex3e4, credit it with the belief state as a sufficient statistic
+  [LIT-tmpex3e4](LIT-tmpex3e4.md), credit it with the belief state as a sufficient statistic
   for control, jointly with another work, and with an exact finite-horizon
   algorithm that constructs the value function directly but has worst-case
   running time exponential in at least one problem parameter. Its
@@ -73,7 +73,7 @@ Smallwood, R. D. & Sondik, E. J. (1973). The Optimal Control of Partially Observ
 the original.*
 
 - **The belief state.** Kaelbling, Littman and Cassandra (1998),
-  LIT-tmpex3e4, cite it, with one other work, for the belief state being a
+  [LIT-tmpex3e4](LIT-tmpex3e4.md), cite it, with one other work, for the belief state being a
   sufficient statistic for the past history (§3.2, p. 106).
 - **An exact algorithm, exponential in the worst case.** The same authors
   say Smallwood and Sondik construct the value function directly, and that
@@ -90,13 +90,13 @@ it, and as the formal apparatus for provisional dispatch followed by
 reassessment and cancellation, which is A's application and not a claim
 made for the paper.
 
-**The neighbour.** Kaelbling, Littman and Cassandra (1998), LIT-tmpex3e4,
-read Skimmed in NOTE-tmp4f0ld, stands in for it. It restates, in the same
+**The neighbour.** Kaelbling, Littman and Cassandra (1998), [LIT-tmpex3e4](LIT-tmpex3e4.md),
+read Skimmed in [NOTE-tmp4f0ld](../notes.d/NOTE-tmp4f0ld.md), stands in for it. It restates, in the same
 framework, the belief state as a sufficient statistic, the
 piecewise-linear convex finite-horizon value function (which it derives
 itself rather than attributing to this paper alone), and the existence and
 exponential worst case of Smallwood and Sondik's algorithm. It does not
 give the original's algorithm in detail, its proofs, its notation or
 reward conventions, or any example or application of its own. The account
-filed from the neighbour, THEORY-tmphj1kw, names this paper as the
+filed from the neighbour, [THEORY-tmphj1kw](../theory.d/THEORY-tmphj1kw.md), names this paper as the
 original and asks for it to be read before promotion.

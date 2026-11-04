@@ -18,7 +18,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpuad7h
 summary: >-
-  Siemroth (SSRN 2021; IER 2024), LIT-tmpuad7h, read in NOTE-tmpm0esa from
+  Siemroth (SSRN 2021; IER 2024), [LIT-tmpuad7h](../literature.d/LIT-tmpuad7h.md), read in [NOTE-tmpm0esa](../notes.d/NOTE-tmpm0esa.md) from
   the February 2022 working paper. Proposed: the results are the paper's
   propositions, whose proofs (in the appendix) were not read, and the
   version of record, which may differ, was not reached. Within the model
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Siemroth (2024), LIT-tmpuad7h; read in NOTE-tmpm0esa, on the Essex
+Siemroth (2024), [LIT-tmpuad7h](../literature.d/LIT-tmpuad7h.md); read in [NOTE-tmpm0esa](../notes.d/NOTE-tmpm0esa.md), on the Essex
 discussion paper of February 2022.
 
 ## What was actually shown
@@ -59,7 +59,7 @@ discussion paper of February 2022.
   reader (p. 33).
 - That roll-over helps because of precaution: the agent is risk neutral
   (p. 19). The precautionary account is Liebman and Mahoney's
-  (LIT-tmp4kmcg).
+  ([LIT-tmp4kmcg](../literature.d/LIT-tmp4kmcg.md)).
 - That a cap on roll-over is optimal: Δ is a share of savings, and caps are
   not analysed.
 - Anything beyond two periods, where savings could accumulate (p. 33).

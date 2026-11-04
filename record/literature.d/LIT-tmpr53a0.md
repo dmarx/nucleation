@@ -10,7 +10,7 @@ status_note: >-
   PMC has the abstract only, PMID 40455501), no PsyArXiv or OSF preprint
   found by title, and OpenAlex lists no repository copy. A human reader
   can likely open the APA copy. The first author's 2023 Georgia Tech
-  dissertation, LIT-tmplozja, read in its results chapters, stands in for
+  dissertation, [LIT-tmplozja](LIT-tmplozja.md), read in its results chapters, stands in for
   it: the same design, the same 457 sources and the same slopes, but 1,352
   effect sizes against the article's 1,344, half-loss times given as
   three-month ranges where the article gives points, and nothing on what
@@ -101,7 +101,7 @@ opportunities may slow the decay. It measures individual task performance
 in studies; it says nothing about organizations measuring capabilities by
 how often they are used, which is the mechanism in A's proposition.
 
-**The stand-in.** The first author's 2023 dissertation, LIT-tmplozja,
+**The stand-in.** The first author's 2023 dissertation, [LIT-tmplozja](LIT-tmplozja.md),
 supervised by the second author, is the article's precursor: the same
 design, research questions, moderators and confounds, and the same 457
 sources. It restates the slopes (0.08 and 0.06 SD a month), the four
@@ -111,6 +111,6 @@ moderators and the two confounds. It differs in its effect-size count
 and leads its summary with total loss of gains. It cannot vouch for
 anything changed in peer review, so results should be cited to the
 dissertation until this article is read. Filed from the dissertation:
-THEORY-tmpsm9h9.
+[THEORY-tmpsm9h9](../theory.d/THEORY-tmpsm9h9.md).
 
 No instruction for machine-learning practice; nothing for the anthology.

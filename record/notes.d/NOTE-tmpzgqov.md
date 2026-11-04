@@ -138,27 +138,27 @@ and Rosen (1999) for the hedging example and its VaR hedges. It cites Pflug
   capacity kept for rare events needs the loss of a capacity decision in
   each scenario, and a sample that contains the rare scenarios, which the
   paper's own Table 5 shows is costly at β = 0.99.
-- **CLAIM-517 (viability at boundary contexts; fidelity in ordinary
+- **[CLAIM-517](../claims.d/CLAIM-517.md) (viability at boundary contexts; fidelity in ordinary
   operation certifies nothing).** Qualifies, by analogy only. CVaR is the
   standard formal way to make an objective depend on the tail of a
   distribution rather than its bulk, the same stance as the claim's
   attention to boundary contexts. The paper proves nothing about viability
   or invariance.
-- **CLAIM-357 and CLAIM-365 (governance regret and the frustration
+- **[CLAIM-357](../claims.d/CLAIM-357.md) and [CLAIM-365](../claims.d/CLAIM-365.md) (governance regret and the frustration
   residual).** Qualifies, loosely. Those are min–max constructions over
   admissible updates; CVaR is another, convex, way to fold a distribution of
   outcomes into one number. They sit side by side as scalarizations.
-- **LIT-1975 (adjustable robust linear programs, NOTE-1503).** The nearest
+- **[LIT-1975](../literature.d/LIT-1975.md) (adjustable robust linear programs, [NOTE-1503](NOTE-1503.md)).** The nearest
   held neighbour: worst-case linear programming under uncertainty, where
   this paper is risk-averse linear programming under a distribution. Two
   accounts of choosing under uncertainty in the same machinery.
-- **NOTE-068 (mean-field-type games)** names risk measures beyond variance
+- **[NOTE-068](NOTE-068.md) (mean-field-type games)** names risk measures beyond variance
   as open; CVaR is one, with no direct link.
-- **TERM-055, CLAIM-079, CLAIM-347, QUESTION-132**: unrelated. QUESTION-132
+- **[TERM-055](../terms.d/TERM-055.md), [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [QUESTION-132](../questions.d/QUESTION-132.md)**: unrelated. [QUESTION-132](../questions.d/QUESTION-132.md)
   asks when equivalent adaptive operators differentiate into specialists
   with positive growth when rare, not, as A glosses it, about capabilities
   whose contribution shows in rare contexts.
-- Filed: THEORY-tmpeqky9. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpeqky9](../theory.d/THEORY-tmpeqky9.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

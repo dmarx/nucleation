@@ -111,7 +111,7 @@ It follows Stigler (1976) against Leibenstein's X-inefficiency, Cyert and
 March (1963) on organizational slack, and Afriat and Varian on revealed
 preference; DEA (Charnes, Cooper and Rhodes) supplies the technology.
 
-**As a stand-in for Bogetoft and Kerstens (2022), LIT-tmpk02sl.** It
+**As a stand-in for Bogetoft and Kerstens (2022), [LIT-tmpk02sl](../literature.d/LIT-tmpk02sl.md).** It
 restates that paper's premise, as its abstract gives it: slack can be
 useful, rationally chosen and of value to the organization, with the
 organizational motives the abstract also lists (buffer, decoupling,
@@ -132,27 +132,27 @@ it "probably requires a deeper analysis of the nature of the slack"
   paraphrase. This lineage is consistent with it, slack being a rational
   choice over a production technology, but cannot confirm how the 2022
   paper draws the line.
-- **CLAIM-482 (an organization's revealed preference is fitted to one
+- **[CLAIM-482](../claims.d/CLAIM-482.md) (an organization's revealed preference is fitted to one
   regime of authority and does not predict a change of regime).**
   Qualifies. Bogetoft and Hougaard fit a single slack value function U(π,
   s) and use it across control regimes; in §1 they propose using the
   analysis "to predict more precisely the results of changes in the
   control instruments". That assumes the regime-invariant preference
-  CLAIM-482 denies for aggregate organizational preference. The paper
+  [CLAIM-482](../claims.d/CLAIM-482.md) denies for aggregate organizational preference. The paper
   offers no evidence on the point either way; it is an assumption, not a
   finding.
-- **CLAIM-089 (Rejected: the governing relations are revealed preferences
+- **[CLAIM-089](../claims.d/CLAIM-089.md) (Rejected: the governing relations are revealed preferences
   of the organization).** A related revealed-preference reading of an
   organization. Qualifies, weakly; nothing here bears on why it was
   rejected.
-- **TERM-055 (operational availability).** Unrelated: slack here is valued
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability).** Unrelated: slack here is valued
   as held, not deployed for a task.
-- **CLAIM-347 and the other codes the bibliography cites.** Unrelated: the
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and the other codes the bibliography cites.** Unrelated: the
   trade-off between kinds of slack is a value aggregation, not joint
   infeasibility of demands.
-- **LIT-1324** (Stigler, The Theory of Economic Regulation) is a different
+- **[LIT-1324](../literature.d/LIT-1324.md)** (Stigler, The Theory of Economic Regulation) is a different
   Stigler work.
-- Filed: THEORY-tmpj2rdc. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpj2rdc](../theory.d/THEORY-tmpj2rdc.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

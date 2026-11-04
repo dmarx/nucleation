@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  results chapters read 2026-11-04 (NOTE-tmp35hva, Skimmed) from the PDF in
+  results chapters read 2026-11-04 ([NOTE-tmp35hva](../notes.d/NOTE-tmp35hva.md), Skimmed) from the PDF in
   Georgia Tech's institutional repository, the author's institution; worth
-  reading as the precursor of Tatel & Ackerman (2025), LIT-tmpr53a0, which
+  reading as the precursor of Tatel & Ackerman (2025), [LIT-tmpr53a0](LIT-tmpr53a0.md), which
   stands unfetched, and as the most detailed account of its method: a
   meta-regression over 457 sources with retention interval as a continuous
   predictor, finding procedural skill declining linearly by 0.08 SD a month
@@ -76,7 +76,7 @@ Tatel, C. E. (2023). *A Meta-Analytic Investigation of Procedural Skill Retentio
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp35hva. Page numbers are the dissertation's.*
+*From the reading, [NOTE-tmp35hva](../notes.d/NOTE-tmp35hva.md). Page numbers are the dissertation's.*
 
 - **Linear decline.** The effect size "generally increases in magnitude
   by 0.08 per month of infrequent use" for accuracy (p. 70); −0.06 for
@@ -94,7 +94,7 @@ Tatel, C. E. (2023). *A Meta-Analytic Investigation of Procedural Skill Retentio
 
 ## Standing in the record
 
-Registered as the stand-in for Tatel & Ackerman (2025), LIT-tmpr53a0, whose
+Registered as the stand-in for Tatel & Ackerman (2025), [LIT-tmpr53a0](LIT-tmpr53a0.md), whose
 APA copy could not be fetched. It is that article's precursor: the same
 design, moderators, confounds and 457 sources, and the same slopes. It
 differs in its count of effect sizes (1,352 coded, against the article's
@@ -106,5 +106,5 @@ For the pasted bibliography's theme, maintaining capabilities that are
 rarely exercised, it supplies the premise that individual procedural skill
 decays with non-use at a measurable rate, and slower with occasional
 practice. It says nothing about organizations, or about measuring a
-capability by how often it is used. Filed from it: THEORY-tmpsm9h9. No
+capability by how often it is used. Filed from it: [THEORY-tmpsm9h9](../theory.d/THEORY-tmpsm9h9.md). No
 instruction for machine-learning practice; nothing for the anthology.

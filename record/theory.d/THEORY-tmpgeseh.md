@@ -11,7 +11,7 @@ date: '2026-11-04'
 source:
 - LIT-tmptozb9
 summary: >-
-  Jordan and Graves (1995), LIT-tmpaku09, unread, as reported by Chou, Chua, Teo and Zheng (2010), LIT-tmptozb9, skimmed in NOTE-tmpsnl7o (§§1–2, Theorems 1–2, §§5–6). Jordan and Graves found it by simulation (about 95% in a 10 by 10 example); Chou et al. prove it asymptotically for balanced, independent demand (at least 89% for uniform, about 96% for normal). Proposed until the original is read. It does not hold for every demand: with correlated demand a sparse structure can serve almost none of it.
+  Jordan and Graves (1995), [LIT-tmpaku09](../literature.d/LIT-tmpaku09.md), unread, as reported by Chou, Chua, Teo and Zheng (2010), [LIT-tmptozb9](../literature.d/LIT-tmptozb9.md), skimmed in [NOTE-tmpsnl7o](../notes.d/NOTE-tmpsnl7o.md) (§§1–2, Theorems 1–2, §§5–6). Jordan and Graves found it by simulation (about 95% in a 10 by 10 example); Chou et al. prove it asymptotically for balanced, independent demand (at least 89% for uniform, about 96% for normal). Proposed until the original is read. It does not hold for every demand: with correlated demand a sparse structure can serve almost none of it.
 ---
 <!-- inactive-ok-file: LIT-tmpaku09 NOTE-tmpsnl7o — Unfetched or Skimmed, and new; the unread original and the reading of the neighbour that stands in for it, cited as open -->
 
@@ -19,7 +19,7 @@ summary: >-
 
 ## Source
 
-Jordan and Graves (1995), LIT-tmpaku09, the original, which was not read: the working-paper copies located at MIT DSpace and CORE could not be fetched. Sourced to Chou, Chua, Teo and Zheng (2010), LIT-tmptozb9, read in part in NOTE-tmpsnl7o, which stands in for it at the owner's request.
+Jordan and Graves (1995), [LIT-tmpaku09](../literature.d/LIT-tmpaku09.md), the original, which was not read: the working-paper copies located at MIT DSpace and CORE could not be fetched. Sourced to Chou, Chua, Teo and Zheng (2010), [LIT-tmptozb9](../literature.d/LIT-tmptozb9.md), read in part in [NOTE-tmpsnl7o](../notes.d/NOTE-tmpsnl7o.md), which stands in for it at the owner's request.
 
 ## What was actually shown
 

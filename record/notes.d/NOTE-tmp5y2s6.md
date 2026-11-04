@@ -113,7 +113,7 @@ including Andersson and Värbrand (2007) and Lee's preparedness-based
 heuristics, which are among its nine comparators.
 
 As a stand-in for Nasrollahzadeh, Khademi and Mayorga (2018),
-LIT-tmpsdrz9:
+[LIT-tmpsdrz9](../literature.d/LIT-tmpsdrz9.md):
 
 - **It restates** that paper's problem class: selection of any available
   ambulance with the option to queue, joined to a reassignment decision,
@@ -138,24 +138,24 @@ LIT-tmpsdrz9:
   explicit price on keeping units free for calls that may never come. It
   says nothing of provisional dispatch followed by cancellation en route,
   though it allows a unit in transit to be redirected (p. 3).
-- **CLAIM-296 (has, knows it has, can deploy within a deadline).**
+- **[CLAIM-296](../claims.d/CLAIM-296.md) (has, knows it has, can deploy within a deadline).**
   Supports. Preparedness is defined over deployable supply at a station;
   a busy unit adds nothing to it.
-- **TERM-055 (operational availability).** Qualifies. ψ̄ is a fleet-level,
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability).** Qualifies. ψ̄ is a fleet-level,
   steady-state counterpart of α, the long-run rate at which calls find no
   suitable unit, not the chance that a given agent deploys a given
   resource before a deadline under a cue; the cue enters only as
   emergency type. Citing it as an instance would need a fleet extension
   of the term.
-- **CLAIM-517 (viability at boundary contexts).** Qualifies, by analogy.
+- **[CLAIM-517](../claims.d/CLAIM-517.md) (viability at boundary contexts).** Qualifies, by analogy.
   The authors' caveat that the metric is inaccurate when demand is large
   relative to supply makes it least reliable in the high-load contexts
   that matter most.
-- **CLAIM-535 (observation-relative acceptable policies).** Qualifies, by
+- **[CLAIM-535](../claims.d/CLAIM-535.md) (observation-relative acceptable policies).** Qualifies, by
   analogy. Selection is made on the emergency type as the dispatcher
   classifies it.
-- **CLAIM-079, CLAIM-347, QUESTION-132.** Unrelated.
-- Filed: THEORY-tmpnqoln. No instruction for machine-learning practice;
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [QUESTION-132](../questions.d/QUESTION-132.md).** Unrelated.
+- Filed: [THEORY-tmpnqoln](../theory.d/THEORY-tmpnqoln.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

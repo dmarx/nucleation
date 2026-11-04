@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpzgqov) from the authors' manuscript of
+  read in full 2026-11-04 ([NOTE-tmpzgqov](../notes.d/NOTE-tmpzgqov.md)) from the authors' manuscript of
   1999-09-05, posted on Rockafellar's own publications page at the
   University of Washington, not the typeset journal version; worth reading
   as the paper that turns conditional value-at-risk from a quantity defined
@@ -74,7 +74,7 @@ Rockafellar, R. T. & Uryasev, S. (2000). Optimization of conditional value-at-ri
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpzgqov. Page numbers are the 1999 manuscript's, not the journal's.*
+*From the reading, [NOTE-tmpzgqov](../notes.d/NOTE-tmpzgqov.md). Page numbers are the 1999 manuscript's, not the journal's.*
 
 - **CVaR without VaR first.** For fixed x, F_β(x, α) "is convex and
   continuously differentiable" in α (Theorem 1, p. 5), and its minimum is
@@ -103,6 +103,6 @@ or simulable distribution and a fixed β. It says nothing about rarely
 exercised capabilities, readiness or slack; to value capacity kept for rare
 events with it, one has to supply the loss of a capacity decision in every
 scenario and sample the rare ones, which the paper's own slow convergence at
-β = 0.99 warns about. Its nearest held neighbour is LIT-1975 (adjustable
+β = 0.99 warns about. Its nearest held neighbour is [LIT-1975](LIT-1975.md) (adjustable
 robust linear programming), the worst-case rival to its tail-expectation
-treatment in the same machinery. Filed from it: THEORY-tmpeqky9.
+treatment in the same machinery. Filed from it: [THEORY-tmpeqky9](../theory.d/THEORY-tmpeqky9.md).

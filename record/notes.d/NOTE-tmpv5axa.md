@@ -104,7 +104,7 @@ simulated skills the evidence is two small studies.
 
 ## Connections
 
-**Against Patocka et al., LIT-tmps018e, known only from its abstract:**
+**Against Patocka et al., [LIT-tmps018e](../literature.d/LIT-tmps018e.md), known only from its abstract:**
 
 - *Restates:* the comparison of spaced with massed simulation training
   for health professionals; skills outcomes for surgical tasks;
@@ -128,14 +128,14 @@ simulated skills the evidence is two small studies.
   work. As a neighbour of Patocka, which A files under maintaining
   capabilities that are rarely exercised, it shows that neither review
   concerns long non-use: both are about scheduling initial training.
-- **CLAIM-422:** tangential. Behaviour change is measured here only for
+- **[CLAIM-422](../claims.d/CLAIM-422.md):** tangential. Behaviour change is measured here only for
   online education, and found to improve.
-- **TERM-055, CLAIM-079, CLAIM-347, CLAIM-517, QUESTION-132** and the
+- **[TERM-055](../terms.d/TERM-055.md), [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md)** and the
   LITs A listed: unrelated.
 - The record holds nothing else on spacing effects, massed and
-  distributed practice, or retrieval practice; LIT-1059 is the nearest
+  distributed practice, or retrieval practice; [LIT-1059](../literature.d/LIT-1059.md) is the nearest
   and is unrelated to scheduling.
-- Filed: THEORY-tmpavfyh. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpavfyh](../theory.d/THEORY-tmpavfyh.md). No instruction for machine-learning practice.
 
 ## Limitations
 

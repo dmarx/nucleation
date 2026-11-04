@@ -17,7 +17,7 @@ source:
 - LIT-tmpsiib1
 summary: >-
   Bogetoft and Hougaard (2001, revised 2002; J. Productivity Analysis
-  2003), LIT-tmpsiib1, read in part in NOTE-tmpb2xb9. Proposed: the
+  2003), [LIT-tmpsiib1](../literature.d/LIT-tmpsiib1.md), read in part in [NOTE-tmpb2xb9](../notes.d/NOTE-tmpb2xb9.md). Proposed: the
   propositions were read as stated, without checking their proofs; the
   parameterized aggregators were skimmed and the applications not read;
   and there is no application to data. That inefficiency can be a choice
@@ -30,8 +30,8 @@ summary: >-
 ## Source
 
 Bogetoft and Hougaard, Rational Inefficiencies (KVL working paper 2001/14,
-revised 2002), LIT-tmpsiib1; read in part in NOTE-tmpb2xb9. Registered as a
-stand-in for Bogetoft and Kerstens (2022), LIT-tmpk02sl.
+revised 2002), [LIT-tmpsiib1](../literature.d/LIT-tmpsiib1.md); read in part in [NOTE-tmpb2xb9](../notes.d/NOTE-tmpb2xb9.md). Registered as a
+stand-in for Bogetoft and Kerstens (2022), [LIT-tmpk02sl](../literature.d/LIT-tmpk02sl.md).
 
 ## What was actually shown
 

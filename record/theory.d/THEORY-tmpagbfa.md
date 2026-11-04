@@ -18,7 +18,7 @@ date: '2026-11-04'
 source:
 - LIT-tmprfb8b
 summary: >-
-  Erkut, Ingolfsson and Erdoğan (2008), LIT-tmprfb8b, read in NOTE-tmp241k1.
+  Erkut, Ingolfsson and Erdoğan (2008), [LIT-tmprfb8b](../literature.d/LIT-tmprfb8b.md), read in [NOTE-tmp241k1](../notes.d/NOTE-tmp241k1.md).
   Proposed: the comparisons are the paper's own, on one city's data, with
   survival functions for cardiac arrest assumed for all urgent calls and a
   non-optimal heuristic for the richest models. The account is about
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Erkut, Ingolfsson and Erdoğan (2008), LIT-tmprfb8b; read in NOTE-tmp241k1.
+Erkut, Ingolfsson and Erdoğan (2008), [LIT-tmprfb8b](../literature.d/LIT-tmprfb8b.md); read in [NOTE-tmp241k1](../notes.d/NOTE-tmp241k1.md).
 
 ## What was actually shown
 

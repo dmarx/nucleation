@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmpb2xb9, Skimmed) from the 2001 working
+  read in part 2026-11-04 ([NOTE-tmpb2xb9](../notes.d/NOTE-tmpb2xb9.md), Skimmed) from the 2001 working
   paper, revised July 2002, deposited in AgEcon Search (§§1–5 and §8 read,
   §6 to Proposition 3, §7 skipped); worth reading as the case that measured
   technical inefficiency can be a rational choice of on-the-job slack, with
   the organizational motives for slack, and as a revealed-preference way of
   reading an organization's slack trade-offs from its input use. Registered
-  as a stand-in for Bogetoft and Kerstens (2022), LIT-tmpk02sl, whose
+  as a stand-in for Bogetoft and Kerstens (2022), [LIT-tmpk02sl](LIT-tmpk02sl.md), whose
   premise it states and whose results it does not. Its main limits: a
   single aggregate value function whose owner is left open, convexity
   needed for key results, only partial identification without parametric
@@ -80,7 +80,7 @@ Bogetoft, P. & Hougaard, J. L. (2002). Rational Inefficiencies. Unit of Economic
 
 ## Key takeaways
 
-*From the partial reading, NOTE-tmpb2xb9. Page numbers are the working paper's PDF pages; ligatures restored in quotes.*
+*From the partial reading, [NOTE-tmpb2xb9](../notes.d/NOTE-tmpb2xb9.md). Page numbers are the working paper's PDF pages; ligatures restored in quotes.*
 
 - **Slack as choice.** "we see inefficiency and in particular the
   allocation of inefficiency (slack) among different inputs as the result
@@ -97,10 +97,10 @@ Bogetoft, P. & Hougaard, J. L. (2002). Rational Inefficiencies. Unit of Economic
 
 ## Standing in the record
 
-Registered as a stand-in for Bogetoft and Kerstens (2022), LIT-tmpk02sl,
+Registered as a stand-in for Bogetoft and Kerstens (2022), [LIT-tmpk02sl](LIT-tmpk02sl.md),
 which could not be fetched. It gives that paper's conceptual ancestry: slack
 as rationally chosen and valued, and the organizational motives for it
 (buffer, decoupler, resource for innovation). It does not give that paper's
-results. Its fitting of a regime-invariant value function meets CLAIM-482
-on the point that claim denies. Filed from it: THEORY-tmpj2rdc. No
+results. Its fitting of a regime-invariant value function meets [CLAIM-482](../claims.d/CLAIM-482.md)
+on the point that claim denies. Filed from it: [THEORY-tmpj2rdc](../theory.d/THEORY-tmpj2rdc.md). No
 instruction for machine-learning practice; nothing for the anthology.

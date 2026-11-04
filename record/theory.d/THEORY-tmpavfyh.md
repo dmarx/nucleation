@@ -15,8 +15,8 @@ date: '2026-11-04'
 source:
 - LIT-tmpu5jbd
 summary: >-
-  Martinengo, Ng, Ng, Ang, Jabir, Kyaw & Tudor Car (2024), LIT-tmpu5jbd,
-  read in NOTE-tmpv5axa: 23 trials, immediate post-intervention outcomes.
+  Martinengo, Ng, Ng, Ang, Jabir, Kyaw & Tudor Car (2024), [LIT-tmpu5jbd](../literature.d/LIT-tmpu5jbd.md),
+  read in [NOTE-tmpv5axa](../notes.d/NOTE-tmpv5axa.md): 23 trials, immediate post-intervention outcomes.
   It does not say that spacing improves retention of skills over months,
   nor anything about long non-use; and for simulation the abstract and
   body give different pooled estimates (SMD 1.15 and 1.24). Proposed: one
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Martinengo et al. (2024), LIT-tmpu5jbd; read in NOTE-tmpv5axa.
+Martinengo et al. (2024), [LIT-tmpu5jbd](../literature.d/LIT-tmpu5jbd.md); read in [NOTE-tmpv5axa](../notes.d/NOTE-tmpv5axa.md).
 
 ## What was actually shown
 

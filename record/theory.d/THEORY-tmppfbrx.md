@@ -11,7 +11,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpf2bau
 summary: >-
-  Halfin and Whitt (1981), LIT-tmpodkh1, unread, as reported by the tutorial of van Leeuwaarden, Mathijsen and Zwart (2019), LIT-tmpf2bau, skimmed in NOTE-tmpbp6yl (§§1, 2.1, 3, 4). The tutorial states both results in formulas and attributes them to Halfin and Whitt, without their proofs. Proposed until the original is read. It does not say that capacity sized to mean demand is wrong in every regime, nor that the headroom is idle: utilization tends to one.
+  Halfin and Whitt (1981), [LIT-tmpodkh1](../literature.d/LIT-tmpodkh1.md), unread, as reported by the tutorial of van Leeuwaarden, Mathijsen and Zwart (2019), [LIT-tmpf2bau](../literature.d/LIT-tmpf2bau.md), skimmed in [NOTE-tmpbp6yl](../notes.d/NOTE-tmpbp6yl.md) (§§1, 2.1, 3, 4). The tutorial states both results in formulas and attributes them to Halfin and Whitt, without their proofs. Proposed until the original is read. It does not say that capacity sized to mean demand is wrong in every regime, nor that the headroom is idle: utilization tends to one.
 ---
 <!-- inactive-ok-file: LIT-tmpodkh1 NOTE-tmpbp6yl — Unavailable or Skimmed, and new; the unread original and the reading of the tutorial that stands in for it, cited as open -->
 
@@ -19,7 +19,7 @@ summary: >-
 
 ## Source
 
-Halfin and Whitt (1981), LIT-tmpodkh1, the original, which was not read: no lawful copy was located, and Whitt's own site returned HTTP 403. Sourced to the tutorial of van Leeuwaarden, Mathijsen and Zwart (2019), LIT-tmpf2bau, read in part in NOTE-tmpbp6yl, which stands in for it at the owner's request.
+Halfin and Whitt (1981), [LIT-tmpodkh1](../literature.d/LIT-tmpodkh1.md), the original, which was not read: no lawful copy was located, and Whitt's own site returned HTTP 403. Sourced to the tutorial of van Leeuwaarden, Mathijsen and Zwart (2019), [LIT-tmpf2bau](../literature.d/LIT-tmpf2bau.md), read in part in [NOTE-tmpbp6yl](../notes.d/NOTE-tmpbp6yl.md), which stands in for it at the owner's request.
 
 ## What was actually shown
 

@@ -16,8 +16,8 @@ date: '2026-11-04'
 source:
 - LIT-tmp07mjg
 summary: >-
-  Oskar, Prehoda, Sapp, Qi, Botticelli & Palaganas (2026), LIT-tmp07mjg,
-  read in NOTE-tmpw1i6o: a scoping review of 37 studies, with descriptive
+  Oskar, Prehoda, Sapp, Qi, Botticelli & Palaganas (2026), [LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md),
+  read in [NOTE-tmpw1i6o](../notes.d/NOTE-tmpw1i6o.md): a scoping review of 37 studies, with descriptive
   counts and no quality appraisal. It does not say that emergency
   procedural skills decay at any particular rate, or that they decay more
   than other clinicians' skills; it gives no rates at all. Its closing
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Oskar et al. (2026), LIT-tmp07mjg; read in NOTE-tmpw1i6o.
+Oskar et al. (2026), [LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md); read in [NOTE-tmpw1i6o](../notes.d/NOTE-tmpw1i6o.md).
 
 ## What was actually shown
 

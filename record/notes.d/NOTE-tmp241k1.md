@@ -121,7 +121,7 @@ MEXCLP, their probabilistic-response versions, and Larson's hypercube in
 its approximate form, used for evaluation. The medical survival functions
 come from the cardiac-arrest literature.
 
-As a stand-in for McLay and Mayorga (2010), LIT-tmprh2zk:
+As a stand-in for McLay and Mayorga (2010), [LIT-tmprh2zk](../literature.d/LIT-tmprh2zk.md):
 
 - **It restates** the shared idea: a response-time standard is a proxy for
   survival, and locating to maximize the proxy can differ from locating to
@@ -148,23 +148,23 @@ As a stand-in for McLay and Mayorga (2010), LIT-tmprh2zk:
   Table 6 a sufficiently realistic proxy model attains the best-known
   survival value, so the gap is a property of crude proxies, not of
   proxies as such.
-- **CLAIM-296 (has, knows it has, can deploy within a deadline).**
+- **[CLAIM-296](../claims.d/CLAIM-296.md) (has, knows it has, can deploy within a deadline).**
   Supports. In MEXCLP a unit at a station counts only with the probability
   that it is free; a station's ambulance is not a deployable one.
-- **TERM-055 (operational availability).** Qualifies. Coverage, P(response
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability).** Qualifies. Coverage, P(response
   ≤ τ), is a fleet-level α with a fixed deadline; the survival function
   replaces the hard deadline with a graded value of time, which the
   term's "before the deadline" does not cover.
-- **LIT-1330 (Espeland and Sauder, rankings and reactivity).** Qualifies.
+- **[LIT-1330](../literature.d/LIT-1330.md) (Espeland and Sauder, rankings and reactivity).** Qualifies.
   That work concerns measures that change the behaviour they measure;
   this one a proxy objective that selects a different optimum, with no
   reactivity.
-- **CLAIM-357 (residual and regret; aggregate performance does not tell
+- **[CLAIM-357](../claims.d/CLAIM-357.md) (residual and regret; aggregate performance does not tell
   infeasibility from violation).** Qualifies, loosely. Both warn against
   reading the sought quantity off a convenient aggregate; there is no
   formal link.
-- **CLAIM-079, CLAIM-347, CLAIM-517, QUESTION-132.** Unrelated.
-- Filed: THEORY-tmpagbfa. No instruction for machine-learning practice;
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md).** Unrelated.
+- Filed: [THEORY-tmpagbfa](../theory.d/THEORY-tmpagbfa.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

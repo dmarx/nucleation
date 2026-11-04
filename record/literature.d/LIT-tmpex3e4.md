@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmp4f0ld, Skimmed) from the published PDF
+  read in part 2026-11-04 ([NOTE-tmp4f0ld](../notes.d/NOTE-tmp4f0ld.md), Skimmed) from the published PDF
   on the first author's MIT CSAIL page; worth reading as the standard
   restatement, for an AI readership, of the operations-research theory of
   partially observable Markov decision processes: the belief state as a
@@ -9,7 +9,7 @@ status_note: >-
   piecewise-linear convex finite-horizon value function, and the tiger
   problem, in which a costly, noisy information action is valued inside the
   model. Registered as the stand-in for Smallwood and Sondik (1973),
-  LIT-tmp7m16t, whose core finite-horizon results it restates. Its main
+  [LIT-tmp7m16t](LIT-tmp7m16t.md), whose core finite-horizon results it restates. Its main
   limits: enumerated rather than factored states, a known model, and exact
   solution intractable in general.
 title: 'Planning and acting in partially observable stochastic domains'
@@ -68,7 +68,7 @@ Kaelbling, L. P., Littman, M. L. & Cassandra, A. R. (1998). Planning and acting 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp4f0ld. Page numbers are the journal's.*
+*From the reading, [NOTE-tmp4f0ld](../notes.d/NOTE-tmp4f0ld.md). Page numbers are the journal's.*
 
 - **The belief state is a sufficient statistic** "for the past history and
   initial belief state of the agent" (§3.2, p. 106), citing Smallwood and
@@ -87,11 +87,11 @@ Kaelbling, L. P., Littman, M. L. & Cassandra, A. R. (1998). Planning and acting 
 
 ## Standing in the record
 
-Registered as the stand-in for Smallwood and Sondik (1973), LIT-tmp7m16t,
+Registered as the stand-in for Smallwood and Sondik (1973), [LIT-tmp7m16t](LIT-tmp7m16t.md),
 which the pasted bibliography on emergency readiness cites and which could
 not be found. It restates that paper's core finite-horizon results in the
 same framework, but derives the piecewise-linear convex value function
 itself and gives none of the original's own algorithm, proofs or examples.
-Filed from it: THEORY-tmphj1kw. It is the standard formal reference for the
-structure of CASE-153 (a hidden binary state and a costly, noisy
+Filed from it: [THEORY-tmphj1kw](../theory.d/THEORY-tmphj1kw.md). It is the standard formal reference for the
+structure of [CASE-153](../cases.d/CASE-153.md) (a hidden binary state and a costly, noisy
 inspection).

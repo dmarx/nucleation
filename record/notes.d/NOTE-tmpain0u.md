@@ -106,8 +106,8 @@ department actually dispatched to.
 
 A page of USFA's NFIRS coding help, listed under its Basic Module, Coding
 and Data Quality topics. It sits beside the record's other fire-service
-material: CASE-135 (the Brookhollow Apartments fire), its review LIT-1374,
-and the National Incident Management System, LIT-1365. It does not
+material: [CASE-135](../cases.d/CASE-135.md) (the Brookhollow Apartments fire), its review [LIT-1374](../literature.d/LIT-1374.md),
+and the National Incident Management System, [LIT-1365](../literature.d/LIT-1365.md). It does not
 mention NFIRS's successor system, which was not checked.
 
 ## Bearing on the record
@@ -140,26 +140,26 @@ mention NFIRS's successor system, which was not checked.
   records committed but unused units, but a failure to respond for lack
   of resources, the case most relevant to readiness, is exactly the one
   it leaves out of the incident data.
-- **CLAIM-296 (has, knows it has, can deploy within a deadline).**
+- **[CLAIM-296](../claims.d/CLAIM-296.md) (has, knows it has, can deploy within a deadline).**
   Supports, at the level of reporting: the page separates resources
   assigned, arrived and cancelled en route, and excludes resources the
   department did not have.
-- **CASE-085 (the medication in the ambulance).** Supports the same
+- **[CASE-085](../cases.d/CASE-085.md) (the medication in the ambulance).** Supports the same
   distinctions, in a different domain and mechanism; not the same point.
-- **TERM-055 (operational availability).** Qualifies. A cancelled unit
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability).** Qualifies. A cancelled unit
   was dispatched in time but its α was never tested by arrival; NFIRS
   records the dispatch, not α.
-- **CLAIM-535 (observation-relative acceptable policies).** Supports, by
+- **[CLAIM-535](../claims.d/CLAIM-535.md) (observation-relative acceptable policies).** Supports, by
   analogy: the initial dispatch is chosen on the information dispatch
   provides and revised once the engine observes the scene, a coarser then
   a finer observation.
-- **CLAIM-414 (matched ordinary trajectories conceal differences in
+- **[CLAIM-414](../claims.d/CLAIM-414.md) (matched ordinary trajectories conceal differences in
   maintained constraints).** Qualifies: a call cancelled en route is an
   ordinary trajectory in which the rescue capability was never exercised.
   The page itself claims nothing about capability.
-- **CASE-135, LIT-1374, LIT-1365.** Related domain, not the same point. A
-  CASE built on this page would sit beside CASE-135.
-- **CLAIM-079, CLAIM-347, CLAIM-517, QUESTION-132.** Unrelated.
+- **[CASE-135](../cases.d/CASE-135.md), [LIT-1374](../literature.d/LIT-1374.md), [LIT-1365](../literature.d/LIT-1365.md).** Related domain, not the same point. A
+  CASE built on this page would sit beside [CASE-135](../cases.d/CASE-135.md).
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md).** Unrelated.
 - **No THEORY filed.** The page prescribes how to record; it states no
   account of what is true about readiness or cancellation, and a THEORY
   restating its rules would only say that the page says them. It is better

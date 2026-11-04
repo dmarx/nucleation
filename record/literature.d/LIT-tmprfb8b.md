@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmp241k1) from the accepted preprint of
+  read in full 2026-11-04 ([NOTE-tmp241k1](../notes.d/NOTE-tmp241k1.md)) from the accepted preprint of
   November 2007 posted on the second author's University of Alberta page;
   worth reading as the argument, with a pathological example, that 0–1
   coverage within a time standard is a poor proxy for the real objective
@@ -14,7 +14,7 @@ status_note: >-
   survival functions for cardiac arrest only, assumed to hold for all
   urgent calls; static location models with no dispatch or relocation;
   one city. Filed as a stand-in for McLay and Mayorga (2010),
-  LIT-tmprh2zk, for the shared idea only; it partly pulls against that
+  [LIT-tmprh2zk](LIT-tmprh2zk.md), for the shared idea only; it partly pulls against that
   paper's headline.
 title: 'Ambulance location for maximum survival'
 version: 1
@@ -71,7 +71,7 @@ Erkut, E., Ingolfsson, A. & Erdoğan, G. (2008). Ambulance location for maximum 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp241k1. Page numbers are the preprint's.*
+*From the reading, [NOTE-tmp241k1](../notes.d/NOTE-tmp241k1.md). Page numbers are the preprint's.*
 
 - **Coverage is a proxy.** "We will take as given that the real objective
   for an EMS system is to maximize the number of patients that survive and
@@ -91,7 +91,7 @@ Erkut, E., Ingolfsson, A. & Erdoğan, G. (2008). Ambulance location for maximum 
 ## Standing in the record
 
 Filed at the owner's request as a stand-in for McLay and Mayorga (2010),
-LIT-tmprh2zk, which could not be read. It stands in for the shared idea,
+[LIT-tmprh2zk](LIT-tmprh2zk.md), which could not be read. It stands in for the shared idea,
 that a response-time standard is a proxy for survival and that locating
 for the proxy can differ from locating for survivors, and states it more
 strongly than that paper's abstract. It does not stand in for McLay and
@@ -101,4 +101,4 @@ partly pulls against them: it argues that standard coverage models
 reports thresholds whose optimum is the survival optimum. Its own Table 6
 softens the difference: coverage with response-time randomness or busy
 probabilities reaches the best-known survival value. Filed from it:
-THEORY-tmpagbfa.
+[THEORY-tmpagbfa](../theory.d/THEORY-tmpagbfa.md).

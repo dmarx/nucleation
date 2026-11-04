@@ -102,7 +102,7 @@ information" (§1, p. 100).
 
 ## Connections
 
-Registered as the stand-in for Smallwood and Sondik (1973), LIT-tmp7m16t,
+Registered as the stand-in for Smallwood and Sondik (1973), [LIT-tmp7m16t](../literature.d/LIT-tmp7m16t.md),
 which could not be found. Of that paper's results it restates:
 
 - the belief state as a sufficient statistic, cited jointly to Smallwood and
@@ -118,25 +118,25 @@ It does not restate the original's algorithm in detail, its proofs, its
 notation or reward conventions, or any example or application in it.
 
 Held entries using the same belief-state formalism, none of them the OR
-source: NOTE-454 and NOTE-1138 (active inference), NOTE-1549 on LIT-2013
-(rational attribution of beliefs), and NOTE-1141, NOTE-1151 and NOTE-1154
-(multi-agent reinforcement learning). NOTE-1372 (computational mechanics)
+source: [NOTE-454](NOTE-454.md) and [NOTE-1138](NOTE-1138.md) (active inference), [NOTE-1549](NOTE-1549.md) on [LIT-2013](../literature.d/LIT-2013.md)
+(rational attribution of beliefs), and [NOTE-1141](NOTE-1141.md), [NOTE-1151](NOTE-1151.md) and [NOTE-1154](NOTE-1154.md)
+(multi-agent reinforcement learning). [NOTE-1372](NOTE-1372.md) (computational mechanics)
 is adjacent: its causal states are the observer's minimal sufficient
-statistic of the past, without control. NOTE-1370 (semantic information)
+statistic of the past, without control. [NOTE-1370](NOTE-1370.md) (semantic information)
 also values information by its effect on a system's viability.
 
 ## Bearing on the record
 
-- **CASE-153** (the self-protecting sentry): supports. Its hidden binary
+- **[CASE-153](../cases.d/CASE-153.md)** (the self-protecting sentry): supports. Its hidden binary
   world and costly inspection that reveals the state with 90% accuracy is
   the tiger problem's structure, and this paper is the standard formal
   reference for it.
-- **CLAIM-520** (the value of keeping a corrective capacity is conditional
+- **[CLAIM-520](../claims.d/CLAIM-520.md)** (the value of keeping a corrective capacity is conditional
   on cost and use): qualifies. In a POMDP an audit is an information action
   whose value the model computes from cost and consequence, in the sense
   of the value-of-information passage (p. 111), so the claim's conditional
   value falls out of a standard model rather than needing a special one.
-- **TERM-055** (operational availability, given the cue it actually has,
+- **[TERM-055](../terms.d/TERM-055.md)** (operational availability, given the cue it actually has,
   before the deadline): qualifies. Its "given the cue it actually has"
   matches the belief state and its "before the deadline" a finite horizon, but a POMDP value is an
   expected reward under a belief, not a probability of timely deployment.
@@ -163,4 +163,4 @@ also values information by its effect on a system's viability.
 
 Whether Smallwood and Sondik's own paper states the piecewise-linear
 convexity result as this paper derives it, and whether it treats any
-application, can only be settled by reading LIT-tmp7m16t.
+application, can only be settled by reading [LIT-tmp7m16t](../literature.d/LIT-tmp7m16t.md).

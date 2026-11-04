@@ -123,7 +123,7 @@ Page numbers are the journal's.
 ## Connections
 
 - **What it restates of Freixas, Guesnerie and Tirole (1985),
-  LIT-tmpfzy5q.** Only the phenomenon and the setting: a principal who
+  [LIT-tmpfzy5q](../literature.d/LIT-tmpfzy5q.md).** Only the phenomenon and the setting: a principal who
   cannot commit to future terms revises them on what performance reveals,
   so a productive agent mimics an unproductive one, and screening suffers.
   It names that paper once (p. 585), among the two-period papers, and
@@ -153,22 +153,22 @@ Page numbers are the journal's.
   relationship, not planning or budgeting, and has nothing on capabilities
   kept for rare events; carrying it to A's proposition, that measuring
   maintained abilities by use can destroy them, is an analogy.
-- **CASE-128 (the voluntary delegation), with LIT-586, THEORY-067 and
-  LIT-1389.** Qualifies, by analogy. Those concern one agent unable to
+- **[CASE-128](../cases.d/CASE-128.md) (the voluntary delegation), with [LIT-586](../literature.d/LIT-586.md), [THEORY-067](../theory.d/THEORY-067.md) and
+  [LIT-1389](../literature.d/LIT-1389.md).** Qualifies, by analogy. Those concern one agent unable to
   commit over time; here a principal cannot commit to future terms. The
   structure is shared: limited commitment makes revealed information
   costly to the party who reveals it. The parties differ.
-- **CLAIM-357 and CLAIM-365 (governance regret).** Qualifies, loosely.
+- **[CLAIM-357](../claims.d/CLAIM-357.md) and [CLAIM-365](../claims.d/CLAIM-365.md) (governance regret).** Qualifies, loosely.
   Both concern a governor revising what it asks of others; the ratchet
   adds a subordinate who anticipates the revision, which those claims do
   not have.
-- **LIT-1330 (rankings and reactivity) and LIT-1336 (performative
+- **[LIT-1330](../literature.d/LIT-1330.md) (rankings and reactivity) and [LIT-1336](../literature.d/LIT-1336.md) (performative
   prediction).** Qualify, as accounts of measured parties reacting to how
   the measurement will be used; neither has the strategic hiding motive.
-- **TERM-055, CLAIM-079, CLAIM-347, CLAIM-517, QUESTION-132**: unrelated.
-  QUESTION-132 asks about specialists with positive growth when rare, not
+- **[TERM-055](../terms.d/TERM-055.md), [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md)**: unrelated.
+  [QUESTION-132](../questions.d/QUESTION-132.md) asks about specialists with positive growth when rare, not
   A's gloss.
-- Filed: THEORY-tmp6sg3n. Nothing for the anthology.
+- Filed: [THEORY-tmp6sg3n](../theory.d/THEORY-tmp6sg3n.md). Nothing for the anthology.
 
 ## Limitations
 

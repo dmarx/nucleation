@@ -12,7 +12,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpex3e4
 summary: >-
-  Smallwood and Sondik (1973), LIT-tmp7m16t, unread, as restated by Kaelbling, Littman and Cassandra (1998), LIT-tmpex3e4, skimmed in NOTE-tmp4f0ld (§§3, 4.1–4.3, 4.5–4.6, 5.1–5.2). The neighbour cites Smallwood and Sondik, with one other work, for the sufficiency of the belief state, and derives the piecewise-linear convex value itself in the same framework; it credits Sondik with the first exact finite-horizon algorithm. Proposed until the original is read. It does not say that the finitely many pieces are few: exact solution is exponential in the worst case, and the infinite-horizon value may have infinitely many facets.
+  Smallwood and Sondik (1973), [LIT-tmp7m16t](../literature.d/LIT-tmp7m16t.md), unread, as restated by Kaelbling, Littman and Cassandra (1998), [LIT-tmpex3e4](../literature.d/LIT-tmpex3e4.md), skimmed in [NOTE-tmp4f0ld](../notes.d/NOTE-tmp4f0ld.md) (§§3, 4.1–4.3, 4.5–4.6, 5.1–5.2). The neighbour cites Smallwood and Sondik, with one other work, for the sufficiency of the belief state, and derives the piecewise-linear convex value itself in the same framework; it credits Sondik with the first exact finite-horizon algorithm. Proposed until the original is read. It does not say that the finitely many pieces are few: exact solution is exponential in the worst case, and the infinite-horizon value may have infinitely many facets.
 ---
 <!-- inactive-ok-file: LIT-tmp7m16t NOTE-tmp4f0ld — Unavailable or Skimmed, and new; the unread original and the reading of the neighbour that stands in for it, cited as open -->
 
@@ -20,7 +20,7 @@ summary: >-
 
 ## Source
 
-Smallwood and Sondik (1973), LIT-tmp7m16t, the original, which was not read: no lawful copy was found. Sourced to Kaelbling, Littman and Cassandra (1998), LIT-tmpex3e4, read in part in NOTE-tmp4f0ld, which stands in for it at the owner's request.
+Smallwood and Sondik (1973), [LIT-tmp7m16t](../literature.d/LIT-tmp7m16t.md), the original, which was not read: no lawful copy was found. Sourced to Kaelbling, Littman and Cassandra (1998), [LIT-tmpex3e4](../literature.d/LIT-tmpex3e4.md), read in part in [NOTE-tmp4f0ld](../notes.d/NOTE-tmp4f0ld.md), which stands in for it at the owner's request.
 
 ## What was actually shown
 

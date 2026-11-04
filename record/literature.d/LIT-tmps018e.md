@@ -9,7 +9,7 @@ status_note: >-
   tried there; it is not in PMC (PMID 41347740); a web search on the
   title and authors found no preprint, author manuscript or institutional
   copy. Only the abstract (Crossref, Europe PMC) was read. Martinengo et
-  al. (2024), LIT-tmpu5jbd, read in full, is a neighbour, not a
+  al. (2024), [LIT-tmpu5jbd](LIT-tmpu5jbd.md), read in full, is a neighbour, not a
   substitute: it shares the comparison of spaced and massed simulation for
   health professionals, but measures immediate post-training results, not
   retention, so it cannot stand in for this review's retention finding.
@@ -93,7 +93,7 @@ used capability over long non-use or about refresher training; it bears
 on A's theme only as evidence on how training schedules affect retention.
 The record held nothing on spacing effects before this filing.
 
-**The neighbour.** Martinengo et al. (2024), LIT-tmpu5jbd, an independent
+**The neighbour.** Martinengo et al. (2024), [LIT-tmpu5jbd](LIT-tmpu5jbd.md), an independent
 Cochrane-method review of spaced digital education for health
 professionals, read in full, stands in only partly. It shares the
 comparison of spaced with massed simulation, the surgical skills
@@ -105,6 +105,6 @@ post-training results only. Its pooled simulation result favours spacing
 effective", and its scope differs (digital or high-fidelity simulation
 only, and RCT designs, but also online education). Cite this review's
 results only from its abstract until it is read. Filed from the neighbour:
-THEORY-tmpavfyh.
+[THEORY-tmpavfyh](../theory.d/THEORY-tmpavfyh.md).
 
 No instruction for machine-learning practice; nothing for the anthology.

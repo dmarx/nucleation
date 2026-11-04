@@ -16,8 +16,8 @@ date: '2026-11-04'
 source:
 - LIT-tmp4kmcg
 summary: >-
-  Liebman and Mahoney (NBER 2013; AER 2017), LIT-tmp4kmcg, read in
-  NOTE-tmp09iyo. Proposed: the model derives the mechanism; the spike
+  Liebman and Mahoney (NBER 2013; AER 2017), [LIT-tmp4kmcg](../literature.d/LIT-tmp4kmcg.md), read in
+  [NOTE-tmp09iyo](../notes.d/NOTE-tmp09iyo.md). Proposed: the model derives the mechanism; the spike
   and the quality drop are shown in US federal procurement only, the
   quality drop on rated I.T. projects only; the rollover effect on
   volume rests on one agency's authority, its effect on quality on one
@@ -30,7 +30,7 @@ summary: >-
 ## Source
 
 Liebman and Mahoney (NBER Working Paper 19481, 2013; AER 2017),
-LIT-tmp4kmcg; read in NOTE-tmp09iyo.
+[LIT-tmp4kmcg](../literature.d/LIT-tmp4kmcg.md); read in [NOTE-tmp09iyo](../notes.d/NOTE-tmp09iyo.md).
 
 ## What was actually shown
 
@@ -62,4 +62,4 @@ LIT-tmp4kmcg; read in NOTE-tmp09iyo.
 - That expiry has no benefit: the authors grant that the deadline may push
   out projects that would otherwise languish (p. 36).
 - That agents misuse funds: the model assumes shared preferences. The
-  misuse case is Siemroth's (LIT-tmpuad7h).
+  misuse case is Siemroth's ([LIT-tmpuad7h](../literature.d/LIT-tmpuad7h.md)).

@@ -16,8 +16,8 @@ date: '2026-11-04'
 source:
 - LIT-tmpdvjiy
 summary: >-
-  Rockafellar and Uryasev (2000), LIT-tmpdvjiy, read in full in
-  NOTE-tmpzgqov from the authors' 1999 manuscript (Theorems 1 and 2 with
+  Rockafellar and Uryasev (2000), [LIT-tmpdvjiy](../literature.d/LIT-tmpdvjiy.md), read in full in
+  [NOTE-tmpzgqov](../notes.d/NOTE-tmpzgqov.md) from the authors' 1999 manuscript (Theorems 1 and 2 with
   their proofs, §3). Proposed until a second source states the same. It
   holds for loss distributions without atoms, at a fixed β, in one period;
   it says nothing about how large a sample the rare scenarios need, which
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Rockafellar and Uryasev (2000), LIT-tmpdvjiy; read in NOTE-tmpzgqov from the
+Rockafellar and Uryasev (2000), [LIT-tmpdvjiy](../literature.d/LIT-tmpdvjiy.md); read in [NOTE-tmpzgqov](../notes.d/NOTE-tmpzgqov.md) from the
 authors' manuscript of 1999-09-05 (page numbers the manuscript's).
 
 ## What was actually shown

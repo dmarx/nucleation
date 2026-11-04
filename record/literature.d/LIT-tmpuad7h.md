@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmpm0esa) from the author's February 2022 Essex
+  read 2026-11-04 ([NOTE-tmpm0esa](../notes.d/NOTE-tmpm0esa.md)) from the author's February 2022 Essex
   Economics Discussion Paper in the University of Essex repository, main
   text in full, appendix proofs skipped; the open-access version of record
   at Wiley returned a Cloudflare challenge, so the published text, which
@@ -88,7 +88,7 @@ Siemroth, C. (2024). Ending Wasteful Year-End Spending: On Optimal Budget Rules 
 
 ## Key takeaways
 
-*From the reading of the February 2022 working paper, NOTE-tmpm0esa. Page numbers are the working paper's.*
+*From the reading of the February 2022 working paper, [NOTE-tmpm0esa](../notes.d/NOTE-tmpm0esa.md). Page numbers are the working paper's.*
 
 - **The headline.** "The optimal rules are to allow the agent to roll-over
   a share of the unused funds, but not necessarily the full share, in most
@@ -106,7 +106,7 @@ Siemroth, C. (2024). Ending Wasteful Year-End Spending: On Optimal Budget Rules 
 
 ## Standing in the record
 
-With Liebman and Mahoney, LIT-tmp4kmcg, the record's first works on budget
+With Liebman and Mahoney, [LIT-tmp4kmcg](LIT-tmp4kmcg.md), the record's first works on budget
 rules. Where they explain year-end waste by precautionary saving with no
 misuse, Siemroth explains it by misuse under private information, and
 shows roll-over to be a cheap substitute for auditing. The pasted
@@ -114,5 +114,5 @@ bibliography on emergency readiness describes the model accurately; its
 remark that the model does not make unlimited roll-over always optimal is
 true but hides the headline, that some roll-over is always weakly better
 and full roll-over usually optimal. Read from the working paper, not the
-version of record. Filed from it: THEORY-tmpn0uzd. No instruction for
+version of record. Filed from it: [THEORY-tmpn0uzd](../theory.d/THEORY-tmpn0uzd.md). No instruction for
 machine-learning practice; nothing for the anthology.

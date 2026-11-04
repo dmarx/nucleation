@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmp09iyo) from the authors' NBER working paper
+  read 2026-11-04 ([NOTE-tmp09iyo](../notes.d/NOTE-tmp09iyo.md)) from the authors' NBER working paper
   w19481, revised January 2018, main text in full, appendices skipped;
   worth reading as the first economic analysis of wasteful year-end
   spending: a model in which an expiring budget turns a precautionary
@@ -79,7 +79,7 @@ Liebman, J. B. & Mahoney, N. (2017). Do Expiring Budgets Lead to Wasteful Year-E
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp09iyo. Page numbers are the NBER file's PDF pages.*
+*From the reading, [NOTE-tmp09iyo](../notes.d/NOTE-tmp09iyo.md). Page numbers are the NBER file's PDF pages.*
 
 - **The spike.** "8.7 percent of spending occurs in the last week of the
   year" (§1, p. 4), against about 1.9 percent in a uniform week, in all
@@ -107,6 +107,6 @@ leaves out what matters most to that bibliography's theme: the model's
 buffer is held precisely for uncertain, possibly urgent needs, and an
 expiring budget converts the unused buffer into low-value spending. The
 paper mentions the ratchet effect and its model does not exhibit one
-(§5.2). Siemroth's later model, LIT-tmpuad7h, recasts it as moral hazard
-with costly auditing. Filed from it: THEORY-tmpr8fns. No instruction for
+(§5.2). Siemroth's later model, [LIT-tmpuad7h](LIT-tmpuad7h.md), recasts it as moral hazard
+with costly auditing. Filed from it: [THEORY-tmpr8fns](../theory.d/THEORY-tmpr8fns.md). No instruction for
 machine-learning practice; nothing for the anthology.

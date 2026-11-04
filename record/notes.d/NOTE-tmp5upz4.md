@@ -126,8 +126,8 @@ control for the control strand, and on bandits and online learning for the
 third. Of the dynamic-contracting literature with limited commitment it
 cites nothing, although its §3.3.2 remark is that literature's central
 phenomenon: the ratchet effect of Freixas, Guesnerie and Tirole
-(LIT-tmpfzy5q, unread), restated for long relationships by Gerardi and
-Maestri (LIT-tmpbit9m, NOTE-tmpoec9n).
+([LIT-tmpfzy5q](../literature.d/LIT-tmpfzy5q.md), unread), restated for long relationships by Gerardi and
+Maestri ([LIT-tmpbit9m](../literature.d/LIT-tmpbit9m.md), [NOTE-tmpoec9n](NOTE-tmpoec9n.md)).
 
 ## Bearing on the record
 
@@ -142,40 +142,40 @@ Maestri (LIT-tmpbit9m, NOTE-tmpoec9n).
   budgeting or year-end, its "budget" is the principal's incentive budget
   in online learning, and it has nothing on slack, readiness or rarely
   exercised capability.
-- **CLAIM-357 and CLAIM-365 (governance regret).** Qualifies. Both concern
+- **[CLAIM-357](../claims.d/CLAIM-357.md) and [CLAIM-365](../claims.d/CLAIM-365.md) (governance regret).** Qualifies. Both concern
   a governor choosing updates for constituents with several demands. The
   claims' regret is the minimax suboptimality of an actual update; this
   paper's (eq. 3) is the online-learning regret of a principal's sequence
   of incentives. Same word, different objects, to be kept apart if cited
   together.
-- **CLAIM-347 (frustration as an ordinal complex).** Qualifies, loosely.
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (frustration as an ordinal complex).** Qualifies, loosely.
   Incentive design repairs a two-party misalignment by changing the agent's
   payoff, not by enlarging what can jointly be satisfied, which is a
   different repair from the claim's relief.
-- **CLAIM-535 (a policy acceptable in every circumstance).** Qualifies: it
+- **[CLAIM-535](../claims.d/CLAIM-535.md) (a policy acceptable in every circumstance).** Qualifies: it
   is the observation-limited design problem without strategic agents, a
   baseline for the moral-hazard case, where the principal cannot observe
   the action.
-- **LIT-1336 (performative prediction, NOTE-1044)** sharpens the central
+- **[LIT-1336](../literature.d/LIT-1336.md) (performative prediction, [NOTE-1044](NOTE-1044.md))** sharpens the central
   open problem: a deployed rule that shifts the distribution it faces is
   the paper's principal-caused non-stationarity without explicit agent
   utilities.
-- **LIT-1313 and LIT-1021 (information design, Bayesian persuasion)** are
-  the theory behind §4.2; THEORY-853, that more information shrinks what a
+- **[LIT-1313](../literature.d/LIT-1313.md) and [LIT-1021](../literature.d/LIT-1021.md) (information design, Bayesian persuasion)** are
+  the theory behind §4.2; [THEORY-853](../theory.d/THEORY-853.md), that more information shrinks what a
   designer can induce, qualifies its "uncertainty does help".
-- **LIT-1528 and LIT-1524 (partial monitoring)** generalize the feedback
-  classification of §3.3; **LIT-1518 (peer prediction)** fits its
-  crowdsourcing and truthful-elicitation thread; **LIT-1326 (algorithmic
-  monoculture)** qualifies §4.4 on competing principals; **LIT-1330
+- **[LIT-1528](../literature.d/LIT-1528.md) and [LIT-1524](../literature.d/LIT-1524.md) (partial monitoring)** generalize the feedback
+  classification of §3.3; **[LIT-1518](../literature.d/LIT-1518.md) (peer prediction)** fits its
+  crowdsourcing and truthful-elicitation thread; **[LIT-1326](../literature.d/LIT-1326.md) (algorithmic
+  monoculture)** qualifies §4.4 on competing principals; **[LIT-1330](../literature.d/LIT-1330.md)
   (rankings and reactivity)** is the sociological account of measured
-  parties reacting to the measure, as in the baseline example; **LIT-1880
+  parties reacting to the measure, as in the baseline example; **[LIT-1880](../literature.d/LIT-1880.md)
   (information before commitment in safe adaptive control)** is the
   control-side adaptive design of §3.2.2, without strategic agents.
-- **TERM-055, CLAIM-079, CLAIM-517, QUESTION-132**: unrelated. QUESTION-132
+- **[TERM-055](../terms.d/TERM-055.md), [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md)**: unrelated. [QUESTION-132](../questions.d/QUESTION-132.md)
   asks when equivalent adaptive operators differentiate into specialists
   with positive growth when rare, not, as A glosses it, about capabilities
   whose contribution shows in rare contexts.
-- Filed: THEORY-tmp30jgj. One strand is online learning, but the paper's
+- Filed: [THEORY-tmp30jgj](../theory.d/THEORY-tmp30jgj.md). One strand is online learning, but the paper's
   subject is incentive design for human-in-the-loop systems, not an
   instruction for machine-learning practice; nothing for the anthology.
 

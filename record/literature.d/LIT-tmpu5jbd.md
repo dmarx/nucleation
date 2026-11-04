@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmpv5axa) from the Europe PMC full text of the
+  read 2026-11-04 ([NOTE-tmpv5axa](../notes.d/NOTE-tmpv5axa.md)) from the Europe PMC full text of the
   CC BY version of record (PMC11502984); worth reading as a meta-analytic
   estimate of the spacing effect in digital health-professions education,
   separated by modality and by outcome level: a small advantage of spaced
@@ -12,7 +12,7 @@ status_note: >-
   results only, not retention; mostly unclear or high risk of bias; and
   an abstract and body that disagree on the headline simulation effect
   (SMD 1.15 against 1.24). Registered as a neighbour of Patocka et al.,
-  LIT-tmps018e, for which it stands in only partly.
+  [LIT-tmps018e](LIT-tmps018e.md), for which it stands in only partly.
 title: 'Spaced Digital Education for Health Professionals: Systematic Review and Meta-Analysis'
 version: 1
 history:
@@ -70,7 +70,7 @@ Martinengo, L., Ng, M. S. P., Ng, T. D. R., Ang, Y.-I., Jabir, A. I., Kyaw, B. M
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpv5axa.*
+*From the reading, [NOTE-tmpv5axa](../notes.d/NOTE-tmpv5axa.md).*
 
 - **Knowledge, small and moderate-certainty.** "Spaced online education
   was superior to massed online education for postintervention knowledge
@@ -87,12 +87,12 @@ Martinengo, L., Ng, M. S. P., Ng, T. D. R., Ang, Y.-I., Jabir, A. I., Kyaw, B. M
 
 ## Standing in the record
 
-Registered as a neighbour of Patocka et al., LIT-tmps018e, the review the
+Registered as a neighbour of Patocka et al., [LIT-tmps018e](LIT-tmps018e.md), the review the
 pasted bibliography on emergency readiness cites and that could not be
 read. It stands in only partly: both compare spaced with massed
 simulation for health professionals, but this one analyses immediate
 post-training results, so it says nothing on Patocka's retention finding.
 Neither concerns keeping a rarely exercised capability over long non-use,
 the theme under which A filed Patocka. The record held nothing on spacing
-effects before. Filed from it: THEORY-tmpavfyh. No instruction for
+effects before. Filed from it: [THEORY-tmpavfyh](../theory.d/THEORY-tmpavfyh.md). No instruction for
 machine-learning practice; nothing for the anthology.

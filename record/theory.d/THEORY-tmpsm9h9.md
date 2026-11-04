@@ -16,8 +16,8 @@ date: '2026-11-04'
 source:
 - LIT-tmplozja
 summary: >-
-  Tatel (2023), LIT-tmplozja, the PhD dissertation behind Tatel & Ackerman
-  (2025), LIT-tmpr53a0; read in part in NOTE-tmp35hva. A random-effects
+  Tatel (2023), [LIT-tmplozja](../literature.d/LIT-tmplozja.md), the PhD dissertation behind Tatel & Ackerman
+  (2025), [LIT-tmpr53a0](../literature.d/LIT-tmpr53a0.md); read in part in [NOTE-tmp35hva](../notes.d/NOTE-tmp35hva.md). A random-effects
   meta-regression over 457 sources. The slopes are the article abstract's
   too; the half-loss ranges are the dissertation's (the article gives
   6.5, 13 and 11 months). The practice moderator holds for accuracy only,
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Tatel (2023), LIT-tmplozja; read in NOTE-tmp35hva. It stands in for
-Tatel & Ackerman (2025), LIT-tmpr53a0, unread.
+Tatel (2023), [LIT-tmplozja](../literature.d/LIT-tmplozja.md); read in [NOTE-tmp35hva](../notes.d/NOTE-tmp35hva.md). It stands in for
+Tatel & Ackerman (2025), [LIT-tmpr53a0](../literature.d/LIT-tmpr53a0.md), unread.
 
 ## What was actually shown
 

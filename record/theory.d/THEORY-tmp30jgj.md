@@ -15,8 +15,8 @@ date: '2026-11-04'
 source:
 - LIT-tmpsj5c6
 summary: >-
-  Ratliff, Dong, Sekar and Fiez (2019), LIT-tmpsj5c6, read in full in
-  NOTE-tmp5upz4 from the authors' manuscript. A perspective's judgement of
+  Ratliff, Dong, Sekar and Fiez (2019), [LIT-tmpsj5c6](../literature.d/LIT-tmpsj5c6.md), read in full in
+  [NOTE-tmp5upz4](../notes.d/NOTE-tmp5upz4.md) from the authors' manuscript. A perspective's judgement of
   the state of three literatures, not a theorem; Proposed until a later
   review states the same. It does not say the problem is unsolvable, and
   it leaves out the economics of dynamic contracting with limited
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Ratliff, Dong, Sekar and Fiez (2019), LIT-tmpsj5c6; read in NOTE-tmp5upz4
+Ratliff, Dong, Sekar and Fiez (2019), [LIT-tmpsj5c6](../literature.d/LIT-tmpsj5c6.md); read in [NOTE-tmp5upz4](../notes.d/NOTE-tmp5upz4.md)
 (page numbers the manuscript's).
 
 ## What was actually shown
@@ -50,6 +50,6 @@ across them, that handles such agents under hidden types or actions.
 - That no special case is solved. The dynamic-contracting literature on
   the ratchet effect, which the paper does not cite, treats returning
   agents who hide their type from a principal who cannot commit (for
-  example LIT-tmpbit9m).
+  example [LIT-tmpbit9m](../literature.d/LIT-tmpbit9m.md)).
 - Anything about organizational budgets, slack or readiness; its budget is
   the principal's incentive budget.

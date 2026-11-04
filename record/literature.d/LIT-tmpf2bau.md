@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmpbp6yl, Skimmed) from arXiv v2; worth
+  read in part 2026-11-04 ([NOTE-tmpbp6yl](../notes.d/NOTE-tmpbp6yl.md), Skimmed) from arXiv v2; worth
   reading as a clear tutorial on the Quality-and-Efficiency-Driven
   (Halfin–Whitt) regime: the square-root staffing rule s = λ + β√λ, Halfin
   and Whitt's theorem that the M/M/s delay probability has a
   non-degenerate limit exactly under that scaling, the diffusion limit, the
   economies of scale that let utilization approach one while service stays
   good, and dimensioning rules for service targets and costs. Registered as
-  the stand-in for Halfin and Whitt (1981), LIT-tmpodkh1, whose M/M/s
+  the stand-in for Halfin and Whitt (1981), [LIT-tmpodkh1](LIT-tmpodkh1.md), whose M/M/s
   results it states and attributes. Its main limits: asymptotic results
   that need care in finite systems, proofs mostly not reproduced, and a
   survey with no new theorem on the M/M/s model.
@@ -70,7 +70,7 @@ van Leeuwaarden, J. S. H., Mathijsen, B. W. J. & Zwart, B. (2019). Economies-of-
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpbp6yl. Page numbers are the arXiv PDF's.*
+*From the reading, [NOTE-tmpbp6yl](../notes.d/NOTE-tmpbp6yl.md). Page numbers are the arXiv PDF's.*
 
 - **The square-root rule** s = λ + β√λ, "which prescribes how to size
   capacity as a function of the offered load" (§1, p. 3).
@@ -86,10 +86,10 @@ van Leeuwaarden, J. S. H., Mathijsen, B. W. J. & Zwart, B. (2019). Economies-of-
 
 ## Standing in the record
 
-Registered as the stand-in for Halfin and Whitt (1981), LIT-tmpodkh1,
+Registered as the stand-in for Halfin and Whitt (1981), [LIT-tmpodkh1](LIT-tmpodkh1.md),
 which the pasted bibliography on emergency readiness cites and which could
 not be found. It states that paper's M/M/s results in formulas and
 attributes them, but does not prove them or cover the original's other
-models. Filed from it: THEORY-tmppfbrx. For the record's readiness
+models. Filed from it: [THEORY-tmppfbrx](../theory.d/THEORY-tmppfbrx.md). For the record's readiness
 questions it is a caution as much as a support: the spare capacity it
 sizes is busy nearly all the time, not reserve kept idle for rare events.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpain0u) from the page on the U.S. Fire
+  read in full 2026-11-04 ([NOTE-tmpain0u](../notes.d/NOTE-tmpain0u.md)) from the page on the U.S. Fire
   Administration's site; worth reading as official NFIRS coding guidance
   that separates, for one incident, the resources assigned, those that
   arrived and those cancelled en route, with a worked scenario of a
@@ -66,7 +66,7 @@ U.S. Fire Administration (2023). Dispatched and Canceled en Route. NFIRSGram, 19
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpain0u.*
+*From the reading, [NOTE-tmpain0u](../notes.d/NOTE-tmpain0u.md).*
 
 - **611 only when nobody arrives.** "This incident type should only be
   used when the fire department is dispatched to an incident but does not
@@ -95,4 +95,4 @@ data are not limited to units that acted on scene; but a failure to
 respond for lack of resources, the case closest to the value of
 readiness, leaves no NFIRS record at all. No THEORY is filed: the page is
 a coding rule, not an account of what is true. It would serve as the
-source of a CASE beside CASE-135, the record's other fire-service case.
+source of a CASE beside [CASE-135](../cases.d/CASE-135.md), the record's other fire-service case.

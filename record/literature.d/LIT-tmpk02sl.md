@@ -12,7 +12,7 @@ status_note: >-
   and INFORMS at https://pubsonline.informs.org/doi/pdf/10.1287/opre.2022.2415;
   both returned HTTP 403 with a Cloudflare challenge. The owner can
   probably fetch the CC BY PDF from CBS or INFORMS in a browser. Bogetoft
-  and Hougaard's Rational Inefficiencies, LIT-tmpsiib1, read in part,
+  and Hougaard's Rational Inefficiencies, [LIT-tmpsiib1](LIT-tmpsiib1.md), read in part,
   stands in for its premise only: slack as a rational, valued choice and
   the organizational motives for it. It does not stand in for this paper's
   Pareto criterion for wasteful slack, its rationalizable-cost measure or
@@ -105,8 +105,8 @@ contingencies; a buffer against shocks appears only as one motive the
 organizational literature gives.
 
 **The stand-in.** Bogetoft and Hougaard's Rational Inefficiencies
-(2001, revised 2002; J. Productivity Analysis 2003), LIT-tmpsiib1, read in
-part in NOTE-tmpb2xb9. It states the premise this paper builds on: measured
+(2001, revised 2002; J. Productivity Analysis 2003), [LIT-tmpsiib1](LIT-tmpsiib1.md), read in
+part in [NOTE-tmpb2xb9](../notes.d/NOTE-tmpb2xb9.md). It states the premise this paper builds on: measured
 inefficiency as a rational choice of slack, valued by the organization,
 with Cyert and March's motives for slack, and a revealed-preference way of
 reading slack trade-offs from production data. It stands in for that

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmpoec9n, Skimmed: the main text and the
+  read in part 2026-11-04 ([NOTE-tmpoec9n](../notes.d/NOTE-tmpoec9n.md), Skimmed: the main text and the
   statements of all results, not the proofs) from the publisher's
   open-access PDF (CC BY-NC 4.0); worth reading as the infinite-horizon
   version of the ratchet effect: when a firm can offer a privately informed
@@ -9,7 +9,7 @@ status_note: >-
   limiting outcome is either pooling with no learning or immediate firing
   of the high-cost worker, both inefficient, and rehiring restores nearly
   the commitment payoff. Registered as a stand-in for the unread Freixas,
-  Guesnerie and Tirole (1985), LIT-tmpfzy5q, which it cites but does not
+  Guesnerie and Tirole (1985), [LIT-tmpfzy5q](LIT-tmpfzy5q.md), which it cites but does not
   restate. Its limits: two types, verifiable quality (no moral hazard),
   irreversible quitting in the benchmark, existence only for generic
   parameters, and results that are limits as patience tends to one.
@@ -74,7 +74,7 @@ Gerardi, D. & Maestri, L. (2020). Dynamic contracting with limited commitment an
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpoec9n. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpoec9n](../notes.d/NOTE-tmpoec9n.md). Page numbers are the journal's.*
 
 - **The ratchet.** "The ratchet effect is in place since the firm has the
   incentive to change the terms of trade and offer more demanding contracts
@@ -94,7 +94,7 @@ Gerardi, D. & Maestri, L. (2020). Dynamic contracting with limited commitment an
 ## Standing in the record
 
 Registered at the owner's request as a stand-in for Freixas, Guesnerie and
-Tirole (1985), LIT-tmpfzy5q, which could not be fetched. It stands in for
+Tirole (1985), [LIT-tmpfzy5q](LIT-tmpfzy5q.md), which could not be fetched. It stands in for
 the phenomenon and the setting, a principal unable to commit who revises
 terms on revealed performance, not for that paper's results: it cites it
 only as one of the two-period papers that "pioneered" the subject. It adds
@@ -103,4 +103,4 @@ relationship the ratchet can stop learning altogether or make the principal
 cut the relationship, rather than only distort output, and resumable
 relationships undo it. Its setting is a labour relationship, not planning
 or budgeting, so carrying it to organizational budget ratchets is an
-analogy. Filed from it: THEORY-tmp6sg3n.
+analogy. Filed from it: [THEORY-tmp6sg3n](../theory.d/THEORY-tmp6sg3n.md).

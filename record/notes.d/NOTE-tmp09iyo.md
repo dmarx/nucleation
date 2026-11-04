@@ -135,7 +135,7 @@ balances to respond to emergency spending needs" (p. 6).
 
 The authors place the work against the ratchet-effect literature (Freixas,
 Guesnerie and Tirole), and §5.2 shows their model does not exhibit a
-ratchet. Siemroth (LIT-tmpuad7h) takes their no-misuse precautionary model
+ratchet. Siemroth ([LIT-tmpuad7h](../literature.d/LIT-tmpuad7h.md)) takes their no-misuse precautionary model
 and recasts the problem as moral hazard with costly state verification, in
 which roll-over substitutes for auditing.
 
@@ -151,21 +151,21 @@ which roll-over substitutes for auditing.
   DOJ difference-in-differences, the grace-period calibration and the
   authors' caveat about the one-project DOJ quality result. Placing it
   under ratchets is apt only in passing.
-- **TERM-055 (operational availability).** Qualifies the term's reach,
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability).** Qualifies the term's reach,
   weakly. The precautionary balance is a resource kept available for
   uncertain later needs, and expiry destroys it. But the deadline here is
   the resource's expiry, not a task's, and the model has no cue and no
   deployment latency, only a value shock observed each period. The mapping
   is an analogy.
-- **The self-control and precommitment cluster** (LIT-1389, THEORY-067,
-  CASE-128). The authors raise procrastination as a rival mechanism (§4.5)
+- **The self-control and precommitment cluster** ([LIT-1389](../literature.d/LIT-1389.md), [THEORY-067](../theory.d/THEORY-067.md),
+  [CASE-128](../cases.d/CASE-128.md)). The authors raise procrastination as a rival mechanism (§4.5)
   and the deadline's disciplining value as a benefit of one-year budgets
   (§6), but test neither. Qualifies at most.
-- **CLAIM-079, CLAIM-347, CLAIM-517 and QUESTION-132**, which the pasted
-  bibliography relates to its theme: unrelated. A's gloss of QUESTION-132
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md) and [QUESTION-132](../questions.d/QUESTION-132.md)**, which the pasted
+  bibliography relates to its theme: unrelated. A's gloss of [QUESTION-132](../questions.d/QUESTION-132.md)
   is wrong; the question is about adaptive operators differentiating into
   complementary specialists.
-- Filed: THEORY-tmpr8fns. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpr8fns](../theory.d/THEORY-tmpr8fns.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

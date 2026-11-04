@@ -116,7 +116,7 @@ It follows Arksey and O'Malley's scoping framework and PRISMA-ScR. It
 excludes frequency-of-performance studies that infer decay without
 measuring it. It does not cite or pool the general skill-retention
 meta-analyses, such as the line of Arthur et al. (1998) continued by
-Tatel (2023), LIT-tmplozja, which give the rates this review says EM lacks.
+Tatel (2023), [LIT-tmplozja](../literature.d/LIT-tmplozja.md), which give the rates this review says EM lacks.
 
 ## Bearing on the record
 
@@ -135,28 +135,28 @@ Tatel (2023), LIT-tmplozja, which give the rates this review says EM lacks.
   and asserts rather than shows that decay "depends on several variables:
   procedure type, initial learning, experience level of the clinician,
   and frequency of practice".
-- **CLAIM-422 (corrective act, procedure, maintained capacity): supports,
+- **[CLAIM-422](../claims.d/CLAIM-422.md) (corrective act, procedure, maintained capacity): supports,
   empirically and weakly.** Programmes run curricula and count
   procedures, yet most lack a formal method to assess and maintain
   attending competency: certification is not maintained capacity.
-- **CLAIM-414 (matched ordinary trajectories conceal maintenance
+- **[CLAIM-414](../claims.d/CLAIM-414.md) (matched ordinary trajectories conceal maintenance
   differences): supports by analogy.** Decay shows only under a retention
   test, not in ordinary work.
-- **TERM-055 (operational availability): qualifies, at a stretch.** A
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability): qualifies, at a stretch.** A
   credentialed physician whose skill has decayed is a resource present but
   not deployable in time; the review measures nothing in that form.
-- **CLAIM-517:** a loose analogy only (simulation scores with unknown
+- **[CLAIM-517](../claims.d/CLAIM-517.md):** a loose analogy only (simulation scores with unknown
   transfer to rare clinical events); no support.
-- **CLAIM-463:** tangential; nothing here on the cost of relearning.
-- **Unrelated:** CLAIM-079, CLAIM-347, and the viability, stability and
-  transition LITs A listed (LIT-714, LIT-1893, LIT-931, LIT-932, LIT-1654,
-  LIT-1981, LIT-1892, LIT-1881, LIT-1956). QUESTION-132 is glossed wrongly
+- **[CLAIM-463](../claims.d/CLAIM-463.md):** tangential; nothing here on the cost of relearning.
+- **Unrelated:** [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), and the viability, stability and
+  transition LITs A listed ([LIT-714](../literature.d/LIT-714.md), [LIT-1893](../literature.d/LIT-1893.md), [LIT-931](../literature.d/LIT-931.md), [LIT-932](../literature.d/LIT-932.md), [LIT-1654](../literature.d/LIT-1654.md),
+  [LIT-1981](../literature.d/LIT-1981.md), [LIT-1892](../literature.d/LIT-1892.md), [LIT-1881](../literature.d/LIT-1881.md), [LIT-1956](../literature.d/LIT-1956.md)). [QUESTION-132](../questions.d/QUESTION-132.md) is glossed wrongly
   by A: it is about initially equivalent adaptive operators
   differentiating into complementary specialists.
 - The record holds nothing else on clinical skill maintenance, refresher
   scheduling or HALO training; the only prior mention of skill decay is
-  LIT-1059 and NOTE-887, as a cost of offloading.
-- Filed: THEORY-tmpkplf4. No instruction for machine-learning practice.
+  [LIT-1059](../literature.d/LIT-1059.md) and [NOTE-887](NOTE-887.md), as a cost of offloading.
+- Filed: [THEORY-tmpkplf4](../theory.d/THEORY-tmpkplf4.md). No instruction for machine-learning practice.
 
 ## Limitations
 
