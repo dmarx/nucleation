@@ -89,8 +89,8 @@ them together. Kept apart:
 | tolerance | crossing it means | held in |
 |---|---|---|
 | τ_i^acc, acceptance | i no longer accepts w; the sign of its endorsement turns | [CLAIM-tmpgjdby](CLAIM-tmpgjdby.md) |
-| τ_i^act, activation | i is active, not necessarily on the will | [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md); [TERM-053](../terms.d/TERM-053.md)'s note of 2026-11-04 |
-| τ_i^int, intervention | i mobilizes to act on the will | U17 |
+| τ_i^act, activation | i is active, without necessarily acting | [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md); [TERM-053](../terms.d/TERM-053.md)'s note of 2026-11-04 |
+| τ_i^int, intervention | i takes an action on the current state | U17, as the owner clarified at review |
 
 [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md) is the formalization in this neighbourhood: from one
 activation threshold θ it derives, for each response level ε, a

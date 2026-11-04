@@ -129,12 +129,13 @@ The case is unchanged.
 The owner's U16 pointed to the Twitch Plays Pokémon and r/place cases as
 "particularly illuminating here". A16 used this case and [CASE-075](CASE-075.md).
 
-- **A command vote acts on the game, not on the will.** A16 §3 calls a
-  chat command "ordinarily a **first-order intervention**". In the owner's
-  corrected terms (U17), it crosses a player's threshold for acting, not
-  necessarily any threshold for intervening on how the crowd is governed.
-  A player may vote left to move left, to follow the majority or to
-  frustrate another group.
+- **A command vote is a first-order intervention.** A16 §3 calls a chat
+  command "ordinarily a **first-order intervention**". In the owner's
+  sense (U17, as the owner clarified at review), an intervention is taking
+  an action on the current state, so a vote crosses the player's
+  intervention threshold. What it does not show is its aim: a player may
+  vote left to move left, to follow the majority or to frustrate another
+  group.
 - **The mode vote is one level up.** "Ordinary button votes select actions;
   a vote about which mode should govern selects a *rule for selecting
   actions*." That is the shape of a higher-order volition ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)).

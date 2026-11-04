@@ -108,8 +108,10 @@ acting on the will: "punching the wall is an action, but it is not
 necessarily an *attempt to revise the organization of the will*." A20 §1
 said activation coupling "is not automatically endorsement in Nucleation's
 causal-governance sense". In this term's sense a perspective has two
-thresholds: one for acting at all, and one for endorsing or opposing,
-acting on another's share of future influence. Wall-punching crosses the
+thresholds: one for acting at all, the owner's intervention threshold
+(any action on the current state, as the owner clarified at review), and
+one for endorsing or opposing, acting on another's share of future
+influence. Wall-punching crosses the
 first and not the second.
 
 **The Frankfurtian misreading.**

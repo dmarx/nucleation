@@ -141,10 +141,12 @@ The owner's U16 pointed to the Twitch Plays Pokémon cases and this one.
 
 What A16 adds here:
 
-- **A pixel is not an intervention on the governing arrangement.**
-  Replacing a pixel "might express
-  disagreement with an artwork, loyalty to a template, or merely
-  participation in a local contest" (A16 §3).
+- **A pixel is an intervention on the current state.** In the owner's
+  sense (U17, as the owner clarified at review), an intervention is taking
+  an action, and placing a pixel changes the canvas. What the placement
+  does not show is its motive: it "might express disagreement with an
+  artwork, loyalty to a template, or merely participation in a local
+  contest" (A16 §3).
 - **Off-canvas plans enlarge the complex.** A16 §6: negotiated boundaries
   or shared plans may change "the *actual conditions under which groups can
   realize their preferred outcomes*. That can expand compatibility at fixed
