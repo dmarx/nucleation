@@ -1,0 +1,90 @@
+---
+status: Active
+status_note: >-
+  read in part 2026-11-04 (NOTE-tmpy7mc8, Skimmed) from arXiv v1: the
+  abstract and §2 only. Worth reading for §2's compact account of the
+  probabilistic ambulance-location models, MEXCLP, MALP and Sorensen and
+  Church's local-reliability LR-MEXCLP, with their assumptions and the
+  area-specific busy fraction, and for multi-period forms of FLEET and
+  LR-MEXCLP that allow ambulances to be relocated between periods,
+  applied to the emergency medical service of Belo Horizonte. Registered
+  as a stand-in for Daskin (1983), LIT-tmpt3a4i, and ReVelle and Hogan
+  (1989), LIT-tmpjzyct, on what those models maximize and assume. Its main
+  limits, as read: a survey section that gives no formulation of MEXCLP's
+  or MALP's own objective; the multi-period models and case-study results
+  were not read; a preprint.
+title: 'A multi-period and bi-objective approach for locating ambulances: a case study in Belo Horizonte, Brazil'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered and read in part on 2026-11-04 as a stand-in for Daskin
+    (1983), LIT-tmpt3a4i, and ReVelle and Hogan (1989), LIT-tmpjzyct, whose
+    full texts could not be found, at the owner's request; both are cited
+    in the pasted bibliography on emergency readiness, written by another
+    assistant (A) and pasted by the owner on 2026-11-04, which does not
+    cite this work. Citation checked against the arXiv API (2012.06655)
+    and the PDF: Charles Paulino de Oliveira, Elisangela Martins de Sá and
+    Flávio Vinícius Cruzeiro Martins (CEFET-MG, Belo Horizonte), a
+    preprint, v1 11 December 2020, which is `published:`; the PDF says
+    "Preprint submitted to Expert Systems with Applications"; no journal
+    reference or DOI in the arXiv record. Not held before (no hit for the
+    arXiv id or Belo Horizonte). Copy: https://arxiv.org/pdf/2012.06655,
+    extracted with pdftotext; page numbers are the arXiv PDF's.
+tags:
+- operations-research
+- probabilistic-modeling
+date: '2026-11-04'
+published: '2020-12-11'
+arxiv: '2012.06655'
+first_author: 'de Oliveira'
+keywords:
+- 'facility location'
+- 'ambulance location'
+- 'mathematical programming model'
+- 'real-world application'
+- 'multi-period relocation'
+- 'bi-objective'
+implementations: []
+summary: >-
+  de Oliveira, de Sá & Martins (2020). Multi-period forms of two
+  ambulance-location models, the deterministic FLEET and Sorensen and
+  Church's local-reliability expected covering model, let ambulances move
+  among bases between periods in Belo Horizonte's emergency medical
+  service, and a bi-objective form trades the number of bases against
+  coverage. The abstract reports coverage up to 31% higher (deterministic)
+  and 24% higher (probabilistic). Its §2 restates MEXCLP and MALP: expected
+  coverage under uniform busyness and independence, and coverage with
+  reliability α from area-specific busy fractions.
+---
+<!-- inactive-ok-file: NOTE-tmpy7mc8 THEORY-tmpegbva LIT-tmpt3a4i LIT-tmpjzyct — Skimmed, Proposed or Unavailable, and new; the reading of this paper, the account filed from it, and the unread originals it stands in for, cited as open -->
+
+# LIT-tmprtv5t: A multi-period and bi-objective approach for locating ambulances: a case study in Belo Horizonte, Brazil
+
+de Oliveira, C. P., de Sá, E. M. & Martins, F. V. C. (2020). A multi-period and bi-objective approach for locating ambulances: a case study in Belo Horizonte, Brazil. arXiv:2012.06655.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpy7mc8: the abstract and §2.*
+
+- **MEXCLP.** "Simplifying assumptions regarding the uniform server
+  busyness and the independence of the servers are made in MEXCLP"
+  (p. 10).
+- **MALP.** It keeps server independence and adds locally constrained
+  service areas, "but it relaxes the assumption of uniform ambulance
+  availability" (p. 10), by area-specific busy fractions.
+- **Multiple coverage.** "Either MEXCLP or MALP might request to allocate
+  more than one ambulance to cover demand points, depending on its demand
+  level and the number of vehicles available" (p. 10).
+- **An objection.** Sorensen and Church argue that MALP's α-reliability
+  objective "may not be appropriate in some EMS contexts and may lead to
+  inferior results" (p. 11).
+
+## Standing in the record
+
+Registered as a stand-in for Daskin (1983), LIT-tmpt3a4i, and ReVelle and
+Hogan (1989), LIT-tmpjzyct, which the pasted bibliography on emergency
+readiness cites and which could not be found. It states what those models
+maximize and assume, not their formulations, properties or results. The
+account filed from it, on its own multi-period models, is THEORY-tmpegbva.

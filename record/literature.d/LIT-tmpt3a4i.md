@@ -1,0 +1,118 @@
+---
+status: Unavailable
+status_note: >-
+  not read; no lawful copy located as of 2026-11-04. Looked at: the
+  publisher (INFORMS), paywalled, not tried beyond its listing; OpenAlex
+  W2133676848 (oa_status closed, no repository full text); the author's
+  University of Michigan pages, https://umich.edu/~msdaskin/ and its
+  courses page, which returned HTTP 403 with a Cloudflare challenge and
+  were not retried (a syllabus PDF from that site that did come back lists
+  the paper and has no content); a linear MEXCLP formulation at
+  https://core.ac.uk/download/301648743.pdf and a thesis restating MEXCLP
+  at research.vu.nl, both Cloudflare challenges, not retried; arXiv
+  searches for "maximum expected covering" and MEXCLP, which found
+  nothing. Two neighbours stand in for it, on what the model maximizes
+  and assumes only. De Oliveira, de Sá and Martins (2020), LIT-tmprtv5t,
+  §2, state that MEXCLP maximizes expected coverage given that servers
+  may be busy, under uniform busyness and server independence, and that it
+  may place several ambulances to cover one demand point. Mukhopadhyay et
+  al. (2020), LIT-tmpv1cro, §6.1, state that it extends the maximal
+  covering model for station availability with one busy probability for
+  every facility, and name its later extensions. Neither gives its
+  objective formula, the properties it proves, its heuristic or its
+  computational results.
+title: 'A Maximum Expected Covering Location Model: Formulation, Properties and Heuristic Solution'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered on 2026-11-04 from the pasted bibliography on emergency
+    readiness, written by another assistant (A) and pasted by the owner on
+    2026-11-04, which cites it as extending facility-location optimization
+    to account for units already committed to other calls. Citation
+    checked against Crossref (api.crossref.org/works/10.1287/trsc.17.1.48)
+    and OpenAlex (W2133676848): Mark S. Daskin, sole author, Northwestern
+    University, Transportation Science 17(1), 48–70, journal article.
+    Crossref gives the print issue as 1983-02 and no online date, so
+    `published:` is the first of that month. A's citation is correct. The
+    summary follows the abstract Crossref holds. Not held before (no hit
+    for the DOI, MEXCLP, "expected covering" or Daskin). Searched for a
+    lawful copy and found none (see the status note). At the owner's
+    request two neighbouring works were read in its place: de Oliveira, de
+    Sá and Martins (2020), LIT-tmprtv5t, and Mukhopadhyay et al. (2020),
+    LIT-tmpv1cro.
+tags:
+- operations-research
+- probabilistic-modeling
+date: '2026-11-04'
+published: '1983-02-01'
+doi: '10.1287/trsc.17.1.48'
+first_author: 'Daskin'
+keywords:
+- 'maximum expected covering location problem'
+- 'MEXCLP'
+- 'maximal covering'
+- 'facility location'
+- 'heuristic'
+implementations: []
+summary: >-
+  Daskin (1983). Unverified until read; from the abstract on Crossref. The
+  maximal covering location model is extended to allow that a demand may
+  go uncovered because every facility able to cover it is busy serving
+  other demands: "The model is extended to account for the chance that
+  when a demand arrives at the system it will not be covered since all
+  facilities capable of covering the demand are engaged serving other
+  demands." An integer program is given, "Several properties of the
+  formulation are proven", and a heuristic is presented with
+  computational results. The neighbours add that the objective is
+  expected coverage, with one system-wide busy probability and
+  independent servers.
+---
+<!-- inactive-ok-file: NOTE-tmpy7mc8 NOTE-tmpdnqqh — Skimmed and new; the readings of the neighbours that stand in for this work, cited as open -->
+
+# LIT-tmpt3a4i: A Maximum Expected Covering Location Model: Formulation, Properties and Heuristic Solution
+
+Daskin, M. S. (1983). A Maximum Expected Covering Location Model: Formulation, Properties and Heuristic Solution. *Transportation Science* 17(1): 48–70. doi:10.1287/trsc.17.1.48.
+
+## Key takeaways
+
+*Not read. From the abstract and from what two later works say of it,
+unverified against the original.*
+
+- **What it extends.** "MEXCLP was introduced by Daskin (Daskin, 1983) and
+  extends MCLP, modifying the optimization function to account for station
+  availability" (LIT-tmpv1cro, §6.1).
+- **What it maximizes.** "the MEXCLP model seeks to maximize the expected
+  coverage given that servers (ambulances) might be busy" (LIT-tmprtv5t,
+  p. 9).
+- **Its assumptions.** "Simplifying assumptions regarding the uniform
+  server busyness and the independence of the servers are made in MEXCLP"
+  (LIT-tmprtv5t, p. 10).
+
+## Standing in the record
+
+Registered from the pasted bibliography on emergency readiness, and not
+read: no lawful copy was located, and the author's own pages were behind a
+Cloudflare challenge, so a visit by hand to umich.edu/~msdaskin/ may find
+one. A's gloss, that it extends facility-location optimization to account
+for units already committed to other calls, agrees with the abstract. It
+leaves out that the model extended is maximal covering, that the
+objective is expected coverage, the simplifying assumptions both
+neighbours stress (one busy probability for every server; independent
+servers), and the proven properties and heuristic that the title names.
+
+**The neighbours.** De Oliveira, de Sá and Martins (2020), LIT-tmprtv5t,
+read Skimmed in NOTE-tmpy7mc8 (§2), and Mukhopadhyay et al. (2020),
+LIT-tmpv1cro, read Skimmed in NOTE-tmpdnqqh (§6.1 and Table 1), stand in
+for what the model maximizes and assumes, and for its place among later
+models (TIMEXCLP, AMEXCLP, LR-MEXCLP). Neither gives the formulation, the
+properties, the heuristic or the results.
+
+On the record's own entries: expected coverage is the expected demand for
+which at least one covering server is free, a chance of deployment within
+a time standard with unavailability from congestion alone. It is at most a
+special case of operational availability, TERM-055, and a busy covering
+server is a formal case of present but not deployable, CLAIM-296 and
+CLAIM-312. Placing several servers over one demand point as a hedge
+against busyness is a redundancy construction the record does not hold.

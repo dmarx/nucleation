@@ -57,6 +57,7 @@ corroborated_by:
 bears_on:
 - QUESTION-101
 ---
+<!-- inactive-ok-file: NOTE-tmpxzaki NOTE-tmpy7mc8 NOTE-tmpdnqqh LIT-tmpum63p LIT-tmpt3a4i LIT-tmpjzyct — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
 
 # CLAIM-296: What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
@@ -140,3 +141,7 @@ In the expected-covering models ([LIT-tmprfb8b](../literature.d/LIT-tmprfb8b.md)
 ## Note of 2026-11-04: U.S. Fire Administration, "Dispatched and Canceled en Route", read
 
 The NFIRS guidance ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) records separately the resources assigned, the units that arrived and the units cancelled en route, and it excludes from the incident data the calls a department could not answer for lack of resources. That supports the claim's distinctions at the level of reporting. It leaves open how often the missing case occurs, since NFIRS by design does not see it. No status changes.
+
+## Note of 2026-11-04: the emergency-service location models, read through neighbours (Larson and Odoni; de Oliveira, de Sá and Martins; Mukhopadhyay et al.)
+
+Larson's hypercube model, Daskin's MEXCLP and ReVelle and Hogan's MALP (LIT-tmpum63p, LIT-tmpt3a4i, LIT-tmpjzyct, all unread) were read through neighbours, and all three give a formal case of the gap between having a resource and being able to deploy it by a deadline. In the hypercube model (Larson and Odoni, NOTE-tmpxzaki, prose only), a unit busy on another call is present but not deployable, and the units of last resort are deployable only when the system is saturated. In MEXCLP and MALP (de Oliveira, de Sá and Martins, NOTE-tmpy7mc8, §2), a covering ambulance that is busy does not count, and the chance that one of k covering servers is free is 1 − b^k under independence. The review by Mukhopadhyay et al. (NOTE-tmpdnqqh, §6.1) sorts deterministic coverage models, in which "Resources at a facility are considered to be always available", from probabilistic ones. In all of them unavailability comes from congestion alone, with no cue or knowledge component, so they qualify the claim's deployable tier and leave the first two untouched. No status changes.
