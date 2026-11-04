@@ -3,8 +3,18 @@ number: 79
 status: Active
 formerly:
 - CASE-tmpd83bj
-title: 'r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities coordinated off the canvas to build, defend and overwrite images'
-version: 1
+title: 'r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities built, defended and overwrote images, coordinating through the canvas itself as well as off it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    At the owner's review of dmarx/nucleation#397: coordination is not
+    only off the canvas. Participants who recognize a pattern extend it
+    from local context, so coalitions are also recruited through the
+    canvas. The title and two sentences of the body said coordination
+    happens off the canvas, and now say it happens through the canvas as
+    well. The facts of the event are unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -38,7 +48,7 @@ reported_in:
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-224 — Proposed; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CASE-079: r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities coordinated off the canvas to build, defend and overwrite images
+# CASE-079: r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities built, defended and overwrote images, coordinating through the canvas itself as well as off it
 
 ## The case
 
@@ -63,8 +73,9 @@ followed whom. Self-declared groups such as "the Void" set out to cover
 others' work in black.
 
 So the owner's "once" is once per cooldown, not once per event. The point
-the owner drew from it stands: no single user can hold a region, and only
-coordination can build or defend an image.
+the owner drew from it stands: no single user can hold a region, and an
+image is built or defended only by many users acting together, whether
+they coordinate off the canvas or through it.
 
 ## What it can show
 
@@ -93,7 +104,8 @@ The case sits beside Twitch Plays Pokémon ([CASE-074](CASE-074.md), [CASE-075](
 crowd's inputs are aggregated into one avatar's moves by a fixed rule. On
 r/place nothing aggregates. Each placement lands where it is put, so
 territory is contested and the coalitions, plans and alliances that do the
-aggregating form off the canvas. It also sits beside Open Horizon
+aggregating form off the canvas, or through the canvas itself as
+participants extend patterns they recognize. It also sits beside Open Horizon
 ([CASE-006](CASE-006.md)), an organization that persists through turnover. Here the product
 and the producer can be followed separately.
 
@@ -158,13 +170,14 @@ What A16 adds here:
   who recognizes a pattern can extend it from the local context alone, so
   allegiance and endorsement can be recruited through indirect
   communication that the canvas mediates. Off-canvas coordination is more
-  likely to succeed and persist, but it is not necessary. This qualifies
-  "only coordination can build or defend an image" above, and the reading
-  of the plans as the only influence canvas: the canvas is a channel too.
+  likely to succeed and persist, but it is not necessary. It also
+  qualifies A8's reading of the plans as the only influence canvas: the
+  canvas is a channel too. Version 2 of this case states it in the case
+  itself.
   [THEORY-224](../theory.d/THEORY-224.md) (Adams, Fernandez and Witkowski, [LIT-1034](../literature.d/LIT-1034.md)) holds the two
   kinds, objects that spread by a local rule and are predictable from the
   canvas, and objects copied from designs coordinated elsewhere.
-- In this record's terms, the first is relief in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, and
+- In this record's terms, the accommodation is relief in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, and
   [QUESTION-133](../questions.d/QUESTION-133.md) asks when differentiation gives it. A16: "Neither is
   necessarily authentic."
 
