@@ -13,11 +13,11 @@ summary: >-
   Filed at the owner's request on 2026-11-04, to account for an idea the
   readings of the pasted bibliography on emergency readiness surfaced and
   the record lacked or described poorly. The record speaks of proxies in
-  passing and holds measures that change what they measure (LIT-1330),
+  passing and holds measures that change what they measure ([LIT-1330](../literature.d/LIT-1330.md)),
   but has no word for a measure whose optimum differs from the outcome's
-  while nobody reacts to it. Sources: McLay and Mayorga (LIT-tmprh2zk,
+  while nobody reacts to it. Sources: McLay and Mayorga ([LIT-tmprh2zk](../literature.d/LIT-tmprh2zk.md),
   Unavailable; abstract only) and Erkut, Ingolfsson and Erdoğan
-  (LIT-tmprfb8b), on response-time coverage standing in for survival. The
+  ([LIT-tmprfb8b](../literature.d/LIT-tmprfb8b.md)), on response-time coverage standing in for survival. The
   wording is the filer's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmprh2zk — Unavailable; cited for its published abstract, nothing here rests on it -->
@@ -37,17 +37,17 @@ The term separates misalignment from reactivity. A proxy can be
 misaligned with nobody gaming it: the measure does not change what it
 measures, it only selects a different allocation. The readers of both
 sources drew this line against the record's nearest held work, Espeland
-and Sauder on rankings (LIT-1330, NOTE-1050), which is about reactivity.
+and Sauder on rankings ([LIT-1330](../literature.d/LIT-1330.md), [NOTE-1050](../notes.d/NOTE-1050.md)), which is about reactivity.
 
 ## From the readings
 
-- **Why the proxy is used.** McLay and Mayorga's abstract (LIT-tmprh2zk,
+- **Why the proxy is used.** McLay and Mayorga's abstract ([LIT-tmprh2zk](../literature.d/LIT-tmprh2zk.md),
   unread): emergency medical services are judged by the share of calls
   reached within a fixed time, not by patient outcomes, and "These
   response time thresholds are used because they are easy to obtain and
   to understand."
 - **Misalignment can be large.** Erkut, Ingolfsson and Erdoğan
-  (LIT-tmprfb8b, NOTE-tmp241k1; THEORY-tmpagbfa) "take as given that the real objective
+  ([LIT-tmprfb8b](../literature.d/LIT-tmprfb8b.md), [NOTE-tmp241k1](../notes.d/NOTE-tmp241k1.md); [THEORY-tmpagbfa](../theory.d/THEORY-tmpagbfa.md)) "take as given that the real objective
   for an EMS system is to maximize the number of patients that survive
   and that coverage is used as a proxy for the real objective", and give a
   constructed example in which "covering models can result in arbitrarily
@@ -69,19 +69,19 @@ A readiness measure is usually a proxy of this kind: a response-time
 standard, or a fraction of calls covered, chosen in place of what the
 response is for. The term lets the record say that such a standard can
 select the wrong allocation before anyone responds to it strategically,
-which is a different failure from a ratchet (TERM-tmpbxjmx, filed the
+which is a different failure from a ratchet ([TERM-tmpbxjmx](TERM-tmpbxjmx.md), filed the
 same day), where the measured party acts on the measure.
 
 ## What it is not
 
-- **Reactivity, or Goodhart's law** (LIT-1330; CASE-023's Goodhart
+- **Reactivity, or Goodhart's law** ([LIT-1330](../literature.d/LIT-1330.md); [CASE-023](../cases.d/CASE-023.md)'s Goodhart
   metric): a measure that changes the behaviour it measures once it is a
   target.
-- **A probe that is also the training signal** (CLAIM-266): a system
+- **A probe that is also the training signal** ([CLAIM-266](../claims.d/CLAIM-266.md)): a system
   optimized on its own evaluation, which becomes good at the probes
   without the intended capacity. There the misalignment is produced by the
   optimization; here it is fixed by the choice of measure.
-- **A proxy in an organization's own ordering** (QUESTION-267): whether a
+- **A proxy in an organization's own ordering** ([QUESTION-267](../questions.d/QUESTION-267.md)): whether a
   negotiation that ranks states by a proxy for maintenance is valence.
   That is about an organization's own concern; this is about a planner's
   chosen objective.

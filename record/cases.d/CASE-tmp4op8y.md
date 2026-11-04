@@ -16,14 +16,14 @@ illustrates:
 summary: >-
   Filed at the owner's request on 2026-11-04, to account for what the
   reading of the U.S. Fire Administration's NFIRS coding guidance
-  (LIT-tmpnhw2v, read in NOTE-tmpain0u) surfaced and the record lacked. The
+  ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md), read in [NOTE-tmpain0u](../notes.d/NOTE-tmpain0u.md)) surfaced and the record lacked. The
   National Fire Incident Reporting System records, for each incident,
   every unit assigned, whether it arrived, and whether it was cancelled en
   route; but a call the department knew of and could not answer for lack
   of resources is not an NFIRS incident, and recording it in a separate
   database is recommended, not required. So the national incident data
   carry committed but unused capacity and leave out unmet demand. The
-  record's second fire-service case, beside CASE-135. The wording is the
+  record's second fire-service case, beside [CASE-135](CASE-135.md). The wording is the
   filer's; adopting it is the owner's call.
 reported_in:
 - LIT-tmpnhw2v
@@ -36,7 +36,7 @@ reported_in:
 ## The case
 
 The U.S. Fire Administration's NFIRSGram "Dispatched and Canceled en
-Route", posted 19 June 2023 (LIT-tmpnhw2v, read in full in NOTE-tmpain0u), is
+Route", posted 19 June 2023 ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md), read in full in [NOTE-tmpain0u](../notes.d/NOTE-tmpain0u.md)), is
 coding guidance for the National Fire Incident Reporting System (NFIRS).
 It fixes what the incident data can and cannot carry.
 
@@ -77,7 +77,7 @@ separate record it recommends.
 - **A reporting system that sees committed capacity and not unmet
   demand.** Within an incident, NFIRS distinguishes what was assigned,
   what arrived and what was turned back, a reporting-level form of
-  CLAIM-296's distinctions between what a system has and what it deploys.
+  [CLAIM-296](../claims.d/CLAIM-296.md)'s distinctions between what a system has and what it deploys.
   The failure of deployment for want of a resource, the one outcome that
   most directly measures readiness, is the case the system defines out:
   it has no incident to attach to.
@@ -90,7 +90,7 @@ separate record it recommends.
 - **Cancellation is recorded as an event, not as a value.** A cancelled
   unit's record says it was assigned and turned back. It does not say
   what its dispatch was worth under the uncertainty at the time; that is
-  the question of A's case of provisional dispatch (CASE-tmpt6fm7).
+  the question of A's case of provisional dispatch ([CASE-tmpt6fm7](CASE-tmpt6fm7.md)).
 
 ## What it does not show
 

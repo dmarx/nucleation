@@ -136,4 +136,4 @@ the exchange's, unverified.
 
 ## Note of 2026-11-04: a second fire-service case
 
-CASE-tmp4op8y documents what U.S. incident reporting can carry. It records units assigned, arrived and cancelled, but not calls left unanswered for lack of resources. The case is unchanged.
+[CASE-tmp4op8y](CASE-tmp4op8y.md) documents what U.S. incident reporting can carry. It records units assigned, arrived and cancelled, but not calls left unanswered for lack of resources. The case is unchanged.

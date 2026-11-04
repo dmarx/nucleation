@@ -14,11 +14,11 @@ summary: >-
   readings of the pasted bibliography on emergency readiness surfaced and
   the record lacked: its "ratchet" hits were all Muller's ratchet,
   Axelrod's or thermodynamic ratchets, or figurative. Five readings use
-  the incentive sense. Freixas, Guesnerie and Tirole name it (LIT-tmpfzy5q,
+  the incentive sense. Freixas, Guesnerie and Tirole name it ([LIT-tmpfzy5q](../literature.d/LIT-tmpfzy5q.md),
   Unfetched; abstract only); Gerardi and Maestri restate it for long
-  relationships (LIT-tmpbit9m); Liebman and Mahoney (LIT-tmp4kmcg) and
-  Siemroth (LIT-tmpuad7h) name it as a motive for year-end spending and
-  set it aside in their models; Ratliff and colleagues (LIT-tmpsj5c6)
+  relationships ([LIT-tmpbit9m](../literature.d/LIT-tmpbit9m.md)); Liebman and Mahoney ([LIT-tmp4kmcg](../literature.d/LIT-tmp4kmcg.md)) and
+  Siemroth ([LIT-tmpuad7h](../literature.d/LIT-tmpuad7h.md)) name it as a motive for year-end spending and
+  set it aside in their models; Ratliff and colleagues ([LIT-tmpsj5c6](../literature.d/LIT-tmpsj5c6.md))
   raise its logic as an open problem without the name. The wording is the
   filer's; adopting it is the owner's call.
 ---
@@ -43,14 +43,14 @@ principal and an agent over repeated periods when three things hold:
 
 The distortion goes whichever way hides the information. In the founding
 case it is under-performance: by Freixas, Guesnerie and Tirole's abstract
-(LIT-tmpfzy5q, unread), revising the scheme on observed performance "this
+([LIT-tmpfzy5q](../literature.d/LIT-tmpfzy5q.md), unread), revising the scheme on observed performance "this
 induces firms to underproduce to avoid more demanding schedules in the
 future—the ratchet effect", and the planner "cannot commit himself to a
 revision procedure". In a budget it is over-spending: Liebman and Mahoney
-(LIT-tmp4kmcg, NOTE-tmp09iyo) write that "If Congress interprets unspent
+([LIT-tmp4kmcg](../literature.d/LIT-tmp4kmcg.md), [NOTE-tmp09iyo](../notes.d/NOTE-tmp09iyo.md)) write that "If Congress interprets unspent
 resources as a signal of reduced need, then unspent funding not only
 produces a loss of value in the current period but may also lead to lower
-budgets in the future", and Siemroth (LIT-tmpuad7h, NOTE-tmpm0esa) names
+budgets in the future", and Siemroth ([LIT-tmpuad7h](../literature.d/LIT-tmpuad7h.md), [NOTE-tmpm0esa](../notes.d/NOTE-tmpm0esa.md)) names
 "the agent’s fear to have his budget cut next year if not all funds are
 used, which is known as the ratchet effect".
 
@@ -62,8 +62,8 @@ inability to commit about how it will use what it learns.
 
 ## What the readings add
 
-- **It can stop learning altogether.** Gerardi and Maestri (LIT-tmpbit9m,
-  skimmed in NOTE-tmpoec9n; THEORY-tmp6sg3n): "The ratchet effect is in place
+- **It can stop learning altogether.** Gerardi and Maestri ([LIT-tmpbit9m](../literature.d/LIT-tmpbit9m.md),
+  skimmed in [NOTE-tmpoec9n](../notes.d/NOTE-tmpoec9n.md); [THEORY-tmp6sg3n](../theory.d/THEORY-tmp6sg3n.md)): "The ratchet effect is in place
   since the firm has the incentive to change the terms of trade and offer
   more demanding contracts when it learns that the worker is highly
   productive." With patient parties, "If the prior probability of the
@@ -75,7 +75,7 @@ inability to commit about how it will use what it learns.
 - **Commitment is the remedy the budget papers give.** Siemroth: "Principals
   should therefore publicly commit to not cut budgets if funds are
   returned or saved." Liebman and Mahoney's rollover result likewise needs
-  the budget-setter's commitment (NOTE-tmp09iyo).
+  the budget-setter's commitment ([NOTE-tmp09iyo](../notes.d/NOTE-tmp09iyo.md)).
 - **Its absence is a modelling choice.** Liebman and Mahoney say "the model
   does not exhibit a ratchet effect phenomenon", because the pattern of
   spending reveals relative, not absolute, need; Siemroth says "This model
@@ -85,7 +85,7 @@ inability to commit about how it will use what it learns.
   carries over to a setting where performance is informative about later
   need.
 - **The learning version is open.** Ratliff, Dong, Sekar and Fiez
-  (LIT-tmpsj5c6, NOTE-tmp5upz4; THEORY-tmp30jgj) raise, without citing this
+  ([LIT-tmpsj5c6](../literature.d/LIT-tmpsj5c6.md), [NOTE-tmp5upz4](../notes.d/NOTE-tmp5upz4.md); [THEORY-tmp30jgj](../theory.d/THEORY-tmp30jgj.md)) raise, without citing this
   literature, "an agent who interacts with the principal for multiple
   rounds may seek to benefit by resorting to low effort levels if it can
   influence the payment mechanism offered in subsequent rounds."
@@ -102,26 +102,26 @@ before it is cut. That carrying-over, from a firm hiding productivity to
 an organization keeping a capability for rare events, is the filer's
 analogy and A's, not any of these works' claim. Whether it holds is
 open in the record (for example, A's question on allocation by observed
-activity, QUESTION-tmpmtvei).
+activity, [QUESTION-tmpmtvei](../questions.d/QUESTION-tmpmtvei.md)).
 
 ## What it is not
 
-- **Muller's ratchet** (LIT-1573, Unfetched; CASE-173): the irreversible
+- **Muller's ratchet** ([LIT-1573](../literature.d/LIT-1573.md), Unfetched; [CASE-173](../cases.d/CASE-173.md)): the irreversible
   accumulation of mildly deleterious mutations in an asexual lineage. No
   agent, no principal and no information.
 - **The other ratchets the record holds**: the evolutionary-stability
-  ratchet of Axelrod's *The Evolution of Cooperation* (NOTE-411) and the
-  thermodynamic ratchets of the Landauer notes (NOTE-310). Both are
+  ratchet of Axelrod's *The Evolution of Cooperation* ([NOTE-411](../notes.d/NOTE-411.md)) and the
+  thermodynamic ratchets of the Landauer notes ([NOTE-310](../notes.d/NOTE-310.md)). Both are
   one-way mechanisms with no strategic party.
-- **Reactivity of measures** in Espeland and Sauder's sense (LIT-1330,
-  NOTE-1050): the broader family, of measures that change what they
+- **Reactivity of measures** in Espeland and Sauder's sense ([LIT-1330](../literature.d/LIT-1330.md),
+  [NOTE-1050](../notes.d/NOTE-1050.md)): the broader family, of measures that change what they
   measure. The ratchet is a particular case, in which the measured party
   anticipates the measurer's revision of its terms and the measurer cannot
   commit not to make it.
-- **Governance regret** (CLAIM-357): a governor revising what it asks of
+- **Governance regret** ([CLAIM-357](../claims.d/CLAIM-357.md)): a governor revising what it asks of
   subordinates with no strategic subordinate. Its note of 2026-11-04
   records that the ratchet adds one.
-- **Precommitment within one agent** (CASE-128): the commitment problem
+- **Precommitment within one agent** ([CASE-128](../cases.d/CASE-128.md)): the commitment problem
   of a self binding its own later choice. The ratchet's is a principal's
   toward another agent; the structure is shared, the parties are not.
 

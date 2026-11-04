@@ -27,9 +27,9 @@ summary: >-
   Filed at the owner's request on 2026-11-04, to account for an idea the
   readings of the pasted bibliography on emergency readiness surfaced and
   the record lacked: no held entry addressed procedural skill retention.
-  It rests on Tatel's meta-analysis (LIT-tmplozja; THEORY-tmpsm9h9), which
+  It rests on Tatel's meta-analysis ([LIT-tmplozja](../literature.d/LIT-tmplozja.md); [THEORY-tmpsm9h9](../theory.d/THEORY-tmpsm9h9.md)), which
   gives decay with months of infrequent use and a practice moderator, and
-  on Oskar and colleagues' scoping review (LIT-tmp07mjg; THEORY-tmpkplf4),
+  on Oskar and colleagues' scoping review ([LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md); [THEORY-tmpkplf4](../theory.d/THEORY-tmpkplf4.md)),
   which gives the high-acuity, low-occurrence framing and the thinness of
   the evidence. The generalization from an individual's motor skill to a
   capability an organization keeps for rare events is the filer's. The
@@ -46,7 +46,7 @@ Three parts, of different strength.
 
 1. **Decay with disuse.** A learned procedure with a motor component loses
    performance with the time since it was last used. Tatel's
-   meta-analysis (LIT-tmplozja, skimmed in NOTE-tmp35hva; THEORY-tmpsm9h9): for
+   meta-analysis ([LIT-tmplozja](../literature.d/LIT-tmplozja.md), skimmed in [NOTE-tmp35hva](../notes.d/NOTE-tmp35hva.md); [THEORY-tmpsm9h9](../theory.d/THEORY-tmpsm9h9.md)): for
    accuracy the effect size "generally increases in magnitude by 0.08 per
    month of infrequent use", and "one can expect about half of initial
    skill acquisition gains to be lost after between 6 and 9 months of
@@ -56,7 +56,7 @@ Three parts, of different strength.
    the relationship between retention interval and effect size for
    accuracy-based performance measures" (Tatel), for accuracy only.
 3. **So rare capabilities need practice outside operation.** Oskar and
-   colleagues (LIT-tmp07mjg, NOTE-tmpw1i6o; THEORY-tmpkplf4), citing frequency
+   colleagues ([LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md), [NOTE-tmpw1i6o](../notes.d/NOTE-tmpw1i6o.md); [THEORY-tmpkplf4](../theory.d/THEORY-tmpkplf4.md)), citing frequency
    studies: "For high acuity low occurrence (HALO) procedures,
    supplemental training beyond regular clinical shift experience is
    needed". If operation calls on a capability less often than its decay
@@ -68,16 +68,16 @@ keeps for rare events, are the filer's.
 
 ## Why it is the record's
 
-CLAIM-422 separates a corrective act, an executable procedure and a
+[CLAIM-422](CLAIM-422.md) separates a corrective act, an executable procedure and a
 maintained capacity, and says an organization can hold the second
 without the third. This claim gives one mechanism for the gap: the
 procedure stays written while the people who would perform it lose it
 through disuse. It also says why the gap does not show in ordinary
 operation. The skill is not called on, so its loss is not observed until
 a retention test or a real contingency, the kind of intervention
-CLAIM-414 says is needed to expose differences matched trajectories
+[CLAIM-414](CLAIM-414.md) says is needed to expose differences matched trajectories
 conceal. Telling a warranted reserve from wasteful redundancy, A's
-QUESTION-tmpw46vw, then needs a measure of maintenance as well as of
+[QUESTION-tmpw46vw](../questions.d/QUESTION-tmpw46vw.md), then needs a measure of maintenance as well as of
 holding.
 
 ## What it does not say

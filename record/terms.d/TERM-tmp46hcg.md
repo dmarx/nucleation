@@ -14,11 +14,11 @@ summary: >-
   readings of the pasted bibliography on emergency readiness surfaced and
   the record lacked: no held entry concerned organizational slack, and the
   readers' searches for it returned nothing. Its sources are Bogetoft and
-  Hougaard (LIT-tmpsiib1), from whom the definition comes; Bogetoft and
-  Kerstens (LIT-tmpk02sl, Unfetched; abstract only), who pose useful
+  Hougaard ([LIT-tmpsiib1](../literature.d/LIT-tmpsiib1.md)), from whom the definition comes; Bogetoft and
+  Kerstens ([LIT-tmpk02sl](../literature.d/LIT-tmpk02sl.md), Unfetched; abstract only), who pose useful
   against wasteful slack as the problem; Liebman and Mahoney
-  (LIT-tmp4kmcg), whose precautionary buffer is slack held for uncertain
-  needs; and van Leeuwaarden and colleagues (LIT-tmpf2bau), standing in
+  ([LIT-tmp4kmcg](../literature.d/LIT-tmp4kmcg.md)), whose precautionary buffer is slack held for uncertain
+  needs; and van Leeuwaarden and colleagues ([LIT-tmpf2bau](../literature.d/LIT-tmpf2bau.md)), standing in
   for Halfin and Whitt, whose headroom is spare capacity that is busy, not
   held idle. The wording is the filer's; adopting it is the owner's call.
 ---
@@ -35,7 +35,7 @@ summary: >-
 **Organizational slack** is the part of an organization's resources
 beyond what its current output requires: its inputs minus the least
 inputs that would produce the same output. The definition is Bogetoft and
-Hougaard's (LIT-tmpsiib1, skimmed in NOTE-tmpb2xb9; THEORY-tmpj2rdc), after
+Hougaard's ([LIT-tmpsiib1](../literature.d/LIT-tmpsiib1.md), skimmed in [NOTE-tmpb2xb9](../notes.d/NOTE-tmpb2xb9.md); [THEORY-tmpj2rdc](../theory.d/THEORY-tmpj2rdc.md)), after
 Cyert and March: "organizational slack can be interpreted as the
 existence of excess resources to produce a given output". Measured against
 output, slack is what an efficiency analysis calls technical inefficiency.
@@ -46,7 +46,7 @@ or a reserve, because what a reserve is for is not in the current output.
 So the term names the quantity and leaves the verdict to a further test:
 
 - **Useful slack** has a use the output measure leaves out. The motives
-  Bogetoft and Kerstens's abstract lists (LIT-tmpk02sl, unread) are that it
+  Bogetoft and Kerstens's abstract lists ([LIT-tmpk02sl](../literature.d/LIT-tmpk02sl.md), unread) are that it
   may "serve as a buffer against environmental shocks", decouple units,
   ease planning, support innovation and allow responses to competitors.
 - **Wasteful slack** has none: by their Pareto criterion, "If an
@@ -62,7 +62,7 @@ literature tends to view slack as wasteful".
 ## Two kinds of reserve the readings separate
 
 - **Slack held idle for an uncertain need.** Liebman and Mahoney
-  (LIT-tmp4kmcg, NOTE-tmp09iyo; THEORY-tmpr8fns): under uncertain future needs,
+  ([LIT-tmp4kmcg](../literature.d/LIT-tmp4kmcg.md), [NOTE-tmp09iyo](../notes.d/NOTE-tmp09iyo.md); [THEORY-tmpr8fns](../theory.d/THEORY-tmpr8fns.md)): under uncertain future needs,
   "organizations have an incentive to hold back on marginal spending early
   in the budget cycle and then burn through this buffer-stock at the end
   of the year." A short rollover keeps the reserve useful, "maintaining
@@ -71,8 +71,8 @@ literature tends to view slack as wasteful".
   balance is useful slack until the deadline and becomes wasteful at it,
   by a rule of the budget, not by anything in the organization.
 - **Headroom that is busy.** The square-root staffing rule
-  (LIT-tmpf2bau, skimmed in NOTE-tmpbp6yl, standing in for Halfin and Whitt,
-  LIT-tmpodkh1; THEORY-tmppfbrx) sizes servers above mean load by a margin of
+  ([LIT-tmpf2bau](../literature.d/LIT-tmpf2bau.md), skimmed in [NOTE-tmpbp6yl](../notes.d/NOTE-tmpbp6yl.md), standing in for Halfin and Whitt,
+  [LIT-tmpodkh1](../literature.d/LIT-tmpodkh1.md); [THEORY-tmppfbrx](../theory.d/THEORY-tmppfbrx.md)) sizes servers above mean load by a margin of
   the order of the load's fluctuations. Its spare capacity is in use
   nearly all the time, and large pooled systems need proportionally less
   of it. That is slack against mean output, not a reserve held idle for a
@@ -80,18 +80,18 @@ literature tends to view slack as wasteful".
 
 ## What it is not
 
-- **Operational availability** (TERM-055): the chance a resource is
+- **Operational availability** ([TERM-055](TERM-055.md)): the chance a resource is
   deployed for a task by a deadline. Slack is a stock, measured against
   output, and says nothing about whether it can be deployed in time.
   Bogetoft and Kerstens's test values slack as held, not as deployed.
 - **Redundancy as reliable coverage** (see the coverage term filed the
-  same day, TERM-tmplh56l): several units placed over one demand so that one
+  same day, [TERM-tmplh56l](TERM-tmplh56l.md)): several units placed over one demand so that one
   is free with a stated probability. That is a reason slack can be useful,
   not the slack itself.
-- **Scenario-conditioned readiness** (A's term, TERM-tmpuc919): a
+- **Scenario-conditioned readiness** (A's term, [TERM-tmpuc919](TERM-tmpuc919.md)): a
   probability of effective response to an imposed contingency. Slack is
   one input to it; the question of telling a warranted reserve from
-  wasteful redundancy is A's QUESTION-tmpw46vw, which this term gives a
+  wasteful redundancy is A's [QUESTION-tmpw46vw](../questions.d/QUESTION-tmpw46vw.md), which this term gives a
   word to and does not answer.
 
 ## What would settle it

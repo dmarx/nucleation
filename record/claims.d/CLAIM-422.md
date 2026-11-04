@@ -183,4 +183,4 @@ A's [CLAIM-tmpvhj8j](CLAIM-tmpvhj8j.md) (Proposed) adds that a maintained capaci
 
 ## Note of 2026-11-04: decay with disuse as one mechanism
 
-Tatel's meta-analysis (THEORY-tmpsm9h9) gives a measured mechanism for procedure held without maintained capacity. Procedural skill that goes unused falls by about 0.06 to 0.08 standard deviations a month, and practice in the interval slows the fall. The organizational extension is the proposed CLAIM-tmp4g8e1. No status changes.
+Tatel's meta-analysis ([THEORY-tmpsm9h9](../theory.d/THEORY-tmpsm9h9.md)) gives a measured mechanism for procedure held without maintained capacity. Procedural skill that goes unused falls by about 0.06 to 0.08 standard deviations a month, and practice in the interval slows the fall. The organizational extension is the proposed [CLAIM-tmp4g8e1](CLAIM-tmp4g8e1.md). No status changes.

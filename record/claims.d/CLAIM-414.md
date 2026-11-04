@@ -227,4 +227,4 @@ A's [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) (fictional) has two departments
 
 ## Note of 2026-11-04: an intervention the reporting system cannot see
 
-Under the NFIRS guidance (CASE-tmp4op8y), a call the department could not answer for lack of resources is not an incident at all. That is the failure that would expose a difference in readiness. The ordinary records of two departments can therefore match even where a demand that only one of them could meet would separate them. The guidance recommends a separate record of such calls but does not require one. No status changes.
+Under the NFIRS guidance ([CASE-tmp4op8y](../cases.d/CASE-tmp4op8y.md)), a call the department could not answer for lack of resources is not an incident at all. That is the failure that would expose a difference in readiness. The ordinary records of two departments can therefore match even where a demand that only one of them could meet would separate them. The guidance recommends a separate record of such calls but does not require one. No status changes.
