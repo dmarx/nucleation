@@ -91,3 +91,9 @@ for diagnosing. Pull before each push, since the bot's repair lands on the
 branch as its own commit. Never commit generated views: they land on the
 default branch through CI. Work goes to a branch and a pull request, and the
 changelog fragment goes in the same contribution.
+
+**Each logical unit of work gets its own branch, cut from the default
+branch, and its own pull request** (ADR-tmp8mm4e): the filing of one source,
+one decision with what it changes, one tooling bump, one sweep. This holds
+even when a session was started on one designated branch; that decision is
+the standing permission to open others.
