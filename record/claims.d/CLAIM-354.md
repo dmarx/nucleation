@@ -166,7 +166,7 @@ shape for freedom of will.
   after are compared dimension by dimension, and may be incomparable.
   Reachable-set size is not monotone with autonomy.
 - **Not conferral.** What the record called endorsement ([TERM-053](../terms.d/TERM-053.md)),
-  now conferral (TERM-tmplu4ih), is any effect one process has on another's
+  now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)), is any effect one process has on another's
   share of future influence, and it is not Frankfurt's. A9's "endorsement" is the
   reflective attitude. Here it is called higher-order volition.
 - **Not that the dimensions are measured.** A9: "a Gramian is not
@@ -278,7 +278,7 @@ It added that "acquiring authority and relinquishing authority are independently
 
 **Endorsement, misread.**
 - (a) A26 keeps only "Frankfurtian endorsement". It uses the record's sense unnamed, as "practical authority", and as E_t, "the relations through which processes affect one another's future authority".
-- (b) Read as conferral (TERM-tmplu4ih, formerly [TERM-053](../terms.d/TERM-053.md)), E_t is the conferral matrix E_ij, and a perspective's tolerance is its criterion for conferring influence ([CLAIM-tmpgjdby](CLAIM-tmpgjdby.md)). Frankfurt's sense is [TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md).
+- (b) Read as conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), formerly [TERM-053](../terms.d/TERM-053.md)), E_t is the conferral matrix E_ij, and a perspective's tolerance is its criterion for conferring influence ([CLAIM-tmpgjdby](CLAIM-tmpgjdby.md)). Frankfurt's sense is [TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md).
 - (c) At U14 the owner asked whether the record's endorsement, now conferral, "satisfies the Frankfurtian sense". A14 itself answered that it does not.
 
 A26's gloss of authenticity, "Non-dominating, answerable governance", leans on [TERM-006](../terms.d/TERM-006.md), which is Deferred. Its domination clause is this claim's non-domination profile and [CLAIM-545](CLAIM-545.md)'s. The claim is unchanged.

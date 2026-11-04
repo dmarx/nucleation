@@ -124,7 +124,7 @@ The mapping, A6's:
 | interpretive state ([TERM-026](../terms.d/TERM-026.md)) | meaning state x | — |
 | judgement, response J | the state P(q)ᵀx the operators yield, read out | — |
 | — | operator, or coalition of operators | action-generating regime ([TERM-019](../terms.d/TERM-019.md)) |
-| — | influence w, and its update G with conferral E (TERM-tmplu4ih) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
+| — | influence w, and its update G with conferral E ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
 | transport between two interpreters | a map between two such organizations | — |
 
 Read this way, the pragmatic-transport line studies the model from the

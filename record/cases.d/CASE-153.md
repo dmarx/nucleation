@@ -167,6 +167,6 @@ The owner's U27 asked to "numerically simulate a dynamically maintained will org
 - (b) In [TERM-060](../terms.d/TERM-060.md)'s sense, the toy's three demands g_i ≥ 0.4 are structurally frustrated: a hollow triangle, [CASE-119](CASE-119.md)'s shape. A would likely have measured governance-induced frustration: the share of steps on which a feasible pair face that the context made relevant went unselected.
 - (c) The owner had corrected "competition" to frustration at U7.
 
-**"Support", rightly read.** A's support term, a_j·q_i, is conferral (TERM-tmplu4ih, [TERM-053](../terms.d/TERM-053.md)'s endorsement), and A correctly says "Support is not Frankfurtian identification." It is undiscriminating, though: every active process supports every other. Read with the owner's U12, the grant would depend on j's tolerance of i's proposal ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)).
+**"Support", rightly read.** A's support term, a_j·q_i, is conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), [TERM-053](../terms.d/TERM-053.md)'s endorsement), and A correctly says "Support is not Frankfurtian identification." It is undiscriminating, though: every active process supports every other. Read with the owner's U12, the grant would depend on j's tolerance of i's proposal ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)).
 
 [CASE-117](CASE-117.md) holds the comparison of influence laws as a design. The case is unchanged.

@@ -56,7 +56,7 @@ the relative authority of the A-specialist. Near the symmetric state
 with α the persistence of the meaning distribution, δ the persistence of
 authority, β the effect of authority on interpretation (the A-specialist's
 retrievals push meaning toward A) and γ the effect of interpretation on
-conferral (TERM-tmplu4ih) (in [CASE-092](CASE-092.md)'s Regime A, operators are scored against the
+conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) (in [CASE-092](CASE-092.md)'s Regime A, operators are scored against the
 dominant interpretation, so a lean toward A raises the A-specialist's
 score).
 

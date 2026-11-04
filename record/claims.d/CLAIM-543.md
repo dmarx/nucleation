@@ -131,7 +131,7 @@ appearance in the record.
 - **That a Bayesian update among components is conferral.** The posterior
   over LDA's proportions, or the Persona Selection Model's reading of
   post-training as Bayesian updating, is the analyst's or the optimizer's
-  inference, not a process among the components (TERM-tmplu4ih, [CLAIM-367](CLAIM-367.md)).
+  inference, not a process among the components ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), [CLAIM-367](CLAIM-367.md)).
 
 ## Note of 2026-11-03: the readings
 

@@ -145,7 +145,7 @@ detecting and resolving problems", and that attention and control are
   ([THEORY-050](../theory.d/THEORY-050.md)) the protective perspective avoids anticipated private
   events. (c) None.
 - **Endorsement.** (a) §6's "reflective endorsement" is Frankfurt's. (b) In
-  [TERM-053](../terms.d/TERM-053.md)'s sense, now conferral (TERM-tmplu4ih): why is the reflective process's effect on the pursuit
+  [TERM-053](../terms.d/TERM-053.md)'s sense, now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)): why is the reflective process's effect on the pursuit
   process's future influence near zero, though its evaluation is negative
   ([CLAIM-447](CLAIM-447.md), [CASE-181](../cases.d/CASE-181.md))? (c) None.
 

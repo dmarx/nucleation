@@ -84,7 +84,7 @@ The cooldown is an equal per-account budget and a ban on allocating oneself
 extra moves through one account ([CASE-079](../cases.d/CASE-079.md)). Automation and multiple
 accounts got round it, most in 2023 ([THEORY-216](../theory.d/THEORY-216.md)). It did not equalize influence, because
 following a plan turns other members' moves into the planner's effect. That
-is conferral (TERM-tmplu4ih). So [CLAIM-285](CLAIM-285.md)'s constraint has
+is conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)). So [CLAIM-285](CLAIM-285.md)'s constraint has
 to be stated over authority, not over actions. A budget on actions leaves
 the question untouched. The planner's influence is [CLAIM-086](CLAIM-086.md)'s kind,
 governing the conditions under which moves count.

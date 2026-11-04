@@ -75,7 +75,7 @@ they obtain opportunities to influence the shared workspace**", run first
 "as **separate experimental treatments**".
 
 The record holds the parts. The neighbourhood radius that others can
-change is [TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral (TERM-tmplu4ih),
+change is [TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)),
 in geometric form, and with [CLAIM-285](../claims.d/CLAIM-285.md)'s
 condition no perspective controls its own. Operators acting on a shared
 interpretive state are [CLAIM-297](../claims.d/CLAIM-297.md)'s and [CLAIM-336](../claims.d/CLAIM-336.md)'s model. Denoiser as a

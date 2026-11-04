@@ -67,7 +67,7 @@ is (β, λ+ − α), with both components positive.
 For [QUESTION-100](../questions.d/QUESTION-100.md) this says three things about the linearization of
 [CASE-092](../cases.d/CASE-092.md). Capture, if it starts at symmetry, needs both arrows of
 [CLAIM-297](CLAIM-297.md)'s circuit: authority shaping interpretation and interpretation
-shaping conferral (TERM-tmplu4ih). Scoring operators independently of the dominant
+shaping conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)). Scoring operators independently of the dominant
 interpretation (Regime B, γ ≈ 0) removes the coupling-driven
 instability, whatever the memory of conferral. And the variable that
 grows is neither a meaning nor an authority but a joint lean of both,

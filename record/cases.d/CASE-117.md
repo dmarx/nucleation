@@ -61,7 +61,7 @@ assumptions about the organization.
 | dimension | conditions |
 |---|---|
 | feature adaptation | fixed features; learned features |
-| influence update | uniform; historical grants (TERM-tmp08c21; [CLAIM-277](../claims.d/CLAIM-277.md)); context-sensitive contribution |
+| influence update | uniform; historical grants ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md); [CLAIM-277](../claims.d/CLAIM-277.md)); context-sensitive contribution |
 | competence exposure | training opportunities independent of influence; influence-dependent |
 | diversity mechanism | none; fixed usage balancing; endogenous recovery feedback |
 | environment | stationary; recurring regimes; abrupt distribution shifts |

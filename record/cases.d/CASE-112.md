@@ -59,7 +59,7 @@ them. A minimal nonlinear model is
 Here μ controls the stability structure, and h tilts the competition
 toward the endorsed regime." A12's Proposition 3 is the same equation in z.
 Here h is a higher-order volition in Frankfurt's sense, an attitude that
-one regime should be effective. The record's conferral (TERM-tmplu4ih,
+one regime should be effective. The record's conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md),
 [TERM-053](../terms.d/TERM-053.md)'s former endorsement) is a different thing, an effect of one process on another's share of
 influence.
 

@@ -211,7 +211,7 @@ same course first.
 From the exchange's elaboration of this claim (workbench entry of
 2026-10-24, U9–U12). Four learned changes save different things: a cached
 prediction saves repeated prospective computation; a compiled skill saves
-response selection; a learned grant (TERM-tmp08c21) saves negotiation
+response selection; a learned grant ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)) saves negotiation
 over authority; a local accommodation saves escalation to a mediator. A
 practised controller can still intervene every time, only more cheaply,
 while an accommodation lets familiar conflicts settle without it, and the

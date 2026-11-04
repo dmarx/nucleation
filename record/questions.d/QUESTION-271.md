@@ -47,7 +47,7 @@ summary: >-
 ## The question
 
 The record's governance claims all lean on an evaluation of processes:
-- grants that track competence (TERM-tmp08c21; [CLAIM-277](../claims.d/CLAIM-277.md));
+- grants that track competence ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md); [CLAIM-277](../claims.d/CLAIM-277.md));
 - a learned prior trained by outcomes ([CLAIM-443](../claims.d/CLAIM-443.md));
 - evidence-tracking authority as Bayes' rule ([CASE-155](../cases.d/CASE-155.md));
 - a legibility regime that can score in its own favour ([CASE-124](../cases.d/CASE-124.md)'s μ route).

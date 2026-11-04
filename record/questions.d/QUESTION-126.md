@@ -48,8 +48,8 @@ Two quantities, one organization:
   r‖Σλ_ig_i‖_*] ([CLAIM-365](../claims.d/CLAIM-365.md)). It is a property of the demands and the
   admissible set, computable by an outside solver.
 - **What is granted.** The influence w_i a demand's process holds, in the
-  sense of conferral (TERM-tmplu4ih, formerly TERM-053): any effect of other processes on its share of future
-  influence, and a grant where governance confers it through a maintained rule (TERM-tmp08c21). [CLAIM-283](../claims.d/CLAIM-283.md) holds the gap between precedence claimed and
+  sense of conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), formerly [TERM-053](../terms.d/TERM-053.md)): any effect of other processes on its share of future
+  influence, and a grant where governance confers it through a maintained rule ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)). [CLAIM-283](../claims.d/CLAIM-283.md) holds the gap between precedence claimed and
   authority granted; A34 restated it as p_i − w_i, "a candidate indicator
   of frustrated precedence".
 

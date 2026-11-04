@@ -68,7 +68,7 @@ variants:
 
 - m is the meaning bias and a the authority bias, as in [CASE-099](CASE-099.md), with
   β authority shaping interpretation and γ interpretation shaping
-  conferral (TERM-tmplu4ih; [CLAIM-330](../claims.d/CLAIM-330.md)).
+  conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md); [CLAIM-330](../claims.d/CLAIM-330.md)).
 - r is the lean of the legibility regime toward one interpretation: which
   categories exist, what is recorded, which sources are channels. It is
   [QUESTION-253](../questions.d/QUESTION-253.md)'s "third, slower variable".

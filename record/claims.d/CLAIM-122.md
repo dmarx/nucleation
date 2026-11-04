@@ -103,7 +103,7 @@ citing it.
   is the causal machinery capable of altering what becomes effective.**
   They may be coupled; they are not identical." A8 uses "endorsement" in
   the reflective, Frankfurtian sense. What the record called
-  endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral (TERM-tmplu4ih),
+  endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)),
   is an effect of one process on another's share of influence, and is not
   Frankfurt's, so a filing from A8 says higher-order volition. A8's
   candidate claim is this one with [CLAIM-025](CLAIM-025.md), and was not filed. Its

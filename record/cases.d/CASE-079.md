@@ -89,7 +89,7 @@ they coordinate off the canvas or through it.
 A8 mapped the exchange's model onto it. The pixel array is observable, and
 what the pixels mean to each group is latent. Users, groups, subreddits,
 bots and alliances are operators at different scales. Following a plan or
-deferring to a template is conferral (TERM-tmplu4ih, [TERM-053](../terms.d/TERM-053.md)'s endorsement).
+deferring to a template is conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), [TERM-053](../terms.d/TERM-053.md)'s endorsement).
 
 - **The same act stabilizes or destabilizes, relative to a plan.** A8 §2:
   restoring a pixel is denoising for the group whose image it is, and the

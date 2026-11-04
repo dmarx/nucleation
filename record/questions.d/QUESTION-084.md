@@ -44,13 +44,13 @@ or independently converged on the same action ... Without that extra
 information, endorsement remains a latent explanatory hypothesis, not an
 observed variable."
 
-[TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral (TERM-tmplu4ih), is defined
+[TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)), is defined
 counterfactually, as the effect of one process's intervention on another's share of influence. That makes it an
 interventional quantity. The question is whether observation can reach it.
 
 It refines [QUESTION-063](QUESTION-063.md), which asks what measurement tells a shared external
 drive from coupling or from different internal routes. A grant
-(TERM-tmp08c21) adds a fourth candidate, authorization, which is a kind of coupling that runs
+([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)) adds a fourth candidate, authorization, which is a kind of coupling that runs
 through the allocation of influence. On r/place a shared template is a common
 cause, and following it is authorization. The placements are the same either
 way. Litherland and Mørch 2021 ([LIT-1037](../literature.d/LIT-1037.md)) read the planning forums beside

@@ -175,7 +175,7 @@ third, generalized beyond institutions.
   continuation" and reduces the capacity to leave it, whoever is served.
   Capture is about whose interpretation the evaluation serves. A regime
   can be either without the other.
-- **Not conferral** (TERM-tmplu4ih, [TERM-053](TERM-053.md)'s former endorsement). Conferral is the channel: any effect
+- **Not conferral** ([TERM-tmplu4ih](TERM-tmplu4ih.md), [TERM-053](TERM-053.md)'s former endorsement). Conferral is the channel: any effect
   of one process on another's share of influence. Capture is a regime of
   that channel.
 

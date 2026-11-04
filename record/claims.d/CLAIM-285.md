@@ -114,7 +114,7 @@ the first condition is the subject of [CLAIM-282](CLAIM-282.md): one-hop allocat
 a governance epoch meets it exactly, and recursive delegation does not.
 Leave-one-out delegation meets it beyond one hop ([CLAIM-502](CLAIM-502.md)).
 Conferral here is any effect on another operator's share of future
-influence (TERM-tmplu4ih), and explicit voting, a grant (TERM-tmp08c21),
+influence ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)), and explicit voting, a grant ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)),
 is one case of it.
 
 A3 carried the idea through a case. A skeptical operator opposes an

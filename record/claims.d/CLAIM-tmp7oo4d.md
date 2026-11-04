@@ -136,7 +136,7 @@ fixed.
   first is the open question.
 - (c) The owner made no correction.
 
-**Endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral (TERM-tmplu4ih).** A28 §5: "Previously, we treated tolerance as
+**Endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)).** A28 §5: "Previously, we treated tolerance as
 the amount of discrepancy from an endorsed will".
 
 - (a) This is Frankfurt's sense, the will a perspective would approve. The
