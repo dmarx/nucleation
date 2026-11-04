@@ -76,7 +76,7 @@ That specialization tends to produce such relief. Differentiation can
 also add costs or dependencies and shrink what is attainable. Whether and
 when it enlarges ℛ is [QUESTION-133](../questions.d/QUESTION-133.md).
 
-## Note of 2026-11-04: a budget form with complaint probabilities, from "Organizational Nucleation and SLT"
+## Note of 2026-11-04: a budget form with intervention probabilities, from "Organizational Nucleation and SLT"
 
 A16 §5, answering the owner's U15, gives this case in continuous form.
 Three perspectives share two units of governing opportunity:
@@ -86,7 +86,8 @@ d_i = 1 − x_i and tolerance 0.2, so each accepts x_i ≥ 0.8.
 - Any pair needs 1.6 units, so every pair is jointly satisfiable.
 - The triple needs 2.4, so it is not. The complex is ∂Δ², and the minimal
   conflict has three members, as here.
-- With complaint probability σ(16(d − τ)), every feasible allocation leaves
+- With intervention probability σ(16(d − τ)), the owner's corrected form
+  of U15's complaint probability (U17), every feasible allocation leaves
   some perspective at least at σ(16(1/3 − 0.2)) ≈ 0.894. The best is
   x_i = 2/3. "It cannot eliminate the underlying conflict; it can only
   distribute the departures from each perspective's ideal."

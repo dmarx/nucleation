@@ -141,7 +141,8 @@ The owner's U16 pointed to the Twitch Plays Pokémon cases and this one.
 
 What A16 adds here:
 
-- **A pixel is not a complaint.** Replacing a pixel "might express
+- **A pixel is not an intervention on the governing arrangement.**
+  Replacing a pixel "might express
   disagreement with an artwork, loyalty to a template, or merely
   participation in a local contest" (A16 §3).
 - **Off-canvas plans enlarge the complex.** A16 §6: negotiated boundaries

@@ -123,9 +123,10 @@ first and not the second.
   switching the regime. What he lacks is success, not endorsement.
 - (b) Read as intended, the owner's U12 "endorsement criteria" make a
   perspective's tolerance the switching surface of the sign of E_{i→j}
-  ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)). A complaint that is communicated and taken up is
-  negative endorsement, so the uptake of a complaint turns the reflective
-  sense into this one ([CLAIM-tmpu69za](../claims.d/CLAIM-tmpu69za.md); [QUESTION-270](../questions.d/QUESTION-270.md)).
+  ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)). An intervention that is carried and taken up is
+  negative endorsement, so the uptake of an intervention turns the
+  reflective sense into this one. U15 first framed it as a complaint, and
+  the owner recast that as an intervention threshold at U17 ([CLAIM-tmpu69za](../claims.d/CLAIM-tmpu69za.md); [QUESTION-270](../questions.d/QUESTION-270.md)).
 - (c) The owner made no correction. At U15 the owner chose the Frankfurtian
   sense deliberately: "apply tolerance as a condition on the Frankfurtian
   sense."

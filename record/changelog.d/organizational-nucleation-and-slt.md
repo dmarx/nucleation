@@ -8,7 +8,7 @@
 - The owner's claims, each Proposed:
   - the compatibility complex and SLT's singular geometry are two invariants of one object ([CLAIM-tmpzj6at](record/claims.d/CLAIM-tmpzj6at.md), U5);
   - a perspective's tolerance is its directed endorsement criterion ([CLAIM-tmpgjdby](record/claims.d/CLAIM-tmpgjdby.md), U12);
-  - complaint propensity times channel, so that silence is not endorsement ([CLAIM-tmpu69za](record/claims.d/CLAIM-tmpu69za.md), U15);
+  - a per-perspective intervention threshold times channel, so that not intervening is not endorsing ([CLAIM-tmpu69za](record/claims.d/CLAIM-tmpu69za.md), U15);
   - activation does not require expected success ([CLAIM-tmp6zm3v](record/claims.d/CLAIM-tmp6zm3v.md), U18);
   - tolerance derived from threshold ([CLAIM-tmp8e3ye](record/claims.d/CLAIM-tmp8e3ye.md), U15 → U17 → U19).
 - Two of A's claims, each Proposed: niche differentiation as relief of structural frustration ([CLAIM-tmpv67b2](record/claims.d/CLAIM-tmpv67b2.md)), and the quiescent complex is not the requirement complex ([CLAIM-tmp7oo4d](record/claims.d/CLAIM-tmp7oo4d.md)).
