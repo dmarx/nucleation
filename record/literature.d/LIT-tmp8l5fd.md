@@ -1,12 +1,15 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-11-04, not read. Registered from the synthesis "The
-  Evolution of Cooperation: From Coexistence to Symbiosis to Morality"
-  the owner supplied on 2026-11-04 (curation entry of that date). No
-  lawful free copy has been looked for.
+  searched 2026-11-04 for a lawful full text, and none was found, so it
+  is not read and no NOTE is filed. OpenAlex (no email address sent,
+  ADR-008) reports the book closed, with no repository holding a full
+  text. Its only location is Oxford Academic, which is paywalled. The
+  companion Nature article (Szathmáry and Maynard Smith 1995,
+  doi:10.1038/374227a0) is closed as well. A copy the owner supplies
+  returns it to reading.
 title: 'The Major Transitions in Evolution'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-04'
@@ -16,6 +19,12 @@ history:
     edition, issued 1997-10-30. The book first appeared in 1995 from W. H.
     Freeman/Spektrum; `published:` takes the date of the edition the DOI
     names.
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Status Deferred → Unavailable (ADR-041) at the owner's request to read
+    the works registered from the synthesis. OpenAlex lists no open copy
+    of the book or of the companion Nature article.
 tags:
 - philosophy-of-biology
 - individuation
@@ -48,7 +57,7 @@ Maynard Smith, J., Szathmáry, E. (1995). The Major Transitions in Evolution. Ox
 
 ## Key takeaways
 
-*Not read.*
+*Not read.* No lawful copy was found (see the status note).
 
 ## Standing in the record
 
