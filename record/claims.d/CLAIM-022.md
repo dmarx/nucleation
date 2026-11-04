@@ -71,7 +71,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: attribution and efficacy come apart in Metzinger's mental autonomy
 
-<!-- inactive-ok: THEORY-1298 — Proposed; the reading this note reports, cited as open -->
 
 Metzinger ([LIT-1941](../literature.d/LIT-1941.md), [LIT-1942](../literature.d/LIT-1942.md)) separates what makes a thought
 effective from what makes it the person's, in both directions.

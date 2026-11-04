@@ -209,7 +209,6 @@ the test the record most owes it.
 
 ## Note of 2026-11-01: mind-wandering as a mental-scale instance, and the test Metzinger names
 
-<!-- inactive-ok: THEORY-1297 THEORY-1300 THEORY-1296 ARG-051 — Proposed or Open; the readings, the inference and the question this note reports, cited as open -->
 
 Metzinger's work on mental autonomy ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md),
 [LIT-1945](../literature.d/LIT-1945.md)) was read for this claim. It is filed as [ARG-051](../arguments.d/ARG-051.md), a third

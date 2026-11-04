@@ -30,7 +30,6 @@ summary: >-
   artworks are those whose coalitions keep working under continual
   overwriting.
 ---
-<!-- inactive-ok-file: CLAIM-285 — Proposed; open claims and readings, cited as what this reading bears on, nothing rests on their being settled -->
 
 # NOTE-724: Wu & Silva — How Millions Coordinate at Scale
 

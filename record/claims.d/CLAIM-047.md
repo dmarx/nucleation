@@ -77,7 +77,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: the claim at the scale of mental action, with a candidate for what makes the difference
 
-<!-- inactive-ok: THEORY-1300 — Proposed or Open; the reading and the question this note reports, cited as open -->
 
 Metzinger's "moderate, nuanced position" on mind-wandering is this claim
 for one regime, second-order control of one's own thought: "what we have

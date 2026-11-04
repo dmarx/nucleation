@@ -116,7 +116,6 @@ status, title or warrant changes.
 
 ## Note of 2026-11-01: mental effort as a collision of claim and grant, proposed
 
-<!-- inactive-ok: THEORY-1296 — Proposed; the reading this note reports, cited as open -->
 
 Metzinger's chapter on mental action ([LIT-1945](../literature.d/LIT-1945.md), p. 10, read in
 [NOTE-1496](../notes.d/NOTE-1496.md)) gives the nearest thing in the record to the episode this

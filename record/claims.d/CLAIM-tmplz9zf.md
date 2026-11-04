@@ -33,7 +33,6 @@ summary: >-
   "a primitive analogue of a will-organization". Rechecked here by
   simulation.
 ---
-<!-- inactive-ok-file: TERM-tmp8cp5q — Proposed; terms added at the owner's review of 2026-11-03 -->
 
 # CLAIM-tmplz9zf: The persistence a Dirichlet–categorical hierarchy gives a run of selections is an observer's learning about a fixed mixture, not a change in what selects: under a uniform prior an observed first choice raises the predicted chance of repeating it from 1/2 to 2/3, while the same choice forced leaves it at 1/2, so the hierarchy's reinforcement is not evidence of self-formation or of a maintained will-organization, which need the mixture itself to change under the choice
 

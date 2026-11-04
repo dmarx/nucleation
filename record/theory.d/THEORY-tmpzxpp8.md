@@ -16,7 +16,6 @@ summary: >-
   surveyed rather than new, and its updating is offered as "can be viewed
   as", with the strict form said to be too strong.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwh2jo — Proposed; the claim the router bears on, cited as open -->
 
 # THEORY-tmpzxpp8: The Persona Selection Model holds that pre-training gives a language model a distribution over personas, that post-training updates it into a posterior over Assistant personas which runtime context keeps conditioning, and that the Assistant's traits are a key determiner of behaviour; it disowns a single coherent persona and exhaustiveness, and names as open a router that selects personas and could carry goals no persona has
 

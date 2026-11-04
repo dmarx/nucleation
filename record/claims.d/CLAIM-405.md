@@ -179,7 +179,6 @@ geographical one. The claim is unchanged.
 
 ## Note of 2026-10-31: Simondon's organization-studies readers, and two senses of "relative"
 
-<!-- inactive-ok-block: THEORY-1280 THEORY-1277 THEORY-1285 ARG-047 — Proposed or Rejected; the readings filed 2026-10-31 and the verdict on one of them, cited as context -->
 The readings filed today on Bencherki, Brummans and Vézy 2024 and its
 sources say that individuation is relative, in words close to this
 claim's. They mean two things by it, and only one of them is this claim's.
@@ -221,7 +220,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: constitution in the mechanists' sense is set-relative and not arbitrary
 
-<!-- inactive-ok-block: THEORY-1294 CLAIM-528 — Proposed; filed 2026-11-01, cited as context -->
 Two readings filed today give this claim's form in another literature.
 
 - **Relative to a phenomenon, and still capable of being false.**

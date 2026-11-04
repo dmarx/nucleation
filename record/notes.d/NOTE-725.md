@@ -26,7 +26,6 @@ summary: >-
   missed. There are no baselines or error bars, and participants are never
   modelled.
 ---
-<!-- inactive-ok-file: THEORY-224 — Proposed; an open claim and this reading's account, cited as what this reading bears on -->
 
 # NOTE-725: Adams, Fernandez & Witkowski — Two Ways of Understanding Social Dynamics
 

@@ -85,7 +85,6 @@ summary: >-
 illustrated_by:
 - CASE-123
 ---
-<!-- inactive-ok-file: TERM-tmp8spbn — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1324 LIT-1332 — Unavailable; Stigler and Entman, named as works the replies cited that no lawful copy reached -->

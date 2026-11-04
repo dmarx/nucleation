@@ -33,7 +33,6 @@ summary: >-
 variants:
 - CASE-142
 ---
-<!-- inactive-ok-file: CLAIM-415 — Proposed or Deferred; claims the case illustrates, cited as such -->
 
 # CASE-141: The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight
 

@@ -42,7 +42,6 @@ summary: >-
   level and target. [CLAIM-284](CLAIM-284.md) is its nearest held neighbour, a self as an
   organization that takes part in governing its own transformation.
 ---
-<!-- inactive-ok-file: TERM-tmp8spbn TERM-tmp8cp5q — Proposed; terms added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-167 — Proposed, Open, Deferred or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-tmpxpdqi CLAIM-tmpbeh2e CLAIM-329 TERM-088 — Proposed, Open or new; cited as open -->
 

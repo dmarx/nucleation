@@ -158,7 +158,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: mind-wandering splits into a content-driven onset and an efficacy-driven return
 
-<!-- inactive-ok: THEORY-1300 ARG-051 — Proposed; the reading and the inference this note reports, cited as open -->
 
 Metzinger's account of mind-wandering ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md)) bears
 on this claim in two halves, and only one is on its side.

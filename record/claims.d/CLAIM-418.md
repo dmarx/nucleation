@@ -178,7 +178,6 @@ The exchange of 2026-10-26 used the claim at both ends.
 
 ## Note of 2026-10-31: the Simondon and process readings
 
-<!-- inactive-ok-block: THEORY-1280 THEORY-1285 THEORY-1284 THEORY-1279 ARG-047 — Proposed or Rejected; the readings filed 2026-10-31 and the verdict on one of them, cited as context -->
 Three readings filed today bear on this claim. One of them was first said
 to, and on reading does not.
 

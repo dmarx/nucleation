@@ -142,7 +142,6 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: the three achievements in one mind
 
-<!-- inactive-ok: THEORY-1300 — Proposed or Open; the reading and the question this note reports, cited as open -->
 
 Metzinger's work on mind-wandering ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md)) has
 instances of two of this claim's separations within one person. Same

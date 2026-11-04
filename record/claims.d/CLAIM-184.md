@@ -126,7 +126,6 @@ lock-in.
 
 ## Note of 2026-10-31: the dense field, in organization studies
 
-<!-- inactive-ok-file: CLAIM-185 — Proposed; the thesis this counter answers -->
 
 Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), pp. 1356–1357) state this
 counter's worry as a property of fields. Each being-in-becoming is a

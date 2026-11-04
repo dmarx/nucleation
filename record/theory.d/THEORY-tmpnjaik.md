@@ -18,7 +18,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-tmpyhyrz — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpex9rg — Proposed; the claim that cites this entry -->
-<!-- inactive-ok-file: LIT-tmpnqv86 — Deferred; Kane, named by the entry -->
 
 # THEORY-tmpnjaik: In Bishop's account, chaos is a property of deterministic dynamics, so sensitive dependence is not indeterminism; under determinism it may model deliberation but is not sufficient for incompatibilist freedom, and under indeterminism the incompatibilist (Kane) must still show that agents can harness amplified indeterminism; and amplification itself may fail, since damping, the sign of the local Lyapunov exponents when a perturbation arrives, and the brain's parallel redundancy limit it
 

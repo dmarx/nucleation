@@ -28,7 +28,6 @@ summary: >-
   samples of 94–195. The primary study for SDT's claim that autonomy is
   not individualism, which it supports empirically only in this form.
 ---
-<!-- inactive-ok-file: THEORY-047 — Open or Proposed; neighbours cited as open -->
 
 # THEORY-tmphu42d: In Chirkov et al.'s student samples from South Korea, Russia, Turkey and the USA, the more autonomous people's reasons for engaging in practices of any cultural orientation, collectivist and vertical included, the higher their well-being, with no detectable difference across countries or genders; and vertical practices were much less internalized than horizontal ones
 

@@ -90,7 +90,6 @@ illustrated_by:
 - CASE-116
 - CASE-133
 ---
-<!-- inactive-ok-file: TERM-tmp8spbn — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: LIT-1381 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->

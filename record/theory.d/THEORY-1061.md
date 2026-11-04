@@ -22,7 +22,6 @@ summary: >-
   Flack is the convergence of members' estimates, not the variable's
   persistence.
 ---
-<!-- inactive-ok-file: CLAIM-327 — Proposed or Deferred; the claim this reading checks and the earlier paper it defers to, cited as open -->
 
 # THEORY-1061: Flack makes downward causation operational as components tuning their behaviour to their own estimates of aggregate variables they collectively compute: weak (apparent) when at least one component tunes to a variable slower than the behaviour producing it, strong (effective) when the variable is predictive, robust, used nearly universally, agreed on and gaining mutual information with the microscopic behaviour; she speaks of a new level only at the strong form, and regeneration of the variable by its use is not among her criteria
 

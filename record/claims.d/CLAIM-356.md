@@ -77,7 +77,6 @@ summary: >-
   not to the network, and nothing here says the network endorses or
   governs it.
 ---
-<!-- inactive-ok-file: TERM-tmp8spbn — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
 
 <!-- inactive-ok-file: CLAIM-016 CLAIM-174 CLAIM-367 THEORY-047 THEORY-054 THEORY-616 — Proposed or Deferred; open claims and readings, and a deferred claim cited in the body only, nothing here rests on their being settled -->
 

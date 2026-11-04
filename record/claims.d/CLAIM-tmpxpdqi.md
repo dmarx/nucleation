@@ -55,7 +55,6 @@ summary: >-
   restored: the sense is operational, the claim is descriptive, and it is
   open to the manipulation objection.
 ---
-<!-- inactive-ok-file: TERM-tmp8spbn — Proposed; terms added at the owner's review of 2026-11-03 -->
 <!-- inactive-ok-file: CLAIM-tmpexvc6 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-523 CLAIM-tmpex9rg LIT-1614 TERM-086 THEORY-040 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 

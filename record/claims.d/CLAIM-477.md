@@ -343,7 +343,6 @@ residue.
 
 ## Note of 2026-10-31: transduction, and a priority that is logical but not chronological
 
-<!-- inactive-ok-block: THEORY-1276 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
 Two things in the Simondonian readings filed today bear on this claim's
 recursion. Both come through commentators: Simondon's own text is
 Unavailable here ([LIT-1648](../literature.d/LIT-1648.md), [LIT-1900](../literature.d/LIT-1900.md)).

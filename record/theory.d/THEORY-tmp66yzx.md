@@ -18,7 +18,6 @@ summary: >-
   say any particular published PAC is an artefact, nor that broadband
   coupling far above the harmonics is.
 ---
-<!-- inactive-ok-file: THEORY-tmp6xjgq — Proposed; the reading of Jennings 2026 this bears on -->
 
 # THEORY-tmp66yzx: A phase-amplitude coupling measure can be significant when only one non-sinusoidal rhythm is present, because the rhythm's harmonics carry amplitude that depends on its own phase; such coupling is confined to bands spanning the rhythm's harmonics, so a measured coupling is evidence of one rhythm modulating another only after waveform shape is controlled
 

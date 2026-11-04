@@ -26,7 +26,6 @@ summary: >-
   evidence is correlational, mostly the author's 2019 study.
 ---
 <!-- inactive-ok-file: THEORY-tmptunid THEORY-tmp6xjgq CLAIM-tmpex9rg — Proposed; the readings of Jennings 2026 and the claim this bears on -->
-<!-- inactive-ok-file: THEORY-tmpicoxo — Proposed; filed from this reading -->
 
 # NOTE-tmpic1x7: Voigt — How hard decisions shape our preferences
 

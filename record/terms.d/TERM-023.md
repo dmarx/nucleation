@@ -64,7 +64,6 @@ silent drift.
 
 ## Note of 2026-11-01: Metzinger's M-autonomy, a mental-scale counterpart
 
-<!-- inactive-ok: THEORY-1300 THEORY-1296 ARG-051 — Proposed or Open; the readings and the inference this note reports, cited as open -->
 
 Metzinger's work on mental autonomy ([LIT-1942](../literature.d/LIT-1942.md), [LIT-1941](../literature.d/LIT-1941.md),
 [LIT-1945](../literature.d/LIT-1945.md)) has this term's shape at the scale of one mind's thinking.
