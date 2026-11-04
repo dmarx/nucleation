@@ -370,3 +370,7 @@ identified from the outputs", is qualified by this case's note of
 held" over "held and unused", weakly. The clause needs narrowing to the
 confounds that are exact (absorption into the private map, co-occurring
 features identified only in sum) before the case can be promoted.
+
+## Note of 2026-11-04: Gershman, Blei & Niv, "Context, learning, and extinction", read
+
+Gershman, Blei & Niv (2010), [LIT-tmpdnjkj](../literature.d/LIT-tmpdnjkj.md), read in [NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md), use the mixture counterpart of this case's latent-feature prior: a Chinese restaurant process rather than an Indian buffet, one cause per observation rather than several features. They set the product-style alternative aside for conditioning (pp. 204–205), so their success with a mixture says nothing against a feature allocation here, where members' activity can reflect several perspectives at once. It leaves open what distinguishes the two in data. No status changes.

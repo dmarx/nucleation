@@ -140,3 +140,7 @@ The owner's "very wu-wei" came back in the exchange "Assess SDT Coverage" (2026-
 control of chaos (U17). This note's predecessor recorded it as appearing once
 and not filed. On its second appearance it is filed as [CLAIM-541](CLAIM-541.md),
 Proposed, beside [CLAIM-162](CLAIM-162.md) and [CLAIM-358](CLAIM-358.md).
+
+## Note of 2026-11-04: Gershman, Blei & Niv, "Context, learning, and extinction", read
+
+Gershman, Blei & Niv (2010), [LIT-tmpdnjkj](../literature.d/LIT-tmpdnjkj.md), read in [NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md), formalise the same problem, inferring that a new hidden state exists, differently. They use a Chinese restaurant process prior admitting an unbounded number of latent causes, inferred online by a particle filter, rather than a fixed pool of spare hidden-state slots. It is a rival formalisation, not a test, and it says nothing about mental action or internal loops. It leaves open whether the two differ in prediction when the states needed exceed the spare pool. No status changes.

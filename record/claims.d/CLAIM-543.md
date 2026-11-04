@@ -141,3 +141,27 @@ the model's authors as a possible agency outside the persona distribution
 ([NOTE-1512](../notes.d/NOTE-1512.md)). Persona Vectors' cross-trait entanglement is undirected
 statistical dependence, H2a, not organization ([NOTE-1524](../notes.d/NOTE-1524.md)). The quotations
 from LDA check ([NOTE-1519](../notes.d/NOTE-1519.md)).
+
+## Note of 2026-11-04: Kemp, Perfors and Tenenbaum, "Learning overhypotheses", read
+
+[LIT-tmplu70i](../literature.d/LIT-tmplu70i.md), read in [NOTE-tmpazn9q](../notes.d/NOTE-tmpazn9q.md), supports this claim's first half. Its
+model is a three-level hierarchy whose categories are exchangeable given
+the higher-level parameters (α, β): hierarchical, and organizationally flat
+in this claim's sense. Its ontological-kinds extension adds a partition of
+categories into kinds, not components that condition which others are
+available. It is a model of a child's inference, not of an organization, so
+it illustrates the distinction and leaves the second half, that
+dependencies count only where interventions support them, untouched. No
+status changes.
+
+## Note of 2026-11-04: Kemp, Goodman and Tenenbaum, "Learning to Learn Causal Models", read
+
+[LIT-tmp6aw6y](../literature.d/LIT-tmp6aw6y.md), read in [NOTE-tmpvyejl](../notes.d/NOTE-tmpvyejl.md), qualifies this claim. Its causal
+schema carries models for pairs of categories, dependencies among latent
+components learned from intervention data (a block placed in a machine),
+which is nearer what this claim counts as organization than an
+exchangeable hierarchy. But the dependencies are in what components do
+together, not in which others are available or consequential, and the
+categories are flat, "not grouped into higher-level categories". Whether
+such learned interactions amount to organization in this claim's sense is
+left open. No status changes.

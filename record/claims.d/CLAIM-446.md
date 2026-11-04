@@ -427,3 +427,7 @@ owner's U19 chain.
   slash. A drew it as a further arrow ([QUESTION-372](../questions.d/QUESTION-372.md)).
 
 No status changes.
+
+## Note of 2026-11-04: Gershman, Blei & Niv, "Context, learning, and extinction", read
+
+Gershman, Blei & Niv (2010), [LIT-tmpdnjkj](../literature.d/LIT-tmpdnjkj.md), read in [NOTE-tmpn30ni](../notes.d/NOTE-tmpn30ni.md), offer a belief-level route by which repeated safety leaves a threat estimate standing. Safety trials can be assigned to a new latent cause, so the threat cause's statistics are never corrected, and threat returns when context points back to it. That is a rival to this claim's governance-maintained route, for the same observation. The paper models conditioning, not avoidance, so it does not show which route operates in anxiety. No status changes.
