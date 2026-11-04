@@ -24,7 +24,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpzamp4
 summary: >-
-  Lucas & Griffiths (2010), LIT-tmpzamp4, read in full in NOTE-tmp8uiyl.
+  Lucas & Griffiths (2010), [LIT-tmpzamp4](../literature.d/LIT-tmpzamp4.md), read in full in [NOTE-tmp8uiyl](../notes.d/NOTE-tmp8uiyl.md).
   Five blicket-meter experiments: training that suggests a conjunctive,
   noisy-disjunctive or deterministic form changes judgments of new objects
   in an identical test block, and more within a domain than across; a
@@ -40,7 +40,7 @@ summary: >-
 ## Source
 
 Lucas & Griffiths (2010), *Cognitive Science* 34(1): 113–147,
-LIT-tmpzamp4; read in full in NOTE-tmp8uiyl.
+[LIT-tmpzamp4](../literature.d/LIT-tmpzamp4.md); read in full in [NOTE-tmp8uiyl](../notes.d/NOTE-tmp8uiyl.md).
 
 ## What was actually shown
 

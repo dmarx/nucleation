@@ -141,11 +141,11 @@ and colleagues, and on hierarchical Bayesian models of abstract knowledge
 (Tenenbaum, Griffiths, Kemp). The authors call Kemp, Goodman and
 Tenenbaum's causal schemata "complementary" (§11.5): that work learns
 which objects belong to which causal types, this one how causes of a type
-combine. Jiang & Lucas (2024), LIT-tmpjrcmk, read the same day, takes
+combine. Jiang & Lucas (2024), [LIT-tmpjrcmk](../literature.d/LIT-tmpjrcmk.md), read the same day, takes
 this paper's sigmoid theory space into active learning. For individual
 responses it adopts probability matching (Vul & Pashler 2008), the
-response rule NOTE-599 also argues for. Its rational-analysis framing is
-shared with LIT-1071 (Lieder & Griffiths) and LIT-1056 (Gershman &
+response rule [NOTE-599](NOTE-599.md) also argues for. Its rational-analysis framing is
+shared with [LIT-1071](../literature.d/LIT-1071.md) (Lieder & Griffiths) and [LIT-1056](../literature.d/LIT-1056.md) (Gershman &
 Goodman), as background only.
 
 ## Bearing on the record
@@ -168,20 +168,20 @@ Goodman), as background only.
     reversed prediction of Experiment 2; the need for a
     disjunction-favouring prior; and the authors' own statement that the
     sigmoid model is not a general account.
-- **QUESTION-276** (identifying latent higher-level perspectives from
+- **[QUESTION-276](../questions.d/QUESTION-276.md)** (identifying latent higher-level perspectives from
   members' activity): unrelated in subject; a structural analogue at most,
   inference to an abstract level shared across data sets with disjoint
   variables. Neither supports nor qualifies it.
-- **CASE-165, LIT-1542, THEORY-484, THEORY-070, QUESTION-325, CLAIM-446**:
-  unrelated. LIT-1542 is of the same hierarchical-Bayesian family but
+- **[CASE-165](../cases.d/CASE-165.md), [LIT-1542](../literature.d/LIT-1542.md), [THEORY-484](../theory.d/THEORY-484.md), [THEORY-070](../theory.d/THEORY-070.md), [QUESTION-325](../questions.d/QUESTION-325.md), [CLAIM-446](../claims.d/CLAIM-446.md)**:
+  unrelated. [LIT-1542](../literature.d/LIT-1542.md) is of the same hierarchical-Bayesian family but
   nonparametric; here the theory space is a fixed two-parameter family.
-- **LIT-563 / NOTE-466 (HDDM)**: the parameter-pooling sense of
+- **[LIT-563](../literature.d/LIT-563.md) / [NOTE-466](NOTE-466.md) (HDDM)**: the parameter-pooling sense of
   "hierarchical" that A's §3 separates; here the hierarchy is a cognitive
   hypothesis. One shared point is the worry about artifacts of averaging.
-- **THEORY-1012**: its count-based construction parallels the sigmoid in
+- **[THEORY-1012](../theory.d/THEORY-1012.md)**: its count-based construction parallels the sigmoid in
   the number of blickets, but it is a latent-feature model, unrelated in
   subject.
-- Filed: THEORY-tmp1n0rh.
+- Filed: [THEORY-tmp1n0rh](../theory.d/THEORY-tmp1n0rh.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

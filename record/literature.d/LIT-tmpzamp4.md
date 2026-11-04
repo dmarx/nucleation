@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmp8uiyl) from the publisher's typeset PDF
+  read in full 2026-11-04 ([NOTE-tmp8uiyl](../notes.d/NOTE-tmp8uiyl.md)) from the publisher's typeset PDF
   posted on Thomas Griffiths's lab publications page; worth reading as the
   standard formal account of how people learn the functional form of
   causal relationships (whether causes combine disjunctively or
@@ -75,7 +75,7 @@ Lucas, C. G. & Griffiths, T. L. (2010). Learning the form of causal relationship
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp8uiyl.*
+*From the reading, [NOTE-tmp8uiyl](../notes.d/NOTE-tmp8uiyl.md).*
 
 - **Theory-level transfer.** Evidence about one set of objects changes
   causal judgments about a disjoint set, which only a hierarchical model
@@ -97,5 +97,5 @@ Lucas, C. G. & Griffiths, T. L. (2010). Learning the form of causal relationship
 
 Registered from A's synthesis, which miscredits it to "Lucas and
 colleagues". The record held no work on human causal induction before
-it; Jiang & Lucas (2024), LIT-tmpjrcmk, builds its active-learning model
-on this paper's sigmoid theory space. Filed from it: THEORY-tmp1n0rh.
+it; Jiang & Lucas (2024), [LIT-tmpjrcmk](LIT-tmpjrcmk.md), builds its active-learning model
+on this paper's sigmoid theory space. Filed from it: [THEORY-tmp1n0rh](../theory.d/THEORY-tmp1n0rh.md).

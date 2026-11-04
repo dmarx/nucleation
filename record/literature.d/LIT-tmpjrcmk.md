@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpm6c07) from the publisher's open-access
+  read in full 2026-11-04 ([NOTE-tmpm6c07](../notes.d/NOTE-tmpm6c07.md)) from the publisher's open-access
   PDF (CC BY 4.0); worth reading as a model of active learning to learn in
   causal induction: interventions chosen by a weighted sum of expected
   information gain about the functional form (an overhypothesis that
@@ -74,7 +74,7 @@ Jiang, C. & Lucas, C. G. (2024). Actively learning to learn causal relationships
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpm6c07.*
+*From the reading, [NOTE-tmpm6c07](../notes.d/NOTE-tmpm6c07.md).*
 
 - **Two levels of information.** Interventions are scored by a weighted
   sum of information gain about the functional form and about the
@@ -97,6 +97,6 @@ Jiang, C. & Lucas, C. G. (2024). Actively learning to learn causal relationships
 
 Registered from A's synthesis, which characterizes it fairly but leaves
 out the group-level result against transfer. It extends Lucas &
-Griffiths (2010), LIT-tmpzamp4, from passive to active learning. Its
+Griffiths (2010), [LIT-tmpzamp4](LIT-tmpzamp4.md), from passive to active learning. Its
 intervention criterion is the expected information gain of Bayesian
-experimental design (LIT-1525). Filed from it: THEORY-tmpbgkfv.
+experimental design ([LIT-1525](LIT-1525.md)). Filed from it: [THEORY-tmpbgkfv](../theory.d/THEORY-tmpbgkfv.md).

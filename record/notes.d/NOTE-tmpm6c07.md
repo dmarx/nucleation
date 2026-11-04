@@ -65,7 +65,7 @@ w = 0).
 
 - **The theory space.** Blickets are exchangeable, generative causes;
   activation is a monotone sigmoid in the number present, after Lucas &
-  Griffiths (2010), LIT-tmpzamp4, on a 20 × 20 grid of bias b ∈ [0, 2.85]
+  Griffiths (2010), [LIT-tmpzamp4](../literature.d/LIT-tmpzamp4.md), on a 20 × 20 grid of bias b ∈ [0, 2.85]
   and gain γ ∈ [0, 38], extended to "3-conjunctive" forms. No preventive,
   continuous or subtype causes.
 - **Priors.** Uniform over structures at the start of every task; only
@@ -131,15 +131,15 @@ w = 0).
 
 ## Connections
 
-It extends Lucas & Griffiths (2010), LIT-tmpzamp4, read the same day,
+It extends Lucas & Griffiths (2010), [LIT-tmpzamp4](../literature.d/LIT-tmpzamp4.md), read the same day,
 from passive to active learning, and Kemp, Perfors & Tenenbaum's
 overhypotheses to intervention choice. Its EIG is the Bayesian design
-criterion that goes back to Lindley (LIT-1675) and is reviewed by
-Chaloner & Verdinelli (LIT-1525, NOTE-1161); a weighted sum of two
+criterion that goes back to Lindley ([LIT-1675](../literature.d/LIT-1675.md)) and is reviewed by
+Chaloner & Verdinelli ([LIT-1525](../literature.d/LIT-1525.md), [NOTE-1161](NOTE-1161.md)); a weighted sum of two
 marginal gains is a non-standard utility by that review's lights. Its
 explanation of No-Transfer and random-like participants as low-effort
-strategies is in the resource-rational vein of LIT-1071 and THEORY-359,
-but it fits no cost model. Epistemic value in active inference (LIT-577)
+strategies is in the resource-rational vein of [LIT-1071](../literature.d/LIT-1071.md) and [THEORY-359](../theory.d/THEORY-359.md),
+but it fits no cost model. Epistemic value in active inference ([LIT-577](../literature.d/LIT-577.md))
 is a rival framing of information seeking that it does not discuss.
 
 ## Bearing on the record
@@ -164,27 +164,27 @@ is a rival framing of information seeking that it does not discuss.
     normalized gains); and that Fixed-Form and Structure-Only-EIG barely
     beat random, the paper's strongest result, which supports rich forms
     and form-seeking more firmly than transfer.
-- **QUESTION-276**: unrelated in subject; the method is analogous
+- **[QUESTION-276](../questions.d/QUESTION-276.md)**: unrelated in subject; the method is analogous
   (inference to an abstract level shared across problems), neither
   supporting nor qualifying it.
-- **CASE-165, LIT-1542**: unrelated; the theory space is a fixed parametric
+- **[CASE-165](../cases.d/CASE-165.md), [LIT-1542](../literature.d/LIT-1542.md)**: unrelated; the theory space is a fixed parametric
   grid, not nonparametric.
-- **THEORY-484**: unrelated; the paper sets meta-reinforcement learning
+- **[THEORY-484](../theory.d/THEORY-484.md)**: unrelated; the paper sets meta-reinforcement learning
   aside as a rival family on sample efficiency and tests nothing about
   options.
-- **THEORY-070**: unrelated, a loose echo: low-effort strategies are
+- **[THEORY-070](../theory.d/THEORY-070.md)**: unrelated, a loose echo: low-effort strategies are
   invoked, no control cost is modelled.
-- **QUESTION-325, CLAIM-446**: unrelated in subject. Under a conjunctive
+- **[QUESTION-325](../questions.d/QUESTION-325.md), [CLAIM-446](../claims.d/CLAIM-446.md)**: unrelated in subject. Under a conjunctive
   world, single-block interventions are uninformative, since every
   hypothesis predicts no activation: a policy under which the hypotheses
-  predict the same observation, the mechanism CLAIM-446 invokes for
+  predict the same observation, the mechanism [CLAIM-446](../claims.d/CLAIM-446.md) invokes for
   avoidance, here without threat or affect. It neither supports nor
   qualifies either.
-- **LIT-563 / NOTE-466 (HDDM)**: the pooling sense of "hierarchical". The
+- **[LIT-563](../literature.d/LIT-563.md) / [NOTE-466](NOTE-466.md) (HDDM)**: the pooling sense of "hierarchical". The
   paper's argument that an averaged model may not capture any individual
   motivates hierarchical estimation, but Jiang and Lucas fit each
   individual separately, without pooling.
-- Filed: THEORY-tmpbgkfv.
+- Filed: [THEORY-tmpbgkfv](../theory.d/THEORY-tmpbgkfv.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

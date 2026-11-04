@@ -26,7 +26,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpjrcmk
 summary: >-
-  Jiang & Lucas (2024), LIT-tmpjrcmk, read in NOTE-tmpm6c07 (appendices
+  Jiang & Lucas (2024), [LIT-tmpjrcmk](../literature.d/LIT-tmpjrcmk.md), read in [NOTE-tmpm6c07](../notes.d/NOTE-tmpm6c07.md) (appendices
   not read). Two preregistered online blicket experiments. Learners that
   ignore form information or hold one fixed form barely beat random at
   predicting interventions; the model that does not transfer edges the
@@ -42,7 +42,7 @@ summary: >-
 ## Source
 
 Jiang & Lucas (2024), *Computational Brain & Behavior* 7(1): 80–105,
-arXiv:2206.09777, LIT-tmpjrcmk; read in NOTE-tmpm6c07.
+arXiv:2206.09777, [LIT-tmpjrcmk](../literature.d/LIT-tmpjrcmk.md); read in [NOTE-tmpm6c07](../notes.d/NOTE-tmpm6c07.md).
 
 ## What was actually shown
 
