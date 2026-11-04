@@ -16,6 +16,8 @@ tags:
 date: '2026-11-04'
 source:
 - LIT-tmpblw9a
+corroborates:
+- CLAIM-tmpjnqe9
 summary: >-
   Van Lange and Bergmann (2026), [LIT-tmpblw9a](../literature.d/LIT-tmpblw9a.md), read in [NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md). A
   Perspective: a staged model drawn from the authors' selection of the

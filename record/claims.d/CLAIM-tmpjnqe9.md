@@ -25,7 +25,6 @@ complements:
 grounds:
 - THEORY-567
 - LIT-501
-- LIT-tmpblw9a
 - THEORY-468
 bears_on:
 - QUESTION-tmp22a7y
@@ -41,7 +40,7 @@ summary: >-
   within groups is bought by group extinction. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-545 THEORY-468 THEORY-tmpmr4g4 — Proposed or new; cited as open -->
+<!-- inactive-ok-file: CLAIM-545 THEORY-468 THEORY-tmpmr4g4 ARG-tmpv5t3t — Proposed, Rejected or new; cited as open, or as the verdict on a reading -->
 
 # CLAIM-tmpjnqe9: Cooperation within groups and the coexistence of groups are distinct targets that can trade off: in the group-selection rule of Nowak's five, b/c > 1 + n/m, cooperation spreads because a group that grows to size n splits and another group is driven extinct, so the mechanism that stabilizes cooperation inside groups works by removing groups; cooperation local to a group, the persistence of several groups whose interests are opposed, and concern for those outside one's group are three achievements, and none of them secures the next
 
@@ -67,9 +66,9 @@ None secures the next. The group-selection model has the first without
 the second. A society of coexisting groups that are each indifferent to
 outsiders has the second without the third. Morality-as-cooperation's
 group-loyalty domain ([THEORY-468](../theory.d/THEORY-468.md)) is a solution to the first problem,
-and it can work against the second. Van Lange and Bergmann ([LIT-tmpblw9a](../literature.d/LIT-tmpblw9a.md),
-unread) are the synthesis's evidence that, among people, cooperation is
-robust between individuals and fragile between groups.
+and it can work against the second. The synthesis cites Van Lange and
+Bergmann for the human case. Read, the review corroborates the first link
+only (THEORY-tmpmr4g4); ARG-tmpv5t3t gives the verdict.
 
 The record's other entries put this in two places:
 

@@ -16,6 +16,8 @@ tags:
 date: '2026-11-04'
 source:
 - LIT-tmpdmpbq
+corroborates:
+- CLAIM-474
 summary: >-
   West et al. (2015), [LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), read in [NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md). A colloquium
   review: the definition and the two steps are the authors' framework, and
