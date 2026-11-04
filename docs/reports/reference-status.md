@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**808 documents cited without acknowledgement.** Not listed: 15282 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**810 documents cited without acknowledgement.** Not listed: 15282 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2499,6 +2499,23 @@ Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Soc
 - [`record/theory.d/THEORY-653.md:15`](../../record/theory.d/THEORY-653.md)
 - [`record/theory.d/THEORY-653.md:30`](../../record/theory.d/THEORY-653.md)
 
+### [NOTE-1437](../../record/notes.d/NOTE-1437.md) — Skimmed
+
+Moreno & Mossio — Biological Autonomy, the Introduction
+
+10 citations in 3 files await a look.
+
+- [`record/decisions.d/ADR-069.md:31`](../../record/decisions.d/ADR-069.md)
+- [`record/decisions.d/ADR-069.md:79`](../../record/decisions.d/ADR-069.md)
+- [`record/decisions.d/ADR-069.md:80`](../../record/decisions.d/ADR-069.md)
+- [`record/literature.d/LIT-536.md:14`](../../record/literature.d/LIT-536.md)
+- [`record/literature.d/LIT-536.md:44`](../../record/literature.d/LIT-536.md)
+- [`record/literature.d/LIT-536.md:87`](../../record/literature.d/LIT-536.md)
+- [`record/literature.d/LIT-536.md:192`](../../record/literature.d/LIT-536.md)
+- [`record/theory.d/THEORY-072.md:92`](../../record/theory.d/THEORY-072.md)
+- [`record/theory.d/THEORY-072.md:182`](../../record/theory.d/THEORY-072.md)
+- [`record/theory.d/THEORY-072.md:274`](../../record/theory.d/THEORY-072.md)
+
 ### [NOTE-1499](../../record/notes.d/NOTE-1499.md) — Skimmed
 
 Metzinger — The Elephant and the Blind
@@ -3502,20 +3519,6 @@ Morality as Cooperation: A Problem-Centred Approach
 - [`record/theory.d/THEORY-468.md:52`](../../record/theory.d/THEORY-468.md)
 - [`record/theory.d/THEORY-494.md:108`](../../record/theory.d/THEORY-494.md)
 - [`record/theory.d/THEORY-653.md:70`](../../record/theory.d/THEORY-653.md)
-
-### [NOTE-1437](../../record/notes.d/NOTE-1437.md) — Skimmed
-
-Moreno & Mossio — Biological Autonomy, the Introduction
-
-7 citations in 2 files await a look.
-
-- [`record/literature.d/LIT-536.md:14`](../../record/literature.d/LIT-536.md)
-- [`record/literature.d/LIT-536.md:44`](../../record/literature.d/LIT-536.md)
-- [`record/literature.d/LIT-536.md:87`](../../record/literature.d/LIT-536.md)
-- [`record/literature.d/LIT-536.md:192`](../../record/literature.d/LIT-536.md)
-- [`record/theory.d/THEORY-072.md:92`](../../record/theory.d/THEORY-072.md)
-- [`record/theory.d/THEORY-072.md:182`](../../record/theory.d/THEORY-072.md)
-- [`record/theory.d/THEORY-072.md:274`](../../record/theory.d/THEORY-072.md)
 
 ### [NOTE-291](../../record/notes.d/NOTE-291.md) — Skimmed
 
@@ -5282,6 +5285,17 @@ Kothapalli — Neural Collapse: A Review on Modelling Principles and Generalizat
 - [`record/literature.d/LIT-978.md:22`](../../record/literature.d/LIT-978.md)
 - [`record/literature.d/LIT-978.md:67`](../../record/literature.d/LIT-978.md)
 - [`record/literature.d/LIT-978.md:93`](../../record/literature.d/LIT-978.md)
+
+### [NOTE-832](../../record/notes.d/NOTE-832.md) — Skimmed
+
+Fricker — Epistemic Injustice (précis)
+
+4 citations in 2 files await a look; 8 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-069.md:79`](../../record/decisions.d/ADR-069.md)
+- [`record/decisions.d/ADR-069.md:81`](../../record/decisions.d/ADR-069.md)
+- [`record/questions.d/QUESTION-072.md:12`](../../record/questions.d/QUESTION-072.md)
+- [`record/questions.d/QUESTION-072.md:144`](../../record/questions.d/QUESTION-072.md)
 
 ### [QUESTION-061](../../record/questions.d/QUESTION-061.md) — Deferred
 
@@ -7360,6 +7374,15 @@ The Grammar of Society: The Nature and Dynamics of Social Norms
 - [`record/decisions.d/ADR-018.md:53`](../../record/decisions.d/ADR-018.md)
 - [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
 
+### [LIT-536](../../record/literature.d/LIT-536.md) — Unfetched
+
+Biological Autonomy: A Philosophical and Theoretical Enquiry
+
+2 citations in 1 file await a look; 23 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-069.md:31`](../../record/decisions.d/ADR-069.md)
+- [`record/decisions.d/ADR-069.md:80`](../../record/decisions.d/ADR-069.md)
+
 ### [LIT-723](../../record/literature.d/LIT-723.md) — Unavailable
 
 Making Things Happen: A Theory of Causal Explanation
@@ -7476,15 +7499,6 @@ Causality: Models, Reasoning, and Inference
 
 - [`record/questions.d/QUESTION-226.md:26`](../../record/questions.d/QUESTION-226.md)
 - [`record/questions.d/QUESTION-226.md:41`](../../record/questions.d/QUESTION-226.md)
-
-### [NOTE-832](../../record/notes.d/NOTE-832.md) — Skimmed
-
-Fricker — Epistemic Injustice (précis)
-
-2 citations in 1 file await a look; 8 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-072.md:12`](../../record/questions.d/QUESTION-072.md)
-- [`record/questions.d/QUESTION-072.md:144`](../../record/questions.d/QUESTION-072.md)
 
 ### [QUESTION-007](../../record/questions.d/QUESTION-007.md) — Deferred
 
@@ -8567,6 +8581,14 @@ Manipulation: Theory and Practice
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-745.md:188`](../../record/notes.d/NOTE-745.md)
+
+### [LIT-1004](../../record/literature.d/LIT-1004.md) — Unavailable
+
+Epistemic Injustice: Power and the Ethics of Knowing
+
+1 citation in 1 file awaits a look; 36 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-069.md:81`](../../record/decisions.d/ADR-069.md)
 
 ### [LIT-108](../../record/literature.d/LIT-108.md) — Unavailable
 

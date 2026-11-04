@@ -293,6 +293,9 @@ Everything not listed here is at Luria's default.
 | `patterns.inverted_ground` | *3 keys set* | *unset* |
 | `patterns.answered_but_open` | *3 keys set* | *unset* |
 | `patterns.answered_but_open_reading` | *3 keys set* | *unset* |
+| `patterns.read_but_unreached` | *3 keys set* | *unset* |
+| `patterns.read_but_unfetched` | *3 keys set* | *unset* |
+| `patterns.read_but_unreviewed` | *3 keys set* | *unset* |
 | `patterns.argued_from` | *2 keys set* | *unset* |
 | `patterns.undercuts_support_of` | *2 keys set* | *unset* |
 | `patterns.argued_for` | *5 keys set* | *unset* |
@@ -300,7 +303,7 @@ Everything not listed here is at Luria's default.
 | `stale_days` | `14` | `90` |
 | `reliance` | `rests_on`, `grounds`, `uses`, `presupposes` | *empty* |
 | `load_bearing` | `5` | `None` |
-| `lint.fail_on` | `workflow-temp-codes`, `source-mismatch`, `inverted_premise`, `inverted_ground`, `answered_but_open`, `answered_but_open_reading` | *empty* |
+| `lint.fail_on` | `workflow-temp-codes`, `source-mismatch`, `inverted_premise`, `inverted_ground`, `answered_but_open`, `answered_but_open_reading`, `read_but_unreached`, `read_but_unfetched`, `read_but_unreviewed` | *empty* |
 | `lint.mute` | `inert-status`, `acknowledged-uniformity` | *empty* |
 | `lint.baseline` | *1 key set* | *empty* |
 | `vocabularies.topics` | *4 keys set* | *unset* |
