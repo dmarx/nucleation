@@ -20,7 +20,7 @@ history:
   date: '2026-11-04'
   note: >-
     Registered and read on 2026-11-04 from the owner's pasted synthesis
-    "Hierarchical probabilistic models in cognitive science", written by
+    on hierarchical probabilistic models in cognitive science, written by
     another assistant (A), which cites it as Körding et al. (2007) in its
     section 2. Citation checked against Crossref: Konrad P. Körding, Ulrik
     Beierholm, Wei Ji Ma, Steven Quartz, Joshua B. Tenenbaum and Ladan

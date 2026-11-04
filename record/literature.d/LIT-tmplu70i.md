@@ -18,7 +18,7 @@ history:
   date: '2026-11-04'
   note: >-
     Registered and read on 2026-11-04 from the owner's pasted synthesis
-    "Hierarchical probabilistic models in cognitive science", written by
+    on hierarchical probabilistic models in cognitive science, written by
     another assistant (A), where it is item A of the cited works.
     Citation checked against Crossref and OpenAlex: Charles Kemp, Amy
     Perfors and Joshua B. Tenenbaum, Developmental Science 10(3),

@@ -1,0 +1,107 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-04 (NOTE-tmpwdo6q) from the open-access text in
+  Europe PMC (PMC3096853); worth reading as the derivation of what the
+  later paper names the Hierarchical Gaussian Filter: closed-form,
+  trial-by-trial updates for a hierarchy of Gaussian random walks in which
+  each level sets the step size of the one below, so that the learning
+  rate is set by inferred volatility and individual differences are fixed
+  coupling parameters. Purely theoretical, as the authors say: simulations
+  and one currency series, no data from people, no fitting, and no check
+  of the variational approximation against exact inversion, which can
+  fail when the variational energies are far from quadratic.
+title: 'A Bayesian foundation for individual learning under uncertainty'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered and read on 2026-11-04 from the owner's pasted synthesis
+    on hierarchical probabilistic models in cognitive science, written by
+    another assistant, which cites it in §3 as the hierarchical Gaussian
+    filter of "Mathys and collaborators", with no year or title.
+    Citation checked against Crossref and OpenAlex: Frontiers in Human
+    Neuroscience 5, article 39, doi:10.3389/fnhum.2011.00039, PMCID
+    PMC3096853, PMID 21629826. Corrected: Crossref and OpenAlex list
+    only Mathys as author; the article's own front matter (Europe PMC
+    JATS) and the Frontiers page give four, Christoph Mathys, Jean
+    Daunizeau, Karl J. Friston and Klaas E. Stephan. Crossref gives only
+    the year 2011; `published:` is the Frontiers publication date,
+    2 May 2011 (`citation_publication_date`, matching Europe PMC's first
+    publication date). The Frontiers page also carries an online date of
+    29 March 2011, probably acceptance or a provisional version; what it
+    marks was not confirmed, so it is not used. Frontiers labels the
+    paper Original Research; PMC's `review-article` tag is wrong for
+    it. Read in full (NOTE-tmpwdo6q) from the Europe PMC full-text XML,
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3096853/fullTextXML;
+    the Frontiers page was fetched for metadata only.
+tags:
+- learning-and-conditioning
+- probabilistic-modeling
+- neuroscience
+date: '2026-11-04'
+published: '2011-05-02'
+doi: '10.3389/fnhum.2011.00039'
+first_author: 'Mathys'
+keywords:
+- 'hierarchical models'
+- 'variational Bayes'
+- 'volatility'
+- 'learning rate'
+- 'prediction error'
+- 'neuromodulation'
+- 'individual differences'
+implementations: []
+summary: >-
+  Mathys, Daunizeau, Friston & Stephan (2011). A generative model of an
+  agent's learning: a binary state, a tendency whose logistic gives its
+  probability, and a log-volatility, each level above the first a
+  Gaussian random walk whose variance is exp(κx3 + ω) of the level above,
+  the top one with constant variance ϑ. A mean-field variational
+  approximation, with each variational energy expanded to second order at
+  the previous posterior mean, gives closed-form one-step updates of
+  Rescorla–Wagner form, whose level-2 learning rate is the posterior
+  variance and rises with the volatility estimate. The parameters κ, ω
+  and ϑ are fixed per agent, so individual differences are priors and
+  each agent is optimal by its own lights. Simulations of 320 binary
+  trials, perceptual uncertainty and a currency series illustrate it;
+  mappings to anxiety and dopamine are speculative.
+---
+<!-- inactive-ok-file: THEORY-tmpjlua4 — Proposed or new; cited from the reading of Mathys et al. (2011) as open -->
+
+# LIT-tmpld7ct: A Bayesian foundation for individual learning under uncertainty
+
+Mathys, C., Daunizeau, J., Friston, K. J. & Stephan, K. E. (2011). A Bayesian foundation for individual learning under uncertainty. *Frontiers in Human Neuroscience* 5: 39. doi:10.3389/fnhum.2011.00039.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpwdo6q.*
+
+- **A hierarchy of volatilities, inside one agent.** "The model assumes
+  Gaussian random walks of states at all but the first level, with the
+  step size determined by the next highest level" (Abstract).
+- **Learning rates fall out of the inversion.** The mean updates are
+  prediction plus learning rate times prediction error, and the level-2
+  learning rate is the posterior variance: "the less confident the agent
+  is about what it knows, the greater the influence of new information
+  should be" (Structural interpretation).
+- **Individual differences are parameters, not pooling.** "we model the
+  individual variability between agents by putting delta-function priors
+  on the parameters" (Exact inversion). Nothing is estimated across
+  participants.
+- **Theory only.** "To prevent any false expectations, we would like to
+  point out that this paper is of a purely theoretical nature"
+  (Introduction); fitting to data is left to later work.
+
+## Standing in the record
+
+The owner's pasted synthesis of 2026-11-04 placed the hierarchical
+Gaussian filter in its §3, beside HDDM (LIT-563), as hierarchical
+estimation of parameters across participants. That is the wrong sense of
+hierarchical: the hierarchy here is over hidden states in one agent's
+model, and parameters are per agent. The synthesis's own table row,
+"Hierarchical Bayesian filtering", is the right placement. The wording
+the synthesis puts in quotation marks is its own paraphrase and is not in
+this paper. Its generalization to n levels, under the name Hierarchical
+Gaussian Filter, is LIT-tmpkft30. Filed from it: THEORY-tmpjlua4.

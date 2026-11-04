@@ -19,7 +19,7 @@ history:
   date: '2026-11-04'
   note: >-
     Registered and read on 2026-11-04 from the owner's pasted synthesis
-    "Hierarchical probabilistic models in cognitive science", written by
+    on hierarchical probabilistic models in cognitive science, written by
     another assistant (A), which cites it only as "A related 2014 EEG
     study", with no authors or title, inside a sentence it presents as a
     quotation of Collins and Frank (2013) and which is A's paraphrase.

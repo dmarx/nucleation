@@ -18,7 +18,7 @@ history:
   note: >-
     Filed Proposed from NOTE-tmpazn9q, the reading of Kemp, Perfors and
     Tenenbaum (2007), registered from the owner's pasted synthesis
-    "Hierarchical probabilistic models in cognitive science" of
+    on hierarchical probabilistic models in cognitive science of
     2026-11-04. The wording is the reader's.
 tags:
 - cognition

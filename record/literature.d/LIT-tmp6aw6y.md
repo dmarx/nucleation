@@ -20,7 +20,7 @@ history:
   date: '2026-11-04'
   note: >-
     Registered and read on 2026-11-04 from the owner's pasted synthesis
-    "Hierarchical probabilistic models in cognitive science", written by
+    on hierarchical probabilistic models in cognitive science, written by
     another assistant (A), where it is item B of the cited works.
     Citation checked against Crossref: Charles Kemp, Noah D. Goodman and
     Joshua B. Tenenbaum, Cognitive Science 34(7), 1185–1243; PubMed

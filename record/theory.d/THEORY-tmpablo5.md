@@ -18,7 +18,7 @@ history:
   note: >-
     Filed Proposed from NOTE-tmpvyejl, the reading of Kemp, Goodman and
     Tenenbaum (2010), registered from the owner's pasted synthesis
-    "Hierarchical probabilistic models in cognitive science" of
+    on hierarchical probabilistic models in cognitive science of
     2026-11-04. The wording is the reader's.
 tags:
 - causality

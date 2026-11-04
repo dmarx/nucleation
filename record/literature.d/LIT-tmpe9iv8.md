@@ -19,7 +19,7 @@ history:
   date: '2026-11-04'
   note: >-
     Registered and read on 2026-11-04 from the owner's pasted synthesis
-    "Hierarchical probabilistic models in cognitive science", written by
+    on hierarchical probabilistic models in cognitive science, written by
     another assistant (A), which cites it by authors, year and title. The
     citation was checked against Crossref: Anne G. E. Collins and Michael
     J. Frank, Psychological Review 120(1), 190–229, doi 10.1037/a0030852
