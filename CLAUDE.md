@@ -25,7 +25,7 @@ file is wrong.
   (`warrant`: demonstrated, empirical or interpretive; [ADR-043](record/decisions.d/ADR-043.md));
   an objection is a claim. An idea gets a code when it has content of its
   own and is not already held; the second-time rule is for ADRs and DPs
-  (ADR-072).
+  ([ADR-072](record/decisions.d/ADR-072.md)).
   `rests_on` is between claims and `grounds` points outside them, so the
   argument, its objection threads and its revisions render as chains.
 - `record/decisions.d/`, `record/principles.d/`, `record/changelog.d/` and
