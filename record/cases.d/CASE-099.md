@@ -3,8 +3,15 @@ number: 99
 status: Active
 formerly:
 - CASE-tmp8tn9v
-title: 'The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping endorsement (γ)'
-version: 1
+title: 'The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping conferral (γ)'
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -33,7 +40,7 @@ variants:
 ---
 
 
-# CASE-099: The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping endorsement (γ)
+# CASE-099: The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping conferral (γ)
 
 ## The construction
 
@@ -48,7 +55,7 @@ the relative authority of the A-specialist. Near the symmetric state
 with α the persistence of the meaning distribution, δ the persistence of
 authority, β the effect of authority on interpretation (the A-specialist's
 retrievals push meaning toward A) and γ the effect of interpretation on
-endorsement (in [CASE-092](CASE-092.md)'s Regime A, operators are scored against the
+conferral (TERM-tmplu4ih) (in [CASE-092](CASE-092.md)'s Regime A, operators are scored against the
 dominant interpretation, so a lean toward A raises the A-specialist's
 score).
 
@@ -73,7 +80,7 @@ A14's condition is right. Three things follow, and were checked here:
    gaps [CLAIM-164](../claims.d/CLAIM-164.md) is about.
 3. **Regime B removes it.** Scoring operators by independently assessed
    relevance sets γ ≈ 0, so by 1 the coupling cannot destabilize the
-   symmetric state, whatever the endorsement memory.
+   symmetric state, whatever the conferral memory.
 
 Near the threshold λ+ approaches 1 and its relaxation time
 τ = −Δt / ln λ+ grows without bound, so the mixed mode is also the slow

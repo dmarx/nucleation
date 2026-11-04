@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-020
 title: 'interpretive capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -39,6 +39,12 @@ history:
   note: >-
     A dated note added: A41's and A47's conformity evaluators as the
     condition by design. The term is unchanged.
+- version: 6
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - society-and-governance
@@ -168,7 +174,7 @@ third, generalized beyond institutions.
   continuation" and reduces the capacity to leave it, whoever is served.
   Capture is about whose interpretation the evaluation serves. A regime
   can be either without the other.
-- **Not endorsement** ([TERM-053](TERM-053.md)). Endorsement is the channel: any effect
+- **Not conferral** (TERM-tmplu4ih, [TERM-053](TERM-053.md)'s former endorsement). Conferral is the channel: any effect
   of one process on another's share of influence. Capture is a regime of
   that channel.
 

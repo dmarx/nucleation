@@ -3,8 +3,15 @@ number: 84
 status: Open
 formerly:
 - QUESTION-tmpeqxa9
-title: 'Can endorsement between processes be inferred from their behaviour, or does telling authorization from incidental coupling and common cause need a record of the coordination itself?'
-version: 1
+title: 'Can a grant between processes be inferred from their behaviour, or does telling authorization from incidental coupling and common cause need a record of the coordination itself?'
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - causality
@@ -14,7 +21,7 @@ refines:
 - QUESTION-063
 summary: >-
   A methodological problem the exchange raised twice and the record had
-  not asked. A7 §14: inferring endorsement from causal facilitation "may
+  not asked. A7 §14: inferring a grant from causal facilitation "may
   conflate authorization, incidental coupling, and common-cause effects".
   A8 on r/place: from placements alone "endorsement remains a latent
   explanatory hypothesis". It refines [QUESTION-063](QUESTION-063.md), which asks the same
@@ -23,7 +30,7 @@ bearing:
 - THEORY-218
 ---
 
-# QUESTION-084: Can endorsement between processes be inferred from their behaviour, or does telling authorization from incidental coupling and common cause need a record of the coordination itself?
+# QUESTION-084: Can a grant between processes be inferred from their behaviour, or does telling authorization from incidental coupling and common cause need a record of the coordination itself?
 
 ## Why it is a question
 
@@ -36,13 +43,13 @@ or independently converged on the same action ... Without that extra
 information, endorsement remains a latent explanatory hypothesis, not an
 observed variable."
 
-[TERM-053](../terms.d/TERM-053.md) defines endorsement counterfactually, as the effect of one
-process's intervention on another's share of influence. That makes it an
+[TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral (TERM-tmplu4ih), is defined
+counterfactually, as the effect of one process's intervention on another's share of influence. That makes it an
 interventional quantity. The question is whether observation can reach it.
 
 It refines [QUESTION-063](QUESTION-063.md), which asks what measurement tells a shared external
-drive from coupling or from different internal routes. Endorsement adds a
-fourth candidate, authorization, which is a kind of coupling that runs
+drive from coupling or from different internal routes. A grant
+(TERM-tmp08c21) adds a fourth candidate, authorization, which is a kind of coupling that runs
 through the allocation of influence. On r/place a shared template is a common
 cause, and following it is authorization. The placements are the same either
 way. Litherland and Mørch 2021 ([LIT-1037](../literature.d/LIT-1037.md)) read the planning forums beside

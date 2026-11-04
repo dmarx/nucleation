@@ -3,8 +3,8 @@ number: 285
 status: Proposed
 formerly:
 - CLAIM-tmpxuigm
-title: 'An endorsement scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation'
-version: 3
+title: 'A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation'
+version: 4
 history:
 - version: 2
   date: '2026-10-19'
@@ -30,10 +30,16 @@ history:
     defeat condition cannot be met. Kept Proposed: that operators bound by
     the conditions delegate, and to aligned others, has no population model
     under it. The title and defeat condition are unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A result showing that, for every aggregation rule that lets endorsement
+  A result showing that, for every aggregation rule that lets grants
   carry authority further than one hop, an operator that delegates in order
   to get its preferred policies realized thereby regains control over its
   own authority, so that the two conditions cannot be held together except
@@ -60,7 +66,7 @@ summary: >-
   one another's influence, cannot significantly manipulate their own, and
   gain by finding aligned operators and delegating authority to them. A2
   made it precise. Two conditions are imposed: each operator's own
-  authority is insensitive to its own endorsements, and its payoff is how
+  authority is insensitive to its own grants, and its payoff is how
   closely the collective decision matches what it would endorse. Under
   them, empowering a better-placed ally is a way to get one's policies
   realized without becoming more powerful. It does not say such schemes
@@ -76,7 +82,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-285: An endorsement scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation
+# CLAIM-285: A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation
 
 ## The claim
 
@@ -89,7 +95,7 @@ other agents with aligned policies who functionally amplify their own
 influence by delegating authority to them."
 
 A2 stated the two conditions. The first is that an operator's effective
-authority g_i should not respond to its own outgoing endorsements:
+authority g_i should not respond to its own outgoing grants:
 |∂g_i/∂E_ij| ≈ 0 for every j ≠ i. The second is that its objective is
 J_i = E[Q_i(a*, c)] − λ_i Cost(E_i), its evaluation of the collective
 decision a*, not the authority it holds. A2 §6: "Consequently, denoiser i
@@ -101,16 +107,17 @@ realize one's preferred policies."
 The two conditions are compatible because they constrain different
 quantities. The first fixes how authority is computed. The second fixes
 what an operator is rewarded for. An operator can raise J_i by moving its
-endorsements toward an ally, because the move changes a* through the ally's
+grants toward an ally, because the move changes a* through the ally's
 authority. It cannot raise its own g_i that way. Whether a given rule meets
 the first condition is the subject of [CLAIM-282](CLAIM-282.md): one-hop allocation within
 a governance epoch meets it exactly, and recursive delegation does not.
 Leave-one-out delegation meets it beyond one hop ([CLAIM-502](CLAIM-502.md)).
-Endorsement here is any effect on another operator's share of future
-influence ([TERM-053](../terms.d/TERM-053.md)), and explicit voting is one case of it.
+Conferral here is any effect on another operator's share of future
+influence (TERM-tmplu4ih), and explicit voting, a grant (TERM-tmp08c21),
+is one case of it.
 
 A3 carried the idea through a case. A skeptical operator opposes an
-emerging consensus but cannot overturn it. It endorses a third operator that
+emerging consensus but cannot overturn it. It grants influence to a third operator that
 can generate alternative hypotheses. "The population can become more
 epistemically robust precisely because a dissenting operator successfully
 delegates authority to a different operator."
@@ -122,7 +129,7 @@ delegates authority to a different operator."
 - It does not say the scheme resists collusion. A2 §6 again: "optimizing
   short-term policy realization alone can incentivize collusion, coalition
   formation, or systematic suppression of dissent." An operator can still
-  change its own authority by moving others' endorsements, which is social
+  change its own authority by moving others' grants, which is social
   feedback and not an accounting loop ([CLAIM-282](CLAIM-282.md)).
 - It does not say this is how a person's processes are actually governed.
   It is a design for a model.
@@ -152,6 +159,6 @@ population model shows operators bound by the two conditions delegating,
 or delegating to aligned others rather than at random. [CLAIM-375](CLAIM-375.md) shows the
 incentive exists under one hop. Beyond one hop, [CLAIM-502](CLAIM-502.md) keeps the
 first condition exactly, but the incentive is not guaranteed there.
-Raising an endorsement of an ally nearer than the decision moved the
-decision toward the endorser in 1,772 of 2,141 trials
+Raising a grant to an ally nearer than the decision moved the
+decision toward the granting operator in 1,772 of 2,141 trials
 (p19/claim282_loo.py, C6b).

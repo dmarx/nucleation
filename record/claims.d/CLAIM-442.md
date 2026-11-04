@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0jfuz
 title: 'Frijda''s emotion and the potential account''s system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective''s valence is read on its claims, and the system''s valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system''s valence and leaves the perspectives'' emotions and valences as they were'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -24,6 +24,12 @@ history:
     account's definition, which TERM-076 in uses carries, and the
     claim reads valence on that account without asserting it. The
     claim is unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,7 +75,7 @@ summary: >-
 ## The claim
 
 [CLAIM-283](CLAIM-283.md) holds that "an operator can urgently demand control without
-receiving it", so claimed precedence and endorsed authority are different
+receiving it", so claimed precedence and granted authority are different
 quantities and internal conflict is the gap between them. The record's
 affect accounts sit on both sides of that gap without saying so.
 

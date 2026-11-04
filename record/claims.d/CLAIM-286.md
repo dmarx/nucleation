@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpzi3da
 title: 'Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another''s influence, with trust, specialization and higher-level agency arising from its history and not imposed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -17,6 +17,12 @@ history:
     settle the question. "It is under CLAIM-278's objection, which A7
     granted." now names ARG-036, to which the Superseded CLAIM-278
     moved. A blocker note is added. The claim is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -138,7 +144,7 @@ detecting and resolving problems", and that attention and control are
   ([THEORY-050](../theory.d/THEORY-050.md)) the protective perspective avoids anticipated private
   events. (c) None.
 - **Endorsement.** (a) §6's "reflective endorsement" is Frankfurt's. (b) In
-  [TERM-053](../terms.d/TERM-053.md)'s sense: why is the reflective process's effect on the pursuit
+  [TERM-053](../terms.d/TERM-053.md)'s sense, now conferral (TERM-tmplu4ih): why is the reflective process's effect on the pursuit
   process's future influence near zero, though its evaluation is negative
   ([CLAIM-447](CLAIM-447.md), [CASE-181](../cases.d/CASE-181.md))? (c) None.
 

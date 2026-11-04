@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpue67e
 title: 'On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-27'
@@ -14,6 +14,12 @@ history:
     supplies its reading as a cardinal refinement of the ordinal fact, not
     a premise. As a premise it put an Active result over a Proposed one.
     The claim is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -126,7 +132,7 @@ constraints need not obey this same bound."
 
 ## What it does not say
 
-- **That the multipliers are endorsement weights.** A35: "Importantly,
+- **That the multipliers are conferral weights.** A35: "Importantly,
   these dual multipliers are not endorsement weights." They certify
   difficulty; the weights governance actually assigns are another matter
   ([CLAIM-357](CLAIM-357.md), [QUESTION-126](../questions.d/QUESTION-126.md)).

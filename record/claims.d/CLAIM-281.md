@@ -3,8 +3,8 @@ number: 281
 status: Proposed
 formerly:
 - CLAIM-tmpny1e4
-title: 'Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions'
-version: 2
+title: 'Granting influence by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions'
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -15,12 +15,18 @@ history:
     rests_on to its complements, since CLAIM-359 uses only this
     claim's first clause, which holds by construction, and not its
     clause on factions. The claim is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A population model in which role-indexed endorsement sorts into factions
-  of mutually endorsing, policy-aligned processes as readily as scalar
-  endorsement does, so that indexing by role buys no retained
+  A population model in which role-indexed grants sort into factions
+  of policy-aligned processes that grant one another influence as readily
+  as scalar grants do, so that indexing by role buys no retained
   disagreement. Or a case in which empowering an opponent as a critic
   always transfers authority over the decision too.
 tags:
@@ -35,9 +41,9 @@ complements:
 - CLAIM-285
 - CLAIM-297
 summary: >-
-  A2 §8, on the owner's U2 design. If processes endorse only those whose
+  A2 §8, on the owner's U2 design. If processes grant influence only to those whose
   policies match their own, the influence structure "risks degenerating
-  into factions of mutually reinforcing beliefs". Indexing endorsement by
+  into factions of mutually reinforcing beliefs". Indexing grants by
   role, E_i(j, r, c, t), lets i back j as an error detector without
   backing j's authority over the final choice. [CASE-080](../cases.d/CASE-080.md) is the worked
   example. It does not say role boundaries hold under pressure.
@@ -48,7 +54,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-285 THEORY-029 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-281: Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions
+# CLAIM-281: Granting influence by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions
 
 ## The claim
 
@@ -82,14 +88,14 @@ with authority attached. The worked case is [CASE-080](../cases.d/CASE-080.md).
   judgement about whom to trust, is where roles collapse into constitutive
   influence ([CLAIM-086](CLAIM-086.md)), and A2 itself said it "should arguably have
   different constraints".
-- It does not say the order of an endorsement settles anything. [THEORY-029](../theory.d/THEORY-029.md)'s
+- It does not say the order of a grant settles anything. [THEORY-029](../theory.d/THEORY-029.md)'s
   regress stands.
 
 ## Note of 2026-10-29: what holds it back
 
 Its title asserts that role indexing keeps disagreement working "instead
 of sorting into factions", and that rests on A2's argument alone: the
-comparison it names, role-indexed against scalar endorsement in a
+comparison it names, role-indexed against scalar grants in a
 population model ([CASE-092](../cases.d/CASE-092.md)), has not been run. The first clause holds by
 construction: a process can back another as a critic without backing its
 policy ([CASE-080](../cases.d/CASE-080.md)), and evidence-based subjective logic already keeps
@@ -102,4 +108,4 @@ its paraphrase of [CLAIM-282](CLAIM-282.md); what it says of this claim, that su
 logic already keeps referral and functional trust apart, is unchanged.
 The clause on factions still rests on A2's argument alone, since the
 population comparison [CASE-092](../cases.d/CASE-092.md) names, role-indexed against scalar
-endorsement, has not been run.
+grants, has not been run.

@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmp11auq
 title: 'A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective''s dynamics and not only an observer''s average when its members read it, condition what they do on it, and by doing so regenerate it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,7 +40,7 @@ summary: >-
   statistic of fast interactions; members recognize it and use it; their
   use preserves or regenerates it. Only the third makes the variable an
   endogenous level. It is the general form of [CLAIM-277](CLAIM-277.md), where trust is
-  the temporal regularity of endorsement that then steers endorsement. It
+  the temporal regularity of grants that then steers grants. It
   does not say that such a variable individuates one collective: five
   slow variables sharing a referent may be five processes.
 illustrated_by:
@@ -67,7 +74,7 @@ future that sustains or changes it. "The time-averaged history has become
 a contemporary causal influence."
 
 The record holds a special case: [CLAIM-277](CLAIM-277.md), where durable trust is the
-temporal regularity of endorsement and then directs endorsement. This
+temporal regularity of grants and then directs grants. This
 claim says what that case has in general, and gives [QUESTION-065](../questions.d/QUESTION-065.md) a
 candidate for a target the system supplies itself: what its own members
 condition on.

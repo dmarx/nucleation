@@ -3,8 +3,15 @@ number: 94
 status: Open
 formerly:
 - QUESTION-tmpzdn8b
-title: 'When an organization allocates authority over related propositions to different processes by endorsement, what keeps its collective judgments consistent, and must that be a separate integration step as in judgment aggregation?'
-version: 1
+title: 'When an organization allocates authority over related propositions to different processes by grant, what keeps its collective judgments consistent, and must that be a separate integration step as in judgment aggregation?'
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - social-ontology
 - self-governance
@@ -12,7 +19,7 @@ date: '2026-10-13'
 line: distributed-agency
 summary: >-
   A4's List and Pettit connection, which it put as "Authority aggregation
-  ≠ judgment aggregation ≠ collective rationality". Endorsement settles
+  ≠ judgment aggregation ≠ collective rationality". Granting influence settles
   who decides each matter. It does not make the decisions cohere when the
   matters are linked as premises and conclusion. The record holds the
   impossibility side ([THEORY-127](../theory.d/THEORY-127.md), [CLAIM-030](../claims.d/CLAIM-030.md), [CLAIM-271](../claims.d/CLAIM-271.md)) for aggregating
@@ -20,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-285 CLAIM-271 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# QUESTION-094: When an organization allocates authority over related propositions to different processes by endorsement, what keeps its collective judgments consistent, and must that be a separate integration step as in judgment aggregation?
+# QUESTION-094: When an organization allocates authority over related propositions to different processes by grant, what keeps its collective judgments consistent, and must that be a separate integration step as in judgment aggregation?
 
 ## Why it is a question
 
@@ -41,12 +48,12 @@ is produced by systemic mechanisms. [CLAIM-271](../claims.d/CLAIM-271.md), filed
 exchange, says aggregating members' conclusions can yield verdicts the
 collective's own reasons do not support. Those concern aggregating
 judgments. This question concerns allocating jurisdiction, which is what
-[CLAIM-285](../claims.d/CLAIM-285.md)'s endorsement scheme does. List and Pettit's own escape,
+[CLAIM-285](../claims.d/CLAIM-285.md)'s grant scheme does. List and Pettit's own escape,
 having different members settle different premises and deriving the
 conclusions, is a case of allocating jurisdiction. It is not held here as a
 reading.
 
-An answer says whether jurisdiction allocated by endorsement can keep
+An answer says whether jurisdiction allocated by grant can keep
 judgments over a connected agenda consistent, and what does the integrating
 if not the allocation itself. If a separate integrator is needed, it is the
 residue [QUESTION-054](QUESTION-054.md) asks about.

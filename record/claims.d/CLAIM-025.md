@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7wkss
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -22,6 +22,12 @@ history:
     (ADR-057). CASE-111 and CASE-112, constructions already cited in
     the body, now ground it. THEORY-145 is cited and no longer grounds
     it. ARG-007, Active, rested on it.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -84,7 +90,8 @@ in place."
   added in front, stated as degrees: "Those are distinct control
   capabilities with potentially different quantitative profiles." A9's
   Candidate C is this claim with endorsement added, and was not filed.
-  A9's "endorse" is the reflective sense, not [TERM-053](../terms.d/TERM-053.md)'s.
+  A9's "endorse" is the reflective sense (TERM-tmp0evbm), not
+  [TERM-053](../terms.d/TERM-053.md)'s, which is now conferral (TERM-tmplu4ih).
 - **A11 §4.** "Freedom to commit: The capacity to choose and establish
   constraints", "Freedom under commitment: The viable alternatives
   remaining after the commitment", "Freedom to revise: The capacity to

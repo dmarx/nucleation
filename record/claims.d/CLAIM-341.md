@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpq9do8
 title: 'The loop that keeps a lucid agent''s model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference''s action–perception cycle misplaces where the agent is active'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -32,6 +32,12 @@ history:
     in the record meets its defeated_if. CASE-107's completely locked-in
     evidence is a hypothesis about contingency, not a showing that lucid
     judgement fails. The claim is unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -116,8 +122,8 @@ x, operator weights w and queries q:
 
 Read with the owner's terms, the query is the judgement's measurement
 context, the operators applied under it are the judgement, and x is the
-interpretation it yields. The interpretation, through endorsement and the
-next query, fixes what will be retrieved and so what the next judgement
+interpretation it yields. The interpretation, through conferral
+(TERM-tmplu4ih) and the next query, fixes what will be retrieved and so what the next judgement
 observes. Nothing in the circuit acts on the world. The world enters only
 as evidence o_t in the update of influence. [CLAIM-275](CLAIM-275.md) holds the half that
 concerns order: an operator can intervene on the meaning canvas before it
