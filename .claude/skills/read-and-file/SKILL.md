@@ -3,6 +3,7 @@ name: read-and-file
 description: How this record takes in reading. Use it to file an exchange, a pasted synthesis, an upload or a single work; to check whether something is "already on the record"; or to read registered works and file the readings. ADR-068 holds the invariants; this file holds the steps.
 ---
 <!-- .claude/skills/read-and-file/SKILL.md -->
+<!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
 
 # Reading and filing
 

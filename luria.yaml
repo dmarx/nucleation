@@ -643,6 +643,13 @@ paths:
   reports: docs/reports
 schemes:
   LIT:
+    title: Works
+    blurb: >-
+      One entry per work: its bibliography, its source identifier and its standing here, which
+      is whether it is worth reading and not whether its findings are true. A work nobody has
+      tried to read is Deferred; one whose lawful copy was not reached is Unfetched or
+      Unavailable. Ported unchanged from the Anthology of the SOTA, so a work can move between
+      the two records (ADR-001).
     dir: record/literature.d
     output: docs/literature
     active: Active
@@ -761,6 +768,11 @@ schemes:
     retires_on: Superseded
     successor: superseded_by
   NOTE:
+    title: Readings
+    blurb: >-
+      One entry per work actually read: what it contains, assumes and shows, and how deeply it
+      was read. Its status says Read or Skimmed, honestly. A reading is not the work's standing,
+      which is the LIT's, and the two may disagree. No NOTE means the work is unread.
     dir: record/notes.d
     output: docs/notes
     active: Read
@@ -811,6 +823,12 @@ schemes:
     retires_on: Superseded
     successor: superseded_by
   THEORY:
+    title: Accounts
+    blurb: >-
+      A claim about what is true, attributed to the work it comes from, with the evidence that
+      work gives. Its status is the record's credence in the account. A Proposed one says in
+      promote_when what would make it accepted, and asks only for what its title asserts
+      (ADR-065).
     dir: record/theory.d
     output: docs/theory
     active: Active
@@ -951,6 +969,11 @@ schemes:
     retires_on: Superseded
     successor: superseded_by
   ADR:
+    title: Decisions
+    blurb: >-
+      A decision about how the record works, with the alternatives it rejected. It is superseded
+      when the choice changes, and corrected in place, with its version bumped, when only a
+      reason was wrong.
     dir: record/decisions.d
     output: docs/decisions
     active: Active
@@ -978,6 +1001,10 @@ schemes:
           status:
           - Active
   DP:
+    title: Design principles
+    blurb: >-
+      A standing value that decisions cite by number, stated as a claim someone could disagree
+      with. Read as one page.
     dir: record/principles.d
     active: Active
     render: document
@@ -1004,6 +1031,11 @@ schemes:
           status:
           - Active
   QUESTION:
+    title: Questions
+    blurb: >-
+      What the record is asking, filed under a line of inquiry. A question is Open until an
+      Active claim or account answers it. A partly answered one splits into an Answered child
+      and a narrowed Open parent (ADR-049).
     dir: record/questions.d
     output: docs/questions
     active: Open
@@ -1066,6 +1098,13 @@ schemes:
     retires_on: Superseded
     successor: superseded_by
   CLAIM:
+    title: Claims
+    blurb: >-
+      What the record itself holds about its subject matter, as distinct from its readings of
+      others' (ADR-032). Each has a credence (status), a voice (role) and a warrant
+      (demonstrated, empirical or interpretive; ADR-043). An objection is a claim. rests_on
+      joins claims and grounds points outside them, so an argument and its objections render as
+      chains.
     dir: record/claims.d
     output: docs/claims
     active: Active
@@ -1243,6 +1282,11 @@ schemes:
     retires_on: Superseded
     successor: superseded_by
   CASE:
+    title: Cases
+    blurb: >-
+      An example the argument uses: a real specimen, a thought experiment, a formal
+      construction, or a study reported, proposed or executed (ADR-042). Its standing says how
+      much of it is fact, and reported_in says where the record got it (ADR-051).
     dir: record/cases.d
     output: docs/cases
     active: Active
@@ -1342,6 +1386,11 @@ schemes:
     retires_on: Superseded
     successor: superseded_by
   TERM:
+    title: Terms
+    blurb: >-
+      A concept the record defines and uses, versioned by supersession. A term says what job its
+      definition does (ADR-056). Where the record uses a concept in its own sense, it cites the
+      term by code (ADR-038).
     dir: record/terms.d
     output: docs/terms
     active: Active
@@ -1418,6 +1467,12 @@ schemes:
     retires_on: Superseded
     successor: superseded_by
   ARG:
+    title: Arguments
+    blurb: >-
+      What the record says about support between its entries: that these premises do, or do not,
+      establish this conclusion (ADR-061). Its status is the verdict on the inference, not on
+      the conclusion. "X does not show Y" is the ARG from X to Y, Rejected, with the form's
+      critical questions answered in its body.
     dir: record/arguments.d
     output: docs/arguments
     active: Active
@@ -1592,7 +1647,8 @@ journals:
     granularity: month
     title: Development log
 code:
-  globs: []
+  globs:
+  - .claude/skills/**/*.md
   historical:
   - CHANGELOG.md
 lint:
