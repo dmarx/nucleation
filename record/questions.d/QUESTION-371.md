@@ -1,5 +1,8 @@
 ---
+number: 371
 status: Open
+formerly:
+- QUESTION-tmp22a7y
 title: 'Can a moral norm work among cooperating groups as a stabilizing mechanism does in coexistence theory, limiting a dominant group more than it limits its rivals so that a group reduced to rarity can increase again; and is that what separates norms that keep several groups in being from norms that serve only one group''s internal cooperation?'
 version: 1
 tags:
@@ -17,9 +20,9 @@ summary: >-
   A stabilizing mechanism makes each type limit itself more than it
   limits others, which is what lets a type recover from rarity.
 ---
-<!-- inactive-ok-file: CLAIM-tmpjnqe9 LIT-1219 — Proposed or Unavailable; the claim that raises the question and Chesson's distinction, cited unread -->
+<!-- inactive-ok-file: CLAIM-547 LIT-1219 — Proposed or Unavailable; the claim that raises the question and Chesson's distinction, cited unread -->
 
-# QUESTION-tmp22a7y: Can a moral norm work among cooperating groups as a stabilizing mechanism does in coexistence theory, limiting a dominant group more than it limits its rivals so that a group reduced to rarity can increase again; and is that what separates norms that keep several groups in being from norms that serve only one group's internal cooperation?
+# QUESTION-371: Can a moral norm work among cooperating groups as a stabilizing mechanism does in coexistence theory, limiting a dominant group more than it limits its rivals so that a group reduced to rarity can increase again; and is that what separates norms that keep several groups in being from norms that serve only one group's internal cooperation?
 
 ## Why it is a question
 
@@ -27,7 +30,7 @@ Chesson ([LIT-1219](../literature.d/LIT-1219.md)) separates two ways competitors
 Equalizing mechanisms shrink the differences in average fitness. A
 stabilizing mechanism makes each type limit itself more than it limits
 the others, so a type that falls rare increases again ([CASE-118](../cases.d/CASE-118.md) for two
-competitors). [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md) says cooperation within groups and the
+competitors). [CLAIM-547](../claims.d/CLAIM-547.md) says cooperation within groups and the
 coexistence of groups can trade off. This question asks whether moral
 norms can supply the missing stabilization.
 
@@ -55,7 +58,7 @@ form.
 
 ## Note of 2026-11-04: Van Lange and Bergmann, read
 
-[NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md). No answer. The review has no norm that bears harder on a
+[NOTE-1537](../notes.d/NOTE-1537.md). No answer. The review has no norm that bears harder on a
 dominant group. The nearest it comes is a reported argument (its ref. 206)
 that peace between groups needs "more centralized institutions at the
 level of the group" to restrain the group's own aggressive members (p.

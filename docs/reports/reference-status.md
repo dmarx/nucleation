@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**808 documents cited without acknowledgement.** Not listed: 15224 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**808 documents cited without acknowledgement.** Not listed: 15279 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -402,7 +402,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-137.md:130`](../../record/theory.d/THEORY-137.md)
 - [`record/theory.d/THEORY-140.md:13`](../../record/theory.d/THEORY-140.md)
 - [`record/theory.d/THEORY-140.md:20`](../../record/theory.d/THEORY-140.md)
-- [`record/theory.d/THEORY-141.md:115`](../../record/theory.d/THEORY-141.md)
+- [`record/theory.d/THEORY-141.md:116`](../../record/theory.d/THEORY-141.md)
 - [`record/theory.d/THEORY-143.md:143`](../../record/theory.d/THEORY-143.md)
 - [`record/theory.d/THEORY-151.md:112`](../../record/theory.d/THEORY-151.md)
 - [`record/theory.d/THEORY-156.md:23`](../../record/theory.d/THEORY-156.md)
@@ -1260,7 +1260,7 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 
 Scaffolding individuality: coordination, cooperation, collaboration and community
 
-36 citations in 16 files await a look; 43 other citations of it are acknowledged.
+36 citations in 16 files await a look; 44 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-184.md:144`](../../record/claims.d/CLAIM-184.md)
 - [`record/claims.d/CLAIM-185.md:269`](../../record/claims.d/CLAIM-185.md)
@@ -2909,7 +2909,7 @@ A group can itself be in an emotional state that is not its members' states in a
 
 Morality is the set of solutions to recurrent problems of cooperation, so each of the seven cooperation problems game theory identifies yields a moral domain valued in every culture, and behaviour unrelated to cooperation is morally neutral
 
-9 citations in 9 files await a look; 5 other citations of it are acknowledged.
+9 citations in 9 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-457.md:86`](../../record/theory.d/THEORY-457.md)
 - [`record/theory.d/THEORY-494.md:104`](../../record/theory.d/THEORY-494.md)
@@ -3661,7 +3661,7 @@ Dynamical independence, zero information flow from the microscopic history into 
 
 Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation
 
-7 citations in 6 files await a look; 5 other citations of it are acknowledged.
+7 citations in 6 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-435.md:72`](../../record/theory.d/THEORY-435.md)
 - [`record/theory.d/THEORY-468.md:108`](../../record/theory.d/THEORY-468.md)
@@ -3844,7 +3844,7 @@ Model-based wanting is a pursuit process's ranking of the futures it predicts un
 
 From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
 
-6 citations in 6 files await a look; 21 other citations of it are acknowledged.
+6 citations in 6 files await a look; 24 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-523.md:105`](../../record/claims.d/CLAIM-523.md)
 - [`record/notes.d/NOTE-1483.md:187`](../../record/notes.d/NOTE-1483.md)
@@ -4143,7 +4143,7 @@ The solutions SGD finds in a deep network lie in one connected low-loss set, joi
 
 Which self-category a person uses, what it means and who in it is most typical vary lawfully with the comparative frame of reference: a grouping of self with others becomes salient as the differences within it shrink relative to the differences between it and the rest of the frame (metacontrast) and as those differences match expectations about the category, and as it does, self-perception is depersonalized
 
-6 citations in 6 files await a look; 49 other citations of it are acknowledged.
+6 citations in 6 files await a look; 51 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1726.md:54`](../../record/literature.d/LIT-1726.md)
 - [`record/literature.d/LIT-1742.md:15`](../../record/literature.d/LIT-1742.md)
@@ -4789,7 +4789,7 @@ Institutional facts are status functions, imposed by collective acceptance on th
 
 Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them
 
-5 citations in 5 files await a look; 1 other citation of it is acknowledged.
+5 citations in 5 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-039.md:123`](../../record/claims.d/CLAIM-039.md)
 - [`record/theory.d/THEORY-408.md:96`](../../record/theory.d/THEORY-408.md)
@@ -5419,7 +5419,7 @@ A Markov blanket, in any formulation including sparse coupling at nonequilibrium
 
 Perceiving people as a group entity, rather than as members of a common category, requires detecting or inferring collective intentionality among them; similarity, and categorization into an equivalence class, yields interchangeable members but not a group
 
-4 citations in 3 files await a look; 8 other citations of it are acknowledged.
+4 citations in 3 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1765.md:15`](../../record/literature.d/LIT-1765.md)
 - [`record/theory.d/THEORY-1114.md:28`](../../record/theory.d/THEORY-1114.md)
@@ -5595,7 +5595,7 @@ Perceptual learning can install perceiver-specific frames that change which obje
 
 Social behaviour evolves as if each individual valued a neighbour's fitness against its own by their coefficient of relationship, and its discriminations evolve to make that coefficient determinate; so kin are favoured and strangers met with hostility, relatives fight less, and haplodiploid sisters, related by 3/4, are predisposed to worker altruism
 
-4 citations in 3 files await a look; 9 other citations of it are acknowledged.
+4 citations in 3 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1683.md:54`](../../record/literature.d/LIT-1683.md)
 - [`record/theory.d/THEORY-408.md:85`](../../record/theory.d/THEORY-408.md)
@@ -7265,7 +7265,7 @@ Acting for, with, and through: A relational perspective on agency in MSF's organ
 
 Evolutionary Transitions in Individuality by Endogenization of Scaffolded Properties
 
-2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+2 citations in 1 file await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-173.md:137`](../../record/notes.d/NOTE-173.md)
 - [`record/notes.d/NOTE-173.md:222`](../../record/notes.d/NOTE-173.md)
@@ -8524,7 +8524,7 @@ A fanbase is a mixture of spectators who relate to the club in different ways, a
 
 When a fanbase is set against an outside party such as its club's owner, its more extreme members become more prototypical of it, so a vocal minority can fix the fanbase's public stance through a group process and not only through biased sampling of who speaks
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-1114.md:30`](../../record/theory.d/THEORY-1114.md)
 
@@ -8980,7 +8980,7 @@ The Units of Evolutionary Transition
 
 Ecological scaffolding and the evolution of individuality
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-173.md:223`](../../record/notes.d/NOTE-173.md)
 
@@ -9684,7 +9684,7 @@ Multicellular cooperation depends on suppressing cells that gain fitness at the 
 
 In a major evolutionary transition, where formerly free-living units come to form a higher-level unit, the collective is stable only if selection between collectives comes to trump selection among the units within them, typically through mechanisms such as policing, kinship and division of labour that align the interests of the units; the levels at which selection acts are then a product of evolution, to be explained rather than assumed
 
-1 citation in 1 file awaits a look; 21 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-060.md:58`](../../record/claims.d/CLAIM-060.md)
 

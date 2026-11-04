@@ -1,5 +1,8 @@
 ---
+number: 1351
 status: Proposed
+formerly:
+- THEORY-tmpm0ct3
 promote_when: >-
   Comparative studies across independent origins, read in full, showing
   that obligate integration arose only with clonal or monogamous group
@@ -15,11 +18,11 @@ tags:
 - altruism
 date: '2026-11-04'
 source:
-- LIT-tmpdmpbq
+- LIT-2003
 corroborates:
 - CLAIM-474
 summary: >-
-  West et al. (2015), [LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), read in [NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md). A colloquium
+  West et al. (2015), [LIT-2003](../literature.d/LIT-2003.md), read in [NOTE-1538](../notes.d/NOTE-1538.md). A colloquium
   review: the definition and the two steps are the authors' framework, and
   the explanatory claim is drawn from the comparative literature they cite.
   Proposed because they call it "tentative", and because the theory for
@@ -29,12 +32,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-141 — Proposed; the account this one differs from -->
 
-# THEORY-tmpm0ct3: In West, Fisher, Gardner and Kiers's account, a transition in individuality is defined by two separable conditions, mutual dependence (parts that once replicated alone can replicate only within the larger unit) and negligible within-group conflict, and proceeds by forming a cooperative group and then transforming it, with no clear border between the steps; across transitions what explains them is an ecological benefit to cooperation together with group formation that unites the members' interests (clonal bottlenecks, lifetime monogamy, vertical transmission of clonal symbionts), while kin discrimination and the repression of competition played relatively minor roles
+# THEORY-1351: In West, Fisher, Gardner and Kiers's account, a transition in individuality is defined by two separable conditions, mutual dependence (parts that once replicated alone can replicate only within the larger unit) and negligible within-group conflict, and proceeds by forming a cooperative group and then transforming it, with no clear border between the steps; across transitions what explains them is an ecological benefit to cooperation together with group formation that unites the members' interests (clonal bottlenecks, lifetime monogamy, vertical transmission of clonal symbionts), while kin discrimination and the repression of competition played relatively minor roles
 
 ## Source
 
-West, Fisher, Gardner and Kiers (2015), [LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), read in
-[NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md).
+West, Fisher, Gardner and Kiers (2015), [LIT-2003](../literature.d/LIT-2003.md), read in
+[NOTE-1538](../notes.d/NOTE-1538.md).
 
 ## What was actually shown
 

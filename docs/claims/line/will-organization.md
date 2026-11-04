@@ -6,7 +6,7 @@
 
 **Will-organization** — what organizes practical efficacy in an agent, and how that organization becomes precarious.
 
-77 of 545 CLAIM documents. Back to the [full index](../README.md).
+77 of 547 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

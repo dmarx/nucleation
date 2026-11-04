@@ -1,5 +1,8 @@
 ---
+number: 1352
 status: Proposed
+formerly:
+- THEORY-tmpmr4g4
 promote_when: >-
   A primary study, read in full, that crosses dyad against group with
   within-group against between-group partners in one design and
@@ -15,11 +18,11 @@ tags:
 - society-and-governance
 date: '2026-11-04'
 source:
-- LIT-tmpblw9a
+- LIT-2002
 corroborates:
-- CLAIM-tmpjnqe9
+- CLAIM-547
 summary: >-
-  Van Lange and Bergmann (2026), [LIT-tmpblw9a](../literature.d/LIT-tmpblw9a.md), read in [NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md). A
+  Van Lange and Bergmann (2026), [LIT-2002](../literature.d/LIT-2002.md), read in [NOTE-1537](../notes.d/NOTE-1537.md). A
   Perspective: a staged model drawn from the authors' selection of the
   literature on social dilemmas and intergroup relations, with no new data
   and no pooled effect sizes. Proposed because the stages are proposed and
@@ -27,14 +30,14 @@ summary: >-
   cooperation between groups does not need conflicting interests, and harm
   to the out-group does.
 ---
-<!-- inactive-ok-file: CLAIM-tmpjnqe9 — new; the claim this account bears on -->
+<!-- inactive-ok-file: CLAIM-547 — new; the claim this account bears on -->
 
-# THEORY-tmpmr4g4: In Van Lange and Bergmann's model, human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and only negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict
+# THEORY-1352: In Van Lange and Bergmann's model, human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and only negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict
 
 ## Source
 
-Van Lange and Bergmann (2026), [LIT-tmpblw9a](../literature.d/LIT-tmpblw9a.md), pp. 547–555. Read in
-[NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md).
+Van Lange and Bergmann (2026), [LIT-2002](../literature.d/LIT-2002.md), pp. 547–555. Read in
+[NOTE-1537](../notes.d/NOTE-1537.md).
 
 ## What was actually shown
 
@@ -51,6 +54,6 @@ with page references, are in the note. Two are worth separating:
 ## What this does not say
 
 - That groups fail to persist, or go extinct. The model is about
-  cooperation and conflict between groups, and [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md)'s
+  cooperation and conflict between groups, and [CLAIM-547](../claims.d/CLAIM-547.md)'s
   coexistence of groups is a further target.
 - That the cross-group-dyad remedy works. It is proposed, untested.
