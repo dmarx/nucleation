@@ -40,7 +40,7 @@ summary: >-
 bears_on:
 - QUESTION-313
 ---
-<!-- inactive-ok-file: CLAIM-443 THEORY-062 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-062 — Proposed; the claim and account this bears on, named, nothing here rests on them -->
 
 # THEORY-923: In one simulated T-maze task with hand-set parameters, run once per condition, an active inference agent's habit, learned by counting its own state transitions and policy choices, emerged from goal-directed behaviour, and once acquired it persisted, and reinforced itself, after the reward was devalued, while an agent devalued before acquisition switched at once
 

@@ -213,7 +213,6 @@ a later measure of the reinterpretation.
 
 ## Note of 2026-10-31: the MSF meeting, and a mechanism from Tsoukas and Chia
 
-<!-- inactive-ok-block: THEORY-1280 THEORY-1278 THEORY-1279 THEORY-1284 — Proposed; the readings filed 2026-10-31, cited as context -->
 Two readings filed today bear on this claim. One is an episode and the
 other a mechanism.
 

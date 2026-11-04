@@ -36,8 +36,6 @@ supports:
 - CLAIM-125
 - CLAIM-207
 ---
-<!-- inactive-ok-file: THEORY-174 — Proposed; cited as the reading that generalises this proposition, not as settled -->
-<!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as open: the narrowed problem this proposition supports -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-070: Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model

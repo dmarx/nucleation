@@ -36,7 +36,7 @@ summary: >-
   approximate limiting case, without error bounds.
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-607 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-1127 LIT-1241 — Unavailable or Deferred; works not yet read, cited as open -->
+<!-- inactive-ok-file: LIT-1127 — Unavailable or Deferred; works not yet read, cited as open -->
 # NOTE-979: Shpak, Stadler, Wagner and Hermisson — Aggregation of variables and system decomposition
 
 ## Contribution

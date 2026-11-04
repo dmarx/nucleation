@@ -30,7 +30,7 @@ summary: >-
   Pattee's account control of construction came first, not measurement.
 ---
 
-<!-- inactive-ok-file: CLAIM-341 CLAIM-337 CLAIM-339 CLAIM-342 — Proposed; the record's own claims this reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-337 — Proposed; the record's own claims this reading bears on, cited as open -->
 
 # NOTE-952: Pattee — the physics of symbols
 

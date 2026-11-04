@@ -23,7 +23,6 @@ summary: >-
   rejects mere common input.
 ---
 
-<!-- inactive-ok-file: CLAIM-331 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-116: What is the time-lagged form of the block criterion, for a collective whose members are weakly coupled at every instant but strongly connected through time-respecting paths of transmission, across generations and through stored artifacts?
 
 ## Why it is a question

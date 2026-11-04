@@ -23,7 +23,7 @@ summary: >-
   interests that outlast death (Pitcher), and dependence on a future we
   will not see (Scheffler).
 ---
-<!-- inactive-ok-file: CLAIM-491 CLAIM-492 CLAIM-420 THEORY-464 LIT-1759 LIT-1754 LIT-1740 LIT-1714 LIT-1687 LIT-1719 LIT-1777 LIT-1716 LIT-1760 LIT-1724 LIT-1702 QUESTION-299 — Proposed, Deferred or Unavailable; the thesis, claims and works the question is organised around, cited as open -->
+<!-- inactive-ok-file: CLAIM-491 THEORY-464 LIT-1759 LIT-1754 LIT-1740 LIT-1714 LIT-1687 LIT-1777 LIT-1716 LIT-1760 LIT-1724 — Proposed, Deferred or Unavailable; the thesis, claims and works the question is organised around, cited as open -->
 
 # QUESTION-301: Is acting for one's legacy, for how one is remembered or for people who will live after one's death, self-interest on a self extended in time, as collectivism on the owner's thesis is self-interest on a self extended across people?
 

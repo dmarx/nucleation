@@ -27,7 +27,7 @@ summary: >-
   the RIPr gives tests safe under optional continuation, and MDL and Bayes
   can be inconsistent under misspecification. Results are cited, not proved.
 ---
-<!-- inactive-ok-file: THEORY-087 THEORY-080 CLAIM-188 THEORY-035 — Proposed or Rejected; entries this review bears on, open or retired -->
+<!-- inactive-ok-file: THEORY-080 THEORY-035 — Proposed or Rejected; entries this review bears on, open or retired -->
 
 # NOTE-760: Grünwald & Roos — Minimum Description Length Revisited
 

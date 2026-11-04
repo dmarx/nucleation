@@ -33,7 +33,6 @@ summary: >-
   construction.
 ---
 
-<!-- inactive-ok-file: QUESTION-319 — Open; the question the comparison cannot reach, cited as open -->
 
 # THEORY-1210: When several networks are aligned, fitting one joint multi-marginal coupling finds held-out correspondences better than fitting them in pairs, and the gain comes from the joint fit itself, not from the cost or the search space that come with it
 

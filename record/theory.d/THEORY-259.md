@@ -38,7 +38,7 @@ summary: >-
   hypothesis (0ⁿ against the fair coin). The paper's slack α = K(Pr(·|H))
   + K(P) is an upper bound, not the gap.
 ---
-<!-- inactive-ok-file: THEORY-277 THEORY-087 CLAIM-188 — Proposed; the companion theory filed today and the entries named under Connections -->
+<!-- inactive-ok-file: THEORY-277 — Proposed; the companion theory filed today and the entries named under Connections -->
 
 # THEORY-259: For a recursive family of likelihoods and the universal prior, the Bayesian two-part code length −log Pr(D|H) − log m(H) equals the ideal-MDL length K(D|H) + K(H) plus the randomness deficiency of D for H, up to a constant fixed by the family; so ideal MDL and MAP selection agree to within a constant among hypotheses for which the data are random, and can part where they are not
 

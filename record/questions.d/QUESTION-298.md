@@ -18,7 +18,7 @@ summary: >-
   compares each side's perceived reciprocity with the other side's
   reported rivalry intensity.
 ---
-<!-- inactive-ok-file: THEORY-1113 LIT-1755 LIT-1682 — Proposed or Deferred; the reading and unread works the question rests on -->
+<!-- inactive-ok-file: THEORY-1113 LIT-1682 — Proposed or Deferred; the reading and unread works the question rests on -->
 
 # QUESTION-298: When fans of one club perceive their rivalry with another as reciprocated, do the rival's fans in fact return it, and do the identity benefits of rivalry depend on the perception or on the fact?
 

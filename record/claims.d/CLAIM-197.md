@@ -54,9 +54,8 @@ supports:
 - CLAIM-196
 ---
 <!-- inactive-ok-file: CLAIM-251 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
-<!-- inactive-ok-file: CLAIM-143 — Proposed; the general point this claim gives the simplest instance of -->
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the consequence drawn from this claim, cited forward -->
-<!-- inactive-ok-file: CLAIM-105 CLAIM-201 CLAIM-257 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-197: Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues
 

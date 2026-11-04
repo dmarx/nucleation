@@ -89,9 +89,8 @@ complements:
 <!-- inactive-ok-file: THEORY-277 — Proposed; the reading behind the qualification of 2026-10-14, not leaned on -->
 <!-- inactive-ok-file: THEORY-320 — Proposed; cited in a note of 2026-10-14 as a formal instance, not leaned on -->
 <!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
-<!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
+<!-- inactive-ok-file: CLAIM-161 — Proposed; the boundary claims this caution disciplines, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: CLAIM-348 CLAIM-401 CLAIM-405 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-152: Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal
 

@@ -50,7 +50,7 @@ summary: >-
   on counting calm or simplicity as content.
 ---
 <!-- inactive-ok-file: THEORY-1246 — Proposed; filed beside this reading by the twenty-fourth status review: the thesis about the experiences themselves -->
-<!-- inactive-ok-file: CLAIM-412 CLAIM-411 TERM-073 TERM-072 THEORY-063 — Proposed; the claims, terms and accounts this one bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-412 THEORY-063 — Proposed; the claims, terms and accounts this one bears on, named and not leaned on -->
 
 # THEORY-866: Expert texts of Shamatha, Transcendental and Stillness Meditation describe their so-called contentless goal-states as lacking thoughts, perceptions, images and memories but keeping many forms of content, and as differing across the practices in attentional stability and vividness
 

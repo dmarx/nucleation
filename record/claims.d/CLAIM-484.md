@@ -36,7 +36,6 @@ summary: >-
   authority, and their notes say they do not show that a motive claimed
   precedence.
 ---
-<!-- inactive-ok-file: QUESTION-365 — Open; the question the parent's outward route is filed as -->
 
 # CLAIM-484: Internal conflict is the gap between the precedence a motive claims over action and the authority the rest of the organization grants it
 
@@ -117,7 +116,6 @@ status, title or warrant changes.
 
 ## Note of 2026-11-01: mental effort as a collision of claim and grant, proposed
 
-<!-- inactive-ok: THEORY-1296 — Proposed; the reading this note reports, cited as open -->
 
 Metzinger's chapter on mental action ([LIT-1945](../literature.d/LIT-1945.md), p. 10, read in
 [NOTE-1496](../notes.d/NOTE-1496.md)) gives the nearest thing in the record to the episode this

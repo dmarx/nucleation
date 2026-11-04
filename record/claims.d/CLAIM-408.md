@@ -51,7 +51,7 @@ summary: >-
   any reform, or about anyone's intent, and it does not show that a tipped
   allocation outlasts the constraint's return: in this model it does not.
 ---
-<!-- inactive-ok-file: CLAIM-277 CLAIM-297 THEORY-470 CLAIM-410 — Proposed; the entrenchment claims and the reading named for the mechanisms this claim leaves out, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-470 — Proposed; the entrenchment claims and the reading named for the mechanisms this claim leaves out, nothing here rests on them -->
 
 # CLAIM-408: In ḋ = (α − κ)d − βd³, with d the difference between two parties' shares of authority, α their self-reinforcement and κ a constraint that bears on both alike, the equal allocation is the only equilibrium and is stable for κ > α, and for κ < α it is unstable and the unequal allocations ±√((α − κ)/β) are stable: a constraint that favours neither party can, by weakening, destabilize the equal allocation and make persistent unequal allocations stable, of any size near the threshold (|d*| → 0 as κ → α), without determining which party gains the larger share, and in this model restoring κ > α restores the equal allocation
 

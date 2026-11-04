@@ -31,7 +31,6 @@ summary: >-
   it does not say that a hypothesis whose score matches the model is
   true, and the same appendix's §7 builds one that is false.
 ---
-<!-- inactive-ok-file: CLAIM-454 — Proposed; the claim this bears on, cited as open -->
 
 # THEORY-1025: The inputs causal scrubbing samples for a treeified hypothesis are the unique maximum-entropy distribution, on finite inputs, among those that give the inputs of every interpretation node the joint distribution they have on the data, so whatever the hypothesis does not claim is resampled as independently as the claims allow
 

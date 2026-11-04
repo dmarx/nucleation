@@ -26,7 +26,6 @@ summary: >-
   one. An ML paper that neither record holds.
 ---
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the claim this case supports, open -->
-<!-- inactive-ok-file: CLAIM-077 — Proposed; cited for the collapse the baseline shows, not as settled -->
 
 # CASE-070: Voita, Sennrich and Titov's BLEU-tied translation systems that differ on keeping ты or вы across sentences
 

@@ -33,7 +33,6 @@ supports:
 - CLAIM-402
 ---
 <!-- inactive-ok-file: THEORY-854 — Proposed; the companion account from the same reading, named for the part this one leaves out -->
-<!-- inactive-ok-file: CLAIM-402 — Proposed; the claim this case bears on, cited as open -->
 
 # THEORY-862: In US law schools under the U.S. News ranking, administrators and faculty reported, and public sources corroborated, that schools changed what they did in order to move their rank: they moved money toward the ranking's inputs, redefined admissions and career-services work around its indicators, and gamed its figures, so the ranking altered the things it measured
 

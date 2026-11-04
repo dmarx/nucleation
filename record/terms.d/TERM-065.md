@@ -40,9 +40,6 @@ summary: >-
 used_by:
 - CLAIM-401
 ---
-<!-- inactive-ok-file: CLAIM-475 CLAIM-470 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
-<!-- inactive-ok-file: CLAIM-401 QUESTION-252 — Proposed; the claim and question filed from the same exchange, cited as where the regime is used -->
-<!-- inactive-ok-file: CLAIM-363 CLAIM-348 — Proposed; the owner's point about relata and the target-relativity of adequacy, cited as the shape this term borrows, nothing rests on them -->
 
 # TERM-065: effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description's adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated
 

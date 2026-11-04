@@ -32,7 +32,7 @@ summary: >-
   is a form of specification is [CLAIM-470](../claims.d/CLAIM-470.md)'s claim, stated in this term and
   not built into it. Proposed.
 ---
-<!-- inactive-ok-file: CLAIM-470 CLAIM-475 TERM-092 TERM-088 — Proposed; the entries this term serves, each open -->
+<!-- inactive-ok-file: TERM-088 — Proposed; the entries this term serves, each open -->
 
 # TERM-095: inquiry: a process that pursues a question, written (Σ, A, 𝓘, 𝓞, 𝓚, 𝓑): a language in which it is posed, an answer space that says which differences would count as an answer, the interventions and observations that make those differences accessible, criteria for judging candidate answers, and the resources it runs on; it is reflexive when any of these becomes what it is pursuing
 

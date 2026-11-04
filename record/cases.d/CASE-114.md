@@ -48,7 +48,7 @@ summary: >-
   illusory authorship, located in the attribution. Proposed, not run, and
   it tests attribution of control, not phenomenal properties.
 ---
-<!-- inactive-ok-file: CLAIM-355 CLAIM-288 THEORY-646 QUESTION-061 CLAIM-413 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
+<!-- inactive-ok-file: CLAIM-355 THEORY-646 QUESTION-061 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
 
 # CASE-114: The imagined owner
 

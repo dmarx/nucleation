@@ -168,7 +168,6 @@ neither A214 nor A218 supplies it.
 
 ## Note of 2026-10-26: three latent-structure models, and the second achievement
 
-<!-- inactive-ok-file: CLAIM-454 — Proposed; filed the same day, cited as open -->
 
 The exchange "Experimental Infrastructure Review" proposed hLDA, the
 author–topic model and the mixed membership stochastic blockmodel for

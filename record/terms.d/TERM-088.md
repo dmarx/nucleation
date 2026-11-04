@@ -27,7 +27,8 @@ summary: >-
   autonomy is [TERM-070](TERM-070.md)'s closure, named here as the sense it is not.
   Proposed.
 ---
-<!-- inactive-ok-file: CLAIM-474 CLAIM-157 CLAIM-395 QUESTION-115 TERM-074 — Proposed, Open or new; the entries this term serves -->
+<!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-tmpxes2o — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
+<!-- inactive-ok-file: CLAIM-474 CLAIM-157 — Proposed, Open or new; the entries this term serves -->
 
 # TERM-088: individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
 
@@ -139,3 +140,24 @@ evidence it has, since interventions alone will not supply it
 ([CLAIM-528](../claims.d/CLAIM-528.md)).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-03: the settle condition failed again
+
+A31 of the exchange "Assess SDT Coverage" (2026-11-02), asked to "connect to individuation" (U31), did three things this
+term's earlier notes warn against.
+
+- **It conflated two senses.** Its §1 said oscillators driven by one outside
+  clock "need not constitute an individual". This term says a pattern "can be
+  dynamically individuated while sustained wholly from outside", as the owner
+  corrected on 2026-10-27 ([CLAIM-474](../claims.d/CLAIM-474.md) v2; [CLAIM-167](../claims.d/CLAIM-167.md), "one-way drive rightly
+  passes"). A31's point was about autonomy ([CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-522](../claims.d/CLAIM-522.md)).
+- **Its candidate principle named no sense**, and its table used the genetic
+  sense without saying so, against the note of 2026-10-31.
+- **It ran together two "metastabilities"**, Simondon's heterogeneity and
+  [CASE-111](../cases.d/CASE-111.md)'s bistability, which [QUESTION-281](../questions.d/QUESTION-281.md)'s note keeps apart.
+
+It also missed [CLAIM-170](../claims.d/CLAIM-170.md), the owner's bridge between will and individuation.
+The join is filed as [CLAIM-tmpxes2o](../claims.d/CLAIM-tmpxes2o.md), which names its sense: constitutive, at
+[CLAIM-170](../claims.d/CLAIM-170.md)'s level and target.
+
+The term is unchanged.

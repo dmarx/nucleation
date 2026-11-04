@@ -23,7 +23,7 @@ summary: >-
   lies; and its line between causation and constitution is simultaneity,
   which is sharp only at a fixed time resolution.
 ---
-<!-- inactive-ok-file: QUESTION-284 CLAIM-515 CLAIM-480 LIT-1925 LIT-1929 CLAIM-528 — Open, Proposed, Unfetched or Unavailable; cited as open -->
+<!-- inactive-ok-file: CLAIM-515 LIT-1925 LIT-1929 CLAIM-528 — Open, Proposed, Unfetched or Unavailable; cited as open -->
 
 # THEORY-1293: Given that every change in a phenomenon is simultaneously realized by some constituent on every lower level, that simultaneous changes are not causally related, that co-occurrence is transitive, and that the parts and their levels are already known, a single intervention that changes a part and the phenomenon simultaneously while directly changing at most one behaviour on each lower level shows that the part is a constituent; the condition presupposes the boundary and the level hierarchy it is applied to and cannot supply them
 

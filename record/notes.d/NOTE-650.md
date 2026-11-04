@@ -34,7 +34,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-100 CLAIM-001 CLAIM-105 — Proposed or Superseded; open, and cited as open: the claims this reading bears on -->
-<!-- inactive-ok-file: THEORY-174 — Proposed; cited for what this reading bears on, not as settled -->
 
 # NOTE-650: Closing Bell
 

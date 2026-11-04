@@ -35,7 +35,7 @@ summary: >-
   to be retuned before a voluntary movement, and optical information may
   set the tuning directly.
 ---
-<!-- inactive-ok-file: CLAIM-175 THEORY-069 — Proposed; the claim that names the term and the later coordination-dynamics account, open -->
+<!-- inactive-ok-file: THEORY-069 — Proposed; the claim that names the term and the later coordination-dynamics account, open -->
 <!-- inactive-ok-file: LIT-902 LIT-913 LIT-907 LIT-908 — Unavailable; Kelso et al., Kugler et al., Bernstein and Koestler, named for lineage and not leaned on -->
 <!-- inactive-ok-file: THEORY-302 — Proposed; the account filed from this reading -->
 

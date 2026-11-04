@@ -56,7 +56,7 @@ used_by:
 ---
 <!-- inactive-ok-file: THEORY-859 — Proposed; Short, Hill and Brown's general form, cited as an instance of the sense not adopted -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as the source A20 cited, which no lawful copy reached -->
-<!-- inactive-ok-file: CLAIM-277 CLAIM-297 CLAIM-342 CLAIM-359 CLAIM-404 — Proposed; open claims that use the word or this definition, cited as open -->
+<!-- inactive-ok-file: CLAIM-404 — Proposed; open claims that use the word or this definition, cited as open -->
 
 # TERM-066: interpretive capture, of an organization's evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process
 

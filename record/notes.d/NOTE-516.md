@@ -28,7 +28,6 @@ summary: >-
   Hessian transition.
 ---
 
-<!-- inactive-ok-file: THEORY-087 — Proposed; named for the regular versus singular complexity penalty, with no relation claimed -->
 
 # NOTE-516: Taxonomizing local versus global structure in neural network loss landscapes
 

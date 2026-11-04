@@ -106,7 +106,6 @@ complements:
 - CLAIM-432
 - CLAIM-443
 ---
-<!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-156 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1830 LIT-1823 — Unavailable and Unfetched since 2026-10-29; Bond 2018 and Edmondson 1996, cited in the note of that date as not read, nothing here rests on them -->

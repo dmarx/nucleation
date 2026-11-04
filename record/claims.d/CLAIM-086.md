@@ -45,7 +45,6 @@ corroborated_by:
 - THEORY-223
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
-<!-- inactive-ok-file: CLAIM-410 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-086: A constraint may govern conduct without governing the conditions under which it remains authoritative
 

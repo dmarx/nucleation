@@ -39,7 +39,7 @@ summary: >-
   feedback loop crossing the mechanism's boundary changes the analysis,
   and its generality is assumed.
 ---
-<!-- inactive-ok-file: QUESTION-093 THEORY-072 — Open or Proposed; the question of a higher-level agent and an account of production this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-072 — Open or Proposed; the question of a higher-level agent and an account of production this reading bears on, cited as open -->
 
 # THEORY-1291: Within levels of mechanisms, apparent top-down and bottom-up causes can be read as mechanistically mediated effects, intralevel causation among components together with the constitution of the whole by them, so that the relation between levels is constitution and not causation; Craver and Bechtel show the translation for six cases, on the assumption, not argued, that every higher-level cause has a mechanistic explanation
 

@@ -61,7 +61,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1318 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
-<!-- inactive-ok-file: THEORY-143 THEORY-146 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-143 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1825 — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
 # QUESTION-117: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
@@ -182,7 +182,6 @@ The question is unchanged.
 
 ## Note of 2026-10-26: phenomena shown, no comparison made
 
-<!-- inactive-ok-file: CASE-162 CASE-161 — Proposed; the lab's runs filed 2026-10-26, cited as phenomena shown, not as an answer -->
 
 Of A15's suite, the Perspective Population Lab now shows capture without
 fidelity and history dependence in stipulated models ([CASE-162](../cases.d/CASE-162.md)), and

@@ -67,7 +67,7 @@ summary: >-
   bottlenecks and could feed further splitting.
 ---
 <!-- inactive-ok-file: THEORY-1214 — Proposed; filed beside this reading by the twenty-second status review: the wider thesis it reports -->
-<!-- inactive-ok-file: QUESTION-277 CASE-177 LIT-1563 LIT-1586 LIT-1612 LIT-1602 — Open, Proposed or Unfetched; the question, case, account and unread works this is set beside, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-177 LIT-1563 LIT-1586 LIT-1612 LIT-1602 — Open, Proposed or Unfetched; the question, case, account and unread works this is set beside, nothing here rests on them -->
 # THEORY-1106: Campbell and colleagues report, from four cicada species with five or six eggs each, that Hodgkinia cells per egg range from about 4,900 in a species with one Hodgkinia lineage to about 30,000, some six times as many, in Magicicada septendecim, whose Hodgkinia has split into many interdependent lineages and the only species that differs significantly, while Sulcia numbers are not raised, the transmission route is the same, and every egg sampled carries every lineage tracked by marker genes; the authors take the raised titre as a host adaptation that compensates for the symbiont's fragmentation, and a cost of it
 
 ## Source

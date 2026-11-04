@@ -35,7 +35,7 @@ summary: >-
 supports:
 - CLAIM-210
 ---
-<!-- inactive-ok-file: CLAIM-002 CLAIM-137 CLAIM-217 — Proposed; the work-identity claim, the kind thesis and the uptake standard this case sits beside, open -->
+<!-- inactive-ok-file: CLAIM-137 CLAIM-217 — Proposed; the work-identity claim, the kind thesis and the uptake standard this case sits beside, open -->
 
 # CASE-054: Joking relationships: one kind among the Crow and in Africa with no route between them, descended between Crow and Hidatsa, and a transported tale beside them
 

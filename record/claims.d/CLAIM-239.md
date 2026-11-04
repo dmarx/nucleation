@@ -29,7 +29,7 @@ summary: >-
   experiments do not test these two theses; argument does. Active,
   because it is read off the rule.
 ---
-<!-- inactive-ok-file: CLAIM-077 CLAIM-143 CLAIM-137 — Proposed; open, and cited for the wording of their defeat conditions, not as settled -->
+<!-- inactive-ok-file: CLAIM-137 — Proposed; open, and cited for the wording of their defeat conditions, not as settled -->
 
 # CLAIM-239: A defeat condition that says something cannot be done is met by an argument that it cannot, not by a record of failures, so the admissibility and correspondence theses can fail by their own conditions, though no study the programme runs can make them fail
 

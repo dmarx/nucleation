@@ -55,7 +55,6 @@ summary: >-
 complements:
 - CLAIM-301
 ---
-<!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-917 — Unavailable, unread; cited for what it is standardly cited for, and marked unread in the text -->
 
@@ -127,7 +126,6 @@ lock-in.
 
 ## Note of 2026-10-31: the dense field, in organization studies
 
-<!-- inactive-ok-file: CLAIM-185 — Proposed; the thesis this counter answers -->
 
 Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), pp. 1356–1357) state this
 counter's worry as a property of fields. Each being-in-becoming is a

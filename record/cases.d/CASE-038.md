@@ -37,7 +37,7 @@ supports:
 - CLAIM-147
 - CLAIM-222
 ---
-<!-- inactive-ok-file: CLAIM-147 CLAIM-034 CLAIM-002 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-147 CLAIM-034 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: ARG-014 — Rejected; the verdict that labels written to fit their examples cannot validate the account -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp this case's analysis repeats, not as settled -->
 

@@ -24,7 +24,6 @@ summary: >-
   suggestion rather than as a term. The exchange used the idea under five names
   and never fixed one.
 ---
-<!-- inactive-ok-file: CLAIM-199 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-110: How should the cost of recovering a distinction from a representation be defined, relative to an encoding, a class of procedures and a success criterion?
 

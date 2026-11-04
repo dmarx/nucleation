@@ -37,8 +37,7 @@ summary: >-
   lost is accuracy, not a pragmatic one; a stipulated English-to-Russian
   ты/вы variant states the design that would make it pragmatic.
 ---
-<!-- inactive-ok-file: CLAIM-149 — Proposed; the claim this case supports, open -->
-<!-- inactive-ok-file: CLAIM-142 CLAIM-077 — Proposed; cited for what the stipulated variant would test, not as settled -->
+<!-- inactive-ok-file: CLAIM-142 — Proposed; cited for what the stipulated variant would test, not as settled -->
 
 # CASE-071: Kovacs, Deutsch and Freitag's metric bias in MBR decoding: translations a metric selects, that the metric and its neighbours rate better and human raters do not
 

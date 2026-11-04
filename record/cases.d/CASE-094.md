@@ -34,7 +34,6 @@ supports:
 - CLAIM-312
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
-<!-- inactive-ok-file: CLAIM-296 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
 # CASE-094: The LEGO bin: a brick owned in one copy and buried among hundreds of similar ones may as well not be owned, a black brick among white ones needs no bin of its own, and every brick can be found by going through the whole collection
 

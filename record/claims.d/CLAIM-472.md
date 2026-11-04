@@ -47,7 +47,7 @@ summary: >-
   A6 named as the bridge. Barad is unread here.
 ---
 <!-- inactive-ok-file: LIT-1631 — Deferred; registered unread -->
-<!-- inactive-ok-file: CLAIM-476 CLAIM-363 QUESTION-072 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-476 — Proposed or Open; the apparatus claim this rests on and the neighbours it is set beside, cited as open -->
 <!-- inactive-ok-file: LIT-1657 — Deferred; registered from the same exchange, unread -->
 
 # CLAIM-472: Because an apparatus makes some distinctions determinate and leaves others unstatable, choosing and maintaining one is open to evaluation and not only to verification; but that a cut excludes something fixes no obligation, since every distinction excludes, and which exclusions matter is a judgment indexed to a standard, a scale and those affected

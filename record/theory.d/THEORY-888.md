@@ -37,7 +37,7 @@ summary: >-
   independent study found no loss of hits, only more false alarms under
   load. It is about recognizing object labels, not intentions.
 ---
-<!-- inactive-ok-file: CLAIM-421 THEORY-886 — Proposed; claims and accounts this bears on, named, not leaned on -->
+<!-- inactive-ok-file: THEORY-886 — Proposed; claims and accounts this bears on, named, not leaned on -->
 
 # THEORY-888: Walking through a doorway into a new room, rather than as far within one, lowers recognition of an object being carried, through retrieval interference between the event models of the two rooms that both hold it, not through a longer retention interval, a passing cost of updating, or loss of the encoding context; outside the originating paradigm, with passive movement and no extra load, it has not appeared
 

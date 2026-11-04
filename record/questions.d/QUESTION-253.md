@@ -56,7 +56,7 @@ answered_by:
 - CLAIM-400
 ---
 <!-- inactive-ok-file: THEORY-838 — Proposed; readings of 2026-10-21 named as static candidates, not answers -->
-<!-- inactive-ok-file: CLAIM-338 CLAIM-342 CLAIM-297 — Proposed; the claims and the candidate term the question works from, cited as open -->
+<!-- inactive-ok-file: CLAIM-338 — Proposed; the claims and the candidate term the question works from, cited as open -->
 
 # QUESTION-253: In the coupled meaning–authority model, is authority's effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime's κ′, how far the prevailing interpretation bends the reading of the evidence?
 

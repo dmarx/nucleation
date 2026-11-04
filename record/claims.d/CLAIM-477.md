@@ -60,10 +60,9 @@ summary: >-
   It is not a structural realism that eliminates relata, and satisfying a
   specification is not being produced by it.
 ---
-<!-- inactive-ok-file: CLAIM-480 CLAIM-470 CLAIM-475 QUESTION-115 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
-<!-- inactive-ok-file: CLAIM-478 CLAIM-137 LIT-1019 LIT-1632 LIT-1663 — claims the note connects (Proposed) and works unread here (Unavailable or Deferred) -->
+<!-- inactive-ok-file: CLAIM-478 CLAIM-137 LIT-1019 LIT-1632 — claims the note connects (Proposed) and works unread here (Unavailable or Deferred) -->
 <!-- inactive-ok-file: THEORY-1086 — Proposed; Jaksland's conditional, cited as open -->
-<!-- inactive-ok-file: CLAIM-136 CLAIM-151 CLAIM-405 CLAIM-195 THEORY-034 — Proposed; the domain cases, neighbours and objection this frame sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the domain cases, neighbours and objection this frame sits beside, cited as open -->
 
 # CLAIM-477: Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
 
@@ -344,7 +343,6 @@ residue.
 
 ## Note of 2026-10-31: transduction, and a priority that is logical but not chronological
 
-<!-- inactive-ok-block: THEORY-1276 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
 Two things in the Simondonian readings filed today bear on this claim's
 recursion. Both come through commentators: Simondon's own text is
 Unavailable here ([LIT-1648](../literature.d/LIT-1648.md), [LIT-1900](../literature.d/LIT-1900.md)).

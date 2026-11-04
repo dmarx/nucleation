@@ -24,7 +24,7 @@ summary: >-
   Relation, and calls the information-exchange framing too narrow.
 ---
 <!-- inactive-ok-file: LIT-1041 — Unavailable: read only in part, no full lawful copy reached, filed with this skim on 2026-10-13; the directive lapses when its status changes -->
-<!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 — Proposed or Open; the objection, claim and question this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-221 CLAIM-151 — Proposed or Open; the objection, claim and question this reading bears on, open -->
 
 # NOTE-734: Grice — Logic and Conversation
 

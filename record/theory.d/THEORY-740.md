@@ -36,7 +36,7 @@ summary: >-
 extended_by:
 - THEORY-186
 ---
-<!-- inactive-ok-file: THEORY-186 THEORY-187 — Proposed; the account this core was split from and that extends it, and the depth account set beside it, cited as open -->
+<!-- inactive-ok-file: THEORY-186 — Proposed; the account this core was split from and that extends it, and the depth account set beside it, cited as open -->
 
 # THEORY-740: A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data's spectrum
 

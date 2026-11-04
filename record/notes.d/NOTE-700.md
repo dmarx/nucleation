@@ -37,7 +37,6 @@ summary: >-
 <!-- inactive-ok-file: LIT-430 LIT-832 — Unavailable, unread: named as works this paper cites, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what this method would and would not supply for it -->
 <!-- inactive-ok-file: CLAIM-010 CLAIM-110 — Rejected; cited as the history the comparison is about -->
-<!-- inactive-ok-file: THEORY-034 — Proposed; open, and cited to say this reading does not bear on it -->
 
 # NOTE-700: Floridi — The Method of Levels of Abstraction
 

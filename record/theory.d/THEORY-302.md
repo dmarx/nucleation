@@ -34,7 +34,7 @@ summary: >-
   conditions. Its extension to all levels, and to tuning set directly by
   vision, is the author's speculation.
 ---
-<!-- inactive-ok-file: THEORY-069 CLAIM-175 — Proposed; the later coordination-dynamics account and the claim that names the term, open -->
+<!-- inactive-ok-file: THEORY-069 — Proposed; the later coordination-dynamics account and the claim that names the term, open -->
 <!-- inactive-ok-file: LIT-902 LIT-907 — Unavailable; Kelso et al. and Bernstein, named for lineage -->
 
 # THEORY-302: Coordinated action is controlled by tuning relatively autonomous coordinative structures, not by commanding muscles: a higher level specifies an equivalence class of acceptable states and sets the parameters of self-regulating units, leaving the realized details to them

@@ -32,7 +32,7 @@ summary: >-
   sense, and needed a weaker one that a thermometer, a bacterium, a
   sensor network and luria all fall under without argument.
 ---
-<!-- inactive-ok-file: CLAIM-469 TERM-087 CLAIM-476 CLAIM-470 CLAIM-480 CLAIM-419 QUESTION-285 — Proposed, Open or new; the term, claims and question this sense serves -->
+<!-- inactive-ok-file: TERM-087 CLAIM-476 — Proposed, Open or new; the term, claims and question this sense serves -->
 
 # TERM-089: apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart
 

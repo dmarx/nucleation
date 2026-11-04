@@ -33,7 +33,7 @@ summary: >-
   A81, C6 and the manuscript without critique. The record holds Ganter
   and Wille unread.
 ---
-<!-- inactive-ok-file: LIT-267 QUESTION-025 — Proposed or open; cited as a qualification and an open question, not as settled -->
+<!-- inactive-ok-file: LIT-267 — Proposed or open; cited as a qualification and an open question, not as settled -->
 <!-- inactive-ok-file: LIT-344 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
 # CLAIM-119: Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints

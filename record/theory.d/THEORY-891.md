@@ -60,7 +60,7 @@ reports:
 bears_on:
 - QUESTION-063
 ---
-<!-- inactive-ok-file: QUESTION-063 CLAIM-172 CLAIM-167 CASE-045 THEORY-129 THEORY-275 — Proposed or Open; the question it bears on and the accounts it sits beside, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-167 THEORY-129 — Proposed or Open; the question it bears on and the accounts it sits beside, named, not leaned on -->
 
 # THEORY-891: In dyads of untrained dancers facing each other, shared music and visual contact each raised interpersonal movement synchrony, with no interaction detected, in different movement components: lateral and hand movements synchronized through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both; which factor drove a component's synchrony was classified from its spatial direction and not from the periodicity of the synchrony
 

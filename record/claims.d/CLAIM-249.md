@@ -37,7 +37,7 @@ illustrated_by:
 - CASE-057
 ---
 <!-- inactive-ok-file: CLAIM-137 — Proposed; the owner's thesis, open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: CLAIM-098 CLAIM-103 — Proposed; cited for the semigroup of transformations and the invertible core of stochastic maps, open -->
+<!-- inactive-ok-file: CLAIM-103 — Proposed; cited for the semigroup of transformations and the invertible core of stochastic maps, open -->
 <!-- inactive-ok-file: CLAIM-138 — Proposed; the Newman counter this objection complements, open -->
 
 # CLAIM-249: Comparing characters across realizations needs one group identified on both, which is fixed only up to automorphism, and automorphisms permute the irreducible characters, so "the same character" is relative to a chosen correspondence: the collapse problem again, at the level of the symmetry group

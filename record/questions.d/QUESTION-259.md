@@ -38,7 +38,7 @@ refined_by:
 bearing:
 - CLAIM-430
 ---
-<!-- inactive-ok-file: CLAIM-278 CLAIM-364 CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-278 CLAIM-364 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-259: How do populations of heterogeneous processes generate, reproduce and transform organizational perspectives, and what further conditions let such a perspective become the object of its own effective governance?
 
@@ -81,7 +81,7 @@ capture or regress.
 
 ## Note of 2026-10-26: the owner's employees as sub-perspectives
 
-<!-- inactive-ok-file: CLAIM-418 TERM-072 CASE-166 — Proposed; the claim and term the note sets the owner's wording against, and the reported study, cited as open -->
+<!-- inactive-ok-file: CASE-166 — Proposed; the claim and term the note sets the owner's wording against, and the reported study, cited as open -->
 
 The owner, at T18 of the exchange "Experimental Infrastructure Review":
 "maybe employees are "pre-perspectives" or sub-perspectives, which can

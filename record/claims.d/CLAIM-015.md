@@ -26,7 +26,6 @@ summary: >-
 objected_by:
 - CLAIM-040
 ---
-<!-- inactive-ok-file: CLAIM-113 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-015: Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant
 

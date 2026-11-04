@@ -112,7 +112,6 @@ The claim has three parts.
 
 ## Note of 2026-11-01: coexisting levels in the constitution debate
 
-<!-- inactive-ok-block: LIT-1933 CLAIM-528 — Unfetched or Proposed; filed 2026-11-01, cited as context -->
 The debate on mechanistic constitution read today holds part 3's picture
 of levels, coexisting and without causal relation between them, and adds
 two points.

@@ -33,7 +33,7 @@ summary: >-
   the choices are arbitrary is asserted, and the paper itself floats
   predictive power as a way to choose.
 ---
-<!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-194 THEORY-071 THEORY-232 — Proposed; the claims and accounts this bears on, open -->
+<!-- inactive-ok-file: CLAIM-170 CLAIM-174 THEORY-071 THEORY-232 — Proposed; the claims and accounts this bears on, open -->
 
 # THEORY-249: Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided
 

@@ -84,7 +84,6 @@ summary: >-
 supports:
 - CLAIM-074
 ---
-<!-- inactive-ok-file: CLAIM-074 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-118: Context and interpreter are separate sources of interpretive change, told apart by what each carries and not by mechanism: what the current context supplies, whether held in activations or in weights updated on it and discarded after, is the signal; what earlier contexts have left in the interpreter and it carries into new ones is the interpreter; and improving the signal differs from improving the interpreter
 

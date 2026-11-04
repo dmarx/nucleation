@@ -107,7 +107,7 @@ objected_by:
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
 <!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; quoted as the manuscript's steps, which moved to CLAIM-488 -->
-<!-- inactive-ok-file: CLAIM-199 CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
+<!-- inactive-ok-file: CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
 
 # CLAIM-050: For report fidelity, fidelity is relative to the communicative decisions receivers make, and Blackwell's order on rendering procedures, over a designed distribution of situations, makes precise the ceiling a rendering sets on those decisions
 

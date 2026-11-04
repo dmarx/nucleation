@@ -41,7 +41,6 @@ reported_in:
 - NOTE-1090
 - THEORY-140
 ---
-<!-- inactive-ok-file: CLAIM-403 CLAIM-416 CLAIM-422 THEORY-140 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-715 — Unavailable; works sought and not reached, cited as unread -->
 
 # CASE-138: Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between

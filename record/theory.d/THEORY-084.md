@@ -71,7 +71,7 @@ presupposes:
 corroborates:
 - CLAIM-164
 ---
-<!-- inactive-ok-file: THEORY-019 THEORY-078 THEORY-080 — Proposed; THEORY-019 is extended and this account is no firmer than it, the others are named in Connections -->
+<!-- inactive-ok-file: THEORY-078 THEORY-080 — Proposed; THEORY-019 is extended and this account is no firmer than it, the others are named in Connections -->
 
 # THEORY-084: Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks
 

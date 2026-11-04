@@ -4,7 +4,12 @@ status: Active
 formerly:
 - CLAIM-tmpr8p2x
 title: 'Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -29,6 +34,8 @@ bears_on:
 - QUESTION-093
 grounds:
 - 'CASE-189'
+uses:
+- TERM-tmp8spbn
 summary: >-
   From A10 §4 (its Proposition 5) of the exchange "Analyze nucleation
   concepts" (2026-10-31). Close to definitional, and checked: substituting
@@ -38,7 +45,6 @@ summary: >-
   in both systems; only where the mechanism sits relative to the boundary
   differs, which is [CLAIM-194](CLAIM-194.md)'s point about boundaries.
 ---
-<!-- inactive-ok-file: QUESTION-093 — Open; the question of separable autonomy conditions, cited as open -->
 
 # CLAIM-522: Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two
 

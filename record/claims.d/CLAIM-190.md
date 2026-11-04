@@ -43,8 +43,7 @@ illustrated_by:
 ---
 <!-- inactive-ok-file: ARG-028 — Proposed; the argument this claim moved to under ADR-061 -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-186 — Proposed; open, the theses this objection was to and the argument now concludes -->
-<!-- inactive-ok-file: CLAIM-264 CLAIM-266 — Proposed; the general form of a premise, filed under ADR-040, open -->
-<!-- inactive-ok-file: CLAIM-149 CLAIM-206 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-206 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-190: The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply
 

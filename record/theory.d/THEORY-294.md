@@ -46,7 +46,7 @@ bears_on:
 ---
 
 <!-- inactive-ok-file: THEORY-813 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
-<!-- inactive-ok-file: THEORY-083 THEORY-212 THEORY-286 — Proposed; the record's statement of collapse, its lazy-versus-rich regime and NTK-spectrum accounts, and the two UFM accounts filed today -->
+<!-- inactive-ok-file: THEORY-212 THEORY-286 — Proposed; the record's statement of collapse, its lazy-versus-rich regime and NTK-spectrum accounts, and the two UFM accounts filed today -->
 
 # THEORY-294: For a wide two-layer ReLU network with zero bias on one-dimensional data whose two classes lie on opposite sides of the origin, the tangent kernel is a constant multiple of the initialization kernel, so lazy training leaves the within-class variability of its features, NC1, where initialization put it
 

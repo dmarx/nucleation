@@ -30,7 +30,7 @@ summary: >-
   concentration, and nothing about conditions under which Φ and Θ are
   identified up to permutation.
 ---
-<!-- inactive-ok-file: CASE-165 CLAIM-135 — Proposed; the case and claim this account bears on, open -->
+<!-- inactive-ok-file: CASE-165 — Proposed; the case and claim this account bears on, open -->
 
 # THEORY-972: In the author–topic model the likelihood of a corpus depends on the topics Φ and the authors' topic distributions Θ only through the document–word matrix ΦΘA, A being fixed by the observed authorship, so LDA (each document its own author) and the topic-free author model (each author one topic) are special cases; and the likelihood leaves Φ and Θ unidentified not only up to the permutations of topics the paper names but along a continuum of changes of topic basis whenever every topic gives every word positive probability
 

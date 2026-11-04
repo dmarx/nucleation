@@ -28,9 +28,9 @@ supports:
 - CLAIM-211
 - CLAIM-223
 ---
-<!-- inactive-ok-file: CLAIM-139 CLAIM-115 CLAIM-074 — Proposed; open, and cited as open: the theses compared and the receiver-side claim are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-139 CLAIM-115 — Proposed; open, and cited as open: the theses compared and the receiver-side claim are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the earlier thesis that still kept the receiver -->
-<!-- inactive-ok-file: CLAIM-223 CLAIM-204 — Proposed; the record's replies of 2026-10-10, open, cited in the note -->
+<!-- inactive-ok-file: CLAIM-204 — Proposed; the record's replies of 2026-10-10, open, cited in the note -->
 
 # CLAIM-140: The October thesis replaces what a receiver can reconstruct with what the analyst's probe system can identify as the test of what survives, and no turn argues the change
 

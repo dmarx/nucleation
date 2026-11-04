@@ -67,8 +67,7 @@ illustrated_by:
 - CASE-042
 - CASE-097
 ---
-<!-- inactive-ok-file: THEORY-017 THEORY-180 — Proposed; named as the parents of the Active entries now cited, not leaned on -->
-<!-- inactive-ok-file: CLAIM-113 — Proposed; open, and cited as the claim whose automorphism direction this one supplies -->
+<!-- inactive-ok-file: THEORY-180 — Proposed; named as the parents of the Active entries now cited, not leaned on -->
 
 # CLAIM-148: A matrix factorization is identified only up to an invertible change of latent coordinates, which weight decay narrows to rotations and nonnegativity to rescalings and permutations plus a data-dependent remainder; such a gauge is not a symmetry of the relational system, and automorphisms of the data act on the factors only when the factorization is identifiable
 

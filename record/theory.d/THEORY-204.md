@@ -48,7 +48,7 @@ bears_on:
 - QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-784 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
-<!-- inactive-ok-file: THEORY-201 QUESTION-025 — Proposed or open; cited as the accounts this one extends or is set beside and the question it does not answer -->
+<!-- inactive-ok-file: THEORY-201 — Proposed or open; cited as the accounts this one extends or is set beside and the question it does not answer -->
 
 # THEORY-204: On TinyStories and WikiText-103, the data-limited exponent of transformer test loss, fitted to the lower envelope of learning curves across context lengths at up to about 10^8 training tokens, overlaps γ/(2β), where β is the decay with lag of the top singular value of the token–token covariance and γ the decay of next-token conditional entropy with context length; under assumed per-lag scaling forms, a horizon n*(P) ~ P^(1/(2β)) gives the exponent min(δ, γ/(2β)), δ being the decay rate of the within-horizon excess losses
 

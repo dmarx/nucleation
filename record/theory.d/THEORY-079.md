@@ -60,7 +60,6 @@ summary: >-
 presupposes:
 - THEORY-087
 ---
-<!-- inactive-ok-file: THEORY-087 — Proposed; this account presupposes its singular half and is no firmer than it -->
 
 # THEORY-079: Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n
 

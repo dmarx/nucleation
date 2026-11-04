@@ -84,7 +84,7 @@ bears_on:
 - QUESTION-305
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the two-layer random-start claim, the analogue of QUESTION-305, cited not leaned on -->
-<!-- inactive-ok-file: CLAIM-118 THEORY-212 — Proposed; the claim this reading corroborates and neighbouring accounts, named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-212 — Proposed; the claim this reading corroborates and neighbouring accounts, named in Connections, not leaned on -->
 
 # THEORY-481: Under gradient flow averaged over tasks and data, a linear-attention layer trained on in-context regression learns as a two-layer linear network from an aligned start does: when tasks share the input covariance's eigenbasis and the weights start and stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to the estimator preconditioned by the inverse input covariance; at finite context length the modes decouple exactly only when inputs are isotropic and the modes start equal, and otherwise couple at order 1/N
 

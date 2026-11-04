@@ -37,7 +37,7 @@ presupposed_by:
 bears_on:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-019 THEORY-084 THEORY-080 — Proposed; named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-084 THEORY-080 — Proposed; named in Connections, nothing here rests on them -->
 
 # THEORY-086: In the kernel regime gradient descent fits the target eigenspace by eigenspace of the neural tangent kernel, at rates set by their eigenvalues; on uniform spherical data the eigenspaces are the harmonic degrees, and for fully connected ReLU networks the non-zero eigenvalues decay as k^(−d) at every depth
 

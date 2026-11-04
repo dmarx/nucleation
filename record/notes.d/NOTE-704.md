@@ -30,7 +30,7 @@ summary: >-
   aggregate dynamics between them. The theorem is cited, not shown; the
   evolutionary numbers are illustrative; the social claims are asserted.
 ---
-<!-- inactive-ok-file: CLAIM-160 CLAIM-163 CLAIM-172 — Proposed; claims this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-160 CLAIM-163 — Proposed; claims this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-056 THEORY-067 — Proposed; readings named as sharing the no-governor architecture -->
 <!-- inactive-ok-file: LIT-902 LIT-908 — Unavailable, unread; named as related works, not leaned on -->
 

@@ -33,7 +33,6 @@ summary: >-
   is unworkable.
 ---
 <!-- inactive-ok-file: CLAIM-087 CLAIM-128 — Proposed; the improvement claim D_Q misreads and the claim that notes D_causal's correspondence, cited as open -->
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's order D_Q is compared with, not as settled -->
 
 # CLAIM-218: The task-paired risk difference the record uses in place of Blackwell's order, D_Q = sup_q |R_q(U) − R_τ(q)(V)|, is a different quantity: it reduces each risk set to one number, needs the losses of paired tasks on one scale, and its absolute value counts improvement as distortion
 

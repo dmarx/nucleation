@@ -59,9 +59,7 @@ complements:
 - CLAIM-210
 - CLAIM-259
 ---
-<!-- inactive-ok-file: CLAIM-259 — Proposed; the directed repair of the measure, cited as open -->
 <!-- ref::uses-file: TERM-015 — stated in "fidelity, as graded, directed transport distortion"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-106: Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit
 

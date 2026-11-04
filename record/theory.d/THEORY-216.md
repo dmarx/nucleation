@@ -50,7 +50,6 @@ supports:
 extended_by:
 - THEORY-795
 ---
-<!-- inactive-ok-file: CLAIM-280 CLAIM-272 THEORY-214 — Proposed; open claims and a reading of a sister study, cited as what this bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-795 — Proposed; the population thesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-216: On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting

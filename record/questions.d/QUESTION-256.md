@@ -21,7 +21,6 @@ summary: >-
   past) and which can be held outside the person, as the extended mind
   holds a belief in Otto's notebook.
 ---
-<!-- inactive-ok-file: CLAIM-284 CLAIM-287 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-256: What forms of continuity must a person keep to remain capable of governing changes in their own practical organization, and which of those forms can other processes, other people or the environment supply?
 

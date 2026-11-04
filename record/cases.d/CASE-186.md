@@ -42,7 +42,6 @@ summary: >-
   the hypothesis family; and external restoration that is paid for. Not
   run. The analytic error rates hold only where admission is protected.
 ---
-<!-- inactive-ok-file: QUESTION-285 QUESTION-086 QUESTION-271 — Open; the questions the design is posed against, cited as open -->
 
 # CASE-186: A proposed study: an organization in a world whose hidden regime reverses and then leaves its hypothesis family, with evidence generation, admission and scoring separately lesionable, its diagnostic machinery maintained by its own reciprocal production, from outside, or not at all, and finite fuel shared among operation, maintenance and diagnosis, to find whether a second correction after injury to the diagnostic and copying machinery separates arrangements that correct the first failure alike
 

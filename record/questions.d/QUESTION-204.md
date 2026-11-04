@@ -48,7 +48,7 @@ answered_by:
 - THEORY-787
 ---
 <!-- inactive-ok-file: THEORY-787 — Rejected on 2026-10-30; the causal thesis this question was filed to test, cited as such -->
-<!-- inactive-ok-file: CLAIM-497 ARG-041 QUESTION-335 — Proposed or Open; the record's own answer, its argument and the case split off, cited in the note of 2026-10-30 -->
+<!-- inactive-ok-file: ARG-041 — Proposed or Open; the record's own answer, its argument and the case split off, cited in the note of 2026-10-30 -->
 
 # QUESTION-204: Does a macro description's effective-information advantage survive when the same intervention distribution over micro states is used at both levels, and does the EI-optimal level agree with an independent interventionist test of which level the effects track?
 

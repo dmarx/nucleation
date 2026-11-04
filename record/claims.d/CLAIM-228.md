@@ -80,7 +80,6 @@ summary: >-
 <!-- ref::uses-file: TERM-021 — applied unnamed: the D_obs this claim restates is context-indexed distribution matching -->
 <!-- ref::uses-file: TERM-043 — applied unnamed: D_obs is the computable component of the profile of directed distortions -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claim whose measure this restates -->
-<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's order the exact-fit condition becomes, not as settled -->
 <!-- inactive-ok-file: CLAIM-258 — Proposed; open, cited for its point that Blackwell's order needs a common parameter -->
 
 # CLAIM-228: D_obs restated over a rendering procedure, with one kernel family fitted on some source items and scored on held-out ones and the target term the readers' response averaged over the procedure's output, separates rendering procedures that receivers' task-indexed recovery separates, so restated it measures observational fidelity informatively

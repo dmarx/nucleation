@@ -47,7 +47,7 @@ extended_by:
 ---
 
 <!-- inactive-ok-file: THEORY-814 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
-<!-- inactive-ok-file: THEORY-148 THEORY-146 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
+<!-- inactive-ok-file: THEORY-148 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
 
 # THEORY-295: In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth
 

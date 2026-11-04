@@ -1,0 +1,167 @@
+---
+status: Read
+paper: LIT-tmpmi6rp
+title: 'Kane — Libertarianism'
+version: 1
+history:
+- version: 1
+  date: '2026-11-03'
+  note: >-
+    Read in full at the owner's direction, from the JSTOR download of the
+    published article reposted on cooperative-individualism.org. Text
+    extracted with pypdf; pp. 35–44 and the four references read. A
+    symposium paper summarizing Kane's view as given in Four Views on Free
+    Will (2007); that volume and the 1996 book were not read.
+date: '2026-11-03'
+summary: >-
+  Kane's compact defence of event-causal libertarianism. Free will needs
+  ultimate responsibility, which needs undetermined self-forming actions
+  somewhere in a life; Frankfurt cases do not reach them. In a
+  self-forming action the will is divided, conflict stirs up chaos that
+  makes the brain sensitive to micro-indeterminacy, and each competing
+  effort meets the indeterminacy as a hindrance from the other, so either
+  outcome is a willed success. Indeterminism lessens control without
+  lessening responsibility; what is needed is macro-control.
+---
+<!-- inactive-ok-file: CLAIM-tmpex9rg TERM-tmp8spbn TERM-tmp8cp5q THEORY-328 THEORY-040 LIT-tmpnqv86 — Proposed, Open, Unavailable or new; cited as open -->
+
+# NOTE-tmpku07s: Kane — Libertarianism
+
+## Contribution
+
+A ten-page statement of Kane's view for a symposium on Four Views on Free
+Will, with replies to Fischer, Pereboom, Vargas and McKenna. Its value here is
+that it states, in Kane's own words, the two things the record had only at
+second hand: where chaos enters, and how he answers the objection that
+undetermined choices are luck.
+
+## Key insight
+
+Free will is about the formation of the will, not only about free action:
+"It is about self-formation, about the formation of our 'wills' or how we got
+to be the kinds of persons we are" (p. 37). And the indeterminism in that
+formation is not a cause acting on its own but a hindrance inside a
+goal-directed effort, so success despite it is the agent's (p. 42).
+
+## Assumptions
+
+- **Ultimate responsibility (UR).** "To be ultimately responsible for an action,
+  an agent must be responsible for anything that is a sufficient reason, cause
+  or motive for the action's occurring" (p. 36).
+- **A regress, stopped by indeterminism.** UR would need an infinite regress of
+  past responsible acts unless some acts had no sufficient causes or motives
+  (p. 37).
+- **The neural hypothesis.** Conflict is "reflected in appropriate regions of our
+  brains by movement away from thermodynamic equilibrium—in short, a kind of
+  'stirring up of chaos' in the brain that makes it sensitive to
+  micro-indeterminacies at the neuronal level" (p. 39). Two crossing recurrent
+  networks carry the competing motives (p. 40). Stated, not argued.
+- **Parallel processing.** The brain can pursue two cognitive tasks at once, so
+  an agent can endeavour to make both choices (p. 41).
+
+## Key results
+
+The paper argues; it reports no data.
+
+- **Three kinds of free act** (p. 37): voluntary and uncoerced, compatible with
+  determinism; done "of our own free will", from a will the agent is ultimately
+  responsible for forming; and self-forming or "will-setting" acts, which must
+  be undetermined. The kinds are nested, and only the third must be
+  undetermined.
+- **Frankfurt cases** refute PAP but not the requirement of alternatives for
+  SFAs, which need more than one robust option (pp. 38–39). Pereboom's Tax
+  Evasion and McKenna's variants are, either way, not SFAs.
+- **The businesswoman** (p. 39): torn between helping a victim and her meeting,
+  she wills both, so whichever succeeds is her doing.
+- **Indeterminism as obstacle** (pp. 39–42): the mathematician solving a problem
+  despite neural noise, the assassin whose arm wavers, the husband breaking the
+  table, and a Morse message getting through static. In an SFA the noise
+  hindering each choice "is coming from her own will, since she also deeply
+  desires to do the opposite" (p. 40).
+- **Macro-control** (p. 43): we need not "micro-manage our individual neurons";
+  what responsibility needs is "macro-control of processes involving many
+  neurons".
+- **Diminished control, undiminished responsibility** (pp. 43–44): "diminished
+  control in such circumstances does not entail diminished responsibility when
+  agents succeed in doing what they are trying to do"; three assassins at 50,
+  80 and 100% chance are equally guilty.
+- **"Self-formation is not a gift, but a struggle"** (p. 44).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Free will requires ultimate responsibility, which requires undetermined self-forming actions | moderate | regress argument (p. 37) |
+| C2 | Frankfurt cases leave the alternative-possibilities condition on SFAs standing | moderate | case analysis of Pereboom's and McKenna's examples (pp. 38–39) |
+| C3 | Conflict stirs up chaos that makes neural processes sensitive to micro-indeterminacy | weak | stated as a hypothesis, no evidence given (p. 39) |
+| C4 | Indeterminism that hinders a goal-directed effort does not undermine responsibility for its success | moderate | the assassin, husband and Morse analogies (pp. 40–43) |
+| C5 | Indeterminism lessens control but not responsibility | moderate | the three-assassins case (pp. 43–44) |
+
+## Concepts
+
+- **UR** — as under Assumptions.
+- **Self-forming action (SFA), or will-setting act** — an undetermined act by
+  which an agent forms the will it later acts from (p. 37).
+- **Plural voluntary control** — not named here; the doubling of effort, "to
+  make both choices", plays its role (p. 41).
+- **Macro-control** — control of processes involving many neurons (p. 43).
+
+## Connections
+
+- **Fischer, Pereboom, Vargas and McKenna**, the symposium's other authors,
+  answered at pp. 35–39. The record holds Pereboom's four-case argument
+  ([THEORY-328](../theory.d/THEORY-328.md)) and McKenna and Coates on manipulation ([THEORY-040](../theory.d/THEORY-040.md)).
+- **Austin 1961 and Anscombe 1971**, the source of the obstacle examples (p. 40).
+- **The 1996 book** ([LIT-tmpnqv86](../literature.d/LIT-tmpnqv86.md), Unavailable), where the argument is developed.
+
+## Bearing on the record
+
+- **[CLAIM-tmpex9rg](../claims.d/CLAIM-tmpex9rg.md): the attribution confirmed, and the defeater located.** The
+  chaos is Kane's (p. 39). His reply is the one the claim's defeater names, the
+  indeterminacy as "a hindrance or obstacle to the attainment of the goal"
+  internal to the effort (p. 42). But the reply is about responsibility, not
+  control: Kane concedes that indeterminism lessens control (p. 43). So it does
+  not defeat the claim, which is about control; it moves the question to
+  whether responsibility can do without the control the claim says sensitivity
+  does not supply.
+- **[CLAIM-tmpptgk8](../claims.d/CLAIM-tmpptgk8.md): noise relabelled as the agent's own input.** In an SFA, Kane
+  says, the noise hindering each choice "is coming from her own will" (p. 40).
+  In the claim's terms that moves the noise channel into the agent's own
+  channel: two of the agent's efforts, each the other's disturbance. Then
+  whichever wins is the agent's, by construction, and the claim's question of
+  the agent's share against noise has no outside noise to measure against.
+  That is Kane's escape, and it holds only if the indeterminacy is all
+  endogenous to the conflict, which the paper assumes.
+- **[TERM-tmp8spbn](../terms.d/TERM-tmp8spbn.md): UR is formation provenance.** Kane's central question is
+  whether "the sources of our wills" can "be completely traced backwards to
+  something over which we had no control, such as Fate … or social conditioning
+  or hidden controllers" (p. 37). That is the formation sense, and type-2
+  freedom, acting "of our own free will" from a will one formed, is
+  provenance-dependent in exactly that sense. [CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md)'s result, that
+  formation provenance leaves no trace in a self-maintained capacity, is why
+  UR has to be a historical condition.
+- **[TERM-tmp8cp5q](../terms.d/TERM-tmp8cp5q.md): Kane's self-formation is not the record's.** Kane's SFAs are
+  undetermined choices that set the will; the record's self-formation is the
+  production of a maintained capacity, with nothing said of determinism. The
+  term already says so; the text confirms it.
+- **[QUESTION-071](../questions.d/QUESTION-071.md) and [THEORY-328](../theory.d/THEORY-328.md).** Kane's UR is a historical answer to
+  manipulation; Pereboom's four-case argument is the reply that such a history
+  need not separate a manipulated agent from an ordinarily determined one. The
+  paper does not answer it.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **The neural picture is a hypothesis.** No evidence is given for conflict
+  stirring up chaos, for its sensitivity to micro-indeterminacy, or for the two
+  crossing networks.
+- **The analogies carry the argument.** The assassin and the husband have one
+  aim and an external obstacle; the SFA has two aims, each the other's
+  obstacle, and the paper asserts rather than shows that the analogy carries.
+- **A summary.** The full argument is in the 1996 book and Four Views, not read.
+
+## Open questions
+
+- If the indeterminacy is partly exogenous, as neural noise generally is, how
+  much of an SFA's outcome is the agent's? The paper's construction assumes the
+  question away.

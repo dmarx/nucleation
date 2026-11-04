@@ -40,7 +40,6 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: THEORY-113 — Proposed; accounts named in Connections, nothing here rests on them -->
 
 # THEORY-107: Merging models fine-tuned from one pretrained start loses accuracy through interference in parameter coordinates: redundant small updates dilute the influential ones, and influential updates of different models conflict in sign
 

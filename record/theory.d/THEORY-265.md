@@ -51,7 +51,7 @@ summary: >-
 corroborates:
 - CLAIM-172
 ---
-<!-- inactive-ok-file: CLAIM-172 CLAIM-157 THEORY-232 THEORY-069 — Proposed; the entrainment mark, block answer and accounts this bears on, open -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-232 THEORY-069 — Proposed; the entrainment mark, block answer and accounts this bears on, open -->
 
 # THEORY-265: In Tissot et al.'s minimal model of bistable deciders in a modular coordination game (thirty modules of ten, couplings 1 within modules and 0.01 across), phase synchronisation within modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not
 

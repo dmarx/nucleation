@@ -161,7 +161,6 @@ and Ge et al. ([LIT-916](../literature.d/LIT-916.md)) are known only as summarie
 
 ## Note of 2026-11-01: Metzinger, meditation as cultivating M-autonomy
 
-<!-- inactive-ok: THEORY-1297 THEORY-1300 THEORY-1298 — Proposed; the readings this note reports, cited as open -->
 
 Metzinger ([LIT-1942](../literature.d/LIT-1942.md), p. 15; [LIT-1941](../literature.d/LIT-1941.md), p. 288) calls classical
 mindfulness meditation "a systematic and formal mental practice of

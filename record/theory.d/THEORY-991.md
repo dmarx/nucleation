@@ -32,7 +32,7 @@ summary: >-
   model is "composed of" these features, and nothing about how features
   compare with neurons as carriers of a known causal variable.
 ---
-<!-- inactive-ok-file: THEORY-1016 CLAIM-454 — Proposed; the wider account filed from the same reading and the claim this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-1016 — Proposed; the wider account filed from the same reading and the claim this bears on, cited as open -->
 # THEORY-991: In a one-layer transformer whose MLP has 512 ReLU neurons, a sparse autoencoder with 4,096 features trained on that layer's activations yields features that a blinded rater and an automated pipeline judged far more interpretable than the neurons, that for the four features examined in detail correspond to no neuron, and whose effects on the output, which the autoencoder never saw, agree with their activations; splicing in the reconstruction recovers 79% of the loss reduction the MLP provides, measured against zero-ablating it
 
 ## Source

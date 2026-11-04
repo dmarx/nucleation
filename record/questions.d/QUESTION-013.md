@@ -19,8 +19,7 @@ summary: >-
   losing ancestral pragmatic structure". The manuscript says only that
   the trajectories "need not coincide" (§8).
 ---
-<!-- inactive-ok-file: CLAIM-114 CLAIM-128 THEORY-155 — listed as material that may bear on this question, not as settled -->
-<!-- inactive-ok-file: CLAIM-081 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-114 CLAIM-128 — listed as material that may bear on this question, not as settled -->
 
 # QUESTION-013: Under iterated transport, when do observational, structural and decision distortion converge together, diverge, or evolve independently?
 

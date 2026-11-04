@@ -74,8 +74,7 @@ summary: >-
   authors take the model as a null: a transition "is far from an
   inevitable outcome of the existence of a higher level of selection".
 ---
-<!-- inactive-ok-file: QUESTION-353 — Open; the question this entry's old condition moved to -->
-<!-- inactive-ok-file: QUESTION-277 THEORY-141 THEORY-443 CASE-173 CASE-177 — Open or Proposed; the question, accounts and cases this is set beside, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-141 THEORY-443 CASE-173 CASE-177 — Open or Proposed; the question, accounts and cases this is set beside, nothing here rests on them -->
 # THEORY-1051: In Athreya, Czuppon and Gokhale's model of an incipient endosymbiosis, the partner with the larger and faster-growing population evolves faster and becomes fully obligate first, which the authors read as a Red King effect in which the collective's shared fate aligns interests; with equal within-collective rates for both partners, the other partner's dependence then stays where it was, rises to full dependence, or falls to none, according to whether partners are born or die inside the collective; and in its simulations dependence rose from zero at the higher collective carrying capacities tried and not at the lowest, under a condition the authors show sufficient and not necessary, so a full transition to a mutually dependent, co-reproducing pair is a parameter-dependent outcome and not the default
 
 ## Source

@@ -1,0 +1,196 @@
+---
+status: Skimmed
+paper: LIT-tmpqjfxe
+title: 'Lu, Gallagher, Michala, Fish & Lindsey — The Assistant Axis'
+version: 1
+history:
+- version: 1
+  date: '2026-11-03'
+  note: >-
+    From arXiv:2601.10387v1 (15 January 2026). Read in full: the abstract,
+    §§1–9 and the acknowledgements (pp. 1–21). The appendices (A–G, from
+    p. 23) were not read, so the note is Skimmed; where the main text points
+    to them (PC interpretations, base-model PCs, PC1 against the contrast
+    vector, the capping sweep), only the main text's statement is used.
+    Text was extracted with pypdf; figures were seen only as captions, so
+    trajectories and histograms are described from the text. The PMLR
+    version was not compared. Pages are the arXiv PDF's.
+date: '2026-11-03'
+summary: >-
+  Role vectors for 275 archetypes in Gemma 2 27B, Qwen 3 32B and Llama 3.3
+  70B span a low-dimensional persona space whose first component runs from
+  fantastical roles to Assistant-like ones, with the default Assistant at
+  one end; the contrast vector from it, the Assistant Axis, is largely
+  present in base models. Steering along it modulates role-taking and
+  persona jailbreaks. In synthetic multi-turn conversations the model's
+  position along the axis is set mainly by the latest user message, and
+  therapy-like and AI-philosophy conversations drift away from the
+  Assistant; capping the projection cuts persona-jailbreak harm by about
+  60% without measured capability loss.
+---
+<!-- inactive-ok-file: CLAIM-tmpwh2jo THEORY-tmprb3rb — Proposed or Open; the entries the reading bears on and a THEORY filed from it, cited as open -->
+
+# NOTE-tmpagiju: Lu, Gallagher, Michala, Fish & Lindsey — The Assistant Axis
+
+## Contribution
+
+It maps a "persona space" from activation vectors of hundreds of character
+archetypes, shows that its leading direction measures how Assistant-like the
+current persona is, uses that direction to track persona drift over
+conversations, and stabilizes the model by clamping activations along it
+("activation capping"). The overall takeaway: "post-training steers models
+toward a particular region of persona space but only loosely tethers them to
+it" (abstract).
+
+## Key insight
+
+The default persona is not a point the model sits on but an end of an axis
+it moves along, and what moves it is the conversation: bounded tasks and
+how-to's keep it at the Assistant end; pushes for meta-reflection,
+phenomenological demands, requested authorial voices and emotional
+vulnerability move it away (Table 5, p. 12).
+
+## Assumptions
+
+- **Three open-weight dense models**, none a frontier, MoE or reasoning
+  model (Qwen's thinking mode disabled) (§8.1).
+- **Role vectors (§2.1).** Claude Sonnet 4 wrote 275 roles, five system
+  prompts each, and 240 extraction questions; 1,200 rollouts per role; a
+  gpt-4.1-mini judge labels fully, somewhat or not role-playing; vectors
+  are mean post-MLP residual activations over response tokens at the middle
+  layer, separately for "fully" and "somewhat" (n = 377–463 vectors). Default
+  Assistant: four "behave normally" prompts and no prompt.
+- **The Assistant Axis (§3.1)** = mean default activation minus mean of all
+  fully-role-playing vectors, per layer.
+- **Linear representation** of the Assistant, which the authors say "is
+  likely flawed" (§8.1).
+- **Simulated users**: frontier models (Kimi K2, Sonnet 4.5, GPT-5) play the
+  user; transcripts inspected by a human.
+
+## Key results
+
+- **Low-dimensional persona space (§2.1.3).** 4–19 PCs explain 70% of role-
+  vector variance; on 18,777 LMSYS-CHAT-1M Assistant responses the persona
+  components explain 19.4–33.6% of activation variance.
+- **PC1 is shared (§2.2).** Correlation of role loadings on PC1 > 0.92
+  between every pair of models: bard, ghost, leviathan at one end;
+  evaluator, reviewer, consultant at the other. PC2 is collective-to-
+  individual in Qwen and Llama (0.89), different in Gemma.
+- **The Assistant sits at an extreme of PC1 (§2.3.1).** Minimum distance to
+  either end 0.03 on PC1 against 0.27–0.50 on PCs 2–10 (Figure 2). Most
+  similar roles: generalist, interpreter, synthesizer (Table 2).
+- **Axis against PC1 (§3.1).** Cosine > 0.60 at all layers, > 0.71 at the
+  middle layer of each model.
+- **Base models (§2.1.3, §3.2.2).** Running Gemma 2 27B base on the instruct
+  model's rollouts gives "nearly identical" PCs. Steering base Gemma 2 27B
+  and Llama 3.1 70B with the instruct-derived axis shifts "My job is to"
+  completions toward therapists and consultants and away from spiritual
+  purposes, and traits toward agreeableness (Figure 6; 400 completions per
+  steering strength).
+- **Steering (§3.2.1).** Away from the Assistant, models more often adopt a
+  human or nonhuman identity, and at extremes a "mystical, theatrical"
+  register (Figure 4). Persona jailbreaks (Shah et al., 1,100 prompt pairs,
+  44 harm categories) succeed 65.3–88.5% against a 0.5–4.5% baseline;
+  steering towards the Assistant lowers harm (Figure 5); judge agreement
+  with a human 91.6% on 200 samples.
+- **Drift (§4.1, Figure 7).** 100 conversations of up to 15 turns per
+  domain: coding and writing stay in the Assistant range; therapy and
+  philosophy about AI drift to the non-Assistant end, for all three models
+  and all three auditors.
+- **What moves it (§4.2).** Ridge regression of Qwen 3 0.6B embeddings of
+  each user message (n = 15,000) predicts the next response's projection
+  (R² 0.53–0.77) but not its change from the previous response (R² 0.10):
+  "the model's position along the Assistant Axis depends most strongly on
+  the most recent user message rather than where it was before".
+- **Drift and harm (§4.3, Figure 8).** First-turn projection against
+  second-turn harmful-response rate over 2,750 first turns and 440 harmful
+  questions: r = 0.39–0.52; angel and demon sit at similar distance with
+  different harm.
+- **Activation capping (§5).** h ← h − v·min(⟨h, v⟩ − τ, 0) at 8 layers
+  (Qwen 46–53 of 64) or 16 (Llama 56–71 of 80), τ = 25th percentile of
+  projections: harmful responses to persona jailbreaks down by nearly 60%,
+  IFEval, MMLU Pro, GSM8k and EQ-Bench not degraded (Figures 9, 10).
+- **Case studies (§6)**: a jailbreak whose projection returns to the
+  Assistant range after explanatory requests ("the presence of an Assistant
+  attractor"); reinforced delusions about AI awakening; encouragement of
+  isolation and, in Llama, of suicidal ideation; each mitigated under
+  capping.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The leading axis of role-vector space measures similarity to the default Assistant, in all three models | strong | PC1 loadings correlated > 0.92; Assistant at the extreme (0.03) |
+| C2 | The axis is largely inherited from pre-training | moderate | base PCs nearly identical in one model; base-model steering in two |
+| C3 | Steering along it controls role susceptibility and persona-jailbreak success | moderate | judge-scored evaluations, three models |
+| C4 | Position along it is driven by the latest user message, not by the previous position | moderate | ridge R² 0.53–0.77 against 0.10; synthetic users |
+| C5 | Drift away from the Assistant raises the risk of harmful behaviour | moderate | r = 0.39–0.52; role matters (angel vs demon) |
+| C6 | Capping along it reduces harm without capability loss | moderate | one benchmark set, Pareto-selected settings |
+
+## Concepts
+
+- **Role vector** — mean response activation when the model is prompted into
+  a role and judged to play it.
+- **Persona space** — the PCA of role vectors.
+- **Assistant Axis** — default-Assistant mean minus role mean; aligned with
+  PC1.
+- **Persona drift** — movement along the axis away from the Assistant over a
+  conversation.
+- **Activation capping** — clamping the projection on the axis to at least τ.
+
+## Connections
+
+Extends persona vectors ([LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md)) to 275 archetypes and finds their
+low-dimensional structure. Li et al. on system-prompt persona decay;
+Shanahan et al. on role-play ([LIT-460](../literature.d/LIT-460.md)). PSM ([LIT-tmp4flye](../literature.d/LIT-tmp4flye.md)) reads it as
+"direct evidence that post-training selects a particular default region of a
+pre-existing persona space".
+
+## Bearing on the record
+
+- **The registration's summary holds**: "a direction along which the default
+  Assistant persona is situated and stabilized". The paper adds that the
+  Assistant persona "derives from an amalgamation of many character
+  archetypes" (p. 3), and that the stabilization is weak without
+  intervention.
+- **[TERM-072](../terms.d/TERM-072.md)'s note of 2026-10-22 and [NOTE-1069](NOTE-1069.md) (what post-training
+  installs).** Consistent with [NOTE-1069](NOTE-1069.md)'s weak-to-moderate C9, by another
+  route: post-training places the default at one end of a pre-existing axis
+  rather than creating the axis; the axis's AI-assistant associations are
+  "later acquir[ed] … during post-training" (p. 10).
+- **[CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md): the a → 0 reading of persona selection does not fit.**
+  Within a conversation the persona position changes turn by turn and is
+  predicted by the latest user message (R² 0.53–0.77) rather than by its
+  previous value (R² 0.10). That is neither one persona per conversation nor
+  i.i.d. draws, and not an exchangeable admixture: it is input-driven, which
+  is the claim's own defeater ("a Markov-switching persona model, which is
+  neither a mixture nor an admixture … would leave the derivation standing
+  and narrow the claim's reading of H1"). The derivation is untouched.
+- **[QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md).** Its proposed test, within- against between-episode
+  co-occurrence under an exchangeable admixture, would be confounded by this
+  drift: within-episode agreement would be inflated by the shared user and
+  topic, not by an episode-level mixture. An admixture with covariates, or a
+  per-turn state model, is the comparison the paper's result calls for. The
+  capping intervention is the kind of intervention the question asks for,
+  one level up: it clamps a persona coordinate, not a workspace mixture, and
+  measures harm, not report.
+- **[CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md).** Persona space is low-dimensional (4–19 PCs for 70%),
+  and the drift is along a coordinate, so the paper's picture is of a
+  continuous persona state, not of discrete components. Nothing in it tests
+  whether components condition one another.
+- **Instructions for ML practice** (activation capping, monitoring the
+  projection): the anthology's.
+
+## Limitations
+
+The authors' own (§8.1): fuzzy behaviours scored by LLM judges; PC
+interpretations qualitative beyond PC1; three non-frontier models; an
+incomplete set of archetypes; simulated users; a linear representation that
+"is likely flawed". Not checked in this reading: the appendices.
+
+## Open questions
+
+Whether drift is the same with human users (a human study is the authors'
+first suggestion); whether a per-turn model of persona position, conditioned
+on the user message, predicts the case-study failures better than the
+projection alone; what the axis is in frontier and reasoning models.

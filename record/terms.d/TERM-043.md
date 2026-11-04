@@ -49,7 +49,7 @@ refined_by:
 - TERM-010
 ---
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-228 CLAIM-257 CLAIM-259 — Proposed; the restatements of the components, cited as open -->
+<!-- inactive-ok-file: CLAIM-228 — Proposed; the restatements of the components, cited as open -->
 
 # TERM-043: fidelity, as a profile of directed distortions compared component by component
 

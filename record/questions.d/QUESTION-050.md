@@ -20,7 +20,7 @@ summary: >-
 bearing:
 - THEORY-089
 ---
-<!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-223 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-204 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-050: Does a communicative act's identity split into a factor internal to the interpreter and a relational factor fixed by world and community, and which of the two must a translation preserve?
 

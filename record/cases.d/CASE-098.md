@@ -35,8 +35,8 @@ supports:
 - CLAIM-331
 ---
 
-<!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 LIT-1147 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-1113 LIT-1125 LIT-1131 LIT-1734 LIT-1755 LIT-1682 QUESTION-298 — Proposed, Unavailable or Unfetched; the account and works named in the note of 2026-10-29, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-157 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-1113 LIT-1125 LIT-1131 LIT-1682 — Proposed, Unavailable or Unfetched; the account and works named in the note of 2026-10-29, cited as open, nothing here rests on them -->
 # CASE-098: A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters
 
 ## The case

@@ -25,10 +25,9 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
-<!-- inactive-ok-file: CLAIM-481 CLAIM-480 LIT-1668 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
-<!-- inactive-ok-file: LIT-1642 LIT-1664 LIT-1654 LIT-1670 — Deferred; registered from the same exchange, unread -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-478 QUESTION-284 QUESTION-035 — Proposed or Open; neighbours cited as open -->
+<!-- inactive-ok-file: LIT-1642 LIT-1664 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-478 — Proposed or Open; neighbours cited as open -->
 
 # QUESTION-281: By which dynamical transitions do the distinctions individuation needs come into being and pass away (instability that amplifies small differences, nucleation across a finite barrier from a locally stable state, bifurcation of the set of attractors, noise- or rate-induced tipping), and are a form's creation, its stabilization and its coming to have a constitutive role three separate achievements?
 

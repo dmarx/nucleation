@@ -29,6 +29,8 @@ summary: >-
   requires does not exist ([THEORY-704](../theory.d/THEORY-704.md)). Measuring every boid does not
   help, by [CLAIM-333](CLAIM-333.md).
 ---
+<!-- inactive-ok-file: THEORY-tmp6xjgq — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
+<!-- inactive-ok-file: LIT-tmpo8e51 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-334: Granger causation from a macro variable to the micro variables it supervenes on, Seth's downward Granger causation, is not evidence of a macro-to-micro intervention effect, even with every micro variable measured: supervenience leaves no intervention on the macro variable that holds its micro base fixed at the same time
 
@@ -79,3 +81,25 @@ compared.
 ## Note of 2026-10-27: the edge says what the claim uses
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) replaced `grounds: THEORY-703` with Seth's paper itself, [LIT-1170](../literature.d/LIT-1170.md) (read in full in [NOTE-935](../notes.d/NOTE-935.md)). The claim quotes Seth's definitions and label. [THEORY-703](../theory.d/THEORY-703.md)'s contested part, that G-emergence tracks weak emergence, is not used.
+
+## Note of 2026-11-02: contextual emergence denies the premise
+
+In the exchange "Assess SDT Coverage" (2026-11-02), A5 proposed testing Jennings's attention as free will by perturbing
+slow oscillations "while holding relevant local inputs … constant". Under
+supervenience that is an intervention on the micro base, which is this
+claim's point. Jennings's abstract distinguishes contextual emergence
+(Bishop and Atmanspacher, [LIT-tmpo8e51](../literature.d/LIT-tmpo8e51.md)) from supervenience. So if her paper
+succeeds, it falls outside this claim's scope rather than refuting it. That
+is the precise point of contact, and A5 missed it. Bishop and Atmanspacher's
+contextual emergence claims stability conditions for a well-defined
+higher-level description, not new causal powers. Whether Jennings departs
+from that is a question for a reading of the paper.
+
+The claim is unchanged.
+
+Read on 2026-11-03 ([LIT-tmpasemk](../literature.d/LIT-tmpasemk.md), [NOTE-tmpby7i2](../notes.d/NOTE-tmpby7i2.md)). The paper denies
+supervenience and says it needs neither downward nor circular causation
+(fn. 14). Its reason that the boundary resists redescription is that the
+boundary's properties "are macro-level ones" (p. 20), and it offers no
+intervention on the macro level that holds the base fixed. So the note
+stands: the premise is denied, not refuted ([THEORY-tmp6xjgq](../theory.d/THEORY-tmp6xjgq.md)).

@@ -30,7 +30,7 @@ reported_in:
 - LIT-1373
 ---
 <!-- inactive-ok-file: LIT-1373 — Deferred; works registered unread, or entries set aside, cited as such -->
-<!-- inactive-ok-file: CLAIM-416 CLAIM-417 CLAIM-421 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-139: Chinese martial traditions through the Cultural Revolution: practices restricted, teachers persecuted and teaching driven underground, then after 1978 a reconstruction of Shaolin martial arts through heritage policy and tourism in which local practitioners and authorized institutions dispute who carries the tradition
 

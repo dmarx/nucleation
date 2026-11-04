@@ -67,7 +67,7 @@ extends:
 bears_on:
 - QUESTION-040
 ---
-<!-- inactive-ok-file: THEORY-087 THEORY-084 — Proposed; THEORY-087 is extended in its regular half, which is derived, and THEORY-084 is named in Connections -->
+<!-- inactive-ok-file: THEORY-084 — Proposed; THEORY-087 is extended in its regular half, which is derived, and THEORY-084 is named in Connections -->
 
 # THEORY-080: In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
 

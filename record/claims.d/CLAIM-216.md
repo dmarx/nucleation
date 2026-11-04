@@ -40,8 +40,8 @@ summary: >-
   statement is useless.
 ---
 <!-- inactive-ok-file: CLAIM-204 CLAIM-139 — Proposed; the theses this objection is to, open -->
-<!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-257 CLAIM-201 CLAIM-228 CLAIM-217 — Proposed; the record's replies of 2026-10-10, open, cited as the separate theses and premises in question -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-077 CLAIM-082 CLAIM-115 — Proposed; open, cited as the premises the conjoined theses rest on or drop, not as settled -->
+<!-- inactive-ok-file: CLAIM-220 CLAIM-202 CLAIM-201 CLAIM-228 CLAIM-217 — Proposed; the record's replies of 2026-10-10, open, cited as the separate theses and premises in question -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-082 CLAIM-115 — Proposed; open, cited as the premises the conjoined theses rest on or drop, not as settled -->
 <!-- inactive-ok-file: CLAIM-215 CLAIM-209 — Proposed; the separate theses filed with this entry on 2026-10-10, open -->
 
 # CLAIM-216: A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another

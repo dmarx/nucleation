@@ -82,6 +82,7 @@ supports:
 - CLAIM-347
 - CLAIM-357
 ---
+<!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 
 # CLAIM-368: The primitive for an organization's regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either
 
@@ -211,3 +212,15 @@ Watson ([THEORY-232](../theory.d/THEORY-232.md)), self-determination theory ([TH
 it this way", as parallels; their contested theses do no work here, so they
 corroborate it and are not its grounds ([ADR-058](../decisions.d/ADR-058.md)). [CLAIM-347](CLAIM-347.md) and [CLAIM-357](CLAIM-357.md),
 cited in the body, rest on this claim; they are not its premises.
+
+## Note of 2026-11-03: the measure it cites in parallel
+
+Its sentence that self-determination theory ([THEORY-052](../theory.d/THEORY-052.md)) keeps need
+frustration apart from low satisfaction is true of the theory and not
+established of its main measure, whose split is organized by item keying
+(Murphy et al., [NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md); Chen et al., [NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md)). The claim does not
+rest on it. Levine et al. ([NOTE-tmpe4mmg](../notes.d/NOTE-tmpe4mmg.md)) separate frustration from negative
+affect in individuals, a parallel to "frustration, not distress", not evidence
+about organizations.
+
+The claim is unchanged.

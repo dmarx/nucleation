@@ -54,7 +54,6 @@ corroborates:
 - CLAIM-296
 ---
 <!-- inactive-ok-file: LIT-1060 — Unavailable; held without a reading, cited as such -->
-<!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # THEORY-351: In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload phase from a card selected by the displayed gross weight, turns recall and scale reading at the moment of use into a judgement of spatial proximity, so the cockpit system remembers the speeds without either pilot's memory being improved; this is argued by task analysis of mandated procedure, not measured
 

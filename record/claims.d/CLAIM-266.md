@@ -54,7 +54,6 @@ supports:
 - CLAIM-149
 - CLAIM-190
 ---
-<!-- inactive-ok-file: CLAIM-149 — Proposed; the application to translation, open -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 
 # CLAIM-266: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it

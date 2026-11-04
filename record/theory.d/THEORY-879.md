@@ -39,7 +39,7 @@ summary: >-
   experienced, not emotion or affect, and it does not say what awareness
   is.
 ---
-<!-- inactive-ok-file: CLAIM-412 CLAIM-411 — Proposed; the batch's claim and counter-claim this bears on, not leaned on -->
+<!-- inactive-ok-file: CLAIM-412 — Proposed; the batch's claim and counter-claim this bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-103 THEORY-633 — Proposed; accounts this sits beside, named -->
 
 # THEORY-879: Representing a sensory quality, even in the distinctively sensory way, does not make there be something it is like for the subject to have it: a quality can occur unnoticed, as for an absent-minded driver, so what it is like to experience a quality is a further property that needs awareness, and a representational theory of sensory qualities leaves open what makes a state experienced

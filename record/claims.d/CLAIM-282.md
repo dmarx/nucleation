@@ -56,7 +56,7 @@ illustrated_by:
 objected_by:
 - CLAIM-502
 ---
-<!-- inactive-ok-file: CLAIM-277 CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-282: Forbidding self-endorsement does not stop an operator from amplifying its own authority: under damped recursive delegation, reciprocal and cyclic endorsements recycle authority, so an operator's authority depends on its own endorsements, while one-hop allocation within an epoch, from budgets and baselines fixed independently of outgoing endorsements, makes it exactly independent of them
 

@@ -1,0 +1,72 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-03 ([NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md)), from the publisher's open-access
+  PDF; worth reading as a short statement of the view that
+  preferences form during hard choices, through fixation, rather than
+  only after them through dissonance reduction. It is an Opinion article
+  with a tentative model resting mainly on the author's 2019 study, and
+  its attentional step is bottom-up capture by salience.
+title: 'Where do our preferences come from? How hard decisions shape our preferences'
+version: 2
+history:
+- version: 1
+  date: '2026-11-03'
+  note: >-
+    Filed, not read, at the owner's request ("register the Voigt and
+    Bishop et al. sources too"), from the reference list of LIT-tmpasemk.
+    Citation checked against Crossref on 2026-11-03 (no email address
+    sent, ADR-008): dated 2022-10-20. The summary says why it is here, not
+    what it shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Read in full from the open-access Frontiers PDF (NOTE-tmpic1x7).
+    Status set from the reading: Active. The summary is replaced by one
+    from the text. The registration called it a 'Frontiers review'; it
+    is an Opinion article. Its account of the mechanism mostly held,
+    with two corrections: the attention that breaks the tie is allocated
+    by precuneus 'to the salient stimulus (i.e., bottom up)' and only
+    held by dlPFC, and the value update is supported by correlation, not
+    shown. THEORY-tmpicoxo is filed from it, Proposed.
+tags:
+- neuroscience
+- motivation
+date: '2026-11-03'
+published: '2022-10-20'
+doi: '10.3389/fnbeh.2022.956307'
+first_author: 'Voigt'
+keywords:
+- 'preference formation'
+- 'hard decisions'
+- 'choice-induced preference change'
+- 'dlPFC'
+implementations: []
+summary: >-
+  Voigt (2022), Front. Behav. Neurosci. 16: 956307, an Opinion article.
+  When two items are liked equally, the value differential computed in
+  vmPFC is too small to choose and dACC registers conflict. A tentative
+  model holds that the tie is broken during the choice by fixation:
+  precuneus allocates spatial attention bottom-up to the salient item,
+  dlPFC holds it in working memory, and the fixated item gains value, so
+  the choice becomes easy. The change lasts only for remembered choices,
+  with hippocampus. The support is mainly the author's 2019 study, in
+  which fixation duration and dlPFC and precuneus activity predicted
+  later preference change; it is correlational.
+---
+<!-- inactive-ok-file: THEORY-tmpicoxo — Proposed; filed from this reading -->
+<!-- inactive-ok-file: THEORY-tmptunid THEORY-tmp6xjgq LIT-tmpo8e51 — Proposed or Deferred; the readings that rest on this work, and its companion, cited as open -->
+
+# LIT-tmphwtm4: Where do our preferences come from? How hard decisions shape our preferences
+
+Voigt, K. (2022). Where do our preferences come from? How hard decisions shape our preferences. *Frontiers in Behavioral Neuroscience*, 16, 956307.
+
+## Key takeaways
+
+- Choice-induced preference change is proposed to arise during hard choices, through fixation, not only after them ([NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md)).
+- The tie-breaking attention is bottom-up: precuneus to the salient item, dlPFC holding it ([THEORY-tmpicoxo](../theory.d/THEORY-tmpicoxo.md), Proposed).
+- Evidence correlational; an Opinion article, not a review.
+
+## Standing in the record
+
+The model Jennings ([LIT-tmpasemk](LIT-tmpasemk.md), p. 25) takes her stalemate mechanism from: with equally valued options, dorsolateral prefrontal cortex and precuneus raise attention on one, allowing a decision and an update of its value, so that hard choices shape later preferences. [THEORY-tmptunid](../theory.d/THEORY-tmptunid.md) rests on it at second hand. A Frontiers Opinion article, open access; read in [NOTE-tmpic1x7](../notes.d/NOTE-tmpic1x7.md), which finds the tie-breaking attention bottom-up and the value update correlational.

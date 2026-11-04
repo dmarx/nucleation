@@ -33,7 +33,6 @@ summary: >-
   marking, or the reading that a good fit establishes that the matched
   words mean the same.
 ---
-<!-- inactive-ok-file: CLAIM-135 — Proposed; the distinction this account is kept inside, cited as open -->
 
 # THEORY-1145: Unsupervised alignment of two monolingual word-embedding spaces recovers translations only where the spaces are close to isometric, and the distance from isometry depends on the corpora and the embedding algorithm as well as on the languages: adversarial alignment fails for English with Estonian or Finnish, across corpus domains, and between skip-gram and CBOW spaces of the same language pair, GW alignment is weakest on the same Finnish pair, and a spectral dissimilarity of small nearest-neighbour graphs tracks success
 

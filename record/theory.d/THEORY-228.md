@@ -37,7 +37,7 @@ summary: >-
 answers:
 - QUESTION-245
 ---
-<!-- inactive-ok-file: THEORY-005 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
+<!-- inactive-ok-file: THEORY-005 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
 # THEORY-228: On a finite augmentation space, at the population optimum of the spectral contrastive loss with k ≥ 2r, linear-probe error is bounded, up to constant and logarithmic factors, by the error of recovering the label from an augmentation divided by the squared sparsest-partition conductance of the augmentation graph
 

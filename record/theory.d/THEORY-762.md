@@ -40,7 +40,7 @@ summary: >-
 bears_on:
 - QUESTION-222
 ---
-<!-- inactive-ok-file: THEORY-744 THEORY-257 CLAIM-157 CLAIM-331 — Proposed; the α-family limit this reading's bridge rests on, and open criteria set beside this result, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-257 CLAIM-157 — Proposed; the α-family limit this reading's bridge rests on, and open criteria set beside this result, nothing here rests on their being settled -->
 # THEORY-762: For a reversible diffusion dX = −∇U dt + √2 dW in equilibrium, an eigenfunction ψ of its generator with eigenvalue −λ is closed in conditional mean with no memory: E[ψ(X_{t+s}) | the whole past] = e^{−λs}ψ(X_t), and so the same given ψ's own past; but ψ(X_t) is a Markov process in its own right only when |∇ψ|² is a function of ψ, since otherwise its own path reveals a noise intensity that its present value does not fix
 
 ## Source

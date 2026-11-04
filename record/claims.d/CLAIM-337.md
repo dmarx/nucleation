@@ -43,6 +43,7 @@ summary: >-
   action on the world concedes that action on the world is not part of
   the loop.
 ---
+<!-- inactive-ok-file: CLAIM-162 CLAIM-358 CLAIM-tmpp8p4i — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-337: Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward
 
@@ -132,3 +133,10 @@ explanation "feels very 'wu-wei'", is not filed. The record's nearest
 entries are [CLAIM-358](CLAIM-358.md) (local accommodation lowers the amortized cost of
 arbitration), [CLAIM-162](CLAIM-162.md) (flow reported as effortless) and [LIT-910](../literature.d/LIT-910.md)
 (*Effortless Attention*, Unavailable).
+
+## Note of 2026-11-02: wu-wei, coded
+
+The owner's "very wu-wei" came back in the exchange "Assess SDT Coverage" (2026-11-02), this time of Ott–Grebogi–Yorke
+control of chaos (U17). This note's predecessor recorded it as appearing once
+and not filed. On its second appearance it is filed as [CLAIM-tmpp8p4i](CLAIM-tmpp8p4i.md),
+Proposed, beside [CLAIM-162](CLAIM-162.md) and [CLAIM-358](CLAIM-358.md).

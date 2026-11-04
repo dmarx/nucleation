@@ -51,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-763 — Proposed; the account this reading files, cited as its outcome -->
 <!-- inactive-ok-file: THEORY-776 — Proposed; the admissible version, cited as the later reading -->
-<!-- inactive-ok-file: CLAIM-157 THEORY-257 CLAIM-331 CLAIM-327 — Proposed; entries named as not bearing, open -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-257 CLAIM-327 — Proposed; entries named as not bearing, open -->
 # NOTE-974: Isett — A proof of Onsager's conjecture
 
 ## Contribution

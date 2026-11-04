@@ -59,6 +59,7 @@ supports:
 bears_on:
 - QUESTION-071
 ---
+<!-- inactive-ok-file: THEORY-054 LIT-tmpfyba0 — new, Proposed or Deferred; cited as open -->
 <!-- inactive-ok-file: THEORY-054 THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
 
 # THEORY-047: A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired shapes how autonomous acting on it is
@@ -134,3 +135,29 @@ Eghrari, Patrick and Leone 1994) is held only as two reviews report it and
 is not filed, and the decisive test is not in the record: two groups ending
 with the same present endorsement, acquired under autonomy support or under
 control, compared on maintenance and well-being.
+
+## Note of 2026-11-03: where the history would have to show
+
+[CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md) is a construction in which a capacity installed from outside
+and then self-maintained is, in itself, identical to one the agent formed: no
+knockout after formation tells them apart. If this theory is right, the
+history of acquisition shapes autonomy anyway, so the difference has to lie
+in something the construction leaves out, such as how the capacity is
+integrated with the agent's other values and demands ([THEORY-054](THEORY-054.md)). That
+sharpens what a test of the theory should measure. Not the regulation itself,
+but its relations to the rest. Deci et al. 1994 ([LIT-tmpfyba0](../literature.d/LIT-tmpfyba0.md)), the primary
+study this theory holds second-hand, is registered.
+
+The status is unchanged.
+
+## Note of 2026-11-03 (later): the readings
+
+Deci et al. 1994 is Unavailable, so the experiment is still held second-hand.
+Ryan et al. 2022 ([NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md)) report Steingut et al. 2017, 23 rationale
+experiments with perceived autonomy at r = .20: the nearest meta-analytic
+evidence, but it measures present endorsement, not the history against the
+structure that [CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md)'s note asks a test to separate. Chirkov et al. 2003
+([NOTE-tmpgd5c5](../notes.d/NOTE-tmpgd5c5.md)) hold internalization predicting well-being across four
+cultures, correlationally.
+
+The status is unchanged.

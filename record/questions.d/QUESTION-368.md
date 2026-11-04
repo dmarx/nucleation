@@ -25,7 +25,7 @@ summary: >-
   argued position on that ground, or a showing that the case is
   incoherent.
 ---
-<!-- inactive-ok-file: LIT-1947 QUESTION-048 THEORY-1299 — Unfetched, Open or Proposed; cited as open -->
+<!-- inactive-ok-file: LIT-1947 THEORY-1299 — Unfetched, Open or Proposed; cited as open -->
 <!-- inactive-ok-file: TERM-083 TERM-082 THEORY-554 THEORY-699 THEORY-449 — Proposed; the term and readings this question draws on, cited as open -->
 
 # QUESTION-368: Would a system that had phenomenal experience but no phenomenal self-model and no valence, as minimal phenomenal experience is described, have moral standing, and on what ground, given that the argument for a moratorium on synthetic phenomenology locates the risk in a self that can suffer?

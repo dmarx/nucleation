@@ -36,7 +36,6 @@ summary: >-
   it into a moral statement. The manuscript keeps one sentence (§11) on
   adapted receivers.
 ---
-<!-- inactive-ok-file: CLAIM-059 CLAIM-074 CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-049: An adaptive interpreter's state includes its message, context knowledge and learned parameters, and learning can make some relational invariants more stable and others less
 

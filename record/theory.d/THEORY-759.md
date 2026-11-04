@@ -31,7 +31,7 @@ summary: >-
 bears_on:
 - QUESTION-217
 ---
-<!-- inactive-ok-file: THEORY-186 THEORY-481 — Proposed; accounts this is contrasted with, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-186 — Proposed; accounts this is contrasted with, nothing here rests on their being settled -->
 
 # THEORY-759: A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order of frequency, and keeps that order when the amplitudes rise tenfold with frequency, so in this setting the order of acquisition is set by the learner and not by the strength of the target's components
 

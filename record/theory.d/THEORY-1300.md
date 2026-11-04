@@ -42,7 +42,7 @@ summary: >-
   accompanies control, which withholds the principle's causal reading.
   "Deliberately" also does work: inhibition can be wholly subpersonal.
 ---
-<!-- inactive-ok-file: QUESTION-367 ARG-051 CLAIM-355 THEORY-064 — Proposed or Open; the question, inference and neighbours this reading bears on, cited as open -->
+<!-- inactive-ok-file: ARG-051 CLAIM-355 THEORY-064 — Proposed or Open; the question, inference and neighbours this reading bears on, cited as open -->
 
 # THEORY-1300: In mind-wandering the capacity for veto over one's own mental processes is kept and its representation in the self-model is lost, and on Metzinger's principle a capacity can be deliberately exercised only while it is so represented; the loss of M-autonomy is then the loss of a condition of the capacity's efficacy, not of the capacity
 

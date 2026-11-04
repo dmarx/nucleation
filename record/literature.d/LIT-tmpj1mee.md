@@ -1,0 +1,74 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-03 ([NOTE-tmpp47uv](../notes.d/NOTE-tmpp47uv.md)), from the scan on the SDT
+  site. Worth reading as a primary source of goal contents theory: with
+  overall striving held fixed, extrinsic aspirations go with lower and
+  intrinsic with higher self-reported well-being, in an adult and a
+  student sample. It does not test the "beyond the reasons" half of
+  [NOTE-439](../notes.d/NOTE-439.md)'s C4, which it names as an open question.
+title: 'Further Examining the American Dream: Differential Correlates of Intrinsic and Extrinsic Goals'
+version: 2
+history:
+- version: 1
+  date: '2026-11-02'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-11-02 (no
+    email address sent, ADR-008): dated 1996-03 with no day, so the first
+    of the month per ADR-002. The summary says why it is here, not what it
+    shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Read in full from the scan the Center for Self-Determination
+    Theory hosts for its authors,
+    https://selfdeterminationtheory.org/SDT/documents/1996_KasserRyan_PSPB.pdf
+    (8 pages), as page images. The first NOTE on the work
+    (NOTE-tmpp47uv). Status set from the reading: Active. The summary
+    is replaced by one from the text. The registration filed it for
+    NOTE-439's C4, "beyond the reasons for pursuing them"; the paper
+    measures no reasons and calls that test "interesting" (p. 286), so
+    it bears on the first half of C4 only. One THEORY is filed
+    (THEORY-tmp49j7m).
+tags:
+- motivation
+- well-being
+date: '2026-11-02'
+published: '1996-03-01'
+doi: '10.1177/0146167296223006'
+first_author: 'Kasser'
+keywords:
+- 'intrinsic and extrinsic aspirations'
+- 'goal contents theory'
+implementations: []
+summary: >-
+  Kasser and Ryan (1996), PSPB 22. Two cross-sectional self-report
+  studies, 100 community adults and 192 students. Seven aspirations form
+  two factors, extrinsic (financial success, social recognition,
+  appealing appearance) and intrinsic (self-acceptance, affiliation,
+  community feeling, physical fitness). With overall importance
+  controlled, extrinsic importance goes with less self-actualization (β
+  = −.52, −.67) and vitality (−.60, −.34) and more physical symptoms
+  (.46, .43), and intrinsic importance with the reverse; likelihood
+  ratings parallel this, and the pattern survived social desirability
+  with two effects becoming marginal. Reasons for pursuing the goals are
+  not measured.
+---
+
+# LIT-tmpj1mee: Further Examining the American Dream: Differential Correlates of Intrinsic and Extrinsic Goals
+
+Kasser, T., Ryan, R. M. (1996). Further Examining the American Dream: Differential Correlates of Intrinsic and Extrinsic Goals. *Personality and Social Psychology Bulletin, 22(3), 280-287*. doi:10.1177/0146167296223006.
+
+## Key takeaways
+
+Read in full on 2026-11-03 ([NOTE-tmpp47uv](../notes.d/NOTE-tmpp47uv.md)).
+
+- Intrinsic and extrinsic aspirations are separate factors.
+- The balance between them, not overall striving, tracks well-being.
+- The intrinsic and extrinsic results are close to one contrast.
+- Correlational and self-report; reasons are not measured.
+- [THEORY-tmp49j7m](../theory.d/THEORY-tmp49j7m.md).
+
+## Standing in the record
+
+Goal Contents Theory. [NOTE-439](../notes.d/NOTE-439.md)'s C4 (extrinsic aspirations predict lower well-being beyond the reasons for them) is held as SDT's report, graded moderate, without the primary studies.

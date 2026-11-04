@@ -59,7 +59,7 @@ summary: >-
   ([CLAIM-401](../claims.d/CLAIM-401.md)); that part is QUESTION-324, Answered. The same form as [QUESTION-093](QUESTION-093.md) and [QUESTION-115](QUESTION-115.md), on a new
   list.
 ---
-<!-- inactive-ok-file: CLAIM-353 CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
+<!-- inactive-ok-file: CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
 <!-- inactive-ok-file: LIT-1837 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
 
 # QUESTION-252: For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, and which such configurations are impossible in which model classes?

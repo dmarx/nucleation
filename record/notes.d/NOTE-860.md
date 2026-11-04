@@ -28,7 +28,7 @@ summary: >-
   concepts of the time allow it.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis -->
-<!-- inactive-ok-file: THEORY-317 THEORY-327 — Proposed; the account from the précis and the account filed from this batch -->
+<!-- inactive-ok-file: THEORY-317 — Proposed; the account from the précis and the account filed from this batch -->
 
 # NOTE-860: Fricker — Epistemic Injustice and a Role for Virtue in the Politics of Knowing
 

@@ -19,7 +19,6 @@ summary: >-
   ([CLAIM-470](../claims.d/CLAIM-470.md)). It does not say that a property cannot be revised by
   anyone, only that no step of this procedure does it.
 ---
-<!-- inactive-ok-file: CLAIM-470 CLAIM-419 — Proposed; the claims it bears on, cited as open -->
 
 # THEORY-1094: In counterexample-guided abstraction refinement the property and the concrete system are fixed inputs: the property's atomic formulas help build the first abstraction and no abstraction may merge states that disagree on them, every refinement only splits classes toward the concrete state space, and a real counterexample ends the procedure; so the loop revises which of the concrete system's distinctions the model draws, never the property or the space of possible answers
 

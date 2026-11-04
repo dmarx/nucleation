@@ -17,7 +17,7 @@ summary: >-
   Blackwell's ceiling from a receiver's usable information. This asks how a budget,
   rather than a fixed rule class, moves that line.
 ---
-<!-- inactive-ok-file: CLAIM-117 CLAIM-199 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-117 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-111: Which communicative distinctions remain recoverable by a bounded interpreter after a rendering, and how does the cost of recovering them change under framing?
 

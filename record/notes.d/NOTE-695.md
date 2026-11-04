@@ -41,7 +41,7 @@ summary: >-
   concrete construction of structural identity it cites works only for
   space-times without symmetries.
 ---
-<!-- inactive-ok-file: CLAIM-134 CLAIM-136 CLAIM-137 CLAIM-138 THEORY-034 THEORY-038 — Proposed; cited as the open accounts and claims this reading bears on, not as settled -->
+<!-- inactive-ok-file: CLAIM-134 CLAIM-136 CLAIM-137 CLAIM-138 THEORY-038 — Proposed; cited as the open accounts and claims this reading bears on, not as settled -->
 
 # NOTE-695: Esfeld & Lam — Moderate structural realism about space-time
 

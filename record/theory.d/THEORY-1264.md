@@ -22,7 +22,6 @@ summary: >-
   dissipative state lives longer, and in the one worked
   far-from-equilibrium chemical example the bracket is very loose.
 ---
-<!-- inactive-ok-file: THEORY-671 — Proposed; named as an account this bears on -->
 
 # THEORY-1264: Far from equilibrium, the weak-noise escape rate from an attractor goes as the exponential of minus system size times a barrier in the quasi-potential, not in any free energy, and that barrier is bracketed by thermodynamics: it is at most the entropy produced in relaxing from the saddle into the attractor and at least minus the entropy produced along the most likely escape path; the two bounds coincide at detailed balance and separate by twice the dissipation of the probability circulation, so far from equilibrium they can be very loose
 

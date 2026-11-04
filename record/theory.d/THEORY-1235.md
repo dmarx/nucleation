@@ -35,7 +35,6 @@ summary: >-
   Active, holds what the hypothesis says; whether it is true is this
   entry's question, with [THEORY-1048](THEORY-1048.md)'s old condition word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1235: Losing a costly function whose product leaks to neighbours is favoured by ordinary individual selection in large free-living microbial populations, and the loss proceeds until the remaining producers just supply the community, so that most cells come to depend on a rare few with no relatedness, cooperation or collective required
 

@@ -1,0 +1,199 @@
+---
+status: Read
+paper: LIT-tmpazv5c
+title: 'Campbell et al. — Need frustration as a transdiagnostic process'
+version: 1
+history:
+- version: 1
+  date: '2026-11-03'
+  note: >-
+    Read in full from the publisher's early-view PDF (pp. 1–16, "J. Clin.
+    Psychol. 2018;1–16") posted by the authors' group on
+    selfdeterminationtheory.org; the UGent repository's copy is
+    restricted to UGent, and Wiley's was not tried. Text extracted with
+    pypdf. I read the abstract, introduction, Study 1 and Study 2 in full,
+    Tables 1 and 2, the captions of Figures 1–3 (the path diagrams
+    themselves did not extract, so coefficients drawn only in the figures
+    were not seen), the discussion, limitations, clinical implications and
+    the note on parcelling. Not read: the Supporting Information (alphas,
+    means, standard deviations and zero-order correlations of both
+    studies). Pages are the early view's; the issue pagination is 74(10),
+    1775–1790.
+date: '2026-11-03'
+summary: >-
+  In Belgian adolescents, a cross-sectional study (N = 284; the abstract
+  says 248) and a two-wave study six months apart (N = 608) model need
+  frustration, measured by the twelve BPNSFS frustration items, as the
+  mediator between self-critical perfectionism and depressive and eating
+  disorder symptoms. Cross-sectionally the depression–eating correlation
+  falls from .50 to .42 with perfectionism and to a non-significant .18
+  with frustration added. In latent change models, correlated change of
+  the two symptoms falls from .43 to .39 and then .24. This is the study
+  [LIT-561](../literature.d/LIT-561.md) cites as showing need frustration "predicted" the symptoms and
+  "largely accounted for their co-occurrence and co-evolution across
+  time"; it is mediation of correlated change between two waves, not
+  temporal precedence.
+---
+<!-- inactive-ok-file: THEORY-052 THEORY-tmp62iwr — Proposed or registered unread; the entries this reading bears on, cited as open -->
+
+# NOTE-tmpxovm7: Campbell et al. — Need frustration as a transdiagnostic process
+
+## Contribution
+
+It is the first formal test, in the authors' words, of self-critical
+perfectionism as a transdiagnostic risk factor for depressive and eating
+disorder symptoms, and it adds need frustration as the process in between.
+It applies Nolen-Hoeksema and Watkins's (2011) conditions: a transdiagnostic
+factor predicts both symptom kinds and reduces their association when
+modelled as their common predictor. The test is run between persons (Study
+1) and on within-person change (Study 2).
+
+## Key insight
+
+The transdiagnostic question is posed as a comorbidity question: does the
+candidate process absorb the association between two kinds of symptom? Need
+frustration does, much more than perfectionism does. Perfectionism "could
+only explain a small part of their co-occurrence" (p. 11); with need
+frustration in the model, depression and eating pathology "were not (Study 1)
+or were only minimally (Study 2) related to each other" (p. 11).
+
+## Assumptions
+
+- **Measures (p. 5).** Self-critical perfectionism: the Frost MPS's Concern
+  over Mistakes (9 items) and Doubts about Actions (4). Need frustration:
+  "the frustration items from the Basic Psychological Need Satisfaction and
+  Need frustration Scale", 12 items, 4 per need. Depressive symptoms: the
+  Children's Depression Inventory, 27 items. Eating pathology: the EDI-II's
+  Drive for Thinness, Bulimia and Body Dissatisfaction, aggregated.
+- **Latent variables from parcels** (three per construct in Study 1, two in
+  Study 2), built by the item-to-construct balance technique (note, p. 13).
+- **Covariates**: age, gender, age- and gender-adjusted BMI, in all models;
+  in Study 2 also the level of each variable.
+- **Study 2's design** (pp. 7–8): two waves, six months apart; latent change
+  models in which change scores are correlated or regressed on each other.
+  Both "predictors" and "outcomes" are changes over the same interval.
+- **Non-clinical samples.** Caucasian, middle-class Belgian secondary-school
+  students; Study 2 academic track only.
+
+## Key results
+
+### Study 1, cross-sectional (pp. 4–7)
+
+- N = 284 in the text (p. 4), "N = 248" in the abstract; 58% girls, mean age
+  14.1.
+- Measurement model: CFI .99, RMSEA .031, SRMR .03, χ²/df = 61.43/48.
+- Depression and eating pathology correlate r = .50 (latent).
+- Perfectionism → eating β = .34, → depression β = .45; the symptom
+  correlation falls to .42.
+- With frustration as full mediator (CFI .98, RMSEA .04, χ²/df =
+  114.48/75), partial mediation does not fit better, Δχ²(2) = 3.08, ns.
+  Indirect effects via frustration: eating β = .28 [.18, .39], depression
+  β = .55 [.41, .69]. The residual symptom correlation is .18, p > .05.
+
+### Study 2, two waves (pp. 7–11)
+
+- N = 608 at T1, 477 at both; 59% girls, mean age 16.19. Older students
+  dropped out more (p. 8); study variables did not predict attrition.
+- Only depressive symptoms changed in mean (−.09, p < .001; Table 1).
+- Change correlations (Table 2): frustration change with depression change
+  .55, with eating change .38; perfectionism change with frustration change
+  .31.
+- Correlated change of the two symptoms β = .43; with perfectionism change
+  as predictor .39; with frustration change as mediator, partial mediation
+  fits better than full (Δχ²(2) = 17.34, p < .001; CFI .97, RMSEA .06,
+  SRMR .06), and the correlated change falls to .24, p < .01. Indirect
+  effects via frustration change: depression β = .26 [.17, .36], eating
+  β = .12 [.06, .19].
+
+### The authors' reading (pp. 11–13)
+
+- "Need frustration represents a transdiagnostic vulnerability process that
+  helps to explain why self-critical perfectionism relates to depressive
+  symptoms and eating disorder symptoms" (abstract).
+- Limitations they state: "Due to the correlational nature of these
+  findings, future experimental research is needed to examine whether
+  increases in need frustration actually cause increases" (p. 12);
+  generalization to clinical samples and adults untested; externalizing
+  problems untested.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Need frustration statistically accounts for most of the association between depressive and eating disorder symptoms in adolescents | moderate | latent models in two samples; Study 1 residual r = .18 (ns) from .50; Study 2 correlated change .24 from .43 |
+| C2 | Need frustration mediates self-critical perfectionism's link to both symptom kinds | moderate | indirect effects with CIs in both studies; full in Study 1, partial for eating in Study 2 |
+| C3 | Need frustration is a transdiagnostic process | weak | two internalizing symptom domains in community adolescents; mediation in cross-sectional and same-interval change data |
+| C4 | Need frustration precedes the symptoms | not claimed | the design cannot show it: Study 2's mediator and outcomes are changes over the same six months; the authors call the findings correlational |
+
+## Concepts
+
+- **Transdiagnostic risk factor** — a variable that predicts several kinds
+  of disorder and reduces their association when modelled as a common
+  predictor (Nolen-Hoeksema & Watkins 2011).
+- **Transdiagnostic process** — a mediator that explains why such a factor
+  predicts several disorders and further reduces their association.
+- **Correlated change** — covariation of two variables' latent change
+  scores between two waves; "within-person change" in the paper's sense.
+
+## Connections
+
+- **Boone et al. 2014**, the longitudinal precedent: self-critical
+  perfectionism predicted increases in need frustration, which predicted
+  increases in binge eating.
+- **Bartholomew, Ntoumanis, Ryan, Bosch and Thøgersen-Ntoumani 2011**
+  (PSPB), on need frustration with depression and disordered eating in
+  athletes; a different paper from [LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md).
+- **Chen et al. 2015**: the BPNSFS, whose frustration items are the measure.
+
+## Bearing on the record
+
+- **[THEORY-052](../theory.d/THEORY-052.md) and [LIT-561](../literature.d/LIT-561.md).** [THEORY-052](../theory.d/THEORY-052.md) quotes [LIT-561](../literature.d/LIT-561.md) p. 12: Campbell et
+  al. (2018a) found that need frustration "not only predicted adolescents'
+  depressive symptoms and eating pathology, but also largely accounted for
+  their co-occurrence and co-evolution across time". Read against the
+  paper, "accounted for their co-occurrence and co-evolution" is right:
+  the symptom correlation and the symptoms' correlated change both shrink
+  with frustration in the model. "Predicted" is right only statistically.
+  There is no lagged prediction: the longitudinal study has two waves, and
+  its frustration and symptom variables are changes over the same six
+  months. [THEORY-052](../theory.d/THEORY-052.md)'s note of 2026-10-28 calls it "the one longitudinal
+  study cited"; it is longitudinal in having two waves, and gives no
+  evidence of temporal order. On the promote_when: it is not prospective
+  prediction of onset; it covers two internalizing domains, "more than one
+  kind", but not externalizing; and the frustration measure is the BPNSFS
+  frustration scale, which Murphy et al. ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md), [NOTE-tmpswlms](NOTE-tmpswlms.md))
+  argue is a keyed low-satisfaction score ([THEORY-tmp62iwr](../theory.d/THEORY-tmp62iwr.md)), with items ("I feel like a
+  failure because of the mistakes I make") close in content to both the
+  perfectionism predictor and depressive symptoms. So it does not meet the
+  promote_when, and [THEORY-052](../theory.d/THEORY-052.md) stays where it is.
+- **The comorbidity framing is the strongest form of the transdiagnostic
+  claim in the record**: not "frustration correlates with each disorder"
+  but "frustration absorbs the association between disorders". It could
+  have failed (a residual symptom correlation near .50 would have), and
+  in Study 1 it did not. That is worth stating in [THEORY-052](../theory.d/THEORY-052.md) alongside the
+  measurement objections.
+- **THEORY filed from this reading**: [THEORY-tmpeqxmj](../theory.d/THEORY-tmpeqxmj.md) (Active), the
+  comorbidity result and its design.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **No temporal order** (C4). Mediation by same-interval change scores
+  cannot say whether frustration changes first.
+- **Shared method and content.** All four constructs are adolescent
+  self-reports; the BPNSFS frustration items include failure and pressure
+  content close to the Frost subscales and to the CDI.
+- **Community adolescents, one country, internalizing symptoms only.**
+- **The sample size differs** between the abstract (248) and the text (284)
+  for Study 1.
+- **Not seen**: the Supporting Information's descriptives and correlations,
+  and the coefficients drawn only in Figures 1–3.
+
+## Open questions
+
+- Does frustration at one wave predict symptom change to the next, with
+  three or more waves and random intercepts?
+- Does the comorbidity result hold with a frustration measure that has
+  thwarting content (the PNTS) or balanced keying?
+- Does it extend to externalizing problems, which the authors name as the
+  next test (p. 12)?

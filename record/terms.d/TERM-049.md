@@ -27,7 +27,7 @@ used_by:
 - CLAIM-175
 - CLAIM-166
 ---
-<!-- inactive-ok-file: CLAIM-157 CLAIM-167 CLAIM-175 — Proposed; the criterion this term defers to and the claims that shaped it, open -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the criterion this term defers to and the claims that shaped it, open -->
 
 # TERM-049: combined form
 

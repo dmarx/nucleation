@@ -57,7 +57,7 @@ summary: >-
 supports:
 - CLAIM-447
 ---
-<!-- inactive-ok-file: CLAIM-440 CLAIM-433 THEORY-893 THEORY-895 TERM-076 CLAIM-439 QUESTION-267 TERM-072 — Proposed or Open; the claims, readings, term and questions this reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-440 CLAIM-433 THEORY-893 THEORY-895 TERM-076 CLAIM-439 — Proposed or Open; the claims, readings, term and questions this reading bears on, cited as open -->
 
 # CLAIM-437: 'Wanting' and 'liking' are saliences relative to different, overlapping processes, pursuit and consummation, each ranking states by their bearing on its own concerns; valence is then relative to a perspective, every perspective in the negotiation has its own, the system's valence is that of the perspective whose ordering is the negotiation's potential, and ambivalence is strong saliences of opposite sign with no potential absorbing them
 

@@ -19,7 +19,7 @@ summary: >-
   owe its reader.
 ---
 <!-- inactive-ok-file: CLAIM-034 CLAIM-091 — listed as material that may bear on this question, not as settled -->
-<!-- inactive-ok-file: CLAIM-201 CLAIM-257 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-023: Can the opacity of insider vocabulary be a preservation target in its own right?
 

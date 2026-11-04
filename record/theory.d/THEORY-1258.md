@@ -23,7 +23,6 @@ summary: >-
   It does not say SGD is far from Bayesian across regions, only that the
   paper does not show it is close.
 ---
-<!-- inactive-ok-file: QUESTION-363 THEORY-1272 — Open or Proposed; the question this bears on, and the sibling filed from the same reading -->
 
 # THEORY-1258: The steady state of Hennick and De Baerdemacker's fractional Fokker–Planck model of SGD is a tempered posterior only within a region of constant effective diffusion; the weights between regions, where accessibility would act, are not derived
 

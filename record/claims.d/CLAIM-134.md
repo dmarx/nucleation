@@ -36,7 +36,6 @@ summary: >-
   dilemma for kinds and not for identity.
 ---
 <!-- inactive-ok-file: THEORY-453 — Proposed; the second position THEORY-034's census finds, cited as open -->
-<!-- inactive-ok-file: THEORY-034 — Proposed; cited as the held dilemma this objection applies, not as sound -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-137 — Proposed; the owner's theses this objection presses, both open -->
 
 # CLAIM-134: A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity

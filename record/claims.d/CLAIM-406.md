@@ -75,7 +75,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-854 THEORY-864 — Proposed; readings of 2026-10-21 cited as the loop's empirical shape and as an assertion of it, corroboration and context, not grounds -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; Pohlhaus and Dotson, named as works A24 drew on that no lawful copy reached -->
-<!-- inactive-ok-file: CLAIM-276 THEORY-317 THEORY-326 THEORY-145 THEORY-151 CLAIM-403 — Proposed; claims and readings this one cites where it bears, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-276 THEORY-317 THEORY-326 THEORY-145 THEORY-151 — Proposed; claims and readings this one cites where it bears, nothing here rests on them -->
 
 # CLAIM-406: Structural, pre-emptive testimonial injustice has the form of the record's trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain
 

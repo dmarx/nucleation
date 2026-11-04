@@ -51,7 +51,7 @@ summary: >-
 bears_on:
 - QUESTION-025
 ---
-<!-- inactive-ok-file: THEORY-182 THEORY-022 THEORY-019 THEORY-002 — Proposed; cited as the premise and the accounts this one bears on -->
+<!-- inactive-ok-file: THEORY-182 THEORY-022 THEORY-002 — Proposed; cited as the premise and the accounts this one bears on -->
 
 # THEORY-183: When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics
 

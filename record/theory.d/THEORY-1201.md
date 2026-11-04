@@ -36,7 +36,6 @@ summary: >-
   conclude; whether the thesis holds is this entry's question, and its
   promote_when is [THEORY-1101](THEORY-1101.md)'s old condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1201: Normalized stem length is not a clock of gene acquisition time: it is set mainly by factors other than when a gene was acquired, such as adaptation to the new cell after acquisition, so relative timings of eukaryogenesis drawn from stem lengths alone are not supported
 

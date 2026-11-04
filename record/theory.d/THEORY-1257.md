@@ -22,7 +22,6 @@ summary: >-
   sample size, and it is about spread in one basin after equilibration,
   not about which region dominates.
 ---
-<!-- inactive-ok-file: QUESTION-363 — Open; the question this bears on -->
 
 # THEORY-1257: Averaging constant-rate SGD iterates at stationarity gives a covariance that shrinks with the number of examples processed, and equals the Gaussian posterior's for that many observations when the noise covariance equals the Hessian
 

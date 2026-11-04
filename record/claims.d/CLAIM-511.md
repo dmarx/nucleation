@@ -41,7 +41,6 @@ summary: >-
   It would be argued from a declared standard, which is where [QUESTION-128](../questions.d/QUESTION-128.md)
   and [QUESTION-129](../questions.d/QUESTION-129.md) ask.
 ---
-<!-- inactive-ok-file: QUESTION-128 QUESTION-129 QUESTION-087 — Open; the questions of what ought to persist and of authority, cited as open -->
 
 # CLAIM-511: A self-maintaining organization ought to preserve its corrigibility
 

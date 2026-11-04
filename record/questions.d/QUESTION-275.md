@@ -38,8 +38,8 @@ summary: >-
   conventional baselines at matched complexity. Nothing here says that a
   circuit is a perspective.
 ---
-<!-- inactive-ok-file: CLAIM-367 CLAIM-329 CLAIM-118 CLAIM-427 CLAIM-278 CLAIM-263 CLAIM-286 CLAIM-287 THEORY-783 THEORY-039 THEORY-481 TERM-072 — Proposed; the claims and readings the question is framed by or re-derives, cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-454 CASE-165 — Proposed; filed with this question from the same exchange -->
+<!-- inactive-ok-file: CLAIM-367 CLAIM-329 CLAIM-427 CLAIM-278 CLAIM-263 CLAIM-286 THEORY-783 THEORY-039 — Proposed; the claims and readings the question is framed by or re-derives, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-165 — Proposed; filed with this question from the same exchange -->
 <!-- inactive-ok-file: THEORY-967 THEORY-1004 THEORY-1001 THEORY-997 — Proposed; readings of the same day, cited with their limits -->
 <!-- inactive-ok-file: THEORY-1013 THEORY-986 THEORY-1016 THEORY-1014 — Proposed; the circuits readings' wider accounts, cited as the units and targets the question uses, nothing here rests on them -->
 

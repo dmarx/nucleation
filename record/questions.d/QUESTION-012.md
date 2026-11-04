@@ -20,7 +20,7 @@ summary: >-
   text→image→caption chain as Case III but states no result about
   composition through a medium.
 ---
-<!-- inactive-ok-file: CLAIM-076 CLAIM-098 CLAIM-178 THEORY-174 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: CLAIM-076 CLAIM-178 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-012: When does reconstruction through an intermediate image preserve or degrade observational structure relative to direct text-to-text reconstruction?

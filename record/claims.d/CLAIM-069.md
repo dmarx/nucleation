@@ -41,7 +41,6 @@ summary: >-
   manuscript cites the 2016 paper; its general observational covers need
   the later version.
 ---
-<!-- inactive-ok-file: THEORY-168 — Proposed; representation-dependence of CbD verdicts, cited as qualification, not as settled -->
 <!-- inactive-ok-file: ARG-022 — Proposed; the argument this claim moved to -->
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the claim this objection was to, open -->
 

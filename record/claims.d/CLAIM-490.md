@@ -37,7 +37,7 @@ summary: >-
   preference falsification. It does not say the committed segment is a
   minority, or that its stance is illegitimate.
 ---
-<!-- inactive-ok-file: QUESTION-119 THEORY-1111 CLAIM-493 — Open or Proposed; the question answered, the reading it derives from, and its companion claim -->
+<!-- inactive-ok-file: THEORY-1111 CLAIM-493 — Open or Proposed; the question answered, the reading it derives from, and its companion claim -->
 
 # CLAIM-490: A fanbase is a mixture of spectators who relate to the club in different ways, as supporters, followers, fans and flâneurs, so the public stance credited to it is weighted towards the most committed types before any bias in who is sampled
 

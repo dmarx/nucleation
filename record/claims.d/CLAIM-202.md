@@ -53,7 +53,7 @@ illustrated_by:
 bears_on:
 - QUESTION-002
 ---
-<!-- inactive-ok-file: CLAIM-220 CLAIM-228 CLAIM-259 — Proposed; the record's other replies of 2026-10-10, open, cited for the revised thesis and the measures this one tests -->
+<!-- inactive-ok-file: CLAIM-220 CLAIM-228 — Proposed; the record's other replies of 2026-10-10, open, cited for the revised thesis and the measures this one tests -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
 

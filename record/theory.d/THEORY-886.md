@@ -35,7 +35,7 @@ summary: >-
   others' activity; it does not cover one's own intentions, and does not
   mention the doorway effect.
 ---
-<!-- inactive-ok-file: CLAIM-421 THEORY-883 THEORY-888 — Proposed; claims and accounts this bears on, named, not leaned on -->
+<!-- inactive-ok-file: THEORY-883 THEORY-888 — Proposed; claims and accounts this bears on, named, not leaned on -->
 
 # THEORY-886: Event boundaries are perceived where perceptual prediction error rises transiently; at those points working-memory event models are reset and opened to sensory input, so that information from before a boundary becomes harder to retrieve after it
 

@@ -35,7 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: THEORY-109 THEORY-111 THEORY-112 — Proposed; the connectivity accounts this path family is set beside, not leaned on -->
+<!-- inactive-ok-file: THEORY-109 — Proposed; the connectivity accounts this path family is set beside, not leaned on -->
 
 # THEORY-578: Between two trained networks that compute nearly the same function, a chain of models minimising the summed Jensen–Shannon divergence between neighbours, a discretised Fisher–Rao geodesic found without labels, can be a low-loss path where the straight line in weights has a barrier
 

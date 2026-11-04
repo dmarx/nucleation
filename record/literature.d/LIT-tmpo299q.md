@@ -1,0 +1,58 @@
+---
+status: Unavailable
+status_note: >-
+  searched 2026-11-03 for a lawful full text and none was reached, so it
+  is not read and no NOTE is filed. OpenAlex and Unpaywall (noreply
+  address) report it closed; epubs.siam.org returned 403 to this client.
+  Web searches found citations and Aubin's later book (Viability Theory,
+  Birkhäuser), which is not this work, and no free copy. THEORY-134
+  holds the viability kernel from LIT-714; the robust and discriminating
+  kernels A21 uses remain unread. It stays Unavailable until a copy is
+  supplied.
+title: 'A Survey of Viability Theory'
+version: 2
+history:
+- version: 1
+  date: '2026-11-02'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-11-02 (no
+    email address sent, ADR-008): dated 1990-05 with no day, so the first
+    of the month per ADR-002. The summary says why it is here, not what it
+    shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a search for a lawful
+    full text on 2026-11-03 (OpenAlex, Unpaywall with the noreply address,
+    the publisher, which returned 403, web searches) reached none. No NOTE
+    is filed.
+tags:
+- control-theory
+- mathematics
+date: '2026-11-02'
+published: '1990-05-01'
+doi: '10.1137/0328044'
+first_author: 'Aubin'
+keywords:
+- 'viability theory'
+- 'viability kernel'
+implementations: []
+summary: >-
+  Aubin (1990), doi:10.1137/0328044. Registered unread from the exchange
+  "Assess SDT Coverage" of 2026-11-02 (A21). Aubin's survey. [THEORY-134](../theory.d/THEORY-134.md)
+  holds the viability kernel from the 1999 notes ([LIT-714](LIT-714.md)); the robust,
+  discriminating kernel A21 uses is not held.
+---
+
+# LIT-tmpo299q: A Survey of Viability Theory
+
+Aubin, J. P. (1990). A Survey of Viability Theory. *SIAM Journal on Control and Optimization, 28(4), 749-788*. doi:10.1137/0328044.
+
+## Key takeaways
+
+*Not read.* Nothing here reports the work's findings; what the exchange's
+replies said of it is unverified.
+
+## Standing in the record
+
+Aubin's survey. [THEORY-134](../theory.d/THEORY-134.md) holds the viability kernel from the 1999 notes ([LIT-714](LIT-714.md)); the robust, discriminating kernel A21 uses is not held.

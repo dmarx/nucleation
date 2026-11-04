@@ -33,7 +33,7 @@ summary: >-
   words' mutual co-occurrences explained by a latent variable shared by
   many words.
 ---
-<!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-022 THEORY-019 THEORY-002 — Proposed; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-022 THEORY-002 — Proposed; cited as what this reading produced or bears on -->
 
 # NOTE-664: Symmetry in Language Statistics and Representation Geometry
 

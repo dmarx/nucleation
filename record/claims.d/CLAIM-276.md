@@ -50,7 +50,7 @@ complements:
 corroborated_by:
 - THEORY-143
 ---
-<!-- inactive-ok-file: THEORY-143 THEORY-146 CLAIM-191 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-143 CLAIM-191 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-276: A shared interpretation's coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation's stability is no evidence of its truth
 

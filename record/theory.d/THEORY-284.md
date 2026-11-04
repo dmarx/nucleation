@@ -34,7 +34,7 @@ summary: >-
 bears_on:
 - QUESTION-058
 ---
-<!-- inactive-ok-file: THEORY-022 THEORY-019 CLAIM-135 CLAIM-193 — Proposed; accounts this one bears on -->
+<!-- inactive-ok-file: THEORY-022 CLAIM-193 — Proposed; accounts this one bears on -->
 
 # THEORY-284: If a feature's values form a compact metric space carried continuously and injectively onto the unit sphere, and cosine similarity is locally a C² decreasing function of squared feature distance, then every path on the representation manifold is √(−2g′(0)) times as long as the feature path it images, so on-manifold shortest paths recover the feature's intrinsic length metric up to one scale; a homeomorphism alone does not fix it
 

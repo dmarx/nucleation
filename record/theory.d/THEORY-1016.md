@@ -45,7 +45,6 @@ summary: >-
   resolution and feature manifolds with no finite description; both deny
   that one width is the right one.
 ---
-<!-- inactive-ok-file: THEORY-017 CLAIM-454 — Proposed; the neighbouring account and claim, cited as open -->
 # THEORY-1016: The features a sparse autoencoder recovers from a language model are a resolution set by the dictionary's width and sparsity penalty, not a unique set of the model's units: as the dictionary widens, features split into families of finer features, and splits also merge, so that the number of features is not well-posed
 
 ## Source

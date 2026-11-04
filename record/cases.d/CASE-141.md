@@ -33,8 +33,6 @@ summary: >-
 variants:
 - CASE-142
 ---
-<!-- inactive-ok-file: TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-402 CLAIM-415 — Proposed or Deferred; claims the case illustrates, cited as such -->
 
 # CASE-141: The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight
 

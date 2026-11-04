@@ -36,7 +36,6 @@ summary: >-
   "justifiably" claims more than the body.
 ---
 <!-- inactive-ok-file: LIT-119 LIT-203 — Unavailable; Keeley, held and unread, named as an open question -->
-<!-- inactive-ok-file: THEORY-327 — Proposed; named as a compatible rival explanation, not leaned on -->
 
 # THEORY-615: Stubborn distrust of scientific experts can follow validly from the truster's position: one with little say in collective decisions, who has reason to think the experts' service ethos leaves out their core interests, has a reason to distrust an expert because of the expert's prestige, whatever the expert's competence or goodwill
 

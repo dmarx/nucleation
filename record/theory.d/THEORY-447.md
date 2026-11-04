@@ -51,7 +51,7 @@ presupposed_by:
 - THEORY-464
 ---
 <!-- inactive-ok-file: THEORY-464 THEORY-476 THEORY-531 THEORY-546 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
-<!-- inactive-ok-file: THEORY-023 CLAIM-287 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
+<!-- inactive-ok-file: THEORY-023 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 
 # THEORY-447: Granted that a person survives a brain transplant and that half a brain would do, each product of a division stands in all that matters in ordinary survival, so what matters is not identity, which is one-one and all-or-nothing, but psychological relations that can branch and come in degrees
 

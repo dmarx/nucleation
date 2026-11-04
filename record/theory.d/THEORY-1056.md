@@ -33,7 +33,6 @@ summary: >-
   that recovery is cheap on every graph, under every noise model, or for
   fine angular resolution.
 ---
-<!-- inactive-ok-file: CLAIM-475 — Proposed; the claim this bears on, cited as open -->
 
 # THEORY-1056: In angular synchronization with outlier offsets, a polynomial-time spectral relaxation, the top eigenvector of the Hermitian matrix of measured phase offsets, recovers the angles once the share of good offsets exceeds about 1/√n on the complete graph, within a factor √((L − 1)/(2 log₂ L)) of the information bound that limits every algorithm, while exact maximum likelihood is a non-convex search costing O(mLⁿ) exhaustively; in this model the price of recovering the global configuration cheaply instead of optimally is a constant factor in evidence, which vanishes for L ≤ 6
 

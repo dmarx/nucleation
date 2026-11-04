@@ -62,7 +62,7 @@ extended_by:
 bears_on:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: THEORY-114 THEORY-112 THEORY-110 — Proposed; the accounts filed with this one that extend it, named in the body and in Connections -->
+<!-- inactive-ok-file: THEORY-110 — Proposed; the accounts filed with this one that extend it, named in the body and in Connections -->
 
 # THEORY-109: The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
 

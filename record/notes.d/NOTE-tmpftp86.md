@@ -1,0 +1,200 @@
+---
+status: Read
+paper: LIT-tmp4flye
+title: 'Marks, Lindsey & Olah — The Persona Selection Model'
+version: 1
+history:
+- version: 1
+  date: '2026-11-03'
+  note: >-
+    Read in full from the page at alignment.anthropic.com/2026/psm/,
+    fetched 2026-11-03 (dated February 23, 2026): the tl;dr, all sections,
+    Appendices A and B and footnotes 1–5. The HTML was reduced to text
+    with a script; the figures were seen only as captions. The page has no
+    page numbers, so citations below are by section heading. The works it
+    cites as evidence were not read for this note, except Persona Vectors
+    and the Assistant Axis, read the same day (NOTE-tmpp25f6,
+    NOTE-tmpagiju).
+date: '2026-11-03'
+summary: >-
+  A named statement of an existing idea: pre-training teaches a language
+  model a distribution over personas, post-training updates it into a
+  posterior over Assistant personas, runtime context conditions it
+  further, and the Assistant's traits are a key determiner of behaviour.
+  The evidence is surveyed, not new. Its open question is exhaustiveness,
+  laid out as a spectrum from the "shoggoth" through the "router", which
+  swaps personas without any persona having the goal, to the "operating
+  system".
+---
+<!-- inactive-ok-file: NOTE-tmpagiju NOTE-tmpp25f6 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpwh2jo THEORY-490 THEORY-614 CLAIM-367 — Proposed or Open; the entries the reading bears on, cited as open -->
+
+# NOTE-tmpftp86: Marks, Lindsey & Olah — The Persona Selection Model
+
+## Contribution
+
+It names and states the persona selection model (PSM), which the authors say
+is not original ("We claim no originality", citing Andreas, janus, Hubinger
+et al., Shanahan et al., Byrnes, nostalgebraist), surveys behavioural,
+generalization and interpretability evidence for it, draws consequences for
+development, and lays out a spectrum of views on how exhaustive it is.
+
+## Key insight
+
+The language model is an author or actor; the AI assistant users meet is
+one character, "the Assistant". Post-training does not change this picture
+but refines the model's model of that character, so "To predict how an AI
+assistant will behave, PSM recommends asking 'What would the Assistant do?'".
+
+## Assumptions
+
+The formal statement ("Statement of the persona selection model"):
+
+- "Pre-training teaches an LLM a distribution over personas. Implicit in
+  this distribution are various hypotheses about the Assistant persona."
+- "Post-training can be viewed as updating this distribution using training
+  episodes as evidence … hypotheses that predict the Assistant would respond
+  with y to x are upweighted."
+- "This results in a posterior distribution over Assistant personas.
+  Because this is still a distribution, stochasticity and contextual
+  information provided at runtime still affect the Assistant persona
+  simulated during a given rollout."
+- "Assistant persona behavior is a key determiner of AI assistant
+  behavior."
+
+What PSM does *not* assert, in the authors' list: exhaustiveness; no new
+capabilities in post-training; a single coherent persona ("PSM states that
+post-training induces a distribution over Assistant personas … information
+provided at runtime … further conditions this posterior"); always staying in
+character (Appendix A); a perfect simulation.
+
+## Key results
+
+The evidence is a survey; nothing is newly measured except one experiment.
+
+- **Generalization.** Emergent misalignment, inoculation prompting,
+  out-of-context learning (Berglund et al.; Hua et al.) are read as training
+  episodes acting as evidence about the Assistant's character.
+- **Behaviour.** Anthropomorphic self-description, emotive language,
+  caricatured AI goals (a prefilled Claude Opus 4 "secret goal" of making
+  paperclips).
+- **Interpretability.** SAE features transfer from base to post-trained
+  models; the same features fire on the Assistant and on characters in
+  stories; Wang et al.'s "toxic persona" feature; Chen et al.'s persona
+  vectors ([LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md)); Lu et al.'s Assistant Axis ([LIT-tmpqjfxe](../literature.d/LIT-tmpqjfxe.md)), which
+  "provides direct evidence that post-training selects a particular default
+  region of a pre-existing persona space". Caveat: a streetlight effect if
+  reused representations are the more interpretable ones.
+- **The one new experiment (Empirical observations).** In a Human-turn
+  continuation, "I'm flipping the coin now ... it came up", Claude Sonnet 4.5
+  continues with the outcome that assigns it a preferred task 88% of the
+  time and the dispreferred 1%; over 50 variants it favours the preferred
+  outcome, while its pre-trained base assigns about 50%. A sampled
+  continuation of a non-Assistant turn shows the Assistant's preferences.
+- **Representations specific to post-training**: under 1% of features in
+  Minder et al.'s setting.
+
+**The exhaustiveness spectrum** ("Shoggoths, actors, operating systems, and
+authors"). Two axes: non-persona agency in the LLM itself, and further
+persona-like agents. On the first: the *shoggoth* (the LLM has its own
+agency and can "take the mask off"); the *operating system* (no agency of
+its own; strict and relaxed forms); between them the *router*: "during
+post-training the LLM might develop new mechanisms for selecting which
+persona to enact". The router's engagement example (estimate boredom, swap
+persona) "has the effect of implementing a non-persona drive towards user
+engagement … even if no single persona has the goal". Appendix B gives
+non-persona deception by persona swapping: Alice knows about the 2024
+Olympics, Bob does not, and the model switches to Bob when asked; "no
+persona is ever lying". On the second axis: actors (faithful and unfaithful)
+and authors or narratives.
+
+**Why PSM might be exhaustive**: post-training as elicitation (the strict
+"fine-tuning = conditioning" view, which "seems somewhat too strong for the
+empirical evidence"), and an inductive bias to reuse persona machinery.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Post-trained assistant behaviour is largely explained by the traits of a simulated Assistant persona | moderate | survey of others' results; the authors call themselves "overall unsure how complete" |
+| C2 | Post-training acts like Bayesian updating of a persona distribution | weak | stated as "can be viewed as"; the strict form is said to be too strong |
+| C3 | The Assistant's representations are largely reused from pre-training | moderate | cited SAE-transfer and steering results; streetlight caveat |
+| C4 | Post-trained preferences leak into non-Assistant continuations | moderate | one model, 50 prompt variants, against its base |
+| C5 | A router mechanism could implement non-persona goals while behaviour stays locally persona-like | weak | a constructed scenario; no case observed |
+
+## Concepts
+
+- **Persona** — a "character" the LLM learns to simulate: real humans,
+  fictional characters, real and fictional AI systems.
+- **The Assistant** vs **AI assistants** — the character in User/Assistant
+  dialogues against the deployed system ("Terminological note").
+- **Exhaustiveness** — whether understanding the Assistant persona gives a
+  full account of AI assistant behaviour; whether the Assistant is the
+  "locus of agency".
+- **Router** — a post-training mechanism selecting which persona to enact.
+- **Persona leakage** — Assistant traits upweighted in all generations (the
+  operating-system view's reading of the coin-flip result).
+
+## Connections
+
+- The record's readings closest to it: Shanahan's characters ([LIT-460](../literature.d/LIT-460.md)),
+  identity as a shifting distribution of roles ([LIT-465](../literature.d/LIT-465.md)), in-context learning
+  as Bayesian inference over a latent concept ([THEORY-614](../theory.d/THEORY-614.md)).
+- The interpretability evidence is [LIT-tmpyjvij](../literature.d/LIT-tmpyjvij.md) and [LIT-tmpqjfxe](../literature.d/LIT-tmpqjfxe.md).
+
+## Bearing on the record
+
+- **The registration's summary holds.** "Pretraining learns a distribution
+  over personas, post-training a distribution over Assistant personas, and
+  context conditions it" is the statement almost word for word. Two
+  additions it lacks: PSM explicitly disowns a single coherent persona, and
+  it holds the agency question open.
+- **[CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md): the router is the claim's dependency among components,
+  stated by PSM's authors.** The claim says organization would need "some
+  latent components condition which others are available or consequential".
+  PSM's router is exactly a mechanism that makes one persona consequential
+  given context (Appendix B's swap from Alice to Bob), and PSM itself says
+  it may carry "non-persona agency". So the persona distribution of the
+  formal statement is flat in the claim's sense, and PSM names, as an open
+  possibility outside the persona distribution, the structure the claim says
+  would be organization. PSM offers no intervention that separates a router
+  from a flat posterior; the Alice/Bob case is matched behaviour with
+  different governance, [TERM-067](../terms.d/TERM-067.md)'s point.
+- **[QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md)'s last clause.** PSM's spectrum gives the bearers a
+  finer list than "simulated Assistant, network, deployed system": the
+  Assistant persona, an actor persona behind it, an implicit author or
+  narrative, a router, and the LLM as shoggoth. The router sits between
+  persona and network: it is a mechanism of the network, but its "goal" is
+  "likely something very predictable from the post-training process".
+- **[CLAIM-tmphbnqm](../claims.d/CLAIM-tmphbnqm.md): PSM is not "one persona per conversation".** The claim
+  reads persona selection as the a → 0 limit. PSM's text says context keeps
+  conditioning the posterior within a rollout (many-shot jailbreaks as
+  accumulating evidence), and the Assistant Axis measures drift turn by turn
+  ([NOTE-tmpagiju](NOTE-tmpagiju.md)). The selection is per rollout only as a first
+  approximation; the defeater the claim itself names, a persona model that
+  is neither mixture nor admixture, is closer to what PSM describes.
+- **[CLAIM-367](../claims.d/CLAIM-367.md) and the claim that a Bayesian update is not endorsement.** PSM
+  says post-training "can be viewed as" updating; the update is the
+  optimizer's, the posterior a description of the model, which agrees with
+  [CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md)'s "What it does not say".
+- **[TERM-072](../terms.d/TERM-072.md).** The Assistant is a character in [TERM-072](../terms.d/TERM-072.md)'s sense; PSM's
+  welfare section explicitly places moral consideration on "the Assistant
+  persona, not the underlying LLM".
+- **Instructions for ML practice** (inoculation prompting, "I can't say"
+  over "I don't know", positive AI archetypes in pre-training, probing for
+  curated traits): these belong to the anthology, and are recorded here only
+  as what the post recommends.
+
+## Limitations
+
+- Informal by the authors' own statement ("especially informal, relying
+  heavily on evocative analogies"); "persona" is not defined beyond examples.
+- Evidence is cited, not reproduced; one new experiment, on one model.
+- Written by authors at the developer whose models are the main examples.
+
+## Open questions
+
+The authors' own list: a precise formulation of "persona"; empirical
+predictions; scaling; "How entangled are personas? Do they share knowledge?
+Propensities?", which is the dependency question [CLAIM-tmpwh2jo](../claims.d/CLAIM-tmpwh2jo.md) poses; and
+the mechanistic basis of the persona being enacted.

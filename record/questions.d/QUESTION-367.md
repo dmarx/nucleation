@@ -24,8 +24,8 @@ summary: >-
   regime. If the first answer is right, the will-organization includes a
   self-representational relation the record has not named.
 ---
-<!-- inactive-ok-file: THEORY-1300 THEORY-1296 THEORY-1298 CLAIM-122 — Proposed; the readings this question is filed from, cited as open -->
-<!-- inactive-ok-file: CLAIM-355 CLAIM-523 QUESTION-364 — Proposed or Open; the claim whose split between organization and representation this question bears on, and its neighbours -->
+<!-- inactive-ok-file: THEORY-1300 THEORY-1296 THEORY-1298 — Proposed; the readings this question is filed from, cited as open -->
+<!-- inactive-ok-file: CLAIM-355 CLAIM-523 — Proposed or Open; the claim whose split between organization and representation this question bears on, and its neighbours -->
 
 # QUESTION-367: Is an agent's representation of its own capacity to control a process a condition of that capacity's efficacy, and so one of the relations a will-organization maintains, or only its accompaniment, and what intervention would tell the two apart?
 

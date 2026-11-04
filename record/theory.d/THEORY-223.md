@@ -40,7 +40,6 @@ summary: >-
 corroborates:
 - CLAIM-086
 ---
-<!-- inactive-ok-file: CLAIM-284 CLAIM-288 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
 # THEORY-223: When the rules that govern a system lie within its own action space, the governor's authority rests on the system leaving them alone, and further controls in the same space inherit that dependence
 

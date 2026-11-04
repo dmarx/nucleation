@@ -23,7 +23,7 @@ summary: >-
   search phase, and it relates the optimiser's noise scale to sample size,
   not training time to sample size.
 ---
-<!-- inactive-ok-file: QUESTION-363 THEORY-209 THEORY-1257 — Open or Proposed; the question this bears on, Kunin's deep-network reading, and the sibling filed from the same reading -->
+<!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this bears on, Kunin's deep-network reading, and the sibling filed from the same reading -->
 
 # THEORY-1255: Near a non-degenerate minimum, constant-rate SGD's stationary distribution is a Gaussian set by learning rate, batch size and preconditioner, which can be tuned to match the posterior at a given sample size; training time enters only as the wait for stationarity
 

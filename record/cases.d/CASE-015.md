@@ -25,7 +25,6 @@ variants:
 - CASE-030
 - CASE-009
 ---
-<!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CASE-015: The telephone game
 

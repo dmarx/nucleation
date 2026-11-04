@@ -38,7 +38,6 @@ bearing:
 <!-- inactive-ok-file: LIT-301 — Unavailable; unread, named as the text that would settle THEORY-036 -->
 <!-- inactive-ok-file: CLAIM-078 — Proposed; cited because A191's four criteria restate it -->
 <!-- inactive-ok-file: THEORY-273 — Proposed; the necessary-not-sufficient reading named in the note of 2026-10-14, not as settled -->
-<!-- inactive-ok-file: CLAIM-402 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # QUESTION-028: When does independently generalizable, intervention-relevant relational structure warrant treating a communicative category as a real effective kind rather than an arbitrary taxonomy?
 

@@ -56,9 +56,9 @@ bearing:
 <!-- inactive-ok-file: CLAIM-161 — Proposed; one of the candidate tests, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection an answer must avoid, not as standing -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question this sharpens, set aside since the will paper -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 CLAIM-167 — Proposed; the answers filed against this question, open -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the answers filed against this question, open -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the answered objection and the withdrawn adequacy condition -->
-<!-- inactive-ok-file: THEORY-268 THEORY-254 THEORY-265 — Proposed; readings of 2026-10-14 named beside the candidate tests, open -->
+<!-- inactive-ok-file: THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 named beside the candidate tests, open -->
 
 # QUESTION-035: Relative to a stated target, when is a combined form one system, where does its boundary lie, and how long does it last?
 

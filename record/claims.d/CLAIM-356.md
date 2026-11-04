@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpkb2i9
 title: 'An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -26,6 +26,10 @@ history:
     these rulings): it rests on no claim and grounds on no Proposed
     reading, no objection is filed against it, and nothing in the record
     meets its defeated_if. The claim is unchanged.
+- version: 4
+  date: '2026-11-03'
+  note: >-
+    uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,6 +59,8 @@ complements:
 corroborated_by:
 - THEORY-047
 - THEORY-054
+uses:
+- TERM-tmp8spbn
 summary: >-
   The owner's, U35 of the exchange of 2026-10-17, against A34's guardrail
   that "Loss minimization does not automatically mean the model has its
@@ -72,7 +78,7 @@ summary: >-
   governs it.
 ---
 
-<!-- inactive-ok-file: CLAIM-016 CLAIM-174 CLAIM-284 CLAIM-288 CLAIM-367 THEORY-047 THEORY-054 THEORY-616 — Proposed or Deferred; open claims and readings, and a deferred claim cited in the body only, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-016 CLAIM-174 CLAIM-367 THEORY-047 THEORY-054 THEORY-616 — Proposed or Deferred; open claims and readings, and a deferred claim cited in the body only, nothing here rests on their being settled -->
 
 # CLAIM-356: An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization
 

@@ -26,6 +26,7 @@ summary: >-
   possible, and what evidence attributes either to a bearer. Merely
   failing to realize an attainable set of requirements is neither.
 ---
+<!-- inactive-ok-file: LIT-tmp6as8m — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-131: How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent's demands, and under what conditions can one occur without the other?
 
@@ -161,3 +162,28 @@ independent they are. Governance-induced frustration, where an influence
 or control mechanism keeps an available joint satisfaction from becoming
 effective, is the case where the two meet through the organization's own
 governance ([CLAIM-357](../claims.d/CLAIM-357.md)).
+
+## Note of 2026-11-02: the psychology's operational constructs
+
+In the exchange "Assess SDT Coverage" (2026-11-02), A3 named the measures by which self-determination theory
+operationalizes the two halves of this question. Bartholomew et al. 2011
+([LIT-tmp6as8m](../literature.d/LIT-tmp6as8m.md)) measures need thwarting, close to operative thwarting. The
+need-frustration scale (Chen et al., [LIT-tmpzyunx](../literature.d/LIT-tmpzyunx.md)) measures felt frustration.
+Murphy et al. 2023 ([LIT-tmpjcuzb](../literature.d/LIT-tmpjcuzb.md)) doubt the second's validity. All three are
+registered unread.
+
+The question stays open.
+
+## Note of 2026-11-03: what the scales measure, read
+
+The readings sharpen the note of 2026-11-02. Every BPNSFS frustration item is
+"I feel …" or "I have the impression …" (Chen et al., [NOTE-tmpr36wg](../notes.d/NOTE-tmpr36wg.md)), and on
+Murphy et al. ([NOTE-tmpswlms](../notes.d/NOTE-tmpswlms.md)) the items carry no thwarting agent and may
+measure low satisfaction, this question's non-attainment, not operative
+thwarting. Kermavnar et al.'s four cells (satisfaction and frustration as
+experience, support and thwarting as environment) and their "cross-paths",
+thwarting without frustration and the reverse ([NOTE-tmpe2f2g](../notes.d/NOTE-tmpe2f2g.md)), are the
+psychology's version of the separations asked for, given as examples, not
+shown. Bartholomew et al.'s thwarting scale is Unfetched.
+
+The question stays open.

@@ -33,7 +33,6 @@ supports:
 bears_on:
 - QUESTION-109
 ---
-<!-- inactive-ok-file: THEORY-335 — Proposed; the account this claim states, cited with its standing -->
 
 # CLAIM-315: In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured
 

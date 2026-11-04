@@ -89,7 +89,7 @@ illustrated_by:
 bears_on:
 - QUESTION-100
 ---
-<!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-280 CLAIM-281 CLAIM-285 CLAIM-288 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-276 CLAIM-278 CLAIM-281 CLAIM-285 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1825 — Unavailable since 2026-10-29; DeMarzo, Vayanos and Zwiebel 2001, cited in the note of that date as not reached, nothing here rests on it -->
 
 # CLAIM-297: When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
@@ -160,7 +160,6 @@ later made frustration, not distress, the primitive ([CLAIM-368](CLAIM-368.md)).
 
 ## Note of 2026-10-26: two running realizations, without retrieval
 
-<!-- inactive-ok-file: CASE-162 — Proposed; the lab's runs filed 2026-10-26, cited as an illustration, nothing here rests on it -->
 
 Two models of the Perspective Population Lab ([CASE-162](../cases.d/CASE-162.md),
 dmarx/PerspectiveLab@7e2edc2) run this claim's circuit with authority,

@@ -37,7 +37,6 @@ summary: >-
   read it; whether the thesis holds is this entry's question, and its
   promote_when is [THEORY-1099](THEORY-1099.md)'s old condition, word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1203: The host lineage elaborated its cytoskeleton, endomembrane system and nuclear machinery before mitochondrial endosymbiosis began, about 2.2 billion years ago: most pre-LECA duplications in eukaryotic gene families of archaeal origin predate it
 

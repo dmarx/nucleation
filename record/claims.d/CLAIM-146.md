@@ -32,7 +32,6 @@ illustrated_by:
 - CASE-042
 ---
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history of an earlier prior-art retraction -->
-<!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as the claim that earlier retraction produced -->
 
 # CLAIM-146: Recovering latent relational structure from an interaction matrix, with no privileged latent coordinates, is decades-old prior art, so the manuscript's contribution cannot be that recovery
 

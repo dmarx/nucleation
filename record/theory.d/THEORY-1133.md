@@ -22,7 +22,6 @@ summary: >-
   the symmetry group of real embedding spaces is, and exact symmetries
   are rare in noisy data; near-symmetries give near-ties instead.
 ---
-<!-- inactive-ok-file: CLAIM-135 LIT-1813 LIT-1804 — Proposed, Open or Deferred; the entries this reading bears on, cited as open -->
 
 # THEORY-1133: The Gromov–Wasserstein objective between two spaces depends on each only through its within-space similarity matrix and weights, so every transformation of a space that preserves them, a single orthogonal map or per-vector rescaling under cosine similarity, leaves every coupling's cost unchanged, and any coupling composed with a symmetry of either structure costs exactly what it did; GW can therefore identify a correspondence only up to the automorphisms of the two similarity structures, and on symmetric data it cannot choose between branches or categories that the symmetry exchanges
 

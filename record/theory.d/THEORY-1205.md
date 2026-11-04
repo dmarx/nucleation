@@ -37,7 +37,6 @@ summary: >-
   entry's question, and its promote_when is [THEORY-1109](THEORY-1109.md)'s old condition,
   word for word.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # THEORY-1205: Eukaryotes began in a syntrophic partnership: an archaeal host fermented sugars and passed reducing equivalents to an alphaproteobacterial endosymbiont that contributed a TCA cycle and an electron transport chain, which is why the last eukaryotic common ancestor's central carbon metabolism is archaeal in cytosolic glycolysis and the pentose phosphate pathway and alphaproteobacterial in the mitochondrial TCA cycle
 

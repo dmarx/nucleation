@@ -70,7 +70,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-202 CLAIM-228 CLAIM-257 — Proposed; the distinctive test and the two restatements of this measure, cited as open -->
+<!-- inactive-ok-file: CLAIM-202 CLAIM-228 — Proposed; the distinctive test and the two restatements of this measure, cited as open -->
 
 # CLAIM-005: Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector; the match constrains a translation only once one outcome correspondence is fixed across many items, and summed over source contexts alone it charges for loss and not for addition
 

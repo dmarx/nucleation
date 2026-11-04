@@ -40,7 +40,6 @@ summary: >-
   ordinal separability condition. It is Wolpert and Tumer's factoredness
   stated for values.
 ---
-<!-- inactive-ok-file: NOTE-1154 NOTE-1141 — the readings this is filed from, named -->
 
 # THEORY-929: A joint action-value that is a non-decreasing function of per-agent values, each conditioning only on its agent's own history, makes the profile of the agents' individually greedy actions a greedy joint action, which suffices for decentralised greedy execution and is strictly more expressive than a sum; it cannot represent a joint value in which an agent's best action depends on what the others do at the same step
 

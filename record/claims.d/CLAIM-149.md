@@ -50,7 +50,6 @@ summary: >-
 illustrated_by:
 - CASE-071
 ---
-<!-- inactive-ok-file: CLAIM-266 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # CLAIM-149: A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it

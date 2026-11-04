@@ -32,7 +32,7 @@ summary: >-
   where an interpreted common core exists, which the authors say is not
   true in general.
 ---
-<!-- inactive-ok-file: THEORY-034 THEORY-038 THEORY-459 THEORY-594 — Proposed; named as related accounts, not leaned on -->
+<!-- inactive-ok-file: THEORY-038 THEORY-459 THEORY-594 — Proposed; named as related accounts, not leaned on -->
 
 # THEORY-690: In the physical dualities examined, theoretically inequivalent duals turn out empirically inequivalent, so dualities yield no genuine in-principle underdetermination; where duals would contradict each other a cautious realist is warranted in committing only to their common core, and because the exact cases' common cores are rich rather than empty, dualities give no support to structural realism
 

@@ -63,7 +63,7 @@ summary: >-
   that luria's evidential role does not depend on accepting Barad's
   ontology.
 ---
-<!-- inactive-ok-file: CLAIM-476 CLAIM-470 — Proposed; the claim this was split from and the claim it complements -->
+<!-- inactive-ok-file: CLAIM-476 — Proposed; the claim this was split from and the claim it complements -->
 
 # CLAIM-469: Luria is an apparatus for a record's objects in the operational sense: through its schemes, vocabularies, validators and generated views it realizes a system of distinctions that fixes what counts as a referable and governable object within the record, so that a split scheme makes one object two and a promoted vocabulary makes a value an entity; it keeps, enforces and propagates those distinctions; and its distinctions are revised through the record's own use
 

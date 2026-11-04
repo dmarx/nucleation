@@ -32,7 +32,7 @@ summary: >-
   developed, and the combined third option "obviously requires further
   elaboration".
 ---
-<!-- inactive-ok-file: THEORY-017 THEORY-034 THEORY-690 — Proposed; named as related accounts, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-690 — Proposed; named as related accounts, nothing here rests on their being settled -->
 
 # THEORY-594: Unitarily inequivalent representations in quantum field theory need not refute ontic structural realism: what does physical work in spontaneous symmetry breaking and in the DHR derivation of quantum statistics is structure across representations, so a structural realist who takes structure to be modal and to span them can accept that work, though the modal conception is undeveloped and the removal of Howard's premise rests on Baker's sufficient condition for intertranslatability
 

@@ -1,0 +1,68 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-03 ([NOTE-tmpgd5c5](../notes.d/NOTE-tmpgd5c5.md)), from the published PDF on
+  selfdeterminationtheory.org; worth reading as the primary study for SDT's
+  claim that autonomy is not individualism: autonomous enactment of
+  collectivist and vertical practices predicts well-being in four countries.
+  Cross-sectional, 94–195 students per country; "no moderation" is
+  non-significant interactions.
+title: 'Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being.'
+version: 2
+history:
+- version: 1
+  date: '2026-11-02'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-11-02 (no
+    email address sent, ADR-008): dated 2003 with no day, so the first of
+    the month per ADR-002. The summary says why it is here, not what it
+    shows.
+- version: 2
+  date: '2026-11-03'
+  note: >-
+    Read in full from the PDF of the published article on
+    selfdeterminationtheory.org
+    (SDT/documents/2003_ChirkovRyanKimKaplan.pdf), the Center for
+    Self-Determination Theory's site, an upload by the second author's
+    centre, lawful under ADR-064; the first NOTE on the work
+    (NOTE-tmpgd5c5). Status set from the reading: Active. The summary is
+    replaced by one from the text. NOTE-441's second-hand account (p. 1577)
+    holds. A reporting error in the paper is noted: its text for vertical
+    collectivism repeats the vertical individualism statistics. One THEORY
+    filed, Proposed (THEORY-tmphu42d). No email address was sent to any
+    service (ADR-008).
+tags:
+- motivation
+- social-science
+date: '2026-11-02'
+published: '2003-01-01'
+doi: '10.1037/0022-3514.84.1.97'
+first_author: 'Chirkov'
+keywords:
+- 'autonomy'
+- 'individualism'
+- 'cultural internalization'
+implementations: []
+summary: >-
+  Chirkov, Ryan, Kim and Kaplan (2003), JPSP 84. 559 students in South
+  Korea, Russia, Turkey and the USA rated their reasons for practices of
+  horizontal and vertical individualism and collectivism. For every type of
+  practice, the relative autonomy of their reasons predicted a well-being
+  composite (β = .24–.29), positive in all sixteen country-by-practice tests
+  and with no country or gender interaction. Vertical practices were much
+  less internalized than horizontal ones. Autonomy as volition is argued to
+  be orthogonal to independence.
+---
+<!-- inactive-ok-file: THEORY-tmphu42d — Proposed; the THEORY filed from this reading, cited as open -->
+
+# LIT-tmporplv: Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being.
+
+Chirkov, V., Ryan, R. M., Kim, Y., Kaplan, U. (2003). Differentiating autonomy from individualism and independence: A self-determination theory perspective on internalization of cultural orientations and well-being.. *Journal of Personality and Social Psychology, 84(1), 97-110*. doi:10.1037/0022-3514.84.1.97.
+
+## Key takeaways
+
+Read in full on 2026-11-03 ([NOTE-tmpgd5c5](../notes.d/NOTE-tmpgd5c5.md)). [THEORY-tmphu42d](../theory.d/THEORY-tmphu42d.md), Proposed, is filed from it.
+
+## Standing in the record
+
+Held second-hand in [NOTE-441](../notes.d/NOTE-441.md) (p. 1577); the primary paper for SDT's claim that autonomy is not individualism.

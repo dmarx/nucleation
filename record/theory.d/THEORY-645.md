@@ -22,7 +22,7 @@ summary: >-
   Kampen's (1935).
 ---
 
-<!-- inactive-ok-file: THEORY-019 THEORY-022 — Proposed; named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-022 — Proposed; named in Connections, not leaned on -->
 
 # THEORY-645: A countable discrete abelian group and a compact second-countable abelian group can each be recovered as the character group of the other, and a locally compact, connected, second-countable abelian group is a compact group plus ℝʳ; Pontryagin's 1934 paper does not prove duality for general locally compact abelian groups
 

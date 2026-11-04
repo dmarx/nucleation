@@ -48,7 +48,6 @@ summary: >-
   two readings, now Active, report what the papers find; this claim is the
   record's judgement of what stem lengths can establish.
 ---
-<!-- inactive-ok-file: QUESTION-277 — Open; the question this bears on, nothing here rests on it -->
 
 # CLAIM-509: Stem lengths alone do not establish an order of acquisition in eukaryogenesis, neither Pittis and Gabaldón's late mitochondrion nor Bernabeu and colleagues' transfer waves: normalized stem length measures time only if rates before and after LECA are proportional, it shortens as closer relatives are sampled, the alphaproteobacterial separation from other bacteria rests on P = 0.044, and on Tobiasson and colleagues' data it does not behave as a clock
 

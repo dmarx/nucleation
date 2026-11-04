@@ -50,7 +50,7 @@ summary: >-
   that A2's preference falsification and amplification do not need. It
   does not say that the private majority agrees.
 ---
-<!-- inactive-ok-file: QUESTION-119 THEORY-1114 CLAIM-490 — Open, Proposed or Deferred; the question answered, the reading and unread work it derives from, and its companion claim -->
+<!-- inactive-ok-file: THEORY-1114 CLAIM-490 — Open, Proposed or Deferred; the question answered, the reading and unread work it derives from, and its companion claim -->
 <!-- inactive-ok-file: LIT-1791 — Unfetched; Turner 2005, cited in the body for the step from prototypicality to influence, unread, no edge (ADR-058) -->
 
 # CLAIM-493: When a fanbase is set against an outside party such as its club's owner, its more extreme members become more prototypical of it, so a vocal minority can fix the fanbase's public stance through a group process and not only through biased sampling of who speaks

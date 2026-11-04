@@ -26,7 +26,7 @@ used_by:
 - CLAIM-358
 - CLAIM-441
 ---
-<!-- inactive-ok-file: CLAIM-163 QUESTION-077 QUESTION-078 CLAIM-261 CLAIM-358 CLAIM-364 CLAIM-362 — Proposed or Open; the objection, questions and claims this term is set beside -->
+<!-- inactive-ok-file: CLAIM-163 CLAIM-358 CLAIM-364 CLAIM-362 — Proposed or Open; the objection, questions and claims this term is set beside -->
 
 # TERM-061: practical synchronization: an agent's action-generating regimes, relative to a context and a horizon, sustaining mutually compatible courses of activity through their own interactions, without recurrent overriding arbitration by a higher level, whether or not they rank the same course first
 
