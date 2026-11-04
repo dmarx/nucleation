@@ -214,3 +214,19 @@ cause. It leaves open the rest: the categories partition and do not
 overlap, and the evidence is adults' predictions and sorts in one
 paradigm, not an organization's responses to interventions on its
 records, membership and authority. No status changes.
+
+## Note of 2026-11-04: Gershman, Blei & Niv, "Context, learning, and extinction", read
+
+Gershman, Blei & Niv (2010), LIT-tmpdnjkj, read in NOTE-tmpn30ni, give a worked case of inferring latent causes from observations without fixing their number in advance: a Chinese restaurant process mixture. Each observation belongs to exactly one cause, so it cannot represent overlapping perspectives. The authors defend that choice against product-style models (pp. 204–205), and a product-style model is what this question needs. It leaves open the feature-allocation counterpart. No status changes.
+
+## Note of 2026-11-04: Körding, Beierholm, Ma, Quartz, Tenenbaum and Shams, "Causal Inference in Multisensory Perception", read
+
+Körding et al. (2007), LIT-tmpb2oz9, read in NOTE-tmp53s7s, is a minimal case of telling a common cause from independent sources by inference from behaviour. Their observer computes the posterior probability that a visual and an auditory cue share a cause, which the paper says "amounts to a Bayesian model selection problem", and the model fits localization responses better than forced fusion or forced segregation. It qualifies the question rather than answering it: there are two candidate structures, one cause or two, fixed in advance, and their prior is a constant fitted per dataset, so nothing is learned about how many structures there are. It leaves open how the structures, and how many, would be inferred. No status changes.
+
+## Note of 2026-11-04: Collins and Frank, "Cognitive control over learning", read
+
+LIT-tmpe9iv8, read in NOTE-tmpi89bb, qualifies this question. Its context–task-set model infers a growing number of latent rules from behaviour alone, under a Chinese-restaurant-process prior, with the number not fixed in advance; the clusters are identified only by the stimulus–action–outcome contingencies they condition, not by how the contexts look. The paper's own validation is that the model, fitted to a neural network's choices, recovers the number of prefrontal "stripes" the network used without access to them: a precedent for checking an inferred latent structure against a known one. It leaves the rest open: the structure is a partition, not an overlapping feature allocation; which input dimension is the context is given to the model, or read from a reaction-time proxy; and nothing separates the inferred structure from coactivity that a common cause produces. No status changes.
+
+## Note of 2026-11-04: Collins, Cavanagh and Frank, "Human EEG Uncovers Latent Generalizable Rule Structure", read
+
+LIT-tmp199ym, read in NOTE-tmptsczp, qualifies this question. It corroborates a latent structure, the task-set organization each participant built incidentally, through several observables at once: behavioural transfer, lateral-prefrontal switch potentials stratified by the structure, and a classifier trained on a separate task, two of which covary with later generalization. It also shows the limit. The latent assignment itself comes from a behavioural switch-cost proxy, the indices agree with each other only marginally (ρ = 0.33, p = 0.068), and the sample is Collins and Frank's (2013) Experiment 2, so the corroboration is within one dataset. It leaves open whether observables that are independent in this sense can tell a constructed structure from a common cause. No status changes.

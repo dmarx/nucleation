@@ -1,0 +1,194 @@
+---
+status: Read
+paper: 'LIT-tmp199ym'
+title: 'Collins, Cavanagh & Frank — Human EEG uncovers latent generalizable rule structure'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Read in full on 2026-11-04 from the publisher's typeset PDF (pp.
+    4677–4685) posted on the publications page of the first author's lab
+    (https://ccn.berkeley.edu/pdfs/papers/CollinsCavanaghFrank_2014JN_EEG_StructureLearning.pdf),
+    text extracted by pdftotext, with quotes checked against a
+    reading-order extraction. The journal's own PDF met a Cloudflare
+    challenge and was not retried; PMC and Europe PMC were not tried after
+    both challenged the reading of Collins and Frank (2013). Read: the
+    whole paper, Methods, Results, Discussion and all figure captions. Not
+    read: the reference list, scanned only. There is no supplement. Page
+    numbers below are the journal's.
+date: '2026-11-04'
+summary: >-
+  EEG during the structure-transfer task of Collins and Frank (2013), in
+  that paper's Experiment 2 participants (N = 35 behavioural, 33 ERP, 32
+  classification). Each participant's context dimension was read online
+  from switch-costs. A late right lateral-prefrontal negativity marked
+  switches of that dimension only, and did not predict transfer; an early
+  switch positivity, absent at group level, and decoded attention to the
+  context dimension each correlated with later positive transfer across
+  participants (ρ = 0.5, ρ = 0.35), and with each other only marginally.
+  The 2013 network gives a qualitative anterior/early, posterior/late
+  match.
+---
+<!-- inactive-ok-file: THEORY-tmpiosxd THEORY-484 CLAIM-262 — Proposed or new; cited from the reading of Collins, Cavanagh and Frank (2014) as open -->
+
+# NOTE-tmptsczp: Collins, Cavanagh & Frank — Human EEG uncovers latent generalizable rule structure
+
+## Contribution
+
+Collins and Frank (2013), LIT-tmpe9iv8, inferred from behaviour alone that
+people build latent task-set structure into a learning problem that does
+not reward it. This paper looks for that structure in the brain, with two
+theory-driven ERP markers and one data-driven decoder, each stratified by
+the structure inferred from the participant's own switch-costs, two of
+which covary with how much the participant later generalizes.
+
+## Key insight
+
+If people build task-sets incidentally, the task-switch potentials known
+from instructed rule switching should appear for switches of whichever
+dimension a participant has made the context, and not for the other. They
+do, and how strongly early markers of that structure show goes with how
+much the participant later transfers. In the abstract's words, "Both neural
+markers were predictive of participants' ability to subsequently generalize
+rule structure to new contexts" (p. 4677), where predictive means a
+correlation across participants.
+
+## Assumptions
+
+- **The same participants as the 2013 Experiment 2 (p. 4679).** Forty
+  recruited, two lost to software problems and three excluded for
+  inattention, N = 35, matching Experiment 2 of LIT-tmpe9iv8: "Behavioral
+  results for the first block, during which subjects are naive to task
+  structure and thus incidental structure learning can be tested, were
+  reported by Collins and Frank, 2013." Here all three blocks are reported,
+  with EEG. It is not an independent sample.
+- **The proxy.** Each participant's high (context) dimension is read from
+  the online reaction-time switch-cost asymmetry; the transfer design, the
+  high/low relabelling and every EEG contrast depend on it.
+- **Instructed-switch ERPs carry over.** Lateral-prefrontal task-switch
+  potentials from the instructed task-switching literature are taken to
+  index switches of self-constructed task-sets.
+- **The localizer carries over.** Attention patterns from a separate
+  colour-versus-shape attention task transfer to the learning task, so
+  decoded attention to the high dimension is a marker of structure.
+- **The model mapping.** The 2013 network's anterior and posterior PFC
+  layers are mapped onto anterior and posterior scalp and source effects.
+
+## Key results
+
+- **Behaviour.** The 2013 effects replicated across all three blocks:
+  positive transfer t = 2.3, p = 0.029; neglect-high errors greater for the
+  new context needing a new task-set (t = 2.64, p = 0.01), already in naive
+  block 1. 19 participants showed robust transfer and 16 none.
+- **Late negativity (p. 4681).** Over right dorsolateral PFC, larger for
+  switches of the high dimension than stays, no effect for the low
+  dimension (p > 0.7): "Thus, this neural signature is sensitive only to
+  change in high-level TS and not to the stimulus or action." Localized to
+  the right superior and medial frontal gyri. It did not predict transfer.
+- **Early positivity (pp. 4681–4682).** A P2–N1 switch-high positivity
+  "was not evident across the entire group of subjects within lateral
+  prefrontal cortex ROI but was observable selectively in those
+  participants most likely to structure the task hierarchically"; its size
+  correlated with positive transfer (Spearman ρ = 0.5, p = 0.003).
+  "Critically, transfer was only predicted by ERP to switches of the high
+  dimension" (p. 4682).
+- **Decoding (pp. 4683–4684).** A LASSO classifier trained on the
+  localizer, applied to the learning task: "the classifier was more likely
+  to predict attention to shape in those participants for whom shape was
+  the high dimension" (GLM, p = 0.007), and the degree of this correlated
+  with positive transfer (ρ = 0.35, p < 0.05).
+- **Agreement (p. 4684).** "Classification of high dimension was also
+  marginally correlated with the early positivity switch-H effect" (ρ =
+  0.33, p = 0.068).
+- **Anterior and posterior.** The early positivity was stronger
+  anteriorly (p < 0.05); the late negativity significant only posteriorly,
+  but the anterior–posterior difference was not significant. The 2013
+  network gives an early high-switch effect in its anterior PFC layer and a
+  late one in its posterior layer, which the authors read as matching.
+- **The authors' reading (Fig. 7 caption, p. 4683).** "These indices are
+  correlated with each other (full gray arrows), suggesting that they
+  reflect the same underlying construct."
+
+## Concepts
+
+- **Task-set (TS)**: "some features of the environment act as higher-order
+  contexts indicative of the valid rule or “task-set” (TS), whereas others
+  act as lower-order stimuli indicative of the valid action given the rule"
+  (p. 4677).
+- **High (H) and low (L) dimension**: the dimension the participant
+  treats as context, and the one treated as stimulus, as assigned by
+  switch-cost.
+- **Incidental structure**: hierarchical structure built when the learning
+  problem gives it no advantage.
+- **Positive and negative transfer**: better early accuracy for H3, which
+  signals an old task-set, than for H4; and in H4 "abusive generalization
+  of a known TS partially overlapping with the new TS" (p. 4681), excess
+  neglect-high errors.
+- **Early positivity and late negativity**: the P2 peak (224–236 ms) minus
+  the N1 trough (152–172 ms), read as task-set updating; and the
+  negativity at 450–609 ms, read as stimulus-contextualized task-set
+  reconfiguration.
+
+## Connections
+
+It extends Collins and Frank (2013), LIT-tmpe9iv8, using its task, its
+participants and its network model; it draws on the instructed
+task-switching ERP literature and on rostro-caudal accounts of
+prefrontal hierarchy.
+
+## Bearing on the record
+
+- **The synthesis's characterization.** A wrote that "A related 2014 EEG
+  study found neural signals corresponding to participants' inferred rule
+  structures, with those signals predicting later generalization", folded
+  into a sentence presented as a quotation of Collins and Frank (2013);
+  the sentence is A's paraphrase, and the work is by three authors. Right:
+  the ERPs were stratified by each participant's inferred structure, and
+  two markers covaried with later transfer. Overstated: "predicting" is a
+  cross-subject correlation, not out-of-sample prediction; the headline
+  late negativity did not predict transfer; the early positivity was not
+  present at group level; the two predictive markers agree only marginally;
+  several topographic effects are uncorrected; and the structures are
+  inferred from behavioural switch-costs, so the EEG is stratified by a
+  behavioural proxy, with only the classifier near an independent readout.
+  Missing: the authors; that the participants are the 2013 paper's
+  Experiment 2 (N = 35); the decoding result; the anterior/posterior
+  dissociation; the half who did not transfer.
+- **THEORY-484 (options-based hierarchical RL, DLPFC coding the active
+  option): qualifies, does not move it.** This is correlational evidence of
+  task-set coding in lateral PFC, the kind THEORY-484's promotion condition
+  says cannot settle it, and of a within-trial state-abstraction hierarchy
+  rather than a temporal options hierarchy.
+- **QUESTION-276 (identifying latent higher-level structure from members'
+  activity): qualifies.** A concrete case of corroborating a latent
+  structure through several observables (behaviour, ERPs, a decoder
+  trained elsewhere), and of the limit: the latent assignment itself comes
+  from a behavioural proxy, and the indices agree only marginally.
+- **CLAIM-262 (discrete switches or continuous reorganization):
+  adjacent.** Task-set switch potentials are a neural signature of discrete
+  regime switching.
+- **THEORY-688**: the same analogy as for the 2013 paper, through negative
+  transfer. **THEORY-245**, the record's nearest prefrontal decoding result,
+  is about consciousness and unrelated in substance. **LIT-563** (HDDM)
+  shares only authors.
+- Filed: THEORY-tmpiosxd. No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The authors' own.** "spatial limitations of EEG technique preclude
+  more accurate estimation of true generative sources" (p. 4683), and they
+  call for fMRI; the anterior–posterior difference for the late negativity
+  was not significant.
+- **Not a new sample**: the participants of the 2013 Experiment 2.
+- **Modest N** (33 for ERP, 32 for classification), with uncorrected
+  topographic statistics, and an early-positivity window chosen from the
+  grand average.
+- **Display and omission.** The median split is for display; the medial
+  PFC result, additive responses to switches of either dimension, is
+  "data not shown".
+- **Proxy-bound.** Everything is conditioned on assigning the high
+  dimension from switch-costs.
+- **Qualitative model link.** The network's EEG predictions are
+  qualitative only.

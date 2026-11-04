@@ -1,0 +1,232 @@
+---
+status: Read
+paper: 'LIT-tmpe9iv8'
+title: 'Collins & Frank — Creating, clustering and generalizing task-set structure'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Read on 2026-11-04 from the publisher's typeset PDF (APA, 40 pages,
+    pp. 190–229) posted on the publications page of the first author's lab
+    (https://ccn.berkeley.edu/pdfs/papers/CollinsFrank2013PsychReview.pdf),
+    text extracted by pdftotext. The Europe PMC and PMC copies of the NIH
+    author manuscript (PMC3974273) met a Cloudflare challenge and a
+    reCAPTCHA, the authors' former Brown host failed TLS through the proxy,
+    and none was retried. Read in full: the main text, pp. 190–219
+    (introduction, the C-TS model, the neural network, the linking
+    analysis, Experiments 1–2, the Discussion and the Conclusion) and all
+    figure captions. Not read: Appendices A–B (pp. 222–229: the model
+    equations, the generalized-structure mixture and the network
+    equations), the online supplement and the references. Page numbers
+    below are the journal's.
+date: '2026-11-04'
+summary: >-
+  A theoretical paper with two behavioural experiments (N = 33, N = 35).
+  The C-TS model clusters contexts onto latent task-sets under a
+  Chinese-restaurant-process prior, approximately: one task-set
+  assignment per trial, never revised. A two-loop corticostriatal network
+  learning by reinforcement alone behaves like it, with network parameters
+  mapping onto model parameters. Where flat learning is as good during
+  acquisition, people still built structure: positive transfer to a new
+  context signalling an old task-set in both experiments, and negative
+  transfer to one needing a partly overlapping task-set, significant over
+  the whole group only in Experiment 1. Experiment 2's participants are
+  those re-analysed with EEG in Collins, Cavanagh and Frank (2014).
+---
+<!-- inactive-ok-file: THEORY-tmp34zny THEORY-484 THEORY-339 THEORY-070 CASE-165 CLAIM-262 — Proposed or new; cited from the reading of Collins and Frank (2013) as open -->
+
+# NOTE-tmpi89bb: Collins & Frank — Creating, clustering and generalizing task-set structure
+
+## Contribution
+
+The paper carries Chinese-restaurant-process clustering, known from
+category learning, into the learning of task-sets: abstract rules that say
+which action each stimulus calls for in a context. Contexts are clustered
+by the stimulus–action–outcome contingencies they share, not by perceptual
+similarity. Beside the model it gives a process-level corticostriatal
+implementation with a quantitative mapping between the two levels, and a
+paradigm that measures *incidental* structure building through transfer,
+the pattern of errors and reaction-time switch-costs.
+
+## Key insight
+
+People build latent rule structure into a learning problem even when
+nothing during learning rewards it; the structure is invisible while they
+learn and shows only when a new context arrives, as faster learning when
+the context fits an old task-set and as characteristic errors when it
+partly overlaps one. In the abstract's words, "the models suggest that
+participants spontaneously build task-set structure into a learning
+problem when not cued to do so, which predicts positive and negative
+transfer in subsequent generalization tests" (p. 190).
+
+## Assumptions
+
+- **The C-TS model (pp. 193–195).** Contexts are assigned to task-sets
+  under a CRP prior: a new task-set with weight α, an existing one in
+  proportion to its popularity across contexts. Each task-set holds
+  Beta–Bernoulli stimulus–action–reward estimates. After feedback the trial
+  is assigned to the most probable task-set and never reassigned.
+- **The split is given.** Which dimension is context and which stimulus is
+  given to C-TS and to the network; only the generalized-structure mixture
+  infers it.
+- **Stationarity.** The context–task-set mapping does not change; C-TS has
+  no trial-to-trial dependence in task-set selection, while the network's
+  PFC activity persists across trials.
+- **The network.** An anterior PFC–BG loop gates abstract PFC "stripes",
+  playing task-sets; a posterior PMC–BG loop gates actions given the
+  stimulus and the PFC state. "Diagonal" projections from PFC to the motor
+  STN and motor striatum are assumed, supported by citations to evidence
+  of integration across loops.
+- **The proxy.** Each subject's higher-order dimension is read from the
+  asymmetry of reaction-time switch-costs in the asymptotic learning phase;
+  the subject grouping of Experiment 1 and the test design of Experiment 2
+  rest on it.
+- **The samples (pp. 207, 214).** Experiment 1: 38 recruited, 5 excluded
+  for inattention, N = 33. Experiment 2: 40 recruited, 2 lost to software
+  problems and 3 excluded, N = 35, each subject running the experiment
+  three times with different shapes and colours. Collins, Cavanagh and
+  Frank (2014), LIT-tmp199ym, re-analyse these Experiment 2 participants
+  with EEG.
+
+## Key results
+
+- **Model (abstract, p. 190).** A C-TS model "inspired by nonparametric
+  Bayesian methods, specifying how the learner might infer hidden
+  structure (hierarchical rules) and decide to reuse or create new
+  structure in novel situations".
+- **Not optimal inference (p. 194).** "We do not propose that humans solve
+  the inference problem posed by such a generative model"; "we collapse the
+  joint posterior on a single high probability task-set assignment".
+- **The reuse prior (p. 194).** "the probability of reusing one of the
+  known task-sets is proportional to the popularity of that task-set across
+  multiple other contexts".
+- **Linking the levels (p. 206).** Fitting C-TS to the network's choices
+  recovers its structure; STN strength moves task-set selection noise, the
+  PFC–striatum diagonal moves within-task-set noise, context–PFC
+  connectivity moves α, and the motor striatal learning rate moves the
+  prior strength. The network "represents a reasonable approximate
+  implementation of the formal information manipulations executed by the
+  high-level computational model".
+- **Positive transfer, Experiment 1 (pp. 208–209).** "we observed
+  moderately but significantly faster learning in the transfer (C3)
+  condition relative to the new (C4)" (t = 2.37, p = .024).
+- **Switch-cost predicts transfer (p. 211).** r = .39, p = .019. Split by
+  switch-cost, Group 1 (highest colour switch-cost, n = 11) shows positive
+  transfer and the neglect-context error interaction; Group 3 shows no
+  transfer, as the shape-as-context model predicts; Group 2, with no
+  switch-cost asymmetry, unexpectedly shows transfer (t = 2.53, p = .029).
+- **Individual differences are not in α (p. 213).** "individual
+  differences in transfer were not due to differential tendencies to
+  revisit previous task-sets but instead seem to reflect differences in the
+  prior tendencies".
+- **Fits (pp. 212–213).** Fitted to the asymptotic-learning and test-phase
+  trials only, by AIC and pseudo-r²; "Mean pseudo-r2 was 0.58." and
+  "Differences in fit values are small because model prediction
+  differences are limited to few trials mostly in the beginning of the test
+  phase." Structure beat flat for Groups 1 and 3, not Group 2.
+- **Experiment 2 (p. 214).** Positive transfer replicated; "Although the
+  interaction typical of negative transfer was not significant, we got a
+  similar trend".
+- **Errors after a switch (p. 216).** "errors following task-set switches
+  more often result from inappropriate application of the task-set to the
+  current stimulus than to perseveration of the previous trial's task-set".
+- **Structure is costly here (p. 215).** "the tendency to create structure
+  does not seem optimal in terms of quantity of information to be stored and
+  complexity of the model needed to represent structure".
+
+## Concepts
+
+- **Task-set**: "abstract constructs that signify appropriate
+  stimulus–response groupings in a given context" (p. 190); latent,
+  independent of the context that cues it, never directly reinforced.
+- **Context and stimulus; high and low dimension**: the input dimension
+  that cues the task-set, and the one mapped to an action within it.
+- **α**: the CRP concentration; lower α means more reuse.
+- **Error types**: neglect-context (NC) errors, correct under another
+  context, so a wrong task-set applied; neglect-stimulus (NS) errors,
+  within the task-set; neglect-all (NA).
+- **Positive and negative transfer**: faster learning for C3, which signals
+  an old task-set, and excess neglect-context errors for C4, whose rule
+  partly overlaps old ones.
+- **Rival accounts**: flat, dimension-expert and action-set models, each
+  predicting no transfer or transfer without the negative-transfer error
+  pattern.
+
+## Connections
+
+It takes the CRP from Bayesian nonparametrics, citing among others the
+nested-CRP paper (LIT-1542), though C-TS uses a flat CRP over task-sets;
+the latent-cause family of Gershman, Blei and Niv (2010); category
+learning models; and the corticostriatal gating models of the authors'
+lab. It sets itself against hierarchical reinforcement learning with
+options, citing Botvinick (2008) rather than Botvinick, Niv and Barto
+(2009), LIT-581 (NOTE-451). Collins, Cavanagh and Frank (2014),
+LIT-tmp199ym, is its EEG follow-up on Experiment 2's participants.
+
+## Bearing on the record
+
+- **The synthesis's characterization.** Right: a context–task-set model
+  inspired by Bayesian nonparametric clustering; inferring hidden
+  task-sets, reusing them in new contexts or creating new ones;
+  predictions of positive and negative transfer; per-subject fits to
+  choice sequences; an EEG follow-up in 2014. Its quoted sentence,
+  "Behavioral experiments supported these predictions, and the model fit
+  individual sequences of choices", is A's paraphrase, not the paper's.
+  Overstated: positive transfer replicated but is modest, and negative
+  transfer was only a trend over the whole group in Experiment 2; the fits
+  covered only asymptotic and test trials, with "small" differences, and
+  structure did not beat flat for Group 2. Missing: that C-TS is
+  explicitly not optimal inference; the network and the mapping between
+  levels, half the paper; that errors after a switch are mostly
+  within-task-set; that structure is costly during acquisition here.
+  Wrong only in implication: the 2014 study is of the same participants
+  as Experiment 2 (N = 35), not a new sample.
+- **QUESTION-276 (identifying latent higher-level perspectives without
+  fixing their number): qualifies.** A worked case of inferring a growing
+  number of latent rules from behaviour alone, identified only by the
+  contingencies they condition; and the C-TS fit to network choices
+  recovers the number of PFC stripes used without access to them. But it
+  is a partition, not the overlapping allocation the question asks for.
+- **THEORY-484 (options-based hierarchical RL in the brain): qualifies.**
+  The paper says the options framework "does not consider structure in the
+  state space for determining which policy applies" (p. 218), and that a
+  task-set is like an option only when actions change the state. Task-set
+  selection maps to anterior PFC, but as within-trial state abstraction,
+  not temporal abstraction.
+- **THEORY-688 (options help only with the right subroutines): supports,
+  by analogy.** The same double edge for reused structure: positive
+  transfer when a new context fits an old task-set, negative when it partly
+  overlaps one.
+- **THEORY-339 (reuse of earlier computation carries its error): supports,
+  by analogy.** Negative transfer is error carried by reuse.
+- **THEORY-070 (expected value of control): adjacent.** The paper asks
+  why people engage control that does not pay during learning, and
+  suggests long-run payoff through generalization; in tension with a
+  purely immediate cost–benefit account, though discounted future payoff
+  could absorb it.
+- **CLAIM-262 (discrete switches or continuous reorganization): adjacent.**
+  Task-set switching with persistent PFC states, and a measurable
+  switch-cost, is a case of discrete switching.
+- **LIT-1542 and CASE-165: related, not supporting.** A flat CRP, not a
+  nested CRP or an Indian buffet prior.
+- **QUESTION-328 (latent-cause models of avoidance): adjacent** through the
+  latent-cause family; it does not bear directly.
+- **LIT-563 (NOTE-466), HDDM: unrelated** beyond the shared lab.
+- Filed: THEORY-tmp34zny. No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The authors' own.** The approximation cannot reassign past trials to a
+  different hidden state (p. 216), one candidate explanation for Group 2;
+  stationarity, with no sequential or working-memory structure in C-TS;
+  the network learns only about the task-set it gated, while C-TS updates
+  all; the Dirichlet-process prior itself, reuse in proportion to
+  popularity, is untested in humans and left to future work.
+- **Group 2**, transfer without a switch-cost asymmetry, is unexplained.
+- **Modest effects**, with N of 33 and 35 and several uncorrected post hoc
+  tests.
+- **Rival models** were tested more qualitatively than quantitatively.
+- **The proxy.** Assigning the high dimension from switch-costs is a proxy
+  that the later inference relies on.
