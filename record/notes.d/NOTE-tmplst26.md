@@ -83,15 +83,15 @@ dyscontrol" (p. 504).
 ## Connections
 
 It restates Linehan (1993), which the record holds as the manual's later
-edition unread (LIT-1492), and her 1987 paper unread (LIT-1221). Linehan's
+edition unread ([LIT-1492](../literature.d/LIT-1492.md)), and her 1987 paper unread ([LIT-1221](../literature.d/LIT-1221.md)). Linehan's
 grouping of the criteria into five areas of dysregulation is not stated in
 the pages read.
 
 ## Bearing on the record
 
-It grounds CLAIM-tmp99a8m, the DBT reading of "cognitive dysregulation"
+It grounds [CLAIM-tmp99a8m](../claims.d/CLAIM-tmp99a8m.md), the DBT reading of "cognitive dysregulation"
 in the owner's U29, as an alternative beside A29's attentional reading
-(CLAIM-286's note of 2026-11-04). THEORY-922 and QUESTION-307 are the
+([CLAIM-286](../claims.d/CLAIM-286.md)'s note of 2026-11-04). [THEORY-922](../theory.d/THEORY-922.md) and [QUESTION-307](../questions.d/QUESTION-307.md) are the
 record's DBT data on skills; this bears on what the skills are meant to
 regulate, not on whether they work.
 

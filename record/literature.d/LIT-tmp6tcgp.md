@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-04 (NOTE-tmplst26) from the publisher's PDF posted on
+  skimmed 2026-11-04 ([NOTE-tmplst26](../notes.d/NOTE-tmplst26.md)) from the publisher's PDF posted on
   the first author's page at the University of Utah; worth keeping as a
   statement of Linehan's biosocial theory with Linehan as an author, which
-  the record otherwise holds only unread (LIT-1221, LIT-1492). Emotion
+  the record otherwise holds only unread ([LIT-1221](LIT-1221.md), [LIT-1492](LIT-1492.md)). Emotion
   dysregulation, as heightened sensitivity, intense response and slow
   return to baseline, is the core, and distorted information processing
   and an inability to organize toward goals that do not depend on mood
@@ -71,6 +71,6 @@ Crowell, Beauchaine and Linehan (2009) — doi:10.1037/a0015616
 
 ## Standing in the record
 
-It grounds CLAIM-tmp99a8m, the DBT reading of "cognitive dysregulation"
-that the owner asked for beside A29's attentional one (CLAIM-286's note
+It grounds [CLAIM-tmp99a8m](../claims.d/CLAIM-tmp99a8m.md), the DBT reading of "cognitive dysregulation"
+that the owner asked for beside A29's attentional one ([CLAIM-286](../claims.d/CLAIM-286.md)'s note
 of 2026-11-04).
