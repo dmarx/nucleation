@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**815 documents cited without acknowledgement.** Not listed: 15565 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**815 documents cited without acknowledgement.** Not listed: 15668 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1417,7 +1417,7 @@ Under a deadline, search can establish presence by finding one item but absence 
 
 Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward
 
-28 citations in 18 files await a look; 3 other citations of it are acknowledged.
+28 citations in 18 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-107.md:125`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-338.md:61`](../../record/claims.d/CLAIM-338.md)
@@ -1984,7 +1984,7 @@ Freedom of will and autonomy come in degrees along several dimensions, among the
 
 Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
 
-14 citations in 12 files await a look; 110 other citations of it are acknowledged.
+14 citations in 12 files await a look; 119 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-283.md:143`](../../record/claims.d/CLAIM-283.md)
 - [`record/claims.d/CLAIM-437.md:159`](../../record/claims.d/CLAIM-437.md)
@@ -3537,7 +3537,7 @@ Analysis of Boolean Functions
 
 Cumulative cultural evolution in the laboratory
 
-7 citations in 5 files await a look; 3 other citations of it are acknowledged.
+7 citations in 5 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-066.md:32`](../../record/claims.d/CLAIM-066.md)
 - [`record/literature.d/LIT-768.md:97`](../../record/literature.d/LIT-768.md)
@@ -3579,7 +3579,7 @@ Emotion regulation is not a process separate from emotion generation: most of it
 
 How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control
 
-7 citations in 3 files await a look; 37 other citations of it are acknowledged.
+7 citations in 3 files await a look; 42 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-027.md:182`](../../record/claims.d/CLAIM-027.md)
 - [`record/decisions.d/ADR-061.md:143`](../../record/decisions.d/ADR-061.md)
@@ -4780,7 +4780,7 @@ Our judgments that consciousness poses a hard problem are behaviour, so explaini
 
 If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown
 
-5 citations in 1 file await a look; 2 other citations of it are acknowledged.
+5 citations in 1 file await a look; 4 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-161.md:14`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:15`](../../record/questions.d/QUESTION-161.md)
@@ -4828,7 +4828,7 @@ Weak emergence of a macro variable from micro variables can be measured as its G
 
 Consciousness in an inferring system requires three things: a unified generative model of its world; entry to that model by a precision-weighted competition that coherent inferences win; and epistemic depth, the recursive sharing of the model back through the hierarchy, carried by a hyper-model that predicts and sets precision at every level; awareness then varies with epistemic depth, not with the richness of contents, and a first-person perspective, a self-model and agency are not required
 
-5 citations in 5 files await a look; 11 other citations of it are acknowledged.
+5 citations in 5 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-412.md:346`](../../record/claims.d/CLAIM-412.md)
 - [`record/claims.d/CLAIM-414.md:155`](../../record/claims.d/CLAIM-414.md)
@@ -6890,7 +6890,7 @@ Identifying how governing rules are maintained from diagnostic probes: a predict
 
 A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs
 
-2 citations in 2 files await a look; 72 other citations of it are acknowledged.
+2 citations in 2 files await a look; 85 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1622.md:90`](../../record/literature.d/LIT-1622.md)
 - [`record/literature.d/LIT-1628.md:100`](../../record/literature.d/LIT-1628.md)
@@ -6962,7 +6962,7 @@ Northstar simply prefers speed: the governing relations are revealed preferences
 
 Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable
 
-2 citations in 2 files await a look; 14 other citations of it are acknowledged.
+2 citations in 2 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1895.md:65`](../../record/literature.d/LIT-1895.md)
 - [`record/literature.d/LIT-768.md:45`](../../record/literature.d/LIT-768.md)
@@ -7889,7 +7889,7 @@ In animal development the organ-level outcome is reproducible while the trajecto
 
 When an abstraction map between two causal models is learned by optimal transport from paired interventional distributions, a transport cost that rewards pairs of states compatible with the same paired interventions gives much lower held-out abstraction error than a Hamming cost when the intervention set is rich, and higher error when it holds only a few, because with few interventions the compatibility cost is nearly uniform
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-1342.md:278`](../../record/notes.d/NOTE-1342.md)
 - [`record/theory.d/THEORY-1123.md:78`](../../record/theory.d/THEORY-1123.md)
@@ -8150,7 +8150,7 @@ Under class imbalance the last-layer geometry that unregularized cross-entropy p
 
 People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/questions.d/QUESTION-121.md:88`](../../record/questions.d/QUESTION-121.md)
 - [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
@@ -8532,7 +8532,7 @@ Sharing a kind is symmetric and blind to which work is the source, so the Octobe
 
 Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-074.md:88`](../../record/cases.d/CASE-074.md)
 
@@ -9868,7 +9868,7 @@ Agents arrange their surroundings so that perception and choice take the place o
 
 Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/theory.d/THEORY-343.md:132`](../../record/theory.d/THEORY-343.md)
 
@@ -9956,7 +9956,7 @@ A group agent's attitudes are real and non-redundant: each group belief needs me
 
 A system believes and desires when its behaviour is reliably and voluminously predictable by treating it as a rational agent with the beliefs and desires it ought to have, and the success of that strategy is an objective fact though adopting it is free; the more richly a system is connected to its world, the fewer interpretations fit, so thermostat and person differ in degree
 
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-079.md:76`](../../record/terms.d/TERM-079.md)
 

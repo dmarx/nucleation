@@ -2,7 +2,7 @@
 
 # Lines of work
 
-85 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+87 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -309,6 +309,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-1942](../record/literature.d/LIT-1942.md) — The myth of cognitive agency: subpersonal thinking as a cyclically recurring loss of mental autonomy *(Active)*
   - [LIT-1941](../record/literature.d/LIT-1941.md) — M-Autonomy *(Active)*
     - [LIT-1945](../record/literature.d/LIT-1945.md) — The Problem of Mental Action: Predictive Control without Sensory Sheets *(Active)*
+
+### From Cognitive control over learning: Creating, clustering, and generalizing task-set structure
+
+- [LIT-2012](../record/literature.d/LIT-2012.md) — Cognitive control over learning: Creating, clustering, and generalizing task-set structure *(Active)*
+  - [LIT-2007](../record/literature.d/LIT-2007.md) — Human EEG Uncovers Latent Generalizable Rule Structure during Learning *(Active)*
 
 ### From Psychological Predicates
 
@@ -667,6 +672,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## learning-and-conditioning
 
+### From Cognitive control over learning: Creating, clustering, and generalizing task-set structure
+
+- [LIT-2012](../record/literature.d/LIT-2012.md) — Cognitive control over learning: Creating, clustering, and generalizing task-set structure *(Active)*
+  - [LIT-2007](../record/literature.d/LIT-2007.md) — Human EEG Uncovers Latent Generalizable Rule Structure during Learning *(Active)*
+
+### From A Bayesian foundation for individual learning under uncertainty
+
+- [LIT-2016](../record/literature.d/LIT-2016.md) — A Bayesian foundation for individual learning under uncertainty *(Active)*
+  - [LIT-2015](../record/literature.d/LIT-2015.md) — Uncertainty in perception and the Hierarchical Gaussian Filter *(Active)*
+
 ### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
 
 - alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Unavailable)*
@@ -1023,6 +1038,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1833](../record/literature.d/LIT-1833.md) — Multi-Level Cause-Effect Systems *(Active)*
   - [LIT-1834](../record/literature.d/LIT-1834.md) — Causal feature learning: an overview *(Active)*
+
+### From A Bayesian foundation for individual learning under uncertainty
+
+- [LIT-2016](../record/literature.d/LIT-2016.md) — A Bayesian foundation for individual learning under uncertainty *(Active)*
+  - [LIT-2015](../record/literature.d/LIT-2015.md) — Uncertainty in perception and the Hierarchical Gaussian Filter *(Active)*
 
 ### From Life as we know it
 

@@ -6,7 +6,7 @@
 
 **Anthology candidate** — a curation flag, not a subject — somebody judged the Anthology of the SOTA may want this work as well; it stays here unless a transfer is decided, and is never a primary topic (ADR-005, ADR-048; group: flags).
 
-302 of 2006 LIT documents. Back to the [full index](../README.md).
+302 of 2018 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
