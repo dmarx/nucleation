@@ -67,6 +67,11 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
     luria new lit --title "..."   # or: note, theory, question, claim, case,
                                   # term, arg, adr, dp, changelog, curation, workbench
 
+<!-- inactive-ok: ADR-068 — Proposed until the owner adopts it -->
+ADR-068 holds the invariants for filing an exchange, a pasted synthesis, an
+upload or a work, and for reading registered works. Its steps are the
+`read-and-file` skill (`.claude/skills/read-and-file/SKILL.md`).
+
 `luria new` is the only command a contribution needs locally. Open the pull
 request early and push each commit as you make it. The pull request's
 `docs-check` job repairs the sources, pushes the repair onto the branch, and
