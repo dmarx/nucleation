@@ -678,7 +678,7 @@
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-10-22 | Deferred | [ADR-050](../../record/decisions.d/ADR-050.md) | 0 | 5 | 0 | A claim that calls something organized, a perspective, an agent, effective, exhausted, constituted or grounded says which sense, target or criterion it means |
-| 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 1 | 0 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
+| 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 4 | 0 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
 
 ## QUESTIONs
 
