@@ -68,7 +68,7 @@ outsiders has the second without the third. Morality-as-cooperation's
 group-loyalty domain ([THEORY-468](../theory.d/THEORY-468.md)) is a solution to the first problem,
 and it can work against the second. The synthesis cites Van Lange and
 Bergmann for the human case. Read, the review corroborates the first link
-only (THEORY-tmpmr4g4); ARG-tmpv5t3t gives the verdict.
+only ([THEORY-tmpmr4g4](../theory.d/THEORY-tmpmr4g4.md)); [ARG-tmpv5t3t](../arguments.d/ARG-tmpv5t3t.md) gives the verdict.
 
 The record's other entries put this in two places:
 

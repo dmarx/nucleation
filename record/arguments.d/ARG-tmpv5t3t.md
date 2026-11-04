@@ -14,12 +14,12 @@ grounds:
 concludes:
 - CLAIM-tmpjnqe9
 summary: >-
-  CLAIM-tmpjnqe9 was filed citing Van Lange and Bergmann (2026) as the
+  [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md) was filed citing Van Lange and Bergmann (2026) as the
   evidence the synthesis offers for its human case, before the review was
-  read. Read in NOTE-tmpeqzkm, the review carries one link in the claim
+  read. Read in [NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md), the review carries one link in the claim
   and not the claim. Rejected as an inference to the claim as titled. The
   link it does carry is recorded as corroboration
-  (THEORY-tmpmr4g4 corroborates CLAIM-tmpjnqe9), and the review is no
+  ([THEORY-tmpmr4g4](../theory.d/THEORY-tmpmr4g4.md) corroborates [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md)), and the review is no
   longer among the claim's grounds.
 ---
 <!-- inactive-ok-file: THEORY-tmpmr4g4 CLAIM-tmpjnqe9 — Proposed or new; the reading and the conclusion, cited as open -->
@@ -28,13 +28,13 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpjnqe9 separates three achievements: cooperation local to a group,
+[CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md) separates three achievements: cooperation local to a group,
 the persistence of several groups whose interests are opposed, and concern
 for those outside one's group. It says none secures the next, and that the
 first two can trade off. Its exact instance is Nowak's group-selection
-rule. As first filed, it cited Van Lange and Bergmann (LIT-tmpblw9a, then
-unread) as the human case. The reading is THEORY-tmpmr4g4, from
-NOTE-tmpeqzkm.
+rule. As first filed, it cited Van Lange and Bergmann ([LIT-tmpblw9a](../literature.d/LIT-tmpblw9a.md), then
+unread) as the human case. The reading is [THEORY-tmpmr4g4](../theory.d/THEORY-tmpmr4g4.md), from
+[NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md).
 
 ## Critical questions
 
@@ -61,8 +61,8 @@ NOTE-tmpeqzkm.
 ## What survives
 
 - **The first link, as corroboration.** Within-group cooperation can work
-  against relations between groups. That is THEORY-tmpmr4g4 corroborating
-  CLAIM-tmpjnqe9 (ADR-058). The claim does not rest on it, because its
+  against relations between groups. That is [THEORY-tmpmr4g4](../theory.d/THEORY-tmpmr4g4.md) corroborating
+  [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md) ([ADR-058](../decisions.d/ADR-058.md)). The claim does not rest on it, because its
   instance is Nowak's model.
 - **A finding the claim had not foreseen.** The trade-off is conditional.
   Favouritism "need not imply ... any harmful behaviour towards outgroups"
