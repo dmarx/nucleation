@@ -120,6 +120,20 @@ not a finding.
   - `rests_on` and `complements` point to CLAIMs only.
   - `grounds` points outside the claims: THEORY, CASE, LIT.
   - `bears_on` points to QUESTIONs (ADR-060).
+- **Support is an ARG** (ADR-061). When the filing says something about
+  whether one entry supports another, file an ARG with a `form`,
+  `grounds` and `concludes`, and answer the form's critical questions in
+  its body. Saying something about support means arguing it, doubting it,
+  or finding that a reading carries less than a claim cited it for. "X
+  does not show Y" is the ARG from X to Y, Rejected. A claim's own
+  `rests_on` needs no ARG.
+- **Independent evidence is `corroborates`** (ADR-058), on the THEORY,
+  when a reading supports a claim that does not rest on it. A reading the
+  claim needs is `grounds`. When a work cited before it was read turns
+  out to carry less, move it from `grounds` to `corroborates` and file
+  the ARG that says why.
+- **`rivals`** is only for accounts that cannot both be right. Accounts
+  that differ on which mechanism mattered most get a dated note instead.
 - **A QUESTION** needs a `line:`.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
