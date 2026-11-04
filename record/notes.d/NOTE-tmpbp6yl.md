@@ -1,0 +1,156 @@
+---
+status: Skimmed
+paper: 'LIT-tmpf2bau'
+title: 'van Leeuwaarden, Mathijsen and Zwart — Tutorial on the QED Halfin–Whitt regime'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Skimmed on 2026-11-04, as the stand-in for Halfin and Whitt (1981),
+    LIT-tmpodkh1, at the owner's request. Copy:
+    https://arxiv.org/pdf/1706.05397v2, arXiv v2 of 28 July 2019, 40 pages,
+    extracted with pdftotext. Read: the abstract, §1 Introduction, §2.1 on
+    many exponential servers, §3 on key QED properties and §4 on
+    dimensioning. Skipped: §2.2 on the bulk-service queue, §5 on
+    convergence rates, §6 on extensions (abandonments, finite waiting
+    space, strategic behaviour, networks, parameter uncertainty, load
+    balancing, general distributions; headings and occasional lines only),
+    proofs beyond §2.1, and the references. Page numbers are the arXiv
+    PDF's.
+date: '2026-11-04'
+summary: >-
+  A tutorial on the Quality-and-Efficiency-Driven regime. Staffing s = λ +
+  β√λ adds headroom of the order of the load's fluctuations; Halfin and
+  Whitt showed that under this scaling, and only under it, the M/M/s delay
+  probability has a limit strictly between zero and one, and that the
+  scaled number in system tends to a diffusion. Utilization then tends to
+  one while mean delay vanishes like 1/√s, the economies of scale of
+  pooling, and the limits give staffing rules within one server of the
+  exact optimum in the authors' examples.
+---
+<!-- inactive-ok-file: LIT-tmpodkh1 THEORY-tmppfbrx THEORY-144 — Unavailable or Proposed; the unread original this tutorial stands in for, the account filed from this reading, and a held account it qualifies, cited as open -->
+
+# NOTE-tmpbp6yl: van Leeuwaarden, Mathijsen and Zwart — Tutorial on the QED Halfin–Whitt regime
+
+## Contribution
+
+An exposition of Halfin and Whitt's results, attributed to them throughout
+as [63], and of the many-server work that grew from them: how the square-
+root scaling arises from the Central Limit Theorem, what properties it
+gives, and how it is used to size capacity. It proves no new theorem about
+the M/M/s queue.
+
+## Key insight
+
+Capacity sized to mean load plus a multiple of the load's standard
+deviation, s = λ + β√λ, gets both high utilization and good service at
+scale. The rule "prescribes how to size capacity as a function of the
+offered load" (§1, p. 3), and it is the one scaling under which the chance
+of waiting neither vanishes nor tends to one.
+
+## Assumptions
+
+- Poisson arrivals at rate λ, i.i.d. exponential service with mean 1, s
+  identical servers, first come first served, unlimited waiting room
+  (§1–2.1).
+- Results are asymptotic, λ and s → ∞ together, or concern the steady
+  state; "care needs to be taken with regard to the finite-ness of the
+  system" (§1, p. 6).
+- The general many-sources rule of §3 needs independent sources with
+  finite variance.
+
+## Key results
+
+- **The square-root rule** (§1, p. 3): s = λ + β√λ, β > 0, with load per
+  server ρ = λ/s approaching 1.
+- **Three regimes** (§1, p. 4): efficiency-driven, where "Systems scaled
+  according to this rule value server efficiency over QoS"; quality-driven,
+  with significant idle time; and QED, which the authors say "strikes the
+  right balance between the two profound objectives of capacity
+  allocation" (p. 4).
+- **Halfin and Whitt's delay theorem** (§2.1, Prop. 2.1, p. 7): the
+  Erlang-C delay probability tends to g(β) = [1 + βΦ(β)/φ(β)]⁻¹ ∈ (0, 1) if
+  and only if (1 − ρ)√s → β. Halfin and Whitt "showed that this is in fact
+  the only scaling regime in which such a non-degenerate limit exists and
+  identified" its value.
+- **The diffusion limit** (§2.1, Thm 2.2, pp. 9–10): the centred, scaled
+  occupancy tends to a diffusion that "is a combination of a negative-drift
+  Brownian motion" above zero and an Ornstein–Uhlenbeck process below it;
+  its stationary distribution and the interchange of limits are credited to
+  Halfin and Whitt.
+- **Halfin and Whitt's own words**, as quoted (§1, p. 5): "The balance
+  between service and economy usually dictates that the probability of
+  delay be kept away from both zero and one".
+- **QED properties** (§3): the delay probability tends to a constant and
+  "the mean delay vanishes at rate" 1/√s (p. 14; also p. 8).
+- **Dimensioning** (§4, p. 16): choose β* so that g(β*) = ε; the resulting
+  staffing level "differs no more than by one server for all" targets in
+  the authors' figures.
+
+## Concepts
+
+- **QED regime**: a coupling of λ and s under which ρ → 1 while P(delay)
+  stays strictly between 0 and 1.
+- **ED and QD regimes**: most jobs delayed and little idle time, against
+  almost none delayed and much idle time (p. 4).
+- **Dimensioning**: adapting capacity to load to meet a performance target
+  (§4).
+- **Halfin–Whitt diffusion**: the limit process of Theorem 2.2.
+
+## Connections
+
+Registered as the stand-in for Halfin and Whitt (1981), LIT-tmpodkh1,
+which could not be found. Of that paper's results it restates, attributed
+and in formulas: the M/M/s square-root scaling; the iff condition
+(1 − ρ)√s → β for a non-degenerate delay probability, and the limit g(β);
+the process-level diffusion limit; its stationary distribution and the
+steady-state interchange; and one sentence quoted from the original.
+
+It does not restate the original's proofs (it says only that "the formal
+proof in Halfin & Whitt [63] relies on Stone's Theorem", p. 16), the
+original's treatment of other arrival processes and models, its numerical
+work, or its own statement of scope.
+
+Adjacent in method only: THEORY-1265, on approximating a chemical master
+equation by a Fokker–Planck or Langevin equation, the same move as this
+tutorial's diffusion limit of a birth–death chain, in another subject.
+
+## Bearing on the record
+
+- **CLAIM-520** (the value of keeping a corrective capacity is conditional
+  on objectives, uncertainty and cost): supports in kind. §4 sets headroom
+  by optimising a cost of capacity against a cost of delay, with an optimum
+  β*, so how much spare capacity is worth keeping is conditional on both.
+- **TERM-055** (operational availability): qualifies. P(delay) is the
+  chance that no server is free when a job arrives, an availability of
+  capacity across a population, with no cue and no deadline-specific
+  action. At most a special case.
+- **THEORY-144** (organizations drift toward the boundary and redundant
+  defences erode unobserved): qualifies. The QED regime is a principled
+  operating point near full utilization; operating near the boundary can be
+  efficient when capacity is pooled, which is not drift.
+- **A's characterization of Halfin and Whitt**, that it formalizes why
+  capacity must be considered relative to stochastic fluctuations, not
+  merely average demand: right in substance, since the headroom term is set
+  by fluctuations of order √λ. The "must" is A's: the result is asymptotic
+  and says exactly when the delay probability is non-degenerate, and the ED
+  and QD regimes are legitimate choices. A misses the economies of scale,
+  which tell against using the work for idle reserve: here the spare
+  capacity is busy nearly all the time. The link to emergency readiness is
+  A's, not the work's.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- The authors': results are asymptotic and need care in finite systems
+  (§1, §5).
+- This reading's: §5 and §6 were skimmed at most, proofs beyond §2.1 not
+  read, and Halfin and Whitt's own wording is checked only through the one
+  sentence quoted.
+
+## Open questions
+
+Whether Halfin and Whitt's paper states the M/M/s results as the tutorial
+reports them, and what it says for other arrival processes, needs
+LIT-tmpodkh1 read, perhaps from Whitt's own site.

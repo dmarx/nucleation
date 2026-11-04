@@ -80,6 +80,7 @@ supports:
 - CLAIM-361
 - CLAIM-440
 ---
+<!-- inactive-ok-file: NOTE-tmpsnl7o — Skimmed; Chou, Chua, Teo and Zheng, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
@@ -346,3 +347,7 @@ which in this claim's terms changes a demand rather than relieving the
 frustration. A query–key reset reopens the heads and is a candidate for
 relief. Whether it counts depends on whether the background skills
 survive it, which the paper does not report. No status changes.
+
+## Note of 2026-11-04: Chou, Chua, Teo and Zheng, "Design for Process Flexibility", read
+
+A structural echo that qualifies the claim (NOTE-tmpsnl7o). Adding plant–product links enlarges the set of demand realisations that can be met together, and the long chain is a cheap enlargement close to the full complex. This literature measures the enlargement in expected sales, not ordinally, and its correlated-demand example shows that a sparse enlargement can be worth almost nothing when the demands that matter arrive together. So the ordinal fact depends on which realisations are likely. It leaves open whether the chain's near-completeness has an ordinal statement. No status changes.

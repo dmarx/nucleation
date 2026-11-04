@@ -39,6 +39,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
+<!-- inactive-ok-file: NOTE-tmp4f0ld — Skimmed; Kaelbling, Littman and Cassandra, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-552 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-404 CLAIM-446 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
@@ -170,3 +171,7 @@ The owner's U27 asked to "numerically simulate a dynamically maintained will org
 **"Support", rightly read.** A's support term, a_j·q_i, is conferral ([TERM-103](../terms.d/TERM-103.md), [TERM-053](../terms.d/TERM-053.md)'s endorsement), and A correctly says "Support is not Frankfurtian identification." It is undiscriminating, though: every active process supports every other. Read with the owner's U12, the grant would depend on j's tolerance of i's proposal ([CLAIM-552](../claims.d/CLAIM-552.md)).
 
 [CASE-117](CASE-117.md) holds the comparison of influence laws as a design. The case is unchanged.
+
+## Note of 2026-11-04: Kaelbling, Littman and Cassandra, "Planning and acting in partially observable stochastic domains", read
+
+Skimmed in NOTE-tmp4f0ld as the stand-in for Smallwood and Sondik (1973). The sentry's structure is a POMDP of the kind this paper formalizes: a hidden binary world, and an inspection that reveals it with 90% accuracy at a small cost. The paper's tiger problem has the same shape, a hidden two-valued state and a costly, noisy listening action, and there the optimal two-step policy "never chooses to act, only to listen" (§5.2, p. 120). The paper gives the case a standard formal reference: the belief state as sufficient statistic, and information actions valued within the model. It leaves open the sentry process's power to block inspection, which a single-agent POMDP does not represent. No status changes.
