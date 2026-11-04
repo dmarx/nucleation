@@ -116,11 +116,11 @@ discrepancies under a fixed channel; suppression should change the
 channel's efficacy while the underlying rejection remains". This is
 [CLAIM-364](CLAIM-364.md) and [CASE-129](../cases.d/CASE-129.md), and [THEORY-152](../theory.d/THEORY-152.md)'s voice as a feedback channel.
 
-**Read through Frankfurt (the reader's).** THEORY-120 holds Frankfurt's
+**Read through Frankfurt (the reader's).** [THEORY-120](../theory.d/THEORY-120.md) holds Frankfurt's
 2004 condition first-hand: "no conflict in us between this motive and any
-desire at any higher order" (LIT-293, p. 178), with identification as
+desire at any higher order" ([LIT-293](../literature.d/LIT-293.md), p. 178), with identification as
 willing acceptance. It reports his later "satisfaction", "an absence of
-'restlessness or resistance'" (LIT-296, n. 1, by report). Both are about
+'restlessness or resistance'" ([LIT-296](../literature.d/LIT-296.md), n. 1, by report). Both are about
 the will that moves the agent to act, not about whether the agent acts or
 complains. In this construct:
 
@@ -132,24 +132,24 @@ complains. In this construct:
 - quiet is not wholeheartedness. A perspective past τ_i whose channel is
   lost (s_i ≈ 0) does not intervene, yet the conflict Frankfurt's
   condition excludes is there. Quiet counts as evidence only when the
-  channel is known (CASE-129). Mapping wholeheartedness onto the quiescent
+  channel is known ([CASE-129](../cases.d/CASE-129.md)). Mapping wholeheartedness onto the quiescent
   complex would have contradicted this claim's own point, that not
-  intervening is not endorsing; by CLAIM-tmp7oo4d the two complexes can
+  intervening is not endorsing; by [CLAIM-tmp7oo4d](CLAIM-tmp7oo4d.md) the two complexes can
   differ;
 - an individual whose 𝒦_τ lacks the full face cannot act wholeheartedly
   with any attainable will, whatever higher-order volition
-  (TERM-tmp0evbm) it forms. Its minimal non-faces are its minimal
+  ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)) it forms. Its minimal non-faces are its minimal
   ambivalences;
 - it can become wholehearted only by changing a demand: a raised τ_i, or
   a new d_i. Frankfurt's willing acceptance "may be resigned"
-  (THEORY-120). In this construct resignation is a raised tolerance, a
+  ([THEORY-120](../theory.d/THEORY-120.md)). In this construct resignation is a raised tolerance, a
   perspective that now accepts w, not one that has been silenced. By
-  CLAIM-347 that is a change of demand, not relief. Whether it still
-  counts as identification is the dispute THEORY-120 records between
-  LIT-291 and LIT-293 (p. 173);
-- the graded q_i gives a graded form of what THEORY-120 makes all or
+  [CLAIM-347](CLAIM-347.md) that is a change of demand, not relief. Whether it still
+  counts as identification is the dispute [THEORY-120](../theory.d/THEORY-120.md) records between
+  [LIT-291](../literature.d/LIT-291.md) and [LIT-293](../literature.d/LIT-293.md) (p. 173);
+- the graded q_i gives a graded form of what [THEORY-120](../theory.d/THEORY-120.md) makes all or
   nothing: how far past its tolerance each dissenting perspective is.
-  That meets THEORY-054's objection inside Frankfurt's own criterion.
+  That meets [THEORY-054](../theory.d/THEORY-054.md)'s objection inside Frankfurt's own criterion.
 
 The filing of 48d2ca5 mapped wholeheartedness onto quiescence below both
 thresholds. The owner questioned that at review, and it is withdrawn: it
