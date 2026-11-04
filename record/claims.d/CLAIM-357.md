@@ -92,6 +92,7 @@ summary: >-
   influence responsible. A35: "Importantly, these dual multipliers are not
   endorsement weights."
 ---
+<!-- inactive-ok-file: NOTE-tmpoec9n — Skimmed; Gerardi and Maestri, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 
 # CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns
@@ -243,3 +244,15 @@ So the case is realized violation with no structural infeasibility, where Φ ≤
 The same contrast is [CLAIM-122](CLAIM-122.md)'s form, and [CASE-119](../cases.d/CASE-119.md) is the same three-demand complex.
 
 No status changes.
+
+## Note of 2026-11-04: Rockafellar and Uryasev, "Optimization of conditional value-at-risk", read
+
+Rockafellar and Uryasev (2000), LIT-tmpdvjiy, fold a distribution of outcomes into one convex number, the expected loss beyond a quantile; governance regret folds the admissible updates by a min–max. The two are alternative scalarizations. The paper says nothing about infeasibility or realized violation, and leaves open whether a tail-expectation version of the residual would separate them as this claim does. No status changes.
+
+## Note of 2026-11-04: Ratliff, Dong, Sekar and Fiez, "A Perspective on Incentive Design", read
+
+Ratliff et al. (2019), LIT-tmpsj5c6, read in NOTE-tmp5upz4, also treat a governor choosing what to ask of agents. Their "regret" (eq. 3) is the online-learning regret of a principal's sequence of incentives against the best fixed one in hindsight; this claim's governance regret is the minimax suboptimality of one actual update. Same word, different objects, to be kept apart when both are cited. The paper has no residual and no notion of joint infeasibility. No status changes.
+
+## Note of 2026-11-04: Gerardi and Maestri, "Dynamic contracting with limited commitment and the ratchet effect", read
+
+Gerardi and Maestri (2020), LIT-tmpbit9m, skimmed in NOTE-tmpoec9n, add what this claim lacks: a subordinate who anticipates the governor's revision of demands and hides information to avoid more demanding ones, which in a long relationship can stop the governor learning altogether. That qualifies any reading of regret as fixed by what is declared, since declared requirements can themselves respond strategically. The claim's construction is untouched. No status changes.

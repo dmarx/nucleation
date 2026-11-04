@@ -78,3 +78,7 @@ does not fix responses to intervention.
 ## Note of 2026-11-04: Guigues, Kleywegt and Nascimento, "Policies for the Operation of an Ambulance Fleet", read
 
 The authors say their local preparedness approximation "may be inaccurate if demand is large relative to supply" (LIT-tmphy35q). The metric is least reliable in high-load contexts, which qualifies, by analogy, any reliance on fidelity under ordinary load. Nothing formal links the two. No status changes.
+
+## Note of 2026-11-04: Rockafellar and Uryasev, "Optimization of conditional value-at-risk", read
+
+Rockafellar and Uryasev (2000), LIT-tmpdvjiy, read in NOTE-tmpzgqov, give the standard formal way to make an objective depend on the tail of a loss distribution rather than its bulk: minimizing CVaR is a convex program, and on sampled scenarios a linear one. That qualifies this claim by analogy only, as the same stance as attending to boundary contexts rather than ordinary operation. It proves nothing about viability or positive invariance, and its own examples show that rare scenarios must be sampled heavily. Whether a tail-risk objective could certify the boundary coverage this claim asks for is left open. No status changes.
