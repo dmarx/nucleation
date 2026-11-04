@@ -259,3 +259,16 @@ from evolutionary transitions, though it does not say so.
   closure.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-04: West et al. 2015, read
+
+West, Fisher, Gardner and Kiers ([LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), [NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md)) define a
+transition in individuality by two conditions, mutual dependence and
+negligible conflict. Their Table 1 separates the two in both directions:
+social aphids have negligible conflict without mutual dependence, and
+*Melipona* bees have the reverse. That is "none implies the next" inside
+what this claim calls individuation. Their two steps, forming a group and
+then transforming it, are a sequence, but they say the steps "may not have
+clear borders", and between species specialization can come before the
+group forms. No conflict with this claim. No status, title or warrant
+changes.

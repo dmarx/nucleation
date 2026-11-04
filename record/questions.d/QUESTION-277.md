@@ -325,3 +325,17 @@ and as a sixth route, is now read ([NOTE-1369](../notes.d/NOTE-1369.md)). The ro
 in the paper's conclusion ("a driver, not a consequence"), not shown. The
 model ends at dependence, some individuals "completely dependent upon the
 helping behaviour of others", and has no higher-level unit. The question is unchanged.
+
+## Note of 2026-11-04: West et al. 2015, read
+
+West, Fisher, Gardner and Kiers ([LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), [NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md)) give an order
+of conditions rather than of routes. The conditions of group formation come
+first, and align the partners' interests: clonal bottlenecks, lifetime
+monogamy, vertical transmission of clonal symbionts. Mutual dependence
+comes later, "in most cases" through extreme division of labour. Drift is
+another route, with the host taking over roles a symbiont loses. Their
+criterion for a completed transition is mutual dependence together with
+negligible conflict, and Table 1 shows that neither suffices alone. They do
+not separate the remaining candidates, and they report "an almost complete
+lack of work addressing why certain traits are lost". The question is
+unchanged.
