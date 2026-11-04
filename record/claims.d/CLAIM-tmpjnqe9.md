@@ -92,10 +92,10 @@ The record's other entries put this in two places:
 
 ## Note of 2026-11-04: Van Lange and Bergmann, read
 
-Read in NOTE-tmpeqzkm, with THEORY-tmpmr4g4 from it. It supports one link:
+Read in [NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md), with [THEORY-tmpmr4g4](../theory.d/THEORY-tmpmr4g4.md) from it. It supports one link:
 "the same processes that can establish ingroup cooperation can also fuel
 intergroup conflict" (p. 554). Its contrast of group-based and
-individual-based morality (p. 555) backs the remark that THEORY-468's
+individual-based morality (p. 555) backs the remark that [THEORY-468](../theory.d/THEORY-468.md)'s
 group-loyalty domain can work against the coexistence of groups. Three
 things qualify the claim.
 

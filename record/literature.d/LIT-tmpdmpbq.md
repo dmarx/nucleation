@@ -37,8 +37,8 @@ summary: >-
   proceeds by forming a cooperative group and then transforming it, with
   no clear border between the steps. An ecological benefit together with
   how groups form explains the transitions; kin discrimination and
-  repression of competition played minor roles. Source of THEORY-tmpm0ct3,
-  read in NOTE-tmpiyjq9.
+  repression of competition played minor roles. Source of [THEORY-tmpm0ct3](../theory.d/THEORY-tmpm0ct3.md),
+  read in [NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md).
 ---
 <!-- inactive-ok-file: LIT-188 LIT-1927 LIT-1940 — Proposed or Deferred; the scaffolding accounts this work is set beside, cited as open -->
 <!-- inactive-ok-file: CLAIM-474 THEORY-141 THEORY-tmpm0ct3 — Proposed or new; the entries this work bears on, cited as open -->
@@ -61,5 +61,5 @@ West, S. A., Fisher, R. M., Gardner, A., Kiers, E. T. (2015). Major evolutionary
 The record holds the transitions through Okasha's philosophy-of-science
 reading ([LIT-749](LIT-749.md), [NOTE-586](../notes.d/NOTE-586.md)), the scaffolding accounts ([LIT-188](LIT-188.md),
 [LIT-1927](LIT-1927.md), [LIT-1940](LIT-1940.md)) and the endosymbiosis cases. It has not held the
-two-step account itself. The reading bears on QUESTION-277, CLAIM-474 and
-THEORY-141 (NOTE-tmpiyjq9).
+two-step account itself. The reading bears on [QUESTION-277](../questions.d/QUESTION-277.md), [CLAIM-474](../claims.d/CLAIM-474.md) and
+[THEORY-141](../theory.d/THEORY-141.md) ([NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md)).

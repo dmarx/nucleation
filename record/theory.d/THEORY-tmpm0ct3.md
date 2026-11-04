@@ -17,12 +17,12 @@ date: '2026-11-04'
 source:
 - LIT-tmpdmpbq
 summary: >-
-  West et al. (2015), LIT-tmpdmpbq, read in NOTE-tmpiyjq9. A colloquium
+  West et al. (2015), [LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), read in [NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md). A colloquium
   review: the definition and the two steps are the authors' framework, and
   the explanatory claim is drawn from the comparative literature they cite.
   Proposed because they call it "tentative", and because the theory for
   transitions between species is missing on their own account. It differs
-  from THEORY-141 on mechanism: group formation, not policing, does the
+  from [THEORY-141](THEORY-141.md) on mechanism: group formation, not policing, does the
   work.
 ---
 <!-- inactive-ok-file: THEORY-141 — Proposed; the account this one differs from -->
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-West, Fisher, Gardner and Kiers (2015), LIT-tmpdmpbq, read in
-NOTE-tmpiyjq9.
+West, Fisher, Gardner and Kiers (2015), [LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), read in
+[NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md).
 
 ## What was actually shown
 

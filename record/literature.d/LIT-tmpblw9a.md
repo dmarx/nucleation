@@ -36,8 +36,8 @@ summary: >-
   Categorization alone yields mistrust and in-group favouritism by bounded
   reciprocity. Only conflicting interests, real or perceived, turn that
   into costly competition and hate, and the processes that build in-group
-  cooperation can fuel intergroup conflict. Source of THEORY-tmpmr4g4,
-  read in NOTE-tmpeqzkm.
+  cooperation can fuel intergroup conflict. Source of [THEORY-tmpmr4g4](../theory.d/THEORY-tmpmr4g4.md),
+  read in [NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md).
 ---
 <!-- inactive-ok-file: CLAIM-493 CLAIM-tmpjnqe9 THEORY-1112 THEORY-1114 THEORY-tmpmr4g4 — Proposed or new; the record's intergroup material and the claim this work bears on, cited as open -->
 
@@ -64,4 +64,4 @@ The record holds intergroup material on categorization and entitativity
 ([CLAIM-493](../claims.d/CLAIM-493.md)). It holds nothing on whether cooperation survives between
 groups. [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md) says that within-group cooperation and
 between-group coexistence are distinct targets. The reading supports one
-link in it and not the rest (NOTE-tmpeqzkm).
+link in it and not the rest ([NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md)).

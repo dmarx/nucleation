@@ -262,7 +262,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-04: West et al. 2015, read
 
-West, Fisher, Gardner and Kiers (LIT-tmpdmpbq, NOTE-tmpiyjq9) define a
+West, Fisher, Gardner and Kiers ([LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), [NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md)) define a
 transition in individuality by two conditions, mutual dependence and
 negligible conflict. Their Table 1 separates the two in both directions:
 social aphids have negligible conflict without mutual dependence, and

@@ -10,6 +10,6 @@
 - A Proposed interpretive claim: cooperation within groups and the coexistence of groups can trade off. Nowak's group-selection rule is an instance, since its cooperation is bought by group extinction ([CLAIM-tmpjnqe9](record/claims.d/CLAIM-tmpjnqe9.md)).
 - A question on whether moral norms can be stabilizing mechanisms among groups ([QUESTION-tmp22a7y](record/questions.d/QUESTION-tmp22a7y.md)).
 - Two of the four works read at the owner's request:
-  - West et al. 2015 (NOTE-tmpiyjq9, THEORY-tmpm0ct3), with notes on CLAIM-474, QUESTION-277 and THEORY-141;
-  - Van Lange and Bergmann 2026 (NOTE-tmpeqzkm, THEORY-tmpmr4g4), with notes on CLAIM-tmpjnqe9 and QUESTION-tmp22a7y.
+  - West et al. 2015 ([NOTE-tmpiyjq9](record/notes.d/NOTE-tmpiyjq9.md), [THEORY-tmpm0ct3](record/theory.d/THEORY-tmpm0ct3.md)), with notes on [CLAIM-474](record/claims.d/CLAIM-474.md), [QUESTION-277](record/questions.d/QUESTION-277.md) and [THEORY-141](record/theory.d/THEORY-141.md);
+  - Van Lange and Bergmann 2026 ([NOTE-tmpeqzkm](record/notes.d/NOTE-tmpeqzkm.md), [THEORY-tmpmr4g4](record/theory.d/THEORY-tmpmr4g4.md)), with notes on [CLAIM-tmpjnqe9](record/claims.d/CLAIM-tmpjnqe9.md) and [QUESTION-tmp22a7y](record/questions.d/QUESTION-tmp22a7y.md).
 - Henrich and Muthukrishna 2021 is Unfetched, since the authors' copy refuses this client. Maynard Smith and Szathmáry is Unavailable, with no open copy.

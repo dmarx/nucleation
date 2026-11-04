@@ -17,7 +17,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpblw9a
 summary: >-
-  Van Lange and Bergmann (2026), LIT-tmpblw9a, read in NOTE-tmpeqzkm. A
+  Van Lange and Bergmann (2026), [LIT-tmpblw9a](../literature.d/LIT-tmpblw9a.md), read in [NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md). A
   Perspective: a staged model drawn from the authors' selection of the
   literature on social dilemmas and intergroup relations, with no new data
   and no pooled effect sizes. Proposed because the stages are proposed and
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Van Lange and Bergmann (2026), LIT-tmpblw9a, pp. 547–555. Read in
-NOTE-tmpeqzkm.
+Van Lange and Bergmann (2026), [LIT-tmpblw9a](../literature.d/LIT-tmpblw9a.md), pp. 547–555. Read in
+[NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md).
 
 ## What was actually shown
 
@@ -49,6 +49,6 @@ with page references, are in the note. Two are worth separating:
 ## What this does not say
 
 - That groups fail to persist, or go extinct. The model is about
-  cooperation and conflict between groups, and CLAIM-tmpjnqe9's
+  cooperation and conflict between groups, and [CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md)'s
   coexistence of groups is a further target.
 - That the cross-group-dyad remedy works. It is proposed, untested.

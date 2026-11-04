@@ -38,7 +38,7 @@ that scores near-misses by which condition they fail. Six research
 questions follow, with two more on maintenance and breakdown. It also
 claims to unify the transitions: how groups form explains where
 transitions have and have not happened, against Maynard Smith and
-Szathmáry's "mixture of explanations" (LIT-tmp8l5fd, unread).
+Szathmáry's "mixture of explanations" ([LIT-tmp8l5fd](../literature.d/LIT-tmp8l5fd.md), unread).
 
 ## Key results
 
@@ -113,7 +113,7 @@ Szathmáry's "mixture of explanations" (LIT-tmp8l5fd, unread).
 
 ## Bearing on the record
 
-Source of THEORY-tmpm0ct3.
+Source of [THEORY-tmpm0ct3](../theory.d/THEORY-tmpm0ct3.md).
 
 - **The synthesis's §2** lists cooperation, division of labour,
   communication, mutual dependence and reduced conflict as what
@@ -124,26 +124,26 @@ Source of THEORY-tmpm0ct3.
   the second step "typically involves". The two-step account is accurate,
   but its steps have no clear borders, and between species specialization
   can come first.
-- **CLAIM-474** (a partial order, not a sequence). No conflict, and an
+- **[CLAIM-474](../claims.d/CLAIM-474.md)** (a partial order, not a sequence). No conflict, and an
   instance. Table 1 separates the paper's two defining conditions in both
   directions: aphids have one, *Melipona* the other. The authors soften
-  their own steps. CLAIM-474's note of 2026-11-04 records this.
-- **QUESTION-277.** The paper gives an order of conditions: the conditions
+  their own steps. [CLAIM-474](../claims.d/CLAIM-474.md)'s note of 2026-11-04 records this.
+- **[QUESTION-277](../questions.d/QUESTION-277.md).** The paper gives an order of conditions: the conditions
   of group formation first, which align interests, and mutual dependence
   later, usually through extreme division of labour, or through drift with
   the host taking over lost roles. Its criterion for a completed transition
   is mutual dependence together with negligible conflict, and Table 1 shows
-  that neither suffices alone. QUESTION-277's note of 2026-11-04 records
+  that neither suffices alone. [QUESTION-277](../questions.d/QUESTION-277.md)'s note of 2026-11-04 records
   this.
-- **THEORY-141** (Okasha). It agrees that conflict must be overcome and
+- **[THEORY-141](../theory.d/THEORY-141.md)** (Okasha). It agrees that conflict must be overcome and
   that a transition is more than altruism. It disagrees on mechanism:
   policing and kin discrimination played a limited role within species,
   and group formation did the work. It assumes the "same problem" framing
-  that Okasha cautions against. THEORY-141's note of 2026-11-04 records
+  that Okasha cautions against. [THEORY-141](../theory.d/THEORY-141.md)'s note of 2026-11-04 records
   this.
-- **THEORY-1048** (the Black Queen). Not cited. The paper's drift route,
+- **[THEORY-1048](../theory.d/THEORY-1048.md)** (the Black Queen). Not cited. The paper's drift route,
   with the host taking over lost roles, is compatible with it.
-- **CLAIM-tmp47w4i.** Weak support. Cooperation needs a mechanism that
+- **[CLAIM-tmp47w4i](../claims.d/CLAIM-tmp47w4i.md).** Weak support. Cooperation needs a mechanism that
   returns its benefits to the cooperator, and coexistence supplies none.
 
 ## Limitations

@@ -55,7 +55,7 @@ form.
 
 ## Note of 2026-11-04: Van Lange and Bergmann, read
 
-NOTE-tmpeqzkm. No answer. The review has no norm that bears harder on a
+[NOTE-tmpeqzkm](../notes.d/NOTE-tmpeqzkm.md). No answer. The review has no norm that bears harder on a
 dominant group. The nearest it comes is a reported argument (its ref. 206)
 that peace between groups needs "more centralized institutions at the
 level of the group" to restrain the group's own aggressive members (p.

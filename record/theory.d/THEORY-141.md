@@ -118,7 +118,7 @@ comes to need only that.
 
 ## Note of 2026-11-04: West et al. 2015, read
 
-West, Fisher, Gardner and Kiers (LIT-tmpdmpbq, NOTE-tmpiyjq9; THEORY-tmpm0ct3)
+West, Fisher, Gardner and Kiers ([LIT-tmpdmpbq](../literature.d/LIT-tmpdmpbq.md), [NOTE-tmpiyjq9](../notes.d/NOTE-tmpiyjq9.md); [THEORY-tmpm0ct3](THEORY-tmpm0ct3.md))
 agree that within-group conflict must be overcome, and that a transition is
 more than altruism or Hamilton's rule. They disagree on how it is overcome.
 Within species, kin discrimination and the repression of competition

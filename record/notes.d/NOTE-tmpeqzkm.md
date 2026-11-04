@@ -115,37 +115,37 @@ keeps in-group favouritism apart from costly competition.
 
 ## Bearing on the record
 
-Source of THEORY-tmpmr4g4.
+Source of [THEORY-tmpmr4g4](../theory.d/THEORY-tmpmr4g4.md).
 
 - **The synthesis's §7** is right in substance, with one refinement. Groups
   cooperate less with each other even when their interests do not conflict:
   categorization and bounded reciprocity are enough. Conflicting interests,
   and above all perceived ones, are what turn lower cooperation into costly
   competition and hostility (pp. 553–554).
-- **CLAIM-tmpjnqe9.** Supports one link: "the same processes that can
+- **[CLAIM-tmpjnqe9](../claims.d/CLAIM-tmpjnqe9.md).** Supports one link: "the same processes that can
   establish ingroup cooperation can also fuel intergroup conflict" (p.
   554). The review is about cooperation and conflict between groups, not
   their persistence. It says nothing on extinction, Nowak's rule or
   impartial concern, beyond the contrast of group-based and
   individual-based morality. That contrast backs the claim's remark that
-  THEORY-468's group-loyalty domain can work against the coexistence of
+  [THEORY-468](../theory.d/THEORY-468.md)'s group-loyalty domain can work against the coexistence of
   groups. The review's own success case, groups merging into larger
   collectives, is a second route to fewer groups: by merger, not
   extinction. The claim's note of 2026-11-04 records this.
-- **QUESTION-tmp22a7y.** No answer. There is no norm that bears harder on
+- **[QUESTION-tmp22a7y](../questions.d/QUESTION-tmp22a7y.md).** No answer. There is no norm that bears harder on
   a dominant group. The nearest it comes is institutions within a group
   that restrain its own aggressive minority (p. 554, ref. 206), and
   intergroup tolerance as risk buffering (refs. 227–229). Power asymmetry
   appears only as one group "more deprived of resources or status" (p.
   554), a source of negative interdependence.
-- **THEORY-1114 (self-categorization).** A loose fit. The review uses
+- **[THEORY-1114](../theory.d/THEORY-1114.md) (self-categorization).** A loose fit. The review uses
   categorization and fit, but not metacontrast or a varied frame of
   reference, so it does not bear on that theory's promote_when. Its account
   of favouritism rests on reciprocity rather than identity.
-- **THEORY-1112 (entitativity).** Indirect. Minimal-group favouritism from
+- **[THEORY-1112](../theory.d/THEORY-1112.md) (entitativity).** Indirect. Minimal-group favouritism from
   a shared preference is compatible with a mental-state cue, but the review
   does not separate similarity from shared intention.
-- **CLAIM-493.** A different route by which a minority sets a group's
+- **[CLAIM-493](../claims.d/CLAIM-493.md).** A different route by which a minority sets a group's
   outward stance: unchecked aggression by a few, conformity, and
   retaliation against the whole group (p. 554). That is not
   prototypicality, so it is a rival or complement, not evidence.
@@ -161,5 +161,5 @@ Source of THEORY-tmpmr4g4.
   politics come from cited work.
 - The cross-group-dyad remedy is untested, and the authors name its
   limit: the partner may be taken as "an exception to the rule" (p. 555).
-  CASE-146 is that case.
+  [CASE-146](../cases.d/CASE-146.md) is that case.
 - The copy read may be a late proof.
