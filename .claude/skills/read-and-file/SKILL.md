@@ -39,6 +39,12 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **Build the map**: each section or turn of the source, against the codes
   that already hold it. Most of a synthesis is usually already held. The
   map is the main deliverable of an "is this on the record" request.
+- **Check again after reading.** The first search can only use the
+  source's own words. Reading surfaces more: the construction it rebuilds,
+  the example it reinvents, a term it means in another sense, the entry an
+  idea would contradict. Search the record a second time with those, and
+  add what turns up to the map. An idea that looked new is often held
+  under another name.
 
 ## 3. Verify identifiers
 
@@ -188,5 +194,10 @@ Send each reader:
   - its bearing on each named code;
   - Limitations;
   - a candidate THEORY sentence and its `promote_when`.
+- **A recheck.** After reading, search the record again with what the
+  reading surfaced: the constructions, examples, rival readings and terms
+  of art it turned out to involve, not only the words the source used.
+  Report each held entry the first search missed, and correct any "not
+  held" verdict it overturns.
 - **And**: if no lawful full text is reached, say so and stop. Write
   nothing from memory.
