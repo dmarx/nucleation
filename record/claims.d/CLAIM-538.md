@@ -50,6 +50,7 @@ summary: >-
   Checked by linear programming against brute-force cycle enumeration on
   random graphs.
 ---
+<!-- inactive-ok-file: CLAIM-534 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-361 — Proposed, Open, Deferred or new; cited as open -->
 
 # CLAIM-538: On a finite graph of contexts whose overlaps carry preferred real offsets a and tolerances δ_e ≥ 0, an assignment within every tolerance, |Dx − a| ≤ δ, exists exactly when no cycle's holonomy exceeds the sum of its tolerances; with every δ_e > 0 the least uniform enlargement of the tolerances that admits one is the largest ratio, over simple cycles, of holonomy to summed tolerance, so the obstruction is certified by a cycle; the feasible allocations of tolerance depend on the offsets only through their class in H¹, so local adjustment can move a mismatch among the overlaps of a cycle and never remove it; and an evaluation that omits one overlap of every witnessing cycle reports a compatibility that does not hold
@@ -105,3 +106,28 @@ the constant sheaf is only the reading of the witnesses as graph cycles.
   revise them, and against what reference, is [CLAIM-361](CLAIM-361.md)'s.
 - **That low measured mismatch is compatibility.** That is the omission
   clause, and [CLAIM-357](CLAIM-357.md).
+
+## Note of 2026-11-04: the cycle as a flow, and two ways to remove a cycle, from "Organizational Nucleation and SLT"
+
+The owner's U25: "visualization needs more dynamics/flow, maybe instead of a simplex you try to motivate a sheaf". This claim already answers that request. The reader's construction below draws it as a flow.
+
+- **The flow.** Take a 3-cycle with a = (0.5, 0.4, 0.3), so the holonomy is 1.2, and δ = (0.3, 0.3, 0.3).
+  - Local re-centring is the gradient flow ẋ = DᵀW(a − Dx).
+  - Along the flow the residuals keep their cycle sum at exactly 1.2, the holonomy.
+  - The flow ends at the weighted harmonic residual, r*_e ∝ 1/w_e ([THEORY-1141](../theory.d/THEORY-1141.md)'s limit). That is (0.4, 0.4, 0.4) for equal weights and (0.686, 0.343, 0.171) for weights (1, 2, 4).
+  - So the weights decide where the mismatch settles, which is [CLAIM-534](CLAIM-534.md)'s allocation part. They never decide whether it exists.
+  - Feasibility needs ρ ≥ 4/3, this claim's A29 number.
+  - Checked by simulation.
+- **What A drew instead.** A25's animated figure covers a line with three patches, U₁ ∩ U₃ = ∅. Its nerve is a path, so the "mismatch" A shows can never be structural ("on a forest it always holds"). A says so itself: "a mismatch among the currently selected local proposals doesn't prove that no global section exists".
+- **A26** says a cyclic obstruction needs "a torsor and specified transition offsets. Ordinary set incompatibility does not supply that automatically." That is right for [CLAIM-153](CLAIM-153.md). This claim is the real-offset version with tolerances, and A did not cite it.
+- **Cut against cover** (the reader of U1–U7, from the owner's U3: "I think you need to take a closer look at the sheaf theoretic account in the discussion I linked."). Besides enlarging δ or changing [a] in H¹, a reorganization can remove a witnessing cycle in two ways:
+  - it can *cut* the cycle by decoupling an overlap ([CASE-115](../cases.d/CASE-115.md)'s differentiation);
+  - it can *cover* it with a context in which the three are coherent ([CLAIM-153](CLAIM-153.md): the triple overlap makes Φ a coboundary).
+
+  Cutting the overlap is different from omitting it from evaluation. Omission fakes compatibility, by this claim's omission clause, while the coupling still acts. That difference is unchecked beyond the definitions.
+- **Terms of art.**
+  - (a) A's "tolerance" τ_i (A22–A24) is the slack on one demand's threshold. That is [CLAIM-347](CLAIM-347.md)'s threshold demand, not δ_e on an overlap. It needs no entry of its own.
+  - (b) Read as this claim means it, A would have drawn a cycle of contexts, each overlap carrying an offset and a tolerance band, with holonomy against summed tolerance. A25's gluing test is exact equality, where this claim's test is |Dx − a| ≤ δ.
+  - (c) The owner's U25 is in effect the correction.
+
+No status changes.

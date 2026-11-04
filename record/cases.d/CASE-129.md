@@ -22,6 +22,7 @@ summary: >-
   suppression, and ordinary operation cannot tell which. Not shown: how
   often either occurs in persons or institutions.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8e3ye — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-364 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-129: The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears
@@ -60,3 +61,39 @@ alarms. A new hazard appears. System A responds. System B does not."
 A18 cautioned that "neural or motivational processes are not miniature
 citizens". The case is about the architecture of a signal's authority,
 not about what a suppressed process wants.
+
+## Note of 2026-11-04: a third quiet arm, the raised threshold, from "Organizational Nucleation and SLT"
+
+A20 §6 and A21 Pitch 4 ("Three organizations that look equally calm")
+describe three systems with identical ordinary behaviour:
+
+- "Accommodation": "Motivations remain responsive, but their requirements
+  are jointly accommodated."
+- "High thresholds": "Motivational processes are harder to recruit."
+- "Suppression": "Motivations can activate, but cannot meaningfully
+  influence governance."
+
+"Only interventions reveal which internal mechanism produced the apparent
+harmony."
+
+This case's System B is suppression. Its System A, which "learns to
+discriminate between benign and dangerous conditions", is not A's
+high-threshold arm. A raised threshold lowers sensitivity to every
+hazard, novel ones included. Learned discrimination keeps sensitivity to
+the hazards that matter. The raised threshold is therefore a third arm.
+
+- Like System B, it fails when a new hazard appears, because it does not
+  mobilize. System B mobilizes and is blocked.
+- Unlike System B, an intervention on the authority channel would not
+  restore its response. Lowering the threshold would.
+- A21: "In the high-threshold system, the process may fail to mobilize
+  under the same discrepancy. In the suppressed system, activation may
+  occur, but changing the discrepancy won't restore influence until the
+  authority channel is repaired."
+
+Accommodation is [CASE-109](CASE-109.md)'s local coordination. A21's caveat stands: "the
+figure shouldn't portray high thresholds as intrinsically pathological.
+They may be exactly right for some contexts." [CLAIM-tmp8e3ye](../claims.d/CLAIM-tmp8e3ye.md) holds the
+point that raising a threshold is not relief.
+
+No status changes.

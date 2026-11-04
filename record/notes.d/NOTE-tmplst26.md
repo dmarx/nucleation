@@ -1,0 +1,107 @@
+---
+status: Skimmed
+paper: LIT-tmp6tcgp
+title: 'Crowell, Beauchaine and Linehan — A biosocial developmental model of borderline personality'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Skimmed on 2026-11-04 from the publisher's PDF posted on the first
+    author's University of Utah page (see LIT-tmp6tcgp), text extracted by
+    pdftotext. Read: the abstract (p. 495), the account of Linehan's theory
+    (p. 496), the DSM criteria table (p. 497), the opening of the
+    biosocial developmental model (p. 502), Figure 1 (p. 503) and
+    Hypotheses 2 and 3 with the family types (pp. 504–505). Not read: the
+    biological sections (pp. 497–501), Hypotheses 1, 4 and 5 in full, the
+    conclusions and the references. Page numbers are the journal's.
+date: '2026-11-04'
+summary: >-
+  Linehan's biosocial theory as restated with her: emotion dysregulation,
+  "heightened emotional sensitivity", inability to regulate intense
+  responses and "slow return to emotional baseline", is the core, and
+  cognitive dysregulation is among its consequences, "distorted information
+  processing" and difficulty organizing toward "non-mood-dependent goals".
+  Skimmed; read for the theory, not the biology.
+---
+
+# NOTE-tmplst26: Crowell, Beauchaine and Linehan — A biosocial developmental model of borderline personality
+
+## Contribution
+
+A restatement of Linehan's biosocial theory of borderline personality
+with Linehan as an author, extended back into childhood: impulsivity comes
+first, then emotional sensitivity, and an invalidating environment
+potentiates both (p. 495). The extension, early impulsivity as a
+predisposing vulnerability, is "a position that Linehan did not consider
+in her original biosocial theory" (p. 496).
+
+## Key insight
+
+Dysregulation in DBT's sense starts in emotion, and emotion is read
+broadly, "emotion-linked cognitive process, biochemistry and physiology,
+facial and muscle reactions, action urges, and emotion-linked actions"
+(p. 496). Cognition is dysregulated as a consequence: "Behavioral and
+cognitive reactions to emotional situations are dysregulated as a
+consequence of emotional lability and result in distorted information
+processing, difficulties regulating actions to achieve non-mood-dependent
+goals, problems controlling emotion-linked behavior, and shutting
+down/freezing" (p. 502).
+
+## Assumptions
+
+- The model is a developmental hypothesis about BPD, a review "to guide
+  future research with at-risk children and adolescents" (p. 495), not a
+  tested model.
+- Its three properties of emotional vulnerability are stated, not
+  measured here (p. 496; Figure 1, p. 503).
+
+## Key results
+
+None of its own; it proposes five hypotheses. Read here: Hypothesis 2,
+"Broad emotion dysregulation is fostered and maintained within an
+invalidating developmental context", and Hypothesis 3, "Reciprocal
+transactions between biological vulnerability and environmental risk
+potentiate emotion dysregulation and lead to more extreme behavioral
+dyscontrol" (p. 504).
+
+## Concepts
+
+- **Emotion dysregulation** — "(a) heightened emotional sensitivity, (b)
+  inability to regulate intense emotional responses, and (c) slow return
+  to emotional baseline" (p. 496). Figure 1 (p. 503) gives "High emotional
+  sensitivity", "Intense response to emotional stimuli", "Slow return to
+  baseline".
+- **Invalidating environment** — "intolerance toward the expression of
+  private emotional experiences, in particular emotions that are not
+  supported by observable events" (p. 496).
+- **Cognitive outcomes** (Figure 1, p. 503) — "low self-efficacy,
+  self-hatred, hopelessness, disorganization, dissociation". The DSM
+  criterion the table gives is "Transient, stress-related paranoid
+  ideation or severe dissociative symptoms" (p. 497).
+
+## Connections
+
+It restates Linehan (1993), which the record holds as the manual's later
+edition unread ([LIT-1492](../literature.d/LIT-1492.md)), and her 1987 paper unread ([LIT-1221](../literature.d/LIT-1221.md)). Linehan's
+grouping of the criteria into five areas of dysregulation is not stated in
+the pages read.
+
+## Bearing on the record
+
+It grounds [CLAIM-tmp99a8m](../claims.d/CLAIM-tmp99a8m.md), the DBT reading of "cognitive dysregulation"
+in the owner's U29, as an alternative beside A29's attentional reading
+([CLAIM-286](../claims.d/CLAIM-286.md)'s note of 2026-11-04). [THEORY-922](../theory.d/THEORY-922.md) and [QUESTION-307](../questions.d/QUESTION-307.md) are the
+record's DBT data on skills; this bears on what the skills are meant to
+regulate, not on whether they work.
+
+## Limitations
+
+A review and a developmental proposal. Read for the theory only; the
+biological evidence was not read.
+
+## Open questions
+
+Whether "distorted information processing" under high arousal is a
+change in what is attended, in how it is interpreted, or both, which the
+pages read do not separate.

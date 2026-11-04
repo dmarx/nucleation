@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7wkss
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -22,6 +22,12 @@ history:
     (ADR-057). CASE-111 and CASE-112, constructions already cited in
     the body, now ground it. THEORY-145 is cited and no longer grounds
     it. ARG-007, Active, rested on it.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -57,6 +63,7 @@ summary: >-
 complements:
 - CLAIM-445
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
@@ -84,7 +91,8 @@ in place."
   added in front, stated as degrees: "Those are distinct control
   capabilities with potentially different quantitative profiles." A9's
   Candidate C is this claim with endorsement added, and was not filed.
-  A9's "endorse" is the reflective sense, not [TERM-053](../terms.d/TERM-053.md)'s.
+  A9's "endorse" is the reflective sense ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)), not
+  [TERM-053](../terms.d/TERM-053.md)'s, which is now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)).
 - **A11 §4.** "Freedom to commit: The capacity to choose and establish
   constraints", "Freedom under commitment: The viable alternatives
   remaining after the commitment", "Freedom to revise: The capacity to

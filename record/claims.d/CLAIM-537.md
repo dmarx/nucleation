@@ -85,3 +85,26 @@ this claim's own result, not a citation. The paper's in-between case, the
 affinely adjustable counterpart, restricts the rule's form, not what it reads.
 Its Theorem 2.1 explains the gap here: an edge's two inequalities share one
 disturbance, so the uncertainty is not constraint-wise.
+
+## Note of 2026-11-04: a resource-budget index, from "Organizational Nucleation and SLT"
+
+This claim indexes compatibility by what the agent can read. The exchange
+proposed a second index, by resources. A9: "We could therefore replace a
+single compatibility complex with a **resource- and tolerance-indexed
+family of complexes**", 𝒦(B, τ, ℓ; H), with B "a resource budget,
+potentially distributed across sensing, control, and maintenance". A29 §7
+applied it to attention: allocations rᵢ with Σᵢ rᵢ ≤ Bₜ, and a face is a set
+S for which some feasible r lies in ⋂_{i∈S} Aᵢ(c). "A decrease in available
+cognitive resources can make previously compatible requirements
+incompatible without changing the person's motivations."
+
+The reader checked it. The family is downward-closed and monotone in B.
+With Aᵢ = {rᵢ ≥ nᵢ} it is a knapsack test, Σ_{i∈S} nᵢ ≤ B, and pairwise
+compatibility does not give joint compatibility (three perspectives with
+nᵢ = 0.4B), as in [CASE-119](../cases.d/CASE-119.md). What follows is A29's: low performance alone
+does not tell "attention dysregulation due to governance" from "attention
+limitations due to capacity". [CLAIM-475](CLAIM-475.md) and [TERM-092](../terms.d/TERM-092.md) index inquiry by a
+budget in the same way. If this index is filed, it is a sibling of this
+claim's index by legibility, not a consequence of it. The wording is A's,
+sharpened by the reader; adopting it is the owner's call. No status
+changes.

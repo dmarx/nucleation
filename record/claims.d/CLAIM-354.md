@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpilfhr
 title: 'Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,12 @@ history:
     description, agency and legibility: A18's prisoner's dilemma gives a
     two-agent route to this claim's non-monotonicity, in which the shrinking
     of the set is imposed and not chosen. The claim is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +67,8 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: CLAIM-465 CLAIM-tmpgjdby TERM-006 TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-534 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-545 LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency, and the claim that separates its quantity -->
@@ -157,9 +165,9 @@ shape for freedom of will.
   raises the robustness of the endorsed project. So the writer before and
   after are compared dimension by dimension, and may be incomparable.
   Reachable-set size is not monotone with autonomy.
-- **Not endorsement in the record's sense.** The record's endorsement
-  ([TERM-053](../terms.d/TERM-053.md)) is any effect one process has on another's share of future
-  influence, and it is not Frankfurt's. A9's "endorsement" is the
+- **Not conferral.** What the record called endorsement ([TERM-053](../terms.d/TERM-053.md)),
+  now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)), is any effect one process has on another's
+  share of future influence, and it is not Frankfurt's. A9's "endorsement" is the
   reflective attitude. Here it is called higher-order volition.
 - **Not that the dimensions are measured.** A9: "a Gramian is not
   automatically a meaningful psychological measure", and the profile's
@@ -257,3 +265,20 @@ against what the agent can sustain ([CLAIM-079](CLAIM-079.md)). Ben-Tal et al.'s
 four-period delay or none.
 
 The claim is unchanged.
+
+## Note of 2026-11-04: restated without citation, from "Organizational Nucleation and SLT"
+
+**What A26 restated.** The owner's U26 asked A to "synthesize the discussion". A26 gave four properties as distinct:
+- compatibility;
+- reachability, "the organization can attain it from its current state under the applicable constraints";
+- viability, "the arrangement can be maintained over a relevant horizon without violating specified requirements";
+- reconfigurability, "the organization can subsequently move to another appropriate arrangement when circumstances change".
+
+It added that "acquiring authority and relinquishing authority are independently relevant capacities", citing [CLAIM-465](CLAIM-465.md). This claim already names viable reachability, governance reconfigurability and motivational integration as dimensions. [CLAIM-534](CLAIM-534.md) holds realizability, realization and maintenance, and [CLAIM-079](CLAIM-079.md) holds stability against viability. A26 cites none of them. A23 had drawn the same four properties, and [CLAIM-099](CLAIM-099.md) and [CLAIM-025](CLAIM-025.md) hold reconfigurability apart from viability. The exchange adds no new dimension.
+
+**Endorsement, misread.**
+- (a) A26 keeps only "Frankfurtian endorsement". It uses the record's sense unnamed, as "practical authority", and as E_t, "the relations through which processes affect one another's future authority".
+- (b) Read as conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), formerly [TERM-053](../terms.d/TERM-053.md)), E_t is the conferral matrix E_ij, and a perspective's tolerance is its criterion for conferring influence ([CLAIM-tmpgjdby](CLAIM-tmpgjdby.md)). Frankfurt's sense is [TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md).
+- (c) At U14 the owner asked whether the record's endorsement, now conferral, "satisfies the Frankfurtian sense". A14 itself answered that it does not.
+
+A26's gloss of authenticity, "Non-dominating, answerable governance", leans on [TERM-006](../terms.d/TERM-006.md), which is Deferred. Its domination clause is this claim's non-domination profile and [CLAIM-545](CLAIM-545.md)'s. The claim is unchanged.

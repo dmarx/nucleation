@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpyk3it
 title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-18'
@@ -31,6 +31,12 @@ history:
     claim cites them as parallels, not premises. It bears on
     QUESTION-131, which it leaves open. Promotion does not reopen the
     Deferred organizational-affect line (CLAIM-039).
+- version: 5
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,6 +88,7 @@ supports:
 - CLAIM-347
 - CLAIM-357
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-052 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 
 # CLAIM-368: The primitive for an organization's regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either
@@ -132,8 +139,8 @@ reasons.
   leaves integration as a further achievement to be shown.
 - **It separates cases distress merges.** A33 §10 named four: high loss
   with a clear path to improvement; demands that are mutually
-  incompatible; an optimizer that cannot use an available resolution; an
-  endorsement system that reproduces its own conflicts. The first is
+  incompatible; an optimizer that cannot use an available resolution; a
+  grant system that reproduces its own conflicts. The first is
   strain or mere shortfall, the second structural frustration, the last
   two governance-induced ([CLAIM-357](CLAIM-357.md)). An alarm can fire in all four.
 

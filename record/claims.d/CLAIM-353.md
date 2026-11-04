@@ -3,8 +3,8 @@ number: 353
 status: Active
 formerly:
 - CLAIM-tmpi5t5f
-title: 'A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow''s impossibility this is not escaped by giving endorsement richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction'
-version: 2
+title: 'A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow''s impossibility this is not escaped by giving the grant procedure richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction'
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -21,6 +21,12 @@ history:
     when Pareto is dropped for distinct pairs. No objection is filed, and
     nothing in the record shows that operator jurisdiction lacks pairwise
     decisiveness. The claim is unchanged.
+- version: 3
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,14 +59,15 @@ summary: >-
   and respecting unanimous preferences". [THEORY-027](../theory.d/THEORY-027.md) says no in general,
   and its title holds the difference A36 cited without stating: "unlike
   Arrow's theorem, the conflict is not removed by interpersonal
-  comparability". So A36's remedy, letting endorsement use richer
-  information, answers Arrow but not jurisdiction. The sharp edge: it
+  comparability". So A36's remedy, letting the grant procedure
+  (TERM-tmp08c21) use richer information, answers Arrow but not jurisdiction. The sharp edge: it
   holds only if operator jurisdiction is pairwise decisiveness, which
   [THEORY-027](../theory.d/THEORY-027.md) leaves open even for persons.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-1283 — Proposed; Massumi's micropolitics, the ideal this result is applied to -->
 
-# CLAIM-353: A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow's impossibility this is not escaped by giving endorsement richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction
+# CLAIM-353: A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow's impossibility this is not escaped by giving the grant procedure richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction
 
 ## The claim
 
@@ -101,7 +108,7 @@ structure.
 
 So the claim: where distributed governance meets this obstruction, the
 fix is a change in how jurisdiction is allocated or bounded, in
-[CLAIM-027](CLAIM-027.md)'s terms, and not a richer signal to the endorsement procedure.
+[CLAIM-027](CLAIM-027.md)'s terms, and not a richer signal to the grant procedure.
 
 ## What it does not say
 

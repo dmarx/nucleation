@@ -26,6 +26,7 @@ variants:
 illustrates:
 - CLAIM-261
 ---
+<!-- inactive-ok-file: CLAIM-446 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: ARG-005 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CASE-013: The reluctant writer
@@ -80,3 +81,25 @@ acts on an endorsed commitment but cannot reconsider it effectively"
 ([CLAIM-099](../claims.d/CLAIM-099.md)). See the note of 2026-10-18 on [CLAIM-027](../claims.d/CLAIM-027.md). [CASE-112](CASE-112.md) models
 the case: the volition moves the balance of authority without moving the
 regime, and a change in the structure of the competition switches it.
+
+## Note of 2026-11-04: re-derived a third time, from "Organizational Nucleation and SLT"
+
+A29 §2 rebuilt this case without citing it: "someone who genuinely wants to
+complete an important writing project but repeatedly avoids beginning",
+with achievement, protective and restorative perspectives. Its prediction is
+[CLAIM-446](../claims.d/CLAIM-446.md)'s: "changing how protective activation influences action should
+improve task engagement even if the threat appraisal and subjective anxiety
+do not initially disappear." It names rival causes: "exhaustion, missing
+skills, inaccessible task information, or genuine structural
+incompatibility."
+
+A29 wrote a model: z_{P,t+1} = ρz + α·Threat + β·Deadline,
+Work = f(1 − g_P, capacity), Deadline_{t+1} = Deadline + time pressure −
+work. It does not close, since nothing links z_P to the authority g_P. The
+reader closed it with g = σ(k(z − θ)), with ρ = 0.6, capacity 1.5, pressure
+1, k = 4 and θ = 2. With β = 0.1 or 0.3, a starting backlog of 0 or 3 is
+cleared and a backlog of 10 runs away (about 205–210 after 200 steps, g → 1).
+Without the link the backlog is always cleared. So lock-in needs the link,
+and it then depends on history: [CLAIM-459](../claims.d/CLAIM-459.md)'s bistability and [CLAIM-463](../claims.d/CLAIM-463.md)'s
+hysteresis. "Deadline" is really backlog. The wording is A's, sharpened by
+the reader; adopting it is the owner's call. No status changes.

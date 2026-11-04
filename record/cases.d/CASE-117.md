@@ -3,8 +3,8 @@ number: 117
 status: Active
 formerly:
 - CASE-tmprbebk
-title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
-version: 3
+title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, grant-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
@@ -18,6 +18,12 @@ history:
     read; auxiliary-loss-free balancing is load-based, not
     contribution-based, and the termination condition holds for a
     balancing term in the gradient. The design is unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -37,9 +43,10 @@ summary: >-
   routing is the baseline. Even positive results would not show
   self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)).
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-367 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# CASE-117: Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity
+# CASE-117: Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, grant-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity
 
 ## The design
 
@@ -54,7 +61,7 @@ assumptions about the organization.
 | dimension | conditions |
 |---|---|
 | feature adaptation | fixed features; learned features |
-| influence update | uniform; historical endorsement ([CLAIM-277](../claims.d/CLAIM-277.md)); context-sensitive contribution |
+| influence update | uniform; historical grants ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md); [CLAIM-277](../claims.d/CLAIM-277.md)); context-sensitive contribution |
 | competence exposure | training opportunities independent of influence; influence-dependent |
 | diversity mechanism | none; fixed usage balancing; endogenous recovery feedback |
 | environment | stationary; recurring regimes; abrupt distribution shifts |

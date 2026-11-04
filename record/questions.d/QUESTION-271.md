@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdicvf
 title: 'How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-25'
@@ -18,6 +18,12 @@ history:
     proxy form, filtering of tests run in a population with a known-
     propensity correction (CASE-162), and the cost of a diagnostic
     (CASE-163). The question is unchanged.
+- version: 4
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 tags:
 - self-governance
 - game-theory
@@ -34,13 +40,14 @@ summary: >-
   The question asks what evaluation procedures resist capture, and in
   which of four senses.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # QUESTION-271: How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?
 
 ## The question
 
 The record's governance claims all lean on an evaluation of processes:
-- endorsement that tracks competence ([CLAIM-277](../claims.d/CLAIM-277.md));
+- grants that track competence ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md); [CLAIM-277](../claims.d/CLAIM-277.md));
 - a learned prior trained by outcomes ([CLAIM-443](../claims.d/CLAIM-443.md));
 - evidence-tracking authority as Bayes' rule ([CASE-155](../cases.d/CASE-155.md));
 - a legibility regime that can score in its own favour ([CASE-124](../cases.d/CASE-124.md)'s μ route).

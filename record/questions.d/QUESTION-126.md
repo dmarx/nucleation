@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpkzu6g
 title: 'Does an organization''s actual allocation of authority track the demands that bind its feasible adaptation, or does it systematically privilege something else?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: the influence governance grants is
+    cited to grant (TERM-tmp08c21) and conferral (TERM-tmplu4ih), not the
+    Superseded TERM-053. The question is unchanged.
 tags:
 - self-governance
 - agency
@@ -17,10 +24,11 @@ summary: >-
   something else?" The dual of the frustration residual ([CLAIM-365](../claims.d/CLAIM-365.md))
   picks out, by its multipliers λ, the combination of demands that binds;
   the operator model's weights w are the influence governance actually
-  grants ([TERM-053](../terms.d/TERM-053.md)). A35: "these dual multipliers are not endorsement
+  grants (TERM-tmp08c21; TERM-053's endorsement before ADR-070). A35: "these dual multipliers are not endorsement
   weights." An answer measures both in one organization and says whether
   w follows λ, and if not what it follows instead.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 
 # QUESTION-126: Does an organization's actual allocation of authority track the demands that bind its feasible adaptation, or does it systematically privilege something else?
 
@@ -40,8 +48,8 @@ Two quantities, one organization:
   r‖Σλ_ig_i‖_*] ([CLAIM-365](../claims.d/CLAIM-365.md)). It is a property of the demands and the
   admissible set, computable by an outside solver.
 - **What is granted.** The influence w_i a demand's process holds, in the
-  sense of [TERM-053](../terms.d/TERM-053.md): any effect of other processes on its share of future
-  influence. [CLAIM-283](../claims.d/CLAIM-283.md) holds the gap between precedence claimed and
+  sense of conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), formerly [TERM-053](../terms.d/TERM-053.md)): any effect of other processes on its share of future
+  influence, and a grant where governance confers it through a maintained rule ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)). [CLAIM-283](../claims.d/CLAIM-283.md) holds the gap between precedence claimed and
   authority granted; A34 restated it as p_i − w_i, "a candidate indicator
   of frustrated precedence".
 

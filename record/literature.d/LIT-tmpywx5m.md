@@ -1,0 +1,64 @@
+---
+status: Deferred
+status_note: >-
+  registered unread 2026-11-04 at the owner's request; a candidate source
+  for nucleation across a finite barrier as a mechanism of capability
+  formation in training ([QUESTION-281](../questions.d/QUESTION-281.md)'s route).
+title: 'The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered, not read, at the owner's request after the filing of the
+    exchange "Organizational Nucleation and SLT", whose A1 cited it under
+    a misreading of "nucleation" (QUESTION-275's note of 2026-11-04).
+    Checked against the arXiv API on 2026-11-04: Lei Dong, sole author,
+    cs.LG, v1 submitted 29 July 2026, which is `published:`; 40 pages, 12
+    figures. The summary follows the abstract. Tagged anthology-candidate
+    (ADR-005): its subject is training dynamics in language models.
+tags:
+- learning-theory
+- representation-learning
+- anthology-candidate
+date: '2026-11-04'
+published: '2026-07-29'
+arxiv: '2607.27281'
+first_author: 'Dong'
+keywords: []
+implementations: []
+summary: >-
+  Dong (2026) argues that a capability forms when the last missing parts of
+  its circuit align in one stochastic attempt, with no partial credit, and
+  derives a rate law, sites × attempts × drive × exp(−βK) minus
+  destruction, with K the missing parts. By the abstract, it is tested
+  three ways with preregistered constants on a controlled apparatus and on
+  Pythia models to 1.4B: ignition above a data-concentration floor,
+  plasticity loss past a critical step that validation loss does not show,
+  and a cure by re-initializing query-key slices. Unread.
+---
+
+# LIT-tmpywx5m: The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models
+
+Dong (2026) — [arXiv:2607.27281](https://arxiv.org/abs/2607.27281)
+
+## Key takeaways
+
+Unread. By the abstract:
+
+- Joint alignment of a circuit's last parts, with no partial credit, is
+  "the rate-limiting step of capability formation". The wait counts
+  missing parts, not size.
+- Ablating one part of a capability's circuit on Pythia leaves a median
+  17% of the capability, where partial credit predicts 50–83%.
+- Past a critical step a withheld capability "never ignites", while
+  validation loss falls smoothly; re-initializing only the query-key
+  slices restores learnability.
+
+## Standing in the record
+
+A candidate source for nucleation across a finite barrier, the route
+[QUESTION-281](../questions.d/QUESTION-281.md) holds, and for the claim that a joint requirement with no
+partial credit has a waiting time set by what is missing. The compatibility
+complex of this record's exchange, where a face is all-or-nothing, is the
+nearest construct here; whether the two connect is not asked yet.

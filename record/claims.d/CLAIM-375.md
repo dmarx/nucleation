@@ -3,8 +3,8 @@ number: 375
 status: Active
 formerly:
 - CLAIM-tmpso62d
-title: 'Under one-hop allocation within an epoch, an operator that endorses an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the endorsement scheme hold together'
-version: 1
+title: 'Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together'
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -15,11 +15,17 @@ history:
     argues in prose, and its defeat condition has an empirical disjunct
     with no observation under it. This claim is the existence result,
     written as a construction. CLAIM-285 keeps the rest and rests on it.
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   An error in the construction below: under the one-hop rule as stated, an
-  operator whose authority depends on its own outgoing endorsements, or an
+  operator whose authority depends on its own outgoing grants, or an
   ally with ‖p_j − p_i‖ < ‖p* − p_i‖ for whom raising E_ij does not bring the
   collective decision strictly nearer p_i.
 tags:
@@ -32,13 +38,14 @@ line:
 rests_on:
 - CLAIM-282
 uses:
-- TERM-053
+- TERM-tmplu4ih
+- TERM-tmp08c21
 summary: >-
   The demonstrated core of [CLAIM-285](CLAIM-285.md). Under A3's one-hop rule
   I_j = I_j⁰ + Σ_(k≠j) b_k E_kj, with budgets and baselines fixed within an
   epoch ([CLAIM-282](CLAIM-282.md)), an operator's authority does not respond to its own
-  endorsements. If the collective decision is the authority-weighted mean
-  of the operators' policies, then endorsing an ally whose policy is nearer
+  grants. If the collective decision is the authority-weighted mean
+  of the operators' policies, then granting influence to an ally whose policy is nearer
   one's own than the decision is moves the decision strictly toward one's
   policy. So the reward for realized policy, and not for held authority,
   pays for delegating. It does not say operators behave so, or that any
@@ -46,20 +53,21 @@ summary: >-
 supports:
 - CLAIM-285
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->
 
-# CLAIM-375: Under one-hop allocation within an epoch, an operator that endorses an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the endorsement scheme hold together
+# CLAIM-375: Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together
 
 ## The claim
 
-Take operators 1, …, N with policies p_k in ℝᵈ and endorsements E_kj ≥ 0
+Take operators 1, …, N with policies p_k in ℝᵈ and grants E_kj ≥ 0
 for k ≠ j. Within an epoch, authority is allocated in one hop, as A3 §4
 proposed ([CLAIM-282](CLAIM-282.md)):
 
 I_j = I_j⁰ + Σ_(k≠j) b_k E_kj,
 
 with budgets b_k > 0 and baselines I_j⁰ ≥ 0 fixed independently of the
-endorsements made in the epoch. The collective decision is the
+grants made in the epoch. The collective decision is the
 authority-weighted mean p* = Σ_j I_j p_j / S, with S = Σ_j I_j > 0.
 Operator i's objective is J_i = −‖p* − p_i‖² − λ Cost(E_i), as in A2.
 
@@ -75,7 +83,7 @@ Operator i's objective is J_i = −‖p* − p_i‖² − λ Cost(E_i), as in A2
    rate, a small increase in E_ij raises J_i.
 
 So A2's two conditions, an authority that does not respond to one's own
-endorsements and a reward for how far one's preferred policy is realized,
+grants and a reward for how far one's preferred policy is realized,
 hold at once. They constrain different quantities. That is [CLAIM-285](CLAIM-285.md)'s
 point, stated as a construction.
 
@@ -90,7 +98,7 @@ point, stated as a construction.
 - **That the decision rule is the right one.** The weighted mean is one
   rule. A rule under which p* does not move toward an ally's policy as the
   ally's authority grows would need its own argument.
-- **That endorsement cannot be gamed.** An operator can still change its
-  authority by moving others' endorsements, which is social feedback, not
+- **That the grant scheme cannot be gamed.** An operator can still change its
+  authority by moving others' grants, which is social feedback, not
   an accounting loop ([CLAIM-282](CLAIM-282.md)). And an aligned ally can be incompetent
   (A2 §6).

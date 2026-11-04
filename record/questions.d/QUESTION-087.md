@@ -76,3 +76,24 @@ it.
   psychological flexibility "cannot presume that an institution's
   currently maintained values are legitimate, or that successfully
   pursuing them benefits its constituents".
+
+## Note of 2026-11-04: a standard set apart from the behaviour, from "Organizational Nucleation and SLT"
+
+A29 §12 cited this question and restated its demand: "We cannot define
+maladaptation simply as conflict, distress, high activation, inconsistent
+preferences, or failure to achieve a particular goal." "A candidate
+assessment must therefore identify the relevant standards independently of
+the behavior being evaluated." It lists candidates: "the individual's
+maintained commitments, their ability to pursue them, their access to
+reliable information, their continued practical capacities, and the
+consequences of actions for themselves and others", and grants that
+"whether the maintained commitments are legitimate remains open."
+
+It adds one distinction: "A theory of motivational organization needs to
+distinguish **internal dysregulation from externally imposed
+infeasibility**." That is [CLAIM-357](../claims.d/CLAIM-357.md)'s split between governance and
+structural frustration, applied to the question whether a regime is
+pathological. A structurally frustrated organization's persistent conflict
+is no evidence of malfunction. A29 offers no standard grounded in the
+organization's own organization, so the question stays open. No status
+changes.

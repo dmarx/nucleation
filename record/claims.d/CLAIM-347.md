@@ -286,3 +286,48 @@ Promoted on [CLAIM-368](CLAIM-368.md) and [TERM-060](../terms.d/TERM-060.md), bo
 Watson's comparison ([THEORY-232](../theory.d/THEORY-232.md)) is the measure this claim refines, cited
 as corroboration, not as a ground. [CLAIM-449](CLAIM-449.md) objects to [CLAIM-440](CLAIM-440.md)'s use of
 the complex, not to this construction.
+
+## Note of 2026-11-04: a horizon example, and the nerve-theorem reading, from "Organizational Nucleation and SLT"
+
+**The horizon index, worked.** The claim indexes the complex to a horizon H
+and a budget B. A8's Proposal C, in answer to the owner's U8, gives a
+worked case:
+
+- Two specialist capacities x₁, x₂ start at 1.
+- They decay as ẋ_i = −x_i + u_i, with u_i ≥ 0 and u₁ + u₂ ≤ 1.
+- Each demand requires x_i(t) ≥ 0.75 throughout the horizon.
+
+Summing gives X ≤ 1 + e^{−t}, while both demands need X ≥ 1.5. So "no
+admissible maintenance policy can satisfy both demands beyond", at H = ln 2.
+The symmetric policy u = ½ attains that bound. The reader checked the
+bound and A's plotted points (0.8894, 0.8033, 0.75, 0.6839, 0.6116,
+0.5677).
+
+The complex therefore holds the pair {1, 2} as a face for H ≤ ln 2 and
+not beyond. A8: "Acquiring a differentiated capacity and acquiring the
+capacity to maintain that differentiation are separate developmental
+achievements." [CASE-189](../cases.d/CASE-189.md), [CASE-191](../cases.d/CASE-191.md) and [CLAIM-520](CLAIM-520.md) hold the maintenance side.
+This example adds only the horizon dependence, so it stays here as a note
+and is not filed as a CASE.
+
+**The nerve-theorem reading.** By definition the complex is the nerve of
+the cover {ℛ ∩ A_i}. A23 used this: "Because these acceptance regions and
+their intersections are convex, they form a *good cover*. The nerve
+theorem then tells us that their compatibility complex has the same
+homotopy type as their union."
+
+- **The example.** A23's simplex model has T_i = {g_i ≥ 0.4} on Δ². Every
+  pair meets and the triple does not, so the complex is ∂Δ² and the union
+  is an annulus.
+- **The limit, which A23 states.** "Without the good-cover conditions, an
+  abstract compatibility complex need not reproduce the topology of the
+  underlying allocation space."
+- **What the hole means.** "a hole in satisfactory accommodation is not
+  necessarily a hole in what the organization can do". The central region
+  is reachable. In it, no demand is met.
+
+The reading holds when the acceptance sets within ℛ are closed and
+convex. It is new to the record. [CLAIM-365](CLAIM-365.md)'s Helly bound is the
+neighbouring convexity fact.
+
+No status changes.

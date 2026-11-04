@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgfyls
 title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-25'
@@ -35,6 +35,12 @@ history:
     corroborated_by (ADR-058): the attack-or-innovation ambiguity it
     reports on r/place is this claim's relativity, observed. The claim
     is unchanged.
+- version: 6
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -74,6 +80,7 @@ supports:
 bears_on:
 - QUESTION-083
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-142 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-279: Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator
@@ -96,8 +103,8 @@ our general process. actually, thinking more about this though, I imagine
 niche specialization effects would emerge". A5 §2 granted it: "An operator
 is not *essentially* a critic, stabilizer, translator, or re-noiser. Those
 are behavioral regimes". Its mechanism is comparative advantage, which is
-recognized and endorsed, and the endorsement brings more exposure and more
-competence.
+recognized and has influence conferred on it, and the conferral brings more
+exposure and more competence.
 
 A8 §2 grounded the relativity in the owner's r/place case ([CASE-079](../cases.d/CASE-079.md)).
 "For the first group, changing an opposing pixel back to its intended color

@@ -3,8 +3,8 @@ number: 277
 status: Active
 formerly:
 - CLAIM-tmpf1063
-title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early'
-version: 4
+title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of grants that policies earn by being right often, and the same loop entrenches whatever gained influence early'
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -27,10 +27,16 @@ history:
     construction of both loops under one endorsement rule. `rests_on:
     CLAIM-282`, which the body stated, is added. The claim's answer
     moves to QUESTION-295, split from QUESTION-083.
+- version: 5
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A population model with endogenous, performance-sensitive endorsement and
+  A population model with endogenous, performance-sensitive grants and
   no authority primitive in which durable, differentiated authority never
   forms, or forms only when a persistence term is added by hand. Or one in
   which durable authority forms but tracks only early advantage and never
@@ -53,8 +59,9 @@ summary: >-
   structures" distinct from "transient endorsement updates": "I'd expect
   persistent authority to be an emergent property here as 'right a lot'
   policies become distinguished into 'trusted' policies." A5 granted it.
-  Momentary endorsement, established trust and institutionalized authority
-  are regimes of one process, set by how slowly endorsers forget. A5 added
+  Momentary grants, established trust and institutionalized authority
+  are regimes of one process, set by how slowly the granting operators
+  forget. A5 added
   the converse: the same loop turns an early lead into durable authority.
   The claim does not say which of the two a given organization does.
 supports:
@@ -71,8 +78,9 @@ grounds:
 answers:
 - QUESTION-295
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
-# CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
+# CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of grants that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
 ## The claim
 
@@ -84,7 +92,7 @@ policies become distinguished into 'trusted' policies."
 
 A5 §1 granted it: "We don't need two kinds of authority, one transient and
 one persistent. We need an authority-allocation process whose dynamics can
-produce different degrees of persistence." With endorsements updated toward
+produce different degrees of persistence." With grants updated toward
 a learned assessment of each operator's suitability,
 Ė_ji = η_j[Q_ji − E_ji], "**Trust is then an emergent temporal regularity of
 endorsement**, not an independently imposed authority category." Momentary
@@ -92,21 +100,21 @@ endorsement, established trust and institutionalized authority "are
 descriptions of different dynamical regimes, not different ontological
 primitives."
 
-A6 §1B gave the knob, a memory kernel over the endorsed operator's track
-record. "A slowly decaying memory kernel means established trust persists
+A6 §1B gave the knob, a memory kernel over the track record of the
+operator granted influence. "A slowly decaying memory kernel means established trust persists
 despite occasional failures. A rapidly decaying kernel makes endorsement
 highly responsive to recent behavior." And A6 §1C separated latent authority
 from the influence currently exercised. "an operator can remain highly
 *trusted* while being temporarily inactive."
 
 A5 named the failure mode in the same loop. One chain is good policy, then
-endorsement, then greater influence, then more chances to show competence.
+grants, then greater influence, then more chances to show competence.
 The other is early advantage, then greater influence, then more visibility,
-then greater endorsement. "This is how a system might develop both
+then greater grants. "This is how a system might develop both
 well-calibrated expertise and undeserved authority."
 
 The claim rests on [CLAIM-282](CLAIM-282.md). The slow route by which an operator's
-authority changes, through others' endorsements, is the route by which
+authority changes, through others' grants, is the route by which
 trust accumulates.
 
 ## What it does not say
@@ -227,4 +235,4 @@ gate. A47's experiment froze competence, so it cannot show the loop
 
 ## Note of 2026-10-28: constructed, and promoted
 
-The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim as the most relied-on Proposed claim with its premises held and no live objection. The body said it rests on [CLAIM-282](CLAIM-282.md), which is Active, and the frontmatter did not, so the edge is added. Neither loop had been constructed. [CASE-182](../cases.d/CASE-182.md) builds both under one endorsement rule (scratch/formal/trust_loop.py). Scored every round, the more accurate of two operators holds the lead durably whatever the start. Scored only when it acts, under sharp selection, the early leader is never displaced. Nothing in the record meets the defeater: in the construction durable authority forms without a persistence term, and under scoring it tracks reliability and not early advantage. The claim answers the first part of [QUESTION-083](../questions.d/QUESTION-083.md), now [QUESTION-295](../questions.d/QUESTION-295.md).
+The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim as the most relied-on Proposed claim with its premises held and no live objection. The body said it rests on [CLAIM-282](CLAIM-282.md), which is Active, and the frontmatter did not, so the edge is added. Neither loop had been constructed. [CASE-182](../cases.d/CASE-182.md) builds both under one grant rule (scratch/formal/trust_loop.py). Scored every round, the more accurate of two operators holds the lead durably whatever the start. Scored only when it acts, under sharp selection, the early leader is never displaced. Nothing in the record meets the defeater: in the construction durable authority forms without a persistence term, and under scoring it tracks reliability and not early advantage. The claim answers the first part of [QUESTION-083](../questions.d/QUESTION-083.md), now [QUESTION-295](../questions.d/QUESTION-295.md).

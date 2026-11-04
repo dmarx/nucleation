@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpwh2jo
 title: 'What separates a language model''s distribution over personas from a distribution over organizational perspectives is not whether the latent model is hierarchical, since a mixture or an LDA-style admixture already is, but whether some latent components condition which others are available or consequential: a model whose components are exchangeable given their weights is organizationally flat however many levels its prior has, and dependencies among components count as organization (organization as relational arrangement) only where interventions, not fit, support them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    content is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +61,7 @@ summary: >-
   H1/H2 contrast is [CLAIM-536](CLAIM-536.md). Proposed: the contrast is argued, and
   no study separates the two kinds of model on a language model.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
 <!-- inactive-ok-file: NOTE-1524 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-029 CLAIM-367 THEORY-490 THEORY-614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
@@ -120,10 +128,10 @@ appearance in the record.
   ([TERM-023](../terms.d/TERM-023.md)). A dependency found in a model could be the simulated
   Assistant's, the network's or the deployed system's ([CLAIM-418](CLAIM-418.md),
   [THEORY-490](../theory.d/THEORY-490.md)). [QUESTION-370](../questions.d/QUESTION-370.md) asks this.
-- **That a Bayesian update among components is endorsement.** The posterior
+- **That a Bayesian update among components is conferral.** The posterior
   over LDA's proportions, or the Persona Selection Model's reading of
   post-training as Bayesian updating, is the analyst's or the optimizer's
-  inference, not a process among the components ([TERM-053](../terms.d/TERM-053.md), [CLAIM-367](CLAIM-367.md)).
+  inference, not a process among the components ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), [CLAIM-367](CLAIM-367.md)).
 
 ## Note of 2026-11-03: the readings
 

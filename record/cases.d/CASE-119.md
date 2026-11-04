@@ -25,6 +25,7 @@ summary: >-
 supports:
 - CLAIM-449
 ---
+<!-- inactive-ok-file: CLAIM-534 CLAIM-tmpu69za — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-119: Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed
 
@@ -74,3 +75,28 @@ higher-order fact is real: the complex is not determined by its
 That specialization tends to produce such relief. Differentiation can
 also add costs or dependencies and shrink what is attainable. Whether and
 when it enlarges ℛ is [QUESTION-133](../questions.d/QUESTION-133.md).
+
+## Note of 2026-11-04: a budget form with intervention probabilities, from "Organizational Nucleation and SLT"
+
+A16 §5, answering the owner's U15, gives this case in continuous form.
+Three perspectives share two units of governing opportunity:
+x_i ≥ 0, x_i ≤ 1, Σx_i ≤ 2. Each wants one unit, with discrepancy
+d_i = 1 − x_i and tolerance 0.2, so each accepts x_i ≥ 0.8.
+
+- Any pair needs 1.6 units, so every pair is jointly satisfiable.
+- The triple needs 2.4, so it is not. The complex is ∂Δ², and the minimal
+  conflict has three members, as here.
+- With intervention probability σ(16(d − τ)), the owner's corrected form
+  of U15's complaint probability (U17), every feasible allocation leaves
+  some perspective at least at σ(16(1/3 − 0.2)) ≈ 0.894. The best is
+  x_i = 2/3. "It cannot eliminate the underlying conflict; it can only
+  distribute the departures from each perspective's ideal."
+
+The reader rechecked this: a grid search gives min-max discrepancy 1/3, and
+σ(2.133) = 0.8941. A16 calls the result "the distinction between
+**resolving a conflict** and **governing an unavoidable conflict**". In this
+case's terms, the second is [CLAIM-534](../claims.d/CLAIM-534.md)'s allocation, and relief would need a
+larger budget or a composite policy, as here.
+
+It is a variant, not a new construction. Its use is [CLAIM-tmpu69za](../claims.d/CLAIM-tmpu69za.md).
+No status changes.

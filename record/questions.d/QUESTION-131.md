@@ -26,6 +26,7 @@ summary: >-
   possible, and what evidence attributes either to a bearer. Merely
   failing to realize an attainable set of requirements is neither.
 ---
+<!-- inactive-ok-file: CLAIM-tmpv67b2 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: LIT-1954 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-131: How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent's demands, and under what conditions can one occur without the other?
@@ -185,5 +186,39 @@ experience, support and thwarting as environment) and their "cross-paths",
 thwarting without frustration and the reverse ([NOTE-1509](../notes.d/NOTE-1509.md)), are the
 psychology's version of the separations asked for, given as examples, not
 shown. Bartholomew et al.'s thwarting scale is Unfetched.
+
+The question stays open.
+
+## Note of 2026-11-04: competition is a further relation, and the governance case, from "Organizational Nucleation and SLT"
+
+After the owner's U7 ("I think nucleation's account of "frustration" might
+bring some useful nuance that I think your invocation of "competition"
+misses"), A7 drew a table, credited to [CLAIM-449](../claims.d/CLAIM-449.md), [CLAIM-368](../claims.d/CLAIM-368.md) and this
+question:
+
+| Phenomenon | What it establishes (A7) |
+|---|---|
+| Contested rankings | "Processes prefer different outcomes" |
+| Competition | "Processes influence one another's access to resources or opportunities" |
+| Structural frustration | "No attainable outcome satisfies all specified demands" |
+| Operative thwarting | "A constituent's attempted realization is causally obstructed" |
+| Strain | "Sustaining activity incurs substantial regulatory cost" |
+| Distress | "A possible integrated response to difficulty" |
+
+The competition row is A7's own. No entry holds it. It meets this question's
+own sentence partway: "Two processes with individually attainable objectives
+that compete for one shared resource are structurally frustrated as a pair."
+Competitors that coexist are not frustrated, and frustration needs no
+competitor ([CLAIM-347](../claims.d/CLAIM-347.md)'s 120° gradients).
+
+**The split A7 missed.** A7: "Nor is every unmet demand frustrated. A jointly
+acceptable outcome might exist but go unrealized because the organization
+lacks the information, search capacity, or effective control to produce it."
+That matches this question's middle row, non-attainment, "not established".
+But the causes it names are [TERM-060](../terms.d/TERM-060.md)'s "Frustrated, by governance" and
+[CLAIM-357](../claims.d/CLAIM-357.md)'s "manufactured frustration". The table therefore needs a row
+between structural frustration and operative thwarting.
+
+Candidate account 3 is developed in [CLAIM-tmpv67b2](../claims.d/CLAIM-tmpv67b2.md).
 
 The question stays open.

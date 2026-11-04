@@ -256,3 +256,20 @@ unread, is now Unavailable. The question is unchanged and stays Open.
   Chesson.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-04: a dormant specialist with negative recovery growth, from "Organizational Nucleation and SLT"
+
+This question already separates a specialist kept active from one kept "dormant but recoverable". [CASE-117](../cases.d/CASE-117.md) measures recovery with frozen parameters. A8's Proposal D, answering the owner's U8, adds explicit numbers:
+
+- A specialist useful in a rare context, of probability 0.01, has active intensity multiplied by 0.99 in ordinary contexts and by 2 in its own.
+- Its long-run growth exponent is λ = 0.99 log 0.99 + 0.01 log 2 ≈ −0.00302. The reader checked it.
+- So it declines when rare.
+- An organization that keeps an archive of the capability and a reactivation channel keeps it recoverable.
+
+A8: "What is missing is an explicit construction where **the ecological recovery exponent is negative while task-relevant organizational recoverability remains positive**." And: "A demand might concern the organization's **capacity to produce a response when needed**, rather than the uninterrupted activity of a particular specialist."
+
+A8 states the costs such a comparison must charge: the archive, the detector and the reactivation mechanism, and "which processes maintain them". A8 also asks a question of individuation: "when a dormant specialist is reconstructed rather than reactivated, what continuity of capacity or organizational history remains?"
+
+The example restates this question's dormant case with numbers. It is not filed as a CASE.
+
+No status changes.
