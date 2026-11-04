@@ -161,7 +161,7 @@ What A16 adds here:
   likely to succeed and persist, but it is not necessary. This qualifies
   "only coordination can build or defend an image" above, and the reading
   of the plans as the only influence canvas: the canvas is a channel too.
-  THEORY-224 (Adams, Fernandez and Witkowski, LIT-1034) holds the two
+  [THEORY-224](../theory.d/THEORY-224.md) (Adams, Fernandez and Witkowski, [LIT-1034](../literature.d/LIT-1034.md)) holds the two
   kinds, objects that spread by a local rule and are predictable from the
   canvas, and objects copied from designs coordinated elsewhere.
 - In this record's terms, the first is relief in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, and
