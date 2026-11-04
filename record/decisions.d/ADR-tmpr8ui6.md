@@ -1,5 +1,4 @@
 ---
-number: 68
 status: Active
 title: 'A Read note on a work marked Unavailable, Unfetched or Deferred fails lint'
 version: 1
@@ -19,7 +18,7 @@ summary: >-
   skims.
 ---
 
-# ADR-068: A Read note on a work marked Unavailable, Unfetched or Deferred fails lint
+# ADR-tmpr8ui6: A Read note on a work marked Unavailable, Unfetched or Deferred fails lint
 
 ## Context
 
