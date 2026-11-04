@@ -1,0 +1,220 @@
+---
+status: Read
+paper: LIT-tmp6aw6y
+title: 'Kemp, Goodman and Tenenbaum — Learning to learn causal models'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Read on 2026-11-04 from the publisher-typeset Early View PDF, 59
+    pages paginated "Cognitive Science (2010) 1–59", posted on Charles
+    Kemp's own site
+    (https://www.charleskemp.com/papers/kempgt10_learningtolearncausalmodels.pdf)
+    and linked from https://charleskemp.com/. Text extracted by pdftotext.
+    Read: the main text in full (§§1–12), the figure captions, the notes
+    and the first part of the Appendix (the priors on strength and
+    background, the CRP prior on categories). Not read: the rest of the
+    Appendix (MCMC details) and the reference list. Page numbers below are
+    the PDF's; the issue's are 1184 higher.
+date: '2026-11-04'
+summary: >-
+  A three-level hierarchical Bayesian model in which a causal schema,
+  categories of objects with category-level causal powers, features and
+  pairwise interactions, is learned from contingency and feature data and
+  then lets a new object's causal model be learned from one trial or from
+  its features. Four adult experiments (16 to 32 participants each, one
+  blocks-and-machine paradigm) show one-shot and zero-shot causal
+  learning, overruling of the schema, and categories found from
+  interactions alone. The model beats a bottom-up and an exemplar baseline
+  qualitatively; it misses one condition of Experiment 1 and is
+  overconfident in Experiment 4.
+---
+<!-- inactive-ok-file: THEORY-tmpablo5 CLAIM-543 CASE-165 THEORY-1137 — Proposed or new; cited from the reading of Kemp, Goodman and Tenenbaum (2010) as open -->
+
+# NOTE-tmpvyejl: Kemp, Goodman and Tenenbaum — Learning to learn causal models
+
+## Contribution
+
+A computational-level account of learning to learn in the causal domain.
+It joins categorization in the style of the infinite relational model
+(categories predict relations), Anderson-style feature-based
+categorization, and causal Bayes nets at the object level, under an
+abstract representation above the networks: the causal schema. The
+authors call it "one of the first attempts to explore learning to learn in
+a causal" setting (p. 48). Four experiments on adults test one-shot and
+zero-shot learning shaped by the learned schema. Against Kemp et al.
+(2007), LIT-tmplu70i, the top level is a whole schema, not one or two
+parameters.
+
+## Key insight
+
+Learning to learn is "discovering and exploiting common elements across
+problems" (p. 2). Here the common element is a categorization of objects:
+once blocks are sorted into kinds with shared causal powers, one trial, or
+a block's look alone, assigns a new block to a kind and so supplies most
+of its causal model. Members of a category share a distribution over
+causal models, not one model, so a block can still be overruled into a new
+category.
+
+## Assumptions
+
+- **Given in advance** (p. 7): the domains, events and domain-level
+  problem, and "the existence of the hierarchy in Fig. 1A is known in
+  advance". Learning is search among candidates within it.
+- **Computational level.** Inferences are taken as the
+  maximum-posterior representations; MCMC "is not intended as a model" of
+  processing (p. 14).
+- **Flat, non-overlapping categories**, a CRP partition; "Our model does
+  not incorporate the notion of a causal hierarchy" (p. 49).
+- **Causal form.** Noisy-OR and noisy-AND-NOT with a background cause;
+  pairwise interactions follow Novick and Cheng's (2004) sequential model.
+  Priors favour strong causes and a weak background, after Lu et al.
+  (2008).
+- **Causal data weigh more.** For the adult fits γc = 0.1 < γf = 0.5, so
+  causal information is the more reliable guide to category membership.
+- **Hyperparameters "were not tuned to fit our experimental results"**
+  (Appendix, p. 56).
+- **Relevant features and events are obvious**; selecting them is left to
+  future work.
+
+## Key results
+
+- **Abstract (p. 1).** "Our results confirm that humans learn" rapidly
+  about the causal powers of novel objects; the framework accounts better
+  "for our data than alternative models of causal learning".
+- **Experiment 1, one-shot learning (p. 19).** Training on different
+  schemata changes how a single trial with a new block is read. In the
+  p = {0.1, 0.9} condition the human curve "does not match the bimodal
+  curve predicted by the model", and the responses "provide no evidence
+  that participants have" found two categories; Experiment 3 is offered as
+  resolving it.
+- **Experiment 2, overruling (pp. 22–23).** As predicted, the curve for a
+  new block rises faster when training blocks never activated than when
+  they sometimes did; the authors note a simple associative account might
+  predict the reverse.
+- **Baselines (p. 24).** "Overall, neither baseline model can account for
+  our results." The exemplar model fits Experiment 1 "fairly well" but not
+  Experiment 2; the bottom-up model cannot separate the conditions. They
+  are "aware of no simple alternative that will account for" all the data.
+- **Experiment 3, zero-shot and sorting (p. 30).** With causal data the
+  family-resemblance sort was the modal choice (8 of 24); without, "none
+  of 24 participants" chose it; yet "only 13 of the 24 assigned" strong
+  and weak activators to separate categories.
+- **Experiment 4, interactions only (pp. 37–39).** Categories discoverable
+  only from pairwise activations; one-shot inference from a single
+  pairwise trial, with posttest but not pretest differences significant.
+  But "the model is often extremely confident in cases where the mean
+  human response appears to be a" U-shaped curve, and "An approach similar
+  to the exemplar model described earlier will account for" the test-block
+  inferences, which the authors reject on memory and sorting grounds.
+- **Development (pp. 43–44).** Learning γc and γf across systems gives a
+  shift from perceptual to causal categorization, but "The simulation
+  results in Fig. 22C are based on a simple artificial scenario".
+
+## Concepts
+
+- **Learning to learn**: "discovering and exploiting common elements
+  across problems", so later problems in a family are solved faster;
+  related to transfer, multitask and lifelong learning and learning sets.
+- **Causal schema**: categories, their category-level causal models and
+  their feature means together (Fig. 3); "a set of constraints that
+  captures the structure of all problems in the family" (p. 2).
+- **Domain-level and object-level problems**: e.g. ingests(person, drug)
+  → headache(person), and each person–drug instance of it.
+- **Object-level causal model**: arrow a, polarity g, strength s, and
+  background strength b.
+- **Event (contingency) data**: counts of the effect with and without the
+  cause.
+- **One-shot and zero-shot causal learning**: inference about a new object
+  from one trial, or from its features alone.
+
+## Connections
+
+It extends Kemp, Perfors & Tenenbaum (2007), LIT-tmplu70i, and draws on
+the infinite relational model, Anderson's rational categorization, Cheng's
+causal power and Griffiths & Tenenbaum's causal Bayes nets, Novick & Cheng
+(2004) and Lu et al. (2008). It cites Lucas & Griffiths (2010) for learning
+the functional form of causal relations, not read here. Hierarchies of
+categories (Kemp et al. 2004; Kemp & Tenenbaum 2008; Schmidt et al. 2006)
+are named as the extension its flat CRP lacks, the direction of LIT-1542's
+nested CRP.
+
+## Bearing on the record
+
+- **The synthesis's description.** A, in the owner's pasted synthesis, is
+  right on the attribution, the local models and abstract schemas, the
+  four experiments, rapid learning about unfamiliar objects and why prior
+  learning speeds a new system.
+  - **A's paraphrase in quotation marks.** "Across four experiments,
+    participants exhibited rapid learning about unfamiliar objects' causal
+    properties. The hierarchical model accounted for their judgments better
+    than alternative causal-learning models." is not in the paper; it
+    paraphrases the abstract.
+  - **Overstated.** The alternatives are two simple baselines, an exemplar
+    model "inspired by standard models in the categorization literature"
+    (p. 15) and a bottom-up model, compared qualitatively and formally only
+    for Experiments 1–2. No rival causal-learning theory is fitted; the
+    authors say "we know of no previous model that attempts to" capture
+    causal learning at several levels of abstraction (p. 15). Nor does the
+    model fit throughout: Experiment 1's probabilistic condition and
+    Experiment 4's overconfidence.
+  - **Missing.** That the schema is a categorization of objects, which does
+    the transfer; zero-shot inference from features; interaction-only
+    categories; that every experiment is on adults ("a full evaluation of
+    our approach as a developmental model is left for future work", p. 3);
+    the list of what is given in advance.
+  - **Lucas and colleagues (2010).** Lucas & Griffiths, two authors;
+    "colleagues" is loose, not wrong. Not read.
+- **QUESTION-276 (overlapping higher-level perspectives from members'
+  activity).** Qualifies. Experiment 4 and the model infer latent
+  groupings from interaction data alone, with no distinguishing features
+  and no fixed number: a precedent for inferring higher-level structure
+  from how members interact. The interaction trials are interventions, a
+  block placed in the machine, which bears on the question's worry about
+  common causes. But the categories partition and do not overlap, and the
+  test is of adults' predictions and sorts, not of an organization's
+  response to intervention. Dated note added.
+- **CLAIM-543 (hierarchy alone is not organization).** Qualifies. The
+  schema's between-category interaction models are dependencies among
+  latent components learned from intervention data, nearer to what the
+  claim counts as organization than LIT-tmplu70i's exchangeable
+  categories. They are dependencies in what the components do jointly,
+  not components conditioning which others are available, and the
+  categories are "not grouped into higher-level categories". Dated note
+  added.
+- **THEORY-1012.** Related: categories generate both features and causal
+  powers, a partition analogue of a category layer making features
+  co-vary.
+- **LIT-1542 and THEORY-969 (nested CRP).** Named by the authors, in
+  effect, as future work.
+- **CASE-165.** Unrelated in formalism: partition, not feature allocation.
+- **THEORY-1137 and LIT-1551 (causal abstraction).** Unrelated: maps
+  between causal models of one system, not schemata learned across many.
+- **LIT-563 and NOTE-466 (HDDM).** Unrelated in aim.
+- Filed: THEORY-tmpablo5. No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The authors' own.** Background knowledge given (§2, §11.2); no causal
+  hierarchy; event categories not learned; the developmental simulation an
+  "artificial scenario"; adults only; demanding sorting tasks; the missing
+  bimodality in Experiment 1; no account of where the concepts of schema
+  or causal power come from.
+- **No fit indices.** The claim to account better rests on qualitative curve matching
+  against two weak baselines.
+- **Small samples** of 16 to 32 per experiment from the MIT and CMU
+  communities, and one paradigm throughout.
+- **The Experiment 4 exemplar rival** is dismissed partly by appeal to a
+  separate paper (Kemp et al. 2010).
+- **A caption slip.** Fig. 11 reads "Mean responses to Experiment 1" where
+  it plots Experiment 2.
+
+## Open questions
+
+- Do people's judgments about a sparsely observed new object follow the
+  causal powers of the category its trials or features assign it to,
+  outside the blocks-and-machine paradigm?
+- Can categories inferred from interactions overlap, as QUESTION-276
+  needs, or must they partition?

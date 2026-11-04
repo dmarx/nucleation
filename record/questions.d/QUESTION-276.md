@@ -189,3 +189,28 @@ fixed, and two responses would be one perspective's if they share one.
 criterion is fixed, so an answer should state what the signature is
 sufficient for. A28 ran no model. The wording is A's, sharpened by the
 reader; adopting it is the owner's call. No status changes.
+
+## Note of 2026-11-04: Kemp, Perfors and Tenenbaum, "Learning overhypotheses", read
+
+LIT-tmplu70i, read in NOTE-tmpazn9q, qualifies this question weakly. Its
+ontological-kinds model puts a Chinese-restaurant prior over categories and
+infers how many kinds there are, objects and substances, from the
+categories' features and their variability, so a higher-level grouping is
+found without its number being fixed. But it is a partition: each category
+belongs to one kind, so it is no precedent for overlap, which remains the
+Indian-buffet line of LIT-1623 and LIT-1556. It says nothing about telling
+such groupings from a common cause, or about interventions. No status
+changes.
+
+## Note of 2026-11-04: Kemp, Goodman and Tenenbaum, "Learning to Learn Causal Models", read
+
+LIT-tmp6aw6y, read in NOTE-tmpvyejl, qualifies this question. Its
+Experiment 4 and model infer categories of objects from pairwise
+interactions alone, with no distinguishing features and their number not
+fixed: a precedent for inferring higher-level structure from how members
+act together. The interaction trials are interventions, a block placed in
+the machine, which bears on the worry about coactivity from a common
+cause. It leaves open the rest: the categories partition and do not
+overlap, and the evidence is adults' predictions and sorts in one
+paradigm, not an organization's responses to interventions on its
+records, membership and authority. No status changes.
