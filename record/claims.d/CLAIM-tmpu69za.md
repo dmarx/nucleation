@@ -1,14 +1,14 @@
 ---
 status: Proposed
-title: 'Give each of an individual''s perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt''s satisfaction, an absence of restlessness or resistance, wholeheartedness is the effective will lying below every perspective''s thresholds, which a structurally frustrated individual can reach only by being quiet, not by having its demands met'
+title: 'Give each of an individual''s perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective''s tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change'
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A case the record accepts of an individual who is wholehearted in
-  Frankfurt's sense, satisfied with no restlessness or resistance, while
-  some perspective it maintains is past its intervention threshold and
-  would intervene given a channel; or a showing that the propensity to
+  A case the record accepts of an individual who acts wholeheartedly in
+  Frankfurt's sense while some perspective it maintains is past its
+  threshold on the will it acts on, whether or not that perspective has a
+  channel; or a showing that the propensity to
   intervene cannot be told apart from channel loss under any intervention,
   as CASE-129's two alarms would be if no new hazard ever separated them.
   Not defeated by the lack of a measured propensity in any real agent,
@@ -62,7 +62,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 CLAIM-tmp6zm3v CLAIM-tmp7oo4d CLAIM-tmp8e3ye TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmpu69za: Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt's satisfaction, an absence of restlessness or resistance, wholeheartedness is the effective will lying below every perspective's thresholds, which a structurally frustrated individual can reach only by being quiet, not by having its demands met
+# CLAIM-tmpu69za: Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
 
 ## The claim
 
@@ -116,32 +116,44 @@ discrepancies under a fixed channel; suppression should change the
 channel's efficacy while the underlying rejection remains". This is
 [CLAIM-364](CLAIM-364.md) and [CASE-129](../cases.d/CASE-129.md), and [THEORY-152](../theory.d/THEORY-152.md)'s voice as a feedback channel.
 
-**Read as Frankfurt's satisfaction (the reader's).** [THEORY-120](../theory.d/THEORY-120.md) reports
-Frankfurt's later criterion of identification as "satisfaction", "an
-absence of 'restlessness or resistance'" ([LIT-296](../literature.d/LIT-296.md), n. 1, by report). It
-holds his 2004 condition first-hand: "no conflict in us between this
-motive and any desire at any higher order" ([LIT-293](../literature.d/LIT-293.md), p. 178). The owner's
-two thresholds match Frankfurt's two words:
+**Read through Frankfurt (the reader's).** THEORY-120 holds Frankfurt's
+2004 condition first-hand: "no conflict in us between this motive and any
+desire at any higher order" (LIT-293, p. 178), with identification as
+willing acceptance. It reports his later "satisfaction", "an absence of
+'restlessness or resistance'" (LIT-296, n. 1, by report). Both are about
+the will that moves the agent to act, not about whether the agent acts or
+complains. In this construct:
 
-- **resistance** is a perspective past its intervention threshold;
-- **restlessness** is a perspective past its activation threshold, active
-  without intervening ([TERM-053](../terms.d/TERM-053.md)'s note of 2026-11-04 separates the two).
+- an individual is wholehearted at w when w, the will it acts on, lies
+  within every maintained perspective's tolerance: d_i(w) ≤ τ_i for all
+  i. That is the full face of 𝒦_τ, the requirement complex at the
+  declared tolerances. A wholehearted individual can act vigorously; what
+  it lacks is a perspective set against the will it acts on;
+- quiet is not wholeheartedness. A perspective past τ_i whose channel is
+  lost (s_i ≈ 0) does not intervene, yet the conflict Frankfurt's
+  condition excludes is there. Quiet counts as evidence only when the
+  channel is known (CASE-129). Mapping wholeheartedness onto the quiescent
+  complex would have contradicted this claim's own point, that not
+  intervening is not endorsing; by CLAIM-tmp7oo4d the two complexes can
+  differ;
+- an individual whose 𝒦_τ lacks the full face cannot act wholeheartedly
+  with any attainable will, whatever higher-order volition
+  (TERM-tmp0evbm) it forms. Its minimal non-faces are its minimal
+  ambivalences;
+- it can become wholehearted only by changing a demand: a raised τ_i, or
+  a new d_i. Frankfurt's willing acceptance "may be resigned"
+  (THEORY-120). In this construct resignation is a raised tolerance, a
+  perspective that now accepts w, not one that has been silenced. By
+  CLAIM-347 that is a change of demand, not relief. Whether it still
+  counts as identification is the dispute THEORY-120 records between
+  LIT-291 and LIT-293 (p. 173);
+- the graded q_i gives a graded form of what THEORY-120 makes all or
+  nothing: how far past its tolerance each dissenting perspective is.
+  That meets THEORY-054's objection inside Frankfurt's own criterion.
 
-So:
-
-- an individual is wholehearted at w, in this sense, when every
-  perspective it maintains is below both thresholds at w;
-- that is a face of the quiescent complex, not of the requirement complex.
-  By [CLAIM-tmp7oo4d](CLAIM-tmp7oo4d.md) the two can differ. An individual whose demands cannot
-  be jointly met can still be quiet, if its thresholds are high enough.
-  That is resigned acceptance, which [THEORY-120](../theory.d/THEORY-120.md) records as disputed: low
-  intervention at high discrepancy;
-- an individual whose quiescent complex lacks the full face cannot be
-  wholehearted, whatever higher-order volition ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)) it forms.
-  Its minimal non-faces are its minimal ambivalences;
-- the graded q_i gives a graded form of what [THEORY-120](../theory.d/THEORY-120.md) makes all or
-  nothing. That meets [THEORY-054](../theory.d/THEORY-054.md)'s objection inside Frankfurt's own
-  criterion.
+The filing of 48d2ca5 mapped wholeheartedness onto quiescence below both
+thresholds. The owner questioned that at review, and it is withdrawn: it
+read an absence of conflict as an absence of signal.
 
 ## What it does not say
 
