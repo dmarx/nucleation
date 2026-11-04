@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmpx391x, Skimmed) from arXiv v2; worth
+  read in part 2026-11-04 ([NOTE-tmpx391x](../notes.d/NOTE-tmpx391x.md), Skimmed) from arXiv v2; worth
   reading as an exact solver for the spatial hypercube queueing model
   extended to server-specific service rates, by a birth–death
   decomposition and an equivalent reformulation with geometric
   convergence, parallelized, and as the clearest open statement of what
   Larson (1974) contributed: the alternating hyperplane solution method
   and the TOUR algorithm. Registered as a stand-in for Larson (1974),
-  LIT-tmpum63p, for the solution method only. Its main limits, as read:
+  [LIT-tmpum63p](LIT-tmpum63p.md), for the solution method only. Its main limits, as read:
   the convergence proofs, the parallel algorithm and most of the numerical
   section were not read, so the convergence and speed-ups are reported,
   not checked; a preprint, with no journal version found.
@@ -62,7 +62,7 @@ Hua, C., Luo, J., Swersey, A. J. & Wen, Y. (2026). A Geometrically Convergent So
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpx391x: §1, the model statement of §2, the
+*From the reading, [NOTE-tmpx391x](../notes.d/NOTE-tmpx391x.md): §1, the model statement of §2, the
 TOUR paragraph of §3 and the comparison of §5.*
 
 - **The extension.** Exact solution with heterogeneous service rates,
@@ -77,9 +77,9 @@ TOUR paragraph of §3 and the comparison of §5.*
 
 ## Standing in the record
 
-Registered as a stand-in for Larson (1974), LIT-tmpum63p, which the pasted
+Registered as a stand-in for Larson (1974), [LIT-tmpum63p](LIT-tmpum63p.md), which the pasted
 bibliography on emergency readiness cites and which could not be found. It
 is the only source reached that says what the 1974 paper itself
 contributed, the exact solution method, as distinct from the model in
 general. It says nothing of the paper's location or redistricting content.
-The account filed from it is THEORY-tmptcu66.
+The account filed from it is [THEORY-tmptcu66](../theory.d/THEORY-tmptcu66.md).

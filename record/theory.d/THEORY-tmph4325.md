@@ -17,9 +17,9 @@ date: '2026-11-04'
 source:
 - LIT-tmpe9zd7
 summary: >-
-  Larson and Odoni (1981), LIT-tmpe9zd7, chapter 5, §§5.4–5.5, read in
-  prose in NOTE-tmpxzaki; the textbook restatement of the model introduced
-  in Larson (1974), LIT-tmpum63p, which could not be read. Proposed: the
+  Larson and Odoni (1981), [LIT-tmpe9zd7](../literature.d/LIT-tmpe9zd7.md), chapter 5, §§5.4–5.5, read in
+  prose in [NOTE-tmpxzaki](../notes.d/NOTE-tmpxzaki.md); the textbook restatement of the model introduced
+  in Larson (1974), [LIT-tmpum63p](../literature.d/LIT-tmpum63p.md), which could not be read. Proposed: the
   prose states the state space, the dispatch rule, the assumptions and
   which measures are computed, but the equations are images and were not
   seen. It says nothing about valuing a unit, and the basic model evaluates
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Larson and Odoni (1981), LIT-tmpe9zd7; read in NOTE-tmpxzaki, the prose of
-§§5.4–5.5. The model is Larson (1974), LIT-tmpum63p, unread.
+Larson and Odoni (1981), [LIT-tmpe9zd7](../literature.d/LIT-tmpe9zd7.md); read in [NOTE-tmpxzaki](../notes.d/NOTE-tmpxzaki.md), the prose of
+§§5.4–5.5. The model is Larson (1974), [LIT-tmpum63p](../literature.d/LIT-tmpum63p.md), unread.
 
 ## What was actually shown
 

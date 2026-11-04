@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmpxzaki, Skimmed), the prose of §§5.4–5.5
+  read in part 2026-11-04 ([NOTE-tmpxzaki](../notes.d/NOTE-tmpxzaki.md), Skimmed), the prose of §§5.4–5.5
   and §5.3.5 of the online edition posted by MIT; the equations, tables and
   figures there are images and were not seen. Worth reading as the
   authors' own textbook statement of the hypercube queueing model of urban
@@ -10,7 +10,7 @@ status_note: >-
   fixed-preference dispatch; the nine assumptions; and the unit
   workloads, inter-district dispatch fractions and travel times computed
   from the steady state, with Larson's N-equation approximation.
-  Registered as the stand-in for Larson (1974), LIT-tmpum63p, whose model
+  Registered as the stand-in for Larson (1974), [LIT-tmpum63p](LIT-tmpum63p.md), whose model
   it restates and cites. Its main limits: the basic model evaluates the
   response areas a user supplies rather than optimizing them; priority
   dispatching is excluded; one unit is sent per call; exact computation
@@ -72,7 +72,7 @@ Larson, R. C. & Odoni, A. R. (1981). *Urban Operations Research*. Prentice-Hall,
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpxzaki: chapter 5, §§5.4–5.5, prose only.*
+*From the reading, [NOTE-tmpxzaki](../notes.d/NOTE-tmpxzaki.md): chapter 5, §§5.4–5.5, prose only.*
 
 - **The state space.** "The model's name derives from the state space
   describing the availabilities of servers" (§5.4): each server is busy
@@ -92,10 +92,10 @@ Larson, R. C. & Odoni, A. R. (1981). *Urban Operations Research*. Prentice-Hall,
 
 ## Standing in the record
 
-Registered as the stand-in for Larson (1974), LIT-tmpum63p, which the
+Registered as the stand-in for Larson (1974), [LIT-tmpum63p](LIT-tmpum63p.md), which the
 pasted bibliography on emergency readiness cites and which could not be
 found. Larson is the model's originator, and the book cites the 1974 paper
 as [LARS 74a] for the model's generalizations and its computer-efficient
 solution. It restates the model, not the paper: it does not give the
 paper's solution algorithm, any location or redistricting search, or its
-examples. The account filed from it is THEORY-tmph4325.
+examples. The account filed from it is [THEORY-tmph4325](../theory.d/THEORY-tmph4325.md).

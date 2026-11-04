@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmpy7mc8, Skimmed) from arXiv v1: the
+  read in part 2026-11-04 ([NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md), Skimmed) from arXiv v1: the
   abstract and §2 only. Worth reading for §2's compact account of the
   probabilistic ambulance-location models, MEXCLP, MALP and Sorensen and
   Church's local-reliability LR-MEXCLP, with their assumptions and the
   area-specific busy fraction, and for multi-period forms of FLEET and
   LR-MEXCLP that allow ambulances to be relocated between periods,
   applied to the emergency medical service of Belo Horizonte. Registered
-  as a stand-in for Daskin (1983), LIT-tmpt3a4i, and ReVelle and Hogan
-  (1989), LIT-tmpjzyct, on what those models maximize and assume. Its main
+  as a stand-in for Daskin (1983), [LIT-tmpt3a4i](LIT-tmpt3a4i.md), and ReVelle and Hogan
+  (1989), [LIT-tmpjzyct](LIT-tmpjzyct.md), on what those models maximize and assume. Its main
   limits, as read: a survey section that gives no formulation of MEXCLP's
   or MALP's own objective; the multi-period models and case-study results
   were not read; a preprint.
@@ -66,7 +66,7 @@ de Oliveira, C. P., de Sá, E. M. & Martins, F. V. C. (2020). A multi-period and
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpy7mc8: the abstract and §2.*
+*From the reading, [NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md): the abstract and §2.*
 
 - **MEXCLP.** "Simplifying assumptions regarding the uniform server
   busyness and the independence of the servers are made in MEXCLP"
@@ -83,8 +83,8 @@ de Oliveira, C. P., de Sá, E. M. & Martins, F. V. C. (2020). A multi-period and
 
 ## Standing in the record
 
-Registered as a stand-in for Daskin (1983), LIT-tmpt3a4i, and ReVelle and
-Hogan (1989), LIT-tmpjzyct, which the pasted bibliography on emergency
+Registered as a stand-in for Daskin (1983), [LIT-tmpt3a4i](LIT-tmpt3a4i.md), and ReVelle and
+Hogan (1989), [LIT-tmpjzyct](LIT-tmpjzyct.md), which the pasted bibliography on emergency
 readiness cites and which could not be found. It states what those models
 maximize and assume, not their formulations, properties or results. The
-account filed from it, on its own multi-period models, is THEORY-tmpegbva.
+account filed from it, on its own multi-period models, is [THEORY-tmpegbva](../theory.d/THEORY-tmpegbva.md).

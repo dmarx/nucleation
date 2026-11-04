@@ -100,8 +100,8 @@ assumes independence and locally constrained areas.
 
 ## Connections
 
-A neighbour of Daskin (1983), LIT-tmpt3a4i, and of ReVelle and Hogan
-(1989), LIT-tmpjzyct, read in their place.
+A neighbour of Daskin (1983), [LIT-tmpt3a4i](../literature.d/LIT-tmpt3a4i.md), and of ReVelle and Hogan
+(1989), [LIT-tmpjzyct](../literature.d/LIT-tmpjzyct.md), read in their place.
 
 - **Of Daskin (1983)** it restates what MEXCLP maximizes (expected coverage
   given that servers may be busy), its two simplifying assumptions, and
@@ -128,17 +128,17 @@ A neighbour of Daskin (1983), LIT-tmpt3a4i, and of ReVelle and Hogan
   utilization maximization": nothing here sets MALP against utilization
   maximization, and that contrast is A's. It reports an objection to MALP's
   α objective that A does not mention.
-- **TERM-055 (operational availability): qualifies.** q_{ik} is a chance
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability): qualifies.** q_{ik} is a chance
   of deployment within the time standard, lost to congestion alone, under
   independence, with no cue or procedure and belonging to a demand node
   under a siting plan rather than to one resource. A's claim that MALP
-  "maps naturally onto" TERM-055 is too strong: it is at most a special
+  "maps naturally onto" [TERM-055](../terms.d/TERM-055.md) is too strong: it is at most a special
   case of the term.
-- **CLAIM-296 and CLAIM-312: qualify.** A covering ambulance that is busy
+- **[CLAIM-296](../claims.d/CLAIM-296.md) and [CLAIM-312](../claims.d/CLAIM-312.md): qualify.** A covering ambulance that is busy
   is present but not deployable within the standard.
-- CLAIM-079, CLAIM-347, CLAIM-517, QUESTION-132 and the other entries A
+- [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md) and the other entries A
   cited: unrelated.
-- Filed from this reading: THEORY-tmpegbva.
+- Filed from this reading: [THEORY-tmpegbva](../theory.d/THEORY-tmpegbva.md).
 
 ## Limitations
 

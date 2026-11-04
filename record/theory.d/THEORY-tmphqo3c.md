@@ -15,7 +15,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpv1cro
 summary: >-
-  Mukhopadhyay et al. (2020), LIT-tmpv1cro, read in part in NOTE-tmpdnqqh
+  Mukhopadhyay et al. (2020), [LIT-tmpv1cro](../literature.d/LIT-tmpv1cro.md), read in part in [NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md)
   (§6.1 and Table 1). An account of how the review organizes the coverage
   literature, not of any model's correctness; the reader proposed none,
   since the part read is a taxonomy, and this one is limited to what that
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Mukhopadhyay et al. (2020), LIT-tmpv1cro; read in NOTE-tmpdnqqh.
+Mukhopadhyay et al. (2020), [LIT-tmpv1cro](../literature.d/LIT-tmpv1cro.md); read in [NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md).
 
 ## What was actually shown
 

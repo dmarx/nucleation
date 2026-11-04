@@ -13,12 +13,12 @@ status_note: >-
   text, and https://www.ojp.gov/pdffiles1/Digitization/11696NCJRS.pdf,
   which returned 404; web searches for an author, course or institutional
   copy, which found none. Two neighbours stand in for it. Larson and
-  Odoni's textbook, LIT-tmpe9zd7, §§5.4–5.5 read in prose, restates the
+  Odoni's textbook, [LIT-tmpe9zd7](LIT-tmpe9zd7.md), §§5.4–5.5 read in prose, restates the
   model (the busy/free state space on the vertices of an N-cube,
   geographical atoms, fixed-preference dispatch, the nine assumptions and
   the performance measures) and cites this paper for its generalizations
   and its computer-efficient solution. Hua, Luo, Swersey and Wen (2026),
-  LIT-tmpws93a, credit this paper specifically with the alternating
+  [LIT-tmpws93a](LIT-tmpws93a.md), credit this paper specifically with the alternating
   hyperplane solution method and the TOUR algorithm. Neither stands in for
   the facility location and redistricting of its title, its numerical
   examples or its own statement of the method.
@@ -88,15 +88,15 @@ against the original.*
   source of calls; N units, each busy or free; dispatch by a fixed
   preference list per atom. The textbook restating it says "The model's
   name derives from the state space describing the availabilities of
-  servers" (LIT-tmpe9zd7, §5.4).
+  servers" ([LIT-tmpe9zd7](LIT-tmpe9zd7.md), §5.4).
 - **The solution method.** "The state-of-the-art solution method for
   solving the homogeneous service rate problem is the alternating
-  hyperplane approach developed by Larson (1974)" (LIT-tmpws93a, §1), with
+  hyperplane approach developed by Larson (1974)" ([LIT-tmpws93a](LIT-tmpws93a.md), §1), with
   the TOUR algorithm for the transition rates.
 - **Computation.** The textbook cites this paper for the effort to use
   "the special structure of the hypercube model to derive
   computer-efficient means for developing and solving its equations"
-  (LIT-tmpe9zd7, §5.4.5).
+  ([LIT-tmpe9zd7](LIT-tmpe9zd7.md), §5.4.5).
 
 ## Standing in the record
 
@@ -112,20 +112,20 @@ state, because preference lists send calls to backup units. A also leaves
 out what the neighbours credit the paper with, its exact solution method,
 and what its title names, facility location and redistricting.
 
-**The neighbours.** Larson and Odoni's textbook, LIT-tmpe9zd7, read
-Skimmed in NOTE-tmpxzaki (§§5.4–5.5 in prose; the equations are images
+**The neighbours.** Larson and Odoni's textbook, [LIT-tmpe9zd7](LIT-tmpe9zd7.md), read
+Skimmed in [NOTE-tmpxzaki](../notes.d/NOTE-tmpxzaki.md) (§§5.4–5.5 in prose; the equations are images
 and were not seen), stands in for the model: its state space, assumptions,
 dispatch rule and performance measures, and the units of last resort,
 which A does not mention. In the textbook's basic model "Response areas
 were not optimized in any sense" (§5.4.5), and optimal response areas for
 arbitrary N are credited to Jarvis. Hua, Luo, Swersey and Wen (2026),
-LIT-tmpws93a, read Skimmed in NOTE-tmpx391x, stand in for the solution
+[LIT-tmpws93a](LIT-tmpws93a.md), read Skimmed in [NOTE-tmpx391x](../notes.d/NOTE-tmpx391x.md), stand in for the solution
 method only, by attribution. Neither stands in for the paper's own
 location or redistricting content, its examples or its proofs. The
-accounts filed from them are THEORY-tmph4325 and THEORY-tmptcu66.
+accounts filed from them are [THEORY-tmph4325](../theory.d/THEORY-tmph4325.md) and [THEORY-tmptcu66](../theory.d/THEORY-tmptcu66.md).
 
 On the record's own entries, through the neighbours: a unit's availability
 here is the chance it is free when a call arrives, unavailable only from
 congestion. That is at most a special case of operational availability,
-TERM-055, with no cue and no retrieval, and a busy unit is a formal case of
-present but not deployable, CLAIM-296 and CLAIM-312.
+[TERM-055](../terms.d/TERM-055.md), with no cue and no retrieval, and a busy unit is a formal case of
+present but not deployable, [CLAIM-296](../claims.d/CLAIM-296.md) and [CLAIM-312](../claims.d/CLAIM-312.md).

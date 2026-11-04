@@ -92,8 +92,8 @@ A review, with no results of its own in §6.1. What it states:
 
 ## Connections
 
-A neighbour of Daskin (1983), LIT-tmpt3a4i, and of ReVelle and Hogan
-(1989), LIT-tmpjzyct, read in their place.
+A neighbour of Daskin (1983), [LIT-tmpt3a4i](../literature.d/LIT-tmpt3a4i.md), and of ReVelle and Hogan
+(1989), [LIT-tmpjzyct](../literature.d/LIT-tmpjzyct.md), read in their place.
 
 - **Of Daskin (1983)** it restates that MEXCLP extends the maximal covering
   model for station availability, with one busy probability for all
@@ -104,7 +104,7 @@ A neighbour of Daskin (1983), LIT-tmpt3a4i, and of ReVelle and Hogan
   MALP-I and MALP-II with how MALP-II computes busy fractions. It gives no
   formula and does not restate the zero–one program or the Baltimore
   results.
-- It also links the covering models to Larson (1974), LIT-tmpum63p, through
+- It also links the covering models to Larson (1974), [LIT-tmpum63p](../literature.d/LIT-tmpum63p.md), through
   AMEXCLP, which it describes in a line.
 
 ## Bearing on the record
@@ -116,14 +116,14 @@ A neighbour of Daskin (1983), LIT-tmpt3a4i, and of ReVelle and Hogan
   A does not, and says nothing of "utilization maximization": that contrast
   is A's. For Larson (1974) it adds nothing to A's "a unit's value"
   framing, which remains A's.
-- **TERM-055 (operational availability): qualifies.** Availability here is
-  the chance a facility is not busy, a special case of TERM-055 at most,
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability): qualifies.** Availability here is
+  the chance a facility is not busy, a special case of [TERM-055](../terms.d/TERM-055.md) at most,
   from congestion alone.
-- **CLAIM-296 and CLAIM-312: qualify.** A busy covering station is present
+- **[CLAIM-296](../claims.d/CLAIM-296.md) and [CLAIM-312](../claims.d/CLAIM-312.md): qualify.** A busy covering station is present
   but not deployable.
 - The other entries A cited: unrelated. Multiple coverage as a hedge
   against busyness is a redundancy construction the record does not hold.
-- Filed from this reading: THEORY-tmphqo3c.
+- Filed from this reading: [THEORY-tmphqo3c](../theory.d/THEORY-tmphqo3c.md).
 
 ## Limitations
 

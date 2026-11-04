@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-04 (NOTE-tmpdnqqh, Skimmed) from arXiv v7: the
+  read in part 2026-11-04 ([NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md), Skimmed) from arXiv v7: the
   opening of §6 and §6.1, "Coverage Models", with Table 1. Worth reading
   as a broad review of emergency response management (incident
   prediction, detection, resource allocation and dispatch), and in §6.1
@@ -9,7 +9,7 @@ status_note: >-
   that treat a station's resources as always available, through multiple
   coverage, to the probabilistic ones that model station availability,
   MEXCLP, MALP and their extensions. Registered as a stand-in for Daskin
-  (1983), LIT-tmpt3a4i, and ReVelle and Hogan (1989), LIT-tmpjzyct, on
+  (1983), [LIT-tmpt3a4i](LIT-tmpt3a4i.md), and ReVelle and Hogan (1989), [LIT-tmpjzyct](LIT-tmpjzyct.md), on
   those models' assumptions. Its main limits, as read: one-line summaries
   without formulas, which cannot confirm the papers' formulations; the
   rest of the review was not read.
@@ -69,7 +69,7 @@ Mukhopadhyay, A., Pettet, G., Vazirizade, S. M., Lu, D., Jaimes, A., El Said, S.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpdnqqh: §6.1 and Table 1.*
+*From the reading, [NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md): §6.1 and Table 1.*
 
 - **Deterministic coverage.** LSCP, MCLP and their extensions "assume
   deterministic system behavior in regards to response" (§6.1).
@@ -85,8 +85,8 @@ Mukhopadhyay, A., Pettet, G., Vazirizade, S. M., Lu, D., Jaimes, A., El Said, S.
 
 ## Standing in the record
 
-Registered as a stand-in for Daskin (1983), LIT-tmpt3a4i, and ReVelle and
-Hogan (1989), LIT-tmpjzyct, which the pasted bibliography on emergency
+Registered as a stand-in for Daskin (1983), [LIT-tmpt3a4i](LIT-tmpt3a4i.md), and ReVelle and
+Hogan (1989), [LIT-tmpjzyct](LIT-tmpjzyct.md), which the pasted bibliography on emergency
 readiness cites and which could not be found. It restates their
 assumptions in a line each and gives no formulas. The account filed from
-it is THEORY-tmphqo3c.
+it is [THEORY-tmphqo3c](../theory.d/THEORY-tmphqo3c.md).

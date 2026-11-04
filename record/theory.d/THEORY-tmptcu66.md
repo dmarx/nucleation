@@ -15,8 +15,8 @@ date: '2026-11-04'
 source:
 - LIT-tmpws93a
 summary: >-
-  Hua, Luo, Swersey and Wen (2026), LIT-tmpws93a, read in part in
-  NOTE-tmpx391x (§1, the model statement, the TOUR paragraph and the
+  Hua, Luo, Swersey and Wen (2026), [LIT-tmpws93a](../literature.d/LIT-tmpws93a.md), read in part in
+  [NOTE-tmpx391x](../notes.d/NOTE-tmpx391x.md) (§1, the model statement, the TOUR paragraph and the
   comparison of §5). Proposed: the extension and the geometric convergence
   are stated in the abstract and introduction, but the proof was not read.
   The reported speed-ups against a sparse solver, simulation and Larson's
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Hua, Luo, Swersey and Wen (2026), LIT-tmpws93a; read in NOTE-tmpx391x.
+Hua, Luo, Swersey and Wen (2026), [LIT-tmpws93a](../literature.d/LIT-tmpws93a.md); read in [NOTE-tmpx391x](../notes.d/NOTE-tmpx391x.md).
 
 ## What was actually shown
 

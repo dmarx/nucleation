@@ -15,8 +15,8 @@ date: '2026-11-04'
 source:
 - LIT-tmprtv5t
 summary: >-
-  De Oliveira, de Sá and Martins (2020), LIT-tmprtv5t, read in part in
-  NOTE-tmpy7mc8 (the abstract and §2). Proposed: the account is the
+  De Oliveira, de Sá and Martins (2020), [LIT-tmprtv5t](../literature.d/LIT-tmprtv5t.md), read in part in
+  [NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md) (the abstract and §2). Proposed: the account is the
   abstract's description of the paper's models, whose formulations in §3
   were not read. The coverage gains the abstract reports are not part of
   the account. What was read, §2, is the paper's survey of MEXCLP, MALP and
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-De Oliveira, de Sá and Martins (2020), LIT-tmprtv5t; read in NOTE-tmpy7mc8.
+De Oliveira, de Sá and Martins (2020), [LIT-tmprtv5t](../literature.d/LIT-tmprtv5t.md); read in [NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md).
 
 ## What was actually shown
 

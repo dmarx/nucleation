@@ -133,14 +133,14 @@ rural ambulances (§5.4.2).
 ## Connections
 
 The book is the authors' own restatement of the model introduced in Larson
-(1974), LIT-tmpum63p, which it cites as [LARS 74a]. Of that paper it
+(1974), [LIT-tmpum63p](../literature.d/LIT-tmpum63p.md), which it cites as [LARS 74a]. Of that paper it
 restates the model: the binary busy/free state space on the vertices of an
 N-cube and its name, geographical atoms, response and patrol areas and the
 location matrix, fixed-preference dispatch, the assumptions, the balance
 equations (for N = 3) and the performance measures. It cites the paper for
 the generalizations of assumptions 6, 7 and 9 and for the
 computer-efficient solution. It does not restate that paper's solution
-algorithm (which Hua, Luo, Swersey and Wen, LIT-tmpws93a, credit to it as
+algorithm (which Hua, Luo, Swersey and Wen, [LIT-tmpws93a](../literature.d/LIT-tmpws93a.md), credit to it as
 the alternating hyperplane method and TOUR), any facility-location or
 redistricting search the paper may carry, its numerical examples or its
 review of the literature. The N-equation approximation is Larson (1975),
@@ -160,15 +160,15 @@ not the 1974 paper.
   the units of last resort, the construction closest to A's theme of
   rarely exercised capability; the book treats them only as a dispatch
   device and makes no claim about their worth.
-- **TERM-055 (operational availability): qualifies.** A unit's
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability): qualifies.** A unit's
   availability here is the chance it is free when a call arrives,
   unavailable only through congestion. That is at most a special case of
-  TERM-055, which adds the cue, the procedure and the deadline.
-- **CLAIM-296 and CLAIM-312: qualify.** A busy unit is present but not
+  [TERM-055](../terms.d/TERM-055.md), which adds the cue, the procedure and the deadline.
+- **[CLAIM-296](../claims.d/CLAIM-296.md) and [CLAIM-312](../claims.d/CLAIM-312.md): qualify.** A busy unit is present but not
   deployable; a unit of last resort is deployable only in saturation.
-- CLAIM-079, CLAIM-347, CLAIM-517, QUESTION-132 and the LITs A listed
+- [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md) and the LITs A listed
   beside this work: unrelated.
-- Filed from this reading: THEORY-tmph4325.
+- Filed from this reading: [THEORY-tmph4325](../theory.d/THEORY-tmph4325.md).
 
 ## Limitations
 

@@ -51,7 +51,7 @@ servers" (§1).
 ## Assumptions
 
 - The hypercube's binary busy/free state per unit and Poisson arrivals, as
-  in Larson and Odoni, LIT-tmpe9zd7.
+  in Larson and Odoni, [LIT-tmpe9zd7](../literature.d/LIT-tmpe9zd7.md).
 - Exponential service with a rate for each server.
 - A zero queue in Algorithm 1, with a finite waiting capacity treated as a
   birth–death tail; a remark extends the result to infinite capacity when
@@ -90,7 +90,7 @@ servers" (§1).
 
 ## Connections
 
-A neighbour of Larson (1974), LIT-tmpum63p, read in its place. Of that
+A neighbour of Larson (1974), [LIT-tmpum63p](../literature.d/LIT-tmpum63p.md), read in its place. Of that
 paper's results it restates, by attribution only, the model itself ("This
 model accounts for the spatially distributed locations of servers and the
 randomness associated with their availability due to incoming calls", §1),
@@ -98,7 +98,7 @@ the alternating hyperplane solution method, the TOUR algorithm for the
 transition rates, and the Hamming distances. It does not restate the 1974
 paper's facility-location or redistricting content, its examples or its
 proofs, and gives no formula of Larson's own. The textbook restatement of
-the model, Larson and Odoni, LIT-tmpe9zd7 (NOTE-tmpxzaki), covers the
+the model, Larson and Odoni, [LIT-tmpe9zd7](../literature.d/LIT-tmpe9zd7.md) ([NOTE-tmpxzaki](NOTE-tmpxzaki.md)), covers the
 model's assumptions and performance measures; this paper adds what the
 textbook only cites, the solution method.
 
@@ -111,12 +111,12 @@ textbook only cites, the solution method.
   units, not just its own completed-call count": nothing here values a
   unit, and that framing is A's. What this paper credits to the 1974 work
   above all, the exact solution machinery, A does not mention.
-- **TERM-055 (operational availability): qualifies, by analogy.**
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability): qualifies, by analogy.**
   Availability here is a unit's being free, lost only "due to incoming
-  calls"; it is at most a special case of TERM-055, with no cue or
+  calls"; it is at most a special case of [TERM-055](../terms.d/TERM-055.md), with no cue or
   procedure.
 - Nothing else in the record bears on it.
-- Filed from this reading: THEORY-tmptcu66.
+- Filed from this reading: [THEORY-tmptcu66](../theory.d/THEORY-tmptcu66.md).
 
 ## Limitations
 

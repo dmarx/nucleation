@@ -12,11 +12,11 @@ status_note: >-
   and Church (2010), a likely neighbour, was not tried, because rand.org
   had already returned a CloudFront block. Two neighbours stand in for it,
   on what the model maximizes and assumes only. De Oliveira, de Sá and
-  Martins (2020), LIT-tmprtv5t, §2, state its aim (demand covered with
+  Martins (2020), [LIT-tmprtv5t](LIT-tmprtv5t.md), §2, state its aim (demand covered with
   reliability α), its assumptions (server independence, locally
   constrained service areas, availability not uniform), that it introduced
   area-specific busy fractions, and Sorensen and Church's objection to its
-  α-reliability objective. Mukhopadhyay et al. (2020), LIT-tmpv1cro,
+  α-reliability objective. Mukhopadhyay et al. (2020), [LIT-tmpv1cro](LIT-tmpv1cro.md),
   §6.1, separate its first version, with equal busy probabilities, from
   its second, with busy fractions from local demand. Neither gives its
   zero–one formulation, how α becomes a count of servers, or the Baltimore
@@ -86,11 +86,11 @@ unverified against the original.*
   threshold per demand point, and the population above it is maximized.
 - **Busy fractions.** "In MALP, ReVelle & Hogan (1989) introduce a method
   to compute an estimate of area-specific busy fractions associated with
-  each demand point" (LIT-tmprtv5t, p. 10); the second version "removes"
-  the assumption of equal busy probabilities (LIT-tmpv1cro, §6.1).
+  each demand point" ([LIT-tmprtv5t](LIT-tmprtv5t.md), p. 10); the second version "removes"
+  the assumption of equal busy probabilities ([LIT-tmpv1cro](LIT-tmpv1cro.md), §6.1).
 - **An objection.** "Sorensen & Church (2010) argue that the MALP's
   α-reliability objective function may not be appropriate in some EMS
-  contexts and may lead to inferior results" (LIT-tmprtv5t, p. 11).
+  contexts and may lead to inferior results" ([LIT-tmprtv5t](LIT-tmprtv5t.md), p. 11).
 
 ## Standing in the record
 
@@ -106,21 +106,21 @@ population for which α is met, not as constraining reliability across the
 system. A leaves out the two versions, the independence and local-area
 assumptions, and Sorensen and Church's objection.
 
-A's "maps naturally onto Nucleation's TERM-055" is too strong. Both concern a chance
+A's "maps naturally onto Nucleation's [TERM-055](../terms.d/TERM-055.md)" is too strong. Both concern a chance
 that a resource is deployed for a task within a deadline. But here
 unavailability comes only from servers being busy elsewhere, with no
 counterpart to the cue, retrieval or procedure that operational
-availability, TERM-055, turns on; the quantity belongs to a demand node
-under a whole siting plan and assumes independent servers, where TERM-055
+availability, [TERM-055](../terms.d/TERM-055.md), turns on; the quantity belongs to a demand node
+under a whole siting plan and assumes independent servers, where [TERM-055](../terms.d/TERM-055.md)
 is a chance for one resource, task and agent; and it is thresholded at α,
-which TERM-055 is not. It is at most a special case of the term, not a
+which [TERM-055](../terms.d/TERM-055.md) is not. It is at most a special case of the term, not a
 mapping onto it. A busy server is a formal case of present but not
-deployable, CLAIM-296 and CLAIM-312. α-reliable coverage, enough servers
+deployable, [CLAIM-296](../claims.d/CLAIM-296.md) and [CLAIM-312](../claims.d/CLAIM-312.md). α-reliable coverage, enough servers
 that one is free with probability α, is a redundancy standard the record
 does not hold.
 
-**The neighbours.** De Oliveira, de Sá and Martins (2020), LIT-tmprtv5t,
-read Skimmed in NOTE-tmpy7mc8, and Mukhopadhyay et al. (2020),
-LIT-tmpv1cro, read Skimmed in NOTE-tmpdnqqh, stand in for its aim, its
+**The neighbours.** De Oliveira, de Sá and Martins (2020), [LIT-tmprtv5t](LIT-tmprtv5t.md),
+read Skimmed in [NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md), and Mukhopadhyay et al. (2020),
+[LIT-tmpv1cro](LIT-tmpv1cro.md), read Skimmed in [NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md), stand in for its aim, its
 assumptions and its busy-fraction device, and for the distinction between
 its two versions. Neither gives its formulation or results.

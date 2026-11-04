@@ -12,11 +12,11 @@ status_note: >-
   at research.vu.nl, both Cloudflare challenges, not retried; arXiv
   searches for "maximum expected covering" and MEXCLP, which found
   nothing. Two neighbours stand in for it, on what the model maximizes
-  and assumes only. De Oliveira, de Sá and Martins (2020), LIT-tmprtv5t,
+  and assumes only. De Oliveira, de Sá and Martins (2020), [LIT-tmprtv5t](LIT-tmprtv5t.md),
   §2, state that MEXCLP maximizes expected coverage given that servers
   may be busy, under uniform busyness and server independence, and that it
   may place several ambulances to cover one demand point. Mukhopadhyay et
-  al. (2020), LIT-tmpv1cro, §6.1, state that it extends the maximal
+  al. (2020), [LIT-tmpv1cro](LIT-tmpv1cro.md), §6.1, state that it extends the maximal
   covering model for station availability with one busy probability for
   every facility, and name its later extensions. Neither gives its
   objective formula, the properties it proves, its heuristic or its
@@ -82,13 +82,13 @@ unverified against the original.*
 
 - **What it extends.** "MEXCLP was introduced by Daskin (Daskin, 1983) and
   extends MCLP, modifying the optimization function to account for station
-  availability" (LIT-tmpv1cro, §6.1).
+  availability" ([LIT-tmpv1cro](LIT-tmpv1cro.md), §6.1).
 - **What it maximizes.** "the MEXCLP model seeks to maximize the expected
-  coverage given that servers (ambulances) might be busy" (LIT-tmprtv5t,
+  coverage given that servers (ambulances) might be busy" ([LIT-tmprtv5t](LIT-tmprtv5t.md),
   p. 9).
 - **Its assumptions.** "Simplifying assumptions regarding the uniform
   server busyness and the independence of the servers are made in MEXCLP"
-  (LIT-tmprtv5t, p. 10).
+  ([LIT-tmprtv5t](LIT-tmprtv5t.md), p. 10).
 
 ## Standing in the record
 
@@ -102,9 +102,9 @@ objective is expected coverage, the simplifying assumptions both
 neighbours stress (one busy probability for every server; independent
 servers), and the proven properties and heuristic that the title names.
 
-**The neighbours.** De Oliveira, de Sá and Martins (2020), LIT-tmprtv5t,
-read Skimmed in NOTE-tmpy7mc8 (§2), and Mukhopadhyay et al. (2020),
-LIT-tmpv1cro, read Skimmed in NOTE-tmpdnqqh (§6.1 and Table 1), stand in
+**The neighbours.** De Oliveira, de Sá and Martins (2020), [LIT-tmprtv5t](LIT-tmprtv5t.md),
+read Skimmed in [NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md) (§2), and Mukhopadhyay et al. (2020),
+[LIT-tmpv1cro](LIT-tmpv1cro.md), read Skimmed in [NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md) (§6.1 and Table 1), stand in
 for what the model maximizes and assumes, and for its place among later
 models (TIMEXCLP, AMEXCLP, LR-MEXCLP). Neither gives the formulation, the
 properties, the heuristic or the results.
@@ -112,7 +112,7 @@ properties, the heuristic or the results.
 On the record's own entries: expected coverage is the expected demand for
 which at least one covering server is free, a chance of deployment within
 a time standard with unavailability from congestion alone. It is at most a
-special case of operational availability, TERM-055, and a busy covering
-server is a formal case of present but not deployable, CLAIM-296 and
-CLAIM-312. Placing several servers over one demand point as a hedge
+special case of operational availability, [TERM-055](../terms.d/TERM-055.md), and a busy covering
+server is a formal case of present but not deployable, [CLAIM-296](../claims.d/CLAIM-296.md) and
+[CLAIM-312](../claims.d/CLAIM-312.md). Placing several servers over one demand point as a hedge
 against busyness is a redundancy construction the record does not hold.
