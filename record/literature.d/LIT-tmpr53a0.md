@@ -1,0 +1,116 @@
+---
+status: Unfetched
+status_note: >-
+  filed 2026-11-04, not read. A lawful free copy is located and could not
+  be fetched: Crossref carries APA's open-access licence and OpenAlex marks
+  the work hybrid open access at the DOI, but the Crossref full-text link,
+  https://psycnet.apa.org/journals/bul/151/6/696.pdf, answered on
+  2026-11-04 with HTTP 403 and an Imperva (Incapsula) WAF challenge page,
+  and was not retried; no other APA host was tried. No PMC copy (Europe
+  PMC has the abstract only, PMID 40455501), no PsyArXiv or OSF preprint
+  found by title, and OpenAlex lists no repository copy. A human reader
+  can likely open the APA copy. The first author's 2023 Georgia Tech
+  dissertation, LIT-tmplozja, read in its results chapters, stands in for
+  it: the same design, the same 457 sources and the same slopes, but 1,352
+  effect sizes against the article's 1,344, half-loss times given as
+  three-month ranges where the article gives points, and nothing on what
+  changed in peer review. It stays Unfetched until it is read, not on
+  merit.
+title: 'Procedural skill retention and decay: A meta-analytic review'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Filed, not read. Registered on 2026-11-04 from the pasted bibliography
+    on emergency readiness, the owner's paste of 2026-11-04 written by
+    another assistant (A), which cites it as "Tatel & Ackerman (2025),
+    Procedural Skill Retention and Decay: A Meta-Analytic Review,
+    Psychological Bulletin 151(6), 696–736" under maintaining capabilities
+    that are rarely exercised, and names it among the priorities for A's
+    proposition. Citation checked against Crossref and OpenAlex on
+    2026-11-04: Corey E. Tatel and Phillip L. Ackerman, Psychological
+    Bulletin 151(6): 696–736, a meta-analysis and review (PubMed
+    publication types). A's citation is correct, and its "synthesizes
+    1,344 effect sizes from 457 reports" matches the abstract's numbers.
+    `published:` is 2025-06-02, the Crossref created date and Europe PMC's
+    first publication date; Crossref's online date gives the month only.
+    The summary follows the abstract on Europe PMC. Copy sought at the APA
+    PDF named in the status note (HTTP 403, WAF challenge). The
+    dissertation, LIT-tmplozja, was registered at the same time as a
+    stand-in, at the owner's request.
+tags:
+- learning-and-conditioning
+- cognition
+- psychometrics
+date: '2026-11-04'
+published: '2025-06-02'
+doi: '10.1037/bul0000481'
+first_author: 'Tatel'
+keywords:
+- 'skill retention'
+- 'skill decay'
+- 'procedural skill'
+- 'retention interval'
+- 'meta-analysis'
+- 'refresher training'
+implementations: []
+summary: >-
+  Tatel & Ackerman (2025), Psychological Bulletin 151(6). Unread; from the
+  abstract, unverified until read. A random-effects meta-regression of the
+  retention of procedural skills with motor components, with retention
+  interval as a continuous predictor, over "1,344 effect sizes from 457
+  reports". The acquisition-to-retention difference grows by 0.08 SD a
+  month for accuracy and 0.06 for speed and mixed measures; half of the
+  gains made in training are lost after about 6.5 months (accuracy), 13
+  (speed) and 11 (mixed). Task type, complexity, intermittent performance
+  opportunities and instructions are named as possible moderators, and
+  relearning and speed–accuracy trade-offs as confounds.
+---
+<!-- inactive-ok-file: THEORY-tmpsm9h9 — Proposed or new; cited from the reading of Tatel (2023) as open -->
+
+# LIT-tmpr53a0: Procedural skill retention and decay: A meta-analytic review
+
+Tatel, C. E. & Ackerman, P. L. (2025). Procedural skill retention and decay: A meta-analytic review. *Psychological Bulletin* 151(6): 696–736. doi:10.1037/bul0000481.
+
+Not read. The takeaways are the abstract's, checked by string match against the Europe PMC abstract, and unverified until the article is read.
+
+## Key takeaways
+
+- **Scale.** "A search led to the inclusion of 1,344 effect sizes from 457 reports."
+- **Rate.** "Results indicated that mean differences in SD units grew
+  stronger by 0.08/month for accuracy-based performance measures and
+  0.06/month for speed-based and mixed performance measures."
+- **Half-loss.** "With lack of use, half of initial skill acquisition
+  performance gains were lost after approximately 6.5 months for accuracy,
+  13 months for speed, and 11 months for mixed performance."
+- **Moderators.** "Task type, task complexity, intermittent performance
+  opportunities, and task instructions were identified as possible
+  moderators of skill decay rates."
+- **Confounds.** The abstract flags "the need to isolate retention
+  performance from relearning effects and the need to account for
+  speed-accuracy trade-off functions".
+
+## Standing in the record
+
+The pasted bibliography on emergency readiness cites it under maintaining
+capabilities that are rarely exercised, giving only its counts, which are
+right. Its relevant content for A's proposition is that procedural skill
+measurably decays with non-use, and that intermittent performance
+opportunities may slow the decay. It measures individual task performance
+in studies; it says nothing about organizations measuring capabilities by
+how often they are used, which is the mechanism in A's proposition.
+
+**The stand-in.** The first author's 2023 dissertation, LIT-tmplozja,
+supervised by the second author, is the article's precursor: the same
+design, research questions, moderators and confounds, and the same 457
+sources. It restates the slopes (0.08 and 0.06 SD a month), the four
+moderators and the two confounds. It differs in its effect-size count
+(1,352 against 1,344), gives half-loss times as three-month ranges (6–9,
+12–15 and 9–12 months) where the article gives points (6.5, 13 and 11),
+and leads its summary with total loss of gains. It cannot vouch for
+anything changed in peer review, so results should be cited to the
+dissertation until this article is read. Filed from the dissertation:
+THEORY-tmpsm9h9.
+
+No instruction for machine-learning practice; nothing for the anthology.

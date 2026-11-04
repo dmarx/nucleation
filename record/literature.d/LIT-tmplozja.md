@@ -1,0 +1,110 @@
+---
+status: Active
+status_note: >-
+  results chapters read 2026-11-04 (NOTE-tmp35hva, Skimmed) from the PDF in
+  Georgia Tech's institutional repository, the author's institution; worth
+  reading as the precursor of Tatel & Ackerman (2025), LIT-tmpr53a0, which
+  stands unfetched, and as the most detailed account of its method: a
+  meta-regression over 457 sources with retention interval as a continuous
+  predictor, finding procedural skill declining linearly by 0.08 SD a month
+  (accuracy) and 0.06 (speed and mixed), half of training gains lost within
+  6 to 15 months, and slower decline for accuracy when practice occurred in
+  the interval. Its main limits: few long intervals (14 beyond a year),
+  large residual heterogeneity, tentative moderators, and estimates the
+  author thinks too low because of relearning and speed–accuracy
+  confounds. Cite it, not the article, for results until the article is
+  read.
+title: 'A Meta-Analytic Investigation of Procedural Skill Retention and Decay'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered and read on 2026-11-04, at the owner's request, as a
+    stand-in for Tatel & Ackerman (2025), LIT-tmpr53a0, which the pasted
+    bibliography on emergency readiness (the owner's paste of 2026-11-04,
+    written by another assistant, A) cites under maintaining capabilities
+    that are rarely exercised, and whose lawful copy could not be fetched.
+    A does not cite the dissertation. No DOI, and no Crossref or OpenAlex
+    record was used; the citation is checked against the title page and
+    the repository record,
+    https://repository.gatech.edu/entities/publication/5d7d666f-2ae7-4e3c-9ec9-729ffad16cda:
+    Corey E. Tatel, PhD dissertation, School of Psychology, Georgia
+    Institute of Technology, December 2023, advisor Phillip L. Ackerman,
+    240 pp. `published:` is the approval date on the approval page,
+    2023-08-22, the earliest exact date the document carries (the degree
+    is dated December 2023 and the PDF was created 2023-09-07). Copy: the
+    repository's PDF,
+    https://repository.gatech.edu/server/api/core/bitstreams/569c46d1-0098-4514-a0e6-5a2b2794c93d/content,
+    extracted with pdftotext.
+tags:
+- learning-and-conditioning
+- psychometrics
+- cognition
+date: '2026-11-04'
+published: '2023-08-22'
+url: 'https://repository.gatech.edu/entities/publication/5d7d666f-2ae7-4e3c-9ec9-729ffad16cda'
+first_author: 'Tatel'
+keywords:
+- 'procedural skill'
+- 'skill retention'
+- 'skill decay'
+- 'retention interval'
+- 'meta-regression'
+- 'relearning'
+- 'speed-accuracy trade-off'
+implementations: []
+summary: >-
+  Tatel (2023), PhD dissertation, Georgia Institute of Technology, advised
+  by Ackerman. A random-effects meta-regression of the change from
+  acquisition to retention in procedural skills (learned actions with a
+  non-verbal motor output), with retention interval in months as a
+  continuous predictor: 1,281 independent-samples effect sizes from 425 of
+  457 sources. Decline is linear, 0.08 SD a month for accuracy and 0.06
+  for speed and mixed measures; about half of training gains are lost
+  after 6–9 months (accuracy), 12–15 (speed) and 9–12 (mixed), and all
+  after about 15, 27 and 30. Practice opportunities during the interval
+  slowed decline for accuracy only. Residual heterogeneity is large and
+  the moderators tentative; the author argues relearning during retention
+  tests makes the estimates too low.
+---
+<!-- inactive-ok-file: NOTE-tmp35hva THEORY-tmpsm9h9 LIT-tmpr53a0 — Skimmed, Proposed, Unfetched or new; cited from the reading of Tatel (2023) as open -->
+
+# LIT-tmplozja: A Meta-Analytic Investigation of Procedural Skill Retention and Decay
+
+Tatel, C. E. (2023). *A Meta-Analytic Investigation of Procedural Skill Retention and Decay*. PhD dissertation, School of Psychology, Georgia Institute of Technology. Advisor: Phillip L. Ackerman. https://repository.gatech.edu/entities/publication/5d7d666f-2ae7-4e3c-9ec9-729ffad16cda
+
+## Key takeaways
+
+*From the reading, NOTE-tmp35hva. Page numbers are the dissertation's.*
+
+- **Linear decline.** The effect size "generally increases in magnitude
+  by 0.08 per month of infrequent use" for accuracy (p. 70); −0.06 for
+  speed and mixed. "Procedural skills decline as a linear function of
+  retention interval length" (p. 141).
+- **Half of gains.** "one can expect about half of initial skill
+  acquisition gains to be lost after between 6 and 9 months of infrequent
+  use" for accuracy; 12–15 months for speed and 9–12 for mixed (p. 106).
+- **Practice in the interval.** Performance opportunities moderated the
+  decline for accuracy-based measures only (pp. 86–87).
+- **Thin long tail.** "Twenty-nine retention intervals were longer than
+  six months and 14 retention intervals were longer than one year" (p. 64).
+- **Relearning.** "Skill retention estimates may be substantially
+  confounded by relearning effects" (p. 142).
+
+## Standing in the record
+
+Registered as the stand-in for Tatel & Ackerman (2025), LIT-tmpr53a0, whose
+APA copy could not be fetched. It is that article's precursor: the same
+design, moderators, confounds and 457 sources, and the same slopes. It
+differs in its count of effect sizes (1,352 coded, against the article's
+1,344) and in giving half-loss times as three-month ranges where the
+article's abstract gives points (6.5, 13 and 11 months); it cannot vouch
+for anything changed in peer review.
+
+For the pasted bibliography's theme, maintaining capabilities that are
+rarely exercised, it supplies the premise that individual procedural skill
+decays with non-use at a measurable rate, and slower with occasional
+practice. It says nothing about organizations, or about measuring a
+capability by how often it is used. Filed from it: THEORY-tmpsm9h9. No
+instruction for machine-learning practice; nothing for the anthology.

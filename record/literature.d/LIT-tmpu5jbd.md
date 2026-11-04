@@ -1,0 +1,98 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-04 (NOTE-tmpv5axa) from the Europe PMC full text of the
+  CC BY version of record (PMC11502984); worth reading as a meta-analytic
+  estimate of the spacing effect in digital health-professions education,
+  separated by modality and by outcome level: a small advantage of spaced
+  over massed online education for post-training knowledge (SMD 0.32,
+  nine studies, moderate certainty), an advantage for clinical behaviour
+  change, and a spaced-simulation advantage for skills that rests on two
+  studies of low certainty. Its main limits: immediate post-training
+  results only, not retention; mostly unclear or high risk of bias; and
+  an abstract and body that disagree on the headline simulation effect
+  (SMD 1.15 against 1.24). Registered as a neighbour of Patocka et al.,
+  LIT-tmps018e, for which it stands in only partly.
+title: 'Spaced Digital Education for Health Professionals: Systematic Review and Meta-Analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered and read on 2026-11-04, at the owner's request, as a
+    neighbour of Patocka et al. (2025), LIT-tmps018e, which the pasted
+    bibliography on emergency readiness (the owner's paste of 2026-11-04,
+    written by another assistant, A) cites under maintaining capabilities
+    that are rarely exercised, and of which no lawful full text was found.
+    A does not cite this work. Citation checked against Europe PMC and
+    the article's own metadata on 2026-11-04: Laura Martinengo, Matthew
+    Song Peng Ng, Tony De Rong Ng, Yi-Ian Ang, Ahmad Ishqi Jabir, Bhone
+    Myint Kyaw and Lorainne Tudor Car, Journal of Medical Internet
+    Research 26: e57760, a systematic review and meta-analysis (PROSPERO
+    CRD42021241969); PMID 39388234, PMCID PMC11502984, CC BY. `published:`
+    is the publication date, 2024-10-10. Copy: the Europe PMC full-text
+    XML,
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11502984/fullTextXML,
+    converted to text. Status set to Active.
+tags:
+- learning-and-conditioning
+- social-science
+date: '2026-11-04'
+published: '2024-10-10'
+doi: '10.2196/57760'
+first_author: 'Martinengo'
+keywords:
+- 'spaced education'
+- 'spaced learning'
+- 'digital education'
+- 'digital simulation'
+- 'health professions education'
+- 'meta-analysis'
+implementations: []
+summary: >-
+  Martinengo, Ng, Ng, Ang, Jabir, Kyaw & Tudor Car (2024), JMIR 26:
+  e57760. A Cochrane-method review of 23 trials (3371 participants,
+  1990 to February 2023) of spaced digital education for health
+  professionals: 17 of spaced online education, 6 of spaced digital
+  simulation. Using immediate post-intervention results, spaced online
+  education beat massed online education for knowledge (SMD 0.32,
+  moderate certainty) and beat massed education or none for clinical
+  behaviour change (SMD 0.67); spaced simulation beat massed simulation
+  for skills in two studies (low certainty), with no significant
+  difference in time to complete or errors. Most studies had unclear or
+  high risk of bias, and none gave a rationale for its spacing interval.
+---
+<!-- inactive-ok-file: LIT-tmps018e THEORY-tmpavfyh — Unavailable, Proposed or new; cited from the reading of Martinengo et al. (2024) as open -->
+
+# LIT-tmpu5jbd: Spaced Digital Education for Health Professionals: Systematic Review and Meta-Analysis
+
+Martinengo, L., Ng, M. S. P., Ng, T. D. R., Ang, Y.-I., Jabir, A. I., Kyaw, B. M. & Tudor Car, L. (2024). Spaced Digital Education for Health Professionals: Systematic Review and Meta-Analysis. *Journal of Medical Internet Research* 26: e57760. doi:10.2196/57760.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpv5axa.*
+
+- **Knowledge, small and moderate-certainty.** "Spaced online education
+  was superior to massed online education for postintervention knowledge
+  (n=9, 39%; standardized mean difference [SMD] 0.32, 95% CI 0.13-0.51,
+  I2=66%, moderate certainty of evidence)" (Abstract).
+- **Simulation, two studies.** Spaced digital simulation beat massed for
+  skills, SMD 1.15 (0.34–1.96) in the abstract but 1.24 (0.84–1.64) in the
+  Results, low certainty; time to complete and errors showed "a
+  nonsignificant difference".
+- **Not retention.** "We used the immediate postintervention results in
+  the analyses" (Methods).
+- **No rationale for intervals.** "none of the studies provided a
+  rationale for this differing length" (Discussion).
+
+## Standing in the record
+
+Registered as a neighbour of Patocka et al., LIT-tmps018e, the review the
+pasted bibliography on emergency readiness cites and that could not be
+read. It stands in only partly: both compare spaced with massed
+simulation for health professionals, but this one analyses immediate
+post-training results, so it says nothing on Patocka's retention finding.
+Neither concerns keeping a rarely exercised capability over long non-use,
+the theme under which A filed Patocka. The record held nothing on spacing
+effects before. Filed from it: THEORY-tmpavfyh. No instruction for
+machine-learning practice; nothing for the anthology.
