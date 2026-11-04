@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-04 (NOTE-tmpmn9a9) from arXiv v1; worth reading as a
+  read 2026-11-04 ([NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md)) from arXiv v1; worth reading as a
   factorized rate law for circuit formation in transformer training, with
   emergence, plasticity loss and control read off one equation and an
   explicit ledger of what is proved, conditional and withdrawn. Its
@@ -59,7 +59,7 @@ Dong (2026) — [arXiv:2607.27281](https://arxiv.org/abs/2607.27281)
 
 ## Key takeaways
 
-Read (NOTE-tmpmn9a9). Its account is THEORY-tmpbwwow.
+Read ([NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md)). Its account is [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md).
 
 - Joint alignment of a circuit's last parts, with no partial credit, is
   "the rate-limiting step of capability formation". The wait counts

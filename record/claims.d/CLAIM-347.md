@@ -335,7 +335,7 @@ No status changes.
 
 ## Note of 2026-11-04: Dong, "The Kinetics of Training", read
 
-Dong (2026; THEORY-tmpbwwow) is related, not the same construct. Its
+Dong (2026; [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) is related, not the same construct. Its
 all-or-nothing is over the parts of one capability, an AND over attention
 heads, not over the joint satisfiability of several demands. Its account
 of plasticity loss is a training case of this claim's horizon. On an aged

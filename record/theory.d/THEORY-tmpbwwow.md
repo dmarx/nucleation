@@ -24,7 +24,7 @@ rivals:
 - THEORY-213
 - THEORY-293
 summary: >-
-  Dong (2026), read in NOTE-tmpmn9a9. One rate equation, sites × attempts
+  Dong (2026), read in [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md). One rate equation, sites × attempts
   × drive × e^(−βK) minus destruction, with K the missing parts. Forward,
   a capability ignites above a data-concentration floor that is a
   saddle–node; backward, plasticity loss is site depletion, silent in the
@@ -39,7 +39,7 @@ summary: >-
 
 ## Source
 
-Dong (2026), LIT-tmpywx5m, read in NOTE-tmpmn9a9.
+Dong (2026), [LIT-tmpywx5m](../literature.d/LIT-tmpywx5m.md), read in [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md).
 
 ## What was actually shown
 

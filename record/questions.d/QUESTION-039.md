@@ -120,7 +120,7 @@ The question is unchanged.
 
 ## Note of 2026-11-04: Dong, "The Kinetics of Training", read
 
-Dong (2026; THEORY-tmpbwwow) answers this question for conjunction
+Dong (2026; [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) answers this question for conjunction
 circuits in transformers to about 1B parameters. The moment is dated by a
 precursor clock, prospective for induction heads only (six unseen models,
 median error 5.0%). The order is cheap stages first and the joint

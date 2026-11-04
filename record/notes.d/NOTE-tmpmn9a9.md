@@ -28,7 +28,6 @@ summary: >-
   grid and an ablation test on Pythia. Experiments reach 1B parameters,
   not the 1.4B the abstract names.
 ---
-<!-- inactive-ok-file: QUESTION-281 QUESTION-039 QUESTION-363 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
 # NOTE-tmpmn9a9: Dong — The Kinetics of Training
 
@@ -114,28 +113,28 @@ hard to build and easy to break" (Prop. 7, p. 25).
 
 ## Bearing on the record
 
-- **QUESTION-281.** A worked case of nucleation across a finite barrier,
+- **[QUESTION-281](../questions.d/QUESTION-281.md).** A worked case of nucleation across a finite barrier,
   with creation, holding and destruction measured apart: activated escape
   above the floor, a saddle–node at it, "cannot be held" below it, and
   weakest-link melting. Conditional on unproved mixing, and athermal.
-- **QUESTION-039.** The paper's own question in another form: it dates the
+- **[QUESTION-039](../questions.d/QUESTION-039.md).** The paper's own question in another form: it dates the
   moment (the clock), gives an order (cheap stages first, the joint step
   last, §10) and calls acquisition one kind of rate-limiting event.
-- **QUESTION-363.** Dong's answer is barriers and drive, not an effective
-  temperature. THEORY-1255's stationary Gaussian, set by learning rate and
+- **[QUESTION-363](../questions.d/QUESTION-363.md).** Dong's answer is barriers and drive, not an effective
+  temperature. [THEORY-1255](../theory.d/THEORY-1255.md)'s stationary Gaussian, set by learning rate and
   batch size, is anisotropic, so it fails Def. 2 and the two need not
   conflict.
-- **CLAIM-347.** Related, not the same construct: the all-or-nothing is
+- **[CLAIM-347](../claims.d/CLAIM-347.md).** Related, not the same construct: the all-or-nothing is
   over one capability's parts, not over a set of demands. §7 does give a
   training case of the claim's horizon index. On an aged substrate the
   withheld capability and the pinned background skills are not jointly
   met at fixed drive, and rescue by data "requires c large enough to break
-  the background's own pinning margin", which in CLAIM-347's terms changes
+  the background's own pinning margin", which in [CLAIM-347](../claims.d/CLAIM-347.md)'s terms changes
   a demand rather than relieving frustration.
-- **Rivals.** THEORY-293 (Gu et al., the paper's ref. 4) is the static
+- **Rivals.** [THEORY-293](../theory.d/THEORY-293.md) (Gu et al., the paper's ref. 4) is the static
   capacity-allocation account of the floor the paper claims to supersede;
-  THEORY-213 is a rival mechanism for plasticity loss, absorbing symmetric
-  subspaces, which the paper does not cite. THEORY-1264 and THEORY-1309 are
+  [THEORY-213](../theory.d/THEORY-213.md) is a rival mechanism for plasticity loss, absorbing symmetric
+  subspaces, which the paper does not cite. [THEORY-1264](../theory.d/THEORY-1264.md) and [THEORY-1309](../theory.d/THEORY-1309.md) are
   the record's quasi-potential escape, the object behind its §2B.
 - **The anthology.** It carries instructions for machine-learning practice
   ("reset QK, keep OV"; schedule data by the floor; do not trust the loss

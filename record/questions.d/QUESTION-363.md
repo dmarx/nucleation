@@ -97,11 +97,11 @@ gradient flow but unstable, so noise escapes it.
 
 ## Note of 2026-11-04: Dong, "The Kinetics of Training", read
 
-Dong (2026; THEORY-tmpbwwow) answers for transformers that barriers and
+Dong (2026; [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) answers for transformers that barriers and
 drive set the order, not an effective temperature. Of six native knobs,
 learning rate, batch size and minibatch noise among them, "zero qualify"
 as a temperature by its test, an isotropic, state-independent noise with a
 Gibbs stationary law: "lr is a clock, never a temperature". That need not
-contradict THEORY-1255, whose stationary covariance, set by learning rate
+contradict [THEORY-1255](../theory.d/THEORY-1255.md), whose stationary covariance, set by learning rate
 and batch size, is anisotropic and so fails the test's isotropy. No status
 changes.
