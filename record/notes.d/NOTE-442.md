@@ -236,7 +236,7 @@ The paper reports others' results. Its main claims, with its pages:
 
 ## Note of 2026-11-03: attainment, read first-hand
 
-Niemiec et al. 2009 ([NOTE-tmpmgw5i](NOTE-tmpmgw5i.md)), the direct test, show extrinsic attainment
+Niemiec et al. 2009 ([NOTE-1520](NOTE-1520.md)), the direct test, show extrinsic attainment
 adding nothing to well-being only with intrinsic attainment in the same model
 (β = .00 on well-being, .38 on ill-being). On its own extrinsic attainment
 correlates positively with well-being (mean r = .19) and with need

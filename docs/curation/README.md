@@ -6,15 +6,18 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [3 Nov 22:17 — The fifty works registered from the exchange "Assess SDT Coverage" looked for: thirty-two read, twenty-seven in full and five skimmed, with thirty-two NOTEs and thirty-five THEORYs, twenty-five Active; seven Unfetched and eleven Unavailable; what the readings corrected in the registrations, in the exchange and in the record](2026-11.md#the-fifty-works-registered-from-the-exchange-assess-sdt-coverage-looked-for-thirty-two-read-twenty-seven-in-full-and-five-skimmed-with-thirty-two-notes-and-thirty-five-theorys-twenty-five-active-seven-unfetched-and-eleven-unavailable-what-the-readings-corrected-in-the-registrations-in-the-exchange-and-in-the-record)
+- [3 Nov 20:40 — Forty-seven works registered unread, and Jennings read, from the exchange "Assess SDT Coverage": self-determination theory and the basic needs, personas and topic models, Kane, control of chaos and wu-wei, Irruption Theory and its prior art; Reenskaug left unregistered](2026-11.md#forty-seven-works-registered-unread-and-jennings-read-from-the-exchange-assess-sdt-coverage-self-determination-theory-and-the-basic-needs-personas-and-topic-models-kane-control-of-chaos-and-wu-wei-irruption-theory-and-its-prior-art-reenskaug-left-unregistered)
+- [2 Nov 01:51 — Yang and Abanin, integrals of motion as slow modes: read in full and filed for the scale-separation line, with two THEORYs and notes on three claims](2026-11.md#yang-and-abanin-integrals-of-motion-as-slow-modes-read-in-full-and-filed-for-the-scale-separation-line-with-two-theorys-and-notes-on-three-claims)
 - [1 Nov 15:36 — Metzinger's later work: five works read (one in part), two not reachable, Being No One retried; mental autonomy read against the will line and minimal phenomenal experience against evidence for experience](2026-11.md#metzingers-later-work-five-works-read-one-in-part-two-not-reachable-being-no-one-retried-mental-autonomy-read-against-the-will-line-and-minimal-phenomenal-experience-against-evidence-for-experience)
 - [1 Nov 05:49 — Mechanistic constitution, dynamical mechanistic explanation and scaffolded individuality: eleven works registered and five read, Griesemer and Shavit re-read, and what the debate over constitutive relevance does to the record's maintenance claims](2026-11.md#mechanistic-constitution-dynamical-mechanistic-explanation-and-scaffolded-individuality-eleven-works-registered-and-five-read-griesemer-and-shavit-re-read-and-what-the-debate-over-constitutive-relevance-does-to-the-records-maintenance-claims)
 
 ## All books
 
-199 entries across 3 books, newest first.
+202 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 2 | 2026-11-01 | 2026-11-01 |
+| [2026-11](2026-11.md) | 5 | 2026-11-01 | 2026-11-03 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

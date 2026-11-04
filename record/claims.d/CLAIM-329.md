@@ -73,7 +73,7 @@ works:
 - organization-of-perspective
 - character-that-changed-parties
 uses:
-- TERM-tmp8spbn
+- TERM-100
 - TERM-084
 summary: >-
   A5, A8 and A9 of the exchange of 2026-10-16. A9 §9 separated three

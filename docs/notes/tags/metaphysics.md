@@ -4,7 +4,7 @@
 
 **metaphysics**.
 
-140 of 1499 NOTE documents. Back to the [full index](../README.md).
+141 of 1536 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -148,3 +148,4 @@
 | [NOTE-1486](../../../record/notes.d/NOTE-1486.md) | Massumi — The Principle of Unrest | Interviews and an essay in activist philosophy. Movement is qualitative relational transformation, and capitalism an ontopower feeding on "bare activity". Micropolitics aims at "a maximally inclusive co-patterning of contrasting tendencies" (p. 64), an aesthetic ideal that affirms discord rather than resolving it. The parent paper's quotation is exact; it turns the ideal into a description of organizational becoming. | Skimmed |
 | [NOTE-1488](../../../record/notes.d/NOTE-1488.md) | Massumi and McKim — Of Microperception and Micropolitics | An interview, not an argument with evidence. Affect is the felt transition of a body's power to affect and be affected toward a diminished or augmented capacitation, offered as a proposition to be regenerated in each use, not a definition to apply. Microshocks prime bodies differentially; affect is reactivated in each event, not transmitted between them; micropolitics modulates collectively felt, unacted-out potential toward a "symbiosis" of contrasting tendencies. | Read |
 | [NOTE-1489](../../../record/notes.d/NOTE-1489.md) | Tsoukas & Chia — On organizational becoming | A conceptual paper. It reverses the priority of organization and change. Change is the reweaving of actors' webs of beliefs and habits as they accommodate new experience. It is driven by the radial structure of categories, whose nonprototypical applications extend them, and by human reflexivity. Organization is both the attempt to stem that change and the pattern that emerges from it. Its illustrations are other researchers' ethnographies. Its becoming is carried by human agents. | Read |
+| [NOTE-1508](../../../record/notes.d/NOTE-1508.md) | Jennings — Attention as the Source of a Free Will | A hybrid account of attention: prioritization by a subject that is a collection of fixed, formed and fluid interests, distinguished from filtering by feedback from dorsolateral prefrontal cortex. The subject's power over its interests is said to be contextually emergent, made possible by a boundary from its context, and visible in phase-amplitude coupling. Attention breaks stalemates between equally weighted interests and forms new ones, which the paper offers as the source of a free will without Kane's indeterminism. The metaphysics is argued from an analogy with Bénard cells, and the neural evidence does not separate it from the weakly emergent models it rejects. | Read |

@@ -74,7 +74,7 @@ summary: >-
   ever one feature's carriers. It says the allocation underdetermines the
   perspective.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwh2jo — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-543 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-367 — Proposed; cited for where the governance of training lies, nothing here rests on it -->
 <!-- inactive-ok-file: CASE-165 CASE-166 — Proposed; the cases filed with this claim from the same exchange, an illustration and a reported study, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-1011 THEORY-1014 — Rejected and Proposed; circuits readings cited as hypotheses, not leaned on -->
@@ -221,18 +221,18 @@ test.
 ## Note of 2026-11-02: a persona distribution, the seventh appearance
 
 In the exchange "Assess SDT Coverage" (2026-11-02), U6 to U12 read a language model under the Persona Selection Model
-([LIT-tmp4flye](../literature.d/LIT-tmp4flye.md)) as a distribution over perspectives, and asked how an LDA
+([LIT-1952](../literature.d/LIT-1952.md)) as a distribution over perspectives, and asked how an LDA
 over it would bear on will-organization. The replies re-derived this claim
 three times without citing it: A6 with personas, A8 with a hierarchy over
 them, and A9 with topic prevalence in place of feature allocation, whose
 20%-safety-topic veto case is [TERM-074](../terms.d/TERM-074.md)'s safety engineer again. It is the
 claim's seventh appearance.
 
-The owner's own contributions are filed as [CLAIM-tmpwh2jo](CLAIM-tmpwh2jo.md) (a persona model
+The owner's own contributions are filed as [CLAIM-543](CLAIM-543.md) (a persona model
 is organizationally flat unless components condition one another) and
-[CLAIM-tmphbnqm](CLAIM-tmphbnqm.md) (categorical against Dirichlet–categorical). The owner's
+[CLAIM-536](CLAIM-536.md) (categorical against Dirichlet–categorical). The owner's
 U10, "the J-Space is basically this kind of LDA" ([LIT-1347](../literature.d/LIT-1347.md)), is filed as
-[QUESTION-tmpildq9](../questions.d/QUESTION-tmpildq9.md). A J-lens concept, read through the lens, is a
+[QUESTION-370](../questions.d/QUESTION-370.md). A J-lens concept, read through the lens, is a
 distribution over the whole vocabulary, so it stands where a topic does,
 as the owner said at review ("concepts are distributions over words.
 concepts are directions in a word space"). The differences are that the

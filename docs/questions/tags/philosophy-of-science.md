@@ -6,7 +6,7 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-20 of 368 QUESTION documents. Back to the [full index](../README.md).
+20 of 370 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

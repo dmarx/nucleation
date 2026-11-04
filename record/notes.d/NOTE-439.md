@@ -271,7 +271,7 @@ The article is a review and argument; results are cited.
 
 ## Note of 2026-11-03: C4 against its primary source
 
-Kasser and Ryan 1996 ([NOTE-tmpp47uv](NOTE-tmpp47uv.md)) support only C4's first half, that
+Kasser and Ryan 1996 ([NOTE-1525](NOTE-1525.md)) support only C4's first half, that
 extrinsic aspirations go with lower well-being. They measure no reasons and
 call the "beyond the reasons" test future work (p. 286). Their intrinsic and
 extrinsic results are close to one contrast, since both are entered after an

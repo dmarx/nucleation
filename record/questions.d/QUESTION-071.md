@@ -71,9 +71,9 @@ bearing:
 - THEORY-040
 - THEORY-121
 ---
-<!-- inactive-ok-file: NOTE-tmp6wm7j — new or Proposed; readings of 2026-11-03 cited as open -->
+<!-- inactive-ok-file: NOTE-1504 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: THEORY-047 — new or Proposed; cited from the construction of 2026-11-03 -->
-<!-- inactive-ok-file: CLAIM-tmpxpdqi — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-545 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, named in a dated note -->
@@ -224,7 +224,7 @@ sum. This is the third time. Two points are new.
 - **The transition path, not the end state** (A21 §3). In a gradient system
   with small isotropic noise, the most likely escape follows the
   time-reversal of the relaxation path from the saddle (Freidlin–Wentzell;
-  [LIT-1881](../literature.d/LIT-1881.md); Heymann and Vanden-Eijnden, [LIT-tmpk8i57](../literature.d/LIT-tmpk8i57.md), registered). A directed
+  [LIT-1881](../literature.d/LIT-1881.md); Heymann and Vanden-Eijnden, [LIT-1981](../literature.d/LIT-1981.md), registered). A directed
   transition need not, unless the controller imitates the noise path. So
   history can record more than the end state. This holds only in the
   frozen-slow-variable limit, since the toy is not a gradient system and its
@@ -235,16 +235,16 @@ sum. This is the third time. Two points are new.
     slow dispositions by the agent's own processes (A19 §5).
   - Comparing the agent's channel with an outsider's for the same transition
     by their Gramians gives one measurable component (A20 §4;
-    [CLAIM-tmpptgk8](../claims.d/CLAIM-tmpptgk8.md)).
+    [CLAIM-542](../claims.d/CLAIM-542.md)).
   - Capture needs no instability. Near threshold, [CASE-099](../cases.d/CASE-099.md)'s mixed mode is
     also its slow one, so a one-time perturbation lasts about −1/ln λ₊ steps.
-    That is persistence, not self-maintenance ([CLAIM-tmpxpdqi](../claims.d/CLAIM-tmpxpdqi.md)).
+    That is persistence, not self-maintenance ([CLAIM-545](../claims.d/CLAIM-545.md)).
 
 The question stays open.
 
 ## Note of 2026-11-03: a construction for part 1, and why it matters
 
-[CASE-tmph9iwi](../cases.d/CASE-tmph9iwi.md) builds part 1 for self-formation. An agent whose capacity was
+[CASE-191](../cases.d/CASE-191.md) builds part 1 for self-formation. An agent whose capacity was
 installed by a single outside pulse and then maintained by its own cycle is,
 after formation, the same organization as one that formed the capacity itself,
 under every knockout of production or maintenance. Only a knockout during
@@ -262,12 +262,12 @@ The question stays open.
 ## Note of 2026-11-03 (later): the readings
 
 - **The path test, confirmed and bounded.** Heymann and Vanden-Eijnden
-  ([NOTE-tmp6wm7j](../notes.d/NOTE-tmp6wm7j.md)) confirm the note of 2026-11-02 for gradient drift with
+  ([NOTE-1504](../notes.d/NOTE-1504.md)) confirm the note of 2026-11-02 for gradient drift with
   identity noise, and the degenerate-noise caveat. Gradient is sufficient, not
   necessary: in the Maier–Stein model the noise path stays the reversed
   relaxation path up to β = 4, though the drift is gradient only at β = 1. And
   the path evidence is a small-noise statement; a controller can compute and
   follow the noise path.
 - **The same problem for one act.** On Sánchez-Cañizares's irruption model
-  ([NOTE-tmpbmoj1](../notes.d/NOTE-tmpbmoj1.md), p. 15), a change of mind-set parameter cannot be told from one
+  ([NOTE-1506](../notes.d/NOTE-1506.md), p. 15), a change of mind-set parameter cannot be told from one
   set by a stimulus, by internal dynamics or by another party.

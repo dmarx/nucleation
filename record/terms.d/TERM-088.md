@@ -27,7 +27,7 @@ summary: >-
   autonomy is [TERM-070](TERM-070.md)'s closure, named here as the sense it is not.
   Proposed.
 ---
-<!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-tmpxes2o — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
+<!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-474 CLAIM-157 — Proposed, Open or new; the entries this term serves -->
 
 # TERM-088: individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
@@ -157,7 +157,7 @@ term's earlier notes warn against.
   [CASE-111](../cases.d/CASE-111.md)'s bistability, which [QUESTION-281](../questions.d/QUESTION-281.md)'s note keeps apart.
 
 It also missed [CLAIM-170](../claims.d/CLAIM-170.md), the owner's bridge between will and individuation.
-The join is filed as [CLAIM-tmpxes2o](../claims.d/CLAIM-tmpxes2o.md), which names its sense: constitutive, at
+The join is filed as [CLAIM-544](../claims.d/CLAIM-544.md), which names its sense: constitutive, at
 [CLAIM-170](../claims.d/CLAIM-170.md)'s level and target.
 
 The term is unchanged.

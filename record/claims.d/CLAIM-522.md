@@ -35,7 +35,7 @@ bears_on:
 grounds:
 - 'CASE-189'
 uses:
-- TERM-tmp8spbn
+- TERM-100
 summary: >-
   From A10 §4 (its Proposition 5) of the exchange "Analyze nucleation
   concepts" (2026-10-31). Close to definitional, and checked: substituting

@@ -85,7 +85,7 @@ limit taken ([NOTE-1015](../notes.d/NOTE-1015.md)).
 
 ## Note of 2026-11-02: a quantum parallel
 
-Yang and Abanin 2025 ([NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md); [THEORY-tmpggrkf](../theory.d/THEORY-tmpggrkf.md)) have a generator that
+Yang and Abanin 2025 ([NOTE-1534](../notes.d/NOTE-1534.md); [THEORY-1323](../theory.d/THEORY-1323.md)) have a generator that
 is not self-adjoint: a weakly dissipative Lindbladian, whose Hamiltonian
 part is anti-Hermitian. In it the slowest-decaying operators, small
 conserved quantities, nearly coincide with the slowest eigenoperators. The

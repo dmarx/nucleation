@@ -24,7 +24,7 @@ summary: >-
   complex. Apparent relief that comes only from removing a demand or
   redefining success does not count.
 ---
-<!-- inactive-ok-file: CLAIM-tmpbeh2e — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
+<!-- inactive-ok-file: CLAIM-532 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-361 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # QUESTION-133: Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?
@@ -84,7 +84,7 @@ construction (one shared parameter split into task-routed ones) without
 citing it. What it adds is a hypothesis: recurrent frustration between
 demands is the signal that drives the split, and maintenance keeps the new
 channel after the conflict that occasioned it ends. [CASE-117](../cases.d/CASE-117.md) is the study
-that would test it, and [CLAIM-tmpbeh2e](../claims.d/CLAIM-tmpbeh2e.md) states it as part of a positive
+that would test it, and [CLAIM-532](../claims.d/CLAIM-532.md) states it as part of a positive
 account of self-formation.
 
 The question stays open.

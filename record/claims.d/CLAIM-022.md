@@ -22,14 +22,14 @@ works:
 grounds:
 - LIT-292
 uses:
-- TERM-tmp8spbn
+- TERM-100
 summary: >-
   Section 7.2, "No. The theory explains practical efficacy, not
   ownership." What the authenticity line tried to supply, the paper now
   disclaims; [QUESTION-011](../questions.d/QUESTION-011.md) holds the question.
 ---
-<!-- inactive-ok-file: TERM-tmp8spbn — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
-<!-- inactive-ok-file: CLAIM-tmpex9rg LIT-tmpnqv86 THEORY-316 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: TERM-100 — Proposed; the term this claim names in uses, added at the owner's review of 2026-11-03 -->
+<!-- inactive-ok-file: CLAIM-533 LIT-1985 THEORY-316 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account of authorship, a second instance of this limit -->
 <!-- inactive-ok-file: QUESTION-011 — Deferred; set aside, and cited to say what was set aside with it -->
 
@@ -101,7 +101,7 @@ In the exchange "Assess SDT Coverage" (2026-11-02) the owner asked about Kane's 
 ultimate responsibility is the historical condition that would answer this
 disclaimer's question. The record held Kane only second-hand ([THEORY-316](../theory.d/THEORY-316.md),
 [LIT-1867](../literature.d/LIT-1867.md), [LIT-1045](../literature.d/LIT-1045.md), [NOTE-548](../notes.d/NOTE-548.md), [NOTE-856](../notes.d/NOTE-856.md)). *The Significance of Free Will*
-([LIT-tmpnqv86](../literature.d/LIT-tmpnqv86.md)) and "Libertarianism" ([LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md)) are now registered,
+([LIT-1985](../literature.d/LIT-1985.md)) and "Libertarianism" ([LIT-1984](../literature.d/LIT-1984.md)) are now registered,
 unread.
 
 A15 drew a distinction the record already observes. "The self-formation
@@ -116,19 +116,19 @@ where it belongs. The entry a Kanean would contest is [CLAIM-356](CLAIM-356.md) 
 origin does not disqualify a goal"). It is about goals and not
 responsibility, so there is no contradiction, but a theorist of ultimate
 responsibility denies its analogue for responsibility. The owner's link
-between Kane and chaos is [CLAIM-tmpex9rg](CLAIM-tmpex9rg.md).
+between Kane and chaos is [CLAIM-533](CLAIM-533.md).
 
 The claim is unchanged.
 
 ## Note of 2026-11-03: Kane, read first-hand
 
-Kane's "Libertarianism" ([LIT-tmpmi6rp](../literature.d/LIT-tmpmi6rp.md), [NOTE-tmpku07s](../notes.d/NOTE-tmpku07s.md)) states ultimate
+Kane's "Libertarianism" ([LIT-1984](../literature.d/LIT-1984.md), [NOTE-1518](../notes.d/NOTE-1518.md)) states ultimate
 responsibility in his own words: "to be ultimately responsible for an action,
 an agent must be responsible for anything that is a sufficient reason, cause or
 motive for the action's occurring" (p. 36), and asks whether "the sources of our
 wills" can "be completely traced backwards to something over which we had no
 control, such as … social conditioning or hidden controllers" (p. 37). That is
 the historical condition this disclaimer leaves open, in the formation sense of
-[TERM-tmp8spbn](../terms.d/TERM-tmp8spbn.md).
+[TERM-100](../terms.d/TERM-100.md).
 
 The claim is unchanged.

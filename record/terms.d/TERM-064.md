@@ -255,7 +255,7 @@ legibility" (U24). The link is right and new.
   OV circuit is what the selection transports. "QK" and "OV circuit" are
   Elhage et al.'s terms; Vaswani et al. speak of a compatibility function and
   values (eq. 1) (Vaswani et al.,
-  [LIT-tmp91wxa](../literature.d/LIT-tmp91wxa.md); Elhage et al., [LIT-1534](../literature.d/LIT-1534.md); [THEORY-988](../theory.d/THEORY-988.md)). The separation is
+  [LIT-1959](../literature.d/LIT-1959.md); Elhage et al., [LIT-1534](../literature.d/LIT-1534.md); [THEORY-988](../theory.d/THEORY-988.md)). The separation is
   exact only with attention patterns frozen.
 
 So routing against transport, and presentation against model, both separate

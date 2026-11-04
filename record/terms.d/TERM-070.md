@@ -29,7 +29,7 @@ summary: >-
 used_by:
 - CLAIM-414
 ---
-<!-- inactive-ok-file: NOTE-tmpv0g6b — new; Juarrero 2023, read on 2026-11-03 -->
+<!-- inactive-ok-file: NOTE-1532 — new; Juarrero 2023, read on 2026-11-03 -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and the agency reading that use this sense, cited as open -->
 
 # TERM-070: organizational closure, as closure of constraints: a set of constraints each of which depends directly on another in the set and has another depending on it (Montévil and Mossio 2015), distinct from informational closure and from a flame's maintenance of the conditions of its own combustion
@@ -97,7 +97,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-03: Juarrero's constraint is not this one
 
-A reader citing Juarrero 2023 ([LIT-tmpw5nxr](../literature.d/LIT-tmpw5nxr.md), [NOTE-tmpv0g6b](../notes.d/NOTE-tmpv0g6b.md)) for "constraint"
+A reader citing Juarrero 2023 ([LIT-1995](../literature.d/LIT-1995.md), [NOTE-1532](../notes.d/NOTE-1532.md)) for "constraint"
 should know that her context-dependent constraint is Gatlin's conditional
 dependence among processes (p. 67), with no condition of conservation at a time
 scale. Only chapter 7 matches this term: there she adopts its closure of

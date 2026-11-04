@@ -60,7 +60,7 @@ corroborated_by:
 - THEORY-047
 - THEORY-054
 uses:
-- TERM-tmp8spbn
+- TERM-100
 summary: >-
   The owner's, U35 of the exchange of 2026-10-17, against A34's guardrail
   that "Loss minimization does not automatically mean the model has its

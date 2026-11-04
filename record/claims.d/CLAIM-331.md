@@ -56,7 +56,7 @@ history:
   date: '2026-11-02'
   note: >-
     Note of 2026-11-02 added, from the reading of Yang and Abanin
-    (NOTE-tmpxpf7y): what slowness marks is relative to an environment
+    (NOTE-1534): what slowness marks is relative to an environment
     and a measure of size, and moves with the environment's strength.
     The claim is unchanged.
 role: thesis
@@ -277,7 +277,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-02: Yang and Abanin, read
 
-Yang and Abanin 2025 ([NOTE-tmpxpf7y](../notes.d/NOTE-tmpxpf7y.md); [THEORY-tmpggrkf](../theory.d/THEORY-tmpggrkf.md)) give a physical case
+Yang and Abanin 2025 ([NOTE-1534](../notes.d/NOTE-1534.md); [THEORY-1323](../theory.d/THEORY-1323.md)) give a physical case
 for the claim's "a mark and not its definition", from a side the earlier
 notes did not cover. In a closed many-body system, nothing decays, so slowness
 ranks nothing. Once weak local noise is added, the slowest modes are the

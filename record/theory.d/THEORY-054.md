@@ -67,7 +67,7 @@ supports:
 - CLAIM-016
 - CLAIM-354
 ---
-<!-- inactive-ok-file: LIT-tmpfyba0 LIT-tmpwslkc THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: LIT-1973 LIT-1996 THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
@@ -177,22 +177,22 @@ untested as one.
 
 ## Note of 2026-11-02: the evidence its promote_when asks for
 
-In the exchange "Assess SDT Coverage" (2026-11-02), A2 named Howard, Gagné and Bureau 2017 ([LIT-tmpwslkc](../literature.d/LIT-tmpwslkc.md)), a
+In the exchange "Assess SDT Coverage" (2026-11-02), A2 named Howard, Gagné and Bureau 2017 ([LIT-1996](../literature.d/LIT-1996.md)), a
 meta-analysis of the continuum of self-determined motivation, as bearing on
 whether integrated regulation is separable from identified regulation. A2
 says it does not find integrated regulation as a distinct factor. That is
-unverified until the paper is read. Deci et al. 1994 ([LIT-tmpfyba0](../literature.d/LIT-tmpfyba0.md)), which
+unverified until the paper is read. Deci et al. 1994 ([LIT-1973](../literature.d/LIT-1973.md)), which
 this theory and [THEORY-047](THEORY-047.md) hold second-hand, is registered too.
 
 The status is unchanged.
 
 ## Note of 2026-11-03: Howard et al., second-hand
 
-Howard et al. 2017 is Unfetched. Ryan et al. 2022 ([NOTE-tmp1eol1](../notes.d/NOTE-tmp1eol1.md)) report it:
+Howard et al. 2017 is Unfetched. Ryan et al. 2022 ([NOTE-1500](../notes.d/NOTE-1500.md)) report it:
 integrated regulation was not separated from identified, partly because few
 studies measured integration, and Van den Broeck et al. 2021 found the same at
 work. So the promote_when's first clause stays unmet, now on two reports. The
-causality orientations paper ([NOTE-tmpuvza0](../notes.d/NOTE-tmpuvza0.md), p. 111), where inner "I have to"
+causality orientations paper ([NOTE-1531](../notes.d/NOTE-1531.md), p. 111), where inner "I have to"
 events count as controls, is an early SDT statement of the claim's "not order"
 half.
 

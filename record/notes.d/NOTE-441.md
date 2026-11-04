@@ -274,7 +274,7 @@ What the paper argues, in its order.
 
 ## Note of 2026-11-03: C8 against its primary source
 
-Chirkov et al. 2003 ([NOTE-tmpgd5c5](NOTE-tmpgd5c5.md)) bear out this reading's account. Its "no
+Chirkov et al. 2003 ([NOTE-1513](NOTE-1513.md)) bear out this reading's account. Its "no
 moderation by culture" rests on twelve non-significant interactions in samples
 of 94 to 195 students, and its text for vertical collectivism repeats the
 vertical individualism statistics (p. 105 against Table 6).
