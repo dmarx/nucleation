@@ -23,7 +23,7 @@ summary: >-
   [CLAIM-537](../claims.d/CLAIM-537.md) and [CASE-153](../cases.d/CASE-153.md) already hold. Whether the slash names one property
   at two scales is the owner's to say.
 ---
-<!-- inactive-ok-file: CLAIM-446 CLAIM-534 CLAIM-tmp7oo4d CLAIM-tmp8e3ye LIT-1830 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-tmpo70k5 CLAIM-446 CLAIM-534 CLAIM-tmp7oo4d CLAIM-tmp8e3ye LIT-1830 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # QUESTION-tmpu6o08: Does a perspective's motivational threshold induce its tolerances, do those tolerances induce the organization's motivational compatibility, and does that compatibility, kept across changing contexts, give psychological flexibility or organizational effectiveness; and are those last two one property named at two scales, or two properties?
 
@@ -91,3 +91,16 @@ Each link is a different kind of step.
 - **The slash.** The owner's gloss. Failing that, a case that is flexible
   and ineffective, or effective and inflexible, would show two properties
   and not one.
+
+## Note of 2026-11-04: the second reading of the slash, as a case
+
+At the owner's review the owner said the intended sense does not matter
+here, and invited a case for any alternative reading that supports one.
+The second reading of link 4, one property at two scales, does:
+CASE-tmpo70k5 joins psychological and organizational flexibility by
+propagation through a conferral network, after Guida, Minutola and Presti
+(LIT-1218). Under ACT's definition flexibility already serves the
+system's own valued ends, so the two readings part only on the standard
+for effectiveness: the organization's own values, or one specified
+independently of them, A19's. No status changes.
+
