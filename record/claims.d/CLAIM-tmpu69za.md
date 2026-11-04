@@ -60,7 +60,7 @@ summary: >-
   ([THEORY-120](../theory.d/THEORY-120.md)). The construct is the owner's. The wording is A's,
   sharpened by the reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 CLAIM-tmp6zm3v CLAIM-tmp7oo4d CLAIM-tmp8e3ye TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 CLAIM-tmp6zm3v CLAIM-tmp7oo4d CLAIM-tmp8e3ye CLAIM-tmpgjdby TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-tmpu69za: Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
 
@@ -76,19 +76,39 @@ expecting success.
 
 **The construction (A16 §§1–2, in U15's terms).** P is an individual's
 perspectives and W its candidate effective wills. Each perspective i has
-a discrepancy d_i(w) ≥ 0 from the will it wants to be effective, and a
-scalar threshold τ_i. Its acceptance set is A_i(τ_i) = {w : d_i(w) ≤ τ_i}.
-A16 calls this "a tolerance condition on a Frankfurtian-style volition,
+a discrepancy d_i(w) ≥ 0 from the will it wants to be effective, its
+target. A16 gave it one scalar threshold τ_i and acceptance set
+A_i(τ_i) = {w : d_i(w) ≤ τ_i}, and called this "a tolerance condition on a Frankfurtian-style volition,
 rather than a definition of Frankfurtian identification itself."
 
-The propensity is graded:
+**Several tolerances on one divergence (the owner, at review).** The
+intervention threshold is one tolerance among several that a perspective
+holds on the same divergence d_i from its target. A16's single τ_i ran
+them together. Kept apart:
 
-  q_i(w) = σ(κ_i[d_i(w) − τ_i]),
+| tolerance | crossing it means | held in |
+|---|---|---|
+| τ_i^acc, acceptance | i no longer accepts w; the sign of its endorsement turns | CLAIM-tmpgjdby |
+| τ_i^act, activation | i is active, not necessarily on the will | CLAIM-tmp8e3ye; TERM-053's note of 2026-11-04 |
+| τ_i^int, intervention | i mobilizes to act on the will | U17 |
+
+CLAIM-tmp8e3ye is the formalization in this neighbourhood: from one
+activation threshold θ it derives, for each response level ε, a
+different tolerance on the same discrepancy, (θ + κ⁻¹ logit ε − b)/α. So
+a ladder of tolerances on one divergence is what a graded response
+already gives. Nothing fixes their order. A perspective with
+τ_i^acc < d_i(w) ≤ τ_i^int no longer accepts w but does not mobilize,
+and is quiet with its channel working, which is CASE-129's third quiet
+arm, the raised threshold.
+
+The acceptance set is A_i = {w : d_i(w) ≤ τ_i^acc}. The propensity to
+intervene is graded on the intervention tolerance:
+
+  q_i(w) = σ(κ_i[d_i(w) − τ_i^int]),
 
 the probability that i mobilizes to intervene, given that it has
-recognized the discrepancy and has a channel. τ_i is the discrepancy at
-which q_i = ½. [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md) derives τ_i from an activation threshold,
-relative to a context's baseline and gain.
+recognized the discrepancy and has a channel. τ_i^int is the discrepancy
+at which q_i = ½.
 
 **The channel is separate (A16 §2).** The intervention that can be
 observed is p_i(w) = s_i(w) q_i(w). Here s_i is the chance that the
@@ -102,7 +122,7 @@ influence is negative endorsement. An intervention with no channel is
 not, and neither is its absence.
 
 **The complex (A16 §5).** 𝒦_τ = {S ⊆ P : some attainable history's will
-lies within τ_i for every i in S}. It is downward closed, as in
+lies within τ_i^acc for every i in S}. It is downward closed, as in
 [CLAIM-347](CLAIM-347.md). Pairwise compatibility does not give joint compatibility, as
 in [CASE-119](../cases.d/CASE-119.md). The budget form, three perspectives sharing two units, is in
 [CASE-119](../cases.d/CASE-119.md)'s note of 2026-11-04.
@@ -125,12 +145,12 @@ the will that moves the agent to act, not about whether the agent acts or
 complains. In this construct:
 
 - an individual is wholehearted at w when w, the will it acts on, lies
-  within every maintained perspective's tolerance: d_i(w) ≤ τ_i for all
-  i. That is the full face of 𝒦_τ, the requirement complex at the
+  within every maintained perspective's acceptance tolerance, relative to
+  its target: d_i(w) ≤ τ_i^acc for all i. That is the full face of 𝒦_τ, the requirement complex at the
   declared tolerances. A wholehearted individual can act vigorously; what
   it lacks is a perspective set against the will it acts on;
-- quiet is not wholeheartedness. A perspective past τ_i whose channel is
-  lost (s_i ≈ 0) does not intervene, yet the conflict Frankfurt's
+- quiet is not wholeheartedness. A perspective past τ_i^acc does not
+  intervene if it is below τ_i^int or its channel is lost (s_i ≈ 0), yet the conflict Frankfurt's
   condition excludes is there. Quiet counts as evidence only when the
   channel is known ([CASE-129](../cases.d/CASE-129.md)). Mapping wholeheartedness onto the quiescent
   complex would have contradicted this claim's own point, that not
@@ -140,8 +160,8 @@ complains. In this construct:
   with any attainable will, whatever higher-order volition
   ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)) it forms. Its minimal non-faces are its minimal
   ambivalences;
-- it can become wholehearted only by changing a demand: a raised τ_i, or
-  a new d_i. Frankfurt's willing acceptance "may be resigned"
+- it can become wholehearted only by changing a demand: a raised τ_i^acc,
+  or a new target. Frankfurt's willing acceptance "may be resigned"
   ([THEORY-120](../theory.d/THEORY-120.md)). In this construct resignation is a raised tolerance, a
   perspective that now accepts w, not one that has been silenced. By
   [CLAIM-347](CLAIM-347.md) that is a change of demand, not relief. Whether it still
@@ -150,6 +170,10 @@ complains. In this construct:
 - the graded q_i gives a graded form of what [THEORY-120](../theory.d/THEORY-120.md) makes all or
   nothing: how far past its tolerance each dissenting perspective is.
   That meets [THEORY-054](../theory.d/THEORY-054.md)'s objection inside Frankfurt's own criterion.
+
+Wholeheartedness is thus judged on the acceptance tolerance alone. The
+intervention and activation tolerances say whether a perspective that has
+stopped accepting will show it.
 
 The filing of 48d2ca5 mapped wholeheartedness onto quiescence below both
 thresholds. The owner questioned that at review, and it is withdrawn: it
