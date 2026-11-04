@@ -41,7 +41,7 @@ summary: >-
 
 ## Contribution
 
-It makes the model of LIT-tmpld7ct a general
+It makes the model of [LIT-tmpld7ct](../literature.d/LIT-tmpld7ct.md) a general
 framework: any number of levels, explicit update equations, a reading of
 the updates as value and volatility prediction errors, a motivated
 coupling between levels, irregular intervals between inputs, and a recipe
@@ -124,7 +124,7 @@ optimal given a particular agent's parameter setting." (Discussion)
   level above contributes, from tonic and phasic volatility, linked to
   "unexpected" uncertainty.
 - **Perceptual and sensory uncertainty**: perceptual uncertainty is used
-  more broadly than in LIT-tmpld7ct; sensory uncertainty is the noise of
+  more broadly than in [LIT-tmpld7ct](../literature.d/LIT-tmpld7ct.md); sensory uncertainty is the noise of
   input given x1 (π̂u).
 - **VAPE and VOPE**: the prediction error about a state's value against
   the error about its amount of change.
@@ -133,7 +133,7 @@ optimal given a particular agent's parameter setting." (Discussion)
 
 ## Connections
 
-It extends LIT-tmpld7ct and sits inside the "observing the observer"
+It extends [LIT-tmpld7ct](../literature.d/LIT-tmpld7ct.md) and sits inside the "observing the observer"
 framework of Daunizeau et al. (2010). It places itself among
 adaptive-learning-rate accounts (Yu & Dayan; Nassar et al. 2010;
 Payzan-LeNestour & Bossaerts 2011; Wilson et al. 2013), distinguishing
@@ -147,9 +147,9 @@ evidence that people learn this way is cited, not shown: Iglesias et al.
   HGF tracks beliefs about outcomes and about volatility and replaces a
   fixed learning rate with one set by inferred uncertainty; the paper says
   learning rates are adjusted "continually at each level separately".
-  Wrong in placement, as for LIT-tmpld7ct: the synthesis files the HGF
+  Wrong in placement, as for [LIT-tmpld7ct](../literature.d/LIT-tmpld7ct.md): the synthesis files the HGF
   under across-participant hierarchical parameter estimation, the HDDM
-  sense (LIT-563, NOTE-466). This is the wrong sense of hierarchical. The
+  sense ([LIT-563](../literature.d/LIT-563.md), [NOTE-466](NOTE-466.md)). This is the wrong sense of hierarchical. The
   hierarchy is over states inside one agent's model; parameters are
   estimated per subject by MAP with fixed priors and no group-level
   pooling. The paper never builds a population model. Its table row
@@ -159,39 +159,39 @@ evidence that people learn this way is cited, not shown: Iglesias et al.
   the VAPE and VOPE structure, the informational and environmental and the
   tonic and phasic distinctions, the identifiability limits, and that the
   empirical content is one subject plus simulations.
-- **NOTE-1063, THEORY-882 (Laukkonen, Friston & Chandaria).** Qualifies
-  THEORY-882, which is a THEORY and gets no dated note here: the HGF sets
+- **[NOTE-1063](NOTE-1063.md), [THEORY-882](../theory.d/THEORY-882.md) (Laukkonen, Friston & Chandaria).** Qualifies
+  [THEORY-882](../theory.d/THEORY-882.md), which is a THEORY and gets no dated note here: the HGF sets
   the precision of predictions level by level (Eq. 13), but it has no
-  global hyper-model, so the difference THEORY-882 draws is real. Whether
+  global hyper-model, so the difference [THEORY-882](../theory.d/THEORY-882.md) draws is real. Whether
   it is unmet is for that note.
-- **QUESTION-325 and CLAIM-446 (anxiety and avoidance).** Qualifies
-  QUESTION-325 indirectly. The paper ties high sensory uncertainty to a
+- **[QUESTION-325](../questions.d/QUESTION-325.md) and [CLAIM-446](../claims.d/CLAIM-446.md) (anxiety and avoidance).** Qualifies
+  [QUESTION-325](../questions.d/QUESTION-325.md) indirectly. The paper ties high sensory uncertainty to a
   falling volatility estimate and inconsistent choice, but has no anxiety
   model. It supplies the machinery the uncertainty accounts use:
   uncertainty-specific learning rates, and response models that include
-  μ3. Nothing bears on CLAIM-446.
-- **NOTE-1120, THEORY-910, LIT-1479 (Brown, Price & Dombrovski).** The
-  Figure 3 result is the formal counterpart of NOTE-1120's claim C4, that
+  μ3. Nothing bears on [CLAIM-446](../claims.d/CLAIM-446.md).
+- **[NOTE-1120](NOTE-1120.md), [THEORY-910](../theory.d/THEORY-910.md), [LIT-1479](../literature.d/LIT-1479.md) (Brown, Price & Dombrovski).** The
+  Figure 3 result is the formal counterpart of [NOTE-1120](NOTE-1120.md)'s claim C4, that
   anxiety misreads noise as change: under the HGF, misreading noise as change is an underestimate
   of sensory noise (too high π̂u) that inflates μ3. It supports the
   construct as formalizable, and gives no evidence about anxiety.
-- **QUESTION-329, THEORY-1182, THEORY-897 (learning-rate adjustment in
+- **[QUESTION-329](../questions.d/QUESTION-329.md), [THEORY-1182](../theory.d/THEORY-1182.md), [THEORY-897](../theory.d/THEORY-897.md) (learning-rate adjustment in
   anxiety).** Related: the HGF is the instrument usually fitted, and
   Appendix F's ambiguity between κ and μ(0)3 bears on how group
   differences in learning about volatility can be read.
-- **LIT-1483, NOTE-1127 (Chou, Wilson & Smith).** The same
+- **[LIT-1483](../literature.d/LIT-1483.md), [NOTE-1127](NOTE-1127.md) (Chou, Wilson & Smith).** The same
   informational and environmental vocabulary.
-- **THEORY-1179, THEORY-285.** Adjacent precision-weighting accounts of
+- **[THEORY-1179](../theory.d/THEORY-1179.md), [THEORY-285](../theory.d/THEORY-285.md).** Adjacent precision-weighting accounts of
   psychopathology in the same line; the HGF is their discrete-time
   filtering counterpart.
-- **QUESTION-276, CASE-165, LIT-1542, THEORY-484, THEORY-070.** Unrelated;
+- **[QUESTION-276](../questions.d/QUESTION-276.md), [CASE-165](../cases.d/CASE-165.md), [LIT-1542](../literature.d/LIT-1542.md), [THEORY-484](../theory.d/THEORY-484.md), [THEORY-070](../theory.d/THEORY-070.md).** Unrelated;
   the HGF learns no structure.
 - **Parameter recovery, a separable claim, not filed.** In simulation, κ
   and response noise ζ of the three-level binary HGF are recovered from
   320 binary choices by all four methods at low or moderate noise. It
   would need its own THEORY, with an independent recovery study, over
   more parameters and input sequences, as its `promote_when`.
-- Filed: THEORY-tmph6x8h, the n-level update form.
+- Filed: [THEORY-tmph6x8h](../theory.d/THEORY-tmph6x8h.md), the n-level update form.
 - No instruction for machine-learning practice; nothing for the
   anthology.
 

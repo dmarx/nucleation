@@ -31,7 +31,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpld7ct
 summary: >-
-  Mathys et al. (2011), LIT-tmpld7ct, read in NOTE-tmpwdo6q. A
+  Mathys et al. (2011), [LIT-tmpld7ct](../literature.d/LIT-tmpld7ct.md), read in [NOTE-tmpwdo6q](../notes.d/NOTE-tmpwdo6q.md). A
   derivation with illustrative simulations: closed-form trial-by-trial
   updates for a three-level hierarchy of volatility, of Rescorla–Wagner
   form, with a learning rate that is the agent's posterior variance and
@@ -46,8 +46,8 @@ summary: >-
 
 ## Source
 
-Mathys, Daunizeau, Friston and Stephan (2011), LIT-tmpld7ct; read in
-NOTE-tmpwdo6q.
+Mathys, Daunizeau, Friston and Stephan (2011), [LIT-tmpld7ct](../literature.d/LIT-tmpld7ct.md); read in
+[NOTE-tmpwdo6q](../notes.d/NOTE-tmpwdo6q.md).
 
 ## What was actually shown
 
@@ -78,9 +78,9 @@ NOTE-tmpwdo6q.
 - That people learn this way: "this paper is of a purely theoretical
   nature", and fitting to data is left to later work.
 - That the coupling parameters are identifiable from behaviour; the 2014
-  paper, LIT-tmpkft30, finds κ confounded with the prior on
+  paper, [LIT-tmpkft30](../literature.d/LIT-tmpkft30.md), finds κ confounded with the prior on
   x3.
 - That the hierarchy is across participants. It is over states inside
-  one agent; nothing is pooled across agents, unlike HDDM (LIT-563).
+  one agent; nothing is pooled across agents, unlike HDDM ([LIT-563](../literature.d/LIT-563.md)).
 - Anything about anxiety or dopamine: those mappings are offered as
   anthropomorphic or hypothetical.

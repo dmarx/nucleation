@@ -44,7 +44,7 @@ integration on every trial, and reinforcement-learning models assume
 their learning rates. Here learning
 rates and prediction errors fall out of the inversion, and the coupling
 parameters are interpretable per agent. This is the model that
-LIT-tmpkft30 later names the Hierarchical Gaussian Filter; this paper does
+[LIT-tmpkft30](../literature.d/LIT-tmpkft30.md) later names the Hierarchical Gaussian Filter; this paper does
 not use the name.
 
 ## Key insight
@@ -117,7 +117,7 @@ in learning are then differences in priors, not departures from Bayes.
   x2 (represented by σ2), and environmental, i.e., the volatility of the
   environment".
 - **Perceptual uncertainty** (narrow sense): a stochastic mapping from x1
-  to the input. LIT-tmpkft30 uses the term more broadly.
+  to the input. [LIT-tmpkft30](../literature.d/LIT-tmpkft30.md) uses the term more broadly.
 - **Learning rate**: σ2 at level 2 and σ3κw2 at level 3; dynamic because
   they depend on the states, though the parameters are fixed.
 - **Subjectively optimal**: optimal relative to the agent's own
@@ -145,8 +145,8 @@ of Behrens et al. 2007, Daunizeau et al. 2010, Nassar et al. 2010 or Yu
   and that the learning rate is set by inferred uncertainty rather than
   fixed. Wrong in placement: the synthesis puts the hierarchical Gaussian
   filter in §3, "hierarchical Bayesian estimation of cognitive-process
-  parameters across participants", beside HDDM's partial pooling (LIT-563,
-  NOTE-466). That is the wrong sense of hierarchical. The hierarchy here
+  parameters across participants", beside HDDM's partial pooling ([LIT-563](../literature.d/LIT-563.md),
+  [NOTE-466](NOTE-466.md)). That is the wrong sense of hierarchical. The hierarchy here
   is over levels of hidden states inside one agent's generative model,
   each level setting the step size of the one below; parameters are per
   agent and nothing is pooled across participants. The synthesis's own
@@ -161,33 +161,33 @@ of Behrens et al. 2007, Daunizeau et al. 2010, Nassar et al. 2010 or Yu
   that the inversion is variational and approximate, the Rescorla–Wagner
   form of the updates, the coupling parameters as the "individual" of the
   title, and the speculative psychiatric and neuromodulatory mappings.
-- **QUESTION-325 and CLAIM-446 (anxiety, uncertainty, avoidance).**
-  Qualifies QUESTION-325: the paper offers its reduced-κ agent as an
+- **[QUESTION-325](../questions.d/QUESTION-325.md) and [CLAIM-446](../claims.d/CLAIM-446.md) (anxiety, uncertainty, avoidance).**
+  Qualifies [QUESTION-325](../questions.d/QUESTION-325.md): the paper offers its reduced-κ agent as an
   anthropomorphic picture of anxiety, to "interpret underconfidence about
   estimates of environmental volatility (i.e., high σ3) as a possible
   cause of anxiety". That is a source of the uncertainty construct, drawn
   from one simulation, not evidence. It neither supports nor undermines
-  CLAIM-446's governance account.
-- **NOTE-1120, LIT-1479, THEORY-910 (Brown, Price & Dombrovski).** A
+  [CLAIM-446](../claims.d/CLAIM-446.md)'s governance account.
+- **[NOTE-1120](NOTE-1120.md), [LIT-1479](../literature.d/LIT-1479.md), [THEORY-910](../theory.d/THEORY-910.md) (Brown, Price & Dombrovski).** A
   formal source for the construction those entries use, noise against
   volatility with learning rates that should rise with volatility. It
   supports the construct and adds nothing to the empirical claim.
-- **THEORY-1182, THEORY-897, QUESTION-329 (anxiety and learning-rate
+- **[THEORY-1182](../theory.d/THEORY-1182.md), [THEORY-897](../theory.d/THEORY-897.md), [QUESTION-329](../questions.d/QUESTION-329.md) (anxiety and learning-rate
   adjustment).** Related: the hierarchical Gaussian filter is one of the
   models such studies fit; this paper supplies the model, no evidence.
-- **LIT-1483, NOTE-1127 (Chou, Wilson & Smith).** Their split into
+- **[LIT-1483](../literature.d/LIT-1483.md), [NOTE-1127](NOTE-1127.md) (Chou, Wilson & Smith).** Their split into
   informational and environmental uncertainty comes from this line of
   work.
-- **NOTE-1063, THEORY-882 (Laukkonen, Friston & Chandaria).** Those
+- **[NOTE-1063](NOTE-1063.md), [THEORY-882](../theory.d/THEORY-882.md) (Laukkonen, Friston & Chandaria).** Those
   entries name the hierarchical Gaussian filter as the layer-wise precision
   model their account goes beyond; the reference statement is
-  LIT-tmpkft30.
-- **CASE-165, QUESTION-276, LIT-1542, THEORY-484, THEORY-070.** Unrelated:
+  [LIT-tmpkft30](../literature.d/LIT-tmpkft30.md).
+- **[CASE-165](../cases.d/CASE-165.md), [QUESTION-276](../questions.d/QUESTION-276.md), [LIT-1542](../literature.d/LIT-1542.md), [THEORY-484](../theory.d/THEORY-484.md), [THEORY-070](../theory.d/THEORY-070.md).** Unrelated:
   the hierarchy here is a fixed chain of volatilities, not inferred
   structure, latent features, options or control. The one tangent is that
-  it offers a logistic random-walk alternative to CASE-165's sticky
+  it offers a logistic random-walk alternative to [CASE-165](../cases.d/CASE-165.md)'s sticky
   logistic transition for a binary state with learned volatility.
-- Filed: THEORY-tmpjlua4, the derivation and its update form.
+- Filed: [THEORY-tmpjlua4](../theory.d/THEORY-tmpjlua4.md), the derivation and its update form.
 - No instruction for machine-learning practice; nothing for the
   anthology.
 
@@ -214,4 +214,4 @@ of Behrens et al. 2007, Daunizeau et al. 2010, Nassar et al. 2010 or Yu
 - How close are the variational updates to exact inversion of the same
   model, and where does the quadratic approximation break? The 2014 paper
   bounds the parameters rather than answering this.
-- Can κ, ω and ϑ be recovered from behaviour? Taken up in LIT-tmpkft30.
+- Can κ, ω and ϑ be recovered from behaviour? Taken up in [LIT-tmpkft30](../literature.d/LIT-tmpkft30.md).

@@ -31,7 +31,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpkft30
 summary: >-
-  Mathys et al. (2014), LIT-tmpkft30, read in NOTE-tmpnn27v. The
+  Mathys et al. (2014), [LIT-tmpkft30](../literature.d/LIT-tmpkft30.md), read in [NOTE-tmpnn27v](../notes.d/NOTE-tmpnn27v.md). The
   Hierarchical Gaussian Filter's update equations for n levels: the same
   precision-weighted prediction-error form at every level above the
   first, a value prediction error at level 1 and a volatility prediction
@@ -47,8 +47,8 @@ summary: >-
 ## Source
 
 Mathys, Lomakina, Daunizeau, Iglesias, Brodersen, Friston and Stephan
-(2014), LIT-tmpkft30; read in NOTE-tmpnn27v. It generalizes the
-three-level derivation of THEORY-tmpjlua4.
+(2014), [LIT-tmpkft30](../literature.d/LIT-tmpkft30.md); read in [NOTE-tmpnn27v](../notes.d/NOTE-tmpnn27v.md). It generalizes the
+three-level derivation of [THEORY-tmpjlua4](THEORY-tmpjlua4.md).
 
 ## What was actually shown
 
@@ -82,4 +82,4 @@ three-level derivation of THEORY-tmpjlua4.
 - That people learn this way: the evidence is cited (Iglesias et al.
   2013; Vossel et al. 2013), not shown.
 - That the hierarchy is across participants: estimation is per subject,
-  by MAP, with no group-level pooling, unlike HDDM (LIT-563).
+  by MAP, with no group-level pooling, unlike HDDM ([LIT-563](../literature.d/LIT-563.md)).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpwdo6q) from the open-access text in
+  read in full 2026-11-04 ([NOTE-tmpwdo6q](../notes.d/NOTE-tmpwdo6q.md)) from the open-access text in
   Europe PMC (PMC3096853); worth reading as the derivation of what the
   later paper names the Hierarchical Gaussian Filter: closed-form,
   trial-by-trial updates for a hierarchy of Gaussian random walks in which
@@ -76,7 +76,7 @@ Mathys, C., Daunizeau, J., Friston, K. J. & Stephan, K. E. (2011). A Bayesian fo
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwdo6q.*
+*From the reading, [NOTE-tmpwdo6q](../notes.d/NOTE-tmpwdo6q.md).*
 
 - **A hierarchy of volatilities, inside one agent.** "The model assumes
   Gaussian random walks of states at all but the first level, with the
@@ -97,11 +97,11 @@ Mathys, C., Daunizeau, J., Friston, K. J. & Stephan, K. E. (2011). A Bayesian fo
 ## Standing in the record
 
 The owner's pasted synthesis of 2026-11-04 placed the hierarchical
-Gaussian filter in its §3, beside HDDM (LIT-563), as hierarchical
+Gaussian filter in its §3, beside HDDM ([LIT-563](LIT-563.md)), as hierarchical
 estimation of parameters across participants. That is the wrong sense of
 hierarchical: the hierarchy here is over hidden states in one agent's
 model, and parameters are per agent. The synthesis's own table row,
 "Hierarchical Bayesian filtering", is the right placement. The wording
 the synthesis puts in quotation marks is its own paraphrase and is not in
 this paper. Its generalization to n levels, under the name Hierarchical
-Gaussian Filter, is LIT-tmpkft30. Filed from it: THEORY-tmpjlua4.
+Gaussian Filter, is [LIT-tmpkft30](LIT-tmpkft30.md). Filed from it: [THEORY-tmpjlua4](../theory.d/THEORY-tmpjlua4.md).

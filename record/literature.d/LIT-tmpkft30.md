@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpnn27v) from the open-access text in
+  read in full 2026-11-04 ([NOTE-tmpnn27v](../notes.d/NOTE-tmpnn27v.md)) from the open-access text in
   Europe PMC (PMC4237059); worth reading as the reference statement of the
   Hierarchical Gaussian Filter: n levels of coupled Gaussian random walks,
   updates that are precision-weighted prediction errors at every level
@@ -56,7 +56,7 @@ implementations:
 - 'http://www.translationalneuromodeling.org/tapas/'
 summary: >-
   Mathys, Lomakina, Daunizeau, Iglesias, Brodersen, Friston & Stephan
-  (2014). Generalizes the model of LIT-tmpld7ct to any number of levels
+  (2014). Generalizes the model of [LIT-tmpld7ct](LIT-tmpld7ct.md) to any number of levels
   and names it the Hierarchical Gaussian Filter: each level a Gaussian
   random walk with variance exp(κ x + ω) of the level above, scaled by
   the time between inputs. Variational inversion gives updates of one
@@ -77,7 +77,7 @@ Mathys, C. D., Lomakina, E. I., Daunizeau, J., Iglesias, S., Brodersen, K. H., F
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpnn27v.*
+*From the reading, [NOTE-tmpnn27v](../notes.d/NOTE-tmpnn27v.md).*
 
 - **n levels, one update form.** "here, we extend the HGF explicitly to
   any number of levels" (Introduction); "the updates of the means are
@@ -97,14 +97,14 @@ Mathys, C. D., Lomakina, E. I., Daunizeau, J., Iglesias, S., Brodersen, K. H., F
 ## Standing in the record
 
 The owner's pasted synthesis of 2026-11-04 placed the hierarchical
-Gaussian filter beside HDDM (LIT-563) as hierarchical estimation of
+Gaussian filter beside HDDM ([LIT-563](LIT-563.md)) as hierarchical estimation of
 parameters across participants. Here, too, the hierarchy is over states
 in one agent's model, and parameters are estimated per subject by MAP
 with fixed priors and no group-level pooling; pooling HGF parameters in
 the HDDM manner would be an extension this paper does not make. The
 synthesis's table row "Hierarchical Bayesian filtering" is the right
 placement. This is the paper the record's anxiety-and-uncertainty
-entries (QUESTION-325, QUESTION-329) rely on for the machinery, not for
-evidence about anxiety. Filed from it: THEORY-tmph6x8h. The paper's
-parameter-recovery result is a separable claim, noted in NOTE-tmpnn27v
+entries ([QUESTION-325](../questions.d/QUESTION-325.md), [QUESTION-329](../questions.d/QUESTION-329.md)) rely on for the machinery, not for
+evidence about anxiety. Filed from it: [THEORY-tmph6x8h](../theory.d/THEORY-tmph6x8h.md). The paper's
+parameter-recovery result is a separable claim, noted in [NOTE-tmpnn27v](../notes.d/NOTE-tmpnn27v.md)
 and not filed.
