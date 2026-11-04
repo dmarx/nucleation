@@ -16,3 +16,4 @@
 - A Proposed decision that reading and filing follow a written protocol ([ADR-068](record/decisions.d/ADR-068.md)), at the owner's suggestion. Its eight invariants are in the ADR. Its steps, with the reader's brief, are in a new skill, `.claude/skills/read-and-file/SKILL.md`, which is edited as practice changes, and CLAUDE.md points to it.
 - A Rejected source ARG: Van Lange and Bergmann do not establish CLAIM-tmpjnqe9 as titled, only its first link (ARG-tmpv5t3t). The review leaves the claim's grounds and corroborates it instead (THEORY-tmpmr4g4). West et al.'s account corroborates CLAIM-474 (THEORY-tmpm0ct3).
 - The `read-and-file` skill's step 9 now covers ARGs, `corroborates` and `rivals`. The first pass under it had filed no ARG where ADR-061 asks for one.
+- CLAUDE.md, and the `read-and-file` skill, now point to `docs/record.md`, the generated description of `luria.yaml`, and to Luria's configuration reference.

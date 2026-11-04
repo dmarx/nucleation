@@ -12,6 +12,9 @@ same pull request as the work that showed it, and say so in that change's
 changelog fragment. Changing an invariant, the list in ADR-068, takes a
 superseding ADR.
 
+Before filling in a field, check `docs/record.md`: what each scheme must
+carry, which relations point where, and which vocabularies are closed.
+
 Bare codes only. Never write a link target, and do not run `luria repair`,
 `link --fix`, `index` or `lint` before pushing (ADR-054).
 
