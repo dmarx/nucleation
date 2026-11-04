@@ -1,0 +1,1 @@
+read-and-file: when a work can't be read lawfully, read accessible neighbouring literature that carries the same ideas, and file each neighbour as a work in its own right, saying how far it stands in for the original (step 5 and the reader's brief), at the owner's instruction during the filing of the pasted bibliography on emergency readiness.

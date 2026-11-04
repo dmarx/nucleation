@@ -85,6 +85,22 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   - **Unavailable** (ADR-041): no lawful copy was found. The status note
     says where you looked.
 - **A copy the owner supplies** returns any of these to reading.
+- **When the work itself can't be read, read its neighbours.** Find
+  accessible literature that carries the same ideas, and read the best one
+  or two. That might be:
+  - a later open-access paper or survey that restates the model;
+  - the authors' own working paper or thesis;
+  - lecture notes or a textbook chapter its author posts openly;
+  - an arXiv paper that re-derives the result.
+
+  The same rules apply: lawful copies only, and stop at any bot check.
+  Check the record doesn't already hold the neighbour.
+- **Filing a neighbour.** It is a work in its own right, with a LIT, a NOTE
+  and a THEORY. Its history says it was registered as a stand-in.
+  - The unread original's LIT names the neighbour in its status note and
+    in "Standing in the record", and says how far it stands in.
+  - The neighbour's NOTE says, under Connections, which of the original's
+    results it restates and which it doesn't.
 
 ## 6. Read
 
@@ -199,5 +215,9 @@ Send each reader:
   of art it turned out to involve, not only the words the source used.
   Report each held entry the first search missed, and correct any "not
   held" verdict it overturns.
-- **And**: if no lawful full text is reached, say so and stop. Write
-  nothing from memory.
+- **Neighbours.** If no lawful full text of the work is reached, find and
+  read accessible neighbouring literature that carries the same ideas
+  (step 5), and write a report for each in the same format. In the work's
+  own report, say which neighbour stands in for it and how far.
+- **And**: if neither the work nor a neighbour is reached, say so and
+  stop. Write nothing from memory.
