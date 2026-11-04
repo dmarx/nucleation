@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 standing: fictional
 kind: construction
@@ -38,7 +38,7 @@ variants:
 - CASE-124
 - CASE-155
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 
 # CASE-099: The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping conferral (γ)
@@ -56,7 +56,7 @@ the relative authority of the A-specialist. Near the symmetric state
 with α the persistence of the meaning distribution, δ the persistence of
 authority, β the effect of authority on interpretation (the A-specialist's
 retrievals push meaning toward A) and γ the effect of interpretation on
-conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) (in [CASE-092](CASE-092.md)'s Regime A, operators are scored against the
+conferral ([TERM-103](../terms.d/TERM-103.md)) (in [CASE-092](CASE-092.md)'s Regime A, operators are scored against the
 dominant interpretation, so a lean toward A raises the A-specialist's
 score).
 

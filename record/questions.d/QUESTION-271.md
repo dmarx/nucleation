@@ -22,7 +22,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 tags:
 - self-governance
@@ -40,14 +40,14 @@ summary: >-
   The question asks what evaluation procedures resist capture, and in
   which of four senses.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # QUESTION-271: How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?
 
 ## The question
 
 The record's governance claims all lean on an evaluation of processes:
-- grants that track competence ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md); [CLAIM-277](../claims.d/CLAIM-277.md));
+- grants that track competence ([TERM-101](../terms.d/TERM-101.md); [CLAIM-277](../claims.d/CLAIM-277.md));
 - a learned prior trained by outcomes ([CLAIM-443](../claims.d/CLAIM-443.md));
 - evidence-tracking authority as Bayes' rule ([CASE-155](../cases.d/CASE-155.md));
 - a legibility regime that can score in its own favour ([CASE-124](../cases.d/CASE-124.md)'s μ route).

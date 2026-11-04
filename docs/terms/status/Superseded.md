@@ -4,7 +4,7 @@
 
 **Superseded** — no longer in force because something replaced it; the successor is named in the field, not the prose.
 
-10 of 100 TERM documents. Back to the [full index](../README.md).
+11 of 104 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -18,3 +18,4 @@
 | [TERM-029](../../../record/terms.d/TERM-029.md) | frame, as the position a rendering is delivered from | The owner's sense at U6: the frame "from which it is being delivered". Silently narrowed at A11 to an interpretive lens, and restored at U7. | Superseded — by [TERM-005](../../../record/terms.d/TERM-005.md) |
 | [TERM-032](../../../record/terms.d/TERM-032.md) | levels, as a hierarchy of latent representations | A73, answering U27: surface realization, conceptual structure, pragmatic operation and communicative configuration, z(u, c) = (z_lex, z_concept, z_act, z_social), with the relational configuration on top. Replaced at U28 by levels of observables. | Superseded — by [TERM-009](../../../record/terms.d/TERM-009.md) |
 | [TERM-035](../../../record/terms.d/TERM-035.md) | frame, as the delivery frame: interpretive, enunciative and performative | A12, after the owner's U7 correction: who is saying it, to whom, from what position, in what social context, with what attitude, split into interpretive, enunciative and performative frames. | Superseded — by [TERM-016](../../../record/terms.d/TERM-016.md) |
+| [TERM-053](../../../record/terms.d/TERM-053.md) v2 | endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case | The owner's "vote" at U2, generalized at A5 §7 to an effective causal relation. Process i endorses process j in region x to the extent that an intervention of i raises j's chance of acquiring influence there. Opposition is negative endorsement. Attending to j's output, keeping it active, passing it resources and suppressing its rivals are all endorsement. The term is about authority among processes. It is not Frankfurt's identification with a desire. | Superseded — by [TERM-103](../../../record/terms.d/TERM-103.md), [TERM-101](../../../record/terms.d/TERM-101.md) |

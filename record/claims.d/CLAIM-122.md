@@ -33,7 +33,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: interpretive
@@ -66,7 +66,7 @@ complements:
 corroborated_by:
 - CLAIM-407
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-539 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: THEORY-120 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
@@ -103,7 +103,7 @@ citing it.
   is the causal machinery capable of altering what becomes effective.**
   They may be coupled; they are not identical." A8 uses "endorsement" in
   the reflective, Frankfurtian sense. What the record called
-  endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)),
+  endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral ([TERM-103](../terms.d/TERM-103.md)),
   is an effect of one process on another's share of influence, and is not
   Frankfurt's, so a filing from A8 says higher-order volition. A8's
   candidate claim is this one with [CLAIM-025](CLAIM-025.md), and was not filed. Its

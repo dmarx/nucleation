@@ -1,12 +1,15 @@
 ---
+number: 552
 status: Proposed
+formerly:
+- CLAIM-tmpgjdby
 title: 'A perspective''s tolerance for another process''s contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective''s own, so inside its tolerance the perspective''s interventions raise the other''s share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it'
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
   An organization in which one process's conferrals on another
-  (TERM-tmplu4ih) are positive and negative on the same contributions in
+  (TERM-103) are positive and negative on the same contributions in
   the same context with nothing in the conferring process to tell them
   apart, so that no acceptance region of its own predicts their sign; or a
   case the record accepts in which the tolerances between two processes
@@ -28,8 +31,8 @@ complements:
 - CLAIM-283
 - CLAIM-285
 uses:
-- TERM-tmplu4ih
-- TERM-tmp08c21
+- TERM-103
+- TERM-101
 - TERM-060
 - TERM-064
 bears_on:
@@ -43,15 +46,15 @@ summary: >-
   [CLAIM-538](CLAIM-538.md)'s tolerances, symmetric bounds on an edge, into each
   perspective's criterion for conferring influence on another. A12 separated
   permission, grant and causal effect. The reading of the criterion as
-  the boundary where the sign of conferral (TERM-tmplu4ih, formerly
+  the boundary where the sign of conferral (TERM-103, formerly
   TERM-053's endorsement) changes is the reader's. Restated in ADR-070's
   words at the owner's review. The wording is A's, sharpened by the reader; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-534 TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- inactive-ok-file: CLAIM-534 TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmpgjdby: A perspective's tolerance for another process's contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective's own, so inside its tolerance the perspective's interventions raise the other's share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it
+# CLAIM-552: A perspective's tolerance for another process's contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective's own, so inside its tolerance the perspective's interventions raise the other's share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it
 
 ## The claim
 
@@ -76,7 +79,7 @@ Three things follow.
   conditions.
 
 **The criterion sets the sign of conferral.** i confers influence on j
-([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) to the extent that an intervention of i raises j's chance
+([TERM-103](../terms.d/TERM-103.md)) to the extent that an intervention of i raises j's chance
 of influence, and opposition is negative conferral. The claim is that
 Q_{i→j} is the switching surface of that effect: inside A_{i→j}, i's
 interventions raise j's share; outside, they lower it. This is the
@@ -87,8 +90,8 @@ reader's reading of the owner's "endorsement criteria".
 | role | what holds |
 |---|---|
 | permissibility | i does not object within the tolerance |
-| grant (A12: "conditional endorsement") | i grants j support when the conditions are met ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)) |
-| conferral (A12: "effective endorsement") | i's activity raises j's future influence ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) |
+| grant (A12: "conditional endorsement") | i grants j support when the conditions are met ([TERM-101](../terms.d/TERM-101.md)) |
+| conferral (A12: "effective endorsement") | i's activity raises j's future influence ([TERM-103](../terms.d/TERM-103.md)) |
 
 Where the criterion is mandatory, a grant by i implies Q_{i→j} = 1,
 "but the converse need not hold" (A12 §2). Under a rule G_{i→j} = Q_{i→j},
@@ -117,8 +120,8 @@ perspective can contest it.
   [QUESTION-270](../questions.d/QUESTION-270.md)'s denied uptake and [CLAIM-283](CLAIM-283.md)'s split between precedence
   claimed and authority granted.
 - **That the criterion is an attitude.** It may be subpersonal and not
-  represented, as conferral allows ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)). The reflective sense is
-  [TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md).
+  represented, as conferral allows ([TERM-103](../terms.d/TERM-103.md)). The reflective sense is
+  [TERM-102](../terms.d/TERM-102.md).
 - **That widening a tolerance relieves frustration.** By [CLAIM-347](CLAIM-347.md) it
   changes the demand. Relief needs a new arrangement that meets the old
   criteria. A13 §6: "A widened tolerance is not automatically relief of

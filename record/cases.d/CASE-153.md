@@ -15,7 +15,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 standing: stipulated
 kind: proposed-study
@@ -39,8 +39,8 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-445 CLAIM-tmpgjdby — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- inactive-ok-file: CLAIM-445 CLAIM-552 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-404 CLAIM-446 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CASE-153: The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design
@@ -167,6 +167,6 @@ The owner's U27 asked to "numerically simulate a dynamically maintained will org
 - (b) In [TERM-060](../terms.d/TERM-060.md)'s sense, the toy's three demands g_i ≥ 0.4 are structurally frustrated: a hollow triangle, [CASE-119](CASE-119.md)'s shape. A would likely have measured governance-induced frustration: the share of steps on which a feasible pair face that the context made relevant went unselected.
 - (c) The owner had corrected "competition" to frustration at U7.
 
-**"Support", rightly read.** A's support term, a_j·q_i, is conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md), [TERM-053](../terms.d/TERM-053.md)'s endorsement), and A correctly says "Support is not Frankfurtian identification." It is undiscriminating, though: every active process supports every other. Read with the owner's U12, the grant would depend on j's tolerance of i's proposal ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)).
+**"Support", rightly read.** A's support term, a_j·q_i, is conferral ([TERM-103](../terms.d/TERM-103.md), [TERM-053](../terms.d/TERM-053.md)'s endorsement), and A correctly says "Support is not Frankfurtian identification." It is undiscriminating, though: every active process supports every other. Read with the owner's U12, the grant would depend on j's tolerance of i's proposal ([CLAIM-552](../claims.d/CLAIM-552.md)).
 
 [CASE-117](CASE-117.md) holds the comparison of influence laws as a design. The case is unchanged.

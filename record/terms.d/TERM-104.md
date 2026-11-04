@@ -1,5 +1,8 @@
 ---
+number: 104
 status: Proposed
+formerly:
+- TERM-tmpszrpp
 title: 'motivating perspective: an organizational perspective whose interpretations give circumstances a significance relative to concerns it maintains, and whose significance conditions action readiness, a claim to control that the will-organization may or may not grant; motivating as a disposition, whether or not it is activated, granted or operative'
 version: 1
 tags:
@@ -26,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-056 CLAIM-430 CLAIM-437 CLAIM-440 CLAIM-442 CLAIM-447 THEORY-055 THEORY-056 THEORY-680 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# TERM-tmpszrpp: motivating perspective: an organizational perspective whose interpretations give circumstances a significance relative to concerns it maintains, and whose significance conditions action readiness, a claim to control that the will-organization may or may not grant; motivating as a disposition, whether or not it is activated, granted or operative
+# TERM-104: motivating perspective: an organizational perspective whose interpretations give circumstances a significance relative to concerns it maintains, and whose significance conditions action readiness, a claim to control that the will-organization may or may not grant; motivating as a disposition, whether or not it is activated, granted or operative
 
 ## Definition
 

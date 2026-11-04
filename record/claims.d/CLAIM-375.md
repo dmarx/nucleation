@@ -19,7 +19,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: demonstrated
@@ -38,8 +38,8 @@ line:
 rests_on:
 - CLAIM-282
 uses:
-- TERM-tmplu4ih
-- TERM-tmp08c21
+- TERM-103
+- TERM-101
 summary: >-
   The demonstrated core of [CLAIM-285](CLAIM-285.md). Under A3's one-hop rule
   I_j = I_j⁰ + Σ_(k≠j) b_k E_kj, with budgets and baselines fixed within an
@@ -53,7 +53,7 @@ summary: >-
 supports:
 - CLAIM-285
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->
 
 # CLAIM-375: Under one-hop allocation within an epoch, an operator that grants influence to an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the grant scheme hold together

@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: interpretive
@@ -47,7 +47,7 @@ summary: >-
   through the allocation of influence. Untested; A39's case study 2 on
   [CASE-099](../cases.d/CASE-099.md) would test it.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-500: The governance-induced kind of frustration is not idle: some failures of an organization's actual updates to meet demands that an admissible update would meet are explained by how influence is allocated, and not by step size, curvature, noise, conditioning or a fixed weighting rule
 

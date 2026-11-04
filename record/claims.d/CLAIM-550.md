@@ -1,5 +1,8 @@
 ---
+number: 550
 status: Proposed
+formerly:
+- CLAIM-tmp8e3ye
 title: 'A perspective''s tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand'
 version: 1
 role: thesis
@@ -25,10 +28,10 @@ rests_on:
 complements:
 - CLAIM-534
 - CLAIM-361
-- CLAIM-tmp6zm3v
-- CLAIM-tmp7oo4d
+- CLAIM-548
+- CLAIM-549
 bears_on:
-- QUESTION-tmpu6o08
+- QUESTION-372
 summary: >-
   The first link of the owner's chain at U19 of the exchange
   "Organizational Nucleation and SLT" (2026-11-04), "motivational threshold
@@ -41,9 +44,9 @@ summary: >-
   derives them. The chain is the owner's. The wording is A's, sharpened by
   the reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-361 CLAIM-534 CLAIM-tmp7oo4d — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-361 CLAIM-534 CLAIM-549 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmp8e3ye: A perspective's tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand
+# CLAIM-550: A perspective's tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand
 
 ## The claim
 
@@ -93,7 +96,7 @@ depends on κ. If α_i < 0 the inequality reverses.
    changing what the organization can attain, or what any demand requires.
    By [CLAIM-347](CLAIM-347.md) and [CLAIM-361](CLAIM-361.md), a change to the criteria being tested is not
    relief. A21 put the contrast as "Route 1: Increase tolerance" against
-   "Route 2: Improve accommodation". [CLAIM-tmp7oo4d](CLAIM-tmp7oo4d.md) holds the complex-level
+   "Route 2: Improve accommodation". [CLAIM-549](CLAIM-549.md) holds the complex-level
    form.
 
 ## Where it sits

@@ -45,7 +45,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: interpretive
@@ -75,8 +75,8 @@ uses:
 - TERM-023
 - TERM-031
 - TERM-039
-- TERM-tmplu4ih
-- TERM-tmp08c21
+- TERM-103
+- TERM-101
 summary: >-
   The owner's, U2 of the exchange of 2026-10-16: the pragmatic-transport
   model and the will-organization model are "both manifestations of the
@@ -92,7 +92,7 @@ complements:
 supports:
 - CLAIM-338
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
@@ -124,7 +124,7 @@ The mapping, A6's:
 | interpretive state ([TERM-026](../terms.d/TERM-026.md)) | meaning state x | — |
 | judgement, response J | the state P(q)ᵀx the operators yield, read out | — |
 | — | operator, or coalition of operators | action-generating regime ([TERM-019](../terms.d/TERM-019.md)) |
-| — | influence w, and its update G with conferral E ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
+| — | influence w, and its update G with conferral E ([TERM-103](../terms.d/TERM-103.md)) | practical efficacy, and the will-organization that governs it ([TERM-023](../terms.d/TERM-023.md)) |
 | transport between two interpreters | a map between two such organizations | — |
 
 Read this way, the pragmatic-transport line studies the model from the

@@ -40,7 +40,7 @@ supports:
 variants:
 - CASE-160
 ---
-<!-- inactive-ok-file: TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
 
@@ -138,7 +138,7 @@ The owner's U16 pointed to the Twitch Plays Pokémon and r/place cases as
   group.
 - **The mode vote is one level up.** "Ordinary button votes select actions;
   a vote about which mode should govern selects a *rule for selecting
-  actions*." That is the shape of a higher-order volition ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)).
+  actions*." That is the shape of a higher-order volition ([TERM-102](../terms.d/TERM-102.md)).
   A16: "The analogy is not identity".
 - **The tally coordinates without changing criteria.** A16 §6: under the
   shown tally the crowd can converge "because participants see where the

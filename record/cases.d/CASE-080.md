@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 standing: stipulated
 kind: thought-experiment
@@ -30,7 +30,7 @@ summary: >-
   decision landscape. Used to show delegation as a route to one's goals,
   and dissent made useful by a role.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 CLAIM-281 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-080: The skeptic who delegates: a critic that cannot overturn an emerging consensus gives its authority to a process that can generate alternatives

@@ -6,13 +6,14 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [November 2026](2026-11.md)
 
+- [4 Nov 06:43 — The exchange "Organizational Nucleation and SLT" (2026-11-02 to 03, U1–U29), continuing "Assess SDT Coverage": from the record's singular learning theory account and the compatibility complex, through frustration and niche differentiation, new CASE constructions, tolerance as an endorsement criterion, Frankfurt's sense, activation thresholds and psychological flexibility, figures and a sheaf, to a simulation, motivating perspectives and maladaptation; seven claims, two terms, one question and four cases filed, and what was not filed](2026-11.md#the-exchange-organizational-nucleation-and-slt-2026-11-02-to-03-u1u29-continuing-assess-sdt-coverage-from-the-records-singular-learning-theory-account-and-the-compatibility-complex-through-frustration-and-niche-differentiation-new-case-constructions-tolerance-as-an-endorsement-criterion-frankfurts-sense-activation-thresholds-and-psychological-flexibility-figures-and-a-sheaf-to-a-simulation-motivating-perspectives-and-maladaptation-seven-claims-two-terms-one-question-and-four-cases-filed-and-what-was-not-filed)
 - [3 Nov 20:40 — The exchange "Assess SDT Coverage" (2026-11-02, U1–U33): from self-determination theory's coverage, through Jennings on attention as free will, language models as distributions over perspectives and LDA, Frankfurt and Kane, chaos, controllability, wu-wei, reflexive control and legibility, to tolerance-bounded compatibility, individuation and positive accounts; fourteen claims and two questions filed, fifty-one works registered, Jennings read, and what was not filed](2026-11.md#the-exchange-assess-sdt-coverage-2026-11-02-u1u33-from-self-determination-theorys-coverage-through-jennings-on-attention-as-free-will-language-models-as-distributions-over-perspectives-and-lda-frankfurt-and-kane-chaos-controllability-wu-wei-reflexive-control-and-legibility-to-tolerance-bounded-compatibility-individuation-and-positive-accounts-fourteen-claims-and-two-questions-filed-fifty-one-works-registered-jennings-read-and-what-was-not-filed)
 
 ## All books
 
-122 entries across 2 books, newest first.
+123 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 1 | 2026-11-03 | 2026-11-03 |
+| [2026-11](2026-11.md) | 2 | 2026-11-03 | 2026-11-04 |
 | [2026-10](2026-10.md) | 121 | 2026-10-07 | 2026-10-31 |

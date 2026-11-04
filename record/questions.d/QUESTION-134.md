@@ -18,7 +18,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 tags:
 - self-governance
@@ -38,7 +38,7 @@ summary: >-
   test for one mechanism of domination without defining domination as
   holding less authority.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # QUESTION-134: When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?

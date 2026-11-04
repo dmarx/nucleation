@@ -22,7 +22,7 @@ summary: >-
   suppression, and ordinary operation cannot tell which. Not shown: how
   often either occurs in persons or institutions.
 ---
-<!-- inactive-ok-file: CLAIM-tmp8e3ye — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-550 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-364 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-129: The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears
@@ -93,7 +93,7 @@ the hazards that matter. The raised threshold is therefore a third arm.
 
 Accommodation is [CASE-109](CASE-109.md)'s local coordination. A21's caveat stands: "the
 figure shouldn't portray high thresholds as intrinsically pathological.
-They may be exactly right for some contexts." [CLAIM-tmp8e3ye](../claims.d/CLAIM-tmp8e3ye.md) holds the
+They may be exactly right for some contexts." [CLAIM-550](../claims.d/CLAIM-550.md) holds the
 point that raising a threshold is not relief.
 
 No status changes.

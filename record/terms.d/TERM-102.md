@@ -1,5 +1,8 @@
 ---
+number: 102
 status: Proposed
+formerly:
+- TERM-tmp0evbm
 title: 'higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt''s second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification'
 version: 1
 tags:
@@ -22,9 +25,9 @@ summary: >-
   wording is the reader's, from A14; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
-<!-- inactive-ok-file: ADR-056 CLAIM-354 CLAIM-539 CLAIM-tmpgjdby THEORY-029 THEORY-120 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: ADR-056 CLAIM-354 CLAIM-539 CLAIM-552 THEORY-029 THEORY-120 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# TERM-tmp0evbm: higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt's second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification
+# TERM-102: higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt's second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification
 
 ## Definition
 
@@ -41,8 +44,8 @@ wanting a desire "to be his will" (p. 10).
 claim says "endorse" for this attitude, the record writes "higher-order
 volition" and cites this term. By [ADR-070](../decisions.d/ADR-070.md), "endorse" is left to this
 sense; the effect between processes that [TERM-053](TERM-053.md) called endorsement is
-conferral ([TERM-tmplu4ih](TERM-tmplu4ih.md)), and conferral through a maintained relation is
-a grant ([TERM-tmp08c21](TERM-tmp08c21.md)).
+conferral ([TERM-103](TERM-103.md)), and conferral through a maintained relation is
+a grant ([TERM-101](TERM-101.md)).
 
 **Bearer.** In Frankfurt the bearer is the person. The record also uses
 the term for a process's attitude about which regime should govern
@@ -54,7 +57,7 @@ settled."
 
 ## What it is not
 
-- **Not conferral between processes.** Conferral ([TERM-tmplu4ih](TERM-tmplu4ih.md), formerly
+- **Not conferral between processes.** Conferral ([TERM-103](TERM-103.md), formerly
   [TERM-053](TERM-053.md)) is an effect, the
   change an intervention of one process makes in another's share of
   future influence. A higher-order volition is an attitude. A14 §2 put
@@ -72,7 +75,7 @@ settled."
   makes a motive the agent's own is [THEORY-120](../theory.d/THEORY-120.md)'s claim. [THEORY-029](../theory.d/THEORY-029.md) rivals
   it. This term takes no side.
 - **Not a tolerance criterion.** A perspective's acceptance condition for
-  another's activity ([CLAIM-tmpgjdby](../claims.d/CLAIM-tmpgjdby.md)) can supply conditions for a
+  another's activity ([CLAIM-552](../claims.d/CLAIM-552.md)) can supply conditions for a
   volition but does not constitute one. A14 §5: "The former can supply
   conditions for the latter, but it does not constitute it."
 - **Not caring.** [CLAIM-492](../claims.d/CLAIM-492.md) reads "cares about" as what the agent is

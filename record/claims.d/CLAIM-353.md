@@ -25,7 +25,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: interpretive
@@ -60,11 +60,11 @@ summary: >-
   and its title holds the difference A36 cited without stating: "unlike
   Arrow's theorem, the conflict is not removed by interpersonal
   comparability". So A36's remedy, letting the grant procedure
-  (TERM-tmp08c21) use richer information, answers Arrow but not jurisdiction. The sharp edge: it
+  (TERM-101) use richer information, answers Arrow but not jurisdiction. The sharp edge: it
   holds only if operator jurisdiction is pairwise decisiveness, which
   [THEORY-027](../theory.d/THEORY-027.md) leaves open even for persons.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-1283 — Proposed; Massumi's micropolitics, the ideal this result is applied to -->
 
 # CLAIM-353: A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow's impossibility this is not escaped by giving the grant procedure richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction

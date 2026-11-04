@@ -28,7 +28,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: interpretive
@@ -69,7 +69,7 @@ summary: >-
   reading suspension changes the system's valence and no perspective's,
   which is what the mindfulness case must show.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-442: Frijda's emotion and the potential account's system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective's valence is read on its claims, and the system's valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system's valence and leaves the perspectives' emotions and valences as they were
 

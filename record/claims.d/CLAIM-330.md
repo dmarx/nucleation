@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: demonstrated
@@ -51,7 +51,7 @@ supports:
 illustrated_by:
 - CASE-123
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 
 # CLAIM-330: In the coupled meaning–influence model linearized at its symmetric state, with each field stable alone and nonnegative couplings, the coupling destabilizes symmetry exactly when βγ > (1 − α)(1 − δ): only the loop can do it, and the direction that grows mixes meaning and authority
@@ -67,7 +67,7 @@ is (β, λ+ − α), with both components positive.
 For [QUESTION-100](../questions.d/QUESTION-100.md) this says three things about the linearization of
 [CASE-092](../cases.d/CASE-092.md). Capture, if it starts at symmetry, needs both arrows of
 [CLAIM-297](CLAIM-297.md)'s circuit: authority shaping interpretation and interpretation
-shaping conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)). Scoring operators independently of the dominant
+shaping conferral ([TERM-103](../terms.d/TERM-103.md)). Scoring operators independently of the dominant
 interpretation (Regime B, γ ≈ 0) removes the coupling-driven
 instability, whatever the memory of conferral. And the variable that
 grows is neither a meaning nor an authority but a joint lean of both,

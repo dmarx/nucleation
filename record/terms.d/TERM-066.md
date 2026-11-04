@@ -43,7 +43,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 tags:
 - self-governance
@@ -60,7 +60,7 @@ summary: >-
 used_by:
 - CLAIM-404
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-859 — Proposed; Short, Hill and Brown's general form, cited as an instance of the sense not adopted -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as the source A20 cited, which no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-404 — Proposed; open claims that use the word or this definition, cited as open -->
@@ -175,7 +175,7 @@ third, generalized beyond institutions.
   continuation" and reduces the capacity to leave it, whoever is served.
   Capture is about whose interpretation the evaluation serves. A regime
   can be either without the other.
-- **Not conferral** ([TERM-tmplu4ih](TERM-tmplu4ih.md), [TERM-053](TERM-053.md)'s former endorsement). Conferral is the channel: any effect
+- **Not conferral** ([TERM-103](TERM-103.md), [TERM-053](TERM-053.md)'s former endorsement). Conferral is the channel: any effect
   of one process on another's share of influence. Capture is a regime of
   that channel.
 

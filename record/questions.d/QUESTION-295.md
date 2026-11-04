@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 tags:
 - self-governance
@@ -27,7 +27,7 @@ summary: >-
   it acts, under sharp selection, the early leader keeps its lead. Niches
   and mutual regulation stay with [QUESTION-083](QUESTION-083.md).
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # QUESTION-295: Can processes that share one update rule and differ only in parameters and history come to hold stable, differentiated authority without any governance role being coded in, and can the same rule entrench whatever gained influence early?
 

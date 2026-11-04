@@ -31,7 +31,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 tags:
 - self-governance
@@ -52,7 +52,7 @@ refined_by:
 bearing:
 - CLAIM-279
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; cited as the reading the synthesis recommended, not reached, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1826 LIT-1827 — Unfetched and Unavailable since 2026-10-29; Chesson 1990 and 1994, cited in the note of that date as not read, nothing here rests on them -->
 

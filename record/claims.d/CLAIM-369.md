@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: demonstrated
@@ -49,7 +49,7 @@ summary: >-
   stops being an optimizer. Mehta et al. (2019) and Marsland, Cui and
   Mehta (2020) give the general duality for consumer–resource models.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-369: In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points
 

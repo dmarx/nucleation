@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: demonstrated
@@ -50,7 +50,7 @@ summary: >-
 grounds:
 - CASE-115
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-351: A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand's own gradient vanishes and when nonzero gradients cancel, and in the second case no update improves them all to first order; even the first is only joint first-order stationarity, which a demand's maximum or saddle also has
 

@@ -106,7 +106,7 @@ complements:
 - CLAIM-432
 - CLAIM-443
 ---
-<!-- inactive-ok-file: CLAIM-446 CLAIM-tmp6zm3v — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-446 CLAIM-548 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 <!-- inactive-ok-file: CLAIM-156 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings cited as parallels or with their limits, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-1830 LIT-1823 — Unavailable and Unfetched since 2026-10-29; Bond 2018 and Edmondson 1996, cited in the note of that date as not read, nothing here rests on them -->
@@ -342,7 +342,7 @@ and 1−p. It cannot exceed 50% reliability in both simultaneously." The
 reader checked this: max over p of min(p, 1 − p) is 1/2.
 
 **Activation without authority.** A18 split activation, authority and
-efficacy, prompted by the owner's U18 wall-punch ([CLAIM-tmp6zm3v](CLAIM-tmp6zm3v.md)). A20 §6
+efficacy, prompted by the owner's U18 wall-punch ([CLAIM-548](CLAIM-548.md)). A20 §6
 gave three readings of an inhibited defensive process: "Suppression",
 "Conditional governance" and "Accommodation". The first two are this
 claim's overcontrol and adaptive regulation. The third, which changes

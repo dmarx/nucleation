@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: demonstrated
@@ -47,7 +47,7 @@ illustrated_by:
 supports:
 - CLAIM-404
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-340: Scoring operators on predictions committed before the evidence is not by itself Regime B: in the linearized operator model the coupling of interpretation to conferral has the sign of κ′ − κ̄, so commitment removes capture only when the interpretation bends the reading of the evidence no more than it bends the predictions, and it keeps the learning that revising after the evidence would lose
 

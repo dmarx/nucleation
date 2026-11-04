@@ -10,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 tags:
 - self-governance
@@ -29,7 +29,7 @@ summary: >-
 bearing:
 - THEORY-218
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # QUESTION-084: Can a grant between processes be inferred from their behaviour, or does telling authorization from incidental coupling and common cause need a record of the coordination itself?
 
@@ -44,13 +44,13 @@ or independently converged on the same action ... Without that extra
 information, endorsement remains a latent explanatory hypothesis, not an
 observed variable."
 
-[TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)), is defined
+[TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral ([TERM-103](../terms.d/TERM-103.md)), is defined
 counterfactually, as the effect of one process's intervention on another's share of influence. That makes it an
 interventional quantity. The question is whether observation can reach it.
 
 It refines [QUESTION-063](QUESTION-063.md), which asks what measurement tells a shared external
 drive from coupling or from different internal routes. A grant
-([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)) adds a fourth candidate, authorization, which is a kind of coupling that runs
+([TERM-101](../terms.d/TERM-101.md)) adds a fourth candidate, authorization, which is a kind of coupling that runs
 through the allocation of influence. On r/place a shared template is a common
 cause, and following it is authorization. The placements are the same either
 way. Litherland and Mørch 2021 ([LIT-1037](../literature.d/LIT-1037.md)) read the planning forums beside

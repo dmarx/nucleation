@@ -6,7 +6,7 @@
 
 **Epistemology** — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy).
 
-10 of 100 TERM documents. Back to the [full index](../README.md).
+10 of 104 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

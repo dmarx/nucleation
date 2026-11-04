@@ -28,7 +28,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: empirical
@@ -63,7 +63,7 @@ summary: >-
   qualifies [CLAIM-285](CLAIM-285.md): the budget constrains moves, and conferral
   moves authority. It does not say the inequality is illegitimate.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-272: Giving every member an equal budget of actions does not equalize their influence: coordination is one route, letting a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority
@@ -84,7 +84,7 @@ The cooldown is an equal per-account budget and a ban on allocating oneself
 extra moves through one account ([CASE-079](../cases.d/CASE-079.md)). Automation and multiple
 accounts got round it, most in 2023 ([THEORY-216](../theory.d/THEORY-216.md)). It did not equalize influence, because
 following a plan turns other members' moves into the planner's effect. That
-is conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)). So [CLAIM-285](CLAIM-285.md)'s constraint has
+is conferral ([TERM-103](../terms.d/TERM-103.md)). So [CLAIM-285](CLAIM-285.md)'s constraint has
 to be stated over authority, not over actions. A budget on actions leaves
 the question untouched. The planner's influence is [CLAIM-086](CLAIM-086.md)'s kind,
 governing the conditions under which moves count.

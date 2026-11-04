@@ -139,7 +139,7 @@ illustrated_by:
 supports:
 - CLAIM-445
 ---
-<!-- inactive-ok-file: CLAIM-tmp7oo4d — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-549 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 
 # CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
@@ -415,7 +415,7 @@ owner's U19 chain.
   change or persist in behavior when doing so serves valued ends"), the
   proposal would be this claim generalized. Organizational experiential
   avoidance is governance that acts to keep its constituent processes
-  below threshold, maximizing the quiescent complex ([CLAIM-tmp7oo4d](CLAIM-tmp7oo4d.md)), and
+  below threshold, maximizing the quiescent complex ([CLAIM-549](CLAIM-549.md)), and
   so narrows the contexts it handles. Flexibility in ACT's sense would
   keep activation accessible (acceptance), not let activation fix
   authority (defusion), and change or persist by the demands the
@@ -424,6 +424,6 @@ owner's U19 chain.
   claim's. The note adds the ACT reading, not a new claim.
 - **(c) The owner's correction:** none on the term. At U19 the owner
   wrote "psychological flexibility / organizational effectiveness" with a
-  slash. A drew it as a further arrow ([QUESTION-tmpu6o08](../questions.d/QUESTION-tmpu6o08.md)).
+  slash. A drew it as a further arrow ([QUESTION-372](../questions.d/QUESTION-372.md)).
 
 No status changes.

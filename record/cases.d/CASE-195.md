@@ -1,5 +1,8 @@
 ---
+number: 195
 status: Proposed
+formerly:
+- CASE-tmpo70k5
 title: 'Four organizations alike in their members'' flexibility, one member trained in each, crossing that member''s leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members'' flexibility'
 version: 1
 standing: fictional
@@ -18,20 +21,20 @@ summary: >-
   named at two scales, joined by propagation and not by aggregation. It
   makes Guida, Minutola and Presti's P4 ([LIT-1218](../literature.d/LIT-1218.md), [NOTE-1353](../notes.d/NOTE-1353.md)) a weighted
   influence network, the reduction their reading said would be the
-  record's contribution, with leverage as conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)). Made
+  record's contribution, with leverage as conferral ([TERM-103](../terms.d/TERM-103.md)). Made
   at the owner's review, which invited a case for an alternative reading.
   The construction is the filer's; the script is
   scratch/formal/r3_flexibility_propagation.py.
 ---
 
-# CASE-tmpo70k5: Four organizations alike in their members' flexibility, one member trained in each, crossing that member's leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members' flexibility
+# CASE-195: Four organizations alike in their members' flexibility, one member trained in each, crossing that member's leverage over the consequences colleagues meet with a culture that rewards or penalizes flexible action: only high leverage in a rewarding culture spreads it, low leverage there keeps it in the trained member alone, and a penalizing culture extinguishes it, so organizational flexibility is not the mean of members' flexibility
 
 ## The case
 
 Eight members each have a flexibility f ∈ [0, 1], at 0.3 except one
 trained member at 1.0, so every organization starts with mean 0.387. A
 matrix L gives what each member confers on the consequences each other
-member meets ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)): 0.02 everywhere, and 0.4 from the trained
+member meets ([TERM-103](../terms.d/TERM-103.md)): 0.02 everywhere, and 0.4 from the trained
 member to each colleague in the high-leverage arms. Each step:
 
 - colleagues take up flexible action in proportion to what flexible

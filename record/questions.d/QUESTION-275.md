@@ -38,7 +38,7 @@ summary: >-
   conventional baselines at matched complexity. Nothing here says that a
   circuit is a perspective.
 ---
-<!-- inactive-ok-file: CASE-tmps4kry CLAIM-tmpzj6at THEORY-1275 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-197 CLAIM-555 THEORY-1275 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-367 CLAIM-329 CLAIM-427 CLAIM-278 CLAIM-263 CLAIM-286 THEORY-783 THEORY-039 — Proposed; the claims and readings the question is framed by or re-derives, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-165 — Proposed; filed with this question from the same exchange -->
 <!-- inactive-ok-file: THEORY-967 THEORY-1004 THEORY-1001 THEORY-997 — Proposed; readings of the same day, cited with their limits -->
@@ -301,8 +301,8 @@ nucleation records singuular learning theory account of topological phase
 transitions during learning". A4 §5 gave the narrow form, that such
 transitions "may correspond to distinct computational phases characterized by
 singular learning theory". The halves are held: [CASE-191](../cases.d/CASE-191.md) for the
-organization, [THEORY-1275](../theory.d/THEORY-1275.md) and [QUESTION-363](QUESTION-363.md) for the learner. [CLAIM-tmpzj6at](../claims.d/CLAIM-tmpzj6at.md)
-(the owner's U5) puts them on one parameter space. [CASE-tmps4kry](../cases.d/CASE-tmps4kry.md) answers for
+organization, [THEORY-1275](../theory.d/THEORY-1275.md) and [QUESTION-363](QUESTION-363.md) for the learner. [CLAIM-555](../claims.d/CLAIM-555.md)
+(the owner's U5) puts them on one parameter space. [CASE-197](../cases.d/CASE-197.md) answers for
 one model: the 5 → 6 transition in the toy model of superposition is relief
 only from 0.0482 to 1/3, and it adds a vertex rather than filling a hole.
 
@@ -314,7 +314,7 @@ only from 0.0482 to 1/3, and it adds a vertex rather than filling a hole.
   from phase transition and from self-formation. That reading is held as a
   route in [QUESTION-281](QUESTION-281.md) ("nucleation across a finite barrier from a locally
   stable state"). Its three-way split is [QUESTION-281](QUESTION-281.md)'s closing question.
-  Lei Dong's driven-nucleation preprint ([LIT-tmpywx5m](../literature.d/LIT-tmpywx5m.md), registered unread at
+  Lei Dong's driven-nucleation preprint ([LIT-2006](../literature.d/LIT-2006.md), registered unread at
   the owner's request) is a candidate source.
 - (b) Read as the name of this record, the proposal is the question above.
   Does a learner's Bayesian or dynamical transition coincide with a strict

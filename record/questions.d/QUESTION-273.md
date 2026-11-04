@@ -26,7 +26,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 tags:
 - complex-systems
@@ -47,7 +47,7 @@ summary: >-
 bearing:
 - THEORY-958
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 CLAIM-336 — Proposed; the owner's earlier model and the claims and reading that hold its parts, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-949 — Proposed; the switching ablation as Zhong et al. report it, its sample unreported, cited as bearing on the question, not as settling it -->
 
@@ -75,7 +75,7 @@ they obtain opportunities to influence the shared workspace**", run first
 "as **separate experimental treatments**".
 
 The record holds the parts. The neighbourhood radius that others can
-change is [TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)),
+change is [TERM-053](../terms.d/TERM-053.md)'s endorsement, now conferral ([TERM-103](../terms.d/TERM-103.md)),
 in geometric form, and with [CLAIM-285](../claims.d/CLAIM-285.md)'s
 condition no perspective controls its own. Operators acting on a shared
 interpretive state are [CLAIM-297](../claims.d/CLAIM-297.md)'s and [CLAIM-336](../claims.d/CLAIM-336.md)'s model. Denoiser as a

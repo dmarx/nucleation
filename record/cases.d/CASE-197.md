@@ -1,5 +1,8 @@
 ---
+number: 197
 status: Proposed
+formerly:
+- CASE-tmps4kry
 title: 'The toy model of superposition with six features in two dimensions, with each feature''s reconstruction loss taken as a demand: at the 5-gon critical point five features are met at 0.0158 and the dropped one only at 1/3, at the 6-gon every feature is met at 0.0482, so the posterior''s 5 → 6 transition strictly enlarges the compatibility complex for common tolerances from 0.0482 to 1/3, loses its five-feature face below 0.0482, and at the critical points changes no Betti number, only which features can be met at all'
 version: 1
 standing: stipulated
@@ -15,7 +18,7 @@ variant_of:
 - CASE-119
 - CASE-115
 illustrates:
-- CLAIM-tmpzj6at
+- CLAIM-555
 - CLAIM-347
 summary: >-
   A5 of the exchange "Organizational Nucleation and SLT" (2026-11-04)
@@ -31,9 +34,9 @@ summary: >-
   The construction is A's, run and sharpened by the reader; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpzj6at NOTE-1462 THEORY-1275 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-555 NOTE-1462 THEORY-1275 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CASE-tmps4kry: The toy model of superposition with six features in two dimensions, with each feature's reconstruction loss taken as a demand: at the 5-gon critical point five features are met at 0.0158 and the dropped one only at 1/3, at the 6-gon every feature is met at 0.0482, so the posterior's 5 → 6 transition strictly enlarges the compatibility complex for common tolerances from 0.0482 to 1/3, loses its five-feature face below 0.0482, and at the critical points changes no Betti number, only which features can be met at all
+# CASE-197: The toy model of superposition with six features in two dimensions, with each feature's reconstruction loss taken as a demand: at the 5-gon critical point five features are met at 0.0158 and the dropped one only at 1/3, at the 6-gon every feature is met at 0.0482, so the posterior's 5 → 6 transition strictly enlarges the compatibility complex for common tolerances from 0.0482 to 1/3, loses its five-feature face below 0.0482, and at the critical points changes no Betti number, only which features can be met at all
 
 ## The construction
 
@@ -129,7 +132,7 @@ is made only for the critical points.
 n_cr ≈ 601. Read as a change of attainable set, that move is relief at
 moderate tolerance: a dropped demand becomes satisfiable, and no face is lost.
 At tight tolerance it is a trade: five demands met well give way to six met
-less well. This fits [CLAIM-tmpzj6at](../claims.d/CLAIM-tmpzj6at.md). The same parameter space carries both the
+less well. This fits [CLAIM-555](../claims.d/CLAIM-555.md). The same parameter space carries both the
 singular geometry (λ = 7 against 8.5) and the complex, and the complex alone
 says whether the transition is relief.
 

@@ -34,7 +34,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: interpretive
@@ -59,8 +59,8 @@ rests_on:
 - CLAIM-375
 - CLAIM-502
 uses:
-- TERM-tmplu4ih
-- TERM-tmp08c21
+- TERM-103
+- TERM-101
 summary: >-
   The owner's design at U2 of the 2026-10-13 exchange: operators vote on
   one another's influence, cannot significantly manipulate their own, and
@@ -80,7 +80,7 @@ complements:
 bears_on:
 - QUESTION-090
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-285: A grant scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation
@@ -114,7 +114,7 @@ the first condition is the subject of [CLAIM-282](CLAIM-282.md): one-hop allocat
 a governance epoch meets it exactly, and recursive delegation does not.
 Leave-one-out delegation meets it beyond one hop ([CLAIM-502](CLAIM-502.md)).
 Conferral here is any effect on another operator's share of future
-influence ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)), and explicit voting, a grant ([TERM-tmp08c21](../terms.d/TERM-tmp08c21.md)),
+influence ([TERM-103](../terms.d/TERM-103.md)), and explicit voting, a grant ([TERM-101](../terms.d/TERM-101.md)),
 is one case of it.
 
 A3 carried the idea through a case. A skeptical operator opposes an

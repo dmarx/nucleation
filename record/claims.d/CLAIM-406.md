@@ -41,7 +41,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: interpretive
@@ -79,7 +79,7 @@ summary: >-
   sought". The sharp edge: the loop is the same whether what it entrenches
   was earned, and only a prejudice makes it an injustice.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-854 THEORY-864 — Proposed; readings of 2026-10-21 cited as the loop's empirical shape and as an assertion of it, corroboration and context, not grounds -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; Pohlhaus and Dotson, named as works A24 drew on that no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-276 THEORY-317 THEORY-326 THEORY-145 THEORY-151 — Proposed; claims and readings this one cites where it bears, nothing here rests on them -->

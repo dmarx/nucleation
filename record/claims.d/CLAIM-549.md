@@ -1,5 +1,8 @@
 ---
+number: 549
 status: Proposed
+formerly:
+- CLAIM-tmp7oo4d
 title: 'The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration'
 version: 2
 history:
@@ -7,7 +10,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: demonstrated
@@ -47,16 +50,16 @@ summary: >-
   complex from activation thresholds and called it "a quiescent
   compatibility complex". A19, A20 and A26 kept it apart from the
   requirement complex, and A28 restated the split for motivating
-  perspectives ([TERM-tmpszrpp](../terms.d/TERM-tmpszrpp.md)). The requirement complex is the one the
+  perspectives ([TERM-104](../terms.d/TERM-104.md)). The requirement complex is the one the
   record already holds: [CLAIM-347](CLAIM-347.md)'s, over [TERM-060](../terms.d/TERM-060.md)'s acceptance sets. A
   wrote at A28 as if it were new. The two-perspective example is the
   reader's. The wording is A's, sharpened by the reader; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-361 CLAIM-534 TERM-tmpszrpp — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
+<!-- inactive-ok-file: CLAIM-361 CLAIM-534 TERM-104 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmp7oo4d: The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration
+# CLAIM-549: The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration
 
 ## The claim
 
@@ -136,7 +139,7 @@ fixed.
   first is the open question.
 - (c) The owner made no correction.
 
-**Endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral ([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)).** A28 §5: "Previously, we treated tolerance as
+**Endorsement ([TERM-053](../terms.d/TERM-053.md)), now conferral ([TERM-103](../terms.d/TERM-103.md)).** A28 §5: "Previously, we treated tolerance as
 the amount of discrepancy from an endorsed will".
 
 - (a) This is Frankfurt's sense, the will a perspective would approve. The

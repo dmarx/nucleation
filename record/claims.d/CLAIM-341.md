@@ -36,7 +36,7 @@ history:
   date: '2026-11-04'
   note: >-
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
-    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The
+    reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
 role: thesis
 warrant: interpretive
@@ -97,7 +97,7 @@ summary: >-
   [TERM-039](../terms.d/TERM-039.md) and [CLAIM-127](CLAIM-127.md), and the record demoted it once before
   ([CLAIM-109](CLAIM-109.md)).
 ---
-<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-tmplu4ih; grant, TERM-tmp08c21); cited as the term of its time -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-404 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-341: The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active
@@ -124,7 +124,7 @@ x, operator weights w and queries q:
 Read with the owner's terms, the query is the judgement's measurement
 context, the operators applied under it are the judgement, and x is the
 interpretation it yields. The interpretation, through conferral
-([TERM-tmplu4ih](../terms.d/TERM-tmplu4ih.md)) and the next query, fixes what will be retrieved and so what the next judgement
+([TERM-103](../terms.d/TERM-103.md)) and the next query, fixes what will be retrieved and so what the next judgement
 observes. Nothing in the circuit acts on the world. The world enters only
 as evidence o_t in the update of influence. [CLAIM-275](CLAIM-275.md) holds the half that
 concerns order: an operator can intervene on the meaning canvas before it
