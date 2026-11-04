@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  front matter only read 2026-11-04 (NOTE-tmp4cwdr, Skimmed) from the
+  front matter only read 2026-11-04 ([NOTE-tmp4cwdr](../notes.d/NOTE-tmp4cwdr.md), Skimmed) from the
   publisher's free front-matter PDF (pp. i–xxviii: prefaces, contents and
   Introduction); the body, Chapters 1–11, is behind Springer's paywall and
   was not read. Worth reading as the foundational monograph on large
@@ -10,7 +10,7 @@ status_note: >-
   the stationary distribution among several stable sets, and
   metastability. Its main limits, by its own account: rough (logarithmic)
   asymptotics only, small noise only, and no random vector fields. Berglund's
-  survey, LIT-tmp76lym, stands in for the exit-problem core (Chapter 4) at
+  survey, [LIT-tmp76lym](LIT-tmp76lym.md), stands in for the exit-problem core (Chapter 4) at
   the level of statements, not proofs, and for nothing else.
 title: 'Random Perturbations of Dynamical Systems'
 version: 1
@@ -83,7 +83,7 @@ Freidlin, M. I. & Wentzell, A. D. (2012). *Random Perturbations of Dynamical Sys
 
 ## Key takeaways
 
-*From the front matter only, NOTE-tmp4cwdr (Skimmed). Page numbers are the book's.*
+*From the front matter only, [NOTE-tmp4cwdr](../notes.d/NOTE-tmp4cwdr.md) (Skimmed). Page numbers are the book's.*
 
 - **The claim to priority.** "This book was the first monograph in which
   large-deviation theory for stochastic processes was presented" (Preface to
@@ -103,12 +103,12 @@ Freidlin, M. I. & Wentzell, A. D. (2012). *Random Perturbations of Dynamical Sys
 
 ## Standing in the record
 
-Held for the first time, though the record already builds on it: LIT-1881,
-LIT-1981 and LIT-1892, and THEORY-1264, THEORY-1309 and THEORY-1273, all
+Held for the first time, though the record already builds on it: [LIT-1881](LIT-1881.md),
+[LIT-1981](LIT-1981.md) and [LIT-1892](LIT-1892.md), and [THEORY-1264](../theory.d/THEORY-1264.md), [THEORY-1309](../theory.d/THEORY-1309.md) and [THEORY-1273](../theory.d/THEORY-1273.md), all
 use its action functional and quasi-potential. Only the front matter was
 read, so nothing here rests on a theorem of the book as stated in it.
 
-**The stand-in.** Berglund's survey of Kramers' law, LIT-tmp76lym, read in
+**The stand-in.** Berglund's survey of Kramers' law, [LIT-tmp76lym](LIT-tmp76lym.md), read in
 full, restates the book's Wentzell–Freidlin action functional,
 quasi-potential, exit-time theorem and exit-location concentration, and
 points to the hierarchy of cycles. It stands in for Chapter 4's exit
@@ -116,11 +116,11 @@ problem, at the level of statements, not proofs. It does not restate the
 limit of the stationary distribution among several stable sets (Chapter 6),
 averaging (Chapter 7), Hamiltonian systems and graphs (Chapters 8–9),
 stability and optimal stabilization (Chapter 10), or perturbations with
-jumps (Chapter 5). Kuehn's critical-transitions paper, LIT-tmpc7r2s, cites
+jumps (Chapter 5). Kuehn's critical-transitions paper, [LIT-tmpc7r2s](LIT-tmpc7r2s.md), cites
 the 1998 second edition for the escape time it uses.
 
 The pasted bibliography on emergency readiness files it under tail risk
 and critical transitions. Its subject is noise-driven escape from a stable
 regime, not tail risk in the sense of loss distributions, and not
-parameter-driven bifurcation. Filed from it: THEORY-tmp085nh. No
+parameter-driven bifurcation. Filed from it: [THEORY-tmp085nh](../theory.d/THEORY-tmp085nh.md). No
 instruction for machine-learning practice; nothing for the anthology.

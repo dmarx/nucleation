@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpob9hv) from the author's revised arXiv
+  read in full 2026-11-04 ([NOTE-tmpob9hv](../notes.d/NOTE-tmpob9hv.md)) from the author's revised arXiv
   preprint, v2, which matches the journal reference; worth reading as the
   definition of a critical transition in fast–slow terms, the loss of
   normal hyperbolicity of an attracting slow manifold followed by a fast
@@ -72,7 +72,7 @@ Kuehn, C. (2011). A mathematical framework for critical transitions: Bifurcation
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpob9hv. Sections and numbers are the preprint's.*
+*From the reading, [NOTE-tmpob9hv](../notes.d/NOTE-tmpob9hv.md). Sections and numbers are the preprint's.*
 
 - **A definition.** "We say that p is a critical transition if there is a
   candidate" through an attracting normally hyperbolic segment ending at p
@@ -93,19 +93,19 @@ Kuehn, C. (2011). A mathematical framework for critical transitions: Bifurcation
 
 ## Standing in the record
 
-Mentioned before only in NOTE-1215, as not held. Kuehn calls the paper "a
-mathematical complement" to the early-warning review held as LIT-1956,
-whose account is THEORY-1315: it proves the variance rise on normal forms
+Mentioned before only in [NOTE-1215](../notes.d/NOTE-1215.md), as not held. Kuehn calls the paper "a
+mathematical complement" to the early-warning review held as [LIT-1956](LIT-1956.md),
+whose account is [THEORY-1315](../theory.d/THEORY-1315.md): it proves the variance rise on normal forms
 and sharpens that account's caveats. It complements the rate-induced
-tipping of LIT-1654 and THEORY-1079, which its framework does not cover. It
-gives the general setting for the fold of CASE-111 and the saddle-node of
-CLAIM-521. Its noise-induced escape time cites Freidlin and Wentzell
-(1998 edition), held as LIT-tmp6rglf.
+tipping of [LIT-1654](LIT-1654.md) and [THEORY-1079](../theory.d/THEORY-1079.md), which its framework does not cover. It
+gives the general setting for the fold of [CASE-111](../cases.d/CASE-111.md) and the saddle-node of
+[CLAIM-521](../claims.d/CLAIM-521.md). Its noise-induced escape time cites Freidlin and Wentzell
+(1998 edition), held as [LIT-tmp6rglf](LIT-tmp6rglf.md).
 
 The pasted bibliography on emergency readiness files it under tail risk
 and critical transitions without saying what it shows. Its subject is
 parameter-driven bifurcation and noise-induced escape, not the tails of
 loss distributions; its lesson that observed indicators can mislead
 parallels A's warning about judging a maintained capability by what is
-observed, by analogy only. Filed from it: THEORY-tmpwa350. No instruction
+observed, by analogy only. Filed from it: [THEORY-tmpwa350](../theory.d/THEORY-tmpwa350.md). No instruction
 for machine-learning practice; nothing for the anthology.

@@ -128,11 +128,11 @@ transition is in the drift, not in any instantaneous instability.
 
 ## Connections
 
-It builds on Fenichel's geometric singular perturbation theory (LIT-1638)
+It builds on Fenichel's geometric singular perturbation theory ([LIT-1638](../literature.d/LIT-1638.md))
 for slow manifolds, on Berglund and Gentz's sample-path estimates for
 noise near slow manifolds, on Freidlin and Wentzell (1998 edition; held as
-LIT-tmp6rglf) for escape times, and on Arnold's random dynamical systems
-for D- and P-bifurcations. It complements Scheffer et al. (LIT-1956). Its
+[LIT-tmp6rglf](../literature.d/LIT-tmp6rglf.md)) for escape times, and on Arnold's random dynamical systems
+for D- and P-bifurcations. It complements Scheffer et al. ([LIT-1956](../literature.d/LIT-1956.md)). Its
 companion paper, arXiv 1101.2908 on normal forms, variance and
 applications, is not held.
 
@@ -146,45 +146,45 @@ applications, is not held.
   warnings read from observed fluctuations can fail parallels the
   bibliography's warning against judging a maintained capability by what
   is observed, by analogy only.
-- **LIT-1956 and THEORY-1315** (slowing down, rising variance and
+- **[LIT-1956](../literature.d/LIT-1956.md) and [THEORY-1315](../theory.d/THEORY-1315.md)** (slowing down, rising variance and
   autocorrelation before a fold; the signals mark proximity, not kind or
   time): supports and qualifies. It proves the variance rise for normal
   forms, shows slowing down differs by bifurcation type, so that the
   indicators could partly tell the kind, and adds failure cases
   (multiplicative noise, single paths, window geometry, strong noise) that
   sharpen that theory's caveats.
-- **LIT-1654, NOTE-1215, THEORY-1052 and THEORY-1079** (tipping in open
+- **[LIT-1654](../literature.d/LIT-1654.md), [NOTE-1215](NOTE-1215.md), [THEORY-1052](../theory.d/THEORY-1052.md) and [THEORY-1079](../theory.d/THEORY-1079.md)** (tipping in open
   systems, rate-induced tipping): related; Kuehn covers bifurcation and
   noise-induced tipping, not rate-induced, so they complement each other.
-- **CASE-111** (a fold in boundary maintenance; recovery slows to zero as
-  the fold nears) and **CLAIM-521** (recovery rate of the maintenance goes
+- **[CASE-111](../cases.d/CASE-111.md)** (a fold in boundary maintenance; recovery slows to zero as
+  the fold nears) and **[CLAIM-521](../claims.d/CLAIM-521.md)** (recovery rate of the maintenance goes
   to zero at its saddle-node): supports both; Prop. 2.10 gives a recovery
-  rate ∝ |y|^{1/2} at a fold. It qualifies CASE-111: with the parameter
+  rate ∝ |y|^{1/2} at a fold. It qualifies [CASE-111](../cases.d/CASE-111.md): with the parameter
   drifting, the loss comes past the fold by O(ε^{2/3}) (Theorem 3.2), and
   with strong noise before it (Theorem 6.1).
-- **CLAIM-079** (stability does not entail viability): supports it with a
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability): supports it with a
   specific mechanism. A system on an attracting slow manifold is stable at
   every frozen parameter value, yet drifts to a point where it jumps far
   away.
-- **CLAIM-478 and the record's other scale-separation claims**: related;
+- **[CLAIM-478](../claims.d/CLAIM-478.md) and the record's other scale-separation claims**: related;
   the framework presupposes ε ≪ 1 and shows how it interacts with noise
   (σ against √ε).
-- **THEORY-1227 and THEORY-069** (the HKB switch in bimanual coordination,
-  with critical fluctuations and slowing), **CASE-191** (a constructed
-  fold with critical slowing) and **THEORY-1306**: related; Kuehn's
+- **[THEORY-1227](../theory.d/THEORY-1227.md) and [THEORY-069](../theory.d/THEORY-069.md)** (the HKB switch in bimanual coordination,
+  with critical fluctuations and slowing), **[CASE-191](../cases.d/CASE-191.md)** (a constructed
+  fold with critical slowing) and **[THEORY-1306](../theory.d/THEORY-1306.md)**: related; Kuehn's
   normal-form framework is the general setting of which these transitions
-  are instances. **THEORY-773** (contraction approach to singular
+  are instances. **[THEORY-773](../theory.d/THEORY-773.md)** (contraction approach to singular
   perturbation): Kuehn's transitions are where such reductions fail.
-- **THEORY-1264, THEORY-1309, THEORY-1273**: related through the escape
-  time used in §6. **LIT-1025** (machine-learning early warnings in an
+- **[THEORY-1264](../theory.d/THEORY-1264.md), [THEORY-1309](../theory.d/THEORY-1309.md), [THEORY-1273](../theory.d/THEORY-1273.md)**: related through the escape
+  time used in §6. **[LIT-1025](../literature.d/LIT-1025.md)** (machine-learning early warnings in an
   online game): an applied early-warning study for which Kuehn's failure
   cases are a caution.
-- **The bibliography's mapping** to TERM-055, CLAIM-347, CLAIM-517 and
-  QUESTION-132 has no support here. Its gloss on QUESTION-132,
+- **The bibliography's mapping** to [TERM-055](../terms.d/TERM-055.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md) and
+  [QUESTION-132](../questions.d/QUESTION-132.md) has no support here. Its gloss on [QUESTION-132](../questions.d/QUESTION-132.md),
   "capabilities whose contribution becomes apparent in rare contexts", is
   A's paraphrase; the question asks when equivalent adaptive operators
   differentiate into specialists with positive recovery growth when rare.
-- Filed: THEORY-tmpwa350. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpwa350](../theory.d/THEORY-tmpwa350.md). No instruction for machine-learning practice.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-04 (NOTE-tmpke9h3) from the author's arXiv
+  read in full 2026-11-04 ([NOTE-tmpke9h3](../notes.d/NOTE-tmpke9h3.md)) from the author's arXiv
   preprint, v2; worth reading as a clear map of what large-deviation
   theory proves about escape from a potential well and what it does not:
   Wentzell–Freidlin give the exponent (Arrhenius' law), even for
@@ -9,7 +9,7 @@ status_note: >-
   theory (Bovier, Eckhoff, Gayrard and Klein 2004) or the Witten Laplacian,
   degenerates at bifurcations, and can fail to converge for irreversible
   dynamics. Registered as the stand-in for Freidlin and Wentzell's book,
-  LIT-tmp6rglf, whose exit-problem results it restates. A review: proofs
+  [LIT-tmp6rglf](LIT-tmp6rglf.md), whose exit-problem results it restates. A review: proofs
   are sketched, and most of it treats the gradient case.
 title: "Kramers' law: Validity, derivations and generalisations"
 version: 1
@@ -71,7 +71,7 @@ Berglund, N. (2011). Kramers' law: Validity, derivations and generalisations. ar
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpke9h3. Sections and equations are the preprint's.*
+*From the reading, [NOTE-tmpke9h3](../notes.d/NOTE-tmpke9h3.md). Sections and equations are the preprint's.*
 
 - **Wentzell–Freidlin, restated.** The rate function I(ϕ) = ½∫‖ϕ̇ − f(ϕ)‖² dt
   (eq. 2.3), the quasi-potential, which "measures the cost of reaching z in
@@ -89,14 +89,14 @@ Berglund, N. (2011). Kramers' law: Validity, derivations and generalisations. ar
 
 ## Standing in the record
 
-Registered as the stand-in for Freidlin and Wentzell's book, LIT-tmp6rglf,
+Registered as the stand-in for Freidlin and Wentzell's book, [LIT-tmp6rglf](LIT-tmp6rglf.md),
 of which only the front matter was read. It restates the book's exit
 problem (Chapter 4): action functional, quasi-potential, exit time and
 exit location; it points to, but does not state, the cycle hierarchy for
 many attractors, and it does not touch the book's stationary-distribution,
 averaging, Hamiltonian, graph or stabilization chapters. Its own subject,
 the prefactor, is what the book leaves out by giving rough asymptotics
-only. Bears on THEORY-1264 (it gives the exponent, so read that theory as
-a statement about log-rates) and THEORY-1309. Filed from it:
-THEORY-tmp2rxfm. No instruction for machine-learning practice; nothing for
+only. Bears on [THEORY-1264](../theory.d/THEORY-1264.md) (it gives the exponent, so read that theory as
+a statement about log-rates) and [THEORY-1309](../theory.d/THEORY-1309.md). Filed from it:
+[THEORY-tmp2rxfm](../theory.d/THEORY-tmp2rxfm.md). No instruction for machine-learning practice; nothing for
 the anthology.

@@ -17,7 +17,7 @@ date: '2026-11-04'
 source:
 - LIT-tmpc7r2s
 summary: >-
-  Kuehn (2011), LIT-tmpc7r2s, read in NOTE-tmpob9hv from the arXiv v2.
+  Kuehn (2011), [LIT-tmpc7r2s](../literature.d/LIT-tmpc7r2s.md), read in [NOTE-tmpob9hv](../notes.d/NOTE-tmpob9hv.md) from the arXiv v2.
   Proposed: the propositions' proofs are short normal-form computations
   that were read but not redone here. It is about one slow variable and
   one-dimensional (planar for Hopf) fast normal forms; it does not say
@@ -30,7 +30,7 @@ summary: >-
 ## Source
 
 Kuehn, "A mathematical framework for critical transitions" (Physica D
-2011), LIT-tmpc7r2s; read in NOTE-tmpob9hv.
+2011), [LIT-tmpc7r2s](../literature.d/LIT-tmpc7r2s.md); read in [NOTE-tmpob9hv](../notes.d/NOTE-tmpob9hv.md).
 
 ## What was actually shown
 

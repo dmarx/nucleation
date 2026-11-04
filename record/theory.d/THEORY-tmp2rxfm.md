@@ -17,8 +17,8 @@ date: '2026-11-04'
 source:
 - LIT-tmp76lym
 summary: >-
-  Berglund (2011), LIT-tmp76lym, read in NOTE-tmpke9h3, a review
-  registered as a stand-in for Freidlin and Wentzell (LIT-tmp6rglf).
+  Berglund (2011), [LIT-tmp76lym](../literature.d/LIT-tmp76lym.md), read in [NOTE-tmpke9h3](../notes.d/NOTE-tmpke9h3.md), a review
+  registered as a stand-in for Freidlin and Wentzell ([LIT-tmp6rglf](../literature.d/LIT-tmp6rglf.md)).
   Proposed: the survey sketches and cites the proofs rather than giving
   them. It does not say the prefactor is unknowable for non-gradient
   systems in general, only that large deviations do not deliver it and
@@ -31,9 +31,9 @@ summary: >-
 ## Source
 
 Berglund, "Kramers' law: Validity, derivations and generalisations"
-(arXiv 2011; Markov Processes Relat. Fields 2013), LIT-tmp76lym; read in
-NOTE-tmpke9h3. The book it stands in for, LIT-tmp6rglf, was read only in
-its front matter (NOTE-tmp4cwdr).
+(arXiv 2011; Markov Processes Relat. Fields 2013), [LIT-tmp76lym](../literature.d/LIT-tmp76lym.md); read in
+[NOTE-tmpke9h3](../notes.d/NOTE-tmpke9h3.md). The book it stands in for, [LIT-tmp6rglf](../literature.d/LIT-tmp6rglf.md), was read only in
+its front matter ([NOTE-tmp4cwdr](../notes.d/NOTE-tmp4cwdr.md)).
 
 ## What was actually shown
 

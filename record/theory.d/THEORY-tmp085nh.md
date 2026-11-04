@@ -18,9 +18,9 @@ source:
 - LIT-tmp6rglf
 summary: >-
   Freidlin and Wentzell (3rd ed. 2012; Russian original 1979),
-  LIT-tmp6rglf, read in NOTE-tmp4cwdr from the front matter only, where
+  [LIT-tmp6rglf](../literature.d/LIT-tmp6rglf.md), read in [NOTE-tmp4cwdr](../notes.d/NOTE-tmp4cwdr.md) from the front matter only, where
   the Introduction outlines this programme (pp. xix–xxi). Proposed: the
-  theorems are in chapters not read. Berglund's survey, LIT-tmp76lym,
+  theorems are in chapters not read. Berglund's survey, [LIT-tmp76lym](../literature.d/LIT-tmp76lym.md),
   restates the exit-time theorem but not the stationary-distribution
   result. It does not give sharp times, only logarithmic ones, and it is
   about diffusions, not about organizations or capabilities.
@@ -32,9 +32,9 @@ summary: >-
 ## Source
 
 Freidlin and Wentzell, *Random Perturbations of Dynamical Systems*, 3rd
-ed. (2012), LIT-tmp6rglf; read in NOTE-tmp4cwdr from the front matter
+ed. (2012), [LIT-tmp6rglf](../literature.d/LIT-tmp6rglf.md); read in [NOTE-tmp4cwdr](../notes.d/NOTE-tmp4cwdr.md) from the front matter
 only (prefaces and Introduction, pp. i–xxviii). Stand-in for the exit
-problem: Berglund (2011), LIT-tmp76lym.
+problem: Berglund (2011), [LIT-tmp76lym](../literature.d/LIT-tmp76lym.md).
 
 ## What was actually shown
 
@@ -51,7 +51,7 @@ What was read is an outline, not the theorems.
   successive intervals and weak dependence between distant ones, the
   first exit time "has an approximately exponential distribution". The
   exit-time theorem itself, lim 2ε log E τ = inf over the boundary of the
-  quasi-potential, is restated in LIT-tmp76lym (its Theorem 2.2).
+  quasi-potential, is restated in [LIT-tmp76lym](../literature.d/LIT-tmp76lym.md) (its Theorem 2.2).
 - **Several stable sets (p. xxi).** If passage from K₁ to K₂ costs V₁₂ and
   back costs V₂₁ with V₁₂ < V₂₁, "then it becomes plausible that for small
   ε the process spends most of the time in the neighborhood of" K₂; the

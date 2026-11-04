@@ -129,8 +129,8 @@ As outlined in the front matter; exact statements and proofs were not read.
 The book places itself after Cramér's large deviations for sums of random
 variables (Introduction) and after Pontrjagin, Andronov and Vitt's
 Fokker–Planck approach to the stationary distribution, which it replaces
-by the study of improbable events (p. xxi). Kuehn (LIT-tmpc7r2s) cites the
-1998 edition for its escape time. Berglund (LIT-tmp76lym), read as the
+by the study of improbable events (p. xxi). Kuehn ([LIT-tmpc7r2s](../literature.d/LIT-tmpc7r2s.md)) cites the
+1998 edition for its escape time. Berglund ([LIT-tmp76lym](../literature.d/LIT-tmp76lym.md)), read as the
 stand-in, restates the exit-problem results.
 
 ## Bearing on the record
@@ -148,28 +148,28 @@ stand-in, restates the exit-problem results.
   a system does with probability near one over long horizons; that is about
   diffusions, not organizations, and says nothing about judging a
   capability by its use.
-- **The record's derived readings.** LIT-1881, LIT-1981 and LIT-1892, with
-  their notes NOTE-1465, NOTE-1504 and NOTE-1472, and THEORY-1264,
-  THEORY-1309 and THEORY-1273 (metastable chemical states lasting a time
+- **The record's derived readings.** [LIT-1881](../literature.d/LIT-1881.md), [LIT-1981](../literature.d/LIT-1981.md) and [LIT-1892](../literature.d/LIT-1892.md), with
+  their notes [NOTE-1465](NOTE-1465.md), [NOTE-1504](NOTE-1504.md) and [NOTE-1472](NOTE-1472.md), and [THEORY-1264](../theory.d/THEORY-1264.md),
+  [THEORY-1309](../theory.d/THEORY-1309.md) and [THEORY-1273](../theory.d/THEORY-1273.md) (metastable chemical states lasting a time
   exponential in system size) build on this book's action functional and
-  quasi-potential. It is their source. THEORY-1265 (the Fokker–Planck
+  quasi-potential. It is their source. [THEORY-1265](../theory.d/THEORY-1265.md) (the Fokker–Planck
   approximation gets the quasi-potential right only at fixed points) bears
   on how the quasi-potential is used, not on the book.
-- **CLAIM-079 (stability does not entail viability).** Qualified: under
+- **[CLAIM-079](../claims.d/CLAIM-079.md) (stability does not entail viability).** Qualified: under
   small noise every stable state is only metastable, and on long horizons
   the process leaves the domain of attraction almost surely (p. xx), so
   occupying a stable regime is itself temporary.
-- **CASE-189** uses a quasi-potential for a maintained organization's
-  persistence, an application of the book's construction. **CASE-111**'s
+- **[CASE-189](../cases.d/CASE-189.md)** uses a quasi-potential for a maintained organization's
+  persistence, an application of the book's construction. **[CASE-111](../cases.d/CASE-111.md)**'s
   fold is related through metastability; with noise, the exit-time scaling
   would govern how long the maintained state lasts. Related, not tested.
-- **The pasted bibliography's mapping** to TERM-055, CLAIM-347, CLAIM-517
-  and QUESTION-132 has no support in this book. QUESTION-132 asks when
+- **The pasted bibliography's mapping** to [TERM-055](../terms.d/TERM-055.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md)
+  and [QUESTION-132](../questions.d/QUESTION-132.md) has no support in this book. [QUESTION-132](../questions.d/QUESTION-132.md) asks when
   equivalent adaptive operators differentiate into complementary
   specialists with positive recovery growth when rare; the gloss
   "capabilities whose contribution becomes apparent in rare contexts" is
   A's paraphrase and misstates it.
-- Filed: THEORY-tmp085nh. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp085nh](../theory.d/THEORY-tmp085nh.md). No instruction for machine-learning practice.
 
 ## Limitations
 
@@ -179,11 +179,11 @@ stand-in, restates the exit-problem results.
   results are rough only (p. xxiv); there are no random vector fields
   (p. ix).
 - **No prefactors.** By design the book gives logarithmic asymptotics, not
-  sharp times; LIT-tmp76lym records how much later work that took.
+  sharp times; [LIT-tmp76lym](../literature.d/LIT-tmp76lym.md) records how much later work that took.
 
 ## Open questions
 
 - Do Chapter 4's exit-time theorems and Chapter 6's stationary-distribution
   theorem say what the Introduction outlines, under what conditions?
   Reading those chapters, or a faithful restatement of Chapter 6, would
-  tell; LIT-tmp76lym covers only Chapter 4.
+  tell; [LIT-tmp76lym](../literature.d/LIT-tmp76lym.md) covers only Chapter 4.

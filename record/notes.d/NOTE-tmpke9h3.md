@@ -113,7 +113,7 @@ dynamics.
 
 ## Connections
 
-**Against Freidlin and Wentzell (LIT-tmp6rglf), for which it stands in.**
+**Against Freidlin and Wentzell ([LIT-tmp6rglf](../literature.d/LIT-tmp6rglf.md)), for which it stands in.**
 It restates: the Wentzell–Freidlin action functional as a large-deviation
 principle (eqs. 2.3–2.5); the quasi-potential as the cost of reaching a
 point in arbitrary time (eq. 2.8); the exit-time theorem, credited to
@@ -142,20 +142,20 @@ irreversible case.
   exit and metastability (§2 credits them with the action functional and
   the exit-time theorem), and adds a qualification the bibliography does
   not state: they give the exponential order only.
-- **THEORY-1264** (weak-noise escape rate as the exponential of minus size
+- **[THEORY-1264](../theory.d/THEORY-1264.md)** (weak-noise escape rate as the exponential of minus size
   times a quasi-potential barrier): supports the exponent and qualifies any
   reading of that theory as giving rates rather than log-rates, since the
   prefactor is not controlled by large deviations.
-- **THEORY-1309**: supports; the gradient-case argument of eq. 2.11 is the
-  same time-reversal argument. **THEORY-1273** (exponential escape times in
-  a driven chemical system): supports. **THEORY-1265**: related.
-- **CLAIM-079**: qualifies it as the book does; under noise every stable
+- **[THEORY-1309](../theory.d/THEORY-1309.md)**: supports; the gradient-case argument of eq. 2.11 is the
+  same time-reversal argument. **[THEORY-1273](../theory.d/THEORY-1273.md)** (exponential escape times in
+  a driven chemical system): supports. **[THEORY-1265](../theory.d/THEORY-1265.md)**: related.
+- **[CLAIM-079](../claims.d/CLAIM-079.md)**: qualifies it as the book does; under noise every stable
   state is metastable.
-- **CASE-111** (a fold in boundary maintenance): related. Near a fold the
+- **[CASE-111](../cases.d/CASE-111.md)** (a fold in boundary maintenance): related. Near a fold the
   standard Kramers prefactor does not apply (§4.1), so escape times near
   that case's fold are not given by the usual formula.
-- No bearing on TERM-055, CLAIM-347, CLAIM-517 or QUESTION-132.
-- Filed: THEORY-tmp2rxfm. No instruction for machine-learning practice.
+- No bearing on [TERM-055](../terms.d/TERM-055.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md) or [QUESTION-132](../questions.d/QUESTION-132.md).
+- Filed: [THEORY-tmp2rxfm](../theory.d/THEORY-tmp2rxfm.md). No instruction for machine-learning practice.
 
 ## Limitations
 
