@@ -39,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# Where successful response requires several complementary capacities, the value of preserving one depends on whether the others remain deployable, so individual resource utilization need not track the organization's response capability
+# CLAIM-tmpvhj8j: Where successful response requires several complementary capacities, the value of preserving one depends on whether the others remain deployable, so individual resource utilization need not track the organization's response capability
 
 ## The claim
 

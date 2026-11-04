@@ -20,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpoo2tj ARG-tmp5fhgc CLAIM-tmp5rh3v TERM-tmpuc919 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# What observations, interventions, or models can distinguish a warranted reserve of specialized capability from wasteful redundancy when ordinary operation seldom exercises it?
+# QUESTION-tmpw46vw: What observations, interventions, or models can distinguish a warranted reserve of specialized capability from wasteful redundancy when ordinary operation seldom exercises it?
 
 ## Why it is a question
 

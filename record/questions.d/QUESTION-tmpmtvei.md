@@ -21,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpvhj8j TERM-tmpuc919 ARG-tmp5fhgc — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# Under what funding and incentive rules does allocating resources according to observed activity cause an organization to lose capabilities whose value is concentrated in rarely encountered circumstances?
+# QUESTION-tmpmtvei: Under what funding and incentive rules does allocating resources according to observed activity cause an organization to lose capabilities whose value is concentrated in rarely encountered circumstances?
 
 ## Why it is a question
 

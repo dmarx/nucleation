@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpoo2tj CASE-tmpt6fm7 CLAIM-tmpsmebu CLAIM-tmp5rh3v TERM-tmp5t7y8 ARG-042 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# Low observed exercise of a specialized capability is evidence that its maintenance expenditure is wasteful
+# ARG-tmp5fhgc: Low observed exercise of a specialized capability is evidence that its maintenance expenditure is wasteful
 
 ## The inference
 

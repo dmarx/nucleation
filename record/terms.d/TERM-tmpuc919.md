@@ -24,7 +24,7 @@ summary: >-
   owner's call.
 ---
 
-# scenario-conditioned response readiness: the probability that an organization operating under a specified policy can deliver an effective response to a specified contingency within its deadline
+# TERM-tmpuc919: scenario-conditioned response readiness: the probability that an organization operating under a specified policy can deliver an effective response to a specified contingency within its deadline
 
 ## Definition
 

@@ -21,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp5rh3v TERM-tmp5t7y8 CASE-tmpt6fm7 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# How does the optimal threshold for provisionally committing a specialized resource vary with congestion, geography, available substitutes, assessment accuracy, and the cost of leaving other contingencies uncovered?
+# QUESTION-tmpvweyo: How does the optimal threshold for provisionally committing a specialized resource vary with congestion, geography, available substitutes, assessment accuracy, and the cost of leaving other contingencies uncovered?
 
 ## Why it is a question
 

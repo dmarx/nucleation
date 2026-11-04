@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-tmp5fhgc TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# Two departments perform no extrications during ordinary operation, but only one can satisfy a deadline-constrained extrication demand under intervention
+# CASE-tmpoo2tj: Two departments perform no extrications during ordinary operation, but only one can satisfy a deadline-constrained extrication demand under intervention
 
 ## The case
 

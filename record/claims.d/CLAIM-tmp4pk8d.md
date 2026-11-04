@@ -39,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpt6fm7 TERM-tmp5t7y8 CLAIM-tmp5rh3v — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective
+# CLAIM-tmp4pk8d: In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective
 
 ## The claim
 

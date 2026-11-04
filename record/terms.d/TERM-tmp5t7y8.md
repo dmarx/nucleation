@@ -21,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpt6fm7 CLAIM-tmp4pk8d — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# provisional commitment: the costly allocation of a capability to a possible future need before that need is established, under a policy that permits subsequent release or redirection
+# TERM-tmp5t7y8: provisional commitment: the costly allocation of a capability to a possible future need before that need is established, under a policy that permits subsequent release or redirection
 
 ## Definition
 

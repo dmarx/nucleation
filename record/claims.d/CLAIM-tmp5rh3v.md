@@ -42,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpt6fm7 ARG-tmp5fhgc TERM-tmp5t7y8 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste
+# CLAIM-tmp5rh3v: When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste
 
 ## The claim
 

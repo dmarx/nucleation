@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-tmp5fhgc ARG-042 CLAIM-tmp5rh3v — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful
+# CLAIM-tmpsmebu: Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful
 
 ## Not claimed
 

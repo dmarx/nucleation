@@ -25,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp5rh3v CLAIM-tmp4pk8d TERM-tmp5t7y8 TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
-# Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task
+# CASE-tmpt6fm7: Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task
 
 ## The case
 
