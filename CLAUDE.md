@@ -68,7 +68,7 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
                                   # term, arg, adr, dp, changelog, curation, workbench
 
 <!-- inactive-ok: ADR-068 — Proposed until the owner adopts it -->
-ADR-068 holds the invariants for filing an exchange, a pasted synthesis, an
+[ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an
 upload or a work, and for reading registered works. Its steps are the
 `read-and-file` skill (`.claude/skills/read-and-file/SKILL.md`).
 
