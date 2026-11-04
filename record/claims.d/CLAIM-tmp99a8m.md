@@ -39,7 +39,7 @@ summary: >-
   filer's. Both readings can stand: they put dysregulation at different
   loci. Adopting either is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp8e3ye CLAIM-286 CLAIM-446 LIT-1221 LIT-1492 — Proposed, Unavailable, Open or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-tmp5hhsy CLAIM-tmp8e3ye CLAIM-286 CLAIM-446 LIT-1221 LIT-1492 — Proposed, Unavailable, Open or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-tmp99a8m: Read in DBT's sense, cognitive dysregulation is a consequence of emotion dysregulation, not a failure to allocate attention: a perspective with high gain, intense response and slow return to baseline has a small and lingering tolerance, can stay active when the current discrepancy no longer warrants it, and while active supplies the interpretation that governance acts on, so the effective will becomes mood-dependent; it predicts impairment that follows arousal and its slow decay, where the attentional reading predicts impairment that follows competing demand on a fixed budget
 
@@ -98,6 +98,9 @@ a will that is mood-dependent.
 | impairment follows | the number and size of competing demands | arousal, and its slow decay after the event |
 | outlasts the event | no, once demand falls | yes, until activation returns to baseline |
 | what restores it | reprioritizing, or more capacity | lowering activation; DBT's distress-tolerance and emotion-regulation skills |
+
+CASE-tmp5hhsy builds the two as organizations equally impaired during an
+episode and separates them by time course and by intervention.
 
 They can both hold in one individual, and an episode can involve both.
 The DBT reading adds what the attentional one cannot say: why the
