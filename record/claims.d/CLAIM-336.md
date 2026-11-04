@@ -69,7 +69,8 @@ uses:
 - TERM-023
 - TERM-031
 - TERM-039
-- TERM-053
+- TERM-tmplu4ih
+- TERM-tmp08c21
 summary: >-
   The owner's, U2 of the exchange of 2026-10-16: the pragmatic-transport
   model and the will-organization model are "both manifestations of the

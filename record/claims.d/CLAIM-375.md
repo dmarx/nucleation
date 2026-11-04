@@ -32,7 +32,8 @@ line:
 rests_on:
 - CLAIM-282
 uses:
-- TERM-053
+- TERM-tmplu4ih
+- TERM-tmp08c21
 summary: >-
   The demonstrated core of [CLAIM-285](CLAIM-285.md). Under A3's one-hop rule
   I_j = I_j⁰ + Σ_(k≠j) b_k E_kj, with budgets and baselines fixed within an

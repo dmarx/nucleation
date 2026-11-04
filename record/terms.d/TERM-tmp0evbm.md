@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt''s second-order volition, the reflective sense of "endorse", kept apart from endorsement between processes, from the machinery that makes a motive effective, and from identification'
+title: 'higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt''s second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification'
 version: 1
 tags:
 - free-will
@@ -21,9 +21,10 @@ summary: >-
   codes it. [ADR-056](../decisions.d/ADR-056.md)'s kinds would class it as a disambiguation. The
   wording is the reader's, from A14; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
 <!-- inactive-ok-file: ADR-056 CLAIM-354 CLAIM-539 CLAIM-tmpgjdby THEORY-029 THEORY-120 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# TERM-tmp0evbm: higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt's second-order volition, the reflective sense of "endorse", kept apart from endorsement between processes, from the machinery that makes a motive effective, and from identification
+# TERM-tmp0evbm: higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt's second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification
 
 ## Definition
 
@@ -38,7 +39,10 @@ wanting a desire "to be his will" (p. 10).
 
 **The job.** It is a disambiguation. Where an exchange, a reading or a
 claim says "endorse" for this attitude, the record writes "higher-order
-volition" and cites this term. "Endorsement" stays [TERM-053](TERM-053.md)'s.
+volition" and cites this term. By ADR-070, "endorse" is left to this
+sense; the effect between processes that TERM-053 called endorsement is
+conferral (TERM-tmplu4ih), and conferral through a maintained relation is
+a grant (TERM-tmp08c21).
 
 **Bearer.** In Frankfurt the bearer is the person. The record also uses
 the term for a process's attitude about which regime should govern
@@ -50,14 +54,15 @@ settled."
 
 ## What it is not
 
-- **Not endorsement between processes.** [TERM-053](TERM-053.md) is an effect, the
+- **Not conferral between processes.** Conferral (TERM-tmplu4ih, formerly
+  TERM-053) is an effect, the
   change an intervention of one process makes in another's share of
   future influence. A higher-order volition is an attitude. A14 §2 put
   it as wanting a desire to govern ≠ causing that desire to govern.
 - **Not efficacy.** Frankfurt's unwilling addict has the volition and is
   moved by the craving anyway ([CASE-181](../cases.d/CASE-181.md)). In [CASE-112](../cases.d/CASE-112.md) a sincere volition
   can move the balance of authority without moving the regime. The
-  volition may still be a positive [TERM-053](TERM-053.md) endorsement that falls short.
+  volition may still be a positive conferral that falls short.
 - **Not metacontrol.** [CLAIM-122](../claims.d/CLAIM-122.md)'s note of 2026-10-18: "Higher-order
   volition is an attitude concerning what should be effective.
   Metacontrol is the causal machinery capable of altering what becomes

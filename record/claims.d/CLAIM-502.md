@@ -37,7 +37,8 @@ line:
 objects_to:
 - CLAIM-282
 uses:
-- TERM-053
+- TERM-tmplu4ih
+- TERM-tmp08c21
 complements:
 - CLAIM-375
 summary: >-

@@ -21,3 +21,5 @@
   - three organizations at 50% ([CASE-tmpklgk5](record/cases.d/CASE-tmpklgk5.md));
   - the toy model of superposition's per-feature complex ([CASE-tmps4kry](record/cases.d/CASE-tmps4kry.md)).
 - Thirty dated notes on held entries. Where A misread a term of art (nucleation, frustration, the sheaf account, endorsement, psychological flexibility), the entry or note records both the idea as A stated it and what A would have proposed with the term read as intended.
+- At the owner's decision, ADR-070 splits and renames TERM-053's "endorsement": conferral (TERM-tmplu4ih) is its definition renamed, grant (TERM-tmp08c21) is A14's narrowing to conferral through a maintained relation, and "endorse" is left to higher-order volition (TERM-tmp0evbm). TERM-053 is Superseded; the six claims that used it now use the new terms, and this filing's claims are restated in them.
+- At the owner's review, CASE-079 v2 (coordination through the canvas as well as off it) and Dong, "The Kinetics of Training", registered unread (LIT-tmpywx5m).

@@ -38,7 +38,7 @@ grounds:
 uses:
 - TERM-060
 - TERM-064
-- TERM-053
+- TERM-tmplu4ih
 - TERM-tmp0evbm
 bears_on:
 - QUESTION-041
@@ -60,6 +60,7 @@ summary: >-
   ([THEORY-120](../theory.d/THEORY-120.md)). The construct is the owner's. The wording is A's,
   sharpened by the reader; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
 <!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 CLAIM-tmp6zm3v CLAIM-tmp7oo4d CLAIM-tmp8e3ye CLAIM-tmpgjdby TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-tmpu69za: Give each of an individual's perspectives a scalar intervention threshold on its discrepancy from the will it wants effective: the intervention that can be observed is the propensity to mobilize times the chance that the discrepancy is legible and a channel carries the intervention, so a perspective that does not intervene has not thereby endorsed; and read through Frankfurt, wholeheartedness is the will that moves the individual to act lying within every perspective's tolerance, a full face of the requirement complex and not of the quiet one, so a structurally frustrated individual cannot act wholeheartedly unless its demands change
@@ -88,7 +89,7 @@ them together. Kept apart:
 
 | tolerance | crossing it means | held in |
 |---|---|---|
-| τ_i^acc, acceptance | i no longer accepts w; the sign of its endorsement turns | [CLAIM-tmpgjdby](CLAIM-tmpgjdby.md) |
+| τ_i^acc, acceptance | i no longer accepts w; the sign of its conferral turns | [CLAIM-tmpgjdby](CLAIM-tmpgjdby.md) |
 | τ_i^act, activation | i is active, without necessarily acting | [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md); [TERM-053](../terms.d/TERM-053.md)'s note of 2026-11-04 |
 | τ_i^int, intervention | i takes an action on the current state | U17, as the owner clarified at review |
 
@@ -116,9 +117,8 @@ discrepancy is legible ([TERM-064](../terms.d/TERM-064.md)) and a channel carrie
 A16: "This factorization is an assumption about the communication
 mechanism; it is not a general identity." It "lets us distinguish a
 tolerant perspective from a silenced perspective." A15's opening:
-"silence cannot automatically count as endorsement." In [TERM-053](../terms.d/TERM-053.md)'s
-sense, an intervention that is taken up and lowers the current will's
-influence is negative endorsement. An intervention with no channel is
+"silence cannot automatically count as endorsement." An intervention that is taken up and lowers the current will's influence
+is negative conferral (TERM-tmplu4ih, formerly TERM-053's endorsement). An intervention with no channel is
 not, and neither is its absence.
 
 **The complex (A16 §5).** 𝒦_τ = {S ⊆ P : some attainable history's will

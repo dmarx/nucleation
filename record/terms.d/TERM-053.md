@@ -1,10 +1,22 @@
 ---
 number: 53
-status: Active
+status: Superseded
 formerly:
 - TERM-tmpij1jr
 title: 'endorsement, between an organization''s processes: any effect one process has on another''s share of future influence, of which an explicit vote is one case'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Superseded at the owner's decision (ADR-070). The definition is
+    renamed conferral (TERM-tmplu4ih), and A14 §4's narrowing, conferral
+    through a maintained relation, is adopted as grant (TERM-tmp08c21).
+    "Endorse" is left to the reflective sense (TERM-tmp0evbm). The body
+    is kept as the history of the word.
+superseded_by:
+- TERM-tmplu4ih
+- TERM-tmp08c21
 tags:
 - self-governance
 - social-ontology

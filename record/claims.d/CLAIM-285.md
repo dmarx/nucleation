@@ -53,7 +53,8 @@ rests_on:
 - CLAIM-375
 - CLAIM-502
 uses:
-- TERM-053
+- TERM-tmplu4ih
+- TERM-tmp08c21
 summary: >-
   The owner's design at U2 of the 2026-10-13 exchange: operators vote on
   one another's influence, cannot significantly manipulate their own, and

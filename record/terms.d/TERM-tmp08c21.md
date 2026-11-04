@@ -17,7 +17,8 @@ summary: >-
   granting. The conditional role of CLAIM-tmpgjdby's table, "i grants j
   support when the conditions are met", is a grant's criterion.
 ---
-<!-- inactive-ok-file: TERM-tmplu4ih TERM-tmp0evbm CLAIM-tmpgjdby QUESTION-270 — Proposed, Open or new; cited as open -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
+<!-- inactive-ok-file: TERM-tmp0evbm CLAIM-tmpgjdby QUESTION-270 — Proposed, Open or new; cited as open -->
 
 # TERM-tmp08c21: grant, between an organization's processes: a conferral that runs through a maintained relation of granting, delegation, eligibility or support, so that the effect on another's future influence is mediated by a relation the organization keeps; withdrawing it is revocation
 

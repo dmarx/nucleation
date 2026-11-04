@@ -17,7 +17,8 @@ summary: >-
   endorsement (TERM-tmp0evbm), and not a grant (TERM-tmp08c21), which is
   conferral through a maintained relation.
 ---
-<!-- inactive-ok-file: TERM-tmp0evbm TERM-tmp08c21 CLAIM-285 CLAIM-367 THEORY-120 — Proposed or new; cited as open -->
+<!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
+<!-- inactive-ok-file: TERM-tmp0evbm CLAIM-285 CLAIM-367 THEORY-120 — Proposed or new; cited as open -->
 
 # TERM-tmplu4ih: conferral, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case; negative conferral withdraws influence
 

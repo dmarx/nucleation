@@ -1,17 +1,17 @@
 ---
 status: Proposed
-title: 'A perspective''s tolerance for another process''s contribution is the criterion of its endorsement of that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective''s own, so inside its tolerance the perspective''s interventions raise the other''s share of future influence and outside it they lower it; meeting the tolerance is necessary for that endorsement where the criterion binds, and sufficient only under a rule that grants influence on it'
+title: 'A perspective''s tolerance for another process''s contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective''s own, so inside its tolerance the perspective''s interventions raise the other''s share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it'
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  An organization in which one process's endorsements of another, in
-  TERM-053's sense, are positive and negative on the same contributions in
-  the same context with nothing in the endorsing process to tell them
+  An organization in which one process's conferrals on another
+  (TERM-tmplu4ih) are positive and negative on the same contributions in
+  the same context with nothing in the conferring process to tell them
   apart, so that no acceptance region of its own predicts their sign; or a
   case the record accepts in which the tolerances between two processes
   must be the same in both directions and measured on one common scale for
-  the frustration account to apply. Not defeated by an endorsement that
+  the frustration account to apply. Not defeated by a grant that
   fails to raise influence because the channel or the rule does not carry
   it, which the claim keeps apart.
 tags:
@@ -28,7 +28,8 @@ complements:
 - CLAIM-283
 - CLAIM-285
 uses:
-- TERM-053
+- TERM-tmplu4ih
+- TERM-tmp08c21
 - TERM-060
 - TERM-064
 bears_on:
@@ -40,15 +41,16 @@ summary: >-
   relative to some given perspective's priorities. maybe I'm confusing
   necessary vs sufficient conditions." It turns [CLAIM-534](CLAIM-534.md)'s and
   [CLAIM-538](CLAIM-538.md)'s tolerances, symmetric bounds on an edge, into each
-  perspective's criterion for endorsing another. A12 separated
+  perspective's criterion for conferring influence on another. A12 separated
   permission, grant and causal effect. The reading of the criterion as
-  the boundary where the sign of [TERM-053](../terms.d/TERM-053.md)'s endorsement changes is the
-  reader's. The wording is A's, sharpened by the reader; adopting it is
+  the boundary where the sign of conferral (TERM-tmplu4ih, formerly
+  TERM-053's endorsement) changes is the reader's. Restated in ADR-070's
+  words at the owner's review. The wording is A's, sharpened by the reader; adopting it is
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-534 TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-tmpgjdby: A perspective's tolerance for another process's contribution is the criterion of its endorsement of that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective's own, so inside its tolerance the perspective's interventions raise the other's share of future influence and outside it they lower it; meeting the tolerance is necessary for that endorsement where the criterion binds, and sufficient only under a rule that grants influence on it
+# CLAIM-tmpgjdby: A perspective's tolerance for another process's contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective's own, so inside its tolerance the perspective's interventions raise the other's share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it
 
 ## The claim
 
@@ -72,9 +74,9 @@ Three things follow.
   own." The criterion is an acceptance set, and may hold several
   conditions.
 
-**The criterion sets the sign of endorsement.** In [TERM-053](../terms.d/TERM-053.md)'s sense, i
-endorses j to the extent that an intervention of i raises j's chance of
-influence, and opposition is negative endorsement. The claim is that
+**The criterion sets the sign of conferral.** i confers influence on j
+(TERM-tmplu4ih) to the extent that an intervention of i raises j's chance
+of influence, and opposition is negative conferral. The claim is that
 Q_{i→j} is the switching surface of that effect: inside A_{i→j}, i's
 interventions raise j's share; outside, they lower it. This is the
 reader's reading of the owner's "endorsement criteria".
@@ -84,10 +86,10 @@ reader's reading of the owner's "endorsement criteria".
 | role | what holds |
 |---|---|
 | permissibility | i does not object within the tolerance |
-| conditional endorsement | i grants j support when the conditions are met |
-| effective endorsement | i's activity raises j's future influence |
+| grant (A12: "conditional endorsement") | i grants j support when the conditions are met (TERM-tmp08c21) |
+| conferral (A12: "effective endorsement") | i's activity raises j's future influence (TERM-tmplu4ih) |
 
-Where the criterion is mandatory, endorsement by i implies Q_{i→j} = 1,
+Where the criterion is mandatory, a grant by i implies Q_{i→j} = 1,
 "but the converse need not hold" (A12 §2). Under a rule G_{i→j} = Q_{i→j},
 meeting it is "sufficient for the grant, by construction", and "Whether that grant
 actually increases j's future influence remains a causal question." So
@@ -98,8 +100,7 @@ grant and the effect.
 required ordered pair. Whether some attainable arrangement meets them all
 is [CLAIM-347](CLAIM-347.md)'s question with acceptance sets indexed by ordered pairs.
 A12 §3: "every pair of perspectives might admit a mutually acceptable
-relationship, while the complete collection does not." So conditional
-endorsements can be jointly frustrated "even without any constituent
+relationship, while the complete collection does not." So grants can be jointly frustrated "even without any constituent
 being intrinsically opposed to another."
 
 **Width is not generosity.** A12 §6: "A broad tolerance could indicate
@@ -110,12 +111,12 @@ perspective can contest it.
 
 ## What it does not say
 
-- **That meeting a criterion is endorsing.** A criterion met with no
+- **That meeting a criterion is conferring.** A criterion met with no
   channel or rule to carry it raises nobody's influence. That gap is
   [QUESTION-270](../questions.d/QUESTION-270.md)'s denied uptake and [CLAIM-283](CLAIM-283.md)'s split between precedence
   claimed and authority granted.
 - **That the criterion is an attitude.** It may be subpersonal and not
-  represented, as [TERM-053](../terms.d/TERM-053.md) allows. The reflective sense is
+  represented, as conferral allows (TERM-tmplu4ih). The reflective sense is
   [TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md).
 - **That widening a tolerance relieves frustration.** By [CLAIM-347](CLAIM-347.md) it
   changes the demand. Relief needs a new arrangement that meets the old
