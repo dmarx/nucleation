@@ -1,0 +1,162 @@
+---
+status: Read
+paper: LIT-tmpywx5m
+title: 'Dong — The Kinetics of Training'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Read on 2026-11-04 at the owner's request from the arXiv PDF, v1
+    (https://arxiv.org/pdf/2607.27281v1, 29 July 2026), text extracted by
+    pdftotext. Read: the abstract, §§1–14 (pp. 1–31) and Appendix A
+    (pp. 32–36), the proofs for their structure, not line by line; the
+    references checked against the record. Not seen: the twelve figures,
+    except their captions; the display mathematics is garbled in the
+    extraction. Read by a delegated reader under ADR-068; the quotes below
+    were checked against the text by the filer. No code, data or
+    preregistration was consulted: the paper names none by address.
+date: '2026-11-04'
+summary: >-
+  One rate equation for circuit formation in transformer training, sites ×
+  attempts × drive × e^(−βK) minus destruction, K the missing jointly
+  necessary attention-head parts, read forward (emergence above a
+  data-concentration floor that is a saddle–node), backward (plasticity
+  loss as depletion of uncommitted heads, repaired by re-initializing
+  query–key slices and silent in the loss) and as control (no native SGD
+  knob is a temperature). The two no-partial-credit fingerprints are a toy
+  grid and an ablation test on Pythia. Experiments reach 1B parameters,
+  not the 1.4B the abstract names.
+---
+<!-- inactive-ok-file: QUESTION-281 QUESTION-039 QUESTION-363 — Proposed or Open; cited from the reading of Dong (2026) as open -->
+
+# NOTE-tmpmn9a9: Dong — The Kinetics of Training
+
+## Contribution
+
+Dong treats SLT, capacity-allocation thresholds and grokking as training's
+statics, and supplies a kinetics: "These are questions about rates, and a
+free energy is not a rate" (§1, p. 2). The contribution is one factorized
+rate law for the formation of a circuit, each factor measured separately
+and then frozen, with a proof of its backward reading in a controlled
+gated-attention model, and an explicit ledger of what is proved, what is
+conditional and what was withdrawn (§§4, 11, 12).
+
+## Key insight
+
+A capability forms in one stochastic attempt in which its last missing
+parts align together, and partial alignment earns nothing (Assumption 2,
+p. 6: "partial progress on a strict subset does not accumulate into the
+crossing"). The wait is then set by how many parts are missing, not by how
+many the circuit has, and the same count makes circuits "simultaneously
+hard to build and easy to break" (Prop. 7, p. 25).
+
+## Assumptions
+
+- **Assumption 1**: an SDE regime with mixing in the pre-formation basin;
+  part (b), mixing, is unproved for transformer SGD. EK-1's exponential
+  waiting "is a consistency test that could have falsified the assumption
+  and did not — it is not, and is not offered as, a proof of mixing"
+  (§4.4, p. 9).
+- **Assumption 2**: no partial credit, exact in the parity apparatus
+  (Lemma 1), measured elsewhere. **Assumption 3**: part independence away
+  from the capacity wall.
+- **Theorem 1** needs G1–G8 and C0–C4; G6, oracle gating, is "the model's
+  most idealized assumption" and "Removing it breaks the theorem" (p. 32).
+- **The learning-theory leg** holds for SQ/CSQ classes; "no such theorem
+  yet exists for transformers themselves" (§12, p. 30).
+- **Scope**: two families, Pythia and OLMo. The abstract and §12 say "to
+  1.4B"; the largest models the experiments name are pythia-1b and
+  OLMo-1B. K spans only 2–4 directly, over which "exponential, power, and
+  linear fits are locally indistinguishable" (Remark 5, p. 8). Causal arms
+  are n = 5–6, some n = 2–3.
+
+## Key results
+
+- **Missing parts, not size** (§4.4 EK-5, p. 10, toy grid): "a five-part
+  circuit missing three waits as long as a three-part circuit missing
+  three".
+- **Ablation collapse at scale** (§9, p. 27): against each cell's
+  partial-credit prediction, "32 of 32 cells fall below", sign test
+  p = 2.3 × 10⁻¹⁰; the stricter preregistered criterion "passes 22 of 32".
+- **No native temperature** (§5, p. 12): of six native knobs, "zero
+  qualify"; "lr is a clock, never a temperature". Formation in native
+  training is "athermal, driven nucleation".
+- **The floor is a fold** (Prop. 3, p. 15): "a saddle–node (fold), not a
+  transcritical exchange". Concentration means "the target's share of the
+  gradient against a persistent competitor" (p. 17), and "below the floor
+  the capability is not merely never built, it cannot be held" (p. 17).
+- **The clock** (§6.1, p. 13): six unseen models within the preregistered
+  25% band, median 5.0%; the prospective record "concerns induction only".
+- **Plasticity loss** (§7, pp. 20–21): "Learnability death is a site-term
+  failure, not a drive-term failure"; "re-initializing only the query–key
+  slices 6/6 (Fisher p = 0.002 against control)", value and output 0/6, on
+  aged Pythia-70M; "reset QK, keep OV". The loss is blind: "The step that
+  kills learnability looks, in the loss, like every other step of ordinary
+  background learning" (Theorem 1(iv), p. 23).
+- **Factorization** (§9, p. 27): frozen factors predict never-run
+  combinations at 8.4% and 1.3% error, and "112% at the near-floor point",
+  which the abstract leaves out.
+
+## Concepts
+
+- **Circuit, K** (Def. 1, p. 5): jointly necessary attention-head parts;
+  K is the minimal causal part set at a just-post-ignition checkpoint,
+  counted by ablation.
+- **Temperature** (Def. 2, p. 11): a noise source with isotropic,
+  state-independent covariance, so that the stationary law is Gibbs in the
+  loss.
+- **Supersaturation, floor c₀**: the target's gradient share against a
+  persistent competitor; the floor is the fold, and it is intensive, so
+  token volume does not substitute for concentration (Prop. 4).
+- **Sites**: uncommitted heads, whose occupation by background skills is
+  "attention-subspace commitment".
+
+## Bearing on the record
+
+- **QUESTION-281.** A worked case of nucleation across a finite barrier,
+  with creation, holding and destruction measured apart: activated escape
+  above the floor, a saddle–node at it, "cannot be held" below it, and
+  weakest-link melting. Conditional on unproved mixing, and athermal.
+- **QUESTION-039.** The paper's own question in another form: it dates the
+  moment (the clock), gives an order (cheap stages first, the joint step
+  last, §10) and calls acquisition one kind of rate-limiting event.
+- **QUESTION-363.** Dong's answer is barriers and drive, not an effective
+  temperature. THEORY-1255's stationary Gaussian, set by learning rate and
+  batch size, is anisotropic, so it fails Def. 2 and the two need not
+  conflict.
+- **CLAIM-347.** Related, not the same construct: the all-or-nothing is
+  over one capability's parts, not over a set of demands. §7 does give a
+  training case of the claim's horizon index. On an aged substrate the
+  withheld capability and the pinned background skills are not jointly
+  met at fixed drive, and rescue by data "requires c large enough to break
+  the background's own pinning margin", which in CLAIM-347's terms changes
+  a demand rather than relieving frustration.
+- **Rivals.** THEORY-293 (Gu et al., the paper's ref. 4) is the static
+  capacity-allocation account of the floor the paper claims to supersede;
+  THEORY-213 is a rival mechanism for plasticity loss, absorbing symmetric
+  subspaces, which the paper does not cite. THEORY-1264 and THEORY-1309 are
+  the record's quasi-potential escape, the object behind its §2B.
+- **The anthology.** It carries instructions for machine-learning practice
+  ("reset QK, keep OV"; schedule data by the floor; do not trust the loss
+  to show plasticity loss), which belong to the Anthology of the SOTA. The
+  author disclaims a production noise bath, offered "not as a claim that
+  production training should run with a bath on" (p. 24).
+
+## Limitations
+
+- The author's: two families to about 1B, a continued-training flux far
+  below native pretraining, small arms, K = 2–4, unproved mixing, oracle
+  gating in Theorem 1, and an ablation engine that fails after
+  delocalization.
+- The reader's:
+  - preregistration and released data are claimed but no registry or
+    address is given;
+  - several constants come from the author's own earlier report on
+    Zenodo;
+  - the per-part cost from the summed design that §4.4 withdraws ("We
+    therefore withdraw the summed family's K ≥ 3 cells as barrier
+    measurements", p. 9) is still used in §2, Figure 2's caption and §10;
+  - the parity experiment cited for "≥11×" is not reported in §4.4;
+  - with β ≈ 0.23 on real models the exponential barrier is weak there,
+    and the strong exponential evidence is the toy's.

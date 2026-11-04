@@ -1,11 +1,15 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered unread 2026-11-04 at the owner's request; a candidate source
-  for nucleation across a finite barrier as a mechanism of capability
-  formation in training ([QUESTION-281](../questions.d/QUESTION-281.md)'s route).
+  read 2026-11-04 (NOTE-tmpmn9a9) from arXiv v1; worth reading as a
+  factorized rate law for circuit formation in transformer training, with
+  emergence, plasticity loss and control read off one equation and an
+  explicit ledger of what is proved, conditional and withdrawn. Its
+  no-partial-credit fingerprints are a toy grid and an ablation test on
+  Pythia; the query–key repair rests on six seeds; mixing is unproved;
+  experiments reach 1B parameters, not the 1.4B the abstract names.
 title: 'The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-04'
@@ -17,6 +21,15 @@ history:
     cs.LG, v1 submitted 29 July 2026, which is `published:`; 40 pages, 12
     figures. The summary follows the abstract. Tagged anthology-candidate
     (ADR-005): its subject is training dynamics in language models.
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Read (NOTE-tmpmn9a9), at the owner's request, from the arXiv PDF v1;
+    status Deferred → Active. The summary is rewritten from the reading
+    and corrected: the experiments name pythia-1b and OLMo-1B as the
+    largest models, so "to 1.4B" is the abstract's scope, not a tested
+    scale, and the query–key reset was shown on Pythia-70M. The THEORY
+    is THEORY-tmpbwwow.
 tags:
 - learning-theory
 - representation-learning
@@ -28,14 +41,16 @@ first_author: 'Dong'
 keywords: []
 implementations: []
 summary: >-
-  Dong (2026) argues that a capability forms when the last missing parts of
-  its circuit align in one stochastic attempt, with no partial credit, and
-  derives a rate law, sites × attempts × drive × exp(−βK) minus
-  destruction, with K the missing parts. By the abstract, it is tested
-  three ways with preregistered constants on a controlled apparatus and on
-  Pythia models to 1.4B: ignition above a data-concentration floor,
-  plasticity loss past a critical step that validation loss does not show,
-  and a cure by re-initializing query-key slices. Unread.
+  Dong (2026) proposes one rate equation for circuit formation in
+  transformer training, sites × attempts × drive × e^(−βK) minus
+  destruction, with K the jointly necessary attention-head parts still
+  missing and no credit for partial alignment. Read forward, a capability
+  ignites above a data-concentration floor that is a saddle–node; read
+  backward, plasticity loss is depletion of uncommitted heads, invisible in
+  the loss and repaired by re-initializing query–key slices (6/6, value
+  slices 0/6, on Pythia-70M); and no native SGD knob passes its test for a
+  temperature. Pythia and OLMo, to 1B parameters in the experiments
+  reported.
 ---
 
 # LIT-tmpywx5m: The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models
@@ -44,7 +59,7 @@ Dong (2026) — [arXiv:2607.27281](https://arxiv.org/abs/2607.27281)
 
 ## Key takeaways
 
-Unread. By the abstract:
+Read (NOTE-tmpmn9a9). Its account is THEORY-tmpbwwow.
 
 - Joint alignment of a circuit's last parts, with no partial credit, is
   "the rate-limiting step of capability formation". The wait counts

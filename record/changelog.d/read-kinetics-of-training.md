@@ -1,0 +1,1 @@
+Dong, "The Kinetics of Training" (LIT-tmpywx5m), read at the owner's request: NOTE-tmpmn9a9 (Read), THEORY-tmpbwwow (Proposed), the LIT corrected to the 1B scale its experiments reach, and dated notes on QUESTION-281, QUESTION-039, QUESTION-363 and CLAIM-347.
