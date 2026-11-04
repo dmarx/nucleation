@@ -1,13 +1,17 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-04, not read. Registered from the synthesis "The
-  Evolution of Cooperation: From Coexistence to Symbiosis to Morality"
-  the owner supplied on 2026-11-04 (curation entry of that date). A
-  lawful free copy is listed on the Harvard Culture, Cognition and
-  Coevolution Lab's site; no attempt to fetch it has been made.
+  looked for 2026-11-04, not reached. A lawful free copy exists on the
+  authors' lab site:
+  https://coevolution.fas.harvard.edu/sites/projects.iq.harvard.edu/files/culture_cognition_coevol_lab/files/annurev-psych-081920-042106.pdf.
+  From this client it returns HTTP 403 with an "Access Denied" page, so
+  it was not fetched and no attempt was made to get past it. LSE
+  Research Online's record (eprints.lse.ac.uk/107611) holds no file.
+  OpenAlex and Europe PMC (no email address sent, ADR-008) list no open
+  copy, and the publisher's PDF is paywalled. A copy the owner supplies
+  returns it to reading.
 title: 'The Origins and Psychology of Human Cooperation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-04'
@@ -17,6 +21,12 @@ history:
     207–240, issued 2021-01-04. The PDF says it first appeared as a
     Review in Advance on 2020-10-02, which Crossref does not record, so
     `published:` takes Crossref's date.
+- version: 2
+  date: '2026-11-04'
+  note: >-
+    Sought for reading at the owner's request. Status Deferred →
+    Unfetched (ADR-053), with the address and the obstacle in the status
+    note.
 tags:
 - moral-psychology
 - altruism
@@ -52,7 +62,7 @@ Henrich, J., Muthukrishna, M. (2021). The Origins and Psychology of Human Cooper
 
 ## Key takeaways
 
-*Not read.* A lawful copy is listed (see the status note).
+*Not read.* A lawful copy was located and not fetched (see the status note).
 
 ## Standing in the record
 
