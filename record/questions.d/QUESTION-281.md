@@ -25,6 +25,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
+<!-- inactive-ok-file: THEORY-tmpbwwow — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-1095 — Proposed; the stabilization reading, cited as open -->
 <!-- inactive-ok-file: LIT-1642 LIT-1664 — Deferred; registered from the same exchange, unread -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-478 — Proposed or Open; neighbours cited as open -->
@@ -246,3 +247,18 @@ which none of the four routes names. [CLAIM-531](../claims.d/CLAIM-531.md) adds 
 entrenchment does not by itself give closure.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-04: Dong, "The Kinetics of Training", read
+
+Dong (2026; [LIT-2006](../literature.d/LIT-2006.md), [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md), [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) is a worked
+case of nucleation across a finite barrier in trained transformers, and it
+measures this question's three achievements apart. Creation is activated
+escape above a data-concentration floor, with memoryless waiting.
+Stabilization fails below the floor: "below the floor the capability is
+not merely never built, it cannot be held". Loss is weakest-link melting.
+The floor itself is a saddle–node, "a saddle–node (fold), not a
+transcritical exchange", so the onset under a change of data mix is a
+bifurcation crossing, not an escape. Two qualifications: the escape reading
+is conditional on mixing the paper does not prove, and since no native SGD
+knob is a temperature the process is "athermal, driven nucleation". No
+status changes.

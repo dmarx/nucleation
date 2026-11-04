@@ -80,6 +80,7 @@ supports:
 - CLAIM-361
 - CLAIM-440
 ---
+<!-- inactive-ok-file: THEORY-tmpbwwow — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
@@ -331,3 +332,17 @@ convex. It is new to the record. [CLAIM-365](CLAIM-365.md)'s Helly bound is the
 neighbouring convexity fact.
 
 No status changes.
+
+## Note of 2026-11-04: Dong, "The Kinetics of Training", read
+
+Dong (2026; [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) is related, not the same construct. Its
+all-or-nothing is over the parts of one capability, an AND over attention
+heads, not over the joint satisfiability of several demands. Its account
+of plasticity loss is a training case of this claim's horizon. On an aged
+substrate, a withheld capability and the background skills that have
+taken the heads cannot both be met at fixed drive. Rescue by data
+"requires c large enough to break the background's own pinning margin",
+which in this claim's terms changes a demand rather than relieving the
+frustration. A query–key reset reopens the heads and is a candidate for
+relief. Whether it counts depends on whether the background skills
+survive it, which the paper does not report. No status changes.
