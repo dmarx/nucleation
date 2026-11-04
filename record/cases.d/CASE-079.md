@@ -36,6 +36,7 @@ reported_in:
 - LIT-1037
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-224 — Proposed; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-079: r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities coordinated off the canvas to build, defend and overwrite images
 
@@ -152,6 +153,17 @@ What A16 adds here:
   realize their preferred outcomes*. That can expand compatibility at fixed
   tolerances." It is "organizational accommodation that alters what is
   jointly feasible". Twitch's shown tally only coordinates ([CASE-074](CASE-074.md)).
+- **Coordination need not be off the canvas (the owner, at review).**
+  Coalitions also form in response to the canvas itself: a participant
+  who recognizes a pattern can extend it from the local context alone, so
+  allegiance and endorsement can be recruited through indirect
+  communication that the canvas mediates. Off-canvas coordination is more
+  likely to succeed and persist, but it is not necessary. This qualifies
+  "only coordination can build or defend an image" above, and the reading
+  of the plans as the only influence canvas: the canvas is a channel too.
+  THEORY-224 (Adams, Fernandez and Witkowski, LIT-1034) holds the two
+  kinds, objects that spread by a local rule and are predictable from the
+  canvas, and objects copied from designs coordinated elsewhere.
 - In this record's terms, the first is relief in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, and
   [QUESTION-133](../questions.d/QUESTION-133.md) asks when differentiation gives it. A16: "Neither is
   necessarily authentic."
