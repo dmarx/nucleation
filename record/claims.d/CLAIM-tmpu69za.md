@@ -88,17 +88,17 @@ them together. Kept apart:
 
 | tolerance | crossing it means | held in |
 |---|---|---|
-| τ_i^acc, acceptance | i no longer accepts w; the sign of its endorsement turns | CLAIM-tmpgjdby |
-| τ_i^act, activation | i is active, not necessarily on the will | CLAIM-tmp8e3ye; TERM-053's note of 2026-11-04 |
+| τ_i^acc, acceptance | i no longer accepts w; the sign of its endorsement turns | [CLAIM-tmpgjdby](CLAIM-tmpgjdby.md) |
+| τ_i^act, activation | i is active, not necessarily on the will | [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md); [TERM-053](../terms.d/TERM-053.md)'s note of 2026-11-04 |
 | τ_i^int, intervention | i mobilizes to act on the will | U17 |
 
-CLAIM-tmp8e3ye is the formalization in this neighbourhood: from one
+[CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md) is the formalization in this neighbourhood: from one
 activation threshold θ it derives, for each response level ε, a
 different tolerance on the same discrepancy, (θ + κ⁻¹ logit ε − b)/α. So
 a ladder of tolerances on one divergence is what a graded response
 already gives. Nothing fixes their order. A perspective with
 τ_i^acc < d_i(w) ≤ τ_i^int no longer accepts w but does not mobilize,
-and is quiet with its channel working, which is CASE-129's third quiet
+and is quiet with its channel working, which is [CASE-129](../cases.d/CASE-129.md)'s third quiet
 arm, the raised threshold.
 
 The acceptance set is A_i = {w : d_i(w) ≤ τ_i^acc}. The propensity to
