@@ -51,13 +51,13 @@ summary: >-
   complaint", an individual as a structure over its perspectives, and the
   compatibility structure. U17 recast "complaint" as "intervention
   threshold" or "activation threshold", and U18 added that an intervention
-  need not be predicted to work to be motivating (CLAIM-tmp6zm3v). This
+  need not be predicted to work to be motivating ([CLAIM-tmp6zm3v](CLAIM-tmp6zm3v.md)). This
   claim states the corrected construct. A15 was lost in the export; A16
   carries the construction, in U15's terms. Narrowed: the complex is
-  CLAIM-347's, and the individual as a structure over perspectives is
-  CLAIM-417's. What is new is the per-perspective threshold factored from
+  [CLAIM-347](CLAIM-347.md)'s, and the individual as a structure over perspectives is
+  [CLAIM-417](CLAIM-417.md)'s. What is new is the per-perspective threshold factored from
   the channel, and the reader's reading of it as Frankfurt's satisfaction
-  (THEORY-120). The construct is the owner's. The wording is A's,
+  ([THEORY-120](../theory.d/THEORY-120.md)). The construct is the owner's. The wording is A's,
   sharpened by the reader; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-364 CLAIM-417 LIT-695 THEORY-054 THEORY-120 THEORY-152 CLAIM-tmp6zm3v CLAIM-tmp7oo4d CLAIM-tmp8e3ye TERM-tmp0evbm — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
@@ -70,7 +70,7 @@ summary: >-
 perspective that measures its "likelihood of communicating a complaint".
 U17 recast that as an "intervention threshold" or "activation threshold".
 U18 then said that an intervention need not be predicted to be effective
-to be motivating (CLAIM-tmp6zm3v). The construct is therefore a threshold
+to be motivating ([CLAIM-tmp6zm3v](CLAIM-tmp6zm3v.md)). The construct is therefore a threshold
 on mobilizing to intervene, not on objecting in words, and not on
 expecting success.
 
@@ -87,25 +87,25 @@ The propensity is graded:
 
 the probability that i mobilizes to intervene, given that it has
 recognized the discrepancy and has a channel. τ_i is the discrepancy at
-which q_i = ½. CLAIM-tmp8e3ye derives τ_i from an activation threshold,
+which q_i = ½. [CLAIM-tmp8e3ye](CLAIM-tmp8e3ye.md) derives τ_i from an activation threshold,
 relative to a context's baseline and gain.
 
 **The channel is separate (A16 §2).** The intervention that can be
 observed is p_i(w) = s_i(w) q_i(w). Here s_i is the chance that the
-discrepancy is legible (TERM-064) and a channel carries the intervention.
+discrepancy is legible ([TERM-064](../terms.d/TERM-064.md)) and a channel carries the intervention.
 A16: "This factorization is an assumption about the communication
 mechanism; it is not a general identity." It "lets us distinguish a
 tolerant perspective from a silenced perspective." A15's opening:
-"silence cannot automatically count as endorsement." In TERM-053's
+"silence cannot automatically count as endorsement." In [TERM-053](../terms.d/TERM-053.md)'s
 sense, an intervention that is taken up and lowers the current will's
 influence is negative endorsement. An intervention with no channel is
 not, and neither is its absence.
 
 **The complex (A16 §5).** 𝒦_τ = {S ⊆ P : some attainable history's will
 lies within τ_i for every i in S}. It is downward closed, as in
-CLAIM-347. Pairwise compatibility does not give joint compatibility, as
-in CASE-119. The budget form, three perspectives sharing two units, is in
-CASE-119's note of 2026-11-04.
+[CLAIM-347](CLAIM-347.md). Pairwise compatibility does not give joint compatibility, as
+in [CASE-119](../cases.d/CASE-119.md). The budget form, three perspectives sharing two units, is in
+[CASE-119](../cases.d/CASE-119.md)'s note of 2026-11-04.
 
 **Observed against required (A16 §7).** A second complex, of the wills at
 which observed intervention rates stay below set bounds, can be larger
@@ -114,33 +114,33 @@ acceptance condition. Threshold and channel part only under
 intervention: a changed threshold "should shift the response to
 discrepancies under a fixed channel; suppression should change the
 channel's efficacy while the underlying rejection remains". This is
-CLAIM-364 and CASE-129, and THEORY-152's voice as a feedback channel.
+[CLAIM-364](CLAIM-364.md) and [CASE-129](../cases.d/CASE-129.md), and [THEORY-152](../theory.d/THEORY-152.md)'s voice as a feedback channel.
 
-**Read as Frankfurt's satisfaction (the reader's).** THEORY-120 reports
+**Read as Frankfurt's satisfaction (the reader's).** [THEORY-120](../theory.d/THEORY-120.md) reports
 Frankfurt's later criterion of identification as "satisfaction", "an
-absence of 'restlessness or resistance'" (LIT-296, n. 1, by report). It
+absence of 'restlessness or resistance'" ([LIT-296](../literature.d/LIT-296.md), n. 1, by report). It
 holds his 2004 condition first-hand: "no conflict in us between this
-motive and any desire at any higher order" (LIT-293, p. 178). The owner's
+motive and any desire at any higher order" ([LIT-293](../literature.d/LIT-293.md), p. 178). The owner's
 two thresholds match Frankfurt's two words:
 
 - **resistance** is a perspective past its intervention threshold;
 - **restlessness** is a perspective past its activation threshold, active
-  without intervening (TERM-053's note of 2026-11-04 separates the two).
+  without intervening ([TERM-053](../terms.d/TERM-053.md)'s note of 2026-11-04 separates the two).
 
 So:
 
 - an individual is wholehearted at w, in this sense, when every
   perspective it maintains is below both thresholds at w;
 - that is a face of the quiescent complex, not of the requirement complex.
-  By CLAIM-tmp7oo4d the two can differ. An individual whose demands cannot
+  By [CLAIM-tmp7oo4d](CLAIM-tmp7oo4d.md) the two can differ. An individual whose demands cannot
   be jointly met can still be quiet, if its thresholds are high enough.
-  That is resigned acceptance, which THEORY-120 records as disputed: low
+  That is resigned acceptance, which [THEORY-120](../theory.d/THEORY-120.md) records as disputed: low
   intervention at high discrepancy;
 - an individual whose quiescent complex lacks the full face cannot be
-  wholehearted, whatever higher-order volition (TERM-tmp0evbm) it forms.
+  wholehearted, whatever higher-order volition ([TERM-tmp0evbm](../terms.d/TERM-tmp0evbm.md)) it forms.
   Its minimal non-faces are its minimal ambivalences;
-- the graded q_i gives a graded form of what THEORY-120 makes all or
-  nothing. That meets THEORY-054's objection inside Frankfurt's own
+- the graded q_i gives a graded form of what [THEORY-120](../theory.d/THEORY-120.md) makes all or
+  nothing. That meets [THEORY-054](../theory.d/THEORY-054.md)'s objection inside Frankfurt's own
   criterion.
 
 ## What it does not say
@@ -148,13 +148,13 @@ So:
 - **That the perspectives' acceptance is the person's identification.** A
   perspective's volition is not the person's. A14 §5: "That attribution
   is precisely the ownership problem we haven't settled." That is
-  QUESTION-071 and CLAIM-022.
-- **That the satisfaction reading is Frankfurt's.** LIT-695, where
+  [QUESTION-071](../questions.d/QUESTION-071.md) and [CLAIM-022](CLAIM-022.md).
+- **That the satisfaction reading is Frankfurt's.** [LIT-695](../literature.d/LIT-695.md), where
   satisfaction is introduced, is unread. The reading rests on report.
 - **That a full face makes an individual.** A16 §8: a population can share
   a jointly acceptable will with no maintained organization, and an
   individual can stay unified with an incomplete complex.
-- **That raising a threshold relieves frustration.** By CLAIM-347, it
+- **That raising a threshold relieves frustration.** By [CLAIM-347](CLAIM-347.md), it
   changes the demand.
 - **That the logistic is a psychological law.** A16 calls it "a modeling
   convention, not an empirically established psychological law."
