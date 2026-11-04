@@ -132,8 +132,8 @@ detecting and resolving problems", and that attention and control are
 
 - **Cognitive dysregulation.** (a) Read as attentional (§7). (b) In DBT's
   sense, A would have proposed that high activation narrows the
-  interpretation governance can draw on. (c) None; the owner's intent is
-  for the owner.
+  interpretation governance can draw on. At the owner's review this is
+  its own claim, CLAIM-tmp99a8m, standing beside (a). (c) None.
 - **Experiential avoidance.** (a) §2 avoids a task. (b) In ACT's sense
   ([THEORY-050](../theory.d/THEORY-050.md)) the protective perspective avoids anticipated private
   events. (c) None.

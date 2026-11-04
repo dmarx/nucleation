@@ -12,6 +12,7 @@
   - activation does not require expected success ([CLAIM-tmp6zm3v](record/claims.d/CLAIM-tmp6zm3v.md), U18);
   - tolerance derived from threshold ([CLAIM-tmp8e3ye](record/claims.d/CLAIM-tmp8e3ye.md), U15 → U17 → U19).
 - Two of A's claims, each Proposed: niche differentiation as relief of structural frustration ([CLAIM-tmpv67b2](record/claims.d/CLAIM-tmpv67b2.md)), and the quiescent complex is not the requirement complex ([CLAIM-tmp7oo4d](record/claims.d/CLAIM-tmp7oo4d.md)).
+- At the owner's review, the DBT reading of U29's "cognitive dysregulation" as its own Proposed claim (CLAIM-tmp99a8m), beside A29's attentional reading, grounded in Crowell, Beauchaine and Linehan (2009), registered and skimmed (LIT-tmp6tcgp, NOTE-tmplst26).
 - Two Proposed terms: higher-order volition ([TERM-tmp0evbm](record/terms.d/TERM-tmp0evbm.md)), the reflective sense of "endorse", kept apart from [TERM-053](record/terms.d/TERM-053.md); and motivating perspective ([TERM-tmpszrpp](record/terms.d/TERM-tmpszrpp.md)).
 - A question holding the owner's U19 chain ([QUESTION-tmpu6o08](record/questions.d/QUESTION-tmpu6o08.md)).
 - Four constructions, with scripts in scratch/formal/:
