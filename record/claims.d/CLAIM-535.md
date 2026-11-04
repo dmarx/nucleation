@@ -43,6 +43,7 @@ summary: >-
   sets, legibility is relative to policy. A positive characterization of
   what legibility must supply for action.
 ---
+<!-- inactive-ok-file: CLAIM-tmp4pk8d — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 
 # CLAIM-535: An organization that acts on what it observes has a policy acceptable in every circumstance exactly when, for each observation, the circumstances it cannot tell apart share an acceptable action; so every circumstance having an acceptable action does not give a policy, a finer observation never removes one, and where acceptable actions overlap the coarsest observations that suffice are several and incomparable, so which distinctions must be made legible depends on which acceptable action the organization commits to
 
@@ -92,3 +93,7 @@ The page's Scenario 2 ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) dispatch
 ## Note of 2026-11-04: Ratliff, Dong, Sekar and Fiez, "A Perspective on Incentive Design", read
 
 The moral-hazard case Ratliff et al. (2019), [LIT-tmpsj5c6](../literature.d/LIT-tmpsj5c6.md), review is a principal who "is unable to observe the action u ∈ U chosen by the agent" (p. 10) and must condition incentives on a coarser signal. This claim is the same observation-limited design problem without a strategic agent, so it is the natural baseline, and the reading qualifies it there. The paper does not say how strategic response changes which distinctions must be made legible. No status changes.
+
+## Note of 2026-11-04: observations that arrive in sequence
+
+A's CLAIM-tmp4pk8d (Proposed) carries this claim to two stages: as the first unit's report arrives, the acceptable action changes from dispatch to cancel under one objective, so a reversal is not by itself evidence of error. The claim is unchanged.

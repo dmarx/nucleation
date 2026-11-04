@@ -57,6 +57,7 @@ corroborated_by:
 bears_on:
 - QUESTION-101
 ---
+<!-- inactive-ok-file: CLAIM-tmpvhj8j TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: NOTE-tmpxzaki NOTE-tmpy7mc8 NOTE-tmpdnqqh LIT-tmpum63p LIT-tmpt3a4i LIT-tmpjzyct — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
 
@@ -145,3 +146,7 @@ The NFIRS guidance ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) records sep
 ## Note of 2026-11-04: the emergency-service location models, read through neighbours (Larson and Odoni; de Oliveira, de Sá and Martins; Mukhopadhyay et al.)
 
 Larson's hypercube model, Daskin's MEXCLP and ReVelle and Hogan's MALP ([LIT-tmpum63p](../literature.d/LIT-tmpum63p.md), [LIT-tmpt3a4i](../literature.d/LIT-tmpt3a4i.md), [LIT-tmpjzyct](../literature.d/LIT-tmpjzyct.md), all unread) were read through neighbours, and all three give a formal case of the gap between having a resource and being able to deploy it by a deadline. In the hypercube model (Larson and Odoni, [NOTE-tmpxzaki](../notes.d/NOTE-tmpxzaki.md), prose only), a unit busy on another call is present but not deployable, and the units of last resort are deployable only when the system is saturated. In MEXCLP and MALP (de Oliveira, de Sá and Martins, [NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md), §2), a covering ambulance that is busy does not count, and the chance that one of k covering servers is free is 1 − b^k under independence. The review by Mukhopadhyay et al. ([NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md), §6.1) sorts deterministic coverage models, in which "Resources at a facility are considered to be always available", from probabilistic ones. In all of them unavailability comes from congestion alone, with no cue or knowledge component, so they qualify the claim's deployable tier and leave the first two untouched. No status changes.
+
+## Note of 2026-11-04: deployability under a policy
+
+A's CLAIM-tmpvhj8j and TERM-tmpuc919 (both Proposed) carry the split between having and deploying to an organization. Equipment present and staff qualified do not give readiness if a complementary capacity is absent or the policy does not mobilize them, and since readiness is a joint probability, one resource's utilization need not track it. The claim is unchanged.

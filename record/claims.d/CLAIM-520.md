@@ -31,6 +31,7 @@ summary: >-
   the record's constructions do not establish that corrigibility ought to
   be kept, is [ARG-042](../arguments.d/ARG-042.md), which this claim undercuts.
 ---
+<!-- inactive-ok-file: CLAIM-tmp5rh3v ARG-tmp5fhgc ARG-042 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: NOTE-tmp4f0ld NOTE-tmpbp6yl NOTE-tmpsnl7o — Skimmed; the neighbours read for Smallwood and Sondik, Halfin and Whitt, and Jordan and Graves, cited from the reading of 2026-11-04 as open -->
 
 # CLAIM-520: The value of keeping a corrective capacity is conditional on objectives, uncertainty and cost: a free, optional audit cannot lower a single time-consistent decision-maker's expected performance, but an audit that costs C to maintain and bears on k decisions with error rate ε is worth k(0.25 − 0.5ε) − C in the exchange's model, negative when C is large or k small, and where no hypothesis fits the world, correction gains no reward and improves only calibration
@@ -80,3 +81,7 @@ Skimmed in [NOTE-tmpbp6yl](../notes.d/NOTE-tmpbp6yl.md) as the stand-in for Half
 ## Note of 2026-11-04: Chou, Chua, Teo and Zheng, "Design for Process Flexibility", read
 
 Skimmed in [NOTE-tmpsnl7o](../notes.d/NOTE-tmpsnl7o.md) as the stand-in for Jordan and Graves (1995). It supports the claim in kind. Full flexibility is costly, and a sparse long chain keeps at least 89% (uniform demand) or 96% (normal demand) of its expected sales, so the cheaper design is preferred. That comparison is of standing re-routing capacity under independent demand. It leaves open capacities kept for rare events, and under correlated demand a sparse design can lose almost everything. No status changes.
+
+## Note of 2026-11-04: the same conditionality for a dispatched resource
+
+A's CLAIM-tmp5rh3v (Proposed) gives the dispatch analogue: provisional dispatch pays when p > (c0 + g)/(H + c0 − c1), which can be about 0.14, so neither a cancellation rate nor low use shows waste. ARG-tmp5fhgc (Rejected) is the counterpart of ARG-042. The claim is unchanged.

@@ -72,6 +72,7 @@ supports:
 - CLAIM-427
 - CLAIM-454
 ---
+<!-- inactive-ok-file: CASE-tmpoo2tj — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 
 # CLAIM-414: Matched ordinary trajectories can conceal differences in an interpretation's efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not
 
@@ -218,3 +219,7 @@ Oskar and colleagues' review ([LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md)) s
 ## Note of 2026-11-04: U.S. Fire Administration, "Dispatched and Canceled en Route", read
 
 A call cancelled en route ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) is an ordinary trajectory in which the dispatched rescue capability was never exercised, so such records cannot show whether that capability was maintained. That qualifies the claim with an operational case. The page itself claims nothing about capability. No status changes.
+
+## Note of 2026-11-04: a capability concealed by matched routine output
+
+A's CASE-tmpoo2tj (fictional) has two departments with the same incident history and zero extrications, of which only one can meet an imposed time-critical extrication. It is this claim's pattern carried from interpretation to a maintained capability, and it illustrates the claim without bearing its weight. The claim is unchanged.

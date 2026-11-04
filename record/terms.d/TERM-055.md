@@ -26,6 +26,7 @@ complements:
 - TERM-064
 - TERM-085
 ---
+<!-- inactive-ok-file: TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: LIT-1065 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
 
@@ -92,3 +93,7 @@ knowing it is present, applied to rights, as A8 proposed for [CASE-172](../cases
 Whether the book's chapters give a measure of that loss is not known from
 this reading; take-up is the introduction's only one. The term is
 unchanged.
+
+## Note of 2026-11-04: response readiness, proposed beside it
+
+A proposed TERM-tmpuc919: the probability that an organization under its actual policy responds effectively to an imposed contingency by its deadline. It is organizational, takes the policy as followed rather than the supremum over procedures, and includes recognition and mobilization, so resources each available in this term's sense can still give low readiness when the dispatch policy fails to mobilize them. The two complement each other. The term is unchanged.

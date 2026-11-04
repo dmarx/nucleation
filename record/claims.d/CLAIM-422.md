@@ -74,6 +74,7 @@ complements:
 supports:
 - CLAIM-462
 ---
+<!-- inactive-ok-file: CLAIM-tmpvhj8j — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: LIT-tmpr53a0 — Unfetched; Tatel and Ackerman (2025), cited from the reading of 2026-11-04 as the article the dissertation precedes -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -174,3 +175,7 @@ Tatel's dissertation ([LIT-tmplozja](../literature.d/LIT-tmplozja.md)), the prec
 ## Note of 2026-11-04: Oskar et al., "Procedural Skills Decay in Emergency Medicine", read
 
 Oskar and colleagues' scoping review ([LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md)) supports the claim weakly and empirically. Emergency-medicine programmes run curricula and count procedures, yet, by a 2020 survey the review cites, "most programs lack a formalized method to assess and maintain attending physician procedural competency". The review gives no decay rates, and its evidence that maintenance goes unassessed is second-hand. It leaves open how far the gap between credential and maintained capacity matters clinically. No status changes.
+
+## Note of 2026-11-04: a maintained capacity among complements
+
+A's CLAIM-tmpvhj8j (Proposed) adds that a maintained capacity is worth what its complements let it deliver: with the material resources absent, proficiency cannot produce success. The claim is unchanged.
