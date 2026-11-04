@@ -137,11 +137,7 @@ tiles ([THEORY-218](../theory.d/THEORY-218.md)).
 
 ## Note of 2026-11-04: accommodation that enlarges what is feasible, from "Organizational Nucleation and SLT"
 
-The owner's U16 named "the twitch-plays-pokemon and /r/all CASEs". No
-r/all case is held. A16: "The closest existing Reddit case I found is
-CASE-079 on r/place, not one explicitly titled `/r/all`." A26 repeated it.
-Whether the owner meant this case or a new one on the r/all feed is the
-owner's to say.
+The owner's U16 pointed to the Twitch Plays Pokémon cases and this one.
 
 What A16 adds here:
 

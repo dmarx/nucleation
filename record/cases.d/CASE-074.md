@@ -126,8 +126,8 @@ The case is unchanged.
 
 ## Note of 2026-11-04: the mode vote as a rule for selecting actions, from "Organizational Nucleation and SLT"
 
-The owner's U16: "I think the twitch-plays-pokemon and /r/all CASEs might
-be particularly illuminating here." A16 used this case and [CASE-075](CASE-075.md).
+The owner's U16 pointed to the Twitch Plays Pokémon and r/place cases as
+"particularly illuminating here". A16 used this case and [CASE-075](CASE-075.md).
 
 - **A command vote is not a complaint.** A16 §3: a chat command is
   "ordinarily a **first-order intervention**, not necessarily a
@@ -144,6 +144,4 @@ be particularly illuminating here." A16 used this case and [CASE-075](CASE-075.m
   case of expressed opinion leaving private opinion with no member changing
   belief.
 
-"/r/all" in U16 matches no entry. The record holds no r/all case. A16 and
-A26 both took the Reddit case to be [CASE-079](CASE-079.md), r/place. The owner did not
-correct this. No status changes.
+The Reddit case is [CASE-079](CASE-079.md), r/place. No status changes.
