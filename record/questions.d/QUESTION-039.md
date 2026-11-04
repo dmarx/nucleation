@@ -49,7 +49,7 @@ bearing:
 - THEORY-187
 - THEORY-086
 ---
-<!-- inactive-ok-file: THEORY-tmpbwwow — Proposed or Open; cited from the reading of Dong (2026) as open -->
+<!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-279 — Proposed; partial answers filed in the last two days, cited with their limits -->
 
 # QUESTION-039: What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?
@@ -120,7 +120,7 @@ The question is unchanged.
 
 ## Note of 2026-11-04: Dong, "The Kinetics of Training", read
 
-Dong (2026; [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) answers this question for conjunction
+Dong (2026; [THEORY-1353](../theory.d/THEORY-1353.md)) answers this question for conjunction
 circuits in transformers to about 1B parameters. The moment is dated by a
 precursor clock, prospective for induction heads only (six unseen models,
 median error 5.0%). The order is cheap stages first and the joint

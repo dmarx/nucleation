@@ -80,7 +80,7 @@ supports:
 - CLAIM-361
 - CLAIM-440
 ---
-<!-- inactive-ok-file: THEORY-tmpbwwow — Proposed or Open; cited from the reading of Dong (2026) as open -->
+<!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
@@ -335,7 +335,7 @@ No status changes.
 
 ## Note of 2026-11-04: Dong, "The Kinetics of Training", read
 
-Dong (2026; [THEORY-tmpbwwow](../theory.d/THEORY-tmpbwwow.md)) is related, not the same construct. Its
+Dong (2026; [THEORY-1353](../theory.d/THEORY-1353.md)) is related, not the same construct. Its
 all-or-nothing is over the parts of one capability, an AND over attention
 heads, not over the joint satisfiability of several demands. Its account
 of plasticity loss is a training case of this claim's horizon. On an aged

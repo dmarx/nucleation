@@ -4,7 +4,7 @@
 
 **myth-and-folklore**.
 
-5 of 1539 NOTE documents. Back to the [full index](../README.md).
+5 of 1540 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -1,5 +1,8 @@
 ---
+number: 1353
 status: Proposed
+formerly:
+- THEORY-tmpbwwow
 promote_when: >-
   An independent group, on models and code not the author's, replicates
   the three fingerprints the title names: formation time flat across total
@@ -24,7 +27,7 @@ rivals:
 - THEORY-213
 - THEORY-293
 summary: >-
-  Dong (2026), read in [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md). One rate equation, sites × attempts
+  Dong (2026), read in [NOTE-1540](../notes.d/NOTE-1540.md). One rate equation, sites × attempts
   × drive × e^(−βK) minus destruction, with K the missing parts. Forward,
   a capability ignites above a data-concentration floor that is a
   saddle–node; backward, plasticity loss is site depletion, silent in the
@@ -35,11 +38,11 @@ summary: >-
   unproved.
 ---
 
-# THEORY-tmpbwwow: In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can
+# THEORY-1353: In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can
 
 ## Source
 
-Dong (2026), [LIT-2006](../literature.d/LIT-2006.md), read in [NOTE-tmpmn9a9](../notes.d/NOTE-tmpmn9a9.md).
+Dong (2026), [LIT-2006](../literature.d/LIT-2006.md), read in [NOTE-1540](../notes.d/NOTE-1540.md).
 
 ## What was actually shown
 

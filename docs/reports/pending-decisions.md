@@ -9,7 +9,7 @@
 
 ## LITs
 
-42 of the 928.
+41 of the 928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -54,11 +54,10 @@
 | 2026-11-01 | Deferred | [LIT-1940](../../record/literature.d/LIT-1940.md) | 0 | 3 | 1 | Ecological scaffolding and the evolution of individuality |
 | 2026-11-01 | Deferred | [LIT-1935](../../record/literature.d/LIT-1935.md) | 0 | 2 | 2 | Can models of evolutionary transition clarify the debates over the Neolithic Revolution? |
 | 2026-11-01 | Deferred | [LIT-1937](../../record/literature.d/LIT-1937.md) | 0 | 2 | 1 | The Units of Evolutionary Transition |
-| 2026-11-04 | Deferred | [LIT-2006](../../record/literature.d/LIT-2006.md) | 0 | 1 | 1 | The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models |
 
 ## THEORYs
 
-609 of the 928.
+610 of the 928.
 
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
@@ -670,6 +669,7 @@
 | 2026-11-03 | Proposed | [THEORY-1334](../../record/theory.d/THEORY-1334.md) | 0 | 2 | 0 | Persona shifts induced by prompting and by finetuning are mediated by the same linear trait directions, so finetuning on data that implies a trait moves the model along the trait's persona vector as a system prompt would; Chen et al. suspect personas are latent factors that persist across many tokens |
 | 2026-11-03 | Proposed | [THEORY-1339](../../record/theory.d/THEORY-1339.md) | 0 | 2 | 0 | In multi-turn conversations a chat model's persona is not fixed for the episode: its position along the Assistant Axis is set mainly by the most recent user message (ridge R² 0.53–0.77 from message embeddings) rather than by where it was before (R² 0.10 for the change), so that therapy-like and AI-philosophy conversations drift away from the Assistant and coding and writing ones do not |
 | 2026-11-03 | Proposed | [THEORY-1340](../../record/theory.d/THEORY-1340.md) | 0 | 1 | 0 | Training forms a task-defined, low-dimensional subregion of prefrontal and premotor population activity (a preparatory subspace, an axis of choice organized as a line attractor) that constrains a monkey's delayed response top down, holding behavior to what the task requires while the trial's cue and evidence select within it; Juarrero's reading of Churchland et al. 2012 and Mante, Sussillo et al. 2013 as governing constraints and as neural correlates of prior and proximate intentions |
+| 2026-11-04 | Proposed | [THEORY-1353](../../record/theory.d/THEORY-1353.md) | 0 | 6 | 2 | In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can |
 | 2026-11-04 | Proposed | [THEORY-1351](../../record/theory.d/THEORY-1351.md) | 0 | 3 | 0 | In West, Fisher, Gardner and Kiers's account, a transition in individuality is defined by two separable conditions, mutual dependence (parts that once replicated alone can replicate only within the larger unit) and negligible within-group conflict, and proceeds by forming a cooperative group and then transforming it, with no clear border between the steps; across transitions what explains them is an ecological benefit to cooperation together with group formation that unites the members' interests (clonal bottlenecks, lifetime monogamy, vertical transmission of clonal symbionts), while kin discrimination and the repression of competition played relatively minor roles |
 
 ## ADRs
@@ -679,7 +679,7 @@
 | Open since | Status | Code | Relied on | Cited | Unack. | Title |
 |---|---|---|--:|--:|--:|---|
 | 2026-10-22 | Deferred | [ADR-050](../../record/decisions.d/ADR-050.md) | 0 | 5 | 0 | A claim that calls something organized, a perspective, an agent, effective, exhausted, constituted or grounded says which sense, target or criterion it means |
-| 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 4 | 0 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
+| 2026-11-04 | Proposed | [ADR-068](../../record/decisions.d/ADR-068.md) | 0 | 5 | 1 | Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice |
 
 ## QUESTIONs
 

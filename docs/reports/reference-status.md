@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**814 documents cited without acknowledgement.** Not listed: 15561 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**815 documents cited without acknowledgement.** Not listed: 15565 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1218,7 +1218,7 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 
 - [`record/claims.d/CLAIM-039.md:45`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-283.md:143`](../../record/claims.d/CLAIM-283.md)
-- [`record/claims.d/CLAIM-347.md:287`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:288`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-432.md:18`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-432.md:225`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-436.md:190`](../../record/claims.d/CLAIM-436.md)
@@ -1296,7 +1296,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 - [`record/literature.d/LIT-1940.md:43`](../../record/literature.d/LIT-1940.md)
 - [`record/notes.d/NOTE-111.md:108`](../../record/notes.d/NOTE-111.md)
 - [`record/questions.d/QUESTION-118.md:202`](../../record/questions.d/QUESTION-118.md)
-- [`record/questions.d/QUESTION-281.md:228`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:229`](../../record/questions.d/QUESTION-281.md)
 - [`record/terms.d/TERM-070.md:75`](../../record/terms.d/TERM-070.md)
 
 ### [CLAIM-220](../../record/claims.d/CLAIM-220.md) — Proposed
@@ -2457,8 +2457,8 @@ Relief of an organization's frustration must be judged for an identified organiz
 - [`record/cases.d/CASE-124.md:158`](../../record/cases.d/CASE-124.md)
 - [`record/cases.d/CASE-169.md:120`](../../record/cases.d/CASE-169.md)
 - [`record/cases.d/CASE-169.md:180`](../../record/cases.d/CASE-169.md)
-- [`record/claims.d/CLAIM-347.md:105`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:238`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:106`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:239`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-448.md:103`](../../record/claims.d/CLAIM-448.md)
 - [`record/questions.d/QUESTION-131.md:146`](../../record/questions.d/QUESTION-131.md)
 - [`record/terms.d/TERM-060.md:182`](../../record/terms.d/TERM-060.md)
@@ -3638,8 +3638,8 @@ A whole can be compared in agency with its parts, relative to a chosen decomposi
 7 citations in 3 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:28`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:258`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:286`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:259`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:287`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-368.md:29`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:147`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:217`](../../record/claims.d/CLAIM-368.md)
@@ -4920,7 +4920,7 @@ No single ranking of translations holds across tasks: where distortion profiles 
 4 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:78`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:250`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:251`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-354.md:64`](../../record/claims.d/CLAIM-354.md)
 - [`record/claims.d/CLAIM-354.md:142`](../../record/claims.d/CLAIM-354.md)
 
@@ -5219,7 +5219,7 @@ Individuation in Light of Notions of Form and Information
 - [`record/claims.d/CLAIM-477.md:348`](../../record/claims.d/CLAIM-477.md)
 - [`record/claims.d/CLAIM-526.md:111`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1902.md:77`](../../record/literature.d/LIT-1902.md)
-- [`record/questions.d/QUESTION-281.md:195`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:196`](../../record/questions.d/QUESTION-281.md)
 
 ### [LIT-197](../../record/literature.d/LIT-197.md) — Unavailable
 
@@ -5417,7 +5417,7 @@ The later phases reported in neural-network training differ in kind: after the t
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-039.md:26`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:70`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:71`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-075](../../record/theory.d/THEORY-075.md) — Proposed
 
@@ -5493,8 +5493,8 @@ In the toy model of superposition, SGD's transitions have Bayesian counterparts 
 
 - [`record/literature.d/LIT-1894.md:11`](../../record/literature.d/LIT-1894.md)
 - [`record/literature.d/LIT-1894.md:74`](../../record/literature.d/LIT-1894.md)
-- [`record/questions.d/QUESTION-363.md:44`](../../record/questions.d/QUESTION-363.md)
-- [`record/questions.d/QUESTION-363.md:67`](../../record/questions.d/QUESTION-363.md)
+- [`record/questions.d/QUESTION-363.md:45`](../../record/questions.d/QUESTION-363.md)
+- [`record/questions.d/QUESTION-363.md:68`](../../record/questions.d/QUESTION-363.md)
 
 ### [THEORY-1278](../../record/theory.d/THEORY-1278.md) — Proposed
 
@@ -5505,7 +5505,7 @@ Communication can be treated as transduction, the continuity of an action throug
 - [`record/claims.d/CLAIM-430.md:234`](../../record/claims.d/CLAIM-430.md)
 - [`record/literature.d/LIT-1902.md:83`](../../record/literature.d/LIT-1902.md)
 - [`record/literature.d/LIT-1912.md:78`](../../record/literature.d/LIT-1912.md)
-- [`record/questions.d/QUESTION-281.md:207`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:208`](../../record/questions.d/QUESTION-281.md)
 
 ### [THEORY-1279](../../record/theory.d/THEORY-1279.md) — Proposed
 
@@ -7514,7 +7514,7 @@ Pattern formation outside of equilibrium
 2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-527.md:6`](../../record/literature.d/LIT-527.md)
-- [`record/questions.d/QUESTION-281.md:93`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:94`](../../record/questions.d/QUESTION-281.md)
 
 ### [NOTE-696](../../record/notes.d/NOTE-696.md) — Skimmed
 
@@ -8000,7 +8000,7 @@ Micropolitics is the modulation of a relational field toward a maximally inclusi
 2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1484.md:213`](../../record/notes.d/NOTE-1484.md)
-- [`record/questions.d/QUESTION-281.md:210`](../../record/questions.d/QUESTION-281.md)
+- [`record/questions.d/QUESTION-281.md:211`](../../record/questions.d/QUESTION-281.md)
 
 ### [THEORY-1298](../../record/theory.d/THEORY-1298.md) — Proposed
 
@@ -8019,6 +8019,15 @@ Kane answers the luck objection by making indeterminism a hindrance inside goal-
 
 - [`record/literature.d/LIT-1984.md:40`](../../record/literature.d/LIT-1984.md)
 - [`record/theory.d/THEORY-1329.md:50`](../../record/theory.d/THEORY-1329.md)
+
+### [THEORY-1353](../../record/theory.d/THEORY-1353.md) — Proposed
+
+In transformer language models to about 1B parameters, a conjunction circuit forms when its last missing parts align together in one stochastic attempt, with no credit for partial alignment, so its formation time depends on how many parts are missing and not on its size, and ablating one part collapses the capability; plasticity loss is the same law read backward, a depletion of uncommitted attention heads that more data cannot undo and re-initializing query–key weights can
+
+2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2006.md:35`](../../record/literature.d/LIT-2006.md)
+- [`record/literature.d/LIT-2006.md:65`](../../record/literature.d/LIT-2006.md)
 
 ### [THEORY-143](../../record/theory.d/THEORY-143.md) — Proposed
 
@@ -8081,7 +8090,7 @@ On sparse hierarchical data, deep networks become insensitive to swapping synony
 2 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:26`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:68`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:69`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-201](../../record/theory.d/THEORY-201.md) — Proposed
 
@@ -8262,6 +8271,14 @@ Sparse-autoencoder features of a large language model's residual stream are unit
 
 - [`record/questions.d/QUESTION-360.md:55`](../../record/questions.d/QUESTION-360.md)
 - [`record/terms.d/TERM-098.md:75`](../../record/terms.d/TERM-098.md)
+
+### [ADR-068](../../record/decisions.d/ADR-068.md) — Proposed
+
+Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1540.md:19`](../../record/notes.d/NOTE-1540.md)
 
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 
@@ -9030,14 +9047,6 @@ Psychological Need Thwarting in the Sport Context: Assessing the Darker Side of 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-1533.md:148`](../../record/notes.d/NOTE-1533.md)
-
-### [LIT-2006](../../record/literature.d/LIT-2006.md) — Deferred
-
-The Kinetics of Training: A Driven-Nucleation Rate Law for Emergence, Plasticity Loss, and Circuit Control in Language Models
-
-1 citation in 1 file awaits a look.
-
-- [`record/questions.d/QUESTION-275.md:317`](../../record/questions.d/QUESTION-275.md)
 
 ### [LIT-201](../../record/literature.d/LIT-201.md) — Unavailable
 
