@@ -41,7 +41,7 @@ summary: >-
   within groups is bought by group extinction. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-545 THEORY-468 LIT-tmpblw9a — Proposed, Deferred or new; cited as open -->
+<!-- inactive-ok-file: CLAIM-545 THEORY-468 THEORY-tmpmr4g4 — Proposed or new; cited as open -->
 
 # CLAIM-tmpjnqe9: Cooperation within groups and the coexistence of groups are distinct targets that can trade off: in the group-selection rule of Nowak's five, b/c > 1 + n/m, cooperation spreads because a group that grows to size n splits and another group is driven extinct, so the mechanism that stabilizes cooperation inside groups works by removing groups; cooperation local to a group, the persistence of several groups whose interests are opposed, and concern for those outside one's group are three achievements, and none of them secures the next
 
@@ -87,4 +87,28 @@ The record's other entries put this in two places:
   by construction.
 - **That impartial concern is the right standard.** Which of the three a
   moral framework should serve is open ([QUESTION-tmp22a7y](../questions.d/QUESTION-tmp22a7y.md)).
-- **Anything the review shows.** It is unread.
+- **That the review shows the trade-off for groups' persistence.** See
+  the note below.
+
+## Note of 2026-11-04: Van Lange and Bergmann, read
+
+Read in NOTE-tmpeqzkm, with THEORY-tmpmr4g4 from it. It supports one link:
+"the same processes that can establish ingroup cooperation can also fuel
+intergroup conflict" (p. 554). Its contrast of group-based and
+individual-based morality (p. 555) backs the remark that THEORY-468's
+group-loyalty domain can work against the coexistence of groups. Three
+things qualify the claim.
+
+- **The review is about cooperation and conflict between groups, not
+  their persistence.** It says nothing on extinction or on impartial
+  concern. It does not take up Nowak's rule.
+- **The trade-off is conditional.** In-group favouritism "need not imply
+  ... any harmful behaviour towards outgroups" (p. 553). Costly competition
+  needs conflicting interests, real or perceived (p. 554). That fits "can
+  trade off, not must".
+- **A second route to fewer groups.** The review's success case is groups
+  that cooperate until they "merge into larger collectives that transcend
+  former group boundaries" (p. 555). Cooperation between groups can
+  therefore also fail to secure their coexistence, by merger rather than
+  extinction. This is the coexistence-to-integration step the synthesis
+  draws from endosymbiosis, met again at the scale of groups.

@@ -52,3 +52,13 @@ form.
   whether processes sharing an update rule can come to hold mutually
   regulated authority. This question is its analogue for groups of
   agents, with norms in place of an update rule.
+
+## Note of 2026-11-04: Van Lange and Bergmann, read
+
+NOTE-tmpeqzkm. No answer. The review has no norm that bears harder on a
+dominant group. The nearest it comes is a reported argument (its ref. 206)
+that peace between groups needs "more centralized institutions at the
+level of the group" to restrain the group's own aggressive members (p.
+554). That limits a group's aggression from inside, whatever its size, so
+it is closer to equalizing than to stabilizing. Its refs. 206 and 227–229
+(intergroup tolerance as risk buffering) are leads, not registered.
