@@ -1,0 +1,1 @@
+ADR-072: the second-time rule now governs only the record's process documents (ADRs and DPs). An idea a source surfaces is filed when it has content of its own and is not already held. CLAUDE.md and read-and-file step 9 point to it, and ADR-032 has a dated note. At the owner's direction.

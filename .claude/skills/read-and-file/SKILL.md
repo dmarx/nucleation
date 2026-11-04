@@ -124,8 +124,11 @@ not a finding.
 - **The owner's ideas** go in as the owner's.
 - **Another assistant's ideas** go in as `Proposed`, with "The wording is
   the reader's (or A's); adopting it is the owner's call" in the summary.
-- **A thing gets a code the second time it turns up.** Don't file every
-  passing idea.
+- **An idea gets a code when it has content of its own** and the record
+  doesn't already hold it, even if it turns up only once (ADR-072). A
+  passing mention with no content of its own stays in the NOTE, and the
+  curation entry says so. The second-time rule is for ADRs and DPs, which
+  are written when their occasion recurs.
 - **CLAIM fields**: `role`, `warrant` (ADR-043) and `defeated_if`.
   - `rests_on` and `complements` point to CLAIMs only.
   - `grounds` points outside the claims: THEORY, CASE, LIT.

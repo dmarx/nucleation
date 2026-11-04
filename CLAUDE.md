@@ -23,7 +23,9 @@ file is wrong.
   record's OWN argument, as distinct from its readings of others'
   ([ADR-032](record/decisions.d/ADR-032.md)). A CLAIM has a credence (`status`), a voice (`role`) and a warrant
   (`warrant`: demonstrated, empirical or interpretive; [ADR-043](record/decisions.d/ADR-043.md));
-  an objection is a claim; a thing gets a code the second time it turns up.
+  an objection is a claim. An idea gets a code when it has content of its
+  own and is not already held; the second-time rule is for ADRs and DPs
+  (ADR-072).
   `rests_on` is between claims and `grounds` points outside them, so the
   argument, its objection threads and its revisions render as chains.
 - `record/decisions.d/`, `record/principles.d/`, `record/changelog.d/` and
