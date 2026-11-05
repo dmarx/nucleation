@@ -1,0 +1,177 @@
+---
+status: Read
+paper: 'LIT-tmpiwn6g'
+title: 'Hopkins — Hybrid flexure systems and elements via Freedom and Constraint Topologies'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the publisher's open-access PDF (CC BY
+    3.0), https://ms.copernicus.org/articles/4/319/2013/ms-4-319-2013.pdf,
+    13 pp., extracted with pdftotext in layout and plain modes because the
+    two-column layout interleaves; quotes checked against both. Registered
+    as a stand-in for Hopkins's unfetched Handbook chapter of 2013,
+    LIT-tmpvev12, and partly for Hopkins & Culpepper (2010), LIT-tmpf26t2,
+    at the owner's request. Read: all the main text, §1 introduction, §2
+    fundamental principles (§§2.1–2.5), §3 hybrid systems and elements
+    (§§3.1–3.2, with the element examples) and §4 conclusions. Not
+    inspected: the figures, including Fig. 5, the 50-type library, which
+    is an image. Page numbers are the journal's.
+date: '2026-11-05'
+summary: >-
+  Restates FACT and extends it to hybrid flexures: parallel limbs, each
+  serial or hybrid, and flexure elements with no intermediate rigid
+  bodies. Freedom and constraint spaces are reciprocal, with 6 − n
+  independent wrenches and 50 types; in parallel, constraint spaces add
+  and freedom spaces intersect, in series the reverse. Summing the
+  elements' orders of constraint against the system's constraint space
+  tests for exact and over-constraint, and freedoms left in intermediate
+  bodies mark under-constraint, which costs vibration and
+  controllability. Ten hybrid elements are given. Kinematic only; no
+  interconnected limbs.
+---
+<!-- inactive-ok-file: THEORY-tmp530tx THEORY-144 NOTE-tmpnscd2 LIT-tmpvev12 LIT-tmpf26t2 LIT-tmpf0img — Proposed, Skimmed, Unfetched or new; cited from the reading of Hopkins (2013) as open -->
+
+# NOTE-tmpdewq8: Hopkins — Hybrid flexure systems and elements via Freedom and Constraint Topologies
+
+## Contribution
+
+As stated on p. 321: FACT's principles extended to hybrid systems; rules
+for synthesizing over-, under- or exactly-constrained hybrids; theory for
+designing hybrid elements that keep the benefits of under-constraint
+without its usual dynamic penalty; and new hybrid elements. Its §2 first
+restates the core of FACT, the paper saying it briefly reviews "the
+principles of these publications".
+
+## Key insight
+
+The freedom space of a combination is computed from its parts by two
+dual rules: limbs in parallel intersect their freedom spaces (their
+constraint spaces add), and stages in series add their freedom spaces
+(their constraint spaces intersect). With these and one finite library,
+any parallel, serial or non-interconnected hybrid flexure can be
+analysed, and whether it is exactly, over- or under-constrained read off
+by counting.
+
+## Assumptions
+
+- **Small motions.**
+- **Elements represented by their constraint spaces**, so their geometry
+  must hold enough pure-force lines.
+- **Kinematic only.** Stiffness and dynamics are mentioned qualitatively.
+- **Limbs not interconnected**: no flexure joins intermediate bodies of
+  different limbs.
+
+## Key results
+
+- **Duality (§2.1, p. 322).** "Every freedom space uniquely links to a
+  complementary or reciprocal space called a constraint space according to
+  the principle of duality", citing Murray et al. (1994); the counting is
+  "6 − n = m" (Eq. 1).
+- **A finite library (p. 323).** "there are fifty types that are numbered
+  and organized into seven columns", and completeness is claimed: "no
+  flexure system or element exists, which cannot be analysed or
+  synthesized using the spaces within this library".
+- **Order of constraint (p. 322).** The number of independent wrenches in
+  an element's constraint space "is called the element’s order of
+  constraint"; a blade has order three and a wire order one.
+- **Exact and over-constraint (§2.3, p. 324).** When the orders sum to the
+  system's number of independent wrenches, "the system is
+  exactly-constrained (Blanding, 1999)". "If this sum is greater than the
+  number of independent wrench vectors within the system’s constraint
+  space, the system is over-constrained."
+- **Under-constraint (§2.5, p. 326).** Intermediate bodies keep freedoms
+  when the stage is fixed, and "As such, the performance of an
+  under-constrained system suffers from unwanted vibrations and poor
+  controllability" (printed "vibra-tions"). Only serial and hybrid systems
+  can be under-constrained.
+- **Trading one condition for another (§3.2, p. 328).** In the
+  three-translation example, "Note that the system is over-constrained but
+  not under-constrained." Replacing wires with kinematically equivalent
+  stacked blades, "This hybrid system possesses more symmetry, is easier
+  to fabricate, and is more effective in constraining the unwanted axial
+  rotation", but is under-constrained; the remedy is to remove the
+  intermediate masses, making the limb a hybrid element.
+- **Scope (pp. 329–330).** "It does not enable designers to analyse and
+  synthesize hybrid flexure systems with interconnected limbs", and "The
+  principles for analysing and synthesizing this type of hybrid system are
+  the topic of a future paper."
+
+## Concepts
+
+- **Parallel, serial and hybrid systems**: one body tied directly to
+  ground; parallel systems stacked in a chain; combinations of the two
+  joined together.
+- **Flexure element** (parallel, serial or hybrid): a compliant unit with
+  no rigid bodies inside it; in a serial or hybrid element no constraint
+  line passes directly between the bodies it joins.
+- **Order of constraint**: the number of independent wrenches in an
+  element's constraint space.
+- **Exactly-, over- and under-constrained**: by the order count, and by
+  freedoms left in intermediate bodies.
+- **Interconnected limbs**: intermediate bodies of one limb joined to
+  those of another by flexures; excluded here.
+
+## Connections
+
+- **For the Handbook chapter, LIT-tmpvev12 (unfetched).** It restates the
+  FACT synthesis that chapter's title names: the duality, 6 − n = m, the
+  50-type library and the Parallel Pyramid, the parallel and serial
+  combination rules, step-by-step parallel and serial synthesis, and the
+  exact/over/under-constraint tests. It cannot say whether the chapter
+  covers hybrid systems or actuation spaces, how many steps it gives, or
+  what case studies it uses.
+- **For Hopkins & Culpepper (2010), LIT-tmpf26t2 (unfetched).** It restates
+  the parallel principles (§§2.1–2.3) and cites "Hopkins and Culpepper,
+  2010" for them; which of that paper's own results it restates is
+  unknown, as that paper was not seen.
+- **For Archer & Hopkins (2024), LIT-tmpf0img (unfetched).** The
+  predecessor: it states the parallel, serial and non-interconnected
+  hybrid rules that paper extends, and none of its results on
+  interconnected mechanisms, which it marks as future work.
+- It extends the PhD thesis, LIT-tmp9cusv (NOTE-tmpnscd2), whose 50-type
+  chart and serial rules it rests on.
+
+## Bearing on the record
+
+- **The pasted synthesis on constraint architectures.** A characterizes
+  the Handbook chapter only by its bibliography, and does not cite this
+  paper, so there is no characterization to check. As a restatement of
+  FACT the paper confirms what A's table assumes: freedom and constraint
+  spaces are reciprocal and a finite library covers them, under ideal
+  pure-force elements and small motions. A's remark on redundant
+  constraints is here called over-constraint and treated as a design
+  choice; the case studies are over-constrained without comment on stress
+  or misfit. **In FACT, new freedom comes from stacking bodies in series,
+  not from adding constraints**: the serial rule adds freedom spaces, which
+  is a mechanical mechanism for A's point that composition can produce
+  localized freedoms, and under-constraint is exactly freedom left in an interior
+  body. The paper does not cover elastomechanics or actuation.
+- **CLAIM-480 (composing interactions turns an interior into a
+  constraint).** Qualifies, closely. The serial rule, freedom spaces add and
+  constraint spaces intersect, is the kinematic form of eliminating the
+  interior; under-constraint marks when the boundary does not fix the
+  interior, and the price, vibration and poor controllability, is paid
+  there.
+- **CLAIM-345 (control cost not fixed by controllability rank).** Supports
+  A's proposed extension, weakly: kinematically equivalent replacements
+  change symmetry, manufacturability and how firmly an unwanted motion is
+  constrained while the freedoms stay the same.
+- **CLAIM-414 (matched ordinary trajectories conceal differences).**
+  Supports, by analogy, on the same point.
+- **THEORY-144 (redundant defences erode unobserved).** An analogue only:
+  over-constraint is invisible in the freedom count. The paper does not
+  discuss erosion.
+- **CLAIM-347, CLAIM-495, CLAIM-538.** Unrelated: the duality here is
+  linear reciprocity, not holonomy or tolerance compatibility.
+- Filed: THEORY-tmp530tx. No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The author's own**: no interconnected limbs; the method is kinematic.
+- **Completeness** of the library rests on Hopkins (2010), LIT-tmp9cusv.
+- **The over-constraint rule is a count** and says nothing of the misfit
+  stresses over-constraint causes.
+- **No experiment**; the case studies are design sketches.
