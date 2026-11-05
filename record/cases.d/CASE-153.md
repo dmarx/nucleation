@@ -39,7 +39,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
-<!-- inactive-ok-file: NOTE-tmp4f0ld — Skimmed; Kaelbling, Littman and Cassandra, cited from the reading of 2026-11-04 as open -->
+<!-- inactive-ok-file: NOTE-1563 — Skimmed; Kaelbling, Littman and Cassandra, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-552 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-404 CLAIM-446 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
@@ -174,4 +174,4 @@ The owner's U27 asked to "numerically simulate a dynamically maintained will org
 
 ## Note of 2026-11-04: Kaelbling, Littman and Cassandra, "Planning and acting in partially observable stochastic domains", read
 
-Skimmed in [NOTE-tmp4f0ld](../notes.d/NOTE-tmp4f0ld.md) as the stand-in for Smallwood and Sondik (1973). The sentry's structure is a POMDP of the kind this paper formalizes: a hidden binary world, and an inspection that reveals it with 90% accuracy at a small cost. The paper's tiger problem has the same shape, a hidden two-valued state and a costly, noisy listening action, and there the optimal two-step policy "never chooses to act, only to listen" (§5.2, p. 120). The paper gives the case a standard formal reference: the belief state as sufficient statistic, and information actions valued within the model. It leaves open the sentry process's power to block inspection, which a single-agent POMDP does not represent. No status changes.
+Skimmed in [NOTE-1563](../notes.d/NOTE-1563.md) as the stand-in for Smallwood and Sondik (1973). The sentry's structure is a POMDP of the kind this paper formalizes: a hidden binary world, and an inspection that reveals it with 90% accuracy at a small cost. The paper's tiger problem has the same shape, a hidden two-valued state and a costly, noisy listening action, and there the optimal two-step policy "never chooses to act, only to listen" (§5.2, p. 120). The paper gives the case a standard formal reference: the belief state as sufficient statistic, and information actions valued within the model. It leaves open the sentry process's power to block inspection, which a single-agent POMDP does not represent. No status changes.

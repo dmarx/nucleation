@@ -60,7 +60,7 @@ supports:
 - CLAIM-357
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
-<!-- inactive-ok-file: NOTE-tmphcgif — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: NOTE-1588 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 # CLAIM-365: On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret
 
@@ -156,4 +156,4 @@ constraints need not obey this same bound."
 
 ## Note of 2026-11-05: the constraint-architecture readings
 
-Connelly and Whiteley ([NOTE-tmphcgif](../notes.d/NOTE-tmphcgif.md), [LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md)), from the pasted synthesis on constraint architectures, give a structurally parallel duality. A first-order flex of a tensegrity framework extends to second order unless some proper self-stress certifies otherwise by giving it positive energy, the self-stresses playing the part the multipliers play here, and the proof is a special case of the "Farkas alternative". The parallel is formal, both being linear-programming dualities: no result is shared, and it qualifies the claim only as an analogue from another field. The reading was partial, and the theorem's proof was not read. No status changes.
+Connelly and Whiteley ([NOTE-1588](../notes.d/NOTE-1588.md), [LIT-2080](../literature.d/LIT-2080.md)), from the pasted synthesis on constraint architectures, give a structurally parallel duality. A first-order flex of a tensegrity framework extends to second order unless some proper self-stress certifies otherwise by giving it positive energy, the self-stresses playing the part the multipliers play here, and the proof is a special case of the "Farkas alternative". The parallel is formal, both being linear-programming dualities: no result is shared, and it qualifies the claim only as an analogue from another field. The reading was partial, and the theorem's proof was not read. No status changes.

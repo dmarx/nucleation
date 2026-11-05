@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**815 documents cited without acknowledgement.** Not listed: 15668 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**818 documents cited without acknowledgement.** Not listed: 17068 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1218,7 +1218,7 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 
 - [`record/claims.d/CLAIM-039.md:45`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-283.md:143`](../../record/claims.d/CLAIM-283.md)
-- [`record/claims.d/CLAIM-347.md:288`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:292`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-432.md:18`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-432.md:225`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-436.md:190`](../../record/claims.d/CLAIM-436.md)
@@ -1391,9 +1391,9 @@ Under a deadline, search can establish presence by finding one item but absence 
 - [`record/claims.d/CLAIM-312.md:48`](../../record/claims.d/CLAIM-312.md)
 - [`record/claims.d/CLAIM-312.md:52`](../../record/claims.d/CLAIM-312.md)
 - [`record/claims.d/CLAIM-312.md:55`](../../record/claims.d/CLAIM-312.md)
-- [`record/claims.d/CLAIM-312.md:103`](../../record/claims.d/CLAIM-312.md)
-- [`record/claims.d/CLAIM-312.md:134`](../../record/claims.d/CLAIM-312.md)
-- [`record/claims.d/CLAIM-312.md:144`](../../record/claims.d/CLAIM-312.md)
+- [`record/claims.d/CLAIM-312.md:104`](../../record/claims.d/CLAIM-312.md)
+- [`record/claims.d/CLAIM-312.md:135`](../../record/claims.d/CLAIM-312.md)
+- [`record/claims.d/CLAIM-312.md:145`](../../record/claims.d/CLAIM-312.md)
 - [`record/decisions.d/ADR-043.md:156`](../../record/decisions.d/ADR-043.md)
 - [`record/literature.d/LIT-1087.md:19`](../../record/literature.d/LIT-1087.md)
 - [`record/literature.d/LIT-1087.md:70`](../../record/literature.d/LIT-1087.md)
@@ -1459,7 +1459,7 @@ Relative to a stated target, a combined form is one system while its joint dynam
 - [`record/claims.d/CLAIM-194.md:34`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:73`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-474.md:103`](../../record/claims.d/CLAIM-474.md)
-- [`record/claims.d/CLAIM-478.md:141`](../../record/claims.d/CLAIM-478.md)
+- [`record/claims.d/CLAIM-478.md:142`](../../record/claims.d/CLAIM-478.md)
 - [`record/claims.d/CLAIM-526.md:108`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1642.md:69`](../../record/literature.d/LIT-1642.md)
 - [`record/questions.d/QUESTION-042.md:18`](../../record/questions.d/QUESTION-042.md)
@@ -1593,7 +1593,7 @@ Learned local accommodation can reduce the amortized cost of recurrent arbitrati
 
 19 citations in 11 files await a look; 23 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-153.md:123`](../../record/cases.d/CASE-153.md)
+- [`record/cases.d/CASE-153.md:124`](../../record/cases.d/CASE-153.md)
 - [`record/cases.d/CASE-156.md:75`](../../record/cases.d/CASE-156.md)
 - [`record/claims.d/CLAIM-163.md:134`](../../record/claims.d/CLAIM-163.md)
 - [`record/claims.d/CLAIM-261.md:22`](../../record/claims.d/CLAIM-261.md)
@@ -1689,6 +1689,30 @@ Is endogenous governance part of what makes a system self-governing: can an orga
 - [`record/theory.d/THEORY-219.md:174`](../../record/theory.d/THEORY-219.md)
 - [`record/theory.d/THEORY-219.md:177`](../../record/theory.d/THEORY-219.md)
 
+### [CLAIM-354](../../record/claims.d/CLAIM-354.md) — Proposed
+
+Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
+
+17 citations in 15 files await a look; 42 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-013.md:73`](../../record/cases.d/CASE-013.md)
+- [`record/cases.d/CASE-112.md:105`](../../record/cases.d/CASE-112.md)
+- [`record/claims.d/CLAIM-016.md:96`](../../record/claims.d/CLAIM-016.md)
+- [`record/claims.d/CLAIM-025.md:105`](../../record/claims.d/CLAIM-025.md)
+- [`record/claims.d/CLAIM-027.md:140`](../../record/claims.d/CLAIM-027.md)
+- [`record/claims.d/CLAIM-345.md:54`](../../record/claims.d/CLAIM-345.md)
+- [`record/claims.d/CLAIM-345.md:103`](../../record/claims.d/CLAIM-345.md)
+- [`record/claims.d/CLAIM-352.md:125`](../../record/claims.d/CLAIM-352.md)
+- [`record/decisions.d/ADR-052.md:11`](../../record/decisions.d/ADR-052.md)
+- [`record/decisions.d/ADR-052.md:34`](../../record/decisions.d/ADR-052.md)
+- [`record/notes.d/NOTE-1484.md:331`](../../record/notes.d/NOTE-1484.md)
+- [`record/notes.d/NOTE-1582.md:169`](../../record/notes.d/NOTE-1582.md)
+- [`record/notes.d/NOTE-1597.md:145`](../../record/notes.d/NOTE-1597.md)
+- [`record/notes.d/NOTE-1607.md:155`](../../record/notes.d/NOTE-1607.md)
+- [`record/theory.d/THEORY-1280.md:110`](../../record/theory.d/THEORY-1280.md)
+- [`record/theory.d/THEORY-134.md:120`](../../record/theory.d/THEORY-134.md)
+- [`record/theory.d/THEORY-411.md:140`](../../record/theory.d/THEORY-411.md)
+
 ### [CLAIM-430](../../record/claims.d/CLAIM-430.md) — Proposed
 
 An interaction can make available a way of relating that its participants' operative perspectives did not hold, by giving each a role to enact in it, so that taking part can come before, and help produce, the reinterpretation it later seems to express; whether the change stays with the partner, generalizes to a category, or is reproduced beyond the encounter are further questions
@@ -1764,7 +1788,7 @@ A regime of valence is felt, in the sense of attended and available to the syste
 
 Relata stand to relations as realizations stand to specifications: what an entity is, is partly fixed by the constraints on the configurations of entities and relations it can enter, and those constraints are themselves realized and maintained by something, so neither relata nor relations, nor specifications nor realizations, are prior without qualification
 
-16 citations in 16 files await a look; 40 other citations of it are acknowledged.
+16 citations in 16 files await a look; 44 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-405.md:192`](../../record/claims.d/CLAIM-405.md)
 - [`record/claims.d/CLAIM-471.md:24`](../../record/claims.d/CLAIM-471.md)
@@ -1779,7 +1803,7 @@ Relata stand to relations as realizations stand to specifications: what an entit
 - [`record/notes.d/NOTE-1482.md:209`](../../record/notes.d/NOTE-1482.md)
 - [`record/notes.d/NOTE-1483.md:188`](../../record/notes.d/NOTE-1483.md)
 - [`record/questions.d/QUESTION-361.md:35`](../../record/questions.d/QUESTION-361.md)
-- [`record/terms.d/TERM-088.md:77`](../../record/terms.d/TERM-088.md)
+- [`record/terms.d/TERM-088.md:78`](../../record/terms.d/TERM-088.md)
 - [`record/terms.d/TERM-090.md:86`](../../record/terms.d/TERM-090.md)
 - [`record/theory.d/THEORY-1276.md:102`](../../record/theory.d/THEORY-1276.md)
 
@@ -1938,27 +1962,6 @@ A collective that replaces all its members persists, when it does, by causal tra
 - [`record/terms.d/TERM-084.md:90`](../../record/terms.d/TERM-084.md)
 - [`record/terms.d/TERM-086.md:92`](../../record/terms.d/TERM-086.md)
 
-### [CLAIM-354](../../record/claims.d/CLAIM-354.md) — Proposed
-
-Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
-
-14 citations in 12 files await a look; 29 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-013.md:73`](../../record/cases.d/CASE-013.md)
-- [`record/cases.d/CASE-112.md:105`](../../record/cases.d/CASE-112.md)
-- [`record/claims.d/CLAIM-016.md:96`](../../record/claims.d/CLAIM-016.md)
-- [`record/claims.d/CLAIM-025.md:104`](../../record/claims.d/CLAIM-025.md)
-- [`record/claims.d/CLAIM-027.md:140`](../../record/claims.d/CLAIM-027.md)
-- [`record/claims.d/CLAIM-345.md:52`](../../record/claims.d/CLAIM-345.md)
-- [`record/claims.d/CLAIM-345.md:101`](../../record/claims.d/CLAIM-345.md)
-- [`record/claims.d/CLAIM-352.md:125`](../../record/claims.d/CLAIM-352.md)
-- [`record/decisions.d/ADR-052.md:11`](../../record/decisions.d/ADR-052.md)
-- [`record/decisions.d/ADR-052.md:34`](../../record/decisions.d/ADR-052.md)
-- [`record/notes.d/NOTE-1484.md:331`](../../record/notes.d/NOTE-1484.md)
-- [`record/theory.d/THEORY-1280.md:110`](../../record/theory.d/THEORY-1280.md)
-- [`record/theory.d/THEORY-134.md:120`](../../record/theory.d/THEORY-134.md)
-- [`record/theory.d/THEORY-411.md:140`](../../record/theory.d/THEORY-411.md)
-
 ### [CLAIM-437](../../record/claims.d/CLAIM-437.md) — Proposed
 
 'Wanting' and 'liking' are saliences relative to different, overlapping processes, pursuit and consummation, each ranking states by their bearing on its own concerns; valence is then relative to a perspective, every perspective in the negotiation has its own, the system's valence is that of the perspective whose ordering is the negotiation's potential, and ambivalence is strong saliences of opposite sign with no potential absorbing them
@@ -2019,7 +2022,7 @@ Beyond what it does operationally, luria is an apparatus in Barad's constitutive
 - [`record/literature.d/LIT-1672.md:71`](../../record/literature.d/LIT-1672.md)
 - [`record/notes.d/NOTE-1484.md:344`](../../record/notes.d/NOTE-1484.md)
 - [`record/notes.d/NOTE-1484.md:345`](../../record/notes.d/NOTE-1484.md)
-- [`record/questions.d/QUESTION-284.md:76`](../../record/questions.d/QUESTION-284.md)
+- [`record/questions.d/QUESTION-284.md:77`](../../record/questions.d/QUESTION-284.md)
 - [`record/questions.d/QUESTION-360.md:66`](../../record/questions.d/QUESTION-360.md)
 
 ### [NOTE-737](../../record/notes.d/NOTE-737.md) — Skimmed
@@ -2092,7 +2095,7 @@ Evidence for the organizational-perspective framework comes in three grades: tha
 
 - [`record/cases.d/CASE-144.md:72`](../../record/cases.d/CASE-144.md)
 - [`record/cases.d/CASE-144.md:91`](../../record/cases.d/CASE-144.md)
-- [`record/cases.d/CASE-153.md:112`](../../record/cases.d/CASE-153.md)
+- [`record/cases.d/CASE-153.md:113`](../../record/cases.d/CASE-153.md)
 - [`record/claims.d/CLAIM-444.md:105`](../../record/claims.d/CLAIM-444.md)
 - [`record/claims.d/CLAIM-445.md:166`](../../record/claims.d/CLAIM-445.md)
 - [`record/claims.d/CLAIM-446.md:290`](../../record/claims.d/CLAIM-446.md)
@@ -2295,7 +2298,7 @@ In a distributed agent the binding of appraisal, readiness and governance into o
 
 Falasco & Esposito — macroscopic stochastic thermodynamics
 
-11 citations in 5 files await a look.
+11 citations in 5 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/literature.d/LIT-1892.md:7`](../../record/literature.d/LIT-1892.md)
 - [`record/literature.d/LIT-1892.md:31`](../../record/literature.d/LIT-1892.md)
@@ -2351,7 +2354,7 @@ Nothing here is new but a question: planning theory, control theory, executive c
 
 10 citations in 5 files await a look; 16 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-482.md:101`](../../record/claims.d/CLAIM-482.md)
+- [`record/claims.d/CLAIM-482.md:102`](../../record/claims.d/CLAIM-482.md)
 - [`record/claims.d/CLAIM-487.md:32`](../../record/claims.d/CLAIM-487.md)
 - [`record/claims.d/CLAIM-487.md:61`](../../record/claims.d/CLAIM-487.md)
 - [`record/decisions.d/ADR-057.md:39`](../../record/decisions.d/ADR-057.md)
@@ -2457,11 +2460,11 @@ Relief of an organization's frustration must be judged for an identified organiz
 - [`record/cases.d/CASE-124.md:158`](../../record/cases.d/CASE-124.md)
 - [`record/cases.d/CASE-169.md:120`](../../record/cases.d/CASE-169.md)
 - [`record/cases.d/CASE-169.md:180`](../../record/cases.d/CASE-169.md)
-- [`record/claims.d/CLAIM-347.md:106`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:239`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:110`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:243`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-448.md:103`](../../record/claims.d/CLAIM-448.md)
 - [`record/questions.d/QUESTION-131.md:146`](../../record/questions.d/QUESTION-131.md)
-- [`record/terms.d/TERM-060.md:182`](../../record/terms.d/TERM-060.md)
+- [`record/terms.d/TERM-060.md:183`](../../record/terms.d/TERM-060.md)
 - [`record/theory.d/THEORY-232.md:187`](../../record/theory.d/THEORY-232.md)
 
 ### [CLAIM-445](../../record/claims.d/CLAIM-445.md) — Proposed
@@ -2765,7 +2768,7 @@ When an organization's record of winning moves cycles, the failure is organizati
 
 The Lattice Representation Hypothesis of Large Language Models
 
-9 citations in 8 files await a look; 18 other citations of it are acknowledged.
+9 citations in 8 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-245.md:169`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-272.md:123`](../../record/notes.d/NOTE-272.md)
@@ -2971,7 +2974,7 @@ What survives translation is the set of communicative distinctions and relations
 
 Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
-8 citations in 7 files await a look; 19 other citations of it are acknowledged.
+8 citations in 7 files await a look; 23 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-045.md:38`](../../record/arguments.d/ARG-045.md)
 - [`record/cases.d/CASE-188.md:41`](../../record/cases.d/CASE-188.md)
@@ -3216,8 +3219,8 @@ A regulation is autonomous to the degree it is integrated with one's other value
 - [`record/claims.d/CLAIM-016.md:86`](../../record/claims.d/CLAIM-016.md)
 - [`record/claims.d/CLAIM-016.md:87`](../../record/claims.d/CLAIM-016.md)
 - [`record/claims.d/CLAIM-016.md:88`](../../record/claims.d/CLAIM-016.md)
-- [`record/claims.d/CLAIM-354.md:86`](../../record/claims.d/CLAIM-354.md)
-- [`record/claims.d/CLAIM-354.md:126`](../../record/claims.d/CLAIM-354.md)
+- [`record/claims.d/CLAIM-354.md:87`](../../record/claims.d/CLAIM-354.md)
+- [`record/claims.d/CLAIM-354.md:127`](../../record/claims.d/CLAIM-354.md)
 - [`record/questions.d/QUESTION-011.md:47`](../../record/questions.d/QUESTION-011.md)
 - [`record/questions.d/QUESTION-057.md:34`](../../record/questions.d/QUESTION-057.md)
 - [`record/theory.d/THEORY-411.md:141`](../../record/theory.d/THEORY-411.md)
@@ -3313,7 +3316,7 @@ A system persists as the same self over an interval when a coherence measure is 
 
 The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
 
-7 citations in 6 files await a look; 47 other citations of it are acknowledged.
+7 citations in 6 files await a look; 53 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1926.md:43`](../../record/literature.d/LIT-1926.md)
 - [`record/notes.d/NOTE-1483.md:198`](../../record/notes.d/NOTE-1483.md)
@@ -3411,7 +3414,7 @@ Flow tells against the potential account's condition that valence is undefined w
 
 Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 
-7 citations in 7 files await a look; 61 other citations of it are acknowledged.
+7 citations in 7 files await a look; 77 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-526.md:107`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1632.md:59`](../../record/literature.d/LIT-1632.md)
@@ -3419,7 +3422,7 @@ Scale separation helps make structure and not only marks it: where some degrees 
 - [`record/literature.d/LIT-1671.md:59`](../../record/literature.d/LIT-1671.md)
 - [`record/literature.d/LIT-1887.md:67`](../../record/literature.d/LIT-1887.md)
 - [`record/literature.d/LIT-1897.md:69`](../../record/literature.d/LIT-1897.md)
-- [`record/terms.d/TERM-088.md:79`](../../record/terms.d/TERM-088.md)
+- [`record/terms.d/TERM-088.md:80`](../../record/terms.d/TERM-088.md)
 
 ### [CLAIM-518](../../record/claims.d/CLAIM-518.md) — Proposed
 
@@ -3439,7 +3442,7 @@ Normative judgments about an organization's continuity, reform or obligations ca
 
 For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed
 
-7 citations in 5 files await a look; 11 other citations of it are acknowledged.
+7 citations in 5 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1902.md:81`](../../record/literature.d/LIT-1902.md)
 - [`record/notes.d/NOTE-1482.md:219`](../../record/notes.d/NOTE-1482.md)
@@ -3459,7 +3462,7 @@ Describing persons and organizations as coexisting levels of one process removes
 - [`record/notes.d/NOTE-1483.md:184`](../../record/notes.d/NOTE-1483.md)
 - [`record/notes.d/NOTE-1484.md:321`](../../record/notes.d/NOTE-1484.md)
 - [`record/notes.d/NOTE-1494.md:187`](../../record/notes.d/NOTE-1494.md)
-- [`record/terms.d/TERM-088.md:116`](../../record/terms.d/TERM-088.md)
+- [`record/terms.d/TERM-088.md:117`](../../record/terms.d/TERM-088.md)
 - [`record/theory.d/THEORY-1277.md:99`](../../record/theory.d/THEORY-1277.md)
 - [`record/theory.d/THEORY-1278.md:97`](../../record/theory.d/THEORY-1278.md)
 
@@ -3551,7 +3554,7 @@ Cumulative cultural evolution in the laboratory
 
 individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
 
-7 citations in 7 files await a look; 8 other citations of it are acknowledged.
+7 citations in 7 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-529.md:110`](../../record/claims.d/CLAIM-529.md)
 - [`record/claims.d/CLAIM-531.md:122`](../../record/claims.d/CLAIM-531.md)
@@ -3612,8 +3615,8 @@ Because the returns to exploitation are surer, nearer and closer to the decision
 - [`record/cases.d/CASE-124.md:151`](../../record/cases.d/CASE-124.md)
 - [`record/cases.d/CASE-144.md:99`](../../record/cases.d/CASE-144.md)
 - [`record/cases.d/CASE-157.md:86`](../../record/cases.d/CASE-157.md)
-- [`record/claims.d/CLAIM-079.md:52`](../../record/claims.d/CLAIM-079.md)
-- [`record/claims.d/CLAIM-079.md:61`](../../record/claims.d/CLAIM-079.md)
+- [`record/claims.d/CLAIM-079.md:53`](../../record/claims.d/CLAIM-079.md)
+- [`record/claims.d/CLAIM-079.md:62`](../../record/claims.d/CLAIM-079.md)
 - [`record/claims.d/CLAIM-277.md:154`](../../record/claims.d/CLAIM-277.md)
 - [`record/decisions.d/ADR-058.md:45`](../../record/decisions.d/ADR-058.md)
 
@@ -3638,12 +3641,12 @@ A whole can be compared in agency with its parts, relative to a chosen decomposi
 7 citations in 3 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:28`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:259`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:287`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:263`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:291`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-368.md:29`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:147`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:217`](../../record/claims.d/CLAIM-368.md)
-- [`record/terms.d/TERM-060.md:129`](../../record/terms.d/TERM-060.md)
+- [`record/terms.d/TERM-060.md:130`](../../record/terms.d/TERM-060.md)
 
 ### [THEORY-257](../../record/theory.d/THEORY-257.md) — Proposed
 
@@ -3859,7 +3862,7 @@ Model-based wanting is a pursuit process's ranking of the futures it predicts un
 
 From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them
 
-6 citations in 6 files await a look; 24 other citations of it are acknowledged.
+6 citations in 6 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-523.md:105`](../../record/claims.d/CLAIM-523.md)
 - [`record/notes.d/NOTE-1483.md:187`](../../record/notes.d/NOTE-1483.md)
@@ -4035,7 +4038,7 @@ Herd and Moynihan — Administrative Burden, the introduction
 - [`record/literature.d/LIT-1609.md:7`](../../record/literature.d/LIT-1609.md)
 - [`record/literature.d/LIT-1609.md:27`](../../record/literature.d/LIT-1609.md)
 - [`record/literature.d/LIT-1609.md:55`](../../record/literature.d/LIT-1609.md)
-- [`record/terms.d/TERM-055.md:86`](../../record/terms.d/TERM-055.md)
+- [`record/terms.d/TERM-055.md:88`](../../record/terms.d/TERM-055.md)
 
 ### [NOTE-274](../../record/notes.d/NOTE-274.md) — Skimmed
 
@@ -4145,7 +4148,7 @@ Across load and temperature, the connectivity and output similarity of independe
 
 The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
 
-6 citations in 4 files await a look; 16 other citations of it are acknowledged.
+6 citations in 4 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:98`](../../record/claims.d/CLAIM-187.md)
 - [`record/questions.d/QUESTION-069.md:17`](../../record/questions.d/QUESTION-069.md)
@@ -4540,9 +4543,9 @@ Massumi — The Principle of Unrest
 
 Seven Sketches in Compositionality
 
-5 citations in 2 files await a look; 7 other citations of it are acknowledged.
+5 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-344.md:116`](../../record/literature.d/LIT-344.md)
+- [`record/literature.d/LIT-344.md:117`](../../record/literature.d/LIT-344.md)
 - [`record/literature.d/LIT-803.md:6`](../../record/literature.d/LIT-803.md)
 - [`record/literature.d/LIT-803.md:14`](../../record/literature.d/LIT-803.md)
 - [`record/literature.d/LIT-803.md:70`](../../record/literature.d/LIT-803.md)
@@ -4642,7 +4645,7 @@ Frustration of the needs for autonomy, competence and relatedness is a transdiag
 - [`record/questions.d/QUESTION-045.md:64`](../../record/questions.d/QUESTION-045.md)
 - [`record/questions.d/QUESTION-131.md:23`](../../record/questions.d/QUESTION-131.md)
 - [`record/questions.d/QUESTION-131.md:79`](../../record/questions.d/QUESTION-131.md)
-- [`record/terms.d/TERM-060.md:133`](../../record/terms.d/TERM-060.md)
+- [`record/terms.d/TERM-060.md:134`](../../record/terms.d/TERM-060.md)
 
 ### [THEORY-058](../../record/theory.d/THEORY-058.md) — Proposed
 
@@ -4690,7 +4693,7 @@ In Simondon's ontology, as his organization-studies readers take it, information
 - [`record/literature.d/LIT-1911.md:119`](../../record/literature.d/LIT-1911.md)
 - [`record/notes.d/NOTE-1483.md:134`](../../record/notes.d/NOTE-1483.md)
 - [`record/notes.d/NOTE-1485.md:116`](../../record/notes.d/NOTE-1485.md)
-- [`record/terms.d/TERM-088.md:93`](../../record/terms.d/TERM-088.md)
+- [`record/terms.d/TERM-088.md:94`](../../record/terms.d/TERM-088.md)
 
 ### [THEORY-1277](../../record/theory.d/THEORY-1277.md) — Proposed
 
@@ -4701,8 +4704,8 @@ Persons and organizations can be described not as successive stages, with the co
 - [`record/claims.d/CLAIM-405.md:199`](../../record/claims.d/CLAIM-405.md)
 - [`record/literature.d/LIT-1922.md:119`](../../record/literature.d/LIT-1922.md)
 - [`record/notes.d/NOTE-1483.md:131`](../../record/notes.d/NOTE-1483.md)
-- [`record/questions.d/QUESTION-284.md:101`](../../record/questions.d/QUESTION-284.md)
-- [`record/terms.d/TERM-088.md:114`](../../record/terms.d/TERM-088.md)
+- [`record/questions.d/QUESTION-284.md:102`](../../record/questions.d/QUESTION-284.md)
+- [`record/terms.d/TERM-088.md:115`](../../record/terms.d/TERM-088.md)
 
 ### [THEORY-1280](../../record/theory.d/THEORY-1280.md) — Proposed
 
@@ -4750,7 +4753,7 @@ In Sen's capability approach the weighting of functionings is left to public rea
 - [`record/claims.d/CLAIM-352.md:93`](../../record/claims.d/CLAIM-352.md)
 - [`record/claims.d/CLAIM-352.md:125`](../../record/claims.d/CLAIM-352.md)
 - [`record/claims.d/CLAIM-352.md:160`](../../record/claims.d/CLAIM-352.md)
-- [`record/claims.d/CLAIM-354.md:144`](../../record/claims.d/CLAIM-354.md)
+- [`record/claims.d/CLAIM-354.md:145`](../../record/claims.d/CLAIM-354.md)
 
 ### [THEORY-564](../../record/theory.d/THEORY-564.md) — Proposed
 
@@ -4831,21 +4834,10 @@ Consciousness in an inferring system requires three things: a unified generative
 5 citations in 5 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-412.md:346`](../../record/claims.d/CLAIM-412.md)
-- [`record/claims.d/CLAIM-414.md:155`](../../record/claims.d/CLAIM-414.md)
+- [`record/claims.d/CLAIM-414.md:156`](../../record/claims.d/CLAIM-414.md)
 - [`record/questions.d/QUESTION-254.md:238`](../../record/questions.d/QUESTION-254.md)
 - [`record/questions.d/QUESTION-255.md:216`](../../record/questions.d/QUESTION-255.md)
 - [`record/theory.d/THEORY-662.md:123`](../../record/theory.d/THEORY-662.md)
-
-### [ARG-042](../../record/arguments.d/ARG-042.md) — Rejected
-
-The record's constructions of maintained correction show that self-maintaining organizations ought to preserve their corrigibility
-
-4 citations in 2 files await a look.
-
-- [`record/claims.d/CLAIM-511.md:16`](../../record/claims.d/CLAIM-511.md)
-- [`record/claims.d/CLAIM-511.md:37`](../../record/claims.d/CLAIM-511.md)
-- [`record/claims.d/CLAIM-511.md:50`](../../record/claims.d/CLAIM-511.md)
-- [`record/claims.d/CLAIM-520.md:32`](../../record/claims.d/CLAIM-520.md)
 
 ### [ARG-047](../../record/arguments.d/ARG-047.md) — Rejected
 
@@ -4886,8 +4878,8 @@ An organized agent's will is its own to the degree that its operative commitment
 
 4 citations in 3 files await a look; 28 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-354.md:86`](../../record/claims.d/CLAIM-354.md)
-- [`record/claims.d/CLAIM-354.md:182`](../../record/claims.d/CLAIM-354.md)
+- [`record/claims.d/CLAIM-354.md:87`](../../record/claims.d/CLAIM-354.md)
+- [`record/claims.d/CLAIM-354.md:183`](../../record/claims.d/CLAIM-354.md)
 - [`record/terms.d/TERM-006.md:49`](../../record/terms.d/TERM-006.md)
 - [`record/terms.d/TERM-086.md:114`](../../record/terms.d/TERM-086.md)
 
@@ -4920,9 +4912,9 @@ No single ranking of translations holds across tasks: where distortion profiles 
 4 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:78`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:251`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:255`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-354.md:64`](../../record/claims.d/CLAIM-354.md)
-- [`record/claims.d/CLAIM-354.md:142`](../../record/claims.d/CLAIM-354.md)
+- [`record/claims.d/CLAIM-354.md:143`](../../record/claims.d/CLAIM-354.md)
 
 ### [CLAIM-136](../../record/claims.d/CLAIM-136.md) — Proposed
 
@@ -5141,8 +5133,8 @@ That a mechanism realizes a capacity can mean that the capacity is produced thro
 
 - [`record/claims.d/CLAIM-405.md:238`](../../record/claims.d/CLAIM-405.md)
 - [`record/claims.d/CLAIM-515.md:121`](../../record/claims.d/CLAIM-515.md)
-- [`record/questions.d/QUESTION-284.md:154`](../../record/questions.d/QUESTION-284.md)
-- [`record/terms.d/TERM-088.md:140`](../../record/terms.d/TERM-088.md)
+- [`record/questions.d/QUESTION-284.md:155`](../../record/questions.d/QUESTION-284.md)
+- [`record/terms.d/TERM-088.md:141`](../../record/terms.d/TERM-088.md)
 
 ### [CLAIM-551](../../record/claims.d/CLAIM-551.md) — Proposed
 
@@ -5286,6 +5278,17 @@ van Rooyen — On Experiments
 - [`record/claims.d/CLAIM-503.md:104`](../../record/claims.d/CLAIM-503.md)
 - [`record/claims.d/CLAIM-503.md:118`](../../record/claims.d/CLAIM-503.md)
 - [`record/claims.d/CLAIM-503.md:127`](../../record/claims.d/CLAIM-503.md)
+
+### [NOTE-1606](../../record/notes.d/NOTE-1606.md) — Skimmed
+
+Foschi, Hull and Ku — Closed-form kinematics of degree-4 origami vertices
+
+4 citations in 2 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2055.md:7`](../../record/literature.d/LIT-2055.md)
+- [`record/literature.d/LIT-2055.md:71`](../../record/literature.d/LIT-2055.md)
+- [`record/theory.d/THEORY-1381.md:20`](../../record/theory.d/THEORY-1381.md)
+- [`record/theory.d/THEORY-1381.md:32`](../../record/theory.d/THEORY-1381.md)
 
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
@@ -5549,7 +5552,7 @@ Constitution is best inferred, and only abductively, from the failure to break a
 - [`record/claims.d/CLAIM-405.md:226`](../../record/claims.d/CLAIM-405.md)
 - [`record/claims.d/CLAIM-514.md:109`](../../record/claims.d/CLAIM-514.md)
 - [`record/literature.d/LIT-1939.md:12`](../../record/literature.d/LIT-1939.md)
-- [`record/questions.d/QUESTION-284.md:137`](../../record/questions.d/QUESTION-284.md)
+- [`record/questions.d/QUESTION-284.md:138`](../../record/questions.d/QUESTION-284.md)
 
 ### [THEORY-130](../../record/theory.d/THEORY-130.md) — Proposed
 
@@ -5765,6 +5768,16 @@ In the discriminating study, transport measures that beat the static pragmatic p
 - [`record/claims.d/CLAIM-202.md:140`](../../record/claims.d/CLAIM-202.md)
 - [`record/claims.d/CLAIM-202.md:150`](../../record/claims.d/CLAIM-202.md)
 
+### [ARG-042](../../record/arguments.d/ARG-042.md) — Rejected
+
+The record's constructions of maintained correction show that self-maintaining organizations ought to preserve their corrigibility
+
+3 citations in 1 file await a look; 6 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-511.md:16`](../../record/claims.d/CLAIM-511.md)
+- [`record/claims.d/CLAIM-511.md:37`](../../record/claims.d/CLAIM-511.md)
+- [`record/claims.d/CLAIM-511.md:50`](../../record/claims.d/CLAIM-511.md)
+
 ### [ARG-051](../../record/arguments.d/ARG-051.md) — Proposed
 
 Mind-wandering, read as Metzinger reads it, is an individual-scale case in which a capacity the agent keeps, veto over its own mental processes, loses and regains efficacy through a change in a condition of efficacy and not in the competing processes, so it is a further instance of the conditions of efficacy governing which regime acts, the first in the record for suspension in one mind
@@ -5889,7 +5902,7 @@ A translation can reach pragmatic equivalence by compensating for changed social
 
 Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints
 
-3 citations in 2 files await a look; 34 other citations of it are acknowledged.
+3 citations in 2 files await a look; 35 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-344.md:47`](../../record/literature.d/LIT-344.md)
 - [`record/questions.d/QUESTION-055.md:51`](../../record/questions.d/QUESTION-055.md)
@@ -5899,7 +5912,7 @@ Communicative categories form a concept lattice rather than a hierarchy: categor
 
 A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity
 
-3 citations in 3 files await a look; 10 other citations of it are acknowledged.
+3 citations in 3 files await a look; 13 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-477.md:321`](../../record/claims.d/CLAIM-477.md)
 - [`record/decisions.d/ADR-061.md:120`](../../record/decisions.d/ADR-061.md)
@@ -6019,7 +6032,7 @@ Granting influence by role lets a process empower another as a critic while oppo
 
 Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent
 
-3 citations in 1 file await a look; 2 other citations of it are acknowledged.
+3 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-308.md:20`](../../record/claims.d/CLAIM-308.md)
 - [`record/claims.d/CLAIM-308.md:32`](../../record/claims.d/CLAIM-308.md)
@@ -6299,7 +6312,7 @@ Structural Anthropology
 
 Disappearing Polymorphs
 
-3 citations in 2 files await a look; 3 other citations of it are acknowledged.
+3 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-181.md:25`](../../record/claims.d/CLAIM-181.md)
 - [`record/claims.d/CLAIM-181.md:28`](../../record/claims.d/CLAIM-181.md)
@@ -6339,7 +6352,7 @@ Sarkar, Mukherjee and Sato — Relational composition as parallel transport
 
 Juarrero — Context Changes Everything
 
-3 citations in 3 files await a look; 14 other citations of it are acknowledged.
+3 citations in 3 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-191.md:176`](../../record/cases.d/CASE-191.md)
 - [`record/claims.d/CLAIM-533.md:157`](../../record/claims.d/CLAIM-533.md)
@@ -6549,7 +6562,7 @@ Felt affect is the experience of the body's regulatory state, valenced by what t
 
 Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning
 
-3 citations in 3 files await a look; 50 other citations of it are acknowledged.
+3 citations in 3 files await a look; 51 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-045.md:61`](../../record/claims.d/CLAIM-045.md)
 - [`record/claims.d/CLAIM-273.md:174`](../../record/claims.d/CLAIM-273.md)
@@ -6802,7 +6815,7 @@ Under active inference, the contents of consciousness are posterior beliefs abou
 3 citations in 3 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-412.md:344`](../../record/claims.d/CLAIM-412.md)
-- [`record/claims.d/CLAIM-414.md:154`](../../record/claims.d/CLAIM-414.md)
+- [`record/claims.d/CLAIM-414.md:155`](../../record/claims.d/CLAIM-414.md)
 - [`record/questions.d/QUESTION-254.md:235`](../../record/questions.d/QUESTION-254.md)
 
 ### [THEORY-936](../../record/theory.d/THEORY-936.md) — Proposed
@@ -6936,7 +6949,7 @@ In published translations, renderings that lose distinctions along one dimension
 
 Fidelity is one evaluative goal among adaptation, critique and parody, and a deliberately adaptive translation calls for one-way simulation of the source's relevant possibilities rather than equivalence
 
-2 citations in 1 file await a look; 26 other citations of it are acknowledged.
+2 citations in 1 file await a look; 27 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:52`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:257`](../../record/decisions.d/ADR-040.md)
@@ -6963,7 +6976,7 @@ A transport that approximately intertwines each framing operation approximately 
 
 Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy
 
-2 citations in 1 file await a look; 11 other citations of it are acknowledged.
+2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-066.md:19`](../../record/questions.d/QUESTION-066.md)
 - [`record/questions.d/QUESTION-066.md:36`](../../record/questions.d/QUESTION-066.md)
@@ -7026,7 +7039,7 @@ One-way drive rightly passes the threshold criterion: a metronome and its musici
 
 The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization
 
-2 citations in 1 file await a look; 32 other citations of it are acknowledged.
+2 citations in 1 file await a look; 33 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-398.md:35`](../../record/literature.d/LIT-398.md)
 - [`record/literature.d/LIT-398.md:36`](../../record/literature.d/LIT-398.md)
@@ -7083,7 +7096,7 @@ The governance-induced kind of frustration is not idle: some failures of an orga
 2 citations in 1 file await a look.
 
 - [`record/claims.d/CLAIM-357.md:51`](../../record/claims.d/CLAIM-357.md)
-- [`record/claims.d/CLAIM-357.md:190`](../../record/claims.d/CLAIM-357.md)
+- [`record/claims.d/CLAIM-357.md:192`](../../record/claims.d/CLAIM-357.md)
 
 ### [CLAIM-507](../../record/claims.d/CLAIM-507.md) — Proposed
 
@@ -7145,7 +7158,7 @@ A note on computational indistinguishability
 
 2 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-302.md:76`](../../record/claims.d/CLAIM-302.md)
+- [`record/claims.d/CLAIM-302.md:77`](../../record/claims.d/CLAIM-302.md)
 - [`record/theory.d/THEORY-352.md:105`](../../record/theory.d/THEORY-352.md)
 
 ### [LIT-1101](../../record/literature.d/LIT-1101.md) — Unavailable
@@ -7469,7 +7482,7 @@ Synergetics: An Introduction. Nonequilibrium Phase Transitions and Self-Organiza
 
 2 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-478.md:99`](../../record/claims.d/CLAIM-478.md)
+- [`record/claims.d/CLAIM-478.md:100`](../../record/claims.d/CLAIM-478.md)
 - [`record/literature.d/LIT-1671.md:61`](../../record/literature.d/LIT-1671.md)
 
 ### [LIT-924](../../record/literature.d/LIT-924.md) — Unavailable
@@ -7602,7 +7615,7 @@ Under smooth invertible changes of the parameter coordinates, which first-order 
 
 In a deterministic singularly perturbed system whose eliminated variable is fast and contracting and whose reduced system is contracting, does the memoryless quasi-steady-state reduction predict the coarse variable with an error bounded uniformly in time in terms of the eliminated dynamics?
 
-2 citations in 1 file await a look.
+2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-222.md:27`](../../record/questions.d/QUESTION-222.md)
 - [`record/questions.d/QUESTION-222.md:203`](../../record/questions.d/QUESTION-222.md)
@@ -7746,7 +7759,7 @@ A life story constructed from adolescence on is the form a person's diachronic i
 
 In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which
 
-2 citations in 1 file await a look; 8 other citations of it are acknowledged.
+2 citations in 1 file await a look; 9 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-062.md:19`](../../record/questions.d/QUESTION-062.md)
 - [`record/questions.d/QUESTION-062.md:39`](../../record/questions.d/QUESTION-062.md)
@@ -7764,7 +7777,7 @@ The unity that makes a movement an agent's action is achieved by conformity to t
 
 Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
 
-2 citations in 2 files await a look; 43 other citations of it are acknowledged.
+2 citations in 2 files await a look; 46 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-027.md:182`](../../record/claims.d/CLAIM-027.md)
 - [`record/decisions.d/ADR-061.md:104`](../../record/decisions.d/ADR-061.md)
@@ -8414,7 +8427,7 @@ The nitroplast: UCYN-A, a streamlined nitrogen-fixing cyanobacterium in a marine
 
 Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
 
-1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-174.md:56`](../../record/cases.d/CASE-174.md)
 
@@ -8558,7 +8571,7 @@ In a political collective, components that change at different speeds (attention
 
 Coupling locally described systems necessarily induces a separation of time scales between their collective behaviour and their relative behaviour
 
-1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1639.md:69`](../../record/literature.d/LIT-1639.md)
 
@@ -8609,6 +8622,14 @@ The sensitivity that formal chaos gives a will's dynamics is not control over th
 1 citation in 1 file awaits a look; 31 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1984.md:84`](../../record/literature.d/LIT-1984.md)
+
+### [CLAIM-557](../../record/claims.d/CLAIM-557.md) — Proposed
+
+More resource for observing splits what can be told apart, and more resource for acting merges what can be turned into one another, so a system's budgeted individuation runs in opposite directions from outside and from inside and is indexed by a pair of budgets, not one
+
+1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-592.md:107`](../../record/claims.d/CLAIM-592.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -8726,7 +8747,7 @@ Folk concepts of person and identity: A response to Nichols and Bruno
 
 Willpower and Personal Rules
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-067.md:215`](../../record/theory.d/THEORY-067.md)
 
@@ -8814,7 +8835,7 @@ Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Enables a Tri
 
 Accelerated evolution and Muller's rachet in endosymbiotic bacteria
 
-1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1611.md:45`](../../record/literature.d/LIT-1611.md)
 
@@ -9016,7 +9037,7 @@ Three Problems for the Mutual Manipulability Account of Constitutive Relevance i
 
 1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-284.md:144`](../../record/questions.d/QUESTION-284.md)
+- [`record/questions.d/QUESTION-284.md:145`](../../record/questions.d/QUESTION-284.md)
 
 ### [LIT-1933](../../record/literature.d/LIT-1933.md) — Unfetched
 
@@ -9070,7 +9091,7 @@ Defending Informational Structural Realism: The View of Alternatives
 
 Boolean Concept Logic
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-272.md:124`](../../record/notes.d/NOTE-272.md)
 
@@ -9078,7 +9099,7 @@ Boolean Concept Logic
 
 Formal Concept Analysis: Mathematical Foundations
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-272.md:124`](../../record/notes.d/NOTE-272.md)
 
@@ -9366,7 +9387,7 @@ Diffusion-Limited Aggregation, a Kinetic Critical Phenomenon
 
 The two-step mechanism of nucleation of crystals in solution
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-181.md:168`](../../record/claims.d/CLAIM-181.md)
 
@@ -9536,7 +9557,15 @@ higher-order volition: an attitude that a given first-order motive or regime sho
 
 1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-025.md:94`](../../record/claims.d/CLAIM-025.md)
+- [`record/claims.d/CLAIM-025.md:95`](../../record/claims.d/CLAIM-025.md)
+
+### [TERM-106](../../record/terms.d/TERM-106.md) — Proposed
+
+reconfiguration slack: the temporary resources a system needs to move between two configurations it can each hold, beyond what holding either one requires, while keeping specified commitments
+
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-581.md:97`](../../record/claims.d/CLAIM-581.md)
 
 ### [THEORY-001](../../record/theory.d/THEORY-001.md) — Proposed
 
@@ -9582,7 +9611,7 @@ Diachronic self-governance is constituted by cross-temporal links of intention t
 
 A quasi-static attractor describes an open system only while the drift of that attractor in state space is slow against the system's slowest relaxation, scaled by the distance to the tipping threshold; rate-induced tipping is the failure of that time-scale separation, and it can occur while the parameter itself moves slowly, if the attractor is sensitive to it, and with no slowing of any mode
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1654.md:43`](../../record/literature.d/LIT-1654.md)
 

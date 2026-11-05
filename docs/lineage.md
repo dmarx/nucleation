@@ -2,7 +2,7 @@
 
 # Lines of work
 
-87 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+89 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -772,6 +772,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-1460](../record/literature.d/LIT-1460.md) — Semiorders and a Theory of Utility Discrimination *(Unavailable)*
   - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unfetched)*
 
+### From The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies
+
+- [LIT-2114](../record/literature.d/LIT-2114.md) — The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies *(Active)*
+  - [LIT-2027](../record/literature.d/LIT-2027.md) — A Computational Trichotomy for Connectivity of Boolean Satisfiability *(Active)*
+
+### From Design of Parallel Flexure Systems via Freedom and Constraint Topologies (FACT)
+
+- [LIT-2031](../record/literature.d/LIT-2031.md) — Design of Parallel Flexure Systems via Freedom and Constraint Topologies (FACT) *(Active)*
+  - [LIT-2042](../record/literature.d/LIT-2042.md) — Design of Flexure-based Motion Stages for Mechatronic Systems via Freedom, Actuation and Constraint Topologies (FACT) *(Active)*
+    - [LIT-2069](../record/literature.d/LIT-2069.md) — Designing hybrid flexure systems and elements using Freedom and Constraint Topologies *(Active)*
+
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
 
 - [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
@@ -892,6 +903,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-1873](../record/literature.d/LIT-1873.md) — Dynamics governs switching among patterns of coordination in biological movement *(Active)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
+### From Design of Parallel Flexure Systems via Freedom and Constraint Topologies (FACT)
+
+- [LIT-2031](../record/literature.d/LIT-2031.md) — Design of Parallel Flexure Systems via Freedom and Constraint Topologies (FACT) *(Active)*
+  - [LIT-2042](../record/literature.d/LIT-2042.md) — Design of Flexure-based Motion Stages for Mechatronic Systems via Freedom, Actuation and Constraint Topologies (FACT) *(Active)*
+    - [LIT-2069](../record/literature.d/LIT-2069.md) — Designing hybrid flexure systems and elements using Freedom and Constraint Topologies *(Active)*
+
 ### From An Organizational Account of Biological Functions
 
 - [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
@@ -938,6 +955,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-580](../record/literature.d/LIT-580.md) — Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control *(Active)*
   - [LIT-584](../record/literature.d/LIT-584.md) — Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation *(Active)*
+
+## operations-research
+
+### From The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies
+
+- [LIT-2114](../record/literature.d/LIT-2114.md) — The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies *(Active)*
+  - [LIT-2027](../record/literature.d/LIT-2027.md) — A Computational Trichotomy for Connectivity of Boolean Satisfiability *(Active)*
 
 ## personhood
 

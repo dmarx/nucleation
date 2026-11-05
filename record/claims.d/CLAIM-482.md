@@ -47,7 +47,7 @@ summary: >-
   the outcome of the governing relations, which is the reading [CLAIM-027](CLAIM-027.md)'s
   defeater excludes ("whose content predicts the outcome").
 ---
-<!-- inactive-ok-file: NOTE-tmpb2xb9 — Skimmed; Bogetoft and Hougaard read in part, cited from the reading of 2026-11-04 as open -->
+<!-- inactive-ok-file: NOTE-1576 — Skimmed; Bogetoft and Hougaard read in part, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answers -->
 
 # CLAIM-482: An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change
@@ -104,4 +104,4 @@ that organization, and the change in authority would be idle.
 
 ## Note of 2026-11-04: Bogetoft and Hougaard, "Rational Inefficiencies", read
 
-Bogetoft and Hougaard (KVL working paper 2001/14, revised 2002; [LIT-tmpsiib1](../literature.d/LIT-tmpsiib1.md), read in part in [NOTE-tmpb2xb9](../notes.d/NOTE-tmpb2xb9.md)) fit a single slack value function for a production unit and propose using it "to predict more precisely the results of changes in the control instruments" (§1), across price-based and restriction-based regimes. That assumes the regime-invariant organizational preference this claim denies. The reading qualifies the claim by showing a standing practice in efficiency analysis that takes the opposite as a premise. It offers no evidence either way, since the invariance is assumed, not tested, and the paper has no application to data. It leaves open whether a slack preference recovered under one control regime predicts behaviour under another. No status changes.
+Bogetoft and Hougaard (KVL working paper 2001/14, revised 2002; [LIT-2096](../literature.d/LIT-2096.md), read in part in [NOTE-1576](../notes.d/NOTE-1576.md)) fit a single slack value function for a production unit and propose using it "to predict more precisely the results of changes in the control instruments" (§1), across price-based and restriction-based regimes. That assumes the regime-invariant organizational preference this claim denies. The reading qualifies the claim by showing a standing practice in efficiency analysis that takes the opposite as a premise. It offers no evidence either way, since the invariance is assumed, not tested, and the paper has no application to data. It leaves open whether a slack preference recovered under one control regime predicts behaviour under another. No status changes.

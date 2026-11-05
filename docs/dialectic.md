@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-49 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+50 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -341,3 +341,8 @@
 
 - [CLAIM-519](../record/claims.d/CLAIM-519.md) — Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions *(thesis, Proposed)*
   - [CLAIM-513](../record/claims.d/CLAIM-513.md) — Across a family of goals, a world model is not an optional explanation of competent behaviour: in a fully observed, finite, communicating, stationary environment, a goal-conditioned policy within a factor 1 − δ of optimal on every composite goal of depth n fixes every transition probability to within √(2P(1 − P)/((n − 1)(1 − δ))), so observers reading the same policy must ascribe the same world model; what it leaves open is whether a predictive component is realized inside the agent, since a lookup table over histories and goals has the same policy *(counter, Active)*
+
+## From Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful
+
+- [CLAIM-584](../record/claims.d/CLAIM-584.md) — Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful *(disclaimed, Proposed)*
+  - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(thesis, Proposed)* — through [ARG-053](../record/arguments.d/ARG-053.md)

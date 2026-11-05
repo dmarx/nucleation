@@ -44,7 +44,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-147 CLAIM-187 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited in the note of 2026-10-21, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-tmpuxuo4 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CLAIM-586 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-060: frustration, of an organization's demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance
 
@@ -196,4 +196,4 @@ which. Not filed.
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-A: "impossibility is relative to the declared model of admissible transformations", so that if the repertoire omits an unusual mechanism, "the diagnosed frustration may be a genuine property of the model without being a property of the broader physical or institutional system." The definition already makes the verdict relative to the admissible transformations; A adds that a diagnosis is of the model. Silverberg et al.'s square twist, which folds only by bending its panels, is an instance ([NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md)), and [QUESTION-tmpt2p0s](../questions.d/QUESTION-tmpt2p0s.md) asks when it happens. [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) adds that frustration at a budget is relative to the resources when the set is a face of the unbudgeted complex, and structural otherwise. The term is unchanged. No status changes.
+A: "impossibility is relative to the declared model of admissible transformations", so that if the repertoire omits an unusual mechanism, "the diagnosed frustration may be a genuine property of the model without being a property of the broader physical or institutional system." The definition already makes the verdict relative to the admissible transformations; A adds that a diagnosis is of the model. Silverberg et al.'s square twist, which folds only by bending its panels, is an instance ([NOTE-1554](../notes.d/NOTE-1554.md)), and [QUESTION-391](../questions.d/QUESTION-391.md) asks when it happens. [CLAIM-586](../claims.d/CLAIM-586.md) adds that frustration at a budget is relative to the resources when the set is a face of the unbudgeted complex, and structural otherwise. The term is unchanged. No status changes.

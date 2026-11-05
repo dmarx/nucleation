@@ -23,7 +23,7 @@ summary: >-
   from characterization and from ordinary causal modification.
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-157 — Proposed or Open; the partial answers and neighbouring questions, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpye2m2 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
+<!-- inactive-ok-file: CLAIM-593 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # QUESTION-284: In any domain, when do the constraints on an entity's relations only characterize an entity individuated without them, and when do they partly constitute its identity, its boundary or what it can do; and are a boundary a process detects, one it maintains and one it constitutes three different things?
 
@@ -161,4 +161,4 @@ The question is unchanged and stays Open. No status, title or warrant changes.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-A's fourth paste states this question's constitutive half as a philosophical conjecture, that in some domains the processes that stabilize relational distinctions "participate in the formation and persistence of the objects themselves", and says it "requires additional arguments about constitution, historical continuity, and the ontology of the particular systems studied", kept apart from the mathematical conjecture in [QUESTION-tmptcuch](QUESTION-tmptcuch.md). [CLAIM-tmpye2m2](../claims.d/CLAIM-tmpye2m2.md) shows structural isomorphism and persistence of one token come apart in both directions. No status changes.
+A's fourth paste states this question's constitutive half as a philosophical conjecture, that in some domains the processes that stabilize relational distinctions "participate in the formation and persistence of the objects themselves", and says it "requires additional arguments about constitution, historical continuity, and the ontology of the particular systems studied", kept apart from the mathematical conjecture in [QUESTION-393](QUESTION-393.md). [CLAIM-593](../claims.d/CLAIM-593.md) shows structural isomorphism and persistence of one token come apart in both directions. No status changes.

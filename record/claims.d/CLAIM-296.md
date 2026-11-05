@@ -57,10 +57,10 @@ corroborated_by:
 bears_on:
 - QUESTION-101
 ---
-<!-- inactive-ok-file: CLAIM-tmpvhj8j TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
-<!-- inactive-ok-file: NOTE-tmpxzaki NOTE-tmpy7mc8 NOTE-tmpdnqqh LIT-tmpum63p LIT-tmpt3a4i LIT-tmpjzyct — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
+<!-- inactive-ok-file: CLAIM-587 TERM-115 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
+<!-- inactive-ok-file: NOTE-1620 NOTE-1621 NOTE-1583 LIT-2105 LIT-2098 LIT-2075 — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
-<!-- inactive-ok-file: CASE-tmp0s6cg CASE-tmpqk2kd — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CASE-201 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-296: What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
 
@@ -134,24 +134,24 @@ the question asks.
 
 ## Note of 2026-11-04: Guigues, Kleywegt and Nascimento, "Policies for the Operation of an Ambulance Fleet", read
 
-Their preparedness metric ([LIT-tmphy35q](../literature.d/LIT-tmphy35q.md)) is defined over the ambulances a station can actually deploy, so a busy unit adds nothing. That supports separating having a resource from being able to deploy it, at the level of a fleet. It leaves open whether a steady-state fleet rate is an instance of the claim's agent-level relation or only an analogue. No status changes.
+Their preparedness metric ([LIT-2066](../literature.d/LIT-2066.md)) is defined over the ambulances a station can actually deploy, so a busy unit adds nothing. That supports separating having a resource from being able to deploy it, at the level of a fleet. It leaves open whether a steady-state fleet rate is an instance of the claim's agent-level relation or only an analogue. No status changes.
 
 ## Note of 2026-11-04: Erkut, Ingolfsson and Erdoğan, "Ambulance location for maximum survival", read
 
-In the expected-covering models ([LIT-tmprfb8b](../literature.d/LIT-tmprfb8b.md)), a unit at a station counts only with the probability that it is free. That supports the claim's distinction in a location model. It leaves open the cue and the knowing-it-has parts, which the model lacks. No status changes.
+In the expected-covering models ([LIT-2089](../literature.d/LIT-2089.md)), a unit at a station counts only with the probability that it is free. That supports the claim's distinction in a location model. It leaves open the cue and the knowing-it-has parts, which the model lacks. No status changes.
 
 ## Note of 2026-11-04: U.S. Fire Administration, "Dispatched and Canceled en Route", read
 
-The NFIRS guidance ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) records separately the resources assigned, the units that arrived and the units cancelled en route, and it excludes from the incident data the calls a department could not answer for lack of resources. That supports the claim's distinctions at the level of reporting. It leaves open how often the missing case occurs, since NFIRS by design does not see it. No status changes.
+The NFIRS guidance ([LIT-2084](../literature.d/LIT-2084.md)) records separately the resources assigned, the units that arrived and the units cancelled en route, and it excludes from the incident data the calls a department could not answer for lack of resources. That supports the claim's distinctions at the level of reporting. It leaves open how often the missing case occurs, since NFIRS by design does not see it. No status changes.
 
 ## Note of 2026-11-04: the emergency-service location models, read through neighbours (Larson and Odoni; de Oliveira, de Sá and Martins; Mukhopadhyay et al.)
 
-Larson's hypercube model, Daskin's MEXCLP and ReVelle and Hogan's MALP ([LIT-tmpum63p](../literature.d/LIT-tmpum63p.md), [LIT-tmpt3a4i](../literature.d/LIT-tmpt3a4i.md), [LIT-tmpjzyct](../literature.d/LIT-tmpjzyct.md), all unread) were read through neighbours, and all three give a formal case of the gap between having a resource and being able to deploy it by a deadline. In the hypercube model (Larson and Odoni, [NOTE-tmpxzaki](../notes.d/NOTE-tmpxzaki.md), prose only), a unit busy on another call is present but not deployable, and the units of last resort are deployable only when the system is saturated. In MEXCLP and MALP (de Oliveira, de Sá and Martins, [NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md), §2), a covering ambulance that is busy does not count, and the chance that one of k covering servers is free is 1 − b^k under independence. The review by Mukhopadhyay et al. ([NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md), §6.1) sorts deterministic coverage models, in which "Resources at a facility are considered to be always available", from probabilistic ones. In all of them unavailability comes from congestion alone, with no cue or knowledge component, so they qualify the claim's deployable tier and leave the first two untouched. No status changes.
+Larson's hypercube model, Daskin's MEXCLP and ReVelle and Hogan's MALP ([LIT-2105](../literature.d/LIT-2105.md), [LIT-2098](../literature.d/LIT-2098.md), [LIT-2075](../literature.d/LIT-2075.md), all unread) were read through neighbours, and all three give a formal case of the gap between having a resource and being able to deploy it by a deadline. In the hypercube model (Larson and Odoni, [NOTE-1620](../notes.d/NOTE-1620.md), prose only), a unit busy on another call is present but not deployable, and the units of last resort are deployable only when the system is saturated. In MEXCLP and MALP (de Oliveira, de Sá and Martins, [NOTE-1621](../notes.d/NOTE-1621.md), §2), a covering ambulance that is busy does not count, and the chance that one of k covering servers is free is 1 − b^k under independence. The review by Mukhopadhyay et al. ([NOTE-1583](../notes.d/NOTE-1583.md), §6.1) sorts deterministic coverage models, in which "Resources at a facility are considered to be always available", from probabilistic ones. In all of them unavailability comes from congestion alone, with no cue or knowledge component, so they qualify the claim's deployable tier and leave the first two untouched. No status changes.
 
 ## Note of 2026-11-04: deployability under a policy
 
-A's [CLAIM-tmpvhj8j](CLAIM-tmpvhj8j.md) and [TERM-tmpuc919](../terms.d/TERM-tmpuc919.md) (both Proposed) carry the split between having and deploying to an organization. Equipment present and staff qualified do not give readiness if a complementary capacity is absent or the policy does not mobilize them, and since readiness is a joint probability, one resource's utilization need not track it. The claim is unchanged.
+A's [CLAIM-587](CLAIM-587.md) and [TERM-115](../terms.d/TERM-115.md) (both Proposed) carry the split between having and deploying to an organization. Equipment present and staff qualified do not give readiness if a complementary capacity is absent or the policy does not mobilize them, and since readiness is a joint probability, one resource's utilization need not track it. The claim is unchanged.
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-[CASE-tmp0s6cg](../cases.d/CASE-tmp0s6cg.md), a folded sheet whose fixed area fits the stowage envelope only folded and supplies the required area only unfolded, and [CASE-tmpqk2kd](../cases.d/CASE-tmpqk2kd.md), a schedule whose peak need depends on the deadline, illustrate the distance between having a resource and deploying it. No status changes.
+[CASE-201](../cases.d/CASE-201.md), a folded sheet whose fixed area fits the stowage envelope only folded and supplies the required area only unfolded, and [CASE-211](../cases.d/CASE-211.md), a schedule whose peak need depends on the deadline, illustrate the distance between having a resource and deploying it. No status changes.

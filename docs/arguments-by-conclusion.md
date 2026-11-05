@@ -4,9 +4,9 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 57 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 58 matches
 
-**argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 29 matches
+**argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
 - [CLAIM-005](../record/claims.d/CLAIM-005.md) — Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector; the match constrains a translation only once one outcome correspondence is fixed across many items, and summed over source contexts alone it charges for loss and not for addition *(Proposed, thesis)*
   - [ARG-026](../record/arguments.d/ARG-026.md) — Judged pragmatic observables that predict human judgements of fidelity or shared kind better than text similarity support the central theses of the pragmatic-transport line *(Rejected, evidence)*
@@ -139,3 +139,6 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-050](../record/arguments.d/ARG-050.md) — An intervention that disables a production pathway inside a declared boundary, or interrupts an outside controller, locates the producer of a maintained organization, because the pathway causes the capacities with a delay and can be intervened on surgically, so the fat-handedness of interventions on wholes does not reach the inference *(Active, contrast)*
 - [CLAIM-547](../record/claims.d/CLAIM-547.md) — Cooperation within groups and the coexistence of groups are distinct targets that can trade off: in the group-selection rule of Nowak's five, b/c > 1 + n/m, cooperation spreads because a group that grows to size n splits and another group is driven extinct, so the mechanism that stabilizes cooperation inside groups works by removing groups; cooperation local to a group, the persistence of several groups whose interests are opposed, and concern for those outside one's group are three achievements, and none of them secures the next *(Proposed, thesis)*
   - [ARG-052](../record/arguments.d/ARG-052.md) — Van Lange and Bergmann's model of intergroup cooperation does not establish that cooperation within groups and the coexistence of groups are distinct targets that can trade off: it shows that the processes building in-group cooperation can fuel conflict between groups, and says nothing on whether groups persist, go extinct or are owed impartial concern *(Rejected, source)*
+- [CLAIM-584](../record/claims.d/CLAIM-584.md) — Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful *(Proposed, disclaimed)*
+  - [ARG-053](../record/arguments.d/ARG-053.md) — Low observed exercise of a specialized capability is evidence that its maintenance expenditure is wasteful *(Rejected, evidence)*
+    - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(Proposed, thesis)*

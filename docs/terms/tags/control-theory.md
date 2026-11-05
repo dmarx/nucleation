@@ -6,8 +6,8 @@
 
 **Control theory** — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066).
 
-0 of 104 TERM documents. Back to the [full index](../README.md).
+1 of 116 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-105](../../../record/terms.d/TERM-105.md) | resource constraint, by type: a fixed stock, an instantaneous capacity, a rate limit, a cumulative expenditure, a replenishable reserve and a deadline, which bound different functions of a path and are not one budget | A's proposal, from the pasted synthesis on constraint architectures (pasted by the owner on 2026-11-04, continuing the exchange on emergency readiness whose share link could not be fetched), Part 4: a table of six resource types, M ≤ M_max, r(q,u) ≤ B, ‖u(t)‖ ≤ U_max, ∫ c dt ≤ E, ḃ = s(t) − c and T ≤ T_max, and a combined model with configuration, architecture, reserve and competency dynamics. Filed as a term, not a claim: it names the distinction other entries are stated in. Each type bounds a different function of a transition path (a quantity held, its supremum, the supremum of its rate, its integral, a running balance, its duration), so meeting one says nothing of another. "These are not equivalent problems." The wording is A's; adopting it is the owner's call. | Proposed |

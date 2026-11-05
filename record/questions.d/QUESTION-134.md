@@ -124,4 +124,4 @@ unchanged.
 
 ## Note of 2026-11-04: an institutional neighbour
 
-A's [QUESTION-tmpmtvei](QUESTION-tmpmtvei.md) asks whether activity-based budgeting can defund a rare-event capability into incapacity, with k_{t+1} = (1−δ)k_t + βm_t and B_{t+1} = B̄ + ηM_t. It differs from this question in three ways: the allocation is institutional, the signal is observed utilization, and the capability is deadline-conditioned. The question is unchanged.
+A's [QUESTION-386](QUESTION-386.md) asks whether activity-based budgeting can defund a rare-event capability into incapacity, with k_{t+1} = (1−δ)k_t + βm_t and B_{t+1} = B̄ + ηM_t. It differs from this question in three ways: the allocation is institutional, the signal is observed utilization, and the capability is deadline-conditioned. The question is unchanged.

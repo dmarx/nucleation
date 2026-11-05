@@ -6,8 +6,8 @@
 
 **Control theory** — the analysis and design of feedback — stability and Lyapunov certificates, invariance, viability and barrier certificates, input-to-state stability and small-gain conditions, contraction, adaptive, dual and safe control, and controller synthesis under constraints; dynamical systems without a control input stay with complex-systems (ADR-066).
 
-0 of 372 QUESTION documents. Back to the [full index](../README.md).
+1 of 396 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-392](../../../record/questions.d/QUESTION-392.md) | When does an intervention on a constraint architecture create a capability the system lacked, rather than make one it already had cheaper, faster or more reliable to reach, and how can the two be told apart? | A's proposal, from the pasted synthesis on constraint architectures (pasted by the owner on 2026-11-04, continuing the exchange on emergency readiness whose share link could not be fetched), Part 4. A's table of what each intervention changes: a budget changes the resource-feasible part of the same configuration space, crease or linkage constraints the space itself, prestress the energy landscape, actuator placement the controlled reachable set, the folding schedule peak need and completion time, a maintained reserve reliability under uncertain demand. A asks "whether a proposed change genuinely creates new capabilities or merely makes already available ones less expensive", and proposes an experiment over states A, B and a staging C. No held question asks it; [CLAIM-357](../../../record/claims.d/CLAIM-357.md)'s split of structural frustration from governance regret is its nearest relative. The wording is A's; adopting it is the owner's call. | Open |

@@ -40,7 +40,7 @@ summary: >-
 supports:
 - CLAIM-304
 ---
-<!-- inactive-ok-file: CLAIM-tmp42yq0 TERM-tmpvb0eg — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
+<!-- inactive-ok-file: CLAIM-557 TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-302: Equivalence under feasible tests can be much coarser than statistical equivalence: there are ensembles almost disjoint from uniform that no polynomial-size test tells apart from it, and efficiently samplable ensembles of this kind exist if pseudorandom generators do
 
@@ -111,4 +111,4 @@ title says. Neither was checked against the printed 2001 volume.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-A's fourth paste builds its operational distinguishability on this claim: its D_b is this claim's distance under feasible tests, and it adds the minimum distinguishing budget B*_ε (filed in [TERM-tmpvb0eg](../terms.d/TERM-tmpvb0eg.md)) and the gloss "Resource-bounded indistinguishability is not an absence of difference." [CLAIM-tmp42yq0](CLAIM-tmp42yq0.md) sets this claim's pseudorandom ensembles at one end of a two-budget picture: maximally different inside, one class outside at polynomial observing budget. No status changes.
+A's fourth paste builds its operational distinguishability on this claim: its D_b is this claim's distance under feasible tests, and it adds the minimum distinguishing budget B*_ε (filed in [TERM-116](../terms.d/TERM-116.md)) and the gloss "Resource-bounded indistinguishability is not an absence of difference." [CLAIM-557](CLAIM-557.md) sets this claim's pseudorandom ensembles at one end of a two-budget picture: maximally different inside, one class outside at polynomial observing budget. No status changes.

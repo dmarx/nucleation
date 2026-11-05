@@ -26,10 +26,10 @@ complements:
 - TERM-064
 - TERM-085
 ---
-<!-- inactive-ok-file: TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
+<!-- inactive-ok-file: TERM-115 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: LIT-1065 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
-<!-- inactive-ok-file: TERM-tmplh56l TERM-tmpexd3x CASE-tmp4op8y — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
+<!-- inactive-ok-file: TERM-113 TERM-112 CASE-203 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 
 # TERM-055: operational availability, of a resource for an action: the chance that an agent–environment system, given the cue it actually has, deploys the resource for the task before the deadline
 
@@ -97,8 +97,8 @@ unchanged.
 
 ## Note of 2026-11-04: response readiness, proposed beside it
 
-A proposed [TERM-tmpuc919](TERM-tmpuc919.md): the probability that an organization under its actual policy responds effectively to an imposed contingency by its deadline. It is organizational, takes the policy as followed rather than the supremum over procedures, and includes recognition and mobilization, so resources each available in this term's sense can still give low readiness when the dispatch policy fails to mobilize them. The two complement each other. The term is unchanged.
+A proposed [TERM-115](TERM-115.md): the probability that an organization under its actual policy responds effectively to an imposed contingency by its deadline. It is organizational, takes the policy as followed rather than the supremum over procedures, and includes recognition and mobilization, so resources each available in this term's sense can still give low readiness when the dispatch policy fails to mobilize them. The two complement each other. The term is unchanged.
 
 ## Note of 2026-11-04: availability lost to congestion
 
-The location models in the emergency-readiness bibliography make α a property of the fleet. A unit is unavailable there only because it is busy elsewhere. Expected coverage and α-reliable coverage ([TERM-tmplh56l](TERM-tmplh56l.md)) are special cases of this term, with the cue and the procedure held fixed. A unit of last resort ([TERM-tmpexd3x](TERM-tmpexd3x.md)) is the limiting case: it is available, but deployed only when the system is saturated. NFIRS records that a cancelled unit was dispatched, not its α ([CASE-tmp4op8y](../cases.d/CASE-tmp4op8y.md)). The term is unchanged.
+The location models in the emergency-readiness bibliography make α a property of the fleet. A unit is unavailable there only because it is busy elsewhere. Expected coverage and α-reliable coverage ([TERM-113](TERM-113.md)) are special cases of this term, with the cue and the procedure held fixed. A unit of last resort ([TERM-112](TERM-112.md)) is the limiting case: it is available, but deployed only when the system is saturated. NFIRS records that a cancelled unit was dispatched, not its α ([CASE-203](../cases.d/CASE-203.md)). The term is unchanged.

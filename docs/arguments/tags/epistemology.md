@@ -6,8 +6,9 @@
 
 **Epistemology** — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy).
 
-1 of 52 ARG documents. Back to the [full index](../README.md).
+2 of 53 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-028](../../../record/arguments.d/ARG-028.md) | Inbound references per code and turns per filed entry show which structures anchor and that drift falls as anchoring keeps up with arrival | The line's proposed measures, counted in the record, as evidence for its persistence and growth-rate theses. The question that is open is whether the measures measure what they are said to: they are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell. Proposed, because the dispute over what drift should be judged against is open. | Proposed |
+| [ARG-053](../../../record/arguments.d/ARG-053.md) | Low observed exercise of a specialized capability is evidence that its maintenance expenditure is wasteful | A's proposal, from the exchange on emergency readiness (2026-11-04; its share link could not be fetched, and its text was pasted by the owner), section 8 of A's "Proposed additions to Nucleation PR [#401](https://github.com/dmarx/nucleation/issues/401)". The inference from "kept at a cost, seldom or never used" to "wasteful". Rejected, as A proposes: the observations are equally expected if the capability is insurance against contingencies that did not occur, and the two departments of [CASE-210](../../../record/cases.d/CASE-210.md) are identical in routine output. [CLAIM-561](../../../record/claims.d/CLAIM-561.md) undercuts it. The counterpart of [ARG-042](../../../record/arguments.d/ARG-042.md). The wording is A's; adopting it is the owner's call. | Rejected |

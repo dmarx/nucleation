@@ -79,4 +79,4 @@ question.
 
 ## Note of 2026-11-05: a mechanical counterpart asked
 
-[QUESTION-tmp9lrtl](QUESTION-tmp9lrtl.md), filed from the pasted synthesis on constraint architectures, asks when a small internally compatible subsystem biases a global organization, after Stern, Pinson and Murugan's folding islands ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)). It is narrower than this question and is not a nucleation question in the thermodynamic sense. No status changes.
+[QUESTION-380](QUESTION-380.md), filed from the pasted synthesis on constraint architectures, asks when a small internally compatible subsystem biases a global organization, after Stern, Pinson and Murugan's folding islands ([NOTE-1571](../notes.d/NOTE-1571.md)). It is narrower than this question and is not a nucleation question in the thermodynamic sense. No status changes.

@@ -6,6 +6,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [5 Nov 04:20 — The pasted synthesis on resource-bounded realizability filed: three responses by A, fifteen works read with one added by the lead, A's glosses of thirty-six held entries checked, and A's theory filed as A's with its demonstrable parts proved](2026-11.md#the-pasted-synthesis-on-resource-bounded-realizability-filed-three-responses-by-a-fifteen-works-read-with-one-added-by-the-lead-as-glosses-of-thirty-six-held-entries-checked-and-as-theory-filed-as-as-with-its-demonstrable-parts-proved)
+- [5 Nov 00:40 — The pasted synthesis on constraint architectures filed: about forty works on FACT, rigidity, compliant mechanisms, control and origami, twenty-five read and ten through open neighbours, A's glosses checked, and A's unheld ideas filed as A's](2026-11.md#the-pasted-synthesis-on-constraint-architectures-filed-about-forty-works-on-fact-rigidity-compliant-mechanisms-control-and-origami-twenty-five-read-and-ten-through-open-neighbours-as-glosses-checked-and-as-unheld-ideas-filed-as-as)
+- [4 Nov 21:40 — The pasted bibliography on emergency readiness filed: none of its twenty works held, seven read, thirteen through open neighbours, and its quotations, glosses of held entries and readings of the papers corrected](2026-11.md#the-pasted-bibliography-on-emergency-readiness-filed-none-of-its-twenty-works-held-seven-read-thirteen-through-open-neighbours-and-its-quotations-glosses-of-held-entries-and-readings-of-the-papers-corrected)
 - [4 Nov 19:26 — The synthesis on hierarchical probabilistic models in cognitive science filed: one of its thirteen works held, twelve registered and read, and its quotations, rival models and uses of "hierarchical" corrected](2026-11.md#the-synthesis-on-hierarchical-probabilistic-models-in-cognitive-science-filed-one-of-its-thirteen-works-held-twelve-registered-and-read-and-its-quotations-rival-models-and-uses-of-hierarchical-corrected)
 - [4 Nov 06:43 — The exchange "Organizational Nucleation and SLT" filed: most of it already held, five owner claims, two of A's, two terms, a question and four constructions, thirty dated notes, and every misread term of art given both its stated idea and the proposal its intended sense would have made](2026-11.md#the-exchange-organizational-nucleation-and-slt-filed-most-of-it-already-held-five-owner-claims-two-of-as-two-terms-a-question-and-four-constructions-thirty-dated-notes-and-every-misread-term-of-art-given-both-its-stated-idea-and-the-proposal-its-intended-sense-would-have-made)
 - [4 Nov 01:36 — The synthesis "The Evolution of Cooperation: From Coexistence to Symbiosis to Morality" checked against the record: most of it already held; four works registered, two claims and a question filed, one citation not identified](2026-11.md#the-synthesis-the-evolution-of-cooperation-from-coexistence-to-symbiosis-to-morality-checked-against-the-record-most-of-it-already-held-four-works-registered-two-claims-and-a-question-filed-one-citation-not-identified)
@@ -17,10 +20,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-205 entries across 3 books, newest first.
+208 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 8 | 2026-11-01 | 2026-11-04 |
+| [2026-11](2026-11.md) | 11 | 2026-11-01 | 2026-11-05 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

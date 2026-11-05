@@ -72,7 +72,7 @@ supports:
 - CLAIM-427
 - CLAIM-454
 ---
-<!-- inactive-ok-file: CASE-tmpoo2tj — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
+<!-- inactive-ok-file: CASE-210 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 
 # CLAIM-414: Matched ordinary trajectories can conceal differences in an interpretation's efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not
 
@@ -187,8 +187,8 @@ independence theorem. The claim is unchanged.
 ## Note of 2026-11-01: the separating intervention in the mechanism literature
 
 <!-- inactive-ok-file: CLAIM-530 THEORY-1292 CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
-<!-- inactive-ok-file: CASE-tmp4op8y — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
-<!-- inactive-ok-file: NOTE-tmpnscd2 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: CASE-203 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
+<!-- inactive-ok-file: NOTE-1596 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 - **The intervention is the mechanists' "lesion".** The claim's second
   construction separates the pair by a perturbation of the maintained
@@ -212,24 +212,24 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-04: Tatel, "A Meta-Analytic Investigation of Procedural Skill Retention and Decay", read
 
-Tatel's dissertation ([LIT-tmplozja](../literature.d/LIT-tmplozja.md)) supports the claim weakly, as an empirical instance. Skill decay shows only under a retention test, the specified intervention, and not in ordinary operation. The dissertation also warns that later retention trials measure relearning, so even the test can hide the difference. The claim's constructions concern interpretation and enabling constraints, which are not studied here. No status changes.
+Tatel's dissertation ([LIT-2079](../literature.d/LIT-2079.md)) supports the claim weakly, as an empirical instance. Skill decay shows only under a retention test, the specified intervention, and not in ordinary operation. The dissertation also warns that later retention trials measure relearning, so even the test can hide the difference. The claim's constructions concern interpretation and enabling constraints, which are not studied here. No status changes.
 
 ## Note of 2026-11-04: Oskar et al., "Procedural Skills Decay in Emergency Medicine", read
 
-Oskar and colleagues' review ([LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md)) supports the claim by analogy. Physicians in the same ordinary practice may differ in maintained procedural skill, and the difference appears only under deliberate retention testing, which the literature rarely does: "Very few studies attempted to track performance until observable decay emerged". It does not test the claim's mechanism. No status changes.
+Oskar and colleagues' review ([LIT-2019](../literature.d/LIT-2019.md)) supports the claim by analogy. Physicians in the same ordinary practice may differ in maintained procedural skill, and the difference appears only under deliberate retention testing, which the literature rarely does: "Very few studies attempted to track performance until observable decay emerged". It does not test the claim's mechanism. No status changes.
 
 ## Note of 2026-11-04: U.S. Fire Administration, "Dispatched and Canceled en Route", read
 
-A call cancelled en route ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)) is an ordinary trajectory in which the dispatched rescue capability was never exercised, so such records cannot show whether that capability was maintained. That qualifies the claim with an operational case. The page itself claims nothing about capability. No status changes.
+A call cancelled en route ([LIT-2084](../literature.d/LIT-2084.md)) is an ordinary trajectory in which the dispatched rescue capability was never exercised, so such records cannot show whether that capability was maintained. That qualifies the claim with an operational case. The page itself claims nothing about capability. No status changes.
 
 ## Note of 2026-11-04: a capability concealed by matched routine output
 
-A's [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) (fictional) has two departments with the same incident history and zero extrications, of which only one can meet an imposed time-critical extrication. It is this claim's pattern carried from interpretation to a maintained capability, and it illustrates the claim without bearing its weight. The claim is unchanged.
+A's [CASE-210](../cases.d/CASE-210.md) (fictional) has two departments with the same incident history and zero extrications, of which only one can meet an imposed time-critical extrication. It is this claim's pattern carried from interpretation to a maintained capability, and it illustrates the claim without bearing its weight. The claim is unchanged.
 
 ## Note of 2026-11-04: an intervention the reporting system cannot see
 
-Under the NFIRS guidance ([CASE-tmp4op8y](../cases.d/CASE-tmp4op8y.md)), a call the department could not answer for lack of resources is not an incident at all. That is the failure that would expose a difference in readiness. The ordinary records of two departments can therefore match even where a demand that only one of them could meet would separate them. The guidance recommends a separate record of such calls but does not require one. No status changes.
+Under the NFIRS guidance ([CASE-203](../cases.d/CASE-203.md)), a call the department could not answer for lack of resources is not an incident at all. That is the failure that would expose a difference in readiness. The ordinary records of two departments can therefore match even where a demand that only one of them could meet would separate them. The guidance recommends a separate record of such calls but does not require one. No status changes.
 
 ## Note of 2026-11-05: the constraint-architecture readings
 
-Hopkins's Freedom and Constraint Topologies, from the pasted synthesis on constraint architectures, supply a mechanical analogue. In the doctoral thesis ([NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md), §§2.2.4 and 4.2, skimmed) and the 2013 paper ([NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md), §3.2), flexures with the same freedom space differ in stiffness, dynamics and where actuation must act, and the matched nominal motion hides those differences until the stage is loaded or driven. That is the claim's pattern, a difference concealed in ordinary operation and exposed by a specified intervention, carried to mechanism design. It is an analogy only: the works concern kinematic equivalence, not interpretation or enabling constraints. No status changes.
+Hopkins's Freedom and Constraint Topologies, from the pasted synthesis on constraint architectures, supply a mechanical analogue. In the doctoral thesis ([NOTE-1596](../notes.d/NOTE-1596.md), §§2.2.4 and 4.2, skimmed) and the 2013 paper ([NOTE-1580](../notes.d/NOTE-1580.md), §3.2), flexures with the same freedom space differ in stiffness, dynamics and where actuation must act, and the matched nominal motion hides those differences until the stage is loaded or driven. That is the claim's pattern, a difference concealed in ordinary operation and exposed by a specified intervention, carried to mechanism design. It is an analogy only: the works concern kinematic equivalence, not interpretation or enabling constraints. No status changes.

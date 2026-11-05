@@ -6,7 +6,7 @@
 
 **Cause to effect** — this mechanism produces that outcome. Critical questions: is the mechanism operative here? Could a confounder produce the same outcome?.
 
-1 of 52 ARG documents. Back to the [full index](../README.md).
+1 of 53 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

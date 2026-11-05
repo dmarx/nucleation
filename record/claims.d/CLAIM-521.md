@@ -96,4 +96,4 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-04: Kuehn, "A mathematical framework for critical transitions", read
 
-Kuehn ([NOTE-tmpob9hv](../notes.d/NOTE-tmpob9hv.md)) supports the claim that the maintenance's recovery rate goes to zero at its saddle-node: he gives the general fold scaling (exponent ½, Prop. 2.10) and shows that slowing down differs by bifurcation type. He says nothing about a coupling's spectral gap staying high while maintenance is lost, so that part is untouched. No status changes.
+Kuehn ([NOTE-1598](../notes.d/NOTE-1598.md)) supports the claim that the maintenance's recovery rate goes to zero at its saddle-node: he gives the general fold scaling (exponent ½, Prop. 2.10) and shows that slowing down differs by bifurcation type. He says nothing about a coupling's spectral gap staying high while maintenance is lost, so that part is untouched. No status changes.
