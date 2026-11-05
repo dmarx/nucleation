@@ -119,25 +119,25 @@ the content lies in which move rules are natural for a substrate.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), LIT-tmp5gf89, read in NOTE-tmp8kyp2, qualifies and leaves open. "All merge
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md), qualifies and leaves open. "All merge
 patterns create the same shape", so one target admits many staple sets, but no yields are compared
 between merge patterns. The comparisons he reports (bridged against unbridged seams, linear against
 circular scaffold) add or remove constraints or change the scaffold, so none holds the compatibility
 complex fixed.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, supports the claim in
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), supports the claim in
 kind but not in the strict sense: three routings of one brick shape with the same composition show
 "more than two orders of magnitude of variation between the mean folding times" and fold at
 different temperatures, but routing changes the complex. Permuting the scaffold sequence along one
 routing changed nothing (§5.2.2), which is the closest the reading comes to the claim's case, and
 it goes the other way.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in NOTE-tmpmw05j, qualify only: two
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), qualify only: two
 42-helix-bundle variants of one shape, one "that differed in its topology of chain connectivity",
 fold best at 52 °C and 48 °C. Different connectivity means a different complex, so this is a
 same-target, different-architecture case rather than the claim's.
 
-**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues (LIT-tmpqku12, NOTE-tmpvgzvb) anneal one dimer origami template, whose
+**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues ([LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), [NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) anneal one dimer origami template, whose
 well-folded shapes they argue are of roughly equal free energy, to different distributions of
 those shapes by changing only the staples that stabilize intermediates: halving the long-range
 seam staples shifts products strongly toward the 5:0 fold and, in their model, cuts misfolds from

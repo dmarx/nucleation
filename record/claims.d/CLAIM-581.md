@@ -151,12 +151,12 @@ inequality and stands.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, qualifies the
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), qualifies the
 claim's applicability: folding and unfolding differ by 5–10 °C and by orders of magnitude in time,
 so origami folding does not satisfy the reversible-moves premise, and the merge-tree structure need
 not hold for it.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in NOTE-tmpmw05j, qualify the choice of
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), qualify the choice of
 cost: hours at a fixed 52 °C "did not reach the slightly lower level" of defects of a 16 h ramp,
 while a 1.5 h three-step schedule gave quality "comparable to that obtained from 16-h long
 annealing". The resource that decides completeness is neither total time nor a single peak

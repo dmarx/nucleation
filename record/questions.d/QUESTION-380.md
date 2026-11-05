@@ -87,16 +87,16 @@ precursor too.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), LIT-tmp0hqya, offer a mechanism by which a small nucleus helps. A staple's longest domain, a "nucleation seed subsequence", binds first. The short folds that follow lower the loop entropy cost for their neighbours, a gain of more than 10 °C in melting temperature for short against long folds. This is predicted from architectural quantities (loop distance and scaffold stiffness), not sequence. Measured on one fold, inferred for many. A test would be a structure with several coupled folds in which a fold's melting or folding temperature rises once a neighbouring fold has closed. No status changes.
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), offer a mechanism by which a small nucleus helps. A staple's longest domain, a "nucleation seed subsequence", binds first. The short folds that follow lower the loop entropy cost for their neighbours, a gain of more than 10 °C in melting temperature for short against long folds. This is predicted from architectural quantities (loop distance and scaffold stiffness), not sequence. Measured on one fold, inferred for many. A test would be a structure with several coupled folds in which a fold's melting or folding temperature rises once a neighbouring fold has closed. No status changes.
 
-**Dunn et al. 2015 and Schneider, Möritz and Dietz 2019, two DNA origami readings.** Two partial answers for origami. Schneider, Möritz and Dietz (NOTE-tmpqi66a): nucleating clusters
+**Dunn et al. 2015 and Schneider, Möritz and Dietz 2019, two DNA origami readings.** Two partial answers for origami. Schneider, Möritz and Dietz ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)): nucleating clusters
 of segments joined by long-range crossovers form a compacted intermediate; removing the 20
 earliest segments costs hours of delay but does not forbid folding; what predicts a nucleus is
 connectivity, not binding strength ("little correlation between the free energy of hybridization
-of entire staple strands with their mean folding time"). Dunn and colleagues (NOTE-tmpvgzvb): an
+of entire staple strands with their mean folding time"). Dunn and colleagues ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)): an
 early partial structure restricts which targets remain reachable, seam patterns before 50%
 occupancy predict the final fold in their model, and seam staples compatible with one target only
-bias toward it. Dannenberg and colleagues (NOTE-tmpyo994) add a caution: the crystal-nucleation
+bias toward it. Dannenberg and colleagues ([NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md)) add a caution: the crystal-nucleation
 analogy "is not so obvious" for origami. Each is one design; generality is open.
 
 No status changes.

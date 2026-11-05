@@ -122,6 +122,6 @@ carry-over rule, under which the transition survives.
 
 The assistant's reading across the eight DNA origami readings filed on the owner's request to connect the record's inquiry to DNA origami. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 
-DNA origami assembly runs on the opposite rule. Rothemund (NOTE-tmp8kyp2) supplies each staple far above what folding consumes: at 1:1 about 1 % of structures were rectangles and at 1.5:1 they looked "moth-eaten", while a 10-fold excess is called "a “safe” concentration". A supply matched to consumption would starve the rare, late-binding staples a fold needs. The analogy is loose, since staples are consumed once and not budgeted period by period, but it shows a self-assembling system whose reliability depends on standing excess over spend, the slack the claim says spend-matching removes.
+DNA origami assembly runs on the opposite rule. Rothemund ([NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md)) supplies each staple far above what folding consumes: at 1:1 about 1 % of structures were rectangles and at 1.5:1 they looked "moth-eaten", while a 10-fold excess is called "a “safe” concentration". A supply matched to consumption would starve the rare, late-binding staples a fold needs. The analogy is loose, since staples are consumed once and not budgeted period by period, but it shows a self-assembling system whose reliability depends on standing excess over spend, the slack the claim says spend-matching removes.
 
 No status changes.

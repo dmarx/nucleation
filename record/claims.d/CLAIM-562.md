@@ -112,7 +112,7 @@ A's proposed experiment tests this directly: "test whether measures of where the
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues (NOTE-tmpvgzvb) fit the claim directly: halving one staple of each seam pair,
+**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) fit the claim directly: halving one staple of each seam pair,
 less binding strength, improves the designed outcome (90% of broken-seam simulations end in 5:0)
 and cuts model misfolds from 52% to 1%, while the full seam set's extra strength causes the traps.
 Where the weakening acts, on cooperative long-range contacts, matters more than how much binding is
