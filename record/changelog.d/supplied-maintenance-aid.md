@@ -1,0 +1,5 @@
+- Supplied maintenance connected to the record's dissipative structures and to aid and development theory, at the owner's request:
+  - read: Moore 2004; Moss, Pettersson & van de Walle 2006; Ostrom, Gibson, Shivakumar & Andersson 2002; Andrews, Pritchett & Woolcock 2013 and Pritchett, Woolcock & Andrews's companion; Azam, Devarajan & O'Connell 1999;
+  - Rogers & Coates 2015 registered Unavailable and read through its Kenya and India summaries;
+  - dated notes on seven held entries.
+- The assistant's claim that upkeep a structure draws in through its own state, as a flame's is, has an ignition threshold, a collapse point in supply and an unrecoverable outage, which supplied upkeep lacks (CLAIM-tmpw4ai2), and its claim that aid used before an organization's own capacity crowds out capacity learned by doing while aid used after it does not (CLAIM-tmpoh07b), with a reproduction script, scratch/formal/supplied_maintenance_toys.py.

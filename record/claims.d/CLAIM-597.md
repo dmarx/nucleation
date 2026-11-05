@@ -50,6 +50,7 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpoh07b CLAIM-tmpw4ai2 NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-566 LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
 
 # CLAIM-597: Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both show
@@ -110,3 +111,14 @@ is the concentration of a supply that comes entirely from outside. Then
   which the model leaves out.
 - **That no DNA system can make its own parts.** Such a system would fall
   outside the claim and would bear on [QUESTION-399](../questions.d/QUESTION-399.md).
+
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Supported at the scale of a state.** Ostrom et al. (NOTE-tmp22pjn) find Zambia's Kafue Gorge station maintained from outside since 1970, its operator "remains completely dependent on outside funds for the continued operation". Moss, Pettersson and van de Walle (NOTE-tmpd45i4) count about three dozen countries that have received a tenth of GNI or more in aid for two decades. In the Kenya summary of the FANTA exit study (NOTE-tmp46avq), activities fed by project inputs until the end declined after exit, while savings groups, whose key was "lack of dependency on outside financing", held.
+- **Qualified: the supply is not neutral.** The claim's repair term leaves the organization's own capacity alone. In every reading the supply lowers it. Recipients of assured help lose skill and effort, the Samaritan's dilemma (Ostrom et al.). Revenue machinery that is not used decays (Moore, NOTE-tmpfngj0). Funding for form crowds out local effort (Andrews, Pritchett and Woolcock, NOTE-tmpfpey1). States make some of their own parts, so they fall outside the claim's scope. CLAIM-tmpoh07b models that case: supply used before the organization's capacity lowers what capacity is kept, and Azam, Devarajan and O'Connell's 1999 model (NOTE-tmpvgfdp) already has the steady-state part.
+- **Moved, not ended.** In the India summary (NOTE-tmp9wlcj) activities continued after exit where government programmes took them over, so the supply changed provider.
+- **Self-maintaining upkeep.** CLAIM-tmpw4ai2 adds the other kind the record's dissipative structures separate: upkeep drawn in by the structure's own state, which escapes dependence on a provider but not on the flux, at the price of thresholds.
+
+No status changes.

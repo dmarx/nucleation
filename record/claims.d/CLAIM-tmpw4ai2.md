@@ -68,8 +68,8 @@ a flux that comes from outside.
   repaired at a rate proportional to how much of the structure is intact,
   κsI. The structure draws the flux in through its own working state. A
   flame vaporizes the wax and draws in the oxygen that keep it burning
-  ([THEORY-072](../theory.d/THEORY-072.md)). An institution's revenue may be collected by the
-  institution being collected for.
+  ([THEORY-072](../theory.d/THEORY-072.md)). A state that taxes the people it serves
+  collects its revenue through its own working.
 
 ## The claim
 

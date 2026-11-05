@@ -23,6 +23,14 @@ line:
 - realizability
 rests_on:
 - CLAIM-558
+grounds:
+- THEORY-tmpkkhou
+- THEORY-tmp0qrm2
+- THEORY-tmp02gkd
+- THEORY-tmph35ra
+- THEORY-tmphv65i
+- THEORY-tmp2ece2
+- THEORY-tmpukudp
 complements:
 - CLAIM-597
 - CLAIM-tmpw4ai2
@@ -55,6 +63,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-tmpw4ai2 — Proposed or new; claims this one rests on or extends, cited as open -->
+<!-- inactive-ok-file: NOTE-tmp22pjn — new; readings of the aid-dependency filing, cited as open -->
 
 # CLAIM-tmpoh07b: Where an organization's capacity is learned by doing the work it serves, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply
 
@@ -112,11 +121,19 @@ C = 0.769, an output of 1.15, more than demand.
 
 - **The assumption is the readings'.** That a state's capacity is learned
   by doing the work is the route out of dependency that Moss, Pettersson
-  and van de Walle take from Kaldor (the state "learns how to tax") and
-  from Azam et al.'s learning by doing, and it is Moore's revenue machinery
-  kept alive by use. Ostrom et al.'s recipients lose skill under repeated
-  help, and Andrews, Pritchett and Woolcock's capability stagnates under
-  aid that pays for form.
+  and van de Walle (NOTE-tmpd45i4) take from Kaldor (the state "learns how to tax") and
+  from Azam et al.'s learning by doing (NOTE-tmpvgfdp), and it is Moore's
+  revenue machinery kept alive by use (NOTE-tmpfngj0). Ostrom et al.'s
+  recipients lose skill under repeated help (NOTE-tmp22pjn), and Andrews,
+  Pritchett and Woolcock's capability stagnates under aid that pays for
+  form (NOTE-tmpfpey1).
+- **Matched in practice, in one study.** In the Kenya summary of the FANTA
+  exit study (NOTE-tmp46avq), "gradual exit, with the opportunity for
+  project participants to operate independently prior to project closure,
+  made it more likely that activities would be continued", and activities
+  supplied by the project until the end declined. Operating independently
+  before closure is the capacity-first rule's doing of the work while
+  support remains. The summary is eight pages without a comparison group.
 - **A second mechanism the model leaves out.** In Ostrom et al.'s
   Samaritan's dilemma the recipient chooses low effort because help is
   assured. That is an incentive, not a learning rate, and it would lower
@@ -125,7 +142,8 @@ C = 0.769, an output of 1.15, more than demand.
   some of their own assets and share the decision to continue, addresses
   the incentive.
 - **Load beyond capacity.** Pritchett, Woolcock and Andrews warn against
-  "premature load bearing", demands on a fledgling system that break it.
+  "premature load bearing" (NOTE-tmpss5e0), demands on a fledgling system
+  that break it.
   The model has no overload failure, and capacity-first asks for the work up
   to capacity, not beyond it. A model in which overload damages capacity
   would make the order of use matter even more.

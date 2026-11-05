@@ -50,6 +50,7 @@ summary: >-
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: LIT-2132 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1398 — Proposed; the account of DeLuca et al., cited as filed, nothing here rests on its being settled -->
@@ -181,5 +182,14 @@ In both, every replacement part is supplied from solution and the structure prod
 - Nothing in it regenerates a member after turnover. Parents persist as templates, and sterile, untemplated dimers accumulate and are never removed or repaired. Every enabling condition is supplied each cycle: monomers, 48 °C and 22 °C steps, UV.
 - This supports the fourth property: replication, even with selection, is not regeneration.
 - Left open: whether any templated system can be made to restore its own members.
+
+No status changes.
+
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Assembly and persistence come apart in aid.** In the Kenya summary (NOTE-tmp46avq), "evidence of impact at the time of project exit did not necessarily predict sustainability" two to three years later. Andrews, Pritchett and Woolcock's isomorphic mimicry (NOTE-tmpfpey1) is assembled form without persisting function: "unimplemented laws, unfunded agencies, and unused processes". Moore (NOTE-tmpfngj0): "we need to distinguish between explaining the origins of collective action and explaining its persistence".
+- **A distinction the claim lacks.** Ostrom et al. (NOTE-tmp22pjn) separate the persistence of a project's effects from that of the project: results can outlast an organization, and a form can outlast its function.
 
 No status changes.

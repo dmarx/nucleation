@@ -27,6 +27,7 @@ summary: >-
   establish persists". The wording is A's; adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpoh07b CLAIM-tmpw4ai2 NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-566 TERM-117 — Proposed, Skimmed or new; entries cited as open -->
 
 # QUESTION-398: Under what conditions does a partial organization become independent of the intervention that originally established it?
@@ -66,3 +67,14 @@ A system where support can be withdrawn at chosen intermediate states,
 with the committor measured afterwards from each, in molecules or in a
 model. A's rival to exclude: "The system merely completed before
 withdrawal".
+
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Answers in part, from practice.** The Kenya summary (NOTE-tmp46avq) names resources, capacity and motivation, "sustainability will not be achieved if any one factor is missing", and linkages formed early, and finds that "gradual exit, with the opportunity for project participants to operate independently prior to project closure, made it more likely that activities would be continued". Fees charged "from the outset" held. In India (NOTE-tmp9wlcj) continuation followed a receiving programme with its own resources and a legal duty, linked before exit. Ostrom et al. (NOTE-tmp22pjn) make beneficiary ownership, including their own contribution and a say over continuing, "necessary, though not sufficient".
+- **The route, from the state literature.** A state leaves dependency as it "learns how to tax" (Kaldor, in Moss et al., NOTE-tmpd45i4). Moore (NOTE-tmpfngj0) separates the origins of a fiscal bargain from its persistence.
+- **A tension.** Azam, Devarajan and O'Connell's (NOTE-tmpvgfdp) optimal exit cuts aid up front, while the Kenya summary favours gradual exit. In Azam et al.'s model the recipient "is actually better off" dependent, so graduating is the donor's gain.
+- **Two models.** In CLAIM-tmpoh07b, under aid used after the organization's own capacity, the support withdraws itself and A's measure D falls to zero with it; under substitution D grows with the support's duration. In CLAIM-tmpw4ai2, where upkeep is self-sustaining, D depends on how long the withdrawal lasts as well as on the state.
+
+No status changes.

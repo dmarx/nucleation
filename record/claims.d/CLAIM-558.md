@@ -38,6 +38,7 @@ summary: >-
   capability an organization keeps for rare events is the filer's. The
   wording is the filer's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpoh07b NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: THEORY-1424 THEORY-1404 — Proposed; the readings this claim is grounded in, themselves Proposed, so the claim is no firmer than they are -->
 <!-- inactive-ok-file: NOTE-1560 — Skimmed; the reading of Tatel's dissertation the quotations come from -->
 
@@ -96,3 +97,12 @@ holding.
   interpretive.
 
 Adopting it is the owner's call.
+
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Qualitative support at the scale of states and projects.** Under repeated help the recipient "loses skill and motivation over time" (Ostrom et al., NOTE-tmp22pjn). Where donors run budgets, "over time, real developmental capacities may atrophy within the administration." (Moss et al., NOTE-tmpd45i4). "If the revenue-raising function is permitted to decay", a weak state is exposed (Moore, NOTE-tmpfngj0). In Kenya, health workers' service fell as refresher training lapsed (NOTE-tmp46avq). None gives a rate.
+- **Used.** CLAIM-tmpoh07b rests on this claim's disuse term to model aid crowding out capacity learned by doing.
+
+No status changes.

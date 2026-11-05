@@ -24,6 +24,7 @@ summary: >-
   governance emerges from heterogeneous processes; this asks when a nucleus
   becomes one. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpw4ai2 — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-597 — new; the assistant's claim on supplied regeneration, cited as open -->
 <!-- inactive-ok-file: CLAIM-566 TERM-117 — Proposed, Skimmed or new; entries cited as open -->
 
@@ -71,3 +72,12 @@ follow.
 - The other way: an argument that productivity and self-maintenance trade
   off, for instance because reversibility serves one and stability the
   other.
+
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Candidate loops.** The fiscal contract, in which revenue funds the state, the state serves taxpayers and their consent funds revenue, is the readings' self-maintaining loop for a state (Moore, NOTE-tmpfngj0; Moss et al., NOTE-tmpd45i4). Aid stands in for its input and can keep it from closing. Andrews, Pritchett and Woolcock (NOTE-tmpfpey1) propose small wins on local problems that loosen constraints over time, asserted, not measured. The Kenya savings groups (NOTE-tmp46avq) trained new groups after exit, a nucleus that reproduced.
+- **What closing the loop costs.** CLAIM-tmpw4ai2 shows that upkeep drawn in by the structure's own state has an ignition threshold, a collapse point in supply and an outage it cannot recover from. A nucleus that becomes self-maintaining in that sense trades smooth dependence for thresholds.
+
+No status changes.
