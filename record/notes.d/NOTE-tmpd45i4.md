@@ -99,8 +99,8 @@ the state to learn to tax.
   funded by donors has nearly tripled since 1995".
 - **The route out (p. 10).** Kaldor: "the key determination of whether a
   state moves from aid dependency to economic self-sufficiency is the
-  degree to which the state learns how to tax". Azam et al.: exit depends
-  on "learning-by-doing in the public sector, a process that is greatly
+  degree to which the state learns how to tax". Azam et al., in the
+  authors' paraphrase (the words are Moss et al.'s): exit depends on "learning-by-doing in the public sector, a process that is greatly
   affected by the level of aid in relation to overall revenue and the
   initial institutional conditions." Bauer: aid "displaces the processes of
   institutional maturation".

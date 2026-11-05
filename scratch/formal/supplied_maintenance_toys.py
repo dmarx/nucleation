@@ -1,7 +1,8 @@
 # scratch/formal/supplied_maintenance_toys.py: reproduces and asserts the numbers of two toy models filed with the
 # aid-and-development reading that follows CLAIM-597: (a) self-sustaining uptake with an ignition threshold, set
 # against CLAIM-597's supplied repair, and (b) capacity learned by doing, against aid that substitutes for the work
-# or fills only what domestic capacity cannot cover. Run: python3 -I scratch/formal/supplied_maintenance_toys.py
+# or comes after domestic capacity, covering only what it cannot (capacity-first; Azam et al. 1999 use
+# "gap-filling aid" for the harmful case, so that name is avoided here). Run: python3 -I scratch/formal/supplied_maintenance_toys.py
 # The parameters are invented to show mechanisms; none is a measurement of any organization or state.
 import math
 
@@ -64,7 +65,7 @@ assert rk4(flame(1), rk4(flame(0), I_HIGH, 30), 100) < 1e-6
 LAM, MU, TAU = 1.0, 0.3, 1.5
 practice_sub = lambda c, a: min(TAU * c, max(0.0, 1 - a))  # aid A does the work first; domestic does the rest
 cap_sub = lambda a: (lambda t, c: LAM * practice_sub(c, a) * (1 - c) - MU * c)
-cap_fill = lambda t, c: LAM * min(TAU * c, 1.0) * (1 - c) - MU * c  # aid only covers what domestic cannot
+cap_first = lambda t, c: LAM * min(TAU * c, 1.0) * (1 - c) - MU * c  # aid only covers what domestic cannot
 c_star = lambda a: LAM * (1 - a) / (LAM * (1 - a) + MU)
 
 C0 = c_star(0)
@@ -102,9 +103,9 @@ for dur, t_full in ((10, 3.84), (20, 6.38), (40, 11.38)):
 # recover, because capacity shrinks as e^(-mu t) and regrows from a small seed at rate lam * tau - mu.
 close((rows[(1.0, 40)][2] - rows[(1.0, 20)][2]) / 20, MU / (LAM * TAU - MU), tol=5e-3)
 
-# Gap-filling aid leaves the learning untouched: from a seed of 0.05 capacity regrows as if there were no aid, and
+# Capacity-first aid leaves the learning untouched: from a seed of 0.05 capacity regrows as if there were no aid, and
 # service is met throughout because aid covers 1 - tau * C while C is short.
-close(rk4(cap_fill, 0.05, 20), C0)
-assert TAU * rk4(cap_fill, 0.05, 5) >= 1
+close(rk4(cap_first, 0.05, 20), C0)
+assert TAU * rk4(cap_first, 0.05, 5) >= 1
 
 print("all supplied-maintenance toy numbers reproduce")
