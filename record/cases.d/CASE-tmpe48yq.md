@@ -36,6 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-tmpt4jsa — Skimmed; Foschi, Hull and Ku, read in part, the source of the equations' form -->
 <!-- inactive-ok-file: CLAIM-tmpbi4ca CLAIM-tmp9jvpb CLAIM-tmpuk8gq TERM-tmp2ysyt CASE-tmpb5t9j — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpatpn9 — Proposed; the frontier claim applied here, cited as open -->
 
 # CASE-tmpe48yq: A single flat-foldable degree-4 vertex under a footprint budget: its two folding modes meet only at the flat state, so passing between folded states needs the full flat footprint of 1.866, more than twice what either folded state at 150° takes
 
@@ -138,6 +139,65 @@ check above; the two hull areas, 0.75 and 0.875, and the flat area, to
 10⁻¹⁵; the maximum of r on each half-branch, reached only at flat; the
 crossings of 1.5 at 54.736° on both modes; and the absence of
 self-intersection. The arithmetic for A and B is shown above.
+
+## Observing costs, and the two frontiers
+
+Added on 2026-11-05, applying CLAIM-tmpatpn9 to this vertex. The model is
+the assistant's.
+
+**States.** The flat state F and, on each of the four half-branches (mode A
+or B, on the side where the largest fold angle is positive or negative), a
+shallow state with largest fold angle 90° and a deep one at 150°, nine in
+all. The deep states on the positive side are A and B above. The shallow
+ones are (−30°, 90°, 30°, 90°) on mode A and (90°, −30°, 90°, 30°) on mode
+B, with their mirror images; each closes to 10⁻¹⁵.
+
+**Acting.** Peak footprint, identities free. On each half-branch the
+footprint falls steadily from flat (checked at 3,000 states per
+half-branch), so the shallow-to-deep threshold on a branch is the shallow
+state's footprint: 1.000 on mode A, 1.125 on mode B (deep: 0.750 and
+0.875). Every path between half-branches, and every path to F, passes flat,
+at 1.866. So mutual reachability has 9 classes below a = 1, 7 from 1 (each
+mode-A branch joins up), 5 from 1.125 (the mode-B branches too: F and the
+four half-branches), and 1 from 1.866.
+
+**Observing.** Four probes, with costs of the assistant's choosing:
+- flat or folded, at cost 1;
+- which mode, read from the sign of ρ1ρ3, at cost 2;
+- which side, the sign of the largest fold angle, at cost 3;
+- deep or shallow, whether the largest fold exceeds 120°, at cost 4.
+
+The observer's classes number 1 below o = 1, then 2, 3, 5 (F and the four
+half-branches) from o = 3, and 9 from o = 4.
+
+**The frontiers.**
+- **The boundary of S,** the least acting budget at which everything the
+  observer cannot tell apart is mutually reachable, is 1.866 for o < 3,
+  1.125 for 3 ≤ o < 4, and 0 from o = 4.
+- **The boundary of T:** A_a ⊆ O_o holds for every o while a < 1, for
+  o < 4 while 1 ≤ a < 1.866, and only for o < 1 from a = 1.866.
+- **Where the partitions agree:**
+  - in the two trivial corners, all in one class (o < 1, a ≥ 1.866) and
+    all apart (o ≥ 4, a < 1);
+  - in one window between them, 3 ≤ o < 4 and 1.125 ≤ a < 1.866. There the
+    observer's classes and the system's reachable classes are the same:
+    F and the four half-branches.
+
+At that pair of budgets, the half-branches are the individuals both from
+outside and from inside. The frontier picks them out; no one stipulated
+them.
+
+**It depends on what is cheap to observe.** Swap the last two probe costs,
+so that depth costs 3 and side costs 4, and the window disappears: at o = 3
+the observer tells deep from shallow but not the two sides apart. The
+system cannot turn one side into the other below 1.866, but can turn
+shallow into deep from 1.125. The partitions then agree only in the
+trivial corners.
+
+So whether the half-branches stand out as individuals depends on the
+order of the probe costs, not only on the mechanism. Computed with
+python3 -I from the closure equations above, the footprint of each state,
+and an exhaustive comparison of the two partitions over all budget pairs.
 
 ## What it can show
 

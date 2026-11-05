@@ -66,7 +66,16 @@ have closed forms (the largest peak distance within an observational class;
 the least budget separating two mutually reachable states). [CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md)
 computes them. This answers the computation part of the question for
 finite systems under peak costs. The structure of the whole two-budget
-family, the degree-4 vertex (which needs a probe model for fold states),
-and organizations whose observing and acting draw on one budget remain
+family, and organizations whose observing and acting draw on one budget remain
 open. No status changes.
 
+## Note of 2026-11-05: the degree-4 vertex computed
+
+CASE-tmpe48yq now carries both frontiers for nine states of the vertex.
+With probes for flatness, mode, side and depth at costs 1 to 4, the outside
+and inside partitions agree non-trivially in one window
+(3 ≤ o < 4, 1.125 ≤ a < 1.866), on the flat state and the four
+half-branches; with side and depth costs swapped, only the trivial
+agreements remain. That suggests the question's third part has teeth: which
+distinctions a system's observers can afford early decides whether its
+own reachable classes ever show up as individuals. No status changes.

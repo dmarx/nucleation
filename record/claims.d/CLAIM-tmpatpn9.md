@@ -48,7 +48,7 @@ summary: >-
   telling apart and becoming. The construction is A's; the boundary
   formulas and checks are the assistant's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpg7w69 CLAIM-tmpq06t8 CLAIM-tmp42yq0 CASE-tmp0d5si — Proposed; entries of this pull request, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpg7w69 CLAIM-tmpq06t8 CLAIM-tmp42yq0 CASE-tmp0d5si CASE-tmpe48yq — Proposed; entries of this pull request, cited as open -->
 
 # CLAIM-tmpatpn9: With observational indistinguishability refining as the observing budget grows and peak-cost mutual reachability coarsening as the acting budget grows, the budget pairs at which everything indistinguishable is mutually reachable form an up-set and those at which everything mutually reachable is indistinguishable form a down-set, with boundaries given by the largest peak distance within an observational class and the least observing budget that separates two mutually reachable states
 
@@ -120,5 +120,9 @@ L from R.
 - It says nothing about whether either partition constitutes the system's
   identity; that stays with the distinction between identification and
   constitution ([CLAIM-150](CLAIM-150.md), [QUESTION-284](../questions.d/QUESTION-284.md)).
-- It has not been computed on the degree-4 vertex, which needs a probe
-  model for fold states first.
+- On the degree-4 vertex (CASE-tmpe48yq, with the assistant's probe
+  model) the partitions agree non-trivially in one window, where both pick
+  out the flat state and the four half-branches; with the costs of the
+  side and depth probes swapped the window disappears. So a non-trivial
+  agreement is a fact about the mechanism and the cost of observing it
+  together, not about either alone.
