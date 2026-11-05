@@ -83,7 +83,7 @@ own reachable classes ever show up as individuals. No status changes.
 
 ## Note of 2026-11-05: one budget for observing and acting
 
-The question's last part is answered in one setting by CLAIM-tmpcyj43. With
+The question's last part is answered in one setting by [CLAIM-tmpcyj43](../claims.d/CLAIM-tmpcyj43.md). With
 o + a ≤ B and nested probes, the cheapest split is always at a probe cost,
 the ready splits at a fixed budget can form separate intervals, and buying
 probes while each lowers the total can stop short of the cheapest. On the

@@ -36,7 +36,7 @@ bears_on:
 summary: >-
   The assistant's, on the owner's request of 2026-11-05 to investigate
   organizations whose observing and acting draw on one budget. Take
-  CLAIM-535's single decision and give both halves a cost. The
+  [CLAIM-535](CLAIM-535.md)'s single decision and give both halves a cost. The
   organization stands in a posture; each circumstance has acceptable
   configurations, each reachable from the posture at some cost; probes
   bought in a fixed order refine what it can tell apart. The acting
@@ -52,7 +52,7 @@ summary: >-
   systems. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpatpn9 CLAIM-tmpg7w69 CLAIM-tmpq06t8 CLAIM-tmpbi4ca CLAIM-tmpy6y22 CLAIM-tmp5rh3v CASE-tmpe48yq QUESTION-tmp3icc7 — Proposed or Open in this pull request, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpatpn9 CLAIM-tmpg7w69 CLAIM-tmpq06t8 CLAIM-tmpbi4ca CLAIM-tmpy6y22 CLAIM-tmp5rh3v CASE-tmpe48yq — Proposed or Open in this pull request, cited as open -->
 
 # CLAIM-tmpcyj43: When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum
 
@@ -76,14 +76,14 @@ summary: >-
     a*(o) = max over classes C of min{r(y) : y ∈ ∩_{w ∈ C} A(w)},
 
   infinite when some class has no common acceptable configuration. With
-  zero costs this is CLAIM-535's criterion.
+  zero costs this is [CLAIM-535](CLAIM-535.md)'s criterion.
 
 One budget: o + a ≤ B.
 
 ## The claim
 
 1. **a\* falls in steps at the probe costs.** Finer classes have larger
-   common acceptable sets (CLAIM-535's refinement), so a\*(o) does not
+   common acceptable sets ([CLAIM-535](CLAIM-535.md)'s refinement), so a\*(o) does not
    rise with o. It is constant between consecutive probe costs, because the
    partition is.
 2. **The least total is at a probe cost.** B\* = min over i of
@@ -122,7 +122,7 @@ first probe sees its total rise and stops, at 5 instead of 3.
 **The degree-4 vertex** ([CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md)), as self-individuation:
 the "classes" are the vertex's own states, readiness is that everything the
 observer identifies is mutually reachable ([CLAIM-tmpatpn9](CLAIM-tmpatpn9.md)'s up-set S), and
-a\* is CLAIM-tmpatpn9's a_S. With the probe costs 1, 2, 3, 4 of the case,
+a\* is [CLAIM-tmpatpn9](CLAIM-tmpatpn9.md)'s a_S. With the probe costs 1, 2, 3, 4 of the case,
 a_S = 1.866, 1.866, 1.866, 1.125, 0, so the totals are 1.866, 2.866,
 3.866, 4.125 and 4. The least total, 1.866, is pure acting. At B = 4 the
 ready splits are o in [0, 2.134] and o = 4: disconnected.
@@ -144,7 +144,7 @@ and 4,103 had greedy stopping short of B\*.
 - **To provisional dispatch** ([CLAIM-tmp5rh3v](CLAIM-tmp5rh3v.md)). Sending the general
   response early is the hedge at o = 0. Whether it is the cheapest
   readiness depends on the whole probe sequence, not on the next probe.
-- **To CLAIM-535.** With costs, there is no need to find the coarsest
+- **To [CLAIM-535](CLAIM-535.md).** With costs, there is no need to find the coarsest
   sufficient observation. The question is which point on the frontier
   between the two budgets is cheapest, and the answer can be no
   observation at all.
