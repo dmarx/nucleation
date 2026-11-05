@@ -157,6 +157,6 @@ No status changes.
 
 From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
 
-A's second synthesis adds a progress observer to the claim's picture. The count of bound domains identifies partial structures whose futures differ, "Being further along according to an ordinary progress metric does not guarantee being closer to a successfully completed organization", so such an observer's classes lie outside the claim's up-set whenever the structures are not mutually reachable. A's committor q(s) = Pr_s(τ_F < τ_K) is the quantity that would separate them (CASE-tmpvdu02).
+A's second synthesis adds a progress observer to the claim's picture. The count of bound domains identifies partial structures whose futures differ, "Being further along according to an ordinary progress metric does not guarantee being closer to a successfully completed organization", so such an observer's classes lie outside the claim's up-set whenever the structures are not mutually reachable. A's committor q(s) = Pr_s(τ_F < τ_K) is the quantity that would separate them ([CASE-tmpvdu02](../cases.d/CASE-tmpvdu02.md)).
 
 No status changes.

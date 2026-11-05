@@ -190,6 +190,6 @@ No status changes.
 
 From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
 
-A adds a distinction the claim's three requirements imply: "The architecture that supports a completed organization and the architecture that assembles it need not be the same thing." A's example is scaffold routing, which fixes how the chain traverses the target, and so the loop costs of forming it, apart from the target's geometry. Aksel et al. 2024 (NOTE-tmptbrlo) qualify the example: in their family, the equilibrium stability of the finished staples, a holding quantity, predicts construction yield, and their model ignores kinetics. A's phrase "optimizing a developmental mechanism" goes beyond that paper.
+A adds a distinction the claim's three requirements imply: "The architecture that supports a completed organization and the architecture that assembles it need not be the same thing." A's example is scaffold routing, which fixes how the chain traverses the target, and so the loop costs of forming it, apart from the target's geometry. Aksel et al. 2024 ([NOTE-tmptbrlo](../notes.d/NOTE-tmptbrlo.md)) qualify the example: in their family, the equilibrium stability of the finished staples, a holding quantity, predicts construction yield, and their model ignores kinetics. A's phrase "optimizing a developmental mechanism" goes beyond that paper.
 
 No status changes.
