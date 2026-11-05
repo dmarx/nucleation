@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpepjt3
 summary: >-
-  Douglas, Dietz, Liedl, Högberg, Graf and Shih (2009), LIT-tmpepjt3, read
-  in NOTE-tmp77tp9 (main text and captions; the Supplementary Information
+  Douglas, Dietz, Liedl, Högberg, Graf and Shih (2009), [LIT-tmpepjt3](../literature.d/LIT-tmpepjt3.md), read
+  in [NOTE-tmp77tp9](../notes.d/NOTE-tmp77tp9.md) (main text and captions; the Supplementary Information
   unread). Proposed: per-target yields and the six-helix-bundle data are in
   the unread supplement, yield is a gel-band fraction and quality is
   judged by eye. The title asserts the reported conditions and outcomes;
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Douglas, Dietz, Liedl, Högberg, Graf and Shih (2009), LIT-tmpepjt3; read
-in NOTE-tmp77tp9.
+Douglas, Dietz, Liedl, Högberg, Graf and Shih (2009), [LIT-tmpepjt3](../literature.d/LIT-tmpepjt3.md); read
+in [NOTE-tmp77tp9](../notes.d/NOTE-tmp77tp9.md).
 
 ## What was actually shown
 
@@ -53,5 +53,5 @@ in NOTE-tmp77tp9.
 - How yield scales with complexity: the comparison is categorical.
 - What the cation effects are mechanically: offered as "may" and "might".
 - Anything about folding temperatures, hysteresis or isothermal folding,
-  none of which is measured; Sobczak's later work (THEORY-tmp500wn) and the
-  held simulation (THEORY-1398) take these up.
+  none of which is measured; Sobczak's later work ([THEORY-tmp500wn](THEORY-tmp500wn.md)) and the
+  held simulation ([THEORY-1398](THEORY-1398.md)) take these up.

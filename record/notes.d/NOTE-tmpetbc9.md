@@ -147,26 +147,26 @@ more resource feeds.
 
 ## Connections
 
-It extends Majikes et al. 2020 (LIT-tmp0hqya, NOTE-tmperio5,
-THEORY-tmpynb4z) from the holding side of one fold (melting temperature
+It extends Majikes et al. 2020 ([LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), [NOTE-tmperio5](NOTE-tmperio5.md),
+[THEORY-tmpynb4z](../theory.d/THEORY-tmpynb4z.md)) from the holding side of one fold (melting temperature
 against fold distance, recorded on the melt) to the reaching side (the
 population folded after an anneal), reuses its j-factors as the a priori
 model, and adds a second mechanism to the same nucleation-and-growth
-inference. Rothemund (LIT-tmp5gf89, NOTE-tmp8kyp2, THEORY-tmpzb4hv) found
+inference. Rothemund ([LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), [NOTE-tmp8kyp2](NOTE-tmp8kyp2.md), [THEORY-tmpzb4hv](../theory.d/THEORY-tmpzb4hv.md)) found
 9:1 and 100:1 excess indistinguishable for whole rectangles and proposed
 strand invasion; this paper shows the single fold is hurt by such excess
 and supplies the mechanism by which the whole rectangle may not be. The
 blocked state is the elementary competitor a domain-level model such as
-Dannenberg et al.'s (LIT-tmpdyrnb, NOTE-tmpyo994) must carry. The
+Dannenberg et al.'s ([LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), [NOTE-tmpyo994](NOTE-tmpyo994.md)) must carry. The
 nucleation-front hypothesis sits beside the measured pathways of Dunn et
-al. (LIT-tmpqku12), Schneider et al. (LIT-tmp7v945) and Lee Tin Wah et al.
-2016 (LIT-tmps9gx3), whose own mass-action model has the same blocking
-by a second copy, and beside Sobczak's isothermal folding (LIT-tmpwddcn,
-NOTE-tmpwxm2p); it tests none of them. Like Wagenbauer et al.
-(LIT-tmpduceb), it finds the cheap probe hides differences; strand
-displacement, designed actuation in Marras et al. (LIT-tmp11aw1), is here
-the proposed repair of a misfold. Against the held simulation, LIT-2081
-(NOTE-1561, THEORY-1398): complementary, a local, per-fold,
+al. ([LIT-tmpqku12](../literature.d/LIT-tmpqku12.md)), Schneider et al. ([LIT-tmp7v945](../literature.d/LIT-tmp7v945.md)) and Lee Tin Wah et al.
+2016 ([LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md)), whose own mass-action model has the same blocking
+by a second copy, and beside Sobczak's isothermal folding ([LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md),
+[NOTE-tmpwxm2p](NOTE-tmpwxm2p.md)); it tests none of them. Like Wagenbauer et al.
+([LIT-tmpduceb](../literature.d/LIT-tmpduceb.md)), it finds the cheap probe hides differences; strand
+displacement, designed actuation in Marras et al. ([LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md)), is here
+the proposed repair of a misfold. Against the held simulation, [LIT-2081](../literature.d/LIT-2081.md)
+([NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)): complementary, a local, per-fold,
 concentration-driven trap beside global topological ones, both pointing
 to long or interior folds as the hard ones.
 
@@ -185,39 +185,39 @@ to long or interior folds as the hard ones.
   type open. A's reading-list entry, "Kinetic blocking and failure
   mechanisms at the level of a single fold", is A's paraphrase; "kinetic"
   is not supported for the single fold.
-- **CLAIM-567 (feasible, reachable, reliably reached): supports,
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reached): supports,
   directly.** The folded state is feasible and reached, and at high excess
   reached by under half the molecules through an equilibrium competitor;
-  reliability is set by S0/j. CLAIM-357's separation of infeasibility from
+  reliability is set by S0/j. [CLAIM-357](../claims.d/CLAIM-357.md)'s separation of infeasibility from
   realized shortfall fits: here the shortfall is realized with the target
   feasible.
-- **CLAIM-tmp7y162 (non-monotone resource, window): a parallel case on
+- **[CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md) (non-monotone resource, window): a parallel case on
   another resource.** Staple excess has a window, but at a single fold it
   is equilibrium, not a time budget, and heat is not what drives it.
-- **CLAIM-569: qualifies.** The constructing resource is non-monotone for
+- **[CLAIM-569](../claims.d/CLAIM-569.md): qualifies.** The constructing resource is non-monotone for
   one fold and behaves otherwise for a whole origami, where Rothemund
   found excess harmless.
-- **CLAIM-583: qualifies.** A changed motif joining the same scaffold sites
+- **[CLAIM-583](../claims.d/CLAIM-583.md): qualifies.** A changed motif joining the same scaffold sites
   left yield unchanged; a changed fold distance changed it.
-- **CLAIM-571: supports, as hypothesis.** Leaving the blocked state needs
+- **[CLAIM-571](../claims.d/CLAIM-571.md): supports, as hypothesis.** Leaving the blocked state needs
   a whole staple displaced, possible only once neighbouring folds raise j;
   holding the fold needs no such thing.
-- **CLAIM-591: weak, inferred**: repair is favourable only along a front,
-  a one-way order, unmeasured. **CLAIM-184: supports locally**, as an
+- **[CLAIM-591](../claims.d/CLAIM-591.md): weak, inferred**: repair is favourable only along a front,
+  a one-way order, unmeasured. **[CLAIM-184](../claims.d/CLAIM-184.md): supports locally**, as an
   equilibrium share at one fold, not lock-in.
-- **CLAIM-557 and CLAIM-574 (observing refines): supports.** One topology
+- **[CLAIM-557](../claims.d/CLAIM-557.md) and [CLAIM-574](../claims.d/CLAIM-574.md) (observing refines): supports.** One topology
   channel lumps blocked with unbound, gels lump circle with figure-eight,
-  and more states need more channels. CLAIM-570 and CLAIM-592: a weak
+  and more states need more channels. [CLAIM-570](../claims.d/CLAIM-570.md) and [CLAIM-592](../claims.d/CLAIM-592.md): a weak
   illustration, the dearer probe proposed, not built.
-- **QUESTION-380 (small compatible nucleus): directly relevant, as a
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (small compatible nucleus): directly relevant, as a
   hypothesis.** Nucleate where fold distances are short; each fold raises
   its neighbours' j and lets blockers be displaced; tiles lack these
   cooperativities and stall.
-- **QUESTION-tmpg0j9y**: a window on the amount of one staple, not an
+- **[QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md)**: a window on the amount of one staple, not an
   allocation among staples.
-- **CLAIM-581, CLAIM-566, CLAIM-478, CLAIM-025, QUESTION-388, TERM-070:
+- **[CLAIM-581](../claims.d/CLAIM-581.md), [CLAIM-566](../claims.d/CLAIM-566.md), [CLAIM-478](../claims.d/CLAIM-478.md), [CLAIM-025](../claims.d/CLAIM-025.md), [QUESTION-388](../questions.d/QUESTION-388.md), [TERM-070](../terms.d/TERM-070.md):
   nothing.**
-- Filed: THEORY-tmpzi9gz. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpzi9gz](../theory.d/THEORY-tmpzi9gz.md). No instruction for machine-learning practice.
 
 ## Limitations
 

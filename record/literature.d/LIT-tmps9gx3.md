@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp059hz) from the authors' manuscript deposited in
+  read 2026-11-05 ([NOTE-tmp059hz](../notes.d/NOTE-tmp059hz.md)) from the authors' manuscript deposited in
   the Sorbonne Université HAL archive (hal-01623551v1), main text, figure
   captions, references and the full supplement, the staple sequence list
   and the image-processing procedure in detail skipped, figure images not
@@ -74,7 +74,7 @@ Lee Tin Wah, J., David, C., Rudiuk, S., Baigl, D. & Estévez-Torres, A. (2016). 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp059hz (main text, captions and supplement; figure images not viewed).*
+*From the reading, [NOTE-tmp059hz](../notes.d/NOTE-tmp059hz.md) (main text, captions and supplement; figure images not viewed).*
 
 - **Folding starts at fixed places.** "In standard conditions folding was
   initiated at the edges of the rectangle and progressed towards the
@@ -106,14 +106,14 @@ path. The reading supports the narrower point: with sequences fixed, a
 change of staple concentrations reroutes where folding starts and the
 same kind of rectangle still forms. It does not show a fixed stock
 reallocated (the total rose, the ramp slowed) and does not measure the
-final-form distribution, so it bears on QUESTION-tmpg0j9y and
-CASE-tmpu0s44 as a partial instance only. It qualifies CLAIM-567 (the
+final-form distribution, so it bears on [QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md) and
+[CASE-tmpu0s44](../cases.d/CASE-tmpu0s44.md) as a partial instance only. It qualifies [CLAIM-567](../claims.d/CLAIM-567.md) (the
 target's reliability is quantified under one allocation only) and
-CLAIM-184 (early nuclei set the path but, by the authors' account, do not
-lock in the outcome), gives an observed nucleus location for QUESTION-380,
-and illustrates CLAIM-557 with observables that split the intermediates
+[CLAIM-184](../claims.d/CLAIM-184.md) (early nuclei set the path but, by the authors' account, do not
+lock in the outcome), gives an observed nucleus location for [QUESTION-380](../questions.d/QUESTION-380.md),
+and illustrates [CLAIM-557](../claims.d/CLAIM-557.md) with observables that split the intermediates
 two, four or six ways. Its equilibrium account sits beside the kinetic
-traps of the held simulation reading, LIT-2081 (THEORY-1398), which it
+traps of the held simulation reading, [LIT-2081](LIT-2081.md) ([THEORY-1398](../theory.d/THEORY-1398.md)), which it
 neither contradicts nor tests: a 2D rectangle shows no global trap.
-Filed from it: THEORY-tmp7qfc2. No instruction for machine-learning
+Filed from it: [THEORY-tmp7qfc2](../theory.d/THEORY-tmp7qfc2.md). No instruction for machine-learning
 practice.

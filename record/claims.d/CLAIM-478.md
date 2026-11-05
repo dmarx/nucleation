@@ -354,7 +354,7 @@ No status changes.
 
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
-A puts the claim's point in molecular terms: "the constraints themselves are created during assembly", and an early interaction "can establish a relatively persistent constraint on subsequent, faster-scale motions and binding events". A asks when this is "genuinely causal rather than merely a change in how we describe a completed object". The readings filed here contain the test A asks for. Schneider, Möritz and Dietz (NOTE-tmpqi66a) removed the twenty earliest-binding segments, and the compacted intermediate did not form; the unfolded state "prevails for hours" before a slower pathway folds. An intervention on the early constraint changed the later dynamics, which a redescription would not.
+A puts the claim's point in molecular terms: "the constraints themselves are created during assembly", and an early interaction "can establish a relatively persistent constraint on subsequent, faster-scale motions and binding events". A asks when this is "genuinely causal rather than merely a change in how we describe a completed object". The readings filed here contain the test A asks for. Schneider, Möritz and Dietz ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)) removed the twenty earliest-binding segments, and the compacted intermediate did not form; the unfolded state "prevails for hours" before a slower pathway folds. An intervention on the early constraint changed the later dynamics, which a redescription would not.
 
 No status changes.
 

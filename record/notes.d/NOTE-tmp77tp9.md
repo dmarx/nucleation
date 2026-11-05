@@ -140,23 +140,23 @@ perhaps due in part to the larger density of crossovers".
 
 ## Connections
 
-It extends Rothemund's flat method (LIT-tmp5gf89, NOTE-tmp8kyp2), using a
+It extends Rothemund's flat method ([LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), [NOTE-tmp8kyp2](NOTE-tmp8kyp2.md)), using a
 fivefold staple excess against Rothemund's hundredfold and a week-long
-ramp against about two hours. Sobczak's thesis (LIT-tmpwddcn,
-NOTE-tmpwxm2p), from the same lineage, re-examines the week-long
+ramp against about two hours. Sobczak's thesis ([LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md),
+[NOTE-tmpwxm2p](NOTE-tmpwxm2p.md)), from the same lineage, re-examines the week-long
 protocols, finds them spending about 20 h in the productive window
-(THEORY-tmp500wn), and makes 3D folding fast and isothermal. Schneider et
-al. (LIT-tmp7v945, NOTE-tmpqi66a), Dunn et al. (LIT-tmpqku12) and
-Dannenberg et al. (LIT-tmpdyrnb) resolve folding pathways that this paper
-treats as a black box. Wagenbauer et al. (LIT-tmpduceb, NOTE-tmpmw05j)
+([THEORY-tmp500wn](../theory.d/THEORY-tmp500wn.md)), and makes 3D folding fast and isothermal. Schneider et
+al. ([LIT-tmp7v945](../literature.d/LIT-tmp7v945.md), [NOTE-tmpqi66a](NOTE-tmpqi66a.md)), Dunn et al. ([LIT-tmpqku12](../literature.d/LIT-tmpqku12.md)) and
+Dannenberg et al. ([LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md)) resolve folding pathways that this paper
+treats as a black box. Wagenbauer et al. ([LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), [NOTE-tmpmw05j](NOTE-tmpmw05j.md))
 measure what its assay misses: gel mobility and TEM averages hide missing
-staples. Marras et al. (LIT-tmp11aw1) supply the reconfiguration this
-paper lacks, and Majikes et al. 2020 (LIT-tmp0hqya) the fold
+staples. Marras et al. ([LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md)) supply the reconfiguration this
+paper lacks, and Majikes et al. 2020 ([LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md)) the fold
 thermodynamics it never measures. The kinetic traps it conjectures are
-what the held simulation, LIT-2081 (NOTE-1561, THEORY-1398), addresses;
+what the held simulation, [LIT-2081](../literature.d/LIT-2081.md) ([NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)), addresses;
 its hypotheses (crossover density, confined interlayer folding) anticipate
 interior-geometry traps. Its honeycomb lattice is the frame of the
-logic-gated barrel of Douglas, Bachelet and Church 2012 (LIT-tmpqorwy).
+logic-gated barrel of Douglas, Bachelet and Church 2012 ([LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md)).
 
 ## Bearing on the record
 
@@ -172,34 +172,34 @@ logic-gated barrel of Douglas, Bachelet and Church 2012 (LIT-tmpqorwy).
   paper's "one-pot reaction, after rapid heating followed by slow
   cooling", but A omits the week-long anneal, the 7–44 % yields and the
   cation dependence, which are the paper's main kinetic findings.
-- **CLAIM-567 (feasible, reachable, reliably reached): supports.** The
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reached): supports.** The
   designs are feasible and reachable, reliability poor, and the same
   design is not reached under 1.2 h ramps, at 4 mM Mg2+ or at high Na+.
-- **CLAIM-571 and CLAIM-581: consistent, not bearing on peak cost.**
+- **[CLAIM-571](../claims.d/CLAIM-571.md) and [CLAIM-581](../claims.d/CLAIM-581.md): consistent, not bearing on peak cost.**
   Reaching needs a week, holding survives 24 h at 30–50 °C or a gel on
   ice; but all ramps share one peak, so the cost that differs is time,
-  the additive case in which CLAIM-581 says no tree exists (suggestive
+  the additive case in which [CLAIM-581](../claims.d/CLAIM-581.md) says no tree exists (suggestive
   only).
-- **CLAIM-569: supports the construct ≫ maintain gap qualitatively**;
-  transition: nothing. **CLAIM-566: supports the example**: assembly at a
+- **[CLAIM-569](../claims.d/CLAIM-569.md): supports the construct ≫ maintain gap qualitatively**;
+  transition: nothing. **[CLAIM-566](../claims.d/CLAIM-566.md): supports the example**: assembly at a
   yield, persistence through purification and incubation, nothing
   regenerates.
-- **CLAIM-583: qualified support.** The bottle on two scaffolds is not a
+- **[CLAIM-583](../claims.d/CLAIM-583.md): qualified support.** The bottle on two scaffolds is not a
   clean same-complex comparison: staples, length and tail differ.
-- **CLAIM-tmp7y162 (non-monotone resource): roughly supports the
+- **[CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md) (non-monotone resource): roughly supports the
   time-widens part** (longer ramps help at fixed Mg2+), and adds a
   non-thermal case: Mg2+ too low fails, more raises proper folding and
   aggregation alike. That a usable Mg2+ window exists is the reader's
   inference; no upper failure point within 0–30 mM is named.
-- **CLAIM-557, CLAIM-574, CLAIM-570, CLAIM-592: illustrative.** The gel
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md): illustrative.** The gel
   separates by compactness only within a condition; TEM refines it but
-  cannot tell incomplete folding from staining collapse. CLAIM-572 and
-  QUESTION-374: weak, the gel run both assays and purifies.
-- **CLAIM-591, CLAIM-184, CLAIM-478, CLAIM-025, QUESTION-388, TERM-070:
+  cannot tell incomplete folding from staining collapse. [CLAIM-572](../claims.d/CLAIM-572.md) and
+  [QUESTION-374](../questions.d/QUESTION-374.md): weak, the gel run both assays and purifies.
+- **[CLAIM-591](../claims.d/CLAIM-591.md), [CLAIM-184](../claims.d/CLAIM-184.md), [CLAIM-478](../claims.d/CLAIM-478.md), [CLAIM-025](../claims.d/CLAIM-025.md), [QUESTION-388](../questions.d/QUESTION-388.md), [TERM-070](../terms.d/TERM-070.md):
   nothing**; no conversion between products, no mechanism, no
-  reconfiguration. QUESTION-380: only loosely, hierarchical assembly from
+  reconfiguration. [QUESTION-380](../questions.d/QUESTION-380.md): only loosely, hierarchical assembly from
   pre-folded "well-behaved" monomers as a fold-small-first strategy.
-- Filed: THEORY-tmp8xe45. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp8xe45](../theory.d/THEORY-tmp8xe45.md). No instruction for machine-learning practice.
 
 ## Limitations
 

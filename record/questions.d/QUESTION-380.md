@@ -106,8 +106,8 @@ No status changes.
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
 A offers a five-stage sequence, which A flags as "a synthesis of observed and simulated mechanisms, not a universal sequence": unassembled scaffold, nucleating interactions, cooperative growth, intermediate organization, then success or trap. The works A cites qualify where the nucleus forms and what it does.
-- **Concentration can move the nucleus.** Wah et al. 2016 (NOTE-tmp059hz) moved the start of folding from the edges to the centre by raising central and cutting edge staple concentrations. The authors give an equilibrium reading: folding starts where staples melt highest.
-- **Short fold distances may set it.** Majikes et al. 2021 (NOTE-tmpetbc9) hypothesize that origami nucleates where fold distances are short, and grows along a front as folding displaces blocking strands.
+- **Concentration can move the nucleus.** Wah et al. 2016 ([NOTE-tmp059hz](../notes.d/NOTE-tmp059hz.md)) moved the start of folding from the edges to the centre by raising central and cutting edge staple concentrations. The authors give an equilibrium reading: folding starts where staples melt highest.
+- **Short fold distances may set it.** Majikes et al. 2021 ([NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md)) hypothesize that origami nucleates where fold distances are short, and grows along a front as folding displaces blocking strands.
 - **Moving the nucleus is not yet shown to change the outcome.** Neither reading shows that moving the nucleus changes the final yield, which is what the question asks.
 
 No status changes.

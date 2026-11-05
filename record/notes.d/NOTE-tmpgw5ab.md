@@ -115,19 +115,19 @@ has a rule but no means to change it.
 ## Connections
 
 The barrel is a honeycomb multilayer design in the line of Douglas et al.
-2009 (LIT-tmpepjt3, NOTE-tmp77tp9), whose week-long folding problem it
+2009 ([LIT-tmpepjt3](../literature.d/LIT-tmpepjt3.md), [NOTE-tmp77tp9](NOTE-tmp77tp9.md)), whose week-long folding problem it
 does not revisit. Its nearest sibling on the branch is Marras et al.
-(LIT-tmp11aw1, NOTE-tmpjeolx, THEORY-tmp1799q), whose mechanisms are
+([LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md), [NOTE-tmpjeolx](NOTE-tmpjeolx.md), [THEORY-tmp1799q](../theory.d/THEORY-tmp1799q.md)), whose mechanisms are
 switched by added strands and switched back by strand displacement, with
 the cost of holding a configuration measured; this device opens once and
 measures no holding cost. Both exclude or do not count misfolds and read
 conformations from TEM on a surface. The mechanical origami logic of
-LIT-2082 (THEORY-1373) is a different route to logic, reconfigurable by
+[LIT-2082](../literature.d/LIT-2082.md) ([THEORY-1373](../theory.d/THEORY-1373.md)) is a different route to logic, reconfigurable by
 moving switching elements, where here the rule is fixed in sequence. The
 record's other aptamer mention, in the functional-information reading
-LIT-1148, is conceptual. The device does not study its own folding
-pathway, so it has no bearing on the held simulation LIT-2081
-(THEORY-1398).
+[LIT-1148](../literature.d/LIT-1148.md), is conceptual. The device does not study its own folding
+pathway, so it has no bearing on the held simulation [LIT-2081](../literature.d/LIT-2081.md)
+([THEORY-1398](../theory.d/THEORY-1398.md)).
 
 ## Bearing on the record
 
@@ -144,32 +144,32 @@ pathway, so it has no bearing on the held simulation LIT-2081
   as an inference, not the paper's text; the paper does not discuss
   self-revision. A's remark that origami does not make its own staples:
   consistent with this paper, stated generally by A.
-- **CLAIM-025 (regime, governing organization, capacity to transform):
+- **[CLAIM-025](../claims.d/CLAIM-025.md) (regime, governing organization, capacity to transform):
   supports the split and makes it physical.** Operative regime and
   governing rule realized; the capacity to transform the rule absent and
   external.
-- **QUESTION-388 (programmable against self-governing): a clean
+- **[QUESTION-388](../questions.d/QUESTION-388.md) (programmable against self-governing): a clean
   programmable case.** The rule is set from outside; nothing in the
   device updates it; opening is a one-shot conformational change, not a
   rewrite.
-- **CLAIM-569 (construct, maintain, transition): supports.** Construction
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition): supports.** Construction
   pays guide staples added and removed; transition is paid in key
   concentration, set by lock length; holding is not measured.
-- **CLAIM-567: supports.** Closed is feasible; open reachable only with the
+- **[CLAIM-567](../claims.d/CLAIM-567.md): supports.** Closed is feasible; open reachable only with the
   right keys; its reliability tuned by lock length against spontaneous
   activation and reported as population fractions.
-- **CLAIM-571: supports loosely**: the key needed to open is set by lock
+- **[CLAIM-571](../claims.d/CLAIM-571.md): supports loosely**: the key needed to open is set by lock
   stability, a separate quantity from what holds the open state.
-- **CLAIM-583: weak support**: six robots share one geometry and move but
+- **[CLAIM-583](../claims.d/CLAIM-583.md): weak support**: six robots share one geometry and move but
   differ in which inputs make open reachable.
-- **CLAIM-566 and TERM-070: supports the persistence-without-regeneration
+- **[CLAIM-566](../claims.d/CLAIM-566.md) and [TERM-070](../terms.d/TERM-070.md): supports the persistence-without-regeneration
   example**; no organizational closure.
-- **QUESTION-380: oblique**: the guide staples are a small fold-time
+- **[QUESTION-380](../questions.d/QUESTION-380.md): oblique**: the guide staples are a small fold-time
   addition that biases outcome, a folding aid rather than a nucleus.
-- **CLAIM-557 and the budget claims: mostly nothing**; open and closed are
+- **[CLAIM-557](../claims.d/CLAIM-557.md) and the budget claims: mostly nothing**; open and closed are
   told apart functionally, a measurement-cost remark only.
-- **CLAIM-591, CLAIM-581, CLAIM-184, CLAIM-478: nothing directly.**
-- Filed: THEORY-tmptmlc7. No instruction for machine-learning practice.
+- **[CLAIM-591](../claims.d/CLAIM-591.md), [CLAIM-581](../claims.d/CLAIM-581.md), [CLAIM-184](../claims.d/CLAIM-184.md), [CLAIM-478](../claims.d/CLAIM-478.md): nothing directly.**
+- Filed: [THEORY-tmptmlc7](../theory.d/THEORY-tmptmlc7.md). No instruction for machine-learning practice.
 
 ## Limitations
 
