@@ -24,6 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpe48yq CASE-tmpsbhp8 CLAIM-tmp42yq0 CLAIM-tmpsbz28 NOTE-tmp6e0rl NOTE-tmpusebl — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpatpn9 CASE-tmp0d5si — Proposed; the frontier claim and its worked case, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpcyj43 — Proposed; the shared-budget claim, cited as open -->
 
 # QUESTION-tmp3icc7: What is the structure of a system's individuation indexed jointly by an observing budget and an acting budget, which invariants of that bifiltration are computable, and where do observing and acting draw on the same resource so that the two cannot be raised together?
 
@@ -79,3 +80,15 @@ half-branches; with side and depth costs swapped, only the trivial
 agreements remain. That suggests the question's third part has teeth: which
 distinctions a system's observers can afford early decides whether its
 own reachable classes ever show up as individuals. No status changes.
+
+## Note of 2026-11-05: one budget for observing and acting
+
+The question's last part is answered in one setting by CLAIM-tmpcyj43. With
+o + a ≤ B and nested probes, the cheapest split is always at a probe cost,
+the ready splits at a fixed budget can form separate intervals, and buying
+probes while each lowers the total can stop short of the cheapest. On the
+degree-4 vertex, with probe costs 1 to 4, the cheapest is pure acting
+(1.866), and at B = 4 the ready splits are o in [0, 2.134] and o = 4. The
+trade bites where a probe separates nothing a common response cannot cover
+until a later probe completes the separation. No status changes.
+
