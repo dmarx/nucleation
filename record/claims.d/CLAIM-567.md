@@ -250,3 +250,17 @@ fractions, not certainty.
 **Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), read in [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md), support the separation for replication. In their model, separating very large tile patterns is feasible. In experiment, separation was reached only up to tetramers before the tiles unravelled, and the per-cycle replication rate fell from about 1.9 for dimers to 1.6 for tetramers. The reading leaves open where the practical limit lies beyond four tiles.
 
 No status changes.
+
+## Note of 2026-11-05: Shirt-Ediss et al., "Optimising DNA origami assembly by reducing off-target interactions", read
+
+Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
+
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, support the claim and give the
+cleanest instance on the record: for four DNA origami shapes, three scaffold sequences each with fully
+complementary staples realise one design, so every variant is feasible by construction, yet under one
+protocol the share of well-folded objects ranges from about 65–75% to 0–20% according to the off-target
+binding the sequence allows. It leaves open the line between reachable and reliably reachable, since some
+objects of the off-target-prone variants are well folded, and the cause of the failures is inferred, not
+observed.
+
+No status changes.

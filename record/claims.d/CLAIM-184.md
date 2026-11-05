@@ -211,3 +211,15 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A's third synthesis puts the claim's entrenchment as the third of three cases, a partial organization that "persists in a configuration that makes the target difficult to reach". A cites Dunn et al.'s abstract: "reversible bond-formation is important in recovering from transient misfoldings". The assistant's CLAIM-tmpuv9yj adds that two productive nuclei can entrench together into a trap.
 
 No status changes.
+
+## Note of 2026-11-05: Shirt-Ediss et al., "Optimising DNA origami assembly by reducing off-target interactions", read
+
+Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
+
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, give weak, interpretive support:
+sequences offering many off-target bindings fold badly and aggregate, and the authors read this as kinetic
+trapping by early mis-binding. The timing account, that on-target sites bind at high temperature before
+off-target ones can, is cited from the literature, not tested, and no trap is located, so whether early
+mis-bindings entrench is left open.
+
+No status changes.

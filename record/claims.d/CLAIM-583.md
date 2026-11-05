@@ -163,3 +163,16 @@ changes.
 **Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), qualify the reading of origami as a case of this claim. Their 34 designs share the target shape, but not the compatibility complex: routing, seams and staple motifs change which domains pair. What they show is the weaker "same target, different constraint system, different reliability". Sequence rotation, which keeps the routing and is the nearest to the same complex, changed nothing. The claim's strong condition remains without an experimental instance here.
 
 No status changes.
+
+## Note of 2026-11-05: Shirt-Ediss et al., "Optimising DNA origami assembly by reducing off-target interactions", read
+
+Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
+
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, support the claim at the domain
+level and qualify it at the base level. The variants share design, routing and intended pairing, nearer to
+one compatibility complex than the designs of Majikes et al. (2026), yet differ sharply in yield; but the
+authors attribute the difference to extra off-target compatibilities, so the full base-level complex
+differs. The reading shows that domain-level equivalence does not fix reachability; it is not a
+counterexample within one fully specified complex.
+
+No status changes.

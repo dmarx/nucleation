@@ -99,3 +99,15 @@ a defect census under the altered allocation, which the proposed study
 asks for.
 
 No status changes.
+
+## Note of 2026-11-05: Shirt-Ediss et al., "Optimising DNA origami assembly by reducing off-target interactions", read
+
+Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
+
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, partly realise the proposed study
+for sequence: a fixed target in four shapes, three sequence variants each, assembly yield by AFM and
+persistence on storage, blind and replicated in a second lab for two shapes. What varies is the base
+sequence, not availability or arrangement of components, and neither time of assembly nor early
+intermediates is measured.
+
+No status changes.

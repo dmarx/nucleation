@@ -193,3 +193,15 @@ From the second synthesis on DNA origami by another assistant (A), pasted by the
 A adds a distinction the claim's three requirements imply: "The architecture that supports a completed organization and the architecture that assembles it need not be the same thing." A's example is scaffold routing, which fixes how the chain traverses the target, and so the loop costs of forming it, apart from the target's geometry. Aksel et al. 2024 ([NOTE-tmptbrlo](../notes.d/NOTE-tmptbrlo.md)) qualify the example: in their family, the equilibrium stability of the finished staples, a holding quantity, predicts construction yield, and their model ignores kinetics. A's phrase "optimizing a developmental mechanism" goes beyond that paper.
 
 No status changes.
+
+## Note of 2026-11-05: Shirt-Ediss et al., "Optimising DNA origami assembly by reducing off-target interactions", read
+
+Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
+
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, give weak support: construction
+yield and persistence over 4 to 5 days at 4 °C are reported separately, and the band of the off-target-prone
+rectangle disappeared on storage, a failure of maintenance. Here construction and maintenance rank the
+variants the same way, so the reading does not dissociate them, and whether the lost band was misfolded
+product or the structure itself is not resolved.
+
+No status changes.
