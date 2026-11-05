@@ -118,3 +118,25 @@ def by_deadline(a, b, T):
 close(by_deadline(.08, .02, 10), 0.5057); close(by_deadline(.008, .002, 10), 0.0761)
 print("deadline: eventual 0.8 both; by T=10 %.3f against %.3f" % (by_deadline(.08, .02, 10), by_deadline(.008, .002, 10)))
 print("all assertions passed")
+
+
+# ---- CLAIM on QUESTION-tmp4jbc3: equal yields in both arms, different routes --------------------------------------
+# Parts: nucleus N and a downstream part B. N forms at rate a; B at b0 without N, b1 with N; any unfinished state traps
+# at kappa (absorbing). Success = both formed. Generative nucleus: b1 != b0. State advantage only: b1 == b0.
+from scipy.optimize import brentq as _brentq
+
+
+def two_part(start, a, b0, b1, kap):
+    q10 = b1 / (b1 + kap)
+    q01 = a / (a + kap)
+    q00 = (a * q10 + b0 * q01) / (a + b0 + kap)
+    return {"00": q00, "10": q10}[start]
+
+
+gen = (1.0, 0.5, 2.0, 0.5)
+close(two_part("10", *gen), 0.8000); close(two_part("00", *gen), 17 / 30)
+a_state = _brentq(lambda a: two_part("00", a, 2.0, 2.0, 0.5) - 17 / 30, 0.1, 5)
+close(two_part("10", a_state, 2.0, 2.0, 0.5), 0.8000); close(two_part("00", a_state, 2.0, 2.0, 0.5), 17 / 30)
+close(a_state, 0.7991, 1e-3)
+print("route: generative (b0 0.5, b1 2.0) and state-only (a %.4f, b0 = b1 = 2.0) both give 0.800 with N, %.4f without" % (a_state, 17 / 30))
+print("all assertions passed (route)")
