@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [5 Nov 20:18 — Supplied maintenance connected to the record's dissipative structures and to aid and development theory, at the owner's request: forty-one works read, twelve Unavailable and read through stand-ins or abstracts, and five claims of the assistant's](2026-11.md#supplied-maintenance-connected-to-the-records-dissipative-structures-and-to-aid-and-development-theory-at-the-owners-request-forty-one-works-read-twelve-unavailable-and-read-through-stand-ins-or-abstracts-and-five-claims-of-the-assistants)
 - [5 Nov 19:26 — Readings and claims added at the owner's invitation: error correction, repair, replication and nucleation barriers in DNA self-assembly, five works read, one through a neighbour, two claims of the assistant's, and a correction of the filing's own earlier statement that no origami read here repairs itself](2026-11.md#readings-and-claims-added-at-the-owners-invitation-error-correction-repair-replication-and-nucleation-barriers-in-dna-self-assembly-five-works-read-one-through-a-neighbour-two-claims-of-the-assistants-and-a-correction-of-the-filings-own-earlier-statement-that-no-origami-read-here-repairs-itself)
 - [5 Nov 16:38 — A's review of the DNA origami filing acted on: occupancy and first passage separated, the committor scoped to eventual success, exposure distinguished from stock, the empirical support for combining nuclei narrowed, a question on generative nucleation filed, and a reproduction script added](2026-11.md#as-review-of-the-dna-origami-filing-acted-on-occupancy-and-first-passage-separated-the-committor-scoped-to-eventual-success-exposure-distinguished-from-stock-the-empirical-support-for-combining-nuclei-narrowed-a-question-on-generative-nucleation-filed-and-a-reproduction-script-added)
 - [5 Nov 16:23 — A's fourth synthesis on DNA origami, seven predictions on productive nucleation, filed: two of A's cases and a question, the assistant's construction of A's equal-cost case with the timing extension, and a correction to the assistant's own earlier claim](2026-11.md#as-fourth-synthesis-on-dna-origami-seven-predictions-on-productive-nucleation-filed-two-of-as-cases-and-a-question-the-assistants-construction-of-as-equal-cost-case-with-the-timing-extension-and-a-correction-to-the-assistants-own-earlier-claim)
@@ -26,10 +27,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-214 entries across 3 books, newest first.
+215 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 17 | 2026-11-01 | 2026-11-05 |
+| [2026-11](2026-11.md) | 18 | 2026-11-01 | 2026-11-05 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

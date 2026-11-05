@@ -4,7 +4,7 @@
 
 **emotion-and-affect**.
 
-66 of 1645 NOTE documents. Back to the [full index](../README.md).
+67 of 1686 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -74,3 +74,4 @@
 | [NOTE-1486](../../../record/notes.d/NOTE-1486.md) | Massumi — The Principle of Unrest | Interviews and an essay in activist philosophy. Movement is qualitative relational transformation, and capitalism an ontopower feeding on "bare activity". Micropolitics aims at "a maximally inclusive co-patterning of contrasting tendencies" (p. 64), an aesthetic ideal that affirms discord rather than resolving it. The parent paper's quotation is exact; it turns the ideal into a description of organizational becoming. | Skimmed |
 | [NOTE-1488](../../../record/notes.d/NOTE-1488.md) | Massumi and McKim — Of Microperception and Micropolitics | An interview, not an argument with evidence. Affect is the felt transition of a body's power to affect and be affected toward a diminished or augmented capacitation, offered as a proposition to be regenerated in each use, not a definition to apply. Microshocks prime bodies differentially; affect is reactivated in each event, not transmitted between them; micropolitics modulates collectively felt, unacted-out potential toward a "symbiosis" of contrasting tendencies. | Read |
 | [NOTE-1539](../../../record/notes.d/NOTE-1539.md) | Crowell, Beauchaine and Linehan — A biosocial developmental model of borderline personality | Linehan's biosocial theory as restated with her: emotion dysregulation, "heightened emotional sensitivity", inability to regulate intense responses and "slow return to emotional baseline", is the core, and cognitive dysregulation is among its consequences, "distorted information processing" and difficulty organizing toward "non-mood-dependent goals". Skimmed; read for the theory, not the biology. | Skimmed |
+| [NOTE-1681](../../../record/notes.d/NOTE-1681.md) | Haushofer & Fehr — on the psychology of poverty | A Science Review assembling evidence for a two-link chain: poverty causes stress and negative affect (correlational data, field RCTs including the first author's Kenya cash-transfer trial, natural experiments; 18 of 25 causal studies positive), and stress and negative affect raise present bias and risk aversion (laboratory inductions with samples of 36 to 189). The authors frame it against blaming the poor, call the second link "the weakest link", and find no nonlinearity that would make the loop a poverty trap. It reports no effort or labour-supply response to transfers. | Read |

@@ -40,7 +40,7 @@ summary: >-
   not a finding about any grant program, people or institute, and a slow
   recovery is not evidence of the threshold.
 ---
-<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
+<!-- inactive-ok-file: CLAIM-600 — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 
 # CLAIM-463: Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have
 
@@ -129,10 +129,10 @@ Jules et al. ([NOTE-1617](../notes.d/NOTE-1617.md)), from the pasted synthesis o
 
 ## Note of 2026-11-05: the readings on reintroduction and ecological recovery
 
-Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md).
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-600](CLAIM-600.md).
 
-- **Supported in kind.** Kadowaki et al. ([NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md)): reintroducing fire alone does not restore a fire-suppressed wetland, cleaner lake water brought an invader rather than the native plants, and wolves did not bring back Yellowstone's willows once beavers had gone.
-- **Qualified in reach.** Of 15 experimental tests in which a pressure was removed, Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)) count 3 that showed alternative states, 5 that recovered and 7 that were inconclusive. Restoring conditions often does restore a capacity.
+- **Supported in kind.** Kadowaki et al. ([NOTE-1677](../notes.d/NOTE-1677.md)): reintroducing fire alone does not restore a fire-suppressed wetland, cleaner lake water brought an invader rather than the native plants, and wolves did not bring back Yellowstone's willows once beavers had gone.
+- **Qualified in reach.** Of 15 experimental tests in which a pressure was removed, Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) count 3 that showed alternative states, 5 that recovered and 7 that were inconclusive. Restoring conditions often does restore a capacity.
 
 No status changes.
 

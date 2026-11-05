@@ -2,7 +2,7 @@
 
 # Lines of work
 
-89 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+90 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -1276,6 +1276,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1454](../record/literature.d/LIT-1454.md) — Representation of a preference ordering by a numerical function *(Unavailable)*
   - [LIT-1435](../record/literature.d/LIT-1435.md) — Theory of Value: An Axiomatic Analysis of Economic Equilibrium *(Active)*
+
+### From Some Consequences of Having Too Little
+
+- [LIT-2147](../record/literature.d/LIT-2147.md) — Some Consequences of Having Too Little *(Unavailable)*
+  - [LIT-2157](../record/literature.d/LIT-2157.md) — Replications of Shah, Mullainathan, and Shafir (2012) *(Active)*
+  - [LIT-2162](../record/literature.d/LIT-2162.md) — Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015 *(Active)*
 
 ### From Equality of What?
 

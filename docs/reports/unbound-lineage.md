@@ -81,7 +81,7 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-534](../../record/claims.d/CLAIM-534.md) ↔ [CLAIM-538](../../record/claims.d/CLAIM-538.md) | will-organization / distributed-agency, formal-apparatus |
 | argument | `line` | [CLAIM-538](../../record/claims.d/CLAIM-538.md) ↔ [CLAIM-588](../../record/claims.d/CLAIM-588.md) | distributed-agency, formal-apparatus / realizability |
 
-**6 unbound lines.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
+**7 unbound lines.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
 
 | Declared by | Field | Members |
 |---|---|---|
@@ -91,3 +91,4 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-063](../../record/claims.d/CLAIM-063.md), [CLAIM-373](../../record/claims.d/CLAIM-373.md) |
 | argument | `line` | [CLAIM-386](../../record/claims.d/CLAIM-386.md), [CLAIM-388](../../record/claims.d/CLAIM-388.md), [CLAIM-470](../../record/claims.d/CLAIM-470.md), [CLAIM-471](../../record/claims.d/CLAIM-471.md), [CLAIM-473](../../record/claims.d/CLAIM-473.md), [CLAIM-474](../../record/claims.d/CLAIM-474.md), [CLAIM-475](../../record/claims.d/CLAIM-475.md), [CLAIM-480](../../record/claims.d/CLAIM-480.md), [CLAIM-481](../../record/claims.d/CLAIM-481.md), [CLAIM-526](../../record/claims.d/CLAIM-526.md), [CLAIM-528](../../record/claims.d/CLAIM-528.md) |
 | argument | `line` | [CLAIM-434](../../record/claims.d/CLAIM-434.md), [CLAIM-451](../../record/claims.d/CLAIM-451.md), [CLAIM-482](../../record/claims.d/CLAIM-482.md) |
+| argument | `line` | [CLAIM-556](../../record/claims.d/CLAIM-556.md), [CLAIM-558](../../record/claims.d/CLAIM-558.md), [CLAIM-566](../../record/claims.d/CLAIM-566.md), [CLAIM-568](../../record/claims.d/CLAIM-568.md), [CLAIM-597](../../record/claims.d/CLAIM-597.md), [CLAIM-600](../../record/claims.d/CLAIM-600.md), [CLAIM-602](../../record/claims.d/CLAIM-602.md), [CLAIM-603](../../record/claims.d/CLAIM-603.md), [CLAIM-604](../../record/claims.d/CLAIM-604.md) |

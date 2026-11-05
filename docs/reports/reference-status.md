@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**818 documents cited without acknowledgement.** Not listed: 17649 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**818 documents cited without acknowledgement.** Not listed: 18485 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2471,7 +2471,7 @@ Relief of an organization's frustration must be judged for an identified organiz
 
 A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
 
-10 citations in 9 files await a look; 24 other citations of it are acknowledged.
+10 citations in 9 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-157.md:114`](../../record/cases.d/CASE-157.md)
 - [`record/claims.d/CLAIM-446.md:264`](../../record/claims.d/CLAIM-446.md)
@@ -2928,7 +2928,7 @@ A group can itself be in an emotional state that is not its members' states in a
 
 Morality is the set of solutions to recurrent problems of cooperation, so each of the seven cooperation problems game theory identifies yields a moral domain valued in every culture, and behaviour unrelated to cooperation is morally neutral
 
-9 citations in 9 files await a look; 10 other citations of it are acknowledged.
+9 citations in 9 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-457.md:86`](../../record/theory.d/THEORY-457.md)
 - [`record/theory.d/THEORY-494.md:104`](../../record/theory.d/THEORY-494.md)
@@ -2974,7 +2974,7 @@ What survives translation is the set of communicative distinctions and relations
 
 Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
-8 citations in 7 files await a look; 47 other citations of it are acknowledged.
+8 citations in 7 files await a look; 48 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-045.md:38`](../../record/arguments.d/ARG-045.md)
 - [`record/cases.d/CASE-188.md:41`](../../record/cases.d/CASE-188.md)
@@ -3259,7 +3259,7 @@ Organizational action can be described as pre-individual, so that whose action i
 
 Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change
 
-8 citations in 3 files await a look; 4 other citations of it are acknowledged.
+8 citations in 3 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-423.md:188`](../../record/claims.d/CLAIM-423.md)
 - [`record/claims.d/CLAIM-445.md:18`](../../record/claims.d/CLAIM-445.md)
@@ -4122,7 +4122,7 @@ The unity of experience is the integration of one global world-model into a sing
 
 Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
 
-6 citations in 2 files await a look; 72 other citations of it are acknowledged.
+6 citations in 2 files await a look; 80 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-194.md:30`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:33`](../../record/claims.d/CLAIM-194.md)
@@ -4723,7 +4723,7 @@ Agency can be redescribed without agents, as the affective force by which one in
 
 A system can keep its identity independently within a shared environment only if it has five interacting subsystems, the first made of elements that are themselves viable systems, so that the structure recurs at every level of recursion; when one is missing or fails, the system degrades in characteristic ways, and without the subsystem for foresight the subsystems for operational control and for identity collapse into each other, leaving a system that can only react
 
-5 citations in 3 files await a look; 5 other citations of it are acknowledged.
+5 citations in 3 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-099.md:56`](../../record/claims.d/CLAIM-099.md)
 - [`record/claims.d/CLAIM-099.md:60`](../../record/claims.d/CLAIM-099.md)
@@ -4807,7 +4807,7 @@ Institutional facts are status functions, imposed by collective acceptance on th
 
 Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them
 
-5 citations in 5 files await a look; 3 other citations of it are acknowledged.
+5 citations in 5 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-039.md:123`](../../record/claims.d/CLAIM-039.md)
 - [`record/theory.d/THEORY-408.md:96`](../../record/theory.d/THEORY-408.md)
@@ -7075,7 +7075,7 @@ Participation on a shared canvas thins selectively: people keep coming back whil
 
 Material interdependence couples parties' outcomes without fixing the perspective that organizes the coupling: the same dependence can be organized as mutual opportunity, as competitive vulnerability or as coercive leverage, so interdependence makes for peace to the extent that cooperation also changes which interests the parties' institutions recognize and who holds influence over them, and payoff coupling alone does not settle which
 
-2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-150.md:56`](../../record/cases.d/CASE-150.md)
 - [`record/cases.d/CASE-150.md:67`](../../record/cases.d/CASE-150.md)
@@ -7237,7 +7237,7 @@ War Making and State Making as Organized Crime
 
 When Effect Becomes Cause: Policy Feedback and Political Change
 
-2 citations in 1 file await a look.
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
 
 - [`record/claims.d/CLAIM-445.md:15`](../../record/claims.d/CLAIM-445.md)
 - [`record/claims.d/CLAIM-445.md:161`](../../record/claims.d/CLAIM-445.md)
@@ -7777,7 +7777,7 @@ The unity that makes a movement an agent's action is achieved by conformity to t
 
 Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
 
-2 citations in 2 files await a look; 46 other citations of it are acknowledged.
+2 citations in 2 files await a look; 47 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-027.md:182`](../../record/claims.d/CLAIM-027.md)
 - [`record/decisions.d/ADR-061.md:104`](../../record/decisions.d/ADR-061.md)
@@ -8182,7 +8182,7 @@ People's answers to a probability query depend on their own answers to an earlie
 
 A democracy that breaks down under an elected incumbent need not become a dictatorship: elections, courts and a legal opposition can continue while the incumbent uses state power against opponents and tilts the field, giving competitive authoritarianism, in which competition is real but unfair and the decisive loss is the opposition that withdraws or never forms; Levitsky and Way forecast this for the second Trump term
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/theory.d/THEORY-483.md:93`](../../record/theory.d/THEORY-483.md)
 - [`record/theory.d/THEORY-533.md:103`](../../record/theory.d/THEORY-533.md)
@@ -8227,7 +8227,7 @@ An emotional state is a large-scale selection of mental resources, switched on a
 
 Moral judgments are made relative to the social relationship an act is taken to occur within: each of four relational models (communal sharing, authority ranking, equality matching, market pricing) carries a moral motive (Unity, Hierarchy, Equality, Proportionality), so the same act can be required under one and wrong under another
 
-2 citations in 2 files await a look; 2 other citations of it are acknowledged.
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-468.md:118`](../../record/theory.d/THEORY-468.md)
 - [`record/theory.d/THEORY-539.md:105`](../../record/theory.d/THEORY-539.md)
@@ -8263,7 +8263,7 @@ The specific phenomenal character of an experience is fixed by its place in a qu
 
 Departments of the French Empire more shielded from British trade by the Napoleonic blockade added more mechanized cotton-spinning capacity during it and kept a larger industry through 1887, with more productive spinning firms in 1840 and higher industrial value added per capita in 1860 but not detectably from 1896
 
-2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+2 citations in 1 file await a look; 15 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-445.md:30`](../../record/claims.d/CLAIM-445.md)
 - [`record/claims.d/CLAIM-445.md:131`](../../record/claims.d/CLAIM-445.md)
@@ -8563,7 +8563,7 @@ Directional information measures between reciprocally coupled units follow the p
 
 In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
 
-1 citation in 1 file awaits a look; 30 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 31 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-462.md:114`](../../record/claims.d/CLAIM-462.md)
 
@@ -9755,7 +9755,7 @@ Mossio, Montévil and Longo take organization, as closure of constraints, to be 
 
 Whether a coupled oscillator sustains its own rhythm or is a damped oscillator driven from outside is settled directly by removing the drive, and, because the two arrangements are not dynamically equivalent, may also show in how they respond to a shift of phase: in Leise and Siegelmann's model, damped peripheral clocks regain their phase relation to the central clock quickly, while self-sustained ones take longer, need strong coupling, and sometimes resynchronize by a long delay instead of an advance
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1936.md:16`](../../record/literature.d/LIT-1936.md)
 
@@ -9923,7 +9923,7 @@ In Lévi-Straussian analysis of myth the group of transformations is not given b
 
 Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-480.md:122`](../../record/theory.d/THEORY-480.md)
 
@@ -10163,7 +10163,7 @@ Perceptual constancies are invariants of transformations that act within experie
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**5 codes unaccounted for.** Not listed: 5 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**6 codes unaccounted for.** Not listed: 5 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-016 — resolves to nothing (5 unmarked sites)
@@ -10189,6 +10189,10 @@ A reference the reader cannot follow: the code names no document in this record.
 ### DP-015 — resolves to nothing (1 unmarked site)
 
 - [`record/decisions.d/ADR-057.md:264`](../../record/decisions.d/ADR-057.md)
+
+### DP-222 — resolves to nothing (1 unmarked site)
+
+- [`record/literature.d/LIT-2168.md:44`](../../record/literature.d/LIT-2168.md)
 
 ## Temporary codes this record does not mint
 
