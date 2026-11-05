@@ -1,0 +1,123 @@
+---
+status: Proposed
+title: 'universality, of resource-bounded constraint systems, and which sense: expressive, that a restricted family implements every member of a class; computational, that one family resource-simulates another with bounded overhead, an equivalence only when the simulation runs both ways; or scaling, that families share asymptotic laws'
+version: 1
+tags:
+- mathematics
+- complex-systems
+- philosophy-of-science
+date: '2026-11-05'
+line:
+- formal-apparatus
+summary: >-
+  A's proposal, from the pasted synthesis on resource-bounded realizability
+  (three responses, pasted by the owner on 2026-11-05, continuing the
+  exchange on constraint architectures), Response 1 §3, Response 2 §6 and
+  Response 3 §§7 and 8: three notions of universality "with different
+  mathematical requirements", expressive, computational and scaling;
+  resource simulation, κ_𝔄(p̂) ⪯ P_n(κ_𝔅(p)), and its two-way form or a
+  resource-aware bisimulation for equivalence; and three levels, solution,
+  process and organizational. Filed as a term with senses, like the record's
+  terms that say which sense of a word is meant, so a claim of universality
+  says which it makes. It carries A's guard, checked by the filer: if
+  arbitrary transition graphs may be declared, expressive universality is
+  trivial, so the sense informs only relative to restricted primitives. The
+  wording is A's; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-034 CLAIM-tmpe18y0 CLAIM-tmplysd0 NOTE-tmpec4ov QUESTION-008 TERM-tmpr3hl8 THEORY-tmp34oop THEORY-tmpmcxbv — Deferred or Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+
+# TERM-tmpckwjg: universality, of resource-bounded constraint systems, and which sense: expressive, that a restricted family implements every member of a class; computational, that one family resource-simulates another with bounded overhead, an equivalence only when the simulation runs both ways; or scaling, that families share asymptotic laws
+
+## Definition
+
+For families of resource-bounded constraint systems in TERM-tmpr3hl8's
+sense, A separates three notions (Response 3 §7): "I think we should
+resist the temptation to define one overarching equivalence relation too
+early."
+
+**Expressive.** "A family of systems is expressively universal if it can
+represent or implement every member of some specified class of
+computational processes or constraint structures." A's example: whether "a
+restricted family of origami mechanisms can simulate arbitrary
+finite-state transition systems."
+
+**Computational**, by resource simulation. For families 𝔒 = {𝔒_n}, A
+defines the decision problem REACH_𝔒 = {(n, s, t, b) : ∃p : s ⇝ t,
+κ(p) ⪯ b}. One system 𝔄 resource-simulates another 𝔅 "when there is an
+efficiently computable translation of states and processes such that valid
+executions of 𝔅 can be realized by 𝔄, with controlled overhead", for
+polynomial overhead κ_𝔄(p̂) ⪯ P_n(κ_𝔅(p)) with P_n "an appropriately
+bounded, order-preserving resource transformation" (Response 3 §8); and
+"The simulation must also preserve the observables and the questions we
+care about." Equivalence needs more: "a one-way simulation is not enough
+for equivalence", only "an appropriate two-way simulation or a
+resource-aware bisimulation". Response 1's first statement is the same
+sense: "Two resource-bounded constraint systems belong to the same
+computational universality class when they can efficiently simulate one
+another in a way that preserves constraint satisfaction, permitted
+transformations, and resource requirements up to a specified overhead."
+The comparison is "between entire families of systems of increasing size,
+not isolated finite objects" (CLAIM-tmplysd0).
+
+**Scaling.** "Here we'd compare large families of systems and ask whether
+their behavior approaches the same scaling laws", for instance whether the
+least resource to reach a target scales as B_n* ∼ n^α, or a success
+probability changes sharply at some normalized resource level. "It
+requires a declared system-size parameter, a class of perturbations or
+ensembles, and measurable asymptotic behavior."
+
+**At which level** (Response 2 §6). Each sense can be asked of three
+things:
+
+- "Solution universality: Different systems realize equivalent constraint
+  structures."
+- "Process universality: Different systems support equivalent
+  resource-bounded transformations."
+- "Organizational universality: Different systems can construct, maintain,
+  or regenerate equivalent repertoires of constraints."
+
+Response 1's split of U_comp from U_phys, "two potentially independent
+classifications", is the computational sense against the physical one
+(energy barriers, error tolerance, precision of control) asked of the same
+families.
+
+## What it is not
+
+- **Expressive universality with unrestricted primitives.** A: "If we allow
+  arbitrary transition graphs to be declared directly, universality becomes
+  nearly trivial." The filer's check: if a member of the family may be any
+  finite directed graph with costs, every finite transition system is
+  itself a member and is represented by the identity translation, so the
+  family is universal for that class by definition. A claim of expressive
+  universality says something only relative to stated limits on the
+  primitives, A's "bounded crease complexity, local constraints, limited
+  actuation, planar construction". The same warning the record keeps for a
+  concept lattice that exists for any incidence, "guaranteed by
+  construction" (THEORY-698). Where the primitives are restricted the
+  sense has content: Gopalan et al. (NOTE-tmpec4ov; THEORY-tmpmcxbv) show
+  that from a Boolean language that is not tight every relation is
+  faithfully expressible, connectivity of solutions included, a theorem
+  because the primitives are fixed.
+- **Sameness of complexity class.** A: "having the same complexity class
+  does not imply having the same transition geometry or resource
+  requirements." The filer adds the converse caution: at the level of the
+  decision problem alone, families whose reconfiguration is PSPACE-complete
+  (Eppstein's flaps and flips, NOTE-tmpv7lp6, THEORY-tmp34oop; Gopalan et
+  al.'s languages that are not tight) are already reducible to one another
+  in polynomial time by completeness. A computational universality claim
+  adds to that only if its simulation carries processes and their costs,
+  not only the yes or no of REACH.
+- **One-way simulation.** CLAIM-034 makes the same split for translation,
+  where an adaptive translation calls for one-way simulation rather than
+  equivalence; QUESTION-008 asks whether pragmatic fidelity is an
+  approximate bisimulation. Neither is about resources.
+- **The universality of statistical physics alone.** That is the scaling
+  sense only, and A expects the senses to come apart: "It's possible that
+  origami, constraint networks, and organizational systems could share
+  computational universality while belonging to different scaling
+  universality classes."
+
+## What would settle it
+
+Adoption by the owner, or a claim of the record's own stated in it.
+CLAIM-tmpe18y0, A's universality hypothesis, is stated in it.
