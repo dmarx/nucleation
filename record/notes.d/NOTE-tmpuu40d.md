@@ -1,0 +1,181 @@
+---
+status: Skimmed
+paper: 'LIT-tmp3jqit'
+title: 'LaVoice — Slum clearance and the neighbourhoods cleared, read from a short draft'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the undated "24 Page Version" hosted by Yale's
+    Economic Growth Center for its economic history conference of
+    2021-04-23
+    (https://egc.yale.edu/sites/default/files/2021-04/2021-0423%20EconHistory%20Conference/UrbanRenewal_Short%20ada-ns.pdf),
+    author at Bowdoin College. Text extracted by pdftotext. Read: the whole
+    draft, abstract, §§1–6 (pp. 1–19), Figures 1–3 and Tables 1–2 with
+    their notes. Not reached: the full paper's results, appendix figures
+    and references, to which the draft defers ("The complete set of
+    results are shown in the full version of the paper"); the fuller
+    version on www.sjsu.edu failed TLS verification through the proxy and
+    was not retried; the Journal of Public Economics version of record
+    (doi:10.1016/j.jpubeco.2024.105153, 2024) was not read and may differ.
+    Status Skimmed because only the short version of the work was reached,
+    not because the draft was read lightly. Page numbers below are the
+    draft's.
+date: '2026-11-05'
+summary: >-
+  About 200 Title I projects funded before 1965 in 28 large US cities,
+  geocoded to census tracts for 1940–2000. Among similarly blighted
+  tracts, black neighbourhoods were two to three times as likely to be
+  cleared. Against slums in cities with limited participation, cleared
+  tracts kept about 13% lower population density, 12% lower housing
+  density and a 16% lower black share for decades, with rents up about a
+  quarter and incomes up for a decade and then fading; the draft gives the
+  income gain as 18% and as 16% without reconciling them. Within cities,
+  rents in untreated low-income tracts rose in step, and a
+  spatial-equilibrium model reads the lowest-income households city-wide as
+  made worse off. The displaced are not tracked and social ties are not
+  measured.
+---
+<!-- inactive-ok-file: THEORY-tmpcqo5a THEORY-tmp7ch1y CLAIM-tmpc3x0c CLAIM-tmpoh07b CLAIM-tmpw4ai2 CLAIM-597 CLAIM-tmpqa0qu THEORY-919 THEORY-tmph35ra — Proposed or new; cited from the reading of LaVoice (2024) as open -->
+
+# NOTE-tmpuu40d: LaVoice — Slum clearance and the neighbourhoods cleared, read from a short draft
+
+## Contribution
+
+Collins and Shester (2013) found the program raised city-level income,
+property value and population. This draft follows the same program into
+the neighbourhoods it cleared, to show "how aggregate positive outcomes
+can mask important negative distributional implications" (p. 19): which
+neighbourhoods were chosen, what happened to them over fifty years, and,
+through a model, who gained and who lost.
+
+## Key insight
+
+Clearing a slum cuts the supply of cheap housing in the city as well as
+improving one neighbourhood. If the supply effect dominates, rents rise
+in every low-income neighbourhood, not only the one rebuilt, and the
+poorest are worse off wherever they go. The draft reads its rent results
+as that case: "the supply effect dominating the quality effect in the
+spatial equilibrium model" (p. 4).
+
+## Assumptions
+
+- **Controls.** Slums in cities with limited participation, found by
+  k-nearest neighbours on observables (k = 5), the limit coming from
+  "variation in the timing of required state legislation that limited
+  certain cities’ ability to participate" (fn. 2). Parallel pre-trends
+  hold except for black share, where treated cities were already
+  becoming blacker faster (p. 16).
+- **Within-city comparison.** A synthetic control from untreated tracts in
+  the same city, which "should not be interpreted as a counter-factual for
+  the directly treated tracts" (p. 17), since displaced residents may have
+  moved into it.
+- **The model.** Two neighbourhoods, households sorting by income under a
+  "single crossing" property, and absentee landlords (p. 8); the welfare
+  conclusion comes from it, not from a measure of utility.
+- **Coverage.** 28 large cities and projects funded before 1965.
+
+## Key results
+
+- **Selection (abstract; p. 3; fn. 1).** "conditional on experiencing
+  urban blight, black neighborhoods were between two and three times more
+  likely than white neighborhoods to be targeted for slum clearance";
+  "Among neighborhoods where the share of black residents was 50% or higher
+  in 1950, 14% would be cleared". The conclusion says "more than twice as
+  likely" (p. 19).
+- **Neighbourhood effects (p. 3).** "a decline in population density by
+  13%, a decline in housing density by 12%, and a decline in the share of
+  black residents by 16%. These neighborhoods simultaneously experienced a
+  24% increase in median rents and an 18% increase in median incomes."
+- **Income, again (p. 15).** "$2,878 (measured in year 2000 dollars)
+  higher in treated tracts", "a 16% increase from the pre-treatment average
+  of $17,579". The draft gives 18% (p. 3) and 16% (p. 15) for what reads as
+  the same estimate and does not reconcile them; $2,878 on $17,579 is
+  16.4%. Unreconciled; the version of record should settle which.
+- **Persistence (pp. 16–17).** Housing density shows "a sharp and
+  persistent decline in housing density that mitigates only slightly over
+  time"; the income rise comes a decade after the first grant, when
+  projects finish, but "these effects are mitigated over time and become
+  statistically insignificant in subsequent decades". Overall "these
+  neighborhoods gentrified and remained more expensive over the subsequent
+  50 years" (p. 17).
+- **Other poor neighbourhoods (pp. 4, 18).** A negligible rent difference
+  between cleared tracts and their within-city synthetic controls,
+  "suggesting that rents also increased in other non-treated low-income
+  neighborhoods"; urban renewal "drove up rental rates across all
+  low-income neighborhoods, ultimately increasing the housing costs of
+  low-income residents city-wide", so "all low-income households are made
+  worse off" (p. 4).
+- **Who rehoused the displaced (fn. 5, p. 6).** From an HHFA report on a
+  1964 census survey: "70% of all families relocated themselves without the
+  help of the LPA". Rehabilitation, added in 1954, had "less than one
+  percent of project costs" by the end of 1962 (p. 7, citing Anderson).
+- **Community (pp. 4, 7).** Qualitative and secondary: "cleared
+  neighborhoods had a strong sense of community"; Pittsburgh's Lower Hill
+  lost "around 8000 residents" and 400 businesses, which residents
+  remembered, through Trotter and Day, as the "most devastating thing that
+  ever happened to the black community". No network or organizational
+  measure is estimated.
+
+## Concepts
+
+- **Supply effect against quality effect**: clearance removes cheap
+  housing (raising rents everywhere low-income) and improves the cleared
+  area (raising its rents); which dominates sets who is hurt.
+- **Direct and spillover effects**: the across-city design isolates the
+  cleared tracts; the within-city design shows rents moving together in
+  cleared and uncleared poor tracts.
+- **Gentrification by clearance**: new buildings "designed for
+  high-income families" (p. 7, citing Anderson) drew richer, whiter
+  residents.
+
+## Connections
+
+It builds on Collins and Shester (2013), NOTE-tmpvwtsg and THEORY-tmp7ch1y,
+whose city-level gains it takes as given and whose variation in state
+legislation it uses to choose control cities. Read as a complement to
+them, not a stand-in: it restates none of their city-level estimates and
+adds the neighbourhood level. It cites Jacobs (1961) only among the
+program's critics and tests no argument of hers. It sets itself apart
+from the Moving to Opportunity literature (Chetty et al. 2016; Chyn 2018),
+where leaving public housing helped children, because residents of the
+cleared areas "did not consider these neighborhoods to be slums" (p. 4).
+In this batch, Michaels et al. (2021) contrast greenfield sites and
+services with slum upgrading; Kline and Moretti (2014) and Neumark and
+Simpson (2015) are the place-based programme and its survey. Ostrom et
+al., THEORY-tmph35ra, ask who owns and maintains what aid builds, the
+question this draft's displaced residents never got to answer.
+
+## Bearing on the record
+
+- **CLAIM-tmpc3x0c** (when transient support is safe to withdraw):
+  sharpens the unit-of-analysis warning from Collins and Shester. Support
+  that substituted wholesale, outside agencies clearing and rebuilding,
+  left persistent change; but the change belongs to the place and its new
+  occupants, not to the community supported in name, which was dispersed
+  and whose poorest members were made worse off. The claim's conditions
+  need to say whose persistence counts.
+- **CLAIM-tmpoh07b** (support that does the work lowers capacity):
+  suggestive only. Clearance did not do residents' work so much as remove
+  their housing and neighbourhood; the 70% self-relocation figure shows the
+  displaced carrying their own rehousing unaided. No capacity is measured.
+- **CLAIM-tmpw4ai2, CLAIM-597, CLAIM-tmpqa0qu, QUESTION-398, THEORY-919**:
+  little beyond the Collins and Shester reading. Persistent physical change
+  (density) beside a fading income effect at tract level is a reminder that
+  what persists depends on the measure.
+- Filed: THEORY-tmpcqo5a. No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **A short draft.** It defers results, appendix and references to the
+  full paper, and its two income figures disagree. The version of record
+  was not read.
+- **Controls from other cities**, matched on observables; black-share
+  pre-trends differ, so the black-share effect is the least secure.
+- **Welfare from the model**, under single crossing and absentee
+  landlords, not from a measure.
+- **The displaced are not tracked**; social capital and organization are
+  not measured.
+- **28 large cities, projects before 1965.**
