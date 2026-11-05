@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmppwpd0) from the Nucleic Acids Research version
+  read 2026-11-05 ([NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md)) from the Nucleic Acids Research version
   of record in PubMed Central (PMC12907558, a US Government work), main
   text, figure captions and Eq. 1 in full, the supplementary PDF not
   reached; worth reading as the broadest comparative experiment on how
@@ -76,7 +76,7 @@ Majikes, J. M., Hasni, A., Haridas, S., Robertson, J. W. F., Pintar, A. L., Zwol
 
 ## Key takeaways
 
-*From the reading, NOTE-tmppwpd0.*
+*From the reading, [NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md).*
 
 - **Defectivity is a proxy.** "We equate the defectivity, or φ, to the
   average number of missing or blocked staples for a design", but the
@@ -101,12 +101,12 @@ Registered from A's second paste on DNA origami, which cited it for
 distinguishing positive and negative cooperative mechanisms. The reading
 confirms the four mechanisms, as the literature's, and adds the paper's
 own result: defectivity across 34 designs of one target is predicted by
-aggregates of the first-fold penalty distribution. It supports CLAIM-567
-(one feasible target, design-dependent reliability), qualifies CLAIM-583
+aggregates of the first-fold penalty distribution. It supports [CLAIM-567](../claims.d/CLAIM-567.md)
+(one feasible target, design-dependent reliability), qualifies [CLAIM-583](../claims.d/CLAIM-583.md)
 (the designs share the target, not the compatibility complex) and
-CLAIM-185 (more early anchors made outcomes worse), and bears on
-QUESTION-380. It extends Majikes et al. (2021) and Majikes et al. (2020),
-LIT-tmp0hqya, and pairs with the review of Cumberworth and Reinhardt
-(2025), LIT-tmp7dfy2, which disagrees on how much blocking matters.
-Filed from it: THEORY-tmpcfriw. No instruction for machine-learning
+[CLAIM-185](../claims.d/CLAIM-185.md) (more early anchors made outcomes worse), and bears on
+[QUESTION-380](../questions.d/QUESTION-380.md). It extends Majikes et al. (2021) and Majikes et al. (2020),
+[LIT-tmp0hqya](LIT-tmp0hqya.md), and pairs with the review of Cumberworth and Reinhardt
+(2025), [LIT-tmp7dfy2](LIT-tmp7dfy2.md), which disagrees on how much blocking matters.
+Filed from it: [THEORY-tmpcfriw](../theory.d/THEORY-tmpcfriw.md). No instruction for machine-learning
 practice; nothing for the anthology.

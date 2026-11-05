@@ -214,7 +214,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, qualify the claim. The same
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), qualify the claim. The same
 target rectangle is reached under both staple allocations, so it is
 feasible and reachable either way; but reliability is quantified only
 under the standard allocation (85% defect-free). Under the altered one the
@@ -222,7 +222,7 @@ paper reports only "normal rectangles ... on a rugged surface" and a
 reduced bulk signal, with no yield, so reliably-reachable is left
 unquantified there.
 
-**Majikes, Patrone, Kearsley, Zwolak and Liddle, "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, read in NOTE-tmpetbc9, support the
+**Majikes, Patrone, Kearsley, Zwolak and Liddle, "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), read in [NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md), support the
 claim directly and sharply. The folded state is feasible and reached, yet
 at high staple excess reached by under half the molecules, not because
 feasibility fails but because an equilibrium competitor, the blocked
@@ -230,23 +230,23 @@ state, is favoured: folded/blocked = j_fold/[staple]. Reliability is a
 continuous quantity set by S0/j, distinct from feasibility and from bare
 reachability.
 
-**Douglas, Dietz, Liedl, Högberg, Graf and Shih, "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), LIT-tmpepjt3, read in NOTE-tmp77tp9, support the
+**Douglas, Dietz, Liedl, Högberg, Graf and Shih, "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), [LIT-tmpepjt3](../literature.d/LIT-tmpepjt3.md), read in [NOTE-tmp77tp9](../notes.d/NOTE-tmp77tp9.md), support the
 claim. Multilayer designs are feasible and reachable but reached reliably
 only in 7–44% of scaffold, and the same feasible design is not reached at
 all under a 1.2 h ramp, at 4 mM Mg2+ or at high Na+. Feasible, reachable
 and reliably reached come visibly apart.
 
-**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), LIT-tmpqorwy, read in NOTE-tmpgw5ab,
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), read in [NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md),
 support the claim. The closed barrel is feasible; the open state is
 reachable only given the right antigen keys; and the reliability of
 reaching it is tuned by lock-duplex length (shorter locks open at lower
 key concentration but spontaneously more often) and reported as population
 fractions, not certainty.
 
-**Aksel, Navarro, Fong and Douglas, "Design principles for accurate folding of DNA origami".** Aksel et al. (2024), LIT-tmpaxtww, read in NOTE-tmptbrlo, support the separation weakly. Each of four published multilayer blocks is feasible and is reached at 2-6% gel-measured yield. Redesigning only the staple breakpoints, and for one block also the scaffold seam, reaches the nominally same layout at 48-61%. Reliability here is one hand-bounded gel window after one anneal, with no stated replicates. The reading leaves open whether the gain holds under a counted measure.
+**Aksel, Navarro, Fong and Douglas, "Design principles for accurate folding of DNA origami".** Aksel et al. (2024), [LIT-tmpaxtww](../literature.d/LIT-tmpaxtww.md), read in [NOTE-tmptbrlo](../notes.d/NOTE-tmptbrlo.md), support the separation weakly. Each of four published multilayer blocks is feasible and is reached at 2-6% gel-measured yield. Redesigning only the staple breakpoints, and for one block also the scaffold seam, reaches the nominally same layout at 48-61%. Reliability here is one hand-bounded gel window after one anneal, with no stated replicates. The reading leaves open whether the gain holds under a counted measure.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, read in NOTE-tmppwpd0, support the separation empirically. 34 designs encode one feasible 2D target. Under one fixed protocol, how reliably the target is reached varies with design: defectivity runs from about 10 to 35, and the largest uncertainty, staple-pool variation, is ±2.8. The reading leaves open whether the ordering holds under standard anneals, a check that rests on supplementary sections not read.
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), read in [NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md), support the separation empirically. 34 designs encode one feasible 2D target. Under one fixed protocol, how reliably the target is reached varies with design: defectivity runs from about 10 to 35, and the largest uncertainty, staple-pool variation, is ±2.8. The reading leaves open whether the ordering holds under standard anneals, a check that rests on supplementary sections not read.
 
-**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), LIT-tmpairr7, read in NOTE-tmp79i4g, support the separation for replication. In their model, separating very large tile patterns is feasible. In experiment, separation was reached only up to tetramers before the tiles unravelled, and the per-cycle replication rate fell from about 1.9 for dimers to 1.6 for tetramers. The reading leaves open where the practical limit lies beyond four tiles.
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), read in [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md), support the separation for replication. In their model, separating very large tile patterns is feasible. In experiment, separation was reached only up to tetramers before the tiles unravelled, and the per-cycle replication rate fell from about 1.9 for dimers to 1.6 for tetramers. The reading leaves open where the practical limit lies beyond four tiles.
 
 No status changes.

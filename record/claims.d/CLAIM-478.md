@@ -362,6 +362,6 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, give some support. Their inter-fold cooperativity is a settled fold acting as a constraint on what follows: "the closing of one fold reduces the possible conformations available to the entire remaining scaffold". Its aggregate, the skew of first-fold penalties, predicts defectivity. No timescale separation is analysed.
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), give some support. Their inter-fold cooperativity is a settled fold acting as a constraint on what follows: "the closing of one fold reduces the possible conformations available to the entire remaining scaffold". Its aggregate, the skew of first-fold penalties, predicts defectivity. No timescale separation is analysed.
 
 No status changes.

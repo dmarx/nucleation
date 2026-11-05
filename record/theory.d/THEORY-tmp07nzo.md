@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp7dfy2
 summary: >-
-  Cumberworth and Reinhardt (2025), LIT-tmp7dfy2, read in part in
-  NOTE-tmp1fpff from the submitted version. The account is the review's
+  Cumberworth and Reinhardt (2025), [LIT-tmp7dfy2](../literature.d/LIT-tmp7dfy2.md), read in part in
+  [NOTE-tmp1fpff](../notes.d/NOTE-tmp1fpff.md) from the submitted version. The account is the review's
   synthesis of coarse-grained simulations, mostly the authors' own, of
   small 2D designs; the authors note evidence that staples do not bind
   fully once started in larger 3D lattice designs, and the experimental
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Cumberworth and Reinhardt (2025), LIT-tmp7dfy2; read in part in
-NOTE-tmp1fpff.
+Cumberworth and Reinhardt (2025), [LIT-tmp7dfy2](../literature.d/LIT-tmp7dfy2.md); read in part in
+[NOTE-tmp1fpff](../notes.d/NOTE-tmp1fpff.md).
 
 ## What was actually shown
 

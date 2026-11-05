@@ -116,14 +116,14 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, are directly relevant. The
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), are directly relevant. The
 nucleus sits where local staple melting temperature is highest and can be
 moved by changing staple concentrations alone; this is an observed,
 movable nucleus whose location sets the growth path. Whether seeding a
 small compatible nucleus raises global yield is not measured. No status
 changes.
 
-**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, bear on the question as a hypothesis:
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), bear on the question as a hypothesis:
 origami should nucleate where fold distances are short, each closed fold
 raising its neighbours' j-factor and letting blocking strands be displaced
 along a growth front, while tiles, lacking these cooperativities, stall.

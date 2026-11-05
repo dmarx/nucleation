@@ -90,7 +90,7 @@ show about organizations depends on a mechanism of their own.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres, "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, is a partial, real instance of
+**Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres, "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), is a partial, real instance of
 the proposed study: it holds the target design fixed and varies the
 relative availability of components, and measures intermediates and where
 folding nucleates. But it is not at fixed total expenditure (the stock

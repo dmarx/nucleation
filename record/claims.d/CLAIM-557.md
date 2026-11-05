@@ -115,7 +115,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, illustrate the observing half:
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), illustrate the observing half:
 the same folding ensemble is split two ways by modal height ("only two
 peaks suggesting that folding is a two-state process. However, this
 picture is incomplete"), four ways by median height ("at least four
@@ -123,7 +123,7 @@ states"), and six ways by visual inspection, while bulk fluorescence
 merges the chain-like and coil states because they "had a similar number
 of base pairs". Richer observables tell more apart.
 
-**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, support the observing half: one
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), support the observing half: one
 topology-reporting channel "cannot distinguish between the blocked state
 and a scaffold without a staple", gels "failed to identify any conditions
 that could distinguish the circular and figure-eight states", and
@@ -131,10 +131,10 @@ resolving more states needs more channels (at least five for a
 three-domain staple). The cheap probe lumps classes the dearer one would
 split.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
 - The gel merges a damaged design with well-folded ones.
 - It also splits well-folded designs by mobility.
 
-This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
+This bears on [CLAIM-574](CLAIM-574.md)'s nesting of probe families. No probe costs are quantified.
 
 No status changes.

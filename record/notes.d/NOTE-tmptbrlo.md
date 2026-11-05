@@ -141,21 +141,21 @@ parts more stable, not by choosing a folding pathway.
 
 ## Connections
 
-It builds on Dunn et al. (2015), LIT-tmpqku12, for its loop model and
-binding term; Majikes et al. (2020), LIT-tmp0hqya, measured the
+It builds on Dunn et al. (2015), [LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), for its loop model and
+binding term; Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), measured the
 fold-distance dependence of loop entropy that the loop term prices; the
 64-helix originals descend from Douglas et al. (2009). Against Majikes et
 al. (2021), where yield falls at high staple excess for one fold, the
 binding term here only improves with excess. Wah et al. (2016) shifted
 nucleation by non-uniform staple concentration, the subset tuning this
 paper proposes and does not test. Schneider, Möritz and Dietz (2019),
-LIT-tmp7v945, found folding order set more by topology than by binding
+[LIT-tmp7v945](../literature.d/LIT-tmp7v945.md), found folding order set more by topology than by binding
 strength, which an independent-staple score cannot express; Dannenberg
-et al. (2015), LIT-tmpdyrnb, model the loop-closure cooperativity and
+et al. (2015), [LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), model the loop-closure cooperativity and
 hysteresis this score omits. The held simulation of DeLuca et al.
-(LIT-2081, NOTE-1561, THEORY-1398) puts misfolding in kinetic traps,
+([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)) puts misfolding in kinetic traps,
 which this model leaves out by construction. Wagenbauer et al. (2014),
-LIT-tmpduceb, is the branch's reading on quantifying quality; this yield
+[LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), is the branch's reading on quantifying quality; this yield
 is gel-only. Cumberworth, Frenkel and Reinhardt (Nano Letters 2022), a
 simulation of design-dependent nucleation barriers, is the likely source
 of A's first misattribution; it is not held.
@@ -178,40 +178,40 @@ of A's first misattribution; it is not held.
   redesigned target is itself more stable. "optimizing a developmental
   mechanism" goes beyond the paper, whose model scores the finished state
   and explicitly ignores folding kinetics.
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports,
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Supports,
   weakly: each original is feasible and reached at a few percent, the
   redesigns reach the nominally same layout at 48-61%. Reliability here is
   one gel window after one anneal.
-- **CLAIM-583 (same complex, different reach).** Does not instantiate it.
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reach).** Does not instantiate it.
   Changing the staple set changes the compatibility complex and its costs,
   and the explanation offered is the stability of the parts, not a
   different path over the same complex. Dunn et al. (2015) is the reading
   that tried to hold final-fold stability fixed.
-- **CLAIM-569 (construct, maintain, transition).** Qualifies: a hold-type
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Qualifies: a hold-type
   quantity, per-staple equilibrium stability at 50 °C, predicts
   construction yield (R² = 0.86 over 8 designs). In this design family the
   two co-vary; this is not a case that separates them.
-- **CLAIM-571**: leaves open; no threshold or path is measured.
-  **CLAIM-566**: consistent, assembly only.
-- **CLAIM-557, CLAIM-574, CLAIM-570, CLAIM-592 (observing budgets).**
+- **[CLAIM-571](../claims.d/CLAIM-571.md)**: leaves open; no threshold or path is measured.
+  **[CLAIM-566](../claims.d/CLAIM-566.md)**: consistent, assembly only.
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing budgets).**
   Illustrative only: a gel lumps every species in a hand-bounded window,
-  and TEM was spent only on the redesign band. **CLAIM-572 and
-  QUESTION-374**: thin; gel extraction both characterizes and purifies the
+  and TEM was spent only on the redesign band. **[CLAIM-572](../claims.d/CLAIM-572.md) and
+  [QUESTION-374](../questions.d/QUESTION-374.md)**: thin; gel extraction both characterizes and purifies the
   object, which the paper does not frame as one budget.
-- **CLAIM-184**: nothing beyond the SI speculation about kinetic traps.
-  **QUESTION-380**: none; no nucleus is designed or measured.
-- **QUESTION-tmpg0j9y (allocation selects what nucleates).** Partly: at
+- **[CLAIM-184](../claims.d/CLAIM-184.md)**: nothing beyond the SI speculation about kinetic traps.
+  **[QUESTION-380](../questions.d/QUESTION-380.md)**: none; no nucleus is designed or measured.
+- **[QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md) (allocation selects what nucleates).** Partly: at
   fixed concentrations and, for three blocks, a fixed scaffold route,
   rearranging staple breakpoints changes yield 8- to 16-fold. That is
   arrangement, not allocation of a stock; allocation by staple
   concentration is only modelled.
-- **CASE-tmpu0s44 (the proposed assembly study).** An experimental
+- **[CASE-tmpu0s44](../cases.d/CASE-tmpu0s44.md) (the proposed assembly study).** An experimental
   cousin: target layout fixed, arrangement varied at fixed per-staple
   concentration, endpoint gel yield only, with no times, intermediates,
   traps or persistence.
-- **CLAIM-025, QUESTION-388, TERM-070, QUESTION-090**: none; the redesign
+- **[CLAIM-025](../claims.d/CLAIM-025.md), [QUESTION-388](../questions.d/QUESTION-388.md), [TERM-070](../terms.d/TERM-070.md), [QUESTION-090](../questions.d/QUESTION-090.md)**: none; the redesign
   is done by the designer's algorithm, not by the object.
-- Filed: THEORY-tmpa4har. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpa4har](../theory.d/THEORY-tmpa4har.md). No instruction for machine-learning practice.
 
 ## Limitations
 

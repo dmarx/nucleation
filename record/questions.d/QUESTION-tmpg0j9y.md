@@ -88,8 +88,8 @@ the constraints, selects the outcome.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres, "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, read in full (main text and
-supplement, NOTE-tmp059hz), is the paper A's question leans on, now read
+**Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres, "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), read in full (main text and
+supplement, [NOTE-tmp059hz](../notes.d/NOTE-tmp059hz.md)), is the paper A's question leans on, now read
 rather than taken on A's account. It qualifies the question: with
 sequences unchanged, raising the central staples and cutting the edge
 staples reroutes where the rectangle starts folding (edges to centre), and

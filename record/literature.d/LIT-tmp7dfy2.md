@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmp1fpff) from the authors' submitted
+  read in part 2026-11-05 ([NOTE-tmp1fpff](../notes.d/NOTE-tmp1fpff.md)) from the authors' submitted
   version in Cambridge's Apollo repository, after pubs.rsc.org showed a
   Cloudflare challenge; §2.1 on cooperativity, §§2.2-2.3 on nucleation
   barriers, the hysteresis passages and the Conclusions read, the methods
@@ -76,7 +76,7 @@ Cumberworth, A. & Reinhardt, A. (2025). Models and simulations of structural DNA
 
 ## Key takeaways
 
-*From the partial reading, NOTE-tmp1fpff, of the submitted version.*
+*From the partial reading, [NOTE-tmp1fpff](../notes.d/NOTE-tmp1fpff.md), of the submitted version.*
 
 - **Later domains depend on loops.** "the bonding of subsequent domains of
   the same staple depend significantly on what kinds of loops form", and
@@ -98,8 +98,8 @@ Cumberworth, A. & Reinhardt, A. (2025). Models and simulations of structural DNA
 Registered from A's second paste on DNA origami, whose description of it
 (loop-formation entropy and the dependence of later binding on existing
 loops) the reading confirms. It supplies the mechanism behind the
-loop-entropy skew of Majikes et al. (2026), LIT-tmpbkl3k, and disagrees
+loop-entropy skew of Majikes et al. (2026), [LIT-tmpbkl3k](LIT-tmpbkl3k.md), and disagrees
 with that paper on how much blocking matters, at different
 concentrations. Its contrast between bricks and origami bears on
-QUESTION-380. Read in part only. Filed from it: THEORY-tmp07nzo. No
+[QUESTION-380](../questions.d/QUESTION-380.md). Read in part only. Filed from it: [THEORY-tmp07nzo](../theory.d/THEORY-tmp07nzo.md). No
 instruction for machine-learning practice; nothing for the anthology.

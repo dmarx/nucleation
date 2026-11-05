@@ -171,13 +171,13 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, support the claim as a hypothesis in
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), support the claim as a hypothesis in
 the whole-origami story: leaving the blocked state needs a whole staple
 displaced, possible only once neighbouring folds raise the local j-factor,
 whereas holding the fold needs no such thing, so the transition threshold
 differs from the holding requirement. At the single fold no path cost is
 measured.
 
-**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), LIT-tmpairr7, support the claim. Separating daughter from parent requires a peak of about 50 °C, unlike the 18 °C hold at which the complex forms. A feasible cycle exists only while that peak stays below the temperature at which the tiles unravel. The authors "could barely separate tetramers". The reading leaves open how the peak requirement grows past four tiles, which the model predicts and experiment has not reached.
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), support the claim. Separating daughter from parent requires a peak of about 50 °C, unlike the 18 °C hold at which the complex forms. A feasible cycle exists only while that peak stays below the temperature at which the tiles unravel. The authors "could barely separate tetramers". The reading leaves open how the peak requirement grows past four tiles, which the model predicts and experiment has not reached.
 
 No status changes.

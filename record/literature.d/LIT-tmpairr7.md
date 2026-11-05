@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp79i4g) from the Science Advances version of
+  read 2026-11-05 ([NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)) from the Science Advances version of
   record in PubMed Central (PMC13189100, CC BY-NC 4.0), main text, figure
   captions and references in full, supplementary materials not read;
   worth reading as a quantitative account of cooperativity between DNA
@@ -71,7 +71,7 @@ Ni, H., Zhou, F., Zhu, G., Bershadsky, L., Ai, S., Wang, K., Sha, R., Seeman, N.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp79i4g.*
+*From the reading, [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md).*
 
 - **Cooperativity as effective concentration.** "the translational
   entropy penalty is paid only once when the first several bonds form";
@@ -94,10 +94,10 @@ arguing that self-replication in a supplied environment does not by
 itself establish closure of constraints. The reading bears that out, as
 A's inference: the template produces daughters, but nothing in the
 system maintains another member or the conditions of the cycle, so under
-TERM-070 it is templated production without closure. It supports and
-refines CLAIM-566 (replication, multiplying copies, is neither assembly
-nor regeneration), and bears on CLAIM-569 and CLAIM-571 through its
+[TERM-070](../terms.d/TERM-070.md) it is templated production without closure. It supports and
+refines [CLAIM-566](../claims.d/CLAIM-566.md) (replication, multiplying copies, is neither assembly
+nor regeneration), and bears on [CLAIM-569](../claims.d/CLAIM-569.md) and [CLAIM-571](../claims.d/CLAIM-571.md) through its
 temperature windows and the separation step bounded by the tiles' own
 unravelling. It is the non-living, externally driven case of England's
-bound on replicators, LIT-515. Filed from it: THEORY-tmpnu25d. No
+bound on replicators, [LIT-515](LIT-515.md). Filed from it: [THEORY-tmpnu25d](../theory.d/THEORY-tmpnu25d.md). No
 instruction for machine-learning practice; nothing for the anthology.

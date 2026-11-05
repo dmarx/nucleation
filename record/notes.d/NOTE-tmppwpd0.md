@@ -86,7 +86,7 @@ better than many short folds, which leave the long folds few routes.
 - **What skew means (Results).** "A large negative skew is indicative of
   many nucleation points, but a limited number of pathways leading to the
   geometrically necessary long folds." Design #1 (a hierarchy of fold
-  lengths) has skew 1.0; #24, the same rotated 90° to maximize short
+  lengths) has skew 1.0; [#24](https://github.com/dmarx/nucleation/issues/24), the same rotated 90° to maximize short
   folds, has skew −1.6 and "performs objectively worse": "simply
   increasing the number of short folds at the expense of medium folds
   merely creates additional kinetic traps for the topologically necessary
@@ -119,7 +119,7 @@ better than many short folds, which leave the long folds few routes.
   throughput" (gel, then AFM or TEM, then DNA-PAINT). On a gel "only a
   significant amount of damage will shift the band", and "design
   variations can significantly shift the mobility even for well-folded
-  structures": damaged #7 ran with well-folded #1 and #14. Of φ: "We equate
+  structures": damaged [#7](https://github.com/dmarx/nucleation/issues/7) ran with well-folded #1 and [#14](https://github.com/dmarx/nucleation/issues/14). Of φ: "We equate
   the defectivity, or φ, to the average number of missing or blocked
   staples for a design", yet "use this only as a very approximate
   substitute for the number of missing or blocked staples. The primary
@@ -148,19 +148,19 @@ better than many short folds, which leave the long folds few routes.
 ## Connections
 
 It extends Majikes et al. (2021), whose blocked state becomes one metric
-of four, and Majikes et al. (2020), LIT-tmp0hqya, whose fold-level loop
-entropy it aggregates. It cites Dannenberg et al. (2015), LIT-tmpdyrnb, as
+of four, and Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), whose fold-level loop
+entropy it aggregates. It cites Dannenberg et al. (2015), [LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), as
 the melting model to test across designs, and Schneider, Möritz and Dietz
-(2019), LIT-tmp7v945, for folding in two to three stages. Dunn et al.
-(2015), LIT-tmpqku12, and Wah et al. (2016) steered one design by stability
+(2019), [LIT-tmp7v945](../literature.d/LIT-tmp7v945.md), for folding in two to three stages. Dunn et al.
+(2015), [LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), and Wah et al. (2016) steered one design by stability
 or concentration; this paper varies the design across 34. Wagenbauer et
-al. (2014), LIT-tmpduceb, is cited for oligomer-inclusion yield, and its
+al. (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), is cited for oligomer-inclusion yield, and its
 point that observables merge states is echoed by the gel result. Sobczak
-et al. (2012), LIT-tmpg98v0, is cited for gels on one design. The review
-of Cumberworth and Reinhardt (2025), LIT-tmp7dfy2, gives the loop-order
+et al. (2012), [LIT-tmpg98v0](../literature.d/LIT-tmpg98v0.md), is cited for gels on one design. The review
+of Cumberworth and Reinhardt (2025), [LIT-tmp7dfy2](../literature.d/LIT-tmp7dfy2.md), gives the loop-order
 mechanism behind the skew metric and argues that blocking is rare at
 typical concentrations; the two disagree there, under different
-concentrations. DeLuca et al. (LIT-2081, NOTE-1561, THEORY-1398) are
+concentrations. DeLuca et al. ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)) are
 cited for modelling; their global topological traps in 3D are not the
 local traps for long folds found here. Rothemund (2006) is not in the
 reference list.
@@ -184,49 +184,49 @@ reference list.
   makes further compatible organization more likely, is A's own, and the
   paper qualifies it: adding short-fold nuclei in place of medium folds
   made things worse.
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports,
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Supports,
   empirically: 34 designs encode one feasible target, and how reliably a
   fixed protocol reaches it varies with design (φ about 10 to 35).
-- **CLAIM-583 (same complex, different reach).** Qualifies: the designs
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reach).** Qualifies: the designs
   share the target shape but not the compatibility complex, since routing,
   seams and motifs change which domains pair. Sequence rotation, which
   keeps the routing, is the nearest to the same complex, and it changed
   nothing.
-- **CLAIM-571**: leaves open; melt Tm and low defectivity go together, so
+- **[CLAIM-571](../claims.d/CLAIM-571.md)**: leaves open; melt Tm and low defectivity go together, so
   holding and reaching are correlated here, not shown to differ.
-  **CLAIM-581, CLAIM-591**: none; no hysteresis values.
-- **CLAIM-569 (construct, maintain, transition).** Mild support:
+  **[CLAIM-581](../claims.d/CLAIM-581.md), [CLAIM-591](../claims.d/CLAIM-591.md)**: none; no hysteresis values.
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Mild support:
   concentration and time are the constructing resource the authors cut,
   and thermal stability enters the model as its own term.
-- **CLAIM-566**: leaves open; assembly only.
-- **CLAIM-557, CLAIM-574, CLAIM-570, CLAIM-592 (observing budgets).**
+- **[CLAIM-566](../claims.d/CLAIM-566.md)**: leaves open; assembly only.
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing budgets).**
   Support, as an example: resolution rises with cost from gel to AFM to
   DNA-PAINT, and AFM classes cannot count staples. The gel is not a
-  coarsening of AFM: it merges damaged with well-folded (#7 with #1 and
-  #14) and splits well-folded designs by mobility, which bears on
-  CLAIM-574's nesting of probe families.
-- **CLAIM-572 and QUESTION-374 (one budget for observing and acting).**
+  coarsening of AFM: it merges damaged with well-folded ([#7](https://github.com/dmarx/nucleation/issues/7) with #1 and
+  [#14](https://github.com/dmarx/nucleation/issues/14)) and splits well-folded designs by mobility, which bears on
+  [CLAIM-574](../claims.d/CLAIM-574.md)'s nesting of probe families.
+- **[CLAIM-572](../claims.d/CLAIM-572.md) and [QUESTION-374](../questions.d/QUESTION-374.md) (one budget for observing and acting).**
   An example on the observer's side: the authors spend down concentration
   and anneal time to make outcomes distinguishable at an affordable
   imaging cost.
-- **CLAIM-184 (anchors entrench).** Weak, indirect support: many
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench).** Weak, indirect support: many
   nucleation points with few routes to the long folds raise defects.
-- **CLAIM-185 (persistence as anchor).** Qualifies: more short, stable
-  early folds made outcomes worse (#24); the distribution of penalties
+- **[CLAIM-185](../claims.d/CLAIM-185.md) (persistence as anchor).** Qualifies: more short, stable
+  early folds made outcomes worse ([#24](https://github.com/dmarx/nucleation/issues/24)); the distribution of penalties
   matters, not the number of anchors.
-- **CLAIM-478 and CLAIM-480 (settled degrees of freedom as constraints).**
+- **[CLAIM-478](../claims.d/CLAIM-478.md) and [CLAIM-480](../claims.d/CLAIM-480.md) (settled degrees of freedom as constraints).**
   Some support: inter-fold cooperativity is a closed fold constraining the
   rest of the scaffold. The paper does not frame it so.
-- **QUESTION-380 (when a small compatible nucleus helps).** Directly
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (when a small compatible nucleus helps).** Directly
   relevant: not more nuclei, but a positively skewed penalty distribution,
   offered as a predictor from the constraint architecture.
-- **QUESTION-tmpg0j9y**: leaves open; no fixed stock was reallocated.
-  **CASE-tmpu0s44**: partly realized; a fixed target, assembly reliability
+- **[QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md)**: leaves open; no fixed stock was reallocated.
+  **[CASE-tmpu0s44](../cases.d/CASE-tmpu0s44.md)**: partly realized; a fixed target, assembly reliability
   across 34 arrangements with uncertainty, but arrangement rather than
   availability is varied, and neither time, intermediates nor persistence
   is measured.
-- **CLAIM-025, QUESTION-388, TERM-070, QUESTION-090**: none.
-- Filed: THEORY-tmpcfriw. No instruction for machine-learning practice.
+- **[CLAIM-025](../claims.d/CLAIM-025.md), [QUESTION-388](../questions.d/QUESTION-388.md), [TERM-070](../terms.d/TERM-070.md), [QUESTION-090](../questions.d/QUESTION-090.md)**: none.
+- Filed: [THEORY-tmpcfriw](../theory.d/THEORY-tmpcfriw.md). No instruction for machine-learning practice.
 
 ## Limitations
 

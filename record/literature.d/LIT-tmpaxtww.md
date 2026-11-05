@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmptbrlo) from the PNAS version of record in PubMed
+  read 2026-11-05 ([NOTE-tmptbrlo](../notes.d/NOTE-tmptbrlo.md)) from the PNAS version of record in PubMed
   Central (PMC11621765, CC BY-NC-ND 4.0), main text and SI Appendix in
   full, figures through their legends only; worth reading as a design
   method that turns the choice of staple breakpoints in a fixed DNA origami
@@ -75,7 +75,7 @@ Aksel, T., Navarro, E. J., Fong, N. & Douglas, S. M. (2024). Design principles f
 
 ## Key takeaways
 
-*From the reading, NOTE-tmptbrlo.*
+*From the reading, [NOTE-tmptbrlo](../notes.d/NOTE-tmptbrlo.md).*
 
 - **A shortest-path design method.** The authors "reduced the problem of
   DNA strand routing to the known problem of shortest-path finding in a
@@ -100,9 +100,9 @@ probability of forming the target. The reading confirms the method and
 the yields and narrows the case: for three blocks only staple breakpoints
 changed, but the paper's account is that the redesigned target itself is
 more stable, not that the same target is reached by a different path. It
-bears on CLAIM-567 (weak support) and CLAIM-569 (a hold-type quantity
-predicting construction yield), and it does not instantiate CLAIM-583.
-It sits beside Dunn et al. (2015), LIT-tmpqku12, whose loop model it
-borrows, and the held simulation of DeLuca et al., LIT-2081, whose
-kinetics it omits. Filed from it: THEORY-tmpa4har. No instruction for
+bears on [CLAIM-567](../claims.d/CLAIM-567.md) (weak support) and [CLAIM-569](../claims.d/CLAIM-569.md) (a hold-type quantity
+predicting construction yield), and it does not instantiate [CLAIM-583](../claims.d/CLAIM-583.md).
+It sits beside Dunn et al. (2015), [LIT-tmpqku12](LIT-tmpqku12.md), whose loop model it
+borrows, and the held simulation of DeLuca et al., [LIT-2081](LIT-2081.md), whose
+kinetics it omits. Filed from it: [THEORY-tmpa4har](../theory.d/THEORY-tmpa4har.md). No instruction for
 machine-learning practice; nothing for the anthology.

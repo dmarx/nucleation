@@ -108,7 +108,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), LIT-tmpqorwy, give a clean "merely
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), give a clean "merely
 programmable" case for the question. The lock pair (and hence the response
 function) is set from outside; there is no internal process updating it
 from the device's own states; opening is a one-shot, input-triggered
