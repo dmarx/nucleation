@@ -77,7 +77,7 @@ consumes alike, it stays at 59.3 %.
 
 ## The molecular instance
 
-Majikes et al. 2021 (NOTE-tmpetbc9, THEORY-tmpzi9gz), read in this pull request: for one staple-mediated
+Majikes et al. 2021 ([NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md), [THEORY-tmpzi9gz](../theory.d/THEORY-tmpzi9gz.md)), read in this pull request: for one staple-mediated
 fold, closing the fold is intramolecular (its effective concentration j),
 while blocking it takes a second staple molecule (concentration S₀). Their
 equilibrium model gives folded/blocked = j/S₀ at high excess, so yield

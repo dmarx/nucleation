@@ -15,7 +15,7 @@ source:
 - LIT-tmps9gx3
 summary: >-
   Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres (2016),
-  LIT-tmps9gx3, read in NOTE-tmp059hz (main text and supplement).
+  [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), read in [NOTE-tmp059hz](../notes.d/NOTE-tmp059hz.md) (main text and supplement).
   Proposed: one design, one lab, the two concentration changes made
   together with a slower ramp. The title asserts where folding starts
   under each allocation and the authors' attribution; it does not assert
@@ -28,8 +28,8 @@ summary: >-
 
 ## Source
 
-Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres (2016), LIT-tmps9gx3;
-read in NOTE-tmp059hz.
+Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md);
+read in [NOTE-tmp059hz](../notes.d/NOTE-tmp059hz.md).
 
 ## What was actually shown
 
@@ -55,6 +55,6 @@ read in NOTE-tmp059hz.
 - That a fixed stock was reallocated: the total rose and the ramp halved
   in rate.
 - Which of the two changes, centre up or edges down, moved the nucleus.
-- Anything about 3D designs or global traps, the subject of THEORY-1398.
+- Anything about 3D designs or global traps, the subject of [THEORY-1398](THEORY-1398.md).
 - That the mechanism is settled: the model is single-staple mass action
   without cooperativity, and the estimates are order-of-magnitude.

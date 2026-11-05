@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmplg4lb
 summary: >-
-  Majikes, Patrone, Kearsley, Zwolak and Liddle (2021), LIT-tmplg4lb,
-  read in NOTE-tmpetbc9 (main text, captions and tables; the supplement,
+  Majikes, Patrone, Kearsley, Zwolak and Liddle (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md),
+  read in [NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md) (main text, captions and tables; the supplement,
   with the slower-anneal control, unread). Proposed: one lab, one fold at
   a time, one reporter channel that cannot tell blocked from unbound, and
   one fold distance declared anomalous by assumption. The title asserts
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Majikes, Patrone, Kearsley, Zwolak and Liddle (2021), LIT-tmplg4lb; read
-in NOTE-tmpetbc9.
+Majikes, Patrone, Kearsley, Zwolak and Liddle (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md); read
+in [NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md).
 
 ## What was actually shown
 
@@ -60,4 +60,4 @@ in NOTE-tmpetbc9.
   "either thermodynamic or kinetic".
 - That the blocked state was seen directly: one channel cannot tell it
   from an unbound scaffold, and it is identified by regime and model.
-- Anything about global folding traps, the subject of THEORY-1398.
+- Anything about global folding traps, the subject of [THEORY-1398](THEORY-1398.md).

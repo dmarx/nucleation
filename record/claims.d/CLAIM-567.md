@@ -206,6 +206,6 @@ No status changes.
 
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
-A closes on the claim's distinction: "The intended organization is specified in the design. The realized organization is produced by dynamics. Its persistence is a further property." That is this claim together with CLAIM-566. Two of A's further works add numbers. In Majikes et al. 2021 (NOTE-tmpetbc9), a single fold is feasible, yet at high staple excess fewer than half the molecules fold. In Douglas et al. 2009 (NOTE-tmp77tp9), multilayer designs fold at 7 to 44 % after week-long anneals.
+A closes on the claim's distinction: "The intended organization is specified in the design. The realized organization is produced by dynamics. Its persistence is a further property." That is this claim together with [CLAIM-566](CLAIM-566.md). Two of A's further works add numbers. In Majikes et al. 2021 ([NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md)), a single fold is feasible, yet at high staple excess fewer than half the molecules fold. In Douglas et al. 2009 ([NOTE-tmp77tp9](../notes.d/NOTE-tmp77tp9.md)), multilayer designs fold at 7 to 44 % after week-long anneals.
 
 No status changes.

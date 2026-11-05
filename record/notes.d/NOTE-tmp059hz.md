@@ -136,22 +136,22 @@ high to low melting temperature area" (Conclusion, p. 14).
 
 ## Connections
 
-The design is Rothemund's (LIT-tmp5gf89, NOTE-tmp8kyp2). The authors cite
-Dunn et al. (LIT-tmpqku12, NOTE-tmpvgzvb) as agreeing that early
+The design is Rothemund's ([LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), [NOTE-tmp8kyp2](NOTE-tmp8kyp2.md)). The authors cite
+Dunn et al. ([LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), [NOTE-tmpvgzvb](NOTE-tmpvgzvb.md)) as agreeing that early
 connections from high-melting staples guide the path; Dunn changes
 stabilities and shifts the final shape among near-degenerate ones, while
 this paper changes concentrations and shifts only the path to one shape.
 The quench result mirrors the narrow folding windows of Sobczak et al.
-2012 (LIT-tmpg98v0, its reference 17, Unavailable) and of Sobczak's thesis
-(LIT-tmpwddcn, NOTE-tmpwxm2p). Schneider et al. (LIT-tmp7v945,
-NOTE-tmpqi66a) give an ordered binding of staple domains in a 3D brick;
+2012 ([LIT-tmpg98v0](../literature.d/LIT-tmpg98v0.md), its reference 17, Unavailable) and of Sobczak's thesis
+([LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), [NOTE-tmpwxm2p](NOTE-tmpwxm2p.md)). Schneider et al. ([LIT-tmp7v945](../literature.d/LIT-tmp7v945.md),
+[NOTE-tmpqi66a](NOTE-tmpqi66a.md)) give an ordered binding of staple domains in a 3D brick;
 this paper gives a spatial order for a 2D sheet. Against Dannenberg et al.
-(LIT-tmpdyrnb, NOTE-tmpyo994), hysteresis here is within precision below
+([LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), [NOTE-tmpyo994](NOTE-tmpyo994.md)), hysteresis here is within precision below
 61 °C. The observables that merge states echo Wagenbauer et al.
-(LIT-tmpduceb, NOTE-tmpmw05j). The excess-blocking term of the model is
-the single-fold blocked state that Majikes et al. 2021 (LIT-tmplg4lb,
-NOTE-tmpetbc9) observe. Against the held simulation, LIT-2081 (NOTE-1561,
-THEORY-1398): consistent with hierarchical growth from nucleation sites;
+([LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), [NOTE-tmpmw05j](NOTE-tmpmw05j.md)). The excess-blocking term of the model is
+the single-fold blocked state that Majikes et al. 2021 ([LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md),
+[NOTE-tmpetbc9](NOTE-tmpetbc9.md)) observe. Against the held simulation, [LIT-2081](../literature.d/LIT-2081.md) ([NOTE-1561](NOTE-1561.md),
+[THEORY-1398](../theory.d/THEORY-1398.md)): consistent with hierarchical growth from nucleation sites;
 no global trap is seen in this 2D design, and the authors' equilibrium
 reading contrasts with the kinetic traps the simulation finds in larger
 3D designs.
@@ -174,39 +174,39 @@ reading contrasts with the kinetic traps the simulation finds in larger
   set by sequence or concentration. A's kinetic competition formula is
   A's, labelled illustrative by A, and is not the paper's mechanism, which
   is equilibrium.
-- **QUESTION-tmpg0j9y and CASE-tmpu0s44: a partial instance.** The path
+- **[QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md) and [CASE-tmpu0s44](../cases.d/CASE-tmpu0s44.md): a partial instance.** The path
   reroutes and the same kind of rectangle forms, but the stock was not
   fixed and the final-form distribution, probability and time of assembly
   were not measured.
-- **CLAIM-567 (feasible, reachable, reliably reached): qualifies.** The
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reached): qualifies.** The
   target is reached under both allocations, but its reliability is
   quantified only under the standard one.
-- **CLAIM-583 (same complex, different reachability): partial, weaker.**
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reachability): partial, weaker.**
   Same sequences, different path; that the target's reachability differs
   is not shown.
-- **CLAIM-591 (directed costs): supports in kind.** Above 61 °C the way
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs): supports in kind.** Above 61 °C the way
   out (chain-like) differs from the way in (coil), at equal bulk
   base-pair count.
-- **CLAIM-569: supports in kind**: a narrow folding window, stability at
-  40 °C, a distinct melting path; no resource accounting. **CLAIM-571:
+- **[CLAIM-569](../claims.d/CLAIM-569.md): supports in kind**: a narrow folding window, stability at
+  40 °C, a distinct melting path; no resource accounting. **[CLAIM-571](../claims.d/CLAIM-571.md):
   weak**: the quench to 57 °C suffices, so the threshold here lies close
   to the hold.
-- **CLAIM-557 and CLAIM-574 (observing refines): illustration.** Modal
+- **[CLAIM-557](../claims.d/CLAIM-557.md) and [CLAIM-574](../claims.d/CLAIM-574.md) (observing refines): illustration.** Modal
   height splits two states, median height four, visual inspection six;
   bulk fluorescence merges chain-like with coil. The density tradeoff is a
-  concrete observing budget for QUESTION-374.
-- **CLAIM-184 (anchors entrench): qualifies.** Early nuclei set the path,
+  concrete observing budget for [QUESTION-374](../questions.d/QUESTION-374.md).
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench): qualifies.** Early nuclei set the path,
   but by the authors' account the outcome is not locked in.
-- **CLAIM-562 (where an intervention acts): supports in kind.** Where the
+- **[CLAIM-562](../claims.d/CLAIM-562.md) (where an intervention acts): supports in kind.** Where the
   concentration was changed, not the amount alone, moved nucleation.
-- **QUESTION-380 (small compatible nucleus): directly relevant.** The
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (small compatible nucleus): directly relevant.** The
   nucleus sits where local melting temperature is highest and can be
   moved; whether it raises global yield is not measured.
-- **CLAIM-tmp7y162 and CASE-tmpa6s9d**: the 65–55 °C window and the
+- **[CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md) and [CASE-tmpa6s9d](../cases.d/CASE-tmpa6s9d.md)**: the 65–55 °C window and the
   quench result bear on the heat-window claim; no time budget is varied.
-- **QUESTION-388**: the control is external programming (concentrations,
+- **[QUESTION-388](../questions.d/QUESTION-388.md)**: the control is external programming (concentrations,
   ramp), nothing self-governing.
-- Filed: THEORY-tmp7qfc2. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp7qfc2](../theory.d/THEORY-tmp7qfc2.md). No instruction for machine-learning practice.
 
 ## Limitations
 

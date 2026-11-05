@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpqorwy
 summary: >-
-  Douglas, Bachelet and Church (2012), LIT-tmpqorwy, read in NOTE-tmpgw5ab
+  Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), read in [NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md)
   (main text and captions; the Supporting Online Material, with the
   lock-length data, unread). Proposed: one lab, a proof of principle,
   conformations read by TEM counts and flow cytometry. The title asserts
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Douglas, Bachelet and Church (2012), LIT-tmpqorwy; read in NOTE-tmpgw5ab.
+Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md); read in [NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md).
 
 ## What was actually shown
 
@@ -54,4 +54,4 @@ Douglas, Bachelet and Church (2012), LIT-tmpqorwy; read in NOTE-tmpgw5ab.
 - Quantitative thermodynamics or kinetics of the locks: these are in the
   unread Supporting Online Material.
 - Anything about the barrel's own folding pathway or traps, the subject of
-  THEORY-1398.
+  [THEORY-1398](THEORY-1398.md).

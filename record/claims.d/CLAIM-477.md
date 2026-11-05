@@ -404,6 +404,6 @@ The second paste of the pasted synthesis on resource-bounded realizability reads
 
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
-A's synthesis gives the claim a physical instance. In A's words, "binding changes geometry, which changes subsequent binding kinetics", so there is "a feedback between relational organization and physical accessibility". One scaffold realizes different architectures under different staple networks: Rothemund's merge patterns and Dunn et al.'s seams (NOTE-tmp8kyp2, NOTE-tmpvgzvb). Schneider, Möritz and Dietz (NOTE-tmpqi66a) add the qualifier: with the wiring fixed and every staple sequence changed, the folding order barely moved. So the relations, not the relata's sequences, fix the path.
+A's synthesis gives the claim a physical instance. In A's words, "binding changes geometry, which changes subsequent binding kinetics", so there is "a feedback between relational organization and physical accessibility". One scaffold realizes different architectures under different staple networks: Rothemund's merge patterns and Dunn et al.'s seams ([NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md), [NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)). Schneider, Möritz and Dietz ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)) add the qualifier: with the wiring fixed and every staple sequence changed, the folding order barely moved. So the relations, not the relata's sequences, fix the path.
 
 No status changes.

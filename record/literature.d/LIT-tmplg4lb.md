@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpetbc9) from the PubMed Central author
+  read 2026-11-05 ([NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md)) from the PubMed Central author
   manuscript (PMC11005093, NIST author manuscript), main text, figure
   captions and Tables 1–2 in full, the supplement not read; worth reading
   as the first experimental observation, by the authors' account, of a
@@ -70,7 +70,7 @@ Majikes, J. M., Patrone, P. N., Kearsley, A. J., Zwolak, M. & Liddle, J. A. (202
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpetbc9 (main text, captions and tables; the supplement unread).*
+*From the reading, [NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md) (main text, captions and tables; the supplement unread).*
 
 - **A blocked state is observed.** The abstract reports "a predicted, but
   previously unobserved blocked state" that "acts as a limit on yield for
@@ -96,14 +96,14 @@ Majikes, J. M., Patrone, P. N., Kearsley, A. J., Zwolak, M. & Liddle, J. A. (202
 
 Filed for the realizability inquiry as the cleanest case on the record
 of a target that is feasible and reached, yet reached by under half the
-molecules because of an equilibrium competitor (CLAIM-567), and of a
+molecules because of an equilibrium competitor ([CLAIM-567](../claims.d/CLAIM-567.md)), and of a
 resource that has a window: staple excess helps up to a turnover and then
-hurts, at a single fold, without the time budget of CLAIM-tmp7y162. It
-extends Majikes et al. 2020 (LIT-tmp0hqya), which measured the holding
-side of one fold, to the reaching side. It supports CLAIM-557 on what a
-single channel lumps together, and offers a hypothesis for QUESTION-380
+hurts, at a single fold, without the time budget of [CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md). It
+extends Majikes et al. 2020 ([LIT-tmp0hqya](LIT-tmp0hqya.md)), which measured the holding
+side of one fold, to the reaching side. It supports [CLAIM-557](../claims.d/CLAIM-557.md) on what a
+single channel lumps together, and offers a hypothesis for [QUESTION-380](../questions.d/QUESTION-380.md)
 (nucleate where fold distances are short). A's synthesis cites it as a
 precedent for kinetic trapping; the reading finds the single-fold blocked
 state equilibrium, the kinetic reading a hypothesis for whole origami
-only. Filed from it: THEORY-tmpzi9gz. No instruction for
+only. Filed from it: [THEORY-tmpzi9gz](../theory.d/THEORY-tmpzi9gz.md). No instruction for
 machine-learning practice.

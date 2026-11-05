@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpgw5ab) from the authors' copy of the AAAS
+  read 2026-11-05 ([NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md)) from the authors' copy of the AAAS
   reprint on the George M. Church laboratory's publication page, the
   two-page report and its three figure captions in full, the Supporting
   Online Material not read; worth reading as a DNA origami device whose
@@ -69,7 +69,7 @@ Douglas, S. M., Bachelet, I. & Church, G. M. (2012). A Logic-Gated Nanorobot for
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpgw5ab (main text and captions; the Supporting Online Material unread).*
+*From the reading, [NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md) (main text and captions; the Supporting Online Material unread).*
 
 - **An AND gate in the hardware.** "Both locks needed to be opened
   simultaneously to activate the robot. The robot remained inactive when
@@ -92,13 +92,13 @@ Douglas, S. M., Bachelet, I. & Church, G. M. (2012). A Logic-Gated Nanorobot for
 
 Filed for the realizability inquiry, and as the work A's synthesis cites
 for an assembled object that carries an operational rule. It is a clean
-case for CLAIM-025 and QUESTION-388: an operative regime (closed or open)
+case for [CLAIM-025](../claims.d/CLAIM-025.md) and [QUESTION-388](../questions.d/QUESTION-388.md): an operative regime (closed or open)
 and a governing rule (which aptamer pair) both realized, and no capacity
 in the device to revise the rule, which is fixed by the designer at fold
-time. It separates the three costs of CLAIM-569: guide staples paid at
+time. It separates the three costs of [CLAIM-569](../claims.d/CLAIM-569.md): guide staples paid at
 construction and removed, a key concentration paid to open, set by lock
-length. It persists without regenerating (CLAIM-566, TERM-070). Beside
-it, Marras et al. (LIT-tmp11aw1) cycle a mechanism by strand
-displacement, and the mechanical origami logic of LIT-2082
-(THEORY-1373) is reconfigured where this rule is fixed. Filed from it:
-THEORY-tmptmlc7. No instruction for machine-learning practice.
+length. It persists without regenerating ([CLAIM-566](../claims.d/CLAIM-566.md), [TERM-070](../terms.d/TERM-070.md)). Beside
+it, Marras et al. ([LIT-tmp11aw1](LIT-tmp11aw1.md)) cycle a mechanism by strand
+displacement, and the mechanical origami logic of [LIT-2082](LIT-2082.md)
+([THEORY-1373](../theory.d/THEORY-1373.md)) is reconfigured where this rule is fixed. Filed from it:
+[THEORY-tmptmlc7](../theory.d/THEORY-tmptmlc7.md). No instruction for machine-learning practice.

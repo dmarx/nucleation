@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp77tp9) from the NIH author manuscript in PubMed
+  read 2026-11-05 ([NOTE-tmp77tp9](../notes.d/NOTE-tmp77tp9.md)) from the NIH author manuscript in PubMed
   Central (PMC2688462, NIHMS105924), abstract, main text, figure captions
   and references in full, the Supplementary Information not read, figure
   images not viewed; worth reading as the paper that took scaffolded
@@ -72,7 +72,7 @@ Douglas, S. M., Dietz, H., Liedl, T., Högberg, B., Graf, F. & Shih, W. M. (2009
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp77tp9 (main text and captions; the Supplementary Information unread).*
+*From the reading, [NOTE-tmp77tp9](../notes.d/NOTE-tmp77tp9.md) (main text and captions; the Supplementary Information unread).*
 
 - **A design grammar for 3D.** Helices on a honeycomb lattice, each with
   "a preferred attachment angle to helix m of ±120 degrees", staple
@@ -99,13 +99,13 @@ Douglas, S. M., Dietz, H., Liedl, T., Högberg, B., Graf, F. & Shih, W. M. (2009
 Filed for the realizability inquiry as the empirical starting point for
 3D origami folding: the design is feasible and reachable, but reached
 reliably only with a week-long ramp and a cation balance, and then in
-under half the scaffold (CLAIM-567). The ramp series spends more time
+under half the scaffold ([CLAIM-567](../claims.d/CLAIM-567.md)). The ramp series spends more time
 over the same temperatures, so the cost that differs is time, not a peak
-of path (CLAIM-571, CLAIM-581); Mg2+ is a second non-monotone resource
-beside the heat of CLAIM-tmp7y162. Its probes, gel then TEM, are a chain
-in which the dearer one refines the cheaper (CLAIM-557). Its kinetic-trap
-conjecture is what the held simulation, LIT-2081 (THEORY-1398), and the
+of path ([CLAIM-571](../claims.d/CLAIM-571.md), [CLAIM-581](../claims.d/CLAIM-581.md)); Mg2+ is a second non-monotone resource
+beside the heat of [CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md). Its probes, gel then TEM, are a chain
+in which the dearer one refines the cheaper ([CLAIM-557](../claims.d/CLAIM-557.md)). Its kinetic-trap
+conjecture is what the held simulation, [LIT-2081](LIT-2081.md) ([THEORY-1398](../theory.d/THEORY-1398.md)), and the
 later pathway studies on the branch address; Sobczak's thesis
-(LIT-tmpwddcn) re-examines its week-long protocols. A's synthesis cites
-it only for extending origami to 3D. Filed from it: THEORY-tmp8xe45. No
+([LIT-tmpwddcn](LIT-tmpwddcn.md)) re-examines its week-long protocols. A's synthesis cites
+it only for extending origami to 3D. Filed from it: [THEORY-tmp8xe45](../theory.d/THEORY-tmp8xe45.md). No
 instruction for machine-learning practice.
