@@ -27,7 +27,7 @@ summary: >-
   establish persists". The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpc3x0c NOTE-tmpckznv — new or Skimmed; the revised synthesis and a reading of the counterpoint filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpoh07b CLAIM-tmpw4ai2 NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-566 TERM-117 — Proposed, Skimmed or new; entries cited as open -->
 
@@ -88,6 +88,17 @@ Read at the owner's suggestion to look to reintroduction and ecological recovery
 - **A partial answer.** Tree islands weeded for 2.5 years kept their advantage to 16–18 years ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)). They became independent of the planter and stayed dependent on the landscape.
 - **A counter-case to A's expectation.** Under captive rearing the cost of withdrawal grows with the support's length rather than falling ([NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md)). Once hatchery fish dominate, the unsupported comparison is gone and D cannot be measured.
 - **The synthesis.** [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) answers the question in three conditions.
+
+No status changes.
+
+## Note of 2026-11-05: the counterpoint and urban-development readings
+
+Read at the owner's request for a counterpoint to the record's dependency material and suggestion of urban development and city planning; the works were chosen by the assistant. CLAIM-tmpc3x0c was revised in light of them.
+
+- **Independence after support ended, in households.** Graduation packages kept their gains one year after all support ended in six countries, and in India they grew for years after contact stopped at 18 months (NOTE-tmpl3nvb, NOTE-tmpicnhp). The control group also grew, and the treated "barely escaped poverty".
+- **A threshold for it.** Balboni et al. (NOTE-tmp6tzyt) find that the transfer had to carry a household past an asset threshold. Those left just below it fell back.
+- **A caution on A's measure.** The Tennessee Valley Authority's gains persisted forty years after its subsidy ended, yet on Kline and Moretti's model (NOTE-tmp0lzl8) the region is not independent and is slowly reverting. D measured over a fixed horizon cannot tell the two apart.
+- **Independence from a founder, not an agency.** In coproduced sewers the service became independent of its founding team and not of the agency's standing part (NOTE-tmpckznv).
 
 No status changes.
 

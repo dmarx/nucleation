@@ -64,7 +64,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-554 CLAIM-597 CLAIM-tmpoh07b — Proposed or new; claims this one extends, cited as open -->
-<!-- inactive-ok-file: NOTE-tmp22pjn NOTE-tmpc9mii THEORY-1351 LIT-tmpp546j — Skimmed, Proposed or Unavailable; readings cited as open -->
+<!-- inactive-ok-file: NOTE-tmp22pjn NOTE-tmpc9mii NOTE-tmpckznv THEORY-1351 LIT-tmpp546j — Skimmed, Proposed or Unavailable; readings cited as open -->
 
 # CLAIM-tmpqa0qu: A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity
 
@@ -170,6 +170,14 @@ the "gift economy" of Burning Man and adjacent communities.
   registered and placed. That is a limit set by the givers' own community,
   where Black Queen loss is limited by helpers growing scarce and aid by
   nothing in the recipient's dynamics.
+
+## What the counterpoint readings show
+
+Read after the owner asked for a counterpoint, "e.g. the myth of the lazy poor".
+- **The Samaritan's-dilemma response is not found in poor households.** Cash transfers barely change work (Banerjee, Hanna, Kreindler and Olken, NOTE-tmpy2r15; Baird, McKenzie and Özler, NOTE-tmpxsjeo). Graduation packages raise work (NOTE-tmpl3nvb). The poorest Bangladeshi women work the most hours (Balboni et al., NOTE-tmp6tzyt).
+- **Where the response does appear.** It appears where help is large, permanent and relieves no binding constraint, as with pensions. Ostrom et al.'s repeated donor rehabilitation of state assets is that setting.
+- **The scope narrows to match.** The claim's three places of loss stand, but the third is an organizational case. It should not be read down to households.
+- **Reciprocity at the level of public services.** In coproduced sewers, the agency's continued part is what kept residents' contribution working (Watson, NOTE-tmpckznv; Evans, NOTE-tmpgvd28). That is the reciprocal form at the level of public services.
 
 ## What it adds
 

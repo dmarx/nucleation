@@ -165,6 +165,11 @@ C = 0.769, an output of 1.15, more than demand.
 - **A faster route than disuse.** In hatchery steelhead, captive rearing selects for success in captivity. Fitness in the wild falls within one generation, and the loss compounds over generations ([NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md), [NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md)). The pattern is this claim's: support that does the work lowers the capacity kept, and more so the longer it runs. The mechanism is selection, not unlearning, and recovery after withdrawal is not measured.
 - **A confound to keep apart.** Morris et al. ([NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md)) find longer release programmes with fewer failures. That is continued supply, not substitution, and it does not test this claim.
 
+## What the counterpoint readings add
+
+- **Cash is this claim's benign case.** Cash supplements the recipients' work rather than doing it, and work did not fall (NOTE-tmpy2r15, NOTE-tmpxsjeo). The claim gives no reason to expect crowding out from it.
+- **The amount matters in another way.** Under capacity-first support, the amount does not cause dependence. But Balboni et al.'s threshold (NOTE-tmp6tzyt) shows that the amount decides whether the capacity-building process starts at all. Support too small decays without any dependence. "Not the amount of supply" holds only for dependence.
+
 ## What it does not say
 
 - **That aid harms capacity by this route in practice.** The readings

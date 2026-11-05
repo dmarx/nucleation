@@ -50,7 +50,7 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpc3x0c NOTE-tmpckznv — new or Skimmed; the revised synthesis and a reading of the counterpoint filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpoh07b CLAIM-tmpw4ai2 NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-566 LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
 
@@ -133,6 +133,15 @@ Read at the owner's suggestion to look to reintroduction and ecological recovery
   - Prairie chickens breed their own replacements. Their reliance comes from a persisting threat, not from every part being supplied (Mussmann et al., [NOTE-tmpmm5we](../notes.d/NOTE-tmpmm5we.md)).
   - A partial cut of the Kirtland's Warbler's supplied habitat gives a lower plateau, not decay to zero (Brown et al., [NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md)).
 - **The independence the claim allows.** Tree islands become independent of whoever planted them and stay dependent on the landscape's seed rain ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)). That is independence from a founder, not from a feed.
+
+No status changes.
+
+## Note of 2026-11-05: the counterpoint and urban-development readings
+
+Read at the owner's request for a counterpoint to the record's dependency material and suggestion of urban development and city planning; the works were chosen by the assistant. CLAIM-tmpc3x0c was revised in light of them.
+
+- **Supported in urban services.** Infrastructure supplied to existing slums decayed for "lack of maintenance" (Michaels et al., NOTE-tmp4js2v). Handing condominial-sewer upkeep to residents worked poorly even in the best cities (Watson, NOTE-tmpckznv). Place-based incentives have effects only while paid (Neumark and Simpson, NOTE-tmp9y93b). The Tennessee Valley Authority's agricultural gains reversed after the subsidy ended (NOTE-tmp0lzl8).
+- **Qualified by coproduction.** Where residents made part of the service, the agency's supplied part stayed necessary. It was a standing input, not a failure to become independent.
 
 No status changes.
 

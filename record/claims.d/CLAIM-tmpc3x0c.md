@@ -1,14 +1,15 @@
 ---
 status: Proposed
-title: "Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when the threat or suppressed process it stood in for has gone, and when the supported party did the work throughout, so that neither disuse, slack effort nor selection for the supported conditions wore down its capacity; support that fails any of these leaves a dependence that deepens with its length, and only persistence through a full turnover after withdrawal shows which kind it was"
+title: "Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it"
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A case of support that met all three conditions, a self-sustaining
-  process on an available flux, a removed threat and work done by the
-  supported party throughout, whose withdrawal still brought decline
-  within a turnover; or support that failed one of them, as supply that
+  A case of support that met the conditions, a self-sustaining process
+  on an available flux started by support large enough to pass its
+  threshold, a removed threat, and work the supported party could do and
+  did throughout, with standing inputs still supplied, whose withdrawal
+  still brought decline within a turnover; or support that failed one of them, as supply that
   does the upkeep, supply against a persisting threat or supply that
   substitutes for the party's work, after whose withdrawal the party
   nonetheless persisted through a turnover; or evidence across such cases
@@ -44,6 +45,15 @@ grounds:
 - THEORY-tmpkkhou
 - THEORY-tmpukudp
 - THEORY-tmphv65i
+- THEORY-tmp5v6r5
+- THEORY-tmp7qas0
+- THEORY-tmp5zz46
+- THEORY-tmpmcnzn
+- THEORY-tmpv02zm
+- THEORY-tmp10msz
+- THEORY-tmp84p6d
+- THEORY-tmpn026x
+- THEORY-tmp7ch1y
 bears_on:
 - QUESTION-398
 - QUESTION-399
@@ -68,12 +78,22 @@ summary: >-
   within one generation (Christie et al.). Captive-bred translocated
   stock shows negative population growth (Morris et al.). Persistence
   must be shown after withdrawal: impact at exit and judged success both
-  overstate it. The wording is the assistant's (Claude, in this
-  session); adopting it is the owner's call.
+  overstate it. Revised the same day after two counterpoints the owner
+  asked for. Evidence against the lazy-poor stereotype finds no slack
+  effort in poor households: cash transfers barely change work, and
+  one-off graduation packages raise it. So that route is confined to help
+  that is assured and permanent. A household asset threshold (Balboni et
+  al.) adds a condition on size: support too small decays with no
+  dependence at all. Urban development adds three cautions. Some public
+  inputs are a standing part of a coproduced service (Evans; Watson).
+  Forty years of persistence can be slow reversion (Kline and Moretti).
+  And a place can last while the people it served are dispersed
+  (Collins and Shester; LaVoice). The wording is the assistant's
+  (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-tmpoh07b CLAIM-tmpqa0qu CLAIM-tmpw4ai2 NOTE-tmp22pjn — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
+<!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-tmpoh07b CLAIM-tmpqa0qu CLAIM-tmpw4ai2 NOTE-tmp22pjn NOTE-tmpckznv NOTE-tmpuu40d — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
-# CLAIM-tmpc3x0c: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when the threat or suppressed process it stood in for has gone, and when the supported party did the work throughout, so that neither disuse, slack effort nor selection for the supported conditions wore down its capacity; support that fails any of these leaves a dependence that deepens with its length, and only persistence through a full turnover after withdrawal shows which kind it was
+# CLAIM-tmpc3x0c: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
 
 ## The three conditions
 
@@ -131,6 +151,88 @@ summary: >-
      the support covers only what the party cannot yet do and withdraws
      itself.
 
+## What the counterpoints changed
+
+Read after the owner asked for a counterpoint to the dependency material
+("e.g. the myth of the lazy poor") and suggested urban development and
+city planning. Six changes, each reflected in the title.
+
+1. **Slack effort is not a general property of support.** The household
+   evidence contradicts it.
+   - Across seven government cash-transfer trials, Banerjee, Hanna,
+     Kreindler and Olken (NOTE-tmpy2r15) find a pooled change in work of
+     about five minutes a week. Cash transfers "do not induce the "bad"
+     behaviors that are often attributed to them".
+   - Baird, McKenzie and Özler (NOTE-tmpxsjeo) find little or no change in
+     prime-age adults' work. Work falls only for pensioners and where
+     transfers are large and prolonged. They expect impacts "are likely to
+     be different when transfers are dependable and permanent".
+   - Graduation packages raised work during and after support (NOTE-tmpl3nvb,
+     NOTE-tmpicnhp).
+   - None of 17 randomized estimates found more spending on alcohol or
+     tobacco (Evans and Popova, NOTE-tmp2u6b2).
+   - Haushofer and Fehr (NOTE-tmpv5r2w) offer a rival cause for
+     short-sighted choices: poverty itself, which transfers relieve.
+
+   Slack effort survives only where help is assured, permanent and
+   relieves no binding constraint. That is Ostrom et al.'s setting of
+   repeated donor rehabilitation of state assets, not the households'.
+2. **Size matters relative to a threshold.**
+   - In Bangladesh, Balboni et al. (NOTE-tmp6tzyt) estimate an asset
+     threshold of about 9,300 taka, near the value of one cow. Households
+     the transfer left just below it lost assets, while those lifted above
+     it kept accumulating for eleven years.
+   - Small unconditional grants faded within two years (Baird et al.).
+
+   Support too small to cross a threshold fails without creating any
+   dependence. That is a second hazard beside dependence, and it is why the
+   title adds a condition on size. It also qualifies CLAIM-tmpoh07b's "not
+   the amount of supply": under capacity-first support the amount does not
+   cause dependence, but it can decide whether the process starts.
+3. **The party must be able to do the work, and the support must come
+   before a competing configuration sets in.**
+   - In Tanzania (Michaels et al., NOTE-tmp4js2v), plots and infrastructure
+     laid out on empty land drew private building that kept the
+     infrastructure up, for 35–40 years.
+   - Upgrading existing slums at a similar cost left housing no better, and
+     the infrastructure decayed for "lack of maintenance".
+   - The authors' model needs enough owners able to invest, and they warn
+     that credit-constrained residents may not sustain it at scale.
+4. **Some inputs are a standing part of the arrangement.**
+   - In Brazil's condominial sewers, residents built and kept up the block
+     feeders while the agency kept the trunk system. Watson (NOTE-tmpckznv)
+     finds that handing feeder upkeep wholly to residents worked poorly even
+     in the best cities. Where the systems worked, more resident
+     responsibility went with more contact with the agencies, not less.
+   - Evans (NOTE-tmpgvd28): "Active citizens are
+     hamstrung unless their governments dependably supply them with inputs
+     that they cannot produce on their own".
+   - What could safely end was the founding team's organizing effort, not
+     the agency's part. This is CLAIM-tmpqa0qu's reciprocal form, and the
+     first condition does not ask that such inputs be withdrawn.
+5. **Persistence after withdrawal can be slow reversion.**
+   - The Tennessee Valley Authority's manufacturing gains were still
+     growing "forty years after TVA became financially self-sufficient",
+     well past a turnover. Yet Kline and Moretti's model (NOTE-tmp0lzl8)
+     finds a constant agglomeration elasticity, no threshold and no second
+     equilibrium, and expects the effects "will eventually die out".
+   - Persistence through a turnover is therefore necessary evidence, not
+     sufficient evidence. Telling a self-sustaining process from slow
+     reversion needs the shape of the feedback, as in CLAIM-tmpw4ai2's
+     threshold.
+   - Neumark and Simpson (NOTE-tmp9y93b) conclude that even the best
+     evidence on place-based policy "does not establish that they create
+     self-sustaining economic gains".
+6. **Whose persistence counts.**
+   - US urban renewal raised cities' incomes and property values for
+     decades after funding ended (Collins and Shester, NOTE-tmpvwtsg).
+     It also cleared over 300,000 families, mostly nonwhite. LaVoice
+     (NOTE-tmpuu40d) finds rents rising across low-income neighbourhoods.
+   - The TVA's local gains net to about zero nationally.
+   - A place can become independent of the support while the community it
+     was meant to serve is dispersed. The conditions apply to a stated
+     unit, and the unit must be the one the support was for.
+
 ## How to tell which kind it was
 
 Support that fails a condition can look like success while it lasts.
@@ -143,11 +245,12 @@ Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)) gi
 ## What the readings do not support
 
 - **That thresholds and hysteresis are common.**
+  - Since revised: the clearest empirical threshold on the record is now a household one, Balboni et al.'s asset threshold (NOTE-tmp6tzyt). Regional evidence finds none: Kline and Moretti find a constant agglomeration elasticity, and Neumark and Simpson report EU Structural Funds needing no minimum transfer.
   - [CLAIM-tmpw4ai2](CLAIM-tmpw4ai2.md)'s ignition, collapse and unrecoverable outage are demonstrated in a model. In the field they are rarer. Schröder et al. find alternative stable states in most conclusive laboratory experiments and few field ones, and few cases where removing a pressure failed to restore.
   - Cutting the Kirtland's Warbler's supplied habitat gives lower plateaus, not collapse.
   - Hawaiian waterbirds returned to a marsh once it was managed again (Underwood et al., [NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md)).
   - Thresholds are real in founder numbers and nucleus size: success plateaus above about 20–50 animals, and about 64 m² is cited as the minimum for a tree nucleus. They are not the rule for withdrawal.
-- **That longer support is always worse.** Morris et al. find longer release programmes with fewer failures. That is continued supply, not substitution, and it does not test the third condition. The claim's "deepens with its length" is shown for substitution in [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)'s model and for generations in captivity. It is not shown for support in general.
+- **That longer support is always worse.** Morris et al. find longer release programmes with fewer failures. That is continued supply, not substitution, and it does not test the third condition. The first version's "deepens with its length", dropped in the revision, is shown for substitution in [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)'s model and for generations in captivity. It is not shown for support in general.
 - **That the evidence is strong.**
   - The aid evidence is review essays and short case studies.
   - Of the ecology, the captive-rearing result rests on one pedigree. The nucleation result rests on one experiment, and the conservation-reliance cases are three species.
@@ -155,7 +258,7 @@ Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)) gi
 
 ## What it adds
 
-- **To [QUESTION-398](../questions.d/QUESTION-398.md).** An answer in three conditions and a test, with the
+- **To [QUESTION-398](../questions.d/QUESTION-398.md).** An answer in conditions and a test, with the
   domains in which each condition is seen.
 - **To [QUESTION-399](../questions.d/QUESTION-399.md).** A nucleus can become independent of its founder
   and stay dependent on an ambient flux, as tree islands do. Whether it
