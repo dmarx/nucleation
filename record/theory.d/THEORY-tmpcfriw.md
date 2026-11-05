@@ -17,7 +17,7 @@ source:
 - LIT-tmpbkl3k
 summary: >-
   Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle (2026),
-  LIT-tmpbkl3k, read in NOTE-tmppwpd0. Defectivity is a class-weighted AFM
+  [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), read in [NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md). Defectivity is a class-weighted AFM
   proxy for missing or blocked staples, useful for comparison only; the
   combination is fitted on 28 designs of one shape, with linear models,
   and a LASSO over more metrics swaps the blocking term for positive
@@ -32,7 +32,7 @@ summary: >-
 ## Source
 
 Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle (2026),
-LIT-tmpbkl3k; read in NOTE-tmppwpd0.
+[LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md); read in [NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md).
 
 ## What was actually shown
 

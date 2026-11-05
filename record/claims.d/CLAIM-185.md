@@ -295,6 +295,6 @@ Two readings from the pasted synthesis on constraint architectures qualify the a
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, qualify the claim. More short, stable early folds, more anchors, made outcomes worse: the design rotated to maximize short folds "performs objectively worse". What predicted quality was the distribution of loop-entropy penalties from short through medium to long folds, not the number of persistent anchors. Whether persistence is the threshold in other systems is left open.
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), qualify the claim. More short, stable early folds, more anchors, made outcomes worse: the design rotated to maximize short folds "performs objectively worse". What predicted quality was the distribution of loop-entropy penalties from short through medium to long folds, not the number of persistent anchors. Whether persistence is the threshold in other systems is left open.
 
 No status changes.

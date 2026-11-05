@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpaxtww
 summary: >-
-  Aksel, Navarro, Fong and Douglas (2024), LIT-tmpaxtww, read in
-  NOTE-tmptbrlo. The yields are integrated gel intensity in a
+  Aksel, Navarro, Fong and Douglas (2024), [LIT-tmpaxtww](../literature.d/LIT-tmpaxtww.md), read in
+  [NOTE-tmptbrlo](../notes.d/NOTE-tmptbrlo.md). The yields are integrated gel intensity in a
   hand-bounded window after one 21 h anneal, with no stated replicates and
   TEM only of the redesigns; the correlation is R² = 0.86 over 8 designs
   from the same four structures. The largest gain (10×10, 2 to 61%) also
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Aksel, Navarro, Fong and Douglas (2024), LIT-tmpaxtww; read in
-NOTE-tmptbrlo.
+Aksel, Navarro, Fong and Douglas (2024), [LIT-tmpaxtww](../literature.d/LIT-tmpaxtww.md); read in
+[NOTE-tmptbrlo](../notes.d/NOTE-tmptbrlo.md).
 
 ## What was actually shown
 

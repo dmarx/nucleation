@@ -129,15 +129,15 @@ maintain anything.
 ## Connections
 
 The tiles are scaffolded origami made as in Rothemund (2006),
-LIT-tmp5gf89. Majikes et al. (2020), LIT-tmp0hqya, Dannenberg et al.
-(2015), LIT-tmpdyrnb, and Dunn et al. (2015), LIT-tmpqku12, invoke
+[LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md). Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), Dannenberg et al.
+(2015), [LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), and Dunn et al. (2015), [LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), invoke
 cooperativity within one origami through loop entropy or effective
 concentration; this paper carries the same reasoning one level up,
 between origami, and quantifies it. As in Wagenbauer et al. (2014),
-LIT-tmpduceb, yield is read from gel quantification. It is the only work
+[LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), yield is read from gel quantification. It is the only work
 of this branch with a cycle that multiplies structure and with a
 deliberately irreversible step. The held simulation of DeLuca et al.
-(LIT-2081, NOTE-1561, THEORY-1398) is about folding one origami; the two
+([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)) is about folding one origami; the two
 meet only where tiles unravel near the separation temperature. The
 methods follow H. Ni's NYU thesis (2024). Earlier DNA origami
 self-replication work it cites (He et al. 2017, on exponential growth
@@ -158,65 +158,65 @@ and selection; Zhou et al. 2021, on mutations) is not held.
   monomers and the splitting of samples. A's further proposals, a reaction
   network for endogenous regeneration and a staged programme of damage
   and replacement, are A's own.
-- **CLAIM-566 (assemble, persist, regenerate).** Supports, and refines:
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Supports, and refines:
   assembly is measured (per-cycle yield, v and h); persistence is
   engineered by the covalent crosslink and not measured over a horizon;
   regeneration after turnover is absent. What is shown is a fourth thing,
   multiplication: more copies of a pattern from fresh parts, restoring no
   one of them.
-- **TERM-070 (closure of constraints).** An instance of non-closure: the
+- **[TERM-070](../terms.d/TERM-070.md) (closure of constraints).** An instance of non-closure: the
   template constrains the assembly of its daughters and survives the
   cycle, but dependence runs one way, from parent to daughter, and every
   enabling condition is set by the experimenter (the reader's reading, not
   the paper's words).
-- **CLAIM-569 (construct, maintain, transition).** Supports: making a copy
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Supports: making a copy
   (cooling, UV) and keeping it (covalent, nearly free) cost differently,
   and moving out of the template complex (about 50 °C) is bounded above by
   the tile's own destruction.
-- **CLAIM-571 (threshold against holding requirement).** Supports:
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (threshold against holding requirement).** Supports:
   separation needs a peak of about 50 °C, unlike the 18 °C hold at which
   the complex forms, and there is a window only while that peak stays
   below unravelling.
-- **CLAIM-591 (directed costs).** An instance: the crosslink makes a bond
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs).** An instance: the crosslink makes a bond
   reversible at 18 °C one-way, which is what lets heating separate
   daughters without undoing them.
-- **CLAIM-581 (peak-cost ultrametric).** Qualifies: temperature acts as a
+- **[CLAIM-581](../claims.d/CLAIM-581.md) (peak-cost ultrametric).** Qualifies: temperature acts as a
   peak cost, but each cycle also spends about 21 h of cooling, an additive
   cost the paper does not compare.
-- **CLAIM-567 (feasible, reachable, reliable).** Supports: large N is
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliable).** Supports: large N is
   feasible in the model; separation is reached only to tetramers, and
   per-cycle reliability falls from 1.9 to 1.6.
-- **CLAIM-583**: leaves open; 7, 8 or 9 bp ends change costs, not
+- **[CLAIM-583](../claims.d/CLAIM-583.md)**: leaves open; 7, 8 or 9 bp ends change costs, not
   compatibility.
-- **CLAIM-557, CLAIM-574 (observing budgets).** An instance: parent and
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md) (observing budgets).** An instance: parent and
   daughter are indistinguishable in AFM until gold labels are added, and
-  FRET at 4 bp cannot tell hybridized from confined. **CLAIM-570,
-  CLAIM-592, CLAIM-572, QUESTION-374**: none directly.
-- **CLAIM-480 (eliminated degrees of freedom leave constraints).**
+  FRET at 4 bp cannot tell hybridized from confined. **[CLAIM-570](../claims.d/CLAIM-570.md),
+  [CLAIM-592](../claims.d/CLAIM-592.md), [CLAIM-572](../claims.d/CLAIM-572.md), [QUESTION-374](../questions.d/QUESTION-374.md)**: none directly.
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (eliminated degrees of freedom leave constraints).**
   Supports by analogy: tethering removes translational freedom and leaves
   a new effective coupling, raising the horizontal ends' Tm from −5 to
   18 °C.
-- **CLAIM-478 (scale separation makes constraints).** An analogue in
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** An analogue in
   temperature, not time: separated melting windows are the design
   condition.
-- **CLAIM-185 and CLAIM-184.** A physical instance of persistence as
+- **[CLAIM-185](../claims.d/CLAIM-185.md) and [CLAIM-184](../claims.d/CLAIM-184.md).** A physical instance of persistence as
   anchor: the fixed seed persists across cycles and further structure
   grows on it; entrenchment appears only as template-product inhibition.
-- **QUESTION-380**: bears; the template is a small compatible structure
+- **[QUESTION-380](../questions.d/QUESTION-380.md)**: bears; the template is a small compatible structure
   that makes the next assembly likely, though the paper does not speak of
-  nucleation. **QUESTION-388**: programmable, not self-governing; the cycle
-  and the sticky ends are set from outside. **CLAIM-025, QUESTION-090,
-  QUESTION-tmpg0j9y**: none.
-- **CASE-tmpu0s44**: partial; binding strength and size vary at fixed tile
+  nucleation. **[QUESTION-388](../questions.d/QUESTION-388.md)**: programmable, not self-governing; the cycle
+  and the sticky ends are set from outside. **[CLAIM-025](../claims.d/CLAIM-025.md), [QUESTION-090](../questions.d/QUESTION-090.md),
+  [QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md)**: none.
+- **[CASE-tmpu0s44](../cases.d/CASE-tmpu0s44.md)**: partial; binding strength and size vary at fixed tile
   geometry, with yield and melting measured, but not allocation at fixed
   total, and no kinetic traps; like the case, it leaves regeneration out.
-- **LIT-515 and NOTE-419 (England, the statistical physics of
+- **[LIT-515](../literature.d/LIT-515.md) and [NOTE-419](NOTE-419.md) (England, the statistical physics of
   self-replication).** A direct referent for England's bound relating a
   replicator's heat release to how fast it copies and how durable the copy
   is: copies made durable by crosslinking under an imposed thermal cycle,
-  the non-living, externally driven case. THEORY-412 and THEORY-679 are
+  the non-living, externally driven case. [THEORY-412](../theory.d/THEORY-412.md) and [THEORY-679](../theory.d/THEORY-679.md) are
   adjacent.
-- Filed: THEORY-tmpnu25d. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpnu25d](../theory.d/THEORY-tmpnu25d.md). No instruction for machine-learning practice.
 
 ## Limitations
 

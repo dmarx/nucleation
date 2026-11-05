@@ -168,6 +168,6 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), LIT-tmpairr7, qualify the claim. In their replication cycle, temperature acts as a peak cost: the separation step needs about 50 °C. Each cycle also spends about 21 h of cooling, an additive cost. Which cost governs whether a cycle succeeds is not compared, so the paper does not show reachability set by the peak alone.
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), qualify the claim. In their replication cycle, temperature acts as a peak cost: the separation step needs about 50 °C. Each cycle also spends about 21 h of cooling, an additive cost. Which cost governs whether a cycle succeeds is not compared, so the paper does not show reachability set by the peak alone.
 
 No status changes.

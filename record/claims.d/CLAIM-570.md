@@ -145,11 +145,11 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
 - The gel merges a damaged design with well-folded ones.
 - It also splits well-folded designs by mobility.
 
-This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
+This bears on [CLAIM-574](CLAIM-574.md)'s nesting of probe families. No probe costs are quantified.
 
 No status changes.
 

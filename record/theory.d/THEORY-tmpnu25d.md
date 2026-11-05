@@ -17,7 +17,7 @@ source:
 - LIT-tmpairr7
 summary: >-
   Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin (2026),
-  LIT-tmpairr7, read in NOTE-tmp79i4g. The effective-concentration figure
+  [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), read in [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md). The effective-concentration figure
   is the model's estimate, with a FRET fit of about 0.2 mM; the 2 °C
   agreement is over assemblies up to tetramers; the replication rates are
   one figure whose definition is in a supplementary figure not read. The
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin (2026),
-LIT-tmpairr7; read in NOTE-tmp79i4g.
+[LIT-tmpairr7](../literature.d/LIT-tmpairr7.md); read in [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md).
 
 ## What was actually shown
 

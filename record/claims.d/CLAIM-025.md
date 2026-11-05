@@ -169,7 +169,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot for Targeted Transport of Molecular Payloads".** Douglas, Bachelet and Church (2012), LIT-tmpqorwy, read in NOTE-tmpgw5ab,
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot for Targeted Transport of Molecular Payloads".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), read in [NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md),
 support the claim's three-way separation and make it physical. The device
 has an operative regime (closed or open) and a governing organization
 (which aptamer pair encodes the AND gate), both realized; the capacity to

@@ -112,15 +112,15 @@ at what cost, depends on what has already bound and in what order.
 ## Connections
 
 It is the mechanism behind the first-fold loop-entropy skew that Majikes
-et al. (2026), LIT-tmpbkl3k, aggregate into a design metric, and it
+et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), aggregate into a design metric, and it
 disagrees with that paper on blocking: rare at typical concentrations
 here, a design metric there under deliberately low ones. Its loop
 free energy is of the kind used by Dannenberg et al. (2015),
-LIT-tmpdyrnb, and Dunn et al. (2015), LIT-tmpqku12, and its hysteresis
+[LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), and Dunn et al. (2015), [LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), and its hysteresis
 discussion meets Dannenberg's. Cumberworth's earlier simulation of
 design-dependent nucleation barriers (Nano Letters 2022), not held, is
 the likely source of A's misattribution of Aksel et al. (2024),
-LIT-tmpaxtww. The held simulation of DeLuca et al. (LIT-2081, NOTE-1561)
+[LIT-tmpaxtww](../literature.d/LIT-tmpaxtww.md). The held simulation of DeLuca et al. ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md))
 is a different, mesoscopic model of origami folding.
 
 ## Bearing on the record
@@ -132,25 +132,25 @@ is a different, mesoscopic model of origami folding.
   binding on existing loops" is close to the text but broadens it: the
   review speaks of later domains of the same staple, with loop cost
   depending on the order of binding.
-- **CLAIM-571 and CLAIM-569 (reaching threshold against holding
+- **[CLAIM-571](../claims.d/CLAIM-571.md) and [CLAIM-569](../claims.d/CLAIM-569.md) (reaching threshold against holding
   requirement).** The barrier account of hysteresis is a textbook case of
   a threshold to reach exceeding what holding needs; the review reports
   that the experimental evidence for it in origami is contested.
-- **CLAIM-591 (directed costs)**: hysteresis is direction dependence;
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs)**: hysteresis is direction dependence;
   consistent, not new.
-- **CLAIM-478 and CLAIM-480**: loop closure constrains the scaffold for
+- **[CLAIM-478](../claims.d/CLAIM-478.md) and [CLAIM-480](../claims.d/CLAIM-480.md)**: loop closure constrains the scaffold for
   later domains, the same mechanism as Majikes's inter-fold cooperativity.
-- **QUESTION-380 (when a small compatible nucleus helps).** Directly
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (when a small compatible nucleus helps).** Directly
   relevant: for bricks a nucleus must be rare and seeded to beat many
   competing clusters; for origami none is needed, though one can be
   designed.
-- **QUESTION-tmpg0j9y**: the toehold-exchange route changes which seed
+- **[QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md)**: the toehold-exchange route changes which seed
   starts assembly; a simulation result, not a reallocation of a fixed
   stock.
-- **CLAIM-184 and CLAIM-185**: the bricks' many-nuclei failure, monomer
+- **[CLAIM-184](../claims.d/CLAIM-184.md) and [CLAIM-185](../claims.d/CLAIM-185.md)**: the bricks' many-nuclei failure, monomer
   depletion then arrest, is entrenchment of early partial structures.
-- **CLAIM-557 family, CLAIM-025, TERM-070, QUESTION-388**: none.
-- Filed: THEORY-tmp07nzo. No instruction for machine-learning practice.
+- **[CLAIM-557](../claims.d/CLAIM-557.md) family, [CLAIM-025](../claims.d/CLAIM-025.md), [TERM-070](../terms.d/TERM-070.md), [QUESTION-388](../questions.d/QUESTION-388.md)**: none.
+- Filed: [THEORY-tmp07nzo](../theory.d/THEORY-tmp07nzo.md). No instruction for machine-learning practice.
 
 ## Limitations
 

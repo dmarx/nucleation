@@ -125,7 +125,7 @@ claim report each of the three points in origami:
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Douglas et al., "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), LIT-tmpepjt3, roughly support the time-widens part
+**Douglas et al., "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), [LIT-tmpepjt3](../literature.d/LIT-tmpepjt3.md), roughly support the time-widens part
 (longer ramps raise yield at fixed Mg2+) and add a second, non-thermal
 non-monotone resource: Mg2+ at 4 mM gives gross defects, and more Mg2+
 raises proper folding and aggregation together, implying a usable Mg2+
@@ -133,7 +133,7 @@ window (the reader's inference; the text names no upper failure point
 within 0–30 mM). Whether more time widens the Mg2+ window is not shown. No
 status changes.
 
-**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, are a parallel case on another
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), are a parallel case on another
 resource: staple excess has a window (peak near 1–5×, falling below 50% at
 high excess), but at the single fold this is an equilibrium effect, not a
 time-budget one (a twofold slower anneal gives the same trend), so the

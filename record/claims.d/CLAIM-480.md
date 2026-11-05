@@ -261,7 +261,7 @@ The conditions under which composition creates freedom at an interface, from Kan
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), LIT-tmpairr7, support the claim by analogy. Tethering a tile to a template eliminates its translational freedom, and what remains at the boundary is a new effective coupling. The tethered horizontal sticky ends sit at about 0.8 mM instead of about 1 nM, which raises their melting from about −5 °C to about 18 °C. The paper does not frame it as elimination of an interior, and nothing here is a constraint of a new kind.
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), support the claim by analogy. Tethering a tile to a template eliminates its translational freedom, and what remains at the boundary is a new effective coupling. The tethered horizontal sticky ends sit at about 0.8 mM instead of about 1 nM, which raises their melting from about −5 °C to about 18 °C. The paper does not frame it as elimination of an interior, and nothing here is a constraint of a new kind.
 
 No status changes.
 

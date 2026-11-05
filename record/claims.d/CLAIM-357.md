@@ -276,7 +276,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes, Patrone, Kearsley, Zwolak and Liddle, "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, fit the claim's separation of
+**Majikes, Patrone, Kearsley, Zwolak and Liddle, "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), fit the claim's separation of
 structural infeasibility from a realized shortfall. At a single fold the
 target is feasible and the shortfall is realized and equilibrium: yield
 falls at high staple excess through the blocked state, not through any
