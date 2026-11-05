@@ -216,7 +216,7 @@ No status changes.
 
 Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
 
-**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, give weak, interpretive support:
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-tmp91912](../literature.d/LIT-tmp91912.md), read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md), give weak, interpretive support:
 sequences offering many off-target bindings fold badly and aggregate, and the authors read this as kinetic
 trapping by early mis-binding. The timing account, that on-target sites bind at high temperature before
 off-target ones can, is cited from the literature, not tested, and no trap is located, so whether early

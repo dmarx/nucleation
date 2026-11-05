@@ -175,25 +175,25 @@ compatibilities while keeping every intended one improves yield.
 
 ## Connections
 
-It cites Rothemund (2006), LIT-tmp5gf89 (NOTE-tmp8kyp2), for avoiding M13
+It cites Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md) ([NOTE-tmp8kyp2](NOTE-tmp8kyp2.md)), for avoiding M13
 bases 5515–5587, which contain a strong hairpin. It sets itself against
 models that admit only on-target binding: the domain-level model of
-Dannenberg et al. (2015), LIT-tmpdyrnb (NOTE-tmpyo994), which omits
+Dannenberg et al. (2015), [LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md) ([NOTE-tmpyo994](NOTE-tmpyo994.md)), which omits
 misbinding on the argument that off-target interactions would have to be
 very strong to matter, a view this paper contradicts with ordinary Lambda
-DNA; and the mesoscopic simulations of DeLuca et al. (LIT-2081, NOTE-1561,
-THEORY-1398), whose 8-nt beads "cannot incorporate strand-displacement
+DNA; and the mesoscopic simulations of DeLuca et al. ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md),
+[THEORY-1398](../theory.d/THEORY-1398.md)), whose 8-nt beads "cannot incorporate strand-displacement
 reactions" and whose "kinetic traps are limited to situations where
 on-target binding sites become sterically inaccessible". The two kinds of
 trap are complementary, geometric there and sequence-level here. Sobczak's
-dissertation, LIT-tmpwddcn (NOTE-tmpwxm2p), agrees in direction (spurious
+dissertation, [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md) ([NOTE-tmpwxm2p](NOTE-tmpwxm2p.md)), agrees in direction (spurious
 short binding inhibits folding at low temperature) and in finding that
 permuting the sequence along a fixed routing changes little, as rotation
-does here. Wagenbauer et al. (2014), LIT-tmpduceb, use de Bruijn
+does here. Wagenbauer et al. (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), use de Bruijn
 sequences as a probe; here they are scaffolds. Majikes et al. (2026),
-LIT-tmpbkl3k (NOTE-tmppwpd0), vary design at a fixed shape; together the
+[LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md) ([NOTE-tmppwpd0](NOTE-tmppwpd0.md)), vary design at a fixed shape; together the
 two show design and sequence each moving yield. Dunn et al. (2015),
-LIT-tmpqku12, cited beside it in A's paste, steer folding by stability;
+[LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), cited beside it in A's paste, steer folding by stability;
 this paper does not vary reversibility.
 
 ## Bearing on the record
@@ -219,52 +219,52 @@ this paper does not vary reversibility.
   heading for §6, removing constraints as well as adding them, better than
   A uses it: its intervention is purely removing unintended
   compatibilities while keeping every intended one.
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports, and
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Supports, and
   is the cleanest instance on the branch: every variant is feasible by
   construction, and reliable reach under one protocol ranges from about
   65–75% to 0–20%. It does not separate reachable from reliably
   reachable, since some off-target-prone objects are well folded.
-- **CLAIM-583 (same complex, moves and costs, different reachability).**
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, moves and costs, different reachability).**
   Supports at the domain level, qualifies at the base level. Design,
   routing and intended pairing are identical, nearer to one compatibility
   complex than Majikes et al.'s designs. But the difference is attributed
   to extra off-target compatibilities, so the full base-level complex
   differs: domain-level equivalence does not fix reachability, which is not
   a counterexample within one fully specified complex.
-- **CLAIM-571 (reaching threshold against holding requirement).** Leaves
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (reaching threshold against holding requirement).** Leaves
   open: no melt, barrier or threshold is measured. A weak hint: the
   unfolding force, a proxy for holding, is highest for T3, the worst
   folder, but it tracks GC content.
-- **CLAIM-569 (construct, maintain, transition).** Weak support:
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Weak support:
   construction yield and persistence at 4 °C both rank the variants 1 and
   2 above 3, so here they agree rather than come apart. The vanishing R3
   band is a failure of maintenance, of misfolded product or of the
-  structure, unresolved. **CLAIM-566**: consistent; assembly and multi-day
+  structure, unresolved. **[CLAIM-566](../claims.d/CLAIM-566.md)**: consistent; assembly and multi-day
   persistence are reported separately, and there is no regeneration.
-- **CLAIM-557, CLAIM-574, CLAIM-570, CLAIM-592 (observing budgets).** A
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing budgets).** A
   modest instance of probe-relative distinctions: isothermal gels without
   denaturation did not separate T1–T3; denatured or fast-ramp gels
   separated T3 by its aggregates; AFM separated all three but could not
   classify TH3; tweezer force ranked by GC content and tweezer uniformity
   by off-target score. Different probes give different partitions and
   orders; no costs are given, and nothing bears on refinement.
-- **CLAIM-184 (early anchors entrench).** Weak, interpretive: trapping by
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (early anchors entrench).** Weak, interpretive: trapping by
   early mis-binding is the authors' hypothesis, and the timing account
   (on-target sites bind at high temperature "before weaker off-target
   bindings have any opportunity") is cited from the literature, not tested.
-- **QUESTION-380 (when a small compatible nucleus helps).** Leaves open:
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (when a small compatible nucleus helps).** Leaves open:
   nucleation is invoked only as background. The result bears on the
   environment a nucleus grows in, competing partial compatibilities, not
   on the nucleus.
-- **CASE-tmpu0s44 (a fixed target, varying component arrangement).**
+- **[CASE-tmpu0s44](../cases.d/CASE-tmpu0s44.md) (a fixed target, varying component arrangement).**
   Partly realised for sequence, with yield and persistence; time of
   assembly and early intermediates are not measured.
-- **THEORY-1398 / NOTE-1561 (DeLuca).** Complementary, as above.
-- **CLAIM-581, CLAIM-591, CLAIM-572 / QUESTION-374, CLAIM-478, CLAIM-025,
-  QUESTION-388, TERM-070**: none. The work is externally programmed
+- **[THEORY-1398](../theory.d/THEORY-1398.md) / [NOTE-1561](NOTE-1561.md) (DeLuca).** Complementary, as above.
+- **[CLAIM-581](../claims.d/CLAIM-581.md), [CLAIM-591](../claims.d/CLAIM-591.md), [CLAIM-572](../claims.d/CLAIM-572.md) / [QUESTION-374](../questions.d/QUESTION-374.md), [CLAIM-478](../claims.d/CLAIM-478.md), [CLAIM-025](../claims.d/CLAIM-025.md),
+  [QUESTION-388](../questions.d/QUESTION-388.md), [TERM-070](../terms.d/TERM-070.md)**: none. The work is externally programmed
   sequence selection, with no self-governed reconfiguration or closure; it
-  sits at QUESTION-388's programmable pole.
-- Filed: THEORY-tmpz96qc. No instruction for machine-learning practice;
+  sits at [QUESTION-388](../questions.d/QUESTION-388.md)'s programmable pole.
+- Filed: [THEORY-tmpz96qc](../theory.d/THEORY-tmpz96qc.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

@@ -255,7 +255,7 @@ No status changes.
 
 Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
 
-**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, support the claim and give the
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-tmp91912](../literature.d/LIT-tmp91912.md), read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md), support the claim and give the
 cleanest instance on the record: for four DNA origami shapes, three scaffold sequences each with fully
 complementary staples realise one design, so every variant is feasible by construction, yet under one
 protocol the share of well-folded objects ranges from about 65–75% to 0–20% according to the off-target

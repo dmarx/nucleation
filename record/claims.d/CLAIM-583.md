@@ -168,7 +168,7 @@ No status changes.
 
 Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
 
-**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, support the claim at the domain
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-tmp91912](../literature.d/LIT-tmp91912.md), read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md), support the claim at the domain
 level and qualify it at the base level. The variants share design, routing and intended pairing, nearer to
 one compatibility complex than the designs of Majikes et al. (2026), yet differ sharply in yield; but the
 authors attribute the difference to extra off-target compatibilities, so the full base-level complex

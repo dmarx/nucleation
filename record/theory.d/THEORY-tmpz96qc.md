@@ -18,7 +18,7 @@ source:
 summary: >-
   Shirt-Ediss, Torelli, Navarro, Khamis, Kaplan, Trewby, Elezgaray,
   Moradzadeh, Haydell, Keppner, Famulok, Armstrong and Krasnogor (2026),
-  LIT-tmp91912, read in NOTE-tmp6ediz. The ordering of best against worst
+  [LIT-tmp91912](../literature.d/LIT-tmp91912.md), read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md). The ordering of best against worst
   is shown for four shapes with one off-target-prone exemplar each,
   replicated in a second lab for two; the de Bruijn control did not always
   win. Trapping is the authors' hypothesis: aggregation is seen, no trap is
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912; read in NOTE-tmp6ediz.
+Shirt-Ediss, Torelli et al. (2026), [LIT-tmp91912](../literature.d/LIT-tmp91912.md); read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md).
 
 ## What was actually shown
 

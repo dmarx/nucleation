@@ -198,7 +198,7 @@ No status changes.
 
 Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
 
-**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), LIT-tmp91912, read in NOTE-tmp6ediz, give weak support: construction
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-tmp91912](../literature.d/LIT-tmp91912.md), read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md), give weak support: construction
 yield and persistence over 4 to 5 days at 4 °C are reported separately, and the band of the off-target-prone
 rectangle disappeared on storage, a failure of maintenance. Here construction and maintenance rank the
 variants the same way, so the reading does not dissociate them, and whether the lost band was misfolded

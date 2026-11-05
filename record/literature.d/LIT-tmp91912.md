@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp6ediz) from the Nature Communications version of
+  read 2026-11-05 ([NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md)) from the Nature Communications version of
   record, the publisher's open-access HTML (CC BY 4.0): main text, figure
   captions and Methods in full, the Supplementary Information not read;
   worth reading as the cleanest test on the record of sequence alone at a
@@ -84,7 +84,7 @@ Shirt-Ediss, B., Torelli, E., Navarro, S. A., Khamis, H., Kaplan, A., Trewby, W.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp6ediz.*
+*From the reading, [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md).*
 
 - **Only the sequence differs.** All variants of a shape "had a fully
   complementary staple set to the scaffold sequence, and all made the
@@ -114,12 +114,12 @@ how unintended binding interferes with target assembly. The reading
 supports that off-target-prone sequences fold worse; it does not show how,
 since no trap or pathway is observed. It is the record's cleanest instance
 of one feasible target reached reliably or not according to something
-other than the target: it supports CLAIM-567, and it qualifies CLAIM-583,
+other than the target: it supports [CLAIM-567](../claims.d/CLAIM-567.md), and it qualifies [CLAIM-583](../claims.d/CLAIM-583.md),
 since the variants share the domain-level design but not the full
 base-level set of compatibilities. It complements DeLuca et al.
-(LIT-2081, THEORY-1398), whose traps are geometric with on-target binding
-only, is in tension with Dannenberg et al. (2015), LIT-tmpdyrnb, which
-omits misbinding, and pairs with Majikes et al. (2026), LIT-tmpbkl3k,
+([LIT-2081](LIT-2081.md), [THEORY-1398](../theory.d/THEORY-1398.md)), whose traps are geometric with on-target binding
+only, is in tension with Dannenberg et al. (2015), [LIT-tmpdyrnb](LIT-tmpdyrnb.md), which
+omits misbinding, and pairs with Majikes et al. (2026), [LIT-tmpbkl3k](LIT-tmpbkl3k.md),
 where design rather than sequence moves yield at a fixed shape. Filed from
-it: THEORY-tmpz96qc. No instruction for machine-learning practice; nothing
+it: [THEORY-tmpz96qc](../theory.d/THEORY-tmpz96qc.md). No instruction for machine-learning practice; nothing
 for the anthology.
