@@ -35,10 +35,10 @@ bears_on:
 - QUESTION-398
 summary: >-
   The assistant's, at the owner's request of 2026-11-05 to connect
-  CLAIM-597's supplied maintenance to the record's dissipative structures.
+  [CLAIM-597](CLAIM-597.md)'s supplied maintenance to the record's dissipative structures.
   The record separates order held by an outside flow, the Bénard cell, from
   order that keeps up the conditions of its own maintenance, the candle
-  flame (THEORY-072, TERM-070, QUESTION-085). CLAIM-597 modelled only the
+  flame ([THEORY-072](../theory.d/THEORY-072.md), [TERM-070](../terms.d/TERM-070.md), [QUESTION-085](../questions.d/QUESTION-085.md)). [CLAIM-597](CLAIM-597.md) modelled only the
   first. The second is modelled by letting uptake from the flux scale with
   the intact share: dI/dt = −dI + κsI²(1 − I). With d = 0.2 and κs = 2 the
   structure holds 0.887, as supplied repair at ρs = 1.575 does, but it goes
@@ -48,7 +48,7 @@ summary: >-
   any start and declines smoothly. Both decay as e^(−dt) once the supply
   stops, so the self-maintaining structure is no less dependent on the
   flux. What it gains is independence from a provider who delivers repair,
-  at the price of thresholds. That gives QUESTION-085 three observable
+  at the price of thresholds. That gives [QUESTION-085](../questions.d/QUESTION-085.md) three observable
   signatures. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -61,14 +61,14 @@ summary: >-
 Let I be the intact share of a structure, damaged at rate d, and let s be
 a flux that comes from outside.
 
-- **Supplied repair** (CLAIM-597): dI/dt = −dI + ρs(1 − I). Repair arrives at
+- **Supplied repair** ([CLAIM-597](CLAIM-597.md)): dI/dt = −dI + ρs(1 − I). Repair arrives at
   a rate set by the supply, whatever the structure does. This is the heat
   under a Bénard cell, or a strand pool that refills DNA origami.
 - **Self-sustaining uptake**: dI/dt = −dI + κsI²(1 − I). Each damaged part is
   repaired at a rate proportional to how much of the structure is intact,
   κsI. The structure draws the flux in through its own working state. A
   flame vaporizes the wax and draws in the oxygen that keep it burning
-  (THEORY-072). An institution's revenue may be collected by the
+  ([THEORY-072](../theory.d/THEORY-072.md)). An institution's revenue may be collected by the
   institution being collected for.
 
 ## The claim
@@ -100,11 +100,11 @@ reproduces and asserts every number):
 - **Dependence on a flux against dependence on a provider.** A
   self-sustaining structure is no less dependent on its flux than a
   supplied one. Withdrawal brings back decay at the damage rate in both,
-  and CLAIM-597's point 2 holds for both. What it escapes is dependence on
+  and [CLAIM-597](CLAIM-597.md)'s point 2 holds for both. What it escapes is dependence on
   someone who delivers the repair. Its repair is its own work, so it needs
   only access to the flux. The cost of that independence is the three
   thresholds.
-- **To QUESTION-085.** The question asks whether a maintained r/place
+- **To [QUESTION-085](../questions.d/QUESTION-085.md).** The question asks whether a maintained r/place
   artwork is a flame or a convection cell. If its defence is recruited by
   the image itself, the image's repair rate should rise with its intact
   share, and three things should be visible in the placement records. A
@@ -113,17 +113,17 @@ reproduces and asserts every number):
   image should fall fast rather than erode. And an image that is wiped
   for long enough should not come back when its defenders return.
   Defenders arriving at a rate fixed by the subreddit's size predict none
-  of these. CLAIM-273's imported order is compatible with either answer.
-- **To QUESTION-399 and QUESTION-398.** Becoming self-maintaining, in this
-  sense, moves a structure from CLAIM-597's smooth dependence to a
+  of these. [CLAIM-273](CLAIM-273.md)'s imported order is compatible with either answer.
+- **To [QUESTION-399](../questions.d/QUESTION-399.md) and [QUESTION-398](../questions.d/QUESTION-398.md).** Becoming self-maintaining, in this
+  sense, moves a structure from [CLAIM-597](CLAIM-597.md)'s smooth dependence to a
   threshold one. A's withdrawal measure D(s) would then be near zero above
   I₋ for a short withdrawal and jump to one for a long one, since the
   measure depends on the withdrawal's length as well as the state.
-- **To CLAIM-516.** The uptake model's feedback runs from the structure to
-  its own repair, a one-member cycle. CLAIM-516 says such a cycle is not
+- **To [CLAIM-516](CLAIM-516.md).** The uptake model's feedback runs from the structure to
+  its own repair, a one-member cycle. [CLAIM-516](CLAIM-516.md) says such a cycle is not
   closure, and the model agrees. One constraint maintaining the
   conditions of its own production is a flame, not an organism
-  (TERM-070, THEORY-072).
+  ([TERM-070](../terms.d/TERM-070.md), [THEORY-072](../theory.d/THEORY-072.md)).
 
 ## What it does not say
 
@@ -134,8 +134,8 @@ reproduces and asserts every number):
   is an empirical matter.
 - **That the deterministic thresholds are sharp in a small system.** In a
   finite system each kept state is metastable and is left by fluctuation
-  after a time exponential in size (THEORY-1273). Entropy production does
-  not decide which kept state wins (THEORY-1270). The thresholds here are
+  after a time exponential in size ([THEORY-1273](../theory.d/THEORY-1273.md)). Entropy production does
+  not decide which kept state wins ([THEORY-1270](../theory.d/THEORY-1270.md)). The thresholds here are
   the deterministic ones.
 - **That a flame-like organization is better.** It is cheaper to keep
   once lit and harder to light and to restore. Which is preferable depends

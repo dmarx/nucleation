@@ -32,7 +32,7 @@ bears_on:
 summary: >-
   The assistant's, at the owner's request of 2026-11-05 to look to aid and
   development for theory on how aid-dependent organizations become
-  self-sufficient. CLAIM-597 holds an outside supply that repairs the
+  self-sufficient. [CLAIM-597](CLAIM-597.md) holds an outside supply that repairs the
   organization and leaves its own capacity alone. The readings say aid
   does not leave it alone: it does the work the capacity is learned from.
   Moss, Pettersson and van de Walle cite Kaldor, that a state leaves aid
@@ -42,7 +42,7 @@ summary: >-
   find recipients losing skill and rebuilding plants they did not
   maintain, and Andrews, Pritchett and Woolcock find capability stagnating
   under aid. In a model where capacity grows with the work done and decays
-  with disuse (CLAIM-558), aid that does a share A of the work first holds
+  with disuse ([CLAIM-558](CLAIM-558.md)), aid that does a share A of the work first holds
   capacity at λ(1 − A)/(λ(1 − A) + μ): with λ = 1, μ = 0.3, 0.769 without
   aid, 0.625 at A = 0.5, 0.25 at 0.9 and none at full substitution. After
   full substitution for 10, 20 and 40 time units, meeting demand takes
@@ -64,7 +64,7 @@ disuse:
 
   dC/dt = λP(1 − C) − μC.
 
-The disuse term is CLAIM-558's: a capability not exercised decays. Two
+The disuse term is [CLAIM-558](CLAIM-558.md)'s: a capability not exercised decays. Two
 rules for using the supply A are compared.
 
 - **Substitution: supply first.** The supply does min(A, 1) and the
@@ -119,16 +119,16 @@ C = 0.769, an output of 1.15, more than demand.
   The model has no overload failure, and gap-filling asks for the work up
   to capacity, not beyond it. A model in which overload damages capacity
   would make the order of use matter even more.
-- **To CLAIM-597.** There the supply repairs the structure and leaves its
+- **To [CLAIM-597](CLAIM-597.md).** There the supply repairs the structure and leaves its
   own capacity alone. Here the supply is not neutral: used first, it takes
-  the work the capacity is kept by. Under full substitution CLAIM-597's
+  the work the capacity is kept by. Under full substitution [CLAIM-597](CLAIM-597.md)'s
   dependence is the best case.
-- **To QUESTION-398.** The organization becomes independent of the
+- **To [QUESTION-398](../questions.d/QUESTION-398.md).** The organization becomes independent of the
   supply exactly when its output covers demand. Under gap-filling the
   supply withdraws itself as capacity grows, so A's withdrawal measure D
   falls to zero as the supply does. Under substitution D grows with the
   supply's duration.
-- **To QUESTION-386.** Funding that rewards disbursing, or that pays for
+- **To [QUESTION-386](../questions.d/QUESTION-386.md).** Funding that rewards disbursing, or that pays for
   the work rather than for the organization doing it, selects
   substitution. Ostrom et al. find both pressures inside the donor.
 
@@ -143,6 +143,6 @@ C = 0.769, an output of 1.15, more than demand.
   not write off what it has spent.
 - **That a threshold is absent.** Here capacity regrows from any non-zero
   seed. If capacity grows only once enough of it exists, as a flame's
-  upkeep does (CLAIM-tmpw4ai2), full substitution long enough leaves a
+  upkeep does ([CLAIM-tmpw4ai2](CLAIM-tmpw4ai2.md)), full substitution long enough leaves a
   capacity that does not regrow when the supply stops, the shape of a
   capability trap.
