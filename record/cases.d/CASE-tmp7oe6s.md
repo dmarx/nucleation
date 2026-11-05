@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'In A''s branching assembly model, one unit of supply placed on the nucleating step or on the completing step gives yields 71.1 and 62.7 %, and the same total supply delivered early, evenly or late gives 70.6, 58.8 and 24.8 % when nucleation uses it, but 45.4, 58.8 and 65.3 % when it traps the unnucleated scaffold and completes the nucleated one'
+title: 'In A''s branching assembly model, one unit of supply placed on the nucleating step or on the completing step gives yields 71.1 and 62.7 %, and the same integrated exposure delivered early, evenly or late gives 70.6, 58.8 and 24.8 % when nucleation uses it, but 45.4, 58.8 and 65.3 % when it traps the unnucleated scaffold and completes the nucleated one'
 version: 1
 standing: fictional
 kind: construction
@@ -20,7 +20,8 @@ summary: >-
   synthesis on DNA origami, pasted by the owner on 2026-11-05: "Two
   equal-cost nucleating interventions with identical target compatibility
   but different assembly yields", together with A's Prediction 5, on the
-  order of allocation at equal total expenditure. A's model is used (U →
+  order of allocation at equal total expenditure, here read as equal
+  integrated exposure. A's model is used (U →
   N at α, U → K at β, N → F at γ, N → K at δ; baseline 1, 0.5, 2, 0.25),
   with F and K absorbing. A unit of a component's supply doubles the rate
   of the step that component takes part in. The target and its
@@ -32,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpj3cmd CLAIM-562 CLAIM-tmpt0fnx — Proposed, Skimmed or new; entries cited as open -->
 
-# CASE-tmp7oe6s: In A's branching assembly model, one unit of supply placed on the nucleating step or on the completing step gives yields 71.1 and 62.7 %, and the same total supply delivered early, evenly or late gives 70.6, 58.8 and 24.8 % when nucleation uses it, but 45.4, 58.8 and 65.3 % when it traps the unnucleated scaffold and completes the nucleated one
+# CASE-tmp7oe6s: In A's branching assembly model, one unit of supply placed on the nucleating step or on the completing step gives yields 71.1 and 62.7 %, and the same integrated exposure delivered early, evenly or late gives 70.6, 58.8 and 24.8 % when nucleation uses it, but 45.4, 58.8 and 65.3 % when it traps the unnucleated scaffold and completes the nucleated one
 
 ## The case
 
@@ -47,8 +48,8 @@ the step its component takes part in:
 | nucleation, α × 2 | 71.1 % |
 | completion, γ × 2 | 62.7 % |
 
-**Timing at equal total supply.** A supply profile c(t) on [0, 4] with
-∫c dt = 4: front-loaded (2 then 0), even (1 throughout) or delayed (0 then
+**Timing at equal integrated exposure.** A concentration profile c(t) on
+[0, 4] with ∫c dt = 4: front-loaded (2 then 0), even (1 throughout) or delayed (0 then
 2). Yield at the horizon:
 
 | The supplied component enters | front-loaded | even | delayed |
@@ -72,6 +73,16 @@ the step its component takes part in:
   until the nucleus has formed. Which order helps depends on which steps
   the supply enters in the state the system is in when it arrives. That
   extends [CLAIM-tmpt0fnx](../claims.d/CLAIM-tmpt0fnx.md) from how much supply to when.
+
+**Exposure is not stock.** ∫c dt fixes integrated exposure, the
+time-integral of a concentration or intensity, not a quantity of material
+or money spent. The two coincide only when what is supplied is not used
+up, or is replenished to hold c(t). For a conserved resource the model
+needs a stock b(t), with ḃ(t) = s(t) − Σ_i ν_i k_i(x_t, b_t) and b ≥ 0,
+in which supply s(t) and consumption by the steps both count, and equal
+expenditure means equal ∫s dt. The order effect may differ there, and the
+link to use-it-or-lose-it budgets, which constrain expenditure flows,
+runs through that version. It is not computed here.
 
 Being fictional, with A's invented rates, it shows the logic, not its size
 in DNA origami. Wah et al. 2016 changed staple concentrations and so the

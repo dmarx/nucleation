@@ -38,10 +38,11 @@ summary: >-
   such a budget: it pays for crossing barriers and also sets the free
   energies, raising entropic barriers and melting the target. In a
   four-state annealing toy with free energies linear in temperature
-  ([CASE-tmpa6s9d](../cases.d/CASE-tmpa6s9d.md)), the target is reached within an hour only near
-  318.6 K, best 90.3 %, within sixteen hours from 313 to 323.5 K, and a
-  schedule of five minutes at 327 K then 318 K reaches 98.5 % within the
-  hour. The readings filed beside it report the same shape in DNA
+  ([CASE-tmpa6s9d](../cases.d/CASE-tmpa6s9d.md)), at most 90.4 % is folded at one hour, at
+  318.6 K, at least 90 % at sixteen hours from 313 to 323.5 K, and a
+  schedule of five minutes at 327 K then 318 K leaves 98.5 % folded at the
+  hour; the chance of having reached the folded state agrees to four
+  places. The readings filed beside it report the same shape in DNA
   origami: a narrow folding window and folding–melting hysteresis
   (Sobczak's dissertation), stepped schedules matching long ramps
   (Wagenbauer, Wachauf and Dietz), designs that fold better after rapid
@@ -65,7 +66,10 @@ tree. Three things change when θ also sets the costs.
    barriers and remove the target, so the levels at which the target is
    reached within t can form a window rather than everything above a
    threshold.
-2. **The window depends on t.** More time widens it, because barriers that
+2. **The window depends on t.** For the chance of having reached the
+   target by t, more time can only widen the window. For the fraction
+   folded at t it need not, since a target can melt again; in the toy it
+   widens because the folded state holds. More time widens it, because barriers that
    cannot be crossed in an hour can be crossed in sixteen. So θ and t do
    not combine into one scalar budget.
 3. **A schedule can beat every level.** A path through levels θ₁ then θ₂

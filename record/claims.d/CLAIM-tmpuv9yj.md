@@ -70,15 +70,17 @@ establishing nothing).
    closure is not determined by its minimal members, and finding the
    productive sets needs V on more than the minimal ones.
 
-## Why DNA origami makes it the general case
+## What is demonstrated and what is evidence
 
-Dunn et al. ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)): long-range seam staples that bind early
-"effectively, irreversibly" force particular folds. Two seam patterns that
-favour different folds are each productive for their own fold. Both are
-counterproductive for any one target when set early together, and the
-authors' remedy is to weaken seams. Majikes et al. 2026 ([NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md)) found that
-replacing medium folds with more short ones raised defects. Adding
-locally favourable relations made the outcome worse.
+The demonstration is the numerical example in point 2, which suffices to
+refute upward closure. The readings are evidence for the mechanism, not
+for that factorial proposition. Dunn et al. (NOTE-tmpvgzvb) show that
+long-range seam staples that bind early and "effectively, irreversibly"
+force particular folds and trap others, and that weakening the seams
+helps. That is competing early commitment. They do not test two
+separately productive nuclei established together. Majikes et al. 2026
+(NOTE-tmppwpd0) found that replacing medium folds with more short ones
+raised defects, again a design change and not a factorial test of nuclei.
 
 ## What it adds
 

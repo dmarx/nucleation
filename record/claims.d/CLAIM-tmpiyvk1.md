@@ -68,6 +68,30 @@ The expected residence time in i is 1/λ_i.
    the target's formation probability relative to an admissible
    alternative".
 
+## Eventual success is not success by a deadline
+
+The committor is an eventual measure, and a productive nucleus is
+horizon-relative (TERM-tmp3awsy). A's review of this pull request draws
+the consequence. A state that exits to the target at rate α and to
+failure at β succeeds by time T with chance
+
+  P_F(T) = α/(α+β) · (1 − e^{−(α+β)T}).
+
+Scaling both rates by the same factor leaves α/(α+β), and so the
+committor, unchanged, but changes P_F(T). At T = 10, computed in
+scratch/formal/dna_origami_toys.py:
+
+| Nucleus | Eventual success | Success by T = 10 |
+|---|---|---|
+| α = 0.08, β = 0.02 | 80 % | 50.6 % |
+| both tenfold slower | 80 % | 7.6 % |
+
+So a stabilization that slows every exit from a nucleus keeps its
+eventual chance and can make it nearly useless under a deadline. This is
+the readiness line's distinction between eventual capability and
+capability on time. Point 1 above holds for the committor, and for
+deadline success it fails.
+
 ## The molecular instance
 
 Dunn et al. ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)): long-range seam staples that bind early and

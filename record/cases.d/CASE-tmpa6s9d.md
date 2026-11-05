@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'A four-state annealing toy, unfolded, nucleus, folded and a misfold trap, with free energies and transition states linear in temperature: within an hour the target is reached only in a narrow band of constant temperatures, best 90.3 % at 318.6 K, within sixteen hours in a wider band, 313 to 323.5 K, and five minutes at 327 K followed by 318 K reaches 98.5 % within the hour, which no constant temperature does'
+title: 'A four-state annealing toy, unfolded, nucleus, folded and a misfold trap, with free energies and transition states linear in temperature: the fraction folded at one hour peaks at 90.4 % at 318.6 K among constant temperatures, at sixteen hours it is at least 90 % from 313 to 323.5 K, and five minutes at 327 K followed by 318 K leaves 98.5 % folded at the hour, which no constant temperature does; the chance of having reached the folded state agrees to four places'
 version: 1
 standing: fictional
 kind: construction
@@ -24,15 +24,17 @@ summary: >-
   and each transition state has an enthalpy and an entropy, so its free
   energy is linear in temperature, and rates are Arrhenius. Computed with
   python3 -I by matrix exponentials of the rate matrix. Reachability of the
-  target within a time budget is a window in temperature, not an up-set;
-  more time widens the window; a two-step schedule reaches what no constant
-  temperature reaches in the same time. The parameters are chosen to show
+  target within a time budget is a window in temperature, not an up-set,
+  whether it is counted as the fraction folded at the horizon or as the
+  chance of having reached the folded state by then; more time widens the
+  window; a two-step schedule reaches what no constant temperature reaches
+  in the same time. The parameters are chosen to show
   the effect and are not fitted to any origami. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-581 CLAIM-570 CLAIM-569 CLAIM-571 CLAIM-tmp7y162 — Proposed; the budgeted-reachability claims the toy bears on, and the claim it is built for -->
 
-# CASE-tmpa6s9d: A four-state annealing toy, unfolded, nucleus, folded and a misfold trap, with free energies and transition states linear in temperature: within an hour the target is reached only in a narrow band of constant temperatures, best 90.3 % at 318.6 K, within sixteen hours in a wider band, 313 to 323.5 K, and five minutes at 327 K followed by 318 K reaches 98.5 % within the hour, which no constant temperature does
+# CASE-tmpa6s9d: A four-state annealing toy, unfolded, nucleus, folded and a misfold trap, with free energies and transition states linear in temperature: the fraction folded at one hour peaks at 90.4 % at 318.6 K among constant temperatures, at sixteen hours it is at least 90 % from 313 to 323.5 K, and five minutes at 327 K followed by 318 K leaves 98.5 % folded at the hour, which no constant temperature does; the chance of having reached the folded state agrees to four places
 
 ## The case
 
@@ -64,7 +66,7 @@ of levels.
   more than sixteen hours: 78 % trapped at 296 K, at one hour and at
   sixteen alike.
 - **The window.** Within one hour the best constant temperature is
-  318.6 K, with 90.3 % folded, and no constant temperature from 290 to
+  318.6 K, with 90.4 % folded, and no constant temperature from 290 to
   345 K reaches 95 %. Within sixteen hours at least 90 % fold from 313 to
   323.5 K; the folded fraction over 300 to 334 K in steps of 2 K is 0.30,
   0.35, 0.41, 0.48, 0.56, 0.68, 0.84, 0.97, 1.00, 1.00, 1.00, 1.00, 0.85,
@@ -72,6 +74,20 @@ of levels.
 - **A schedule.** Five minutes at 327 K, above M's melting point, makes
   the nucleus without the trap; 55 minutes at 318 K then completes the
   fold. At one hour: F 98.5 %, M 1.2 %, N 0.3 %.
+
+## Folded at the horizon, and reached by it
+
+The figures above are occupancies, Pr(X_T = F), the fraction folded at the
+observation time. With folding reversible, that is not the chance of
+having reached the folded state, Pr(τ_F ≤ T), which counts a structure
+that folds and then melts. The two are computed separately in
+scratch/formal/dna_origami_toys.py, with F made absorbing for the second.
+Here they agree to four places, at every temperature from 290 to 345 K and
+for the schedule, because F almost never melts on these timescales below
+its melting point. The distinction matters in general. Pr(τ_F ≤ T) cannot
+fall as T grows, so a window defined by it can only widen with time. A
+window defined by occupancy need not, and here it widens because F
+holds.
 
 ## What it can show
 

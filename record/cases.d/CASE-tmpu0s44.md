@@ -76,7 +76,7 @@ likely". In A's words, "Both results would be valuable."
 - **The assistant's annealing toy** ([CASE-tmpa6s9d](CASE-tmpa6s9d.md)) runs one slice, with the
   level of a resource varied rather than its allocation. It shows both of
   A's outcomes. A brief hot step that makes the nucleus without the trap
-  raises the folded fraction within the hour from at best 90.3 % to
+  raises the folded fraction within the hour from at best 90.4 % to
   98.5 %. Cooling too far first lets the trap form, and that trap holds
   through sixteen hours.
 - **In molecules,** Dunn et al. vary the arrangement of seam staples and
