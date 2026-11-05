@@ -17,8 +17,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpb87sq
 summary: >-
-  Zhou, Sha, Ni, Seeman and Chaikin (2021), LIT-tmpb87sq, read in
-  NOTE-tmp70nos, as the stand-in for He et al. (2017), LIT-tmph8p41,
+  Zhou, Sha, Ni, Seeman and Chaikin (2021), [LIT-tmpb87sq](../literature.d/LIT-tmpb87sq.md), read in
+  [NOTE-tmp70nos](../notes.d/NOTE-tmp70nos.md), as the stand-in for He et al. (2017), [LIT-tmph8p41](../literature.d/LIT-tmph8p41.md),
   whose replicator it extends. The 3.5% is computed from a 16% per-monomer
   mismatch rate measured by AFM counts; the takeover is one run of 13
   cycles counted by AFM, with the fit's equations and per-cycle rates in
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Zhou, Sha, Ni, Seeman and Chaikin (2021), LIT-tmpb87sq; read in
-NOTE-tmp70nos. It stands in for He et al. (2017), LIT-tmph8p41, which was
+Zhou, Sha, Ni, Seeman and Chaikin (2021), [LIT-tmpb87sq](../literature.d/LIT-tmpb87sq.md); read in
+[NOTE-tmp70nos](../notes.d/NOTE-tmp70nos.md). It stands in for He et al. (2017), [LIT-tmph8p41](../literature.d/LIT-tmph8p41.md), which was
 not reached.
 
 ## What was actually shown
@@ -64,7 +64,7 @@ not reached.
   rates are designed, and mutation only moves between them.
 - That anything in the population maintains its replication: monomers,
   temperatures, UV and sample splitting are supplied every cycle, so it is
-  multiplication without regeneration in the sense of CLAIM-566.
+  multiplication without regeneration in the sense of [CLAIM-566](../claims.d/CLAIM-566.md).
 - That errors are corrected: the error rate is tuned, not repaired.
 - Anything about He et al.'s own selection experiment, which neither this
   paper nor any other open source read here describes.
