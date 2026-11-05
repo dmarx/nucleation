@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp4oafb
 summary: >-
-  Kinoshita and Ohsaki (2009), LIT-tmp4oafb, read in full in NOTE-tmpo5hk0.
+  Kinoshita and Ohsaki (2009), [LIT-tmp4oafb](../literature.d/LIT-tmp4oafb.md), read in full in [NOTE-tmpo5hk0](../notes.d/NOTE-tmpo5hk0.md).
   Proposed: the conversion is shown on one seven-node example, in
   simulation, with equivalence judged by overlaid force–displacement
   curves. It does not say that the frame is bistable without the obstacle,
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Kinoshita and Ohsaki (2009), LIT-tmp4oafb; read in NOTE-tmpo5hk0.
+Kinoshita and Ohsaki (2009), [LIT-tmp4oafb](../literature.d/LIT-tmp4oafb.md); read in [NOTE-tmpo5hk0](../notes.d/NOTE-tmpo5hk0.md).
 
 ## What was actually shown
 

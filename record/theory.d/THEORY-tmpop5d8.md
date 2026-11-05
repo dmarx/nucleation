@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpj6tf3
 summary: >-
-  Jules, Reid, Daniels, Mungan and Lechenault (2022), LIT-tmpj6tf3, read
-  in NOTE-tmpwz8jy. Shown in experiment on one four-barrel stack and its
+  Jules, Reid, Daniels, Mungan and Lechenault (2022), [LIT-tmpj6tf3](../literature.d/LIT-tmpj6tf3.md), read
+  in [NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md). Shown in experiment on one four-barrel stack and its
   softer twin, with the Preisach graph confirmed and defect states found by
   twisting by hand. It does not say that the 64 counted states were all
   observed (39 of 48 single-defect states were), that the readout
@@ -28,8 +28,8 @@ summary: >-
 
 ## Source
 
-Jules, Reid, Daniels, Mungan and Lechenault (2022), LIT-tmpj6tf3; read in
-NOTE-tmpwz8jy.
+Jules, Reid, Daniels, Mungan and Lechenault (2022), [LIT-tmpj6tf3](../literature.d/LIT-tmpj6tf3.md); read in
+[NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md).
 
 ## What was actually shown
 

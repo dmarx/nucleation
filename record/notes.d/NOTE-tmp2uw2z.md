@@ -98,11 +98,11 @@ from the wiring into a path.
 
 ## Connections
 
-The companion of LIT-tmpmjw68, from the same group, which reconfigures by
+The companion of [LIT-tmpmjw68](../literature.d/LIT-tmpmjw68.md), from the same group, which reconfigures by
 moving elements inside gates and cubes rather than by addressing a spatial
 array. Its array is a lookup table with a non-volatile memory of which
-minterms are on, close to THEORY-609's case of input-output dependencies
-with an input memory (LIT-404); an engineered instance, not a test.
+minterms are on, close to [THEORY-609](../theory.d/THEORY-609.md)'s case of input-output dependencies
+with an input memory ([LIT-404](../literature.d/LIT-404.md)); an engineered instance, not a test.
 
 ## Bearing on the record
 
@@ -112,13 +112,13 @@ with an input memory (LIT-404); an engineered instance, not a test.
   synthesis's points, it is a good case of memory held in configuration.
   Programming is external: the function is set by a magnet layout designed
   outside the device, which the robot only executes.
-- **CLAIM-025 (regime, organization and capacity to transform persist or
+- **[CLAIM-025](../claims.d/CLAIM-025.md) (regime, organization and capacity to transform persist or
   fail separately).** Supports, by a physical case: the minterm states
   (regime), the routing and module layout (organization) and the robot
   with its magnetic instructions (capacity to transform) are separate
   hardware, and the array keeps computing its function if the robot is
   removed.
-- **CLAIM-523 (legibility, efficacy, correctability).** A weak analogy
+- **[CLAIM-523](../claims.d/CLAIM-523.md) (legibility, efficacy, correctability).** A weak analogy
   only: writing (magnetic activation), retaining (bistability) and reading
   (conduction) are separately engineered.
 - **The authors' "fully mechanical nature"** is stronger than the
@@ -126,7 +126,7 @@ with an input memory (LIT-404); an engineered instance, not a test.
 - **Not embodied cognition, and not learning.** The weight-update scheme
   is a counter adjusted by comparator output, an exhaustive search; it
   bears on none of the record's learning-in-physical-systems entries.
-- Filed: THEORY-tmpj0xcg. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpj0xcg](../theory.d/THEORY-tmpj0xcg.md). No instruction for machine-learning practice.
 
 ## Limitations
 

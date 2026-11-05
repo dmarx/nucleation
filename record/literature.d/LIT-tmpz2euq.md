@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpwrlv9) from the authors' arXiv v1 preprint,
+  read 2026-11-05 ([NOTE-tmpwrlv9](../notes.d/NOTE-tmpwrlv9.md)) from the authors' arXiv v1 preprint,
   titled "Supervised learning in a mechanical system", main text in full,
   the Supplementary Notes skipped; the PNAS version was not reached (a
   Cloudflare challenge at Europe PMC, a reCAPTCHA at PMC). Worth reading
@@ -77,7 +77,7 @@ Stern, M., Arinze, C., Perez, L., Palmer, S. E. & Murugan, A. (2020). Supervised
 
 ## Key takeaways
 
-*From the reading of the arXiv v1 preprint, NOTE-tmpwrlv9.*
+*From the reading of the arXiv v1 preprint, [NOTE-tmpwrlv9](../notes.d/NOTE-tmpwrlv9.md).*
 
 - **The rule.** "if the response is the desired one, as determined by a
   ‘supervisor’, folded creases are allowed to soften in proportion to their
@@ -105,8 +105,8 @@ generalization to unseen inputs, which the synthesis does not mention. In
 the synthesis's progression from fixed geometry to self-maintaining
 structures this work is squarely at "trainable", with the supervisor
 outside the system. The record has no other entry on physical learning or
-origami; its nearest are THEORY-324 (Ashby's second feedback through
-essential variables), for which this is a contrast case, and CLAIM-443,
+origami; its nearest are [THEORY-324](../theory.d/THEORY-324.md) (Ashby's second feedback through
+essential variables), for which this is a contrast case, and [CLAIM-443](../claims.d/CLAIM-443.md),
 whose reward-modulated local update it instantiates in form only. Filed
-from it: THEORY-tmpnd6jt. It borrows the vocabulary of supervised learning
+from it: [THEORY-tmpnd6jt](../theory.d/THEORY-tmpnd6jt.md). It borrows the vocabulary of supervised learning
 and gives no instruction for machine-learning practice.

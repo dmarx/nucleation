@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpoedni) from the published version's full text
+  read 2026-11-05 ([NOTE-tmpoedni](../notes.d/NOTE-tmpoedni.md)) from the published version's full text
   in Europe PMC (CC BY 4.0) and the arXiv preprint, Supporting
   Information skipped; worth reading as a reservoir computer whose
   reservoir is a multistable origami metamaterial, and for the plain
@@ -63,7 +63,7 @@ Liu, Z., Fang, H., Xu, J. & Wang, K.-W. (2023). Cellular Automata Inspired Multi
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpoedni. Quotes are from the published text.*
+*From the reading, [NOTE-tmpoedni](../notes.d/NOTE-tmpoedni.md). Quotes are from the published text.*
 
 - **A trained readout, a fixed reservoir.** "To minimize the output error,
   the readout weights are trained with logistic regression." The
@@ -86,6 +86,6 @@ Cited in the pasted synthesis on constraint architectures as O10:
 reservoir computing, digit recognition and short-term memory. The reading
 qualifies it: the learning is in a linear readout, and only the
 small-digit task was done in experiment; the memory benchmark is a
-simulated 5-bit memory task. Filed from it: THEORY-tmpx5uxp. The machine
+simulated 5-bit memory task. Filed from it: [THEORY-tmpx5uxp](../theory.d/THEORY-tmpx5uxp.md). The machine
 learning here is a standard readout, so not, on balance, an instruction
 for machine-learning practice; nothing for the anthology.

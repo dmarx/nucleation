@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpo5hk0) from the publisher's open-access
+  read in full 2026-11-05 ([NOTE-tmpo5hk0](../notes.d/NOTE-tmpo5hk0.md)) from the publisher's open-access
   PDF on J-STAGE; worth reading as a short worked case of a design found
   in one constraint model (pin-jointed bars, no bending) having to be
   re-realized in another (rigid joints with bending) by a second
@@ -65,7 +65,7 @@ Kinoshita, T. & Ohsaki, M. (2009). Synthesis of Bistable Compliant Structures fr
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpo5hk0. Sections are the paper's.*
+*From the reading, [NOTE-tmpo5hk0](../notes.d/NOTE-tmpo5hk0.md). Sections are the paper's.*
 
 - **What bistable means here.** Among four conditions, "The deformed state
   can be retained without external loads" and "The undeformed initial state
@@ -96,5 +96,5 @@ useful: a design found in an idealized constraint model has to be
 re-realized, by a second optimization, in a model with different
 constraints (bending at the joints), and the cheap reversal by a small
 force is part of its definition. The record holds no other mechanics of
-trusses or snap-through. Filed from it: THEORY-tmpl2ztw. No instruction
+trusses or snap-through. Filed from it: [THEORY-tmpl2ztw](../theory.d/THEORY-tmpl2ztw.md). No instruction
 for machine-learning practice.

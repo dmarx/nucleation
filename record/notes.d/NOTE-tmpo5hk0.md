@@ -139,23 +139,23 @@ the introduction cites.
   reverse force, and the paper's real subject, the conversion between
   constraint models, which bears on A's own point that what a structure
   permits and what it costs to realize it are different properties.
-- **CLAIM-079, CLAIM-345, CLAIM-347, CLAIM-354, CLAIM-365.** The synthesis
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-345](../claims.d/CLAIM-345.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-354](../claims.d/CLAIM-354.md), [CLAIM-365](../claims.d/CLAIM-365.md).** The synthesis
   cites these for its Part 2 as a whole; their titles match its glosses.
   None bears on this paper in substance: its stable states are mechanical
   equilibria, with no viability set, control cost or frustration of
   demands.
-- **CLAIM-459** (an input to a bistable balance can be efficacious below a
+- **[CLAIM-459](../claims.d/CLAIM-459.md)** (an input to a bistable balance can be efficacious below a
   threshold without changing which regime operates). The limit point L is
   a mechanical threshold of the same shape, but the paper offers no
   mapping to authority. Analogy only; not support.
-- **CLAIM-463** (restoring conditions need not restore a lost capacity).
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (restoring conditions need not restore a lost capacity).
   This mechanism is the opposite case, cheap reversal by a small force; a
   possible contrast, nothing more.
-- **CLAIM-480** (composing interactions can turn an interior into a
+- **[CLAIM-480](../claims.d/CLAIM-480.md)** (composing interactions can turn an interior into a
   constraint). The spring K of the two-bar study stands for the rest of
   the structure, the kind of reduction the claim states, but the paper
   does not derive it.
-- Filed: THEORY-tmpl2ztw. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpl2ztw](../theory.d/THEORY-tmpl2ztw.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

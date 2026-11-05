@@ -105,7 +105,7 @@ the transformation keeps the input or erases it.
 ## Connections
 
 It draws on reservoir computing and physical reservoir computing, and on
-the analogy with cellular automata, for which the record holds LIT-1175 on
+the analogy with cellular automata, for which the record holds [LIT-1175](../literature.d/LIT-1175.md) on
 the information-transfer side. Unlike learning machines in which the
 material itself changes under training, here only the electronic readout
 is trained.
@@ -125,19 +125,19 @@ is trained.
     short-term memory, were simulated. The publisher's table-of-contents
     text, "Digit recognition and complex tasks are successfully implemented
     through experiments by a single actuator", overstates the main text.
-- **CLAIM-480 (eliminating a slowly relaxing interior leaves a
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (eliminating a slowly relaxing interior leaves a
   history-dependent constraint).** Supports by example: the buffer zone is
   such an interior, its retained configuration making the readout's
   response depend on input history.
-- **TERM-064 (legibility).** Loosely: accuracy depends on which
+- **[TERM-064](../terms.d/TERM-064.md) (legibility).** Loosely: accuracy depends on which
   distinctions the readout can recover from the transition sequence, and
   an all-compression rule makes every input illegible by sending it to one
   absorbing configuration.
-- **CLAIM-025.** A weak bearing: the actuation rule is an organization
+- **[CLAIM-025](../claims.d/CLAIM-025.md).** A weak bearing: the actuation rule is an organization
   separable from the configurations it drives.
-- **CLAIM-347, CLAIM-495, CLAIM-538, CLAIM-365, THEORY-171, TERM-060**,
+- **[CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-495](../claims.d/CLAIM-495.md), [CLAIM-538](../claims.d/CLAIM-538.md), [CLAIM-365](../claims.d/CLAIM-365.md), [THEORY-171](../theory.d/THEORY-171.md), [TERM-060](../terms.d/TERM-060.md)**,
   cited near it in the synthesis: no bearing.
-- Filed: THEORY-tmpx5uxp.
+- Filed: [THEORY-tmpx5uxp](../theory.d/THEORY-tmpx5uxp.md).
 
 ## Limitations
 

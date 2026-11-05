@@ -17,8 +17,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpz2euq
 summary: >-
-  Stern, Arinze, Perez, Palmer and Murugan (2020; arXiv 2019), LIT-tmpz2euq,
-  read in NOTE-tmpwrlv9 from the arXiv v1 preprint, titled differently; the
+  Stern, Arinze, Perez, Palmer and Murugan (2020; arXiv 2019), [LIT-tmpz2euq](../literature.d/LIT-tmpz2euq.md),
+  read in [NOTE-tmpwrlv9](../notes.d/NOTE-tmpwrlv9.md) from the arXiv v1 preprint, titled differently; the
   PNAS text and the Supplementary Notes were not read. Proposed for that
   reason. It is a result about a model: it does not say that any physical
   sheet has been trained, that the sheet learns without an external
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Stern et al. (2020; arXiv v1 2019-10-21), LIT-tmpz2euq; read in NOTE-tmpwrlv9, of the preprint.
+Stern et al. (2020; arXiv v1 2019-10-21), [LIT-tmpz2euq](../literature.d/LIT-tmpz2euq.md); read in [NOTE-tmpwrlv9](../notes.d/NOTE-tmpwrlv9.md), of the preprint.
 
 ## What was actually shown
 

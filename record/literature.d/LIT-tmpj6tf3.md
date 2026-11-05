@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpwz8jy) from the arXiv v3 preprint
+  read in full 2026-11-05 ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md)) from the arXiv v3 preprint
   (CC BY 4.0); worth reading as an experimental mechanical memory whose
   transition graph is the Preisach graph predicted from the order of the
   switching thresholds alone, and for its defect states, which are stable
@@ -67,7 +67,7 @@ Jules, T., Reid, A., Daniels, K. E., Mungan, M. & Lechenault, F. (2022). Delicat
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwz8jy. Sections are the arXiv v3's.*
+*From the reading, [NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md). Sections are the arXiv v3's.*
 
 - **A Preisach memory.** Four decoupled bistable barrels in series: "we
   can drive the bellows to any of its 16 allowable states by following a
@@ -94,5 +94,5 @@ discriminated by height and stiffness. The reading corrects three of
 these: the readout is partial by the authors' own account; the 64 is a
 counting convention, not a set of observed states; and the defect states
 exist only under a richer control (twisting by hand) than the declared
-uniaxial loading. Filed from it: THEORY-tmpop5d8. No instruction for
+uniaxial loading. Filed from it: [THEORY-tmpop5d8](../theory.d/THEORY-tmpop5d8.md). No instruction for
 machine-learning practice; nothing for the anthology.

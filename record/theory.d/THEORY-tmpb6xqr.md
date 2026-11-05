@@ -16,7 +16,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpovo05
 summary: >-
-  Kang, Kim, Yang and Ryu (2025), LIT-tmpovo05, read in NOTE-tmpxbvec.
+  Kang, Kim, Yang and Ryu (2025), [LIT-tmpovo05](../literature.d/LIT-tmpovo05.md), read in [NOTE-tmpxbvec](../notes.d/NOTE-tmpxbvec.md).
   Forward and inverse results are checked against a beam-truss FEA that
   shares the network's truss abstraction; the folding order is checked also
   in one scaled PET prototype, where barriers differ from prediction and
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Kang, Kim, Yang and Ryu (2025), LIT-tmpovo05; read in NOTE-tmpxbvec.
+Kang, Kim, Yang and Ryu (2025), [LIT-tmpovo05](../literature.d/LIT-tmpovo05.md); read in [NOTE-tmpxbvec](../notes.d/NOTE-tmpxbvec.md).
 
 ## What was actually shown
 

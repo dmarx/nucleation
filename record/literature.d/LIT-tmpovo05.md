@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpxbvec) from the arXiv v1 preprint, main text in
+  read 2026-11-05 ([NOTE-tmpxbvec](../notes.d/NOTE-tmpxbvec.md)) from the arXiv v1 preprint, main text in
   full and supplementary information skimmed; the RSC version of record
   not read; worth reading for sequential deployment programmed by an
   ordering of energy barriers, and, for the anthology, as a training
@@ -65,7 +65,7 @@ Kang, S., Kim, Y., Yang, J. & Ryu, S. (2025). Physics-informed neural networks f
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpxbvec.*
+*From the reading, [NOTE-tmpxbvec](../notes.d/NOTE-tmpxbvec.md).*
 
 - **Data-free.** Forward prediction and inverse design "without requiring
   pre-collected training data" (abstract).
@@ -87,4 +87,4 @@ It orders transitions by barrier height under a monotone load; it does not
 treat whether a transition is reachable under a resource cap. Its central
 contribution is a training formulation for a physics-informed network,
 which is machine-learning practice, so it carries the
-`anthology-candidate` flag. Filed from it: THEORY-tmpb6xqr.
+`anthology-candidate` flag. Filed from it: [THEORY-tmpb6xqr](../theory.d/THEORY-tmpb6xqr.md).

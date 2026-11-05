@@ -99,9 +99,9 @@ separate from both the program and the computation.
 
 It builds on reconfigurable mechanical logic from metamaterial processors
 (Jiao et al.) and on FPGA and DPGA gate arrays as its baseline. Its
-companion paper from the same group, LIT-tmp57hqx, moves programmability
-into a spatial array addressed by a robot. On the record's side, LIT-404
-and THEORY-609 say what makes a physical system implement a computation:
+companion paper from the same group, [LIT-tmp57hqx](../literature.d/LIT-tmp57hqx.md), moves programmability
+into a spatial array addressed by a robot. On the record's side, [LIT-404](../literature.d/LIT-404.md)
+and [THEORY-609](../theory.d/THEORY-609.md) say what makes a physical system implement a computation:
 this device is an engineered instance of the right input-output
 dependencies, tested over all inputs for each function, not a test of
 that account.
@@ -116,12 +116,12 @@ that account.
   the cube's configuration is updated from its own output only through a
   servo and relay electronics. The density of 1728 is a count for an
   unbuilt fourth-order cube.
-- **CLAIM-025 (regime, organization and capacity to transform persist or
+- **[CLAIM-025](../claims.d/CLAIM-025.md) (regime, organization and capacity to transform persist or
   fail separately).** Supports, by a clean physical case: the function
   computed (operative regime), the block arrangement fixing it
   (organization) and the rotating mechanism (capacity to transform) are
   separate parts, and the third can be removed while the first two remain.
-- **CLAIM-480 (composing interactions makes constraints).** Qualifies,
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (composing interactions makes constraints).** Qualifies,
   weakly: series and parallel composition yields a new function, not a new
   mechanical constraint.
 - **The authors' framing.** "materials no longer passively execute
@@ -130,7 +130,7 @@ that account.
   circuits.
 - **Not embodied cognition.** The robot uses the device as a switching
   circuit; nothing here bears on the record's embodied-cognition entries.
-- Filed: THEORY-tmp4458t. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp4458t](../theory.d/THEORY-tmp4458t.md). No instruction for machine-learning practice.
 
 ## Limitations
 

@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmplwjyi
 summary: >-
-  DeLuca, Duke, Ye, Poirier, Ke, Castro and Arya (2024), LIT-tmplwjyi,
-  read in NOTE-tmp3af4j. A simulation result, ten runs per design, in a
+  DeLuca, Duke, Ye, Poirier, Ke, Castro and Arya (2024), [LIT-tmplwjyi](../literature.d/LIT-tmplwjyi.md),
+  read in [NOTE-tmp3af4j](../notes.d/NOTE-tmp3af4j.md). A simulation result, ten runs per design, in a
   model without misbinding, helical topology, base stacking or annealing.
   It does not say that real origami traps this way, nor that the
   precursor is a nucleus: the paper does not use the word for its
@@ -28,8 +28,8 @@ summary: >-
 
 ## Source
 
-DeLuca, Duke, Ye, Poirier, Ke, Castro and Arya (2024), LIT-tmplwjyi; read
-in NOTE-tmp3af4j.
+DeLuca, Duke, Ye, Poirier, Ke, Castro and Arya (2024), [LIT-tmplwjyi](../literature.d/LIT-tmplwjyi.md); read
+in [NOTE-tmp3af4j](../notes.d/NOTE-tmp3af4j.md).
 
 ## What was actually shown
 

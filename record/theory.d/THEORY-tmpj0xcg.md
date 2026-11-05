@@ -14,7 +14,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp57hqx
 summary: >-
-  Chen, Tan and Yan (2025), LIT-tmp57hqx, read in NOTE-tmp2uw2z. Built and
+  Chen, Tan and Yan (2025), [LIT-tmp57hqx](../literature.d/LIT-tmp57hqx.md), read in [NOTE-tmp2uw2z](../notes.d/NOTE-tmp2uw2z.md). Built and
   tested for 2- to 4-input arrays (half and full adder and subtractor,
   2-bit adder or multiplier); generality to any function is by construction over
   pre-built minterm modules. It does not say that the device programs
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Chen, Tan and Yan (2025), LIT-tmp57hqx; read in NOTE-tmp2uw2z.
+Chen, Tan and Yan (2025), [LIT-tmp57hqx](../literature.d/LIT-tmp57hqx.md); read in [NOTE-tmp2uw2z](../notes.d/NOTE-tmp2uw2z.md).
 
 ## What was actually shown
 

@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpmjw68
 summary: >-
-  Hu, Tan, Chen and Yan (2025), LIT-tmpmjw68, read in NOTE-tmpu2xuw. The
+  Hu, Tan, Chen and Yan (2025), [LIT-tmpmjw68](../literature.d/LIT-tmpmjw68.md), read in [NOTE-tmpu2xuw](../notes.d/NOTE-tmpu2xuw.md). The
   rotatable gate, the 30-gate array and a third-order cube switching
   between full adder and full subtractor were built and tested over all
   inputs; the densities per cube order and the gate savings are counts
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Hu, Tan, Chen and Yan (2025), LIT-tmpmjw68; read in NOTE-tmpu2xuw.
+Hu, Tan, Chen and Yan (2025), [LIT-tmpmjw68](../literature.d/LIT-tmpmjw68.md); read in [NOTE-tmpu2xuw](../notes.d/NOTE-tmpu2xuw.md).
 
 ## What was actually shown
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmptvl7g) from the authors' arXiv v1 preprint, main
+  read 2026-11-05 ([NOTE-tmptvl7g](../notes.d/NOTE-tmptvl7g.md)) from the authors' arXiv v1 preprint, main
   text in full, the Supporting Information skipped; the PNAS version was
   not reached (a Cloudflare challenge at pnas.org, a firewall at MIT
   DSpace). Worth reading as a worked case in which the self-stress
@@ -75,7 +75,7 @@ Rocks, J. W., Pashine, N., Bischofberger, I., Goodrich, C. P., Liu, A. J. & Nage
 
 ## Key takeaways
 
-*From the reading of the arXiv v1 preprint, NOTE-tmptvl7g. Sections are
+*From the reading of the arXiv v1 preprint, [NOTE-tmptvl7g](../notes.d/NOTE-tmptvl7g.md). Sections are
 the preprint's.*
 
 - **The result.** "With nearly complete success, we are able to produce a
@@ -105,9 +105,9 @@ organization; both fit, and the second is borne out, since an external
 algorithm with a full model of the network chooses every bond. What the
 synthesis leaves out is that the method runs on the states of self-stress
 and compatible stress, the Maxwell–Calladine bookkeeping it raises
-elsewhere (see Rocks and Mehta, LIT-tmpx12go, for the counting with
+elsewhere (see Rocks and Mehta, [LIT-tmpx12go](LIT-tmpx12go.md), for the counting with
 energetics), and that the response is linear and athermal. The
 source-to-target strain ratio is an effective boundary relation that the
-interior network produces, a large-scale instance of CLAIM-480's
-elimination of an interior. Filed from it: THEORY-tmpt2hyq. No
+interior network produces, a large-scale instance of [CLAIM-480](../claims.d/CLAIM-480.md)'s
+elimination of an interior. Filed from it: [THEORY-tmpt2hyq](../theory.d/THEORY-tmpt2hyq.md). No
 instruction for machine-learning practice.

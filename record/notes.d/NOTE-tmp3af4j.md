@@ -104,8 +104,8 @@ can be the wrong one.
 It cites lattice Monte Carlo studies of origami nucleation (Cumberworth,
 Frenkel and Reinhardt 2022) and a base-stacking nucleation barrier under
 annealing, which its model omits. Its collapse-then-order pathway is
-structurally like the two-step nucleation of LIT-926, a link the paper
-does not make. LIT-917 is about the same theme of kinetic access deciding
+structurally like the two-step nucleation of [LIT-926](../literature.d/LIT-926.md), a link the paper
+does not make. [LIT-917](../literature.d/LIT-917.md) is about the same theme of kinetic access deciding
 which structure forms.
 
 ## Bearing on the record
@@ -122,21 +122,21 @@ which structure forms.
     for a base-stacking barrier its model leaves out. The synthesis's
     "organizational nucleus" is A's notion, and this paper should not be
     cited as a nucleation case.
-- **CLAIM-185 (persistent structures as anchors).** Qualifies the anchor
+- **[CLAIM-185](../claims.d/CLAIM-185.md) (persistent structures as anchors).** Qualifies the anchor
   idea by analogy, not as nucleation: the proto rod is a persistent
   intermediate on which later order grows, but an early, persistent
   structure can be the wrong anchor (the trapped run).
-- **CLAIM-184 (anchors entrench).** Supports by physical analogy: early
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench).** Supports by physical analogy: early
   coalescence that sets the scaffold wrongly locks the structure out of the
   folded state.
-- **CLAIM-079 (stability does not entail viability).** Supports by
+- **[CLAIM-079](../claims.d/CLAIM-079.md) (stability does not entail viability).** Supports by
   analogy: a trapped 32-helix bundle is long-lived with no viable path to
   the target within the time simulated.
-- **CLAIM-478 (scale separation makes constraints).** Loosely supports:
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Loosely supports:
   fast local contact formation then slow global ordering, with local order
   constraining the global.
-- **TERM-064, CLAIM-523, CLAIM-545, QUESTION-090, CLAIM-025**: no bearing.
-- Filed: THEORY-tmpivh27. No instruction for machine-learning practice.
+- **[TERM-064](../terms.d/TERM-064.md), [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-545](../claims.d/CLAIM-545.md), [QUESTION-090](../questions.d/QUESTION-090.md), [CLAIM-025](../claims.d/CLAIM-025.md)**: no bearing.
+- Filed: [THEORY-tmpivh27](../theory.d/THEORY-tmpivh27.md). No instruction for machine-learning practice.
 
 ## Limitations
 

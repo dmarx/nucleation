@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp2uw2z) from the publisher's open-access PDF
+  read 2026-11-05 ([NOTE-tmp2uw2z](../notes.d/NOTE-tmp2uw2z.md)) from the publisher's open-access PDF
   (CC BY-NC-ND 4.0), main text in full, most of Methods and all
   Supplementary Notes skipped; worth reading as an engineered case of
   memory held in configuration (non-volatile bistable switches) and of
@@ -62,7 +62,7 @@ Chen, Y., Tan, T. & Yan, Z. (2025). General-purpose mechanical computing enabled
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp2uw2z.*
+*From the reading, [NOTE-tmp2uw2z](../notes.d/NOTE-tmp2uw2z.md).*
 
 - **Non-volatile.** "The bistability of Kresling origami imparts
   non-volatility to the mechanical computing system, enabling the
@@ -79,10 +79,10 @@ Chen, Y., Tan, T. & Yan, Z. (2025). General-purpose mechanical computing enabled
 ## Standing in the record
 
 Cited in the pasted synthesis on constraint architectures as S7, by
-title, venue and DOI only. Read as a physical case for CLAIM-025 (minterm
+title, venue and DOI only. Read as a physical case for [CLAIM-025](../claims.d/CLAIM-025.md) (minterm
 states, module layout and addressing robot are separate hardware) and of
 memory held in configuration. Programming is external: the magnet layout
 is designed outside the device. It is an engineered electromechanical
 computer, not a case of embodied cognition. Filed from it:
-THEORY-tmpj0xcg. No instruction for machine-learning practice; nothing
+[THEORY-tmpj0xcg](../theory.d/THEORY-tmpj0xcg.md). No instruction for machine-learning practice; nothing
 for the anthology.

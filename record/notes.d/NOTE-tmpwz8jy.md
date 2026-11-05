@@ -113,7 +113,7 @@ once applied, can only destroy.
 It applies the Preisach transition-graph analysis of Terzi and Mungan, and
 its defect mechanism rests on the hidden elastic degrees of freedom of
 Silverberg et al. (2015, its ref. 49). The analysis by strongly connected
-components is the same method as THEORY-1233's for better-response graphs,
+components is the same method as [THEORY-1233](../theory.d/THEORY-1233.md)'s for better-response graphs,
 in another substrate.
 
 ## Bearing on the record
@@ -137,24 +137,24 @@ in another substrate.
     authors say so themselves (§II.B) and name reading precision as the
     limit on scaling (§III). This supports, better than the synthesis's
     own gloss, its later point that memory must be legible.
-- **TERM-064 (legibility).** An example: the microstate is a distinction
+- **[TERM-064](../terms.d/TERM-064.md) (legibility).** An example: the microstate is a distinction
   the height observer cannot fully recover, while the macrostate, the number
   deployed, is legible.
-- **CLAIM-523 (legibility, volitional efficacy, correctability).** Loosely
+- **[CLAIM-523](../claims.d/CLAIM-523.md) (legibility, volitional efficacy, correctability).** Loosely
   qualifies it by analogy: the paper separates stability in time,
   writability by external action and non-destructive readout as three
   properties of a memory (§III), and writing and reading fail separately
   here. Mechanical, not normative; an illustration only.
-- **CLAIM-463 and CLAIM-464.** Analogies, no more: leaving a GoE loop by
+- **[CLAIM-463](../claims.d/CLAIM-463.md) and [CLAIM-464](../claims.d/CLAIM-464.md).** Analogies, no more: leaving a GoE loop by
   erasure is not undone by reversing the load, and a shift enlarges the
   defect loop irreversibly, changing what is reachable afterwards.
-- **CLAIM-480 (composing interactions makes constraints).** Qualifies: the
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (composing interactions makes constraints).** Qualifies: the
   series composition of decoupled units adds no new constraint (a pure
   Preisach system); new transitions appear only with coupling between units
   (appendix C).
-- **CLAIM-185, CLAIM-025, QUESTION-090, CLAIM-545**, cited in the
+- **[CLAIM-185](../claims.d/CLAIM-185.md), [CLAIM-025](../claims.d/CLAIM-025.md), [QUESTION-090](../questions.d/QUESTION-090.md), [CLAIM-545](../claims.d/CLAIM-545.md)**, cited in the
   synthesis's part on this work: no bearing beyond metaphor.
-- Filed: THEORY-tmpop5d8. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpop5d8](../theory.d/THEORY-tmpop5d8.md). No instruction for machine-learning practice.
 
 ## Limitations
 

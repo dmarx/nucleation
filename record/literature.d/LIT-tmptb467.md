@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpdle4e) from a manuscript posted on the
+  read in full 2026-11-05 ([NOTE-tmpdle4e](../notes.d/NOTE-tmpdle4e.md)) from a manuscript posted on the
   second author's lab page at UW-Madison, most likely the authors'
   manuscript of the journal article; registered as a stand-in for Sigmund
-  (1997), LIT-tmpa38fi, and more thinly for the review by Zhu et al.
-  (2020), LIT-tmpdpxms. Worth reading as a compact statement of what
+  (1997), [LIT-tmpa38fi](LIT-tmpa38fi.md), and more thinly for the review by Zhu et al.
+  (2020), [LIT-tmpdpxms](LIT-tmpdpxms.md). Worth reading as a compact statement of what
   compliant-mechanism topology optimization trades: flexibility at the
   output against stiffness against a workpiece, a multi-objective problem
   with Pareto solutions, and density-based designs that exploit the model
@@ -75,7 +75,7 @@ Krishnakumar, A. & Suresh, K. (2015). Hinge-Free Compliant Mechanism Design via 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpdle4e. Sections are the manuscript's.*
+*From the reading, [NOTE-tmpdle4e](../notes.d/NOTE-tmpdle4e.md). Sections are the manuscript's.*
 
 - **Two conflicting demands.** "(1) the compliant mechanism must exhibit
   sufficient flexibility to achieve the desired displacement at the
@@ -96,13 +96,13 @@ Krishnakumar, A. & Suresh, K. (2015). Hinge-Free Compliant Mechanism Design via 
 
 ## Standing in the record
 
-Registered as a stand-in. For Sigmund (1997), LIT-tmpa38fi, it states
+Registered as a stand-in. For Sigmund (1997), [LIT-tmpa38fi](LIT-tmpa38fi.md), it states
 what Sigmund's formulation optimizes, that the paper relates the field's
 formulations, and the setting his work belongs to (the inverter problem,
 output springs, geometric and mechanical advantage, the hinge problem);
 it does not give Sigmund's formulation, his input-displacement constraint
 for stress, his examples or his prototypes, and it miscites his venue.
-For Zhu et al. (2020), LIT-tmpdpxms, it stands in only thinly: its Sec. 2
+For Zhu et al. (2020), [LIT-tmpdpxms](LIT-tmpdpxms.md), it stands in only thinly: its Sec. 2
 is a short pre-2015 review of formulations and parameterizations, not a
 survey, and it covers nothing of 2015–2019. Two of its points touch the
 pasted synthesis on constraint architectures: designs with the same
@@ -110,5 +110,5 @@ intended motion differ in geometric and mechanical advantage as η moves,
 a mechanical case of A's proposed claim that equal nominal freedom spaces
 do not entail equal task performance; and density-based designs exploit a
 loophole in the finite-element model, so that the optimized design and a
-realizable one part. Filed from it: THEORY-tmpybouv. No instruction for
+realizable one part. Filed from it: [THEORY-tmpybouv](../theory.d/THEORY-tmpybouv.md). No instruction for
 machine-learning practice.

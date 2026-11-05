@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmptb467
 summary: >-
-  Krishnakumar and Suresh (2015), LIT-tmptb467, read in full in
-  NOTE-tmpdle4e from a lab-posted manuscript, as a stand-in for Sigmund
+  Krishnakumar and Suresh (2015), [LIT-tmptb467](../literature.d/LIT-tmptb467.md), read in full in
+  [NOTE-tmpdle4e](../notes.d/NOTE-tmpdle4e.md) from a lab-posted manuscript, as a stand-in for Sigmund
   (1997). Proposed: hinge-freedom is shown by pictures of a handful of
   coarse-mesh designs, and the η trade-off on one example. It is the
   authors' account of their own method, not of Sigmund's; it does not say
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Krishnakumar and Suresh (2015), LIT-tmptb467; read in NOTE-tmpdle4e.
+Krishnakumar and Suresh (2015), [LIT-tmptb467](../literature.d/LIT-tmptb467.md); read in [NOTE-tmpdle4e](../notes.d/NOTE-tmpdle4e.md).
 
 ## What was actually shown
 
@@ -48,7 +48,7 @@ Krishnakumar and Suresh (2015), LIT-tmptb467; read in NOTE-tmpdle4e.
 ## What this does not say
 
 - Anything about Sigmund's (1997) formulation beyond the one-line account
-  of it, LIT-tmpa38fi being unread.
+  of it, [LIT-tmpa38fi](../literature.d/LIT-tmpa38fi.md) being unread.
 - That the designs are hinge-free in a measured sense: no
   stress-concentration measure is given.
 - That the method holds with springs, stress constraints or large

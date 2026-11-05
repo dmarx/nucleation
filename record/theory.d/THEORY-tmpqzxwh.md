@@ -16,7 +16,7 @@ source:
 - LIT-tmpbs8e0
 summary: >-
   Mirth, Zhai, Bush, Alvarado, Jordan, Heim, Krishnamoorthy, Pflaum, Clark,
-  Zhang and Adams (2021), LIT-tmpbs8e0, read in NOTE-tmpwvb9j, appendices
+  Zhang and Adams (2021), [LIT-tmpbs8e0](../literature.d/LIT-tmpbs8e0.md), read in [NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md), appendices
   with the full proofs skimmed. The first two parts are standard
   correspondences the paper states and illustrates; the closed form is its
   Theorems 1 and 2. It treats one scalar energy only: nothing here covers
@@ -28,7 +28,7 @@ summary: >-
 ## Source
 
 Mirth, Zhai, Bush, Alvarado, Jordan, Heim, Krishnamoorthy, Pflaum, Clark,
-Zhang and Adams (2021), LIT-tmpbs8e0; read in NOTE-tmpwvb9j.
+Zhang and Adams (2021), [LIT-tmpbs8e0](../literature.d/LIT-tmpbs8e0.md); read in [NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md).
 
 ## What was actually shown
 

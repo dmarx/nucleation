@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp3af4j) from the publisher's open-access PDF
+  read 2026-11-05 ([NOTE-tmp3af4j](../notes.d/NOTE-tmp3af4j.md)) from the publisher's open-access PDF
   (CC BY 4.0), main text in full, later Methods and Supplementary
   Information skipped; worth reading as a coarse-grained model that reaches
   the whole folding timescale of DNA origami while keeping configuration,
@@ -62,7 +62,7 @@ DeLuca, M., Duke, D., Ye, T., Poirier, M., Ke, Y., Castro, C. & Arya, G. (2024).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp3af4j.*
+*From the reading, [NOTE-tmp3af4j](../notes.d/NOTE-tmp3af4j.md).*
 
 - **Hierarchical folding.** "zipping into a partially folded precursor
   followed by crystallization into the final structure" (abstract): the
@@ -82,5 +82,5 @@ hierarchical folding and "frequent trapping in metastable states" in some
 designs, both in the abstract's words. The reading qualifies the second:
 the trapping is a simulation result, found in the large 32-helix bundle.
 The paper does not call its mechanism nucleation, and the record files no
-nucleation claim from it. Filed from it: THEORY-tmpivh27. No instruction
+nucleation claim from it. Filed from it: [THEORY-tmpivh27](../theory.d/THEORY-tmpivh27.md). No instruction
 for machine-learning practice; nothing for the anthology.

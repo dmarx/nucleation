@@ -93,7 +93,7 @@ is designed in, and no active control is needed.
 
 It extends physics-informed neural networks to inverse mechanical design
 and the Kresling-origami literature on bistability to conical cells. The
-record's loss-landscape works (LIT-663, LIT-653) share its vocabulary but
+record's loss-landscape works ([LIT-663](../literature.d/LIT-663.md), [LIT-653](../literature.d/LIT-653.md)) share its vocabulary but
 concern network training landscapes, not this mechanical one.
 
 ## Bearing on the record
@@ -109,16 +109,16 @@ concern network training landscapes, not this mechanical one.
   network against the same truss mechanics; only the prototype tests the
   mechanics, where the bottom layer's measured barrier (0.0875 mJ) differs
   from the predicted 0.05 before normalization.
-- **CLAIM-478 (scale separation makes constraints).** A weak analogy only:
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** A weak analogy only:
   distinct barrier heights act as a time ordering under slow loading.
-- **CLAIM-079, CLAIM-025, CLAIM-347, CLAIM-365, CLAIM-354, THEORY-134**,
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md), [CLAIM-354](../claims.d/CLAIM-354.md), [THEORY-134](../theory.d/THEORY-134.md)**,
   cited near it in the synthesis: no bearing.
 - **For the anthology.** The loss design (energy, Euler–Lagrange,
   torque-free, barrier, smoothness and penalty terms), joint optimization
   of design parameters with weights, and the authors' advice on
   multi-start, loss-weight curricula and nondimensionalization are
   machine-learning practice; the LIT carries `anthology-candidate`.
-- Filed: THEORY-tmpb6xqr.
+- Filed: [THEORY-tmpb6xqr](../theory.d/THEORY-tmpb6xqr.md).
 
 ## Limitations
 

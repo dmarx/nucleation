@@ -10,7 +10,7 @@ status_note: >-
   page instead of the PDF, and was not retried. Elsevier's text-mining
   endpoint, which Crossref lists, was not used. No repository copy is
   listed. The owner can likely read it in a browser at that address, or
-  at its DOI. Krishnakumar and Suresh (2015), LIT-tmptb467, read as a
+  at its DOI. Krishnakumar and Suresh (2015), [LIT-tmptb467](LIT-tmptb467.md), read as a
   stand-in for Sigmund (1997), stands in for this review only thinly: a
   short pre-2015 literature review in its Sec. 2 of the formulations,
   parameterizations and hinge problem, and nothing of the 2015–2019 work
@@ -80,7 +80,7 @@ The pasted synthesis on constraint architectures lists it as M5, without
 a title or a characterization; nothing it says is wrong. It is the field's
 recent review, and the record holds nothing else on compliant mechanisms
 or topology optimization but the neighbour read for Sigmund (1997).
-Krishnakumar and Suresh (2015), LIT-tmptb467, stand in for it weakly: a
+Krishnakumar and Suresh (2015), [LIT-tmptb467](LIT-tmptb467.md), stand in for it weakly: a
 few pages of a 2015 paper's literature review, which itself defers a full
 summary of the formulations to earlier reviews, against a 2019 survey of
 331 references. Since the review is open access, reading it is a matter

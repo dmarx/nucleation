@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp36khj
 summary: >-
-  Liu, Fang, Xu and Wang (2023), LIT-tmp36khj, read in NOTE-tmpoedni. The
+  Liu, Fang, Xu and Wang (2023), [LIT-tmp36khj](../literature.d/LIT-tmp36khj.md), read in [NOTE-tmpoedni](../notes.d/NOTE-tmpoedni.md). The
   comparison with the raw inputs (90.4% against 87.2% on binarized MNIST)
   and the memory result are simulations with a least-action model; the
   experiment covers ten 5×4-pixel digits on a 4×2-cell prototype. It does
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Liu, Fang, Xu and Wang (2023), LIT-tmp36khj; read in NOTE-tmpoedni.
+Liu, Fang, Xu and Wang (2023), [LIT-tmp36khj](../literature.d/LIT-tmp36khj.md); read in [NOTE-tmpoedni](../notes.d/NOTE-tmpoedni.md).
 
 ## What was actually shown
 

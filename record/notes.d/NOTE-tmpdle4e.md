@@ -125,7 +125,7 @@ formulations it surveys, it defers "A full summary of all such design
 formulations" to the reviews of Albanesi et al. (2010) and Deepak et al.
 (2009).
 
-**As a stand-in for Sigmund (1997), LIT-tmpa38fi.** It restates, citing
+**As a stand-in for Sigmund (1997), [LIT-tmpa38fi](../literature.d/LIT-tmpa38fi.md).** It restates, citing
 Sigmund as its [12], that Sigmund maximizes mechanical advantage subject to
 flexibility constraints and relates many formulations to one another. It
 gives the setting Sigmund's paper belongs to: the classic inverter, the
@@ -137,7 +137,7 @@ in Nylon and in micromachined glass. It miscites his venue as "Journal of
 Structural Mechanics" (pp. 494–524); the paper is in Mechanics of
 Structures and Machines 25(4), 493–524.
 
-**As a stand-in for Zhu et al. (2020), LIT-tmpdpxms.** Thinly. Its Sec. 2
+**As a stand-in for Zhu et al. (2020), [LIT-tmpdpxms](../literature.d/LIT-tmpdpxms.md).** Thinly. Its Sec. 2
 names the two tasks, the measures of flexibility and stiffness, the
 Pareto character, the parameterizations (SIMP, level sets, evolutionary,
 ground-structure, homogenization) and the hinge problem, all as of about
@@ -155,17 +155,17 @@ twenty-year review of 2019 would cover.
   specification of input–output behaviour, and adds what A leaves out: the
   problem is multi-objective, the answer depends on how the two demands
   are traded, and density-based answers exploit the model.
-- **CLAIM-345** (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md)** (equal controllability rank does not fix the cost of
   control). Analogy only: designs with the same intended motion differ in
   GA and MA as η varies, the mechanical counterpart of A's proposed claim
   that equal nominal freedom spaces do not entail equal task performance.
   The paper says nothing of control.
-- **CLAIM-347 and CLAIM-346** (frustration of demands; independent
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [CLAIM-346](../claims.d/CLAIM-346.md)** (frustration of demands; independent
   obstructions to realizing demands). The flexibility–stiffness conflict
   has a Pareto set of designs: a trade-off, not a joint infeasibility, so
-  it does not instantiate CLAIM-347's frustration. CLAIM-079, CLAIM-354 and
-  CLAIM-365 are unrelated in substance.
-- Filed: THEORY-tmpybouv. No instruction for machine-learning practice;
+  it does not instantiate [CLAIM-347](../claims.d/CLAIM-347.md)'s frustration. [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-354](../claims.d/CLAIM-354.md) and
+  [CLAIM-365](../claims.d/CLAIM-365.md) are unrelated in substance.
+- Filed: [THEORY-tmpybouv](../theory.d/THEORY-tmpybouv.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

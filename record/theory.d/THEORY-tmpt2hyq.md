@@ -19,7 +19,7 @@ source:
 - LIT-tmpf2n99
 summary: >-
   Rocks, Pashine, Bischofberger, Goodrich, Liu and Nagel (2017; arXiv
-  2016), LIT-tmpf2n99, read in NOTE-tmptvl7g from the arXiv v1 preprint;
+  2016), [LIT-tmpf2n99](../literature.d/LIT-tmpf2n99.md), read in [NOTE-tmptvl7g](../notes.d/NOTE-tmptvl7g.md) from the arXiv v1 preprint;
   the PNAS text was not reached. Proposed for that reason and because the
   Supporting Information was not read. It is a linear, athermal result for
   central-force networks made rigid first: it does not say why the chosen
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Rocks et al. (2017; arXiv v1 2016-07-28), LIT-tmpf2n99; read in NOTE-tmptvl7g, of the preprint.
+Rocks et al. (2017; arXiv v1 2016-07-28), [LIT-tmpf2n99](../literature.d/LIT-tmpf2n99.md); read in [NOTE-tmptvl7g](../notes.d/NOTE-tmptvl7g.md), of the preprint.
 
 ## What was actually shown
 

@@ -12,7 +12,7 @@ status_note: >-
   copy in a third party's reference folder on a Université Laval server,
   neither the author's, his lab's nor a course page; it was not used,
   since it is not plainly lawful. Krishnakumar and Suresh (2015),
-  LIT-tmptb467, stands in for it, partly: it states that Sigmund maximizes
+  [LIT-tmptb467](LIT-tmptb467.md), stands in for it, partly: it states that Sigmund maximizes
   mechanical advantage subject to flexibility constraints and relates the
   field's formulations to one another, and it gives the setting (the
   inverter problem, the flexibility–stiffness conflict, output springs,
@@ -59,7 +59,7 @@ summary: >-
   maximum stress controlled by constraining the input displacement;
   examples, and some designs made in Nylon at hand size and in
   micromachined glass below half a millimetre. Krishnakumar and Suresh
-  (2015), LIT-tmptb467, say it maximizes mechanical advantage subject to
+  (2015), [LIT-tmptb467](LIT-tmptb467.md), say it maximizes mechanical advantage subject to
   flexibility constraints and relates many formulations to one another.
 ---
 
@@ -77,7 +77,7 @@ later work says of it, unverified against the original.*
   domain and given input and output force positions and directions.
 - **Stress control**, on the same account: by a constraint on the allowed
   displacement at the input port.
-- **The objective**, on Krishnakumar and Suresh's account (LIT-tmptb467,
+- **The objective**, on Krishnakumar and Suresh's account ([LIT-tmptb467](LIT-tmptb467.md),
   Sec. 2): mechanical advantage maximized subject to flexibility
   constraints, with the relationships among formulations discussed.
 - **Prototypes**, on the abstract's account: some designs made in Nylon
@@ -92,7 +92,7 @@ supports a method from given input and output forces; whether the paper
 also specifies output displacements or ratios, and whether "explicitly"
 is fair, cannot be checked unread. The sentence is A's paraphrase.
 
-Krishnakumar and Suresh (2015), LIT-tmptb467, read in its place, stand in
+Krishnakumar and Suresh (2015), [LIT-tmptb467](LIT-tmptb467.md), read in its place, stand in
 for it only partly: they restate its objective in one line and give the
 setting of its problem, and nothing of its formulation, its stress
 control, its examples or its prototypes. The record has no other entry on

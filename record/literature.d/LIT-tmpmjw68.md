@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpu2xuw) from the publisher's open-access PDF
+  read 2026-11-05 ([NOTE-tmpu2xuw](../notes.d/NOTE-tmpu2xuw.md)) from the publisher's open-access PDF
   (CC BY-NC-ND 4.0), main text in full, most of Methods and all
   Supplementary Information skipped; worth reading as a clean engineered
   case in which the function a device computes, the arrangement that fixes
@@ -60,7 +60,7 @@ Hu, X., Tan, T., Chen, Y. & Yan, Z. (2025). Spatially programmable origami netwo
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpu2xuw.*
+*From the reading, [NOTE-tmpu2xuw](../notes.d/NOTE-tmpu2xuw.md).*
 
 - **Reconfiguring by moving elements.** "By rotating intra-gate elements to
   modify AND/OR-based Boolean cascades, the design reduces gates by 46.7%
@@ -77,8 +77,8 @@ Hu, X., Tan, T., Chen, Y. & Yan, Z. (2025). Spatially programmable origami netwo
 
 Cited in the pasted synthesis on constraint architectures as S6, by
 title, venue and DOI only, with no characterization to check. Read as a
-physical case for CLAIM-025: the function computed, the arrangement fixing
+physical case for [CLAIM-025](../claims.d/CLAIM-025.md): the function computed, the arrangement fixing
 it and the mechanism that rearranges it are separate hardware. It is an
 engineered electromechanical computer, not a case of embodied cognition.
-Filed from it: THEORY-tmp4458t. No instruction for machine-learning
+Filed from it: [THEORY-tmp4458t](../theory.d/THEORY-tmp4458t.md). No instruction for machine-learning
 practice; nothing for the anthology.

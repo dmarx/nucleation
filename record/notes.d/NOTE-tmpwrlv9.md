@@ -130,7 +130,7 @@ and overtraining is the same process carried too far.
 It rests on Stern, Pinson and Murugan (2017) for the exponential number of
 folding pathways of self-folding sheets and for the energy model, and
 draws on memory formation in disordered matter and on directed aging of
-elastic networks. Rocks et al. (2017), LIT-tmpf2n99, is the designed
+elastic networks. Rocks et al. (2017), [LIT-tmpf2n99](../literature.d/LIT-tmpf2n99.md), is the designed
 counterpart: there an external algorithm prunes a spring network to a
 chosen response; here the material changes itself under a supervisor's
 signal.
@@ -147,28 +147,28 @@ signal.
   synthesis's progression "fixed geometry → reconfigurable → trainable →
   self-maintaining" is consistent with it: the sheet is trainable, and the
   supervisor is outside it, so it does not reach self-maintaining.
-- **THEORY-324** (Ashby: adaptation by trial and error needs a second
+- **[THEORY-324](../theory.d/THEORY-324.md)** (Ashby: adaptation by trial and error needs a second
   feedback, through essential variables, that changes the primary
   feedback's parameters). Qualifies: the sheet has the two-level form, fast
   folding and slow stiffness change driven by an outcome signal, but the
   signal comes from an external supervisor, not from essential variables
   of the sheet's own. A contrast case: parameter adaptation without
   endogenous essential variables.
-- **CLAIM-443** (a learned prior over which processes govern, its bias
+- **[CLAIM-443](../claims.d/CLAIM-443.md)** (a learned prior over which processes govern, its bias
   trained by reward-modulated Hebbian updates). Analogy in form: a
   supervisor-gated local update in a physical substrate. The claim is
   about governance among processes, which the paper does not touch.
-- **CLAIM-025** (an operative regime, the organization selecting among
+- **[CLAIM-025](../claims.d/CLAIM-025.md)** (an operative regime, the organization selecting among
   regimes, and the capacity to transform it can persist or fail
   separately). Qualifies loosely: folded structure, crease stiffnesses and
   training rule are separable here, and overtraining destroys the
   selecting organization's use while the sheet still folds. The paper does
   not frame it so.
-- CLAIM-347, CLAIM-365, CLAIM-495, CLAIM-538, TERM-060 and THEORY-171,
+- [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md), [CLAIM-495](../claims.d/CLAIM-495.md), [CLAIM-538](../claims.d/CLAIM-538.md), [TERM-060](../terms.d/TERM-060.md) and [THEORY-171](../theory.d/THEORY-171.md),
   which the synthesis cites for its Part 3, are unrelated in substance;
-  THEORY-171 is narrower than the synthesis's gloss "local-to-global,
+  [THEORY-171](../theory.d/THEORY-171.md) is narrower than the synthesis's gloss "local-to-global,
   gluing": it concerns causal contextuality.
-- Filed: THEORY-tmpnd6jt. It is a physics model that borrows supervised
+- Filed: [THEORY-tmpnd6jt](../theory.d/THEORY-tmpnd6jt.md). It is a physics model that borrows supervised
   learning's vocabulary; no instruction for machine-learning practice and
   nothing for the anthology.
 

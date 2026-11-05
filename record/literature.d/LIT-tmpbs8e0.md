@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpwvb9j) from the arXiv v2, the version published
+  read 2026-11-05 ([NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md)) from the arXiv v2, the version published
   in J. Chem. Phys., main text in full and appendices skimmed; worth
   reading as the dictionary between a chemist's disconnectivity graph and
   zero-dimensional sublevelset persistence, and for what the higher
@@ -70,7 +70,7 @@ Mirth, J., Zhai, Y., Bush, J., Alvarado, E. G., Jordan, H., Heim, M., Krishnamoo
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwvb9j. Sections are the arXiv v2's.*
+*From the reading, [NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md). Sections are the arXiv v2's.*
 
 - **Merge level.** Two configurations are connected at a threshold "if
   there is a path between the configurations that does not exceed the
@@ -94,5 +94,5 @@ bottleneck over paths is exactly this paper's zero-dimensional merge
 level, which keeps only the lowest barrier; the paper's higher dimensions
 keep the alternative paths. The synthesis's budgets over several
 resources at once would need multi-parameter persistence, which the paper
-does not treat. Filed from it: THEORY-tmpqzxwh. No instruction for
+does not treat. Filed from it: [THEORY-tmpqzxwh](../theory.d/THEORY-tmpqzxwh.md). No instruction for
 machine-learning practice; nothing for the anthology.

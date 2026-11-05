@@ -122,7 +122,7 @@ states of compatible stress, which do.
 It builds on the jamming and pruning work of the Liu and Nagel groups
 (tuning bulk and shear moduli by removing bonds, and rupture control
 through rigidity), and on elastic-network models of proteins. Rocks and
-Mehta (2024), LIT-tmpx12go, later restate Maxwell–Calladine counting with
+Mehta (2024), [LIT-tmpx12go](../literature.d/LIT-tmpx12go.md), later restate Maxwell–Calladine counting with
 energetics and prestress, the extension this paper lists as future work.
 
 ## Bearing on the record
@@ -141,21 +141,21 @@ energetics and prestress, the extension this paper lists as future work.
   and athermal; and rigidity is a precondition whose loss at low ΔZ is
   what makes tuning fail, a direct instance of A's trade between freedoms
   and constraints. Nothing A says is wrong.
-- **CLAIM-480** (composing interactions turns an interior into a
+- **[CLAIM-480](../claims.d/CLAIM-480.md)** (composing interactions turns an interior into a
   constraint). Supports, as a large-scale instance: η is an effective
   relation between boundary pairs produced by the equilibrated interior,
   and the paper retunes it by removing interior bonds. Same physics,
   linear springs; the paper neither cites nor derives the reduction.
-- **CLAIM-347** (frustration as an ordinal fact). The rising failure of
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (frustration as an ordinal fact). The rising failure of
   multi-response tuning at low ΔZ could someday illustrate joint
   unrealizability of declared responses; the paper does not frame it so.
-  CLAIM-079, CLAIM-345, CLAIM-354 and CLAIM-365, which the synthesis cites
+  [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-345](../claims.d/CLAIM-345.md), [CLAIM-354](../claims.d/CLAIM-354.md) and [CLAIM-365](../claims.d/CLAIM-365.md), which the synthesis cites
   for its Part 2, are unrelated in substance.
-- **THEORY-302** (coordinated action by tuning coordinative structures).
+- **[THEORY-302](../theory.d/THEORY-302.md)** (coordinated action by tuning coordinative structures).
   Analogy only: a few parameters are set and the network's mechanics
   realizes the response, but the paper says nothing about control
   hierarchies.
-- Filed: THEORY-tmpt2hyq. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpt2hyq](../theory.d/THEORY-tmpt2hyq.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

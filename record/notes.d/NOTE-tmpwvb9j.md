@@ -111,7 +111,7 @@ It rests on Morse theory and the stability theorem for persistence, and
 cites the use of multi-parameter persistence for robust clustering of MD
 data (its ref. 22), "though this summary is only of 0-dimensional
 homology". The record's minimum-energy-path and mode-connectivity works,
-LIT-653 and THEORY-109, measure the barrier between minima along a path,
+[LIT-653](../literature.d/LIT-653.md) and [THEORY-109](../theory.d/THEORY-109.md), measure the barrier between minima along a path,
 which is this paper's merge level; it says what that summary leaves out.
 
 ## Bearing on the record
@@ -137,22 +137,22 @@ which is this paper's merge level; it says what that summary leaves out.
   - **Disconnection.** The synthesis's B* = +∞ corresponds to points never
     joined at any finite level, different components of the whole domain;
     on the paper's tori this never happens.
-- **CLAIM-555 (acceptance sets as sublevel sets; the complex as their
+- **[CLAIM-555](../claims.d/CLAIM-555.md) (acceptance sets as sublevel sets; the complex as their
   nerve).** Supports as method: the paper gives the standard tool for how
   one loss's sublevel sets change topology with the threshold, and its
   stability. The claim's nerve over several losses is a step the paper
   does not take.
-- **CLAIM-354 (degrees compared by inclusion of what is viably
+- **[CLAIM-354](../claims.d/CLAIM-354.md) (degrees compared by inclusion of what is viably
   reachable).** Weak: sublevelset inclusion is an order on what is
   reachable under an energy cap, a scalar case of the inclusion the claim
   uses.
-- **CLAIM-079, THEORY-134.** A zero-dimensional bar's length is a stability
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [THEORY-134](../theory.d/THEORY-134.md).** A zero-dimensional bar's length is a stability
   margin, how high one must climb to leave a minimum, not viability; a
   sublevelset is a constraint set, but the paper asks how its topology
   changes with r, not which states can stay in it.
-- **LIT-653, THEORY-109.** Their barrier along a minimum energy path is the
+- **[LIT-653](../literature.d/LIT-653.md), [THEORY-109](../theory.d/THEORY-109.md).** Their barrier along a minimum energy path is the
   zero-dimensional merge level; this paper names what that summary omits.
-- Filed: THEORY-tmpqzxwh.
+- Filed: [THEORY-tmpqzxwh](../theory.d/THEORY-tmpqzxwh.md).
 
 ## Limitations
 
