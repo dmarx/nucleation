@@ -109,8 +109,14 @@ claim report each of the three points in origami:
 - **Anything new to annealing practice.** Folding windows and stepped
   protocols are the origami literature's own results. What is new here is
   only what they mean for the record's resource-bounded reachability.
-- **That every resource is like heat.** Staple excess, for instance, mostly
-  admits more without reshaping much (Rothemund), though not entirely.
+- **That every resource is like heat, or that only heat is.** Other
+  resources in DNA origami also set the costs they pay, but not all the same
+  way. Staple excess has a window of its own: for a single fold, yield falls
+  as excess rises, because two staple molecules can each take one end and
+  block the fold (Majikes et al. 2021). That window is an equilibrium share,
+  which a slower anneal did not change, so more time does not widen it, as it
+  does for heat. Magnesium speeds proper folding and aggregation together
+  (Douglas et al. 2009).
   Which organizational resources reshape the landscape they pay for, the
   way funding can change the incentives it is spent against, is open
   ([QUESTION-374](../questions.d/QUESTION-374.md)).

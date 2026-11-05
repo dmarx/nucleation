@@ -1,0 +1,80 @@
+---
+status: Proposed
+title: 'A proposed factorial assembly study: two scaffold routings of one target crossed with uniform or targeted early stabilization, at fixed geometry and component stock, measured by the committor of partial structures, so that a productive nucleus is one whose formation raises the chance of completion before failure and a trap one that lowers it'
+version: 1
+standing: stipulated
+kind: proposed-study
+tags:
+- natural-sciences
+- complex-systems
+- mathematics
+date: '2026-11-05'
+line:
+- realizability
+variant_of:
+- CASE-tmpu0s44
+illustrates:
+- CLAIM-567
+- CLAIM-185
+summary: >-
+  A's design, from A's second synthesis on DNA origami, pasted by the owner
+  on 2026-11-05, §§3 and 7. It varies A's earlier proposed study
+  (CASE-tmpu0s44) in two respects: routing architecture becomes a factor,
+  crossed with early stabilization, and the main measurement becomes the
+  committor q(s) = Pr_s(τ_F < τ_K) of a partial structure s, the chance of
+  reaching the target F before a designated failure set K. A productive
+  nucleus is then one whose specified formation raises q, Δq_N > 0, and a
+  trap one that lowers it, rather than any early or stable structure. Dunn
+  et al. and DeLuca et al. ran the routing half in experiment and
+  simulation. The wording is A's; adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CASE-tmpu0s44 CLAIM-567 CLAIM-185 CLAIM-184 THEORY-1398 — Proposed; the study it varies and the entries it would test -->
+
+# CASE-tmpvdu02: A proposed factorial assembly study: two scaffold routings of one target crossed with uniform or targeted early stabilization, at fixed geometry and component stock, measured by the committor of partial structures, so that a productive nucleus is one whose formation raises the chance of completion before failure and a trap one that lowers it
+
+## The case
+
+A: "Hold fixed the required final geometry and the total quantity of
+assembly components, to the extent that the physical design permits. Then
+compare different routing architectures and controlled initial assembly
+conditions."
+
+| | Uniform initial conditions | Targeted early stabilization |
+|---|---|---|
+| Routing A | A1 | A2 |
+| Routing B | B1 | B2 |
+
+A notes: "The four conditions are proposed experiments, not observed
+outcomes. The target fold must be verified as comparable across designs."
+A's measurements:
+
+- nucleation times and locations;
+- the completion probability given particular early intermediates;
+- the yield at a fixed horizon;
+- the time spent in long-lived traps;
+- the persistence of the completed structure under a later perturbation.
+
+The key quantity is the committor, q(s) = Pr_s(τ_F < τ_K), and the effect
+of forming a specified substructure N, Δq_N = q(s | do(N)) − q(s),
+"provided the intervention is explicitly specified and physically
+meaningful". In A's words: "A partial structure that appears quickly but
+decreases that probability would be a kinetic trap, not a productive
+nucleus."
+
+## What it can show
+
+- **A test for CLAIM-185.** It asks when a persistent anchor helps, and
+  separates productive nuclei from early structures that entrench
+  (CLAIM-184).
+- **Progress is not completion.** Partial structures with equal completion
+  counts but different committors. DeLuca et al.'s run that was best folded
+  at 1 s and second worst at 3.6 s (THEORY-1398) is the simulated instance.
+- **Done in part already.** Dunn et al. vary seam routing and measure final
+  shape distributions; Schneider, Möritz and Dietz delete early segments
+  and find the intermediate abolished and folding slowed by hours. These are
+  the routing column and an intervention on N, though neither measures a
+  committor.
+
+Being stipulated, it shows nothing until run. The committor needs a failure
+set K declared in advance, so what counts as a trap is part of the design,
+not a finding.

@@ -17,7 +17,8 @@ summary: >-
   nucleates, even when the set of attainable final forms remains the
   same?" A grounds it in Wah et al.'s 2016 report that raising the
   concentration of the centre staples moves where a DNA origami rectangle
-  starts folding. Dunn et al.'s result, filed in the same pull request,
+  starts folding; the reading shows the edge staples were cut and the total
+  raised at the same time, so no fixed stock was reallocated. Dunn et al.'s result, filed in the same pull request,
   answers its molecular form in part: changing only the stability of
   intermediates redirects one template among final shapes of about equal
   free energy. Whether an organizational form behaves so needs a mechanism
@@ -56,10 +57,20 @@ the constraints, selects the outcome.
   mechanism carries over, an allocation can select among final forms
   wherever early binding is effectively irreversible, and can only reroute
   the path wherever it is not.
-- **Where it may only reroute.** Wah et al., by A's account, changed where
-  folding starts while the final object "remained broadly the same". That
-  fits a design whose intermediates do not lock in. It is unverified until
-  the paper is read.
+- **Where it may only reroute.** Wah et al. 2016, read in this pull request,
+  moved where a rectangle starts folding from the edges to the centre. They
+  did not reallocate a fixed stock, as A's account suggests. The central
+  staples were raised to 670 nM, the edge staples cut to 1.2 nM and the ramp
+  slowed, all at once, so the total rose. Rectangles still formed, but no
+  yield was given under the change. The authors' account is equilibrium:
+  folding starts where staples melt highest, and concentration sets the
+  melting temperature. That is the kT ln c effect above, not A's kinetic
+  competition. The reading shows the path rerouted; it does not show the
+  final form selected.
+- **Where allocation has a window.** Majikes et al. 2021: a single fold's
+  yield falls as staple excess rises, because two staples can each take one
+  end of the fold and block it. The ratio of components, not only their
+  amount, decides whether the target forms.
 
 ## What would answer it
 
