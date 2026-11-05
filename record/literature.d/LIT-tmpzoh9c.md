@@ -1,0 +1,115 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmpmcdju) from the open full text in Europe PMC,
+  the whole main text with Scheme 1 and the legends of Figures 1–4, the
+  Supporting Information not read; worth reading as the experimental
+  demonstration that folded DNA origami can be repaired from strands
+  supplied in solution, indiscriminately by turnover of weakly bound
+  labels and selectively where damage exposes a scaffold toehold, with
+  measures of how complete repair is, how long it lasts and at what damage
+  rate it fails. Its main limits: the toehold evidence, the annealing ramp
+  and the multi-cycle data are known only as the main text reports them;
+  no repair rate constants; nuclease-made toeholds inferred, not observed;
+  surface-immobilized structures; the supply never withdrawn; the strand
+  pool's cost not reported; the scaffold cannot be repaired.
+title: 'Self‐Regeneration and Self‐Healing in DNA Origami Nanostructures'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's invitation to add
+    readings to the DNA origami filing (works chosen by the assistant),
+    picked by the reader after a short bounded search (arXiv API, Europe
+    PMC, Crossref) as the one open, primary, experimental paper on
+    repairing folded origami. The citation was checked against Crossref
+    (no mailto) and Europe PMC: Michael Scheckenbach, Tom Schubert, Carsten
+    Forthmann, Viktorija Glembockyte and Philip Tinnefeld, Angewandte
+    Chemie International Edition 60(9), 4931–4938, online 28 January 2021,
+    which is `published:`, issue 23 February 2021; PMC7986372, PMID
+    33230933; CC BY 4.0. Crossref created the record on 24 November 2020,
+    probably for the Accepted Article, but no source states an earlier
+    exact publication date. No arXiv or bioRxiv version was found. No
+    correction was needed. Read from the Europe PMC full-text XML
+    (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7986372/fullTextXML);
+    the Supporting Information, listed there only as an additional data
+    file, was not read. Status Active.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-05'
+published: '2021-01-28'
+doi: '10.1002/anie.202012986'
+first_author: 'Scheckenbach'
+keywords:
+- 'DNA origami'
+- 'self-healing'
+- 'self-regeneration'
+- 'strand displacement'
+- 'toehold'
+- 'DNA-PAINT'
+- 'nuclease degradation'
+- 'photobleaching'
+implementations: []
+summary: >-
+  Scheckenbach, Schubert, Forthmann, Glembockyte & Tinnefeld (2021).
+  Self-regeneration, steady exchange of all units with intact ones, and
+  self-healing, exchange of defective units only, shown in DNA origami.
+  Transiently binding 13-nt dye labels exchanging with a 5 nM pool recover
+  after photobleaching over about three hours, fully when photostabilized.
+  A 12-helix bundle missing nine staples takes them up from a 300× excess
+  cooled from 50 °C, halving the defective fraction. Added staples enter
+  an intact structure only where a 4 or 8 nt toehold is exposed. In 0.2%
+  serum a pool of matching staples keeps 76% of nanorulers intact over 11
+  days, against 12% without and 56% with non-matching DNA; in 10% serum it
+  does no better than non-matching DNA. All repair draws on supplied
+  strands, and the scaffold cannot be repaired.
+---
+<!-- inactive-ok-file: THEORY-tmpy8h1y CLAIM-566 CLAIM-569 — Proposed or new; cited from the reading of Scheckenbach et al. (2021) as open -->
+
+# LIT-tmpzoh9c: Self‐Regeneration and Self‐Healing in DNA Origami Nanostructures
+
+Scheckenbach, M., Schubert, T., Forthmann, C., Glembockyte, V. & Tinnefeld, P. (2021). Self‐Regeneration and Self‐Healing in DNA Origami Nanostructures. *Angewandte Chemie International Edition* 60(9): 4931–4938. doi:10.1002/anie.202012986.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpmcdju. The main text only; places are figures.*
+
+- **Two kinds of repair** (Scheme 1): self-regeneration, "Steady‐state
+  exchange of random building units (intact and defective) with intact
+  building units", and self-healing, "specific exchange of defective
+  building units".
+- **Labels regenerate** (Fig. 1): transient labels "recovered over the
+  course of three hours" but "saturated at 20–60 % of the initial
+  fluorescence intensity"; with oxygen removal and ROXS "the
+  self‐regenerating label recovered completely to 100 % of its initial
+  brightness".
+- **Missing staples, partly** (Fig. 2): a 300× excess cooled from 50 °C
+  gave a "decrease of the defective fraction from initially 63 % to only
+  32 %".
+- **Selectivity by toehold** (main text on Figs. S8, S9): exchange of a
+  defective staple "is kinetically and thermodynamically feasible due to the
+  incomplete hybridization to the scaffold, while intact staple strands are
+  not replaced."
+- **Only below a damage rate** (Fig. 3): in 0.2% serum 76% of nanorulers
+  intact at day 11 with matching staples, against 12% and 56%; in 10% serum
+  "fast degradation under these conditions cannot be compensated by
+  self‐healing".
+- **Limits**: "only staple strands can be repaired via this approach, while
+  damages to the long DNA scaffold strand cannot be addressed".
+
+## Standing in the record
+
+The record's experimental case of repair in DNA origami, and so the
+correction to any reading that origami never repairs itself: staples and
+labels are replaced after damage, but every replacement part comes from
+solution, so it is regeneration without closure (CLAIM-566, TERM-070). It
+also separates the resource that maintains a form, a standing pool at room
+temperature, from the one needed to move a damaged form back, an anneal and
+a 300× excess (CLAIM-569), and it shows a corrective capacity whose value
+depends on the damage rate (CLAIM-520). It is the complement of Ni et al.
+(LIT-tmpairr7), replication from supplied parts with nothing repaired, and
+turns the toehold removal of Douglas, Bachelet and Church (LIT-tmpqorwy)
+into toehold-gated incorporation. The account filed from it is
+THEORY-tmpy8h1y.

@@ -1,0 +1,111 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmpn2voh) from the published version's open full
+  text in Europe PMC, with the Supporting Information read in part from
+  the arXiv v2; worth reading as the first numerical evidence that a
+  nucleation barrier to DNA origami assembly exists and depends on
+  design, set mainly by coaxial stacking between adjacent staples, and as
+  the primary source for that route in Cumberworth and Reinhardt's 2025
+  review (LIT-tmp7dfy2). Its main limits: equilibrium free energies only,
+  with no kinetics, yields or simulated hysteresis; small 2D lattice
+  designs of at most 27 domains; averaged misbinding and no free staples
+  or second scaffolds; model-dependent lower bounds on barrier heights;
+  nothing experimental.
+title: 'Simulations of DNA-Origami Self-Assembly Reveal Design-Dependent Nucleation Barriers'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's invitation to add
+    readings to the DNA origami filing (works chosen by the assistant).
+    The citation was checked against Crossref (no mailto) and the arXiv
+    API: Alexander Cumberworth, Daan Frenkel and Aleks Reinhardt, Nano
+    Letters 22(17), 6916–6922, online 29 August 2022, issue 14 September
+    2022, CC BY 4.0; arXiv:2204.02499, v1 submitted 5 April 2022, which is
+    `published:`, v2 21 March 2023, whose journal reference and DOI name
+    this paper; PMC9479157, PMID 36037484. No correction was needed. The
+    main text was read from the published version's JATS full text in
+    Europe PMC
+    (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9479157/fullTextXML);
+    the Supporting Information was read in part from the arXiv v2 PDF
+    (https://arxiv.org/pdf/2204.02499v2), which includes it. Not held
+    before: no entry cited the arXiv id or the DOI, and NOTE-tmp1fpff names
+    the paper as not held. Status Active.
+tags:
+- natural-sciences
+- complex-systems
+- thermodynamics
+date: '2026-11-05'
+published: '2022-04-05'
+arxiv: '2204.02499'
+doi: '10.1021/acs.nanolett.2c01372'
+first_author: 'Cumberworth'
+keywords:
+- 'DNA origami'
+- 'self-assembly'
+- 'nucleation barrier'
+- 'Monte Carlo simulation'
+- 'lattice model'
+- 'coaxial stacking'
+- 'cooperativity'
+- 'isothermal assembly'
+implementations: []
+summary: >-
+  Cumberworth, Frenkel & Reinhardt (2022). Monte Carlo free-energy
+  calculations of a domain-level lattice model of one scaffold with its
+  staples held at constant chemical potential, for four small planar
+  designs. Three assemble downhill with no nucleation barrier; a
+  maximum-crossover design with three-domain staples has a barrier of
+  about 10 kBT at its melting temperature, about 20 kBT at domain
+  resolution, which vanishes a few degrees below it. Halving the stacking
+  energy removes that barrier and raising it by half creates one in the
+  two-row design, while scaling hybridization strength barely moves it, so
+  coaxial stacking between adjacent staples sets the barrier. The authors
+  take this to explain the success of isothermal folding and ramp
+  hysteresis; kinetics are not simulated.
+---
+<!-- inactive-ok-file: NOTE-tmp1fpff THEORY-1398 THEORY-tmpyfhtk THEORY-tmpfdm4r CLAIM-571 CLAIM-569 CLAIM-tmp7y162 TERM-tmp3awsy — Proposed, Skimmed or new; cited from the reading of Cumberworth, Frenkel and Reinhardt (2022) as open -->
+
+# LIT-tmpog2df: Simulations of DNA-Origami Self-Assembly Reveal Design-Dependent Nucleation Barriers
+
+Cumberworth, A., Frenkel, D. & Reinhardt, A. (2022). Simulations of DNA-Origami Self-Assembly Reveal Design-Dependent Nucleation Barriers. *Nano Letters* 22(17): 6916–6922. doi:10.1021/acs.nanolett.2c01372. arXiv:2204.02499.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpn2voh. Main text unless the SI is named.*
+
+- **Most designs have no barrier.** "The free energies for systems S and D
+  show no nucleation barrier along either order parameter", and the
+  two-row maximum-crossover design "has no nucleation barrier" (Fig. 2).
+- **One does, only near Tm.** The three-row design peaks "at four fully
+  bound staples, with a magnitude of ∼10kBT", and the domain-level peaks
+  give "a total barrier of around 20kBT" (Fig. 2b); below the melting
+  point the barrier "disappears after a few degrees" (Fig. 3a).
+- **Stacking sets it.** Halving the stacking energy "leads to the complete
+  disappearance of the barrier", and in two-row "a clear barrier is seen as
+  the stacking energy is scaled by 1.5 or more" (Fig. 2c); changing
+  hybridization strength by half has "almost no effect on the barrier
+  height" (SI Fig. S10).
+- **Design rationale.** "origami designs either have no barrier or have one
+  that exists only around the melting temperature", so isothermal folding
+  just below Tm meets none. A barrier might help by starting assembly from
+  one place, against "jammed states" from many partial chunks, a
+  conjecture not simulated.
+
+## Standing in the record
+
+The primary evidence behind the 2025 review's claim (LIT-tmp7dfy2,
+NOTE-tmp1fpff) that origami, unlike DNA bricks, needs no nucleation barrier,
+and consistent with it: typical designs are downhill, and a barrier can be
+designed in by high-valency staples, strong stacking and monodisperse staple
+energies. It sets Dannenberg et al.'s hysteresis (LIT-tmpdyrnb,
+THEORY-tmpfdm4r) on the kinetic side, since their kind of design shows no
+barrier here. It is a simulation instance of the record's separation of the
+cost to enter a form from the cost to hold it (CLAIM-571, CLAIM-569), of
+temperature setting whether a barrier exists at all (CLAIM-tmp7y162), and of
+a kinetic nucleus whose productivity is untested (TERM-tmp3awsy,
+QUESTION-380). DeLuca et al.'s global traps (LIT-2081, THEORY-1398) are one
+of the "other kinds of free-energy barriers" the authors concede larger
+designs may have. The account filed from it is THEORY-tmpyfhtk.
