@@ -181,19 +181,19 @@ poverty but rather their circumstances." (p. 31)
 
 ## Connections
 
-- **The Kenya exit study**, Coates et al. (2016), NOTE-tmp46avq and
-  THEORY-tmpukudp: the record's nearest held evidence on what persists
+- **The Kenya exit study**, Coates et al. (2016), [NOTE-tmp46avq](NOTE-tmp46avq.md) and
+  [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md): the record's nearest held evidence on what persists
   after support is withdrawn. There, livestock activities on fees and
   self-financed savings groups held after exit and producer associations
   subsidised to the end declined; here support ends at
   once and persistence turns on the asset's size. The two agree that what lasts
   is what earns its own upkeep after the donor leaves.
-- **Ostrom, Gibson, Shivakumar & Andersson**, THEORY-tmph35ra: the
+- **Ostrom, Gibson, Shivakumar & Andersson**, [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md): the
   beneficiaries' own complementary assets decide success here, echoing
   "contribute their own assets", but the mechanism is scale, not
   motivation or ownership; the aid is one-off, so the Samaritan's dilemma
   is not engaged.
-- **Azam, Devarajan & O'Connell**, THEORY-tmpkkhou: a threshold in
+- **Azam, Devarajan & O'Connell**, [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md): a threshold in
   initial capacity separating a high-aid trap from graduation, at the
   level of the state and in a model; this paper is a household-level,
   empirical threshold in initial assets, with no aid continuing.
@@ -204,7 +204,7 @@ poverty but rather their circumstances." (p. 31)
   countries, the same model of a big push elsewhere; and Haushofer & Fehr
   (2014) on the psychology of poverty, the stress channel this paper
   leaves open.
-- **NOTE-1259** (future-self continuity): tangential, on intertemporal
+- **[NOTE-1259](NOTE-1259.md)** (future-self continuity): tangential, on intertemporal
   choice; the paper's finding that households above the threshold cut
   consumption to invest bears on it.
 
@@ -216,14 +216,14 @@ evidence is mostly about states, projects and public assets under repeated
 or predictable aid, which this paper never tests. What carries across is
 the threshold and nucleus structure, not a behavioural finding about aid.
 
-- **CLAIM-tmpw4ai2 (ignition threshold).** Supports it at household
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (ignition threshold).** Supports it at household
   level. Earnings are A·f(K) and are reinvested, so upkeep draws on the
   structure's own working state; below about 9,309 BDT the seed goes out,
   above it the seed grows. Qualified: the threshold is an average and
   individual thresholds vary; a continuous S and a discontinuity are not
   distinguished; it is a post-training threshold; the claim's "collapses
   rather than declines" and no-relight-after-outage parts are not tested.
-- **CLAIM-tmpc3x0c (safe withdrawal).** Supports its first condition and
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (safe withdrawal).** Supports its first condition and
   its turnover test: a one-off support that started a process running on
   the household's own labour and markets was withdrawn and divergence grew
   for 11 years, and the party did the work (self-employed hours rose).
@@ -232,27 +232,27 @@ the threshold and nucleus structure, not a behavioural finding about aid.
   disuse, slack effort or selection. The claim needs a third outcome, decay
   of a sub-threshold seed with no dependence at all. That damage "deepens
   with its length" is not tested.
-- **CLAIM-tmpqa0qu (Samaritan's dilemma, lost capability).** The
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (Samaritan's dilemma, lost capability).** The
   mechanism is not tested: the help was one-off, not assured. The
   presumption that support lowers the recipient's effort is contradicted
   at household level: recipients above the threshold worked more in the
   long run (fewer hours at year 2) and cut consumption to invest, and the
   poorest women worked the most hours of any class at baseline. Low
   position here is not low effort.
-- **CLAIM-tmpoh07b (supply that does the work crowds out capacity).**
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (supply that does the work crowds out capacity).**
   Supports its capacity-first side: the transfer supplied a complement,
   capital, and did none of the work. Contradicts, for this case, its
   closing "not the amount of supply": permanence was decided by the amount
   relative to a threshold, with a shortfall of about 300 BDT separating
   decline from growth.
-- **CLAIM-597 (supplied upkeep).** Consistent, as its contrast case:
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep).** Consistent, as its contrast case:
   above the threshold the asset is kept up from the household's own
   earnings; below it the asset decays after the one-time supply. Upkeep was
   never supplied, so the claim's core is untested.
-- **CLAIM-558 (capability decays without use).** None directly.
-- **THEORY-tmph35ra.** Partly supports the ownership conditions (see
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (capability decays without use).** None directly.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md).** Partly supports the ownership conditions (see
   Connections); silent on predictable aid.
-- **QUESTION-398 (when a partial organization becomes independent of the
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of the
   intervention that established it).** Answers it in part, close to the
   measurement asked for: support (the asset, 40 weeks of consumption
   support, two years of training) is withdrawn from a range of
@@ -261,7 +261,7 @@ the threshold and nucleus structure, not a behavioural finding about aid.
   reverts. There is no arm in which support is kept, and the escape takes
   years after support ends, which tells against "merely completed before
   withdrawal".
-- Filed: THEORY-tmp5v6r5. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md). No instruction for machine-learning practice.
 
 ## Limitations
 

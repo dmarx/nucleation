@@ -150,7 +150,7 @@ hardly "viewed as being a social bad" (p. 19).
 
 ## Connections
 
-- Evans & Popova (LIT-tmp7ipq9), filed with it, is the spending-side
+- Evans & Popova ([LIT-tmp7ipq9](../literature.d/LIT-tmp7ipq9.md)), filed with it, is the spending-side
   counterpart: transfers are not diverted to alcohol and tobacco.
 - With the other works of this batch: Banerjee et al. (2017), on the same
   government-transfer trials this review leans on in result 2; Banerjee et
@@ -159,10 +159,10 @@ hardly "viewed as being a social bad" (p. 19).
   Haushofer & Fehr (2014) on a psychological route from poverty to the
   behaviour read as character.
 - The record's dependency evidence is state- and project-level:
-  THEORY-tmph35ra (Ostrom et al., donor-funded upkeep), THEORY-tmpkkhou
-  (Azam et al.), THEORY-tmpukudp (Food for Peace in Kenya). This review is
+  [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al., donor-funded upkeep), [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md)
+  (Azam et al.), [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md) (Food for Peace in Kenya). This review is
   household-level and tests none of them.
-- Same form as THEORY-470: decay explained by weakened constraints, not
+- Same form as [THEORY-470](../theory.d/THEORY-470.md): decay explained by weakened constraints, not
   by a change in character.
 
 ## Bearing on the record
@@ -175,7 +175,7 @@ What it removes is that household analogy; what it supports is the
 distinction between support that relaxes a constraint while the recipient
 does the work and support that replaces the work.
 
-- **CLAIM-tmpc3x0c (safe withdrawal; disuse, slack effort, selection).**
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (safe withdrawal; disuse, slack effort, selection).**
   Contradicts slack effort as a general household-level route: assured cash
   did not lower prime-age effort under government transfers, charitable
   cash or remittances (results 2, 6, 8, 12). Supports its conditions that
@@ -184,37 +184,37 @@ does the work and support that replaces the work.
   (result 11), while small unconditional grants faded (result 10). Supports
   showing persistence after withdrawal, since impacts at exit overstated in
   Kenya and Malawi (results 5, 10).
-- **CLAIM-tmpqa0qu (Black Queen loss; Samaritan's logic).** Contradicts it
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (Black Queen loss; Samaritan's logic).** Contradicts it
   as a prediction for poor households: where constraints bind, cash
   complements effort. Fits it only where nothing binds, the pensioners
   (result 4), whom the authors judge harmless. The loss-of-capability
   channel itself, scarring, is ungraded for want of evidence (result 13).
-- **CLAIM-tmpoh07b (supply that does the work crowds out capacity).**
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (supply that does the work crowds out capacity).**
   Qualifies, consistent in its terms: cash does not do the household's
   work, it covers what the household cannot yet do, the claim's benign
   case, and work rises. It does not test the harmful case.
-- **CLAIM-tmpw4ai2 (thresholds).** Weak and indirect: graduation gains
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds).** Weak and indirect: graduation gains
   concentrate at the top of the distribution (result 11), consistent with
   gains needing a starting stock but not a threshold estimate; note 1
   reports Kraay and McKenzie finding poverty-trap evidence weak.
-- **CLAIM-597 (supplied repair decays on withdrawal).** None directly; the
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied repair decays on withdrawal).** None directly; the
   graduation persistence after cessation is a counter-pattern where support
   built a self-run asset, consistent with the claim's exclusion of systems
   that make their own parts.
-- **CLAIM-558 (disuse decay).** The review reports no evidence among
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (disuse decay).** The review reports no evidence among
   workers for the disuse channel (result 13); absence of evidence, not a
   test.
-- **THEORY-tmph35ra (Ostrom et al.).** Contradicts its behavioural premise
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al.).** Contradicts its behavioural premise
   carried down to households; leaves its own domain, donor-funded
   infrastructure upkeep, untested. The business grants that worked were
   conditional on investing, loosely like its ownership conditions.
-- **QUESTION-398 (when a partial organization becomes independent).** The
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent).** The
   best household evidence on post-withdrawal persistence is the graduation
   result: gains held one and two years after support ended, concentrated
   where households started better off; small grants show the gains
   vanishing.
 
-Filed from it: THEORY-tmp5zz46. No instruction for machine-learning
+Filed from it: [THEORY-tmp5zz46](../theory.d/THEORY-tmp5zz46.md). No instruction for machine-learning
 practice.
 
 ## Limitations

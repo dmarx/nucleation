@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpicnhp) as NBER Working Paper 28074
+  read in full 2026-11-05 ([NOTE-tmpicnhp](../notes.d/NOTE-tmpicnhp.md)) as NBER Working Paper 28074
   (November 2020, revised June 2021), not the AER: Insights version of
   record; worth reading as the longest randomized follow-up on the record
   of a one-time push to the poorest households: in West Bengal the effects
@@ -83,7 +83,7 @@ Banerjee, A., Duflo, E. & Sharma, G. (2021). Long-Term Effects of the Targeting 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpicnhp. Pages are the working paper's printed pages.*
+*From the reading, [NOTE-tmpicnhp](../notes.d/NOTE-tmpicnhp.md). Pages are the working paper's printed pages.*
 
 - **Support ended at 18 months.** "Bandhan had no contact with beneficiary
   households starting 18 months after the asset transfer" (p. 5).
@@ -104,11 +104,11 @@ Banerjee, A., Duflo, E. & Sharma, G. (2021). Long-Term Effects of the Targeting 
 
 ## Standing in the record
 
-Registered beside LIT-tmpcs39o as a counterpoint to the branch's dependency
-claims. It meets the test CLAIM-tmpc3x0c sets, persistence long after
+Registered beside [LIT-tmpcs39o](LIT-tmpcs39o.md) as a counterpoint to the branch's dependency
+claims. It meets the test [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) sets, persistence long after
 withdrawal, better than any household case on the record: effects grew for
 years after all contact ended. It contradicts, for this kind of support, the
-expectation in CLAIM-tmpqa0qu and THEORY-tmph35ra that help leaves the
+expectation in [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) and [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) that help leaves the
 recipient less capable; the help was one-off, so the premise of assured help
 is absent. One site, the most favourable in 2015, and households, not
-states. Filed from it: THEORY-tmpv02zm.
+states. Filed from it: [THEORY-tmpv02zm](../theory.d/THEORY-tmpv02zm.md).

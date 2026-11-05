@@ -139,13 +139,13 @@ social-desirability argument, which rests on these figures.
 
 ## Connections
 
-- Baird, McKenzie & Özler (2018), LIT-tmpwnkhk, filed with it, is the
+- Baird, McKenzie & Özler (2018), [LIT-tmpwnkhk](../literature.d/LIT-tmpwnkhk.md), filed with it, is the
   labour-side counterpart: transfers do not make prime-age adults work
   less.
 - With the other works of this batch: Banerjee et al. (2017) on the
   lazy-welfare-recipient stereotype; Haushofer & Fehr (2014) on poverty
   producing the short horizons read as character.
-- THEORY-067 (Ainslie on self-control as bargaining among interests that
+- [THEORY-067](../theory.d/THEORY-067.md) (Ainslie on self-control as bargaining among interests that
   dominate at different delays) is the theory behind the "temptation"
   label; this review finds that the label does not predict what
   recipients do with transfers.
@@ -160,24 +160,24 @@ mechanisms (tax learning, the fiscal contract, upkeep of donor-funded
 assets). A state-level dependency claim may borrow the household
 intuition rhetorically; this evidence does not back it.
 
-- **CLAIM-tmpc3x0c.** Contradicts any reading of "slack effort" as
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md).** Contradicts any reading of "slack effort" as
   recipients diverting help to consumption that undermines them: the
   diversion is not found, and it does not grow with duration (result 5).
   Bears on neither the flux nor the threat condition.
-- **CLAIM-tmpqa0qu.** None on lost capability. Qualifies its premise that
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md).** None on lost capability. Qualifies its premise that
   one-way supply is used against the recipient's interest; the parity of
   conditional and unconditional programs (result 5) suggests conditions
   are not what keeps use productive.
-- **CLAIM-tmpoh07b.** None: spending composition is not capacity learned
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md).** None: spending composition is not capacity learned
   by doing.
-- **CLAIM-tmpw4ai2, CLAIM-597, QUESTION-398.** None; no threshold and no
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md), [CLAIM-597](../claims.d/CLAIM-597.md), [QUESTION-398](../questions.d/QUESTION-398.md).** None; no threshold and no
   post-withdrawal outcome is measured.
-- **THEORY-tmph35ra (Ostrom et al.).** Contradicts, weakly and indirectly,
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al.).** Contradicts, weakly and indirectly,
   the Samaritan's-dilemma picture of recipients when carried down to poor
   households; its own domain, the upkeep of donor-funded infrastructure,
   is untested here.
 
-Filed from it: THEORY-tmpvmj93. No instruction for machine-learning
+Filed from it: [THEORY-tmpvmj93](../theory.d/THEORY-tmpvmj93.md). No instruction for machine-learning
 practice.
 
 ## Limitations

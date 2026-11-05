@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpit9mn
 summary: >-
-  Banerjee, Duflo & Sharma (2021), LIT-tmpit9mn, read in full in
-  NOTE-tmpicnhp as the NBER working paper (the version of record and the
+  Banerjee, Duflo & Sharma (2021), [LIT-tmpit9mn](../literature.d/LIT-tmpit9mn.md), read in full in
+  [NOTE-tmpicnhp](../notes.d/NOTE-tmpicnhp.md) as the NBER working paper (the version of record and the
   appendix not read). Proposed: one site, the most favourable of the six in
   Banerjee et al. (2015), 978 households with 52% take-up and 71% tracked
   across all waves. The control group also grew fast, and the authors say
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Banerjee, Duflo & Sharma (2021), LIT-tmpit9mn; read in NOTE-tmpicnhp as NBER
+Banerjee, Duflo & Sharma (2021), [LIT-tmpit9mn](../literature.d/LIT-tmpit9mn.md); read in [NOTE-tmpicnhp](../notes.d/NOTE-tmpicnhp.md) as NBER
 Working Paper 28074.
 
 ## What was actually shown

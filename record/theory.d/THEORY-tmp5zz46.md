@@ -20,8 +20,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpwnkhk
 summary: >-
-  Baird, McKenzie & Özler (2018), LIT-tmpwnkhk, read in its working-paper
-  version in NOTE-tmpxsjeo. Proposed: a narrative review of studies the
+  Baird, McKenzie & Özler (2018), [LIT-tmpwnkhk](../literature.d/LIT-tmpwnkhk.md), read in its working-paper
+  version in [NOTE-tmpxsjeo](../notes.d/NOTE-tmpxsjeo.md). Proposed: a narrative review of studies the
   authors judge well-identified, with no pooled estimates, so "little changed"
   in the title is a reading of significance, not a bounded effect. It is about
   households, not states or projects, and its base is mostly temporary,
@@ -35,8 +35,8 @@ summary: >-
 
 ## Source
 
-Baird, McKenzie & Özler (2018), LIT-tmpwnkhk; read as World Bank Policy
-Research Working Paper 8404 in NOTE-tmpxsjeo.
+Baird, McKenzie & Özler (2018), [LIT-tmpwnkhk](../literature.d/LIT-tmpwnkhk.md); read as World Bank Policy
+Research Working Paper 8404 in [NOTE-tmpxsjeo](../notes.d/NOTE-tmpxsjeo.md).
 
 ## What was actually shown
 
@@ -68,10 +68,10 @@ Research Working Paper 8404 in NOTE-tmpxsjeo.
   from the pattern, and Table 2 grades several channels as without
   evidence, scarring among them.
 - That dependable, permanent, announced support leaves work unchanged:
-  that is the case the base lacks, and the one CLAIM-tmpqa0qu and
-  THEORY-tmph35ra are about.
+  that is the case the base lacks, and the one [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) and
+  [THEORY-tmph35ra](THEORY-tmph35ra.md) are about.
 - Anything about states, ministries or projects: the evidence is
   household-level, and it removes the household analogy behind
-  CLAIM-tmpc3x0c's "slack effort" without testing its state-level forms.
+  [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)'s "slack effort" without testing its state-level forms.
 - That the effects persist: few studies measure after transfers stop, and
   small Kenyan grants faded.

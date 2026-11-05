@@ -20,8 +20,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp1b9oy
 summary: >-
-  Kline & Moretti (2014), LIT-tmp1b9oy, read from the June 2014 NBER
-  revision in NOTE-tmp0lzl8. Proposed: the reduced form rests on selection
+  Kline & Moretti (2014), [LIT-tmp1b9oy](../literature.d/LIT-tmp1b9oy.md), read from the June 2014 NBER
+  revision in [NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md). Proposed: the reduced form rests on selection
   on observables with imputed control borders and data the authors call
   "not ideal"; the structural verdict rests on productivity shocks
   independent over 20 years, a labour-demand elasticity set at 1.5, and an
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Kline & Moretti (2014), LIT-tmp1b9oy; read in NOTE-tmp0lzl8 from NBER
+Kline & Moretti (2014), [LIT-tmp1b9oy](../literature.d/LIT-tmp1b9oy.md); read in [NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md) from NBER
 w19293, revised June 2014. The typeset version of record and the Online
 Appendix A1–A4 were not read. Page numbers are the working paper's.
 
@@ -90,12 +90,12 @@ manufacturing could have reverted with agriculture.
 
 ## Connections
 
-- **THEORY-919 (Juhász).** Temporary protection followed by persistent
+- **[THEORY-919](THEORY-919.md) (Juhász).** Temporary protection followed by persistent
   manufacturing, fading by 1896: what slow reversion under a unique
   equilibrium predicts. This test is one Juhász does not run.
-- **THEORY-863 (Arthur) and THEORY-885 (Pierson).** Increasing returns
+- **[THEORY-863](THEORY-863.md) (Arthur) and [THEORY-885](THEORY-885.md) (Pierson).** Increasing returns
   here are positive but too weakly curved for lock-in.
-- **CLAIM-tmpc3x0c and CLAIM-tmpw4ai2.** Persistence through decades is
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) and [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md).** Persistence through decades is
   not by itself evidence of self-sustainment or of a crossed ignition
   threshold.
 - Neumark and Simpson (2015), filed beside it, summarize this result in

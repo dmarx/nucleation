@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpy2r15) from the published version
+  read in full 2026-11-05 ([NOTE-tmpy2r15](../notes.d/NOTE-tmpy2r15.md)) from the published version
   posted in the World Bank Open Knowledge Repository; worth reading as
   the pooled, harmonized re-analysis of seven randomized evaluations of
   government cash transfer programmes in six countries that bounds the
@@ -77,7 +77,7 @@ summary: >-
   (targeting barely tied to current income) and contrast it, from cited
   studies, with asset and graduation programmes, which raise work.
 ---
-<!-- inactive-ok-file: NOTE-tmpy2r15 THEORY-tmp7qas0 CLAIM-tmpc3x0c CLAIM-tmpqa0qu CLAIM-tmpoh07b THEORY-tmph35ra — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
+<!-- inactive-ok-file: THEORY-tmp7qas0 CLAIM-tmpc3x0c CLAIM-tmpqa0qu CLAIM-tmpoh07b THEORY-tmph35ra — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
 
 # LIT-tmptmm0j: Debunking the Stereotype of the Lazy Welfare Recipient: Evidence from Cash Transfer Programs
 
@@ -85,7 +85,7 @@ Banerjee, A. V., Hanna, R., Kreindler, G. E. & Olken, B. A. (2017). Debunking th
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpy2r15. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpy2r15](../notes.d/NOTE-tmpy2r15.md). Page numbers are the journal's.*
 
 - **No programme cuts hours.** Of seven, one changes participation, in
   Honduras, "the least generous program", by 3 points at the 10% level,
@@ -116,9 +116,9 @@ that tests the effort response to assured support directly, and the
 response is null while support continues: help assured for two to nine
 years, and for about half the programmes not withdrawn as earnings rose,
 did not lower work. That cuts against carrying the Samaritan's-dilemma
-logic of THEORY-tmph35ra, CLAIM-tmpqa0qu and the "slack effort" route of
-CLAIM-tmpc3x0c down to households. It does not test what happens after
+logic of [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md), [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) and the "slack effort" route of
+[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) down to households. It does not test what happens after
 support is withdrawn, and it is about small household transfers, not
-the state-level aid on which the aid batch rests; CLAIM-tmpoh07b's
+the state-level aid on which the aid batch rests; [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)'s
 distinction (supply that does the work against supply that supplements
-it) is the frame it fits. Filed from it: THEORY-tmp7qas0.
+it) is the frame it fits. Filed from it: [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md).

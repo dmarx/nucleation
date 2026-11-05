@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpxsjeo) in its World Bank working-paper
+  read in full 2026-11-05 ([NOTE-tmpxsjeo](../notes.d/NOTE-tmpxsjeo.md)) in its World Bank working-paper
   version, Policy Research Working Paper 8404, from the World Bank's own
   copy, very likely the submitted manuscript; the journal text was not
   read. Worth reading as the standard overview of how adults' work and
@@ -81,7 +81,7 @@ Baird, S., McKenzie, D. & Özler, B. (2018). The effects of cash transfers on ad
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpxsjeo. Page numbers are the working paper's.*
+*From the reading, [NOTE-tmpxsjeo](../notes.d/NOTE-tmpxsjeo.md). Page numbers are the working paper's.*
 
 - **The prediction fails for prime-age adults.** The labour-leisure
   model says recipients "should work less and earn less" (p. 3); in fact
@@ -111,10 +111,10 @@ Filed as a counterpoint to the branch's dependency claims. It is about
 households and individuals, not states or projects, so it does not test
 the record's state- and project-level aid evidence. What it removes is the
 household analogy behind them: assured cash does not, as a rule, make poor
-adults work less, so "slack effort" in CLAIM-tmpc3x0c and the Samaritan's
-logic of CLAIM-tmpqa0qu and THEORY-tmph35ra cannot borrow support from
-that intuition. What it supports is the distinction CLAIM-tmpoh07b draws:
+adults work less, so "slack effort" in [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) and the Samaritan's
+logic of [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) and [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) cannot borrow support from
+that intuition. What it supports is the distinction [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) draws:
 cash that relaxes a constraint while the recipient does the work raises
 effort. It is the household evidence's own limit that the case the
 record's claims are about, dependable and permanent support, is the one it
-leaves untested. Filed from it: THEORY-tmp5zz46.
+leaves untested. Filed from it: [THEORY-tmp5zz46](../theory.d/THEORY-tmp5zz46.md).

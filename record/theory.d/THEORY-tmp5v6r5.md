@@ -19,8 +19,8 @@ source:
 bears_on:
 - QUESTION-398
 summary: >-
-  Balboni, Bandiera, Burgess, Ghatak & Heil (2022), LIT-tmp6ej76, read in
-  NOTE-tmp6tzyt from the accepted NBER version. BRAC's one-off asset
+  Balboni, Bandiera, Burgess, Ghatak & Heil (2022), [LIT-tmp6ej76](../literature.d/LIT-tmp6ej76.md), read in
+  [NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md) from the accepted NBER version. BRAC's one-off asset
   transfer, with randomized roll-out and 11 years of follow-up: the
   threshold is about 9,309 BDT, and the authors conclude "It is not their
   intrinsic characteristics that trap people in poverty but rather their
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Balboni, Bandiera, Burgess, Ghatak & Heil (2022), LIT-tmp6ej76; read in NOTE-tmp6tzyt (NBER Working Paper 29340, printed pages).
+Balboni, Bandiera, Burgess, Ghatak & Heil (2022), [LIT-tmp6ej76](../literature.d/LIT-tmp6ej76.md); read in [NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md) (NBER Working Paper 29340, printed pages).
 
 ## What was actually shown
 
@@ -77,10 +77,10 @@ Balboni, Bandiera, Burgess, Ghatak & Heil (2022), LIT-tmp6ej76; read in NOTE-tmp
   those who start above the threshold end up at least retaining the value
   of the transfer in 2018 while only 30% of those below do" (p. 23).
 - Anything about repeated or assured help, the Samaritan's-dilemma case of
-  CLAIM-tmpqa0qu: the help was one-off. It cuts against reading low
+  [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md): the help was one-off. It cuts against reading low
   position as low effort at household level, not against that mechanism
   where it applies; nor does it test the length-of-support part of
-  CLAIM-tmpc3x0c.
+  [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md).
 - Anything about states, projects or public assets.
 - That the NBER text's participation figure is right: it says "above 80%
   in all wealth classes" (p. 7) where Table I shows 0.67 to 0.74.

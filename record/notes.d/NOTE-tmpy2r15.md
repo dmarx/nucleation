@@ -170,47 +170,47 @@ negative effects" (p. 175).
 ## Connections
 
 The household counterpart, and counterweight, to the aid batch's
-state-level dependency accounts: THEORY-tmph35ra (Ostrom et al., the
-Samaritan's dilemma in aid), THEORY-tmpkkhou (Azam et al., tax capacity
-lost under gap-filling aid), THEORY-tmp0qrm2 (Moss et al.) and
-THEORY-tmp02gkd (Moore, revenue source and capacity). Figure 1, beliefs
+state-level dependency accounts: [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al., the
+Samaritan's dilemma in aid), [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md) (Azam et al., tax capacity
+lost under gap-filling aid), [THEORY-tmp0qrm2](../theory.d/THEORY-tmp0qrm2.md) (Moss et al.) and
+[THEORY-tmp02gkd](../theory.d/THEORY-tmp02gkd.md) (Moore, revenue source and capacity). Figure 1, beliefs
 about the lazy poor going with smaller programmes, is a policy-feedback
-observation of the kind LIT-1493 (Pierson) is about. THEORY-470's
+observation of the kind [LIT-1493](../literature.d/LIT-1493.md) (Pierson) is about. [THEORY-470](../theory.d/THEORY-470.md)'s
 structural-not-character account of platform decay is a distant parallel
 to the paper's explanation by programme design rather than by recipients'
 character.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c** (safe withdrawal of transient support). Contradicts
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)** (safe withdrawal of transient support). Contradicts
   its "slack effort" route as a general mechanism: help assured for two to
   nine years, and for about half the programmes not withdrawn as earnings
   rose, did not lower effort, pooled or for men. Supports, second-hand, its
   condition that the party do the work: support that needs the party's
   labour, a productive asset, raised work by 10–19%. Silent on what happens
   after withdrawal.
-- **CLAIM-tmpqa0qu** (the Black Queen and the Samaritan's logic).
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)** (the Black Queen and the Samaritan's logic).
   Contradicts the step from the dilemma's logic to an observed fall in
   effort among households: one-way transfers set from outside did not
   produce it within the observed horizon. It does not test loss of skill
   over decades.
-- **CLAIM-tmpoh07b** (supply that does the work crowds out capacity).
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (supply that does the work crowds out capacity).
   Consistent, and qualifies its reach: transfers of 4–20% of consumption
   supplement the household's work rather than doing it, so by the claim's
   own distinction no crowd-out is expected, and none is seen. The claim
   should not be cited for welfare transfers. The paper's design point, that
   effort falls when benefits are withdrawn as one's own effort rises, not
   because support is assured, sharpens the claim's ordering condition.
-- **CLAIM-tmpw4ai2** (thresholds). Little: the poverty trap is named as a
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)** (thresholds). Little: the poverty trap is named as a
   route to more work, but no threshold is estimated; that lump-sum assets
   outperform small flows is suggestive and second-hand.
-- **CLAIM-597** (supplied upkeep and decay on withdrawal). None directly;
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (supplied upkeep and decay on withdrawal). None directly;
   there are no data after withdrawal.
-- **THEORY-tmph35ra**. Qualifies it, and contradicts it if read as being
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md)**. Qualifies it, and contradicts it if read as being
   about households: the theory's "best response is to expend a low level of
   effort" should be held as a construction about the upkeep of donor-built
   assets, not as a fact about recipients in general.
-- **QUESTION-398**. None directly: effort is measured under continuing
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**. None directly: effort is measured under continuing
   support. The graduation results, gains four years on after a stipend of
   at most six months, are the nearest analogue to a nucleus that keeps
   growing once support ends, and they are second-hand.
@@ -220,7 +220,7 @@ character.
   upkeep. The finding does not refute state-level substitution, but it does
   refute carrying the dependency story from states down to households.
 
-Filed from it: THEORY-tmp7qas0.
+Filed from it: [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md).
 
 ## Limitations
 

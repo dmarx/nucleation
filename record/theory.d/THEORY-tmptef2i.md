@@ -25,8 +25,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpbz0oy
 summary: >-
-  Neumark & Simpson (2015), LIT-tmpbz0oy, read from the 2014 NBER working
-  paper (w20049) in NOTE-tmp9y93b; the published chapter was not read.
+  Neumark & Simpson (2015), [LIT-tmpbz0oy](../literature.d/LIT-tmpbz0oy.md), read from the 2014 NBER working
+  paper (w20049) in [NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md); the published chapter was not read.
   This is the authors' summary of other studies, not a finding of their
   own: the TVA results are Kline and Moretti's (2014), the relocation and
   capitalization results those of the zone evaluations they review, and
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-Neumark & Simpson (2015), LIT-tmpbz0oy; read in NOTE-tmp9y93b from NBER
+Neumark & Simpson (2015), [LIT-tmpbz0oy](../literature.d/LIT-tmpbz0oy.md); read in [NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md) from NBER
 Working Paper 20049 (April 2014, revised August 2014), not from the
 published chapter. Page numbers are the working paper's.
 

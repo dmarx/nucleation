@@ -182,7 +182,7 @@ infrastructure supplied once and then left to residents.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c (the synthesis).** Supports its first and third
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (the synthesis).** Supports its first and third
   conditions: one-off support (1975–84, with fees barely collected)
   started a loop that kept itself up, and residents did the building
   throughout. It adds two conditions the synthesis lacks: enough of the
@@ -192,49 +192,49 @@ infrastructure supplied once and then left to residents.
   the threat gone, maps only loosely onto formal plots resolving a
   coordination failure. Persistence is one snapshot; there is no time path
   and no withdrawal in the strict sense.
-- **CLAIM-tmpw4ai2 (ignition, collapse, hysteresis).** Supports it by
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (ignition, collapse, hysteresis).** Supports it by
   analogy. The model is a state-dependent upkeep: high-quality
   infrastructure holds only if the high-quality housing share is above φ,
   and otherwise falls to a lower level and stays there; the inaction zone is
   a hysteresis analogue. The empirics fit this but neither estimate φ nor
   show bistability.
-- **CLAIM-tmpoh07b (support that does the work crowds out capacity).**
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support that does the work crowds out capacity).**
   Supports the ordering point loosely: the projects supplied only what
   residents could not do (plots, trunk roads, mains) and left the houses to
   them, and private investment was crowded in. The failure of upgrading is
   not a loss of learned capacity but sunk stock and credit constraints, so
   the mechanism differs from learning by doing.
-- **CLAIM-597 (supplied upkeep never becomes optional).** Supports it:
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional).** Supports it:
   where nothing local kept the infrastructure up, in upgrading areas, it
   deteriorated for lack of maintenance; where it persisted, the model
   credits owners' investment, not continued supply.
-- **CLAIM-tmpqa0qu (one-way against reciprocal supply).** Little bearing.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (one-way against reciprocal supply).** Little bearing.
   The reciprocal element (ground rent and service charges) was mostly not
   collected, so the support was in effect one-way and one-off, and still did
   not create dependence; but nothing went on being supplied.
-- **QUESTION-398 (independence from the founding intervention).** A
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** A
   positive case with conditions: planned neighbourhoods kept the
   intervention's structure for decades without it, given an empty starting
   state and enough capable participants; the same intervention on a
   built, poor state did not take. Intermediate states and the timing of
   withdrawal are not tested.
-- **THEORY-919 (Juhász, temporary protection).** A parallel: a temporary,
+- **[THEORY-919](../theory.d/THEORY-919.md) (Juhász, temporary protection).** A parallel: a temporary,
   place-specific intervention leaving a persistent local advantage. Juhász's
   effect fades by 1896; this paper has no fade test. Its local
   identification is stronger, and its upgrading arm supplies a contrast
   Juhász lacks: the same spending on a different starting state.
-- **Others.** THEORY-tmp6lw73 (Kadowaki et al.) is the closest held
+- **Others.** [THEORY-tmp6lw73](../theory.d/THEORY-tmp6lw73.md) (Kadowaki et al.) is the closest held
   parallel to the upgrading result: a degraded state leaves a reinforcing
-  legacy, so restoring inputs alone fails. THEORY-tmpwmqrr (Food for Peace,
-  India) and THEORY-tmpukudp (Kenya) find continuation where the receiving
+  legacy, so restoring inputs alone fails. [THEORY-tmpwmqrr](../theory.d/THEORY-tmpwmqrr.md) (Food for Peace,
+  India) and [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md) (Kenya) find continuation where the receiving
   side had working infrastructure and capacity before exit, the same
-  receiving-capacity condition. THEORY-tmpm618c (Schröder et al.) is a
+  receiving-capacity condition. [THEORY-tmpm618c](../theory.d/THEORY-tmpm618c.md) (Schröder et al.) is a
   reminder that the threshold here is modelled, not tested. With
-  THEORY-tmph35ra and THEORY-149 (Ostrom), the persistence rests on the
-  residents' own investment rather than on an outside supplier; LIT-719 and
-  LIT-737 are the Ostrom works behind them. Unlike THEORY-tmpkkhou (Azam et
+  [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) and [THEORY-149](../theory.d/THEORY-149.md) (Ostrom), the persistence rests on the
+  residents' own investment rather than on an outside supplier; [LIT-719](../literature.d/LIT-719.md) and
+  [LIT-737](../literature.d/LIT-737.md) are the Ostrom works behind them. Unlike [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md) (Azam et
   al.), there is no learning-by-doing mechanism.
-- Filed: THEORY-tmp84p6d. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp84p6d](../theory.d/THEORY-tmp84p6d.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

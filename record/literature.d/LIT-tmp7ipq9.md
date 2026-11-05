@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp2u6b2) in its World Bank working-paper
+  read 2026-11-05 ([NOTE-tmp2u6b2](../notes.d/NOTE-tmp2u6b2.md)) in its World Bank working-paper
   version, Policy Research Working Paper 6886 (May 2014), from the World
   Bank's own copy: body and Tables 1–10; the 2017 journal article was not
   read. Worth reading as the standard evidence against the stereotype that
@@ -78,7 +78,7 @@ Evans, D. K. & Popova, A. (2017). Cash Transfers and Temptation Goods. *Economic
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp2u6b2. Page numbers are the working paper's.*
+*From the reading, [NOTE-tmp2u6b2](../notes.d/NOTE-tmp2u6b2.md). Page numbers are the working paper's.*
 
 - **Almost no rise.** Across 44 estimates, "82% of estimates are
   negative, and just 5% of estimates are significant and positive"
@@ -96,12 +96,12 @@ Evans, D. K. & Popova, A. (2017). Cash Transfers and Temptation Goods. *Economic
 
 ## Standing in the record
 
-Filed with Baird, McKenzie & Özler (2018), LIT-tmpwnkhk, as a counterpoint
+Filed with Baird, McKenzie & Özler (2018), [LIT-tmpwnkhk](LIT-tmpwnkhk.md), as a counterpoint
 to the branch's dependency claims; a second work, not a stand-in. The
 record makes no claim about temptation spending. What this bears on is the
-character premise behind "slack effort" in CLAIM-tmpc3x0c and behind the
-Samaritan's logic of CLAIM-tmpqa0qu and THEORY-tmph35ra carried down to
+character premise behind "slack effort" in [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) and behind the
+Samaritan's logic of [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) and [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) carried down to
 households: that the poor turn unconditioned help against their own
 interest. At household level that is not found, and it does not grow with
 length of receipt. It says nothing about states or projects, nor about
-work. Filed from it: THEORY-tmpvmj93.
+work. Filed from it: [THEORY-tmpvmj93](../theory.d/THEORY-tmpvmj93.md).

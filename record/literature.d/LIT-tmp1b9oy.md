@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp0lzl8) from NBER Working Paper 19293 as revised
+  read 2026-11-05 ([NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md)) from NBER Working Paper 19293 as revised
   June 2014, the post-referee text, on NBER's own site; worth reading as a
   long-run evaluation of a large place-based programme on both sides of a
   clean end to its subsidy (1959), and as an explicit test of the big-push
@@ -74,7 +74,7 @@ Kline, P. & Moretti, E. (2014). Local Economic Development, Agglomeration Econom
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp0lzl8. Page numbers are the working paper's.*
+*From the reading, [NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md). Page numbers are the working paper's.*
 
 - **A clean end to support.** "In 1959, Congress passed legislation making
   the TVA power generation system self-financing. From that year on,
@@ -102,15 +102,15 @@ Kline, P. & Moretti, E. (2014). Local Economic Development, Agglomeration Econom
 Registered with the urban-development readings on what makes support safe
 or hazardous to withdraw. It is the record's cleanest case of support
 withdrawn on a known date and followed for forty years. The sector split
-fits CLAIM-tmpc3x0c's condition that a supported process must keep itself
+fits [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)'s condition that a supported process must keep itself
 going: agriculture, where the supply did the work, reverted; manufacturing,
 with its own feedback, did not. But the authors' structural result is that
 even manufacturing sits under a single equilibrium, so its persistence is
 momentum and durable, locally maintained infrastructure, not
 self-sustainment, and duration alone cannot tell the two apart. It is a
-field test of the threshold CLAIM-tmpw4ai2 models, and finds none. For
-agriculture it fits CLAIM-597. It complements THEORY-919 (Juhász), and
-NOTE-1122 already cites it for that lineage; Neumark and Simpson (2015),
+field test of the threshold [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) models, and finds none. For
+agriculture it fits [CLAIM-597](../claims.d/CLAIM-597.md). It complements [THEORY-919](../theory.d/THEORY-919.md) (Juhász), and
+[NOTE-1122](../notes.d/NOTE-1122.md) already cites it for that lineage; Neumark and Simpson (2015),
 filed beside it, summarize it as evidence against self-sustaining gains.
-Filed from it: THEORY-tmp10msz. No instruction for machine-learning
+Filed from it: [THEORY-tmp10msz](../theory.d/THEORY-tmp10msz.md). No instruction for machine-learning
 practice.

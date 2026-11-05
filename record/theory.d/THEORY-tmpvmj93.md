@@ -17,8 +17,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp7ipq9
 summary: >-
-  Evans & Popova (2017), LIT-tmp7ipq9, read as the 2014 World Bank working
-  paper in NOTE-tmp2u6b2. Proposed: a vote count of non-independent
+  Evans & Popova (2017), [LIT-tmp7ipq9](../literature.d/LIT-tmp7ipq9.md), read as the 2014 World Bank working
+  paper in [NOTE-tmp2u6b2](../notes.d/NOTE-tmp2u6b2.md). Proposed: a vote count of non-independent
   estimates, not a pooled meta-analysis, on self-reported spending, with
   only 8 of the 19 studies randomized, and two of its text figures
   disagreeing with its tables. Household evidence only; it bears on the
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Evans & Popova (2017), LIT-tmp7ipq9; read as World Bank Policy Research
-Working Paper 6886 (2014) in NOTE-tmp2u6b2.
+Evans & Popova (2017), [LIT-tmp7ipq9](../literature.d/LIT-tmp7ipq9.md); read as World Bank Policy Research
+Working Paper 6886 (2014) in [NOTE-tmp2u6b2](../notes.d/NOTE-tmp2u6b2.md).
 
 ## What was actually shown
 
@@ -64,4 +64,4 @@ Working Paper 6886 (2014) in NOTE-tmp2u6b2.
   Tables 5–6.
 - Anything about work or capability, or about states and projects: it
   removes a household-level stereotype the record's "slack effort"
-  (CLAIM-tmpc3x0c) might borrow, and tests none of its state-level forms.
+  ([CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)) might borrow, and tests none of its state-level forms.

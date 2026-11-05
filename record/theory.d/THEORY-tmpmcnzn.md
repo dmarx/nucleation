@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpcs39o
 summary: >-
-  Banerjee et al. (2015), LIT-tmpcs39o, read in full in NOTE-tmpl3nvb
+  Banerjee et al. (2015), [LIT-tmpcs39o](../literature.d/LIT-tmpcs39o.md), read in full in [NOTE-tmpl3nvb](../notes.d/NOTE-tmpl3nvb.md)
   (supplementary tables not read). Proposed: six RCTs with about 91%
   retention, but one year past exit, large differences between sites
   (Honduras faded when the chickens died) and 52% take-up in India. The
@@ -30,7 +30,7 @@ summary: >-
 ## Source
 
 Banerjee, Duflo, Goldberg, Karlan, Osei, Parienté, Shapiro, Thuysbaert &
-Udry (2015), LIT-tmpcs39o; read in NOTE-tmpl3nvb.
+Udry (2015), [LIT-tmpcs39o](../literature.d/LIT-tmpcs39o.md); read in [NOTE-tmpl3nvb](../notes.d/NOTE-tmpl3nvb.md).
 
 ## What was actually shown
 
@@ -59,7 +59,7 @@ Udry (2015), LIT-tmpcs39o; read in NOTE-tmpl3nvb.
 - That any component, or the bundle's size, is necessary: "Whether all the
   ingredients of the program are individually necessary is not tackled
   here".
-- That the gains last beyond a year past exit (for India, see LIT-tmpit9mn).
+- That the gains last beyond a year past exit (for India, see [LIT-tmpit9mn](../literature.d/LIT-tmpit9mn.md)).
 - That it works everywhere: equality across sites is rejected for almost all
   outcomes, and Honduras faded.
 - That support never lowers effort: the support here was announced as

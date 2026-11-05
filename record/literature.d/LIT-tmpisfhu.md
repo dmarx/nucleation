@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp4js2v) from the authors' accepted
+  read in full 2026-11-05 ([NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md)) from the authors' accepted
   manuscript of 14 November 2020 in LSE Research Online; worth reading as
   a rare long-run test of one-off public support that residents built on:
   greenfield plots, roads and water mains laid out in 1975–84 carried, by
@@ -82,7 +82,7 @@ Michaels, G., Nigmatulina, D., Rauch, F., Regan, T., Baruah, N. & Dahlstrand, A.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp4js2v. Page numbers are the accepted manuscript's, not the journal's.*
+*From the reading, [NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md). Page numbers are the accepted manuscript's, not the journal's.*
 
 - **One-off support that residents built on.** "These projects provided
   basic infrastructure, leaving it to the residents to build their own
@@ -119,13 +119,13 @@ Michaels, G., Nigmatulina, D., Rauch, F., Regan, T., Baruah, N. & Dahlstrand, A.
 Filed with the urban-development batch of 2026-11-05, after the owner asked
 what separates support that is safe to withdraw from support that induces
 dependency. It is the batch's clearest case for the lead's synthesis,
-CLAIM-tmpc3x0c: one-off support started a loop that residents kept up by
+[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md): one-off support started a loop that residents kept up by
 their own investment. It adds two conditions the synthesis lacks: enough of
 the supported must be able to do the work, and the support must come before
 a competing configuration (a built stock of low-quality housing) is in
-place. Its upgrading arm is the record's best illustration of CLAIM-597's
+place. Its upgrading arm is the record's best illustration of [CLAIM-597](../claims.d/CLAIM-597.md)'s
 decay where upkeep has no local source, and its model is a state-dependent
-upkeep of the kind CLAIM-tmpw4ai2 describes, though the threshold is
-assumed. It parallels THEORY-919 (Juhász) as a temporary place-specific
+upkeep of the kind [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) describes, though the threshold is
+assumed. It parallels [THEORY-919](../theory.d/THEORY-919.md) (Juhász) as a temporary place-specific
 intervention with persistent effects, with one snapshot and no fade test.
-Filed from it: THEORY-tmp84p6d.
+Filed from it: [THEORY-tmp84p6d](../theory.d/THEORY-tmp84p6d.md).

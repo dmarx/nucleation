@@ -179,7 +179,7 @@ apart takes the curvature of the feedback, not the duration.
 ## Connections
 
 It belongs with the work on temporary shocks that move economic activity
-(Davis and Weinstein; Redding and Sturm), and NOTE-1122 already cites it
+(Davis and Weinstein; Redding and Sturm), and [NOTE-1122](NOTE-1122.md) already cites it
 ("Kline and Moretti 2014, p. 7") in that lineage. Its agglomeration
 evidence draws on Greenstone, Hornbeck and Moretti (2010); for agriculture
 on Hornbeck and Naidu (2012); for electricity alone, Kitchens. Neumark and
@@ -188,7 +188,7 @@ place-based gains need not be self-sustaining.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c (when support is safe to withdraw): qualifies,
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (when support is safe to withdraw): qualifies,
   strongly.** The sector split fits the claim's first condition:
   agriculture, where the supply did the work, reverted; manufacturing,
   with feedback of its own, kept gaining for forty years. But the
@@ -198,40 +198,40 @@ place-based gains need not be self-sustaining.
   ratepayers kept up. So persistence through a full turnover can be met by
   slow reversion; telling the two apart needs the curvature of the
   feedback, not the duration.
-- **CLAIM-tmpw4ai2 (ignition threshold, collapse, hysteresis):
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (ignition threshold, collapse, hysteresis):
   qualifies.** A field test for the threshold signature in a
   state-dependent feedback, and no threshold is found: the log elasticity
   is constant, the steady state unique. Upkeep that rises with the
   structure's own state need not show ignition or hysteresis; whether it
   does depends on curvature, and these data favour a concave, log-linear
   form. The model is not contradicted; its empirical reach is narrowed.
-- **CLAIM-597 (supplied upkeep never becomes optional): supports, for
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional): supports, for
   agriculture.** Gains tied to supplied infrastructure and inputs reversed
   once the federal supply stopped. Caveat: the paper's own depreciation
   figures disagree, about 5% a year in footnote 15 against about 0.2% a
   year in the appendix fit.
-- **CLAIM-tmpoh07b (doing the work crowds out capacity): weak.** No
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (doing the work crowds out capacity): weak.** No
   capacity measure. One pointer: the sector whose advantage was built by
   firms' own activity (learning, thick markets) is the one that persisted.
-- **CLAIM-tmpqa0qu (one-way against reciprocal supply): tangential.** The
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (one-way against reciprocal supply): tangential.** The
   1959 switch turned a one-way federal transfer into a utility financed by
   its local users; the paper draws nothing from it.
-- **QUESTION-398 (independence from the founding intervention).** A
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** A
   regional withdrawal experiment with a clean end date. The structural
   answer is that manufacturing has not become independent; it returns to
   the pre-programme equilibrium, slowly.
-- **THEORY-919 (Juhász, the Napoleonic blockade): complements.** Both are
+- **[THEORY-919](../theory.d/THEORY-919.md) (Juhász, the Napoleonic blockade): complements.** Both are
   temporary support followed by persistent manufacturing, credited to
   local increasing returns. Juhász's effect fading by 1896 fits slow
   reversion under a unique equilibrium; the constant-elasticity test is
   one she does not run, and it warns against reading her persistence as
-  multiple equilibria. CLAIM-445 (a protective regime becomes
+  multiple equilibria. [CLAIM-445](../claims.d/CLAIM-445.md) (a protective regime becomes
   self-maintaining): the TVA itself became self-financing after 1959, a
   fact the paper reports and does not analyse.
-- **THEORY-863 (Arthur) and THEORY-885 (Pierson), increasing returns and
+- **[THEORY-863](../theory.d/THEORY-863.md) (Arthur) and [THEORY-885](../theory.d/THEORY-885.md) (Pierson), increasing returns and
   lock-in.** The increasing returns found here are positive but too weak
   in curvature for lock-in.
-- Filed: THEORY-tmp10msz. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp10msz](../theory.d/THEORY-tmp10msz.md). No instruction for machine-learning practice.
 
 ## Limitations
 

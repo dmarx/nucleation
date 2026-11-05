@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpl3nvb) from the publisher's typeset PDF
+  read in full 2026-11-05 ([NOTE-tmpl3nvb](../notes.d/NOTE-tmpl3nvb.md)) from the publisher's typeset PDF
   posted by the MIT Economics department, the institution of the first two
   authors; worth reading as the multi-site test of whether a time-limited
   "big push" to the poorest households leaves them working and earning
@@ -82,7 +82,7 @@ Banerjee, A., Duflo, E., Goldberg, N., Karlan, D., Osei, R., Parienté, W., Shap
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpl3nvb. Pages are the article's, 1260799-n.*
+*From the reading, [NOTE-tmpl3nvb](../notes.d/NOTE-tmpl3nvb.md). Pages are the article's, 1260799-n.*
 
 - **A time-limited push.** Consumption support lasts "between 4 and 13
   months", partly "to reduce incentives to sell (or eat up) the productive
@@ -104,16 +104,16 @@ Banerjee, A., Duflo, E., Goldberg, N., Karlan, D., Osei, R., Parienté, W., Shap
   "poverty flat" fits too.
 - **Open in 2015.** "How long will these results persist? This will not be
   known until some participants are followed for a longer period of time"
-  (p. -15). Answered for India by LIT-tmpit9mn.
+  (p. -15). Answered for India by [LIT-tmpit9mn](LIT-tmpit9mn.md).
 
 ## Standing in the record
 
 Registered as a counterpoint to the branch's dependency claims, which lean
 on support producing low effort or lost capacity in the recipient
-(CLAIM-tmpqa0qu, the slack-effort route of CLAIM-tmpc3x0c, THEORY-tmph35ra's
+([CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), the slack-effort route of [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md), [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md)'s
 Samaritan's dilemma). For poor households given time-limited support, the
 evidence runs the other way: effort and capacity rose during support and
 stayed up after it. The study does not test the dilemma itself, whose
 premise is help the recipient can count on; this help was announced as
 temporary. It is evidence about households, not about states or donor
-projects. Filed from it: THEORY-tmpmcnzn.
+projects. Filed from it: [THEORY-tmpmcnzn](../theory.d/THEORY-tmpmcnzn.md).

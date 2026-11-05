@@ -33,7 +33,7 @@ summary: >-
 
 ## Contribution
 
-It extends one arm of Banerjee et al. (2015), LIT-tmpcs39o, the West Bengal
+It extends one arm of Banerjee et al. (2015), [LIT-tmpcs39o](../literature.d/LIT-tmpcs39o.md), the West Bengal
 site run by Bandhan, from three to ten years after the asset transfer, with
 indices "constructed using the same methodology as in Banerjee et al.
 (2015)" (p. 6). It answers, for one site, the 2015 paper's open question of
@@ -123,19 +123,19 @@ escape from a trap or a lasting level effect the authors leave open.
 ## Concepts
 
 - **Graduation**: BRAC's term for leaving extreme poverty.
-- **Big push, poverty trap**: as in NOTE-tmpl3nvb.
+- **Big push, poverty trap**: as in [NOTE-tmpl3nvb](NOTE-tmpl3nvb.md).
 - **Complementarity of push and macro opportunity**: the push raises the
   household's ability to use opportunities that arrive later, so a rising
   economy does not wash it out.
 
 ## Connections
 
-The parent study is LIT-tmpcs39o (NOTE-tmpl3nvb). The authors cite Balboni
+The parent study is [LIT-tmpcs39o](../literature.d/LIT-tmpcs39o.md) ([NOTE-tmpl3nvb](NOTE-tmpl3nvb.md)). The authors cite Balboni
 et al. (2020; in this batch as Balboni et al. 2022) for threshold evidence in
 Bangladesh and Blattman et al. (2020) for a Uganda grant program whose
 controls caught up. Haushofer & Fehr (2014), in this batch, is the
 psychological account the "more optimistic" mechanism leans on. On the
-record's side, THEORY-tmpukudp (Kenyan projects after exit) is the nearest
+record's side, [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md) (Kenyan projects after exit) is the nearest
 held case of benefits judged after the provider left.
 
 ## Bearing on the record
@@ -143,36 +143,36 @@ held case of benefits judged after the provider left.
 Dated notes on the claims below are for the lead to add; none are written
 here.
 
-- **CLAIM-tmpc3x0c (synthesis)**: strongly supports its test. The claim asks
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (synthesis)**: strongly supports its test. The claim asks
   for persistence "through a full turnover after withdrawal"; here gains held,
   and grew, for 8.5 years after all contact. It also illustrates the claim's
   "flux that will stay available": persistence drew on labour markets and
-  migration, not on the provider, which is CLAIM-tmpw4ai2's distinction
+  migration, not on the provider, which is [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)'s distinction
   between dependence on a flux and on a provider. It contradicts the
   slack-effort route for this kind of support: productive time stays higher
   at every wave.
-- **CLAIM-tmpqa0qu (Samaritan's dilemma)**: contradicts the expectation that
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (Samaritan's dilemma)**: contradicts the expectation that
   help leaves the recipient household less capable; ten years on, treated
   households work more and earn more from work. The help was one-off, so the
   dilemma's premise of assured help was absent; what is shown is that a
   one-way transfer to households need not leave a dependence that
   withdrawal punishes.
-- **CLAIM-tmpoh07b**: consistent with its capacity-first branch; not a test
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)**: consistent with its capacity-first branch; not a test
   of substitution, and about households, not organizations.
-- **CLAIM-tmpw4ai2 (thresholds)**: qualifies. Growth to year 7 then a plateau
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds)**: qualifies. Growth to year 7 then a plateau
   is what a threshold crossing predicts, but the authors decline to conclude
   it, because controls also rose and the treated "barely escaped poverty".
-- **CLAIM-597**: no bearing; this is not supplied upkeep.
-- **THEORY-tmph35ra (Ostrom et al.)**: cuts against its transfer to
+- **[CLAIM-597](../claims.d/CLAIM-597.md)**: no bearing; this is not supplied upkeep.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al.)**: cuts against its transfer to
   households: benefits outlasted the aid by a decade with no donor repair.
   The state-level account is untouched.
-- **QUESTION-398**: the best household-level case on the record of becoming
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: the best household-level case on the record of becoming
   independent of the intervention: dependence at withdrawal, about 18 months,
   appears near zero for the average household, since effects grew after.
   Contrast Blattman et al.: independence of the intervention is not the same
   as a lasting advantage over the counterfactual.
 - **Level**: households only; it says nothing about aid to governments.
-- Filed: THEORY-tmpv02zm. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpv02zm](../theory.d/THEORY-tmpv02zm.md). No instruction for machine-learning practice.
 
 ## Limitations
 

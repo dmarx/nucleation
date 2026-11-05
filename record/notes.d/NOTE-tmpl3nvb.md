@@ -157,14 +157,14 @@ shown.
 ## Connections
 
 The ten-year follow-up of the India site is Banerjee, Duflo & Sharma (2021),
-LIT-tmpit9mn, read in NOTE-tmpicnhp. In this batch, Haushofer & Fehr (2014)
+[LIT-tmpit9mn](../literature.d/LIT-tmpit9mn.md), read in [NOTE-tmpicnhp](NOTE-tmpicnhp.md). In this batch, Haushofer & Fehr (2014)
 give the psychological account of poverty that the authors' speculative
 mechanism gestures at; Balboni et al. (2022) read the Bangladesh version for
 a threshold; Baird, McKenzie & Özler (2018) and Banerjee, Hanna, Kreindler &
 Olken (2017) review labour-supply responses to transfers. On the record's
-aid side, THEORY-tmpukudp (three Kenyan projects followed after exit) is the
-nearest case of benefits judged after the provider left; THEORY-tmph35ra
-(Ostrom et al.) and THEORY-tmpkkhou (Azam et al.) are the state-level
+aid side, [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md) (three Kenyan projects followed after exit) is the
+nearest case of benefits judged after the provider left; [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md)
+(Ostrom et al.) and [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md) (Azam et al.) are the state-level
 dependency accounts.
 
 ## Bearing on the record
@@ -172,36 +172,36 @@ dependency accounts.
 Dated notes on the claims below are for the lead to add; none are written
 here.
 
-- **CLAIM-tmpc3x0c (synthesis)**: supports, with a household-level case
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (synthesis)**: supports, with a household-level case
   meeting its three conditions: the asset starts a self-sustaining process
   (livestock, then diversification); the support stands in for no threat that
   persists; the household did the work, with coaching "to provide
   accountability". Honduras, where the asset died and gains faded, is the
   predicted failure of the first condition. It qualifies the claim's
   slack-effort route: under time-limited support effort rose. One year past
-  exit is short of the claim's "full turnover"; LIT-tmpit9mn goes further.
-- **CLAIM-tmpqa0qu (Samaritan's dilemma; capability lost under reliable
+  exit is short of the claim's "full turnover"; [LIT-tmpit9mn](../literature.d/LIT-tmpit9mn.md) goes further.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (Samaritan's dilemma; capability lost under reliable
   supply)**: contradicts the household reading. Recipients worked more during
   and after support and kept saving once saving was no longer required. It
   does not refute the game: this help was announced as temporary, so the
   premise of assured, repeated help is absent. Weak, non-experimental hint
   from Ethiopia: controls with a standing safety net did not stop the push
   from having its largest effects there.
-- **CLAIM-tmpoh07b (support that does the work crowds out capacity)**:
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support that does the work crowds out capacity)**:
   consistent with its favourable branch, supply covering what the household
   cannot yet do (capital, a consumption floor) while the household does the
   work; no test of the substitution branch, and a transfer from households to
   organizations by analogy only.
-- **CLAIM-tmpw4ai2 (thresholds)**: qualifies. The authors frame the program
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds)**: qualifies. The authors frame the program
   as crossing a trap threshold, find "some support" in the quantile gradient
   and not "strong evidence" in asset ratios, and keep a no-threshold poverty
   flat open.
-- **CLAIM-597**: no direct bearing; the household makes its own parts.
-- **THEORY-tmph35ra (Ostrom et al.)**: cuts against extending it to
+- **[CLAIM-597](../claims.d/CLAIM-597.md)**: no direct bearing; the household makes its own parts.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al.)**: cuts against extending it to
   households, not its state-level case: transferred assets were kept and
   grown after support ended, with partial ownership (the household chose the
   asset "from a list").
-- **QUESTION-398**: a household-level point. Support withdrawn at about two
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: a household-level point. Support withdrawn at about two
   years, most outcomes held a year on; the authors' "closer to the edge"
   account is a household-scale version of independence once enough has
   formed. No matched withdrawal, so dependence on the intervention is not
@@ -209,13 +209,13 @@ here.
 - **Level**: the evidence is about households. It tells against carrying the
   record's state-level dependency mechanisms down to poor households; it does
   not test them at the state level.
-- Filed: THEORY-tmpmcnzn. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpmcnzn](../theory.d/THEORY-tmpmcnzn.md). No instruction for machine-learning practice.
 
 ## Limitations
 
 - A bundle: no component is identified; training and visits cost about
   twice the direct transfers.
-- One year past the end of support; longer only in India (LIT-tmpit9mn) and
+- One year past the end of support; longer only in India ([LIT-tmpit9mn](../literature.d/LIT-tmpit9mn.md)) and
   Bangladesh (cited, not read here).
 - Large differences between sites: Honduras negative on assets, Peru weak.
 - 52% take-up in India; self-reported outcomes; possibly under-captured
@@ -232,6 +232,6 @@ here.
 - Which components are needed? Only a component trial would say (the Ghana
   arms, reported elsewhere, start on this).
 - Do the gains outlast a full turnover? Answered for one site by
-  LIT-tmpit9mn.
+  [LIT-tmpit9mn](../literature.d/LIT-tmpit9mn.md).
 - Is there a threshold? A test needs exogenous variation in the size of the
   push.

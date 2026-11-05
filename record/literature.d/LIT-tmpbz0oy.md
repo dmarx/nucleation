@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp9y93b) from NBER Working Paper 20049
+  read in full 2026-11-05 ([NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md)) from NBER Working Paper 20049
   (April 2014, revised August 2014) on NBER's own site, a pre-publication
   draft; the Handbook chapter itself, paywalled at Elsevier, was not read.
   Worth reading as a map of the US and European evidence on place-based
@@ -85,7 +85,7 @@ Neumark, D. & Simpson, H. (2015). Place-Based Policies. In G. Duranton, J. V. He
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp9y93b, of the 2014 working paper, not the 2015
+*From the reading, [NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md), of the 2014 working paper, not the 2015
 chapter. Page numbers are the working paper's. **Every result below is the
 authors' summary of someone else's study**; none of the primary studies was
 read.*
@@ -129,11 +129,11 @@ read.*
 
 Filed with the urban-development batch of 2026-11-05, which looks for what
 separates support safe to withdraw from support that leaves dependence
-(CLAIM-tmpc3x0c). It is the broadest map in the batch and the one that
-states QUESTION-398's test in the field's own words, quoting Moretti:
+([CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)). It is the broadest map in the batch and the one that
+states [QUESTION-398](../questions.d/QUESTION-398.md)'s test in the field's own words, quoting Moretti:
 whether "the publicly financed seed can eventually generate a privately
 supported cluster that is large enough to become self-sustaining" (p. 74).
 Its answer is that the test has almost never been run. It is a survey, so
 what it reports is the authors' reading of other studies; the TVA result
 is Kline and Moretti (2014), filed in parallel in this batch, which carries
-it first-hand. Filed from it: THEORY-tmptef2i.
+it first-hand. Filed from it: [THEORY-tmptef2i](../theory.d/THEORY-tmptef2i.md).

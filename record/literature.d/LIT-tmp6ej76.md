@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp6tzyt) from NBER Working Paper 29340, the
+  read 2026-11-05 ([NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md)) from NBER Working Paper 29340, the
   accepted text, on nber.org; the journal's copy at OUP was not reached
   (a Cloudflare check). Worth reading as the first long-run experimental
   test of a household asset poverty trap that locates the threshold: among
@@ -83,7 +83,7 @@ Balboni, C., Bandiera, O., Burgess, R., Ghatak, M. & Heil, A. (2022). Why Do Peo
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp6tzyt. Page numbers are the NBER working paper's.*
+*From the reading, [NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md). Page numbers are the NBER working paper's.*
 
 - **A threshold, located.** The asset transition "rejects the null of
   global concavity with p < 0.01" (p. 13), and the unstable point, about
@@ -113,12 +113,12 @@ Filed as a counterpoint to the record's dependency claims. It is about
 households holding a private, productive, indivisible asset, not about
 states or projects under repeated aid, and it never tests assured or
 repeated help, so it does not refute the Samaritan's-dilemma mechanism of
-CLAIM-tmpqa0qu and THEORY-tmph35ra where that mechanism applies. It does
+[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) and [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) where that mechanism applies. It does
 cut against reading persistent low position as low effort: the poorest
 worked the most, and support raised their work. It supports, at the
-household level, the ignition threshold of CLAIM-tmpw4ai2 and the
-self-sustaining condition of CLAIM-tmpc3x0c, adds a failure that is
+household level, the ignition threshold of [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) and the
+self-sustaining condition of [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md), adds a failure that is
 neither dependence nor safe withdrawal (decay of a seed too small), and
-qualifies CLAIM-tmpoh07b, since here the amount relative to a threshold
-decided the outcome. It answers QUESTION-398 in part. Filed from it:
-THEORY-tmp5v6r5.
+qualifies [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), since here the amount relative to a threshold
+decided the outcome. It answers [QUESTION-398](../questions.d/QUESTION-398.md) in part. Filed from it:
+[THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md).

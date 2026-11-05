@@ -227,30 +227,30 @@ local, with the national gain netting out.
 
 - **Kline and Moretti (2014)**, filed in parallel in this batch, is the
   primary study behind every TVA result here.
-- **THEORY-863** (Arthur's increasing returns and lock-in) is the formal
+- **[THEORY-863](../theory.d/THEORY-863.md)** (Arthur's increasing returns and lock-in) is the formal
   shape of the multiple-equilibria argument the survey tests; the TVA's
   constant agglomeration elasticity is the measured counterpart, and it
   shows none of the non-linearity a lock-in to a new equilibrium needs for
   an aggregate gain.
-- **THEORY-885** (Pierson: politics prone to increasing returns) bears on why
+- **[THEORY-885](../theory.d/THEORY-885.md)** (Pierson: politics prone to increasing returns) bears on why
   programs persist and on the survey's concern with competition between
   jurisdictions.
-- **CLAIM-445** (a protective regime becomes self-maintaining when it shifts
+- **[CLAIM-445](../claims.d/CLAIM-445.md)** (a protective regime becomes self-maintaining when it shifts
   the evidence used to judge it): the UK phase-out, ended on evidence of
   relocation, is a regime that did not become self-maintaining.
-- **THEORY-919** (Juhász: the Napoleonic blockade's temporary protection
+- **[THEORY-919](../theory.d/THEORY-919.md)** (Juhász: the Napoleonic blockade's temporary protection
   left persistent spinning): the TVA is a parallel case of a temporary large
   push leaving persistent industry, with the caution Juhász's design cannot
   address, that the local persistence may be relocation from elsewhere.
-- **THEORY-tmpukudp** (Kenya: impact at exit did not predict sustained
-  benefit) and **THEORY-tmph35ra** (Ostrom et al.: predictable aid weakens
+- **[THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md)** (Kenya: impact at exit did not predict sustained
+  benefit) and **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md)** (Ostrom et al.: predictable aid weakens
   the recipient's own upkeep) are the aid batch's nearest parallels to
   the survey's finding that gains are seen at most while incentives are in
   force.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c** (safe withdrawal): supports, with a qualification. The
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)** (safe withdrawal): supports, with a qualification. The
   TVA's durable part is the part a self-reinforcing process (agglomeration)
   carried after funding stopped; the farm gains, with no such process, and
   wage credits, whose value "only lasts as long as the wage credit is
@@ -258,21 +258,21 @@ local, with the national gain netting out.
   gain, since nationally the agglomeration gain was relocation. The claim's
   turnover test matches the survey's demand for post-incentive outcomes,
   which almost no study supplies.
-- **CLAIM-tmpw4ai2** (ignition threshold, collapse, hysteresis): mixed. The
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)** (ignition threshold, collapse, hysteresis): mixed. The
   TVA's persistence fits a self-maintaining process, but Becker et al. find
   no minimum transfer, and the TVA's elasticity is constant across density,
   so the evidence here shows no threshold at the scales observed.
-- **CLAIM-tmpoh07b** (supply that does the work crowds out capacity): partly
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (supply that does the work crowds out capacity): partly
   supports. Law 488's investment was brought forward, with public funds
   substituting for private borrowing and investment below controls after the
   last payment; grants raised jobs but not productivity. There is no
   learning-by-doing evidence on capacity itself.
-- **CLAIM-597** (supplied upkeep never becomes optional): supports
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (supplied upkeep never becomes optional): supports
   indirectly. Effects appear while incentives are in force; wage credits,
   the ARC's effects and the TVA's direct effect all faded with the support.
   Only what agglomeration carried persisted.
-- **CLAIM-tmpqa0qu** (one-way against reciprocal supply): none directly.
-- **QUESTION-398** (independence from the founding intervention): directly
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)** (one-way against reciprocal supply): none directly.
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (independence from the founding intervention): directly
   relevant. The survey poses the same test and reports it almost never
   measured, the TVA being the lone positive case.
 - No THEORY here is cited for something the survey does not say. No

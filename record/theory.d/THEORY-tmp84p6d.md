@@ -21,7 +21,7 @@ source:
 - LIT-tmpisfhu
 summary: >-
   Michaels, Nigmatulina, Rauch, Regan, Baruah & Dahlstrand (2021),
-  LIT-tmpisfhu, read in full in NOTE-tmp4js2v from the authors' accepted
+  [LIT-tmpisfhu](../literature.d/LIT-tmpisfhu.md), read in full in [NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md) from the authors' accepted
   manuscript. Proposed: the de novo results are a spatial regression
   discontinuity on 12 areas in one cross-section 35–40 years on; the
   upgrading comparison is descriptive by the authors' own account; the
@@ -36,7 +36,7 @@ summary: >-
 ## Source
 
 Michaels, Nigmatulina, Rauch, Regan, Baruah & Dahlstrand (2021),
-LIT-tmpisfhu; read in NOTE-tmp4js2v. Page numbers are the accepted
+[LIT-tmpisfhu](../literature.d/LIT-tmpisfhu.md); read in [NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md). Page numbers are the accepted
 manuscript's (LSE Research Online, dated 14 November 2020).
 
 ## What was actually shown
