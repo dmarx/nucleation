@@ -1,0 +1,304 @@
+---
+status: Skimmed
+paper: LIT-tmpzg9it
+title: 'Mauss — Essai sur le don'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Skimmed on 2026-11-05, with four parts read in full, from the
+    Classiques des sciences sociales digital edition (J.-M. Tremblay, 17
+    February 2002, doi:10.1522/cla.mam.ess3; 106 PDF pages), at
+    https://classiques.uqam.ca/classiques/mauss_marcel/socio_et_anthropo/2_essai_sur_le_don/essai_sur_le_don.pdf,
+    byte-identical to the Internet Archive mirror. The edition was
+    transcribed from PUF's Sociologie et anthropologie (1968, 4th ed.), not
+    the 1925 printing; page numbers below are the PDF's, and the text's
+    internal cross-references follow a print pagination not identified.
+    Text extracted with pdftotext. Read in full: the introduction (pp.
+    5–11); chapter I, all four parts (Samoa; the hau; the obligations to
+    give and to receive; gifts to men and to gods, pp. 12–25); chapter II
+    §III, "Nord-Ouest américain. L'honneur et le crédit", through "Les
+    trois obligations" (pp. 42–56); chapter IV, the conclusion, all three
+    parts (pp. 90–106). Skimmed: chapter II §I, the Andamans (pp. 26–27,
+    read); §II, Melanesia and the kula (pp. 28–32 read, the rest by
+    search); §III's La force des choses and La monnaie de renommée
+    (pp. 57–66, headings and searched passages); the "Première conclusion"
+    (p. 67, read); chapter III on ancient laws (searched for nexum, reus,
+    gage and inférieur; pp. 87–88 read); most footnotes. No English
+    translation was consulted; the glosses are the reader's.
+date: '2026-11-05'
+summary: >-
+  Mauss's comparative essay on the gift, skimmed with its introduction,
+  first chapter, the Northwest-coast section and its conclusion read in
+  full. Gifts in archaic societies are voluntary in form and obligatory in
+  fact, between collectivities, under three obligations: to give, to
+  receive and to return. The Maori hau of the thing given seeks its origin;
+  the potlatch is returned with interest on pain of lost face, rank and
+  freedom. To accept without returning is to become client and servant.
+  The conclusion carries this into modern morality: charity wounds, social
+  insurance is a return owed to the worker, and the individual must still
+  rely on himself. Interpretive, on second-hand ethnography.
+---
+<!-- inactive-ok-file: THEORY-tmpc5g6z CLAIM-tmpqa0qu CLAIM-tmpoh07b CLAIM-597 THEORY-1351 CLAIM-554 THEORY-tmph35ra — Proposed or new; cited from the reading of Mauss (1925) as open -->
+
+# NOTE-tmpc9mii: Mauss — Essai sur le don
+
+## Contribution
+
+Mauss names the three obligations of the gift, to give, to receive and to
+return, as one complex, and reads the gift as a contract and a source of
+credit and rank rather than as free generosity. He derives credit from
+gifts returned "à terme", after a delay, rather than from barter
+(p. 46), and carries the analysis into modern law and social insurance.
+
+## Key insight
+
+The question is "Quelle force y a-t-il dans la chose qu'on donne qui fait
+que le donataire la rend ?" (p. 7): what force in the thing given makes
+its recipient return it? The answer is that the gift is free only in form.
+It is "fiction, formalisme et mensonge social" (p. 7) over obligation and
+interest; and the one who accepts and cannot return falls below the
+giver.
+
+## Assumptions
+
+- **A bounded comparison.** Polynesia, Melanesia, the American Northwest
+  coast and ancient laws, chosen where the evidence is philological
+  (p. 8).
+- **Second-hand evidence.** Mauss did no fieldwork; he reads Best, Boas
+  and Hunt, Swanton, Malinowski, Turner and Krämer.
+- **An evolutionary frame.** The gift sits between total prestation and
+  individual contract with money (p. 67).
+- **One text for the hau.** The reading rests on the Maori informant
+  Tamati Ranaipiri's statement, given to Elsdon Best, whose translation of
+  the key sentences, Mauss notes, "est écourtée" (n. 8, p. 15): is
+  abridged.
+
+## Key results
+
+*Page numbers are the 2002 PDF's. Quotes are verbatim French; the glosses
+outside the quote marks are the reader's.*
+
+- **Obligatory gifts (Intro, p. 7).** "les échanges et les contrats se font
+  sous la forme de cadeaux, en théorie volontaires, en réalité
+  obligatoirement faits et rendus": exchange and contract take the form of
+  gifts, voluntary in theory, obligatory in fact. The gift is "une forme
+  nécessaire de l'échange - c'est-à-dire, de la division du travail social
+  elle-même": a necessary form of exchange, that is, of the social division
+  of labour itself.
+- **Collectives under sanction (Intro, p. 9).** The parties are
+  "collectivités qui s'obligent mutuellement", collectivities that oblige
+  one another, and the prestations are "rigoureusement obligatoires, à
+  peine de guerre privée ou publique": strictly obligatory, on pain of
+  private or public war. The potlatch is "prestations totales de type
+  agonistique" (p. 11), total prestation of the agonistic kind.
+- **The hau (Ch. I §II, pp. 15–17).** A gives B a taonga, B passes it to C,
+  C makes B a return, and B must give that return to A, "car ils sont un
+  hau" of A's gift: "Si je conservais ce deuxième taonga pour moi, il
+  pourrait m'en venir du mal, sérieusement, même la mort" (p. 15), if I
+  kept this second taonga, harm could come to me, even death. Mauss's
+  reading: "le hau poursuit tout détenteur" (p. 16), the hau pursues every
+  holder; it "veut revenir au lieu de sa naissance" (p. 16), wants to
+  return to its place of birth; and the return gives authority over "le
+  premier donateur devenu dernier donataire" (p. 17), the first giver
+  become the last receiver.
+- **The three obligations (Ch. I §III, p. 18).** Total prestation "n'emporte
+  pas seulement l'obligation de rendre les cadeaux reçus ; mais elle en
+  suppose deux autres aussi importantes : obligation d'en faire, d'une
+  part, obligation d'en recevoir, de l'autre": not only the duty to return
+  but two others as important, to give and to receive. Refusing to give,
+  "négliger d'inviter, comme refuser de prendre", failing to invite as
+  much as refusing to take, is a declaration of war.
+- **Exchange without need (Ch. II §I, p. 26).** The Andamanese group and
+  family "savent se suffire en fait d'outils", are self-sufficient in
+  tools, yet exchange presents: "Le but est avant tout moral, l'objet en
+  est de produire un sentiment amical", the aim is moral, to produce
+  friendly feeling. Still, "on s'attendait à recevoir quelque chose
+  d'égale valeur et on se fâchait" (n. 2): an equal return was expected,
+  and people were angry without it.
+- **Passing on (pp. 32, 52).** A kula valuable "ne vous est donnée qu'à
+  condition d'en faire usage pour un autre, ou de la transmettre à un
+  tiers, « partenaire lointain »" (p. 32): it is given only on condition
+  that it is used for, or passed to, a third, distant partner. In the
+  potlatch one must "de leur redistribuer tout ce qui vous vient d'un
+  potlatch dont on a été bénéficiaire" (p. 52): redistribute all a potlatch
+  brought in.
+- **Credit and honour (Ch. II §III, pp. 45–46).** "il est, dans toute
+  société possible, de la nature du don d'obliger à terme" (p. 45): in any
+  society it is the nature of the gift to oblige a return after a delay.
+  Prestige rests on "l'exactitude à rendre usurairement les dons acceptés,
+  de façon à transformer en obligés ceux qui vous ont obligés" (p. 46):
+  returning accepted gifts with interest, so as to turn your creditors into
+  your debtors.
+- **To give (pp. 50–51).** "L'obligation de donner est l'essence du
+  potlatch." A chief keeps rank by proving his fortune "en la dépensant, en
+  la distribuant, en humiliant les autres" (p. 51), by spending,
+  distributing, humiliating others. A footnote records "la supériorité du
+  donateur sur le donataire : la notion que celui-ci est en quelque sorte un
+  esclave tant qu'il ne s'est pas racheté" (n. 3, p. 51): the receiver is a
+  kind of slave until he has redeemed himself.
+- **To receive (pp. 53–54).** "On n'a pas le droit de refuser un don"
+  (p. 53). Refusing is "manifester qu'on craint d'avoir à rendre, c'est
+  craindre d'être « aplati » tant qu'on n'a pas rendu. En réalité, c'est
+  être « aplati » déjà": it shows fear of having to return, and is already
+  to be flattened. A recognized superior may refuse, but then "le potlatch
+  est obligatoire pour celui qui a refusé" (p. 54); one accepts "de prouver
+  qu'on n'est pas inégal" (p. 54), to prove oneself not unequal.
+- **To return, with interest (p. 55).** "Les taux sont en général de 30 à
+  100 pour 100 par an", rates of 30 to 100 % a year. "On perd la « face » à
+  jamais si on ne rend pas". "La sanction de l'obligation de rendre est
+  l'esclavage pour dette": whoever cannot return "perd son rang et même
+  celui d'homme libre", loses rank and freedom. Against this, the agonistic
+  ideal: "L'idéal serait de donner un potlatch et qu'il ne fût pas rendu"
+  (n. 2).
+- **Alms (p. 24).** Generosity to the poor is obligatory "parce que la
+  Némésis venge les pauvres et les dieux de l'excès de bonheur et de
+  richesse": because Nemesis avenges the poor and the gods on excess of
+  happiness and wealth. The return comes from gods or society, not from the
+  poor.
+- **The unreturned gift today (Concl. I, p. 90).** "Le don non rendu rend
+  encore inférieur celui qui l'a accepté, surtout quand il est reçu sans
+  esprit de retour": the unreturned gift still makes its acceptor inferior,
+  above all when accepted with no thought of return. "La charité est encore
+  blessante pour celui qui l'accepte", and "tout l'effort de notre morale
+  tend à supprimer le patronage inconscient et injurieux du riche
+  « aumônier »": our morality strives to abolish the rich almsgiver's
+  unconscious, insulting patronage.
+- **Social insurance as a return owed (p. 92).** "le travailleur a donné sa
+  vie et son labeur à la collectivité d'une part, à ses patrons d'autre
+  part, et, s'il doit collaborer à l'œuvre d'assurance, ceux qui ont
+  bénéficié de ses services ne sont pas quittes envers lui avec le paiement
+  du salaire": the worker has given life and labour, and though he should
+  contribute to insurance, those served are not quit with his wage. They
+  owe him "une certaine sécurité dans la vie, contre le chômage, contre la
+  maladie, contre la vieillesse, la mort".
+- **Self-reliance kept (p. 93).** "Cependant, il faut que l'individu
+  travaille. Il faut qu'il soit forcé de compter sur soi plutôt que sur les
+  autres": the individual must work and be made to rely on himself rather
+  than on others. "L'excès de générosité et le communisme lui seraient aussi
+  nuisibles" as "que l'égoïsme de nos contemporains": excess generosity
+  would harm him as much as egoism. Mutual insurance and cooperation "valent
+  mieux que la simple sécurité personnelle que garantissait le noble à son
+  tenancier": are worth more than the lord's protection of his tenant.
+- **Subordination stated generally (Concl. II, p. 98).** "Donner, c'est
+  manifester sa supériorité, être plus, plus haut, magister ; accepter sans
+  rendre ou sans rendre plus, c'est se subordonner, devenir client et
+  serviteur, devenir petit, choir plus bas (minister)": to give is to show
+  superiority; to accept without returning, or without returning more, is
+  to subordinate oneself, become client and servant.
+- **Divided labour bound to exchange (p. 98).** In alliances of fishing
+  with farming or potting tribes, a force "qui soude les clans et en même
+  temps les divise, qui divise leur travail et en même temps les contraint
+  à l'échange": that binds and divides the clans, divides their work and
+  compels them to exchange. Groups had "le droit souverain de refuser le
+  contrat" but normally "ni droit ni intérêt" in refusing: a sovereign right
+  to refuse, but neither right nor interest in using it.
+- **The lesson (pp. 95, 105).** "sortir de soi, donner, librement et
+  obligatoirement" (p. 95), go out of oneself, give, freely and
+  obligatorily, with the Maori proverb "Donne autant que tu prends, tout
+  sera très bien", give as much as you take. Societies progressed by
+  learning to "donner, recevoir, et enfin, rendre", and so to "s'opposer
+  sans se massacrer et se donner sans se sacrifier les uns aux autres"
+  (p. 105): to oppose without massacre, give without sacrificing
+  themselves to one another.
+
+## Concepts
+
+- **Prestation totale** (total prestation): exchange between
+  collectivities of everything at once, feasts, rites, women, services and
+  goods (p. 9).
+- **Potlatch**: total prestation of the agonistic kind (p. 11).
+- **The three obligations**: donner, recevoir, rendre (pp. 18, 50).
+- **Hau and taonga**: the spirit of the thing given and the valuable that
+  carries it (pp. 15–17).
+- **Terme**: the delay that makes the gift a credit (p. 45).
+- **Face, rank, esclavage pour dette**: what is lost by failing to return
+  (p. 55).
+- **Monnaie de renommée** (renown money): the title of a skimmed section
+  (pp. 57–66).
+- **Dépense noble** (noble expenditure): what the rich should return to
+  (p. 93).
+- **Faits sociaux totaux** (total social facts, p. 102).
+
+## Connections
+
+The founding text of the anthropology of the gift. Within this batch,
+St John (2017) reads Burning Man through Hyde's gift that circulates by
+gratitude and sets it against Mauss's gift that binds; Heins, Unrau and
+Avram (2018) introduce Mauss into international studies, standing in for
+Hattori (2001), who applies him to foreign aid; Harvey's statement of
+Burning Man's principles was not reached. In the record, NOTE-1023
+(Lessig, *Remix*) cites Mauss only through Hyde, and NOTE-1078 (Sewell)
+uses the potlatch and the chief's power as an example of structure.
+THEORY-696 (from LIT-035) gives a benefit of pooling with "no
+complementarity, relatedness or reciprocity", a non-reciprocal gain from
+sharing that Mauss's account has no place for. THEORY-505 and LIT-2002
+bear on reciprocity as a moral domain and on cooperation between groups,
+Mauss's parties being groups.
+
+## Bearing on the record
+
+- **CLAIM-tmpqa0qu.** Supports the reframing from self-sufficiency to
+  reciprocity: the division of labour is bound to obligatory exchange
+  (pp. 7, 98). Adds a mechanism the claim lacks: in a gift regime one-way
+  supply is not neutral, since to accept without return is "se
+  subordonner" (p. 98), so dependency is a matter of rank as well as of
+  lost capability. Qualifies it twice: the Andamanese exchange while
+  self-sufficient in tools (p. 26), so reciprocity does not need lost
+  capability; and Mauss keeps self-reliance beside the gift (p. 93), rather
+  than replacing self-provision with reciprocity.
+- **On the lead's characterization.** (a) The gift that is "free" is, on
+  Mauss, a social fiction (p. 7), and he himself pairs giving with
+  self-reliance (p. 93); an unconditional gift either hides an obligation or
+  subordinates its receiver. (b) Mauss does not speak of generalized
+  reciprocity; his circuits run beyond the pair (the hau chain, the kula's
+  distant partner, potlatch redistribution) but close on the origin.
+  (c) The three obligations are confirmed, with qualifications: the
+  receiver is subordinated by failing to return, not by accepting, and
+  refusing is already defeat (p. 53); in the agonistic case the giver's
+  ideal is precisely the unreturnable gift (n. 2, p. 55). (d) Hattori is
+  not addressed here.
+- **CLAIM-tmpoh07b.** None: no capacity built or lost by doing. The
+  nearest line is tangential: denying the worker his return is "l'inciter à
+  la paresse et au moindre rendement" (p. 101).
+- **CLAIM-597.** None.
+- **THEORY-1048 (Black Queen).** Leaves it open. Nothing here is a selected
+  loss of function; the complementary specializations of p. 98 are
+  reciprocal, on the interdependence side.
+- **THEORY-1351 (mutual dependence).** A loose social analogue: between
+  phratries "tout est complémentaire et suppose la collaboration" of the two
+  halves (p. 9), and segments "sentent qu'ils se doivent tout" (p. 42),
+  feel they owe each other everything, while each stays distinct.
+  Interpretive only.
+- **CLAIM-554 (niche differentiation).** Weakly supports its point that
+  differentiation is not only reduced competition: partners are "rival en
+  même temps qu'associé" (p. 10), rival and associate at once, and their
+  divided work binds them (p. 98).
+- **QUESTION-277 (routes to dependence).** Adds a social route: accepting
+  without return leads to clientage and, at the limit, debt slavery
+  (pp. 55, 98). Evidence about societies, not partner genomes; it bears on
+  the question without answering it.
+- **QUESTION-398.** None.
+- **THEORY-tmph35ra (Ostrom et al., the Samaritan's dilemma; LIT-tmpnb22c).**
+  Complements it with another mechanism: one-way giving harms through
+  status, where Ostrom et al. describe harm through effort. Mauss's remedy,
+  insurance to which the worker "doit collaborer" (p. 92), parallels their
+  condition that beneficiaries contribute; neither text tests the link.
+  The aid batch's Moore (LIT-tmpsb4vt) and Moss et al. (LIT-tmp4d1o2) treat
+  revenue and accountability, which Mauss does not.
+- Filed: THEORY-tmpc5g6z. No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **Edition.** A transcription of the 1968 PUF text, not the 1925 printing;
+  no original page numbers.
+- **Coverage.** Most of chapter II §II and chapter III, and most footnotes,
+  were skimmed.
+- **The hau** rests on one informant's text in a translation Mauss calls
+  abridged.
+- **No critiques read.** Later criticism of the hau reading and of the
+  potlatch evidence was not consulted, so none is reported.
+- **The conclusion is normative**: moral and political argument, not a
+  finding. The only figures are Boas's 30–100 % potlatch rates.

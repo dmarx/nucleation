@@ -53,11 +53,18 @@ summary: >-
   what aid covers, and withdrawal returns the cost ([CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)).
   Buchnera's loss runs both ways, and the result is interdependence. A
   state that taxes its citizens (Moore) is in the same position: it lost
-  nothing, it exchanges. The wording is the assistant's (Claude, in this
+  nothing, it exchanges. After the owner linked the claim to the gift
+  economy of Burning Man, readings of Mauss, of St John on Burning Man and
+  of Heins, Unrau and Avram added two things. One-way supply costs the
+  receiver standing as well as capacity: in Mauss the unreturned gift
+  makes its receiver inferior. And the return need not go back to the
+  giver: it can travel round a circuit, as Mauss's do, or out to a whole
+  community, as Burning Man's is meant to, and both sit beside a demand
+  for self-reliance. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-554 CLAIM-597 CLAIM-tmpoh07b — Proposed or new; claims this one extends, cited as open -->
-<!-- inactive-ok-file: NOTE-tmp22pjn THEORY-1351 — Skimmed or Proposed; readings cited as open -->
+<!-- inactive-ok-file: NOTE-tmp22pjn NOTE-tmpc9mii THEORY-1351 LIT-tmpp546j — Skimmed, Proposed or Unavailable; readings cited as open -->
 
 # CLAIM-tmpqa0qu: A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity
 
@@ -115,6 +122,55 @@ something they need in return. Ostrom et al.'s requirement that
 beneficiaries contribute their own assets and share the decision to
 continue is a step from the one-way form toward the reciprocal one.
 
+## What the gift readings add
+
+Read after the owner said the claim's reciprocal goal reminded them of
+the "gift economy" of Burning Man and adjacent communities.
+
+- **One-way supply costs standing.** Mauss (NOTE-tmpc9mii) names three
+  obligations, to give, to receive and to return. "Le don non rendu rend
+  encore inférieur celui qui l'a accepté": the gift not returned still
+  makes the one who accepted it inferior. To accept without returning, or
+  without returning more, "c'est se subordonner, devenir client et
+  serviteur". Heins, Unrau and Avram (NOTE-tmpujn9m) bring this to aid
+  through Dillon's study of the Marshall Plan. The French "felt the
+  obligation to repay gifts but did not have the possibility to fulfill
+  their obligation and thereby to become accepted as equals". The claim's
+  cost of one-way supply was capacity. The gift readings add a cost in
+  rank that does not end when the aid does.
+- **Reciprocity need not be bilateral.** The claim's examples, Buchnera and
+  the fiscal contract, return to the supplier. The gift readings have two
+  further forms.
+  - **Circular.** In Mauss the gift travels through third parties and
+    comes back: the hau "veut revenir au lieu de sa naissance", it wants to
+    return to its place of origin. Heins et al. call the kula's
+    reciprocity "circular, not antagonistic" and its returns "indirect and
+    delayed".
+  - **Generalized.** Burning Man's own statement of its Gifting principle
+    (LIT-tmpp546j, Unavailable, read through St John, NOTE-tmpdk5dq) is
+    that "The value of a gift is unconditional. Gifting does not
+    contemplate a return or an exchange for something of equal value." St
+    John reads this as Sahlins's "generalized reciprocity", with "an
+    absence of an obligation on the part of the recipient to reciprocate".
+    The gratitude it inspires "keeps the gift in motion", and the return
+    goes to the community through later work, not back to the giver.
+  What separates these from aid is not reciprocity with the giver. It is
+  whether the receiver has any path by which to give.
+- **Gifts sit beside self-reliance.** Burning Man's principles put Radical
+  Self-reliance beside Gifting, and St John notes that participants bring
+  their own supplies. Mauss's conclusion says the same of modern societies:
+  "Il faut qu'il soit forcé de compter sur soi plutôt que sur les autres",
+  the individual must be made to count on himself rather than on others.
+  For him, too much generosity harms as much as egoism. Both keep some
+  capabilities self-provided and let the rest circulate. That is the line
+  this claim left open: which capabilities can safely be given up.
+- **Free riding is limited by the community.** St John's free riders are
+  spectators, tourists and camps that sell turnkey participation. The
+  organization answered in part by reforming how theme camps are
+  registered and placed. That is a limit set by the givers' own community,
+  where Black Queen loss is limited by helpers growing scarce and aid by
+  nothing in the recipient's dynamics.
+
 ## What it adds
 
 - **To [QUESTION-277](../questions.d/QUESTION-277.md).** The question lists routes to dependence among
@@ -142,5 +198,10 @@ continue is a step from the one-way form toward the reciprocal one.
   the dependence each produces, not about mechanism.
 - **That a state can trade what it gave up.** Some capabilities, such as
   raising its own revenue, may be ones no partner can supply without
-  taking over what the state is for. Which capabilities can be safely
-  exchanged is left open.
+  taking over what the state is for. Mauss and Burning Man both keep a
+  self-provided core, but neither says how to decide what belongs in it.
+- **That generalized reciprocity is secure.** It holds only while enough
+  members keep giving, and St John's account is interpretive, with no
+  measure of how many return gifts or free-ride. Mauss's own circuits close
+  back on their origin, so his work does not show that open-ended giving
+  forward is stable.
