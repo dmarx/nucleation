@@ -71,7 +71,7 @@ The expected residence time in i is 1/λ_i.
 ## Eventual success is not success by a deadline
 
 The committor is an eventual measure, and a productive nucleus is
-horizon-relative (TERM-tmp3awsy). A's review of this pull request draws
+horizon-relative ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)). A's review of this pull request draws
 the consequence. A state that exits to the target at rate α and to
 failure at β succeeds by time T with chance
 

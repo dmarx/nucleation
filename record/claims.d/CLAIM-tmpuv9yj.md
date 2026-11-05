@@ -74,12 +74,12 @@ establishing nothing).
 
 The demonstration is the numerical example in point 2, which suffices to
 refute upward closure. The readings are evidence for the mechanism, not
-for that factorial proposition. Dunn et al. (NOTE-tmpvgzvb) show that
+for that factorial proposition. Dunn et al. ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) show that
 long-range seam staples that bind early and "effectively, irreversibly"
 force particular folds and trap others, and that weakening the seams
 helps. That is competing early commitment. They do not test two
 separately productive nuclei established together. Majikes et al. 2026
-(NOTE-tmppwpd0) found that replacing medium folds with more short ones
+([NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md)) found that replacing medium folds with more short ones
 raised defects, again a design change and not a factorial test of nuclei.
 
 ## What it adds

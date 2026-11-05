@@ -151,5 +151,5 @@ No status changes.
 
 ## Note of 2026-11-05: A's review of the DNA origami filing
 
-A's review of the pull request that filed the DNA origami readings asks which route a helpful nucleus takes. It may move the system to a more advanced state under the same rates, or change the rates of later steps among components outside it. That question is filed separately as QUESTION-tmp4jbc3, since this question asks when a small compatible subsystem helps, not by which route. A's decisive measurement is downstream reaction hazards in matched partial assemblies, not final yield. No status changes.
+A's review of the pull request that filed the DNA origami readings asks which route a helpful nucleus takes. It may move the system to a more advanced state under the same rates, or change the rates of later steps among components outside it. That question is filed separately as [QUESTION-tmp4jbc3](QUESTION-tmp4jbc3.md), since this question asks when a small compatible subsystem helps, not by which route. A's decisive measurement is downstream reaction hazards in matched partial assemblies, not final yield. No status changes.
 

@@ -16,11 +16,11 @@ summary: >-
   the target because establishing it puts the system in a more advanced
   state under the same transition rules, a state advantage. It can also
   change the rates of later steps among components that have not joined
-  it, a generative architectural advantage (TERM-tmp3awsy). A higher
+  it, a generative architectural advantage ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)). A higher
   committor does not tell the two apart. A's test compares matched partial
   assemblies, with similar completion counts, inventories and conditions,
   while the candidate relations are manipulated, and measures downstream
-  reaction hazards, not only final yield. QUESTION-380 asks when a small
+  reaction hazards, not only final yield. [QUESTION-380](QUESTION-380.md) asks when a small
   compatible subsystem helps; this asks by which of the two routes. The
   wording is A's; adopting it is the owner's call.
 ---
@@ -60,7 +60,7 @@ matched states that differ only in the nucleus.
   the earliest-binding segments, and the remaining domains bound later,
   through a slower pathway. That suggests the early domains changed later
   rates, but per-step hazards in matched states were not compared.
-- **The term.** TERM-tmp3awsy draws the distinction; CLAIM-480 holds how
+- **The term.** [TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md) draws the distinction; [CLAIM-480](../claims.d/CLAIM-480.md) holds how
   composition creates effective constraints.
 
 ## What would answer it
