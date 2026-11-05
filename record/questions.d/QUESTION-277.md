@@ -47,6 +47,7 @@ summary: >-
   which of them a theory of individuality must require. All the works cited
   are filed unread.
 ---
+<!-- inactive-ok-file: CLAIM-tmpqa0qu THEORY-1351 — new or Proposed; the assistant's claim on specialization and dependency and a reading it cites, cited as open -->
 <!-- inactive-ok-file: LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
 
 <!-- inactive-ok-file: LIT-1559 LIT-1562 LIT-1573 LIT-1565 LIT-1563 LIT-1557 LIT-1567 LIT-1569 LIT-1572 — Deferred; filed unread and cited as what would answer the question, nothing here rests on them -->
@@ -339,3 +340,8 @@ negligible conflict, and Table 1 shows that neither suffices alone. They do
 not separate the remaining candidates, and they report "an almost complete
 lack of work addressing why certain traits are lost". The question is
 unchanged.
+
+## Note of 2026-11-05: a route to dependence from outside the population
+
+The assistant's, from the aid-dependency filing, after the owner said the loss of skill under assured help "sounds closely related to niche differentiation and specialization phenomena". CLAIM-tmpqa0qu reads aid dependency as the Black Queen's loss (THEORY-1048) under a different supply. Black Queen helpers belong to the same population, so the loss is frequency dependent and stops by itself. Aid comes from a provider outside the population whose supply does not fall as dependence grows, so nothing limits the loss short of what the supply covers. That is a route this question's readings lack. The claim also separates one-way loss, as in the Black Queen and in aid, from reciprocal loss, as in Buchnera (THEORY-1103), which gives the mutual dependence of THEORY-1351. No status changes.
+
