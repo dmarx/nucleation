@@ -399,3 +399,11 @@ No status, title or warrant changes.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The second paste of the pasted synthesis on resource-bounded realizability reads this claim as making the constraint architecture itself a realization. A separates a structure's logical specification from its maintenance mechanism: one abstract constraint can have several implementations, a physical hinge for a fold, an authorization mechanism for a control restriction, a checking or enforcement procedure for an invariant, "with different reliability and resource requirements". A's conclusion: "the architecture may be an ongoing achievement of the system". A's three levels, configurations, the architecture, and the processes that produce or repair it, are offered as schematic, and A notes that the claim allows reciprocal dependencies and does not assume three discrete levels, which fits its recursion. The point about several implementations at different costs is A's addition: the claim says constraints are realized and maintained by something, not in how many ways. No status changes.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+A's synthesis gives the claim a physical instance. In A's words, "binding changes geometry, which changes subsequent binding kinetics", so there is "a feedback between relational organization and physical accessibility". One scaffold realizes different architectures under different staple networks: Rothemund's merge patterns and Dunn et al.'s seams (NOTE-tmp8kyp2, NOTE-tmpvgzvb). Schneider, Möritz and Dietz (NOTE-tmpqi66a) add the qualifier: with the wiring fixed and every staple sequence changed, the folding order barely moved. So the relations, not the relata's sequences, fix the path.
+
+No status changes.

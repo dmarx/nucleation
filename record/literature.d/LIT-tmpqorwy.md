@@ -1,0 +1,104 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmpgw5ab) from the authors' copy of the AAAS
+  reprint on the George M. Church laboratory's publication page, the
+  two-page report and its three figure captions in full, the Supporting
+  Online Material not read; worth reading as a DNA origami device whose
+  conformational change is gated by a designed molecular rule: a barrel
+  held shut by two aptamer locks that open only when both antigen keys
+  are present, a logical AND gate, with the rule fixed by which aptamer
+  sequences are installed and the key concentration needed set by lock
+  length. Its main limits: AND logic only, two inputs, one-shot opening;
+  conformations judged by negative-stain TEM and manual counting or read
+  functionally by flow cytometry; every thermodynamic and kinetic detail
+  in the unread Supporting Online Material.
+title: 'A Logic-Gated Nanorobot for Targeted Transport of Molecular Payloads'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's paste of A's
+    synthesis on DNA origami, which cites the work. The citation was
+    checked by the reader against Crossref (no mailto) and Europe PMC:
+    Shawn M. Douglas, Ido Bachelet and George M. Church (the first two
+    contributing equally), Science 335(6070), 831–834; issued 17 February
+    2012, which is `published:` (Crossref's record was created 16 February
+    2012); received 16 September 2011, accepted 12 January 2012. PMID
+    22344439; not in PMC. No correction was needed. The publisher's copy is
+    paywalled; read from the authors' copy of the AAAS reprint linked from
+    the Church laboratory's own publication page
+    (https://arep.med.harvard.edu/gmc_pub.html, PDF
+    https://arep.med.harvard.edu/pdf/Douglas_Sci_12.pdf). The Supporting
+    Online Material was not read: its landing page returned HTTP 403 behind
+    a bot check, where the reader stopped, and the Harvard DASH repository
+    held no record of the paper. Status Active.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-05'
+published: '2012-02-17'
+doi: '10.1126/science.1214081'
+first_author: 'Douglas'
+keywords:
+- 'DNA origami'
+- 'nanorobot'
+- 'aptamer'
+- 'logic gate'
+- 'drug delivery'
+- 'conformational switching'
+implementations: []
+summary: >-
+  Douglas, Bachelet & Church (2012). A DNA-origami hexagonal barrel in two
+  domains, hinged at the rear and fastened in front by two aptamer-based
+  lock duplexes, opens as an entropic spring when both locks bind their
+  antigen keys, exposing a payload of gold particles or antibody
+  fragments: a logical AND gate over cell-surface inputs, with the rule set
+  by the aptamer sequences installed. Shorter lock duplexes open at lower
+  key concentration but open spontaneously more often; guide staples
+  raise the closed-state yield from 48 % to 97.5 %. Six lock-pair versions
+  discriminated cell lines, and opened robots altered cell signalling in
+  culture.
+---
+<!-- inactive-ok-file: CLAIM-566 CLAIM-569 THEORY-1373 THEORY-tmptmlc7 — Proposed, Unavailable, Skimmed or new; cited from the reading of Douglas, Bachelet and Church (2012) as open -->
+
+# LIT-tmpqorwy: A Logic-Gated Nanorobot for Targeted Transport of Molecular Payloads
+
+Douglas, S. M., Bachelet, I. & Church, G. M. (2012). A Logic-Gated Nanorobot for Targeted Transport of Molecular Payloads. *Science* 335(6070): 831–834. doi:10.1126/science.1214081.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpgw5ab (main text and captions; the Supporting Online Material unread).*
+
+- **An AND gate in the hardware.** "Both locks needed to be opened
+  simultaneously to activate the robot. The robot remained inactive when
+  only one of the two locks was opened. The lock mechanism is thus
+  equivalent to a logical AND gate".
+- **The rule is set by sequence, the body unchanged.** "different aptamer
+  sequences could be encoded in the locks to recognize two inputs"; six
+  versions were built from three aptamers.
+- **Opening is dissociation plus stored strain.** "When both aptamers
+  recognize their targets, the lock duplexes dissociate, and the
+  nanorobot—acting as an entropic spring—undergoes a drastic
+  reconfiguration to expose its previously sequestered surfaces."
+- **A tradeoff in the lock.** "shorter duplexes gave better sensitivity and
+  faster activation rates, but at a cost of increased spontaneous
+  activation"; 16–23 bp locks open at 10 pM of key, 30–44 bp at 1 nM.
+- **Building the closed state costs extra.** "folding with the aid of
+  guide staples increased the yield of closed robots from 48% to 97.5%".
+
+## Standing in the record
+
+Filed for the realizability inquiry, and as the work A's synthesis cites
+for an assembled object that carries an operational rule. It is a clean
+case for CLAIM-025 and QUESTION-388: an operative regime (closed or open)
+and a governing rule (which aptamer pair) both realized, and no capacity
+in the device to revise the rule, which is fixed by the designer at fold
+time. It separates the three costs of CLAIM-569: guide staples paid at
+construction and removed, a key concentration paid to open, set by lock
+length. It persists without regenerating (CLAIM-566, TERM-070). Beside
+it, Marras et al. (LIT-tmp11aw1) cycle a mechanism by strand
+displacement, and the mechanical origami logic of LIT-2082
+(THEORY-1373) is reconfigured where this rule is fixed. Filed from it:
+THEORY-tmptmlc7. No instruction for machine-learning practice.

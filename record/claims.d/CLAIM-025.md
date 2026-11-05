@@ -156,3 +156,11 @@ Readings from the pasted synthesis on constraint architectures give physical cas
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 A's own three levels, the configuration, the constraint architecture and the capacity for architectural change, are this claim's triad, which A does not cite. [CLAIM-566](CLAIM-566.md) crosses it with assembling, persisting and regenerating a form, and [QUESTION-388](../questions.d/QUESTION-388.md) asks what separates a programmable system from one that governs its own reconfiguration. No status changes.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+Douglas, Bachelet and Church's logic-gated barrel (NOTE-tmpgw5ab) separates the levels as the claim does. The operative regime is closed or open. What governs it is fixed when the barrel is folded: the pair of aptamer locks, which act as an AND gate over two antigens. No capacity to transform that rule is present; changing the gate means folding a new barrel with other aptamers. A's reading, "A molecular device can implement a designed policy without being an autonomous governor of that policy", is A's framing, consistent with the paper. Marras et al.'s mechanisms (NOTE-tmpjeolx) are reconfigured only by strands added from outside.
+
+No status changes.

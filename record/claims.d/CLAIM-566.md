@@ -120,3 +120,11 @@ long waiting periods", so defective folds persist unrepaired; that part is simul
 lore. Regeneration is not addressed.
 
 No status changes.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+A restates the claim's three properties, which came from A's earlier synthesis, as P_assemble, P_survive(T) and P_regenerate(T): "A molecular structure can be easy to assemble but chemically fragile. It can be durable but difficult to assemble. And it can possess both properties without regenerating itself." A adds that self-assembly "is not the same as self-maintenance". DNA origami's "design, components, and assembly conditions are typically provided externally", and it is "a strength of the example rather than a weakness". The readings bear this out. Douglas et al. 2009 (NOTE-tmp77tp9) report multilayer designs that need week-long anneals and fold at 7 to 44 %. None of the readings reports regeneration.
+
+No status changes.

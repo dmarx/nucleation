@@ -95,3 +95,11 @@ for its reconfiguration comes from.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The pasted synthesis on resource-bounded realizability first asks whether constraints are constitutive of the object or can themselves be reconfigured by computation, which would point to "computation that constructs, modifies, and navigates spaces of constraints"; A then finds the filing already answers yes. [TERM-114](../terms.d/TERM-114.md) gives a frame in which this question can be put: changes of architecture are costed moves of their own, beside moves within one architecture. In that frame a merely programmable system is one whose architectural moves are chosen from outside, and the question is what makes the choosing the system's own. The frame states the moves and does not answer that. The reading is the filer's. No status changes.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+Douglas, Bachelet and Church's barrel (NOTE-tmpgw5ab) is a clean case of the programmable side. Its rule, which antigens open it, is set at folding by the aptamer sequences installed; six lock versions were built. Nothing in it feeds back on that rule. A's synthesis draws the same line: "That response does not automatically grant the structure the ability to revise the rules governing its own behavior." So DNA origami, as read here, offers programmable systems and no self-governing one.
+
+No status changes.

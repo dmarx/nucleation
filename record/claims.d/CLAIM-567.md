@@ -50,6 +50,7 @@ summary: >-
   separates. The construction is the filer's, from A's two separations;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-566 — Proposed; cited from the note on A's synthesis on DNA origami -->
 <!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1423 THEORY-1418 THEORY-1427 THEORY-1409 CLAIM-571 CLAIM-562 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-206 CASE-207 CASE-209 CLAIM-568 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
@@ -198,5 +199,13 @@ with broken seams, so reliability of reaching is a design property apart from fe
 the earliest-binding domains removed the target is still reached, "via another, slower pathway",
 so reachability survives while speed does not; they report no yields, so reliability is not
 measured there.
+
+No status changes.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+A closes on the claim's distinction: "The intended organization is specified in the design. The realized organization is produced by dynamics. Its persistence is a further property." That is this claim together with CLAIM-566. Two of A's further works add numbers. In Majikes et al. 2021 (NOTE-tmpetbc9), a single fold is feasible, yet at high staple excess fewer than half the molecules fold. In Douglas et al. 2009 (NOTE-tmp77tp9), multilayer designs fold at 7 to 44 % after week-long anneals.
 
 No status changes.

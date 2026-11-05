@@ -44,7 +44,7 @@ summary: >-
   abundance" is thus made exact. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpj3cmd CLAIM-tmp7y162 QUESTION-tmpg0j9y CLAIM-577 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
+<!-- inactive-ok-file: THEORY-tmpzi9gz CASE-tmpj3cmd CLAIM-tmp7y162 QUESTION-tmpg0j9y CLAIM-577 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
 
 # CLAIM-tmpt0fnx: Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as DNA origami's blocked single fold is by staple excess
 
@@ -77,7 +77,7 @@ consumes alike, it stays at 59.3 %.
 
 ## The molecular instance
 
-Majikes et al. 2021, read in this pull request: for one staple-mediated
+Majikes et al. 2021 (NOTE-tmpetbc9, THEORY-tmpzi9gz), read in this pull request: for one staple-mediated
 fold, closing the fold is intramolecular (its effective concentration j),
 while blocking it takes a second staple molecule (concentration S₀). Their
 equilibrium model gives folded/blocked = j/S₀ at high excess, so yield
