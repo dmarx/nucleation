@@ -36,7 +36,7 @@ summary: >-
   successors' committors, so its total exit rate, which sets how long it
   persists, cancels. A's second part is that "an intermediate can persist
   while reducing the target's formation probability". It is the trap of
-  CLAIM-184, shown in DNA origami by Dunn et al.'s seams. The wording is
+  [CLAIM-184](CLAIM-184.md), shown in DNA origami by Dunn et al.'s seams. The wording is
   A's, with the assistant's proof; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-184 CLAIM-185 TERM-tmp3awsy — Proposed, Skimmed or new; entries cited as open -->
@@ -69,24 +69,24 @@ The expected residence time in i is 1/λ_i.
 
 ## The molecular instance
 
-Dunn et al. (NOTE-tmpvgzvb): long-range seam staples that bind early and
+Dunn et al. ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)): long-range seam staples that bind early and
 "effectively, irreversibly" trap folding into the wrong fold. The trap
 persists, and persisting is what makes it a trap.
 
 ## What it qualifies
 
-- **CLAIM-185's anchor.** "Persistence makes anchoring possible;
+- **[CLAIM-185](CLAIM-185.md)'s anchor.** "Persistence makes anchoring possible;
   productivity requires demonstrating that the anchor improves subsequent
   development." A: "A stable anchor is not necessarily a good anchor."
-  CLAIM-184 says early anchors can entrench; this claim says entrenchment
+  [CLAIM-184](CLAIM-184.md) says early anchors can entrench; this claim says entrenchment
   is invisible in persistence alone.
-- **QUESTION-038,** what turns a persisting structure into an anchor. This
+- **[QUESTION-038](../questions.d/QUESTION-038.md),** what turns a persisting structure into an anchor. This
   claim says it is not persistence.
 
 ## What it does not say
 
 - **That a high committor shows a cause.** "The intermediate might simply
   occur along already-favorable trajectories, without being responsible
-  for their success" (TERM-tmp3awsy's interventional measure).
+  for their success" ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)'s interventional measure).
 - **Anything about organizations** beyond the logic. A: "The broader
   organizational interpretation remains to be tested."

@@ -21,8 +21,8 @@ summary: >-
   structure). Its measure is the interventional difference Δ_N = Pr(τ_F ≤ T
   | do(I_N), c) − Pr(τ_F ≤ T | do(I_0), c). The committor q(s) = Pr_s(τ_F <
   τ_K) ranks intermediates by their futures but does not by itself show
-  causation. It bears on QUESTION-038 and QUESTION-380, and qualifies
-  CLAIM-185's anchor. The wording is A's; adopting it is the owner's call.
+  causation. It bears on [QUESTION-038](../questions.d/QUESTION-038.md) and [QUESTION-380](../questions.d/QUESTION-380.md), and qualifies
+  [CLAIM-185](../claims.d/CLAIM-185.md)'s anchor. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-185 CLAIM-566 CLAIM-tmpiyvk1 CLAIM-tmpuv9yj — Proposed, Skimmed or new; entries cited as open -->
 
@@ -75,23 +75,23 @@ Four things must be declared, by A's four questions:
   (0.80 − 0.21 − 0.21 + 0.20). A minimal productive nucleating set is one
   reaching a threshold η with no proper subset that does, and there may be
   several incomparable ones. The assistant's qualification is
-  CLAIM-tmpuv9yj: where V is not monotone, the minimal sets do not
+  [CLAIM-tmpuv9yj](../claims.d/CLAIM-tmpuv9yj.md): where V is not monotone, the minimal sets do not
   determine the productive ones.
 
 ## Related distinctions A draws
 
 - **Fragile, productively persistent, kinetically trapping.** "neither
   maximum stability nor minimum flexibility is generally the appropriate
-  objective". Dunn et al. (NOTE-tmpvgzvb): "reversible bond-formation is
+  objective". Dunn et al. ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)): "reversible bond-formation is
   important in recovering from transient misfoldings".
 - **Not autocatalysis, not closure, not regeneration.** Each can occur
-  without the others (TERM-070, CLAIM-566).
+  without the others ([TERM-070](TERM-070.md), [CLAIM-566](../claims.d/CLAIM-566.md)).
 - **Persistence, productivity, integration and closure** "can vary
-  independently" (CLAIM-tmpiyvk1 for the first two).
+  independently" ([CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md) for the first two).
 
 ## The molecular case
 
-Schneider, Möritz and Dietz (NOTE-tmpqi66a) removed the earliest-binding
+Schneider, Möritz and Dietz ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)) removed the earliest-binding
 segments. The compacted intermediate did not form, and folding proceeded "via
 another, slower pathway". That is the term's comparator in
 experiment, with the time to fold as the measure of productivity.

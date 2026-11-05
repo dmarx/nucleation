@@ -208,7 +208,7 @@ No status changes.
 
 From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
 
-A's third synthesis puts the claim's entrenchment as the third of three cases, a partial organization that "persists in a configuration that makes the target difficult to reach". A cites Dunn et al.'s abstract: "reversible bond-formation is important in recovering from transient misfoldings". The assistant's CLAIM-tmpuv9yj adds that two productive nuclei can entrench together into a trap.
+A's third synthesis puts the claim's entrenchment as the third of three cases, a partial organization that "persists in a configuration that makes the target difficult to reach". A cites Dunn et al.'s abstract: "reversible bond-formation is important in recovering from transient misfoldings". The assistant's [CLAIM-tmpuv9yj](CLAIM-tmpuv9yj.md) adds that two productive nuclei can entrench together into a trap.
 
 No status changes.
 

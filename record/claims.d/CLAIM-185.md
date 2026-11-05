@@ -304,6 +304,6 @@ No status changes.
 
 From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
 
-A reads this claim "with an important qualification": "Persistence makes anchoring possible; productivity requires demonstrating that the anchor improves subsequent development. A stable anchor is not necessarily a good anchor." CLAIM-tmpiyvk1 shows the two vary independently: a state's chance of reaching the target does not depend on how long it persists. TERM-tmp3awsy names what the anchor must also be, a productive nucleus, judged against a comparator. The claim's "can evolve only on anchors" is untouched; a reading of it on which every anchor helps is not.
+A reads this claim "with an important qualification": "Persistence makes anchoring possible; productivity requires demonstrating that the anchor improves subsequent development. A stable anchor is not necessarily a good anchor." [CLAIM-tmpiyvk1](CLAIM-tmpiyvk1.md) shows the two vary independently: a state's chance of reaching the target does not depend on how long it persists. [TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md) names what the anchor must also be, a productive nucleus, judged against a comparator. The claim's "can evolve only on anchors" is untouched; a reading of it on which every anchor helps is not.
 
 No status changes.

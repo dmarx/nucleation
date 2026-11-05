@@ -84,6 +84,6 @@ not a finding.
 
 From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
 
-A's third synthesis refines the design into four interventions: a baseline, establishing the candidate nucleus, disrupting it, and establishing an alternative nucleus, in A's table: "Test whether productivity is specific to the arrangement rather than simply added stabilization". A adds the outcome to look for: stabilizing a nucleus that raises an intermediate's chance but lowers final yield. That "wouldn't refute the framework" but "would establish why productivity must be specified relative to a target and horizon". The alternative-nucleus arm also tests CLAIM-tmpuv9yj, whether productive relations combine.
+A's third synthesis refines the design into four interventions: a baseline, establishing the candidate nucleus, disrupting it, and establishing an alternative nucleus, in A's table: "Test whether productivity is specific to the arrangement rather than simply added stabilization". A adds the outcome to look for: stabilizing a nucleus that raises an intermediate's chance but lowers final yield. That "wouldn't refute the framework" but "would establish why productivity must be specified relative to a target and horizon". The alternative-nucleus arm also tests [CLAIM-tmpuv9yj](../claims.d/CLAIM-tmpuv9yj.md), whether productive relations combine.
 
 No status changes.
