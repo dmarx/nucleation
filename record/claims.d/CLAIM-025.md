@@ -67,6 +67,7 @@ complements:
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-tmp99w2g — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-025: An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately
 
@@ -151,3 +152,7 @@ already rested on this claim.
 ## Note of 2026-11-05: the constraint-architecture readings
 
 Readings from the pasted synthesis on constraint architectures give physical cases of the triad as separate hardware. In Hu et al. ([NOTE-tmpu2xuw](../notes.d/NOTE-tmpu2xuw.md)) and Chen, Tan and Yan ([NOTE-tmp2uw2z](../notes.d/NOTE-tmp2uw2z.md)) the function computed, the arrangement fixing it and the reconfiguring mechanism are distinct parts, and the function survives removal of the mechanism. Deng et al. ([NOTE-tmp5sqfp](../notes.d/NOTE-tmp5sqfp.md)) switch separately a shape response, the magnetization pattern selecting it and the laser rewriting of that pattern. Zang et al. ([NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md)) map stable states, barrier ordering and prestressing springs onto the three, retuning the organization in place without refabricating the cells. Liu, Zhang and Fang ([NOTE-tmp2mkll](../notes.d/NOTE-tmp2mkll.md)) qualify: "the same arrangement of drivers can realize multiple distinct spatial configurations", but regrouping is not studied. In Stern et al.'s simulated sheet ([NOTE-tmpwrlv9](../notes.d/NOTE-tmpwrlv9.md)) overtraining leaves one structure, spoiling the selection while the sheet still folds. In all of them the capacity to transform comes from outside, a robot, rig or supervisor: separable parts, not a system transforming itself. No status changes.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+A's own three levels, the configuration, the constraint architecture and the capacity for architectural change, are this claim's triad, which A does not cite. CLAIM-tmp99w2g crosses it with assembling, persisting and regenerating a form, and QUESTION-tmpqlcf4 asks what separates a programmable system from one that governs its own reconfiguration. No status changes.

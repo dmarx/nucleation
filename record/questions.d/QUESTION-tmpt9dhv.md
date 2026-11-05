@@ -26,6 +26,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpal9mc CLAIM-tmpuxuo4 CLAIM-tmpbi4ca CASE-tmp06sg5 TERM-tmpuc919 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: CLAIM-tmp99w2g CASE-tmpoo2tj — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # QUESTION-tmpt9dhv: When does an intervention on a constraint architecture create a capability the system lacked, rather than make one it already had cheaper, faster or more reliable to reach, and how can the two be told apart?
 
@@ -84,3 +85,7 @@ A single intervention shown to raise performance, which does not say
 whether it widened what was possible or cheapened what already was; or a
 classification that holds only because the declared space was drawn to
 make it hold.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+A's research programme in Part 3 compares architectures on seven dimensions: static compatibility, infinitesimal freedom, the global topology of the configuration space, dynamic reachability, robustness, the cost of reconfiguration, and maintenance under turnover. A's crucial experiment: "construct two organizational architectures with the same component resources and similar ordinary outputs but different feasible response geometries", then ask "Does the new organization merely lower costs? Does it change the attainable set? Does it add a branch of behavior? Does it create a new viable regime? And does that regime persist when the intervention ends?" The last is the persistence half of CLAIM-tmp99w2g, and CASE-tmpoo2tj is the readiness version of the paired architectures. No status changes.

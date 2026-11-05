@@ -40,6 +40,7 @@ summary: >-
   it is infinite. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmps6lqg THEORY-tmpqzxwh CLAIM-tmp9jvpb CLAIM-tmpuk8gq TERM-tmp2ysyt CASE-tmp06sg5 CASE-tmp0g3pa CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-tmpb5t9j CASE-tmpe48yq CASE-tmpez9ok CASE-tmpjldzw CASE-tmpqk2kd CLAIM-tmpancvu TERM-tmp26wo4 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-tmpbi4ca: For a fixed architecture, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two
 
@@ -125,3 +126,7 @@ target and a reachable one ([CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md)).
   sets are caps on a scalar, not viability kernels ([THEORY-134](../theory.d/THEORY-134.md)); and
   inclusion of what is reachable under a cap is only a scalar case of the
   inclusion [CLAIM-354](CLAIM-354.md) compares agents by.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+Later entries from the same paste instance and extend the claim. CASE-tmpe48yq is a real mechanism's version: a degree-4 origami vertex whose branch switch must pass the flat state, so its footprint threshold (about 1.87) exceeds both endpoints (0.75 and 0.875). CASE-tmpb5t9j and CASE-tmpez9ok give the infinite case, and CASE-tmpjldzw the qualifier "for a fixed architecture" at work in a built system. The time-for-peak example and the resource-type table this claim mentions in passing are now CASE-tmpqk2kd and TERM-tmp26wo4, and construction cost as a third requirement is CLAIM-tmpancvu. No status changes.

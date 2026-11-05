@@ -27,6 +27,7 @@ summary: >-
   architecture-mediated transition; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbi4ca TERM-tmp2ysyt — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: CASE-tmpjldzw — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CASE-tmp06sg5: An architecture-mediated transition: moving between two configurations by first switching to a staging architecture under which the path is cheaper, moving, then switching back, lowers the peak resource need from 1.3 to 1.0
 
@@ -88,3 +89,7 @@ slack ([TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)) falls from 0.6 to 0.3. Chec
   may take longer and spend more in total; only the peak is compared.
 - **That the switch is reversible at the stated cost**, or that it leaves
   the organization's commitments intact. Both are assumed.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+CASE-tmpjldzw is a physical counterpart: in Zang et al.'s Kresling stack, prestress applied from outside reorders the barriers and opens transitions that no budget under the old arrangement opens. No status changes.

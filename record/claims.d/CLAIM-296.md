@@ -60,6 +60,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-tmpvhj8j TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: NOTE-tmpxzaki NOTE-tmpy7mc8 NOTE-tmpdnqqh LIT-tmpum63p LIT-tmpt3a4i LIT-tmpjzyct — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: CASE-tmp0s6cg CASE-tmpqk2kd — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-296: What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
 
@@ -150,3 +151,7 @@ Larson's hypercube model, Daskin's MEXCLP and ReVelle and Hogan's MALP ([LIT-tmp
 ## Note of 2026-11-04: deployability under a policy
 
 A's [CLAIM-tmpvhj8j](CLAIM-tmpvhj8j.md) and [TERM-tmpuc919](../terms.d/TERM-tmpuc919.md) (both Proposed) carry the split between having and deploying to an organization. Equipment present and staff qualified do not give readiness if a complementary capacity is absent or the policy does not mobilize them, and since readiness is a joint probability, one resource's utilization need not track it. The claim is unchanged.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+CASE-tmp0s6cg, a folded sheet whose fixed area fits the stowage envelope only folded and supplies the required area only unfolded, and CASE-tmpqk2kd, a schedule whose peak need depends on the deadline, illustrate the distance between having a resource and deploying it. No status changes.

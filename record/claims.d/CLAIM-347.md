@@ -83,6 +83,7 @@ supports:
 <!-- inactive-ok-file: NOTE-tmpsnl7o — Skimmed; Chou, Chua, Teo and Zheng, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: NOTE-tmphcgif — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: CASE-tmpsbhp8 CLAIM-tmpuxuo4 CLAIM-tmpvl8j0 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
@@ -366,3 +367,7 @@ Akitaya et al. ([NOTE-tmpd0dln](../notes.d/NOTE-tmpd0dln.md)) fit directly: loca
 Zang et al. ([NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md)) fit relief as strict enlargement only on the record's own reading of 56 ordered transitions as demands: prestress, supplied from outside, opens the 8 blocked ones and removes none, and the 16 needing intermediate states stay unachievable.
 
 No status changes.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+CLAIM-tmpuxuo4 shows that the complex indexed by a resource budget is monotone in the budget and contained in the unbudgeted complex, so raising a budget relieves only sets that are faces of the unbudgeted complex; CASE-tmpsbhp8 is a small instance with a hollow triangle no budget fills. CLAIM-tmpvl8j0 separates relieving a mismatch from redistributing or exploiting it. No status changes.

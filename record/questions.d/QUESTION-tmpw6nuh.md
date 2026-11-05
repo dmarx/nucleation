@@ -24,6 +24,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmpop5d8 THEORY-tmpx5uxp CLAIM-523 — Proposed; the readings' accounts and the record's claim on legibility, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmp99w2g — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # QUESTION-tmpw6nuh: Under what conditions does structural memory improve an organization's control over its future behavior, and when does accumulated history instead create hidden states and unexpected transition pathways?
 
@@ -76,3 +77,7 @@ would answer part.
 A memory that works, or one that fails, without the conditions that
 separate them; or a count of states that includes ones the declared
 operations cannot reach, as the paper's 64 does.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+Two points this question names in passing are now entries of their own: assembling, persisting and regenerating a form (CLAIM-tmp99w2g), and programmable against self-governing reconfiguration (QUESTION-tmpqlcf4). No status changes.

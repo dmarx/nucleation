@@ -23,6 +23,7 @@ summary: >-
   contingency, not one number. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmp06sg5 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-tmpuc919: scenario-conditioned response readiness: the probability that an organization operating under a specified policy can deliver an effective response to a specified contingency within its deadline
 
@@ -63,3 +64,7 @@ ready for some contingencies than the other.
   and one fully prepared can be unready for the contingency imposed.
 - **Utilization or realized performance.** It is defined under
   intervention, so a record of what was done does not measure it.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+The pasted synthesis on constraint architectures reads readiness as a resource-constrained transition capability: the probability, under policy, budget and architecture, of reaching a response configuration before the deadline without breaking constraints, with a planning problem that minimizes maintenance and expected operating cost subject to a floor on it. A: "Maintaining a specialized rescue unit is analogous to maintaining a mechanism that can be activated to reach an otherwise unavailable configuration before a deadline." See CASE-tmp06sg5 and QUESTION-tmpt9dhv. The term is unchanged. No status changes.

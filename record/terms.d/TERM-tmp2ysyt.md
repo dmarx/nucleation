@@ -28,6 +28,7 @@ summary: >-
   is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-tmp46hcg TERM-tmpuc919 TERM-tmpexd3x TERM-tmpbxjmx CLAIM-tmpbi4ca CLAIM-tmpuk8gq CLAIM-tmp4g8e1 CASE-tmp06sg5 CASE-tmp0g3pa — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: CASE-tmpe48yq TERM-tmp26wo4 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-tmp2ysyt: reconfiguration slack: the temporary resources a system needs to move between two configurations it can each hold, beyond what holding either one requires, while keeping specified commitments
 
@@ -117,3 +118,7 @@ bottleneck budget, the sets of sufficient budgets, and this slack.
 A claim of the record's own stated in it that the owner adopts, or a
 case outside constructions where the gap between a transition's peak and
 its endpoints' requirements is measured. Adopting it is the owner's call.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+CASE-tmpe48yq gives a geometric instance, a slack of about 0.99, and shows the slack depends on the declared resource: under crease energy instead of footprint it is 0. TERM-tmp26wo4 sorts resources by type where this term's three reserves sort them by purpose, so one reserve can be of several types. No status changes.

@@ -47,6 +47,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmps6lqg THEORY-tmpq2qdv THEORY-tmpucnpz THEORY-tmpmqxmo CLAIM-tmpbi4ca CLAIM-tmp675a9 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-tmpe48yq CASE-tmpez9ok CASE-tmpnqvjs CLAIM-tmpal9mc — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-tmp9jvpb: That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it
 
@@ -141,3 +142,7 @@ relative to the declared model of admissible transformations".
   is placed can matter more than how much ([CLAIM-tmp675a9](CLAIM-tmp675a9.md)).
 - **That the separations are absolute.** Each is relative to a declared
   class of transformations and a declared process.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+At a footprint budget of 1.5, CASE-tmpe48yq's two folded states are both feasible and neither can reach the other. CASE-tmpez9ok makes the declared class of moves itself depend on an energy budget. CASE-tmpnqvjs separates simultaneous, sequential and separate capability for one squad. CLAIM-tmpal9mc sorts the ways reachability fails into four obstructions with different remedies. No status changes.

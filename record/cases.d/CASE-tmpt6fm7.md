@@ -24,6 +24,7 @@ summary: >-
   [CLAIM-tmp4pk8d](../claims.d/CLAIM-tmp4pk8d.md). The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp5rh3v CLAIM-tmp4pk8d TERM-tmp5t7y8 TERM-tmpuc919 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: CLAIM-tmpr4sof — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CASE-tmpt6fm7: Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task
 
@@ -93,3 +94,7 @@ policy acts first on a report and then on the first unit's assessment.
   times and a perfect assessment.
 - **Anything about the squad's readiness** ([TERM-tmpuc919](../terms.d/TERM-tmpuc919.md)): it assumes the
   squad can deploy, and asks only when to send it.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+The pasted synthesis on constraint architectures reads this case through FACT: dispatch, staging, cancellation and redeployment rules constrain the squad's immediate freedom so that the specialized response can be produced reliably. A: "A dispatch protocol is therefore not merely a restriction. It is part of the architecture that makes specialized response operationally effective." A limits the analogy itself: "These cannot be represented directly as six-dimensional screw systems." CLAIM-tmpr4sof says what such a constraint can and cannot improve. No status changes.
