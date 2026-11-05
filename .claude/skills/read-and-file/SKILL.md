@@ -26,7 +26,8 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **Separate the voices.** The owner's turns are the owner's. An
   assistant's turns, and anything pasted from another assistant, are that
   assistant's. The owner did not write them and has not endorsed them
-  unless the owner says so.
+  unless the owner says so. The filing assistant's own ideas are a third
+  voice, kept apart from both (step 12).
 - **Keep the source whole.** Save it verbatim to the scratchpad, and point
   every reader and drafter at that file. A condensation written for a
   brief is the lead's own text. Label it so and keep it in a separate
@@ -205,6 +206,35 @@ Nothing in the source is dropped silently. Add a changelog fragment
   with `luria.ref_status.scan(files=...)`, is fine for diagnosis.
 - **Commit and push each step.** Pull before every push, because CI's
   repair lands as its own commit.
+
+## 12. Offer your own contributions
+
+When the filing is done, the lead has read across all of it, which no
+reader or source has. Say what that suggests, and offer it to the owner
+before filing anything.
+
+- **Look for what only the whole shows.** Promising places are where two
+  sources' constructions join into a result neither states, where several
+  readings point the same way, where every reading shares an assumption
+  (who supplies a capacity, which quantity is held fixed), and where the
+  filing rests mostly on analogy and needs a test.
+- **Offer, then file.** List the ideas in the reply, ranked by how far
+  you would stand behind each. Say which are demonstrated, which are
+  hypotheses, and what each would cost to check. File only what the owner
+  accepts.
+- **The assistant's voice is a third voice**, beside the owner's and the
+  source's. File these ideas as `Proposed`, and end each summary "The
+  wording is the assistant's (Claude, in this session); adopting it is the
+  owner's call."
+- **Hold them to the record's standards.**
+  - Check any proof or worked number yourself, with `python3 -I` where it
+    computes.
+  - A hypothesis says what would defeat it, including the objection that
+    it only restates an entry the record already holds.
+  - A proposed test goes on the question it would answer, as a dated
+    note.
+- **The curation entry gets a section** listing them, and the changelog
+  fragment a line.
 
 ## The reader's brief
 
