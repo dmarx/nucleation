@@ -1,0 +1,86 @@
+---
+status: Open
+title: 'When does an intervention on a constraint architecture create a capability the system lacked, rather than make one it already had cheaper, faster or more reliable to reach, and how can the two be told apart?'
+version: 1
+tags:
+- operations-research
+- society-and-governance
+- control-theory
+date: '2026-11-05'
+line:
+- distributed-agency
+summary: >-
+  A's proposal, from the pasted synthesis on constraint architectures
+  (pasted by the owner on 2026-11-04, continuing the exchange on emergency
+  readiness whose share link could not be fetched), Part 4. A's table of
+  what each intervention changes: a budget changes the resource-feasible
+  part of the same configuration space, crease or linkage constraints the
+  space itself, prestress the energy landscape, actuator placement the
+  controlled reachable set, the folding schedule peak need and completion
+  time, a maintained reserve reliability under uncertain demand. A asks
+  "whether a proposed change genuinely creates new capabilities or merely
+  makes already available ones less expensive", and proposes an
+  experiment over states A, B and a staging C. No held question asks it;
+  CLAIM-357's split of structural frustration from governance regret is
+  its nearest relative. The wording is A's; adopting it is the owner's
+  call.
+---
+<!-- inactive-ok-file: CLAIM-tmpal9mc CLAIM-tmpuxuo4 CLAIM-tmpbi4ca CASE-tmp06sg5 TERM-tmpuc919 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+
+# QUESTION-tmpt9dhv: When does an intervention on a constraint architecture create a capability the system lacked, rather than make one it already had cheaper, faster or more reliable to reach, and how can the two be told apart?
+
+## Why it is a question
+
+A's table pairs each kind of intervention with what it changes:
+
+| intervention | what it changes |
+|---|---|
+| increase a budget | the resource-feasible subset of the same configuration space |
+| change crease or linkage constraints | the configuration space itself |
+| change prestress | the energy landscape and the dynamically accessible paths |
+| change actuator placement | the controlled reachable set |
+| change the folding schedule | peak resource needs and completion time |
+| add a maintained reserve | reliability under uncertain future demands |
+
+The table's wording is the filer's summary of A's. A: "We could then ask
+whether a proposed change genuinely creates new capabilities or merely
+makes already available ones less expensive. That distinction is very
+close to Nucleation's distinction between structural frustration and
+governance regret." CLAIM-357 separates the two: a positive frustration
+residual says no admissible update meets the requirements, a positive
+regret only that the actual update does worse than the best. On the
+table's reading, only the second row changes what is possible at all;
+the others change what is affordable, reachable by the inputs, reliable
+or timely within a fixed space.
+
+The record has pieces of an answer. CLAIM-tmpuxuo4 shows that a budget
+enlarges the compatibility complex only up to the unbudgeted one, so a
+budget never creates a jointly feasible set the architecture excludes.
+CLAIM-tmpal9mc pairs four obstructions to a transition with the
+intervention that acts on each. What is open is the general case: an
+intervention that changes several things at once (prestress that also
+changes which configurations are stable, a reserve that also changes the
+architecture), and whether a new capability can be defined without a
+declared space against which it is new.
+
+## What would answer it
+
+A criterion, relative to a declared model, that classifies an
+intervention as enlarging the set of feasible or reachable states, or as
+lowering the cost, time or failure probability of reaching states already
+reachable; and a test that applies it to systems whose configuration
+space is not given in advance. A's proposed experiment is one route:
+states A and B and a staging state C, measuring the bottleneck budget
+B*(A,B) of CLAIM-tmpbi4ca, the least time T*(A,B;b) at budget b, and the
+readiness R^π(A→B;b,z) in TERM-tmpuc919's sense, and producing cases
+"where B is statically feasible but unreachable, reachable but too
+expensive, reachable only through an architectural change, or reachable
+only when temporary reserve capacity is available." CASE-tmp06sg5 is one
+of the third kind.
+
+## What would not answer it
+
+A single intervention shown to raise performance, which does not say
+whether it widened what was possible or cheapened what already was; or a
+classification that holds only because the declared space was drawn to
+make it hold.
