@@ -34,11 +34,11 @@ summary: >-
   The assistant's, on the owner's request of 2026-11-05 to connect the
   record's inquiry to DNA origami. The record's budgeted reachability holds
   the costs fixed and lets a budget admit more moves, so more budget never
-  loses a state (CLAIM-581, CLAIM-570). Heat in DNA origami folding is not
+  loses a state ([CLAIM-581](CLAIM-581.md), [CLAIM-570](CLAIM-570.md)). Heat in DNA origami folding is not
   such a budget: it pays for crossing barriers and also sets the free
   energies, raising entropic barriers and melting the target. In a
   four-state annealing toy with free energies linear in temperature
-  (CASE-tmpa6s9d), the target is reached within an hour only near
+  ([CASE-tmpa6s9d](../cases.d/CASE-tmpa6s9d.md)), the target is reached within an hour only near
   318.6 K, best 90.3 %, within sixteen hours from 313 to 323.5 K, and a
   schedule of five minutes at 327 K then 318 K reaches 98.5 % within the
   hour. The readings filed beside it report the same shape in DNA
@@ -57,7 +57,7 @@ summary: >-
 
 Let a system's moves have costs c(m; θ) that depend on a level θ of some
 resource, and let a time budget t be spent on top. For fixed costs,
-CLAIM-581's threshold structure holds: the states reached within a
+[CLAIM-581](CLAIM-581.md)'s threshold structure holds: the states reached within a
 budget form an up-set in the budget, and their classes nest into one
 tree. Three things change when θ also sets the costs.
 
@@ -73,7 +73,7 @@ tree. Three things change when θ also sets the costs.
    that makes a precursor without a trap, then a level that completes the
    target from the precursor.
 
-All three are shown by CASE-tmpa6s9d, computed with python3 -I.
+All three are shown by [CASE-tmpa6s9d](../cases.d/CASE-tmpa6s9d.md), computed with python3 -I.
 
 ## Why DNA origami
 
@@ -100,8 +100,8 @@ claim report each of the three points in origami:
 
 ## What it does not say
 
-- **That the record's fixed-cost claims are wrong.** CLAIM-581 and
-  CLAIM-570 hold when the costs do not depend on the budget. This claim
+- **That the record's fixed-cost claims are wrong.** [CLAIM-581](CLAIM-581.md) and
+  [CLAIM-570](CLAIM-570.md) hold when the costs do not depend on the budget. This claim
   marks their scope.
 - **That DNA origami folds by the toy's mechanism or at its numbers.** The
   toy is chosen to show the effect. The readings show the shape, not the
@@ -113,4 +113,4 @@ claim report each of the three points in origami:
   admits more without reshaping much (Rothemund), though not entirely.
   Which organizational resources reshape the landscape they pay for, the
   way funding can change the incentives it is spent against, is open
-  (QUESTION-374).
+  ([QUESTION-374](../questions.d/QUESTION-374.md)).

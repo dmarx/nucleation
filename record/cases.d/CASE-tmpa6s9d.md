@@ -77,11 +77,11 @@ of levels.
 
 - **A resource that sets the costs it pays.** In the record's budgeted
   reachability the costs are fixed and a budget only admits more moves, so
-  more budget never loses a reachable state (CLAIM-581, CLAIM-570).
+  more budget never loses a reachable state ([CLAIM-581](../claims.d/CLAIM-581.md), [CLAIM-570](../claims.d/CLAIM-570.md)).
   Here raising T speeds every crossing and at the same time raises the
   entropic barriers and melts the target, so what is reachable is a band of
   T, not everything above a threshold. This is the construction for
-  CLAIM-tmp7y162.
+  [CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md).
 - **Two resources that do not reduce to one.** Time and temperature are
   both spent, but only time is a budget in the record's sense; temperature
   is a setting of the landscape. The window in T widens with t.
@@ -89,7 +89,7 @@ of levels.
   Wagenbauer, Wachauf and Dietz's three-step folding matched a 16-hour ramp
   in 1.5 hours, and as Sobczak's dissertation found a short-domain design
   that folds better after rapid cooling and not at all after slow.
-- **Holding is not reaching** (CLAIM-569, CLAIM-571). F is stable up to
+- **Holding is not reaching** ([CLAIM-569](../claims.d/CLAIM-569.md), [CLAIM-571](../claims.d/CLAIM-571.md)). F is stable up to
   340.9 K but cannot be formed within an hour above about 326 K.
 
 Being fictional, it cannot show that DNA origami behaves this way, nor at
