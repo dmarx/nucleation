@@ -30,7 +30,7 @@ bears_on:
 - QUESTION-tmp3icc7
 summary: >-
   The assistant's own proposition, filed on 2026-11-05 at the owner's
-  request after the frontiers of CLAIM-tmpatpn9 were computed on the
+  request after the frontiers of [CLAIM-tmpatpn9](CLAIM-tmpatpn9.md) were computed on the
   degree-4 vertex. As the observing budget rises, the observer's partitions
   form a chain, each the common refinement of the probes affordable so far;
   as the acting budget rises, the system's reachable classes form another,
@@ -59,12 +59,12 @@ states with a cost, and peak costs on reversible moves.
 1. **Two chains.** Order the probes by cost, p₁, …, p_k. As o rises, O_o
    runs through the chain π₀ ⊇ π₁ ⊇ … ⊇ π_k, where π_j is the common
    refinement of p₁, …, p_j and π₀ puts everything in one class. As a
-   rises, A_a runs through the levels of the merge tree of CLAIM-tmpq06t8,
+   rises, A_a runs through the levels of the merge tree of [CLAIM-tmpq06t8](CLAIM-tmpq06t8.md),
    from all-apart to the components of the move graph.
 2. **Agreement.** O_o = A_a exactly when the two are the same partition,
    so the partitions on which they ever agree are the partitions in both
    chains. Each agreement holds on a rectangle, [o_j, o_(j+1)) × [a_i,
-   a_(i+1)), between consecutive changes of each chain (CLAIM-tmpatpn9).
+   a_(i+1)), between consecutive changes of each chain ([CLAIM-tmpatpn9](CLAIM-tmpatpn9.md)).
 3. **What the order can do.** Changing the probe costs changes the first
    chain and not the second. Every partition in the first chain is the
    common refinement of some set of probes. Conversely, any such
@@ -86,7 +86,7 @@ common refinements of probe subsets, every time.
 
 ## The vertex
 
-On CASE-tmpe48yq's nine states, the merge tree's middle level is the flat
+On [CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md)'s nine states, the merge tree's middle level is the flat
 state with the four half-branches, which is the common refinement of the
 flatness, mode and side probes. With costs in that order and depth last,
 that level is in the observer's chain and the two partitions agree on it.
@@ -101,7 +101,7 @@ later refinement, all apart, agrees only in the trivial corner.
   the merge tree. What can be measured at all fixes which of its levels are
   candidates (refinements of probe sets). What is cheap to measure first
   fixes which candidates actually show up as individuals both from outside
-  and from inside. CLAIM-tmp42yq0 said individuation is indexed by two
+  and from inside. [CLAIM-tmp42yq0](CLAIM-tmp42yq0.md) said individuation is indexed by two
   budgets; this says what decides whether those budgets ever see the same
   thing.
 - **A design lever.** An organization or an instrument-maker who can change
@@ -112,9 +112,9 @@ later refinement, all apart, agrees only in the trivial corner.
 ## What it does not say
 
 - It needs nested probe families and peak-cost reachability, as
-  CLAIM-tmpatpn9 does.
+  [CLAIM-tmpatpn9](CLAIM-tmpatpn9.md) does.
 - It says nothing about which cost order is natural for a given observer;
   that is empirical.
 - Agreement of the two partitions is a fact about identification under
   budgets. Whether the agreed classes are individuals in any constitutive
-  sense stays with QUESTION-284.
+  sense stays with [QUESTION-284](../questions.d/QUESTION-284.md).
