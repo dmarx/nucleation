@@ -19,7 +19,7 @@ date: '2026-11-05'
 source:
 - LIT-tmptwxqv
 summary: >-
-  St John (2017), LIT-tmptwxqv, read in full in NOTE-tmpdk5dq. Proposed:
+  St John (2017), [LIT-tmptwxqv](../literature.d/LIT-tmptwxqv.md), read in full in [NOTE-tmpdk5dq](../notes.d/NOTE-tmpdk5dq.md). Proposed:
   the account is one ethnographer's interpretation, built on the
   organization's own writings and on Hyde's theory of the gift, with no
   measure of who gives back to whom. It does not say that gifting at
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-St John (2017), LIT-tmptwxqv; read in NOTE-tmpdk5dq.
+St John (2017), [LIT-tmptwxqv](../literature.d/LIT-tmptwxqv.md); read in [NOTE-tmpdk5dq](../notes.d/NOTE-tmpdk5dq.md).
 
 ## What was actually shown
 
@@ -68,4 +68,4 @@ measurement.
 - That receiving gifts erodes or builds any capability of the recipient.
   Self-provision ("pack in all their supplies", p. 3) is stated beside
   gifting; how the two trade off is not examined. It bears on
-  CLAIM-tmpqa0qu's reciprocity only by analogy.
+  [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)'s reciprocity only by analogy.

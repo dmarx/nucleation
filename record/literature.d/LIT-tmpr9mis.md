@@ -9,7 +9,7 @@ status_note: >-
   403, not retried; and web search, CUNY Academic Works included, which
   found no copy posted by the author or held by a repository. Unpaywall
   was not used, since it asks for an email address. Heins, Unrau and Avram
-  (2018), LIT-tmpqwxle, read in NOTE-tmpujn9m, stands in only for the
+  (2018), [LIT-tmpqwxle](LIT-tmpqwxle.md), read in [NOTE-tmpujn9m](../notes.d/NOTE-tmpujn9m.md), stands in only for the
   attribution that Hattori draws on Mauss, not for his argument, which
   they cite once and do not report.
 title: 'Reconceptualizing Foreign Aid'
@@ -53,10 +53,10 @@ summary: >-
   Hattori (2001), unread. An article on foreign aid in Review of
   International Political Economy. Unverified until read: what it argues.
   The one source read that discusses it, Heins, Unrau and Avram (2018),
-  LIT-tmpqwxle, lists it among the works by which "scholars of foreign aid
+  [LIT-tmpqwxle](LIT-tmpqwxle.md), lists it among the works by which "scholars of foreign aid
   practices have drawn inspiration from Mauss’ essay on the gift" (p. 129),
   and says nothing more of it. Here as the political-economy reading of
-  aid as a gift, beside CLAIM-tmpqa0qu's case that one-way supply is what
+  aid as a gift, beside [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)'s case that one-way supply is what
   makes a loss of capability a dependence.
 ---
 <!-- inactive-ok-file: CLAIM-tmpqa0qu THEORY-tmpbzfmr — Proposed or new; cited from the filing of Hattori (2001) as open -->
@@ -79,15 +79,15 @@ Hattori, T. (2001). Reconceptualizing Foreign Aid. *Review of International Poli
 Unavailable: paywalled, with no lawful open copy found on 2026-11-05. It
 was chosen as the account of foreign aid as a gift relation, the
 political-economy side of the owner's question whether a gift economy
-bears on CLAIM-tmpqa0qu.
+bears on [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md).
 
-**The stand-in.** Heins, Unrau and Avram (2018), LIT-tmpqwxle, read in
-full in NOTE-tmpujn9m, stands in only for the attribution that Hattori
+**The stand-in.** Heins, Unrau and Avram (2018), [LIT-tmpqwxle](LIT-tmpqwxle.md), read in
+full in [NOTE-tmpujn9m](../notes.d/NOTE-tmpujn9m.md), stands in only for the attribution that Hattori
 draws on Mauss. It does not stand in for his argument: it cites him once,
 as an example, and reports nothing of what he says. What it does carry,
 Mauss's three obligations, the unreturned gift that leaves its receiver
 "inferior", and Dillon's account of the Marshall Plan in France, is filed
-from it as THEORY-tmpbzfmr, attributed to Heins et al. and not to Hattori.
+from it as [THEORY-tmpbzfmr](../theory.d/THEORY-tmpbzfmr.md), attributed to Heins et al. and not to Hattori.
 Whatever Hattori says about the mechanism by which aid binds its
 recipient, about grants and loans, or about what recipients owe, stays
 unverified until this article is read, and no THEORY is filed from it.

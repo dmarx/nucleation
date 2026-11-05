@@ -15,7 +15,7 @@ status_note: >-
   the closest it returned to a June 2004 timestamp), but web.archive.org
   reset the connection twice and its CDX query failed the same way, so no
   archived text was read and no snapshot earlier than 2005-12-02 was
-  confirmed or ruled out. St John (2017), LIT-tmptwxqv, stands in, and
+  confirmed or ruled out. St John (2017), [LIT-tmptwxqv](LIT-tmptwxqv.md), stands in, and
   only for two things: the wording of the Gifting principle, which it
   quotes verbatim, and the list of the ten. It does not stand in for the
   wording of the other nine principles, which it names and in part
@@ -56,14 +56,14 @@ implementations: []
 summary: >-
   Harvey (2004), Burning Man's statement of its ethos as ten principles.
   Unverified until read: what is known of it comes second-hand from St
-  John (2017), LIT-tmptwxqv, who attributes the list to Larry Harvey in
+  John (2017), [LIT-tmptwxqv](LIT-tmptwxqv.md), who attributes the list to Larry Harvey in
   2004 and names the ten as Radical Inclusion, Gifting, Decommodification,
   Radical Self-Reliance, Radical Self-Expression, Communal Effort, Civic
   Responsibility, Leave No Trace, Participation and Immediacy. As St John
   quotes it, the Gifting principle reads: "Burning Man is devoted to acts
   of gift giving. The value of a gift is unconditional. Gifting does not
   contemplate a return or an exchange for something of equal value." Filed
-  because the owner, reading CLAIM-tmpqa0qu, likened its framing of
+  because the owner, reading [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), likened its framing of
   self-sufficiency as reciprocity to the gift economy of the Burning Man
   community; a gift stated as unconditional sits beside Radical
   Self-Reliance as a co-equal principle.
@@ -76,7 +76,7 @@ Harvey, L. (2004). The 10 Principles of Burning Man. Burning Man Project. https:
 
 ## Key takeaways
 
-*Not read. Everything here is second-hand, from St John (2017), LIT-tmptwxqv, read in NOTE-tmpdk5dq; page numbers are St John's.*
+*Not read. Everything here is second-hand, from St John (2017), [LIT-tmptwxqv](LIT-tmptwxqv.md), read in [NOTE-tmpdk5dq](../notes.d/NOTE-tmpdk5dq.md); page numbers are St John's.*
 
 - **The list (p. 3).** "Formulated by Larry Harvey in 2004", the ten are
   Radical Inclusion, Gifting, Decommodification, Radical Self-Reliance,
@@ -91,19 +91,19 @@ Harvey, L. (2004). The 10 Principles of Burning Man. Burning Man Project. https:
 
 ## Standing in the record
 
-Registered at the owner's request, after the owner, reading CLAIM-tmpqa0qu,
+Registered at the owner's request, after the owner, reading [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md),
 was reminded of the gift economy of the Burning Man community. The work
 could not be read: the organization's hosts sit behind a Cloudflare check
 and the Internet Archive's snapshots could not be fetched (status note).
 
-St John (2017), LIT-tmptwxqv, stands in for it, and only partly. It
+St John (2017), [LIT-tmptwxqv](LIT-tmptwxqv.md), stands in for it, and only partly. It
 stands in for the wording of the Gifting principle, which it quotes
 verbatim (above), and for the list of the ten and its attribution to
 Harvey in 2004. It does not stand in for the wording of any other
 principle. In particular, whether Radical Self-Reliance is stated in terms
 that bear on self-provision against gifting is not known from it. For how
 the gift culture works in practice, St John's ethnographic account is the
-reading the record has (NOTE-tmpdk5dq).
+reading the record has ([NOTE-tmpdk5dq](../notes.d/NOTE-tmpdk5dq.md)).
 
 To read it, retry burningman.org or web.archive.org from a session whose
 network reaches them without a challenge, and look for a snapshot earlier

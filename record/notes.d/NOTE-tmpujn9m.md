@@ -147,31 +147,31 @@ potlatch that the recipient cannot match.
 
 It draws on Mauss's *The Gift* (1925) throughout, on Malinowski (1922)
 for the kula, and on Dillon (1968) for the Marshall Plan. It is the
-neighbour read for Hattori (2001), LIT-tmpr9mis, and restates none of
+neighbour read for Hattori (2001), [LIT-tmpr9mis](../literature.d/LIT-tmpr9mis.md), and restates none of
 his results: it confirms only that he applies Mauss to foreign aid. It
 does not mention Bourdieu, grants and loans, South–South cooperation,
 capacity or exit. Mauss's essay itself and Burning Man's statement of
 its principles are the other works of this batch.
 
 In the record, the nearest holding on gift economies is Lessig's *Remix*
-(LIT-1298, read in NOTE-1023): sharing against commercial economies,
+([LIT-1298](../literature.d/LIT-1298.md), read in [NOTE-1023](NOTE-1023.md)): sharing against commercial economies,
 money crowding out sharing, and Mauss only through Hyde. Lessig's point
 is that a price changes the relation; Heins et al.'s is that an
-unanswerable gift does. Sewell's theory of structure (LIT-1383, read in
-NOTE-1078) uses the potlatch as an example of resources that take their
+unanswerable gift does. Sewell's theory of structure ([LIT-1383](../literature.d/LIT-1383.md), read in
+[NOTE-1078](NOTE-1078.md)) uses the potlatch as an example of resources that take their
 value from schemas, there the chief's power (pp. 11–12), which is the
 hierarchy-building side of the potlatch that Heins et al. set against
 the kula. On aid, it complements Ostrom, Gibson, Shivakumar and
-Andersson (LIT-tmpnb22c, THEORY-tmph35ra): both say the one-way form of
+Andersson ([LIT-tmpnb22c](../literature.d/LIT-tmpnb22c.md), [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md)): both say the one-way form of
 help matters, they through the recipient's effort, Heins et al. through
-the recipient's standing and response. Moore (LIT-tmpsb4vt) and Moss,
-Pettersson and van de Walle (LIT-tmp4d1o2) treat aid as unearned revenue
+the recipient's standing and response. Moore ([LIT-tmpsb4vt](../literature.d/LIT-tmpsb4vt.md)) and Moss,
+Pettersson and van de Walle ([LIT-tmp4d1o2](../literature.d/LIT-tmp4d1o2.md)) treat aid as unearned revenue
 that weakens the state's tie to its citizens; this reading adds that it
 also binds the recipient to the donor in an unequal relation.
 
 ## Bearing on the record
 
-- **CLAIM-tmpqa0qu (reciprocity, not self-sufficiency).** Supports the
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (reciprocity, not self-sufficiency).** Supports the
   reframing toward reciprocity, in the social register: one-way aid that
   cannot be repaid leaves the receiver inferior and the relation poisoned
   (p. 131), and circular, kula-like reciprocity is offered as the better
@@ -180,24 +180,24 @@ also binds the recipient to the donor in an unequal relation.
   may be circular or indirect rather than each partner supplying the other
   (pp. 128, 139–140), and need not be between equals (p. 138). Dillon's
   case is one study read at second hand, and nothing measures the effect.
-- **QUESTION-398 (independence from the founding intervention).** Leaves
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** Leaves
   it open. On Dillon's case, a founding gift that cannot be returned keeps
   the receiver's relation to the giver unequal after the aid has ended:
   Dillon's study of 1951–60 is "a striking example of how an international
   gift can lead to lingering feelings of humiliation and resentment"
   (p. 138). That is a persistence of the relation, not of a lost
   capacity.
-- **THEORY-1351 (mutual dependence).** A loose resonance only: Mauss's
+- **[THEORY-1351](../theory.d/THEORY-1351.md) (mutual dependence).** A loose resonance only: Mauss's
   aim is to show that "humans are mutually dependent on each other"
   (p. 139), and solidarity is built through cycles of exchange (p. 138).
   That is a social dependence, not the reproductive one the theory means.
-- **CLAIM-tmpoh07b, CLAIM-597, CLAIM-554, QUESTION-277, THEORY-1048.**
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), [CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-554](../claims.d/CLAIM-554.md), [QUESTION-277](../questions.d/QUESTION-277.md), [THEORY-1048](../theory.d/THEORY-1048.md).**
   Nothing bears on them: no capacity learned by doing, no supplied
   maintenance, no niche differentiation, no route to dependence, and gifts
   are treated as relations, not as leaky public goods.
-- **Hattori (2001), LIT-tmpr9mis.** Confirms only that Hattori draws on
+- **Hattori (2001), [LIT-tmpr9mis](../literature.d/LIT-tmpr9mis.md).** Confirms only that Hattori draws on
   Mauss. His argument stays unverified.
-- Filed: THEORY-tmpbzfmr.
+- Filed: [THEORY-tmpbzfmr](../theory.d/THEORY-tmpbzfmr.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

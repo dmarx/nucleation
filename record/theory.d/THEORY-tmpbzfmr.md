@@ -17,7 +17,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpqwxle
 summary: >-
-  Heins, Unrau and Avram (2018), LIT-tmpqwxle, read in NOTE-tmpujn9m.
+  Heins, Unrau and Avram (2018), [LIT-tmpqwxle](../literature.d/LIT-tmpqwxle.md), read in [NOTE-tmpujn9m](../notes.d/NOTE-tmpujn9m.md).
   Proposed: the definition and the three obligations are Mauss's, argued
   rather than shown to carry over to states; the aid evidence is Dillon's
   1968 study of the Marshall Plan, built on a case study of one French
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Heins, Unrau and Avram (2018), LIT-tmpqwxle; read in NOTE-tmpujn9m.
+Heins, Unrau and Avram (2018), [LIT-tmpqwxle](../literature.d/LIT-tmpqwxle.md); read in [NOTE-tmpujn9m](../notes.d/NOTE-tmpujn9m.md).
 
 ## What was actually shown
 

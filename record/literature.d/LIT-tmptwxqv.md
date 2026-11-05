@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpdk5dq) from the publisher's open-access
-  PDF; registered as the stand-in for Harvey (2004), LIT-tmpp546j, whose
+  read in full 2026-11-05 ([NOTE-tmpdk5dq](../notes.d/NOTE-tmpdk5dq.md)) from the publisher's open-access
+  PDF; registered as the stand-in for Harvey (2004), [LIT-tmpp546j](LIT-tmpp546j.md), whose
   page was not reached. Worth reading as a first-hand ethnographer's
   account of how Burning Man's gift culture is meant to work: gifts that
   oblige no return to the giver yet circulate through gratitude returned
@@ -72,7 +72,7 @@ St John, G. (2017). Blazing Grace: The Gifted Culture of Burning Man. *NANO: New
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpdk5dq. Page numbers are the PDF's footers.*
+*From the reading, [NOTE-tmpdk5dq](../notes.d/NOTE-tmpdk5dq.md). Page numbers are the PDF's footers.*
 
 - **Gifting stated as unconditional (p. 4).** "The value of a gift is
   unconditional. Gifting does not contemplate a return or an exchange for
@@ -93,17 +93,17 @@ St John, G. (2017). Blazing Grace: The Gifted Culture of Burning Man. *NANO: New
 
 ## Standing in the record
 
-Registered as the stand-in for Harvey's Ten Principles, LIT-tmpp546j,
+Registered as the stand-in for Harvey's Ten Principles, [LIT-tmpp546j](LIT-tmpp546j.md),
 which could not be reached. It stands in for that work only partly: for
 the Gifting principle's wording, which it quotes verbatim, and for the
 list of the ten with its attribution to Harvey in 2004; not for the wording
 of the other nine principles, which it names or paraphrases without
 quoting.
 
-It is here because the owner, reading CLAIM-tmpqa0qu, likened that claim's
+It is here because the owner, reading [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), likened that claim's
 framing of self-sufficiency as reciprocity to the gift economy of the
 Burning Man community. On St John's account the likeness holds in one
 respect and needs care in another: the gift is one-way between giver and
 recipient, and reciprocal only at the level of the community. Filed from
-it: THEORY-tmpy3r99. No instruction for machine-learning practice; nothing
+it: [THEORY-tmpy3r99](../theory.d/THEORY-tmpy3r99.md). No instruction for machine-learning practice; nothing
 for the anthology.

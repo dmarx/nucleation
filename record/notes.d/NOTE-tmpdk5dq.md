@@ -155,7 +155,7 @@ Economics for the forms of reciprocity, on Mauss through "Gift, Gift" and
 The Gift (Halls translation) for the binding gift, on Bataille for
 expenditure and potlatch, and on Turner for social drama.
 
-- **Harvey (2004), LIT-tmpp546j.** It restates the Gifting principle
+- **Harvey (2004), [LIT-tmpp546j](../literature.d/LIT-tmpp546j.md).** It restates the Gifting principle
   verbatim and the list of the ten with its author and year. It does not
   restate the wording of any other principle: Decommodification, Leave No
   Trace and Participation are described in St John's words, and Radical
@@ -165,47 +165,47 @@ expenditure and potlatch, and on Turner for social drama.
   through the "Gift, Gift" essay and Moore (2011).
 - **Hattori (2001)**, filed in parallel, applies the gift to foreign aid;
   St John says nothing about aid.
-- **The aid batch.** Ostrom et al. (LIT-tmpnb22c, THEORY-tmph35ra): the
+- **The aid batch.** Ostrom et al. ([LIT-tmpnb22c](../literature.d/LIT-tmpnb22c.md), [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md)): the
   Samaritan's dilemma, where predictable help weakens the recipient's
   upkeep. St John's paid "sherpas" doing what participants would otherwise
   do is a loose parallel, framed as a breach of principle, with no
-  mechanism or evidence about effort. Moore (LIT-tmpsb4vt) and Moss et al.
-  (LIT-tmp4d1o2), on aid substituting for taxation: no bearing beyond the
+  mechanism or evidence about effort. Moore ([LIT-tmpsb4vt](../literature.d/LIT-tmpsb4vt.md)) and Moss et al.
+  ([LIT-tmp4d1o2](../literature.d/LIT-tmp4d1o2.md)), on aid substituting for taxation: no bearing beyond the
   remark that self-funded gifts and outside honoraria coexist.
-- **Held accounts of reciprocity.** THEORY-567 (Nowak's five mechanisms):
+- **Held accounts of reciprocity.** [THEORY-567](../theory.d/THEORY-567.md) (Nowak's five mechanisms):
   indirect reciprocity is the formal kin of the generalized reciprocity
-  described here. THEORY-663 (Trivers) and THEORY-672 (Axelrod): bilateral
+  described here. [THEORY-663](../theory.d/THEORY-663.md) (Trivers) and [THEORY-672](../theory.d/THEORY-672.md) (Axelrod): bilateral
   reciprocity with help withheld from cheats, the kind St John says the
-  culture is not. THEORY-1352 (Van Lange and Bergmann): dyadic precise
-  reciprocity. THEORY-626 (Fiske): communal sharing against equality
-  matching parallels generalized against balanced reciprocity. THEORY-696
-  (pooling and equal splitting), CLAIM-428 (interdependence organized as
-  opportunity or vulnerability) and THEORY-468 (morality as cooperation)
+  culture is not. [THEORY-1352](../theory.d/THEORY-1352.md) (Van Lange and Bergmann): dyadic precise
+  reciprocity. [THEORY-626](../theory.d/THEORY-626.md) (Fiske): communal sharing against equality
+  matching parallels generalized against balanced reciprocity. [THEORY-696](../theory.d/THEORY-696.md)
+  (pooling and equal splitting), [CLAIM-428](../claims.d/CLAIM-428.md) (interdependence organized as
+  opportunity or vulnerability) and [THEORY-468](../theory.d/THEORY-468.md) (morality as cooperation)
   are nearby.
 
 ## Bearing on the record
 
-- **CLAIM-tmpqa0qu: qualifies.** The claim frames self-sufficiency as
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md): qualifies.** The claim frames self-sufficiency as
   reciprocity. St John's gift is one-way between giver and recipient (no
   return contemplated, no obligation) and reciprocal only toward the whole,
   where recipients give back through later labour. So the reciprocity the
   claim names need not be bilateral; generalized giving can carry it. Self-
   provision (pack in, pack out) is required beside gifting. Interpretive,
   and no evidence on capability lost or kept.
-- **CLAIM-tmpoh07b: none.** Nothing on capacity learned by doing under
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md): none.** Nothing on capacity learned by doing under
   outside supply; the Plug-n-Play camps do for participants what they would
   otherwise do themselves, but St John treats this as a breach of
   principle, not a loss of skill.
-- **CLAIM-597: none.**
-- **THEORY-1048 (Black Queen): leaves open, by analogy only.** Spectators
+- **[CLAIM-597](../claims.d/CLAIM-597.md): none.**
+- **[THEORY-1048](../theory.d/THEORY-1048.md) (Black Queen): leaves open, by analogy only.** Spectators
   who bring nothing and consume what others give resemble beneficiaries of
   a leaky good; the response described is administrative (placement), not
   a frequency-dependent limit.
-- **THEORY-1351, CLAIM-554, QUESTION-277: none.**
-- **QUESTION-398: none directly.** The city is rebuilt and dismantled each
+- **[THEORY-1351](../theory.d/THEORY-1351.md), [CLAIM-554](../claims.d/CLAIM-554.md), [QUESTION-277](../questions.d/QUESTION-277.md): none.**
+- **[QUESTION-398](../questions.d/QUESTION-398.md): none directly.** The city is rebuilt and dismantled each
   year; nothing concerns independence from a founding intervention.
-- **THEORY-tmph35ra: loosely related** (see Connections).
-- Filed: THEORY-tmpy3r99.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md): loosely related** (see Connections).
+- Filed: [THEORY-tmpy3r99](../theory.d/THEORY-tmpy3r99.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations
@@ -230,4 +230,4 @@ expenditure and potlatch, and on Turner for social drama.
 - Did the placement reform reduce non-participating camps? Camp
   registration records before and after 2014 would tell.
 - How is Radical Self-Reliance worded, and does it limit what may be
-  gifted? Only the principles' own page (LIT-tmpp546j) can say.
+  gifted? Only the principles' own page ([LIT-tmpp546j](../literature.d/LIT-tmpp546j.md)) can say.

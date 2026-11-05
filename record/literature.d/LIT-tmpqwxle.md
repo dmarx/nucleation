@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpujn9m) from the published version in
+  read in full 2026-11-05 ([NOTE-tmpujn9m](../notes.d/NOTE-tmpujn9m.md)) from the published version in
   DuEPublico, the University of Duisburg-Essen's repository; worth reading
   as a short, quotable introduction to Mauss's gift for international
   relations: the obligations to give, receive and reciprocate, the
@@ -11,7 +11,7 @@ status_note: >-
   introduction to a special issue and a map of the literature: its aid
   evidence is one secondary study, Dillon (1968), and it says nothing of
   development aid since, of grants and loans, or of dependence and exit.
-  Read also as the stand-in for Hattori (2001), LIT-tmpr9mis, but only for
+  Read also as the stand-in for Hattori (2001), [LIT-tmpr9mis](LIT-tmpr9mis.md), but only for
   the attribution that Hattori draws on Mauss, not for his argument.
 title: 'Gift-giving and reciprocity in global society: Introducing Marcel Mauss in international studies'
 version: 1
@@ -70,7 +70,7 @@ Heins, V. M., Unrau, C. & Avram, K. (2018). Gift-giving and reciprocity in globa
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpujn9m. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpujn9m](../notes.d/NOTE-tmpujn9m.md). Page numbers are the journal's.*
 
 - **Unguaranteed but obliging.** A gift carries no "(legal or contractual)
   guarantee of reciprocation", yet gifts "seem to demand that they are not
@@ -94,10 +94,10 @@ Heins, V. M., Unrau, C. & Avram, K. (2018). Gift-giving and reciprocity in globa
 ## Standing in the record
 
 Filed for the owner's question whether the gift economy bears on
-CLAIM-tmpqa0qu, and as the stand-in for Hattori (2001), LIT-tmpr9mis.
+[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), and as the stand-in for Hattori (2001), [LIT-tmpr9mis](LIT-tmpr9mis.md).
 It stands in for Hattori only as far as attribution: it lists him among
 aid scholars who "have drawn inspiration from Mauss’ essay on the gift"
-(p. 129) and reports none of his argument. Filed from it: THEORY-tmpbzfmr.
+(p. 129) and reports none of his argument. Filed from it: [THEORY-tmpbzfmr](../theory.d/THEORY-tmpbzfmr.md).
 It adds to the claim a cost of one-way supply in standing, beside the
 capacity cost the claim states, and it qualifies "reciprocal": the return
 may be circular or indirect, and need not be between equals.
