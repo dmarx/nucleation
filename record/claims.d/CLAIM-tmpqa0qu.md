@@ -174,10 +174,10 @@ the "gift economy" of Burning Man and adjacent communities.
 ## What the counterpoint readings show
 
 Read after the owner asked for a counterpoint, "e.g. the myth of the lazy poor".
-- **The Samaritan's-dilemma response is not found in poor households.** Cash transfers barely change work (Banerjee, Hanna, Kreindler and Olken, NOTE-tmpy2r15; Baird, McKenzie and Özler, NOTE-tmpxsjeo). Graduation packages raise work (NOTE-tmpl3nvb). The poorest Bangladeshi women work the most hours (Balboni et al., NOTE-tmp6tzyt).
+- **The Samaritan's-dilemma response is not found in poor households.** Cash transfers barely change work (Banerjee, Hanna, Kreindler and Olken, [NOTE-tmpy2r15](../notes.d/NOTE-tmpy2r15.md); Baird, McKenzie and Özler, [NOTE-tmpxsjeo](../notes.d/NOTE-tmpxsjeo.md)). Graduation packages raise work ([NOTE-tmpl3nvb](../notes.d/NOTE-tmpl3nvb.md)). The poorest Bangladeshi women work the most hours (Balboni et al., [NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md)).
 - **Where the response does appear.** It appears where help is large, permanent and relieves no binding constraint, as with pensions. Ostrom et al.'s repeated donor rehabilitation of state assets is that setting.
 - **The scope narrows to match.** The claim's three places of loss stand, but the third is an organizational case. It should not be read down to households.
-- **Reciprocity at the level of public services.** In coproduced sewers, the agency's continued part is what kept residents' contribution working (Watson, NOTE-tmpckznv; Evans, NOTE-tmpgvd28). That is the reciprocal form at the level of public services.
+- **Reciprocity at the level of public services.** In coproduced sewers, the agency's continued part is what kept residents' contribution working (Watson, [NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md); Evans, [NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md)). That is the reciprocal form at the level of public services.
 
 ## What it adds
 

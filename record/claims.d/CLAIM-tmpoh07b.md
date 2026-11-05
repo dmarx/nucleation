@@ -167,8 +167,8 @@ C = 0.769, an output of 1.15, more than demand.
 
 ## What the counterpoint readings add
 
-- **Cash is this claim's benign case.** Cash supplements the recipients' work rather than doing it, and work did not fall (NOTE-tmpy2r15, NOTE-tmpxsjeo). The claim gives no reason to expect crowding out from it.
-- **The amount matters in another way.** Under capacity-first support, the amount does not cause dependence. But Balboni et al.'s threshold (NOTE-tmp6tzyt) shows that the amount decides whether the capacity-building process starts at all. Support too small decays without any dependence. "Not the amount of supply" holds only for dependence.
+- **Cash is this claim's benign case.** Cash supplements the recipients' work rather than doing it, and work did not fall ([NOTE-tmpy2r15](../notes.d/NOTE-tmpy2r15.md), [NOTE-tmpxsjeo](../notes.d/NOTE-tmpxsjeo.md)). The claim gives no reason to expect crowding out from it.
+- **The amount matters in another way.** Under capacity-first support, the amount does not cause dependence. But Balboni et al.'s threshold ([NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md)) shows that the amount decides whether the capacity-building process starts at all. Support too small decays without any dependence. "Not the amount of supply" holds only for dependence.
 
 ## What it does not say
 

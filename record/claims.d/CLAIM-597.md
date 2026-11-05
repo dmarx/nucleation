@@ -138,9 +138,9 @@ No status changes.
 
 ## Note of 2026-11-05: the counterpoint and urban-development readings
 
-Read at the owner's request for a counterpoint to the record's dependency material and suggestion of urban development and city planning; the works were chosen by the assistant. CLAIM-tmpc3x0c was revised in light of them.
+Read at the owner's request for a counterpoint to the record's dependency material and suggestion of urban development and city planning; the works were chosen by the assistant. [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md) was revised in light of them.
 
-- **Supported in urban services.** Infrastructure supplied to existing slums decayed for "lack of maintenance" (Michaels et al., NOTE-tmp4js2v). Handing condominial-sewer upkeep to residents worked poorly even in the best cities (Watson, NOTE-tmpckznv). Place-based incentives have effects only while paid (Neumark and Simpson, NOTE-tmp9y93b). The Tennessee Valley Authority's agricultural gains reversed after the subsidy ended (NOTE-tmp0lzl8).
+- **Supported in urban services.** Infrastructure supplied to existing slums decayed for "lack of maintenance" (Michaels et al., [NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md)). Handing condominial-sewer upkeep to residents worked poorly even in the best cities (Watson, [NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md)). Place-based incentives have effects only while paid (Neumark and Simpson, [NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md)). The Tennessee Valley Authority's agricultural gains reversed after the subsidy ended ([NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md)).
 - **Qualified by coproduction.** Where residents made part of the service, the agency's supplied part stayed necessary. It was a standing input, not a failure to become independent.
 
 No status changes.

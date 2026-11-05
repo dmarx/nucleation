@@ -136,9 +136,9 @@ The model's three signatures are therefore what to test for, not what to expect.
 
 ## What the counterpoint and urban readings add
 
-- **An empirical ignition threshold, at household level.** Balboni et al. (NOTE-tmp6tzyt) estimate an S-shaped asset transition in Bangladesh with an unstable threshold near one cow's value. Households below it lose assets, and households above it accumulate for eleven years. The data cannot tell a smooth S from a jump, and the collapse and outage signatures are not tested.
-- **None at regional scale.** Kline and Moretti (NOTE-tmp0lzl8) find a constant agglomeration elasticity for the Tennessee Valley Authority, so no threshold and no second equilibrium. Their region's forty-year persistence is slow reversion. That is the case this claim's signatures are needed to tell apart from self-sustaining upkeep.
-- **A model with the claim's structure.** Michaels et al. (NOTE-tmp4js2v) model infrastructure kept up by private building, with a threshold share of good housing below which it decays. The threshold is assumed, not estimated.
+- **An empirical ignition threshold, at household level.** Balboni et al. ([NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md)) estimate an S-shaped asset transition in Bangladesh with an unstable threshold near one cow's value. Households below it lose assets, and households above it accumulate for eleven years. The data cannot tell a smooth S from a jump, and the collapse and outage signatures are not tested.
+- **None at regional scale.** Kline and Moretti ([NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md)) find a constant agglomeration elasticity for the Tennessee Valley Authority, so no threshold and no second equilibrium. Their region's forty-year persistence is slow reversion. That is the case this claim's signatures are needed to tell apart from self-sustaining upkeep.
+- **A model with the claim's structure.** Michaels et al. ([NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md)) model infrastructure kept up by private building, with a threshold share of good housing below which it decays. The threshold is assumed, not estimated.
 
 ## What it does not say
 

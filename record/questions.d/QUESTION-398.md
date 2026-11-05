@@ -93,12 +93,12 @@ No status changes.
 
 ## Note of 2026-11-05: the counterpoint and urban-development readings
 
-Read at the owner's request for a counterpoint to the record's dependency material and suggestion of urban development and city planning; the works were chosen by the assistant. CLAIM-tmpc3x0c was revised in light of them.
+Read at the owner's request for a counterpoint to the record's dependency material and suggestion of urban development and city planning; the works were chosen by the assistant. [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) was revised in light of them.
 
-- **Independence after support ended, in households.** Graduation packages kept their gains one year after all support ended in six countries, and in India they grew for years after contact stopped at 18 months (NOTE-tmpl3nvb, NOTE-tmpicnhp). The control group also grew, and the treated "barely escaped poverty".
-- **A threshold for it.** Balboni et al. (NOTE-tmp6tzyt) find that the transfer had to carry a household past an asset threshold. Those left just below it fell back.
-- **A caution on A's measure.** The Tennessee Valley Authority's gains persisted forty years after its subsidy ended, yet on Kline and Moretti's model (NOTE-tmp0lzl8) the region is not independent and is slowly reverting. D measured over a fixed horizon cannot tell the two apart.
-- **Independence from a founder, not an agency.** In coproduced sewers the service became independent of its founding team and not of the agency's standing part (NOTE-tmpckznv).
+- **Independence after support ended, in households.** Graduation packages kept their gains one year after all support ended in six countries, and in India they grew for years after contact stopped at 18 months ([NOTE-tmpl3nvb](../notes.d/NOTE-tmpl3nvb.md), [NOTE-tmpicnhp](../notes.d/NOTE-tmpicnhp.md)). The control group also grew, and the treated "barely escaped poverty".
+- **A threshold for it.** Balboni et al. ([NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md)) find that the transfer had to carry a household past an asset threshold. Those left just below it fell back.
+- **A caution on A's measure.** The Tennessee Valley Authority's gains persisted forty years after its subsidy ended, yet on Kline and Moretti's model ([NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md)) the region is not independent and is slowly reverting. D measured over a fixed horizon cannot tell the two apart.
+- **Independence from a founder, not an agency.** In coproduced sewers the service became independent of its founding team and not of the agency's standing part ([NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md)).
 
 No status changes.
 

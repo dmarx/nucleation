@@ -160,25 +160,25 @@ city planning. Six changes, each reflected in the title.
 1. **Slack effort is not a general property of support.** The household
    evidence contradicts it.
    - Across seven government cash-transfer trials, Banerjee, Hanna,
-     Kreindler and Olken (NOTE-tmpy2r15) find a pooled change in work of
+     Kreindler and Olken ([NOTE-tmpy2r15](../notes.d/NOTE-tmpy2r15.md)) find a pooled change in work of
      about five minutes a week. Cash transfers "do not induce the "bad"
      behaviors that are often attributed to them".
-   - Baird, McKenzie and Özler (NOTE-tmpxsjeo) find little or no change in
+   - Baird, McKenzie and Özler ([NOTE-tmpxsjeo](../notes.d/NOTE-tmpxsjeo.md)) find little or no change in
      prime-age adults' work. Work falls only for pensioners and where
      transfers are large and prolonged. They expect impacts "are likely to
      be different when transfers are dependable and permanent".
-   - Graduation packages raised work during and after support (NOTE-tmpl3nvb,
-     NOTE-tmpicnhp).
+   - Graduation packages raised work during and after support ([NOTE-tmpl3nvb](../notes.d/NOTE-tmpl3nvb.md),
+     [NOTE-tmpicnhp](../notes.d/NOTE-tmpicnhp.md)).
    - None of 17 randomized estimates found more spending on alcohol or
-     tobacco (Evans and Popova, NOTE-tmp2u6b2).
-   - Haushofer and Fehr (NOTE-tmpv5r2w) offer a rival cause for
+     tobacco (Evans and Popova, [NOTE-tmp2u6b2](../notes.d/NOTE-tmp2u6b2.md)).
+   - Haushofer and Fehr ([NOTE-tmpv5r2w](../notes.d/NOTE-tmpv5r2w.md)) offer a rival cause for
      short-sighted choices: poverty itself, which transfers relieve.
 
    Slack effort survives only where help is assured, permanent and
    relieves no binding constraint. That is Ostrom et al.'s setting of
    repeated donor rehabilitation of state assets, not the households'.
 2. **Size matters relative to a threshold.**
-   - In Bangladesh, Balboni et al. (NOTE-tmp6tzyt) estimate an asset
+   - In Bangladesh, Balboni et al. ([NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md)) estimate an asset
      threshold of about 9,300 taka, near the value of one cow. Households
      the transfer left just below it lost assets, while those lifted above
      it kept accumulating for eleven years.
@@ -186,12 +186,12 @@ city planning. Six changes, each reflected in the title.
 
    Support too small to cross a threshold fails without creating any
    dependence. That is a second hazard beside dependence, and it is why the
-   title adds a condition on size. It also qualifies CLAIM-tmpoh07b's "not
+   title adds a condition on size. It also qualifies [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)'s "not
    the amount of supply": under capacity-first support the amount does not
    cause dependence, but it can decide whether the process starts.
 3. **The party must be able to do the work, and the support must come
    before a competing configuration sets in.**
-   - In Tanzania (Michaels et al., NOTE-tmp4js2v), plots and infrastructure
+   - In Tanzania (Michaels et al., [NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md)), plots and infrastructure
      laid out on empty land drew private building that kept the
      infrastructure up, for 35–40 years.
    - Upgrading existing slums at a similar cost left housing no better, and
@@ -200,34 +200,34 @@ city planning. Six changes, each reflected in the title.
      that credit-constrained residents may not sustain it at scale.
 4. **Some inputs are a standing part of the arrangement.**
    - In Brazil's condominial sewers, residents built and kept up the block
-     feeders while the agency kept the trunk system. Watson (NOTE-tmpckznv)
+     feeders while the agency kept the trunk system. Watson ([NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md))
      finds that handing feeder upkeep wholly to residents worked poorly even
      in the best cities. Where the systems worked, more resident
      responsibility went with more contact with the agencies, not less.
-   - Evans (NOTE-tmpgvd28): "Active citizens are
+   - Evans ([NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md)): "Active citizens are
      hamstrung unless their governments dependably supply them with inputs
      that they cannot produce on their own".
    - What could safely end was the founding team's organizing effort, not
-     the agency's part. This is CLAIM-tmpqa0qu's reciprocal form, and the
+     the agency's part. This is [CLAIM-tmpqa0qu](CLAIM-tmpqa0qu.md)'s reciprocal form, and the
      first condition does not ask that such inputs be withdrawn.
 5. **Persistence after withdrawal can be slow reversion.**
    - The Tennessee Valley Authority's manufacturing gains were still
      growing "forty years after TVA became financially self-sufficient",
-     well past a turnover. Yet Kline and Moretti's model (NOTE-tmp0lzl8)
+     well past a turnover. Yet Kline and Moretti's model ([NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md))
      finds a constant agglomeration elasticity, no threshold and no second
      equilibrium, and expects the effects "will eventually die out".
    - Persistence through a turnover is therefore necessary evidence, not
      sufficient evidence. Telling a self-sustaining process from slow
-     reversion needs the shape of the feedback, as in CLAIM-tmpw4ai2's
+     reversion needs the shape of the feedback, as in [CLAIM-tmpw4ai2](CLAIM-tmpw4ai2.md)'s
      threshold.
-   - Neumark and Simpson (NOTE-tmp9y93b) conclude that even the best
+   - Neumark and Simpson ([NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md)) conclude that even the best
      evidence on place-based policy "does not establish that they create
      self-sustaining economic gains".
 6. **Whose persistence counts.**
    - US urban renewal raised cities' incomes and property values for
-     decades after funding ended (Collins and Shester, NOTE-tmpvwtsg).
+     decades after funding ended (Collins and Shester, [NOTE-tmpvwtsg](../notes.d/NOTE-tmpvwtsg.md)).
      It also cleared over 300,000 families, mostly nonwhite. LaVoice
-     (NOTE-tmpuu40d) finds rents rising across low-income neighbourhoods.
+     ([NOTE-tmpuu40d](../notes.d/NOTE-tmpuu40d.md)) finds rents rising across low-income neighbourhoods.
    - The TVA's local gains net to about zero nationally.
    - A place can become independent of the support while the community it
      was meant to serve is dispersed. The conditions apply to a stated
@@ -245,7 +245,7 @@ Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)) gi
 ## What the readings do not support
 
 - **That thresholds and hysteresis are common.**
-  - Since revised: the clearest empirical threshold on the record is now a household one, Balboni et al.'s asset threshold (NOTE-tmp6tzyt). Regional evidence finds none: Kline and Moretti find a constant agglomeration elasticity, and Neumark and Simpson report EU Structural Funds needing no minimum transfer.
+  - Since revised: the clearest empirical threshold on the record is now a household one, Balboni et al.'s asset threshold ([NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md)). Regional evidence finds none: Kline and Moretti find a constant agglomeration elasticity, and Neumark and Simpson report EU Structural Funds needing no minimum transfer.
   - [CLAIM-tmpw4ai2](CLAIM-tmpw4ai2.md)'s ignition, collapse and unrecoverable outage are demonstrated in a model. In the field they are rarer. Schröder et al. find alternative stable states in most conclusive laboratory experiments and few field ones, and few cases where removing a pressure failed to restore.
   - Cutting the Kirtland's Warbler's supplied habitat gives lower plateaus, not collapse.
   - Hawaiian waterbirds returned to a marsh once it was managed again (Underwood et al., [NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md)).
