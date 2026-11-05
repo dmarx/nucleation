@@ -94,6 +94,7 @@ summary: >-
   (Collins and Shester; LaVoice). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp1tvad LIT-tmp0xw48 — Unavailable; registered by the medicine filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
@@ -298,3 +299,14 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   regenerates its own parts is a further step: the planted cohort's own
   seedlings rarely reach the sapling layer ([NOTE-1660](../notes.d/NOTE-1660.md)), so these
   islands have not taken it.
+
+## Note of 2026-11-05: the readings in medicine, on suppression, disuse and weaning
+
+Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant.
+
+- **Doing the work has an upper bound.** The diaphragm needs effort within a band (Goligher et al., NOTE-tmpkraoh): too little atrophies it, and too much may injure it. The condition that the party did the work throughout needs that qualification.
+- **Withdrawal is tested, not assumed.** In weaning from ventilation, readiness is tested by a short, reversible spontaneous breathing trial. Success is judged only after a window following extubation (Shah, Hart and Kaltsakas, NOTE-tmpzip9r). Ventilation can be stopped abruptly in about 75 % of patients whose underlying cause has improved, and immediate extubation after a successful trial is the recommended course (Alía and Esteban, NOTE-tmp2yypk).
+- **Tapers, where the evidence exists.** Among patients who fail the first trial, the method that tapers machine breaths did worst in both trials Alía and Esteban review (NOTE-tmp2yypk). For corticosteroids, the authors of the meta-analysis find "insufficient evidence to prove any withdrawal scheme after steroid use to be efficient or safe" (NOTE-tmpjd1tp). The guideline's schedule is consensus.
+- **Recovery is slow and graded.** Adrenal recovery takes from months to about four years, and a minority never fully recover (NOTE-tmppitgm).
+
+The original consensus statement on weaning, Boles et al. 2007 (LIT-tmp1tvad), and Levine et al. 2008 on diaphragm atrophy (LIT-tmp0xw48) were not reached. No status changes.

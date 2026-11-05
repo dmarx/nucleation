@@ -1,0 +1,212 @@
+---
+status: Read
+paper: 'LIT-tmp5fl4h'
+title: 'Broersen et al. — Adrenal insufficiency after corticosteroid use, a meta-analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the reprint that is chapter 2 of Leonie H. A.
+    Broersen's PhD thesis, Clinical consequences of endogenous and
+    exogenous glucocorticoid excess (Leiden University, 2019-10-01, hdl
+    1887/78950), file 5 (Part I: Chapter 2) in the Leiden Scholarly
+    Publications repository, Open Access under its licence agreement for
+    doctoral theses. The chapter carries the heading "J Clin Endocrinol
+    Metab. 2015 Jun;100(6):2171-80". The publisher's page returned a
+    Cloudflare challenge and was not retried. Text extracted from the
+    thesis PDF. Read: the abstract, introduction, methods, results,
+    Figures 1–4, discussion and conclusions (thesis pp. 28–40), with the
+    reference list consulted for ref. 95. Also read, for mechanism, the
+    thesis's general introduction (chapter 1). Not read: the supplements
+    (search string, dose cut-offs, per-study data), which the thesis
+    places at 4TU.ResearchData. Page numbers below are the thesis's, not
+    the journal's.
+date: '2026-11-05'
+summary: >-
+  A meta-analysis of 74 articles (136 study groups, 3,753 adult
+  corticosteroid users) on biochemical adrenal insufficiency, the body's
+  own cortisol production suppressed. The pooled share runs from 4.2%
+  after nasal use to 52.2% after intra-articular use; in asthma it rises
+  with dose and with duration; after stopping it recedes incompletely, to
+  14.9% at 4 weeks after short high-dose courses and 25.3% at 6 months
+  after long medium-dose use. Cross-study strata with high risk of bias;
+  the two retest groups differ in regimen and interval together, and
+  Figure 4 mislabels the 6-month retest.
+---
+<!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-600 CLAIM-601 CLAIM-602 CLAIM-603 CLAIM-604 THEORY-1468 THEORY-1485 LIT-1692 LIT-1715 — Proposed or Unfetched; cited from the reading of Broersen et al. (2015) as open, or as off-topic held entries -->
+
+# NOTE-tmpjd1tp: Broersen et al. — Adrenal insufficiency after corticosteroid use, a meta-analysis
+
+## Contribution
+
+A pooled, multi-route estimate of how often an outside supply of a
+hormone leaves the body's own production of it suppressed, with gradients
+by dose and duration and a measure of how much of the suppression remains
+weeks to months after the supply stops. The 2024 ESE/Endocrine Society
+guideline (Beuschlein et al. 2024) uses it as its evidence base for both
+prevalence and recovery.
+
+## Key insight
+
+Suppression is the rule wherever the supply reaches the body, not an
+accident of one route or one disease: the authors find "no administration
+form, dosing, treatment duration, or underlying disease for which adrenal
+insufficiency can be excluded with certainty, although higher dose and
+longer use give the highest risk" (p. 28). It is mostly reversible, but
+not quickly and not for everyone: "a substantial number of patients
+remained adrenal insufficient after 6 months" (p. 38).
+
+## Assumptions
+
+- **Outcome.** Biochemical insufficiency on an insulin tolerance, ACTH
+  stimulation, CRH or metyrapone test, with a stimulated-cortisol cut-off
+  of about ≤500 nmol/L. The authors concede the tests have "high
+  sensitivity rather than a high specificity, and therefore the number of
+  false-positive test results is not negligible" (p. 39).
+- **Exposure.** Study-level average dose and duration stand in for each
+  patient's. Dose categories follow recommended-dose bounds (Supplement 2,
+  not read), not physiological replacement, "Because the most used doses
+  were supraphysiological" (p. 32).
+- **Strata.** Dose and duration are analysed "in asthma patients only, as
+  opposed to the entire population of corticosteroids users, to provide a
+  homogeneous patient population" (p. 32). The asthma strata include all
+  routes; inhaled-only figures are given separately.
+- **Retests.** "The percentage of patients with adrenal insufficiency at
+  the retest was calculated as the number of patients with adrenal
+  insufficiency at the retest divided by the total number of patients that
+  were measured at time of the first test" (p. 32).
+- Observational studies are taken to reflect clinical practice. The
+  search ran to February 2014.
+
+## Key results
+
+1. **Scale** (p. 34): "Of the 3,753 participants, 1,190 were diagnosed
+   with adrenal insufficiency." Of 521 patients, 10 reported symptoms but
+   98 tested insufficient, so "88 patients would have been missed" by
+   testing only the symptomatic (p. 34).
+2. **By route** (p. 34, Fig. 1): oral 48.7% (36.9–60.6), inhalation 7.8%
+   (4.2–13.9), topical 4.7% (1.1–18.5), nasal 4.2% (0.5–28.9),
+   intra-articular 52.2% (40.5–63.6), multiple routes 42.7% (28.6–58.0).
+3. **By disease** (p. 35, Fig. 2): from 6.8% (asthma, inhaled only) to
+   60.0% (haematological cancers, n = 20); renal transplant 56.2%,
+   rheumatic disease 39.4%.
+4. **Dose, asthma** (p. 36, Fig. 3): low 2.4% (0.6–9.3), medium 8.5%
+   (4.2–16.8), high 21.5% (12.0–35.5); inhaled-only 1.5%, 5.4%, 18.5%.
+5. **Duration, asthma** (p. 36, Fig. 3): under a month 1.4% (0.3–7.4), a
+   month to a year 11.9% (5.8–23.1), over a year 27.4% (17.7–39.8);
+   inhaled-only 1.3%, 9.0%, 20.3%.
+6. **Recovery after stopping** (p. 37, Fig. 4). Short-term, high-dose
+   (6 studies, 141 patients): 38.7% at the first test, "After 4 weeks,
+   retesting showed a percentage of adrenal insufficiency of 14.9% (95%
+   CI: 6.8%–29.5%)". Long-term, medium-dose (5 studies, 174 patients):
+   56.4% at the first test; "After 6 months, the percentage of patients
+   with adrenal insufficiency was still 25.3% (95% CI: 19.4%–32.3%)."
+   **Figure 4 labels the long-term retest row "Re-test after 4 weeks"**;
+   the results text and the methods (p. 32) say 6 months.
+7. **Mechanism, asserted with a citation, not tested** (p. 29): "Chronic
+   use of corticosteroids inhibits the function of the
+   hypothalamic-pituitary-adrenal axis by negative feedback, which may
+   cause adrenal insufficiency also after the cessation of corticosteroid
+   treatment". The gradients are read as exposure (p. 38): "Higher
+   treatment dose and longer treatment duration give higher systemic
+   levels of corticosteroids, and therefore higher percentages of adrenal
+   insufficiency".
+8. **Residual supply** (p. 39): intra-articular injections "suppress
+   serum cortisol levels within 24–48 hours, recovering only after 1–4
+   weeks", so the result "may in part be due to the continued presence"
+   of corticosteroids. Testing at least 24 h after the last dose lowered
+   the asthma share from 11.1% to 6.6% (2.2–18.3) (p. 37).
+9. **Taper** (p. 40): "there is insufficient evidence to prove any
+   withdrawal scheme after steroid use to be efficient or safe", citing
+   Dinsen et al. 2013 (ref. 95). The paper has no taper data of its own.
+10. **Thesis introduction** (ch. 1): corticosteroids suppress the axis by
+    binding glucocorticoid and mineralocorticoid receptors in hypothalamus
+    and anterior pituitary, lowering ACTH; a separate withdrawal syndrome
+    can occur when doses are tapered too quickly even with sufficient
+    adrenal function.
+
+## Concepts
+
+- **HPA-axis negative feedback.** Exogenous glucocorticoid lowers CRH and
+  ACTH, and with them the adrenal's own output.
+- **Secondary (central) adrenal insufficiency.** Insufficiency from
+  lowered ACTH drive, not from adrenal disease.
+- **Glucocorticoid withdrawal syndrome.** Symptoms of a falling dose with
+  sufficient adrenal function, distinct from insufficiency.
+- **Route-dependent systemic exposure.** Route matters through how much
+  reaches the circulation; depot injections leave a residual supply after
+  the last dose.
+- **Retest fraction.** The share still insufficient at a fixed time after
+  stopping, over everyone tested at first.
+
+## Connections
+
+The record held no entry on exogenous hormone suppression, adrenal
+insufficiency or tapering; the cortisol entries it holds (LIT-1692,
+LIT-1694, LIT-1715, LIT-1725) use cortisol as an outcome of trauma and are
+off topic. The nearest held analogue is psychological: extrinsic reward
+lowering later intrinsic engagement (LIT-557, THEORY-046), another case of
+outside supply crowding out the party's own production. Whether the
+persisting quarter is slow reversion or a second stable state is the
+question the record's reading of legacies and alternative stable states
+asks (THEORY-1468, THEORY-1485); this paper cannot answer it. The
+neighbour read with it, Beuschlein et al. (2024), restates rows 2, 4–6 and
+9 and adds what this paper lacks: later recovery cohorts, a review of
+tapering, a mechanism including atrophy, and a schedule. It carries the
+dose and duration strata of rows 4–5 under the wrong heading (see its
+NOTE).
+
+## Bearing on the record
+
+- **CLAIM-600 (safe and hazardous support).** Supports the branch on
+  substitutive supply: the input is one the party can make, supplying it
+  suppresses the party's making it, and the suppression outlasts the
+  supply in 14.9–25.3% (row 6). The duration gradient (row 5) goes
+  against the defeater that damage from substitutive support does not
+  grow with its length, though cross-study and confounded with dose and
+  disease. It illustrates that slow reversion can mimic lasting damage:
+  one test soon after stopping overstates it (rows 6, 8).
+- **CLAIM-602 (supply that does the work lowers the capacity kept).** The
+  closest physiological analogue: outside supply does the gland's work and
+  its output falls, more with heavier and longer supply (rows 4–5). The
+  claim's other prediction, that longer supply means longer recovery, is
+  matched only loosely, because the two retest groups differ in dose,
+  duration and interval together. The paper does not test a capacity-by-use
+  mechanism; the gland is kept by ACTH drive.
+- **CLAIM-604 (thresholds, collapse, hysteresis).** Qualifies. Persistence
+  after stopping is consistent with hysteresis, but the paper shows no
+  threshold or bistability, and its mechanism is feedback with slow
+  recovery, not a self-maintaining flux.
+- **CLAIM-597 (supplied upkeep never becomes optional).** A contrast case:
+  here it usually does, because the party makes the input itself; the
+  minority still suppressed at six months is the residue.
+- **CLAIM-603 (one-way against reciprocal supply).** Weak support: the
+  supply is one-way and set from outside, and withdrawal punishes, up to
+  adrenal crisis. Nothing bears on reciprocity.
+- **CLAIM-558 (capability decays with disuse).** Indirect support:
+  suppressed output persists after disuse and recovery is not immediate;
+  no mechanism of decay with disuse is named.
+- **QUESTION-398 (independence from the founding intervention).** The
+  retest is a withdrawal measure: the share still dependent at a fixed
+  time after removal, falling from 38.7% to 14.9% at 4 weeks and from
+  56.4% to 25.3% at 6 months. It is withdrawal of support from an existing
+  organization, not a nucleation.
+- CLAIM-601 (buffer as a stock of time): no bearing.
+
+## Limitations
+
+- High risk of bias: consecutive or random sampling stated in 23% of
+  articles, exposure ascertainment unclear in 51%; only one low-bias
+  asthma study, so no sensitivity analysis on low-bias studies (pp. 33,
+  40).
+- No individual-patient data. Route, dose, duration and disease are
+  related and not disentangled; the dose and duration strata are crude,
+  asthma only, with overlapping intervals.
+- The retest groups confound regimen with retest interval, so they cannot
+  separate longer supply giving longer recovery from a different interval.
+- Test timing after the last dose varied. The authors argue estimates
+  "would have been slightly higher" with a ≥24 h gap (p. 40), yet the
+  ≥24 h sensitivity estimate was lower (row 8).
+- Biochemical outcome, not clinical crisis. No taper data. Figure 4's
+  label error.

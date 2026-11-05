@@ -1,0 +1,130 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmpjd1tp) from the reprint that is chapter 2 of
+  Broersen's 2019 Leiden PhD thesis (hdl 1887/78950, Open Access); the
+  supplements were not read; worth reading as the quantitative case of an
+  outside supply of a hormone leaving the body's own production of it
+  suppressed after the supply stops, with gradients by route, dose and
+  duration. Pooling 74 observational articles, it finds suppression in
+  4.2% after nasal use up to 52.2% after intra-articular use, rising in
+  asthma with dose (2.4% to 21.5%) and duration (1.4% to 27.4%), and
+  receding incompletely after stopping (to 14.9% at 4 weeks and 25.3% at
+  6 months). High risk of bias, no individual-patient data, route, dose,
+  duration and disease not disentangled; the two retest groups differ in
+  regimen and interval together, so they cannot show that longer use
+  means longer recovery; Figure 4 mislabels the 6-month retest as after 4
+  weeks; no taper data.
+title: 'Adrenal Insufficiency in Corticosteroids Use: Systematic Review and Meta-Analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to fill the
+    gaps the supplied-maintenance filing left (works chosen by the
+    assistant), as a quantitative physiological case of outside supply
+    suppressing a system's own production, and of tapering. Citation
+    checked against Crossref (no mailto) for doi:10.1210/jc.2015-1218:
+    Leonie H. A. Broersen, Alberto M. Pereira, Jens Otto L. Jørgensen and
+    Olaf M. Dekkers, The Journal of Clinical Endocrinology & Metabolism
+    100(6), 2171–2180; PMID 25844620. `published:` is 2015-04-06, the
+    first and electronic publication date in Europe PMC, agreeing with
+    Crossref's created date and the Aarhus Pure record; the issue is
+    2015-06-01. The publisher's page (academic.oup.com) returned a
+    Cloudflare challenge and was not retried; PMC has no copy, Europe PMC
+    marks it subscription only, and the Leiden and Aarhus repository
+    records OpenAlex lists hold metadata or the abstract only. Copy from
+    the Leiden Scholarly Publications repository: Broersen's PhD thesis,
+    Clinical consequences of endogenous and exogenous glucocorticoid
+    excess (Leiden University, 2019-10-01, hdl 1887/78950), file 5 (Part
+    I: Chapter 2), Open Access under the repository's licence agreement
+    for doctoral theses. The chapter reprints the paper under the heading
+    "J Clin Endocrinol Metab. 2015 Jun;100(6):2171-80", with the abstract,
+    methods, results, Figures 1–4, discussion and references 1–95. Page
+    numbers cited are the thesis's (pp. 28–40), not the journal's. The
+    supplements (search string, dose cut-offs, per-study data), deposited
+    at 4TU.ResearchData, were not read. Read alongside as its neighbour
+    for recovery time and tapering: the 2024 ESE/Endocrine Society
+    guideline, Beuschlein et al. (2024), which uses this paper as its
+    evidence base for prevalence and recovery.
+tags:
+- natural-sciences
+date: '2026-11-05'
+published: '2015-04-06'
+doi: '10.1210/jc.2015-1218'
+first_author: 'Broersen'
+keywords:
+- 'adrenal insufficiency'
+- 'corticosteroids'
+- 'glucocorticoids'
+- 'HPA axis'
+- 'meta-analysis'
+- 'route of administration'
+implementations: []
+summary: >-
+  Broersen, Pereira, Jørgensen & Dekkers (2015). A systematic review and
+  meta-analysis of 74 articles (3,753 adult corticosteroid users,
+  1975–2014) estimating how many are biochemically adrenal-insufficient,
+  their own cortisol production suppressed. The pooled share runs from
+  4.2% after nasal use to 48.7% after oral and 52.2% after intra-articular
+  use; in asthma it rises with dose (2.4%, 8.5%, 21.5%) and duration
+  (1.4% under a month, 27.4% over a year). On retesting after stopping it
+  falls from 38.7% to 14.9% at 4 weeks after short high-dose courses and
+  from 56.4% to 25.3% at 6 months after long medium-dose use. The authors
+  find no route, dose, duration or disease at which the risk can be
+  excluded, and note that no withdrawal scheme has been shown efficient
+  or safe.
+---
+<!-- inactive-ok-file: CLAIM-597 CLAIM-600 CLAIM-602 CLAIM-604 THEORY-1468 THEORY-tmp9jjvs — Proposed or new; cited from the reading of Broersen et al. (2015) as open -->
+
+# LIT-tmp5fl4h: Adrenal Insufficiency in Corticosteroids Use: Systematic Review and Meta-Analysis
+
+Broersen, L. H. A., Pereira, A. M., Jørgensen, J. O. L. & Dekkers, O. M. (2015). Adrenal Insufficiency in Corticosteroids Use: Systematic Review and Meta-Analysis. *The Journal of Clinical Endocrinology & Metabolism* 100(6): 2171–2180. doi:10.1210/jc.2015-1218.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpjd1tp. Page numbers are the 2019 thesis's, not the journal's.*
+
+- **Common, and not caught by symptoms.** "Of the 3,753 participants,
+  1,190 were diagnosed with adrenal insufficiency" (p. 34); of 521
+  patients, 10 reported symptoms and 98 tested insufficient (p. 34).
+- **By route.** Nasal 4.2%, topical 4.7%, inhaled 7.8%, multiple routes
+  42.7%, oral 48.7%, intra-articular 52.2% (p. 34, Fig. 1).
+- **Dose and duration, in asthma.** Low, medium and high dose 2.4%, 8.5%
+  and 21.5%; under a month, a month to a year, and over a year 1.4%,
+  11.9% and 27.4% (p. 36, Fig. 3). These strata are asthma patients of
+  all routes; the inhaled-only figures are lower.
+- **Recovery is incomplete.** 38.7% to 14.9% four weeks after short
+  high-dose courses; 56.4% to "still 25.3%" six months after long
+  medium-dose use (p. 37). Figure 4 labels the second retest "Re-test
+  after 4 weeks"; the text and methods say 6 months.
+- **No safe level, no tested taper.** "There is no administration form,
+  dosing, treatment duration, or underlying disease for which adrenal
+  insufficiency can be excluded with certainty" (p. 28); "there is
+  insufficient evidence to prove any withdrawal scheme after steroid use
+  to be efficient or safe" (p. 40).
+
+## Standing in the record
+
+Filed to fill a gap the supplied-maintenance filing left: a measured case
+of outside supply that does a system's own work suppressing that work, and
+of what happens when the supply stops. The record held no entry on
+exogenous hormone suppression, adrenal insufficiency or tapering; its
+nearest analogue is the crowding-out of intrinsic motivation by extrinsic
+reward (LIT-557, THEORY-046).
+
+The case bears most on CLAIM-602 (supply that does the work lowers the
+capacity kept) and on CLAIM-600's branch on substitutive supply: the
+duration gradient goes against the defeater that the damage does not grow
+with the length of support, though the evidence is cross-study and
+confounded with dose and disease. It is a contrast case for CLAIM-597:
+here supplied upkeep usually becomes optional again, because the party
+makes the input itself, and the minority still suppressed at six months is
+the residue. On the paper alone nothing separates slow reversion from a
+second stable state (CLAIM-604, THEORY-1468). Two things it cannot carry:
+the retest groups differ in regimen and in interval together, so they do
+not show that longer supply means longer recovery; and it has no taper
+data. The guideline read beside it, Beuschlein et al. (2024), adds recovery
+times, a stated mechanism including atrophy, and a consensus taper
+schedule. Filed from it: THEORY-tmp9jjvs.
