@@ -1,0 +1,284 @@
+---
+status: Read
+paper: 'LIT-tmprjate'
+title: 'Golosov, Graber, Mogstad and Novgorodsky — How Americans respond to lottery windfalls'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from NBER Working Paper 29000 (July 2021, doi
+    10.3386/w29000), the PDF on nber.org
+    (https://www.nber.org/system/files/working_papers/w29000/w29000.pdf),
+    text extracted by pdftotext. Not the QJE version of record (139(2),
+    1321–1395, 2024), which is not open access and was not fetched; its
+    abstract, read on Crossref, reframes the paper (see Contribution).
+    Read: the whole main text (sections 1–7), Table A.1 and Appendix J
+    (the comparison with Cesarini et al. 2017). Skimmed for its headline
+    results only: section 5, the life-cycle model and its bounds on a UBI
+    and on higher top tax rates. Not read: the other appendices and the
+    proofs. The figures carry no numeric labels in the extracted text, so
+    every number below is from the prose or a table. Pages are the NBER
+    working paper's.
+date: '2026-11-05'
+summary: >-
+  US tax records of 90,731 state-lottery winners (1999–2016, aged 21–64,
+  wins of at least $30,000) in an event study against later winners. Per
+  dollar of annuitized unearned income, household earnings fall about 52
+  cents and consumption, inferred from the budget identity, rises about 58
+  cents; capital income, from which wealth is imputed, rises then slowly
+  declines, read as saving and gradual drawdown. Responses are swift and
+  persistent over five years, larger per dollar for higher-income winners,
+  smaller per dollar for larger prizes; wealth raises only low-profit
+  self-employment. Numbers are the NBER 2021 version's.
+---
+<!-- inactive-ok-file: THEORY-tmpynupw CLAIM-tmpc3x0c CLAIM-tmpqa0qu CLAIM-tmpoh07b CLAIM-tmpw4ai2 CLAIM-tmpit7m9 CLAIM-597 CLAIM-558 CLAIM-595 TERM-105 THEORY-tmp19alc THEORY-tmp7qas0 THEORY-tmp5v6r5 THEORY-tmp5zz46 THEORY-tmph35ra — Proposed or new; cited from the reading of Golosov et al. (2024) as open -->
+
+# NOTE-tmpnogky: Golosov, Graber, Mogstad and Novgorodsky — How Americans respond to lottery windfalls
+
+## Contribution
+
+**Version first.** This is a reading of the NBER working paper of July
+2021. The QJE version of record (2024) has a different abstract. The
+working paper names three contributions: earnings responses to windfalls;
+a "rich life-cycle model" mapped to those responses to obtain bounds on
+"an introduction of UBI and an increase in top marginal tax rates"; and
+responses on other margins. The QJE abstract drops the model and the
+policy bounds, and ends instead on a comparison with earlier lottery
+studies, which "reveals that existing U.S. studies substantially
+underestimate wealth and income effects because they use measures that
+understate the earnings responses and overstate the after-tax wealth
+changes associated with lottery wins." The headline numbers in both
+abstracts agree (about 50, 10 and 60 cents per dollar), but every number
+and page below is the NBER version's, and the published tables may differ.
+
+What the paper adds is population-scale US administrative evidence on
+wealth and income effects from variation that is idiosyncratic,
+unanticipated and plausibly exogenous: every W-2G lottery form 1999–2016
+linked to W-2 and 1040 records. It converts the lump sum into a
+per-period flow two ways, by assumed perfect smoothing and from capital
+income in the data, and so reports marginal propensities to earn and to
+consume out of a flow, not only wealth effects. It surveys margins
+besides earnings: moving, retirement, self-employment, job mobility,
+marriage and divorce.
+
+## Key insight
+
+A large, unconditional, permanent windfall in the US is mostly kept as a
+stock and lived on as a flow, and households spend roughly half of that
+flow on working less. The response is chosen, immediate and lasting, and
+it is not a step: it shrinks per dollar as wins get larger and does not
+turn wage earners into owners of profitable businesses.
+
+## Assumptions
+
+- **Identification.** Among winners, the timing of the win is as good as
+  random given age: current winners are compared with people who win
+  later, estimated cohort by cohort to avoid negative weights. No
+  pre-trends from event time −7 to −1 (p. 15); current winners are about
+  two years older (Table 3.1).
+- **Wealth is imputed, not observed.** Under the capitalization method
+  the authors "observe capital income directly for each household and use
+  it to impute a measure of beginning-of-period t wealth", at a 5.4%
+  pre-tax return taken from Saez and Zucman; "the imputation of wealth
+  using asset returns can only be done approximately" (p. 24). Assets
+  that yield no taxable income (a home, vehicles, cash) are invisible.
+- **Consumption is imputed, not observed.** It is the residual of the
+  household budget identity: from the earnings and labour-tax responses the
+  authors "impute the effect of winning a lottery on consumption
+  expenditure using the budget constraint identity" (p. 26).
+- **The flow.** Annuitization assumes perfect smoothing to age 80 at a
+  2.5% post-tax rate; it "relies on the assumption that households smooth
+  their winnings perfectly" (p. 24). Installment prizes (about 2% of
+  winners) are converted at 25 years and 2.5%.
+- **Sample and measures.** Wins of at least $30,000, post-tax, per adult;
+  annual tax data; self-employment as reported self-employment income.
+  Averages are over years 1–5 after the win.
+
+## Key results
+
+NBER WP 29000 pagination.
+
+1. **Sample** (§2.4, pp. 7–8; Table 2.1). N = 90,731. Pre-win mean wage
+   earnings $34,541 against $33,005 for all filers aged 21–64; winners in
+   every AGI quartile (0.28 / 0.21 / 0.24 / 0.27). Median pre-tax win
+   $67,800 (Table A.1).
+2. **Swift and persistent** (§3.1–3.2, pp. 10–15). "a sizable, swift, and
+   persistent change in wage earnings"; wage earnings fall "$3,572
+   (approximately 10 percent) in the first year following the lottery
+   win, and continue to decline slightly in subsequent years"; "the
+   winner is more likely to stop working, and this probability grows over
+   time".
+3. **Wealth effect** (§3.3, p. 16; Table 3.2). "for an extra 100 dollars
+   in wealth, winners reduce their earnings on average by 2.3 dollars in
+   each of the five subsequent years". Employment −3.7 pp per $100k;
+   capital income +0.87 per $100.
+4. **By pre-win income** (Tables 3.2–3.3, pp. 18–21). Per-adult earnings
+   per $100, Q1 to Q4: −1.33, −2.27, −2.65, −3.13. Employment per $100k:
+   −5.2, −4.4, −3.5, −2.3 pp. "lower-income households, however, are more
+   likely to stop working" (p. 18).
+5. **Over time** (p. 19). "Earnings responses increase over time, but not
+   substantially so" (years 1–2 against 3–5; the window ends at year 5).
+6. **Prize size** (pp. 21–23; Table 3.4). "wealth effects for both
+   earnings and employment decrease with prize size": above 5.5 dollars
+   per 100 for the smaller winners, below 1 dollar for the largest (bins
+   $30k–$300k, $300k–$1m, over $1m).
+7. **Self-employment does not replace wages** (p. 15). "The decline in
+   self-employment income rules out substitution" toward it.
+8. **Saving, then drawdown** (p. 16; §4.2, p. 25). Capital income rises
+   in the first year and then slightly declines: "This pattern is
+   consistent with lottery winners first expanding their savings and then
+   gradually consuming out of their new wealth." Unearned income rises "by
+   $7,497 per period using the annuitization method, and $8,265 per
+   period using the capitalization method", read as "households smooth
+   their lottery winnings"; hence "American lottery winners save most of
+   the windfall for future periods" (p. 2).
+9. **Consumption, inferred** (p. 26). Up "by $4,862 (approximately 17
+   percent)" in year 1, $4,413 (about 15%) on average.
+10. **MPE and MPC** (§4.3; Table 4.1, p. 27). Per $1 of unearned income,
+    full sample and Q1 to Q4: earnings −0.52 (−0.31, −0.52, −0.59,
+    −0.67); labour taxes −0.11 (−0.04, −0.07, −0.13, −0.17); implied
+    consumption 0.58 (0.73, 0.55, 0.54, 0.50). The bottom quartile spends
+    "most of the increase in unearned income on consumption"; the top
+    "prioritize reducing labor over increasing consumption" (p. 2).
+11. **UBI bound** (§5, p. 2; skimmed). Even without a tax disincentive,
+    "each dollar of UBI will reduce total earnings by at least 52 cents".
+    A model extrapolation, absent from the QJE abstract.
+12. **Entrepreneurship** (§6.2, pp. 49–51; Table 6.2). Entry into
+    self-employment with profits of $15,000 or less +0.47 pp per $100k;
+    into self-employment with higher profits −0.02 pp, not significant;
+    "the marginal entrepreneur may be of lower quality" (p. 51).
+13. **Retirement** (pp. 47–49; Table 6.1; ages 62–64). Claiming benefits
+    +1.1 pp per $100k; exit from the labour force +4.9 to +5.4 pp per
+    $100k.
+14. **Moving** (§6.1, pp. 42–47). "an immediate and sharp increase in the
+    annual moving rate of approximately 3.5 percentage points
+    (approximately 25 percent)", largely gone by year 2, mostly within the
+    state; "pure unconditional cash transfers do not lead households to
+    systematically move to locations of higher quality".
+15. **Job mobility** (pp. 51–52; Table 6.3). Moves to lower-paying
+    employers up, to higher-paying down, read as "job amenities are a
+    normal good".
+16. **Family** (p. 57; Table 6.6). Marriage +0.77 pp, divorce −0.67 pp
+    per $100k: "Especially for lower-income households we find that
+    additional wealth leads to an increase in marriages and family
+    stability."
+17. **Household** (pp. 53–59). The response does not depend on which
+    spouse won: "no evidence against the unitary model".
+18. **Against Sweden** (Appendix J, pp. 62–63). Winner post-tax earnings
+    −1.60 per $100 in the US against −0.58 in Cesarini et al. (2017);
+    "even after adjustment, our estimates are approximately twice as large
+    as those obtained for Sweden."
+
+## Concepts
+
+- **Wealth effect** — response per dollar of the lump sum. **Income
+  effect** — response per dollar of per-period unearned income; its
+  earnings form is the **MPE**, the marginal propensity to earn.
+- **Accounting identity** — MPC − MPE = 1 − MPT: consumption out of the
+  flow equals the flow plus the earnings change net of taxes.
+- **Annuitization against capitalization** — two ways to turn the stock
+  into a flow: by assumed perfect smoothing, or from capital income in the
+  data. Their agreement is the paper's evidence of smoothing.
+- **Extensive and intensive margins** — stopping work against working
+  less; the extensive share of the earnings response is 0.40 overall,
+  0.58 in Q1 and 0.36 in Q4.
+- **Liquidity constraint** — cash on hand at a date, distinct from wealth,
+  invoked for early benefit claiming (pp. 47–48).
+
+## Connections
+
+- **Cesarini et al. (2017)**, the Swedish lottery study filed in the same
+  batch: same design family, half the effect. The authors attribute part
+  of the gap to measurement (post-tax, winner-only earnings) and the rest
+  remains (Appendix J). The QJE abstract makes this comparison the paper's
+  closing contribution.
+- **Baird, McKenzie and Özler, THEORY-tmp5zz46 (LIT-tmpwnkhk)**: cash
+  transfers in low- and middle-income countries leave prime-age work
+  little changed, and those authors expect responses to differ where
+  transfers are dependable and permanent. This paper is that case for
+  the US, and work falls.
+- **Banerjee et al., THEORY-tmp7qas0**: no effect of small, means-tested
+  transfers on work. The contrast is in size, permanence and setting.
+- **Balboni et al., THEORY-tmp5v6r5**, and the graduation programmes
+  (LIT-tmpcs39o, LIT-tmpit9mn): assets with training lift the ultra-poor
+  over a threshold into more work; unconditional cash to US wage earners
+  lowers work and builds no substantial business.
+- **Haushofer and Fehr, THEORY-tmp19alc**: no measure of stress, affect or
+  discounting here; the higher MPC of the bottom quartile fits tighter
+  constraints but is not a test.
+
+## Bearing on the record
+
+Level first: households in a rich country, across the income
+distribution, not states or organizations, and not the ultra-poor.
+
+- **CLAIM-tmpc3x0c (safe withdrawal; slack effort confined to help that
+  is assured, large and permanent).** Supports the slack-effort clause for
+  this population and margin: a windfall that is large, unconditional and
+  permanent lowers work quickly and persistently (MPE −0.52), with exit
+  growing over time. It is less work chosen while the stock is kept, not
+  a process decaying. Qualifies the threshold clause: no threshold
+  appears. Persistence after withdrawal is untestable; the stock is never
+  withdrawn.
+- **CLAIM-tmpqa0qu (capability lost under reliable supply).** None
+  directly; skill is not measured. Winners leaving work, taking
+  lower-paying jobs with better amenities and making less effort to move
+  up are favoured to the winner, as a Black Queen loss is, but no loss of
+  capability is shown.
+- **CLAIM-tmpoh07b (supply that does the work crowds out capacity).**
+  Qualifies it: money does not do the household's work, it removes the
+  need to earn. The response is a deliberate cut scaled to the flow; the
+  paper cannot tell it from capacity lost by disuse.
+- **CLAIM-tmpw4ai2 (thresholds).** Cuts against a household reading:
+  responses are smooth and fall per dollar with prize size, and wealth
+  raises only low-profit self-employment even for the largest winners.
+  Most winners are not poor, so this is not a setting near ignition, and
+  it does not test the claim's flame-like structures.
+- **CLAIM-tmpit7m9 (a savings buffer is a stock of time).** Winners build
+  the buffer: they save most of the money. The claim says a buffer makes
+  delayed investments worth taking; here little of it goes into
+  profitable business within five years, and lower-income winners spend
+  more of it. A rich-country contrast, not a test: the claim's ruin
+  condition is not shown to bind for most winners.
+- **TERM-105 (resource types).** Supports the distinction between a stock
+  and a rate: the paper turns the lump sum into a per-period flow
+  ($7.5k–8.3k a year) and households respond to the flow. It names a
+  liquidity constraint, funds at a date, as distinct from wealth:
+  individuals "may decide to claim benefits before the full retirement
+  age due to a lack" of alternative funds (pp. 47–48).
+- **THEORY-tmp7qas0, THEORY-tmp5zz46.** Bounds their scope: the finding that
+  transfers leave work little changed does not carry to large, permanent transfers in the
+  US. Even the bottom quartile cuts earnings (MPE −0.31) and shows the
+  largest falls in employment.
+- **THEORY-tmp5v6r5.** A contrasting case: wealth alone sets off no
+  accumulation into substantial self-employment among US wage earners.
+- **CLAIM-597, CLAIM-558, CLAIM-595, THEORY-tmph35ra.** None.
+
+Filed from it: THEORY-tmpynupw. No instruction for machine-learning
+practice.
+
+## Limitations
+
+- **Version.** The NBER 2021 text was read; the QJE text and tables were
+  not.
+- **Consumption and wealth are inferred.** Consumption from the budget
+  identity, wealth from capital income; "save most" rests on two
+  unearned-income methods agreeing, not on balance sheets.
+- **Five-year horizon.** Long-run drawdown is not observed.
+- **Missing outcomes.** No bankruptcy, debt, financial distress, health,
+  skill or human-capital outcomes; children's college attendance only by
+  citation of Bulman et al. (2021), "relatively small effects".
+- **Coarse business measure.** Self-employment income bands; no
+  incorporated firms, assets or survival.
+- **Sample.** Lottery players; wins under $30,000 excluded, for which the
+  authors expect larger estimates.
+- **Not about scarcity.** No time pressure, attention or decision
+  experiments.
+
+## Open questions
+
+Whether winners' wealth is kept or spent down over decades; whether those
+who stop working lose capability, which would need skill or re-entry
+earnings after the stock is gone; and whether the QJE tables move the
+headline numbers.
