@@ -28,23 +28,23 @@ summary: >-
 
 ## Why it is a question
 
-A asks it after the table of design targets (CLAIM-tmpvl8j0), whose third
+A asks it after the table of design targets ([CLAIM-tmpvl8j0](../claims.d/CLAIM-tmpvl8j0.md)), whose third
 target is to "Exploit mismatch dynamically", and adds: "There is no
 general reason to assume such tensions are beneficial."
 
 The readings show stress doing work, under conditions.
 
-- **Zang et al.** (NOTE-tmp7wdij; THEORY-tmppn4nt): frustration induced in
+- **Zang et al.** ([NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md); [THEORY-tmppn4nt](../theory.d/THEORY-tmppn4nt.md)): frustration induced in
   Kresling cells "allows changing the energy barrier", switches a cell
   "from bistable to monostable", and gives a "programmable
   (frustration-dependent) noncommutative state transition". In place,
   without refabricating cells, it opens transitions that the order of the
   intrinsic barriers forbade.
-- **Rocks and Mehta** (NOTE-tmp26zlk; THEORY-tmpo2kzn): prestress is
+- **Rocks and Mehta** ([NOTE-tmp26zlk](../notes.d/NOTE-tmp26zlk.md); [THEORY-tmpo2kzn](../theory.d/THEORY-tmpo2kzn.md)): prestress is
   "frustration arising due to incompatibility between a bond’s rest length
   and its equilibrium length", and it steers which force couples to a zero
   mode while leaving the zero modes as they were.
-- **Damavandi et al.** (NOTE-tmp8m06t; THEORY-tmpqmcmz) add a caution: the
+- **Damavandi et al.** ([NOTE-tmp8m06t](../notes.d/NOTE-tmp8m06t.md); [THEORY-tmpqmcmz](../theory.d/THEORY-tmpqmcmz.md)) add a caution: the
   self-stress a system adopts under external forces need not be the one
   that would stabilize it. That a useful load exists does not mean the
   system carries it.
@@ -54,7 +54,7 @@ Zang et al.: "The prestress is supplied and adjusted by the designer, so
 the structure does not set its own constraints." A's question is about
 stresses that the organization's own local preferences generate.
 
-The record holds that frustration need not be pathological. TERM-060: "A
+The record holds that frustration need not be pathological. [TERM-060](../terms.d/TERM-060.md): "A
 frustrated collection may be the right outcome of genuinely different
 demands." It does not ask when the tension is itself of use: a barrier
 against an unwanted transition, a bistability that holds a commitment, a

@@ -145,4 +145,4 @@ relative to the declared model of admissible transformations".
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-At a footprint budget of 1.5, CASE-tmpe48yq's two folded states are both feasible and neither can reach the other. CASE-tmpez9ok makes the declared class of moves itself depend on an energy budget. CASE-tmpnqvjs separates simultaneous, sequential and separate capability for one squad. CLAIM-tmpal9mc sorts the ways reachability fails into four obstructions with different remedies. No status changes.
+At a footprint budget of 1.5, [CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md)'s two folded states are both feasible and neither can reach the other. [CASE-tmpez9ok](../cases.d/CASE-tmpez9ok.md) makes the declared class of moves itself depend on an energy budget. [CASE-tmpnqvjs](../cases.d/CASE-tmpnqvjs.md) separates simultaneous, sequential and separate capability for one squad. [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md) sorts the ways reachability fails into four obstructions with different remedies. No status changes.

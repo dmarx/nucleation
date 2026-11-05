@@ -40,7 +40,7 @@ summary: >-
   three transition mechanisms (energetic, kinematic, singular) that
   "should not be conflated". Filed as one claim, since the second is the
   first seen from the configuration space. The four refine the gaps
-  between CLAIM-tmp9jvpb's feasible, reachable and reliable, and the
+  between [CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md)'s feasible, reachable and reliable, and the
   readings give one mechanical case of each: Zang et al. an energetic
   barrier that prestress moves, Berry et al. a disconnection, Chen and
   Santangelo a singular branch point, Obayashi et al. a thin basin.
@@ -68,35 +68,35 @@ exist under the current constraints. And others are singular: a pathway
 exists, but only through a special configuration at which the ordinary
 local description changes. Those mechanisms should not be conflated."
 
-**Where they sit.** CLAIM-tmp9jvpb separates a feasible target, a
+**Where they sit.** [CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md) separates a feasible target, a
 reachable one and a reliably reached one. The four obstructions say why
 each step can fail:
 
 - **Feasible, not reachable at all**: geometric disconnection, the
-  kinematic case. Berry, Lee-Trimble and Santangelo (NOTE-tmpt066u;
-  THEORY-tmps6lqg): for a positively curved vertex "the two nappes have
+  kinematic case. Berry, Lee-Trimble and Santangelo ([NOTE-tmpt066u](../notes.d/NOTE-tmpt066u.md);
+  [THEORY-tmps6lqg](../theory.d/THEORY-tmps6lqg.md)): for a positively curved vertex "the two nappes have
   split into two disconnected components". No resource reaches across;
   only a change of the declared transformations does.
 - **Reachable, not within the ceiling**: the capacity bottleneck, the
-  energetic case. The bottleneck budget of CLAIM-tmpbi4ca is finite and
+  energetic case. The bottleneck budget of [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md) is finite and
   above what is available. Zang, Zhao, Misseroni and Paulino
-  (NOTE-tmp7wdij; THEORY-tmppn4nt): prestress "enables the eight
+  ([NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md); [THEORY-tmppn4nt](../theory.d/THEORY-tmppn4nt.md)): prestress "enables the eight
   previously infeasible folding paths of Fig. 4C to be achieved as
   feasible folding paths in Fig. 5B", while "sixteen out of fifty-six
   folding paths are unachievable without transiting through other stable
   states". Moving the barriers opened the eight and not the sixteen.
 - **Reachable, not by the inputs available**: control limitation.
-  CASE-tmpe3itu's step profile is admissible and outside what three
+  [CASE-tmpe3itu](../cases.d/CASE-tmpe3itu.md)'s step profile is admissible and outside what three
   grouped actuators can command.
 - **Reachable, not reliably**: dynamic instability. Obayashi, Aoi,
-  Tsuchiya and Kokubu (NOTE-tmpescek; THEORY-tmpabuss): the passive
+  Tsuchiya and Kokubu ([NOTE-tmpescek](../notes.d/NOTE-tmpescek.md); [THEORY-tmpabuss](../theory.d/THEORY-tmpabuss.md)): the passive
   walker's gait exists and "The basin of attraction is very small and
   thin, and it has a fractal-like shape".
 
 **The singular case** sits across the last two. A path exists, through a
 point where several branches meet, and which one the system leaves on is
-not fixed by the local description. Chen and Santangelo (NOTE-tmpwpp63;
-THEORY-tmpucnpz): "once an origami structure begins folding along the
+not fixed by the local description. Chen and Santangelo ([NOTE-tmpwpp63](../notes.d/NOTE-tmpwpp63.md);
+[THEORY-tmpucnpz](../theory.d/THEORY-tmpucnpz.md)): "once an origami structure begins folding along the
 wrong branch, it is potentially very difficult to return it to the
 desired branch". It is an obstruction to reliability that more actuation,
 placed to select the branch, can relieve.
@@ -109,7 +109,7 @@ resources on the ceiling, architecture on the configuration space,
 actuation on the inputs, feedback on the basin. Applied to the wrong
 obstruction it buys nothing. A: "This distinction helps avoid labeling
 every difficult organizational transition a bifurcation or a topological
-obstruction." CLAIM-tmpuxuo4 makes the same split for joint demands
+obstruction." [CLAIM-tmpuxuo4](CLAIM-tmpuxuo4.md) makes the same split for joint demands
 rather than paths: a budget enlarges the complex up to the unbudgeted
 one and no further.
 

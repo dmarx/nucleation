@@ -38,32 +38,32 @@ pressure or strain within an otherwise feasible organization."
 The mechanical side has the split.
 
 - **Two kinds of mismatch.** In Maxwell–Calladine counting, N_dof − N_c =
-  #LZMs − #SSSs (Rocks and Mehta, NOTE-tmp26zlk; THEORY-tmpo2kzn): a
+  #LZMs − #SSSs (Rocks and Mehta, [NOTE-tmp26zlk](../notes.d/NOTE-tmp26zlk.md); [THEORY-tmpo2kzn](../theory.d/THEORY-tmpo2kzn.md)): a
   surplus of freedoms shows as zero modes, a surplus of constraints as
   states of self-stress. Prestress on a self-stress is "frustration that
   cannot be relaxed away by moving the nodes".
-- **Existence against load.** Damavandi et al. (NOTE-tmp8m06t;
-  THEORY-tmpqmcmz): "The existence of states of self stress only depends
+- **Existence against load.** Damavandi et al. ([NOTE-tmp8m06t](../notes.d/NOTE-tmp8m06t.md);
+  [THEORY-tmpqmcmz](../theory.d/THEORY-tmpqmcmz.md)): "The existence of states of self stress only depends
   on the geometry of the system and does not imply that the system has to
   be prestressed." Self-stresses "arise from redundant constraints".
-- **Loads that decide motions.** Connelly and Whiteley (NOTE-tmphcgif, read
-  in part; THEORY-tmpelyg5): a first-order flex extends to second order
+- **Loads that decide motions.** Connelly and Whiteley ([NOTE-tmphcgif](../notes.d/NOTE-tmphcgif.md), read
+  in part; [THEORY-tmpelyg5](../theory.d/THEORY-tmpelyg5.md)): a first-order flex extends to second order
   exactly when no proper self-stress gives it positive energy. The balanced
   loads certify which candidate motions are real.
 
 The record's side has pieces that do not yet line up with it.
 
-- TERM-060 and CLAIM-347 hold structural frustration as an empty
+- [TERM-060](../terms.d/TERM-060.md) and [CLAIM-347](../claims.d/CLAIM-347.md) hold structural frustration as an empty
   intersection of acceptance sets: no admissible transformation meets the
   demands. That is nearer a missing freedom than a load.
-- CLAIM-368 holds strain, the burden of sustaining activity, as
+- [CLAIM-368](../claims.d/CLAIM-368.md) holds strain, the burden of sustaining activity, as
   independent of frustration. A balanced load within a feasible
   organization would be a kind of strain with a structure: tension carried
   among demands that are each met.
-- CLAIM-365's multipliers certify infeasibility of the local residual. Its
+- [CLAIM-365](../claims.d/CLAIM-365.md)'s multipliers certify infeasibility of the local residual. Its
   note of 2026-11-05 records Connelly and Whiteley's self-stresses as a
   structurally parallel duality, with no shared result.
-- CLAIM-tmp9jvpb separates a feasible target from a reachable one. That is
+- [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md) separates a feasible target from a reachable one. That is
   A's "unreachable motions", which is neither a load nor an empty
   intersection.
 

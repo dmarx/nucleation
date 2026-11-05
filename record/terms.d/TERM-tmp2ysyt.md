@@ -121,4 +121,4 @@ its endpoints' requirements is measured. Adopting it is the owner's call.
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-CASE-tmpe48yq gives a geometric instance, a slack of about 0.99, and shows the slack depends on the declared resource: under crease energy instead of footprint it is 0. TERM-tmp26wo4 sorts resources by type where this term's three reserves sort them by purpose, so one reserve can be of several types. No status changes.
+[CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md) gives a geometric instance, a slack of about 0.99, and shows the slack depends on the declared resource: under crease energy instead of footprint it is 0. [TERM-tmp26wo4](TERM-tmp26wo4.md) sorts resources by type where this term's three reserves sort them by purpose, so one reserve can be of several types. No status changes.

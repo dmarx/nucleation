@@ -21,7 +21,7 @@ summary: >-
   "whether a proposed change genuinely creates new capabilities or merely
   makes already available ones less expensive", and proposes an
   experiment over states A, B and a staging C. No held question asks it;
-  CLAIM-357's split of structural frustration from governance regret is
+  [CLAIM-357](../claims.d/CLAIM-357.md)'s split of structural frustration from governance regret is
   its nearest relative. The wording is A's; adopting it is the owner's
   call.
 ---
@@ -47,17 +47,17 @@ The table's wording is the filer's summary of A's. A: "We could then ask
 whether a proposed change genuinely creates new capabilities or merely
 makes already available ones less expensive. That distinction is very
 close to Nucleation's distinction between structural frustration and
-governance regret." CLAIM-357 separates the two: a positive frustration
+governance regret." [CLAIM-357](../claims.d/CLAIM-357.md) separates the two: a positive frustration
 residual says no admissible update meets the requirements, a positive
 regret only that the actual update does worse than the best. On the
 table's reading, only the second row changes what is possible at all;
 the others change what is affordable, reachable by the inputs, reliable
 or timely within a fixed space.
 
-The record has pieces of an answer. CLAIM-tmpuxuo4 shows that a budget
+The record has pieces of an answer. [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) shows that a budget
 enlarges the compatibility complex only up to the unbudgeted one, so a
 budget never creates a jointly feasible set the architecture excludes.
-CLAIM-tmpal9mc pairs four obstructions to a transition with the
+[CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md) pairs four obstructions to a transition with the
 intervention that acts on each. What is open is the general case: an
 intervention that changes several things at once (prestress that also
 changes which configurations are stable, a reserve that also changes the
@@ -72,11 +72,11 @@ lowering the cost, time or failure probability of reaching states already
 reachable; and a test that applies it to systems whose configuration
 space is not given in advance. A's proposed experiment is one route:
 states A and B and a staging state C, measuring the bottleneck budget
-B*(A,B) of CLAIM-tmpbi4ca, the least time T*(A,B;b) at budget b, and the
-readiness R^π(A→B;b,z) in TERM-tmpuc919's sense, and producing cases
+B*(A,B) of [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md), the least time T*(A,B;b) at budget b, and the
+readiness R^π(A→B;b,z) in [TERM-tmpuc919](../terms.d/TERM-tmpuc919.md)'s sense, and producing cases
 "where B is statically feasible but unreachable, reachable but too
 expensive, reachable only through an architectural change, or reachable
-only when temporary reserve capacity is available." CASE-tmp06sg5 is one
+only when temporary reserve capacity is available." [CASE-tmp06sg5](../cases.d/CASE-tmp06sg5.md) is one
 of the third kind.
 
 ## What would not answer it
@@ -88,4 +88,4 @@ make it hold.
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-A's research programme in Part 3 compares architectures on seven dimensions: static compatibility, infinitesimal freedom, the global topology of the configuration space, dynamic reachability, robustness, the cost of reconfiguration, and maintenance under turnover. A's crucial experiment: "construct two organizational architectures with the same component resources and similar ordinary outputs but different feasible response geometries", then ask "Does the new organization merely lower costs? Does it change the attainable set? Does it add a branch of behavior? Does it create a new viable regime? And does that regime persist when the intervention ends?" The last is the persistence half of CLAIM-tmp99w2g, and CASE-tmpoo2tj is the readiness version of the paired architectures. No status changes.
+A's research programme in Part 3 compares architectures on seven dimensions: static compatibility, infinitesimal freedom, the global topology of the configuration space, dynamic reachability, robustness, the cost of reconfiguration, and maintenance under turnover. A's crucial experiment: "construct two organizational architectures with the same component resources and similar ordinary outputs but different feasible response geometries", then ask "Does the new organization merely lower costs? Does it change the attainable set? Does it add a branch of behavior? Does it create a new viable regime? And does that regime persist when the intervention ends?" The last is the persistence half of [CLAIM-tmp99w2g](../claims.d/CLAIM-tmp99w2g.md), and [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) is the readiness version of the paired architectures. No status changes.

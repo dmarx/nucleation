@@ -39,9 +39,9 @@ summary: >-
   P_persist and P_reproduce, "not interchangeable", with A's own limit
   that a DNA origami structure assembling and persisting "does not
   establish the stronger biological notion of organizational closure in
-  TERM-070". QUESTION-tmpw6nuh names the three in passing; no entry holds
+  [TERM-070](../terms.d/TERM-070.md)". [QUESTION-tmpw6nuh](../questions.d/QUESTION-tmpw6nuh.md) names the three in passing; no entry holds
   them. DeLuca et al. separate assembly from its early progress, and
-  CLAIM-516 says where persistence and regeneration meet: under turnover
+  [CLAIM-516](CLAIM-516.md) says where persistence and regeneration meet: under turnover
   with no basal production, a capacity persists only on a productive
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
@@ -62,10 +62,10 @@ A, Part 5:
 structure might assemble successfully and remain stable for a time without
 participating in the production of the constraints needed to regenerate
 itself. So the example does not establish the stronger biological notion of
-organizational closure in TERM-070."
+organizational closure in [TERM-070](../terms.d/TERM-070.md)."
 
-**Assembly is its own question.** DeLuca et al.'s simulations (NOTE-tmp3af4j;
-THEORY-tmpivh27) separate how assembly goes from how it starts: "faster
+**Assembly is its own question.** DeLuca et al.'s simulations ([NOTE-tmp3af4j](../notes.d/NOTE-tmp3af4j.md);
+[THEORY-tmpivh27](../theory.d/THEORY-tmpivh27.md)) separate how assembly goes from how it starts: "faster
 coalescence into a proto form early on is not a perfect predictor of
 overall folding performance", and larger designs show "frequent trapping in
 metastable states". A trapped structure persists, and is not the desired
@@ -74,11 +74,11 @@ form. Nothing in the paper concerns regeneration.
 **Persistence is not regeneration.** A DNA origami structure, once folded,
 persists while nothing takes it apart. Its staples and scaffold are made
 outside it. It produces none of the constraints it depends on, so it has
-no closure in TERM-070's sense: a set of constraints each depending on
+no closure in [TERM-070](../terms.d/TERM-070.md)'s sense: a set of constraints each depending on
 another in the set. Persisting and being regenerated are different facts
 about it.
 
-**Where they meet.** CLAIM-516: where every constraint capacity turns over
+**Where they meet.** [CLAIM-516](CLAIM-516.md): where every constraint capacity turns over
 at a positive rate and is produced only by others, with no basal
 production, capacities whose production graph is acyclic all decay to
 zero. So under turnover, persistence over a horizon much longer than the
@@ -87,11 +87,11 @@ They come apart over horizons shorter than turnover, or where nothing
 turns over, which is the DNA origami case. A specified horizon, as A
 writes it, is what keeps them distinct.
 
-**Relation to the triad.** CLAIM-025 separates an operative regime, its
+**Relation to the triad.** [CLAIM-025](CLAIM-025.md) separates an operative regime, its
 governing organization and the capacity to transform that organization.
 This claim separates phases of one form's life: coming into being,
 lasting, being remade. The two cross. A regime can persist while the
-capacity to regenerate it is lost, which is CLAIM-079's stable state
+capacity to regenerate it is lost, which is [CLAIM-079](CLAIM-079.md)'s stable state
 without viable trajectories when regeneration is what viability needs.
 
 ## What it does not say

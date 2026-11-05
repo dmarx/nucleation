@@ -39,7 +39,7 @@ summary: >-
   complex, monotone in b, contained in the complex of Q with no budget,
   and with finitely many demands equal to it from some finite budget on.
   So a missing face is either short of resources at b or structurally
-  frustrated, and the unbudgeted complex tells which. CLAIM-347 already
+  frustrated, and the unbudgeted complex tells which. [CLAIM-347](CLAIM-347.md) already
   indexes its complex to a budget; the monotonicity, the bound and the
   split are what is new. The wording is A's; adopting it is the owner's
   call.
@@ -68,7 +68,7 @@ q takes, finite everywhere. For a budget b ∈ ℝ^m,
   K(b) = { S ⊆ {1, …, N} : some q ∈ Q has R(q) ≤ b and q ∈ ⋂_{i∈S} D_i },
 
 and K_Q = { S : Q ∩ ⋂_{i∈S} D_i ≠ ∅ }, the compatibility complex of
-CLAIM-347 for this architecture with no budget.
+[CLAIM-347](CLAIM-347.md) for this architecture with no budget.
 
 1. **K(b) is a complex.** If q witnesses S, it witnesses every subset of S.
 2. **Monotone.** If b ≤ b′ componentwise and q witnesses S at b, then
@@ -81,25 +81,25 @@ CLAIM-347 for this architecture with no budget.
    the R(q_S). Then K(b) = K_Q for every b ≥ b̄, and the union of K(b)
    over all budgets is K_Q.
 
-Checked by the filer. CASE-tmpsbhp8 is a worked instance: three demands,
+Checked by the filer. [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) is a worked instance: three demands,
 whose pairs enter at budgets 1, 2 and 3 and whose triple never does.
 
 **So a missing face is one of two things.** For S ∉ K(b):
 
 - **Short of resources** when S ∈ K_Q. Some larger budget admits it, and
-  raising the budget to that level is relief in CLAIM-347's sense, a
+  raising the budget to that level is relief in [CLAIM-347](CLAIM-347.md)'s sense, a
   strict enlargement of the complex for the same declared demands.
 - **Structurally frustrated** when S ∉ K_Q. No budget admits it while Q
   and the D_i are fixed. The minimal non-faces of K_Q are the conflicts
   only a change of architecture can relieve.
 
 A: "That is a clean mechanical way to separate resource scarcity from
-structural frustration." TERM-060 already records that a budget on
+structural frustration." [TERM-060](../terms.d/TERM-060.md) already records that a budget on
 admissible updates can turn strain into frustration, and that the verdict
 is then relative to the budget. This claim says how to read that verdict:
 frustration at budget b that is absent from K_Q is resource-relative, and
-the rest is not. CLAIM-365's worked case, where no budget helps, is a
-non-face of K_Q; CLAIM-357 separates the same structural infeasibility
+the rest is not. [CLAIM-365](CLAIM-365.md)'s worked case, where no budget helps, is a
+non-face of K_Q; [CLAIM-357](CLAIM-357.md) separates the same structural infeasibility
 from governance regret.
 
 A's organizational reading: "An organization may have adequate total
@@ -116,10 +116,10 @@ resource than the budget allows.
   "while the geometric constraints remain unchanged", is load-bearing.
 - **That one scalar budget suffices.** With several resources the budgets
   admitting a face form an up-set that need not be convex
-  (CLAIM-tmpuk8gq), so being short of resources can mean short in the wrong
+  ([CLAIM-tmpuk8gq](CLAIM-tmpuk8gq.md)), so being short of resources can mean short in the wrong
   resource.
 - **Anything about reaching a witness.** K(b) asks whether some affordable
   configuration meets the demands, not whether the organization can get
-  there; transitions and their obstructions are CLAIM-tmpal9mc's.
-- **That the complex is the finest invariant.** CLAIM-555 holds the
+  there; transitions and their obstructions are [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md)'s.
+- **That the complex is the finest invariant.** [CLAIM-555](CLAIM-555.md) holds the
   complex a coarse summary beside finer ones.

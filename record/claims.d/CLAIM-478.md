@@ -322,4 +322,4 @@ Silverberg et al.'s separation by energy scale is the form [QUESTION-tmpt2p0s](.
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-CASE-tmpez9ok, filed from the square-twist reading, illustrates the claim with a separation by energy rather than by time; the caveat in NOTE-tmp0l0mn stands. No status changes.
+[CASE-tmpez9ok](../cases.d/CASE-tmpez9ok.md), filed from the square-twist reading, illustrates the claim with a separation by energy rather than by time; the caveat in [NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md) stands. No status changes.

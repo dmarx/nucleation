@@ -370,4 +370,4 @@ No status changes.
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-CLAIM-tmpuxuo4 shows that the complex indexed by a resource budget is monotone in the budget and contained in the unbudgeted complex, so raising a budget relieves only sets that are faces of the unbudgeted complex; CASE-tmpsbhp8 is a small instance with a hollow triangle no budget fills. CLAIM-tmpvl8j0 separates relieving a mismatch from redistributing or exploiting it. No status changes.
+[CLAIM-tmpuxuo4](CLAIM-tmpuxuo4.md) shows that the complex indexed by a resource budget is monotone in the budget and contained in the unbudgeted complex, so raising a budget relieves only sets that are faces of the unbudgeted complex; [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) is a small instance with a hollow triangle no budget fills. [CLAIM-tmpvl8j0](CLAIM-tmpvl8j0.md) separates relieving a mismatch from redistributing or exploiting it. No status changes.

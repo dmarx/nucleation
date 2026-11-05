@@ -154,4 +154,4 @@ A's [CLAIM-tmpvhj8j](CLAIM-tmpvhj8j.md) and [TERM-tmpuc919](../terms.d/TERM-tmpu
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-CASE-tmp0s6cg, a folded sheet whose fixed area fits the stowage envelope only folded and supplies the required area only unfolded, and CASE-tmpqk2kd, a schedule whose peak need depends on the deadline, illustrate the distance between having a resource and deploying it. No status changes.
+[CASE-tmp0s6cg](../cases.d/CASE-tmp0s6cg.md), a folded sheet whose fixed area fits the stowage envelope only folded and supplies the required area only unfolded, and [CASE-tmpqk2kd](../cases.d/CASE-tmpqk2kd.md), a schedule whose peak need depends on the deadline, illustrate the distance between having a resource and deploying it. No status changes.

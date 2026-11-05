@@ -70,7 +70,7 @@ history exist is monotone under the inclusion:
 - the least cost of reaching a target, an infimum over admissible
   histories, can only rise or stay.
 
-So the reachability dimension of CLAIM-354 cannot grow under an added
+So the reachability dimension of [CLAIM-354](CLAIM-354.md) cannot grow under an added
 constraint in a fixed model.
 
 **What need not follow.** A property that asks something of every history
@@ -84,19 +84,19 @@ party's options weakens the requirement.
   −sign(y), with u = 0 at y = 0, keeps ẏ ≤ 0 where y > 0 and ẏ ≥ 0 where
   y < 0, so |y| never grows from 0. The robust property, ∃π ∀w, is gained,
   while what the controller alone can reach is unchanged.
-- **Reliability.** CLAIM-tmp9jvpb's fork: a flat state branches into a path
+- **Reliability.** [CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md)'s fork: a flat state branches into a path
   to the target and a path to a distractor, and unbiased actuation ends at
   the target with probability 1/2. A constraint that blocks the
   distractor branch leaves one admissible continuation, and the same
   actuation reaches the target with probability 1. Stern, Pinson and
   Murugan's sheets are the physical form: a designed folding motion
   competes with "an exponential number of ‘distractor’ folding" branches
-  (NOTE-tmp9dvve).
+  ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)).
 
-The reluctant writer (CASE-013) is the robust case. Blocking the
+The reluctant writer ([CASE-013](../cases.d/CASE-013.md)) is the robust case. Blocking the
 distracting websites shrinks what the writer can do, and it removes what
 the distraction can do, so finishing the article holds against more of
-what may happen. CLAIM-354 records that the precommitment shrinks the set
+what may happen. [CLAIM-354](CLAIM-354.md) records that the precommitment shrinks the set
 while making the endorsed project realizable. This claim says why the
 two are consistent: the set that shrinks is existential, and the gain is
 in a universal property.
@@ -109,17 +109,17 @@ completion, or greater robustness." And: "Kinematic freedom versus
 Task-effective capability. They need not coincide." The readings show the
 change of mechanism each time.
 
-- **Juarrero's enabling constraints** (THEORY-1335; NOTE-1532) "irreversibly
+- **Juarrero's enabling constraints** ([THEORY-1335](../theory.d/THEORY-1335.md); [NOTE-1532](../notes.d/NOTE-1532.md)) "irreversibly
   link and couple previously separate ... entities". The result is a new
   system with its own state space, not the old one with K shrunk. So the
   account is consistent with this claim, and is not a counterexample to
   it.
 - **Freedom and Constraint Topologies.** In the reading of Hopkins (2013),
   "In FACT, new freedom comes from stacking bodies in series, not from
-  adding constraints" (NOTE-tmpdewq8). In parallel, constraint spaces add and
+  adding constraints" ([NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md)). In parallel, constraint spaces add and
   freedom spaces intersect, which is this inclusion; the freedom gained in
   series comes from added bodies.
-- **Dollar and Howe's hand** (NOTE-tmpb0ok0). "An adaptive, underactuated hand
+- **Dollar and Howe's hand** ([NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md)). "An adaptive, underactuated hand
   has fewer actuators than degrees of freedom." Coupling eight joints to
   one input shrinks the shapes that can be commanded, and success under
   positioning error rises, the reading says, because contact selects the

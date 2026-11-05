@@ -77,9 +77,9 @@ Checked by the filer.
   number, strength, and placement of independent control channels."
   Number sets the slice's dimension, strength (U_max) its extent, and
   placement (G) which profiles it holds. The last is the point of
-  CLAIM-tmp675a9, here with no folding branches at all: at a fixed count
+  [CLAIM-tmp675a9](../claims.d/CLAIM-tmp675a9.md), here with no folding branches at all: at a fixed count
   the grouping decides what is reachable. Stern, Pinson and Murugan find
-  the same in self-folding sheets (NOTE-tmp9dvve), "spatial placement of
+  the same in self-folding sheets ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)), "spatial placement of
   actuators is a much better predictor of folding success than just the
   number of actuators".
 - **That coupling economizes on actuators when the targets fit it.** A:
@@ -87,11 +87,11 @@ Checked by the filer.
   Constraint architecture can therefore economize on scarce control
   resources." If every required profile is constant on the three groups,
   three actuators do the work of twenty. Liu, Zhang and Fang
-  (NOTE-tmp2mkll) group the cells of an origami spring to share
+  ([NOTE-tmp2mkll](../notes.d/NOTE-tmp2mkll.md)) group the cells of an origami spring to share
   actuators: "the same arrangement of drivers can realize multiple
   distinct spatial configurations", and for a sinusoid a "structure with
   only 2 actuators is insufficient for accurate approximation". Dollar
-  and Howe's hand (NOTE-tmpb0ok0) spends the gap differently, leaving
+  and Howe's hand ([NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md)) spends the gap differently, leaving
   joints unactuated and compliant so that contact chooses the shape: "An
   adaptive, underactuated hand has fewer actuators than degrees of
   freedom."
@@ -105,13 +105,13 @@ Checked by the filer.
 - **That m < n always confines the reachable set.** It does here because
   G is constant: the inputs integrate to Gu, a fixed subspace. When the
   input fields vary with q, motion around loops of inputs can reach
-  directions no single input provides. Murray and Sastry (NOTE-tmpygch2):
+  directions no single input provides. Murray and Sastry ([NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md)):
   "Roughly speaking, Chow's theorem states that if we can move in every
   direction using Lie bracket motions (possibly of higher order than
   one), then the system is controllable." The count bounds the slice only
   for coupling like this case's, where each group is held to one angle.
 - **Anything about cost** within the slice. Equal rank does not fix
-  effort (CLAIM-345).
+  effort ([CLAIM-345](../claims.d/CLAIM-345.md)).
 - **That organizations have such a G.** The mapping from authority to
-  input channels is A's analogy; CASE-194 gives one organizational
+  input channels is A's analogy; [CASE-194](CASE-194.md) gives one organizational
   failure of a shared actuator setting, as a construction.

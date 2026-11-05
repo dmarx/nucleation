@@ -78,14 +78,14 @@ are k = 4, …, 8. The tightest packing, k = 10, footprint 0.8, carries
   them is footprint, exposed area and load capacity, each set by the
   arrangement. A: "A resource can be present without being deployed, and
   deployment can change its effective function without changing its
-  quantity." This is the point of CLAIM-296, that what a system has and
+  quantity." This is the point of [CLAIM-296](../claims.d/CLAIM-296.md), that what a system has and
   what it can deploy are different, made with a single inventory.
 - **That packing, deployment and load are separate objectives.** A: "a
   design optimized for compact storage may be poor at carrying loads",
   and "we should not treat packing efficiency, deployment capability, and
   operational resilience as one objective." Here maximizing packing picks
   k = 10, and the load requirement excludes it. A attributes the warning
-  to a 2026 study, held as LIT-tmp31xwy and not read; the construction
+  to a 2026 study, held as [LIT-tmp31xwy](../literature.d/LIT-tmp31xwy.md) and not read; the construction
   does not rest on it.
 - **A's organizational reading.** A: "A fully equipped rescue company has
   a latent technical capability when standing by. When dispatched, it
@@ -93,7 +93,7 @@ are k = 4, …, 8. The tightest packing, k = 10, footprint 0.8, carries
   acquired a new inventory of tools or expertise; it has changed the
   operational configuration in which they are available." Standing by is
   the stowed configuration, dispatch the deployment; whether the
-  equipment is available for a task by its deadline is TERM-055's
+  equipment is available for a task by its deadline is [TERM-055](../terms.d/TERM-055.md)'s
   operational availability, not its count.
 
 ## What it cannot show

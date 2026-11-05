@@ -70,18 +70,18 @@ Checked by the filer.
   rescue squad may be qualified to handle several incident types, but it
   cannot be present at two distant incidents simultaneously. Its
   repertoire is broader than its simultaneous service capacity." In
-  CLAIM-347's terms {A, B} is a
+  [CLAIM-347](../claims.d/CLAIM-347.md)'s terms {A, B} is a
   non-face of the squad's complex, while A and B are each vertices.
 - **That the sequential property is a reachability property with a
-  clock.** It sits between the two others as CLAIM-tmp9jvpb's
+  clock.** It sits between the two others as [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)'s
   reachability sits between feasibility and reliability, and the
-  deadline decides it, as in CASE-tmpqk2kd.
+  deadline decides it, as in [CASE-tmpqk2kd](CASE-tmpqk2kd.md).
 - **What a design should aim at.** A: "The engineering problem is not
   simply to maximize the number of tasks the squad can perform. It is to
   optimize the system's ability to select and switch among those tasks
   under uncertain demand." Adding incident types to the repertoire adds
   vertices; it does not add faces or shorten the paths between them.
-  Whether a second call finds a unit free is TERM-tmplh56l's reliable
+  Whether a second call finds a unit free is [TERM-tmplh56l](../terms.d/TERM-tmplh56l.md)'s reliable
   coverage, which counts the busy squad as unavailable.
 
 ## What it cannot show

@@ -32,11 +32,11 @@ A: "A sequence of small architectural modifications may change the
 number of available modes only modestly until a critical structural
 threshold is crossed." The mechanical cases are real.
 
-- **Kirigami.** Chen, Choi and Mahadevan (NOTE-tmpazhb8) control the
+- **Kirigami.** Chen, Choi and Mahadevan ([NOTE-tmpazhb8](../notes.d/NOTE-tmpazhb8.md)) control the
   connectivity and the degrees of freedom of a cut sheet by which links
   remain, deterministically and at random, and find percolation-like
   transitions.
-- **Origami facets.** Li and Choi (NOTE-tmp52g52) enforce or relax
+- **Origami facets.** Li and Choi ([NOTE-tmp52g52](../notes.d/NOTE-tmp52g52.md)) enforce or relax
   planarity on selected facets and find critical densities at which the
   structure's rigidity changes, depending on geometry, connectivity and
   the rule that picks the facets.
@@ -58,9 +58,9 @@ model.
 
 ## Related entries
 
-- CLAIM-347 and TERM-060: frustration as a fact about which demands can
+- [CLAIM-347](../claims.d/CLAIM-347.md) and [TERM-060](../terms.d/TERM-060.md): frustration as a fact about which demands can
   be met jointly, where this asks about the shape of the feasible set
   itself.
-- CLAIM-tmpbi4ca and CLAIM-tmp9jvpb: connectivity of the feasible set as
+- [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md) and [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md): connectivity of the feasible set as
   what decides reachability.
-- QUESTION-tmp8jsu9: new freedoms where rigid parts meet.
+- [QUESTION-tmp8jsu9](QUESTION-tmp8jsu9.md): new freedoms where rigid parts meet.

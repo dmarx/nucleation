@@ -64,21 +64,21 @@ only when the system's constraints permit an alternative schedule."
   constraints.** The same 2 unit-minutes can need a peak of 2 or of 1.
   A budget on energy does not fix the transition's feasibility; a cap on
   peak power together with a deadline does. These are two of the
-  resource types of TERM-tmp26wo4, and CLAIM-tmpbi4ca's bottleneck
+  resource types of [TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md), and [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s bottleneck
   budget is the peak, at an unconstrained horizon.
 - **That the deadline is part of the requirement.** What a system can do
-  within a deadline is CLAIM-296's relation among resource, task and
+  within a deadline is [CLAIM-296](../claims.d/CLAIM-296.md)'s relation among resource, task and
   deadline: here the same task, with the same resource, is feasible at
   T = 2 and not at T = 1 with one unit of peak.
 - **That the substitution is a property of the constraints.** Whether
   time can stand in for peak capacity is decided by whether a sequential
   schedule is admissible, not by the resource. Kang, Kim, Yang and Ryu
-  (NOTE-tmpxbvec) design sequential deployment into a Kresling stack by
+  ([NOTE-tmpxbvec](../notes.d/NOTE-tmpxbvec.md)) design sequential deployment into a Kresling stack by
   ordering its cells' energy barriers: "each layer folds in a
   predetermined order dictated by its barrier height."
 - **A's organizational reading.** "The heavy rescue squad's value isn't
   simply that technical rescue can eventually be performed. It's that the
-  capability can be mobilized within a deadline." CASE-tmpoo2tj is the
+  capability can be mobilized within a deadline." [CASE-tmpoo2tj](CASE-tmpoo2tj.md) is the
   record's case of a deadline-constrained extrication.
 
 ## What it cannot show

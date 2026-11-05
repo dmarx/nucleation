@@ -80,4 +80,4 @@ operations cannot reach, as the paper's 64 does.
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-Two points this question names in passing are now entries of their own: assembling, persisting and regenerating a form (CLAIM-tmp99w2g), and programmable against self-governing reconfiguration (QUESTION-tmpqlcf4). No status changes.
+Two points this question names in passing are now entries of their own: assembling, persisting and regenerating a form ([CLAIM-tmp99w2g](../claims.d/CLAIM-tmp99w2g.md)), and programmable against self-governing reconfiguration ([QUESTION-tmpqlcf4](QUESTION-tmpqlcf4.md)). No status changes.

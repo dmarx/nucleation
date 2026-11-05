@@ -51,13 +51,13 @@ to use it. These are not equivalent problems."
 
 **Not one budget.** Because each bounds a different function of the path,
 a path can meet one and fail another, and no single number orders paths
-by all of them. CASE-tmpqk2kd holds the integral fixed at 2 unit-minutes
-while the peak is 2 or 1 by the deadline. CASE-tmp0s6cg holds the stock
+by all of them. [CASE-tmpqk2kd](../cases.d/CASE-tmpqk2kd.md) holds the integral fixed at 2 unit-minutes
+while the peak is 2 or 1 by the deadline. [CASE-tmp0s6cg](../cases.d/CASE-tmp0s6cg.md) holds the stock
 fixed while the capacity it supplies changes with configuration.
-CASE-tmpe3itu is the rate limit and its placement, A's "actuator
-authority". CASE-tmp0g3pa is a replenishable reserve with carry-over.
-CLAIM-tmpbi4ca's bottleneck budget is the instantaneous-capacity case
-alone, and CLAIM-tmpuk8gq shows that even several capacities do not
+[CASE-tmpe3itu](../cases.d/CASE-tmpe3itu.md) is the rate limit and its placement, A's "actuator
+authority". [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md) is a replenishable reserve with carry-over.
+[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s bottleneck budget is the instantaneous-capacity case
+alone, and [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md) shows that even several capacities do not
 reduce to a weighted total.
 
 **A's combined model.** With q the configuration, z the architecture, b a
@@ -67,25 +67,25 @@ reserve and k a competency:
 
 subject to F(q,z) = 0, b ≥ 0 and k ≥ k_min. The competency equation is a
 replenishable stock that decays without practice m(t), the mechanism of
-CLAIM-tmp4g8e1. A adds that when architectural changes are discrete "the
+[CLAIM-tmp4g8e1](../claims.d/CLAIM-tmp4g8e1.md). A adds that when architectural changes are discrete "the
 z dynamics would more naturally be modeled as a hybrid system with
 switching rules and costs."
 
 ## What it is not
 
-- **The three reserves** of TERM-tmp2ysyt (operational, reconfiguration,
+- **The three reserves** of [TERM-tmp2ysyt](TERM-tmp2ysyt.md) (operational, reconfiguration,
   competency). Those sort reserves by what they are held for; this sorts
   constraints by what function of a path they bound. A reconfiguration
   reserve can be a capacity, a balance or a stock.
-- **Organizational slack** (TERM-tmp46hcg), which is a quantity measured
+- **Organizational slack** ([TERM-tmp46hcg](TERM-tmp46hcg.md)), which is a quantity measured
   against current output, of any type.
 - **A claim that organizations face all six.** Which bind is empirical;
   where every resource is convertible into one currency on the timescale
-  that matters, several collapse into one, as CLAIM-tmpuk8gq notes for
+  that matters, several collapse into one, as [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md) notes for
   capacities.
 
 ## What would settle it
 
 Adoption by the owner, or a claim of the record's own stated in it. One
-candidate is CLAIM-tmpancvu, which states a form's three resource
+candidate is [CLAIM-tmpancvu](../claims.d/CLAIM-tmpancvu.md), which states a form's three resource
 requirements in these types.

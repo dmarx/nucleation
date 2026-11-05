@@ -33,7 +33,7 @@ summary: >-
   organizational form has at least three different resource
   requirements: the resources needed to construct it, the resources
   needed to maintain it, and the resources needed to transition into or
-  out of it." CLAIM-tmpbi4ca already separates holding a configuration
+  out of it." [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md) already separates holding a configuration
   from moving into it; the new content is construction as a third,
   separate requirement. Demonstrated by the filer's numbers: a capability
   costing 24 to build and 2 a year to keep, against one costing 6 and 4,
@@ -54,12 +54,12 @@ to maintain it, and the resources needed to transition into or out of
 it. These requirements can be radically different." And: "A capability
 can be inexpensive to sustain but expensive to acquire."
 
-**What is already held, and what is not.** CLAIM-tmpbi4ca shows that
+**What is already held, and what is not.** [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md) shows that
 moving into a configuration can need more than holding it: the bottleneck
 budget exceeds the endpoints' requirements by the reconfiguration slack
-of TERM-tmp2ysyt. That is maintenance against transition. The third
+of [TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md). That is maintenance against transition. The third
 requirement, constructing the form, is separate from both: it is paid
-once, it is usually cumulative (TERM-tmp26wo4), and it is paid by an
+once, it is usually cumulative ([TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)), and it is paid by an
 organization that does not yet have the form, where a transition is
 paid by one moving from a form it has.
 
@@ -79,14 +79,14 @@ Then:
 - **X can be sustained and not acquired.** Its upkeep, 2, fits in the
   surplus of 3. Its construction, 24, exceeds the surplus and the whole
   budget within any one year. Saving the surplus with full carry-over,
-  it takes 8 years (CASE-tmp0g3pa's rollover, at a longer horizon).
+  it takes 8 years ([CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md)'s rollover, at a longer horizon).
 - **Y can be acquired and not sustained.** Two years' surplus builds it;
   its upkeep, 4, exceeds the surplus of 3.
 - **Moving into a form is not building it.** If the organization holds a
   form whose staff and equipment carry over into X, converting costs less
   than 24: say 14. And moving into X's deployed configuration, mobilizing
   four trained members within ten minutes, is a capacity with a deadline
-  (CASE-tmpqk2kd), which no annual sum buys.
+  ([CASE-tmpqk2kd](../cases.d/CASE-tmpqk2kd.md)), which no annual sum buys.
 
 Checked by the filer.
 
@@ -94,7 +94,7 @@ A's closing: "a system can have enough resources to sustain a capability
 without having enough resources—or the right arrangement of
 constraints—to acquire it." The construction gives the first case. The
 second, an arrangement of constraints that forecloses acquisition at any
-budget, is the disconnection of CLAIM-tmpbi4ca's infinite threshold.
+budget, is the disconnection of [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s infinite threshold.
 
 ## What it does not say
 
@@ -105,5 +105,5 @@ budget, is the disconnection of CLAIM-tmpbi4ca's infinite threshold.
 - **That a capability cheap to sustain is worth sustaining.** That it is
   dear to rebuild is one reason to keep it; whether the reason is good
   depends on what it is for, the question of telling a warranted reserve
-  from waste (QUESTION-tmpw46vw). CASE-tmpoo2tj is the record's case of a
+  from waste ([QUESTION-tmpw46vw](../questions.d/QUESTION-tmpw46vw.md)). [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) is the record's case of a
   maintained squad never used in ordinary operation.

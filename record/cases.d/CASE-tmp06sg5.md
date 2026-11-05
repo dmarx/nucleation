@@ -92,4 +92,4 @@ slack ([TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)) falls from 0.6 to 0.3. Chec
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-CASE-tmpjldzw is a physical counterpart: in Zang et al.'s Kresling stack, prestress applied from outside reorders the barriers and opens transitions that no budget under the old arrangement opens. No status changes.
+[CASE-tmpjldzw](CASE-tmpjldzw.md) is a physical counterpart: in Zang et al.'s Kresling stack, prestress applied from outside reorders the barriers and opens transitions that no budget under the old arrangement opens. No status changes.

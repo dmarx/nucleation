@@ -155,4 +155,4 @@ Readings from the pasted synthesis on constraint architectures give physical cas
 
 ## Note of 2026-11-05: A's resource models and further distinctions
 
-A's own three levels, the configuration, the constraint architecture and the capacity for architectural change, are this claim's triad, which A does not cite. CLAIM-tmp99w2g crosses it with assembling, persisting and regenerating a form, and QUESTION-tmpqlcf4 asks what separates a programmable system from one that governs its own reconfiguration. No status changes.
+A's own three levels, the configuration, the constraint architecture and the capacity for architectural change, are this claim's triad, which A does not cite. [CLAIM-tmp99w2g](CLAIM-tmp99w2g.md) crosses it with assembling, persisting and regenerating a form, and [QUESTION-tmpqlcf4](../questions.d/QUESTION-tmpqlcf4.md) asks what separates a programmable system from one that governs its own reconfiguration. No status changes.

@@ -44,7 +44,7 @@ each with what holding it costs and the demands it meets:
 | q₁₃ | 3 | {1, 3} |
 
 No configuration meets all three. K(b), the sets of demands some
-configuration costing at most b meets (CLAIM-tmpuxuo4):
+configuration costing at most b meets ([CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md)):
 
 - **b < 1**: no demand is met; only the empty set.
 - **1 ≤ b < 2**: the vertices 1, 2, 3 and the edge {2, 3}.
@@ -59,7 +59,7 @@ Checked by the filer.
 - **Scarcity and frustration in one picture.** At b = 1 the complex lacks
   {1, 2}, {1, 3} and {1, 2, 3}. The first two are short of resources:
   budgets of 2 and 3 admit them. The triple is a minimal non-face of K_Q,
-  frustrated in TERM-060's structural sense: no budget admits it while
+  frustrated in [TERM-060](../terms.d/TERM-060.md)'s structural sense: no budget admits it while
   the four configurations and their demands are fixed. A: "independently
   plausible local folds may be globally incompatible because of loop
   closure or collisions." Each pair is plausible; the three together
@@ -70,7 +70,7 @@ Checked by the filer.
   configuration there is, and still no configuration meets all three
   demands.
 - **What raising the budget buys.** Going from 1 to 3 is relief in
-  CLAIM-347's sense twice over, and leaves the minimal conflict
+  [CLAIM-347](../claims.d/CLAIM-347.md)'s sense twice over, and leaves the minimal conflict
   untouched. Relieving it needs a new configuration, a change of
   architecture.
 

@@ -39,17 +39,17 @@ and, still open, self-maintaining organization.
 The readings fill the first three steps and show that internal feedback
 alone does not reach the fourth.
 
-- **Reconfigurable, set from outside.** Hu et al. (NOTE-tmpu2xuw), in the
+- **Reconfigurable, set from outside.** Hu et al. ([NOTE-tmpu2xuw](../notes.d/NOTE-tmpu2xuw.md)), in the
   reading's words: "The arrangement is the program, and the mechanism that changes it is
   separate from both the program and the computation." Chen, Tan and Yan
-  (NOTE-tmp2uw2z): a robot programs the array, and in the reading's words
+  ([NOTE-tmp2uw2z](../notes.d/NOTE-tmp2uw2z.md)): a robot programs the array, and in the reading's words
   "Programming is external: the function is set by a magnet layout
   designed outside the device, which the robot only executes."
-- **A fixed map, learning elsewhere.** Liu et al. (NOTE-tmpoedni): the
+- **A fixed map, learning elsewhere.** Liu et al. ([NOTE-tmpoedni](../notes.d/NOTE-tmpoedni.md)): the
   multistable structure under a fixed actuation rule is a fixed map, and a
   linear readout, in the reading's words "trained in software, does the
   learning".
-- **Trainable, gated from outside.** Stern et al. (NOTE-tmpwrlv9): "if the
+- **Trainable, gated from outside.** Stern et al. ([NOTE-tmpwrlv9](../notes.d/NOTE-tmpwrlv9.md)): "if the
   response is the desired one, as determined by a ‘supervisor’, folded
   creases are allowed to soften in proportion to their folding strain." The
   sheet's own material carries g, so z_{t+1} depends on z_t and on the
@@ -58,15 +58,15 @@ alone does not reach the fourth.
   signal".
 
 So z_{t+1} = g(z_t, x_t, y_t) can hold while the criterion g applies is
-another's. The record says as much about the readings: in CLAIM-025's
+another's. The record says as much about the readings: in [CLAIM-025](../claims.d/CLAIM-025.md)'s
 note of 2026-11-05, "In all of them the capacity to transform comes from
 outside, a robot, rig or supervisor".
 
-The record has the target without the criterion. CLAIM-545 identifies
+The record has the target without the criterion. [CLAIM-545](../claims.d/CLAIM-545.md) identifies
 freedom of will, operationally, with an agent's governance of its own
-governability. QUESTION-090 asks when a population develops a
-self-maintaining governance structure. QUESTION-tmpw6nuh asks when stored
-history helps control. CLAIM-tmp99w2g separates persisting from
+governability. [QUESTION-090](QUESTION-090.md) asks when a population develops a
+self-maintaining governance structure. [QUESTION-tmpw6nuh](QUESTION-tmpw6nuh.md) asks when stored
+history helps control. [CLAIM-tmp99w2g](../claims.d/CLAIM-tmp99w2g.md) separates persisting from
 regenerating. None says what, in a reconfigurable system, makes the
 reconfiguring its own.
 
@@ -77,7 +77,7 @@ classes the four readings correctly and says what a fifth step would need:
 for instance, that the criterion g applies be computed from the system's
 own states and not delivered from outside; that g itself be revisable by
 the system; that the constraints realizing g be produced by the system, in
-TERM-070's sense. Then an organizational case on each side of the line:
+[TERM-070](../terms.d/TERM-070.md)'s sense. Then an organizational case on each side of the line:
 one reorganized by a consultant's verdict through its own procedures, one
 whose procedures produce the verdict.
 

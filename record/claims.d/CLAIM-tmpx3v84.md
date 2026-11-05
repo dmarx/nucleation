@@ -38,9 +38,9 @@ summary: >-
   readiness whose share link could not be fetched), Parts 1 and 2: "A
   permitted motion is not necessarily a controllable motion, and a
   controllable motion is not necessarily inexpensive, reliable, or
-  sustainable." The record held the later links (cost in CLAIM-345,
-  reliability in CLAIM-542 and CLAIM-tmp9jvpb) and the first only as
-  CASE-194's shared actuator. A point driven along one axis gives the
+  sustainable." The record held the later links (cost in [CLAIM-345](CLAIM-345.md),
+  reliability in [CLAIM-542](CLAIM-542.md) and [CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md)) and the first only as
+  [CASE-194](../cases.d/CASE-194.md)'s shared actuator. A point driven along one axis gives the
   first separation; an unstable scalar with bounded input gives
   reachable-but-not-holdable. Murray and Sastry's car shows that over a
   horizon reach can exceed what is permitted at an instant, and Hopkins's
@@ -67,33 +67,33 @@ G(q) ⊆ F(q) at each instant.
 **Permitted, not driven.** A point in the plane with no constraints, so
 F = ℝ², and one input along x: ẋ = u, ẏ = 0. The y direction is permitted
 at every instant and driven at none, and nothing reaches off the line
-y = y₀. Hopkins's thesis gives the mechanical form (NOTE-tmpnscd2, skimmed;
-THEORY-tmpeo94c). Where actuators must act to drive a flexure's freedoms
+y = y₀. Hopkins's thesis gives the mechanical form ([NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md), skimmed;
+[THEORY-tmpeo94c](../theory.d/THEORY-tmpeo94c.md)). Where actuators must act to drive a flexure's freedoms
 without parasitic error is set by the flexures' stiffness, and if the
 system's actuation space is not among the twenty-six, "the designer knows
 that this system cannot be actuated with linear actuators alone". The
-freedom space alone does not settle that. CASE-194's structural
+freedom space alone does not settle that. [CASE-194](../cases.d/CASE-194.md)'s structural
 organization, with one shared actuator setting, is the organizational
 construction.
 
 **Driven, not cheap.** Equal controllability rank leaves the least effort
-free: Δ²/b² for x_{t+1} = x_t + b·u, unbounded as b → 0 (CLAIM-345).
+free: Δ²/b² for x_{t+1} = x_t + b·u, unbounded as b → 0 ([CLAIM-345](CLAIM-345.md)).
 
 **Cheap, not reliable.** Along an unstable direction a larger exponent
 lowers the least effort, while an open-loop input against noise in the
-same direction loses signal-to-noise ratio (CLAIM-542). A reachable
+same direction loses signal-to-noise ratio ([CLAIM-542](CLAIM-542.md)). A reachable
 target can also be reached with probability 1/2 when the process meets an
-unbiased fork (CLAIM-tmp9jvpb).
+unbiased fork ([CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md)).
 
 **Reached, not sustainable.** Take ẋ = x + u with |u| ≤ 1, from x = 0.
 Setting u = 1 gives ẋ = x + 1 > 0, so x = 2 is reached. Holding it needs
 ẋ = 0, that is u = −2, which the bound forbids. The state is reachable and
-cannot be held. This is the shape of CLAIM-079's split between stability
+cannot be held. This is the shape of [CLAIM-079](CLAIM-079.md)'s split between stability
 and viability, with the input bound as the constraint.
 
 **Over a horizon, reach exceeds the instant.** The containment G ⊆ F holds
 at each instant. Reach over a horizon is bounded by neither. Murray and
-Sastry (NOTE-tmpygch2; THEORY-tmpxup0v): "the Lie bracket is the infinitesimal
+Sastry ([NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md); [THEORY-tmpxup0v](../theory.d/THEORY-tmpxup0v.md)): "the Lie bracket is the infinitesimal
 motion that results from flowing around a square defined by two tangent
 vectors", and by Chow's theorem a driftless system whose input fields and
 their brackets span every direction is controllable. The kinematic car's
@@ -108,7 +108,7 @@ first object, read at an instant, is not an upper bound on capability.
   driven directions in permitted ones, at an instant, is an order. Over a
   horizon, reach can exceed both.
 - **That an undriven freedom is useless.** In Dollar and Howe's hand
-  (NOTE-tmpb0ok0), "An adaptive, underactuated hand has fewer actuators than
+  ([NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md)), "An adaptive, underactuated hand has fewer actuators than
   degrees of freedom", and the freedoms left passive do the work of fitting
   the grasp. A freedom need not be driven to be used.
 - **Anything about organizations.** A's reading, that an organization can
