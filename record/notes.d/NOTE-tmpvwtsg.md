@@ -157,25 +157,25 @@ is enhanced" (abstract).
 It builds on Rosen and Roback for the model, on Hornbeck and Keniston for
 rebuilding after fires, on Schall for multiple equilibria in upkeep, and
 on the historical critics, Jacobs, Anderson, Gans and others (p. 3),
-whom it does not test. LaVoice (2024), NOTE-tmpuu40d, read alongside as a
+whom it does not test. LaVoice (2024), [NOTE-tmpuu40d](NOTE-tmpuu40d.md), read alongside as a
 complement, follows the same program into the neighbourhoods cleared and
 uses the same variation in state legislation to choose control cities.
 In this batch, Kline and Moretti (2014) on the Tennessee Valley Authority
 is the other big, time-limited, place-based programme with persistence
 after it ended; Neumark and Simpson (2015) survey place-based policy;
 Michaels et al. (2021) contrast greenfield sites and services with slum
-upgrading in Tanzania. Juhász's blockade study, THEORY-919, has the same
+upgrading in Tanzania. Juhász's blockade study, [THEORY-919](../theory.d/THEORY-919.md), has the same
 shape: a temporary, legally timed, regionally varying exposure leaving
 persistent local gains, with agglomeration as the offered mechanism and a
 modest first stage. Schall's multiple equilibria is the urban analogue of
-LIT-tmpisunw on alternative states in restoration ecology. The Food for
-Peace exit studies, THEORY-tmpukudp and THEORY-tmpwmqrr, are the aid
-batch's persistence-after-exit cases; Ostrom et al., THEORY-tmph35ra,
+[LIT-tmpisunw](../literature.d/LIT-tmpisunw.md) on alternative states in restoration ecology. The Food for
+Peace exit studies, [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md) and [THEORY-tmpwmqrr](../theory.d/THEORY-tmpwmqrr.md), are the aid
+batch's persistence-after-exit cases; Ostrom et al., [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md),
 supply the resident-ownership question this paper cannot reach.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c** (when transient support is safe to withdraw):
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)** (when transient support is safe to withdraw):
   qualifies. Support that was large, one-off and substitutive, outside
   agencies doing the clearing and building, left a city-level effect that
   persisted through 2000 after funding ended in 1974. But the party that
@@ -184,30 +184,30 @@ supply the resident-ownership question this paper cannot reach.
   claim's supported party needs a unit: here place and people come
   apart. Not a defeater, since the party that persisted is not the one
   the condition about doing the work concerns.
-- **CLAIM-tmpw4ai2** (ignition, collapse, hysteresis): weak support at
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)** (ignition, collapse, hysteresis): weak support at
   most. Schall's multiple equilibria, the "virtuous circle" and fn. 40's
   self-reinforcing agglomeration are threshold-and-feedback stories, and
   the effect persisting without the supply fits a process kept going on an
   available flux (private investment, migration). Nothing tests a
   threshold, a dose-response nonlinearity or hysteresis.
-- **CLAIM-tmpoh07b** (support that does the work lowers capacity): not
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (support that does the work lowers capacity): not
   addressed for residents, whose capacity is unmeasured. For the city
   agencies it points the other way: "learning-by-doing in formulating
   project proposals" built capacity by making the agency do the work.
-- **CLAIM-597** (supplied upkeep never becomes optional): if renewal is
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (supplied upkeep never becomes optional): if renewal is
   read as upkeep, the persistence contradicts it; read as formation, with
   cities drawing on private investment and so not supplied every part from
   outside, the case is outside the claim's scope. The second reading fits.
-- **CLAIM-tmpqa0qu** (one-way against reciprocal supply): little bearing.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)** (one-way against reciprocal supply): little bearing.
   The federal supply was one-way, with a local share (federal grants of
   "two-thirds (or in some cases three-fourths)" of net cost, p. 4) and
   private co-investment, and left no measured city-level dependence.
-- **QUESTION-398** (independence from the founding intervention): a case
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (independence from the founding intervention): a case
   answering it at city scale, in part. The income effect is visible by
   1960 and persists to 2000 after the program ended, with clearance as the
   removal of a lock-in that lets investment coordinate.
-- **THEORY-919**: parallel in design and finding, as above.
-- Filed: THEORY-tmp7ch1y, the city-level account. No instruction for
+- **[THEORY-919](../theory.d/THEORY-919.md)**: parallel in design and finding, as above.
+- Filed: [THEORY-tmp7ch1y](../theory.d/THEORY-tmp7ch1y.md), the city-level account. No instruction for
   machine-learning practice; nothing for the anthology.
 
 ## Limitations

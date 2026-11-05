@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpvwtsg) from NBER Working Paper 17458, the
+  read 2026-11-05 ([NOTE-tmpvwtsg](../notes.d/NOTE-tmpvwtsg.md)) from NBER Working Paper 17458, the
   November 2012 revision, on nber.org; the published AEJ text was not
   read. Worth reading as the first well-identified estimate of what
   federal urban renewal under Title I of the Housing Act of 1949 did to
@@ -88,7 +88,7 @@ Collins, W. J. & Shester, K. L. (2013). Slum Clearance and Urban Renewal in the 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpvwtsg. Page numbers are the NBER working paper's (November 2012 revision).*
+*From the reading, [NOTE-tmpvwtsg](../notes.d/NOTE-tmpvwtsg.md). Page numbers are the NBER working paper's (November 2012 revision).*
 
 - **Scale.** "more than 2,100 distinct urban renewal projects with grants
   totaling approximately $53 billion (in 2009 dollars)" (p. 2); new
@@ -120,14 +120,14 @@ to remove. It is a case of large, one-off, time-limited outside support,
 the clearing and rebuilding done by public agencies and private
 developers rather than by residents, whose city-level effect persisted
 and may have grown after the support stopped. That qualifies
-CLAIM-tmpc3x0c on the unit of analysis: what persisted is the city as a
+[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) on the unit of analysis: what persisted is the city as a
 place, measured in aggregates, while the population nominally served was
 removed from the cleared areas. Read as upkeep, it runs against
-CLAIM-597; read as formation drawing on private investment, it is outside
+[CLAIM-597](../claims.d/CLAIM-597.md); read as formation drawing on private investment, it is outside
 that claim's scope. Its threshold and agglomeration stories fit
-CLAIM-tmpw4ai2 without testing it, and its note that cities' agencies
-learned by doing proposals bears on CLAIM-tmpoh07b for the agencies, not
-for residents. It answers QUESTION-398 at city scale in part, and
-parallels THEORY-919 (Juhász) in design. It does not see the displaced or
+[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) without testing it, and its note that cities' agencies
+learned by doing proposals bears on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) for the agencies, not
+for residents. It answers [QUESTION-398](../questions.d/QUESTION-398.md) at city scale in part, and
+parallels [THEORY-919](../theory.d/THEORY-919.md) (Juhász) in design. It does not see the displaced or
 their neighbourhoods; LaVoice (2024), read alongside as a complement,
-does. Filed from it: THEORY-tmp7ch1y.
+does. Filed from it: [THEORY-tmp7ch1y](../theory.d/THEORY-tmp7ch1y.md).

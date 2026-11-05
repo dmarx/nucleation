@@ -132,7 +132,7 @@ spatial equilibrium model" (p. 4).
 
 ## Connections
 
-It builds on Collins and Shester (2013), NOTE-tmpvwtsg and THEORY-tmp7ch1y,
+It builds on Collins and Shester (2013), [NOTE-tmpvwtsg](NOTE-tmpvwtsg.md) and [THEORY-tmp7ch1y](../theory.d/THEORY-tmp7ch1y.md),
 whose city-level gains it takes as given and whose variation in state
 legislation it uses to choose control cities. Read as a complement to
 them, not a stand-in: it restates none of their city-level estimates and
@@ -144,27 +144,27 @@ cleared areas "did not consider these neighborhoods to be slums" (p. 4).
 In this batch, Michaels et al. (2021) contrast greenfield sites and
 services with slum upgrading; Kline and Moretti (2014) and Neumark and
 Simpson (2015) are the place-based programme and its survey. Ostrom et
-al., THEORY-tmph35ra, ask who owns and maintains what aid builds, the
+al., [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md), ask who owns and maintains what aid builds, the
 question this draft's displaced residents never got to answer.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c** (when transient support is safe to withdraw):
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)** (when transient support is safe to withdraw):
   sharpens the unit-of-analysis warning from Collins and Shester. Support
   that substituted wholesale, outside agencies clearing and rebuilding,
   left persistent change; but the change belongs to the place and its new
   occupants, not to the community supported in name, which was dispersed
   and whose poorest members were made worse off. The claim's conditions
   need to say whose persistence counts.
-- **CLAIM-tmpoh07b** (support that does the work lowers capacity):
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (support that does the work lowers capacity):
   suggestive only. Clearance did not do residents' work so much as remove
   their housing and neighbourhood; the 70% self-relocation figure shows the
   displaced carrying their own rehousing unaided. No capacity is measured.
-- **CLAIM-tmpw4ai2, CLAIM-597, CLAIM-tmpqa0qu, QUESTION-398, THEORY-919**:
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md), [CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), [QUESTION-398](../questions.d/QUESTION-398.md), [THEORY-919](../theory.d/THEORY-919.md)**:
   little beyond the Collins and Shester reading. Persistent physical change
   (density) beside a fading income effect at tract level is a reminder that
   what persists depends on the measure.
-- Filed: THEORY-tmpcqo5a. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpcqo5a](../theory.d/THEORY-tmpcqo5a.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

@@ -21,14 +21,14 @@ date: '2026-11-05'
 source:
 - LIT-tmp3jqit
 summary: >-
-  LaVoice (2024), LIT-tmp3jqit, read from a 24-page 2021 draft in
-  NOTE-tmpuu40d, not from the version of record. Proposed: the draft
+  LaVoice (2024), [LIT-tmp3jqit](../literature.d/LIT-tmp3jqit.md), read from a 24-page 2021 draft in
+  [NOTE-tmpuu40d](../notes.d/NOTE-tmpuu40d.md), not from the version of record. Proposed: the draft
   defers its complete results to the full paper; its income gain is given
   as 18% and as 16% without reconciliation, so no income figure is
   asserted here; controls are slums in other cities, with black-share
   pre-trends that differ; and the welfare result is the model's, not a
   measurement. It does not track the displaced or measure the social ties
-  the clearances broke. It complements the city-level THEORY-tmp7ch1y.
+  the clearances broke. It complements the city-level [THEORY-tmp7ch1y](THEORY-tmp7ch1y.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpuu40d THEORY-tmp7ch1y — Skimmed, Proposed or new; cited from the reading of LaVoice (2024) as open -->
 
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-LaVoice (2024), LIT-tmp3jqit; read from a short 2021 draft in NOTE-tmpuu40d.
+LaVoice (2024), [LIT-tmp3jqit](../literature.d/LIT-tmp3jqit.md); read from a short 2021 draft in [NOTE-tmpuu40d](../notes.d/NOTE-tmpuu40d.md).
 
 ## What was actually shown
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpuu40d) from a short draft, the "24 Page
+  read 2026-11-05 ([NOTE-tmpuu40d](../notes.d/NOTE-tmpuu40d.md)) from a short draft, the "24 Page
   Version", hosted by Yale's Economic Growth Center for its April 2021
   economic history conference; the Journal of Public Economics version of
   record was not read, and the fuller job-market version was not reached
@@ -88,7 +88,7 @@ LaVoice, J. (2024). The long-run implications of slum clearance: A neighborhood 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpuu40d. Page numbers are the short draft's, not the journal's.*
+*From the reading, [NOTE-tmpuu40d](../notes.d/NOTE-tmpuu40d.md). Page numbers are the short draft's, not the journal's.*
 
 - **Selection by race.** "conditional on experiencing urban blight, black
   neighborhoods were between two and three times more likely than white
@@ -115,14 +115,14 @@ LaVoice, J. (2024). The long-run implications of slum clearance: A neighborhood 
 
 ## Standing in the record
 
-Filed as a complement to Collins and Shester (2013), LIT-tmpdtq25, not a
+Filed as a complement to Collins and Shester (2013), [LIT-tmpdtq25](LIT-tmpdtq25.md), not a
 stand-in: it covers the people and places that their city-level design
 cannot see, from the same program and the same variation in state
 legislation. Together they show the unit-of-analysis problem in
-CLAIM-tmpc3x0c: the place persisted and gained while the community
+[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md): the place persisted and gained while the community
 supported in name was dispersed, and the gains went to the city and to
-incoming higher-income households. It bears on CLAIM-tmpoh07b only
+incoming higher-income households. It bears on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) only
 suggestively: clearance removed residents' housing and neighbourhood
 rather than doing their work, and the displaced carried their own
 rehousing; no capacity or social tie is measured. Filed from it:
-THEORY-tmpcqo5a, beside THEORY-tmp7ch1y.
+[THEORY-tmpcqo5a](../theory.d/THEORY-tmpcqo5a.md), beside [THEORY-tmp7ch1y](../theory.d/THEORY-tmp7ch1y.md).

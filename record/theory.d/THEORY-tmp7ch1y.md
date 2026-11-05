@@ -20,8 +20,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpdtq25
 summary: >-
-  Collins & Shester (2013), LIT-tmpdtq25, read from the NBER working
-  paper's November 2012 revision in NOTE-tmpvwtsg. Proposed: the published
+  Collins & Shester (2013), [LIT-tmpdtq25](../literature.d/LIT-tmpdtq25.md), read from the NBER working
+  paper's November 2012 revision in [NOTE-tmpvwtsg](../notes.d/NOTE-tmpvwtsg.md). Proposed: the published
   AEJ text was not read; the instrument's first stage is modest (F 13.8)
   and its variation lies mostly outside the Northeast and Midwest; the
   2000 estimates are imprecise. It says nothing about the displaced,
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Collins & Shester (2013), LIT-tmpdtq25; read from NBER Working Paper 17458 (November 2012 revision) in NOTE-tmpvwtsg.
+Collins & Shester (2013), [LIT-tmpdtq25](../literature.d/LIT-tmpdtq25.md); read from NBER Working Paper 17458 (November 2012 revision) in [NOTE-tmpvwtsg](../notes.d/NOTE-tmpvwtsg.md).
 
 ## What was actually shown
 
@@ -63,7 +63,7 @@ Collins & Shester (2013), LIT-tmpdtq25; read from NBER Working Paper 17458 (Nove
 - That the program was good for the people it displaced, or for the
   neighbourhoods cleared: the design is city aggregates, and the authors
   say the displaced's costs "would not be capitalized in local property
-  values" (p. 27). LaVoice (2024), NOTE-tmpuu40d, finds the cleared
+  values" (p. 27). LaVoice (2024), [NOTE-tmpuu40d](../notes.d/NOTE-tmpuu40d.md), finds the cleared
   neighbourhoods' poorest residents worse off.
 - That the gains are net: weak county effects leave open relocation from
   surrounding areas into central cities (pp. 22–23).
