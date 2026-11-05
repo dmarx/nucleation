@@ -128,3 +128,29 @@ From the synthesis on DNA origami by another assistant (A), pasted by the owner 
 A restates the claim's three properties, which came from A's earlier synthesis, as P_assemble, P_survive(T) and P_regenerate(T): "A molecular structure can be easy to assemble but chemically fragile. It can be durable but difficult to assemble. And it can possess both properties without regenerating itself." A adds that self-assembly "is not the same as self-maintenance". DNA origami's "design, components, and assembly conditions are typically provided externally", and it is "a strength of the example rather than a weakness". The readings bear this out. Douglas et al. 2009 (NOTE-tmp77tp9) report multilayer designs that need week-long anneals and fold at 7 to 44 %. None of the readings reports regeneration.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Douglas et al., "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), LIT-tmpepjt3, support the example. Structures
+assemble at a yield and persist through gel, purification and 24 h
+incubations, and hierarchical assembly builds polymers and icosahedra from
+pre-folded monomers; nothing regenerates. Assembly, persistence and the
+absent regeneration are separable here.
+
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), LIT-tmpqorwy, support the claim. The
+robot assembles, persists, and is designed to change state on cue, yet
+never produces the staples or scaffold to make another copy of itself:
+persistence and conditional reconfiguration without regeneration. No
+status changes.
+
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), LIT-tmpairr7, support the separation and refine it:
+- Assembly is measured, as per-cycle yield split into vertical binding and horizontal linking.
+- Persistence is engineered by a covalent UV crosslink and not measured over a horizon.
+- Regeneration after turnover is absent.
+- What the paper shows is a fourth thing, multiplication: more copies of a pattern from supplied parts, restoring no one of them.
+
+Every enabling condition is supplied from outside: tiles, the thermal program, UV and the splitting of samples. The structure makes daughters, but not the constraints its own cycle depends on.
+
+No status changes.

@@ -85,3 +85,17 @@ likely". In A's words, "Both results would be valuable."
 
 Being stipulated, the study shows nothing until it is run. What it would
 show about organizations depends on a mechanism of their own.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres, "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, is a partial, real instance of
+the proposed study: it holds the target design fixed and varies the
+relative availability of components, and measures intermediates and where
+folding nucleates. But it is not at fixed total expenditure (the stock
+rose) and it measures neither the probability nor the time of assembly nor
+a defect census under the altered allocation, which the proposed study
+asks for.
+
+No status changes.

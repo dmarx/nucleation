@@ -50,6 +50,7 @@ summary: >-
   cheap to measure first. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-574 — Proposed or Skimmed; cited from the further DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CLAIM-570 CLAIM-581 CLAIM-574 CASE-206 — Proposed; entries of this pull request, cited as open -->
 
 # CLAIM-592: Whether a system's own reachable classes ever coincide with what an observer can tell apart depends on the order of the observer's probe costs as well as on the mechanism: the two partitions agree exactly at partitions common to the observer's refinement chain and the system's merge tree, a level of the merge tree can be made to agree under some cost order exactly when it is the common refinement of some set of the available probes, and the cost order decides which of those levels actually appear
@@ -130,5 +131,17 @@ Read on the owner's request to connect the record's realizability inquiry to DNA
 kind: the cheap defect label splits samples by ensemble composition and the costly cryo-EM, by the
 authors' account, would split them by shared site-specific defects, so which distinctions are
 bought first depends on which probe is cheap. No costed probe family is set out.
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+- The gel merges a damaged design with well-folded ones.
+- It also splits well-folded designs by mobility.
+
+This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
 
 No status changes.

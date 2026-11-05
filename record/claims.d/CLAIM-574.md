@@ -182,3 +182,15 @@ The probes are not nested by cost, which the claim's hypothesis needs.
 **Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), give a physical instance of distinctions that only grow as the probe family grows. Melting temperature, the coarsest probe, already separates the scaffolds of different persistence length. The finer derived quantities (ΔH, ΔS, ΔCp) resolve only the short persistence-length scaffold, because uncertainty "propagates aggressively through the van’t Hoff analysis". Adding a domain-specific reporter separates what bulk probes merge. The paper leaves open any formal statement of the nesting.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+- The gel merges a damaged design with well-folded ones.
+- It also splits well-folded designs by mobility.
+
+This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
+
+No status changes.

@@ -256,3 +256,11 @@ Readings from the pasted synthesis on constraint architectures add instances, mo
 Qualifying: Hopkins's serial stacking ([NOTE-1596](../notes.d/NOTE-1596.md), [NOTE-1580](../notes.d/NOTE-1580.md)), freedom spaces adding and constraint spaces intersecting, is the kinematic form of eliminating the interior, and underconstraint, where the boundary leaves it unfixed, costs vibration and controllability. In Jules et al. ([NOTE-1617](../notes.d/NOTE-1617.md)) decoupled units in series add no constraint, coupling rather than composition making one; Hu et al. ([NOTE-1608](../notes.d/NOTE-1608.md)) compose a new function, not a constraint. Kane and Lubensky ([NOTE-1601](../notes.d/NOTE-1601.md)) and Chen et al. ([NOTE-1624](../notes.d/NOTE-1624.md)) show the converse: joining phases of different polarization creates freedoms at the interface.
 
 The conditions under which composition creates freedom at an interface, from Kane and Lubensky and from Chen et al., are what [QUESTION-378](../questions.d/QUESTION-378.md) asks about. No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), LIT-tmpairr7, support the claim by analogy. Tethering a tile to a template eliminates its translational freedom, and what remains at the boundary is a new effective coupling. The tethered horizontal sticky ends sit at about 0.8 mM instead of about 1 nM, which raises their melting from about −5 °C to about 18 °C. The paper does not frame it as elimination of an interior, and nothing here is a constraint of a new kind.
+
+No status changes.

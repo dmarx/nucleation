@@ -49,7 +49,7 @@ the constraints, selects the outcome.
   [THEORY-tmp2h496](../theory.d/THEORY-tmp2h496.md)) change only the staples that stabilize intermediates, and
   products shift among final shapes of about equal free energy. In their
   model, misfolds fall from 52 % to 1 %.
-- **Concentration acts as a stability.** The lead's observation, not A's: in
+- **Concentration acts as a stability.** The assistant's observation, not A's: in
   dilute solution a component's concentration enters its binding free
   energy as a term kT ln c. So reallocating a fixed stock of staples shifts
   the local free energies of the steps their binding enables. In A's own
@@ -83,3 +83,23 @@ the constraints, selects the outcome.
   of attainable final configurations is shown not to depend on the
   allocation. A shift in the realized configuration with the allocation
   would answer it yes for that model.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres, "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, read in full (main text and
+supplement, NOTE-tmp059hz), is the paper A's question leans on, now read
+rather than taken on A's account. It qualifies the question: with
+sequences unchanged, raising the central staples and cutting the edge
+staples reroutes where the rectangle starts folding (edges to centre), and
+the same kind of rectangle still forms. But it does not test the
+question's premise of a fixed stock: the total staple amount rose, the
+ramp was slowed, and no final-form distribution or yield was measured
+under the change. The authors' account is equilibrium (folding starts
+where staples melt highest, concentration setting the melting
+temperature), the assistant's "kT ln c" reading rather than A's kinetic
+competition. The reading shows the path rerouted; it does not show the
+final form selected.
+
+No status changes.

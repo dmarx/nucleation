@@ -1,0 +1,169 @@
+---
+status: Skimmed
+paper: 'LIT-tmp7dfy2'
+title: 'Cumberworth and Reinhardt — Models and simulations of structural DNA nanotechnology'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in part on 2026-11-05 from the authors' submitted version in
+    Cambridge's Apollo repository
+    (https://www.repository.cam.ac.uk/bitstreams/cc842202-d199-4aa5-9600-f947fc00073f/download,
+    CC BY, listed by OpenAlex), a PDF in the journal's template with
+    placeholder DOI and dates, text extracted by pdftotext. pubs.rsc.org
+    had shown a Cloudflare challenge and was not retried; the work is not
+    in PubMed Central. Read: the abstract, the hysteresis passages of §§1
+    and 2, §2.1 (cooperativity), §2.2 (nucleation barriers in DNA bricks)
+    and §2.3 (nucleation barriers in DNA origami) in full, and the
+    Conclusions. Skimmed or skipped: §1.1 (methods overview), §2.4 onward
+    on simulation methods, §3 on the models (the nearest-neighbour model,
+    the brick lattice model, the origami models and their loop free energy,
+    seen only in passing), the figures and the references. Being a
+    submitted version, its wording may differ from the journal's. Status
+    Skimmed.
+date: '2026-11-05'
+summary: >-
+  Read in part. In the review's account of simulations, a staple's later
+  domains bind within one structure without a second translational
+  penalty, but each loop closed constrains the scaffold at an entropic cost
+  that depends on binding order; small loops tend to close first, and a
+  staple typically binds fully once started. Origami assembly is mostly
+  downhill and needs no nucleation barrier, unlike DNA bricks, though one
+  can be designed in; blocking is rare at typical staple concentrations.
+---
+<!-- inactive-ok-file: THEORY-tmp07nzo CLAIM-571 CLAIM-569 CLAIM-591 CLAIM-478 CLAIM-184 CLAIM-185 CLAIM-557 — Proposed or new; cited from the reading of Cumberworth and Reinhardt (2025) as open -->
+
+# NOTE-tmp1fpff: Cumberworth and Reinhardt — Models and simulations of structural DNA nanotechnology
+
+## Contribution
+
+A review, largely of the authors' own coarse-grained lattice and
+Monte Carlo simulations, of the physics of DNA self-assembly in origami
+and in DNA bricks. Its threads, in the parts read: how to choose a
+reference state when defining cooperativity; loop closure as the main
+source of domain-level cooperativity in origami; coaxial stacking as an
+intermolecular source; and why nucleation barriers are needed for bricks
+and not for origami, with three ways to design one into origami
+(stacking, a long loop-closing staple, toehold exchange from a coating
+staple set).
+
+## Key insight
+
+In origami the first domain of a staple pays the price of finding the
+scaffold, and its later domains bind within the same structure; but each
+binding closes a loop and constrains the scaffold, so what binds next, and
+at what cost, depends on what has already bound and in what order.
+
+## Assumptions
+
+- Simulations are of small 2D origami designs; the authors caution about
+  larger and 3D designs.
+- Domain-level coarse-grained models with a loop free energy from scaffold
+  end-to-end statistics (seen only in passing in §3).
+- Typical staple concentrations, in excess over scaffold.
+
+## Key results
+
+- **Two effects on later domains (§2.1).** "the bonding of subsequent
+  domains of the same staple depend significantly on what kinds of loops
+  form, since such bonding events occur within the same overall structure,
+  and there is no analogous loss of translational degrees of freedom upon
+  bonding." Against that, "The size of the entropic cost of this loop
+  formation depends on the order in which the staple domains bond to the
+  scaffold". In a two-staple example, "The two effects thus act in
+  different directions and which pathway dominates depends on the relative
+  rates of the steps"; empirically "the pathway is likely to be dominated
+  by the initial closure of smaller loops". Enumerating pathways "quickly
+  becomes intractable" as designs grow.
+- **Staples bind fully once started (§§2.1, 2.3).** "once a staple bonds
+  with its first domain, it will typically bond fully before additional
+  staples bond". The Conclusions qualify it: in "a larger 3D-lattice-based
+  system with more domains per staple", "there is evidence that this
+  observation does not hold".
+- **Stacking (§§2.1, 2.3).** Higher staple valency gives "a particularly
+  sharp transition" and can make a nucleation barrier, if staples are
+  "monodisperse in their individual melting temperatures".
+- **Origami needs no barrier (§2.3).** "In contrast to DNA bricks,
+  equivalent nucleation barriers are not required for error-free assembly
+  of DNA-origami structures"; free-energy projections show assembly
+  "mostly downhill".
+- **Blocking (§2.3).** In oxDNA simulations by others it is "one of the
+  greatest kinetic hindrances"; in the authors' model, "the complete
+  bonding of a staple may explain why blocking at typical staple
+  concentrations does not occur frequently and is therefore not a major
+  hindrance to correct assembly."
+- **Bricks (§2.2).** "A nucleation barrier is essential for the target
+  structure to form in high yields"; without one, many clusters deplete
+  the monomers. Seeding by boundary bricks allows controlled nucleation.
+- **Hysteresis (§1).** Spectroscopic studies show "annealing occurring at
+  a lower temperature than melting", while an AFM study found melting and
+  annealing "largely the reverse of one another".
+
+## Concepts
+
+- **Reference state** for cooperativity: the state against which a
+  binding is counted cooperative.
+- **Loop closure** and its **order-dependent entropic cost**.
+- **Nucleation barrier**: a free-energy maximum on the way to the target,
+  needed for bricks, optional and designable for origami.
+- **Blocking**: two copies of a staple occupying its scaffold sites.
+
+## Connections
+
+It is the mechanism behind the first-fold loop-entropy skew that Majikes
+et al. (2026), LIT-tmpbkl3k, aggregate into a design metric, and it
+disagrees with that paper on blocking: rare at typical concentrations
+here, a design metric there under deliberately low ones. Its loop
+free energy is of the kind used by Dannenberg et al. (2015),
+LIT-tmpdyrnb, and Dunn et al. (2015), LIT-tmpqku12, and its hysteresis
+discussion meets Dannenberg's. Cumberworth's earlier simulation of
+design-dependent nucleation barriers (Nano Letters 2022), not held, is
+the likely source of A's misattribution of Aksel et al. (2024),
+LIT-tmpaxtww. The held simulation of DeLuca et al. (LIT-2081, NOTE-1561)
+is a different, mesoscopic model of origami folding.
+
+## Bearing on the record
+
+- **A's characterization.** "A 2025 review of structural DNA
+  nanotechnology" is supported (Chemical Society Reviews, an RSC journal,
+  so A's pubs.rsc.org tag fits). That it "analyzes the entropy of loop
+  formation" is supported (§2.1). "the dependence of subsequent staple
+  binding on existing loops" is close to the text but broadens it: the
+  review speaks of later domains of the same staple, with loop cost
+  depending on the order of binding.
+- **CLAIM-571 and CLAIM-569 (reaching threshold against holding
+  requirement).** The barrier account of hysteresis is a textbook case of
+  a threshold to reach exceeding what holding needs; the review reports
+  that the experimental evidence for it in origami is contested.
+- **CLAIM-591 (directed costs)**: hysteresis is direction dependence;
+  consistent, not new.
+- **CLAIM-478 and CLAIM-480**: loop closure constrains the scaffold for
+  later domains, the same mechanism as Majikes's inter-fold cooperativity.
+- **QUESTION-380 (when a small compatible nucleus helps).** Directly
+  relevant: for bricks a nucleus must be rare and seeded to beat many
+  competing clusters; for origami none is needed, though one can be
+  designed.
+- **QUESTION-tmpg0j9y**: the toehold-exchange route changes which seed
+  starts assembly; a simulation result, not a reallocation of a fixed
+  stock.
+- **CLAIM-184 and CLAIM-185**: the bricks' many-nuclei failure, monomer
+  depletion then arrest, is entrenchment of early partial structures.
+- **CLAIM-557 family, CLAIM-025, TERM-070, QUESTION-388**: none.
+- Filed: THEORY-tmp07nzo. No instruction for machine-learning practice.
+
+## Limitations
+
+- **A review of mostly the authors' own coarse-grained simulations** of
+  small 2D designs; the authors caution about generalizing to large ones.
+- **Read in part**, from a submitted version: the methods and models
+  sections were skimmed or skipped, and the published wording may differ.
+- Experimental support for the hysteresis account is reported as mixed.
+
+## Open questions
+
+- Do staples bind fully once started in a real 2D origami? A
+  domain-resolved measurement during annealing (FRET, or oligomer
+  inclusion) would tell.
+- Is blocking rare at typical concentrations and common at low ones, which
+  would reconcile this review with Majikes et al. (2026)?

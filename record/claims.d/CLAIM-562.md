@@ -119,3 +119,15 @@ Where the weakening acts, on cooperative long-range contacts, matters more than 
 added. The experimental side is AFM counts on one protocol.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, support the claim in kind: where
+the concentration change was applied (central versus edge staples), not the
+amount alone, moved the nucleation site. The paper varies location and
+amount together, so it is suggestive, not a clean separation. No status
+changes.
+
+No status changes.

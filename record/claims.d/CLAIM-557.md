@@ -47,6 +47,7 @@ summary: >-
   become while leaving what observers see unchanged. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-574 — Proposed or Skimmed; cited from the further DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CASE-210 CLAIM-574 CLAIM-577 CLAIM-581 CLAIM-590 TERM-088 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 
 # CLAIM-557: More resource for observing splits what can be told apart, and more resource for acting merges what can be turned into one another, so a system's budgeted individuation runs in opposite directions from outside and from inside and is indexed by a pair of budgets, not one
@@ -107,5 +108,33 @@ missing. It leaves open the acting half and whether the extra spending is ordere
 budget is.
 
 **Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), read in [NOTE-tmperio5](../notes.d/NOTE-tmperio5.md), support the observing half of the claim concretely. Bulk methods (UV-Vis and DSC, which "measure signal from all DNA in the sample", and gels) cannot single out one staple fold of the scaffold; a designed FRET reporter can. What can be told apart grows with replicates and instrument precision. At the paper's budget, persistence-length differences show in melting temperature but not in ΔH, ΔS or ΔCp, and better "would require equipment with a temperature control precision better than 0.3°C, and with a data sampling density greater than one measurement per 0.6°C." The paper leaves the acting half untouched.
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, illustrate the observing half:
+the same folding ensemble is split two ways by modal height ("only two
+peaks suggesting that folding is a two-state process. However, this
+picture is incomplete"), four ways by median height ("at least four
+states"), and six ways by visual inspection, while bulk fluorescence
+merges the chain-like and coil states because they "had a similar number
+of base pairs". Richer observables tell more apart.
+
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, support the observing half: one
+topology-reporting channel "cannot distinguish between the blocked state
+and a scaffold without a staple", gels "failed to identify any conditions
+that could distinguish the circular and figure-eight states", and
+resolving more states needs more channels (at least five for a
+three-domain staple). The cheap probe lumps classes the dearer one would
+split.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+- The gel merges a damaged design with well-folded ones.
+- It also splits well-folded designs by mobility.
+
+This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
 
 No status changes.

@@ -111,3 +111,23 @@ A offers a five-stage sequence, which A flags as "a synthesis of observed and si
 - **Moving the nucleus is not yet shown to change the outcome.** Neither reading shows that moving the nucleus changes the final yield, which is what the question asks.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, are directly relevant. The
+nucleus sits where local staple melting temperature is highest and can be
+moved by changing staple concentrations alone; this is an observed,
+movable nucleus whose location sets the growth path. Whether seeding a
+small compatible nucleus raises global yield is not measured. No status
+changes.
+
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, bear on the question as a hypothesis:
+origami should nucleate where fold distances are short, each closed fold
+raising its neighbours' j-factor and letting blocking strands be displaced
+along a growth front, while tiles, lacking these cooperativities, stall.
+The effectiveness of a nucleus is thus predicted from the fold-distance
+distribution. Untested at the multi-fold level.
+
+No status changes.

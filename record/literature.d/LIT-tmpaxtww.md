@@ -1,0 +1,108 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmptbrlo) from the PNAS version of record in PubMed
+  Central (PMC11621765, CC BY-NC-ND 4.0), main text and SI Appendix in
+  full, figures through their legends only; worth reading as a design
+  method that turns the choice of staple breakpoints in a fixed DNA origami
+  helix layout into a shortest-path search under an equilibrium free-energy
+  score, and as evidence that this choice alone moves gel-measured
+  accurate-folding yield by about an order of magnitude in three
+  multilayer blocks. Its main limits: yield is one hand-bounded gel window
+  after one anneal, with no stated replicates; TEM only of the redesigns;
+  the score ignores kinetics and inter-staple cooperativity; the largest
+  gain (10×10 block, 2 to 61%) also changed the scaffold seam, insertion
+  and paired fraction; the abstract's 6-fold lower bound is not recoverable
+  from the reported numbers, which give 8- to about 30-fold.
+title: 'Design principles for accurate folding of DNA origami'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's paste of A's
+    synthesis on DNA origami (the second paste), which opens by crediting
+    the work to "Cumberworth and colleagues (2024)" and corrects itself
+    later to Aksel and colleagues in PNAS. The citation was checked by the
+    reader against Crossref (no mailto) and PubMed esummary (PMID
+    39570311): Tural Aksel, Erik J. Navarro, Nicholas Fong and Shawn M.
+    Douglas, Proceedings of the National Academy of Sciences 121(48),
+    e2406769121; A's corrected attribution is right and its first one
+    wrong. `published:` is the bioRxiv preprint
+    (doi:10.1101/2024.03.18.585609), posted 2024-03-19, the earliest exact
+    date; the version of record appeared online on 2024-11-21 (issue
+    2024-11-26), and its DOI is the one given here. Read from the PubMed
+    Central copy (https://pmc.ncbi.nlm.nih.gov/articles/PMC11621765/),
+    fetched as JATS XML through Europe PMC's REST service, with the SI
+    Appendix from Europe PMC's supplementary-files archive. Not read:
+    Dataset S1 (staple sequences) and the figure images; of the preprint,
+    only the abstract. Status Active.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-05'
+published: '2024-03-19'
+doi: '10.1073/pnas.2406769121'
+first_author: 'Aksel'
+keywords:
+- 'DNA origami'
+- 'staple design'
+- 'shortest path'
+- 'weighted graph'
+- 'folding yield'
+- 'loop closure'
+- 'free energy'
+implementations:
+- 'douglaslab/pyOrigamiBreak'
+summary: >-
+  Aksel, Navarro, Fong & Douglas (2024). Candidate staple breakpoints in a
+  caDNAno design become nodes of a weighted graph, candidate staples its
+  edges, each weighted by −ln P_staple from an equilibrium free energy
+  summing bimolecular binding, scaffold loop closure and hybridization at
+  50 °C; a k-shortest-path search per staple precursor gives an optimized
+  staple set. Four published multilayer blocks redesigned this way and
+  folded in one 21 h stepped anneal rose in gel-measured yield of accurate
+  folding from 2-6% to 48-61%, three of them with scaffold route and helix
+  layout unchanged, and yields correlate with the model's score (R² =
+  0.86 over 8 designs). The model scores staples independently at
+  equilibrium and ignores folding kinetics.
+---
+<!-- inactive-ok-file: THEORY-tmpa4har CLAIM-567 CLAIM-569 CLAIM-583 — Proposed or new; cited from the reading of Aksel et al. (2024) as open -->
+
+# LIT-tmpaxtww: Design principles for accurate folding of DNA origami
+
+Aksel, T., Navarro, E. J., Fong, N. & Douglas, S. M. (2024). Design principles for accurate folding of DNA origami. *Proceedings of the National Academy of Sciences* 121(48): e2406769121. doi:10.1073/pnas.2406769121. Preprint: bioRxiv doi:10.1101/2024.03.18.585609.
+
+## Key takeaways
+
+*From the reading, NOTE-tmptbrlo.*
+
+- **A shortest-path design method.** The authors "reduced the problem of
+  DNA strand routing to the known problem of shortest-path finding in a
+  weighted graph"; "the shortest paths represent globally optimized
+  solutions according to the scoring function". The routes are staple
+  routes; the scaffold route is drawn by hand.
+- **An equilibrium score.** "We adopted an equilibrium modeling approach
+  by independently calculating each staple score in its fully bound state,
+  and ignoring folding kinetics and interstaple cooperativity."
+- **Yields.** "The 10 × 10 block redesign improved from 2 to 61%"; the
+  64-helix blocks from 4 to 48%, 3.6 to 56% and 6 to 48%. For the three
+  64-helix blocks the redesigns "used identical scaffold routes and
+  staple-passivation strategies" (SI); the 10×10 also changed its seam.
+- **Still imperfect.** "The yields of our redesigns still show 39 to 52%
+  misfolded populations".
+
+## Standing in the record
+
+Registered from A's second paste on DNA origami, which offered it as a
+concrete case of changing how components are connected changing the
+probability of forming the target. The reading confirms the method and
+the yields and narrows the case: for three blocks only staple breakpoints
+changed, but the paper's account is that the redesigned target itself is
+more stable, not that the same target is reached by a different path. It
+bears on CLAIM-567 (weak support) and CLAIM-569 (a hold-type quantity
+predicting construction yield), and it does not instantiate CLAIM-583.
+It sits beside Dunn et al. (2015), LIT-tmpqku12, whose loop model it
+borrows, and the held simulation of DeLuca et al., LIT-2081, whose
+kinetics it omits. Filed from it: THEORY-tmpa4har. No instruction for
+machine-learning practice; nothing for the anthology.

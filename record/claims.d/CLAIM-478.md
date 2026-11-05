@@ -357,3 +357,11 @@ From the synthesis on DNA origami by another assistant (A), pasted by the owner 
 A puts the claim's point in molecular terms: "the constraints themselves are created during assembly", and an early interaction "can establish a relatively persistent constraint on subsequent, faster-scale motions and binding events". A asks when this is "genuinely causal rather than merely a change in how we describe a completed object". The readings filed here contain the test A asks for. Schneider, Möritz and Dietz (NOTE-tmpqi66a) removed the twenty earliest-binding segments, and the compacted intermediate did not form; the unfolded state "prevails for hours" before a slower pathway folds. An intervention on the early constraint changed the later dynamics, which a redescription would not.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, give some support. Their inter-fold cooperativity is a settled fold acting as a constraint on what follows: "the closing of one fold reduces the possible conformations available to the entire remaining scaffold". Its aggregate, the skew of first-fold penalties, predicts defectivity. No timescale separation is analysed.
+
+No status changes.

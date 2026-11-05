@@ -51,6 +51,7 @@ summary: >-
   telling apart and becoming. The construction is A's; the boundary
   formulas and checks are the assistant's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-574 — Proposed or Skimmed; cited from the further DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CLAIM-tmp7y162 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
 <!-- inactive-ok-file: CLAIM-574 CLAIM-581 CLAIM-557 CASE-199 CASE-206 — Proposed; entries of this pull request, cited as open -->
 
@@ -136,5 +137,17 @@ L from R.
 The assistant's reading across the eight DNA origami readings filed on the owner's request to connect the record's inquiry to DNA origami. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 
 An observer coarser than the system is the common case in DNA origami. Dunn and colleagues ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) fold one template into shapes each realised by four scaffold routings "distinguished by the nucleotide sequence at the template crossing but not resolved by AFM imaging", and once seams have bound the folds do not interconvert at folding temperatures. So AFM identifies pairs that are not mutually reachable within any affordable acting budget: those budget pairs lie outside the claim's up-set S. DeLuca et al.'s simulation ([NOTE-1561](../notes.d/NOTE-1561.md)) makes the same point for a count of bound staples: one hybridization state holds configurations with and without a route to the folded structure. The claim assumes a fixed cost function; where the acting resource is heat, which also sets the costs, A_a is not monotone in a ([CLAIM-tmp7y162](CLAIM-tmp7y162.md)).
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+- The gel merges a damaged design with well-folded ones.
+- It also splits well-folded designs by mobility.
+
+This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
 
 No status changes.

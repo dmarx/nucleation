@@ -154,3 +154,34 @@ construction (annealing) and not dissolution (melting). Maintenance as an ongoin
 modelled, and the evidence is simulation of one tile.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), LIT-tmpqorwy, support the claim's
+three-cost structure cleanly. Construction pays a distinct extra cost not
+paid in operation: two guide staples added at folding (raising closed-state
+yield 48% to 97.5%) and then removed by toehold-mediated displacement.
+Transition (opening) is paid in antigen-key concentration, set by lock
+length and independent of what holds the shape. Holding cost is not
+measured. None of the three fixes another.
+
+**Douglas et al., "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), LIT-tmpepjt3, support the construct-much-greater-than
+-maintain gap qualitatively: a week-long thermal ramp to fold, against 24 h
+incubations at 30–50 °C or a gel on ice that the folded product survives.
+Transition is not studied, and the costs are put on no common scale. No
+status changes.
+
+**Aksel, Navarro, Fong and Douglas, "Design principles for accurate folding of DNA origami".** Aksel et al. (2024), LIT-tmpaxtww, qualify the claim. A hold-type quantity, the equilibrium stability of each staple at 50 °C, predicts construction yield across their 8 designs (R² = 0.86). In this design family, the cost of keeping the form and the cost of making it co-vary. The paper is a datum that the two can track each other, not a case that separates them. Its model omits kinetics, so it leaves open where they come apart.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, give mild support. Concentration and anneal time, the constructing resource, are what the authors cut to provoke defects. Measured thermal stability, the maintaining side, enters their predictor as a separate term with about a third of the weight. It correlates with low defectivity rather than coming apart from it.
+
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), LIT-tmpairr7, support the claim:
+- Making a copy costs about 21 h of slow cooling and a UV crosslink.
+- Keeping it is nearly free once it is covalent.
+- Moving out of the template complex needs heating to about 50 °C, a step bounded above by the tile's own unravelling.
+
+No maintenance cost is measured over time.
+
+No status changes.

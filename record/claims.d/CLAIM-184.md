@@ -187,3 +187,18 @@ anchor locks in a misfold. Which designs entrench and which merely accelerate is
 status changes.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), LIT-tmps9gx3, qualify the claim. Early nuclei
+at well-defined positions do set which way the rectangle folds, supporting
+that early structure frames later growth; but by the authors' equilibrium
+account the outcome is not locked in (a quench to 57 °C still yields
+well-formed rectangles, and the finished rectangle is the same at 40 °C),
+which cuts against entrenchment as inevitability.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, give weak, indirect support. A design with many short early folds, and so many nucleation points but few routes to the long folds, was more defective. The authors read this as "additional kinetic traps for the topologically necessary long folds". This is local entrenchment of early structure. It is not lock-in of a framing, and no pathway was observed.
+
+No status changes.

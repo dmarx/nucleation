@@ -290,3 +290,11 @@ No status, title or warrant changes.
 Two readings from the pasted synthesis on constraint architectures qualify the anchor idea, by analogy. DeLuca et al. ([NOTE-1561](../notes.d/NOTE-1561.md)) find a persistent precursor, the "proto rod", on which later order grows, but early coalescence "is not a perfect predictor of overall folding performance", and a run can be "caught in a global topological trap": a persistent early structure can be the wrong anchor. The paper does not call this nucleation, and it is simulation. Stern et al.'s folding islands ([NOTE-1571](../notes.d/NOTE-1571.md)) are local seeds that fix a global outcome, a badly placed one locking in a distractor; no thermal barrier is crossed, so they are not nucleation sites in the strict thermodynamic sense. Both bear on what an anchor does once it persists, not on what makes a structure persist.
 
 [QUESTION-380](../questions.d/QUESTION-380.md) asks the organizational counterpart: when a small, internally compatible subsystem biases global organization, as folding islands do. DeLuca et al.'s precursor shows that an early anchor can be the wrong one. No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, qualify the claim. More short, stable early folds, more anchors, made outcomes worse: the design rotated to maximize short folds "performs objectively worse". What predicted quality was the distribution of loop-entropy penalties from short through medium to long folds, not the number of persistent anchors. Whether persistence is the threshold in other systems is left open.
+
+No status changes.

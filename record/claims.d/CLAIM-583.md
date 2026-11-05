@@ -147,3 +147,19 @@ not the same complex, moves and costs. Whether a case meeting the claim's full c
 origami is left open.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), LIT-tmplg4lb, qualify the claim. Changing the
+staple motif while keeping which scaffold sites are joined (same
+complementarity) left yield unchanged; changing fold distance (geometry,
+not complementarity) changed it. This supports the spirit, same
+compatibility yet different outcome with geometry and concentration, while
+the motif test is a null for the pure staple-set variant. No status
+changes.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), LIT-tmpbkl3k, qualify the reading of origami as a case of this claim. Their 34 designs share the target shape, but not the compatibility complex: routing, seams and staple motifs change which domains pair. What they show is the weaker "same target, different constraint system, different reliability". Sequence rotation, which keeps the routing and is the nearest to the same complex, changed nothing. The claim's strong condition remains without an experimental instance here.
+
+No status changes.

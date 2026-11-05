@@ -103,3 +103,16 @@ From the synthesis on DNA origami by another assistant (A), pasted by the owner 
 Douglas, Bachelet and Church's barrel (NOTE-tmpgw5ab) is a clean case of the programmable side. Its rule, which antigens open it, is set at folding by the aptamer sequences installed; six lock versions were built. Nothing in it feeds back on that rule. A's synthesis draws the same line: "That response does not automatically grant the structure the ability to revise the rules governing its own behavior." So DNA origami, as read here, offers programmable systems and no self-governing one.
 
 No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), LIT-tmpqorwy, give a clean "merely
+programmable" case for the question. The lock pair (and hence the response
+function) is set from outside; there is no internal process updating it
+from the device's own states; opening is a one-shot, input-triggered
+conformational change, not a rewrite of the rule. It sits below a system
+with internal feedback.
+
+No status changes.
