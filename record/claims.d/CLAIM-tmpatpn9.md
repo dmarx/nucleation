@@ -120,7 +120,7 @@ L from R.
 - It says nothing about whether either partition constitutes the system's
   identity; that stays with the distinction between identification and
   constitution ([CLAIM-150](CLAIM-150.md), [QUESTION-284](../questions.d/QUESTION-284.md)).
-- On the degree-4 vertex (CASE-tmpe48yq, with the assistant's probe
+- On the degree-4 vertex ([CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md), with the assistant's probe
   model) the partitions agree non-trivially in one window, where both pick
   out the flat state and the four half-branches; with the costs of the
   side and depth probes swapped the window disappears. So a non-trivial

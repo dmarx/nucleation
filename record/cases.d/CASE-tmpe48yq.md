@@ -142,7 +142,7 @@ self-intersection. The arithmetic for A and B is shown above.
 
 ## Observing costs, and the two frontiers
 
-Added on 2026-11-05, applying CLAIM-tmpatpn9 to this vertex. The model is
+Added on 2026-11-05, applying [CLAIM-tmpatpn9](../claims.d/CLAIM-tmpatpn9.md) to this vertex. The model is
 the assistant's.
 
 **States.** The flat state F and, on each of the four half-branches (mode A

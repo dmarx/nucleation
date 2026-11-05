@@ -71,7 +71,7 @@ open. No status changes.
 
 ## Note of 2026-11-05: the degree-4 vertex computed
 
-CASE-tmpe48yq now carries both frontiers for nine states of the vertex.
+[CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md) now carries both frontiers for nine states of the vertex.
 With probes for flatness, mode, side and depth at costs 1 to 4, the outside
 and inside partitions agree non-trivially in one window
 (3 ≤ o < 4, 1.125 ≤ a < 1.866), on the flat state and the four
