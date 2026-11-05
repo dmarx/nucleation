@@ -1,0 +1,107 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmp70nos) from the PubMed Central copy of the
+  version of record (PMC8685680, CC BY-NC-ND 4.0), main text, figure
+  captions, methods and references in full, the SI Appendix not read;
+  worth reading as the stand-in for He et al. (2017), LIT-tmph8p41, whose
+  cross-tile dimer replicator it inherits, and as an enzyme-free
+  replicator in which growth rate and mutation rate are both set by
+  design: a species produced only by a mutation of about 3.5% per copy
+  takes over when it grows faster. Its main limits: the master equation
+  and the per-cycle rate tables are in the unread SI; growth rate is the
+  only fitness, assigned by the recognition-strand design; every enabling
+  condition (monomers, temperatures, UV, sample splitting) is supplied
+  each cycle; the Results and Methods disagree on how the sample is split.
+title: 'Mutations in artificial self-replicating tiles: A step toward Darwinian evolution'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's invitation to add
+    readings to the DNA origami filing (works chosen by the assistant), as
+    a stand-in for the unread He, Sha, Zhuo, Mi, Chaikin and Seeman
+    (2017), LIT-tmph8p41, whose full text was not reached. The citation
+    was checked by the reader against Crossref (no mailto) and the JATS
+    XML: Feng Zhou, Ruojie Sha, Heng Ni, Nadrian Seeman and Paul Chaikin,
+    Proceedings of the National Academy of Sciences 118(50), e2111193118;
+    PMID 34873040; no arXiv version found. Received 24 June 2021, accepted
+    2 November 2021, published online 6 December 2021, which is
+    `published:`, issue 14 December 2021. No correction was needed. Read
+    from the PubMed Central copy
+    (https://pmc.ncbi.nlm.nih.gov/articles/PMC8685680/), fetched as JATS
+    XML from Europe PMC's REST service and converted to text; the SI
+    Appendix, not in the XML, was not read. Status Active.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-05'
+published: '2021-12-06'
+doi: '10.1073/pnas.2111193118'
+first_author: 'Zhou'
+keywords:
+- 'DNA origami'
+- 'self-replication'
+- 'mutation'
+- 'evolution'
+- 'growth rate'
+- 'photo-cross-linking'
+- 'error catastrophe'
+implementations: []
+summary: >-
+  Zhou, Sha, Ni, Seeman & Chaikin (2021). Two cross-tile origami dimer
+  species, AB and CD, each template their own kind from supplied
+  monomers through a cooling, UV cross-linking and heating cycle; three
+  mismatched bases in AB's recognition ends make about 3.5% of new dimers
+  CD. Seeded with AB alone, the two species move toward equal shares when
+  they grow alike (3.7 and 3.9 per cycle); when AB is held to a one-sided
+  design (at most 2 per cycle) and CD forms ladders, the mutant reaches
+  parity within five cycles and plateaus as the dominant species after
+  nine. "the growth rate is the only competitiveness".
+---
+<!-- inactive-ok-file: THEORY-tmpnzxug CLAIM-566 LIT-tmph8p41 — Proposed, Unavailable or new; cited from the reading of Zhou et al. (2021) as open -->
+
+# LIT-tmpb87sq: Mutations in artificial self-replicating tiles: A step toward Darwinian evolution
+
+Zhou, F., Sha, R., Ni, H., Seeman, N. & Chaikin, P. (2021). Mutations in artificial self-replicating tiles: A step toward Darwinian evolution. *Proceedings of the National Academy of Sciences* 118(50): e2111193118. doi:10.1073/pnas.2111193118.
+
+## Key takeaways
+
+*From the reading, NOTE-tmp70nos.*
+
+- **The inherited replicator.** "We seed and grow one dimer species, AB,
+  from A and B monomers that doubles in each cycle"; without a seed "any
+  dimers that are formed are sterile and do not replicate (19)", ref. 19
+  being He et al. (2017).
+- **Mutation set by design.** "a small error (3 bases) in the AB
+  recognition sticky strands (42 bases in total)" gives "16% mutated
+  binding" per monomer and, since both monomers must match to cross-link,
+  about 3.5% CD dimers per copy.
+- **Equal growth, equal shares.** At "approximately equal at 3.7 and 3.9
+  per cycle", the species converge over 15 cycles, as a first-order master
+  equation predicts.
+- **Faster growth wins.** With AB one-sided, "the mutated CD dimers reached
+  the same level as the AB dimers within only five cycles", then a plateau
+  after nine; "Since the growth rate is the only competitiveness in this
+  artificial self-replication, the mutated CD dimers with a higher growth
+  rate eventually dominated the system independent of the initial seed."
+- **Supplied each cycle.** "The refresh of monomers (A:B:C:D =
+  1.6:1.6:1.6:1.6 nM) was replenished into the system after each
+  self-replication cycle."
+
+## Standing in the record
+
+Registered and read as the stand-in for He et al. (2017), LIT-tmph8p41,
+whose full text was not reached: it uses that paper's replicator, cites
+it for the sterility of unseeded dimers, and extends it with mutation and
+selection on growth rate. It does not report He's own selection
+experiment. With Ni et al. (2026), LIT-tmpairr7, which gives the
+thermodynamics of the same cycle, it is the population-level side of the
+record's self-replication readings: copies multiply and a faster grower
+takes over, while nothing restores a lost member and every condition of
+the cycle is supplied, so it supports CLAIM-566 (replication is not
+regeneration). Errors are tuned, not corrected, which leaves CLAIM-520 on
+the value of a corrective capacity untested. Filed from it:
+THEORY-tmpnzxug. No instruction for machine-learning practice; nothing
+for the anthology.
