@@ -18,8 +18,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpnb22c
 summary: >-
-  Ostrom, Gibson, Shivakumar & Andersson (2002), LIT-tmpnb22c, read in part
-  in NOTE-tmp22pjn. Proposed: the mechanism is an ordinal game and the
+  Ostrom, Gibson, Shivakumar & Andersson (2002), [LIT-tmpnb22c](../literature.d/LIT-tmpnb22c.md), read in part
+  in [NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md). Proposed: the mechanism is an ordinal game and the
   evidence five short illustrative field cases with no counterfactual. The
   authors call ownership "a necessary, though not sufficient, condition for
   aid sustainability", so the account does not say ownership suffices, and
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Ostrom, Gibson, Shivakumar & Andersson (2002), LIT-tmpnb22c; read in part in NOTE-tmp22pjn.
+Ostrom, Gibson, Shivakumar & Andersson (2002), [LIT-tmpnb22c](../literature.d/LIT-tmpnb22c.md); read in part in [NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md).
 
 ## What was actually shown
 

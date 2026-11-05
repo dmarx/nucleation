@@ -148,55 +148,55 @@ on Ross, Knack and Wantchekon for the cross-national evidence. Moss,
 Pettersson and van de Walle (2006), filed in this batch, take up its aid
 half and add the economists' tax-effort literature. The collective action
 by taxpayers that Section VI asks for is the side of governance Ostrom's
-work holds: LIT-737 and THEORY-149 on user-made institutions, LIT-719 on
-polycentric governance. LIT-1325, on policy capture, is adjacent to
+work holds: [LIT-737](../literature.d/LIT-737.md) and [THEORY-149](../theory.d/THEORY-149.md) on user-made institutions, [LIT-719](../literature.d/LIT-719.md) on
+polycentric governance. [LIT-1325](../literature.d/LIT-1325.md), on policy capture, is adjacent to
 Moore's point that particularistic deals with large taxpayers undercut
 collective bargaining (p. 312).
 
 ## Bearing on the record
 
-- **CLAIM-597 (supplied maintenance).** Supports it by analogy and goes
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied maintenance).** Supports it by analogy and goes
   further. A state fed by rent or aid has no incentive to build the
   bureaucracy and bargaining that raising its own revenue requires, and
   the revenue-raising machinery it had decays (pathologies 5 and 7). Supply
   does more than fail to make the organization independent: it lets its
   own production capacity run down. There is no withdrawal evidence, and
   Moore expects cutting rents alone to fail.
-- **QUESTION-398 (independence from the founding intervention).** The
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** The
   clearest bearing. Independence needs earned income that obliges the
   state to bargain; concessional supply blocks it; supply synchronized
   with internal bargaining could help, but needs more than donors have
   shown. No thresholds.
-- **QUESTION-399 (a self-maintaining nucleus).** The tax bargain is a
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (a self-maintaining nucleus).** The tax bargain is a
   candidate cycle: revenue funds the state, the state serves taxpayers,
   and their prosperity and consent supply revenue (p. 300). Moore
   separates origin from persistence and calls persistence path-dependent,
   which fits the question's framing.
-- **CLAIM-566 (assembly, persistence, regeneration kept apart).** Supports
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assembly, persistence, regeneration kept apart).** Supports
   it: origins and persistence of collective action need separate
   explanations, and a rentier state persists without regenerating its own
   capacities.
-- **CLAIM-516 and CLAIM-558 (capacities with no internal producer;
+- **[CLAIM-516](../claims.d/CLAIM-516.md) and [CLAIM-558](../claims.d/CLAIM-558.md) (capacities with no internal producer;
   decay with disuse).** Qualitative support in the state setting: unused
   revenue raising decays and leaves the ground to rivals. The evidence is
   assertion and one quotation from counterinsurgency literature; nothing
   formal and no rates.
-- **THEORY-072, CLAIM-273, QUESTION-085 (supplied against self-maintained
+- **[THEORY-072](../theory.d/THEORY-072.md), [CLAIM-273](../claims.d/CLAIM-273.md), [QUESTION-085](../questions.d/QUESTION-085.md) (supplied against self-maintained
   order).** An analogue only: the rentier state is resourced from outside;
   the tax state maintains the conditions of its own revenue.
-- **TERM-105 (resource types).** The paper separates a windfall flow from
+- **[TERM-105](../terms.d/TERM-105.md) (resource types).** The paper separates a windfall flow from
   one that needs capacity to collect: the source of a flow, not only its
-  size, shapes the organization. That distinction is not among TERM-105's
+  size, shapes the organization. That distinction is not among [TERM-105](../terms.d/TERM-105.md)'s
   types.
-- **TERM-117 (productive nucleus).** Easter's Poland case is a candidate: a
+- **[TERM-117](../terms.d/TERM-117.md) (productive nucleus).** Easter's Poland case is a candidate: a
   harder early route paid off later in reliability. A single cited case.
-- **CLAIM-598, CLAIM-520, QUESTION-386, TERM-070, THEORY-153.** Loose
+- **[CLAIM-598](../claims.d/CLAIM-598.md), [CLAIM-520](../claims.d/CLAIM-520.md), [QUESTION-386](../questions.d/QUESTION-386.md), [TERM-070](../terms.d/TERM-070.md), [THEORY-153](../theory.d/THEORY-153.md).** Loose
   analogues at most: large rents raise the payoff to coups (p. 307: "The
   rewards are potentially very high"); keeping accountability costs rulers
   the need to "take risks by sharing power" (p. 301); IMF revenue targets
   push toward coercive collection; the fiscal contract reads as mutually
   dependent constraints, which Moore does not frame as closure.
-- Filed: THEORY-tmp02gkd.
+- Filed: [THEORY-tmp02gkd](../theory.d/THEORY-tmp02gkd.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

@@ -143,7 +143,7 @@ equilibrium, not supplying better forms.
 
 ## Connections
 
-The companion of Andrews, Pritchett & Woolcock on PDIA (LIT-tmptn3yr),
+The companion of Andrews, Pritchett & Woolcock on PDIA ([LIT-tmptn3yr](../literature.d/LIT-tmptn3yr.md)),
 which this paper cites as forthcoming and which takes the trap's scale
 from here; it also cites its own earlier CGD paper (2010) and Pritchett
 and de Weijer (2010) for the data. In this batch it sits beside Moss,
@@ -152,31 +152,31 @@ Moore (2004) on revenue and state formation.
 
 ## Bearing on the record
 
-- **CLAIM-597 (supplied maintenance).** Qualifies its setting. The
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied maintenance).** Qualifies its setting. The
   capability that supply is meant to build accumulates, where it
   accumulates at all, on a timescale of centuries, far beyond any aid
   programme, and cocooning is supplied maintenance that keeps a project
   working while the host's own capability does not grow. Nothing here
   measures what happens when supply stops.
-- **QUESTION-398 (independence from the founding intervention).** Bears
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** Bears
   on it without answering it: Small Development's test, functioning once
   external support is withdrawn, is the question's condition; the paper
   says such projects meet it locally and rarely scale.
-- **QUESTION-386 (funding by observed activity).** Supports its premise:
+- **[QUESTION-386](../questions.d/QUESTION-386.md) (funding by observed activity).** Supports its premise:
   donors measure inputs, training and reforms undertaken, which can show
   success with "zero actual improvement" (p. 20). Cash on Delivery is the
   proposed alternative, untested.
-- **CLAIM-566 (assemble, persist, regenerate).** Supports the distinction
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Supports the distinction
   with cases: the Solomon Islands courthouse and Mozambique's de jure B
   against de facto C are forms assembled without function.
-- **TERM-117 (productive nucleus).** Premature load bearing is the
+- **[TERM-117](../terms.d/TERM-117.md) (productive nucleus).** Premature load bearing is the
   failure of a nucleus loaded before it is established; the paper defines
   it and gives no measure.
-- **CLAIM-423 (components changing at different speeds).** The slow
+- **[CLAIM-423](../claims.d/CLAIM-423.md) (components changing at different speeds).** The slow
   rates here are a case of one slow component, administrative capability.
-- **THEORY-859 (capture through the evaluative framework).** A parallel:
+- **[THEORY-859](../theory.d/THEORY-859.md) (capture through the evaluative framework).** A parallel:
   which signals the system rewards fixes what organizations become.
-- Filed: THEORY-tmp2ece2. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp2ece2](../theory.d/THEORY-tmp2ece2.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

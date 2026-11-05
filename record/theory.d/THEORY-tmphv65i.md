@@ -17,7 +17,7 @@ source:
 - LIT-tmptn3yr
 summary: >-
   Andrews, Pritchett & Woolcock (2012 working paper; World Development
-  2013), LIT-tmptn3yr, read in NOTE-tmpfpey1. Proposed: the mechanism is
+  2013), [LIT-tmptn3yr](../literature.d/LIT-tmptn3yr.md), read in [NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md). Proposed: the mechanism is
   argued from examples (an education project series, procurement reform in
   Liberia and Afghanistan, an invented textbook case) and from the
   literatures on institutional isomorphism and incremental change; the
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Andrews, Pritchett & Woolcock (2012; World Development 2013), LIT-tmptn3yr; read in NOTE-tmpfpey1, working-paper pages.
+Andrews, Pritchett & Woolcock (2012; World Development 2013), [LIT-tmptn3yr](../literature.d/LIT-tmptn3yr.md); read in [NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md), working-paper pages.
 
 ## What was actually shown
 

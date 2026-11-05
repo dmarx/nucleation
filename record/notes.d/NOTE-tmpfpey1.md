@@ -149,19 +149,19 @@ longer depends on what it does, and the incentive to build function goes.
 ## Connections
 
 It rests on the companion, Pritchett, Woolcock & Andrews, "Looking Like a
-State" (LIT-tmphg6vu), for the scale of the trap, on DiMaggio and Powell
+State" ([LIT-tmphg6vu](../literature.d/LIT-tmphg6vu.md)), for the scale of the trap, on DiMaggio and Powell
 for mimicry, and on Lindblom, Kingdon, Heifetz, Moore and Ostrom for
 incremental, authorized search. PDIA cites Ostrom (2005, 2008) on rules
 found by experimentation and small adjustments, the account the record
-holds from Ostrom as THEORY-149 (from LIT-737) and in her Nobel lecture,
-LIT-719; it does not cite the lecture. In this batch it sits beside Moss,
+holds from Ostrom as [THEORY-149](../theory.d/THEORY-149.md) (from [LIT-737](../literature.d/LIT-737.md)) and in her Nobel lecture,
+[LIT-719](../literature.d/LIT-719.md); it does not cite the lecture. In this batch it sits beside Moss,
 Pettersson & van de Walle (2006) on aid dependency and state building,
 Moore (2004) on revenue and state formation, and Ostrom, Gibson,
 Shivakumar & Andersson (2002) on aid incentives and sustainability.
 
 ## Bearing on the record
 
-- **CLAIM-597 (supplied maintenance).** Qualifies it, and in one respect
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied maintenance).** Qualifies it, and in one respect
   goes beyond it. The claim's supply is a neutral repair term. Here supply
   is conditioned on form, so it feeds appearance while the organization's
   own repair weakens, which is worse than a share of supply in the total.
@@ -169,44 +169,44 @@ Shivakumar & Andersson (2002) on aid incentives and sustainability.
   states are not that case. The paper has no evidence on withdrawal, so
   the decay after supply stops is left open; the Afghanistan remark is an
   assertion, not a measured decay.
-- **QUESTION-398 (independence from the founding intervention).** A
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** A
   partial answer: independence comes as the organization learns to solve
   its own problems under local authorization with broad engagement, rather
   than complying with external forms. No threshold and no timing.
-- **QUESTION-399 (self-maintaining nucleus).** A mechanism, asserted:
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (self-maintaining nucleus).** A mechanism, asserted:
   problem-solving with tight feedback builds capability that loosens
   constraints over time, and small wins build political support. Nothing
   is measured.
-- **QUESTION-386 (funding by observed activity).** Strongly relevant.
+- **[QUESTION-386](../questions.d/QUESTION-386.md) (funding by observed activity).** Strongly relevant.
   Funding keyed to observable, short-horizon inputs and compliance selects
   for form and loses function (pp. 6–7). Results-based aid is offered as
   the alternative, unevaluated.
-- **CLAIM-566 (assemble, persist, regenerate).** Supports the distinction:
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Supports the distinction:
   mimicry assembles forms (laws, agencies) that do not persist as
   function, "unimplemented laws, unfunded agencies, and unused processes"
   (p. 21).
-- **CLAIM-516 (production by others needs a cycle).** Consistent:
+- **[CLAIM-516](../claims.d/CLAIM-516.md) (production by others needs a cycle).** Consistent:
   capability supplied by external agents alone does not persist, and the
   diffusion argument puts distributed local agents inside the producing
   loop. No formal model.
-- **CLAIM-273, THEORY-072, QUESTION-085 (supplied against self-maintained
+- **[CLAIM-273](../claims.d/CLAIM-273.md), [THEORY-072](../theory.d/THEORY-072.md), [QUESTION-085](../questions.d/QUESTION-085.md) (supplied against self-maintained
   order).** Analogy only. Mimicry is order imported from an outside design
   and held by an outside flow; the paper adds that such order can look
   complete while lacking function.
-- **CLAIM-558 (capabilities decay with disuse).** Weakly consistent:
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (capabilities decay with disuse).** Weakly consistent:
   "unused processes" is the image, with no decay data.
-- **CLAIM-598 (uniform abundance).** A loose analogy: more aid under
+- **[CLAIM-598](../claims.d/CLAIM-598.md) (uniform abundance).** A loose analogy: more aid under
   form-keyed evaluation rewards the wrong step. The paper does not frame it
   so.
-- **TERM-117 (productive nucleus).** Suggestive: cheap quick wins and a
+- **[TERM-117](../terms.d/TERM-117.md) (productive nucleus).** Suggestive: cheap quick wins and a
   one-month pilot act as seeds that change later opportunities. No
   outcomes are measured.
-- **THEORY-859 (capture through the evaluative framework).** A parallel:
+- **[THEORY-859](../theory.d/THEORY-859.md) (capture through the evaluative framework).** A parallel:
   the indicator scripts close the space for novelty by defining what
   counts as reform.
-- **THEORY-429 (institutions as constraints).** Frames the form and
+- **[THEORY-429](../theory.d/THEORY-429.md) (institutions as constraints).** Frames the form and
   function distinction the paper uses.
-- Filed: THEORY-tmphv65i. No instruction for machine-learning practice;
+- Filed: [THEORY-tmphv65i](../theory.d/THEORY-tmphv65i.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

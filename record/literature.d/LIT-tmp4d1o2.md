@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpd45i4) from the Center for Global Development's
+  read 2026-11-05 ([NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md)) from the Center for Global Development's
   own PDF, the whole body (pp. 1–20) and the start of the references;
   worth reading as the review that joins the economists' tax-effort
   literature to the political science of revenue and state building, and
@@ -79,7 +79,7 @@ Moss, T., Pettersson, G. & van de Walle, N. (2006). An Aid-Institutions Paradox?
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpd45i4. Page numbers are the paper's.*
+*From the reading, [NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md). Page numbers are the paper's.*
 
 - **Meant to be temporary.** Aid "is supposed to provide temporary
   financial assistance in order to encourage certain long-term behaviors:
@@ -106,8 +106,8 @@ Filed with the other works of this batch, after the owner asked on
 2026-11-05 whether aid and development theory says how aid-dependent
 organizations become self-sufficient. It builds on Moore (2004) and adds
 the economists' tax-effort evidence and the harms of donor practice. It
-bears on CLAIM-597 by analogy: an organization fed from outside holds its
+bears on [CLAIM-597](../claims.d/CLAIM-597.md) by analogy: an organization fed from outside holds its
 share only while the flow lasts, and the paper adds that the supply also
 depresses the organization's own capacity to produce what it is fed. It
 does not study what happens when aid is withdrawn. Filed from it:
-THEORY-tmp0qrm2.
+[THEORY-tmp0qrm2](../theory.d/THEORY-tmp0qrm2.md).

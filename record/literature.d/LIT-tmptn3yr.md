@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpfpey1) from the Harvard Kennedy School
+  read in full 2026-11-05 ([NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md)) from the Harvard Kennedy School
   working-paper copy (HKS RWP12-036, which contains CGD Working Paper 299);
   worth reading as the source of "isomorphic mimicry" and the "capability
   trap" in development practice, and of PDIA, the four-principle account of
@@ -76,7 +76,7 @@ Andrews, M., Pritchett, L. & Woolcock, M. (2013). Escaping Capability Traps Thro
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpfpey1. Page numbers are the working paper's, not the journal's.*
+*From the reading, [NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md). Page numbers are the working paper's, not the journal's.*
 
 - **The trap.** "a dynamic in which governments constantly adopt
   “reforms” to ensure ongoing flows of external financing and legitimacy
@@ -105,13 +105,13 @@ Andrews, M., Pritchett, L. & Woolcock, M. (2013). Escaping Capability Traps Thro
 ## Standing in the record
 
 Filed with the companion paper, Pritchett, Woolcock & Andrews, "Looking
-Like a State" (LIT-tmphg6vu), which supplies the quantitative estimate of
-the trap that this paper only cites. It bears most directly on CLAIM-597:
+Like a State" ([LIT-tmphg6vu](LIT-tmphg6vu.md)), which supplies the quantitative estimate of
+the trap that this paper only cites. It bears most directly on [CLAIM-597](../claims.d/CLAIM-597.md):
 supply here is conditioned on form and so lowers the recipient's own
 repair, a case the claim's model of neutral supply does not cover, and on
-QUESTION-386, where funding keyed to short-horizon observables selects
-for form. It gives a partial, unmeasured answer to QUESTION-398 and a
-mechanism, asserted, for QUESTION-399. PDIA draws on Ostrom's account of
-rules found by experimentation (THEORY-149). Filed from it:
-THEORY-tmphv65i. No instruction for machine-learning practice; nothing
+[QUESTION-386](../questions.d/QUESTION-386.md), where funding keyed to short-horizon observables selects
+for form. It gives a partial, unmeasured answer to [QUESTION-398](../questions.d/QUESTION-398.md) and a
+mechanism, asserted, for [QUESTION-399](../questions.d/QUESTION-399.md). PDIA draws on Ostrom's account of
+rules found by experimentation ([THEORY-149](../theory.d/THEORY-149.md)). Filed from it:
+[THEORY-tmphv65i](../theory.d/THEORY-tmphv65i.md). No instruction for machine-learning practice; nothing
 for the anthology.

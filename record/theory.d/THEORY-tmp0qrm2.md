@@ -18,8 +18,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp4d1o2
 summary: >-
-  Moss, Pettersson & van de Walle (2006), LIT-tmp4d1o2, read in
-  NOTE-tmpd45i4: a review of the tax-effort and state-building
+  Moss, Pettersson & van de Walle (2006), [LIT-tmp4d1o2](../literature.d/LIT-tmp4d1o2.md), read in
+  [NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md): a review of the tax-effort and state-building
   literatures. Besides the two mechanisms in the title they name a third,
   fragmented donor practice drawing capacity from the civil service, and
   hold that a state becomes self-sufficient by learning to tax. Proposed:
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Moss, Pettersson & van de Walle (2006), LIT-tmp4d1o2; read in NOTE-tmpd45i4.
+Moss, Pettersson & van de Walle (2006), [LIT-tmp4d1o2](../literature.d/LIT-tmp4d1o2.md); read in [NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md).
 
 ## What was actually shown
 

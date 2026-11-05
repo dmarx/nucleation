@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpss5e0) from the CID Working Paper 239
+  read in full 2026-11-05 ([NOTE-tmpss5e0](../notes.d/NOTE-tmpss5e0.md)) from the CID Working Paper 239
   copy on the Harvard Kennedy School site; worth reading for the estimate
   that makes the capability trap a matter of centuries (bottom-15
   countries 672 years to Singapore's measured capability at their pace
@@ -78,7 +78,7 @@ Pritchett, L., Woolcock, M. & Andrews, M. (2013). Looking Like a State: Techniqu
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpss5e0. Page numbers are the working paper's, not the journal's.*
+*From the reading, [NOTE-tmpss5e0](../notes.d/NOTE-tmpss5e0.md). Page numbers are the working paper's, not the journal's.*
 
 - **Centuries, at the historical pace.** "For the average of the countries
   in 2008 in the bottom 15 it would take 672 years" (p. 10); on ICRG data
@@ -100,11 +100,11 @@ Pritchett, L., Woolcock, M. & Andrews, M. (2013). Looking Like a State: Techniqu
 
 ## Standing in the record
 
-The companion to Andrews, Pritchett & Woolcock on PDIA (LIT-tmptn3yr),
+The companion to Andrews, Pritchett & Woolcock on PDIA ([LIT-tmptn3yr](LIT-tmptn3yr.md)),
 which cites this paper for the scale of the trap. It is the batch's one
 estimate of how slowly state capability accumulates, a timescale relevant
-to CLAIM-597's question of what an organization keeps when supply stops,
+to [CLAIM-597](../claims.d/CLAIM-597.md)'s question of what an organization keeps when supply stops,
 and its "cocooning" is a donor-supplied parallel system that succeeds
 while the host's own capability does not grow. Filed from it:
-THEORY-tmp2ece2. No instruction for machine-learning practice; nothing
+[THEORY-tmp2ece2](../theory.d/THEORY-tmp2ece2.md). No instruction for machine-learning practice; nothing
 for the anthology.

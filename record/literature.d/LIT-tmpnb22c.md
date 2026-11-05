@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmp22pjn) from Sida's own PDF on its
+  read in part 2026-11-05 ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)) from Sida's own PDF on its
   publications CDN; worth reading as the record's first work on foreign
   aid, and as the Ostrom school's account of how predictable outside help
   lowers a recipient's own upkeep (the Samaritan's dilemma) and of the
@@ -89,7 +89,7 @@ Ostrom, E., Gibson, C., Shivakumar, S. & Andersson, K. (2002). *Aid, Incentives,
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp22pjn. Page numbers are the report's printed pages.*
+*From the reading, [NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md). Page numbers are the report's printed pages.*
 
 - **The Samaritan's dilemma** (§2.4.4, pp. 30–31, after Buchanan 1977). A
   Samaritan's "dominant strategy is always to extend help"; knowing it, the
@@ -120,11 +120,11 @@ Ostrom, E., Gibson, C., Shivakumar, S. & Andersson, K. (2002). *Aid, Incentives,
 ## Standing in the record
 
 The record's first work on foreign aid, read at the owner's request after
-CLAIM-597 (supplied maintenance) to ask whether development theory says how
+[CLAIM-597](../claims.d/CLAIM-597.md) (supplied maintenance) to ask whether development theory says how
 an aid-dependent organization becomes self-sufficient. It is the same
-school as LIT-719 (Ostrom's Nobel lecture) and LIT-737 (*Governing the
-Commons*), whose account of durable user-made institutions is THEORY-149;
+school as [LIT-719](LIT-719.md) (Ostrom's Nobel lecture) and [LIT-737](LIT-737.md) (*Governing the
+Commons*), whose account of durable user-made institutions is [THEORY-149](../theory.d/THEORY-149.md);
 this report applies it to aid and finds the positive half of its ownership
-criteria there. Its distinctive addition to CLAIM-597 is that the outside
+criteria there. Its distinctive addition to [CLAIM-597](../claims.d/CLAIM-597.md) is that the outside
 supply is not exogenous: its predictability lowers the recipient's own
-repair. Filed from it: THEORY-tmph35ra.
+repair. Filed from it: [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md).

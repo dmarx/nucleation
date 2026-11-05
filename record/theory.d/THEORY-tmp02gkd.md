@@ -17,7 +17,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpsb4vt
 summary: >-
-  Moore (2004), LIT-tmpsb4vt, read in NOTE-tmpfngj0: the fiscal (social)
+  Moore (2004), [LIT-tmpsb4vt](../literature.d/LIT-tmpsb4vt.md), read in [NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md): the fiscal (social)
   contract proposition and its rentier-state converse, with aid counted as
   a strategic rent, and the further point that easy concessional finance
   turns governments from negotiating with taxpayers. Proposed: a review
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Moore (2004), LIT-tmpsb4vt; read in NOTE-tmpfngj0.
+Moore (2004), [LIT-tmpsb4vt](../literature.d/LIT-tmpsb4vt.md); read in [NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md).
 
 ## What was actually shown
 

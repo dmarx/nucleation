@@ -20,7 +20,7 @@ source:
 - LIT-tmphg6vu
 summary: >-
   Pritchett, Woolcock & Andrews (2012 working paper; Journal of
-  Development Studies 2013), LIT-tmphg6vu, read in NOTE-tmpss5e0.
+  Development Studies 2013), [LIT-tmphg6vu](../literature.d/LIT-tmphg6vu.md), read in [NOTE-tmpss5e0](../notes.d/NOTE-tmpss5e0.md).
   Proposed: the timescale is a linear extrapolation of perception-based,
   rescaled indicators (672 years for the bottom 15 at their pace since
   independence; a median ICRG rate of change of zero since 1985), and the
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Pritchett, Woolcock & Andrews (2012; Journal of Development Studies 2013), LIT-tmphg6vu; read in NOTE-tmpss5e0, working-paper pages.
+Pritchett, Woolcock & Andrews (2012; Journal of Development Studies 2013), [LIT-tmphg6vu](../literature.d/LIT-tmphg6vu.md); read in [NOTE-tmpss5e0](../notes.d/NOTE-tmpss5e0.md), working-paper pages.
 
 ## What was actually shown
 

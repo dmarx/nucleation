@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpfngj0) from the journal's typeset
+  read in full 2026-11-05 ([NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)) from the journal's typeset
   version of record as deposited in the UK Department for International
   Development's research-outputs store; worth reading as the compact
   statement of the fiscal-contract proposition and of aid as a rent, the
@@ -73,7 +73,7 @@ Moore, M. (2004). Revenues, State Formation, and the Quality of Governance in De
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpfngj0. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md). Page numbers are the journal's.*
 
 - **The proposition.** "relative to other types of states, tax states will
   tend toward accountable, representative government. This I will term
@@ -97,7 +97,7 @@ Filed with the other works of this batch, among them Moss, Pettersson and
 van de Walle (2006), which builds on it, after the owner asked on
 2026-11-05 whether aid and development theory says how aid-dependent
 organizations become self-sufficient. It is the state-scale analogue of
-CLAIM-597: an organization fed from outside has no incentive to build the
+[CLAIM-597](../claims.d/CLAIM-597.md): an organization fed from outside has no incentive to build the
 capacities that its own supply would require, and lets them decay, which
-is also CLAIM-558's point in another setting. It has nothing measured on
-what happens when the supply stops. Filed from it: THEORY-tmp02gkd.
+is also [CLAIM-558](../claims.d/CLAIM-558.md)'s point in another setting. It has nothing measured on
+what happens when the supply stops. Filed from it: [THEORY-tmp02gkd](../theory.d/THEORY-tmp02gkd.md).

@@ -158,53 +158,53 @@ the state to learn to tax.
 
 It builds on Moore (2004), filed in this batch, and on Brautigam and Knack
 (2004), Knack, Gupta et al. and the fiscal-sociology tradition of
-Schumpeter, Tilly, Ardant, and North and Weingast. THEORY-429 (North,
+Schumpeter, Tilly, Ardant, and North and Weingast. [THEORY-429](../theory.d/THEORY-429.md) (North,
 institutions as constraints that reward productive or redistributive
 activity) bears on the rent and patronage mechanism. The contrast with
-externally accountable governance is Ostrom's user-made rules: LIT-737,
-THEORY-149, LIT-719. CLAIM-410 bears on the paper's point that aid moves
-accountability from citizens to donors; THEORY-440 touches its
+externally accountable governance is Ostrom's user-made rules: [LIT-737](../literature.d/LIT-737.md),
+[THEORY-149](../theory.d/THEORY-149.md), [LIT-719](../literature.d/LIT-719.md). [CLAIM-410](../claims.d/CLAIM-410.md) bears on the paper's point that aid moves
+accountability from citizens to donors; [THEORY-440](../theory.d/THEORY-440.md) touches its
 observations on long tenure and weak legislatures (pp. 15–16).
 
 ## Bearing on the record
 
-- **CLAIM-597 (supplied maintenance).** Supports it by analogy, with a
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied maintenance).** Supports it by analogy, with a
   caveat. Organization fed from outside keeps its share only while the flow
   lasts, and in the paper the flow has lasted decades and grown. The paper
   adds what the claim's model lacks: the supply also lowers the
   organization's own regeneration (moral hazard, atrophy, poaching of
   staff), so dependence deepens. No evidence on decay after withdrawal.
-- **QUESTION-398 (independence from the founding intervention).** Partly.
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** Partly.
   The route to independence is learning to tax, by learning-by-doing that
   depends on the aid share and initial institutions; Korea, Taiwan and
   Botswana are cited as weaned. No measured test and no further
   conditions.
-- **QUESTION-399 (a self-maintaining nucleus).** Own revenue is the
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (a self-maintaining nucleus).** Own revenue is the
   candidate self-regenerating loop: taxation, accountability, legitimacy
   and capacity, more taxation. Aid substitutes for the loop's input and so
   can block its closure. Interpretive and historical.
-- **CLAIM-566.** Illustrates it: donor-built capacity can assemble (central
+- **[CLAIM-566](../claims.d/CLAIM-566.md).** Illustrates it: donor-built capacity can assemble (central
   bank technical assistance, p. 6) and persist under funding without the
   state regenerating it. Not measured separately.
-- **CLAIM-516 and CLAIM-558.** Consistent, loosely: capacities produced only
+- **[CLAIM-516](../claims.d/CLAIM-516.md) and [CLAIM-558](../claims.d/CLAIM-558.md).** Consistent, loosely: capacities produced only
   by donor projects outside the budget have no internal producer, and where
   donors run budgeting and planning "real developmental capacities may
   atrophy". No rates.
-- **THEORY-072, CLAIM-273, QUESTION-085.** An illustration of order supplied
+- **[THEORY-072](../theory.d/THEORY-072.md), [CLAIM-273](../claims.d/CLAIM-273.md), [QUESTION-085](../questions.d/QUESTION-085.md).** An illustration of order supplied
   from outside at the scale of a state, nearer a cell held by an external
   gradient than a flame; nothing on the demarcation itself.
-- **QUESTION-386 (funding by observed activity).** An inverse case: aid was
+- **[QUESTION-386](../questions.d/QUESTION-386.md) (funding by observed activity).** An inverse case: aid was
   not tied to performance (p. 10, "until very recently, the government's
   performance did not appear to affect whether or not it received aid");
   the shift to performance-based allocation is noted, not evaluated.
-- **TERM-105 (resource types).** Lightly: grants against loans with a
+- **[TERM-105](../terms.d/TERM-105.md) (resource types).** Lightly: grants against loans with a
   repayment obligation show the form of the supply matters, the obligation
   acting like a cumulative constraint that keeps tax effort up.
-- **CLAIM-598.** Lightly: past an unspecified share, more aid may lower the
+- **[CLAIM-598](../claims.d/CLAIM-598.md).** Lightly: past an unspecified share, more aid may lower the
   chance of institution building by favouring the donor-facing path.
   Qualitative.
-- **TERM-117, TERM-070, CLAIM-520.** Nothing direct.
-- Filed: THEORY-tmp0qrm2.
+- **[TERM-117](../terms.d/TERM-117.md), [TERM-070](../terms.d/TERM-070.md), [CLAIM-520](../claims.d/CLAIM-520.md).** Nothing direct.
+- Filed: [THEORY-tmp0qrm2](../theory.d/THEORY-tmp0qrm2.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

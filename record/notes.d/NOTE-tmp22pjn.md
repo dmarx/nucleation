@@ -191,18 +191,18 @@ own contribution, its own benefit and a share in deciding whether to stop.
 
 ## Connections
 
-The same school as LIT-719 (Ostrom's Nobel lecture) and LIT-737 (*Governing
+The same school as [LIT-719](../literature.d/LIT-719.md) (Ostrom's Nobel lecture) and [LIT-737](../literature.d/LIT-737.md) (*Governing
 the Commons*), whose account of durable user-made, user-monitored
-institutions is THEORY-149; the four ownership dimensions are that account's
+institutions is [THEORY-149](../theory.d/THEORY-149.md); the four ownership dimensions are that account's
 positive half, applied to a donor-funded project. The report takes North's
-split of institutions from organizations (p. 5), held as THEORY-429. Its
-four ownership dimensions parallel CLAIM-410's redistribution of
+split of institutions from organizations (p. 5), held as [THEORY-429](../theory.d/THEORY-429.md). Its
+four ownership dimensions parallel [CLAIM-410](../claims.d/CLAIM-410.md)'s redistribution of
 rule-making, monitoring, enforcement and revision. Sida's fourth-quarter
-disbursement peak matches LIT-2028 (expiring budgets, THEORY-1421). The
-commitment problems of conditionality and withdrawal are those of LIT-2046
+disbursement peak matches [LIT-2028](../literature.d/LIT-2028.md) (expiring budgets, [THEORY-1421](../theory.d/THEORY-1421.md)). The
+commitment problems of conditionality and withdrawal are those of [LIT-2046](../literature.d/LIT-2046.md)
 (limited commitment, the ratchet effect). That "the recipient loses skill and
 motivation over time" when a function is supplied from outside has a biological
-analogue in LIT-1568 (the Black Queen, THEORY-1048). Within this batch, the
+analogue in [LIT-1568](../literature.d/LIT-1568.md) (the Black Queen, [THEORY-1048](../theory.d/THEORY-1048.md)). Within this batch, the
 other aid and development works read on 2026-11-05 take the accountability,
 taxation and capability sides of the same question: Moss, Pettersson and
 van de Walle (2006) on aid and accountability, Moore (2004) on revenue and
@@ -211,48 +211,48 @@ traps.
 
 ## Bearing on the record
 
-- **CLAIM-597** (supplied maintenance): supports it in a social setting and
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (supplied maintenance): supports it in a social setting and
   qualifies a premise. Kafue Gorge is supply from outside with a recipient
   "completely dependent on outside funds for the continued operation", a
   rebuild every ten to fifteen years against a fifty-to-sixty-year maintained
   life. But the supply is not exogenous: its predictability lowers the
   recipient's own repair effort, so it suppresses the organization's own
   maintenance rather than only failing to build it.
-- **QUESTION-398** (independence from the establishing intervention): the
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (independence from the establishing intervention): the
   report's answer is beneficiary ownership, with contribution, benefit and a
   say over continuation; results can outlive the organization (CFU) and a
   form its function (ERB). Short qualitative cases; no threshold.
-- **QUESTION-399** (a productive nucleus becoming self-maintaining): partial.
+- **[QUESTION-399](../questions.d/QUESTION-399.md)** (a productive nucleus becoming self-maintaining): partial.
   CFU's results last only if farmers' incomes rise, the activity feeding the
   resources that sustain it. No threshold or rate.
-- **CLAIM-566** (assemble / persist / regenerate): consistent. Hardware
+- **[CLAIM-566](../claims.d/CLAIM-566.md)** (assemble / persist / regenerate): consistent. Hardware
   assembles and persists (HVDC); the recipient's own regeneration is absent
   (Kafue). Sustainability of effects rather than of projects is a distinction the
   claim does not draw.
-- **CLAIM-516** (turnover with production only by others): the social
+- **[CLAIM-516](../claims.d/CLAIM-516.md)** (turnover with production only by others): the social
   analogue, without a formal model.
-- **CLAIM-558** (capabilities decay with disuse): supports it qualitatively,
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (capabilities decay with disuse): supports it qualitatively,
   on both sides (the recipient's skill; the donor's memory under rotation);
   no decay rates.
-- **QUESTION-386** (funding by observed activity): strongly relevant.
+- **[QUESTION-386](../questions.d/QUESTION-386.md)** (funding by observed activity): strongly relevant.
   Disbursement is rewarded, sustained results are not, and cheap,
   hard-to-observe upkeep and institution-building lose out.
-- **TERM-105** (resource types): expenditure ceilings and annual
+- **[TERM-105](../terms.d/TERM-105.md)** (resource types): expenditure ceilings and annual
   disbursement deadlines are said to "favor rigid patterns of disbursement"
   (p. xxiv), bounding different things.
-- **CLAIM-520** (keeping a corrective capacity): evaluations are the
+- **[CLAIM-520](../claims.d/CLAIM-520.md)** (keeping a corrective capacity): evaluations are the
   system's corrective capacity, and the case for mid-term over end-of-project
   evaluations is that they can still change decisions.
-- **CLAIM-598** (uniform abundance): loosely supports it; more money with
+- **[CLAIM-598](../claims.d/CLAIM-598.md)** (uniform abundance): loosely supports it; more money with
   fixed staff worsens monitoring, and funds into a rent-seeking bureaucracy
   feed rent seeking.
-- **TERM-117** (productive nucleus): the ERB and CFU are candidates whose
+- **[TERM-117](../terms.d/TERM-117.md)** (productive nucleus): the ERB and CFU are candidates whose
   influence is not yet self-maintained.
-- **TERM-070, THEORY-072**: analogy only. Kafue Gorge is supplied order, like
+- **[TERM-070](../terms.d/TERM-070.md), [THEORY-072](../theory.d/THEORY-072.md)**: analogy only. Kafue Gorge is supplied order, like
   the heat under a convection cell; ownership by one party in all four
   dimensions reads like closure of the constraints that keep a project going,
   an interpretive reading.
-- Produces THEORY-tmph35ra. Not an instruction for machine-learning
+- Produces [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md). Not an instruction for machine-learning
   practice.
 
 ## Limitations
