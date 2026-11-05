@@ -18,8 +18,8 @@ date: '2026-11-05'
 source:
 - LIT-tmphx3z0
 summary: >-
-  Cesarini, Lindqvist, Notowidigdo & Östling (2017), LIT-tmphx3z0, read in
-  full in NOTE-tmp2or0k in the NBER working paper of November 2015, not in
+  Cesarini, Lindqvist, Notowidigdo & Östling (2017), [LIT-tmphx3z0](../literature.d/LIT-tmphx3z0.md), read in
+  full in [NOTE-tmp2or0k](../notes.d/NOTE-tmp2or0k.md) in the NBER working paper of November 2015, not in
   the AER version or its Online Appendix. Proposed: the numbers are the
   working paper's (Tables 2–4 and 7), checked against its text, and not
   re-estimated. The published version differs at least in the model's
@@ -37,8 +37,8 @@ summary: >-
 
 ## Source
 
-Cesarini, Lindqvist, Notowidigdo & Östling (2017), LIT-tmphx3z0; read in
-NOTE-tmp2or0k in NBER Working Paper 21762 (November 2015). Page numbers
+Cesarini, Lindqvist, Notowidigdo & Östling (2017), [LIT-tmphx3z0](../literature.d/LIT-tmphx3z0.md); read in
+[NOTE-tmp2or0k](../notes.d/NOTE-tmp2or0k.md) in NBER Working Paper 21762 (November 2015). Page numbers
 and numbers are the working paper's.
 
 ## What was actually shown
@@ -75,10 +75,10 @@ and numbers are the working paper's.
   squander their wealth" (p. 11), but the text read gives no wealth
   trajectory or bankruptcy outcome; it rests on appendix tables not read.
 - That there is a size threshold: none was found in the labour response,
-  which bears against reading CLAIM-tmpw4ai2's threshold into individual
+  which bears against reading [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)'s threshold into individual
   labour supply, not against it elsewhere.
 - That the lifetime marginal propensity to earn is −0.11: that is the
   working paper's calibrated model, revised in the published version.
 - That the effect carries to poor households or to organizations: these
-  are Swedish adults in a welfare state, and CLAIM-tmpc3x0c's and
-  CLAIM-tmpqa0qu's settings are reached only by analogy.
+  are Swedish adults in a welfare state, and [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)'s and
+  [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)'s settings are reached only by analogy.

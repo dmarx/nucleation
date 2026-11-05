@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp2or0k) in the authors' NBER Working
+  read in full 2026-11-05 ([NOTE-tmp2or0k](../notes.d/NOTE-tmp2or0k.md)) in the authors' NBER Working
   Paper 21762 of November 2015, not in the AER version of 2017, whose text
   and Online Appendix were not read; worth reading as the cleanest
   evidence held on what a large, unconditional and permanent windfall
@@ -92,7 +92,7 @@ Cesarini, D., Lindqvist, E., Notowidigdo, M. J. & Östling, R. (2017). The Effec
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp2or0k. Page numbers are the working paper's
+*From the reading, [NOTE-tmp2or0k](../notes.d/NOTE-tmp2or0k.md). Page numbers are the working paper's
 (pp. 1–29), not the AER's.*
 
 - **Two versions, two sets of numbers.** The AER abstract gives lifetime
@@ -129,19 +129,19 @@ Cesarini, D., Lindqvist, E., Notowidigdo, M. J. & Östling, R. (2017). The Effec
 
 Filed with the windfall-and-scarcity batch of 2026-11-05, after the owner
 suggested lottery winners as cases. It is the first lottery or windfall
-study held. It is the case CLAIM-tmpc3x0c reserves "slack effort" for:
+study held. It is the case [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) reserves "slack effort" for:
 money that is unconditional, large, permanent and never withdrawn. Effort
 does fall, at once and for good, but by little, and there is no sign of a
-size threshold in the labour response (CLAIM-tmpw4ai2). Nothing was
+size threshold in the labour response ([CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)). Nothing was
 withdrawn and skill was not measured, so it says nothing about what is
-lost when support stops (CLAIM-tmpqa0qu). Set beside THEORY-tmp7qas0 (no
-effect of small transfers on work) and THEORY-tmp5zz46 (responses expected
+lost when support stops ([CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)). Set beside [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md) (no
+effect of small transfers on work) and [THEORY-tmp5zz46](../theory.d/THEORY-tmp5zz46.md) (responses expected
 to differ where transfers are dependable and permanent), it is the
 dependable, permanent case, with a modest reduction; set beside
-THEORY-tmp5v6r5, wealth here lowers self-employment rather than lifting
+[THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md), wealth here lowers self-employment rather than lifting
 anyone over a threshold, in a population that is not poor.
 
 The paper says that "lottery winners do not squander their wealth" (p. 11),
 but the main text supports it only through how wealth is split between
 spouses, from appendix tables that were not read; the record does not
-assert it. Filed from it: THEORY-tmpfkxj7.
+assert it. Filed from it: [THEORY-tmpfkxj7](../theory.d/THEORY-tmpfkxj7.md).

@@ -168,48 +168,48 @@ Lindqvist, Notowidigdo and Östling (2017) and Golosov, Graber, Mogstad
 and Novgorodsky (2024), which follow lottery wealth into labour supply and
 earnings, outcomes this paper does not measure. Its "high discount rates"
 mechanism, untested here, is the behaviour that Shah, Mullainathan and
-Shafir (2012) and THEORY-tmp19alc (Haushofer and Fehr) treat as an effect
-of scarcity rather than a trait. Against THEORY-tmp7qas0 (Banerjee et
+Shafir (2012) and [THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer and Fehr) treat as an effect
+of scarcity rather than a trait. Against [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md) (Banerjee et
 al.) it says nothing on work: its support is large, one-off and then
 gone, where theirs is small and continuing.
 
 ## Bearing on the record
 
-- **CLAIM-tmpit7m9 (a savings buffer is a stock of time).** Supports the claim that a
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) (a savings buffer is a stock of time).** Supports the claim that a
   buffer buys time: a windfall larger than the debt is a deep buffer, and
   it bought about two years. Qualifies "covering needs through the delay
   buys the time": time was bought and the five-year outcome was not
   changed, because the buffer was not kept. What the winners did with the
   time is not observed.
-- **CLAIM-595 (its section on eventual success against success by a
+- **[CLAIM-595](../claims.d/CLAIM-595.md) (its section on eventual success against success by a
   deadline).** Supports it by analogy: survival to two years and survival
   to five come apart, and the same transfer passes the short deadline and
-  fails the long one. CLAIM-595's own argument is about committors in an
+  fails the long one. [CLAIM-595](../claims.d/CLAIM-595.md)'s own argument is about committors in an
   assembly and is untouched.
-- **CLAIM-tmpc3x0c (the synthesis).** Supports the last clause, that
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (the synthesis).** Supports the last clause, that
   "persistence after withdrawal is needed to tell which, though slow
   reversion can mimic it": the two-year protection reverts by year five.
   Qualifies the size condition: a lump sum of about 1.25 times the
   unsecured debt did not carry winners past anything that kept itself
   going, since it was not turned into assets or debt reduction.
-- **CLAIM-tmpw4ai2 (thresholds).** Qualifies: if a threshold exists, a
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds).** Qualifies: if a threshold exists, a
   windfall of this size was not enough to cross it, or what was received
   was not stored as a stock. No prize size in the draft lowers the
   five-year rate; cells above $70,000 are tiny.
-- **THEORY-tmp5v6r5 (Balboni et al.).** A contrast: there a one-off
+- **[THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md) (Balboni et al.).** A contrast: there a one-off
   productive asset crossed a threshold and was followed by accumulation;
   here one-off liquid cash larger than the debt was not kept. That what is
   transferred, and not only its size, decides whether a threshold is
   crossed is the assistant's inference, not the authors'.
-- **TERM-105.** Supports its use: the windfall raises a replenishable
+- **[TERM-105](../terms.d/TERM-105.md).** Supports its use: the windfall raises a replenishable
   reserve once, and the result concerns the running balance, drawn back
   down, not the total received.
-- **CLAIM-tmpqa0qu, CLAIM-tmpoh07b, CLAIM-597.** None: the supply is
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), [CLAIM-597](../claims.d/CLAIM-597.md).** None: the supply is
   one-off, no capability or capacity is measured, and no upkeep is
   supplied.
-- **THEORY-tmp19alc (Haushofer and Fehr).** Weakly bears: high discount
+- **[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer and Fehr).** Weakly bears: high discount
   rates are a candidate reason for spending the money, untested here.
-- Filed: THEORY-tmpsljm6.
+- Filed: [THEORY-tmpsljm6](../theory.d/THEORY-tmpsljm6.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

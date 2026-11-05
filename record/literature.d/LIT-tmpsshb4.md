@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpoyhwh), tables included and figures not,
+  read in full 2026-11-05 ([NOTE-tmpoyhwh](../notes.d/NOTE-tmpoyhwh.md)), tables included and figures not,
   from the authors' working draft of 2009-02-16 posted on UC Berkeley's
   Labor Lunch seminar page; the published REStat article was not read
   (SSRN and the Vanderbilt repository showed Cloudflare checks). Worth
@@ -88,7 +88,7 @@ Hankins, S., Hoekstra, M. & Skiba, P. M. (2011). The Ticket to Easy Street? The 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpoyhwh, of the 2009-02-16 working draft. Page
+*From the reading, [NOTE-tmpoyhwh](../notes.d/NOTE-tmpoyhwh.md), of the 2009-02-16 working draft. Page
 and table numbers are the draft's.*
 
 - **Postponed, not prevented** (pp. 6–7, Table 4). "the bankruptcy rates
@@ -117,12 +117,12 @@ and table numbers are the draft's.*
 
 Filed as a case of a large, sudden, unconditional windfall to people near
 a terminal financial event. A deep buffer bought about two years and no
-more, which bears on CLAIM-tmpit7m9 (a buffer is a stock of time) and on
-CLAIM-595's distinction between success by a deadline and eventual
-success. It qualifies the threshold condition of CLAIM-tmpc3x0c: a lump
+more, which bears on [CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) (a buffer is a stock of time) and on
+[CLAIM-595](../claims.d/CLAIM-595.md)'s distinction between success by a deadline and eventual
+success. It qualifies the threshold condition of [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md): a lump
 sum larger than the debt did not, by itself, start anything that kept
-going, because it was not kept as assets. Set against THEORY-tmp5v6r5
+going, because it was not kept as assets. Set against [THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md)
 (Balboni et al.), where a one-off productive asset crossed a threshold,
 it suggests that what is transferred, and not only how much, matters;
 that reading is the assistant's, not the authors'. Filed from it:
-THEORY-tmpsljm6.
+[THEORY-tmpsljm6](../theory.d/THEORY-tmpsljm6.md).

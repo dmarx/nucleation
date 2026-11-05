@@ -123,11 +123,11 @@ number.
 - **A buffer buys time, and time alone is not enough.** In Florida,
   winning $50,000–150,000 roughly halved bankruptcy filings for two
   years. Over five years no difference was detected (Hankins, Hoekstra
-  and Skiba, NOTE-tmpoyhwh). The model's buffer buys survival through a
+  and Skiba, [NOTE-tmpoyhwh](../notes.d/NOTE-tmpoyhwh.md)). The model's buffer buys survival through a
   delay. The windfall bought the time, and nothing that would keep going
   was started in it.
 - **A rich-country contrast.** US winners build the buffer and put little
-  of it into profitable business (Golosov et al., NOTE-tmpnogky). They are
+  of it into profitable business (Golosov et al., [NOTE-tmpnogky](../notes.d/NOTE-tmpnogky.md)). They are
   not near ruin, so the model's survival constraint does not bind for
   them.
 

@@ -162,15 +162,15 @@ conditions.
   and smoothly.
   - Swedish winners earn about 1.1 % of the prize less each year, from
     the first year and for more than ten (Cesarini, Lindqvist,
-    Notowidigdo and Östling, NOTE-tmp2or0k).
+    Notowidigdo and Östling, [NOTE-tmp2or0k](../notes.d/NOTE-tmp2or0k.md)).
   - US winners' households earn about $2.3 less a year per $100 won
-    (Golosov, Graber, Mogstad and Novgorodsky, NOTE-tmpnogky).
+    (Golosov, Graber, Mogstad and Novgorodsky, [NOTE-tmpnogky](../notes.d/NOTE-tmpnogky.md)).
   - Neither finds a threshold. In both, the effect per unit won is, if
     anything, smaller for larger prizes.
 - **A stock does not start a process.** Cash larger than the median
   heavy debtor's debt halved bankruptcy filings among Florida winners
   for two years. Filings then rose in years 3–5, and over five years no
-  difference was detected (Hankins, Hoekstra and Skiba, NOTE-tmpoyhwh).
+  difference was detected (Hankins, Hoekstra and Skiba, [NOTE-tmpoyhwh](../notes.d/NOTE-tmpoyhwh.md)).
   US winners save most of a win and draw it down slowly. Wealth raised
   only low-profit self-employment, not profitable businesses (Golosov et
   al.).

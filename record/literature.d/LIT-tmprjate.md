@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpnogky) in its NBER working-paper version (w29000,
+  read 2026-11-05 ([NOTE-tmpnogky](../notes.d/NOTE-tmpnogky.md)) in its NBER working-paper version (w29000,
   July 2021), not the QJE version of record, whose abstract reframes the
   paper: it drops the life-cycle model and its UBI and top-tax bounds and
   adds that existing US lottery studies "substantially underestimate
@@ -87,7 +87,7 @@ Golosov, M., Graber, M., Mogstad, M. & Novgorodsky, D. (2024). How Americans Res
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpnogky. **The text read is the NBER working
+*From the reading, [NOTE-tmpnogky](../notes.d/NOTE-tmpnogky.md). **The text read is the NBER working
 paper of July 2021, not the QJE version of record; every number and page
 here is the NBER version's.** The QJE abstract drops the working paper's
 second contribution (a "rich life-cycle model" used to bound the effects
@@ -127,16 +127,16 @@ substantially underestimate wealth and income effects".*
 ## Standing in the record
 
 Filed as a case of large, sudden, unconditional and permanent money, the
-kind the branch's synthesis, CLAIM-tmpc3x0c, singles out as able to slacken
+kind the branch's synthesis, [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md), singles out as able to slacken
 effort. For US households across the income distribution it supports that
 clause: work falls, by choice and persistently, while the stock is kept.
-It gives no sign of the threshold of CLAIM-tmpw4ai2: responses are smooth
+It gives no sign of the threshold of [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md): responses are smooth
 and shrink per dollar as prizes grow, and wealth does not turn wage earners
 into owners of substantial businesses, a contrast with the asset threshold
-of THEORY-tmp5v6r5. It bounds the scope of THEORY-tmp7qas0 and
-THEORY-tmp5zz46: their small, means-tested transfers in poor countries
+of [THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md). It bounds the scope of [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md) and
+[THEORY-tmp5zz46](../theory.d/THEORY-tmp5zz46.md): their small, means-tested transfers in poor countries
 left work little changed, while these large, permanent windfalls do not.
-Against CLAIM-tmpit7m9, winners build the buffer the claim says buys time,
+Against [CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md), winners build the buffer the claim says buys time,
 yet few use it to start profitable businesses. It sits beside Cesarini et
 al. (2017), the Swedish lottery study filed in the same batch, and finds
-twice its effects. Filed from it: THEORY-tmpynupw.
+twice its effects. Filed from it: [THEORY-tmpynupw](../theory.d/THEORY-tmpynupw.md).

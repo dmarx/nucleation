@@ -210,16 +210,16 @@ lottery work for the cells. It places its elasticities against Pencavel
 MPE against Kimball and Shapiro (2008) and Bengtsson (2012).
 
 In the record: the other works of the windfall-and-scarcity batch are
-cited by author and year as their filers file them. THEORY-tmp7qas0
+cited by author and year as their filers file them. [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md)
 (Banerjee et al.) finds no effect of small, assured transfers on work;
 this paper is the large, permanent case and finds a modest one; the
 contrast across settings is the filer's, not the authors'.
-THEORY-tmp5zz46 (Baird, McKenzie and Özler) expects responses to differ
+[THEORY-tmp5zz46](../theory.d/THEORY-tmp5zz46.md) (Baird, McKenzie and Özler) expects responses to differ
 where transfers are dependable and permanent; this is such a case.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c (the synthesis): qualifies it.** A lottery prize is
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (the synthesis): qualifies it.** A lottery prize is
   the case the synthesis reserves "slack effort" for: unconditional,
   large (1M SEK is about six years of median disposable income),
   permanent and never withdrawn. Effort falls at once and for more than
@@ -227,45 +227,45 @@ where transfers are dependable and permanent; this is such a case.
   1.3 hours a week per 1M SEK, and in the model about 85% of the windfall
   goes to consumption. Nothing was withdrawn, so it says nothing about
   what follows withdrawal.
-- **CLAIM-tmpw4ai2 (thresholds): no support from the labour response.**
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds): no support from the labour response.**
   The only test of nonlinearity in size finds the marginal effect, if
   anything, smaller for larger prizes, not significantly.
-- **CLAIM-tmpqa0qu (lost capability under reliable supply): none
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (lost capability under reliable supply): none
   directly.** Earnings and hours are measured, skill is not; wages fall
   slightly (−0.16 SEK per 1000 SEK won, p = 0.063) and no one changes
   occupation or employer. Not evidence of decay.
-- **CLAIM-tmpoh07b (support doing the work crowds out capacity): none.**
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support doing the work crowds out capacity): none.**
   The prize does no work for the winner; the fall in self-employment is a
   choice, not a measured loss of capacity.
-- **TERM-105 (resource types): an illustration.** The prize is modelled
+- **[TERM-105](../terms.d/TERM-105.md) (resource types): an illustration.** The prize is modelled
   as a shock to a stock; retirement at 65 is a binding deadline that
   drives the age pattern. Lump-sum and instalment prizes of equal present
   value have similar effects, so stock and rate forms of the same wealth
   were interchangeable here, consistent with no barriers to saving or
   borrowing, though "liquidity effects" are not excluded (pp. 18–19).
-- **CLAIM-595: only an analogy in measurement.** The ten-year effect is
+- **[CLAIM-595](../claims.d/CLAIM-595.md): only an analogy in measurement.** The ten-year effect is
   16.7% of the lifetime effect for a winner at 20: a fixed window misstates
   an effect that unfolds over a horizon.
-- **CLAIM-tmpit7m9 (a savings buffer is a stock of time).** A prize is a
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) (a savings buffer is a stock of time).** A prize is a
   large buffer; the model assumes no liquidity constraint and lump-sum and
   instalment prizes act alike, consistent with these players being above
   any buffer threshold. Not tested.
-- **THEORY-tmp19alc (Haushofer & Fehr): none.** No stress, affect,
+- **[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer & Fehr): none.** No stress, affect,
   discounting or risk is measured; the model assumes them away.
-- **THEORY-tmp5v6r5 (Balboni et al.): a contrast, not a test.** The
+- **[THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md) (Balboni et al.): a contrast, not a test.** The
   players are not poor and wealth lowers self-employment; populations and
   margins differ too much to count against an asset threshold among the
   ultra-poor.
-- **THEORY-tmp02gkd (unearned revenue and state capacity).** An analogy
+- **[THEORY-tmp02gkd](../theory.d/THEORY-tmp02gkd.md) (unearned revenue and state capacity).** An analogy
   at state level to unearned income reducing effort; this paper is about
   individuals only.
-- **CLAIM-597, CLAIM-558, THEORY-tmph35ra, THEORY-tmpkkhou,
-  THEORY-tmpukudp: none.** Organizations, procedural decay and aid exit
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-558](../claims.d/CLAIM-558.md), [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md), [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md),
+  [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md): none.** Organizations, procedural decay and aid exit
   are not studied.
 - **Not squandering, not asserted.** The paper says winners "do not squander their wealth" (p. 11); the main text gives
   no wealth trajectory, spend-down rate or bankruptcy outcome. The record
   does not assert it.
-- Filed: THEORY-tmpfkxj7. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpfkxj7](../theory.d/THEORY-tmpfkxj7.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

@@ -193,18 +193,18 @@ NBER WP 29000 pagination.
   of the gap to measurement (post-tax, winner-only earnings) and the rest
   remains (Appendix J). The QJE abstract makes this comparison the paper's
   closing contribution.
-- **Baird, McKenzie and Özler, THEORY-tmp5zz46 (LIT-tmpwnkhk)**: cash
+- **Baird, McKenzie and Özler, [THEORY-tmp5zz46](../theory.d/THEORY-tmp5zz46.md) ([LIT-tmpwnkhk](../literature.d/LIT-tmpwnkhk.md))**: cash
   transfers in low- and middle-income countries leave prime-age work
   little changed, and those authors expect responses to differ where
   transfers are dependable and permanent. This paper is that case for
   the US, and work falls.
-- **Banerjee et al., THEORY-tmp7qas0**: no effect of small, means-tested
+- **Banerjee et al., [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md)**: no effect of small, means-tested
   transfers on work. The contrast is in size, permanence and setting.
-- **Balboni et al., THEORY-tmp5v6r5**, and the graduation programmes
-  (LIT-tmpcs39o, LIT-tmpit9mn): assets with training lift the ultra-poor
+- **Balboni et al., [THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md)**, and the graduation programmes
+  ([LIT-tmpcs39o](../literature.d/LIT-tmpcs39o.md), [LIT-tmpit9mn](../literature.d/LIT-tmpit9mn.md)): assets with training lift the ultra-poor
   over a threshold into more work; unconditional cash to US wage earners
   lowers work and builds no substantial business.
-- **Haushofer and Fehr, THEORY-tmp19alc**: no measure of stress, affect or
+- **Haushofer and Fehr, [THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md)**: no measure of stress, affect or
   discounting here; the higher MPC of the bottom quartile fits tighter
   constraints but is not a test.
 
@@ -213,7 +213,7 @@ NBER WP 29000 pagination.
 Level first: households in a rich country, across the income
 distribution, not states or organizations, and not the ultra-poor.
 
-- **CLAIM-tmpc3x0c (safe withdrawal; slack effort confined to help that
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (safe withdrawal; slack effort confined to help that
   is assured, large and permanent).** Supports the slack-effort clause for
   this population and margin: a windfall that is large, unconditional and
   permanent lowers work quickly and persistently (MPE −0.52), with exit
@@ -221,41 +221,41 @@ distribution, not states or organizations, and not the ultra-poor.
   a process decaying. Qualifies the threshold clause: no threshold
   appears. Persistence after withdrawal is untestable; the stock is never
   withdrawn.
-- **CLAIM-tmpqa0qu (capability lost under reliable supply).** None
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (capability lost under reliable supply).** None
   directly; skill is not measured. Winners leaving work, taking
   lower-paying jobs with better amenities and making less effort to move
   up are favoured to the winner, as a Black Queen loss is, but no loss of
   capability is shown.
-- **CLAIM-tmpoh07b (supply that does the work crowds out capacity).**
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (supply that does the work crowds out capacity).**
   Qualifies it: money does not do the household's work, it removes the
   need to earn. The response is a deliberate cut scaled to the flow; the
   paper cannot tell it from capacity lost by disuse.
-- **CLAIM-tmpw4ai2 (thresholds).** Cuts against a household reading:
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds).** Cuts against a household reading:
   responses are smooth and fall per dollar with prize size, and wealth
   raises only low-profit self-employment even for the largest winners.
   Most winners are not poor, so this is not a setting near ignition, and
   it does not test the claim's flame-like structures.
-- **CLAIM-tmpit7m9 (a savings buffer is a stock of time).** Winners build
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) (a savings buffer is a stock of time).** Winners build
   the buffer: they save most of the money. The claim says a buffer makes
   delayed investments worth taking; here little of it goes into
   profitable business within five years, and lower-income winners spend
   more of it. A rich-country contrast, not a test: the claim's ruin
   condition is not shown to bind for most winners.
-- **TERM-105 (resource types).** Supports the distinction between a stock
+- **[TERM-105](../terms.d/TERM-105.md) (resource types).** Supports the distinction between a stock
   and a rate: the paper turns the lump sum into a per-period flow
   ($7.5k–8.3k a year) and households respond to the flow. It names a
   liquidity constraint, funds at a date, as distinct from wealth:
   individuals "may decide to claim benefits before the full retirement
   age due to a lack" of alternative funds (pp. 47–48).
-- **THEORY-tmp7qas0, THEORY-tmp5zz46.** Bounds their scope: the finding that
+- **[THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md), [THEORY-tmp5zz46](../theory.d/THEORY-tmp5zz46.md).** Bounds their scope: the finding that
   transfers leave work little changed does not carry to large, permanent transfers in the
   US. Even the bottom quartile cuts earnings (MPE −0.31) and shows the
   largest falls in employment.
-- **THEORY-tmp5v6r5.** A contrasting case: wealth alone sets off no
+- **[THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md).** A contrasting case: wealth alone sets off no
   accumulation into substantial self-employment among US wage earners.
-- **CLAIM-597, CLAIM-558, CLAIM-595, THEORY-tmph35ra.** None.
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-558](../claims.d/CLAIM-558.md), [CLAIM-595](../claims.d/CLAIM-595.md), [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md).** None.
 
-Filed from it: THEORY-tmpynupw. No instruction for machine-learning
+Filed from it: [THEORY-tmpynupw](../theory.d/THEORY-tmpynupw.md). No instruction for machine-learning
 practice.
 
 ## Limitations

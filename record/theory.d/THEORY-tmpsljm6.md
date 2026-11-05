@@ -18,7 +18,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpsshb4
 summary: >-
-  Hankins, Hoekstra & Skiba (2011), LIT-tmpsshb4, read in NOTE-tmpoyhwh
+  Hankins, Hoekstra & Skiba (2011), [LIT-tmpsshb4](../literature.d/LIT-tmpsshb4.md), read in [NOTE-tmpoyhwh](../notes.d/NOTE-tmpoyhwh.md)
   from the authors' working draft of 2009-02-16; the published article was
   not read, so the numbers are the draft's. "The results show that giving
   $50,000 to $150,000 to people only postpones bankruptcy." Proposed: the
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Hankins, Hoekstra & Skiba (2011), LIT-tmpsshb4; read in NOTE-tmpoyhwh
+Hankins, Hoekstra & Skiba (2011), [LIT-tmpsshb4](../literature.d/LIT-tmpsshb4.md); read in [NOTE-tmpoyhwh](../notes.d/NOTE-tmpoyhwh.md)
 from the 2009-02-16 working draft. Page and table numbers are the
 draft's.
 
@@ -74,6 +74,6 @@ draft's.
 - Anything about labour supply, earnings, consumption or distress short of
   filing, which are not measured.
 - That a windfall cannot cross a threshold. The contrast with
-  THEORY-tmp5v6r5, where a one-off productive asset did, and with
-  CLAIM-tmpit7m9 and CLAIM-tmpc3x0c, is the record's reading, not the
+  [THEORY-tmp5v6r5](THEORY-tmp5v6r5.md), where a one-off productive asset did, and with
+  [CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) and [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md), is the record's reading, not the
   authors'.

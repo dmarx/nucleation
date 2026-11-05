@@ -18,8 +18,8 @@ date: '2026-11-05'
 source:
 - LIT-tmprjate
 summary: >-
-  Golosov, Graber, Mogstad & Novgorodsky, LIT-tmprjate, read in
-  NOTE-tmpnogky in the NBER working-paper version of 2021; the QJE version
+  Golosov, Graber, Mogstad & Novgorodsky, [LIT-tmprjate](../literature.d/LIT-tmprjate.md), read in
+  [NOTE-tmpnogky](../notes.d/NOTE-tmpnogky.md) in the NBER working-paper version of 2021; the QJE version
   of 2024 reframes the paper, dropping the life-cycle model and its UBI
   bounds and adding that earlier US lottery studies "substantially
   underestimate wealth and income effects", and its tables were not seen.
@@ -36,8 +36,8 @@ summary: >-
 
 ## Source
 
-Golosov, Graber, Mogstad & Novgorodsky (2024), LIT-tmprjate; read in
-NOTE-tmpnogky. **Read in the NBER working-paper version (w29000, July
+Golosov, Graber, Mogstad & Novgorodsky (2024), [LIT-tmprjate](../literature.d/LIT-tmprjate.md); read in
+[NOTE-tmpnogky](../notes.d/NOTE-tmpnogky.md). **Read in the NBER working-paper version (w29000, July
 2021); all numbers and pages are that version's.** The QJE abstract drops
 the working paper's life-cycle model and its UBI and top-tax bounds and
 adds that "existing U.S. studies substantially underestimate wealth and
@@ -76,13 +76,13 @@ income effects"; the published tables were not seen.
   untaxed assets such as a home are invisible.
 - **That winners lose capability.** No skill, human-capital or re-entry
   measures; the fall in work is chosen while the stock is kept, which
-  bears on the slack-effort clause of CLAIM-tmpc3x0c but not on loss by
+  bears on the slack-effort clause of [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) but not on loss by
   disuse.
 - **That there is a threshold.** Responses are smooth and shrink per
-  dollar with prize size; nothing here supports CLAIM-tmpw4ai2 for
+  dollar with prize size; nothing here supports [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) for
   households, and nothing tests it for structures.
 - **That small or means-tested transfers reduce work.** The windfalls are
-  large and permanent, in the US; THEORY-tmp7qas0 and THEORY-tmp5zz46
+  large and permanent, in the US; [THEORY-tmp7qas0](THEORY-tmp7qas0.md) and [THEORY-tmp5zz46](THEORY-tmp5zz46.md)
   concern small transfers in poor countries and are bounded in scope, not
   contradicted.
 - **Anything beyond five years**, or about bankruptcy, debt, distress,
