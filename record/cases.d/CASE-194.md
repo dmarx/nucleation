@@ -33,6 +33,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: ARG-025 CLAIM-427 CLAIM-523 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: NOTE-tmpnscd2 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 # CASE-194: Three organizations at 50% on one task, output y = c for a fair context c ∈ {−1, +1}, with the same failure from three causes: one shared actuator setting, an observation identical in both contexts, and an authority rule that always selects the process proposing +1; supplying observation, enlarging actuation or revising authority each repairs one and not the others, and the observational one is infeasible only relative to its observation-limited policies
 
@@ -114,3 +115,7 @@ on effective regulation and construct the corresponding corrective
 mechanisms". That is a proposed study with no design yet. It is left for
 a later filing, as "a more focused successor to the broad experimental
 architecture of [CASE-179](CASE-179.md)".
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Three readings from the pasted synthesis on constraint architectures qualify the case's actuator cause. Hopkins's doctoral thesis (NOTE-tmpnscd2, skimmed) treats actuation as a constraint of its own: an actuation space outside the 26 types "cannot be actuated with linear actuators alone", whatever the freedom space. Dollar and Howe (NOTE-tmpb0ok0) show one actuator driving eight joints without failing, since a compliant, adaptive transmission lets contact fit the shared command to each object; passive adaptation is a repair the case does not list, and it holds for power grasps only, the hand having no pinch grip. Liu, Zhang and Fang (NOTE-tmp2mkll) find that sharing an actuator loses little when the required angles are alike and fails when they are not. So whether a shared setting fails depends on how alike the demands on the coupled parts are. All three are mechanical, with the designer outside the system. No status changes.

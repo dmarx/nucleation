@@ -168,3 +168,7 @@ discrepancy but the agent's representation of its own capacity to act on
 it. That is a different variable, filed as [QUESTION-367](../questions.d/QUESTION-367.md).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Jules et al. (NOTE-tmpwz8jy), from the pasted synthesis on constraint architectures, separate three properties of a mechanical memory, stability in time, writability by outside action and non-destructive readout, and in their stack writing and reading fail separately: height and stiffness do not identify states unequivocally while the states themselves hold. That has the shape of the claim's three separable achievements, loosely and as an analogy only. It is a mechanical memory with nothing normative in it, and its properties do not map one to one onto legibility, volitional efficacy and correctability. No status changes.

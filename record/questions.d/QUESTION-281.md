@@ -262,3 +262,7 @@ bifurcation crossing, not an escape. Two qualifications: the escape reading
 is conditional on mixing the paper does not prove, and since no native SGD
 knob is a temperature the process is "athermal, driven nucleation". No
 status changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Berry, Lee-Trimble and Santangelo (NOTE-tmpt066u), from the pasted synthesis on constraint architectures, qualify the question by contrast. For a vertex with nonzero curvature the two nappes of configuration space split near the flat state, and no energy suffices to cross between them without tearing. That separation is kinematic, not energetic, and none of the question's listed transitions, nucleation across a finite barrier among them, describes passing it: it points to a further kind of separation between forms, fixed by the admitted motions. The paper concerns one vertex's configuration space and says nothing of how distinctions come into being or pass away. No status changes.

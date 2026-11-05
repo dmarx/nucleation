@@ -284,3 +284,7 @@ affords the opportunity for evolution to entrench" (§2). Stabilization
 is a condition for entrenchment, and is not entrenchment itself.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Two readings from the pasted synthesis on constraint architectures qualify the anchor idea, by analogy. DeLuca et al. (NOTE-tmp3af4j) find a persistent precursor, the "proto rod", on which later order grows, but early coalescence "is not a perfect predictor of overall folding performance", and a run can be "caught in a global topological trap": a persistent early structure can be the wrong anchor. The paper does not call this nucleation, and it is simulation. Stern et al.'s folding islands (NOTE-tmp9dvve) are local seeds that fix a global outcome, a badly placed one locking in a distractor; no thermal barrier is crossed, so they are not nucleation sites in the strict thermodynamic sense. Both bear on what an anchor does once it persists, not on what makes a structure persist. No status changes.

@@ -188,6 +188,7 @@ independence theorem. The claim is unchanged.
 
 <!-- inactive-ok-file: CLAIM-530 THEORY-1292 CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
 <!-- inactive-ok-file: CASE-tmp4op8y — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
+<!-- inactive-ok-file: NOTE-tmpnscd2 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 - **The intervention is the mechanists' "lesion".** The claim's second
   construction separates the pair by a perturbation of the maintained
@@ -228,3 +229,7 @@ A's [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) (fictional) has two departments
 ## Note of 2026-11-04: an intervention the reporting system cannot see
 
 Under the NFIRS guidance ([CASE-tmp4op8y](../cases.d/CASE-tmp4op8y.md)), a call the department could not answer for lack of resources is not an incident at all. That is the failure that would expose a difference in readiness. The ordinary records of two departments can therefore match even where a demand that only one of them could meet would separate them. The guidance recommends a separate record of such calls but does not require one. No status changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Hopkins's Freedom and Constraint Topologies, from the pasted synthesis on constraint architectures, supply a mechanical analogue. In the doctoral thesis (NOTE-tmpnscd2, §§2.2.4 and 4.2, skimmed) and the 2013 paper (NOTE-tmpdewq8, §3.2), flexures with the same freedom space differ in stiffness, dynamics and where actuation must act, and the matched nominal motion hides those differences until the stage is loaded or driven. That is the claim's pattern, a difference concealed in ordinary operation and exposed by a specified intervention, carried to mechanism design. It is an analogy only: the works concern kinematic equivalence, not interpretation or enabling constraints. No status changes.

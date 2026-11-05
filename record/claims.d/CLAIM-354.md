@@ -282,3 +282,7 @@ It added that "acquiring authority and relinquishing authority are independently
 - (c) At U14 the owner asked whether the record's endorsement, now conferral, "satisfies the Frankfurtian sense". A14 itself answered that it does not.
 
 A26's gloss of authenticity, "Non-dominating, answerable governance", leans on [TERM-006](../terms.d/TERM-006.md), which is Deferred. Its domination clause is this claim's non-domination profile and [CLAIM-545](CLAIM-545.md)'s. The claim is unchanged.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+The pasted synthesis on constraint architectures glosses the claim's dimensions as "several independent dimensions"; the claim does not say independent, and what it asserts is a partial order by inclusion of what is viably reached. Three robotics readings support it in kind. Murray and Sastry (NOTE-tmpygch2) separate what is admissible instantaneously from what is reachable, though with no state constraints they are silent on viability. Dollar and Howe (NOTE-tmpb0ok0) show robustness to disturbance and actuated reach coming apart, for power grasps only: an underactuated hand commands fewer shapes yet grasps more reliably under positioning error. Liu, Zhang and Fang (NOTE-tmp2mkll) show actuated reach trading against the number of actuators, with diminishing returns. None compares agents by inclusion, so the order itself is left untested. No status changes.

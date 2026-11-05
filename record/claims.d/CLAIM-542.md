@@ -113,3 +113,7 @@ each choice the agent's own competing effort. In this claim's terms that moves
 share of the outcome against outside noise is then undefined, because there is
 none. The claim's results hold wherever some of the noise is exogenous, which
 neural noise generally is.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Murray and Sastry (NOTE-tmpygch2), from the pasted synthesis on constraint architectures, support the claim in kind, from nonlinear control: that a driftless system is controllable says nothing of which inputs reach a direction or how much cycling it takes, motion along higher brackets needing more cycles. It is the same family as CLAIM-345, outside the linear setting the claim works in. The paper computes no least energy beyond the first-order case, says nothing of Lyapunov exponents or noise, and does not separate an agent's own channel from an outside party's. No status changes.

@@ -312,3 +312,7 @@ scale (p. 40). Its swing-timing example (p. 46), a phase relation that is not a
 slower variable, is a candidate for defeater (a) worth checking.
 
 The claim is unchanged.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Four readings from the pasted synthesis on constraint architectures bear on the claim. Silverberg et al. (NOTE-tmp0l0mn) support its form with an energetic rather than a temporal separation: the number of degrees of freedom is "a variable quantity that changes with the experimental energy scale", facet planarity acting as a constraint below the bending scale and as a freedom above it. The mapping onto time scales holds only where stiffer modes also relax faster, which the paper does not discuss. Li and Choi (NOTE-tmp52g52) treat planarity as an on-off constraint, the idealized end of that picture. In Deng et al. (NOTE-tmp5sqfp) particle orientations constrain a film's response below the polymer's melting point and are degrees of freedom above it. DeLuca et al.'s simulated DNA origami (NOTE-tmp3af4j) "establishes local order before it establishes global order", loose support. None tests the claim's second direction, that organization makes new separations. No status changes.

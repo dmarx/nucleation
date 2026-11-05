@@ -34,6 +34,7 @@ summary: >-
 supports:
 - CLAIM-354
 ---
+<!-- inactive-ok-file: NOTE-tmpla9de NOTE-tmpnscd2 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 # CLAIM-345: Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank
 
@@ -105,3 +106,11 @@ Gramians of the same rank can have any eigenvalues, and so any costs.
 - **Not constrained or nonlinear control.** With bounded inputs a costly
   displacement may be unreachable in T steps, and nonlinear systems have
   no Gramian in this form.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Several readings from the pasted synthesis on constraint architectures support the claim's lesson, that equal nominal freedom does not fix cost, by mechanical analogy. In Hopkins's Freedom and Constraint Topologies (NOTE-tmpla9de, NOTE-tmpnscd2, NOTE-tmpdewq8), redundant constraints change stiffness and stability with the freedom space unchanged, and kinematically equivalent designs differ in "elastomechanics, dynamics, and manufacturability". Rocks and Mehta (NOTE-tmp26zlk) and Damavandi et al. (NOTE-tmp8m06t) find the like in spring networks: geometry fixes the zero-mode count, while which force excites a mode, and energetic stiffness, depend on stiffness and prestress. Krishnakumar and Suresh's designs (NOTE-tmpdle4e) share an intended motion and differ in geometric and mechanical advantage as a weighting varies. All of this is structure, not control: none computes an effort or bears on Δ²/b².
+
+Murray and Sastry (NOTE-tmpygch2) come closest, in kind: rank settles reachability, while motion along higher brackets takes more input cycles, so rank-equal systems can differ in cost; no cost is computed beyond the first-order case. Dollar and Howe (NOTE-tmpb0ok0) qualify the frame: which freedoms are left passive mattered there, not the cost of control.
+
+No status changes.

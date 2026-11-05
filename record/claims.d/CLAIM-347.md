@@ -82,6 +82,7 @@ supports:
 ---
 <!-- inactive-ok-file: NOTE-tmpsnl7o — Skimmed; Chou, Chua, Teo and Zheng, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
+<!-- inactive-ok-file: NOTE-tmphcgif — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
@@ -355,3 +356,13 @@ A structural echo that qualifies the claim ([NOTE-tmpsnl7o](../notes.d/NOTE-tmps
 ## Note of 2026-11-04: Ratliff, Dong, Sekar and Fiez, "A Perspective on Incentive Design", read
 
 Ratliff et al. (2019), [LIT-tmpsj5c6](../literature.d/LIT-tmpsj5c6.md), treat a misalignment between a principal's and an agent's objectives, repaired by changing the agent's payoff, not by enlarging the set of jointly satisfiable demands. That qualifies the claim loosely: incentive design is a different kind of repair from this claim's relief, closer to re-weighting than to enlarging the complex. The paper does not discuss joint feasibility, so whether an incentive change can count as relief is left open. No status changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Several mechanical readings from the pasted synthesis on constraint architectures bear on the claim, mostly by analogy. Rocks and Mehta (NOTE-tmp26zlk) call prestress a frustration that "cannot be relaxed away by moving the nodes", and Damavandi et al. (NOTE-tmp8m06t) separate a self-stress, fixed by geometry, from the load it carries: existence against quantity, as here. Connelly and Whiteley (NOTE-tmphcgif, read in part) add a cardinal layer beside the complex, not a refinement of it.
+
+Akitaya et al. (NOTE-tmpd0dln) fit directly: locally feasible vertex modes can admit no jointly consistent assignment, and finding one is NP-hard. In Stern et al. (NOTE-tmp9dvve) the minimal obstruction is a closed loop of vertices, yet the designed branch is realizable: the target is hard to reach, not empty. Chen and Santangelo (NOTE-tmpwpp63) and Berry et al. (NOTE-tmpt066u) show selection among, and reachability between, jointly feasible configurations, which the complex does not register.
+
+Zang et al. (NOTE-tmp7wdij) fit relief as strict enlargement only on the record's own reading of 56 ordered transitions as demands: prestress, supplied from outside, opens the 8 blocked ones and removes none, and the 16 needing intermediate states stay unachievable.
+
+No status changes.
