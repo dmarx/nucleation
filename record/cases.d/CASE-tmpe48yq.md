@@ -27,10 +27,10 @@ summary: >-
   1.866 and the reconfiguration slack 0.991. At a budget of 1.5 the
   sublevel set cuts each branch near flat and both states are held but
   neither reaches the other. It rests on Foschi, Hull and Ku's
-  equations as read in NOTE-tmpt4jsa, with coefficients the filer
-  computed and checked, Abel et al. (NOTE-tmpj2th4), Chen and Santangelo
-  (NOTE-tmpwpp63), Stern, Pinson and Murugan (NOTE-tmp9dvve) and Mirth et
-  al. (NOTE-tmpwvb9j). A mechanical toy; its organizational reading is an
+  equations as read in [NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md), with coefficients the filer
+  computed and checked, Abel et al. ([NOTE-tmpj2th4](../notes.d/NOTE-tmpj2th4.md)), Chen and Santangelo
+  ([NOTE-tmpwpp63](../notes.d/NOTE-tmpwpp63.md)), Stern, Pinson and Murugan ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)) and Mirth et
+  al. ([NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md)). A mechanical toy; its organizational reading is an
   analogy. The construction is the filer's. Adopting it is the owner's
   call.
 ---
@@ -48,8 +48,8 @@ so the vertex is flat-foldable, and every sector is below π. The faces are
 the triangles O c_i c_(i+1), where c_i is the tip of crease i, and the
 base face, between creases 4 and 1, lies fixed on a table. Fold angles
 ρ_i lie in (−π, π), valley positive, as in Foschi, Hull and Ku
-(NOTE-tmpt4jsa). Faces are rigid and may not pass through each other, as
-in Abel et al.'s definition of rigid origami (NOTE-tmpj2th4).
+([NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md)). Faces are rigid and may not pass through each other, as
+in Abel et al.'s definition of rigid origami ([NOTE-tmpj2th4](../notes.d/NOTE-tmpj2th4.md)).
 
 **Its configuration space.** The filed reading gives the shape. A
 rigid-foldable degree-4 vertex has exactly two folding modes, two curves
@@ -82,7 +82,7 @@ the flat state, and taking the flat state out leaves four half-branches,
 each running from flat towards a flat-folded limit. A segment–triangle
 test at 3,000 states on each half-branch found no face passing through a
 non-adjacent face. This is the single-vertex form of what Chen and
-Santangelo (NOTE-tmpwpp63) and Stern, Pinson and Murugan (NOTE-tmp9dvve)
+Santangelo ([NOTE-tmpwpp63](../notes.d/NOTE-tmpwpp63.md)) and Stern, Pinson and Murugan ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md))
 describe: branches meeting at a flat state that is a singular point of
 the configuration space.
 
@@ -109,8 +109,8 @@ quadrilateral, ½(sin 60° + sin 90° + sin 120° + sin 90°) = 1 + √3/2 ≈
 **The bottleneck.** Every path from A to B passes through the flat state,
 where r = 1.866, and on each half-branch r stays below its flat value
 (4,000 sampled states each). So the bottleneck budget of
-CLAIM-tmpbi4ca is B*(A, B) = 1 + √3/2 ≈ 1.866, and the reconfiguration
-slack (TERM-tmp2ysyt) is 1.866 − 0.875 = 0.991, more than either folded
+[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md) is B*(A, B) = 1 + √3/2 ≈ 1.866, and the reconfiguration
+slack ([TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)) is 1.866 − 0.875 = 0.991, more than either folded
 state takes. Popping A to its mirror image (90°, −150°, −90°, −150°), on
 the other half of mode A, also passes flat and costs the same 1.866, a
 slack of 1.116. That is the snap from popped up to popped down that Abel
@@ -123,7 +123,7 @@ modes r crosses 1.5 there, by the filer's root-finding. The sublevel set
 flat cut away. A and B both lie in it and can each be held, and neither
 reaches the other. For every budget from 0.875 up to 1.866, A and B lie in
 different components, which merge at 1.866: in Mirth et al.'s terms
-(NOTE-tmpwvb9j) the bottleneck budget is the level at which the two
+([NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md)) the bottleneck budget is the level at which the two
 components of the sublevel sets first join.
 
 **A different resource moves the bottleneck.** Declare instead a crease
@@ -142,16 +142,16 @@ self-intersection. The arithmetic for A and B is shown above.
 ## What it can show
 
 - **A threshold above both endpoints, from a real mechanism's
-  equations.** CLAIM-tmpbi4ca's example uses an invented r(q) on [0, 1].
+  equations.** [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s example uses an invented r(q) on [0, 1].
   Here the shape of the configuration space comes from the mechanism, two
   curves crossing at one singular point, and the resource is the only
   thing declared. The flat state is a passage every switch must make,
   whatever the resource.
-- **Feasible at a budget and not reachable within it**, CLAIM-tmp9jvpb's
+- **Feasible at a budget and not reachable within it**, [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)'s
   first separation: at 1.5 both folded states meet the budget and no path
-  within it joins them. That failure is neither CLAIM-357's structural
+  within it joins them. That failure is neither [CLAIM-357](../claims.d/CLAIM-357.md)'s structural
   infeasibility, since B meets every requirement, nor a realized
-  violation; it is the reachability that CLAIM-tmp9jvpb places between
+  violation; it is the reachability that [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md) places between
   them.
 - **That the bottleneck sits where the configuration space is singular
   only if the resource peaks there.** With footprint it does; with crease
@@ -173,9 +173,9 @@ self-intersection. The arithmetic for A and B is shown above.
   quasi-statically; nothing is said about how the vertex is driven.
 - **Several resources.** Every path from A to B goes through the same
   flat state, so a second resource would give one peak vector and a
-  frontier of one point; CLAIM-tmpuk8gq's non-convexity needs at least two
+  frontier of one point; [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)'s non-convexity needs at least two
   routes, which this vertex does not have.
 - **More than one vertex, or a proof.** The coefficients are the filer's,
   checked numerically, not derived in closed form here, and the reading
   they extend is Skimmed. For a vertex whose modes do not meet at all, see
-  CASE-tmpb5t9j.
+  [CASE-tmpb5t9j](CASE-tmpb5t9j.md).

@@ -20,7 +20,7 @@ reported_in:
 summary: >-
   Filed at the owner's request on 2026-11-05, to file "one or more CASEs
   for origami as a toy model of a resource bounded constraint
-  configuration space". Silverberg et al. 2015 (NOTE-tmp0l0mn): the
+  configuration space". Silverberg et al. 2015 ([NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md)): the
   square twist's crease pattern is isostatic, and rigidly it has only two
   isolated states, unfolded and folded, yet it folds by bending its
   facets, a hidden degree of freedom with its own energy scale. The
@@ -30,8 +30,8 @@ summary: >-
   configuration space from a disconnected one. Read as a resource model,
   the configuration space is indexed by the budget rather than fixed, and
   widening the admissible moves is itself priced, which joins the vertex
-  under a budget (CASE-tmpe48yq) to the curved vertex whose moves no
-  budget widens (CASE-tmpb5t9j). A mechanical study; its organizational
+  under a budget ([CASE-tmpe48yq](CASE-tmpe48yq.md)) to the curved vertex whose moves no
+  budget widens ([CASE-tmpb5t9j](CASE-tmpb5t9j.md)). A mechanical study; its organizational
   reading is an analogy. Adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbi4ca CLAIM-tmp9jvpb CLAIM-478 CASE-tmpe48yq CASE-tmpb5t9j — Proposed; the entries filed beside it, cited as filed, nothing here rests on their being settled -->
@@ -40,7 +40,7 @@ summary: >-
 
 ## The case
 
-**The study.** Silverberg et al. (2015; NOTE-tmp0l0mn) fold the square
+**The study.** Silverberg et al. (2015; [NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md)) fold the square
 twist, a crease pattern whose geometric constraints make it isostatic:
 counted with rigid facets it has zero degrees of freedom, and rigid
 geometry allows only two isolated states, fully unfolded and folded. It
@@ -65,15 +65,15 @@ bending modes sit above the crease modes in energy.
   simulation every geometry was monostable for k_b/k_c ≤ 1 and bistable
   for k_b/k_c ≥ 10³. Added creases remove the gel's hysteresis.
 
-**The resource reading (the filer's).** In CASE-tmpe48yq the
+**The resource reading (the filer's).** In [CASE-tmpe48yq](CASE-tmpe48yq.md) the
 configuration space is fixed and a budget cuts it. Here the budget
 decides what the configuration space is. Under rigid folding alone, the
 unfolded and folded states are isolated points: no admissible path joins
-them, and CLAIM-tmpbi4ca's bottleneck budget is infinite, as in
-CASE-tmpb5t9j. Admit facet bending as a move and the points are joined,
+them, and [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s bottleneck budget is infinite, as in
+[CASE-tmpb5t9j](CASE-tmpb5t9j.md). Admit facet bending as a move and the points are joined,
 at a cost. The skeleton makes this exact for one cap: with 10° of
 bending, the two are connected for small plane angles and not for large
-ones. So the declared class of admissible moves, which CLAIM-tmp9jvpb
+ones. So the declared class of admissible moves, which [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)
 holds fixed when it separates feasible from reachable, is here itself a
 function of the energy available. Where the curved vertex's widening, a
 face through a face, cannot be bought at all, this one can.
@@ -87,13 +87,13 @@ face through a face, cannot be bought at all, this one can.
   one energy scale, facet planarity, is a degree of freedom above it. The
   line between not allowed and too expensive is drawn by the scale the
   system is probed at.
-- **CLAIM-478, with an energetic rather than a temporal separation.**
+- **[CLAIM-478](../claims.d/CLAIM-478.md), with an energetic rather than a temporal separation.**
   Below the bending scale facet planarity acts as a constraint; above it
   the constraint is a freedom, and the ratio of the two scales decides
   whether the structure is bistable. The claim speaks of time scales; the
   mapping holds where stiffer modes also relax faster, which the paper
   does not discuss.
-- **A neighbour.** Jules et al. (NOTE-tmpwz8jy) trace their Kresling
+- **A neighbour.** Jules et al. ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md)) trace their Kresling
   memory's defect states to hidden elastic degrees of freedom of the same
   kind, reached by twisting by hand.
 - **An analogy, the filer's.** For an organization, what counts as an

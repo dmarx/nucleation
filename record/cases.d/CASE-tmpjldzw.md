@@ -18,7 +18,7 @@ reported_in:
 summary: >-
   Filed at the owner's request on 2026-11-05, to file "one or more CASEs
   for origami as a toy model of a resource bounded constraint
-  configuration space". Zang, Zhao, Misseroni and Paulino (NOTE-tmp7wdij):
+  configuration space". Zang, Zhao, Misseroni and Paulino ([NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md)):
   a stack of three bistable Kresling cells has 8 stable states and 56
   ordered transitions; 32 are feasible, 16 cannot be made without passing
   through other stable states, and 8 are blocked by the order of the
@@ -27,7 +27,7 @@ summary: >-
   8 blocked transitions feasible; the 16 are not opened. Read as a
   resource model, the barriers bound the transitions, and the blocked
   ones are opened by changing the architecture, not by a larger load: the
-  physical counterpart of CASE-tmp06sg5. Jules et al. (NOTE-tmpwz8jy)
+  physical counterpart of [CASE-tmp06sg5](CASE-tmp06sg5.md). Jules et al. ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md))
   show the same dependence on the order of thresholds in a Kresling
   memory. A mechanical study; its organizational reading is an analogy.
   Adopting it is the owner's call.
@@ -38,7 +38,7 @@ summary: >-
 
 ## The case
 
-**The study.** Zang, Zhao, Misseroni and Paulino (NOTE-tmp7wdij) model and
+**The study.** Zang, Zhao, Misseroni and Paulino ([NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md)) model and
 build Kresling origami cells, each bistable, and stack three. Spring
 elements of three kinds, axial, torsional and along the mountain creases,
 prestress a cell; the authors call this geometrical frustration. In the
@@ -63,7 +63,7 @@ approach inevitably introduces new infeasible folding paths and does not
 support in-situ reconfiguration."
 
 **The resource reading (the filer's).** Read the barriers as the
-resource bound on each cell's switch, in the sense of CLAIM-tmpbi4ca:
+resource bound on each cell's switch, in the sense of [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md):
 under the declared loading, a transition between stable states is made
 when the load carries each cell that must switch over its barrier, in
 the order the path requires. The 8 blocked transitions are not blocked by
@@ -71,14 +71,14 @@ the size of the load. They need a cell to switch before one whose barrier
 is lower, and under one load applied to the whole stack, on this reading,
 a larger load does not change which barrier is crossed first. So no
 budget of that load opens them, and changing the architecture, the
-barriers' order, does. That is CASE-tmp06sg5's architecture-mediated
+barriers' order, does. That is [CASE-tmp06sg5](CASE-tmp06sg5.md)'s architecture-mediated
 route, met in a physical system: a move that changes the architecture
 opens what no budget under the old one could. The 16 are a different
 matter. They are reachable, as sequences through intermediate stable
 states; what is missing is a direct path, and prestress does not supply
 one.
 
-**A neighbour.** Jules et al. (NOTE-tmpwz8jy) stack four bistable Kresling
+**A neighbour.** Jules et al. ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md)) stack four bistable Kresling
 barrels in series and find a Preisach memory whose transition graph
 depends on the switching thresholds only through their order; when the
 two orders coincide there are no Garden of Eden states. Barrier order, not
@@ -86,7 +86,7 @@ barrier size, decides what is reachable there too.
 
 ## What it can show
 
-- **That CLAIM-tmpbi4ca's "for a fixed architecture" does work**, in a
+- **That [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s "for a fixed architecture" does work**, in a
   built system: what is infeasible under one ordering of barriers is
   feasible under another, without refabrication.
 - **That a budget and an order are different bounds.** Raising the load
@@ -94,16 +94,16 @@ barrier size, decides what is reachable there too.
   the second.
 - **That opening transitions in place differs from redesigning**, which
   the authors say opens some paths and closes others. Read against
-  CLAIM-025, the stable states play the regimes, the barrier order the
+  [CLAIM-025](../claims.d/CLAIM-025.md), the stable states play the regimes, the barrier order the
   organization among them, and the springs and handles the capacity to
   transform it; the reading of the paper offers this as an analogy.
 - **An analogy to relief, with a caution.** Read the 56 transitions as
   demands and feasibility as acceptance, and prestress enlarges the
-  feasible set with no demand dropped, the shape of CLAIM-347's relief by
+  feasible set with no demand dropped, the shape of [CLAIM-347](../claims.d/CLAIM-347.md)'s relief by
   strict enlargement. But the frustration that does the enlarging is
-  stored elastic energy, the energetic sense TERM-060 sets apart from its
+  stored elastic energy, the energetic sense [TERM-060](../terms.d/TERM-060.md) sets apart from its
   own. The mapping is the record's, not the paper's.
-- **CLAIM-079, weakly.** The cells keep their stable states while which
+- **[CLAIM-079](../claims.d/CLAIM-079.md), weakly.** The cells keep their stable states while which
   transitions are possible changes.
 
 ## What it cannot show

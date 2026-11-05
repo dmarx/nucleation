@@ -22,15 +22,15 @@ reported_in:
 summary: >-
   Filed at the owner's request on 2026-11-05, to file "one or more CASEs
   for origami as a toy model of a resource bounded constraint
-  configuration space". Berry, Lee-Trimble and Santangelo (NOTE-tmpt066u)
+  configuration space". Berry, Lee-Trimble and Santangelo ([NOTE-tmpt066u](../notes.d/NOTE-tmpt066u.md))
   show that near the flat state a rigid vertex with small positive
   Gaussian curvature, faces forbidden to pass through each other, has its
   popped-up and popped-down nappes in disconnected components; Foschi,
-  Hull and Ku (NOTE-tmpt4jsa) find degree-4 modes disconnected whenever
+  Hull and Ku ([NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md)) find degree-4 modes disconnected whenever
   the sector angles do not sum to 2π. With no admissible path, the
   bottleneck budget is infinite for every resource and every budget. The
   authors report, anecdotally, that letting faces pass through each other
-  reconnects the nappes; Jules et al. (NOTE-tmpwz8jy) give a second
+  reconnects the nappes; Jules et al. ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md)) give a second
   instance, states reached only by a move outside the loading protocol.
   The case where no budget helps and only the admissible-move set does. A
   mechanical specimen; its organizational reading is an analogy.
@@ -46,11 +46,11 @@ summary: >-
 **The specimen.** A single rigid origami vertex whose sector angles sum to
 a little less than 2π, so that it carries a small positive Gaussian
 curvature K = 2π − Σα_i (Berry, Lee-Trimble and Santangelo,
-NOTE-tmpt066u). Faces are flat and rigid and may not pass through each
+[NOTE-tmpt066u](../notes.d/NOTE-tmpt066u.md)). Faces are flat and rigid and may not pass through each
 other, which the authors implement as fold angles strictly inside
-(−π, π). Unlike CASE-tmpe48yq's vertex, it has no flat state: a vertex
+(−π, π). Unlike [CASE-tmpe48yq](CASE-tmpe48yq.md)'s vertex, it has no flat state: a vertex
 whose sector angles do not sum to 2π cannot have every fold angle zero at
-once (Foschi, Hull and Ku, NOTE-tmpt4jsa).
+once (Foschi, Hull and Ku, [NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md)).
 
 **What is reported.** Near the flat state the vertex's second-order
 isometry condition is hᵀQh = K, with one negative eigenvalue in Q. At
@@ -64,12 +64,12 @@ zero, positive or negative. Foschi, Hull and Ku reach the degree-4
 disconnection from exact equations, in a worked example.
 
 **The resource reading (the filer's).** Take any resource r on
-configurations and any budget b. The bottleneck budget of CLAIM-tmpbi4ca
+configurations and any budget b. The bottleneck budget of [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)
 is the least, over admissible paths from a popped-up state to a
 popped-down one, of the largest r on the path, and +∞ when there is no
 such path. Here there is none. So B* = +∞ whatever r is declared, every
 budget leaves the two nappes in different components, and the
-reconfiguration slack (TERM-tmp2ysyt) is infinite. Raising the budget
+reconfiguration slack ([TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)) is infinite. Raising the budget
 changes nothing; no resource is being rationed.
 
 **Widening the moves.** The separation rests on the move set. The
@@ -84,7 +84,7 @@ sheet of paper. Within the declared moves the separation is absolute;
 across a wider class it may vanish.
 
 **A second instance.** Jules et al.'s stack of Kresling barrels
-(NOTE-tmpwz8jy) is a memory whose 16 states are all reachable under
+([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md)) is a memory whose 16 states are all reachable under
 uniaxial loading with the ends clamped against rotation. Twisting parts
 of the stack by hand reaches defect states that no loading protocol
 reaches, and the load, once applied, leaves them only by erasing or
@@ -93,20 +93,20 @@ it is not available at all.
 
 ## What it can show
 
-- **CLAIM-tmpbi4ca's infinite case**, in a real mechanism: each nappe's
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s infinite case**, in a real mechanism: each nappe's
   states are feasible, and no budget of any resource joins them.
 - **That reachability is relative to the declared moves**, as
-  CLAIM-tmp9jvpb says it is: the same states are disconnected under rigid,
+  [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md) says it is: the same states are disconnected under rigid,
   non-self-intersecting motion and, reportedly, connected once faces may
   pass through each other.
 - **A separation that is not frustration.** Every configuration on each
   nappe meets every constraint, so no demand set is jointly
-  unsatisfiable, and TERM-060's structural frustration does not apply.
-  CLAIM-347's compatibility complex does not see the separation; the
+  unsatisfiable, and [TERM-060](../terms.d/TERM-060.md)'s structural frustration does not apply.
+  [CLAIM-347](../claims.d/CLAIM-347.md)'s compatibility complex does not see the separation; the
   reading of the paper says as much.
-- **A kinematic, not an energetic, separation**, for QUESTION-281: no
-  energy suffices to cross it without tearing. Contrast CASE-tmpe48yq,
-  where a finite budget crosses, and CASE-tmpez9ok, where widening the
+- **A kinematic, not an energetic, separation**, for [QUESTION-281](../questions.d/QUESTION-281.md): no
+  energy suffices to cross it without tearing. Contrast [CASE-tmpe48yq](CASE-tmpe48yq.md),
+  where a finite budget crosses, and [CASE-tmpez9ok](CASE-tmpez9ok.md), where widening the
   moves is itself priced.
 - **An analogy, the filer's.** An organization may face a transition that
   no amount of money, staff or time buys under its present rules, only a
