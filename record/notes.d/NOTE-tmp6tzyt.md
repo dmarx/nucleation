@@ -1,0 +1,300 @@
+---
+status: Read
+paper: 'LIT-tmp6ej76'
+title: 'Balboni et al. — Why do people stay poor? An asset threshold among ultra-poor households in rural Bangladesh'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from NBER Working Paper 29340, October 2021
+    (https://www.nber.org/system/files/working_papers/w29340/w29340.pdf),
+    the authors' own working-paper series. It is the accepted text: its
+    first footnote thanks "the editor Larry Katz and four anonymous
+    referees". The journal's copy at OUP was not reached (a Cloudflare
+    check, HTTP 403), so the QJE text may differ. Text extracted by
+    pdftotext. Read: the whole body, §§I–VIII on printed pp. 1–33, Tables
+    I–IV and the notes to Figures VII–X. Not read: the online appendix
+    (Figures B.x, Tables C.x), which is not in the PDF, so results the
+    text puts there (the age split, robustness tables, complementary
+    assets around the threshold) are taken from the body's description;
+    the reference list was not read in detail. Page numbers below are the
+    working paper's printed pages, not the QJE's.
+date: '2026-11-05'
+summary: >-
+  BRAC's one-off asset transfer, mostly a cow, to ultra-poor women in
+  rural Bangladesh, with randomized roll-out and an 11-year panel of about
+  6,000 households. Among beneficiaries the four-year asset transition is
+  S-shaped with an unstable threshold near 9,309 BDT; those left below
+  lose assets, those lifted above accumulate, shift into livestock and
+  land, work more and, by year 11, consume more. Control villages show no
+  S. The authors read this as a poverty trap of initial wealth and
+  indivisible inputs, not of ability. Threshold placement rests on
+  non-random baseline assets; health and stress are not ruled out; the
+  programme bundled consumption support, health support and training; and
+  crossing is no guarantee.
+---
+<!-- inactive-ok-file: THEORY-tmp5v6r5 CLAIM-tmpqa0qu CLAIM-tmpc3x0c CLAIM-tmpw4ai2 CLAIM-tmpoh07b CLAIM-597 CLAIM-558 THEORY-tmph35ra THEORY-tmpkkhou THEORY-tmpukudp — Proposed or new; cited from the reading of Balboni et al. (2022) as open -->
+
+# NOTE-tmp6tzyt: Balboni et al. — Why do people stay poor? An asset threshold among ultra-poor households in rural Bangladesh
+
+## Contribution
+
+A long-run experimental test of a household poverty trap that estimates
+where the threshold lies. Observational data rarely have households in the
+low-density middle of a bimodal asset distribution; BRAC's transfer put
+over 3,000 there, so the transition equation can be traced where it
+matters. The paper finds the threshold, follows divergence on either side
+of it for 11 years, and tests whether the divergence is baseline ability.
+
+## Key insight
+
+Two households of the same ability, one a cart or a shed short of the
+other, end on opposite sides: one sinks back into casual wage labour, the
+other grows a livestock business on its own earnings. The authors set
+this against the view that poverty comes from "differences in
+fundamentals, such as ability, talent or motivation" (abstract), and
+conclude: "It is not their intrinsic characteristics that trap people in
+poverty but rather their circumstances." (p. 31)
+
+## Assumptions
+
+- **Setting (§II).** BRAC's Targeting the Ultra-poor programme: poor
+  women offered a one-off productive asset, 91% choosing a cow. Roll-out
+  randomized across 40 BRAC branch areas, 20 treated in 2007 and 20 in
+  2013; 3,276 treated ultra-poor households; surveys in 2007, 2009, 2011,
+  2014 and 2018. "Attrition between 2007 and 2018 is 14%." (p. 7)
+- **The bundle (fn. 7).** "The program also includes consumption support
+  in the first 40 weeks after the asset transfer, as well as health
+  support and training on legal, social, and political rights in the two
+  years following program onset." The experiment does not separate the
+  asset from the rest.
+- **Identification of the threshold.** Randomization decides who got the
+  transfer, not which side of the threshold a household lands on. That is
+  set by small, non-random differences in baseline assets plus the
+  transfer valued at the branch median cow price. The authors defend
+  orthogonality with the control-village placebo, human-capital controls,
+  individual thresholds and baseline-asset fixed effects (§IV.B–C).
+- **Transition equation.** Assets four years on as a function of
+  post-transfer assets alone, averaged over households; a continuous S and
+  a discontinuity cannot be told apart at the horizons observed (p. 15,
+  fn. 25).
+- **No credit or rental markets** for complementary inputs, supported by
+  how rarely households hold loans (Table I; p. 16).
+- **Structural model (§VI).** Occupational choice with capital taken as
+  given, a production function quadratic in capital and separable from
+  labour, baseline and year-2 choices treated as optimal; it covers the
+  64% of beneficiaries whose parameters could be calibrated.
+
+## Key results
+
+1. **The two views (p. 2).** Poverty from traits, or "a wealth threshold
+   below which people are stuck in a poverty trap, where it is their
+   initial wealth rather than their abilities or traits that keeps them in
+   poverty."
+2. **Non-concavity and the threshold (§IV, pp. 13–14).** The shape test
+   "rejects the null of global concavity with p < 0.01". The unstable
+   point is 2.333 in log assets (bootstrapped s.e. 0.014), "9,308.82 BDT"
+   (504 USD), just above the median cow value of 9,000 BDT; a cubic gives
+   2.34 (s.e. 0.284), 9,379 BDT. It "falls exactly in the low-density
+   range of the baseline distribution of assets".
+3. **Short-run divergence (p. 15; Table II col. 1, N = 3,292).**
+   Beneficiaries who "stay below the threshold despite the transfer lose
+   14% of assets over the next four years while those who are pushed past
+   the threshold grow their assets by 16%" (constant −0.138, s.e. 0.033;
+   above k̂ 0.297, s.e. 0.043).
+4. **Short by a little (p. 15).** "only about 66% of treatment households
+   are placed above by the transfer"; at the median the gap is "only
+   about 300 BDT (16 USD)", about the unit value of a plough, cart or
+   shed.
+5. **Proposed mechanism (pp. 15–16).** Indivisible complementary inputs,
+   with no rental or credit markets. Below the threshold households "do
+   not generate sufficient income to keep the cow well-fed and healthy or
+   they simply sell it because they deem the occupation unprofitable."
+6. **What is not ruled out (p. 16).** Escapers "might also be healthier or
+   experience less stress. Without additional exogenous variation in these
+   variables, we cannot know whether they are causes or consequences of
+   poverty, or both."
+7. **Thresholds vary (§IV.A, pp. 16–18).** Lower in villages with higher
+   livestock returns, for women with any schooling and for households with
+   a higher savings rate; higher for women reporting "mental anxiety that
+   hampered daily activities" (Table III notes). It is "a post-training
+   threshold" (p. 17).
+8. **Placebo in control villages (§IV.B, pp. 18–19; Table II Panel B,
+   N = 2,450).** The S "is absent", and there "higher initial asset levels
+   predict a loss of assets"; above k̂ −0.020 (0.052). In the
+   difference-in-differences, above k̂ × treatment is 0.318 (0.070),
+   N = 5,742.
+9. **Ability held fixed (§IV.C, pp. 20–21; Table III).** With individual
+   thresholds and baseline-asset fixed effects the coefficients "change
+   only marginally and, if anything, become more pronounced." The
+   calibrated parameters show "no systematic correlation between baseline
+   wealth and any of these parameters" (p. 27).
+10. **Long run (§V; Table IV, N = 15,713; above minus below, relative to
+    baseline).** Year 11: productive assets +10,708 BDT (s.e. 5,004),
+    cows +2,245 (374), land +9,775 (4,880), consumption +3,464 (1,268),
+    total hours +86 (41), self-employed hours +74 (17). Year 2:
+    consumption −2,324 (975), total hours −212 (39), self-employed hours
+    −109 (15). On consumption, "even the poorest engage in
+    forward-looking behavior" (p. 22); on hours, households above "were
+    thus not only able to sustain and expand their livestock, they were
+    also able to work more" (p. 23).
+11. **Not ineptness (p. 23).** "It was not their ineptness that
+    previously excluded them from taking up a better occupation but their
+    inability to make a large enough initial investment."
+12. **No guarantee (p. 23).** Among younger women, "almost half of those
+    who start above the threshold end up at least retaining the value of
+    the transfer in 2018 while only 30% of those below do" (Appendix
+    Figure B.9, not read).
+13. **Misallocation (§VI.C, p. 28).** Given richer women's capital, most
+    beneficiaries would optimally rear livestock rather than do wage
+    labour; the authors put 96% of the calibrated beneficiaries in the
+    wrong occupation at baseline, and value the misallocation well above
+    the cost of lifting everyone past the threshold.
+14. **Small transfers miss (§VII, pp. 30–31).** Transfers the size of
+    NREGA or microloans would "allow fewer than 20% of households to
+    escape poverty"; "Small pushes will work to elevate consumption but
+    will not free people from the poverty trap." (p. 32)
+15. **One-time pushes (§VIII, p. 32).** "The fiscal cost of permanently
+    getting people out of poverty through a large, time-limited transfer
+    might therefore actually be lower than relying on continual
+    transfers"; "one-time pushes can have permanent effects."
+16. **Baseline work (Table I).** Ultra-poor women work 990.91 hours a
+    year against 496.83 for the upper class, at 5.61 against 21.67 BDT an
+    hour. The text says "labor force participation is nearly universal
+    with rates above 80% in all wealth classes" (p. 7), but Table I's
+    in-labour-force rows read 0.74, 0.67, 0.69 and 0.71.
+
+## Concepts
+
+- **Poverty trap**: two stable steady states with an unstable one, K̂,
+  between them, or a discontinuity; the data cannot tell the two apart.
+- **Transition equation**: K_{t+1} = Φ(K_t) = s·A·f(K) + (1−δ)K, with
+  ability A and savings rate s shifting the individual threshold.
+- **Big push**: a one-off, time-limited transfer large enough to cross
+  the threshold.
+- **Occupational poverty trap**: indivisible assets gate the better
+  occupation (livestock, land), and casual-wage earnings are too low to
+  save up to them.
+- **Misallocation of talent**: people able to do the better occupation
+  kept out of it by lack of assets.
+
+## Connections
+
+- **The Kenya exit study**, Coates et al. (2016), NOTE-tmp46avq and
+  THEORY-tmpukudp: the record's nearest held evidence on what persists
+  after support is withdrawn. There, livestock activities on fees and
+  self-financed savings groups held after exit and producer associations
+  subsidised to the end declined; here support ends at
+  once and persistence turns on the asset's size. The two agree that what lasts
+  is what earns its own upkeep after the donor leaves.
+- **Ostrom, Gibson, Shivakumar & Andersson**, THEORY-tmph35ra: the
+  beneficiaries' own complementary assets decide success here, echoing
+  "contribute their own assets", but the mechanism is scale, not
+  motivation or ownership; the aid is one-off, so the Samaritan's dilemma
+  is not engaged.
+- **Azam, Devarajan & O'Connell**, THEORY-tmpkkhou: a threshold in
+  initial capacity separating a high-aid trap from graduation, at the
+  level of the state and in a model; this paper is a household-level,
+  empirical threshold in initial assets, with no aid continuing.
+- **Other works of this batch**, filed in parallel: Banerjee, Hanna,
+  Kreindler & Olken (2017) and Baird, McKenzie & Özler (2018) on transfers
+  and labour supply, which test effort responses against controls, as this
+  paper does not; Banerjee et al. (2015) on the graduation programme in six
+  countries, the same model of a big push elsewhere; and Haushofer & Fehr
+  (2014) on the psychology of poverty, the stress channel this paper
+  leaves open.
+- **NOTE-1259** (future-self continuity): tangential, on intertemporal
+  choice; the paper's finding that households above the threshold cut
+  consumption to invest bears on it.
+
+## Bearing on the record
+
+The level matters. This is households holding a private, productive,
+indivisible asset after a one-off transfer. The record's dependency
+evidence is mostly about states, projects and public assets under repeated
+or predictable aid, which this paper never tests. What carries across is
+the threshold and nucleus structure, not a behavioural finding about aid.
+
+- **CLAIM-tmpw4ai2 (ignition threshold).** Supports it at household
+  level. Earnings are A·f(K) and are reinvested, so upkeep draws on the
+  structure's own working state; below about 9,309 BDT the seed goes out,
+  above it the seed grows. Qualified: the threshold is an average and
+  individual thresholds vary; a continuous S and a discontinuity are not
+  distinguished; it is a post-training threshold; the claim's "collapses
+  rather than declines" and no-relight-after-outage parts are not tested.
+- **CLAIM-tmpc3x0c (safe withdrawal).** Supports its first condition and
+  its turnover test: a one-off support that started a process running on
+  the household's own labour and markets was withdrawn and divergence grew
+  for 11 years, and the party did the work (self-employed hours rose).
+  Cuts against its account of failure: households below the threshold fell
+  back because the seed was too small, a cart or shed short, not through
+  disuse, slack effort or selection. The claim needs a third outcome, decay
+  of a sub-threshold seed with no dependence at all. That damage "deepens
+  with its length" is not tested.
+- **CLAIM-tmpqa0qu (Samaritan's dilemma, lost capability).** The
+  mechanism is not tested: the help was one-off, not assured. The
+  presumption that support lowers the recipient's effort is contradicted
+  at household level: recipients above the threshold worked more in the
+  long run (fewer hours at year 2) and cut consumption to invest, and the
+  poorest women worked the most hours of any class at baseline. Low
+  position here is not low effort.
+- **CLAIM-tmpoh07b (supply that does the work crowds out capacity).**
+  Supports its capacity-first side: the transfer supplied a complement,
+  capital, and did none of the work. Contradicts, for this case, its
+  closing "not the amount of supply": permanence was decided by the amount
+  relative to a threshold, with a shortfall of about 300 BDT separating
+  decline from growth.
+- **CLAIM-597 (supplied upkeep).** Consistent, as its contrast case:
+  above the threshold the asset is kept up from the household's own
+  earnings; below it the asset decays after the one-time supply. Upkeep was
+  never supplied, so the claim's core is untested.
+- **CLAIM-558 (capability decays without use).** None directly.
+- **THEORY-tmph35ra.** Partly supports the ownership conditions (see
+  Connections); silent on predictable aid.
+- **QUESTION-398 (when a partial organization becomes independent of the
+  intervention that established it).** Answers it in part, close to the
+  measurement asked for: support (the asset, 40 weeks of consumption
+  support, two years of training) is withdrawn from a range of
+  intermediate states and the outcome followed for 11 years; above the
+  threshold the household no longer needs the intervention, below it
+  reverts. There is no arm in which support is kept, and the escape takes
+  years after support ends, which tells against "merely completed before
+  withdrawal".
+- Filed: THEORY-tmp5v6r5. No instruction for machine-learning practice.
+
+## Limitations
+
+- **Baseline assets, which place a household above or below the
+  threshold, were not randomized.** Only the roll-out was. The differences
+  are tiny (most households start at zero; the median gap is 300 BDT), and
+  the checks against ability are good but indirect.
+- **Health and stress are not ruled out** as mechanisms or as
+  threshold-shifters: the authors say so (p. 16), and anxiety raises the
+  threshold, which leaves a scarcity or stress channel open.
+- **A bundle, not a pure asset transfer.** Consumption support for 40
+  weeks, health support and two years of training came with the asset
+  (fn. 7); the threshold is "a post-training threshold".
+- **Crossing the threshold is no guarantee.** Fewer than half of young
+  households above it kept the transfer's value by 2018 (p. 23); a
+  self-sustaining process starts on average, not reliably.
+- **A text–table mismatch in the NBER version.** The text gives
+  participation "above 80% in all wealth classes" (p. 7); Table I shows
+  0.74, 0.67, 0.69 and 0.71. The QJE text was not read and may differ.
+- **Not measured here.** Labour supply and temptation-good spending
+  against controls (Bandiera et al. 2017); this paper compares within the
+  treated group only.
+- **Scope.** One country, one asset, women with a median age of 35, who
+  age to 46 over the panel; attrition 14%, reported balanced around the
+  threshold. The structural model covers 64% of beneficiaries and
+  extrapolates disutility to richer women's capital.
+- **The online appendix was not read.**
+
+## Open questions
+
+- Is the threshold sharp or a steep continuous S, and would a randomized
+  transfer size, rather than baseline assets, locate it?
+- How much of the escape is the asset, and how much the training and
+  consumption support?
+- Do the same thresholds appear where help is repeated or assured, the
+  case the record's dependency claims are about?
