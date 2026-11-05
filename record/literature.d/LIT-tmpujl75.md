@@ -24,7 +24,7 @@ history:
   note: >-
     Registered and read on 2026-11-05 from the owner's pasted synthesis on
     resource-bounded realizability, written by another assistant (A) and
-    pasted by the owner on 2026-11-04, which cites "complexity-theoretic
+    pasted by the owner on 2026-11-05, which cites "complexity-theoretic
     reconfiguration problems" only to "[link: ScienceDirect]", with no
     title or author. The identification of this paper as the work A meant
     is probable, not certain: it is the paper that defines reconfiguration

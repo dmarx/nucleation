@@ -1,0 +1,145 @@
+---
+status: Skimmed
+paper: 'LIT-tmp1045q'
+title: 'Botnan and Lesnick — An introduction to multiparameter persistence'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in part on 2026-11-05 from arXiv v2 (2023-03-13),
+    https://arxiv.org/pdf/2203.14289, extracted with pdftotext; the EMS
+    version was not consulted. Read alongside Vipond (LIT-tmp75waa), as an
+    open survey; not a stand-in. Read closely: §1 (overview, main themes,
+    outline); §§3.3–3.4 (stability; non-robustness); §§4.1–4.2 (the
+    difficulty of barcodes; invariants); §6.1 through Theorem 6.9
+    (interleaving distance, isometry theorem, universality, NP-hardness);
+    §8.1 and the opening of §8.2 (finite, tame and wild type; grids are
+    wild). Not read: §2 (posets, filtrations, modules), §§3.1–3.2,
+    §§4.3–4.4 (RIVET, cancer imaging), §5 (multifiltrations), §§6.2–6.5
+    (matching distance and others), §7 (presentations, resolutions), the
+    rest of §8, §9 (signed barcodes), §10 (interval decomposability). Quotes
+    checked by string match against the extracted text. Section numbers are
+    arXiv v2's.
+date: '2026-11-05'
+summary: >-
+  A survey of multiparameter persistence. For two or more parameters the
+  modules are of wild representation type, good barcodes need not exist,
+  and the rank invariant is incomplete, so practice uses incomplete
+  invariants and vectorizations. The interleaving distance extends the
+  bottleneck distance, is stable and, over prime fields, universal, but is
+  NP-hard to compute. Read: §1, §§3.3–3.4, §§4.1–4.2, §6.1 to Theorem 6.9,
+  §8.1 and the start of §8.2.
+---
+<!-- inactive-ok-file: THEORY-tmprk262 THEORY-tmpqzxwh CLAIM-tmpuk8gq CLAIM-tmpbi4ca CLAIM-555 NOTE-tmpusebl — Proposed, Skimmed or new; cited from the reading of Botnan & Lesnick (2023) as open -->
+
+# NOTE-tmp6e0rl: Botnan and Lesnick — An introduction to multiparameter persistence
+
+## Contribution
+
+A survey organizing multiparameter persistent homology into six themes
+(invariants, visualization, metrics and stability, computation and
+software, barcodes in special cases, applications), with proofs or precise
+statements of the main structural facts.
+
+## Key insight
+
+Defining barcodes is the hard part; comparing modules is not. "Perhaps
+surprisingly, though defining barcodes for MPH is problematic, we have
+well-behaved extensions of the standard metrics on barcodes to the
+multiparameter persistence modules" (§1.2).
+
+## Assumptions
+
+- Field coefficients; pointwise finite-dimensional modules, finitely
+  presented for many results; Rⁿ or Zⁿ with the product order.
+- Universality of the interleaving distance is proved for prime fields only
+  (Remark 6.8).
+
+## Key results
+
+- **Wild type** (§1.1): "multiparameter persistence modules have wild
+  representation type", and "the natural generalization of a barcode in
+  the n-parameter setting is enormously complicated, and in general far too
+  complex to work with in practice."
+- **No good barcode** (§4.1, Example 4.6), for a module on a 3 × 3 grid: "A
+  simple argument by contradiction shows that M cannot have a good
+  barcode".
+- **The rank invariant** (§4.2): "When P = N or R, the rank invariant is
+  complete, i.e., it determines the isomorphism type of M"; "However, for
+  P = N2 , the rank invariant is incomplete."
+- **Universality** (Theorem 6.7, prime fields): "Then for any other stable
+  distance d on multiparameter persistence modules, we have d ≤ dI"
+- **NP-hardness** (§1.2): "It has been shown that computing the
+  interleaving distance on n-parameter persistence module is NP-hard for
+  n ≥ 2".
+- **Classification** (§8.1): "Obtaining such a classification is thought
+  to be a hopelessly difficult task." (§8.2): "It turns out that the
+  representation type of a commutative grid is wild even for small grid
+  sizes."
+- **Applications** (§1.2): "applications of MPH are still in their
+  infancy."
+
+## Concepts
+
+- **Good barcode** (Def. 4.5); interval-decomposable module and its barcode
+  (Def. 4.4).
+- **Hilbert function, rank invariant, multigraded Betti numbers**; the
+  fibered barcode over admissible lines; the generalized rank invariant
+  (Def. 4.7).
+- **ε-interleaving and interleaving distance** (Def. 6.1); **stable
+  distance** (Def. 6.6).
+- **Finite, tame and wild representation type** (§8.1, Def. 8.7, Drozd's
+  trichotomy).
+
+## Connections
+
+Read beside Vipond (LIT-tmp75waa, NOTE-tmpusebl), the paper the pasted
+synthesis links. Of Vipond's results it restates the context: that no
+complete discrete invariant exists (here sharpened to wild type and the
+absence of good barcodes), that the interleaving distance is stable and
+NP-hard; and it names Vipond's landscapes as one vectorization, beside
+signed barcodes and others. It does not restate Vipond's definitions,
+Theorem 30, Proposition 36 or the statistical results.
+
+## Bearing on the record
+
+- **A's characterization** (Response 3, §5): "Multiparameter persistent
+  homology is a developed mathematical field, with invariants and
+  stability results, although its classification is more complicated than
+  that of one-parameter persistence." A's sentence. Accurate and
+  conservative: a complete classification is regarded as hopeless (wild
+  type), good barcodes do not exist in general, and the rank invariant is
+  incomplete. A says nothing about computation; the survey adds that the
+  natural distance is NP-hard for n ≥ 2, an obstruction for any programme
+  that would compare architectures by the distance between their
+  budget-indexed modules.
+- **A's three levels** (persistence, directed reachability,
+  resource-graded composition): the survey treats only the first, and
+  nothing in it addresses direction, consistent with A's point that
+  topology is symmetric.
+- **LIT-tmpbs8e0, NOTE-tmpwvb9j, THEORY-tmpqzxwh**: supports; the
+  multiparameter extension of the held one-parameter treatment, which marks
+  multiparameter persistence as untreated.
+- **CLAIM-tmpuk8gq** (sufficient budgets form a frontier, not a threshold):
+  supports, by analogy. *The reader's connection, not the survey's:* the
+  survey's point that multiparameter features are not intervals, and that
+  in Example 4.6 no family of regions explains the ranks, is the topological
+  counterpart of the claim's point that sufficient budgets need not reduce
+  to a threshold.
+- **CLAIM-tmpbi4ca**: the one-parameter, zero-dimensional case; nothing
+  further.
+- **CLAIM-555** (multiparameter filtrations by per-demand losses): related;
+  the survey's stability results would apply.
+- Filed: THEORY-tmprk262. No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The authors'.** The topics are "biased towards our own research
+  interests"; sheaf-theoretic viewpoints and tame infinitely presented
+  modules are not covered.
+- **A survey.** Many results are stated with references rather than
+  proved.
+- **This reading.** Most of §§2, 5, 7, 9 and 10 not read, including signed
+  barcodes and the matching distance.

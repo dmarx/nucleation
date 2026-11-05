@@ -20,7 +20,7 @@ history:
   note: >-
     Registered and read on 2026-11-05 in the filing of the owner's pasted
     synthesis on resource-bounded realizability, written by another
-    assistant (A) and pasted by the owner on 2026-11-04, as the correction
+    assistant (A) and pasted by the owner on 2026-11-05, as the correction
     of Gopalan et al. (2009), LIT-tmpxpw0i, which the lead, not A, added as
     a reading of an open question A raises; A cites neither. Citation
     checked by the reader against Crossref and the arXiv API: Konrad W.

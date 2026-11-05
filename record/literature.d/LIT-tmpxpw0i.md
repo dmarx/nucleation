@@ -23,7 +23,7 @@ history:
   note: >-
     Registered and read on 2026-11-05 in the filing of the owner's pasted
     synthesis on resource-bounded realizability, written by another
-    assistant (A) and pasted by the owner on 2026-11-04. A does not cite
+    assistant (A) and pasted by the owner on 2026-11-05. A does not cite
     this work. The lead added it, as a reading of an open question A
     raises: whether the algebra of a constraint language could predict the
     complexity of navigating its solution space. Citation checked by the

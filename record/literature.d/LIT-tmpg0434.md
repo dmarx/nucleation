@@ -25,7 +25,7 @@ history:
   note: >-
     Registered and read on 2026-11-05 from the owner's pasted synthesis on
     resource-bounded realizability, written by another assistant (A) and
-    pasted by the owner on 2026-11-04, which cites it twice to J-STAGE:
+    pasted by the owner on 2026-11-05, which cites it twice to J-STAGE:
     once by title, for results "involving NP-hardness,
     PSPACE-completeness, #P-completeness, and even undecidability", and
     once, unnamed, for "PSPACE-completeness for reconfiguration in a
