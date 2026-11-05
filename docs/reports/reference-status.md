@@ -5705,6 +5705,16 @@ Cross learning has the expected motion of the replicator dynamic and follows it 
 - [`record/claims.d/CLAIM-446.md:278`](../../record/claims.d/CLAIM-446.md)
 - [`record/claims.d/CLAIM-451.md:152`](../../record/claims.d/CLAIM-451.md)
 
+### [ADR-068](../../record/decisions.d/ADR-068.md) — Proposed
+
+Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice
+
+3 citations in 2 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-072.md:57`](../../record/decisions.d/ADR-072.md)
+- [`record/decisions.d/ADR-072.md:60`](../../record/decisions.d/ADR-072.md)
+- [`record/notes.d/NOTE-1540.md:19`](../../record/notes.d/NOTE-1540.md)
+
 ### [ARG-002](../../record/arguments.d/ARG-002.md) — Rejected
 
 Interpretive framings change a reader's state as non-commuting measurements do, so the frame participates in determining which meaning becomes actual
@@ -8272,14 +8282,6 @@ Sparse-autoencoder features of a large language model's residual stream are unit
 - [`record/questions.d/QUESTION-360.md:55`](../../record/questions.d/QUESTION-360.md)
 - [`record/terms.d/TERM-098.md:75`](../../record/terms.d/TERM-098.md)
 
-### [ADR-068](../../record/decisions.d/ADR-068.md) — Proposed
-
-Reading and filing follow a written protocol: its invariants are held in this decision, and its steps in a skill that changes with practice
-
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-1540.md:19`](../../record/notes.d/NOTE-1540.md)
-
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 
 Relativistic frames vary descriptions systematically under constrained transformations with invariants, so variations in translation are transformations between pragmatic frames preserving selected invariants
@@ -10132,7 +10134,7 @@ Perceptual constancies are invariants of transformations that act within experie
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**4 codes unaccounted for.** Not listed: 5 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**5 codes unaccounted for.** Not listed: 5 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-016 — resolves to nothing (5 unmarked sites)
@@ -10142,6 +10144,10 @@ A reference the reader cannot follow: the code names no document in this record.
 - [`record/claims.d/CLAIM-476.md:324`](../../record/claims.d/CLAIM-476.md)
 - [`record/literature.d/LIT-1652.md:90`](../../record/literature.d/LIT-1652.md)
 - [`record/notes.d/NOTE-1231.md:355`](../../record/notes.d/NOTE-1231.md)
+
+### ADR-104 — resolves to nothing (1 unmarked site)
+
+- [`record/decisions.d/ADR-072.md:35`](../../record/decisions.d/ADR-072.md)
 
 ### DP-007 — resolves to nothing (1 unmarked site)
 
