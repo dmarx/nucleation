@@ -131,6 +131,31 @@ number.
   not near ruin, so the model's survival constraint does not bind for
   them.
 
+## What the scarcity readings show
+
+The owner's reading was that deprivation adds time pressure to
+decisions. Shah, Mullainathan and Shafir's games test it most directly.
+They made time scarce in some games and shots or guesses in others. The
+claim's earlier wording left that second sense to these readings.
+- **Time pressure is one case, not the route.** In their working paper
+  (NOTE-tmp5jtai) the authors raise time pressure as a possible confound
+  of their time games. They repeat the study with a resource that has no
+  clock. In their pre-registered replications (NOTE-tmpya6ud), the
+  clockless resource, shots, gave the largest borrowing effect. Scarcity
+  of any resource made players borrow against later rounds and, in debt,
+  shrink their later budgets.
+- **What replicated, and what did not.** Over-borrowing held in the
+  authors' own replications, with smaller interactions (ηp² from .12, .09
+  and .10 to .04, .04 and .01). Their Study 1, on fatigue after scarcity,
+  failed in an independent replication (Camerer et al., NOTE-tmppfiub).
+  The authors now call it a false positive.
+- **What this does to the claim.** The model's point stands: a shallow
+  buffer is a short deadline, and short-horizon choices are then the right
+  policy. The scarcity games add that scarcity changes choices even where
+  there is no deadline. The owner's "time pressure" is therefore one
+  instance of a more general constraint, not its essence. The record has
+  now read the evidence for it only in games with small stakes.
+
 ## What it does not say
 
 - **That the poor never discount steeply.** It shows that a short
