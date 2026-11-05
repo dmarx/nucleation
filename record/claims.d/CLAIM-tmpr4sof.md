@@ -146,4 +146,4 @@ change of mechanism each time.
 
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
-The reading of Raussen (NOTE-tmpdizof), filed beside the pasted synthesis on resource-bounded realizability, supports the claim in a model of concurrent programs that share resources of given capacities. An artificial resource added to cut out doomed regions only removes states, and the spaces of directed paths to targets outside those regions are unchanged. That is the reader's reading of the model as stated. No status changes.
+The reading of Raussen ([NOTE-tmpdizof](../notes.d/NOTE-tmpdizof.md)), filed beside the pasted synthesis on resource-bounded realizability, supports the claim in a model of concurrent programs that share resources of given capacities. An artificial resource added to cut out doomed regions only removes states, and the spaces of directed paths to targets outside those regions are unchanged. That is the reader's reading of the model as stated. No status changes.
