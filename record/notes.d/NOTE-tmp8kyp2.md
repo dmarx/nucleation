@@ -1,0 +1,222 @@
+---
+status: Read
+paper: 'LIT-tmp5gf89'
+title: 'Rothemund — Folding DNA to create nanoscale shapes and patterns'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the author's own copy on the Rothemund lab
+    site at Caltech
+    (https://rothemundlab.caltech.edu/downloads/folding_dna.pdf), the
+    published 6-page Nature article; text extracted by pdftotext, whose
+    rendering of Nature's symbol font was decoded by the reader. Read in
+    full: the article, all sections and figure captions. From the lab's
+    Supplementary Notes (folding_dna_supp1.pdf, 82 pp.): S1's opening, S4
+    (methods), S5 (variations and controls), S6's and S8's openings, S7
+    (composition), S9 (why it works) and S10 (cost). Skipped: S2, S3
+    (sequences), most of S1, S6 and S8, and Supplementary Note 12
+    (sequence diagrams only). Other copies failed: the Caltech DNA group
+    server failed TLS verification, CaltechAUTHORS returned a Cloudflare
+    error, and neither was retried. Page numbers are the journal's.
+date: '2026-11-05'
+summary: >-
+  One long scaffold strand, raster-routed through a shape, is pinned by
+  about 200–250 staples designed to bind only the scaffold; one anneal of
+  about two hours folds six shapes about 100 nm across. Yields of
+  well-formed structures, judged in AFM fields, run from about 1% to 90%
+  by design. Staple excess matters only near 1:1. AFM resolves single
+  missing staples only under conditions that damage the sample. The
+  mechanism offered, strand invasion and cooperative staple binding, is
+  argued, not tested.
+---
+<!-- inactive-ok-file: THEORY-tmpzb4hv THEORY-1398 THEORY-1418 CLAIM-567 CLAIM-583 CLAIM-571 CLAIM-591 CLAIM-569 CLAIM-566 CLAIM-557 CLAIM-574 CLAIM-592 CLAIM-572 CLAIM-184 CLAIM-478 CLAIM-568 CLAIM-593 CLAIM-573 — Proposed or new; cited from the reading of Rothemund (2006) as open -->
+
+# NOTE-tmp8kyp2: Rothemund — Folding DNA to create nanoscale shapes and patterns
+
+## Contribution
+
+A design method in which the target is compatible by construction. The
+folding path, the crossover lattice and the staple set are computed from
+one geometric model, every staple binds only the scaffold, and the
+intramolecular scaffold enforces equimolarity of what the staples join.
+It removed the then-assumed needs for sequence optimization, staple
+purification and precise stoichiometry.
+
+## Key insight
+
+A long single strand does the bookkeeping. Because the scaffold is one
+molecule, every staple finds its partners at equal concentration, and
+each staple that binds organizes the scaffold for the next, "and
+precludes a large set of undesired secondary structures" (p. 302). The
+design fixes which configuration is compatible; how reliably it is
+reached is left to excess, heat and cooperativity, and is measured only
+coarsely.
+
+## Assumptions
+
+- **Geometry.** B-DNA approximated by an integer number of bases between
+  crossovers (16 bp for 1.5 turns); inter-helix gaps of 1 or 1.5 nm,
+  inferred from AFM aspect ratios.
+- **Yield.** The fraction of "well-formed" structures (no hole or
+  indentation over 15 nm) among those distinguishable in one or more AFM
+  fields stands in for yield; the sample is whatever adheres to mica.
+  Deciding which holes are defects "is a matter of judgment" (S5.1).
+- **Thermodynamics.** The folded shape is taken to be the designed
+  minimum free-energy state; no thermodynamic or kinetic measurement.
+
+## Key results
+
+- **The constraint (p. 297, Fig. 1).** The scaffold "can form a crossover
+  only at those locations where the DNA twist places it at a" tangent
+  point between helices, so successive scaffold crossovers are an odd
+  number of half turns apart when the scaffold progresses and an even
+  number when it reverses. Resolution is within one turn (3.6 nm) along
+  the helices and 6 or 7 nm across them.
+- **Same shape, different staple sets (p. 299).** Staples are merged
+  across nicks for specificity and binding energy; "All merge patterns
+  create the same shape". No yield is compared between merge patterns.
+- **Protocol (p. 299; S4.1).** A 100-fold staple excess, typically
+  160 nM of each staple and 1.6 nM scaffold, in TAE with 12.5 mM
+  magnesium acetate, annealed from 95 °C to 20 °C in about two hours. No
+  folding or melting temperature, isothermal folding, hysteresis, gel or
+  kinetics is reported.
+- **Yields by design (pp. 300–302).** Square 13% of 45; bridged rectangle
+  90% of 40; the unbridged rectangle "kept 65% of structures" of 40
+  well-formed, the rest dislocated at the seam; star 11% of 70 on a
+  linear scaffold, 63% of 43 on a circular one; three-hole disk 70% of
+  90; equiangular triangle of rectangles about 1% of 199; sharp triangle
+  88% bridged, 55% unbridged; hexagons about 2%. For rigid designs on
+  circular scaffold, yields of well-formed structures were at least 70%.
+- **Misfolds (S5.1, S5.10, Fig. 2d).** Disks with the "upper lip" flipped
+  onto the "nose" or the "jaw" dislocated; unbridged sharp triangles
+  folding back into trapezoids; squares that "stretched upon deposition or
+  interaction with the AFM tip" into hourglasses. Whether these arise in
+  folding or deposition is not settled.
+- **Staple excess (p. 301; S5.4; S10).** "When staple excesses of
+  approximately 100:1 and 9:1 were used, the frequencies of 5–10-nm holes
+  (a few per rectangle) were indistinguishable"; at 1.5:1 holes up to
+  about a tenth of the area; at 1:1 about 1% of structures were
+  rectangular. "a vast excess of staple strands should not be seen as a
+  fundamental requirement" (S5.4), and "excess staple strands might be
+  recycled" after folding (S10; untested).
+- **Composition by temperature (S7).** Ideally triangles form at high
+  temperature and inter-triangle bonds only much lower; bonds that form
+  while triangles are still "partially melted, disordered and floppy"
+  give poor structures. Two bridges were too weak and sixteen too strong.
+  "These experiments are preliminary".
+- **Why it works, proposed (p. 302; S9).** Strand invasion, staple
+  excess, cooperativity, and design "that intentionally does not rely on
+  binding between staples"; staples gain a toehold and displace scaffold
+  secondary structure by branch migration.
+- **What AFM tells apart (p. 301; S4.2; S5.5; S5.8).** Single missing
+  staples show as 5–10-nm holes only with sharp tips and hard tapping, and
+  "repeated scanning created holes difficult to distinguish from holes
+  due to missing strands"; "Roughly 1 in 5 tips were sufficiently sharp"
+  (S5.5). 94% of labelled pixels were seen; "Whether missing pixels
+  represent real defects or artefacts of imaging is unknown", and some
+  pixels converted irreversibly, "suggesting tip-induced damage". Of a
+  2.3-fold against a higher excess: "I am not sure they are
+  distinguishable". Of a scaffold clone with 23 mismatches:
+  "Qualitatively, no differences were observed".
+- **Cost (p. 302; S10).** About a week to design and a week to
+  synthesize each structure, a few hours to fold, about two days of AFM;
+  the scaffold is 80% of the cost. "the method cannot be scaled up
+  arbitrarily" because each site needs unique sequence.
+
+## Concepts
+
+- **Scaffold and staple**: the long strand routed through the shape, and
+  the short strands that each join two or three distant scaffold
+  segments.
+- **Periodic and scaffold crossovers**: where staples, and where the
+  scaffold itself, pass between adjacent helices.
+- **Seam, bridged or unbridged**: the line where two halves of a raster
+  meet, with or without staples spanning it.
+- **Merge pattern**: which adjacent staple segments are joined into one
+  strand; many give one shape.
+- **Well-formed**: no defect larger than 15 nm in the expected outline.
+- **Pixel**: a staple carrying a hairpin ("1") or not ("0").
+
+## Connections
+
+It builds on Seeman's crossover lattices and on earlier scaffolded
+assemblies. It is the precursor of the held DeLuca et al. simulation
+(LIT-2081, NOTE-1561, THEORY-1398): the proposed cooperativity is the
+mechanism they simulate, and the flipped, dislocated and folded-in
+misfolds may be global topological traps of their kind, which this paper
+cannot tell from deposition artefacts. Later work in this batch measures
+what Rothemund did not: the constant-temperature folding window and
+hysteresis (Sobczak et al. 2012, read through Sobczak's dissertation) and
+the staple-level completeness that imaging misses (Wagenbauer, Wachauf
+and Dietz 2014). The folded-in trapezoids are the molecular analogue of
+the distractor branches of a crease pattern designed with one intended
+fold (THEORY-1418).
+
+## Bearing on the record
+
+- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports, with
+  a caveat. Every design is feasible by construction, yet reliability
+  runs from about 1% to 90%. The yields mix folding with deposition and
+  tip damage, so they bound reliability loosely.
+- **CLAIM-583 (same complex, different reachability).** Qualifies and
+  leaves open. All merge patterns give the same shape, but no yields
+  compare them. The bridged and unbridged comparisons add or remove
+  constraints, and the linear and circular stars differ by scaffold
+  breakage, so none holds the complex fixed.
+- **CLAIM-571 (threshold need not equal the holding requirement).**
+  Leaves open. The anneal passes through a fully melted 95 °C on the way
+  to a target held at 20 °C, but no folding or melting temperature is
+  measured.
+- **CLAIM-569 (construct, maintain, transition).** Supports as a
+  suggestion: staple excess is needed to build, and might be recycled
+  after folding, so perhaps not needed to hold. Untested.
+- **CLAIM-566 (assemble, persist, regenerate).** Consistent: folded
+  structures persist in buffer through imaging, and tip damage is not
+  repaired. Nothing on regeneration.
+- **CLAIM-591 (directed costs).** Weak: tip damage converts pixels
+  irreversibly; nothing on costs back.
+- **CLAIM-557, CLAIM-574, CLAIM-592 (observing budgets refine).** An
+  instance where the observing probe also acts: harder tapping resolves
+  more and damages the sample, so a larger observing budget can
+  manufacture distinctions as well as reveal them. That qualifies the
+  applicability of CLAIM-574, whose probes are non-invasive. Which
+  defects are seen depends on scan order, but no costed probe family is
+  set out.
+- **CLAIM-572 (one shared budget).** Related but outside its scope: one
+  knob, tapping force, serves observation and acts destructively, the
+  converse of the acting-that-informs case the claim sets aside.
+- **CLAIM-184 (anchors entrench) and CLAIM-478 (scale separation makes
+  constraints).** Weakly, by conjecture (S7): coupling formed before the
+  parts are rigid gives poor structures, and a temperature hierarchy is
+  wanted so that formed parts act as rigid units. Preliminary.
+- **QUESTION-380 (small compatible nucleus).** Bears: cooperative staple
+  addition is a small compatible subsystem biasing global order
+  (proposed only); a one-third square forms alone with the rest of the
+  scaffold unfolded (S5.3). No measurement of where nucleation starts.
+- **QUESTION-374 (two budgets).** Bears: observing and acting draw on one
+  resource, tip-sample force, and tip quality as much as budget decides
+  resolution.
+- **Missed by the first search.** CLAIM-568 (four ways a transition
+  fails): staple starvation and scaffold breakage are failure kinds the
+  paper separates by remedy. QUESTION-373 (who supplies the resource):
+  the designer and the thermal cycler supply heat and excess from
+  outside. CLAIM-593 (isomorphism is not persistence): two scaffold
+  clones give AFM-indistinguishable rectangles. CLAIM-573 and
+  QUESTION-385 (substrates): a molecular substrate beside the record's
+  rigid-origami entries.
+- Filed: THEORY-tmpzb4hv. No instruction for machine-learning practice.
+
+## Limitations
+
+- Yield is a judged AFM-field fraction with small counts (22 to 319) and
+  a 15-nm threshold; it conflates folding, deposition and imaging damage.
+  No gel, TEM or thermal characterization.
+- No folding kinetics, temperatures, melting curves, isothermal
+  conditions or magnesium variation.
+- The stoichiometry experiments are, by the author's account, too rough
+  for precise conclusions.
+- The mechanism is argument; the composition results are preliminary.
+- No reconfiguration of a folded structure; strand displacement appears
+  only as a proposed folding mechanism.

@@ -1,0 +1,108 @@
+---
+status: Active
+status_note: >-
+  read in part 2026-11-05 (NOTE-tmpwxm2p) from the TU München
+  institutional repository mediaTUM: the summary, folding background, all
+  of Chapter 3 (the experiments) and the design-test sections of Chapter
+  5, with the model derivation and the methods skipped and figures seen
+  only through their legends; worth reading as the stand-in for Sobczak,
+  Martin, Gerling and Dietz (2012), LIT-tmpg98v0, and for its measurement
+  of where on the temperature axis origami folds: a window of about 5 °C,
+  constant-temperature folding within it, melting 5–10 °C higher and in
+  seconds, and more than 100-fold differences in folding time between
+  routings of one shape. Its main limits: a thesis, not peer reviewed as
+  a whole; mostly one brick family; gel-band yields with a cutoff; the
+  arrested-state result is simulation plus lab lore; which of its numbers
+  appear in the 2012 paper is not known.
+title: 'Investigations of the DNA origami folding process'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to connect
+    the record's realizability inquiry to DNA origami (works chosen by the
+    assistant), as a stand-in for the unread Sobczak, Martin, Gerling and
+    Dietz (2012), LIT-tmpg98v0, whose full text was not reached. Found by
+    web search; no Crossref or OpenAlex record, no DOI and no arXiv id.
+    The data are from the mediaTUM record and the thesis's front matter:
+    Jean-Philippe Sobczak, dissertation, Fakultät für Physik, Technische
+    Universität München, 172 pp., supervised by Hendrik Dietz, examiners
+    Matthias Rief and Jan Lipfert; German title, by the reader's
+    account of the repository record, Untersuchungen des
+    DNA-Origami-Faltungsprozesses; URN
+    urn:nbn:de:bvb:91-diss-20180320-1415627-1-2. Submitted 19 December
+    2017, accepted 5 March 2018, oral examination 16 March 2018; the URN
+    carries 20 March 2018, the deposit that made it public, which is
+    `published:` (a submitted thesis is not yet published, so the
+    submission date is not used). Read from the repository's PDF
+    (https://mediatum.ub.tum.de/download/1415627/1415627.pdf). Status
+    Active.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-05'
+published: '2018-03-20'
+url: 'https://mediatum.ub.tum.de/1415627'
+first_author: 'Sobczak'
+keywords:
+- 'DNA origami'
+- 'folding process'
+- 'isothermal folding'
+- 'hysteresis'
+- 'cooperativity'
+- 'kinetic model'
+implementations: []
+summary: >-
+  Sobczak (2018), a TU München dissertation from Hendrik Dietz's group.
+  Gel and SYBR Green assays on a brick, a plate and a gear show 3D origami
+  folding cooperatively in a narrow window of about 5 °C, foldable at a
+  constant temperature within it: the brick mostly folds in 2 h at 50 °C
+  and not at all in 48 h at 56 °C. Melting comes 5–10 °C higher and within
+  seconds. Cooperativity spans structurally connected subdomains; staple
+  concentration raises the folding temperature and rate; three routings
+  of one brick shape differ in folding time by more than 100-fold. A
+  domain-level kinetic model blames spurious short "random match" binding
+  for low-temperature inhibition, and its predictions were then confirmed
+  in new designs.
+---
+<!-- inactive-ok-file: NOTE-tmpwxm2p THEORY-tmp500wn LIT-tmpg98v0 THEORY-1398 — Skimmed, Proposed, Unavailable or new; cited from the reading of Sobczak (2018) as open -->
+
+# LIT-tmpwddcn: Investigations of the DNA origami folding process
+
+Sobczak, J.-P. (2018). *Investigations of the DNA origami folding process*. Doctoral dissertation, Fakultät für Physik, Technische Universität München. https://mediatum.ub.tum.de/1415627.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpwxm2p. Page numbers are the thesis's.*
+
+- **A narrow window.** "the transition seems to occur in an extremely
+  narrow temperature range of only a few degrees" (§3.3, p. 20), far
+  narrower than the predicted staple and domain melting temperatures, which
+  "implies a strong cooperativity" (p. 22).
+- **Constant temperature.** At 50 °C "most of the origamis are fully
+  folded after just 2 hours"; 6 °C higher, a sample showed "absolutely no
+  folded origamis even after 48 hours" (§3.3, p. 25).
+- **Hysteresis.** "We observe a significant hysteresis" of 5–10 °C
+  between folding and unfolding (p. 22); unfolding takes seconds, folding
+  minutes to hours (§3.5, p. 31).
+- **Routing sets the rate.** Three routings of one brick show "more than
+  two orders of magnitude of variation between the mean folding times"
+  (§3.7, p. 36); "The final structure stability is not predictive of the
+  folding rate on its own" (p. 38).
+- **Traps are many wrong states.** "the system gets lost in a sea of
+  easily accessible incorrect states" (§5.3, p. 104).
+
+## Standing in the record
+
+Registered as a stand-in for Sobczak, Martin, Gerling and Dietz (2012),
+LIT-tmpg98v0, whose full text was not reached. Its Chapter 3 restates
+that paper's programme; its Chapters 4 and 5 are later work. It is also a
+work in its own right: the clearest measurement in the record of a
+temperature band in which a folded structure persists but does not form,
+which bears on the record's distinctions between constructing and
+holding a form and between reaching and reliably reaching it. Its model
+attributes traps to many accessible incorrect states rather than to the
+global topological traps of the held simulation reading (THEORY-1398).
+Filed from it: THEORY-tmp500wn. No instruction for machine-learning
+practice; nothing for the anthology.

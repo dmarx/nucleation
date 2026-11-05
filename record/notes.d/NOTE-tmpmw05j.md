@@ -1,0 +1,203 @@
+---
+status: Read
+paper: 'LIT-tmpduceb'
+title: 'Wagenbauer, Wachauf and Dietz — Quantifying quality in DNA self-assembly'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the publisher's open-access HTML
+    (https://www.nature.com/articles/ncomms4691), CC BY 3.0 by Crossref's
+    licence record, converted to text, with the publisher's
+    Supplementary Information PDF (16.5 MB) extracted by pdftotext. Read
+    in full: abstract, introduction, the three Results sections,
+    discussion, methods and the main figure captions; from the
+    Supplementary Information, the captions of Supplementary Figures 1–36
+    and Supplementary Note 1 (probe design). Skipped: the reference list,
+    the sequence tables and staple layouts. Figure panels were not read
+    as images, so the per-object numbers of Fig. 2d are known only as far
+    as the text gives them. Also in PMC (PMC3997801), not fetched.
+date: '2026-11-05'
+summary: >-
+  Negative-stain TEM averages and gel mobility cannot tell a 42-helix
+  bundle with all its staples from one missing 5 or 15 of 207. A
+  fluorescent de Bruijn probe for unpaired bases, read on a cold gel and
+  calibrated by deliberate omissions, can, and it finds 1.2 to 6.2 staple
+  equivalents missing in complete reactions by design. Used on folding
+  protocols, it finds a design-dependent isothermal optimum and a short
+  stepped schedule matching a 16-hour ramp that hours at one temperature
+  do not.
+---
+<!-- inactive-ok-file: THEORY-tmp8ofc7 THEORY-1398 LIT-tmpg98v0 NOTE-tmpwxm2p CLAIM-567 CLAIM-583 CLAIM-571 CLAIM-581 CLAIM-569 CLAIM-566 CLAIM-557 CLAIM-574 CLAIM-570 CLAIM-592 CLAIM-572 CLAIM-478 LIT-1030 — Proposed, Unavailable, Unfetched, Skimmed or new; cited from the reading of Wagenbauer, Wachauf and Dietz (2014) as open -->
+
+# NOTE-tmpmw05j: Wagenbauer, Wachauf and Dietz — Quantifying quality in DNA self-assembly
+
+## Contribution
+
+A measurement that splits states the standard probes merge. The paired
+and unpaired composition of multilayer origami is measured as an
+ensemble average, down to about one or two staple equivalents per
+object, at the cost of one extra incubation and an ice-cold gel. It does
+not measure shape, misfolds that leave every base paired, or how defects
+are spread across particles.
+
+## Key insight
+
+Whether a sample "assembled" depends on the probe. The routine probes
+average over particles or read only overall mobility, so a missing staple
+here and another there leaves no trace in either; a probe that binds the
+missing material directly sees it, cheaply. What a cheap probe sees and
+what an expensive one sees are different partitions, not a coarse and a
+fine version of one.
+
+## Assumptions
+
+- **Target.** The designed object minimizes unpaired bases, so any
+  excess is incomplete assembly (Introduction).
+- **Calibration.** "one-to-one relationship between the number of bases
+  in omitted strands and the number of unpaired DNA bases"; they grant
+  that omitting a strand "could potentially inhibit the incorporation of
+  other strands" and argue against it from the linearity (Results).
+  Extrapolation to zero takes the complete sample to lie on the same line.
+- **Probe.** It samples sequence contexts evenly, though an AT/GC bias "is
+  unfortunately unavoidable" (Supplementary Note 1).
+- **Scope.** Only the gel's folded band is measured; aggregates in the
+  pocket and other bands are outside the number.
+
+## Key results
+
+- **TEM merges (Results; Fig. 1b; Supplementary Figs 4–9).** With 250
+  particles averaged per sample, "no difference could be discerned
+  between the pseudo-defective variants and the putative non-defective
+  variant"; "All variants might be judged as high-quality assembly
+  products".
+- **Cryo-EM, stated (Results).** "A more sophisticated analysis of cryo-EM
+  data might be able to resolve site-specific defects, but it will be
+  blind to stochastically distributed defects".
+- **The gel channel splits (Fig. 1c; Supplementary Fig. 19).** The label
+  "does not affect the electrophoretic mobility", yet "the defect label
+  did capture the differences in composition".
+- **Operating cost (Fig. 1g; Methods; Supplementary Figs 15–16).**
+  Apparent affinity in the micromolar range; 8 μM probe on about 25 nM
+  objects for 1–2 h at room temperature; detectable only with the gel run
+  in an ice-water bath, about 3.5 h at 90 V.
+- **Calibration (Fig. 2c).** Brightness rises fairly linearly up to about
+  500 unpaired bases for 6-, 8-, 10-, 12- and 42-helix bundles, with
+  slopes that differ between objects, so values compare only within one
+  object's titration and one gel.
+- **Remaining defects (Fig. 2c,d).** In complete reactions they "ranged
+  from 44 to 263 unpaired bases (in a background of 7,560 planned dsDNA
+  bases per object)", 1.2 strands of 207 for the 42-helix bundle and 6.2
+  of 184 for the 8-helix bundle; quality "above 99% for the 42-helix
+  bundle and 96.5% for the 8-helix bundle". The errors given are fit
+  errors only.
+- **Floor (Supplementary Figs 17–18).** An enzymatic plasmid gives about
+  10 unpaired bases, "the upper limit of quality that may be detectable
+  with our assay due to artefactual background labelling"; a nicked
+  control gives 15 to 70 bases depending on the background correction.
+  The best object sits near the floor.
+- **Interior defects (Supplementary Figs 31–32)** are labelled too,
+  presumably owing to "the porous nature of the DNA objects".
+- **The cheaper probe hid a ranking (Results, "Refining").** Isothermal
+  folding had been judged by mobility and TEM alone, "which may not have
+  resolved subtle differences". In a 2 h screen after a 65 °C heat shock,
+  the best yield (band brightness) and quality came at 52 °C (Fig. 3a,b).
+- **Different routing, different optimum (Supplementary Fig. 35).** "The
+  other 42-helix bundle variant folded best at 48 °C", a variant
+  "that differed in its topology of chain connectivity".
+- **Schedule (Fig. 3c,d; Supplementary Fig. 34).** At 52 °C the defect
+  signal fell subtly over hours, "but it did not reach the slightly lower
+  level" of a 16 h ramp from 60 °C to 44 °C, a gap of two to three
+  staples of 207. A three-step 1.5 h protocol (30 min each at 52, 45 and
+  25 °C) gave quality "comparable to that obtained from 16-h long
+  annealing".
+- **Conditions (Methods).** 50 nM scaffold, 200 nM each staple, 20 mM
+  MgCl2, 5 mM NaCl; excess and cations were not varied.
+
+## Concepts
+
+- **Pseudo-defect titration**: calibrating a probe by omitting known
+  components.
+- **Folding quality**: formed base pairs over designed base pairs.
+- **De Bruijn probe**: a minimal sequence carrying every k-mer once, so
+  one reagent samples every short unpaired site; order 3 here.
+- **Ensemble composition against particle shape**: what the label reads
+  and what imaging reads.
+
+## Connections
+
+The constant-temperature folding it refines is that of Sobczak et al.
+(2012), LIT-tmpg98v0, from the same group and read here through
+Sobczak's dissertation (NOTE-tmpwxm2p); this paper finds the isothermal
+product slightly less complete than the ramp's, which the earlier gel and
+TEM judgments could not see. It adds to the held DeLuca et al. simulation
+(LIT-2081, NOTE-1561, THEORY-1398) ensemble-level evidence that the
+residual defect depends on design and schedule, without a mechanism. Its
+point that imaging misses staple-level defects in 3D objects complements
+Rothemund's (2006) account of AFM, which resolves single missing staples
+in flat ones only at the cost of damaging them.
+
+## Bearing on the record
+
+- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports, on
+  the observing side: a sample judged high-quality still lacks one to six
+  staples per object, so whether the target is reached depends on the
+  probe; isothermal folding at 52 °C reaches the shape but not the ramp's
+  completeness.
+- **CLAIM-583 (same complex, different reachability).** Qualifies only:
+  the two 42-helix variants differ in scaffold connectivity, so they are
+  a same-target, different-architecture case, with optima at 52 and
+  48 °C.
+- **CLAIM-571 (threshold need not equal the holding requirement).** Weak:
+  products are made through a 65 °C heat shock and folding at 44–60 °C
+  and stored cold; holding and melting are not measured.
+- **CLAIM-581 (peak against additive costs).** Qualifies: hours at a fixed
+  52 °C do not buy what a temperature sequence buys, and 1.5 h of steps
+  equals a 16 h ramp, so the resource is neither total time nor one peak
+  temperature but the path through temperature.
+- **CLAIM-569 (construct, maintain, transition).** Supports the
+  construct-maintain split loosely; nothing on maintenance is measured.
+- **CLAIM-566 (assemble, persist, regenerate).** Sharpens its first term:
+  whether something assembled depends on the probe.
+- **CLAIM-557 and CLAIM-574 (observing budgets refine).** Direct support
+  with an empirical chain: gel mobility and TEM averages merge 0, 5 and
+  15 missing staples; the label splits them down to a floor of about 10
+  bases. But the chain is not nested by cost: cryo-EM costs far more,
+  would split shared site-specific defects, and is said to merge the
+  stochastic ones the cheap label splits.
+- **CLAIM-592 (agreement depends on probe cost order).** Supports in
+  kind: the cheap and the expensive probe split along different axes, so
+  which distinctions come first depends on which probe is cheap.
+- **CLAIM-570 (the frontier).** None directly; it offers a concrete pair
+  of partitions, by composition and by shape.
+- **CLAIM-572 (one shared budget).** An informal instance: spending on
+  the assay is what let the folding be cut from 16 h to 1.5 h at matched
+  quality. The paper does not frame it as a trade.
+- **CLAIM-478 (scale separation makes constraints).** None directly; the
+  stepped protocol is consistent with stages settling at different
+  temperatures, which the paper does not say.
+- **QUESTION-374 (two budgets).** Bears on its observing half with a
+  worked probe chain, and on the shared part as under CLAIM-572.
+- **Missed by the first search.** CLAIM-079 (stability does not entail
+  viability): adjacent; a stable, correctly shaped product can be
+  compositionally incomplete. LIT-1030 (experimental probes of
+  self-maintenance): the same theme of which probe certifies a property.
+  THEORY-136 (an abrupt change is not evidence of alternative stable
+  states): kin in method, a cheap observable that fails to discriminate.
+- Filed: THEORY-tmp8ofc7. No instruction for machine-learning practice.
+
+## Limitations
+
+- An ensemble measurement of one gel band; no per-particle distribution;
+  aggregates and other bands excluded.
+- Calibration rests on the one-to-one assumption and linear
+  extrapolation; errors are minimum fit errors; comparison across gels is
+  ruled out by the authors.
+- A background floor of about 10 bases, near the best object's 44; the
+  nicked control's spread shows background correction alone moves
+  results severalfold.
+- Probe sequence bias, conceded.
+- Five rod-like multilayer bundles on one scaffold; only temperature and
+  time varied; no melting curves or hysteresis; yield is band brightness
+  without numbers.
