@@ -1,0 +1,237 @@
+---
+status: Read
+paper: 'LIT-tmpcs39o'
+title: 'Banerjee et al. — The Graduation program in six countries'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the publisher's typeset PDF posted by
+    the MIT Economics department
+    (https://economics.mit.edu/sites/default/files/2022-08/science.1260799.pdf),
+    18 pages, stamped "Downloaded from https://www.science.org at
+    Massachusetts Institute of Technology on August 11, 2022"; text
+    extracted to plain text. Read: the one-page summary (p. 772) and the
+    article (pp. 1260799-1 to -16), with its tables and figures. Not read:
+    the supplementary materials, tables S1–S6 (among them S2e on time use
+    and S1f on attrition); figures the paper attributes to them are taken
+    from the main text. Pages below are the article's, written -n for
+    1260799-n.
+date: '2026-11-05'
+summary: >-
+  Six RCTs of BRAC's Graduation program (10,495 of the poorest households in
+  Ethiopia, Ghana, Honduras, India, Pakistan and Peru): a one-time asset,
+  4–13 months of consumption support, training, coaching visits, savings and
+  health services over about two years. One year after all support ended,
+  8 of 10 pooled indices were still significant, with no mean reversion in
+  consumption, food security or assets; adults worked 17.5 and then 11.2
+  minutes a day more; benefits exceeded costs at five of six sites. The
+  authors read durability as support for a poverty trap but keep open a
+  "poverty flat" of persistence without take-off.
+---
+<!-- inactive-ok-file: THEORY-tmpmcnzn CLAIM-tmpc3x0c CLAIM-tmpqa0qu CLAIM-tmpoh07b CLAIM-tmpw4ai2 CLAIM-597 THEORY-tmph35ra THEORY-tmpkkhou THEORY-tmpukudp — Proposed or new; cited from the reading of Banerjee et al. (2015) as open -->
+
+# NOTE-tmpl3nvb: Banerjee et al. — The Graduation program in six countries
+
+## Contribution
+
+The first multi-site, multi-implementer randomized evaluation of one
+household "big push" package, followed one year past the end of all support.
+Its question is external validity, the "sufficiency" claim: "Is the
+Graduation approach effective and cost-effective" in different contexts. It
+is not a study of mechanism: "Whether all the ingredients of the program are
+individually necessary is not tackled here" (p. -2).
+
+## Key insight
+
+A time-limited bundle that gives the poorest households capital and a
+consumption floor, and leaves the work to them, raised what they consumed,
+owned, earned and how much they worked, and most of it held a year after the
+support stopped. Support of this kind did not produce slack effort. Whether
+it moved households over a threshold is, by the authors' own argument, not
+shown.
+
+## Assumptions
+
+- **The program** (pp. -1, -2): a "big push" given "over a limited period of time,
+  with the hope of unlocking a poverty trap": a productive asset, usually
+  livestock worth "four to eight goats at local prices", chosen by the
+  household "from a list"; consumption support for "between 4 and 13
+  months", to stabilize consumption and "to reduce incentives to sell (or eat
+  up) the productive assets"; training; home visits "to provide
+  accountability"; savings; health education or services. Cost on average
+  about 100% of baseline household consumption (range 62–145%).
+- **Timing**: endline 1 at the end of the program, about two years in;
+  endline 2 a year after all activities ended, about three years after the
+  asset transfer.
+- **One treatment**: the package is evaluated as a whole; no component is
+  separately identified.
+- **Measurement**: survey-based consumption and income, standardized indices
+  pooled across sites; the authors note they measure "imperfectly some
+  informal assets or liabilities".
+- **Spillovers** assumed negligible, tested in Ghana, Honduras and Peru only.
+- **Cost-benefit** assumes "year 3 gains persist in perpetuity", with
+  sensitivity checks.
+
+## Key results
+
+- **Pooled indices** (Table 3, p. -8; SD, standard errors in parentheses):
+  consumption 0.122 (0.023) at endline 1 and 0.120 (0.024) at endline 2;
+  food security 0.107 and 0.113; assets 0.258 and 0.249; income and revenues
+  0.383 and 0.273; total time working 0.090 and 0.054; mental health 0.099
+  and 0.071. Physical health (0.029) and women's empowerment (0.022) were not
+  significant at endline 2. Eight of ten indices stayed significant.
+- **No mean reversion** (p. -8): "It is striking that there is no evidence of
+  mean reversion in the per capita consumption, food security, or assets."
+- **Labour supply rises** (p. -8): "Adult labor supply increases by 17.5 min
+  per adult per day (10.4% increase over control households) at endline 1,
+  and 11.2 min (6.1% increase) at endline 2", "concentrated on livestock and
+  agricultural activities".
+- **Income after the program** (p. -8): "All of the gains to income and
+  revenue persist 1 year after the end of the program"; livestock revenue
+  41.6% above control at endline 1, 37.5% at endline 2.
+- **Savings without a requirement** (p. -8): "continued savings was not
+  required after the program, and the increase in net savings is still
+  large", about PPP US$75 at endline 2.
+- **Assets** (pp. -8, -12): "households have drawn down part of the asset
+  transfer in the first year, but there is no further decline"; the asset
+  gain is below the transfer's value everywhere except Ethiopia.
+- **Honduras faded** (p. -10): "a large fraction of the chickens died due to
+  illness", and by endline 2 households "had lost most of their productive
+  asset" and were not consuming more.
+- **India diversified** (p. -10): non-farm, non-livestock income rose by
+  endline 2; "None of these were promoted through the program".
+- **Ethiopia** (p. -10): the controls also had the PSNP safety net, yet the
+  site had the "strongest positive results across the board", which "tells
+  us that the consumption support on its own is not responsible for the
+  entire impact".
+- **Distribution** (Table 5, p. -12): gains at every quantile tested,
+  growing with the quantile (consumption +0.027 SD at the 10th percentile,
+  +0.491 SD at the 90th, endline 1).
+- **Cost-benefit** (p. -13): benefits exceed costs except in Honduras,
+  "ranging from 133% in Ghana to 433% in India".
+- **The authors' trap account and its tension** (p. -14): "The fact that the
+  effects of the program seem durable supports the interpretation that the
+  program unlocked a poverty trap. Nevertheless, the average effects are not
+  very large". Four resolutions: a "poverty flat", "a world in which small
+  changes persist but neither unleash continued improvement" nor dissipate;
+  a small trap inside a bigger one; heterogeneity, "Those who are closer to
+  the edge of the trap will exit, but the rest will just slowly fall back
+  in", for which the quantile pattern "lends some support"; heterogeneity in
+  patience or returns, where "we do not find strong evidence for this kind of
+  heterogeneity".
+- **Mechanisms weighed, not tested** (p. -14): "nutrition cannot be the whole
+  story, although it may well be a part"; microcredit trials show no
+  consumption gain, "suggesting that credit alone is not the explanation";
+  and, speculatively, "Perhaps this program worked by making the
+  beneficiaries feel that they mattered".
+- **Evidence quality** (pp. -7, -9): "We resurveyed 94% of baseline
+  respondents in endline 1, and 91% in endline 2", attrition not
+  differential; in India "52% of those selected in the randomization
+  participated", so estimates are ITT; equality of effects across sites is
+  "rejected for almost all pooled outcomes".
+- **Open** (p. -15): "How long will these results persist? This will not be
+  known until some participants are followed for a longer period of time".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The package raised consumption, food security, assets and income of the poorest households, and most gains held a year after support ended | strong: six RCTs, ~91% retention, pooled and by site | Table 3, p. -8 |
+| C2 | Adults worked more during the program and a year after it | moderate to strong: pooled index significant at both endlines; CIs in an unread table | p. -8 |
+| C3 | Benefits exceed costs at five of six sites | moderate: assumes year-3 gains persist | p. -13 |
+| C4 | The program unlocked a poverty trap | weak, by the authors' own account: durable but modest effects also fit a poverty flat | p. -14 |
+
+## Concepts
+
+- **Big push**: a one-time, time-limited infusion meant to move a household
+  onto a different trajectory.
+- **Poverty trap**: constraints and incentives that make a small improvement
+  dissipate, so that only a large push starts a virtuous cycle.
+- **Poverty flat**: persistence of small changes with neither take-off nor
+  decay; the authors' alternative to a trap.
+- **Sufficiency, not necessity**: the study asks whether the bundle works,
+  not which parts are needed.
+
+## Connections
+
+The ten-year follow-up of the India site is Banerjee, Duflo & Sharma (2021),
+LIT-tmpit9mn, read in NOTE-tmpicnhp. In this batch, Haushofer & Fehr (2014)
+give the psychological account of poverty that the authors' speculative
+mechanism gestures at; Balboni et al. (2022) read the Bangladesh version for
+a threshold; Baird, McKenzie & Özler (2018) and Banerjee, Hanna, Kreindler &
+Olken (2017) review labour-supply responses to transfers. On the record's
+aid side, THEORY-tmpukudp (three Kenyan projects followed after exit) is the
+nearest case of benefits judged after the provider left; THEORY-tmph35ra
+(Ostrom et al.) and THEORY-tmpkkhou (Azam et al.) are the state-level
+dependency accounts.
+
+## Bearing on the record
+
+Dated notes on the claims below are for the lead to add; none are written
+here.
+
+- **CLAIM-tmpc3x0c (synthesis)**: supports, with a household-level case
+  meeting its three conditions: the asset starts a self-sustaining process
+  (livestock, then diversification); the support stands in for no threat that
+  persists; the household did the work, with coaching "to provide
+  accountability". Honduras, where the asset died and gains faded, is the
+  predicted failure of the first condition. It qualifies the claim's
+  slack-effort route: under time-limited support effort rose. One year past
+  exit is short of the claim's "full turnover"; LIT-tmpit9mn goes further.
+- **CLAIM-tmpqa0qu (Samaritan's dilemma; capability lost under reliable
+  supply)**: contradicts the household reading. Recipients worked more during
+  and after support and kept saving once saving was no longer required. It
+  does not refute the game: this help was announced as temporary, so the
+  premise of assured, repeated help is absent. Weak, non-experimental hint
+  from Ethiopia: controls with a standing safety net did not stop the push
+  from having its largest effects there.
+- **CLAIM-tmpoh07b (support that does the work crowds out capacity)**:
+  consistent with its favourable branch, supply covering what the household
+  cannot yet do (capital, a consumption floor) while the household does the
+  work; no test of the substitution branch, and a transfer from households to
+  organizations by analogy only.
+- **CLAIM-tmpw4ai2 (thresholds)**: qualifies. The authors frame the program
+  as crossing a trap threshold, find "some support" in the quantile gradient
+  and not "strong evidence" in asset ratios, and keep a no-threshold poverty
+  flat open.
+- **CLAIM-597**: no direct bearing; the household makes its own parts.
+- **THEORY-tmph35ra (Ostrom et al.)**: cuts against extending it to
+  households, not its state-level case: transferred assets were kept and
+  grown after support ended, with partial ownership (the household chose the
+  asset "from a list").
+- **QUESTION-398**: a household-level point. Support withdrawn at about two
+  years, most outcomes held a year on; the authors' "closer to the edge"
+  account is a household-scale version of independence once enough has
+  formed. No matched withdrawal, so dependence on the intervention is not
+  measured.
+- **Level**: the evidence is about households. It tells against carrying the
+  record's state-level dependency mechanisms down to poor households; it does
+  not test them at the state level.
+- Filed: THEORY-tmpmcnzn. No instruction for machine-learning practice.
+
+## Limitations
+
+- A bundle: no component is identified; training and visits cost about
+  twice the direct transfers.
+- One year past the end of support; longer only in India (LIT-tmpit9mn) and
+  Bangladesh (cited, not read here).
+- Large differences between sites: Honduras negative on assets, Peru weak.
+- 52% take-up in India; self-reported outcomes; possibly under-captured
+  durables.
+- Mechanisms, including the psychological one, are speculative by the
+  authors' own statement.
+- Temptation-goods spending is not reported in the main text.
+- The sample is the poorest by village wealth ranking; other poor
+  populations untested.
+- Supplementary tables not read.
+
+## Open questions
+
+- Which components are needed? Only a component trial would say (the Ghana
+  arms, reported elsewhere, start on this).
+- Do the gains outlast a full turnover? Answered for one site by
+  LIT-tmpit9mn.
+- Is there a threshold? A test needs exogenous variation in the size of the
+  push.

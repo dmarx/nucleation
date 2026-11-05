@@ -1,0 +1,114 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 (NOTE-tmpicnhp) as NBER Working Paper 28074
+  (November 2020, revised June 2021), not the AER: Insights version of
+  record; worth reading as the longest randomized follow-up on the record
+  of a one-time push to the poorest households: in West Bengal the effects
+  on consumption, income and health grew for seven years and held to year
+  ten, although the implementer had no contact with households after 18
+  months, and treated adults worked more at every wave. Its own limits: one
+  site, the most favourable of the six in Banerjee et al. (2015); 978
+  households, of whom 266 of 514 offered took part, so ITT; 71% tracked
+  across all four waves; the control group's own fast growth; the authors
+  hold the pattern consistent with, not proof of, escape from a poverty
+  trap. The online appendix was not read.
+title: 'Long-Term Effects of the Targeting the Ultra Poor Program'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request for a
+    counterpoint to the record's dependency claims, from the evidence on
+    the lazy-poor stereotype (works chosen by the assistant). A second
+    work, the ten-year follow-up of the India site of Banerjee et al.
+    (2015), LIT-tmpcs39o; not a stand-in, since that paper was read.
+    Citation checked against Crossref (no mailto): Abhijit Banerjee, Esther
+    Duflo and Garima Sharma, American Economic Review: Insights 3(4),
+    471–486, a journal article; Crossref's `published-print` and `issued`
+    are both 2021-12-01. The work first appeared as NBER Working Paper
+    28074, dated "November 2020" on its title page with no day given;
+    `published:` is 2020-11-01, the first of that month, the record's form
+    for a month-only date (ADR-002), since only the month is known; the
+    journal date is 2021-12-01. No correction to the brief's citation was
+    needed. Copy: NBER Working Paper 28074, "November 2020, Revised June
+    2021", from NBER's site
+    (https://www.nber.org/system/files/working_papers/w28074/w28074.pdf),
+    23 PDF pages (14 of text, references, Tables 1–4 and Figure 1); no bot
+    check or paywall. Not read: the AER: Insights version of record, whose
+    numbers may differ from the working paper's, and the online appendix
+    (Tables A1–A9). Not known to be held in the Anthology of the SOTA; not
+    an instruction for machine-learning practice.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-05'
+published: '2020-11-01'
+doi: '10.1257/aeri.20200667'
+first_author: 'Banerjee'
+keywords:
+- 'Targeting the Ultra Poor'
+- 'graduation program'
+- 'big push'
+- 'poverty trap'
+- 'asset transfer'
+- 'long-run effects'
+- 'migration'
+- 'labor supply'
+- 'randomized controlled trial'
+- 'West Bengal'
+- 'Bandhan'
+implementations: []
+summary: >-
+  Banerjee, Duflo & Sharma (2021; NBER working paper 2020). A ten-year
+  randomized follow-up of the Targeting the Ultra Poor program run by
+  Bandhan in West Bengal from 2007: a productive asset (mostly livestock),
+  30–40 weeks of consumption support, savings and weekly visits for 18
+  months, after which "Bandhan had no contact with beneficiary households".
+  Effects on consumption (0.6 SD at year 10), food security, income (0.3
+  SD) and health "grow for the first seven years following the transfer
+  and persist until year 10"; treated adults work more at every wave. The
+  control group also grew fast, from $1.35 to $2.9 a day, and the treated
+  pulled ahead by taking better advantage of wage work and migration; the
+  authors read a big push as complementary to macroeconomic growth. They
+  call the pattern consistent with escape from a poverty trap, and equally
+  with persistent effects without one.
+---
+<!-- inactive-ok-file: THEORY-tmpv02zm CLAIM-tmpc3x0c CLAIM-tmpqa0qu THEORY-tmph35ra — Proposed or new; cited from the reading of Banerjee, Duflo and Sharma (2021) as open -->
+
+# LIT-tmpit9mn: Long-Term Effects of the Targeting the Ultra Poor Program
+
+Banerjee, A., Duflo, E. & Sharma, G. (2021). Long-Term Effects of the Targeting the Ultra Poor Program. *American Economic Review: Insights* 3(4): 471–486. doi:10.1257/aeri.20200667. Read as NBER Working Paper 28074 (November 2020, revised June 2021).
+
+## Key takeaways
+
+*From the reading, NOTE-tmpicnhp. Pages are the working paper's printed pages.*
+
+- **Support ended at 18 months.** "Bandhan had no contact with beneficiary
+  households starting 18 months after the asset transfer" (p. 5).
+- **Effects grow, then hold.** "These effects grow for the first seven
+  years following the transfer and persist until year 10" (abstract).
+  Consumption +0.31 SD at 18 months, +0.72 at year 7, +0.58 at year 10.
+- **More work at every wave**: "on average 0.285 SD (60 more minutes) by 18
+  months", about 30 more minutes a day at years 7 and 10 (p. 9).
+- **A rising tide, used better.** Control consumption rose to "$2.9/day by
+  year 10", the treated to "$3.53/day by year 10" (p. 7); the gain shifts
+  from livestock to wage work and migration, and "positive macroeconomic
+  shifts may be complementary to a big push intervention rather than a
+  substitute" (p. 4).
+- **Trap not proven.** The pattern "is consistent with the alleviation of a
+  poverty trap", but "it is also consistent with there being persistent
+  effects without actually getting out of a trap" (p. 2); "by year 10,
+  treatment household have barely escaped poverty" (p. 14).
+
+## Standing in the record
+
+Registered beside LIT-tmpcs39o as a counterpoint to the branch's dependency
+claims. It meets the test CLAIM-tmpc3x0c sets, persistence long after
+withdrawal, better than any household case on the record: effects grew for
+years after all contact ended. It contradicts, for this kind of support, the
+expectation in CLAIM-tmpqa0qu and THEORY-tmph35ra that help leaves the
+recipient less capable; the help was one-off, so the premise of assured help
+is absent. One site, the most favourable in 2015, and households, not
+states. Filed from it: THEORY-tmpv02zm.
