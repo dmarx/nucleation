@@ -88,3 +88,7 @@ declare the target's transition graph directly ([TERM-tmpckwjg](../terms.d/TERM-
 sameness of complexity class alone, which families whose reconfiguration
 is PSPACE-complete already share. An organizational model with no declared
 size parameter cannot enter the comparison under scaling.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+A's fourth paste proposes extending the experiments "to families of increasing size, looking for complexity separations or scaling laws". No status changes.

@@ -31,6 +31,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CASE-tmpe48yq CLAIM-tmp99w2g CLAIM-tmpbi4ca CLAIM-tmpg7w69 CLAIM-tmpsbz28 CLAIM-tmpxcbet TERM-088 — Proposed; the record's open term for the senses of individuation, A's proposals of 2026-11-04 and 2026-11-05 and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-tmp0d5si — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CASE-tmp2p3i2: A proposed study: two small constrained mechanisms that agree under a restricted family of probes and differ internally, probed at rising budgets, to find when they become distinguishable, what the distinguishing operations cost and whether the distinctions survive a change of architecture, with controls that separate finding a difference from making one
 
@@ -107,3 +108,7 @@ is a construction, and shows only that such pairs exist.
   other senses need more (A, §2).
 - **Anything about organizations**, unless an organizational model with
   declared probes and costs is put in place of the mechanisms.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+A's fourth paste gives a three-stage design, finite mechanisms, then modular origami, then architecture-changing systems, with four target results. The second's smallest form is CASE-tmp0d5si; the third is QUESTION-tmpe05jc; the fourth is held to CLAIM-322's held-out examples. No status changes.

@@ -24,6 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-474 CLAIM-477 CLAIM-tmp99w2g CLAIM-tmpe18y0 CLAIM-tmpg7w69 CLAIM-tmpisvzb CLAIM-tmpxcbet TERM-088 — Proposed; the record's open theses and term on individuation and realized constraints, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: ARG-023 — Rejected; cited as the inference the question is framed to avoid -->
+<!-- inactive-ok-file: CLAIM-tmp42yq0 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # QUESTION-tmptcuch: Under which computational, observational and architectural conditions does a relational structure suffice to individuate an object, and which transformations, of budget, of probes, of time and of the category itself, preserve that individuation?
 
@@ -135,3 +136,7 @@ stated in one setting, as A proposes.
 - **Agreement under probes chosen to agree.** [CLAIM-322](../claims.d/CLAIM-322.md): such probes show
   only that they can be selected.
 - **A metaphysical verdict.** A: "That's not a theorem of Yoneda."
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+A's fourth paste sorts the question three ways: categorical identification ("Yes, by Yoneda"), effective individuation ("A computational question") and ontological constitution ("Requires an additional philosophical argument"), held as THEORY-032, CLAIM-150, ARG-023 and QUESTION-284, and puts the new research in the second. Its mathematical conjecture, that "resource-graded relational profiles admit compositional representations that preserve the distinctions relevant to bounded reachability, observation, and architectural reconfiguration", narrows the one recorded here toward CLAIM-tmpisvzb, to be pursued as "evidence relevant to, but not decisive of" the philosophical one. QUESTION-tmpjcbyk and QUESTION-tmpe05jc refine this question; CLAIM-tmp42yq0 adds that the descriptive and reachable partitions move in opposite directions with resources, and QUESTION-tmp3icc7 asks about the pair. No status changes.

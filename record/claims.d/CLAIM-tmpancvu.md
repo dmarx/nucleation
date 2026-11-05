@@ -43,6 +43,7 @@ summary: >-
   it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbi4ca TERM-tmp26wo4 TERM-tmp2ysyt CASE-tmp0g3pa CASE-tmpoo2tj CASE-tmpqk2kd — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: CASE-tmp0d5si TERM-tmpvb0eg — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-tmpancvu: A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it
 
@@ -107,3 +108,7 @@ budget, is the disconnection of [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s infinite t
   depends on what it is for, the question of telling a warranted reserve
   from waste ([QUESTION-tmpw46vw](../questions.d/QUESTION-tmpw46vw.md)). [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) is the record's case of a
   maintained squad never used in ordinary operation.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+TERM-tmpvb0eg prices this claim's three requirements per configuration: the incoming profile for constructing, the outgoing for moving out, and a maintenance profile that, in A's words, "is not supplied by Yoneda itself". A: a system "may be easy to assemble but hard to change once assembled"; in CASE-tmp0d5si, L is cheap to reach from U and dear to leave for R. No status changes.

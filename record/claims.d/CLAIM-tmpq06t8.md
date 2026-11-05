@@ -46,6 +46,7 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpe48yq CLAIM-tmp7bxc0 CLAIM-tmpbi4ca CLAIM-tmpuk8gq CLAIM-tmpxcbet CLAIM-tmpy685m TERM-tmp26wo4 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
+<!-- inactive-ok-file: CASE-tmp0d5si — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-tmpq06t8: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only a metric, budgeted identification need not be transitive, and no such tree exists
 
@@ -109,3 +110,7 @@ max; under addition, budgeted identification at b = 1 was intransitive in
   multiparameter structure, not a tree.
 - It says nothing about which semantics a given organization obeys; that is
   empirical.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+CASE-tmp0d5si, A's U/L/R toy, is an instance with one-way moves: under peak costs mutual reachability within a budget stays transitive, all three states joining at 3; under additive costs it is intransitive at budgets 3 to 5 (U within reach of L and of R both ways, L and R 6 apart). No status changes.

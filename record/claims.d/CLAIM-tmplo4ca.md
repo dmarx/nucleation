@@ -44,6 +44,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp0g3pa CASE-tmp4op8y CLAIM-tmpbi4ca CLAIM-tmpuk8gq TERM-tmp26wo4 TERM-tmp2ysyt — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmp42yq0 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-tmplo4ca: A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference
 
@@ -109,3 +110,7 @@ carry-over rule, under which the transition survives.
   ([TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)) need their own treatment, and several resources at once
   bring in [CLAIM-tmpuk8gq](CLAIM-tmpuk8gq.md).
 - It says nothing about whether the lost transitions were worth keeping.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+CLAIM-tmp42yq0 reads this claim as a decoupling of two budgets: spend-matching shrinks the acting budget, fragmenting what the organization can become, while the observing budget, and so what outsiders can tell apart, is untouched. No status changes.

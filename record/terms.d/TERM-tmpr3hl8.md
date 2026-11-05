@@ -128,3 +128,7 @@ Adoption by the owner, or a claim of the record's own stated in it.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The second paste of the pasted synthesis on resource-bounded realizability revises the object to 𝔒 = (Z, Q, 𝒞, 𝒫, ℛ, κ, 𝓘, 𝓜). Beside this term's components it adds 𝒞, the compatibility and correspondence structures, which [TERM-093](TERM-093.md) keeps apart from the physical coupling that holds them; 𝓘, the inquiry structure by which a system generates and uses its representations and questions ([TERM-095](TERM-095.md); [CLAIM-475](../claims.d/CLAIM-475.md)); and 𝓜, the processes that construct, modify, maintain or regenerate constraints ([CLAIM-477](../claims.d/CLAIM-477.md)). A's §8 adds recognition and reuse costs to the resource accounting ([CLAIM-314](../claims.d/CLAIM-314.md)). A's caveat: "I would be careful not to assume that every component is necessary for every kind of object." No status changes.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+A's fourth paste assembles the categories for each architecture into a Grothendieck total category, objects pairs (z, x) and morphisms an architecture change with a transformation after it, the categorical form of this term's two kinds of move, and warns that "we should not assume every architecture change induces a functor", suggesting that "relations, spans, profunctors, or other process structures may be more appropriate than ordinary functors" where an edit deletes or merges states. No status changes.

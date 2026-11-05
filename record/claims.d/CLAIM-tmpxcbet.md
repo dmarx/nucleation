@@ -56,6 +56,7 @@ summary: >-
   from A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpb5t9j CASE-tmpe48yq CLAIM-tmp7bxc0 CLAIM-tmpbi4ca NOTE-tmpegumv — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-tmp0d5si CLAIM-tmpq06t8 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-tmpxcbet: Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex's configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities
 
@@ -173,3 +174,7 @@ one hub and four paths, as contractibility requires.
 - **That disconnected states are covered.** A vertex whose states lie in
   different components ([CASE-tmpb5t9j](../cases.d/CASE-tmpb5t9j.md)) is told apart by the groupoid as
   well; the case here is the one where only the enrichment tells.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+CLAIM-tmpq06t8 states this claim's max-enriched hom as an ultrametric when moves are reversible, so the sublevel groupoids here nest into one merge tree as the budget grows; the additive base gives no such tree, as A's U/L/R toy (CASE-tmp0d5si) shows. No status changes.

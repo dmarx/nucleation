@@ -51,6 +51,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp7bxc0 CLAIM-tmp7pv9x CLAIM-tmpxcbet TERM-088 — Proposed; A's proposals of 2026-11-05 and the entries filed beside them, and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmp42yq0 CLAIM-tmpq06t8 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-tmpg7w69: Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not
 
@@ -153,3 +154,7 @@ implication valid at a budget is valid at every lower one.
 - **That the classes are known.** That a chain of families only refines
   says nothing about where it stops, or whether it reaches isomorphism;
   that is [CLAIM-264](CLAIM-264.md)'s density condition and [QUESTION-031](../questions.d/QUESTION-031.md)'s open question.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+CLAIM-tmp42yq0 pairs this result with its opposite for acting: under peak costs and reversible moves, the classes of what can be turned into one another only merge as the acting budget grows (CLAIM-tmpq06t8). The observing budget here and the acting budget there index one system's budgeted individuation together. No status changes.
