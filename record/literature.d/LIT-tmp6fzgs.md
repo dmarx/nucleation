@@ -1,0 +1,104 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmp5sqfp) from the NSF Public Access Repository
+  copy of the published article (CC BY 4.0); worth reading as a concrete
+  case of a frozen configuration made rewritable by a phase change: a
+  silicone film whose magnetic particles sit in a meltable polymer has its
+  magnetization pattern rewritten by local laser melting under a
+  programming field and fixed again on cooling, so one film gives many
+  shapes under the same actuation field. Registered as a neighbour standing
+  in for Yeow, Yang and Ren (2024), LIT-tmpxnx47, on the phase-change half
+  of its idea only. Its main limits: rewriting needs an external laser and
+  field, the resolution is about 300 μm, cycling was tested to 100 cycles,
+  and "reconfigurable" means many responses to one field, not change while
+  deployed.
+title: 'Laser reprogramming magnetic anisotropy in soft composites for reconfigurable 3D shaping'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 as a stand-in for the unread Yeow,
+    Yang and Ren (2024), LIT-tmpxnx47, at the owner's request; Yeow et al.
+    are cited by the owner's pasted synthesis on FACT, rigidity, compliant
+    mechanisms and origami (the pasted synthesis on constraint
+    architectures, written by another assistant, A, in the same exchange as
+    the emergency-readiness bibliography, pasted 2026-11-04). This work is
+    not cited there, and it is not by Yeow's group. Citation checked
+    against Crossref: Heng Deng, Kianoosh Sattari, Yunchao Xie, Ping Liao,
+    Zheng Yan and Jian Lin (University of Missouri), Nature Communications
+    11, article 6325 (2020), doi:10.1038/s41467-020-20229-6, research
+    article, CC BY 4.0; published online 10 December 2020, which is
+    `published:`. Not held before (no hit for the DOI or the title). Copy:
+    the NSF Public Access Repository copy,
+    https://par.nsf.gov/servlets/purl/10215635, the publisher's 10-page
+    article followed by part of its Supplementary Information, extracted
+    with pdftotext -layout. Status set to Active.
+tags:
+- natural-sciences
+date: '2026-11-05'
+published: '2020-12-10'
+doi: '10.1038/s41467-020-20229-6'
+first_author: 'Deng'
+keywords:
+- 'magnetic anisotropy'
+- 'laser reprogramming'
+- 'phase change polymer'
+- 'magnetic soft materials'
+- 'reconfigurable 3D shaping'
+- 'soft robots'
+implementations: []
+summary: >-
+  Deng, Sattari, Xie, Liao, Yan & Lin (2020). A silicone film holds NdFeB
+  microparticles encapsulated in polycaprolactone, which melts at about
+  60 °C. A laser scanned over chosen regions melts the polymer locally; the
+  freed particles align with a programming magnetic field and are fixed as
+  it resolidifies. Writing different directions into different regions
+  encodes a magnetization pattern that, under one uniform 150 mT actuation
+  field, bends the film into a designed 3D shape, and the pattern can be
+  erased and rewritten the same way. Shown: strips folding along domain
+  boundaries that act as creases, origami-like shapes, a multistate switch
+  and kirigami robots whose gait changes with the written pattern; shapes
+  held over 100 cycles with alternating reprogramming.
+---
+<!-- inactive-ok-file: LIT-tmpxnx47 THEORY-tmpj5zhj — Unfetched or Proposed, and new; cited from the reading of Deng et al. (2020) as open -->
+
+# LIT-tmp6fzgs: Laser reprogramming magnetic anisotropy in soft composites for reconfigurable 3D shaping
+
+Deng, H., Sattari, K., Xie, Y., Liao, P., Yan, Z. & Lin, J. (2020). Laser reprogramming magnetic anisotropy in soft composites for reconfigurable 3D shaping. *Nature Communications* 11: 6325. doi:10.1038/s41467-020-20229-6.
+
+## Key takeaways
+
+*From the reading, NOTE-tmp5sqfp. Page numbers are the article's.*
+
+- **The material.** "The composite film is made from an elastomer and
+  magnetic particles encapsulated by a phase change polymer." (abstract,
+  p. 1).
+- **The mechanism.** "Once the phase change polymer is temporarily melted
+  by transient laser heating, the orientation of the magnetic particles can
+  be re-aligned upon change of a programming magnetic field." (abstract,
+  p. 1).
+- **The problem it addresses.** Previously "once the magnetization profile
+  (or called magnetic anisotropy) is patterned and fixed, they cannot be
+  reconfigured." (introduction, p. 2).
+- **Reversible.** "Because the solid–liquid phase change of PCL is
+  reversible, the programmed magnetic anisotropies can be reprogrammed to
+  different ones." (discussion, p. 9).
+
+## Standing in the record
+
+Registered as a neighbour standing in for Yeow, Yang and Ren (2024),
+LIT-tmpxnx47, which could not be fetched. It carries only the phase-change
+half of Yeow et al.'s idea as their abstract states it: a magnetically
+responsive phase-change composite in which melting releases a frozen
+configuration so it can be rewritten, and cooling fixes it, with
+origami-like folding. It does not carry the other half, the
+actuator–structure interface: attaching and detaching an actuator from a
+separate structure, changing a mechanism's constraints in place, or an
+actuator building an origami structure. Its rewriting is done by an
+external laser rig, not tetherlessly in a confined space. In the pasted
+synthesis's terms it is an instance of a transition mediated by
+architecture: the frozen pattern changes only while a second variable, the
+polymer's phase, is switched. It bears on no resource claim. Filed from it:
+THEORY-tmpj5zhj.
