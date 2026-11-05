@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpslfbd) from Federal Reserve Bank of
+  read 2026-11-05 ([NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md)) from Federal Reserve Bank of
   Philadelphia Working Paper 11-38 (September 6, 2011), the revised,
   post-referee text, and from the earlier NBER Working Paper 16314, both
   on their series' own sites, not from the QJE version of record; worth
@@ -81,7 +81,7 @@ Bleakley, H. & Lin, J. (2012). Portage and Path Dependence. *The Quarterly Journ
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpslfbd. Page numbers are WP 11-38's, not the QJE's.*
+*From the reading, [NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md). Page numbers are WP 11-38's, not the QJE's.*
 
 - **The cause ended.** "At the peak in 1880, the average fall-line county
   contained 13.1% of" its river's water-transport employment; "By 1930,
@@ -112,14 +112,14 @@ Bleakley, H. & Lin, J. (2012). Portage and Path Dependence. *The Quarterly Journ
 
 Registered with the gap-filling readings on whether persistence after a
 cause ends is self-sustaining or slow reversion. Against Kline and
-Moretti (LIT-2141, THEORY-1461), where the same kind of agglomeration
+Moretti ([LIT-2141](LIT-2141.md), [THEORY-1461](../theory.d/THEORY-1461.md)), where the same kind of agglomeration
 persisted but decayed under a single equilibrium, this is a case that
-passes the tests CLAIM-600 asks for: the cause's end is dated, the horizon
+passes the tests [CLAIM-600](../claims.d/CLAIM-600.md) asks for: the cause's end is dated, the horizon
 a century, the effect not decaying, the sunk-capital signature of
 reversion checked and absent. It is the empirical geography counterpart of
-Arthur's lock-in (LIT-1314, THEORY-863), and it gives conditions, enough
+Arthur's lock-in ([LIT-1314](LIT-1314.md), [THEORY-863](../theory.d/THEORY-863.md)), and it gives conditions, enough
 activity coordinated and returns strong enough to sustain it, that match
-CLAIM-600's "large enough" clause and the hump-shaped feedback CLAIM-604
-models. It reads Davis and Weinstein's Japanese reversion (LIT-tmpntaj3)
-as a product of rugged terrain. Filed from it: THEORY-tmplod57. No
+[CLAIM-600](../claims.d/CLAIM-600.md)'s "large enough" clause and the hump-shaped feedback [CLAIM-604](../claims.d/CLAIM-604.md)
+models. It reads Davis and Weinstein's Japanese reversion ([LIT-tmpntaj3](LIT-tmpntaj3.md))
+as a product of rugged terrain. Filed from it: [THEORY-tmplod57](../theory.d/THEORY-tmplod57.md). No
 instruction for machine-learning practice.

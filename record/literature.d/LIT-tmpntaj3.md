@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpqnndy) from NBER Working Paper 8517 (October
+  read 2026-11-05 ([NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md)) from NBER Working Paper 8517 (October
   2001) on NBER's own site, not from the AER version of record; worth
   reading as the record's cleanest natural experiment on whether a huge,
   clearly temporary shock moves a place to a different long-run state. The
@@ -75,7 +75,7 @@ Davis, D. R. & Weinstein, D. E. (2002). Bones, Bombs, and Break Points: The Geog
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpqnndy, of the NBER working paper. Page numbers are the working paper's, not the AER's.*
+*From the reading, [NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md), of the NBER working paper. Page numbers are the working paper's, not the AER's.*
 
 - **A huge, temporary shock.** In the 66 targeted cities the bombing
   "destroyed almost half of all structures in these cities – a total of
@@ -103,18 +103,18 @@ Davis, D. R. & Weinstein, D. E. (2002). Bones, Bombs, and Break Points: The Geog
 
 Registered with the gap-filling readings on whether persistence after a
 shock or after support is self-sustaining or slow reversion. It is the
-opposite pole to Kline and Moretti (LIT-2141, THEORY-1461): a negative
+opposite pole to Kline and Moretti ([LIT-2141](LIT-2141.md), [THEORY-1461](../theory.d/THEORY-1461.md)): a negative
 shock where they had a positive support, very fast reversion where they
 had decades of momentum, and the same verdict that no second stable
-equilibrium is found. It bears on CLAIM-600's caution that persistence is
+equilibrium is found. It bears on [CLAIM-600](../claims.d/CLAIM-600.md)'s caution that persistence is
 needed to tell self-sustainment from reversion, here measured directly as
-reversion, and on CLAIM-604: if city upkeep has a collapse threshold, it
+reversion, and on [CLAIM-604](../claims.d/CLAIM-604.md): if city upkeep has a collapse threshold, it
 lies beyond shocks that destroyed half a city. Read as standing inputs,
 the site's fundamentals are a supply the city does not make and never
-loses, which fits CLAIM-597 by analogy only. Its counter-cases are
-Juhász's temporary protection (THEORY-919), at the industry level that the
+loses, which fits [CLAIM-597](../claims.d/CLAIM-597.md) by analogy only. Its counter-cases are
+Juhász's temporary protection ([THEORY-919](../theory.d/THEORY-919.md)), at the industry level that the
 paper's footnote 20 leaves open, and Bleakley and Lin's portage cities
-(LIT-tmppaj4l), who attribute this paper's reversion to Japan's rugged
-topography. The companion paper, LIT-tmpgvz2v, adds the threshold test
-the working paper lacks. Filed from it: THEORY-tmp0fvik. No instruction
+([LIT-tmppaj4l](LIT-tmppaj4l.md)), who attribute this paper's reversion to Japan's rugged
+topography. The companion paper, [LIT-tmpgvz2v](LIT-tmpgvz2v.md), adds the threshold test
+the working paper lacks. Filed from it: [THEORY-tmp0fvik](../theory.d/THEORY-tmp0fvik.md). No instruction
 for machine-learning practice.

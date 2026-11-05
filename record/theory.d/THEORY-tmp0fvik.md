@@ -19,8 +19,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpntaj3
 summary: >-
-  Davis & Weinstein (2002), LIT-tmpntaj3, read from NBER w8517 in
-  NOTE-tmpqnndy, not from the AER version of record. Proposed: the
+  Davis & Weinstein (2002), [LIT-tmpntaj3](../literature.d/LIT-tmpntaj3.md), read from NBER w8517 in
+  [NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md), not from the AER version of record. Proposed: the
   coefficients are the working paper's (−1.048 for 1947–60; −0.759 and
   −1.027 with the prewar trend for 1960 and 1965); the instruments assume
   bombing did not target growth; the outcome is population share only;
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Davis & Weinstein (2002), LIT-tmpntaj3; read in NOTE-tmpqnndy from NBER
+Davis & Weinstein (2002), [LIT-tmpntaj3](../literature.d/LIT-tmpntaj3.md); read in [NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md) from NBER
 w8517 (October 2001). The AER version of record was not read, and by the
 authors' companion paper it adds at least one analysis. Page numbers are
 the working paper's.
@@ -71,8 +71,8 @@ mark on relative size.
   reversion.
 - **That temporary subsidies cannot move a city.** That is the authors'
   argument from bombs to subsidies; a subsidy that builds fundamentals, as
-  in the TVA (THEORY-1461), is a different shock.
+  in the TVA ([THEORY-1461](THEORY-1461.md)), is a different shock.
 - **Anything below the city aggregate.** Footnote 20 leaves sub-regions and
   industry mix open; the companion paper takes up industry mix.
-- **That the city's upkeep has no threshold** (CLAIM-604). None was found
+- **That the city's upkeep has no threshold** ([CLAIM-604](../claims.d/CLAIM-604.md)). None was found
   within shocks of this size.

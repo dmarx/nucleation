@@ -164,51 +164,51 @@ advantages" (p. 25). Their absence counts against reversion.
 
 ## Connections
 
-The empirical geography counterpart of Arthur (LIT-1314, NOTE-1052,
-THEORY-863), whom the authors cite, and of Pierson's increasing returns in
-politics (LIT-1372, THEORY-885). Against Kline and Moretti (LIT-2141,
-NOTE-1646, THEORY-1461) it is the contrasting case: the same kind of
+The empirical geography counterpart of Arthur ([LIT-1314](../literature.d/LIT-1314.md), [NOTE-1052](NOTE-1052.md),
+[THEORY-863](../theory.d/THEORY-863.md)), whom the authors cite, and of Pierson's increasing returns in
+politics ([LIT-1372](../literature.d/LIT-1372.md), [THEORY-885](../theory.d/THEORY-885.md)). Against Kline and Moretti ([LIT-2141](../literature.d/LIT-2141.md),
+[NOTE-1646](NOTE-1646.md), [THEORY-1461](../theory.d/THEORY-1461.md)) it is the contrasting case: the same kind of
 agglomeration, but with tests for decay and for oversupplied sunk capital
-that come out the other way. Davis and Weinstein (LIT-tmpntaj3,
-LIT-tmpgvz2v) are the reversion counter-case the authors explain by
-terrain. Juhász's temporary protection (LIT-1489, THEORY-919) is another
-persistence after a transient cause; CLAIM-184 (anchors entrench) and
-CLAIM-445 (a protective regime becomes self-maintaining) are related
+that come out the other way. Davis and Weinstein ([LIT-tmpntaj3](../literature.d/LIT-tmpntaj3.md),
+[LIT-tmpgvz2v](../literature.d/LIT-tmpgvz2v.md)) are the reversion counter-case the authors explain by
+terrain. Juhász's temporary protection ([LIT-1489](../literature.d/LIT-1489.md), [THEORY-919](../theory.d/THEORY-919.md)) is another
+persistence after a transient cause; [CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench) and
+[CLAIM-445](../claims.d/CLAIM-445.md) (a protective regime becomes self-maintaining) are related
 claims; the ecological analogue of locally stable alternative states is
-LIT-726 and THEORY-1468; institutional imprinting is LIT-1144 and
-NOTE-1373.
+[LIT-726](../literature.d/LIT-726.md) and [THEORY-1468](../theory.d/THEORY-1468.md); institutional imprinting is [LIT-1144](../literature.d/LIT-1144.md) and
+[NOTE-1373](NOTE-1373.md).
 
 ## Bearing on the record
 
-- **CLAIM-600 (when support is safe to withdraw): supports and qualifies
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (when support is safe to withdraw): supports and qualifies
   the clause that slow reversion can mimic persistence.** Supports: a case
   that passes where the TVA did not, with the cause gone, a century of
   non-decaying persistence, and the reversion signature checked and
   absent. Qualifies: the test needs a decay trajectory and price and
   quantity evidence, observational substitutes for the threshold of
-  CLAIM-604; the authors stop short of proving a second equilibrium; and
+  [CLAIM-604](../claims.d/CLAIM-604.md); the authors stop short of proving a second equilibrium; and
   size matters, no effect at the smallest watersheds, echoing the claim's
   "large enough" condition. The unit is places, not the people who founded
   them, which is the claim's unit-of-account caution.
-- **CLAIM-604 (ignition threshold, collapse, hysteresis): consistent in
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (ignition threshold, collapse, hysteresis): consistent in
   form.** A hump-shaped V(X) with a locally stable low equilibrium is the
   analogue of a state-dependent uptake with an ignition threshold. No
   collapse or failure to relight is observed; w16314's "fairly substantial
   damage" is the collapse condition, asserted, not shown.
-- **CLAIM-597 (supplied upkeep never becomes optional): a contrast.** The
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional): a contrast.** The
   persisting structure is not supplied from outside once the coordinating
   cause is gone; density is upheld by "overlapping generations of location
   decisions" (p. 33), independent of what founded it but still dependent
   on a flux of mobile factors.
-- **CLAIM-602: none directly.** §8.4 bears loosely: capacity on hand when
+- **[CLAIM-602](../claims.d/CLAIM-602.md): none directly.** §8.4 bears loosely: capacity on hand when
   the cause ended (literacy, diversity) went with better adaptation.
-- **QUESTION-398 (independence from the founding intervention): a
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention): a
   place-level natural-experiment answer.** Figure 8 is close to A's D(s):
   it conditions on the historical state and asks whether the founding
   advantage still matters; by about 1930 it adds nothing, given the
   conditions of enough coordinated activity and strong enough returns.
-- CLAIM-603, CLAIM-558 and CLAIM-601: no bearing.
-- Filed: THEORY-tmplod57. No instruction for machine-learning practice.
+- [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-558](../claims.d/CLAIM-558.md) and [CLAIM-601](../claims.d/CLAIM-601.md): no bearing.
+- Filed: [THEORY-tmplod57](../theory.d/THEORY-tmplod57.md). No instruction for machine-learning practice.
 
 ## Limitations
 

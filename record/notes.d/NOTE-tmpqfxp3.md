@@ -147,20 +147,20 @@ than contextual effects arising from spatial mismatch" (p. 39).
 ## Connections
 
 The place-based readings filed beside it are its contrast: Collins and
-Shester (LIT-2161, NOTE-1683, THEORY-1470), where cities gained from urban
-renewal, and LaVoice (LIT-2142, NOTE-1680, THEORY-1476), where cleared
+Shester ([LIT-2161](../literature.d/LIT-2161.md), [NOTE-1683](NOTE-1683.md), [THEORY-1470](../theory.d/THEORY-1470.md)), where cities gained from urban
+renewal, and LaVoice ([LIT-2142](../literature.d/LIT-2142.md), [NOTE-1680](NOTE-1680.md), [THEORY-1476](../theory.d/THEORY-1476.md)), where cleared
 neighbourhoods' residents were dispersed and whose reading already cites
-this paper; Neumark and Simpson's review (LIT-2158, THEORY-1491) and the
-TVA (LIT-2141, THEORY-1461) are support given to places. Banerjee, Duflo
-and Sharma (THEORY-1493) is a one-time package whose effects grew in
+this paper; Neumark and Simpson's review ([LIT-2158](../literature.d/LIT-2158.md), [THEORY-1491](../theory.d/THEORY-1491.md)) and the
+TVA ([LIT-2141](../literature.d/LIT-2141.md), [THEORY-1461](../theory.d/THEORY-1461.md)) are support given to places. Banerjee, Duflo
+and Sharma ([THEORY-1493](../theory.d/THEORY-1493.md)) is a one-time package whose effects grew in
 households, the closer case of transient support persisting in people.
 The place-level persistence readings of Davis and Weinstein
-(LIT-tmpntaj3) and Bleakley and Lin (LIT-tmppaj4l) ask the same question
+([LIT-tmpntaj3](../literature.d/LIT-tmpntaj3.md)) and Bleakley and Lin ([LIT-tmppaj4l](../literature.d/LIT-tmppaj4l.md)) ask the same question
 of sites rather than people.
 
 ## Bearing on the record
 
-- **CLAIM-600 (when support is safe to withdraw).** *Supports* the unit
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (when support is safe to withdraw).** *Supports* the unit
   clause: the return is carried by people, not places; children keep it
   to age 28 after leaving the supported household, while parents given
   the same places gain nothing. *Qualifies* "transient": the subsidy was
@@ -170,32 +170,32 @@ of sites rather than people.
   invisible in the earlier evaluation and emerged only in adulthood.
   *Qualifies* "the party could do the work and did it throughout": the
   effect depends on the party's developmental stage, not effort.
-- **CLAIM-604 (thresholds, hysteresis): mostly against a threshold
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (thresholds, hysteresis): mostly against a threshold
   reading.** "little evidence of a “critical age”" and a roughly linear
   dose; the age-13 crossover is a linear benefit meeting a fixed cost, not
   an ignition threshold. Lasting adult earnings with no further supply are
   a state change in the person; whether self-sustaining or slow reversion
   is not shown.
-- **CLAIM-597 (supplied upkeep never becomes optional): qualifies.** For
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional): qualifies.** For
   children the environment forms a capacity that outlives exposure,
   rather than doing upkeep; for adults, support in force changed nothing
   economic, outside the claim's model.
-- **CLAIM-602 (support crowds out learning by doing): none directly.** At
+- **[CLAIM-602](../claims.d/CLAIM-602.md) (support crowds out learning by doing): none directly.** At
   most, free choice was used to rent better housing in the same
   neighbourhood.
-- **CLAIM-603 (one-way against reciprocal supply): none directly.** The
+- **[CLAIM-603](../claims.d/CLAIM-603.md) (one-way against reciprocal supply): none directly.** The
   fiscal analysis turns the one-way supply into a return through taxes, a
   delayed reciprocity at the level of the state.
-- **CLAIM-558 (decay with disuse): none.** Fade-out and re-emergence warn
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (decay with disuse): none.** Fade-out and re-emergence warn
   against reading an intermediate measure's decay as a capability's loss.
-- **CLAIM-601 (a buffer as a stock of time): none directly.** Family
+- **[CLAIM-601](../claims.d/CLAIM-601.md) (a buffer as a stock of time): none directly.** Family
   income is ruled out as the channel.
-- **QUESTION-398 (independence from the founding intervention).**
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).**
   *Supports* the shape of A's measure in a developmental form: the value
   of an intervention depends on the state at which it starts. It is not a
   withdrawal test: support was never withdrawn at matched states, and age
   at move is not randomized.
-- Filed: THEORY-tmptpq58. No instruction for machine-learning practice.
+- Filed: [THEORY-tmptpq58](../theory.d/THEORY-tmptpq58.md). No instruction for machine-learning practice.
 
 ## Limitations
 

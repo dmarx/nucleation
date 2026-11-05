@@ -67,7 +67,7 @@ size and for aggregate city population.
   follows a random walk"; ρ < 1 means shocks dissipate. A unique
   equilibrium is the maintained structure; multiple equilibria enter only
   as a reading of a coefficient different from −1, not as a fitted
-  alternative (the companion paper, LIT-tmpgvz2v, adds that).
+  alternative (the companion paper, [LIT-tmpgvz2v](../literature.d/LIT-tmpgvz2v.md), adds that).
 - **Instruments.** Deaths and buildings destroyed per capita affect
   1947–60 growth only through the 1940–47 shock. The authors concede the
   US may have "inadvertently targeted cities based on underlying growth
@@ -155,7 +155,7 @@ size and for aggregate city population.
 
 ## Connections
 
-The natural foil is Kline and Moretti (LIT-2141, NOTE-1646, THEORY-1461),
+The natural foil is Kline and Moretti ([LIT-2141](../literature.d/LIT-2141.md), [NOTE-1646](NOTE-1646.md), [THEORY-1461](../theory.d/THEORY-1461.md)),
 already filed: both find no second stable equilibrium, but the TVA's
 positive support decayed over decades while Japan's negative shock was
 undone in fifteen years. A reconciliation, the reader's and not either
@@ -164,19 +164,19 @@ account left fundamentals alone, while the TVA built fundamentals (dams,
 navigation, power), so part of its persistence may be a moved Ω,
 maintained by local users, rather than a deviation decaying; neither paper
 measures fundamentals. The counter-cases are Juhász's temporary protection
-(LIT-1489, THEORY-919), a temporary shock that persisted at the industry
+([LIT-1489](../literature.d/LIT-1489.md), [THEORY-919](../theory.d/THEORY-919.md)), a temporary shock that persisted at the industry
 level footnote 20 leaves open, and Bleakley and Lin's portage cities
-(LIT-tmppaj4l), who read this paper's reversion as a sign of Japan's
-large natural heterogeneity. Arthur's lock-in model (LIT-1314,
-THEORY-863) is the IR path-dependence account found here not to be a
+([LIT-tmppaj4l](../literature.d/LIT-tmppaj4l.md)), who read this paper's reversion as a sign of Japan's
+large natural heterogeneity. Arthur's lock-in model ([LIT-1314](../literature.d/LIT-1314.md),
+[THEORY-863](../theory.d/THEORY-863.md)) is the IR path-dependence account found here not to be a
 central tendency for city size; Balboni et al.'s household threshold
-(THEORY-1465) is a multiple-equilibria finding at a smaller unit. The
-companion (LIT-tmpgvz2v) tests multiple equilibria directly and extends
+([THEORY-1465](../theory.d/THEORY-1465.md)) is a multiple-equilibria finding at a smaller unit. The
+companion ([LIT-tmpgvz2v](../literature.d/LIT-tmpgvz2v.md)) tests multiple equilibria directly and extends
 the result to manufacturing and eight industries.
 
 ## Bearing on the record
 
-- **CLAIM-600 (when support is safe to withdraw): supports its caution,
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (when support is safe to withdraw): supports its caution,
   qualifies its scope.** Persistence after the event is needed to tell
   self-sustainment from reversion; here the dynamics are measured, and
   they show reversion. Read as standing inputs, locational fundamentals
@@ -185,27 +185,27 @@ the result to manufacturing and eight industries.
   supplied", as an interpretive mapping. Footnote 20 bears on the unit clause: aggregate size reverts;
   sub-regions and industry mix might not (the companion finds industry mix
   reverts too, more slowly where hit hardest).
-- **CLAIM-604 (ignition threshold, collapse, hysteresis): qualifies.** No
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (ignition threshold, collapse, hysteresis): qualifies.** No
   collapse or hysteresis for cities after half their structures and up to
   a fifth of their people were lost. If city upkeep has a threshold, it
   lies beyond the observed shocks. The model is not contradicted; it finds
   no field instance here.
-- **CLAIM-602 (support that does the work crowds out capacity): one
+- **[CLAIM-602](../claims.d/CLAIM-602.md) (support that does the work crowds out capacity): one
   pointer.** Recovery came almost wholly without targeted support. No
   capacity measure.
-- **CLAIM-597 (supplied upkeep never becomes optional): weak support, by
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional): weak support, by
   analogy.** What holds the city's share is a supply the city does not
   make, its site, and it is never withdrawn; the paper cannot test
   withdrawal.
-- **QUESTION-398 (independence from the founding intervention): bears, by
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention): bears, by
   analogy.** The 1947–60 coefficient measures independence from a
   transient event: −1 means the long-run state is independent of the
   shock, like A's D → 0. It speaks to shocks, not to founding support; the
   extension to temporary subsidies is the authors' argument, not their
   data.
-- CLAIM-603, CLAIM-558 and CLAIM-601: no bearing. CLAIM-445 (a protective
+- [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-558](../claims.d/CLAIM-558.md) and [CLAIM-601](../claims.d/CLAIM-601.md): no bearing. [CLAIM-445](../claims.d/CLAIM-445.md) (a protective
   regime becomes self-maintaining) is untouched.
-- Filed: THEORY-tmp0fvik. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp0fvik](../theory.d/THEORY-tmp0fvik.md). No instruction for machine-learning practice.
 
 ## Limitations
 

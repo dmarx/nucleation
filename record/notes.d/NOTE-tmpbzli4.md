@@ -36,7 +36,7 @@ summary: >-
 
 ## Contribution
 
-The 2002 paper (LIT-tmpntaj3) asked whether the bombing data reject a
+The 2002 paper ([LIT-tmpntaj3](../literature.d/LIT-tmpntaj3.md)) asked whether the bombing data reject a
 unique stable equilibrium and whether they meet "a stated condition that
 would be sufficient to establish multiple equilibria in city population
 shares" (p. 2); both answers were no. This paper adds a test that "no
@@ -127,38 +127,38 @@ that we can see that we fail to return to the status quo ante" (p. 2):
 
 ## Connections
 
-It completes LIT-tmpntaj3 and answers that paper's footnote 20 for
+It completes [LIT-tmpntaj3](../literature.d/LIT-tmpntaj3.md) and answers that paper's footnote 20 for
 industry mix. It is the strongest contrast to Juhász's persistent
-temporary protection (LIT-1489, THEORY-919) and to Bleakley and Lin's
-portage cities (LIT-tmppaj4l), who read Japanese reversion as a product of
-its large natural heterogeneity. Kline and Moretti (LIT-2141, THEORY-1461)
+temporary protection ([LIT-1489](../literature.d/LIT-1489.md), [THEORY-919](../theory.d/THEORY-919.md)) and to Bleakley and Lin's
+portage cities ([LIT-tmppaj4l](../literature.d/LIT-tmppaj4l.md)), who read Japanese reversion as a product of
+its large natural heterogeneity. Kline and Moretti ([LIT-2141](../literature.d/LIT-2141.md), [THEORY-1461](../theory.d/THEORY-1461.md))
 reach the same unique-equilibrium verdict by a different route, a constant
 agglomeration elasticity, for a positive support. Balboni et al.
-(THEORY-1465) find the threshold at household level that this paper does
+([THEORY-1465](../theory.d/THEORY-1465.md)) find the threshold at household level that this paper does
 not find at the level of cities and industries.
 
 ## Bearing on the record
 
-- **CLAIM-604 (ignition threshold, collapse, hysteresis): qualifies,
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (ignition threshold, collapse, hysteresis): qualifies,
   strongly.** A direct field test of the threshold signature, with shocks
   as large as any on record, finds none for cities, manufacturing or
   industries; the one candidate threshold (−0.67 log units) fails the
   ordering criterion. The model is not contradicted, since thresholds may
   lie beyond these shocks or vary across cities, which the test assumes
   away; its empirical reach is narrowed.
-- **CLAIM-600 (when support is safe to withdraw): supports the caution,
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (when support is safe to withdraw): supports the caution,
   sharpens the unit clause.** Recovery holds at three levels of
   aggregation, and is slowest at the finest level and the hardest hit,
   so the unit whose persistence is measured changes the answer's speed if
   not its sign. The authors' caveat that greenfield investment is "a
   different question" marks where the result stops.
-- **CLAIM-597 (supplied upkeep never becomes optional): by analogy.** If
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional): by analogy.** If
   the prior pattern is a focal point kept by surviving land, people and
   infrastructure, the place's state is held by stocks it was not
   stripped of.
-- **CLAIM-602: none.** **QUESTION-398: bears, as for LIT-tmpntaj3.** The
+- **[CLAIM-602](../claims.d/CLAIM-602.md): none.** **[QUESTION-398](../questions.d/QUESTION-398.md): bears, as for [LIT-tmpntaj3](../literature.d/LIT-tmpntaj3.md).** The
   long-run state is independent of the shock at every level tested.
-- Filed: THEORY-tmp7uo3b. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp7uo3b](../theory.d/THEORY-tmp7uo3b.md). No instruction for machine-learning practice.
 
 ## Limitations
 

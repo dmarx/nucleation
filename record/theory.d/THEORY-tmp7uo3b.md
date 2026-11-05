@@ -21,7 +21,7 @@ source:
 - LIT-tmpgvz2v
 summary: >-
   Davis & Weinstein (2004 working paper; J. Regional Science 2008),
-  LIT-tmpgvz2v, read in part from NBER w10252 in NOTE-tmpbzli4. Proposed:
+  [LIT-tmpgvz2v](../literature.d/LIT-tmpgvz2v.md), read in part from NBER w10252 in [NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md). Proposed:
   the test assumes each city's dynamics depend on its own share alone and
   that thresholds are common in log units across cities and industries; it
   imposes full reversion in the threshold runs; it has little power for
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Davis & Weinstein (2004; 2008), LIT-tmpgvz2v; read in part in
-NOTE-tmpbzli4 from NBER w10252. The journal version was not read. Page
+Davis & Weinstein (2004; 2008), [LIT-tmpgvz2v](../literature.d/LIT-tmpgvz2v.md); read in part in
+[NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md) from NBER w10252. The journal version was not read. Page
 numbers are the working paper's.
 
 ## What was actually shown
@@ -64,12 +64,12 @@ industries settling at a lower level.
 
 - **That no threshold exists.** Thresholds beyond the shocks, varying by
   city, or depending on neighbouring cities are assumed away or untested
-  (CLAIM-604 is narrowed, not refuted).
+  ([CLAIM-604](../claims.d/CLAIM-604.md) is narrowed, not refuted).
 - **That every industry recovers.** Single-industry tests lack power
   (p. 39).
 - **That support cannot make a place.** "Yet it is a different question
   whether directed greenfield investment can permanently alter the course
-  of regional development" (p. 43); the TVA (THEORY-1461) was such
+  of regional development" (p. 43); the TVA ([THEORY-1461](THEORY-1461.md)) was such
   investment.
 - **Why places recover.** Fundamentals, surviving land claims, labour and
   infrastructure acting as a focal point are offered, not separated.

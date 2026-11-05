@@ -20,8 +20,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp2zxnh
 summary: >-
-  Chetty, Hendren & Katz (2016), LIT-tmp2zxnh, read from NBER w21156
-  (revised September 2015) in NOTE-tmpqfxp3. Proposed: earnings are
+  Chetty, Hendren & Katz (2016), [LIT-tmp2zxnh](../literature.d/LIT-tmp2zxnh.md), read from NBER w21156
+  (revised September 2015) in [NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md). Proposed: earnings are
   observed only to about age 28; age at move was not randomized, so the
   per-year gradient is not a causal estimate and the disruption cost is
   not separately identified; older-child estimates are imprecise. The
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Chetty, Hendren & Katz (2016), LIT-tmp2zxnh; read in NOTE-tmpqfxp3 from
+Chetty, Hendren & Katz (2016), [LIT-tmp2zxnh](../literature.d/LIT-tmp2zxnh.md); read in [NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md) from
 NBER w21156, revised September 2015. The AER version of record and the
 online appendix were not read. Page numbers are the working paper's.
 
@@ -72,7 +72,7 @@ years of exposure.
   randomized (p. 29).
 - **That the gains last a lifetime.** Observed to about 28; the lifetime
   figures assume they persist.
-- **That there is a threshold age** (CLAIM-604): the dose is roughly
+- **That there is a threshold age** ([CLAIM-604](../claims.d/CLAIM-604.md)): the dose is roughly
   linear; the crossover at 13 is a benefit meeting a cost.
 - **Which part of the neighbourhood works.** Tract poverty indexes a
   bundle.

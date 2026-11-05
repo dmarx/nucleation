@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpbzli4) from NBER Working Paper 10252
+  read in part 2026-11-05 ([NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md)) from NBER Working Paper 10252
   (January 2004) on NBER's own site, not from the Journal of Regional
   Science version of record; worth reading as the direct test, by
   threshold regression, of whether the Allied bombing of Japan moved
@@ -75,7 +75,7 @@ Davis, D. R. & Weinstein, D. E. (2008). A search for multiple equilibria in urba
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpbzli4, of the NBER working paper. Page numbers are the working paper's.*
+*From the reading, [NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md), of the NBER working paper. Page numbers are the working paper's.*
 
 - **The verdict.** "The data provide no support for the existence of
   multiple equilibria. In the aftermath even of immense shocks, a city
@@ -103,13 +103,13 @@ Davis, D. R. & Weinstein, D. E. (2008). A search for multiple equilibria in urba
 
 ## Standing in the record
 
-Registered beside Davis and Weinstein (2002), LIT-tmpntaj3, as its own
+Registered beside Davis and Weinstein (2002), [LIT-tmpntaj3](LIT-tmpntaj3.md), as its own
 work: it is the direct test of multiple equilibria the 2002 working paper
 only reads off a coefficient. It is the record's strongest field evidence
-against a threshold in the upkeep of places, bearing on CLAIM-604: the
+against a threshold in the upkeep of places, bearing on [CLAIM-604](../claims.d/CLAIM-604.md): the
 best two-equilibrium fit for industries puts a threshold at −0.67 log
 units and is rejected. Its own caveat, that greenfield investment is a
 different question, is the gap between it and Kline and Moretti's TVA
-(THEORY-1461), and footnote 20 of the 2002 paper is answered here for
-industry mix, against the persistence Juhász finds (THEORY-919). Filed
-from it: THEORY-tmp7uo3b. No instruction for machine-learning practice.
+([THEORY-1461](../theory.d/THEORY-1461.md)), and footnote 20 of the 2002 paper is answered here for
+industry mix, against the persistence Juhász finds ([THEORY-919](../theory.d/THEORY-919.md)). Filed
+from it: [THEORY-tmp7uo3b](../theory.d/THEORY-tmp7uo3b.md). No instruction for machine-learning practice.

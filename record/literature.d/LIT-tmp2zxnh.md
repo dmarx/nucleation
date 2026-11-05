@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpqfxp3) from NBER Working Paper 21156 as
+  read 2026-11-05 ([NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) from NBER Working Paper 21156 as
   revised September 2015, on NBER's own site, not from the AER version of
   record; worth reading as randomized evidence that the benefit of a
   better environment is carried out of the place by the people exposed to
@@ -73,7 +73,7 @@ Chetty, R., Hendren, N. & Katz, L. F. (2016). The Effects of Exposure to Better 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpqfxp3. Page numbers are the working paper's.*
+*From the reading, [NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md). Page numbers are the working paper's.*
 
 - **Standing support, a transient restriction.** The vouchers "could
   initially (for the first year) only be used in census tracts with 1990
@@ -100,15 +100,15 @@ Chetty, R., Hendren, N. & Katz, L. F. (2016). The Effects of Exposure to Better 
 
 ## Standing in the record
 
-Registered with the gap-filling readings for CLAIM-600's clause that the
+Registered with the gap-filling readings for [CLAIM-600](../claims.d/CLAIM-600.md)'s clause that the
 unit whose persistence counts must be the one the support was for. Here
 the return is carried by people, not places: children keep it into
 adulthood after they leave the supported household, while their parents,
 given the same places, gain nothing. It is the mirror of Collins and
-Shester (LIT-2161, THEORY-1470) and LaVoice (LIT-2142, THEORY-1476), where
-places gained and people were dispersed; LaVoice's reading, NOTE-1680,
+Shester ([LIT-2161](LIT-2161.md), [THEORY-1470](../theory.d/THEORY-1470.md)) and LaVoice ([LIT-2142](LIT-2142.md), [THEORY-1476](../theory.d/THEORY-1476.md)), where
+places gained and people were dispersed; LaVoice's reading, [NOTE-1680](../notes.d/NOTE-1680.md),
 already cites it. It is not a withdrawal test: the subsidy continued, and
 what ended was childhood, so it shows persistence after the end of
 exposure. The closer case of truly transient support persisting in people
-is Banerjee, Duflo and Sharma (THEORY-1493). Filed from it:
-THEORY-tmptpq58. No instruction for machine-learning practice.
+is Banerjee, Duflo and Sharma ([THEORY-1493](../theory.d/THEORY-1493.md)). Filed from it:
+[THEORY-tmptpq58](../theory.d/THEORY-tmptpq58.md). No instruction for machine-learning practice.

@@ -22,8 +22,8 @@ date: '2026-11-05'
 source:
 - LIT-tmppaj4l
 summary: >-
-  Bleakley & Lin (2012), LIT-tmppaj4l, read from Philadelphia Fed WP 11-38
-  and NBER w16314 in NOTE-tmpslfbd, not from the QJE text. Proposed: the
+  Bleakley & Lin (2012), [LIT-tmppaj4l](../literature.d/LIT-tmppaj4l.md), read from Philadelphia Fed WP 11-38
+  and NBER w16314 in [NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md), not from the QJE text. Proposed: the
   identification is cross-sectional within watersheds; the rise relative
   to 1850 may partly be late adjustment to the old advantage; the sunk
   assets checked are many but not all; and the authors say their results
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Bleakley & Lin (2012), LIT-tmppaj4l; read in NOTE-tmpslfbd from
+Bleakley & Lin (2012), [LIT-tmppaj4l](../literature.d/LIT-tmppaj4l.md); read in [NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md) from
 Philadelphia Fed WP 11-38 (September 6, 2011) and NBER w16314 (August
 2010). The QJE version of record was not read. Page numbers are WP
 11-38's.
@@ -72,6 +72,6 @@ housing and infrastructure, the marks of slow reversion.
   (p. 33); the effect needs enough coordinated activity.
 - **Anything about withdrawn policy support.** The advantage was natural;
   carrying the result to support withdrawn, as against the TVA
-  (THEORY-1461) or CLAIM-600, is the record's analogy.
+  ([THEORY-1461](THEORY-1461.md)) or [CLAIM-600](../claims.d/CLAIM-600.md), is the record's analogy.
 - **That the founders persisted.** The unit is a site's density, not its
   people.

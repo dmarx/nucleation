@@ -305,10 +305,10 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
 Read to fill a gap the supplied-maintenance filing left: whether persistence after withdrawal is self-sustaining or slow reversion. The works were chosen by the assistant.
 
 - **Both poles, now on the record.**
-  - Japanese cities returned to their pre-war relative size within 15–20 years of WWII bombing, Hiroshima and Nagasaki included (Davis and Weinstein, NOTE-tmpqnndy). The companion search for multiple equilibria finds "no support for the existence of multiple equilibria" (NOTE-tmpbzli4).
-  - US cities at historical portage sites are still 60–100 % denser than comparable sites a century after portage stopped mattering, with no decay (Bleakley and Lin, NOTE-tmpslfbd). The case passes their tests against slow reversion: matching on past density, the age of housing stock, and prices.
-  - Against these two, the Tennessee Valley Authority (NOTE-1646) is the ambiguous case. The claim's caution that slow reversion can mimic persistence now has its contrast cases.
+  - Japanese cities returned to their pre-war relative size within 15–20 years of WWII bombing, Hiroshima and Nagasaki included (Davis and Weinstein, [NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md)). The companion search for multiple equilibria finds "no support for the existence of multiple equilibria" ([NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md)).
+  - US cities at historical portage sites are still 60–100 % denser than comparable sites a century after portage stopped mattering, with no decay (Bleakley and Lin, [NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md)). The case passes their tests against slow reversion: matching on past density, the age of housing stock, and prices.
+  - Against these two, the Tennessee Valley Authority ([NOTE-1646](../notes.d/NOTE-1646.md)) is the ambiguous case. The claim's caution that slow reversion can mimic persistence now has its contrast cases.
 - **Size, again.** Bleakley and Lin find almost no effect at the smallest watersheds, an echo of the condition on size.
-- **The unit, from the other side.** In Moving to Opportunity (Chetty, Hendren and Katz, NOTE-tmpqfxp3) the gain was carried by children who moved young, into adult earnings, while parents in the same places gained nothing. That is the mirror of urban renewal, where the place gained and its people were dispersed. The voucher was standing support, not transient; what ended was childhood.
+- **The unit, from the other side.** In Moving to Opportunity (Chetty, Hendren and Katz, [NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) the gain was carried by children who moved young, into adult earnings, while parents in the same places gained nothing. That is the mirror of urban renewal, where the place gained and its people were dispersed. The voucher was standing support, not transient; what ended was childhood.
 
 No status changes.
