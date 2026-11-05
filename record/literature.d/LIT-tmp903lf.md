@@ -1,0 +1,94 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md)) from the open copy at PLOS ONE
+  (CC0); worth reading as an agency's account of species held up by
+  perpetual habitat upkeep: Hawaiian Coot, Stilt and Gallinule were stable
+  or rising from 1986 to 2007, with refuges that are 15 % of coastal-plain
+  wetland holding 34–42 % of each population, under weed control,
+  predator control and water-level management that the authors say must
+  continue "into perpetuity". Also one of three neighbours standing in for
+  the unread Scott et al. (2010), [LIT-tmp5lbzn](LIT-tmp5lbzn.md), for the concept of
+  conservation reliance only. Observational, with managed and unmanaged
+  non-refuge sites lumped; the decline without management is asserted
+  from one marsh and cited studies, not measured; the authors run the
+  refuges.
+title: "Managing Conservation Reliant Species: Hawai'i's Endangered Endemic Waterbirds"
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look to
+    reintroduction and ecological recovery for what makes support safe or
+    hazardous to remove (works chosen by the assistant), as a stand-in for
+    Scott et al. (2010), LIT-tmp5lbzn, whose text could not be reached, on
+    the kinds of ongoing management and the claim that they are
+    perpetual. It cites Scott et al. (2005), Scott et al. (2010) and Reed
+    et al. (2012) together for the label "conservation reliant", and
+    carries none of their counts. Citation checked against Crossref (no
+    mailto): Jared G. Underwood, Mike Silbernagle, Mike Nishimoto and Kim
+    Uyehara, PLoS ONE 8(6): e67872; Crossref's published-online date,
+    2013-06-25, is `published:`. Copy: the article's JATS XML from
+    journals.plos.org.
+tags:
+- ecology
+- natural-sciences
+date: '2026-11-05'
+published: '2013-06-25'
+doi: '10.1371/journal.pone.0067872'
+first_author: 'Underwood'
+keywords:
+- 'conservation reliant'
+- 'Hawaiian waterbirds'
+- 'wetland management'
+- 'national wildlife refuges'
+- 'population trends'
+implementations: []
+summary: >-
+  Underwood, Silbernagle, Nishimoto & Uyehara (2013). US Fish and Wildlife
+  Service biologists compare 1986–2007 trends of Hawaiian Coot, Stilt and
+  Gallinule on six actively managed refuges with those statewide: all
+  three are stable or increasing, and the refuges, about 15 % of the
+  wetland, hold 34–42 % of each population. The upkeep is constant weed
+  control, predator fencing and trapping, and water-level manipulation;
+  in an unmanaged 400-ha marsh, invasion and sedimentation had brought
+  "almost a complete loss of wetland functionality for waterbirds". The authors hold that
+  "without perpetual active management of wetlands in Hawai'i, the
+  endangered waterbird species likely would experience population
+  declines".
+---
+<!-- inactive-ok-file: LIT-tmp5lbzn THEORY-tmps14d3 CLAIM-597 CLAIM-566 — Unavailable, Proposed or new; cited from the reading of Underwood et al. (2013) as open -->
+
+# LIT-tmp903lf: Managing Conservation Reliant Species: Hawai'i's Endangered Endemic Waterbirds
+
+Underwood, J. G., Silbernagle, M., Nishimoto, M. & Uyehara, K. (2013). Managing Conservation Reliant Species: Hawai'i's Endangered Endemic Waterbirds. *PLoS ONE* 8(6), e67872. doi:10.1371/journal.pone.0067872
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md).*
+
+- **The label.** The birds "have recently been categorized as
+  “conservation reliant”, which implies that they will require active
+  management into perpetuity" (Introduction).
+- **Three kinds of upkeep, together.** Weed control that "must be
+  constant", predator barriers, and water management "to mimic natural
+  hydrological processes that have been highly altered or lost"; "all
+  three management actions in concert are required" (Introduction).
+- **Fast decay without it.** "When wetlands are not actively managed,
+  waterbird habitat can rapidly degrade" (Introduction); Kawainui Marsh,
+  unmanaged, "provided habitat for only a handful of birds" (Discussion).
+- **No end in view.** "the fate of these species will be perpetually tied
+  to the amount of habitat that is actively managed for them"
+  (Conclusion).
+
+## Standing in the record
+
+One of three neighbours standing in for the unread Scott et al. (2010),
+[LIT-tmp5lbzn](LIT-tmp5lbzn.md), with Mussmann et al. (2017) and Brown et al. (2019); it
+stands in only for the kinds of ongoing management and the claim that
+they are perpetual, and for what it asserts itself. It cites Scott 2010,
+with Scott et al. (2005) and Reed et al. (2012), for the label
+"conservation reliant". It bears on [CLAIM-597](../claims.d/CLAIM-597.md), which it supports by
+analogy (upkeep against continuing damage, with decline expected when it
+stops), on [CLAIM-566](../claims.d/CLAIM-566.md) and on [QUESTION-398](../questions.d/QUESTION-398.md). Filed from it: [THEORY-tmps14d3](../theory.d/THEORY-tmps14d3.md).

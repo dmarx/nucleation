@@ -1,0 +1,112 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md)) from the Digital Library of the
+  Commons copy (handle 10535/4512), printed pp. 178–208 of what appears to
+  be the 1997 GAIA reprint, not the World Development pages; worth reading
+  as the synthesis of the 1996 World Development special section on
+  state-society synergy, and as the record's only access to Ostrom (1996),
+  [LIT-tmp0ovl4](LIT-tmp0ovl4.md), whose two cases and production functions it summarises.
+  It holds that the useful support is a dependable public input the
+  community cannot produce, given with continuing official contact, and
+  that small-scale synergy can be built even in adverse settings, the
+  limit being scaling up rather than prior social capital. A secondary
+  synthesis of five articles plus Tendler, with no data of its own beyond
+  an anecdote, positive cases chosen, and no measure of persistence after
+  support ended; what it says of Ostrom is second-hand and in its own
+  framing.
+title: 'Government Action, Social Capital and Development: Reviewing the Evidence on Synergy'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look to
+    urban development and city planning for what makes support safe or
+    hazardous to remove (works chosen by the assistant), as the neighbour
+    that stands in for Ostrom (1996), LIT-tmp0ovl4, which was not reached.
+    Citation checked against Crossref (no mailto): Peter Evans, World
+    Development 24(6): 1119–1132, doi:10.1016/0305-750x(96)00021-6.
+    Crossref gives the month only (issued 1996-06), so `published:` is
+    1996-06-01, the first of the month. The copy is from the Digital
+    Library of the Commons (Indiana University, Ostrom Workshop), handle
+    https://hdl.handle.net/10535/4512, found through its DSpace REST
+    search, no bot check or paywall: 32 PDF pages catalogued as a working
+    paper of 1997, running heads pp. 178–208. That matches a chapter of the
+    1997 UC Berkeley GAIA volume State-Society Synergy (ed. Evans), which
+    the text does not name, so this is inferred. It refers to "the five
+    preceding articles" (Lam, Heller, Ostrom, Fox, Burawoy), so it is the
+    same synthesis; the World Development pagination was not seen. Read in
+    full, §§1–4 and the notes; the reference list skimmed.
+tags:
+- society-and-governance
+- social-science
+date: '2026-11-05'
+published: '1996-06-01'
+doi: '10.1016/0305-750x(96)00021-6'
+first_author: 'Evans'
+keywords:
+- 'state-society synergy'
+- 'social capital'
+- 'complementarity'
+- 'embeddedness'
+- 'coproduction'
+- 'scaling up'
+implementations: []
+summary: >-
+  Evans (1996). Reviewing the special section's five articles and
+  Tendler's Ceará study, Evans rejects a zero-sum view of state and civil
+  society for "state-society synergy": complementarity, each side
+  supplying inputs the other cannot, from the rule of law to trunk sewers,
+  and embeddedness, everyday ties between officials and citizens that make
+  the complementarity usable. Prior endowments of social capital "are not
+  the key constraining factor"; the limit is "scaling up", and small-scale
+  synergy is constructable even in adverse settings, by new identities,
+  soft technologies of organisation and redefining the problem. Per Evans,
+  Ostrom's Recife sewers and Nigerian schools are the coproduction and
+  anti-synergy cases.
+---
+<!-- inactive-ok-file: LIT-tmp0ovl4 THEORY-tmpn026x CLAIM-tmpc3x0c CLAIM-597 CLAIM-tmpoh07b — Unavailable, Proposed or new; cited from the reading of Evans (1996) as open -->
+
+# LIT-tmp43hfu: Government Action, Social Capital and Development: Reviewing the Evidence on Synergy
+
+Evans, P. (1996). Government Action, Social Capital and Development: Reviewing the Evidence on Synergy. *World Development* 24(6): 1119–1132. doi:10.1016/0305-750x(96)00021-6.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md). Page numbers are those printed on the
+copy read (178–208), not the journal's.*
+
+- **Complementarity is the precondition.** "When public agents and
+  citizens have sufficiently different (but equally necessary) kinds of
+  inputs, they can produce more efficiently by combining their efforts
+  than by either producing everything privately or everything publicly"
+  (p. 187, on Ostrom's production functions).
+- **Embeddedness keeps it going.** In the Recife sewers, after
+  construction "monitoring and maintenance required continuous
+  face-to-face interaction" between familiar agency staff and the
+  neighbourhoods (pp. 187–188).
+- **Dependable supply, not a hand-over.** "Active citizens are hamstrung
+  unless their governments dependably supply them with inputs that they
+  cannot produce on their own" (p. 204).
+- **Substitution crowds out; embedding does not.** In Nepal, "Direct
+  involvement of the state bureaucracy in the operations of local systems
+  undercut the development of the collective institutions that
+  farmer-managed systems depended on" (p. 183), against Taiwan's
+  "enmeshment".
+- **Constructable, limited by scale.** "prior endowments of social capital
+  are not the key constraining factor", the limit being "scaling up"
+  (p. 191).
+
+## Standing in the record
+
+Read, in what appears to be the 1997 reprint; filed as a neighbour of
+Ostrom (1996), [LIT-tmp0ovl4](LIT-tmp0ovl4.md), which was not reached. It stands in only for
+what Evans says of her article, not for her own definition of
+coproduction, her formal conditions or the detail of her Nigerian case.
+For the branch's argument it says the official side of coproduction is a
+standing input, not transient support: that qualifies [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md),
+supports [CLAIM-597](../claims.d/CLAIM-597.md), and supports [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) with Nepal, qualified by
+Taiwan, where deep official involvement that was embedded rather than
+substitutive coexisted with strong farmer organisation. The field data for the sewers are Watson (1995), [LIT-tmpz5i4k](LIT-tmpz5i4k.md).
+Filed from it: [THEORY-tmpn026x](../theory.d/THEORY-tmpn026x.md).

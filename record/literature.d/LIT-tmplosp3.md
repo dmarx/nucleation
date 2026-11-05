@@ -1,0 +1,110 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpq005d](../notes.d/NOTE-tmpq005d.md)) from the publisher's version
+  deposited in the NSF Public Access Repository; worth reading as the
+  senior author's own account, twelve years on, of what applied
+  nucleation does and where it fails, and as the stand-in for the unread
+  Corbin & Holl (2012), [LIT-tmpr7i8v](LIT-tmpr7i8v.md), on mechanism, comparisons, cost and
+  nucleus size. It separates planted trees, which once established keep
+  drawing dispersers and improving microsites, from perches and bat boxes,
+  which leave no improved conditions and decay within years, and insists
+  that nuclei must also spread, which is slow and rarely measured. A
+  five-page opinion article: its 64 m² minimum and 1–5% planted share are
+  cited from others or unpublished, its cost comparison is unpublished, and
+  it reports nothing on what follows the end of maintenance.
+title: 'A call for practical spatially patterned forest restoration methods'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look to
+    reintroduction and ecological recovery for what makes support safe or
+    hazardous to remove (works chosen by the assistant), as a stand-in for
+    Corbin & Holl (2012), LIT-tmpr7i8v, which could not be reached: Holl
+    is the senior author of both, and this article reviews the applied-
+    nucleation literature since and cites Corbin & Holl throughout. It
+    stands in for that review's account of mechanism, the comparison with
+    plantation and natural regeneration, cost and the minimum nucleus, as
+    the authors now hold them, not for its literature tables or wording.
+    Citation checked against Crossref (no mailto): Karen D. Holl, J.
+    Leighton Reid, Rakan A. Zahawi, Ludmila P. de Siqueira and Pedro H. S.
+    Brancalion, Restoration Ecology 32(8): e14266, an Opinion Article;
+    received 11 June 2024, accepted 14 August 2024. `published:` is
+    Crossref's `published-online`, 2024-09-05; the print issue is 2024-11.
+    Copy: the publisher's version deposited under the NSF public-access
+    policy, https://par.nsf.gov/servlets/purl/10555451 (landing page
+    par.nsf.gov/biblio/10555451), 5 pp.
+tags:
+- ecology
+- complex-systems
+date: '2026-11-05'
+published: '2024-09-05'
+doi: '10.1111/rec.14266'
+first_author: 'Holl'
+keywords:
+- 'applied nucleation'
+- 'assisted natural regeneration'
+- 'cost'
+- 'large-scale restoration'
+- 'strip planting'
+implementations: []
+summary: >-
+  Holl, Reid, Zahawi, de Siqueira & Brancalion (2024). An opinion article
+  on applied nucleation, planting patches of trees to speed forest
+  recovery, and other spatially patterned methods. Nuclei work by
+  "attracting seed dispersing animals", improving conditions for seedlings
+  within and at their edges, and spreading; perches and bat boxes "do not
+  improve local conditions for seedling establishment and growth" and soon
+  decay, whereas "once established, trees attract dispersers and modify
+  microsite conditions continuously". Spread "may be slow and highly
+  unpredictable" and is seldom measured. A nucleus of about 64 m² is
+  cited as the minimum in tropical moist forest; planting 1–5% of a site
+  is judged too little. Nuclei cost more than strips where planting is
+  mechanized and less on steep, hand-planted ground. The method does not
+  fit where dispersers are gone or regeneration is invasive.
+---
+<!-- inactive-ok-file: LIT-tmpr7i8v THEORY-tmpegb8y CLAIM-597 CLAIM-tmpw4ai2 CLAIM-tmpoh07b — Unavailable, Proposed or new; cited from the reading of Holl et al. (2024) as open -->
+
+# LIT-tmplosp3: A call for practical spatially patterned forest restoration methods
+
+Holl, K. D., Reid, J. L., Zahawi, R. A., de Siqueira, L. P. & Brancalion, P. H. S. (2024). A call for practical spatially patterned forest restoration methods. *Restoration Ecology* 32(8): e14266. doi:10.1111/rec.14266.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpq005d](../notes.d/NOTE-tmpq005d.md). Page numbers are the article's "n of
+5".*
+
+- **A living nucleus against an inert aid.** Perches and bat boxes "do
+  not improve local conditions for seedling establishment and growth" and
+  have "short-term impacts"; "In contrast, once established, trees
+  attract dispersers and modify microsite conditions continuously"
+  (p. 2).
+- **Spread is required and unmeasured.** Nuclei must "not only establish
+  but also spread over time, which may be slow and highly unpredictable",
+  yet "few studies have monitored seedling establishment adjacent to
+  actively restored patches" (p. 2).
+- **Outside inputs and feedback are not exclusive.** Against the split
+  between nucleation that depends on outside inputs and autocatalytic
+  nucleation: "We contend that these mechanisms are not mutually
+  exclusive" (p. 2).
+- **Thresholds, cited not shown.** About 64 m² as a minimum nucleus in
+  tropical moist forest; planting "1–5% of the overall restored area" is
+  "unlikely to catalyze forest recovery within a reasonable time frame"
+  (p. 3).
+- **Where it fails.** "where key seed dispersing fauna have been
+  extirpated" (p. 4).
+
+## Standing in the record
+
+A stand-in for the unread Corbin & Holl (2012), [LIT-tmpr7i8v](LIT-tmpr7i8v.md), for the
+mechanism of applied nucleation, its comparison with plantation and
+natural regeneration, its cost and the minimum nucleus, as the authors now
+hold them; not for that review's literature tables or wording. It bears
+on [CLAIM-597](../claims.d/CLAIM-597.md) (the colonists come from outside, but from the landscape, not
+the intervener, so the planting can be withdrawn and the supply cannot),
+on [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (a nucleus's draw on dispersers grows with its own
+state), on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (the perch that does the work and decays against
+the tree that becomes the capacity), and on [QUESTION-398](../questions.d/QUESTION-398.md) and
+[QUESTION-399](../questions.d/QUESTION-399.md). Filed from it: [THEORY-tmpegb8y](../theory.d/THEORY-tmpegb8y.md).

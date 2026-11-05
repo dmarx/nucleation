@@ -1,0 +1,233 @@
+---
+status: Read
+paper: LIT-tmptwxqv
+title: 'St John — Blazing Grace: the gifted culture of Burning Man'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the publisher's open-access PDF
+    (https://nanocrit.com/index.php/download_file/837/342), 16 pages, CC
+    BY-NC-SA 4.0 (p. 1); text extracted from the PDF. Read: the abstract,
+    the whole essay (pp. 2–13: the opening, The Gift, Sherpagate,
+    Renaissance Man, The "Virtuous Circle") and the works cited (pp.
+    13–16), checked for what the quoted statements are drawn from. Not
+    read: nothing; the three figures are photographs. Read as the stand-in
+    for Harvey's Ten Principles (LIT-tmpp546j), not reached. Page numbers
+    below are the PDF's footers.
+date: '2026-11-05'
+summary: >-
+  An ethnographer's essay reading Burning Man as a gift culture through
+  Hyde's The Gift. Gifts oblige no return to the giver, yet gratitude keeps
+  them circulating, the return going to the community in later labour
+  (generalized reciprocity, after Sahlins); trinket swapping is the
+  balanced kind. The threat is non-participation, sharpened in 2014 by paid
+  camps for wealthy visitors and met by reforming camp placement, and the
+  Burning Man Project's 2016 answer to artists' poverty was patronage.
+  Interpretive; nothing is measured.
+---
+<!-- inactive-ok-file: LIT-tmpp546j THEORY-tmpy3r99 CLAIM-tmpqa0qu CLAIM-tmpoh07b CLAIM-597 THEORY-1351 CLAIM-554 THEORY-tmph35ra THEORY-663 THEORY-626 THEORY-1352 CLAIM-428 THEORY-468 — Unavailable, Proposed or new; cited from the reading of St John (2017) as open -->
+
+# NOTE-tmpdk5dq: St John — Blazing Grace: the gifted culture of Burning Man
+
+## Contribution
+
+St John, a cultural anthropologist working on Burning Man, gives an account
+of how its gift culture is meant to work and how it held up under a
+challenge. He takes Hyde's The Gift as the lens the organization itself
+adopted, sets Hyde's gift that circulates through gratitude against
+Mauss's gift that binds, and follows the 2014 "Sherpagate" crisis and the
+2016 art theme, Da Vinci's Workshop, through which the Burning Man Project
+(BMP) tried to fund artists without abandoning the gift.
+
+## Key insight
+
+The gift is one-way between persons and reciprocal only toward the whole.
+The giver contemplates no return and the recipient owes none; yet the
+recipient's gratitude moves them to give in turn, at later events and to
+others, until they come to identify "with the gift itself—i.e. with
+Burning Man" (p. 7). What threatens such a culture is not ingratitude but
+people who come only to receive.
+
+## Assumptions
+
+- **Hyde's account of gratitude is the right lens.** St John flags its
+  limits: Hyde passes over the "negative side" of gift exchange (p. 5),
+  being unconcerned with gifts "given in spite or fear, nor those gifts we
+  accept out of servility or obligation" (p. 6), and his separation of gift
+  from market is "problematic".
+- **Organizational statements are evidence of the culture.** Much of the
+  account rests on the Philosophical Center's essays (Caveat Magister,
+  Larry Harvey), a media officer and a newsweekly, with the author's own
+  fieldwork as narrative.
+- **Gifting is defined by the organization's principle.** The Gifting
+  principle is quoted without a URL or date; the list is attributed to
+  Harvey in 2004.
+
+## Key results
+
+- **The principles (p. 3).** "Formulated by Larry Harvey in 2004", the ten
+  are listed (Radical Inclusion, Gifting, Decommodification, Radical
+  Self-Reliance, Radical Self-Expression, Communal Effort, Civic
+  Responsibility, Leave No Trace, Participation, Immediacy).
+- **Gifting, quoted (p. 4).** "Burning Man is devoted to acts of gift
+  giving. The value of a gift is unconditional. Gifting does not
+  contemplate a return or an exchange for something of equal value."
+- **Decommodification in practice (p. 3).** "with the exception of ice and
+  coffee, nothing is for sale at the event; there is no corporate
+  sponsorship, no advertising".
+- **Self-provision (p. 3), under Leave No Trace.** "participants must pack
+  in all their supplies and pack out all their waste". The city is "all
+  completely dismantled and removed following the event".
+- **Participation (pp. 3–4).** Characterized by "being through doing"; the
+  event "relies on thousands of volunteers".
+- **Two reciprocities (pp. 4–5).** Trinket or swag exchange is "a form of
+  direct exchange of some equivalence", Sahlins's balanced reciprocity
+  (p. 4). Other gifts: "the bestowers of the gift do not contemplate a
+  return", which resembles the "generalized reciprocity" of
+  household-kinship relations (p. 5).
+- **No obligation, yet circulation (p. 5).** "While there is an absence of
+  an obligation on the part of the recipient to reciprocate", such gifts
+  "nevertheless inspire gratitude and thus a response that keeps the gift
+  in motion".
+- **A culture, not an economy (p. 4).** After Caveat Magister of the
+  Philosophical Center, Burning Man is not a gift, barter or exchange
+  economy, "but a gift culture".
+- **The return, on Hyde (p. 6).** "Giving a return gift is the final act in
+  the labor of gratitude, and it is also, therefore, the true acceptance of
+  the original gift".
+- **Against Mauss (pp. 6–7).** The Burners' giving "deviates dramatically
+  from the laws of indebtednesss [sic] collected by Mauss" (p. 6); in
+  Mauss's example a shared drink is "liable to turn against one of them if
+  he would fail to honor the law" (p. 7). But: "While one can observe such
+  relationships at Burning Man" (p. 7), Hyde fits the culture better.
+- **To whom the return goes (p. 7).** "The gifted become one with their
+  gifts" (Hyde); the Burner expresses "through countless labors in
+  subsequent events a gratitude for untold gifts bestowed unto them".
+- **Non-participation (pp. 3–4).** Non-participants "becoming an audience to
+  an event produced by others" (p. 3); a newsweekly piece: "everyone here
+  has brought something to share with others", but now more who "come here
+  to experience and consume the party" (p. 4).
+- **Commercial free riding (pp. 7–8).** Sherpagate drew grievance at the
+  "outsourcing of event principles" "like Gifting, Participation, and
+  Radical Self-Reliance" (p. 7); "Plug-n-Play" is "a phrase referencing
+  non-participatory camps" (p. 8).
+- **Redress (p. 8).** Among practical solutions, "reform of theme camp
+  registration criteria and placement policy". The sanction is on
+  placement, not repayment.
+- **Gifts funded from outside the event (pp. 9–10).** The BMP's 2016
+  "$1.2 million to artists in the form of honoraria"; yet "much of the art
+  in the gifting culture of BRC is self-funded", and the lighthouse project
+  of the opening "ran at a loss" (p. 9). A dance camp gives its gifts
+  "typically without funding from Burning Man" (p. 10), on year-round
+  fundraising.
+- **Self-sustaining, but not as a business (p. 11).** Caveat Magister sees
+  nothing wrong with "being self-sustaining", but camps that become one
+  more business strategy "accomplish nothing".
+- **Prestige (p. 11).** In the competition for attention "one finds in
+  Burning Man the rivalry that Bataille attributed to the potlatch"; these
+  expenditures "remain largely under-researched".
+
+## Concepts
+
+- **Gift culture**, against a gift economy: gifting as a way of making
+  connections, not a system of exchange (p. 4).
+- **Balanced and generalized reciprocity** (Sahlins): a direct exchange of
+  rough equivalents, against giving with no return contemplated, as in a
+  household (pp. 4–5).
+- **Labor of gratitude** (Hyde): the work by which a recipient becomes like
+  the gift and gives in turn, the return gift completing its acceptance
+  (p. 6).
+- **Gift in motion**: a gift keeps its power only while it circulates and
+  is consumed, not kept (pp. 3, 10).
+- **Spectator, tourist, Plug-n-Play**: the figures of those who receive
+  without participating (pp. 3–4, 8).
+- **Matronage**: patronage that builds relationships between artists,
+  communities and funders rather than only moving money (p. 10).
+- **Potlatch rivalry** (Bataille): competitive expenditure for status
+  (p. 11).
+
+## Connections
+
+It draws on Hyde's The Gift for its account, on Sahlins's Stone Age
+Economics for the forms of reciprocity, on Mauss through "Gift, Gift" and
+The Gift (Halls translation) for the binding gift, on Bataille for
+expenditure and potlatch, and on Turner for social drama.
+
+- **Harvey (2004), [LIT-tmpp546j](../literature.d/LIT-tmpp546j.md).** It restates the Gifting principle
+  verbatim and the list of the ten with its author and year. It does not
+  restate the wording of any other principle: Decommodification, Leave No
+  Trace and Participation are described in St John's words, and Radical
+  Self-Reliance, Communal Effort and the rest only named.
+- **Mauss (1925)**, filed in parallel from this batch, is the source of the
+  obligating gift St John contrasts with Hyde's; he cites Mauss second-hand
+  through the "Gift, Gift" essay and Moore (2011).
+- **Hattori (2001)**, filed in parallel, applies the gift to foreign aid;
+  St John says nothing about aid.
+- **The aid batch.** Ostrom et al. ([LIT-tmpnb22c](../literature.d/LIT-tmpnb22c.md), [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md)): the
+  Samaritan's dilemma, where predictable help weakens the recipient's
+  upkeep. St John's paid "sherpas" doing what participants would otherwise
+  do is a loose parallel, framed as a breach of principle, with no
+  mechanism or evidence about effort. Moore ([LIT-tmpsb4vt](../literature.d/LIT-tmpsb4vt.md)) and Moss et al.
+  ([LIT-tmp4d1o2](../literature.d/LIT-tmp4d1o2.md)), on aid substituting for taxation: no bearing beyond the
+  remark that self-funded gifts and outside honoraria coexist.
+- **Held accounts of reciprocity.** [THEORY-567](../theory.d/THEORY-567.md) (Nowak's five mechanisms):
+  indirect reciprocity is the formal kin of the generalized reciprocity
+  described here. [THEORY-663](../theory.d/THEORY-663.md) (Trivers) and [THEORY-672](../theory.d/THEORY-672.md) (Axelrod): bilateral
+  reciprocity with help withheld from cheats, the kind St John says the
+  culture is not. [THEORY-1352](../theory.d/THEORY-1352.md) (Van Lange and Bergmann): dyadic precise
+  reciprocity. [THEORY-626](../theory.d/THEORY-626.md) (Fiske): communal sharing against equality
+  matching parallels generalized against balanced reciprocity. [THEORY-696](../theory.d/THEORY-696.md)
+  (pooling and equal splitting), [CLAIM-428](../claims.d/CLAIM-428.md) (interdependence organized as
+  opportunity or vulnerability) and [THEORY-468](../theory.d/THEORY-468.md) (morality as cooperation)
+  are nearby.
+
+## Bearing on the record
+
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md): qualifies.** The claim frames self-sufficiency as
+  reciprocity. St John's gift is one-way between giver and recipient (no
+  return contemplated, no obligation) and reciprocal only toward the whole,
+  where recipients give back through later labour. So the reciprocity the
+  claim names need not be bilateral; generalized giving can carry it. Self-
+  provision (pack in, pack out) is required beside gifting. Interpretive,
+  and no evidence on capability lost or kept.
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md): none.** Nothing on capacity learned by doing under
+  outside supply; the Plug-n-Play camps do for participants what they would
+  otherwise do themselves, but St John treats this as a breach of
+  principle, not a loss of skill.
+- **[CLAIM-597](../claims.d/CLAIM-597.md): none.**
+- **[THEORY-1048](../theory.d/THEORY-1048.md) (Black Queen): leaves open, by analogy only.** Spectators
+  who bring nothing and consume what others give resemble beneficiaries of
+  a leaky good; the response described is administrative (placement), not
+  a frequency-dependent limit.
+- **[THEORY-1351](../theory.d/THEORY-1351.md), [CLAIM-554](../claims.d/CLAIM-554.md), [QUESTION-277](../questions.d/QUESTION-277.md): none.**
+- **[QUESTION-398](../questions.d/QUESTION-398.md): none directly.** The city is rebuilt and dismantled each
+  year; nothing concerns independence from a founding intervention.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md): loosely related** (see Connections).
+- Filed: [THEORY-tmpy3r99](../theory.d/THEORY-tmpy3r99.md).
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Interpretive, not measured.** No count of gifts returned, to whom, or of
+  the share of non-participants; the account is how the culture should
+  work, from those who articulate it.
+- **Sources partly in-house.** The Philosophical Center is the culture's
+  "conscience and collective memory" by its own description, not an
+  outside observer.
+- **The Gifting quotation is second-hand**, with no URL or date for the
+  principle's text.
+- **Mauss second-hand.** Mauss's obligations are cited through a short
+  essay and a secondary book; the threefold obligation is not stated.
+- **No DOI**; a short-form humanities venue.
+
+## Open questions
+
+- Do recipients of gifts at such events give more to third parties or the
+  event than to their givers? A panel or survey of participants across
+  years would tell.
+- Did the placement reform reduce non-participating camps? Camp
+  registration records before and after 2014 would tell.
+- How is Radical Self-Reliance worded, and does it limit what may be
+  gifted? Only the principles' own page ([LIT-tmpp546j](../literature.d/LIT-tmpp546j.md)) can say.

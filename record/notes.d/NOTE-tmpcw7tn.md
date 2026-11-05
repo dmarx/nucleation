@@ -1,0 +1,211 @@
+---
+status: Read
+paper: 'LIT-tmppzod1'
+title: 'Schubert et al. — tree recruitment 16–18 years after applied nucleation, plantation and natural regeneration in Costa Rica'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the publisher's version of record deposited in
+    the NSF Public Access Repository (https://par.nsf.gov/servlets/purl/10556169),
+    a 14-page PDF stamped as downloaded by UC Santa Cruz on 19 November
+    2024; text extracted by pdftotext. Read: the abstract, Introduction,
+    Methods, Results, Discussion and Conclusions, pp. 1–11, and the figure
+    captions. Skipped: the reference list after p. 11 (consulted only for
+    citations), Appendix S1 with its tables, and the figures as images.
+    Read as a stand-in for the unread Holl et al. (2020), LIT-tmp506zp,
+    for the experiment's long-term recruitment only. Page numbers are the
+    article's "n of 14".
+date: '2026-11-05'
+summary: >-
+  The 16–18-year census of a replicated Costa Rican experiment comparing
+  natural regeneration, applied nucleation and plantation on former
+  pasture, all weeded for the first 2.5 years only. Both planted
+  treatments kept more later-successional and large-seeded recruits and
+  less variable composition than natural regeneration, nucleation
+  intermediate; but the tree layer everywhere was still pioneers and the
+  planted cohort, whose seedlings seldom reached sapling size, and
+  plantation canopy suppressed recruits. Recovery leaned on the region's
+  remnant seed sources.
+---
+<!-- inactive-ok-file: LIT-tmp506zp LIT-tmpr7i8v THEORY-tmpqkyte CLAIM-597 CLAIM-tmpw4ai2 CLAIM-tmpoh07b CLAIM-tmpqa0qu CLAIM-566 CLAIM-558 CLAIM-184 TERM-117 THEORY-128 — Unavailable, Proposed or new; cited from the reading of Schubert et al. (2024) as open -->
+
+# NOTE-tmpcw7tn: Schubert et al. — tree recruitment 16–18 years after applied nucleation, plantation and natural regeneration in Costa Rica
+
+## Contribution
+
+A full census of tree recruits almost two decades into a replicated
+restoration experiment, the longest such comparison of applied
+nucleation, plantation and natural regeneration in the tropics. It shows
+that the advantage of planting, given with only 2.5 years of upkeep,
+persisted and in later-successional richness grew, and that what carried
+on was the colonizing community the planted trees drew, not the planted
+population replacing itself.
+
+## Key insight
+
+The support built a process that ran after it stopped, but not a
+self-reproducing nucleus: the planted trees facilitate the arrival of
+others, fed by the landscape's seed sources, while their own seedlings
+"few transitioned into the sapling layer" (abstract). The heavier
+intervention entrenched its own canopy; the lighter one left more room for
+the system's own dynamics.
+
+## Assumptions
+
+- **Design (p. 3).** Ten sites in southern Costa Rica, ≥18 years farmed or
+  grazed; "At each site, we established three 0.25-ha plots" in 2004–2006,
+  randomized to natural regeneration, applied nucleation ("six tree
+  islands of three sizes: two each from 4 × 4, 8 × 8, and 12 × 12 m") or
+  plantation; "313 trees were planted in plantation, 86 in applied
+  nucleation, and none in natural regeneration plots", spacing "~2.8 m".
+- **Withdrawal (p. 3).** "All plots (including natural regeneration) were
+  cleared to ground level by machete at ~3-month intervals for the first
+  2.5 years"; then left.
+- **Attrition (p. 3).** "three sites were missing one or two treatments
+  due to major human disturbances": natural regeneration n = 9, applied
+  nucleation n = 9, plantation n = 8.
+- **Reference forests** are disturbed remnants, as "pristine" forests are
+  absent (p. 3); successional groups are expert-classified.
+- **Dispersal limitation** is taken as the primary driver of treatment
+  differences.
+- **A seed-rich landscape** of remnant forest, fence lines and farms,
+  which favours all treatments.
+
+## Key results
+
+1. **Census (p. 4).** In "June and July 2022, 16–18 years after
+   establishing plots" (p. 3), "a total of 66,446 seedling, 14,038
+   sapling, and 3842 tree recruits representing 255 operational taxonomic
+   units".
+2. **Richness gradient (p. 4).** "Overall observed species richness
+   among the treatments increased across the planting gradient with
+   natural regeneration lowest (156); and applied nucleation (185) and
+   plantation (196) intermediate; species richness of reference forest
+   (205) highest". Late-successional saplings: both planted treatments
+   "having >50% more species than natural" regeneration.
+3. **Predictability (p. 5).** "Both seedling and sapling communities
+   showed greater variability in species composition under natural
+   regeneration than in either planting intervention." Abstract:
+   "Similarity of vegetation composition to reference forest tended to
+   scale positively with treatment planting intensity."
+4. **Large seeds (abstract).** "plantation showed similar recruitment
+   densities of large-seeded (≥10 mm) species to reference forest";
+   nucleation intermediate.
+5. **The canopy is still the planted cohort (abstract, p. 7).** "Trees
+   (≥5 cm dbh) in all restoration treatments continued to be dominated by
+   a few early-successional species and originally transplanted
+   individuals"; later-successional trees were "a small fraction (8%) of
+   that in reference forest".
+6. **Not self-replacing (abstract, p. 9).** "Seedling recruits of planted taxa
+   were more abundant in applied nucleation than the other treatments
+   though few transitioned into the sapling layer", attributed to "very
+   high seedling mortality of these species that is likely driven by
+   shading and herbivory".
+7. **Survival of the planted (p. 3).** "a majority of the planted
+   softwoods had died" (34.5% and 22.9% surviving); the two native
+   late-successional species about 82%.
+8. **Heavy against light intervention (p. 9).** "we observed an overall
+   suppression of natural recruits reaching the canopy in plantations and
+   a trend toward accelerated recruit growth (i.e., more tree-sized stems)
+   in applied nucleation for some later-successional species". Large birds
+   visited plantations more often over a decade (Reid et al. 2021).
+9. **Possible convergence (p. 8), unpublished.** Dispersal differences
+   among treatments "have diminished substantially", "suggesting that
+   recruit similarity across restoration treatments may converge over
+   time".
+10. **Natural regeneration's risk (p. 9).** "the greater likelihood of
+    poor outcomes such as stalled recovery or invasion make natural
+    regeneration a potentially risky strategy".
+11. **The landscape supplies the colonists (p. 10).** Recolonization
+    "is partly a function of the extensive seed sources remaining in
+    remnant forests", and "would likely be substantially slower in more
+    deforested landscapes"; full recovery "is likely to take several
+    decades to centuries".
+12. **Legacy (p. 9).** "Given that the plantation treatment canopy
+    remains dominated by planted species, canopy thinning might help to
+    further accelerate recovery processes".
+
+## Concepts
+
+- **a gradient of intervention intensity**: natural regeneration, applied
+  nucleation, plantation.
+- **legacy effects** of planted species on later composition.
+- **recruitment limitation by seed size**.
+- **arrested succession**, as a risk under natural regeneration, not as a
+  demonstrated alternative state.
+- **predictability**: among-site variance in composition as an outcome.
+
+## Connections
+
+The later census of the experiment Holl et al. (2020), [LIT-tmp506zp](../literature.d/LIT-tmp506zp.md),
+reported at 15 years, unread; it cites Holl et al. (2020) for plantations'
+greater canopy cover. Its mechanism is the one Holl et al. (2024),
+[LIT-tmplosp3](../literature.d/LIT-tmplosp3.md), states, and the review it builds on is Corbin & Holl
+(2012), [LIT-tmpr7i8v](../literature.d/LIT-tmpr7i8v.md), unread. Arrested succession is a "likelihood" here,
+not shown to be an alternative stable state, consistent with [THEORY-136](../theory.d/THEORY-136.md);
+reduced among-site variability is predictability, distinct from the
+resilience of [THEORY-132](../theory.d/THEORY-132.md) and [LIT-741](../literature.d/LIT-741.md). Recovery depends on biotic agents
+(dispersers, remnant seed sources) the restoration did not supply, as
+coral recovery depends on herbivores in [THEORY-128](../theory.d/THEORY-128.md). Other works of this
+batch are cited by author-year in their own filings.
+
+## Bearing on the record
+
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (independent of the founder, never of the feed):
+  qualifies its scope. After weeding stopped, recovery ran on an outside
+  supply, the landscape's seed rain, that is not the intervener's and
+  would be slower "in more deforested landscapes". The planting became
+  withdrawable; dependence on the landscape did not end. Consistent with
+  the claim's split between founding and feeding.
+- **[CLAIM-566](../claims.d/CLAIM-566.md)** (assemble, persist, regenerate): supports it strongly. The
+  planted cohort assembled and persisted 16–18 years but did not
+  regenerate; what regenerates is the colonizing community it drew.
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (supply that does the work first lowers the capacity
+  kept): suggestive, in a spatial form. Plantation occupies the canopy and
+  suppresses natural recruits; nucleation leaves openings where recruits
+  grow faster. Occupancy, not lost learning, and no manipulation of
+  duration.
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)** (draw in proportion to intact state): partly. More
+  canopy drew more large birds; no threshold or hysteresis test, and the
+  island sizes are not analysed apart.
+- **[CLAIM-184](../claims.d/CLAIM-184.md)** (anchors entrench): the plantation's persistent planted
+  canopy is a legacy that later structure grows under; the authors
+  propose thinning to release it, untested.
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (restoring conditions need not restore the capacity):
+  natural regeneration's risk of stalling or invasion is consistent with
+  it; the paper reports a risk, not a stalled site.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)**, **[CLAIM-558](../claims.d/CLAIM-558.md)**: nothing.
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: a partial empirical answer at one withdrawal time.
+  Upkeep stopped at 2.5 years and the planted advantage persisted to
+  16–18; with no arm kept supported, the cost of withdrawal cannot be
+  computed. The independence is from the founder, not the landscape.
+- **[QUESTION-399](../questions.d/QUESTION-399.md)**: sharpens it. A nucleus can be productive and
+  persistent without regenerating itself; the process it seeded may be
+  self-maintaining while the nucleus is not.
+- **[TERM-117](../terms.d/TERM-117.md)** (productive nucleus): an instance with a declared
+  comparator (natural regeneration), context (a seed-rich landscape) and
+  horizon (16–18 years).
+- **[QUESTION-380](../questions.d/QUESTION-380.md)**: partly supports its premise. 86 trees in six islands,
+  27% of the plantation's 313, gave most of its gain in richness (185
+  against 196, natural regeneration 156); the effect depends on the
+  landscape, not only on the design.
+- Filed from it: [THEORY-tmpqkyte](../theory.d/THEORY-tmpqkyte.md).
+
+## Limitations
+
+- Eight or nine plots per treatment; treatment is confounded with planting
+  density, spacing being constant.
+- Four planted species, two of them naturalized softwoods that mostly
+  died.
+- Island sizes not analysed apart, so no threshold estimate.
+- No cost data; the convergence evidence is unpublished.
+- One region, unusually rich in seed sources; effects may not transfer.
+- Appendix S1 tables not read.
+
+## Open questions
+
+Whether the treatments converge, and whether nuclei spread, in landscapes
+poorer in seed sources; settled by a replicated comparison in a more
+deforested region at 15 years or more after upkeep ended.

@@ -1,0 +1,128 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 ([NOTE-tmpuu40d](../notes.d/NOTE-tmpuu40d.md)) from a short draft, the "24 Page
+  Version", hosted by Yale's Economic Growth Center for its April 2021
+  economic history conference; the Journal of Public Economics version of
+  record was not read, and the fuller job-market version was not reached
+  (TLS failure through the proxy). Worth reading as the neighbourhood-level
+  complement to Collins and Shester's city-level study of federal urban
+  renewal: among similarly blighted tracts in 28 large US cities, black
+  neighbourhoods were two to three times as likely to be cleared, and
+  cleared tracts kept 12–13% lower population and housing density and a
+  16% lower black share for decades, with rents up and incomes up for a
+  decade, while a spatial-equilibrium model reads the lowest-income
+  households city-wide as made worse off. Its main limits: a short draft
+  that defers results to the full paper and gives two unreconciled income
+  figures (18% and 16%); controls are slums in less-treated cities, with
+  failed parallel pre-trends for black share; welfare comes from the model,
+  not a measure; the displaced are not tracked and social ties are not
+  measured.
+title: 'The long-run implications of slum clearance: A neighborhood analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look
+    to urban development and city planning for what makes support safe or
+    hazardous to remove (works chosen by the assistant), as a complement
+    to Collins and Shester (2013), read in full, covering the displaced
+    and the neighbourhoods cleared that their city-level design cannot
+    see; it is not a stand-in for them or for any unread work. Citation
+    checked against Crossref (no mailto): Jessica LaVoice, Journal of
+    Public Economics 236, article 105153, doi:10.1016/j.jpubeco.2024.105153,
+    issued 2024-08. The title is the version of record's as Crossref gives
+    it; the draft read carries the same words in title case. Crossref as
+    reported gives the issue month with no day, so `published:` is
+    2024-08-01 at month precision (ADR-002); a day-level online date was
+    not checked. The draft read is undated and was hosted with the
+    2021-04-23 Yale EGC conference, an earlier appearance under the same
+    title. Copy: the "24 Page Version"
+    (https://egc.yale.edu/sites/default/files/2021-04/2021-0423%20EconHistory%20Conference/UrbanRenewal_Short%20ada-ns.pdf),
+    giving the author's affiliation as Bowdoin College; it defers its
+    complete results, appendix and references to the full paper. The
+    fuller version on www.sjsu.edu failed TLS verification through the
+    proxy and was not retried. The version of record was not read and may
+    differ from the draft.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-05'
+published: '2024-08-01'
+doi: '10.1016/j.jpubeco.2024.105153'
+first_author: 'LaVoice'
+keywords:
+- 'urban renewal'
+- 'slum clearance'
+- 'Housing Act of 1949'
+- 'site selection'
+- 'race'
+- 'displacement'
+- 'gentrification'
+- 'spatial equilibrium'
+- 'event study'
+- 'synthetic control'
+implementations: []
+summary: >-
+  LaVoice (2024; draft 2021). About 200 urban renewal projects funded
+  before 1965 in 28 large US cities, geocoded and linked to census tracts
+  for 1940–2000. "conditional on experiencing urban blight, black
+  neighborhoods were between two and three times more likely than white
+  neighborhoods to be targeted for slum clearance". Against slums in
+  cities with limited participation, cleared tracts saw "a decline in
+  population density by 13%, a decline in housing density by 12%, and a
+  decline in the share of black residents by 16%", with rents up about a
+  quarter and incomes up (18% in the introduction, 16% in the results; the
+  draft does not reconcile them) and fading. Within cities, rents in
+  untreated low-income tracts rose in step, and a spatial-equilibrium
+  model reads "households in the lowest end of the income distribution"
+  as "made worse off". Read from a short draft, not the version of
+  record.
+---
+<!-- inactive-ok-file: NOTE-tmpuu40d THEORY-tmpcqo5a THEORY-tmp7ch1y CLAIM-tmpc3x0c CLAIM-tmpoh07b — Skimmed, Proposed or new; cited from the reading of LaVoice (2024) as open -->
+
+# LIT-tmp3jqit: The long-run implications of slum clearance: A neighborhood analysis
+
+LaVoice, J. (2024). The long-run implications of slum clearance: A neighborhood analysis. *Journal of Public Economics* 236: 105153. doi:10.1016/j.jpubeco.2024.105153. Read from an undated 24-page draft hosted for the Yale Economic Growth Center's economic history conference of April 2021.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpuu40d](../notes.d/NOTE-tmpuu40d.md). Page numbers are the short draft's, not the journal's.*
+
+- **Selection by race.** "conditional on experiencing urban blight, black
+  neighborhoods were between two and three times more likely than white
+  neighborhoods to be targeted for slum clearance" (abstract); "Among
+  neighborhoods where the share of black residents was 50% or higher in
+  1950, 14% would be cleared" (fn. 1).
+- **Persistent physical change.** Cleared tracts saw "a decline in
+  population density by 13%, a decline in housing density by 12%, and a
+  decline in the share of black residents by 16%" (p. 3), housing density
+  in "a sharp and persistent decline ... that mitigates only slightly over
+  time" (p. 16).
+- **Fading income gain.** The income rise appears when projects finish, a
+  decade after the first grant, but "these effects are mitigated over time
+  and become statistically insignificant in subsequent decades" (p. 16).
+- **Two income figures.** "an 18% increase in median incomes" (p. 3)
+  against "$2,878 ... a 16% increase from the pre-treatment average of
+  $17,579" (p. 15). Unreconciled in the draft.
+- **Costs spread to other poor areas.** Urban renewal "drove up rental
+  rates across all low-income neighborhoods, ultimately increasing the
+  housing costs of low-income residents city-wide" (p. 4), so in the model
+  "all low-income households are made worse off".
+- **The displaced rehoused themselves.** "70% of all families relocated
+  themselves without the help of the LPA" (fn. 5, from an HHFA report).
+
+## Standing in the record
+
+Filed as a complement to Collins and Shester (2013), [LIT-tmpdtq25](LIT-tmpdtq25.md), not a
+stand-in: it covers the people and places that their city-level design
+cannot see, from the same program and the same variation in state
+legislation. Together they show the unit-of-analysis problem in
+[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md): the place persisted and gained while the community
+supported in name was dispersed, and the gains went to the city and to
+incoming higher-income households. It bears on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) only
+suggestively: clearance removed residents' housing and neighbourhood
+rather than doing their work, and the displaced carried their own
+rehousing; no capacity or social tie is measured. Filed from it:
+[THEORY-tmpcqo5a](../theory.d/THEORY-tmpcqo5a.md), beside [THEORY-tmp7ch1y](../theory.d/THEORY-tmp7ch1y.md).

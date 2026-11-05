@@ -50,6 +50,8 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpc3x0c NOTE-tmpckznv — new or Skimmed; the revised synthesis and a reading of the counterpoint filing, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpoh07b CLAIM-tmpw4ai2 NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-566 LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
 
 # CLAIM-597: Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both show
@@ -110,3 +112,36 @@ is the concentration of a supply that comes entirely from outside. Then
   which the model leaves out.
 - **That no DNA system can make its own parts.** Such a system would fall
   outside the claim and would bear on [QUESTION-399](../questions.d/QUESTION-399.md).
+
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Supported at the scale of a state.** Ostrom et al. ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)) find Zambia's Kafue Gorge station maintained from outside since 1970, its operator "remains completely dependent on outside funds for the continued operation". Moss, Pettersson and van de Walle ([NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md)) count about three dozen countries that have received a tenth of GNI or more in aid for two decades. In the Kenya summary of the FANTA exit study ([NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)), activities fed by project inputs until the end declined after exit, while savings groups, whose key was "lack of dependency on outside financing", held.
+- **Qualified: the supply is not neutral.** The claim's repair term leaves the organization's own capacity alone. In every reading the supply lowers it. Recipients of assured help lose skill and effort, the Samaritan's dilemma (Ostrom et al.). Revenue machinery that is not used decays (Moore, [NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)). Funding for form crowds out local effort (Andrews, Pritchett and Woolcock, [NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md)). States make some of their own parts, so they fall outside the claim's scope. [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md) models that case: supply used before the organization's capacity lowers what capacity is kept, and Azam, Devarajan and O'Connell's 1999 model ([NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md)) already has the steady-state part.
+- **Moved, not ended.** In the India summary ([NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md)) activities continued after exit where government programmes took them over, so the supply changed provider.
+- **Self-maintaining upkeep.** [CLAIM-tmpw4ai2](CLAIM-tmpw4ai2.md) adds the other kind the record's dissipative structures separate: upkeep drawn in by the structure's own state, which escapes dependence on a provider but not on the flux, at the price of thresholds.
+
+No status changes.
+
+## Note of 2026-11-05: the readings on reintroduction and ecological recovery
+
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md).
+
+- **Supported in conservation.** Conservation-reliant species need management that does not end. Weed control on Hawaiian refuges "must be constant" (Underwood et al., [NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md)). A restored wetland stays restored only with continued prescribed fire (Kadowaki et al., [NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md)).
+- **Qualified in two ways.**
+  - Prairie chickens breed their own replacements. Their reliance comes from a persisting threat, not from every part being supplied (Mussmann et al., [NOTE-tmpmm5we](../notes.d/NOTE-tmpmm5we.md)).
+  - A partial cut of the Kirtland's Warbler's supplied habitat gives a lower plateau, not decay to zero (Brown et al., [NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md)).
+- **The independence the claim allows.** Tree islands become independent of whoever planted them and stay dependent on the landscape's seed rain ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)). That is independence from a founder, not from a feed.
+
+No status changes.
+
+## Note of 2026-11-05: the counterpoint and urban-development readings
+
+Read at the owner's request for a counterpoint to the record's dependency material and suggestion of urban development and city planning; the works were chosen by the assistant. [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md) was revised in light of them.
+
+- **Supported in urban services.** Infrastructure supplied to existing slums decayed for "lack of maintenance" (Michaels et al., [NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md)). Handing condominial-sewer upkeep to residents worked poorly even in the best cities (Watson, [NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md)). Place-based incentives have effects only while paid (Neumark and Simpson, [NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md)). The Tennessee Valley Authority's agricultural gains reversed after the subsidy ended ([NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md)).
+- **Qualified by coproduction.** Where residents made part of the service, the agency's supplied part stayed necessary. It was a standing input, not a failure to become independent.
+
+No status changes.
+

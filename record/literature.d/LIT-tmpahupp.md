@@ -1,0 +1,114 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md)) from the World Bank's own scan
+  in its documents repository; worth reading as the short theory paper
+  that gives "aid dependence" analytical content: learning by doing in tax
+  collection, with grant aid filling the fiscal gap, yields a stable
+  high-aid, low-capacity equilibrium beside an efficient saddle path, a
+  threshold on initial institutions under gap-filling aid, and a
+  donor–recipient conflict over graduation. Pure theory with strong
+  functional forms (unit slopes, tax inefficiency the reciprocal of
+  experience, fixed spending), one mechanism only, no test; the case
+  readings are illustrative, and the printed formulas carry typos. A
+  working paper whose cover asks that it not be cited without the
+  authors' permission; no later published version was looked for.
+title: 'Aid Dependence Reconsidered'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to look to
+    aid and development theory on how aid-dependent organizations become
+    self-sufficient (works chosen by the assistant). Citation checked
+    against Crossref (no mailto), the World Bank documents API and RePEc:
+    Jean-Paul Azam, Shantayanan Devarajan and Stephen A. O'Connell, World
+    Bank Policy Research Working Paper 2144 (WPS2144), Development
+    Research Group, Public Economics, 14 pages. Crossref lists Devarajan
+    first; the paper's cover and title page, the World Bank documents API
+    and RePEc list Azam first, so `first_author` is Azam and Crossref's
+    order is not followed. Crossref gives July 1999, the month only; the
+    World Bank documents API dates the document 1999-07-31 and RePEc gives
+    the same citation date, so `published:` is 1999-07-31; the cover says
+    "July 1999". Copy: the World Bank's scan,
+    https://documents.worldbank.org/curated/en/847671468183266997/pdf/multi-page.pdf,
+    19 PDF pages, stamped "Public Disclosure Authorized"; text extracted
+    by pdftotext, with the equations, which the scan's OCR garbles, read
+    from rendered page images.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-05'
+published: '1999-07-31'
+doi: '10.1596/1813-9450-2144'
+first_author: 'Azam'
+keywords:
+- 'aid dependence'
+- 'foreign aid'
+- 'learning by doing'
+- 'tax efficiency'
+- 'institutional development'
+- 'graduation'
+- 'fiscal gap'
+- 'multiple equilibria'
+implementations: []
+summary: >-
+  Azam, Devarajan & O'Connell (1999), World Bank Policy Research Working
+  Paper 2144. A static public-finance problem, in which grant aid fills the
+  gap between optimal spending and domestic revenue, gets Arrow-style
+  learning by doing: the marginal cost of taxing is the reciprocal of
+  accumulated revenue-collecting experience, which depreciates. A global
+  planner who internalizes the learning faces two steady states, an
+  efficient low-aid one that is a saddle and a high-aid, low-capacity one
+  that is locally stable, and paths to the latter are fully rational. A
+  planner who ignores institutions sets aid to the static gap: below a
+  threshold of initial capacity aid rises until it finances the whole
+  budget and tax capacity decays away; above it the economy converges to
+  a low-aid state. Correction is an up-front cut in aid, which hurts the
+  recipient in the short run; since the recipient prefers the high-aid
+  state, graduation needs the gains passed back to it.
+---
+<!-- inactive-ok-file: THEORY-tmpkkhou CLAIM-597 CLAIM-tmpoh07b — Proposed or new; cited from the reading of Azam, Devarajan and O'Connell (1999) as open -->
+
+# LIT-tmpahupp: Aid Dependence Reconsidered
+
+Azam, J.-P., Devarajan, S. & O'Connell, S. A. (1999). Aid Dependence Reconsidered. World Bank Policy Research Working Paper 2144, Development Research Group, Public Economics, July 1999. doi:10.1596/1813-9450-2144. https://documents.worldbank.org/curated/en/847671468183266997/Aid-dependence-reconsidered.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md). Page numbers are the printed ones (PDF page minus 3).*
+
+- **Learning by doing in the revenue ministry.** Tax inefficiency is
+  θ = 1/R, with experience R built by revenue collected and depreciating
+  at rate α, "a lower value corresponds to greater institutional memory"
+  (p. 5). Aid "retards the development of institutional competence in the
+  recipient's public sector" (p. 3).
+- **Two equilibria even under full rationality.** "There are two such
+  points if memory is sufficiently long; otherwise there are none" (p. 7):
+  a low-aid, efficient saddle P and a high-aid, low-capacity stable M.
+  Paths to M satisfy every necessary condition: "Expectations are fully
+  rational on such paths" (p. 12).
+- **A threshold on initial institutions under gap-filling aid.** With weak
+  initial capacity "Institutions will deteriorate until domestic revenue
+  mobilization is driven to zero and aid finances all of public spending"
+  (p. 10); with strong initial capacity the economy converges to a low-aid
+  state.
+- **Kept capacity falls with aid's share.** Holding experience constant
+  takes revenue α/θ, and with spending fixed "greater current revenue
+  implies lower aid" (p. 8); weaker memory raises steady-state aid.
+- **Graduation is a distribution problem.** "the recipient is actually
+  better off at M" (p. 9), and "A Pareto improvement can be achieved only
+  if prospective gains can be redistributed towards the recipient without
+  overly compromising institutional development" (p. 13).
+
+## Standing in the record
+
+Filed with the aid-and-development batch of 2026-11-05, after [CLAIM-597](../claims.d/CLAIM-597.md).
+It is the only formal model in the batch, and the one the lead's
+[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) compares itself with: its first point (capacity kept falls
+with the share of the work aid does) is in this paper in unsaturated form;
+its recovery-time and capacity-first points are not. Moss, Pettersson and
+van de Walle (2006) cite this paper for learning by doing "affected by the
+level of aid in relation to overall revenue"; that phrase is theirs, not
+this paper's. Filed from it: [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md).

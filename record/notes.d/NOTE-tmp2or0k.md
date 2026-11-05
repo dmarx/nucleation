@@ -1,0 +1,285 @@
+---
+status: Read
+paper: 'LIT-tmphx3z0'
+title: 'Cesarini, Lindqvist, Notowidigdo and Östling — Lottery wealth and the labour supply of Swedish winners and their spouses'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 in NBER Working Paper 21762, "November
+    2015", from
+    https://www.nber.org/system/files/working_papers/w21762/w21762.pdf,
+    free from NBER: 42 pages, PDF created 2015-11-20; text extracted to
+    plain text. Read: the abstract, introduction, data and lotteries,
+    identification, reduced-form results with Tables 1–4 and the figure
+    notes, the life-cycle model and its estimation with Tables 5–6, the
+    household analysis with Table 7, the conclusion, footnotes and
+    references. Not read: the Online Appendix (the randomization test of
+    Table A3.3, the twenty-year estimates, wealth outcomes in Table A3.6
+    and Figure A2.4, divorce), so those results are reported only as the
+    main text describes them; and the AER version (107(12): 3917–3946,
+    December 2017), of which only the abstract on the AEA page was read.
+    **The versions differ.** The AER abstract gives lifetime marginal
+    propensities to earn "from -0.17 at age 20 to -0.04 at age 60"; the
+    working paper gives −0.186 and −0.046 (Table 6), with an average of
+    −0.11, so the calibration was revised before publication; the
+    reduced-form numbers may have moved as well, which was not checked.
+    **The working paper is inconsistent with itself**: its text gives
+    β = 0.845 (p. 21) and γ_h = 1,870.0 (s.e. 39.7, p. 21), its Table 5
+    0.855 and 1852 (s.e. 39.7). Every number below is the working paper's,
+    and page numbers are the working paper's (pp. 1–29).
+date: '2026-11-05'
+summary: >-
+  Prizes randomly assigned within cells of three Swedish lotteries,
+  matched to registers for 1991–2010, cut winners' gross labour earnings
+  by about 1.1 SEK a year per 100 SEK won, at once and for more than ten
+  years, about 0.58 SEK after tax, mostly through fewer hours, with little
+  heterogeneity by age, sex, education, lottery, form of payment or prize
+  size; self-employment falls too. Spouses cut theirs by about half as
+  much, rejecting income pooling. A calibrated life-cycle model gives an
+  average lifetime marginal propensity to earn of −0.11 in the working
+  paper (the published abstract's range differs). Read in the working
+  paper, not the AER version.
+---
+<!-- inactive-ok-file: THEORY-tmpfkxj7 CLAIM-tmpc3x0c CLAIM-tmpqa0qu CLAIM-tmpoh07b CLAIM-tmpw4ai2 CLAIM-tmpit7m9 CLAIM-597 CLAIM-558 CLAIM-595 TERM-105 THEORY-tmp19alc THEORY-tmp7qas0 THEORY-tmp5v6r5 THEORY-tmp5zz46 THEORY-tmp02gkd THEORY-tmph35ra THEORY-tmpkkhou THEORY-tmpukudp — Proposed or new; cited from the reading of Cesarini, Lindqvist, Notowidigdo and Östling (2015) as open -->
+
+# NOTE-tmp2or0k: Cesarini, Lindqvist, Notowidigdo and Östling — Lottery wealth and the labour supply of Swedish winners and their spouses
+
+## Contribution
+
+Earlier lottery studies of labour supply, the closest being Imbens,
+Rubin and Sacerdote (2001), were surveys with non-response and few large
+winners. This paper uses prizes whose assignment is random within cells
+fixed by each lottery's rules, in three Swedish lotteries with a total
+prize pool of 4,662 million SEK (about $650 million) and almost 1,500
+prizes of at least 1M SEK, and follows winners in administrative
+registers with almost no attrition. It gives the size, timing and
+margins of the earnings response to an unconditional wealth shock, a
+model-based lifetime marginal propensity to earn, and a test of
+household income pooling in which husbands and wives are randomly the
+ones who win.
+
+## Key insight
+
+A large, permanent, unconditional windfall does lower work, at once and
+for good, but by little: "there is an immediate and permanent change in
+labor earnings in response to an exogenous wealth shock. The magnitude of
+the response is modest" (p. 29). Most of the windfall goes to
+consumption, not to leisure.
+
+## Assumptions
+
+- **Identification (pp. 9–11).** Within a cell (players with the same
+  number of tickets or prizes in the same draw and prize plan) the prize
+  is random. Baseline covariates do not predict prizes once cell effects
+  are included (Table A3.3, reported in the main text, not read). Wealth
+  is random between households, not within them (p. 27).
+- **Sample (pp. 5–10).** Players aged 21–64 at the win, mean age 48.6;
+  prize-linked savings accounts (PLS) 1986–2003, Kombi 1998–2010 and Triss,
+  whose instalment prizes run 10 to 50 years. Prizes are net of tax.
+  Outcomes for 1991–2010, after the 1990–91 tax reform. Instalment prizes
+  are converted to present value at a 2% annual discount rate (p. 9).
+  Hours come from a wage survey covering about 60% of the sample's workers in a given year (p. 6).
+- **External validity (pp. 10–11).** Players resemble a reweighted
+  population sample on observables. The authors grant that lottery prizes
+  may be a type of wealth that does not generalize: "we cannot rule out
+  this concern completely" (p. 11).
+- **The model (pp. 18–21).** Perfect foresight, no uncertainty, no
+  liquidity constraints, Stone-Geary utility with subsistence consumption
+  of 20,000 SEK, retirement fixed at 65, death at 80, r = 0.02, and no
+  extensive margin. The lifetime MPEs and elasticities are extrapolations
+  through this model, not observations.
+
+## Key results
+
+Page numbers are the working paper's; per 100 SEK won unless stated.
+
+- **Size and timing (p. 13; Table 2).** "In the year of the lottery event,
+  labor earnings decline immediately and stabilize at a level roughly
+  1,150 SEK lower for each 100,000 SEK won." −1.152 at t = 1, −1.177 at
+  t = 2; cumulative −3.219, −4.681 and −8.033 over 3, 5 and 10 years;
+  event-study estimate for t = 1–5 −1.068, N = 249,278. Pre-trends show
+  "no statistically significant difference" (p. 13).
+- **In money (p. 3).** "a windfall gain of 1 million Swedish krona (about
+  $140,000) reduces the pre-tax labor earnings of the winner over the
+  first 10 years by roughly 80,000 SEK, or approximately one half of the
+  average annual income." Median disposable income in 2000 was 170,000
+  SEK (p. 10).
+- **Duration (pp. 3, 13).** "roughly constant over time and lasting more
+  than 10 years"; the slight attenuation is "largely due to more lottery
+  winners reaching retirement age". Footnote 11: for winners under 45, the
+  effect at t = 20 is about −2,500 SEK per 100,000 won, "a caveat to the
+  general conclusion of modest wealth effects", imprecisely estimated.
+- **Before and after tax (p. 14; Table 3).** Wage earnings −0.967,
+  self-employment income −0.142, taxable earnings −0.900, after tax
+  −0.580, earnings plus employer contributions −1.412: "a net wealth shock
+  of 100,000 SEK reduces the yearly post-win production value by
+  approximately 1,400 SEK, whereas winners' net earnings only go down by
+  about 600 SEK."
+- **Participation (p. 15; Table 4).** 1M SEK lowers the chance of earning
+  more than 25,000 SEK by 2.07 points on a base of 77.3%, "strongest two
+  years after the win, and then weakens with time"; the extensive margin
+  is "about 50% of the labor supply response immediately after winning the
+  lottery and about one third six years after".
+- **Hours (pp. 15–16; Table 4).** "a 1M SEK prize reduces hours worked by
+  3.11% of full-time, corresponding to 1.3 hours per week, or 60 hours per
+  year", and the response "is stable over time". "The intensive-margin
+  response is primarily due to fewer hours worked rather than a decline in
+  wages."
+- **Self-employment (pp. 3, 15).** "winning a lottery prize reduces
+  self-employment income as well as the probability of being
+  self-employed" (−0.62 points per 1M SEK), which "contrasts with several
+  studies finding that positive wealth shocks increase transition into
+  self-employment".
+- **No reallocation (p. 16).** "no evidence of an effect" on changing
+  employer, workplace, occupation, industry or place of work.
+- **Prize size (p. 16).** "The point estimates suggest the marginal effect
+  of lottery wealth is smaller for larger prizes, but the difference is not
+  statistically significant." Five-year after-tax effect −3.12 for a 100K
+  prize and −2.99 for a 1M prize (Table 5).
+- **Form of payment (p. 16).** "lump-sum prizes and (discounted) monthly
+  installment prizes have similar effects on labor earnings"; equality
+  across lotteries is not rejected.
+- **Subgroups (p. 17).** By age the effect is "surprisingly similar in the
+  years immediately following the lottery event", smaller later for those
+  55–64 as they retire; for women versus men "the tendency is the
+  opposite" of larger, not significant; similar by college degree.
+- **Identification check (p. 14).** A "naïve panel study" ignoring cells
+  gives estimates "approximately 50% larger than the baseline lottery
+  estimates".
+- **Model (pp. 21–23; Tables 5–6).** Fit χ²(8) = 3.428, p = 0.095;
+  "roughly 15% of unearned income is spent reducing after-tax labor
+  earnings, with the rest spent increasing consumption" (p. 21). Lifetime
+  MPE by age at the win −0.186 at 20, −0.145 at 35, −0.107 at 50, −0.046
+  at 60, average −0.11. For winners under about 45 "most of the lifetime
+  earnings reduction occurs after the first 10 years": the first ten years
+  are 16.7% of the lifetime effect at 20 and 100% from 55. *These are the
+  working paper's figures; the AER abstract gives −0.17 to −0.04, and the
+  working paper's β and γ_h differ between its text and Table 5.*
+- **Comparisons (fn 18, p. 23).** Kimball and Shapiro's
+  hypothetical-lottery survey gives −0.37, and Bengtsson (2012) "about
+  -0.30 among recipients of unconditional cash grants in South Africa".
+  Cited, not tested.
+- **Household (pp. 26–27; Table 7).** Married winners −0.981, spouses
+  −0.458, household −1.439; difference −0.522 (p = 0.059); 0.79 (p =
+  0.057) in PLS and Kombi, where ownership is clear. Across the sample,
+  "Focusing only on winners thus leads to an underestimation of the labor
+  supply response by about 24%." 70–90% of the household reduction "is due
+  to the winner, which is in line with how lottery wealth is allocated
+  between spouses" (p. 27).
+- **Who holds the wealth (pp. 25–26, from appendix tables not read).**
+  Spouses of Triss-Lumpsum winners receive 32% of the rise in registered
+  net wealth in the year of winning, those of Kombi winners 18%, and
+  "winners keep most of the prize money for themselves in each of the 10
+  years following the lottery win". The wealth measure excludes cash,
+  cars and durables and "only gives an upper bound on the fraction of the
+  wealth shock that is consumed in the year of the lottery" (fn 22).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A lottery wealth shock lowers winners' gross labour earnings by about 1.1% of the prize a year, from the year of the win, for more than ten years | strong: random within cells, registers, N ≈ 249,000 | Table 2, p. 13 |
+| C2 | Most of the response is in hours, not participation | moderate: hours from a survey covering about 60% | Table 4, pp. 15–16 |
+| C3 | The response varies little with age, sex, education, lottery, payment form or prize size | moderate: equality not rejected, power limited | pp. 16–17 |
+| C4 | Spouses respond less than winners, against the unitary household model | moderate: p ≈ 0.06 | Table 7, pp. 26–27 |
+| C5 | The average lifetime MPE is −0.11, larger in magnitude for younger winners | model-dependent; revised in the published version | Tables 5–6 |
+| C6 | The authors state that winners do not squander their wealth (not asserted by the record) | not shown in the text read: it rests on appendix tables not read and on wealth split between spouses, with no wealth trajectory | p. 11 |
+
+## Concepts
+
+- **Marginal propensity to earn (MPE)**: the change in lifetime after-tax
+  earnings per unit of unearned wealth.
+- **Event-study estimate**: the per-year effect averaged over t = 1–5,
+  leaving out t = 0, when prizes arrive mid-year.
+- **Production value**: earnings plus employer social security
+  contributions, which shows the tax-and-transfer wedge between what the
+  economy loses and what the winner gives up.
+- **Unitary model and income pooling**: the household's response should
+  not depend on which spouse won; rejected here.
+- **Separate spheres**: Lundberg and Pollak's bargaining model, in which
+  the winner "owns and controls the prize money" (p. 28).
+
+## Connections
+
+It builds on Imbens, Rubin and Sacerdote (2001) for the lottery design
+and the Stone-Geary life-cycle model, and on the authors' earlier Swedish
+lottery work for the cells. It places its elasticities against Pencavel
+(1986), Keane (2011) and the Congressional Budget Office's range, and its
+MPE against Kimball and Shapiro (2008) and Bengtsson (2012).
+
+In the record: the other works of the windfall-and-scarcity batch are
+cited by author and year as their filers file them. [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md)
+(Banerjee et al.) finds no effect of small, assured transfers on work;
+this paper is the large, permanent case and finds a modest one; the
+contrast across settings is the filer's, not the authors'.
+[THEORY-tmp5zz46](../theory.d/THEORY-tmp5zz46.md) (Baird, McKenzie and Özler) expects responses to differ
+where transfers are dependable and permanent; this is such a case.
+
+## Bearing on the record
+
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (the synthesis): qualifies it.** A lottery prize is
+  the case the synthesis reserves "slack effort" for: unconditional,
+  large (1M SEK is about six years of median disposable income),
+  permanent and never withdrawn. Effort falls at once and for more than
+  ten years, but modestly: about 1% of the windfall a year before tax,
+  1.3 hours a week per 1M SEK, and in the model about 85% of the windfall
+  goes to consumption. Nothing was withdrawn, so it says nothing about
+  what follows withdrawal.
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds): no support from the labour response.**
+  The only test of nonlinearity in size finds the marginal effect, if
+  anything, smaller for larger prizes, not significantly.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (lost capability under reliable supply): none
+  directly.** Earnings and hours are measured, skill is not; wages fall
+  slightly (−0.16 SEK per 1000 SEK won, p = 0.063) and no one changes
+  occupation or employer. Not evidence of decay.
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support doing the work crowds out capacity): none.**
+  The prize does no work for the winner; the fall in self-employment is a
+  choice, not a measured loss of capacity.
+- **[TERM-105](../terms.d/TERM-105.md) (resource types): an illustration.** The prize is modelled
+  as a shock to a stock; retirement at 65 is a binding deadline that
+  drives the age pattern. Lump-sum and instalment prizes of equal present
+  value have similar effects, so stock and rate forms of the same wealth
+  were interchangeable here, consistent with no barriers to saving or
+  borrowing, though "liquidity effects" are not excluded (pp. 18–19).
+- **[CLAIM-595](../claims.d/CLAIM-595.md): only an analogy in measurement.** The ten-year effect is
+  16.7% of the lifetime effect for a winner at 20: a fixed window misstates
+  an effect that unfolds over a horizon.
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) (a savings buffer is a stock of time).** A prize is a
+  large buffer; the model assumes no liquidity constraint and lump-sum and
+  instalment prizes act alike, consistent with these players being above
+  any buffer threshold. Not tested.
+- **[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer & Fehr): none.** No stress, affect,
+  discounting or risk is measured; the model assumes them away.
+- **[THEORY-tmp5v6r5](../theory.d/THEORY-tmp5v6r5.md) (Balboni et al.): a contrast, not a test.** The
+  players are not poor and wealth lowers self-employment; populations and
+  margins differ too much to count against an asset threshold among the
+  ultra-poor.
+- **[THEORY-tmp02gkd](../theory.d/THEORY-tmp02gkd.md) (unearned revenue and state capacity).** An analogy
+  at state level to unearned income reducing effort; this paper is about
+  individuals only.
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-558](../claims.d/CLAIM-558.md), [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md), [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md),
+  [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md): none.** Organizations, procedural decay and aid exit
+  are not studied.
+- **Not squandering, not asserted.** The paper says winners "do not squander their wealth" (p. 11); the main text gives
+  no wealth trajectory, spend-down rate or bankruptcy outcome. The record
+  does not assert it.
+- Filed: [THEORY-tmpfkxj7](../theory.d/THEORY-tmpfkxj7.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **Read in the working paper, whose numbers differ from the published
+  version's** at least for the lifetime MPE (−0.186 to −0.046 against the
+  AER abstract's −0.17 to −0.04), and **inconsistent with itself** on β
+  (0.845 against 0.855) and γ_h (1,870.0 against 1852).
+- Swedish players aged 21–64 in a high-tax welfare state; the
+  generality of lottery wealth is granted, not shown.
+- Hours from a wage survey covering about 60% of the sample's workers (N = 110,080).
+- The lifetime MPE and elasticities rest on a model with p = 0.095 fit and
+  no extensive margin.
+- The randomization test, twenty-year effects, wealth outcomes and
+  divorce are in the Online Appendix, not read.
+- No bankruptcy, financial-distress or wealth spend-down outcome in the
+  main text; the wealth measure excludes cash, cars and durables.

@@ -1,0 +1,155 @@
+---
+status: Read
+paper: 'LIT-tmpb0bn3'
+title: 'Shah, Mullainathan and Shafir — Replications of their 2012 Science paper'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the 6-page PDF "replication results of
+    SMS2012-vf.pdf" on the authors' OSF project (osf.io/vzm23), headed
+    "Replications of Shah, Mullainathan, and Shafir (2012)", with no byline
+    or date; text extracted by pdftotext. Read: the introduction
+    summarising the five original experiments, the method and samples,
+    Table 1 (every original analysis beside its replication), the
+    discussion and the one reference. Nothing skipped. The pre-registrations
+    and detailed methods on the same OSF project were not read. Read as its
+    own work and as a stand-in for the unread Science article
+    (LIT-tmp6ahq0). Page numbers are the PDF's; Table 1 spans pp. 3–5.
+date: '2026-11-05'
+summary: >-
+  The authors' pre-registered direct replications of all five experiments
+  of their 2012 paper, on MTurk, about 1,000 recruited each. Scarcity of
+  shots and of time again led poor players to borrow more and to do worse
+  with interest-bearing borrowing while the rich did not, with effects
+  smaller than the originals; poor players again aimed longer and scored
+  more per shot. Focus did not predict later borrowing, the previews
+  effect was weaker, and Study 1's fatigue effect reversed. The authors'
+  verdict: strong evidence for over-borrowing across resources and for
+  focus, weaker for neglect, none for fatigue.
+---
+<!-- inactive-ok-file: LIT-tmp6ahq0 THEORY-tmplj3t9 THEORY-tmp008j1 THEORY-tmp6qwmt CLAIM-tmpit7m9 TERM-105 THEORY-tmp19alc THEORY-572 — Unavailable, Proposed or new; cited from the reading of Shah, Mullainathan & Shafir (2018) as open -->
+
+# NOTE-tmpya6ud: Shah, Mullainathan and Shafir — Replications of their 2012 Science paper
+
+## Contribution
+
+After the Social Sciences Replication Project failed to replicate their
+Study 1, the authors ran "one direct replication for each experiment"
+(p. 2), pre-registered on OSF, and report each original analysis beside
+its replication. The write-up is a check of their own paper, sorted by
+hypothesis.
+
+## Key insight
+
+The paper's central claim survives and its mechanism only partly does.
+In their words (p. 5): "we find consistent and strong evidence for the
+motivating hypothesis of the paper: scarcity itself leads to
+over-borrowing. Second, this is true for multiple kinds of resources.
+Third, we also replicate the findings that scarcity leads to greater
+focus." But "the evidence for the hypothesis that scarcity-induced focus
+leads to attentional neglect was somewhat weaker".
+
+## Assumptions
+
+- **Direct replication.** The original games and analyses, on a new
+  sample from one pool (MTurk), about 1,000 recruited for each.
+- **Exclusions for game errors.** Missing IDs, wrong allotments, practice
+  data saved, or time used off by more than 5 seconds (pp. 2–3).
+- **The original numbers are the authors' restatement** of the paper and
+  its supplement; Experiment 5's simple effects "were not reported in the
+  original paper" (Table 1).
+
+## Key results
+
+All from Table 1 unless a page is given.
+
+- **What was manipulated (p. 1).** "in three of the experiments,
+  participants played multiple rounds of Family Feud ... Participants
+  were allocated either small or large budgets of time, thus arbitrarily
+  rendering them 'poor' or 'rich.'" Experiment 2 used budgets of "shots"
+  in "a game similar to Angry Birds"; Experiment 1, budgets of guesses in
+  Wheel of Fortune.
+- **Focus, Experiment 2.** Aiming the first shot, original "F(1, 64) =
+  12.96, P < .001, ηp2 = .17", replication "F(1, 972) = 115.79, P <
+  .001, ηp2 = .11". Points per shot without borrowing, original ηp2 = .28,
+  replication .15.
+- **Over-borrowing, Experiment 2 (shots).** Proportion borrowed .20
+  against .03, ηp2 = .37 (original .24 against .02, .46). Interaction on
+  performance "F(1, 970) = 44.83, P < .001, ηp2 = .04" (original .12).
+- **Over-borrowing, Experiment 3 (time).** .28 against .07, ηp2 = .30
+  (original .22 against .08, .18). Interaction "F(1, 963) = 18.59, P <
+  .001, ηp2 = .04" (original .09); the poor scored .39 unable to borrow,
+  .13 without interest and −.55 with; the rich were unaffected, "F(1,
+  963) = .07, P = .79".
+- **Debt, Experiment 4 (time).** Slope −.09 against −.02, z = 12.05
+  (original −.13 against −.01); interaction "F(1, 872) = 12.69, P <
+  .001, ηp2 = .01" (original .10).
+- **Neglect.** Aiming time and later borrowing: "r(616) = -.007, P = .87"
+  against original "r(38) = .34, P < .05". Previews (Experiment 5): "not
+  significant, F(1, 968) = 1.21, P = .27, ηp2 = .001", against original
+  interaction "F(1, 133) = 4.29, P < .05, ηp2 = .03".
+- **Fatigue, Experiment 1.** Poor 44.05 against rich 42.03 on the
+  attention task, "F(1, 995) = 4.15, P < .05, ηp2 = .004", the opposite
+  of the original 45.12 against 52.93. The authors' account (p. 6): the
+  game "creates significantly more work for the rich", and "time spent
+  playing was not recorded".
+
+## Concepts
+
+- **Over-borrowing**: borrowing at high interest that leaves the poor
+  worse off than not being able to borrow, which the rich avoid.
+- **Scarcity-induced focus**: longer aiming and more points per shot
+  among the poor.
+- **Attentional neglect**: focus on the current round crowding out
+  information about later ones, the link that weakened.
+- The word "tunneling" does not appear.
+
+## Connections
+
+It names Mani et al. (2013), "Poverty impedes cognitive function", as
+finding "evidence for a related hypothesis across several studies and
+replications" (p. 6); that paper is not held. It was prompted by the
+SSRP replication reported in Camerer et al. (2018), [LIT-tmpess4c](../literature.d/LIT-tmpess4c.md).
+
+## Bearing on the record
+
+- **Against the published paper ([LIT-tmp6ahq0](../literature.d/LIT-tmp6ahq0.md)).** The stand-in for its
+  Studies 1, 2 and 5, which neither the working paper nor anything else
+  read carries; for Studies 3 and 4 it agrees with the working paper
+  ([LIT-tmpkabn6](../literature.d/LIT-tmpkabn6.md)) number for number but for one ηp2.
+- **The owner's reading, deprivation as added time pressure.**
+  Qualified, as in [NOTE-tmp5jtai](NOTE-tmp5jtai.md): shots, which have no clock, gave the
+  largest borrowing effect (ηp2 = .37), larger than time (.30). Scarcity
+  of any resource, time among them, is what the over-borrowing tracks.
+- **[TERM-105](../terms.d/TERM-105.md).** The games are cumulative budgets split into per-round
+  budgets with borrowing across rounds; the replication keeps the
+  borrowing result for a count (shots) and for a duration (seconds).
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md).** As in [NOTE-tmp5jtai](NOTE-tmp5jtai.md): the structure is close, a
+  total drawn down round by round, with no shock or investment modelled.
+- **[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer & Fehr) and [NOTE-tmpv5r2w](NOTE-tmpv5r2w.md).** The attention
+  route to short-sighted choice replicates for borrowing; the part that
+  links focus to cognitive aftereffects (Study 1) does not. Haushofer and
+  Fehr's mechanism passage reports the Mani et al. result, which this
+  write-up cites but did not test.
+- **[THEORY-572](../theory.d/THEORY-572.md) and [LIT-161](../literature.d/LIT-161.md) (Feest: what replication can show).** A clear
+  case of direct replication separating a robust effect (over-borrowing)
+  from one that was not (fatigue), by the original authors, with the
+  same materials; it does not settle which mechanism produces the
+  robust effect, which is the systematic-error question Feest says
+  replication leaves open.
+- Filed: [THEORY-tmplj3t9](../theory.d/THEORY-tmplj3t9.md). Its companion readings: [THEORY-tmp008j1](../theory.d/THEORY-tmp008j1.md) (the
+  working paper) and [THEORY-tmp6qwmt](../theory.d/THEORY-tmp6qwmt.md) (Camerer et al.). No instruction
+  for machine-learning practice.
+
+## Limitations
+
+- **The authors replicating themselves.** Pre-registered, but not an
+  independent team; only Study 1 has had one (Camerer et al. 2018).
+- **One pool.** All MTurk, where the originals mixed Princeton and MTurk.
+- **Restated originals.** The original numbers are the authors' own
+  restatement; the article was not read.
+- **No windfall study.** The working paper's windfall result is not among
+  the replications.
+- **Lab stakes**, as in the originals.

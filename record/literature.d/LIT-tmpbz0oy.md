@@ -1,0 +1,139 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md)) from NBER Working Paper 20049
+  (April 2014, revised August 2014) on NBER's own site, a pre-publication
+  draft; the Handbook chapter itself, paywalled at Elsevier, was not read.
+  Worth reading as a map of the US and European evidence on place-based
+  policy (enterprise and empowerment zones, discretionary grants, clusters
+  and universities, the Tennessee Valley Authority, the Appalachian
+  Regional Commission and EU Structural Funds, community development), and
+  for its verdict that even the best of it "does not establish that they
+  create self-sustaining economic gains". Every result in it is the
+  authors' summary of other studies, none read here; most evaluations
+  cover the years while incentives were in force, so the evidence on what
+  outlasts support rests on effectively one study, of the TVA. US and
+  Europe only.
+title: 'Place-Based Policies'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look to
+    urban development and city planning for what makes support safe or
+    hazardous to remove (works chosen by the assistant). Citation checked
+    against Crossref (no mailto): the DOI 10.1016/B978-0-444-59531-7.00018-1
+    resolves to "Place-Based Policies" in the Handbook of Regional and Urban
+    Economics, Elsevier, pp. 1197–1287, ISBN 9780444595331, issued 2015,
+    year only. Crossref lists no authors and no volume for the chapter: the
+    authors, David Neumark and Helen Simpson, come from the working paper,
+    which Crossref also holds (doi 10.3386/w20049, Neumark and Simpson,
+    2014-04). The editors (Duranton, Henderson and Strange) come from the
+    working paper's references; volume 5 and chapter 18 from the lead's
+    brief. `published:` is 2014-04-01, the first public version: only the
+    month, April 2014, is known (Crossref and the paper's cover), and the
+    day is the month's first by convention. Copy:
+    https://www.nber.org/system/files/working_papers/w20049/w20049.pdf,
+    NBER Working Paper 20049, "April 2014, Revised August 2014", text
+    extracted by pdftotext. It is a pre-publication draft (its references
+    still carry "(XXXX)" for the sister Handbook chapters); the published
+    chapter was not read, so any wording or numbers changed in it are
+    unchecked. A later related paper, Freedman and Neumark, NBER w35674
+    (2026), turned up in Crossref and was neither read nor filed.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-05'
+published: '2014-04-01'
+doi: '10.1016/B978-0-444-59531-7.00018-1'
+first_author: 'Neumark'
+keywords:
+- 'place-based policies'
+- 'enterprise zones'
+- 'empowerment zones'
+- 'agglomeration economies'
+- 'spatial mismatch'
+- 'EU Structural Funds'
+- 'cluster policy'
+- 'Tennessee Valley Authority'
+- 'capitalization'
+- 'displacement'
+implementations: []
+summary: >-
+  Neumark & Simpson (2015; read as NBER w20049, 2014), a Handbook survey.
+  Every result is the authors' summary of other studies. Theory (big push,
+  multiple equilibria, agglomeration) could justify a temporary push that
+  leaves an area self-sustaining, but evaluations mostly measure effects
+  while incentives are in force. Enterprise-zone evidence is "very mixed":
+  gains are often relocation from nearby areas, or capitalized into land
+  and house values with higher-income residents arriving. Monitored,
+  conditional grants raise employment and investment in recipients but
+  not productivity, and in one Italian study investment fell below
+  controls after the last payment. Infrastructure and public goods look
+  best: the Tennessee Valley Authority's manufacturing gains outlasted its
+  transfers through agglomeration while its direct effect and its farm
+  gains did not, and the agglomeration gain is estimated to net to about
+  zero nationally. Verdict: no place-based policy has been shown to create
+  self-sustaining gains.
+---
+<!-- inactive-ok-file: THEORY-tmptef2i CLAIM-597 CLAIM-tmpc3x0c THEORY-919 — Proposed or new; cited from the reading of Neumark and Simpson (2015) as open -->
+
+# LIT-tmpbz0oy: Place-Based Policies
+
+Neumark, D. & Simpson, H. (2015). Place-Based Policies. In G. Duranton, J. V. Henderson & W. C. Strange (eds.), *Handbook of Regional and Urban Economics*, vol. 5, ch. 18, pp. 1197–1287. Amsterdam: Elsevier. doi:10.1016/B978-0-444-59531-7.00018-1. Read as NBER Working Paper 20049, April 2014, revised August 2014, doi:10.3386/w20049, https://www.nber.org/papers/w20049.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp9y93b](../notes.d/NOTE-tmp9y93b.md), of the 2014 working paper, not the 2015
+chapter. Page numbers are the working paper's. **Every result below is the
+authors' summary of someone else's study**; none of the primary studies was
+read.*
+
+- **The verdict.** "even the most positive evidence on their effectiveness
+  does not establish that they create self-sustaining economic gains. That
+  is, at best the evidence (sometimes) says that when place-based
+  incentives are in effect, there are increases in economic activity"
+  (p. 73).
+- **Theory against practice.** The "big push" that could leave longer-run
+  gains is "far removed from the multi-faceted set of incentives that
+  place-based policies provide in practice" (p. 29).
+- **Relocation.** In the UK "between 50 and 80 percent of enterprise zone
+  businesses had relocated into the zones, prompting the British government
+  to phase out the program" (p. 24); for US Empowerment Zones, one study
+  finds them "to a first-order approximation, simply creating relocation of
+  economic activity" (p. 39).
+- **Capitalization.** In Texas "a statistically significant 11 percent
+  increase in median housing values" with "no change in median household
+  income" (p. 34); for the Empowerment Zones "The bulk of the estimated
+  welfare gains come from positive effects on house prices in the zones"
+  (p. 38).
+- **Support that only lasts while paid.** "the value of the wage credit only
+  lasts as long as the wage credit is available, whereas other sources of
+  gains may be more permanent, such as agglomeration effects" (p. 38). In
+  Italy, recipients of Law 488 grants "show a decrease in investment
+  relative to the control group at five years, i.e., two to three years
+  after the final subsidy payment" (p. 52).
+- **The one durable case.** In the Tennessee Valley Authority counties,
+  after federal transfers became negligible in 1960, agglomeration
+  "continued to make the TVA counties an attractive location for new
+  manufacturing activity even in the face of depreciation of the initial
+  infrastructure investments following the withdrawal of federal funding"
+  (p. 64). The direct effect was significant only in 1940–60, the farm gains
+  reversed, and the agglomeration benefits were "offset by negative effects
+  elsewhere" (p. 66).
+- **No threshold seen.** For EU Structural Funds there is "no evidence to
+  suggest that a minimum level of transfers is necessary" (p. 69).
+
+## Standing in the record
+
+Filed with the urban-development batch of 2026-11-05, which looks for what
+separates support safe to withdraw from support that leaves dependence
+([CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)). It is the broadest map in the batch and the one that
+states [QUESTION-398](../questions.d/QUESTION-398.md)'s test in the field's own words, quoting Moretti:
+whether "the publicly financed seed can eventually generate a privately
+supported cluster that is large enough to become self-sustaining" (p. 74).
+Its answer is that the test has almost never been run. It is a survey, so
+what it reports is the authors' reading of other studies; the TVA result
+is Kline and Moretti (2014), filed in parallel in this batch, which carries
+it first-hand. Filed from it: [THEORY-tmptef2i](../theory.d/THEORY-tmptef2i.md).

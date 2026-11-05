@@ -1,0 +1,131 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md)) from the authors' accepted
+  manuscript of 14 November 2020 in LSE Research Online; worth reading as
+  a rare long-run test of one-off public support that residents built on:
+  greenfield plots, roads and water mains laid out in 1975–84 carried, by
+  the 2010s, larger and better housing and roads and mains that were still
+  there, while the same spending in already-built squatter areas left no
+  gain and decayed, which the authors explain by a feedback between owners'
+  investment and the upkeep of infrastructure. One cross-section 35–40
+  years on, with no time path; 12 de novo areas, 90 imagery clusters and
+  29 survey clusters; the upgrading comparison is descriptive only; the
+  deterioration threshold φ is assumed in the model, not estimated; the
+  land-value gains rest on the model and coarse Dar es Salaam data; and the
+  authors warn that at scale poor, credit-constrained residents may not be
+  able to keep the loop going.
+title: 'Planning Ahead for Better Neighborhoods: Long-Run Evidence from Tanzania'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look to
+    urban development and city planning for what makes support safe or
+    hazardous to remove (works chosen by the assistant). Citation checked
+    against Crossref (no mailto): Guy Michaels, Dzhamilya Nigmatulina,
+    Ferdinand Rauch, Tanner Regan, Neeraj Baruah and Amanda Dahlstrand,
+    Journal of Political Economy 129(7), 2112–2156, University of Chicago
+    Press. Crossref gives 2021-07-01 for print, issue and publication, and
+    no online-first date, so `published:` is 2021-07-01. The last author is
+    "Amanda Dahlstrand" in Crossref and on the manuscript's title page, and
+    "Dahlstrand Rudin, Amanda" in the LSE deposit's citation; Crossref's
+    form is followed. Copy: the authors' accepted manuscript, dated
+    "November 14, 2020" on its title page, deposited in LSE Research Online
+    (eprint 107479, https://researchonline.lse.ac.uk/id/eprint/107479/),
+    72 pages with the main and appendix tables and the Data Appendix; its
+    cover sheet says there may be differences from the published version.
+    The manuscript's date is not a publication date and is not used as
+    `published:`. Page numbers cited from the reading are the
+    manuscript's. Earlier working-paper versions (SERC DP 0222, CESifo WP
+    6680, IZA DP 11036, SSRN 2017) exist and were not read; the version of
+    record was not read.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-05'
+published: '2021-07-01'
+doi: '10.1086/714119'
+first_author: 'Michaels'
+keywords:
+- 'sites and services'
+- 'slum upgrading'
+- 'urban planning'
+- 'infrastructure'
+- 'housing quality'
+- 'spatial regression discontinuity'
+- 'Tanzania'
+- 'crowding in'
+implementations: []
+summary: >-
+  Michaels, Nigmatulina, Rauch, Regan, Baruah & Dahlstrand (2021). From 1974
+  to 1984 the World Bank and Tanzania's government laid out 12 "de novo"
+  neighbourhoods on greenfield land in seven cities, with surveyed formal
+  plots, roads and water mains, and residents built their own houses; 12
+  "upgrading" areas got roads and water in squatter settlements already
+  built. A spatial regression discontinuity against adjacent land also
+  unbuilt at the start finds that by the 2010s de novo areas have larger,
+  more regularly laid out and better-connected buildings, higher hedonic
+  values and roads and mains that are still there; a third of the quality
+  gap is owner sorting. Upgrading areas are, descriptively, no better than
+  comparison areas and their infrastructure deteriorated. A model explains
+  the contrast by a threshold: infrastructure stays high-quality only if
+  enough owners can invest, and existing low-quality housing is not
+  rebuilt until it is destroyed.
+---
+<!-- inactive-ok-file: THEORY-tmp84p6d CLAIM-tmpc3x0c CLAIM-tmpw4ai2 CLAIM-tmpoh07b CLAIM-597 THEORY-919 — Proposed or new; cited from the reading of Michaels et al. (2021) as open -->
+
+# LIT-tmpisfhu: Planning Ahead for Better Neighborhoods: Long-Run Evidence from Tanzania
+
+Michaels, G., Nigmatulina, D., Rauch, F., Regan, T., Baruah, N. & Dahlstrand, A. (2021). Planning Ahead for Better Neighborhoods: Long-Run Evidence from Tanzania. *Journal of Political Economy* 129(7): 2112–2156. doi:10.1086/714119. Accepted manuscript: https://researchonline.lse.ac.uk/id/eprint/107479/.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp4js2v](../notes.d/NOTE-tmp4js2v.md). Page numbers are the accepted manuscript's, not the journal's.*
+
+- **One-off support that residents built on.** "These projects provided
+  basic infrastructure, leaving it to the residents to build their own
+  houses" (p. 28); infrastructure was built in 1975–76 and 1980–84, and
+  cost recovery largely failed.
+- **Better housing 35–40 years on.** Across seven cities, footprints
+  "roughly 12 percent larger" (p. 17) and a housing z-index of 0.168; in
+  the three surveyed cities footprints "about 50 percent (or 0.41 log
+  points) larger" and buildings "about 23 percentage points (or 48
+  percent) more likely to be connected to electricity" (p. 17).
+- **The infrastructure persisted.** Roads within 10 m, road access and
+  water-mains connections are all higher in de novo areas, "showing that de
+  novo investments translated into better infrastructure in the long run"
+  (p. 20).
+- **Sorting is part of it.** "roughly a third of the quality advantage of de
+  novo areas is accounted for by the different ownership" (p. 19).
+- **Upgrading did not take.** Upgrading areas, with similar spending per
+  square metre, are no better than nearby or non-upgraded areas and show
+  "fewer multistory buildings, worse roofs, and possibly worse sanitation"
+  (p. 20); their infrastructure deteriorated. The authors call this
+  analysis descriptive.
+- **A feedback, with a threshold assumed.** "infrastructure investment
+  crowds in private investment in housing quality, which in turn preserves
+  infrastructure quality. This virtuous feedback, however, does not occur
+  in upgrading areas" (p. 3). The model assumes high-quality
+  infrastructure decays "unless the fraction of high quality housing is
+  larger than a constant φ" (p. 22).
+- **The authors' caution.** "if de novo investments were expanded widely,
+  poor and credit constrained residents may be unable to make full use of
+  them" (p. 27).
+
+## Standing in the record
+
+Filed with the urban-development batch of 2026-11-05, after the owner asked
+what separates support that is safe to withdraw from support that induces
+dependency. It is the batch's clearest case for the lead's synthesis,
+[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md): one-off support started a loop that residents kept up by
+their own investment. It adds two conditions the synthesis lacks: enough of
+the supported must be able to do the work, and the support must come before
+a competing configuration (a built stock of low-quality housing) is in
+place. Its upgrading arm is the record's best illustration of [CLAIM-597](../claims.d/CLAIM-597.md)'s
+decay where upkeep has no local source, and its model is a state-dependent
+upkeep of the kind [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) describes, though the threshold is
+assumed. It parallels [THEORY-919](../theory.d/THEORY-919.md) (Juhász) as a temporary place-specific
+intervention with persistent effects, with one snapshot and no fade test.
+Filed from it: [THEORY-tmp84p6d](../theory.d/THEORY-tmp84p6d.md).

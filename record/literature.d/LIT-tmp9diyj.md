@@ -1,0 +1,95 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md)) from the open copy in PubMed
+  Central (PMC6787827, CC BY 4.0); worth reading as a quantitative case of
+  a recovered species that stays on supplied habitat after delisting: in a
+  100-year viability model of the Kirtland's Warbler, whose young
+  jack-pine habitat is planted in place of suppressed wildfire, cutting
+  the planted habitat lowers the plateau the population holds rather than
+  sending it extinct, and the authors conclude it "will continue to be
+  reliant on humans". Also one of three neighbours standing in for the
+  unread Scott et al. (2010), [LIT-tmp5lbzn](LIT-tmp5lbzn.md), for the concept of
+  conservation reliance only. A single-sex simulation with ceiling density
+  dependence and no scenario that stops the plantations or cowbird
+  removal altogether.
+title: "Influence of climate change and postdelisting management on long-term population viability of the conservation-reliant Kirtland's Warbler"
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look to
+    reintroduction and ecological recovery for what makes support safe or
+    hazardous to remove (works chosen by the assistant), as a stand-in for
+    Scott et al. (2010), LIT-tmp5lbzn, whose text could not be reached, on
+    one question only: whether reliance ends at recovery. It does not
+    restate the definition of conservation reliance or Scott 2010's
+    counts; it cites Bocetti, Goble & Scott (2012) for the recovery
+    numbers. Citation checked against Crossref (no mailto): Donald J.
+    Brown, Deahn M. Donner, Christine A. Ribic and Carol I. Bocetti,
+    Ecology and Evolution 9(18): 10263–10276; Crossref's published-online
+    date, 2019-08-24, is `published:`. Copy: the JATS XML of PMC6787827,
+    fetched through NCBI E-utilities.
+tags:
+- ecology
+- natural-sciences
+date: '2026-11-05'
+published: '2019-08-24'
+doi: '10.1002/ece3.5547'
+first_author: 'Brown'
+keywords:
+- "Kirtland's Warbler"
+- 'conservation reliance'
+- 'delisting'
+- 'population viability'
+- 'climate change'
+- 'full annual cycle'
+implementations: []
+summary: >-
+  Brown, Donner, Ribic & Bocetti (2019). A full-annual-cycle simulation of
+  the Kirtland's Warbler, recovered from about 200 breeding males in 1971
+  to over 2,000 through cowbird removal and planted jack-pine habitat
+  that stands in for wildfire now suppressed. Under current management
+  the population holds at about 2,500 males; cutting the supplied
+  breeding habitat by climate or by cheaper post-delisting plantations
+  lowers it to about 1,300 or 1,900 males, and "loss of breeding habitat
+  alone (up to 48.7%) did not cause extinction", while drier winters
+  combined with less habitat sent 98.1% of runs below 200 males. The
+  species "will continue to be reliant on humans to maintain the current
+  quantity of breeding habitat".
+---
+<!-- inactive-ok-file: LIT-tmp5lbzn THEORY-tmpia26b CLAIM-597 CLAIM-566 CLAIM-tmpw4ai2 — Unavailable, Proposed or new; cited from the reading of Brown et al. (2019) as open -->
+
+# LIT-tmp9diyj: Influence of climate change and postdelisting management on long-term population viability of the conservation-reliant Kirtland's Warbler
+
+Brown, D. J., Donner, D. M., Ribic, C. A. & Bocetti, C. I. (2019). Influence of climate change and postdelisting management on long-term population viability of the conservation-reliant Kirtland's Warbler. *Ecology and Evolution* 9(18), 10263–10276. doi:10.1002/ece3.5547
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md).*
+
+- **Supply replaces a lost process.** The habitat "was historically
+  generated naturally through large wildfires with ca. 60 year return
+  intervals", but with fire suppressed "an extensive network of
+  plantations is currently required" (§1).
+- **Cutting the supply lowers the level.** With breeding habitat reduced
+  the population "initially declined, but stabilized at ca. 1,300 males"
+  (climate) or "at ca. 1,900 males" (management) (§3), from about 2,500.
+- **No collapse from habitat alone.** "loss of breeding habitat alone
+  (up to 48.7%) did not cause extinction" (§4); collapse came only with a
+  second, winter-precipitation stress.
+- **Reliance does not end at recovery.** The species "will continue to
+  be reliant on humans to maintain the current quantity of breeding
+  habitat" (§4).
+
+## Standing in the record
+
+One of three neighbours standing in for the unread Scott et al. (2010),
+[LIT-tmp5lbzn](LIT-tmp5lbzn.md), with Mussmann et al. (2017) and Underwood et al. (2013); it
+stands in only for whether conservation reliance ends at recovery, and
+for what it asserts itself. It bears on [CLAIM-597](../claims.d/CLAIM-597.md), which it supports by
+analogy and qualifies (a partial cut gives a lower plateau, and a full
+stop was not simulated), on [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md), whose prediction of no
+threshold for state-independent upkeep it fits, on [CLAIM-566](../claims.d/CLAIM-566.md) and on
+[QUESTION-398](../questions.d/QUESTION-398.md). Filed from it: [THEORY-tmpia26b](../theory.d/THEORY-tmpia26b.md).

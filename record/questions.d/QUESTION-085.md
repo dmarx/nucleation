@@ -21,6 +21,7 @@ summary: >-
 answered_by:
 - CLAIM-274
 ---
+<!-- inactive-ok-file: CLAIM-tmpw4ai2 — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-274 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 
 # QUESTION-085: Does a maintained r/place artwork feed back into the flow of repair that keeps it, so that it is self-maintaining like a candle flame, or is its defence supplied from outside like the heat under a convection cell, and does the answer change when its coalition starts switching strategies?
@@ -78,3 +79,11 @@ which is the flame's rung, not the convection cell's. The test above now has
 two parts: recruitment after visible growth or damage, and retention as a
 function of the survival of one's own pixels.
 
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Three observable signatures.** [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) models the flame side of this question: upkeep whose rate rises with the structure's intact share. Against a convection cell's supplied upkeep, it predicts three things in an artwork's placement records. A small or badly damaged image is not rebuilt while its community is active. Past some ratio of attack to defence, the image falls fast rather than eroding. After a long enough wipe, it does not come back when defenders return.
+- **The aid readings' analogue.** The aid literature's self-maintaining loop, a state that funds itself by taxing those it serves (Moore, [NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)), is a flame in this sense, and aid that does the work is the heat under the cell.
+
+No status changes.

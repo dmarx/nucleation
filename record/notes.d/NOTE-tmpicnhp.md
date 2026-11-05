@@ -1,0 +1,193 @@
+---
+status: Read
+paper: 'LIT-tmpit9mn'
+title: 'Banerjee, Duflo and Sharma — Ten years of the Targeting the Ultra Poor program in West Bengal'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 as NBER Working Paper 28074, "November 2020,
+    Revised June 2021", from NBER's site
+    (https://www.nber.org/system/files/working_papers/w28074/w28074.pdf); 23
+    PDF pages, text extracted to plain text. Read: the abstract, the text
+    (pp. 1–14), the references, Tables 1–4 and Figure 1. Not read: the AER:
+    Insights version of record (3(4): 471–486, December 2021), whose
+    numbers may differ slightly, and the online appendix (Tables A1–A9,
+    among them the attrition table A3 and the cost-benefit table A8). Pages
+    below are the working paper's printed pages.
+date: '2026-11-05'
+summary: >-
+  A ten-year RCT follow-up of the Targeting the Ultra Poor program at the
+  India site of Banerjee et al. (2015): an asset, 30–40 weeks of consumption
+  support and weekly visits, with no contact after 18 months. Consumption,
+  income and health effects grow to year 7 and hold to year 10 (consumption
+  +0.58 SD); treated adults work more at every wave. Controls also grew
+  fast; the treated pulled ahead through wage work and migration. The
+  authors hold the pattern consistent with, not proof of, escape from a
+  poverty trap.
+---
+<!-- inactive-ok-file: THEORY-tmpv02zm CLAIM-tmpc3x0c CLAIM-tmpqa0qu CLAIM-tmpoh07b CLAIM-tmpw4ai2 CLAIM-597 THEORY-tmph35ra THEORY-tmpukudp — Proposed or new; cited from the reading of Banerjee, Duflo and Sharma (2021) as open -->
+
+# NOTE-tmpicnhp: Banerjee, Duflo and Sharma — Ten years of the Targeting the Ultra Poor program in West Bengal
+
+## Contribution
+
+It extends one arm of Banerjee et al. (2015), [LIT-tmpcs39o](../literature.d/LIT-tmpcs39o.md), the West Bengal
+site run by Bandhan, from three to ten years after the asset transfer, with
+indices "constructed using the same methodology as in Banerjee et al.
+(2015)" (p. 6). It answers, for one site, the 2015 paper's open question of
+how long the gains last, and finds a channel the short follow-up could not
+see: the push let households use later opportunities, wage work and
+migration, better.
+
+## Key insight
+
+Withdrawal was followed by growth, not decline: households given a one-time
+push, then left alone, kept pulling ahead of a control group that was itself
+rising fast. What carried the persistence was an outside flux that stayed
+available, labour markets and migration, not the provider. Whether that is
+escape from a trap or a lasting level effect the authors leave open.
+
+## Assumptions
+
+- **The program** (pp. 4–5): offered in 2007; a productive asset (about 82%
+  chose livestock), consumption support for 30–40 weeks at Rs. 90 a week,
+  savings, and weekly visits for 18 months; then "Bandhan had no contact with
+  beneficiary households starting 18 months after the asset transfer", and
+  "All program activities had ceased by the first endline survey".
+- **Sample and estimation** (pp. 5–6): 978 eligible households, 514
+  assigned to treatment, of whom "only 266 accepted", so the estimates are
+  ITT, with hamlet fixed effects and baseline controls; pre-registered
+  (AEARCTR-0000382).
+- **Measurement**: remittances counted at full value in the main wage
+  measure, with an alternative given; migrants' consumption excluded or set
+  to the household average, both said to understate the effect.
+
+## Key results
+
+- **Growth, then persistence** (abstract): "These effects grow for the first
+  seven years following the transfer and persist until year 10."
+- **Table 1** (ITT, robust SE), at 18 months, 3, 7 and 10 years:
+  consumption 0.311 (0.076), 0.292 (0.079), 0.717 (0.125), 0.579 (0.175);
+  income 0.145 (0.075), 0.172 (0.071), 0.334 (0.070), 0.264 (0.080); assets
+  0.217, 0.389, 0.814, 0.346; physical health 0.061, 0.027, 0.130, 0.187;
+  mental health 0.115, 0.012, 0.249, 0.203; productive time 0.285, 0.102,
+  0.165, 0.148.
+- **Labour supply** (p. 9): "on average 0.285 SD (60 more minutes) by 18
+  months", 0.1 SD (21 minutes) by year 3 and 0.15 SD (30 minutes) by years 7
+  and 10. Treated adults work more at every wave, up to 8.5 years after
+  contact ended.
+- **Levels** (p. 7): control consumption from $1.35 a day at baseline to
+  "$2.9/day by year 10"; treated "$3.53/day by year 10" (2018 PPP).
+- **Assets fall after year 7 by choice** (p. 8): the drop is "largely
+  attributable to treated households diversifying out of livestock and
+  non-farm micro-enterprises and into labor income".
+- **Channels shift** (pp. 3, 10–12): livestock revenue first; non-farm
+  enterprise "70% higher than the control group" at year 7; wage income
+  including remittances higher from year 7, remittances "about a third of
+  the effect" at year 10.
+- **Migration** (pp. 12–13): treated migrants stay "25 days longer on
+  average by year 10"; no effect on the share of households sending
+  migrants.
+- **Push and growth as complements** (p. 4): "positive macroeconomic shifts
+  may be complementary to a big push intervention rather than a substitute";
+  contrast Blattman et al. (2020, Uganda), where "the control group catches
+  up".
+- **Trap or not** (p. 2): the pattern "is consistent with the alleviation of
+  a poverty trap", but "it is also consistent with there being persistent
+  effects without actually getting out of a trap"; "It would take an even
+  longer follow up". And (p. 14): "by year 10, treatment household have
+  barely escaped poverty"; controls "may eventually catch up".
+- **Mechanisms named, not tested** (pp. 2–4): investment thresholds, where
+  the poor cannot "reach the threshold level of investment at which
+  productivity rises steeply"; psychology, households "more optimistic about
+  the future and therefore more willing to save and/or put in effort"; for
+  migration, "it could be that they are better informed or more confident as
+  a result of the headstart".
+- **Cost-benefit** (pp. 9–10): cost $2163 (2018 PPP); "The program breaks
+  even by year 4"; benefit-cost ratio 379% by year 10.
+- **Attrition** (pp. 5–6): "71% are tracked across all four survey waves",
+  attrition "not systematically different", results unchanged on the
+  balanced panel.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Effects on consumption, income and health grew to year 7 and held to year 10 after a one-time push and no contact after 18 months | moderate to strong: one RCT, ITT, 71% balanced panel | Table 1; abstract |
+| C2 | Treated adults worked more at every wave | moderate | p. 9 |
+| C3 | Persistence runs mainly through better use of wage work and migration | moderate: decomposition, not identified separately | pp. 10–13 |
+| C4 | The program moved households out of a poverty trap | weak, by the authors' own account | pp. 2, 14 |
+
+## Concepts
+
+- **Graduation**: BRAC's term for leaving extreme poverty.
+- **Big push, poverty trap**: as in [NOTE-tmpl3nvb](NOTE-tmpl3nvb.md).
+- **Complementarity of push and macro opportunity**: the push raises the
+  household's ability to use opportunities that arrive later, so a rising
+  economy does not wash it out.
+
+## Connections
+
+The parent study is [LIT-tmpcs39o](../literature.d/LIT-tmpcs39o.md) ([NOTE-tmpl3nvb](NOTE-tmpl3nvb.md)). The authors cite Balboni
+et al. (2020; in this batch as Balboni et al. 2022) for threshold evidence in
+Bangladesh and Blattman et al. (2020) for a Uganda grant program whose
+controls caught up. Haushofer & Fehr (2014), in this batch, is the
+psychological account the "more optimistic" mechanism leans on. On the
+record's side, [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md) (Kenyan projects after exit) is the nearest
+held case of benefits judged after the provider left.
+
+## Bearing on the record
+
+Dated notes on the claims below are for the lead to add; none are written
+here.
+
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (synthesis)**: strongly supports its test. The claim asks
+  for persistence "through a full turnover after withdrawal"; here gains held,
+  and grew, for 8.5 years after all contact. It also illustrates the claim's
+  "flux that will stay available": persistence drew on labour markets and
+  migration, not on the provider, which is [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)'s distinction
+  between dependence on a flux and on a provider. It contradicts the
+  slack-effort route for this kind of support: productive time stays higher
+  at every wave.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (Samaritan's dilemma)**: contradicts the expectation that
+  help leaves the recipient household less capable; ten years on, treated
+  households work more and earn more from work. The help was one-off, so the
+  dilemma's premise of assured help was absent; what is shown is that a
+  one-way transfer to households need not leave a dependence that
+  withdrawal punishes.
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)**: consistent with its capacity-first branch; not a test
+  of substitution, and about households, not organizations.
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds)**: qualifies. Growth to year 7 then a plateau
+  is what a threshold crossing predicts, but the authors decline to conclude
+  it, because controls also rose and the treated "barely escaped poverty".
+- **[CLAIM-597](../claims.d/CLAIM-597.md)**: no bearing; this is not supplied upkeep.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al.)**: cuts against its transfer to
+  households: benefits outlasted the aid by a decade with no donor repair.
+  The state-level account is untouched.
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: the best household-level case on the record of becoming
+  independent of the intervention: dependence at withdrawal, about 18 months,
+  appears near zero for the average household, since effects grew after.
+  Contrast Blattman et al.: independence of the intervention is not the same
+  as a lasting advantage over the counterfactual.
+- **Level**: households only; it says nothing about aid to governments.
+- Filed: [THEORY-tmpv02zm](../theory.d/THEORY-tmpv02zm.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- One site, the most favourable in 2015 ("India has the most favorable cost
+  benefit ratio", p. 10); 978 households; 52% take-up.
+- 71% retained across all waves over ten years.
+- The working paper, not the version of record; the appendix not read.
+- The control group's fast growth: the authors cannot separate a trap from a
+  persistent level effect, and controls "may eventually catch up".
+- Mechanisms (capital for migration, confidence, information) are
+  conjectures.
+
+## Open questions
+
+- Do the gains last past year 10, or do controls catch up?
+- Is there a threshold? It needs exogenous variation in the size of the
+  push, which this design lacks.
+- Does the same hold at a site with weaker 2015 results?

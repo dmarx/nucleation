@@ -1,0 +1,210 @@
+---
+status: Read
+paper: 'LIT-tmpzkw55'
+title: 'Araki et al. — Fitness of hatchery-reared salmonids in the wild'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the open-access Europe PMC full-text
+    XML of PMC3352433, text and tables extracted from it. Read: abstract,
+    every section from the Introduction to the Conclusion, Table 1 (the 14
+    studies), Table 2 (variance in fitness) and the figure legends. Not
+    read: the reference list, except to identify Araki et al. 2007a
+    (Conservation Biology 21:181–190) and 2007b (the Science paper,
+    LIT-tmpcmwya). Read as a stand-in for that Science paper, whose full
+    text was not reached. There are no page numbers in the copy; locations
+    are the paper's section headings.
+date: '2026-11-05'
+summary: >-
+  A review of 14 studies of hatchery against wild salmonid fitness in the
+  same habitat, nine on steelhead, and a quantitative-genetic model.
+  Hatchery fish are generally less fit in the wild; nonlocal segregated
+  stocks are worst (lifetime relative fitness 0.02–0.37); local wild
+  broodstock helps but does not prevent the loss. In the authors' Hood
+  River steelhead the loss is genetic and cumulative from the first to the
+  second hatchery generation. Of the candidate mechanisms, relaxed
+  selection is too slow and inbreeding would need to be too high;
+  domestication selection is the most likely, and the model shows it can
+  give a loss of more than 30% per generation on one trait only when
+  selection is strong in both settings and heritability high, plausibly
+  when it acts on several traits.
+---
+<!-- inactive-ok-file: LIT-tmpcmwya THEORY-tmpw0b45 CLAIM-597 CLAIM-tmpoh07b CLAIM-tmpqa0qu CLAIM-558 CLAIM-566 TERM-117 LIT-1616 — Unavailable, Proposed or new; cited from the reading of Araki et al. (2008) as open -->
+
+# NOTE-tmpkfeb0: Araki et al. — Fitness of hatchery-reared salmonids in the wild
+
+## Contribution
+
+Supplementation hatcheries now aim to restore wild salmonid populations,
+not only to feed fisheries, but whether hatchery fish contribute to
+recovery was unsettled. The authors collect the 14 studies that compared
+hatchery and wild fish breeding in the same habitat, sort them by
+broodstock origin (local or nonlocal) and management (segregated or
+integrated), and then ask whether domestication selection alone can
+produce the fast, inherited decline their own Hood River study found
+(Araki et al. 2007b, [LIT-tmpcmwya](../literature.d/LIT-tmpcmwya.md)).
+
+## Key insight
+
+Support that does an organism's hardest life stage for it (hatchery
+egg-to-smolt survival "85–95% in hatcheries versus 1–5% in the wild")
+changes what the population is selected for, and the change is fast
+enough to see in one or two generations. The fast route is not the slow
+disuse of relaxed selection but positive selection for what the support
+rewards, which costs in the wild: "The last and most likely explanation
+for the rapid fitness decline is domestication selection" (Mechanisms of
+fitness decline).
+
+## Assumptions
+
+- **Relative fitness (RF)** is the fitness of hatchery fish, lifetime or a
+  component, over that of wild fish spawning in the same habitat (Summary
+  of studies).
+- **Genetic or confounded.** A difference is presumed genetic where both
+  groups were spawned artificially and their offspring compared;
+  hatchery-born against wild-born comparisons confound genes with rearing
+  (Table 1 legend).
+- **Generations in captivity** (NGC) are "approximated as years of
+  hatchery operation divided by modal age at sexual maturity" (Table 1
+  legend).
+- **The model** (Selection – single-trait model): Gaussian stabilizing
+  selection in the wild, truncation selection in the hatchery, the
+  breeder's equation, one generation.
+
+## Key results
+
+- **Speed** (Abstract). Decline "can occur very quickly, sometimes
+  following only one or two generations of captive rearing".
+- **Nonlocal stocks** (Segregated broodstocks of nonlocal origin). Five
+  steelhead studies, "Lifetime RF = 0.02–0.37", stocks kept closed "for
+  5–10 generations". The Abstract: "nonlocal hatchery stocks consistently
+  reproduce very poorly in the wild".
+- **Local stocks** (Abstract). They "generally perform better than
+  nonlocal stocks, but often worse than wild fish". Two old local stocks
+  (brown trout, seven generations; coho, about 25) matched wild fish, but
+  hatchery fish "had been predominating on the spawning grounds", so the
+  'wild' fish were probably largely hatchery-descended (Integrated
+  broodstocks of local origin).
+- **Hood River** (Table 1, row "Araki et al. (2007a,b)"). One generation
+  in captivity against wild "(m) 0.70 (f) 0.88"; two "(m) 0.32 (f) 0.30";
+  two against one, marked genetic, "(m) 0.55 (f) 0.55". In that contrast
+  "all fish were spawned artificially, reared in the same environment and
+  released on the same date", and the difference "suggests a rapid and
+  cumulative genetic effect of hatchery culture during the first few
+  generations of captive rearing" (Integrated broodstocks of local
+  origin).
+- **The per-generation figure, as the paper states it.** "the addition of
+  one half a genome with one additional generation of exposure to the
+  hatchery resulted in 30–40% decline in fitness" (Opportunity for
+  selection); "the fitness decline of ∼30%/generation reported by Araki
+  et al. (2007b)" (Mechanisms); the model's target is ">30%" per
+  generation. The Science abstract says about 40%. What was read does not
+  reconcile these, and this note does not choose.
+- **Relaxed selection** (Mechanisms). It "seems an unlikely explanation
+  for dramatic declines in fitness unless salmon carry an extraordinary
+  standing genetic load": deleterious mutation runs at "around one mutation
+  per genome per generation" of about 2% effect, so it "should take at
+  least a few generations".
+- **Inbreeding** (Mechanisms) would "need to be unrealistically high", and
+  the Hood River programme avoided hatchery-by-hatchery crosses.
+- **Opportunity for selection** (Table 2). Variance in relative fitness
+  "averaged 4.5 for males and 3.5 for females", so heritability of fitness
+  of about 0.07 and 0.09 would suffice for a 30% response.
+- **Single trait** (Figs 2–3). "all three conditions are required" (strong
+  truncation, high heritability, strong wild selection); "low levels of
+  truncation (LT ≤ 0.5) cannot explain the >30% fitness decline, and
+  neither can ω2 > 5 or h2 ≤ 0.2". Hatchery mortality is "only 5–15%", so
+  "viability selection in the hatchery itself is not sufficient"; selection
+  correlated with later life stages is "a plausible mechanism".
+- **Candidate traits** (Candidate traits under selection). Yearling
+  release selects for fast growth, which goes with aggression, "risk taking
+  behavior" and "reduced ability to avoid predators"; artificial spawning
+  brings "relaxation of mate selection". Crowding is cited from Frankham
+  (2008) as a possible source of strong selection.
+- **Population level** (Introduction; Limitations of existing data). Some
+  programmes "increased the number of adults that spawn in the wild", but
+  "increases in wild population productivity or even wild production have
+  not been documented"; several studies find "widespread negative
+  correlations between natural population productivity and intensity of
+  hatchery production".
+- **Conclusion.** Loss "mitigated to some extent by using local, wild
+  fish for broodstock, but we found little evidence to suggest that it can
+  be avoided altogether"; managers should pause.
+
+## Concepts
+
+- **Supplementation**: hatchery production from local fish meant to
+  restore a declining wild population, not to supply a fishery.
+- **Integrated and segregated broodstock**: hatchery stock perpetuated with
+  or without wild fish in its crosses; **local and nonlocal**: founded from
+  the river of release or another.
+- **Domestication selection**: selection for adaptation to the hatchery at
+  the expense of adaptation to the wild; contrasted with **relaxed
+  purifying selection**, mutations neutral in the hatchery accumulating,
+  and with **inbreeding depression**.
+- **Number of generations in captivity** (NGC).
+
+## Connections
+
+Builds on Araki et al. 2007a (three Hood River programmes) and 2007b
+([LIT-tmpcmwya](../literature.d/LIT-tmpcmwya.md)); on Lynch & O'Hely (2001) and Ford (2002) for the
+theoretical case; on Reisenbichler and colleagues for hatchery survival and
+size selection; and on Frankham (2008) for crowding. Christie et al.
+(2012), filed alongside, tests the mechanism this paper argues. Within
+this batch it is the stand-in for Araki, Cooper & Blouin (2007).
+
+## Bearing on the record
+
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (supply that never yields independence). Qualifies. The
+  hatchery is supply set from outside that does not produce a population
+  able to do without it, but not only because supply stops being renewed:
+  the supply's own operation lowers the capacity it feeds. No rise in wild
+  productivity is documented.
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (supply that does the work first lowers the capacity
+  kept). Supports in pattern: support that does the early-life work for the
+  organism lowers wild capacity, and the loss grows from one generation of
+  substitution to two. Qualifies in mechanism: the route is selection for
+  what support rewards, not loss of learning, and recovery after
+  withdrawal is not measured.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)** (a loss favoured under the supply). Supports: the trait
+  favoured in the hatchery, fast growth, is the one argued to cost in the
+  wild; nothing in the stock's dynamics limits the loss short of the
+  supply.
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (decay by disuse). Qualifies. The paper ranks two routes of
+  capacity loss under support: relaxed selection, the disuse analogue, slow
+  and multi-generational; active selection for supported conditions, fast.
+  The claim covers only the first. [LIT-1616](../literature.d/LIT-1616.md) (deletional bias by relaxed
+  selection in bacterial genomes) is the slow route's natural contrast.
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (when a partial organization becomes independent of what
+  established it). Bears strongly. Here the cost of withdrawing support
+  would grow the longer support runs, because support lowers what is left
+  to stand alone. And once hatchery fish dominate the spawning grounds the
+  unsupported comparator is gone, so the cost cannot be measured: old
+  stocks look as fit as 'wild' fish that are themselves hatchery-descended.
+- **[CLAIM-566](../claims.d/CLAIM-566.md)** (assembling, persisting and regenerating come apart). A
+  hatchery-dominated population persists by supply without showing
+  regeneration; the paper's coho case, where "no ‘wild’ population remained", is one.
+- **[TERM-117](../terms.d/TERM-117.md)** (productive nucleus, relative to a comparator). The hatchery
+  raises adults spawning in the wild while lowering per-capita wild
+  fitness: productive against one target, not another.
+- **[THEORY-132](../theory.d/THEORY-132.md)** (stability and resilience). Faint: a difference of "a few
+  percent" compounds over generations below what studies can detect. No
+  regime shift is in question.
+- Filed: [THEORY-tmpw0b45](../theory.d/THEORY-tmpw0b45.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **Few studies, mostly steelhead**: the data are "heavily biased towards
+  steelhead", and studies "rarely have power to detect fitness differences
+  of less than 10–15%" (Limitations of existing data).
+- **Mechanism argued, not measured**: "no studies have empirically examined
+  the mechanism" (Mechanisms); Christie et al. (2012) later do.
+- **The model** is one generation, and its worked form one trait; the
+  multi-trait case is argued as plausible, not computed.
+- **The Hood River figures** are pooled in Table 1 from two papers, and the
+  per-generation figure is given as about 30%, 30–40% and >30% in this
+  paper and about 40% in the Science abstract; not reconciled here.
+- **NGC** is a rough approximation from years of operation.

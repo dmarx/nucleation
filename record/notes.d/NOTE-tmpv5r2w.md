@@ -1,0 +1,246 @@
+---
+status: Read
+paper: 'LIT-tmp8vvwg'
+title: 'Haushofer & Fehr — on the psychology of poverty'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the Science reprint (7 pages, stamped "This
+    copy is for your personal, non-commercial use only" and downloaded from
+    sciencemag.org on 23 May 2014) posted on the first author's Stockholm
+    University publications page
+    (https://haushofer.ne.su.se/publications/Haushofer_Fehr_Science_2014.pdf),
+    with the supplementary material from the same page. Read: the whole
+    main text, figures and captions. From the supplement: the search
+    strategy and the factor-analysis section. Skipped: the supplement's
+    per-study review tables, item by item, and the reference list beyond
+    identifying cited works. The scarcity studies it cites (Mani et al.,
+    Shah et al.) were not read and appear here only as the authors
+    summarise them. Page numbers are the Science print's.
+date: '2026-11-05'
+summary: >-
+  A Science Review assembling evidence for a two-link chain: poverty causes
+  stress and negative affect (correlational data, field RCTs including the
+  first author's Kenya cash-transfer trial, natural experiments; 18 of 25
+  causal studies positive), and stress and negative affect raise present
+  bias and risk aversion (laboratory inductions with samples of 36 to
+  189). The authors frame it against blaming the poor, call the second
+  link "the weakest link", and find no nonlinearity that would make the
+  loop a poverty trap. It reports no effort or labour-supply response to
+  transfers.
+---
+<!-- inactive-ok-file: THEORY-tmp19alc CLAIM-tmpc3x0c CLAIM-tmpqa0qu CLAIM-tmpoh07b CLAIM-tmpw4ai2 CLAIM-597 THEORY-tmph35ra THEORY-tmpukudp THEORY-1180 THEORY-470 — Proposed or new; cited from the reading of Haushofer & Fehr (2014) as open -->
+
+# NOTE-tmpv5r2w: Haushofer & Fehr — on the psychology of poverty
+
+## Contribution
+
+It sets a psychological route to persistent poverty beside the economic
+ones (credit constraints, liquidity, background risk): poverty produces
+stress and negative affect, which make choices more short-sighted and
+more cautious, which can keep people poor. It argues that laboratory
+experiments with random assignment rule out the economic routes for the
+second link. It backs the account with two systematic searches
+(supplement), and names three places to intervene: poverty itself, its
+psychological consequences, and the behaviours they produce.
+
+## Key insight
+
+Behaviour that looks like the poor's own impatience or timidity may be
+caused by the conditions of poverty, so it is evidence about the
+conditions, not about character: "any one of us might be poor if it were
+not for certain environmental coincidences" (p. 862). On this account,
+support that relieves deprivation should make choices more far-sighted,
+not less.
+
+## Assumptions
+
+- Acute laboratory inductions (threat of shock, sad or horror film clips,
+  hydrocortisone, the Trier Social Stress Test, the cold pressor test)
+  stand in for the chronic stress of poverty. The authors flag this
+  themselves (p. 865).
+- The instrumental-variable exclusion restrictions hold: windfalls and
+  rainfall move preferences only through income, which they call
+  plausible (p. 862).
+- The ego-depletion account (their ref. 13) underlies the small-budget
+  result (p. 862). The paper raises no doubt about it; this reading has
+  not checked that literature.
+- The well-being measures tap one dimension: in the supplement's factor
+  analysis they load mostly on one factor, read as "positive vs. negative
+  affect".
+- Material poverty can be studied apart from its correlates
+  (institutions, violence, health care), a caveat stated on p. 862.
+
+## Key results
+
+1. **Framing** (p. 862): "we are not suggesting that the poor bear blame
+   for their poverty. Rather, an environment of poverty into which one
+   happens to have been born can trigger processes that reinforce
+   poverty."
+2. **Poverty, discounting and risk aversion correlate, with some causal
+   identification** (p. 862). With windfalls as instrument, "The IV
+   estimates show a substantial negative effect of income/wealth on risk
+   aversion"; with rainfall in Vietnam, "The IV estimates confirm the
+   negative relationship between the discount rate and income". No
+   effect sizes in the text.
+3. **Negative income shocks in the lab** (p. 862, the authors' own
+   working paper): "Controlling for absolute income, subjects who
+   received a negative income shock exhibited more present-biased
+   economic behavior"; "No opposite effect was found for positive income
+   shocks."
+4. **Small budgets** (p. 862, Spears): deciding on a small budget
+   "impaired behavioral control" (handgrip, Stroop), resting on ego
+   depletion.
+5. **Economic explanations first** (p. 863): "the intrinsic time and risk
+   preferences of the poor may be identical to those of wealthier
+   people". In a payday study, "Those surveyed before payday have 22% less
+   cash, and they spend 20% less", and present bias was "specific to
+   monetary tasks and does not extend to nonmonetary real effort tasks."
+6. **Link 1, correlational** (p. 864): depression and anxiety in the
+   poorest quintiles of rich countries "1.5 to 2 times as high" as in the
+   richest; poverty went with worse mental health "in 79% of studies" of
+   115 in low- and middle-income countries; in Gallup data (Fig. 1A–B),
+   "no saturation point" in income and life satisfaction.
+7. **Link 1, causal: the Kenya unconditional cash transfer** (p. 864,
+   Fig. 1C–D; the first author's working paper with Shapiro). Households
+   were randomised to $0, $400 or $1500 (N = 1440 in the figure),
+   measured "about 1 year after the start". "The study finds substantial
+   improvements in all of these variables when households receive
+   positive transfers (Fig. 1C), but the stress hormone cortisol was only
+   reduced in those who received large transfers". No labour, asset or
+   spending outcome is reported in the text.
+8. **Link 1, increases in poverty** (p. 864): Kenyan farmers' cortisol and
+   stress rose in drought, robust to physical activity, "suggesting that
+   changes in labor supply are not the driving factor"; after a Swedish
+   plant closure cortisol rose, but "only one plant was studied and
+   attrition among participants over the course of the study was
+   non-negligible".
+9. **Tally** (p. 864): of 25 causal studies, "18 studies show a positive
+   effect of poverty alleviation on psychological well-being or stress, 5
+   studies show effects on some psychological variables" "but not
+   others, and 2 show no results."
+10. **Link 2, risk** (pp. 864–865, Fig. 2A–B): threat of shock (N = 41)
+    lowered risky investment; chronic hydrocortisone over 8 days (N = 36)
+    left the risky option chosen "only in slightly more than 20% of the
+    cases", against about half under placebo, while "the acute effects of
+    hydrocortisone did not cause changes in risk-taking". In other
+    studies effects held "only for the domain of gains and not for
+    losses" or "only for women"; one null study is discussed.
+11. **Link 2, time** (p. 865, Fig. 2C–D): a sad prime (N = 189) and
+    hydrocortisone (N = 53) raised impatience. "Future studies will have
+    to elucidate whether chronic stress in conditions of poverty has
+    similar behavioral effects as acute stress induced under laboratory
+    conditions."
+12. **Mechanism** (p. 865): stress may "shift from goal-directed to
+    habitual behavior"; the scarcity studies are cited, in which "poor
+    individuals (in contrast to the rich) performed worse on tasks
+    measuring intelligence and cognitive control after they had been
+    asked to think about their finances". Whether attention carries the
+    risk and time effects: "data on this question are not yet available".
+13. **The weakest link** (pp. 865–866): "the weakest link" is "the effect
+    of stress and negative affect on economic choice"; "the evidence on
+    this link" "is currently restricted to laboratory studies, and the
+    literature does little to distinguish between the effects of acute
+    and chronic stress".
+14. **Persistence** (p. 866): "Little is known about whether poverty
+    alleviation leads to a permanent or only a temporary increase in
+    psychological well-being."
+15. **No trap shown** (p. 866): a trap needs "a strong nonlinearity"; for
+    income and psychological outcomes, "existing studies" "show no strong
+    signs of being nonlinear". For stress and choice, the Yerkes–Dodson
+    inverted U is offered only as a possibility: "little evidence exists
+    on whether this holds for economic behavior".
+16. **Interventions** (p. 866): cash transfers "have produced broadly
+    encouraging results on general welfare"; commitment savings,
+    reminders and a lockable box "all led to considerable increases in
+    savings"; group interpersonal psychotherapy in Uganda "helped people
+    complete daily economic tasks".
+
+## Concepts
+
+- **Psychological feedback loop of poverty**: poverty → stress and
+  negative affect → present bias and risk aversion → less investment and
+  technology adoption → poverty.
+- **Intrinsic preference against constraint-revealed preference**:
+  behaviour that looks impatient may be rational under liquidity
+  constraints and background risk.
+- **Poverty trap as nonlinearity**: the loop traps only if a link is
+  strongly nonlinear.
+- **Acute against chronic stress**: chronic, not acute, hydrocortisone
+  raised risk aversion.
+- **Three intervention targets**: poverty, its psychology, its
+  behaviours.
+
+## Connections
+
+- Converges with [THEORY-907](../theory.d/THEORY-907.md) and [THEORY-1180](../theory.d/THEORY-1180.md) (Chou, Wilson and Smith):
+  higher stress or anxiety goes with less exploration in foraging tasks,
+  a narrowing toward the safe and immediate of the same kind as link 2.
+- Same form as [THEORY-470](../theory.d/THEORY-470.md): an explanation by conditions, not by a change
+  in character, of behaviour usually blamed on character.
+- The project-level aid evidence the branch rests on ([THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md),
+  Food for Peace in Kenya; [LIT-tmpahupp](../literature.d/LIT-tmpahupp.md), aid dependence reconsidered;
+  [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md), Ostrom et al.) is about states, projects and assets;
+  this work is about households. It sits beside the other works of the
+  counterpoint batch, which bear on effort and labour responses this
+  Review does not measure.
+
+## Bearing on the record
+
+Level first: every finding is about individuals and households (lab
+subjects, Kenyan and US households, Swedish workers). None concerns
+states, ministries or projects, so it does not test the record's aid
+evidence directly. What transfers is a warning about inference: low
+effort or short horizons in a supported party may be caused by the
+deprivation, not by the support.
+
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (safe withdrawal; disuse, slack effort, selection).**
+  Qualifies its slack-effort channel: short-sighted behaviour can be
+  caused by poverty and eased by transfers (results 3, 7, 16), so slack
+  effort cannot be read off behaviour without ruling out the deprivation
+  route. Silent on disuse and selection, and on persistence after
+  withdrawal (result 14), so it does not test the full-turnover
+  criterion.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (Black Queen loss; Samaritan's logic).** At household
+  level it cuts against the premise that low effort is the recipient's
+  best reply to assured help: assured income is predicted to lower the
+  stress that drives impatience. A hypothesis-level counterweight, not a
+  refutation: it measures no effort or capability response to transfers,
+  and says nothing about states.
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (supply that does the work crowds out capacity).** Not
+  directly: that claim is about capacity learned by doing, this about
+  preferences shifted by affect. Cash leaves the work to the recipient,
+  so on this account it relieves without substituting, which fits the
+  claim's carve-out.
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds).** Qualifies it: a psychological
+  threshold is exactly what the authors could not establish (result 15).
+  No support for a household-level ignition threshold.
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied repair).** None.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al.).** Cuts against carrying its
+  mechanism, help lowering the recipient's effort, down to poor
+  households without evidence on effort. Compatible at the level of
+  projects and assets, where Ostrom's cases sit.
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent).**
+  Indirect: the gap between supported and withdrawn trajectories is not
+  measured, and persistence after relief is listed as unknown.
+
+Filed from it: [THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md). No instruction for machine-learning
+practice.
+
+## Limitations
+
+- A narrative Review backed by systematic searches: no meta-analysis, no
+  pooled effect sizes; most results reported as significance and figure
+  means.
+- Link 2 rests on small samples (N = 36, 41, 53, 189) of acute laboratory
+  inductions. The authors call it "the weakest link" and say it is
+  laboratory-only; chronic stress in the field is untested.
+- No nonlinearity, so no poverty trap, is shown (result 15).
+- The Kenya trial was an unpublished working paper by the first author at
+  the time, with about a year of follow-up.
+- No labour-supply, temptation-goods or asset results are reported.
+- Result 4 rests on ego depletion; the paper raises no doubt about it,
+  and the record has not checked it.
+- Several key studies are the authors' own.

@@ -1,0 +1,98 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmp5jtai](../notes.d/NOTE-tmp5jtai.md)) from the PDF posted on the
+  marketing department's pages of Northwestern University's Kellogg
+  School; worth reading as the earliest text of Shah, Mullainathan and
+  Shafir's scarcity experiments, and as a stand-in, so far only, for the
+  unread Science article ([LIT-tmp6ahq0](LIT-tmp6ahq0.md)). It is an earlier version: four
+  experiments, not the published five. Its two Family Feud time
+  experiments match published Experiments 3 and 4 number for number; its
+  two memory-game experiments with budgets of guesses are not in the
+  published set. Undated; small samples (33 to 143), small stakes, and
+  the one test of its proposed mechanism, constraint focus, is a
+  within-subject memory game with 33 players.
+title: 'Some Consequences of Having Too Little'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion of lottery
+    winners as cases of large windfalls, and of scarcity as a resource
+    constraint on decisions (works chosen by the assistant), as a
+    stand-in for the unread Science article of the same title
+    (LIT-tmp6ahq0). It has no DOI and no Crossref record; the citation was
+    checked against the document itself: an 18-page "WORKING PAPER" by
+    Anuj K. Shah (Princeton), Eldar Shafir (Princeton) and Sendhil
+    Mullainathan (Harvard), in that order. The document carries no date.
+    The PDF's creation stamp is 7 September 2011, which is not a date the
+    document gives, so under ADR-002 `published:` is that month at month
+    precision, 2011-09-01; the paper must predate the Science article of
+    2 November 2012, which it precedes in content. Copy from the Kellogg
+    School of Management site at Northwestern University (the URL below).
+tags:
+- social-science
+- cognition
+date: '2026-11-05'
+published: '2011-09-01'
+url: 'https://kellogg.northwestern.edu/Departments/marketing/~/media/D83E3BB92AD94D6DA8862F9EE2E42BA1.ashx'
+first_author: 'Shah'
+keywords: []
+implementations: []
+summary: >-
+  Shah, Shafir & Mullainathan, working paper (undated, before 2012). Four
+  lab experiments in which players get small ("poor") or large ("rich")
+  budgets of seconds or guesses. Time-poor Family Feud players borrowed
+  more of their budget against later rounds and, with interest, scored
+  lower than when they could not borrow, while the time-rich did not; with
+  borrowing that shrank later budgets, the time-poor fell into debt. A
+  memory game with budgets of guesses, a resource counted rather than
+  timed, repeated the borrowing result. In a two-grid memory game players did worse on
+  rounds where one grid had more guesses, which the authors read as
+  "constraint focus". An earlier version of the Science article
+  ([LIT-tmp6ahq0](LIT-tmp6ahq0.md)), standing in for its Experiments 3 and 4.
+---
+<!-- inactive-ok-file: LIT-tmp6ahq0 THEORY-tmp008j1 CLAIM-tmpit7m9 TERM-105 — Unavailable, Proposed or new; cited from the reading of Shah, Shafir & Mullainathan (working paper) as open -->
+
+# LIT-tmpkabn6: Some Consequences of Having Too Little
+
+Shah, A. K., Shafir, E. & Mullainathan, S. (n.d., before 2012). Some Consequences of Having Too Little. Working paper, posted on the Kellogg School of Management site, Northwestern University. 18 pp.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp5jtai](../notes.d/NOTE-tmp5jtai.md). Page numbers are the working paper's.*
+
+- **Scarcity alone produces over-borrowing.** Time-poor players (300 s
+  overall, 15 s a round) borrowed .22 of their budget against .08 for the
+  time-rich (1000 s, 50 s), and with interest scored lowest (z = −.48)
+  while unable to borrow scored highest (z = .60); the time-rich were
+  unaffected, F(1, 137) = 2.14, p = .15 (pp. 5–6).
+- **Debt traps.** When borrowing shrank later rounds' budgets, the
+  time-poor accumulated debt (mean slope −.13 against −.01) and scored
+  .54 without borrowing against −.49 with it (p. 7).
+- **Not only time.** The authors flag that "time pressure simply made it
+  difficult to consider future rounds" and replicate "with a different
+  resource" (p. 8): with budgets of guesses the poor borrowed .21 against
+  .01 and did worse when they could borrow (p. 9).
+- **Constraint focus.** "the tendency to shift attention towards a
+  limiting resource" (p. 9); tested once, in a two-grid game, 149.70
+  against 140.06 points, t(32) = 2.05 (p. 11).
+
+## Standing in the record
+
+A stand-in, so far only, for the unread Science article ([LIT-tmp6ahq0](LIT-tmp6ahq0.md)).
+Its Experiments 1 and 2 match the published Experiments 3 and 4 as the
+authors restate them ([LIT-tmpb0bn3](LIT-tmpb0bn3.md)): the same means, standard deviations,
+F and z values, except one partial eta squared (.19 here, .18 there); the
+published Experiment 4 also reports a proportion borrowed and a rise in
+borrowing over the game, which this version does not. Its memory-game
+experiments are not in the published set, and it has no Wheel of
+Fortune, Angry Blueberries or previews experiment. In the lab, time here
+is literally the budget and the clock at once, which is why the move to
+guesses matters for the owner's reading of deprivation as time pressure:
+the borrowing appears when the resource is a count of guesses, not
+seconds. It bears on [TERM-105](../terms.d/TERM-105.md)
+as a game that combines a cumulative budget, per-round budgets and
+borrowing across rounds, and on [CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) as the lab analogue of a
+buffer drawn down against later periods. Filed from it: [THEORY-tmp008j1](../theory.d/THEORY-tmp008j1.md).

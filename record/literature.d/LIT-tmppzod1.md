@@ -1,0 +1,106 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)) from the publisher's version of record
+  deposited in the NSF Public Access Repository, all but the reference
+  list and Appendix S1; worth reading as a clean case of support
+  withdrawn early whose effects were measured long after, and as the
+  stand-in for the unread Holl et al. (2020), [LIT-tmp506zp](LIT-tmp506zp.md), on the
+  experiment's long-term recruitment. Weeding stopped at 2.5 years; at
+  16–18 years both planted treatments still had richer later-successional
+  recruitment and more predictable composition than natural regeneration,
+  yet in every treatment the tree layer was still pioneers and the planted
+  cohort, whose own seedlings seldom reached the sapling layer. Eight or
+  nine plots per treatment in one seed-rich region, with only four
+  planted species, island sizes not analysed apart, and no cost data.
+title: 'Active restoration increases tree species richness and recruitment of large-seeded taxa after 16–18 years'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look to
+    reintroduction and ecological recovery for what makes support safe or
+    hazardous to remove (works chosen by the assistant), as a stand-in for
+    Holl et al. (2020), LIT-tmp506zp, which could not be reached: it is
+    the later census of the same experiment (ten sites in southern Costa
+    Rica, planted 2004–2006), and stands in for that paper's long-term
+    recruitment results only, not its canopy, seed-rain, bird or cost
+    data. Citation checked against Crossref (no mailto): Spencer C.
+    Schubert, Rakan A. Zahawi, Federico Oviedo-Brenes, Juan Abel Rosales
+    and Karen D. Holl, Ecological Applications 35(1): e3053; received 14
+    December 2023, revised 8 May 2024, accepted 18 July 2024. `published:`
+    is Crossref's `published-online`, 2024-11-19; the print issue is
+    2025-01, and the PDF header reads "Ecological Applications.
+    2024;e3053". Copy: the publisher's version of record deposited under
+    the NSF public-access policy (DEB 20-16623),
+    https://par.nsf.gov/servlets/purl/10556169 (landing page
+    par.nsf.gov/biblio/10556169).
+tags:
+- ecology
+date: '2026-11-05'
+published: '2024-11-19'
+doi: '10.1002/eap.3053'
+first_author: 'Schubert'
+keywords:
+- 'applied nucleation'
+- 'plantation'
+- 'natural regeneration'
+- 'tropical forest restoration'
+- 'seed size'
+- 'legacy effects'
+- 'Costa Rica'
+implementations: []
+summary: >-
+  Schubert, Zahawi, Oviedo-Brenes, Rosales & Holl (2024). In ten southern
+  Costa Rican pasture sites, plots were left to natural regeneration,
+  planted with six tree islands (86 trees per 0.25 ha) or fully planted
+  (313), and all were cleared by machete every three months "for the
+  first 2.5 years", then left. At 16–18 years both planted treatments had
+  more later-successional seedlings and saplings and less variable
+  composition than natural regeneration, with plantation matching
+  reference forest in large-seeded recruits and nucleation intermediate.
+  Yet "Trees (≥5 cm dbh) in all restoration treatments continued to be
+  dominated by a few early-successional species and originally
+  transplanted individuals", and the planted species' seedlings seldom
+  reached the sapling layer. Natural regeneration progressed but was
+  variable and risked stalling; recovery leaned on the region's abundant
+  remnant seed sources.
+---
+<!-- inactive-ok-file: LIT-tmp506zp THEORY-tmpqkyte CLAIM-597 CLAIM-566 CLAIM-tmpoh07b — Unavailable, Proposed or new; cited from the reading of Schubert et al. (2024) as open -->
+
+# LIT-tmppzod1: Active restoration increases tree species richness and recruitment of large-seeded taxa after 16–18 years
+
+Schubert, S. C., Zahawi, R. A., Oviedo-Brenes, F., Rosales, J. A. & Holl, K. D. (2024). Active restoration increases tree species richness and recruitment of large-seeded taxa after 16–18 years. *Ecological Applications* 35(1): e3053. doi:10.1002/eap.3053.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md). Page numbers are the article's "n of
+14".*
+
+- **Support, then withdrawal.** All plots "were cleared to ground level
+  by machete at ~3-month intervals for the first 2.5 years" (p. 3); the
+  census was 16–18 years after establishment.
+- **The planted advantage lasted.** Richness rose "across the planting
+  gradient" (natural regeneration 156, nucleation 185, plantation 196,
+  reference forest 205), and "Both seedling and sapling communities
+  showed greater variability in species composition under natural
+  regeneration than in either planting intervention" (pp. 4–5).
+- **The nucleus did not replace itself.** Seedlings of planted taxa were
+  most abundant under nucleation "though few transitioned into the
+  sapling layer" (abstract); later-successional trees were "a small
+  fraction (8%)" of reference-forest density (p. 7).
+- **Heavier support occupies the canopy.** "an overall suppression of
+  natural recruits reaching the canopy in plantations" (p. 9).
+- **The landscape feeds it.** Recolonization "is partly a function of the
+  extensive seed sources remaining in remnant forests" (p. 10).
+
+## Standing in the record
+
+A stand-in for the unread Holl et al. (2020), [LIT-tmp506zp](LIT-tmp506zp.md), for the
+experiment's long-term recruitment results only. It bears on [CLAIM-597](../claims.d/CLAIM-597.md)
+(the support became withdrawable; dependence on the landscape's seed
+supply did not end), on [CLAIM-566](../claims.d/CLAIM-566.md) (the planted cohort assembled and
+persisted but did not regenerate), on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (the heavier
+intervention holds the canopy) and on [QUESTION-398](../questions.d/QUESTION-398.md) and [QUESTION-399](../questions.d/QUESTION-399.md).
+Filed from it: [THEORY-tmpqkyte](../theory.d/THEORY-tmpqkyte.md).

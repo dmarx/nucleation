@@ -1,0 +1,116 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 ([NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md)) from NBER Working Paper 19293 as revised
+  June 2014, the post-referee text, on NBER's own site; worth reading as a
+  long-run evaluation of a large place-based programme on both sides of a
+  clean end to its subsidy (1959), and as an explicit test of the big-push
+  account against slow convergence to a unique equilibrium. Agricultural
+  gains reversed after the subsidy ended; manufacturing kept growing faster
+  for forty years, but a constant agglomeration elasticity implies a single
+  steady state, so the authors predict the gain will die out. The test
+  rests on productivity shocks independent over 20 years and a labour-demand
+  elasticity set at 1.5; data quality is "not ideal", the proposed-authority
+  borders are imputed, and two depreciation assumptions are not reconciled.
+title: 'Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's suggestion to look to
+    urban development and city planning for what makes support safe or
+    hazardous to remove (works chosen by the assistant). Citation checked
+    against Crossref (no mailto): Patrick Kline and Enrico Moretti, The
+    Quarterly Journal of Economics 129(1): 275–331, Oxford University
+    Press, published online 2013-11-08, which is `published:`, in print
+    2014-02-01; no update or correction registered on the DOI. The NBER
+    working paper (doi:10.3386/w19293) is dated only to August 2013, so the
+    online date of the version of record is the earliest exact date. A
+    first guess at the DOI, 10.1093/qje/qjt022, resolved to another paper
+    and was dropped. Copy from NBER
+    (https://www.nber.org/system/files/working_papers/w19293/w19293.pdf),
+    "August 2013, Revised June 2014", which thanks the referees and two
+    editors, so it is the post-acceptance text but not the typeset version
+    of record; page numbers in the reading are the working paper's. Read:
+    main text, Tables I–VII and the appendix bound into the PDF. Not read:
+    the separate Online Appendix tables A1–A4.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-05'
+published: '2013-11-08'
+doi: '10.1093/qje/qjt034'
+first_author: 'Kline'
+keywords:
+- 'Tennessee Valley Authority'
+- 'place-based policy'
+- 'agglomeration economies'
+- 'big push'
+- 'local economic development'
+- 'multiple equilibria'
+implementations: []
+summary: >-
+  Kline & Moretti (2014). The Tennessee Valley Authority's federal
+  transfers, about 10% of household income at their 1950–55 peak and near
+  zero after the power system was made self-financing in 1959, raised
+  agricultural and manufacturing employment growth in its 163 counties by
+  about 10–12 points a decade in 1940–1960 against reweighted controls,
+  including counties of proposed but unpassed authorities. After 1960 the
+  agricultural gain reversed while manufacturing kept growing about 3
+  points a decade faster. A dynamic model of manufacturing agglomeration,
+  estimated on all US counties, finds a constant log elasticity (about
+  0.40–0.47 in labour demand, p > 0.66 for equality across density
+  ranges), so a unique steady state: the persistence is slow convergence,
+  not a big push, and will eventually die out. The national gain comes from
+  the infrastructure's direct productivity effect, not from relocating
+  activity.
+---
+<!-- inactive-ok-file: THEORY-tmp10msz THEORY-919 CLAIM-tmpc3x0c CLAIM-tmpw4ai2 CLAIM-597 — Proposed or new; cited from the reading of Kline and Moretti (2014) as open -->
+
+# LIT-tmp1b9oy: Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority
+
+Kline, P. & Moretti, E. (2014). Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority. *The Quarterly Journal of Economics* 129(1): 275–331. doi:10.1093/qje/qjt034. Working paper: NBER w19293 (doi:10.3386/w19293), August 2013, revised June 2014.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp0lzl8](../notes.d/NOTE-tmp0lzl8.md). Page numbers are the working paper's.*
+
+- **A clean end to support.** "In 1959, Congress passed legislation making
+  the TVA power generation system self-financing. From that year on,
+  federal subsidies declined sharply" (p. 5).
+- **Both sectors grew during the subsidy.** In 1940–1960 "the 10-year
+  growth rate of employment in both agriculture and manufacturing is 10.6 -
+  11.9 percentage points larger in the TVA region" (p. 12).
+- **Agriculture reversed after it.** In 1960–2000 agricultural employment
+  growth fell behind, "reversing the gains of the previous period"
+  (Table IV: −0.134, −0.130, −0.166 a decade).
+- **Manufacturing persisted.** "even after the cessation of federal
+  outlays, manufacturing employment keeps growing significantly faster in
+  TVA counties (although less fast than in the early period)" (p. 13),
+  by about 3.2–3.5 points a decade.
+- **But no big push.** "we cannot reject a constant elasticity
+  relationship in any of the IV specifications" (Table VI, p. 23), which
+  implies "a unique steady state equilibrium so that the TVA region will
+  ultimately revert back to its pre-program equilibrium" (pp. 24–25).
+- **Upkeep moved to local users.** "from 1959 onwards maintenance of the
+  TVA capital stock was paid for by local taxpayers and local users of
+  electricity" (p. 13).
+
+## Standing in the record
+
+Registered with the urban-development readings on what makes support safe
+or hazardous to withdraw. It is the record's cleanest case of support
+withdrawn on a known date and followed for forty years. The sector split
+fits [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)'s condition that a supported process must keep itself
+going: agriculture, where the supply did the work, reverted; manufacturing,
+with its own feedback, did not. But the authors' structural result is that
+even manufacturing sits under a single equilibrium, so its persistence is
+momentum and durable, locally maintained infrastructure, not
+self-sustainment, and duration alone cannot tell the two apart. It is a
+field test of the threshold [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) models, and finds none. For
+agriculture it fits [CLAIM-597](../claims.d/CLAIM-597.md). It complements [THEORY-919](../theory.d/THEORY-919.md) (Juhász), and
+[NOTE-1122](../notes.d/NOTE-1122.md) already cites it for that lineage; Neumark and Simpson (2015),
+filed beside it, summarize it as evidence against self-sustaining gains.
+Filed from it: [THEORY-tmp10msz](../theory.d/THEORY-tmp10msz.md). No instruction for machine-learning
+practice.

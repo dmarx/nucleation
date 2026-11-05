@@ -1,0 +1,124 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpy2r15](../notes.d/NOTE-tmpy2r15.md)) from the published version
+  posted in the World Bank Open Knowledge Repository; worth reading as
+  the pooled, harmonized re-analysis of seven randomized evaluations of
+  government cash transfer programmes in six countries that bounds the
+  labour-supply response near zero: pooled, a transfer worth 13.6% of
+  household consumption moves participation by −0.4 points and weekly
+  hours by about five minutes, moderate reductions are excluded for men,
+  and the interval for women stays wide. Its main limits: support was
+  still being paid throughout (one to two years in), so it says nothing
+  about dependence after withdrawal; transfers were small (4–20% of
+  consumption) and weakly means-tested; no African or South Asian trial
+  qualified; the pooled intervals are 90% credible intervals; the online
+  appendices, where attrition and balance would be, were not read.
+title: 'Debunking the Stereotype of the Lazy Welfare Recipient: Evidence from Cash Transfer Programs'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request for a
+    counterpoint to the record's dependency claims, from the evidence on
+    the lazy-poor stereotype (works chosen by the assistant). Citation
+    checked against Crossref (no mailto): Abhijit V. Banerjee, Rema Hanna,
+    Gabriel E. Kreindler and Benjamin A. Olken, The World Bank Research
+    Observer 32(2): 155–184, doi:10.1093/wbro/lkx002; Crossref gives
+    published-online 2017-08-30 and print August 2017, and the article
+    itself says "Advance Access publication August 30, 2017", so
+    `published:` is 2017-08-30. The journal title does not end in
+    "Worldwide": that word belongs to the 2015 working-paper title,
+    "Debunking the Stereotype of the Lazy Welfare Recipient: Evidence from
+    Cash Transfer Programs Worldwide" (SSRN, doi:10.2139/ssrn.2703447,
+    dated by year only), which was not read. Crossref also holds the World
+    Bank repository's record of the same article, doi:10.1596/31221, with
+    a month-only print date (2017-08) and a later online date, not taken
+    as `published:`. Copy: the published PDF (wbro_32_2_155.pdf) from the
+    World Bank Open Knowledge Repository, handle 10986/31221, item
+    "Published by Oxford University Press on behalf of the World Bank";
+    30 pages with OUP's download stamp. The OUP article page, the link
+    Crossref gives, returned a Cloudflare check, and the reader stopped
+    there without retrying. Text extracted by pdftotext, which dropped
+    minus signs; it was regenerated with them restored and the signs were
+    checked against the prose. The online appendices were not read.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-05'
+published: '2017-08-30'
+doi: '10.1093/wbro/lkx002'
+first_author: 'Banerjee'
+keywords:
+- 'cash transfers'
+- 'labor supply'
+- 'welfare'
+- 'conditional cash transfers'
+- 'randomized controlled trials'
+- 'Bayesian hierarchical model'
+- 'implicit tax rate'
+- 'targeting'
+- 'graduation programs'
+implementations: []
+summary: >-
+  Banerjee, Hanna, Kreindler & Olken (2017). The household micro-data of
+  seven cluster-randomized evaluations of government-run, non-contributory
+  cash transfer programmes (Honduras PRAF II, Morocco Tayssir, Mexico
+  Progresa and PAL, Philippines Pantawid, Indonesia PKH, Nicaragua RPS)
+  are re-analysed on harmonized definitions of work for adults aged 16–65
+  and pooled with a Bayesian hierarchical model. No programme changes
+  weekly hours; only one, Honduras, changes participation (−3 points, at
+  the 10% level). Pooled and scaled to a transfer worth 13.6% of
+  consumption, participation moves −0.4 points (90% interval −2.3 to
+  +1.4) and hours −0.08 a week (−1.7 to +1.4), "broadly symmetric around
+  zero"; men's moderate reductions are ruled out, women's interval is
+  wide. The authors put the null partly down to low implicit tax rates
+  (targeting barely tied to current income) and contrast it, from cited
+  studies, with asset and graduation programmes, which raise work.
+---
+<!-- inactive-ok-file: THEORY-tmp7qas0 CLAIM-tmpc3x0c CLAIM-tmpqa0qu CLAIM-tmpoh07b THEORY-tmph35ra — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
+
+# LIT-tmptmm0j: Debunking the Stereotype of the Lazy Welfare Recipient: Evidence from Cash Transfer Programs
+
+Banerjee, A. V., Hanna, R., Kreindler, G. E. & Olken, B. A. (2017). Debunking the Stereotype of the Lazy Welfare Recipient: Evidence from Cash Transfer Programs. *The World Bank Research Observer* 32(2): 155–184. doi:10.1093/wbro/lkx002. Repository copy: World Bank Open Knowledge Repository, handle 10986/31221 (doi:10.1596/31221).
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpy2r15](../notes.d/NOTE-tmpy2r15.md). Page numbers are the journal's.*
+
+- **No programme cuts hours.** Of seven, one changes participation, in
+  Honduras, "the least generous program", by 3 points at the 10% level,
+  which "is roughly what we may expect by pure chance" (p. 169); none
+  changes weekly hours (Table 3, p. 170).
+- **A bounded zero, pooled.** For a transfer worth 13.6% of consumption,
+  participation −0.004 on a base of 0.56 and hours −0.077 on 21.1, with
+  90% credible intervals (−0.023, +0.014) and (−1.73, +1.36); "the point
+  estimate corresponds to a decrease of five minutes of work per week"
+  (Table 6 and p. 173).
+- **Men and women.** For men "we can reject moderate negative effects
+  with a high probability"; for women there is "significant uncertainty
+  in the impact of a new cash transfer program for women" (p. 174).
+- **Why: little implicit tax.** For about half the programmes
+  "eligibility is not directly related to current employment or income,
+  effectively implying no tax"; for Progresa "the implied tax rate is 15
+  percent" (p. 175).
+- **Assets raise work.** Cited, not re-analysed: graduation and
+  lump-sum asset programmes raise labour supply (BRAC +218 hours a year;
+  women in northern Uganda "go up by a stunning 10 hours" a week,
+  p. 177).
+
+## Standing in the record
+
+Filed with the counterpoint batch of 2026-11-05, which the owner asked
+for against the branch's dependency claims. It is the first held work
+that tests the effort response to assured support directly, and the
+response is null while support continues: help assured for two to nine
+years, and for about half the programmes not withdrawn as earnings rose,
+did not lower work. That cuts against carrying the Samaritan's-dilemma
+logic of [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md), [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) and the "slack effort" route of
+[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) down to households. It does not test what happens after
+support is withdrawn, and it is about small household transfers, not
+the state-level aid on which the aid batch rests; [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)'s
+distinction (supply that does the work against supply that supplements
+it) is the frame it fits. Filed from it: [THEORY-tmp7qas0](../theory.d/THEORY-tmp7qas0.md).

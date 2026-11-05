@@ -50,6 +50,8 @@ summary: >-
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
+<!-- inactive-ok-file: NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: LIT-2132 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1398 — Proposed; the account of DeLuca et al., cited as filed, nothing here rests on its being settled -->
@@ -183,3 +185,23 @@ In both, every replacement part is supplied from solution and the structure prod
 - Left open: whether any templated system can be made to restore its own members.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Assembly and persistence come apart in aid.** In the Kenya summary ([NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)), "evidence of impact at the time of project exit did not necessarily predict sustainability" two to three years later. Andrews, Pritchett and Woolcock's isomorphic mimicry ([NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md)) is assembled form without persisting function: "unimplemented laws, unfunded agencies, and unused processes". Moore ([NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)): "we need to distinguish between explaining the origins of collective action and explaining its persistence".
+- **A distinction the claim lacks.** Ostrom et al. ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)) separate the persistence of a project's effects from that of the project: results can outlast an organization, and a form can outlast its function.
+
+No status changes.
+
+## Note of 2026-11-05: the readings on reintroduction and ecological recovery
+
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md).
+
+- **Assembly and persistence come apart.** Practitioner-judged translocation success was similar for captive-bred and wild-sourced stock, yet captive-bred stock had negative mean population growth (Morris et al., [NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md)). Only 24.8 % of reported successes met the standard of persisting "without further augmentation".
+- **Persistence without regeneration.** Planted trees persisted for 16–18 years, but few of their seedlings reached the sapling layer ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)).
+- **A horizon to measure against.** Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)) count a state stable once it lasts a full turnover after the intervention ends, which gives the claim's "specified horizon" a natural length.
+
+No status changes.
+

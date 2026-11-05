@@ -22,6 +22,7 @@ summary: >-
   assumed." Distinct from [QUESTION-134](QUESTION-134.md). The wording is A's; adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpoh07b NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-587 TERM-115 ARG-053 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 <!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: CLAIM-577 — Proposed; the assistant's claim of 2026-11-05, cited as open -->
@@ -76,3 +77,12 @@ The constructed [CASE-200](../cases.d/CASE-200.md) gives one mechanism the quest
 ## Note of 2026-11-05: a test for the pinning claim
 
 [CLAIM-577](../claims.d/CLAIM-577.md) shows one mechanism the question asks about, in the pure case: under spend-matching, ordinary efficient operation alone pins the organization to the transitions it can make at holding cost. No status changes.
+
+## Note of 2026-11-05: the readings on aid dependency and self-sufficiency
+
+Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
+
+- **Funding by what is observed selects for form.** Andrews, Pritchett and Woolcock ([NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md)) find aid and legitimacy granted for adopting prescribed forms, scored by indicators, and capability stagnating under it. Ostrom et al. ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)) find donor staff rewarded for disbursing, not for results that last. Moss et al. ([NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md)) note that, until recently, a government's performance did not affect whether it received aid. In India ([NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md)) pay for performance kept the indicators it paid for.
+- **A model of the cost.** In [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), funding that pays for the work rather than for the organization doing it selects substitution, which lowers the capacity kept.
+
+No status changes.

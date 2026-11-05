@@ -1,0 +1,180 @@
+---
+status: Read
+paper: 'LIT-tmpkabn6'
+title: 'Shah, Shafir and Mullainathan — Some Consequences of Having Too Little (working paper)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the 18-page PDF posted on the
+    marketing department's pages of the Kellogg School of Management,
+    Northwestern University
+    (https://kellogg.northwestern.edu/Departments/marketing/~/media/D83E3BB92AD94D6DA8862F9EE2E42BA1.ashx),
+    headed "WORKING PAPER" and undated; text extracted by pdftotext. Read:
+    title page, abstract, introduction, Experiments 1–4, general
+    discussion, references and Figures 1–2 (pp. 1–17). Nothing skipped.
+    Read as a stand-in for the unread Science article of the same title
+    (LIT-tmp6ahq0), and compared, experiment by experiment, with the
+    original analyses the authors restate in their replication write-up
+    (LIT-tmpb0bn3, Table 1). Page numbers are the working paper's.
+date: '2026-11-05'
+summary: >-
+  An earlier version of Shah, Mullainathan and Shafir's Science paper,
+  with four experiments. Time-poor Family Feud players (Princeton, n =
+  143; MTurk, n = 118) borrowed more of their time budget against later
+  rounds and, with interest, scored lower than when they could not borrow,
+  while the time-rich did not; with borrowing that shrank later budgets
+  the time-poor fell into debt. The same over-borrowing appeared with
+  budgets of guesses in a memory game (n = 76). A two-grid memory game (n
+  = 33) is the one test of the proposed mechanism, constraint focus. The
+  two time experiments match published Experiments 3 and 4 number for
+  number; the memory games are not in the published paper.
+---
+<!-- inactive-ok-file: LIT-tmp6ahq0 THEORY-tmp008j1 THEORY-tmplj3t9 THEORY-tmp6qwmt CLAIM-tmpit7m9 TERM-105 THEORY-tmp19alc CLAIM-tmpc3x0c CLAIM-tmpw4ai2 — Unavailable, Proposed or new; cited from the reading of Shah, Shafir & Mullainathan (working paper) as open -->
+
+# NOTE-tmp5jtai: Shah, Shafir and Mullainathan — Some Consequences of Having Too Little (working paper)
+
+## Contribution
+
+The paper sets out to separate scarcity from the contexts in which it is
+usually studied: "our experiments disentangle scarcity from the ecosystem
+of the poor or the busy or any specific context" (p. 3). Its opening
+parallel treats time and money as one problem: "Where one person is short
+on time, the other is short on money" (p. 3). The lives of the busy and
+the poor are bound "by a shared psychology" (p. 3).
+
+## Key insight
+
+Having less is by itself enough to make people borrow from the future at
+a cost. The authors propose two consequences of scarcity (p. 9): an
+environmental one, "scarcity leaves less room for error", and a
+psychological one, "constraint focus, or the tendency to shift attention
+towards a limiting resource. In focusing too greatly on a particular
+constraint, we inevitably neglect others."
+
+## Assumptions
+
+- **A lab budget stands for poverty and busyness.** Seconds or guesses,
+  arbitrarily small or large, capture what is common to both.
+- **Within-level comparison.** Points are z-scored separately for the
+  poor and for the rich (p. 5), so what is compared is borrowing against
+  not borrowing at each level, not the poor against the rich.
+- **Rounds equalised.** A delay before banking time (6 s poor, 20 s
+  rich) holds the maximum number of rounds constant (p. 4).
+- **Stakes and samples.** Lottery entries for gift certificates of $5 to
+  $50; the Princeton community and MTurk (pp. 4, 6, 8, 11).
+
+## Key results
+
+- **Experiment 1, Family Feud with time (pp. 4–6; published Experiment
+  3).** 143 participants, 2 × 3 between subjects. "'Time Poor'
+  participants had 300 seconds overall and 15 seconds per round" against
+  1000 and 50; borrowing at 1:1 ("without interest") or 1:2 ("with
+  interest"). The time-poor borrowed .22 of their budget against .08,
+  "F(1, 102) = 22.39, p < .001, ηp2 = .19". Interaction on points,
+  "F(1, 137) = 6.54, p = .002, ηp2 = .09". The time-rich were unaffected,
+  "F(1, 137) = 2.14, p = .15"; for the time-poor, no borrowing .60,
+  borrowing without interest .08, with interest −.48 (z-scores).
+- **Experiment 2, Family Feud with debt (pp. 6–7; published Experiment
+  4).** 118 MTurk participants, 20 rounds, borrowing at 1:2 shrinking
+  later budgets. "Time Poor participants accumulated significantly more
+  debt (Mslope = -.13, SD = .18) than did Time Rich participants (Mslope
+  = -.01, SD = .01)", z = 5.46. Interaction "F(1, 114) = 12.81, p < .001,
+  ηp2 = .10"; the time-poor scored .54 without borrowing and −.49 with.
+- **The time-pressure confound, named by the authors (p. 8).** "it is
+  possible that time pressure simply made it difficult to consider future
+  rounds. Furthermore, time was spent and borrowed passively and
+  continuously." Hence Experiment 3, "with a different resource".
+- **Experiment 3, memory game with guesses (pp. 8–9; not in the
+  published set).** 76 MTurk participants; 30 guesses (two a round)
+  against 90 (six). The poor borrowed .21 against .01, "F(1, 38) = 92.56";
+  interaction "F(1, 72) = 4.08, p < .05, ηp2 = .05"; the poor scored .36
+  without borrowing and −.38 with, the rich unaffected.
+- **Experiment 4, two grids (pp. 10–12; not in the published set).** 33
+  analysed, within subjects; one guess on each grid, or one on one and
+  three on the other. Symmetric rounds 149.70 against asymmetric 140.06
+  points, "t(32) = 2.05, p < .05, Cohen's d = .36"; in asymmetric rounds
+  players "appeared to shift too much attention" to the one-guess grid
+  (p. 12).
+- **Windfalls (p. 13, no statistics).** In unreported Family Feud studies
+  with an occasional "'windfall,' a surplus of time for a certain rounds",
+  "Time Poor participants, however, did significantly better with
+  consistent budgets than with the occasional windfall. Moreover, Time
+  Rich participants saved a much greater proportion of their windfalls
+  than did Time Poor participants."
+- **Engagement (p. 14).** "the Time Poor made more attempts at answering
+  Family Feud questions per second than did the Time Rich."
+
+## Concepts
+
+- **Constraint focus**: attention shifted toward the binding resource,
+  with neglect of others as its cost (p. 9). The word "tunneling" does
+  not appear.
+- **Less room for error**: the same mistake costs more on a small budget
+  (p. 9).
+- **Over-borrowing**: performing "worse with the ability to borrow than
+  without" (p. 3).
+- **Banking**: leaving a round early so its unused budget stays in the
+  total (p. 4).
+
+## Connections
+
+It cites the payday-loan literature (Bair 2005; Chin 2004; Elliehausen
+2005) for the real-world parallel, Lewis's culture of poverty for the
+trait account it argues against, and Kaufman-Scarborough and Lindquist
+(2003) on time scarcity. It does not cite Mani et al. (2013), which came
+later.
+
+## Bearing on the record
+
+- **Against the published paper ([LIT-tmp6ahq0](../literature.d/LIT-tmp6ahq0.md)).** Experiments 1 and 2
+  here are published Experiments 3 and 4: every mean, standard deviation,
+  F and z value the authors restate in their replication write-up
+  ([LIT-tmpb0bn3](../literature.d/LIT-tmpb0bn3.md), Table 1) is the same here, except the borrowing ηp2 of
+  Experiment 1, .19 here and .18 there. The published Experiment 4 adds a
+  proportion borrowed (.27 against .03) and a rise in borrowing over the
+  game, not reported here. Experiments 3 and 4 here are not in the
+  published set; published Studies 1 (Wheel of Fortune), 2 (Angry
+  Blueberries) and 5 (previews) are not here.
+- **The owner's reading, deprivation as added time pressure.** Qualified.
+  The authors raise time pressure as a confound of their own time games
+  and answer it with guesses, a resource with no clock, which gave the
+  same over-borrowing. What the poor share with someone on a deadline,
+  here, is that the present round's constraint binds and the future's
+  does not; time pressure is one case of that, not the route.
+- **[TERM-105](../terms.d/TERM-105.md).** Supports, as a case: a cumulative budget (300 or 1000 s;
+  30 or 90 guesses), per-round budgets drawn from it, borrowing across
+  rounds at an interest cost, and the game ending when the total is
+  spent. In the time games the budget is also a deadline.
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) (a buffer as a stock of time).** Close in structure:
+  the total budget is a buffer drawn down round by round, and the debt
+  game shows the poor running it down faster. No shock, survival or
+  delayed investment is modelled, so it does not test the claim.
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds).** By analogy only: the debt slope is a
+  lab downward spiral, with no threshold estimated.
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (withdrawable support).** The windfall paragraph faintly
+  favours steady over lumpy support for the poor; no data are given.
+- **[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer & Fehr).** Complements it: a route from
+  scarcity to short-sighted choice through attention, not affect; no
+  stress is measured. [NOTE-tmpv5r2w](NOTE-tmpv5r2w.md) read the scarcity studies only as
+  Haushofer and Fehr summarise them; this reading and [NOTE-tmpya6ud](NOTE-tmpya6ud.md) fill
+  that gap for Shah et al.
+- Filed: [THEORY-tmp008j1](../theory.d/THEORY-tmp008j1.md). The replications are [THEORY-tmplj3t9](../theory.d/THEORY-tmplj3t9.md) and
+  [THEORY-tmp6qwmt](../theory.d/THEORY-tmp6qwmt.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- **Undated, unrefereed.** An earlier version; the published text was
+  not read.
+- **Small cells.** 143, 118, 76 and 33 participants across 6, 4, 4 and 1
+  conditions; the guess game's borrowing test has 38 error degrees of
+  freedom.
+- **Lab stakes.** Gift-certificate lotteries; no money borrowed, no real
+  poverty. External validity is argued by parallel with payday loans.
+- **The mechanism is thin.** Constraint focus is tested once, within
+  subjects, with 33 players and a marginal secondary contrast (p < .06).
+- **Reporting slips.** An interaction across three borrowing conditions
+  is given as F(1, 137); the windfall result has no numbers.
+- **What later failed.** The authors' own replications ([THEORY-tmplj3t9](../theory.d/THEORY-tmplj3t9.md))
+  found the borrowing effects smaller and the focus-to-neglect link weak.

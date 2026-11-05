@@ -1,0 +1,243 @@
+---
+status: Read
+paper: 'LIT-tmph8zqa'
+title: 'Morris et al. — global review of conservation translocations of terrestrial vertebrates'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the authors' preprint, not the
+    published version: "Lessons from a century of conservation
+    translocations", EcoEvoRxiv record 4160 (doi:10.32942/osf.io/hnzqk),
+    posted 2021-02-12, CC BY-NC-ND 4.0, a .docx of 557 326 bytes whose
+    text was extracted by script with the EndNote field codes stripped.
+    Read: abstract, introduction, methods 2.1–2.5, results 3.1–3.4,
+    discussion, conclusions and reference list. Not available in the file,
+    so not read: the supplement (Table S1, Figures S1–S22) and the
+    figures, which hold the direction and size of the model coefficients.
+    The published version (Global Ecology and Conservation 28, e01630)
+    could not be reached, and what changed in it is unknown. The .docx
+    has no page numbers; locations are section numbers.
+date: '2026-11-05'
+summary: >-
+  A global systematic review of 514 terrestrial-vertebrate translocations
+  (1895–2017), read as its preprint, modelled on practitioner-calibrated
+  success (n = 257) and generation-weighted population growth (n = 87).
+  Numbers released matter most, with a plateau above about 20–50
+  individuals. On reported success, captive-bred and wild stock, and soft
+  and hard release, look alike; on growth, captive-bred stock and soft
+  release do worse. The authors suspect lenient success criteria among
+  practitioners invested in captive breeding. Independence "without
+  further augmentation" is the top rung of the outcome scale, and most
+  reported successes did not reach it. Nothing on training, feeding after
+  release, habituation or withdrawal of support. Resende et al. (2021),
+  unread, report the opposite on soft release.
+---
+<!-- inactive-ok-file: LIT-tmpn1dbx LIT-tmppuwdq THEORY-tmpeqr8u CLAIM-597 CLAIM-566 CLAIM-558 CLAIM-tmpw4ai2 CLAIM-tmpoh07b CLAIM-tmpqa0qu TERM-117 THEORY-128 LIT-720 — Unavailable, Proposed or new; cited from the reading of Morris et al. (2021) as open -->
+
+# NOTE-tmpbfqjw: Morris et al. — global review of conservation translocations of terrestrial vertebrates
+
+## Contribution
+
+A standardized global database of conservation translocations of
+terrestrial vertebrates, 514 of them over 1895–2017, drawn from Web of
+Science and the IUCN's "Global re-introduction perspectives" reports,
+analysed on two outcome measures. It shows that the measure practitioners
+use, reported success, and population growth after release can disagree,
+and that they disagree on the two design questions most debated: where
+the animals come from and how they are released.
+
+## Key insight
+
+Calling a translocation a success and the released population doing
+without further help are different things. On reported success,
+captive-bred stock and soft release look as good as wild stock and hard
+release; on population growth, both do worse. The authors' own outcome
+ladder puts independence of further augmentation at the top, and only a
+quarter of the successes that the IUCN reports' authors claimed reached
+it.
+
+## Assumptions
+
+- **Two outcomes (2.4).** Categorical success: the IUCN reports' own
+  labels, with "partially successful" dropped and the rest made binary,
+  and the Web of Science cases classified to match by the demographic
+  outcomes the IUCN labels went with; n = 257 after exclusions, 72%
+  successes. Population growth: (later count − number released) ÷ number
+  released ÷ years elapsed ÷ generation length, for 87 translocations.
+- **Validation is thin (2.4).** The classification was checked against a
+  questionnaire answered for 37 of 108 publications, of which ten data
+  points were usable.
+- **Independence by resampling (2.5).** One entry per species, drawn at
+  random 1000 times; "Each sub-sampled categorical success dataset
+  contained 148 entries", and each growth subset 40. Species-level
+  heterogeneity is handled this way, not by random effects.
+- **Selection (2.5).** Twelve predictors (37 dummy variables), screened by
+  stepwise regression and random forests with ten-fold cross-validation.
+- **Not randomized.** Source and release method are recorded design
+  choices and may be confounded with species, region and threat. The
+  figures for them in 3.4 are raw group means and percentages, not
+  model-adjusted contrasts.
+- **The growth measure is crude and biased** against recent and
+  long-lived translocations, as the authors say (Discussion).
+
+## Key results
+
+1. **Captive against wild, reported success (3.4).** Wild animals "did
+   not result in higher success rates (wild 70.2%, captive 76.0%)".
+2. **Captive against wild, growth (3.4).** "wild +2.2, sd 5.7; captive
+   -2.8, sd 12.2; mixture -0.1, sd: 2.7". In Table 3, "Animals sourced
+   from captivity" is first among predictors of growth by random forest
+   and second by linear regression. The Discussion: "Whether a species
+   was captive-bred was one of the most important factors in quantifying
+   the population growth rate (Table 3) and these populations exhibited
+   negative population growth rates."
+3. **Why the measures disagree (Discussion).** The absence of the captive
+   effect in reported success "may reflect biases of practitioners who
+   have already invested so much in captive breeding programs and so may
+   be more lenient with success criteria than other practitioners".
+4. **Soft against hard, reported success (3.4).** "little evidence for a
+   difference in categorical success for soft versus hard releases (soft
+   79.8%, hard 75.0%)"; and in the Discussion, "We found no evidence of a
+   relationship between success and release method, similar to findings
+   of past reviews".
+5. **Soft against hard, growth (3.4).** "hard releases resulted in higher
+   mean population growth rates (hard +5.6, sd 9.8; soft -1.3, sd 6.9)".
+   Soft release is fifth and sixth among predictors of growth (Table 3).
+6. **What soft release is (Discussion).** "Soft-release methods, such as
+   the provision of pens and/or supplemental food at release sites, are
+   thought to aid acclimation and promote site-fidelity in some species".
+7. **Practice has moved toward soft release (3.3).** "a rising proportion
+   of translocations that used soft versus hard release protocols
+   (r = 0.27)", and in the Discussion "an increasing trend for releases
+   into fenced rather than open reserves".
+8. **Independence is the top rung (Table 2, 2.4).** A viable population
+   is one where "survival, reproduction, and population growth continue
+   for long enough (generations) that the population is considered likely
+   to persist without further augmentation". Of the IUCN reports'
+   successes, 24.8% were viable populations, 26.6% growing, 29.4%
+   reproducing, "although some reported only that they had achieved high
+   initial survival (10.1%)".
+9. **Numbers released (3.1).** "success increased up to about 20-50
+   individuals and declined slightly above a few hundred individuals
+   (although the evidence of this decline is weak because of few
+   datapoints)". The authors add: "This is not to say that 20-50 animals
+   are an optimal number to release" (Discussion).
+10. **Duration of release (Discussion).** "79% (38/48) of translocations
+    with negative population growth rate had a duration of two years or
+    less"; "The release of animals over longer time periods would
+    compensate for fluctuations in survival due to demographic or
+    environmental stochasticity".
+11. **Standing protection in Oceania (Discussion).** Species there "have
+    been protected from introduced predators by putting them in areas
+    surrounded by predator-proof fences or on offshore islands", and
+    invasive species are "likely a key factor in the low success found in
+    those countries".
+12. **Success over time (Discussion).** "in the early 1980’s only around
+    50% of attempt translocations succeeded, the success rate is now
+    around 75%"; no single measured design change explains the rise, and
+    the authors entertain more generous labelling of success.
+13. **Evidence quality (Discussion, Conclusions).** Publication bias may
+    explain "the extremely low failure rates seen in the IUCN reports
+    (8%)", and "in some cases the two datasets provided conflicting
+    results".
+
+## Concepts
+
+- **Conservation translocation**, with reinforcement, reintroduction,
+  assisted migration and ecological replacement as its kinds (Table 1,
+  after IUCN/SSC 2013).
+- **Soft and hard release**: release with acclimation support at the site
+  (pens, supplemental food) or without it.
+- **Captive-bred and wild-sourced stock.**
+- **The outcome ladder** (Table 2): extinction, high mortality, high
+  initial survival, reproduction, population increase, and a viable
+  population that persists "without further augmentation".
+- **Categorical success and population growth rate**, the two outcome
+  measures.
+
+## Connections
+
+- **Resende et al. (2021)**, [LIT-tmpn1dbx](../literature.d/LIT-tmpn1dbx.md), unread: its Crossref abstract
+  reports the opposite on soft release, soft release about 40% better than
+  hard (estimate 0.44, 95% CI 0.11–0.76) over 17 studies of 17 species,
+  driven mostly by reptiles and by movement metrics, with birds and
+  mammals and the other metrics showing similar effects. The two can be
+  reconciled if soft release keeps animals at the site without raising
+  population growth, but neither reading tests that. Morris et al. cite
+  the same team's earlier global review (Resende et al. 2020), not this
+  meta-analysis.
+- **Gross et al. (2023)**, [LIT-tmppuwdq](../literature.d/LIT-tmppuwdq.md), unread: its abstract reports that
+  translocated organisms have 64% lower odds of out-performing wild
+  residents and that pre-release enrichment narrowed the gap, in line with
+  the captive deficit here.
+- **Not reached**: Tetzlaff et al. (2019), the meta-analysis of
+  antipredator training, enrichment and soft release, which Morris et al.
+  cite on soft release; Griffin et al. (2000) on predator training; Jule
+  et al. (2008) on captive experience in carnivores, cited here for higher
+  success of wild-sourced stock; and Bannister et al. (2016), in the
+  reference list, on predator swamping and supplementary feeding.
+- **Other works of this batch**: Araki et al. (2007) and its neighbours,
+  on genetic adaptation to captivity, give a mechanism the captive deficit
+  here is compatible with but does not isolate.
+
+## Bearing on the record
+
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied maintenance never becomes independent of its
+  supply).** Qualifies it. The outcome ladder makes independence from
+  augmentation the test of success, and most reported successes did not
+  reach it (24.8% viable). Fenced reserves and islands in Oceania are
+  standing protection whose withdrawal the paper does not test.
+  Consistent with the claim; does not show it.
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (ignition threshold, collapse, hysteresis).** Weak
+  support: a threshold in founder number, a plateau above about 20–50,
+  read through small-population stochasticity. Nothing on collapse or
+  hysteresis.
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support that does the work crowds out capacity;
+  recovery time grows with its duration).** Suggestive but confounded:
+  captive-bred stock grows negatively while practitioners still call it
+  success, which fits capacity lost under supply, but behaviour, genetics
+  and the selection of hard cases are not separated. On duration it gives
+  the opposite axis: longer release programmes, repeated supply of
+  animals, go with fewer failures.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (capability lost under reliable supply).** None
+  directly.
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (capabilities decay with disuse).** None directly; the
+  captive deficit is compatible but is not measured as skill.
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Supports it. The ladder
+  separates survival of the released animals from a population that
+  regenerates without help, and the two came apart: some IUCN successes
+  reported only high initial survival.
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the establishing intervention;
+  withdrawal measure D).** Gives the field's operational form, "persist
+  without further augmentation", but no withdrawal experiment and no D.
+  Numbers released and programme duration bear on how much
+  establishment it takes.
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (when a nucleus becomes self-maintaining).** A
+  founder-number threshold of about 20–50, context-dependent in the
+  authors' words.
+- **[TERM-117](../terms.d/TERM-117.md) (productive nucleus).** The released group is a candidate
+  productive nucleus; the paper measures success and growth, not later
+  transition rates.
+- **[QUESTION-380](../questions.d/QUESTION-380.md), [THEORY-1273](../theory.d/THEORY-1273.md), [THEORY-1048](../theory.d/THEORY-1048.md).** None.
+- **Held ecology: [THEORY-136](../theory.d/THEORY-136.md), [THEORY-132](../theory.d/THEORY-132.md), [THEORY-128](../theory.d/THEORY-128.md), [LIT-726](../literature.d/LIT-726.md), [LIT-720](../literature.d/LIT-720.md).**
+  None directly. The Oceania result, persistence behind predator-proof
+  fences and on islands, is a standing-support case like the herbivores in
+  [THEORY-128](../theory.d/THEORY-128.md), but no alternative stable states are tested.
+- Filed: [THEORY-tmpeqr8u](../theory.d/THEORY-tmpeqr8u.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- The preprint was read; the published version may differ in numbers or
+  wording.
+- The supplement and figures were not seen, so the direction and size of
+  the model coefficients are unknown here.
+- The source and release-method contrasts are raw group means with large
+  spreads (captive growth sd 12.2) in a growth subset of 87, 40 per
+  subsample, with no confidence intervals in the text.
+- Reported success is self-assessed, its calibration rests on ten
+  questionnaire data points, and failures are under-reported.
+- Nothing on predator-avoidance training, on supplemental feeding as a
+  factor of its own, on dependence or habituation, or on when support can
+  be withdrawn.
