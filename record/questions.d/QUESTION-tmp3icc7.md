@@ -23,6 +23,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpe48yq CASE-tmpsbhp8 CLAIM-tmp42yq0 CLAIM-tmpsbz28 NOTE-tmp6e0rl NOTE-tmpusebl — Proposed or Skimmed; entries filed in this pull request, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpatpn9 CASE-tmp0d5si — Proposed; the frontier claim and its worked case, cited as open -->
 
 # QUESTION-tmp3icc7: What is the structure of a system's individuation indexed jointly by an observing budget and an acting budget, which invariants of that bifiltration are computable, and where do observing and acting draw on the same resource so that the two cannot be raised together?
 
@@ -53,3 +54,19 @@ A computation of both partitions over a grid of budget pairs for
 [CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md) and [CLAIM-tmpsbz28](../claims.d/CLAIM-tmpsbz28.md)'s pair, with a summary invariant and a
 proof of what it determines; and an organizational case in which observing
 and acting draw on one budget, with the trade measured.
+
+## Note of 2026-11-05: the two frontiers, a partial answer
+
+A, reading this pull request, proposed comparing the outside and inside
+partitions by inclusion. CLAIM-tmpatpn9 makes that exact: the budget pairs
+at which everything indistinguishable is mutually reachable form an up-set,
+those at which everything mutually reachable is indistinguishable a
+down-set, the partitions agree on their intersection, and both boundaries
+have closed forms (the largest peak distance within an observational class;
+the least budget separating two mutually reachable states). CASE-tmp0d5si
+computes them. This answers the computation part of the question for
+finite systems under peak costs. The structure of the whole two-budget
+family, the degree-4 vertex (which needs a probe model for fold states),
+and organizations whose observing and acting draw on one budget remain
+open. No status changes.
+

@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Under peak-capacity costs on reversible moves, the transition threshold between configurations is an ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only a metric, budgeted identification need not be transitive, and no such tree exists'
+title: 'Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists'
 version: 1
 role: thesis
 warrant: demonstrated
@@ -34,7 +34,9 @@ summary: >-
   paths, of the largest requirement on the path ([CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s threshold,
   identities free). Concatenating a path from x to y with one from y to z
   has peak max(d(x, y), d(y, z)), so d(x, z) ≤ max(d(x, y), d(y, z)): d is
-  an ultrametric. Hence at each budget b, "x and y can be turned into one
+  an extended pseudo-ultrametric (distinct states joined at no cost are at
+  distance 0, unjoined ones at ∞; it is an ultrametric only when every pair of
+  distinct states is separated by a positive cost). Hence at each budget b, "x and y can be turned into one
   another within b" is an equivalence relation, its classes are the
   components of the budget-b move graph, and as b grows the classes only
   merge, forming one dendrogram, the merge tree of zero-dimensional
@@ -48,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-tmpe48yq CLAIM-tmp7bxc0 CLAIM-tmpbi4ca CLAIM-tmpuk8gq CLAIM-tmpxcbet CLAIM-tmpy685m TERM-tmp26wo4 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 <!-- inactive-ok-file: CASE-tmp0d5si — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
-# CLAIM-tmpq06t8: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only a metric, budgeted identification need not be transitive, and no such tree exists
+# CLAIM-tmpq06t8: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists
 
 ## The claim
 
@@ -59,9 +61,14 @@ d(x, x) = 0. This is the transition threshold of [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca
 identities free, and the hom of the max-enriched category of
 [CLAIM-tmpxcbet](CLAIM-tmpxcbet.md).
 
-1. **Ultrametric.** A path from x to y followed by one from y to z is a
-   path from x to z whose peak is the larger of the two peaks. So
-   d(x, z) ≤ max(d(x, y), d(y, z)). With reversible moves d is symmetric.
+1. **Pseudo-ultrametric.** A path from x to y followed by one from y to z
+   is a path from x to z whose peak is the larger of the two peaks. So
+   d(x, z) ≤ max(d(x, y), d(y, z)), the strong triangle inequality. With
+   reversible moves d is symmetric. Distinct states joined by moves of zero
+   cost have d = 0, and states in different components have d = ∞, so d is
+   an extended pseudo-ultrametric; it is an ultrametric only when distinct
+   states are always separated by a positive cost. Nothing below needs more
+   than the strong triangle inequality.
 2. **Equivalence at every budget.** For each b, the relation x ≈_b y iff
    d(x, y) ≤ b is reflexive, symmetric and, by 1, transitive. Its classes
    are the connected components of the graph of moves costing at most b.
@@ -69,7 +76,8 @@ identities free, and the hom of the max-enriched category of
    as b runs from 0 up: the merge tree, or single-linkage dendrogram, which
    is what zero-dimensional sublevel-set persistence records (Mirth et al.,
    [NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md)).
-4. **Additive costs differ.** If costs add along a path, d is a metric
+4. **Additive costs differ.** If costs add along a path, d is an extended
+   pseudometric, for the same reasons,
    ([CLAIM-tmp7bxc0](CLAIM-tmp7bxc0.md)'s sum base), and x ≈_b y need not be transitive: costs
    0.6 and 0.6 put x, y and y, z within 1 while x, z are 1.2 apart. No
    single tree of classes exists.
@@ -78,6 +86,26 @@ Checked numerically with python3 -I: on 3,000 random symmetric move graphs
 of eight configurations, no violation of the ultrametric inequality under
 max; under addition, budgeted identification at b = 1 was intransitive in
 2,108 of them.
+
+## Identity is free; holding is not
+
+The identity here costs nothing: d(x, x) = 0 says only that staying put
+needs no move. It says nothing about what it costs to occupy or maintain x,
+which is CLAIM-tmpbi4ca's holding requirement r(x) and TERM-tmp2ysyt's
+endpoint cost. A state can be identical to itself in this category and
+unaffordable to sustain; the two are kept apart, and the merge tree above
+is of reachability among states, not of their upkeep.
+
+## Correction of 2026-11-05
+
+The claim first called d an ultrametric and the additive threshold a
+metric. A, reading this pull request, pointed out that distinct states
+joined at zero cost are at distance 0, so the peak threshold is a
+pseudo-ultrametric (and extended, being ∞ between components) and the
+additive one an extended pseudometric, and that a free identity is not a
+free occupation of a state. Both are corrected above; the result, nested
+equivalence classes under peak costs, needs only the strong triangle
+inequality and stands.
 
 ## What it adds
 

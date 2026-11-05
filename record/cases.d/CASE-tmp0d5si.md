@@ -29,6 +29,7 @@ summary: >-
   toy; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp2p3i2 CASE-tmpe48yq CLAIM-tmpq06t8 CLAIM-tmpxcbet CLAIM-tmpy685m TERM-088 — Proposed; A's proposals of 2026-11-05, the assistant's own, the entries filed beside them and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpatpn9 — Proposed; the frontier claim this case works, cited as open -->
 
 # CASE-tmp0d5si: Three configurations, all mutually reachable and so isomorphic in the path groupoid, with one-way costs U to L 1, L to U 3, U to R 3 and R to U 1: the additive cheapest-cost distance is directed and graded, d(L, R) = 6 against d(R, L) = 2, each configuration's cost-to-target profile recovers it exactly, and under peak costs the same moves give other distances
 
@@ -108,6 +109,20 @@ under addition reproduces A's table; the triangle inequality holds on all
 reach sets are as above; the peak-cost closure is as above; and mutual
 reachability within b is transitive at every b tested under max and
 fails at b = 3 and 4 under addition.
+
+## Observing costs, and the two frontiers
+
+Added on 2026-11-05 from A's later reading of this pull request. Read A's
+one-way costs as peak costs: the directed thresholds are U→L 1, L→U 3,
+U→R 3, R→U 1, L→R 3 and R→L 1, so all three states are mutually reachable
+only at acting budget 3. Give the observer two probes, of the assistant's
+choosing: "flat or folded", costing 1, which separates U from L and R; and
+"which side", costing 2, which separates L from R. Computed exhaustively,
+the budget pairs at which everything indistinguishable is mutually
+reachable are those with o ≥ 2 or a ≥ 3, and those at which everything
+mutually reachable is indistinguishable are those with o < 1 or a < 3; the
+partitions coincide below o = 1 with a ≥ 3 and from o = 2 with a < 3.
+CLAIM-tmpatpn9 states and proves the general form.
 
 ## What it can show
 
