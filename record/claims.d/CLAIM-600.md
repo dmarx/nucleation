@@ -94,6 +94,7 @@ summary: >-
   (Collins and Shester; LaVoice). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmpw4aef LIT-tmp2q4is — Unavailable; registered by the state-aid filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
@@ -298,3 +299,7 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   regenerates its own parts is a further step: the planted cohort's own
   seedlings rarely reach the sapling layer ([NOTE-1660](../notes.d/NOTE-1660.md)), so these
   islands have not taken it.
+
+## Note of 2026-11-05: Knack, "Aid Dependence and the Quality of Governance", read
+
+Knack's cross-section of 80 aid recipients, 1982–95 (NOTE-tmpgq64d), finds higher mean aid going with smaller gains in governance, an effect that roughly doubles when instrumented. That supports the clause that support failing the conditions leaves decay, for aid that substitutes for a state's own work. It is evidence on support in progress only. There are no withdrawal episodes, so the withdrawal conditions go untested. It adds a complication the synthesis lacks: steady aid harms more than erratic aid of the same mean. The state-level evidence the synthesis lacked is still thin: Bräutigam and Knack 2004 (LIT-tmpw4aef) and Ahmed 2012 (LIT-tmp2q4is) were not reached, and Knack's own estimates rest on instruments whose exclusion is untested. No status changes.

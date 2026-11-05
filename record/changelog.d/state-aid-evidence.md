@@ -1,0 +1,1 @@
+- State-level aid evidence sought to fill a gap the supplied-maintenance filing left: Knack's cross-country tests of aid dependence and governance read (World Bank working paper); Bräutigam & Knack 2004 and Ahmed 2012 registered Unavailable; dated notes on CLAIM-600, CLAIM-602 and CLAIM-603.

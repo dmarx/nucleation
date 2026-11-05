@@ -192,3 +192,7 @@ C = 0.769, an output of 1.15, more than demand.
   upkeep does ([CLAIM-604](CLAIM-604.md)), full substitution long enough leaves a
   capacity that does not regrow when the supply stops, the shape of a
   capability trap.
+
+## Note of 2026-11-05: Knack, "Aid Dependence and the Quality of Governance", read
+
+Partial support. In Knack's estimates (NOTE-tmpgq64d), technical assistance carries coefficients several times those of aid overall, and when entered with the rest of aid only it is significant. Technical assistance is the aid in which donors do the work. That fits supply that does the work lowering the capacity kept. The order in which supply and capacity are used is not observed, the two aid measures correlate at .87, and the evidence is cross-country. No status changes.
