@@ -116,3 +116,6 @@ Read at the owner's suggestion to look to reintroduction and ecological recovery
 
 No status changes.
 
+## Note of 2026-11-05: the readings on assistance and skill
+
+Supported and extended. Disuse need not mean rare operation: it can sit inside daily work when automation does a subtask (Macnamara et al., NOTE-tmpfgu7k). The decay is larger for cognitive than for procedural skill, and it may go unnoticed by the performer. The FAA's advice that pilots use manual skills on most flights is practice kept up beside the support, this claim's remedy. No new decay rates are given; the record's rates are still Tatel's (LIT-2079). No status changes.

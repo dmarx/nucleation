@@ -102,3 +102,9 @@ Read at the owner's request for a counterpoint to the record's dependency materi
 
 No status changes.
 
+## Note of 2026-11-05: the readings on assistance and skill
+
+- **Withdrawal by hand-back.** Automation withdraws itself at its failures, so withdrawal comes at the state least favourable to the party (Ahn's reading of Bainbridge, NOTE-tmpxhylb). A's measure D assumes withdrawal at chosen states.
+- **A withdrawal rule in use.** Cognitive tutors move a learner on once the estimated probability that a skill is learned passes 0.95, and post-tests without the tutor check persistence (Koedinger and Aleven, NOTE-tmp607yf).
+
+No status changes.

@@ -94,6 +94,7 @@ summary: >-
   (Collins and Shester; LaVoice). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmph5vta — Unavailable; registered by the assistance filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
@@ -298,3 +299,14 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   regenerates its own parts is a further step: the planted cohort's own
   seedlings rarely reach the sapling layer ([NOTE-1660](../notes.d/NOTE-1660.md)), so these
   islands have not taken it.
+
+## Note of 2026-11-05: the readings on assistance and skill
+
+Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant.
+
+- **The third condition is qualified in its unit.** Under automation the operator keeps doing the job while the subtask the automation performs decays (Macnamara et al., NOTE-tmpfgu7k). The condition that the party did the work throughout must hold for each subtask, not only for the role.
+- **A withdrawal the claim did not consider.** Automation hands work back at its failures, when the system is least predictable, in Ahn's reading of Bainbridge (NOTE-tmpxhylb; Bainbridge's own text, LIT-tmph5vta, was not reached). That is an unplanned withdrawal at the hardest case, unlike the planned exits the claim's conditions assume.
+- **Timing and grading.** Koedinger and Aleven (NOTE-tmp607yf) find that early withholding is not safe by default, and their tutors withdraw help gradually as competence is shown.
+- **The flux is not enough on its own.** Griffith et al. (NOTE-tmp7qron) find outside technology stays available but is used only in proportion to a party's own R&D.
+
+No status changes.

@@ -216,3 +216,7 @@ Read after the owner asked for a counterpoint, "e.g. the myth of the lazy poor".
   measure of how many return gifts or free-ride. Mauss's own circuits close
   back on their origin, so his work does not show that open-ended giving
   forward is stable.
+
+## Note of 2026-11-05: the readings on assistance and skill
+
+Two qualifications on incentives. Koedinger and Aleven's tutors put a designed cost on asking for help, and some learners game the system anyway (NOTE-tmp607yf). Macnamara et al. cite a crossover near 70 % automation accuracy, below which relying on the aid stops paying (NOTE-tmpfgu7k): the favoured loss depends on how reliable the supply is. No status changes.

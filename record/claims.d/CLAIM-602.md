@@ -65,6 +65,7 @@ summary: >-
   Azam et al.'s; the second and third are not in their paper. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmpwa0ib — Unavailable; registered by the assistance filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-604 — Proposed or new; claims this one rests on or extends, cited as open -->
 <!-- inactive-ok-file: NOTE-1647 — new; readings of the aid-dependency filing, cited as open -->
 
@@ -192,3 +193,16 @@ C = 0.769, an output of 1.15, more than demand.
   upkeep does ([CLAIM-604](CLAIM-604.md)), full substitution long enough leaves a
   capacity that does not regrow when the supply stops, the shape of a
   capability trap.
+
+## Note of 2026-11-05: the readings on assistance and skill
+
+Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant.
+
+- **Supported from tutoring, with three qualifications.** Koedinger and Aleven's cognitive tutors (NOTE-tmp607yf) withhold information at first and add it only as needed, on the stated ground that learning-by-doing rules are strengthened through use. That is this claim's capacity-first rule.
+  - Help the learner controls turns into substitution: learners jump to the bottom-out hint that gives the answer.
+  - Withholding has its own cost, floundering. In tutored practice, too little help is the more common error.
+  - Supplied work can teach when learners explain it to themselves. Faded worked examples beat the standard tutor.
+- **Supported in spirit, at industry level.** In Griffith, Redding and Van Reenen (NOTE-tmp7qron), industries absorb frontier technology in proportion to their own R&D. This stands in for Cohen and Levinthal's absorptive capacity (LIT-tmpwa0ib, Unavailable).
+- **An instance in automation.** Macnamara et al. (NOTE-tmpfgu7k) report that cognitive skills decline more than procedural ones when automation does a subtask. The loss is selective by subtask.
+
+No status changes.
