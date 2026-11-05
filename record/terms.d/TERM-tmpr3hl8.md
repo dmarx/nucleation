@@ -22,7 +22,7 @@ summary: >-
   observation capabilities, with the resource-bounded reachability relation
   q ⇝_b q′ and the budget-indexed family b ↦ G_b(z). Filed as a term, not a
   claim: it names the frame the claims filed beside it are stated in. It
-  adds to TERM-tmp26wo4's resource types the processes and their
+  adds to [TERM-tmp26wo4](TERM-tmp26wo4.md)'s resource types the processes and their
   composition, changes of architecture as costed moves of their own, and
   what an observer can detect. The wording is A's; adopting it is the
   owner's call.
@@ -78,26 +78,26 @@ physical energy or control."
 
 ## What it adds to what the record holds
 
-- **TERM-tmp26wo4** sorts resource constraints by what function of a path
+- **[TERM-tmp26wo4](TERM-tmp26wo4.md)** sorts resource constraints by what function of a path
   they bound and gives A's earlier dynamic model of q, z, b and k. This
   term keeps the same pieces and adds the processes as objects with a
-  composition law, which is where the types differ in kind: CLAIM-tmp7bxc0
+  composition law, which is where the types differ in kind: [CLAIM-tmp7bxc0](../claims.d/CLAIM-tmp7bxc0.md)
   shows a peak capacity and a cumulative expenditure compose differently
   enough that only the first gives a category of affordable processes at
   every budget.
-- **The budget is partially ordered**, not a number: CLAIM-tmpuk8gq's two
+- **The budget is partially ordered**, not a number: [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)'s two
   paths needing (3, 1) and (1, 3) make the sufficient budgets an up-set
   with a two-point frontier.
 - **The filtrations it carries** are two, compatibility and reachability,
-  and neither fixes the other (CLAIM-tmp4rtpa); reachability is directed,
-  and a summary of connectivity does not settle it (CLAIM-tmpy685m).
-- **Changes of architecture are costed moves**, as in CASE-tmp06sg5, where
+  and neither fixes the other ([CLAIM-tmp4rtpa](../claims.d/CLAIM-tmp4rtpa.md)); reachability is directed,
+  and a summary of connectivity does not settle it ([CLAIM-tmpy685m](../claims.d/CLAIM-tmpy685m.md)).
+- **Changes of architecture are costed moves**, as in [CASE-tmp06sg5](../cases.d/CASE-tmp06sg5.md), where
   switching to a staging architecture lowers a threshold, and
-  CASE-tmpez9ok, where admitting facet bending widens the declared moves
+  [CASE-tmpez9ok](../cases.d/CASE-tmpez9ok.md), where admitting facet bending widens the declared moves
   at an energy price.
 
 The readings say what the costed process layer is in established terms.
-Marsden and Zwart (NOTE-tmpp7mrt; THEORY-tmpzax66) make costed conversions
+Marsden and Zwart ([NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md); [THEORY-tmpzax66](../theory.d/THEORY-tmpzax66.md)) make costed conversions
 the hom-objects of categories enriched in a commutative quantale; the
 reader of that paper matched A's "resource-graded process category" to a
 graded category, which keeps every process with its cost where the
@@ -108,18 +108,18 @@ enriched view keeps only the best cost between two configurations.
 - **A claim that any system has this structure.** It is a frame for stating
   claims. Which organizations admit a declared Q_z, P_z and κ is
   empirical, and the record has measured none.
-- **A license to read restriction as generation.** A keeps CLAIM-tmpr4sof's
+- **A license to read restriction as generation.** A keeps [CLAIM-tmpr4sof](../claims.d/CLAIM-tmpr4sof.md)'s
   guard: "imposing an additional hard constraint within a fixed dynamical
   model cannot enlarge its existential reachable set." Within one z an
   added constraint only removes processes; what can enlarge them is a move
   to another z.
 - **One budget.** R is a partial order with its own composition laws;
-  CLAIM-tmpbi4ca's scalar threshold is the one-capacity case.
+  [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s scalar threshold is the one-capacity case.
 - **A notion of universality.** Comparing two such systems needs a
   translation between them; the senses in which one can be universal are
-  TERM-tmpckwjg's.
+  [TERM-tmpckwjg](TERM-tmpckwjg.md)'s.
 
 ## What would settle it
 
 Adoption by the owner, or a claim of the record's own stated in it.
-CLAIM-tmp4rtpa, CLAIM-tmp7bxc0 and CLAIM-tmpe18y0 are stated in it.
+[CLAIM-tmp4rtpa](../claims.d/CLAIM-tmp4rtpa.md), [CLAIM-tmp7bxc0](../claims.d/CLAIM-tmp7bxc0.md) and [CLAIM-tmpe18y0](../claims.d/CLAIM-tmpe18y0.md) are stated in it.

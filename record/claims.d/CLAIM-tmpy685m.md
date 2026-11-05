@@ -40,8 +40,8 @@ summary: >-
   a connected state space of concurrent programs (Raussen), defect states of
   a Kresling stack left only irreversibly, and Lawvere's non-symmetric
   metrics. Every directed path stays in one component, so persistence gives
-  a necessary condition only. It qualifies CLAIM-tmpbi4ca and
-  CLAIM-tmpal9mc, which do not say whether their paths are directed. The
+  a necessary condition only. It qualifies [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md) and
+  [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md), which do not say whether their paths are directed. The
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp4rtpa CLAIM-tmpal9mc CLAIM-tmpbi4ca CLAIM-tmpuk8gq NOTE-tmpegumv THEORY-tmp5ebls THEORY-tmpop5d8 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
@@ -76,13 +76,13 @@ Checked by the filer by enumeration.
 **Necessary, not sufficient.** Every directed path lies in one component of
 the sublevel set joined by the moves read without direction. So if q
 reaches q′ at b they share a component of Q(b), and the zero-dimensional
-persistence of r bounds the reachability filtration of CLAIM-tmp4rtpa from
+persistence of r bounds the reachability filtration of [CLAIM-tmp4rtpa](CLAIM-tmp4rtpa.md) from
 above. When every move can be undone at the same cost the two coincide,
-and CLAIM-tmpbi4ca's threshold is the merge level.
+and [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s threshold is the merge level.
 
 **Instances in the readings.**
 
-- **Concurrency** (Raussen, LIT-tmpjapuv, the stand-in for Fajstrup,
+- **Concurrency** (Raussen, [LIT-tmpjapuv](../literature.d/LIT-tmpjapuv.md), the stand-in for Fajstrup,
   Goubault and Raussen). In the state space of a program whose processes
   share resources of given capacities, a deadlock is a state in the
   connected space from which no nontrivial directed execution leaves, and a
@@ -90,10 +90,10 @@ and CLAIM-tmpbi4ca's threshold is the merge level.
   path. There the obstruction comes from the capacities themselves: the
   forbidden region is where concurrent demands exceed a resource's
   capacity, so A's second and third levels coincide in that model.
-- **Origami** (NOTE-tmpwz8jy; THEORY-tmpop5d8). A series stack of bistable
+- **Origami** ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md); [THEORY-tmpop5d8](../theory.d/THEORY-tmpop5d8.md)). A series stack of bistable
   Kresling barrels has defect states that the loading protocol cannot reach
   and can leave only irreversibly.
-- **Costs** (Lawvere; NOTE-tmpegumv; THEORY-tmp5ebls). A generalized metric
+- **Costs** (Lawvere; [NOTE-tmpegumv](../notes.d/NOTE-tmpegumv.md); [THEORY-tmp5ebls](../theory.d/THEORY-tmp5ebls.md)). A generalized metric
   need not be symmetric: "the natural asymmetry carries considerable
   information". Lawvere's example, as the reading reports it, is the work
   needed to get from a to b in mountainous country.
@@ -104,10 +104,10 @@ and CLAIM-tmpbi4ca's threshold is the merge level.
   enrichment carries the asymmetry at the level of costs, before any
   homotopy; A turns to directed homotopy for it, and the readings show
   either can.
-- **That the held thresholds are wrong.** CLAIM-tmpbi4ca and CLAIM-tmpuk8gq
+- **That the held thresholds are wrong.** [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md) and [CLAIM-tmpuk8gq](CLAIM-tmpuk8gq.md)
   are stated over paths without direction, which is right for reversible
   moves. For one-way moves the threshold from A to B and from B to A are
-  two numbers. CLAIM-tmpal9mc's geometric disconnection, no path in
+  two numbers. [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md)'s geometric disconnection, no path in
   the fixed configuration space, covers a deadlock in a connected space
   only if its paths are read as directed.
 - **That direction means dissipation.** In the concurrency model it is the

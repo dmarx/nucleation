@@ -71,10 +71,10 @@ moves between them, a capacity requirement r and demands D_i. Let
 Q(b) = {q : r(q) ≤ b}.
 
 - **Compatibility**: K(b), the sets of demands some q ∈ Q(b) meets
-  together. It grows with b (CLAIM-tmpuxuo4).
+  together. It grows with b ([CLAIM-tmpuxuo4](CLAIM-tmpuxuo4.md)).
 - **Reachability**: R(b), the pairs (q, q′) joined by a sequence of moves
   through Q(b). It grows with b, since a path within Q(b) lies within Q(b′)
-  for b ≤ b′; (q, q′) enters at CLAIM-tmpbi4ca's threshold B*(q, q′).
+  for b ≤ b′; (q, q′) enters at [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s threshold B*(q, q′).
 
 K(b) depends on Q(b) and the demands only; R(b) on how Q(b) is joined by
 moves. Neither fixes the other.
@@ -96,15 +96,15 @@ Checked by the filer by enumeration.
 - **A transition without a face.** At b = 3, s₁ and s₃ become mutually
   reachable, and K(b) is unchanged.
 - **Feasible and unreachable.** On [1, 3), s₃ is feasible ({3} is a face)
-  and unreachable from s₁. This half is CLAIM-tmpbi4ca's, whose example has
+  and unreachable from s₁. This half is [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s, whose example has
   both endpoints feasible at 1.0 and the threshold at 1.3.
 
 **Where persistence sees it.** With moves reversible at equal cost, R(b)
 is the partition of Q(b) into the components the moves join, so the
 reachability filtration is the zero-dimensional part of the sublevel-set
 persistence of r: A's "two disconnected regions merge when the budget
-reaches 3", and the merge-level reading of Mirth et al. (THEORY-tmpqzxwh)
-held in CLAIM-tmpbi4ca. With one-way moves it is not (CLAIM-tmpy685m).
+reaches 3", and the merge-level reading of Mirth et al. ([THEORY-tmpqzxwh](../theory.d/THEORY-tmpqzxwh.md))
+held in [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md). With one-way moves it is not ([CLAIM-tmpy685m](CLAIM-tmpy685m.md)).
 
 ## What it does not say
 
@@ -112,12 +112,12 @@ held in CLAIM-tmpbi4ca. With one-way moves it is not (CLAIM-tmpy685m).
   would enter K(b) at 3 with the transition; which demands are declared
   decides that.
 - **That either filtration is the finer.** Each can change where the other
-  does not; CLAIM-tmpsbz28 shows reachability can differ where the complex
+  does not; [CLAIM-tmpsbz28](CLAIM-tmpsbz28.md) shows reachability can differ where the complex
   agrees at every budget.
 - **Anything for several resources or other resource types.** Both
   filtrations are over one capacity; with several, the index is a partial
-  order (CLAIM-tmpuk8gq), and with cumulative costs reachability within a
-  budget is not even closed under composition (CLAIM-tmp7bxc0).
+  order ([CLAIM-tmpuk8gq](CLAIM-tmpuk8gq.md)), and with cumulative costs reachability within a
+  budget is not even closed under composition ([CLAIM-tmp7bxc0](CLAIM-tmp7bxc0.md)).
 - **A's appraisal.** A calls the pairing "one of the most promising
   mathematical features of the entire proposal". The claim is only the
   separation.

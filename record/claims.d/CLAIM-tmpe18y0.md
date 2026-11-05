@@ -45,7 +45,7 @@ summary: >-
   transformations and modifiable architectures), and Response 3 §8
   ("Families of constrained systems with different physical substrates may
   admit equivalent resource-bounded process structures"). Merged as one
-  claim, stated in TERM-tmpckwjg's computational sense. A does not present
+  claim, stated in [TERM-tmpckwjg](../terms.d/TERM-tmpckwjg.md)'s computational sense. A does not present
   it as a theorem. Interpretive: no such equivalence is shown; the honest
   defeaters include that it may say no more than PSPACE-completeness
   already does. The wording is A's; adopting it is the owner's call.
@@ -82,32 +82,32 @@ feasibility, reachability, control, or regeneration" (Response 2 §5).
 
 **Stated in the record's terms.** Equivalence is two-way resource
 simulation, or a resource-aware bisimulation, with overhead bounded by an
-order-preserving resource transformation (TERM-tmpckwjg's computational
-sense), between families of TERM-tmpr3hl8's systems; the classes are taken
+order-preserving resource transformation ([TERM-tmpckwjg](../terms.d/TERM-tmpckwjg.md)'s computational
+sense), between families of [TERM-tmpr3hl8](../terms.d/TERM-tmpr3hl8.md)'s systems; the classes are taken
 separately for which configurations are feasible, which are reachable at
 which budgets, which can be driven by the inputs, and which regenerate.
 
 **What the record holds toward it.**
 
 - **Within one substrate, a structure-preserving universality.** Gopalan et
-  al. (NOTE-tmpec4ov; THEORY-tmpmcxbv): from a Boolean language that is not
+  al. ([NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md); [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md)): from a Boolean language that is not
   tight every relation is faithfully expressible, preserving connectivity
   of solutions, and the navigation problems are PSPACE-complete. That is a
   universality of navigation structure within Boolean CSPs.
 - **Across folding and constraint logic, at the decision level.** Eppstein
-  (NOTE-tmpv7lp6; THEORY-tmp34oop) proves flaps-and-flips connectivity
+  ([NOTE-tmpv7lp6](../notes.d/NOTE-tmpv7lp6.md); [THEORY-tmp34oop](../theory.d/THEORY-tmp34oop.md)) proves flaps-and-flips connectivity
   PSPACE-complete by reduction from nondeterministic constraint logic. The
   reduction preserves the yes or no of reachability, not the costs of
   paths, and the model is a toy that its author does not offer as origami
   in general.
 - **One pair of physical substrates for logic.** The origami Boolean
-  networks (LIT-tmpmjw68) implement logic in folding states; that is the
+  networks ([LIT-tmpmjw68](../literature.d/LIT-tmpmjw68.md)) implement logic in folding states; that is the
   expressive sense, for combinational functions.
 
 ## What it does not say
 
 - **That any such equivalence exists.** None is shown. A's own test is a
-  three-way comparison under scaling (QUESTION-tmpkcffa): "Agreement in one
+  three-way comparison under scaling ([QUESTION-tmpkcffa](../questions.d/QUESTION-tmpkcffa.md)): "Agreement in one
   small example would be evidence of a shared model, not a universality
   theorem."
 - **That it is new at the decision level.** Families whose reconfiguration
@@ -115,9 +115,9 @@ which budgets, which can be driven by the inputs, and which regenerate.
   hypothesis says more only if its simulations carry the costs of
   processes and the other structures A lists.
 - **That organizations are such families.** An organizational model has no
-  size parameter until one is declared (CLAIM-tmplysd0), and without one
+  size parameter until one is declared ([CLAIM-tmplysd0](CLAIM-tmplysd0.md)), and without one
   neither the computational nor the scaling sense applies to it.
 - **That the obstruction profile is shared.** A's "substrate-independent"
-  obstruction levels (CLAIM-tmp06538) would be one structure such a
+  obstruction levels ([CLAIM-tmp06538](CLAIM-tmp06538.md)) would be one structure such a
   simulation preserves; the hypothesis includes it and the record has not
   tested it.

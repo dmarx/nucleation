@@ -20,7 +20,7 @@ summary: >-
   one another, measuring compatibility, directed reachability, Pareto
   frontiers of resources, complexity under scaling, robustness and
   architectural plasticity, starting from the degree-4 vertex of
-  CASE-tmpe48yq and extending to networks of vertices. CLAIM-tmpe18y0 is
+  [CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md) and extending to networks of vertices. [CLAIM-tmpe18y0](../claims.d/CLAIM-tmpe18y0.md) is
   the hypothesis it would test. The wording is A's; adopting it is the
   owner's call.
 ---
@@ -39,12 +39,12 @@ into a non-geometric constraint network, they become candidates for
 universality."
 
 The record holds the pieces a comparison would measure, each on one
-substrate: the compatibility complex (CLAIM-347), feasible against
-reachable (CLAIM-tmp9jvpb), the bottleneck threshold and its frontier with
-several resources (CLAIM-tmpbi4ca, CLAIM-tmpuk8gq), the two filtrations
-(CLAIM-tmp4rtpa), the obstruction levels (CLAIM-tmp06538), assembly,
-persistence and regeneration (CLAIM-tmp99w2g), and the senses of
-universality a result could claim (TERM-tmpckwjg). It holds no translation
+substrate: the compatibility complex ([CLAIM-347](../claims.d/CLAIM-347.md)), feasible against
+reachable ([CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)), the bottleneck threshold and its frontier with
+several resources ([CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md), [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)), the two filtrations
+([CLAIM-tmp4rtpa](../claims.d/CLAIM-tmp4rtpa.md)), the obstruction levels ([CLAIM-tmp06538](../claims.d/CLAIM-tmp06538.md)), assembly,
+persistence and regeneration ([CLAIM-tmp99w2g](../claims.d/CLAIM-tmp99w2g.md)), and the senses of
+universality a result could claim ([TERM-tmpckwjg](../terms.d/TERM-tmpckwjg.md)). It holds no translation
 between substrates.
 
 ## What would answer it
@@ -68,9 +68,9 @@ Pareto frontiers, the scaling of solution and reconfiguration complexity,
 robustness to noise and imperfect actuation and observation, and
 "Architectural plasticity: Which changes to the constraint architecture
 create genuinely new capabilities, and which only lower the cost of
-existing ones?", the last being QUESTION-tmpt9dhv. "The first experiment
-could use the degree-four origami vertex already constructed in PR #401,
-then extend to assemblies of multiple vertices", CASE-tmpe48yq, because "A
+existing ones?", the last being [QUESTION-tmpt9dhv](QUESTION-tmpt9dhv.md). "The first experiment
+could use the degree-four origami vertex already constructed in PR [#401](https://github.com/dmarx/nucleation/issues/401),
+then extend to assemblies of multiple vertices", [CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md), because "A
 single vertex may reveal bifurcations and resource barriers. A network of
 vertices may reveal frustration, combinatorial branching, difficult
 control problems, and emergent computational structure."
@@ -84,7 +84,7 @@ shown to depend on the paper.
 
 A: "Agreement in one small example would be evidence of a shared model,
 not a universality theorem." Nor would agreement by translations that
-declare the target's transition graph directly (TERM-tmpckwjg), nor
+declare the target's transition graph directly ([TERM-tmpckwjg](../terms.d/TERM-tmpckwjg.md)), nor
 sameness of complexity class alone, which families whose reconfiguration
 is PSPACE-complete already share. An organizational model with no declared
 size parameter cannot enter the comparison under scaling.

@@ -72,14 +72,14 @@ the admissible set (Gopalan et al.'s solution graph):
 | A | {000, 111} | {000} | {111} | none |
 | B | {000, 001} | {000} | {001} | 000 ↔ 001 |
 
-Both have the compatibility complex {∅, {1}, {2}} of CLAIM-347: each demand
+Both have the compatibility complex {∅, {1}, {2}} of [CLAIM-347](CLAIM-347.md): each demand
 is met, the two never jointly. In A the configuration meeting D₁ cannot
 reach the one meeting D₂; in B it can, in one move. Checked by the filer
 by enumeration. Same complex, same move rule, same costs, different
 reachability: A's "sharper possibility".
 
 **The version across languages** (Gopalan, Kolaitis, Maneva and
-Papadimitriou; NOTE-tmpec4ov; THEORY-tmpmcxbv). For S = {R1/3}, positive
+Papadimitriou; [NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md); [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md)). For S = {R1/3}, positive
 1-in-3 SAT, "This set is tight (actually, it is componentwise bijunctive),
 but not Schaefer": satisfiability is NP-complete and deciding whether two
 solutions are joined by single flips through solutions is polynomial. For
@@ -87,7 +87,7 @@ S = {RNAE}, positive NAE-3SAT, satisfiability is NP-complete and both
 connectivity problems are PSPACE-complete. For languages that are not
 tight the solution graph can have components of exponential diameter
 (Theorem 2.10), A's "exponentially many operations"; Schwerdtfeger
-(NOTE-tmpwmx5d; THEORY-tmpo2ib0) corrects the boundary to safely tight and
+([NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md); [THEORY-tmpo2ib0](../theory.d/THEORY-tmpo2ib0.md)) corrects the boundary to safely tight and
 gives diameter 2^Ω(√n) beyond it. Equal in the complexity of finding a
 solution, opposite in the complexity of navigating between solutions.
 
@@ -95,18 +95,18 @@ solution, opposite in the complexity of navigating between solutions.
 in Gopalan et al., the same set of admissible configurations gives the same
 moves. Two systems with "exactly the same satisfying configurations" and
 different reconfiguration therefore differ in their move rule, their
-P_z in TERM-tmpr3hl8's terms, which is A's point that processes are a layer
+P_z in [TERM-tmpr3hl8](../terms.d/TERM-tmpr3hl8.md)'s terms, which is A's point that processes are a layer
 of their own; with move rules free to differ, the separation is easy, and
 the content lies in which move rules are natural for a substrate.
 
 ## What it does not say
 
 - **That the complex is idle.** It is the right invariant for which demands
-  can be jointly met (CLAIM-347), and CLAIM-tmp4rtpa shows how its
+  can be jointly met ([CLAIM-347](CLAIM-347.md)), and [CLAIM-tmp4rtpa](CLAIM-tmp4rtpa.md) shows how its
   budgeted form sits beside the reachability filtration. It does not carry
   reachability.
 - **That the two layers are unrelated.** Reachability needs feasibility
-  (CLAIM-tmp9jvpb): no configuration outside the admissible set is
+  ([CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md)): no configuration outside the admissible set is
   reached.
 - **Anything about organizations.** The instance is abstract; whether an
   organization's moves are local in some such sense is A's analogy.

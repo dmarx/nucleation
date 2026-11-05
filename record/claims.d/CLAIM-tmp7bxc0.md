@@ -42,7 +42,7 @@ summary: >-
   exactly when b ⊗ b ≤ b, so always for maximum and, for sum, only at 0
   and infinity. Under maximum the affordable processes form a category at
   every budget and the least cost between two configurations is
-  CLAIM-tmpbi4ca's threshold; under sum the cost must be carried as a grade
+  [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s threshold; under sum the cost must be carried as a grade
   that composes, as A proposes. The wording is A's, sharpened by the
   reader; adopting it is the owner's call.
 ---
@@ -65,7 +65,7 @@ processes costing at most b each may together cost 2b. Thus the collection
 of b-affordable processes need not itself be a category under ordinary
 composition."
 
-**The sharper statement (the reader's derivation, NOTE-tmpp7mrt).** Let
+**The sharper statement (the reader's derivation, [NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md)).** Let
 costs lie in an ordered monoid (R, ⪯, ⊗, 0) with ⊗ monotone in each
 argument, and let a composite cost the ⊗ of its parts:
 κ(g ∘ f) = κ(f) ⊗ κ(g).
@@ -93,11 +93,11 @@ with its grade, as against an enriched category, which keeps only the best
 grade between two objects.
 
 **The peak case is the record's threshold.** The readers of Lawvere and of
-Marsden and Zwart (NOTE-tmpegumv, NOTE-tmpp7mrt) check that ([0, ∞], inf,
+Marsden and Zwart ([NOTE-tmpegumv](../notes.d/NOTE-tmpegumv.md), [NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md)) check that ([0, ∞], inf,
 max) satisfies the definition of a quantale, since max(a, inf_i b_i) =
 inf_i max(a, b_i). The least cost of going from q to q′ in the free
 category it enriches is the infimum over paths of the largest cost along
-the path, CLAIM-tmpbi4ca's bottleneck budget B*. Lawvere's own base is
+the path, [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s bottleneck budget B*. Lawvere's own base is
 addition, the "familiar additive shortest-path model" A names.
 
 **Order-dependent costs.** A: "For replenishable resources, the cost may
@@ -111,7 +111,7 @@ totals.
 
 **Parallel composition.** A: "running two processes simultaneously may
 require adding their peak demands rather than taking their maximum." The
-reading of Raussen (LIT-tmpjapuv), on concurrent programs sharing resources
+reading of Raussen ([LIT-tmpjapuv](../literature.d/LIT-tmpjapuv.md)), on concurrent programs sharing resources
 of given capacities, is a model in which exactly this holds: simultaneous
 use adds demands, and the states where a capacity is exceeded are removed
 from the state space.
@@ -123,11 +123,11 @@ from the state space.
   cost less than the sum, and then the condition is sufficient only.
 - **That several capacities compose into one number.** A product of two
   quantales is a quantale, but its least cost is the componentwise
-  infimum, which no single path need attain: for CLAIM-tmpuk8gq's two paths
+  infimum, which no single path need attain: for [CLAIM-tmpuk8gq](CLAIM-tmpuk8gq.md)'s two paths
   needing (3, 1) and (1, 3) it gives (1, 1), which suffices for neither.
   Keeping the frontier needs up-sets of budgets as costs (the reader's,
-  NOTE-tmpp7mrt), the form CLAIM-tmpuk8gq already uses.
+  [NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md)), the form [CLAIM-tmpuk8gq](CLAIM-tmpuk8gq.md) already uses.
 - **That Coecke, Fritz and Spekkens state the law.** In their framework
   transformations are free and the costly things are resources; their
   contrast of sum and maximum is a contrast of how resources combine in
-  parallel (NOTE-tmpkmvs1), not of how process costs compose in sequence.
+  parallel ([NOTE-tmpkmvs1](../notes.d/NOTE-tmpkmvs1.md)), not of how process costs compose in sequence.

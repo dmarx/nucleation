@@ -38,17 +38,17 @@ reliably."
 **What the readings give.**
 
 - **An alignment of a metric with complexity.** Gopalan, Kolaitis, Maneva
-  and Papadimitriou (NOTE-tmpec4ov): for Boolean languages, components have
+  and Papadimitriou ([NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md)): for Boolean languages, components have
   linear diameter when st-connectivity is polynomial and can have
   exponential diameter otherwise; "small diameter and tractability of the
   st-connectivity problem are remarkably aligned." Diameter is a property
   of the solution graph, not of a budget filtration, and the alignment is
   across languages, not a test on one instance.
 - **What persistence sees.** Sublevel-set persistence records when
-  components merge and holes appear as the budget rises (THEORY-tmpqzxwh;
-  CLAIM-tmpbi4ca), and its multiparameter form has stable invariants but no
-  complete discrete one (Vipond, NOTE-tmpusebl; Botnan and Lesnick,
-  NOTE-tmp6e0rl). It forgets direction (CLAIM-tmpy685m) and path length.
+  components merge and holes appear as the budget rises ([THEORY-tmpqzxwh](../theory.d/THEORY-tmpqzxwh.md);
+  [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)), and its multiparameter form has stable invariants but no
+  complete discrete one (Vipond, [NOTE-tmpusebl](../notes.d/NOTE-tmpusebl.md); Botnan and Lesnick,
+  [NOTE-tmp6e0rl](../notes.d/NOTE-tmp6e0rl.md)). It forgets direction ([CLAIM-tmpy685m](../claims.d/CLAIM-tmpy685m.md)) and path length.
 - **Summaries can be hard to compute.** Botnan and Lesnick report that the
   interleaving distance between multiparameter modules is NP-hard to
   compute for two or more parameters, so comparing two systems'

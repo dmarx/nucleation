@@ -36,14 +36,14 @@ summary: >-
   exchange on constraint architectures), Response 2 §3: a six-level
   diagnostic hierarchy, compatibility, reachability, affordability,
   controllability, reliability and regeneration, each with what repairs it.
-  Four levels are CLAIM-tmpal9mc's obstructions and the sixth is
-  CLAIM-tmp99w2g's regeneration; filed here are only the levels those lack,
+  Four levels are [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md)'s obstructions and the sixth is
+  [CLAIM-tmp99w2g](CLAIM-tmp99w2g.md)'s regeneration; filed here are only the levels those lack,
   compatibility before and regeneration after, and the ordering. Two
-  qualifications: by CLAIM-347, dropping a demand is not relief, so the
+  qualifications: by [CLAIM-347](CLAIM-347.md), dropping a demand is not relief, so the
   repair of compatibility is a change of constraints; and A's repair of
   reachability, a change of the transformation repertoire, can be had
   without a new architecture. A's further hope that the levels are
-  "substrate-independent" is left to CLAIM-tmpe18y0. The wording is A's;
+  "substrate-independent" is left to [CLAIM-tmpe18y0](CLAIM-tmpe18y0.md). The wording is A's;
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-194 CASE-tmpez9ok CLAIM-tmp99w2g CLAIM-tmp9jvpb CLAIM-tmpal9mc CLAIM-tmpe18y0 CLAIM-tmphme89 CLAIM-tmpuxuo4 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
@@ -63,20 +63,20 @@ A's table (Response 2 §3):
 | Reliability | "Can it be realized robustly?" | "Improve feedback and stabilization" |
 | Regeneration | "Can the capability persist through turnover?" | "Establish reproductive or maintenance mechanisms" |
 
-**What is held.** The middle four are CLAIM-tmpal9mc's geometric
+**What is held.** The middle four are [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md)'s geometric
 disconnection, capacity bottleneck, control limitation and dynamic
 instability, with the same remedies. Regeneration is the third of
-CLAIM-tmp99w2g's properties, that a form assembles, persists and is
+[CLAIM-tmp99w2g](CLAIM-tmp99w2g.md)'s properties, that a form assembles, persists and is
 regenerated after turnover, which A cites.
 
 **What is added.**
 
 - **Compatibility first.** Before any transition can fail, the target may
   not exist: no configuration meets the demands together, a non-face of
-  CLAIM-347's complex. It is the precondition of the other five, since a
-  target reached is feasible (CLAIM-tmp9jvpb), and no resource, input or
-  feedback relieves it while the architecture is fixed (CLAIM-tmpuxuo4).
-  A's repair needs one correction: CLAIM-347 holds that "dropping or
+  [CLAIM-347](CLAIM-347.md)'s complex. It is the precondition of the other five, since a
+  target reached is feasible ([CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md)), and no resource, input or
+  feedback relieves it while the architecture is fixed ([CLAIM-tmpuxuo4](CLAIM-tmpuxuo4.md)).
+  A's repair needs one correction: [CLAIM-347](CLAIM-347.md) holds that "dropping or
   suppressing a demand is not relief". Changing the demands changes the
   question; the repair that answers it is a change of the constraints.
 - **Regeneration last.** A capability reached, affordably, under control
@@ -85,28 +85,28 @@ regenerated after turnover, which A cites.
   process that rebuilds the conditions of the capability.
 - **The ordering.** Compatibility is necessary for all the rest and
   regeneration presupposes a form to regenerate. Between them the four are
-  distinct and can combine, as CLAIM-tmpal9mc says; the table's order is a
+  distinct and can combine, as [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md) says; the table's order is a
   sequence for diagnosis, not a chain of implications.
 
-**A's repair of reachability** differs from CLAIM-tmpal9mc's, which is a
+**A's repair of reachability** differs from [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md)'s, which is a
 change of the constraint architecture. A's is a change of the
 transformation repertoire, which can be had within one architecture:
-admitting facet bending as a move in the square twist (CASE-tmpez9ok), at
+admitting facet bending as a move in the square twist ([CASE-tmpez9ok](../cases.d/CASE-tmpez9ok.md)), at
 an energy price, joins states that rigid motions do not.
 
 ## What it does not say
 
-- **That the six are exhaustive.** Neither A's table nor CLAIM-tmpal9mc has
+- **That the six are exhaustive.** Neither A's table nor [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md) has
   a level for information: a path exists and the inputs could execute it,
   but the system cannot tell which state it is in or which response the
-  context calls for, CASE-194's observational cause.
+  context calls for, [CASE-194](../cases.d/CASE-194.md)'s observational cause.
 - **That diagnosis is easy.** Which level a failure is at can itself be a
-  hard question over a family (CLAIM-tmphme89).
+  hard question over a family ([CLAIM-tmphme89](CLAIM-tmphme89.md)).
 - **That the levels are substrate-independent.** A: "The interesting
   possibility is that these distinctions are substrate-independent", so
   that a robot, a folding sheet, a computational agent and an institution
   "could all exhibit the same abstract obstruction profile." That is a
-  hypothesis about translations between systems (CLAIM-tmpe18y0), not part
+  hypothesis about translations between systems ([CLAIM-tmpe18y0](CLAIM-tmpe18y0.md)), not part
   of this classification.
 - **That organizations have the declared models** the levels are relative
   to. The cases are mechanical; the organizational reading is A's analogy.

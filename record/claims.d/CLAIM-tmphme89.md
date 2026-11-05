@@ -37,10 +37,10 @@ summary: >-
   Eppstein: pairwise connectivity in the flaps-and-flips model is
   PSPACE-complete even at bounded treewidth, with both endpoints valid. Ito
   et al.: reconfiguration of many NP-complete problems is PSPACE-complete,
-  and the least worst intermediate cost, CLAIM-tmpbi4ca's threshold, is
+  and the least worst intermediate cost, [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s threshold, is
   strongly NP-hard for power supply and inapproximable within any constant
   for maxmin clique unless P = NP. Both readers flagged it against
-  CLAIM-tmpal9mc. The construction is the filer's, from the readings;
+  [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md). The construction is the filer's, from the readings;
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp06538 CLAIM-tmpal9mc CLAIM-tmpbi4ca CLAIM-tmplysd0 THEORY-tmp34oop THEORY-tmp57bxg — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
@@ -49,24 +49,24 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpal9mc separates a transition with no path from one whose path
-exceeds a resource ceiling, and gives each its remedy; CLAIM-tmp06538 adds
+[CLAIM-tmpal9mc](CLAIM-tmpal9mc.md) separates a transition with no path from one whose path
+exceeds a resource ceiling, and gives each its remedy; [CLAIM-tmp06538](CLAIM-tmp06538.md) adds
 compatibility before and regeneration after. To apply a remedy one must
 know which obstruction holds. That knowledge is the answer to a question,
 and over a family of systems the question has a complexity
-(CLAIM-tmplysd0).
+([CLAIM-tmplysd0](CLAIM-tmplysd0.md)).
 
-- **Is there any path?** Eppstein (NOTE-tmpv7lp6; THEORY-tmp34oop), Theorem
+- **Is there any path?** Eppstein ([NOTE-tmpv7lp6](../notes.d/NOTE-tmpv7lp6.md); [THEORY-tmp34oop](../theory.d/THEORY-tmp34oop.md)), Theorem
   4: "Pairwise connectivity and global connectivity for" flaps and flips
   is PSPACE-complete, "even for instances with bounded treewidth". Both
   endpoints are valid flat states; whether one reaches the other is the
-  hard part. Ito et al. (NOTE-tmpmqj4b; THEORY-tmp57bxg), Theorems 1 and 2:
+  hard part. Ito et al. ([NOTE-tmpmqj4b](../notes.d/NOTE-tmpmqj4b.md); [THEORY-tmp57bxg](../theory.d/THEORY-tmp57bxg.md)), Theorems 1 and 2:
   power supply, independent set, clique, vertex cover, set cover and
   integer programming reconfiguration are PSPACE-complete, independent
   set and vertex cover remaining so for planar graphs of maximum degree 3.
 - **Is the path within the budget?** Ito et al. §4 optimizes "the worst
   objective among all configurations in the reconfiguration sequence",
-  which is CLAIM-tmpbi4ca's bottleneck budget with cost as the resource:
+  which is [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s bottleneck budget with cost as the resource:
   "Lemma 3. Minmax power supply reconfiguration is strongly NP-hard", and
   "Theorem 4. Maxmin clique reconfiguration cannot be approximated within
   any constant factor unless P = NP". Some cases are easy to approximate:

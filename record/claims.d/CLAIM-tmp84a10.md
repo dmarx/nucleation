@@ -68,21 +68,21 @@ its solution space?"
 **Three corrections from the readings.**
 
 1. **The dichotomy classifies decision problems over fixed finite
-   languages**, not systems (NOTE-tmpa8w32, NOTE-tmp0p9z8; THEORY-tmp99dad,
-   THEORY-tmp8numn). Bulatov's Theorem 1: "For any finite constraint
+   languages**, not systems ([NOTE-tmpa8w32](../notes.d/NOTE-tmpa8w32.md), [NOTE-tmp0p9z8](../notes.d/NOTE-tmp0p9z8.md); [THEORY-tmp99dad](../theory.d/THEORY-tmp99dad.md),
+   [THEORY-tmp8numn](../theory.d/THEORY-tmp8numn.md)). Bulatov's Theorem 1: "For any finite constraint
    language Γ over a finite set the problem CSP(Γ) is either solvable in
    polynomial time or is NP-complete." Zhuk's criterion is "a WNU
    preserving Γ". A polymorphism is an operation applied coordinatewise to
    a relation's tuples, not an operation a system performs, and the domain
    must be finite; one crease pattern or one organization is one instance
-   and has no complexity in this sense (CLAIM-tmplysd0). A's continuous
+   and has no complexity in this sense ([CLAIM-tmplysd0](CLAIM-tmplysd0.md)). A's continuous
    configuration spaces would need a finite-domain language first.
 2. **It says nothing about connectivity.** Neither proof treats
    reconfiguration or reachability between solutions; Zhuk's "linked"
    instances are a local-consistency notion, a false friend.
 3. **Gopalan et al. answer the navigation question for Boolean languages,
-   but not through the clone** (NOTE-tmpec4ov; THEORY-tmpmcxbv; corrected
-   by Schwerdtfeger, NOTE-tmpwmx5d, THEORY-tmpo2ib0). With constants and
+   but not through the clone** ([NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md); [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md); corrected
+   by Schwerdtfeger, [NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md), [THEORY-tmpo2ib0](../theory.d/THEORY-tmpo2ib0.md)). With constants and
    single-variable flips, deciding whether two solutions are joined is
    polynomial for (safely) tight languages and PSPACE-complete otherwise,
    aligned with linear against exponential diameter. Schaefer's theorem can
@@ -94,7 +94,7 @@ its solution space?"
 Positive 1-in-3 SAT is tight and positive NAE-3SAT is not; both are
 NP-complete to satisfy, and deciding whether two solutions are joined is
 polynomial for the first and PSPACE-complete for the second
-(NOTE-tmpec4ov). With constants added, a polymorphism must be idempotent,
+([NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md)). With constants added, a polymorphism must be idempotent,
 and by Post's lattice every Boolean idempotent clone other than the
 projections contains conjunction, disjunction, majority or minority.
 Neither relation is closed under any of the four (checked by
@@ -122,7 +122,7 @@ the pair shows.
   "seems unavoidable". The claim is that the clone that fixes
   satisfiability does not fix navigation.
 - **Anything beyond Boolean domains, other moves, languages without
-  constants, or budgets.** Those are QUESTION-tmp3tq0j; for formulas
+  constants, or budgets.** Those are [QUESTION-tmp3tq0j](../questions.d/QUESTION-tmp3tq0j.md); for formulas
   without constants Gopalan et al. leave the question open.
 - **That A's Pol–Inv connection is wrong.** It is the standard one,
   Γ ⊆ Inv(F) ⟺ F ⊆ Pol(Γ); neither proof names it a Galois connection, a

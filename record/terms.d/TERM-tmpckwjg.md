@@ -30,7 +30,7 @@ summary: >-
 
 ## Definition
 
-For families of resource-bounded constraint systems in TERM-tmpr3hl8's
+For families of resource-bounded constraint systems in [TERM-tmpr3hl8](TERM-tmpr3hl8.md)'s
 sense, A separates three notions (Response 3 §7): "I think we should
 resist the temptation to define one overarching equivalence relation too
 early."
@@ -57,7 +57,7 @@ computational universality class when they can efficiently simulate one
 another in a way that preserves constraint satisfaction, permitted
 transformations, and resource requirements up to a specified overhead."
 The comparison is "between entire families of systems of increasing size,
-not isolated finite objects" (CLAIM-tmplysd0).
+not isolated finite objects" ([CLAIM-tmplysd0](../claims.d/CLAIM-tmplysd0.md)).
 
 **Scaling.** "Here we'd compare large families of systems and ask whether
 their behavior approaches the same scaling laws", for instance whether the
@@ -93,8 +93,8 @@ families.
   primitives, A's "bounded crease complexity, local constraints, limited
   actuation, planar construction". The same warning the record keeps for a
   concept lattice that exists for any incidence, "guaranteed by
-  construction" (THEORY-698). Where the primitives are restricted the
-  sense has content: Gopalan et al. (NOTE-tmpec4ov; THEORY-tmpmcxbv) show
+  construction" ([THEORY-698](../theory.d/THEORY-698.md)). Where the primitives are restricted the
+  sense has content: Gopalan et al. ([NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md); [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md)) show
   that from a Boolean language that is not tight every relation is
   faithfully expressible, connectivity of solutions included, a theorem
   because the primitives are fixed.
@@ -102,14 +102,14 @@ families.
   does not imply having the same transition geometry or resource
   requirements." The filer adds the converse caution: at the level of the
   decision problem alone, families whose reconfiguration is PSPACE-complete
-  (Eppstein's flaps and flips, NOTE-tmpv7lp6, THEORY-tmp34oop; Gopalan et
+  (Eppstein's flaps and flips, [NOTE-tmpv7lp6](../notes.d/NOTE-tmpv7lp6.md), [THEORY-tmp34oop](../theory.d/THEORY-tmp34oop.md); Gopalan et
   al.'s languages that are not tight) are already reducible to one another
   in polynomial time by completeness. A computational universality claim
   adds to that only if its simulation carries processes and their costs,
   not only the yes or no of REACH.
-- **One-way simulation.** CLAIM-034 makes the same split for translation,
+- **One-way simulation.** [CLAIM-034](../claims.d/CLAIM-034.md) makes the same split for translation,
   where an adaptive translation calls for one-way simulation rather than
-  equivalence; QUESTION-008 asks whether pragmatic fidelity is an
+  equivalence; [QUESTION-008](../questions.d/QUESTION-008.md) asks whether pragmatic fidelity is an
   approximate bisimulation. Neither is about resources.
 - **The universality of statistical physics alone.** That is the scaling
   sense only, and A expects the senses to come apart: "It's possible that
@@ -120,4 +120,4 @@ families.
 ## What would settle it
 
 Adoption by the owner, or a claim of the record's own stated in it.
-CLAIM-tmpe18y0, A's universality hypothesis, is stated in it.
+[CLAIM-tmpe18y0](../claims.d/CLAIM-tmpe18y0.md), A's universality hypothesis, is stated in it.
