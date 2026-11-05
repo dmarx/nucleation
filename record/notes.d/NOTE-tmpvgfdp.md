@@ -191,8 +191,8 @@ to tax?"), on McKinnon (1964) for the self-limiting gap view, and on Bauer
 and Friedman for the dependency view. It extends the argument informally to
 learning by doing in manufacturing under the Dutch disease: "As in our case,
 graduation will be postponed or prevented altogether" (p. 4), the
-infant-industry neighbour of Juhász's blockade study, LIT-1489 and
-THEORY-919. In this batch: Moss, Pettersson and van de Walle (2006) cite it
+infant-industry neighbour of Juhász's blockade study, [LIT-1489](../literature.d/LIT-1489.md) and
+[THEORY-919](../theory.d/THEORY-919.md). In this batch: Moss, Pettersson and van de Walle (2006) cite it
 for learning by doing in the public sector, with a paraphrase (below);
 Moore (2004) supplies the fiscal-sociology side it lacks; and Ostrom,
 Gibson, Shivakumar and Andersson (2002) the incentive channel, the
@@ -200,12 +200,12 @@ Samaritan's dilemma, that its planner model leaves out.
 
 ## Bearing on the record
 
-- **CLAIM-597 (supplied maintenance).** Qualifies it. Here the outside
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied maintenance).** Qualifies it. Here the outside
   supply is not a neutral repair: aid does the work that capacity is kept
-  by. Under full substitution experience decays at rate α, as CLAIM-597's
+  by. Under full substitution experience decays at rate α, as [CLAIM-597](../claims.d/CLAIM-597.md)'s
   capacity does on withdrawal, but here the decay runs while the supply
   continues.
-- **CLAIM-tmpoh07b (the lead's learned-capacity model).** Mapping R → C,
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (the lead's learned-capacity model).** Mapping R → C,
   r → P, α → μ, a → A. Its first point, that kept capacity falls with the
   share of work aid does, is in this paper in unsaturated form: θ = α/(g − a)
   on the θ̇ = 0 locus, θ_P = α/r_P at the steady state. Its second point,
@@ -222,28 +222,28 @@ Samaritan's dilemma, that its planner model leaves out.
   attribute to this paper, is their paraphrase and does not appear in it.
   Here the ratio is implicit, a/r with g fixed, and initial institutions
   enter through θ₀ against the threshold θ₁.
-- **QUESTION-398 (independence from the founding intervention).** Bears on
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** Bears on
   an answer: graduation comes where accumulated experience lets revenue
   replace aid, and depends on initial capacity against θ₁, on memory α and
   on whether the learning externality is internalized.
-- **QUESTION-399 (self-maintaining nucleus).** Bears on it: P is
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (self-maintaining nucleus).** Bears on it: P is
   self-reinforcing, revenue building the efficiency that justifies revenue,
   but it is a saddle reached on one path; M is a stable low-capacity state.
-- **CLAIM-558 (capability decays with disuse).** Supports it in another
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (capability decays with disuse).** Supports it in another
   domain: experience "does not decay at all" only when α = 0 (p. 5).
-- **QUESTION-386 (allocation by observed activity).** Bears on it: the
+- **[QUESTION-386](../questions.d/QUESTION-386.md) (allocation by observed activity).** Bears on it: the
   myopic rule funds the observed gap, so aid rises as capacity falls and
   locks the trap in.
-- **CLAIM-520 (the value of keeping a corrective capacity is
+- **[CLAIM-520](../claims.d/CLAIM-520.md) (the value of keeping a corrective capacity is
   conditional).** Qualifies it: keeping tax capacity pays the far-sighted
   planner, while the recipient alone prefers M unless a cutoff in aid is
   possible.
-- **CLAIM-516.** Partly parallel: a productive self-loop in which, without
+- **[CLAIM-516](../claims.d/CLAIM-516.md).** Partly parallel: a productive self-loop in which, without
   own work, capacity decays to zero; nothing on the closure boundary.
-- **TERM-105.** Experience is a stock built from a rate with depreciation.
-- **TERM-117.** Initial capacity below θ₁ acts as a nucleus threshold for
+- **[TERM-105](../terms.d/TERM-105.md).** Experience is a stock built from a rate with depreciation.
+- **[TERM-117](../terms.d/TERM-117.md).** Initial capacity below θ₁ acts as a nucleus threshold for
   graduation under myopic aid.
-- Filed: THEORY-tmpkkhou. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

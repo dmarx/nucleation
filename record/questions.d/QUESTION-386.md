@@ -82,7 +82,7 @@ The constructed [CASE-200](../cases.d/CASE-200.md) gives one mechanism the quest
 
 Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
 
-- **Funding by what is observed selects for form.** Andrews, Pritchett and Woolcock (NOTE-tmpfpey1) find aid and legitimacy granted for adopting prescribed forms, scored by indicators, and capability stagnating under it. Ostrom et al. (NOTE-tmp22pjn) find donor staff rewarded for disbursing, not for results that last. Moss et al. (NOTE-tmpd45i4) note that, until recently, a government's performance did not affect whether it received aid. In India (NOTE-tmp9wlcj) pay for performance kept the indicators it paid for.
-- **A model of the cost.** In CLAIM-tmpoh07b, funding that pays for the work rather than for the organization doing it selects substitution, which lowers the capacity kept.
+- **Funding by what is observed selects for form.** Andrews, Pritchett and Woolcock ([NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md)) find aid and legitimacy granted for adopting prescribed forms, scored by indicators, and capability stagnating under it. Ostrom et al. ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)) find donor staff rewarded for disbursing, not for results that last. Moss et al. ([NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md)) note that, until recently, a government's performance did not affect whether it received aid. In India ([NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md)) pay for performance kept the indicators it paid for.
+- **A model of the cost.** In [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), funding that pays for the work rather than for the organization doing it selects substitution, which lowers the capacity kept.
 
 No status changes.

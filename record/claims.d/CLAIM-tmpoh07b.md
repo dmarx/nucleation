@@ -121,14 +121,14 @@ C = 0.769, an output of 1.15, more than demand.
 
 - **The assumption is the readings'.** That a state's capacity is learned
   by doing the work is the route out of dependency that Moss, Pettersson
-  and van de Walle (NOTE-tmpd45i4) take from Kaldor (the state "learns how to tax") and
-  from Azam et al.'s learning by doing (NOTE-tmpvgfdp), and it is Moore's
-  revenue machinery kept alive by use (NOTE-tmpfngj0). Ostrom et al.'s
-  recipients lose skill under repeated help (NOTE-tmp22pjn), and Andrews,
+  and van de Walle ([NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md)) take from Kaldor (the state "learns how to tax") and
+  from Azam et al.'s learning by doing ([NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md)), and it is Moore's
+  revenue machinery kept alive by use ([NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)). Ostrom et al.'s
+  recipients lose skill under repeated help ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)), and Andrews,
   Pritchett and Woolcock's capability stagnates under aid that pays for
-  form (NOTE-tmpfpey1).
+  form ([NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md)).
 - **Matched in practice, in one study.** In the Kenya summary of the FANTA
-  exit study (NOTE-tmp46avq), "gradual exit, with the opportunity for
+  exit study ([NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)), "gradual exit, with the opportunity for
   project participants to operate independently prior to project closure,
   made it more likely that activities would be continued", and activities
   supplied by the project until the end declined. Operating independently
@@ -142,7 +142,7 @@ C = 0.769, an output of 1.15, more than demand.
   some of their own assets and share the decision to continue, addresses
   the incentive.
 - **Load beyond capacity.** Pritchett, Woolcock and Andrews warn against
-  "premature load bearing" (NOTE-tmpss5e0), demands on a fledgling system
+  "premature load bearing" ([NOTE-tmpss5e0](../notes.d/NOTE-tmpss5e0.md)), demands on a fledgling system
   that break it.
   The model has no overload failure, and capacity-first asks for the work up
   to capacity, not beyond it. A model in which overload damages capacity

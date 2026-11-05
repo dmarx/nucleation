@@ -102,7 +102,7 @@ Adopting it is the owner's call.
 
 Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
 
-- **Qualitative support at the scale of states and projects.** Under repeated help the recipient "loses skill and motivation over time" (Ostrom et al., NOTE-tmp22pjn). Where donors run budgets, "over time, real developmental capacities may atrophy within the administration." (Moss et al., NOTE-tmpd45i4). "If the revenue-raising function is permitted to decay", a weak state is exposed (Moore, NOTE-tmpfngj0). In Kenya, health workers' service fell as refresher training lapsed (NOTE-tmp46avq). None gives a rate.
-- **Used.** CLAIM-tmpoh07b rests on this claim's disuse term to model aid crowding out capacity learned by doing.
+- **Qualitative support at the scale of states and projects.** Under repeated help the recipient "loses skill and motivation over time" (Ostrom et al., [NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)). Where donors run budgets, "over time, real developmental capacities may atrophy within the administration." (Moss et al., [NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md)). "If the revenue-raising function is permitted to decay", a weak state is exposed (Moore, [NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)). In Kenya, health workers' service fell as refresher training lapsed ([NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)). None gives a rate.
+- **Used.** [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md) rests on this claim's disuse term to model aid crowding out capacity learned by doing.
 
 No status changes.

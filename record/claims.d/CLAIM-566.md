@@ -189,7 +189,7 @@ No status changes.
 
 Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
 
-- **Assembly and persistence come apart in aid.** In the Kenya summary (NOTE-tmp46avq), "evidence of impact at the time of project exit did not necessarily predict sustainability" two to three years later. Andrews, Pritchett and Woolcock's isomorphic mimicry (NOTE-tmpfpey1) is assembled form without persisting function: "unimplemented laws, unfunded agencies, and unused processes". Moore (NOTE-tmpfngj0): "we need to distinguish between explaining the origins of collective action and explaining its persistence".
-- **A distinction the claim lacks.** Ostrom et al. (NOTE-tmp22pjn) separate the persistence of a project's effects from that of the project: results can outlast an organization, and a form can outlast its function.
+- **Assembly and persistence come apart in aid.** In the Kenya summary ([NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)), "evidence of impact at the time of project exit did not necessarily predict sustainability" two to three years later. Andrews, Pritchett and Woolcock's isomorphic mimicry ([NOTE-tmpfpey1](../notes.d/NOTE-tmpfpey1.md)) is assembled form without persisting function: "unimplemented laws, unfunded agencies, and unused processes". Moore ([NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)): "we need to distinguish between explaining the origins of collective action and explaining its persistence".
+- **A distinction the claim lacks.** Ostrom et al. ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)) separate the persistence of a project's effects from that of the project: results can outlast an organization, and a form can outlast its function.
 
 No status changes.

@@ -83,7 +83,7 @@ function of the survival of one's own pixels.
 
 Read at the owner's request to look to aid and development for theory on how aid-dependent organizations become self-sufficient; the works were chosen by the assistant.
 
-- **Three observable signatures.** CLAIM-tmpw4ai2 models the flame side of this question: upkeep whose rate rises with the structure's intact share. Against a convection cell's supplied upkeep, it predicts three things in an artwork's placement records. A small or badly damaged image is not rebuilt while its community is active. Past some ratio of attack to defence, the image falls fast rather than eroding. After a long enough wipe, it does not come back when defenders return.
-- **The aid readings' analogue.** The aid literature's self-maintaining loop, a state that funds itself by taxing those it serves (Moore, NOTE-tmpfngj0), is a flame in this sense, and aid that does the work is the heat under the cell.
+- **Three observable signatures.** [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) models the flame side of this question: upkeep whose rate rises with the structure's intact share. Against a convection cell's supplied upkeep, it predicts three things in an artwork's placement records. A small or badly damaged image is not rebuilt while its community is active. Past some ratio of attack to defence, the image falls fast rather than eroding. After a long enough wipe, it does not come back when defenders return.
+- **The aid readings' analogue.** The aid literature's self-maintaining loop, a state that funds itself by taxing those it serves (Moore, [NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)), is a flame in this sense, and aid that does the work is the heat under the cell.
 
 No status changes.

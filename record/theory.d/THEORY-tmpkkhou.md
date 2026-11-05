@@ -19,8 +19,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpahupp
 summary: >-
-  Azam, Devarajan & O'Connell (1999), LIT-tmpahupp, read in full in
-  NOTE-tmpvgfdp. Proposed: the derivation of the dynamics and of the
+  Azam, Devarajan & O'Connell (1999), [LIT-tmpahupp](../literature.d/LIT-tmpahupp.md), read in full in
+  [NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md). Proposed: the derivation of the dynamics and of the
   steady-state roots was rechecked symbolically for this reading, but the
   stability of the two points and the myopic threshold rest on the paper's
   phase diagrams, which were not re-derived. It is a model with unit
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Azam, Devarajan & O'Connell (1999), LIT-tmpahupp; read in NOTE-tmpvgfdp.
+Azam, Devarajan & O'Connell (1999), [LIT-tmpahupp](../literature.d/LIT-tmpahupp.md); read in [NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md).
 Page numbers are the printed ones.
 
 ## What was actually shown

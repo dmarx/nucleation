@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpvgfdp) from the World Bank's own scan
+  read in full 2026-11-05 ([NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md)) from the World Bank's own scan
   in its documents repository; worth reading as the short theory paper
   that gives "aid dependence" analytical content: learning by doing in tax
   collection, with grant aid filling the fiscal gap, yields a stable
@@ -77,7 +77,7 @@ Azam, J.-P., Devarajan, S. & O'Connell, S. A. (1999). Aid Dependence Reconsidere
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpvgfdp. Page numbers are the printed ones (PDF page minus 3).*
+*From the reading, [NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md). Page numbers are the printed ones (PDF page minus 3).*
 
 - **Learning by doing in the revenue ministry.** Tax inefficiency is
   θ = 1/R, with experience R built by revenue collected and depreciating
@@ -104,11 +104,11 @@ Azam, J.-P., Devarajan, S. & O'Connell, S. A. (1999). Aid Dependence Reconsidere
 
 ## Standing in the record
 
-Filed with the aid-and-development batch of 2026-11-05, after CLAIM-597.
+Filed with the aid-and-development batch of 2026-11-05, after [CLAIM-597](../claims.d/CLAIM-597.md).
 It is the only formal model in the batch, and the one the lead's
-CLAIM-tmpoh07b compares itself with: its first point (capacity kept falls
+[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) compares itself with: its first point (capacity kept falls
 with the share of the work aid does) is in this paper in unsaturated form;
 its recovery-time and capacity-first points are not. Moss, Pettersson and
 van de Walle (2006) cite this paper for learning by doing "affected by the
 level of aid in relation to overall revenue"; that phrase is theirs, not
-this paper's. Filed from it: THEORY-tmpkkhou.
+this paper's. Filed from it: [THEORY-tmpkkhou](../theory.d/THEORY-tmpkkhou.md).
