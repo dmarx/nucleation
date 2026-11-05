@@ -30,7 +30,7 @@ summary: >-
 
 ## Why it is a question
 
-A productive nucleus (TERM-tmp3awsy) may need support to form and keep
+A productive nucleus ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)) may need support to form and keep
 growing. A's question is when the growing structure's own relations take
 over. A's measure:
 
@@ -42,8 +42,8 @@ downstream organization has formed. A's analogy:
 "temporary scaffolding used to construct a building", whose removal tests
 construction without making the building "self-repairing".
 
-The record separates assembling, persisting and regenerating (CLAIM-566)
-and asks when persistence makes an anchor (CLAIM-185, QUESTION-038). It
+The record separates assembling, persisting and regenerating ([CLAIM-566](../claims.d/CLAIM-566.md))
+and asks when persistence makes an anchor ([CLAIM-185](../claims.d/CLAIM-185.md), [QUESTION-038](QUESTION-038.md)). It
 does not ask when what was built ceases to need what built it.
 
 ## What the record has on it

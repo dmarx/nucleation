@@ -27,7 +27,7 @@ summary: >-
   compatibility are the same in every arm. Computed with python3 -I by
   matrix exponentials over a horizon of 4. Whether early or late supply
   is better turns on which steps the supplied component enters, which is
-  CLAIM-tmpt0fnx's point in time instead of amount. The wording is the
+  [CLAIM-tmpt0fnx](../claims.d/CLAIM-tmpt0fnx.md)'s point in time instead of amount. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpj3cmd CLAIM-562 CLAIM-tmpt0fnx — Proposed, Skimmed or new; entries cited as open -->
@@ -36,7 +36,7 @@ summary: >-
 
 ## The case
 
-A's branching model (CASE-tmpj3cmd) at its baseline, eventual yield
+A's branching model ([CASE-tmpj3cmd](CASE-tmpj3cmd.md)) at its baseline, eventual yield
 59.3 %.
 
 **Placement at equal cost.** One extra unit of supply doubles the rate of
@@ -60,7 +60,7 @@ the step its component takes part in:
 ## What it can show
 
 - **A's proposed case.** Two interventions of equal cost, the same target,
-  different yields. Placement matters at equal quantity, as CLAIM-562
+  different yields. Placement matters at equal quantity, as [CLAIM-562](../claims.d/CLAIM-562.md)
   holds for actuators.
 - **Order matters at equal expenditure.** This is A's Prediction 5:
   "Two policies can have identical cumulative expenditure ... while
@@ -71,7 +71,7 @@ the step its component takes part in:
   Supply that binds an unnucleated scaffold into a trap is best withheld
   until the nucleus has formed. Which order helps depends on which steps
   the supply enters in the state the system is in when it arrives. That
-  extends CLAIM-tmpt0fnx from how much supply to when.
+  extends [CLAIM-tmpt0fnx](../claims.d/CLAIM-tmpt0fnx.md) from how much supply to when.
 
 Being fictional, with A's invented rates, it shows the logic, not its size
 in DNA origami. Wah et al. 2016 changed staple concentrations and so the

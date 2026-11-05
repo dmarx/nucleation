@@ -96,6 +96,6 @@ persists, and persisting is what makes it a trap.
 
 From the fourth synthesis on DNA origami by another assistant (A), "Predicting which organizations will successfully nucleate", pasted by the owner on 2026-11-05.
 
-A's fourth synthesis proposes the claim in a fuller form: "equally persistent intermediate structures can differ in their probability of reaching a target before failure; and strengthening an intermediate can increase initial formation while reducing final yield." The first half is this claim. The second is shown by A's stabilization toy (CASE-tmpli7gt): yield peaks at s ≈ 1.11 with 40.2 %, and falls beyond as nucleation rises and completion falls. A: "The interpretation in terms of organizational development remains a separate claim."
+A's fourth synthesis proposes the claim in a fuller form: "equally persistent intermediate structures can differ in their probability of reaching a target before failure; and strengthening an intermediate can increase initial formation while reducing final yield." The first half is this claim. The second is shown by A's stabilization toy ([CASE-tmpli7gt](../cases.d/CASE-tmpli7gt.md)): yield peaks at s ≈ 1.11 with 40.2 %, and falls beyond as nucleation rises and completion falls. A: "The interpretation in terms of organizational development remains a separate claim."
 
 No status changes.

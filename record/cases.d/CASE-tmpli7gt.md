@@ -51,13 +51,13 @@ Past the optimum the nucleus forms more easily and the yield falls.
 
 ## What it can show
 
-- **The second half of CLAIM-tmpiyvk1,** in A's proposed wording:
+- **The second half of [CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md),** in A's proposed wording:
   "strengthening an intermediate can increase initial formation while
   reducing final yield".
-- **An anchor that is too good** (CLAIM-185). A useful nucleus must be
+- **An anchor that is too good** ([CLAIM-185](../claims.d/CLAIM-185.md)). A useful nucleus must be
   "stable enough to coordinate further organization but not so inflexible
   that it prevents correction."
-- **A window in a resource,** of the kind CLAIM-tmp7y162 finds for heat,
+- **A window in a resource,** of the kind [CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md) finds for heat,
   here for binding strength.
 
 ## What it does not show

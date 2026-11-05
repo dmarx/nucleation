@@ -82,10 +82,10 @@ locally favourable relations made the outcome worse.
 
 ## What it adds
 
-- **Beyond CLAIM-562,** which holds the non-monotonicity itself, from
+- **Beyond [CLAIM-562](CLAIM-562.md),** which holds the non-monotonicity itself, from
   mechanical origami: this claim draws what follows for A's minimal
   nucleating sets, and that productive sets have no closure. The
-  assistant's first filing missed CLAIM-562, and this version rests on it.
+  assistant's first filing missed [CLAIM-562](CLAIM-562.md), and this version rests on it.
 
 - **To A's minimal nuclei** ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)): they suffice only under a
   monotonicity that assembly often lacks.

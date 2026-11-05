@@ -74,12 +74,12 @@ target is a sum over paths of products of branch shares
    Supply that arrives while the system is in a state whose wrong step
    consumes it does harm there, and does good where the right step does.
    So whether front-loading or delay is better depends on which steps the
-   supply enters. In CASE-tmp7oe6s, with total supply fixed, the yield
+   supply enters. In [CASE-tmp7oe6s](../cases.d/CASE-tmp7oe6s.md), with total supply fixed, the yield
    front-loaded, even or delayed is 70.6, 58.8 and 24.8 % when nucleation
    uses the supply. It is 45.4, 58.8 and 65.3 % when the supply traps the
    unnucleated scaffold and completes the nucleated one.
 
-Shown in [CASE-tmpj3cmd](../cases.d/CASE-tmpj3cmd.md), and for timing in CASE-tmp7oe6s. At A's baseline, with the trap entered from the
+Shown in [CASE-tmpj3cmd](../cases.d/CASE-tmpj3cmd.md), and for timing in [CASE-tmp7oe6s](../cases.d/CASE-tmp7oe6s.md). At A's baseline, with the trap entered from the
 nucleus by binding a further molecule and completion intramolecular, the
 yield falls from 59.3 % at λ = 1 to 19.0 % at λ = 20. If every step
 consumes alike, it stays at 59.3 %.
