@@ -26,7 +26,7 @@ grounds:
 - THEORY-tmpqzxwh
 summary: >-
   The assistant's own proposition, offered at the owner's invitation on
-  2026-11-05. The threshold of CLAIM-tmpbi4ca is the least, over admissible
+  2026-11-05. The threshold of [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md) is the least, over admissible
   paths, of each path's peak requirement, and both the peak and the least
   move by at most the largest error in the requirement. So a planner who
   knows each configuration's cost to within ε knows a transition's threshold
@@ -46,14 +46,14 @@ summary: >-
 ## The claim
 
 Let B*(A, B) = inf over admissible paths γ from A to B of max_t r(γ(t)),
-as in CLAIM-tmpbi4ca, and let r̂ be an estimate with |r(q) − r̂(q)| ≤ ε at
+as in [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md), and let r̂ be an estimate with |r(q) − r̂(q)| ≤ ε at
 every q.
 
 - **Bound.** For each path, the peak of r̂ along it is within ε of the
   peak of r, since each value is. Taking the least over the same set of
   paths keeps the bound: |B̂* − B*| ≤ ε. Where no admissible path exists
   both are infinite, since the path class does not depend on r.
-- **Slack.** Reconfiguration slack (TERM-tmp2ysyt), the threshold less the
+- **Slack.** Reconfiguration slack ([TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)), the threshold less the
   larger of the two holding costs, is then known to within 2ε.
 - **Direction.** If r̂ ≥ r everywhere, every path's peak rises, so
   B̂* ≥ B*; if r̂ ≤ r, B̂* ≤ B*. An underestimate at configurations off
@@ -74,14 +74,14 @@ to ε never above 1 (the largest was 0.9989), as the argument requires.
   configurations of the candidate paths, with lower bounds everywhere
   else, not the costs where the organization ordinarily operates.
 - **Several resources.** The same per-path argument, coordinate by
-  coordinate, puts the set of sufficient budgets of CLAIM-tmpuk8gq between
+  coordinate, puts the set of sufficient budgets of [CLAIM-tmpuk8gq](CLAIM-tmpuk8gq.md) between
   the true set shifted up by ε and shifted down by ε in each coordinate. No
   single threshold exists to bound there.
 
 ## Source
 
 It is the zero-dimensional case of the stability theorem for sublevel-set
-persistent homology, which Mirth et al. use (NOTE-tmpwvb9j): "small changes
+persistent homology, which Mirth et al. use ([NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md)): "small changes
 to the input produce only small changes in the persistent homology". The
 merge level of two components is the threshold here.
 

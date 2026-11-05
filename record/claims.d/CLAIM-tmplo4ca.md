@@ -32,13 +32,13 @@ summary: >-
   The assistant's own proposition, offered at the owner's invitation on
   2026-11-05 after the constraint-architecture and emergency-readiness
   filings. It joins A's budget ratchet to the transition threshold of
-  CLAIM-tmpbi4ca. Under a capacity budget set each period to the previous
+  [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md). Under a capacity budget set each period to the previous
   period's peak spending, an organization that only holds its configuration
   spends the holding cost, so its budget falls to that cost and stays
   there; what it can reach is the connected part of the sublevel set at
   that level around where it is, and every transition needing reconfiguration
   slack is lost without anyone choosing to give it up and without any sign
-  in routine output. It is CLAIM-079's stability without viability, produced
+  in routine output. It is [CLAIM-079](CLAIM-079.md)'s stability without viability, produced
   by a budget rule. Demonstrated for the pure rule; real budget rules have
   floors, growth and discretion that weaken it. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
@@ -51,7 +51,7 @@ summary: >-
 
 Let a connected configuration space Q carry a capacity requirement
 r(q) ≥ 0, and let the threshold B*(q, q′) of a transition be as in
-CLAIM-tmpbi4ca: the least, over admissible paths, of the peak of r along
+[CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md): the least, over admissible paths, of the peak of r along
 the path. In period t the organization has budget B_t, may move along any
 path whose peak is at most B_t, and spends s_t, the peak of r over what it
 occupied in the period. The rule is
@@ -71,7 +71,7 @@ Then:
 3. **Holding forecloses.** A period spent holding q costs r(q), so
    B_{t+1} = r(q). Any transition from q with B*(q, q′) > r(q), that is
    with positive reconfiguration slack against the current configuration
-   (TERM-tmp2ysyt), is then out of reach in every later period.
+   ([TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)), is then out of reach in every later period.
 4. **Only outside money restores it.** Under the rule the budget cannot
    climb back, so reaching q′ again needs an increase from outside of at
    least B*(q, q′) − r(q).
@@ -82,30 +82,30 @@ A's example: r(q) = 0.7 + 2.4q(1 − q) on [0, 1], with B* = 1.3 between the
 two ends, each held at 0.7. Start at q = 0 with B_0 = 1.3: the transition is
 affordable. Spend the period holding at q = 0: s_0 = 0.7, so B_1 = 0.7,
 and the sublevel set at 0.7 is the two endpoints alone. The transition is
-gone, and so is every move at all. CASE-tmp0g3pa is the same numbers with a
+gone, and so is every move at all. [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md) is the same numbers with a
 carry-over rule, under which the transition survives.
 
 ## What it adds
 
 - **It is a mechanism, not a choice.** Nothing in the rule decides to give
   up the transition; ordinary efficient operation does it, which is why A's
-  worry about utilization-based budgeting (QUESTION-tmpmtvei) can come true
+  worry about utilization-based budgeting ([QUESTION-tmpmtvei](../questions.d/QUESTION-tmpmtvei.md)) can come true
   without anyone wanting it.
 - **The loss leaves no trace in output.** The organization holds its
   configuration as well as before; only the set of places it could go has
-  changed. CLAIM-414's matched trajectories and the unrecorded calls of
-  CASE-tmp4op8y are the observational side of this.
-- **It is stability without viability by budget** (CLAIM-079): the
+  changed. [CLAIM-414](CLAIM-414.md)'s matched trajectories and the unrecorded calls of
+  [CASE-tmp4op8y](../cases.d/CASE-tmp4op8y.md) are the observational side of this.
+- **It is stability without viability by budget** ([CLAIM-079](CLAIM-079.md)): the
   organization stays in a stable regime while losing the transitions it
   would need when that regime stops serving.
 
 ## What it does not say
 
 - Real budget rules are rarely pure spend-matching. A floor B̄ ≥ B*, a
-  growth term, carry-over (CASE-tmp0g3pa) or discretion each break the
+  growth term, carry-over ([CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md)) or discretion each break the
   argument, and which real rules are close enough to the pure one is
   empirical.
 - It concerns one capacity resource. Cumulative and rate-limited budgets
-  (TERM-tmp26wo4) need their own treatment, and several resources at once
-  bring in CLAIM-tmpuk8gq.
+  ([TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)) need their own treatment, and several resources at once
+  bring in [CLAIM-tmpuk8gq](CLAIM-tmpuk8gq.md).
 - It says nothing about whether the lost transitions were worth keeping.

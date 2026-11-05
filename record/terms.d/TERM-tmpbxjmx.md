@@ -139,4 +139,4 @@ In the constructed [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md), any cut on unsp
 
 ## Note of 2026-11-05: a test for the pinning claim
 
-CLAIM-tmplo4ca gives a ratchet's effect on reachability in its pure form: a budget set to last period's peak spending falls to the holding cost and stays there, so every transition that needs reconfiguration slack is lost without any choice to give it up. No status changes.
+[CLAIM-tmplo4ca](../claims.d/CLAIM-tmplo4ca.md) gives a ratchet's effect on reachability in its pure form: a budget set to last period's peak spending falls to the holding cost and stays there, so every transition that needs reconfiguration slack is lost without any choice to give it up. No status changes.

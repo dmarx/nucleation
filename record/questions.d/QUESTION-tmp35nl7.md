@@ -30,19 +30,19 @@ summary: >-
 ## Why it is a question
 
 The filing's readings give many systems whose transitions need more than
-holding their current configuration costs (CLAIM-tmpbi4ca, TERM-tmp2ysyt).
+holding their current configuration costs ([CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md), [TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)).
 In each, the difference comes from outside:
 
-- **A supervisor.** Stern et al. 2020 (NOTE-tmpwrlv9): the creased sheet
+- **A supervisor.** Stern et al. 2020 ([NOTE-tmpwrlv9](../notes.d/NOTE-tmpwrlv9.md)): the creased sheet
   rewrites its own stiffnesses, but only on a supervisor's verdict.
-- **A robot.** The origami computers (NOTE-tmpu2xuw, NOTE-tmp2uw2z): an
+- **A robot.** The origami computers ([NOTE-tmpu2xuw](../notes.d/NOTE-tmpu2xuw.md), [NOTE-tmp2uw2z](../notes.d/NOTE-tmp2uw2z.md)): an
   addressing robot and its instructions change which function the array
   computes.
-- **An experimenter.** Zang et al. (NOTE-tmp7wdij): prestress applied and
+- **An experimenter.** Zang et al. ([NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md)): prestress applied and
   tuned from outside opens transitions.
-- **A designer.** FACT (NOTE-tmpla9de): the designer chooses the
+- **A designer.** FACT ([NOTE-tmpla9de](../notes.d/NOTE-tmpla9de.md)): the designer chooses the
   constraints.
-- **A hand.** Jules et al. (NOTE-tmpwz8jy): the defect states are reached
+- **A hand.** Jules et al. ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md)): the defect states are reached
   only by twisting by hand.
 
 Three kinds of supplier are possible: the environment (a perturbation that
@@ -57,15 +57,15 @@ A model, or a case, in which a system's operation builds a reserve, its own
 organization decides when to spend it, and the spending carries it across a
 bottleneck it could not otherwise cross; with conditions under which that
 arrangement arises from one in which the capacity was supplied from
-outside. CLAIM-tmplo4ca says one condition it needs: a budget rule that does
+outside. [CLAIM-tmplo4ca](../claims.d/CLAIM-tmplo4ca.md) says one condition it needs: a budget rule that does
 not pin the reserve to the holding cost.
 
 ## Related entries
 
-- TERM-070, organizational closure: a system that supplies its own
+- [TERM-070](../terms.d/TERM-070.md), organizational closure: a system that supplies its own
   reconfiguration resource would close a loop the readings leave open.
-- CLAIM-tmp99w2g: assembling, persisting and regenerating, of which this is
+- [CLAIM-tmp99w2g](../claims.d/CLAIM-tmp99w2g.md): assembling, persisting and regenerating, of which this is
   the transition analogue.
-- QUESTION-tmpqlcf4 (programmable against self-governing reconfiguration)
-  and QUESTION-090 (self-maintaining governance).
-- CLAIM-025: the capacity to transform the governing organization.
+- [QUESTION-tmpqlcf4](QUESTION-tmpqlcf4.md) (programmable against self-governing reconfiguration)
+  and [QUESTION-090](QUESTION-090.md) (self-maintaining governance).
+- [CLAIM-025](../claims.d/CLAIM-025.md): the capacity to transform the governing organization.

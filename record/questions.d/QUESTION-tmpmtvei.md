@@ -72,4 +72,4 @@ The constructed [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md) gives one mechanism
 
 ## Note of 2026-11-05: a test for the pinning claim
 
-CLAIM-tmplo4ca shows one mechanism the question asks about, in the pure case: under spend-matching, ordinary efficient operation alone pins the organization to the transitions it can make at holding cost. No status changes.
+[CLAIM-tmplo4ca](../claims.d/CLAIM-tmplo4ca.md) shows one mechanism the question asks about, in the pure case: under spend-matching, ordinary efficient operation alone pins the organization to the transitions it can make at holding cost. No status changes.

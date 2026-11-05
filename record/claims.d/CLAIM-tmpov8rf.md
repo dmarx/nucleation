@@ -30,12 +30,12 @@ summary: >-
   2026-11-05, from four readings that point the same way. In Stern, Pinson
   and Murugan's sheets, where actuators sit predicts success far better than
   how many there are; Hopkins's actuation spaces say where a flexure must be
-  driven; nonfungible geometry (CASE-tmpsbhp8 and CLAIM-tmpuxuo4) shows more
+  driven; nonfungible geometry ([CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) and [CLAIM-tmpuxuo4](CLAIM-tmpuxuo4.md)) shows more
   of a resource does not fix the wrong geometry; and in Dollar and Howe's
   hand, coupling decides which freedoms can be driven at all. The proposal
   is that reconfiguration slack is a field over configurations, what can be
   applied at each point, and that the transition threshold of
-  CLAIM-tmpbi4ca is met only where that field reaches the bottleneck. The
+  [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md) is met only where that field reaches the bottleneck. The
   obvious objection is that this restates nonfungibility; the claim is that
   location adds addressability, which a list of resource types does not
   carry. The wording is the assistant's (Claude, in this session); adopting
@@ -47,7 +47,7 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpbi4ca treats a transition's need as one number, the peak along the
+[CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md) treats a transition's need as one number, the peak along the
 best path, and a budget as one number to compare with it. The readings
 suggest a reserve also has a location: the configurations at which it can
 be applied. Write it as a(q), the extra capacity that can be brought to bear
@@ -57,30 +57,30 @@ its total ∫a or its maximum elsewhere.
 
 ## Why it is plausible
 
-- **Placement over count.** Stern, Pinson and Murugan (NOTE-tmp9dvve): a
+- **Placement over count.** Stern, Pinson and Murugan ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)): a
   few actuators that cover the folding islands succeed where many placed at
-  random fail. CLAIM-tmp675a9 states it.
+  random fail. [CLAIM-tmp675a9](CLAIM-tmp675a9.md) states it.
 - **Where a mechanism must be driven.** Hopkins's actuation spaces
-  (NOTE-tmpnscd2) say where actuators must act to drive a permitted motion
+  ([NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md)) say where actuators must act to drive a permitted motion
   without parasitic error, which depends on stiffness, not on the freedom
   space.
 - **Coupling decides addressability.** In Dollar and Howe's hand
-  (NOTE-tmpb0ok0), one actuator drives eight joints, and which shapes it can
+  ([NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md)), one actuator drives eight joints, and which shapes it can
   command is fixed by the transmission, not by the actuator's strength.
-  CASE-tmpe3itu is the constructed version.
-- **Nonfungible geometry.** CASE-tmpsbhp8 and CLAIM-tmpuxuo4: no amount of a
+  [CASE-tmpe3itu](../cases.d/CASE-tmpe3itu.md) is the constructed version.
+- **Nonfungible geometry.** [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) and [CLAIM-tmpuxuo4](CLAIM-tmpuxuo4.md): no amount of a
   resource fills a face the geometry forbids.
 
 ## What it adds beyond nonfungibility
 
-A vector of resource types (TERM-tmp26wo4) says what kinds of resource there
+A vector of resource types ([TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)) says what kinds of resource there
 are. Location says where each can act. Two organizations with the same
 vector of reserves can differ in whether any of it reaches the bottleneck:
 trained staff on the wrong shift or in the wrong station, money that a rule
 lets be spent only on operations, authority held by someone not present. On
 this reading, a funding rule can preserve the total reserve and still pin
 the organization by moving where the reserve may be applied, a variant of
-CLAIM-tmplo4ca's mechanism.
+[CLAIM-tmplo4ca](CLAIM-tmplo4ca.md)'s mechanism.
 
 ## What it does not say
 
