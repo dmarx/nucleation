@@ -3,3 +3,5 @@
   - Sobczak et al. 2012 registered Unavailable and read through Sobczak's dissertation;
   - dated notes on nineteen held entries.
 - The assistant's claim that a resource which sets the costs it pays, as heat does when origami folds, makes reachability within a time budget a window in the resource, with a four-state annealing toy ([CLAIM-tmp7y162](record/claims.d/CLAIM-tmp7y162.md), [CASE-tmpa6s9d](record/cases.d/CASE-tmpa6s9d.md)).
+- Two syntheses on DNA origami by another assistant (A), pasted by the owner, filed with eight further works read: Wah et al. 2016, Majikes et al. 2021 and 2026, Douglas et al. 2009, Douglas, Bachelet & Church 2012, Aksel et al. 2024, Cumberworth & Reinhardt 2025 and Ni et al. 2026. A's question on allocation and nucleation (QUESTION-tmpg0j9y), A's branching model (CASE-tmpj3cmd) and A's two proposed studies (CASE-tmpu0s44, CASE-tmpvdu02) are filed as A's.
+- The assistant's claim that uniform abundance helps, leaves or hurts an assembly according to whether the competing steps consume it alike (CLAIM-tmpt0fnx), matched by Majikes et al.'s blocked single fold.

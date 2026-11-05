@@ -154,3 +154,11 @@ status changes.
 Every enabling condition is supplied from outside: tiles, the thermal program, UV and the splitting of samples. The structure makes daughters, but not the constraints its own cycle depends on.
 
 No status changes.
+
+## Note of 2026-11-05: A's second synthesis on DNA origami
+
+From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
+
+A splits the life cycle into yield Y_T, survival S_τ and restoration G_τ by τ after specified component turnover, and notes that templated self-replication "in a supplied chemical environment is still not, by itself, sufficient" for closure. Ni et al. 2026 (NOTE-tmp79i4g) suggest one more distinction, read by the assistant from their system. Replication, more copies made from fresh supplied parts, is not regeneration after turnover. Their origami copies tile patterns at about 1.9 copies per cycle for dimers. The tiles, the temperature program, the UV crosslink and the splitting of the sample are all supplied from outside, and nothing repairs a damaged copy. So a system can replicate without regenerating, a fourth property beside the claim's three. The wording of that distinction is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+No status changes.

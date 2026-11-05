@@ -28,6 +28,7 @@ summary: >-
   on self-maintaining governance. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpvdu02 — Proposed; A's committor study, cited from the note on A's second synthesis -->
 <!-- inactive-ok-file: THEORY-1418 THEORY-1398 CLAIM-562 CLAIM-567 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 
 # QUESTION-380: When does establishing a small, internally compatible subsystem make global organization more likely, and how can its effectiveness be predicted from the constraint architecture?
@@ -129,5 +130,13 @@ raising its neighbours' j-factor and letting blocking strands be displaced
 along a growth front, while tiles, lacking these cooperativities, stall.
 The effectiveness of a nucleus is thus predicted from the fold-distance
 distribution. Untested at the multi-fold level.
+
+No status changes.
+
+## Note of 2026-11-05: A's second synthesis on DNA origami
+
+From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
+
+A proposes for the record "a QUESTION asking what makes an early intermediate a productive nucleus rather than a kinetic trap". That is this question, so it is not filed again. A offers a criterion: a productive nucleus is one whose specified formation raises the chance of completion, Δ_N = Pr(τ_F ≤ T | do(N)) − Pr(τ_F ≤ T | do(U)) > 0, or in committor form Δq_N > 0. A partial structure that "appears quickly but decreases that probability would be a kinetic trap, not a productive nucleus". The design that would measure it is CASE-tmpvdu02. Majikes et al. 2026 (NOTE-tmppwpd0) bear against reading short early folds as nuclei: replacing medium folds by more short ones made defects worse.
 
 No status changes.

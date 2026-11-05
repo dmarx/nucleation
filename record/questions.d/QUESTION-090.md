@@ -87,3 +87,11 @@ environments." Filed as [CLAIM-359](../claims.d/CLAIM-359.md) (robustness lives 
 that allocate and audit authority, and trades off against revision) and
 [CASE-108](../cases.d/CASE-108.md) (A41's proposed study). An answer here would say when that
 trade-off can be moved.
+
+## Note of 2026-11-05: A's second synthesis on DNA origami
+
+From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
+
+A asks, of DNA origami, "what additional reaction network or organizational arrangement would make regeneration endogenous, rather than simply externally supplied", to be investigated "in stages: assembly, damage, component replacement, and the maintenance of the processes enabling replacement". The readings in this pull request reach the first stage and part of a replicating one (Ni et al. 2026, NOTE-tmp79i4g). None reaches replacement of damaged parts, or maintenance of the processes of replacement. So DNA origami does not yet bear on how a self-maintaining structure emerges.
+
+No status changes.

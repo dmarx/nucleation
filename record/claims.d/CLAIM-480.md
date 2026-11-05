@@ -264,3 +264,11 @@ The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026
 **Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), LIT-tmpairr7, support the claim by analogy. Tethering a tile to a template eliminates its translational freedom, and what remains at the boundary is a new effective coupling. The tethered horizontal sticky ends sit at about 0.8 mM instead of about 1 nM, which raises their melting from about −5 °C to about 18 °C. The paper does not frame it as elimination of an interior, and nothing here is a constraint of a new kind.
 
 No status changes.
+
+## Note of 2026-11-05: A's second synthesis on DNA origami
+
+From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
+
+A gives the claim a case from assembly. Counting incorporated staple domains, n(x) = Σ x_i, "seems like a reasonable progress measure", yet the arrangement η of what is bound decides what can still fold. So, A argues, the count alone may not be a sufficient Markov state, and "It is the coarse description that may acquire memory." DeLuca et al.'s run that was best folded at 1 s and second worst at 3.6 s (NOTE-1561) is the instance. Majikes et al. 2021 (NOTE-tmpetbc9) add one at the level of a single fold: a reporter that "cannot distinguish between the blocked state and a scaffold without a staple". A's organizational counterpart is two organizations with 80 % of their staff trained, one with a coherent core and one without. A flags it as "a hypothesis about organizations, not an empirical conclusion derived from DNA origami".
+
+No status changes.

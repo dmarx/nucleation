@@ -51,6 +51,7 @@ summary: >-
   telling apart and becoming. The construction is A's; the boundary
   formulas and checks are the assistant's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpvdu02 — Proposed; A's committor study, cited from the note on A's second synthesis -->
 <!-- inactive-ok-file: CLAIM-574 — Proposed or Skimmed; cited from the further DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CLAIM-tmp7y162 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
 <!-- inactive-ok-file: CLAIM-574 CLAIM-581 CLAIM-557 CASE-199 CASE-206 — Proposed; entries of this pull request, cited as open -->
@@ -149,5 +150,13 @@ The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026
 - It also splits well-folded designs by mobility.
 
 This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
+
+No status changes.
+
+## Note of 2026-11-05: A's second synthesis on DNA origami
+
+From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
+
+A's second synthesis adds a progress observer to the claim's picture. The count of bound domains identifies partial structures whose futures differ, "Being further along according to an ordinary progress metric does not guarantee being closer to a successfully completed organization", so such an observer's classes lie outside the claim's up-set whenever the structures are not mutually reachable. A's committor q(s) = Pr_s(τ_F < τ_K) is the quantity that would separate them (CASE-tmpvdu02).
 
 No status changes.
