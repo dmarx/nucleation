@@ -51,7 +51,7 @@ follow.
   origami replacing labels and missing staples from a pool of strands in
   solution, and keeping 76 % intact over 11 days in serum against 12 %. The
   parts all come from outside, and the repair stops being specific at high
-  damage rates (CLAIM-tmps9wa1).
+  damage rates ([CLAIM-tmps9wa1](../claims.d/CLAIM-tmps9wa1.md)).
 - **Replication without regeneration.** Ni et al. ([NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)) copy
   tile patterns from supplied tiles under an imposed thermal program, and
   nothing replaces a damaged copy.

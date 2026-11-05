@@ -29,7 +29,7 @@ bears_on:
 - QUESTION-090
 summary: >-
   The assistant's, on the owner's invitation of 2026-11-05 to add readings
-  and claims to the DNA origami filing. A's QUESTION-tmpdbsh1 asks when a
+  and claims to the DNA origami filing. A's [QUESTION-tmpdbsh1](../questions.d/QUESTION-tmpdbsh1.md) asks when a
   partial organization becomes independent of the intervention that
   established it. Two readings separate formation from upkeep.
   Scheckenbach et al. 2021: folded origami regenerates from a pool of
@@ -42,7 +42,7 @@ summary: >-
   damage at d and supplied repair at ρs, the intact fraction is
   ρs/(ρs + d). Holding a share θ needs ρs = d·θ/(1 − θ), 9d for 90 % and 99d
   for 99 %, and withdrawal returns decay at the damage rate. Such
-  regeneration is not closure: the turnover CLAIM-516 excludes, basal
+  regeneration is not closure: the turnover [CLAIM-516](CLAIM-516.md) excludes, basal
   external production, is exactly what these systems run on. The wording
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
@@ -65,7 +65,7 @@ is the concentration of a supply that comes entirely from outside. Then
    θ = 0.99, so it grows without bound as θ → 1.
 2. **Withdrawal returns decay.** With s = 0 after time 0, I(t) = I* e^{−dt}.
    From 0.833 that is 0.682 at t = 1, 0.307 at t = 5 and 0.113 at t = 10. In
-   A's measure (QUESTION-tmpdbsh1), the drop on withdrawal D never falls to
+   A's measure ([QUESTION-tmpdbsh1](../questions.d/QUESTION-tmpdbsh1.md)), the drop on withdrawal D never falls to
    zero for upkeep, however mature the structure.
 3. **Formation and upkeep can come apart.** A population can become
    independent of what founded it, as when the composition replication
@@ -89,12 +89,12 @@ is the concentration of a supply that comes entirely from outside. Then
 
 ## What it adds
 
-- **To CLAIM-566.** Regeneration in DNA origami is real, and so is
+- **To [CLAIM-566](CLAIM-566.md).** Regeneration in DNA origami is real, and so is
   replication, but both are bought from outside, which is the claim's
   "without producing the constraints that would regenerate it". This
   corrects the filing's earlier statement that nothing in the origami read
   here repairs itself.
-- **To CLAIM-516.** CLAIM-516 sets aside basal external production, and these
+- **To [CLAIM-516](CLAIM-516.md).** [CLAIM-516](CLAIM-516.md) sets aside basal external production, and these
   systems persist under turnover only by it.
 - **To readiness.** A capacity kept by standing supply has a cost that rises
   steeply with the share kept and with the damage rate. Like a reserve,
@@ -106,4 +106,4 @@ is the concentration of a supply that comes entirely from outside. Then
   limit at high damage rates involves non-specific protection by any DNA,
   which the model leaves out.
 - **That no DNA system can make its own parts.** Such a system would fall
-  outside the claim and would bear on QUESTION-tmpesr9t.
+  outside the claim and would bear on [QUESTION-tmpesr9t](../questions.d/QUESTION-tmpesr9t.md).
