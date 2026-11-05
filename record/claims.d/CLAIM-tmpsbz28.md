@@ -18,8 +18,8 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
-- distributed-agency
 rests_on:
 - CLAIM-347
 grounds:

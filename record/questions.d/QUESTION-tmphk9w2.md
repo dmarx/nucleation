@@ -8,6 +8,7 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures

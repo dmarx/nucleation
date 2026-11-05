@@ -17,7 +17,7 @@ tags:
 - society-and-governance
 date: '2026-11-04'
 line:
-- distributed-agency
+- readiness
 - formal-apparatus
 grounds:
 - CASE-tmpt6fm7

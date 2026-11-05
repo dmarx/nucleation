@@ -21,7 +21,7 @@ tags:
 - agency
 date: '2026-11-05'
 line:
-- will-organization
+- realizability
 - formal-apparatus
 complements:
 - CLAIM-354

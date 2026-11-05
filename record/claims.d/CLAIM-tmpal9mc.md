@@ -19,8 +19,8 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- distributed-agency
-- formal-apparatus
+- realizability
+- readiness
 grounds:
 - THEORY-tmps6lqg
 - THEORY-tmppn4nt

@@ -8,6 +8,7 @@ tags:
 - self-governance
 date: '2026-11-05'
 line:
+- realizability
 - distributed-agency
 summary: >-
   The assistant's own question, offered at the owner's invitation on

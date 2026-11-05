@@ -17,7 +17,7 @@ tags:
 - society-and-governance
 date: '2026-11-05'
 line:
-- distributed-agency
+- readiness
 complements:
 - CLAIM-tmp675a9
 - CLAIM-tmpuxuo4

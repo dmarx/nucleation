@@ -24,8 +24,7 @@ tags:
 - philosophy-of-science
 date: '2026-11-05'
 line:
-- formal-apparatus
-- distributed-agency
+- realizability
 grounds:
 - THEORY-tmp34oop
 - THEORY-tmpmcxbv

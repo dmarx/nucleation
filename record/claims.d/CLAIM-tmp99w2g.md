@@ -21,6 +21,7 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 line:
+- realizability
 - distributed-agency
 grounds:
 - THEORY-tmpivh27

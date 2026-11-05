@@ -19,7 +19,7 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- distributed-agency
+- realizability
 grounds:
 - THEORY-tmpq2qdv
 - THEORY-tmp278tq

@@ -18,7 +18,8 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
-- distributed-agency
+- readiness
+- realizability
 - formal-apparatus
 grounds:
 - THEORY-tmps6lqg

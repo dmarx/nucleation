@@ -8,7 +8,7 @@ tags:
 - agency
 date: '2026-11-04'
 line:
-- will-organization
+- readiness
 summary: >-
   Filed at the owner's request on 2026-11-04, to account for an idea the
   readings of the pasted bibliography on emergency readiness surfaced and

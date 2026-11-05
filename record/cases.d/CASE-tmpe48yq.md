@@ -10,8 +10,8 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
-- distributed-agency
-- formal-apparatus
+- realizability
+- readiness
 illustrates:
 - CLAIM-tmpbi4ca
 - CLAIM-tmp9jvpb

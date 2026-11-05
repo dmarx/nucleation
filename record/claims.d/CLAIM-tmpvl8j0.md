@@ -21,7 +21,7 @@ tags:
 - society-and-governance
 date: '2026-11-05'
 line:
-- distributed-agency
+- realizability
 rests_on:
 - CLAIM-347
 - CLAIM-538

@@ -8,8 +8,7 @@ tags:
 - philosophy-of-science
 date: '2026-11-05'
 line:
-- formal-apparatus
-- distributed-agency
+- realizability
 summary: >-
   A's question, from the pasted synthesis on resource-bounded realizability
   (three responses, pasted by the owner on 2026-11-05, continuing the

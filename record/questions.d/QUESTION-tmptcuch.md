@@ -8,7 +8,7 @@ tags:
 - philosophy-of-science
 date: '2026-11-05'
 line:
-- formal-apparatus
+- realizability
 summary: >-
   A's question, from the owner's paste of 2026-11-05 (latest), A's
   "Yoneda, individuation, and resource-bounded objects" §§4, 5, 7 and 9,

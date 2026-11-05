@@ -8,7 +8,8 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- distributed-agency
+- readiness
+- realizability
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency

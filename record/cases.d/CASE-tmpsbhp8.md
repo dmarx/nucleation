@@ -10,7 +10,7 @@ tags:
 - society-and-governance
 date: '2026-11-05'
 line:
-- distributed-agency
+- realizability
 illustrates:
 - CLAIM-tmpuxuo4
 summary: >-

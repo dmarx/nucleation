@@ -8,7 +8,7 @@ tags:
 - society-and-governance
 date: '2026-11-05'
 line:
-- distributed-agency
+- readiness
 refines:
 - TERM-tmp46hcg
 summary: >-

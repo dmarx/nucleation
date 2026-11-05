@@ -17,7 +17,7 @@ tags:
 - probabilistic-modeling
 date: '2026-11-04'
 line:
-- distributed-agency
+- readiness
 complements:
 - CLAIM-422
 - CLAIM-347

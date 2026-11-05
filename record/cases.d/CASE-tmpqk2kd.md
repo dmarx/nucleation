@@ -9,7 +9,7 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- distributed-agency
+- readiness
 illustrates:
 - CLAIM-296
 summary: >-

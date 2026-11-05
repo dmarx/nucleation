@@ -8,8 +8,7 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
-- formal-apparatus
-- distributed-agency
+- realizability
 refines:
 - QUESTION-283
 summary: >-

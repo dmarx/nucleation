@@ -20,8 +20,8 @@ tags:
 - operations-research
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
-- distributed-agency
 rests_on:
 - CLAIM-tmpuxuo4
 - CLAIM-tmpbi4ca

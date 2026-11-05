@@ -22,8 +22,7 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
-- formal-apparatus
-- distributed-agency
+- realizability
 rests_on:
 - CLAIM-tmpsbz28
 complements:

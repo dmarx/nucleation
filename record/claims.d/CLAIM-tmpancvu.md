@@ -18,7 +18,8 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- distributed-agency
+- readiness
+- realizability
 rests_on:
 - CLAIM-tmpbi4ca
 uses:

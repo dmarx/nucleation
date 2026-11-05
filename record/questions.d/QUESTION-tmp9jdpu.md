@@ -8,6 +8,7 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
 summary: >-
   A's question, from the owner's paste of 2026-11-05 (latest), A's

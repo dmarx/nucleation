@@ -9,7 +9,7 @@ tags:
 - society-and-governance
 date: '2026-11-04'
 line:
-- distributed-agency
+- readiness
 bears_on:
 - QUESTION-tmpw46vw
 - QUESTION-tmpmtvei

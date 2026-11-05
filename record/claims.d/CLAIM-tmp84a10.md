@@ -19,6 +19,7 @@ tags:
 - logic
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
 grounds:
 - THEORY-tmpmcxbv

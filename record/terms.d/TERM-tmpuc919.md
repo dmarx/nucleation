@@ -8,7 +8,7 @@ tags:
 - causality
 date: '2026-11-04'
 line:
-- distributed-agency
+- readiness
 complements:
 - TERM-055
 summary: >-

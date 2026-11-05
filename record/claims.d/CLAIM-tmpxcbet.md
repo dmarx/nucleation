@@ -22,6 +22,7 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
 rests_on:
 - CLAIM-tmpbi4ca

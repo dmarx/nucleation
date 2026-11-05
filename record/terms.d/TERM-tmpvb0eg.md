@@ -8,7 +8,7 @@ tags:
 - epistemology
 date: '2026-11-05'
 line:
-- formal-apparatus
+- realizability
 complements:
 - TERM-tmpr3hl8
 summary: >-

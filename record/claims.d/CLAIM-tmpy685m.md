@@ -17,6 +17,7 @@ tags:
 - control-theory
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
 grounds:
 - THEORY-tmpykyk4

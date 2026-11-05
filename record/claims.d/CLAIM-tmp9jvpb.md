@@ -19,7 +19,8 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 line:
-- distributed-agency
+- realizability
+- readiness
 - formal-apparatus
 grounds:
 - THEORY-tmps6lqg

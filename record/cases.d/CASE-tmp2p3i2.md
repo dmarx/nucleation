@@ -10,8 +10,7 @@ tags:
 - individuation
 date: '2026-11-05'
 line:
-- formal-apparatus
-- distributed-agency
+- realizability
 variant_of:
 - CASE-179
 summary: >-

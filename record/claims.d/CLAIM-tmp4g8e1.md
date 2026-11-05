@@ -19,7 +19,7 @@ tags:
 - society-and-governance
 date: '2026-11-04'
 line:
-- will-organization
+- readiness
 grounds:
 - THEORY-tmpsm9h9
 - THEORY-tmpkplf4

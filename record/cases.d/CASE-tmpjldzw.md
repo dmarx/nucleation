@@ -9,7 +9,7 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
-- distributed-agency
+- realizability
 illustrates:
 - CLAIM-tmpbi4ca
 reported_in:

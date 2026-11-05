@@ -8,7 +8,7 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
-- distributed-agency
+- realizability
 summary: >-
   The assistant's own question, filed on 2026-11-05 at the owner's
   invitation to contribute, following [CLAIM-tmp42yq0](../claims.d/CLAIM-tmp42yq0.md): budgeted individuation

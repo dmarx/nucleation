@@ -18,8 +18,8 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
-- distributed-agency
 grounds:
 - THEORY-tmp8atfa
 - CASE-tmpsbhp8

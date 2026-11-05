@@ -8,8 +8,7 @@ tags:
 - operations-research
 date: '2026-11-05'
 line:
-- formal-apparatus
-- distributed-agency
+- realizability
 complements:
 - TERM-tmp26wo4
 summary: >-

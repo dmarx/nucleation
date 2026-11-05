@@ -10,7 +10,7 @@ tags:
 - complex-systems
 date: '2026-11-05'
 line:
-- formal-apparatus
+- realizability
 illustrates:
 - CLAIM-tmpxcbet
 - CLAIM-tmpq06t8

@@ -9,7 +9,7 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 line:
-- distributed-agency
+- realizability
 illustrates:
 - CLAIM-345
 summary: >-

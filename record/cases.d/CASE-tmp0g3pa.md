@@ -10,7 +10,7 @@ tags:
 - mathematics
 date: '2026-11-05'
 line:
-- distributed-agency
+- readiness
 illustrates:
 - CLAIM-tmpbi4ca
 summary: >-

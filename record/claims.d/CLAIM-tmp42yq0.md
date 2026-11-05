@@ -19,7 +19,7 @@ tags:
 - epistemology
 date: '2026-11-05'
 line:
-- distributed-agency
+- realizability
 - formal-apparatus
 rests_on:
 - CLAIM-tmpg7w69

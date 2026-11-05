@@ -10,7 +10,7 @@ tags:
 - causality
 date: '2026-11-04'
 line:
-- distributed-agency
+- readiness
 illustrates:
 - CLAIM-414
 summary: >-

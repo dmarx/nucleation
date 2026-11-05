@@ -8,7 +8,7 @@ tags:
 - philosophy-of-science
 date: '2026-11-05'
 line:
-- formal-apparatus
+- realizability
 summary: >-
   A's proposal, from the pasted synthesis on resource-bounded realizability
   (three responses, pasted by the owner on 2026-11-05, continuing the

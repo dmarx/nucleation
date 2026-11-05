@@ -7,6 +7,7 @@ tags:
 - logic
 date: '2026-11-05'
 line:
+- realizability
 - formal-apparatus
 summary: >-
   A's question, from the pasted synthesis on resource-bounded realizability

@@ -16,7 +16,7 @@ tags:
 - operations-research
 date: '2026-11-05'
 line:
-- distributed-agency
+- readiness
 - formal-apparatus
 rests_on:
 - CLAIM-tmpbi4ca
