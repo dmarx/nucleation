@@ -36,7 +36,7 @@ summary: >-
   The assistant's, after the owner read Haushofer and Fehr's finding,
   that deprivation produces short-sighted choices, as decision-making
   under a resource constraint: "deprivation induces added time pressure
-  to the decision making process." In TERM-105's terms a savings buffer
+  to the decision making process." In [TERM-105](../terms.d/TERM-105.md)'s terms a savings buffer
   is a replenishable reserve, and its depth sets a deadline: how many bad
   seasons the household can absorb before ruin. A toy shows the
   consequence. Savings move +1 or −1 each period, and the household can
@@ -84,7 +84,7 @@ number.
 3. **Deprivation changes which objective binds.** Survival needs a deeper
    buffer than expected wealth. At L = 16 and w = 8, investing raises
    expected wealth from 8.15 to 10.30 and lowers survival from 0.846 to
-   0.835. This is CLAIM-595's distinction between eventual success and
+   0.835. This is [CLAIM-595](CLAIM-595.md)'s distinction between eventual success and
    success by a deadline, in a household. Near ruin, success by the
    deadline is what counts, and the policy that maximizes it is
    short-horizon.
@@ -97,24 +97,24 @@ number.
 ## What it adds
 
 - **To the owner's reading.** Deprivation adds time pressure in a
-  precise sense: a shallow buffer is a short deadline, in TERM-105's
+  precise sense: a shallow buffer is a short deadline, in [TERM-105](../terms.d/TERM-105.md)'s
   terms a replenishable reserve whose depth bounds how long any path may
   run at a loss. Behaviour that looks like impatience is what the deadline
   calls for.
-- **To Haushofer and Fehr** (NOTE-tmpv5r2w). Their causal chain runs from
+- **To Haushofer and Fehr** ([NOTE-tmpv5r2w](../notes.d/NOTE-tmpv5r2w.md)). Their causal chain runs from
   poverty, through stress and negative affect, to short-sighted choices.
   This gives a second route to the same choices that needs no change in
   psychology, only a short horizon. The two are not exclusive, and the
   model does not say which dominates.
-- **To Balboni et al.** (NOTE-tmp6tzyt). A buffer threshold that rises
+- **To Balboni et al.** ([NOTE-tmp6tzyt](../notes.d/NOTE-tmp6tzyt.md)). A buffer threshold that rises
   with an investment's delay is one way an asset threshold can arise
   without differences in ability or preference. Their finding that
   households above the threshold cut consumption at year 2, in order to
   invest, fits a household that can afford the exposure.
-- **To graduation programmes** (NOTE-tmpl3nvb). Their months of
+- **To graduation programmes** ([NOTE-tmpl3nvb](../notes.d/NOTE-tmpl3nvb.md)). Their months of
   consumption support cover needs while the transferred asset starts
   paying. On this model that is the component that buys the time.
-- **To CLAIM-tmpc3x0c.** Support can be large enough in total and still
+- **To [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md).** Support can be large enough in total and still
   fail if it leaves the household exposed through the delay. The
   condition on size is also a condition on timing.
 
