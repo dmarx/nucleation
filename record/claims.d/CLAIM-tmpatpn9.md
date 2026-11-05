@@ -34,9 +34,9 @@ bears_on:
 summary: >-
   A's construction, from A's reading of this pull request on 2026-11-05,
   made exact by the assistant. Let O_o be indistinguishability under the
-  probes affordable at observing budget o, finer as o grows (CLAIM-tmpg7w69),
+  probes affordable at observing budget o, finer as o grows ([CLAIM-tmpg7w69](CLAIM-tmpg7w69.md)),
   and A_a mutual reachability within acting budget a under peak costs,
-  coarser as a grows (CLAIM-tmpq06t8). The pairs (o, a) with O_o ⊆ A_a,
+  coarser as a grows ([CLAIM-tmpq06t8](CLAIM-tmpq06t8.md)). The pairs (o, a) with O_o ⊆ A_a,
   where everything an observer cannot tell apart the system can turn into
   one another, form a set closed upward in both budgets; the pairs with
   A_a ⊆ O_o form a set closed downward; on both, O_o = A_a. The boundaries
@@ -56,10 +56,10 @@ summary: >-
 
 Fix the states of one system. For an observing budget o, let O_o be the
 relation "no probe costing at most o tells them apart"; with nested probe
-families, o ≤ o′ gives O_o′ ⊆ O_o (CLAIM-tmpg7w69). For an acting budget a,
+families, o ≤ o′ gives O_o′ ⊆ O_o ([CLAIM-tmpg7w69](CLAIM-tmpg7w69.md)). For an acting budget a,
 let A_a be mutual reachability within a under peak costs; with reversible
 moves, or with mutual reachability taken both ways, a ≤ a′ gives
-A_a ⊆ A_a′ (CLAIM-tmpq06t8). Both are equivalence relations. Define
+A_a ⊆ A_a′ ([CLAIM-tmpq06t8](CLAIM-tmpq06t8.md)). Both are equivalence relations. Define
 
   S = {(o, a) : O_o ⊆ A_a},  T = {(o, a) : A_a ⊆ O_o}.
 
@@ -83,7 +83,7 @@ with the definitions at every grid point.
 
 ## The worked case
 
-On CASE-tmp0d5si's states with A's one-way costs read as peak costs, the
+On [CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md)'s states with A's one-way costs read as peak costs, the
 three states become mutually reachable only at a = 3. With two probes of
 the assistant's choosing, "flat or folded" at cost 1 and "which side" at
 cost 2:
@@ -102,14 +102,14 @@ L from R.
 
 ## What it adds
 
-- **A computable invariant of two-budget individuation.** CLAIM-tmp42yq0
+- **A computable invariant of two-budget individuation.** [CLAIM-tmp42yq0](CLAIM-tmp42yq0.md)
   says the outside and inside partitions move in opposite directions; this
   gives the two boundaries at which one contains the other, and the region
   where they coincide, as numbers to compare across systems.
 - **An allocation problem.** Where observing and acting share one budget,
   o + a ≤ B, the boundaries say what each split buys: enough acting budget
   to make every indistinguishable pair reachable, or little enough that
-  everything reachable stays indistinguishable. QUESTION-tmp3icc7 asks
+  everything reachable stays indistinguishable. [QUESTION-tmp3icc7](../questions.d/QUESTION-tmp3icc7.md) asks
   where that trade bites.
 
 ## What it does not say
@@ -119,6 +119,6 @@ L from R.
   for a similarity.
 - It says nothing about whether either partition constitutes the system's
   identity; that stays with the distinction between identification and
-  constitution (CLAIM-150, QUESTION-284).
+  constitution ([CLAIM-150](CLAIM-150.md), [QUESTION-284](../questions.d/QUESTION-284.md)).
 - It has not been computed on the degree-4 vertex, which needs a probe
   model for fold states first.

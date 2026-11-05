@@ -91,7 +91,7 @@ max; under addition, budgeted identification at b = 1 was intransitive in
 
 The identity here costs nothing: d(x, x) = 0 says only that staying put
 needs no move. It says nothing about what it costs to occupy or maintain x,
-which is CLAIM-tmpbi4ca's holding requirement r(x) and TERM-tmp2ysyt's
+which is [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s holding requirement r(x) and [TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)'s
 endpoint cost. A state can be identical to itself in this category and
 unaffordable to sustain; the two are kept apart, and the merge tree above
 is of reachability among states, not of their upkeep.

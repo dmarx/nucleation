@@ -58,12 +58,12 @@ and acting draw on one budget, with the trade measured.
 ## Note of 2026-11-05: the two frontiers, a partial answer
 
 A, reading this pull request, proposed comparing the outside and inside
-partitions by inclusion. CLAIM-tmpatpn9 makes that exact: the budget pairs
+partitions by inclusion. [CLAIM-tmpatpn9](../claims.d/CLAIM-tmpatpn9.md) makes that exact: the budget pairs
 at which everything indistinguishable is mutually reachable form an up-set,
 those at which everything mutually reachable is indistinguishable a
 down-set, the partitions agree on their intersection, and both boundaries
 have closed forms (the largest peak distance within an observational class;
-the least budget separating two mutually reachable states). CASE-tmp0d5si
+the least budget separating two mutually reachable states). [CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md)
 computes them. This answers the computation part of the question for
 finite systems under peak costs. The structure of the whole two-budget
 family, the degree-4 vertex (which needs a probe model for fold states),

@@ -122,7 +122,7 @@ the budget pairs at which everything indistinguishable is mutually
 reachable are those with o ≥ 2 or a ≥ 3, and those at which everything
 mutually reachable is indistinguishable are those with o < 1 or a < 3; the
 partitions coincide below o = 1 with a ≥ 3 and from o = 2 with a < 3.
-CLAIM-tmpatpn9 states and proves the general form.
+[CLAIM-tmpatpn9](../claims.d/CLAIM-tmpatpn9.md) states and proves the general form.
 
 ## What it can show
 
