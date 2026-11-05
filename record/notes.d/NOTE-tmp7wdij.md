@@ -1,0 +1,189 @@
+---
+status: Read
+paper: 'LIT-tmprldni'
+title: 'Zang et al. — Prestress-controlled frustration in Kresling origami assemblies'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the full-text JATS XML of the version of
+    record in Europe PMC (PMC12435273, CC BY-NC-ND 4.0),
+    https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12435273/fullTextXML,
+    converted to plain text. Read in full: the Significance statement, the
+    abstract, the introduction, Results (Theory of Geometrical Frustration,
+    with its three prestress models and the parametric study; Experimental
+    Study on Unit Cells; Experimental Study on Assemblies; Scope of
+    Frustration), Discussion, Materials and Methods, and all figure
+    captions. Not read: the SI Appendix (including the nonlinear-spring
+    extension) and the movies, which are not in the XML. The XML has no page
+    numbers, so results are located by the paper's section headings.
+date: '2026-11-05'
+summary: >-
+  Springs that prestress a Kresling origami cell axially, torsionally or
+  along its mountain creases ("geometrical frustration", global or
+  crease-level) give it a nonzero base energy, tune its energy barrier
+  continuously and can switch it from bistable to monostable. In a
+  three-cell stack (8 stable states, 56 ordered transitions; 16 need
+  intermediate states, 8 are blocked by the ordering of the barriers, 32
+  are feasible) reordering the barriers in place makes the 8 blocked
+  transitions feasible. Frustration also makes the stack's history
+  dependence under twist programmable. The frustration is prestress
+  supplied from outside, controlled by springs and handles.
+---
+<!-- inactive-ok-file: THEORY-tmppn4nt — Proposed or new; cited from the reading of Zang et al. (2025) as open -->
+
+# NOTE-tmp7wdij: Zang et al. — Prestress-controlled frustration in Kresling origami assemblies
+
+## Contribution
+
+- An energy model, U_fru = U_spr + U, for a Kresling cell carrying spring
+  elements of three kinds: axial (global stretch), torsional (global
+  rotation), and springs along the mountain creases (crease, or local,
+  stretch).
+- Experiments on prototypes of all three, showing that each kind of
+  prestress tunes the cell's energy barrier continuously.
+- In assemblies, programmable folding sequences, obtained by reordering the
+  cells' barriers in place rather than by fabricating different cells.
+
+## Key insight
+
+A multistable cell's energy landscape need not be fixed at fabrication. A
+controllable prestress shifts the landscape: the first stable state moves
+to a state "with nonzero base energy" (Results, Theory of Geometrical
+Frustration), and the barrier moves with it. In an assembly, the order of
+the cells' barriers decides which transitions are possible, so a handle on
+each barrier is a handle on the folding sequence.
+
+## Assumptions
+
+- A five-term bar-and-hinge energy in two variables, displacement u and
+  twist φ; linear springs in the main analysis (nonlinear springs in the SI,
+  not read).
+- Equilibrium by minimum total potential energy, under quasi-static
+  loading with four boundary conditions (axial or torsional loading, each
+  with a constrained or a free fixture).
+- A spring that returns to its rest length is taken to drop out of the
+  energy; the authors mark this as an assumption.
+
+## Key results
+
+- **The problem (Abstract).** "standard Kresling origami cells exhibit
+  nontunable intrinsic energy landscapes determined by their geometry and
+  material properties, limiting their adaptability after fabrication."
+- **The remedy (Abstract).** "we induce either global or localized (i.e.,
+  crease level) frustration, which allows changing the energy barrier
+  (cell or assembly)."
+- **Stability switched (Results, Parametric study).** "by controlling the
+  level of prestress in the negative mode, we can switch the instability
+  behavior from bistable to monostable".
+- **The standard stack (Experimental Study on Assemblies).** "In theory,
+  fifty-six folding paths connect any two stable states. In practice,
+  sixteen out of fifty-six folding paths are unachievable without
+  transiting through other stable states". Eight more are infeasible
+  because of the ordering of the cells' intrinsic barriers: "As a result,
+  only thirty-two out of fifty-six folding paths are feasible". Eight
+  feasible paths were checked experimentally.
+- **The frustrated stack (same section).** Prestressing "enables the eight
+  previously infeasible folding paths of Fig. 4C to be achieved as feasible
+  folding paths in Fig. 5B." Four of them (paths ①–④) are shown by
+  experiment. The sixteen that need intermediate states are not among
+  them.
+- **In place, not by redesign.** Different cells could open the same paths,
+  but "this discrete approach inevitably introduces new infeasible folding
+  paths and does not support in-situ reconfiguration."
+- **History dependence (Scope of Frustration, Fig. 6B).** A
+  counterclockwise-then-clockwise twist and the reverse order, with zero
+  net twist, leave the stack in different end states. Frustration changes
+  which end states these are: a "programmable (frustration-dependent)
+  noncommutative state transition".
+- **Theory against experiment (Experimental Study on Unit Cells).** "This
+  discrepancy is caused by the panel buckling at initial loading with
+  activated frustration".
+
+## Concepts
+
+- **Geometrical frustration, as the authors use it**: prestress built into
+  an origami cell by spring elements, pushing it into a new equilibrium
+  with nonzero base energy. They cite the term (their ref. 41) and do not
+  define it further. It is applied from outside and set by a handle; it is
+  not an incompatibility inside the crease pattern.
+- **Positive / negative prestress**: prestress that deforms the cell in the
+  folding direction, or in the deploying direction.
+- **Energy barrier**: "the difference between the local maximum on the
+  landscape and the initial base energy."
+- **Unachievable / infeasible path**: unachievable when a transition cannot
+  be made without passing through intermediate stable states; infeasible
+  when the ordering of the cells' intrinsic barriers forbids it.
+
+## Connections
+
+It builds on the Paulino group's bar-and-hinge models of Kresling origami
+and on work on multistable origami assemblies. The neighbouring works in
+the same filing are the square-twist study of Silverberg et al. (2015),
+LIT-tmptep4g, where a stiffness ratio tunes a cell between mono- and
+bistability from inside the structure, and Stern, Pinson and Murugan
+(2017), LIT-tmpjjho1, where frustration is a property of loops of
+vertices in the crease pattern.
+
+## Bearing on the record
+
+- **The pasted synthesis on constraint architectures.** It cites this as
+  O6. Its sentences "Changing the frustration altered energy barriers,
+  localized or global deformation modes, and the sequence in which elements
+  folded" and "Some folding paths that were previously inaccessible became
+  available" are A's paraphrase, not the paper's words. The barriers and
+  the folding sequence are right. "Localized or global" is misplaced: in the
+  paper it says where the prestress sits (at the crease, or across the
+  whole cell), not what kind of deformation mode results. "Previously
+  inaccessible" means 8 of 56 transitions, those blocked by the ordering of
+  the barriers; the 16 that need intermediate states stay unachievable.
+  "Adjustable prestress in Kresling assemblies" is right. A leaves out the
+  switch between bistable and monostable, the programmable history
+  dependence, and the authors' point that redesigning cells creates new
+  infeasible paths while tuning in place does not.
+- **TERM-060 (frustration of an organization's demands).** The term covers
+  both structural frustration (no admissible transformation meets all the
+  demands) and frustration by governance (one exists and is not
+  selected); A's gloss of it as "structural frustration" names only the
+  first. Zang et al.'s frustration is neither. It is prestress applied
+  from outside, stored elastic energy, the energetic sense TERM-060
+  excludes when it sets itself apart from Watson's total frustration and
+  from CLAIM-153's XY energy. So this paper is a clean case of the
+  energetic side of A's contrast: Nucleation's frustration is "an ordinal
+  fact", mechanical frustration is stress or energy, and the two are "not
+  interchangeable". That contrast matches TERM-060.
+- **CLAIM-347 (frustration is ordinal; relief is strict enlargement).**
+  Qualifies. If the 56 ordered transitions are read as demands and
+  feasibility as acceptance, prestress tuning is relief by enlarging the
+  set of feasible transitions, in place, with no demand removed. That fits
+  CLAIM-347's "relief is strict enlargement" and CASE-119's enlargement of
+  the attainable set. But it is the record's construction laid onto the
+  paper, which does not offer it, and the frustration that does the
+  enlarging is energetic, not ordinal.
+- **CLAIM-025 (operative regime, governing organization, capacity to
+  transform it).** Supports, by analogy. The stable states play the part of
+  regimes, the ordering of the barriers the governing organization among
+  them, and the springs and handle the capacity to transform it. The
+  paper's contrast between tuning in place and refabricating cells is a
+  physical case of changing the governing organization without rebuilding
+  the regimes.
+- **CLAIM-459 and CASE-112 (bistable authority with a tilt).** Related.
+  Prestress tunes a double well from bistable to monostable, as μ and h do
+  in ẇ = μw − w³ + h.
+- **CLAIM-079 (stability does not entail viability).** Weakly related: the
+  cells keep their stable states while which transitions are possible
+  changes.
+- Filed: THEORY-tmppn4nt. No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The authors'.** Theory and experiment disagree on peak force because of
+  panel buckling; the springs are linear in the main analysis.
+- **Small assemblies.** Three cells; eight feasible paths checked
+  experimentally for the standard stack and four for the frustrated one.
+- **Frustration from outside.** The prestress is supplied and adjusted by
+  the designer, so the structure does not set its own constraints.
+- **The SI was not read**, including the nonlinear-spring extension and the
+  energy landscapes computed from the experiments.

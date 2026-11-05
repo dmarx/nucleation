@@ -1,0 +1,104 @@
+---
+status: Active
+status_note: >-
+  main text read in full 2026-11-05 (NOTE-tmpazhb8) from arXiv
+  1910.07090v2, not from the PNAS version of record; worth reading as an
+  exact, constructive count for a quad (rotating-squares) kirigami sheet
+  read as a linkage: the fewest links that rigidify the sheet,
+  ⌈(3L²−3)/2⌉, always exceed the fewest that connect it, L² − 1, and under
+  random links the maximum of internal mechanisms, connectivity
+  percolation and a rigidity transition fall at distinct densities in that
+  order. Its main limits: planar quad kirigami only, infinitesimal
+  rigidity, a rigidity threshold read off a numerical peak, and no
+  physical experiments. The SI, with the proofs, was not read.
+title: 'Deterministic and stochastic control of kirigami topology'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    FACT, rigidity, compliant mechanisms and origami (the pasted synthesis
+    on constraint architectures, written by another assistant, A, in the
+    same exchange as the emergency-readiness bibliography, pasted
+    2026-11-04), which cites it as O7, by title only, with "PNAS 2020" and
+    PMC7060672. Citation checked against Crossref and the arXiv listing:
+    Siheng Chen, Gary P. T. Choi and L. Mahadevan (Harvard; Chen and Choi
+    contributed equally), Proceedings of the National Academy of Sciences
+    117(9), 4511–4517, journal article; DOI 10.1073/pnas.1909164117, PMID
+    32054786, PMCID PMC7060672. A names no authors; the authors are Chen,
+    Choi and Mahadevan. `published:` is the arXiv v1 date, 15 October 2019;
+    Crossref gives online 13 February 2020, print 3 March 2020. Copy: arXiv
+    1910.07090v2 (2 March 2020), PDF, https://arxiv.org/pdf/1910.07090v2,
+    extracted by pdftotext; its journal reference is the PNAS paper. Europe
+    PMC's full-text XML for PMC7060672 returned HTTP 500, and NCBI efetch
+    reported that the publisher does not allow full-text download in XML;
+    the version of record was not read. The SI Appendix was not read.
+tags:
+- mathematics
+- natural-sciences
+- network-science
+date: '2026-11-05'
+published: '2019-10-15'
+arxiv: '1910.07090'
+doi: '10.1073/pnas.1909164117'
+first_author: 'Chen'
+keywords:
+- 'kirigami'
+- 'linkage'
+- 'rigidity'
+- 'connectivity'
+- 'degrees of freedom'
+- 'rigidity percolation'
+- 'connectivity percolation'
+- 'redundant links'
+implementations: []
+summary: >-
+  Chen, Choi & Mahadevan (2020). A quad kirigami sheet of L × L rigid
+  squares is read as a linkage: each uncut hinge is a link pinning two
+  corners, and degrees of freedom (DoF) come from the rank of a rigidity
+  matrix. The fewest links that rigidify the sheet are
+  δ(L) = ⌈(3L²−3)/2⌉ and the fewest that connect it γ(L) = L² − 1, both
+  proved by hierarchical construction; so no minimal rigidifying pattern
+  is a minimal connecting one, and random choice almost never finds
+  either. With links placed at random at density ρ, the maximum of
+  internal DoF, connectivity percolation (ρ_c ≈ 1 − 1/√2) and a rigidity
+  transition (ρ_r ≈ 0.43) fall in the order ρ_i < ρ_c < ρ_r, and each
+  added link changes the total DoF, changes the internal DoF, or is
+  redundant.
+---
+<!-- inactive-ok-file: THEORY-tmp278tq — Proposed or new; cited from the reading of Chen, Choi & Mahadevan (2020) as open -->
+
+# LIT-tmpge2xj: Deterministic and stochastic control of kirigami topology
+
+Chen, S., Choi, G. P. T. & Mahadevan, L. (2020). Deterministic and stochastic control of kirigami topology. *Proceedings of the National Academy of Sciences* 117(9): 4511–4517. doi:10.1073/pnas.1909164117. arXiv:1910.07090.
+
+## Key takeaways
+
+*From the reading of arXiv v2, NOTE-tmpazhb8.*
+
+- **Rigidifying costs more than connecting.** "This implies that there is
+  no MRP which is also an MCP for L ≥ 2. It also suggests that in general
+  rigidifying a kirigami requires more effort (links) compared to
+  connecting the quads in kirigami."
+- **Exact minima, by construction.** δ(L) = ⌈(3L²−3)/2⌉ (Theorem 1) and
+  "For all positive integer L, γ(L) = L2 − 1." (Theorem 2; L2 is L² in the
+  extracted text).
+- **Placement matters more than count.** For large L it is "almost
+  impossible to" "obtain an MRP (or MCP) by randomly picking" the minimum
+  number of links.
+- **Three thresholds, in order.** "with ρi < ρc < ρr" (Discussion); "the
+  number of internal DoF must be non-monotonic as links are added".
+
+## Standing in the record
+
+The pasted synthesis on constraint architectures cites it as O7, for
+deterministic constructions and statistical models in which cuts and
+remaining connections govern the number of connected components and
+degrees of freedom, with percolation-like transitions. That is right. A
+names no authors; they are Chen, Choi and Mahadevan, and Choi is senior
+author of the follow-up that extends the method to origami, LIT-tmpiean9.
+A misses the exact minimal counts, the ordering of the three thresholds,
+and the non-monotonic internal DoF, which bears on A's question about the
+freedoms that appear where rigid subsystems are coupled. Filed from it:
+THEORY-tmp278tq.
