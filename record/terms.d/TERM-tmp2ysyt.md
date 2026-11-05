@@ -107,7 +107,7 @@ bottleneck budget, the sets of sufficient budgets, and this slack.
 - **Strain** ([TERM-060](TERM-060.md)): a cost of meeting demands that are jointly
   realizable. Reconfiguration slack is a cost on the path, not on the
   target, and lacking it makes a feasible target unreachable, not
-  infeasible, so it is not frustration in TERM-060's structural sense
+  infeasible, so it is not frustration in [TERM-060](TERM-060.md)'s structural sense
   either.
 - **The ratchet** ([TERM-tmpbxjmx](TERM-tmpbxjmx.md)): a rule by which a principal cuts what goes
   unspent. It is one way reconfiguration slack is lost, not the slack.

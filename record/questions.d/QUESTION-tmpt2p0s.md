@@ -13,8 +13,8 @@ summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency
   readiness whose share link could not be fetched), Part 5. The
-  time-scale form is held: CLAIM-478 says a settled relation is a
-  constraint over the window between two time scales, and QUESTION-287,
+  time-scale form is held: [CLAIM-478](../claims.d/CLAIM-478.md) says a settled relation is a
+  constraint over the window between two time scales, and [QUESTION-287](QUESTION-287.md),
   answered, bounds the error of the memoryless reduction in a contracting
   singularly perturbed system. What the record lacks is the energetic
   form. Silverberg et al.'s square twist has no rigid folding motion and

@@ -42,7 +42,7 @@ summary: >-
   implications are immediate and two constructions show neither converse.
   Berry et al., Stern, Pinson and Murugan, Chen and Santangelo, and Hull
   and Tachi give physical instances. It inserts reachability between the
-  structural infeasibility and realized violation that CLAIM-357
+  structural infeasibility and realized violation that [CLAIM-357](CLAIM-357.md)
   separates. The construction is the filer's, from A's two separations;
   adopting it is the owner's call.
 ---
@@ -118,7 +118,7 @@ relative to the declared model of admissible transformations".
   update does not) for a single update. This claim puts reachability
   between them, for processes that move through intermediate states: a
   target can be feasible and unrealized because no path leads to it,
-  which is neither of CLAIM-357's cases. The reading of Hull and Tachi
+  which is neither of [CLAIM-357](CLAIM-357.md)'s cases. The reading of Hull and Tachi
   calls it a third case.
 - **[CLAIM-347](CLAIM-347.md)**'s compatibility complex registers property 1 for sets of
   demands. It does not register 2 or 3: Chen and Santangelo's branches

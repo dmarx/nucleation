@@ -103,4 +103,4 @@ Adopting it is the owner's call.
 
 ## Note of 2026-11-05: slack that is a reconfiguration reserve
 
-TERM-tmp2ysyt refines this term. In CASE-tmp0g3pa the 0.3 a budget leaves unspent is slack against current output and is exactly what makes a transition possible, a use that output alone cannot show. No status changes.
+[TERM-tmp2ysyt](TERM-tmp2ysyt.md) refines this term. In [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md) the 0.3 a budget leaves unspent is slack against current output and is exactly what makes a transition possible, a use that output alone cannot show. No status changes.

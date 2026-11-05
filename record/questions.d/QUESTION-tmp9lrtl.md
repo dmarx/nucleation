@@ -19,8 +19,8 @@ summary: >-
   nearest result: where a seed sits predicts success, and a badly placed
   one locks in a distractor. DeLuca et al.'s precursor shows an early
   structure can be the wrong anchor; the paper does not call it
-  nucleation. Distinct from QUESTION-038, which asks what makes a
-  persistent structure an anchor for an argument, and from QUESTION-090,
+  nucleation. Distinct from [QUESTION-038](QUESTION-038.md), which asks what makes a
+  persistent structure an anchor for an argument, and from [QUESTION-090](QUESTION-090.md),
   on self-maintaining governance. The wording is A's; adopting it is the
   owner's call.
 ---

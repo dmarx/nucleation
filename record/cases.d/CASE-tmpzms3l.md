@@ -24,7 +24,7 @@ summary: >-
   force doubles, so neither design dominates. Hopkins's theses supply the
   fact the construction turns on, that redundant constraints change
   stiffness, load capacity and stability and leave the kinematics alone.
-  An analogue, static, of CLAIM-345's point, which A proposed to extend
+  An analogue, static, of [CLAIM-345](../claims.d/CLAIM-345.md)'s point, which A proposed to extend
   by a dated note rather than a new claim. The construction is the
   filer's, from A's one-degree-of-freedom stage; adopting it is the
   owner's call.
@@ -84,9 +84,9 @@ same kinematics can be realized by designs "differing in stiffness, load capacit
 That equal nominal freedom spaces do not fix precision or effort. A
 proposed this as an extension of [CLAIM-345](../claims.d/CLAIM-345.md): "Equal nominal freedom spaces
 do not entail equal control effort, precision, disturbance rejection, or
-task performance. This should primarily extend existing CLAIM-345 rather
+task performance. This should primarily extend existing [CLAIM-345](../claims.d/CLAIM-345.md) rather
 than duplicate it." The case illustrates that extension by a static
-analogue. CLAIM-345's own result is dynamic, the least quadratic effort
+analogue. [CLAIM-345](../claims.d/CLAIM-345.md)'s own result is dynamic, the least quadratic effort
 set by the Gramian; here the freedom space plays the role of the rank
 and the stiffness matrix the role of the Gramian. A: "the topology of
 permitted transformations and the robustness or cost of actually
@@ -94,7 +94,7 @@ performing those transformations are different properties."
 
 ## What it cannot show
 
-- **Control effort in CLAIM-345's sense.** The model is quasi-static and
+- **Control effort in [CLAIM-345](../claims.d/CLAIM-345.md)'s sense.** The model is quasi-static and
   computes no effort over a horizon.
 - **The costs of redundancy.** A real twin cannot lie exactly on its
   partner's line; misfit under fabrication error loads the stage, a cost

@@ -134,4 +134,4 @@ against the abstract. Adopting it is the owner's call.
 
 ## Note of 2026-11-05: a ratchet that forecloses a transition
 
-In the constructed CASE-tmp0g3pa, any cut on unspent funds or any expiry leaves the next budget below the 1.3 the transition needs; Siemroth's commitment not to cut is what keeps it possible. No status changes.
+In the constructed [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md), any cut on unspent funds or any expiry leaves the next budget below the 1.3 the transition needs; Siemroth's commitment not to cut is what keeps it possible. No status changes.

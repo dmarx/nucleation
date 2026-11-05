@@ -67,4 +67,4 @@ loses competence for a reason other than activity-based allocation.
 
 ## Note of 2026-11-05: a ratchet that forecloses a transition
 
-The constructed CASE-tmp0g3pa gives one mechanism the question asks about: a budget rule that cuts or expires unspent funds can leave an organization able to hold either of two regimes and unable to pay for moving between them. No status changes.
+The constructed [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md) gives one mechanism the question asks about: a budget rule that cuts or expires unspent funds can leave an organization able to hold either of two regimes and unable to pay for moving between them. No status changes.
