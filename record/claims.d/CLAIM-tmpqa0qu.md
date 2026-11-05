@@ -127,12 +127,12 @@ continue is a step from the one-way form toward the reciprocal one.
 Read after the owner said the claim's reciprocal goal reminded them of
 the "gift economy" of Burning Man and adjacent communities.
 
-- **One-way supply costs standing.** Mauss (NOTE-tmpc9mii) names three
+- **One-way supply costs standing.** Mauss ([NOTE-tmpc9mii](../notes.d/NOTE-tmpc9mii.md)) names three
   obligations, to give, to receive and to return. "Le don non rendu rend
   encore inférieur celui qui l'a accepté": the gift not returned still
   makes the one who accepted it inferior. To accept without returning, or
   without returning more, "c'est se subordonner, devenir client et
-  serviteur". Heins, Unrau and Avram (NOTE-tmpujn9m) bring this to aid
+  serviteur". Heins, Unrau and Avram ([NOTE-tmpujn9m](../notes.d/NOTE-tmpujn9m.md)) bring this to aid
   through Dillon's study of the Marshall Plan. The French "felt the
   obligation to repay gifts but did not have the possibility to fulfill
   their obligation and thereby to become accepted as equals". The claim's
@@ -147,7 +147,7 @@ the "gift economy" of Burning Man and adjacent communities.
     reciprocity "circular, not antagonistic" and its returns "indirect and
     delayed".
   - **Generalized.** Burning Man's own statement of its Gifting principle
-    (LIT-tmpp546j, Unavailable, read through St John, NOTE-tmpdk5dq) is
+    ([LIT-tmpp546j](../literature.d/LIT-tmpp546j.md), Unavailable, read through St John, [NOTE-tmpdk5dq](../notes.d/NOTE-tmpdk5dq.md)) is
     that "The value of a gift is unconditional. Gifting does not
     contemplate a return or an exchange for something of equal value." St
     John reads this as Sahlins's "generalized reciprocity", with "an

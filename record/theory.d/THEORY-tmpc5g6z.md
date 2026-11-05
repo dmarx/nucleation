@@ -18,7 +18,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpzg9it
 summary: >-
-  Mauss (1925), LIT-tmpzg9it, skimmed in NOTE-tmpc9mii with the
+  Mauss (1925), [LIT-tmpzg9it](../literature.d/LIT-tmpzg9it.md), skimmed in [NOTE-tmpc9mii](../notes.d/NOTE-tmpc9mii.md) with the
   introduction, chapter I, the Northwest-coast section and the conclusion
   read in full. Proposed: the ethnographic half is Mauss's reading of
   others' fieldwork, and the hau half rests on one informant's text in a
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Mauss (1925), LIT-tmpzg9it; skimmed in NOTE-tmpc9mii, from the 2002
+Mauss (1925), [LIT-tmpzg9it](../literature.d/LIT-tmpzg9it.md); skimmed in [NOTE-tmpc9mii](../notes.d/NOTE-tmpc9mii.md), from the 2002
 Classiques des sciences sociales edition of the 1968 PUF text. Page
 numbers are that PDF's.
 
@@ -67,7 +67,7 @@ hau text that does not say what Mauss draws from it.
   agonistic case the giver's ideal is the gift that cannot be returned
   (n. 2, p. 55).
 - That reciprocity needs lost capability. The Andamanese exchange while
-  self-sufficient in tools (p. 26), which bears against reading CLAIM-tmpqa0qu's
+  self-sufficient in tools (p. 26), which bears against reading [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)'s
   reciprocity as the product of capabilities lost.
 - That generalized reciprocity, giving forward without return to the
   source, is Mauss's model: his circuits pass through third parties but

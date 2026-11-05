@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-05 (NOTE-tmpc9mii; introduction, chapter I, part of
+  skimmed 2026-11-05 ([NOTE-tmpc9mii](../notes.d/NOTE-tmpc9mii.md); introduction, chapter I, part of
   chapter II and the conclusion read in full) from the Classiques des
   sciences sociales digital edition, transcribed from PUF's Sociologie et
   anthropologie (1968); worth reading as the founding statement of the
@@ -83,7 +83,7 @@ Mauss, M. (1925). Essai sur le don. Forme et raison de l'échange dans les soci�
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpc9mii. Page numbers are the 2002 PDF's; quotes are Mauss's French, glossed.*
+*From the reading, [NOTE-tmpc9mii](../notes.d/NOTE-tmpc9mii.md). Page numbers are the 2002 PDF's; quotes are Mauss's French, glossed.*
 
 - **Obligatory gifts.** Exchange takes the form of gifts "en théorie
   volontaires, en réalité obligatoirement faits et rendus" (p. 7):
@@ -108,7 +108,7 @@ Mauss, M. (1925). Essai sur le don. Forme et raison de l'échange dans les soci�
 
 ## Standing in the record
 
-Filed with the gift-economy batch after the owner linked CLAIM-tmpqa0qu to
+Filed with the gift-economy batch after the owner linked [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) to
 the gift economy of Burning Man. Mauss supplies a mechanism the claim
 lacks: in a gift regime one-way supply is not neutral, since accepting
 without return is subordination, so dependency is a matter of rank as well
@@ -116,5 +116,5 @@ as of lost capability. He also qualifies the claim twice: the Andamanese
 exchange gifts while self-sufficient in tools (p. 26), and Mauss keeps
 self-reliance beside the gift rather than replacing it. His account of
 harm from one-way giving runs through status, where Ostrom et al.'s
-Samaritan's dilemma (THEORY-tmph35ra) runs through effort. Filed from it:
-THEORY-tmpc5g6z.
+Samaritan's dilemma ([THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md)) runs through effort. Filed from it:
+[THEORY-tmpc5g6z](../theory.d/THEORY-tmpc5g6z.md).

@@ -228,18 +228,18 @@ St John (2017) reads Burning Man through Hyde's gift that circulates by
 gratitude and sets it against Mauss's gift that binds; Heins, Unrau and
 Avram (2018) introduce Mauss into international studies, standing in for
 Hattori (2001), who applies him to foreign aid; Harvey's statement of
-Burning Man's principles was not reached. In the record, NOTE-1023
-(Lessig, *Remix*) cites Mauss only through Hyde, and NOTE-1078 (Sewell)
+Burning Man's principles was not reached. In the record, [NOTE-1023](NOTE-1023.md)
+(Lessig, *Remix*) cites Mauss only through Hyde, and [NOTE-1078](NOTE-1078.md) (Sewell)
 uses the potlatch and the chief's power as an example of structure.
-THEORY-696 (from LIT-035) gives a benefit of pooling with "no
+[THEORY-696](../theory.d/THEORY-696.md) (from [LIT-035](../literature.d/LIT-035.md)) gives a benefit of pooling with "no
 complementarity, relatedness or reciprocity", a non-reciprocal gain from
-sharing that Mauss's account has no place for. THEORY-505 and LIT-2002
+sharing that Mauss's account has no place for. [THEORY-505](../theory.d/THEORY-505.md) and [LIT-2002](../literature.d/LIT-2002.md)
 bear on reciprocity as a moral domain and on cooperation between groups,
 Mauss's parties being groups.
 
 ## Bearing on the record
 
-- **CLAIM-tmpqa0qu.** Supports the reframing from self-sufficiency to
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md).** Supports the reframing from self-sufficiency to
   reciprocity: the division of labour is bound to obligatory exchange
   (pp. 7, 98). Adds a mechanism the claim lacks: in a gift regime one-way
   supply is not neutral, since to accept without return is "se
@@ -259,35 +259,35 @@ Mauss's parties being groups.
   refusing is already defeat (p. 53); in the agonistic case the giver's
   ideal is precisely the unreturnable gift (n. 2, p. 55). (d) Hattori is
   not addressed here.
-- **CLAIM-tmpoh07b.** None: no capacity built or lost by doing. The
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md).** None: no capacity built or lost by doing. The
   nearest line is tangential: denying the worker his return is "l'inciter à
   la paresse et au moindre rendement" (p. 101).
-- **CLAIM-597.** None.
-- **THEORY-1048 (Black Queen).** Leaves it open. Nothing here is a selected
+- **[CLAIM-597](../claims.d/CLAIM-597.md).** None.
+- **[THEORY-1048](../theory.d/THEORY-1048.md) (Black Queen).** Leaves it open. Nothing here is a selected
   loss of function; the complementary specializations of p. 98 are
   reciprocal, on the interdependence side.
-- **THEORY-1351 (mutual dependence).** A loose social analogue: between
+- **[THEORY-1351](../theory.d/THEORY-1351.md) (mutual dependence).** A loose social analogue: between
   phratries "tout est complémentaire et suppose la collaboration" of the two
   halves (p. 9), and segments "sentent qu'ils se doivent tout" (p. 42),
   feel they owe each other everything, while each stays distinct.
   Interpretive only.
-- **CLAIM-554 (niche differentiation).** Weakly supports its point that
+- **[CLAIM-554](../claims.d/CLAIM-554.md) (niche differentiation).** Weakly supports its point that
   differentiation is not only reduced competition: partners are "rival en
   même temps qu'associé" (p. 10), rival and associate at once, and their
   divided work binds them (p. 98).
-- **QUESTION-277 (routes to dependence).** Adds a social route: accepting
+- **[QUESTION-277](../questions.d/QUESTION-277.md) (routes to dependence).** Adds a social route: accepting
   without return leads to clientage and, at the limit, debt slavery
   (pp. 55, 98). Evidence about societies, not partner genomes; it bears on
   the question without answering it.
-- **QUESTION-398.** None.
-- **THEORY-tmph35ra (Ostrom et al., the Samaritan's dilemma; LIT-tmpnb22c).**
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** None.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al., the Samaritan's dilemma; [LIT-tmpnb22c](../literature.d/LIT-tmpnb22c.md)).**
   Complements it with another mechanism: one-way giving harms through
   status, where Ostrom et al. describe harm through effort. Mauss's remedy,
   insurance to which the worker "doit collaborer" (p. 92), parallels their
   condition that beneficiaries contribute; neither text tests the link.
-  The aid batch's Moore (LIT-tmpsb4vt) and Moss et al. (LIT-tmp4d1o2) treat
+  The aid batch's Moore ([LIT-tmpsb4vt](../literature.d/LIT-tmpsb4vt.md)) and Moss et al. ([LIT-tmp4d1o2](../literature.d/LIT-tmp4d1o2.md)) treat
   revenue and accountability, which Mauss does not.
-- Filed: THEORY-tmpc5g6z. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpc5g6z](../theory.d/THEORY-tmpc5g6z.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations
