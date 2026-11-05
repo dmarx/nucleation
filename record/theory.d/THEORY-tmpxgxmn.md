@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp1pdwj
 summary: >-
-  Winfree and Bekbolatov (2004), LIT-tmp1pdwj, read in NOTE-tmppy063 from
+  Winfree and Bekbolatov (2004), [LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md), read in [NOTE-tmppy063](../notes.d/NOTE-tmppy063.md) from
   the authors' submitted preprint. Simulation and kinetic-trap theory,
   with trap rates fitted and no rigorous proof. It does not say that
   proofreading has been shown in DNA, that its gain is exponential in
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Winfree and Bekbolatov (2004), LIT-tmp1pdwj; read in NOTE-tmppy063.
+Winfree and Bekbolatov (2004), [LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md); read in [NOTE-tmppy063](../notes.d/NOTE-tmppy063.md).
 
 ## What was actually shown
 

@@ -74,14 +74,14 @@ is the concentration of a supply that comes entirely from outside. Then
 
 ## The molecular instances
 
-- **Self-healing from a pool.** Scheckenbach et al. 2021 (NOTE-tmpmcdju): labels exchange from
+- **Self-healing from a pool.** Scheckenbach et al. 2021 ([NOTE-tmpmcdju](../notes.d/NOTE-tmpmcdju.md)): labels exchange from
   a 5 nM pool, and missing staples are refilled where the damage exposes a
   toehold. In serum, matching staples at 22.5 nM each keep 76 % intact over
   11 days, against 12 % without and 56 % with non-matching DNA. "Self‐healing
   of DNA origami is thus limited to lower damage rates". Throughout, the
   repair pool is supplied, and it was never withdrawn.
-- **Replication from supplied monomers.** Zhou et al. 2021 (NOTE-tmp70nos), standing
-  in for He et al. 2017 (LIT-tmph8p41): copies template further copies, at up to about 4 per
+- **Replication from supplied monomers.** Zhou et al. 2021 ([NOTE-tmp70nos](../notes.d/NOTE-tmp70nos.md)), standing
+  in for He et al. 2017 ([LIT-tmph8p41](../literature.d/LIT-tmph8p41.md)): copies template further copies, at up to about 4 per
   cycle, and the faster-growing species comes to dominate "independent of
   the initial seed". So the population's outcome forgets its founder.
   Monomers are replenished each cycle, and the thermal program and UV

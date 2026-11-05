@@ -370,6 +370,6 @@ No status changes.
 
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
-**Winfree and Bekbolatov, "Proofreading tile sets".** Supports. The error rate is set by the ratio of two time scales, the dissociation of a mismatched tile against its coverage by growth. The covered tile becomes a constraint on all later growth. In Scheckenbach et al. (LIT-tmpzoh9c), on the reader's reading, the unrepairable scaffold is the slow constraint against which staples exchange fast. Left open: neither varies the separation systematically.
+**Winfree and Bekbolatov, "Proofreading tile sets".** Supports. The error rate is set by the ratio of two time scales, the dissociation of a mismatched tile against its coverage by growth. The covered tile becomes a constraint on all later growth. In Scheckenbach et al. ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)), on the reader's reading, the unrepairable scaffold is the slow constraint against which staples exchange fast. Left open: neither varies the separation systematically.
 
 No status changes.

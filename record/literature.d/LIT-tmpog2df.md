@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpn2voh) from the published version's open full
+  read 2026-11-05 ([NOTE-tmpn2voh](../notes.d/NOTE-tmpn2voh.md)) from the published version's open full
   text in Europe PMC, with the Supporting Information read in part from
   the arXiv v2; worth reading as the first numerical evidence that a
   nucleation barrier to DNA origami assembly exists and depends on
   design, set mainly by coaxial stacking between adjacent staples, and as
   the primary source for that route in Cumberworth and Reinhardt's 2025
-  review (LIT-tmp7dfy2). Its main limits: equilibrium free energies only,
+  review ([LIT-tmp7dfy2](LIT-tmp7dfy2.md)). Its main limits: equilibrium free energies only,
   with no kinetics, yields or simulated hysteresis; small 2D lattice
   designs of at most 27 domains; averaged misbinding and no free staples
   or second scaffolds; model-dependent lower bounds on barrier heights;
@@ -74,7 +74,7 @@ Cumberworth, A., Frenkel, D. & Reinhardt, A. (2022). Simulations of DNA-Origami 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpn2voh. Main text unless the SI is named.*
+*From the reading, [NOTE-tmpn2voh](../notes.d/NOTE-tmpn2voh.md). Main text unless the SI is named.*
 
 - **Most designs have no barrier.** "The free energies for systems S and D
   show no nucleation barrier along either order parameter", and the
@@ -96,16 +96,16 @@ Cumberworth, A., Frenkel, D. & Reinhardt, A. (2022). Simulations of DNA-Origami 
 
 ## Standing in the record
 
-The primary evidence behind the 2025 review's claim (LIT-tmp7dfy2,
-NOTE-tmp1fpff) that origami, unlike DNA bricks, needs no nucleation barrier,
+The primary evidence behind the 2025 review's claim ([LIT-tmp7dfy2](LIT-tmp7dfy2.md),
+[NOTE-tmp1fpff](../notes.d/NOTE-tmp1fpff.md)) that origami, unlike DNA bricks, needs no nucleation barrier,
 and consistent with it: typical designs are downhill, and a barrier can be
 designed in by high-valency staples, strong stacking and monodisperse staple
-energies. It sets Dannenberg et al.'s hysteresis (LIT-tmpdyrnb,
-THEORY-tmpfdm4r) on the kinetic side, since their kind of design shows no
+energies. It sets Dannenberg et al.'s hysteresis ([LIT-tmpdyrnb](LIT-tmpdyrnb.md),
+[THEORY-tmpfdm4r](../theory.d/THEORY-tmpfdm4r.md)) on the kinetic side, since their kind of design shows no
 barrier here. It is a simulation instance of the record's separation of the
-cost to enter a form from the cost to hold it (CLAIM-571, CLAIM-569), of
-temperature setting whether a barrier exists at all (CLAIM-tmp7y162), and of
-a kinetic nucleus whose productivity is untested (TERM-tmp3awsy,
-QUESTION-380). DeLuca et al.'s global traps (LIT-2081, THEORY-1398) are one
+cost to enter a form from the cost to hold it ([CLAIM-571](../claims.d/CLAIM-571.md), [CLAIM-569](../claims.d/CLAIM-569.md)), of
+temperature setting whether a barrier exists at all ([CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md)), and of
+a kinetic nucleus whose productivity is untested ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md),
+[QUESTION-380](../questions.d/QUESTION-380.md)). DeLuca et al.'s global traps ([LIT-2081](LIT-2081.md), [THEORY-1398](../theory.d/THEORY-1398.md)) are one
 of the "other kinds of free-energy barriers" the authors concede larger
-designs may have. The account filed from it is THEORY-tmpyfhtk.
+designs may have. The account filed from it is [THEORY-tmpyfhtk](../theory.d/THEORY-tmpyfhtk.md).

@@ -211,9 +211,9 @@ No status changes.
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
 **Cumberworth, Frenkel and Reinhardt, "Design-dependent nucleation barriers"; Scheckenbach et al., "Self-regeneration and self-healing".** Both support the claim's separation of resources.
-- In Cumberworth et al.'s free-energy calculations (LIT-tmpog2df), a three-row origami just below Tm is stable but sits behind a barrier of about 10–20 kBT. Design and temperature set the cost to enter apart from the cost to hold.
-- In Scheckenbach et al. (LIT-tmpzoh9c), maintenance is a standing strand pool at room temperature (22.5 nM per staple), while re-entry from a 12HB missing nine staples took a 300× excess and an anneal from 50 °C, and stayed incomplete (63 % → 32 % defective).
-- Winfree and Bekbolatov (LIT-tmp1pdwj) add a construction cost, K² tile species and K-fold size, separate from the conditions that hold the crystal.
+- In Cumberworth et al.'s free-energy calculations ([LIT-tmpog2df](../literature.d/LIT-tmpog2df.md)), a three-row origami just below Tm is stable but sits behind a barrier of about 10–20 kBT. Design and temperature set the cost to enter apart from the cost to hold.
+- In Scheckenbach et al. ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)), maintenance is a standing strand pool at room temperature (22.5 nM per staple), while re-entry from a 12HB missing nine staples took a 300× excess and an anneal from 50 °C, and stayed incomplete (63 % → 32 % defective).
+- Winfree and Bekbolatov ([LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md)) add a construction cost, K² tile species and K-fold size, separate from the conditions that hold the crystal.
 
 Left open: the costs are not priced against one another in any of the three.
 

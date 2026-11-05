@@ -187,8 +187,8 @@ No status changes.
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
 **Cumberworth, Frenkel and Reinhardt, "Design-dependent nucleation barriers".** Supports. In simulation, reaching the folded three-row design at Tm means crossing about 10 kBT (about 20 kBT at domain resolution) above both end states, more than holding it needs. A few degrees below Tm the barrier is gone, so the reach threshold equals the hold threshold there.
-- Scheckenbach et al. (LIT-tmpzoh9c) support it in kind: restoring a kinked 12HB needed heating to 50 °C.
-- Winfree and Bekbolatov (LIT-tmp1pdwj) weakly qualify it: escaping a mismatch costs time, not a peak.
+- Scheckenbach et al. ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)) support it in kind: restoring a kinked 12HB needed heating to 50 °C.
+- Winfree and Bekbolatov ([LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md)) weakly qualify it: escaping a mismatch costs time, not a peak.
 
 Left open: the profile is a one-dimensional projection, and no kinetics are simulated.
 

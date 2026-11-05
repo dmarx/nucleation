@@ -169,14 +169,14 @@ No status changes.
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
 **Winfree and Bekbolatov, "Proofreading tile sets"; Scheckenbach et al., "Self-regeneration and self-healing in DNA origami".** Two readings support the claim's separation of assembling, persisting and regenerating.
-- In Winfree and Bekbolatov's kTAM simulations (LIT-tmp1pdwj), corrected assembly, persistence of the frozen crystal and refilling of a puncture are distinct behaviours. Refilling is imperfect ("scar tissue").
-- Scheckenbach et al. (LIT-tmpzoh9c) show folded origami regenerating in the paper's sense. Labels recover to full brightness after bleaching, and a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum, against 12 % without.
+- In Winfree and Bekbolatov's kTAM simulations ([LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md)), corrected assembly, persistence of the frozen crystal and refilling of a puncture are distinct behaviours. Refilling is imperfect ("scar tissue").
+- Scheckenbach et al. ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)) show folded origami regenerating in the paper's sense. Labels recover to full brightness after bleaching, and a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum, against 12 % without.
 
-In both, every replacement part is supplied from solution and the structure produces none of its constraints. This is regeneration without closure in the sense of TERM-070. Repair fails above a damage rate (10 % serum) and never reaches the scaffold. Left open: whether either structure keeps its form once the supply is withdrawn, which neither tests.
+In both, every replacement part is supplied from solution and the structure produces none of its constraints. This is regeneration without closure in the sense of [TERM-070](../terms.d/TERM-070.md). Repair fails above a damage rate (10 % serum) and never reaches the scaffold. Left open: whether either structure keeps its form once the supply is withdrawn, which neither tests.
 
 **Zhou, Sha, Ni, Seeman and Chaikin, "Mutations in artificial self-replicating tiles".**
 
-- Zhou et al. (2021, LIT-tmpb87sq, NOTE-tmp70nos) stand in for the unread He et al. (2017, LIT-tmph8p41).
+- Zhou et al. (2021, [LIT-tmpb87sq](../literature.d/LIT-tmpb87sq.md), [NOTE-tmp70nos](../notes.d/NOTE-tmp70nos.md)) stand in for the unread He et al. (2017, [LIT-tmph8p41](../literature.d/LIT-tmph8p41.md)).
 - They show a templated origami replicator multiplying and then selecting among multipliers by growth rate: a mutant reaches parity in five cycles and dominates after nine.
 - Nothing in it regenerates a member after turnover. Parents persist as templates, and sterile, untemplated dimers accumulate and are never removed or repaired. Every enabling condition is supplied each cycle: monomers, 48 °C and 22 °C steps, UV.
 - This supports the fourth property: replication, even with selection, is not regeneration.

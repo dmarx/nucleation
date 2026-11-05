@@ -228,6 +228,6 @@ No status changes.
 
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
-**Winfree and Bekbolatov, "Proofreading tile sets".** Supports, in a clean physical case. In algorithmic tile growth an early mismatch, once covered, is propagated: "Subsequent error-free growth correctly propagates the erroneous information" (Fig. 4a). Cumberworth et al. (LIT-tmpog2df) add a speculative instance: without a nucleation barrier, concurrent partial chunks may jam. They do not simulate it.
+**Winfree and Bekbolatov, "Proofreading tile sets".** Supports, in a clean physical case. In algorithmic tile growth an early mismatch, once covered, is propagated: "Subsequent error-free growth correctly propagates the erroneous information" (Fig. 4a). Cumberworth et al. ([LIT-tmpog2df](../literature.d/LIT-tmpog2df.md)) add a speculative instance: without a nucleation barrier, concurrent partial chunks may jam. They do not simulate it.
 
 No status changes.

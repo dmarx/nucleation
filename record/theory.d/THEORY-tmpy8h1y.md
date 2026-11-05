@@ -16,7 +16,7 @@ source:
 - LIT-tmpzoh9c
 summary: >-
   Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld (2021),
-  LIT-tmpzoh9c, read in NOTE-tmpmcdju from the main text; the Supporting
+  [LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md), read in [NOTE-tmpmcdju](../notes.d/NOTE-tmpmcdju.md) from the main text; the Supporting
   Information, which holds the toehold experiments and the 10% serum data,
   was not read. It does not say that origami repairs itself without supply,
   that nuclease damage is shown to expose toeholds, or that repair restores
@@ -28,7 +28,7 @@ summary: >-
 ## Source
 
 Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld (2021),
-LIT-tmpzoh9c; read in NOTE-tmpmcdju.
+[LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md); read in [NOTE-tmpmcdju](../notes.d/NOTE-tmpmcdju.md).
 
 ## What was actually shown
 

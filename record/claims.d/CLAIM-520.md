@@ -91,8 +91,8 @@ A's [CLAIM-561](CLAIM-561.md) (Proposed) gives the dispatch analogue: provisiona
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
 **Winfree and Bekbolatov, "Proofreading tile sets"; Scheckenbach et al., "Self-regeneration and self-healing".** Two physical cases of a corrective capacity whose value depends on the setting.
-- Proofreading tiles (LIT-tmp1pdwj) buy a 10⁴-fold speed-up where errors are in-site mismatches. They are "disappointingly modest" where facet errors dominate, at a K² tile cost.
-- A matching staple pool (LIT-tmpzoh9c) beats sacrificial non-matching DNA at a low damage rate (76 % against 56 % intact) and gives no gain in 10 % serum.
+- Proofreading tiles ([LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md)) buy a 10⁴-fold speed-up where errors are in-site mismatches. They are "disappointingly modest" where facet errors dominate, at a K² tile cost.
+- A matching staple pool ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)) beats sacrificial non-matching DNA at a low damage rate (76 % against 56 % intact) and gives no gain in 10 % serum.
 
 Left open: neither prices the capacity's cost against its benefit.
 

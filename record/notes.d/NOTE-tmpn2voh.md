@@ -136,74 +136,74 @@ a window just below melting.
 
 ## Connections
 
-- **The 2025 review (LIT-tmp7dfy2, NOTE-tmp1fpff, Skimmed).** This paper is
+- **The 2025 review ([LIT-tmp7dfy2](../literature.d/LIT-tmp7dfy2.md), [NOTE-tmp1fpff](NOTE-tmp1fpff.md), Skimmed).** This paper is
   the review's primary source for its §2.3 and is consistent with its claim
   that barriers are not required for origami. It frames a barrier as
   possibly useful, where the review frames it as unnecessary; neither
   simulates kinetics. The review adds a loop-closure route and a
   toehold-exchange route that this paper sets aside only for averaged
   energies.
-- **Dannenberg et al. (NOTE-tmpyo994, THEORY-tmpfdm4r).** System D is a
+- **Dannenberg et al. ([NOTE-tmpyo994](NOTE-tmpyo994.md), [THEORY-tmpfdm4r](../theory.d/THEORY-tmpfdm4r.md)).** System D is a
   subset of their tile and shows no barrier here even with doubled stacking,
   so the hysteresis they model in such designs is kinetic, from asymmetric
   rates under ramps; both name stacking as a source of cooperativity.
-- **Majikes et al. (NOTE-tmppwpd0)** measure the loop-order cooperativity
+- **Majikes et al. ([NOTE-tmppwpd0](NOTE-tmppwpd0.md))** measure the loop-order cooperativity
   this paper sets aside.
-- **Sobczak (NOTE-tmpwxm2p, THEORY-tmp500wn) and Schneider et al.
-  (NOTE-tmpqi66a)** report the experimental isothermal folding windows this
+- **Sobczak ([NOTE-tmpwxm2p](NOTE-tmpwxm2p.md), [THEORY-tmp500wn](../theory.d/THEORY-tmp500wn.md)) and Schneider et al.
+  ([NOTE-tmpqi66a](NOTE-tmpqi66a.md))** report the experimental isothermal folding windows this
   paper rationalizes.
-- **DeLuca et al. (LIT-2081, NOTE-1561, THEORY-1398)**: global topological
+- **DeLuca et al. ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md))**: global topological
   traps, one of the "other kinds of free-energy barriers" larger designs may
   have.
-- **Winfree and Bekbolatov (NOTE-tmppy063)**: the tile crystal there relies
+- **Winfree and Bekbolatov ([NOTE-tmppy063](NOTE-tmppy063.md))**: the tile crystal there relies
   on a critical nucleus to keep rule tiles from nucleating spuriously; here
   most origami have none and still assemble.
 
 ## Bearing on the record
 
-- **CLAIM-571: supports.** In three-row near Tm, reaching the target means
+- **[CLAIM-571](../claims.d/CLAIM-571.md): supports.** In three-row near Tm, reaching the target means
   crossing about 10–20 kBT above both end states, more than holding it
   needs; a few degrees lower the threshold falls away.
-- **CLAIM-569: supports.** Just below Tm the target is stable but sits behind
+- **[CLAIM-569](../claims.d/CLAIM-569.md): supports.** Just below Tm the target is stable but sits behind
   a barrier: design can separate the cost to hold from the cost to enter.
-- **CLAIM-tmp7y162: supports from simulation.** Temperature sets whether a
+- **[CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md): supports from simulation.** Temperature sets whether a
   barrier exists at all; a barrier-keeping protocol must sit in a window of
   a few degrees at Tm.
-- **CLAIM-583: supports in spirit.** The same routing and staple set gain or
+- **[CLAIM-583](../claims.d/CLAIM-583.md): supports in spirit.** The same routing and staple set gain or
   lose a barrier when only stacking changes, but costs differ, so this is
   not the equal-cost case.
-- **CLAIM-581: illustrates** a peak cost on a reversible path, though along
+- **[CLAIM-581](../claims.d/CLAIM-581.md): illustrates** a peak cost on a reversible path, though along
   a one-dimensional projection, not between configurations.
-- **CLAIM-591: leaves open.** At equilibrium the barrier is crossed both
+- **[CLAIM-591](../claims.d/CLAIM-591.md): leaves open.** At equilibrium the barrier is crossed both
   ways; the hysteresis it is said to explain is not simulated.
-- **CLAIM-567: leaves open**: no yields.
-- **CLAIM-566: assembly only.** Switching without hysteresis is reassembly
+- **[CLAIM-567](../claims.d/CLAIM-567.md): leaves open**: no yields.
+- **[CLAIM-566](../claims.d/CLAIM-566.md): assembly only.** Switching without hysteresis is reassembly
   driven from outside, not regeneration.
-- **CLAIM-557, CLAIM-574: a small instance.** The finer order parameter
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md): a small instance.** The finer order parameter
   (bound-domain pairs) shows barrier the coarser one hides, and the count of
   (mis)bound staples cannot tell assembled from not.
-- **CLAIM-184: speculative support**, through the jamming conjecture.
-- **CLAIM-185: qualifies.** A nucleation threshold is not what makes origami
+- **[CLAIM-184](../claims.d/CLAIM-184.md): speculative support**, through the jamming conjecture.
+- **[CLAIM-185](../claims.d/CLAIM-185.md): qualifies.** A nucleation threshold is not what makes origami
   persist: most designs have none and still assemble.
-- **CLAIM-tmpiyvk1: consistent, leaves open.** Free energies rank states by
+- **[CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md): consistent, leaves open.** Free energies rank states by
   stability, not by committor, and no committor is computed.
-- **QUESTION-380: directly relevant, as conjecture.** A barrier makes
+- **[QUESTION-380](../questions.d/QUESTION-380.md): directly relevant, as conjecture.** A barrier makes
   assembly start from one local nucleus; the pathway change is shown
   (Fig. 4), the yield benefit is not.
-- **TERM-tmp3awsy: bears on it.** The barrier-top cluster is a kinetic
+- **[TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md): bears on it.** The barrier-top cluster is a kinetic
   nucleus in the term's sense; whether it is productive is untested, and the
   half-stacking runs are a ready comparator.
-- **QUESTION-tmp4jbc3: the mechanism is generative.** Bound, stacked staples
+- **[QUESTION-tmp4jbc3](../questions.d/QUESTION-tmp4jbc3.md): the mechanism is generative.** Bound, stacked staples
   change the binding free energy of their neighbours; with half stacking the
   same count of bound staples is spread uniformly, nearer a pure state
   advantage. The evidence is equilibrium occupancy, not downstream rates.
-- **QUESTION-tmpesr9t, QUESTION-tmpdbsh1**: past the peak growth is downhill
+- **[QUESTION-tmpesr9t](../questions.d/QUESTION-tmpesr9t.md), [QUESTION-tmpdbsh1](../questions.d/QUESTION-tmpdbsh1.md)**: past the peak growth is downhill
   only while the temperature is held; below Tm there is no barrier and
   nothing to become independent of.
-- **QUESTION-281**: an instance of design-dependent nucleation, and of its
+- **[QUESTION-281](../questions.d/QUESTION-281.md)**: an instance of design-dependent nucleation, and of its
   absence.
-- **THEORY-1398, NOTE-1561: complementary**, as above.
-- Filed: THEORY-tmpyfhtk. No instruction for machine-learning practice.
+- **[THEORY-1398](../theory.d/THEORY-1398.md), [NOTE-1561](NOTE-1561.md): complementary**, as above.
+- Filed: [THEORY-tmpyfhtk](../theory.d/THEORY-tmpyfhtk.md). No instruction for machine-learning practice.
 
 ## Limitations
 

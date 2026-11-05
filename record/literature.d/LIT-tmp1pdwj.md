@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmppy063) from the authors' submitted preprint in
+  read 2026-11-05 ([NOTE-tmppy063](../notes.d/NOTE-tmppy063.md)) from the authors' submitted preprint in
   CaltechAUTHORS, in full with all footnotes and figure captions, figure
   contents seen only through captions and axis labels; worth reading as
   the founding construction of error correction by redesigned tile sets in
@@ -77,7 +77,7 @@ Winfree, E. & Bekbolatov, R. (2004). Proofreading Tile Sets: Error Correction fo
 
 ## Key takeaways
 
-*From the reading, NOTE-tmppy063, of the submitted preprint, which has no
+*From the reading, [NOTE-tmppy063](../notes.d/NOTE-tmppy063.md), of the submitted preprint, which has no
 section page numbers; places are given by section, figure and footnote.*
 
 - **Errors are kinetic traps.** Below melting, "equilibrium is seldom
@@ -113,9 +113,9 @@ how a self-assembling system can correct its own growth errors with no
 inspector and no change of chemistry, only a redesigned rule set,
 reversibility and a supply of parts held at fixed conditions. Its
 proofreading works by changing where the exits from an error lead, which
-sets it beside CLAIM-tmpiyvk1; it is the clean physical case of an early
-error locked in and propagated (CLAIM-184); and its puncture-healing is
+sets it beside [CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md); it is the clean physical case of an early
+error locked in and propagated ([CLAIM-184](../claims.d/CLAIM-184.md)); and its puncture-healing is
 regeneration of form without closure, every tile species supplied
-(CLAIM-566, TERM-070). Its local kinetic traps complement the global
-topological traps of DeLuca et al. (LIT-2081, THEORY-1398). The account
-filed from it is THEORY-tmpxgxmn.
+([CLAIM-566](../claims.d/CLAIM-566.md), [TERM-070](../terms.d/TERM-070.md)). Its local kinetic traps complement the global
+topological traps of DeLuca et al. ([LIT-2081](LIT-2081.md), [THEORY-1398](../theory.d/THEORY-1398.md)). The account
+filed from it is [THEORY-tmpxgxmn](../theory.d/THEORY-tmpxgxmn.md).

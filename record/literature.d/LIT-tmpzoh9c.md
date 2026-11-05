@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpmcdju) from the open full text in Europe PMC,
+  read 2026-11-05 ([NOTE-tmpmcdju](../notes.d/NOTE-tmpmcdju.md)) from the open full text in Europe PMC,
   the whole main text with Scheme 1 and the legends of Figures 1–4, the
   Supporting Information not read; worth reading as the experimental
   demonstration that folded DNA origami can be repaired from strands
@@ -74,7 +74,7 @@ Scheckenbach, M., Schubert, T., Forthmann, C., Glembockyte, V. & Tinnefeld, P. (
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmcdju. The main text only; places are figures.*
+*From the reading, [NOTE-tmpmcdju](../notes.d/NOTE-tmpmcdju.md). The main text only; places are figures.*
 
 - **Two kinds of repair** (Scheme 1): self-regeneration, "Steady‐state
   exchange of random building units (intact and defective) with intact
@@ -104,12 +104,12 @@ Scheckenbach, M., Schubert, T., Forthmann, C., Glembockyte, V. & Tinnefeld, P. (
 The record's experimental case of repair in DNA origami, and so the
 correction to any reading that origami never repairs itself: staples and
 labels are replaced after damage, but every replacement part comes from
-solution, so it is regeneration without closure (CLAIM-566, TERM-070). It
+solution, so it is regeneration without closure ([CLAIM-566](../claims.d/CLAIM-566.md), [TERM-070](../terms.d/TERM-070.md)). It
 also separates the resource that maintains a form, a standing pool at room
 temperature, from the one needed to move a damaged form back, an anneal and
-a 300× excess (CLAIM-569), and it shows a corrective capacity whose value
-depends on the damage rate (CLAIM-520). It is the complement of Ni et al.
-(LIT-tmpairr7), replication from supplied parts with nothing repaired, and
-turns the toehold removal of Douglas, Bachelet and Church (LIT-tmpqorwy)
+a 300× excess ([CLAIM-569](../claims.d/CLAIM-569.md)), and it shows a corrective capacity whose value
+depends on the damage rate ([CLAIM-520](../claims.d/CLAIM-520.md)). It is the complement of Ni et al.
+([LIT-tmpairr7](LIT-tmpairr7.md)), replication from supplied parts with nothing repaired, and
+turns the toehold removal of Douglas, Bachelet and Church ([LIT-tmpqorwy](LIT-tmpqorwy.md))
 into toehold-gated incorporation. The account filed from it is
-THEORY-tmpy8h1y.
+[THEORY-tmpy8h1y](../theory.d/THEORY-tmpy8h1y.md).

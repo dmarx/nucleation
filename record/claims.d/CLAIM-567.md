@@ -270,8 +270,8 @@ No status changes.
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
 **Winfree and Bekbolatov, "Proofreading tile sets"; Scheckenbach et al., "Self-regeneration and self-healing".** Both separate reachable from reliably reached.
-- In Winfree and Bekbolatov (LIT-tmp1pdwj), the direct and proofreading tile sets reach the same target in the aTAM, but with 1 % against 0.01 % error at the same kTAM conditions.
-- In Scheckenbach et al. (LIT-tmpzoh9c), repair of a 12HB missing nine staples brings about half the defective structures back to intact (63 % → 32 % defective): reachable, not reliably reached.
+- In Winfree and Bekbolatov ([LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md)), the direct and proofreading tile sets reach the same target in the aTAM, but with 1 % against 0.01 % error at the same kTAM conditions.
+- In Scheckenbach et al. ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)), repair of a 12HB missing nine staples brings about half the defective structures back to intact (63 % → 32 % defective): reachable, not reliably reached.
 
 Left open: neither gives the reliability as a function of resource.
 

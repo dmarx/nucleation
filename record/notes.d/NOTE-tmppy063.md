@@ -150,66 +150,66 @@ and Winfree for nucleation, and compares itself with von Neumann's
 logarithmic-overhead fault tolerance (not held). Among this batch:
 
 - **Local, not global, traps.** The trap here is a mismatched tile covered
-  before it leaves; DeLuca et al.'s origami traps (LIT-2081, NOTE-1561,
-  THEORY-1398) are global and topological. Shirt-Ediss, Torelli et al.
-  (NOTE-tmp6ediz, THEORY-tmpz96qc) and Majikes et al. on the blocked state
-  (NOTE-tmpetbc9) are the nearest origami readings on traps and
-  cooperativity, with Majikes on designed cooperativity (NOTE-tmppwpd0).
-- **Repair from supplied parts.** Scheckenbach et al. (NOTE-tmpmcdju) show
+  before it leaves; DeLuca et al.'s origami traps ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md),
+  [THEORY-1398](../theory.d/THEORY-1398.md)) are global and topological. Shirt-Ediss, Torelli et al.
+  ([NOTE-tmp6ediz](NOTE-tmp6ediz.md), [THEORY-tmpz96qc](../theory.d/THEORY-tmpz96qc.md)) and Majikes et al. on the blocked state
+  ([NOTE-tmpetbc9](NOTE-tmpetbc9.md)) are the nearest origami readings on traps and
+  cooperativity, with Majikes on designed cooperativity ([NOTE-tmppwpd0](NOTE-tmppwpd0.md)).
+- **Repair from supplied parts.** Scheckenbach et al. ([NOTE-tmpmcdju](NOTE-tmpmcdju.md)) show
   origami repairing staple damage from a pool, gated by a toehold the damage
   exposes; here the crystal refills a puncture from the monomer pool, gated
   by the same label constraints that correct growth. Neither system makes
-  its own parts. Ni et al. (NOTE-tmp79i4g) share the external supply, with a
+  its own parts. Ni et al. ([NOTE-tmp79i4g](NOTE-tmp79i4g.md)) share the external supply, with a
   cycle that proofreading lacks.
-- **Nucleation.** Cumberworth, Frenkel and Reinhardt (NOTE-tmpn2voh) find
+- **Nucleation.** Cumberworth, Frenkel and Reinhardt ([NOTE-tmpn2voh](NOTE-tmpn2voh.md)) find
   most origami designs have no nucleation barrier; the tile crystal here
   depends on one (footnote 5) to keep rule tiles from nucleating off the
   seed.
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reached): supports.** Original
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reached): supports.** Original
   and proofreading tile sets reach the same target in the aTAM; in the kTAM
   they reach it with 1% against 0.01% error at the same conditions.
-- **CLAIM-583: supports by analogy.** The logical compatibility is kept and
+- **[CLAIM-583](../claims.d/CLAIM-583.md): supports by analogy.** The logical compatibility is kept and
   only the decomposition into tiles changes, but the costs differ (K²
   tiles), so this is not the claim's equal-costs case.
-- **CLAIM-571: weakly qualifies.** Escaping a mismatch costs time
+- **[CLAIM-571](../claims.d/CLAIM-571.md): weakly qualifies.** Escaping a mismatch costs time
   (dissociation against coverage), not a peak of resource.
-- **CLAIM-591: qualifies.** The trap models treat coverage of a reversible
+- **[CLAIM-591](../claims.d/CLAIM-591.md): qualifies.** The trap models treat coverage of a reversible
   system as an effectively one-way step.
-- **CLAIM-569: supports.** Construction cost (K² species, K-fold size) is
+- **[CLAIM-569](../claims.d/CLAIM-569.md): supports.** Construction cost (K² species, K-fold size) is
   separate from the conditions that hold the crystal and from the time spent
   correcting.
-- **CLAIM-566: supports and sharpens.** Corrected assembly, persistence of
+- **[CLAIM-566](../claims.d/CLAIM-566.md): supports and sharpens.** Corrected assembly, persistence of
   the frozen crystal and refilling after damage are separate behaviours;
   refilling is imperfect and draws on supplied tiles, regeneration of form
-  without closure (TERM-070).
-- **CLAIM-184: supports, in a clean physical case.** A locked-in error is
+  without closure ([TERM-070](../terms.d/TERM-070.md)).
+- **[CLAIM-184](../claims.d/CLAIM-184.md): supports, in a clean physical case.** A locked-in error is
   propagated by "Subsequent error-free growth".
-- **CLAIM-478: supports.** The error rate is set by the ratio of two time
+- **[CLAIM-478](../claims.d/CLAIM-478.md): supports.** The error rate is set by the ratio of two time
   scales, and the covered tile becomes a constraint on later growth.
-- **CLAIM-520: supports.** Proofreading is worth a 10⁴-fold speed-up where
+- **[CLAIM-520](../claims.d/CLAIM-520.md): supports.** Proofreading is worth a 10⁴-fold speed-up where
   errors are in-site mismatches and is "disappointingly modest" where facet
   errors dominate, at a K² tile cost.
-- **CLAIM-tmpiyvk1: supports in kind.** The error rate is literally a
+- **[CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md): supports in kind.** The error rate is literally a
   committor; correction works by changing where exits lead (mismatch paths
   need two unfavourable steps), not by lengthening residence.
-- **TERM-tmp3awsy, QUESTION-tmp4jbc3: bear on them.** A mismatch is a
+- **[TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md), [QUESTION-tmp4jbc3](../questions.d/QUESTION-tmp4jbc3.md): bear on them.** A mismatch is a
   negative architectural effect: it changes the rates of later steps (no
   compatible continuation), not only the state.
-- **QUESTION-tmpesr9t: a contrast.** The crystal corrects and refills itself
+- **[QUESTION-tmpesr9t](../questions.d/QUESTION-tmpesr9t.md): a contrast.** The crystal corrects and refills itself
   but never regenerates its enabling constraints, the tile species and the
   conditions.
-- **QUESTION-tmpdbsh1: bears on it.** A covered region persists without the
+- **[QUESTION-tmpdbsh1](../questions.d/QUESTION-tmpdbsh1.md): bears on it.** A covered region persists without the
   growth conditions that made it correct; withdrawing supply is not tested.
-- **QUESTION-380: bears on it, slightly**, through footnote 5's critical
+- **[QUESTION-380](../questions.d/QUESTION-380.md): bears on it, slightly**, through footnote 5's critical
   nucleus.
-- **THEORY-030 (Landauer): a thermodynamic neighbour.** Correction by
+- **[THEORY-030](../theory.d/THEORY-030.md) (Landauer): a thermodynamic neighbour.** Correction by
   dissociation erases the record of the error, but no dissipation is
   computed.
-- **LIT-919**: the critical-nucleus point of footnote 5.
-- Filed: THEORY-tmpxgxmn. No instruction for machine-learning practice.
+- **[LIT-919](../literature.d/LIT-919.md)**: the critical-nucleus point of footnote 5.
+- Filed: [THEORY-tmpxgxmn](../theory.d/THEORY-tmpxgxmn.md). No instruction for machine-learning practice.
 
 ## Limitations
 

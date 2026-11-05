@@ -21,8 +21,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpog2df
 summary: >-
-  Cumberworth, Frenkel and Reinhardt (2022), LIT-tmpog2df, read in
-  NOTE-tmpn2voh. Equilibrium simulation of four designs of at most 27
+  Cumberworth, Frenkel and Reinhardt (2022), [LIT-tmpog2df](../literature.d/LIT-tmpog2df.md), read in
+  [NOTE-tmpn2voh](../notes.d/NOTE-tmpn2voh.md). Equilibrium simulation of four designs of at most 27
   domains with averaged energies. It does not say that a barrier changes
   folding times or yields, which are not simulated, nor that it causes the
   hysteresis seen in temperature ramps, which the authors explain but do not
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Cumberworth, Frenkel and Reinhardt (2022), LIT-tmpog2df; read in
-NOTE-tmpn2voh.
+Cumberworth, Frenkel and Reinhardt (2022), [LIT-tmpog2df](../literature.d/LIT-tmpog2df.md); read in
+[NOTE-tmpn2voh](../notes.d/NOTE-tmpn2voh.md).
 
 ## What was actually shown
 

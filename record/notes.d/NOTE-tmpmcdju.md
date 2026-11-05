@@ -125,60 +125,60 @@ does not make, and repair keeps pace with damage only while damage is slow.
 It builds on DNA-PAINT and transient labelling (Stehr et al.), on Li and
 Schulman's self-healing nanotubes in serum (not held), and reverses the
 toehold removal of staples by catching strands (Zhang et al.; Douglas,
-Bachelet and Church 2012, NOTE-tmpgw5ab). Among this batch:
+Bachelet and Church 2012, [NOTE-tmpgw5ab](NOTE-tmpgw5ab.md)). Among this batch:
 
-- **Ni et al. (NOTE-tmp79i4g)**: replication from supplied parts with
+- **Ni et al. ([NOTE-tmp79i4g](NOTE-tmp79i4g.md))**: replication from supplied parts with
   nothing repaired; this paper is repair from supplied parts with nothing
   replicated.
-- **Marras et al. (NOTE-tmpjeolx, THEORY-tmp1799q)**: the same
+- **Marras et al. ([NOTE-tmpjeolx](NOTE-tmpjeolx.md), [THEORY-tmp1799q](../theory.d/THEORY-tmp1799q.md))**: the same
   strand-displacement chemistry used for actuation; here it maintains.
-- **Wagenbauer, Wachauf and Dietz (NOTE-tmpmw05j)**: quality after folding;
+- **Wagenbauer, Wachauf and Dietz ([NOTE-tmpmw05j](NOTE-tmpmw05j.md))**: quality after folding;
   this is quality after damage.
-- **Winfree and Bekbolatov (NOTE-tmppy063)**: a tile crystal refills a
+- **Winfree and Bekbolatov ([NOTE-tmppy063](NOTE-tmppy063.md))**: a tile crystal refills a
   puncture from its monomer pool, imperfectly; both systems repair from
   supplied parts gated by the structure's own constraints, and neither makes
   its parts.
 
 ## Bearing on the record
 
-- **CLAIM-566: supports both clauses, and corrects a premise.** Origami does
+- **[CLAIM-566](../claims.d/CLAIM-566.md): supports both clauses, and corrects a premise.** Origami does
   regenerate in the paper's sense, to 76% intact against 12%, and to full
   brightness, but every part comes from solution: regeneration without
-  closure, apart from TERM-070.
-- **QUESTION-tmpesr9t: corrects the line that nothing in any origami read
+  closure, apart from [TERM-070](../terms.d/TERM-070.md).
+- **[QUESTION-tmpesr9t](../questions.d/QUESTION-tmpesr9t.md): corrects the line that nothing in any origami read
   repairs itself.** Origami repairs staple-level damage, from supplied
   strands (5 nM imager, 22.5 nM per staple), by a selectivity of its own (the
   toehold damage exposes) and, for missing staples, with heat. The scaffold
   is a template for repair and produces nothing.
-- **QUESTION-tmpdbsh1: the opposite case, for maintenance.** The folded
+- **[QUESTION-tmpdbsh1](../questions.d/QUESTION-tmpdbsh1.md): the opposite case, for maintenance.** The folded
   object persists without excess staples, but repair against ongoing wear
   never becomes independent of supply (Fig. 4, enzyme without imager, below
   20%). Supply was never withdrawn during maintenance.
-- **CLAIM-569: supports.** Maintenance is a standing pool at room
+- **[CLAIM-569](../claims.d/CLAIM-569.md): supports.** Maintenance is a standing pool at room
   temperature; re-entry from a damaged state took a 300× excess and an
   anneal from 50 °C, and stayed incomplete.
-- **CLAIM-571: supports in kind.** Restoring the kinked 12HB needed a
+- **[CLAIM-571](../claims.d/CLAIM-571.md): supports in kind.** Restoring the kinked 12HB needed a
   temperature peak above what holding the folded state needs.
-- **CLAIM-567: qualifies.** Repair is reachable for about half the damaged
+- **[CLAIM-567](../claims.d/CLAIM-567.md): qualifies.** Repair is reachable for about half the damaged
   structures: reachable, not reliably reached.
-- **CLAIM-520: supports qualitatively.** The matching pool beats the
+- **[CLAIM-520](../claims.d/CLAIM-520.md): supports qualitatively.** The matching pool beats the
   non-corrective control at a low damage rate (76% against 56%) and gives no
   gain at a high one; the cost of the pool is not priced.
-- **CLAIM-516: the case it excludes.** The capacity persists under turnover
+- **[CLAIM-516](../claims.d/CLAIM-516.md): the case it excludes.** The capacity persists under turnover
   because production is basal, an external pool, which shows what the
   external supply buys.
-- **CLAIM-591: a loose fit.** Displacement is one-way where a toehold exists
+- **[CLAIM-591](../claims.d/CLAIM-591.md): a loose fit.** Displacement is one-way where a toehold exists
   and does not occur at intact staples.
-- **CLAIM-572, QUESTION-374: bears on them, in this reading.** Observing
+- **[CLAIM-572](../claims.d/CLAIM-572.md), [QUESTION-374](../questions.d/QUESTION-374.md): bears on them, in this reading.** Observing
   spends the function observed, so imaging is sparse; observation and
   maintenance draw on one budget, light dose against repair capacity. The
   authors do not frame it so.
-- **CLAIM-478: bears on it, in this reading.** The scaffold, which neither
+- **[CLAIM-478](../claims.d/CLAIM-478.md): bears on it, in this reading.** The scaffold, which neither
   turns over nor is repaired, is the slow constraint; staples exchange fast
   against it, and repair works in the window between.
-- **NOTE-114**: self-repair listed as a mark of a biological individual;
+- **[NOTE-114](NOTE-114.md)**: self-repair listed as a mark of a biological individual;
   here it comes without the others.
-- Filed: THEORY-tmpy8h1y. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpy8h1y](../theory.d/THEORY-tmpy8h1y.md). No instruction for machine-learning practice.
 
 ## Limitations
 
