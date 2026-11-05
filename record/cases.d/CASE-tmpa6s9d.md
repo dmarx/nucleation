@@ -66,8 +66,10 @@ of levels.
   more than sixteen hours: 78 % trapped at 296 K, at one hour and at
   sixteen alike.
 - **The window.** Within one hour the best constant temperature is
-  318.6 K, with 90.4 % folded, and no constant temperature from 290 to
-  345 K reaches 95 %. Within sixteen hours at least 90 % fold from 313 to
+  318.6 K, with 90.4 % folded. This is a numerical result: a 0.1 K grid
+  from 290 to 345 K, refined by a bounded continuous search near the peak,
+  gives 90.395 % at 318.618 K. On the grid no constant temperature reaches
+  95 %. Within sixteen hours at least 90 % fold from 313 to
   323.5 K; the folded fraction over 300 to 334 K in steps of 2 K is 0.30,
   0.35, 0.41, 0.48, 0.56, 0.68, 0.84, 0.97, 1.00, 1.00, 1.00, 1.00, 0.85,
   0.39, 0.12, 0.03, 0.01, 0.00, rising and then falling.
@@ -98,9 +100,10 @@ holds.
   entropic barriers and melts the target, so what is reachable is a band of
   T, not everything above a threshold. This is the construction for
   [CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md).
-- **Two resources that do not reduce to one.** Time and temperature are
-  both spent, but only time is a budget in the record's sense; temperature
-  is a setting of the landscape. The window in T widens with t.
+- **A budget and a condition that do not reduce to one.** Time is spent and
+  is a budget in the record's sense. Temperature is not consumed: it is a
+  controlled condition that sets reaction rates and equilibria together.
+  The window in T widens with t.
 - **A path, not a level.** The schedule does what no level does, as
   Wagenbauer, Wachauf and Dietz's three-step folding matched a 16-hour ramp
   in 1.5 hours, and as Sobczak's dissertation found a short-domain design

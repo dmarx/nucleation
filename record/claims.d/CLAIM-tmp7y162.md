@@ -104,6 +104,10 @@ claim report each of the three points in origami:
 
 ## What it does not say
 
+- **That temperature is consumed.** The claim's "resource" is a level θ of
+  a controlled condition, not a consumable budget. Heat sets rates and
+  equilibria together; time is what is spent.
+
 - **That the record's fixed-cost claims are wrong.** [CLAIM-581](CLAIM-581.md) and
   [CLAIM-570](CLAIM-570.md) hold when the costs do not depend on the budget. This claim
   marks their scope.

@@ -63,9 +63,11 @@ the step its component takes part in:
 - **A's proposed case.** Two interventions of equal cost, the same target,
   different yields. Placement matters at equal quantity, as [CLAIM-562](../claims.d/CLAIM-562.md)
   holds for actuators.
-- **Order matters at equal expenditure.** This is A's Prediction 5:
-  "Two policies can have identical cumulative expenditure ... while
-  inducing different formation probabilities".
+- **Order matters at equal integrated exposure.** This is the exposure
+  form of A's Prediction 5, which A states for expenditure: "Two policies
+  can have identical cumulative expenditure ... while inducing different
+  formation probabilities". Equal expenditure needs the stock model
+  below, and is not shown here.
 - **The sign of the order effect is not general.** A warns that "It would
   be incorrect to conclude generally that early expenditure is better.
   Early support could stabilize a trap." The third row is that case.

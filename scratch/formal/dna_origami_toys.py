@@ -44,6 +44,9 @@ occ_1h = np.array([anneal([(T, 3600)]) for T in temps])
 close(occ_1h.max(), 0.9039)
 close(temps[occ_1h.argmax()], 318.6, 0.05)
 assert (occ_1h >= 0.95).sum() == 0                       # no constant temperature reaches 95 % folded at 1 h
+from scipy.optimize import minimize_scalar                 # a numerical optimum: grid, then a bounded refinement
+_r = minimize_scalar(lambda T: -anneal([(T, 3600)]), bounds=(310, 330), method="bounded", options={"xatol": 1e-4})
+close(_r.x, 318.618, 0.01); close(-_r.fun, 0.90395, 1e-4)
 hit_1h = np.array([anneal([(T, 3600)], True) for T in temps])
 assert np.max(np.abs(hit_1h - occ_1h)) < 1e-6              # occupancy and first passage agree here: F barely melts
 win16 = [T for T in np.arange(290, 345, 0.5) if anneal([(T, 57600)]) >= 0.9]

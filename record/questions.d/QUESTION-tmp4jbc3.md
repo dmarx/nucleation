@@ -33,21 +33,29 @@ summary: >-
 A: "A candidate intermediate could improve eventual success simply because
 establishing it moves the system closer to the target. That's different
 from establishing a set of relations that reorganizes the subsequent
-assembly process." In a Markov description the two are different kinds of
-intervention:
+assembly process."
 
-- **State advantage.** The intervention moves the starting state, X₀ := s_N,
-  and leaves the rates Q as they were.
-- **Generative advantage.** The intervention changes Q itself: some steps
-  not involving the nucleus's own relations become faster or slower once
-  those relations exist.
+**The test, stated so that it does not depend on the representation.** An
+earlier draft of this entry put the distinction as moving the starting
+state against changing the generator Q. A's second review showed that
+this depends on the representation. If the nucleus is part of the
+complete state, its formation can change downstream rates while the
+global generator stays the same. The representation-independent form is
+a conditional causal effect on downstream transitions. Write y for the
+configuration of the components outside the nucleus N, and compare
 
-The assistant adds the observable that separates them. Under a pure state
-advantage, a step's hazard from a given configuration of the remaining
-components is the same whether or not the nucleus formed. Under a
-generative advantage it differs. So A's "downstream reaction hazards" are
-the decisive measurement: the rates of later steps, compared between
-matched states that differ only in the nucleus.
+  Δk(y → y′) = k(y → y′ | do(N = 1)) − k(y → y′ | do(N = 0)),
+
+the rate of a transition among the remaining components with the nucleus
+established and without it, under matched physical conditions. A nucleus
+gives a generative advantage when some Δk is non-zero for transitions it
+takes no part in: it changes how other components interact. It gives only
+a state advantage when every such Δk is zero, so that its contribution is
+just the completed part of the assembly. In A's words, the question is
+whether establishing the nucleus changes how other components interact,
+"beyond the trivial advantage of having already completed some of the
+assembly". Downstream reaction hazards, compared in matched states, are
+the measurement.
 
 ## What the record has on it
 
