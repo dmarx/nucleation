@@ -1,0 +1,112 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmpwrlv9) from the authors' arXiv v1 preprint,
+  titled "Supervised learning in a mechanical system", main text in full,
+  the Supplementary Notes skipped; the PNAS version was not reached (a
+  Cloudflare challenge at Europe PMC, a reCAPTCHA at PMC). Worth reading
+  as a model of a material trained by its own plastic changes: a creased
+  sheet folded under example force patterns, each crease softening when an
+  external supervisor judges the fold correct and stiffening otherwise,
+  comes to fold unseen test patterns into the right class's structure,
+  because the stiffness heterogeneity it acquires removes most folded
+  structures and enlarges the basins of a few; overtraining collapses it
+  into one structure. Its main limits: simulation only, with a simplified
+  origami energy model; the supervisor and its reference states are
+  outside the sheet; small two-class tasks.
+title: 'Supervised learning through physical changes in a mechanical system'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    FACT, rigidity, compliant mechanisms and origami, written by another
+    assistant (A) and pasted by the owner on 2026-11-04, which cites it as
+    O11 by its published title and PMC id, without authors. Citation
+    checked against Europe PMC and OpenAlex by the reader: Menachem Stern,
+    Chukwunonso Arinze, Leron Perez, Stephanie E. Palmer and Arvind Murugan
+    (University of Chicago), Proceedings of the National Academy of
+    Sciences 117(26), 14843–14850, published 2020-06-16; PMC7334525; first
+    posted as arXiv:1910.09547 v1 on 2019-10-21, its only version, which is
+    `published:`. The arXiv version is titled "Supervised learning in a
+    mechanical system"; the title here is the published one. Correction:
+    the synthesis gives no authors. Not held before (no hit for the DOI,
+    the PMC or arXiv id, either title or the authors). Copy: the arXiv v1
+    PDF, https://arxiv.org/pdf/1910.09547, extracted with pdftotext. The
+    published text was not reached: Europe PMC's PDF render returned a
+    Cloudflare challenge, PMC a reCAPTCHA, and Europe PMC's full-text API
+    an HTTP 500; none was retried. The retitling suggests the published
+    text was revised.
+tags:
+- natural-sciences
+- learning-theory
+- complex-systems
+date: '2026-11-05'
+published: '2019-10-21'
+doi: '10.1073/pnas.2000807117'
+arxiv: '1910.09547'
+first_author: 'Stern'
+keywords:
+- 'supervised learning'
+- 'physical learning'
+- 'self-folding origami'
+- 'creased sheet'
+- 'plasticity'
+- 'multistability'
+- 'attractors'
+- 'generalization'
+implementations: []
+summary: >-
+  Stern, Arinze, Perez, Palmer & Murugan (2020; arXiv 2019). A creased
+  thin sheet folds from flat into one of exponentially many structures
+  depending on the applied force pattern, so it is a random classifier of
+  force patterns. Trained by folding it under examples, with every crease
+  softening in proportion to its folding strain when a supervisor judges
+  the fold correct and stiffening otherwise, it classifies unseen patterns
+  (about 80% on a two-class task, 91% on two Iris species). Training makes
+  crease stiffness heterogeneous, which leaves fewer folded structures
+  with larger attractors; overtraining leaves one. Simulation only, read
+  from the arXiv preprint.
+---
+<!-- inactive-ok-file: THEORY-tmpnd6jt — Proposed and new; the account filed from this reading -->
+
+# LIT-tmpz2euq: Supervised learning through physical changes in a mechanical system
+
+Stern, M., Arinze, C., Perez, L., Palmer, S. E. & Murugan, A. (2020). Supervised learning through physical changes in a mechanical system. *Proceedings of the National Academy of Sciences* 117(26): 14843–14850. doi:10.1073/pnas.2000807117. arXiv:1910.09547 (v1 2019-10-21, as "Supervised learning in a mechanical system").
+
+## Key takeaways
+
+*From the reading of the arXiv v1 preprint, NOTE-tmpwrlv9.*
+
+- **The rule.** "if the response is the desired one, as determined by a
+  ‘supervisor’, folded creases are allowed to soften in proportion to their
+  folding strain. If the response is incorrect, creases stiffen instead."
+- **Generalization.** "High test accuracy is observed (Fig. 3c,d) (∼ 80% of
+  the test examples classified correctly)"; on Iris, "the trained sheet was
+  able to identify the species of 91% of previously unseen specimens
+  correctly."
+- **The mechanism.** "the learning process merges attractors of the
+  untrained sheet such that the surviving attractors recapitulate features
+  of the desired force-fold mapping."
+- **Overtraining.** "all forces fold the sheet into a single folded
+  structure, resulting in no classification."
+- **Learning is not memory.** The authors separate low training error,
+  "even at the expense of overfitting", from a model "that generalizes and
+  responds correctly to unseen examples" (Discussion).
+
+## Standing in the record
+
+The pasted synthesis on constraint architectures cites it as O11 with the
+gloss that plasticity trains mechanical systems. That is thin: the
+training is supervised, an external judge's correct-or-incorrect signal
+setting the sign of a local plastic rule, and the central result is
+generalization to unseen inputs, which the synthesis does not mention. In
+the synthesis's progression from fixed geometry to self-maintaining
+structures this work is squarely at "trainable", with the supervisor
+outside the system. The record has no other entry on physical learning or
+origami; its nearest are THEORY-324 (Ashby's second feedback through
+essential variables), for which this is a contrast case, and CLAIM-443,
+whose reward-modulated local update it instantiates in form only. Filed
+from it: THEORY-tmpnd6jt. It borrows the vocabulary of supervised learning
+and gives no instruction for machine-learning practice.
