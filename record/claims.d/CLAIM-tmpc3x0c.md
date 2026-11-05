@@ -151,6 +151,36 @@ summary: >-
      the support covers only what the party cannot yet do and withdraws
      itself.
 
+## What the windfall readings add
+
+The owner suggested lottery winners as cases of large, sudden,
+unconditional money. Three readings test both of the revision's
+conditions.
+
+- **Slack effort, in the setting it was confined to.** A lottery prize
+  is large, unconditional and permanent. Work does fall, but modestly
+  and smoothly.
+  - Swedish winners earn about 1.1 % of the prize less each year, from
+    the first year and for more than ten (Cesarini, Lindqvist,
+    Notowidigdo and Östling, NOTE-tmp2or0k).
+  - US winners' households earn about $2.3 less a year per $100 won
+    (Golosov, Graber, Mogstad and Novgorodsky, NOTE-tmpnogky).
+  - Neither finds a threshold. In both, the effect per unit won is, if
+    anything, smaller for larger prizes.
+- **A stock does not start a process.** Cash larger than the median
+  heavy debtor's debt halved bankruptcy filings among Florida winners
+  for two years. Filings then rose in years 3–5, and over five years no
+  difference was detected (Hankins, Hoekstra and Skiba, NOTE-tmpoyhwh).
+  US winners save most of a win and draw it down slowly. Wealth raised
+  only low-profit self-employment, not profitable businesses (Golosov et
+  al.).
+- **What this says about size.** A large windfall is not enough on its
+  own, because size counts only relative to a process that keeps going.
+  Balboni et al.'s cow crossed a threshold in a productive process.
+  Florida cash was a stock that ran down. That is the first condition
+  again: support must start something that keeps itself going, or what
+  it supplies is spent.
+
 ## What the counterpoints changed
 
 Read after the owner asked for a counterpoint to the dependency material

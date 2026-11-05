@@ -118,6 +118,19 @@ number.
   fail if it leaves the household exposed through the delay. The
   condition on size is also a condition on timing.
 
+## What the windfall readings add
+
+- **A buffer buys time, and time alone is not enough.** In Florida,
+  winning $50,000–150,000 roughly halved bankruptcy filings for two
+  years. Over five years no difference was detected (Hankins, Hoekstra
+  and Skiba, NOTE-tmpoyhwh). The model's buffer buys survival through a
+  delay. The windfall bought the time, and nothing that would keep going
+  was started in it.
+- **A rich-country contrast.** US winners build the buffer and put little
+  of it into profitable business (Golosov et al., NOTE-tmpnogky). They are
+  not near ruin, so the model's survival constraint does not bind for
+  them.
+
 ## What it does not say
 
 - **That the poor never discount steeply.** It shows that a short
