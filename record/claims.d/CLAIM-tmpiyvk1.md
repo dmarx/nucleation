@@ -39,6 +39,7 @@ summary: >-
   [CLAIM-184](CLAIM-184.md), shown in DNA origami by Dunn et al.'s seams. The wording is
   A's, with the assistant's proof; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpli7gt — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: CLAIM-184 CLAIM-185 TERM-tmp3awsy — Proposed, Skimmed or new; entries cited as open -->
 
 # CLAIM-tmpiyvk1: Persistence and nucleating productivity vary independently: two intermediates of an assembly can have the same expected residence time and different chances of reaching the target before failure, since the committor depends only on where a state's exits lead and not on how fast it leaves, and an intermediate can persist while lowering the target's chance of forming against an admissible alternative
@@ -90,3 +91,11 @@ persists, and persisting is what makes it a trap.
   for their success" ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)'s interventional measure).
 - **Anything about organizations** beyond the logic. A: "The broader
   organizational interpretation remains to be tested."
+
+## Note of 2026-11-05: A's predictions on productive nucleation
+
+From the fourth synthesis on DNA origami by another assistant (A), "Predicting which organizations will successfully nucleate", pasted by the owner on 2026-11-05.
+
+A's fourth synthesis proposes the claim in a fuller form: "equally persistent intermediate structures can differ in their probability of reaching a target before failure; and strengthening an intermediate can increase initial formation while reducing final yield." The first half is this claim. The second is shown by A's stabilization toy (CASE-tmpli7gt): yield peaks at s ≈ 1.11 with 40.2 %, and falls beyond as nucleation rises and completion falls. A: "The interpretation in terms of organizational development remains a separate claim."
+
+No status changes.

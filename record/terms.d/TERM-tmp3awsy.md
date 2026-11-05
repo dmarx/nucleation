@@ -95,3 +95,11 @@ Schneider, Möritz and Dietz ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)) remo
 segments. The compacted intermediate did not form, and folding proceeded "via
 another, slower pathway". That is the term's comparator in
 experiment, with the time to fold as the measure of productivity.
+
+## Note of 2026-11-05: A's predictions on productive nucleation
+
+From the fourth synthesis on DNA origami by another assistant (A), "Predicting which organizations will successfully nucleate", pasted by the owner on 2026-11-05.
+
+A's fourth synthesis adds two refinements. Productivity is a vector over targets, not a scalar: a nucleus may raise one target's chance and lower another's, so "a theory of organizational agency cannot conclude that the nucleus is globally desirable without specifying how the competing objectives are evaluated". A also separates two ways a nucleus can help, a "State advantage", moving the system to a better starting state under the same transition rules, and a "Generative architectural advantage", changing the rules themselves, as when early binding brings distant sites together. A: "Merely starting closer to the finished structure is not the same as constructing a partial organization that makes later assembly more favorable."
+
+No status changes.

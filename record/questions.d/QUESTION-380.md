@@ -140,3 +140,11 @@ From the second synthesis on DNA origami by another assistant (A), pasted by the
 A proposes for the record "a QUESTION asking what makes an early intermediate a productive nucleus rather than a kinetic trap". That is this question, so it is not filed again. A offers a criterion: a productive nucleus is one whose specified formation raises the chance of completion, Δ_N = Pr(τ_F ≤ T | do(N)) − Pr(τ_F ≤ T | do(U)) > 0, or in committor form Δq_N > 0. A partial structure that "appears quickly but decreases that probability would be a kinetic trap, not a productive nucleus". The design that would measure it is [CASE-tmpvdu02](../cases.d/CASE-tmpvdu02.md). Majikes et al. 2026 ([NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md)) bear against reading short early folds as nuclei: replacing medium folds by more short ones made defects worse.
 
 No status changes.
+
+## Note of 2026-11-05: A's predictions on productive nucleation
+
+From the fourth synthesis on DNA origami by another assistant (A), "Predicting which organizations will successfully nucleate", pasted by the owner on 2026-11-05.
+
+A proposes a question that this one already holds in its second part, how the effectiveness of a nucleus can be predicted: "Can productive nucleating sets be identified from their causal effects on downstream transition probabilities, and do they outperform nucleus selection by size, persistence, or component centrality?" A's Prediction 2 adds an observable. Topology-sensitive descriptions of intermediates should forecast success "better than progress counts alone", which can be tested as held-out prediction of the outcome given the count alone against the count with a descriptor of the arrangement.
+
+No status changes.

@@ -44,7 +44,7 @@ summary: >-
   abundance" is thus made exact. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpzi9gz CASE-tmpj3cmd CLAIM-tmp7y162 CLAIM-577 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
+<!-- inactive-ok-file: CASE-tmp7oe6s THEORY-tmpzi9gz CASE-tmpj3cmd CLAIM-tmp7y162 CLAIM-577 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
 
 # CLAIM-tmpt0fnx: Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as DNA origami's blocked single fold is by staple excess
 
@@ -70,7 +70,16 @@ target is a sum over paths of products of branch shares
    opposed to scaling it, changes the k_i and moves the shares even where
    every m is equal. This is A's "Guided nucleation" row ([CASE-tmpj3cmd](../cases.d/CASE-tmpj3cmd.md)).
 
-Shown in [CASE-tmpj3cmd](../cases.d/CASE-tmpj3cmd.md). At A's baseline, with the trap entered from the
+4. **Timing at equal total supply.** The same reasoning applies over time.
+   Supply that arrives while the system is in a state whose wrong step
+   consumes it does harm there, and does good where the right step does.
+   So whether front-loading or delay is better depends on which steps the
+   supply enters. In CASE-tmp7oe6s, with total supply fixed, the yield
+   front-loaded, even or delayed is 70.6, 58.8 and 24.8 % when nucleation
+   uses the supply. It is 45.4, 58.8 and 65.3 % when the supply traps the
+   unnucleated scaffold and completes the nucleated one.
+
+Shown in [CASE-tmpj3cmd](../cases.d/CASE-tmpj3cmd.md), and for timing in CASE-tmp7oe6s. At A's baseline, with the trap entered from the
 nucleus by binding a further molecule and completion intramolecular, the
 yield falls from 59.3 % at λ = 1 to 19.0 % at λ = 20. If every step
 consumes alike, it stays at 59.3 %.

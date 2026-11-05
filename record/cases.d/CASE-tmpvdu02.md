@@ -87,3 +87,11 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A's third synthesis refines the design into four interventions: a baseline, establishing the candidate nucleus, disrupting it, and establishing an alternative nucleus, in A's table: "Test whether productivity is specific to the arrangement rather than simply added stabilization". A adds the outcome to look for: stabilizing a nucleus that raises an intermediate's chance but lowers final yield. That "wouldn't refute the framework" but "would establish why productivity must be specified relative to a target and horizon". The alternative-nucleus arm also tests [CLAIM-tmpuv9yj](../claims.d/CLAIM-tmpuv9yj.md), whether productive relations combine.
 
 No status changes.
+
+## Note of 2026-11-05: A's predictions on productive nucleation
+
+From the fourth synthesis on DNA origami by another assistant (A), "Predicting which organizations will successfully nucleate", pasted by the owner on 2026-11-05.
+
+A's fourth synthesis enlarges the design. It has three or four candidate nucleating relations and two competing finished forms, with the inventory and resources fixed. It varies which relations come first, their strengths and how long support lasts, and records trajectories. A pairs each test with the rival it excludes: placement against more resources, structure against progress count, a stabilization sweep against degradation, complementarity against additivity, timing against total exposure, withdrawal against early completion, and competing targets against a silently privileged one. A notes the gap such a model would test: Aksel et al.'s design score (NOTE-tmptbrlo) omits kinetics and inter-staple cooperativity.
+
+No status changes.

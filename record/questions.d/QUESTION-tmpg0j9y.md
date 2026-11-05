@@ -24,6 +24,7 @@ summary: >-
   free energy. Whether an organizational form behaves so needs a mechanism
   of its own. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmp7oe6s — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: THEORY-tmp2h496 CLAIM-583 CLAIM-567 CASE-tmpu0s44 — Proposed or new; the DNA origami readings and entries of this pull request, cited as open -->
 
 # QUESTION-tmpg0j9y: Can changing how a fixed stock of resources is allocated among otherwise unchanged components alter which form nucleates, and so which form results, even when the set of attainable final forms stays the same?
@@ -101,5 +102,13 @@ where staples melt highest, concentration setting the melting
 temperature), the assistant's "kT ln c" reading rather than A's kinetic
 competition. The reading shows the path rerouted; it does not show the
 final form selected.
+
+No status changes.
+
+## Note of 2026-11-05: A's predictions on productive nucleation
+
+From the fourth synthesis on DNA origami by another assistant (A), "Predicting which organizations will successfully nucleate", pasted by the owner on 2026-11-05.
+
+A's Prediction 5 extends this question from allocation to timing. Policies with "identical cumulative expenditure" can give different formation probabilities, because "early interactions change the state in which later interventions operate". A links this to budgeting rules: "A use-it-or-lose-it rule might change not just total spending, but the timing of investments in relationships that are necessary for later competence". The record holds the year-end spending readings (LIT-2028, LIT-2103). The assistant's CASE-tmp7oe6s shows both signs in one model: front-loading helps when nucleation uses the supply, and delay helps when the supply traps the unnucleated scaffold.
 
 No status changes.

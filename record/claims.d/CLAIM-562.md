@@ -42,6 +42,7 @@ summary: >-
   the filer's, from A's reading of Stern et al.; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmp7oe6s CLAIM-tmpuv9yj — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: THEORY-1418 THEORY-1368 CLAIM-567 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
@@ -129,5 +130,13 @@ the concentration change was applied (central versus edge staples), not the
 amount alone, moved the nucleation site. The paper varies location and
 amount together, so it is suggestive, not a clean separation. No status
 changes.
+
+No status changes.
+
+## Note of 2026-11-05: A's predictions on productive nucleation
+
+From the fourth synthesis on DNA origami by another assistant (A), "Predicting which organizations will successfully nucleate", pasted by the owner on 2026-11-05.
+
+A's Predictions 1 and 4 restate this claim as predictions about organizations. Placement: "targeted stabilization of components that facilitate many later compatible interactions should outperform equally costly stabilization of components with little downstream influence", measured by a leverage per unit cost. Non-monotonicity: adding an intervention can lower the chance of the target, V(S ∪ {C}) < V(S). A cites the same Stern, Pinson and Murugan work. The assistant's CASE-tmp7oe6s gives an equal-cost pair in A's branching model (71.1 % against 62.7 %), and CLAIM-tmpuv9yj draws from this claim that productive nucleating sets have no closure. A's test would decide the organizational version: "Compare equal-budget interventions at different locations".
 
 No status changes.

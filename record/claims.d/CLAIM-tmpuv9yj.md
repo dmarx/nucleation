@@ -20,6 +20,8 @@ line:
 - formal-apparatus
 uses:
 - TERM-tmp3awsy
+rests_on:
+- CLAIM-562
 complements:
 - CLAIM-tmpiyvk1
 - CLAIM-347
@@ -31,15 +33,17 @@ summary: >-
   a set S of established relations with Δ_S ≥ η, no proper subset reaching
   η, and possibly several incomparable ones. The productive sets are then
   described by these minimal ones only if V is monotone, that is, if
-  establishing more relations never lowers the chance of the target. DNA
-  origami shows it can: Dunn et al.'s early long-range seams trap the fold.
+  establishing more relations never lowers the chance of the target. The
+  record already holds that it can (CLAIM-562, from Stern, Pinson and
+  Murugan's actuators), and in DNA origami Dunn et al.'s early long-range
+  seams trap the fold.
   With V(∅) = 0.2, V({a}) = V({b}) = 0.6 and V({a, b}) = 0.1, two productive
   nuclei combine into a trap. The productive sets therefore form no
   complex of either kind, unlike [CLAIM-347](CLAIM-347.md)'s jointly satisfiable sets,
   which are closed downward. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpiyvk1 TERM-tmp3awsy — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: CLAIM-562 CLAIM-tmpiyvk1 TERM-tmp3awsy — Proposed, Skimmed or new; entries cited as open -->
 
 # CLAIM-tmpuv9yj: Because establishing more relations can lower the chance of forming a target, the sets of relations that are productive nuclei need not be closed upward: two productive nuclei can combine into a trap, so the minimal productive sets describe the productive ones only where adding relations never hurts
 
@@ -77,6 +81,11 @@ replacing medium folds with more short ones raised defects. Adding
 locally favourable relations made the outcome worse.
 
 ## What it adds
+
+- **Beyond CLAIM-562,** which holds the non-monotonicity itself, from
+  mechanical origami: this claim draws what follows for A's minimal
+  nucleating sets, and that productive sets have no closure. The
+  assistant's first filing missed CLAIM-562, and this version rests on it.
 
 - **To A's minimal nuclei** ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)): they suffice only under a
   monotonicity that assembly often lacks.
