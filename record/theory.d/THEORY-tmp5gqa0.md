@@ -17,7 +17,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp7v945
 summary: >-
-  Schneider, Möritz and Dietz (2019), LIT-tmp7v945, read in NOTE-tmpqi66a.
+  Schneider, Möritz and Dietz (2019), [LIT-tmp7v945](../literature.d/LIT-tmp7v945.md), read in [NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md).
   One object, one temperature and one buffer; progress normalized per
   reaction, so the delay is in when signals saturate, not in a measured
   yield; the single-terminus kinetics come from a model that assumes the
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Schneider, Möritz and Dietz (2019), LIT-tmp7v945; read in NOTE-tmpqi66a.
+Schneider, Möritz and Dietz (2019), [LIT-tmp7v945](../literature.d/LIT-tmp7v945.md); read in [NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md).
 
 ## What was actually shown
 

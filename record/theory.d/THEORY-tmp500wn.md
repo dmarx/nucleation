@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpwddcn
 summary: >-
-  Sobczak (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, standing
-  in for Sobczak, Martin, Gerling and Dietz (2012), LIT-tmpg98v0, whose
+  Sobczak (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), standing
+  in for Sobczak, Martin, Gerling and Dietz (2012), [LIT-tmpg98v0](../literature.d/LIT-tmpg98v0.md), whose
   abstract says the same in kind. Measured by gel and SYBR Green assays,
   mostly on one brick family. The last clause is an inference from the
   hysteresis: no experiment held a melted object inside the band and
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Sobczak (2018), LIT-tmpwddcn; read in NOTE-tmpwxm2p. A stand-in for
-Sobczak et al. (2012), LIT-tmpg98v0, unread.
+Sobczak (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md); read in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md). A stand-in for
+Sobczak et al. (2012), [LIT-tmpg98v0](../literature.d/LIT-tmpg98v0.md), unread.
 
 ## What was actually shown
 

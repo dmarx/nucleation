@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpmw05j) from the publisher's open-access HTML
+  read 2026-11-05 ([NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md)) from the publisher's open-access HTML
   (CC BY 3.0), main text and methods in full, Supplementary Information
   figure captions and Note 1; worth reading as the case where the field's
   routine probes, TEM class averages and gel mobility, cannot tell a
@@ -63,7 +63,7 @@ Wagenbauer, K. F., Wachauf, C. H. & Dietz, H. (2014). Quantifying quality in DNA
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmw05j.*
+*From the reading, [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md).*
 
 - **Routine probes merge it.** Under TEM averaging "no difference could
   be discerned between the pseudo-defective variants and the putative
@@ -91,6 +91,6 @@ whose partitions of the same samples differ, and are not nested by cost.
 On the acting side, it shows that a temperature path, not a total time
 or a single temperature, decides how completely a target is reached, and
 that two routings of one shape have different optima. It adds to the
-held DeLuca et al. reading (THEORY-1398) that a correct shape under TEM
-does not certify completeness. Filed from it: THEORY-tmp8ofc7. No
+held DeLuca et al. reading ([THEORY-1398](../theory.d/THEORY-1398.md)) that a correct shape under TEM
+does not certify completeness. Filed from it: [THEORY-tmp8ofc7](../theory.d/THEORY-tmp8ofc7.md). No
 instruction for machine-learning practice; nothing for the anthology.

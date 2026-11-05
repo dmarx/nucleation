@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp8kyp2) from the author's own copy on the
+  read 2026-11-05 ([NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md)) from the author's own copy on the
   Rothemund lab site at Caltech, the article in full and Supplementary
   Notes S4, S5, S7, S9 and S10; worth reading as the founding paper of
   scaffolded DNA origami, a design in which the target is compatible by
@@ -64,7 +64,7 @@ Rothemund, P. W. K. (2006). Folding DNA to create nanoscale shapes and patterns.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp8kyp2. Page numbers are the journal's.*
+*From the reading, [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md). Page numbers are the journal's.*
 
 - **Compatible by construction.** Crossovers fall where "the scaffold
   can form a crossover only at those locations where the DNA twist places
@@ -90,11 +90,11 @@ Rothemund, P. W. K. (2006). Folding DNA to create nanoscale shapes and patterns.
 
 Registered at the owner's request to connect the record's realizability
 line to DNA origami. It is the precursor of the held simulation reading of
-DeLuca et al. (LIT-2081, THEORY-1398): Rothemund's proposed cooperativity
+DeLuca et al. ([LIT-2081](LIT-2081.md), [THEORY-1398](../theory.d/THEORY-1398.md)): Rothemund's proposed cooperativity
 is the mechanism they later simulate, and his flipped, dislocated and
 folded-in misfolds may be traps of their kind, though he cannot tell
 folding misfolds from deposition artefacts. Its bearing is on the
 distinction between feasible and reliably reachable targets, on staple
 excess as a resource needed to build but perhaps not to hold, and on a
-probe that damages what it observes. Filed from it: THEORY-tmpzb4hv. No
+probe that damages what it observes. Filed from it: [THEORY-tmpzb4hv](../theory.d/THEORY-tmpzb4hv.md). No
 instruction for machine-learning practice; nothing for the anthology.

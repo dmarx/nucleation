@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpyo994) from the authors' arXiv preprint, v2,
+  read 2026-11-05 ([NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md)) from the authors' arXiv preprint, v2,
   the post-acceptance revision, in full apart from a worked-arithmetic
   appendix and the references; figures seen only through captions and
   text; worth reading as the thermodynamically self-consistent,
@@ -67,7 +67,7 @@ Dannenberg, F., Dunn, K. E., Bath, J., Kwiatkowska, M., Turberfield, A. J. & Oul
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpyo994. Sections are the arXiv v2's.*
+*From the reading, [NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md). Sections are the arXiv v2's.*
 
 - **Cooperativity makes hysteresis.** "As partially-formed regions are
   relatively disfavoured, cooperativity tends to exaggerate hysteresis
@@ -90,10 +90,10 @@ Dannenberg, F., Dunn, K. E., Bath, J., Kwiatkowska, M., Turberfield, A. J. & Oul
 Registered at the owner's request to connect the record's realizability
 inquiry to DNA origami. It is the record's case of a resource (cooling
 rate, staple concentration) moving the cost of reaching a folded state
-more than the conditions under which it holds, bearing on CLAIM-571 and
-CLAIM-569, though as kinetic hysteresis in a model with a unique
+more than the conditions under which it holds, bearing on [CLAIM-571](../claims.d/CLAIM-571.md) and
+[CLAIM-569](../claims.d/CLAIM-569.md), though as kinetic hysteresis in a model with a unique
 equilibrium at each temperature, not bistability. It is the modelling
-companion of Dunn et al. (2015), LIT-tmpqku12, which uses its local
-version, and sits beside the held simulation of DeLuca et al., LIT-2081.
-Filed from it: THEORY-tmpfdm4r. No instruction for machine-learning
+companion of Dunn et al. (2015), [LIT-tmpqku12](LIT-tmpqku12.md), which uses its local
+version, and sits beside the held simulation of DeLuca et al., [LIT-2081](LIT-2081.md).
+Filed from it: [THEORY-tmpfdm4r](../theory.d/THEORY-tmpfdm4r.md). No instruction for machine-learning
 practice; nothing for the anthology.
