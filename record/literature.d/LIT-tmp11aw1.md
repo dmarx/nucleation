@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpjeolx) from the PubMed Central HTML of the
+  read 2026-11-05 ([NOTE-tmpjeolx](../notes.d/NOTE-tmpjeolx.md)) from the PubMed Central HTML of the
   version of record (PMC4311804), main text and figure captions in full,
   Supporting Information not read; worth reading as the first designed,
   reconfigurable DNA origami mechanisms: one-degree-of-freedom sliders and
@@ -71,7 +71,7 @@ Marras, A. E., Zhou, L., Su, H.-J. & Castro, C. E. (2015). Programmable motion o
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpjeolx (main text and figure captions; the SI unread).*
+*From the reading, [NOTE-tmpjeolx](../notes.d/NOTE-tmpjeolx.md) (main text and figure captions; the SI unread).*
 
 - **One designed degree of freedom, tuned by connection length.** Slider
   version 1 "revealed a range of thermal motion of 14.0 nm"; version 2,
@@ -97,10 +97,10 @@ resources for constructing a form (a two-day anneal), letting it fluctuate
 (thermal, at the scale of kBT), holding a configuration (bound bridging
 strands or locking staples) and moving between configurations (added
 strands, then displacing strands) are separate and each stated. It bears
-on CLAIM-569 and CLAIM-567, qualifies CLAIM-571 in the reverse direction
-(the target is cheap to reach and dear to hold), and gives CLAIM-591 a
+on [CLAIM-569](../claims.d/CLAIM-569.md) and [CLAIM-567](../claims.d/CLAIM-567.md), qualifies [CLAIM-571](../claims.d/CLAIM-571.md) in the reverse direction
+(the target is cheap to reach and dear to hold), and gives [CLAIM-591](../claims.d/CLAIM-591.md) a
 qualitative instance of a configuration that returns while the reagent
-state does not; compare CASE-206, where passage costs more than either
-end state. Same group (Castro) as the held simulation reading, LIT-2081
-and THEORY-1398, which it does not test. Filed from it: THEORY-tmp1799q.
+state does not; compare [CASE-206](../cases.d/CASE-206.md), where passage costs more than either
+end state. Same group (Castro) as the held simulation reading, [LIT-2081](LIT-2081.md)
+and [THEORY-1398](../theory.d/THEORY-1398.md), which it does not test. Filed from it: [THEORY-tmp1799q](../theory.d/THEORY-tmp1799q.md).
 No instruction for machine-learning practice.

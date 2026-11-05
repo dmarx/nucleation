@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmperio5) from the PubMed Central HTML of the
+  read 2026-11-05 ([NOTE-tmperio5](../notes.d/NOTE-tmperio5.md)) from the PubMed Central HTML of the
   version of record (PMC7261180, a US Government work in the public
   domain in the US), main text, figure captions and tables in full, the
   supplement not read; worth reading as a measurement of the smallest unit
@@ -73,7 +73,7 @@ Majikes, J. M., Patrone, P. N., Schiffels, D., Zwolak, M., Kearsley, A. J., Forr
 
 ## Key takeaways
 
-*From the reading, NOTE-tmperio5 (main text, captions and tables; the supplement unread).*
+*From the reading, [NOTE-tmperio5](../notes.d/NOTE-tmperio5.md) (main text, captions and tables; the supplement unread).*
 
 - **A fold is unimolecular.** "The hybridization-only sample is less
   stable than the others as it involves a bimolecular reaction, at low
@@ -96,14 +96,14 @@ Majikes, J. M., Patrone, P. N., Schiffels, D., Zwolak, M., Kearsley, A. J., Forr
 
 Filed for the realizability inquiry as a measurement of how stable one
 fold is, and of what an observer can resolve at what cost. Its strongest
-bearing is on the observing side, CLAIM-557 and CLAIM-574: bulk methods
+bearing is on the observing side, [CLAIM-557](../claims.d/CLAIM-557.md) and [CLAIM-574](../claims.d/CLAIM-574.md): bulk methods
 cannot single out one staple fold, a designed reporter can, and at the
 paper's budget persistence-length differences show in Tm but not in ΔH,
-ΔS or ΔCp. It measures the holding side of CLAIM-569 and CLAIM-567 only:
+ΔS or ΔCp. It measures the holding side of [CLAIM-569](../claims.d/CLAIM-569.md) and [CLAIM-567](../claims.d/CLAIM-567.md) only:
 melts alone, no anneal, no hysteresis, so it supplies no evidence of the
-kind THEORY-136 asks for. Its inferred order, a first-bound domain making
+kind [THEORY-136](../theory.d/THEORY-136.md) asks for. Its inferred order, a first-bound domain making
 later neighbouring folds cheaper, is a weak and untested instance of
-CLAIM-184 and a mechanism for QUESTION-380; it complements the held
-simulation reading, LIT-2081 and THEORY-1398, on local cooperativity, and
-says nothing about global traps. Filed from it: THEORY-tmpynb4z. No
+[CLAIM-184](../claims.d/CLAIM-184.md) and a mechanism for [QUESTION-380](../questions.d/QUESTION-380.md); it complements the held
+simulation reading, [LIT-2081](LIT-2081.md) and [THEORY-1398](../theory.d/THEORY-1398.md), on local cooperativity, and
+says nothing about global traps. Filed from it: [THEORY-tmpynb4z](../theory.d/THEORY-tmpynb4z.md). No
 instruction for machine-learning practice.

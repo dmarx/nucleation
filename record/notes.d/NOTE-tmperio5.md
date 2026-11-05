@@ -153,8 +153,8 @@ It draws on Rothemund's rectangle for the scale of the problem, on
 nearest-neighbour thermodynamics, and on the authors' companion
 best-practices paper on the affine analysis (its reference 27, not read).
 The nucleation-and-growth picture it invokes is the classical frame of
-LIT-924 (Unavailable). Against the held DeLuca et al. simulation, LIT-2081
-(NOTE-1561, THEORY-1398), it is complementary: experimental evidence for
+[LIT-924](../literature.d/LIT-924.md) (Unavailable). Against the held DeLuca et al. simulation, [LIT-2081](../literature.d/LIT-2081.md)
+([NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)), it is complementary: experimental evidence for
 local entropic cooperativity, short folds first and each lowering later
 loop costs, which fits locally ordered growth; nothing on global traps;
 and it anneals, which that model omits. Within this batch it is the
@@ -162,50 +162,50 @@ single-fold counterpart to the whole-origami folding measurements of
 Sobczak et al. (2012, read through its neighbour) and the pathway
 modelling of Dannenberg et al. (2015) and Dunn et al. (2015), which it does
 not test; its distinction of structural from functional yield bears on
-Wagenbauer, Wachauf and Dietz (2014). CLAIM-185's nucleation threshold has
+Wagenbauer, Wachauf and Dietz (2014). [CLAIM-185](../claims.d/CLAIM-185.md)'s nucleation threshold has
 a physical analogue in the seed sub-sequence.
 
 ## Bearing on the record
 
-- **CLAIM-557 and CLAIM-574 (observing budget refines): supports,
+- **[CLAIM-557](../claims.d/CLAIM-557.md) and [CLAIM-574](../claims.d/CLAIM-574.md) (observing budget refines): supports,
   concretely.** What can be told apart grows with the measurement budget:
   replicates, 0.3 °C control, a sample every 0.6 °C, and a reporter that
   isolates one domain. Bulk methods cannot single out one fold; at the
   paper's budget persistence-length differences show in Tm but not in ΔH,
-  ΔS or ΔCp. Nothing on the order of probe costs (CLAIM-592) or on a
-  shared budget (CLAIM-572), beyond a loose resonance: the DSC check needed
+  ΔS or ΔCp. Nothing on the order of probe costs ([CLAIM-592](../claims.d/CLAIM-592.md)) or on a
+  shared budget ([CLAIM-572](../claims.d/CLAIM-572.md)), beyond a loose resonance: the DSC check needed
   a scaffold so short and a concentration so high that it was no longer the
   measured system.
-- **CLAIM-569 (construct, maintain, transition): partial support, on the
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition): partial support, on the
   maintain side.** A fold's Tm and ΔG are measured separately and depend on
   fold distance and stiffness; construction and transition are not
   measured.
-- **CLAIM-567 (feasible, reachable, reliably reached): weak
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reached): weak
   qualification.** The paper measures the equilibrium stability of one
   fold and frames yield as a matter of "limiting thermodynamic equilibria";
   it says nothing about reachability or reliability.
-- **CLAIM-184 (anchors entrench): weak support, inferred only.** The
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench): weak support, inferred only.** The
   first-bound long domain lowers the cost of later nearby folds, early
   structure biasing later growth; no lock-in or blocked alternative is
   shown.
-- **CLAIM-478 (scale separation makes constraints): weak support.** The
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints): weak support.** The
   reporter rests on a separation of more than 30 °C in predicted Tm
   (anchor near 70 °C, melt domain 35 °C), so the anchor is a fixed
   constraint over the window in which the fold melts.
-- **QUESTION-380 (small compatible nucleus): directly relevant, as a
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (small compatible nucleus): directly relevant, as a
   hypothesis.** The seed sub-sequence and the entropy a short fold saves its
   neighbours are a mechanism by which a small nucleus helps, predicted from
   an architectural quantity (loop distance, stiffness) rather than
   sequence, at a size of more than 10 °C in Tm.
-- **CLAIM-571, CLAIM-583, CLAIM-591: leave open.** With no anneal curve and
+- **[CLAIM-571](../claims.d/CLAIM-571.md), [CLAIM-583](../claims.d/CLAIM-583.md), [CLAIM-591](../claims.d/CLAIM-591.md): leave open.** With no anneal curve and
   no hysteresis the paper measures only the holding side; the same melt
   domain in a different fold geometry differs in stability, not in
-  reachability; the inferred one-way order is not measured. CLAIM-581 and
-  CLAIM-566: nothing, beyond the structural/functional yield distinction.
-- **THEORY-136 and CLAIM-463.** No hysteresis is reported, so the paper
+  reachability; the inferred one-way order is not measured. [CLAIM-581](../claims.d/CLAIM-581.md) and
+  [CLAIM-566](../claims.d/CLAIM-566.md): nothing, beyond the structural/functional yield distinction.
+- **[THEORY-136](../theory.d/THEORY-136.md) and [CLAIM-463](../claims.d/CLAIM-463.md).** No hysteresis is reported, so the paper
   supplies no evidence of alternative stable states or of a capacity not
   restored with its conditions.
-- Filed: THEORY-tmpynb4z. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpynb4z](../theory.d/THEORY-tmpynb4z.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

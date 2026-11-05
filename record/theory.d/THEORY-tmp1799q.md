@@ -17,8 +17,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp11aw1
 summary: >-
-  Marras, Zhou, Su and Castro (2015), LIT-tmp11aw1, read in
-  NOTE-tmpjeolx (main text and figure captions; the Supporting
+  Marras, Zhou, Su and Castro (2015), [LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md), read in
+  [NOTE-tmpjeolx](../notes.d/NOTE-tmpjeolx.md) (main text and figure captions; the Supporting
   Information unread). Proposed: the conformational statistics are
   negative-stain TEM fractions on a surface, which the authors call upper
   bounds, over 52 to 918 particles with misfolds excluded, and one
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Marras, Zhou, Su and Castro (2015), LIT-tmp11aw1; read in NOTE-tmpjeolx.
+Marras, Zhou, Su and Castro (2015), [LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md); read in [NOTE-tmpjeolx](../notes.d/NOTE-tmpjeolx.md).
 
 ## What was actually shown
 
@@ -60,4 +60,4 @@ Marras, Zhou, Su and Castro (2015), LIT-tmp11aw1; read in NOTE-tmpjeolx.
   the motion analysis", and no yield is given.
 - That switching is repeatable: one closing and one opening are reported.
 - Why expansion is fast: the electrostatic account is the authors' guess.
-- Anything about how origami folds; it does not bear on THEORY-1398.
+- Anything about how origami folds; it does not bear on [THEORY-1398](THEORY-1398.md).
