@@ -157,62 +157,62 @@ domains and the target is still reached, hours later by another route.
 
 ## Connections
 
-It names refs 17 and 19, Dunn et al. (2015), LIT-tmpqku12, and Dannenberg
-et al. (2015), LIT-tmpdyrnb, as a starting point for modelling; their loop
+It names refs 17 and 19, Dunn et al. (2015), [LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), and Dannenberg
+et al. (2015), [LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), as a starting point for modelling; their loop
 term is the mechanism it invokes, and where Dunn et al. steer the fold by
 staple strength, this paper finds strength a poor predictor of order. It
 revises the nucleation reading of Sobczak et al. (2012), the same lab's
 annealing study filed in this batch. The held simulation of DeLuca et al.
-(LIT-2081, NOTE-1561, THEORY-1398) predicts a collapsed precursor before
+([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)) predicts a collapsed precursor before
 global order; this paper's compacted intermediate is an experimental
 counterpart, though gels show compaction, not local order. Its nucleating
 clusters are the molecular counterpart of the placed actuators of
-THEORY-1418 (Stern, Pinson and Murugan): placement matters more than
+[THEORY-1418](../theory.d/THEORY-1418.md) (Stern, Pinson and Murugan): placement matters more than
 strength.
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Qualifies: with
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Qualifies: with
   the early domains removed the target is still reached, by "another,
   slower pathway"; reliability is not measured, since no yields are given
   per condition.
-- **CLAIM-583 (same complex, different reachability).** Partly the
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reachability).** Partly the
   converse: two designs sharing connectivity with different sequences give
   correlated pathways and the same knockout effects; truncations keep the
   target and change the path. No same-connectivity designs with different
   reachability are shown.
-- **CLAIM-571, CLAIM-569 (thresholds and holding).** No bearing: one
+- **[CLAIM-571](../claims.d/CLAIM-571.md), [CLAIM-569](../claims.d/CLAIM-569.md) (thresholds and holding).** No bearing: one
   temperature, no melting data; the 65 °C step is protocol, not tested.
-- **CLAIM-581 (peak-cost ultrametric).** No bearing: time is the cost
+- **[CLAIM-581](../claims.d/CLAIM-581.md) (peak-cost ultrametric).** No bearing: time is the cost
   here, closer to additive.
-- **CLAIM-591 (directed costs).** Weak support in kind: folding is
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs).** Weak support in kind: folding is
   reported as one-way progress through an intermediate; reversibility is
   not measured.
-- **CLAIM-566 (assemble, persist, regenerate).** Consistent; assembly only.
-- **CLAIM-557, CLAIM-574, CLAIM-570, CLAIM-592 (observing against
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Consistent; assembly only.
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing against
   acting).** Illustrative only: gels tell three classes apart, FRET and
   beacons resolve per-domain order, and the finer resolution costs
-  thousands of reactions and a fitted model. CLAIM-572 and QUESTION-374:
+  thousands of reactions and a fitted model. [CLAIM-572](../claims.d/CLAIM-572.md) and [QUESTION-374](../questions.d/QUESTION-374.md):
   no bearing.
-- **THEORY-1398 (DeLuca et al.).** Supports in part, from experiment: a
+- **[THEORY-1398](../theory.d/THEORY-1398.md) (DeLuca et al.).** Supports in part, from experiment: a
   compacted intermediate forms at once and precedes the folded state. No
   topological traps are reported in this well-folding brick.
-- **CLAIM-184 (anchors entrench).** Qualifies: early domains are needed
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench).** Qualifies: early domains are needed
   for the fast path and their loss reroutes; no wrong early anchor locks
   in a misfold.
-- **CLAIM-478 (scale separation makes constraints).** Supports in kind:
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Supports in kind:
   time constants at about 0.5, 30 and 300 min, and early-bound domains
   constrain later binding by shortening loops.
-- **QUESTION-380 (when a small compatible nucleus helps).** Directly
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (when a small compatible nucleus helps).** Directly
   relevant: nucleating clusters exist, losing them costs hours, and their
   effect is predicted by connectivity, not local binding strength. A
   partial answer for one design.
-- **CLAIM-568 (four ways a transition fails).** The truncation result, a
+- **[CLAIM-568](../claims.d/CLAIM-568.md) (four ways a transition fails).** The truncation result, a
   path that remains but is far slower, is a case for its taxonomy.
-- **CLAIM-573 (equivalent process structures across substrates).** The
+- **[CLAIM-573](../claims.d/CLAIM-573.md) (equivalent process structures across substrates).** The
   authors' protein-folding analogy, with sequence and topology uncoupled in
   origami and coupled in proteins, bears on it.
-- Filed: THEORY-tmp5gqa0. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp5gqa0](../theory.d/THEORY-tmp5gqa0.md). No instruction for machine-learning practice.
 
 ## Limitations
 

@@ -14,7 +14,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp5gf89
 summary: >-
-  Rothemund (2006), LIT-tmp5gf89, read in NOTE-tmp8kyp2. The folding is
+  Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md). The folding is
   demonstrated; the yields are judged fractions of AFM fields with small
   counts that mix folding with deposition and tip damage; the mechanism
   is the author's argument. It does not say that the folded shape is the
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Rothemund (2006), LIT-tmp5gf89; read in NOTE-tmp8kyp2.
+Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md); read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md).
 
 ## What was actually shown
 

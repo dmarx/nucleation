@@ -7,7 +7,7 @@ status_note: >-
   page links to the publisher; Europe PMC returned 503 and no PMC copy is
   known; Unpaywall was not used, since it needs an email address; two web
   searches found no author or repository copy. Only the PubMed abstract
-  was read. The first author's TU München dissertation, LIT-tmpwddcn,
+  was read. The first author's TU München dissertation, [LIT-tmpwddcn](LIT-tmpwddcn.md),
   stands in for its qualitative results (a narrow folding window,
   constant-temperature folding, folding/unfolding hysteresis, subdomain
   cooperativity, and design and staple-concentration shifts), not for
@@ -78,13 +78,13 @@ Sobczak, J.-P. J., Martin, T. G., Gerling, T. & Dietz, H. (2012). Rapid Folding 
 Registered at the owner's request to connect the realizability line to
 DNA origami, as the paper that separates the temperature at which origami
 folds from the one at which it melts. Its full text was not reached. The
-first author's dissertation, LIT-tmpwddcn, stands in: its Chapter 3
+first author's dissertation, [LIT-tmpwddcn](LIT-tmpwddcn.md), stands in: its Chapter 3
 restates this paper's experimental programme, cites it, and marks
 several figures and the SYBR Green assay as adapted from it. It stands in
 for the qualitative results only. Which of its numbers, objects and
 design variants appear in the Science paper is not known, and on one
 point the two differ: the abstract calls unfolding equilibrium, while the
 dissertation calls it "also an out of equilibrium process, but less so".
-Filed from the stand-in: THEORY-tmp500wn. Read the paper itself before
+Filed from the stand-in: [THEORY-tmp500wn](../theory.d/THEORY-tmp500wn.md). Read the paper itself before
 citing its numbers. No instruction for machine-learning practice; nothing
 for the anthology.

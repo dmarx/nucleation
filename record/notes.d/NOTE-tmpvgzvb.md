@@ -151,67 +151,67 @@ from it.
 ## Connections
 
 It applies the local domain-level model of Dannenberg et al. (2015),
-LIT-tmpdyrnb, whose companion paper builds the thermodynamically
+[LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), whose companion paper builds the thermodynamically
 self-consistent global version; that is why the model's free-energy
 differences here are path-dependent. Schneider, Möritz and Dietz (2019),
-LIT-tmp7v945, name this model as the kind their isothermal dataset should
-calibrate. The held simulation of DeLuca et al. (LIT-2081, NOTE-1561,
-THEORY-1398) finds, by a different model, that early long staples decide
+[LIT-tmp7v945](../literature.d/LIT-tmp7v945.md), name this model as the kind their isothermal dataset should
+calibrate. The held simulation of DeLuca et al. ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md),
+[THEORY-1398](../theory.d/THEORY-1398.md)) finds, by a different model, that early long staples decide
 the global fold and that hybridization-state models can mispredict; this
 paper's model is such a hybridization-state model, and it misses one of
 four variants. The staple variants are the molecular counterpart of the
-placed actuators of THEORY-1418 (Stern, Pinson and Murugan), steering among
+placed actuators of [THEORY-1418](../theory.d/THEORY-1418.md) (Stern, Pinson and Murugan), steering among
 competing folds.
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports. The
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Supports. The
   well-folded shapes are feasible and reached, but the model's reference
   set ends misfolded 52% of the time and the broken-seam set 1%; reliability
   is a property of the staple design, separate from feasibility.
-- **CLAIM-583 (same complex, moves and costs, different reachability).**
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, moves and costs, different reachability).**
   Qualifies. Same template and, by the authors' argument, equally stable
   targets give different outcome distributions; but the staple change
   alters the move costs, so this shows the same targets, with the same target energies,
   reached differently, not the claim's stronger condition.
-- **CLAIM-571 (threshold to reach against requirement to hold).** Supports
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (threshold to reach against requirement to hold).** Supports
   qualitatively: from the 1:1 intermediate, reaching 5:0 needs a seam
   broken, a barrier beyond holding the target. No barrier is measured.
-- **CLAIM-581 (peak-cost ultrametric).** Leaves open, with a caution: the
+- **[CLAIM-581](../claims.d/CLAIM-581.md) (peak-cost ultrametric).** Leaves open, with a caution: the
   model's free-energy differences are path-dependent, so its costs are not
   a potential and give no peak-cost metric directly.
-- **CLAIM-591 (directed costs).** Supports qualitatively: a cooling ramp is
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs).** Supports qualitatively: a cooling ramp is
   directed, hysteresis separates cooling and heating, and "effectively,
   irreversibly" bound seams make a target unreachable from a part-folded
   state that shares its configuration space.
-- **CLAIM-569 (construct, maintain, transition).** Partial: construction by
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Partial: construction by
   the ramp, holding at 25 °C in magnesium buffer, transition between folds
   only by breaking seams. No maintenance cost measured.
-- **CLAIM-566 (assemble, persist, regenerate).** Consistent; assembly only.
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Consistent; assembly only.
   It adds that the probability of forming a given target depends on the
   staple design.
-- **CLAIM-557, CLAIM-570, CLAIM-592 (observing against acting).**
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing against acting).**
   Illustrates: the four routings of one shape are distinct folded states
   that AFM does not resolve, and the observer's classes (m:n = n:m) are set
   by the probe, not by the mechanism. No probe costs are studied.
-  CLAIM-574, CLAIM-572 and QUESTION-374: no bearing.
-- **CLAIM-184 (anchors entrench).** Supports in a physical system: "the
+  [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-572](../claims.d/CLAIM-572.md) and [QUESTION-374](../questions.d/QUESTION-374.md): no bearing.
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench).** Supports in a physical system: "the
   early formation of long-range connections can be very effective in
   forcing particular folds" (abstract).
-- **CLAIM-478 (scale separation makes constraints).** Modest support:
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Modest support:
   cooperative, effectively irreversible seams constrain the slower
   remainder of folding; no timescale analysis.
-- **QUESTION-380 (when a small compatible nucleus helps).** Evidence: an
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (when a small compatible nucleus helps).** Evidence: an
   early partial structure restricts which targets remain reachable, seam
   patterns before 50% occupancy predict the final fold, and a nucleus
   compatible with one target only (3:2-only seams) biases toward it.
-- **CLAIM-562 (where an intervention acts).** Direct fit: halving seam
+- **[CLAIM-562](../claims.d/CLAIM-562.md) (where an intervention acts).** Direct fit: halving seam
   staples, less binding, improves the designed outcome and cuts model
   misfolds from 52% to 1%.
-- **CLAIM-568 (four ways a transition fails).** The paper's misfold,
+- **[CLAIM-568](../claims.d/CLAIM-568.md) (four ways a transition fails).** The paper's misfold,
   incompatible partial segments escaped only by unfolding, is a case for
   its taxonomy.
-- Filed: THEORY-tmp2h496. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp2h496](../theory.d/THEORY-tmp2h496.md). No instruction for machine-learning practice.
 
 ## Limitations
 

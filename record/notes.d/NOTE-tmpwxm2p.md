@@ -164,7 +164,7 @@ the folded state is not its reverse.
 ## Connections
 
 It restates, from the stand-in's side, the 2012 Science paper
-LIT-tmpg98v0, which its Chapter 3 cites as ref. [2]: the narrow window,
+[LIT-tmpg98v0](../literature.d/LIT-tmpg98v0.md), which its Chapter 3 cites as ref. [2]: the narrow window,
 constant-temperature folding, folding/unfolding hysteresis, subdomain
 cooperativity (Fig. 3.13 is marked as adapted from it), and design and
 staple-concentration shifts of the folding temperature. It does not
@@ -173,70 +173,70 @@ all of Chapters 4–5 (the kinetic model, the 42-helix-bundle variants,
 shock-freeze cooling) may be later work, and the 2012 abstract calls
 unfolding equilibrium where the thesis calls it "also an out of
 equilibrium process, but less so". It extends the held DeLuca et al.
-simulation (LIT-2081, NOTE-1561, THEORY-1398) experimentally on
+simulation ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)) experimentally on
 domain-wise folding and is in tension with it on traps: many accessible
 wrong states, not global topological ones. It measures what Rothemund
-(2006, NOTE-tmp8kyp2) did not, the window and the hysteresis his anneal
+(2006, [NOTE-tmp8kyp2](NOTE-tmp8kyp2.md)) did not, the window and the hysteresis his anneal
 passed through. Wagenbauer, Wachauf and Dietz (2014), from the same
 group, use the isothermal protocol and find it slightly less complete
 than a ramp.
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Supports
   empirically: the folded state is vastly favoured, yet at 56 °C nothing
   forms in 48 h, and reliable reaching holds only in a few-degree band.
-- **CLAIM-583 (same complex, different reachability).** Supports in kind:
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reachability).** Supports in kind:
   same shape, base-pair count and composition, different routing, rates
   more than 100-fold apart. Routing differs, so it is not the same
   complex; same routing with permuted sequence changed nothing.
-- **CLAIM-571 (threshold need not equal the holding requirement).**
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (threshold need not equal the holding requirement).**
   Supports for the denaturation step: reaching the target needs about
   65 °C, while folding and holding happen near 40–50 °C, and for the
   short-domain design the path down decides whether a 40 °C hold folds.
   Temperature is a window, not a monotone budget, so a peak requirement
   fits only that step.
-- **CLAIM-581 (reversible peak costs).** Qualifies: folding and unfolding
+- **[CLAIM-581](../claims.d/CLAIM-581.md) (reversible peak costs).** Qualifies: folding and unfolding
   differ in temperature and timescale, so the reversibility premise does
   not hold here.
-- **CLAIM-591 (directed costs).** Supports: leaving the folded state takes
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs).** Supports: leaving the folded state takes
   5–10 °C more than entering it, and seconds against hours.
-- **CLAIM-569 (construct, maintain, transition).** Supports directly:
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Supports directly:
   within the hysteresis band a folded object persists but cannot be
   built. The brick at 56 °C is the example, if its melting lies above
   56 °C as the hysteresis implies; no melting temperature for it was
   found in the text read.
-- **CLAIM-566 (assemble, persist, regenerate).** Supports assembly and
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Supports assembly and
   persistence as separate: defective folds persist unrepaired at room
   temperature (simulation and lab lore). Nothing on regeneration.
-- **CLAIM-557, CLAIM-574, CLAIM-570, CLAIM-592 (observing budgets).**
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing budgets).**
   Illustrate them: TEM merges all unfolded states, the gel merges
   intermediates with a cutoff, SYBR Green counts base pairs, not
   structure. No ordering of probe costs is studied.
-- **CLAIM-572 (one shared budget).** Weak: a more informative dye readout
+- **[CLAIM-572](../claims.d/CLAIM-572.md) (one shared budget).** Weak: a more informative dye readout
   perturbs the folding it observes.
-- **CLAIM-184 (anchors entrench).** Supports by analogy: early spurious
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench).** Supports by analogy: early spurious
   bindings block correct structure, and a slow cooling path entrenches
   them.
-- **CLAIM-478 (scale separation makes constraints).** Supports modestly:
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Supports modestly:
   spurious and dye binding equilibrate fast relative to folding, and the
   assay relies on that separation.
-- **QUESTION-380 (small compatible nucleus).** Bears: subdomains fold in
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (small compatible nucleus).** Bears: subdomains fold in
   turn, and the 2012 abstract speaks of nucleation-driven pathways;
   predicting a nucleus's effectiveness from design is what the unread
   model chapters attempt.
-- **QUESTION-374 (two budgets).** Weakly, through the dye that perturbs
+- **[QUESTION-374](../questions.d/QUESTION-374.md) (two budgets).** Weakly, through the dye that perturbs
   what it observes.
-- **Missed by the first search.** CLAIM-568 (four ways a transition
+- **Missed by the first search.** [CLAIM-568](../claims.d/CLAIM-568.md) (four ways a transition
   fails): at 56 °C a path exists and is not followed on the timescale;
   the short-domain design is a path that cannot be reliably followed.
-  CLAIM-463 (restoring conditions need not restore a capacity): the
+  [CLAIM-463](../claims.d/CLAIM-463.md) (restoring conditions need not restore a capacity): the
   hysteresis band is an empirical case, though that a melted object
   returned to the band stays unfolded is inferred, not measured.
-  CLAIM-185 (a nucleation threshold makes structure persist): by analogy
-  only. QUESTION-373 (who supplies the resource): the protocol supplies
+  [CLAIM-185](../claims.d/CLAIM-185.md) (a nucleation threshold makes structure persist): by analogy
+  only. [QUESTION-373](../questions.d/QUESTION-373.md) (who supplies the resource): the protocol supplies
   the denaturation heat and the choice of window.
-- Filed: THEORY-tmp500wn. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp500wn](../theory.d/THEORY-tmp500wn.md). No instruction for machine-learning practice.
 
 ## Limitations
 

@@ -128,11 +128,11 @@ fine version of one.
 ## Connections
 
 The constant-temperature folding it refines is that of Sobczak et al.
-(2012), LIT-tmpg98v0, from the same group and read here through
-Sobczak's dissertation (NOTE-tmpwxm2p); this paper finds the isothermal
+(2012), [LIT-tmpg98v0](../literature.d/LIT-tmpg98v0.md), from the same group and read here through
+Sobczak's dissertation ([NOTE-tmpwxm2p](NOTE-tmpwxm2p.md)); this paper finds the isothermal
 product slightly less complete than the ramp's, which the earlier gel and
 TEM judgments could not see. It adds to the held DeLuca et al. simulation
-(LIT-2081, NOTE-1561, THEORY-1398) ensemble-level evidence that the
+([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)) ensemble-level evidence that the
 residual defect depends on design and schedule, without a mechanism. Its
 point that imaging misses staple-level defects in 3D objects complements
 Rothemund's (2006) account of AFM, which resolves single missing staples
@@ -140,52 +140,52 @@ in flat ones only at the cost of damaging them.
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports, on
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Supports, on
   the observing side: a sample judged high-quality still lacks one to six
   staples per object, so whether the target is reached depends on the
   probe; isothermal folding at 52 °C reaches the shape but not the ramp's
   completeness.
-- **CLAIM-583 (same complex, different reachability).** Qualifies only:
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reachability).** Qualifies only:
   the two 42-helix variants differ in scaffold connectivity, so they are
   a same-target, different-architecture case, with optima at 52 and
   48 °C.
-- **CLAIM-571 (threshold need not equal the holding requirement).** Weak:
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (threshold need not equal the holding requirement).** Weak:
   products are made through a 65 °C heat shock and folding at 44–60 °C
   and stored cold; holding and melting are not measured.
-- **CLAIM-581 (peak against additive costs).** Qualifies: hours at a fixed
+- **[CLAIM-581](../claims.d/CLAIM-581.md) (peak against additive costs).** Qualifies: hours at a fixed
   52 °C do not buy what a temperature sequence buys, and 1.5 h of steps
   equals a 16 h ramp, so the resource is neither total time nor one peak
   temperature but the path through temperature.
-- **CLAIM-569 (construct, maintain, transition).** Supports the
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Supports the
   construct-maintain split loosely; nothing on maintenance is measured.
-- **CLAIM-566 (assemble, persist, regenerate).** Sharpens its first term:
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Sharpens its first term:
   whether something assembled depends on the probe.
-- **CLAIM-557 and CLAIM-574 (observing budgets refine).** Direct support
+- **[CLAIM-557](../claims.d/CLAIM-557.md) and [CLAIM-574](../claims.d/CLAIM-574.md) (observing budgets refine).** Direct support
   with an empirical chain: gel mobility and TEM averages merge 0, 5 and
   15 missing staples; the label splits them down to a floor of about 10
   bases. But the chain is not nested by cost: cryo-EM costs far more,
   would split shared site-specific defects, and is said to merge the
   stochastic ones the cheap label splits.
-- **CLAIM-592 (agreement depends on probe cost order).** Supports in
+- **[CLAIM-592](../claims.d/CLAIM-592.md) (agreement depends on probe cost order).** Supports in
   kind: the cheap and the expensive probe split along different axes, so
   which distinctions come first depends on which probe is cheap.
-- **CLAIM-570 (the frontier).** None directly; it offers a concrete pair
+- **[CLAIM-570](../claims.d/CLAIM-570.md) (the frontier).** None directly; it offers a concrete pair
   of partitions, by composition and by shape.
-- **CLAIM-572 (one shared budget).** An informal instance: spending on
+- **[CLAIM-572](../claims.d/CLAIM-572.md) (one shared budget).** An informal instance: spending on
   the assay is what let the folding be cut from 16 h to 1.5 h at matched
   quality. The paper does not frame it as a trade.
-- **CLAIM-478 (scale separation makes constraints).** None directly; the
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** None directly; the
   stepped protocol is consistent with stages settling at different
   temperatures, which the paper does not say.
-- **QUESTION-374 (two budgets).** Bears on its observing half with a
-  worked probe chain, and on the shared part as under CLAIM-572.
-- **Missed by the first search.** CLAIM-079 (stability does not entail
+- **[QUESTION-374](../questions.d/QUESTION-374.md) (two budgets).** Bears on its observing half with a
+  worked probe chain, and on the shared part as under [CLAIM-572](../claims.d/CLAIM-572.md).
+- **Missed by the first search.** [CLAIM-079](../claims.d/CLAIM-079.md) (stability does not entail
   viability): adjacent; a stable, correctly shaped product can be
-  compositionally incomplete. LIT-1030 (experimental probes of
+  compositionally incomplete. [LIT-1030](../literature.d/LIT-1030.md) (experimental probes of
   self-maintenance): the same theme of which probe certifies a property.
-  THEORY-136 (an abrupt change is not evidence of alternative stable
+  [THEORY-136](../theory.d/THEORY-136.md) (an abrupt change is not evidence of alternative stable
   states): kin in method, a cheap observable that fails to discriminate.
-- Filed: THEORY-tmp8ofc7. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp8ofc7](../theory.d/THEORY-tmp8ofc7.md). No instruction for machine-learning practice.
 
 ## Limitations
 

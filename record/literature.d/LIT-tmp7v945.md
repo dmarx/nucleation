@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpqi66a) from the open-access full text in PubMed
+  read 2026-11-05 ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)) from the open-access full text in PubMed
   Central (CC BY-NC 4.0), main text, Methods, figure captions and Table 1
   in full, figures and Supplementary Materials not seen; worth reading as
   a strand-by-strand and terminus-by-terminus record of one multilayer
@@ -68,7 +68,7 @@ Schneider, F., Möritz, N. & Dietz, H. (2019). The sequence of events during fol
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpqi66a.*
+*From the reading, [NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md).*
 
 - **Domain by domain.** "strand termini incorporate independently of each
   other": "folding occurs via individual double-stranded DNA (dsDNA) domain
@@ -90,11 +90,11 @@ Schneider, F., Möritz, N. & Dietz, H. (2019). The sequence of events during fol
 Registered at the owner's request to connect the record's realizability
 inquiry to DNA origami. It is the record's experimental case of a
 nucleating set of early domains whose removal costs hours but does not
-forbid the target, bearing directly on QUESTION-380, and of a compacted
-intermediate preceding the folded state, which bears on THEORY-1398's
+forbid the target, bearing directly on [QUESTION-380](../questions.d/QUESTION-380.md), and of a compacted
+intermediate preceding the folded state, which bears on [THEORY-1398](../theory.d/THEORY-1398.md)'s
 `promote_when` (gels show compaction, not local order). It corrects the
 authors' own earlier conjecture, in Sobczak et al. (2012), that nuclei are
 the most thermally stable domains. It names the domain-level model of Dunn
-et al. (LIT-tmpqku12) and Dannenberg et al. (LIT-tmpdyrnb) as what its data
-should calibrate. Filed from it: THEORY-tmp5gqa0. No instruction for
+et al. ([LIT-tmpqku12](LIT-tmpqku12.md)) and Dannenberg et al. ([LIT-tmpdyrnb](LIT-tmpdyrnb.md)) as what its data
+should calibrate. Filed from it: [THEORY-tmp5gqa0](../theory.d/THEORY-tmp5gqa0.md). No instruction for
 machine-learning practice; nothing for the anthology.

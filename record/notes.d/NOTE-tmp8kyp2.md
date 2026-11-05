@@ -143,7 +143,7 @@ coarsely.
 
 It builds on Seeman's crossover lattices and on earlier scaffolded
 assemblies. It is the precursor of the held DeLuca et al. simulation
-(LIT-2081, NOTE-1561, THEORY-1398): the proposed cooperativity is the
+([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)): the proposed cooperativity is the
 mechanism they simulate, and the flipped, dislocated and folded-in
 misfolds may be global topological traps of their kind, which this paper
 cannot tell from deposition artefacts. Later work in this batch measures
@@ -152,61 +152,61 @@ hysteresis (Sobczak et al. 2012, read through Sobczak's dissertation) and
 the staple-level completeness that imaging misses (Wagenbauer, Wachauf
 and Dietz 2014). The folded-in trapezoids are the molecular analogue of
 the distractor branches of a crease pattern designed with one intended
-fold (THEORY-1418).
+fold ([THEORY-1418](../theory.d/THEORY-1418.md)).
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Supports, with
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Supports, with
   a caveat. Every design is feasible by construction, yet reliability
   runs from about 1% to 90%. The yields mix folding with deposition and
   tip damage, so they bound reliability loosely.
-- **CLAIM-583 (same complex, different reachability).** Qualifies and
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reachability).** Qualifies and
   leaves open. All merge patterns give the same shape, but no yields
   compare them. The bridged and unbridged comparisons add or remove
   constraints, and the linear and circular stars differ by scaffold
   breakage, so none holds the complex fixed.
-- **CLAIM-571 (threshold need not equal the holding requirement).**
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (threshold need not equal the holding requirement).**
   Leaves open. The anneal passes through a fully melted 95 °C on the way
   to a target held at 20 °C, but no folding or melting temperature is
   measured.
-- **CLAIM-569 (construct, maintain, transition).** Supports as a
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Supports as a
   suggestion: staple excess is needed to build, and might be recycled
   after folding, so perhaps not needed to hold. Untested.
-- **CLAIM-566 (assemble, persist, regenerate).** Consistent: folded
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Consistent: folded
   structures persist in buffer through imaging, and tip damage is not
   repaired. Nothing on regeneration.
-- **CLAIM-591 (directed costs).** Weak: tip damage converts pixels
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs).** Weak: tip damage converts pixels
   irreversibly; nothing on costs back.
-- **CLAIM-557, CLAIM-574, CLAIM-592 (observing budgets refine).** An
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing budgets refine).** An
   instance where the observing probe also acts: harder tapping resolves
   more and damages the sample, so a larger observing budget can
   manufacture distinctions as well as reveal them. That qualifies the
-  applicability of CLAIM-574, whose probes are non-invasive. Which
+  applicability of [CLAIM-574](../claims.d/CLAIM-574.md), whose probes are non-invasive. Which
   defects are seen depends on scan order, but no costed probe family is
   set out.
-- **CLAIM-572 (one shared budget).** Related but outside its scope: one
+- **[CLAIM-572](../claims.d/CLAIM-572.md) (one shared budget).** Related but outside its scope: one
   knob, tapping force, serves observation and acts destructively, the
   converse of the acting-that-informs case the claim sets aside.
-- **CLAIM-184 (anchors entrench) and CLAIM-478 (scale separation makes
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench) and [CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes
   constraints).** Weakly, by conjecture (S7): coupling formed before the
   parts are rigid gives poor structures, and a temperature hierarchy is
   wanted so that formed parts act as rigid units. Preliminary.
-- **QUESTION-380 (small compatible nucleus).** Bears: cooperative staple
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (small compatible nucleus).** Bears: cooperative staple
   addition is a small compatible subsystem biasing global order
   (proposed only); a one-third square forms alone with the rest of the
   scaffold unfolded (S5.3). No measurement of where nucleation starts.
-- **QUESTION-374 (two budgets).** Bears: observing and acting draw on one
+- **[QUESTION-374](../questions.d/QUESTION-374.md) (two budgets).** Bears: observing and acting draw on one
   resource, tip-sample force, and tip quality as much as budget decides
   resolution.
-- **Missed by the first search.** CLAIM-568 (four ways a transition
+- **Missed by the first search.** [CLAIM-568](../claims.d/CLAIM-568.md) (four ways a transition
   fails): staple starvation and scaffold breakage are failure kinds the
-  paper separates by remedy. QUESTION-373 (who supplies the resource):
+  paper separates by remedy. [QUESTION-373](../questions.d/QUESTION-373.md) (who supplies the resource):
   the designer and the thermal cycler supply heat and excess from
-  outside. CLAIM-593 (isomorphism is not persistence): two scaffold
-  clones give AFM-indistinguishable rectangles. CLAIM-573 and
-  QUESTION-385 (substrates): a molecular substrate beside the record's
+  outside. [CLAIM-593](../claims.d/CLAIM-593.md) (isomorphism is not persistence): two scaffold
+  clones give AFM-indistinguishable rectangles. [CLAIM-573](../claims.d/CLAIM-573.md) and
+  [QUESTION-385](../questions.d/QUESTION-385.md) (substrates): a molecular substrate beside the record's
   rigid-origami entries.
-- Filed: THEORY-tmpzb4hv. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpzb4hv](../theory.d/THEORY-tmpzb4hv.md). No instruction for machine-learning practice.
 
 ## Limitations
 

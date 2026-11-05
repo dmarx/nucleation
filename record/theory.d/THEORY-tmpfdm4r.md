@@ -17,7 +17,7 @@ source:
 - LIT-tmpdyrnb
 summary: >-
   Dannenberg, Dunn, Bath, Kwiatkowska, Turberfield and Ouldridge (2015),
-  LIT-tmpdyrnb, read in NOTE-tmpyo994. A simulation of one 166-domain
+  [LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), read in [NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md). A simulation of one 166-domain
   tile, with parameters chosen to match the scale of hysteresis in one
   SYBR Green experiment. It does not say that origami has alternative
   stable states or kinetic traps: the model has a unique equilibrium at
@@ -32,7 +32,7 @@ corroborates:
 ## Source
 
 Dannenberg, Dunn, Bath, Kwiatkowska, Turberfield and Ouldridge (2015),
-LIT-tmpdyrnb; read in NOTE-tmpyo994.
+[LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md); read in [NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md).
 
 ## What was actually shown
 

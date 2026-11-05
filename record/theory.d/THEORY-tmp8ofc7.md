@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpduceb
 summary: >-
-  Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in
-  NOTE-tmpmw05j. The indistinguishability under TEM and gel mobility is
+  Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in
+  [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md). The indistinguishability under TEM and gel mobility is
   shown directly; the residual counts are extrapolations from a
   calibration that assumes each omitted staple adds exactly its own
   bases unpaired, with a background floor near the best result. It does
@@ -31,8 +31,8 @@ corroborates:
 
 ## Source
 
-Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb; read in
-NOTE-tmpmw05j.
+Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md); read in
+[NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md).
 
 ## What was actually shown
 

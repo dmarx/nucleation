@@ -146,72 +146,72 @@ Cooperativity raises the barriers and widens the gap.
 
 ## Connections
 
-Its local model is the one Dunn et al. (2015), LIT-tmpqku12, use to
+Its local model is the one Dunn et al. (2015), [LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), use to
 predict fold distributions; this paper builds the self-consistent global
 version and shows the two agree closely. It reinterprets the hysteresis
 reported by Sobczak et al. (2012) as kinetic. Schneider, Möritz and Dietz
-(2019), LIT-tmp7v945, offer an isothermal, domain-resolved dataset for
+(2019), [LIT-tmp7v945](../literature.d/LIT-tmp7v945.md), offer an isothermal, domain-resolved dataset for
 calibrating models of this kind and find, as this paper's loop term
 implies, that loop entropy shapes the order of folding. Like the held
-simulation of DeLuca et al. (LIT-2081, NOTE-1561, THEORY-1398) it has no
+simulation of DeLuca et al. ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)) it has no
 misbinding; unlike it, it finds local cooperativity and hysteresis rather
 than topological traps, and it has no configuration beyond the bonding
 state.
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reachable).** Leaves open:
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Leaves open:
   the model reports occupancy, not yield, and cannot misfold.
-- **CLAIM-583 (same complex, different reachability).** Qualifies weakly:
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reachability).** Qualifies weakly:
   the same routing and target with different staple sequences (Fig. 8a
   against 8b) or neighbours (Fig. 11) change the temperatures and order of
   incorporation; reachability itself is not lost.
-- **CLAIM-571 (threshold to reach against requirement to hold).**
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (threshold to reach against requirement to hold).**
   Supports in a kinetic, rate-dependent sense: reaching (annealing) lags
   further below equilibrium than leaving (melting) lags above it, and
   fewer staples lower Ta but not Tm. The resource is undercooling and
   time, and the model has an equilibrium state function, so this is
   hysteresis from barriers, not from a peak-cost path in the claim's sense.
-- **CLAIM-581 (peak-cost ultrametric).** Leaves open; contrast: the global
+- **[CLAIM-581](../claims.d/CLAIM-581.md) (peak-cost ultrametric).** Leaves open; contrast: the global
   model's free energy is a state function, the local model's is not, and
   neither is a peak-cost metric.
-- **CLAIM-591 (directed costs).** Supports at the edge: the 101 → 111 move
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs).** Supports at the edge: the 101 → 111 move
   is forbidden though the states differ by one domain, and binding and
   unbinding rates depend on temperature in opposite ways.
-- **CLAIM-569 (construct, maintain, transition).** Supports: a uniform
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Supports: a uniform
   stabilization moves where the structure holds (Ta up 2.9 °C over a
   fourfold change in C) while hysteresis, the cost of crossing, barely
   moves; concentration moves construction and not dissolution.
-- **CLAIM-566 (assemble, persist, regenerate).** Nothing new: assembly and
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Nothing new: assembly and
   thermal persistence only.
-- **CLAIM-557, CLAIM-574, CLAIM-570, CLAIM-592 (observing against
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing against
   acting).** Weak: bulk fluorescence reads only total hybridization and
   cannot tell which staples or which partial structure; the model's
   per-staple incorporation resolves what the experiment cannot. No probe
-  costs. CLAIM-572 and QUESTION-374: no bearing.
-- **CLAIM-184 (anchors entrench).** Qualifies: bound staples lower the
+  costs. [CLAIM-572](../claims.d/CLAIM-572.md) and [QUESTION-374](../questions.d/QUESTION-374.md): no bearing.
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench).** Qualifies: bound staples lower the
   loop cost for neighbours, but the effect is local and reversible at
   these temperatures, and no wrong structure can entrench in the model.
-- **CLAIM-478 (scale separation makes constraints).** Mild support: a
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Mild support: a
   domain equilibrates within a narrow window (about 2.5 °C for one staple)
   while the slower ramp sets the order, and bound staples pin loops for
   later binding.
-- **QUESTION-380 (when a small compatible nucleus helps).** Bears: the
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (when a small compatible nucleus helps).** Bears: the
   authors find the analogy "with crystal nucleation is not so obvious",
   since staples bind only the scaffold; cooperativity arises through loops
   and stacking, and is local.
-- **CLAIM-568 (four ways a transition fails).** Heat here is the
+- **[CLAIM-568](../claims.d/CLAIM-568.md) (four ways a transition fails).** Heat here is the
   actuation that overcomes a barrier; the forbidden 101 → 111 move is the
   other kind, a missing edge.
-- **CLAIM-463 (restoring conditions need not restore capacity).** A
+- **[CLAIM-463](../claims.d/CLAIM-463.md) (restoring conditions need not restore capacity).** A
   kinetic, rate-dependent instance of hysteresis, not a bistable one.
-- **THEORY-136 (abrupt change is not evidence of alternative stable
+- **[THEORY-136](../theory.d/THEORY-136.md) (abrupt change is not evidence of alternative stable
   states).** A caution borne out: this hysteresis shrinks with slower
   ramps; it is slow return, not alternative stable states.
-- **CLAIM-185 (the nucleation threshold of an argument).** The authors'
+- **[CLAIM-185](../claims.d/CLAIM-185.md) (the nucleation threshold of an argument).** The authors'
   doubt about crystal-like nucleation in origami bears on using origami as
   its physical analogue.
-- Filed: THEORY-tmpfdm4r. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpfdm4r](../theory.d/THEORY-tmpfdm4r.md). No instruction for machine-learning practice.
 
 ## Limitations
 

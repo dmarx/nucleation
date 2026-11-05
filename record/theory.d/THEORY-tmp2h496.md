@@ -15,7 +15,7 @@ source:
 - LIT-tmpqku12
 summary: >-
   Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath (2015),
-  LIT-tmpqku12, read in NOTE-tmpvgzvb. The shift is shown by AFM shape
+  [LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), read in [NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md). The shift is shown by AFM shape
   counts on one tile, one anneal ramp and one buffer, with 36-62% of
   candidate objects fitted; the trapping figure (52% misfolds with full
   seams, 1% with broken ones) is the model's. The equal stability of the
@@ -28,7 +28,7 @@ summary: >-
 ## Source
 
 Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath (2015),
-LIT-tmpqku12; read in NOTE-tmpvgzvb.
+[LIT-tmpqku12](../literature.d/LIT-tmpqku12.md); read in [NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md).
 
 ## What was actually shown
 

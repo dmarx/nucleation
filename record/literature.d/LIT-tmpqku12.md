@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpvgzvb) from the authors' accepted manuscript in
+  read 2026-11-05 ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) from the authors' accepted manuscript in
   Oxford's institutional repository (ORA), main text, Methods and Extended
   Data legends in full, figures seen only through their legends and the
   labels the text conversion recovered; worth reading as an experiment in
@@ -69,7 +69,7 @@ Dunn, K. E., Dannenberg, F., Ouldridge, T. E., Kwiatkowska, M., Turberfield, A. 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpvgzvb. Page numbers are the accepted manuscript's.*
+*From the reading, [NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md). Page numbers are the accepted manuscript's.*
 
 - **Same targets, different outcome by intermediate design.** "We have
   changed the distribution between folds not by changing the relative
@@ -89,10 +89,10 @@ Dunn, K. E., Dannenberg, F., Ouldridge, T. E., Kwiatkowska, M., Turberfield, A. 
 Registered at the owner's request to connect the record's realizability
 inquiry to DNA origami. It is the record's experimental case of one
 target set reached with different frequencies by changing only the
-intermediates a design stabilizes, which bears on CLAIM-583 with a
-qualification (the move costs change with the staples) and fits CLAIM-562
+intermediates a design stabilizes, which bears on [CLAIM-583](../claims.d/CLAIM-583.md) with a
+qualification (the move costs change with the staples) and fits [CLAIM-562](../claims.d/CLAIM-562.md)
 (less binding strength, better outcome). It is the experimental companion
-of Dannenberg et al. (2015), LIT-tmpdyrnb, whose local model it uses, and
-it sits beside the held simulation of DeLuca et al., LIT-2081. Filed from
-it: THEORY-tmp2h496. No instruction for machine-learning practice;
+of Dannenberg et al. (2015), [LIT-tmpdyrnb](LIT-tmpdyrnb.md), whose local model it uses, and
+it sits beside the held simulation of DeLuca et al., [LIT-2081](LIT-2081.md). Filed from
+it: [THEORY-tmp2h496](../theory.d/THEORY-tmp2h496.md). No instruction for machine-learning practice;
 nothing for the anthology.

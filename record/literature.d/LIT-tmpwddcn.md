@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpwxm2p) from the TU München
+  read in part 2026-11-05 ([NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md)) from the TU München
   institutional repository mediaTUM: the summary, folding background, all
   of Chapter 3 (the experiments) and the design-test sections of Chapter
   5, with the model derivation and the methods skipped and figures seen
   only through their legends; worth reading as the stand-in for Sobczak,
-  Martin, Gerling and Dietz (2012), LIT-tmpg98v0, and for its measurement
+  Martin, Gerling and Dietz (2012), [LIT-tmpg98v0](LIT-tmpg98v0.md), and for its measurement
   of where on the temperature axis origami folds: a window of about 5 °C,
   constant-temperature folding within it, melting 5–10 °C higher and in
   seconds, and more than 100-fold differences in folding time between
@@ -74,7 +74,7 @@ Sobczak, J.-P. (2018). *Investigations of the DNA origami folding process*. Doct
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwxm2p. Page numbers are the thesis's.*
+*From the reading, [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md). Page numbers are the thesis's.*
 
 - **A narrow window.** "the transition seems to occur in an extremely
   narrow temperature range of only a few degrees" (§3.3, p. 20), far
@@ -96,13 +96,13 @@ Sobczak, J.-P. (2018). *Investigations of the DNA origami folding process*. Doct
 ## Standing in the record
 
 Registered as a stand-in for Sobczak, Martin, Gerling and Dietz (2012),
-LIT-tmpg98v0, whose full text was not reached. Its Chapter 3 restates
+[LIT-tmpg98v0](LIT-tmpg98v0.md), whose full text was not reached. Its Chapter 3 restates
 that paper's programme; its Chapters 4 and 5 are later work. It is also a
 work in its own right: the clearest measurement in the record of a
 temperature band in which a folded structure persists but does not form,
 which bears on the record's distinctions between constructing and
 holding a form and between reaching and reliably reaching it. Its model
 attributes traps to many accessible incorrect states rather than to the
-global topological traps of the held simulation reading (THEORY-1398).
-Filed from it: THEORY-tmp500wn. No instruction for machine-learning
+global topological traps of the held simulation reading ([THEORY-1398](../theory.d/THEORY-1398.md)).
+Filed from it: [THEORY-tmp500wn](../theory.d/THEORY-tmp500wn.md). No instruction for machine-learning
 practice; nothing for the anthology.
