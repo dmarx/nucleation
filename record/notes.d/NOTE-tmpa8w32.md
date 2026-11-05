@@ -109,7 +109,7 @@ single identity, the existence of a WNU.
 Builds on Jeavons et al. (polymorphisms), Bulatov, Jeavons and Krokhin
 (the algebraic conjecture and its hardness half), Maróti and McKenzie
 (WNU terms), and the bounded-width and few-subpowers algorithms. Zhuk's
-independent proof (LIT-tmp13cly, NOTE-tmp0p9z8) appeared at the same
+independent proof ([LIT-tmp13cly](../literature.d/LIT-tmp13cly.md), [NOTE-tmp0p9z8](NOTE-tmp0p9z8.md)) appeared at the same
 time with a different algorithm, and notes that Bulatov's handles infinite
 constraint languages over a finite domain.
 
@@ -149,26 +149,26 @@ constraint languages over a finite domain.
     language" could "predict something about the complexity of navigating
     its solution space", is open relative to this paper; for Boolean
     languages Gopalan et al. are the work that addresses it.
-- **THEORY-604, THEORY-729 and NOTE-141 (Corfield; adjunctions into an
+- **[THEORY-604](../theory.d/THEORY-604.md), [THEORY-729](../theory.d/THEORY-729.md) and [NOTE-141](NOTE-141.md) (Corfield; adjunctions into an
   opposite).** Qualifies. Pol–Inv is an instance of the construction
-  NOTE-141 traces Corfield's six Galois-connection dualities to: a relation
+  [NOTE-141](NOTE-141.md) traces Corfield's six Galois-connection dualities to: a relation
   between two sets (here "f preserves R") induces an antitone Galois
   connection between their power sets, restricting to a dual isomorphism
-  on the closed sets (THEORY-729's fixed points, here clones and relational
+  on the closed sets ([THEORY-729](../theory.d/THEORY-729.md)'s fixed points, here clones and relational
   clones). The identification is the reader's; neither Bulatov nor
   Corfield makes it. It supports A's "another Galois connection" as order
   theory and adds nothing about complexity.
-- **LIT-tmpj5g19 and NOTE-tmpd0dln (rigid foldability NP-hard).** Qualifies:
+- **[LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md) and [NOTE-tmpd0dln](NOTE-tmpd0dln.md) (rigid foldability NP-hard).** Qualifies:
   that hardness result concerns continuous crease angles, not a
   finite-domain constraint language, so the dichotomy does not apply to it
   directly.
-- **CLAIM-tmp9jvpb, CLAIM-tmpal9mc and CASE-tmpb5t9j (feasibility against
+- **[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md), [CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md) and [CASE-tmpb5t9j](../cases.d/CASE-tmpb5t9j.md) (feasibility against
   reachability).** The dichotomy concerns feasibility, the first of
-  CLAIM-tmp9jvpb's three properties, and never reachability.
-- **CLAIM-347 and CLAIM-tmpuxuo4 (the compatibility complex).** Unrelated:
+  [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)'s three properties, and never reachability.
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) (the compatibility complex).** Unrelated:
   the complex is of one fixed organization; the dichotomy concerns the cost
   of deciding satisfiability across a family.
-- Filed: THEORY-tmp99dad.
+- Filed: [THEORY-tmp99dad](../theory.d/THEORY-tmp99dad.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

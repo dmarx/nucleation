@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmp0p9z8) from arXiv v11, which the author marks as the final version; worth reading as the second independent proof of the CSP
+  read in part 2026-11-05 ([NOTE-tmp0p9z8](../notes.d/NOTE-tmp0p9z8.md)) from arXiv v11, which the author marks as the final version; worth reading as the second independent proof of the CSP
   dichotomy, stated in exactly the terms the pasted synthesis uses (a WNU
   "preserving Γ"), with an algorithm that needs only local consistency and
   linear equations over prime fields, and for its §10, the clearest list of
@@ -65,7 +65,7 @@ summary: >-
   and irreducibility, reduces domains while keeping solvability, and in the
   linear case solves linear equations over prime fields, finding missing
   equations by recursive calls. Proved independently of Bulatov
-  (LIT-tmpxq623), by a different algorithm.
+  ([LIT-tmpxq623](LIT-tmpxq623.md)), by a different algorithm.
 ---
 <!-- inactive-ok-file: NOTE-tmp0p9z8 THEORY-tmp8numn — Skimmed or Proposed, and new; cited from the reading of Zhuk (2020) as open -->
 
@@ -75,7 +75,7 @@ Zhuk, D. (2020). A Proof of the CSP Dichotomy Conjecture. *Journal of the ACM* 6
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp0p9z8. Page numbers are arXiv v11's.*
+*From the reading, [NOTE-tmp0p9z8](../notes.d/NOTE-tmp0p9z8.md). Page numbers are arXiv v11's.*
 
 - **The theorem.** "Suppose Γ ⊆ RA is a finite set of relations. Then CSP(Γ)
   can be solved in polynomial time if there exists a WNU preserving Γ;
@@ -96,11 +96,11 @@ Zhuk, D. (2020). A Proof of the CSP Dichotomy Conjecture. *Journal of the ACM* 6
 ## Standing in the record
 
 The pasted synthesis on resource-bounded realizability cites it, with
-Bulatov's proof (LIT-tmpxq623), for the dichotomy and as precedent for an
+Bulatov's proof ([LIT-tmpxq623](LIT-tmpxq623.md)), for the dichotomy and as precedent for an
 "algebraic component" of its proposed theory. It supports the dichotomy as
 A states it, and only for decision problems over fixed finite languages on
 finite domains. It is silent on solution-space connectivity: its "linked"
 and "connects" are local-consistency notions about paths through an
 instance's constraints, false friends. Its §10.6 shows how quickly the clean
 classification fails once the question posed changes. Filed from it:
-THEORY-tmp8numn.
+[THEORY-tmp8numn](../theory.d/THEORY-tmp8numn.md).

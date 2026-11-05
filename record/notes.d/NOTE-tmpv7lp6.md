@@ -126,7 +126,7 @@ Theorems 4 and 5, on Bannister et al.'s computation-tree models for
 Theorem 3, and on Hull and Zakharevich and on Assis for folding infinite
 patterns. §3 incorporates the author's CCCG 2023 paper (arXiv 2306.11939).
 It restates, in §5.1, Akitaya et al.'s rigid-foldability result, held as
-LIT-tmpj5g19. Its reference list also holds Akitaya, Dujmović, Eppstein,
+[LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md). Its reference list also holds Akitaya, Dujmović, Eppstein,
 Hull, Jain and Lubiw, "Face flips in origami tessellations" (2020), a
 different reconfiguration model whose shortest flip sequences are NP-hard
 to find; not read.
@@ -162,7 +162,7 @@ to find; not read.
     simulation for origami generally is right. §6.2's review of
     universality claims for infinite crease patterns is nearer to A's
     question whether origami can simulate arbitrary transition systems.
-- **A's gloss of Akitaya et al., LIT-tmpj5g19 and NOTE-tmpd0dln.** A says
+- **A's gloss of Akitaya et al., [LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md) and [NOTE-tmpd0dln](NOTE-tmpd0dln.md).** A says
   the difficulty can arise from combinatorial choices at vertices "even for
   infinitesimal movements where paper self-intersection isn't the issue",
   for "certain classes of crease patterns". The held reading supports the
@@ -173,26 +173,26 @@ to find; not read.
   pattern has a continuous motion from flat that flexes all creases, is
   looser than Akitaya et al.'s own claim of NP-hardness, in their title
   "Rigid Foldability is NP-Hard", since membership in NP is
-  open in general (NOTE-tmpd0dln); the held reading is the more careful
-  one. THEORY-tmpj5wcc: this paper is an independent restatement.
-- **CLAIM-tmp9jvpb** (feasible, reachable and reliably reachable are three
+  open in general ([NOTE-tmpd0dln](NOTE-tmpd0dln.md)); the held reading is the more careful
+  one. [THEORY-tmpj5wcc](../theory.d/THEORY-tmpj5wcc.md): this paper is an independent restatement.
+- **[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)** (feasible, reachable and reliably reachable are three
   properties): supports, with a complexity statement. In flaps and flips
   both endpoints are valid flat states and deciding whether one reaches the
   other is PSPACE-complete.
-- **CLAIM-tmpal9mc** (four failure modes of a transition): qualifies. That
+- **[CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md)** (four failure modes of a transition): qualifies. That
   no path exists in the fixed configuration space is here not only a fact
   but a PSPACE-complete question; the difficulty of knowing which failure
   mode holds is not among the four.
-- **LIT-tmpmjw68 and LIT-tmp57hqx** (origami mechanical computing):
+- **[LIT-tmpmjw68](../literature.d/LIT-tmpmjw68.md) and [LIT-tmp57hqx](../literature.d/LIT-tmp57hqx.md)** (origami mechanical computing):
   related, different. They implement logic physically; this paper shows
   folding problems are themselves hard or undecidable. §6.2 notes that
   Assis's universal origami computer leaves unspecified what it means for
   a folding to change dynamically, a caution for reading mechanical-logic
   origami as universal computation.
-- **TERM-tmp2ysyt** (reconfiguration slack), CASE-tmpe48yq and
-  CASE-tmpez9ok: unrelated; flaps and flips has no resource, energy or
+- **[TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)** (reconfiguration slack), [CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md) and
+  [CASE-tmpez9ok](../cases.d/CASE-tmpez9ok.md): unrelated; flaps and flips has no resource, energy or
   continuous motion.
-- Filed: THEORY-tmp34oop. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp34oop](../theory.d/THEORY-tmp34oop.md). No instruction for machine-learning practice.
 
 ## Limitations
 

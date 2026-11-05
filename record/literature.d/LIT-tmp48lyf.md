@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-05 (NOTE-tmpwmx5d) from arXiv v6: the abstract, §1 with
+  skimmed 2026-11-05 ([NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md)) from arXiv v6: the abstract, §1 with
   both result tables, the definitions of §2 and §3 on repeated variables
   up to the restated dichotomies read, §4 (the trichotomy proof) and §5
   not read; worth reading as the correction of Gopalan et al. (2009),
-  LIT-tmpxpw0i: their classification overlooked constraints in which a
+  [LIT-tmpxpw0i](LIT-tmpxpw0i.md): their classification overlooked constraints in which a
   variable occurs twice, which can make navigation harder and diameter
   exponential, so their dichotomies hold with "safely tight" sets in place
   of tight ones, and as the proof, stated here and not read, of the
@@ -73,7 +73,7 @@ Schwerdtfeger, K. W. (2014). A Computational Trichotomy for Connectivity of Bool
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwmx5d. Section and example numbers are arXiv v6's.*
+*From the reading, [NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md). Section and example numbers are arXiv v6's.*
 
 - **The mistake** (abstract; §1): "we correct a minor mistake in
   [GKMP09], which leads to a slight shift of the boundaries towards the
@@ -90,12 +90,12 @@ Schwerdtfeger, K. W. (2014). A Computational Trichotomy for Connectivity of Bool
 
 ## Standing in the record
 
-The correction of Gopalan et al., LIT-tmpxpw0i, filed with it at the
+The correction of Gopalan et al., [LIT-tmpxpw0i](LIT-tmpxpw0i.md), filed with it at the
 lead's instance. It moves the navigation boundary to depend on
 identification of variables as well as on fixing constants, which takes it
 further from the polymorphism-clone route the pasted synthesis on
 resource-bounded realizability proposes as the algebraic component of its
 theory, though inside the Horn case the trichotomy uses Post-lattice
-classes. The THEORY of Gopalan et al., THEORY-tmpmcxbv, carries the
-corrected boundary. Filed from this reading: THEORY-tmpo2ib0, on the
+classes. The THEORY of Gopalan et al., [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md), carries the
+corrected boundary. Filed from this reading: [THEORY-tmpo2ib0](../theory.d/THEORY-tmpo2ib0.md), on the
 correction only. No instruction for machine-learning practice.

@@ -66,7 +66,7 @@ expressibility that keeps graph structure, not only the set of solutions.
   set is considered.
 - Worst-case complexity; random instances motivate but are not analysed.
 - Repeated variables within one constraint were not considered, which is
-  the gap Schwerdtfeger later found (LIT-tmp48lyf).
+  the gap Schwerdtfeger later found ([LIT-tmp48lyf](../literature.d/LIT-tmp48lyf.md)).
 
 ## Key results
 
@@ -124,9 +124,9 @@ expressibility that keeps graph structure, not only the set of solutions.
 
 It builds on Schaefer's dichotomy for satisfiability, on Creignou, Khanna
 and Sudan's refinements, and on the random-SAT work on clustering and
-survey propagation that motivates it. Ito et al. (LIT-tmpujl75, read in
-NOTE-tmpmqj4b) quote its polynomial cases and reduce from its
-PSPACE-completeness. Schwerdtfeger (LIT-tmp48lyf, read in NOTE-tmpwmx5d)
+survey propagation that motivates it. Ito et al. ([LIT-tmpujl75](../literature.d/LIT-tmpujl75.md), read in
+[NOTE-tmpmqj4b](NOTE-tmpmqj4b.md)) quote its polynomial cases and reduce from its
+PSPACE-completeness. Schwerdtfeger ([LIT-tmp48lyf](../literature.d/LIT-tmp48lyf.md), read in [NOTE-tmpwmx5d](NOTE-tmpwmx5d.md))
 corrects its boundary to safely tight and proves the trichotomy it
 conjectures.
 
@@ -163,25 +163,25 @@ conjectures.
   - **Not answered**: non-Boolean domains, where the Bulatov–Zhuk theorem
     lives; other move sets; reachability under resource budgets;
     average-case behaviour.
-- **CLAIM-347** (the compatibility complex of demands): qualifies. The
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (the compatibility complex of demands): qualifies. The
   complex records which demands are jointly satisfiable; two languages
   with the same satisfiability complexity can have opposite navigation
   complexity, so a satisfiability-level object cannot carry navigation
   complexity. The reader's inference.
-- **CLAIM-tmp9jvpb** (feasible, reachable, reliably reachable): supports.
+- **[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)** (feasible, reachable, reliably reachable): supports.
   G(φ) can be disconnected, and deciding whether one feasible solution
   reaches another is PSPACE-complete for languages that are not tight.
-- **QUESTION-tmp5bi3h** (can adding, removing or reassigning constraints
+- **[QUESTION-tmp5bi3h](../questions.d/QUESTION-tmp5bi3h.md)** (can adding, removing or reassigning constraints
   change the dimension or connectivity of the feasible response space?): a
   partial answer, in the Boolean setting. Adding one relation type that is
   not tight to a tight language turns navigation from P to PSPACE-complete
   and allows exponential diameter. That is a change of constraint
   vocabulary, not of one instance.
-- **CLAIM-tmpbi4ca** (the bottleneck threshold): related, different. There
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)** (the bottleneck threshold): related, different. There
   is no resource here, but exponential diameter means a path can be
   exponentially long when it exists, a time cost along paths;
-  TERM-tmp26wo4's cumulative expenditure is the nearest type.
-- Filed: THEORY-tmpmcxbv. No instruction for machine-learning practice.
+  [TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)'s cumulative expenditure is the nearest type.
+- Filed: [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md). No instruction for machine-learning practice.
 
 ## Limitations
 

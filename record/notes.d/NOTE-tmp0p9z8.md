@@ -40,7 +40,7 @@ An independent proof of the Feder–Vardi CSP Dichotomy Conjecture, by a
 polynomial-time algorithm for every finite language preserved by a WNU.
 The hardness half was known (p. 3, Theorem 1.3). The algorithm "just checks
 some local consistency and solves linear equations over prime fields"
-(p. 3), where Bulatov's (LIT-tmpxq623) uses the full few-subpowers
+(p. 3), where Bulatov's ([LIT-tmpxq623](../literature.d/LIT-tmpxq623.md)) uses the full few-subpowers
 algorithm.
 
 ## Key insight
@@ -108,7 +108,7 @@ recursive calls.
 
 ## Connections
 
-Independent of Bulatov's proof (LIT-tmpxq623, NOTE-tmpa8w32), with a
+Independent of Bulatov's proof ([LIT-tmpxq623](../literature.d/LIT-tmpxq623.md), [NOTE-tmpa8w32](NOTE-tmpa8w32.md)), with a
 different algorithm. Draws on Rosenberg's completeness theorem, on
 Bulatov, Jeavons and Krokhin and on Maróti and McKenzie for hardness, and
 on the Galois theory of Bodnarchuk et al. for pp-definability.
@@ -147,21 +147,21 @@ on the Galois theory of Bodnarchuk et al. for pp-definability.
     deciding existence; §10.6 shows that once the question becomes a
     quantified one the clean dichotomy fails. That supports A's own point
     that complexity belongs to the question posed.
-- **THEORY-604, THEORY-729 and NOTE-141 (Corfield).** Qualifies: Pol–Inv is a
+- **[THEORY-604](../theory.d/THEORY-604.md), [THEORY-729](../theory.d/THEORY-729.md) and [NOTE-141](NOTE-141.md) (Corfield).** Qualifies: Pol–Inv is a
   relation-induced Galois connection (the relation: f preserves R) of the
-  kind NOTE-141 traces Corfield's six Galois-connection dualities to, with
-  clones and relational clones as the fixed points of THEORY-729's
+  kind [NOTE-141](NOTE-141.md) traces Corfield's six Galois-connection dualities to, with
+  clones and relational clones as the fixed points of [THEORY-729](../theory.d/THEORY-729.md)'s
   construction. The reader's identification, in neither text.
-- **CLAIM-tmp9jvpb (feasible, reachable, reliably reached).** Supports it by
+- **[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md) (feasible, reachable, reliably reached).** Supports it by
   contrast: the dichotomy concerns only the first property.
-- **CLAIM-tmpal9mc and CASE-tmpb5t9j (no path; disconnected components).**
+- **[CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md) and [CASE-tmpb5t9j](../cases.d/CASE-tmpb5t9j.md) (no path; disconnected components).**
   Unrelated in content; the dichotomy is silent on them.
-- **LIT-tmpj5g19 and NOTE-tmpd0dln (rigid foldability NP-hard).** Qualifies: a
+- **[LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md) and [NOTE-tmpd0dln](NOTE-tmpd0dln.md) (rigid foldability NP-hard).** Qualifies: a
   hardness result for a geometric, continuous-parameter problem, outside
   the finite-domain theorem.
-- **CLAIM-347 and CLAIM-tmpuxuo4 (the compatibility complex).** Unrelated: one
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) (the compatibility complex).** Unrelated: one
   fixed instance, not a language.
-- Filed: THEORY-tmp8numn.
+- Filed: [THEORY-tmp8numn](../theory.d/THEORY-tmp8numn.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

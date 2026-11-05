@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpv7lp6) from the publisher's open PDF on
+  read 2026-11-05 ([NOTE-tmpv7lp6](../notes.d/NOTE-tmpv7lp6.md)) from the publisher's open PDF on
   J-STAGE, main text and every theorem statement in full, the
   binary-tiling gadgets of §6.3–6.6 and the proofs of Lemmas 7–10
   skimmed; worth reading as a map of how the complexity of folding
@@ -79,7 +79,7 @@ Eppstein, D. (2025). Computational Complexities of Folding. *Journal of Informat
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpv7lp6. Section and theorem numbers are the journal's.*
+*From the reading, [NOTE-tmpv7lp6](../notes.d/NOTE-tmpv7lp6.md). Section and theorem numbers are the journal's.*
 
 - **The positive result first** (Theorem 1): flat foldability in time
   (p!)^O(w) n² for ply p and treewidth w; "Under the exponential time
@@ -109,13 +109,13 @@ moral, that complexity belongs to a question posed over a configuration
 space and not to the space, and the paper's organisation bears that out:
 finding a flat state, reaching one from another, counting states and
 representing a folded shape each get a different answer. Three
-corrections, in NOTE-tmpv7lp6. The paper does not establish NP-hardness of
+corrections, in [NOTE-tmpv7lp6](../notes.d/NOTE-tmpv7lp6.md). The paper does not establish NP-hardness of
 flat folding; it cites it and adds the FPT algorithm and the ETH bound. The
 hinged-square model is a toy, as A says. And its Theorem 3, a Galois-theory
 obstruction to computing folded shapes, qualifies A's dismissal of Galois
 groups as the wrong invariant. Its reconfiguration result bears on
-CLAIM-tmp9jvpb (in flaps and flips both endpoints are valid and deciding
-whether one reaches the other is PSPACE-complete) and on CLAIM-tmpal9mc
+[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md) (in flaps and flips both endpoints are valid and deciding
+whether one reaches the other is PSPACE-complete) and on [CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md)
 (telling which failure mode holds can itself be hard). It restates the
-held Akitaya et al., LIT-tmpj5g19, independently. Filed from it:
-THEORY-tmp34oop. No instruction for machine-learning practice.
+held Akitaya et al., [LIT-tmpj5g19](LIT-tmpj5g19.md), independently. Filed from it:
+[THEORY-tmp34oop](../theory.d/THEORY-tmp34oop.md). No instruction for machine-learning practice.

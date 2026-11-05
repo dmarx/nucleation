@@ -124,7 +124,7 @@ bad the worst state along it must be.
 
 ## Connections
 
-It builds on Gopalan et al. (LIT-tmpxpw0i, read in NOTE-tmpec4ov) for
+It builds on Gopalan et al. ([LIT-tmpxpw0i](../literature.d/LIT-tmpxpw0i.md), read in [NOTE-tmpec4ov](NOTE-tmpec4ov.md)) for
 satisfiability reconfiguration, both its PSPACE-completeness, the base of
 Theorem 1's reduction, and its polynomial cases, quoted as Theorem 3; on
 Hearn and Demaine's constraint logic and the sliding-block puzzles; and on
@@ -157,12 +157,12 @@ work in short form.
     that computing it is hard in some cases (strongly NP-hard for minmax
     power supply; no constant-factor approximation for maxmin clique unless
     P = NP) and 2-approximable in others (minmax set cover).
-- **CLAIM-tmpbi4ca** (the threshold for reaching a target is the least,
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)** (the threshold for reaching a target is the least,
   over admissible paths, of the peak requirement): supports and extends.
   The claim's threshold is exactly §4's minmax objective. The paper adds
   what the claim is silent on: computing the threshold can be strongly
   NP-hard, or inapproximable.
-- **TERM-tmp2ysyt** (reconfiguration slack): supports, with a bound in one
+- **[TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md)** (reconfiguration slack): supports, with a bound in one
   case. Theorem 6's path through C0 ∪ Ct shows that in set-cover
   reconfiguration the threshold is at most twice the larger endpoint cost,
   so the slack is at most that cost. The power supply problem, reassigning
@@ -171,20 +171,20 @@ work in short form.
   as the term's definition has it, and is PSPACE-complete in general
   (Theorem 1); the reader's inference, as the paper does not discuss
   organisations.
-- **CLAIM-tmp9jvpb** (feasible, reachable and reliably reachable are three
+- **[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)** (feasible, reachable and reliably reachable are three
   properties): supports. Reconfiguration is exactly the feasible against
   reachable distinction, and deciding reachability is PSPACE-complete for
   many families.
-- **CLAIM-tmpal9mc** (four failure modes): qualifies. Telling no path from
+- **[CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md)** (four failure modes): qualifies. Telling no path from
   a path above the ceiling is itself a hard computational question.
-- **CLAIM-tmppzkl3** (the threshold is stable under error in the resource
+- **[CLAIM-tmppzkl3](../claims.d/CLAIM-tmppzkl3.md)** (the threshold is stable under error in the resource
   function): unrelated in substance. Stability under estimation error does
   not make the threshold easy to compute, and Theorems 4–5 and Lemma 3 say
   it is not, in general.
-- **CLAIM-347** (the compatibility complex): unrelated directly; this
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (the compatibility complex): unrelated directly; this
   paper concerns paths among solutions, not which demands are jointly
   satisfiable.
-- Filed: THEORY-tmp57bxg. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp57bxg](../theory.d/THEORY-tmp57bxg.md). No instruction for machine-learning practice.
 
 ## Limitations
 

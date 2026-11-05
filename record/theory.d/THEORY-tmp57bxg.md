@@ -13,7 +13,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpujl75
 summary: >-
-  Ito et al. (2011), LIT-tmpujl75, read in NOTE-tmpmqj4b (main text in
+  Ito et al. (2011), [LIT-tmpujl75](../literature.d/LIT-tmpujl75.md), read in [NOTE-tmpmqj4b](../notes.d/NOTE-tmpmqj4b.md) (main text in
   full; the matching algorithm and the proofs of Lemmas 3–4 and Theorem 7
   skimmed). Proposed: most PSPACE-hardness proofs in the paper are
   sketches, and the copy read is the article-in-press PDF posted by a
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Ito et al. (2011), LIT-tmpujl75; read in NOTE-tmpmqj4b.
+Ito et al. (2011), [LIT-tmpujl75](../literature.d/LIT-tmpujl75.md); read in [NOTE-tmpmqj4b](../notes.d/NOTE-tmpmqj4b.md).
 
 ## What was actually shown
 

@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp48lyf
 summary: >-
-  Schwerdtfeger (2014), LIT-tmp48lyf, skimmed in NOTE-tmpwmx5d: the
+  Schwerdtfeger (2014), [LIT-tmp48lyf](../literature.d/LIT-tmp48lyf.md), skimmed in [NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md): the
   abstract, §1, the definitions and §3 through the restated theorems read,
   §4–5 not. Proposed: the extended structural expressibility proof (Lemma
   3.4) was read only as amended, not in full. It does not include the
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Schwerdtfeger (2014), LIT-tmp48lyf; skimmed in NOTE-tmpwmx5d. The work
-corrected is Gopalan et al. (2009), LIT-tmpxpw0i.
+Schwerdtfeger (2014), [LIT-tmp48lyf](../literature.d/LIT-tmp48lyf.md); skimmed in [NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md). The work
+corrected is Gopalan et al. (2009), [LIT-tmpxpw0i](../literature.d/LIT-tmpxpw0i.md).
 
 ## What was actually shown
 

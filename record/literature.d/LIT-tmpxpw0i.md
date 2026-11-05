@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-05 (NOTE-tmpec4ov) from arXiv v2: definitions, theorem
+  skimmed 2026-11-05 ([NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md)) from arXiv v2: definitions, theorem
   statements, the easy side (§4.1–4.2) and the open problems in full, the
   proofs of the hard side and of Lemmas 4.8–4.13 skimmed, the SIAM version
   not compared; worth reading as the first worst-case classification of
@@ -14,7 +14,7 @@ status_note: >-
   directions. Its main limits: Boolean domain, constants allowed and
   single-flip moves only; and the boundary is slightly wrong, since
   repeated variables in constraints were not considered, as Schwerdtfeger
-  (2014), LIT-tmp48lyf, shows and corrects.
+  (2014), [LIT-tmp48lyf](LIT-tmp48lyf.md), shows and corrects.
 title: 'The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies'
 version: 1
 history:
@@ -73,7 +73,7 @@ Gopalan, P., Kolaitis, P. G., Maneva, E. & Papadimitriou, C. H. (2009). The Conn
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpec4ov. Theorem numbers are arXiv v2's.*
+*From the reading, [NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md). Theorem numbers are arXiv v2's.*
 
 - **st-connectivity** (Theorem 2.9): if S is tight, ST-CONN(S) is in P;
   otherwise it is PSPACE-complete.
@@ -90,7 +90,7 @@ Gopalan, P., Kolaitis, P. G., Maneva, E. & Papadimitriou, C. H. (2009). The Conn
   Schaefer": NP-complete to satisfy, st-connectivity in P; positive
   NAE-3SAT is not tight, and both connectivity problems are
   PSPACE-complete.
-- **Corrected** by Schwerdtfeger (2014), LIT-tmp48lyf: repeated variables
+- **Corrected** by Schwerdtfeger (2014), [LIT-tmp48lyf](LIT-tmp48lyf.md): repeated variables
   in constraints move the boundary slightly toward the hard side, from
   tight to "safely tight".
 
@@ -107,7 +107,7 @@ predict one direction only: every Schaefer-easy language is also easy to
 navigate (Lemma 4.1). Finding and navigating come apart in both
 directions, 1-in-3 SAT against NAE-3SAT, which is A's point that
 compatibility equivalence does not imply computational equivalence, made
-exact. It bears on CLAIM-347, CLAIM-tmp9jvpb and QUESTION-tmp5bi3h.
+exact. It bears on [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md) and [QUESTION-tmp5bi3h](../questions.d/QUESTION-tmp5bi3h.md).
 Non-Boolean domains, other move sets and resource budgets are left open.
-Filed from it: THEORY-tmpmcxbv. No instruction for machine-learning
+Filed from it: [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md). No instruction for machine-learning
 practice.

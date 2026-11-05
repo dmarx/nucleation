@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpa8w32) from arXiv v2, the 101-page full
+  read in part 2026-11-05 ([NOTE-tmpa8w32](../notes.d/NOTE-tmpa8w32.md)) from arXiv v2, the 101-page full
   version; worth reading as one of the two independent proofs of the
   Feder–Vardi dichotomy: for a finite constraint language over a finite set,
   CSP(Γ) is in P or NP-complete, the tractable side being exactly the
@@ -71,7 +71,7 @@ Bulatov, A. A. (2017). A dichotomy theorem for nonuniform CSPs. *2017 IEEE 58th 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpa8w32. Page numbers are those of arXiv v2.*
+*From the reading, [NOTE-tmpa8w32](../notes.d/NOTE-tmpa8w32.md). Page numbers are those of arXiv v2.*
 
 - **The dichotomy.** "For any finite constraint language Γ over a finite
   set the problem CSP(Γ) is either solvable in polynomial time or is
@@ -92,7 +92,7 @@ Bulatov, A. A. (2017). A dichotomy theorem for nonuniform CSPs. *2017 IEEE 58th 
 ## Standing in the record
 
 The pasted synthesis on resource-bounded realizability cites it, with
-Zhuk's proof (LIT-tmp13cly), as the precedent for "classifying computational
+Zhuk's proof ([LIT-tmp13cly](LIT-tmp13cly.md)), as the precedent for "classifying computational
 systems through their constraint-preserving algebra". The paper bears that
 out only for decision problems: the theorem classifies the problems CSP(Γ)
 over a fixed finite language on a finite domain, and polymorphisms are
@@ -101,4 +101,4 @@ operations a system performs. It says nothing about solution-space
 connectivity or about reaching one solution from another. A's Pol–Inv
 Galois connection is the standard one and follows from the paper's
 definitions, but the paper does not state it as a Galois connection. Filed
-from it: THEORY-tmp99dad.
+from it: [THEORY-tmp99dad](../theory.d/THEORY-tmp99dad.md).

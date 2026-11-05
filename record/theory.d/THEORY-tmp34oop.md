@@ -13,7 +13,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpg0434
 summary: >-
-  Eppstein (2025), LIT-tmpg0434, read in NOTE-tmpv7lp6 (main text and all
+  Eppstein (2025), [LIT-tmpg0434](../literature.d/LIT-tmpg0434.md), read in [NOTE-tmpv7lp6](../notes.d/NOTE-tmpv7lp6.md) (main text and all
   theorem statements in full; the §6 gadgets and the proofs of Lemmas 7–10
   skimmed). Proposed: the gadget constructions behind Theorems 6 and 7
   were not checked. It does not say that flat folding is NP-complete
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Eppstein (2025), LIT-tmpg0434; read in NOTE-tmpv7lp6.
+Eppstein (2025), [LIT-tmpg0434](../literature.d/LIT-tmpg0434.md); read in [NOTE-tmpv7lp6](../notes.d/NOTE-tmpv7lp6.md).
 
 ## What was actually shown
 

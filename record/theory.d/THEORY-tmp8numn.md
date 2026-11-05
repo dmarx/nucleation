@@ -16,7 +16,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp13cly
 summary: >-
-  Zhuk (2017; J. ACM 2020), LIT-tmp13cly, read in part in NOTE-tmp0p9z8 (the
+  Zhuk (2017; J. ACM 2020), [LIT-tmp13cly](../literature.d/LIT-tmp13cly.md), read in part in [NOTE-tmp0p9z8](../notes.d/NOTE-tmp0p9z8.md) (the
   introduction, outline, definitions, Theorem 5.1 with proof and the
   conclusions). Proposed: the main proofs were not read. It is about
   deciding existence of a solution, for fixed finite languages on finite
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Zhuk (2017; J. ACM 2020), LIT-tmp13cly; read in NOTE-tmp0p9z8.
+Zhuk (2017; J. ACM 2020), [LIT-tmp13cly](../literature.d/LIT-tmp13cly.md); read in [NOTE-tmp0p9z8](../notes.d/NOTE-tmp0p9z8.md).
 
 ## What was actually shown
 
@@ -44,7 +44,7 @@ Zhuk (2017; J. ACM 2020), LIT-tmp13cly; read in NOTE-tmp0p9z8.
 - **The algorithm** (§2, outline read): local consistency and domain
   reductions, then linear equations over prime fields; its correctness
   proofs (§§6–9) were not read.
-- **Independence**: Bulatov's proof (LIT-tmpxq623) appeared at the same time
+- **Independence**: Bulatov's proof ([LIT-tmpxq623](../literature.d/LIT-tmpxq623.md)) appeared at the same time
   and the two algorithms are "significantly different" (p. 3).
 
 ## What this does not say

@@ -1,16 +1,16 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmplptka) from arXiv v1; registered as the
+  read in part 2026-11-05 ([NOTE-tmplptka](../notes.d/NOTE-tmplptka.md)) from arXiv v1; registered as the
   open stand-in for formal concept analysis, whose canonical sources the
-  record holds unread (LIT-344, Ganter & Wille, and LIT-337, Wille 2000,
+  record holds unread ([LIT-344](LIT-344.md), Ganter & Wille, and [LIT-337](LIT-337.md), Wille 2000,
   both Unavailable). Worth reading as a lawful, citable statement of the
   core of FCA, which its theory sections say they "mainly reproduce" from
   Ganter & Wille: formal contexts, derivation operators and their Galois
   property, closure operators, formal concepts, the concept lattice and the
   Basic Theorem, attribute implications, Armstrong rules and the
-  Duquenne–Guigues base. It stands in for the first chapters of LIT-344,
-  not for its structure theory, and for LIT-337 only for the FCA that paper
+  Duquenne–Guigues base. It stands in for the first chapters of [LIT-344](LIT-344.md),
+  not for its structure theory, and for [LIT-337](LIT-337.md) only for the FCA that paper
   extends, not for its Boolean concept logic. Its main limits: a tutorial,
   with exercises in place of proofs, a few typographical slips in the
   definitions, and some 80 pages of IR-oriented application surveys not
@@ -78,7 +78,7 @@ Ignatov, D. I. (2015). Introduction to Formal Concept Analysis and Its Applicati
 
 ## Key takeaways
 
-*From the reading, NOTE-tmplptka. Page numbers are the arXiv PDF's.*
+*From the reading, [NOTE-tmplptka](../notes.d/NOTE-tmplptka.md). Page numbers are the arXiv PDF's.*
 
 - **A restatement.** "In this section, we mainly reproduce basic definitions
   from Ganter&Wille’s book on Formal Concept Analysis" (p. 3).
@@ -100,13 +100,13 @@ Ignatov, D. I. (2015). Introduction to Formal Concept Analysis and Its Applicati
 Registered as a stand-in. The pasted synthesis on resource-bounded
 realizability names formal concept analysis for its demand–configuration
 Galois connection and cites an unreachable moex.inria.fr page; the
-canonical works, LIT-344 (Ganter & Wille) and LIT-337 (Wille 2000), are held
+canonical works, [LIT-344](LIT-344.md) (Ganter & Wille) and [LIT-337](LIT-337.md) (Wille 2000), are held
 Unavailable. This tutorial stands in for them this far: it states the
-definitions and theorems of the first chapters of LIT-344 (contexts,
+definitions and theorems of the first chapters of [LIT-344](LIT-344.md) (contexts,
 derivation operators, closures, concepts, the Basic Theorem, implications
 and their bases, conceptual scaling) without proofs, and none of that
 book's later structure theory (decompositions, morphisms, dimension). For
-LIT-337 it gives only the base theory that paper extends; nothing on
+[LIT-337](LIT-337.md) it gives only the base theory that paper extends; nothing on
 negation, semiconcepts or protoconcepts. It is enough to check A's first
 Galois connection, which is exactly the derivation-operator connection of
-a formal context. Filed from it: THEORY-tmp8atfa.
+a formal context. Filed from it: [THEORY-tmp8atfa](../theory.d/THEORY-tmp8atfa.md).

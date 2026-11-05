@@ -34,7 +34,7 @@ summary: >-
 
 ## Contribution
 
-It finds and repairs a gap in Gopalan et al. (LIT-tmpxpw0i): a constraint
+It finds and repairs a gap in Gopalan et al. ([LIT-tmpxpw0i](../literature.d/LIT-tmpxpw0i.md)): a constraint
 application may use one variable twice, and the relation it then imposes
 need not share the properties of the relation it was built from. With the
 classes made "safe" under identification of variables, the dichotomies
@@ -102,10 +102,10 @@ in more variables", so a structural expression may lose connectivity
 
 ## Connections
 
-It corrects Gopalan et al. (LIT-tmpxpw0i, skimmed in NOTE-tmpec4ov),
+It corrects Gopalan et al. ([LIT-tmpxpw0i](../literature.d/LIT-tmpxpw0i.md), skimmed in [NOTE-tmpec4ov](NOTE-tmpec4ov.md)),
 proves their trichotomy conjecture, and draws on Creignou, Khanna and
 Sudan for the IHSB classes and on the co-clone tables of Böhler et al.
-Its §1 names Ito et al. (LIT-tmpujl75) among the reconfiguration work that
+Its §1 names Ito et al. ([LIT-tmpujl75](../literature.d/LIT-tmpujl75.md)) among the reconfiguration work that
 applies Gopalan et al.'s results.
 
 ## Bearing on the record
@@ -119,12 +119,12 @@ applies Gopalan et al.'s results.
   Within the Horn and dual Horn cases the trichotomy is drawn with
   Post-lattice classes (IHSB±), so algebra is partly relevant to
   connectivity, as far as Table 2 shows.
-- **THEORY-tmpmcxbv** (Gopalan et al.'s dichotomy): carries the corrected
+- **[THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md)** (Gopalan et al.'s dichotomy): carries the corrected
   boundary; this reading is its second source.
-- The bearings of Gopalan et al. on CLAIM-347, CLAIM-tmp9jvpb and
-  QUESTION-tmp5bi3h (NOTE-tmpec4ov) survive the correction: the hard
+- The bearings of Gopalan et al. on [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md) and
+  [QUESTION-tmp5bi3h](../questions.d/QUESTION-tmp5bi3h.md) ([NOTE-tmpec4ov](NOTE-tmpec4ov.md)) survive the correction: the hard
   side only grows.
-- Filed: THEORY-tmpo2ib0. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpo2ib0](../theory.d/THEORY-tmpo2ib0.md). No instruction for machine-learning practice.
 
 ## Limitations
 

@@ -104,7 +104,7 @@ of B.
 
 It restates, from the canonical sources the record holds Unavailable:
 
-- **Of LIT-344 (Ganter & Wille)**: the definitions and theorems of its
+- **Of [LIT-344](../literature.d/LIT-344.md) (Ganter & Wille)**: the definitions and theorems of its
   opening chapters, namely contexts, derivation operators and their
   Galois property, closure operators, concepts, the Basic Theorem
   (statement only), attribute implications, Armstrong rules, implication
@@ -113,7 +113,7 @@ It restates, from the canonical sources the record holds Unavailable:
   distributivity, dimension, morphisms, bonds).
 - **Of Wille 1982**: the Basic Theorem, credited to it; not its programmatic
   argument for restructuring lattice theory.
-- **Of LIT-337 (Wille 2000)**: only the base theory that paper extends.
+- **Of [LIT-337](../literature.d/LIT-337.md) (Wille 2000)**: only the base theory that paper extends.
   Nothing on negation, semiconcepts, protoconcepts or double Boolean
   algebras.
 
@@ -145,54 +145,54 @@ It credits Birkhoff (polarities) and Ore for the Galois connection.
     legitimate, but since fewer objects can only shrink the extents being
     compared, implications can only be added as b falls: one valid at a
     budget stays valid at every lower budget. The budgeted complex of
-    CLAIM-tmpuxuo4 grows with b; the set of valid implications shrinks.
+    [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) grows with b; the set of valid implications shrinks.
     This is the reader's derivation from Definition 17, not a claim of
-    Ignatov, of A or of any source. Worked by the reader on CASE-tmpsbhp8's
+    Ignatov, of A or of any source. Worked by the reader on [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md)'s
     four configurations, and rechecked by the filer by enumeration: for
     1 ≤ b < 2 (objects q₁ and q₂₃) the implications 2 → 3 and 3 → 2 hold,
     and {1,2} and {1,3} vacuously imply all three demands; at b ≥ 2, q₁₂
     breaks 2 → 3 and makes {1,2} closed; at b ≥ 3, q₁₃ breaks 3 → 2 and
     makes {1,3} closed. Only the triple keeps an empty extent, the
-    frustration CASE-tmpsbhp8 identifies. So A's "family of
+    frustration [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) identifies. So A's "family of
     resource-dependent logical closure structures" exists, and is
     antitone in the budget.
   - **Right in substance, missing a citation**: A cites a website for a
     construction whose standard sources are Wille 1982 and Ganter & Wille
-    (LIT-344).
-- **LIT-267, NOTE-240 and THEORY-698 (the Lattice Representation
-  Hypothesis).** Qualifies. NOTE-240 holds the same construction in full,
+    ([LIT-344](../literature.d/LIT-344.md)).
+- **[LIT-267](../literature.d/LIT-267.md), [NOTE-240](NOTE-240.md) and [THEORY-698](../theory.d/THEORY-698.md) (the Lattice Representation
+  Hypothesis).** Qualifies. [NOTE-240](NOTE-240.md) holds the same construction in full,
   read from that paper's Appendix B: antitone Galois connection, closure
-  operators, closed pairs forming a complete lattice. THEORY-698's warning
+  operators, closed pairs forming a complete lattice. [THEORY-698](../theory.d/THEORY-698.md)'s warning
   carries over: the lattice is "guaranteed by construction" for any
   incidence. The concept lattice of the demand–configuration context exists
   for any system whatever, so its existence is no finding; only its
   particular shape, and how it changes with the budget, carries
-  information. NOTE-240 also records that raising that paper's threshold
+  information. [NOTE-240](NOTE-240.md) also records that raising that paper's threshold
   removes incidences and "typically" coarsens the lattice, a parallel to
   budget indexing.
-- **NOTE-239 (van Rijsbergen).** Supports: an inverted file read as a Galois
+- **[NOTE-239](NOTE-239.md) (van Rijsbergen).** Supports: an inverted file read as a Galois
   connection between documents and index terms, the same construction.
-- **THEORY-604, THEORY-729 and NOTE-141 (Corfield).** Supports. NOTE-141 traces
+- **[THEORY-604](../theory.d/THEORY-604.md), [THEORY-729](../theory.d/THEORY-729.md) and [NOTE-141](NOTE-141.md) (Corfield).** Supports. [NOTE-141](NOTE-141.md) traces
   Corfield's six Galois-connection dualities to a relation between two sets
   inducing an adjunction between their power sets, which is the
-  formal-context construction; THEORY-729's restriction to fixed points is
+  formal-context construction; [THEORY-729](../theory.d/THEORY-729.md)'s restriction to fixed points is
   the dual isomorphism of extents and intents. Neither speaks of
   implications.
-- **LIT-803, NOTE-601 and THEORY-686 (Seven Sketches).** Qualifies: Chapter 1
+- **[LIT-803](../literature.d/LIT-803.md), [NOTE-601](NOTE-601.md) and [THEORY-686](../theory.d/THEORY-686.md) (Seven Sketches).** Qualifies: Chapter 1
   holds the covariant order theory under the construction (Galois
   connections as adjunctions between preorders, closure operators), not
   the formal context and not implications.
-- **CLAIM-119 (communicative categories form a concept lattice).** Unrelated
+- **[CLAIM-119](../claims.d/CLAIM-119.md) (communicative categories form a concept lattice).** Unrelated
   in domain; uses the same construction.
-- **CLAIM-347, CLAIM-tmpuxuo4 and CASE-tmpsbhp8 (the compatibility complex,
+- **[CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) and [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) (the compatibility complex,
   budgeted).** Supports A's "The corresponding Galois connection
   additionally records which demands imply which others": the complex is
   the sets S with Ψ(S) non-empty, the non-vacuous part of this context's
   closure system, recoverable from the concept lattice. The
-  budget-antitone implications complement CLAIM-tmpuxuo4's budget-monotone
+  budget-antitone implications complement [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md)'s budget-monotone
   complex.
 - The record held no account of attribute implications or their bases;
-  this is the first. Filed: THEORY-tmp8atfa.
+  this is the first. Filed: [THEORY-tmp8atfa](../theory.d/THEORY-tmp8atfa.md).
 - The applications sections survey FCA-based learners, not read; no
   instruction for machine-learning practice was taken from it.
 

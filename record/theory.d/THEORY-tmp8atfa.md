@@ -14,9 +14,9 @@ date: '2026-11-05'
 source:
 - LIT-tmpnheem
 summary: >-
-  Ignatov (2015), LIT-tmpnheem, read in part in NOTE-tmplptka (the theory
+  Ignatov (2015), [LIT-tmpnheem](../literature.d/LIT-tmpnheem.md), read in part in [NOTE-tmplptka](../notes.d/NOTE-tmplptka.md) (the theory
   sections and conclusion), restating Wille 1982 and Ganter & Wille
-  (LIT-344). Proposed: the tutorial gives the Basic Theorem without proof;
+  ([LIT-344](../literature.d/LIT-344.md)). Proposed: the tutorial gives the Basic Theorem without proof;
   the Galois property and the closure form of implications were re-derived
   for this reading. Implications hold relative to the given objects, not by
   logical entailment, and include vacuous ones. It does not say that a
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Ignatov (2015), LIT-tmpnheem; read in NOTE-tmplptka. The canonical source,
-LIT-344 (Ganter & Wille), is held Unavailable.
+Ignatov (2015), [LIT-tmpnheem](../literature.d/LIT-tmpnheem.md); read in [NOTE-tmplptka](../notes.d/NOTE-tmplptka.md). The canonical source,
+[LIT-344](../literature.d/LIT-344.md) (Ganter & Wille), is held Unavailable.
 
 ## What was actually shown
 
@@ -53,7 +53,7 @@ LIT-344 (Ganter & Wille), is held Unavailable.
   given. With fewer objects more implications hold, so restricting a
   context to a subset of its objects (A's budget-affordable
   configurations) can only add implications, the opposite direction to
-  CLAIM-tmpuxuo4's growing complex. That is the reader's derivation, not
+  [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md)'s growing complex. That is the reader's derivation, not
   the tutorial's.
 - That a set of attributes no object has is excluded: its closure is every
   attribute, a vacuous implication.

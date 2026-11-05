@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpmqj4b) from the publisher's PDF posted on
+  read 2026-11-05 ([NOTE-tmpmqj4b](../notes.d/NOTE-tmpmqj4b.md)) from the publisher's PDF posted on
   co-author Erik Demaine's own page, after ScienceDirect showed a captcha;
   main text in full, the matching algorithm and the proofs of Lemmas 3–4
   and Theorem 7 skimmed; worth reading as the paper that defines
@@ -78,7 +78,7 @@ Ito, T., Demaine, E. D., Harvey, N. J. A., Papadimitriou, C. H., Sideri, M., Ueh
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmqj4b. Section and theorem numbers are the journal's.*
+*From the reading, [NOTE-tmpmqj4b](../notes.d/NOTE-tmpmqj4b.md). Section and theorem numbers are the journal's.*
 
 - **The general picture** (abstract): "We demonstrate that a host of
   reconfiguration problems derived from" "NP-complete problems are
@@ -109,12 +109,12 @@ out that reconfiguration makes finding a valid state and navigating
 between valid states precise, with different complexities. A's further
 point, that the complexity can differ dramatically "even for closely
 related constraint systems", is better supported by Gopalan et al.,
-LIT-tmpxpw0i, whose st-connectivity result this paper quotes. A omits §4,
+[LIT-tmpxpw0i](LIT-tmpxpw0i.md), whose st-connectivity result this paper quotes. A omits §4,
 which is A's own bottleneck B*, the least over paths of the peak resource,
 posed as a computational problem: the worst intermediate state of the
 minmax problems is that bottleneck, and computing it is hard in some cases.
-It bears on CLAIM-tmpbi4ca (supports and extends, adding that the
-threshold can be hard to compute), on TERM-tmp2ysyt (Theorem 6 bounds the
+It bears on [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md) (supports and extends, adding that the
+threshold can be hard to compute), on [TERM-tmp2ysyt](../terms.d/TERM-tmp2ysyt.md) (Theorem 6 bounds the
 slack of set-cover reconfiguration by the larger endpoint cost) and on
-CLAIM-tmp9jvpb. Filed from it: THEORY-tmp57bxg. No instruction for
+[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md). Filed from it: [THEORY-tmp57bxg](../theory.d/THEORY-tmp57bxg.md). No instruction for
 machine-learning practice.

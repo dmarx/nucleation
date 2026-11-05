@@ -15,9 +15,9 @@ source:
 - LIT-tmpxpw0i
 - LIT-tmp48lyf
 summary: >-
-  Gopalan et al. (2009), LIT-tmpxpw0i, skimmed in NOTE-tmpec4ov, with
-  Schwerdtfeger's correction (2014), LIT-tmp48lyf, skimmed in
-  NOTE-tmpwmx5d. Proposed: the hard side's proofs were read only in
+  Gopalan et al. (2009), [LIT-tmpxpw0i](../literature.d/LIT-tmpxpw0i.md), skimmed in [NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md), with
+  Schwerdtfeger's correction (2014), [LIT-tmp48lyf](../literature.d/LIT-tmp48lyf.md), skimmed in
+  [NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md). Proposed: the hard side's proofs were read only in
   outline, the SIAM version was not compared, and Schwerdtfeger's own
   proofs were not read. The lead added the work, not A. It does not say
   that algebra is irrelevant to navigation (polymorphisms do make every
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Gopalan et al. (2009), LIT-tmpxpw0i, skimmed in NOTE-tmpec4ov; Schwerdtfeger
-(2014), LIT-tmp48lyf, skimmed in NOTE-tmpwmx5d.
+Gopalan et al. (2009), [LIT-tmpxpw0i](../literature.d/LIT-tmpxpw0i.md), skimmed in [NOTE-tmpec4ov](../notes.d/NOTE-tmpec4ov.md); Schwerdtfeger
+(2014), [LIT-tmp48lyf](../literature.d/LIT-tmp48lyf.md), skimmed in [NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md).
 
 ## What was actually shown
 

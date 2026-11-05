@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpxq623
 summary: >-
-  Bulatov (2017), LIT-tmpxq623, read in part in NOTE-tmpa8w32 (§§1–2 and
+  Bulatov (2017), [LIT-tmpxq623](../literature.d/LIT-tmpxq623.md), read in part in [NOTE-tmpa8w32](../notes.d/NOTE-tmpa8w32.md) (§§1–2 and
   the opening of §3; the proofs not read). Proposed: the tractability
   algorithm and its 80 pages of proof were not checked. It concerns
   decision problems over a fixed finite language on a finite domain. It
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Bulatov (2017), LIT-tmpxq623; read in NOTE-tmpa8w32.
+Bulatov (2017), [LIT-tmpxq623](../literature.d/LIT-tmpxq623.md); read in [NOTE-tmpa8w32](../notes.d/NOTE-tmpa8w32.md).
 
 ## What was actually shown
 
@@ -55,6 +55,6 @@ Bulatov (2017), LIT-tmpxq623; read in NOTE-tmpa8w32.
   without a finite-domain encoding.
 - Anything about the connectivity of the solution space or the
   reachability of one solution from another; it is about whether a
-  solution exists, the first of CLAIM-tmp9jvpb's three properties.
+  solution exists, the first of [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)'s three properties.
 - That the Pol–Inv correspondence is a Galois connection: true and
   standard, but not stated in the paper.
