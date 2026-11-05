@@ -30,7 +30,7 @@ bears_on:
 summary: >-
   The assistant's, on the owner's invitation of 2026-11-05 to add claims
   to the DNA origami filing, and a partial answer to A's question
-  QUESTION-tmp4jbc3. The model has two parts: a nucleus N, and a later
+  [QUESTION-tmp4jbc3](../questions.d/QUESTION-tmp4jbc3.md). The model has two parts: a nucleus N, and a later
   part B formed by other components. N forms at rate a; B at b0 without N
   and b1 with it; any unfinished state traps at κ. A generative system,
   with a = 1, b0 = 0.5, b1 = 2 and κ = 0.5, succeeds 80.0 % of the time
@@ -78,14 +78,14 @@ sparing the time it would take to form.
    Δk(y → y′) = k(y → y′ | do(N = 1)) − k(y → y′ | do(N = 0)), here the
    rate of forming B with and without N, measured within one system. A
    matched-state comparison of that rate is the decisive measurement, as
-   QUESTION-tmp4jbc3 says.
+   [QUESTION-tmp4jbc3](../questions.d/QUESTION-tmp4jbc3.md) says.
 
 ## What it adds
 
-- **To QUESTION-tmp4jbc3:** A asked for downstream hazards "not only final
+- **To [QUESTION-tmp4jbc3](../questions.d/QUESTION-tmp4jbc3.md):** A asked for downstream hazards "not only final
   yield". This shows that final yield, even in both arms, cannot stand in
   for them.
-- **To TERM-tmp3awsy:** a productive nucleus, judged by Δ_N, may or may
+- **To [TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md):** a productive nucleus, judged by Δ_N, may or may
   not be generative. Calling one generative needs the hazard measurement.
 - **In DNA origami:** Schneider, Möritz and Dietz's deletion of early
   segments showed slower folding, a yield-and-time effect. Per-staple
