@@ -1,0 +1,139 @@
+---
+status: Skimmed
+paper: 'LIT-tmp48lyf'
+title: 'Schwerdtfeger — A computational trichotomy for connectivity of Boolean satisfiability'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Skimmed on 2026-11-05 from the arXiv PDF
+    (https://arxiv.org/pdf/1312.4524, v6 of 2015-10-25), extracted with
+    pdftotext -layout. Read: the abstract and §1 with both result tables
+    (by the reader); Definitions 1–4 and 9, Examples 7 and 8, and §3, on
+    repeated variables, from §3.1 through the restated Theorems 2.7–2.10
+    and Lemma 4.2 in §3.2 (by the filer, to check the correction). Not
+    read: the rest of §3.2, §4 (the proof of the trichotomy), §5 (CPSS
+    sets) and the reference list. Registered as the correction of Gopalan et al.
+    (2009), LIT-tmpxpw0i, which the lead added; the pasted synthesis on
+    resource-bounded realizability cites neither.
+date: '2026-11-05'
+summary: >-
+  Shows, by examples and amended lemmas, that Gopalan et al.'s
+  connectivity dichotomies for Boolean CSPs overlooked constraints with a
+  repeated variable, which can destroy the component structure the easy
+  side relies on, and restates their theorems with "safely tight" sets,
+  closed under identification of variables. States, with the proof not
+  read here, the trichotomy they conjectured: connectivity in P for CPSS
+  sets, coNP-complete for the other safely tight sets, PSPACE-complete
+  otherwise.
+---
+<!-- inactive-ok-file: NOTE-tmpec4ov THEORY-tmpo2ib0 THEORY-tmpmcxbv CLAIM-tmp9jvpb — Skimmed, Proposed or new; cited from the reading of Schwerdtfeger (2014) as open -->
+
+# NOTE-tmpwmx5d: Schwerdtfeger — A computational trichotomy for connectivity of Boolean satisfiability
+
+## Contribution
+
+It finds and repairs a gap in Gopalan et al. (LIT-tmpxpw0i): a constraint
+application may use one variable twice, and the relation it then imposes
+need not share the properties of the relation it was built from. With the
+classes made "safe" under identification of variables, the dichotomies
+hold, the boundary a little nearer the hard side. It then proves the
+conjectured trichotomy for connectivity.
+
+## Key insight
+
+Whether a constraint language is easy to navigate depends not only on its
+relations and what fixing constants does to them, but on what identifying
+their variables does. Two solutions of the relation a constraint imposes
+that differ in one variable "may originate from solutions of R that differ
+in more variables", so a structural expression may lose connectivity
+(§3.1).
+
+## Assumptions
+
+- As in Gopalan et al.: Boolean domain, finite sets of relations,
+  constants allowed (CNF_C(S)-formulas), adjacency by a single-variable
+  flip.
+- Identification of variables and substitution of constants defined
+  separately (Definition 1).
+
+## Key results
+
+- **Abstract**: "Building on this work, we here prove the trichotomy:
+  Connectivity is either in P, coNP-complete, or PSPACE-complete. Also, we
+  correct a minor mistake in [GKMP09], which leads to a slight shift of the
+  boundaries towards the hard side."
+- **§1**: "Gopalan et al. did not consider repeated occurrences of
+  variables in constraint applications." And "repeated variables can make
+  the problems harder and the diameter exponential in some cases".
+- **Example 7**: "The relation {001, 110, 111} is OR-free, but not safely
+  OR-free", since identifying the first two variables gives {01, 10, 11}.
+  Checked by hand for this reading: no substitution of a constant gives
+  OR; the identification does.
+- **Example 8**: a 4-ary relation whose two components are bijunctive but
+  which, after identifying two variables, has a component that is not.
+- **§3.1**: Gopalan et al.'s Lemma 3.2 "is only correct for formulas
+  without constants, where no variable is used more than once in any
+  constraint"; the fix is to express directly the relations that
+  repetitions and constants produce, which Theorem 2.7 supplies.
+- **§3.2**: Lemmas 4.3 and 4.5 and Corollaries 4.4, 4.6 and 4.7 need the
+  safe classes; Theorems 2.7–2.10 are restated for "safely tight" sets, and
+  Lemma 4.2 tightened so that every Schaefer set is still safely tight.
+- **Table 2** (§1): CPSS: CONN in P; Schaefer but not CPSS: coNP-complete;
+  safely tight but not Schaefer: coNP-complete, with SAT NP-complete; not
+  safely tight: st-CONN and CONN PSPACE-complete, diameter 2^Ω(√n).
+  Diameter O(n) and st-CONN in P for all safely tight sets.
+
+## Concepts
+
+- **Identification of variables**: obtaining R′ from R by applying it with
+  some variables repeated (Definition 1).
+- **Safely componentwise bijunctive, safely OR-free, safely NAND-free**:
+  R and every relation obtained from it by identifying variables have the
+  property (Definition 4).
+- **Safely tight**: one of the three safe properties holds for every
+  relation in S (Definition 9).
+- **CPSS** (constraint-projection separating Schaefer): bijunctive, or
+  Horn and safely componentwise IHSB−, or dual Horn and safely
+  componentwise IHSB+, or affine (Definition 9).
+- **Structural expressibility**: Gopalan et al.'s Definition 3.1, called
+  faithful expressibility in their arXiv version.
+
+## Connections
+
+It corrects Gopalan et al. (LIT-tmpxpw0i, skimmed in NOTE-tmpec4ov),
+proves their trichotomy conjecture, and draws on Creignou, Khanna and
+Sudan for the IHSB classes and on the co-clone tables of Böhler et al.
+Its §1 names Ito et al. (LIT-tmpujl75) among the reconfiguration work that
+applies Gopalan et al.'s results.
+
+## Bearing on the record
+
+- **A's open question** (the pasted synthesis on resource-bounded
+  realizability), whether the algebra of a constraint language predicts
+  the complexity of navigating its solution space. A cites neither paper.
+  The correction makes the navigation boundary depend on identification of
+  variables as well as on constants, which is further evidence that the
+  polymorphism clone, A's algebraic component, does not decide it alone.
+  Within the Horn and dual Horn cases the trichotomy is drawn with
+  Post-lattice classes (IHSB±), so algebra is partly relevant to
+  connectivity, as far as Table 2 shows.
+- **THEORY-tmpmcxbv** (Gopalan et al.'s dichotomy): carries the corrected
+  boundary; this reading is its second source.
+- The bearings of Gopalan et al. on CLAIM-347, CLAIM-tmp9jvpb and
+  QUESTION-tmp5bi3h (NOTE-tmpec4ov) survive the correction: the hard
+  side only grows.
+- Filed: THEORY-tmpo2ib0. No instruction for machine-learning practice.
+
+## Limitations
+
+- Skimmed: the trichotomy's proof (§4) and the study of CPSS sets (§5)
+  were not read, so the trichotomy is recorded as stated, not checked.
+- Same scope as Gopalan et al.: Boolean domain, constants allowed, single
+  flips.
+
+## Open questions
+
+- Does the trichotomy hold for formulas without constants? The author's
+  later work treats that case; not read.

@@ -1,0 +1,121 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmpv7lp6) from the publisher's open PDF on
+  J-STAGE, main text and every theorem statement in full, the
+  binary-tiling gadgets of §6.3–6.6 and the proofs of Lemmas 7–10
+  skimmed; worth reading as a map of how the complexity of folding
+  depends on the question asked: deciding flat-foldability of a finite
+  crease pattern is fixed-parameter tractable in ply and treewidth, with
+  an ETH-optimal dependence on treewidth; exact 3D folded shapes can need
+  numbers no radical or bounded-degree root computation reaches; reaching
+  one flat state from another in the "flaps and flips" toy model is
+  PSPACE-complete and counting its states #P-complete; and
+  flat-foldability of self-similar patterns with infinitely many creases
+  is undecidable. The NP-completeness of flat folding it cites is earlier
+  work, not its own. Its main limits: flaps and flips are uncreased
+  squares taped to a table, a toy and not one folded sheet; the moves are
+  discrete, with no mechanics; and the undecidability needs infinitely
+  many creases.
+title: 'Computational Complexities of Folding'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    resource-bounded realizability, written by another assistant (A) and
+    pasted by the owner on 2026-11-04, which cites it twice to J-STAGE:
+    once by title, for results "involving NP-hardness,
+    PSPACE-completeness, #P-completeness, and even undecidability", and
+    once, unnamed, for "PSPACE-completeness for reconfiguration in a
+    particular hinged-square origami model", which is this paper's
+    Theorem 4 and not another paper. Citation checked by the reader
+    against Crossref and the J-STAGE landing page: David Eppstein, sole
+    author, Journal of Information Processing 33: 954–973 (December 2025),
+    an invited paper; received 2024-10-08, accepted 2025-09-18, online on
+    J-STAGE 2025-12-15. A's title, author, year and venue are right. The
+    arXiv version, 2410.07666, v1 of 2024-10-10, is the earliest exact
+    date and is `published:` (ADR-002); Crossref gives the print year
+    only. Not held before (no hit for the arXiv id, the DOI or the title).
+    Copy: the publisher's PDF,
+    https://www.jstage.jst.go.jp/article/ipsjjip/33/0/33_954/_pdf/-char/en,
+    marked world-readable on the landing page, 20 pages, extracted with
+    pdftotext.
+tags:
+- mathematics
+- operations-research
+date: '2026-11-05'
+published: '2024-10-10'
+arxiv: '2410.07666'
+doi: '10.2197/ipsjjip.33.954'
+first_author: 'Eppstein'
+keywords:
+- 'computational complexity'
+- 'origami'
+- 'treewidth'
+- 'reconfiguration'
+- 'undecidability'
+implementations: []
+summary: >-
+  Eppstein (2025). Flat-folding a finite crease pattern is fixed-parameter
+  tractable in ply and the treewidth of a cell adjacency graph, and under
+  the exponential time hypothesis the singly-exponential dependence on
+  treewidth cannot be improved, even for bounded ply. The 3D shape folded
+  from a triangulated net with integer edge lengths cannot always be
+  computed by radicals or bounded-degree roots (a Galois-theoretic
+  result). In a toy model of squares hinged at one edge to a tabletop,
+  moving from one flat state to another one square at a time is
+  PSPACE-complete, by reduction from nondeterministic constraint logic,
+  and counting flat states is #P-complete. For self-similar crease
+  patterns with infinitely many creases on a finite square,
+  flat-foldability is undecidable.
+---
+<!-- inactive-ok-file: THEORY-tmp34oop CLAIM-tmp9jvpb CLAIM-tmpal9mc — Proposed or new; the account filed from this reading, and the claims it bears on, cited from the reading of Eppstein (2025) as open -->
+
+# LIT-tmpg0434: Computational Complexities of Folding
+
+Eppstein, D. (2025). Computational Complexities of Folding. *Journal of Information Processing* 33: 954–973. doi:10.2197/ipsjjip.33.954. arXiv:2410.07666.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpv7lp6. Section and theorem numbers are the journal's.*
+
+- **The positive result first** (Theorem 1): flat foldability in time
+  (p!)^O(w) n² for ply p and treewidth w; "Under the exponential time
+  hypothesis, the singly-exponential dependence of our" algorithm on
+  treewidth is necessary (abstract; Theorem 2).
+- **NP-completeness is earlier work** (§1): "Past results in this
+  direction include the NP-completeness of" flat-foldability, cited to
+  Bern and Hayes and to Akitaya et al.
+- **Galois complexity** (§4, Theorem 3): "The coordinates of the
+  geometric realizations of" bipyramids with integer side lengths "can
+  neither be computed" in the radical nor the root computation tree
+  models.
+- **Reconfiguration** (§5): "This is a reconfiguration problem, in which
+  one must" navigate states by moves; "However, for reconfiguration
+  problems, space complexity is" the natural measure. In a "toy model of
+  reconfiguration in origami flat folding", Theorem 4: pairwise and global
+  connectivity is PSPACE-complete, "even for instances with bounded
+  treewidth"; Theorem 5: counting states is #P-complete under counting
+  reductions.
+- **Undecidability** (§6, Theorems 6 and 7): for self-similar patterns on
+  the binary tiling, "testing flat-foldability is undecidable" (abstract).
+
+## Standing in the record
+
+The pasted synthesis on resource-bounded realizability cites it for its
+moral, that complexity belongs to a question posed over a configuration
+space and not to the space, and the paper's organisation bears that out:
+finding a flat state, reaching one from another, counting states and
+representing a folded shape each get a different answer. Three
+corrections, in NOTE-tmpv7lp6. The paper does not establish NP-hardness of
+flat folding; it cites it and adds the FPT algorithm and the ETH bound. The
+hinged-square model is a toy, as A says. And its Theorem 3, a Galois-theory
+obstruction to computing folded shapes, qualifies A's dismissal of Galois
+groups as the wrong invariant. Its reconfiguration result bears on
+CLAIM-tmp9jvpb (in flaps and flips both endpoints are valid and deciding
+whether one reaches the other is PSPACE-complete) and on CLAIM-tmpal9mc
+(telling which failure mode holds can itself be hard). It restates the
+held Akitaya et al., LIT-tmpj5g19, independently. Filed from it:
+THEORY-tmp34oop. No instruction for machine-learning practice.

@@ -1,0 +1,213 @@
+---
+status: Read
+paper: 'LIT-tmpg0434'
+title: 'Eppstein — Computational complexities of folding'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the publisher's PDF on J-STAGE
+    (https://www.jstage.jst.go.jp/article/ipsjjip/33/0/33_954/_pdf/-char/en),
+    open, 20 pages, extracted with pdftotext -layout. Read in full: the
+    abstract, §1 Introduction, §2 Preliminaries, §3 (the FPT algorithm and
+    the ETH lower bound), §4 Galois complexity, §5 Space and counting
+    complexity (the model, the reduction, Theorems 4 and 5, Lemmas 11–12,
+    Observation 14, Corollaries 13 and 15), §6.1–6.2 (definitions; the
+    review of Hull–Zakharevich and Assis) and the statements of Theorems 6
+    and 7 in §6.7–6.8. Skimmed: the binary-tiling circuit gadgets and
+    signal alignment of §6.3–6.6, and the proofs of Lemmas 7–10. There is
+    no conclusion section. The two-column layout interleaves in
+    extraction, so only runs within one column are quoted; quotes were
+    checked by string match against the extracted text.
+date: '2026-11-05'
+summary: >-
+  A survey with new results on what can be computed about folding.
+  Flat-foldability of a finite crease pattern, NP-complete by earlier work,
+  is fixed-parameter tractable in ply and treewidth, and the
+  singly-exponential dependence on treewidth is optimal under ETH. Exact 3D
+  folded shapes can need numbers outside radical and bounded-degree root
+  computation. In "flaps and flips", squares hinged to a tabletop, reaching
+  one flat state from another is PSPACE-complete and counting states
+  #P-complete. Flat-foldability of self-similar patterns with infinitely
+  many creases on a finite square is undecidable.
+---
+<!-- inactive-ok-file: THEORY-tmp34oop THEORY-tmpj5wcc CLAIM-tmp9jvpb CLAIM-tmpal9mc TERM-tmp2ysyt CASE-tmpe48yq CASE-tmpez9ok — Proposed or new; cited from the reading of Eppstein (2025) as open -->
+
+# NOTE-tmpv7lp6: Eppstein — Computational complexities of folding
+
+## Contribution
+
+Before it, flat-foldability of finite crease patterns was known to be
+NP-complete and some questions about infinite patterns undecidable. The
+paper adds a positive algorithm (FPT in ply and treewidth) with a matching
+ETH lower bound, a Galois-theoretic impossibility for computing 3D folded
+shapes exactly, the first reconfiguration and counting results for a
+folding model (PSPACE-completeness and #P-completeness in flaps and flips),
+and undecidability of flat-foldability for self-similar patterns on finite
+paper.
+
+## Key insight
+
+One physical subject, many complexities. Which class a folding problem
+lands in depends on whether one asks to find a flat state, to reach one
+from another, to count them, or to write a folded shape down exactly, and
+on the model of paper and moves. §5 opens on exactly the distinction
+between finding a state and navigating to it.
+
+## Assumptions
+
+- **Flat folding** (§2): a local flat folding (a continuous piecewise
+  isometry) plus a layering consistent with an ε-close topological
+  embedding; no crumpling away from creases.
+- **Flaps and flips** (§5.1): congruent uncreased squares each hinged
+  along one full edge to a rigid flat tabletop; a move changes one flap's
+  position; "We do not require" rigid motion: "a flap can be pulled out of
+  a pocket formed by other" flaps. No energy, actuation or mechanics.
+- **Galois result** (§4): exact symbolic computation in the algebraic
+  computation-tree models of Bannister et al., not numerics.
+- **Undecidability** (§6): infinitely many creases, self-similar, on a
+  finite square; "tame" patterns.
+
+## Key results
+
+- **Theorem 1** (§3): flat foldability in time (p!)^O(w) n², ply p,
+  treewidth w of the cell adjacency graph, n creases.
+- **Theorem 2** (§3.3): "Theorem 2. If the exponential time hypothesis is
+  true, it is not" possible to test flat foldability in time 2^o(w),
+  labeled or unlabeled, even for ply O(1).
+- **Prior work** (§1): "Past results in this direction include the
+  NP-completeness of" flat-foldability of finite crease patterns, cited to
+  Akitaya et al. (box pleating) and Bern and Hayes.
+- **Theorem 3** (§4): "Theorem 3. The coordinates of the geometric
+  realizations of" bipyramids with integer side lengths "can neither be
+  computed" in the radical nor the root computation tree models.
+- **Why reconfiguration** (§5): "This is a reconfiguration problem, in
+  which one must" "navigate a combinatorial structure of states (partial
+  foldings) and" moves; "However, for reconfiguration problems, space
+  complexity is" more natural than nondeterministic time.
+- **Theorem 4** (§5.2): "Theorem 4. Pairwise connectivity and global
+  connectivity for" flaps and flips is PSPACE-"complete, even for
+  instances with bounded treewidth as defined" in §3.1; by reduction from
+  planar nondeterministic constraint logic (Hearn and Demaine).
+- **Theorem 5 and Corollary 15** (§5.3): "Theorem 5. Counting flaps and
+  flips states is #P-complete under" polynomial-time counting reductions;
+  "We do not know whether counting flaps" and flips states is #P-complete
+  under parsimonious reductions; "Corollary 15. Counting NCL solutions is
+  not #P-complete under" parsimonious reductions.
+- **On Hull and Zakharevich** (§6.2): "Thus, in a certain sense, folding
+  infinite crease patterns is undecidable, but" not in the sense of flat
+  foldability: "The patterns of Hull and Zakharevich are always flat
+  foldable."
+- **Theorems 6 and 7** (§6.7–6.8): with a finite partial folding F on the
+  boundary, "it is undecidable and coRE-" complete whether the pattern
+  folds flat consistently with F; "Theorem 7. The problem of determining
+  the flat-foldability of a" crease pattern repeating one finite crease set
+  in each tile of the square binary tiling is undecidable.
+
+## Concepts
+
+- **Ply**: the number of preimages of a cell of the folded arrangement;
+  the ply of a pattern is the maximum (§2).
+- **Cell adjacency graph**: a vertex per arrangement cell, an edge per
+  neighbouring pair; its treewidth is the parameter of Theorem 1 (§3.1).
+- **Flaps and flips**: the toy model above; states are consistent flat
+  positions, a flip changes one flap (§5.1).
+- **Pairwise connectivity, global connectivity, counting states**: the
+  standard reconfiguration trio, posed for flaps and flips (§5.1).
+- **Tame crease pattern**: a simply connected domain, no crumpled points,
+  finite-length curves between points (§6.1).
+
+## Connections
+
+It builds on Bern and Hayes and on Akitaya et al. for NP-completeness of
+flat folding, on Hearn and Demaine's nondeterministic constraint logic for
+Theorems 4 and 5, on Bannister et al.'s computation-tree models for
+Theorem 3, and on Hull and Zakharevich and on Assis for folding infinite
+patterns. §3 incorporates the author's CCCG 2023 paper (arXiv 2306.11939).
+It restates, in §5.1, Akitaya et al.'s rigid-foldability result, held as
+LIT-tmpj5g19. Its reference list also holds Akitaya, Dujmović, Eppstein,
+Hull, Jain and Lubiw, "Face flips in origami tessellations" (2020), a
+different reconfiguration model whose shortest flip sequences are NP-hard
+to find; not read.
+
+## Bearing on the record
+
+- **A's characterization (the pasted synthesis on resource-bounded
+  realizability).** A quotes no sentence of the paper; A's sentences about
+  it are A's paraphrase. Title, author, year and venue are right.
+  - **Right**: the paper has PSPACE-completeness, #P-completeness and
+    undecidability for infinite self-similar patterns, each in a different
+    model or question, and A's moral, that complexity belongs to a family
+    of problems posed over a configuration space with an encoding and
+    permitted operations, matches how the paper is organised.
+  - **Corrected: NP-hardness is earlier work.** A says the paper
+    "establishes results involving NP-hardness". It cites the
+    NP-completeness of flat folding to Bern and Hayes and to Akitaya et
+    al.; its own result there is the FPT algorithm with the ETH lower
+    bound, which A omits.
+  - **Corrected: Galois groups.** A dismisses the Galois group as
+    "probably not the right invariant" for the general class of objects,
+    being specific to one construction language. The paper's own Theorem 3
+    uses Galois theory as an invariant of computational difficulty for
+    folding: exact 3D folded states of integer-edged nets can need numbers
+    outside radical and bounded-degree root computation. That qualifies the
+    dismissal; it does not show Galois groups are the right invariant for
+    A's wider class.
+  - **The hinged-square claim** is Theorem 4 of this paper, and the model
+    is a toy, as A says: the paper calls it a "toy model of
+    reconfiguration in origami flat folding", its flaps are uncreased
+    squares taped to a table, and its moves are discrete and need not be
+    rigid motions. A's caution that it is not a theorem of universal
+    simulation for origami generally is right. §6.2's review of
+    universality claims for infinite crease patterns is nearer to A's
+    question whether origami can simulate arbitrary transition systems.
+- **A's gloss of Akitaya et al., LIT-tmpj5g19 and NOTE-tmpd0dln.** A says
+  the difficulty can arise from combinatorial choices at vertices "even for
+  infinitesimal movements where paper self-intersection isn't the issue",
+  for "certain classes of crease patterns". The held reading supports the
+  substance, with two corrections: the motions are small finite motions
+  from flat, not infinitesimal (first-order) flexes, and the result holds
+  for general crease patterns, not certain classes. Eppstein's restatement
+  (§5.1), "it is weakly NP-complete to determine whether a given" crease
+  pattern has a continuous motion from flat that flexes all creases, is
+  looser than Akitaya et al.'s own claim of NP-hardness, in their title
+  "Rigid Foldability is NP-Hard", since membership in NP is
+  open in general (NOTE-tmpd0dln); the held reading is the more careful
+  one. THEORY-tmpj5wcc: this paper is an independent restatement.
+- **CLAIM-tmp9jvpb** (feasible, reachable and reliably reachable are three
+  properties): supports, with a complexity statement. In flaps and flips
+  both endpoints are valid flat states and deciding whether one reaches the
+  other is PSPACE-complete.
+- **CLAIM-tmpal9mc** (four failure modes of a transition): qualifies. That
+  no path exists in the fixed configuration space is here not only a fact
+  but a PSPACE-complete question; the difficulty of knowing which failure
+  mode holds is not among the four.
+- **LIT-tmpmjw68 and LIT-tmp57hqx** (origami mechanical computing):
+  related, different. They implement logic physically; this paper shows
+  folding problems are themselves hard or undecidable. §6.2 notes that
+  Assis's universal origami computer leaves unspecified what it means for
+  a folding to change dynamically, a caution for reading mechanical-logic
+  origami as universal computation.
+- **TERM-tmp2ysyt** (reconfiguration slack), CASE-tmpe48yq and
+  CASE-tmpez9ok: unrelated; flaps and flips has no resource, energy or
+  continuous motion.
+- Filed: THEORY-tmp34oop. No instruction for machine-learning practice.
+
+## Limitations
+
+- Flaps and flips is explicitly a toy model; Theorem 4 says nothing about
+  continuous rigid folding of one sheet or about mechanics.
+- The author leaves open whether counting flaps-and-flips states is
+  #P-complete under parsimonious reductions, and whether the dependence on
+  ply can be improved, which is tied to the open map-folding problem.
+- Undecidability needs infinitely many creases; finite flat folding stays
+  in NP.
+- The gadget constructions of §6 were skimmed, not checked.
+
+## Open questions
+
+- Is counting flaps-and-flips states #P-complete under parsimonious
+  reductions (§5.3)?
+- Does any model of continuous rigid folding of a single sheet have a
+  PSPACE-complete reachability problem?
