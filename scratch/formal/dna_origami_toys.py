@@ -140,3 +140,15 @@ close(two_part("10", a_state, 2.0, 2.0, 0.5), 0.8000); close(two_part("00", a_st
 close(a_state, 0.7991, 1e-3)
 print("route: generative (b0 0.5, b1 2.0) and state-only (a %.4f, b0 = b1 = 2.0) both give 0.800 with N, %.4f without" % (a_state, 17 / 30))
 print("all assertions passed (route)")
+
+
+# ---- CLAIM-tmps9wa1: supplied repair. dI/dt = -d I + rho s (1 - I) ---------------------------------------------
+d_, rs_ = 0.2, 1.0
+I_star = rs_ / (rs_ + d_)
+close(I_star, 0.8333)
+for t_, v_ in ((1, 0.6823), (5, 0.3066), (10, 0.1128)):
+    close(I_star * np.exp(-d_ * t_), v_)                    # after the supply is withdrawn
+for th_, need_ in ((0.9, 9.0), (0.99, 99.0)):
+    close(th_ / (1 - th_), need_, 1e-6)                     # supply rho*s needed per unit damage rate to hold theta
+print("supplied repair: intact %.3f; after withdrawal %.3f at t=10; 9d for 90 %%, 99d for 99 %%" % (I_star, I_star * np.exp(-2)))
+print("all assertions passed (repair)")

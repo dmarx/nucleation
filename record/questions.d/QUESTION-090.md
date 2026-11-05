@@ -32,6 +32,7 @@ bearing:
 - CLAIM-286
 - CLAIM-285
 ---
+<!-- inactive-ok-file: CLAIM-tmps9wa1 — new; the assistant's claim on supplied regeneration, cited as open -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-067 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -92,7 +93,7 @@ trade-off can be moved.
 
 From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
 
-A asks, of DNA origami, "what additional reaction network or organizational arrangement would make regeneration endogenous, rather than simply externally supplied", to be investigated "in stages: assembly, damage, component replacement, and the maintenance of the processes enabling replacement". The readings in this pull request reach the first stage and part of a replicating one (Ni et al. 2026, [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)). None reaches replacement of damaged parts, or maintenance of the processes of replacement. So DNA origami does not yet bear on how a self-maintaining structure emerges.
+A asks, of DNA origami, "what additional reaction network or organizational arrangement would make regeneration endogenous, rather than simply externally supplied", to be investigated "in stages: assembly, damage, component replacement, and the maintenance of the processes enabling replacement". The readings in this pull request reach the first stage and part of a replicating one (Ni et al. 2026, [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)). None reached replacement of damaged parts when this note was first written. Scheckenbach et al. 2021, read later in this pull request, do show replacement from a supplied strand pool. No reading reaches maintenance of the processes of replacement, since every replacement part comes from outside (CLAIM-tmps9wa1). So DNA origami does not yet bear on how a self-maintaining structure emerges.
 
 No status changes.
 

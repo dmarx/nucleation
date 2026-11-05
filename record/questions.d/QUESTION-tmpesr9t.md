@@ -21,6 +21,7 @@ summary: >-
   governance emerges from heterogeneous processes; this asks when a nucleus
   becomes one. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmps9wa1 — new; the assistant's claim on supplied regeneration, cited as open -->
 <!-- inactive-ok-file: CLAIM-566 TERM-tmp3awsy — Proposed, Skimmed or new; entries cited as open -->
 
 # QUESTION-tmpesr9t: Under what conditions does a productive partial organization become a self-maintaining nucleus, one whose continued operation contributes to regenerating the very constraints that make its productive influence possible?
@@ -43,9 +44,14 @@ follow.
 
 ## What the record has
 
-- **DNA origami nucleates but does not regenerate.** Schneider, Möritz and
-  Dietz's nucleus speeds folding. Nothing in any origami read here repairs
-  itself.
+- **DNA origami nucleates, and regenerates only from supply.** Schneider,
+  Möritz and Dietz's nucleus speeds folding. An earlier version of this
+  entry said nothing in the origami read here repairs itself. That is wrong.
+  Scheckenbach et al. 2021, read later in this pull request, show folded
+  origami replacing labels and missing staples from a pool of strands in
+  solution, and keeping 76 % intact over 11 days in serum against 12 %. The
+  parts all come from outside, and the repair stops being specific at high
+  damage rates (CLAIM-tmps9wa1).
 - **Replication without regeneration.** Ni et al. ([NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)) copy
   tile patterns from supplied tiles under an imposed thermal program, and
   nothing replaces a damaged copy.
