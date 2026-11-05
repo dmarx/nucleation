@@ -167,18 +167,18 @@ implication valid at a budget is valid at every lower one.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), LIT-tmp5gf89, read in NOTE-tmp8kyp2, qualifies the claim's applicability to
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md), qualifies the claim's applicability to
 physical probes. Its hypothesis takes nested, non-invasive probes; in AFM the stronger probe, sharp
 tips and hard tapping, resolves single missing staples, yet "repeated scanning created holes
 difficult to distinguish from holes due to missing strands". A larger observing budget can
 manufacture distinctions as well as reveal them.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in NOTE-tmpmw05j, support refinement
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), support refinement
 within a chain and qualify nesting by cost. Gel mobility and TEM averages merge 0, 5 and 15 missing
 staples; a cheap defect label splits them down to about 10 bases; cryo-EM, far costlier, "might be
 able to resolve site-specific defects, but it will be blind to stochastically distributed defects".
 The probes are not nested by cost, which the claim's hypothesis needs.
 
-**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), LIT-tmp0hqya, give a physical instance of distinctions that only grow as the probe family grows. Melting temperature, the coarsest probe, already separates the scaffolds of different persistence length. The finer derived quantities (ΔH, ΔS, ΔCp) resolve only the short persistence-length scaffold, because uncertainty "propagates aggressively through the van’t Hoff analysis". Adding a domain-specific reporter separates what bulk probes merge. The paper leaves open any formal statement of the nesting.
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), give a physical instance of distinctions that only grow as the probe family grows. Melting temperature, the coarsest probe, already separates the scaffolds of different persistence length. The finer derived quantities (ΔH, ΔS, ΔCp) resolve only the short persistence-length scaffold, because uncertainty "propagates aggressively through the van’t Hoff analysis". Adding a domain-specific reporter separates what bulk probes merge. The paper leaves open any formal statement of the nesting.
 
 No status changes.

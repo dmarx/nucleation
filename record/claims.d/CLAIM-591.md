@@ -122,21 +122,21 @@ and [CLAIM-571](CLAIM-571.md)'s threshold is the merge level.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, supports directed,
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), supports directed,
 asymmetric costs empirically: leaving the folded state takes 5–10 °C more than entering it ("We
 observe a significant hysteresis"), and unfolding runs "on the order of seconds" against minutes to
 hours for folding. The 2012 abstract calls unfolding equilibrium where the thesis calls it less out
 of equilibrium than folding; the full Science paper was not read.
 
-**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), LIT-tmp11aw1, support the claim qualitatively. Closing and reopening their DNA origami Bennett linkage are different one-way chemical moves:
+**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), [LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md), support the claim qualitatively. Closing and reopening their DNA origami Bennett linkage are different one-way chemical moves:
 - Inputs differ: bridging strands at twofold excess close it, displacing strands at twentyfold excess over those reopen it.
 - Rates differ: half-times of 55 s closing and 49 s expanding.
 
 The configuration returns while the reagent state does not. The paper reports one cycle only, and it leaves open whether repeated cycling or waste accumulation changes what is reachable.
 
-**Dunn et al. and Dannenberg et al., two DNA origami readings.** Both support the claim at the edge. Dunn and colleagues (NOTE-tmpvgzvb): seams bound "effectively,
+**Dunn et al. and Dannenberg et al., two DNA origami readings.** Both support the claim at the edge. Dunn and colleagues ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)): seams bound "effectively,
 irreversibly" make a target unreachable from a part-folded state in the same configuration
-space, and cooling and heating show hysteresis. Dannenberg and colleagues (NOTE-tmpyo994): a
+space, and cooling and heating show hysteresis. Dannenberg and colleagues ([NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md)): a
 three-domain staple's direct 101 → 111 move "is impossible, as the central staple domain and the
 scaffold cannot twist round each other", a one-way topological restriction between states one
 domain apart, and binding and unbinding rates depend on temperature in opposite ways. Neither

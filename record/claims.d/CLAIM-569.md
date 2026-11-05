@@ -122,32 +122,32 @@ budget, is the disconnection of [CLAIM-571](CLAIM-571.md)'s infinite threshold.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), LIT-tmp5gf89, read in NOTE-tmp8kyp2, supports the separation as a suggestion:
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md), supports the separation as a suggestion:
 construction needs staple excess (at 1:1 about 1% of structures were rectangles), while "excess
 staple strands might be recycled" once folding is complete, so perhaps not needed to hold. The
 recycling is untested and the holding conditions were not measured.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, supports the claim
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), supports the claim
 directly: between the folding window and the melting transition 5–10 °C above it, a folded object
 persists while an unfolded one does not form on laboratory timescales (the brick at 56 °C), and
 construction also needs a transient high-temperature step. It leaves open the brick's melting
 temperature, which the text read does not give, and whether a melted object returned into the band
 stays unfolded, which is inferred, not measured.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in NOTE-tmpmw05j, support the
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), support the
 construct-maintain split loosely: construction needs a 65 °C heat shock and a tuned temperature
 schedule, while products are kept cold. Nothing about maintenance is measured.
 
-**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), LIT-tmp11aw1, support the claim with three requirements that are visibly separate in one system:
+**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), [LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md), support the claim with three requirements that are visibly separate in one system:
 - Construct: a two-day thermal anneal at tenfold staple excess, then gel purification.
 - Maintain: bound strands or locking staples, with holding force and torque curves for the joints in pN and pN·nm/rad.
 - Transition: about a minute of strand addition (closing strands at twofold excess) or strand displacement (at twentyfold excess).
 
 None fixes another. The paper leaves open how they compare, since it puts them on no common scale.
 
-**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), LIT-tmp0hqya, give partial support on the maintain side. A single fold's melting temperature and free energy are measured on their own and depend on architecture: shorter folds and a less stiff scaffold are more stable, by more than 10 °C from short to long folds. Construction and transition are not measured: fluorescence is recorded on the melt ramp only, so the paper leaves open how the holding requirement relates to the other two.
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), give partial support on the maintain side. A single fold's melting temperature and free energy are measured on their own and depend on architecture: shorter folds and a less stiff scaffold are more stable, by more than 10 °C from short to long folds. Construction and transition are not measured: fluorescence is recorded on the melt ramp only, so the paper leaves open how the holding requirement relates to the other two.
 
-**Dannenberg, Dunn, Bath, Kwiatkowska, Turberfield and Ouldridge, "Modelling DNA origami self-assembly at the domain level".** Dannenberg and colleagues (LIT-tmpdyrnb, NOTE-tmpyo994) support the separation in a model: halving
+**Dannenberg, Dunn, Bath, Kwiatkowska, Turberfield and Ouldridge, "Modelling DNA origami self-assembly at the domain level".** Dannenberg and colleagues ([LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), [NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md)) support the separation in a model: halving
 or doubling the loop prefactor moves the annealing temperature from 65.3 to 68.2 °C while
 hysteresis, the cost of crossing, stays near 1.6-1.9 °C (Table II), and staple concentration moves
 construction (annealing) and not dissolution (melting). Maintenance as an ongoing cost is not

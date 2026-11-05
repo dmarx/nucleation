@@ -114,7 +114,7 @@ without viable trajectories when regeneration is what viability needs.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, supports assembly and
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), supports assembly and
 persistence as separate: "imperfectly folded structures do not fold at room temperature even after
 long waiting periods", so defective folds persist unrepaired; that part is simulation plus lab
 lore. Regeneration is not addressed.

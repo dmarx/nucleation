@@ -163,38 +163,38 @@ The complexity readings give the second separation hardness results. In Eppstein
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), LIT-tmp5gf89, read in NOTE-tmp8kyp2, supports the distinction with a caveat.
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md), supports the distinction with a caveat.
 Every design is compatible by construction, so every target is feasible, yet the AFM-judged
 fraction of well-formed structures runs from about 1% (an equiangular triangle of rectangles) to
 90% (a bridged rectangle). The yields mix folding with deposition and tip damage, so they bound
 reliable reachability loosely and do not separate an unreached target from a damaged one. No status
 changes.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p and standing in for
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md) and standing in for
 Sobczak et al. (2012), supports the claim empirically. The folded brick is vastly favoured, yet at
 56 °C a sample showed "absolutely no folded origamis even after 48 hours", while 6 °C lower most
 fold within 2 h; reliable reaching holds only within a window of a few degrees. It leaves open
 whether the window's edges are sharp thresholds or timescale artefacts.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in NOTE-tmpmw05j, support the claim from
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), support the claim from
 the observing side: samples that "might be judged as high-quality assembly products" under TEM and
 gel mobility still lack one to six staple equivalents per object, and isothermal folding reaches
 the shape but not the completeness of a 16 h ramp. What counts as reaching the target depends on
 the probe; the paper leaves open how the shortfall is spread across particles.
 
-**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), LIT-tmp11aw1, read in NOTE-tmpjeolx, give the three properties separately for one configuration, the compacted bundle of a DNA origami Bennett linkage:
+**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), [LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md), read in [NOTE-tmpjeolx](../notes.d/NOTE-tmpjeolx.md), give the three properties separately for one configuration, the compacted bundle of a DNA origami Bennett linkage:
 - Feasible: locking staples added at folding hold 93% of linkages there.
 - Reachable: 9.9% of free linkages visit it by thermal motion.
 - Reliably reached: only with added closing strands, which give 93.1%.
 
 This supports the claim with a concrete triple. It leaves open whether the grid fractions are the solution fractions: the authors call them upper bounds, since surface deposition may push near-extreme mechanisms into the extremes. Misfolded particles were excluded.
 
-**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), LIT-tmp0hqya, read in NOTE-tmperio5, measure only the equilibrium stability of one staple fold, and they frame yield as a matter of "limiting thermodynamic equilibria". That weakly qualifies the claim's separation: the paper treats holding as what limits yield, and says nothing about reachability or reliability, since it records no anneal and no kinetics. It leaves open whether a stable fold is also reliably reached.
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), read in [NOTE-tmperio5](../notes.d/NOTE-tmperio5.md), measure only the equilibrium stability of one staple fold, and they frame yield as a matter of "limiting thermodynamic equilibria". That weakly qualifies the claim's separation: the paper treats holding as what limits yield, and says nothing about reachability or reliability, since it records no anneal and no kinetics. It leaves open whether a stable fold is also reliably reached.
 
-**Dunn et al., "Guiding the folding pathway of DNA origami", and Schneider, Möritz and Dietz, "The sequence of events during folding of a DNA origami".** Dunn and colleagues (NOTE-tmpvgzvb) support the distinction: the well-folded shapes are feasible
+**Dunn et al., "Guiding the folding pathway of DNA origami", and Schneider, Möritz and Dietz, "The sequence of events during folding of a DNA origami".** Dunn and colleagues ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) support the distinction: the well-folded shapes are feasible
 and reached, yet in their model the reference staple set ends misfolded in 52% of runs against 1%
 with broken seams, so reliability of reaching is a design property apart from feasibility
-(experimental fitted yields 36-62%). Schneider, Möritz and Dietz (NOTE-tmpqi66a) qualify it: with
+(experimental fitted yields 36-62%). Schneider, Möritz and Dietz ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)) qualify it: with
 the earliest-binding domains removed the target is still reached, "via another, slower pathway",
 so reachability survives while speed does not; they report no yields, so reliability is not
 measured there.

@@ -100,12 +100,12 @@ partition gets coarser. Neither is the system's individuation; the pair is.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in NOTE-tmpmw05j, support the observing
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), support the observing
 half empirically: spending on a de Bruijn defect label (an extra incubation and an ice-cold gel)
 splits samples that TEM averaging and gel mobility merge, those with 0, 5 and 15 of 207 staples
 missing. It leaves open the acting half and whether the extra spending is ordered as the claim's
 budget is.
 
-**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), LIT-tmp0hqya, read in NOTE-tmperio5, support the observing half of the claim concretely. Bulk methods (UV-Vis and DSC, which "measure signal from all DNA in the sample", and gels) cannot single out one staple fold of the scaffold; a designed FRET reporter can. What can be told apart grows with replicates and instrument precision. At the paper's budget, persistence-length differences show in melting temperature but not in ΔH, ΔS or ΔCp, and better "would require equipment with a temperature control precision better than 0.3°C, and with a data sampling density greater than one measurement per 0.6°C." The paper leaves the acting half untouched.
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), read in [NOTE-tmperio5](../notes.d/NOTE-tmperio5.md), support the observing half of the claim concretely. Bulk methods (UV-Vis and DSC, which "measure signal from all DNA in the sample", and gels) cannot single out one staple fold of the scaffold; a designed FRET reporter can. What can be told apart grows with replicates and instrument precision. At the paper's budget, persistence-length differences show in melting temperature but not in ΔH, ΔS or ΔCp, and better "would require equipment with a temperature control precision better than 0.3°C, and with a data sampling density greater than one measurement per 0.6°C." The paper leaves the acting half untouched.
 
 No status changes.
