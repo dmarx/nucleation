@@ -1,0 +1,103 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 (NOTE-tmpfngj0) from the journal's typeset
+  version of record as deposited in the UK Department for International
+  Development's research-outputs store; worth reading as the compact
+  statement of the fiscal-contract proposition and of aid as a rent, the
+  political-science side of the question how an aid-dependent state comes
+  to support itself. A review and agenda essay with no data of its own:
+  the oil evidence it accepts is others' cross-national work, the aid
+  evidence it calls confounded and possibly reverse-caused, and it says
+  nothing measured about tapering or withdrawal of aid, declining to
+  answer whether more reliance on taxation would bring a governance
+  dividend.
+title: 'Revenues, State Formation, and the Quality of Governance in Developing Countries'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to look to
+    aid and development theory on how aid-dependent organizations become
+    self-sufficient (works chosen by the assistant). Citation checked
+    against Crossref (no mailto): Mick Moore (Institute of Development
+    Studies, University of Sussex), International Political Science Review
+    25(3), 297–319; published online 2004-07-01, which is `published:`,
+    and in print July 2004; Crossref's `created` of 2004-06-15 is the
+    deposit date and is not used. Copy: the SAGE typeset version of
+    record, pp. 297–319 with notes and references, deposited by the
+    funder in DFID's research-outputs store
+    (https://assets.publishing.service.gov.uk/media/57a08cc040f0b652dd001526/Moore2.pdf),
+    ten PDF sheets of two article pages each; not fetched from
+    journals.sagepub.com. Text extracted by pdftotext. No correction to
+    the citation was needed.
+tags:
+- society-and-governance
+- social-science
+date: '2026-11-05'
+published: '2004-07-01'
+doi: '10.1177/0192512104043018'
+first_author: 'Moore'
+keywords:
+- 'fiscal sociology'
+- 'fiscal (social) contract'
+- 'rentier state'
+- 'unearned income'
+- 'strategic rent'
+- 'development aid'
+- 'taxation'
+- 'state formation'
+- 'governance'
+implementations: []
+summary: >-
+  Moore (2004). A review essay naming the fiscal (social) contract
+  proposition: states that depend on broadly levied taxes tend toward
+  accountable, representative government, because earned income obliges
+  the state to build a bureaucracy, stay present on the ground and bargain
+  with taxpayers. Rentier states live off unearned income, natural-resource
+  rents and strategic rents, whose dominant modern form is development aid,
+  and those capacities are not built or are let decay. The oil evidence is
+  others' cross-national work, which he accepts; the aid evidence he calls
+  weak and possibly reverse-caused. He declines to say whether more
+  reliance on taxation would pay a governance dividend, and lists instead
+  the conditions under which states negotiate with taxpayers rather than
+  coerce them; easy concessional finance pulls governments away from
+  negotiating.
+---
+<!-- inactive-ok-file: THEORY-tmp02gkd CLAIM-597 CLAIM-558 — Proposed or new; cited from the reading of Moore (2004) as open -->
+
+# LIT-tmpsb4vt: Revenues, State Formation, and the Quality of Governance in Developing Countries
+
+Moore, M. (2004). Revenues, State Formation, and the Quality of Governance in Developing Countries. *International Political Science Review* 25(3): 297–319. doi:10.1177/0192512104043018.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpfngj0. Page numbers are the journal's.*
+
+- **The proposition.** "relative to other types of states, tax states will
+  tend toward accountable, representative government. This I will term
+  the fiscal (social) contract proposition." (p. 299)
+- **Earned against unearned income.** "Rentier states live largely off
+  unearned income: the state is resourced with little organizational or
+  political effort on the part of the state apparatus" (p. 304). Aid is
+  "the dominant type of strategic rent in the contemporary world" (p. 305).
+- **Capacity kept by use.** "If the revenue-raising function is permitted
+  to decay, weak states leave themselves vulnerable" (p. 307).
+- **The aid half is weak.** "the causal connection may be partly or wholly
+  reversed" (p. 306); and on the policy question, "I am unable to provide
+  anything like an answer" (p. 310).
+- **Concessional finance blocks bargaining.** It "creates incentives for
+  governments to reject the negotiation route and to go for what is almost
+  always the easier option" (p. 311).
+
+## Standing in the record
+
+Filed with the other works of this batch, among them Moss, Pettersson and
+van de Walle (2006), which builds on it, after the owner asked on
+2026-11-05 whether aid and development theory says how aid-dependent
+organizations become self-sufficient. It is the state-scale analogue of
+CLAIM-597: an organization fed from outside has no incentive to build the
+capacities that its own supply would require, and lets them decay, which
+is also CLAIM-558's point in another setting. It has nothing measured on
+what happens when the supply stops. Filed from it: THEORY-tmp02gkd.
