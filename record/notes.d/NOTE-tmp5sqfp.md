@@ -1,0 +1,150 @@
+---
+status: Read
+paper: 'LIT-tmp6fzgs'
+title: 'Deng et al. — Laser reprogramming of magnetic anisotropy in soft composites'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the NSF Public Access Repository copy,
+    https://par.nsf.gov/servlets/purl/10215635: the publisher's 10-page
+    article (CC BY 4.0) followed by 10 pages of its Supplementary
+    Information, to Supplementary Fig. 11, extracted with pdftotext
+    -layout. Read: the abstract, introduction, Results, Discussion, Methods,
+    and the data and code statements. Read by caption only: the figures.
+    Skipped: the appended supplementary pages, apart from the Fig. 11
+    caption on cycling, and the movies. Registered and read as a stand-in
+    for Yeow, Yang and Ren (2024), LIT-tmpxnx47, at the owner's request.
+    Quotes checked by string match against the extracted text.
+date: '2026-11-05'
+summary: >-
+  NdFeB particles encapsulated in polycaprolactone and embedded in silicone
+  are freed by local laser melting, aligned by a programming field and
+  fixed on cooling, so a film's magnetization pattern can be written,
+  erased and rewritten; under one 150 mT actuation field each pattern gives
+  a different 3D shape. Resolution about 300 μm; shapes held over 100
+  cycles with alternating reprogramming.
+---
+<!-- inactive-ok-file: LIT-tmpxnx47 THEORY-tmpj5zhj CLAIM-354 CLAIM-478 — Unfetched or Proposed, and new or held; cited from the reading of Deng et al. (2020) as open -->
+
+# NOTE-tmp5sqfp: Deng et al. — Laser reprogramming of magnetic anisotropy in soft composites
+
+## Contribution
+
+A material in which the configuration that determines the response, the
+magnetization pattern, is held fixed by a solid phase and made rewritable
+by a local, reversible phase change, so one film shows many responses to
+the same stimulus; and a laser method for rewriting it region by region.
+
+## Key insight
+
+What decides the shape is frozen in, not fixed for ever. Below the
+polymer's melting point the particles' orientations are a constraint on
+how the film responds; above it they are free; and the phase change is the
+switch between the two. The problem it answers: "these programmed
+anisotropies are permanently determined" in earlier materials
+(introduction, p. 2).
+
+## Assumptions
+
+- **A uniform actuation field** perpendicular to the film; for strip
+  shapes, one end fixed (result below).
+- **The polymer melts well below the silicone's degradation
+  temperature**, so local heating rewrites without damage.
+- **The finite-element model** treats the film as incompressible with a
+  magnetic stress term, E = 1 MPa, after a model of Zhao and colleagues.
+
+## Key results
+
+- **The material** (abstract, p. 1): "The composite film is made from an
+  elastomer and magnetic particles encapsulated by a phase change polymer."
+- **The mechanism** (abstract, p. 1): "Once the phase change polymer is
+  temporarily melted by transient laser heating, the orientation of the
+  magnetic particles can be re-aligned upon change of a programming
+  magnetic field."
+- **Fixing** (Results, p. 2): "After the laser is removed from the exposed
+  areas, PCL is quickly solidified, thus fixing the programmed magnetic
+  orientations of" the particles.
+- **Reversibility** (Discussion, p. 9): "Because the solid–liquid phase
+  change of PCL is reversible, the programmed magnetic anisotropies can be
+  reprogrammed to different ones."
+- **Resolution** (Results, p. 2): "The patterning resolution is estimated
+  to be ~300 μm".
+- **A boundary condition** (Results, p. 5): "the leftmost segment of
+  magnetic film was fixed to the ground by water washable glue to guarantee
+  the stable shape transformations".
+- **Demonstrations** (Results): S and zigzag strips folding along domain
+  boundaries that act as creases, saddles, pyramids, chair, spider and bud
+  shapes, buckling-assembled structures, a multistate LED switch, and
+  kirigami robots whose locomotion (peristalsis, inchworm crawling,
+  rolling) changes with the written pattern; shapes stable over 100
+  actuation cycles with alternating reprogramming, under a 150 mT field.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Local laser melting under a programming field rewrites a film's magnetization pattern, and cooling fixes it | strong, as demonstrated | Results |
+| C2 | One film can be given many shape responses to the same actuation field | strong, as demonstrated | Results; the 100-cycle test |
+| C3 | The finite-element model predicts the shapes | moderate: agreement shown by figure | Results |
+
+## Concepts
+
+- **Magnetic anisotropy, or magnetization profile**: the spatial pattern
+  of particle magnetization that sets the forces and torques on the film
+  under an actuation field (p. 2).
+- **Programming field and actuation field**: the field present while the
+  polymer is molten sets the pattern; the actuation field drives the
+  shape.
+
+## Connections
+
+It sets itself against magnetic soft materials whose anisotropy is fixed
+at fabrication, and against the authors' own earlier responsive
+materials. As a neighbour of Yeow, Yang and Ren (2024), [LIT-tmpxnx47](../literature.d/LIT-tmpxnx47.md), it
+restates, in its own system, one of the two ideas their abstract names:
+magnetically responsive phase-change composites, reconfigured by melting to
+release a frozen configuration and refreezing to fix a new one, with
+origami-like folding. It restates none of Yeow et al.'s results. It does
+not touch the other idea, the actuator–structure interface, nor the
+demonstrations their abstract names.
+
+## Bearing on the record
+
+- **The pasted synthesis on constraint architectures** lists Yeow et al.
+  (2024) as R4 with no claim attributed. Through this neighbour, A's
+  architecture-mediated transition (q_A, z₀) → (q_A, z₁) → (q_B, z₁) →
+  (q_B, z₀) has a concrete instance: z, the frozen magnetization, changes
+  only while a second variable, the polymer's phase, is switched, and the
+  same actuation then gives a different shape. Nothing here bears on A's
+  resource claims: no budgets, bottlenecks or costs are studied.
+- **[CLAIM-025](../claims.d/CLAIM-025.md)** (regime, organization and the capacity to transform it
+  persist or fail separately): supports in kind. The shape response, the
+  magnetization pattern that selects it, and the phase-change rewriting
+  are physically distinct and separately switched.
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (scale separation makes constraints): supports. Below the
+  melting point the orientations are a constraint on the film's response;
+  above it they are degrees of freedom.
+- [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md), [CLAIM-354](../claims.d/CLAIM-354.md) and [THEORY-134](../theory.d/THEORY-134.md) bear on nothing
+  in this paper.
+- Filed: [THEORY-tmpj5zhj](../theory.d/THEORY-tmpj5zhj.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The authors'**: resolution about 300 μm; extension to other
+  phase-change materials and to the microscale suggested, not shown.
+- **Weak films**: the films' magnetization is low.
+- **An external rig**: reprogramming needs the laser and a programming
+  field; "reconfigurable" means many responses to one field, not change
+  while deployed.
+- **A short cycling test**: 100 cycles.
+
+## Open questions
+
+- Can the rewriting be done in place, without the laser rig, inside a
+  device or a confined space? That is the half of Yeow et al.'s idea this
+  paper does not carry.
+- How many rewrite cycles does the film survive before the particles or
+  the polymer degrade?

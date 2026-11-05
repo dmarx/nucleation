@@ -1,0 +1,218 @@
+---
+status: Skimmed
+paper: LIT-tmplozja
+title: 'Tatel — A meta-analysis of procedural skill retention and decay'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Read in part on 2026-11-04 from the PDF in Georgia Tech's
+    institutional repository,
+    https://repository.gatech.edu/server/api/core/bitstreams/569c46d1-0098-4514-a0e6-5a2b2794c93d/content
+    (240 pp.), extracted with pdftotext -layout. Registered as a stand-in
+    for Tatel & Ackerman (2025), LIT-tmpr53a0, at the owner's request.
+    Read: the front matter and Summary; Chapter 1 §1.1 (definitions, the
+    military and healthcare context); Chapter 2 (method and coding,
+    including performance opportunities); Chapter 5 §5.2 (rate of decline),
+    §5.3.2.1 (the performance-opportunity moderator) and §5.4 (loss of
+    acquisition gains); Chapter 6 §§6.2, the first half of 6.3, and 6.5;
+    Chapter 7 (conclusions). Skimmed or skipped: the §1.2 literature
+    review (pp. 8–30); Chapter 3 (effect-size computation and the Monte
+    Carlo study); Chapter 4 detail; §5.1 (replication of Arthur et al.
+    1998); most of §5.3 (the other moderators); §§5.5–5.6 (effect-size
+    formulas, publication bias); the second half of §6.3 and §6.4;
+    appendices B–M and the references. Skimmed, because the method's
+    effect-size chapter and most moderator detail were not read, though
+    the main results were. Page numbers below are the dissertation's.
+date: '2026-11-04'
+summary: >-
+  A random-effects meta-regression of procedural skill retention, with
+  retention interval in months as a continuous predictor, over 457
+  sources. Decline is linear: 0.08 SD a month for accuracy (829 effect
+  sizes) and 0.06 for speed (267) and mixed (180). About half of training
+  gains are lost after 6–9 months (accuracy), 12–15 (speed) and 9–12
+  (mixed). Practice opportunities in the interval slowed accuracy decline.
+  Residual heterogeneity is large, the moderators far from definitive,
+  and relearning during retention tests probably makes the estimates too
+  low.
+---
+<!-- inactive-ok-file: LIT-tmpr53a0 THEORY-tmpsm9h9 THEORY-061 — Unfetched, Proposed or new; cited from the reading of Tatel (2023) as open -->
+
+# NOTE-tmp35hva: Tatel — A meta-analysis of procedural skill retention and decay
+
+## Contribution
+
+The first meta-regression of procedural skill retention to treat
+retention interval as continuous, building on Arthur et al. (1998), which
+binned it, and with more long intervals than earlier reviews. It expresses
+decay in SD per month and as a share of the gains made in training, which
+are the figures needed to say when refresher training is due. It also
+argues that the retention literature confounds retention with relearning,
+mixes speed and accuracy, and usually computes paired-sample effect sizes
+wrongly.
+
+## Key insight
+
+Without use, a trained procedural skill loses a roughly constant amount
+each month, so the question when to retrain has a quantitative answer:
+about half the training gain is gone within six months to just over a
+year, depending on whether accuracy or speed is measured.
+
+## Assumptions
+
+- **Procedural skill** is "a learned action that produces a behavioral
+  output involving a non-verbal motor component" (p. 3); verbal recall and
+  recognition tests do not count.
+- **Retention** is the standardized difference between acquisition and
+  retention performance on the same task, and the interval is taken as
+  "infrequent use", which most studies assume rather than measure.
+- **Linearity in months.** Two outliers (60 and 120 months) are dropped
+  from the regressions; non-linear fits "did not decrease monotonically"
+  for accuracy and did not improve fit for speed or mixed (p. 69, fn. 10).
+- **Separable measures.** Accuracy, speed and mixed are modelled apart,
+  although the author argues speed–accuracy trade-offs confound them.
+- **Independence.** Most effect sizes use the independent-samples formula,
+  which ignores the pre–post correlation; 1,281 effect sizes from 425
+  sources enter the meta-regression data set.
+
+## Key results
+
+- **The data (p. 64).** "Over one-quarter (137, 28%) of the retention
+  intervals were two days or shorter"; "Twenty-nine retention intervals
+  were longer than six months and 14 retention intervals were longer than
+  one year."
+- **Rate (p. 70).** For accuracy the effect size "generally increases in
+  magnitude by 0.08 per month of infrequent use"; −0.06 for speed and for
+  mixed. Residual heterogeneity is high (I² about 72–86%), and retention
+  interval explains 5–15% of it (R²).
+- **One SD (p. 70).** "mean skill levels decline by a full standard
+  deviation unit after 9 to 12 months of infrequent use for
+  accuracy-based skills"; 12–15 months for speed, 6–9 for mixed.
+- **Share of gains (p. 106).** "one can expect about half of initial
+  skill acquisition gains to be lost after between 6 and 9 months of
+  infrequent use" (accuracy); 12–15 months for speed and 9–12 for mixed.
+  All gains are lost at about 15, 27 and 30 months. The mixed measures
+  were mostly medical or dental tasks.
+- **Summary (p. ix).** The summary leads with total loss: performance
+  gains were lost "between one year and two and half years" after
+  acquisition.
+- **Practice in the interval (pp. 86–87).** "Performance opportunities
+  during the retention interval were a statistically significant
+  moderator of the relationship between retention interval and effect
+  size for accuracy-based performance measures" (β = 0.06, p < 0.01); not
+  significant for mixed, absent for speed.
+- **Positive effect sizes (p. 123).** "Surprisingly, 378 of the 1,352
+  retention effect sizes coded" showed improvement, which the author
+  reads as underestimation of decay.
+- **Moderators (p. 128).** "The results from moderator analyses were far
+  from definitive".
+- **Conclusions (pp. 141–142).** "Procedural skills decline as a linear
+  function of retention interval length." "Skill retention estimates may
+  be substantially confounded by relearning effects."
+
+## Concepts
+
+- **Procedural skill:** a learned action with a non-verbal motor output
+  (p. 3).
+- **Performance opportunity:** a binary code, set when a study mentions
+  access to practice during the interval, or for the second of two
+  retention tests given to the same people: "the first retention test was
+  an opportunity for performance during the retention interval for the
+  second effect size" (p. 40).
+- **Retention interval:** the time from the end of acquisition to the
+  retention test, in months.
+- **Relearning against retention:** only the first retention trial
+  measures retention; later trials measure relearning (p. 142). The
+  author says the phrase that skills come back like riding a bicycle
+  "more accurately captures the essence of relearning rather than
+  retention." (p. 124).
+
+## Connections
+
+It extends Arthur et al. (1998), whose meta-analysis it partly replicates
+in §5.1 (not read here).
+
+**Against the article it stands in for**, Tatel & Ackerman (2025),
+[LIT-tmpr53a0](../literature.d/LIT-tmpr53a0.md), known only from its abstract:
+
+- *Restates:* the slopes of 0.08 SD a month (accuracy) and 0.06 (speed and
+  mixed); the four moderators of the abstract (task type, task complexity,
+  performance opportunities, task instructions); the two confounds
+  (relearning, speed–accuracy trade-off); the 457 sources; the framing of
+  the result as guidance on when refresher training is due.
+- *Does not restate exactly:* the effect-size count (1,352 here, 1,344 in
+  the article); the half-loss times, which the article gives as points
+  (about 6.5, 13 and 11 months) and the dissertation as three-month ranges
+  from its Table 13 (6–9, 12–15 and 9–12); the headline, which here is
+  total loss of gains and in the article half-loss. These are consistent,
+  not identical.
+- *Cannot vouch for:* any re-analysis, change of moderators or wording
+  made in peer review.
+
+## Bearing on the record
+
+- **The pasted bibliography on emergency readiness** cites only the
+  article, for its counts ("synthesizes 1,344 effect sizes from 457
+  reports"), which are the article's and correct for it; the dissertation's
+  count is 1,352. For A's theme, maintaining capabilities that are rarely
+  exercised, this work supplies the premise that skills decay without use
+  at a quantified rate, and that occasional practice slows decay
+  (accuracy only, tentatively). It says nothing on measurement by
+  utilization or organizational incentives, which A's proposition is
+  about.
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability): qualifies.** Decay lowers
+  whether a trained resource can be deployed in time while it is
+  nominally present, the separation [TERM-055](../terms.d/TERM-055.md) draws; speed measures map
+  onto its deadline and accuracy onto success. But the term is about
+  retrieval under a cue in an agent–environment system, and this is
+  individual motor performance under test: an instance of the
+  separation, not of the full construct.
+- **[CLAIM-422](../claims.d/CLAIM-422.md) (corrective act, procedure, maintained capacity): supports.**
+  Training achieves acquisition; without use the capacity decays on a
+  measurable schedule.
+- **[CLAIM-414](../claims.d/CLAIM-414.md) (matched ordinary trajectories conceal maintenance
+  differences): supports, weakly.** Decay shows only under a retention
+  test.
+- **[CLAIM-463](../claims.d/CLAIM-463.md) (restoring conditions need not restore a capacity):
+  qualifies.** The relearning-savings background (p. 124) says individual
+  procedural skills are relearned faster than first learned, which cuts
+  against a cost asymmetry in this domain; [CLAIM-463](../claims.d/CLAIM-463.md)'s mechanism,
+  self-reinforcing maintenance activity, is not studied here.
+- **[THEORY-061](../theory.d/THEORY-061.md) (instructions set accumulation parameters): bears on** the
+  task-instruction moderator and the speed–accuracy confound; it fits the
+  author's reading that instruction effects may be shifts of the
+  speed–accuracy setting rather than skill loss.
+- **[LIT-1059](../literature.d/LIT-1059.md)** (Cognitive Offloading) lists skill decay as a cost of
+  offloading; compatible.
+- **Unrelated:** [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md); [CLAIM-517](../claims.d/CLAIM-517.md) at most by analogy;
+  [QUESTION-132](../questions.d/QUESTION-132.md), which A glosses wrongly (it concerns initially equivalent
+  adaptive operators differentiating into specialists).
+- Filed: [THEORY-tmpsm9h9](../theory.d/THEORY-tmpsm9h9.md). No instruction for machine-learning practice.
+
+## Limitations
+
+The author's (pp. 134–139):
+
+- the literature is still mostly short intervals, so long-interval
+  estimates are less robust;
+- missing statistics, some read off figures by hand;
+- non-independence, and paired-sample effect sizes rarely computable;
+- the relearning and speed–accuracy confounds;
+- mostly null task moderators, and no validated taxonomy of procedural
+  skills.
+
+The reader's:
+
+- the linear form was chosen partly because the non-linear fits were
+  non-monotone, and with 14 intervals beyond a year the long tail rests
+  on few data;
+- retention interval explains only 5–15% of the heterogeneity;
+- "infrequent use" is assumed, not measured, in most studies.
+
+## Open questions
+
+- Does the article's final analysis change the half-loss estimates or the
+  moderators? Reading [LIT-tmpr53a0](../literature.d/LIT-tmpr53a0.md) would tell.
+- Is decay linear beyond a year? It needs more studies with long
+  retention intervals and a single first retention trial.

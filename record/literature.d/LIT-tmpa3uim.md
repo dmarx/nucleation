@@ -1,0 +1,98 @@
+---
+status: Unavailable
+status_note: >-
+  no lawful full text reached on 2026-11-05. Looked: the Cohen group's
+  copy at
+  https://cohengroup.lassp.cornell.edu/userfiles/pubs/Silverberg_Science_2014.pdf
+  and at the same group's other host,
+  https://cohengroup.ccmr.cornell.edu/userfiles/pubs/Silverberg_Science_2014.pdf,
+  both failing TLS verification ("unable to get local issuer
+  certificate"; one further attempt returned HTTP 503), neither retried;
+  co-author Santangelo's blog post on the paper,
+  https://websites.umass.edu/csantang/2014/08/07/new-paper-origami-meta-materials,
+  HTTP 410 Gone; arXiv, with no version under the title, "Silverberg" with
+  "origami", or "Cohen" with "origami"; PubMed Central and Europe PMC, no
+  copy; OpenAlex, closed, no repository copy. The publisher's PDF is
+  subscription-only and was not tried. Evans, Silverberg & Santangelo
+  (2015), [LIT-tmpj33xl](LIT-tmpj33xl.md), by three of its seven authors, stands in partly:
+  it states that Miura-ori sheets admit reversible pop-through defects
+  whose strain stays local, but not A's two claims about this work, that
+  each cell is bistable and that defects are analogous to vacancies,
+  dislocations and grain boundaries, which stay unchecked.
+title: 'Using origami design principles to fold reprogrammable mechanical metamaterials'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered on 2026-11-05 from the owner's pasted synthesis on FACT,
+    rigidity, compliant mechanisms and origami (the pasted synthesis on
+    constraint architectures, written by another assistant, A, in the same
+    exchange as the emergency-readiness bibliography, pasted 2026-11-04),
+    which cites it as O9: Silverberg et al. 2014, Science,
+    doi:10.1126/science.1252876. Not read: no lawful copy was reached (see
+    the status note). Citation checked against Crossref, Europe PMC and
+    OpenAlex: Jesse L. Silverberg, Arthur A. Evans, Lauren McLeod, Ryan C.
+    Hayward, Thomas Hull, Christian D. Santangelo and Itai Cohen, Science
+    345(6197), 647–650, report; PMID 25104381 (PubMed prefixes the title
+    with the section heading "Applied origami."). `published:` is Europe
+    PMC's first publication date, 1 August 2014, the earliest exact date
+    the sources give; the Crossref record was created on 7 August 2014 and
+    the print issue is dated 8 August 2014. A's attribution is right.
+    Evans, Silverberg & Santangelo (2015), LIT-tmpj33xl, was registered and
+    read as a stand-in at the owner's request. Nothing about the content
+    of this work is taken from memory or from search snippets.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-05'
+published: '2014-08-01'
+doi: '10.1126/science.1252876'
+first_author: 'Silverberg'
+keywords:
+- 'origami'
+- 'Miura-ori'
+- 'mechanical metamaterials'
+- 'reprogrammable'
+- 'pop-through defects'
+implementations: []
+summary: >-
+  Silverberg, Evans, McLeod, Hayward, Hull, Santangelo & Cohen (2014),
+  Science. Not read. The pasted synthesis on constraint architectures
+  says it builds Miura-ori metamaterials from bistable cells, whose
+  defects are "analogous to vacancies, dislocations, and grain
+  boundaries"; unverified until read. The stand-in, [LIT-tmpj33xl](LIT-tmpj33xl.md), cites
+  it for reversible pop-through defects in Miura-ori and confirms neither
+  claim.
+---
+
+# LIT-tmpa3uim: Using origami design principles to fold reprogrammable mechanical metamaterials
+
+Silverberg, J. L., Evans, A. A., McLeod, L., Hayward, R. C., Hull, T., Santangelo, C. D. & Cohen, I. (2014). Using origami design principles to fold reprogrammable mechanical metamaterials. *Science* 345(6197): 647–650. doi:10.1126/science.1252876.
+
+## Key takeaways
+
+*Not read. Nothing below is verified from the text.*
+
+- The pasted synthesis on constraint architectures says it uses Miura-ori
+  bistable cells, with defects "analogous to vacancies, dislocations, and
+  grain boundaries". Unverified until read.
+
+## Standing in the record
+
+Registered unread, as Unavailable: no lawful full text was reached (the
+status note says where we looked). The neighbour standing in for it is
+Evans, Silverberg & Santangelo (2015), "Lattice Mechanics of Origami
+Tessellations", [LIT-tmpj33xl](LIT-tmpj33xl.md), by three of the seven authors, which cites
+this work as its ref. [7]. It stands in **partly**. It states that
+Miura-ori sheets admit reversible "pop-through defects", that the strain a
+defect induces is local and decays away from it, and that a real Miura-ori
+has more freedom than rigid-origami counting gives. It does not state that
+each Miura-ori unit cell is bistable, that switching cells reprograms the
+sheet's stiffness, or how defects interact, and it draws no analogy to
+vacancies, dislocations or grain boundaries. So A's two claims, that each
+cell is bistable and that the defects are analogous to vacancies,
+dislocations and grain boundaries, remain unchecked against the text.
+Silverberg et al. (2015), [LIT-tmptep4g](LIT-tmptep4g.md), cites this work as its ref. 5 and
+does not restate its results. The bibliography A gives is correct. A copy
+the owner supplies would return it to reading.

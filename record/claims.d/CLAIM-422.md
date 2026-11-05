@@ -74,7 +74,10 @@ complements:
 supports:
 - CLAIM-462
 ---
+<!-- inactive-ok-file: CLAIM-tmpvhj8j — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
+<!-- inactive-ok-file: LIT-tmpr53a0 — Unfetched; Tatel and Ackerman (2025), cited from the reading of 2026-11-04 as the article the dissertation precedes -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmpsm9h9 CLAIM-tmp4g8e1 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 
 # CLAIM-422: A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained
 
@@ -165,3 +168,19 @@ accessed but "does not collect information on the number of times lessons
 are applied to a program or project" ([LIT-1378](../literature.d/LIT-1378.md), p. 21): a recorded lesson
 is not shown to be an applied one. That supports the claim's first
 separation, not its account of Challenger.
+
+## Note of 2026-11-04: Tatel, "A Meta-Analytic Investigation of Procedural Skill Retention and Decay", read
+
+Tatel's dissertation ([LIT-tmplozja](../literature.d/LIT-tmplozja.md)), the precursor of Tatel and Ackerman (2025, [LIT-tmpr53a0](../literature.d/LIT-tmpr53a0.md)), supports the distinction between an acquired capacity and a maintained one at the level of individual skill. Across 457 sources, procedural skill gained in training declines without use by about 0.06 to 0.08 SD a month, so about half the gain is lost within six to fifteen months. Training and certification fix acquisition; maintenance is a separate, measurable process. It leaves open whether organizations behave the same way: the work measures individuals under test, not organizational capacity or how it is recorded. No status changes.
+
+## Note of 2026-11-04: Oskar et al., "Procedural Skills Decay in Emergency Medicine", read
+
+Oskar and colleagues' scoping review ([LIT-tmp07mjg](../literature.d/LIT-tmp07mjg.md)) supports the claim weakly and empirically. Emergency-medicine programmes run curricula and count procedures, yet, by a 2020 survey the review cites, "most programs lack a formalized method to assess and maintain attending physician procedural competency". The review gives no decay rates, and its evidence that maintenance goes unassessed is second-hand. It leaves open how far the gap between credential and maintained capacity matters clinically. No status changes.
+
+## Note of 2026-11-04: a maintained capacity among complements
+
+A's [CLAIM-tmpvhj8j](CLAIM-tmpvhj8j.md) (Proposed) adds that a maintained capacity is worth what its complements let it deliver: with the material resources absent, proficiency cannot produce success. The claim is unchanged.
+
+## Note of 2026-11-04: decay with disuse as one mechanism
+
+Tatel's meta-analysis ([THEORY-tmpsm9h9](../theory.d/THEORY-tmpsm9h9.md)) gives a measured mechanism for procedure held without maintained capacity. Procedural skill that goes unused falls by about 0.06 to 0.08 standard deviations a month, and practice in the interval slows the fall. The organizational extension is the proposed [CLAIM-tmp4g8e1](CLAIM-tmp4g8e1.md). No status changes.

@@ -32,6 +32,7 @@ summary: >-
   It is the zeroth cohomology of the connection sheaf, so standard, and
   it says nothing about which organizations have such transports.
 ---
+<!-- inactive-ok-file: NOTE-tmpt4jsa — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 # CLAIM-495: For an O(d)-valued connection on a connected graph, the assignments that meet every edge relation xᵢ = Tᵢⱼxⱼ form a space isomorphic to the vectors at one vertex fixed by every holonomy based there, which is the kernel of the connection Laplacian; for d = 1, and for U(1) phases, that space is all or nothing, but for d > 1 a connection whose loops are not trivial can still keep a subspace on which every loop is, so compatibility among local frames can be partial and graded by direction; and edge maps that do not commute can compose to a flat loop, so non-commutativity is not holonomy
 
@@ -83,3 +84,11 @@ commutators and [LIT-1820](../literature.d/LIT-1820.md)'s holonomy measure diffe
   is the setting of [THEORY-1090](../theory.d/THEORY-1090.md)'s Hansen and Ghrist. It is filed because
   the record's own result is the U(1) case, and [CASE-179](../cases.d/CASE-179.md)'s higher-
   dimensional stalks need the general one.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Two origami readings from the pasted synthesis on constraint architectures support the last clause. In Foschi, Hull and Ku ([NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md), skimmed), four rotations about distinct crease axes, which do not commute, compose to the identity at every rigidly folded state of a vertex. Akitaya et al. ([NOTE-tmpd0dln](../notes.d/NOTE-tmpd0dln.md)) qualify the synthesis's comparison: loop closure is stronger than the claim's partial compatibility only in asking every loop to be trivial; it constrains the transports themselves, the fold angles, not sections under given transports, and it is necessary, not sufficient, for folding. Neither instantiates the partial case the claim is filed for.
+
+Murray and Sastry ([NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md)) and Kane and Lubensky ([NOTE-tmpp5rni](../notes.d/NOTE-tmpp5rni.md)) are loose analogies only: a Lie bracket is the displacement a small closed loop of input leaves, a continuous anholonomy, and a topological index counts kernel minus cokernel, not global sections on a finite graph.
+
+No status changes.

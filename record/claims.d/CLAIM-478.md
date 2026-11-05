@@ -60,6 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-477 CLAIM-327 — Proposed; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: THEORY-1343 — Proposed; the large-system argument of a reading cited as open -->
 <!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
+<!-- inactive-ok-file: CASE-tmpez9ok — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-478: Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 
@@ -312,3 +313,13 @@ scale (p. 40). Its swing-timing example (p. 46), a phase relation that is not a
 slower variable, is a candidate for defeater (a) worth checking.
 
 The claim is unchanged.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Four readings from the pasted synthesis on constraint architectures bear on the claim. Silverberg et al. ([NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md)) support its form with an energetic rather than a temporal separation: the number of degrees of freedom is "a variable quantity that changes with the experimental energy scale", facet planarity acting as a constraint below the bending scale and as a freedom above it. The mapping onto time scales holds only where stiffer modes also relax faster, which the paper does not discuss. Li and Choi ([NOTE-tmp52g52](../notes.d/NOTE-tmp52g52.md)) treat planarity as an on-off constraint, the idealized end of that picture. In Deng et al. ([NOTE-tmp5sqfp](../notes.d/NOTE-tmp5sqfp.md)) particle orientations constrain a film's response below the polymer's melting point and are degrees of freedom above it. DeLuca et al.'s simulated DNA origami ([NOTE-tmp3af4j](../notes.d/NOTE-tmp3af4j.md)) "establishes local order before it establishes global order", loose support. None tests the claim's second direction, that organization makes new separations.
+
+Silverberg et al.'s separation by energy scale is the form [QUESTION-tmpt2p0s](../questions.d/QUESTION-tmpt2p0s.md) asks about; whether it reduces to a separation by time scale is open. No status changes.
+
+## Note of 2026-11-05: A's resource models and further distinctions
+
+[CASE-tmpez9ok](../cases.d/CASE-tmpez9ok.md), filed from the square-twist reading, illustrates the claim with a separation by energy rather than by time; the caveat in [NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md) stands. No status changes.

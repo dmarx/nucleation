@@ -1,0 +1,104 @@
+---
+status: Active
+status_note: >-
+  read in part 2026-11-05 ([NOTE-tmpa8w32](../notes.d/NOTE-tmpa8w32.md)) from arXiv v2, the 101-page full
+  version; worth reading as one of the two independent proofs of the
+  Feder–Vardi dichotomy: for a finite constraint language over a finite set,
+  CSP(Γ) is in P or NP-complete, the tractable side being exactly the
+  languages whose polymorphisms include a weak near-unanimity operation. Its
+  clear §2 is the best short statement of how polymorphisms govern the
+  complexity of a fixed-language CSP. Its main limits: finite domains only,
+  decision only, nothing on moving between solutions, and a proof of some
+  80 pages (Part II, not checked here) whose v2 patches a gap in Lemma 46.
+title: 'A dichotomy theorem for nonuniform CSPs'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read in part on 2026-11-05 from the owner's pasted
+    synthesis on resource-bounded realizability (written by another
+    assistant, A, in the same exchange as the emergency-readiness
+    bibliography, pasted 2026-11-04), whose Response 3 §4 cites the
+    "finite-domain CSP dichotomy theorem, proved independently by Andrei
+    Bulatov and Dmitriy Zhuk" to "ieee-focs.org+1", with no title or
+    year. The attribution is correct. Citation checked against Crossref and
+    the arXiv listing: Andrei A. Bulatov, sole author, 2017 IEEE 58th
+    Annual Symposium on Foundations of Computer Science (FOCS), pp.
+    319–330, doi:10.1109/FOCS.2017.37, proceedings article issued 2017-10
+    with no day; Crossref titles it "A Dichotomy Theorem for Nonuniform
+    CSPs". The title here is the arXiv one. arXiv:1703.03021, v1 submitted
+    2017-03-08, which is `published:`; v2 of 2017-04-06 adds a high-level
+    presentation, extends the preliminaries, reorganises the proofs and
+    patches a gap in the proof of Lemma 46. Not held before (the record
+    held nothing on CSP complexity). Copy: arXiv v2 PDF,
+    https://arxiv.org/pdf/1703.03021v2, 101 pp., extracted with pdftotext
+    -layout. Status set to Active.
+tags:
+- mathematics
+- operations-research
+date: '2026-11-05'
+published: '2017-03-08'
+arxiv: '1703.03021'
+doi: '10.1109/FOCS.2017.37'
+first_author: 'Bulatov'
+keywords:
+- 'constraint satisfaction problem'
+- 'dichotomy conjecture'
+- 'nonuniform CSP'
+- 'polymorphism'
+- 'weak near-unanimity'
+- 'universal algebra'
+- 'block-minimality'
+implementations: []
+summary: >-
+  Bulatov (2017). Proves the Feder–Vardi Dichotomy Conjecture: "For any
+  finite constraint language Γ over a finite set the problem CSP(Γ) is either
+  solvable in polynomial time or is NP-complete." Hardness was known; the
+  contribution is a polynomial-time algorithm for every finite idempotent
+  algebra with a weak near-unanimity term operation (equivalently, every
+  algebra in HS(A) has a nontrivial term operation), and the algorithm is
+  uniform in the algebra. It combines (2,3)-minimality with a new non-local
+  condition, block-minimality, reached by decomposing instances along
+  congruences, and with the few-subpowers algorithm, using separation of
+  prime congruence intervals and a quasi-centralizer.
+---
+<!-- inactive-ok-file: NOTE-tmpa8w32 THEORY-tmp99dad — Skimmed or Proposed, and new; cited from the reading of Bulatov (2017) as open -->
+
+# LIT-tmpxq623: A dichotomy theorem for nonuniform CSPs
+
+Bulatov, A. A. (2017). A dichotomy theorem for nonuniform CSPs. *2017 IEEE 58th Annual Symposium on Foundations of Computer Science (FOCS)*, 319–330. doi:10.1109/FOCS.2017.37. arXiv:1703.03021.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpa8w32](../notes.d/NOTE-tmpa8w32.md). Page numbers are those of arXiv v2.*
+
+- **The dichotomy.** "For any finite constraint language Γ over a finite
+  set the problem CSP(Γ) is either solvable in polynomial time or is
+  NP-complete." (Theorem 1, p. 4).
+- **What is new is the algorithm.** "the main achievement of this paper is
+  a polynomial time algorithm for problems satisfying the tractability
+  condition" (p. 4); hardness is from Bulatov, Jeavons and Krokhin.
+- **The algebraic condition.** For a finite idempotent algebra A, CSP(A) is
+  in P iff "A has a weak near-unanimity term operation", and NP-complete
+  otherwise (Theorem 4, p. 8).
+- **Why polymorphisms are the invariant.** If every polymorphism of ∆ is a
+  polymorphism of Γ, "then CSP(Γ) is polynomial time reducible to CSP(∆)"
+  (Theorem 3, p. 6, from Jeavons et al.).
+- **Uniformity.** Tractability for every language in CSP(A) and a single
+  algorithm for all of them coincide: "these two types of tractability are
+  equivalent" (p. 7).
+
+## Standing in the record
+
+The pasted synthesis on resource-bounded realizability cites it, with
+Zhuk's proof ([LIT-tmp13cly](LIT-tmp13cly.md)), as the precedent for "classifying computational
+systems through their constraint-preserving algebra". The paper bears that
+out only for decision problems: the theorem classifies the problems CSP(Γ)
+over a fixed finite language on a finite domain, and polymorphisms are
+operations applied coordinatewise to the tuples of the relations, not
+operations a system performs. It says nothing about solution-space
+connectivity or about reaching one solution from another. A's Pol–Inv
+Galois connection is the standard one and follows from the paper's
+definitions, but the paper does not state it as a Galois connection. Filed
+from it: [THEORY-tmp99dad](../theory.d/THEORY-tmp99dad.md).

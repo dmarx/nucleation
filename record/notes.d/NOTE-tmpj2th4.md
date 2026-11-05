@@ -1,0 +1,136 @@
+---
+status: Read
+paper: 'LIT-tmpry5n6'
+title: 'Abel et al. — When a single origami vertex folds rigidly from flat'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the arXiv PDF
+    (https://arxiv.org/pdf/1507.01644, v1), text extracted by pdftotext.
+    Read: the abstract and Sections 1–5, with the proofs followed. Not
+    read: the reference list beyond the entries cited here. Registered as
+    a stand-in for the unread "Rigid Foldings" chapter of Hull's
+    Origametry, at the owner's request. Quotes below were checked against
+    the extracted text.
+date: '2026-11-05'
+summary: >-
+  An intrinsic necessary and sufficient condition for a single-vertex
+  crease pattern to fold rigidly from flat: with a mountain–valley
+  assignment, exactly when it contains a bird's foot; unassigned, exactly
+  when it has at least four creases, every sector angle below π, and is not
+  an unspecified cross. Proved by closed spherical linkages, closure under
+  adding creases, a direct construction for degrees 4 and 5, and a
+  distance argument on the sphere for the converse. Applied to minimal
+  forcing sets. Single vertex only.
+---
+<!-- inactive-ok-file: LIT-tmp8rseg THEORY-tmpgwhew — Unavailable, Proposed or new; the chapter this stands in for, and the account filed from it -->
+
+# NOTE-tmpj2th4: Abel et al. — When a single origami vertex folds rigidly from flat
+
+## Contribution
+
+Earlier characterizations of rigid foldability at a vertex were extrinsic,
+using "the existence of a set of fold angles satisfying compatibility
+conditions" (§1), belcastro and Hull's closure condition among them. This
+paper gives an intrinsic one, read off the crease directions and the
+mountain–valley assignment, and uses it to bound minimal forcing sets.
+
+## Key insight
+
+A vertex folds rigidly from flat as soon as it contains a small
+configuration that can fold, because adding creases never destroys
+foldability. The small configuration is a bird's foot: three creases of
+one parity spanning angles below π, or a cross of one parity, plus one
+crease of the other parity.
+
+## Assumptions
+
+- **Rigid origami** (§2): an injective continuous map, isometric on each
+  face, so fold angles stay strictly between −π and π and the paper never
+  passes through itself.
+- **A single vertex**, folded "by some small amount" from flat.
+
+## Key results
+
+- **The aim** (abstract): "We develop an intrinsic necessary and
+  sufficient condition" for single-vertex rigid folding.
+- **Theorem 1**: "A single-vertex crease pattern (C, µ) can be
+  continuously parameterized in a family of rigid origami folds if and only
+  if (C, µ) contains a bird’s foot."
+- **Lemma 2**: "Single-vertex continuously parameterized rigid foldability
+  is closed under adding creases."
+- **Theorem 2**: "A single-vertex crease pattern C is rigidly foldable if
+  and only if C has at least four creases, all sector angles of C are
+  strictly less than π, and C is not an unspecified cross."
+- **Popping** (Corollary 1 and after): "If a single-vertex crease pattern
+  has a M tripod or cross then it can be folded to pop up." With both a
+  mountain and a valley tripod or cross, "it can be made to snap from a
+  pops up folded state to a pops down one".
+- **Connectedness, cited** (§2): "the configuration space of single-vertex
+  rigid origami motions has been proven to be connected", by Streinu and
+  Whiteley, in a setting where the paper may pass through itself.
+- **Forcing sets** (Theorem 3): n − 3 ≤ |f(C_n)| ≤ n for n ≥ 6,
+  2 ≤ |f(C_5)| ≤ 4 and 1 ≤ |f(C_4)| ≤ 2.
+- **Open** (§5): "Finding a similar rigid-foldability result for
+  multi-vertex crease patterns is an open problem." One "would also need
+  to make the folding angles be consistent from one vertex to adjacent
+  vertices".
+
+## Concepts
+
+- **Tripod**: three creases of the same parity whose consecutive
+  counterclockwise angles are all in (0, π).
+- **Cross**: four creases of the same parity forming two straight lines;
+  an unspecified cross is one without an assignment.
+- **Bird's foot**: a tripod or cross together with one crease of the
+  opposite parity.
+- **Forcing set**: a set of creases whose mountain–valley assignment
+  determines the rest.
+- **Pops up / pops down**: every crease folds to the lower or the upper
+  half-sphere.
+
+## Connections
+
+- **The original it stands in for.** Of the "Rigid Foldings" chapter of
+  Hull's Origametry ([LIT-tmp8rseg](../literature.d/LIT-tmp8rseg.md)), it restates the "intrinsic condition
+  for an origami vertex crease pattern to be rigidly foldable from the
+  unfolded state" that the publisher's summary names. It does not restate
+  the chapter's main theorem as summarized, that a vertex folds rigidly
+  from flat exactly when it has a nontrivial zero-area reciprocal diagram,
+  nor reciprocal diagrams at all, infinitesimal or second-order
+  conditions, or the degree-4 fold-angle equations. Whether the chapter
+  proves the intrinsic condition the same way is unknown.
+- **Neighbours.** Foschi, Hull and Ku (2022), [LIT-tmpegvxm](../literature.d/LIT-tmpegvxm.md), give the
+  degree-4 equations; Hull and Tachi (2018), [LIT-tmp6aj47](../literature.d/LIT-tmp6aj47.md), use this
+  paper's bird's foot in proving self-foldability of tessellations. The
+  popping states are the two-branch choice that Chen and Santangelo
+  ([LIT-tmp0ouv4](../literature.d/LIT-tmp0ouv4.md)) and Berry et al. ([LIT-tmp24k66](../literature.d/LIT-tmp24k66.md)) analyze to second order.
+
+## Bearing on the record
+
+- **The pasted synthesis.** A does not cite this paper. It supplies what
+  A's "chooses the intended branch" needs at one vertex. A's Part 5
+  "organizational nucleus", a least intervention that secures success, is
+  close in shape to a minimal forcing set; that analogy is the reader's,
+  and the paper makes no such claim.
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (frustration as an ordinal fact; the compatibility
+  complex).** Related, weakly. Lemma 2 is monotonicity in admissible
+  freedoms: a crease is a new hinge, not a new demand, so it is the
+  counterpart of the claim's "relief is strict enlargement" only by
+  analogy. The §5 remark that vertex conditions do not simply combine is a
+  local-to-global gap of the kind the complex encodes. Not a dated note:
+  the reading neither supports nor qualifies the claim as stated.
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-365](../claims.d/CLAIM-365.md)**: unrelated.
+- Filed: [THEORY-tmpgwhew](../theory.d/THEORY-tmpgwhew.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **A single vertex**; the multi-vertex case is open.
+- **Folding a little** from flat; nothing on large folds.
+- **Self-intersection excluded** by definition, so the cited connectedness
+  result belongs to a different setting.
+- **The journal version** (JoCG 2016) was not compared, and its DOI is
+  unverified.

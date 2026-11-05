@@ -69,6 +69,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1056 — Proposed, Open or Rejected; cited in the note on the U15–U23 readings, as open -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-476 CLAIM-184 — Proposed; the claims this sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1643 LIT-1662 LIT-1060 — Deferred or Unavailable; registered from the exchange, unread, cited for what they are standardly cited for -->
+<!-- inactive-ok-file: TERM-tmpckwjg — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-475: Specifying is itself a resource-bounded realization: formulating a question takes time, concepts and computation as realizing a configuration takes energy and matter, so the questions an agent can ask are a product of what it has already realized; a stabilized specification is past inquiry stored so that later questions become cheaper to ask, and it can make other questions harder
 
@@ -234,3 +235,7 @@ pays over N uses when N(c₀ − c₁) > K + M(N). A20 also noted that
 development "changes the shape of the capability frontier; it doesn't
 necessarily move the entire frontier outward", which is [CLAIM-455](CLAIM-455.md). No
 status, title or warrant changes.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The second paste of the pasted synthesis on resource-bounded realizability proposes 𝒬_b(s), the questions an agent in state s can formulate within budget b, as "a proposed extension, not a definition already present in the record". It is this claim's askable set ([TERM-092](../terms.d/TERM-092.md)), which A17 §2 defined for an agent with concepts, budget and deadline; A's state s adds representations, memory and procedures, which [TERM-092](../terms.d/TERM-092.md)'s concepts, records and tools already cover. A's next points are this claim's consequences restated: answering one question may change the cost of formulating later ones, which "makes inquiry an architecture-changing computational process". What A adds bears on universality ([TERM-tmpckwjg](../terms.d/TERM-tmpckwjg.md)): a classification should count the cost of generating the problem representation, or it risks "classifying the power of an idealized solver". No status changes.

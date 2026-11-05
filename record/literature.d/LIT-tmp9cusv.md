@@ -1,0 +1,125 @@
+---
+status: Active
+status_note: >-
+  read in part 2026-11-05 ([NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md), Skimmed) from the DSpace@MIT
+  scan and the born-digital copy on the author's UCLA lab site; worth
+  reading as the extension of FACT to serial flexures and to actuation:
+  a chart of 50 freedom/constraint space types once constraints of any
+  pitch are allowed, a "parallel pyramid" bounding what parallel flexures
+  can realise (three pure translations need modules stacked in series),
+  underconstraint as freedoms left in intermediate bodies, and an
+  actuation space, set by the flexures' stiffness and not by the freedom
+  space alone, along which linear actuators must act to drive the
+  permitted motions without parasitic error. Its main limits: small
+  motions and quasi-static actuation, parallel systems only for
+  actuation, a single bench experiment whose errors were much larger than
+  predicted, and a 50-type completeness resting on an appendix and the
+  master's thesis. Not peer reviewed.
+title: 'Design of Flexure-based Motion Stages for Mechatronic Systems via Freedom, Actuation and Constraint Topologies (FACT)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    FACT, rigidity, compliant mechanisms and origami (the pasted synthesis
+    on constraint architectures, written by another assistant, A, in the
+    same exchange as the emergency-readiness bibliography, pasted
+    2026-11-04), which cites it, without a title, as Hopkins's 2010 MIT
+    doctoral thesis that "expands the framework to Freedom, Actuation and
+    Constraint Topologies, retaining the acronym FACT". The title is taken
+    from the title page and the DSpace@MIT record,
+    http://hdl.handle.net/1721.1/62511. No DOI, so no Crossref or OpenAlex
+    record was used: Jonathan Brigham Hopkins, Ph.D. thesis, Department of
+    Mechanical Engineering, Massachusetts Institute of Technology,
+    September 2010, supervisor Martin L. Culpepper, 195 pp. A's
+    attribution is right as far as it goes. `published:` is 2010-08-24,
+    the date of the author's signature on the title page, the earliest
+    exact date the document carries (the degree is dated September 2010).
+    Copies: the DSpace bitstream 712602238-MIT.pdf (a scan with OCR),
+    https://dspace.mit.edu/server/api/core/bitstreams/ed0a35c0-9348-42cf-b1db-d266b4317f6e/content,
+    and the author's born-digital copy, with the same text and pages, on
+    his UCLA lab site,
+    https://flexible.seas.ucla.edu/_files/ugd/53ca7c_d0dc5c40375e40fa9b88b93e6655d486.pdf,
+    linked from https://flexible.seas.ucla.edu/publications; both
+    extracted with pdftotext -layout.
+tags:
+- natural-sciences
+- control-theory
+- mathematics
+date: '2026-11-05'
+published: '2010-08-24'
+url: 'https://hdl.handle.net/1721.1/62511'
+first_author: 'Hopkins'
+extends:
+- LIT-tmp5bp7f
+keywords:
+- 'flexure systems'
+- 'motion stages'
+- 'Freedom, Actuation and Constraint Topologies'
+- 'FACT'
+- 'screw theory'
+- 'serial flexure systems'
+- 'underconstraint'
+- 'actuation space'
+- 'twist-wrench stiffness matrix'
+- 'parasitic error'
+implementations: []
+summary: >-
+  Hopkins (2010), MIT Ph.D. thesis, supervised by Culpepper. Extends FACT
+  in two directions. Allowing twists and wrenches of every pitch gives 50
+  freedom/constraint space types; only those inside a "parallel pyramid"
+  can be built from parallel flexures, and the rest, such as three pure
+  translations, need parallel modules stacked in series, whose
+  intermediate freedom spaces add up and, when they exceed the system's
+  freedoms, leave it underconstrained, with poor dynamics. A
+  twist–wrench stiffness matrix maps a motion to the wrench that produces
+  it; the resulting actuation space, of which there are 26 types, says
+  where a minimal set of linear actuators must act to drive the freedoms
+  without parasitic error. One bench stage found the least error with
+  the actuator about 17.5 cm below the probe tip, against 20 cm
+  predicted.
+---
+<!-- inactive-ok-file: NOTE-tmpnscd2 THEORY-tmpeo94c LIT-tmpf26t2 LIT-tmpvev12 — Skimmed, Proposed, Unfetched or new; cited from the reading of Hopkins (2010) as open -->
+
+# LIT-tmp9cusv: Design of Flexure-based Motion Stages for Mechatronic Systems via Freedom, Actuation and Constraint Topologies (FACT)
+
+Hopkins, J. B. (2010). *Design of Flexure-based Motion Stages for Mechatronic Systems via Freedom, Actuation and Constraint Topologies (FACT)*. Ph.D. thesis, Department of Mechanical Engineering, Massachusetts Institute of Technology. Supervisor: Martin L. Culpepper. https://hdl.handle.net/1721.1/62511
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md). Page numbers are the thesis's.*
+
+- **Fifty types.** "There are only 50 freedom and constraint space pairs
+  called types." (§2.1, p. 29).
+- **A realizability boundary.** "Parallel flexure systems may only possess
+  freedom spaces that lie within the parallel pyramid." (§2.1, p. 30). Three
+  pure translations are "only possible for a serial flexure system"
+  (§1.1.1, p. 18).
+- **Same freedoms, different machines.** "Although kinematically equivalent
+  flexure elements may be substituted without changing a system's DOFs, the
+  system's elastomechanics, dynamics, and manufacturability may be altered
+  to satisfy desired design requirements." (§2.2.4, p. 36).
+- **Underconstraint costs dynamics.** "Unfortunately, underconstrained
+  flexure systems generally have poor dynamic characteristics." (§2.2.2,
+  p. 34).
+- **Where to drive is not fixed by what can move.** The actuation space is
+  computed from a stiffness matrix holding "the orientation, location,
+  geometry and material properties of each flexible constraint" (§4.2.1);
+  a system whose actuation space is not among the 26 "cannot be actuated
+  with linear actuators alone" (§4.3.2, p. 122).
+
+## Standing in the record
+
+The pasted synthesis on constraint architectures cites it only as the
+thesis that added actuation to FACT. The reading supplies what that
+expansion is: serial synthesis with a 50-type chart, underconstraint, and
+actuation spaces set by stiffness. It is the strongest of the FACT
+readings for A's point that freedom, constraint and actuation are
+different things, in the mechanical case: kinematically equivalent
+designs differ in stiffness, dynamics and where they must be driven. It
+also shows where new freedom comes from in FACT: stacking bodies in
+series, not adding constraints. It restates the principles of Hopkins &
+Culpepper (2010), [LIT-tmpf26t2](LIT-tmpf26t2.md), compactly (§1.2), and its §2.3 gives a
+FACT design process like the one the unfetched Handbook chapter,
+[LIT-tmpvev12](LIT-tmpvev12.md), names in its title. Filed from it: [THEORY-tmpeo94c](../theory.d/THEORY-tmpeo94c.md).

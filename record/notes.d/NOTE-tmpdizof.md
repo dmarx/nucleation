@@ -1,0 +1,179 @@
+---
+status: Skimmed
+paper: 'LIT-tmpjapuv'
+title: 'Raussen — Connectivity of spaces of directed paths in concurrent computation'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in part on 2026-11-05 from arXiv v3 (2022-09-06),
+    https://arxiv.org/pdf/2106.11703v3, extracted with pdftotext; the
+    publisher's version was not consulted. Read as the neighbour standing
+    in for Fajstrup, Goubault & Raussen 2006 (LIT-tmph2u8y). Read closely:
+    §1 (PV programs and their geometric semantics, overview); §§2.1–2.2.1
+    (resource consumption, the forbidden region, the Swiss flag example);
+    §3.1 and §3.4 (future links; spare capacity, Definition 3.9,
+    Proposition 3.12); §§4.1–4.2 (Definition 4.1, Theorem 4.3 with proof,
+    Corollary 4.4, Remark 4.5, Proposition 4.6); §§5.3–5.4 (deadlocks,
+    doomed regions, disconnected futures). Skimmed or not read: §2.2.2 on
+    (several resources), the details of §§3.2–3.3, §4.3 (crashes; the
+    statement of Proposition 4.12 only), §4.4 (branches and loops),
+    §§5.1–5.2 (algorithms). Quotes checked by string match against the
+    extracted text. Section and result numbers are arXiv v3's.
+date: '2026-11-05'
+summary: >-
+  In the PV model of concurrency, shared resources of fixed capacity cut a
+  forbidden region from the product of the processors' time intervals;
+  executions are directed paths avoiding it, and d-homotopic executions
+  give the same result. A spare capacity computed from the program text
+  bounds the connectivity of every space of executions from below: zero at
+  exactly the deadlocks, at least one excludes them, at least two makes all
+  executions equivalent. Read: §1, §§2.1–2.2.1, §3.1, §3.4, §§4.1–4.2,
+  §§5.3–5.4.
+---
+<!-- inactive-ok-file: LIT-tmph2u8y THEORY-tmpykyk4 CLAIM-tmpal9mc CLAIM-tmpbi4ca CLAIM-tmpuk8gq CLAIM-tmpr4sof THEORY-tmpop5d8 NOTE-tmpegumv — Unfetched, Proposed, Skimmed or new; cited from the reading of Raussen (2023) as open -->
+
+# NOTE-tmpdizof: Raussen — Connectivity of spaces of directed paths in concurrent computation
+
+## Contribution
+
+A capacity-based invariant, the spare capacity, computed from the
+program's syntax and the resources' capacities alone, that bounds from
+below the connectivity of the spaces of executions of a PV program, tight
+in some cases (Proposition 4.6). With it, characterizations of deadlocks
+and of critical vertices in terms of resources and capacities.
+
+## Key insight
+
+"If there are no local obstructions to (higher) connectivities of paths
+spaces, then there are no global ones, either" (§4.2). Whether executions
+from a state can all reach the target, and whether they are all
+equivalent, is read off from how many processors can still proceed
+together at each vertex.
+
+## Assumptions
+
+- **Linear programs** per processor; general programs reduced by unfolding
+  (§4.4). The PV discipline of locks and releases at integer positions.
+- **Fixed capacities**, natural numbers, and a fixed target vertex.
+- **Order only.** Only the order of lock and release events matters; no
+  durations, energies or costs beyond feasibility.
+
+## Key results
+
+- **The model** (§1.1). "Any resource r ∈ R has capacity to serve up to
+  κ(r) ∈ N of these processors at any given time." "Every execution of a
+  linear program for a given processor corresponds to a directed map",
+  where "directed means continuous and (not necessarily strictly)
+  increasing", and directed paths "are not allowed to enter the forbidden
+  region F".
+- **Why connectivity matters** (§1.1). "That the path space is connected
+  means that any two directed paths are d-homotopic", so equivalent
+  executions give the same result. In general path spaces "can be
+  arbitrarily complicated" (Ziemiański's result, as reported).
+- **A deadlock in a connected space** (Example 2.4, Figure 1): "The red
+  vertex represents a deadlock: no non-trivial directed path in the state
+  space starts from that vertex."
+- **Spare capacity** (§1.2.2; Def. 3.9; Proposition 3.12(3)). "Roughly
+  speaking, the spare capacity at a vertex v expresses the number of
+  processors that can proceed from v concurrently"; v is a deadlock vertex
+  "if and only if κ(X; v) = 0."
+- **The theorem** (Theorem 4.3): every space of directed paths from a
+  vertex to the target is (κ(X) − 2)-connected, proved through Björner's
+  nerve lemma. Corollary 4.4: "If κ(X) ≥ 1, then P~ (X)tv0 is non-empty.
+  If κ(X) ≥ 2, then P~ (X)tv0 is path-connected."
+- **Doomed regions** (Remark 4.2): "the set of all elements that cannot be
+  connected to t by a directed path", removable by adding an artificial
+  resource.
+- **No computation without disagreement** (§1.2.1): when κ(X) ≥ 2 all
+  executions agree, so "Such a program can thus not be used to solve a
+  decision problem".
+
+## Concepts
+
+- **PV program**; **forbidden region** F; **state space** X, a Euclidean
+  cubical complex.
+- **Directed path** (d-path); **path space** with the compact-open
+  topology; **d-homotopy**.
+- **Future link** lk+(X, v) (§3.1); **spare capacity** κ(X; v) (Def. 3.9)
+  and κ(X) (Def. 4.1).
+- **Deadlock**; **doomed region**; **critical vertex** (spare capacity 1,
+  where the space of futures splits).
+
+## Connections
+
+It stands in for Fajstrup, Goubault & Raussen 2006 ([LIT-tmph2u8y](../literature.d/LIT-tmph2u8y.md)), which
+could not be fetched, and cites the 2016 book Directed Algebraic Topology
+and Concurrency (ch. 3) for the model. **What of the original it
+restates:** the geometric semantics of semaphore programs, executions as
+directed paths that do not reverse time, d-homotopy as the equivalence of
+executions, and deadlocks and unreachable (doomed) regions, all of which
+the 2006 abstract lists. **What it does not restate:** the 2006 paper's
+general theory of partially ordered spaces, its examples separating
+directed from ordinary homotopy, cubical sets, serializability and
+essential schedules, and its proof that a two-phase locking protocol is
+safe. It is a later, narrower paper on one question.
+
+## Bearing on the record
+
+- **A's characterization** (Response 3, §5). A: "There is an established
+  literature connecting directed homotopy theory with concurrent
+  computation, where paths through state spaces represent executions and
+  their direction represents irreversibility or the ordering of events."
+  A's sentence. Right for executions and ordering: directed paths are
+  componentwise non-decreasing. "irreversibility" is A's gloss; here the
+  direction is the progress of each process's program, not dissipation.
+- **Connectivity is not reachability.** A: "Ordinary topological
+  connectivity is symmetric; computational reachability need not be."
+  Supported, precisely: a deadlock vertex lies in a connected state space
+  with no directed path out of it, and a doomed region is connected to the
+  target topologically but by no directed path. The paper goes further:
+  directed topology records which traversals are possible and which are
+  equivalent, and here both are computable from local data.
+- **One structure, not two levels.** A separates "Directed paths and
+  reachability" from "Resource-graded process composition". In the PV
+  model they are one structure: the capacities of shared resources define
+  the forbidden region, and simultaneous use adds the processors' demands,
+  which is A's "running two processes simultaneously may require adding
+  their peak demands". Capacities are hard constraints, peak per resource,
+  so this is the feasible-or-not case of A's peak-capacity law. A's
+  separation is a choice of presentation, not forced by the mathematics.
+  The reader's reading, from the model as stated.
+- **[CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md)** (four failure modes, the second "no path exists in the
+  fixed configuration space"): qualifies. A deadlock or doomed region is a
+  failure of directed reachability inside a connected space. If the
+  claim's "no path" means undirected connectivity, the PV deadlock is a
+  mode it misses; if it means directed paths, the deadlock is covered. The
+  claim should say which.
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md) and [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)** (thresholds and frontiers for
+  capacity budgets, over undirected paths in a sublevel set): qualifies.
+  In a directed state space the threshold from A to B can differ from that
+  from B to A, as Lawvere's non-symmetric homs allow ([NOTE-tmpegumv](NOTE-tmpegumv.md)).
+  Raising a capacity κ(r) shrinks the forbidden region and can remove a
+  deadlock: a directed form of a budget making a transition reachable.
+- **[CLAIM-tmpr4sof](../claims.d/CLAIM-tmpr4sof.md)** (an added hard constraint cannot enlarge the
+  admissible set): supports in this setting. An artificial resource added
+  to cut out doomed regions only removes states, and path spaces to targets
+  outside the doomed regions are unchanged.
+- **[THEORY-tmpop5d8](../theory.d/THEORY-tmpop5d8.md)** (Kresling barrels as a Preisach memory, some exits
+  one-way): supports A's directed-reachability point from another side;
+  the mechanism, hysteresis, is different.
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (jointly satisfiable demands as a downward-closed complex):
+  related; the forbidden region is where a capacity constraint is violated,
+  a geometric counterpart of a non-face. Different purpose.
+- **[LIT-tmp08uqt](../literature.d/LIT-tmp08uqt.md)** (nonholonomic motion planning): related to
+  [CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md)'s third mode, a path that the inputs cannot execute
+  directly; not to this model.
+- Filed: [THEORY-tmpykyk4](../theory.d/THEORY-tmpykyk4.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The author's.** Linear programs only, loops by unfolding; the PV
+  discipline only; the bounds are lower bounds, tight only under
+  Proposition 4.6's hypothesis; algorithms sketched.
+- **As a stand-in.** Narrower than the 2006 paper, and not a survey of
+  directed homotopy.
+- **This reading.** Several resources (§2.2.2 on), crashes (§4.3),
+  branches and loops (§4.4) and the algorithms (§§5.1–5.2) not read.

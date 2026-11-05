@@ -1,0 +1,198 @@
+---
+status: Read
+paper: 'LIT-tmpx12go'
+title: 'Rocks and Mehta — Local energetics in Maxwell–Calladine constraint counting'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the arXiv v2 PDF (7 March 2024),
+    https://arxiv.org/pdf/2208.07419, extracted with pdftotext; no
+    paywall. Read in full: the main text, Secs. I–VII, with Figs. 1–6 and
+    Table I. Skipped: Appendices A–D (the derivation of the
+    susceptibilities, the proofs of Theorems 1–2, the IRREP analysis, the
+    group definitions and IRREP matrices), except the opening of Appendix
+    A for its assumptions. The published version may differ in detail.
+    Quotes checked by string match against the extracted text.
+date: '2026-11-05'
+summary: >-
+  Restating Maxwell–Calladine counting in four elastic susceptibilities
+  gives an index theorem, N_dof − N_c = #LZEFs − #ZDTs, that holds with
+  prestress and heterogeneous stiffness. Zero-displacement tensions are the
+  states of self-stress; the forces that excite the linear zero modes
+  correspond to them one-to-one but follow the symmetry of geometry and
+  energy together, so symmetry-breaking prestress redirects and localizes
+  them without changing the zero modes. Linear only.
+---
+<!-- inactive-ok-file: NOTE-tmphcgif THEORY-tmpo2kzn — Skimmed, or Proposed, and new; cited from the reading of Rocks and Mehta (2024) as open -->
+
+# NOTE-tmp26zlk: Rocks and Mehta — Local energetics in Maxwell–Calladine constraint counting
+
+## Contribution
+
+An index theorem for central-force networks stated in response quantities
+rather than in the compatibility matrix alone, so that it holds with
+heterogeneous stiffness and nonzero prestress. With it, a theorem
+identifying which tensions and forces correspond to the classical states
+of self-stress and zero modes, and a symmetry criterion (Corollary 2) for
+when the force that excites a mechanism is the mechanism itself, offered
+as a design handle for metamaterials.
+
+## Key insight
+
+Geometry fixes which motions are free; energy fixes which pushes produce
+them. The number of linear zero modes is a property of the compatibility
+matrix, but the force that couples to each one depends on stiffness and
+prestress, and it matches the mode only when geometry and energy share
+the relevant symmetry.
+
+## Assumptions
+
+- **Zero temperature, linear response** about a ground state: "We also
+  assume we are dealing with a stable ground state" (App. A). The Hessian
+  is positive semidefinite.
+- **A regularizer** λ‖u‖²/2 is added and λ → 0.
+- **Soft constraints only**: each component contributes an energy V_α(ℓ_α).
+  Hard constraints are future work: "It would be interesting to extend our
+  formalism to explicitly include such hard constraints" (Sec. VII).
+- **The symmetry results** need unitary representations of finite groups,
+  with the response symmetry equal to G ∩ H.
+
+## Key results
+
+- **The classical theorem** (Sec. II E, eq. 15): N_dof − N_c = #LZMs −
+  #SSSs, LZMs = ker C, SSSs = ker Cᵀ. With the rigid-body caveat: "one
+  concludes a system is rigid to first order when the number of LZMs is
+  zero (excluding global translations and rotations, if applicable)". The
+  Fig. 1 network has four LZMs, three of them rigid-body.
+- **What it misses** (Sec. I): such counts "cannot account for the
+  stabilizing effects of prestress, which interacts with nonlinear aspects
+  of the geometry to affect the material response even in the linear
+  regime".
+- **Prestress as frustration** (Sec. II B): prestress "describes any
+  frustration arising due to incompatibility between a bond’s rest length
+  and its equilibrium length"; in Fig. 1, "This creates frustration that
+  cannot be relaxed away by moving the nodes."
+- **The generalized theorem** (Sec. IV): N_dof − N_c = #LZEFs − #ZDTs, by
+  rank–nullity on the off-diagonal susceptibilities ∂ℓ/∂f and ∂u/∂t.
+  "Importantly, our generalized index theorem holds even in the presence
+  of nonzero prestress or heterogeneous bond stiffnesses."
+- **Theorem 1** (Sec. V B): "The ZDTs and SSSs are equivalent." LZEFs are
+  in bijection with LZMs through ∂u/∂f, but "We emphasize that in general,
+  the LZEFs and LZMs span different subspaces". Corollary 1: an LZEF is
+  parallel to its LZM if and only if both are Hessian eigenmodes.
+- **Theorem 2** (Sec. VI A): LZMs carry the geometry's symmetry group G,
+  LZEFs the response symmetry G ∩ H. "In short, LZMs are governed by
+  geometric symmetry, while LZEFs are governed by the overall symmetry of
+  the elastic response".
+- **The examples** (Sec. VI C, Fig. 3b): in a diamond network and a 4×4
+  periodic square lattice, prestress that breaks a geometric symmetry
+  leaves the LZMs as they were, but "the LZEF that couples to this LZM no
+  longer points in the same direction, but instead localizes to the line
+  of prestressed bonds". Restoring the symmetry restores the match.
+- **The authors' limit** (Sec. VII): the counts "still do not fully
+  capture the effects of prestress-induced rigidity", and "This makes a
+  strong case that a general theory of prestress stability should require
+  an analysis of the nonlinear regime."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | N_dof − N_c = #LZEFs − #ZDTs holds with prestress and heterogeneous stiffness | strong: rank–nullity | Sec. IV; proof in App. B, not read |
+| C2 | ZDTs are exactly the SSSs; LZEFs biject with LZMs but span a different subspace in general | strong: theorem | Theorem 1; proof not read |
+| C3 | LZMs follow G, LZEFs follow G ∩ H; same symmetry is necessary but not sufficient for a match | strong: theorem | Theorem 2, Corollary 2; IRREP analysis not read |
+| C4 | Symmetry-breaking prestress redirects and localizes the exciting force without changing the LZMs | moderate: two worked examples | Sec. VI C, Figs. 3–6 |
+
+## Concepts
+
+- **Compatibility matrix** C_αi = ∂ℓ_α/∂u_i; its transpose is the
+  equilibrium matrix.
+- **LZM** (linear zero mode): an element of ker C, a displacement leaving
+  bond lengths unchanged to first order.
+- **SSS** (state of self-stress): an element of ker Cᵀ, tensions giving
+  zero net force on every node.
+- **Prestress** t^ps_α = ∂E/∂ℓ_α at the ground state; always an SSS.
+- **ZEM**: an element of ker H, H = CKCᵀ + T.
+- **LZEF** (linear zero-extension force): an element of ker ∂ℓ/∂f, a force
+  that moves nodes without extending bonds.
+- **ZDT** (zero-displacement tension): an element of ker ∂u/∂t.
+
+## Connections
+
+It builds on Maxwell's and Calladine's counting, which it re-derives in
+Sec. II E, and points to tensegrity and prestress-stability work for what
+lies beyond linear order; Connelly and Whiteley ([LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md), read in
+[NOTE-tmphcgif](NOTE-tmphcgif.md)) is that theory. Kane and Lubensky ([LIT-tmpldjyt](../literature.d/LIT-tmpldjyt.md)) write the
+same classical identity with the equilibrium matrix Q = Cᵀ. Damavandi et
+al. ([LIT-tmp925so](../literature.d/LIT-tmp925so.md)) take up the stability side the authors leave open.
+
+## Bearing on the record
+
+- **The pasted synthesis on constraint architectures** (A, cited as M1).
+  - A says the paper "explicitly extends classical rigidity counting to
+    include stiffness, prestress, and response to external forces":
+    right.
+  - A's identity, dim ker R − dim ker Rᵀ = N_dof − N_constraints with ker
+    Rᵀ the states of self-stress, is eq. 15 with R = C: right. Its caveat
+    that the identity counts infinitesimal zero modes, rigid-body modes
+    included unless removed, is borne out by the rigid-body quote above.
+  - A's caveat that the identity "does not by itself guarantee
+    finite-motion flexibility or stability" is right in substance, but this
+    paper supports only the stability half: prestress-induced rigidity is
+    invisible to its linear counts. It does not discuss whether zero modes
+    extend to finite motions; Chen et al. ([LIT-tmpchla8](../literature.d/LIT-tmpchla8.md)) state that point
+    outright.
+  - A cites the paper only for the classical identity, which it merely
+    re-derives. Its contribution, Theorem 1, the symmetry theorem and
+    prestress as a way to steer which force excites a mechanism, is
+    missing from A's account.
+  - **A correction.** The synthesis credits Rocks and Mehta with the point
+    that redundant constraints can create states of self-stress rather than
+    simply eliminating further freedoms. That sentence is A's paraphrase;
+    it is not in this paper, where the word "redundant" does not occur and
+    adding constraints is not discussed. The point follows arithmetically
+    from eq. 15, since a further constraint must either remove a zero mode
+    or add a self-stress, but the paper does not draw it. Damavandi et al.
+    ([LIT-tmp925so](../literature.d/LIT-tmp925so.md)) state it: states of self-stress "arise from redundant
+    constraints". Connelly and Whiteley ([LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md), Remark 6.2.1) give a
+    stronger instance, in which bars brought in new proper self-stresses
+    that made a framework prestress stable while its first-order flex
+    remained.
+- **[CLAIM-345](../claims.d/CLAIM-345.md)** (equal controllability rank does not fix the cost of
+  control). Supports, by analogy only: the zero-mode count is fixed by
+  geometry, but which force excites a mode, and how far it localizes,
+  depends on stiffness and prestress (Theorem 1, Fig. 3b). Same nominal
+  freedom, different effective response; an analogy, not a derivation.
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [TERM-060](../terms.d/TERM-060.md)** (frustration as an ordinal fact before a
+  quantity; as joint unrealizability). Qualifies. The paper calls
+  prestress "frustration" that "cannot be relaxed away by moving the
+  nodes", and it is a quantity, an incompatibility load carried on a state
+  of self-stress. The existence of the self-stress is the geometric,
+  ordinal-like fact; how much prestress sits on it is energetic. A's
+  warning that the two frustrations are not interchangeable is borne out.
+- **[CLAIM-365](../claims.d/CLAIM-365.md)** (the frustration residual's dual certificate). Unrelated
+  to this paper; Connelly and Whiteley's second-order stress test
+  ([NOTE-tmphcgif](NOTE-tmphcgif.md)) is the closer neighbour.
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability). Unrelated.
+- **[LIT-1236](../literature.d/LIT-1236.md)** (Blumenthal, Rocks & Mehta 2024) shares two authors only.
+- Filed: [THEORY-tmpo2kzn](../theory.d/THEORY-tmpo2kzn.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **Linear only.** Prestress stability, a second-order effect, is not
+  captured; the authors say so (Sec. VII).
+- **Hard constraints excluded**, such as fixed facet areas in origami.
+- **Small, symmetric examples** with uniform stiffness.
+- **The symmetry criterion** is sufficient, not necessary: same symmetry is
+  "necessary but not sufficient" for an LZM–LZEF match.
+- **No experiment.** The proofs (Appendices B–D) were not read.
+
+## Open questions
+
+- Does a nonlinear version, as the authors ask, account for
+  prestress-induced rigidity in the same response language?
+- Do the symmetry results carry over to disordered networks, where no
+  geometric symmetry is there to break?

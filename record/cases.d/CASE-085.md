@@ -64,3 +64,7 @@ A16 and A17 proposed `documented`, "as a firsthand report". The record's
 `documented` asks for sources a reader can check. The owner's report is a
 source for what the owner recalls, and the event's relevant facts are
 taken on it here, which is `stipulated`. The owner may judge otherwise.
+
+## Note of 2026-11-04: U.S. Fire Administration, "Dispatched and Canceled en Route", read
+
+The page's separation of assigned, arrived and cancelled resources, and its exclusion of calls that lacked resources ([LIT-tmpnhw2v](../literature.d/LIT-tmpnhw2v.md)), supports the case's distinction between a resource held and a resource deployed. It is a different domain and mechanism, reporting rather than retrieval. No status changes.

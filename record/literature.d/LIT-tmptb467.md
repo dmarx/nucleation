@@ -1,0 +1,114 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpdle4e](../notes.d/NOTE-tmpdle4e.md)) from a manuscript posted on the
+  second author's lab page at UW-Madison, most likely the authors'
+  manuscript of the journal article; registered as a stand-in for Sigmund
+  (1997), [LIT-tmpa38fi](LIT-tmpa38fi.md), and more thinly for the review by Zhu et al.
+  (2020), [LIT-tmpdpxms](LIT-tmpdpxms.md). Worth reading as a compact statement of what
+  compliant-mechanism topology optimization trades: flexibility at the
+  output against stiffness against a workpiece, a multi-objective problem
+  with Pareto solutions, and density-based designs that exploit the model
+  with point hinges. Its own method removes material by the topological
+  derivative of a mutual-to-weighted-input-and-output strain-energy ratio,
+  avoiding pseudo-densities and hinges, with one parameter trading
+  geometric against mechanical advantage. Its main limits: linear
+  elasticity, coarse meshes, no springs or stress constraints, no
+  fabrication, comparisons qualitative.
+title: 'Hinge-Free Compliant Mechanism Design via the Topological Level-Set'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 as a stand-in for Sigmund (1997),
+    LIT-tmpa38fi, whose lawful full text was not reached, and more thinly
+    for Zhu et al. (2020), LIT-tmpdpxms, at the owner's request; both are
+    cited (as M4 and M5) in the owner's pasted synthesis on FACT, rigidity,
+    compliant mechanisms and origami, written by another assistant (A) and
+    pasted by the owner on 2026-11-04, which does not cite this paper. It
+    cites Sigmund (1997) as its ref. [12]. Citation checked against
+    Crossref by the reader, by title: Anirudh Krishnakumar and Krishnan
+    Suresh (UW-Madison), Journal of Mechanical Design 137(3), 031406,
+    journal article, print 2015-03-01, which is `published:` (Crossref gives
+    no online date). A conference paper of the same title, ASME IDETC 2013,
+    doi:10.1115/detc2013-12443, which Crossref lists under Suresh alone, is
+    a separate record not filed here. Not held before (no hit for the DOI,
+    the title or "Krishnakumar"). Copy: the PDF on the Engineering
+    Representation and Simulation Lab's site,
+    https://ersl.me.wisc.edu/wp-content/uploads/sites/177/2025/02/Hinge-Free-Compliant-Mechanism-Design-via-the-Topological-Level-Set.pdf,
+    20 pages, extracted with pdftotext; it names both authors and thanks
+    the reviewers, but does not say which version it is.
+tags:
+- natural-sciences
+- operations-research
+date: '2026-11-05'
+published: '2015-03-01'
+doi: '10.1115/1.4029335'
+first_author: 'Krishnakumar'
+keywords:
+- 'compliant mechanisms'
+- 'topology optimization'
+- 'topological derivative'
+- 'level-set'
+- 'hinge-free'
+- 'geometric advantage'
+- 'mechanical advantage'
+implementations: []
+summary: >-
+  Krishnakumar & Suresh (2015). Compliant-mechanism topology optimization
+  must trade flexibility at the output against stiffness against a
+  workpiece, and density-based (SIMP) designs tend to form point hinges.
+  The authors maximize mutual strain energy over a weighted sum of input
+  and output strain energies, the weight η trading geometric against
+  mechanical advantage, and remove material where the topological
+  derivative of that ratio is lowest, with fixed-point iterations at each
+  volume fraction. Elements are in or out, so no pseudo-densities and no
+  point hinges; one run gives designs of decreasing volume. Examples: 2D
+  inverters, a cruncher, a grasper, a 3D inverter and flap.
+---
+<!-- inactive-ok-file: LIT-tmpa38fi LIT-tmpdpxms THEORY-tmpybouv — Unavailable, Unfetched or Proposed, and new; the unread originals this neighbour stands in for and the account filed from it, cited from the reading of Krishnakumar and Suresh (2015) as open -->
+
+# LIT-tmptb467: Hinge-Free Compliant Mechanism Design via the Topological Level-Set
+
+Krishnakumar, A. & Suresh, K. (2015). Hinge-Free Compliant Mechanism Design via the Topological Level-Set. *Journal of Mechanical Design* 137(3): 031406. doi:10.1115/1.4029335.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpdle4e](../notes.d/NOTE-tmpdle4e.md). Sections are the manuscript's.*
+
+- **Two conflicting demands.** "(1) the compliant mechanism must exhibit
+  sufficient flexibility to achieve the desired displacement at the
+  output, and (2) it must exhibit sufficient stiffness to resist a
+  work-piece at the output" (Sec. 2); hence "compliant mechanism design is
+  a multi-objective problem with multiple ‘Pareto’ solutions [2], [14]."
+- **On Sigmund (1997).** "in [12], the mechanical advantage is maximized
+  subject to flexibility constraints", and "The relationship between many
+  of these formulations is discussed in [12]" (Sec. 2).
+- **Hinges.** "Avoiding hinges in compliant mechanisms is of significant
+  interest since hinges are regions of high stress concentration [8]"; in
+  Yin and Ananthasuresh's words, the optimizers "are exploiting a loophole
+  in the finite element model" and the density parameterization.
+- **One parameter for the trade.** "increasing η increases the geometric
+  advantage, and decreases the mechanical advantage of the mechanism"
+  (Sec. 3.1); in the cruncher, η from 0.5 to 0.6 moves GA from 0.32 to 0.59
+  and MA from 1.59 to 1.1 (Sec. 5.3).
+
+## Standing in the record
+
+Registered as a stand-in. For Sigmund (1997), [LIT-tmpa38fi](LIT-tmpa38fi.md), it states
+what Sigmund's formulation optimizes, that the paper relates the field's
+formulations, and the setting his work belongs to (the inverter problem,
+output springs, geometric and mechanical advantage, the hinge problem);
+it does not give Sigmund's formulation, his input-displacement constraint
+for stress, his examples or his prototypes, and it miscites his venue.
+For Zhu et al. (2020), [LIT-tmpdpxms](LIT-tmpdpxms.md), it stands in only thinly: its Sec. 2
+is a short pre-2015 review of formulations and parameterizations, not a
+survey, and it covers nothing of 2015–2019. Two of its points touch the
+pasted synthesis on constraint architectures: designs with the same
+intended motion differ in geometric and mechanical advantage as η moves,
+a mechanical case of A's proposed claim that equal nominal freedom spaces
+do not entail equal task performance; and density-based designs exploit a
+loophole in the finite-element model, so that the optimized design and a
+realizable one part. Filed from it: [THEORY-tmpybouv](../theory.d/THEORY-tmpybouv.md). No instruction for
+machine-learning practice.

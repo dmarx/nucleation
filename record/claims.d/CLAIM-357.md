@@ -92,7 +92,9 @@ summary: >-
   influence responsible. A35: "Importantly, these dual multipliers are not
   endorsement weights."
 ---
+<!-- inactive-ok-file: NOTE-tmpoec9n — Skimmed; Gerardi and Maestri, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-tmp9jvpb — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns
 
@@ -243,3 +245,21 @@ So the case is realized violation with no structural infeasibility, where Φ ≤
 The same contrast is [CLAIM-122](CLAIM-122.md)'s form, and [CASE-119](../cases.d/CASE-119.md) is the same three-demand complex.
 
 No status changes.
+
+## Note of 2026-11-04: Rockafellar and Uryasev, "Optimization of conditional value-at-risk", read
+
+Rockafellar and Uryasev (2000), [LIT-tmpdvjiy](../literature.d/LIT-tmpdvjiy.md), fold a distribution of outcomes into one convex number, the expected loss beyond a quantile; governance regret folds the admissible updates by a min–max. The two are alternative scalarizations. The paper says nothing about infeasibility or realized violation, and leaves open whether a tail-expectation version of the residual would separate them as this claim does. No status changes.
+
+## Note of 2026-11-04: Ratliff, Dong, Sekar and Fiez, "A Perspective on Incentive Design", read
+
+Ratliff et al. (2019), [LIT-tmpsj5c6](../literature.d/LIT-tmpsj5c6.md), read in [NOTE-tmp5upz4](../notes.d/NOTE-tmp5upz4.md), also treat a governor choosing what to ask of agents. Their "regret" (eq. 3) is the online-learning regret of a principal's sequence of incentives against the best fixed one in hindsight; this claim's governance regret is the minimax suboptimality of one actual update. Same word, different objects, to be kept apart when both are cited. The paper has no residual and no notion of joint infeasibility. No status changes.
+
+## Note of 2026-11-04: Gerardi and Maestri, "Dynamic contracting with limited commitment and the ratchet effect", read
+
+Gerardi and Maestri (2020), [LIT-tmpbit9m](../literature.d/LIT-tmpbit9m.md), skimmed in [NOTE-tmpoec9n](../notes.d/NOTE-tmpoec9n.md), add what this claim lacks: a subordinate who anticipates the governor's revision of demands and hides information to avoid more demanding ones, which in a long relationship can stop the governor learning altogether. That qualifies any reading of regret as fixed by what is declared, since declared requirements can themselves respond strategically. The claim's construction is untouched. No status changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Three origami readings from the pasted synthesis on constraint architectures support the claim's separation of structural infeasibility from realized violation, by analogy. In Stern et al. ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)) the designed configuration exists, and can be made the ground state, yet goes unrealized under random actuation, the sheet misfolding into distractor branches. Chen and Santangelo ([NOTE-tmpwpp63](../notes.d/NOTE-tmpwpp63.md)) give the same shape near the flat state, where every branch meets every constraint and misfolding is a wrong selection of branch; that is the reader's inference, not a measurement. Hull and Tachi ([NOTE-tmpryygx](../notes.d/NOTE-tmpryygx.md)) qualify the claim with a third case: the Miura fold exists, but no driving force that each crease applies on its own selects it uniquely, so the target is neither infeasible nor violated, only unselectable under a declared class of actuation. None of them computes a residual or a regret.
+
+[CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md), filed from A's proposals, names the third case these readings point to: a target can be feasible and unrealized because no admissible path reaches it (Berry et al.) or because the process does not reliably select it (Stern et al.; Hull and Tachi), which is neither a positive residual nor a realized violation. No status changes.

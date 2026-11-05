@@ -117,3 +117,11 @@ staff, funds inaccessible and offices closed ([CASE-176](../cases.d/CASE-176.md)
 prospect of resettlement on the Chagos islands after half a century
 ([CASE-169](../cases.d/CASE-169.md)). In each the test is [THEORY-136](../theory.d/THEORY-136.md)'s: a lasting shift after
 the condition is restored, not a slow return.
+
+## Note of 2026-11-04: Tatel, "A Meta-Analytic Investigation of Procedural Skill Retention and Decay", read
+
+Tatel's dissertation ([LIT-tmplozja](../literature.d/LIT-tmplozja.md)) qualifies the claim's cost asymmetry for individual procedural skills. Its discussion of relearning (p. 124) treats savings as the rule: decayed skills come back faster than they were first learned, so a later retention trial "more accurately captures the essence of relearning rather than retention." In this domain, then, restoring may be cheaper than first acquisition. It leaves the claim's own mechanism, self-reinforcing maintenance activity, untouched. No status changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Jules et al. ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md)), from the pasted synthesis on constraint architectures, give a mechanical analogue. Once erasure returns a stack of Kresling barrels from a defect state to its main cycle, reversing the load does not bring the defect back; the defect states were reached only by twisting parts by hand, a richer control than the uniaxial loading the stack otherwise receives. That has the claim's shape: restoring the conditions does not restore what was lost, and rebuilding it directly does. It is an analogy only, on four barrels; the paper says nothing of self-reinforcing maintenance or of what restoration costs. No status changes.

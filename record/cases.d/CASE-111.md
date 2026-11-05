@@ -116,3 +116,7 @@ nonlinear half would look like. It does not supply [CLAIM-330](../claims.d/CLAIM
   organization's own or supplied from outside. That is [QUESTION-086](../questions.d/QUESTION-086.md)'s
   question, and A7 §1's caveat: "writing G and H into an equation does not
   establish self-maintenance."
+
+## Note of 2026-11-04: Kuehn, "A mathematical framework for critical transitions", read
+
+Kuehn ([NOTE-tmpob9hv](../notes.d/NOTE-tmpob9hv.md)) supports the case's slowing recovery. At a fold the leading Lyapunov exponent scales as |y|^{1/2} (recovery exponent ½, Prop. 2.10). He also qualifies when maintenance is lost. With the parameter drifting slowly, the jump comes O(ε^{2/3}) past the fold (Thm 3.2); with noise large against √ε it comes before the fold with high probability (Thm 6.1). Berglund ([NOTE-tmpke9h3](../notes.d/NOTE-tmpke9h3.md), §4.1) adds that the standard Kramers prefactor does not hold at such a degenerate point. The case's cooperative-repair term and hysteresis loop are not analysed there. No status changes.

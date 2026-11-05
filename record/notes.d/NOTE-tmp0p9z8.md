@@ -1,0 +1,173 @@
+---
+status: Skimmed
+paper: 'LIT-tmp13cly'
+title: 'Zhuk — A proof of the CSP dichotomy conjecture'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in part on 2026-11-05 from arXiv v11, which the author marks as the final version,
+    https://arxiv.org/pdf/1704.01914v11, 83 pp., extracted with pdftotext
+    -layout; that it matches the J. ACM text was not checked. Read closely:
+    the abstract; §1 Introduction (pp. 1–3); §2, the outline of the
+    algorithm with its Z₄ example (pp. 3–6); §3 Definitions (pp. 6–8); §5.1
+    on the Rosenberg completeness theorem, with Theorem 5.1 and its proof
+    (pp. 17–19); the pp-formula paragraph of §6 (p. 22); §10 Conclusions
+    (pp. 76–78). Skipped: §4 (pseudocode), §§5.2–5.4 and §§6–9 (pp. 20–75,
+    the main proofs). No proof outside §5.1 was checked. The whole text was
+    searched for "Galois", "reconfigur", "connectivity", "Pol(", "Inv(",
+    "cyclic" and "Taylor". Quotes checked by string match against the
+    extracted text. Page numbers are the paper's own.
+date: '2026-11-05'
+summary: >-
+  Zhuk proves the CSP dichotomy for finite domains independently of
+  Bulatov: for a finite language Γ on a finite set, CSP(Γ) is in P if a
+  weak near-unanimity operation preserves Γ, NP-complete otherwise. The
+  algorithm checks local consistency, reduces domains to absorbing
+  subuniverses, centres or quotients, and in the linear case solves linear
+  equations over prime fields. Read: the introduction, outline, definitions,
+  the structural Theorem 5.1 with proof, and the conclusions; the main
+  proofs not read.
+---
+<!-- inactive-ok-file: THEORY-tmp8numn NOTE-tmpa8w32 THEORY-604 CLAIM-tmpuxuo4 CLAIM-tmp9jvpb CLAIM-tmpal9mc CASE-tmpb5t9j — Proposed, or Proposed and new; cited from the reading of Zhuk (2020) as open -->
+
+# NOTE-tmp0p9z8: Zhuk — A proof of the CSP dichotomy conjecture
+
+## Contribution
+
+An independent proof of the Feder–Vardi CSP Dichotomy Conjecture, by a
+polynomial-time algorithm for every finite language preserved by a WNU.
+The hardness half was known (p. 3, Theorem 1.3). The algorithm "just checks
+some local consistency and solves linear equations over prime fields"
+(p. 3), where Bulatov's ([LIT-tmpxq623](../literature.d/LIT-tmpxq623.md)) uses the full few-subpowers
+algorithm.
+
+## Key insight
+
+Every finite algebra with a WNU can be cut down in one of four ways
+(Theorem 5.1), derived from Rosenberg's classification of maximal clones.
+Three of them shrink a variable's domain without losing solvability; the
+fourth leaves a linear problem over Z_p. So an instance can be reduced
+until only linear algebra is left, with missing linear equations found by
+recursive calls.
+
+## Assumptions
+
+- **Finite domain and finite language.** "Bulatov’s algorithm works for
+  infinite constraint languages, which is not the case for the algorithm
+  presented in this paper." (p. 3).
+- **Decision only.**
+- **Core and idempotent reduction** (Theorems 1.1–1.2): "it is sufficient to
+  prove Conjecture 2 for a core and an idempotent WNU." (p. 2).
+
+## Key results
+
+- **Theorem 1.4 (p. 3).** "Suppose Γ ⊆ RA is a finite set of relations.
+  Then CSP(Γ) can be solved in polynomial time if there exists a WNU
+  preserving Γ; CSP(Γ) is NP-complete otherwise." RA is the set of all
+  finitary relations on the finite set A.
+- **Hardness is prior work (Theorem 1.3, p. 3, from [47]).** "If there exists
+  no WNU preserving Γ, then CSP(Γ) is NP-complete."
+- **Relation to Bulatov (p. 3).** "Even though both algorithms appeared at
+  the same time, they are significantly different."
+- **Theorem 5.1 (p. 17).** A finite algebra with a special WNU has a
+  nontrivial binary absorbing subuniverse, a nontrivial centre, or a proper
+  congruence whose quotient is polynomially complete or is Z_p with
+  addition.
+- **pp-definability (p. 22).** Relations defined by a pp-formula are
+  preserved by the WNU, citing Bodnarchuk, Kaluzhnin, Kotov and Romov,
+  "Galois theory for post algebras" (1969).
+- **Cyclic terms (§10.1, p. 76).** "from a WNU on a domain of size k we can
+  always derive a WNU (and also a cyclic operation) of any prime arity
+  greater than k."
+- **Open problems (§10).** "Problem 1. Does there exist a polynomial
+  algorithm for CSP-WNU?" (domain not fixed); whether the algorithm
+  simplifies; the non-WNU case; infinite domains; quantified CSPs; Promise
+  CSPs; surjective CSPs.
+- **Infinite domains (§10.4, p. 76).** "If we allow the domain to be
+  infinite, the situation is changing significantly." A language over the
+  integers expresses Hilbert's tenth problem, so its CSP is undecidable.
+- **Quantified CSPs (§10.6, p. 77).** Chen's conjectured trichotomy was
+  disproved: some QCSP(Γ) are coNP-, DP- or Θ₂ᴾ-complete.
+
+## Concepts
+
+- **CSP(Γ)**: satisfiability of conjunctions of relations from Γ (p. 2).
+- **Preserves**: "We say that an operation preserves a set of relations Γ
+  if it preserves every relation in Γ." (p. 2); "polymorphism" appears in
+  the abstract, "preserves" in the text.
+- **WNU**: f with f(y,x,…,x) = f(x,y,x,…,x) = ⋯ = f(x,…,x,y) (p. 2); a
+  special WNU is a normalised one.
+- **Core; idempotent; clone; polynomially complete algebra; linear algebra;
+  absorbing subuniverse; centre** (§§1, 3).
+- **Cycle-consistent, linked, fragmented, irreducible, crucial instances**
+  (§3.6). False friends: a path that "connects" two values, and "linked",
+  are about paths through an instance's variables and constraints, a
+  local-consistency notion, not about connectivity of the solution space.
+
+## Connections
+
+Independent of Bulatov's proof ([LIT-tmpxq623](../literature.d/LIT-tmpxq623.md), [NOTE-tmpa8w32](NOTE-tmpa8w32.md)), with a
+different algorithm. Draws on Rosenberg's completeness theorem, on
+Bulatov, Jeavons and Krokhin and on Maróti and McKenzie for hardness, and
+on the Galois theory of Bodnarchuk et al. for pp-definability.
+
+## Bearing on the record
+
+- **The pasted synthesis on resource-bounded realizability** (Response 3
+  §4). Verdict:
+  - **Right**: independent proofs, by Bulatov and Zhuk, of a dichotomy
+    between polynomial time and NP-complete for fixed finite constraint
+    languages on finite domains, by an algebraic condition. Zhuk's
+    statement is in A's terms: a weak near-unanimity polymorphism, a WNU
+    "preserving Γ".
+  - **The Pol–Inv connection.** A's Γ ⊆ Inv(F) ⟺ F ⊆ Pol(Γ) is standard and
+    follows from the definition of "preserves". Zhuk does not state it as a
+    Galois connection; he uses its consequence that pp-definable relations
+    are preserved, citing Bodnarchuk et al. The name is the field's, not
+    these papers'.
+  - **Overstated**: "what computational powers do those operations
+    support?" and "classifying computational systems through their
+    constraint-preserving algebra". A WNU is a property of the language, an
+    operation applied coordinatewise to its relations' tuples, not an
+    operation a system runs. The theorem classifies decision problems over
+    all instances built from a fixed finite language.
+  - **Missing**: finite domains only, and Zhuk flags that infinite domains
+    change the picture (§10.4). A's continuous configuration spaces would
+    need a finite-domain encoding first. "Polynomial" is for a fixed
+    language: the dependence on the domain is exponential (§10.1).
+  - **Silent on connectivity.** Nothing on solution-space connectivity,
+    reconfiguration or reachability between solutions; none of §10's
+    generalisations is a reconfiguration problem, and "linked" is a false
+    friend. A's question whether the algebra could predict the complexity
+    of navigating the solution space is open relative to this paper.
+  - **A's "algebraic component of the proposed theory".** Plausible as a
+    programme, unsupported here. The algebra predicts the complexity of
+    deciding existence; §10.6 shows that once the question becomes a
+    quantified one the clean dichotomy fails. That supports A's own point
+    that complexity belongs to the question posed.
+- **[THEORY-604](../theory.d/THEORY-604.md), [THEORY-729](../theory.d/THEORY-729.md) and [NOTE-141](NOTE-141.md) (Corfield).** Qualifies: Pol–Inv is a
+  relation-induced Galois connection (the relation: f preserves R) of the
+  kind [NOTE-141](NOTE-141.md) traces Corfield's six Galois-connection dualities to, with
+  clones and relational clones as the fixed points of [THEORY-729](../theory.d/THEORY-729.md)'s
+  construction. The reader's identification, in neither text.
+- **[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md) (feasible, reachable, reliably reached).** Supports it by
+  contrast: the dichotomy concerns only the first property.
+- **[CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md) and [CASE-tmpb5t9j](../cases.d/CASE-tmpb5t9j.md) (no path; disconnected components).**
+  Unrelated in content; the dichotomy is silent on them.
+- **[LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md) and [NOTE-tmpd0dln](NOTE-tmpd0dln.md) (rigid foldability NP-hard).** Qualifies: a
+  hardness result for a geometric, continuous-parameter problem, outside
+  the finite-domain theorem.
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) (the compatibility complex).** Unrelated: one
+  fixed instance, not a language.
+- Filed: [THEORY-tmp8numn](../theory.d/THEORY-tmp8numn.md).
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- A very long proof (§§6–9), through eleven arXiv versions; not checked
+  here.
+- Finite constraint languages only (p. 3), unlike Bulatov's.
+- Exponential in the domain size; Problem 1 (domain not fixed) open.
+- The author believes the algorithm can be simplified (Problem 2).

@@ -33,6 +33,7 @@ summary: >-
   within Nucleation's framework"; [CASE-111](CASE-111.md) is the earlier one, and this is
   its variant with a coupling attached.
 ---
+<!-- inactive-ok-file: NOTE-tmp4cwdr — Skimmed; Freidlin and Wentzell's front matter, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-532 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 
 # CASE-189: Two constructions of a maintained organization: two constraints producing each other with saturating production and turnover hold a three-unit coupling, with a box invariant under damage up to 0.4, a saddle-node at damage 0.5 and extinction above it; and a transient encounter that forms a connector enabling that reciprocal production, after which the connector is maintained by what it enables, every single-pathway knockout ends it, and the regime ends in a saddle-node at damage ≈ 0.691 where the coupling's gap is still ≈ 0.989
@@ -197,3 +198,7 @@ starting point for the construction [CLAIM-532](../claims.d/CLAIM-532.md) calls 
 encounter would produce a new distinction and channel. That construction is
 [CASE-191](CASE-191.md), a variant of this case with the encounter replaced by the agent's
 own frustration.
+
+## Note of 2026-11-04: Freidlin and Wentzell, "Random Perturbations of Dynamical Systems", read (front matter)
+
+The case's quasi-potential for a maintained organization's persistence applies the authors' own notion, which they say they "introduced more than forty years ago". Their Introduction ([NOTE-tmp4cwdr](../notes.d/NOTE-tmp4cwdr.md)) outlines exit times from a domain of attraction as set by the infimum of an action functional, which supports the construction as an application. Only the front matter was read and the book's theorems were not checked; Berglund's Theorem 2.2 ([NOTE-tmpke9h3](../notes.d/NOTE-tmpke9h3.md)) restates the exit-time one. No status changes.

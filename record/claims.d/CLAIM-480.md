@@ -68,6 +68,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-478 — Proposed; the claims this corroborates and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 — Unavailable; cited for what it is standardly cited for -->
+<!-- inactive-ok-file: NOTE-tmpnscd2 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 # CLAIM-480: Composing interactions can turn an interior into a constraint, and sometimes into a constraint of a new kind: in the chain E = ½k₁(x₁ − x₂)² + ½k₂(x₂ − x₃)², with x₂ internal and equilibrated, the boundary sees E_eff = ½·k₁k₂/(k₁ + k₂)·(x₁ − x₃)², a coupling between x₁ and x₃ that neither part has; if the interior relaxes slowly, eliminating it leaves a history-dependent constraint, a memory kernel, so interconnection fixes an effective constraint on the boundary's trajectories and separation of time scales decides only whether that constraint is approximately memoryless; and for cellular sheaves the reduced constraint can relate three boundary values where every relation among the parts is pairwise
 
@@ -247,3 +248,11 @@ manipulability causally, between a component and temporal phases of the
 phenomenon. If so, it is the same move made from the other side.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Readings from the pasted synthesis on constraint architectures add instances, mostly linear or simulated. Supporting: in Rocks et al. ([NOTE-tmptvl7g](../notes.d/NOTE-tmptvl7g.md)) a source-target strain ratio is an effective boundary relation set by the equilibrated interior, retuned by removing about 1% of interior bonds, the reduction underived; Dollar and Howe's tendons ([NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md)) make contact on one finger constrain the others; a link joining two kirigami components removes three rigid-body freedoms and adds one internal one ([NOTE-tmpazhb8](../notes.d/NOTE-tmpazhb8.md)); and Liu et al.'s buffer zone ([NOTE-tmpoedni](../notes.d/NOTE-tmpoedni.md)) is a slow interior whose kept configuration "carries the historic input information".
+
+Qualifying: Hopkins's serial stacking ([NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md), [NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md)), freedom spaces adding and constraint spaces intersecting, is the kinematic form of eliminating the interior, and underconstraint, where the boundary leaves it unfixed, costs vibration and controllability. In Jules et al. ([NOTE-tmpwz8jy](../notes.d/NOTE-tmpwz8jy.md)) decoupled units in series add no constraint, coupling rather than composition making one; Hu et al. ([NOTE-tmpu2xuw](../notes.d/NOTE-tmpu2xuw.md)) compose a new function, not a constraint. Kane and Lubensky ([NOTE-tmpp5rni](../notes.d/NOTE-tmpp5rni.md)) and Chen et al. ([NOTE-tmpztu5h](../notes.d/NOTE-tmpztu5h.md)) show the converse: joining phases of different polarization creates freedoms at the interface.
+
+The conditions under which composition creates freedom at an interface, from Kane and Lubensky and from Chen et al., are what [QUESTION-tmp8jsu9](../questions.d/QUESTION-tmp8jsu9.md) asks about. No status changes.

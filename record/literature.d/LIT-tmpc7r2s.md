@@ -1,0 +1,111 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-04 ([NOTE-tmpob9hv](../notes.d/NOTE-tmpob9hv.md)) from the author's revised arXiv
+  preprint, v2, which matches the journal reference; worth reading as the
+  definition of a critical transition in fast–slow terms, the loss of
+  normal hyperbolicity of an attracting slow manifold followed by a fast
+  jump, with the bifurcations that qualify, the recovery exponent that
+  makes slowing down differ by bifurcation type, and specific ways rising
+  variance and autocorrelation mislead (multiplicative noise, a single
+  sample path, window geometry, noise large against the time-scale
+  separation). Its main limits: one slow variable, mostly one-dimensional
+  fast normal forms, numerics at single parameter values, and much of it is
+  review.
+title: 'A mathematical framework for critical transitions: Bifurcations, fast–slow systems and stochastic dynamics'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered and read on 2026-11-04 from the pasted bibliography on
+    emergency readiness, written by another assistant (A) and pasted by
+    the owner on 2026-11-04, which cites it as Kuehn (2011), Physica D 240(12),
+    1020–1035, under tail risk and critical transitions. Citation
+    checked against Crossref: Christian Kuehn (sole author), Physica D:
+    Nonlinear Phenomena 240(12), 1020–1035, issue June 2011,
+    doi:10.1016/j.physd.2011.02.012; A's citation is correct. arXiv
+    1101.2899 [math.DS], v1 of 14 January 2011 (`published:`, the earliest
+    exact date verified) and v2 of 21 February 2011; the arXiv comment's
+    statement that it was first available online and submitted in July
+    2010 was not verified.
+    Not held before; NOTE-1215 mentions it as not held. Copy:
+    https://arxiv.org/pdf/1101.2899v2, the author's revised preprint (not
+    the typeset version of record), 38 pages, extracted with pdftotext.
+tags:
+- complex-systems
+- mathematics
+- probabilistic-modeling
+date: '2026-11-04'
+published: '2011-01-14'
+arxiv: '1101.2899'
+doi: '10.1016/j.physd.2011.02.012'
+first_author: 'Kuehn'
+keywords:
+- 'critical transitions'
+- 'tipping points'
+- 'fast-slow systems'
+- 'bifurcations'
+- 'dynamic bifurcation'
+- 'early-warning signs'
+- 'stochastic dynamics'
+- 'recovery exponent'
+implementations: []
+summary: >-
+  Kuehn (2011). Makes a slowly drifting parameter a slow variable, giving a
+  fast–slow system, and defines a critical transition as a point where an
+  attracting normally hyperbolic slow manifold loses normal hyperbolicity
+  and a singular-limit candidate switches from slow motion to a fast jump
+  (Def. 2.4). Fold, transcritical, and subcritical Hopf and pitchfork
+  bifurcations qualify; supercritical ones do not. Slowing down scales with
+  distance to the bifurcation with a recovery exponent ½ for the fold and 1
+  for the others. With slow drift the jump is delayed past the fold by
+  O(ε^{2/3}); with noise large against √ε it comes early. On normal forms
+  variance provably rises, but variance, autocorrelation and P-bifurcation
+  indicators can each mislead.
+---
+<!-- inactive-ok-file: THEORY-tmpwa350 — Proposed and new; the account filed from Kuehn (2011), cited as open -->
+
+# LIT-tmpc7r2s: A mathematical framework for critical transitions: Bifurcations, fast–slow systems and stochastic dynamics
+
+Kuehn, C. (2011). A mathematical framework for critical transitions: Bifurcations, fast–slow systems and stochastic dynamics. *Physica D: Nonlinear Phenomena* 240(12): 1020–1035. doi:10.1016/j.physd.2011.02.012. arXiv:1101.2899.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpob9hv](../notes.d/NOTE-tmpob9hv.md). Sections and numbers are the preprint's.*
+
+- **A definition.** "We say that p is a critical transition if there is a
+  candidate" through an attracting normally hyperbolic segment ending at p
+  with the right orientation (Def. 2.4).
+- **Which bifurcations.** "Then the fold bifurcation is also a critical
+  transition." (Prop. 2.5); "The transcritical bifurcation is a critical
+  transition." (Prop. 2.8); Hopf and pitchfork only when subcritical
+  (Props. 2.6–2.7).
+- **Slowing down differs by type.** Recovery exponent ½ for the fold and 1
+  for Hopf, pitchfork and transcritical (Prop. 2.10), so with "different
+  recovery exponents for slowing down (see Proposition 2.10) it should be
+  possible to distinguish between them using early warning signs." (§10).
+- **Indicators can mislead.** With "multiplicative noise a rising variance
+  early-warning sign can fail" (§5); "critical transitions before the
+  deterministic fold bifurcation occur with very high probability." when
+  noise is large against the time-scale separation (§6, Thm 6.1); a single
+  path's variance and autocorrelation can mislead (§§8–9).
+
+## Standing in the record
+
+Mentioned before only in [NOTE-1215](../notes.d/NOTE-1215.md), as not held. Kuehn calls the paper "a
+mathematical complement" to the early-warning review held as [LIT-1956](LIT-1956.md),
+whose account is [THEORY-1315](../theory.d/THEORY-1315.md): it proves the variance rise on normal forms
+and sharpens that account's caveats. It complements the rate-induced
+tipping of [LIT-1654](LIT-1654.md) and [THEORY-1079](../theory.d/THEORY-1079.md), which its framework does not cover. It
+gives the general setting for the fold of [CASE-111](../cases.d/CASE-111.md) and the saddle-node of
+[CLAIM-521](../claims.d/CLAIM-521.md). Its noise-induced escape time cites Freidlin and Wentzell
+(1998 edition), held as [LIT-tmp6rglf](LIT-tmp6rglf.md).
+
+The pasted bibliography on emergency readiness files it under tail risk
+and critical transitions without saying what it shows. Its subject is
+parameter-driven bifurcation and noise-induced escape, not the tails of
+loss distributions; its lesson that observed indicators can mislead
+parallels A's warning about judging a maintained capability by what is
+observed, by analogy only. Filed from it: [THEORY-tmpwa350](../theory.d/THEORY-tmpwa350.md). No instruction
+for machine-learning practice; nothing for the anthology.

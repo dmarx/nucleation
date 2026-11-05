@@ -1,0 +1,206 @@
+---
+status: Skimmed
+paper: 'LIT-tmplpuzc'
+title: 'Connelly and Whiteley — Second-order rigidity and prestress stability for tensegrity frameworks'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in part on 2026-11-05 from the SIAM published version posted by
+    the first author on his Cornell publications page
+    (https://pi.math.cornell.edu/~connelly/pdf/10.1137_S0895480192229236.pdf),
+    a 39-page scan with an OCR text layer, extracted with pdftotext; every
+    page is stamped "Downloaded 01/01/13 ... Redistribution subject to SIAM
+    license or copyright". No paywall. Read in full: §§1–3 (introduction,
+    tensegrity frameworks, prestress stability, with the examples of §3.5
+    and §3.6), §4.4, §§5.1–5.2 and §§6.1–6.2. Read in part: §4.1 (the
+    definition of a second-order flex), §4.3 (the statement of Theorem
+    4.3.1), the opening of §5.3 (Proposition 5.3.1 and its proof) and the
+    opening of Appendix A.1. Skipped or skimmed: §4.2 (trivial
+    higher-order motions), the proof of Theorem 4.3.1, the rest of §5.3,
+    §§5.4–5.6 (b-c polygons, triangulated spheres, packings) and Appendix
+    A.2–A.3. The OCR is noisy in displayed formulas; the prose quotes were
+    checked by string match against it. Skimmed because the long proofs
+    and the later examples were not read.
+date: '2026-11-05'
+summary: >-
+  For frameworks of bars, cables and struts, first-order rigidity implies
+  prestress stability, which implies second-order rigidity, which implies
+  rigidity, and examples show none of these reverses, even for bar
+  frameworks. Whether a first-order flex extends to second order is
+  decided by a Farkas-type test over all the proper self-stresses; with a
+  one-dimensional cone of flexes or of stresses, second-order rigidity and
+  prestress stability coincide. Read in part: the long proofs and later
+  examples were skipped.
+---
+<!-- inactive-ok-file: THEORY-tmpelyg5 — Proposed and new; the account filed from this reading -->
+
+# NOTE-tmphcgif: Connelly and Whiteley — Second-order rigidity and prestress stability for tensegrity frameworks
+
+## Contribution
+
+It places prestress stability, an engineering notion, rigorously between
+first-order and second-order rigidity, extends second-order rigidity from
+bar frameworks to tensegrities, and shows that at second order, as at
+first, self-stresses and flexes are dual objects. Along the way it
+corrects the engineering rank test of Pellegrino and Calladine, which lacks
+positive definiteness, and proves Roth's conjecture.
+
+## Key insight
+
+A first-order flex is a candidate motion, not a motion. Whether it
+survives to second order is decided by the self-stresses: it fails to
+extend exactly when some proper self-stress gives it positive energy. And
+the test must range over the whole cone of proper self-stresses, not over
+any one of them.
+
+## Assumptions
+
+- **Setting**: finitely many points in Euclidean ℝ^d, joined by bars
+  (fixed length), cables (may not lengthen) and struts (may not shorten).
+- **Local rigidity** modulo congruence: "If each continuous motion of the
+  points satisfying all the constraints is the restriction of a rigid
+  motion of the ambient Euclidean space, then we say the tensegrity
+  framework is rigid" (§1.1). Global rigidity is another axis: "Neither
+  infinitesimal rigidity nor global rigidity implies the other" (§1.5).
+- **Proper stresses**: cables carry nonnegative and struts nonpositive
+  stress.
+- **Energy functions** may be chosen freely for recognizing rigidity; they
+  need not be physical stress–strain laws.
+- **Proposition 6.1.1** needs an independent bar subframework, one with no
+  nonzero self-stress.
+
+## Key results
+
+- **The hierarchy** (abstract; §§3–4): "We demonstrate a hierarchy of
+  rigidity--first-order rigidity implies prestress stability implies
+  second-order rigidity implies" rigidity, for any framework (the abstract
+  continues "rigidity" after a layout break). "Examples show that none of
+  these implications are reversible, even for bar frameworks."
+- **Rigid but not prestress stable** (§3.5): "Can a framework be rigid but
+  not prestress stable?" Fig. 9b answers yes.
+- **Second-order rigid but not prestress stable** (§4.4, Remark 4.4.1): "It
+  turns out that there are tensegrity frameworks that are not prestress
+  stable for any prestress yet are still second-order rigid."
+- **The duality** (abstract; §1.4; Theorem 4.3.1, statement only): a test
+  "which combines information on the self stresses and the first-order
+  flexes of a framework to detect second-order rigidity". A first-order
+  flex p′ extends to second order if and only if p′ᵀΩp′ ≤ 0 for every
+  proper self-stress with stress matrix Ω. The proof is "a special case of
+  the "Farkas alternative"" (§1.4).
+- **Positive definiteness is needed** (§3.3, Remark 3.3.3): "If no positive
+  definiteness is required, many mechanisms, such as collinear
+  parallelograms, would be declared" stiff; and "Pellegrino and Calladine
+  [28] describe certain matrix rank conditions that are necessary but not
+  sufficient for prestress stability" (§1.3).
+- **Coincidence** (Proposition 5.3.1): "If a tensegrity framework G(p) is
+  second-order rigid with either a one-dimensional cone of equilibrium
+  first-order flexes or a one-dimensional cone of proper self stresses,
+  then G(p) is prestress stable."
+- **Flex extension** (§6.1): "Some second-order flexes extend to continuous
+  flexes of the framework"; Proposition 6.1.1 does so for an independent
+  bar subframework, and gives Roth's conjecture (Proposition 6.2.1).
+- **Added bars bring self-stresses** (§6.2, after Remark 6.2.1, Fig. 20):
+  three stressed cables of an earlier example are made bars; a nontrivial
+  first-order flex remains, but the second-order stress test must now
+  range over the new self-stresses, and "When the added stresses are
+  considered, it turns out that G(p) is even prestress stable." The moral:
+  to keep a framework flexible, "be sure that the new bars do not
+  introduce any new proper self stresses to the whole framework."
+
+## Concepts
+
+- **First-order flex** p′: (p_i − p_j)·(p′_i − p′_j) = 0 on bars, ≤ 0 on
+  cables, ≥ 0 on struts; trivial if p′_i = Sp_i + t with S skew-symmetric.
+- **Rigidity matrix** R(p): a bar framework's first-order flexes solve
+  R(p)p′ = 0.
+- **Self-stress** ω with ωR(p) = 0: "It is called a self stress if the
+  vector sum of the scalar times the corresponding member vector is zero
+  at each vertex" (§1.1). Proper if cables carry ω ≥ 0 and struts ω ≤ 0;
+  strict if nonzero on every cable and strut.
+- **Stress matrix** Ω: the quadratic form a stress defines on
+  configurations.
+- **Prestress stable**: some proper self-stress ω and stiffnesses c ≥ 0
+  make Ω + RᵀCR positive semidefinite with only trivial flexes in its
+  kernel; equivalently (Proposition 3.4.2) Ω is positive definite on a
+  complement of the trivial flexes within the first-order flexes. "Prestress
+  stability is a concept we have borrowed from structural engineering"
+  (§1.3).
+- **Second-order flex** (p′, p″) and **second-order rigid**: every
+  second-order flex has p′ trivial.
+
+## Connections
+
+It builds on the first-order theory of tensegrities, citing Roth and
+Whiteley for it, and corrects Pellegrino and Calladine's engineering
+test. Damavandi et al. ([LIT-tmp925so](../literature.d/LIT-tmp925so.md), read in [NOTE-tmp8m06t](NOTE-tmp8m06t.md)) take the
+definition of prestress stability from it and ask when these geometric
+notions imply energetic rigidity. Rocks and Mehta ([LIT-tmpx12go](../literature.d/LIT-tmpx12go.md)) stay at
+linear order and point to this theory for what lies beyond.
+
+## Bearing on the record
+
+- **The pasted synthesis on constraint architectures** (A, cited as M2).
+  - A says the paper "develops a hierarchy of notions of rigidity,
+    including first-order rigidity, prestress stability, second-order
+    rigidity, and rigidity" and that "The implications are not generally
+    reversible": right, and if anything understated, since there are
+    examples for each step, even for bar frameworks.
+  - Missing from A: the second-order stress test, the paper's main tool;
+    the coincidence result; Roth's conjecture; that the setting has
+    inequality constraints (cables, struts); and that the hierarchy is
+    about local rigidity only.
+  - **On A's Maxwell–Calladine caveat**, that the count does not by itself
+    guarantee finite-motion flexibility or stability: this paper is its
+    mathematical ground. A nontrivial first-order flex need not extend;
+    frameworks can be prestress stable, hence rigid, without being
+    first-order rigid (§3.5). The failure runs one way only: first-order
+    rigidity does imply rigidity.
+  - **On redundant constraints and self-stress.** The synthesis attributes
+    to Rocks and Mehta ([LIT-tmpx12go](../literature.d/LIT-tmpx12go.md)) the point that redundant
+    constraints can create states of self-stress rather than simply
+    eliminating freedoms; that is A's paraphrase and not in their paper.
+    The §6.2 example here is a stronger instance: members made bars left a
+    first-order freedom in place and brought in new proper self-stresses,
+    and with them the framework became prestress stable, so rigid.
+    Constraints can rigidify through self-stress at second order without
+    removing any first-order freedom. Damavandi et al. ([LIT-tmp925so](../literature.d/LIT-tmp925so.md)) give
+    the plain statement.
+- **[CLAIM-365](../claims.d/CLAIM-365.md)** (the frustration residual equals a maximum over the
+  simplex, a certificate of joint infeasibility). Qualifies, by analogy
+  only. The second-order stress test is a structurally parallel duality:
+  a first-order flex fails to extend exactly when a proper self-stress
+  certifies it, p′ᵀΩp′ > 0, the self-stresses playing the multipliers'
+  part. Both are Farkas alternatives; no result is shared.
+- **[CLAIM-538](../claims.d/CLAIM-538.md)** (tolerance compatibility on a graph holds iff no cycle's
+  holonomy exceeds its tolerances, proved by Farkas). Qualifies, by the
+  same analogy: another certificate that is a Farkas alternative.
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (frustration as an ordinal complex of jointly satisfiable
+  demands). Qualifies. Here whether constraints can be met to second
+  order depends on the whole cone of proper self-stresses, a positivity
+  condition, cardinal rather than ordinal. It sits beside the claim's
+  ordinal complex as a different layer, not as a refinement of it.
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability). Unrelated: the
+  paper's stability is local rigidity, not dynamical persistence.
+- Filed: [THEORY-tmpelyg5](../theory.d/THEORY-tmpelyg5.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **Local only**; global rigidity is distinct (§1.5).
+- **Hard to test**: second-order rigidity is a system of quadratic
+  conditions over a cone of stresses, which is why the stronger,
+  easier prestress-stability test matters.
+- **Flex extension** (Proposition 6.1.1) is proved only for independent bar
+  frameworks and only to second order; a general higher-order version
+  "seems natural", the authors say.
+- **No general replacement principle** is known for frameworks rigid by
+  other tests (Appendix A.1).
+- **This reading** skipped the proofs of the main theorem and the later
+  examples (§§5.3–5.6).
+
+## Open questions
+
+- Does every second-order flex of a framework extend to a continuous flex
+  under weaker conditions than independence of the bar subframework?

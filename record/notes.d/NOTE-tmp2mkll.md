@@ -1,0 +1,165 @@
+---
+status: Read
+paper: 'LIT-tmpl2xcp'
+title: 'Liu, Zhang and Fang — Origami spring structures fitted to 3D curves'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the publisher's open-access PDF, 12 pp., CC BY
+    4.0, https://www.nature.com/articles/s44172-023-00149-1.pdf, extracted
+    with pdftotext -layout. Read: the abstract, introduction, Results,
+    Conclusion, Methods, and the data and code statements. Skipped: the
+    Supplementary Information (the target curves' parametric equations, the
+    optimised angles in Supplementary Tables 1–4, Supplementary Discussions
+    1–2, which hold the experimental comparisons) and the video. Quotes
+    checked by string match against the extracted text.
+date: '2026-11-05'
+summary: >-
+  Virtual creases along the facet diagonals turn each cell of an origami
+  spring into a one-degree-of-freedom unit, and the chain is fitted to 3D
+  curves by optimising its folding angles: below 0.66% relative error for
+  C, J and spiral curves with full actuation. Grouping cells to share
+  actuators, two or three actuators fit those curves, a sinusoid needs
+  more, and each added actuator gains less. Kinematics only; the solutions
+  are not unique.
+---
+<!-- inactive-ok-file: THEORY-tmpzs387 CLAIM-354 CASE-194 — Proposed, and new or held; cited from the reading of Liu, Zhang and Fang (2023) as open -->
+
+# NOTE-tmp2mkll: Liu, Zhang and Fang — Origami spring structures fitted to 3D curves
+
+## Contribution
+
+A kinematic model of the origami spring's off-axis deformation, by adding
+virtual creases; an inverse-kinematics method that fits the structure's
+central axis to a 3D curve; an underactuated variant in which cells are
+grouped to share actuators; and prototypes that reproduce three of the
+fitted shapes. It gives an empirical account of the actuator-count
+trade-off.
+
+## Key insight
+
+Composition multiplies freedom, and underactuation then spends it
+selectively: "while a single cell has only one degree of freedom, an
+origami spring structure composed of multiple cells has multiple degrees of
+freedom." (p. 3). Grouping cells whose required angles are similar loses
+little accuracy, so a few actuators can reach many shapes.
+
+## Assumptions
+
+- **Kinematics only**: no stiffness, loads, gravity or friction; rigid
+  facets and ideal hinges once the virtual creases are added.
+- **The central axis stands for the structure**, the cross-section
+  ignored, with both ends pinned to the curve.
+- **Position control**: folding angles are set directly by servo-driven
+  cables, one cable per group.
+- **Underactuation as grouping**: cells sharing an actuator take the same
+  angle, a hard equality after the second optimisation step.
+
+## Key results
+
+- **Aim** (abstract, p. 1): to approximate "3D curves with an
+  underactuated scheme."
+- **Underactuation** (introduction, p. 2): "Underactuation refers to a
+  system where the number of control inputs is fewer than the degrees of
+  freedom".
+- **The approximation** (p. 3): the "deformation behaviors of the origami
+  structure after introducing into virtual creases are very close to that
+  of the non-rigid-foldable" springs. No quantitative comparison is given.
+- **Full actuation** (p. 4): "errors of the three approximations are all
+  found to be less than 0.66%" for the C, J and spiral curves; 0.60% and
+  1.81% for a sinusoid and a monkey-tail shape.
+- **Underactuated fits** (pp. 5–6): two actuators for the C and spiral
+  curves, three for the J; "the same arrangement of drivers can realize
+  multiple distinct spatial configurations". For the sinusoid a "structure
+  with only 2 actuators is insufficient for accurate approximation".
+- **Diminishing returns** (p. 6): "the rate of improvement in fitting error
+  diminishes as more independent actuators are introduced." The authors'
+  rule: add actuators one at a time and stop when the next one's reduction
+  in error falls below a threshold (10% for the curves of Fig. 4).
+- **Non-uniqueness** (p. 6): "the computed outputs for the number of
+  independent actuators and their control angles are not unique."
+- **Prototypes** (pp. 8–9): "cells near the drive end of the structure tend
+  to have smaller angles compared to the theoretical values because of the
+  influence of gravity and friction."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | With virtual creases, the origami spring's cell is a one-degree-of-freedom unit whose chain can fit 3D curves closely | moderate: the approximation is asserted, not quantified | Results, pp. 3–4 |
+| C2 | A few shared actuators suffice for simple curves; complex ones need more | moderate: four curves | pp. 5–6 |
+| C3 | Each added actuator reduces the fitting error by less | moderate: shown for the curves of Fig. 4 | p. 6 |
+| C4 | Prototypes reproduce the fitted shapes, worst near the drive end | weak to moderate: comparisons in the unread supplement | pp. 8–9 |
+
+## Concepts
+
+- **Origami spring**: two perpendicular, equal rectangular strips folded
+  alternately (p. 2).
+- **Virtual crease**: a crease along a facet's diagonal, so that facet
+  bending becomes the rotation of two triangles (p. 3).
+- **Control angle** γⱼ: the folding angle of the j-th actuated group;
+  underactuated when there are fewer groups than cells (p. 6).
+- **Relative error** e = S/R: the summed distance of the cell centres to
+  the curve over the curve's arc length (p. 4).
+
+## Connections
+
+It sets the origami spring beside other origami patterns used for
+reconfigurable structures (the Kresling, Yoshimura and origami ball
+patterns), and its method beside rigid-origami kinematics.
+
+## Bearing on the record
+
+- **The pasted synthesis on constraint architectures** lists it, as R2,
+  with the title "Approximating 3D Curves With Underactuated Origami
+  Springs". That is wrong; the title is "Approximating complex 3D curves
+  using origami spring structures", by Liu, Zhang and Fang. A attributes no
+  claim to it. It supports, in A's account, actuators as a resource whose
+  scarcity shrinks what can be reached, and the split between architecture
+  (the grouping, fixed) and operating state (the control angles, varied).
+  It does not support anything about transition paths, bottlenecks,
+  reserves, slack or budgets over time: it fits static shapes and never
+  studies moving between them. Its motive is cost and control complexity,
+  not scarcity.
+- **[CLAIM-354](../claims.d/CLAIM-354.md)** (freedom in degrees along several dimensions): A's gloss
+  calls them "several independently variable dimensions"; the claim does not say
+  independent, and what it asserts is a partial order by inclusion of what
+  can be viably reached. Supported in kind: actuated reach and simplicity
+  of actuation come apart and trade against each other.
+- **[CLAIM-025](../claims.d/CLAIM-025.md)** (regime, organization and capacity to transform persist or
+  fail separately): supports, and qualifies. A fixed grouping, the
+  organization, admits several operating shapes. Changing the grouping is
+  not studied.
+- **[CASE-194](../cases.d/CASE-194.md)** (one failure from a shared actuator setting): qualifies.
+  Sharing an actuator need not fail: grouping cells whose required angles
+  are similar loses little accuracy. Whether a shared setting fails depends
+  on how alike the demands on the coupled parts are.
+- [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md) and [THEORY-134](../theory.d/THEORY-134.md), which A cites in the same
+  part, bear on nothing in this paper. [CLAIM-345](../claims.d/CLAIM-345.md) is unrelated in content:
+  no cost of control is computed, though actuator count is a cost the paper
+  weighs.
+- Filed: [THEORY-tmpzs387](../theory.d/THEORY-tmpzs387.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The authors'**: of their rigid-folding models, "we recognize their
+  limitations in representing the flexibility of origami spring structures
+  typically made from flexible materials." (p. 9); gravity and friction distort the
+  prototypes; the optimiser's efficiency was not studied; the outputs are
+  not unique.
+- **The virtual-crease approximation is asserted, not quantified.**
+- **A heuristic**: the underactuated method is a penalty term with no
+  optimality guarantee.
+- **Three experimental curves**, with the comparisons in a supplement not
+  read here.
+
+## Open questions
+
+- How far does the virtual-crease model depart from a flexible spring
+  under load? A measurement of a paper or film spring against the model
+  would say.
+- Can a grouped structure move between two fitted shapes without passing
+  through unreachable ones? The paper does not study transitions.

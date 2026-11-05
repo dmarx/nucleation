@@ -1,0 +1,118 @@
+---
+status: Unfetched
+status_note: >-
+  searched 2026-11-04 for a lawful full text; copies exist but this client
+  could not fetch them, so it is not read and no NOTE is filed. The
+  article is CC BY. KU Leuven's Lirias holds a submitted version at
+  https://lirias.kuleuven.be/retrieve/bc923db5-0798-4af0-855a-e7cc452e3a71,
+  where the connection was reset twice (a transport failure, not a bot
+  check); the Copenhagen Business School repository holds the publisher's
+  version at
+  https://research.cbs.dk/files/84533686/peter_bogetoft_et_al_distinguishing_useful_and_wasteful_slack_publishersversion.pdf,
+  and INFORMS at https://pubsonline.informs.org/doi/pdf/10.1287/opre.2022.2415;
+  both returned HTTP 403 with a Cloudflare challenge. The owner can
+  probably fetch the CC BY PDF from CBS or INFORMS in a browser. Bogetoft
+  and Hougaard's Rational Inefficiencies, [LIT-tmpsiib1](LIT-tmpsiib1.md), read in part,
+  stands in for its premise only: slack as a rational, valued choice and
+  the organizational motives for it. It does not stand in for this paper's
+  Pareto criterion for wasteful slack, its rationalizable-cost measure or
+  its bootstrap test. It stays Unfetched until a copy is supplied.
+title: 'Distinguishing Useful and Wasteful Slack'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered on 2026-11-04 from the pasted bibliography on emergency
+    readiness, the owner's paste of 2026-11-04 written by another assistant
+    (A), which cites it as "Bogetoft & Kerstens (2022; 2024 issue) ...
+    Operations Research 72(4), 1556–1573" under rarely exercised
+    capabilities, and names it among its priorities. Citation checked by
+    the reader against Crossref and OpenAlex: Peter Bogetoft and Pieter Jan
+    Kerstens, Operations Research 72(4): 1556–1573, journal-article, DOI
+    10.1287/opre.2022.2415, CC BY per the CBS repository record; Crossref
+    record created 2022-12-28, OpenAlex publication_date 2022-12-28, and the
+    CBS record notes "Published online: 28. December 2022"; issue July 2024.
+    A's attribution is correct. No working-paper version was found in
+    OpenAlex, RePEc/EconPapers or by web search. `published:` is the online
+    date. Copies sought (see the status note): the Lirias submitted version
+    (connection reset twice), the CBS publisher's version and the INFORMS
+    PDF (Cloudflare challenges, not retried); a sibling CBS host for the same
+    file was not tried, since that would work around the challenge. Only
+    the CBS landing page, https://research.cbs.dk/en/publications/distinguishing-useful-and-wasteful-slack/,
+    was reached; the summary follows its abstract. Not read. Bogetoft and
+    Hougaard's Rational Inefficiencies (LIT-tmpsiib1) was registered and
+    read at the same time as a stand-in, at the owner's request.
+tags:
+- operations-research
+- mathematical-statistics
+- society-and-governance
+date: '2026-11-04'
+published: '2022-12-28'
+doi: '10.1287/opre.2022.2415'
+first_author: 'Bogetoft'
+keywords:
+- 'organizational slack'
+- 'rationalization'
+- 'estimation'
+- 'testing'
+- 'bootstrapping'
+implementations: []
+summary: >-
+  Bogetoft & Kerstens (online 2022; Operations Research 72(4), 2024).
+  Unverified until read: from the abstract only. Organization and
+  strategic-management studies hold that slack may be useful, as a buffer
+  against environmental shocks, to decouple organizations, to ease
+  planning and implementation, to support innovation and to respond to
+  competitors; economics tends to see it as wasteful. The paper aims to separate the two by a Pareto
+  criterion: if an organization could keep the same outputs and the same
+  slack at lower cost, the excess spending is wasteful, or
+  nonrationalizable. It measures how much of total spending can be
+  rationalized and tests the usefulness of the available slack
+  statistically by bootstrapping. Unread.
+---
+<!-- inactive-ok-file: NOTE-tmpb2xb9 THEORY-tmpj2rdc — Skimmed or Proposed and new; the partial reading of the neighbour that stands in for Bogetoft and Kerstens (2022) and the account filed from it, cited as open -->
+
+# LIT-tmpk02sl: Distinguishing Useful and Wasteful Slack
+
+Bogetoft, P. & Kerstens, P. J. (2024). Distinguishing Useful and Wasteful Slack. *Operations Research* 72(4): 1556–1573. doi:10.1287/opre.2022.2415. (Online 28 December 2022.)
+
+## Key takeaways
+
+*From the abstract on the CBS repository's record page only; unverified until read.*
+
+- **Both views.** "We acknowledge that slack may be both useful and
+  wasteful. The challenge is how to separate the two."
+- **The criterion.** "If an organization can maintain the same levels of
+  output and slack at lower cost, there is wasteful or nonrationalizable
+  spending."
+- **The method.** The authors "develop ways to measure the extent to which
+  total spending can be rationalized and show how to statistically estimate
+  and test the usefulness of the available slack using bootstrapping".
+
+## Standing in the record
+
+The pasted bibliography on emergency readiness lists it among its
+priorities, under rarely exercised capabilities, and says it "explicitly
+distinguishes useful slack from wasteful slack through an optimization
+framework." The quotation is A's paraphrase, not the paper's words. The
+abstract supports the separation of useful from wasteful slack; that it is
+done by an optimization framework cannot be checked without the text. The
+placement may be mis-aimed: by the abstract, the criterion holds outputs
+and slack fixed and asks whether they could be had more cheaply, so slack
+is valued as held, not tested for what it contributes in rare
+contingencies; a buffer against shocks appears only as one motive the
+organizational literature gives.
+
+**The stand-in.** Bogetoft and Hougaard's Rational Inefficiencies
+(2001, revised 2002; J. Productivity Analysis 2003), [LIT-tmpsiib1](LIT-tmpsiib1.md), read in
+part in [NOTE-tmpb2xb9](../notes.d/NOTE-tmpb2xb9.md). It states the premise this paper builds on: measured
+inefficiency as a rational choice of slack, valued by the organization,
+with Cyert and March's motives for slack, and a revealed-preference way of
+reading slack trade-offs from production data. It stands in for that
+premise only. It does not state this paper's Pareto criterion for wasteful
+slack, its measure of the rationalizable share of spending or its bootstrap
+test; there the useful–wasteful line is explicitly left open. Those results
+remain unread.
+
+No instruction for machine-learning practice; nothing for the anthology.

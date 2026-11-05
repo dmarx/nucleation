@@ -133,3 +133,7 @@ does.
 - **That a transition which relieves frustration is self-formation.** That
   needs a capacity that persists and serves later demands of its class
   ([CLAIM-532](CLAIM-532.md), [CASE-191](../cases.d/CASE-191.md)).
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Mirth et al. ([NOTE-tmpwvb9j](../notes.d/NOTE-tmpwvb9j.md)), from the pasted synthesis on constraint architectures, support the claim as method: sublevel-set persistent homology tracks how one energy's sublevel sets change topology with the threshold, and it is stable, "small changes to the input produce only small changes in the persistent homology". The claim's object, the nerve of several losses' acceptance sets, is a step the paper does not take, and it mentions multi-parameter persistence only in passing. Its landscapes are molecular energies, not training losses. No status changes.

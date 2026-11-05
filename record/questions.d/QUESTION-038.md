@@ -76,3 +76,7 @@ overwrite, and a way to reach it by its situation. That is a fourth
 candidate beside the three above, or a sharper form of stable identity
 and discoverability together. It is analogy, and does not answer the
 question.
+
+## Note of 2026-11-05: a mechanical counterpart asked
+
+[QUESTION-tmp9lrtl](QUESTION-tmp9lrtl.md), filed from the pasted synthesis on constraint architectures, asks when a small internally compatible subsystem biases a global organization, after Stern, Pinson and Murugan's folding islands ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)). It is narrower than this question and is not a nucleation question in the thermodynamic sense. No status changes.

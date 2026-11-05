@@ -1,0 +1,101 @@
+---
+status: Active
+status_note: >-
+  skimmed 2026-11-05 ([NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md)) from arXiv v6: the abstract, §1 with
+  both result tables, the definitions of §2 and §3 on repeated variables
+  up to the restated dichotomies read, §4 (the trichotomy proof) and §5
+  not read; worth reading as the correction of Gopalan et al. (2009),
+  [LIT-tmpxpw0i](LIT-tmpxpw0i.md): their classification overlooked constraints in which a
+  variable occurs twice, which can make navigation harder and diameter
+  exponential, so their dichotomies hold with "safely tight" sets in place
+  of tight ones, and as the proof, stated here and not read, of the
+  trichotomy they conjectured, connectivity being in P, coNP-complete or
+  PSPACE-complete. Its main limits, as far as read: Boolean domain,
+  constants allowed and single-flip moves, as in the original.
+title: 'A Computational Trichotomy for Connectivity of Boolean Satisfiability'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 in the filing of the owner's pasted
+    synthesis on resource-bounded realizability, written by another
+    assistant (A) and pasted by the owner on 2026-11-05, as the correction
+    of Gopalan et al. (2009), LIT-tmpxpw0i, which the lead, not A, added as
+    a reading of an open question A raises; A cites neither. Citation
+    checked by the reader against Crossref and the arXiv API: Konrad W.
+    Schwerdtfeger, Journal on Satisfiability, Boolean Modeling and
+    Computation 8(3–4): 173–195 (2014-06-01). The arXiv version,
+    1312.4524, v1 of 2013-12-16, is the earliest exact date and is
+    `published:` (ADR-002); v6 is of 2015-10-25. Not held before (no hit
+    for the arXiv id, the DOI, the title or the author). Copy: the arXiv
+    PDF, https://arxiv.org/pdf/1312.4524 (v6), extracted with pdftotext.
+    Later related work by the same author, not registered: "The
+    Connectivity of Boolean Satisfiability: Dichotomies for Formulas and
+    Circuits" (Theory of Computing Systems, 2017; arXiv 1312.6679) and
+    arXiv 1510.06700, both seen in abstract only.
+tags:
+- mathematics
+- operations-research
+date: '2026-11-05'
+published: '2013-12-16'
+arxiv: '1312.4524'
+doi: '10.3233/sat190097'
+first_author: 'Schwerdtfeger'
+corrects:
+- LIT-tmpxpw0i
+keywords:
+- 'computational complexity'
+- 'Boolean satisfiability'
+- 'Boolean CSPs'
+- 'PSPACE-completeness'
+- 'dichotomy theorems'
+- 'graph connectivity'
+implementations: []
+summary: >-
+  Schwerdtfeger (2014). Gopalan et al.'s classification of the
+  connectivity of Boolean solution spaces did not consider constraints in
+  which a variable occurs more than once. Such repetitions can turn a
+  relation with good component structure into one without it, so the
+  dichotomies for st-connectivity, connectivity and diameter hold with
+  "safely tight" sets, whose relations keep the property under
+  identification of variables, in place of tight ones; the boundary moves
+  slightly toward the hard side. The paper also proves the trichotomy
+  Gopalan et al. conjectured: connectivity is in P for a class called
+  CPSS, coNP-complete for the other safely tight sets and PSPACE-complete
+  otherwise (stated in §1; the proof in §4 was not read).
+---
+<!-- inactive-ok-file: NOTE-tmpwmx5d THEORY-tmpo2ib0 THEORY-tmpmcxbv — Skimmed, Proposed or new; the readings and accounts of this work and of the one it corrects, cited from the reading of Schwerdtfeger (2014) as open -->
+
+# LIT-tmp48lyf: A Computational Trichotomy for Connectivity of Boolean Satisfiability
+
+Schwerdtfeger, K. W. (2014). A Computational Trichotomy for Connectivity of Boolean Satisfiability. *Journal on Satisfiability, Boolean Modeling and Computation* 8(3–4): 173–195. doi:10.3233/sat190097. arXiv:1312.4524.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpwmx5d](../notes.d/NOTE-tmpwmx5d.md). Section and example numbers are arXiv v6's.*
+
+- **The mistake** (abstract; §1): "we correct a minor mistake in
+  [GKMP09], which leads to a slight shift of the boundaries towards the
+  hard side." "Gopalan et al. did not consider repeated occurrences of
+  variables in constraint applications."
+- **Why it matters** (§1): "repeated variables can make the problems
+  harder and the diameter exponential in some cases".
+- **The smallest example** (Example 7): {001, 110, 111} is OR-free, but
+  identifying its first two variables gives OR = {01, 10, 11}.
+- **The corrected boundary** (Definition 9; §3.2): tight becomes safely
+  tight, and Gopalan et al.'s Theorems 2.7–2.10 are restated with it.
+- **The trichotomy** (abstract; Table 2): "Connectivity is either in P,
+  coNP-complete, or PSPACE-complete"; proof in §4, not read.
+
+## Standing in the record
+
+The correction of Gopalan et al., [LIT-tmpxpw0i](LIT-tmpxpw0i.md), filed with it at the
+lead's instance. It moves the navigation boundary to depend on
+identification of variables as well as on fixing constants, which takes it
+further from the polymorphism-clone route the pasted synthesis on
+resource-bounded realizability proposes as the algebraic component of its
+theory, though inside the Horn case the trichotomy uses Post-lattice
+classes. The THEORY of Gopalan et al., [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md), carries the
+corrected boundary. Filed from this reading: [THEORY-tmpo2ib0](../theory.d/THEORY-tmpo2ib0.md), on the
+correction only. No instruction for machine-learning practice.

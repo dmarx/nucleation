@@ -383,3 +383,7 @@ can change: the allocation (which cannot remove a cycle's obstruction), the
 tolerances and offsets, and the graph (see [CLAIM-538](CLAIM-538.md)'s note of this date).
 
 No status changes.
+
+## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
+
+A's fourth paste gives the order of explanation this claim's three mechanisms sit in: processes come first, the admissible process structure second, a Yoneda profile third, since "Yoneda identifies objects within a given process structure. It doesn't explain how that process structure comes into existence." The formation, discovery and adaptation this claim separates are what A says must stay separate "if the categorical account is to add explanatory power rather than just provide a new vocabulary." No status changes.

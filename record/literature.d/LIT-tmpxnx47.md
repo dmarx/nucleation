@@ -1,0 +1,99 @@
+---
+status: Unfetched
+status_note: >-
+  not read; the lawful open-access copy (CC BY-NC-ND 4.0) located but not
+  fetched on 2026-11-05. The publisher's PDF, the open-access location
+  OpenAlex gives,
+  https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/admt.202400707,
+  returned HTTP 403 with a Cloudflare challenge page; not retried. Since
+  the work is open access, the owner may be able to open it in a browser.
+  Europe PMC has no record, and arXiv nothing by title or author; an
+  OpenAlex search for other copies was not completed, its free daily
+  budget being exhausted and a key asking for an email address. Unpaywall
+  not used, since it requires an email address. Deng et al. (2020),
+  [LIT-tmp6fzgs](LIT-tmp6fzgs.md), stands in for it on the phase-change half of its idea only:
+  a magnetically responsive phase-change composite whose frozen
+  configuration is released by melting, rewritten and refrozen, with
+  origami-like folding. It does not stand in for the actuator–structure
+  interface, for any of Yeow et al.'s results, or for their
+  demonstrations, and it is not by Yeow's group.
+title: 'Tetherless Reconfigurations at Actuator‐Structure Interfaces'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered on 2026-11-05 from the owner's pasted synthesis on FACT,
+    rigidity, compliant mechanisms and origami (the pasted synthesis on
+    constraint architectures, written by another assistant, A, in the same
+    exchange as the emergency-readiness bibliography, pasted 2026-11-04),
+    which lists it as R4, Yeow et al. 2024, Adv. Mater. Technol.,
+    doi:10.1002/admt.202400707, under origami as resource-constrained
+    reconfiguration, with no claim attributed. Citation checked against
+    Crossref and OpenAlex: Bok Seng Yeow, Yang Yang and Hongliang Ren,
+    Advanced Materials Technologies 9(24), article 2400707 (December 2024
+    issue), journal article, CC BY-NC-ND 4.0 per Crossref, hybrid open
+    access per OpenAlex; published online 6 August 2024, which is
+    `published:`. A's citation is correct. Not held before (no hit for the
+    DOI, "Tetherless" or "Yeow"). The copy located could not be fetched
+    (see the status note). At the owner's request a neighbouring work was
+    read in its place: Deng et al. (2020), LIT-tmp6fzgs.
+tags:
+- natural-sciences
+- control-theory
+date: '2026-11-05'
+published: '2024-08-06'
+doi: '10.1002/admt.202400707'
+first_author: 'Yeow'
+keywords:
+- 'tetherless reconfiguration'
+- 'actuator–structure interface'
+- 'magnetically responsive phase change materials'
+- 'origami'
+implementations: []
+summary: >-
+  Yeow, Yang & Ren (2024). Unverified until read: the summary follows the
+  abstract in the Crossref record, not the text. The paper concerns
+  remotely reconfigurable mechanisms that use magnetically responsive
+  phase-change materials as actuators and origami backbones as structure:
+  an actuator selectively attached to and detached from a structure,
+  modifying a mechanism's constraints in confined spaces, and an actuator
+  constructing an origami structure, with demonstrations including needle
+  puncture and an escape room. The pasted synthesis on constraint
+  architectures attributes no claim to it.
+---
+<!-- inactive-ok-file: THEORY-tmpj5zhj — Proposed and new; the account filed from the neighbour read in place of Yeow, Yang and Ren (2024), cited as open -->
+
+# LIT-tmpxnx47: Tetherless Reconfigurations at Actuator‐Structure Interfaces
+
+Yeow, B. S., Yang, Y. & Ren, H. (2024). Tetherless Reconfigurations at Actuator‐Structure Interfaces. *Advanced Materials Technologies* 9(24): 2400707. doi:10.1002/admt.202400707.
+
+## Key takeaways
+
+*Not read. The abstract in the Crossref record names the subject; nothing
+here about its results is verified.*
+
+- **Two ideas, by the abstract.** Magnetically responsive phase-change
+  materials as actuators, and an interface at which an actuator couples to
+  and decouples from an origami structure, changing a mechanism's
+  constraints in place and without a tether.
+
+## Standing in the record
+
+Registered from the pasted synthesis on constraint architectures, which
+lists it, as R4, under origami as resource-constrained reconfiguration and
+attributes no claim to it. The bibliographic record supports placing it
+with reconfiguration by changing constraints; whether it says anything
+about resources is unknown until it is read. It is open access under CC
+BY-NC-ND 4.0, but the publisher's site showed this client a Cloudflare
+challenge; the owner may be able to open it in a browser.
+
+**The neighbour.** Deng et al. (2020), [LIT-tmp6fzgs](LIT-tmp6fzgs.md), read in [NOTE-tmp5sqfp](../notes.d/NOTE-tmp5sqfp.md),
+stands in for the phase-change half only: a composite whose frozen magnetic
+configuration is released by melting a phase-change polymer, rewritten
+under a field and refrozen, giving different origami-like shapes. It does
+not carry the actuator–structure interface, the attaching and detaching of
+an actuator, the changing of a mechanism's constraints in a confined space,
+or an actuator building an origami structure; and its rewriting is done by
+an external laser, not tetherlessly in place. The account filed from it,
+[THEORY-tmpj5zhj](../theory.d/THEORY-tmpj5zhj.md), is Deng et al.'s, not Yeow et al.'s.

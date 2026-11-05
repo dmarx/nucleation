@@ -100,3 +100,7 @@ larger budget or a composite policy, as here.
 
 It is a variant, not a new construction. Its use is [CLAIM-553](../claims.d/CLAIM-553.md).
 No status changes.
+
+## Note of 2026-11-05: the constraint-architecture readings
+
+Stern et al. ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)), from the pasted synthesis on constraint architectures, support the case's use as the combinatorial twin of a frustrated loop of origami vertices: every open chain of 4-vertices has a zero-energy branch assignment and closing the loop removes it, as here every pair of demands is satisfiable and the triple is not. The minimal mechanical loop has four vertices, not three, and the designed branch is jointly realizable, so the parallel is with the distractor branches, not the target. The paper has nothing answering to the case's relief by a new composite policy. No status changes.

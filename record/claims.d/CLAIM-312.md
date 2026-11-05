@@ -55,6 +55,7 @@ summary: >-
   [CLAIM-306](CLAIM-306.md)'s Bayes term, and it matters when the statement is passed to
   someone who will act on presence.
 ---
+<!-- inactive-ok-file: NOTE-tmpxzaki NOTE-tmpy7mc8 NOTE-tmpdnqqh LIT-tmpum63p LIT-tmpt3a4i LIT-tmpjzyct — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
 
 # CLAIM-312: "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default
 
@@ -160,3 +161,7 @@ itself partly an outcome of political and organizational decisions".
 [TERM-085](../terms.d/TERM-085.md) is the availability. A10 declined to file its own claim
 candidate, "since this is substantially an application of [CLAIM-296](CLAIM-296.md)",
 and so does this filing.
+
+## Note of 2026-11-04: the emergency-service location models, read through neighbours (Larson and Odoni; de Oliveira, de Sá and Martins; Mukhopadhyay et al.)
+
+In the hypercube model ([NOTE-tmpxzaki](../notes.d/NOTE-tmpxzaki.md)) and in MEXCLP and MALP as restated by de Oliveira, de Sá and Martins ([NOTE-tmpy7mc8](../notes.d/NOTE-tmpy7mc8.md)) and Mukhopadhyay et al. ([NOTE-tmpdnqqh](../notes.d/NOTE-tmpdnqqh.md)), a busy unit is operationally unavailable to a call without being absent, and the busy fraction is computed or estimated from demand. That is a special case of the claim with no search or retrieval component, under the independence assumptions the models make. It leaves open whether failures of retrieval behave like congestion. No status changes.

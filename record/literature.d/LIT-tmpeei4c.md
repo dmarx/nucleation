@@ -1,0 +1,119 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md)) from the publisher's open-access
+  PDF on Dagstuhl's LIPIcs site; worth reading as the categorical
+  foundation for quantitative resource theories: conversions enriched in a
+  commutative quantale, whose monoid combines the costs, probabilities or
+  connection strengths of successive steps and whose join picks the best
+  alternative, with costly conversions as profunctors and closure under
+  composition as a free internal monad (reflexive–transitive closure). Its
+  main limits: one quantale per theory, so a product of quantities keeps
+  only componentwise optima; static resources; proofs sketched. Probably,
+  not certainly, the Oxford University Research Archive item the pasted
+  synthesis cites; ORA itself could not be searched (Cloudflare).
+title: 'Quantitative Foundations for Resource Theories'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    resource-bounded realizability (written by another assistant, A, in
+    the same exchange as the emergency-readiness bibliography, pasted
+    2026-11-04), whose Response 3 §2 links "Lawvere-style metric
+    enrichment" and "more general ordered monoidal structures" to "Oxford
+    University Research Archive+1" without naming a work. The
+    identification is probable, not certain. For: both authors are at the
+    University of Oxford; one web search returned an ORA record,
+    https://ora.ox.ac.uk/objects/uuid:ed499d6f-a295-4bbb-8171-553d39b525c6,
+    given by the search summary as this paper; and the paper is enriched
+    category theory for resource theories, opening from Lawvere (1973) and
+    parameterized by the composition law. Against: the ORA record could not
+    be opened, and ORA could not be searched (https://ora.ox.ac.uk/?q=...
+    returned HTTP 403 with a Cloudflare challenge; not retried), so another
+    ORA item, such as an Oxford thesis, cannot be excluded; "+1" means A
+    had a second, unknown source. OpenAlex was unavailable (rate limit).
+    Citation checked against DataCite, the DOI registrar for LIPIcs: Dan
+    Marsden and Maaike Zwart, 27th EACSL Annual Conference on Computer
+    Science Logic (CSL 2018), LIPIcs 119, article 32, pp. 32:1–32:17, eds.
+    Dan Ghica and Achim Jung, Schloss Dagstuhl, conference paper, CC-BY,
+    doi:10.4230/LIPIcs.CSL.2018.32, available 2018-08-29, which is
+    `published:`. No arXiv version checked. Not held before. Copy:
+    https://drops.dagstuhl.de/storage/00lipics/lipics-vol119-csl2018/LIPIcs.CSL.2018.32/LIPIcs.CSL.2018.32.pdf,
+    17 pp., extracted with pdftotext. Status set to Active.
+tags:
+- mathematics
+- operations-research
+date: '2026-11-05'
+published: '2018-08-29'
+doi: '10.4230/LIPIcs.CSL.2018.32'
+first_author: 'Marsden'
+keywords:
+- 'resource theories'
+- 'enriched category theory'
+- 'quantale'
+- 'profunctor'
+- 'internal monad'
+- 'Lawvere quantale'
+- 'reflexive transitive closure'
+implementations: []
+summary: >-
+  Marsden & Zwart (CSL 2018). "We present a categorical foundation for
+  quantitative resource theories, derived from enriched category theory."
+  Conversions are enriched in a commutative quantale Q: "The monoid
+  structure allows us to combine quantities across the different steps of
+  a process or algorithm", and "The join semilattice structure is then an
+  optimizer." The Lawvere quantale ([0, ∞], inf, +) gives costs, the
+  interval quantale with min connection strengths, the multiplicative one
+  success probabilities. Free conversions are the base Q-categories,
+  costly ones Q-profunctors; five free constructions (monoidal, symmetric,
+  deleting, copying, cartesian) give comonads for many-to-one conversions,
+  and every endomorphism generates a free internal monad by
+  reflexive–transitive closure.
+---
+<!-- inactive-ok-file: THEORY-tmpzax66 CLAIM-tmpbi4ca CLAIM-tmpuk8gq — Proposed or new; cited from the reading of Marsden & Zwart (2018) as open -->
+
+# LIT-tmpeei4c: Quantitative Foundations for Resource Theories
+
+Marsden, D. & Zwart, M. (2018). Quantitative Foundations for Resource Theories. In D. Ghica & A. Jung (eds.), *27th EACSL Annual Conference on Computer Science Logic (CSL 2018)*, LIPIcs 119: 32:1–32:17. doi:10.4230/LIPIcs.CSL.2018.32.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md). Section and example numbers are the
+paper's.*
+
+- **Costs on conversions, not on resources.** "In this paper we are
+  interested not in quantifying the resources themselves, but in adding
+  the ability to provide quantitative data about the conversions that can
+  take place" (§1).
+- **A quantale per theory** (§2.1). Its monoid combines successive steps;
+  its join "is then an optimizer". "The Lawvere quantale L has underlying
+  set the extended positive reals [0, ∞] with the join semilattice
+  structure given by infima and the monoid structure given by addition of
+  real numbers" (Example 4); for it "A(a, b) can be seen as the cost of
+  converting a to b" (Example 9).
+- **Other laws.** In the interval quantale "a composite connection is only
+  as good as its weakest link" (Example 8).
+- **Closure** (§3; Proposition 37, Corollary 38). "an internal monad
+  captures closure under repeated application of the available
+  conversions", and every endomorphism yields a free one by
+  reflexive–transitive closure, the generalized shortest-path closure.
+- **Against Coecke, Fritz & Spekkens** (§1): their quantitative elements are
+  "ad-hoc", and they fix the structural aspects of resources "once and for
+  all".
+
+## Standing in the record
+
+Probably the Oxford item behind the pasted synthesis on resource-bounded
+realizability's "Lawvere-style metric enrichment", and exactly the
+territory A names: monoidal resource theories enriched in an ordered
+monoidal base. It supplies what Coecke, Fritz & Spekkens ([LIT-tmp5jynk](LIT-tmp5jynk.md))
+leave open, costs on conversions, and its quantale condition is the
+precision A's "ordered monoidal structures" lacks. A's peak-capacity law is
+not among its examples but is an instance (the reader's check,
+[NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md)), and its closure gives [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s threshold; its
+one-quantale-per-theory design is why a product of peak and expenditure
+loses [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)'s frontier. A's "resource-graded process category" is
+not this paper's notion but a graded category. Filed from it:
+[THEORY-tmpzax66](../theory.d/THEORY-tmpzax66.md).

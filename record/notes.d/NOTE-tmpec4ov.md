@@ -1,0 +1,203 @@
+---
+status: Skimmed
+paper: 'LIT-tmpxpw0i'
+title: 'Gopalan et al. — The connectivity of Boolean satisfiability'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Skimmed on 2026-11-05 from the arXiv PDF
+    (https://arxiv.org/pdf/cs/0609072, v2 of 2007-10-03), 23 pages,
+    extracted with pdftotext -layout. Registered at the lead's instance,
+    not A's: the pasted synthesis on resource-bounded realizability does
+    not cite it, and it was added as a reading of an open question A
+    raises. Read in full: the abstract, §1, §2 (all definitions, Theorems
+    2.3–2.10, the results table and the trichotomy conjecture), §3.1
+    (faithful expressibility; Definition 3.1, and the statements of Lemma
+    3.2 and Corollary 3.3), §4.1 (Lemmas 4.1–4.2 with proofs), §4.2 (Lemma
+    4.3, Corollaries 4.4, 4.6 and 4.7, Lemma 4.5, with proofs), the
+    statements of §4.3 (Lemma 4.8, Definitions 4.11–4.12) and §5. Skimmed:
+    the proof of the Faithful Expressibility Theorem in §3.2, the
+    PSPACE-hardness for 3-CNF and the exponential-diameter construction in
+    §3.3, and the proofs of Lemmas 4.8–4.13. Not compared: the SIAM
+    version, which differs at least in calling Definition 3.1 "structural"
+    expressibility, as Schwerdtfeger quotes it. The extraction renders
+    small capitals with a space; statements containing them are
+    given unquoted. Read alongside Schwerdtfeger's correction, LIT-tmp48lyf.
+date: '2026-11-05'
+summary: >-
+  Classifies, by the constraint language alone, how hard it is to tell
+  whether two solutions of a Boolean CNF(S)-formula with constants are
+  joined by single-variable flips through solutions. For tight languages
+  st-connectivity is in P, connectivity in coNP and diameter linear;
+  otherwise both are PSPACE-complete and diameter can be 2^Ω(√n). Tight
+  properly contains Schaefer, and the boundary cuts across Boolean clones.
+  The hard side, read only in outline, is slightly wrong as stated:
+  Schwerdtfeger moves it to "safely tight".
+---
+<!-- inactive-ok-file: NOTE-tmpwmx5d THEORY-tmpmcxbv CLAIM-tmp9jvpb CLAIM-tmpbi4ca TERM-tmp26wo4 — Skimmed, Proposed or new; cited from the reading of Gopalan et al. (2009) as open -->
+
+# NOTE-tmpec4ov: Gopalan et al. — The connectivity of Boolean satisfiability
+
+## Contribution
+
+Work on random SAT had tied the hardness of satisfiability heuristics to
+the connectivity of the solution space; "our work seems to be the first to
+explore this issue from a worst-case viewpoint" (§1). It gives the first
+classification, over Schaefer's framework of Boolean constraint languages,
+of the complexity of st-connectivity and connectivity of the solution
+graph and of the diameter of its components, and shows that the boundary
+is a new one (tightness), not Schaefer's.
+
+## Key insight
+
+Navigating a solution space is governed by the constraint language, but by
+a different boundary from finding a solution. What matters is the shape of
+each relation's components in the hypercube (one minimum, one maximum, or
+distances that never expand), and the hard side comes from an
+expressibility that keeps graph structure, not only the set of solutions.
+
+## Assumptions
+
+- Boolean domain; finite sets of relations; constants 0 and 1 allowed in
+  constraints (the case without constants is left open for connectivity).
+- Adjacency is Hamming distance one: single-variable flips. No other move
+  set is considered.
+- Worst-case complexity; random instances motivate but are not analysed.
+- Repeated variables within one constraint were not considered, which is
+  the gap Schwerdtfeger later found ([LIT-tmp48lyf](../literature.d/LIT-tmp48lyf.md)).
+
+## Key results
+
+- **Theorems 2.9 and 2.8** (§2): if S is tight, ST-CONN(S) is in P (linear
+  time, §1), otherwise PSPACE-complete; if S is tight, CONN(S) is in coNP,
+  otherwise PSPACE-complete. Tight and not Schaefer makes CONN(S)
+  coNP-complete (Lemma 4.8).
+- **Theorem 2.10 and the abstract**: diameter linear for tight sets,
+  exponential for some formulas otherwise; "small diameter and
+  tractability of the st-connectivity problem are remarkably aligned."
+- **Faithful expressibility** (abstract, Theorem 2.7): in tractable cases
+  the solution subgraphs have good structure, "whereas in the intractable
+  cases," "the subgraphs can be arbitrary": every relation is faithfully
+  expressible from a non-tight set.
+- **Not the clone method** (§1): Schaefer's theorem can be proved through a
+  Galois connection and Post's lattice of clones. "This method, however,
+  does not appear to apply to connectivity, as the boundaries discovered
+  here cut across Boolean clones." "Thus, the use of faithful
+  expressibility or some other refined definability technique seems
+  unavoidable."
+- **Polymorphisms reach one way** (Lemma 4.1): if R is closed under an
+  idempotent operation α, "then every connected component of G(R) is
+  closed under α." Lemma 4.2 uses it to put every Schaefer set inside a
+  tight class; "These containments are proper."
+- **Both directions** (§2): for S = {R1/3}, positive 1-in-3 SAT, "This set
+  is tight (actually, it is componentwise bijunctive), but not Schaefer":
+  SAT(S) is NP-complete, ST-CONN(S) in P and CONN(S) coNP-complete. For
+  S = {RNAE}, positive NAE-3SAT, SAT(S) is NP-complete and both
+  connectivity problems are PSPACE-complete.
+- **Negative for heuristics** (§1): "we show that when satisfiability is
+  intractable, then connectivity is also intractable", in the sense that
+  for every non-Schaefer language CONN(S) is coNP-complete or
+  PSPACE-complete, though ST-CONN(S) stays in P for the tight ones.
+- **Conjecture** (§2): the authors conjecture that the complexity of
+  CONN(S) "exhibits a trichotomy" (P, coNP-complete, PSPACE-complete). An earlier
+  conjecture, that Schaefer implies CONN in P, was disproved by Makino,
+  Tamaki and Yamamoto with a Horn relation.
+- **Open** (§5): "the complexity of connectivity for CNF(S)-formulas
+  without constants is open."
+
+## Concepts
+
+- **Solution graph G(φ)**: the subgraph of the hypercube induced by the
+  solutions of φ (§2).
+- **Componentwise bijunctive**: every connected component of G(R) is
+  bijunctive (Definition 2.5).
+- **OR-free, NAND-free**: OR (or NAND) cannot be obtained from R by fixing
+  coordinates to constants.
+- **Tight set**: all relations componentwise bijunctive, or all OR-free,
+  or all NAND-free (Definition 2.6). Testable in cubic time.
+- **Faithful expressibility** (Definition 3.1): R = {a | ∃y φ(a, y)}, with
+  the witnesses of each a connected and adjacent a, b sharing a witness.
+
+## Connections
+
+It builds on Schaefer's dichotomy for satisfiability, on Creignou, Khanna
+and Sudan's refinements, and on the random-SAT work on clustering and
+survey propagation that motivates it. Ito et al. ([LIT-tmpujl75](../literature.d/LIT-tmpujl75.md), read in
+[NOTE-tmpmqj4b](NOTE-tmpmqj4b.md)) quote its polynomial cases and reduce from its
+PSPACE-completeness. Schwerdtfeger ([LIT-tmp48lyf](../literature.d/LIT-tmp48lyf.md), read in [NOTE-tmpwmx5d](NOTE-tmpwmx5d.md))
+corrects its boundary to safely tight and proves the trichotomy it
+conjectures.
+
+## Bearing on the record
+
+- **A's open question** (the pasted synthesis on resource-bounded
+  realizability): "could the algebra of a constraint language predict
+  something about the complexity of navigating its solution space?" A does
+  not cite this work; the lead added it. It answers in part.
+  - **Yes, for Boolean languages with constants and single flips**: the
+    language alone fixes st-connectivity as P or PSPACE-complete,
+    decidably, aligned with linear against exponential diameter.
+  - **But the boundary cuts across Boolean clones.** A's algebraic
+    component is the Pol–Inv Galois connection, the theory of
+    polymorphisms. By the authors' account the boundaries they found "cut
+    across Boolean clones", so the polymorphism clone of a language does not
+    decide its navigation complexity; the classifying properties are
+    conditions on components of the solution graph and on what fixing
+    constants gives. Schwerdtfeger's correction makes the boundary depend on
+    identifying variables too, further from the clone route. For CONN, the
+    trichotomy does use Post-lattice classes (IHSB) inside the Horn case,
+    so algebra is partly relevant there.
+  - **Polymorphisms predict one direction**: by Lemma 4.1 every
+    Schaefer-easy language is also easy to navigate.
+  - **Finding and navigating come apart in both directions**: positive
+    1-in-3 SAT is NP-complete to satisfy and in P to navigate; positive
+    NAE-3SAT, NP-complete to satisfy too, is PSPACE-complete to navigate.
+    That is A's point that compatibility equivalence does not imply
+    computational equivalence, as an exact instance, and A's claim that
+    reconfiguration complexity "can differ dramatically even for closely
+    related constraint systems" is best supported here: two ternary Boolean
+    relations, both NP-complete to satisfy, with opposite navigation
+    complexity.
+  - **Not answered**: non-Boolean domains, where the Bulatov–Zhuk theorem
+    lives; other move sets; reachability under resource budgets;
+    average-case behaviour.
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (the compatibility complex of demands): qualifies. The
+  complex records which demands are jointly satisfiable; two languages
+  with the same satisfiability complexity can have opposite navigation
+  complexity, so a satisfiability-level object cannot carry navigation
+  complexity. The reader's inference.
+- **[CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md)** (feasible, reachable, reliably reachable): supports.
+  G(φ) can be disconnected, and deciding whether one feasible solution
+  reaches another is PSPACE-complete for languages that are not tight.
+- **[QUESTION-tmp5bi3h](../questions.d/QUESTION-tmp5bi3h.md)** (can adding, removing or reassigning constraints
+  change the dimension or connectivity of the feasible response space?): a
+  partial answer, in the Boolean setting. Adding one relation type that is
+  not tight to a tight language turns navigation from P to PSPACE-complete
+  and allows exponential diameter. That is a change of constraint
+  vocabulary, not of one instance.
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)** (the bottleneck threshold): related, different. There
+  is no resource here, but exponential diameter means a path can be
+  exponentially long when it exists, a time cost along paths;
+  [TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)'s cumulative expenditure is the nearest type.
+- Filed: [THEORY-tmpmcxbv](../theory.d/THEORY-tmpmcxbv.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- Skimmed: the proofs of the hard side (§3.2–3.3) and of Lemmas 4.8–4.13
+  were not checked, and the SIAM version was not compared.
+- The boundary as stated is slightly wrong: repeated variables in
+  constraints were not considered (Schwerdtfeger); the corrected classes
+  are safely tight.
+- The authors leave open the trichotomy for CONN in the Horn cases, CONN
+  without constants, and whether the 2^Ω(√n) diameter bound improves to
+  2^Ω(n).
+- Boolean domain and single-flip adjacency only.
+
+## Open questions
+
+- Does a navigation dichotomy hold for finite non-Boolean constraint
+  languages, and if so by what property?
+- Does any algebraic invariant finer than the clone (one that sees
+  identification of variables) decide the boundary?

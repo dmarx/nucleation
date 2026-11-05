@@ -26,7 +26,13 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **Separate the voices.** The owner's turns are the owner's. An
   assistant's turns, and anything pasted from another assistant, are that
   assistant's. The owner did not write them and has not endorsed them
-  unless the owner says so.
+  unless the owner says so. The filing assistant's own ideas are a third
+  voice, kept apart from both (step 12).
+- **Keep the source whole.** Save it verbatim to the scratchpad, and point
+  every reader and drafter at that file. A condensation written for a
+  brief is the lead's own text. Label it so and keep it in a separate
+  file. Never check a quotation against it: a phrase the lead wrote about
+  the source is not a phrase the source used.
 
 ## 2. Check against the record before filing anything
 
@@ -36,8 +42,14 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **For every idea the source states**, search claims, theories, questions,
   cases and terms by its key words. Then read the nearest entries' titles,
   not just whether they matched.
-- **Build the map**: each section or turn of the source, against the codes
-  that already hold it. Most of a synthesis is usually already held. The
+- **List the source's own ideas, section by section.** A synthesis carries
+  constructions, worked examples, distinctions, taxonomies, tables and
+  proposed entries as well as references. Readers cover the references;
+  nothing covers the rest unless the lead lists it. Write the list (an idea
+  ledger) before briefing anyone. A drafter handed a short candidate list
+  files that list and nothing else.
+- **Build the map**: each section or turn of the source, and each item of
+  the ledger, against the codes that already hold it. Most of a synthesis is usually already held. The
   map is the main deliverable of an "is this on the record" request.
 - **Check again after reading.** The first search can only use the
   source's own words. Reading surfaces more: the construction it rebuilds,
@@ -85,6 +97,22 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   - **Unavailable** (ADR-041): no lawful copy was found. The status note
     says where you looked.
 - **A copy the owner supplies** returns any of these to reading.
+- **When the work itself can't be read, read its neighbours.** Find
+  accessible literature that carries the same ideas, and read the best one
+  or two. That might be:
+  - a later open-access paper or survey that restates the model;
+  - the authors' own working paper or thesis;
+  - lecture notes or a textbook chapter its author posts openly;
+  - an arXiv paper that re-derives the result.
+
+  The same rules apply: lawful copies only, and stop at any bot check.
+  Check the record doesn't already hold the neighbour.
+- **Filing a neighbour.** It is a work in its own right, with a LIT, a NOTE
+  and a THEORY. Its history says it was registered as a stand-in.
+  - The unread original's LIT names the neighbour in its status note and
+    in "Standing in the record", and says how far it stands in.
+  - The neighbour's NOTE says, under Connections, which of the original's
+    results it restates and which it doesn't.
 
 ## 6. Read
 
@@ -153,6 +181,12 @@ not a finding.
 
 ## 10. Account for everything
 
+**Before writing it, reread the source end to end yourself**, from the
+verbatim file, against the ledger and the codes filed. Agents' reports
+say what they filed, not what they were never asked to file. Every item
+must end up in one of three places: filed, mapped to a held code, or
+listed as left with a reason.
+
 Write a curation entry (`luria new curation`) with three parts:
 
 - **where the record already held it**: the map from step 2;
@@ -175,6 +209,35 @@ Nothing in the source is dropped silently. Add a changelog fragment
   with `luria.ref_status.scan(files=...)`, is fine for diagnosis.
 - **Commit and push each step.** Pull before every push, because CI's
   repair lands as its own commit.
+
+## 12. Offer your own contributions
+
+When the filing is done, the lead has read across all of it, which no
+reader or source has. Say what that suggests, and offer it to the owner
+before filing anything.
+
+- **Look for what only the whole shows.** Promising places are where two
+  sources' constructions join into a result neither states, where several
+  readings point the same way, where every reading shares an assumption
+  (who supplies a capacity, which quantity is held fixed), and where the
+  filing rests mostly on analogy and needs a test.
+- **Offer, then file.** List the ideas in the reply, ranked by how far
+  you would stand behind each. Say which are demonstrated, which are
+  hypotheses, and what each would cost to check. File only what the owner
+  accepts.
+- **The assistant's voice is a third voice**, beside the owner's and the
+  source's. File these ideas as `Proposed`, and end each summary "The
+  wording is the assistant's (Claude, in this session); adopting it is the
+  owner's call."
+- **Hold them to the record's standards.**
+  - Check any proof or worked number yourself, with `python3 -I` where it
+    computes.
+  - A hypothesis says what would defeat it, including the objection that
+    it only restates an entry the record already holds.
+  - A proposed test goes on the question it would answer, as a dated
+    note.
+- **The curation entry gets a section** listing them, and the changelog
+  fragment a line.
 
 ## The reader's brief
 
@@ -202,5 +265,9 @@ Send each reader:
   of art it turned out to involve, not only the words the source used.
   Report each held entry the first search missed, and correct any "not
   held" verdict it overturns.
-- **And**: if no lawful full text is reached, say so and stop. Write
-  nothing from memory.
+- **Neighbours.** If no lawful full text of the work is reached, find and
+  read accessible neighbouring literature that carries the same ideas
+  (step 5), and write a report for each in the same format. In the work's
+  own report, say which neighbour stands in for it and how far.
+- **And**: if neither the work nor a neighbour is reached, say so and
+  stop. Write nothing from memory.

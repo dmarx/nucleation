@@ -1,0 +1,182 @@
+---
+status: Skimmed
+paper: 'LIT-tmpbit9m'
+title: 'Gerardi and Maestri — Dynamic contracting with limited commitment and the ratchet effect'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Read in part on 2026-11-04, registered at the owner's request as a
+    stand-in for the unread Freixas, Guesnerie and Tirole (1985),
+    LIT-tmpfzy5q. Copy: the publisher's open-access PDF at econtheory.org
+    (https://econtheory.org/ojs/index.php/te/article/viewFile/20200583/27018/778),
+    41 pages, CC BY-NC 4.0, journal pagination 583–623. Text extracted by
+    pdftotext. Read: the abstract, §1 (pp. 583–587), §2 the model, §3 the
+    commitment allocation, §4 existence and learning, the statements and
+    discussion of §5 (Definitions 2–3, Propositions 2–3, Lemmas 4–6 as
+    stated), the opening of §6 on rehiring with Proposition 4 and Lemma 7,
+    and §7. Skipped: the proofs in §5, Appendix A (proof of Proposition 1)
+    and the other appendices; the Supplemental Material (proofs of Lemma 3
+    and Proposition 4) was not opened. The reference list was scanned.
+    Skimmed because the proofs were not read.
+date: '2026-11-04'
+summary: >-
+  A firm can offer a worker with a persistent private cost only one-period
+  menus over a potentially infinite horizon; the worker may quit for good.
+  Revealing a low cost forfeits future rent (the ratchet effect). Impatient
+  parties still allow full learning for any prior; above a patience
+  threshold separation with both types employed is impossible; as patience
+  tends to one the outcome is unique, pooling forever with no learning
+  below a prior threshold and firing the high-cost worker above it, both
+  inefficient. With rehiring, a folk theorem restores near-commitment
+  payoffs.
+---
+<!-- inactive-ok-file: LIT-tmpfzy5q THEORY-tmp6sg3n THEORY-067 LIT-1389 — Unfetched or Proposed, or new; the original this stands in for, the account filed from it, and analogous held entries, cited from the reading of Gerardi and Maestri (2020) as open -->
+
+# NOTE-tmpoec9n: Gerardi and Maestri — Dynamic contracting with limited commitment and the ratchet effect
+
+## Contribution
+
+The paper takes the limited-commitment ratchet literature, which it
+describes as "pioneered by Freixas et al. (1985), Gibbons (1987), and
+Laffont and Tirole (1987, 1988)" (p. 585), from two periods to an infinite
+horizon. There, unlike the gradual revelation of the two-period models,
+patient parties end with no learning at all or with immediate firing, and
+limited commitment widens the set of priors at which the high-cost worker
+is fired.
+
+## Key insight
+
+When the firm, once it knows the type, can always hold the worker to his
+reservation wage (Lemma 1 bounds the firm's continuation payoff below by
+that), a low-cost worker who reveals himself loses every future period's
+rent. The longer and more patient the relationship, the larger that loss,
+until no contract both types stay on can separate them: the firm is left to
+pool and learn nothing, or to drive the high type out.
+
+## Assumptions
+
+- **Types.** Two persistent costs θ_L < θ_H with a known prior; cost linear
+  in quality; the firm's value v(q) increasing and strictly concave,
+  v(0) = 0; transferable utility.
+- **Participation.** A per-period participation cost α > 0, read as an
+  outside option; §7 says the results extend to α = 0.
+- **Contracts.** One-period menus of at most M ≥ 2 (transfer, quality)
+  pairs; quality verifiable, so no moral hazard; quitting irreversible in
+  the benchmark; a common discount factor δ.
+- **Equilibrium.** Perfect Bayesian, with the condition that "the firm does
+  not revise its belief after proposing a menu." (p. 589). Existence only
+  for generic parameters (Proposition 1).
+
+## Key results
+
+Page numbers are the journal's.
+
+- **The ratchet (abstract, p. 583).** "The ratchet effect is in place since
+  the firm has the incentive to change the terms of trade and offer more
+  demanding contracts when it learns that the worker is highly productive."
+- **Commitment benchmark (§3, p. 590).** "It is well known that the
+  solution to the firm’s commitment problem is to replicate the optimal
+  static mechanism".
+- **Impatience (§1, p. 584; §4, Corollary 1).** "We show that when the
+  discount factor is not too high, the firm is able to extract the worker’s
+  private information independently of the value of the prior", by
+  sequential screening at low priors and firing at high ones.
+- **Patience rules out separation with employment (§4, Lemma 3).** For δ
+  above δ̂ = 1/(1 + q*_H), no menu is taken by each type separately with
+  both staying employed; "for sufficiently large values of δ, the firm can
+  learn the worker’s cost only by firing the high type." (p. 595). Lemma
+  3's proof was not read.
+- **The patient limit (abstract, p. 583; §5, Propositions 2–3).** "If the
+  prior probability of the worker being productive is low, the firm offers
+  a pooling contract and no information is ever revealed. In contrast, if
+  this prior probability is high, the firm fires the unproductive worker at
+  the beginning of the relationship." "In both cases, the limiting
+  equilibrium allocation is inefficient." (p. 584). The proofs were not
+  read.
+- **Limited commitment widens firing (§5, fn. 14, p. 595).** "limited
+  commitment enlarges (in the limit, as δ goes to 1) the region of beliefs
+  for which the equilibrium allocation is firing."
+- **Rehiring (§1, p. 586; §6, Proposition 4).** With rehiring, any
+  incentive-compatible and strictly individually rational payoffs are
+  equilibrium payoffs for δ near one: "Our findings suggest that rehiring
+  is another possible remedy to the ratchet effect." The proof, in the
+  Supplemental Material, was not opened.
+
+## Concepts
+
+- **Ratchet effect**: the firm's incentive "to change the terms of trade
+  and offer more demanding contracts" once it learns the worker is
+  productive (abstract).
+- **Pooling allocation**: one contract at the high type's efficient quality
+  and reservation wage, every period, accepted by both types (p. 593).
+- **Firing allocation**: one contract at the low type's efficient quality
+  and reservation wage; the high type quits in the first period (p. 593).
+- **Sequentially screening allocation**: two-contract menus while beliefs
+  are non-degenerate, the low type taking the second with positive
+  probability (p. 593).
+- **Separation with firing, separation with employment** (pp. 591–592);
+  **firing and pooling regions**, the beliefs on which the patient limit is
+  firing or pooling (Definitions 2–3).
+
+## Connections
+
+- **What it restates of Freixas, Guesnerie and Tirole (1985),
+  [LIT-tmpfzy5q](../literature.d/LIT-tmpfzy5q.md).** Only the phenomenon and the setting: a principal who
+  cannot commit to future terms revises them on what performance reveals,
+  so a productive agent mimics an unproductive one, and screening suffers.
+  It names that paper once (p. 585), among the two-period papers, and
+  credits the group jointly with the finding that "there is partial
+  separation of the agent’s types in the first period (i.e., the
+  equilibrium is semipooling) and full separation in the second and final
+  period." That is its summary of a literature, not a statement of that
+  paper's theorem, and it could not be checked against it.
+- **What it does not restate.** That paper's planner and firm, the form of
+  its incentive schemes, and its result, per its abstract, that the planner
+  chooses a statically suboptimal scheme with the marginal price of output
+  above its static value. None of these can be cited from this paper.
+- **Its own model differs**: an infinite horizon, menus of short-term
+  contracts, a two-type worker with a quit option, and limits as δ → 1.
+- It also builds on Gibbons (1987) and Laffont and Tirole (1987, 1988) for
+  the two-period ratchet, and on the durable-goods monopoly literature, which
+  it sets beside its own (p. 586).
+
+## Bearing on the record
+
+- **As a stand-in for the pasted bibliography's item on Freixas,
+  Guesnerie and Tirole.** It supports filing the ratchet effect under
+  budgeting, ratchets and incentives, and adds what A lacks: in a long
+  relationship the ratchet can stop learning altogether (pooling) or make
+  the principal end the relationship (firing), not just distort output,
+  and it is undone if the relationship can be resumed. It is about a labour
+  relationship, not planning or budgeting, and has nothing on capabilities
+  kept for rare events; carrying it to A's proposition, that measuring
+  maintained abilities by use can destroy them, is an analogy.
+- **[CASE-128](../cases.d/CASE-128.md) (the voluntary delegation), with [LIT-586](../literature.d/LIT-586.md), [THEORY-067](../theory.d/THEORY-067.md) and
+  [LIT-1389](../literature.d/LIT-1389.md).** Qualifies, by analogy. Those concern one agent unable to
+  commit over time; here a principal cannot commit to future terms. The
+  structure is shared: limited commitment makes revealed information
+  costly to the party who reveals it. The parties differ.
+- **[CLAIM-357](../claims.d/CLAIM-357.md) and [CLAIM-365](../claims.d/CLAIM-365.md) (governance regret).** Qualifies, loosely.
+  Both concern a governor revising what it asks of others; the ratchet
+  adds a subordinate who anticipates the revision, which those claims do
+  not have.
+- **[LIT-1330](../literature.d/LIT-1330.md) (rankings and reactivity) and [LIT-1336](../literature.d/LIT-1336.md) (performative
+  prediction).** Qualify, as accounts of measured parties reacting to how
+  the measurement will be used; neither has the strategic hiding motive.
+- **[TERM-055](../terms.d/TERM-055.md), [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md)**: unrelated.
+  [QUESTION-132](../questions.d/QUESTION-132.md) asks about specialists with positive growth when rare, not
+  A's gloss.
+- Filed: [THEORY-tmp6sg3n](../theory.d/THEORY-tmp6sg3n.md). Nothing for the anthology.
+
+## Limitations
+
+- **The authors'.** Quality is verifiable, and moral hazard is left "for
+  future research" (§7); existence holds only for generic parameters
+  (Proposition 1); two types only.
+- **Limits.** The main results hold as δ → 1.
+- **Irreversible quitting drives the pessimism**, as §6 shows.
+- **Proofs not checked.** §5, the appendices and the Supplemental Material
+  were not read; the statements are taken as given.
+- **A labour relationship**, not planning or budgeting.

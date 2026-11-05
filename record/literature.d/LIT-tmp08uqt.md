@@ -1,0 +1,108 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 ([NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md)) from the scanned IEEE PDF in
+  CaltechAUTHORS, the first author's institutional repository; worth
+  reading as the standard constructive account of steering nonholonomic
+  systems, for how it rewrites velocity constraints as the directions a
+  system can move in, recovers the forbidden directions as Lie brackets
+  reached only by cycling the inputs, and steers chained systems with
+  sinusoids at integrally related frequencies. Its main limits: the
+  results are local, for driftless, regular systems in free space; the
+  conversion to chained form is only sufficient; simple sinusoids fail for
+  general higher-order systems; closed-loop control and systems with drift
+  are left open.
+title: 'Nonholonomic motion planning: steering using sinusoids'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    FACT, rigidity, compliant mechanisms and origami (the pasted synthesis
+    on constraint architectures, written by another assistant, A, in the
+    same exchange as the emergency-readiness bibliography, pasted
+    2026-11-04), which cites it as M11, Murray & Sastry 1993, IEEE TAC,
+    doi:10.1109/9.277235, for Lie brackets. Citation checked against
+    Crossref: Richard M. Murray and S. Shankar Sastry, IEEE Transactions on
+    Automatic Control 38(5), 700–716, May 1993, journal article. Crossref
+    gives only the print month, 1993-05, and no online date (its record was
+    created in 2002 by IEEE's back-file deposit), so `published:` is
+    1993-05-01; the paper says it was received 22 May 1991 and revised
+    5 April 1992. A's citation is correct. Not held before (no hit for the
+    DOI, the title, "Sastry" or "nonholonom"). Copy: the scanned IEEE PDF
+    with an OCR text layer, 17 pp., in CaltechAUTHORS,
+    https://authors.library.caltech.edu/records/4g4pk-07277/files/MURieeetac93.pdf
+    (via https://resolver.caltech.edu/CaltechAUTHORS:MURieeetac93),
+    extracted with pdftotext -layout. Status set to Active.
+tags:
+- control-theory
+- mathematics
+date: '2026-11-05'
+published: '1993-05-01'
+doi: '10.1109/9.277235'
+first_author: 'Murray'
+keywords:
+- 'nonholonomic motion planning'
+- 'Lie brackets'
+- "Chow's theorem"
+- 'chained systems'
+- 'sinusoidal steering'
+- 'growth vector'
+implementations: []
+summary: >-
+  Murray & Sastry (1993). Robots whose velocity constraints do not
+  integrate to constraints on configuration (a car, a car with trailers, a
+  hopping robot in flight, fingers rolling on an object) are written as
+  driftless control systems whose input vector fields span the directions
+  the system can move in. By Chow's theorem the system is controllable when
+  those fields and their iterated Lie brackets span every direction; a
+  bracket is the net motion left by a small loop of inputs. The paper steers
+  first the directly actuated states and then each bracket direction in
+  turn with sinusoids at integrally related frequencies, shows that this
+  fails for general higher-order systems, and defines chained systems, for
+  which it works, with a sufficient condition for converting a two-input
+  system to chained form by feedback.
+---
+<!-- inactive-ok-file: THEORY-tmpxup0v — Proposed and new; cited from the reading of Murray and Sastry (1993) as open -->
+
+# LIT-tmp08uqt: Nonholonomic motion planning: steering using sinusoids
+
+Murray, R. M. & Sastry, S. S. (1993). Nonholonomic motion planning: steering using sinusoids. *IEEE Transactions on Automatic Control* 38(5): 700–716. doi:10.1109/9.277235.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md). Page numbers are the journal's.*
+
+- **From forbidden to allowed directions.** "Roughly speaking, we would
+  like to convert the constraint specification from describing the
+  directions in which the system cannot move to those in which it can."
+  (§I, p. 701).
+- **A bracket is a loop.** "Thus, the Lie bracket is the infinitesimal
+  motion that results from flowing around a square defined by two tangent
+  vectors." (§II-A, p. 702). Directions that cannot be moved in at once
+  are reached by cycling the inputs.
+- **Reachability by brackets.** "Roughly speaking, Chow's theorem states
+  that if we can move in every direction using Lie bracket motions
+  (possibly of higher order than one), then the system is controllable."
+  (§II-A, p. 702).
+- **Sinusoids at integrally related frequencies** steer first-order,
+  second-order and chained systems one bracket level at a time; for a
+  general fourth-order two-input system it is "not possible to get motion
+  only in the x 7 direction using simple sinusoids." (§IV-A, p. 709).
+- **Existence is not construction.** "Although the existence of a
+  trajectory is guaranteed by the appropriate controllability conditions,
+  construction of a trajectory for systems with drift is still an open
+  problem." (§V, p. 715).
+
+## Standing in the record
+
+The pasted synthesis on constraint architectures cites it, as M11, for Lie
+brackets, with a sentence in quotation marks, "The number of directions in
+which a system can move immediately is not the same as the number of states
+it can reach.", that is not in the paper: it is A's paraphrase, and a fair
+one. A leaves out two things the paper makes plain: that bracket directions
+are bought by cycling the inputs, more cycles and higher harmonics for
+higher brackets, so reach has a price in motion; and that a guarantee that
+a path exists is not a way of constructing one. The record held nothing on
+nonholonomic systems before it. Filed from it: [THEORY-tmpxup0v](../theory.d/THEORY-tmpxup0v.md).

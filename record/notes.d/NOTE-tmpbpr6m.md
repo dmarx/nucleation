@@ -1,0 +1,138 @@
+---
+status: Read
+paper: 'LIT-tmpckrd7'
+title: 'Asano — Stability principle of the passive rimless wheel'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the author's arXiv deposit of the 2012
+    conference paper, arXiv:2604.13530v1, 6 pp.,
+    https://arxiv.org/pdf/2604.13530v1, extracted with pdftotext -layout.
+    Read: the abstract, §§I–VI and the figure captions. Scanned only: the
+    references. Registered and read as a stand-in for McGeer (1990),
+    LIT-tmpv6ctd, at the owner's request. The proceedings version was not
+    compared. Quotes checked by string match against the extracted text.
+date: '2026-11-05'
+summary: >-
+  For a passive rimless wheel on a slope the kinetic energy before impact
+  obeys K⁻ᵢ₊₁ = εK⁻ᵢ + ΔE, with impact loss ε = cos²α and restored energy ΔE
+  both fixed by geometry and slope, so the gait converges to one period-1
+  cycle. Linearised, the return map's eigenvalue is cos²α, independent of
+  the step period, and the gait exists only above a minimum slope.
+---
+<!-- inactive-ok-file: LIT-tmpv6ctd THEORY-tmpbbt2m THEORY-1052 — Unavailable or Proposed, and new or held; cited from the reading of Asano (2012) as open -->
+
+# NOTE-tmpbpr6m: Asano — Stability principle of the passive rimless wheel
+
+## Contribution
+
+An analytic account of why the passive rimless-wheel gait is stable: the
+posture at impact and the energy gravity restores each step are fixed by
+geometry, so the gait's rate of convergence does not depend on its step
+period. It adds a closed form for the steady step period and its lower
+bound on slope.
+
+## Key insight
+
+Two constraints hold automatically: the posture at impact is always the
+same, and so is the energy gravity restores over a step. With both fixed,
+energy before impact obeys a contracting linear recurrence, and the gait
+must converge.
+
+## Assumptions
+
+- **A planar, rigid rimless wheel** with point mass, spokes of length l
+  and angle α between adjacent legs, on a slope of angle ϕ.
+- **Inelastic impacts** without slip, and an instantaneous transfer of
+  support.
+- **No actuators**: gravity on the slope is the only energy source.
+- **Linearisation** of the stance phase, θ̈ = ω²θ with ω = √(g/l), for the
+  stability and step-period results.
+
+## Key results
+
+- **The model** (abstract, p. 1): "Rimless wheels are known as the
+  simplest model for passive dynamic walking." The gait "generated only by
+  gravity effect always becomes asymptotically stable and 1-period".
+- **McGeer as source** (§I, p. 1): the rimless wheel "has been investigated
+  as the simplest model of passive dynamic walking [1]", ref. [1] being
+  McGeer (1990).
+- **The recurrence** (eq. 1, §II): K⁻ᵢ₊₁ = εK⁻ᵢ + ΔE, with ε = cos²α and
+  ΔE = 2mgl sin(α/2) sin ϕ, converging to ΔE/(1 − ε).
+- **Geometry fixes stability** (§IV-B, p. 4): the stance-phase error ratio
+  "is equal to cos α; the stability property is determined only by the
+  configuration." The return map's eigenvalue is cos²α.
+- **Energy margins** (§IV-B, p. 4): the margins for passing over the
+  mid-stance potential barrier "must be positive in stable passive-dynamic
+  gaits." This gives the minimum slope ϕ_min = tan²(α/2) of the linearised
+  model, below which no steady gait exists; the step period diverges as ϕ
+  approaches it.
+- **The upper limit** (§V, p. 5): the wheel begins "to jump as the slope
+  becomes steep, that is, the generated motion changes from walking to
+  running or skipping."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The passive rimless wheel's gait converges to a single period-1 cycle | strong, for the model | eq. (1), §II |
+| C2 | Its convergence rate per step is cos²α, independent of the step period | strong, in the linearised model | §IV-B |
+| C3 | A steady gait exists only above a minimum slope | strong, in the linearised model | §IV-B, eqs. (51)–(53) |
+
+## Concepts
+
+- **Passive dynamic walking**: a gait "generated only by gravity effect"
+  (abstract).
+- **Energy-loss coefficient** ε = cos²α and **restored mechanical energy**
+  ΔE (eqs. 2–3).
+- **The constraint on impact posture and the constraint on restored
+  mechanical energy**: the two conditions whose automatic satisfaction makes
+  the gait stable.
+
+## Connections
+
+It cites McGeer (1990), [LIT-tmpv6ctd](../literature.d/LIT-tmpv6ctd.md), for the rimless wheel, and restates
+of McGeer's work only this: the rimless wheel as the simplest passive
+walker, its gravity-powered gait on a slope, and that gait's stability.
+The derivations are Asano's own. It restates nothing of McGeer's
+two-legged walkers, his machine or his parameter studies. The author says
+an extension to walkers with a swing leg "will be reported in a future
+paper".
+
+## Bearing on the record
+
+- **The pasted synthesis on constraint architectures**, on McGeer (1990):
+  "stable gait cycles driven by gravity and their own dynamics." Right for
+  the rimless wheel. A leaves out the bounds: walking needs a minimum slope
+  and gives way to running or skipping on steep ones, so the stable cycle
+  exists only in a window.
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability): qualifies. Both the
+  stability and the existence of the gait are conditional on the slope
+  window. Within it the wheel's cycle is robust, converging from any energy
+  enough to pass the barrier, so it fits [CLAIM-079](../claims.d/CLAIM-079.md) less sharply than the
+  walker of Obayashi et al. (2016), [LIT-tmpw9g80](../literature.d/LIT-tmpw9g80.md).
+- **[THEORY-134](../theory.d/THEORY-134.md)** (viability kernel): related at the level of conditions for
+  persistence, the positive energy margins; not developed in viability
+  terms.
+- **[THEORY-1052](../theory.d/THEORY-1052.md)** (quasi-static attractors and rate-induced tipping):
+  unrelated; there is no parameter drift.
+- Filed: [THEORY-tmpbbt2m](../theory.d/THEORY-tmpbbt2m.md). No instruction for machine-learning practice;
+  nothing for the anthology.
+
+## Limitations
+
+- **The author's**: the upper bound on slope, the onset of jumping, is not
+  identified, and a comparison with the nonlinear model is needed (§VI).
+- **A one-degree-of-freedom model between impacts**, so the stability
+  result is close to immediate and does not extend by itself to legged
+  walkers with a swing leg.
+- **Linearised**, for |θ| up to about 1.
+
+## Open questions
+
+- Does the same principle, fixed impact posture and fixed restored energy,
+  explain the stability of passive walkers with a swing leg? The promised
+  extension would say.
+- Where exactly does walking give way to running as the slope steepens?

@@ -1,0 +1,108 @@
+---
+status: Unfetched
+status_note: >-
+  not read; lawful copies located at exact addresses this client could not
+  fetch, 2026-11-04. The 1983 Stanford technical report of the same title,
+  held by DTIC as ADA131638, at apps.dtic.mil/sti/pdfs/ADA131638.pdf:
+  HTTP 403 with a page reading "The request is blocked", a firewall block,
+  not retried. The Toulouse Capitole repository record listed by OpenAlex,
+  publications.ut-capitole.fr/1046 (and /id/eprint/1046/): HTTP 503, then
+  the connection reset on the https retry, so whether it holds a file was
+  never seen. OpenAlex reports no open full text; the publisher (JSTOR,
+  Oxford University Press) is subscription only and was not tried. Only the
+  abstract was read, on RePEc/IDEAS. Gerardi and Maestri (2020),
+  [LIT-tmpbit9m](LIT-tmpbit9m.md), stands in for it on the phenomenon and the setting only (a
+  principal who cannot commit revises terms on revealed performance, so a
+  productive agent hides), and credits it, jointly with Gibbons and
+  Laffont–Tirole, with founding the two-period literature; it does not
+  restate this paper's planner–firm model or its result.
+title: 'Planning under Incomplete Information and the Ratchet Effect'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Registered on 2026-11-04 from the pasted bibliography on emergency
+    readiness, written by another assistant (A) and pasted by the owner on
+    2026-11-04, which lists it under budgeting, ratchets and incentives
+    with no gloss. Citation checked against Crossref and OpenAlex: Xavier
+    Freixas, Roger Guesnerie and Jean Tirole, The Review of Economic
+    Studies 52(2), 173–191 (end page from RePEc/IDEAS; Crossref gives the
+    first page only), journal article, doi 10.2307/2297615. Crossref gives
+    the issue as 1985-04 with no day and OpenAlex 1985-04-01, so
+    `published:` is the first of the month (ADR-002). An earlier version, a
+    1983 Stanford technical report held by DTIC as ADA131638, is listed by
+    RePEc and a web search, but its date was not verified and is not used.
+    A's citation is correct in every field. Not held before: no hits for
+    Freixas, Guesnerie, the DOI or the title; the record's "ratchet" hits
+    are Muller's ratchet and figurative uses. Not read (see the status
+    note). At the owner's request a neighbouring work was read in its
+    place: Gerardi and Maestri (2020), LIT-tmpbit9m.
+tags:
+- game-theory
+- society-and-governance
+date: '2026-11-04'
+published: '1985-04-01'
+doi: '10.2307/2297615'
+first_author: 'Freixas'
+keywords:
+- 'ratchet effect'
+- 'central planning'
+- 'incentive scheme'
+- 'asymmetric information'
+- 'commitment'
+implementations: []
+summary: >-
+  Freixas, Guesnerie & Tirole (1985). Unverified until read: from the
+  abstract only. A planner who revises a firm's incentive scheme on what
+  the firm's performance reveals "induces firms to underproduce to avoid
+  more demanding schedules in the future—the ratchet effect", studied
+  "under the realistic assumption that the planner cannot commit himself
+  to a revision procedure". The abstract states that the ratchet effect
+  exists in the sense that the planner "may choose a scheme which is
+  suboptimal from a static viewpoint in order to induce revelation, with
+  the marginal price of output exceeding its optimal static value".
+---
+<!-- inactive-ok-file: NOTE-tmpoec9n THEORY-tmp6sg3n — Skimmed or Proposed and new; the reading of the neighbour that stands in for Freixas, Guesnerie and Tirole (1985) and the account filed from it, cited as open -->
+
+# LIT-tmpfzy5q: Planning under Incomplete Information and the Ratchet Effect
+
+Freixas, X., Guesnerie, R. & Tirole, J. (1985). Planning under Incomplete Information and the Ratchet Effect. *The Review of Economic Studies* 52(2): 173–191. doi:10.2307/2297615.
+
+## Key takeaways
+
+*Not read. What follows is the published abstract (RePEc/IDEAS), unverified
+against the text.*
+
+- **The ratchet.** Revising the scheme on observed performance "induces
+  firms to underproduce to avoid more demanding schedules in the
+  future—the ratchet effect".
+- **Without commitment.** The planner "cannot commit himself to a revision
+  procedure".
+- **The planner's response.** It "may choose a scheme which is suboptimal
+  from a static viewpoint in order to induce revelation, with the marginal
+  price of output exceeding its optimal static value".
+
+## Standing in the record
+
+Registered from the pasted bibliography on emergency readiness, and not
+read. A gives no gloss; its placement fits the abstract, since the ratchet
+is the mechanism behind A's proposition that measuring maintained abilities
+by observed use can destroy them. But the abstract is about a firm hiding
+productivity by underproducing, not an organization losing a capability
+kept for rare events, and its headline result is the planner's optimal
+response, not waste or lost capacity. Carrying it to readiness is A's
+analogy.
+
+**The neighbour.** Gerardi and Maestri (2020), [LIT-tmpbit9m](LIT-tmpbit9m.md), read Skimmed
+in [NOTE-tmpoec9n](../notes.d/NOTE-tmpoec9n.md), stands in for it only on the phenomenon and the setting:
+a principal who cannot commit to future terms revises them on what
+performance reveals, so a productive agent mimics an unproductive one. It
+names this paper once, in its literature review, among the two-period
+papers that "pioneered" the subject, and credits that group jointly with
+semi-pooling in the first period and full separation in the second. It does
+not restate this paper's planner–firm model, the form of its incentive
+schemes, or its result on the marginal price of output, none of which can
+be cited from it. The account filed from the neighbour, [THEORY-tmp6sg3n](../theory.d/THEORY-tmp6sg3n.md),
+is Gerardi and Maestri's own infinite-horizon result. No THEORY is filed
+for this paper until it is read.

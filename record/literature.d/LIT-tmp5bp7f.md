@@ -1,0 +1,117 @@
+---
+status: Active
+status_note: >-
+  argument chapters read 2026-11-05 ([NOTE-tmpla9de](../notes.d/NOTE-tmpla9de.md), Skimmed) from the
+  scanned thesis in DSpace@MIT; worth reading as the origin of Freedom and
+  Constraint Topologies (FACT), the screw-theoretic design method for
+  parallel flexures in which a stage's permitted motions (its freedom
+  space) and the lines along which constraints can be added without
+  changing them (its constraint space) determine each other, and for its
+  kinematic definition of a redundant constraint: one whose addition or
+  removal leaves the freedom space unchanged while stiffness, load capacity
+  and stability change. Its main limits: the 26 freedom/constraint pairs
+  it catalogues hold only for ideal pure-force constraints under small
+  motions (the thesis itself finds more types once general wrenches are
+  allowed), it covers parallel systems only, and it leaves out
+  elastomechanics, dynamics and actuation. A master's thesis, not peer
+  reviewed.
+title: 'Design of Parallel Flexure Systems via Freedom and Constraint Topologies (FACT)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    FACT, rigidity, compliant mechanisms and origami (the pasted synthesis
+    on constraint architectures, written by another assistant, A, in the
+    same exchange as the emergency-readiness bibliography, pasted
+    2026-11-04), which cites it as Hopkins, "Design of Parallel Flexure
+    Systems via Freedom and Constraint Topologies", MIT master's thesis,
+    2007. No DOI, so no Crossref or OpenAlex record was used; the citation
+    is checked against the title page and the DSpace@MIT record,
+    http://hdl.handle.net/1721.1/39879: Jonathan Brigham Hopkins, S.M.
+    thesis, Department of Mechanical Engineering, Massachusetts Institute
+    of Technology, June 2007, supervisor Martin L. Culpepper, 393 pp. A's
+    citation is right apart from leaving off the "(FACT)" that ends the
+    title. `published:` is 2007-05-01, the date of the author's signature
+    on the title page, the earliest exact date the document carries (the
+    degree is dated June 2007). Copy: the DSpace ORIGINAL bitstream
+    (182522845-MIT.pdf, a 75 MB scan with OCR),
+    https://dspace.mit.edu/server/api/core/bitstreams/ff6562f6-68ef-4fbc-9e55-93ad38c7a061/content,
+    extracted with pdftotext -layout. DSpace states that MIT theses may be
+    viewed for any purpose but not reproduced without permission.
+tags:
+- natural-sciences
+- mathematics
+date: '2026-11-05'
+published: '2007-05-01'
+url: 'https://hdl.handle.net/1721.1/39879'
+first_author: 'Hopkins'
+keywords:
+- 'flexure systems'
+- 'Freedom and Constraint Topologies'
+- 'FACT'
+- 'screw theory'
+- 'constraint-based design'
+- 'redundant constraints'
+- 'freedom space'
+- 'constraint space'
+implementations: []
+summary: >-
+  Hopkins (2007), MIT S.M. thesis, supervised by Culpepper. A rigid stage
+  is tied to ground in parallel by flexures idealised as constraints stiff
+  along their axes and infinitely compliant across them. Motions are
+  twists, constraints wrenches; a twist is permitted when it does no work
+  against every constraint wrench, so the freedom space is the null space
+  of the wrench matrix. Each freedom space is drawn as a geometric figure
+  linked one to one with a constraint space ("the Principle of
+  Complementary Topologies"), and for pure-force constraints the pairs
+  fall into 26 types in six cases by the number of non-redundant
+  constraints. A six-step procedure goes from the desired motions to the
+  constraints, and then adds redundant constraints for stiffness,
+  symmetry and load capacity without changing the kinematics.
+---
+<!-- inactive-ok-file: NOTE-tmpla9de THEORY-tmpmbmox LIT-tmpf26t2 — Skimmed, Proposed, Unfetched or new; cited from the reading of Hopkins (2007) as open -->
+
+# LIT-tmp5bp7f: Design of Parallel Flexure Systems via Freedom and Constraint Topologies (FACT)
+
+Hopkins, J. B. (2007). *Design of Parallel Flexure Systems via Freedom and Constraint Topologies (FACT)*. S.M. thesis, Department of Mechanical Engineering, Massachusetts Institute of Technology. Supervisor: Martin L. Culpepper. https://hdl.handle.net/1721.1/39879
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpla9de](../notes.d/NOTE-tmpla9de.md). Page numbers are the thesis's.*
+
+- **A finite catalogue, for ideal constraints.** "twenty six unique
+  matching pairs of freedom and constraint spaces were identified"
+  (abstract, p. 3), Cases 1–6 by the number of non-redundant constraints.
+  The count holds for pure-force constraints only: once wrenches of any
+  pitch are allowed, "Case 3, therefore, has at least 11 types." (§9.4,
+  p. 299).
+- **Freedom and constraint spaces determine each other.** "This principle
+  that complementary spaces are uniquely linked with each other is called
+  the Principle of Complementary Topologies." (§5.3, p. 90).
+- **Redundancy defined kinematically.** "A constraint is non-redundant if
+  when it is added to or removed from a system, the kinematics or the
+  freedom space of that system changes." Redundant ones change "stiffness,
+  load capacity, and stability" but not the kinematics (§5.2.1, p. 75).
+- **Constraints alone cannot give every motion set.** "Instances exist in
+  which some desired degrees of freedom may not be achieved without
+  including other unwanted degrees of freedom." (§5.2.4, p. 87).
+- **Out of scope.** "The elasto-mechanics of systems has, however, not been
+  addressed in this thesis." (§11.3, p. 328); actuation is left to future
+  work.
+
+## Standing in the record
+
+The pasted synthesis on constraint architectures cites it first in its
+part on FACT, as the source of 26 matching freedom/constraint pairs, a
+systematic procedure, and the use of redundant constraints to improve
+performance without changing kinematics. All three are in the thesis,
+with the qualification that the 26 hold only for ideal pure-force
+constraints. The thesis covers neither elastomechanics nor actuation, so
+of A's three things, freedom, constraint and actuation, it has only the
+first two. In it, constraints only remove freedoms or leave them
+unchanged; what they add is stiffness and robustness. It is also one of
+the works standing in for Hopkins & Culpepper (2010), [LIT-tmpf26t2](LIT-tmpf26t2.md), which
+condenses it and stands unfetched. Filed from it: [THEORY-tmpmbmox](../theory.d/THEORY-tmpmbmox.md). The
+PhD thesis, [LIT-tmp9cusv](LIT-tmp9cusv.md), extends it to serial systems and actuation.

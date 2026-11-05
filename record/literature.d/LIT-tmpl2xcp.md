@@ -1,0 +1,99 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 ([NOTE-tmp2mkll](../notes.d/NOTE-tmp2mkll.md)) from the publisher's open-access PDF
+  (CC BY 4.0); worth reading as a worked case of underactuation as a
+  design choice: an origami spring, made rigid-foldable by virtual creases,
+  is fitted to 3D curves with its cells grouped to share a few actuators,
+  and the fitting error falls with each added actuator, by less each time.
+  Its main limits: a kinematic model with no stiffness, gravity or
+  friction, a virtual-crease approximation asserted rather than
+  quantified, a penalty heuristic with no optimality guarantee, and
+  prototypes for three curves only.
+title: 'Approximating complex 3D curves using origami spring structures'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    FACT, rigidity, compliant mechanisms and origami (the pasted synthesis
+    on constraint architectures, written by another assistant, A, in the
+    same exchange as the emergency-readiness bibliography, pasted
+    2026-11-04), which cites it as R2, "Approximating 3D Curves With
+    Underactuated Origami Springs", Communications Engineering 2023, by the
+    URL nature.com/articles/s44172-023-00149-1 and with no authors. A's
+    title is wrong: the URL resolves to "Approximating complex 3D curves
+    using origami spring structures" by Zuolin Liu, Zian Zhang and Hongbin
+    Fang (Fudan University), the title used here. Citation checked against
+    Crossref: Communications Engineering 2, article 90 (2023),
+    doi:10.1038/s44172-023-00149-1, research article, published online 12
+    December 2023, which is `published:`; also PMC11101438. Not held before
+    (the record held nothing on origami). Copy: the publisher's open-access
+    PDF, 12 pp., CC BY 4.0,
+    https://www.nature.com/articles/s44172-023-00149-1.pdf, extracted with
+    pdftotext -layout. Status set to Active.
+tags:
+- control-theory
+- mathematics
+date: '2026-11-05'
+published: '2023-12-12'
+doi: '10.1038/s44172-023-00149-1'
+first_author: 'Liu'
+keywords:
+- 'origami spring'
+- 'virtual crease'
+- 'underactuation'
+- '3D curve approximation'
+- 'inverse kinematics'
+- 'reconfigurable structures'
+implementations: []
+summary: >-
+  Liu, Zhang & Fang (2023). An origami spring, two perpendicular paper
+  strips folded alternately, is not rigid-foldable, because its square
+  facets bend. A virtual crease along each facet's diagonal makes each cell
+  a one-degree-of-freedom unit, and the chain of cells is fitted to a target
+  3D curve by optimising the folding angles. With one angle per cell the
+  relative error was below 0.66% for C, J and spiral curves. Grouping cells
+  to share actuators, two sufficed for the C and spiral curves and three for
+  the J; a sinusoidal curve needed more, and each added actuator reduced
+  the error by less. Prototypes driven by cables and servos reproduced the
+  C, J and spiral shapes, with errors near the drive end from gravity and
+  friction.
+---
+<!-- inactive-ok-file: THEORY-tmpzs387 — Proposed and new; cited from the reading of Liu, Zhang and Fang (2023) as open -->
+
+# LIT-tmpl2xcp: Approximating complex 3D curves using origami spring structures
+
+Liu, Z., Zhang, Z. & Fang, H. (2023). Approximating complex 3D curves using origami spring structures. *Communications Engineering* 2: 90. doi:10.1038/s44172-023-00149-1.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp2mkll](../notes.d/NOTE-tmp2mkll.md). Page numbers are the article's.*
+
+- **Virtual creases make the cell rigid-foldable.** "The simplified unit
+  cell is a one-degree-of-freedom system." (Results, p. 3); chained, the
+  cells give one degree of freedom each.
+- **Accurate with full actuation.** For the C, J and spiral curves "errors
+  of the three approximations are all found to be less than 0.66%" (p. 4).
+- **One grouping, several shapes.** "the same arrangement of drivers can
+  realize multiple distinct spatial configurations" (p. 6).
+- **Diminishing returns.** "the rate of improvement in fitting error
+  diminishes as more independent actuators are introduced." (p. 6); for a
+  sinusoidal curve a "structure with only 2 actuators is insufficient for
+  accurate approximation" (p. 6).
+- **Not unique.** "the computed outputs for the number of independent
+  actuators and their control angles are not unique." (p. 6).
+
+## Standing in the record
+
+The pasted synthesis on constraint architectures lists it, as R2, under
+origami as resource-constrained reconfiguration, with a wrong title and no
+authors, and attributes no claim to it. What it supports in A's account is
+narrow: the number of actuators acts as a resource whose scarcity shrinks
+the set of shapes that can be fitted, and a fixed grouping of cells (the
+architecture) admits several shapes (operating states). It says nothing
+about transitions between configurations, their cost, bottlenecks,
+reserves or slack: it fits static target shapes, and its trade-off is
+accuracy against actuator count, motivated by cost and control complexity.
+Filed from it: [THEORY-tmpzs387](../theory.d/THEORY-tmpzs387.md).

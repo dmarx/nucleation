@@ -1,0 +1,206 @@
+---
+status: Skimmed
+paper: 'LIT-tmpnheem'
+title: 'Ignatov — Introduction to formal concept analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in part on 2026-11-05 from arXiv v1, https://arxiv.org/pdf/1703.02819v1,
+    102 pp., extracted with pdftotext -layout, as the open stand-in for the
+    canonical sources of formal concept analysis (LIT-344, LIT-337), at the
+    owner's request. Read closely: the abstract, §1 (pp. 1–3), the
+    introduction and section summary of §2 (pp. 3–4), §3 on Galois
+    connections, formal contexts, formal concepts and concept lattices
+    through Proposition 2 (pp. 6–10), §3.3 on attribute dependencies (pp.
+    15–17), and the conclusion. Skipped: §2.1 (orders and lattices,
+    standard), the concept-generation algorithms of §3.1, many-valued
+    contexts (§3.2) beyond the definitions, and §§4–7 on applications
+    (machine learning, data mining, IR, text mining, ontologies, attribute
+    exploration), about 80 pages. Quotes checked by string match against
+    the extracted text, in which primes are printed as "0"; the primes are
+    restored here only outside quotation marks. Page numbers are the PDF's.
+date: '2026-11-05'
+summary: >-
+  A summer-school tutorial whose theory sections restate Ganter & Wille's
+  formal concept analysis: contexts, derivation operators forming an
+  antitone Galois connection, closure operators, concepts, the complete
+  concept lattice and the Basic Theorem, and attribute implications with
+  their Armstrong rules and Duquenne–Guigues base, all with exercises in
+  place of proofs. Read: the theory (pp. 1–10, 15–17) and the conclusion;
+  the applications not read. It shows that A's demand–configuration Galois
+  connection is exactly the derivation-operator connection of a formal
+  context.
+---
+<!-- inactive-ok-file: LIT-344 LIT-337 LIT-267 NOTE-601 THEORY-604 THEORY-tmp8atfa CLAIM-119 CLAIM-tmpuxuo4 CASE-tmpsbhp8 — Unavailable, or Proposed, or Proposed and new; cited from the reading of Ignatov (2015) as open -->
+
+# NOTE-tmplptka: Ignatov — Introduction to formal concept analysis
+
+## Contribution
+
+Exposition, not new results: an openly available statement of the core
+definitions and theorems of formal concept analysis (FCA), credited to
+Wille 1982 and Ganter & Wille, prepared as lecture notes for the RuSSIR
+2014 summer school, followed by a survey of FCA's applications in
+information retrieval and neighbouring fields.
+
+## Key insight
+
+Any relation between a set of objects and a set of attributes gives two
+derivation operators that reverse inclusion and form an antitone Galois
+connection. Their closed pairs, the formal concepts, always form a complete
+lattice, and the closure of an attribute set is everything that set
+implies: B follows from A exactly when every object with all of A has all
+of B.
+
+## Assumptions
+
+- Crisp, binary incidence; many-valued attributes are reduced to binary
+  ones by conceptual scaling.
+- The definitions are for arbitrary sets; the examples and algorithms
+  assume finite contexts.
+- Implications are relative to the given objects: they hold in the
+  context, not by logical entailment.
+
+## Key results
+
+- **Lineage (pp. 1, 3).** FCA "was introduced in the early 1980s by Rudolf
+  Wille as a mathematical theory"; "In this section, we mainly reproduce
+  basic definitions from Ganter&Wille’s book on Formal Concept Analysis".
+- **Formal context (Definition 7, p. 6).** "A formal context K = (G, M, I)
+  consists of two sets G and M and a relation I between G and M"
+- **Derivation operators (Definition 8, p. 6).** A′ is the set of attributes
+  shared by every object in A, and B′ the set of objects having every
+  attribute in B. "These operators are called derivation operators or
+  concept-forming operators".
+- **The Galois property (Proposition 1, p. 7).** A₁ ⊆ A₂ iff A₂′ ⊆ A₁′, and
+  A ⊆ B′ ⇔ B ⊆ A′ ⇔ A × B ⊆ I (item 5).
+- **Closures (Exercise 4, p. 7).** Both composites (·)′′ "are closure
+  operators".
+- **Formal concepts (Definition 10, p. 7).** Pairs (A, B) with A′ = B and
+  B′ = A; "The sets A and B are called the extent and the intent".
+- **The Basic Theorem (Theorem 1, p. 9).** "Concept lattice B(G, M, I) is a
+  complete lattice." Every complete lattice is a concept lattice: "In
+  particular, L is isomorphic to B(L, L, ≤)." Stated without proof.
+- **Implications (Definition 17, p. 15).** A → B holds when A′ ⊆ B′, "i.e.,
+  each object having all attributes from A also has all attributes from
+  B."
+- **Inference (p. 15).** "Implications satisfy Armstrong rules or inference
+  axioms" (reflexivity, augmentation, pseudotransitivity).
+- **Bases (p. 16).** "The Duquenne-Guigues base is a minimum (cardinality
+  minimal) implication base."
+
+## Concepts
+
+- **Formal context; derivation (concept-forming) operators; closure
+  operator; formal concept, extent, intent; concept lattice B(K)**
+  (Definitions 7–10).
+- **Attribute implication; implication cover and base; pseudo-intent;
+  Duquenne–Guigues base** (§3.3).
+- **Many-valued context; conceptual scale** (§3.2).
+
+## Connections
+
+It restates, from the canonical sources the record holds Unavailable:
+
+- **Of [LIT-344](../literature.d/LIT-344.md) (Ganter & Wille)**: the definitions and theorems of its
+  opening chapters, namely contexts, derivation operators and their
+  Galois property, closure operators, concepts, the Basic Theorem
+  (statement only), attribute implications, Armstrong rules, implication
+  bases and the Duquenne–Guigues base, and conceptual scaling. It does not
+  restate the proofs, or the later structure theory (decompositions,
+  distributivity, dimension, morphisms, bonds).
+- **Of Wille 1982**: the Basic Theorem, credited to it; not its programmatic
+  argument for restructuring lattice theory.
+- **Of [LIT-337](../literature.d/LIT-337.md) (Wille 2000)**: only the base theory that paper extends.
+  Nothing on negation, semiconcepts, protoconcepts or double Boolean
+  algebras.
+
+It credits Birkhoff (polarities) and Ore for the Galois connection.
+
+## Bearing on the record
+
+- **The pasted synthesis on resource-bounded realizability** (Response 3
+  §4, the first Galois connection). Verdict:
+  - **Right: it is exactly the derivation-operator connection of a formal
+    context.** Take the configurations Q_z as objects, the demands D_i as
+    attributes, and q satisfies D_i as the incidence. A's Ψ(S) is S′ and
+    Φ(U) is U′; A's U ⊆ Ψ(S) ⟺ S ⊆ Φ(U) is Proposition 1.5; "antitone Galois
+    connection" is the right name (Definition 6 is the antitone form).
+  - **Right: closures and the lattice.** ΦΨ and ΨΦ are the closure operators
+    of Exercise 4; the closed sets on each side are the extents and
+    intents, and together they form the one concept lattice (Theorem 1).
+  - **Right: closures give implications.** A's C ∈ Φ(Ψ({A,B})) is exactly
+    the implication {A,B} → {C} of Definition 17, since C lies in the
+    closure of {A,B} iff {A,B}′ ⊆ {C}′.
+  - **Qualify: implications are relative to the configuration set, and
+    include vacuous ones.** A's "logical consequences among constraints"
+    are consequences over the given Q_z, not logical entailment. If no
+    configuration meets S, Ψ(S) is empty and Φ of the empty set is every
+    demand: a frustrated set of demands implies everything.
+  - **Qualify: restricting to Q_z(b) runs opposite to the complex.** A: "You
+    could index this construction by resource budget, restricting Q_z to
+    the affordable configurations Q_z(b)." Restricting the objects is
+    legitimate, but since fewer objects can only shrink the extents being
+    compared, implications can only be added as b falls: one valid at a
+    budget stays valid at every lower budget. The budgeted complex of
+    [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) grows with b; the set of valid implications shrinks.
+    This is the reader's derivation from Definition 17, not a claim of
+    Ignatov, of A or of any source. Worked by the reader on [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md)'s
+    four configurations, and rechecked by the filer by enumeration: for
+    1 ≤ b < 2 (objects q₁ and q₂₃) the implications 2 → 3 and 3 → 2 hold,
+    and {1,2} and {1,3} vacuously imply all three demands; at b ≥ 2, q₁₂
+    breaks 2 → 3 and makes {1,2} closed; at b ≥ 3, q₁₃ breaks 3 → 2 and
+    makes {1,3} closed. Only the triple keeps an empty extent, the
+    frustration [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) identifies. So A's "family of
+    resource-dependent logical closure structures" exists, and is
+    antitone in the budget.
+  - **Right in substance, missing a citation**: A cites a website for a
+    construction whose standard sources are Wille 1982 and Ganter & Wille
+    ([LIT-344](../literature.d/LIT-344.md)).
+- **[LIT-267](../literature.d/LIT-267.md), [NOTE-240](NOTE-240.md) and [THEORY-698](../theory.d/THEORY-698.md) (the Lattice Representation
+  Hypothesis).** Qualifies. [NOTE-240](NOTE-240.md) holds the same construction in full,
+  read from that paper's Appendix B: antitone Galois connection, closure
+  operators, closed pairs forming a complete lattice. [THEORY-698](../theory.d/THEORY-698.md)'s warning
+  carries over: the lattice is "guaranteed by construction" for any
+  incidence. The concept lattice of the demand–configuration context exists
+  for any system whatever, so its existence is no finding; only its
+  particular shape, and how it changes with the budget, carries
+  information. [NOTE-240](NOTE-240.md) also records that raising that paper's threshold
+  removes incidences and "typically" coarsens the lattice, a parallel to
+  budget indexing.
+- **[NOTE-239](NOTE-239.md) (van Rijsbergen).** Supports: an inverted file read as a Galois
+  connection between documents and index terms, the same construction.
+- **[THEORY-604](../theory.d/THEORY-604.md), [THEORY-729](../theory.d/THEORY-729.md) and [NOTE-141](NOTE-141.md) (Corfield).** Supports. [NOTE-141](NOTE-141.md) traces
+  Corfield's six Galois-connection dualities to a relation between two sets
+  inducing an adjunction between their power sets, which is the
+  formal-context construction; [THEORY-729](../theory.d/THEORY-729.md)'s restriction to fixed points is
+  the dual isomorphism of extents and intents. Neither speaks of
+  implications.
+- **[LIT-803](../literature.d/LIT-803.md), [NOTE-601](NOTE-601.md) and [THEORY-686](../theory.d/THEORY-686.md) (Seven Sketches).** Qualifies: Chapter 1
+  holds the covariant order theory under the construction (Galois
+  connections as adjunctions between preorders, closure operators), not
+  the formal context and not implications.
+- **[CLAIM-119](../claims.d/CLAIM-119.md) (communicative categories form a concept lattice).** Unrelated
+  in domain; uses the same construction.
+- **[CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md) and [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) (the compatibility complex,
+  budgeted).** Supports A's "The corresponding Galois connection
+  additionally records which demands imply which others": the complex is
+  the sets S with Ψ(S) non-empty, the non-vacuous part of this context's
+  closure system, recoverable from the concept lattice. The
+  budget-antitone implications complement [CLAIM-tmpuxuo4](../claims.d/CLAIM-tmpuxuo4.md)'s budget-monotone
+  complex.
+- The record held no account of attribute implications or their bases;
+  this is the first. Filed: [THEORY-tmp8atfa](../theory.d/THEORY-tmp8atfa.md).
+- The applications sections survey FCA-based learners, not read; no
+  instruction for machine-learning practice was taken from it.
+
+## Limitations
+
+- A tutorial: no proofs (exercises instead); the theory is restated, not
+  developed.
+- Typographical slips: Definition 6's third condition is garbled, and
+  Exercise 1's equivalence has ψ where ϕ is meant. Proposition 1.5 states
+  the property correctly for derivation operators.
+- The applications sections are IR-oriented surveys, not read.

@@ -1,0 +1,155 @@
+---
+status: Skimmed
+paper: 'LIT-tmprtv5t'
+title: 'de Oliveira, de Sá and Martins — Multi-period bi-objective ambulance location in Belo Horizonte'
+version: 1
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Read in part on 2026-11-04, as a stand-in for Daskin (1983),
+    LIT-tmpt3a4i, and ReVelle and Hogan (1989), LIT-tmpjzyct, at the
+    owner's request, from arXiv v1 (https://arxiv.org/pdf/2012.06655),
+    extracted with pdftotext, with a raw (non-layout) pass for checking
+    quotes. Read: the abstract and §2 (pp. 9–13: the probabilistic models,
+    MEXCLP, MALP and LR-MEXCLP). Skipped: §1, the multi-period models
+    (§3), the bi-objective method and the case-study results. Page numbers
+    are the arXiv PDF's.
+date: '2026-11-04'
+summary: >-
+  Read for its §2 survey of probabilistic ambulance-location models. MEXCLP
+  maximizes expected coverage under uniform busyness and independent
+  servers; MALP maximizes demand covered with reliability α, keeps
+  independence and adds locally constrained service areas, but drops
+  uniform availability by area-specific busy fractions; Sorensen and
+  Church's LR-MEXCLP builds on both and answers their objection to MALP's
+  α objective. The paper's own multi-period models and results were not
+  read.
+---
+<!-- inactive-ok-file: LIT-tmpt3a4i LIT-tmpjzyct THEORY-tmpegbva — Unavailable or Proposed, and new; the unread originals this paper stands in for and the account filed from this reading, cited as open -->
+
+# NOTE-tmpy7mc8: de Oliveira, de Sá and Martins — Multi-period bi-objective ambulance location in Belo Horizonte
+
+## Contribution
+
+Multi-period versions of FLEET and of Sorensen and Church's
+local-reliability expected covering model, LR-MEXCLP, that let
+ambulances move among bases from one period to the next in the emergency
+medical service (SAMU) of Belo Horizonte, and a bi-objective form that
+trades the number of bases against coverage (abstract; not read beyond
+it). The part read, §2, is a survey of the probabilistic models it builds
+on.
+
+## Key insight
+
+From §2: the probabilistic covering models differ by which simplifying
+assumption about busy servers they keep. MEXCLP keeps one busyness for all
+servers and independence; MALP gives each neighbourhood its own busy
+fraction but keeps independence and adds locally constrained service
+areas; and "despite efforts to improve probabilistic models, relaxing one
+or more assumptions often leads to another imposition" (p. 13, citing
+Sorensen and Church).
+
+## Assumptions
+
+As the paper lists them for the probabilistic models (p. 10): uniform
+server busyness, server independence, locally constrained service areas.
+"Due to the model's probabilistic nature, stochastic elements of the EMS
+systems result in non-linear mathematical models." LR-MEXCLP still
+assumes independence and locally constrained areas.
+
+## Key results
+
+- **p. 9–10, MEXCLP against MALP.** "Whereas the MEXCLP model seeks to
+  maximize the expected coverage given that servers (ambulances) might be
+  busy, the MALP model aims to maximize the sum of" demands covered with a
+  minimum reliability α (the second part paraphrased across a page break).
+- **p. 10, MEXCLP's assumptions.** "Simplifying assumptions regarding the
+  uniform server busyness and the independence of the servers are made in
+  MEXCLP."
+- **p. 10, MALP's assumptions.** "The MALP model also brings the
+  assumption of server independence and includes the locally constrained
+  service area assumption, but it relaxes the assumption of uniform
+  ambulance availability."
+- **p. 10, busy fractions.** "In MALP, ReVelle & Hogan (1989) introduce a
+  method to compute an estimate of area-specific busy fractions associated
+  with each demand point."
+- **p. 10, multiple coverage.** "Either MEXCLP or MALP might request to
+  allocate more than one ambulance to cover demand points, depending on its
+  demand level and the number of vehicles available."
+- **p. 11, an objection.** "Sorensen & Church (2010) argue that the MALP's
+  α-reliability objective function may not be appropriate in some EMS
+  contexts and may lead to inferior results."
+- **p. 11, LR-MEXCLP (eqs. 12–19).** The area-specific busy fraction
+  b_{i,k} is the summed demand, in service time, of the points within the
+  time standard of i, divided by k; the reliability with k servers in that
+  neighbourhood is q_{i,k} = 1 − (b_{i,k})^k; the model maximizes
+  Σ_i Σ_k d_i q_{ik} y_{ik}, with y_{ik} = 1 if i is covered by k servers.
+- **Abstract, the paper's own.** Coverage up to 31% higher in the
+  deterministic and 24% in the probabilistic approach; not read in the
+  results.
+
+## Concepts
+
+- **Busy fraction** — the fraction of time a server is unavailable.
+- **Area-specific busy fraction** — a busy fraction estimated from the
+  demand in a node's neighbourhood; the MALP device, by this paper's
+  account.
+- **Reliability q_{ik}** — the chance that at least one of the k covering
+  servers is free, under independence.
+
+## Connections
+
+A neighbour of Daskin (1983), [LIT-tmpt3a4i](../literature.d/LIT-tmpt3a4i.md), and of ReVelle and Hogan
+(1989), [LIT-tmpjzyct](../literature.d/LIT-tmpjzyct.md), read in their place.
+
+- **Of Daskin (1983)** it restates what MEXCLP maximizes (expected coverage
+  given that servers may be busy), its two simplifying assumptions, and
+  that it may place several ambulances over one demand point; LR-MEXCLP
+  generalizes its objective. It does not restate MEXCLP's own objective
+  formula, the properties Daskin proves, his heuristic or his
+  computational results.
+- **Of ReVelle and Hogan (1989)** it restates MALP's aim (demand covered
+  with minimum reliability α), its assumptions, that it introduced
+  area-specific busy fractions, and Sorensen and Church's objection to its
+  α-reliability objective. The busy-fraction and reliability formulas it
+  gives are those of LR-MEXCLP, credited in part to MALP, not MALP's own
+  formulation. It does not restate the zero–one program, how α becomes a
+  count of servers, the distinction between MALP's two versions, or the
+  Baltimore results.
+
+## Bearing on the record
+
+- **The pasted bibliography on emergency readiness.** For Daskin (1983) it
+  supports A's "units already committed to other calls" and adds the
+  uniform-busyness and independence assumptions A leaves out. For ReVelle
+  and Hogan (1989) it supports "a sufficiently reliable response will be
+  available within a time standard". It gives no support to "rather than
+  utilization maximization": nothing here sets MALP against utilization
+  maximization, and that contrast is A's. It reports an objection to MALP's
+  α objective that A does not mention.
+- **[TERM-055](../terms.d/TERM-055.md) (operational availability): qualifies.** q_{ik} is a chance
+  of deployment within the time standard, lost to congestion alone, under
+  independence, with no cue or procedure and belonging to a demand node
+  under a siting plan rather than to one resource. A's claim that MALP
+  "maps naturally onto" [TERM-055](../terms.d/TERM-055.md) is too strong: it is at most a special
+  case of the term.
+- **[CLAIM-296](../claims.d/CLAIM-296.md) and [CLAIM-312](../claims.d/CLAIM-312.md): qualify.** A covering ambulance that is busy
+  is present but not deployable within the standard.
+- [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-517](../claims.d/CLAIM-517.md), [QUESTION-132](../questions.d/QUESTION-132.md) and the other entries A
+  cited: unrelated.
+- Filed from this reading: [THEORY-tmpegbva](../theory.d/THEORY-tmpegbva.md).
+
+## Limitations
+
+- The authors, citing Sorensen and Church: relaxing one assumption "often
+  leads to another imposition" (p. 13).
+- Only §2 and the abstract were read; the multi-period formulations and
+  the results behind the abstract's figures were not checked.
+- A preprint submitted to Expert Systems with Applications; no journal
+  version was looked up.
+
+## Open questions
+
+Whether the multi-period models are as the abstract describes; reading §3
+would settle it.
