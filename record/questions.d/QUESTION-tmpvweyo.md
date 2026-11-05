@@ -20,6 +20,7 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp5rh3v TERM-tmp5t7y8 CASE-tmpt6fm7 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: CLAIM-tmplo4ca — Proposed; the assistant's claim of 2026-11-05, cited as open -->
 
 # QUESTION-tmpvweyo: How does the optimal threshold for provisionally committing a specialized resource vary with congestion, geography, available substitutes, assessment accuracy, and the cost of leaving other contingencies uncovered?
 
@@ -57,3 +58,7 @@ ranking changes.
 
 A threshold computed from fixed costs, which is [CLAIM-tmp5rh3v](../claims.d/CLAIM-tmp5rh3v.md)'s, or a
 policy's count of extrications.
+
+## Note of 2026-11-05: a test for the pinning claim
+
+A's simulator is also the cheapest test of CLAIM-tmplo4ca. Run it twice, once with each period's budget set to the last period's peak spending and once with carry-over, and measure whether the rare, deadline-bound transition, the heavy-rescue response of CASE-tmpt6fm7, stays reachable. The claim predicts it is lost under the first rule after a quiet period and survives under the second. Most of what the constraint-architecture filing added is mechanical analogy; this would be its first organizational test. No status changes.

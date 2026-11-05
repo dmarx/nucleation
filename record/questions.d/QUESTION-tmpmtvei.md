@@ -21,6 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpvhj8j TERM-tmpuc919 ARG-tmp5fhgc — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 <!-- inactive-ok-file: CASE-tmp0g3pa — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmplo4ca — Proposed; the assistant's claim of 2026-11-05, cited as open -->
 
 # QUESTION-tmpmtvei: Under what funding and incentive rules does allocating resources according to observed activity cause an organization to lose capabilities whose value is concentrated in rarely encountered circumstances?
 
@@ -68,3 +69,7 @@ loses competence for a reason other than activity-based allocation.
 ## Note of 2026-11-05: a ratchet that forecloses a transition
 
 The constructed [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md) gives one mechanism the question asks about: a budget rule that cuts or expires unspent funds can leave an organization able to hold either of two regimes and unable to pay for moving between them. No status changes.
+
+## Note of 2026-11-05: a test for the pinning claim
+
+CLAIM-tmplo4ca shows one mechanism the question asks about, in the pure case: under spend-matching, ordinary efficient operation alone pins the organization to the transitions it can make at holding cost. No status changes.

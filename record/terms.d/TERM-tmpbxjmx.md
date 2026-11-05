@@ -26,6 +26,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-tmpoec9n — Skimmed; the reading the quotations from Gerardi and Maestri come from -->
 <!-- inactive-ok-file: THEORY-tmp6sg3n THEORY-tmp30jgj CASE-173 — Proposed; accounts and a case cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-tmp0g3pa — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmplo4ca — Proposed; the assistant's claim of 2026-11-05, cited as open -->
 
 # TERM-tmpbxjmx: ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet
 
@@ -135,3 +136,7 @@ against the abstract. Adopting it is the owner's call.
 ## Note of 2026-11-05: a ratchet that forecloses a transition
 
 In the constructed [CASE-tmp0g3pa](../cases.d/CASE-tmp0g3pa.md), any cut on unspent funds or any expiry leaves the next budget below the 1.3 the transition needs; Siemroth's commitment not to cut is what keeps it possible. No status changes.
+
+## Note of 2026-11-05: a test for the pinning claim
+
+CLAIM-tmplo4ca gives a ratchet's effect on reachability in its pure form: a budget set to last period's peak spending falls to the holding cost and stays there, so every transition that needs reconfiguration slack is lost without any choice to give it up. No status changes.
