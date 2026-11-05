@@ -6,13 +6,13 @@ status_note: >-
   Cloudflare check, not retried; OpenAlex, which marks it closed with no
   repository copy and lists only the publisher; Semantic Scholar, closed,
   with the abstract withheld by the publisher (its suggested Unpaywall link
-  needs an email address and was not queried, ADR-008); two web searches,
+  needs an email address and was not queried, [ADR-008](../decisions.d/ADR-008.md)); two web searches,
   which found no copy on an author's page, at American University, SAIS-CARI,
   the World Bank, SSRN or a repository; and RePEc, a redirect and a 404. The
   one PDF found, on a University of Zagreb chemistry-faculty server, has no
   tie to either author and is not the publisher's open copy, so it was not
   used as not lawful. Knack's World Bank working paper of July 2000
-  (LIT-tmp0gnxg, read in NOTE-tmpgq64d), from the same research programme,
+  ([LIT-tmp0gnxg](LIT-tmp0gnxg.md), read in [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md)), from the same research programme,
   stands in for its cross-country governance result and its Africa
   subsample only; nothing stands in for its tax-effort analysis.
 title: 'Foreign Aid, Institutions, and Governance in Sub-Saharan Africa'
@@ -53,14 +53,14 @@ implementations: []
 summary: >-
   Bräutigam & Knack (2004), unread. A cross-country study of foreign aid
   and the quality of governance in sub-Saharan Africa, which the record so
-  far knows only secondhand: Moss, Pettersson and van de Walle (LIT-2144,
-  in NOTE-1661) cite it with Knack as support for aid's moral-hazard effect
-  on institutions and tax effort, and Moore (LIT-2182, in NOTE-1663) cites
+  far knows only secondhand: Moss, Pettersson and van de Walle ([LIT-2144](LIT-2144.md),
+  in [NOTE-1661](../notes.d/NOTE-1661.md)) cite it with Knack as support for aid's moral-hazard effect
+  on institutions and tax effort, and Moore ([LIT-2182](LIT-2182.md), in [NOTE-1663](../notes.d/NOTE-1663.md)) cites
   Knack's companion work as showing only association. Its governance
   regression for Africa, its tax-effort estimate and how it handles
   endogeneity are all unverified until read. Here because it is the
-  Africa-specific test, with tax revenue, of the thesis THEORY-1460 and
-  THEORY-1459 carry.
+  Africa-specific test, with tax revenue, of the thesis [THEORY-1460](../theory.d/THEORY-1460.md) and
+  [THEORY-1459](../theory.d/THEORY-1459.md) carry.
 ---
 <!-- inactive-ok-file: THEORY-1460 THEORY-1459 CLAIM-600 CLAIM-602 — Proposed; cited from the registration of Bräutigam & Knack (2004) as open -->
 
@@ -72,10 +72,10 @@ Bräutigam, D. A. & Knack, S. (2004). Foreign Aid, Institutions, and Governance 
 
 *Not read. Nothing below reports the article's content.*
 
-- **What the record holds is secondhand.** NOTE-1661 (Moss et al.,
+- **What the record holds is secondhand.** [NOTE-1661](../notes.d/NOTE-1661.md) (Moss et al.,
   pp. 12–13) cites "Brautigam" for low tax effort among high-aid African
   countries and cites Bräutigam & Knack with Knack for the moral-hazard
-  effect; NOTE-1663 (Moore, p. 306) says Knack (2001) shows only some
+  effect; [NOTE-1663](../notes.d/NOTE-1663.md) (Moore, p. 306) says Knack (2001) shows only some
   association and flags reverse causation.
 - **What a reading should get**: the governance regression for
   sub-Saharan Africa (dependent variable, years, aid measure, instruments
@@ -87,7 +87,7 @@ Bräutigam, D. A. & Knack, S. (2004). Foreign Aid, Institutions, and Governance 
 ## Standing in the record
 
 Unavailable. Knack's World Bank Policy Research Working Paper 2396 (July
-2000), LIT-tmp0gnxg, read in NOTE-tmpgq64d, stands in for it in part. It
+2000), [LIT-tmp0gnxg](LIT-tmp0gnxg.md), read in [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md), stands in for it in part. It
 is the same research programme (its acknowledgements say the project
 "originated from conversations with Deborah Brautigam"), and it reports an
 Africa-only subsample: aid/GNP stays negative and significant on 31
@@ -102,7 +102,7 @@ recommendations and a tax-revenue finding to the article. These are
 GSDRC's words; they are unverified and are not recorded here as the
 article's.
 
-It bears on THEORY-1460 (sustained aid weakens institutions through tax
-substitution and accountability), THEORY-1459 (earned against unearned
-revenue), and the synthesis CLAIM-600 and CLAIM-602 (supply that does the
+It bears on [THEORY-1460](../theory.d/THEORY-1460.md) (sustained aid weakens institutions through tax
+substitution and accountability), [THEORY-1459](../theory.d/THEORY-1459.md) (earned against unearned
+revenue), and the synthesis [CLAIM-600](../claims.d/CLAIM-600.md) and [CLAIM-602](../claims.d/CLAIM-602.md) (supply that does the
 work crowds out capacity learned by doing).

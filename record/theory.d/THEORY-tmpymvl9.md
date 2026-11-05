@@ -19,13 +19,13 @@ date: '2026-11-05'
 source:
 - LIT-tmp0gnxg
 summary: >-
-  Knack (2000), LIT-tmp0gnxg, read in NOTE-tmpgq64d in its World Bank
+  Knack (2000), [LIT-tmp0gnxg](../literature.d/LIT-tmp0gnxg.md), read in [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md) in its World Bank
   working-paper version; the 2001 journal version was not read. Proposed:
   one change score per country, instruments whose exclusion is defended
   only by overidentification tests, no first stage reported, and a
   standard error printed differently in two tables. It measures governance,
   not tax effort or revenue, and has no withdrawal episodes. It stands in
-  only in part for Bräutigam & Knack (2004), LIT-tmpw4aef.
+  only in part for Bräutigam & Knack (2004), [LIT-tmpw4aef](../literature.d/LIT-tmpw4aef.md).
 ---
 <!-- inactive-ok-file: LIT-tmpw4aef — Unavailable; the article this reading partly stands in for -->
 
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Knack (2000), World Bank Policy Research Working Paper 2396, LIT-tmp0gnxg; read in NOTE-tmpgq64d.
+Knack (2000), World Bank Policy Research Working Paper 2396, [LIT-tmp0gnxg](../literature.d/LIT-tmp0gnxg.md); read in [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md).
 
 ## What was actually shown
 

@@ -158,7 +158,7 @@ enough to be counted on.
 ## Connections
 
 It is the empirical companion to Bräutigam's argument and the same
-research programme as Bräutigam & Knack (2004), LIT-tmpw4aef, unread, for
+research programme as Bräutigam & Knack (2004), [LIT-tmpw4aef](../literature.d/LIT-tmpw4aef.md), unread, for
 which it partly stands in. It restates that article's cross-country
 governance result for sub-Saharan Africa in its own Africa-only subsample
 (aid/GNP significant, aid/government spending not). It does not restate the
@@ -166,56 +166,56 @@ article's tax-revenue or tax-effort analysis, which it lacks, its own
 sample or years, its wording, or the exit-strategy recommendations a
 third-party summary attributes to it.
 
-In the record: Moss, Pettersson and van de Walle (LIT-2144, NOTE-1661)
-cite it for the moral-hazard effect, and THEORY-1460 carries that citation;
-Moore (LIT-2182, NOTE-1663) cites it as showing only some association,
-with reverse causation possible, and THEORY-1459 asks for within-country
-evidence. Azam, Devarajan and O'Connell (LIT-2156, THEORY-1483) model a
+In the record: Moss, Pettersson and van de Walle ([LIT-2144](../literature.d/LIT-2144.md), [NOTE-1661](NOTE-1661.md))
+cite it for the moral-hazard effect, and [THEORY-1460](../theory.d/THEORY-1460.md) carries that citation;
+Moore ([LIT-2182](../literature.d/LIT-2182.md), [NOTE-1663](NOTE-1663.md)) cites it as showing only some association,
+with reverse causation possible, and [THEORY-1459](../theory.d/THEORY-1459.md) asks for within-country
+evidence. Azam, Devarajan and O'Connell ([LIT-2156](../literature.d/LIT-2156.md), [THEORY-1483](../theory.d/THEORY-1483.md)) model a
 threshold in initial institutions that Knack's null initial-conditions
 interaction does not bear out, though Knack measures governance rather
-than tax capacity. Pritchett, Woolcock and Andrews (LIT-2164, THEORY-1463)
+than tax capacity. Pritchett, Woolcock and Andrews ([LIT-2164](../literature.d/LIT-2164.md), [THEORY-1463](../theory.d/THEORY-1463.md))
 describe the persistent low capability whose aid-related part this
 measures. The record's withdrawal evidence, which Knack's design lacks, is
-the FANTA exit-strategy study (LIT-2151, unread, with its Kenya and India
-summaries LIT-2154 and LIT-2148). Ahmed (2012), filed in this batch,
+the FANTA exit-strategy study ([LIT-2151](../literature.d/LIT-2151.md), unread, with its Kenya and India
+summaries [LIT-2154](../literature.d/LIT-2154.md) and [LIT-2148](../literature.d/LIT-2148.md)). Ahmed (2012), filed in this batch,
 carries the same unearned-income logic to incumbent survival.
 
 ## Bearing on the record
 
-- **CLAIM-600 (the synthesis).** Qualifies it. The evidence is about
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (the synthesis).** Qualifies it. The evidence is about
   support in progress, with no withdrawal episodes and no persistence after
   withdrawal, so it cannot test the withdrawal conditions. It supports the
   clause that support failing them leaves decay, for support that
   substitutes for the state's own work. The variability result complicates
   it: steady supply harms more than erratic supply of the same mean.
-- **CLAIM-604 (thresholds, collapse, hysteresis).** No threshold, collapse
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (thresholds, collapse, hysteresis).** No threshold, collapse
   or hysteresis is tested; the model is a linear change regression. The
   null initial-conditions interaction is evidence against a governance
   threshold above which aid stops harming.
-- **CLAIM-602 (supply doing the work crowds out learned capacity).**
+- **[CLAIM-602](../claims.d/CLAIM-602.md) (supply doing the work crowds out learned capacity).**
   Supports it in part: technical assistance, donors doing the work, carries
   coefficients several times aid overall, and only it survives when both
   are entered. The order of use is not observed, and the .87 correlation
   makes the separation weak.
-- **CLAIM-603 (one-way against reciprocal supply).** Supports it and gives
+- **[CLAIM-603](../claims.d/CLAIM-603.md) (one-way against reciprocal supply).** Supports it and gives
   a measurable handle: harm falls with aid's unpredictability and vanishes
   near a coefficient of variation of .78, while predictable trends do not
   matter, consistent with loss favoured where outside supply is reliable.
-- **CLAIM-597, CLAIM-558, CLAIM-601.** None tested. No supply is stopped;
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-558](../claims.d/CLAIM-558.md), [CLAIM-601](../claims.d/CLAIM-601.md).** None tested. No supply is stopped;
   the talent-drain and bypassing mechanisms are argued, not measured.
-- **QUESTION-398 (independence from the founding intervention).** No
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** No
   withdrawal design. The cited anecdotes point both ways: institutions
   broke down at exit in the Dominican Republic; reform followed exit in
   Korea and Taiwan.
-- **THEORY-1460 (Moss et al.).** Supplies the identified governance half
+- **[THEORY-1460](../theory.d/THEORY-1460.md) (Moss et al.).** Supplies the identified governance half
   of its `promote_when`, but as cross-country 2SLS on a single change
   score, not within-country panel evidence; nothing on its grant/loan or
   tax-effort half.
-- **THEORY-1459 (Moore).** Does not meet its within-country `promote_when`.
+- **[THEORY-1459](../theory.d/THEORY-1459.md) (Moore).** Does not meet its within-country `promote_when`.
   Moore's reverse-causation reservation is addressed only by instruments
   whose exclusion is untested; the rise under 2SLS suggests the OLS bias
   runs the other way.
-- Filed: THEORY-tmpymvl9.
+- Filed: [THEORY-tmpymvl9](../theory.d/THEORY-tmpymvl9.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

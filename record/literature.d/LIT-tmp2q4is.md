@@ -101,16 +101,16 @@ reachable there. No neighbour carrying its results was read, and no
 THEORY is filed from it: the candidate account rests on the abstract
 alone.
 
-It extends the account of unearned income in THEORY-1459 (Moore) and
-THEORY-1460 (Moss et al.) in two ways, if the body bears the abstract
+It extends the account of unearned income in [THEORY-1459](../theory.d/THEORY-1459.md) (Moore) and
+[THEORY-1460](../theory.d/THEORY-1460.md) (Moss et al.) in two ways, if the body bears the abstract
 out: it counts remittances, household income, with aid, and its outcome
 is the survival of the incumbent rather than the quality of
-institutions. That bears on CLAIM-600's last clause, that the unit whose
+institutions. That bears on [CLAIM-600](../claims.d/CLAIM-600.md)'s last clause, that the unit whose
 persistence counts must be the one the support was for: supply that keeps
 a government in office while it cuts welfare spending is persistence of
 the wrong unit. An incumbent entrenched by outside supply may also be a
-case for CLAIM-445 (a protective regime becoming self-maintaining) and
-CLAIM-464 (an intervention changing what it would take to correct it);
-that suggestion is the reader's, not Ahmed's. Knack (2000), LIT-tmp0gnxg,
+case for [CLAIM-445](../claims.d/CLAIM-445.md) (a protective regime becoming self-maintaining) and
+[CLAIM-464](../claims.d/CLAIM-464.md) (an intervention changing what it would take to correct it);
+that suggestion is the reader's, not Ahmed's. Knack (2000), [LIT-tmp0gnxg](LIT-tmp0gnxg.md),
 filed beside it, measures the institutional side of the same unearned-income
 logic.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpgq64d) in its working-paper version,
+  read in full 2026-11-05 ([NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md)) in its working-paper version,
   World Bank Policy Research Working Paper 2396 of July 2000, from the World
   Bank's own public-disclosure scan; the 2001 journal text was not read and
   its estimates may differ. Worth reading as an early instrumented
@@ -78,7 +78,7 @@ Knack, S. (2001). Aid Dependence and the Quality of Governance: Cross-Country Em
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpgq64d, of the July 2000 working paper. Page numbers are its printed pages.*
+*From the reading, [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md), of the July 2000 working paper. Page numbers are its printed pages.*
 
 - **Less improvement, not decline.** Governance rose on average (ICRG
   change mean +2.47); "a 15 percentage point rise in aid's share of GNP
@@ -106,17 +106,17 @@ Knack, S. (2001). Aid Dependence and the Quality of Governance: Cross-Country Em
 ## Standing in the record
 
 The first reading the record holds of Knack's aid-and-governance work,
-cited until now only secondhand in NOTE-1661 (Moss, Pettersson and van de
-Walle) and NOTE-1663 (Moore). It is read as a second work beside
-Bräutigam & Knack (2004), LIT-tmpw4aef, which no lawful copy reached, and
+cited until now only secondhand in [NOTE-1661](../notes.d/NOTE-1661.md) (Moss, Pettersson and van de
+Walle) and [NOTE-1663](../notes.d/NOTE-1663.md) (Moore). It is read as a second work beside
+Bräutigam & Knack (2004), [LIT-tmpw4aef](LIT-tmpw4aef.md), which no lawful copy reached, and
 it stands in for that article in part: the same research programme, with
 an Africa-only subsample, but no tax-revenue or tax-effort analysis.
 
 It supplies cross-country instrumented evidence for the governance half of
-THEORY-1460's account, not within-country evidence, and nothing on its
-tax-effort or grant-and-loan half; it does not meet THEORY-1459's
+[THEORY-1460](../theory.d/THEORY-1460.md)'s account, not within-country evidence, and nothing on its
+tax-effort or grant-and-loan half; it does not meet [THEORY-1459](../theory.d/THEORY-1459.md)'s
 within-country `promote_when`. Its technical-assistance result fits
-CLAIM-602 (supply that does the work crowds out capacity), and its
-variability result gives CLAIM-603 (loss favoured where supply is
+[CLAIM-602](../claims.d/CLAIM-602.md) (supply that does the work crowds out capacity), and its
+variability result gives [CLAIM-603](../claims.d/CLAIM-603.md) (loss favoured where supply is
 reliable) a measurable handle. It has no withdrawal episodes. Filed from
-it: THEORY-tmpymvl9.
+it: [THEORY-tmpymvl9](../theory.d/THEORY-tmpymvl9.md).
