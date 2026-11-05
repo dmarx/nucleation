@@ -50,6 +50,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CASE-206 CLAIM-563 CLAIM-571 CLAIM-585 CLAIM-590 CLAIM-591 TERM-105 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 <!-- inactive-ok-file: CASE-199 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
@@ -145,3 +146,41 @@ inequality and stands.
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 [CASE-199](../cases.d/CASE-199.md), A's U/L/R toy, is an instance with one-way moves: under peak costs mutual reachability within a budget stays transitive, all three states joining at 3; under additive costs it is intransitive at budgets 3 to 5 (U within reach of L and of R both ways, L and R 6 apart). No status changes.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), qualifies the
+claim's applicability: folding and unfolding differ by 5–10 °C and by orders of magnitude in time,
+so origami folding does not satisfy the reversible-moves premise, and the merge-tree structure need
+not hold for it.
+
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), qualify the choice of
+cost: hours at a fixed 52 °C "did not reach the slightly lower level" of defects of a 16 h ramp,
+while a 1.5 h three-step schedule gave quality "comparable to that obtained from 16-h long
+annealing". The resource that decides completeness is neither total time nor a single peak
+temperature but the path through temperature.
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), qualify the claim. In their replication cycle, temperature acts as a peak cost: the separation step needs about 50 °C. Each cycle also spends about 21 h of cooling, an additive cost. Which cost governs whether a cycle succeeds is not compared, so the paper does not show reachability set by the peak alone.
+
+No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Zhou, Sha, Ni, Seeman and Chaikin, "Mutations in artificial self-replicating tiles".**
+
+- Each replication cycle spends both a peak and time.
+- Zhou's cycle takes about 2 h. He et al.'s 24 cycles took about 730 h (from Zhang et al. 2025; about 30 h a cycle, my arithmetic) at similar peaks.
+- So the additive cost varies widely while the peak is about fixed, and a threshold on peak alone does not price the transition.
+- He's protocol was not read.
+
+No status changes.

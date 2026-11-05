@@ -1,0 +1,100 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)) from the open-access full text in PubMed
+  Central (CC BY-NC 4.0), main text, Methods, figure captions and Table 1
+  in full, figures and Supplementary Materials not seen; worth reading as
+  a strand-by-strand and terminus-by-terminus record of one multilayer
+  origami's isothermal folding, and for finding that the order is set more
+  by the scaffold's topology of connectivity than by binding strength, and
+  that removing the earliest-binding domains reroutes folding through a
+  slower pathway rather than forbidding it. Its main limits: one object,
+  one temperature, one buffer; progress normalized per reaction, so no
+  yields; the single-terminus inference assumes the independence the
+  paper's own cooperativity contradicts; the compaction curve is computed,
+  not measured.
+title: 'The sequence of events during folding of a DNA origami'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to connect the
+    record's realizability inquiry to DNA origami; the works were chosen by
+    the assistant. The citation was checked by the reader against Crossref
+    (no email sent): Fabian Schneider, Natalie Möritz and Hendrik Dietz,
+    Science Advances 5(5), eaaw1412; received 21 November 2018, accepted 20
+    March 2019, published 3 May 2019, which is `published:`; PMID 31058228,
+    PMCID PMC6499592. Corrected: the first author is Fabian, not Florian
+    as the reading brief had it; Crossref and PMC agree. Read from the PMC
+    full text, fetched as JATS XML through NCBI E-utilities
+    (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6499592/), CC BY-NC 4.0.
+    Status Active.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-05'
+published: '2019-05-03'
+doi: '10.1126/sciadv.aaw1412'
+first_author: 'Schneider'
+keywords:
+- 'DNA origami'
+- 'folding pathway'
+- 'isothermal assembly'
+- 'nucleation'
+- 'FRET'
+- 'cooperativity'
+- 'topology of connectivity'
+implementations: []
+summary: >-
+  Schneider, Möritz & Dietz (2019). The incorporation kinetics of every
+  staple, and of both termini of every staple (12,688 FRET reactions), of
+  one 42-helix honeycomb origami brick folded isothermally at 50 °C in
+  20 mM MgCl2 show a defined order of events. Staple termini bind
+  independently, so folding goes domain by domain; hybridization free
+  energy barely predicts when a segment binds, while a circular scaffold
+  permutation with all-new sequences and the same connectivity gives a
+  strongly correlated order. Removing the 20 earliest 5' segments abolishes
+  a compacted early intermediate and delays folding by hours through a
+  slower pathway; removing the 20 latest leaves the intermediate to
+  persist. The authors read nucleating clusters joined by long-range
+  crossovers.
+---
+<!-- inactive-ok-file: THEORY-tmp5gqa0 THEORY-1398 — Proposed or new; cited from the reading of Schneider, Möritz and Dietz (2019) as open -->
+
+# LIT-tmp7v945: The sequence of events during folding of a DNA origami
+
+Schneider, F., Möritz, N. & Dietz, H. (2019). The sequence of events during folding of a DNA origami. *Science Advances* 5(5): eaaw1412. doi:10.1126/sciadv.aaw1412.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md).*
+
+- **Domain by domain.** "strand termini incorporate independently of each
+  other": "folding occurs via individual double-stranded DNA (dsDNA) domain
+  formation, rather than entire staple strand binding".
+- **Topology over sequence.** "the folding pathway does not depend so much
+  on the local sequence but on cooperative effects induced by the global
+  topology of connectivity" (Discussion); "little correlation between the
+  free energy of hybridization of entire staple strands with their mean
+  folding time".
+- **A nucleus whose loss reroutes.** Without the 20 fastest segments "the
+  intermediate no longer occurs. The unfolded state prevails for hours, and
+  the fully folded state emerges only with substantial hour-long delay";
+  folding "proceeds via another, slower pathway."
+- **Not controllable locally.** The order "cannot be easily tied to (and,
+  thus, also not controlled by) simple, local design rules."
+
+## Standing in the record
+
+Registered at the owner's request to connect the record's realizability
+inquiry to DNA origami. It is the record's experimental case of a
+nucleating set of early domains whose removal costs hours but does not
+forbid the target, bearing directly on [QUESTION-380](../questions.d/QUESTION-380.md), and of a compacted
+intermediate preceding the folded state, which bears on [THEORY-1398](../theory.d/THEORY-1398.md)'s
+`promote_when` (gels show compaction, not local order). It corrects the
+authors' own earlier conjecture, in Sobczak et al. (2012), that nuclei are
+the most thermally stable domains. It names the domain-level model of Dunn
+et al. ([LIT-tmpqku12](LIT-tmpqku12.md)) and Dannenberg et al. ([LIT-tmpdyrnb](LIT-tmpdyrnb.md)) as what its data
+should calibrate. Filed from it: [THEORY-tmp5gqa0](../theory.d/THEORY-tmp5gqa0.md). No instruction for
+machine-learning practice; nothing for the anthology.

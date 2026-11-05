@@ -32,6 +32,7 @@ bearing:
 - CLAIM-286
 - CLAIM-285
 ---
+<!-- inactive-ok-file: CLAIM-tmps9wa1 — new; the assistant's claim on supplied regeneration, cited as open -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-067 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -87,3 +88,19 @@ environments." Filed as [CLAIM-359](../claims.d/CLAIM-359.md) (robustness lives 
 that allocate and audit authority, and trades off against revision) and
 [CASE-108](../cases.d/CASE-108.md) (A41's proposed study). An answer here would say when that
 trade-off can be moved.
+
+## Note of 2026-11-05: A's second synthesis on DNA origami
+
+From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
+
+A asks, of DNA origami, "what additional reaction network or organizational arrangement would make regeneration endogenous, rather than simply externally supplied", to be investigated "in stages: assembly, damage, component replacement, and the maintenance of the processes enabling replacement". The readings in this pull request reach the first stage and part of a replicating one (Ni et al. 2026, [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)). None reached replacement of damaged parts when this note was first written. Scheckenbach et al. 2021 ([NOTE-tmpmcdju](../notes.d/NOTE-tmpmcdju.md)), read later in this pull request, do show replacement from a supplied strand pool. No reading reaches maintenance of the processes of replacement, since every replacement part comes from outside ([CLAIM-tmps9wa1](../claims.d/CLAIM-tmps9wa1.md)). So DNA origami does not yet bear on how a self-maintaining structure emerges.
+
+No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A's third synthesis asks the narrower form of this question: when does a productive nucleus become self-maintaining, its operation regenerating the constraints that make it productive ([QUESTION-tmpesr9t](QUESTION-tmpesr9t.md))? A keeps nucleation, autocatalysis, closure and regeneration apart: "These can overlap, but none is automatically equivalent to another".
+
+No status changes.

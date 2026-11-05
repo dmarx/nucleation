@@ -263,3 +263,24 @@ Gerardi and Maestri (2020), [LIT-2046](../literature.d/LIT-2046.md), skimmed in 
 Three origami readings from the pasted synthesis on constraint architectures support the claim's separation of structural infeasibility from realized violation, by analogy. In Stern et al. ([NOTE-1571](../notes.d/NOTE-1571.md)) the designed configuration exists, and can be made the ground state, yet goes unrealized under random actuation, the sheet misfolding into distractor branches. Chen and Santangelo ([NOTE-1614](../notes.d/NOTE-1614.md)) give the same shape near the flat state, where every branch meets every constraint and misfolding is a wrong selection of branch; that is the reader's inference, not a measurement. Hull and Tachi ([NOTE-1603](../notes.d/NOTE-1603.md)) qualify the claim with a third case: the Miura fold exists, but no driving force that each crease applies on its own selects it uniquely, so the target is neither infeasible nor violated, only unselectable under a declared class of actuation. None of them computes a residual or a regret.
 
 [CLAIM-567](CLAIM-567.md), filed from A's proposals, names the third case these readings point to: a target can be feasible and unrealized because no admissible path reaches it (Berry et al.) or because the process does not reliably select it (Stern et al.; Hull and Tachi), which is neither a positive residual nor a realized violation. No status changes.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+A cites this claim as separating "structural feasibility from the particular realization selected by a system". That is loose: the claim separates structural infeasibility (a positive residual), realized violation and minimax suboptimality (regret). A's gloss fits the first two only. A adds its own caution: "I would not automatically interpret a kinetic trap as governance regret", since molecular kinetics select an outcome without anyone updating anything. The record agrees: regret needs an update to compare. Majikes et al. 2021 ([NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md)) give the molecular form of the first distinction. A single fold's target is feasible, yet at high staple excess most molecules sit in an equilibrium blocked state: a realized shortfall with no infeasibility, and no regret, because nothing chose.
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes, Patrone, Kearsley, Zwolak and Liddle, "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), fit the claim's separation of
+structural infeasibility from a realized shortfall. At a single fold the
+target is feasible and the shortfall is realized and equilibrium: yield
+falls at high staple excess through the blocked state, not through any
+infeasibility of the fold. A distinct, measurable gap with the target
+attainable.
+
+No status changes.

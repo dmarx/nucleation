@@ -1,0 +1,98 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) from the authors' accepted manuscript in
+  Oxford's institutional repository (ORA), main text, Methods and Extended
+  Data legends in full, figures seen only through their legends and the
+  labels the text conversion recovered; worth reading as an experiment in
+  which one DNA origami template with several near-degenerate target folds
+  is annealed to different distributions of them by changing only which
+  staples stabilize intermediates, read out by AFM shape counts and matched
+  by a domain-level kinetic model. Its main limits: one anneal ramp and one
+  buffer; fitted AFM yields of 36-62% on small samples (N = 59 to 223);
+  the degeneracy of the final folds and the absence of an energetic penalty
+  are design arguments, not measurements; the model is not
+  thermodynamically self-consistent and fails for one of four variants.
+title: 'Guiding the folding pathway of DNA origami'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to connect the
+    record's realizability inquiry to DNA origami; the works were chosen by
+    the assistant. The citation was checked by the reader against Crossref
+    (no email sent): Katherine E. Dunn, Frits Dannenberg, Thomas E.
+    Ouldridge, Marta Kwiatkowska, Andrew J. Turberfield and Jonathan Bath
+    (Dunn and Dannenberg equal contribution), Nature 525, 82-86; online 19
+    August 2015, which is `published:`, print issue September 2015; PMID
+    26287459 from OpenAlex. No correction was needed. Read from the
+    accepted manuscript in Oxford's institutional repository
+    (https://ora.ox.ac.uk/objects/uuid:0c653a04-11ed-4123-9b9b-188bedadbc52),
+    found through OpenAlex's location list; OpenAlex marks the publisher's
+    copy closed. The supplementary zip from the same record holds the
+    staple sequences and was not read. Status Active.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-05'
+published: '2015-08-19'
+doi: '10.1038/nature14860'
+first_author: 'Dunn'
+keywords:
+- 'DNA origami'
+- 'folding pathway'
+- 'kinetic trap'
+- 'cooperativity'
+- 'staple design'
+- 'atomic force microscopy'
+- 'continuous-time Markov chain'
+implementations: []
+summary: >-
+  Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield & Bath (2015). A
+  dimer DNA origami template, two head-to-tail copies of a rectangular
+  tile, can fold into about 10^23 staple configurations, of which 22
+  well-folded routings form 6 distinguishable shapes of roughly equal free
+  energy; AFM shape counts of annealed samples report which folding
+  trajectories were taken. Halving one staple of each cooperative
+  long-range seam pair shifts the products strongly toward the fold that
+  short-range staples favour, and extended short-range staples suppress
+  another fold, both by the authors' argument without changing the final
+  folds' relative stability. In their domain-level kinetic model, strong
+  early seams trap 52% of runs in misfolds against 1% for broken seams.
+---
+<!-- inactive-ok-file: THEORY-tmp2h496 CLAIM-583 CLAIM-562 — Proposed or new; cited from the reading of Dunn et al. (2015) as open -->
+
+# LIT-tmpqku12: Guiding the folding pathway of DNA origami
+
+Dunn, K. E., Dannenberg, F., Ouldridge, T. E., Kwiatkowska, M., Turberfield, A. J. & Bath, J. (2015). Guiding the folding pathway of DNA origami. *Nature* 525: 82–86. doi:10.1038/nature14860.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md). Page numbers are the accepted manuscript's.*
+
+- **Same targets, different outcome by intermediate design.** "We have
+  changed the distribution between folds not by changing the relative
+  stability of the final states but by deliberately controlling the
+  stabilities of crucial intermediate states" (p. 6).
+- **Strong early contacts trap.** "If long-range bonds are allowed to form
+  first and, effectively, irreversibly then folding is kinetically
+  trapped" (p. 7); from the 1:1 intermediate "the 5:0 fold is inaccessible
+  unless at least one seam connection is broken" (p. 6).
+- **Weaker staples, fewer misfolds (model).** 52% misfolds for full seam
+  staples against 1% for broken seams (Extended Data Fig. 8).
+- **The observer is coarse.** Four routings per shape are "not resolved by
+  AFM imaging", and folds m:n and n:m are not distinguished.
+
+## Standing in the record
+
+Registered at the owner's request to connect the record's realizability
+inquiry to DNA origami. It is the record's experimental case of one
+target set reached with different frequencies by changing only the
+intermediates a design stabilizes, which bears on [CLAIM-583](../claims.d/CLAIM-583.md) with a
+qualification (the move costs change with the staples) and fits [CLAIM-562](../claims.d/CLAIM-562.md)
+(less binding strength, better outcome). It is the experimental companion
+of Dannenberg et al. (2015), [LIT-tmpdyrnb](LIT-tmpdyrnb.md), whose local model it uses, and
+it sits beside the held simulation of DeLuca et al., [LIT-2081](LIT-2081.md). Filed from
+it: [THEORY-tmp2h496](../theory.d/THEORY-tmp2h496.md). No instruction for machine-learning practice;
+nothing for the anthology.

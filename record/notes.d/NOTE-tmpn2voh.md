@@ -1,0 +1,223 @@
+---
+status: Read
+paper: 'LIT-tmpog2df'
+title: 'Cumberworth, Frenkel and Reinhardt — Design-dependent nucleation barriers in DNA origami'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05. The main text was read in full, with figure
+    captions, from the published version's JATS full text in Europe PMC
+    (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9479157/fullTextXML),
+    CC BY 4.0, converted to plain text; its reference list kept titles
+    only. The Supporting Information was read in part from the arXiv v2
+    PDF (https://arxiv.org/pdf/2204.02499v2), which includes it: §A
+    (ensemble and moves), §F (model parameters), the order-parameter
+    passage and the captions of Figures S8–S13 were read; the derivation
+    of the model's potentials and the REMWUS/MBAR method were skimmed or
+    skipped, and the SI figures were not seen as images. pubs.acs.org was
+    not tried.
+date: '2026-11-05'
+summary: >-
+  Monte Carlo free energies of a domain-level lattice model of one
+  scaffold in staples at constant chemical potential, for four small
+  planar designs. Designs S, D and two-row assemble downhill; three-row,
+  with three-domain staples, has a barrier of about 10 kBT at Tm (about 20
+  kBT at domain resolution) that is gone a few degrees below. Stacking
+  between adjacent staples switches the barrier on and off; hybridization
+  strength barely moves it. Equilibrium only: no kinetics, yields or
+  simulated hysteresis.
+---
+<!-- inactive-ok-file: THEORY-tmpyfhtk THEORY-1398 THEORY-tmpfdm4r THEORY-tmp500wn NOTE-tmp1fpff NOTE-tmpwxm2p CLAIM-567 CLAIM-583 CLAIM-571 CLAIM-581 CLAIM-591 CLAIM-569 CLAIM-566 CLAIM-557 CLAIM-574 CLAIM-184 CLAIM-185 CLAIM-tmp7y162 CLAIM-tmpiyvk1 TERM-tmp3awsy — Proposed, Skimmed or new; cited from the reading of Cumberworth, Frenkel and Reinhardt (2022) as open -->
+
+# NOTE-tmpn2voh: Cumberworth, Frenkel and Reinhardt — Design-dependent nucleation barriers in DNA origami
+
+## Contribution
+
+By the authors' framing the first numerical evidence on the question, since
+"no numerical evidence has been given to show that such a barrier exists"
+(introduction): an origami nucleation barrier exists for some designs and
+not others, and its height is set by the stacking of each staple with its
+neighbours, not by the size of the structure or the strength of
+hybridization.
+
+## Key insight
+
+Cooperativity is not enough for a barrier; it takes a particular kind.
+Stacking makes a staple bind more readily next to bound staples, so when
+several bind and stack together "the energetic gain can be sufficient to
+overcome the entropic cost of binding at a temperature that is higher than
+it would be for a given staple in isolation". Where staples have few
+stacking partners (edge staples, single-domain staples), there is no
+barrier; where they have many and are alike, a barrier appears, but only in
+a window just below melting.
+
+## Assumptions
+
+- **Equilibrium only.** Free energies from umbrella sampling near the
+  estimated Tm, extrapolated by MBAR. No kinetics: no folding times, ramps
+  or yields. That nucleation "can be a rate-limiting step" is inferred from
+  barrier heights.
+- **One scaffold, ideal staples in excess** at constant concentration (SI
+  §A: "A single scaffold is present"); the model "does not include free
+  staples or other scaffolds".
+- **Averaged energies** for the designed systems, including misbinding
+  (SI §F), which the SI warns "may not give a good representation of
+  misbinding".
+- **Small designs** of at most 27 domains, argued to generalize because the
+  barrier "scales with the per-staple stacking strength, rather than a
+  global measure of the origami size".
+- **Conditions** (SI §F): 0.5 M monovalent cation, 100 nM per staple type,
+  16-nt domains.
+
+## Key results
+
+- **No barrier in S and D (Fig. 2a; SI Fig. S9).** "The free energies for
+  systems S and D show no nucleation barrier along either order
+  parameter"; along bound-domain pairs the profile alternates, "a small
+  easily surmountable barrier" from a staple's second domain binding more
+  cheaply than its first.
+- **Barrier in three-row, not two-row (Fig. 2b).** Two-row "has no
+  nucleation barrier"; three-row peaks "at four fully bound staples, with a
+  magnitude of ∼10kBT", "giving a total barrier of around 20kBT" with the
+  domain-level peaks, and true barriers are "likely somewhat higher".
+- **Temperature (Fig. 3a).** "As the temperature is lowered to below the
+  melting point, the barrier along the number of fully bound staples
+  disappears after a few degrees".
+- **Not hybridization strength (Figure S10).** Hybridization energies 50%
+  smaller or larger shift Tm but have "almost no effect on the barrier
+  height", binding strength and entropic cost appearing "to cancel each
+  other".
+- **Sharpness (Fig. 3b).** Three-row goes "from entirely unbound to entirely
+  bound in less than ∼1 K"; the barrier implies "not only stronger
+  cooperativity but also the presence of a particular type of
+  cooperativity".
+- **Three routes.** Loop closure "could plausibly lead to a nucleation
+  barrier", but with averaged energies "this mechanism cannot dominate in
+  this case"; the cheaper later domains "cannot explain the barrier";
+  stacking does.
+- **Stacking switches it (Fig. 2c; SI Figs. S11, S12).** In three-row,
+  halving the stacking energy "leads to the complete disappearance of the
+  barrier"; in two-row "a clear barrier is seen as the stacking energy is
+  scaled by 1.5 or more"; S and D stay barrier-free even with doubled
+  stacking, S having "a relatively high number of edge staples" and D many
+  single-domain staples.
+- **Pathway (Fig. 4; SI Fig. S13).** With full stacking a central cluster
+  forms and spreads; with half stacking "staples bind uniformly to the
+  scaffold during assembly."
+- **Heterogeneity lowers the barrier.** To get one, "design staple sequences
+  that have interaction energies that are as monodisperse as possible."
+- **Rationale.** "origami designs either have no barrier or have one that
+  exists only around the melting temperature"; to use a barrier, assemble
+  "just below the melting temperature to retain the barrier and still have
+  a good yield due to the sharp transition".
+- **Jamming conjecture, not simulated.** "If staples bind to multiple places
+  on the scaffold concurrently, then the rearrangement times of the helices
+  in different partially assembled chunks could be very slow, potentially
+  leading to jammed states. A barrier allows for assembly pathways that
+  begin locally and then grow out from that point."
+- **Aggregation.** Free energies are downhill after a staple's first domain
+  binds, so staples bind fully, making origami "less prone to aggregation"
+  than bricks.
+- **Other barriers conceded.** "larger DNA-origami structures with complex
+  scaffold routing might be subject to other kinds of free-energy barriers".
+
+## Concepts
+
+- **Nucleation barrier**: a free-energy maximum along an assembly order
+  parameter between the unassembled and assembled minima.
+- **Order parameters**: the number of fully bound staples and the number of
+  bound-domain pairs; the SI notes the count of (mis)bound staples "cannot
+  be used to determine whether the system is fully assembled".
+- **Coordination number**: binding domains, and so stacking partners, per
+  staple.
+- **Edge staples**: staples at helix ends, with fewer stacking partners.
+
+## Connections
+
+- **The 2025 review ([LIT-tmp7dfy2](../literature.d/LIT-tmp7dfy2.md), [NOTE-tmp1fpff](NOTE-tmp1fpff.md), Skimmed).** This paper is
+  the review's primary source for its §2.3 and is consistent with its claim
+  that barriers are not required for origami. It frames a barrier as
+  possibly useful, where the review frames it as unnecessary; neither
+  simulates kinetics. The review adds a loop-closure route and a
+  toehold-exchange route that this paper sets aside only for averaged
+  energies.
+- **Dannenberg et al. ([NOTE-tmpyo994](NOTE-tmpyo994.md), [THEORY-tmpfdm4r](../theory.d/THEORY-tmpfdm4r.md)).** System D is a
+  subset of their tile and shows no barrier here even with doubled stacking,
+  so the hysteresis they model in such designs is kinetic, from asymmetric
+  rates under ramps; both name stacking as a source of cooperativity.
+- **Majikes et al. ([NOTE-tmppwpd0](NOTE-tmppwpd0.md))** measure the loop-order cooperativity
+  this paper sets aside.
+- **Sobczak ([NOTE-tmpwxm2p](NOTE-tmpwxm2p.md), [THEORY-tmp500wn](../theory.d/THEORY-tmp500wn.md)) and Schneider et al.
+  ([NOTE-tmpqi66a](NOTE-tmpqi66a.md))** report the experimental isothermal folding windows this
+  paper rationalizes.
+- **DeLuca et al. ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md))**: global topological
+  traps, one of the "other kinds of free-energy barriers" larger designs may
+  have.
+- **Winfree and Bekbolatov ([NOTE-tmppy063](NOTE-tmppy063.md))**: the tile crystal there relies
+  on a critical nucleus to keep rule tiles from nucleating spuriously; here
+  most origami have none and still assemble.
+
+## Bearing on the record
+
+- **[CLAIM-571](../claims.d/CLAIM-571.md): supports.** In three-row near Tm, reaching the target means
+  crossing about 10–20 kBT above both end states, more than holding it
+  needs; a few degrees lower the threshold falls away.
+- **[CLAIM-569](../claims.d/CLAIM-569.md): supports.** Just below Tm the target is stable but sits behind
+  a barrier: design can separate the cost to hold from the cost to enter.
+- **[CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md): supports from simulation.** Temperature sets whether a
+  barrier exists at all; a barrier-keeping protocol must sit in a window of
+  a few degrees at Tm.
+- **[CLAIM-583](../claims.d/CLAIM-583.md): supports in spirit.** The same routing and staple set gain or
+  lose a barrier when only stacking changes, but costs differ, so this is
+  not the equal-cost case.
+- **[CLAIM-581](../claims.d/CLAIM-581.md): illustrates** a peak cost on a reversible path, though along
+  a one-dimensional projection, not between configurations.
+- **[CLAIM-591](../claims.d/CLAIM-591.md): leaves open.** At equilibrium the barrier is crossed both
+  ways; the hysteresis it is said to explain is not simulated.
+- **[CLAIM-567](../claims.d/CLAIM-567.md): leaves open**: no yields.
+- **[CLAIM-566](../claims.d/CLAIM-566.md): assembly only.** Switching without hysteresis is reassembly
+  driven from outside, not regeneration.
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md): a small instance.** The finer order parameter
+  (bound-domain pairs) shows barrier the coarser one hides, and the count of
+  (mis)bound staples cannot tell assembled from not.
+- **[CLAIM-184](../claims.d/CLAIM-184.md): speculative support**, through the jamming conjecture.
+- **[CLAIM-185](../claims.d/CLAIM-185.md): qualifies.** A nucleation threshold is not what makes origami
+  persist: most designs have none and still assemble.
+- **[CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md): consistent, leaves open.** Free energies rank states by
+  stability, not by committor, and no committor is computed.
+- **[QUESTION-380](../questions.d/QUESTION-380.md): directly relevant, as conjecture.** A barrier makes
+  assembly start from one local nucleus; the pathway change is shown
+  (Fig. 4), the yield benefit is not.
+- **[TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md): bears on it.** The barrier-top cluster is a kinetic
+  nucleus in the term's sense; whether it is productive is untested, and the
+  half-stacking runs are a ready comparator.
+- **[QUESTION-tmp4jbc3](../questions.d/QUESTION-tmp4jbc3.md): the mechanism is generative.** Bound, stacked staples
+  change the binding free energy of their neighbours; with half stacking the
+  same count of bound staples is spread uniformly, nearer a pure state
+  advantage. The evidence is equilibrium occupancy, not downstream rates.
+- **[QUESTION-tmpesr9t](../questions.d/QUESTION-tmpesr9t.md), [QUESTION-tmpdbsh1](../questions.d/QUESTION-tmpdbsh1.md)**: past the peak growth is downhill
+  only while the temperature is held; below Tm there is no barrier and
+  nothing to become independent of.
+- **[QUESTION-281](../questions.d/QUESTION-281.md)**: an instance of design-dependent nucleation, and of its
+  absence.
+- **[THEORY-1398](../theory.d/THEORY-1398.md), [NOTE-1561](NOTE-1561.md): complementary**, as above.
+- Filed: [THEORY-tmpyfhtk](../theory.d/THEORY-tmpyfhtk.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- Equilibrium free energies only: no kinetics, yields, folding times or
+  simulated hysteresis.
+- Small 2D lattice designs of at most 27 domains; three-row is an idealized
+  maximum-crossover design, not a common one.
+- Misbinding averaged; aggregation and free staples excluded.
+- Barrier heights are model-dependent lower bounds.
+- Nothing experimental.
+
+## Open questions
+
+- Does a barrier raise yield or shorten folding time against a matched
+  design without one? A kinetic model comparing full and half stacking
+  would tell.
+- Do larger designs with heterogeneous staple energies keep any barrier?

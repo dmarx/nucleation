@@ -63,6 +63,7 @@ complements:
 - CLAIM-303
 - CLAIM-195
 ---
+<!-- inactive-ok-file: CLAIM-tmpiyvk1 TERM-tmp3awsy — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -290,3 +291,27 @@ No status, title or warrant changes.
 Two readings from the pasted synthesis on constraint architectures qualify the anchor idea, by analogy. DeLuca et al. ([NOTE-1561](../notes.d/NOTE-1561.md)) find a persistent precursor, the "proto rod", on which later order grows, but early coalescence "is not a perfect predictor of overall folding performance", and a run can be "caught in a global topological trap": a persistent early structure can be the wrong anchor. The paper does not call this nucleation, and it is simulation. Stern et al.'s folding islands ([NOTE-1571](../notes.d/NOTE-1571.md)) are local seeds that fix a global outcome, a badly placed one locking in a distractor; no thermal barrier is crossed, so they are not nucleation sites in the strict thermodynamic sense. Both bear on what an anchor does once it persists, not on what makes a structure persist.
 
 [QUESTION-380](../questions.d/QUESTION-380.md) asks the organizational counterpart: when a small, internally compatible subsystem biases global organization, as folding islands do. DeLuca et al.'s precursor shows that an early anchor can be the wrong one. No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), qualify the claim. More short, stable early folds, more anchors, made outcomes worse: the design rotated to maximize short folds "performs objectively worse". What predicted quality was the distribution of loop-entropy penalties from short through medium to long folds, not the number of persistent anchors. Whether persistence is the threshold in other systems is left open.
+
+No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A reads this claim "with an important qualification": "Persistence makes anchoring possible; productivity requires demonstrating that the anchor improves subsequent development. A stable anchor is not necessarily a good anchor." [CLAIM-tmpiyvk1](CLAIM-tmpiyvk1.md) shows the two vary independently: a state's chance of reaching the target does not depend on how long it persists. [TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md) names what the anchor must also be, a productive nucleus, judged against a comparator. The claim's "can evolve only on anchors" is untouched; a reading of it on which every anchor helps is not.
+
+No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Cumberworth, Frenkel and Reinhardt, "Design-dependent nucleation barriers".** Qualifies. In the origami simulated, a nucleation threshold is not what makes structure persist: most designs have no barrier at all and still assemble downhill. Where a barrier exists, the barrier-top cluster is a threshold for growth only near Tm. Left open: larger designs may have other barriers.
+
+No status changes.

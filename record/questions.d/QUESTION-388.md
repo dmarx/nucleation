@@ -95,3 +95,24 @@ for its reconfiguration comes from.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The pasted synthesis on resource-bounded realizability first asks whether constraints are constitutive of the object or can themselves be reconfigured by computation, which would point to "computation that constructs, modifies, and navigates spaces of constraints"; A then finds the filing already answers yes. [TERM-114](../terms.d/TERM-114.md) gives a frame in which this question can be put: changes of architecture are costed moves of their own, beside moves within one architecture. In that frame a merely programmable system is one whose architectural moves are chosen from outside, and the question is what makes the choosing the system's own. The frame states the moves and does not answer that. The reading is the filer's. No status changes.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+Douglas, Bachelet and Church's barrel ([NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md)) is a clean case of the programmable side. Its rule, which antigens open it, is set at folding by the aptamer sequences installed; six lock versions were built. Nothing in it feeds back on that rule. A's synthesis draws the same line: "That response does not automatically grant the structure the ability to revise the rules governing its own behavior." So DNA origami, as read here, offers programmable systems and no self-governing one.
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), give a clean "merely
+programmable" case for the question. The lock pair (and hence the response
+function) is set from outside; there is no internal process updating it
+from the device's own states; opening is a one-shot, input-triggered
+conformational change, not a rewrite of the rule. It sits below a system
+with internal feedback.
+
+No status changes.

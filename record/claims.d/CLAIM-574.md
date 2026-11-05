@@ -162,3 +162,35 @@ implication valid at a budget is valid at every lower one.
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 [CLAIM-557](CLAIM-557.md) pairs this result with its opposite for acting: under peak costs and reversible moves, the classes of what can be turned into one another only merge as the acting budget grows ([CLAIM-581](CLAIM-581.md)). The observing budget here and the acting budget there index one system's budgeted individuation together. No status changes.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md), qualifies the claim's applicability to
+physical probes. Its hypothesis takes nested, non-invasive probes; in AFM the stronger probe, sharp
+tips and hard tapping, resolves single missing staples, yet "repeated scanning created holes
+difficult to distinguish from holes due to missing strands". A larger observing budget can
+manufacture distinctions as well as reveal them.
+
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), support refinement
+within a chain and qualify nesting by cost. Gel mobility and TEM averages merge 0, 5 and 15 missing
+staples; a cheap defect label splits them down to about 10 bases; cryo-EM, far costlier, "might be
+able to resolve site-specific defects, but it will be blind to stochastically distributed defects".
+The probes are not nested by cost, which the claim's hypothesis needs.
+
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), give a physical instance of distinctions that only grow as the probe family grows. Melting temperature, the coarsest probe, already separates the scaffolds of different persistence length. The finer derived quantities (ΔH, ΔS, ΔCp) resolve only the short persistence-length scaffold, because uncertainty "propagates aggressively through the van’t Hoff analysis". Adding a domain-specific reporter separates what bulk probes merge. The paper leaves open any formal statement of the nesting.
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+- The gel merges a damaged design with well-folded ones.
+- It also splits well-folded designs by mobility.
+
+This bears on CLAIM-574's nesting of probe families. No probe costs are quantified.
+
+No status changes.

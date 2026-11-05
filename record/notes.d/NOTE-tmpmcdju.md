@@ -1,0 +1,201 @@
+---
+status: Read
+paper: 'LIT-tmpzoh9c'
+title: 'Scheckenbach et al. — Self-regeneration and self-healing in DNA origami'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the Europe PMC full-text XML
+    (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7986372/fullTextXML),
+    CC BY 4.0, converted to plain text with the reference list removed
+    (references cited below come from the XML). Read in full: the main
+    text, Scheme 1 and the legends of Figures 1–4. Not read: the
+    Supporting Information (Figures S2–S14, Table S3 and the SI discussion
+    of toehold kinetics), which Europe PMC lists only as an additional data
+    file; the toehold results (Figs. S8, S9), the annealing ramp (Table S3)
+    and the multi-cycle bleaching (Fig. S4) are known here only as the main
+    text states them.
+date: '2026-11-05'
+summary: >-
+  DNA origami repaired from strands in solution, in two modes the authors
+  separate. Self-regeneration: weakly bound 13-nt labels turn over against
+  a 5 nM pool and recover after bleaching, fully when photostabilized.
+  Self-healing: free staples enter only where a toehold is exposed, so a
+  matching staple pool keeps 76% of nanorulers intact over 11 days in 0.2%
+  serum against 12% without, and fails to beat non-matching DNA in 10%
+  serum. A 12HB missing nine staples is half repaired by an anneal from
+  50 °C. The scaffold cannot be repaired.
+---
+<!-- inactive-ok-file: THEORY-tmpy8h1y THEORY-tmp1799q CLAIM-566 CLAIM-569 CLAIM-571 CLAIM-567 CLAIM-591 CLAIM-572 CLAIM-478 — Proposed or new; cited from the reading of Scheckenbach et al. (2021) as open -->
+
+# NOTE-tmpmcdju: Scheckenbach et al. — Self-regeneration and self-healing in DNA origami
+
+## Contribution
+
+The first explicit split, for DNA nanostructures, between indiscriminate
+repair by turnover and repair triggered by damage; a mechanism for
+damage-specific repair that needs no sensor, since the damage itself exposes
+a scaffold toehold where displacement by a free staple is favoured; and
+measures of how complete the repair is, together with a demonstration that
+it keeps up only below a damage rate.
+
+## Key insight
+
+A folded origami can be maintained, not only made, but only from outside.
+Weak binding turns a label into a part that is replaced all the time;
+partial binding turns a damaged staple into one that is replaced
+preferentially. Either way the replacement comes from a pool the structure
+does not make, and repair keeps pace with damage only while damage is slow.
+
+## Assumptions
+
+- Brightness, AFM bend angle, the count of DNA-PAINT marks, localizations and
+  off-times stand in for structural and functional integrity.
+- Damage to a staple exposes a toehold: shown for designed short staples,
+  inferred for nuclease damage.
+- Surface-immobilized structures stand in for structures in solution.
+- The protection non-matching DNA gives is sacrificial, nucleases being
+  titrated away from the origami.
+
+## Key results
+
+- **Two modes (Scheme 1).** Self-regeneration is "Steady‐state exchange of
+  random building units (intact and defective) with intact building units";
+  self-healing is "specific exchange of defective building units".
+- **Regeneration needs weak binding (Fig. 1D–H).** Permanent 20-nt labels
+  recover "up to 15 %", by "post‐labeling of previously inaccessible docking
+  strands". 13-nt labels bind "on the order of minutes"; their spots
+  "recovered over the course of three hours" but "saturated at 20–60 % of
+  the initial fluorescence intensity", oxygen species damaging the docking
+  sites. With oxygen removal and ROXS "the self‐regenerating label recovered
+  completely to 100 % of its initial brightness". Over repeated damage, "a
+  stable recovery of over 60 % of initial brightness even after 5 bleaching
+  cycles" (Fig. S4, as reported).
+- **Missing staples, partly and with heat (Fig. 2).** A "300× excess of the
+  missing staple strands starting at 50 °C (i.e. below the denaturation
+  temperature of the 12HB) and slowly cooling to room temperature" gave a
+  "decrease of the defective fraction from initially 63 % to only 32 %" by
+  AFM and "from initially 72 % to 38 %" by DNA-PAINT. The authors' caveat:
+  "these experiments do not finally prove a self‐healing mechanism as it is
+  conceivable that also intact staple strands" "could be constantly
+  exchanged".
+- **Selectivity from a toehold (Figs. S8, S9, as reported).** "Efficient
+  incorporation of the added staples could only be observed when the NRO
+  nanorulers were previously assembled with shorter staple strands so that a
+  toehold of 4 or 8 nucleotides was formed"; exchange of a defective staple
+  "is kinetically and thermodynamically feasible due to the incomplete
+  hybridization to the scaffold, while intact staple strands are not
+  replaced."
+- **Low damage rate (Fig. 3; 0.2% serum, 11 days).** Nanorulers showing all
+  three marks: serum only 87% → 12%; non-matching DNA, read as "sacrificial
+  degradation", 83% → 56%; matching staples at "5 μM (i.e. 22.5 nM per
+  individual staple strand)" 85% → 76%. With serum only, localizations fell
+  "to under 20 %" and off-times rose "almost 4‐fold"; with matching staples
+  both were stable "almost over the whole 11‐day period".
+- **High damage rate (Figs. S11, S12, as reported).** In 10% serum, "a
+  comparable stabilization of nanorulers by the matching and non‐matching
+  DNA staples, suggesting that fast degradation under these conditions
+  cannot be compensated by self‐healing"; "Self‐healing of DNA origami is
+  thus limited to lower damage rates".
+- **Combined repair (Fig. 4; 6HB, nicking enzyme).** Photobleaching alone:
+  "to 70 % after 8 h"; enzyme alone: "a plateau below 20 %"; enzyme with 5 nM
+  imager: "no degradation was visible over 1200 min"; after washing out the
+  enzyme and re-adding imager, recovery "back to almost 100 %" (Fig. S13).
+- **Limits (Discussion).** "only staple strands can be repaired via this
+  approach, while damages to the long DNA scaffold strand cannot be
+  addressed"; the 12HB's elevated temperatures "might also not be suitable
+  for all applications".
+- **Observation costs.** Imaging bleaches and damages the labels, so the
+  serum series used time-lapse imaging at "100 ms every 60 s".
+
+## Concepts
+
+- **Self-regeneration**: indiscriminate steady-state exchange of units.
+- **Self-healing**: damage-specific exchange.
+- **Toehold-gated displacement** inside a folded origami.
+- **Sacrificial protection**: unrelated DNA drawing off nucleases.
+- **Repairable parts and an unrepairable template**: staples against the
+  scaffold.
+- **Damage rate against repair rate.**
+
+## Connections
+
+It builds on DNA-PAINT and transient labelling (Stehr et al.), on Li and
+Schulman's self-healing nanotubes in serum (not held), and reverses the
+toehold removal of staples by catching strands (Zhang et al.; Douglas,
+Bachelet and Church 2012, [NOTE-tmpgw5ab](NOTE-tmpgw5ab.md)). Among this batch:
+
+- **Ni et al. ([NOTE-tmp79i4g](NOTE-tmp79i4g.md))**: replication from supplied parts with
+  nothing repaired; this paper is repair from supplied parts with nothing
+  replicated.
+- **Marras et al. ([NOTE-tmpjeolx](NOTE-tmpjeolx.md), [THEORY-tmp1799q](../theory.d/THEORY-tmp1799q.md))**: the same
+  strand-displacement chemistry used for actuation; here it maintains.
+- **Wagenbauer, Wachauf and Dietz ([NOTE-tmpmw05j](NOTE-tmpmw05j.md))**: quality after folding;
+  this is quality after damage.
+- **Winfree and Bekbolatov ([NOTE-tmppy063](NOTE-tmppy063.md))**: a tile crystal refills a
+  puncture from its monomer pool, imperfectly; both systems repair from
+  supplied parts gated by the structure's own constraints, and neither makes
+  its parts.
+
+## Bearing on the record
+
+- **[CLAIM-566](../claims.d/CLAIM-566.md): supports both clauses, and corrects a premise.** Origami does
+  regenerate in the paper's sense, to 76% intact against 12%, and to full
+  brightness, but every part comes from solution: regeneration without
+  closure, apart from [TERM-070](../terms.d/TERM-070.md).
+- **[QUESTION-tmpesr9t](../questions.d/QUESTION-tmpesr9t.md): corrects the line that nothing in any origami read
+  repairs itself.** Origami repairs staple-level damage, from supplied
+  strands (5 nM imager, 22.5 nM per staple), by a selectivity of its own (the
+  toehold damage exposes) and, for missing staples, with heat. The scaffold
+  is a template for repair and produces nothing.
+- **[QUESTION-tmpdbsh1](../questions.d/QUESTION-tmpdbsh1.md): the opposite case, for maintenance.** The folded
+  object persists without excess staples, but repair against ongoing wear
+  never becomes independent of supply (Fig. 4, enzyme without imager, below
+  20%). Supply was never withdrawn during maintenance.
+- **[CLAIM-569](../claims.d/CLAIM-569.md): supports.** Maintenance is a standing pool at room
+  temperature; re-entry from a damaged state took a 300× excess and an
+  anneal from 50 °C, and stayed incomplete.
+- **[CLAIM-571](../claims.d/CLAIM-571.md): supports in kind.** Restoring the kinked 12HB needed a
+  temperature peak above what holding the folded state needs.
+- **[CLAIM-567](../claims.d/CLAIM-567.md): qualifies.** Repair is reachable for about half the damaged
+  structures: reachable, not reliably reached.
+- **[CLAIM-520](../claims.d/CLAIM-520.md): supports qualitatively.** The matching pool beats the
+  non-corrective control at a low damage rate (76% against 56%) and gives no
+  gain at a high one; the cost of the pool is not priced.
+- **[CLAIM-516](../claims.d/CLAIM-516.md): the case it excludes.** The capacity persists under turnover
+  because production is basal, an external pool, which shows what the
+  external supply buys.
+- **[CLAIM-591](../claims.d/CLAIM-591.md): a loose fit.** Displacement is one-way where a toehold exists
+  and does not occur at intact staples.
+- **[CLAIM-572](../claims.d/CLAIM-572.md), [QUESTION-374](../questions.d/QUESTION-374.md): bears on them, in this reading.** Observing
+  spends the function observed, so imaging is sparse; observation and
+  maintenance draw on one budget, light dose against repair capacity. The
+  authors do not frame it so.
+- **[CLAIM-478](../claims.d/CLAIM-478.md): bears on it, in this reading.** The scaffold, which neither
+  turns over nor is repaired, is the slow constraint; staples exchange fast
+  against it, and repair works in the window between.
+- **[NOTE-114](NOTE-114.md)**: self-repair listed as a mark of a biological individual;
+  here it comes without the others.
+- Filed: [THEORY-tmpy8h1y](../theory.d/THEORY-tmpy8h1y.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- The SI was not read; the toehold evidence, the annealing ramp and the
+  multi-cycle data are known only from the main text.
+- No repair rate constants; times are coarse (about 3 h, 2 h, 11 days, 1200
+  min).
+- Nuclease-made toeholds are inferred, not observed.
+- Surface-immobilized structures.
+- Supply never withdrawn during maintenance; the authors do not exclude
+  exchange of intact staples in the 12HB experiment.
+- No energy accounting and no cost of the strand pool.
+- The scaffold cannot be repaired, so lifetimes are bounded.
+
+## Open questions
+
+- At what ratio of damage rate to repair rate does self-healing stop paying?
+  A series of serum concentrations between 0.2% and 10% would tell.
+- Does a structure under repair hold its integrity once the supply is
+  withdrawn, and for how long?

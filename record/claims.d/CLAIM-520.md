@@ -85,3 +85,15 @@ Skimmed in [NOTE-1604](../notes.d/NOTE-1604.md) as the stand-in for Jordan and G
 ## Note of 2026-11-04: the same conditionality for a dispatched resource
 
 A's [CLAIM-561](CLAIM-561.md) (Proposed) gives the dispatch analogue: provisional dispatch pays when p > (c0 + g)/(H + c0 − c1), which can be about 0.14, so neither a cancellation rate nor low use shows waste. [ARG-053](../arguments.d/ARG-053.md) (Rejected) is the counterpart of [ARG-042](../arguments.d/ARG-042.md). The claim is unchanged.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Winfree and Bekbolatov, "Proofreading tile sets"; Scheckenbach et al., "Self-regeneration and self-healing".** Two physical cases of a corrective capacity whose value depends on the setting.
+- Proofreading tiles ([LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md)) buy a 10⁴-fold speed-up where errors are in-site mismatches. They are "disappointingly modest" where facet errors dominate, at a K² tile cost.
+- A matching staple pool ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)) beats sacrificial non-matching DNA at a low damage rate (76 % against 56 % intact) and gives no gain in 10 % serum.
+
+Left open: neither prices the capacity's cost against its benefit.
+
+No status changes.

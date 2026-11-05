@@ -156,3 +156,34 @@ Readings from the pasted synthesis on constraint architectures give physical cas
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 A's own three levels, the configuration, the constraint architecture and the capacity for architectural change, are this claim's triad, which A does not cite. [CLAIM-566](CLAIM-566.md) crosses it with assembling, persisting and regenerating a form, and [QUESTION-388](../questions.d/QUESTION-388.md) asks what separates a programmable system from one that governs its own reconfiguration. No status changes.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+Douglas, Bachelet and Church's logic-gated barrel ([NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md)) separates the levels as the claim does. The operative regime is closed or open. What governs it is fixed when the barrel is folded: the pair of aptamer locks, which act as an AND gate over two antigens. No capacity to transform that rule is present; changing the gate means folding a new barrel with other aptamers. A's reading, "A molecular device can implement a designed policy without being an autonomous governor of that policy", is A's framing, consistent with the paper. Marras et al.'s mechanisms ([NOTE-tmpjeolx](../notes.d/NOTE-tmpjeolx.md)) are reconfigured only by strands added from outside.
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot for Targeted Transport of Molecular Payloads".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), read in [NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md),
+support the claim's three-way separation and make it physical. The device
+has an operative regime (closed or open) and a governing organization
+(which aptamer pair encodes the AND gate), both realized; the capacity to
+transform that organization is absent and external, the rule being fixed
+by the designer at fold time and not revisable by the device. This is the
+concrete case behind A's "a designed policy without being an autonomous
+governor of that policy".
+
+No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A suggests that a productive nucleus in a developing organization "might need some analogous separation: relations stable enough to serve as a scaffold, combined with processes that can revise other relations as the organization develops". A adds the limit: "A DNA staple can dissociate without recognizing an error or adopting a policy of correction." Reversible binding, which Dunn et al. find helps recovery, corrects without governing.
+
+No status changes.

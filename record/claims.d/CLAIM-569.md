@@ -46,6 +46,7 @@ summary: >-
   the filer's, from A's three resource requirements of a form; adopting
   it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CLAIM-571 TERM-105 TERM-106 CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: CASE-199 TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
@@ -116,3 +117,112 @@ budget, is the disconnection of [CLAIM-571](CLAIM-571.md)'s infinite threshold.
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 [TERM-116](../terms.d/TERM-116.md) prices this claim's three requirements per configuration: the incoming profile for constructing, the outgoing for moving out, and a maintenance profile that, in A's words, "is not supplied by Yoneda itself". A: a system "may be easy to assemble but hard to change once assembled"; in [CASE-199](../cases.d/CASE-199.md), L is cheap to reach from U and dear to leave for R. No status changes.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md), supports the separation as a suggestion:
+construction needs staple excess (at 1:1 about 1% of structures were rectangles), while "excess
+staple strands might be recycled" once folding is complete, so perhaps not needed to hold. The
+recycling is untested and the holding conditions were not measured.
+
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), supports the claim
+directly: between the folding window and the melting transition 5–10 °C above it, a folded object
+persists while an unfolded one does not form on laboratory timescales (the brick at 56 °C), and
+construction also needs a transient high-temperature step. It leaves open the brick's melting
+temperature, which the text read does not give, and whether a melted object returned into the band
+stays unfolded, which is inferred, not measured.
+
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), support the
+construct-maintain split loosely: construction needs a 65 °C heat shock and a tuned temperature
+schedule, while products are kept cold. Nothing about maintenance is measured.
+
+**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), [LIT-tmp11aw1](../literature.d/LIT-tmp11aw1.md), support the claim with three requirements that are visibly separate in one system:
+- Construct: a two-day thermal anneal at tenfold staple excess, then gel purification.
+- Maintain: bound strands or locking staples, with holding force and torque curves for the joints in pN and pN·nm/rad.
+- Transition: about a minute of strand addition (closing strands at twofold excess) or strand displacement (at twentyfold excess).
+
+None fixes another. The paper leaves open how they compare, since it puts them on no common scale.
+
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), give partial support on the maintain side. A single fold's melting temperature and free energy are measured on their own and depend on architecture: shorter folds and a less stiff scaffold are more stable, by more than 10 °C from short to long folds. Construction and transition are not measured: fluorescence is recorded on the melt ramp only, so the paper leaves open how the holding requirement relates to the other two.
+
+**Dannenberg, Dunn, Bath, Kwiatkowska, Turberfield and Ouldridge, "Modelling DNA origami self-assembly at the domain level".** Dannenberg and colleagues ([LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), [NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md)) support the separation in a model: halving
+or doubling the loop prefactor moves the annealing temperature from 65.3 to 68.2 °C while
+hysteresis, the cost of crossing, stays near 1.6-1.9 °C (Table II), and staple concentration moves
+construction (annealing) and not dissolution (melting). Maintenance as an ongoing cost is not
+modelled, and the evidence is simulation of one tile.
+
+No status changes.
+
+## Note of 2026-11-05: the further DNA origami readings
+
+The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
+
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), support the claim's
+three-cost structure cleanly. Construction pays a distinct extra cost not
+paid in operation: two guide staples added at folding (raising closed-state
+yield 48% to 97.5%) and then removed by toehold-mediated displacement.
+Transition (opening) is paid in antigen-key concentration, set by lock
+length and independent of what holds the shape. Holding cost is not
+measured. None of the three fixes another.
+
+**Douglas et al., "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), [LIT-tmpepjt3](../literature.d/LIT-tmpepjt3.md), support the construct-much-greater-than
+-maintain gap qualitatively: a week-long thermal ramp to fold, against 24 h
+incubations at 30–50 °C or a gel on ice that the folded product survives.
+Transition is not studied, and the costs are put on no common scale. No
+status changes.
+
+**Aksel, Navarro, Fong and Douglas, "Design principles for accurate folding of DNA origami".** Aksel et al. (2024), [LIT-tmpaxtww](../literature.d/LIT-tmpaxtww.md), qualify the claim. A hold-type quantity, the equilibrium stability of each staple at 50 °C, predicts construction yield across their 8 designs (R² = 0.86). In this design family, the cost of keeping the form and the cost of making it co-vary. The paper is a datum that the two can track each other, not a case that separates them. Its model omits kinetics, so it leaves open where they come apart.
+
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), give mild support. Concentration and anneal time, the constructing resource, are what the authors cut to provoke defects. Measured thermal stability, the maintaining side, enters their predictor as a separate term with about a third of the weight. It correlates with low defectivity rather than coming apart from it.
+
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), support the claim:
+- Making a copy costs about 21 h of slow cooling and a UV crosslink.
+- Keeping it is nearly free once it is covalent.
+- Moving out of the template complex needs heating to about 50 °C, a step bounded above by the tile's own unravelling.
+
+No maintenance cost is measured over time.
+
+No status changes.
+
+## Note of 2026-11-05: A's second synthesis on DNA origami
+
+From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
+
+A adds a distinction the claim's three requirements imply: "The architecture that supports a completed organization and the architecture that assembles it need not be the same thing." A's example is scaffold routing, which fixes how the chain traverses the target, and so the loop costs of forming it, apart from the target's geometry. Aksel et al. 2024 ([NOTE-tmptbrlo](../notes.d/NOTE-tmptbrlo.md)) qualify the example: in their family, the equilibrium stability of the finished staples, a holding quantity, predicts construction yield, and their model ignores kinetics. A's phrase "optimizing a developmental mechanism" goes beyond that paper.
+
+No status changes.
+
+## Note of 2026-11-05: Shirt-Ediss et al., "Optimising DNA origami assembly by reducing off-target interactions", read
+
+Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
+
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-tmp91912](../literature.d/LIT-tmp91912.md), read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md), give weak support: construction
+yield and persistence over 4 to 5 days at 4 °C are reported separately, and the band of the off-target-prone
+rectangle disappeared on storage, a failure of maintenance. Here construction and maintenance rank the
+variants the same way, so the reading does not dissociate them, and whether the lost band was misfolded
+product or the structure itself is not resolved.
+
+No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Cumberworth, Frenkel and Reinhardt, "Design-dependent nucleation barriers"; Scheckenbach et al., "Self-regeneration and self-healing".** Both support the claim's separation of resources.
+- In Cumberworth et al.'s free-energy calculations ([LIT-tmpog2df](../literature.d/LIT-tmpog2df.md)), a three-row origami just below Tm is stable but sits behind a barrier of about 10–20 kBT. Design and temperature set the cost to enter apart from the cost to hold.
+- In Scheckenbach et al. ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)), maintenance is a standing strand pool at room temperature (22.5 nM per staple), while re-entry from a 12HB missing nine staples took a 300× excess and an anneal from 50 °C, and stayed incomplete (63 % → 32 % defective).
+- Winfree and Bekbolatov ([LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md)) add a construction cost, K² tile species and K-fold size, separate from the conditions that hold the crystal.
+
+Left open: the costs are not priced against one another in any of the three.
+
+**Zhou, Sha, Ni, Seeman and Chaikin, "Mutations in artificial self-replicating tiles".**
+
+- In Zhou et al. (2021) the three requirements come apart.
+- Constructing a copy costs a full cycle: a 22 °C hold for an hour, 20 min of UV and fresh monomers.
+- Holding it is a covalent CNVK bond.
+- Moving the daughter off the template needs a 48 °C peak.
+- The paper measures none of these as resource costs, so their relative sizes are left open.
+
+No status changes.

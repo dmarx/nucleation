@@ -1,0 +1,236 @@
+---
+status: Read
+paper: 'LIT-tmpqku12'
+title: 'Dunn et al. — Guiding the folding pathway of DNA origami'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the authors' accepted manuscript in Oxford's
+    institutional repository, ORA
+    (https://ora.ox.ac.uk/objects/uuid:0c653a04-11ed-4123-9b9b-188bedadbc52),
+    file "Dunn_et_al_2015_Guiding_the_folding_pathway_of_DNA_origami.pdf",
+    8 PDF pages holding the 30-odd manuscript pages; text extracted by
+    pdftotext. Read in full: the main text, the legends of Figs 1-4,
+    Methods 1-4 (experiment and model) and the legends of Extended Data
+    Figs 1-10. The figures are images and were seen only through their
+    legends and the few numeric labels the conversion recovered (Fig. 4 N
+    and yields, Extended Data Fig. 6 peak temperatures, Extended Data
+    Figs 8-9 counts); the per-shape experimental histograms and AFM images
+    were not seen. Skipped: the Nature supplementary PDF (template and
+    staple sequences) and the four .ppt files in the same ORA record.
+    Page numbers below are the manuscript's.
+date: '2026-11-05'
+summary: >-
+  A dimer origami template with about 10^23 staple configurations and 6
+  distinguishable well-folded shapes of roughly equal free energy is
+  annealed once (95 to 25 °C at 1 °C per minute), and AFM shape counts
+  report which pathway was taken. Weakening the cooperative long-range
+  seam staples shifts products toward the fold short-range staples favour;
+  extended short-range staples suppress another fold; two further variants
+  steer by final-state stability instead. A domain-level kinetic model
+  matches three of four variants and puts misfolds at 52% with full seams
+  and 1% with broken ones.
+---
+<!-- inactive-ok-file: THEORY-tmp2h496 THEORY-1398 THEORY-1418 CLAIM-567 CLAIM-583 CLAIM-571 CLAIM-581 CLAIM-591 CLAIM-569 CLAIM-566 CLAIM-557 CLAIM-570 CLAIM-592 CLAIM-574 CLAIM-572 CLAIM-184 CLAIM-478 CLAIM-562 CLAIM-568 — Proposed or new; cited from the reading of Dunn et al. (2015) as open -->
+
+# NOTE-tmpvgzvb: Dunn et al. — Guiding the folding pathway of DNA origami
+
+## Contribution
+
+An origami built so that its folding pathway leaves a visible trace: a
+template whose staples can link within one copy or across two, giving a
+small set of near-degenerate well-folded shapes whose AFM distribution
+reports which trajectories were taken. With it the authors show that the
+distribution moves when only the staples that stabilize intermediates
+change, and they give a kinetic model in which early, cooperative,
+effectively irreversible long-range contacts trap folding, by analogy with
+disulphide bonds in Anfinsen's experiment.
+
+## Key insight
+
+Intermediate stability and final-state stability are separate design
+levers. Two staple sets that leave the targets equally stable can still
+reach them with very different frequencies, because what a part-folded
+structure has already committed to decides which targets stay accessible
+from it.
+
+## Assumptions
+
+- **Degenerate targets.** The well-folded shapes have roughly equal free
+  energy, and halving seam staples costs about the same in each; argued
+  from design, not measured.
+- **Protocol (Methods 1).** Template "at 4-10 nM with a ~10-fold excess of
+  staples from 95°C to 25°C at 1°C per minute", 40 mM Tris-acetate,
+  12.5 mM magnesium acetate. One ramp; no ramp-rate, isothermal or cation
+  series.
+- **Readout.** The AFM shape distribution of fitted objects (36-62% of
+  candidates) stands for the ensemble.
+- **Model (Methods 2-3).** Staples bind only complementary domains, each
+  fully bound or unbound; loop entropy from a freely-jointed chain along
+  the single shortest loop; fixed binding rate 10^6 /M/s; steric exclusion
+  by requiring each connected partial segment to sit in one of 74
+  pre-defined legal folds; no bending penalty.
+
+## Key results
+
+- **State space and targets (pp. 3-4).** About 2^76 ≈ 10^23 domain
+  pairings, yet "a small set of well-folded shapes are formed with good
+  yield"; "22 template routings" planar and well folded "give 6 unique
+  shapes", with a seventh, non-planar class. The monomer: "approximately
+  80% of tiles appear to be well folded."
+- **Broken seam (p. 6, Fig. 4b).** "Breaking in half one of each pair of
+  seam staples" "weakens these long-range bonds, causing them to form later
+  in the folding pathway"; the distribution "is shifted strongly towards
+  the 5:0i fold", confirmed by experiment. "The thermodynamic cost of
+  breaking every other seam staple is approximately equal in each
+  well-folded state and therefore this change should not affect their
+  equilibrium populations."
+- **Model counts (Extended Data Fig. 8, 1600 runs each).** Reference set:
+  5:0 231, 4:1 207, 3:2 268, non-planar 65, misfold 829; broken seam:
+  1418, 85, 82, 5, 10. "dramatically different yields of misfolds: 52% for
+  full-seam staples a, 1% for broken-seam staples b. Stable incorporation
+  of incompatible seam staples in a prevents the formation of well-folded
+  structures."
+- **Experimental counts (Fig. 4 labels).** Fitted fractions of candidate
+  objects: reference N = 59 (44%), broken seam 223 (52%), extended staples
+  99 (46%), alternate seam 62 (62%), long staple 93 (36%).
+- **Extended staples (p. 7, Fig. 4c).** "the 4:1 fold is strongly
+  suppressed (Fig. 4c)", and "this modification guides the folding pathway
+  without imposing an energetic penalty on alternative folds."
+- **Stability-based steering, and a model failure (p. 7).** 3:2-only seam
+  staples act "by increasing the stability of 3:2 relative to other
+  folds"; a long corner staple "by decreasing the stability of other
+  folds"; "(The model does not include any penalty for bending and so
+  fails to predict the engineered bias in this case.)"
+- **The trap (pp. 6-7).** "once the part-folded structure 1:1 has formed,
+  the 5:0 fold is inaccessible unless at least one seam connection is
+  broken"; "If long-range bonds are allowed to form first and,
+  effectively, irreversibly then folding is kinetically trapped. If they
+  are weakened and permitted to rearrange then folding can be controlled by
+  weaker short-range interactions." Broken seams "break and reform in
+  alternative configurations more frequently" (Extended Data Fig. 7).
+- **Misfold (Methods 2.2).** "Misfolds occur in the model when at least two
+  connected segments would be incapable of satisfying the constraints were
+  they to become connected to each other"; then "folding cannot advance
+  unless one of the segments unfolds".
+- **Hysteresis, on the monomer (Extended Data Fig. 6).** Labelled seam and
+  body staples, cooled 96 to 25 °C and reheated at 0.3 °C per minute.
+  "Hysteresis (marked *) is consistent with the cooperative binding of the
+  seam staple. When one half of the seam is broken the hysteresis observed
+  for seam staple binding is reduced and the seam staple is incorporated at
+  a lower temperature than the body staple." The model predicts a 2.0 °C
+  drop in seam incorporation temperature against 2.2 °C measured (Methods
+  2.4). The width of the hysteresis is not given as a number.
+- **Early state predicts outcome (model, p. 7).** "Characteristic patterns
+  of correlation can be used to predict the final fold even before seam
+  staple occupancy has reached 50%".
+- **What AFM cannot tell apart (p. 4, Extended Data Fig. 1).** Four
+  routings per shape are "distinguished by the nucleotide sequence at the
+  template crossing but not resolved by AFM imaging"; "Folds m:n and n:m
+  are related by symmetry and are therefore not distinguished"; only "the
+  outlines of 44% of objects identified as candidate dimer tiles were
+  successfully fitted" in the reference set.
+- **Model path dependence (Methods 2.4).** "the value assigned to the
+  difference in free energy between states depends, in general, on the
+  path taken between them."
+
+## Concepts
+
+- **Seam staples**: paired long-range staples joining the two halves of a
+  tile; binding the second of a pair is cooperative.
+- **Fold m:n**: a dimer shape named by how many seam connections link
+  within each copy; m:n and n:m are the same shape to AFM.
+- **Misfold**: connected partial segments that cannot jointly satisfy the
+  constraints of any legal fold; escape requires unfolding.
+- **Two levers**: steering by intermediate stability (broken seams,
+  extended staples) against steering by final-state stability (3:2-only
+  seams, long corner staple).
+
+## Connections
+
+It applies the local domain-level model of Dannenberg et al. (2015),
+[LIT-tmpdyrnb](../literature.d/LIT-tmpdyrnb.md), whose companion paper builds the thermodynamically
+self-consistent global version; that is why the model's free-energy
+differences here are path-dependent. Schneider, Möritz and Dietz (2019),
+[LIT-tmp7v945](../literature.d/LIT-tmp7v945.md), name this model as the kind their isothermal dataset should
+calibrate. The held simulation of DeLuca et al. ([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md),
+[THEORY-1398](../theory.d/THEORY-1398.md)) finds, by a different model, that early long staples decide
+the global fold and that hybridization-state models can mispredict; this
+paper's model is such a hybridization-state model, and it misses one of
+four variants. The staple variants are the molecular counterpart of the
+placed actuators of [THEORY-1418](../theory.d/THEORY-1418.md) (Stern, Pinson and Murugan), steering among
+competing folds.
+
+## Bearing on the record
+
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reachable).** Supports. The
+  well-folded shapes are feasible and reached, but the model's reference
+  set ends misfolded 52% of the time and the broken-seam set 1%; reliability
+  is a property of the staple design, separate from feasibility.
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, moves and costs, different reachability).**
+  Qualifies. Same template and, by the authors' argument, equally stable
+  targets give different outcome distributions; but the staple change
+  alters the move costs, so this shows the same targets, with the same target energies,
+  reached differently, not the claim's stronger condition.
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (threshold to reach against requirement to hold).** Supports
+  qualitatively: from the 1:1 intermediate, reaching 5:0 needs a seam
+  broken, a barrier beyond holding the target. No barrier is measured.
+- **[CLAIM-581](../claims.d/CLAIM-581.md) (peak-cost ultrametric).** Leaves open, with a caution: the
+  model's free-energy differences are path-dependent, so its costs are not
+  a potential and give no peak-cost metric directly.
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed costs).** Supports qualitatively: a cooling ramp is
+  directed, hysteresis separates cooling and heating, and "effectively,
+  irreversibly" bound seams make a target unreachable from a part-folded
+  state that shares its configuration space.
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Partial: construction by
+  the ramp, holding at 25 °C in magnesium buffer, transition between folds
+  only by breaking seams. No maintenance cost measured.
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Consistent; assembly only.
+  It adds that the probability of forming a given target depends on the
+  staple design.
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) (observing against acting).**
+  Illustrates: the four routings of one shape are distinct folded states
+  that AFM does not resolve, and the observer's classes (m:n = n:m) are set
+  by the probe, not by the mechanism. No probe costs are studied.
+  [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-572](../claims.d/CLAIM-572.md) and [QUESTION-374](../questions.d/QUESTION-374.md): no bearing.
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench).** Supports in a physical system: "the
+  early formation of long-range connections can be very effective in
+  forcing particular folds" (abstract).
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Modest support:
+  cooperative, effectively irreversible seams constrain the slower
+  remainder of folding; no timescale analysis.
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (when a small compatible nucleus helps).** Evidence: an
+  early partial structure restricts which targets remain reachable, seam
+  patterns before 50% occupancy predict the final fold, and a nucleus
+  compatible with one target only (3:2-only seams) biases toward it.
+- **[CLAIM-562](../claims.d/CLAIM-562.md) (where an intervention acts).** Direct fit: halving seam
+  staples, less binding, improves the designed outcome and cuts model
+  misfolds from 52% to 1%.
+- **[CLAIM-568](../claims.d/CLAIM-568.md) (four ways a transition fails).** The paper's misfold,
+  incompatible partial segments escaped only by unfolding, is a case for
+  its taxonomy.
+- Filed: [THEORY-tmp2h496](../theory.d/THEORY-tmp2h496.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- **One anneal ramp and one buffer**: no folding time or temperature
+  window for the dimer.
+- **Hysteresis on the monomer only**, ensemble-averaged with two labelled
+  staples; it does not report on the dimer's fold choice.
+- **AFM fits 36-62% of candidates**, N small for some sets (59, 62);
+  deposition and crowding may bias the fitted fractions; shapes, not
+  routings, are observed.
+- **Design arguments, not measurements**: degeneracy of the final folds
+  and the absence of an energetic penalty for the pathway modifications.
+- **The model** is approximate, not thermodynamically self-consistent,
+  and fails for the long-staple variant.
+- This reading did not see the per-shape experimental histograms.
+
+## Open questions
+
+- Does the shift survive other ramp rates, or isothermal folding? A
+  ramp-rate series on the broken-seam and reference sets would tell.
+- Do the near-degenerate folds have equal stability as claimed? Melting
+  each purified fold would settle it.

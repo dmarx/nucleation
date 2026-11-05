@@ -107,3 +107,11 @@ cells and the BZ reaction "autopoietic" (p. 91) while reporting that Mossio et
 al. deny them self-constraint (p. 92).
 
 The term is unchanged.
+
+## Note of 2026-11-05: A's synthesis on DNA origami
+
+From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
+
+A's synthesis on DNA origami uses this term as the line DNA origami does not cross. Its structures self-assemble under externally supplied components and conditions, and they do not produce the constraints that would rebuild them: "It does not, by these results alone, demonstrate the stronger organizational closure". So DNA origami serves the record as a contrast case for closure.
+
+No status changes.
