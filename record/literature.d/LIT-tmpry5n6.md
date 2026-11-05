@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpj2th4) from the arXiv preprint; worth
+  read in full 2026-11-05 ([NOTE-tmpj2th4](../notes.d/NOTE-tmpj2th4.md)) from the arXiv preprint; worth
   reading as the intrinsic test of whether a single origami vertex can fold
   rigidly from flat: with a mountain–valley assignment, exactly when it
   contains a bird's foot (a same-parity tripod or cross plus one crease of
   the other parity), and unassigned, exactly when it has at least four
   creases, all sector angles below π, and is not a plain cross; with bounds
   on minimal forcing sets. Registered as a stand-in for the unread
-  "Rigid Foldings" chapter of Hull's Origametry, LIT-tmp8rseg, whose
+  "Rigid Foldings" chapter of Hull's Origametry, [LIT-tmp8rseg](LIT-tmp8rseg.md), whose
   intrinsic condition it gives. Its main limits: a single vertex, folding
   a little from flat, self-intersection excluded by definition; the
   multi-vertex question is left open; the DOI is unverified at Crossref.
@@ -65,7 +65,7 @@ Abel, Z., Cantarella, J., Demaine, E. D., Eppstein, D., Hull, T. C., Ku, J. S., 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpj2th4. Theorem numbers are the arXiv version's.*
+*From the reading, [NOTE-tmpj2th4](../notes.d/NOTE-tmpj2th4.md). Theorem numbers are the arXiv version's.*
 
 - **Assigned vertices** (Theorem 1): "A single-vertex crease pattern (C, µ)
   can be continuously parameterized in a family of rigid origami folds if
@@ -83,7 +83,7 @@ Abel, Z., Cantarella, J., Demaine, E. D., Eppstein, D., Hull, T. C., Ku, J. S., 
 ## Standing in the record
 
 Registered as a stand-in for Hull's chapter "Rigid Foldings"
-(LIT-tmp8rseg), which a paywall kept from being read. It stands in for the
+([LIT-tmp8rseg](LIT-tmp8rseg.md)), which a paywall kept from being read. It stands in for the
 chapter's "intrinsic condition" for a vertex to fold rigidly from flat, and
 for nothing else there: not the reciprocal diagrams, the zero-area
 theorem, infinitesimal or second-order rigidity, or the degree-4
@@ -91,5 +91,5 @@ fold-angle equations. Hull is a co-author. The pasted synthesis on
 constraint architectures does not cite it. At the single-vertex level it
 is what A's "selecting the intended branch" needs: popping up or down is
 the two-branch choice that Chen and Santangelo and Berry et al. build on.
-Filed from it: THEORY-tmpgwhew. No instruction for machine-learning
+Filed from it: [THEORY-tmpgwhew](../theory.d/THEORY-tmpgwhew.md). No instruction for machine-learning
 practice.

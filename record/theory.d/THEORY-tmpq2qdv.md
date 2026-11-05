@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpjjho1
 summary: >-
-  Stern, Pinson & Murugan (2017), LIT-tmpjjho1, read from the arXiv v1
-  preprint in NOTE-tmp9dvve; the published version and the SI were not
+  Stern, Pinson & Murugan (2017), [LIT-tmpjjho1](../literature.d/LIT-tmpjjho1.md), read from the arXiv v1
+  preprint in [NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md); the published version and the SI were not
   read. Proposed: simulations on idealized rigid-panel vertices with
   zero-temperature descent, actuation statistics from one 4 × 4 pattern,
   and folding islands offered as a heuristic, not a necessary and
@@ -30,8 +30,8 @@ summary: >-
 ## Source
 
 Stern, Pinson & Murugan, "The Complexity of Folding Self-Folding Origami",
-Physical Review X (2017), LIT-tmpjjho1; read from the arXiv v1 preprint,
-"The difficulty of folding self-folding origami", in NOTE-tmp9dvve.
+Physical Review X (2017), [LIT-tmpjjho1](../literature.d/LIT-tmpjjho1.md); read from the arXiv v1 preprint,
+"The difficulty of folding self-folding origami", in [NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md).
 
 ## What was actually shown
 

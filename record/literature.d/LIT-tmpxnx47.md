@@ -11,7 +11,7 @@ status_note: >-
   OpenAlex search for other copies was not completed, its free daily
   budget being exhausted and a key asking for an email address. Unpaywall
   not used, since it requires an email address. Deng et al. (2020),
-  LIT-tmp6fzgs, stands in for it on the phase-change half of its idea only:
+  [LIT-tmp6fzgs](LIT-tmp6fzgs.md), stands in for it on the phase-change half of its idea only:
   a magnetically responsive phase-change composite whose frozen
   configuration is released by melting, rewritten and refrozen, with
   origami-like folding. It does not stand in for the actuator–structure
@@ -88,7 +88,7 @@ about resources is unknown until it is read. It is open access under CC
 BY-NC-ND 4.0, but the publisher's site showed this client a Cloudflare
 challenge; the owner may be able to open it in a browser.
 
-**The neighbour.** Deng et al. (2020), LIT-tmp6fzgs, read in NOTE-tmp5sqfp,
+**The neighbour.** Deng et al. (2020), [LIT-tmp6fzgs](LIT-tmp6fzgs.md), read in [NOTE-tmp5sqfp](../notes.d/NOTE-tmp5sqfp.md),
 stands in for the phase-change half only: a composite whose frozen magnetic
 configuration is released by melting a phase-change polymer, rewritten
 under a field and refrozen, giving different origami-like shapes. It does
@@ -96,4 +96,4 @@ not carry the actuator–structure interface, the attaching and detaching of
 an actuator, the changing of a mechanism's constraints in a confined space,
 or an actuator building an origami structure; and its rewriting is done by
 an external laser, not tetherlessly in place. The account filed from it,
-THEORY-tmpj5zhj, is Deng et al.'s, not Yeow et al.'s.
+[THEORY-tmpj5zhj](../theory.d/THEORY-tmpj5zhj.md), is Deng et al.'s, not Yeow et al.'s.

@@ -119,11 +119,11 @@ it then snaps depends on how expensive bending is relative to folding.
 
 ## Connections
 
-It cites Silverberg et al. (2014), LIT-tmpa3uim, on reprogrammable Miura-ori
+It cites Silverberg et al. (2014), [LIT-tmpa3uim](../literature.d/LIT-tmpa3uim.md), on reprogrammable Miura-ori
 metamaterials, as its ref. 5, without restating its results. Evans,
-Silverberg and Santangelo (2015), LIT-tmpj33xl, model facet bending in the
+Silverberg and Santangelo (2015), [LIT-tmpj33xl](../literature.d/LIT-tmpj33xl.md), model facet bending in the
 Miura-ori as extra folds, the same move as the virtual creases here. Stern,
-Pinson and Murugan (2017), LIT-tmpjjho1, cite this paper for the nonzero
+Pinson and Murugan (2017), [LIT-tmpjjho1](../literature.d/LIT-tmpjjho1.md), cite this paper for the nonzero
 energy of over-determined vertices.
 
 ## Bearing on the record
@@ -147,7 +147,7 @@ energy of over-determined vertices.
   This paper is the most direct answer in A's list, and A did not make the
   link: facet planarity is a constraint only below the bending energy
   scale.
-- **CLAIM-478 (scale separation makes constraints).** Supports, with an
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Supports, with an
   energetic rather than a temporal separation. The paper's thesis is that
   the number of DOF is "a variable quantity that changes with the
   experimental energy scale": below the bending scale facet planarity is a
@@ -155,22 +155,22 @@ energy of over-determined vertices.
   ratio of the two scales, k_b/k_c, decides whether the structure is
   bistable. The claim speaks of time scales; the mapping holds where
   stiffer modes also relax faster, which the paper does not discuss. A's
-  gloss of CLAIM-478, "scale separation creates effective constraints", is
+  gloss of [CLAIM-478](../claims.d/CLAIM-478.md), "scale separation creates effective constraints", is
   right.
-- **CLAIM-480 (composing interactions turns an interior into a
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (composing interactions turns an interior into a
   constraint).** Related: an internal, stiffer mode acts as a constraint
   on low-energy behaviour.
-- **CLAIM-459 and CASE-112 (bistable authority, ẇ = μw − w³ + h).**
+- **[CLAIM-459](../claims.d/CLAIM-459.md) and [CASE-112](../cases.d/CASE-112.md) (bistable authority, ẇ = μw − w³ + h).**
   Related. The critical angle is a physical bifurcation parameter of the
   same kind as μ; here the parameters are geometry and the stiffness ratio.
-- **THEORY-136 (abrupt change is not evidence of alternative stable
+- **[THEORY-136](../theory.d/THEORY-136.md) (abrupt change is not evidence of alternative stable
   states).** A contrast: the square twist's bistability is shown directly,
   by force curves with negative slope and by hysteresis, the kind of
-  evidence THEORY-136 asks for.
-- **TERM-060 and CLAIM-347.** Unrelated in sense. The paper's phrase
+  evidence [THEORY-136](../theory.d/THEORY-136.md) asks for.
+- **[TERM-060](../terms.d/TERM-060.md) and [CLAIM-347](../claims.d/CLAIM-347.md).** Unrelated in sense. The paper's phrase
   "determining whether local kinematic constraints are globally
   compatible" concerns mechanical compatibility, not demands.
-- Filed: THEORY-tmpixfqm. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpixfqm](../theory.d/THEORY-tmpixfqm.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

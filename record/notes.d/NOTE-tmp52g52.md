@@ -100,7 +100,7 @@ in explosive percolation.
 
 ## Connections
 
-It is a direct extension of Chen, Choi and Mahadevan (2020), LIT-tmpge2xj
+It is a direct extension of Chen, Choi and Mahadevan (2020), [LIT-tmpge2xj](../literature.d/LIT-tmpge2xj.md)
 (its ref. 39), from kirigami links to origami facets, and of Chen and
 Mahadevan's Miura-ori rigidity control (PNAS 2019). It cites Scheffer's
 early-warning papers as motivation for critical transitions but does not
@@ -118,19 +118,19 @@ use those methods.
   infinitesimal rigidity at one configuration. The paper's "rigidity
   percolation" is the density at which half the runs of a fixed-size
   pattern reach minimum DoF, not a threshold in the thermodynamic limit.
-- **CLAIM-345 (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md) (equal controllability rank does not fix the cost of
   control).** Related, not support: equal numbers of constraints remove
   very different numbers of DoF depending on where they go. That is
   constraint efficiency, not control cost.
-- **CLAIM-478 (scale separation makes constraints).** Qualifies, weakly.
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Qualifies, weakly.
   Planarity is idealized as a hard constraint switched on or off.
   Physically it is a ratio of bending to folding stiffness, and the paper's
   toggle is the idealized end of the energy-scale picture that Silverberg
-  et al. (2015), LIT-tmptep4g, make explicit.
-- **CLAIM-480 and CLAIM-354.** Unrelated in detail, beyond the generic
+  et al. (2015), [LIT-tmptep4g](../literature.d/LIT-tmptep4g.md), make explicit.
+- **[CLAIM-480](../claims.d/CLAIM-480.md) and [CLAIM-354](../claims.d/CLAIM-354.md).** Unrelated in detail, beyond the generic
   point that DoF counts and their placement differ.
 - The record has no entry on rigidity percolation or constraint
-  redundancy as such. Filed: THEORY-tmp6nzru. No instruction for
+  redundancy as such. Filed: [THEORY-tmp6nzru](../theory.d/THEORY-tmp6nzru.md). No instruction for
   machine-learning practice; nothing for the anthology.
 
 ## Limitations

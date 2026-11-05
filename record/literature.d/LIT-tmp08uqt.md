@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpygch2) from the scanned IEEE PDF in
+  read 2026-11-05 ([NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md)) from the scanned IEEE PDF in
   CaltechAUTHORS, the first author's institutional repository; worth
   reading as the standard constructive account of steering nonholonomic
   systems, for how it rewrites velocity constraints as the directions a
@@ -72,7 +72,7 @@ Murray, R. M. & Sastry, S. S. (1993). Nonholonomic motion planning: steering usi
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpygch2. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md). Page numbers are the journal's.*
 
 - **From forbidden to allowed directions.** "Roughly speaking, we would
   like to convert the constraint specification from describing the
@@ -105,4 +105,4 @@ one. A leaves out two things the paper makes plain: that bracket directions
 are bought by cycling the inputs, more cycles and higher harmonics for
 higher brackets, so reach has a price in motion; and that a guarantee that
 a path exists is not a way of constructing one. The record held nothing on
-nonholonomic systems before it. Filed from it: THEORY-tmpxup0v.
+nonholonomic systems before it. Filed from it: [THEORY-tmpxup0v](../theory.d/THEORY-tmpxup0v.md).

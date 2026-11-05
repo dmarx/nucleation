@@ -107,22 +107,22 @@ global choice easy.
 
 ## Connections
 
-- **belcastro and Hull (2002)**, LIT-tmphy9wm, which it stands in for. It
+- **belcastro and Hull (2002)**, [LIT-tmphy9wm](../literature.d/LIT-tmphy9wm.md), which it stands in for. It
   restates their loop condition, citing them, in its global form, and
   says when it is necessary (always), why it is not sufficient
   (self-intersection) and when it is (near flat). It does not restate
   their derivation, the "non-intuitive order" of the product that their
   abstract mentions, the affine bookkeeping of translations for loops
   around several vertices, or their discussion of sufficiency.
-- **Hull's chapter "Rigid Origami Theory"**, LIT-tmpq0e56, which it stands
+- **Hull's chapter "Rigid Origami Theory"**, [LIT-tmpq0e56](../literature.d/LIT-tmpq0e56.md), which it stands
   in for in part. It is the result the chapter's first section "outlines a
   proof" of, deciding foldability from flat "using some subset of the
   creases" (strong NP-hardness with optional creases). It does not restate
   the chapter's germ theorem, its disconnected examples or its
-  self-folding theory (for the last, see Hull and Tachi, LIT-tmp6aj47).
+  self-folding theory (for the last, see Hull and Tachi, [LIT-tmp6aj47](../literature.d/LIT-tmp6aj47.md)).
 - **Neighbours.** Its Corollary 11 is the face-closure condition Hull and
-  Tachi use; Foschi, Hull and Ku (LIT-tmpegvxm) state the single-vertex
-  form of the loop condition; Berry et al. (LIT-tmp24k66) cite this paper
+  Tachi use; Foschi, Hull and Ku ([LIT-tmpegvxm](../literature.d/LIT-tmpegvxm.md)) state the single-vertex
+  form of the loop condition; Berry et al. ([LIT-tmp24k66](../literature.d/LIT-tmp24k66.md)) cite this paper
   for NP-hardness.
 
 ## Bearing on the record
@@ -135,9 +135,9 @@ global choice easy.
   A's "Feasible target ⇏ reachable target" with a third kind of obstacle
   beside A's geometric disconnection and control limitation: computational
   hardness of finding a consistent choice of modes even when one exists.
-- **CLAIM-495 (O(d) holonomy; sections as the common fixed subspace), and
+- **[CLAIM-495](../claims.d/CLAIM-495.md) (O(d) holonomy; sections as the common fixed subspace), and
   A's distinction.** A says "the full origami closure condition is stronger
-  than the partial fixed-subspace compatibility studied in CLAIM-495". As
+  than the partial fixed-subspace compatibility studied in [CLAIM-495](../claims.d/CLAIM-495.md)". As
   a comparison that is true: closure asks every loop's product to be I,
   which in the claim's terms makes Fix(H) the whole space for every loop,
   the "all" end of its range, and that implies full compatibility and not
@@ -157,7 +157,7 @@ global choice easy.
   I, so "non-commutativity is not holonomy" has a physical instance here.
   The partial-compatibility case the claim is filed for is not
   instantiated.
-- **CLAIM-538 (cycle holonomy against summed tolerance).** Qualifies; the
+- **[CLAIM-538](../claims.d/CLAIM-538.md) (cycle holonomy against summed tolerance).** Qualifies; the
   bearing is the reader's inference, and the paper mentions neither
   holonomy nor sheaves. In logarithms, Corollary 11 is an exact cycle
   condition, the log speed coefficients summing to 0 around each face
@@ -170,32 +170,32 @@ global choice easy.
   do not make the global problem easy once the offsets are chosen
   discretely. The record does not say this; it is a candidate qualification
   of how far the claim's cycle certificate carries.
-- **CLAIM-347 (the compatibility complex).** Qualifies. "a mere
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (the compatibility complex).** Qualifies. "a mere
   intersection of such single vertex condition does not lead to useful
   condition of multi-vertex rigid-foldability" is a local-to-global
   failure of the kind the complex encodes: each vertex's modes are
   feasible locally, and the set of jointly consistent assignments can be
   empty.
-- **CLAIM-365 (a dual certificate of infeasibility).** Related, different.
+- **[CLAIM-365](../claims.d/CLAIM-365.md) (a dual certificate of infeasibility).** Related, different.
   For a fixed assignment the face products are an exact check; across all
   assignments the problem is NP-hard, so no short certificate of
   infeasibility is to be expected unless NP = coNP (the reader's
   inference).
-- **THEORY-171.** A cites it among the codes for its origami part, whose
+- **[THEORY-171](../theory.d/THEORY-171.md).** A cites it among the codes for its origami part, whose
   points include loop closure as holonomy, with the gloss "(local-to-global,
   gluing)". It is about causal contextuality:
   deterministic assignments causal in each context can fail to glue into
   one causal assignment. It contains no holonomy, and its gluing is of
   another kind; it is unrelated to loop closure.
-- **THEORY-1082** (U(1) phases on a graph; a common solution iff every
+- **[THEORY-1082](../theory.d/THEORY-1082.md)** (U(1) phases on a graph; a common solution iff every
   cycle's phase vanishes) is the nearest exact analogue of closure as
   trivial holonomy for d = 1, and supports the holonomy reading;
-  **TERM-097** (coherence around cycles) fits: closure is coherence of
-  transports around cycles. **QUESTION-319** asks whether nontrivial
+  **[TERM-097](../terms.d/TERM-097.md)** (coherence around cycles) fits: closure is coherence of
+  transports around cycles. **[QUESTION-319](../questions.d/QUESTION-319.md)** asks whether nontrivial
   holonomy among an organization's parts is an error or a feature; in
   paper any nontrivial holonomy is forbidden, one pole of its
   alternative. These are loose fits, not dated notes.
-- Filed: THEORY-tmpj5wcc. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpj5wcc](../theory.d/THEORY-tmpj5wcc.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

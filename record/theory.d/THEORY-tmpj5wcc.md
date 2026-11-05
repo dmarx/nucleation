@@ -13,7 +13,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpj5g19
 summary: >-
-  Akitaya et al. (2020), LIT-tmpj5g19, read in NOTE-tmpd0dln (model and
+  Akitaya et al. (2020), [LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md), read in [NOTE-tmpd0dln](../notes.d/NOTE-tmpd0dln.md) (model and
   main text in full, reduction gadgets skimmed). Proposed: the gadget
   constructions behind Theorems 15 and 16 were not checked line by line. It
   does not say that the problem is in NP in general, which is open, or
@@ -24,7 +24,7 @@ summary: >-
 
 ## Source
 
-Akitaya et al. (2020), LIT-tmpj5g19; read in NOTE-tmpd0dln.
+Akitaya et al. (2020), [LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md); read in [NOTE-tmpd0dln](../notes.d/NOTE-tmpd0dln.md).
 
 ## What was actually shown
 

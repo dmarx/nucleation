@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpwpp63) from the arXiv v2 author version, main
+  read 2026-11-05 ([NOTE-tmpwpp63](../notes.d/NOTE-tmpwpp63.md)) from the arXiv v2 author version, main
   text in full and appendices skimmed; worth reading as the second-order
   rigidity theory of flat triangulated rigid origami: each self stress of
   the flat sheet gives a quadratic constraint on vertex heights, the wheel
@@ -71,7 +71,7 @@ Chen, B. G. & Santangelo, C. D. (2018). Branches of Triangulated Origami Near th
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwpp63. Sections are the arXiv version's.*
+*From the reading, [NOTE-tmpwpp63](../notes.d/NOTE-tmpwpp63.md). Sections are the arXiv version's.*
 
 - **Why second order.** "the degeneracy of the unfolded state makes a
   linear approach impossible there" (abstract).
@@ -100,5 +100,5 @@ difficulty is selecting one. The paper is local to the flat state and did
 not compute how branches join globally, so A's distinctions among
 existence, continuous reachability, singular passage and branch selection
 are A's framing. The record held no rigidity or origami entry before this
-filing. Filed from it: THEORY-tmpucnpz. No instruction for machine-learning
+filing. Filed from it: [THEORY-tmpucnpz](../theory.d/THEORY-tmpucnpz.md). No instruction for machine-learning
 practice.

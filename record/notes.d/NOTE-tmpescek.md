@@ -101,7 +101,7 @@ walking form an ever thinner, folded set around the gait.
 
 ## Connections
 
-It credits McGeer (1990), LIT-tmpv6ctd, with proposing passive dynamic
+It credits McGeer (1990), [LIT-tmpv6ctd](../literature.d/LIT-tmpv6ctd.md), with proposing passive dynamic
 walking and restates of his work only the idea and its energy balance,
 result 1 above. The model is Garcia et al.'s 1998 simplification of a
 compass walker, and the stability findings it builds on are later work's
@@ -114,22 +114,22 @@ models, results or experiments is restated.
   "stable gait cycles driven by gravity and their own dynamics." Right as
   the idea. Missing, and important for A's use: the stable cycle's basin is
   very small and thin, and the cycle exists only in a narrow range of slope.
-- **CLAIM-079** (stability does not entail viability): supports, with a
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability): supports, with a
   sharp mechanical case. The gait is an asymptotically stable attractor,
   yet almost every nearby state falls, and a slow increase of slope destroys
-  it by crisis. The fit is partial: CLAIM-079 is about losing access to
+  it by crisis. The fit is partial: [CLAIM-079](../claims.d/CLAIM-079.md) is about losing access to
   viable trajectories while in the regime; here states inside the basin
   keep their access, and the fragility is that the basin is thin.
-- **THEORY-134** (viability kernel): supports in method. D and its nested
+- **[THEORY-134](../theory.d/THEORY-134.md)** (viability kernel): supports in method. D and its nested
   pull-backs are a discrete-time viability-kernel construction for the
   constraint of not falling, and the basin is the attracting part within it.
   The paper does not use the word viability.
-- **THEORY-1052** (quasi-static attractors and rate-induced tipping):
+- **[THEORY-1052](../theory.d/THEORY-1052.md)** (quasi-static attractors and rate-induced tipping):
   qualifies rather than supports. The crisis is parameter-induced loss of
   an attractor, not rate-induced.
-- THEORY-136 and CLAIM-463 are unrelated: no claim about abrupt change as
+- [THEORY-136](../theory.d/THEORY-136.md) and [CLAIM-463](../claims.d/CLAIM-463.md) are unrelated: no claim about abrupt change as
   evidence, and no hysteresis studied.
-- Filed: THEORY-tmpabuss. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpabuss](../theory.d/THEORY-tmpabuss.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

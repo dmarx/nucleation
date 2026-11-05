@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmprldni
 summary: >-
-  Zang, Zhao, Misseroni & Paulino (2025), LIT-tmprldni, read in
-  NOTE-tmp7wdij (the main text; the SI was not read). Proposed: one group's
+  Zang, Zhao, Misseroni & Paulino (2025), [LIT-tmprldni](../literature.d/LIT-tmprldni.md), read in
+  [NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md) (the main text; the SI was not read). Proposed: one group's
   model and prototypes, with three-cell assemblies and a theory that misses
   the panel buckling seen in experiment. The "frustration" is prestress
   applied from outside, stored elastic energy, not an incompatibility
@@ -30,8 +30,8 @@ summary: >-
 ## Source
 
 Zang, Zhao, Misseroni & Paulino, "Origami frustration and its influence on
-energy landscapes of origami assemblies", PNAS (2025), LIT-tmprldni; read
-in NOTE-tmp7wdij.
+energy landscapes of origami assemblies", PNAS (2025), [LIT-tmprldni](../literature.d/LIT-tmprldni.md); read
+in [NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md).
 
 ## What was actually shown
 
@@ -56,7 +56,7 @@ in NOTE-tmp7wdij.
 - That the structure frustrates itself. The prestress is supplied and
   adjusted from outside, by springs and a handle.
 - That this frustration is incompatibility among demands. It is stored
-  elastic energy, the energetic sense the record's term TERM-060 sets
+  elastic energy, the energetic sense the record's term [TERM-060](../terms.d/TERM-060.md) sets
   apart from its own.
 - That it scales. The assemblies have three cells, and the theory omits
   the panel buckling seen on loading.

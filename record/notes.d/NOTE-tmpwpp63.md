@@ -117,14 +117,14 @@ of 2^Vi branches from a point where they all meet.
 
 ## Connections
 
-It builds on Connelly and Whiteley's second-order rigidity (LIT-tmplpuzc,
+It builds on Connelly and Whiteley's second-order rigidity ([LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md),
 filed in this batch), on Kapovich and Millson for single-vertex
 configuration spaces, and on Tachi and Hull for self-foldability. Hull and
-Tachi (2018), LIT-tmp6aj47, restate the self-foldability criterion it tests.
-Berry, Lee-Trimble and Santangelo (2020), LIT-tmp24k66, extend this
+Tachi (2018), [LIT-tmp6aj47](../literature.d/LIT-tmp6aj47.md), restate the self-foldability criterion it tests.
+Berry, Lee-Trimble and Santangelo (2020), [LIT-tmp24k66](../literature.d/LIT-tmp24k66.md), extend this
 second-order theory to vertices carrying curvature. On second-order
 rigidity at the flat state it covers, by self stresses and quadratic forms,
-ground that Hull's chapter "Rigid Foldings" (LIT-tmp8rseg) covers by
+ground that Hull's chapter "Rigid Foldings" ([LIT-tmp8rseg](../literature.d/LIT-tmp8rseg.md)) covers by
 reciprocal diagrams; it is not Hull's treatment and does not stand in for it.
 
 ## Bearing on the record
@@ -143,23 +143,23 @@ reciprocal diagrams; it is not Hull's treatment and does not stand in for it.
   studies the neighbourhood of one singular point and says "We did not
   attempt to compute the global structure of the configuration space, e.g.
   how the branches join."
-- **CLAIM-347 (frustration as an ordinal fact; the compatibility
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (frustration as an ordinal fact; the compatibility
   complex).** Qualifies, by analogy. Each vertex's curvature constraint is
   a local demand, but every branch satisfies every constraint. The
   multiplicity is non-uniqueness of the solution set at a singular point,
   not a failure of joint satisfiability: this is selection among jointly
   feasible realizations, which the complex does not see.
-- **CLAIM-357 (structural infeasibility against realized violation).**
+- **[CLAIM-357](../claims.d/CLAIM-357.md) (structural infeasibility against realized violation).**
   Qualifies, by analogy. Misfolding is failure to reach a feasible target,
   caused by branch selection rather than infeasibility.
-- **CLAIM-079 (stability does not entail viability).** Loose analogy only:
+- **[CLAIM-079](../claims.d/CLAIM-079.md) (stability does not entail viability).** Loose analogy only:
   a branch can be entered and be hard to leave. Not engaged in substance.
-- **CLAIM-495 and CLAIM-538** (holonomy and cycle compatibility): not
+- **[CLAIM-495](../claims.d/CLAIM-495.md) and [CLAIM-538](../claims.d/CLAIM-538.md)** (holonomy and cycle compatibility): not
   engaged. The constraints here are vertex curvature conditions, not loop
   transports.
-- **QUESTION-281** (dynamical transitions, nucleation across a barrier):
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (dynamical transitions, nucleation across a barrier):
   a different mechanism. The branching is kinematic, not a barrier crossed.
-- Filed: THEORY-tmpucnpz. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpucnpz](../theory.d/THEORY-tmpucnpz.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

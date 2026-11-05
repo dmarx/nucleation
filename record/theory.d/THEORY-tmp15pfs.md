@@ -14,7 +14,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp8z7y4
 summary: >-
-  Dollar and Howe (2010), LIT-tmp8z7y4, read in NOTE-tmpb0ok0. Proposed:
+  Dollar and Howe (2010), [LIT-tmp8z7y4](../literature.d/LIT-tmp8z7y4.md), read in [NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md). Proposed:
   the experiments are small, success was judged by eye, and no fully
   actuated hand was tested alongside. It is about power grasps of medium
   objects; the hand cannot pinch. It does not say that the hand computes,
@@ -25,7 +25,7 @@ summary: >-
 
 ## Source
 
-Dollar and Howe (2010), LIT-tmp8z7y4; read in NOTE-tmpb0ok0.
+Dollar and Howe (2010), [LIT-tmp8z7y4](../literature.d/LIT-tmp8z7y4.md); read in [NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md).
 
 ## What was actually shown
 

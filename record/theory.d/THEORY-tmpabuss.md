@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpw9g80
 summary: >-
-  Obayashi, Aoi, Tsuchiya and Kokubu (2016), LIT-tmpw9g80, read in
-  NOTE-tmpescek, as a neighbour of McGeer (1990), LIT-tmpv6ctd. Proposed:
+  Obayashi, Aoi, Tsuchiya and Kokubu (2016), [LIT-tmpw9g80](../literature.d/LIT-tmpw9g80.md), read in
+  [NOTE-tmpescek](../notes.d/NOTE-tmpescek.md), as a neighbour of McGeer (1990), [LIT-tmpv6ctd](../literature.d/LIT-tmpv6ctd.md). Proposed:
   the figures were read by caption, and the mechanism is argued, not
   proved. It is about one idealised model; it does not say that every
   passive walker's basin is shaped this way, nor anything about McGeer's
@@ -28,8 +28,8 @@ summary: >-
 
 ## Source
 
-Obayashi, Aoi, Tsuchiya and Kokubu (2016), LIT-tmpw9g80; read in
-NOTE-tmpescek. A neighbour of McGeer (1990), LIT-tmpv6ctd, which was not
+Obayashi, Aoi, Tsuchiya and Kokubu (2016), [LIT-tmpw9g80](../literature.d/LIT-tmpw9g80.md); read in
+[NOTE-tmpescek](../notes.d/NOTE-tmpescek.md). A neighbour of McGeer (1990), [LIT-tmpv6ctd](../literature.d/LIT-tmpv6ctd.md), which was not
 read.
 
 ## What was actually shown

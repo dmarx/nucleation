@@ -14,7 +14,7 @@ status_note: >-
   link pointing back to the DOI; the authors' pages (toroidalsnark.net,
   mars.wne.edu, thomashull.com) did not connect through the session's
   proxy. A human reader can likely open the ScienceDirect copy. A
-  neighbour was read and filed in its place: LIT-tmpj5g19 (Akitaya et al.
+  neighbour was read and filed in its place: [LIT-tmpj5g19](LIT-tmpj5g19.md) (Akitaya et al.
   2020) restates the paper's loop condition in global form, citing it,
   with when it is necessary and when sufficient, but not the paper's
   derivation, ordering convention, affine treatment or sufficiency
@@ -88,23 +88,23 @@ Not read: the open-archive copy at ScienceDirect answered with a captcha (see th
 The pasted synthesis on constraint architectures cites the loop-closure
 condition and reads it as holonomy; the identification and the notation
 are right as far as the neighbours show. Akitaya et al. (2020),
-LIT-tmpj5g19, stands in for it in part: it states the condition, citing
+[LIT-tmpj5g19](LIT-tmpj5g19.md), stands in for it in part: it states the condition, citing
 this paper, for any simple closed vertex-avoiding curve, as necessary but
 not sufficient because the paper may cross itself, and as sufficient near
-the flat state. Foschi, Hull and Ku (2022), LIT-tmpegvxm, state its
+the flat state. Foschi, Hull and Ku (2022), [LIT-tmpegvxm](LIT-tmpegvxm.md), state its
 single-vertex form. Neither gives the paper's derivation, its
 "non-intuitive order", its affine bookkeeping of translations for loops
 around several vertices, or its discussion of sufficiency; for those the
 paper itself is needed.
 
-A compares the condition with CLAIM-495, calling the full origami closure
+A compares the condition with [CLAIM-495](../claims.d/CLAIM-495.md), calling the full origami closure
 condition "stronger than the partial fixed-subspace compatibility studied
-in CLAIM-495". As a comparison that is true, since trivial holonomy on
+in [CLAIM-495](../claims.d/CLAIM-495.md)". As a comparison that is true, since trivial holonomy on
 every loop implies full fixed-subspace compatibility, but it is at a
-different level: CLAIM-495 takes the transports as given and solves for
+different level: [CLAIM-495](../claims.d/CLAIM-495.md) takes the transports as given and solves for
 sections, while closure constrains the transports themselves, the fold
 angles being the unknowns. Loop closure is also necessary, not
-sufficient, for a folding. A's gloss of THEORY-171 for this part, as
-local-to-global gluing, does not connect it to loop closure: THEORY-171 is
+sufficient, for a folding. A's gloss of [THEORY-171](../theory.d/THEORY-171.md) for this part, as
+local-to-global gluing, does not connect it to loop closure: [THEORY-171](../theory.d/THEORY-171.md) is
 about causal contextuality and is unrelated. The reading of the neighbour,
-NOTE-tmpd0dln, gives the full verdict.
+[NOTE-tmpd0dln](../notes.d/NOTE-tmpd0dln.md), gives the full verdict.

@@ -9,10 +9,10 @@ status_note: >-
   that page shows the summary and then "Get access to the full version", a
   paywall under Cambridge Core terms, so the reader stopped there on
   2026-11-05 and did not retry. No open copy was found. Two neighbours
-  were read and filed in its place: LIT-tmpj5g19 (Akitaya et al. 2020)
+  were read and filed in its place: [LIT-tmpj5g19](LIT-tmpj5g19.md) (Akitaya et al. 2020)
   stands in for the chapter's first section, the NP-hardness of deciding
   rigid foldability from flat with some subset of the creases, and
-  LIT-tmp6aj47 (Hull and Tachi 2018) for its self-folding theory. Neither
+  [LIT-tmp6aj47](LIT-tmp6aj47.md) (Hull and Tachi 2018) for its self-folding theory. Neither
   gives the chapter's theorem that the germ of a single-vertex
   configuration space is that of a quadratic form, its disconnected
   examples, or its own statement of the theory's limitations.
@@ -90,15 +90,15 @@ disconnected configuration spaces and selecting the intended branch, which
 matches the summary's configuration-space and self-folding parts; A omits
 the NP-hardness section, which bears directly on A's own point that a
 feasible target need not be reachable. Two neighbours were read in its
-place. Akitaya et al. (2020), LIT-tmpj5g19, co-authored by Hull, is the
+place. Akitaya et al. (2020), [LIT-tmpj5g19](LIT-tmpj5g19.md), co-authored by Hull, is the
 NP-hardness result the first section names (strongly NP-hard with optional
 creases); whether the chapter outlines the same reduction is unknown.
-Hull and Tachi (2018), LIT-tmp6aj47, stands in for the self-folding
+Hull and Tachi (2018), [LIT-tmp6aj47](LIT-tmp6aj47.md), stands in for the self-folding
 theory, with its main theorems. For the quadratic-form germ, Chen and
-Santangelo (2018), LIT-tmp0ouv4, show the same fact by another route, a
+Santangelo (2018), [LIT-tmp0ouv4](LIT-tmp0ouv4.md), show the same fact by another route, a
 single vertex's second-order configurations being the null cone of a
 quadratic form with one negative eigenvalue; whether that is the chapter's
 statement or proof is unknown. For disconnected configuration spaces,
-Foschi, Hull and Ku (LIT-tmpegvxm) and Berry et al. (LIT-tmp24k66) give
+Foschi, Hull and Ku ([LIT-tmpegvxm](LIT-tmpegvxm.md)) and Berry et al. ([LIT-tmp24k66](LIT-tmp24k66.md)) give
 examples; which the chapter uses is unknown. The chapter's account of the
 theory's limitations is covered by nothing read.

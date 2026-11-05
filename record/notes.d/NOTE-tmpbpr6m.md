@@ -93,7 +93,7 @@ must converge.
 
 ## Connections
 
-It cites McGeer (1990), LIT-tmpv6ctd, for the rimless wheel, and restates
+It cites McGeer (1990), [LIT-tmpv6ctd](../literature.d/LIT-tmpv6ctd.md), for the rimless wheel, and restates
 of McGeer's work only this: the rimless wheel as the simplest passive
 walker, its gravity-powered gait on a slope, and that gait's stability.
 The derivations are Asano's own. It restates nothing of McGeer's
@@ -108,17 +108,17 @@ paper".
   the rimless wheel. A leaves out the bounds: walking needs a minimum slope
   and gives way to running or skipping on steep ones, so the stable cycle
   exists only in a window.
-- **CLAIM-079** (stability does not entail viability): qualifies. Both the
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability): qualifies. Both the
   stability and the existence of the gait are conditional on the slope
   window. Within it the wheel's cycle is robust, converging from any energy
-  enough to pass the barrier, so it fits CLAIM-079 less sharply than the
-  walker of Obayashi et al. (2016), LIT-tmpw9g80.
-- **THEORY-134** (viability kernel): related at the level of conditions for
+  enough to pass the barrier, so it fits [CLAIM-079](../claims.d/CLAIM-079.md) less sharply than the
+  walker of Obayashi et al. (2016), [LIT-tmpw9g80](../literature.d/LIT-tmpw9g80.md).
+- **[THEORY-134](../theory.d/THEORY-134.md)** (viability kernel): related at the level of conditions for
   persistence, the positive energy margins; not developed in viability
   terms.
-- **THEORY-1052** (quasi-static attractors and rate-induced tipping):
+- **[THEORY-1052](../theory.d/THEORY-1052.md)** (quasi-static attractors and rate-induced tipping):
   unrelated; there is no parameter drift.
-- Filed: THEORY-tmpbbt2m. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpbbt2m](../theory.d/THEORY-tmpbbt2m.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

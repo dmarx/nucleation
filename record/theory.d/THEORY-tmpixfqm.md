@@ -14,7 +14,7 @@ date: '2026-11-05'
 source:
 - LIT-tmptep4g
 summary: >-
-  Silverberg et al. (2015), LIT-tmptep4g, read in NOTE-tmp0l0mn (the
+  Silverberg et al. (2015), [LIT-tmptep4g](../literature.d/LIT-tmptep4g.md), read in [NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md) (the
   letter in full; SI pp. 1–2 skimmed). Proposed: one group's experiments
   on paper and gel with matching simulations, on a single unit cell. The
   general thesis that the number of degrees of freedom changes with the
@@ -28,8 +28,8 @@ summary: >-
 
 Silverberg, Na, Evans, Liu, Hull, Santangelo, Lang, Hayward & Cohen,
 "Origami structures with a critical transition to bistability arising from
-hidden degrees of freedom", Nature Materials (2015), LIT-tmptep4g; read in
-NOTE-tmp0l0mn.
+hidden degrees of freedom", Nature Materials (2015), [LIT-tmptep4g](../literature.d/LIT-tmptep4g.md); read in
+[NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md).
 
 ## What was actually shown
 

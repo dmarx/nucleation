@@ -14,7 +14,7 @@ status_note: >-
   "origami", or "Cohen" with "origami"; PubMed Central and Europe PMC, no
   copy; OpenAlex, closed, no repository copy. The publisher's PDF is
   subscription-only and was not tried. Evans, Silverberg & Santangelo
-  (2015), LIT-tmpj33xl, by three of its seven authors, stands in partly:
+  (2015), [LIT-tmpj33xl](LIT-tmpj33xl.md), by three of its seven authors, stands in partly:
   it states that Miura-ori sheets admit reversible pop-through defects
   whose strain stays local, but not A's two claims about this work, that
   each cell is bistable and that defects are analogous to vacancies,
@@ -61,7 +61,7 @@ summary: >-
   Science. Not read. The pasted synthesis on constraint architectures
   says it builds Miura-ori metamaterials from bistable cells, whose
   defects are "analogous to vacancies, dislocations, and grain
-  boundaries"; unverified until read. The stand-in, LIT-tmpj33xl, cites
+  boundaries"; unverified until read. The stand-in, [LIT-tmpj33xl](LIT-tmpj33xl.md), cites
   it for reversible pop-through defects in Miura-ori and confirms neither
   claim.
 ---
@@ -83,7 +83,7 @@ Silverberg, J. L., Evans, A. A., McLeod, L., Hayward, R. C., Hull, T., Santangel
 Registered unread, as Unavailable: no lawful full text was reached (the
 status note says where we looked). The neighbour standing in for it is
 Evans, Silverberg & Santangelo (2015), "Lattice Mechanics of Origami
-Tessellations", LIT-tmpj33xl, by three of the seven authors, which cites
+Tessellations", [LIT-tmpj33xl](LIT-tmpj33xl.md), by three of the seven authors, which cites
 this work as its ref. [7]. It stands in **partly**. It states that
 Miura-ori sheets admit reversible "pop-through defects", that the strain a
 defect induces is local and decays away from it, and that a real Miura-ori
@@ -93,6 +93,6 @@ sheet's stiffness, or how defects interact, and it draws no analogy to
 vacancies, dislocations or grain boundaries. So A's two claims, that each
 cell is bistable and that the defects are analogous to vacancies,
 dislocations and grain boundaries, remain unchecked against the text.
-Silverberg et al. (2015), LIT-tmptep4g, cites this work as its ref. 5 and
+Silverberg et al. (2015), [LIT-tmptep4g](LIT-tmptep4g.md), cites this work as its ref. 5 and
 does not restate its results. The bibliography A gives is correct. A copy
 the owner supplies would return it to reading.

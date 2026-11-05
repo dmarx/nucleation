@@ -121,9 +121,9 @@ each barrier is a handle on the folding sequence.
 It builds on the Paulino group's bar-and-hinge models of Kresling origami
 and on work on multistable origami assemblies. The neighbouring works in
 the same filing are the square-twist study of Silverberg et al. (2015),
-LIT-tmptep4g, where a stiffness ratio tunes a cell between mono- and
+[LIT-tmptep4g](../literature.d/LIT-tmptep4g.md), where a stiffness ratio tunes a cell between mono- and
 bistability from inside the structure, and Stern, Pinson and Murugan
-(2017), LIT-tmpjjho1, where frustration is a property of loops of
+(2017), [LIT-tmpjjho1](../literature.d/LIT-tmpjjho1.md), where frustration is a property of loops of
 vertices in the crease pattern.
 
 ## Bearing on the record
@@ -142,39 +142,39 @@ vertices in the crease pattern.
   switch between bistable and monostable, the programmable history
   dependence, and the authors' point that redesigning cells creates new
   infeasible paths while tuning in place does not.
-- **TERM-060 (frustration of an organization's demands).** The term covers
+- **[TERM-060](../terms.d/TERM-060.md) (frustration of an organization's demands).** The term covers
   both structural frustration (no admissible transformation meets all the
   demands) and frustration by governance (one exists and is not
   selected); A's gloss of it as "structural frustration" names only the
   first. Zang et al.'s frustration is neither. It is prestress applied
-  from outside, stored elastic energy, the energetic sense TERM-060
+  from outside, stored elastic energy, the energetic sense [TERM-060](../terms.d/TERM-060.md)
   excludes when it sets itself apart from Watson's total frustration and
-  from CLAIM-153's XY energy. So this paper is a clean case of the
+  from [CLAIM-153](../claims.d/CLAIM-153.md)'s XY energy. So this paper is a clean case of the
   energetic side of A's contrast: Nucleation's frustration is "an ordinal
   fact", mechanical frustration is stress or energy, and the two are "not
-  interchangeable". That contrast matches TERM-060.
-- **CLAIM-347 (frustration is ordinal; relief is strict enlargement).**
+  interchangeable". That contrast matches [TERM-060](../terms.d/TERM-060.md).
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (frustration is ordinal; relief is strict enlargement).**
   Qualifies. If the 56 ordered transitions are read as demands and
   feasibility as acceptance, prestress tuning is relief by enlarging the
   set of feasible transitions, in place, with no demand removed. That fits
-  CLAIM-347's "relief is strict enlargement" and CASE-119's enlargement of
+  [CLAIM-347](../claims.d/CLAIM-347.md)'s "relief is strict enlargement" and [CASE-119](../cases.d/CASE-119.md)'s enlargement of
   the attainable set. But it is the record's construction laid onto the
   paper, which does not offer it, and the frustration that does the
   enlarging is energetic, not ordinal.
-- **CLAIM-025 (operative regime, governing organization, capacity to
+- **[CLAIM-025](../claims.d/CLAIM-025.md) (operative regime, governing organization, capacity to
   transform it).** Supports, by analogy. The stable states play the part of
   regimes, the ordering of the barriers the governing organization among
   them, and the springs and handle the capacity to transform it. The
   paper's contrast between tuning in place and refabricating cells is a
   physical case of changing the governing organization without rebuilding
   the regimes.
-- **CLAIM-459 and CASE-112 (bistable authority with a tilt).** Related.
+- **[CLAIM-459](../claims.d/CLAIM-459.md) and [CASE-112](../cases.d/CASE-112.md) (bistable authority with a tilt).** Related.
   Prestress tunes a double well from bistable to monostable, as μ and h do
   in ẇ = μw − w³ + h.
-- **CLAIM-079 (stability does not entail viability).** Weakly related: the
+- **[CLAIM-079](../claims.d/CLAIM-079.md) (stability does not entail viability).** Weakly related: the
   cells keep their stable states while which transitions are possible
   changes.
-- Filed: THEORY-tmppn4nt. No instruction for machine-learning practice;
+- Filed: [THEORY-tmppn4nt](../theory.d/THEORY-tmppn4nt.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

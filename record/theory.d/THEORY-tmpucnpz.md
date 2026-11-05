@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp0ouv4
 summary: >-
-  Chen and Santangelo (2018), LIT-tmp0ouv4, read in NOTE-tmpwpp63 (main
+  Chen and Santangelo (2018), [LIT-tmp0ouv4](../literature.d/LIT-tmp0ouv4.md), read in [NOTE-tmpwpp63](../notes.d/NOTE-tmpwpp63.md) (main
   text in full, appendices skimmed). Proposed: the count of 2^Vi branches
   is numerical for Vi from 2 to 8 and proven only for H1 triangulations,
   which are rare; second-order solutions are treated as configurations
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Chen and Santangelo (2018), LIT-tmp0ouv4; read in NOTE-tmpwpp63.
+Chen and Santangelo (2018), [LIT-tmp0ouv4](../literature.d/LIT-tmp0ouv4.md); read in [NOTE-tmpwpp63](../notes.d/NOTE-tmpwpp63.md).
 
 ## What was actually shown
 

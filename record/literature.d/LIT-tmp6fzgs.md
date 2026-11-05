@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp5sqfp) from the NSF Public Access Repository
+  read 2026-11-05 ([NOTE-tmp5sqfp](../notes.d/NOTE-tmp5sqfp.md)) from the NSF Public Access Repository
   copy of the published article (CC BY 4.0); worth reading as a concrete
   case of a frozen configuration made rewritable by a phase change: a
   silicone film whose magnetic particles sit in a meltable polymer has its
   magnetization pattern rewritten by local laser melting under a
   programming field and fixed again on cooling, so one film gives many
   shapes under the same actuation field. Registered as a neighbour standing
-  in for Yeow, Yang and Ren (2024), LIT-tmpxnx47, on the phase-change half
+  in for Yeow, Yang and Ren (2024), [LIT-tmpxnx47](LIT-tmpxnx47.md), on the phase-change half
   of its idea only. Its main limits: rewriting needs an external laser and
   field, the resolution is about 300 μm, cycling was tested to 100 cycles,
   and "reconfigurable" means many responses to one field, not change while
@@ -70,7 +70,7 @@ Deng, H., Sattari, K., Xie, Y., Liao, P., Yan, Z. & Lin, J. (2020). Laser reprog
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp5sqfp. Page numbers are the article's.*
+*From the reading, [NOTE-tmp5sqfp](../notes.d/NOTE-tmp5sqfp.md). Page numbers are the article's.*
 
 - **The material.** "The composite film is made from an elastomer and
   magnetic particles encapsulated by a phase change polymer." (abstract,
@@ -89,7 +89,7 @@ Deng, H., Sattari, K., Xie, Y., Liao, P., Yan, Z. & Lin, J. (2020). Laser reprog
 ## Standing in the record
 
 Registered as a neighbour standing in for Yeow, Yang and Ren (2024),
-LIT-tmpxnx47, which could not be fetched. It carries only the phase-change
+[LIT-tmpxnx47](LIT-tmpxnx47.md), which could not be fetched. It carries only the phase-change
 half of Yeow et al.'s idea as their abstract states it: a magnetically
 responsive phase-change composite in which melting releases a frozen
 configuration so it can be rewritten, and cooling fixes it, with
@@ -101,4 +101,4 @@ external laser rig, not tetherlessly in a confined space. In the pasted
 synthesis's terms it is an instance of a transition mediated by
 architecture: the frozen pattern changes only while a second variable, the
 polymer's phase, is switched. It bears on no resource claim. Filed from it:
-THEORY-tmpj5zhj.
+[THEORY-tmpj5zhj](../theory.d/THEORY-tmpj5zhj.md).

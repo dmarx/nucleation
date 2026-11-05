@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp2mkll) from the publisher's open-access PDF
+  read 2026-11-05 ([NOTE-tmp2mkll](../notes.d/NOTE-tmp2mkll.md)) from the publisher's open-access PDF
   (CC BY 4.0); worth reading as a worked case of underactuation as a
   design choice: an origami spring, made rigid-foldable by virtual creases,
   is fitted to 3D curves with its cells grouped to share a few actuators,
@@ -69,7 +69,7 @@ Liu, Z., Zhang, Z. & Fang, H. (2023). Approximating complex 3D curves using orig
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp2mkll. Page numbers are the article's.*
+*From the reading, [NOTE-tmp2mkll](../notes.d/NOTE-tmp2mkll.md). Page numbers are the article's.*
 
 - **Virtual creases make the cell rigid-foldable.** "The simplified unit
   cell is a one-degree-of-freedom system." (Results, p. 3); chained, the
@@ -96,4 +96,4 @@ architecture) admits several shapes (operating states). It says nothing
 about transitions between configurations, their cost, bottlenecks,
 reserves or slack: it fits static target shapes, and its trade-off is
 accuracy against actuator count, motivated by cost and control complexity.
-Filed from it: THEORY-tmpzs387.
+Filed from it: [THEORY-tmpzs387](../theory.d/THEORY-tmpzs387.md).

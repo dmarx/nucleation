@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpt066u) from the arXiv v1 preprint; worth
+  read in full 2026-11-05 ([NOTE-tmpt066u](../notes.d/NOTE-tmpt066u.md)) from the arXiv v1 preprint; worth
   reading as the extension of second-order origami rigidity to vertices
   carrying Gaussian curvature, and for the finding that the sign of the
   curvature changes the topology of the near-flat configuration space: a
@@ -69,7 +69,7 @@ Berry, M., Lee-Trimble, M. E. & Santangelo, C. D. (2020). Topological transition
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpt066u. Sections are the arXiv version's.*
+*From the reading, [NOTE-tmpt066u](../notes.d/NOTE-tmpt066u.md). Sections are the arXiv version's.*
 
 - **The result** (abstract): "The configuration space of non-intersecting,
   oriented vertices with positive Gaussian curvature decomposes into
@@ -99,4 +99,4 @@ motions, rigid, non-intersecting and without tearing, one nappe cannot be
 reached from the other. Relax non-intersection and, by the authors'
 anecdote, the separation goes, which fits A's point that impossibility is
 relative to the declared admissible transformations. Filed from it:
-THEORY-tmps6lqg. No instruction for machine-learning practice.
+[THEORY-tmps6lqg](../theory.d/THEORY-tmps6lqg.md). No instruction for machine-learning practice.

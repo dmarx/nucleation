@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp24k66
 summary: >-
-  Berry, Lee-Trimble and Santangelo (2020), LIT-tmp24k66, read in full in
-  NOTE-tmpt066u (arXiv v1). Proposed: the single-vertex result follows from
+  Berry, Lee-Trimble and Santangelo (2020), [LIT-tmp24k66](../literature.d/LIT-tmp24k66.md), read in full in
+  [NOTE-tmpt066u](../notes.d/NOTE-tmpt066u.md) (arXiv v1). Proposed: the single-vertex result follows from
   the second-order condition hᵀQh = K, whose proof to quadratic order the
   authors call somewhat involved, and is confirmed numerically on one
   symmetric 5-fold vertex. It does not say anything far from the flat state
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Berry, Lee-Trimble and Santangelo (2020), LIT-tmp24k66; read in NOTE-tmpt066u.
+Berry, Lee-Trimble and Santangelo (2020), [LIT-tmp24k66](../literature.d/LIT-tmp24k66.md); read in [NOTE-tmpt066u](../notes.d/NOTE-tmpt066u.md).
 
 ## What was actually shown
 

@@ -14,8 +14,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpj33xl
 summary: >-
-  Evans, Silverberg & Santangelo (2015), LIT-tmpj33xl, read in part in
-  NOTE-tmpghi05 from arXiv v2 (the derivations were skimmed). Proposed:
+  Evans, Silverberg & Santangelo (2015), [LIT-tmpj33xl](../literature.d/LIT-tmpj33xl.md), read in part in
+  [NOTE-tmpghi05](../notes.d/NOTE-tmpghi05.md) from arXiv v2 (the derivations were skimmed). Proposed:
   a linear theory about one ground state with facet bending coarse-grained
   as folds, checked on one 8 × 8 paper sheet, with the decay length for a
   pop-through defect estimated only to within 100%. Registered as a
@@ -29,8 +29,8 @@ summary: >-
 ## Source
 
 Evans, Silverberg & Santangelo, "Lattice Mechanics of Origami
-Tessellations", Physical Review E (2015), LIT-tmpj33xl; read in part from
-arXiv 1503.05756v2 in NOTE-tmpghi05.
+Tessellations", Physical Review E (2015), [LIT-tmpj33xl](../literature.d/LIT-tmpj33xl.md); read in part from
+arXiv 1503.05756v2 in [NOTE-tmpghi05](../notes.d/NOTE-tmpghi05.md).
 
 ## What was actually shown
 

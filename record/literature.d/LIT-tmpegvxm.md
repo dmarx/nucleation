@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpt4jsa, Skimmed: main text read,
+  read in part 2026-11-05 ([NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md), Skimmed: main text read,
   appendices with the proofs not) from the arXiv v2 preprint; worth reading
   as closed-form tan-half-angle equations for the whole configuration space
   of any degree-4 rigid origami vertex, Euclidean or not, which recover the
@@ -9,7 +9,7 @@ status_note: >-
   and hyperbolic vertices have disconnected configuration spaces, and
   prove a square-twist pouch bistable by showing its configuration space
   discrete. Registered as a stand-in for the unread "Rigid Foldings"
-  chapter of Hull's Origametry, LIT-tmp8rseg, whose flat-foldable degree-4
+  chapter of Hull's Origametry, [LIT-tmp8rseg](LIT-tmp8rseg.md), whose flat-foldable degree-4
   equations it restates. Its main limits: degree 4 only, proofs unread,
   and self-intersection shown in the plots rather than excluded.
 title: 'Explicit kinematic equations for degree-4 rigid origami vertices, Euclidean and non-Euclidean'
@@ -65,7 +65,7 @@ Foschi, R., Hull, T. C. & Ku, J. S. (2022). Explicit kinematic equations for deg
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpt4jsa. Sections are the arXiv version's.*
+*From the reading, [NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md). Sections are the arXiv version's.*
 
 - **Closure** (§II): a necessary condition for a vertex to fold rigidly is
   that the product of the crease rotations R(e_i, ρ_i) be the identity,
@@ -85,14 +85,14 @@ Foschi, R., Hull, T. C. & Ku, J. S. (2022). Explicit kinematic equations for deg
 ## Standing in the record
 
 Registered as a stand-in for Hull's chapter "Rigid Foldings"
-(LIT-tmp8rseg), which a paywall kept from being read. It restates, as its
+([LIT-tmp8rseg](LIT-tmp8rseg.md)), which a paywall kept from being read. It restates, as its
 Theorem 1 cited to Origametry, the chapter's flat-foldable degree-4
 fold-angle equations, linear in the tangents of half the folding angles,
 and goes beyond them to all degree-4 vertices. It does not stand in for
 the chapter's reciprocal diagrams, its zero-area theorem or its
 infinitesimal and second-order rigidity. It also states belcastro and
-Hull's single-vertex closure condition (LIT-tmphy9wm), but not its global
+Hull's single-vertex closure condition ([LIT-tmphy9wm](LIT-tmphy9wm.md)), but not its global
 form. The pasted synthesis on constraint architectures does not cite it;
 its exact bistable pouch bears on A's "bistability as memory", as a
-kinematic bistability, not a dynamical one. Filed from it: THEORY-tmp960op.
+kinematic bistability, not a dynamical one. Filed from it: [THEORY-tmp960op](../theory.d/THEORY-tmp960op.md).
 No instruction for machine-learning practice.

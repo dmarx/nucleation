@@ -117,7 +117,7 @@ mechanisms before further links remove them.
 It extends the rigidity-matrix counting of Maxwell and of generic rigidity
 percolation to a designed linkage, and continues Chen and Mahadevan's work
 on rigidity control by planarity in Miura-ori. Li and Choi (2026),
-LIT-tmpiean9, cite it as their ref. 39 and carry the method to origami
+[LIT-tmpiean9](../literature.d/LIT-tmpiean9.md), cite it as their ref. 39 and carry the method to origami
 with general polygonal facets.
 
 ## Bearing on the record
@@ -139,22 +139,22 @@ with general polygonal facets.
   degrees of freedom at their interface. Here the answer is exact, for
   this linkage: a link that joins two components removes three rigid-body
   DoF and adds one internal DoF, (Δ_i, Δ_r) = (+1, −3).
-- **CLAIM-480 (composing interactions can turn an interior into a
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (composing interactions can turn an interior into a
   constraint, and sometimes into one of a new kind).** Supports, by a
   physical case: composition removes external freedoms and creates a new
   internal one where the parts meet.
-- **CLAIM-345 (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md) (equal controllability rank does not fix the cost of
   control).** Related, as an analogue for structure rather than control
   cost: equal link counts give very different DoF depending on placement,
   and almost no random choice of δ(L) links rigidifies the sheet.
-- **CLAIM-354 (freedom comes in degrees along several dimensions).**
+- **[CLAIM-354](../claims.d/CLAIM-354.md) (freedom comes in degrees along several dimensions).**
   Related: total, internal and rigid-body DoF, and connectivity, are
   separate counts that move differently as links are added.
-- **CLAIM-347 and TERM-060.** Unrelated: there is no conflict among demands
-  here, only redundancy of constraints. THEORY-302 is unrelated in content.
-  QUESTION-218 is distantly related through internal against rigid-body
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [TERM-060](../terms.d/TERM-060.md).** Unrelated: there is no conflict among demands
+  here, only redundancy of constraints. [THEORY-302](../theory.d/THEORY-302.md) is unrelated in content.
+  [QUESTION-218](../questions.d/QUESTION-218.md) is distantly related through internal against rigid-body
   modes.
-- The record holds no entry on percolation. Filed: THEORY-tmp278tq. No
+- The record holds no entry on percolation. Filed: [THEORY-tmp278tq](../theory.d/THEORY-tmp278tq.md). No
   instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

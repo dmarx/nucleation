@@ -16,9 +16,9 @@ status_note: >-
   Cloudflare challenge. The publisher, SAGE, not tried, since it is
   closed access. Unpaywall not used, since it requires an email address.
   Two neighbours stand in for it, as later restatements and not as its own
-  text: Asano (2012), LIT-tmpckrd7, for the rimless wheel as the simplest
+  text: Asano (2012), [LIT-tmpckrd7](LIT-tmpckrd7.md), for the rimless wheel as the simplest
   passive walker and the stability of its gravity-powered gait; and
-  Obayashi, Aoi, Tsuchiya and Kokubu (2016), LIT-tmpw9g80, for the idea of
+  Obayashi, Aoi, Tsuchiya and Kokubu (2016), [LIT-tmpw9g80](LIT-tmpw9g80.md), for the idea of
   passive dynamic walking and what later work found about the stability of
   such gaits. Neither gives McGeer's derivations, his two-legged walkers,
   his machine, his stability eigenvalues or his parameter studies.
@@ -58,10 +58,10 @@ implementations: []
 summary: >-
   McGeer (1990). Unverified until read: no copy and no abstract were
   reached. The neighbours credit it with proposing passive dynamic walking:
-  Obayashi et al. (2016), LIT-tmpw9g80, say that such a system "walks down
+  Obayashi et al. (2016), [LIT-tmpw9g80](LIT-tmpw9g80.md), say that such a system "walks down
   a shallow slope without an actuator or controller", balancing the energy
   lost at foot contact against the gravitational energy gained, and Asano
-  (2012), LIT-tmpckrd7, cites it for the rimless wheel as the simplest model
+  (2012), [LIT-tmpckrd7](LIT-tmpckrd7.md), cites it for the rimless wheel as the simplest model
   of passive dynamic walking. The pasted synthesis on constraint
   architectures cites it for stable gait cycles driven by gravity and the
   walker's own dynamics.
@@ -77,10 +77,10 @@ McGeer, T. (1990). Passive Dynamic Walking. *The International Journal of Roboti
 *Not read. What follows is what later works say of it, unverified against
 the original.*
 
-- **The idea.** Obayashi et al. (2016), LIT-tmpw9g80: "Passive dynamic
+- **The idea.** Obayashi et al. (2016), [LIT-tmpw9g80](LIT-tmpw9g80.md): "Passive dynamic
   walking, a popular dynamic system that is based on the inverted pendulum
   mechanism, was proposed by McGeer [13,14]." (§1, p. 2).
-- **The rimless wheel.** Asano (2012), LIT-tmpckrd7, cites it as the work in
+- **The rimless wheel.** Asano (2012), [LIT-tmpckrd7](LIT-tmpckrd7.md), cites it as the work in
   which the rimless wheel "has been investigated as the simplest model of
   passive dynamic walking [1]." (§I, p. 1).
 
@@ -95,13 +95,13 @@ small, thin basin of attraction and only within a window of slope, beyond
 which walking gives way to running or the attractor is destroyed: stability
 with narrow viability.
 
-**The neighbours.** Asano (2012), LIT-tmpckrd7, read in NOTE-tmpbpr6m,
+**The neighbours.** Asano (2012), [LIT-tmpckrd7](LIT-tmpckrd7.md), read in [NOTE-tmpbpr6m](../notes.d/NOTE-tmpbpr6m.md),
 stands in for the rimless-wheel model and the stability of its gait, as
 Asano restates and analyses it 22 years later. Obayashi, Aoi, Tsuchiya and
-Kokubu (2016), LIT-tmpw9g80, read in NOTE-tmpescek, stand in for the
+Kokubu (2016), [LIT-tmpw9g80](LIT-tmpw9g80.md), read in [NOTE-tmpescek](../notes.d/NOTE-tmpescek.md), stand in for the
 general idea and for later findings on the basin of attraction of a
 descendant of McGeer's compass walker. Neither restates any specific result
 of McGeer's: his derivations, his two-legged walkers with or without knees,
 his physical machine, his stability eigenvalues or his parameter studies.
-The accounts filed from them, THEORY-tmpbbt2m and THEORY-tmpabuss, are the
+The accounts filed from them, [THEORY-tmpbbt2m](../theory.d/THEORY-tmpbbt2m.md) and [THEORY-tmpabuss](../theory.d/THEORY-tmpabuss.md), are the
 neighbours' own, not McGeer's.

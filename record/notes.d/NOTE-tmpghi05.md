@@ -95,7 +95,7 @@ at its boundary: soft modes decay into the bulk.
 
 ## Connections
 
-It cites Silverberg et al. (2014), LIT-tmpa3uim, as ref. [7] for the
+It cites Silverberg et al. (2014), [LIT-tmpa3uim](../literature.d/LIT-tmpa3uim.md), as ref. [7] for the
 pop-through defect, and stands in for it, partly.
 
 - **Of the 2014 paper's results, it restates** that Miura-ori sheets admit
@@ -111,7 +111,7 @@ pop-through defect, and stands in for it, partly.
   to vacancies, dislocations or grain boundaries, none of which words
   appear in it.
 
-Silverberg et al. (2015), LIT-tmptep4g, makes the same move in the square
+Silverberg et al. (2015), [LIT-tmptep4g](../literature.d/LIT-tmptep4g.md), makes the same move in the square
 twist, modelling facet bending as virtual creases.
 
 ## Bearing on the record
@@ -123,20 +123,20 @@ twist, modelling facet bending as virtual creases.
   vacancies, dislocations, and grain boundaries" is not confirmed either:
   the neighbour describes them only as local distortions. Both claims
   remain unchecked.
-- **CLAIM-478 (scale separation makes constraints).** Related, weakly.
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Related, weakly.
   Facet bending is a stiffer mode that the paper models as extra folds; as
   in Silverberg et al. (2015), whether a mode counts as a constraint or a
   freedom depends on the energy scale probed. This paper does not make
   that point itself.
-- **CLAIM-480 (composing interactions creates constraints).** Related.
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (composing interactions creates constraints).** Related.
   Vertex constraints compose through shared folds, and the composite's
   degrees of freedom sit at its boundary, not through its bulk.
-- **CLAIM-495 (O(d) connection; assignments fixed by holonomies).**
+- **[CLAIM-495](../claims.d/CLAIM-495.md) (O(d) connection; assignments fixed by holonomies).**
   Unrelated in the linear form used here. The single-vertex closure that
   the spherical-polygon construction encodes is a loop-closure condition,
   but the paper does not put it in holonomy terms.
 - The record has no entries on edge states or topological mechanics.
-  Filed: THEORY-tmpv4i3y. No instruction for machine-learning practice;
+  Filed: [THEORY-tmpv4i3y](../theory.d/THEORY-tmpv4i3y.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

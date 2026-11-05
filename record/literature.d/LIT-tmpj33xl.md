@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpghi05, Skimmed) from arXiv 1503.05756v2,
-  as a stand-in for the unread Silverberg et al. (2014), LIT-tmpa3uim;
+  read in part 2026-11-05 ([NOTE-tmpghi05](../notes.d/NOTE-tmpghi05.md), Skimmed) from arXiv 1503.05756v2,
+  as a stand-in for the unread Silverberg et al. (2014), [LIT-tmpa3uim](LIT-tmpa3uim.md);
   worth reading as a lattice theory of origami tessellations in which each
   degree-N vertex has N − 3 internal degrees of freedom with several
   configuration branches, and in which the Miura-ori, with facet bending
@@ -73,7 +73,7 @@ Evans, A. A., Silverberg, J. L. & Santangelo, C. D. (2015). Lattice Mechanics of
 
 ## Key takeaways
 
-*From the reading of arXiv v2, NOTE-tmpghi05.*
+*From the reading of arXiv v2, [NOTE-tmpghi05](../notes.d/NOTE-tmpghi05.md).*
 
 - **Branches at every vertex.** "the associated solutions are generically
   multi-valued. These results imply that there are multiple branches of
@@ -87,12 +87,12 @@ Evans, A. A., Silverberg, J. L. & Santangelo, C. D. (2015). Lattice Mechanics of
 ## Standing in the record
 
 Not cited in the pasted synthesis on constraint architectures. It was
-registered as the stand-in for Silverberg et al. (2014), LIT-tmpa3uim,
+registered as the stand-in for Silverberg et al. (2014), [LIT-tmpa3uim](LIT-tmpa3uim.md),
 which A cites as O9 and which could not be read. It stands in partly. It
 confirms that Miura-ori sheets admit reversible pop-through defects with
 local strain. It does not confirm A's claims that the 2014 paper's cells
 are bistable and that its defects are analogous to vacancies, dislocations
-and grain boundaries. In its own right it bears on CLAIM-478 and
-CLAIM-480: whether facet bending counts as a constraint or a freedom
+and grain boundaries. In its own right it bears on [CLAIM-478](../claims.d/CLAIM-478.md) and
+[CLAIM-480](../claims.d/CLAIM-480.md): whether facet bending counts as a constraint or a freedom
 depends on the energy scale, and composed vertices leave their freedom at
-the boundary. Filed from it: THEORY-tmpv4i3y.
+the boundary. Filed from it: [THEORY-tmpv4i3y](../theory.d/THEORY-tmpv4i3y.md).

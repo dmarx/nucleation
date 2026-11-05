@@ -13,8 +13,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpckrd7
 summary: >-
-  Asano (2012), LIT-tmpckrd7, read in NOTE-tmpbpr6m, as a neighbour of
-  McGeer (1990), LIT-tmpv6ctd. Proposed: the derivations were read, not
+  Asano (2012), [LIT-tmpckrd7](../literature.d/LIT-tmpckrd7.md), read in [NOTE-tmpbpr6m](../notes.d/NOTE-tmpbpr6m.md), as a neighbour of
+  McGeer (1990), [LIT-tmpv6ctd](../literature.d/LIT-tmpv6ctd.md). Proposed: the derivations were read, not
   redone. The eigenvalue and the minimum slope come from a linearised
   stance phase. It is about the rimless wheel alone; it does not say that
   walkers with a swing leg are stable for the same reason, or where on
@@ -26,8 +26,8 @@ summary: >-
 
 ## Source
 
-Asano (2012), LIT-tmpckrd7; read in NOTE-tmpbpr6m. A neighbour of McGeer
-(1990), LIT-tmpv6ctd, which was not read.
+Asano (2012), [LIT-tmpckrd7](../literature.d/LIT-tmpckrd7.md); read in [NOTE-tmpbpr6m](../notes.d/NOTE-tmpbpr6m.md). A neighbour of McGeer
+(1990), [LIT-tmpv6ctd](../literature.d/LIT-tmpv6ctd.md), which was not read.
 
 ## What was actually shown
 

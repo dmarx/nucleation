@@ -145,29 +145,29 @@ piano mover's, is named and set aside.
     systems with drift (p. 715). A's own distinction between a feasible
     and a reachable target recurs here one level up: reachable does not mean
     steerable by a given class of inputs.
-- **CLAIM-345** (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md)** (equal controllability rank does not fix the cost of
   control): supports and qualifies. The rank condition settles
   reachability; the effort to move along a higher bracket grows with the
   amplitudes and the number of cycles, so rank-equal systems can differ in
   cost. The paper computes no cost beyond Brockett's first-order case, so
   the support is in kind.
-- **CLAIM-354** (freedom in degrees along several dimensions): A's gloss
+- **[CLAIM-354](../claims.d/CLAIM-354.md)** (freedom in degrees along several dimensions): A's gloss
   calls them "several independent dimensions"; the claim does not say
   independent, and what it asserts is a partial order by inclusion of what
   can be viably reached. The paper supports separating instantaneous
   admissibility from reachability; it is silent on viability, having no
   state constraints.
-- **CLAIM-495** (holonomy on a graph connection): related by the loop. A
+- **[CLAIM-495](../claims.d/CLAIM-495.md)** (holonomy on a graph connection): related by the loop. A
   bracket is the displacement left after a small closed loop of input, a
   continuous anholonomy. The analogy holds only as far as this: going round a
-  loop need not bring you back; CLAIM-495 is about discrete compatibility, not about
+  loop need not bring you back; [CLAIM-495](../claims.d/CLAIM-495.md) is about discrete compatibility, not about
   using loops to reach new states.
-- **CLAIM-542** (sensitivity does not fix the allocation of control): the
-  same family as CLAIM-345, in the linear case; supports in kind only.
-- CLAIM-347, CLAIM-365 and CLAIM-079, which A cites in the same part, bear
-  on nothing in this paper. THEORY-134 (viability kernel) is unrelated: no
+- **[CLAIM-542](../claims.d/CLAIM-542.md)** (sensitivity does not fix the allocation of control): the
+  same family as [CLAIM-345](../claims.d/CLAIM-345.md), in the linear case; supports in kind only.
+- [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md) and [CLAIM-079](../claims.d/CLAIM-079.md), which A cites in the same part, bear
+  on nothing in this paper. [THEORY-134](../theory.d/THEORY-134.md) (viability kernel) is unrelated: no
   state constraints here.
-- Filed: THEORY-tmpxup0v. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpxup0v](../theory.d/THEORY-tmpxup0v.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

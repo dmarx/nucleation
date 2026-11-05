@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpd0dln) from the arXiv preprint, model and main
+  read 2026-11-05 ([NOTE-tmpd0dln](../notes.d/NOTE-tmpd0dln.md)) from the arXiv preprint, model and main
   text in full and the reduction gadgets skimmed; worth reading as the
   proof that deciding whether a crease pattern folds rigidly from flat is
   weakly NP-hard when every crease must fold and strongly NP-hard when
@@ -11,9 +11,9 @@ status_note: >-
   sufficient because the paper may cross itself, and sufficient near the
   flat state. The hardness lies in choosing a folding mode at each vertex
   so that every face closes. Registered as a stand-in for the unread
-  belcastro and Hull (2002), LIT-tmphy9wm, and for the NP-hardness section
+  belcastro and Hull (2002), [LIT-tmphy9wm](LIT-tmphy9wm.md), and for the NP-hardness section
   of the unread chapter "Rigid Origami Theory" of Hull's Origametry,
-  LIT-tmpq0e56. Its main limits: the bound is not shown tight, membership
+  [LIT-tmpq0e56](LIT-tmpq0e56.md). Its main limits: the bound is not shown tight, membership
   in NP is open in general, and foldability ignores mechanics.
 title: 'Rigid Foldability is NP-Hard'
 version: 1
@@ -72,7 +72,7 @@ Akitaya, H., Demaine, E. D., Horiyama, T., Hull, T. C., Ku, J. S. & Tachi, T. (2
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpd0dln. Section and theorem numbers are the arXiv version's.*
+*From the reading, [NOTE-tmpd0dln](../notes.d/NOTE-tmpd0dln.md). Section and theorem numbers are the arXiv version's.*
 
 - **Two results** (§1): "deciding rigid foldability of a given crease
   pattern using all creases is weakly NP-hard by a reduction from
@@ -98,11 +98,11 @@ Akitaya, H., Demaine, E. D., Horiyama, T., Hull, T. C., Ku, J. S. & Tachi, T. (2
 ## Standing in the record
 
 Registered as a stand-in for two unread works. For belcastro and Hull
-(2002), LIT-tmphy9wm, it states their loop condition, cited to them, in
+(2002), [LIT-tmphy9wm](LIT-tmphy9wm.md), it states their loop condition, cited to them, in
 its global form, with when it is necessary and when sufficient; it does
 not reproduce their derivation, their ordering convention, their affine
 treatment of multi-vertex patterns, or their discussion of sufficiency.
-For Hull's chapter "Rigid Origami Theory", LIT-tmpq0e56, it is the
+For Hull's chapter "Rigid Origami Theory", [LIT-tmpq0e56](LIT-tmpq0e56.md), it is the
 NP-hardness result the chapter's first section outlines, by authors
 including Hull; whether the chapter outlines the same reduction is
 unknown, and the chapter's quadratic-form germ, disconnected examples and
@@ -110,5 +110,5 @@ self-folding theory are not here. The pasted synthesis on constraint
 architectures does not cite it. It adds a sibling to A's geometric
 disconnection and control limitation as obstacles between a feasible
 target and reaching it: computational hardness of finding a consistent
-choice of modes even when one exists. Filed from it: THEORY-tmpj5wcc. No
+choice of modes even when one exists. Filed from it: [THEORY-tmpj5wcc](../theory.d/THEORY-tmpj5wcc.md). No
 instruction for machine-learning practice.

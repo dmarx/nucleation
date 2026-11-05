@@ -100,12 +100,12 @@ set by the sign of the curvature, a quantity fixed when the sheet is made.
 
 ## Connections
 
-It extends Chen and Santangelo (2018), LIT-tmp0ouv4, from flat to curved
+It extends Chen and Santangelo (2018), [LIT-tmp0ouv4](../literature.d/LIT-tmp0ouv4.md), from flat to curved
 vertices, and contrasts with Streinu and Whiteley's connectedness result,
-which Abel et al. (2016), LIT-tmpry5n6, also cite. Foschi, Hull and Ku
-(2022), LIT-tmpegvxm, reach the same disconnection for non-Euclidean
+which Abel et al. (2016), [LIT-tmpry5n6](../literature.d/LIT-tmpry5n6.md), also cite. Foschi, Hull and Ku
+(2022), [LIT-tmpegvxm](../literature.d/LIT-tmpegvxm.md), reach the same disconnection for non-Euclidean
 degree-4 vertices from exact equations rather than a near-flat expansion.
-Its introduction cites Akitaya et al., LIT-tmpj5g19, for "Understanding
+Its introduction cites Akitaya et al., [LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md), for "Understanding
 whether an origami fold pattern can be folded without tearing is NP-hard".
 
 ## Bearing on the record
@@ -126,25 +126,25 @@ whether an origami fold pattern can be folded without tearing is NP-hard".
   out A's line that impossibility is relative to the declared model of
   admissible transformations: allow faces to pass through each other and
   the separation reportedly disappears.
-- **CLAIM-347 (frustration as an ordinal fact).** Qualifies. A declared set
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (frustration as an ordinal fact).** Qualifies. A declared set
   of admissible transformations fixes which configurations connect, which
-  echoes TERM-060's "under its admissible transformations", applied to
+  echoes [TERM-060](../terms.d/TERM-060.md)'s "under its admissible transformations", applied to
   reachability rather than joint satisfiability. It is not frustration:
   every configuration on each nappe meets every constraint. A's gloss,
   that the two are "not interchangeable", is right.
-- **TERM-060 (structural frustration).** Kept distinct for the same reason:
+- **[TERM-060](../terms.d/TERM-060.md) (structural frustration).** Kept distinct for the same reason:
   no demand set here is jointly unsatisfiable.
-- **QUESTION-281 (dynamical transitions; nucleation across a barrier).**
+- **[QUESTION-281](../questions.d/QUESTION-281.md) (dynamical transitions; nucleation across a barrier).**
   Qualifies by contrast. This is a kinematic separation, not an energetic
   barrier: no energy suffices to cross it without tearing. A says the two
   kinds of transition "should not be conflated", and this paper is a case
   for keeping them apart.
-- **CLAIM-495, CLAIM-538, THEORY-1082**: not engaged. Curvature changes the
+- **[CLAIM-495](../claims.d/CLAIM-495.md), [CLAIM-538](../claims.d/CLAIM-538.md), [THEORY-1082](../theory.d/THEORY-1082.md)**: not engaged. Curvature changes the
   topology of a quadric here; nothing is transported round a loop.
-- **CLAIM-464, CLAIM-352** (reachability under admissible moves): loose
+- **[CLAIM-464](../claims.d/CLAIM-464.md), [CLAIM-352](../claims.d/CLAIM-352.md)** (reachability under admissible moves): loose
   support for the general point that reachability depends on the move set;
   not engaged in substance.
-- Filed: THEORY-tmps6lqg. No instruction for machine-learning practice;
+- Filed: [THEORY-tmps6lqg](../theory.d/THEORY-tmps6lqg.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

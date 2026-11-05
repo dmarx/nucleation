@@ -123,24 +123,24 @@ patterns), and its method beside rigid-origami kinematics.
   reserves, slack or budgets over time: it fits static shapes and never
   studies moving between them. Its motive is cost and control complexity,
   not scarcity.
-- **CLAIM-354** (freedom in degrees along several dimensions): A's gloss
+- **[CLAIM-354](../claims.d/CLAIM-354.md)** (freedom in degrees along several dimensions): A's gloss
   calls them "several independent dimensions"; the claim does not say
   independent, and what it asserts is a partial order by inclusion of what
   can be viably reached. Supported in kind: actuated reach and simplicity
   of actuation come apart and trade against each other.
-- **CLAIM-025** (regime, organization and capacity to transform persist or
+- **[CLAIM-025](../claims.d/CLAIM-025.md)** (regime, organization and capacity to transform persist or
   fail separately): supports, and qualifies. A fixed grouping, the
   organization, admits several operating shapes. Changing the grouping is
   not studied.
-- **CASE-194** (one failure from a shared actuator setting): qualifies.
+- **[CASE-194](../cases.d/CASE-194.md)** (one failure from a shared actuator setting): qualifies.
   Sharing an actuator need not fail: grouping cells whose required angles
   are similar loses little accuracy. Whether a shared setting fails depends
   on how alike the demands on the coupled parts are.
-- CLAIM-079, CLAIM-347, CLAIM-365 and THEORY-134, which A cites in the same
-  part, bear on nothing in this paper. CLAIM-345 is unrelated in content:
+- [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md) and [THEORY-134](../theory.d/THEORY-134.md), which A cites in the same
+  part, bear on nothing in this paper. [CLAIM-345](../claims.d/CLAIM-345.md) is unrelated in content:
   no cost of control is computed, though actuator count is a cost the paper
   weighs.
-- Filed: THEORY-tmpzs387. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpzs387](../theory.d/THEORY-tmpzs387.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

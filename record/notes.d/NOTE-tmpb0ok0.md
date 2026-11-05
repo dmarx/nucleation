@@ -131,26 +131,26 @@ change as actuators are added.
   which claims nothing of the kind. A also leaves out the torque-ratio
   trade-off and the abrupt changes of behaviour near the edge of the grasp
   range, both of which bear on freedom that is cheap but not uniform.
-- **CLAIM-345** (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md)** (equal controllability rank does not fix the cost of
   control): qualifies its frame. Coupling eight joints to one input shrinks
   the set of hand shapes that can be commanded, yet success under
   uncertainty rises, because contact selects the shape. What matters here
   is which degrees of freedom are left passive, not the cost of control.
-- **CLAIM-354** (freedom in degrees along several dimensions): A's gloss
+- **[CLAIM-354](../claims.d/CLAIM-354.md)** (freedom in degrees along several dimensions): A's gloss
   calls them "several independent dimensions"; the claim does not say
   independent, and what it asserts is a partial order by inclusion of what
   can be viably reached. The hand supports the claim that robustness to
   disturbance and actuated reach, two of its listed dimensions, come apart.
-- **CASE-194** (one failure from a shared actuator setting): qualifies.
+- **[CASE-194](../cases.d/CASE-194.md)** (one failure from a shared actuator setting): qualifies.
   Here one shared actuator does not cause failure, because contact makes
   the shared command produce shapes fitted to each object. Passive
   adaptation is a repair the case does not list beside enlarging
   actuation.
-- **CLAIM-480** (composing interactions yields effective constraints):
+- **[CLAIM-480](../claims.d/CLAIM-480.md)** (composing interactions yields effective constraints):
   supports in kind. The transmission couples the fingers so that contact on
   one constrains the motion of the others.
-- CLAIM-347, CLAIM-365 and CLAIM-079 bear on nothing in this paper.
-- Filed: THEORY-tmp15pfs. No instruction for machine-learning practice;
+- [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md) and [CLAIM-079](../claims.d/CLAIM-079.md) bear on nothing in this paper.
+- Filed: [THEORY-tmp15pfs](../theory.d/THEORY-tmp15pfs.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

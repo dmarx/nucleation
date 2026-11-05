@@ -94,7 +94,7 @@ crease of the other parity.
 ## Connections
 
 - **The original it stands in for.** Of the "Rigid Foldings" chapter of
-  Hull's Origametry (LIT-tmp8rseg), it restates the "intrinsic condition
+  Hull's Origametry ([LIT-tmp8rseg](../literature.d/LIT-tmp8rseg.md)), it restates the "intrinsic condition
   for an origami vertex crease pattern to be rigidly foldable from the
   unfolded state" that the publisher's summary names. It does not restate
   the chapter's main theorem as summarized, that a vertex folds rigidly
@@ -102,11 +102,11 @@ crease of the other parity.
   nor reciprocal diagrams at all, infinitesimal or second-order
   conditions, or the degree-4 fold-angle equations. Whether the chapter
   proves the intrinsic condition the same way is unknown.
-- **Neighbours.** Foschi, Hull and Ku (2022), LIT-tmpegvxm, give the
-  degree-4 equations; Hull and Tachi (2018), LIT-tmp6aj47, use this
+- **Neighbours.** Foschi, Hull and Ku (2022), [LIT-tmpegvxm](../literature.d/LIT-tmpegvxm.md), give the
+  degree-4 equations; Hull and Tachi (2018), [LIT-tmp6aj47](../literature.d/LIT-tmp6aj47.md), use this
   paper's bird's foot in proving self-foldability of tessellations. The
   popping states are the two-branch choice that Chen and Santangelo
-  (LIT-tmp0ouv4) and Berry et al. (LIT-tmp24k66) analyze to second order.
+  ([LIT-tmp0ouv4](../literature.d/LIT-tmp0ouv4.md)) and Berry et al. ([LIT-tmp24k66](../literature.d/LIT-tmp24k66.md)) analyze to second order.
 
 ## Bearing on the record
 
@@ -115,15 +115,15 @@ crease of the other parity.
   "organizational nucleus", a least intervention that secures success, is
   close in shape to a minimal forcing set; that analogy is the reader's,
   and the paper makes no such claim.
-- **CLAIM-347 (frustration as an ordinal fact; the compatibility
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (frustration as an ordinal fact; the compatibility
   complex).** Related, weakly. Lemma 2 is monotonicity in admissible
   freedoms: a crease is a new hinge, not a new demand, so it is the
   counterpart of the claim's "relief is strict enlargement" only by
   analogy. The §5 remark that vertex conditions do not simply combine is a
   local-to-global gap of the kind the complex encodes. Not a dated note:
   the reading neither supports nor qualifies the claim as stated.
-- **CLAIM-079, CLAIM-025, CLAIM-365**: unrelated.
-- Filed: THEORY-tmpgwhew. No instruction for machine-learning practice;
+- **[CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-365](../claims.d/CLAIM-365.md)**: unrelated.
+- Filed: [THEORY-tmpgwhew](../theory.d/THEORY-tmpgwhew.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

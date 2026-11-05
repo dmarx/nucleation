@@ -15,7 +15,7 @@ source:
 - LIT-tmpry5n6
 summary: >-
   Abel, Cantarella, Demaine, Eppstein, Hull, Ku, Lang and Tachi (2016),
-  LIT-tmpry5n6, read in full in NOTE-tmpj2th4 (arXiv v1). Proposed: the
+  [LIT-tmpry5n6](../literature.d/LIT-tmpry5n6.md), read in full in [NOTE-tmpj2th4](../notes.d/NOTE-tmpj2th4.md) (arXiv v1). Proposed: the
   proofs were followed in one reading but not checked against the journal
   version or reproduced. It does not say anything about multi-vertex
   crease patterns, about folds far from flat, or about motions in which
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Abel et al. (2016), LIT-tmpry5n6; read in NOTE-tmpj2th4.
+Abel et al. (2016), [LIT-tmpry5n6](../literature.d/LIT-tmpry5n6.md); read in [NOTE-tmpj2th4](../notes.d/NOTE-tmpj2th4.md).
 
 ## What was actually shown
 

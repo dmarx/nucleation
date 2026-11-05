@@ -14,7 +14,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpl2xcp
 summary: >-
-  Liu, Zhang and Fang (2023), LIT-tmpl2xcp, read in NOTE-tmp2mkll (the main
+  Liu, Zhang and Fang (2023), [LIT-tmpl2xcp](../literature.d/LIT-tmpl2xcp.md), read in [NOTE-tmp2mkll](../notes.d/NOTE-tmp2mkll.md) (the main
   text; the supplement skipped). Proposed: the figures were read by caption
   and text, and the experimental comparisons are in the unread supplement.
   It is kinematic and about static shapes. It does not say how good the
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Liu, Zhang and Fang (2023), LIT-tmpl2xcp; read in NOTE-tmp2mkll.
+Liu, Zhang and Fang (2023), [LIT-tmpl2xcp](../literature.d/LIT-tmpl2xcp.md); read in [NOTE-tmp2mkll](../notes.d/NOTE-tmp2mkll.md).
 
 ## What was actually shown
 

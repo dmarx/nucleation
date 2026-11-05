@@ -16,7 +16,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp6aj47
 summary: >-
-  Hull and Tachi (2018), LIT-tmp6aj47, read in full in NOTE-tmpryygx (arXiv
+  Hull and Tachi (2018), [LIT-tmp6aj47](../literature.d/LIT-tmp6aj47.md), read in full in [NOTE-tmpryygx](../notes.d/NOTE-tmpryygx.md) (arXiv
   v1). Proposed: the theorems were read with their proofs, which rest on
   the authors' 2016 criteria, not checked here. It does not say anything
   about stiffness, bending energy or noisy actuators, which the model
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Hull and Tachi (2018), LIT-tmp6aj47; read in NOTE-tmpryygx.
+Hull and Tachi (2018), [LIT-tmp6aj47](../literature.d/LIT-tmp6aj47.md); read in [NOTE-tmpryygx](../notes.d/NOTE-tmpryygx.md).
 
 ## What was actually shown
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp9dvve) from the arXiv v1 preprint,
+  read in full 2026-11-05 ([NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md)) from the arXiv v1 preprint,
   1703.04161v1, titled "The difficulty of folding self-folding origami";
   the published PRX version was not read. Worth reading as the case in
   which a target configuration exists and is designed to be the ground
@@ -80,7 +80,7 @@ Stern, M., Pinson, M. B. & Murugan, A. (2017). The Complexity of Folding Self-Fo
 
 ## Key takeaways
 
-*From the reading of the arXiv v1 preprint, NOTE-tmp9dvve. Quotes are the
+*From the reading of the arXiv v1 preprint, [NOTE-tmp9dvve](../notes.d/NOTE-tmp9dvve.md). Quotes are the
 preprint's, not the published text's.*
 
 - **Distractors are inevitable.** "even crease patterns with only one
@@ -114,5 +114,5 @@ far better than count. And the difficulty is limited to the flat state.
 The paper is the record's clearest physical case of A's "existence ≠
 reliable emergence": the designed branch exists, and can be made the
 ground state, yet is hard to reach. Its frustration is energetic, a
-refinement of the loop shape behind CLAIM-347 and CASE-119 rather than an
-instance of TERM-060. Filed from it: THEORY-tmpq2qdv.
+refinement of the loop shape behind [CLAIM-347](../claims.d/CLAIM-347.md) and [CASE-119](../cases.d/CASE-119.md) rather than an
+instance of [TERM-060](../terms.d/TERM-060.md). Filed from it: [THEORY-tmpq2qdv](../theory.d/THEORY-tmpq2qdv.md).

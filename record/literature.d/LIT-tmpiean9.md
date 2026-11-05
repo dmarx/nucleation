@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  main text read in full 2026-11-05 (NOTE-tmp52g52) from the publisher's
+  main text read in full 2026-11-05 ([NOTE-tmp52g52](../notes.d/NOTE-tmp52g52.md)) from the publisher's
   open-access PDF (CC BY 4.0); worth reading as the extension of rigidity
   control by facet planarity from Miura-ori to origami with arbitrary
   polygonal facets: planarity of an n-gon takes exactly n − 3
@@ -72,7 +72,7 @@ Li, R. & Choi, G. P. T. (2026). Rigidity control of general origami structures. 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp52g52.*
+*From the reading, [NOTE-tmp52g52](../notes.d/NOTE-tmp52g52.md).*
 
 - **Planarity as the control.** "the rigidity of a wide range of origami
   structures can be controlled by enforcing or relaxing the planarity
@@ -98,5 +98,5 @@ transition depends on the selection rule and the candidate-pool size, or
 that the triangular-facet ratio is the governing variable. A also does not
 say that the predictive formula is fitted, or that the paper's "rigidity
 percolation" is a fixed-size statistic. The paper extends Chen, Choi and
-Mahadevan (2020), LIT-tmpge2xj, which A cites as O7 without noting the
-link. Filed from it: THEORY-tmp6nzru.
+Mahadevan (2020), [LIT-tmpge2xj](LIT-tmpge2xj.md), which A cites as O7 without noting the
+link. Filed from it: [THEORY-tmp6nzru](../theory.d/THEORY-tmp6nzru.md).

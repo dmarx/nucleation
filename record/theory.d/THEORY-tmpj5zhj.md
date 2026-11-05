@@ -12,8 +12,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp6fzgs
 summary: >-
-  Deng, Sattari, Xie, Liao, Yan and Lin (2020), LIT-tmp6fzgs, read in
-  NOTE-tmp5sqfp, as a neighbour of Yeow, Yang and Ren (2024), LIT-tmpxnx47.
+  Deng, Sattari, Xie, Liao, Yan and Lin (2020), [LIT-tmp6fzgs](../literature.d/LIT-tmp6fzgs.md), read in
+  [NOTE-tmp5sqfp](../notes.d/NOTE-tmp5sqfp.md), as a neighbour of Yeow, Yang and Ren (2024), [LIT-tmpxnx47](../literature.d/LIT-tmpxnx47.md).
   Proposed: the figures were read by caption, and the supplement on cycling
   only by its caption. It does not say that the film can be rewritten in
   place without an external laser and field, nor anything about an
@@ -25,8 +25,8 @@ summary: >-
 
 ## Source
 
-Deng, Sattari, Xie, Liao, Yan and Lin (2020), LIT-tmp6fzgs; read in
-NOTE-tmp5sqfp. A neighbour of Yeow, Yang and Ren (2024), LIT-tmpxnx47, which
+Deng, Sattari, Xie, Liao, Yan and Lin (2020), [LIT-tmp6fzgs](../literature.d/LIT-tmp6fzgs.md); read in
+[NOTE-tmp5sqfp](../notes.d/NOTE-tmp5sqfp.md). A neighbour of Yeow, Yang and Ren (2024), [LIT-tmpxnx47](../literature.d/LIT-tmpxnx47.md), which
 was not read.
 
 ## What was actually shown

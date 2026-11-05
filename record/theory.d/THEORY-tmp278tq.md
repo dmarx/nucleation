@@ -17,8 +17,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpge2xj
 summary: >-
-  Chen, Choi & Mahadevan (2020), LIT-tmpge2xj, read from arXiv v2 in
-  NOTE-tmpazhb8 (main text; the SI with the proofs was not read).
+  Chen, Choi & Mahadevan (2020), [LIT-tmpge2xj](../literature.d/LIT-tmpge2xj.md), read from arXiv v2 in
+  [NOTE-tmpazhb8](../notes.d/NOTE-tmpazhb8.md) (main text; the SI with the proofs was not read).
   Proposed: the minimal counts are proved by construction in the SI,
   which was not read; the thresholds are numerical, and the rigidity
   threshold is a peak of a second derivative with a heuristic explanation.
@@ -30,8 +30,8 @@ summary: >-
 ## Source
 
 Chen, Choi & Mahadevan, "Deterministic and stochastic control of kirigami
-topology", PNAS (2020), LIT-tmpge2xj; read from arXiv 1910.07090v2 in
-NOTE-tmpazhb8.
+topology", PNAS (2020), [LIT-tmpge2xj](../literature.d/LIT-tmpge2xj.md); read from arXiv 1910.07090v2 in
+[NOTE-tmpazhb8](../notes.d/NOTE-tmpazhb8.md).
 
 ## What was actually shown
 

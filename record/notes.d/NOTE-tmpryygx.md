@@ -93,15 +93,15 @@ possible.
 ## Connections
 
 - **The original it stands in for.** Of the chapter "Rigid Origami Theory"
-  of Hull's Origametry (LIT-tmpq0e56), it restates the self-folding theory
+  of Hull's Origametry ([LIT-tmpq0e56](../literature.d/LIT-tmpq0e56.md)), it restates the self-folding theory
   the publisher's summary describes, actuators meant "to fold the crease
   pattern to a target state and not to some other rigid origami state",
   with its main theorems. It does not restate the chapter's NP-hardness
-  section (see Akitaya et al., LIT-tmpj5g19), its theorem that the germ of
+  section (see Akitaya et al., [LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md)), its theorem that the germ of
   a single-vertex configuration space is that of a quadratic form, its
   disconnected examples, or "its limitations" as the chapter states them.
 - **Neighbours.** Its proof of parts (c) and (d) uses the bird's foot of
-  Abel et al. (LIT-tmpry5n6). Chen and Santangelo (LIT-tmp0ouv4) test the
+  Abel et al. ([LIT-tmpry5n6](../literature.d/LIT-tmpry5n6.md)). Chen and Santangelo ([LIT-tmp0ouv4](../literature.d/LIT-tmp0ouv4.md)) test the
   Theorem 2 condition on triangulated sheets and find it unmeetable for
   even modest numbers of internal vertices. The face-closure condition is
   Corollary 11 of Akitaya et al.
@@ -114,19 +114,19 @@ possible.
   mode's existing from separable local actuation being able to select it.
   A's claim that more intervention need not improve success monotonically
   is attributed by A to Stern et al. and is not tested here.
-- **CLAIM-357 (structural infeasibility against realized violation).**
+- **[CLAIM-357](../claims.d/CLAIM-357.md) (structural infeasibility against realized violation).**
   Qualifies, by analogy. A feasible target that no separable driving force
   selects is a third case beside the two the claim separates: not
   infeasible, not a realized violation, but unselectable under a declared
   class of actuation.
-- **CASE-194** (one task failed from three causes, one of them a shared
+- **[CASE-194](../cases.d/CASE-194.md)** (one task failed from three causes, one of them a shared
   actuator setting): related in spirit only. The separable actuator, which
   knows its own angle and not the others, is an information-restricted
   class of actuation; the mechanisms differ.
-- **CLAIM-537** (one configuration for every disturbance against selection
+- **[CLAIM-537](../claims.d/CLAIM-537.md)** (one configuration for every disturbance against selection
   from what an agent can read): related, weakly; both make selectability
   depend on what local actuators can read. Analogy only.
-- Filed: THEORY-tmpmqxmo. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpmqxmo](../theory.d/THEORY-tmpmqxmo.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  main text read in full 2026-11-05 (NOTE-tmp7wdij) from the full-text
+  main text read in full 2026-11-05 ([NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md)) from the full-text
   JATS XML in Europe PMC (PMC12435273, CC BY-NC-ND 4.0); worth reading as
   a clean case of mechanical frustration in the energetic sense: springs
   that prestress a bistable Kresling origami cell from outside, at the
@@ -73,7 +73,7 @@ Zang, S., Zhao, T., Misseroni, D. & Paulino, G. H. (2025). Origami frustration a
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp7wdij. Sections are the paper's.*
+*From the reading, [NOTE-tmp7wdij](../notes.d/NOTE-tmp7wdij.md). Sections are the paper's.*
 
 - **A fixed landscape, made tunable from outside.** "standard Kresling
   origami cells exhibit nontunable intrinsic energy landscapes determined
@@ -103,6 +103,6 @@ words: in the paper "localized or global" says where the prestress sits.
 And "previously inaccessible" means eight of 56 transitions, those blocked
 by the ordering of the barriers. The paper's "frustration" is stored
 elastic energy from prestress applied by springs and handles, the
-energetic sense that TERM-060 sets apart from its own. So it bears out A's
+energetic sense that [TERM-060](../terms.d/TERM-060.md) sets apart from its own. So it bears out A's
 point that mechanical and structural frustration are "not interchangeable".
-Filed from it: THEORY-tmppn4nt.
+Filed from it: [THEORY-tmppn4nt](../theory.d/THEORY-tmppn4nt.md).

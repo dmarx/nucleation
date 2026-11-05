@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpb0ok0) from the publisher's PDF posted on the
+  read 2026-11-05 ([NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md)) from the publisher's PDF posted on the
   publications page of the first author's lab at Yale; worth reading as a
   clear hardware case of passive mechanics standing in for sensing and
   control: a four-fingered hand with compliant joints and an adaptive
@@ -70,7 +70,7 @@ Dollar, A. M. & Howe, R. D. (2010). The Highly Adaptive SDM Hand: Design and Per
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpb0ok0. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md). Page numbers are the journal's.*
 
 - **One actuator, eight joints.** "A single actuator drives the four
   fingers (eight joints) of the hand." (§2.2, p. 588).
@@ -100,4 +100,4 @@ table is out of reach. "Morphological computation" is A's label; the paper
 never uses it, and says only that compliance and adaptive coupling reduce
 the sensing and control a grasp needs. A also leaves out the trade-off the
 authors optimise and the sharp changes of behaviour near the edge of the
-grasp range. Filed from it: THEORY-tmp15pfs.
+grasp range. Filed from it: [THEORY-tmp15pfs](../theory.d/THEORY-tmp15pfs.md).

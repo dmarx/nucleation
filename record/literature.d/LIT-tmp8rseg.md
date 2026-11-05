@@ -10,8 +10,8 @@ status_note: >-
   full version of this content", a paywall under Cambridge Core terms, so
   the reader stopped there on 2026-11-05 and did not retry. No open copy
   was found. Two neighbours were read and filed in its place:
-  LIT-tmpry5n6 (Abel et al. 2016) stands in for the chapter's intrinsic
-  condition for a vertex to fold rigidly from flat, and LIT-tmpegvxm
+  [LIT-tmpry5n6](LIT-tmpry5n6.md) (Abel et al. 2016) stands in for the chapter's intrinsic
+  condition for a vertex to fold rigidly from flat, and [LIT-tmpegvxm](LIT-tmpegvxm.md)
   (Foschi, Hull and Ku 2022) for its flat-foldable degree-4 fold-angle
   equations. Neither covers the chapter's reciprocal diagrams, its main
   theorem (a single vertex folds rigidly from flat exactly when it has a
@@ -93,13 +93,13 @@ Not read: the chapter is behind Cambridge Core's paywall (see the status note). 
 The pasted synthesis on constraint architectures cites it for
 configuration spaces, rigidity and fold-angle equations, which matches the
 summary; A omits the chapter's main theorem and its intrinsic condition.
-Two neighbours were read in its place. Abel et al. (2016), LIT-tmpry5n6,
+Two neighbours were read in its place. Abel et al. (2016), [LIT-tmpry5n6](LIT-tmpry5n6.md),
 co-authored by Hull, stands in for the intrinsic condition, fully: a
 vertex with a mountain–valley assignment folds rigidly from flat exactly
-when it contains a bird's foot. Foschi, Hull and Ku (2022), LIT-tmpegvxm,
+when it contains a bird's foot. Foschi, Hull and Ku (2022), [LIT-tmpegvxm](LIT-tmpegvxm.md),
 stands in for the flat-foldable degree-4 equations, which it restates
 citing this book, and goes beyond them. Chen and Santangelo (2018),
-LIT-tmp0ouv4, covers second-order rigidity at the flat state by another
+[LIT-tmp0ouv4](LIT-tmp0ouv4.md), covers second-order rigidity at the flat state by another
 route, self stresses rather than reciprocal diagrams, and is not a stand-in.
 Nothing read covers the reciprocal-diagram machinery or the zero-area
 theorem; for those the chapter itself is needed.

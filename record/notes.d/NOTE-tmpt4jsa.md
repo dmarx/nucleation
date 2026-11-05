@@ -92,18 +92,18 @@ flat state for the curves to share.
 ## Connections
 
 - **The original it stands in for.** Of the "Rigid Foldings" chapter of
-  Hull's Origametry (LIT-tmp8rseg), it restates the flat-foldable degree-4
+  Hull's Origametry ([LIT-tmp8rseg](../literature.d/LIT-tmp8rseg.md)), it restates the flat-foldable degree-4
   fold-angle equations, "linear when parameterized by the tangent of half
   the folding angles, also known as the Weierstrass transformation" in the
   publisher's summary, as its Theorem 1, citing the book for the proof. It
   does not restate the chapter's reciprocal diagrams, its zero-area
   theorem, or its infinitesimal and second-order rigidity.
-- **Also belcastro and Hull (2002)** (LIT-tmphy9wm): it states their
+- **Also belcastro and Hull (2002)** ([LIT-tmphy9wm](../literature.d/LIT-tmphy9wm.md)): it states their
   single-vertex identity-product condition as necessary, citing them, but
   not the global or affine form; for that see Akitaya et al.,
-  LIT-tmpj5g19.
+  [LIT-tmpj5g19](../literature.d/LIT-tmpj5g19.md).
 - **Agreement.** It finds, from exact equations, the disconnection that
-  Berry, Lee-Trimble and Santangelo (LIT-tmp24k66) find near flat, and for
+  Berry, Lee-Trimble and Santangelo ([LIT-tmp24k66](../literature.d/LIT-tmp24k66.md)) find near flat, and for
   degree 4 on both sides of 2π, as they do.
 
 ## Bearing on the record
@@ -112,15 +112,15 @@ flat state for the curves to share.
   pouch is an exact bistable example for A's "bistability as memory", but
   the bistability is kinematic, a discrete configuration space, not a
   double-well energy as in A's illustration.
-- **CLAIM-495 (O(d) holonomy; non-commutativity is not holonomy).**
+- **[CLAIM-495](../claims.d/CLAIM-495.md) (O(d) holonomy; non-commutativity is not holonomy).**
   Supports the claim's last clause. Four rotations about distinct crease
   axes, which do not commute, compose to the identity at every rigidly
   folded state of the vertex, so a loop of non-commuting edge maps is flat.
   It does not engage the claim's partial-compatibility case.
-- **CLAIM-459, THEORY-1270, THEORY-1273** (bistable regimes; Schlögl;
+- **[CLAIM-459](../claims.d/CLAIM-459.md), [THEORY-1270](../theory.d/THEORY-1270.md), [THEORY-1273](../theory.d/THEORY-1273.md)** (bistable regimes; Schlögl;
   metastability by fluctuation): a different mechanism. Those are
   dynamical and stochastic bistability.
-- Filed: THEORY-tmp960op. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp960op](../theory.d/THEORY-tmp960op.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpryygx) from the arXiv preprint; worth
+  read in full 2026-11-05 ([NOTE-tmpryygx](../notes.d/NOTE-tmpryygx.md)) from the arXiv preprint; worth
   reading as a short, exact statement of the Tachi–Hull model of
   self-folding (a driving force is a vector field on the configuration
   space, separable by crease, with positive forward force along the
@@ -11,7 +11,7 @@ status_note: >-
   be uniquely self-folded, while generic quadrilateral tessellations
   rotationally symmetric about the midpoints of the tile's sides can.
   Registered as a stand-in for the unread chapter "Rigid Origami Theory"
-  of Hull's Origametry, LIT-tmpq0e56, whose self-folding section it
+  of Hull's Origametry, [LIT-tmpq0e56](LIT-tmpq0e56.md), whose self-folding section it
   covers. Its main limits: an abstract kinematic model without stiffness
   or bending energy, and monohedral quadrilateral tilings only.
 title: 'Self-foldability of monohedral quadrilateral origami tessellations'
@@ -71,7 +71,7 @@ Hull, T. C. & Tachi, T. (2018). Self-foldability of monohedral quadrilateral ori
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpryygx. Section and theorem numbers are the arXiv version's.*
+*From the reading, [NOTE-tmpryygx](../notes.d/NOTE-tmpryygx.md). Section and theorem numbers are the arXiv version's.*
 
 - **Driving force** (§2): "A vector field f on S is called a driving force
   for the rigid folding ρ(t) if ρ′ (t) · f (ρ(t)) > 0 for all t ∈ [0, s]."
@@ -91,14 +91,14 @@ Hull, T. C. & Tachi, T. (2018). Self-foldability of monohedral quadrilateral ori
 ## Standing in the record
 
 Registered as a stand-in for Hull's chapter "Rigid Origami Theory"
-(LIT-tmpq0e56), which a paywall kept from being read. It covers the
+([LIT-tmpq0e56](LIT-tmpq0e56.md)), which a paywall kept from being read. It covers the
 self-folding theory that the chapter's summary names, actuators that
 should fold the pattern "to a target state and not to some other rigid
 origami state", with its main theorems; not the chapter's NP-hardness
-section (for which see LIT-tmpj5g19), its quadratic-form germ theorem, or
+section (for which see [LIT-tmpj5g19](LIT-tmpj5g19.md)), its quadratic-form germ theorem, or
 its own statement of the theory's limitations. The pasted synthesis on
 constraint architectures does not cite it, but it is the formal version of
 A's "branch selection" and of A's distinction between a target existing
 and its being reliably reached: a mode exists, and whether crease-local
 actuation can select it is a separate question. Filed from it:
-THEORY-tmpmqxmo. No instruction for machine-learning practice.
+[THEORY-tmpmqxmo](../theory.d/THEORY-tmpmqxmo.md). No instruction for machine-learning practice.

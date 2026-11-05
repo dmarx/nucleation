@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  letter read in full 2026-11-05 (NOTE-tmp0l0mn), SI pp. 1–2 skimmed,
+  letter read in full 2026-11-05 ([NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md)), SI pp. 1–2 skimmed,
   from the published PDF posted by co-author Robert J. Lang on his
   publications page; worth reading as a minimal case in which the number
   of degrees of freedom depends on the energy scale probed: the square
@@ -80,7 +80,7 @@ Silverberg, J. L., Na, J.-H., Evans, A. A., Liu, B., Hull, T. C., Santangelo, C.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp0l0mn.*
+*From the reading, [NOTE-tmp0l0mn](../notes.d/NOTE-tmp0l0mn.md).*
 
 - **Zero DOF, yet it folds.** The square twist's "crease pattern has zero
   degrees of freedom (DOF) and therefore should not be foldable, can
@@ -105,5 +105,5 @@ removal by added creases, and the paper's general thesis that the number
 of degrees of freedom is "a variable quantity that changes with the
 experimental energy scale". That thesis is the closest support in A's list
 for A's question of when an effective constraint stops being a good
-approximation, and it bears on CLAIM-478, with energy scales where the
-claim speaks of time scales. Filed from it: THEORY-tmpixfqm.
+approximation, and it bears on [CLAIM-478](../claims.d/CLAIM-478.md), with energy scales where the
+claim speaks of time scales. Filed from it: [THEORY-tmpixfqm](../theory.d/THEORY-tmpixfqm.md).

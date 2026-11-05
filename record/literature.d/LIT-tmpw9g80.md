@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpescek) from the authors' arXiv version (CC BY
+  read 2026-11-05 ([NOTE-tmpescek](../notes.d/NOTE-tmpescek.md)) from the authors' arXiv version (CC BY
   4.0); worth reading as a dynamical-systems explanation of why passive
   walkers are hard to make walk: the basin of attraction of the simplest
   walking model is small, thin and fractal-like because its upright
   equilibrium is a saddle, and as the slope grows the gait goes through
   period doubling to chaos and is destroyed by a boundary crisis.
-  Registered as a neighbour standing in for McGeer (1990), LIT-tmpv6ctd, on
+  Registered as a neighbour standing in for McGeer (1990), [LIT-tmpv6ctd](LIT-tmpv6ctd.md), on
   the idea of passive dynamic walking and the later findings on its
   stability. Its main limits: one idealised model in a singular limit,
   basin membership by finite-step numerics, and a mechanism argued from a
@@ -71,7 +71,7 @@ Obayashi, I., Aoi, S., Tsuchiya, K. & Kokubu, H. (2016). Formation mechanism of 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpescek. Page numbers are the arXiv v3's.*
+*From the reading, [NOTE-tmpescek](../notes.d/NOTE-tmpescek.md). Page numbers are the arXiv v3's.*
 
 - **McGeer's idea.** "This system walks down a shallow slope without an
   actuator or controller; it does this by balancing the energy dissipation
@@ -90,7 +90,7 @@ Obayashi, I., Aoi, S., Tsuchiya, K. & Kokubu, H. (2016). Formation mechanism of 
 
 ## Standing in the record
 
-Registered as a neighbour standing in for McGeer (1990), LIT-tmpv6ctd,
+Registered as a neighbour standing in for McGeer (1990), [LIT-tmpv6ctd](LIT-tmpv6ctd.md),
 which could not be reached. It credits McGeer with passive dynamic walking
 and states the idea; it restates no specific result of his, and the model
 it analyses is Garcia et al.'s later simplification. Against the pasted
@@ -98,4 +98,4 @@ synthesis's gloss of McGeer, "stable gait cycles driven by gravity and their
 own dynamics", it agrees on the idea and adds what A's use omits: the
 stable cycle has a very small, thin basin and exists only over a narrow
 range of slope. Passive gait is stable but not robust. Filed from it:
-THEORY-tmpabuss.
+[THEORY-tmpabuss](../theory.d/THEORY-tmpabuss.md).

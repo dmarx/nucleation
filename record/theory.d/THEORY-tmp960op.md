@@ -14,7 +14,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpegvxm
 summary: >-
-  Foschi, Hull and Ku (2022), LIT-tmpegvxm, read in part in NOTE-tmpt4jsa
+  Foschi, Hull and Ku (2022), [LIT-tmpegvxm](../literature.d/LIT-tmpegvxm.md), read in part in [NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md)
   (main text; the appendices with the proofs unread). Proposed: the
   equations' derivation was not read, and the disconnection of the modes is
   shown in one worked example with a one-sentence general reason, not as a
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Foschi, Hull and Ku (2022), LIT-tmpegvxm; read in part in NOTE-tmpt4jsa.
+Foschi, Hull and Ku (2022), [LIT-tmpegvxm](../literature.d/LIT-tmpegvxm.md); read in part in [NOTE-tmpt4jsa](../notes.d/NOTE-tmpt4jsa.md).
 
 ## What was actually shown
 

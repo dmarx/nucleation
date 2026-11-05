@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  main text read in full 2026-11-05 (NOTE-tmpazhb8) from arXiv
+  main text read in full 2026-11-05 ([NOTE-tmpazhb8](../notes.d/NOTE-tmpazhb8.md)) from arXiv
   1910.07090v2, not from the PNAS version of record; worth reading as an
   exact, constructive count for a quad (rotating-squares) kirigami sheet
   read as a linkage: the fewest links that rigidify the sheet,
@@ -75,7 +75,7 @@ Chen, S., Choi, G. P. T. & Mahadevan, L. (2020). Deterministic and stochastic co
 
 ## Key takeaways
 
-*From the reading of arXiv v2, NOTE-tmpazhb8.*
+*From the reading of arXiv v2, [NOTE-tmpazhb8](../notes.d/NOTE-tmpazhb8.md).*
 
 - **Rigidifying costs more than connecting.** "This implies that there is
   no MRP which is also an MCP for L ≥ 2. It also suggests that in general
@@ -97,8 +97,8 @@ deterministic constructions and statistical models in which cuts and
 remaining connections govern the number of connected components and
 degrees of freedom, with percolation-like transitions. That is right. A
 names no authors; they are Chen, Choi and Mahadevan, and Choi is senior
-author of the follow-up that extends the method to origami, LIT-tmpiean9.
+author of the follow-up that extends the method to origami, [LIT-tmpiean9](LIT-tmpiean9.md).
 A misses the exact minimal counts, the ordering of the three thresholds,
 and the non-monotonic internal DoF, which bears on A's question about the
 freedoms that appear where rigid subsystems are coupled. Filed from it:
-THEORY-tmp278tq.
+[THEORY-tmp278tq](../theory.d/THEORY-tmp278tq.md).

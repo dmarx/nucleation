@@ -1,13 +1,13 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpbpr6m) from the author's arXiv deposit of the
+  read 2026-11-05 ([NOTE-tmpbpr6m](../notes.d/NOTE-tmpbpr6m.md)) from the author's arXiv deposit of the
   2012 conference paper; worth reading as a short analytic account of why
   the passive rimless wheel's gravity-powered gait is stable: the impact
   posture and the energy restored each step are fixed by geometry, so the
   return map's eigenvalue is cos²α whatever the step period, and the gait
   exists only above a minimum slope. Registered as a neighbour standing in
-  for McGeer (1990), LIT-tmpv6ctd, on the rimless wheel only. Its main
+  for McGeer (1990), [LIT-tmpv6ctd](LIT-tmpv6ctd.md), on the rimless wheel only. Its main
   limits: a linearised, planar, one-degree-of-freedom model, so the result
   does not by itself extend to walkers with a swing leg, and the upper slope
   limit is not identified.
@@ -67,7 +67,7 @@ Asano, F. (2012). Stability principle underlying passive dynamic walking of riml
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpbpr6m. Page numbers are the arXiv copy's.*
+*From the reading, [NOTE-tmpbpr6m](../notes.d/NOTE-tmpbpr6m.md). Page numbers are the arXiv copy's.*
 
 - **The simplest passive walker.** "Rimless wheels are known as the
   simplest model for passive dynamic walking." (abstract, p. 1).
@@ -84,11 +84,11 @@ Asano, F. (2012). Stability principle underlying passive dynamic walking of riml
 
 ## Standing in the record
 
-Registered as a neighbour standing in for McGeer (1990), LIT-tmpv6ctd,
+Registered as a neighbour standing in for McGeer (1990), [LIT-tmpv6ctd](LIT-tmpv6ctd.md),
 which could not be reached. It cites McGeer for the rimless wheel and
 restates that model: a gait powered only by gravity on a slope, stable
 because impact loss and restored energy are constant. The analysis is
 Asano's own, not McGeer's. Against the pasted synthesis's gloss of McGeer,
 "stable gait cycles driven by gravity and their own dynamics", it agrees for
 the rimless wheel and adds the bounds: the stable cycle exists only in a
-window of slope. Filed from it: THEORY-tmpbbt2m.
+window of slope. Filed from it: [THEORY-tmpbbt2m](../theory.d/THEORY-tmpbbt2m.md).

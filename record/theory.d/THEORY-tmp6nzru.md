@@ -16,7 +16,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpiean9
 summary: >-
-  Li & Choi (2026), LIT-tmpiean9, read in NOTE-tmp52g52 (main text; the
+  Li & Choi (2026), [LIT-tmpiean9](../literature.d/LIT-tmpiean9.md), read in [NOTE-tmp52g52](../notes.d/NOTE-tmp52g52.md) (main text; the
   Supplementary Notes were not read). Proposed: one group's simulations
   on ten patterns. The n − 3 count is proved; the dependence of the
   critical density on rule, pool size and triangular-facet ratio is
@@ -30,7 +30,7 @@ summary: >-
 ## Source
 
 Li & Choi, "Rigidity control of general origami structures",
-Communications Physics (2026), LIT-tmpiean9; read in NOTE-tmp52g52.
+Communications Physics (2026), [LIT-tmpiean9](../literature.d/LIT-tmpiean9.md); read in [NOTE-tmp52g52](../notes.d/NOTE-tmp52g52.md).
 
 ## What was actually shown
 

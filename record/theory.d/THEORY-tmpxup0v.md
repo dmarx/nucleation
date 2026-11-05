@@ -14,7 +14,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp08uqt
 summary: >-
-  Murray and Sastry (1993), LIT-tmp08uqt, read in NOTE-tmpygch2 from an OCR
+  Murray and Sastry (1993), [LIT-tmp08uqt](../literature.d/LIT-tmp08uqt.md), read in [NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md) from an OCR
   scan, so the equations were read from the layout. Proposed: the theorems'
   statements were read, their proofs not checked line by line. It is local,
   for driftless, regular systems in free space. It does not say that a path
@@ -26,7 +26,7 @@ summary: >-
 
 ## Source
 
-Murray and Sastry (1993), LIT-tmp08uqt; read in NOTE-tmpygch2.
+Murray and Sastry (1993), [LIT-tmp08uqt](../literature.d/LIT-tmp08uqt.md); read in [NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md).
 
 ## What was actually shown
 

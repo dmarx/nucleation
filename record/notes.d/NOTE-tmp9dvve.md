@@ -158,8 +158,8 @@ paradox in protein folding and NP-hard satisfiability (SAT), and sets
 itself apart from Bern and Hayes's NP-hardness of flat-foldability, which
 concerns finding a consistent mountain–valley assignment rather than
 whether folding physics reaches one. It cites Silverberg et al. (2014),
-LIT-tmpa3uim, as ref. [2], an application of self-folding, and Silverberg
-et al. (2015), LIT-tmptep4g, as ref. [37], for the nonzero energy of an
+[LIT-tmpa3uim](../literature.d/LIT-tmpa3uim.md), as ref. [2], an application of self-folding, and Silverberg
+et al. (2015), [LIT-tmptep4g](../literature.d/LIT-tmptep4g.md), as ref. [37], for the nonzero energy of an
 over-determined vertex.
 
 ## Bearing on the record
@@ -192,50 +192,50 @@ over-determined vertex.
     flat state". A's "existence ≠ reliable emergence" is a fair gloss: the
     designed branch exists, can even be made the ground state, and is hard
     to reach.
-- **TERM-060 (frustration of an organization's demands).** The term covers
+- **[TERM-060](../terms.d/TERM-060.md) (frustration of an organization's demands).** The term covers
   both structural frustration (no admissible transformation meets all the
   demands) and frustration by governance (one exists and is not
   selected); A glosses it as "structural frustration" only. Stern et al.'s
   failure mode, a feasible target that goes unreached because of where the
   system is pushed, sits nearer the governance and non-attainment side,
-  which TERM-060's note of 2026-10-18 cautions against calling frustration
+  which [TERM-060](../terms.d/TERM-060.md)'s note of 2026-10-18 cautions against calling frustration
   ("Unmet is not obstructed"). Their own frustration is energetic, nonzero
   κρ⁴ branch energies, so it is a quantitative physical refinement of a
-  combinatorial shape the record knows, not an instance of TERM-060. A's
+  combinatorial shape the record knows, not an instance of [TERM-060](../terms.d/TERM-060.md). A's
   claim that the record's structural frustration is "an ordinal fact" is
-  right and close to CLAIM-347's title, and A's contrast with mechanical
-  frustration as stress or energy is the one TERM-060 already draws.
-- **CLAIM-347 (jointly satisfiable demands form a downward-closed
+  right and close to [CLAIM-347](../claims.d/CLAIM-347.md)'s title, and A's contrast with mechanical
+  frustration as stress or energy is the one [TERM-060](../terms.d/TERM-060.md) already draws.
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (jointly satisfiable demands form a downward-closed
   complex).** Qualifies. Every chain of 4-vertices has a zero-energy
   branch assignment and closing the loop removes it, so the minimal
   obstruction is a closed loop, here of four, the smallest loop in a
-  quadrilateral mesh, as CLAIM-153 has a minimal model of three. But the
+  quadrilateral mesh, as [CLAIM-153](../claims.d/CLAIM-153.md) has a minimal model of three. But the
   designed branch is jointly realizable: frustration afflicts the
   distractors and makes the target hard to reach, not empty.
-- **CLAIM-357 (structural infeasibility, realized violation and minimax
+- **[CLAIM-357](../claims.d/CLAIM-357.md) (structural infeasibility, realized violation and minimax
   suboptimality are separate).** Supports, by analogy: a feasible
   configuration (the designed branch) exists and goes unrealized under a
   given actuation. Misfolding is realized failure with no structural
   infeasibility.
-- **CASE-119 (three demands, every pair satisfiable, the triple not).**
+- **[CASE-119](../cases.d/CASE-119.md) (three demands, every pair satisfiable, the triple not).**
   Supports its use as the combinatorial twin of a frustrated vertex loop.
-- **CLAIM-185 (nucleation threshold) and CLAIM-184 (anchors entrench).**
+- **[CLAIM-185](../claims.d/CLAIM-185.md) (nucleation threshold) and [CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench).**
   Qualify. Folding islands are local seeds that fix a global outcome; the
   early branch choice locks in, there being no backtracking at zero
   temperature, and a badly placed seed locks in a distractor. A is right
   that this is "not automatically a nucleation site in the strict
   thermodynamic sense": no thermal barrier is crossed.
-- **CLAIM-478 (scale separation makes constraints).** Weak. The paper notes
+- **[CLAIM-478](../claims.d/CLAIM-478.md) (scale separation makes constraints).** Weak. The paper notes
   that barriers between branches grow more slowly for softer sheets, so
   how far careful actuation must be kept up depends on stiffness; it does
   not frame this as an effective constraint.
-- **QUESTION-281** (dynamical transitions, including nucleation across a
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (dynamical transitions, including nucleation across a
   finite barrier): related by name only, since the dynamics are
-  zero-temperature descent. THEORY-1087 (frustration on a Kuramoto cycle)
+  zero-temperature descent. [THEORY-1087](../theory.d/THEORY-1087.md) (frustration on a Kuramoto cycle)
   is a neighbouring case of loop frustration, different in mechanism.
-  THEORY-272 and THEORY-521 are the record's nearest glassy-landscape
-  entries, unrelated in content. CLAIM-480 is unrelated to these results.
-- Filed: THEORY-tmpq2qdv. No instruction for machine-learning practice;
+  [THEORY-272](../theory.d/THEORY-272.md) and [THEORY-521](../theory.d/THEORY-521.md) are the record's nearest glassy-landscape
+  entries, unrelated in content. [CLAIM-480](../claims.d/CLAIM-480.md) is unrelated to these results.
+- Filed: [THEORY-tmpq2qdv](../theory.d/THEORY-tmpq2qdv.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

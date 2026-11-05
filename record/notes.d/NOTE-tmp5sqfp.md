@@ -102,7 +102,7 @@ anisotropies are permanently determined" in earlier materials
 
 It sets itself against magnetic soft materials whose anisotropy is fixed
 at fabrication, and against the authors' own earlier responsive
-materials. As a neighbour of Yeow, Yang and Ren (2024), LIT-tmpxnx47, it
+materials. As a neighbour of Yeow, Yang and Ren (2024), [LIT-tmpxnx47](../literature.d/LIT-tmpxnx47.md), it
 restates, in its own system, one of the two ideas their abstract names:
 magnetically responsive phase-change composites, reconfigured by melting to
 release a frozen configuration and refreezing to fix a new one, with
@@ -119,16 +119,16 @@ demonstrations their abstract names.
   only while a second variable, the polymer's phase, is switched, and the
   same actuation then gives a different shape. Nothing here bears on A's
   resource claims: no budgets, bottlenecks or costs are studied.
-- **CLAIM-025** (regime, organization and the capacity to transform it
+- **[CLAIM-025](../claims.d/CLAIM-025.md)** (regime, organization and the capacity to transform it
   persist or fail separately): supports in kind. The shape response, the
   magnetization pattern that selects it, and the phase-change rewriting
   are physically distinct and separately switched.
-- **CLAIM-478** (scale separation makes constraints): supports. Below the
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (scale separation makes constraints): supports. Below the
   melting point the orientations are a constraint on the film's response;
   above it they are degrees of freedom.
-- CLAIM-079, CLAIM-347, CLAIM-365, CLAIM-354 and THEORY-134 bear on nothing
+- [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md), [CLAIM-354](../claims.d/CLAIM-354.md) and [THEORY-134](../theory.d/THEORY-134.md) bear on nothing
   in this paper.
-- Filed: THEORY-tmpj5zhj. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpj5zhj](../theory.d/THEORY-tmpj5zhj.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations
