@@ -111,36 +111,36 @@ All from Table 1 unless a page is given.
 It names Mani et al. (2013), "Poverty impedes cognitive function", as
 finding "evidence for a related hypothesis across several studies and
 replications" (p. 6); that paper is not held. It was prompted by the
-SSRP replication reported in Camerer et al. (2018), LIT-tmpess4c.
+SSRP replication reported in Camerer et al. (2018), [LIT-tmpess4c](../literature.d/LIT-tmpess4c.md).
 
 ## Bearing on the record
 
-- **Against the published paper (LIT-tmp6ahq0).** The stand-in for its
+- **Against the published paper ([LIT-tmp6ahq0](../literature.d/LIT-tmp6ahq0.md)).** The stand-in for its
   Studies 1, 2 and 5, which neither the working paper nor anything else
   read carries; for Studies 3 and 4 it agrees with the working paper
-  (LIT-tmpkabn6) number for number but for one ηp2.
+  ([LIT-tmpkabn6](../literature.d/LIT-tmpkabn6.md)) number for number but for one ηp2.
 - **The owner's reading, deprivation as added time pressure.**
-  Qualified, as in NOTE-tmp5jtai: shots, which have no clock, gave the
+  Qualified, as in [NOTE-tmp5jtai](NOTE-tmp5jtai.md): shots, which have no clock, gave the
   largest borrowing effect (ηp2 = .37), larger than time (.30). Scarcity
   of any resource, time among them, is what the over-borrowing tracks.
-- **TERM-105.** The games are cumulative budgets split into per-round
+- **[TERM-105](../terms.d/TERM-105.md).** The games are cumulative budgets split into per-round
   budgets with borrowing across rounds; the replication keeps the
   borrowing result for a count (shots) and for a duration (seconds).
-- **CLAIM-tmpit7m9.** As in NOTE-tmp5jtai: the structure is close, a
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md).** As in [NOTE-tmp5jtai](NOTE-tmp5jtai.md): the structure is close, a
   total drawn down round by round, with no shock or investment modelled.
-- **THEORY-tmp19alc (Haushofer & Fehr) and NOTE-tmpv5r2w.** The attention
+- **[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer & Fehr) and [NOTE-tmpv5r2w](NOTE-tmpv5r2w.md).** The attention
   route to short-sighted choice replicates for borrowing; the part that
   links focus to cognitive aftereffects (Study 1) does not. Haushofer and
   Fehr's mechanism passage reports the Mani et al. result, which this
   write-up cites but did not test.
-- **THEORY-572 and LIT-161 (Feest: what replication can show).** A clear
+- **[THEORY-572](../theory.d/THEORY-572.md) and [LIT-161](../literature.d/LIT-161.md) (Feest: what replication can show).** A clear
   case of direct replication separating a robust effect (over-borrowing)
   from one that was not (fatigue), by the original authors, with the
   same materials; it does not settle which mechanism produces the
   robust effect, which is the systematic-error question Feest says
   replication leaves open.
-- Filed: THEORY-tmplj3t9. Its companion readings: THEORY-tmp008j1 (the
-  working paper) and THEORY-tmp6qwmt (Camerer et al.). No instruction
+- Filed: [THEORY-tmplj3t9](../theory.d/THEORY-tmplj3t9.md). Its companion readings: [THEORY-tmp008j1](../theory.d/THEORY-tmp008j1.md) (the
+  working paper) and [THEORY-tmp6qwmt](../theory.d/THEORY-tmp6qwmt.md) (Camerer et al.). No instruction
   for machine-learning practice.
 
 ## Limitations

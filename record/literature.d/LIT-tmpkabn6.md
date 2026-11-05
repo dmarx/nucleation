@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp5jtai) from the PDF posted on the
+  read in full 2026-11-05 ([NOTE-tmp5jtai](../notes.d/NOTE-tmp5jtai.md)) from the PDF posted on the
   marketing department's pages of Northwestern University's Kellogg
   School; worth reading as the earliest text of Shah, Mullainathan and
   Shafir's scarcity experiments, and as a stand-in, so far only, for the
-  unread Science article (LIT-tmp6ahq0). It is an earlier version: four
+  unread Science article ([LIT-tmp6ahq0](LIT-tmp6ahq0.md)). It is an earlier version: four
   experiments, not the published five. Its two Family Feud time
   experiments match published Experiments 3 and 4 number for number; its
   two memory-game experiments with budgets of guesses are not in the
@@ -51,7 +51,7 @@ summary: >-
   timed, repeated the borrowing result. In a two-grid memory game players did worse on
   rounds where one grid had more guesses, which the authors read as
   "constraint focus". An earlier version of the Science article
-  (LIT-tmp6ahq0), standing in for its Experiments 3 and 4.
+  ([LIT-tmp6ahq0](LIT-tmp6ahq0.md)), standing in for its Experiments 3 and 4.
 ---
 <!-- inactive-ok-file: LIT-tmp6ahq0 THEORY-tmp008j1 CLAIM-tmpit7m9 TERM-105 — Unavailable, Proposed or new; cited from the reading of Shah, Shafir & Mullainathan (working paper) as open -->
 
@@ -61,7 +61,7 @@ Shah, A. K., Shafir, E. & Mullainathan, S. (n.d., before 2012). Some Consequence
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp5jtai. Page numbers are the working paper's.*
+*From the reading, [NOTE-tmp5jtai](../notes.d/NOTE-tmp5jtai.md). Page numbers are the working paper's.*
 
 - **Scarcity alone produces over-borrowing.** Time-poor players (300 s
   overall, 15 s a round) borrowed .22 of their budget against .08 for the
@@ -81,9 +81,9 @@ Shah, A. K., Shafir, E. & Mullainathan, S. (n.d., before 2012). Some Consequence
 
 ## Standing in the record
 
-A stand-in, so far only, for the unread Science article (LIT-tmp6ahq0).
+A stand-in, so far only, for the unread Science article ([LIT-tmp6ahq0](LIT-tmp6ahq0.md)).
 Its Experiments 1 and 2 match the published Experiments 3 and 4 as the
-authors restate them (LIT-tmpb0bn3): the same means, standard deviations,
+authors restate them ([LIT-tmpb0bn3](LIT-tmpb0bn3.md)): the same means, standard deviations,
 F and z values, except one partial eta squared (.19 here, .18 there); the
 published Experiment 4 also reports a proportion borrowed and a rise in
 borrowing over the game, which this version does not. Its memory-game
@@ -92,7 +92,7 @@ Fortune, Angry Blueberries or previews experiment. In the lab, time here
 is literally the budget and the clock at once, which is why the move to
 guesses matters for the owner's reading of deprivation as time pressure:
 the borrowing appears when the resource is a count of guesses, not
-seconds. It bears on TERM-105
+seconds. It bears on [TERM-105](../terms.d/TERM-105.md)
 as a game that combines a cumulative budget, per-round budgets and
-borrowing across rounds, and on CLAIM-tmpit7m9 as the lab analogue of a
-buffer drawn down against later periods. Filed from it: THEORY-tmp008j1.
+borrowing across rounds, and on [CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) as the lab analogue of a
+buffer drawn down against later periods. Filed from it: [THEORY-tmp008j1](../theory.d/THEORY-tmp008j1.md).

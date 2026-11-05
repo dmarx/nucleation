@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmppfiub), for what bears on Shah, Mullainathan
+  read 2026-11-05 ([NOTE-tmppfiub](../notes.d/NOTE-tmppfiub.md)), for what bears on Shah, Mullainathan
   and Shafir (2012), from the open preprint on SocArXiv
   (doi:10.31235/osf.io/4hmb6), not the typeset Nature Human Behaviour
   version, with the project's supplementary information, its replication
@@ -63,7 +63,7 @@ Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmppfiub. Page numbers are the preprint's.*
+*From the reading, [NOTE-tmppfiub](../notes.d/NOTE-tmppfiub.md). Page numbers are the preprint's.*
 
 - **The project.** "We find a significant effect in the same direction as
   the original study for 13 (62%) studies, and the effect size of the
@@ -83,9 +83,9 @@ Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T.-H., Huber, J., Johannesson, 
 
 ## Standing in the record
 
-Here for Shah, Mullainathan and Shafir (2012), LIT-tmp6ahq0, not for the
+Here for Shah, Mullainathan and Shafir (2012), [LIT-tmp6ahq0](LIT-tmp6ahq0.md), not for the
 other 20 studies, which were read only as context. It `corrects` that
 paper on Study 1, which the original authors concede. It is the only
 independent evidence on the paper; its core claims, focus and
-over-borrowing, rest on the authors' own replications (LIT-tmpb0bn3).
-Filed from it: THEORY-tmp6qwmt.
+over-borrowing, rest on the authors' own replications ([LIT-tmpb0bn3](LIT-tmpb0bn3.md)).
+Filed from it: [THEORY-tmp6qwmt](../theory.d/THEORY-tmp6qwmt.md).

@@ -120,32 +120,32 @@ definitive insight on any of the original papers" (pp. 13–14).
 ## Connections
 
 The comment and the project both point to the authors' replications at
-osf.io/vzm23, filed as LIT-tmpb0bn3. The project compares itself with the
+osf.io/vzm23, filed as [LIT-tmpb0bn3](../literature.d/LIT-tmpb0bn3.md). The project compares itself with the
 Reproducibility Project: Psychology, whose average relative effect sizes
 it calls "very similar" (p. 13).
 
 ## Bearing on the record
 
-- **Shah et al. (2012), LIT-tmp6ahq0.** The one independent test of the
+- **Shah et al. (2012), [LIT-tmp6ahq0](../literature.d/LIT-tmp6ahq0.md).** The one independent test of the
   paper, of its least central study; that study fails. The paper's
   borrowing and focus results, the parts this record cares about, have no
   independent replication; they stand on the authors' own
-  (THEORY-tmplj3t9).
+  ([THEORY-tmplj3t9](../theory.d/THEORY-tmplj3t9.md)).
 - **The owner's reading, deprivation as added time pressure.** The failed
   study manipulated guesses, not time, and tested fatigue afterwards. It
   removes one route, scarcity wearing down cognition for later tasks, and
   leaves the present-focus and borrowing route as the authors' own
   replications left it.
-- **THEORY-tmp19alc (Haushofer & Fehr).** Its mechanism passage reports
+- **[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer & Fehr).** Its mechanism passage reports
   the cognitive-control result of Mani et al. (2013), which this project
   did not test; but any use of Shah et al.'s Study 1 as evidence that
   scarcity taxes later cognition should now be qualified.
-- **THEORY-572 and LIT-161 (Feest).** A direct replication at high power
+- **[THEORY-572](../theory.d/THEORY-572.md) and [LIT-161](../literature.d/LIT-161.md) (Feest).** A direct replication at high power
   says the Study 1 effect is not there in this design; the original
   authors' own account of why (the rich did more work in the game) is the
   kind of systematic-error question Feest says replication cannot settle.
-- **CLAIM-tmpit7m9 and TERM-105.** None directly.
-- Filed: THEORY-tmp6qwmt. No instruction for machine-learning practice.
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) and [TERM-105](../terms.d/TERM-105.md).** None directly.
+- Filed: [THEORY-tmp6qwmt](../theory.d/THEORY-tmp6qwmt.md). No instruction for machine-learning practice.
 
 ## Limitations
 

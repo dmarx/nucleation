@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpya6ud) from the PDF on the authors'
+  read in full 2026-11-05 ([NOTE-tmpya6ud](../notes.d/NOTE-tmpya6ud.md)) from the PDF on the authors'
   OSF project (osf.io/vzm23); worth reading as the authors' own
   high-powered, pre-registered test of every experiment in their Science
-  paper (LIT-tmp6ahq0), and as the only text read that restates that
+  paper ([LIT-tmp6ahq0](LIT-tmp6ahq0.md)), and as the only text read that restates that
   paper's original analyses, which makes it a stand-in, so far only, for
   the unread article. Over-borrowing under scarcity of shots and of time
   replicated with smaller effects, and longer aiming by the poor
@@ -66,7 +66,7 @@ Shah, A. K., Mullainathan, S. & Shafir, E. (2018). Replications of Shah, Mullain
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpya6ud.*
+*From the reading, [NOTE-tmpya6ud](../notes.d/NOTE-tmpya6ud.md).*
 
 - **Over-borrowing replicated, for shots and for time.** "scarcity
   itself leads to over-borrowing. Second, this is true for multiple kinds
@@ -85,9 +85,9 @@ Shah, A. K., Mullainathan, S. & Shafir, E. (2018). Replications of Shah, Mullain
 ## Standing in the record
 
 Filed as its own work, the authors' second test of their claims, and as
-a stand-in, so far only, for the unread Science article (LIT-tmp6ahq0):
+a stand-in, so far only, for the unread Science article ([LIT-tmp6ahq0](LIT-tmp6ahq0.md)):
 its Table 1 restates every original analysis, and for Studies 1, 2 and 5
 it is the only text read that carries the published numbers. `corrects`
 the article on Study 1, which the authors now call a false positive in
 their comment on the SSRP report (read with Camerer et al. 2018,
-LIT-tmpess4c). Filed from it: THEORY-tmplj3t9.
+[LIT-tmpess4c](LIT-tmpess4c.md)). Filed from it: [THEORY-tmplj3t9](../theory.d/THEORY-tmplj3t9.md).

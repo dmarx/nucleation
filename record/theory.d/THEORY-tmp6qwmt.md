@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpess4c
 summary: >-
-  Camerer et al. (2018), LIT-tmpess4c, read in NOTE-tmppfiub for what bears
+  Camerer et al. (2018), [LIT-tmpess4c](../literature.d/LIT-tmpess4c.md), read in [NOTE-tmppfiub](../notes.d/NOTE-tmppfiub.md) for what bears
   on Shah et al. (2012), with the project's replication report and the
   original authors' comment. Proposed: one replication, two stages, one
   design. It says nothing independent about the paper's borrowing and
@@ -27,9 +27,9 @@ summary: >-
 
 ## Source
 
-Camerer et al. (2018), LIT-tmpess4c, its supplement, the SSRP replication
+Camerer et al. (2018), [LIT-tmpess4c](../literature.d/LIT-tmpess4c.md), its supplement, the SSRP replication
 report on Shah et al. and the original authors' comment; read in
-NOTE-tmppfiub. The original is LIT-tmp6ahq0 (unread).
+[NOTE-tmppfiub](../notes.d/NOTE-tmppfiub.md). The original is [LIT-tmp6ahq0](../literature.d/LIT-tmp6ahq0.md) (unread).
 
 ## What was actually shown
 
@@ -41,7 +41,7 @@ NOTE-tmppfiub. The original is LIT-tmp6ahq0 (unread).
   r = −0.015; relative effect size −0.056. Same website code as the
   original.
 - **The original authors**: their own replication, n = 997, also ran the
-  other way (THEORY-tmplj3t9), and "Having now twice failed to replicate
+  other way ([THEORY-tmplj3t9](THEORY-tmplj3t9.md)), and "Having now twice failed to replicate
   Study 1, we are convinced that the original finding was a
   false-positive."
 

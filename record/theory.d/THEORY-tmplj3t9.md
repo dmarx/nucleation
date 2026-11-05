@@ -16,7 +16,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpb0bn3
 summary: >-
-  Shah, Mullainathan & Shafir (2018), LIT-tmpb0bn3, read in NOTE-tmpya6ud:
+  Shah, Mullainathan & Shafir (2018), [LIT-tmpb0bn3](../literature.d/LIT-tmpb0bn3.md), read in [NOTE-tmpya6ud](../notes.d/NOTE-tmpya6ud.md):
   the authors' write-up of their direct replications, which stands in for
   the original analyses of the unread Science paper. Proposed: the
   replications are the authors' own, on one online pool, and no team
@@ -30,9 +30,9 @@ summary: >-
 ## Source
 
 Shah, Mullainathan & Shafir (2018), "Replications of Shah, Mullainathan,
-and Shafir (2012)", LIT-tmpb0bn3; read in NOTE-tmpya6ud. The originals are
-LIT-tmp6ahq0 (unread) and, for Experiments 3 and 4, the working paper
-(THEORY-tmp008j1).
+and Shafir (2012)", [LIT-tmpb0bn3](../literature.d/LIT-tmpb0bn3.md); read in [NOTE-tmpya6ud](../notes.d/NOTE-tmpya6ud.md). The originals are
+[LIT-tmp6ahq0](../literature.d/LIT-tmp6ahq0.md) (unread) and, for Experiments 3 and 4, the working paper
+([THEORY-tmp008j1](THEORY-tmp008j1.md)).
 
 ## What was actually shown
 
@@ -56,7 +56,7 @@ All from Table 1 (pp. 3–5).
 ## What this does not say
 
 - That an independent team has replicated the borrowing results: only
-  Study 1 has had an independent replication (THEORY-tmp6qwmt).
+  Study 1 has had an independent replication ([THEORY-tmp6qwmt](THEORY-tmp6qwmt.md)).
 - That focus causes the over-borrowing: the measured link is null here.
 - That scarcity of time works through time pressure: shots, with no
   clock, gave the larger borrowing effect.

@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpkabn6
 summary: >-
-  Shah, Shafir & Mullainathan, working paper (before 2012), LIT-tmpkabn6,
-  read in NOTE-tmp5jtai: an earlier version of their Science paper,
+  Shah, Shafir & Mullainathan, working paper (before 2012), [LIT-tmpkabn6](../literature.d/LIT-tmpkabn6.md),
+  read in [NOTE-tmp5jtai](../notes.d/NOTE-tmp5jtai.md): an earlier version of their Science paper,
   standing in for its Experiments 3 and 4. Three borrowing experiments,
   two with time (n = 143, 118) and one with guesses (n = 76), and one
   test of the mechanism (n = 33). Proposed: the samples are small, and
@@ -31,8 +31,8 @@ summary: >-
 ## Source
 
 Shah, Shafir & Mullainathan, working paper (undated, before 2012),
-LIT-tmpkabn6; read in NOTE-tmp5jtai. A stand-in for the unread Science
-article, LIT-tmp6ahq0, whose Experiments 3 and 4 its Experiments 1 and 2
+[LIT-tmpkabn6](../literature.d/LIT-tmpkabn6.md); read in [NOTE-tmp5jtai](../notes.d/NOTE-tmp5jtai.md). A stand-in for the unread Science
+article, [LIT-tmp6ahq0](../literature.d/LIT-tmp6ahq0.md), whose Experiments 3 and 4 its Experiments 1 and 2
 match number for number.
 
 ## What was actually shown
@@ -63,6 +63,6 @@ match number for number.
 - That constraint focus causes the borrowing: the borrowing experiments
   do not measure attention, and the one attention test has no borrowing.
 - That it survives replication at full size: the authors' own
-  replications found smaller effects (THEORY-tmplj3t9); none by another
+  replications found smaller effects ([THEORY-tmplj3t9](THEORY-tmplj3t9.md)); none by another
   team has been made of these experiments.
 - Anything about windfalls beyond one paragraph without numbers (p. 13).

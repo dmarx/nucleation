@@ -128,10 +128,10 @@ later.
 
 ## Bearing on the record
 
-- **Against the published paper (LIT-tmp6ahq0).** Experiments 1 and 2
+- **Against the published paper ([LIT-tmp6ahq0](../literature.d/LIT-tmp6ahq0.md)).** Experiments 1 and 2
   here are published Experiments 3 and 4: every mean, standard deviation,
   F and z value the authors restate in their replication write-up
-  (LIT-tmpb0bn3, Table 1) is the same here, except the borrowing ηp2 of
+  ([LIT-tmpb0bn3](../literature.d/LIT-tmpb0bn3.md), Table 1) is the same here, except the borrowing ηp2 of
   Experiment 1, .19 here and .18 there. The published Experiment 4 adds a
   proportion borrowed (.27 against .03) and a rise in borrowing over the
   game, not reported here. Experiments 3 and 4 here are not in the
@@ -143,25 +143,25 @@ later.
   same over-borrowing. What the poor share with someone on a deadline,
   here, is that the present round's constraint binds and the future's
   does not; time pressure is one case of that, not the route.
-- **TERM-105.** Supports, as a case: a cumulative budget (300 or 1000 s;
+- **[TERM-105](../terms.d/TERM-105.md).** Supports, as a case: a cumulative budget (300 or 1000 s;
   30 or 90 guesses), per-round budgets drawn from it, borrowing across
   rounds at an interest cost, and the game ending when the total is
   spent. In the time games the budget is also a deadline.
-- **CLAIM-tmpit7m9 (a buffer as a stock of time).** Close in structure:
+- **[CLAIM-tmpit7m9](../claims.d/CLAIM-tmpit7m9.md) (a buffer as a stock of time).** Close in structure:
   the total budget is a buffer drawn down round by round, and the debt
   game shows the poor running it down faster. No shock, survival or
   delayed investment is modelled, so it does not test the claim.
-- **CLAIM-tmpw4ai2 (thresholds).** By analogy only: the debt slope is a
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds).** By analogy only: the debt slope is a
   lab downward spiral, with no threshold estimated.
-- **CLAIM-tmpc3x0c (withdrawable support).** The windfall paragraph faintly
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (withdrawable support).** The windfall paragraph faintly
   favours steady over lumpy support for the poor; no data are given.
-- **THEORY-tmp19alc (Haushofer & Fehr).** Complements it: a route from
+- **[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md) (Haushofer & Fehr).** Complements it: a route from
   scarcity to short-sighted choice through attention, not affect; no
-  stress is measured. NOTE-tmpv5r2w read the scarcity studies only as
-  Haushofer and Fehr summarise them; this reading and NOTE-tmpya6ud fill
+  stress is measured. [NOTE-tmpv5r2w](NOTE-tmpv5r2w.md) read the scarcity studies only as
+  Haushofer and Fehr summarise them; this reading and [NOTE-tmpya6ud](NOTE-tmpya6ud.md) fill
   that gap for Shah et al.
-- Filed: THEORY-tmp008j1. The replications are THEORY-tmplj3t9 and
-  THEORY-tmp6qwmt. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp008j1](../theory.d/THEORY-tmp008j1.md). The replications are [THEORY-tmplj3t9](../theory.d/THEORY-tmplj3t9.md) and
+  [THEORY-tmp6qwmt](../theory.d/THEORY-tmp6qwmt.md). No instruction for machine-learning practice.
 
 ## Limitations
 
@@ -176,5 +176,5 @@ later.
   subjects, with 33 players and a marginal secondary contrast (p < .06).
 - **Reporting slips.** An interaction across three borrowing conditions
   is given as F(1, 137); the windfall result has no numbers.
-- **What later failed.** The authors' own replications (THEORY-tmplj3t9)
+- **What later failed.** The authors' own replications ([THEORY-tmplj3t9](../theory.d/THEORY-tmplj3t9.md))
   found the borrowing effects smaller and the focus-to-neglect link weak.
