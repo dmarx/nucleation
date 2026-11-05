@@ -113,4 +113,4 @@ max; under addition, budgeted identification at b = 1 was intransitive in
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-CASE-tmp0d5si, A's U/L/R toy, is an instance with one-way moves: under peak costs mutual reachability within a budget stays transitive, all three states joining at 3; under additive costs it is intransitive at budgets 3 to 5 (U within reach of L and of R both ways, L and R 6 apart). No status changes.
+[CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md), A's U/L/R toy, is an instance with one-way moves: under peak costs mutual reachability within a budget stays transitive, all three states joining at 3; under additive costs it is intransitive at budgets 3 to 5 (U within reach of L and of R both ways, L and R 6 apart). No status changes.

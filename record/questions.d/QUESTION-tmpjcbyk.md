@@ -21,8 +21,8 @@ summary: >-
   distinctions arise from both constructions"; agreement under stated
   conditions would be a theorem, and disagreement would show "what each
   framework remembers and forgets". The record holds bisimulation metrics
-  (THEORY-247, THEORY-280) and enriched profiles (CLAIM-tmpxcbet,
-  TERM-tmpvb0eg) and no entry joining them. The filer's smallest example,
+  ([THEORY-247](../theory.d/THEORY-247.md), [THEORY-280](../theory.d/THEORY-280.md)) and enriched profiles ([CLAIM-tmpxcbet](../claims.d/CLAIM-tmpxcbet.md),
+  [TERM-tmpvb0eg](../terms.d/TERM-tmpvb0eg.md)) and no entry joining them. The filer's smallest example,
   checked with python3 -I, shows the full profiles and bisimulation
   disagreeing and the comparison worth making only for restricted
   profiles. The wording is A's; adopting it is the owner's call.
@@ -46,17 +46,17 @@ reveal what each framework remembers and forgets." And the guard: "A
 Yoneda profile is not automatically a behavioral theory of an evolving
 system. The transition semantics must be supplied."
 
-**What the record holds on each side.** Behavioural: THEORY-247, the
+**What the record holds on each side.** Behavioural: [THEORY-247](../theory.d/THEORY-247.md), the
 discounted bisimulation metric of finite action-free labelled Markov
-chains as a bicausal optimal-transport distance, and THEORY-280, its
-estimation from samples; QUESTION-190 asks about that estimate's sample
-complexity. The resource-aware form is named in TERM-tmpckwjg and
-CLAIM-tmpe18y0 as the equivalence for universality, "a resource-aware
-bisimulation", and QUESTION-008 asks it of communicative systems.
-Relational: enriched profiles that keep a threshold (CLAIM-tmpxcbet) and
-recover an additive distance (CASE-tmp0d5si), restricted profiles at a
-budget (CLAIM-tmpg7w69), and the incoming, outgoing and observational
-profiles of TERM-tmpvb0eg. No entry compares the two.
+chains as a bicausal optimal-transport distance, and [THEORY-280](../theory.d/THEORY-280.md), its
+estimation from samples; [QUESTION-190](QUESTION-190.md) asks about that estimate's sample
+complexity. The resource-aware form is named in [TERM-tmpckwjg](../terms.d/TERM-tmpckwjg.md) and
+[CLAIM-tmpe18y0](../claims.d/CLAIM-tmpe18y0.md) as the equivalence for universality, "a resource-aware
+bisimulation", and [QUESTION-008](QUESTION-008.md) asks it of communicative systems.
+Relational: enriched profiles that keep a threshold ([CLAIM-tmpxcbet](../claims.d/CLAIM-tmpxcbet.md)) and
+recover an additive distance ([CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md)), restricted profiles at a
+budget ([CLAIM-tmpg7w69](../claims.d/CLAIM-tmpg7w69.md)), and the incoming, outgoing and observational
+profiles of [TERM-tmpvb0eg](../terms.d/TERM-tmpvb0eg.md). No entry compares the two.
 
 **Why the full profiles are the wrong comparison (the filer's).** Take
 states S, X, Y and Z with moves S → X costing 1, S → Y costing 5, and
@@ -94,5 +94,5 @@ mechanisms".
   families and behavioural metrics.
 - **A profile with no transition semantics.** A: "The transition semantics
   must be supplied."
-- **Agreement under probes chosen to agree.** CLAIM-322: such probes show
+- **Agreement under probes chosen to agree.** [CLAIM-322](../claims.d/CLAIM-322.md): such probes show
   only that they can be selected.

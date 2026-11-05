@@ -40,13 +40,13 @@ summary: >-
   since "Copying, replacing, and transporting can be categorically
   representable without establishing that an original individual
   persists." Both non-implications are shown by example. The first is the
-  categorical form of CLAIM-134's two singletons in Set: a category with two
+  categorical form of [CLAIM-134](CLAIM-134.md)'s two singletons in Set: a category with two
   uniquely isomorphic objects is equivalent to one with a single object, so
   nothing invariant under equivalence, Yoneda profiles included, counts
-  the tokens. The second uses A's three-state toy (CASE-tmp0d5si): lowering
+  the tokens. The second uses A's three-state toy ([CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md)): lowering
   one move's cost leaves a space with no isometry to the first, though the
   mechanism is stipulated to be the same one. Checked by the filer with
-  python3 -I. CLAIM-544 holds the same point for willed agents, as "a
+  python3 -I. [CLAIM-544](CLAIM-544.md) holds the same point for willed agents, as "a
   question of continuation, not of resemblance". The construction is the filer's, from
   A's; adopting it is the owner's call.
 ---
@@ -71,20 +71,20 @@ doesn't remove this distinction."
 and whose isomorphisms are the isometries of their costed transformation
 structures, and let M₁ and M₂ be two separately made copies of one
 design, so that the identity map of the design is an isometry
-f: M₁ → M₂. By Yoneda (THEORY-032) their profiles are isomorphic,
+f: M₁ → M₂. By Yoneda ([THEORY-032](../theory.d/THEORY-032.md)) their profiles are isomorphic,
 Hom(−, M₁) ≅ Hom(−, M₂), so no profile tells them apart. More: the full
 subcategory on {M₁, M₂} has exactly one morphism between any two of its
 objects and is equivalent to the category with one object and its
 identity. Any property of the category that is invariant under
 equivalence, which is every property category theory states without
 naming objects, comes out the same whether there are one, two or a
-thousand copies. The count of tokens is not in the structure. CLAIM-134
+thousand copies. The count of tokens is not in the structure. [CLAIM-134](CLAIM-134.md)
 holds this for graphs and sets: "Two singletons in Set are the
 categorical version" of Leitgeb and Ladyman's edgeless two-node graph,
 whose "two nodes are not even weakly discernible, yet graph theory
 counts two."
 
-**One and non-isomorphic.** Take A's toy (CASE-tmp0d5si) as M: moves
+**One and non-isomorphic.** Take A's toy ([CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md)) as M: moves
 U → L 1, L → U 3, U → R 3, R → U 1, costs adding. Replace the hinge that
 drives U → R with one that costs 1, and call the result M′. Their
 distance tables are
@@ -126,21 +126,21 @@ under addition give the tables above; a search over all six bijections of
 ## What it adds
 
 - **For the categorical program.** A Yoneda profile, however enriched,
-  identifies up to isomorphism (THEORY-032), and so is blind to the count
+  identifies up to isomorphism ([THEORY-032](../theory.d/THEORY-032.md)), and so is blind to the count
   of tokens and to history. A (§7): "The mathematical model therefore needs
   to represent actual continuations through time, not merely compare
   endpoint structures." The examples say what the added class must carry:
   not more structure on the objects, but a choice among morphisms that the
   category already has or lacks.
-- **For willed agents.** CLAIM-170 individuates a willed agent as "the
-  jurisdiction of a will-organization", and CLAIM-544 makes a revision of
+- **For willed agents.** [CLAIM-170](CLAIM-170.md) individuates a willed agent as "the
+  jurisdiction of a will-organization", and [CLAIM-544](CLAIM-544.md) makes a revision of
   it a possible re-individuation, "a question of continuation, not of
   resemblance". The second example is that point outside agents: a
   persisting individual whose organization changes past isomorphism. A:
   "Both are proposed philosophical claims, not established categorical
   theorems."
-- **For QUESTION-284.** A: "That's exactly the sort of distinction
-  QUESTION-284 asks us to confront: when do relations merely characterize
+- **For [QUESTION-284](../questions.d/QUESTION-284.md).** A: "That's exactly the sort of distinction
+  [QUESTION-284](../questions.d/QUESTION-284.md) asks us to confront: when do relations merely characterize
   an object, when do they causally affect it, and when do they partly
   constitute its identity?" The claim shows only that structure alone does
   not settle the matter; it does not answer when relations constitute.
@@ -149,14 +149,14 @@ under addition give the tables above; a search over all six bijections of
 
 - **That persistence has no structural criterion.** One can be added, as
   a class of continuation morphisms, or by a theory of maintenance
-  (TERM-088's dynamical and autonomy senses); the claim says it is
+  ([TERM-088](../terms.d/TERM-088.md)'s dynamical and autonomy senses); the claim says it is
   added, not that it is arbitrary.
 - **What makes a hinge swap a continuation.** That is the domain's
   assumption, as A says, and the record holds none for mechanisms.
-- **That the tokens are primitive.** CLAIM-134's dilemma, whether
+- **That the tokens are primitive.** [CLAIM-134](CLAIM-134.md)'s dilemma, whether
   numerical plurality without relational difference concedes a
   non-relational ground of identity, is not decided here; the examples
   show only that the categorical structure does not decide it either.
-- **Anything about the Grothendieck construction** of A's §6 (TERM-tmpr3hl8's
+- **Anything about the Grothendieck construction** of A's §6 ([TERM-tmpr3hl8](../terms.d/TERM-tmpr3hl8.md)'s
   changes of architecture as moves); the second example compares two
   architectures' categories, not a total category.

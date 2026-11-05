@@ -21,10 +21,10 @@ summary: >-
   "mechanism → external behavior", and composition, "components →
   assembled mechanism", and warns that "black-box equivalence alone is not
   evidence of dynamical individuality or autonomy". The record holds the
-  theorem (THEORY-1063: black-boxing is a functor, not faithful), the
-  effective constraint composition creates (CLAIM-480) and two questions on
-  what coupling generates and what vocabulary it needs (QUESTION-tmpszc1x,
-  QUESTION-283); neither asks which interface individuates a component,
+  theorem ([THEORY-1063](../theory.d/THEORY-1063.md): black-boxing is a functor, not faithful), the
+  effective constraint composition creates ([CLAIM-480](../claims.d/CLAIM-480.md)) and two questions on
+  what coupling generates and what vocabulary it needs ([QUESTION-tmpszc1x](QUESTION-tmpszc1x.md),
+  [QUESTION-283](QUESTION-283.md)); neither asks which interface individuates a component,
   or when interface equivalence fails under cost or maintenance. The
   wording is A's; adopting it is the owner's call.
 ---
@@ -56,15 +56,15 @@ system." The guard: "black-box equivalence alone is not evidence of
 dynamical individuality or autonomy. Two interchangeable mechanisms may
 differ radically in their persistence and maintenance properties."
 
-**What the record holds.** THEORY-1063 (Baez and Fong): black-boxing a
+**What the record holds.** [THEORY-1063](../theory.d/THEORY-1063.md) (Baez and Fong): black-boxing a
 passive linear circuit is a functor whose composite behaviour is fixed by
 the parts' black boxes, so circuits with the same behaviour "are
-interchangeable in every composite", and it is not faithful. CLAIM-480:
+interchangeable in every composite", and it is not faithful. [CLAIM-480](../claims.d/CLAIM-480.md):
 eliminating an equilibrated interior leaves a boundary coupling neither
 part has, and "The interior has effectively become apparatus."
-QUESTION-tmpszc1x asks which constraint structures joining origami modules
+[QUESTION-tmpszc1x](QUESTION-tmpszc1x.md) asks which constraint structures joining origami modules
 generates and whether the boundary relation stays in the modules'
-vocabulary; QUESTION-283 asks when composition forces a richer
+vocabulary; [QUESTION-283](QUESTION-283.md) asks when composition forces a richer
 vocabulary. Those ask what an interface carries. This asks which
 interface, and which interactions at it, make a system one component, and
 what an interface equivalence leaves out.
@@ -74,21 +74,21 @@ separation:
 
 - **Maintenance or internal control** (§11, third target result): "identify
   a compositional equivalence at an external interface that fails when
-  maintenance or internal control is included." TERM-tmpvb0eg's maintenance
-  profile, and CLAIM-tmp99w2g's separation of persisting from
+  maintenance or internal control is included." [TERM-tmpvb0eg](../terms.d/TERM-tmpvb0eg.md)'s maintenance
+  profile, and [CLAIM-tmp99w2g](../claims.d/CLAIM-tmp99w2g.md)'s separation of persisting from
   regenerating, are where the failure would show.
 - **Cost** (§9): "can two systems possess the same compositional external
   behavior but require asymptotically different computational resources
   to realize it? Yes, at least as a broad possibility: the interface
   semantics alone need not preserve implementation costs." This is the
-  interface form of TERM-tmpckwjg's separation of senses of universality.
+  interface form of [TERM-tmpckwjg](../terms.d/TERM-tmpckwjg.md)'s separation of senses of universality.
 - **Autonomy** (§9): "Can two systems have equivalent resource-bounded
   processes but different organizational autonomy? Also plausibly yes:
   one may depend on external maintenance while the other helps reproduce
   its enabling constraints."
 
 A small instance of the first kind, the filer's: a 2 Ω resistor and two
-1 Ω resistors in series have one black box in THEORY-1063's sense, so
+1 Ω resistors in series have one black box in [THEORY-1063](../theory.d/THEORY-1063.md)'s sense, so
 they are interchangeable in every composite, and the second has two parts
 that can fail, so its failure modes and maintenance differ.
 
@@ -96,19 +96,19 @@ that can fail, so its failure modes and maintenance differ.
 
 For a stated class of composable mechanisms with a declared interface
 semantics: a criterion saying which interface, and which interactions,
-fix a component's identity in the descriptive sense of TERM-088, with
+fix a component's identity in the descriptive sense of [TERM-088](../terms.d/TERM-088.md), with
 examples where a coarser interface merges and a finer one separates; and,
 for each of A's three separations, either an example of interface
 equivalence that fails under the added count (cost, maintenance, or
 autonomy) with the failure measured, or a condition under which it
-cannot fail. CASE-tmp2p3i2's study is a design that could supply the
+cannot fail. [CASE-tmp2p3i2](../cases.d/CASE-tmp2p3i2.md)'s study is a design that could supply the
 maintenance example.
 
 ## What would not answer it
 
 - **Black-box equality alone.** It is the premise, not the answer; A: it
   "is not evidence of dynamical individuality or autonomy".
-- **Interfaces chosen after the comparison.** CLAIM-322: probes chosen to
+- **Interfaces chosen after the comparison.** [CLAIM-322](../claims.d/CLAIM-322.md): probes chosen to
   produce a classification show only that they can be selected.
 - **A verdict that interface individuation constitutes the component.**
-  Whether it does is QUESTION-284's question.
+  Whether it does is [QUESTION-284](QUESTION-284.md)'s question.

@@ -113,4 +113,4 @@ carry-over rule, under which the transition survives.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-CLAIM-tmp42yq0 reads this claim as a decoupling of two budgets: spend-matching shrinks the acting budget, fragmenting what the organization can become, while the observing budget, and so what outsiders can tell apart, is untouched. No status changes.
+[CLAIM-tmp42yq0](CLAIM-tmp42yq0.md) reads this claim as a decoupling of two budgets: spend-matching shrinks the acting budget, fragmenting what the organization can become, while the observing budget, and so what outsiders can tell apart, is untouched. No status changes.

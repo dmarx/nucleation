@@ -131,4 +131,4 @@ From [THEORY-1054](../theory.d/THEORY-1054.md), where one arrangement gives a wa
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-A's fourth paste splits universality into five classifications, constraint, process, resource, observational and organizational, and three regimes for the translation overhead (polynomial, bounded multiplicative distortion, exact interface): "There is no reason to assume these notions coincide." A recommends looking for implications and separations among them; the interface separations are asked in QUESTION-tmpe05jc. No status changes.
+A's fourth paste splits universality into five classifications, constraint, process, resource, observational and organizational, and three regimes for the translation overhead (polynomial, bounded multiplicative distortion, exact interface): "There is no reason to assume these notions coincide." A recommends looking for implications and separations among them; the interface separations are asked in [QUESTION-tmpe05jc](../questions.d/QUESTION-tmpe05jc.md). No status changes.

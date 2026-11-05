@@ -90,4 +90,4 @@ taking part does: it can change which willed agent there is.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-CLAIM-tmpye2m2 gives this claim's point that persistence goes by continuation, not resemblance, outside agents: isomorphic structures can be two tokens, and one token can cease to be isomorphic to its earlier self. No status changes.
+[CLAIM-tmpye2m2](CLAIM-tmpye2m2.md) gives this claim's point that persistence goes by continuation, not resemblance, outside agents: isomorphic structures can be two tokens, and one token can cease to be isomorphic to its earlier self. No status changes.

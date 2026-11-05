@@ -157,4 +157,4 @@ implication valid at a budget is valid at every lower one.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-CLAIM-tmp42yq0 pairs this result with its opposite for acting: under peak costs and reversible moves, the classes of what can be turned into one another only merge as the acting budget grows (CLAIM-tmpq06t8). The observing budget here and the acting budget there index one system's budgeted individuation together. No status changes.
+[CLAIM-tmp42yq0](CLAIM-tmp42yq0.md) pairs this result with its opposite for acting: under peak costs and reversible moves, the classes of what can be turned into one another only merge as the acting budget grows ([CLAIM-tmpq06t8](CLAIM-tmpq06t8.md)). The observing budget here and the acting budget there index one system's budgeted individuation together. No status changes.

@@ -111,4 +111,4 @@ is a construction, and shows only that such pairs exist.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-A's fourth paste gives a three-stage design, finite mechanisms, then modular origami, then architecture-changing systems, with four target results. The second's smallest form is CASE-tmp0d5si; the third is QUESTION-tmpe05jc; the fourth is held to CLAIM-322's held-out examples. No status changes.
+A's fourth paste gives a three-stage design, finite mechanisms, then modular origami, then architecture-changing systems, with four target results. The second's smallest form is [CASE-tmp0d5si](CASE-tmp0d5si.md); the third is [QUESTION-tmpe05jc](../questions.d/QUESTION-tmpe05jc.md); the fourth is held to [CLAIM-322](../claims.d/CLAIM-322.md)'s held-out examples. No status changes.

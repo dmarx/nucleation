@@ -20,8 +20,8 @@ summary: >-
   D_b(A,B) = sup over tests affordable at b of total variation, with the
   minimum distinguishing budget B*_ε(A,B) = inf{b: D_b(A,B) > ε}. Filed as a
   term with senses, so a claim about "the profile" of a configuration says
-  which. D_b is CLAIM-302's d_r; the incoming, outgoing and maintenance
-  profiles are the price lists of CLAIM-tmpancvu's three requirements. The
+  which. D_b is [CLAIM-302](../claims.d/CLAIM-302.md)'s d_r; the incoming, outgoing and maintenance
+  profiles are the price lists of [CLAIM-tmpancvu](../claims.d/CLAIM-tmpancvu.md)'s three requirements. The
   filer adds, checked with python3 -I, that exact indistinguishability at a
   budget sorts systems into classes that only split as the budget grows,
   while at a positive threshold the relation is intransitive, as A says.
@@ -34,7 +34,7 @@ summary: >-
 ## Definition
 
 For a configuration x of a resource-bounded constraint system
-(TERM-tmpr3hl8), with d(x, y) the least cost of a process from x to y
+([TERM-tmpr3hl8](TERM-tmpr3hl8.md)), with d(x, y) the least cost of a process from x to y
 (A §2: "d(x,y)=inf_{p:x→y} κ(p)"), A (§4) separates four profiles:
 
 | Profile | A's "Fundamental question" | definition |
@@ -60,7 +60,7 @@ representable constructions in enriched category theory". Why both: "a
 system may be easy to assemble but hard to change once assembled, or
 difficult to construct but easy to modify after construction." Under
 additive costs either profile recovers d: A's d(x,y)=sup_p [d(p,y)−d(p,x)]
-for the incoming one, checked on A's toy in CASE-tmp0d5si, where the
+for the incoming one, checked on A's toy in [CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md), where the
 incoming profiles are the columns of the cost table and the outgoing ones
 its rows.
 
@@ -90,7 +90,7 @@ external intervention."
 
 ## What it adds to what the record holds
 
-- **D_b is held.** CLAIM-302 defines, from A15, d_r(x, x′) = sup over f in
+- **D_b is held.** [CLAIM-302](../claims.d/CLAIM-302.md) defines, from A15, d_r(x, x′) = sup over f in
   F_r of |E[f | x] − E[f | x′]|, total variation over all tests, growing
   with nested families, with its pseudorandom witness: "Equivalence under
   feasible tests can be much coarser than statistical equivalence". A's
@@ -99,21 +99,21 @@ external intervention."
   limitation on the ability to realize a distinction." New here is the
   threshold budget B*_ε and the profile's place beside the other three.
 - **The monotonicity is held** for exact comparison over nested families
-  (CLAIM-tmpg7w69), and its opposite on the side of acting
-  (CLAIM-tmp42yq0; QUESTION-tmp3icc7). B*_ε is the observing counterpart
+  ([CLAIM-tmpg7w69](../claims.d/CLAIM-tmpg7w69.md)), and its opposite on the side of acting
+  ([CLAIM-tmp42yq0](../claims.d/CLAIM-tmp42yq0.md); [QUESTION-tmp3icc7](../questions.d/QUESTION-tmp3icc7.md)). B*_ε is the observing counterpart
   of the transition threshold: the least observing budget that splits a
-  pair, against the least acting budget that joins them (CLAIM-tmpxcbet's
-  enriched hom; CLAIM-tmpq06t8).
-- **Three requirements, priced per configuration.** CLAIM-tmpancvu: a form
+  pair, against the least acting budget that joins them ([CLAIM-tmpxcbet](../claims.d/CLAIM-tmpxcbet.md)'s
+  enriched hom; [CLAIM-tmpq06t8](../claims.d/CLAIM-tmpq06t8.md)).
+- **Three requirements, priced per configuration.** [CLAIM-tmpancvu](../claims.d/CLAIM-tmpancvu.md): a form
   has resource requirements "to construct it, to maintain it, and to move
   into or out of it", and none fixes another. The incoming profile prices
   the first, the outgoing the third, and the maintenance profile is the
   second, which, as A says, no representable supplies.
 - **The senses of individuation they serve.** The observational profile is
-  TERM-088's descriptive sense at a budget; the maintenance profile bears
+  [TERM-088](TERM-088.md)'s descriptive sense at a budget; the maintenance profile bears
   on its autonomy sense. Incoming and outgoing profiles are positions in a
   space of costed transformations, which A (§3) calls "effective
-  individuation" and TERM-088 does not list.
+  individuation" and [TERM-088](TERM-088.md) does not list.
 
 ## Threshold and transitivity (the filer's)
 
@@ -131,7 +131,7 @@ B*_{2ε}(A,C) ≥ min(B*_ε(A,B), B*_ε(B,C)),
 because below the smaller budget both pairs are within ε, so A and C are
 within 2ε. At ε = 0 this is B*_0(A,C) ≥ min(B*_0(A,B), B*_0(B,C)): exact
 indistinguishability at a budget is an equivalence relation, its classes
-only split as the budget grows, and they form one tree, as CLAIM-tmpq06t8
+only split as the budget grows, and they form one tree, as [CLAIM-tmpq06t8](../claims.d/CLAIM-tmpq06t8.md)
 finds for reachability under peak costs. At ε > 0 the inequality at a
 single threshold fails. Checked with python3 -I: on 4,000 random systems
 of three over six tests with costs 1 to 5, D_b was monotone in b, the
@@ -144,11 +144,11 @@ example breaking it at one threshold, ε = 0.15, was found.
   least four".
 - **Defined for every resource semantics.** Incoming and outgoing profiles
   as written need a scalar cost; with several resources a distance is an
-  up-set of budgets (TERM-tmpr3hl8).
+  up-set of budgets ([TERM-tmpr3hl8](TERM-tmpr3hl8.md)).
 - **A theory of maintenance.** The fourth profile is named, not built.
 - **Individuation of individuals.** A profile of any of the four kinds
   characterizes a configuration; whether relations constitute it is
-  another question (THEORY-032; CLAIM-150).
+  another question ([THEORY-032](../theory.d/THEORY-032.md); [CLAIM-150](../claims.d/CLAIM-150.md)).
 
 ## What would settle it
 

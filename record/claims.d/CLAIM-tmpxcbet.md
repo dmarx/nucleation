@@ -177,4 +177,4 @@ one hub and four paths, as contractibility requires.
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-CLAIM-tmpq06t8 states this claim's max-enriched hom as an ultrametric when moves are reversible, so the sublevel groupoids here nest into one merge tree as the budget grows; the additive base gives no such tree, as A's U/L/R toy (CASE-tmp0d5si) shows. No status changes.
+[CLAIM-tmpq06t8](CLAIM-tmpq06t8.md) states this claim's max-enriched hom as an ultrametric when moves are reversible, so the sublevel groupoids here nest into one merge tree as the budget grows; the additive base gives no such tree, as A's U/L/R toy ([CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md)) shows. No status changes.

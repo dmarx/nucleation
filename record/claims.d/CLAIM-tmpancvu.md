@@ -111,4 +111,4 @@ budget, is the disconnection of [CLAIM-tmpbi4ca](CLAIM-tmpbi4ca.md)'s infinite t
 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
-TERM-tmpvb0eg prices this claim's three requirements per configuration: the incoming profile for constructing, the outgoing for moving out, and a maintenance profile that, in A's words, "is not supplied by Yoneda itself". A: a system "may be easy to assemble but hard to change once assembled"; in CASE-tmp0d5si, L is cheap to reach from U and dear to leave for R. No status changes.
+[TERM-tmpvb0eg](../terms.d/TERM-tmpvb0eg.md) prices this claim's three requirements per configuration: the incoming profile for constructing, the outgoing for moving out, and a maintenance profile that, in A's words, "is not supplied by Yoneda itself". A: a system "may be easy to assemble but hard to change once assembled"; in [CASE-tmp0d5si](../cases.d/CASE-tmp0d5si.md), L is cheap to reach from U and dear to leave for R. No status changes.
