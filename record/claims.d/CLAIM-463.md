@@ -129,10 +129,10 @@ Jules et al. ([NOTE-1617](../notes.d/NOTE-1617.md)), from the pasted synthesis o
 
 ## Note of 2026-11-05: the readings on reintroduction and ecological recovery
 
-Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md).
 
-- **Supported in kind.** Kadowaki et al. (NOTE-tmprmy38): reintroducing fire alone does not restore a fire-suppressed wetland, cleaner lake water brought an invader rather than the native plants, and wolves did not bring back Yellowstone's willows once beavers had gone.
-- **Qualified in reach.** Of 15 experimental tests in which a pressure was removed, Schröder, Persson and De Roos (NOTE-tmph4p4q) count 3 that showed alternative states, 5 that recovered and 7 that were inconclusive. Restoring conditions often does restore a capacity.
+- **Supported in kind.** Kadowaki et al. ([NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md)): reintroducing fire alone does not restore a fire-suppressed wetland, cleaner lake water brought an invader rather than the native plants, and wolves did not bring back Yellowstone's willows once beavers had gone.
+- **Qualified in reach.** Of 15 experimental tests in which a pressure was removed, Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)) count 3 that showed alternative states, 5 that recovered and 7 that were inconclusive. Restoring conditions often does restore a capacity.
 
 No status changes.
 

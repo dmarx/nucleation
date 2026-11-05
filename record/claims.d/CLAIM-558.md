@@ -110,9 +110,9 @@ No status changes.
 
 ## Note of 2026-11-05: the readings on reintroduction and ecological recovery
 
-Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md).
 
-- **Selection is a faster route than disuse.** Araki et al. (NOTE-tmpkfeb0) judge relaxed selection, the genetic form of disuse, too slow to explain hatchery fish's loss of fitness in the wild. Christie et al. (NOTE-tmp52jvk) show active selection for captive success instead. Where support changes what is rewarded, a capability can be lost faster than disuse alone would lose it.
+- **Selection is a faster route than disuse.** Araki et al. ([NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md)) judge relaxed selection, the genetic form of disuse, too slow to explain hatchery fish's loss of fitness in the wild. Christie et al. ([NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md)) show active selection for captive success instead. Where support changes what is rewarded, a capability can be lost faster than disuse alone would lose it.
 
 No status changes.
 

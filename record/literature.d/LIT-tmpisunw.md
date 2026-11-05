@@ -12,10 +12,10 @@ status_note: >-
   open licence in Crossref. A copy on typeset.io was not used, an
   aggregator not among the lawful sources. Two read neighbours stand in for
   parts of it, neither for its text: Kadowaki, Nishijima, Kéfi, Kameda &
-  Sasaki (2018), LIT-tmphrrb3, read in NOTE-tmprmy38, a restoration review
+  Sasaki (2018), [LIT-tmphrrb3](LIT-tmphrrb3.md), read in [NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md), a restoration review
   that cites this paper for its framing and carries worked cases of the
-  same mechanism; and Schröder, Persson & De Roos (2005), LIT-tmpiq9lz,
-  read in NOTE-tmph4p4q, the contemporary review of the experimental
+  same mechanism; and Schröder, Persson & De Roos (2005), [LIT-tmpiq9lz](LIT-tmpiq9lz.md),
+  read in [NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md), the contemporary review of the experimental
   evidence against which this paper's "Recent experimental work" would
   have to be judged.
 title: 'Alternative states and positive feedbacks in restoration ecology'
@@ -73,9 +73,9 @@ summary: >-
   connectivity and species pools to invasion and biogeochemistry, and
   threshold-and-feedback models are offered to "identify, prioritize and
   address these constraints". Here as the standard statement that removing
-  a pressure need not undo what it did, the ecological form of CLAIM-463
-  and of the outage in CLAIM-tmpw4ai2; whether its experimental evidence
-  meets THEORY-136's bar is not known until it is read.
+  a pressure need not undo what it did, the ecological form of [CLAIM-463](../claims.d/CLAIM-463.md)
+  and of the outage in [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md); whether its experimental evidence
+  meets [THEORY-136](../theory.d/THEORY-136.md)'s bar is not known until it is read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpw4ai2 CLAIM-597 CLAIM-566 LIT-720 — Unavailable, Proposed or new; cited from the registration of Suding, Gross & Houseman (2004) as open -->
 
@@ -106,29 +106,29 @@ Suding, K. N., Gross, K. L. & Houseman, G. R. (2004). Alternative states and pos
 Unavailable. Only the abstract was read. It is held as the paper most
 cited for the claim that restoring conditions need not restore a degraded
 ecosystem, because the degraded state maintains itself: the ecological
-form of CLAIM-463 (Active), and the case of an outage that restoring the
-supply does not undo in CLAIM-tmpw4ai2. It also bears, unread, on
-CLAIM-566 (conditions for assembly do not give regeneration), on
-QUESTION-398 and QUESTION-399 (here it is the *degraded* state that is
-the self-maintaining nucleus), and on CLAIM-597 only by contrast. It
-applies to restoration the models of LIT-726 and LIT-720, and uses
-"resilient" of the undesired state, as THEORY-132's definition allows.
+form of [CLAIM-463](../claims.d/CLAIM-463.md) (Active), and the case of an outage that restoring the
+supply does not undo in [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md). It also bears, unread, on
+[CLAIM-566](../claims.d/CLAIM-566.md) (conditions for assembly do not give regeneration), on
+[QUESTION-398](../questions.d/QUESTION-398.md) and [QUESTION-399](../questions.d/QUESTION-399.md) (here it is the *degraded* state that is
+the self-maintaining nucleus), and on [CLAIM-597](../claims.d/CLAIM-597.md) only by contrast. It
+applies to restoration the models of [LIT-726](LIT-726.md) and [LIT-720](LIT-720.md), and uses
+"resilient" of the undesired state, as [THEORY-132](../theory.d/THEORY-132.md)'s definition allows.
 
 Two read neighbours stand in, and only so far. Neither stands in for this
 paper's text, its case list or its evidence:
 
-- **Kadowaki et al. (2018)**, LIT-tmphrrb3, read in NOTE-tmprmy38. It
+- **Kadowaki et al. (2018)**, [LIT-tmphrrb3](LIT-tmphrrb3.md), read in [NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md). It
   cites this paper four times, for sudden transitions, for regime-shift
   work on environmental change, and for feedbacks as "key ingredients" of
   alternative stable states and restoration. It carries the framing and
   worked cases of the same mechanism (fire-suppressed wetlands, lakes
   after eutrophication, Yellowstone), described from other sources, with
   no effect sizes.
-- **Schröder, Persson & De Roos (2005)**, LIT-tmpiq9lz, read in
-  NOTE-tmph4p4q. Not about restoration; a contemporary review of the
+- **Schröder, Persson & De Roos (2005)**, [LIT-tmpiq9lz](LIT-tmpiq9lz.md), read in
+  [NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md). Not about restoration; a contemporary review of the
   manipulation experiments that test for alternative stable states, and
   the bar this paper's "Recent experimental work" must be held to under
-  THEORY-136. Of 15 tests of non-recovery after a pressure was removed,
+  [THEORY-136](../theory.d/THEORY-136.md). Of 15 tests of non-recovery after a pressure was removed,
   it counts 3 as showing alternative states.
 
 Until the paper is read, the record takes from it only its framing, not

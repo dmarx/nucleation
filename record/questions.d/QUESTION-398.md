@@ -82,12 +82,12 @@ No status changes.
 
 ## Note of 2026-11-05: the readings on reintroduction and ecological recovery
 
-Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md).
 
-- **A test.** Schröder, Persson and De Roos (NOTE-tmph4p4q): a state is independent of an intervention once it lasts a full turnover after the intervention ends. The field's own standard for translocations is persistence "without further augmentation" (Morris et al., NOTE-tmpbfqjw).
-- **A partial answer.** Tree islands weeded for 2.5 years kept their advantage to 16–18 years (NOTE-tmpcw7tn). They became independent of the planter and stayed dependent on the landscape.
-- **A counter-case to A's expectation.** Under captive rearing the cost of withdrawal grows with the support's length rather than falling (NOTE-tmpkfeb0). Once hatchery fish dominate, the unsupported comparison is gone and D cannot be measured.
-- **The synthesis.** CLAIM-tmpc3x0c answers the question in three conditions.
+- **A test.** Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)): a state is independent of an intervention once it lasts a full turnover after the intervention ends. The field's own standard for translocations is persistence "without further augmentation" (Morris et al., [NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md)).
+- **A partial answer.** Tree islands weeded for 2.5 years kept their advantage to 16–18 years ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)). They became independent of the planter and stayed dependent on the landscape.
+- **A counter-case to A's expectation.** Under captive rearing the cost of withdrawal grows with the support's length rather than falling ([NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md)). Once hatchery fish dominate, the unsupported comparison is gone and D cannot be measured.
+- **The synthesis.** [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) answers the question in three conditions.
 
 No status changes.
 

@@ -85,9 +85,9 @@ No status changes.
 
 ## Note of 2026-11-05: the readings on reintroduction and ecological recovery
 
-Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md).
 
-- **A nucleus can be productive and persistent without regenerating itself.** Planted tree islands keep drawing dispersers and improving microsites, but their own seedlings rarely reach the sapling layer (NOTE-tmpcw7tn). They have not taken the last step this question asks about.
+- **A nucleus can be productive and persistent without regenerating itself.** Planted tree islands keep drawing dispersers and improving microsites, but their own seedlings rarely reach the sapling layer ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)). They have not taken the last step this question asks about.
 
 No status changes.
 

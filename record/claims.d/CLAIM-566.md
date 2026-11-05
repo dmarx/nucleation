@@ -197,11 +197,11 @@ No status changes.
 
 ## Note of 2026-11-05: the readings on reintroduction and ecological recovery
 
-Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md).
 
-- **Assembly and persistence come apart.** Practitioner-judged translocation success was similar for captive-bred and wild-sourced stock, yet captive-bred stock had negative mean population growth (Morris et al., NOTE-tmpbfqjw). Only 24.8 % of reported successes met the standard of persisting "without further augmentation".
-- **Persistence without regeneration.** Planted trees persisted for 16–18 years, but few of their seedlings reached the sapling layer (NOTE-tmpcw7tn).
-- **A horizon to measure against.** Schröder, Persson and De Roos (NOTE-tmph4p4q) count a state stable once it lasts a full turnover after the intervention ends, which gives the claim's "specified horizon" a natural length.
+- **Assembly and persistence come apart.** Practitioner-judged translocation success was similar for captive-bred and wild-sourced stock, yet captive-bred stock had negative mean population growth (Morris et al., [NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md)). Only 24.8 % of reported successes met the standard of persisting "without further augmentation".
+- **Persistence without regeneration.** Planted trees persisted for 16–18 years, but few of their seedlings reached the sapling layer ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)).
+- **A horizon to measure against.** Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)) count a state stable once it lasts a full turnover after the intervention ends, which gives the claim's "specified horizon" a natural length.
 
 No status changes.
 

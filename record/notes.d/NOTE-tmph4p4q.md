@@ -129,49 +129,49 @@ closest to removing the pressure and watching, the system usually came back.
 
 ## Connections
 
-The direct-evidence companion to Scheffer & Carpenter (2003), LIT-726, on
-which THEORY-136 rests, and to LIT-720. It stands in for Suding, Gross &
-Houseman (2004), LIT-tmpisunw, only as the bar that paper's "Recent
+The direct-evidence companion to Scheffer & Carpenter (2003), [LIT-726](../literature.d/LIT-726.md), on
+which [THEORY-136](../theory.d/THEORY-136.md) rests, and to [LIT-720](../literature.d/LIT-720.md). It stands in for Suding, Gross &
+Houseman (2004), [LIT-tmpisunw](../literature.d/LIT-tmpisunw.md), only as the bar that paper's "Recent
 experimental work" must meet; it does not cite or restate Suding et al.,
 is not about restoration, and carries none of their cases, so it restates
-none of their results. Kadowaki et al. (2018), LIT-tmphrrb3, read in
-NOTE-tmprmy38, is a later restoration review whose cases do not meet this
-bar. Its non-recovery design is the withdrawal test of THEORY-1292 in an
-ecological setting, and the logic of THEORY-178 (a transient pulse
+none of their results. Kadowaki et al. (2018), [LIT-tmphrrb3](../literature.d/LIT-tmphrrb3.md), read in
+[NOTE-tmprmy38](NOTE-tmprmy38.md), is a later restoration review whose cases do not meet this
+bar. Its non-recovery design is the withdrawal test of [THEORY-1292](../theory.d/THEORY-1292.md) in an
+ecological setting, and the logic of [THEORY-178](../theory.d/THEORY-178.md) (a transient pulse
 leaving a different attractor after release). Its whole-lake rows bear on
-LIT-711 and THEORY-128 only by analogy.
+[LIT-711](../literature.d/LIT-711.md) and [THEORY-128](../theory.d/THEORY-128.md) only by analogy.
 
 ## Bearing on the record
 
-- **THEORY-136** (Active): supports and quantifies it. Direct tests are
+- **[THEORY-136](../theory.d/THEORY-136.md)** (Active): supports and quantifies it. Direct tests are
   rare, lab-biased, and in the field mostly negative or inconclusive; a
   claim that a degraded state is held by alternative states needs a
   non-recovery test over a full turnover, not abruptness or persistence.
-- **CLAIM-463** (Active): qualifies. The claim is a demonstrated
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (Active): qualifies. The claim is a demonstrated
   possibility, not a frequency; this review says that among ecological
   systems tested by removing the pressure, the possibility was realized in
   3 of 15, and in 5 the system recovered. Restoring the conditions often
   does restore the state.
-- **CLAIM-tmpw4ai2**: supports, with that caution. The positive grazing
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)**: supports, with that caution. The positive grazing
   cases fit upkeep through soil feedback, collapse, and no relighting once
   the grazers are removed.
-- **CLAIM-566**: supports by analogy. Its persistence "over a specified
+- **[CLAIM-566](../claims.d/CLAIM-566.md)**: supports by analogy. Its persistence "over a specified
   horizon" matches the one-turnover criterion.
-- **QUESTION-398**: offers a measure. Independence from an intervention is
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: offers a measure. Independence from an intervention is
   shown by the state lasting one full turnover after the intervention
   ends.
-- **QUESTION-399, TERM-117**: bear. Permanence of an assembled community
+- **[QUESTION-399](../questions.d/QUESTION-399.md), [TERM-117](../terms.d/TERM-117.md)**: bear. Permanence of an assembled community
   and invasion order producing alternative communities (Drake 1991) are
   the self-maintaining-nucleus cases.
-- **THEORY-1273** (Active): consistent; permanent transients and
+- **[THEORY-1273](../theory.d/THEORY-1273.md)** (Active): consistent; permanent transients and
   noise-driven switching echo metastability.
-- **THEORY-128**: qualifies by reminder. Marine benthic experiments showed
-  no ASS (p. 7), so THEORY-128's coral-recovery account should not be read
+- **[THEORY-128](../theory.d/THEORY-128.md)**: qualifies by reminder. Marine benthic experiments showed
+  no ASS (p. 7), so [THEORY-128](../theory.d/THEORY-128.md)'s coral-recovery account should not be read
   as needing alternative states.
-- **THEORY-132** (Active): consistent; resilience as distance to the
+- **[THEORY-132](../theory.d/THEORY-132.md)** (Active): consistent; resilience as distance to the
   unstable state.
-- **CLAIM-597, CLAIM-tmpoh07b, CLAIM-tmpqa0qu, CLAIM-558**: none.
-- Should produce: THEORY-tmpm618c.
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), [CLAIM-558](../claims.d/CLAIM-558.md)**: none.
+- Should produce: [THEORY-tmpm618c](../theory.d/THEORY-tmpm618c.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

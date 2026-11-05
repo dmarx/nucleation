@@ -162,8 +162,8 @@ C = 0.769, an output of 1.15, more than demand.
 
 ## What the ecological readings add
 
-- **A faster route than disuse.** In hatchery steelhead, captive rearing selects for success in captivity. Fitness in the wild falls within one generation, and the loss compounds over generations (NOTE-tmp52jvk, NOTE-tmpkfeb0). The pattern is this claim's: support that does the work lowers the capacity kept, and more so the longer it runs. The mechanism is selection, not unlearning, and recovery after withdrawal is not measured.
-- **A confound to keep apart.** Morris et al. (NOTE-tmpbfqjw) find longer release programmes with fewer failures. That is continued supply, not substitution, and it does not test this claim.
+- **A faster route than disuse.** In hatchery steelhead, captive rearing selects for success in captivity. Fitness in the wild falls within one generation, and the loss compounds over generations ([NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md), [NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md)). The pattern is this claim's: support that does the work lowers the capacity kept, and more so the longer it runs. The mechanism is selection, not unlearning, and recovery after withdrawal is not measured.
+- **A confound to keep apart.** Morris et al. ([NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md)) find longer release programmes with fewer failures. That is continued supply, not substitution, and it does not test this claim.
 
 ## What it does not say
 

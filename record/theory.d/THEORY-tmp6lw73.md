@@ -17,14 +17,14 @@ date: '2026-11-05'
 source:
 - LIT-tmphrrb3
 summary: >-
-  Kadowaki, Nishijima, Kéfi, Kameda & Sasaki (2018), LIT-tmphrrb3, read in
-  NOTE-tmprmy38. The account is the authors' synthesis, illustrated by a
+  Kadowaki, Nishijima, Kéfi, Kameda & Sasaki (2018), [LIT-tmphrrb3](../literature.d/LIT-tmphrrb3.md), read in
+  [NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md). The account is the authors' synthesis, illustrated by a
   toy model they call not novel and by three cases they describe from
   other studies. The sharp edge: no case is tested for alternative stable
   states, none gives numbers, and none is followed after the intervention
   ends; in one, the wetland, the restored state is kept by prescribed fire
   indefinitely. Filed as a stand-in reading for Suding, Gross & Houseman
-  (2004), LIT-tmpisunw, for its framing only.
+  (2004), [LIT-tmpisunw](../literature.d/LIT-tmpisunw.md), for its framing only.
 ---
 <!-- inactive-ok-file: LIT-tmpisunw — Unavailable, Proposed or new; cited from the reading of Kadowaki et al. (2018) as open -->
 
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Kadowaki et al. (2018), LIT-tmphrrb3; read in NOTE-tmprmy38. A stand-in
-for Suding, Gross & Houseman (2004), LIT-tmpisunw, which it cites for the
+Kadowaki et al. (2018), [LIT-tmphrrb3](../literature.d/LIT-tmphrrb3.md); read in [NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md). A stand-in
+for Suding, Gross & Houseman (2004), [LIT-tmpisunw](../literature.d/LIT-tmpisunw.md), which it cites for the
 framing and which was not read.
 
 ## What was actually shown
@@ -63,12 +63,12 @@ cited studies' authority.
 
 - That any of these systems has alternative stable states. No case is
   tested for hysteresis, initial-state dependence or a lasting shift with
-  slow recovery excluded, which THEORY-136 requires; "irreversible" is the
+  slow recovery excluded, which [THEORY-136](THEORY-136.md) requires; "irreversible" is the
   cited authors' word.
 - That the biotic manipulation can then stop. The wetland is "maintained
   with prescribed fires"; no case is followed after the intervention ends.
 - How often restoration by conditions fails. Three cases chosen to
   illustrate say nothing of the rate; Schröder, Persson & De Roos (2005)
   found that removing a pressure left the system unrecovered in 3 of 15
-  tests (5 recovered; 7 were not conclusive), LIT-tmpiq9lz.
+  tests (5 recovered; 7 were not conclusive), [LIT-tmpiq9lz](../literature.d/LIT-tmpiq9lz.md).
 - Anything Suding, Gross & Houseman (2004) showed.

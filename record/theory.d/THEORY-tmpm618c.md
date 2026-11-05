@@ -16,7 +16,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpiq9lz
 summary: >-
-  Schröder, Persson & De Roos (2005), LIT-tmpiq9lz, read in NOTE-tmph4p4q.
+  Schröder, Persson & De Roos (2005), [LIT-tmpiq9lz](../literature.d/LIT-tmpiq9lz.md), read in [NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md).
   Proposed only because the per-experiment tables extracted garbled: the
   counts are stated in the abstract and body, and the non-recovery count
   also in Table 2, which extracted cleanly; Table 1's readable laboratory
@@ -24,8 +24,8 @@ summary: >-
   Appendix 1 is unreadable, so the counts are unverified against them. The
   sharp edge: the review counts tests,
   not systems, ends in 2004, and rests on approximate life spans. It is
-  read here as the evidence bar for THEORY-136 and as a stand-in for the
-  evidence behind Suding, Gross & Houseman (2004), LIT-tmpisunw.
+  read here as the evidence bar for [THEORY-136](THEORY-136.md) and as a stand-in for the
+  evidence behind Suding, Gross & Houseman (2004), [LIT-tmpisunw](../literature.d/LIT-tmpisunw.md).
 ---
 <!-- inactive-ok-file: LIT-tmpisunw — Unavailable; cited from the reading of Schröder, Persson & De Roos (2005) as open -->
 
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Schröder, Persson & De Roos (2005), LIT-tmpiq9lz; read in NOTE-tmph4p4q.
+Schröder, Persson & De Roos (2005), [LIT-tmpiq9lz](../literature.d/LIT-tmpiq9lz.md); read in [NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md).
 
 ## What was actually shown
 

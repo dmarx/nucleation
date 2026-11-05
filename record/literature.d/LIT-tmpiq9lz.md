@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmph4p4q), body in full, from the third author's
+  read 2026-11-05 ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)), body in full, from the third author's
   University of Amsterdam staff page; worth reading as the direct-evidence
   test for alternative stable states: of 35 manipulation experiments, 21
   were conclusive over at least one turnover of the longest-lived
@@ -68,7 +68,7 @@ Schröder, A., Persson, L. & De Roos, A. M. (2005). Direct experimental evidence
 
 ## Key takeaways
 
-*From the reading, NOTE-tmph4p4q. Page numbers are the journal's.*
+*From the reading, [NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md). Page numbers are the journal's.*
 
 - **Direct tests are few and lab-biased.** "13 experiments have directly
   demonstrated the existence of alternative stable states while 8 showed
@@ -93,15 +93,15 @@ Schröder, A., Persson, L. & De Roos, A. M. (2005). Direct experimental evidence
 
 ## Standing in the record
 
-Active, as the direct-evidence companion to THEORY-136 and LIT-726: it
+Active, as the direct-evidence companion to [THEORY-136](../theory.d/THEORY-136.md) and [LIT-726](LIT-726.md): it
 counts how rarely manipulation has shown alternative stable states, and
 how rarely removing a pressure has failed to restore a system. Any claim
 in the record that a degraded or a supported state is held by
 alternative states, rather than recovering slowly, should be judged by
 its non-recovery test over a full turnover. Filed from it:
-THEORY-tmpm618c.
+[THEORY-tmpm618c](../theory.d/THEORY-tmpm618c.md).
 
-It stands in for Suding, Gross & Houseman (2004), LIT-tmpisunw, only as
+It stands in for Suding, Gross & Houseman (2004), [LIT-tmpisunw](LIT-tmpisunw.md), only as
 the bar that paper's "Recent experimental work" must meet; it is not about
 restoration, does not cite or restate Suding et al., and carries none of
 their cases. The counts above are from the body text and its Table 2.

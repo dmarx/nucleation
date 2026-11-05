@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmprmy38) from the publisher's version on
+  read in full 2026-11-05 ([NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md)) from the publisher's version on
   HAL Montpellier (hal-01938760, CC BY-NC-ND 4.0); worth reading as a
   restoration review that says why removing a pressure can fail to restore
   a system with alternative states: the degraded phase leaves a
@@ -12,7 +12,7 @@ status_note: >-
   toy model the authors call "not novel" and three narrative cases drawn
   from other studies; no effect sizes, no test of bistability in any case,
   and no case followed after the intervention stopped. Registered as a
-  stand-in for Suding, Gross & Houseman (2004), LIT-tmpisunw, for its
+  stand-in for Suding, Gross & Houseman (2004), [LIT-tmpisunw](LIT-tmpisunw.md), for its
   framing only.
 title: 'Merging community assembly into the regime-shift approach for informing ecological restoration'
 version: 1
@@ -75,7 +75,7 @@ Kadowaki, K., Nishijima, S., Kéfi, S., Kameda, K. O. & Sasaki, T. (2018). Mergi
 
 ## Key takeaways
 
-*From the reading, NOTE-tmprmy38. Page numbers are the journal's.*
+*From the reading, [NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md). Page numbers are the journal's.*
 
 - **Restoring the pressure-free condition is not enough when the degraded
   state feeds itself.** In fire-suppressed wetlands "re-introduction of
@@ -102,13 +102,13 @@ Kadowaki, K., Nishijima, S., Kéfi, S., Kameda, K. O. & Sasaki, T. (2018). Mergi
 
 Active, as the clearest worked statement held of how a degraded state's
 own legacy defeats restoration by removing the pressure, which is the
-ecological form of CLAIM-463 and the outage of CLAIM-tmpw4ai2. Its
+ecological form of [CLAIM-463](../claims.d/CLAIM-463.md) and the outage of [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md). Its
 evidence is weak: the cases are narrative, taken from other studies, and
-none is tested for hysteresis, so by THEORY-136's standard the paper does
+none is tested for hysteresis, so by [THEORY-136](../theory.d/THEORY-136.md)'s standard the paper does
 not show that any of them has alternative stable states. Filed from it:
-THEORY-tmp6lw73.
+[THEORY-tmp6lw73](../theory.d/THEORY-tmp6lw73.md).
 
-It stands in for Suding, Gross & Houseman (2004), LIT-tmpisunw, for the
+It stands in for Suding, Gross & Houseman (2004), [LIT-tmpisunw](LIT-tmpisunw.md), for the
 framing only. It cites that paper for sudden transitions, for
 regime-shift work on environmental change and for feedbacks as "key
 ingredients of alternative stable states and ecological restoration"

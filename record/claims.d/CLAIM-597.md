@@ -126,13 +126,13 @@ No status changes.
 
 ## Note of 2026-11-05: the readings on reintroduction and ecological recovery
 
-Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is [CLAIM-tmpc3x0c](CLAIM-tmpc3x0c.md).
 
-- **Supported in conservation.** Conservation-reliant species need management that does not end. Weed control on Hawaiian refuges "must be constant" (Underwood et al., NOTE-tmpoxify). A restored wetland stays restored only with continued prescribed fire (Kadowaki et al., NOTE-tmprmy38).
+- **Supported in conservation.** Conservation-reliant species need management that does not end. Weed control on Hawaiian refuges "must be constant" (Underwood et al., [NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md)). A restored wetland stays restored only with continued prescribed fire (Kadowaki et al., [NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md)).
 - **Qualified in two ways.**
-  - Prairie chickens breed their own replacements. Their reliance comes from a persisting threat, not from every part being supplied (Mussmann et al., NOTE-tmpmm5we).
-  - A partial cut of the Kirtland's Warbler's supplied habitat gives a lower plateau, not decay to zero (Brown et al., NOTE-tmpozsi2).
-- **The independence the claim allows.** Tree islands become independent of whoever planted them and stay dependent on the landscape's seed rain (NOTE-tmpcw7tn). That is independence from a founder, not from a feed.
+  - Prairie chickens breed their own replacements. Their reliance comes from a persisting threat, not from every part being supplied (Mussmann et al., [NOTE-tmpmm5we](../notes.d/NOTE-tmpmm5we.md)).
+  - A partial cut of the Kirtland's Warbler's supplied habitat gives a lower plateau, not decay to zero (Brown et al., [NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md)).
+- **The independence the claim allows.** Tree islands become independent of whoever planted them and stay dependent on the landscape's seed rain ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)). That is independence from a founder, not from a feed.
 
 No status changes.
 

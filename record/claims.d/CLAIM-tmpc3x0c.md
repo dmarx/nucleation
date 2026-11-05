@@ -58,12 +58,12 @@ summary: >-
   instead of doing the upkeep. Planted tree islands, weeded for 2.5
   years, kept their advantage to 16–18 years because established trees
   keep drawing seed dispersers (Holl et al.; Schubert et al.). Supplied
-  repair, by contrast, never becomes optional (CLAIM-597). Second, the
+  repair, by contrast, never becomes optional ([CLAIM-597](CLAIM-597.md)). Second, the
   threat it stood in for is gone. Conservation-reliant species stay
   reliant while fire is suppressed or habitat threats persist (Mussmann
   et al.; Brown et al.). Third, the party did the work throughout.
   Support that does the work wears capacity down by disuse
-  (CLAIM-558), by slack effort (Ostrom et al.) or by selection for the
+  ([CLAIM-558](CLAIM-558.md)), by slack effort (Ostrom et al.) or by selection for the
   supported conditions, which costs hatchery steelhead fitness in the wild
   within one generation (Christie et al.). Captive-bred translocated
   stock shows negative population growth (Morris et al.). Persistence
@@ -79,75 +79,75 @@ summary: >-
 
 1. **The support starts a process that keeps itself going on an
    available flux. It does not do the upkeep.**
-   - **Supplied upkeep never becomes optional** (CLAIM-597). Origami that
+   - **Supplied upkeep never becomes optional** ([CLAIM-597](CLAIM-597.md)). Origami that
      self-heals from a strand pool and replicators fed fresh monomers are
      independent of their seed and never of their supply.
    - **Applied nucleation is the counter-case.** Holl et al.
-     (NOTE-tmpq005d) contrast perches and bat boxes, which "have
+     ([NOTE-tmpq005d](../notes.d/NOTE-tmpq005d.md)) contrast perches and bat boxes, which "have
      short-term impacts", with planted trees, which "once established ...
      attract dispersers and modify microsite conditions continuously". In
-     the Costa Rican experiment (NOTE-tmpcw7tn) weeding stopped at 2.5
+     the Costa Rican experiment ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)) weeding stopped at 2.5
      years, and planted islands still recruited more later-successional
      species at 16–18 years.
    - **What the system depends on afterwards is the flux, not the
      provider.** Recovery still relies on seed from the surrounding
-     forest. This is CLAIM-tmpw4ai2's distinction between dependence on a
+     forest. This is [CLAIM-tmpw4ai2](CLAIM-tmpw4ai2.md)'s distinction between dependence on a
      flux and dependence on a provider. The fiscal contract is the state's
-     version (Moore, NOTE-tmpfngj0).
+     version (Moore, [NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)).
 2. **The threat or suppressed process the support stood in for has
    gone.**
    - **Support against a persisting threat cannot end.** Mussmann et al.
-     (NOTE-tmpmm5we) find translocating prairie chickens while the habitat
+     ([NOTE-tmpmm5we](../notes.d/NOTE-tmpmm5we.md)) find translocating prairie chickens while the habitat
      threat persists gives "ambiguous or transitory" gains. Leaving
      reliance needs the extrinsic threat and the population's own state
      "alleviated in tandem".
    - **Supply that replaces a suppressed process is permanent while the
      suppression lasts.** The Kirtland's Warbler lives on plantations that
-     replace suppressed wildfire, and Brown et al. (NOTE-tmpozsi2) expect
+     replace suppressed wildfire, and Brown et al. ([NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md)) expect
      it to remain reliant.
    - **Removing the pressure is often not enough.** In Kadowaki et al.'s
-     cases (NOTE-tmprmy38), reintroducing fire alone does not restore a
+     cases ([NOTE-tmprmy38](../notes.d/NOTE-tmprmy38.md)), reintroducing fire alone does not restore a
      fire-suppressed wetland, because hardwoods now stop the fire.
 3. **The supported party did the work throughout.** Support that does
    the work wears capacity down by three routes, at different speeds.
-   - **Disuse.** A capability not exercised decays (CLAIM-558). Where
+   - **Disuse.** A capability not exercised decays ([CLAIM-558](CLAIM-558.md)). Where
      capacity is learned by doing, substitution lowers what is kept, and
      recovery after full substitution grows with its length
-     (CLAIM-tmpoh07b).
+     ([CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)).
    - **Slack effort.** Assured help makes low effort the recipient's best
-     reply, the Samaritan's dilemma (Ostrom et al., NOTE-tmp22pjn). The
-     loss is favoured to the one who loses (CLAIM-tmpqa0qu).
+     reply, the Samaritan's dilemma (Ostrom et al., [NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)). The
+     loss is favoured to the one who loses ([CLAIM-tmpqa0qu](CLAIM-tmpqa0qu.md)).
    - **Selection for the supported conditions.** This is the fastest
-     route. In Hood River steelhead (Christie et al., NOTE-tmp52jvk) one
+     route. In Hood River steelhead (Christie et al., [NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md)) one
      generation of hatchery rearing selected for success in captivity.
      Offspring of the wild broodstock most successful in the hatchery had
      "71% lower per capita reproductive success" in the wild. Araki et al.
-     (NOTE-tmpkfeb0) judge relaxed selection, the route of disuse, too
+     ([NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md)) judge relaxed selection, the route of disuse, too
      slow to explain the loss.
    - **The counter-practice in every domain is doing the work while the
-     support remains.** In the Kenya exit study (NOTE-tmp46avq),
+     support remains.** In the Kenya exit study ([NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)),
      participants who "operate independently prior to project closure"
-     kept activities going. Under CLAIM-tmpoh07b's capacity-first rule,
+     kept activities going. Under [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)'s capacity-first rule,
      the support covers only what the party cannot yet do and withdraws
      itself.
 
 ## How to tell which kind it was
 
 Support that fails a condition can look like success while it lasts.
-- Impact at exit did not predict sustainability (Kenya, NOTE-tmp46avq).
-- Captive-bred translocations were judged successful as often as wild-sourced ones, yet their mean population growth was negative (Morris et al., NOTE-tmpbfqjw).
+- Impact at exit did not predict sustainability (Kenya, [NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)).
+- Captive-bred translocations were judged successful as often as wild-sourced ones, yet their mean population growth was negative (Morris et al., [NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md)).
 - Only 24.8 % of reported translocation successes reached the field's own standard, a population that persists "without further augmentation".
 
-Schröder, Persson and De Roos (NOTE-tmph4p4q) give the test: a state is independent of an intervention once it lasts a full turnover of its parts after the intervention ends. A's withdrawal measure for QUESTION-398 is the experimental form of that test.
+Schröder, Persson and De Roos ([NOTE-tmph4p4q](../notes.d/NOTE-tmph4p4q.md)) give the test: a state is independent of an intervention once it lasts a full turnover of its parts after the intervention ends. A's withdrawal measure for [QUESTION-398](../questions.d/QUESTION-398.md) is the experimental form of that test.
 
 ## What the readings do not support
 
 - **That thresholds and hysteresis are common.**
-  - CLAIM-tmpw4ai2's ignition, collapse and unrecoverable outage are demonstrated in a model. In the field they are rarer. Schröder et al. find alternative stable states in most conclusive laboratory experiments and few field ones, and few cases where removing a pressure failed to restore.
+  - [CLAIM-tmpw4ai2](CLAIM-tmpw4ai2.md)'s ignition, collapse and unrecoverable outage are demonstrated in a model. In the field they are rarer. Schröder et al. find alternative stable states in most conclusive laboratory experiments and few field ones, and few cases where removing a pressure failed to restore.
   - Cutting the Kirtland's Warbler's supplied habitat gives lower plateaus, not collapse.
-  - Hawaiian waterbirds returned to a marsh once it was managed again (Underwood et al., NOTE-tmpoxify).
+  - Hawaiian waterbirds returned to a marsh once it was managed again (Underwood et al., [NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md)).
   - Thresholds are real in founder numbers and nucleus size: success plateaus above about 20–50 animals, and about 64 m² is cited as the minimum for a tree nucleus. They are not the rule for withdrawal.
-- **That longer support is always worse.** Morris et al. find longer release programmes with fewer failures. That is continued supply, not substitution, and it does not test the third condition. The claim's "deepens with its length" is shown for substitution in CLAIM-tmpoh07b's model and for generations in captivity. It is not shown for support in general.
+- **That longer support is always worse.** Morris et al. find longer release programmes with fewer failures. That is continued supply, not substitution, and it does not test the third condition. The claim's "deepens with its length" is shown for substitution in [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)'s model and for generations in captivity. It is not shown for support in general.
 - **That the evidence is strong.**
   - The aid evidence is review essays and short case studies.
   - Of the ecology, the captive-rearing result rests on one pedigree. The nucleation result rests on one experiment, and the conservation-reliance cases are three species.
@@ -155,10 +155,10 @@ Schröder, Persson and De Roos (NOTE-tmph4p4q) give the test: a state is indepen
 
 ## What it adds
 
-- **To QUESTION-398.** An answer in three conditions and a test, with the
+- **To [QUESTION-398](../questions.d/QUESTION-398.md).** An answer in three conditions and a test, with the
   domains in which each condition is seen.
-- **To QUESTION-399.** A nucleus can become independent of its founder
+- **To [QUESTION-399](../questions.d/QUESTION-399.md).** A nucleus can become independent of its founder
   and stay dependent on an ambient flux, as tree islands do. Whether it
   regenerates its own parts is a further step: the planted cohort's own
-  seedlings rarely reach the sapling layer (NOTE-tmpcw7tn), so these
+  seedlings rarely reach the sapling layer ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)), so these
   islands have not taken it.

@@ -132,7 +132,7 @@ first can decide whether recovery happens.
 
 ## Connections
 
-It stands in for Suding, Gross & Houseman (2004), LIT-tmpisunw, for the
+It stands in for Suding, Gross & Houseman (2004), [LIT-tmpisunw](../literature.d/LIT-tmpisunw.md), for the
 framing only. It cites Suding et al. for sudden transitions (p. 991), for
 RS work on environmental change (pp. 991, 992), and for feedbacks as "key
 ingredients of alternative stable states and ecological restoration"
@@ -140,47 +140,47 @@ ingredients of alternative stable states and ecological restoration"
 constraint Suding et al.'s abstract lists (dominance shifts, trophic
 interactions, biogeochemistry). It does not restate Suding et al.'s cases,
 experiments or models, so none of its results is Suding et al.'s. Its lake
-mechanism is Scheffer's (LIT-726, LIT-720). Schröder, Persson & De Roos
-(2005), LIT-tmpiq9lz, read in NOTE-tmph4p4q, is the evidence standard it
-does not meet. In the record it parallels CLAIM-463 (Active): restoring
+mechanism is Scheffer's ([LIT-726](../literature.d/LIT-726.md), [LIT-720](../literature.d/LIT-720.md)). Schröder, Persson & De Roos
+(2005), [LIT-tmpiq9lz](../literature.d/LIT-tmpiq9lz.md), read in [NOTE-tmph4p4q](NOTE-tmph4p4q.md), is the evidence standard it
+does not meet. In the record it parallels [CLAIM-463](../claims.d/CLAIM-463.md) (Active): restoring
 the conditions a capacity was lost under need not restore it where its
 maintenance is self-reinforcing, and rebuilding the activity directly can.
 
 ## Bearing on the record
 
-- **CLAIM-463** (Active): supports in kind. Each case is restored
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (Active): supports in kind. Each case is restored
   conditions failing and recovery needing the maintaining activity rebuilt
   directly (hardwood removal, sludge removal, ordered reintroduction).
   No case shows the threshold or the hysteresis the claim's construction
   has; the model does.
-- **CLAIM-tmpw4ai2**: supports. The wetland is the plainest case of upkeep
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)**: supports. The wetland is the plainest case of upkeep
   drawn in by the structure's own state: fire spreads only through
   herbaceous ground cover, so once hardwoods dominate, restoring the fire
   does not relight the herbaceous state.
-- **CLAIM-597**: qualifies by contrast. The restored wetland is "maintained
+- **[CLAIM-597](../claims.d/CLAIM-597.md)**: qualifies by contrast. The restored wetland is "maintained
   with prescribed fires", a supply that never ends; it fits the claim only
   if fire is counted as supply.
-- **CLAIM-566**: supports. Restored conditions in the Japanese lakes
+- **[CLAIM-566](../claims.d/CLAIM-566.md)**: supports. Restored conditions in the Japanese lakes
   assembled the wrong community (Trapa); the target was not regenerated.
-- **QUESTION-398**: bears, without answering. Independence from the
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: bears, without answering. Independence from the
   intervention seems to come, where it comes, only when the target's own
   feedback is re-established; in the wetland it never comes. No case is
   followed after the intervention ends.
-- **QUESTION-399, TERM-117, QUESTION-380**: bear through the model. The
+- **[QUESTION-399](../questions.d/QUESTION-399.md), [TERM-117](../terms.d/TERM-117.md), [QUESTION-380](../questions.d/QUESTION-380.md)**: bear through the model. The
   facilitation term is a nucleus that sustains itself above a threshold,
   and the first species reintroduced changes the outcome, predicted by its
   stress tolerance and growth rate.
-- **THEORY-136** (Active): the paper does not meet its bar; its
+- **[THEORY-136](../theory.d/THEORY-136.md)** (Active): the paper does not meet its bar; its
   "irreversible" cases are not tested for hysteresis, initial-state
   dependence or a lasting shift with slow return excluded.
-- **THEORY-128**: parallel. Recovery needs the biotic controller (wolves,
+- **[THEORY-128](../theory.d/THEORY-128.md)**: parallel. Recovery needs the biotic controller (wolves,
   beavers), and the controller alone was not enough.
-- **THEORY-178** and **THEORY-1292**: the same logic in other systems, a
+- **[THEORY-178](../theory.d/THEORY-178.md)** and **[THEORY-1292](../theory.d/THEORY-1292.md)**: the same logic in other systems, a
   transient pulse leaving a different attractor after release, and the
   withdrawal test that tells a self-sustained state from a driven one.
   This paper applies neither test.
-- **CLAIM-tmpoh07b, CLAIM-tmpqa0qu, CLAIM-558, THEORY-1273**: none.
-- Should produce: THEORY-tmp6lw73.
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), [CLAIM-558](../claims.d/CLAIM-558.md), [THEORY-1273](../theory.d/THEORY-1273.md)**: none.
+- Should produce: [THEORY-tmp6lw73](../theory.d/THEORY-tmp6lw73.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations
