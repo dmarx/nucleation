@@ -175,14 +175,14 @@ not less.
 
 ## Connections
 
-- Converges with THEORY-907 and THEORY-1180 (Chou, Wilson and Smith):
+- Converges with [THEORY-907](../theory.d/THEORY-907.md) and [THEORY-1180](../theory.d/THEORY-1180.md) (Chou, Wilson and Smith):
   higher stress or anxiety goes with less exploration in foraging tasks,
   a narrowing toward the safe and immediate of the same kind as link 2.
-- Same form as THEORY-470: an explanation by conditions, not by a change
+- Same form as [THEORY-470](../theory.d/THEORY-470.md): an explanation by conditions, not by a change
   in character, of behaviour usually blamed on character.
-- The project-level aid evidence the branch rests on (THEORY-tmpukudp,
-  Food for Peace in Kenya; LIT-tmpahupp, aid dependence reconsidered;
-  THEORY-tmph35ra, Ostrom et al.) is about states, projects and assets;
+- The project-level aid evidence the branch rests on ([THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md),
+  Food for Peace in Kenya; [LIT-tmpahupp](../literature.d/LIT-tmpahupp.md), aid dependence reconsidered;
+  [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md), Ostrom et al.) is about states, projects and assets;
   this work is about households. It sits beside the other works of the
   counterpoint batch, which bear on effort and labour responses this
   Review does not measure.
@@ -196,37 +196,37 @@ evidence directly. What transfers is a warning about inference: low
 effort or short horizons in a supported party may be caused by the
 deprivation, not by the support.
 
-- **CLAIM-tmpc3x0c (safe withdrawal; disuse, slack effort, selection).**
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (safe withdrawal; disuse, slack effort, selection).**
   Qualifies its slack-effort channel: short-sighted behaviour can be
   caused by poverty and eased by transfers (results 3, 7, 16), so slack
   effort cannot be read off behaviour without ruling out the deprivation
   route. Silent on disuse and selection, and on persistence after
   withdrawal (result 14), so it does not test the full-turnover
   criterion.
-- **CLAIM-tmpqa0qu (Black Queen loss; Samaritan's logic).** At household
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (Black Queen loss; Samaritan's logic).** At household
   level it cuts against the premise that low effort is the recipient's
   best reply to assured help: assured income is predicted to lower the
   stress that drives impatience. A hypothesis-level counterweight, not a
   refutation: it measures no effort or capability response to transfers,
   and says nothing about states.
-- **CLAIM-tmpoh07b (supply that does the work crowds out capacity).** Not
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (supply that does the work crowds out capacity).** Not
   directly: that claim is about capacity learned by doing, this about
   preferences shifted by affect. Cash leaves the work to the recipient,
   so on this account it relieves without substituting, which fits the
   claim's carve-out.
-- **CLAIM-tmpw4ai2 (thresholds).** Qualifies it: a psychological
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds).** Qualifies it: a psychological
   threshold is exactly what the authors could not establish (result 15).
   No support for a household-level ignition threshold.
-- **CLAIM-597 (supplied repair).** None.
-- **THEORY-tmph35ra (Ostrom et al.).** Cuts against carrying its
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied repair).** None.
+- **[THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) (Ostrom et al.).** Cuts against carrying its
   mechanism, help lowering the recipient's effort, down to poor
   households without evidence on effort. Compatible at the level of
   projects and assets, where Ostrom's cases sit.
-- **QUESTION-398 (when a partial organization becomes independent).**
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent).**
   Indirect: the gap between supported and withdrawn trajectories is not
   measured, and persistence after relief is listed as unknown.
 
-Filed from it: THEORY-tmp19alc. No instruction for machine-learning
+Filed from it: [THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md). No instruction for machine-learning
 practice.
 
 ## Limitations

@@ -17,7 +17,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp8vvwg
 summary: >-
-  Haushofer & Fehr (2014), LIT-tmp8vvwg, read in NOTE-tmpv5r2w: a Science
+  Haushofer & Fehr (2014), [LIT-tmp8vvwg](../literature.d/LIT-tmp8vvwg.md), read in [NOTE-tmpv5r2w](../notes.d/NOTE-tmpv5r2w.md): a Science
   Review. The first link has field causal support (18 of 25 causal
   studies; the Kenya cash-transfer trial); the second, which they call
   "the weakest link", has laboratory inductions only, with samples of 36
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Haushofer & Fehr (2014), LIT-tmp8vvwg; read in NOTE-tmpv5r2w.
+Haushofer & Fehr (2014), [LIT-tmp8vvwg](../literature.d/LIT-tmp8vvwg.md); read in [NOTE-tmpv5r2w](../notes.d/NOTE-tmpv5r2w.md).
 
 ## What was actually shown
 

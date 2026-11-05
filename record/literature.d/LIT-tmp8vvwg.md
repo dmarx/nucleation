@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpv5r2w) from the Science reprint posted
+  read in full 2026-11-05 ([NOTE-tmpv5r2w](../notes.d/NOTE-tmpv5r2w.md)) from the Science reprint posted
   on the first author's Stockholm University page, with the supplement's
   search strategy and factor analysis; worth reading as the standard
   statement that poverty itself, through stress and negative affect, can
@@ -73,7 +73,7 @@ Haushofer, J. & Fehr, E. (2014). On the psychology of poverty. *Science* 344(618
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpv5r2w. Page numbers are the Science print's.*
+*From the reading, [NOTE-tmpv5r2w](../notes.d/NOTE-tmpv5r2w.md). Page numbers are the Science print's.*
 
 - **Not blame.** "we are not suggesting that the poor bear blame for
   their poverty. Rather, an environment of poverty into which one happens
@@ -100,8 +100,8 @@ Filed as a counterpoint to the branch's dependency claims. It is about
 individuals and households, not states or projects, and measures no
 effort or labour-supply response to transfers. What it carries is a rival
 cause for the behaviour those claims read as a response to support:
-deprivation itself, which support relieves. It qualifies CLAIM-tmpc3x0c
+deprivation itself, which support relieves. It qualifies [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md)
 (slack effort cannot be read off behaviour), counterweights
-CLAIM-tmpqa0qu and the extension of THEORY-tmph35ra to households, and
-gives CLAIM-tmpw4ai2 no household-level threshold. Filed from it:
-THEORY-tmp19alc.
+[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) and the extension of [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) to households, and
+gives [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) no household-level threshold. Filed from it:
+[THEORY-tmp19alc](../theory.d/THEORY-tmp19alc.md).
