@@ -40,17 +40,17 @@ summary: >-
   The assistant's, on the owner's remark of 2026-11-05 that "assured help
   makes recipients lose skill" sounds "closely related to niche
   differentiation and specialization phenomena". The record holds the
-  biology. On the Black Queen Hypothesis (THEORY-1048) a cell that stops
+  biology. On the Black Queen Hypothesis ([THEORY-1048](../theory.d/THEORY-1048.md)) a cell that stops
   making a leaky public good saves its cost while others still supply it,
   so the loss is favoured to the individual and spreads. Buchnera
-  (THEORY-1103) has lost the genes its host covers and kept those its host
+  ([THEORY-1103](../theory.d/THEORY-1103.md)) has lost the genes its host covers and kept those its host
   lacks. The Samaritan's dilemma has the same logic (Ostrom et al.), and
   Azam, Devarajan and O'Connell's recipient is better off in the
   high-aid state. The loss itself is not the pathology. What differs is
   the supply. A Black Queen loss stops by itself when helpers grow rare,
   because the helpers are the same population. Aid is set from outside and
   does not fall as dependence grows, so nothing stops the loss short of
-  what aid covers, and withdrawal returns the cost (CLAIM-tmpoh07b).
+  what aid covers, and withdrawal returns the cost ([CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)).
   Buchnera's loss runs both ways, and the result is interdependence. A
   state that taxes its citizens (Moore) is in the same position: it lost
   nothing, it exchanges. The wording is the assistant's (Claude, in this
@@ -63,19 +63,19 @@ summary: >-
 
 ## The same loss in three places
 
-- **Free-living microbes.** On the Black Queen Hypothesis (THEORY-1048,
-  NOTE-1212), a cell that stops detoxifying peroxide saves the cost and is
+- **Free-living microbes.** On the Black Queen Hypothesis ([THEORY-1048](../theory.d/THEORY-1048.md),
+  [NOTE-1212](../notes.d/NOTE-1212.md)), a cell that stops detoxifying peroxide saves the cost and is
   still protected while enough others keep doing it. Loss is favoured by
   ordinary selection on individuals and runs until helpers are rare enough
   that "the benefit of any further loss is negated by its cost". It looks
   like a division of labour, and the paper says it is not one.
-- **Endosymbionts.** Buchnera (THEORY-1103) has lost almost all the
+- **Endosymbionts.** Buchnera ([THEORY-1103](../theory.d/THEORY-1103.md)) has lost almost all the
   amino-acid genes its aphid host covers and kept those the host lacks.
   Its metabolism interlocks with the host's.
-- **Aid.** In Ostrom et al.'s Samaritan's dilemma (NOTE-tmp22pjn), help
+- **Aid.** In Ostrom et al.'s Samaritan's dilemma ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)), help
   that is assured makes low effort the recipient's best reply, and the
   recipient "loses skill and motivation over time". In Azam, Devarajan and
-  O'Connell's model (NOTE-tmpvgfdp) the recipient "is actually better off"
+  O'Connell's model ([NOTE-tmpvgfdp](../notes.d/NOTE-tmpvgfdp.md)) the recipient "is actually better off"
   in the high-aid, low-capacity state. The loss is favoured to the one who
   loses, as in the microbes.
 
@@ -88,23 +88,23 @@ holds. What makes it dependency or division of labour is the supply.
    members of the same population, so the loss is frequency dependent and
    stops by itself. Aid is set by a donor's decisions and does not fall as
    the recipient's capacity does. Nothing in the recipient's dynamics stops
-   the loss short of what aid covers: in CLAIM-tmpoh07b capacity falls with
+   the loss short of what aid covers: in [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md) capacity falls with
    aid's share to none at full substitution. Moss, Pettersson and van de
-   Walle (NOTE-tmpd45i4) report aid ratios that "have tended not to recede,
+   Walle ([NOTE-tmpd45i4](../notes.d/NOTE-tmpd45i4.md)) report aid ratios that "have tended not to recede,
    but to grow larger over three decades".
 2. **What withdrawal costs.** While the supply holds, the loss is a saving.
    When it stops, the loss is a deficit that must be relearned, at a cost
-   that grows with how long the supply ran (CLAIM-tmpoh07b). Aid that is
+   that grows with how long the supply ran ([CLAIM-tmpoh07b](CLAIM-tmpoh07b.md)). Aid that is
    meant to be temporary and is not reliable is the case in which a
    favoured loss is most costly.
 3. **One-way or reciprocal.** Black Queen dependence runs one way, from
-   beneficiaries to helpers, with no collective (THEORY-1048). So does aid.
+   beneficiaries to helpers, with no collective ([THEORY-1048](../theory.d/THEORY-1048.md)). So does aid.
    Buchnera's runs both ways, since each side has lost what the other
    makes. Reciprocal loss gives interdependence, the mutual dependence of
-   West et al.'s transitions in individuality (THEORY-1351). A one-sided
+   West et al.'s transitions in individuality ([THEORY-1351](../theory.d/THEORY-1351.md)). A one-sided
    loss gives a dependant whose supplier needs nothing from it, so the
    supply is neither assured nor bargained over. Moore's tax state
-   (NOTE-tmpfngj0) has the reciprocal form: revenue is exchanged for
+   ([NOTE-tmpfngj0](../notes.d/NOTE-tmpfngj0.md)) has the reciprocal form: revenue is exchanged for
    service, and the bargaining over it is where his accountability comes
    from.
 
@@ -117,15 +117,15 @@ continue is a step from the one-way form toward the reciprocal one.
 
 ## What it adds
 
-- **To QUESTION-277.** The question lists routes to dependence among
+- **To [QUESTION-277](../questions.d/QUESTION-277.md).** The question lists routes to dependence among
   formerly autonomous partners: selected loss, drift, complementary loss,
   gene transfer. Aid adds a route the question's readings lack: loss under
   supply from a provider outside the population, which neither
   selection's frequency dependence nor reciprocity limits.
-- **To CLAIM-554.** That claim says specialization can relieve frustration
+- **To [CLAIM-554](CLAIM-554.md).** That claim says specialization can relieve frustration
   where nothing competes. This one adds when specialization is safe: when
   what is given up is matched by something supplied back.
-- **To QUESTION-398.** Independence from the founding intervention need not
+- **To [QUESTION-398](../questions.d/QUESTION-398.md).** Independence from the founding intervention need not
   mean self-sufficiency. A partner can stay dependent on its supplier for
   good, as Buchnera does, and still be secure, if the supplier depends on
   it as well.
