@@ -147,45 +147,45 @@ back or refused it.
 
 ## Connections
 
-Evans (1996), LIT-tmp43hfu, read in NOTE-tmpgvd28, says the Recife sewers
-are Ostrom's (1996) case, LIT-tmp0ovl4; Watson acknowledges John Briscoe
+Evans (1996), [LIT-tmp43hfu](../literature.d/LIT-tmp43hfu.md), read in [NOTE-tmpgvd28](NOTE-tmpgvd28.md), says the Recife sewers
+are Ostrom's (1996) case, [LIT-tmp0ovl4](../literature.d/LIT-tmp0ovl4.md); Watson acknowledges John Briscoe
 and Judith Tendler as advisers. The failure of devolved upkeep and the
 agencies' "passive sabotage" parallel the upkeep problem in Ostrom,
-Gibson, Shivakumar and Andersson's Sida report, THEORY-tmph35ra: here the
+Gibson, Shivakumar and Andersson's Sida report, [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md): here the
 beneficiaries do contribute their own assets, yet upkeep still needs the
-official side. The block groups lacked what THEORY-149 names for durable
+official side. The block groups lacked what [THEORY-149](../theory.d/THEORY-149.md) names for durable
 self-governance, user-made rules and monitoring, and did not
 self-organise; the associations that did act took a monitoring role.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c (when transient support is safe to withdraw):
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (when transient support is safe to withdraw):
   qualifies.** Residents did part of the work throughout, yet withdrawing
   the agency's feeder support failed. Doing the work is not enough when
   the party's share depends on a complementary input, and when damage
   keeps coming from turnover and building. What became safe to withdraw
   was the founding team: Natal's crew ran "on auto-pilot".
-- **CLAIM-tmpw4ai2 (ignition threshold, collapse, hysteresis): weak
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (ignition threshold, collapse, hysteresis): weak
   qualification.** No measured threshold. Olinda's reversion to individual
   solutions after backups is collapse after supply failure; Natal's kept
   arrangement after repair is lock-in of a division of labour, not the
   restored-supply failure the claim models.
-- **CLAIM-tmpoh07b (support that does the work crowds out capacity):
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support that does the work crowds out capacity):
   qualifies.** Support confined to what residents could not do, the trunk
   lines, did not leave a capable resident body: block upkeep rarely
   formed even with the agencies out of it. Where agencies took over feeder
   clearing (Natal), service improved without evident crowding out.
-- **CLAIM-597 (supplied upkeep never becomes optional): supports.** The
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional): supports.** The
   agency's input, trunk upkeep, repair and education, was needed
   continually, and its withdrawal produced decay (Recife, Cuiabá).
-- **CLAIM-tmpqa0qu (one-way against reciprocal supply): supports.** The
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (one-way against reciprocal supply): supports.** The
   reciprocal arrangement, residents paying and complaining, agencies
   maintaining, was the stable form; one-way devolution was not.
-- **QUESTION-398 (independence from the founding intervention):
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention):
   qualifies.** What became independent of its founders was Natal's
   maintenance team, not the service, which stayed dependent on the agency.
-- **THEORY-919 (temporary protection): none.**
-- Filed: THEORY-tmpazwuz. No instruction for machine-learning practice;
+- **[THEORY-919](../theory.d/THEORY-919.md) (temporary protection): none.**
+- Filed: [THEORY-tmpazwuz](../theory.d/THEORY-tmpazwuz.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

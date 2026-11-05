@@ -11,8 +11,8 @@ status_note: >-
   paper was found. A copy of the publisher's PDF on a University of São
   Paulo course site and copies on typeset.io were not used, as not lawful
   open copies. Two neighbours were read and stand in for part of it only:
-  Evans (1996), LIT-tmp43hfu, for what Evans says of this article, and
-  Watson (1995), LIT-tmpz5i4k, for the field data of the Brazilian
+  Evans (1996), [LIT-tmp43hfu](LIT-tmp43hfu.md), for what Evans says of this article, and
+  Watson (1995), [LIT-tmpz5i4k](LIT-tmpz5i4k.md), for the field data of the Brazilian
   condominial sewer case. Neither stands in for Ostrom's own definition of
   coproduction, her formal conditions (her production-function figures) or
   the detail of her Nigerian case.
@@ -76,8 +76,8 @@ Ostrom, E. (1996). Crossing the great divide: Coproduction, synergy, and develop
 
 ## Key takeaways
 
-*Not read. Everything below is per Evans (1996), LIT-tmp43hfu, read in
-NOTE-tmpgvd28, unless it says Watson. Page numbers are those of the Evans
+*Not read. Everything below is per Evans (1996), [LIT-tmp43hfu](LIT-tmp43hfu.md), read in
+[NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md), unless it says Watson. Page numbers are those of the Evans
 text read.*
 
 - **Complementarity, per Evans.** "As Ostrom's production functions
@@ -100,20 +100,20 @@ text read.*
   (p. 203). Neither neighbour shows it.
 - **The sewers in the field (Watson 1995, not Ostrom).** Devolving feeder
   upkeep to residents "has not worked well even in the best cases"; the
-  systems lasted where agencies stayed in contact (LIT-tmpz5i4k,
-  NOTE-tmpckznv). Whether Ostrom drew on Watson is not verified.
+  systems lasted where agencies stayed in contact ([LIT-tmpz5i4k](LIT-tmpz5i4k.md),
+  [NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md)). Whether Ostrom drew on Watson is not verified.
 
 ## Standing in the record
 
 Unavailable. Two neighbours were read in its place, and each stands in
 for part of it only.
 
-- **Evans (1996)**, LIT-tmp43hfu, the special section's synthesis, stands
+- **Evans (1996)**, [LIT-tmp43hfu](LIT-tmp43hfu.md), the special section's synthesis, stands
   in only for what Evans says of this article: his summary of its two
   cases, of its production functions and of its signals problem, in his
   framing of complementarity and embeddedness. It carries no numbers from
   the article.
-- **Watson (1995)**, LIT-tmpz5i4k, stands in only for the sewer case's
+- **Watson (1995)**, [LIT-tmpz5i4k](LIT-tmpz5i4k.md), stands in only for the sewer case's
   field data: seven Brazilian cities, costs, connection rates and the
   history of feeder upkeep.
 - **Neither stands in** for Ostrom's own definition of coproduction, for
@@ -127,4 +127,4 @@ for part of it only.
 It bears on the branch's argument as a case of support not meant to be
 withdrawn: per Evans, the official side of coproduction is a standing
 input, and the transient part is the start-up organising effort. That
-qualifies CLAIM-tmpc3x0c and supports CLAIM-597; see the two NOTEs.
+qualifies [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) and supports [CLAIM-597](../claims.d/CLAIM-597.md); see the two NOTEs.

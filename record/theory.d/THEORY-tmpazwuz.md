@@ -20,7 +20,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpz5i4k
 summary: >-
-  Watson (1995), LIT-tmpz5i4k, skimmed in NOTE-tmpckznv: only the
+  Watson (1995), [LIT-tmpz5i4k](../literature.d/LIT-tmpz5i4k.md), skimmed in [NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md): only the
   operation-and-maintenance part and the conclusion were read, from a
   scanned OCR copy, so the cost and performance figures are the
   abstract's; hence Proposed. Qualitative, seven non-random cities, no
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Watson (1995), LIT-tmpz5i4k; skimmed in NOTE-tmpckznv (PDF pp. 33–48 and
+Watson (1995), [LIT-tmpz5i4k](../literature.d/LIT-tmpz5i4k.md); skimmed in [NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md) (PDF pp. 33–48 and
 the abstract).
 
 ## What was actually shown
@@ -66,9 +66,9 @@ None is reported in the parts read, among seven chosen cities.
 - That residents cannot keep feeders anywhere: the claim is about Brazilian
   urban blocks, which the author says "are not necessarily a natural form
   of association or cooperation".
-- That Ostrom's (1996) account of the case, LIT-tmp0ovl4, rests on these
+- That Ostrom's (1996) account of the case, [LIT-tmp0ovl4](../literature.d/LIT-tmp0ovl4.md), rests on these
   data: that is not verified.
-- That there is a threshold or hysteresis of the kind CLAIM-tmpw4ai2
+- That there is a threshold or hysteresis of the kind [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)
   models; Olinda's reversion is collapse after supply failure, not a
-  measured threshold. It does bear on CLAIM-597, as a case of supplied
+  measured threshold. It does bear on [CLAIM-597](../claims.d/CLAIM-597.md), as a case of supplied
   upkeep that never became optional.

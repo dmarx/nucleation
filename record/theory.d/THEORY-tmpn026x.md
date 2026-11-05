@@ -19,12 +19,12 @@ date: '2026-11-05'
 source:
 - LIT-tmp43hfu
 summary: >-
-  Evans (1996), LIT-tmp43hfu, read in full in NOTE-tmpgvd28 from what
+  Evans (1996), [LIT-tmp43hfu](../literature.d/LIT-tmp43hfu.md), read in full in [NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md) from what
   appears to be the 1997 GAIA reprint, not the World Development text;
   hence Proposed. It is Evans's account, drawn from five case articles and
   Tendler's Ceará study, all positive cases; it is not evidence that
   synergy works this way, and it says nothing of what happens when the
-  official side withdraws. What it says of Ostrom (1996), LIT-tmp0ovl4,
+  official side withdraws. What it says of Ostrom (1996), [LIT-tmp0ovl4](../literature.d/LIT-tmp0ovl4.md),
   is his summary, not hers.
 ---
 <!-- inactive-ok-file: LIT-tmp0ovl4 CLAIM-tmpc3x0c CLAIM-597 — Unavailable, Proposed or new; cited from the reading of Evans (1996) as open -->
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Evans (1996), LIT-tmp43hfu; read in NOTE-tmpgvd28, from the Digital
+Evans (1996), [LIT-tmp43hfu](../literature.d/LIT-tmp43hfu.md); read in [NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md), from the Digital
 Library of the Commons copy (printed pp. 178–208).
 
 ## What was actually shown
@@ -65,10 +65,10 @@ have come out the other way.
   (p. 179).
 - That synergy persists when officials' contact or the public input is
   withdrawn. Evans does not measure persistence after support; Watson's
-  (1995) field study, LIT-tmpz5i4k, is the record's evidence on that.
+  (1995) field study, [LIT-tmpz5i4k](../literature.d/LIT-tmpz5i4k.md), is the record's evidence on that.
 - That the official side is transient support. On the contrary, the
   public input is to be supplied "dependably"; this is why it qualifies
-  CLAIM-tmpc3x0c and supports CLAIM-597, not why either should change
+  [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) and supports [CLAIM-597](../claims.d/CLAIM-597.md), not why either should change
   status.
 - Anything about Ostrom's own definitions or formal conditions beyond what
   Evans reports.

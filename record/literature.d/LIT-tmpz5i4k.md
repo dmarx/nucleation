@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-11-05 (NOTE-tmpckznv) from the World Bank's Documents &
+  skimmed 2026-11-05 ([NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md)) from the World Bank's Documents &
   Reports PDF, a scan with poor OCR, reading only the front matter, the
   abstract, the tariff passage, Part IV (operation and maintenance) and
   Part VI (conclusion); worth reading as the primary field account of
-  Brazilian condominial sewerage, the case Ostrom (1996), LIT-tmp0ovl4,
+  Brazilian condominial sewerage, the case Ostrom (1996), [LIT-tmp0ovl4](LIT-tmp0ovl4.md),
   uses per Evans, and as direct evidence on what happens when an agency
   steps back from a coproduced service. Across seven cities over twelve
   years, devolving feeder upkeep to residents' blocks rarely worked; the
@@ -75,7 +75,7 @@ Watson, G. (1995). *Good Sewers Cheap? Agency-Customer Interactions in Low-Cost 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpckznv, which skimmed it: Part IV and the
+*From the reading, [NOTE-tmpckznv](../notes.d/NOTE-tmpckznv.md), which skimmed it: Part IV and the
 conclusion only. Page numbers are PDF pages; the text is OCR.*
 
 - **Devolved upkeep failed.** Feeder upkeep handed to residents "has not
@@ -97,13 +97,13 @@ conclusion only. Page numbers are PDF pages; the text is OCR.*
 
 ## Standing in the record
 
-Skimmed; filed as a neighbour of Ostrom (1996), LIT-tmp0ovl4, which was
+Skimmed; filed as a neighbour of Ostrom (1996), [LIT-tmp0ovl4](LIT-tmp0ovl4.md), which was
 not reached. It stands in only for the sewer case's field data, not for
 Ostrom's own definition of coproduction, her formal conditions or her
 reading of the case; that she relied on it is not verified. For the
 branch's argument it is a case of support partly withdrawn from a
 coproduced service: the withdrawal failed though residents did their part
-throughout, which qualifies CLAIM-tmpc3x0c, and the agency's continuing
-input supports CLAIM-597. The stable form was reciprocal (residents'
-payment and complaint, agencies' upkeep), which supports CLAIM-tmpqa0qu.
-Synthesis: Evans (1996), LIT-tmp43hfu. Filed from it: THEORY-tmpazwuz.
+throughout, which qualifies [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md), and the agency's continuing
+input supports [CLAIM-597](../claims.d/CLAIM-597.md). The stable form was reciprocal (residents'
+payment and complaint, agencies' upkeep), which supports [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md).
+Synthesis: Evans (1996), [LIT-tmp43hfu](LIT-tmp43hfu.md). Filed from it: [THEORY-tmpazwuz](../theory.d/THEORY-tmpazwuz.md).

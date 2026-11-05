@@ -137,46 +137,46 @@ with inputs that they cannot produce on their own" (p. 204).
 
 ## Connections
 
-The coproduction model is Ostrom's (1996), LIT-tmp0ovl4, unread, and
+The coproduction model is Ostrom's (1996), [LIT-tmp0ovl4](../literature.d/LIT-tmp0ovl4.md), unread, and
 Lam's; Evans's sewer case is Ostrom's, whose field source is presumably
-Watson (1995), LIT-tmpz5i4k, read in NOTE-tmpckznv. Embeddedness extends
+Watson (1995), [LIT-tmpz5i4k](../literature.d/LIT-tmpz5i4k.md), read in [NOTE-tmpckznv](NOTE-tmpckznv.md). Embeddedness extends
 Evans's own earlier work on the state. Lam's Nepal–Taiwan contrast
-parallels the self-governing irrigators of LIT-737 and THEORY-149
-(Ostrom's Governing the Commons) and LIT-719 (her Nobel lecture):
+parallels the self-governing irrigators of [LIT-737](../literature.d/LIT-737.md) and [THEORY-149](../theory.d/THEORY-149.md)
+(Ostrom's Governing the Commons) and [LIT-719](../literature.d/LIT-719.md) (her Nobel lecture):
 coproduction extends self-governance to goods that need a public input
 the users cannot supply. It sits beside Ostrom, Gibson, Shivakumar and
-Andersson's Sida report, THEORY-tmph35ra, on donor-built assets and
+Andersson's Sida report, [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md), on donor-built assets and
 upkeep.
 
 ## Bearing on the record
 
-- **CLAIM-tmpc3x0c (when transient support is safe to withdraw):
+- **[CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md) (when transient support is safe to withdraw):
   qualifies.** In coproduction the supported party does its share
   throughout, yet the support, the complementary input and officials'
   contact, is not meant to be withdrawn. At most the officials' start-up
   effort is transient.
-- **CLAIM-tmpw4ai2 (ignition threshold, collapse, hysteresis): none.** No
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (ignition threshold, collapse, hysteresis): none.** No
   threshold or hysteresis evidence.
-- **CLAIM-tmpoh07b (support that does the work crowds out capacity):
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support that does the work crowds out capacity):
   supports, with a qualification.** Nepal's bureaucratic operation
   undercut farmers' institutions, while support confined to inputs farmers
   "cannot provide for themselves" (p. 183) did not. Taiwan qualifies it:
   deep official involvement coexisted with strong farmer organisation
   because it was embedded, not substitutive.
-- **CLAIM-597 (supplied upkeep never becomes optional): supports by
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional): supports by
   analogy.** The lumpy public input must be supplied "dependably"
   (p. 204), and nothing suggests it becomes optional.
-- **CLAIM-tmpqa0qu (one-way against reciprocal supply): supports.**
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (one-way against reciprocal supply): supports.**
   Coproduction is reciprocal supply, each side giving what the other
   cannot; the anti-synergy case, Nigeria, has a missing input.
-- **QUESTION-398 (independence from the founding intervention):
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention):
   qualifies.** For public services the target is a stable joint
   arrangement, not independence from the founding agency; the transient
   parts are the founding entrepreneur and the start-up work.
-- **THEORY-919 (temporary protection, Juhász): none directly.**
+- **[THEORY-919](../theory.d/THEORY-919.md) (temporary protection, Juhász): none directly.**
   Constructability parallels persistence after temporary support but is
   not about withdrawal.
-- Filed: THEORY-tmpn026x. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpn026x](../theory.d/THEORY-tmpn026x.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

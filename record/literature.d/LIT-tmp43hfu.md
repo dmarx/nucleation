@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpgvd28) from the Digital Library of the
+  read in full 2026-11-05 ([NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md)) from the Digital Library of the
   Commons copy (handle 10535/4512), printed pp. 178–208 of what appears to
   be the 1997 GAIA reprint, not the World Development pages; worth reading
   as the synthesis of the 1996 World Development special section on
   state-society synergy, and as the record's only access to Ostrom (1996),
-  LIT-tmp0ovl4, whose two cases and production functions it summarises.
+  [LIT-tmp0ovl4](LIT-tmp0ovl4.md), whose two cases and production functions it summarises.
   It holds that the useful support is a dependable public input the
   community cannot produce, given with continuing official contact, and
   that small-scale synergy can be built even in adverse settings, the
@@ -74,7 +74,7 @@ Evans, P. (1996). Government Action, Social Capital and Development: Reviewing t
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpgvd28. Page numbers are those printed on the
+*From the reading, [NOTE-tmpgvd28](../notes.d/NOTE-tmpgvd28.md). Page numbers are those printed on the
 copy read (178–208), not the journal's.*
 
 - **Complementarity is the precondition.** "When public agents and
@@ -101,12 +101,12 @@ copy read (178–208), not the journal's.*
 ## Standing in the record
 
 Read, in what appears to be the 1997 reprint; filed as a neighbour of
-Ostrom (1996), LIT-tmp0ovl4, which was not reached. It stands in only for
+Ostrom (1996), [LIT-tmp0ovl4](LIT-tmp0ovl4.md), which was not reached. It stands in only for
 what Evans says of her article, not for her own definition of
 coproduction, her formal conditions or the detail of her Nigerian case.
 For the branch's argument it says the official side of coproduction is a
-standing input, not transient support: that qualifies CLAIM-tmpc3x0c,
-supports CLAIM-597, and supports CLAIM-tmpoh07b with Nepal, qualified by
+standing input, not transient support: that qualifies [CLAIM-tmpc3x0c](../claims.d/CLAIM-tmpc3x0c.md),
+supports [CLAIM-597](../claims.d/CLAIM-597.md), and supports [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) with Nepal, qualified by
 Taiwan, where deep official involvement that was embedded rather than
-substitutive coexisted with strong farmer organisation. The field data for the sewers are Watson (1995), LIT-tmpz5i4k.
-Filed from it: THEORY-tmpn026x.
+substitutive coexisted with strong farmer organisation. The field data for the sewers are Watson (1995), [LIT-tmpz5i4k](LIT-tmpz5i4k.md).
+Filed from it: [THEORY-tmpn026x](../theory.d/THEORY-tmpn026x.md).
