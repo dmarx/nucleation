@@ -154,17 +154,17 @@ afterwards.
 
 It builds on Castro's group's earlier origami design work and on
 macroscopic mechanism theory. In the held record, the nearest construction
-is Hopkins's freedom and constraint topologies for flexures (THEORY-1406,
-THEORY-1374, THEORY-1390): these DNA joints are flexure-like mechanisms
+is Hopkins's freedom and constraint topologies for flexures ([THEORY-1406](../theory.d/THEORY-1406.md),
+[THEORY-1374](../theory.d/THEORY-1374.md), [THEORY-1390](../theory.d/THEORY-1390.md)): these DNA joints are flexure-like mechanisms
 whose freedom is set by placing compliant constraints, and locking staples
 add constraint to remove the freedom. The slider's steric stop resembles
-the contact-stopped second state of THEORY-1405; strand-driven switching
-can be set against the externally actuated origami of THEORY-1415,
-THEORY-1417 and CASE-208; the Boltzmann-inverted landscapes are
-one-dimensional instances of the landscapes of THEORY-1420; and the
+the contact-stopped second state of [THEORY-1405](../theory.d/THEORY-1405.md); strand-driven switching
+can be set against the externally actuated origami of [THEORY-1415](../theory.d/THEORY-1415.md),
+[THEORY-1417](../theory.d/THEORY-1417.md) and [CASE-208](../cases.d/CASE-208.md); the Boltzmann-inverted landscapes are
+one-dimensional instances of the landscapes of [THEORY-1420](../theory.d/THEORY-1420.md); and the
 Bennett linkage's compact bundle against open frame is the deployable
-contrast of CASE-201. Same group as the held DeLuca et al. simulation,
-LIT-2081 (NOTE-1561, THEORY-1398); the slider-2 misfold, the tube folding
+contrast of [CASE-201](../cases.d/CASE-201.md). Same group as the held DeLuca et al. simulation,
+[LIT-2081](../literature.d/LIT-2081.md) ([NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)); the slider-2 misfold, the tube folding
 apart from the inner bundle, is a design-dependent fold failure, but the
 paper offers no folding mechanism and does not bear on that account.
 Within this batch it is the dynamic counterpart to Rothemund (2006)'s
@@ -174,41 +174,41 @@ objects are.
 
 ## Bearing on the record
 
-- **CLAIM-567 (feasible, reachable, reliably reached): supports, with a
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliably reached): supports, with a
   concrete triple.** The bundled state is feasible (the locked bundle holds
   at 93%), reachable (9.9% of free linkages visit it thermally) and
   reliably reached only with closing strands (93.1%). The authors call the
   grid fractions upper bounds.
-- **CLAIM-571 (reaching threshold need not equal holding requirement):
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (reaching threshold need not equal holding requirement):
   qualifies, in the reverse direction.** Here the target is cheap to reach,
   by thermal visits at no input cost, and dear to hold. No threshold over
-  the path is measured. Compare CASE-206, where passage costs more than
+  the path is measured. Compare [CASE-206](../cases.d/CASE-206.md), where passage costs more than
   either end.
-- **CLAIM-569 (construct, maintain, transition): supports.** Construction
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition): supports.** Construction
   is a two-day anneal at tenfold staple excess and gel purification;
   maintenance is bound strands or locking staples against electrostatic
   repulsion, with holding curves in pN or pN·nm/rad for the joints;
   transition is about a minute of strand addition or displacement at stated
   excesses. None fixes another, but they are not put on one scale.
-- **CLAIM-591 (directed moves): supports qualitatively.** Closing and
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (directed moves): supports qualitatively.** Closing and
   opening are different one-way chemical moves, with different inputs (2×
   bridging strands, then 20× displacing strands) and rates (55 s and 49 s):
   the configuration returns but the reagent state does not. One cycle only.
-- **CLAIM-583 and CLAIM-581: leave open.** The two sliders differ in
+- **[CLAIM-583](../claims.d/CLAIM-583.md) and [CLAIM-581](../claims.d/CLAIM-581.md): leave open.** The two sliders differ in
   connection lengths, so in compatibility, not only in moves or costs; the
   paper shows thermal (barrier-type) and consumed (additive) costs side by
   side but does not test an ultrametric.
-- **CLAIM-566: consistent.** Locked or actuated structures persist and
+- **[CLAIM-566](../claims.d/CLAIM-566.md): consistent.** Locked or actuated structures persist and
   nothing regenerates them; no persistence horizon is measured.
-- **CLAIM-557, CLAIM-574, CLAIM-570, CLAIM-592 and QUESTION-374:
+- **[CLAIM-557](../claims.d/CLAIM-557.md), [CLAIM-574](../claims.d/CLAIM-574.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-592](../claims.d/CLAIM-592.md) and [QUESTION-374](../questions.d/QUESTION-374.md):
   illustration only.** TEM projection (costly, static, per particle),
   projection kinematics (model-dependent, blind below 45°) and bulk
   fluorescence (cheap, real-time, closed or not) separate different
   things, but no budgeted comparison is made.
-- **CLAIM-478: weak illustration, of stiffness rather than time.** Stiff
+- **[CLAIM-478](../claims.d/CLAIM-478.md): weak illustration, of stiffness rather than time.** Stiff
   links act as rigid constraints, so a compliant ssDNA network moves along
   a rigid-body path.
-- Filed: THEORY-tmp1799q. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp1799q](../theory.d/THEORY-tmp1799q.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

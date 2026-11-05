@@ -19,7 +19,7 @@ source:
 - LIT-tmp0hqya
 summary: >-
   Majikes, Patrone, Schiffels, Zwolak, Kearsley, Forry and Liddle (2020),
-  LIT-tmp0hqya, read in NOTE-tmperio5 (main text, captions and tables;
+  [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), read in [NOTE-tmperio5](../notes.d/NOTE-tmperio5.md) (main text, captions and tables;
   the supplement unread). Proposed: one fold and one melt domain, measured
   on the melt only, with equilibrium assumed and not tested. The title
   asserts the measurement and that the authors infer the pathway; it does
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Majikes, Patrone, Schiffels, Zwolak, Kearsley, Forry and Liddle (2020),
-LIT-tmp0hqya; read in NOTE-tmperio5.
+[LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md); read in [NOTE-tmperio5](../notes.d/NOTE-tmperio5.md).
 
 ## What was actually shown
 
@@ -62,4 +62,4 @@ LIT-tmp0hqya; read in NOTE-tmperio5.
   entropy."
 - Anything about hysteresis, annealing or kinetics: fluorescence was
   recorded on the melt only, and equilibrium is assumed.
-- Anything about global folding traps, the subject of THEORY-1398.
+- Anything about global folding traps, the subject of [THEORY-1398](THEORY-1398.md).
