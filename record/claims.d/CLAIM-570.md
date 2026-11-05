@@ -51,9 +51,9 @@ summary: >-
   telling apart and becoming. The construction is A's; the boundary
   formulas and checks are the assistant's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpvdu02 — Proposed; A's committor study, cited from the note on A's second synthesis -->
+<!-- inactive-ok-file: CASE-220 — Proposed; A's committor study, cited from the note on A's second synthesis -->
 <!-- inactive-ok-file: CLAIM-574 — Proposed or Skimmed; cited from the further DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CLAIM-tmp7y162 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
+<!-- inactive-ok-file: CLAIM-594 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
 <!-- inactive-ok-file: CLAIM-574 CLAIM-581 CLAIM-557 CASE-199 CASE-206 — Proposed; entries of this pull request, cited as open -->
 
 # CLAIM-570: With observational indistinguishability refining as the observing budget grows and peak-cost mutual reachability coarsening as the acting budget grows, the budget pairs at which everything indistinguishable is mutually reachable form an up-set and those at which everything mutually reachable is indistinguishable form a down-set, with boundaries given by the largest peak distance within an observational class and the least observing budget that separates two mutually reachable states
@@ -137,7 +137,7 @@ L from R.
 
 The assistant's reading across the eight DNA origami readings filed on the owner's request to connect the record's inquiry to DNA origami. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 
-An observer coarser than the system is the common case in DNA origami. Dunn and colleagues ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) fold one template into shapes each realised by four scaffold routings "distinguished by the nucleotide sequence at the template crossing but not resolved by AFM imaging", and once seams have bound the folds do not interconvert at folding temperatures. So AFM identifies pairs that are not mutually reachable within any affordable acting budget: those budget pairs lie outside the claim's up-set S. DeLuca et al.'s simulation ([NOTE-1561](../notes.d/NOTE-1561.md)) makes the same point for a count of bound staples: one hybridization state holds configurations with and without a route to the folded structure. The claim assumes a fixed cost function; where the acting resource is heat, which also sets the costs, A_a is not monotone in a ([CLAIM-tmp7y162](CLAIM-tmp7y162.md)).
+An observer coarser than the system is the common case in DNA origami. Dunn and colleagues ([NOTE-1643](../notes.d/NOTE-1643.md)) fold one template into shapes each realised by four scaffold routings "distinguished by the nucleotide sequence at the template crossing but not resolved by AFM imaging", and once seams have bound the folds do not interconvert at folding temperatures. So AFM identifies pairs that are not mutually reachable within any affordable acting budget: those budget pairs lie outside the claim's up-set S. DeLuca et al.'s simulation ([NOTE-1561](../notes.d/NOTE-1561.md)) makes the same point for a count of bound staples: one hybridization state holds configurations with and without a route to the folded structure. The claim assumes a fixed cost function; where the acting resource is heat, which also sets the costs, A_a is not monotone in a ([CLAIM-594](CLAIM-594.md)).
 
 No status changes.
 
@@ -145,7 +145,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-2127](../literature.d/LIT-2127.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
 - The gel merges a damaged design with well-folded ones.
 - It also splits well-folded designs by mobility.
 
@@ -157,6 +157,6 @@ No status changes.
 
 From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
 
-A's second synthesis adds a progress observer to the claim's picture. The count of bound domains identifies partial structures whose futures differ, "Being further along according to an ordinary progress metric does not guarantee being closer to a successfully completed organization", so such an observer's classes lie outside the claim's up-set whenever the structures are not mutually reachable. A's committor q(s) = Pr_s(τ_F < τ_K) is the quantity that would separate them ([CASE-tmpvdu02](../cases.d/CASE-tmpvdu02.md)).
+A's second synthesis adds a progress observer to the claim's picture. The count of bound domains identifies partial structures whose futures differ, "Being further along according to an ordinary progress metric does not guarantee being closer to a successfully completed organization", so such an observer's classes lie outside the claim's up-set whenever the structures are not mutually reachable. A's committor q(s) = Pr_s(τ_F < τ_K) is the quantity that would separate them ([CASE-220](../cases.d/CASE-220.md)).
 
 No status changes.

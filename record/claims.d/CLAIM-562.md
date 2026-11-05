@@ -42,7 +42,7 @@ summary: >-
   the filer's, from A's reading of Stern et al.; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp7oe6s CLAIM-tmpuv9yj — Proposed or new; cited from the note on A's predictions -->
+<!-- inactive-ok-file: CASE-215 CLAIM-599 — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: THEORY-1418 THEORY-1368 CLAIM-567 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
@@ -113,7 +113,7 @@ A's proposed experiment tests this directly: "test whether measures of where the
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) fit the claim directly: halving one staple of each seam pair,
+**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues ([NOTE-1643](../notes.d/NOTE-1643.md)) fit the claim directly: halving one staple of each seam pair,
 less binding strength, improves the designed outcome (90% of broken-seam simulations end in 5:0)
 and cuts model misfolds from 52% to 1%, while the full seam set's extra strength causes the traps.
 Where the weakening acts, on cooperative long-range contacts, matters more than how much binding is
@@ -125,7 +125,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), support the claim in kind: where
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-2137](../literature.d/LIT-2137.md), support the claim in kind: where
 the concentration change was applied (central versus edge staples), not the
 amount alone, moved the nucleation site. The paper varies location and
 amount together, so it is suggestive, not a clean separation. No status
@@ -137,6 +137,6 @@ No status changes.
 
 From the fourth synthesis on DNA origami by another assistant (A), "Predicting which organizations will successfully nucleate", pasted by the owner on 2026-11-05.
 
-A's Predictions 1 and 4 restate this claim as predictions about organizations. Placement: "targeted stabilization of components that facilitate many later compatible interactions should outperform equally costly stabilization of components with little downstream influence", measured by a leverage per unit cost. Non-monotonicity: adding an intervention can lower the chance of the target, V(S ∪ {C}) < V(S). A cites the same Stern, Pinson and Murugan work. The assistant's [CASE-tmp7oe6s](../cases.d/CASE-tmp7oe6s.md) gives an equal-cost pair in A's branching model (71.1 % against 62.7 %), and [CLAIM-tmpuv9yj](CLAIM-tmpuv9yj.md) draws from this claim that productive nucleating sets have no closure. A's test would decide the organizational version: "Compare equal-budget interventions at different locations".
+A's Predictions 1 and 4 restate this claim as predictions about organizations. Placement: "targeted stabilization of components that facilitate many later compatible interactions should outperform equally costly stabilization of components with little downstream influence", measured by a leverage per unit cost. Non-monotonicity: adding an intervention can lower the chance of the target, V(S ∪ {C}) < V(S). A cites the same Stern, Pinson and Murugan work. The assistant's [CASE-215](../cases.d/CASE-215.md) gives an equal-cost pair in A's branching model (71.1 % against 62.7 %), and [CLAIM-599](CLAIM-599.md) draws from this claim that productive nucleating sets have no closure. A's test would decide the organizational version: "Compare equal-budget interventions at different locations".
 
 No status changes.

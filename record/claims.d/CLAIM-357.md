@@ -268,7 +268,7 @@ Three origami readings from the pasted synthesis on constraint architectures sup
 
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
-A cites this claim as separating "structural feasibility from the particular realization selected by a system". That is loose: the claim separates structural infeasibility (a positive residual), realized violation and minimax suboptimality (regret). A's gloss fits the first two only. A adds its own caution: "I would not automatically interpret a kinetic trap as governance regret", since molecular kinetics select an outcome without anyone updating anything. The record agrees: regret needs an update to compare. Majikes et al. 2021 ([NOTE-tmpetbc9](../notes.d/NOTE-tmpetbc9.md)) give the molecular form of the first distinction. A single fold's target is feasible, yet at high staple excess most molecules sit in an equilibrium blocked state: a realized shortfall with no infeasibility, and no regret, because nothing chose.
+A cites this claim as separating "structural feasibility from the particular realization selected by a system". That is loose: the claim separates structural infeasibility (a positive residual), realized violation and minimax suboptimality (regret). A's gloss fits the first two only. A adds its own caution: "I would not automatically interpret a kinetic trap as governance regret", since molecular kinetics select an outcome without anyone updating anything. The record agrees: regret needs an update to compare. Majikes et al. 2021 ([NOTE-1633](../notes.d/NOTE-1633.md)) give the molecular form of the first distinction. A single fold's target is feasible, yet at high staple excess most molecules sit in an equilibrium blocked state: a realized shortfall with no infeasibility, and no regret, because nothing chose.
 
 No status changes.
 
@@ -276,7 +276,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes, Patrone, Kearsley, Zwolak and Liddle, "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), fit the claim's separation of
+**Majikes, Patrone, Kearsley, Zwolak and Liddle, "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-2133](../literature.d/LIT-2133.md), fit the claim's separation of
 structural infeasibility from a realized shortfall. At a single fold the
 target is feasible and the shortfall is realized and equilibrium: yield
 falls at high staple excess through the blocked state, not through any

@@ -161,7 +161,7 @@ A's own three levels, the configuration, the constraint architecture and the cap
 
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
-Douglas, Bachelet and Church's logic-gated barrel ([NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md)) separates the levels as the claim does. The operative regime is closed or open. What governs it is fixed when the barrel is folded: the pair of aptamer locks, which act as an AND gate over two antigens. No capacity to transform that rule is present; changing the gate means folding a new barrel with other aptamers. A's reading, "A molecular device can implement a designed policy without being an autonomous governor of that policy", is A's framing, consistent with the paper. Marras et al.'s mechanisms ([NOTE-tmpjeolx](../notes.d/NOTE-tmpjeolx.md)) are reconfigured only by strands added from outside.
+Douglas, Bachelet and Church's logic-gated barrel ([NOTE-1634](../notes.d/NOTE-1634.md)) separates the levels as the claim does. The operative regime is closed or open. What governs it is fixed when the barrel is folded: the pair of aptamer locks, which act as an AND gate over two antigens. No capacity to transform that rule is present; changing the gate means folding a new barrel with other aptamers. A's reading, "A molecular device can implement a designed policy without being an autonomous governor of that policy", is A's framing, consistent with the paper. Marras et al.'s mechanisms ([NOTE-1635](../notes.d/NOTE-1635.md)) are reconfigured only by strands added from outside.
 
 No status changes.
 
@@ -169,7 +169,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot for Targeted Transport of Molecular Payloads".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), read in [NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md),
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot for Targeted Transport of Molecular Payloads".** Douglas, Bachelet and Church (2012), [LIT-2136](../literature.d/LIT-2136.md), read in [NOTE-1634](../notes.d/NOTE-1634.md),
 support the claim's three-way separation and make it physical. The device
 has an operative regime (closed or open) and a governing organization
 (which aptamer pair encodes the AND gate), both realized; the capacity to

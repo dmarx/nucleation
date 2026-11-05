@@ -127,7 +127,7 @@ later refinement, all apart, agrees only in the trivial corner.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), support the claim in
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-2128](../literature.d/LIT-2128.md), read in [NOTE-1637](../notes.d/NOTE-1637.md), support the claim in
 kind: the cheap defect label splits samples by ensemble composition and the costly cryo-EM, by the
 authors' account, would split them by shared site-specific defects, so which distinctions are
 bought first depends on which probe is cheap. No costed probe family is set out.
@@ -138,7 +138,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-2127](../literature.d/LIT-2127.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
 - The gel merges a damaged design with well-folded ones.
 - It also splits well-folded designs by mobility.
 

@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-33 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+34 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -182,6 +182,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-566](../record/claims.d/CLAIM-566.md) — That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure *(Proposed)*
   - [CLAIM-556](../record/claims.d/CLAIM-556.md) — Before the four obstructions to a transition stands a failure of compatibility, no configuration meeting the demands, repaired by changing the constraints, since dropping a demand is not relief; and after them a failure of regeneration, the capability not surviving turnover, repaired by maintenance or reproduction; so a diagnosis runs through six levels, each with its own repair *(Proposed)* — also rests on CLAIM-568
 - [CLAIM-568](../record/claims.d/CLAIM-568.md) — A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations *(Proposed)*
+
+### From Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
+
+- [CLAIM-562](../record/claims.d/CLAIM-562.md) — Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail *(Proposed)*
+  - [CLAIM-599](../record/claims.d/CLAIM-599.md) — Because establishing more relations can lower the chance of forming a target, the sets of relations that are productive nuclei need not be closed upward: two productive nuclei can combine into a trap, so the minimal productive sets describe the productive ones only where adding relations never hurts *(Proposed)*
 
 ### From Computational complexity belongs to a family of problems posed over configuration spaces, with an encoding and permitted operations, and not to a configuration space: one fixed finite space has none, and over the same instances finding a solution and navigating between solutions can fall in different classes
 

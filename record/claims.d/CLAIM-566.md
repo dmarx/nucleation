@@ -50,8 +50,8 @@ summary: >-
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmph8p41 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
-<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
+<!-- inactive-ok-file: LIT-2132 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
+<!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1398 — Proposed; the account of DeLuca et al., cited as filed, nothing here rests on its being settled -->
 
 # CLAIM-566: That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure
@@ -115,7 +115,7 @@ without viable trajectories when regeneration is what viability needs.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), supports assembly and
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-2138](../literature.d/LIT-2138.md), read in part in [NOTE-1644](../notes.d/NOTE-1644.md), supports assembly and
 persistence as separate: "imperfectly folded structures do not fold at room temperature even after
 long waiting periods", so defective folds persist unrepaired; that part is simulation plus lab
 lore. Regeneration is not addressed.
@@ -126,7 +126,7 @@ No status changes.
 
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
-A restates the claim's three properties, which came from A's earlier synthesis, as P_assemble, P_survive(T) and P_regenerate(T): "A molecular structure can be easy to assemble but chemically fragile. It can be durable but difficult to assemble. And it can possess both properties without regenerating itself." A adds that self-assembly "is not the same as self-maintenance". DNA origami's "design, components, and assembly conditions are typically provided externally", and it is "a strength of the example rather than a weakness". The readings bear this out. Douglas et al. 2009 ([NOTE-tmp77tp9](../notes.d/NOTE-tmp77tp9.md)) report multilayer designs that need week-long anneals and fold at 7 to 44 %. None of the readings reports regeneration.
+A restates the claim's three properties, which came from A's earlier synthesis, as P_assemble, P_survive(T) and P_regenerate(T): "A molecular structure can be easy to assemble but chemically fragile. It can be durable but difficult to assemble. And it can possess both properties without regenerating itself." A adds that self-assembly "is not the same as self-maintenance". DNA origami's "design, components, and assembly conditions are typically provided externally", and it is "a strength of the example rather than a weakness". The readings bear this out. Douglas et al. 2009 ([NOTE-1629](../notes.d/NOTE-1629.md)) report multilayer designs that need week-long anneals and fold at 7 to 44 %. None of the readings reports regeneration.
 
 No status changes.
 
@@ -134,19 +134,19 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Douglas et al., "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), [LIT-tmpepjt3](../literature.d/LIT-tmpepjt3.md), support the example. Structures
+**Douglas et al., "Self-assembly of DNA into nanoscale three-dimensional shapes".** Douglas et al. (2009), [LIT-2130](../literature.d/LIT-2130.md), support the example. Structures
 assemble at a yield and persist through gel, purification and 24 h
 incubations, and hierarchical assembly builds polymers and icosahedra from
 pre-folded monomers; nothing regenerates. Assembly, persistence and the
 absent regeneration are separable here.
 
-**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), support the claim. The
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-2136](../literature.d/LIT-2136.md), support the claim. The
 robot assembles, persists, and is designed to change state on cue, yet
 never produces the staples or scaffold to make another copy of itself:
 persistence and conditional reconfiguration without regeneration. No
 status changes.
 
-**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), support the separation and refine it:
+**Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-2124](../literature.d/LIT-2124.md), support the separation and refine it:
 - Assembly is measured, as per-cycle yield split into vertical binding and horizontal linking.
 - Persistence is engineered by a covalent UV crosslink and not measured over a horizon.
 - Regeneration after turnover is absent.
@@ -160,7 +160,7 @@ No status changes.
 
 From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
 
-A splits the life cycle into yield Y_T, survival S_τ and restoration G_τ by τ after specified component turnover, and notes that templated self-replication "in a supplied chemical environment is still not, by itself, sufficient" for closure. Ni et al. 2026 ([NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)) suggest one more distinction, read by the assistant from their system. Replication, more copies made from fresh supplied parts, is not regeneration after turnover. Their origami copies tile patterns at about 1.9 copies per cycle for dimers. The tiles, the temperature program, the UV crosslink and the splitting of the sample are all supplied from outside, and nothing repairs a damaged copy. So a system can replicate without regenerating, a fourth property beside the claim's three. The wording of that distinction is the assistant's (Claude, in this session); adopting it is the owner's call.
+A splits the life cycle into yield Y_T, survival S_τ and restoration G_τ by τ after specified component turnover, and notes that templated self-replication "in a supplied chemical environment is still not, by itself, sufficient" for closure. Ni et al. 2026 ([NOTE-1630](../notes.d/NOTE-1630.md)) suggest one more distinction, read by the assistant from their system. Replication, more copies made from fresh supplied parts, is not regeneration after turnover. Their origami copies tile patterns at about 1.9 copies per cycle for dimers. The tiles, the temperature program, the UV crosslink and the splitting of the sample are all supplied from outside, and nothing repairs a damaged copy. So a system can replicate without regenerating, a fourth property beside the claim's three. The wording of that distinction is the assistant's (Claude, in this session); adopting it is the owner's call.
 
 No status changes.
 
@@ -169,14 +169,14 @@ No status changes.
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
 **Winfree and Bekbolatov, "Proofreading tile sets"; Scheckenbach et al., "Self-regeneration and self-healing in DNA origami".** Two readings support the claim's separation of assembling, persisting and regenerating.
-- In Winfree and Bekbolatov's kTAM simulations ([LIT-tmp1pdwj](../literature.d/LIT-tmp1pdwj.md)), corrected assembly, persistence of the frozen crystal and refilling of a puncture are distinct behaviours. Refilling is imperfect ("scar tissue").
-- Scheckenbach et al. ([LIT-tmpzoh9c](../literature.d/LIT-tmpzoh9c.md)) show folded origami regenerating in the paper's sense. Labels recover to full brightness after bleaching, and a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum, against 12 % without.
+- In Winfree and Bekbolatov's kTAM simulations ([LIT-2119](../literature.d/LIT-2119.md)), corrected assembly, persistence of the frozen crystal and refilling of a puncture are distinct behaviours. Refilling is imperfect ("scar tissue").
+- Scheckenbach et al. ([LIT-2139](../literature.d/LIT-2139.md)) show folded origami regenerating in the paper's sense. Labels recover to full brightness after bleaching, and a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum, against 12 % without.
 
 In both, every replacement part is supplied from solution and the structure produces none of its constraints. This is regeneration without closure in the sense of [TERM-070](../terms.d/TERM-070.md). Repair fails above a damage rate (10 % serum) and never reaches the scaffold. Left open: whether either structure keeps its form once the supply is withdrawn, which neither tests.
 
 **Zhou, Sha, Ni, Seeman and Chaikin, "Mutations in artificial self-replicating tiles".**
 
-- Zhou et al. (2021, [LIT-tmpb87sq](../literature.d/LIT-tmpb87sq.md), [NOTE-tmp70nos](../notes.d/NOTE-tmp70nos.md)) stand in for the unread He et al. (2017, [LIT-tmph8p41](../literature.d/LIT-tmph8p41.md)).
+- Zhou et al. (2021, [LIT-2126](../literature.d/LIT-2126.md), [NOTE-1628](../notes.d/NOTE-1628.md)) stand in for the unread He et al. (2017, [LIT-2132](../literature.d/LIT-2132.md)).
 - They show a templated origami replicator multiplying and then selecting among multipliers by growth rate: a mutant reaches parity in five cycles and dominates after nine.
 - Nothing in it regenerates a member after turnover. Parents persist as templates, and sterile, untemplated dimers accumulate and are never removed or repaired. Every enabling condition is supplied each cycle: monomers, 48 °C and 22 °C steps, UV.
 - This supports the fourth property: replication, even with selection, is not regeneration.

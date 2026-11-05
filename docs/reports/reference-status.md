@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**818 documents cited without acknowledgement.** Not listed: 17068 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**818 documents cited without acknowledgement.** Not listed: 17649 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1218,7 +1218,7 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 
 - [`record/claims.d/CLAIM-039.md:45`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-283.md:143`](../../record/claims.d/CLAIM-283.md)
-- [`record/claims.d/CLAIM-347.md:292`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:293`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-432.md:18`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-432.md:225`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-436.md:190`](../../record/claims.d/CLAIM-436.md)
@@ -1262,8 +1262,8 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 
 36 citations in 16 files await a look; 44 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-184.md:144`](../../record/claims.d/CLAIM-184.md)
-- [`record/claims.d/CLAIM-185.md:269`](../../record/claims.d/CLAIM-185.md)
+- [`record/claims.d/CLAIM-184.md:146`](../../record/claims.d/CLAIM-184.md)
+- [`record/claims.d/CLAIM-185.md:270`](../../record/claims.d/CLAIM-185.md)
 - [`record/claims.d/CLAIM-418.md:228`](../../record/claims.d/CLAIM-418.md)
 - [`record/claims.d/CLAIM-430.md:253`](../../record/claims.d/CLAIM-430.md)
 - [`record/claims.d/CLAIM-474.md:232`](../../record/claims.d/CLAIM-474.md)
@@ -1459,7 +1459,7 @@ Relative to a stated target, a combined form is one system while its joint dynam
 - [`record/claims.d/CLAIM-194.md:34`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:73`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-474.md:103`](../../record/claims.d/CLAIM-474.md)
-- [`record/claims.d/CLAIM-478.md:142`](../../record/claims.d/CLAIM-478.md)
+- [`record/claims.d/CLAIM-478.md:143`](../../record/claims.d/CLAIM-478.md)
 - [`record/claims.d/CLAIM-526.md:108`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1642.md:69`](../../record/literature.d/LIT-1642.md)
 - [`record/questions.d/QUESTION-042.md:18`](../../record/questions.d/QUESTION-042.md)
@@ -2460,8 +2460,8 @@ Relief of an organization's frustration must be judged for an identified organiz
 - [`record/cases.d/CASE-124.md:158`](../../record/cases.d/CASE-124.md)
 - [`record/cases.d/CASE-169.md:120`](../../record/cases.d/CASE-169.md)
 - [`record/cases.d/CASE-169.md:180`](../../record/cases.d/CASE-169.md)
-- [`record/claims.d/CLAIM-347.md:110`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:243`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:111`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:244`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-448.md:103`](../../record/claims.d/CLAIM-448.md)
 - [`record/questions.d/QUESTION-131.md:146`](../../record/questions.d/QUESTION-131.md)
 - [`record/terms.d/TERM-060.md:183`](../../record/terms.d/TERM-060.md)
@@ -2974,7 +2974,7 @@ What survives translation is the set of communicative distinctions and relations
 
 Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
-8 citations in 7 files await a look; 23 other citations of it are acknowledged.
+8 citations in 7 files await a look; 47 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-045.md:38`](../../record/arguments.d/ARG-045.md)
 - [`record/cases.d/CASE-188.md:41`](../../record/cases.d/CASE-188.md)
@@ -3316,7 +3316,7 @@ A system persists as the same self over an interval when a coherence measure is 
 
 The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
 
-7 citations in 6 files await a look; 53 other citations of it are acknowledged.
+7 citations in 6 files await a look; 66 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1926.md:43`](../../record/literature.d/LIT-1926.md)
 - [`record/notes.d/NOTE-1483.md:198`](../../record/notes.d/NOTE-1483.md)
@@ -3414,7 +3414,7 @@ Flow tells against the potential account's condition that valence is undefined w
 
 Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another
 
-7 citations in 7 files await a look; 77 other citations of it are acknowledged.
+7 citations in 7 files await a look; 94 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-526.md:107`](../../record/claims.d/CLAIM-526.md)
 - [`record/literature.d/LIT-1632.md:59`](../../record/literature.d/LIT-1632.md)
@@ -3641,8 +3641,8 @@ A whole can be compared in agency with its parts, relative to a chosen decomposi
 7 citations in 3 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:28`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:263`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:291`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:264`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:292`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-368.md:29`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:147`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:217`](../../record/claims.d/CLAIM-368.md)
@@ -4912,7 +4912,7 @@ No single ranking of translations holds across tasks: where distortion profiles 
 4 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:78`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:255`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:256`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-354.md:64`](../../record/claims.d/CLAIM-354.md)
 - [`record/claims.d/CLAIM-354.md:143`](../../record/claims.d/CLAIM-354.md)
 
@@ -5754,8 +5754,8 @@ Inbound references per code and turns per filed entry show which structures anch
 
 3 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-185.md:220`](../../record/claims.d/CLAIM-185.md)
-- [`record/claims.d/CLAIM-185.md:229`](../../record/claims.d/CLAIM-185.md)
+- [`record/claims.d/CLAIM-185.md:221`](../../record/claims.d/CLAIM-185.md)
+- [`record/claims.d/CLAIM-185.md:230`](../../record/claims.d/CLAIM-185.md)
 - [`record/claims.d/CLAIM-186.md:176`](../../record/claims.d/CLAIM-186.md)
 
 ### [ARG-031](../../record/arguments.d/ARG-031.md) — Rejected
@@ -6316,7 +6316,7 @@ Disappearing Polymorphs
 
 - [`record/claims.d/CLAIM-181.md:25`](../../record/claims.d/CLAIM-181.md)
 - [`record/claims.d/CLAIM-181.md:28`](../../record/claims.d/CLAIM-181.md)
-- [`record/claims.d/CLAIM-185.md:227`](../../record/claims.d/CLAIM-185.md)
+- [`record/claims.d/CLAIM-185.md:228`](../../record/claims.d/CLAIM-185.md)
 
 ### [LIT-927](../../record/literature.d/LIT-927.md) — Unavailable
 
@@ -7327,7 +7327,7 @@ Acting for, with, and through: A relational perspective on agency in MSF's organ
 
 Evolutionary Transitions in Individuality by Endogenization of Scaffolded Properties
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-173.md:137`](../../record/notes.d/NOTE-173.md)
 - [`record/notes.d/NOTE-173.md:222`](../../record/notes.d/NOTE-173.md)
@@ -7482,14 +7482,14 @@ Synergetics: An Introduction. Nonequilibrium Phase Transitions and Self-Organiza
 
 2 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-478.md:100`](../../record/claims.d/CLAIM-478.md)
+- [`record/claims.d/CLAIM-478.md:101`](../../record/claims.d/CLAIM-478.md)
 - [`record/literature.d/LIT-1671.md:61`](../../record/literature.d/LIT-1671.md)
 
 ### [LIT-924](../../record/literature.d/LIT-924.md) — Unavailable
 
 Principles of Crystal Nucleation and Growth
 
-2 citations in 2 files await a look; 2 other citations of it are acknowledged.
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-176.md:29`](../../record/claims.d/CLAIM-176.md)
 - [`record/claims.d/CLAIM-181.md:168`](../../record/claims.d/CLAIM-181.md)
@@ -8627,9 +8627,9 @@ The sensitivity that formal chaos gives a will's dynamics is not control over th
 
 More resource for observing splits what can be told apart, and more resource for acting merges what can be turned into one another, so a system's budgeted individuation runs in opposite directions from outside and from inside and is indexed by a pair of budgets, not one
 
-1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 32 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-592.md:107`](../../record/claims.d/CLAIM-592.md)
+- [`record/claims.d/CLAIM-592.md:108`](../../record/claims.d/CLAIM-592.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -9565,7 +9565,7 @@ reconfiguration slack: the temporary resources a system needs to move between tw
 
 1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-581.md:97`](../../record/claims.d/CLAIM-581.md)
+- [`record/claims.d/CLAIM-581.md:98`](../../record/claims.d/CLAIM-581.md)
 
 ### [THEORY-001](../../record/theory.d/THEORY-001.md) — Proposed
 
@@ -10206,4 +10206,4 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
-None. Every annotation still governs something. ✅
+- record/questions.d/QUESTION-374.md:31: annotation no longer applies — nothing in scope cites CLAIM-572

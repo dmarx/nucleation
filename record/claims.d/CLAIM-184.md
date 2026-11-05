@@ -55,8 +55,8 @@ summary: >-
 complements:
 - CLAIM-301
 ---
-<!-- inactive-ok-file: CLAIM-tmpuv9yj — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
-<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
+<!-- inactive-ok-file: CLAIM-599 — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
+<!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-917 — Unavailable, unread; cited for what it is standardly cited for, and marked unread in the text -->
 
@@ -170,19 +170,19 @@ Two readings from the pasted synthesis on constraint architectures support the c
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), supports the claim by
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-2138](../literature.d/LIT-2138.md), read in part in [NOTE-1644](../notes.d/NOTE-1644.md), supports the claim by
 physical analogy: in a short-domain design, cooling slowly through temperatures "low enough for some
 random match binding to occur but too high for the correct domains to form" leaves a sample that
 "does not show any folding whatsoever", while shock-freezing through them lets it fold. Early
 spurious bindings entrench. It is a mechanism of molecules, not of framings.
 
-**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), infer, untested, that a staple's longest domain binds first and that the short folds it enables "further reduce the loop entropy for nearby staples and the system assembles progressively". That is early structure lowering the cost of later nearby growth, and weak support for the claim's first half. The paper shows neither lock-in nor blocked alternatives, and the authors say confirming the order "will require additional testing in systems with multiple folds".
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-2117](../literature.d/LIT-2117.md), infer, untested, that a staple's longest domain binds first and that the short folds it enables "further reduce the loop entropy for nearby staples and the system assembles progressively". That is early structure lowering the cost of later nearby growth, and weak support for the claim's first half. The paper shows neither lock-in nor blocked alternatives, and the authors say confirming the order "will require additional testing in systems with multiple folds".
 
-**three DNA origami folding readings (Dunn et al. 2015; Dannenberg et al. 2015; Schneider, Möritz and Dietz 2019).** Dunn and colleagues ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) support it in a physical system: "the early formation of
+**three DNA origami folding readings (Dunn et al. 2015; Dannenberg et al. 2015; Schneider, Möritz and Dietz 2019).** Dunn and colleagues ([NOTE-1643](../notes.d/NOTE-1643.md)) support it in a physical system: "the early formation of
 long-range connections can be very effective in forcing particular folds", and strong early
-seams trap folding. Dannenberg and colleagues ([NOTE-tmpyo994](../notes.d/NOTE-tmpyo994.md)) qualify it: bound staples help
+seams trap folding. Dannenberg and colleagues ([NOTE-1645](../notes.d/NOTE-1645.md)) qualify it: bound staples help
 their neighbours bind, but the effect is local and reversible at folding temperatures, and nothing
-wrong can entrench in their model. Schneider, Möritz and Dietz ([NOTE-tmpqi66a](../notes.d/NOTE-tmpqi66a.md)) qualify it again:
+wrong can entrench in their model. Schneider, Möritz and Dietz ([NOTE-1641](../notes.d/NOTE-1641.md)) qualify it again:
 early domains are needed for the fast path and their loss reroutes folding, but no wrong early
 anchor locks in a misfold. Which designs entrench and which merely accelerate is left open. No
 status changes.
@@ -193,14 +193,14 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), qualify the claim. Early nuclei
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-2137](../literature.d/LIT-2137.md), qualify the claim. Early nuclei
 at well-defined positions do set which way the rectangle folds, supporting
 that early structure frames later growth; but by the authors' equilibrium
 account the outcome is not locked in (a quench to 57 °C still yields
 well-formed rectangles, and the finished rectangle is the same at 40 °C),
 which cuts against entrenchment as inevitability.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), give weak, indirect support. A design with many short early folds, and so many nucleation points but few routes to the long folds, was more defective. The authors read this as "additional kinetic traps for the topologically necessary long folds". This is local entrenchment of early structure. It is not lock-in of a framing, and no pathway was observed.
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-2127](../literature.d/LIT-2127.md), give weak, indirect support. A design with many short early folds, and so many nucleation points but few routes to the long folds, was more defective. The authors read this as "additional kinetic traps for the topologically necessary long folds". This is local entrenchment of early structure. It is not lock-in of a framing, and no pathway was observed.
 
 No status changes.
 
@@ -208,7 +208,7 @@ No status changes.
 
 From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
 
-A's third synthesis puts the claim's entrenchment as the third of three cases, a partial organization that "persists in a configuration that makes the target difficult to reach". A cites Dunn et al.'s abstract: "reversible bond-formation is important in recovering from transient misfoldings". The assistant's [CLAIM-tmpuv9yj](CLAIM-tmpuv9yj.md) adds that two productive nuclei can entrench together into a trap.
+A's third synthesis puts the claim's entrenchment as the third of three cases, a partial organization that "persists in a configuration that makes the target difficult to reach". A cites Dunn et al.'s abstract: "reversible bond-formation is important in recovering from transient misfoldings". The assistant's [CLAIM-599](CLAIM-599.md) adds that two productive nuclei can entrench together into a trap.
 
 No status changes.
 
@@ -216,7 +216,7 @@ No status changes.
 
 Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
 
-**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-tmp91912](../literature.d/LIT-tmp91912.md), read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md), give weak, interpretive support:
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-2123](../literature.d/LIT-2123.md), read in [NOTE-1627](../notes.d/NOTE-1627.md), give weak, interpretive support:
 sequences offering many off-target bindings fold badly and aggregate, and the authors read this as kinetic
 trapping by early mis-binding. The timing account, that on-target sites bind at high temperature before
 off-target ones can, is cited from the literature, not tested, and no trap is located, so whether early
@@ -228,6 +228,6 @@ No status changes.
 
 Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
 
-**Winfree and Bekbolatov, "Proofreading tile sets".** Supports, in a clean physical case. In algorithmic tile growth an early mismatch, once covered, is propagated: "Subsequent error-free growth correctly propagates the erroneous information" (Fig. 4a). Cumberworth et al. ([LIT-tmpog2df](../literature.d/LIT-tmpog2df.md)) add a speculative instance: without a nucleation barrier, concurrent partial chunks may jam. They do not simulate it.
+**Winfree and Bekbolatov, "Proofreading tile sets".** Supports, in a clean physical case. In algorithmic tile growth an early mismatch, once covered, is propagated: "Subsequent error-free growth correctly propagates the erroneous information" (Fig. 4a). Cumberworth et al. ([LIT-2134](../literature.d/LIT-2134.md)) add a speculative instance: without a nucleation barrier, concurrent partial chunks may jam. They do not simulate it.
 
 No status changes.

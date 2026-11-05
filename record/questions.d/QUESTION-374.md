@@ -25,7 +25,7 @@ summary: >-
   telling more apart and being able to become more. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp7y162 CASE-tmpa6s9d CLAIM-592 CLAIM-572 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
+<!-- inactive-ok-file: CLAIM-594 CASE-216 CLAIM-592 CLAIM-572 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
 <!-- inactive-ok-file: CASE-206 CASE-212 CLAIM-557 CLAIM-583 NOTE-1568 NOTE-1609 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 <!-- inactive-ok-file: CLAIM-570 CASE-199 — Proposed; the frontier claim and its worked case, cited as open -->
 <!-- inactive-ok-file: CLAIM-572 — Proposed; the shared-budget claim, cited as open -->
@@ -102,8 +102,8 @@ The assistant's reading across the eight DNA origami readings filed on the owner
 
 Three things bear on the two-budget structure.
 
-- **A resource can set the costs it pays.** Heat pays for crossing barriers and also sets the free energies, so reachability within a time budget is a window in temperature, not an up-set, and a schedule can reach what no constant level reaches ([CLAIM-tmp7y162](../claims.d/CLAIM-tmp7y162.md), [CASE-tmpa6s9d](../cases.d/CASE-tmpa6s9d.md)). The acting budget of the question's frontier is the special case of a resource that leaves the costs fixed.
-- **Probes are not ordered by cost.** Gel mobility and TEM cannot tell a 42-helix bundle with every staple from one missing up to 7 %, a cheap defect label can, and cryo-EM, far costlier, "might be able to resolve site-specific defects, but it will be blind to stochastically distributed defects" (Wagenbauer, Wachauf and Dietz, [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md)). Each probe still refines, but which distinctions a budget buys first is set by which probes are cheap, as [CLAIM-592](../claims.d/CLAIM-592.md) says.
-- **Observing can act.** In Rothemund's AFM ([NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md)), the settings that resolve a single missing staple also damage the sample: "repeated scanning created holes difficult to distinguish from holes due to missing strands". There the observing budget is spent partly out of the system's own integrity, so the two budgets are not separable, which is the converse of the dual-control case that [CLAIM-572](../claims.d/CLAIM-572.md) excludes. Whether the frontier survives an observer whose probes change the states they sort is open.
+- **A resource can set the costs it pays.** Heat pays for crossing barriers and also sets the free energies, so reachability within a time budget is a window in temperature, not an up-set, and a schedule can reach what no constant level reaches ([CLAIM-594](../claims.d/CLAIM-594.md), [CASE-216](../cases.d/CASE-216.md)). The acting budget of the question's frontier is the special case of a resource that leaves the costs fixed.
+- **Probes are not ordered by cost.** Gel mobility and TEM cannot tell a 42-helix bundle with every staple from one missing up to 7 %, a cheap defect label can, and cryo-EM, far costlier, "might be able to resolve site-specific defects, but it will be blind to stochastically distributed defects" (Wagenbauer, Wachauf and Dietz, [NOTE-1637](../notes.d/NOTE-1637.md)). Each probe still refines, but which distinctions a budget buys first is set by which probes are cheap, as [CLAIM-592](../claims.d/CLAIM-592.md) says.
+- **Observing can act.** In Rothemund's AFM ([NOTE-1631](../notes.d/NOTE-1631.md)), the settings that resolve a single missing staple also damage the sample: "repeated scanning created holes difficult to distinguish from holes due to missing strands". There the observing budget is spent partly out of the system's own integrity, so the two budgets are not separable, which is the converse of the dual-control case that [CLAIM-572](../claims.d/CLAIM-572.md) excludes. Whether the frontier survives an observer whose probes change the states they sort is open.
 
 No status changes.

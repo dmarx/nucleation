@@ -49,7 +49,7 @@ summary: >-
   configuration layer from the process layer; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
+<!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CLAIM-560 CLAIM-567 NOTE-1584 NOTE-1613 TERM-114 THEORY-1407 THEORY-1413 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-583: Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability; and of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other
@@ -119,25 +119,25 @@ the content lies in which move rules are natural for a substrate.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), [LIT-tmp5gf89](../literature.d/LIT-tmp5gf89.md), read in [NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md), qualifies and leaves open. "All merge
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), [LIT-2120](../literature.d/LIT-2120.md), read in [NOTE-1631](../notes.d/NOTE-1631.md), qualifies and leaves open. "All merge
 patterns create the same shape", so one target admits many staple sets, but no yields are compared
 between merge patterns. The comparisons he reports (bridged against unbridged seams, linear against
 circular scaffold) add or remove constraints or change the scaffold, so none holds the compatibility
 complex fixed.
 
-**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-tmpwddcn](../literature.d/LIT-tmpwddcn.md), read in part in [NOTE-tmpwxm2p](../notes.d/NOTE-tmpwxm2p.md), supports the claim in
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), [LIT-2138](../literature.d/LIT-2138.md), read in part in [NOTE-1644](../notes.d/NOTE-1644.md), supports the claim in
 kind but not in the strict sense: three routings of one brick shape with the same composition show
 "more than two orders of magnitude of variation between the mean folding times" and fold at
 different temperatures, but routing changes the complex. Permuting the scaffold sequence along one
 routing changed nothing (§5.2.2), which is the closest the reading comes to the claim's case, and
 it goes the other way.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), qualify only: two
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-2128](../literature.d/LIT-2128.md), read in [NOTE-1637](../notes.d/NOTE-1637.md), qualify only: two
 42-helix-bundle variants of one shape, one "that differed in its topology of chain connectivity",
 fold best at 52 °C and 48 °C. Different connectivity means a different complex, so this is a
 same-target, different-architecture case rather than the claim's.
 
-**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues ([LIT-tmpqku12](../literature.d/LIT-tmpqku12.md), [NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)) anneal one dimer origami template, whose
+**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues ([LIT-2135](../literature.d/LIT-2135.md), [NOTE-1643](../notes.d/NOTE-1643.md)) anneal one dimer origami template, whose
 well-folded shapes they argue are of roughly equal free energy, to different distributions of
 those shapes by changing only the staples that stabilize intermediates: halving the long-range
 seam staples shifts products strongly toward the 5:0 fold and, in their model, cuts misfolds from
@@ -152,7 +152,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), qualify the claim. Changing the
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-2133](../literature.d/LIT-2133.md), qualify the claim. Changing the
 staple motif while keeping which scaffold sites are joined (same
 complementarity) left yield unchanged; changing fold distance (geometry,
 not complementarity) changed it. This supports the spirit, same
@@ -160,7 +160,7 @@ compatibility yet different outcome with geometry and concentration, while
 the motif test is a null for the pure staple-set variant. No status
 changes.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), qualify the reading of origami as a case of this claim. Their 34 designs share the target shape, but not the compatibility complex: routing, seams and staple motifs change which domains pair. What they show is the weaker "same target, different constraint system, different reliability". Sequence rotation, which keeps the routing and is the nearest to the same complex, changed nothing. The claim's strong condition remains without an experimental instance here.
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-2127](../literature.d/LIT-2127.md), qualify the reading of origami as a case of this claim. Their 34 designs share the target shape, but not the compatibility complex: routing, seams and staple motifs change which domains pair. What they show is the weaker "same target, different constraint system, different reliability". Sequence rotation, which keeps the routing and is the nearest to the same complex, changed nothing. The claim's strong condition remains without an experimental instance here.
 
 No status changes.
 
@@ -168,7 +168,7 @@ No status changes.
 
 Cited in A's third synthesis on DNA origami, pasted by the owner on 2026-11-05.
 
-**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-tmp91912](../literature.d/LIT-tmp91912.md), read in [NOTE-tmp6ediz](../notes.d/NOTE-tmp6ediz.md), support the claim at the domain
+**Shirt-Ediss, Torelli et al., "Optimising DNA origami assembly".** Shirt-Ediss, Torelli et al. (2026), [LIT-2123](../literature.d/LIT-2123.md), read in [NOTE-1627](../notes.d/NOTE-1627.md), support the claim at the domain
 level and qualify it at the base level. The variants share design, routing and intended pairing, nearer to
 one compatibility complex than the designs of Majikes et al. (2026), yet differ sharply in yield; but the
 authors attribute the difference to extra off-target compatibilities, so the full base-level complex

@@ -101,13 +101,13 @@ partition gets coarser. Neither is the system's individuation; the pair is.
 
 Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
 
-**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-tmpduceb](../literature.d/LIT-tmpduceb.md), read in [NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md), support the observing
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), [LIT-2128](../literature.d/LIT-2128.md), read in [NOTE-1637](../notes.d/NOTE-1637.md), support the observing
 half empirically: spending on a de Bruijn defect label (an extra incubation and an ice-cold gel)
 splits samples that TEM averaging and gel mobility merge, those with 0, 5 and 15 of 207 staples
 missing. It leaves open the acting half and whether the extra spending is ordered as the claim's
 budget is.
 
-**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-tmp0hqya](../literature.d/LIT-tmp0hqya.md), read in [NOTE-tmperio5](../notes.d/NOTE-tmperio5.md), support the observing half of the claim concretely. Bulk methods (UV-Vis and DSC, which "measure signal from all DNA in the sample", and gels) cannot single out one staple fold of the scaffold; a designed FRET reporter can. What can be told apart grows with replicates and instrument precision. At the paper's budget, persistence-length differences show in melting temperature but not in ΔH, ΔS or ΔCp, and better "would require equipment with a temperature control precision better than 0.3°C, and with a data sampling density greater than one measurement per 0.6°C." The paper leaves the acting half untouched.
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), [LIT-2117](../literature.d/LIT-2117.md), read in [NOTE-1632](../notes.d/NOTE-1632.md), support the observing half of the claim concretely. Bulk methods (UV-Vis and DSC, which "measure signal from all DNA in the sample", and gels) cannot single out one staple fold of the scaffold; a designed FRET reporter can. What can be told apart grows with replicates and instrument precision. At the paper's budget, persistence-length differences show in melting temperature but not in ΔH, ΔS or ΔCp, and better "would require equipment with a temperature control precision better than 0.3°C, and with a data sampling density greater than one measurement per 0.6°C." The paper leaves the acting half untouched.
 
 No status changes.
 
@@ -115,7 +115,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-tmps9gx3](../literature.d/LIT-tmps9gx3.md), illustrate the observing half:
+**Lee Tin Wah et al., "Observing and controlling the folding pathway of DNA origami".** Lee Tin Wah et al. (2016), [LIT-2137](../literature.d/LIT-2137.md), illustrate the observing half:
 the same folding ensemble is split two ways by modal height ("only two
 peaks suggesting that folding is a two-state process. However, this
 picture is incomplete"), four ways by median height ("at least four
@@ -123,7 +123,7 @@ states"), and six ways by visual inspection, while bulk fluorescence
 merges the chain-like and coil states because they "had a similar number
 of base pairs". Richer observables tell more apart.
 
-**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-tmplg4lb](../literature.d/LIT-tmplg4lb.md), support the observing half: one
+**Majikes et al., "Failure Mechanisms in DNA Self-Assembly".** Majikes et al. (2021), [LIT-2133](../literature.d/LIT-2133.md), support the observing half: one
 topology-reporting channel "cannot distinguish between the blocked state
 and a scaffold without a staple", gels "failed to identify any conditions
 that could distinguish the circular and figure-eight states", and
@@ -131,7 +131,7 @@ resolving more states needs more channels (at least five for a
 three-domain staple). The cheap probe lumps classes the dearer one would
 split.
 
-**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
+**Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-2127](../literature.d/LIT-2127.md), support the claim at the level of example. They state that "yield measurements have an inverse relationship between their resolution and both their cost and throughput", from gels to AFM to DNA-PAINT. Their AFM classes are "a very approximate substitute" for staple counts. The cheaper probe is not a coarsening of the dearer one:
 - The gel merges a damaged design with well-folded ones.
 - It also splits well-folded designs by mobility.
 

@@ -35,7 +35,7 @@ refined_by:
 bearing:
 - CLAIM-180
 ---
-<!-- inactive-ok-file: CLAIM-tmpiyvk1 TERM-tmp3awsy — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
+<!-- inactive-ok-file: CLAIM-595 TERM-117 — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
@@ -86,6 +86,6 @@ question.
 
 From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
 
-A's third synthesis answers part of this question: what turns a persisting structure into a usable anchor is not its persistence but its effect on later formation. That effect is measured against a comparator in which it is absent, disrupted or replaced ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md), [CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md)). A distinguishes "Fragile", "Productively persistent" and "Kinetically trapping" partial organizations: the first dissipates before it matters, the third persists in a configuration that blocks the target.
+A's third synthesis answers part of this question: what turns a persisting structure into a usable anchor is not its persistence but its effect on later formation. That effect is measured against a comparator in which it is absent, disrupted or replaced ([TERM-117](../terms.d/TERM-117.md), [CLAIM-595](../claims.d/CLAIM-595.md)). A distinguishes "Fragile", "Productively persistent" and "Kinetically trapping" partial organizations: the first dissipates before it matters, the third persists in a configuration that blocks the target.
 
 No status changes.

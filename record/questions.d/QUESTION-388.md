@@ -100,7 +100,7 @@ The pasted synthesis on resource-bounded realizability first asks whether constr
 
 From the synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05 and filed with its four further works in this pull request.
 
-Douglas, Bachelet and Church's barrel ([NOTE-tmpgw5ab](../notes.d/NOTE-tmpgw5ab.md)) is a clean case of the programmable side. Its rule, which antigens open it, is set at folding by the aptamer sequences installed; six lock versions were built. Nothing in it feeds back on that rule. A's synthesis draws the same line: "That response does not automatically grant the structure the ability to revise the rules governing its own behavior." So DNA origami, as read here, offers programmable systems and no self-governing one.
+Douglas, Bachelet and Church's barrel ([NOTE-1634](../notes.d/NOTE-1634.md)) is a clean case of the programmable side. Its rule, which antigens open it, is set at folding by the aptamer sequences installed; six lock versions were built. Nothing in it feeds back on that rule. A's synthesis draws the same line: "That response does not automatically grant the structure the ability to revise the rules governing its own behavior." So DNA origami, as read here, offers programmable systems and no self-governing one.
 
 No status changes.
 
@@ -108,7 +108,7 @@ No status changes.
 
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
-**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-tmpqorwy](../literature.d/LIT-tmpqorwy.md), give a clean "merely
+**Douglas, Bachelet and Church, "A Logic-Gated Nanorobot".** Douglas, Bachelet and Church (2012), [LIT-2136](../literature.d/LIT-2136.md), give a clean "merely
 programmable" case for the question. The lock pair (and hence the response
 function) is set from outside; there is no internal process updating it
 from the device's own states; opening is a one-shot, input-triggered

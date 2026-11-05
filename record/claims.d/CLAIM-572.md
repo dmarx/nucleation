@@ -173,6 +173,6 @@ and 4,103 had greedy stopping short of B\*.
 
 The assistant's reading across the eight DNA origami readings filed on the owner's request to connect the record's inquiry to DNA origami. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 
-Two readings touch the shared budget, neither within its scope. Wagenbauer, Wachauf and Dietz ([NOTE-tmpmw05j](../notes.d/NOTE-tmpmw05j.md)) spent on a quality assay and used it to replace a 16-hour ramp with a 1.5-hour three-step schedule of matched quality, observing bought cheaper acting, but across experiments, not within one decision. Rothemund's AFM ([NOTE-tmp8kyp2](../notes.d/NOTE-tmp8kyp2.md)) is an observation that acts on the sample, the converse of the dual-control case the claim excludes, so there the split between the budgets is not even defined.
+Two readings touch the shared budget, neither within its scope. Wagenbauer, Wachauf and Dietz ([NOTE-1637](../notes.d/NOTE-1637.md)) spent on a quality assay and used it to replace a 16-hour ramp with a 1.5-hour three-step schedule of matched quality, observing bought cheaper acting, but across experiments, not within one decision. Rothemund's AFM ([NOTE-1631](../notes.d/NOTE-1631.md)) is an observation that acts on the sample, the converse of the dual-control case the claim excludes, so there the split between the budgets is not even defined.
 
 No status changes.
