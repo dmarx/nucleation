@@ -50,6 +50,7 @@ summary: >-
   separates. The construction is the filer's, from A's two separations;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1423 THEORY-1418 THEORY-1427 THEORY-1409 CLAIM-571 CLAIM-562 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-206 CASE-207 CASE-209 CLAIM-568 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: NOTE-1572 NOTE-1555 NOTE-1584 NOTE-1613 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
@@ -157,3 +158,45 @@ At a footprint budget of 1.5, [CASE-206](../cases.d/CASE-206.md)'s two folded st
 Two groups of readings filed beside the pasted synthesis on resource-bounded realizability bear on the claim. The finite-domain CSP dichotomy of Bulatov ([NOTE-1572](../notes.d/NOTE-1572.md)) and Zhuk ([NOTE-1555](../notes.d/NOTE-1555.md)) concerns only the first property: it classifies the complexity of deciding whether a solution exists, over fixed finite languages, and says nothing about reaching one solution from another; Zhuk's "linked" is a false friend. Polymorphisms are the precedent for an algebra predicting the complexity of feasibility; whether one predicts reachability is open relative to those papers, and for Boolean languages is the question Gopalan et al. take up ([NOTE-1584](../notes.d/NOTE-1584.md)).
 
 The complexity readings give the second separation hardness results. In Eppstein's flaps and flips ([NOTE-1611](../notes.d/NOTE-1611.md), Theorem 4) both endpoints are valid flat states, and deciding whether one reaches the other is PSPACE-complete even at bounded treewidth. Ito et al. ([NOTE-1595](../notes.d/NOTE-1595.md), Theorems 1 and 2) show the reconfiguration versions of many NP-complete problems PSPACE-complete, while matroid bases and matchings reconfigure in polynomial time. For Boolean languages that are not tight, Gopalan et al. find st-connectivity PSPACE-complete with components of exponential diameter possible; Schwerdtfeger ([NOTE-1613](../notes.d/NOTE-1613.md)) corrects the boundary slightly toward the hard side. None of them bears on the third property. No status changes.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), LIT-tmp5gf89, read in NOTE-tmp8kyp2, supports the distinction with a caveat.
+Every design is compatible by construction, so every target is feasible, yet the AFM-judged
+fraction of well-formed structures runs from about 1% (an equiangular triangle of rectangles) to
+90% (a bridged rectangle). The yields mix folding with deposition and tip damage, so they bound
+reliable reachability loosely and do not separate an unreached target from a damaged one. No status
+changes.
+
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p and standing in for
+Sobczak et al. (2012), supports the claim empirically. The folded brick is vastly favoured, yet at
+56 °C a sample showed "absolutely no folded origamis even after 48 hours", while 6 °C lower most
+fold within 2 h; reliable reaching holds only within a window of a few degrees. It leaves open
+whether the window's edges are sharp thresholds or timescale artefacts.
+
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in NOTE-tmpmw05j, support the claim from
+the observing side: samples that "might be judged as high-quality assembly products" under TEM and
+gel mobility still lack one to six staple equivalents per object, and isothermal folding reaches
+the shape but not the completeness of a 16 h ramp. What counts as reaching the target depends on
+the probe; the paper leaves open how the shortfall is spread across particles.
+
+**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), LIT-tmp11aw1, read in NOTE-tmpjeolx, give the three properties separately for one configuration, the compacted bundle of a DNA origami Bennett linkage:
+- Feasible: locking staples added at folding hold 93% of linkages there.
+- Reachable: 9.9% of free linkages visit it by thermal motion.
+- Reliably reached: only with added closing strands, which give 93.1%.
+
+This supports the claim with a concrete triple. It leaves open whether the grid fractions are the solution fractions: the authors call them upper bounds, since surface deposition may push near-extreme mechanisms into the extremes. Misfolded particles were excluded.
+
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), LIT-tmp0hqya, read in NOTE-tmperio5, measure only the equilibrium stability of one staple fold, and they frame yield as a matter of "limiting thermodynamic equilibria". That weakly qualifies the claim's separation: the paper treats holding as what limits yield, and says nothing about reachability or reliability, since it records no anneal and no kinetics. It leaves open whether a stable fold is also reliably reached.
+
+**Dunn et al., "Guiding the folding pathway of DNA origami", and Schneider, Möritz and Dietz, "The sequence of events during folding of a DNA origami".** Dunn and colleagues (NOTE-tmpvgzvb) support the distinction: the well-folded shapes are feasible
+and reached, yet in their model the reference staple set ends misfolded in 52% of runs against 1%
+with broken seams, so reliability of reaching is a design property apart from feasibility
+(experimental fitted yields 36-62%). Schneider, Möritz and Dietz (NOTE-tmpqi66a) qualify it: with
+the earliest-binding domains removed the target is still reached, "via another, slower pathway",
+so reachability survives while speed does not; they report no yields, so reliability is not
+measured there.
+
+No status changes.

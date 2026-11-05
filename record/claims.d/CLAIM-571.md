@@ -43,6 +43,7 @@ summary: >-
   the sublevel sets; Berry, Lee-Trimble and Santangelo give a case where
   it is infinite. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpwxm2p CASE-206 — Proposed, Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1423 THEORY-1420 CLAIM-567 CLAIM-585 TERM-106 CASE-198 CASE-200 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-204 CASE-206 CASE-207 CASE-208 CASE-211 CLAIM-569 TERM-105 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: NOTE-1585 CLAIM-563 NOTE-1581 CLAIM-591 CLAIM-560 CLAIM-586 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
@@ -141,3 +142,27 @@ Later entries from the same paste instance and extend the claim. [CASE-206](../c
 Readings filed beside the pasted synthesis on resource-bounded realizability place B* and price it. The readers of Lawvere ([NOTE-1585](../notes.d/NOTE-1585.md)) and of Marsden and Zwart ([NOTE-1602](../notes.d/NOTE-1602.md)) check that ([0, ∞], inf, max) is a quantale, so B* is the hom of the free category it enriches on the configuration graph, the closure over paths. Using max as the tensor is the readers' step; it is not among Marsden and Zwart's examples. In that category the affordable processes compose at every budget ([CLAIM-563](CLAIM-563.md)).
 
 Ito et al. ([NOTE-1595](../notes.d/NOTE-1595.md)) make B* the minmax objective of their §4 and show that computing it can be hard: minmax power supply reconfiguration is strongly NP-hard (Lemma 3), maxmin clique reconfiguration has no constant-factor approximation unless P = NP (Theorem 4), and minmax set cover reconfiguration has a linear-time 2-approximation (Theorem 6). The reading of Raussen ([NOTE-1581](../notes.d/NOTE-1581.md)) and [CLAIM-591](CLAIM-591.md) add that under one-way moves B*(A, B) and B*(B, A) can differ, which the claim's undirected paths do not show. [CLAIM-560](CLAIM-560.md) pairs the threshold with [CLAIM-586](CLAIM-586.md)'s compatibility filtration; neither determines the other. No status changes.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, supports the claim for
+one step: isothermal folding near 50 °C still needs a brief denaturation first, since "this step
+remains necessary to break up pre-existing secondary structures", so the path's peak exceeds what
+folding and holding need. For a short-domain design the path down from 65 °C decides whether a
+40 °C hold folds at all. Temperature acts as a window, not a monotone budget, so the peak reading
+fits the denaturation step only.
+
+**Marras, Zhou, Su and Castro, "Programmable motion of DNA origami mechanisms".** Marras et al. (2015), LIT-tmp11aw1, qualify the claim in the reverse direction. The compacted state of their DNA origami Bennett linkage is cheap to reach: thermal motion visits it at no input cost. It is dear to hold, needing bound bridging strands or locking staples against what the authors take to be electrostatic repulsion. So the reaching threshold and the holding requirement differ here because holding costs more, not reaching. The paper measures no threshold over the path. Compare CASE-206, where passage costs more than either end state.
+
+**Dunn et al. and Dannenberg et al., two DNA origami readings.** Dunn and colleagues (NOTE-tmpvgzvb) support it qualitatively: from the part-folded 1:1
+intermediate, the 5:0 fold is "inaccessible unless at least one seam connection is broken", a
+barrier beyond what holding the target takes, though none is measured. Dannenberg and colleagues
+(NOTE-tmpyo994) support it in a kinetic sense: in their domain-level model, 10 against 0.1 °C per
+minute lowers the annealing temperature by 5.3 °C and raises melting by about 1.3 °C, and fewer
+staples lower annealing but not melting. Their model has a unique equilibrium at each temperature,
+so this is rate-dependent hysteresis from barriers, not a peak-cost path in the claim's sense;
+whether origami shows the latter is left open.
+
+No status changes.

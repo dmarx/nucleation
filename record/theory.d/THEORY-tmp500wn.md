@@ -22,6 +22,8 @@ summary: >-
   hysteresis: no experiment held a melted object inside the band and
   watched it stay unfolded, and no melting temperature for the brick was
   found in the text read.
+corroborates:
+- CLAIM-tmp7y162
 ---
 <!-- inactive-ok-file: NOTE-tmpwxm2p LIT-tmpg98v0 — Skimmed or Unavailable; cited from the reading of Sobczak (2018) as open -->
 

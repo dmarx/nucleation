@@ -55,6 +55,7 @@ summary: >-
 complements:
 - CLAIM-301
 ---
+<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-917 — Unavailable, unread; cited for what it is standardly cited for, and marked unread in the text -->
 
@@ -163,3 +164,26 @@ No status, title or warrant changes.
 ## Note of 2026-11-05: the constraint-architecture readings
 
 Two readings from the pasted synthesis on constraint architectures support the claim by physical analogy. In DeLuca et al.'s simulated DNA origami ([NOTE-1561](../notes.d/NOTE-1561.md)), early coalescence that sets the scaffold wrongly locks the structure out of the folded state: one run, the best folded at 1 s, is second worst by 3.6 s. In Stern et al. ([NOTE-1571](../notes.d/NOTE-1571.md)) folding islands are local seeds that fix the global outcome, and with no backtracking at zero temperature a badly placed seed locks in a distractor branch. Both are physical lock-in, not the entrenchment of a framing, and neither bears on retirement by status. Neither is thermodynamic nucleation. No status changes.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, supports the claim by
+physical analogy: in a short-domain design, cooling slowly through temperatures "low enough for some
+random match binding to occur but too high for the correct domains to form" leaves a sample that
+"does not show any folding whatsoever", while shock-freezing through them lets it fold. Early
+spurious bindings entrench. It is a mechanism of molecules, not of framings.
+
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), LIT-tmp0hqya, infer, untested, that a staple's longest domain binds first and that the short folds it enables "further reduce the loop entropy for nearby staples and the system assembles progressively". That is early structure lowering the cost of later nearby growth, and weak support for the claim's first half. The paper shows neither lock-in nor blocked alternatives, and the authors say confirming the order "will require additional testing in systems with multiple folds".
+
+**three DNA origami folding readings (Dunn et al. 2015; Dannenberg et al. 2015; Schneider, Möritz and Dietz 2019).** Dunn and colleagues (NOTE-tmpvgzvb) support it in a physical system: "the early formation of
+long-range connections can be very effective in forcing particular folds", and strong early
+seams trap folding. Dannenberg and colleagues (NOTE-tmpyo994) qualify it: bound staples help
+their neighbours bind, but the effect is local and reversible at folding temperatures, and nothing
+wrong can entrench in their model. Schneider, Möritz and Dietz (NOTE-tmpqi66a) qualify it again:
+early domains are needed for the fast path and their loss reroutes folding, but no wrong early
+anchor locks in a misfold. Which designs entrench and which merely accelerate is left open. No
+status changes.
+
+No status changes.

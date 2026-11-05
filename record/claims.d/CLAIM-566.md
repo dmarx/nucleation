@@ -50,6 +50,7 @@ summary: >-
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1398 — Proposed; the account of DeLuca et al., cited as filed, nothing here rests on its being settled -->
 
 # CLAIM-566: That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure
@@ -108,3 +109,14 @@ without viable trajectories when regeneration is what viability needs.
   without them is not closure.
 - **Anything measured for organizations.** The probabilities are A's
   model. The record has measured none of them.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, supports assembly and
+persistence as separate: "imperfectly folded structures do not fold at room temperature even after
+long waiting periods", so defective folds persist unrepaired; that part is simulation plus lab
+lore. Regeneration is not addressed.
+
+No status changes.

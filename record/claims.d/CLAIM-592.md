@@ -121,3 +121,14 @@ later refinement, all apart, agrees only in the trivial corner.
 - Agreement of the two partitions is a fact about identification under
   budgets. Whether the agreed classes are individuals in any constitutive
   sense stays with [QUESTION-284](../questions.d/QUESTION-284.md).
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Wagenbauer, Wachauf and Dietz, "Quantifying quality in DNA self-assembly".** Wagenbauer, Wachauf and Dietz (2014), LIT-tmpduceb, read in NOTE-tmpmw05j, support the claim in
+kind: the cheap defect label splits samples by ensemble composition and the costly cryo-EM, by the
+authors' account, would split them by shared site-specific defects, so which distinctions are
+bought first depends on which probe is cheap. No costed probe family is set out.
+
+No status changes.

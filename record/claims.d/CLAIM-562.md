@@ -107,3 +107,15 @@ A's proposed experiment tests this directly: "test whether measures of where the
   zero-temperature descent, idealized vertices. The organizational
   reading, that where an organization intervenes can matter more than how
   much, is an analogy.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Dunn, Dannenberg, Ouldridge, Kwiatkowska, Turberfield and Bath, "Guiding the folding pathway of DNA origami".** Dunn and colleagues (NOTE-tmpvgzvb) fit the claim directly: halving one staple of each seam pair,
+less binding strength, improves the designed outcome (90% of broken-seam simulations end in 5:0)
+and cuts model misfolds from 52% to 1%, while the full seam set's extra strength causes the traps.
+Where the weakening acts, on cooperative long-range contacts, matters more than how much binding is
+added. The experimental side is AFM counts on one protocol.
+
+No status changes.

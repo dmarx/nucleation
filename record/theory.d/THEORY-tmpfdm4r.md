@@ -23,6 +23,8 @@ summary: >-
   stable states or kinetic traps: the model has a unique equilibrium at
   each temperature and no misbinding, and its hysteresis shrinks with
   slower ramps.
+corroborates:
+- CLAIM-tmp7y162
 ---
 
 # THEORY-tmpfdm4r: Dannenberg and colleagues show, in a thermodynamically self-consistent domain-level kinetic model of planar DNA origami, that cooperativity between staples from scaffold loop closure and coaxial stacking sharpens the folding transition and produces folding/melting hysteresis, and that the hysteresis is asymmetric, faster cooling or fewer staples lowering the annealing temperature far more than they raise or move the melting temperature, because binding rates are nearly temperature-independent while unbinding rates rise steeply with temperature

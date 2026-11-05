@@ -1,0 +1,5 @@
+- DNA origami connected to the realizability inquiry at the owner's request:
+  - read: Rothemund 2006; Wagenbauer, Wachauf and Dietz 2014; Dunn et al. 2015; Dannenberg et al. 2015; Marras et al. 2015; Schneider, Möritz and Dietz 2019; Majikes et al. 2020;
+  - Sobczak et al. 2012 registered Unavailable and read through Sobczak's dissertation;
+  - dated notes on nineteen held entries.
+- The assistant's claim that a resource which sets the costs it pays, as heat does when origami folds, makes reachability within a time budget a window in the resource, with a four-state annealing toy (CLAIM-tmp7y162, CASE-tmpa6s9d).

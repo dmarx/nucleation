@@ -23,6 +23,8 @@ summary: >-
   bases unpaired, with a background floor near the best result. It does
   not say how defects are spread across particles, nor anything about
   misfolds that leave bases paired.
+corroborates:
+- CLAIM-tmp7y162
 ---
 
 # THEORY-tmp8ofc7: Wagenbauer, Wachauf and Dietz show that multilayer DNA origami with up to 7% of its staples omitted looks the same as the complete object under negative-stain TEM averaging and agarose-gel mobility, while a gel-based fluorescent de Bruijn probe for unpaired bases tells them apart and estimates that complete reactions still leave 44 to 263 of 7,560 bases unpaired, 96.5% to over 99% quality, depending on design and folding schedule

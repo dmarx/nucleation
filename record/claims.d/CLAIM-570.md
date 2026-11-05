@@ -51,6 +51,7 @@ summary: >-
   telling apart and becoming. The construction is A's; the boundary
   formulas and checks are the assistant's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmp7y162 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
 <!-- inactive-ok-file: CLAIM-574 CLAIM-581 CLAIM-557 CASE-199 CASE-206 — Proposed; entries of this pull request, cited as open -->
 
 # CLAIM-570: With observational indistinguishability refining as the observing budget grows and peak-cost mutual reachability coarsening as the acting budget grows, the budget pairs at which everything indistinguishable is mutually reachable form an up-set and those at which everything mutually reachable is indistinguishable form a down-set, with boundaries given by the largest peak distance within an observational class and the least observing budget that separates two mutually reachable states
@@ -129,3 +130,11 @@ L from R.
   side and depth probes swapped the window disappears. So a non-trivial
   agreement is a fact about the mechanism and the cost of observing it
   together, not about either alone.
+
+## Note of 2026-11-05: the DNA origami readings, read across
+
+The assistant's reading across the eight DNA origami readings filed on the owner's request to connect the record's inquiry to DNA origami. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+An observer coarser than the system is the common case in DNA origami. Dunn and colleagues (NOTE-tmpvgzvb) fold one template into shapes each realised by four scaffold routings "distinguished by the nucleotide sequence at the template crossing but not resolved by AFM imaging", and once seams have bound the folds do not interconvert at folding temperatures. So AFM identifies pairs that are not mutually reachable within any affordable acting budget: those budget pairs lie outside the claim's up-set S. DeLuca et al.'s simulation (NOTE-1561) makes the same point for a count of bound staples: one hybridization state holds configurations with and without a route to the folded structure. The claim assumes a fixed cost function; where the acting resource is heat, which also sets the costs, A_a is not monotone in a (CLAIM-tmp7y162).
+
+No status changes.

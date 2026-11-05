@@ -52,6 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
+<!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: NOTE-1532 THEORY-1306 — new; Juarrero 2023, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-533 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
@@ -323,3 +324,28 @@ Silverberg et al.'s separation by energy scale is the form [QUESTION-391](../que
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 [CASE-207](../cases.d/CASE-207.md), filed from the square-twist reading, illustrates the claim with a separation by energy rather than by time; the caveat in [NOTE-1554](../notes.d/NOTE-1554.md) stands. No status changes.
+
+## Note of 2026-11-05: the DNA origami readings
+
+Read on the owner's request to connect the record's realizability inquiry to DNA origami; the works were chosen by the assistant.
+
+**Rothemund, "Folding DNA to create nanoscale shapes and patterns".** Rothemund (2006), LIT-tmp5gf89, read in NOTE-tmp8kyp2, supports the claim as a design hypothesis:
+hierarchical composition wants triangles to form at a high temperature and inter-triangle bonds only
+at a much lower one, so that formed parts act as rigid units; bonds that form while triangles are
+"partially melted, disordered and floppy" give poor structures. "These experiments are
+preliminary".
+
+**Sobczak, "Investigations of the DNA origami folding process".** Sobczak's dissertation (2018), LIT-tmpwddcn, read in part in NOTE-tmpwxm2p, supports the claim
+modestly: spurious and dye binding equilibrate fast relative to folding, and the folding assay
+relies on that separation of timescales. It does not show the fast degrees of freedom making
+structure.
+
+**Majikes et al., "Revealing thermodynamics of DNA origami folding via affine transformations".** Majikes et al. (2020), LIT-tmp0hqya, build their reporter on a separation of stability scales: anchor domains predicted to melt near 70 °C against 35 °C for the melt sub-sequence. Over the window where the fold melts, the anchor is a fixed constraint, so that "the fluorophore is unquenched only when the melt sub-sequence dehybridizes". This is weak support, by design rather than by a natural process. The separation is one of temperature, not time, so the paper leaves the claim's dynamic reading open.
+
+**Dannenberg et al. and Schneider, Möritz and Dietz, two DNA origami readings.** Mild support from both. In Dannenberg and colleagues' model (NOTE-tmpyo994) a single staple goes
+from 20 to 80% bound over about 2.5 °C while the slower ramp sets the order, and bound staples pin
+loops for later binding; Schneider, Möritz and Dietz (NOTE-tmpqi66a) find time constants clustered
+near 0.5, 30 and 300 min, with early domains constraining later binding by shortening loops. No
+timescale analysis in either shows that the separation makes the constraint.
+
+No status changes.
