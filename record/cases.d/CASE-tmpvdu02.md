@@ -19,7 +19,7 @@ illustrates:
 summary: >-
   A's design, from A's second synthesis on DNA origami, pasted by the owner
   on 2026-11-05, §§3 and 7. It varies A's earlier proposed study
-  (CASE-tmpu0s44) in two respects: routing architecture becomes a factor,
+  ([CASE-tmpu0s44](CASE-tmpu0s44.md)) in two respects: routing architecture becomes a factor,
   crossed with early stabilization, and the main measurement becomes the
   committor q(s) = Pr_s(τ_F < τ_K) of a partial structure s, the chance of
   reaching the target F before a designated failure set K. A productive
@@ -63,12 +63,12 @@ nucleus."
 
 ## What it can show
 
-- **A test for CLAIM-185.** It asks when a persistent anchor helps, and
+- **A test for [CLAIM-185](../claims.d/CLAIM-185.md).** It asks when a persistent anchor helps, and
   separates productive nuclei from early structures that entrench
-  (CLAIM-184).
+  ([CLAIM-184](../claims.d/CLAIM-184.md)).
 - **Progress is not completion.** Partial structures with equal completion
   counts but different committors. DeLuca et al.'s run that was best folded
-  at 1 s and second worst at 3.6 s (THEORY-1398) is the simulated instance.
+  at 1 s and second worst at 3.6 s ([THEORY-1398](../theory.d/THEORY-1398.md)) is the simulated instance.
 - **Done in part already.** Dunn et al. vary seam routing and measure final
   shape distributions; Schneider, Möritz and Dietz delete early segments
   and find the intermediate abolished and folding slowed by hours. These are

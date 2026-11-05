@@ -44,7 +44,7 @@ summary: >-
   abundance" is thus made exact. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpzi9gz CASE-tmpj3cmd CLAIM-tmp7y162 QUESTION-tmpg0j9y CLAIM-577 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
+<!-- inactive-ok-file: THEORY-tmpzi9gz CASE-tmpj3cmd CLAIM-tmp7y162 CLAIM-577 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
 
 # CLAIM-tmpt0fnx: Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as DNA origami's blocked single fold is by staple excess
 
@@ -68,9 +68,9 @@ target is a sum over paths of products of branch shares
    falls where the wrong step consumes more.
 3. **Relative availability.** Shifting supply between components, as
    opposed to scaling it, changes the k_i and moves the shares even where
-   every m is equal. This is A's "Guided nucleation" row (CASE-tmpj3cmd).
+   every m is equal. This is A's "Guided nucleation" row ([CASE-tmpj3cmd](../cases.d/CASE-tmpj3cmd.md)).
 
-Shown in CASE-tmpj3cmd. At A's baseline, with the trap entered from the
+Shown in [CASE-tmpj3cmd](../cases.d/CASE-tmpj3cmd.md). At A's baseline, with the trap entered from the
 nucleus by binding a further molecule and completion intramolecular, the
 yield falls from 59.3 % at λ = 1 to 19.0 % at λ = 20. If every step
 consumes alike, it stays at 59.3 %.
@@ -89,14 +89,14 @@ which changes the order of the wrong step as assembly proceeds.
 
 ## What it adds
 
-- **To QUESTION-tmpg0j9y.** Allocation and abundance act through
+- **To [QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md).** Allocation and abundance act through
   different terms: reallocation through the k_i, uniform abundance only
   through differences in m.
 - **To readiness.** Slack held as uniform surplus is not neutral. It helps
   where the productive steps draw on it, and harms where the
   counterproductive steps do, as staple excess shows. This qualifies
-  CLAIM-577's reading of excess as standing slack.
-- **To CLAIM-tmp7y162.** Both name a resource whose amount changes which
+  [CLAIM-577](CLAIM-577.md)'s reading of excess as standing slack.
+- **To [CLAIM-tmp7y162](CLAIM-tmp7y162.md).** Both name a resource whose amount changes which
   outcome is reached, not only how fast. Heat does it by changing costs;
   abundance does it by the order of the steps that draw on it.
 
