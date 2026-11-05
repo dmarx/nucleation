@@ -181,3 +181,20 @@ measured.
 **Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin, "Cooperativity, entropy, and effective concentration in DNA origami self-replication".** Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), support the claim. Separating daughter from parent requires a peak of about 50 °C, unlike the 18 °C hold at which the complex forms. A feasible cycle exists only while that peak stays below the temperature at which the tiles unravel. The authors "could barely separate tetramers". The reading leaves open how the peak requirement grows past four tiles, which the model predicts and experiment has not reached.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Cumberworth, Frenkel and Reinhardt, "Design-dependent nucleation barriers".** Supports. In simulation, reaching the folded three-row design at Tm means crossing about 10 kBT (about 20 kBT at domain resolution) above both end states, more than holding it needs. A few degrees below Tm the barrier is gone, so the reach threshold equals the hold threshold there.
+- Scheckenbach et al. (LIT-tmpzoh9c) support it in kind: restoring a kinked 12HB needed heating to 50 °C.
+- Winfree and Bekbolatov (LIT-tmp1pdwj) weakly qualify it: escaping a mismatch costs time, not a peak.
+
+Left open: the profile is a one-dimensional projection, and no kinetics are simulated.
+
+**Zhou, Sha, Ni, Seeman and Chaikin, "Mutations in artificial self-replicating tiles".**
+
+- Separating daughter from template needs 48 °C, while the configuration is formed and held at 22 °C (Zhou et al. 2021, Methods).
+- The threshold for the transition exceeds what the target needs to persist.
+
+No status changes.

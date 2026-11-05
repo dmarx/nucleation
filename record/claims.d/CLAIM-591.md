@@ -143,3 +143,11 @@ domain apart, and binding and unbinding rates depend on temperature in opposite 
 measures directed costs between configurations.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Winfree and Bekbolatov, "Proofreading tile sets".** Qualifies. The kTAM obeys detailed balance, yet the paper's kinetic-trap models treat coverage of a mismatched tile by further growth as an irreversible step at a fitted rate. A microscopically reversible system is effectively one-way at the time scales that matter, and a covered mismatch is not reached back. Left open: the freezing rates are fitted with "no strong justification" (footnote 9).
+
+No status changes.

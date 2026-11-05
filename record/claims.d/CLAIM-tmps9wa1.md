@@ -47,7 +47,7 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-566 — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: CLAIM-566 LIT-tmph8p41 — Proposed, Skimmed or new; entries cited as open -->
 
 # CLAIM-tmps9wa1: Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both show
 
@@ -74,14 +74,14 @@ is the concentration of a supply that comes entirely from outside. Then
 
 ## The molecular instances
 
-- **Self-healing from a pool.** Scheckenbach et al. 2021: labels exchange from
+- **Self-healing from a pool.** Scheckenbach et al. 2021 (NOTE-tmpmcdju): labels exchange from
   a 5 nM pool, and missing staples are refilled where the damage exposes a
   toehold. In serum, matching staples at 22.5 nM each keep 76 % intact over
   11 days, against 12 % without and 56 % with non-matching DNA. "Self‐healing
   of DNA origami is thus limited to lower damage rates". Throughout, the
   repair pool is supplied, and it was never withdrawn.
-- **Replication from supplied monomers.** Zhou et al. 2021, standing in for
-  He et al. 2017: copies template further copies, at up to about 4 per
+- **Replication from supplied monomers.** Zhou et al. 2021 (NOTE-tmp70nos), standing
+  in for He et al. 2017 (LIT-tmph8p41): copies template further copies, at up to about 4 per
   cycle, and the faster-growing species comes to dominate "independent of
   the initial seed". So the population's outcome forgets its founder.
   Monomers are replenished each cycle, and the thermal program and UV

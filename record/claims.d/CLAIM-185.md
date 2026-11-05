@@ -307,3 +307,11 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A reads this claim "with an important qualification": "Persistence makes anchoring possible; productivity requires demonstrating that the anchor improves subsequent development. A stable anchor is not necessarily a good anchor." [CLAIM-tmpiyvk1](CLAIM-tmpiyvk1.md) shows the two vary independently: a state's chance of reaching the target does not depend on how long it persists. [TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md) names what the anchor must also be, a productive nucleus, judged against a comparator. The claim's "can evolve only on anchors" is untouched; a reading of it on which every anchor helps is not.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Cumberworth, Frenkel and Reinhardt, "Design-dependent nucleation barriers".** Qualifies. In the origami simulated, a nucleation threshold is not what makes structure persist: most designs have no barrier at all and still assemble downhill. Where a barrier exists, the barrier-top cluster is a threshold for growth only near Tm. Left open: larger designs may have other barriers.
+
+No status changes.

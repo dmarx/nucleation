@@ -24,6 +24,7 @@ summary: >-
   compatible subsystem helps; this asks by which of the two routes. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpqlcgm — new; the assistant's claim on yields and routes, cited as open -->
 <!-- inactive-ok-file: TERM-tmp3awsy — Proposed, Skimmed or new; entries cited as open -->
 
 # QUESTION-tmp4jbc3: Under what conditions does a partial organization increase the probability of subsequent organization by changing the transition dynamics, rather than merely providing a more advanced initial state?
@@ -83,3 +84,20 @@ the measurement.
 - **In organizations:** whether establishing a core changes how fast other
   relations form among people outside it, against starting with the core
   already in place but inert.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Zhou, Sha, Ni, Seeman and Chaikin, "Mutations in artificial self-replicating tiles".**
+
+- In Zhou et al. (2021) the template changes the rate of daughter formation rather than giving a head start: without it "no dimer was formed".
+- The effect compounds, because daughters become templates, so the partial organization changes transition dynamics downstream.
+- Left open: what structurally separates a sterile dimer from a templated one. The paper does not say.
+
+No status changes.
+
+## Note of 2026-11-05: what equilibrium evidence can and cannot show here
+
+The assistant's reading across Cumberworth, Frenkel and Reinhardt 2022 (NOTE-tmpn2voh) and CLAIM-tmpqlcgm. Their free-energy profiles show that stacking among bound staples makes binding more favourable for staples that are not part of the first cluster, a generative mechanism in this question's sense. Equilibrium free energies fix only the ratio of a step's forward and backward rates, by detailed balance. So a nucleus that changes the equilibrium of later steps may do it by speeding their binding or by slowing their unbinding, and evidence of either kind leaves the forward hazard Δk undetermined. CLAIM-tmpqlcgm shows that yields cannot identify the route either. The measurement this question needs is therefore kinetic and per step: binding and unbinding rates of staples outside the nucleus, with and without it, at matched progress. No status changes.
+

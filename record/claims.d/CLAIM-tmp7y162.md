@@ -149,3 +149,11 @@ claim's heat-and-barrier mechanism is not what drives it. No status
 changes.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Cumberworth, Frenkel and Reinhardt, "Design-dependent nucleation barriers".** Supports from simulation. Temperature sets whether a nucleation barrier exists at all: the three-row barrier is present at Tm and "disappears after a few degrees" below it. A barrier-keeping isothermal protocol must sit in that window, as the authors propose. Left open: no kinetics or yields are simulated.
+
+No status changes.

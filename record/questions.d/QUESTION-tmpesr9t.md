@@ -47,7 +47,7 @@ follow.
 - **DNA origami nucleates, and regenerates only from supply.** Schneider,
   Möritz and Dietz's nucleus speeds folding. An earlier version of this
   entry said nothing in the origami read here repairs itself. That is wrong.
-  Scheckenbach et al. 2021, read later in this pull request, show folded
+  Scheckenbach et al. 2021 (NOTE-tmpmcdju), read later in this pull request, show folded
   origami replacing labels and missing staples from a pool of strands in
   solution, and keeping 76 % intact over 11 days in serum against 12 %. The
   parts all come from outside, and the repair stops being specific at high

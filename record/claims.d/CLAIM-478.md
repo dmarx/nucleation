@@ -365,3 +365,11 @@ The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026
 **Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), give some support. Their inter-fold cooperativity is a settled fold acting as a constraint on what follows: "the closing of one fold reduces the possible conformations available to the entire remaining scaffold". Its aggregate, the skew of first-fold penalties, predicts defectivity. No timescale separation is analysed.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Winfree and Bekbolatov, "Proofreading tile sets".** Supports. The error rate is set by the ratio of two time scales, the dissociation of a mismatched tile against its coverage by growth. The covered tile becomes a constraint on all later growth. In Scheckenbach et al. (LIT-tmpzoh9c), on the reader's reading, the unrepairable scaffold is the slow constraint against which staples exchange fast. Left open: neither varies the separation systematically.
+
+No status changes.

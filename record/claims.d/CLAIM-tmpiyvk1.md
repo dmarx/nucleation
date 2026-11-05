@@ -123,3 +123,11 @@ From the fourth synthesis on DNA origami by another assistant (A), "Predicting w
 A's fourth synthesis proposes the claim in a fuller form: "equally persistent intermediate structures can differ in their probability of reaching a target before failure; and strengthening an intermediate can increase initial formation while reducing final yield." The first half is this claim. The second is shown by A's stabilization toy ([CASE-tmpli7gt](../cases.d/CASE-tmpli7gt.md)): yield peaks at s ≈ 1.11 with 40.2 %, and falls beyond as nucleation rises and completion falls. A: "The interpretation in terms of organizational development remains a separate claim."
 
 No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Winfree and Bekbolatov, "Proofreading tile sets".** Supports in kind. The paper's error rate is a committor in an absorbing Markov chain: "the probability that, starting in E, the system reaches F M". Proofreading lowers it by changing where exits lead, since every path to a mismatch needs two unfavourable steps, not by lengthening residence. Left open: residence times are not held equal, so the claim's independence is not tested directly.
+
+No status changes.

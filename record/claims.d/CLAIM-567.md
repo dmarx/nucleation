@@ -264,3 +264,21 @@ objects of the off-target-prone variants are well folded, and the cause of the f
 observed.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Winfree and Bekbolatov, "Proofreading tile sets"; Scheckenbach et al., "Self-regeneration and self-healing".** Both separate reachable from reliably reached.
+- In Winfree and Bekbolatov (LIT-tmp1pdwj), the direct and proofreading tile sets reach the same target in the aTAM, but with 1 % against 0.01 % error at the same kTAM conditions.
+- In Scheckenbach et al. (LIT-tmpzoh9c), repair of a 12HB missing nine staples brings about half the defective structures back to intact (63 % → 32 % defective): reachable, not reliably reached.
+
+Left open: neither gives the reliability as a function of resource.
+
+**Zhou, Sha, Ni, Seeman and Chaikin, "Mutations in artificial self-replicating tiles".**
+
+- The target dimer is feasible without a seed, yet in the cycle "no dimer was formed without the seed" (Zhou et al. 2021, Fig. 3C). Feasibility is not reachability.
+- The one-sided design's ceiling of 2 per cycle is reached only in part (1.6 in the mixed run), so reaching is not reliable.
+- Left open: how the unseeded rate (0.0007 dimers/monomer cycle) scales.
+
+No status changes.

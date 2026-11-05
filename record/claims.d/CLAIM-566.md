@@ -50,6 +50,7 @@ summary: >-
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmph8p41 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
 <!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1398 — Proposed; the account of DeLuca et al., cited as filed, nothing here rests on its being settled -->
 
@@ -160,5 +161,25 @@ No status changes.
 From the second synthesis on DNA origami by another assistant (A), pasted by the owner on 2026-11-05.
 
 A splits the life cycle into yield Y_T, survival S_τ and restoration G_τ by τ after specified component turnover, and notes that templated self-replication "in a supplied chemical environment is still not, by itself, sufficient" for closure. Ni et al. 2026 ([NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)) suggest one more distinction, read by the assistant from their system. Replication, more copies made from fresh supplied parts, is not regeneration after turnover. Their origami copies tile patterns at about 1.9 copies per cycle for dimers. The tiles, the temperature program, the UV crosslink and the splitting of the sample are all supplied from outside, and nothing repairs a damaged copy. So a system can replicate without regenerating, a fourth property beside the claim's three. The wording of that distinction is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+No status changes.
+
+## Note of 2026-11-05: the readings on correction, repair, replication and nucleation barriers
+
+Read at the owner's invitation to add readings to the DNA origami filing; the works were chosen by the assistant.
+
+**Winfree and Bekbolatov, "Proofreading tile sets"; Scheckenbach et al., "Self-regeneration and self-healing in DNA origami".** Two readings support the claim's separation of assembling, persisting and regenerating.
+- In Winfree and Bekbolatov's kTAM simulations (LIT-tmp1pdwj), corrected assembly, persistence of the frozen crystal and refilling of a puncture are distinct behaviours. Refilling is imperfect ("scar tissue").
+- Scheckenbach et al. (LIT-tmpzoh9c) show folded origami regenerating in the paper's sense. Labels recover to full brightness after bleaching, and a matching staple pool keeps 76 % of nanorulers intact over 11 days in 0.2 % serum, against 12 % without.
+
+In both, every replacement part is supplied from solution and the structure produces none of its constraints. This is regeneration without closure in the sense of TERM-070. Repair fails above a damage rate (10 % serum) and never reaches the scaffold. Left open: whether either structure keeps its form once the supply is withdrawn, which neither tests.
+
+**Zhou, Sha, Ni, Seeman and Chaikin, "Mutations in artificial self-replicating tiles".**
+
+- Zhou et al. (2021, LIT-tmpb87sq, NOTE-tmp70nos) stand in for the unread He et al. (2017, LIT-tmph8p41).
+- They show a templated origami replicator multiplying and then selecting among multipliers by growth rate: a mutant reaches parity in five cycles and dominates after nine.
+- Nothing in it regenerates a member after turnover. Parents persist as templates, and sterile, untemplated dimers accumulate and are never removed or repaired. Every enabling condition is supplied each cycle: monomers, 48 °C and 22 °C steps, UV.
+- This supports the fourth property: replication, even with selection, is not regeneration.
+- Left open: whether any templated system can be made to restore its own members.
 
 No status changes.
