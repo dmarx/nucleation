@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp8m06t) from the arXiv v2 PDF; worth
+  read in full 2026-11-05 ([NOTE-tmp8m06t](../notes.d/NOTE-tmp8m06t.md)) from the arXiv v2 PDF; worth
   reading as a single classification of when the geometric rigidity tests
   (first-order rigidity, that is constraint counting, second-order
   rigidity, the shear modulus) imply energetic rigidity, in which every
@@ -72,7 +72,7 @@ Damavandi, O. K., Hagh, V. F., Santangelo, C. D. & Manning, M. L. (2022). Energe
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp8m06t. Sections are the arXiv v2's.*
+*From the reading, [NOTE-tmp8m06t](../notes.d/NOTE-tmp8m06t.md). Sections are the arXiv v2's.*
 
 - **Counting needs no self-stress.** "We find that constraint counting
   robustly predicts energetic rigidity only when the system has no states
@@ -98,5 +98,5 @@ arguing for energy-based rigidity beside the geometric criteria; the paper
 puts it more strongly, as "a more useful notion of rigidity in practice".
 It is the work in this batch that actually states that states of
 self-stress come from redundant constraints, the point the synthesis
-attributes to Rocks and Mehta (LIT-tmpx12go). Filed from it:
-THEORY-tmpqmcmz. No instruction for machine-learning practice.
+attributes to Rocks and Mehta ([LIT-tmpx12go](LIT-tmpx12go.md)). Filed from it:
+[THEORY-tmpqmcmz](../theory.d/THEORY-tmpqmcmz.md). No instruction for machine-learning practice.

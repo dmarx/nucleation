@@ -18,7 +18,7 @@ date: '2026-11-05'
 source:
 - LIT-tmplpuzc
 summary: >-
-  Connelly and Whiteley (1996), LIT-tmplpuzc, read in part in NOTE-tmphcgif
+  Connelly and Whiteley (1996), [LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md), read in part in [NOTE-tmphcgif](../notes.d/NOTE-tmphcgif.md)
   (§§1–3, 4.4, 5.1–5.2 and 6 in full; the proof of Theorem 4.3.1 and the
   later examples skipped). Proposed: the hierarchy and the stress test are
   stated in the abstract and the sections read, but the main proof was not
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Connelly and Whiteley (1996), LIT-tmplpuzc; read in part in NOTE-tmphcgif.
+Connelly and Whiteley (1996), [LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md); read in part in [NOTE-tmphcgif](../notes.d/NOTE-tmphcgif.md).
 
 ## What was actually shown
 

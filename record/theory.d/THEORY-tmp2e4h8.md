@@ -18,7 +18,7 @@ source:
 - LIT-tmpchla8
 summary: >-
   Chen, Liu, Evans, Paulose, Cohen, Vitelli and Santangelo (2016; arXiv
-  2015), LIT-tmpchla8, read in full in NOTE-tmpztu5h. Proposed: the strip
+  2015), [LIT-tmpchla8](../literature.d/LIT-tmpchla8.md), read in full in [NOTE-tmpztu5h](../notes.d/NOTE-tmpztu5h.md). Proposed: the strip
   result has the authors' own experiment, but the domain-wall result is
   numerical and the 2D origami claim is a conjecture on numerics. It does
   not say that joining rigid parts creates freedom in general: equal
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Chen, Liu, Evans, Paulose, Cohen, Vitelli and Santangelo (2016; arXiv v1 2015-08-04), LIT-tmpchla8; read in NOTE-tmpztu5h.
+Chen, Liu, Evans, Paulose, Cohen, Vitelli and Santangelo (2016; arXiv v1 2015-08-04), [LIT-tmpchla8](../literature.d/LIT-tmpchla8.md); read in [NOTE-tmpztu5h](../notes.d/NOTE-tmpztu5h.md).
 
 ## What was actually shown
 

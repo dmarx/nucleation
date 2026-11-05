@@ -12,11 +12,11 @@ status_note: >-
   DSpace@MIT search was refused by a "Web Firewall · 429" page and not
   retried; OpenAlex was unavailable (daily budget exhausted); Unpaywall
   was not used, since it requires an email address. Partial stand-ins,
-  read: the first author's master's thesis, LIT-tmp5bp7f, which this
+  read: the first author's master's thesis, [LIT-tmp5bp7f](LIT-tmp5bp7f.md), which this
   paper condenses (the same principles: reciprocity, redundancy, the 26
   types for ideal constraints, the design steps); his PhD thesis,
-  LIT-tmp9cusv, whose §1.2 restates the principles; and Hopkins (2013),
-  LIT-tmpiwn6g, which restates them and cites this paper for them. None
+  [LIT-tmp9cusv](LIT-tmp9cusv.md), whose §1.2 restates the principles; and Hopkins (2013),
+  [LIT-tmpiwn6g](LIT-tmpiwn6g.md), which restates them and cites this paper for them. None
   confirms the paper's own wording, any revision to the count or the
   procedure, or its figures. It stays Unfetched until it is read, not on
   merit.
@@ -64,7 +64,7 @@ summary: >-
   cite it, the journal statement of the principles of Freedom and
   Constraint Topology for synthesizing parallel flexure systems with
   several degrees of freedom, condensing the first author's 2007 master's
-  thesis, LIT-tmp5bp7f. Here because the pasted synthesis on constraint
+  thesis, [LIT-tmp5bp7f](LIT-tmp5bp7f.md). Here because the pasted synthesis on constraint
   architectures cites it as a source for FACT.
 ---
 <!-- inactive-ok-file: NOTE-tmpla9de NOTE-tmpnscd2 — Skimmed and new; the readings of the stand-ins, cited as open -->
@@ -83,12 +83,12 @@ Hopkins, J. B. & Culpepper, M. L. (2010). Synthesis of multi-degree of freedom, 
 The pasted synthesis on constraint architectures cites it among its FACT
 sources and attributes nothing to it beyond the bibliography. Until it is
 read, three stand-ins carry the framework it is cited for, each only in
-part. The master's thesis, LIT-tmp5bp7f (NOTE-tmpla9de), is the work it
+part. The master's thesis, [LIT-tmp5bp7f](LIT-tmp5bp7f.md) ([NOTE-tmpla9de](../notes.d/NOTE-tmpla9de.md)), is the work it
 condenses, by the same authors with the same scope: it states the
 reciprocity of freedom and constraint spaces, the definition of
 redundancy, the 26 types for ideal pure-force constraints and the design
-steps. The PhD thesis, LIT-tmp9cusv (NOTE-tmpnscd2), restates the
-principles in its §1.2. Hopkins (2013), LIT-tmpiwn6g, restates the
+steps. The PhD thesis, [LIT-tmp9cusv](LIT-tmp9cusv.md) ([NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md)), restates the
+principles in its §1.2. Hopkins (2013), [LIT-tmpiwn6g](LIT-tmpiwn6g.md), restates the
 parallel principles in its §§2.1–2.3 and cites this paper for them.
 Which of this paper's own results they state is unknown, since the paper
 was not seen.

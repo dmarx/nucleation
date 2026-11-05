@@ -119,8 +119,8 @@ the local count balances.
 It supplies the topological account of the boundary modes Sun et al.
 (2012) found in twisted kagome. Its relation ν = dim ker Qᵀ − dim ker Q
 is the classical Maxwell–Calladine identity in the equilibrium-matrix
-convention, the transpose of Rocks and Mehta's (LIT-tmpx12go). Chen et al.
-(LIT-tmpchla8, read in NOTE-tmpztu5h) carry the topological polarization
+convention, the transpose of Rocks and Mehta's ([LIT-tmpx12go](../literature.d/LIT-tmpx12go.md)). Chen et al.
+([LIT-tmpchla8](../literature.d/LIT-tmpchla8.md), read in [NOTE-tmpztu5h](NOTE-tmpztu5h.md)) carry the topological polarization
 to origami and kirigami.
 
 ## Bearing on the record
@@ -140,12 +140,12 @@ to origami and kirigami.
   On A's Maxwell–Calladine statement: ν = dim ker Qᵀ − dim ker Q = dNs −
   Nb is A's identity with Q = Rᵀ, and the paper's "valid for
   infinitesimal distortions" supports A's caveat.
-- **CLAIM-480** (composing interactions can turn an interior into an
+- **[CLAIM-480](../claims.d/CLAIM-480.md)** (composing interactions can turn an interior into an
   effective constraint). Qualifies: here composing two gapped, locally
   balanced phases creates at their interface a freedom, or a stress, that
   neither bulk has. Interconnection can create effective freedoms as well
   as effective constraints.
-- **CLAIM-495 and THEORY-1082** (global sections of a graph connection as
+- **[CLAIM-495](../claims.d/CLAIM-495.md) and [THEORY-1082](../theory.d/THEORY-1082.md)** (global sections of a graph connection as
   vectors fixed by every holonomy; phase relations solvable iff each
   cycle's phase vanishes). Qualifies, loosely, as an analogy only. Both
   count kernel dimensions of a structured linear map from topological
@@ -153,9 +153,9 @@ to origami and kirigami.
   record's results concern global sections on a finite graph, and this is
   an index, kernel minus cokernel, with a bulk–boundary correspondence. A
   did not cite these codes for this work.
-- **CLAIM-347 and TERM-060** (frustration). Unrelated in content: the
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [TERM-060](../terms.d/TERM-060.md)** (frustration). Unrelated in content: the
   self-stresses here are linear-algebraic, not conflicts of demands.
-- Filed: THEORY-tmpmju6r. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpmju6r](../theory.d/THEORY-tmpmju6r.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

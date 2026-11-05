@@ -14,7 +14,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp5bp7f
 summary: >-
-  Hopkins (2007), LIT-tmp5bp7f, read in part in NOTE-tmpla9de (the
+  Hopkins (2007), [LIT-tmp5bp7f](../literature.d/LIT-tmp5bp7f.md), read in part in [NOTE-tmpla9de](../notes.d/NOTE-tmpla9de.md) (the
   argument chapters; the case-by-case derivation of the types, chs. 7–8,
   was not read). Proposed: the reciprocity is standard screw theory and
   the one-to-one link is shown in §5.3, but the count of 26 rests on an
@@ -30,8 +30,8 @@ summary: >-
 ## Source
 
 Hopkins, *Design of Parallel Flexure Systems via Freedom and Constraint
-Topologies (FACT)*, MIT S.M. thesis (2007), LIT-tmp5bp7f; read in
-NOTE-tmpla9de (abstract, chs. 1–3 in part, 5, 9, §10.1, 11).
+Topologies (FACT)*, MIT S.M. thesis (2007), [LIT-tmp5bp7f](../literature.d/LIT-tmp5bp7f.md); read in
+[NOTE-tmpla9de](../notes.d/NOTE-tmpla9de.md) (abstract, chs. 1–3 in part, 5, 9, §10.1, 11).
 
 ## What was actually shown
 
@@ -53,7 +53,7 @@ NOTE-tmpla9de (abstract, chs. 1–3 in part, 5, 9, §10.1, 11).
 
 - That 26 types exhaust all flexure systems. They are for ideal pure-force
   constraints; with wrenches of any pitch "Case 3, therefore, has at least
-  11 types." (§9.4, p. 299). The PhD thesis, LIT-tmp9cusv, counts 50.
+  11 types." (§9.4, p. 299). The PhD thesis, [LIT-tmp9cusv](../literature.d/LIT-tmp9cusv.md), counts 50.
 - Anything about serial or hybrid systems, which can have freedoms no
   parallel system has.
 - Anything about stiffness, dynamics or actuation: "The elasto-mechanics

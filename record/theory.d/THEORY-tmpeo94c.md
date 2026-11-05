@@ -18,7 +18,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp9cusv
 summary: >-
-  Hopkins (2010), LIT-tmp9cusv, read in part in NOTE-tmpnscd2 (chs. 1, 2.1–2.2,
+  Hopkins (2010), [LIT-tmp9cusv](../literature.d/LIT-tmp9cusv.md), read in part in [NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md) (chs. 1, 2.1–2.2,
   4.1–4.4, 4.7 and 5; the type catalogue, ch. 3, and the stiffness-matrix
   derivation, §§4.5–4.6, were not read). Proposed: the 50-type count rests
   on a catalogue and appendix not read, the thesis is not peer reviewed,
@@ -35,7 +35,7 @@ summary: >-
 
 Hopkins, *Design of Flexure-based Motion Stages for Mechatronic Systems
 via Freedom, Actuation and Constraint Topologies (FACT)*, MIT Ph.D.
-thesis (2010), LIT-tmp9cusv; read in NOTE-tmpnscd2.
+thesis (2010), [LIT-tmp9cusv](../literature.d/LIT-tmp9cusv.md); read in [NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md).
 
 ## What was actually shown
 

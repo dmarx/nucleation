@@ -17,8 +17,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp925so
 summary: >-
-  Damavandi, Hagh, Santangelo and Manning (2022; arXiv 2021), LIT-tmp925so,
-  read in full in NOTE-tmp8m06t. Proposed: a single paper's derivations,
+  Damavandi, Hagh, Santangelo and Manning (2022; arXiv 2021), [LIT-tmp925so](../literature.d/LIT-tmp925so.md),
+  read in full in [NOTE-tmp8m06t](../notes.d/NOTE-tmp8m06t.md). Proposed: a single paper's derivations,
   with the hardest case left open by the authors. It does not say that a
   system with states of self-stress is never energetically rigid, nor that
   the shear modulus measures rigidity; and it covers Hookean energies only.
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Damavandi, Hagh, Santangelo and Manning (2022; arXiv v1 2021-02-22), LIT-tmp925so; read in NOTE-tmp8m06t.
+Damavandi, Hagh, Santangelo and Manning (2022; arXiv v1 2021-02-22), [LIT-tmp925so](../literature.d/LIT-tmp925so.md); read in [NOTE-tmp8m06t](../notes.d/NOTE-tmp8m06t.md).
 
 ## What was actually shown
 

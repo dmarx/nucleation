@@ -135,9 +135,9 @@ where self-stresses appear.
 ## Connections
 
 It takes its rigidity hierarchy and the notion of prestress stability from
-Connelly and Whiteley (LIT-tmplpuzc, read in part in NOTE-tmphcgif), and
+Connelly and Whiteley ([LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md), read in part in [NOTE-tmphcgif](NOTE-tmphcgif.md)), and
 asks which of its rungs reach the energetic notion. Rocks and Mehta
-(LIT-tmpx12go) work at linear order in the same Hookean setting. Part II,
+([LIT-tmpx12go](../literature.d/LIT-tmpx12go.md)) work at linear order in the same Hookean setting. Part II,
 cited as [39], applies the theory to spring networks under tension and to
 vertex models; not read.
 
@@ -159,35 +159,35 @@ vertex models; not read.
     and dynamics select the non-generic configurations where rank drops and
     self-stresses appear.
   - **On redundant constraints and self-stress.** The synthesis attributes
-    to Rocks and Mehta (LIT-tmpx12go) the point that redundant constraints
+    to Rocks and Mehta ([LIT-tmpx12go](../literature.d/LIT-tmpx12go.md)) the point that redundant constraints
     can create states of self-stress; that sentence is A's paraphrase and
     not in their paper. This paper is the one that says it: states of self
     stress "arise from redundant constraints". It also qualifies it: a
     self-stress need not carry load. Its existence is geometric, and
     whether the system is prestressed along it depends on rest lengths and
-    external forcing. Connelly and Whiteley (LIT-tmplpuzc, Remark 6.2.1)
+    external forcing. Connelly and Whiteley ([LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md), Remark 6.2.1)
     give a stronger instance.
-- **CLAIM-079** (stability does not entail viability). Qualifies, as an
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability). Qualifies, as an
   analogy only. The paper separates constraints preserved (structural)
   from energy raised (energetic) and shows each can hold without the other
   under prestress, a two-notion gap of the claim's logical shape; but the
   claim is about dynamical viability, not local rigidity.
-- **CLAIM-347 and TERM-060** (frustration as joint unrealizability,
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [TERM-060](../terms.d/TERM-060.md)** (frustration as joint unrealizability,
   ordinal before quantitative). Qualifies. The existence of a self-stress
   is a geometric, structural fact; the prestress carried is energetic and
   selected by forcing. That separation of existence from load sits close
   to the record's line between ordinal frustration and its quantity, and
   supports A's statement that structural and mechanical frustration are
   not interchangeable.
-- **CLAIM-345** (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md)** (equal controllability rank does not fix the cost of
   control). Supports, by analogy only: equal first-order counts do not fix
   energetic stiffness; G can be zero in an energetically rigid system
   (Case 2A) and positive in others.
-- **CLAIM-025** (regime, organization and capacity to transform persist or
+- **[CLAIM-025](../claims.d/CLAIM-025.md)** (regime, organization and capacity to transform persist or
   fail separately). Unrelated: the floppy–rigid toggle is a mechanical
   route, not a claim about separable persistence.
-- **CLAIM-365**. Unrelated.
-- Filed: THEORY-tmpqmcmz. No instruction for machine-learning practice;
+- **[CLAIM-365](../claims.d/CLAIM-365.md)**. Unrelated.
+- Filed: [THEORY-tmpqmcmz](../theory.d/THEORY-tmpqmcmz.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

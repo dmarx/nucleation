@@ -17,11 +17,11 @@ date: '2026-11-05'
 source:
 - LIT-tmpiwn6g
 summary: >-
-  Hopkins (2013), LIT-tmpiwn6g, read in full in NOTE-tmpdewq8. Proposed:
+  Hopkins (2013), [LIT-tmpiwn6g](../literature.d/LIT-tmpiwn6g.md), read in full in [NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md). Proposed:
   the rules follow from linear reciprocity of screw spaces and are stated
   with design examples, but there is no experiment and no independent
   check, and the library's completeness rests on Hopkins (2010),
-  LIT-tmp9cusv. It excludes interconnected limbs, is kinematic only, and
+  [LIT-tmp9cusv](../literature.d/LIT-tmp9cusv.md). It excludes interconnected limbs, is kinematic only, and
   its over-constraint test says nothing of misfit stress.
 ---
 
@@ -30,8 +30,8 @@ summary: >-
 ## Source
 
 Hopkins, "Designing hybrid flexure systems and elements using Freedom and
-Constraint Topologies", *Mechanical Sciences* 4 (2013), LIT-tmpiwn6g;
-read in NOTE-tmpdewq8.
+Constraint Topologies", *Mechanical Sciences* 4 (2013), [LIT-tmpiwn6g](../literature.d/LIT-tmpiwn6g.md);
+read in [NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md).
 
 ## What was actually shown
 

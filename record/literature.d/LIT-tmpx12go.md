@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp26zlk) from the arXiv v2 PDF, main text in
+  read 2026-11-05 ([NOTE-tmp26zlk](../notes.d/NOTE-tmp26zlk.md)) from the arXiv v2 PDF, main text in
   full, appendices skipped but for Appendix A's assumptions; worth reading
   as a generalization of the Maxwell–Calladine index theorem stated in
   elastic susceptibilities rather than in the compatibility matrix alone,
@@ -69,7 +69,7 @@ Rocks, J. W. & Mehta, P. (2024). Integrating local energetics into Maxwell-Calla
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp26zlk. Sections are the arXiv v2's.*
+*From the reading, [NOTE-tmp26zlk](../notes.d/NOTE-tmp26zlk.md). Sections are the arXiv v2's.*
 
 - **The classical count's blind spot.** "its exclusive reliance on the
   geometric relationships between constraints and degrees of freedom
@@ -97,6 +97,6 @@ are Theorem 1, the symmetry theorem and the use of prestress to steer
 which force excites a mechanism. The synthesis also credits it with the
 point that redundant constraints can create states of self-stress; the
 paper does not say this (the word "redundant" does not occur in it).
-Damavandi et al. (LIT-tmp925so) state it, and Connelly and Whiteley
-(LIT-tmplpuzc) give a stronger instance. Filed from it: THEORY-tmpo2kzn.
+Damavandi et al. ([LIT-tmp925so](LIT-tmp925so.md)) state it, and Connelly and Whiteley
+([LIT-tmplpuzc](LIT-tmplpuzc.md)) give a stronger instance. Filed from it: [THEORY-tmpo2kzn](../theory.d/THEORY-tmpo2kzn.md).
 No instruction for machine-learning practice.

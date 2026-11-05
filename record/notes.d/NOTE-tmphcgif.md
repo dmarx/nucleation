@@ -134,9 +134,9 @@ any one of them.
 
 It builds on the first-order theory of tensegrities, citing Roth and
 Whiteley for it, and corrects Pellegrino and Calladine's engineering
-test. Damavandi et al. (LIT-tmp925so, read in NOTE-tmp8m06t) take the
+test. Damavandi et al. ([LIT-tmp925so](../literature.d/LIT-tmp925so.md), read in [NOTE-tmp8m06t](NOTE-tmp8m06t.md)) take the
 definition of prestress stability from it and ask when these geometric
-notions imply energetic rigidity. Rocks and Mehta (LIT-tmpx12go) stay at
+notions imply energetic rigidity. Rocks and Mehta ([LIT-tmpx12go](../literature.d/LIT-tmpx12go.md)) stay at
 linear order and point to this theory for what lies beyond.
 
 ## Bearing on the record
@@ -158,32 +158,32 @@ linear order and point to this theory for what lies beyond.
     first-order rigid (§3.5). The failure runs one way only: first-order
     rigidity does imply rigidity.
   - **On redundant constraints and self-stress.** The synthesis attributes
-    to Rocks and Mehta (LIT-tmpx12go) the point that redundant
+    to Rocks and Mehta ([LIT-tmpx12go](../literature.d/LIT-tmpx12go.md)) the point that redundant
     constraints can create states of self-stress rather than simply
     eliminating freedoms; that is A's paraphrase and not in their paper.
     The §6.2 example here is a stronger instance: members made bars left a
     first-order freedom in place and brought in new proper self-stresses,
     and with them the framework became prestress stable, so rigid.
     Constraints can rigidify through self-stress at second order without
-    removing any first-order freedom. Damavandi et al. (LIT-tmp925so) give
+    removing any first-order freedom. Damavandi et al. ([LIT-tmp925so](../literature.d/LIT-tmp925so.md)) give
     the plain statement.
-- **CLAIM-365** (the frustration residual equals a maximum over the
+- **[CLAIM-365](../claims.d/CLAIM-365.md)** (the frustration residual equals a maximum over the
   simplex, a certificate of joint infeasibility). Qualifies, by analogy
   only. The second-order stress test is a structurally parallel duality:
   a first-order flex fails to extend exactly when a proper self-stress
   certifies it, p′ᵀΩp′ > 0, the self-stresses playing the multipliers'
   part. Both are Farkas alternatives; no result is shared.
-- **CLAIM-538** (tolerance compatibility on a graph holds iff no cycle's
+- **[CLAIM-538](../claims.d/CLAIM-538.md)** (tolerance compatibility on a graph holds iff no cycle's
   holonomy exceeds its tolerances, proved by Farkas). Qualifies, by the
   same analogy: another certificate that is a Farkas alternative.
-- **CLAIM-347** (frustration as an ordinal complex of jointly satisfiable
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (frustration as an ordinal complex of jointly satisfiable
   demands). Qualifies. Here whether constraints can be met to second
   order depends on the whole cone of proper self-stresses, a positivity
   condition, cardinal rather than ordinal. It sits beside the claim's
   ordinal complex as a different layer, not as a refinement of it.
-- **CLAIM-079** (stability does not entail viability). Unrelated: the
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability). Unrelated: the
   paper's stability is local rigidity, not dynamical persistence.
-- Filed: THEORY-tmpelyg5. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpelyg5](../theory.d/THEORY-tmpelyg5.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

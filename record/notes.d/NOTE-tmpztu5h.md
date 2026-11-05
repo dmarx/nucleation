@@ -119,11 +119,11 @@ soft, or stressed, though nothing local has changed.
 ## Connections
 
 It applies the topological polarization of Kane and Lubensky
-(LIT-tmpldjyt, read in NOTE-tmpp5rni) to folded structures, and its
+([LIT-tmpldjyt](../literature.d/LIT-tmpldjyt.md), read in [NOTE-tmpp5rni](NOTE-tmpp5rni.md)) to folded structures, and its
 second-order treatment of the flat state answers to the prestress and
-second-order rigidity theory of Connelly and Whiteley (LIT-tmplpuzc). It
+second-order rigidity theory of Connelly and Whiteley ([LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md)). It
 is a candidate independent case for Kane and Lubensky's account,
-THEORY-tmpmju6r: the boundary modes it finds come from the topological
+[THEORY-tmpmju6r](../theory.d/THEORY-tmpmju6r.md): the boundary modes it finds come from the topological
 term.
 
 ## Bearing on the record
@@ -145,9 +145,9 @@ term.
   in the batch. At the flat state the count finds extra zero modes "at
   linear order which do not extend to higher order".
 - **On redundant constraints and self-stress.** The synthesis credits
-  Rocks and Mehta (LIT-tmpx12go) with the point that redundant
+  Rocks and Mehta ([LIT-tmpx12go](../literature.d/LIT-tmpx12go.md)) with the point that redundant
   constraints can create states of self-stress; that is A's paraphrase,
-  not in their paper, and Damavandi et al. (LIT-tmp925so) are the work
+  not in their paper, and Damavandi et al. ([LIT-tmp925so](../literature.d/LIT-tmp925so.md)) are the work
   that says it. Here redundant constraints, the coplanar hinges, produce
   spurious linear zero modes instead: the other side of the index
   identity, since at a degenerate configuration the rank drops and both
@@ -159,21 +159,21 @@ term.
   locally balanced the opposite pairing gives stress, not freedom. A
   conditional answer is available; a blanket expectation that coupling
   rigid parts creates freedom is not.
-- **CLAIM-480** (composing interactions can turn an interior into a
+- **[CLAIM-480](../claims.d/CLAIM-480.md)** (composing interactions can turn an interior into a
   constraint). Qualifies: composing two rigid kirigami phases produces an
   effective freedom at the interface, or an effective stress line.
   Composition can create freedoms as well as constraints.
-- **CLAIM-478** (scale separation makes effective constraints). Unrelated
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (scale separation makes effective constraints). Unrelated
   in content; the nearest point is the experiment's uniform bending mode,
   a suppressed freedom that matters at small γ, which the paper does not
   frame that way.
-- **CLAIM-495, CLAIM-538 and THEORY-1082** (holonomy and zero modes on
+- **[CLAIM-495](../claims.d/CLAIM-495.md), [CLAIM-538](../claims.d/CLAIM-538.md) and [THEORY-1082](../theory.d/THEORY-1082.md)** (holonomy and zero modes on
   graphs). Loose analogues only: the strip's u(j+1) = κu(j) is a
   multiplier along a chain, not a cycle holonomy.
-- **CLAIM-347, CLAIM-357, CLAIM-185, CLAIM-025, CLAIM-523, CLAIM-545,
-  TERM-064, TERM-070 and QUESTION-090**, cited by A near this work.
+- **[CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-357](../claims.d/CLAIM-357.md), [CLAIM-185](../claims.d/CLAIM-185.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-545](../claims.d/CLAIM-545.md),
+  [TERM-064](../terms.d/TERM-064.md), [TERM-070](../terms.d/TERM-070.md) and [QUESTION-090](../questions.d/QUESTION-090.md)**, cited by A near this work.
   Unrelated to this paper.
-- Filed: THEORY-tmp2e4h8. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp2e4h8](../theory.d/THEORY-tmp2e4h8.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

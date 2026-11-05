@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpp5rni) from the arXiv v2 PDF, main
+  read in full 2026-11-05 ([NOTE-tmpp5rni](../notes.d/NOTE-tmpp5rni.md)) from the arXiv v2 PDF, main
   text and supplementary proof; worth reading as the paper that connects
   isostatic mechanics to topological band theory: a local index theorem
   in which the zero-mode count of a region is a local count of sites and
@@ -69,7 +69,7 @@ Kane, C. L. & Lubensky, T. C. (2014). Topological boundary modes in isostatic la
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpp5rni.*
+*From the reading, [NOTE-tmpp5rni](../notes.d/NOTE-tmpp5rni.md).*
 
 - **Counting is incomplete.** "Maxwell’s count is incomplete, though,
   because N0 can exceed dNs − Nb if there are Nss states of self-stress",
@@ -95,6 +95,6 @@ boundary zero modes in marginal lattices predicted from the bulk; it
 leaves out that the count has a local term as well as a topological one,
 that domain walls bind states of self-stress as well as floppy modes, and
 that the boundary modes were known before (Sun et al. 2012) and this paper
-gave their topological account. Chen et al. (LIT-tmpchla8) carry the
+gave their topological account. Chen et al. ([LIT-tmpchla8](LIT-tmpchla8.md)) carry the
 topological polarization to origami and kirigami. Filed from it:
-THEORY-tmpmju6r. No instruction for machine-learning practice.
+[THEORY-tmpmju6r](../theory.d/THEORY-tmpmju6r.md). No instruction for machine-learning practice.

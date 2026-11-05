@@ -16,10 +16,10 @@ date: '2026-11-05'
 source:
 - LIT-tmpldjyt
 summary: >-
-  Kane and Lubensky (2014; arXiv 2013), LIT-tmpldjyt, read in full in
-  NOTE-tmpp5rni, the supplementary proof included. Proposed: the theorem
+  Kane and Lubensky (2014; arXiv 2013), [LIT-tmpldjyt](../literature.d/LIT-tmpldjyt.md), read in full in
+  [NOTE-tmpp5rni](../notes.d/NOTE-tmpp5rni.md), the supplementary proof included. Proposed: the theorem
   is proved and the two models agree with it; an independent case is what
-  promotion asks. Chen et al. (LIT-tmpchla8), read in this batch, apply
+  promotion asks. Chen et al. ([LIT-tmpchla8](../literature.d/LIT-tmpchla8.md)), read in this batch, apply
   the topological polarization to an origami strip and to kirigami and
   are a candidate. It does not say that every boundary mode is
   topological, or that the linear zero modes extend to finite motions.
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Kane and Lubensky (2014; arXiv v1 2013-08-02), LIT-tmpldjyt; read in NOTE-tmpp5rni.
+Kane and Lubensky (2014; arXiv v1 2013-08-02), [LIT-tmpldjyt](../literature.d/LIT-tmpldjyt.md); read in [NOTE-tmpp5rni](../notes.d/NOTE-tmpp5rni.md).
 
 ## What was actually shown
 
@@ -50,7 +50,7 @@ Kane and Lubensky (2014; arXiv v1 2013-08-02), LIT-tmpldjyt; read in NOTE-tmpp5r
 
 - That every boundary mode is topological: the local term contributes too.
 - That interfaces always create freedom: the opposite orientation binds
-  states of self-stress (THEORY-tmp2e4h8 finds the same in kirigami).
+  states of self-stress ([THEORY-tmp2e4h8](THEORY-tmp2e4h8.md) finds the same in kirigami).
 - That the zero modes survive beyond infinitesimal distortions.
 - That the count is defined without a bulk gap and a gauge choice of unit
   cell.

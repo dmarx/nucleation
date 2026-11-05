@@ -115,22 +115,22 @@ by counting.
 
 ## Connections
 
-- **For the Handbook chapter, LIT-tmpvev12 (unfetched).** It restates the
+- **For the Handbook chapter, [LIT-tmpvev12](../literature.d/LIT-tmpvev12.md) (unfetched).** It restates the
   FACT synthesis that chapter's title names: the duality, 6 − n = m, the
   50-type library and the Parallel Pyramid, the parallel and serial
   combination rules, step-by-step parallel and serial synthesis, and the
   exact/over/under-constraint tests. It cannot say whether the chapter
   covers hybrid systems or actuation spaces, how many steps it gives, or
   what case studies it uses.
-- **For Hopkins & Culpepper (2010), LIT-tmpf26t2 (unfetched).** It restates
+- **For Hopkins & Culpepper (2010), [LIT-tmpf26t2](../literature.d/LIT-tmpf26t2.md) (unfetched).** It restates
   the parallel principles (§§2.1–2.3) and cites "Hopkins and Culpepper,
   2010" for them; which of that paper's own results it restates is
   unknown, as that paper was not seen.
-- **For Archer & Hopkins (2024), LIT-tmpf0img (unfetched).** The
+- **For Archer & Hopkins (2024), [LIT-tmpf0img](../literature.d/LIT-tmpf0img.md) (unfetched).** The
   predecessor: it states the parallel, serial and non-interconnected
   hybrid rules that paper extends, and none of its results on
   interconnected mechanisms, which it marks as future work.
-- It extends the PhD thesis, LIT-tmp9cusv (NOTE-tmpnscd2), whose 50-type
+- It extends the PhD thesis, [LIT-tmp9cusv](../literature.d/LIT-tmp9cusv.md) ([NOTE-tmpnscd2](NOTE-tmpnscd2.md)), whose 50-type
   chart and serial rules it rests on.
 
 ## Bearing on the record
@@ -148,30 +148,30 @@ by counting.
   is a mechanical mechanism for A's point that composition can produce
   localized freedoms, and under-constraint is exactly freedom left in an interior
   body. The paper does not cover elastomechanics or actuation.
-- **CLAIM-480 (composing interactions turns an interior into a
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (composing interactions turns an interior into a
   constraint).** Qualifies, closely. The serial rule, freedom spaces add and
   constraint spaces intersect, is the kinematic form of eliminating the
   interior; under-constraint marks when the boundary does not fix the
   interior, and the price, vibration and poor controllability, is paid
   there.
-- **CLAIM-345 (control cost not fixed by controllability rank).** Supports
+- **[CLAIM-345](../claims.d/CLAIM-345.md) (control cost not fixed by controllability rank).** Supports
   A's proposed extension, weakly: kinematically equivalent replacements
   change symmetry, manufacturability and how firmly an unwanted motion is
   constrained while the freedoms stay the same.
-- **CLAIM-414 (matched ordinary trajectories conceal differences).**
+- **[CLAIM-414](../claims.d/CLAIM-414.md) (matched ordinary trajectories conceal differences).**
   Supports, by analogy, on the same point.
-- **THEORY-144 (redundant defences erode unobserved).** An analogue only:
+- **[THEORY-144](../theory.d/THEORY-144.md) (redundant defences erode unobserved).** An analogue only:
   over-constraint is invisible in the freedom count. The paper does not
   discuss erosion.
-- **CLAIM-347, CLAIM-495, CLAIM-538.** Unrelated: the duality here is
+- **[CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-495](../claims.d/CLAIM-495.md), [CLAIM-538](../claims.d/CLAIM-538.md).** Unrelated: the duality here is
   linear reciprocity, not holonomy or tolerance compatibility.
-- Filed: THEORY-tmp530tx. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp530tx](../theory.d/THEORY-tmp530tx.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations
 
 - **The author's own**: no interconnected limbs; the method is kinematic.
-- **Completeness** of the library rests on Hopkins (2010), LIT-tmp9cusv.
+- **Completeness** of the library rests on Hopkins (2010), [LIT-tmp9cusv](../literature.d/LIT-tmp9cusv.md).
 - **The over-constraint rule is a count** and says nothing of the misfit
   stresses over-constraint causes.
 - **No experiment**; the case studies are design sketches.

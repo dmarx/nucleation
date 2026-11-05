@@ -145,12 +145,12 @@ the desired motions.
 ## Connections
 
 It builds on Blanding's exact-constraint design and on screw theory
-(twist–wrench reciprocity). Hopkins & Culpepper (2010), LIT-tmpf26t2,
+(twist–wrench reciprocity). Hopkins & Culpepper (2010), [LIT-tmpf26t2](../literature.d/LIT-tmpf26t2.md),
 condenses it as the FACT "Principles" paper and stands unfetched; this
 thesis restates what that paper is cited for in general (the reciprocity,
 the definition of redundancy, the 26 types and the design steps), but not
 that paper's own wording, any revision to the count or the procedure, or
-its figures. The PhD thesis, LIT-tmp9cusv (NOTE-tmpnscd2), extends it to
+its figures. The PhD thesis, [LIT-tmp9cusv](../literature.d/LIT-tmp9cusv.md) ([NOTE-tmpnscd2](NOTE-tmpnscd2.md)), extends it to
 all wrench pitches (50 types), serial stacking and actuation.
 
 ## Bearing on the record
@@ -175,30 +175,30 @@ all wrench pitches (50 types), serial stacking and actuation.
   elastomechanics or actuation** (§11.3). Of A's three things it has only
   freedom and constraint; actuation enters with the PhD thesis.
 - **Constraints making freedom possible.** A's framing that properly
-  organized constraints make useful freedom possible, and THEORY-1335's
+  organized constraints make useful freedom possible, and [THEORY-1335](../theory.d/THEORY-1335.md)'s
   enabling constraints, are qualified here. In FACT a constraint only
   removes a freedom or leaves the freedom space unchanged; what it adds is
   stiffness and precision in the directions it removes, and redundant ones
   add robustness. **In FACT, new freedom comes from stacking bodies in
   series, not from adding constraints**; that is the PhD thesis's serial
   synthesis.
-- **CLAIM-345 (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md) (equal controllability rank does not fix the cost of
   control).** A proposes extending it to say that equal nominal freedom
   spaces do not entail equal control effort. This thesis supports that,
   weakly: redundant constraints change stiffness, load capacity and
   stability with the freedom space unchanged. It does not quantify effort.
-- **THEORY-144 (redundant defences erode unobserved).** An analogue. A
+- **[THEORY-144](../theory.d/THEORY-144.md) (redundant defences erode unobserved).** An analogue. A
   redundant constraint is, by FACT's definition, one whose removal leaves
   the kinematics unchanged, so its loss is invisible to kinematic
   observation and shows only in stiffness or stability. The thesis names
   tolerance of a failed constraint as a payoff (p. 304); it does not
   discuss erosion.
-- **CLAIM-347 (jointly satisfiable demands form a downward-closed
+- **[CLAIM-347](../claims.d/CLAIM-347.md) (jointly satisfiable demands form a downward-closed
   complex).** Unrelated in substance. FACT's monotonicity, that a
   constraint removes a freedom or leaves the space unchanged, matches A's
   "If K'⊆K then Traj(K')⊆Traj(K)" in kinematic form, but says nothing of
   frustration among demands.
-- Filed: THEORY-tmpmbmox. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpmbmox](../theory.d/THEORY-tmpmbmox.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations
@@ -214,4 +214,4 @@ all wrench pitches (50 types), serial stacking and actuation.
   columns that matrix has subtracted from that matrix's rank" where
   columns minus rank is meant.
 - **A master's thesis**, not peer reviewed; the peer-reviewed statement,
-  LIT-tmpf26t2, was not reached.
+  [LIT-tmpf26t2](../literature.d/LIT-tmpf26t2.md), was not reached.

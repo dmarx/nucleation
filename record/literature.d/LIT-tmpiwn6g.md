@@ -1,15 +1,15 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpdewq8) from the publisher's
+  read in full 2026-11-05 ([NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md)) from the publisher's
   open-access PDF (CC BY 3.0) at Copernicus; worth reading as the
   shortest self-contained statement of FACT synthesis (duality of freedom
   and constraint spaces, 6 − n = m, the 50-type library and the Parallel
   Pyramid, the parallel and serial combination rules) and as its
   extension to hybrid flexure systems and elements, with counting tests
   for exact, over- and under-constraint. It stands in for Hopkins's
-  unfetched Handbook chapter of the same year, LIT-tmpvev12, and partly
-  for Hopkins & Culpepper (2010), LIT-tmpf26t2. Its main limits: kinematic
+  unfetched Handbook chapter of the same year, [LIT-tmpvev12](LIT-tmpvev12.md), and partly
+  for Hopkins & Culpepper (2010), [LIT-tmpf26t2](LIT-tmpf26t2.md). Its main limits: kinematic
   only, no interconnected limbs, no experiment, and an over-constraint
   test that is a count and says nothing of misfit stress.
 title: 'Designing hybrid flexure systems and elements using Freedom and Constraint Topologies'
@@ -73,7 +73,7 @@ Hopkins, J. B. (2013). Designing hybrid flexure systems and elements using Freed
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpdewq8. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md). Page numbers are the journal's.*
 
 - **Duality.** "Every freedom space uniquely links to a complementary or
   reciprocal space called a constraint space according to the principle of
@@ -94,14 +94,14 @@ Hopkins, J. B. (2013). Designing hybrid flexure systems and elements using Freed
 ## Standing in the record
 
 Registered as a stand-in. Its §2 is a self-contained statement of FACT
-synthesis, which is what the unfetched Handbook chapter, LIT-tmpvev12,
+synthesis, which is what the unfetched Handbook chapter, [LIT-tmpvev12](LIT-tmpvev12.md),
 names in its title; it covers the chapter as far as that synthesis goes,
 and nothing can be said of the chapter's own scope or case studies. It
 restates the parallel principles for which it cites "Hopkins and
-Culpepper, 2010", LIT-tmpf26t2, but not that paper's own wording or
-results. It is the predecessor of Archer & Hopkins (2024), LIT-tmpf0img,
+Culpepper, 2010", [LIT-tmpf26t2](LIT-tmpf26t2.md), but not that paper's own wording or
+results. It is the predecessor of Archer & Hopkins (2024), [LIT-tmpf0img](LIT-tmpf0img.md),
 whose interconnected case it leaves open, and states none of that
 paper's results. For the pasted synthesis on constraint architectures, it
 gives the mechanical form of composition producing freedoms: serial
 stacking adds freedom spaces, and under-constraint is freedom left in an
-interior body. Filed from it: THEORY-tmp530tx.
+interior body. Filed from it: [THEORY-tmp530tx](../theory.d/THEORY-tmp530tx.md).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpnscd2, Skimmed) from the DSpace@MIT
+  read in part 2026-11-05 ([NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md), Skimmed) from the DSpace@MIT
   scan and the born-digital copy on the author's UCLA lab site; worth
   reading as the extension of FACT to serial flexures and to actuation:
   a chart of 50 freedom/constraint space types once constraints of any
@@ -88,7 +88,7 @@ Hopkins, J. B. (2010). *Design of Flexure-based Motion Stages for Mechatronic Sy
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpnscd2. Page numbers are the thesis's.*
+*From the reading, [NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md). Page numbers are the thesis's.*
 
 - **Fifty types.** "There are only 50 freedom and constraint space pairs
   called types." (§2.1, p. 29).
@@ -120,6 +120,6 @@ different things, in the mechanical case: kinematically equivalent
 designs differ in stiffness, dynamics and where they must be driven. It
 also shows where new freedom comes from in FACT: stacking bodies in
 series, not adding constraints. It restates the principles of Hopkins &
-Culpepper (2010), LIT-tmpf26t2, compactly (§1.2), and its §2.3 gives a
+Culpepper (2010), [LIT-tmpf26t2](LIT-tmpf26t2.md), compactly (§1.2), and its §2.3 gives a
 FACT design process like the one the unfetched Handbook chapter,
-LIT-tmpvev12, names in its title. Filed from it: THEORY-tmpeo94c.
+[LIT-tmpvev12](LIT-tmpvev12.md), names in its title. Filed from it: [THEORY-tmpeo94c](../theory.d/THEORY-tmpeo94c.md).

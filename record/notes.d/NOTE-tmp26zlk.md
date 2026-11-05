@@ -123,10 +123,10 @@ the relevant symmetry.
 
 It builds on Maxwell's and Calladine's counting, which it re-derives in
 Sec. II E, and points to tensegrity and prestress-stability work for what
-lies beyond linear order; Connelly and Whiteley (LIT-tmplpuzc, read in
-NOTE-tmphcgif) is that theory. Kane and Lubensky (LIT-tmpldjyt) write the
+lies beyond linear order; Connelly and Whiteley ([LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md), read in
+[NOTE-tmphcgif](NOTE-tmphcgif.md)) is that theory. Kane and Lubensky ([LIT-tmpldjyt](../literature.d/LIT-tmpldjyt.md)) write the
 same classical identity with the equilibrium matrix Q = Cᵀ. Damavandi et
-al. (LIT-tmp925so) take up the stability side the authors leave open.
+al. ([LIT-tmp925so](../literature.d/LIT-tmp925so.md)) take up the stability side the authors leave open.
 
 ## Bearing on the record
 
@@ -142,7 +142,7 @@ al. (LIT-tmp925so) take up the stability side the authors leave open.
     finite-motion flexibility or stability" is right in substance, but this
     paper supports only the stability half: prestress-induced rigidity is
     invisible to its linear counts. It does not discuss whether zero modes
-    extend to finite motions; Chen et al. (LIT-tmpchla8) state that point
+    extend to finite motions; Chen et al. ([LIT-tmpchla8](../literature.d/LIT-tmpchla8.md)) state that point
     outright.
   - A cites the paper only for the classical identity, which it merely
     re-derives. Its contribution, Theorem 1, the symmetry theorem and
@@ -155,29 +155,29 @@ al. (LIT-tmp925so) take up the stability side the authors leave open.
     adding constraints is not discussed. The point follows arithmetically
     from eq. 15, since a further constraint must either remove a zero mode
     or add a self-stress, but the paper does not draw it. Damavandi et al.
-    (LIT-tmp925so) state it: states of self-stress "arise from redundant
-    constraints". Connelly and Whiteley (LIT-tmplpuzc, Remark 6.2.1) give a
+    ([LIT-tmp925so](../literature.d/LIT-tmp925so.md)) state it: states of self-stress "arise from redundant
+    constraints". Connelly and Whiteley ([LIT-tmplpuzc](../literature.d/LIT-tmplpuzc.md), Remark 6.2.1) give a
     stronger instance, in which bars brought in new proper self-stresses
     that made a framework prestress stable while its first-order flex
     remained.
-- **CLAIM-345** (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md)** (equal controllability rank does not fix the cost of
   control). Supports, by analogy only: the zero-mode count is fixed by
   geometry, but which force excites a mode, and how far it localizes,
   depends on stiffness and prestress (Theorem 1, Fig. 3b). Same nominal
   freedom, different effective response; an analogy, not a derivation.
-- **CLAIM-347 and TERM-060** (frustration as an ordinal fact before a
+- **[CLAIM-347](../claims.d/CLAIM-347.md) and [TERM-060](../terms.d/TERM-060.md)** (frustration as an ordinal fact before a
   quantity; as joint unrealizability). Qualifies. The paper calls
   prestress "frustration" that "cannot be relaxed away by moving the
   nodes", and it is a quantity, an incompatibility load carried on a state
   of self-stress. The existence of the self-stress is the geometric,
   ordinal-like fact; how much prestress sits on it is energetic. A's
   warning that the two frustrations are not interchangeable is borne out.
-- **CLAIM-365** (the frustration residual's dual certificate). Unrelated
+- **[CLAIM-365](../claims.d/CLAIM-365.md)** (the frustration residual's dual certificate). Unrelated
   to this paper; Connelly and Whiteley's second-order stress test
-  (NOTE-tmphcgif) is the closer neighbour.
-- **CLAIM-079** (stability does not entail viability). Unrelated.
-- **LIT-1236** (Blumenthal, Rocks & Mehta 2024) shares two authors only.
-- Filed: THEORY-tmpo2kzn. No instruction for machine-learning practice;
+  ([NOTE-tmphcgif](NOTE-tmphcgif.md)) is the closer neighbour.
+- **[CLAIM-079](../claims.d/CLAIM-079.md)** (stability does not entail viability). Unrelated.
+- **[LIT-1236](../literature.d/LIT-1236.md)** (Blumenthal, Rocks & Mehta 2024) shares two authors only.
+- Filed: [THEORY-tmpo2kzn](../theory.d/THEORY-tmpo2kzn.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

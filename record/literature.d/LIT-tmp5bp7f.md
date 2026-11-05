@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  argument chapters read 2026-11-05 (NOTE-tmpla9de, Skimmed) from the
+  argument chapters read 2026-11-05 ([NOTE-tmpla9de](../notes.d/NOTE-tmpla9de.md), Skimmed) from the
   scanned thesis in DSpace@MIT; worth reading as the origin of Freedom and
   Constraint Topologies (FACT), the screw-theoretic design method for
   parallel flexures in which a stage's permitted motions (its freedom
@@ -79,7 +79,7 @@ Hopkins, J. B. (2007). *Design of Parallel Flexure Systems via Freedom and Const
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpla9de. Page numbers are the thesis's.*
+*From the reading, [NOTE-tmpla9de](../notes.d/NOTE-tmpla9de.md). Page numbers are the thesis's.*
 
 - **A finite catalogue, for ideal constraints.** "twenty six unique
   matching pairs of freedom and constraint spaces were identified"
@@ -112,6 +112,6 @@ constraints. The thesis covers neither elastomechanics nor actuation, so
 of A's three things, freedom, constraint and actuation, it has only the
 first two. In it, constraints only remove freedoms or leave them
 unchanged; what they add is stiffness and robustness. It is also one of
-the works standing in for Hopkins & Culpepper (2010), LIT-tmpf26t2, which
-condenses it and stands unfetched. Filed from it: THEORY-tmpmbmox. The
-PhD thesis, LIT-tmp9cusv, extends it to serial systems and actuation.
+the works standing in for Hopkins & Culpepper (2010), [LIT-tmpf26t2](LIT-tmpf26t2.md), which
+condenses it and stands unfetched. Filed from it: [THEORY-tmpmbmox](../theory.d/THEORY-tmpmbmox.md). The
+PhD thesis, [LIT-tmp9cusv](LIT-tmp9cusv.md), extends it to serial systems and actuation.

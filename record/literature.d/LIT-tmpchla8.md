@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpztu5h) from the arXiv v2 PDF, the
+  read in full 2026-11-05 ([NOTE-tmpztu5h](../notes.d/NOTE-tmpztu5h.md)) from the arXiv v2 PDF, the
   accepted version, main text and supplement; worth reading as the
   extension of topological polarization from spring networks to origami
   and kirigami: a marginally rigid zig-zag origami strip whose single
@@ -69,7 +69,7 @@ Chen, B. G., Liu, B., Evans, A. A., Paulose, J., Cohen, I., Vitelli, V. & Santan
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpztu5h.*
+*From the reading, [NOTE-tmpztu5h](../notes.d/NOTE-tmpztu5h.md).*
 
 - **Topology, not counting.** "These folding motions exist due to an
   underlying topological invariant rather than a local imbalance between
@@ -100,5 +100,5 @@ different polarizations on the two sides; and such walls can equally be
 stressed lines that carry load. It is also the clearest support in this
 batch for the synthesis's caveat that a constraint count does not
 guarantee finite motion. It applies the topological polarization of Kane
-and Lubensky (LIT-tmpldjyt). Filed from it: THEORY-tmp2e4h8. No
+and Lubensky ([LIT-tmpldjyt](LIT-tmpldjyt.md)). Filed from it: [THEORY-tmp2e4h8](../theory.d/THEORY-tmp2e4h8.md). No
 instruction for machine-learning practice.

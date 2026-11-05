@@ -8,7 +8,7 @@ status_note: >-
   and was not retried; whether the copy there is open is unknown. The
   Hopkins lab publications page, https://flexible.seas.ucla.edu/publications,
   lists the chapter without a PDF, and no repository copy was found.
-  Stand-in, read: Hopkins (2013) in Mechanical Sciences, LIT-tmpiwn6g, by
+  Stand-in, read: Hopkins (2013) in Mechanical Sciences, [LIT-tmpiwn6g](LIT-tmpiwn6g.md), by
   the same author in the same year, whose §2 is a self-contained
   statement of FACT synthesis (duality, 6 − n = m, the 50-type library and
   the Parallel Pyramid, the parallel and serial rules, step-by-step
@@ -75,9 +75,9 @@ Hopkins, J. (2013). Synthesis through Freedom and Constraint Topologies. In L. L
 
 The pasted synthesis on constraint architectures cites it among its FACT
 sources and gives only the bibliography. Until it is read, Hopkins
-(2013) in Mechanical Sciences, LIT-tmpiwn6g (NOTE-tmpdewq8), stands in:
+(2013) in Mechanical Sciences, [LIT-tmpiwn6g](LIT-tmpiwn6g.md) ([NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md)), stands in:
 same author, same year, and a §2 that states FACT synthesis in full for
 parallel and serial systems, before extending it to hybrid ones. It
 stands in for the synthesis the chapter names, not for the chapter's own
-scope, steps or examples. The PhD thesis, LIT-tmp9cusv (NOTE-tmpnscd2),
+scope, steps or examples. The PhD thesis, [LIT-tmp9cusv](LIT-tmp9cusv.md) ([NOTE-tmpnscd2](../notes.d/NOTE-tmpnscd2.md)),
 also sets out a six-step FACT design process in its §2.3.

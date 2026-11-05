@@ -15,7 +15,7 @@ status_note: >-
   Crossref lists an Elsevier accepted-manuscript licence from 2025-06-26,
   so an accepted manuscript may lawfully be posted, but none was found;
   the Hopkins lab publications page lists the paper without a PDF. No
-  neighbour was read for its results. Hopkins (2013), LIT-tmpiwn6g, the
+  neighbour was read for its results. Hopkins (2013), [LIT-tmpiwn6g](LIT-tmpiwn6g.md), the
   predecessor, states the parallel, serial and non-interconnected hybrid
   rules this paper extends and leaves the interconnected case as future
   work, so it stands in for the setting only and for none of the
@@ -62,7 +62,7 @@ summary: >-
   Archer & Hopkins (2024), Mechanism and Machine Theory 200. Unread, and
   no abstract seen; unverified until read. By its title, and by A's
   description, it extends FACT analysis and synthesis to interconnected
-  hybrid mechanisms, the case Hopkins (2013), LIT-tmpiwn6g, left as
+  hybrid mechanisms, the case Hopkins (2013), [LIT-tmpiwn6g](LIT-tmpiwn6g.md), left as
   future work. Here because the pasted synthesis on constraint
   architectures cites it as a source for FACT.
 ---
@@ -83,7 +83,7 @@ FACT-based analysis and synthesis to interconnected hybrid mechanisms,
 where serial and parallel structures interact". That fits the title and
 the gap the 2013 paper names, and is unverified against the text. The
 clause "where serial and parallel structures interact" is A's
-paraphrase: Hopkins (2013), LIT-tmpiwn6g (NOTE-tmpdewq8), defines
+paraphrase: Hopkins (2013), [LIT-tmpiwn6g](LIT-tmpiwn6g.md) ([NOTE-tmpdewq8](../notes.d/NOTE-tmpdewq8.md)), defines
 interconnected limbs more narrowly, as limbs whose intermediate rigid
 bodies are joined to those of other limbs by flexure systems or elements.
 That paper is the predecessor and stands in for the setting only; it

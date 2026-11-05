@@ -143,13 +143,13 @@ fix.
 
 ## Connections
 
-It extends the master's thesis, LIT-tmp5bp7f (NOTE-tmpla9de): from 26
+It extends the master's thesis, [LIT-tmp5bp7f](../literature.d/LIT-tmp5bp7f.md) ([NOTE-tmpla9de](NOTE-tmpla9de.md)): from 26
 types for pure-force constraints to 50 for constraints of any pitch, and
 from parallel to serial systems. Its §1.2 restates the FACT principles
-compactly, as the unfetched "Part I: Principles" paper, LIT-tmpf26t2, is
+compactly, as the unfetched "Part I: Principles" paper, [LIT-tmpf26t2](../literature.d/LIT-tmpf26t2.md), is
 cited for; its §2.3 sets out a six-step FACT design process (not read
-here), the subject the unfetched Handbook chapter, LIT-tmpvev12, names in
-its title. The Mechanical Sciences paper of 2013, LIT-tmpiwn6g, carries
+here), the subject the unfetched Handbook chapter, [LIT-tmpvev12](../literature.d/LIT-tmpvev12.md), names in
+its title. The Mechanical Sciences paper of 2013, [LIT-tmpiwn6g](../literature.d/LIT-tmpiwn6g.md), carries
 the serial rules on to hybrid systems.
 
 ## Bearing on the record
@@ -167,7 +167,7 @@ the serial rules on to hybrid systems.
   itself in that direction" fits closely, with one correction: the thesis
   is about external actuators a designer places, and nothing in it is
   about a mechanism driving itself.
-- **CLAIM-345 (equal controllability rank does not fix the cost of
+- **[CLAIM-345](../claims.d/CLAIM-345.md) (equal controllability rank does not fix the cost of
   control).** Supports A's proposed extension, that equal nominal freedom
   spaces do not entail equal effort or precision, in a mechanical
   setting: kinematically equivalent designs differ in elastomechanics and
@@ -175,7 +175,7 @@ the serial rules on to hybrid systems.
   on the freedom space, and underconstrained systems with the same DOFs
   have poor dynamics. An analogy only: the thesis is quasi-static and
   computes no effort integrals or Gramians.
-- **CLAIM-480 (composing interactions turns an interior into a
+- **[CLAIM-480](../claims.d/CLAIM-480.md) (composing interactions turns an interior into a
   constraint).** Qualifies, and is the closest held entry. FACT's serial
   stacking is the kinematic counterpart, the stage seeing the sum of the
   intermediate freedom spaces. Underconstraint is the case where the
@@ -183,23 +183,23 @@ the serial rules on to hybrid systems.
   thesis says those systems have poor dynamics: a mechanical instance of
   the condition under which eliminating the interior stops describing the
   system well.
-- **CLAIM-414 (matched ordinary trajectories can conceal differences).**
+- **[CLAIM-414](../claims.d/CLAIM-414.md) (matched ordinary trajectories can conceal differences).**
   Supports, by analogy: kinematically equivalent flexures with the same
   freedom space differ in stiffness, dynamics and actuation, differences
   hidden by the matched nominal motion and exposed by loading or driving.
-- **CASE-194 (the same failure from an actuator setting, an observation or
+- **[CASE-194](../cases.d/CASE-194.md) (the same failure from an actuator setting, an observation or
   an authority rule).** Qualifies: the thesis separates the freedom space
   from where actuation must act, and shows that an actuation space outside
   the 26 cannot be met by linear actuators, a mechanical case of actuation
   as a constraint of its own.
-- **THEORY-1335 (enabling constraints) and A's framing that constraints
+- **[THEORY-1335](../theory.d/THEORY-1335.md) (enabling constraints) and A's framing that constraints
   make useful freedom possible.** Qualified. **In FACT, new freedom comes
   from stacking bodies in series, not from adding constraints**; constraints
   in parallel only intersect freedom spaces. What constraints add is
   stiffness and precision.
-- **THEORY-134 (viability kernel) and CLAIM-079.** Unrelated: no
+- **[THEORY-134](../theory.d/THEORY-134.md) (viability kernel) and [CLAIM-079](../claims.d/CLAIM-079.md).** Unrelated: no
   invariance or viability notion here.
-- Filed: THEORY-tmpeo94c. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpeo94c](../theory.d/THEORY-tmpeo94c.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

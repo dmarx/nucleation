@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmphcgif, Skimmed) from the scanned
+  read in part 2026-11-05 ([NOTE-tmphcgif](../notes.d/NOTE-tmphcgif.md), Skimmed) from the scanned
   published version posted on the first author's Cornell publications
   page: §§1–3, 4.4, 5.1–5.2 and 6 in full, the statements of §4.1, §4.3
   and the opening of §5.3, the lemmas and long proofs skipped. Worth
@@ -74,7 +74,7 @@ Connelly, R. & Whiteley, W. (1996). Second-Order Rigidity and Prestress Stabilit
 
 ## Key takeaways
 
-*From the reading, NOTE-tmphcgif (in part). Sections are the paper's.*
+*From the reading, [NOTE-tmphcgif](../notes.d/NOTE-tmphcgif.md) (in part). Sections are the paper's.*
 
 - **The hierarchy.** "We demonstrate a hierarchy of rigidity--first-order
   rigidity implies prestress stability implies second-order rigidity
@@ -101,5 +101,5 @@ synthesis's caveat that a Maxwell–Calladine count does not by itself
 settle finite motion or stability, and its §6.2 is the cleanest instance in
 this batch of added constraints creating self-stress rather than removing
 freedom, the point the synthesis attributes to Rocks and Mehta
-(LIT-tmpx12go), who do not make it. Filed from it: THEORY-tmpelyg5. No
+([LIT-tmpx12go](LIT-tmpx12go.md)), who do not make it. Filed from it: [THEORY-tmpelyg5](../theory.d/THEORY-tmpelyg5.md). No
 instruction for machine-learning practice.

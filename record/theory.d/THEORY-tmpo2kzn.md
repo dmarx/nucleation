@@ -18,7 +18,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpx12go
 summary: >-
-  Rocks and Mehta (2024; arXiv 2022), LIT-tmpx12go, read in NOTE-tmp26zlk
+  Rocks and Mehta (2024; arXiv 2022), [LIT-tmpx12go](../literature.d/LIT-tmpx12go.md), read in [NOTE-tmp26zlk](../notes.d/NOTE-tmp26zlk.md)
   (the main text; the appendices with the proofs skipped). Proposed: the
   theorems' proofs were not read, and the symmetry-breaking result is shown
   on two small symmetric examples. It is a linear theory: it does not say
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Rocks and Mehta (2024; arXiv v1 2022-08-15), LIT-tmpx12go; read in NOTE-tmp26zlk.
+Rocks and Mehta (2024; arXiv v1 2022-08-15), [LIT-tmpx12go](../literature.d/LIT-tmpx12go.md); read in [NOTE-tmp26zlk](../notes.d/NOTE-tmp26zlk.md).
 
 ## What was actually shown
 
