@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp9wlcj) from the USAID DEC copy
+  read in full 2026-11-05 ([NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md)) from the USAID DEC copy
   (PA00MNVN) on AidData's mirror of the DEC; worth reading as the study's
   test of phase-over, handing project activities to a state that already
   has resources, infrastructure and a legal duty to serve, and as the
   India half of the stand-in for the unread synthesis of the same study
-  (LIT-tmp8ifks). Health services and irrigation through the employment
+  ([LIT-tmp8ifks](LIT-tmp8ifks.md)). Health services and irrigation through the employment
   guarantee persisted or grew two years after exit, where the linkage ran
   before exit; school meals lapsed where the linkage was begun late; and
   differences between states were often larger than change over time. An
@@ -74,7 +74,7 @@ Rogers, B., Klemeyer, C., Bondre, A. & Fierstein, J. (2017). *Sustaining Develop
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp9wlcj. Page numbers are the brief's printed ones.*
+*From the reading, [NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md). Page numbers are the brief's printed ones.*
 
 - **Phase-over needs a receiver with the factors.** It "depends, in part,
   on the resources, capacity, and commitment (motivation) of government
@@ -91,11 +91,11 @@ Rogers, B., Klemeyer, C., Bondre, A. & Fierstein, J. (2017). *Sustaining Develop
 
 ## Standing in the record
 
-A stand-in, with LIT-tmp93nq2 (Kenya), for the unread synthesis
-Rogers & Coates (2015), LIT-tmp8ifks, for the study's framework and its
+A stand-in, with [LIT-tmp93nq2](LIT-tmp93nq2.md) (Kenya), for the unread synthesis
+Rogers & Coates (2015), [LIT-tmp8ifks](LIT-tmp8ifks.md), for the study's framework and its
 India results only; not for Bolivia, Honduras or any cross-country tally.
-It qualifies CLAIM-597: independence from the founding donor was reached
+It qualifies [CLAIM-597](../claims.d/CLAIM-597.md): independence from the founding donor was reached
 by moving the supply to a domestic supplier, not by ending dependence on
-one. It answers QUESTION-398 in part, and supports CLAIM-566 (delivery
+one. It answers [QUESTION-398](../questions.d/QUESTION-398.md) in part, and supports [CLAIM-566](../claims.d/CLAIM-566.md) (delivery
 systems persisted where impact on stunting never assembled). Filed from
-it: THEORY-tmpwmqrr.
+it: [THEORY-tmpwmqrr](../theory.d/THEORY-tmpwmqrr.md).

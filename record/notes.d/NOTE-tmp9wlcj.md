@@ -135,11 +135,11 @@ in different states.
 ## Connections
 
 - **The synthesis it stands in for.** Rogers & Coates (2015),
-  LIT-tmp8ifks, unread. This brief restates, for India, the study's
+  [LIT-tmp8ifks](../literature.d/LIT-tmp8ifks.md), unread. This brief restates, for India, the study's
   design, its factors, the gradual-transition finding and the case of
   phase-over to government. It does not restate Bolivia, Honduras, any
   cross-country tally, any pooled figure or the synthesis's wording.
-- **Its Kenya counterpart**, Coates et al. (2016), LIT-tmp93nq2, where
+- **Its Kenya counterpart**, Coates et al. (2016), [LIT-tmp93nq2](../literature.d/LIT-tmp93nq2.md), where
   the organizations had to finance themselves.
 - **Moss, Pettersson & van de Walle (2006)**, filed in this batch: a
   hand-off to a state funded partly by aid moves the dependence, rather
@@ -147,26 +147,26 @@ in different states.
 
 ## Bearing on the record
 
-- **CLAIM-597 (independent of what founded it, never of what feeds it).**
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (independent of what founded it, never of what feeds it).**
   Qualifies it. Independence from the founding donor was reached by
   moving the supply to a domestic supplier, the national programmes; the
   functions still depend on a feed, only a different one. Consistent
   with the claim's wording, and a reminder that "never of what feeds it"
   allows the feed to change hands.
-- **QUESTION-398 (when a partial organization becomes independent of the
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of the
   intervention that established it).** Answers it in part: phase-over
   succeeded where the receiver had resources, capacity and a legal
   mandate and the linkage was operating before exit, and failed where the
   linkage was begun late.
-- **CLAIM-566 (assembling and persisting are separate).** Supports it:
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assembling and persisting are separate).** Supports it:
   delivery systems persisted while impact on stunting never assembled.
-- **QUESTION-386 (funding rules that lose capabilities).** Bears on it:
+- **[QUESTION-386](../questions.d/QUESTION-386.md) (funding rules that lose capabilities).** Bears on it:
   pay for performance kept the paid-for indicators (deliveries,
   immunisation); the brief does not say whether unpaid functions
   suffered.
-- **QUESTION-399.** No case here: no nucleus regenerates its own
+- **[QUESTION-399](../questions.d/QUESTION-399.md).** No case here: no nucleus regenerates its own
   constraints; the state supplies them.
-- Filed: THEORY-tmpwmqrr. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpwmqrr](../theory.d/THEORY-tmpwmqrr.md). No instruction for machine-learning practice.
 
 ## Limitations
 

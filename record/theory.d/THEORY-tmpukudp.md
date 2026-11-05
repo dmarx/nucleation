@@ -17,10 +17,10 @@ date: '2026-11-05'
 source:
 - LIT-tmp93nq2
 summary: >-
-  Coates, Kegode, Galante & Blau (2016), LIT-tmp93nq2, read in
-  NOTE-tmp46avq: the Kenya executive summary of a Tufts and FANTA study of
+  Coates, Kegode, Galante & Blau (2016), [LIT-tmp93nq2](../literature.d/LIT-tmp93nq2.md), read in
+  [NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md): the Kenya executive summary of a Tufts and FANTA study of
   Food for Peace projects after exit, read as a stand-in for the unread
-  synthesis (LIT-tmp8ifks). Savings groups with no outside capital,
+  synthesis ([LIT-tmp8ifks](../literature.d/LIT-tmp8ifks.md)). Savings groups with no outside capital,
   fee-financed paravets and water committees held; volunteer health
   workers tied to an under-resourced ministry, and producer associations
   subsidised to the end, declined. Proposed: the brief is qualitative, has
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Coates, Kegode, Galante & Blau (2016), LIT-tmp93nq2; read in NOTE-tmp46avq.
+Coates, Kegode, Galante & Blau (2016), [LIT-tmp93nq2](../literature.d/LIT-tmp93nq2.md); read in [NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md).
 
 ## What was actually shown
 

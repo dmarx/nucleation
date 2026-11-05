@@ -158,14 +158,14 @@ likely to be sustained than those that did" (p. 7).
 ## Connections
 
 - **The synthesis it stands in for.** Rogers & Coates (2015),
-  LIT-tmp8ifks, unread. This brief restates, for Kenya, the study's
+  [LIT-tmp8ifks](../literature.d/LIT-tmp8ifks.md), unread. This brief restates, for Kenya, the study's
   design, its four factors, the gradual-exit finding and the central
   result that exit impact did not predict sustainability. It does not
   restate Bolivia, Honduras, any cross-country tally of what was
   sustained, any pooled figure or the synthesis's wording.
-- **Its India counterpart**, Rogers et al. (2017), LIT-tmp6e45o: the same
+- **Its India counterpart**, Rogers et al. (2017), [LIT-tmp6e45o](../literature.d/LIT-tmp6e45o.md): the same
   frame in a phase-over to government.
-- **Ostrom.** THEORY-149 and LIT-719: durable self-governance by
+- **Ostrom.** [THEORY-149](../theory.d/THEORY-149.md) and [LIT-719](../literature.d/LIT-719.md): durable self-governance by
   user-made, user-monitored rules. The savings groups' bylaws and rotation
   of leadership, and the water committees' self-governance, read
   naturally against it; the brief does not measure the design principles.
@@ -174,42 +174,42 @@ likely to be sustained than those that did" (p. 7).
 
 ## Bearing on the record
 
-- **CLAIM-597 (independent of what founded it, never of what feeds it).**
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (independent of what founded it, never of what feeds it).**
   Supports it, with an empirical boundary. Activities resting on supplies
   brought from outside (rations, project finance, food-for-work) decayed
   after exit; those that produced their own resource stream (members'
   pooled savings, fees for paravets and committees) held. The brief gives
   no rates, so the ρs/(ρs + d) form is not tested.
-- **QUESTION-398 (when a partial organization becomes independent of the
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of the
   intervention that established it).** Answers it in part: where the
   organization had its own resource stream from the outset, had operated
   alone before exit, and had a substantive linkage formed early. The
   authors say a failure of any one is enough.
-- **QUESTION-399 (a self-maintaining nucleus).** The savings groups are a
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (a self-maintaining nucleus).** The savings groups are a
   case: benefits grew each cycle, feeding motivation, and leaders went on
   to train new groups. No numbers.
-- **CLAIM-566 (assembling and persisting are separate properties).**
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assembling and persisting are separate properties).**
   Supports it: impact achieved at exit and persistence 2–3 years later
   came apart.
-- **CLAIM-516 and TERM-070 (closure of constraints).** Consistent, not a
+- **[CLAIM-516](../claims.d/CLAIM-516.md) and [TERM-070](../terms.d/TERM-070.md) (closure of constraints).** Consistent, not a
   test. Health workers whose upkeep came only from the project or a
   resource-less ministry declined; a cycle of fees, service and demand
   kept the paravets going, and savings, loans and benefit the savings
   groups. Candidate closures; the water committees' "sense of obligation
   to the community" is a constraint the project did not make.
-- **CLAIM-558 (procedural capability decays without use and practice).**
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (procedural capability decays without use and practice).**
   Weakly supports it: the authors trace the health workers' decline
   partly to lost refresher training and new information.
-- **TERM-105 (resource constraint by type).** The authors' "resources"
+- **[TERM-105](../terms.d/TERM-105.md) (resource constraint by type).** The authors' "resources"
   covers a stock (kits, infrastructure), a rate (fees, savings) and a
   cumulative expenditure (repairs), unseparated.
-- **TERM-117 (productive nucleus).** The producer associations,
+- **[TERM-117](../terms.d/TERM-117.md) (productive nucleus).** The producer associations,
   committees and savings groups were partial organizations whose
   establishment was the intended nucleus; only some were productive after
   exit.
-- **THEORY-072, CLAIM-273, QUESTION-085.** Analogy only: activities kept
+- **[THEORY-072](../theory.d/THEORY-072.md), [CLAIM-273](../claims.d/CLAIM-273.md), [QUESTION-085](../questions.d/QUESTION-085.md).** Analogy only: activities kept
   up by rations behave like supplied order.
-- Filed: THEORY-tmpukudp. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md). No instruction for machine-learning practice.
 
 ## Limitations
 

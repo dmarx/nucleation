@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp46avq) from the USAID DEC copy
+  read in full 2026-11-05 ([NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)) from the USAID DEC copy
   (PA00MG5P) on AidData's mirror of the DEC; worth reading as a rare
   follow-up of donor-built community organizations 2–3 years after the
   donor left, with a replicated endline survey, and as the Kenya half of
-  the stand-in for the unread synthesis of the same study (LIT-tmp8ifks).
+  the stand-in for the unread synthesis of the same study ([LIT-tmp8ifks](LIT-tmp8ifks.md)).
   It finds that impact at exit did not predict what lasted, and that the
   savings groups, paravets and water committees that held had their own
   resource stream, capacity, motivation and early linkages and had run on
@@ -75,7 +75,7 @@ Coates, J., Kegode, E., Galante, T. & Blau, A. (2016). *Sustaining Development: 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp46avq. Page numbers are the brief's printed ones.*
+*From the reading, [NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md). Page numbers are the brief's printed ones.*
 
 - **Impact at exit is not persistence.** "evidence of impact at the time
   of project exit did not necessarily predict sustainability 2–3 years
@@ -96,11 +96,11 @@ Coates, J., Kegode, E., Galante, T. & Blau, A. (2016). *Sustaining Development: 
 
 ## Standing in the record
 
-A stand-in, with LIT-tmp6e45o (India), for the unread synthesis
-Rogers & Coates (2015), LIT-tmp8ifks, for the study's framework and its
+A stand-in, with [LIT-tmp6e45o](LIT-tmp6e45o.md) (India), for the unread synthesis
+Rogers & Coates (2015), [LIT-tmp8ifks](LIT-tmp8ifks.md), for the study's framework and its
 Kenya results only; not for Bolivia, Honduras or any cross-country tally.
-It bears on CLAIM-597, which it supports with an empirical boundary
+It bears on [CLAIM-597](../claims.d/CLAIM-597.md), which it supports with an empirical boundary
 (activities fed from outside decayed after exit; those that produced
-their own resources held), on QUESTION-398, which it answers in part, and
-on CLAIM-566 (impact at exit and persistence came apart). Filed from it:
-THEORY-tmpukudp.
+their own resources held), on [QUESTION-398](../questions.d/QUESTION-398.md), which it answers in part, and
+on [CLAIM-566](../claims.d/CLAIM-566.md) (impact at exit and persistence came apart). Filed from it:
+[THEORY-tmpukudp](../theory.d/THEORY-tmpukudp.md).

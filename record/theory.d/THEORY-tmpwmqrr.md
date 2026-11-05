@@ -18,10 +18,10 @@ date: '2026-11-05'
 source:
 - LIT-tmp6e45o
 summary: >-
-  Rogers, Klemeyer, Bondre & Fierstein (2017), LIT-tmp6e45o, read in
-  NOTE-tmp9wlcj: the India executive summary of a Tufts and FANTA study of
+  Rogers, Klemeyer, Bondre & Fierstein (2017), [LIT-tmp6e45o](../literature.d/LIT-tmp6e45o.md), read in
+  [NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md): the India executive summary of a Tufts and FANTA study of
   Food for Peace projects after exit, read as a stand-in for the unread
-  synthesis (LIT-tmp8ifks). Institutional deliveries and irrigation through
+  synthesis ([LIT-tmp8ifks](../literature.d/LIT-tmp8ifks.md)). Institutional deliveries and irrigation through
   the employment guarantee persisted or grew after phase-over; school
   meals lapsed where schools were late to join the Mid-Day Meals
   programme. Proposed: an executive summary with no comparison group and
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Rogers, Klemeyer, Bondre & Fierstein (2017), LIT-tmp6e45o; read in NOTE-tmp9wlcj.
+Rogers, Klemeyer, Bondre & Fierstein (2017), [LIT-tmp6e45o](../literature.d/LIT-tmp6e45o.md); read in [NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md).
 
 ## What was actually shown
 

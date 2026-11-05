@@ -13,8 +13,8 @@ status_note: >-
   404; and the USAID DEC through its AidData mirror, whose searches return
   only the Kenya and India country executive summaries. No host was
   retried past its block. Two country summaries from the same study stand
-  in, for Kenya (LIT-tmp93nq2, read in NOTE-tmp46avq) and India
-  (LIT-tmp6e45o, read in NOTE-tmp9wlcj) only: not for Bolivia or Honduras,
+  in, for Kenya ([LIT-tmp93nq2](LIT-tmp93nq2.md), read in [NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md)) and India
+  ([LIT-tmp6e45o](LIT-tmp6e45o.md), read in [NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md)) only: not for Bolivia or Honduras,
   and not for the cross-country synthesis, its tallies or its wording.
 title: 'Sustaining Development: A Synthesis of Results from a Four-Country Study of Sustainability and Exit Strategies among Development Food Assistance Projects'
 version: 1
@@ -66,7 +66,7 @@ summary: >-
   finds that gradual exit with a period of independent operation helped
   and that impact at exit did not predict what lasted. Here because it is
   the one cross-country account of how project-built organizations fare
-  once the donor's supply stops, the question CLAIM-597 and QUESTION-398
+  once the donor's supply stops, the question [CLAIM-597](../claims.d/CLAIM-597.md) and [QUESTION-398](../questions.d/QUESTION-398.md)
   put.
 ---
 <!-- inactive-ok-file: CLAIM-597 CLAIM-566 — Proposed; cited from the registration of Rogers & Coates (2015) as open -->
@@ -95,10 +95,10 @@ Rogers, B. L. & Coates, J. (2015). *Sustaining Development: A Synthesis of Resul
 Unavailable. Two executive summaries of country studies from the same
 study stand in for it, and only so far:
 
-- **Kenya**, Coates, Kegode, Galante & Blau (2016), LIT-tmp93nq2, read in
-  NOTE-tmp46avq. Coates is the synthesis's second author.
-- **India**, Rogers, Klemeyer, Bondre & Fierstein (2017), LIT-tmp6e45o,
-  read in NOTE-tmp9wlcj. Rogers is its first author; India is the study's
+- **Kenya**, Coates, Kegode, Galante & Blau (2016), [LIT-tmp93nq2](LIT-tmp93nq2.md), read in
+  [NOTE-tmp46avq](../notes.d/NOTE-tmp46avq.md). Coates is the synthesis's second author.
+- **India**, Rogers, Klemeyer, Bondre & Fierstein (2017), [LIT-tmp6e45o](LIT-tmp6e45o.md),
+  read in [NOTE-tmp9wlcj](../notes.d/NOTE-tmp9wlcj.md). Rogers is its first author; India is the study's
   case of phase-over to government.
 
 They carry the study's design, its four factors, the gradual-exit finding
@@ -106,7 +106,7 @@ and sector results for Kenya and India. They do not stand in for Bolivia
 or Honduras, for any cross-country tally of what was sustained, for any
 pooled figure, or for the synthesis's own wording. Nothing should be cited
 from the synthesis as read until its text is obtained. It bears on
-CLAIM-597 (independence from the founder, never from the feed), on
-QUESTION-398 (when a partial organization becomes independent of the
-intervention that established it) and on CLAIM-566 (assembling and
+[CLAIM-597](../claims.d/CLAIM-597.md) (independence from the founder, never from the feed), on
+[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of the
+intervention that established it) and on [CLAIM-566](../claims.d/CLAIM-566.md) (assembling and
 persisting come apart).
