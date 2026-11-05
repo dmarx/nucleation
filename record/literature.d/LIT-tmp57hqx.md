@@ -1,0 +1,88 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmp2uw2z) from the publisher's open-access PDF
+  (CC BY-NC-ND 4.0), main text in full, most of Methods and all
+  Supplementary Notes skipped; worth reading as an engineered case of
+  memory held in configuration (non-volatile bistable switches) and of
+  programmability moved from wiring into an addressing path. Its main
+  limits: general-purpose only over pre-built minterm modules, whose number
+  grows as 2^n per output; programming needs a designed layout of magnets
+  and a robot with motors and power, and outputs are read as voltages; the
+  neural-network weight update is described, not shown in the main text;
+  no error rates for whole arrays.
+title: 'General-purpose mechanical computing enabled by origami circuit reconfiguration with robotic addressing and activation'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 from the owner's pasted synthesis on
+    FACT, rigidity, compliant mechanisms and origami (pasted 2026-11-04,
+    written by another assistant), where it is cited as S7 by title, venue
+    and DOI only. The citation was checked by the reader against Crossref
+    and OpenAlex: Yinghua Chen, Ting Tan and Zhimiao Yan, Nature
+    Communications 16, 10483; received 26 February 2025, online 25 November
+    2025, which is `published:` (no preprint found). Correction: the
+    synthesis omits the authors. Read from the publisher's PDF
+    (https://www.nature.com/articles/s41467-025-65464-x.pdf), 14 pages,
+    CC BY-NC-ND 4.0. Status Active.
+tags:
+- natural-sciences
+date: '2026-11-05'
+published: '2025-11-25'
+doi: '10.1038/s41467-025-65464-x'
+first_author: 'Chen'
+keywords:
+- 'origami'
+- 'Kresling pattern'
+- 'mechanical computing'
+- 'bistability'
+- 'programmable gate array'
+- 'logic synthesis'
+- 'robotics'
+implementations: []
+summary: >-
+  Chen, Tan & Yan (2025). A bistable Kresling unit with a magnetic cap
+  snaps between states under an in-plane magnetic torque and keeps its
+  state with the field removed; right- and left-handed units are Buffer and
+  NOT switches, one unit can carry several switches, and a logic-synthesis
+  method minimizes the units needed. A "mechanical programmable gate
+  array" lays out one module per minterm; a wheeled robot steered by the
+  outputs of two origami units follows a field of magnets and sets the
+  modules it passes, which programs the function. Demonstrations include
+  full adder and subtractor, a 2-bit adder or multiplier, and a mobile full
+  adder that reuses itself.
+---
+<!-- inactive-ok-file: THEORY-tmpj0xcg — Proposed; cited from the reading of Chen, Tan and Yan (2025) as open -->
+
+# LIT-tmp57hqx: General-purpose mechanical computing enabled by origami circuit reconfiguration with robotic addressing and activation
+
+Chen, Y., Tan, T. & Yan, Z. (2025). General-purpose mechanical computing enabled by origami circuit reconfiguration with robotic addressing and activation. *Nature Communications* 16: 10483. doi:10.1038/s41467-025-65464-x.
+
+## Key takeaways
+
+*From the reading, NOTE-tmp2uw2z.*
+
+- **Non-volatile.** "The bistability of Kresling origami imparts
+  non-volatility to the mechanical computing system, enabling the
+  switching state to be preserved without continuous energy input".
+- **Programmable over minterms.** "Provided that the functional modules
+  cover all minterms (i.e., all possible input combinations), the MPGA can
+  be programmed to implement arbitrary combinational logic functions."
+- **Programmed by a path.** The function is set by which modules the
+  addressing robot passes, and that path is set by a designed layout of
+  magnets.
+- **The "fully mechanical" claim overstated.** The robot's wheels run on electric
+  motors switched by origami outputs; results are read as voltages.
+
+## Standing in the record
+
+Cited in the pasted synthesis on constraint architectures as S7, by
+title, venue and DOI only. Read as a physical case for CLAIM-025 (minterm
+states, module layout and addressing robot are separate hardware) and of
+memory held in configuration. Programming is external: the magnet layout
+is designed outside the device. It is an engineered electromechanical
+computer, not a case of embodied cognition. Filed from it:
+THEORY-tmpj0xcg. No instruction for machine-learning practice; nothing
+for the anthology.

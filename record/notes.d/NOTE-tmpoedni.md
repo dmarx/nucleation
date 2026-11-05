@@ -1,0 +1,152 @@
+---
+status: Read
+paper: 'LIT-tmp36khj'
+title: 'Liu, Fang, Xu and Wang — Multistable origami metamaterials for mechanical learning'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from two copies: the published version's JATS full
+    text in Europe PMC
+    (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10700163/fullTextXML),
+    CC BY 4.0, tags stripped; and the arXiv preprint
+    (https://arxiv.org/pdf/2305.19856), 24 pages, by pdftotext. Read in
+    full: the preprint's main text (introduction, results 2.1–2.4,
+    conclusion, experimental section) and, in the published version, the
+    added Discussion (3.1–3.6), Conclusion and Experimental Section; the
+    numerical results agree between the two. Skipped: Supporting
+    Information S1–S2 (mechanical model, least-action transition
+    prediction, design parameters) and Videos S1–S2. Quotes are from the
+    published text, with hyphen glyphs normalized.
+date: '2026-11-05'
+summary: >-
+  A stacked Miura-origami metamaterial of bistable cells, driven by a fixed
+  sequence of tension and compression, serves as the reservoir of a
+  reservoir computer, with a trained linear readout of its visited
+  configurations. In experiment a 4×2-cell prototype recognizes ten
+  5×4-pixel digits; in simulation MNIST reaches 90.4% against 87.2% without
+  the reservoir, and a retained buffer zone carries input history on a
+  5-bit memory task. An all-compression rule erases inputs.
+---
+<!-- inactive-ok-file: THEORY-tmpx5uxp — Proposed; cited from the reading of Liu et al. (2023) as open -->
+
+# NOTE-tmpoedni: Liu, Fang, Xu and Wang — Multistable origami metamaterials for mechanical learning
+
+## Contribution
+
+A reservoir-computing framework for multistable metamaterials that avoids
+building networks of mechanical logic gates; an experiment in which a small
+origami reservoir classifies digits; simulated evidence on MNIST and a
+sequential memory task; and a single-actuator scheme in which input,
+transition and reset are all done by stretching or compressing the whole
+structure.
+
+## Key insight
+
+A multistable structure under a fixed actuation rule is a fixed nonlinear
+map from an initial configuration to a sequence of configurations, much
+like a cellular automaton. That map need not be trained: a linear readout
+of the sequence, trained in software, does the learning. What the
+structure contributes is the transformation, and the rule decides whether
+the transformation keeps the input or erases it.
+
+## Assumptions
+
+- **Quasi-static, deterministic transitions** given configuration and
+  rule, predicted in simulation by least action.
+- **Binary inputs**; MNIST pixels binarized.
+- **A trained linear readout** (60 features to 10 outputs for the digits);
+  the reservoir fixed and untrained.
+- **Structural uncertainty** probed by varying crease stiffness across five
+  chains.
+
+## Key results
+
+- **The framework (abstract).** "a novel computational framework based on
+  multistable origami metamaterials by incorporating reservoir computing is
+  proposed, which can accomplish high-level computation tasks without the
+  need to construct a logic gate network".
+- **Readout (2.1).** "To minimize the output error, the readout weights are
+  trained with logistic regression."
+- **Experiment (2.1).** "The other 9 digits in Figure 2A are also
+  recognized experimentally with 100% accuracy under the same reservoir
+  process and the same readout weights."
+- **MNIST, simulated (2.2).** "the overall recognition accuracy can reach
+  90.4%"; without the reservoir, "which causes a decrease in recognition
+  accuracy (87.2%)"; at best 91.8%.
+- **Memory, simulated (2.3).** "the final configuration from the previous
+  timestep carries the historic input information and would contribute to
+  sequential learning"; "if the metamaterial consists of 200 SMO cells,
+  the prediction error gets close to zero".
+- **A failing rule (2.3).** "the input cannot be effectively transmitted to
+  the buffer zone because the SMO metamaterial will always be transformed
+  into a fully compressed stable configuration no matter what pattern is
+  given".
+- **Single actuator (2.4).** "determining actuation rules from the image
+  information in the computational framework will reduce the flexibility
+  of the transition procedures".
+- **Scope (conclusion).** "For more complex tasks, such as handwriting
+  recognition and 5-bit memory tasks, the effectiveness is tested via
+  simulations."
+
+## Concepts
+
+- **SMO cell**: a bistable stacked Miura-origami cell, concave 0, convex 1.
+- **Actuation rule**: a vector of tension (1) or compression (−1) entries,
+  one per transition.
+- **Encoding, transition, readout**: the three steps of computing with the
+  metamaterial.
+- **Writing zone and buffer (memory) zone**: cells that take new inputs
+  each step, and cells whose configuration is kept across steps.
+- **Default stable configuration**: one reachable from every
+  configuration, 0-0-0-0 by successive compression, used as a reset.
+
+## Connections
+
+It draws on reservoir computing and physical reservoir computing, and on
+the analogy with cellular automata, for which the record holds LIT-1175 on
+the information-transfer side. Unlike learning machines in which the
+material itself changes under training, here only the electronic readout
+is trained.
+
+## Bearing on the record
+
+- **The synthesis's description.** The pasted synthesis on constraint
+  architectures cites it as O10: reservoir computing, digit recognition and
+  short-term memory. Right in outline; two qualifications.
+  - **The learning is in a linear readout.** The origami supplies a fixed
+    nonlinear transformation; "mechanical learning" in the title is in that
+    sense. Where the synthesis runs from fixed geometry through
+    reconfigurable to trainable structures, this paper sits at the first
+    two: the material is not trained.
+  - **Only the small-digit task was done in experiment.** MNIST and the
+    memory task, a 5-bit memory benchmark that the synthesis calls
+    short-term memory, were simulated. The publisher's table-of-contents
+    text, "Digit recognition and complex tasks are successfully implemented
+    through experiments by a single actuator", overstates the main text.
+- **CLAIM-480 (eliminating a slowly relaxing interior leaves a
+  history-dependent constraint).** Supports by example: the buffer zone is
+  such an interior, its retained configuration making the readout's
+  response depend on input history.
+- **TERM-064 (legibility).** Loosely: accuracy depends on which
+  distinctions the readout can recover from the transition sequence, and
+  an all-compression rule makes every input illegible by sending it to one
+  absorbing configuration.
+- **CLAIM-025.** A weak bearing: the actuation rule is an organization
+  separable from the configurations it drives.
+- **CLAIM-347, CLAIM-495, CLAIM-538, CLAIM-365, THEORY-171, TERM-060**,
+  cited near it in the synthesis: no bearing.
+- Filed: THEORY-tmpx5uxp.
+
+## Limitations
+
+- **Experiment** on a 4×2-cell prototype with ten synthetic 5×4 digits and
+  noisy versions; everything else simulated.
+- **Modest gain** on reduced MNIST subsets.
+- **The authors' own**: "it is not mature enough compared to other existing
+  computing frameworks in terms of flexibility, computational efficiency,
+  scalability, system-level implementation, and reliability"; fatigue and
+  damage open.
+- **Single-actuator trade-off**: tying the rule to the input reduces
+  flexibility.
