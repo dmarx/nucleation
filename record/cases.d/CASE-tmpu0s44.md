@@ -25,10 +25,10 @@ summary: >-
   expects either result to be informative: a small early intervention that
   raises the probability of global organization without changing the final
   requirements, or early stabilization that traps. The assistant's
-  annealing toy (CASE-tmpa6s9d) runs one slice of it, with temperature in
+  annealing toy ([CASE-tmpa6s9d](CASE-tmpa6s9d.md)) runs one slice of it, with temperature in
   place of allocation. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-567 CLAIM-566 CASE-tmpa6s9d QUESTION-tmpg0j9y CLAIM-184 — Proposed or new; entries this study would test, cited as open -->
+<!-- inactive-ok-file: CLAIM-567 CLAIM-566 CASE-tmpa6s9d CLAIM-184 — Proposed or new; entries this study would test, cited as open -->
 
 # CASE-tmpu0s44: A proposed stochastic assembly study: hold a target organization fixed, vary the relative availability and the strength or arrangement of components at fixed total expenditure, and measure feasibility, the probability and time of assembly, kinetic traps, early intermediates and persistence
 
@@ -63,17 +63,17 @@ likely". In A's words, "Both results would be valuable."
 
 ## What it can show
 
-- **The three properties apart,** in one model: CLAIM-567's feasible,
-  reachable and reliably reachable, and CLAIM-566's assembling and
+- **The three properties apart,** in one model: [CLAIM-567](../claims.d/CLAIM-567.md)'s feasible,
+  reachable and reliably reachable, and [CLAIM-566](../claims.d/CLAIM-566.md)'s assembling and
   persisting. Regeneration is not in the design.
-- **An answer to QUESTION-tmpg0j9y** for the model, if the allocation is
+- **An answer to [QUESTION-tmpg0j9y](../questions.d/QUESTION-tmpg0j9y.md)** for the model, if the allocation is
   varied at fixed total and the distribution of final forms is measured.
 - **The anchor question both ways:** whether an early anchor helps, as a
-  nucleus, or entrenches the wrong form (CLAIM-184).
+  nucleus, or entrenches the wrong form ([CLAIM-184](../claims.d/CLAIM-184.md)).
 
 ## What has been run
 
-- **The assistant's annealing toy** (CASE-tmpa6s9d) runs one slice, with the
+- **The assistant's annealing toy** ([CASE-tmpa6s9d](CASE-tmpa6s9d.md)) runs one slice, with the
   level of a resource varied rather than its allocation. It shows both of
   A's outcomes. A brief hot step that makes the nucleus without the trap
   raises the folded fraction within the hour from at best 90.3 % to

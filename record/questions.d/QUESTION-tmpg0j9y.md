@@ -24,7 +24,7 @@ summary: >-
   free energy. Whether an organizational form behaves so needs a mechanism
   of its own. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpvgzvb THEORY-tmp2h496 CLAIM-583 CLAIM-567 CASE-tmpu0s44 — Proposed or new; the DNA origami readings and entries of this pull request, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp2h496 CLAIM-583 CLAIM-567 CASE-tmpu0s44 — Proposed or new; the DNA origami readings and entries of this pull request, cited as open -->
 
 # QUESTION-tmpg0j9y: Can changing how a fixed stock of resources is allocated among otherwise unchanged components alter which form nucleates, and so which form results, even when the set of attainable final forms stays the same?
 
@@ -38,15 +38,15 @@ assembles." A writes the choice of the next event as a competition,
 
 so the abundance c_i of a component sets which partial structure forms
 first, and that structure sets what can follow. The record holds that the
-same constraint system can differ in reachability (CLAIM-583) and that
-feasible, reachable and reliably reachable come apart (CLAIM-567). It does
+same constraint system can differ in reachability ([CLAIM-583](../claims.d/CLAIM-583.md)) and that
+feasible, reachable and reliably reachable come apart ([CLAIM-567](../claims.d/CLAIM-567.md)). It does
 not ask whether the allocation of a fixed stock, rather than its amount or
 the constraints, selects the outcome.
 
 ## What the record already has on it
 
-- **Changing stabilities redirects the outcome.** Dunn et al. (NOTE-tmpvgzvb,
-  THEORY-tmp2h496) change only the staples that stabilize intermediates, and
+- **Changing stabilities redirects the outcome.** Dunn et al. ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md),
+  [THEORY-tmp2h496](../theory.d/THEORY-tmp2h496.md)) change only the staples that stabilize intermediates, and
   products shift among final shapes of about equal free energy. In their
   model, misfolds fall from 52 % to 1 %.
 - **Concentration acts as a stability.** The lead's observation, not A's: in
@@ -76,7 +76,7 @@ the constraints, selects the outcome.
 
 - **In molecules,** an experiment or model that holds total staple stock fixed
   and varies only its allocation, measuring the distribution of final
-  forms, not only the folding path. A's proposed study (CASE-tmpu0s44) is
+  forms, not only the folding path. A's proposed study ([CASE-tmpu0s44](../cases.d/CASE-tmpu0s44.md)) is
   one design for it.
 - **In organizations,** a model in which a fixed budget is divided among
   units whose early commitments are hard to reverse, and in which the set
