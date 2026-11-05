@@ -84,6 +84,7 @@ supports:
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: NOTE-tmphcgif — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 <!-- inactive-ok-file: CASE-tmpsbhp8 CLAIM-tmpuxuo4 CLAIM-tmpvl8j0 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: NOTE-tmplptka CLAIM-tmp7pv9x NOTE-tmpec4ov CLAIM-tmpsbz28 CLAIM-tmplysd0 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
@@ -371,3 +372,9 @@ No status changes.
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 [CLAIM-tmpuxuo4](CLAIM-tmpuxuo4.md) shows that the complex indexed by a resource budget is monotone in the budget and contained in the unbudgeted complex, so raising a budget relieves only sets that are faces of the unbudgeted complex; [CASE-tmpsbhp8](../cases.d/CASE-tmpsbhp8.md) is a small instance with a hollow triangle no budget fills. [CLAIM-tmpvl8j0](CLAIM-tmpvl8j0.md) separates relieving a mismatch from redistributing or exploiting it. No status changes.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+Readings filed beside the pasted synthesis on resource-bounded realizability bear on the complex. The reader of Ignatov (NOTE-tmplptka, read in part) shows that its faces are the sets of demands with a nonempty extent in the demand–configuration formal context, the non-vacuous part of that context's closure system, so the concept lattice recovers the complex and adds implications among demands; restricted to the configurations affordable at a budget, those implications are antitone in it (CLAIM-tmp7pv9x). THEORY-698's warning carries over: such a lattice is "guaranteed by construction" for any incidence, so only its shape informs.
+
+The reading of Gopalan et al. (NOTE-tmpec4ov) qualifies what the complex can carry. Positive 1-in-3 SAT and positive NAE-3SAT are both NP-complete to satisfy, yet st-connectivity of solutions is polynomial for the first and PSPACE-complete for the second, so an object at the level of joint satisfiability cannot carry the complexity of navigating between solutions. That is the reader's inference, for Boolean languages and single flips. CLAIM-tmpsbz28 shows the same within one complex, and CLAIM-tmplysd0 that one organization's complex has no complexity at all. No status changes.

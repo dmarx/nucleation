@@ -24,6 +24,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: TERM-tmp2ysyt TERM-tmp46hcg CLAIM-tmpbi4ca CLAIM-tmpuk8gq CLAIM-tmp4g8e1 CLAIM-tmpancvu CASE-tmpqk2kd CASE-tmp0g3pa CASE-tmpe3itu CASE-tmp0s6cg — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: TERM-tmpr3hl8 NOTE-tmpegumv CLAIM-tmp7bxc0 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-tmp26wo4: resource constraint, by type: a fixed stock, an instantaneous capacity, a rate limit, a cumulative expenditure, a replenishable reserve and a deadline, which bound different functions of a path and are not one budget
 
@@ -89,3 +90,7 @@ switching rules and costs."
 Adoption by the owner, or a claim of the record's own stated in it. One
 candidate is [CLAIM-tmpancvu](../claims.d/CLAIM-tmpancvu.md), which states a form's three resource
 requirements in these types.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The pasted synthesis on resource-bounded realizability takes this term's six types as its starting point and says the filing "even includes a model in which the configuration q, architecture z, reserve b, and competency k all evolve"; that model was A's own, from the earlier paste, recorded here. TERM-tmpr3hl8 complements the term with what it lacks: processes and their composition, and changes of architecture as costed moves. The readers of Lawvere (NOTE-tmpegumv) and of Marsden and Zwart (NOTE-tmpp7mrt) sort the types by how they compose: an instantaneous capacity (max) and a cumulative expenditure (+) are each a quantale base, while a replenishable reserve has no context-free composition law and must be carried in the state, as A says. CLAIM-tmp7bxc0 draws the consequence: only the capacity gives a category of affordable processes at every budget, and a reserve can make the order of two processes matter. No status changes.

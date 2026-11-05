@@ -41,6 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmps6lqg THEORY-tmpqzxwh CLAIM-tmp9jvpb CLAIM-tmpuk8gq TERM-tmp2ysyt CASE-tmp06sg5 CASE-tmp0g3pa CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-tmpb5t9j CASE-tmpe48yq CASE-tmpez9ok CASE-tmpjldzw CASE-tmpqk2kd CLAIM-tmpancvu TERM-tmp26wo4 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: NOTE-tmpegumv CLAIM-tmp7bxc0 NOTE-tmpdizof CLAIM-tmpy685m CLAIM-tmp4rtpa CLAIM-tmpuxuo4 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-tmpbi4ca: For a fixed architecture, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two
 
@@ -130,3 +131,9 @@ target and a reachable one ([CLAIM-tmp9jvpb](CLAIM-tmp9jvpb.md)).
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 Later entries from the same paste instance and extend the claim. [CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md) is a real mechanism's version: a degree-4 origami vertex whose branch switch must pass the flat state, so its footprint threshold (about 1.87) exceeds both endpoints (0.75 and 0.875). [CASE-tmpb5t9j](../cases.d/CASE-tmpb5t9j.md) and [CASE-tmpez9ok](../cases.d/CASE-tmpez9ok.md) give the infinite case, and [CASE-tmpjldzw](../cases.d/CASE-tmpjldzw.md) the qualifier "for a fixed architecture" at work in a built system. The time-for-peak example and the resource-type table this claim mentions in passing are now [CASE-tmpqk2kd](../cases.d/CASE-tmpqk2kd.md) and [TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md), and construction cost as a third requirement is [CLAIM-tmpancvu](CLAIM-tmpancvu.md). No status changes.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+Readings filed beside the pasted synthesis on resource-bounded realizability place B* and price it. The readers of Lawvere (NOTE-tmpegumv) and of Marsden and Zwart (NOTE-tmpp7mrt) check that ([0, ∞], inf, max) is a quantale, so B* is the hom of the free category it enriches on the configuration graph, the closure over paths. Using max as the tensor is the readers' step; it is not among Marsden and Zwart's examples. In that category the affordable processes compose at every budget (CLAIM-tmp7bxc0).
+
+Ito et al. (NOTE-tmpmqj4b) make B* the minmax objective of their §4 and show that computing it can be hard: minmax power supply reconfiguration is strongly NP-hard (Lemma 3), maxmin clique reconfiguration has no constant-factor approximation unless P = NP (Theorem 4), and minmax set cover reconfiguration has a linear-time 2-approximation (Theorem 6). The reading of Raussen (NOTE-tmpdizof) and CLAIM-tmpy685m add that under one-way moves B*(A, B) and B*(B, A) can differ, which the claim's undirected paths do not show. CLAIM-tmp4rtpa pairs the threshold with CLAIM-tmpuxuo4's compatibility filtration; neither determines the other. No status changes.

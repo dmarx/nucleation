@@ -27,6 +27,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the record's claim on scale separation, cited as the held time-scale form -->
 <!-- inactive-ok-file: QUESTION-287 — Answered; cited as the part of the question the record has settled -->
 <!-- inactive-ok-file: THEORY-tmpixfqm THEORY-tmpq2qdv — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-tmpez9ok CLAIM-tmpuxuo4 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # QUESTION-tmpt2p0s: When does an effective constraint cease to be a good approximation because previously suppressed degrees of freedom become dynamically important?
 
@@ -77,3 +78,9 @@ shock against the cost of reopening a settled arrangement.
 A further case of a time-scale reduction that holds, which the record
 already has; or a case of a constraint failing with no account of which
 suppressed degree of freedom became important and why.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The pasted synthesis on resource-bounded realizability reads the square twist (CASE-tmpez9ok) as a case of this question. In a rigid-facet model, admitting facet bending enlarges the admissible process class; in an elastic model the bending was always there, at a high energy cost. A: "These descriptions are compatible if the first is understood as a low-energy effective model of the second." A proposes "a hierarchy of effective constraint theories indexed by resource scale", in which what acts as a hard constraint at low resources becomes a penetrable barrier or a further mode at higher ones, and asks a resource-bounded theory to say "which impossibilities are structural within the declared model and which are effective exclusions at a given scale".
+
+That bears on CLAIM-tmpuxuo4: its structurally frustrated sets are frustrated relative to the declared configurations, and a change of scale that admits new ones is, in its terms, a change of architecture. A's hierarchy is a proposal; it gives no conditions of the kind the question asks for. No status changes.

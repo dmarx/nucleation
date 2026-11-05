@@ -23,6 +23,7 @@ summary: >-
   system's own. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-545 CLAIM-tmp99w2g — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: TERM-tmpr3hl8 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # QUESTION-tmpqlcf4: What distinguishes a programmable system from one that governs its own reconfiguration?
 
@@ -86,3 +87,7 @@ whose procedures produce the verdict.
 Internal feedback alone, which Stern et al.'s sheet already has; or a
 system that reconfigures itself with no account of where the criterion
 for its reconfiguration comes from.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The pasted synthesis on resource-bounded realizability first asks whether constraints are constitutive of the object or can themselves be reconfigured by computation, which would point to "computation that constructs, modifies, and navigates spaces of constraints"; A then finds the filing already answers yes. TERM-tmpr3hl8 gives a frame in which this question can be put: changes of architecture are costed moves of their own, beside moves within one architecture. In that frame a merely programmable system is one whose architectural moves are chosen from outside, and the question is what makes the choosing the system's own. The frame states the moves and does not answer that. The reading is the filer's. No status changes.

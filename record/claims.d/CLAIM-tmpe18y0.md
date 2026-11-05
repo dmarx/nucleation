@@ -121,3 +121,7 @@ which budgets, which can be driven by the inputs, and which regenerate.
   obstruction levels ([CLAIM-tmp06538](CLAIM-tmp06538.md)) would be one structure such a
   simulation preserves; the hypothesis includes it and the record has not
   tested it.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The second paste of the pasted synthesis on resource-bounded realizability revises the hypothesis. A universality theory "should classify the structures preserved when configurations, processes, and constraint-maintenance mechanisms are translated across substrates, relative to declared computational and observational regimes", and its central problem is when composition and reconfiguration "create new effective possibilities, representations, or obstructions that persist across those translations". The revision adds maintenance mechanisms to what is translated, and makes the classification relative to a declared regime, as in TERM-065's effective-description regimes. The third paste states the hypothesis for relational profiles, in the conjecture QUESTION-tmptcuch records. A still offers it as a conjecture. No status changes.

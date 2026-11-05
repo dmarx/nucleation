@@ -27,6 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpal9mc CLAIM-tmpuxuo4 CLAIM-tmpbi4ca CASE-tmp06sg5 TERM-tmpuc919 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: CLAIM-tmp99w2g CASE-tmpoo2tj — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmp06538 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # QUESTION-tmpt9dhv: When does an intervention on a constraint architecture create a capability the system lacked, rather than make one it already had cheaper, faster or more reliable to reach, and how can the two be told apart?
 
@@ -89,3 +90,7 @@ make it hold.
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 A's research programme in Part 3 compares architectures on seven dimensions: static compatibility, infinitesimal freedom, the global topology of the configuration space, dynamic reachability, robustness, the cost of reconfiguration, and maintenance under turnover. A's crucial experiment: "construct two organizational architectures with the same component resources and similar ordinary outputs but different feasible response geometries", then ask "Does the new organization merely lower costs? Does it change the attainable set? Does it add a branch of behavior? Does it create a new viable regime? And does that regime persist when the intervention ends?" The last is the persistence half of [CLAIM-tmp99w2g](../claims.d/CLAIM-tmp99w2g.md), and [CASE-tmpoo2tj](../cases.d/CASE-tmpoo2tj.md) is the readiness version of the paired architectures. No status changes.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The pasted synthesis on resource-bounded realizability states this question's distinction as "a central theorem schema": "Increasing available resources while holding the architecture fixed may make previously inaccessible configurations affordable. Changing the architecture can alter the set of admissible configurations or processes itself." Among its open questions: "Could architectural transformations be classified by the kinds of computational obstructions they remove?" CLAIM-tmp06538 gives one form of such a classification: six levels from compatibility to regeneration, each paired with what repairs it, so that an intervention can be typed by the level it acts on. The fixed-architecture half of the schema is shown for joint demands by CLAIM-tmpuxuo4 and for transitions by CLAIM-tmpbi4ca. The other half, what a change of architecture creates, is what stays open here. A offers it as a schema, not a theorem. No status changes.

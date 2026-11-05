@@ -47,6 +47,7 @@ summary: >-
   reader; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbi4ca CLAIM-tmpuk8gq NOTE-tmpegumv — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpxcbet — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-tmp7bxc0: When process costs compose by a monotone operation, the processes costing at most b are closed under composition whenever b composed with itself is at most b, and not otherwise once two composable processes each cost b: at every budget for a peak capacity composed by maximum, and for a cumulative expenditure composed by sum only at budgets 0 and infinity
 
@@ -131,3 +132,7 @@ from the state space.
   transformations are free and the costly things are resources; their
   contrast of sum and maximum is a contrast of how resources combine in
   parallel ([NOTE-tmpkmvs1](../notes.d/NOTE-tmpkmvs1.md)), not of how process costs compose in sequence.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The third paste of the pasted synthesis on resource-bounded realizability reaches this claim from Yoneda: "simply deleting all morphisms that exceed a fixed cumulative budget generally does not yield an ordinary presheaf closed under precomposition", and A asks for a graded law κ(f∘g) ⪯ κ(f)⊙κ(g). In this claim's terms, as the filer's derivation: the morphisms into an object costing at most b are closed under precomposition by probes costing at most b whenever b ⊗ b ⪯ b, and, where costs compose exactly, not once two composable morphisms each cost b and b ⊗ b ⋠ b. If probe morphisms are free, costing 0, they are closed at every budget, since κ(f) ⊗ 0 = κ(f). The peak-capacity case is worked on a degree-4 vertex in CLAIM-tmpxcbet, whose max-enriched category puts the two folded states about 1.866 apart. No status changes.

@@ -28,6 +28,7 @@ summary: >-
   compatibility complex; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpuxuo4 — Proposed; the claim this case works, filed beside it from A's synthesis of 2026-11-04 -->
+<!-- inactive-ok-file: NOTE-tmplptka CLAIM-tmp7pv9x — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CASE-tmpsbhp8: Three demands and four configurations: each pair of demands is jointly met at some cost, the pairs enter the budgeted complex at budgets 1, 2 and 3, and the triple never does, so raising the budget relieves scarcity and leaves the frustration where it was
 
@@ -84,3 +85,7 @@ Checked by the filer.
 - **What a hollow triangle means operationally**: whether the three
   demands can be met in turn, two at a time, is a question about
   sequencing, not about the complex.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+For the filing from the pasted synthesis on resource-bounded realizability, the reader of Ignatov (NOTE-tmplptka, read in part) worked this case's four configurations as a formal context, and the filer rechecked it by enumeration. For 1 ≤ b < 2, with q₁ and q₂₃ affordable, demands 2 and 3 imply each other, and {1, 2} and {1, 3}, met by no affordable configuration, vacuously imply all three demands. At b ≥ 2, q₁₂ breaks 2 → 3; at b ≥ 3, q₁₃ breaks 3 → 2. Only the triple keeps an empty extent at every budget, which is the frustration the case identifies. So as the budget rises the complex grows and the valid implications shrink, the antitone family of CLAIM-tmp7pv9x. The derivation is the reader's, from A's construction, not Ignatov's. No status changes.

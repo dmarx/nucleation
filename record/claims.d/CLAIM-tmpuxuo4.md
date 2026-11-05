@@ -45,6 +45,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CASE-tmpsbhp8 CLAIM-tmpal9mc CLAIM-tmpuk8gq CLAIM-555 — Proposed; the case and claims filed beside this one from A's synthesis of 2026-11-04, and a held claim, cited as filed -->
+<!-- inactive-ok-file: NOTE-tmplptka CLAIM-tmp7pv9x CLAIM-tmpsbz28 CLAIM-tmplysd0 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-tmpuxuo4: Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is frustrated at every budget, and one inside it but outside the complex at budget b is short of resources at b, not frustrated
 
@@ -123,3 +124,9 @@ resource than the budget allows.
   there; transitions and their obstructions are [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md)'s.
 - **That the complex is the finest invariant.** [CLAIM-555](CLAIM-555.md) holds the
   complex a coarse summary beside finer ones.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The reading of Ignatov's introduction to formal concept analysis (NOTE-tmplptka, read in part), filed beside the pasted synthesis on resource-bounded realizability, shows that A's demand–configuration connection is the derivation-operator connection of a formal context, with configurations as objects and demands as attributes. K(b) is then the sets of demands with a nonempty extent among the configurations affordable at b. Restricting the objects to those configurations gives implications among demands that are antitone in the budget while K(b) grows. That is the reader's derivation, rechecked by the filer on CASE-tmpsbhp8 and filed as CLAIM-tmp7pv9x.
+
+Two entries filed from the same paste mark what the complex does not carry, in line with this claim's own disclaimer about reaching a witness. CLAIM-tmpsbz28 gives two systems with the same complex, move rule and costs that differ in reachability, and CLAIM-tmplysd0 holds that one organization's complex, a single fixed instance, has no computational complexity. No status changes.

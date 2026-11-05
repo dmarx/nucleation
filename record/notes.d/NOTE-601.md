@@ -37,6 +37,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named for the bearing reported, not edited -->
+<!-- inactive-ok-file: NOTE-tmpegumv CLAIM-tmpbi4ca — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # NOTE-601: Seven Sketches in Compositionality
 
@@ -170,3 +171,7 @@ literature.
 - Whether a full reading of Chapters 2 and 4 (monoidal preorders, enrichment,
   profunctors, monoidal categories) would support a THEORY on resource
   theories, which the record does not yet hold.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+For the filing from the pasted synthesis on resource-bounded realizability, Chapter 2 was read in part: §§2.1, 2.2.3, 2.3.3–2.3.4, 2.5.3 and 2.6. The rest of Chapters 2 and 4–7 stays unread, so the status stays Skimmed. The chapter treats a resource theory as a symmetric monoidal preorder and calls that notion static: it settles once and for all which resources can be had from which. It presents Lawvere metric spaces as Cost-categories, giving the cost of getting one resource from another; the shortest-path metric of a weighted graph; computing the enriched category a weighted graph presents by matrix multiplication in a quantale; and asymmetry, since going downhill can take less effort than coming back up. Exercise 2.63 uses another base, whose closure gives the widest path: the best, over paths, of the smallest edge label. The readers of Lawvere (NOTE-tmpegumv) and of Marsden and Zwart (NOTE-tmpp7mrt) use this for CLAIM-tmpbi4ca's bottleneck budget by taking max as the tensor; that step is theirs, not the book's. No status changes.

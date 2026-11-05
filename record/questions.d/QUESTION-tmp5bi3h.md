@@ -23,6 +23,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbi4ca CLAIM-tmp9jvpb — Proposed; A's claims filed from the same paste, cited as open -->
+<!-- inactive-ok-file: NOTE-tmpec4ov NOTE-tmpwmx5d — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # QUESTION-tmp5bi3h: Can adding, removing, or reassigning organizational constraints cause a transition in the dimension or connectivity of the organization's feasible response space?
 
@@ -64,3 +65,7 @@ model.
 - [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md) and [CLAIM-tmp9jvpb](../claims.d/CLAIM-tmp9jvpb.md): connectivity of the feasible set as
   what decides reachability.
 - [QUESTION-tmp8jsu9](QUESTION-tmp8jsu9.md): new freedoms where rigid parts meet.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The reading of Gopalan et al. (NOTE-tmpec4ov), filed beside the pasted synthesis on resource-bounded realizability, gives a partial answer in the Boolean setting, by analogy only. Adding one relation type that is not tight to a tight language turns st-connectivity of the solution space from polynomial to PSPACE-complete (Theorem 2.9) and allows components of exponential diameter (Theorem 2.10). Schwerdtfeger's correction (NOTE-tmpwmx5d) restates the boundary for safely tight languages, and the hard side only grows. The jump comes from a change of constraint vocabulary, not of one instance, and it is in the complexity of connectivity, not in the dimension of a feasible set. The organizational model the question asks for is still missing. No status changes.

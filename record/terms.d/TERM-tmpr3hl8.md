@@ -28,6 +28,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp06sg5 CASE-tmpez9ok CLAIM-tmp4rtpa CLAIM-tmp7bxc0 CLAIM-tmpbi4ca CLAIM-tmpe18y0 CLAIM-tmpr4sof CLAIM-tmpuk8gq CLAIM-tmpy685m TERM-tmp26wo4 TERM-tmpckwjg THEORY-tmpzax66 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-477 CLAIM-314 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-tmpr3hl8: resource-bounded constraint system: architectures, the configurations and costed processes each admits, costed changes of architecture and the observations available, with reachability indexed by a partially ordered budget
 
@@ -123,3 +124,7 @@ enriched view keeps only the best cost between two configurations.
 
 Adoption by the owner, or a claim of the record's own stated in it.
 [CLAIM-tmp4rtpa](../claims.d/CLAIM-tmp4rtpa.md), [CLAIM-tmp7bxc0](../claims.d/CLAIM-tmp7bxc0.md) and [CLAIM-tmpe18y0](../claims.d/CLAIM-tmpe18y0.md) are stated in it.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The second paste of the pasted synthesis on resource-bounded realizability revises the object to 𝔒 = (Z, Q, 𝒞, 𝒫, ℛ, κ, 𝓘, 𝓜). Beside this term's components it adds 𝒞, the compatibility and correspondence structures, which TERM-093 keeps apart from the physical coupling that holds them; 𝓘, the inquiry structure by which a system generates and uses its representations and questions (TERM-095; CLAIM-475); and 𝓜, the processes that construct, modify, maintain or regenerate constraints (CLAIM-477). A's §8 adds recognition and reuse costs to the resource accounting (CLAIM-314). A's caveat: "I would be careful not to assume that every component is necessary for every kind of object." No status changes.

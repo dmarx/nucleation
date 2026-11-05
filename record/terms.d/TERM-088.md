@@ -161,3 +161,7 @@ The join is filed as [CLAIM-544](../claims.d/CLAIM-544.md), which names its sens
 [CLAIM-170](../claims.d/CLAIM-170.md)'s level and target.
 
 The term is unchanged.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The third paste of the pasted synthesis on resource-bounded realizability gives a table, recorded in QUESTION-tmptcuch, of what a categorical framework could establish for each of this term's senses, which A says "mirrors the distinctions in TERM-088, rather than collapsing them". Restricted Yoneda profiles at a budget address the descriptive sense directly. Dynamical individuation needs relations between profiles over time, and "persistence need not mean that the profiles remain isomorphic". The constitutive sense needs an account of how relations help determine identity, and autonomy needs processes that maintain the supporting constraints. Of the profile construction A says that it might help with the other senses but "does not automatically establish them". No status changes.

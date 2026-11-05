@@ -25,6 +25,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-034 CLAIM-tmpe18y0 CLAIM-tmplysd0 NOTE-tmpec4ov QUESTION-008 TERM-tmpr3hl8 THEORY-tmp34oop THEORY-tmpmcxbv — Deferred or Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmp99w2g CLAIM-473 CLAIM-478 THEORY-812 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-tmpckwjg: universality, of resource-bounded constraint systems, and which sense: expressive, that a restricted family implements every member of a class; computational, that one family resource-simulates another with bounded overhead, an equivalence only when the simulation runs both ways; or scaling, that families share asymptotic laws
 
@@ -121,3 +122,9 @@ families.
 
 Adoption by the owner, or a claim of the record's own stated in it.
 [CLAIM-tmpe18y0](../claims.d/CLAIM-tmpe18y0.md), A's universality hypothesis, is stated in it.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The second paste of the pasted synthesis on resource-bounded realizability proposes computational, architectural and regenerative universality: implementing an expressive class of computations, constructing or reconfiguring an expressive class of constraint architectures, and reproducing the capacities for those constructions through turnover. A: "one does not automatically imply the next". It splits this term's organizational level into constructing or reconfiguring and regenerating. A's boundary case: an externally designed crease pattern may implement a computation without producing the pattern or maintaining the machinery that folds it, the gap CLAIM-tmp99w2g keeps between assembling and regenerating.
+
+From THEORY-1054, where one arrangement gives a wave or a heat equation by its update semantics, A concludes that a universality class must say whether it classifies constraints, operations, dynamics or a combination; A notes CLAIM-473 is Rejected and that what survives, in CLAIM-478, is conditional. For the scaling sense A takes THEORY-391 and THEORY-812 as the template, with candidate observables such as the least resources to find a compatible configuration or the fraction of reliably reachable targets. No status changes.

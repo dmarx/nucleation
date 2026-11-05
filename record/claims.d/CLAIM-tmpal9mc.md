@@ -48,6 +48,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp9jvpb CLAIM-tmpuxuo4 CLAIM-tmpbi4ca CASE-tmpe3itu THEORY-tmps6lqg THEORY-tmppn4nt THEORY-tmpucnpz THEORY-tmpabuss — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
+<!-- inactive-ok-file: CLAIM-tmp06538 CLAIM-tmphme89 NOTE-tmpdizof CLAIM-tmpy685m — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-tmpal9mc: A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations
 
@@ -126,3 +127,9 @@ one and no further.
   may be the dearest move there is.
 - **That organizations have configuration spaces** in which these can be
   located. The mapping is A's analogy; the cases are mechanical.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The pasted synthesis on resource-bounded realizability, and the readings and entries filed from it, bear on the classification. CLAIM-tmp06538 extends it at both ends, with a failure of compatibility before the four and of regeneration after them. Telling which obstruction holds can itself be hard over families of problems. In Eppstein's flaps and flips (NOTE-tmpv7lp6) whether any path joins two valid states is PSPACE-complete; in Ito et al. (NOTE-tmpmqj4b) reconfiguration within a threshold is PSPACE-complete for many problems, and computing the least worst intermediate cost is strongly NP-hard or inapproximable in some. Both readers asked whether diagnosis is a fifth mode; CLAIM-tmphme89 holds it a property of the four, not a fifth.
+
+The reading of Raussen (NOTE-tmpdizof) asks the claim to say whether its paths are directed. A deadlock lies in a connected state space with no directed path out of it: a mode the claim misses if "no path" means undirected connectivity, covered if it means directed paths. CLAIM-tmpy685m states the point. The same reader notes that raising a capacity shrinks the forbidden region and can remove a deadlock, so there a capacity bottleneck and a disconnection meet; that is the reader's reading of the model. No status changes.

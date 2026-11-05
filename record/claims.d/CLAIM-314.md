@@ -30,6 +30,7 @@ summary: >-
   reuse is cheap, and nothing here is measured on the record.
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-308 — Proposed; the claim objected to, the claim it answers, and a survey's account cited as such -->
+<!-- inactive-ok-file: CLAIM-tmpisvzb — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-314: Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent
 
@@ -108,3 +109,7 @@ record's reuse is lookup by code and that the conjunctive case does not
 model prose. Nothing in the record measures the cost of recognizing what a
 filed argument answers in the record's own reuse, or shows that coverage
 for prose arguments is at least as hard as the conjunctive case.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The second paste of the pasted synthesis on resource-bounded realizability generalizes this claim: a system may hold a capability, or information sufficient for a task, without an affordable procedure for recognizing when and how to use it. A writes "Available information ⇏ Computationally accessible information" and "Existing solution ⇏ Affordable discovery of that solution", and would add recognition and reuse to the resource accounting. The claim holds the narrow case, certifying exact coverage of conjunctive queries by stored views (THEORY-389; THEORY-371), and its disclaimers stand: the hardness is worst case and says nothing about prose. Read beside CLAIM-tmpisvzb, the generalization says that a repertoire of realizable processes should count the cost of recognizing which process applies; that connection is the filer's. No status changes.

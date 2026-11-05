@@ -37,6 +37,7 @@ summary: >-
   it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpbi4ca THEORY-tmpqzxwh CLAIM-354 CLAIM-555 — Proposed; A's proposals of 2026-11-04 and a reading's account, cited as filed, nothing here rests on their being settled beyond the rests_on -->
+<!-- inactive-ok-file: NOTE-tmpegumv CLAIM-tmp7bxc0 NOTE-tmpusebl NOTE-tmp6e0rl — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-tmpuk8gq: With several resources, the budgets that suffice for a transition form an upward-closed set whose minimal elements, when the transition paths are finitely many, form a Pareto frontier; the set need not be convex, so no threshold on a weighted total of the resources describes it
 
@@ -105,3 +106,9 @@ the topology of the sublevel sets.
   leaves incomparable budgets incomparable.
 - **The nerve over several acceptance sets** that [CLAIM-555](CLAIM-555.md) takes. That is
   a complex of demands, not of resources.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+Readings filed beside the pasted synthesis on resource-bounded realizability support the frontier and say what an enrichment must use to keep it. The readers of Lawvere (NOTE-tmpegumv) and of Marsden and Zwart (NOTE-tmpp7mrt) note that a product of two quantales gives each hom the componentwise infimum over paths. For the claim's two paths with peaks (3, 1) and (1, 3) that is (1, 1), which suffices for neither. So the hom must be an up-set of budgets, as the claim already has it. The derivation is the readers', and CLAIM-tmp7bxc0 records it.
+
+The readers of Vipond (NOTE-tmpusebl) and of Botnan and Lesnick (NOTE-tmp6e0rl) find a topological counterpart, by analogy. Multiparameter persistence of sublevel sets is the right object, and its features need not be intervals. But the standard summaries are incomplete, so none is guaranteed to recover the frontier. No status changes.

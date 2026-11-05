@@ -44,6 +44,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-354 CLAIM-tmp9jvpb NOTE-1532 — Proposed or Skimmed; the record's graded-freedom claim, an entry of 2026-11-05 from the same paste, and the reading of Juarrero, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: NOTE-tmpdizof — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-tmpr4sof: Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism
 
@@ -142,3 +143,7 @@ change of mechanism each time.
   structure can make an organization more capable while it has fewer
   options, is an analogy. This claim fixes only which version of it is a
   theorem.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The reading of Raussen (NOTE-tmpdizof), filed beside the pasted synthesis on resource-bounded realizability, supports the claim in a model of concurrent programs that share resources of given capacities. An artificial resource added to cut out doomed regions only removes states, and the spaces of directed paths to targets outside those regions are unchanged. That is the reader's reading of the model as stated. No status changes.

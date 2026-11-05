@@ -48,6 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmps6lqg THEORY-tmpq2qdv THEORY-tmpucnpz THEORY-tmpmqxmo CLAIM-tmpbi4ca CLAIM-tmp675a9 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-tmpe48yq CASE-tmpez9ok CASE-tmpnqvjs CLAIM-tmpal9mc — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: NOTE-tmpa8w32 NOTE-tmp0p9z8 NOTE-tmpec4ov NOTE-tmpwmx5d — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-tmp9jvpb: That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it
 
@@ -146,3 +147,9 @@ relative to the declared model of admissible transformations".
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 At a footprint budget of 1.5, [CASE-tmpe48yq](../cases.d/CASE-tmpe48yq.md)'s two folded states are both feasible and neither can reach the other. [CASE-tmpez9ok](../cases.d/CASE-tmpez9ok.md) makes the declared class of moves itself depend on an energy budget. [CASE-tmpnqvjs](../cases.d/CASE-tmpnqvjs.md) separates simultaneous, sequential and separate capability for one squad. [CLAIM-tmpal9mc](CLAIM-tmpal9mc.md) sorts the ways reachability fails into four obstructions with different remedies. No status changes.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+Two groups of readings filed beside the pasted synthesis on resource-bounded realizability bear on the claim. The finite-domain CSP dichotomy of Bulatov (NOTE-tmpa8w32) and Zhuk (NOTE-tmp0p9z8) concerns only the first property: it classifies the complexity of deciding whether a solution exists, over fixed finite languages, and says nothing about reaching one solution from another; Zhuk's "linked" is a false friend. Polymorphisms are the precedent for an algebra predicting the complexity of feasibility; whether one predicts reachability is open relative to those papers, and for Boolean languages is the question Gopalan et al. take up (NOTE-tmpec4ov).
+
+The complexity readings give the second separation hardness results. In Eppstein's flaps and flips (NOTE-tmpv7lp6, Theorem 4) both endpoints are valid flat states, and deciding whether one reaches the other is PSPACE-complete even at bounded treewidth. Ito et al. (NOTE-tmpmqj4b, Theorems 1 and 2) show the reconfiguration versions of many NP-complete problems PSPACE-complete, while matroid bases and matchings reconfigure in polynomial time. For Boolean languages that are not tight, Gopalan et al. find st-connectivity PSPACE-complete with components of exponential diameter possible; Schwerdtfeger (NOTE-tmpwmx5d) corrects the boundary slightly toward the hard side. None of them bears on the third property. No status changes.

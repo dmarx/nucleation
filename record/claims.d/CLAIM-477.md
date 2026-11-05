@@ -395,3 +395,7 @@ behaviours of parts, and their constraint is causal coupling, not a
 constraint on admissible configurations.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-05: the resource-bounded realizability readings
+
+The second paste of the pasted synthesis on resource-bounded realizability reads this claim as making the constraint architecture itself a realization. A separates a structure's logical specification from its maintenance mechanism: one abstract constraint can have several implementations, a physical hinge for a fold, an authorization mechanism for a control restriction, a checking or enforcement procedure for an invariant, "with different reliability and resource requirements". A's conclusion: "the architecture may be an ongoing achievement of the system". A's three levels, configurations, the architecture, and the processes that produce or repair it, are offered as schematic, and A notes that the claim allows reciprocal dependencies and does not assume three discrete levels, which fits its recursion. The point about several implementations at different costs is A's addition: the claim says constraints are realized and maintained by something, not in how many ways. No status changes.
