@@ -12,7 +12,7 @@ status_note: >-
   returned HTTP 503, the Chaikin lab pages 404 and 403, and one NYU
   physics page failed TLS verification, which was not bypassed. Nothing of
   its text, figures or supplement was read. Zhou, Sha, Ni, Seeman and
-  Chaikin (2021), LIT-tmpb87sq, from the same group and on the same
+  Chaikin (2021), [LIT-tmpb87sq](LIT-tmpb87sq.md), from the same group and on the same
   cross-tile dimer replicator, which it attributes to this paper, stands
   in for the replicator, its doubling per cycle and the sterility of
   unseeded dimers, not for this paper's selection experiment, protocol or
@@ -75,7 +75,7 @@ He, X., Sha, R., Zhuo, R., Mi, Y., Chaikin, P. M. & Seeman, N. C. (2017). Expone
 ## Key takeaways
 
 *Not from the paper, which was not read: from how Zhou et al. (2021),
-LIT-tmpb87sq, and Zhang, Sha and Chaikin (2025) describe it. Unverified
+[LIT-tmpb87sq](LIT-tmpb87sq.md), and Zhang, Sha and Chaikin (2025) describe it. Unverified
 until read.*
 
 - **Exponential growth and selection, by their account.** "A system of
@@ -102,7 +102,7 @@ until read.*
 Registered at the owner's invitation to add readings to the DNA origami
 filing, as the paper that first showed a templated origami replicator
 growing exponentially over many cycles. Its full text was not reached.
-Zhou et al. (2021), LIT-tmpb87sq, read in NOTE-tmp70nos, stands in: same
+Zhou et al. (2021), [LIT-tmpb87sq](LIT-tmpb87sq.md), read in [NOTE-tmp70nos](../notes.d/NOTE-tmp70nos.md), stands in: same
 group, same cross-tile dimers, same CNVK and UV cycle, extended with a
 second species, mutation and two growth rates. It stands in for the
 replicator, the doubling ceiling and the sterility of unseeded dimers. It
@@ -111,8 +111,8 @@ neighbour says what variants it compared, under what condition, or which
 won, so the "selection" of the title is not on the record. The growth
 figure is a third party's summary, from Zhang, Sha and Chaikin (2025),
 read only in its passages on this paper. Filed from the stand-in:
-THEORY-tmpnzxug. As reached through the neighbours, it bears on
-CLAIM-566 as multiplication without regeneration, the same reading as Ni
-et al. (2026), LIT-tmpairr7. Read the paper itself before citing its
+[THEORY-tmpnzxug](../theory.d/THEORY-tmpnzxug.md). As reached through the neighbours, it bears on
+[CLAIM-566](../claims.d/CLAIM-566.md) as multiplication without regeneration, the same reading as Ni
+et al. (2026), [LIT-tmpairr7](LIT-tmpairr7.md). Read the paper itself before citing its
 numbers or its selection result. No instruction for machine-learning
 practice; nothing for the anthology.

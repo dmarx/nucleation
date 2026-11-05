@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp70nos) from the PubMed Central copy of the
+  read 2026-11-05 ([NOTE-tmp70nos](../notes.d/NOTE-tmp70nos.md)) from the PubMed Central copy of the
   version of record (PMC8685680, CC BY-NC-ND 4.0), main text, figure
   captions, methods and references in full, the SI Appendix not read;
-  worth reading as the stand-in for He et al. (2017), LIT-tmph8p41, whose
+  worth reading as the stand-in for He et al. (2017), [LIT-tmph8p41](LIT-tmph8p41.md), whose
   cross-tile dimer replicator it inherits, and as an enzyme-free
   replicator in which growth rate and mutation rate are both set by
   design: a species produced only by a mutation of about 3.5% per copy
@@ -68,7 +68,7 @@ Zhou, F., Sha, R., Ni, H., Seeman, N. & Chaikin, P. (2021). Mutations in artific
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp70nos.*
+*From the reading, [NOTE-tmp70nos](../notes.d/NOTE-tmp70nos.md).*
 
 - **The inherited replicator.** "We seed and grow one dimer species, AB,
   from A and B monomers that doubles in each cycle"; without a seed "any
@@ -92,16 +92,16 @@ Zhou, F., Sha, R., Ni, H., Seeman, N. & Chaikin, P. (2021). Mutations in artific
 
 ## Standing in the record
 
-Registered and read as the stand-in for He et al. (2017), LIT-tmph8p41,
+Registered and read as the stand-in for He et al. (2017), [LIT-tmph8p41](LIT-tmph8p41.md),
 whose full text was not reached: it uses that paper's replicator, cites
 it for the sterility of unseeded dimers, and extends it with mutation and
 selection on growth rate. It does not report He's own selection
-experiment. With Ni et al. (2026), LIT-tmpairr7, which gives the
+experiment. With Ni et al. (2026), [LIT-tmpairr7](LIT-tmpairr7.md), which gives the
 thermodynamics of the same cycle, it is the population-level side of the
 record's self-replication readings: copies multiply and a faster grower
 takes over, while nothing restores a lost member and every condition of
-the cycle is supplied, so it supports CLAIM-566 (replication is not
-regeneration). Errors are tuned, not corrected, which leaves CLAIM-520 on
+the cycle is supplied, so it supports [CLAIM-566](../claims.d/CLAIM-566.md) (replication is not
+regeneration). Errors are tuned, not corrected, which leaves [CLAIM-520](../claims.d/CLAIM-520.md) on
 the value of a corrective capacity untested. Filed from it:
-THEORY-tmpnzxug. No instruction for machine-learning practice; nothing
+[THEORY-tmpnzxug](../theory.d/THEORY-tmpnzxug.md). No instruction for machine-learning practice; nothing
 for the anthology.

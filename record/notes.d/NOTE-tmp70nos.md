@@ -131,83 +131,83 @@ example of Darwinian evolution" (Conclusion).
 
 ## Connections
 
-It restates, as the stand-in for He et al. (2017), LIT-tmph8p41, that
+It restates, as the stand-in for He et al. (2017), [LIT-tmph8p41](../literature.d/LIT-tmph8p41.md), that
 paper's replicator (the cross-tile dimer, CNVK and UV fixation, release
 by heat), its doubling per cycle in the one-sided design, and the
 sterility of unseeded dimers, which it attributes to He et al. as ref.
 19. It does not restate He's selection experiment, protocol or numbers;
 the 7,000,000-fold amplification over 24 cycles is known only from Zhang,
-Sha and Chaikin (2025). Ni et al. (2026), LIT-tmpairr7, NOTE-tmp79i4g and
-THEORY-tmpnu25d, give the thermodynamics of the same cycle (effective
+Sha and Chaikin (2025). Ni et al. (2026), [LIT-tmpairr7](../literature.d/LIT-tmpairr7.md), [NOTE-tmp79i4g](NOTE-tmp79i4g.md) and
+[THEORY-tmpnu25d](../theory.d/THEORY-tmpnu25d.md), give the thermodynamics of the same cycle (effective
 concentration, melting windows, about 1.9 per cycle for dimers); this
 paper gives the population dynamics. Where Shirt-Ediss, Torelli and
-colleagues (NOTE-tmp6ediz) remove off-target binding to raise folding
+colleagues ([NOTE-tmp6ediz](NOTE-tmp6ediz.md)) remove off-target binding to raise folding
 yield, this paper adds designed off-target binding to make mutants. Like
-Wagenbauer, Wachauf and Dietz (NOTE-tmpmw05j), it reads its outcome from
+Wagenbauer, Wachauf and Dietz ([NOTE-tmpmw05j](NOTE-tmpmw05j.md)), it reads its outcome from
 gels and AFM counts. The folding readings, the DeLuca et al. simulation
-(LIT-2081, NOTE-1561, THEORY-1398) among them, concern one origami
+([LIT-2081](../literature.d/LIT-2081.md), [NOTE-1561](NOTE-1561.md), [THEORY-1398](../theory.d/THEORY-1398.md)) among them, concern one origami
 reaching its shape; this concerns populations of finished origami.
 
 ## Bearing on the record
 
-- **CLAIM-566 (assembly, persistence, regeneration).** Supports:
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assembly, persistence, regeneration).** Supports:
   multiplication and selection among multipliers are shown, and nothing
   regenerates a lost or damaged member; sterile dimers accumulate and are
   never removed.
-- **TERM-070 (closure of constraints).** An instance of non-closure: the
+- **[TERM-070](../terms.d/TERM-070.md) (closure of constraints).** An instance of non-closure: the
   sequences, CNVK chemistry, temperatures, UV and monomer feed are all set
   outside the population, and so is fitness.
-- **CLAIM-569 (construct, maintain, transition).** Supports: making a copy
+- **[CLAIM-569](../claims.d/CLAIM-569.md) (construct, maintain, transition).** Supports: making a copy
   costs a full thermal and UV cycle plus monomers; holding it is a
   covalent bond; leaving the template needs a peak of 48 °C.
-- **CLAIM-567 (feasible, reachable, reliable).** Supports: the target dimer
+- **[CLAIM-567](../claims.d/CLAIM-567.md) (feasible, reachable, reliable).** Supports: the target dimer
   is feasible without a seed yet not reached in the cycle ("no dimer was
   formed without the seed"), and the one-sided ceiling of 2 is reached
   only in part (1.6 in the mixed run).
-- **CLAIM-571 (reaching threshold and target requirement differ).**
+- **[CLAIM-571](../claims.d/CLAIM-571.md) (reaching threshold and target requirement differ).**
   Supports: separation needs 48 °C against a 22 °C hold.
-- **CLAIM-591 (connectivity is not reachability under directed moves).** An
+- **[CLAIM-591](../claims.d/CLAIM-591.md) (connectivity is not reachability under directed moves).** An
   instance: UV makes a reversible bond one-way.
-- **CLAIM-583 (same complex, different reachability).** Bears: the same
+- **[CLAIM-583](../claims.d/CLAIM-583.md) (same complex, different reachability).** Bears: the same
   tiles and cycle, with recognition ends differing by three bases or by
   one-sided against two-sided placement, give different growth and
   mutation rates.
-- **CLAIM-557 and CLAIM-574.** Instances: AB and CD are told apart only by
+- **[CLAIM-557](../claims.d/CLAIM-557.md) and [CLAIM-574](../claims.d/CLAIM-574.md).** Instances: AB and CD are told apart only by
   a designed orientation, and AFM is read at 48 °C to strip unbonded
   monomers.
-- **CLAIM-520 (value of a corrective capacity).** Leaves it open: the
+- **[CLAIM-520](../claims.d/CLAIM-520.md) (value of a corrective capacity).** Leaves it open: the
   system corrects nothing, and the error rate is tuned, raised to make
   mutants and held low only against an error catastrophe.
-- **TERM-tmp3awsy (productive nucleus).** A clean instance: the seed
+- **[TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md) (productive nucleus).** A clean instance: the seed
   changes later rates through effective concentration rather than giving a
   head start, and is also a structural seed, since daughters copy it.
-- **QUESTION-tmp4jbc3 (partial organization changes transition
+- **[QUESTION-tmp4jbc3](../questions.d/QUESTION-tmp4jbc3.md) (partial organization changes transition
   dynamics).** Supports yes: the template changes the rate of daughter
   formation, and the effect compounds because daughters template.
-- **QUESTION-tmpdbsh1 (independence from the establishing intervention).**
+- **[QUESTION-tmpdbsh1](../questions.d/QUESTION-tmpdbsh1.md) (independence from the establishing intervention).**
   Splits it: the founding seed is needed once ("independent of the initial
   seed"), the maintaining interventions every cycle.
-- **QUESTION-tmpesr9t (when a productive nucleus becomes
+- **[QUESTION-tmpesr9t](../questions.d/QUESTION-tmpesr9t.md) (when a productive nucleus becomes
   self-maintaining).** A negative case: the seed's operation makes more
   templates, not the constraints that make templating possible.
-- **QUESTION-380 (when a small compatible nucleus helps).** Bears: a
+- **[QUESTION-380](../questions.d/QUESTION-380.md) (when a small compatible nucleus helps).** Bears: a
   templated dimer is productive and an untemplated one of the same parts
   is "sterile"; the help is in the binding configuration.
-- **CLAIM-tmpiyvk1 (persistence and productivity vary independently).** An
+- **[CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md) (persistence and productivity vary independently).** An
   instance, with a caveat: sterile and templated dimers are both
   covalently persistent and only templated ones replicate, but the paper
   does not say what structurally distinguishes them.
-- **LIT-157 (Bourrat, reproducees and reproducers).** The dimers are
+- **[LIT-157](../literature.d/LIT-157.md) (Bourrat, reproducees and reproducers).** The dimers are
   reproducees with little reproductive autonomy: they reproduce only in
-  the experimenters' cycle. LIT-1927 (Bourrat, endogenization of
+  the experimenters' cycle. [LIT-1927](../literature.d/LIT-1927.md) (Bourrat, endogenization of
   scaffolded properties) names what such a scaffolded system would need.
-- **LIT-515 (England) and THEORY-412.** A driven, non-living replicator
+- **[LIT-515](../literature.d/LIT-515.md) (England) and [THEORY-412](../theory.d/THEORY-412.md).** A driven, non-living replicator
   making durable copies, a material case for England's bound, though no
-  heat is measured; and a contrast to THEORY-412, since here adaptation-like
+  heat is measured; and a contrast to [THEORY-412](../theory.d/THEORY-412.md), since here adaptation-like
   takeover runs through replication with an assigned growth rate.
 - **A gap.** No held entry treats the error threshold, which this paper
   invokes; it matters if the record pursues correction against error rate.
-- Filed from it: THEORY-tmpnzxug. No instruction for machine-learning
+- Filed from it: [THEORY-tmpnzxug](../theory.d/THEORY-tmpnzxug.md). No instruction for machine-learning
   practice; nothing for the anthology.
 
 ## Limitations
