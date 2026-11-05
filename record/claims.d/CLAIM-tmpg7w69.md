@@ -47,7 +47,7 @@ summary: >-
   search in finite sets and on random finite posets. Its guard is the
   filer's: the monotonicity holds for a comparison over every probe and
   fails for a normalized average, as for the probe-weighted distortion
-  QUESTION-031 sets aside. The wording is A's; adopting it is the owner's
+  [QUESTION-031](../questions.d/QUESTION-031.md) sets aside. The wording is A's; adopting it is the owner's
   call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp7bxc0 CLAIM-tmp7pv9x CLAIM-tmpxcbet TERM-088 — Proposed; A's proposals of 2026-11-05 and the entries filed beside them, and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
@@ -79,7 +79,7 @@ budgets b₁ ⪯ b₂ and 𝒫_{b₁} ⊆ 𝒫_{b₂}: an equivalence found at b
 b₁, and a distinction found at b₁ survives at b₂. Raising the budget can
 only split classes.
 
-The same holds, more simply, for TERM-069's observational equivalence,
+The same holds, more simply, for [TERM-069](../terms.d/TERM-069.md)'s observational equivalence,
 agreement of outcome laws on every probe of a family: agreement on a
 family is agreement on each of its subfamilies.
 
@@ -102,15 +102,15 @@ makes it regime-relative." The proof says why, when regimes are nested:
 the earlier equivalence still holds of the smaller family, and the larger
 family only refines it. The record's instances run one way:
 
-- **Access.** In THEORY-354, oracle access "simulates sample access with
+- **Access.** In [THEORY-354](../theory.d/THEORY-354.md), oracle access "simulates sample access with
   one query", so the sample-access tests are a subfamily of the oracle
   tests at the same size. A predictor indistinguishable from nature under
   oracle access is so under sample access; the converse fails, under the
-  hardness assumptions THEORY-354 states.
-- **Feasibility.** CLAIM-302's efficient tests are a subfamily of all
+  hardness assumptions [THEORY-354](../theory.d/THEORY-354.md) states.
+- **Feasibility.** [CLAIM-302](CLAIM-302.md)'s efficient tests are a subfamily of all
   tests; equivalence under all is equivalence under the efficient, and
   not conversely.
-- **Restriction.** CLAIM-264: agreement on a restricted family can fall
+- **Restriction.** [CLAIM-264](CLAIM-264.md): agreement on a restricted family can fall
   short of isomorphism, and a dense family restores full faithfulness.
   This claim adds the order between: along a chain of families, the
   classes only split.
@@ -119,9 +119,9 @@ So A's (§1 of the paste before) "Equivalence at one resource scale need
 not survive at a more demanding scale" and "A claim that two systems share
 a universality class must declare what it preserves" have a definite form
 for nested regimes: the class is a class of the declared family, and a
-richer family can only split it. This is TERM-065's regime with its
-probes ordered, and CLAIM-152's relativity to a target with the targets
-nested. CLAIM-tmp7pv9x is the same shape on the side of demands: an
+richer family can only split it. This is [TERM-065](../terms.d/TERM-065.md)'s regime with its
+probes ordered, and [CLAIM-152](CLAIM-152.md)'s relativity to a target with the targets
+nested. [CLAIM-tmp7pv9x](CLAIM-tmp7pv9x.md) is the same shape on the side of demands: an
 implication valid at a budget is valid at every lower one.
 
 ## What it does not say
@@ -135,21 +135,21 @@ implication valid at a budget is valid at every lower one.
   ε = 0.6, a pair whose distortion is 1 on probe p₁ is told apart under
   {p₁}, and adding a probe p₂ on which the distortion is 0 makes the mean
   0.5 and the pair equivalent under {p₁, p₂}. The supremum stays 1. A
-  normalized probe-weighted distortion, which QUESTION-031 notes "is not
+  normalized probe-weighted distortion, which [QUESTION-031](../questions.d/QUESTION-031.md) notes "is not
   a Yoneda construction", can therefore lose a distinction as probes are
   added.
 - **That the profile is resource-bounded in its morphisms.** Y_b keeps the
   whole hom-sets from the affordable probes. A's own complication (§2):
   "simply deleting all morphisms that exceed a fixed cumulative budget
   generally does not yield an ordinary presheaf closed under
-  precomposition", which is CLAIM-tmp7bxc0's closure condition b ⊗ b ⪯ b.
-  The cost-retaining version is an enrichment, as in CLAIM-tmpxcbet.
+  precomposition", which is [CLAIM-tmp7bxc0](CLAIM-tmp7bxc0.md)'s closure condition b ⊗ b ⪯ b.
+  The cost-retaining version is an enrichment, as in [CLAIM-tmpxcbet](CLAIM-tmpxcbet.md).
 - **More than descriptive individuation.** A: "The categorical
   construction addresses the first of these directly. It might help
   investigate the others, but it does not automatically establish them",
-  the others being TERM-088's dynamical, constitutive and organizational
+  the others being [TERM-088](../terms.d/TERM-088.md)'s dynamical, constitutive and organizational
   senses. Nor does a profile, at any budget, show that relations
-  constitute the object (THEORY-032's presupposition; CLAIM-150).
+  constitute the object ([THEORY-032](../theory.d/THEORY-032.md)'s presupposition; [CLAIM-150](CLAIM-150.md)).
 - **That the classes are known.** That a chain of families only refines
   says nothing about where it stops, or whether it reaches isomorphism;
-  that is CLAIM-264's density condition and QUESTION-031's open question.
+  that is [CLAIM-264](CLAIM-264.md)'s density condition and [QUESTION-031](../questions.d/QUESTION-031.md)'s open question.

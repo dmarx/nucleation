@@ -18,7 +18,7 @@ summary: >-
   "an obstruction to realization, rather than merely a failure of local
   agreement"; and, where a representing object exists, whether it can be
   built within the resources available. A keeps gluing and
-  representability apart, as CLAIM-264 does. The wording is A's; adopting
+  representability apart, as [CLAIM-264](../claims.d/CLAIM-264.md) does. The wording is A's; adopting
   it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-tmp99w2g CLAIM-tmpancvu TERM-tmpr3hl8 — Proposed; the record's open thesis on realized constraints, and the claims and term of 2026-11-05 on assembly, on the costs of a form and on resource-bounded systems, cited as filed, nothing here resting on their being settled -->
@@ -51,15 +51,15 @@ A's two questions:
 > When such a realization exists, is it constructible within the available
 > computational and physical resources?
 
-The record holds the separation and not the question. CLAIM-264: "being
-representable and having a global section are independent." THEORY-032:
+The record holds the separation and not the question. [CLAIM-264](../claims.d/CLAIM-264.md): "being
+representable and having a global section are independent." [THEORY-032](../theory.d/THEORY-032.md):
 Yoneda identifies an object "among objects the category already has", so
-a profile no object has is outside what it identifies. CLAIM-471 keeps
+a profile no object has is outside what it identifies. [CLAIM-471](../claims.d/CLAIM-471.md) keeps
 gluing apart from the physical generation of the relations glued. On the
-resource side, CLAIM-tmpancvu separates the costs of constructing,
-maintaining and moving into a form, and CLAIM-tmp99w2g separates assembly,
+resource side, [CLAIM-tmpancvu](../claims.d/CLAIM-tmpancvu.md) separates the costs of constructing,
+maintaining and moving into a form, and [CLAIM-tmp99w2g](../claims.d/CLAIM-tmp99w2g.md) separates assembly,
 persistence and regeneration; neither asks whether a specified profile has
-a realization at all. CLAIM-477's recursion, that constraints are
+a realization at all. [CLAIM-477](../claims.d/CLAIM-477.md)'s recursion, that constraints are
 themselves realized and maintained, is the frame in which the category of
 realizable systems is not given in advance.
 
@@ -76,13 +76,13 @@ realizable systems is not given in advance.
   realizes it.
 - **The resource version**: for representable profiles, the least cost of
   constructing a representing object, under one of the declared resource
-  laws (TERM-tmpr3hl8), and a case where it exceeds the budget though the
+  laws ([TERM-tmpr3hl8](../terms.d/TERM-tmpr3hl8.md)), and a case where it exceeds the budget though the
   object exists.
 
 ## What would not answer it
 
 - **A failure of gluing.** That is local incompatibility, which the record
-  already handles (CLAIM-347; CLAIM-538); the question is about profiles
+  already handles ([CLAIM-347](../claims.d/CLAIM-347.md); [CLAIM-538](../claims.d/CLAIM-538.md)); the question is about profiles
   that glue.
 - **Representability in a category of all mathematical models.** The
   question is about a category of what can be built or sustained, and the
