@@ -196,5 +196,5 @@ C = 0.769, an output of 1.15, more than demand.
 
 ## Note of 2026-11-05: the threshold case, modelled
 
-The assistant's, filling gaps the supplied-maintenance filing left. This claim's "That a threshold is absent" named the case it did not model: capacity that grows only once enough of it exists, the shape of Azam et al.'s trap. CLAIM-tmp6t2vz models it, with learning by doing that needs capacity already present. Full substitution then has a deadline (3.10 time units in the example) after which withdrawal no longer restores capacity. A slow taper of substitutive support is worse than an abrupt cut. Capacity-first support needs no taper but cannot lift a party below the threshold. No status changes.
+The assistant's, filling gaps the supplied-maintenance filing left. This claim's "That a threshold is absent" named the case it did not model: capacity that grows only once enough of it exists, the shape of Azam et al.'s trap. [CLAIM-tmp6t2vz](CLAIM-tmp6t2vz.md) models it, with learning by doing that needs capacity already present. Full substitution then has a deadline (3.10 time units in the example) after which withdrawal no longer restores capacity. A slow taper of substitutive support is worse than an abrupt cut. Capacity-first support needs no taper but cannot lift a party below the threshold. No status changes.
 

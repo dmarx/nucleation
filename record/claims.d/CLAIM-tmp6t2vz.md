@@ -37,7 +37,7 @@ bears_on:
 summary: >-
   The assistant's, filling gaps the supplied-maintenance filing left, at
   the owner's request of 2026-11-05 to "proceed systematically filling
-  all of those identified gaps". CLAIM-602 modelled crowding out with no
+  all of those identified gaps". [CLAIM-602](CLAIM-602.md) modelled crowding out with no
   threshold, so capacity always regrew from a seed. Its own limits named
   the threshold case, Azam et al.'s trap. Here learning by doing needs
   capacity already present, dC/dt = λPC(1 − C) − μC. With λ = 1, μ = 0.3
@@ -78,7 +78,7 @@ steady states:
 - an unstable threshold at C = 0.276, where λτC(1 − C) = μ;
 - a kept state at C = 0.7.
 
-The extra factor C in the learning term is what CLAIM-602 left out. It
+The extra factor C in the learning term is what [CLAIM-602](CLAIM-602.md) left out. It
 makes capacity something that is needed to build capacity.
 
 ## The claim
@@ -87,7 +87,7 @@ makes capacity something that is needed to build capacity.
    work, capacity decays as e^(−μt) from 0.7. It crosses the threshold
    after ln(0.7/0.276)/0.3 = 3.10 time units. Withdrawn after 2 or 3
    units, the party recovers to 0.7. Withdrawn after 3.5 or 5, it decays
-   to nothing. This is the capability trap that CLAIM-602 named as a
+   to nothing. This is the capability trap that [CLAIM-602](CLAIM-602.md) named as a
    limit and did not model.
 2. **A slow taper of substitutive support is worse than an abrupt cut.**
    From C = 0.45, under support that does 95 % of the work:
@@ -107,15 +107,15 @@ makes capacity something that is needed to build capacity.
    Covering the shortfall keeps service whole. It does not supply the
    capacity that growth needs. Lifting a party past the threshold takes
    support of another kind, one that adds capacity directly, as Balboni
-   et al.'s asset transfer did (THEORY-1465).
+   et al.'s asset transfer did ([THEORY-1465](../theory.d/THEORY-1465.md)).
 
 ## What it reconciles
 
-- **Azam, Devarajan and O'Connell** (THEORY-1483) find the optimal exit
+- **Azam, Devarajan and O'Connell** ([THEORY-1483](../theory.d/THEORY-1483.md)) find the optimal exit
   from aid that fills a fiscal gap is to reduce aid "up front". Their aid
   substitutes, displacing revenue at the margin. On this model an abrupt
   cut is then the safer exit.
-- **The Kenya exit study** (THEORY-1492) finds that gradual exit with
+- **The Kenya exit study** ([THEORY-1492](../theory.d/THEORY-1492.md)) finds that gradual exit with
   participants operating independently before closure made it more likely
   that activities continued. There the participants already did the work,
   which is the capacity-first case, where a gradual withdrawal is what the
