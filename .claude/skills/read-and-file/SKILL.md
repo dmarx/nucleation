@@ -27,6 +27,11 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   assistant's turns, and anything pasted from another assistant, are that
   assistant's. The owner did not write them and has not endorsed them
   unless the owner says so.
+- **Keep the source whole.** Save it verbatim to the scratchpad, and point
+  every reader and drafter at that file. A condensation written for a
+  brief is the lead's own text. Label it so and keep it in a separate
+  file. Never check a quotation against it: a phrase the lead wrote about
+  the source is not a phrase the source used.
 
 ## 2. Check against the record before filing anything
 
@@ -36,8 +41,14 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 - **For every idea the source states**, search claims, theories, questions,
   cases and terms by its key words. Then read the nearest entries' titles,
   not just whether they matched.
-- **Build the map**: each section or turn of the source, against the codes
-  that already hold it. Most of a synthesis is usually already held. The
+- **List the source's own ideas, section by section.** A synthesis carries
+  constructions, worked examples, distinctions, taxonomies, tables and
+  proposed entries as well as references. Readers cover the references;
+  nothing covers the rest unless the lead lists it. Write the list (an idea
+  ledger) before briefing anyone. A drafter handed a short candidate list
+  files that list and nothing else.
+- **Build the map**: each section or turn of the source, and each item of
+  the ledger, against the codes that already hold it. Most of a synthesis is usually already held. The
   map is the main deliverable of an "is this on the record" request.
 - **Check again after reading.** The first search can only use the
   source's own words. Reading surfaces more: the construction it rebuilds,
@@ -165,6 +176,12 @@ not a finding.
   CI's repair (dmarx/luria#393).
 
 ## 10. Account for everything
+
+**Before writing it, reread the source end to end yourself**, from the
+verbatim file, against the ledger and the codes filed. Agents' reports
+say what they filed, not what they were never asked to file. Every item
+must end up in one of three places: filed, mapped to a held code, or
+listed as left with a reason.
 
 Write a curation entry (`luria new curation`) with three parts:
 
