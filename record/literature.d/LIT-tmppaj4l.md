@@ -1,0 +1,125 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-05 (NOTE-tmpslfbd) from Federal Reserve Bank of
+  Philadelphia Working Paper 11-38 (September 6, 2011), the revised,
+  post-referee text, and from the earlier NBER Working Paper 16314, both
+  on their series' own sites, not from the QJE version of record; worth
+  reading as the record's cleanest observational case of lock-in after the
+  founding cause has gone: US portage sites, whose advantage ended with
+  canals and railroads, stay 60–100% denser than comparable sites a
+  century on, the effect growing relative to 1850, with none of the
+  oversupplied, cheap sunk capital that slow reversion would leave. Its
+  limits: cross-sectional, within-watershed identification; multiple
+  equilibria inferred, not shown (footnote 28); an unmeasured durable sunk
+  factor not ruled out; and the analogy to withdrawn support is the
+  record's, not the authors'.
+title: 'Portage and Path Dependence'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to fill the
+    gaps the supplied-maintenance filing left (works chosen by the
+    assistant). Citation checked against Crossref (no mailto): Hoyt
+    Bleakley and Jeffrey Lin, The Quarterly Journal of Economics 127(2):
+    587–644, published online 2012-04-19 and in print 2012-05. The
+    working papers: NBER w16314, "Portage: Path Dependence and Increasing
+    Returns in U.S. History" (doi:10.3386/w16314), issued August 2010 to
+    the month only; Philadelphia Fed WP 10-27, superseded by WP 11-38,
+    "Portage and Path Dependence", dated September 6, 2011. `published:` is
+    2010-08-01, the first day of NBER w16314's month (ADR-002), the
+    earliest appearance; the other dates are 2011-09-06 (WP 11-38) and
+    2012-04-19 (QJE online). Copy from the
+    Philadelphia Fed
+    (https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2011/wp11-38.pdf),
+    the second author's institution's series, which thanks "the two
+    editors, and several anonymous referees", so the post-referee text,
+    not the typeset version of record; and from NBER
+    (https://www.nber.org/system/files/working_papers/w16314/w16314.pdf)
+    for the Civil War, placebo and alternative-clustering results 11-38
+    refers back to. A copy of the published PDF on a third party's course
+    page was found and not used; OUP was not fetched. Page numbers in the
+    reading are WP 11-38's unless marked w16314, none the QJE's.
+tags:
+- social-science
+- complex-systems
+date: '2026-11-05'
+published: '2010-08-01'
+doi: '10.1093/qje/qjs011'
+first_author: 'Bleakley'
+keywords:
+- 'economic geography'
+- 'history dependence'
+- 'initial conditions'
+- 'fall line'
+- 'coordination problem'
+- 'path dependence'
+- 'increasing returns'
+implementations: []
+summary: >-
+  Bleakley & Lin (2012). Portage sites, where goods were carried around
+  falls or between waterways, drew commerce until canals and railroads
+  made them obsolete by about 1900 (the fall-line county's share of its
+  river's water-transport employment fell from 13.1% in 1880 to 2.6% in
+  1930). Today they are 60–100% denser than comparable sites in the same
+  watersheds, more so relative to 1850, with no effect where the upstream
+  watershed was smallest and little through water power. Conditional on
+  density they are not oversupplied or cheap in housing, infrastructure or
+  other sunk assets, and they grow like comparably dense places from about
+  1930. The authors read this as path dependence under strong local
+  increasing returns, portage a coordination device that selected an
+  equilibrium, while saying it is not direct evidence of multiple
+  equilibria.
+---
+<!-- inactive-ok-file: THEORY-1461 CLAIM-600 CLAIM-604 THEORY-tmplod57 — Proposed, Skimmed or new; cited from the reading of Bleakley and Lin (2012) as open -->
+
+# LIT-tmppaj4l: Portage and Path Dependence
+
+Bleakley, H. & Lin, J. (2012). Portage and Path Dependence. *The Quarterly Journal of Economics* 127(2): 587–644. doi:10.1093/qje/qjs011. Working papers: NBER w16314 (doi:10.3386/w16314), August 2010; Federal Reserve Bank of Philadelphia WP 11-38, September 6, 2011.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpslfbd. Page numbers are WP 11-38's, not the QJE's.*
+
+- **The cause ended.** "At the peak in 1880, the average fall-line county
+  contained 13.1% of" its river's water-transport employment; "By 1930,
+  that figure had dropped to 2.6%" (§3.2, pp. 9–10).
+- **The places did not.** "The dummy variable for proximity predicts 60%
+  to 100% increases in density" (§5, p. 16).
+- **No decay.** "The elasticity between population density and portage
+  proximity is much greater today than in 1850 or earlier", a difference
+  of 0.456 (s.e. 0.092) between the late-20th- and 19th-century effect
+  (§7, pp. 19–20).
+- **Settled, not drifting back.** Conditioning on ever later density, the
+  coefficient "goes asymptotically to zero", so portage sites "experience
+  growth similar to comparably dense areas for the latter two-thirds of
+  the 20th century" (§7, p. 21).
+- **No reversion signature.** Slow reversion would leave sticky factors
+  "oversupplied (relative to comparable areas) and underpriced"; the
+  authors find no such differences, and their evidence is "inconsistent
+  with the view that population persists at portages because of large,
+  historical sunk costs incurred for particular types of capital"
+  (§8.2–8.3, pp. 25–30).
+- **Size mattered.** At the smallest watersheds the portage effect is "90%
+  lower, and insignificantly different from zero" (§5, p. 17).
+- **Their caveats.** "our results do not constitute direct evidence of
+  multiple equilibria" (footnote 28), and "we cannot rule out that there
+  is some particular sunk factor" that explains it (p. 33).
+
+## Standing in the record
+
+Registered with the gap-filling readings on whether persistence after a
+cause ends is self-sustaining or slow reversion. Against Kline and
+Moretti (LIT-2141, THEORY-1461), where the same kind of agglomeration
+persisted but decayed under a single equilibrium, this is a case that
+passes the tests CLAIM-600 asks for: the cause's end is dated, the horizon
+a century, the effect not decaying, the sunk-capital signature of
+reversion checked and absent. It is the empirical geography counterpart of
+Arthur's lock-in (LIT-1314, THEORY-863), and it gives conditions, enough
+activity coordinated and returns strong enough to sustain it, that match
+CLAIM-600's "large enough" clause and the hump-shaped feedback CLAIM-604
+models. It reads Davis and Weinstein's Japanese reversion (LIT-tmpntaj3)
+as a product of rugged terrain. Filed from it: THEORY-tmplod57. No
+instruction for machine-learning practice.

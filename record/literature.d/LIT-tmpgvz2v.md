@@ -1,0 +1,115 @@
+---
+status: Active
+status_note: >-
+  read in part 2026-11-05 (NOTE-tmpbzli4) from NBER Working Paper 10252
+  (January 2004) on NBER's own site, not from the Journal of Regional
+  Science version of record; worth reading as the direct test, by
+  threshold regression, of whether the Allied bombing of Japan moved
+  cities to different equilibria, putting unique and multiple equilibria
+  on an even footing, and as the extension from city population to city
+  manufacturing and eight industries. It finds a unique stable equilibrium
+  at every level, with slower recovery where industries were hit hardest.
+  Its limits: thresholds are assumed common across cities in log units and
+  each city's dynamics independent of the others'; the test examines
+  necessary conditions within that structure; industry-level power is
+  limited; and the authors themselves set apart greenfield investment as a
+  different question.
+title: 'A search for multiple equilibria in urban industrial structure'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read in part on 2026-11-05 at the owner's request to
+    fill the gaps the supplied-maintenance filing left (works chosen by the
+    assistant), as the companion to Davis and Weinstein (2002),
+    LIT-tmpntaj3. Citation checked against Crossref (no mailto): Donald R.
+    Davis and David E. Weinstein, Journal of Regional Science 48(1): 29–65,
+    doi:10.1111/j.1467-9787.2008.00545.x, published online 2008-01-08 and in
+    print February 2008. The NBER working paper, "A Search for Multiple
+    Equilibria in Urban Industrial Structure" (doi:10.3386/w10252), is
+    dated January 2004 to the month only; as the earlier appearance it
+    gives `published:` as 2004-01-01 under ADR-002, the journal's
+    2008-01-08 being the alternative and the earliest exact date. Copy
+    from NBER
+    (https://www.nber.org/system/files/working_papers/w10252/w10252.pdf),
+    the authors' working-paper series. Read: §I (introduction), §II
+    (theory) and the population, aggregate manufacturing and industry
+    results of §IV, with the conclusions. Not read in full: §III
+    (experimental design) and the data sections, the tables, the reference
+    list. The journal version was not read. Page numbers in the reading are
+    the working paper's.
+tags:
+- social-science
+- society-and-governance
+date: '2026-11-05'
+published: '2004-01-01'
+doi: '10.1111/j.1467-9787.2008.00545.x'
+first_author: 'Davis'
+keywords:
+- 'multiple equilibria'
+- 'threshold regression'
+- 'economic geography'
+- 'urban industrial structure'
+- 'Allied bombing of Japan'
+- 'hysteresis'
+implementations: []
+summary: >-
+  Davis & Weinstein (2004 working paper; J. Regional Science 2008). A
+  threshold-regression test that puts unique and multiple equilibria on an
+  even footing: under a unique equilibrium, shock and recovery growth lie
+  on one line of slope −1 through the origin; under multiple equilibria on
+  parallel lines with ordered intercepts beyond thresholds. Applied to the
+  Allied bombing of Japan for city population, aggregate manufacturing in
+  up to 114 cities, and eight manufacturing industries: "The data provide
+  no support for the existence of multiple equilibria." Cities recover
+  their population, their manufacturing share and even their specific
+  industries; industry recovery is slower where hit hardest (ρ about 0.34,
+  indistinguishable from zero without Hiroshima).
+---
+<!-- inactive-ok-file: NOTE-tmpbzli4 CLAIM-604 THEORY-1461 THEORY-919 THEORY-tmp7uo3b — Proposed, Skimmed or new; cited from the reading of Davis and Weinstein (2004) as open -->
+
+# LIT-tmpgvz2v: A search for multiple equilibria in urban industrial structure
+
+Davis, D. R. & Weinstein, D. E. (2008). A search for multiple equilibria in urban industrial structure. *Journal of Regional Science* 48(1): 29–65. doi:10.1111/j.1467-9787.2008.00545.x. Working paper: NBER w10252 (doi:10.3386/w10252), January 2004.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpbzli4, of the NBER working paper. Page numbers are the working paper's.*
+
+- **The verdict.** "The data provide no support for the existence of
+  multiple equilibria. In the aftermath even of immense shocks, a city
+  typically recovers not only its population and its share of aggregate
+  manufacturing, but even the specific industries it had before"
+  (abstract).
+- **A fairer test.** The threshold approach "no longer requires that we
+  treat unique equilibrium as the null", and examines "necessary (rather
+  than sufficient) conditions" (p. 3).
+- **Population.** The Schwarz criterion slightly favours two equilibria,
+  but the estimates violate the intercept ordering: "Following enormous
+  shocks there is no evidence that cities unravel further or fail to
+  return to their former size" (p. 33).
+- **Manufacturing and industries.** "the Schwarz criterion clearly favors
+  the model of one equilibrium" for manufacturing (p. 34), and prefers a
+  unique equilibrium for industries (p. 37); industry recovery is
+  incomplete within the window, ρ about 0.34, perhaps because "places hit
+  extremely hard take longer to recover" (p. 38).
+- **Policy.** "Our results provide a strong caution against the idea that
+  one may use limited and temporary interventions to select equilibria
+  with large and permanent effects on city development" (p. 4).
+- **Its own caveat.** "Yet it is a different question whether directed
+  greenfield investment can permanently alter the course of regional
+  development" (p. 43).
+
+## Standing in the record
+
+Registered beside Davis and Weinstein (2002), LIT-tmpntaj3, as its own
+work: it is the direct test of multiple equilibria the 2002 working paper
+only reads off a coefficient. It is the record's strongest field evidence
+against a threshold in the upkeep of places, bearing on CLAIM-604: the
+best two-equilibrium fit for industries puts a threshold at −0.67 log
+units and is rejected. Its own caveat, that greenfield investment is a
+different question, is the gap between it and Kline and Moretti's TVA
+(THEORY-1461), and footnote 20 of the 2002 paper is answered here for
+industry mix, against the persistence Juhász finds (THEORY-919). Filed
+from it: THEORY-tmp7uo3b. No instruction for machine-learning practice.

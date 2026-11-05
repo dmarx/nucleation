@@ -1,0 +1,1 @@
+- Persistence after shocks and support, and people against places, read to fill gaps the supplied-maintenance filing left: Davis & Weinstein 2002 and their search for multiple equilibria; Bleakley & Lin 2012 on portage; Chetty, Hendren & Katz 2016 on Moving to Opportunity. Dated notes on CLAIM-600, CLAIM-604 and QUESTION-398.

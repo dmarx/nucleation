@@ -102,3 +102,10 @@ Read at the owner's request for a counterpoint to the record's dependency materi
 
 No status changes.
 
+## Note of 2026-11-05: the readings on persistence after shocks and support
+
+- **Close to A's measure.** Bleakley and Lin (NOTE-tmpslfbd) compare portage sites with sites matched on past density. From about 1930 the founding cause adds nothing: portages grow like comparably dense places. That is close to D falling to zero.
+- **For a shock rather than a founding support.** In Davis and Weinstein (NOTE-tmpqnndy), a growth coefficient indistinguishable from −1 means the shock is fully undone.
+- **Dependence on the starting state.** Moving to Opportunity (NOTE-tmpqfxp3) shows the gain from the same support depending on the age at which it began.
+
+No status changes.
