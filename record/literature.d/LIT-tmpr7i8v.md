@@ -13,10 +13,10 @@ status_note: >-
   Public Access Repository, which does not hold it. No UCSC lab
   publications page was found; ResearchGate was not tried. Two later works
   by its senior author's group stand in, read: Holl, Reid, Zahawi, de
-  Siqueira & Brancalion (2024), LIT-tmplosp3, for the mechanism of applied
+  Siqueira & Brancalion (2024), [LIT-tmplosp3](LIT-tmplosp3.md), for the mechanism of applied
   nucleation, its comparison with plantation and natural regeneration, its
   cost and minimum nucleus size, as the authors now hold them; and
-  Schubert et al. (2024), LIT-tmppzod1, for the long-term results of the
+  Schubert et al. (2024), [LIT-tmppzod1](LIT-tmppzod1.md), for the long-term results of the
   Costa Rican experiment. Neither stands in for this review's own
   literature tables or wording.
 title: 'Applied nucleation as a forest restoration strategy'
@@ -61,7 +61,7 @@ summary: >-
   question of strips against nuclei, and for the claim that nucleation
   lowers project costs. Here because a nucleus is support meant to be
   withdrawn once the forest carries on by itself, the question
-  CLAIM-597 and QUESTION-399 put.
+  [CLAIM-597](../claims.d/CLAIM-597.md) and [QUESTION-399](../questions.d/QUESTION-399.md) put.
 ---
 <!-- inactive-ok-file: LIT-tmp506zp CLAIM-597 — Unavailable or Proposed; cited from the registration of Corbin & Holl (2012) as open -->
 
@@ -89,17 +89,17 @@ cite it, not from its own text.*
 Unavailable. Two later works from Holl's group stand in for it, and only
 so far:
 
-- Holl, Reid, Zahawi, de Siqueira & Brancalion (2024), LIT-tmplosp3, read
-  in NOTE-tmpq005d: an opinion article by the same senior author twelve
+- Holl, Reid, Zahawi, de Siqueira & Brancalion (2024), [LIT-tmplosp3](LIT-tmplosp3.md), read
+  in [NOTE-tmpq005d](../notes.d/NOTE-tmpq005d.md): an opinion article by the same senior author twelve
   years on, for the mechanism, the comparison with plantation and natural
   regeneration, cost and the minimum nucleus. It gives the authors'
   current position, which may update this review's; its key numbers are
   cited from others.
-- Schubert, Zahawi, Oviedo-Brenes, Rosales & Holl (2024), LIT-tmppzod1,
-  read in NOTE-tmpcw7tn: the 16–18-year census of the Costa Rican
-  experiment, which stands in for Holl et al. (2020), LIT-tmp506zp, also
+- Schubert, Zahawi, Oviedo-Brenes, Rosales & Holl (2024), [LIT-tmppzod1](LIT-tmppzod1.md),
+  read in [NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md): the 16–18-year census of the Costa Rican
+  experiment, which stands in for Holl et al. (2020), [LIT-tmp506zp](LIT-tmp506zp.md), also
   unread.
 
 Nothing should be cited from this review as read until its text is
-obtained. It bears on CLAIM-597 (independence from the founder, never from
-the feed), on QUESTION-398 and QUESTION-399, and on QUESTION-380.
+obtained. It bears on [CLAIM-597](../claims.d/CLAIM-597.md) (independence from the founder, never from
+the feed), on [QUESTION-398](../questions.d/QUESTION-398.md) and [QUESTION-399](../questions.d/QUESTION-399.md), and on [QUESTION-380](../questions.d/QUESTION-380.md).

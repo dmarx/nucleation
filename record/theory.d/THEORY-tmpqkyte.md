@@ -18,9 +18,9 @@ date: '2026-11-05'
 source:
 - LIT-tmppzod1
 summary: >-
-  Schubert, Zahawi, Oviedo-Brenes, Rosales & Holl (2024), LIT-tmppzod1,
-  read in NOTE-tmpcw7tn: the 16–18-year census of the experiment whose
-  15-year results Holl et al. (2020), LIT-tmp506zp, reported, read as
+  Schubert, Zahawi, Oviedo-Brenes, Rosales & Holl (2024), [LIT-tmppzod1](../literature.d/LIT-tmppzod1.md),
+  read in [NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md): the 16–18-year census of the experiment whose
+  15-year results Holl et al. (2020), [LIT-tmp506zp](../literature.d/LIT-tmp506zp.md), reported, read as
   its stand-in for long-term recruitment. Support withdrawn early built a
   process that ran on, the planted trees drawing colonists from a
   seed-rich landscape, without the planted population replacing itself.
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Schubert, Zahawi, Oviedo-Brenes, Rosales & Holl (2024), LIT-tmppzod1; read in NOTE-tmpcw7tn. A stand-in for Holl et al. (2020), LIT-tmp506zp, unread, for long-term recruitment only.
+Schubert, Zahawi, Oviedo-Brenes, Rosales & Holl (2024), [LIT-tmppzod1](../literature.d/LIT-tmppzod1.md); read in [NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md). A stand-in for Holl et al. (2020), [LIT-tmp506zp](../literature.d/LIT-tmp506zp.md), unread, for long-term recruitment only.
 
 ## What was actually shown
 

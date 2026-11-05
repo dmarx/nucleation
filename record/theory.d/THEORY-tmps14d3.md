@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp903lf
 summary: >-
-  Underwood et al. (2013), LIT-tmp903lf, read in NOTE-tmpoxify, and filed
-  as a stand-in for the unread Scott et al. (2010), LIT-tmp5lbzn, on the
+  Underwood et al. (2013), [LIT-tmp903lf](../literature.d/LIT-tmp903lf.md), read in [NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md), and filed
+  as a stand-in for the unread Scott et al. (2010), [LIT-tmp5lbzn](../literature.d/LIT-tmp5lbzn.md), on the
   kinds of ongoing management and their perpetuity. Twenty years of counts
   show the three species stable or rising, with managed refuges holding
   34–42 % of each population on about 15 % of the wetland; the authors
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Underwood, Silbernagle, Nishimoto & Uyehara (2013), LIT-tmp903lf; read in NOTE-tmpoxify.
+Underwood, Silbernagle, Nishimoto & Uyehara (2013), [LIT-tmp903lf](../literature.d/LIT-tmp903lf.md); read in [NOTE-tmpoxify](../notes.d/NOTE-tmpoxify.md).
 
 ## What was actually shown
 

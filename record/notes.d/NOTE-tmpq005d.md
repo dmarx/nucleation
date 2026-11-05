@@ -132,53 +132,53 @@ it does is "slow and highly unpredictable" and seldom measured.
 ## Connections
 
 The definition and the strips-against-nuclei question are cited to Corbin
-& Holl (2012), LIT-tmpr7i8v, unread; the 64 m² minimum to Zahawi &
-Augspurger (2006) and Holl et al. (2020), LIT-tmp506zp, both unread. The
+& Holl (2012), [LIT-tmpr7i8v](../literature.d/LIT-tmpr7i8v.md), unread; the 64 m² minimum to Zahawi &
+Augspurger (2006) and Holl et al. (2020), [LIT-tmp506zp](../literature.d/LIT-tmp506zp.md), both unread. The
 long-term results of Holl's Costa Rican experiment are Schubert et al.
-(2024), LIT-tmppzod1. The dependence of nuclei on dispersers that the
+(2024), [LIT-tmppzod1](../literature.d/LIT-tmppzod1.md). The dependence of nuclei on dispersers that the
 restoration does not supply parallels coral recovery's dependence on
-herbivores, THEORY-128. The paper frames slow recovery as arrested
+herbivores, [THEORY-128](../theory.d/THEORY-128.md). The paper frames slow recovery as arrested
 succession, not as an alternative stable state, consistent with
-THEORY-136's caution; it does not engage THEORY-132, LIT-741, LIT-726 or
-LIT-720. Other works of this batch are cited by author-year in their own
+[THEORY-136](../theory.d/THEORY-136.md)'s caution; it does not engage [THEORY-132](../theory.d/THEORY-132.md), [LIT-741](../literature.d/LIT-741.md), [LIT-726](../literature.d/LIT-726.md) or
+[LIT-720](../literature.d/LIT-720.md). Other works of this batch are cited by author-year in their own
 filings.
 
 ## Bearing on the record
 
-- **CLAIM-597** (independent of the founder, never of the feed):
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (independent of the founder, never of the feed):
   qualifies its scope. Every colonist comes from outside the nucleus, as
   in "analogy with nucleation", but the supplier is the surrounding
   landscape, not the intervener; the planting can be withdrawn and the
   supply cannot (the method fails where dispersers are gone). This fits
   the claim's own split between founding and feeding.
-- **CLAIM-tmpw4ai2** (upkeep drawn in proportion to the intact state, with
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)** (upkeep drawn in proportion to the intact state, with
   an ignition threshold): supports it in kind. A nucleus's draw on
   dispersers grows with its own state, and the cited ~64 m² minimum reads
   as an ignition threshold. No evidence on collapse or hysteresis.
-- **CLAIM-tmpoh07b** (supply that does the work first lowers the capacity
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (supply that does the work first lowers the capacity
   kept): the perch against the tree is close to its distinction. The
   perch does the attracting and decays, leaving nothing; the tree becomes
   the capacity. No evidence of crowding out or of dependence on duration.
-- **CLAIM-tmpqa0qu**: nothing directly; dependence on dispersers is
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)**: nothing directly; dependence on dispersers is
   mutualistic, which leans to the reciprocal case, but the paper does not
-  argue it. CLAIM-558: nothing.
-- **CLAIM-566** (assemble, persist, regenerate): supports separating
+  argue it. [CLAIM-558](../claims.d/CLAIM-558.md): nothing.
+- **[CLAIM-566](../claims.d/CLAIM-566.md)** (assemble, persist, regenerate): supports separating
   establishment from spread, and says spread is rarely measured.
-- **QUESTION-398**: a mechanism but no measure of independence; trees
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: a mechanism but no measure of independence; trees
   that facilitate "continuously" are the condition under which withdrawal
   could cost nothing.
-- **QUESTION-399**: bears directly, through the analogy/autocatalytic
+- **[QUESTION-399](../questions.d/QUESTION-399.md)**: bears directly, through the analogy/autocatalytic
   split and the authors' rejoinder; minimum size, minimum share and spread
   are partial answers.
-- **TERM-117** (productive nucleus): a ready instance, with natural
+- **[TERM-117](../terms.d/TERM-117.md)** (productive nucleus): a ready instance, with natural
   regeneration as comparator and a minimum that "will vary with ecosystem
   type and disperser behavior".
-- **QUESTION-380**: qualifies it; on the authors' account the effect is
+- **[QUESTION-380](../questions.d/QUESTION-380.md)**: qualifies it; on the authors' account the effect is
   predicted from site and landscape, not from the planting's design alone.
-- **CLAIM-463** (restoring conditions need not restore the capacity): the
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (restoring conditions need not restore the capacity): the
   weedy, fire-prone matrix is the case where removing the pasture use does
   not by itself bring the forest back; the paper does not test it.
-- Filed from it: THEORY-tmpegb8y.
+- Filed from it: [THEORY-tmpegb8y](../theory.d/THEORY-tmpegb8y.md).
 
 ## Limitations
 

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpcw7tn) from the publisher's version of record
+  read 2026-11-05 ([NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md)) from the publisher's version of record
   deposited in the NSF Public Access Repository, all but the reference
   list and Appendix S1; worth reading as a clean case of support
   withdrawn early whose effects were measured long after, and as the
-  stand-in for the unread Holl et al. (2020), LIT-tmp506zp, on the
+  stand-in for the unread Holl et al. (2020), [LIT-tmp506zp](LIT-tmp506zp.md), on the
   experiment's long-term recruitment. Weeding stopped at 2.5 years; at
   16–18 years both planted treatments still had richer later-successional
   recruitment and more predictable composition than natural regeneration,
@@ -75,7 +75,7 @@ Schubert, S. C., Zahawi, R. A., Oviedo-Brenes, F., Rosales, J. A. & Holl, K. D. 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpcw7tn. Page numbers are the article's "n of
+*From the reading, [NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md). Page numbers are the article's "n of
 14".*
 
 - **Support, then withdrawal.** All plots "were cleared to ground level
@@ -97,10 +97,10 @@ Schubert, S. C., Zahawi, R. A., Oviedo-Brenes, F., Rosales, J. A. & Holl, K. D. 
 
 ## Standing in the record
 
-A stand-in for the unread Holl et al. (2020), LIT-tmp506zp, for the
-experiment's long-term recruitment results only. It bears on CLAIM-597
+A stand-in for the unread Holl et al. (2020), [LIT-tmp506zp](LIT-tmp506zp.md), for the
+experiment's long-term recruitment results only. It bears on [CLAIM-597](../claims.d/CLAIM-597.md)
 (the support became withdrawable; dependence on the landscape's seed
-supply did not end), on CLAIM-566 (the planted cohort assembled and
-persisted but did not regenerate), on CLAIM-tmpoh07b (the heavier
-intervention holds the canopy) and on QUESTION-398 and QUESTION-399.
-Filed from it: THEORY-tmpqkyte.
+supply did not end), on [CLAIM-566](../claims.d/CLAIM-566.md) (the planted cohort assembled and
+persisted but did not regenerate), on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (the heavier
+intervention holds the canopy) and on [QUESTION-398](../questions.d/QUESTION-398.md) and [QUESTION-399](../questions.d/QUESTION-399.md).
+Filed from it: [THEORY-tmpqkyte](../theory.d/THEORY-tmpqkyte.md).

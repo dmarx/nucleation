@@ -50,8 +50,8 @@ summary: >-
   support, and those that never needed it, and names one pre-release
   support, enrichment, that narrowed the gap: the distinction between
   support that replaces capacity and support that builds it that
-  CLAIM-tmpoh07b and QUESTION-398 put. Its finding on captive stock agrees
-  in direction with Morris et al. (2021), LIT-tmph8zqa.
+  [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) and [QUESTION-398](../questions.d/QUESTION-398.md) put. Its finding on captive stock agrees
+  in direction with Morris et al. (2021), [LIT-tmph8zqa](LIT-tmph8zqa.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpoh07b — Proposed; cited from the registration of Gross et al. (2023) as open -->
 
@@ -72,9 +72,9 @@ Gross, Wilson & Wolak (2023). The fitness consequences of wildlife conservation 
 ## Standing in the record
 
 Unavailable. It agrees in direction with Morris et al. (2021),
-LIT-tmph8zqa, read as its preprint, where captive-bred stock showed lower
+[LIT-tmph8zqa](LIT-tmph8zqa.md), read as its preprint, where captive-bred stock showed lower
 population growth after release than wild stock, and it adds what Morris
 et al. do not test: a pre-release support, enrichment, that reduced the
 deficit. Nothing should be cited from it as read until its text is
-obtained. It bears on CLAIM-tmpoh07b (capacity-building support against
-support that does the work) and QUESTION-398.
+obtained. It bears on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (capacity-building support against
+support that does the work) and [QUESTION-398](../questions.d/QUESTION-398.md).

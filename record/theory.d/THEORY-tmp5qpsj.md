@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpt7aa3
 summary: >-
-  Christie, Marine, French & Blouin (2012), LIT-tmpt7aa3, main text read in
-  NOTE-tmp52jvk; the SI was not read. Proposed: one population, the
+  Christie, Marine, French & Blouin (2012), [LIT-tmpt7aa3](../literature.d/LIT-tmpt7aa3.md), main text read in
+  [NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md); the SI was not read. Proposed: one population, the
   per-year results and the 1995 exclusion rest on SI tables not read, and
   the hatchery advantage is significant only with 1995 excluded. It does
   not identify the traits selected, does not show crowding is the
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Christie, Marine, French and Blouin (2012), LIT-tmpt7aa3; main text read
-in NOTE-tmp52jvk, from the free full text on PMC (PMC3252900).
+Christie, Marine, French and Blouin (2012), [LIT-tmpt7aa3](../literature.d/LIT-tmpt7aa3.md); main text read
+in [NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md), from the free full text on PMC (PMC3252900).
 
 ## What was actually shown
 
@@ -61,4 +61,4 @@ in NOTE-tmp52jvk, from the free full text on PMC (PMC3252900).
   fast a population recovers: withdrawal is not studied.
 - That other taxa respond as fast: "other taxa may not respond in an
   equivalent fashion".
-- What the Science paper's (LIT-tmpcmwya) per-generation estimate is.
+- What the Science paper's ([LIT-tmpcmwya](../literature.d/LIT-tmpcmwya.md)) per-generation estimate is.

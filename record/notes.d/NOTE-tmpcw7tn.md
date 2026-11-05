@@ -139,59 +139,59 @@ the system's own dynamics.
 
 ## Connections
 
-The later census of the experiment Holl et al. (2020), LIT-tmp506zp,
+The later census of the experiment Holl et al. (2020), [LIT-tmp506zp](../literature.d/LIT-tmp506zp.md),
 reported at 15 years, unread; it cites Holl et al. (2020) for plantations'
 greater canopy cover. Its mechanism is the one Holl et al. (2024),
-LIT-tmplosp3, states, and the review it builds on is Corbin & Holl
-(2012), LIT-tmpr7i8v, unread. Arrested succession is a "likelihood" here,
-not shown to be an alternative stable state, consistent with THEORY-136;
+[LIT-tmplosp3](../literature.d/LIT-tmplosp3.md), states, and the review it builds on is Corbin & Holl
+(2012), [LIT-tmpr7i8v](../literature.d/LIT-tmpr7i8v.md), unread. Arrested succession is a "likelihood" here,
+not shown to be an alternative stable state, consistent with [THEORY-136](../theory.d/THEORY-136.md);
 reduced among-site variability is predictability, distinct from the
-resilience of THEORY-132 and LIT-741. Recovery depends on biotic agents
+resilience of [THEORY-132](../theory.d/THEORY-132.md) and [LIT-741](../literature.d/LIT-741.md). Recovery depends on biotic agents
 (dispersers, remnant seed sources) the restoration did not supply, as
-coral recovery depends on herbivores in THEORY-128. Other works of this
+coral recovery depends on herbivores in [THEORY-128](../theory.d/THEORY-128.md). Other works of this
 batch are cited by author-year in their own filings.
 
 ## Bearing on the record
 
-- **CLAIM-597** (independent of the founder, never of the feed):
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (independent of the founder, never of the feed):
   qualifies its scope. After weeding stopped, recovery ran on an outside
   supply, the landscape's seed rain, that is not the intervener's and
   would be slower "in more deforested landscapes". The planting became
   withdrawable; dependence on the landscape did not end. Consistent with
   the claim's split between founding and feeding.
-- **CLAIM-566** (assemble, persist, regenerate): supports it strongly. The
+- **[CLAIM-566](../claims.d/CLAIM-566.md)** (assemble, persist, regenerate): supports it strongly. The
   planted cohort assembled and persisted 16–18 years but did not
   regenerate; what regenerates is the colonizing community it drew.
-- **CLAIM-tmpoh07b** (supply that does the work first lowers the capacity
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (supply that does the work first lowers the capacity
   kept): suggestive, in a spatial form. Plantation occupies the canopy and
   suppresses natural recruits; nucleation leaves openings where recruits
   grow faster. Occupancy, not lost learning, and no manipulation of
   duration.
-- **CLAIM-tmpw4ai2** (draw in proportion to intact state): partly. More
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md)** (draw in proportion to intact state): partly. More
   canopy drew more large birds; no threshold or hysteresis test, and the
   island sizes are not analysed apart.
-- **CLAIM-184** (anchors entrench): the plantation's persistent planted
+- **[CLAIM-184](../claims.d/CLAIM-184.md)** (anchors entrench): the plantation's persistent planted
   canopy is a legacy that later structure grows under; the authors
   propose thinning to release it, untested.
-- **CLAIM-463** (restoring conditions need not restore the capacity):
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (restoring conditions need not restore the capacity):
   natural regeneration's risk of stalling or invasion is consistent with
   it; the paper reports a risk, not a stalled site.
-- **CLAIM-tmpqa0qu**, **CLAIM-558**: nothing.
-- **QUESTION-398**: a partial empirical answer at one withdrawal time.
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)**, **[CLAIM-558](../claims.d/CLAIM-558.md)**: nothing.
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: a partial empirical answer at one withdrawal time.
   Upkeep stopped at 2.5 years and the planted advantage persisted to
   16–18; with no arm kept supported, the cost of withdrawal cannot be
   computed. The independence is from the founder, not the landscape.
-- **QUESTION-399**: sharpens it. A nucleus can be productive and
+- **[QUESTION-399](../questions.d/QUESTION-399.md)**: sharpens it. A nucleus can be productive and
   persistent without regenerating itself; the process it seeded may be
   self-maintaining while the nucleus is not.
-- **TERM-117** (productive nucleus): an instance with a declared
+- **[TERM-117](../terms.d/TERM-117.md)** (productive nucleus): an instance with a declared
   comparator (natural regeneration), context (a seed-rich landscape) and
   horizon (16–18 years).
-- **QUESTION-380**: partly supports its premise. 86 trees in six islands,
+- **[QUESTION-380](../questions.d/QUESTION-380.md)**: partly supports its premise. 86 trees in six islands,
   27% of the plantation's 313, gave most of its gain in richness (185
   against 196, natural regeneration 156); the effect depends on the
   landscape, not only on the design.
-- Filed from it: THEORY-tmpqkyte.
+- Filed from it: [THEORY-tmpqkyte](../theory.d/THEORY-tmpqkyte.md).
 
 ## Limitations
 

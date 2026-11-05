@@ -112,50 +112,50 @@ conservation reliance)" (§4.4).
 
 ## Connections
 
-- **What it carries for Scott et al. (2010)**, LIT-tmp5lbzn, unread. It
+- **What it carries for Scott et al. (2010)**, [LIT-tmp5lbzn](../literature.d/LIT-tmp5lbzn.md), unread. It
   restates the concept of conservation reliance and the threat/population
   split, both cited to Goble et al. (2012), and the 84 % figure, also
   cited to Goble et al. (2012). It cites Scott 2010 itself only for
   managing state-listed species to preclude federal listing. It does not
   restate Scott 2010's counts, typology or proposals.
-- **The other neighbours.** Brown et al. (2019), LIT-tmp9diyj, a species
-  held on supplied habitat; Underwood et al. (2013), LIT-tmp903lf,
+- **The other neighbours.** Brown et al. (2019), [LIT-tmp9diyj](../literature.d/LIT-tmp9diyj.md), a species
+  held on supplied habitat; Underwood et al. (2013), [LIT-tmp903lf](../literature.d/LIT-tmp903lf.md),
   species held by perpetual habitat upkeep.
 - **Araki et al. (2007)**, filed in this batch: captive-bred fish lose
   fitness in the wild, another way supplied individuals can fail to
   leave a self-sustaining population.
-- **Ostrom et al. on aid**, THEORY-tmph35ra and LIT-tmpnb22c: the
+- **Ostrom et al. on aid**, [THEORY-tmph35ra](../theory.d/THEORY-tmph35ra.md) and [LIT-tmpnb22c](../literature.d/LIT-tmpnb22c.md): the
   Samaritan's dilemma, in which predictable outside supply weakens the
   recipient's own upkeep, is the social analogue.
 
 ## Bearing on the record
 
-- **CLAIM-597 (independent of what founded it, never of what feeds it).**
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (independent of what founded it, never of what feeds it).**
   Supports it by analogy: supplied birds did not make the population
   independent of supply while the habitat threat persisted, and further
   translocations followed. Qualifies it: the population makes its own
   replacements, so the dependence here comes from a persisting threat,
   not from every part being supplied.
-- **QUESTION-398 (when a partial organization becomes independent of the
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of the
   intervention that established it).** The authors' answer for this case:
   only when extrinsic and intrinsic factors are "alleviated in tandem".
-- **CLAIM-566 (assembling, persisting and regenerating are separate).**
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assembling, persisting and regenerating are separate).**
   Supports it: the population expanded after translocation and then fell
   again.
-- **CLAIM-tmpw4ai2 (state-dependent upkeep has an ignition threshold and
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (state-dependent upkeep has an ignition threshold and
   collapse).** Leaves it open: the reliance threshold and the
   extinction vortex are conceptual; no threshold, collapse point or
   hysteresis is measured.
-- **CLAIM-tmpoh07b (supply that does the work first lowers the capacity
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (supply that does the work first lowers the capacity
   kept).** Qualifies it weakly: moving birds in place of dispersal is said
   to perpetuate reliance, but the capacity at stake is habitat, not
   anything learned, and there are no recovery-time data.
-- **TERM-117 (productive nucleus).** A negative case: the translocated
+- **[TERM-117](../terms.d/TERM-117.md) (productive nucleus).** A negative case: the translocated
   founders did not become the nucleus of a self-sustaining population.
-- **QUESTION-399 (a self-maintaining nucleus).** Leaves it open.
-- THEORY-136, THEORY-132, THEORY-128 and LIT-726: no bearing; no
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (a self-maintaining nucleus).** Leaves it open.
+- [THEORY-136](../theory.d/THEORY-136.md), [THEORY-132](../theory.d/THEORY-132.md), [THEORY-128](../theory.d/THEORY-128.md) and [LIT-726](../literature.d/LIT-726.md): no bearing; no
   alternative stable states are claimed.
-- Filed: THEORY-tmp6gkfy. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp6gkfy](../theory.d/THEORY-tmp6gkfy.md). No instruction for machine-learning practice.
 
 ## Limitations
 

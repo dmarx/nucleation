@@ -38,7 +38,7 @@ summary: >-
 
 ## Contribution
 
-Araki, Cooper & Blouin (2007), LIT-tmpcmwya, showed on this population
+Araki, Cooper & Blouin (2007), [LIT-tmpcmwya](../literature.d/LIT-tmpcmwya.md), showed on this population
 that the loss of wild fitness under hatchery rearing is genetic and fast;
 the cause was open among rearing effects, inbreeding, relaxed selection
 and domestication selection. This paper tests two patterns only
@@ -119,35 +119,35 @@ captivity but severely maladaptive in the wild" (Abstract).
 
 ## Connections
 
-Follows Araki et al. 2007a and 2007b (LIT-tmpcmwya) on the same
-population, and cites the 2008 review (Araki et al. 2008, LIT-tmpzkw55)
+Follows Araki et al. 2007a and 2007b ([LIT-tmpcmwya](../literature.d/LIT-tmpcmwya.md)) on the same
+population, and cites the 2008 review (Araki et al. 2008, [LIT-tmpzkw55](../literature.d/LIT-tmpzkw55.md))
 for the need for multiple traits and for candidate traits such as growth
 rate. Within this batch it stands in for the Science paper's mechanism.
 
 ## Bearing on the record
 
-- **CLAIM-tmpqa0qu** (a loss favoured under the supply; one-way supply).
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)** (a loss favoured under the supply; one-way supply).
   Supports, and is the cleanest case read: a measured fitness gain in the
   supported environment matched by a fitness loss outside it, within one
   generation. The supply is one-way, and nothing in the stock's dynamics
   stops the loss.
-- **CLAIM-558** (decay by disuse). Qualifies: relaxed selection, the disuse
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (decay by disuse). Qualifies: relaxed selection, the disuse
   analogue, is rejected as the main cause here. The fast loss is selection
   against the capacity, which the claim does not cover.
-- **CLAIM-tmpoh07b** (the order of supply and capacity decides
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (the order of supply and capacity decides
   dependence). Bears in part: the harm tracks how intensely the support is
   run (broodstock numbers, smolts released, crowding), a dose within one
   generation. The claim's variable, the order in which supply and capacity
   are used, is not tested.
-- **QUESTION-398** (when a partial organization becomes independent of what
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (when a partial organization becomes independent of what
   established it). Support intensity is a lever on how much support
   degrades what it supports; withdrawal is not studied.
-- **CLAIM-597** and **TERM-117**: as in NOTE-tmpkfeb0; this paper adds the
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** and **[TERM-117](../terms.d/TERM-117.md)**: as in [NOTE-tmpkfeb0](NOTE-tmpkfeb0.md); this paper adds the
   mechanism, not a new bearing.
-- **THEORY-1048** (Black Queen loss through a leaky good). A parallel, not
+- **[THEORY-1048](../theory.d/THEORY-1048.md)** (Black Queen loss through a leaky good). A parallel, not
   an instance: the loss is favoured under supply, but by selection in a
   changed environment, not by a leaky public good.
-- Filed: THEORY-tmp5qpsj. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp5qpsj](../theory.d/THEORY-tmp5qpsj.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

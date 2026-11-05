@@ -49,11 +49,11 @@ summary: >-
   success metrics other than movement, the two release techniques had
   similar effects, and whether animals were captive or wild in origin did
   not change the comparison. Here because it is the controlled-comparison
-  counterpart to Morris et al. (2021), LIT-tmph8zqa, whose global review
+  counterpart to Morris et al. (2021), [LIT-tmph8zqa](LIT-tmph8zqa.md), whose global review
   found no benefit of soft release on reported success and lower
   population growth after it, and because soft release (pens, supplemental
   food at the release site) is transient support whose removal is the
-  record's question (CLAIM-597, QUESTION-398).
+  record's question ([CLAIM-597](../claims.d/CLAIM-597.md), [QUESTION-398](../questions.d/QUESTION-398.md)).
 ---
 <!-- inactive-ok-file: CLAIM-597 — Proposed; cited from the registration of Resende et al. (2021) as open -->
 
@@ -75,12 +75,12 @@ Resende, P., Viana-Junior, A., Young, R. & de Azevedo, C. (2021). What is better
 
 ## Standing in the record
 
-Unavailable. It stands against Morris et al. (2021), LIT-tmph8zqa, read
+Unavailable. It stands against Morris et al. (2021), [LIT-tmph8zqa](LIT-tmph8zqa.md), read
 as its preprint, which found no benefit of soft release on reported
 success and higher population growth after hard release. The two need not
 conflict: by its abstract this one's advantage rests mostly on reptiles
 and on movement metrics, such as site fidelity after release, not on
 population growth. Nothing should be cited from it as read until its text
-is obtained. It bears on CLAIM-597 and QUESTION-398: whether a support
+is obtained. It bears on [CLAIM-597](../claims.d/CLAIM-597.md) and [QUESTION-398](../questions.d/QUESTION-398.md): whether a support
 given at release and then withdrawn leaves the released animals better
 able to do without it.

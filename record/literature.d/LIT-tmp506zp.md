@@ -8,7 +8,7 @@ status_note: >-
   answered HTTP 202 with an AWS WAF challenge; the NSF Public Access
   Repository does not hold it. The 16–18-year census of the same
   experiment, Schubert, Zahawi, Oviedo-Brenes, Rosales & Holl (2024),
-  LIT-tmppzod1, stands in, read, for its long-term recruitment results
+  [LIT-tmppzod1](LIT-tmppzod1.md), stands in, read, for its long-term recruitment results
   only: not for its canopy-cover, seed-rain, bird or cost data, nor for
   its 15-year figures or wording.
 title: 'Applied nucleation facilitates tropical forest recovery: Lessons learned from a 15-year study'
@@ -78,8 +78,8 @@ own text.*
 ## Standing in the record
 
 Unavailable. The 16–18-year census of the same experiment, Schubert,
-Zahawi, Oviedo-Brenes, Rosales & Holl (2024), LIT-tmppzod1, read in
-NOTE-tmpcw7tn, stands in for its long-term recruitment results and goes
+Zahawi, Oviedo-Brenes, Rosales & Holl (2024), [LIT-tmppzod1](LIT-tmppzod1.md), read in
+[NOTE-tmpcw7tn](../notes.d/NOTE-tmpcw7tn.md), stands in for its long-term recruitment results and goes
 past them. It does not stand in for this paper's canopy-cover, seed-rain,
 bird or cost data, or for its 15-year figures. The 64 m² minimum is cited
-in the record only at second hand (Holl et al. 2024, LIT-tmplosp3).
+in the record only at second hand (Holl et al. 2024, [LIT-tmplosp3](LIT-tmplosp3.md)).

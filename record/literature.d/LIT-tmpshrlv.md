@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpmm5we) from the open copy in PubMed
+  read in full 2026-11-05 ([NOTE-tmpmm5we](../notes.d/NOTE-tmpmm5we.md)) from the open copy in PubMed
   Central (PMC5367285, CC BY 4.0); worth reading as a case of supplied
   individuals, translocated greater prairie chickens, whose benefit to an
   Illinois population was by the authors' account "ambiguous or
   transitory", with a conceptual model in which reliance on management can
   fall below a threshold only if extrinsic threat and intrinsic
   small-population limits are relieved together. Also one of three
-  neighbours standing in for the unread Scott et al. (2010), LIT-tmp5lbzn,
+  neighbours standing in for the unread Scott et al. (2010), [LIT-tmp5lbzn](LIT-tmp5lbzn.md),
   for the concept of conservation reliance only; its 84 % figure and
   definition are cited to Goble et al. (2012), unread. One species in two
   counties, four years of feather genotypes, a pre-translocation baseline
@@ -70,7 +70,7 @@ Mussmann, S. M., Douglas, M. R., Anthonysamy, W. J. B., Davis, M. A., Simpson, S
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmm5we.*
+*From the reading, [NOTE-tmpmm5we](../notes.d/NOTE-tmpmm5we.md).*
 
 - **Supply without relief of the threat.** Translocations "may avoid
   the costs of restoring connectivity but also invoke long-term intensive
@@ -89,10 +89,10 @@ Mussmann, S. M., Douglas, M. R., Anthonysamy, W. J. B., Davis, M. A., Simpson, S
 ## Standing in the record
 
 One of three neighbours standing in for the unread Scott et al. (2010),
-LIT-tmp5lbzn, with Brown et al. (2019) and Underwood et al. (2013); it
+[LIT-tmp5lbzn](LIT-tmp5lbzn.md), with Brown et al. (2019) and Underwood et al. (2013); it
 stands in only for the concept of conservation reliance and for what it
 asserts itself. Its definition and the 84 % figure are cited to Goble et
-al. (2012), not to Scott 2010. It bears on CLAIM-597, which it supports by
+al. (2012), not to Scott 2010. It bears on [CLAIM-597](../claims.d/CLAIM-597.md), which it supports by
 analogy and qualifies (the population makes its own replacements; the
-dependence comes from a persisting threat), on QUESTION-398, which it
-answers for this case, and on CLAIM-566. Filed from it: THEORY-tmp6gkfy.
+dependence comes from a persisting threat), on [QUESTION-398](../questions.d/QUESTION-398.md), which it
+answers for this case, and on [CLAIM-566](../claims.d/CLAIM-566.md). Filed from it: [THEORY-tmp6gkfy](../theory.d/THEORY-tmp6gkfy.md).

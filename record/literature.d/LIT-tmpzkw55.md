@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpkfeb0) from the open-access Europe PMC
+  read in full 2026-11-05 ([NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md)) from the open-access Europe PMC
   full text of PMC3352433; worth reading as the same laboratory's review of
   hatchery against wild salmonid fitness in the wild, the stand-in for its
-  Science paper of 2007 (LIT-tmpcmwya), whose relative-fitness estimates
+  Science paper of 2007 ([LIT-tmpcmwya](LIT-tmpcmwya.md)), whose relative-fitness estimates
   and design it reports, and for its model of when domestication selection
   can account for a loss of more than 30% per hatchery generation. Fourteen
   studies, mostly steelhead, with little power below a 10–15% difference;
@@ -67,7 +67,7 @@ Araki, H., Berejikian, B. A., Ford, M. J. & Blouin, M. S. (2008). Fitness of hat
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpkfeb0. Sections are the paper's.*
+*From the reading, [NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md). Sections are the paper's.*
 
 - **Fast loss.** Fitness decline "can occur very quickly, sometimes
   following only one or two generations of captive rearing" (Abstract).
@@ -89,8 +89,8 @@ Araki, H., Berejikian, B. A., Ford, M. J. & Blouin, M. S. (2008). Fitness of hat
 ## Standing in the record
 
 Read, and Active. It stands in for Araki, Cooper & Blouin (2007),
-LIT-tmpcmwya, so far as it tabulates and describes that paper (cited here
+[LIT-tmpcmwya](LIT-tmpcmwya.md), so far as it tabulates and describes that paper (cited here
 as 2007b); it does not carry that paper's methods or intervals, and its
 own figures for the per-generation loss (about 30%, 30–40%) are not
 reconciled with that paper's abstract (about 40%). Filed from it:
-THEORY-tmpw0b45.
+[THEORY-tmpw0b45](../theory.d/THEORY-tmpw0b45.md).

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpq005d) from the publisher's version
+  read in full 2026-11-05 ([NOTE-tmpq005d](../notes.d/NOTE-tmpq005d.md)) from the publisher's version
   deposited in the NSF Public Access Repository; worth reading as the
   senior author's own account, twelve years on, of what applied
   nucleation does and where it fails, and as the stand-in for the unread
-  Corbin & Holl (2012), LIT-tmpr7i8v, on mechanism, comparisons, cost and
+  Corbin & Holl (2012), [LIT-tmpr7i8v](LIT-tmpr7i8v.md), on mechanism, comparisons, cost and
   nucleus size. It separates planted trees, which once established keep
   drawing dispersers and improving microsites, from perches and bat boxes,
   which leave no improved conditions and decay within years, and insists
@@ -73,7 +73,7 @@ Holl, K. D., Reid, J. L., Zahawi, R. A., de Siqueira, L. P. & Brancalion, P. H. 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpq005d. Page numbers are the article's "n of
+*From the reading, [NOTE-tmpq005d](../notes.d/NOTE-tmpq005d.md). Page numbers are the article's "n of
 5".*
 
 - **A living nucleus against an inert aid.** Perches and bat boxes "do
@@ -98,13 +98,13 @@ Holl, K. D., Reid, J. L., Zahawi, R. A., de Siqueira, L. P. & Brancalion, P. H. 
 
 ## Standing in the record
 
-A stand-in for the unread Corbin & Holl (2012), LIT-tmpr7i8v, for the
+A stand-in for the unread Corbin & Holl (2012), [LIT-tmpr7i8v](LIT-tmpr7i8v.md), for the
 mechanism of applied nucleation, its comparison with plantation and
 natural regeneration, its cost and the minimum nucleus, as the authors now
 hold them; not for that review's literature tables or wording. It bears
-on CLAIM-597 (the colonists come from outside, but from the landscape, not
+on [CLAIM-597](../claims.d/CLAIM-597.md) (the colonists come from outside, but from the landscape, not
 the intervener, so the planting can be withdrawn and the supply cannot),
-on CLAIM-tmpw4ai2 (a nucleus's draw on dispersers grows with its own
-state), on CLAIM-tmpoh07b (the perch that does the work and decays against
-the tree that becomes the capacity), and on QUESTION-398 and
-QUESTION-399. Filed from it: THEORY-tmpegb8y.
+on [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (a nucleus's draw on dispersers grows with its own
+state), on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (the perch that does the work and decays against
+the tree that becomes the capacity), and on [QUESTION-398](../questions.d/QUESTION-398.md) and
+[QUESTION-399](../questions.d/QUESTION-399.md). Filed from it: [THEORY-tmpegb8y](../theory.d/THEORY-tmpegb8y.md).

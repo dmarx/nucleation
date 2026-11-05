@@ -44,7 +44,7 @@ hatchery and wild fish breeding in the same habitat, sort them by
 broodstock origin (local or nonlocal) and management (segregated or
 integrated), and then ask whether domestication selection alone can
 produce the fast, inherited decline their own Hood River study found
-(Araki et al. 2007b, LIT-tmpcmwya).
+(Araki et al. 2007b, [LIT-tmpcmwya](../literature.d/LIT-tmpcmwya.md)).
 
 ## Key insight
 
@@ -149,7 +149,7 @@ fitness decline).
 ## Connections
 
 Builds on Araki et al. 2007a (three Hood River programmes) and 2007b
-(LIT-tmpcmwya); on Lynch & O'Hely (2001) and Ford (2002) for the
+([LIT-tmpcmwya](../literature.d/LIT-tmpcmwya.md)); on Lynch & O'Hely (2001) and Ford (2002) for the
 theoretical case; on Reisenbichler and colleagues for hatchery survival and
 size selection; and on Frankham (2008) for crowding. Christie et al.
 (2012), filed alongside, tests the mechanism this paper argues. Within
@@ -157,42 +157,42 @@ this batch it is the stand-in for Araki, Cooper & Blouin (2007).
 
 ## Bearing on the record
 
-- **CLAIM-597** (supply that never yields independence). Qualifies. The
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (supply that never yields independence). Qualifies. The
   hatchery is supply set from outside that does not produce a population
   able to do without it, but not only because supply stops being renewed:
   the supply's own operation lowers the capacity it feeds. No rise in wild
   productivity is documented.
-- **CLAIM-tmpoh07b** (supply that does the work first lowers the capacity
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md)** (supply that does the work first lowers the capacity
   kept). Supports in pattern: support that does the early-life work for the
   organism lowers wild capacity, and the loss grows from one generation of
   substitution to two. Qualifies in mechanism: the route is selection for
   what support rewards, not loss of learning, and recovery after
   withdrawal is not measured.
-- **CLAIM-tmpqa0qu** (a loss favoured under the supply). Supports: the trait
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md)** (a loss favoured under the supply). Supports: the trait
   favoured in the hatchery, fast growth, is the one argued to cost in the
   wild; nothing in the stock's dynamics limits the loss short of the
   supply.
-- **CLAIM-558** (decay by disuse). Qualifies. The paper ranks two routes of
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (decay by disuse). Qualifies. The paper ranks two routes of
   capacity loss under support: relaxed selection, the disuse analogue, slow
   and multi-generational; active selection for supported conditions, fast.
-  The claim covers only the first. LIT-1616 (deletional bias by relaxed
+  The claim covers only the first. [LIT-1616](../literature.d/LIT-1616.md) (deletional bias by relaxed
   selection in bacterial genomes) is the slow route's natural contrast.
-- **QUESTION-398** (when a partial organization becomes independent of what
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (when a partial organization becomes independent of what
   established it). Bears strongly. Here the cost of withdrawing support
   would grow the longer support runs, because support lowers what is left
   to stand alone. And once hatchery fish dominate the spawning grounds the
   unsupported comparator is gone, so the cost cannot be measured: old
   stocks look as fit as 'wild' fish that are themselves hatchery-descended.
-- **CLAIM-566** (assembling, persisting and regenerating come apart). A
+- **[CLAIM-566](../claims.d/CLAIM-566.md)** (assembling, persisting and regenerating come apart). A
   hatchery-dominated population persists by supply without showing
   regeneration; the paper's coho case, where "no ‘wild’ population remained", is one.
-- **TERM-117** (productive nucleus, relative to a comparator). The hatchery
+- **[TERM-117](../terms.d/TERM-117.md)** (productive nucleus, relative to a comparator). The hatchery
   raises adults spawning in the wild while lowering per-capita wild
   fitness: productive against one target, not another.
-- **THEORY-132** (stability and resilience). Faint: a difference of "a few
+- **[THEORY-132](../theory.d/THEORY-132.md)** (stability and resilience). Faint: a difference of "a few
   percent" compounds over generations below what studies can detect. No
   regime shift is in question.
-- Filed: THEORY-tmpw0b45. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpw0b45](../theory.d/THEORY-tmpw0b45.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

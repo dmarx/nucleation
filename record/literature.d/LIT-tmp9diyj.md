@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpozsi2) from the open copy in PubMed
+  read in full 2026-11-05 ([NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md)) from the open copy in PubMed
   Central (PMC6787827, CC BY 4.0); worth reading as a quantitative case of
   a recovered species that stays on supplied habitat after delisting: in a
   100-year viability model of the Kirtland's Warbler, whose young
@@ -9,7 +9,7 @@ status_note: >-
   the planted habitat lowers the plateau the population holds rather than
   sending it extinct, and the authors conclude it "will continue to be
   reliant on humans". Also one of three neighbours standing in for the
-  unread Scott et al. (2010), LIT-tmp5lbzn, for the concept of
+  unread Scott et al. (2010), [LIT-tmp5lbzn](LIT-tmp5lbzn.md), for the concept of
   conservation reliance only. A single-sex simulation with ceiling density
   dependence and no scenario that stops the plantations or cowbird
   removal altogether.
@@ -67,7 +67,7 @@ Brown, D. J., Donner, D. M., Ribic, C. A. & Bocetti, C. I. (2019). Influence of 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpozsi2.*
+*From the reading, [NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md).*
 
 - **Supply replaces a lost process.** The habitat "was historically
   generated naturally through large wildfires with ca. 60 year return
@@ -86,10 +86,10 @@ Brown, D. J., Donner, D. M., Ribic, C. A. & Bocetti, C. I. (2019). Influence of 
 ## Standing in the record
 
 One of three neighbours standing in for the unread Scott et al. (2010),
-LIT-tmp5lbzn, with Mussmann et al. (2017) and Underwood et al. (2013); it
+[LIT-tmp5lbzn](LIT-tmp5lbzn.md), with Mussmann et al. (2017) and Underwood et al. (2013); it
 stands in only for whether conservation reliance ends at recovery, and
-for what it asserts itself. It bears on CLAIM-597, which it supports by
+for what it asserts itself. It bears on [CLAIM-597](../claims.d/CLAIM-597.md), which it supports by
 analogy and qualifies (a partial cut gives a lower plateau, and a full
-stop was not simulated), on CLAIM-tmpw4ai2, whose prediction of no
-threshold for state-independent upkeep it fits, on CLAIM-566 and on
-QUESTION-398. Filed from it: THEORY-tmpia26b.
+stop was not simulated), on [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md), whose prediction of no
+threshold for state-independent upkeep it fits, on [CLAIM-566](../claims.d/CLAIM-566.md) and on
+[QUESTION-398](../questions.d/QUESTION-398.md). Filed from it: [THEORY-tmpia26b](../theory.d/THEORY-tmpia26b.md).

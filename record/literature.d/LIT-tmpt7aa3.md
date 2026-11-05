@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  main text read 2026-11-05 (NOTE-tmp52jvk) from the free full text on PMC
+  main text read 2026-11-05 ([NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md)) from the free full text on PMC
   (PMC3252900); the supplementary tables were not read. Worth reading as
   the test that settled the mechanism of the fitness loss Araki, Cooper &
-  Blouin (2007), LIT-tmpcmwya, measured in the same Hood River steelhead:
+  Blouin (2007), [LIT-tmpcmwya](LIT-tmpcmwya.md), measured in the same Hood River steelhead:
   adaptation to captivity, shown by a hatchery advantage of hatchery-born
   fish and a tradeoff between broodstock success in the hatchery and their
   offspring's in the wild, within one generation. One population; the
@@ -67,7 +67,7 @@ Christie, M. R., Marine, M. L., French, R. A. & Blouin, M. S. (2012). Genetic ad
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp52jvk. Main text only; the SI was not read.*
+*From the reading, [NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md). Main text only; the SI was not read.*
 
 - **A hatchery advantage.** First-generation hatchery fish "had nearly
   double the lifetime reproductive success ... when spawned in captivity
@@ -85,9 +85,9 @@ Christie, M. R., Marine, M. L., French, R. A. & Blouin, M. S. (2012). Genetic ad
 ## Standing in the record
 
 Read (main text), and Active. It stands in for Araki, Cooper & Blouin
-(2007), LIT-tmpcmwya, on mechanism only: it carries that the loss is
+(2007), [LIT-tmpcmwya](LIT-tmpcmwya.md), on mechanism only: it carries that the loss is
 adaptation to captivity, not relaxed selection or inbreeding, and that it
 arises within one generation. It does not carry that paper's estimates.
 It cites the 2007 paper for two-wild-parent fish averaging 85% of wild
 fish's success, a figure not reconciled with the 0.70 and 0.88 of the
-2008 review's table (LIT-tmpzkw55). Filed from it: THEORY-tmp5qpsj.
+2008 review's table ([LIT-tmpzkw55](LIT-tmpzkw55.md)). Filed from it: [THEORY-tmp5qpsj](../theory.d/THEORY-tmp5qpsj.md).

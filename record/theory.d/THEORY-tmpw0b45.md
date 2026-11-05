@@ -18,8 +18,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpzkw55
 summary: >-
-  Araki, Berejikian, Ford & Blouin (2008), LIT-tmpzkw55, read in full in
-  NOTE-tmpkfeb0. Proposed: the review is of 14 studies, nine on steelhead,
+  Araki, Berejikian, Ford & Blouin (2008), [LIT-tmpzkw55](../literature.d/LIT-tmpzkw55.md), read in full in
+  [NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md). Proposed: the review is of 14 studies, nine on steelhead,
   with low power below a 10–15% difference, and the model is one
   generation and one trait. The >30% target is the paper's reading of the
   Hood River result, which it also gives as about 30% and 30–40%, and
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Araki, Berejikian, Ford and Blouin (2008), LIT-tmpzkw55; read in
-NOTE-tmpkfeb0, from the Europe PMC full text of PMC3352433.
+Araki, Berejikian, Ford and Blouin (2008), [LIT-tmpzkw55](../literature.d/LIT-tmpzkw55.md); read in
+[NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md), from the Europe PMC full text of PMC3352433.
 
 ## What was actually shown
 
@@ -68,7 +68,7 @@ NOTE-tmpkfeb0, from the Europe PMC full text of PMC3352433.
   "no studies have empirically examined the mechanism"; Christie et al.
   (2012) test it.
 - That the per-generation loss is 30% or 40%: the paper's own wording
-  varies, and the Science paper (LIT-tmpcmwya) was not read.
+  varies, and the Science paper ([LIT-tmpcmwya](../literature.d/LIT-tmpcmwya.md)) was not read.
 - That local wild broodstock prevents the loss: it is "mitigated to some
   extent" with "little evidence" it can be avoided.
 - That supplementation fails to raise numbers: some programmes raised the

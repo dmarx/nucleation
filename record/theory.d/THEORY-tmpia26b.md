@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp9diyj
 summary: >-
-  Brown et al. (2019), LIT-tmp9diyj, read in NOTE-tmpozsi2, and filed as a
-  stand-in for the unread Scott et al. (2010), LIT-tmp5lbzn, on whether
+  Brown et al. (2019), [LIT-tmp9diyj](../literature.d/LIT-tmp9diyj.md), read in [NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md), and filed as a
+  stand-in for the unread Scott et al. (2010), [LIT-tmp5lbzn](../literature.d/LIT-tmp5lbzn.md), on whether
   conservation reliance ends at recovery. In a 100-year viability model the
   population holds at about 2,500 males under current management and
   stabilizes at about 1,900 or 1,300 males when the planted habitat is cut;
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Brown, Donner, Ribic & Bocetti (2019), LIT-tmp9diyj; read in NOTE-tmpozsi2.
+Brown, Donner, Ribic & Bocetti (2019), [LIT-tmp9diyj](../literature.d/LIT-tmp9diyj.md); read in [NOTE-tmpozsi2](../notes.d/NOTE-tmpozsi2.md).
 
 ## What was actually shown
 

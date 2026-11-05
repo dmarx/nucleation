@@ -102,37 +102,37 @@ to the amount of habitat that is actively managed for them"
 
 ## Connections
 
-- **What it carries for Scott et al. (2010)**, LIT-tmp5lbzn, unread. It
+- **What it carries for Scott et al. (2010)**, [LIT-tmp5lbzn](../literature.d/LIT-tmp5lbzn.md), unread. It
   cites Scott 2010, with Scott et al. (2005) and Reed et al. (2012), for
   the label and its gloss, "active management into perpetuity". It
   carries none of Scott 2010's counts, typology or proposals; the kinds
   of upkeep and their perpetuity are this paper's own account.
-- **The other neighbours.** Mussmann et al. (2017), LIT-tmpshrlv, supply
-  without relief of the threat; Brown et al. (2019), LIT-tmp9diyj, a
+- **The other neighbours.** Mussmann et al. (2017), [LIT-tmpshrlv](../literature.d/LIT-tmpshrlv.md), supply
+  without relief of the threat; Brown et al. (2019), [LIT-tmp9diyj](../literature.d/LIT-tmp9diyj.md), a
   delisted species on supplied habitat.
 - **Corbin & Holl (2012)**, filed in this batch: restoration meant to
   start succession that then runs alone, the opposite case to habitat
   that must be remade continually.
-- **THEORY-132**: stability and resilience as distinct; here the
+- **[THEORY-132](../theory.d/THEORY-132.md)**: stability and resilience as distinct; here the
   managed state has no resilience of its own once upkeep stops.
 
 ## Bearing on the record
 
-- **CLAIM-597 (independent of what founded it, never of what feeds it).**
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (independent of what founded it, never of what feeds it).**
   Supports it by analogy: weeding, trapping and pumping counter
   continuing damage, and the authors expect decline when they stop.
   Kawainui is an observed instance of the decay, with no rate given.
-- **CLAIM-566 (assembling, persisting and regenerating are separate).**
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assembling, persisting and regenerating are separate).**
   Supports it: the birds persist only where people, not the system,
   regenerate their habitat.
-- **QUESTION-398.** For this case: never, while invaders, predators and
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** For this case: never, while invaders, predators and
   altered hydrology remain.
-- **CLAIM-tmpw4ai2 (thresholds under state-dependent upkeep).** No
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (thresholds under state-dependent upkeep).** No
   bearing shown: no threshold or hysteresis is measured, and restored
   wetlands are reported to regain birds.
-- **CLAIM-tmpoh07b.** No bearing: the support maintains habitat, not a
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md).** No bearing: the support maintains habitat, not a
   capacity the birds learn.
-- Filed: THEORY-tmps14d3. No instruction for machine-learning practice.
+- Filed: [THEORY-tmps14d3](../theory.d/THEORY-tmps14d3.md). No instruction for machine-learning practice.
 
 ## Limitations
 

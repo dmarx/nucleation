@@ -19,14 +19,14 @@ date: '2026-11-05'
 source:
 - LIT-tmph8zqa
 summary: >-
-  Morris, Brook, Moseby & Johnson (2021), LIT-tmph8zqa, read as its
-  EcoEvoRxiv preprint in NOTE-tmpbfqjw. Reported success: captive 76.0%,
+  Morris, Brook, Moseby & Johnson (2021), [LIT-tmph8zqa](../literature.d/LIT-tmph8zqa.md), read as its
+  EcoEvoRxiv preprint in [NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md). Reported success: captive 76.0%,
   wild 70.2%; soft 79.8%, hard 75.0%. Growth: captive −2.8, wild +2.2;
   soft −1.3, hard +5.6. Proposed: the preprint, not the published version,
   was read; the source and release contrasts are raw group means with
   large spreads in a growth subset of 87, not adjusted contrasts; and the
   soft-release result runs against the abstract of Resende et al. (2021),
-  LIT-tmpn1dbx, unread.
+  [LIT-tmpn1dbx](../literature.d/LIT-tmpn1dbx.md), unread.
 ---
 <!-- inactive-ok-file: LIT-tmpn1dbx — Unavailable; cited from the reading of Morris et al. (2021) as open -->
 
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Morris, Brook, Moseby & Johnson (2021), LIT-tmph8zqa; read in
-NOTE-tmpbfqjw, from the preprint "Lessons from a century of conservation
+Morris, Brook, Moseby & Johnson (2021), [LIT-tmph8zqa](../literature.d/LIT-tmph8zqa.md); read in
+[NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md), from the preprint "Lessons from a century of conservation
 translocations" (EcoEvoRxiv, 2021-02-12).
 
 ## What was actually shown

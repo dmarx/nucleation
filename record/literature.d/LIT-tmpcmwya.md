@@ -9,10 +9,10 @@ status_note: >-
   verification failure through the session proxy, not overridden and not
   retried; science.org not tried, being paywalled. Two later papers from the
   same laboratory on the same Hood River pedigree stand in, so far as they
-  go: Araki, Berejikian, Ford & Blouin (2008), LIT-tmpzkw55, read in
-  NOTE-tmpkfeb0, which tabulates this paper's relative-fitness estimates
+  go: Araki, Berejikian, Ford & Blouin (2008), [LIT-tmpzkw55](LIT-tmpzkw55.md), read in
+  [NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md), which tabulates this paper's relative-fitness estimates
   and explains its design in the authors' words; and Christie, Marine,
-  French & Blouin (2012), LIT-tmpt7aa3, read in NOTE-tmp52jvk, which tests
+  French & Blouin (2012), [LIT-tmpt7aa3](LIT-tmpt7aa3.md), read in [NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md), which tests
   its mechanism. Neither carries this paper's methods, intervals or sample
   sizes, and the per-generation figure differs between this abstract
   (about 40%) and the 2008 review (about 30%, or 30–40%) without being
@@ -65,8 +65,8 @@ summary: >-
   carefully reconsidered". Here as the first field measure that support
   meant to restore a wild population can lower, by inheritance and within
   one or two generations, the population's capacity to do without it: the
-  question of what makes support hazardous to remove that CLAIM-597,
-  CLAIM-tmpoh07b and QUESTION-398 put.
+  question of what makes support hazardous to remove that [CLAIM-597](../claims.d/CLAIM-597.md),
+  [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) and [QUESTION-398](../questions.d/QUESTION-398.md) put.
 ---
 <!-- inactive-ok-file: CLAIM-597 CLAIM-tmpoh07b CLAIM-tmpqa0qu CLAIM-558 — Proposed or new; cited from the registration of Araki, Cooper & Blouin (2007) as open -->
 
@@ -82,16 +82,16 @@ Araki, H., Cooper, B. & Blouin, M. S. (2007). Genetic effects of captive breedin
   from lifetime reproductive success of hatchery steelhead breeding in the
   wild, by pedigree. Unverified until read.
 - **The estimates as the same authors tabulate them** (Araki et al. 2008,
-  LIT-tmpzkw55, Table 1, the row for "Araki et al. (2007a,b)"): hatchery
+  [LIT-tmpzkw55](LIT-tmpzkw55.md), Table 1, the row for "Araki et al. (2007a,b)"): hatchery
   fish with two wild parents against wild fish "(m) 0.70 (f) 0.88";
   hatchery fish with one wild and one hatchery parent against wild fish
   "(m) 0.32 (f) 0.30"; the second against the first, marked genetic,
   "(m) 0.55 (f) 0.55".
 - **The design separates genetics from rearing** in the 1-against-2
   contrast: "all fish were spawned artificially, reared in the same
-  environment and released on the same date" (LIT-tmpzkw55).
+  environment and released on the same date" ([LIT-tmpzkw55](LIT-tmpzkw55.md)).
 - **The mechanism is adaptation to captivity**, shown later on the same
-  population (Christie et al. 2012, LIT-tmpt7aa3): fish that do best in
+  population (Christie et al. 2012, [LIT-tmpt7aa3](LIT-tmpt7aa3.md)): fish that do best in
   the hatchery leave offspring that do worst in the wild.
 
 ## Standing in the record
@@ -99,15 +99,15 @@ Araki, H., Cooper, B. & Blouin, M. S. (2007). Genetic effects of captive breedin
 Unavailable. Only the PubMed abstract was read. Two papers from the same
 laboratory stand in for it, and only so far:
 
-- **Araki, Berejikian, Ford & Blouin (2008)**, LIT-tmpzkw55, read in
-  NOTE-tmpkfeb0. Same first and last authors. It cites this paper as
+- **Araki, Berejikian, Ford & Blouin (2008)**, [LIT-tmpzkw55](LIT-tmpzkw55.md), read in
+  [NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md). Same first and last authors. It cites this paper as
   2007b, reproduces its relative-fitness estimates in Table 1 (pooled in
   one row with the authors' Conservation Biology paper of the same year,
   2007a), describes its design, and asks by a model whether domestication
   selection can account for the decline it reports. It carries the result
   and the design in the authors' words.
-- **Christie, Marine, French & Blouin (2012)**, LIT-tmpt7aa3, read in
-  NOTE-tmp52jvk. Same pedigree and laboratory. It tests the mechanism this
+- **Christie, Marine, French & Blouin (2012)**, [LIT-tmpt7aa3](LIT-tmpt7aa3.md), read in
+  [NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md). Same pedigree and laboratory. It tests the mechanism this
   paper could not settle and carries that, not this paper's estimates.
 
 Neither carries this paper's methods, confidence intervals, sample sizes
@@ -122,11 +122,11 @@ Frankham (2008), the general account of genetic adaptation to captivity
 and its mitigations, was not reached, so nothing here reports those
 mitigations.
 
-It bears on CLAIM-597 (supply that never yields independence),
-CLAIM-tmpoh07b (support that does the work lowers the capacity kept),
-CLAIM-tmpqa0qu (a capability lost because it is favoured under the
-supply), CLAIM-558 (loss by disuse, which these authors judge too slow
-here) and QUESTION-398 (when a partial organization becomes independent of
-what established it); the readings in NOTE-tmpkfeb0 and NOTE-tmp52jvk say
+It bears on [CLAIM-597](../claims.d/CLAIM-597.md) (supply that never yields independence),
+[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support that does the work lowers the capacity kept),
+[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (a capability lost because it is favoured under the
+supply), [CLAIM-558](../claims.d/CLAIM-558.md) (loss by disuse, which these authors judge too slow
+here) and [QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of
+what established it); the readings in [NOTE-tmpkfeb0](../notes.d/NOTE-tmpkfeb0.md) and [NOTE-tmp52jvk](../notes.d/NOTE-tmp52jvk.md) say
 how. No instruction for machine-learning practice; nothing for the
 anthology.

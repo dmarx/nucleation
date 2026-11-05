@@ -9,13 +9,13 @@ status_note: >-
   page with no file; the USGS Publications Warehouse, no record; Europe
   PMC, no hit for the DOI, then 503; the CORE API, 301 then 500. Unpaywall
   was not used, because it refuses a query without an email address
-  (ADR-008). The 2012 BioScience paper of the same group (Goble et al.,
+  ([ADR-008](../decisions.d/ADR-008.md)). The 2012 BioScience paper of the same group (Goble et al.,
   "Conservation-Reliant Species", doi:10.1525/bio.2012.62.10.6) was tried
   at academic.oup.com and met a 403 Cloudflare challenge, so it is unread
   too. Three open neighbours stand in, only for the concept of
   conservation reliance and for what they themselves assert: Mussmann et
-  al. (2017), LIT-tmpshrlv; Brown et al. (2019), LIT-tmp9diyj; Underwood
-  et al. (2013), LIT-tmp903lf. The 84 % figure Mussmann et al. give is
+  al. (2017), [LIT-tmpshrlv](LIT-tmpshrlv.md); Brown et al. (2019), [LIT-tmp9diyj](LIT-tmp9diyj.md); Underwood
+  et al. (2013), [LIT-tmp903lf](LIT-tmp903lf.md). The 84 % figure Mussmann et al. give is
   cited by them to Goble et al. (2012), not to this paper. None carries
   this paper's own counts, typology or proposals.
 title: 'Conservation-reliant species and the future of conservation'
@@ -55,7 +55,7 @@ summary: >-
   state-listed species so as to preclude federal listing. Here because
   conservation reliance, a species kept going only by management that
   does not end even at recovery, is ecology's name for support that is
-  hazardous to remove, the case CLAIM-597 and QUESTION-398 put.
+  hazardous to remove, the case [CLAIM-597](../claims.d/CLAIM-597.md) and [QUESTION-398](../questions.d/QUESTION-398.md) put.
 ---
 <!-- inactive-ok-file: CLAIM-597 — Proposed; cited from the registration of Scott et al. (2010) as open -->
 
@@ -81,21 +81,21 @@ Unavailable. Three open neighbours stand in, and only for the concept of
 conservation reliance and for what they themselves assert, not for
 anything this paper says:
 
-- **Mussmann et al. (2017)**, LIT-tmpshrlv: the greater prairie chicken,
+- **Mussmann et al. (2017)**, [LIT-tmpshrlv](LIT-tmpshrlv.md): the greater prairie chicken,
   where translocation without relief of the habitat threat is said to
   perpetuate reliance. Its definition and its figure that 84 % of listed
   species are conservation-reliant are cited by its authors to Goble et
   al. (2012), which was not read (blocked), not to this paper.
-- **Brown et al. (2019)**, LIT-tmp9diyj: a viability model of the
+- **Brown et al. (2019)**, [LIT-tmp9diyj](LIT-tmp9diyj.md): a viability model of the
   Kirtland's Warbler, a recovered species that stays on supplied habitat
   after delisting.
-- **Underwood et al. (2013)**, LIT-tmp903lf: Hawai'i's endangered
+- **Underwood et al. (2013)**, [LIT-tmp903lf](LIT-tmp903lf.md): Hawai'i's endangered
   waterbirds, held stable by weed control, predator control and water
   management that the authors call perpetual.
 
 None of them carries this paper's own counts, typology or proposed
 management agreements. Cite the neighbours for what they assert, and
 nothing from this paper as read until a lawful copy is obtained. It bears
-on CLAIM-597 (independent of what founded it, never of what feeds it) and
-QUESTION-398 (when a partial organization becomes independent of the
+on [CLAIM-597](../claims.d/CLAIM-597.md) (independent of what founded it, never of what feeds it) and
+[QUESTION-398](../questions.d/QUESTION-398.md) (when a partial organization becomes independent of the
 intervention that established it).

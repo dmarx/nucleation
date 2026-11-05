@@ -18,9 +18,9 @@ date: '2026-11-05'
 source:
 - LIT-tmplosp3
 summary: >-
-  Holl, Reid, Zahawi, de Siqueira & Brancalion (2024), LIT-tmplosp3, read
-  in NOTE-tmpq005d: an opinion article by the senior author of the unread
-  Corbin & Holl (2012), LIT-tmpr7i8v, read as its stand-in for mechanism
+  Holl, Reid, Zahawi, de Siqueira & Brancalion (2024), [LIT-tmplosp3](../literature.d/LIT-tmplosp3.md), read
+  in [NOTE-tmpq005d](../notes.d/NOTE-tmpq005d.md): an opinion article by the senior author of the unread
+  Corbin & Holl (2012), [LIT-tmpr7i8v](../literature.d/LIT-tmpr7i8v.md), read as its stand-in for mechanism
   and nucleus size. A planted tree is support that becomes the capacity;
   a perch stands in for that capacity and then rots. Proposed: the
   article argues from the literature rather than showing data, its 64 m²
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Holl, Reid, Zahawi, de Siqueira & Brancalion (2024), LIT-tmplosp3; read in NOTE-tmpq005d. A stand-in for Corbin & Holl (2012), LIT-tmpr7i8v, unread.
+Holl, Reid, Zahawi, de Siqueira & Brancalion (2024), [LIT-tmplosp3](../literature.d/LIT-tmplosp3.md); read in [NOTE-tmpq005d](../notes.d/NOTE-tmpq005d.md). A stand-in for Corbin & Holl (2012), [LIT-tmpr7i8v](../literature.d/LIT-tmpr7i8v.md), unread.
 
 ## What was actually shown
 
@@ -55,7 +55,7 @@ Nothing was shown with new data; this is the authors' synthesis.
 - **Minimum** (p. 3): "approximately 64 m2 is needed to attract seed
   dispersing birds and shade out pasture grasses in tropical moist
   forests", cited to Zahawi & Augspurger (2006) and Holl et al. (2020),
-  LIT-tmp506zp, and said to "vary with ecosystem type and disperser
+  [LIT-tmp506zp](../literature.d/LIT-tmp506zp.md), and said to "vary with ecosystem type and disperser
   behavior".
 - What could have come out otherwise: a measured perch effect lasting as
   long as a tree's, or nuclei smaller than 64 m² drawing birds, would
@@ -64,7 +64,7 @@ Nothing was shown with new data; this is the authors' synthesis.
 ## What this does not say
 
 - That a nucleus becomes self-maintaining: the planted trees' own
-  regeneration is not covered (see Schubert et al. 2024, LIT-tmppzod1).
+  regeneration is not covered (see Schubert et al. 2024, [LIT-tmppzod1](../literature.d/LIT-tmppzod1.md)).
 - That nucleation is independent of outside supply: it depends on
   dispersers and seed sources that are not reintroduced, and does not fit
   "where key seed dispersing fauna have been extirpated" (p. 4).

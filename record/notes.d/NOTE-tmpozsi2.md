@@ -109,41 +109,41 @@ breeding habitat" (§4).
 
 ## Connections
 
-- **What it carries for Scott et al. (2010)**, LIT-tmp5lbzn, unread. Only
+- **What it carries for Scott et al. (2010)**, [LIT-tmp5lbzn](../literature.d/LIT-tmp5lbzn.md), unread. Only
   the question whether reliance ends at recovery, answered no for one
   species in one model. It does not restate the definition of
   conservation reliance or Scott 2010's counts, typology or proposals; it
   cites Bocetti, Goble & Scott (2012) for the recovery numbers.
-- **The other neighbours.** Mussmann et al. (2017), LIT-tmpshrlv, supply
-  without relief of the threat; Underwood et al. (2013), LIT-tmp903lf,
+- **The other neighbours.** Mussmann et al. (2017), [LIT-tmpshrlv](../literature.d/LIT-tmpshrlv.md), supply
+  without relief of the threat; Underwood et al. (2013), [LIT-tmp903lf](../literature.d/LIT-tmp903lf.md),
   perpetual habitat upkeep.
 - **Suding et al. (2004)**, filed in this batch, on feedbacks and
   thresholds in restoration: here the model has no internal feedback, so
   habitat loss alone gives graded plateaus.
-- **THEORY-136**: an abrupt change is not evidence of alternative stable
+- **[THEORY-136](../theory.d/THEORY-136.md)**: an abrupt change is not evidence of alternative stable
   states; this model makes none and shows none.
 
 ## Bearing on the record
 
-- **CLAIM-597 (independent of what founded it, never of what feeds it).**
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (independent of what founded it, never of what feeds it).**
   Supports it by analogy: carrying capacity is supplied habitat, and
   cutting the supply lowers the level held roughly in step. Qualifies it:
   a partial cut gives a new lower plateau, not decay to zero, and a full
   stop was not simulated.
-- **CLAIM-tmpw4ai2 (upkeep drawn in proportion to the intact state has a
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (upkeep drawn in proportion to the intact state has a
   threshold; upkeep supplied regardless of state has none).** Fits its
   second half: the habitat is supplied regardless of the birds' state, and
   habitat loss alone gives graded plateaus with no collapse threshold.
   Collapse appears only when a second stress is added.
-- **CLAIM-566 (assembling, persisting and regenerating are separate).**
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assembling, persisting and regenerating are separate).**
   Supports it: the species persists under supply while the process that
   regenerated its habitat, wildfire, is suppressed.
-- **QUESTION-398.** For this case: not while the disturbance regime that
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** For this case: not while the disturbance regime that
   made the habitat stays suppressed; the intervention replaced a natural
   process that is still absent.
-- CLAIM-tmpoh07b, CLAIM-tmpqa0qu, CLAIM-558, QUESTION-399, TERM-117: no
+- [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), [CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md), [CLAIM-558](../claims.d/CLAIM-558.md), [QUESTION-399](../questions.d/QUESTION-399.md), [TERM-117](../terms.d/TERM-117.md): no
   bearing.
-- Filed: THEORY-tmpia26b. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpia26b](../theory.d/THEORY-tmpia26b.md). No instruction for machine-learning practice.
 
 ## Limitations
 

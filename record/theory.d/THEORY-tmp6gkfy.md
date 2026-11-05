@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpshrlv
 summary: >-
-  Mussmann et al. (2017), LIT-tmpshrlv, read in NOTE-tmpmm5we, and filed
-  as a stand-in for the unread Scott et al. (2010), LIT-tmp5lbzn, on the
+  Mussmann et al. (2017), [LIT-tmpshrlv](../literature.d/LIT-tmpshrlv.md), read in [NOTE-tmpmm5we](../notes.d/NOTE-tmpmm5we.md), and filed
+  as a stand-in for the unread Scott et al. (2010), [LIT-tmp5lbzn](../literature.d/LIT-tmp5lbzn.md), on the
   concept of conservation reliance. Twenty years after translocations,
   Illinois greater prairie chickens are small, declining and inbred, with
   no sign of genetic rescue; the authors argue that supply without relief
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Mussmann, Douglas, Anthonysamy, Davis, Simpson, Louis & Douglas (2017), LIT-tmpshrlv; read in NOTE-tmpmm5we.
+Mussmann, Douglas, Anthonysamy, Davis, Simpson, Louis & Douglas (2017), [LIT-tmpshrlv](../literature.d/LIT-tmpshrlv.md); read in [NOTE-tmpmm5we](../notes.d/NOTE-tmpmm5we.md).
 
 ## What was actually shown
 

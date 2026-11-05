@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpbfqjw) as the authors' EcoEvoRxiv
+  read in full 2026-11-05 ([NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md)) as the authors' EcoEvoRxiv
   preprint, "Lessons from a century of conservation translocations"
   (doi:10.32942/osf.io/hnzqk, CC BY-NC-ND 4.0), not the published
   version, which could not be reached; any change between the two is
@@ -100,7 +100,7 @@ Morris, S. D., Brook, B. W., Moseby, K. E. & Johnson, C. N. (2021). Factors affe
 
 ## Key takeaways
 
-*From the reading of the preprint, NOTE-tmpbfqjw. Locations are section numbers; the preprint has no pages.*
+*From the reading of the preprint, [NOTE-tmpbfqjw](../notes.d/NOTE-tmpbfqjw.md). Locations are section numbers; the preprint has no pages.*
 
 - **Reported success hides a captive deficit.** Wild stock "did not
   result in higher success rates (wild 70.2%, captive 76.0%)", but growth
@@ -126,15 +126,15 @@ Morris, S. D., Brook, B. W., Moseby, K. E. & Johnson, C. N. (2021). Factors affe
 The record's first reading on reintroduction and translocation. Read as
 the preprint; the published version is unread, and the record should not
 cite a figure here as the journal version's until it is. On soft release
-it disagrees with Resende et al. (2021), LIT-tmpn1dbx, unread, whose
+it disagrees with Resende et al. (2021), [LIT-tmpn1dbx](LIT-tmpn1dbx.md), unread, whose
 abstract reports soft release about 40% better, mostly for reptiles and on
 movement metrics; on captive stock it agrees in direction with Gross et
-al. (2023), LIT-tmppuwdq, unread. It bears on CLAIM-597 (supply that never
-yields independence), which it qualifies; on CLAIM-tmpoh07b (support that
+al. (2023), [LIT-tmppuwdq](LIT-tmppuwdq.md), unread. It bears on [CLAIM-597](../claims.d/CLAIM-597.md) (supply that never
+yields independence), which it qualifies; on [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support that
 does the work crowds out capacity), for which the captive deficit is
-suggestive but confounded; on CLAIM-566 (assembling, persisting and
-regenerating come apart), which it supports; and on QUESTION-398 and
-QUESTION-399 (when an established partial organization stops needing the
+suggestive but confounded; on [CLAIM-566](../claims.d/CLAIM-566.md) (assembling, persisting and
+regenerating come apart), which it supports; and on [QUESTION-398](../questions.d/QUESTION-398.md) and
+[QUESTION-399](../questions.d/QUESTION-399.md) (when an established partial organization stops needing the
 intervention, and how large the nucleus must be). Filed from it:
-THEORY-tmpeqr8u. No instruction for machine-learning practice; nothing for
+[THEORY-tmpeqr8u](../theory.d/THEORY-tmpeqr8u.md). No instruction for machine-learning practice; nothing for
 the anthology.

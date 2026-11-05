@@ -159,7 +159,7 @@ it.
 
 ## Connections
 
-- **Resende et al. (2021)**, LIT-tmpn1dbx, unread: its Crossref abstract
+- **Resende et al. (2021)**, [LIT-tmpn1dbx](../literature.d/LIT-tmpn1dbx.md), unread: its Crossref abstract
   reports the opposite on soft release, soft release about 40% better than
   hard (estimate 0.44, 95% CI 0.11–0.76) over 17 studies of 17 species,
   driven mostly by reptiles and by movement metrics, with birds and
@@ -168,7 +168,7 @@ it.
   population growth, but neither reading tests that. Morris et al. cite
   the same team's earlier global review (Resende et al. 2020), not this
   meta-analysis.
-- **Gross et al. (2023)**, LIT-tmppuwdq, unread: its abstract reports that
+- **Gross et al. (2023)**, [LIT-tmppuwdq](../literature.d/LIT-tmppuwdq.md), unread: its abstract reports that
   translocated organisms have 64% lower odds of out-performing wild
   residents and that pre-release enrichment narrowed the gap, in line with
   the captive deficit here.
@@ -184,48 +184,48 @@ it.
 
 ## Bearing on the record
 
-- **CLAIM-597 (supplied maintenance never becomes independent of its
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied maintenance never becomes independent of its
   supply).** Qualifies it. The outcome ladder makes independence from
   augmentation the test of success, and most reported successes did not
   reach it (24.8% viable). Fenced reserves and islands in Oceania are
   standing protection whose withdrawal the paper does not test.
   Consistent with the claim; does not show it.
-- **CLAIM-tmpw4ai2 (ignition threshold, collapse, hysteresis).** Weak
+- **[CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) (ignition threshold, collapse, hysteresis).** Weak
   support: a threshold in founder number, a plateau above about 20–50,
   read through small-population stochasticity. Nothing on collapse or
   hysteresis.
-- **CLAIM-tmpoh07b (support that does the work crowds out capacity;
+- **[CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md) (support that does the work crowds out capacity;
   recovery time grows with its duration).** Suggestive but confounded:
   captive-bred stock grows negatively while practitioners still call it
   success, which fits capacity lost under supply, but behaviour, genetics
   and the selection of hard cases are not separated. On duration it gives
   the opposite axis: longer release programmes, repeated supply of
   animals, go with fewer failures.
-- **CLAIM-tmpqa0qu (capability lost under reliable supply).** None
+- **[CLAIM-tmpqa0qu](../claims.d/CLAIM-tmpqa0qu.md) (capability lost under reliable supply).** None
   directly.
-- **CLAIM-558 (capabilities decay with disuse).** None directly; the
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (capabilities decay with disuse).** None directly; the
   captive deficit is compatible but is not measured as skill.
-- **CLAIM-566 (assemble, persist, regenerate).** Supports it. The ladder
+- **[CLAIM-566](../claims.d/CLAIM-566.md) (assemble, persist, regenerate).** Supports it. The ladder
   separates survival of the released animals from a population that
   regenerates without help, and the two came apart: some IUCN successes
   reported only high initial survival.
-- **QUESTION-398 (independence from the establishing intervention;
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the establishing intervention;
   withdrawal measure D).** Gives the field's operational form, "persist
   without further augmentation", but no withdrawal experiment and no D.
   Numbers released and programme duration bear on how much
   establishment it takes.
-- **QUESTION-399 (when a nucleus becomes self-maintaining).** A
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (when a nucleus becomes self-maintaining).** A
   founder-number threshold of about 20–50, context-dependent in the
   authors' words.
-- **TERM-117 (productive nucleus).** The released group is a candidate
+- **[TERM-117](../terms.d/TERM-117.md) (productive nucleus).** The released group is a candidate
   productive nucleus; the paper measures success and growth, not later
   transition rates.
-- **QUESTION-380, THEORY-1273, THEORY-1048.** None.
-- **Held ecology: THEORY-136, THEORY-132, THEORY-128, LIT-726, LIT-720.**
+- **[QUESTION-380](../questions.d/QUESTION-380.md), [THEORY-1273](../theory.d/THEORY-1273.md), [THEORY-1048](../theory.d/THEORY-1048.md).** None.
+- **Held ecology: [THEORY-136](../theory.d/THEORY-136.md), [THEORY-132](../theory.d/THEORY-132.md), [THEORY-128](../theory.d/THEORY-128.md), [LIT-726](../literature.d/LIT-726.md), [LIT-720](../literature.d/LIT-720.md).**
   None directly. The Oceania result, persistence behind predator-proof
   fences and on islands, is a standing-support case like the herbivores in
-  THEORY-128, but no alternative stable states are tested.
-- Filed: THEORY-tmpeqr8u. No instruction for machine-learning practice.
+  [THEORY-128](../theory.d/THEORY-128.md), but no alternative stable states are tested.
+- Filed: [THEORY-tmpeqr8u](../theory.d/THEORY-tmpeqr8u.md). No instruction for machine-learning practice.
 
 ## Limitations
 
