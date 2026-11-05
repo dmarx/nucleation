@@ -15,7 +15,7 @@ date: '2026-11-05'
 source:
 - LIT-tmp75waa
 summary: >-
-  Vipond (2018; JMLR 2020), LIT-tmp75waa, read in part in NOTE-tmpusebl
+  Vipond (2018; JMLR 2020), [LIT-tmp75waa](../literature.d/LIT-tmp75waa.md), read in part in [NOTE-tmpusebl](../notes.d/NOTE-tmpusebl.md)
   (§§1–4 and 7; §§5–6 skimmed; appendices not read). Proposed: the
   appendices that carry the interleaving and discretization details were
   not read. The landscape sees only the rank invariant; it does not say
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Vipond (2018; 2020), LIT-tmp75waa; read in NOTE-tmpusebl.
+Vipond (2018; 2020), [LIT-tmp75waa](../literature.d/LIT-tmp75waa.md); read in [NOTE-tmpusebl](../notes.d/NOTE-tmpusebl.md).
 
 ## What was actually shown
 

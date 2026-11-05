@@ -10,7 +10,7 @@ status_note: >-
   author's Aalborg pages hold a one-page poster and talk slides, not the
   paper). Probably, not certainly, the ScienceDirect item the pasted
   synthesis cites. Raussen's 2023 paper on directed path spaces in PV
-  programs (LIT-tmpjapuv) was read as its neighbour: it restates the PV
+  programs ([LIT-tmpjapuv](LIT-tmpjapuv.md)) was read as its neighbour: it restates the PV
   model, executions as directed paths, dihomotopy, deadlocks and
   unreachable regions, but not this paper's general po-space theory,
   examples or cubical-set and two-phase-locking results.
@@ -65,7 +65,7 @@ summary: >-
   homotopy” that does not reverse the flow of time"; the abstract adds
   examples of the difference from ordinary homotopy and a link to cubical
   sets. Registered as the probable source of the pasted synthesis's
-  directed-homotopy citation; its neighbour LIT-tmpjapuv was read.
+  directed-homotopy citation; its neighbour [LIT-tmpjapuv](LIT-tmpjapuv.md) was read.
 ---
 <!-- inactive-ok-file: NOTE-tmpdizof THEORY-tmpykyk4 — Skimmed, Proposed or new; the neighbour's reading, cited as open -->
 
@@ -93,8 +93,8 @@ found (status note). The pasted synthesis on resource-bounded
 realizability cites the directed-homotopy literature to ScienceDirect for
 its point that "Ordinary topological connectivity is symmetric;
 computational reachability need not be." This paper is the probable
-source. Its neighbour, Raussen (2023; LIT-tmpjapuv, read in NOTE-tmpdizof,
-THEORY-tmpykyk4), stands in for the model and its vocabulary: PV programs
+source. Its neighbour, Raussen (2023; [LIT-tmpjapuv](LIT-tmpjapuv.md), read in [NOTE-tmpdizof](../notes.d/NOTE-tmpdizof.md),
+[THEORY-tmpykyk4](../theory.d/THEORY-tmpykyk4.md)), stands in for the model and its vocabulary: PV programs
 whose shared resources have capacities, executions as directed paths,
 d-homotopy, deadlocks and doomed regions. It does not stand in for this
 paper's own constructions and results: po-spaces in general, its examples

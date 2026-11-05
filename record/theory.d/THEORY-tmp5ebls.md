@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpuqt9i
 summary: >-
-  Lawvere (1973; TAC Reprints 2002), LIT-tmpuqt9i, read in part in
-  NOTE-tmpegumv: the 2002 commentary in full, the 1973 introduction by eye
+  Lawvere (1973; TAC Reprints 2002), [LIT-tmpuqt9i](../literature.d/LIT-tmpuqt9i.md), read in part in
+  [NOTE-tmpegumv](../notes.d/NOTE-tmpegumv.md): the 2002 commentary in full, the 1973 introduction by eye
   from a scan with no text layer. Proposed: the article's own statements
   were read only from page images, and its general theory (original
   pp. 143–166) not read. It concerns one additive tensor; it does not say
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Lawvere (1973; reprinted 2002), LIT-tmpuqt9i; read in NOTE-tmpegumv.
+Lawvere (1973; reprinted 2002), [LIT-tmpuqt9i](../literature.d/LIT-tmpuqt9i.md); read in [NOTE-tmpegumv](../notes.d/NOTE-tmpegumv.md).
 
 ## What was actually shown
 
@@ -53,7 +53,7 @@ Lawvere (1973; reprinted 2002), LIT-tmpuqt9i; read in NOTE-tmpegumv.
 
 - That other composition laws (max, min) give enriched categories of the
   same kind: true for quantales, but not this paper's case; the max base
-  for peak capacity is the reader's derivation (NOTE-tmpegumv).
+  for peak capacity is the reader's derivation ([NOTE-tmpegumv](../notes.d/NOTE-tmpegumv.md)).
 - Anything about computing distances, or their complexity.
 - Anything about costs that depend on the order of operations or on a
   running reserve.

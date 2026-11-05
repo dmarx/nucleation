@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpegumv) from the open TAC reprint of
+  read in part 2026-11-05 ([NOTE-tmpegumv](../notes.d/NOTE-tmpegumv.md)) from the open TAC reprint of
   2002: the new author commentary in full (text layer), and the 1973
   article's introduction (original pp. 135–142) by eye from the scanned
   pages; the rest of the article (pp. 143–166) not read beyond two sampled
@@ -77,7 +77,7 @@ Lawvere, F. W. (1973). Metric spaces, generalized logic, and closed categories. 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpegumv. Quotations are from the 2002 commentary
+*From the reading, [NOTE-tmpegumv](../notes.d/NOTE-tmpegumv.md). Quotations are from the 2002 commentary
 only; the 1973 pages are a scan, read by eye and paraphrased.*
 
 - **The analogy.** "I noticed the analogy between the triangle inequality
@@ -108,8 +108,8 @@ realizability calls "Lawvere-style metric enrichment", which, A says,
 "gives the familiar additive shortest-path model, while more general
 ordered monoidal structures allow different composition laws". The first
 half is right. The second needs a quantale, not merely an ordered monoid,
-and the reader's derivations in NOTE-tmpegumv show that the peak-capacity
-base ([0, ∞], ≥, max) gives exactly CLAIM-tmpbi4ca's threshold, while a
-product of two such bases loses CLAIM-tmpuk8gq's frontier. Seven Sketches
-chapter 2 (LIT-803) carries the textbook form; Marsden & Zwart
-(LIT-tmpeei4c) the resource-theoretic one. Filed from it: THEORY-tmp5ebls.
+and the reader's derivations in [NOTE-tmpegumv](../notes.d/NOTE-tmpegumv.md) show that the peak-capacity
+base ([0, ∞], ≥, max) gives exactly [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s threshold, while a
+product of two such bases loses [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)'s frontier. Seven Sketches
+chapter 2 ([LIT-803](LIT-803.md)) carries the textbook form; Marsden & Zwart
+([LIT-tmpeei4c](LIT-tmpeei4c.md)) the resource-theoretic one. Filed from it: [THEORY-tmp5ebls](../theory.d/THEORY-tmp5ebls.md).

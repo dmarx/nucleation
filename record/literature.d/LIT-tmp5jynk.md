@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpkmvs1) from arXiv v3; worth reading as the
+  read 2026-11-05 ([NOTE-tmpkmvs1](../notes.d/NOTE-tmpkmvs1.md)) from arXiv v3; worth reading as the
   foundational categorical account of resource theories: a resource theory
   is a symmetric monoidal category whose morphisms are the transformations
   that cost nothing, generated from a partition of processes into free and
@@ -72,7 +72,7 @@ Coecke, B., Fritz, T. & Spekkens, R. W. (2016). A mathematical theory of resourc
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpkmvs1. Section numbers are arXiv v3's.*
+*From the reading, [NOTE-tmpkmvs1](../notes.d/NOTE-tmpkmvs1.md). Section numbers are arXiv v3's.*
 
 - **The definition** (§1, Def. 2.1). A resource theory is a symmetric
   monoidal category: objects are resources, ∘ is sequential and ⊗ parallel
@@ -105,8 +105,8 @@ and carry no cost, so the composition law A proposes for costed processes,
 (max, +) on peak capacity and expenditure, is not here. Sum and maximum
 appear in the paper as two ways of combining resources in parallel, not
 as two ways of composing the costs of successive steps. Costed composition
-is the quantale-enriched line of Lawvere (LIT-tmpuqt9i) and Marsden &
-Zwart (LIT-tmpeei4c), which opens from this paper's §6. The record's
-contextuality resource theory (LIT-845, LIT-846) is an instance of the
-framework, and Seven Sketches chapter 2 (LIT-803) teaches its
-convertibility layer. Filed from it: THEORY-tmpir3m0.
+is the quantale-enriched line of Lawvere ([LIT-tmpuqt9i](LIT-tmpuqt9i.md)) and Marsden &
+Zwart ([LIT-tmpeei4c](LIT-tmpeei4c.md)), which opens from this paper's §6. The record's
+contextuality resource theory ([LIT-845](LIT-845.md), [LIT-846](LIT-846.md)) is an instance of the
+framework, and Seven Sketches chapter 2 ([LIT-803](LIT-803.md)) teaches its
+convertibility layer. Filed from it: [THEORY-tmpir3m0](../theory.d/THEORY-tmpir3m0.md).

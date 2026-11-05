@@ -105,7 +105,7 @@ line by line, at the price of seeing only what the rank invariant sees.
 
 Extends Bubenik's one-parameter persistence landscape; computes with RIVET
 on two-parameter (scale, density or codensity) bifiltrations. Botnan &
-Lesnick's survey (LIT-tmp1045q, NOTE-tmp6e0rl) places it as one
+Lesnick's survey ([LIT-tmp1045q](../literature.d/LIT-tmp1045q.md), [NOTE-tmp6e0rl](NOTE-tmp6e0rl.md)) places it as one
 vectorization among several and states the classification difficulty more
 fully.
 
@@ -125,32 +125,32 @@ fully.
   inessential difference).
 - **What the invariants see.** A's sentence leaves out that the standard
   invariants are incomplete. *The reader's interpretation, stated in
-  neither paper:* for CLAIM-tmpuk8gq's two paths with peaks (3, 1) and
+  neither paper:* for [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)'s two paths with peaks (3, 1) and
   (1, 3), the endpoint components merge at two incomparable budgets. The
   rank invariant registers each merge, along comparable pairs such as a
   budget below both and (3, 1); but the frontier {(3, 1), (1, 3)} as one
   object is the kind of structure that has no barcode-like summary in
   general.
-- **LIT-tmpbs8e0, NOTE-tmpwvb9j, THEORY-tmpqzxwh** (sublevel-set persistence
-  of energy landscapes, one parameter): supports and extends. LIT-tmpbs8e0's
+- **[LIT-tmpbs8e0](../literature.d/LIT-tmpbs8e0.md), [NOTE-tmpwvb9j](NOTE-tmpwvb9j.md), [THEORY-tmpqzxwh](../theory.d/THEORY-tmpqzxwh.md)** (sublevel-set persistence
+  of energy landscapes, one parameter): supports and extends. [LIT-tmpbs8e0](../literature.d/LIT-tmpbs8e0.md)'s
   status note records multiparameter persistence as mentioned once and not
   treated; this is the multiparameter version of that construction, with
   stability.
-- **CLAIM-tmpbi4ca** (one capacity's threshold as a merge level): supports;
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)** (one capacity's threshold as a merge level): supports;
   the one-parameter, zero-dimensional case of Example 1.
-- **CLAIM-tmpuk8gq** (a Pareto frontier of sufficient budgets): supports and
+- **[CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)** (a Pareto frontier of sufficient budgets): supports and
   qualifies. The multiparameter sublevel module is the right object, and
   its merges need not reduce to one threshold, as the claim says; but the
   standard summaries are incomplete, so none is guaranteed to recover the
   frontier.
-- **CLAIM-555** (the compatibility complex as a nerve of sublevel sets in
+- **[CLAIM-555](../claims.d/CLAIM-555.md)** (the compatibility complex as a nerve of sublevel sets in
   learning): related; a multiparameter filtration by demand, to which
   Corollary 31's stability would apply.
 - **Direction.** A: "Topology records what is connected, not necessarily
   what can be computationally or dynamically traversed." Consistent with
   the paper, which is about the topology of sublevel sets and says nothing
   about paths, direction or effort.
-- Filed: THEORY-tmpwe5km. A method paper in a machine-learning venue, but it
+- Filed: [THEORY-tmpwe5km](../theory.d/THEORY-tmpwe5km.md). A method paper in a machine-learning venue, but it
   carries no instruction for machine-learning practice; nothing for the
   anthology.
 

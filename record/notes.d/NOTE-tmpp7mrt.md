@@ -107,13 +107,13 @@ quantale changes the composition law and nothing else.
 
 ## Connections
 
-Opens from Lawvere (1973; LIT-tmpuqt9i), whose metric spaces are its
+Opens from Lawvere (1973; [LIT-tmpuqt9i](../literature.d/LIT-tmpuqt9i.md)), whose metric spaces are its
 L-categories, and positions itself against Coecke, Fritz & Spekkens
-(LIT-tmp5jynk), whose open problem of quantitative conversion it takes up.
-Seven Sketches chapter 2 (LIT-803) teaches the same quantale-enriched
+([LIT-tmp5jynk](../literature.d/LIT-tmp5jynk.md)), whose open problem of quantitative conversion it takes up.
+Seven Sketches chapter 2 ([LIT-803](../literature.d/LIT-803.md)) teaches the same quantale-enriched
 categories and their matrix-multiplication closure. It points to
 Pavlovic's quantitative concept analysis; the record holds other
-Pavlovic material (NOTE-246, NOTE-247, NOTE-248).
+Pavlovic material ([NOTE-246](NOTE-246.md), [NOTE-247](NOTE-247.md), [NOTE-248](NOTE-248.md)).
 
 ## Bearing on the record
 
@@ -128,15 +128,15 @@ Pavlovic material (NOTE-246, NOTE-247, NOTE-248).
   them.
 - **Costed composition comes from here, not from Coecke, Fritz &
   Spekkens.** In their framework morphisms are free and carry no cost
-  (NOTE-tmpkmvs1); attaching costs to conversions and composing them is
+  ([NOTE-tmpkmvs1](NOTE-tmpkmvs1.md)); attaching costs to conversions and composing them is
   this paper's quantale enrichment, and Lawvere's.
-- **CLAIM-tmpbi4ca** (threshold = infimum over paths of the peak along the
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)** (threshold = infimum over paths of the peak along the
   path): supports. *The reader's check:* ([0, ∞], inf, max) satisfies
   Definition 1, since max(a, inf_i b_i) = inf_i max(a, b_i). Max along a
   path with the infimum over paths is then this paper's closure
   (Proposition 37) in that quantale, and gives the claim's B* exactly. The
   peak-capacity law is not among the paper's examples (+, min, ×).
-- **CLAIM-tmpuk8gq** (a Pareto frontier of sufficient budgets): supports,
+- **[CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)** (a Pareto frontier of sufficient budgets): supports,
   and shows why one product quantale is not enough. *The reader's:* a
   product of two quantales is a quantale, but its join is the
   componentwise infimum, which no single path need achieve; for the
@@ -156,7 +156,7 @@ Pavlovic material (NOTE-246, NOTE-247, NOTE-248).
   C_{x⊗y}(a, c) (Wood, 1976 and 1978, as reported by E. Patterson's
   Topos Institute blog post on graded categories as double functors,
   2025-05-01; Wood not read), and Lawvere's normed category with
-  |f| + |g| ≥ |fg| (NOTE-tmpegumv). The enriched view keeps only the best
+  |f| + |g| ≥ |fg| ([NOTE-tmpegumv](NOTE-tmpegumv.md)). The enriched view keeps only the best
   grade between two objects; the graded view keeps every morphism with its
   grade, which is what A needs when "Budgets then select affordable
   morphisms from that larger structure." A's use matches graded
@@ -164,14 +164,14 @@ Pavlovic material (NOTE-246, NOTE-247, NOTE-248).
 - **Replenishable resources.** A: "For replenishable resources, the cost
   may even depend on the order of operations." Not covered by quantale
   enrichment, which assumes a context-free ⊗; consistent with A's remedy of
-  tracking reserves in the state. Bears the same way on **TERM-tmp26wo4**:
+  tracking reserves in the state. Bears the same way on **[TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)**:
   capacities and cumulative expenditures are quantale bases; reserves and
   deadlines with rates are not context-free laws. Qualifies.
-- **LIT-803** (Seven Sketches §2.5): the textbook account of quantales and
+- **[LIT-803](../literature.d/LIT-803.md)** (Seven Sketches §2.5): the textbook account of quantales and
   matrix-multiplication closure; supports, the same mathematics.
-- **LIT-845, LIT-846** (the contextuality resource theory): another
+- **[LIT-845](../literature.d/LIT-845.md), [LIT-846](../literature.d/LIT-846.md)** (the contextuality resource theory): another
   instance of a resource theory; unrelated in subject.
-- Filed: THEORY-tmpzax66. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpzax66](../theory.d/THEORY-tmpzax66.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

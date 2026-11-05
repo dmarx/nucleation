@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp1045q
 summary: >-
-  Botnan & Lesnick (2022; EMS 2023), LIT-tmp1045q, read in part in
-  NOTE-tmp6e0rl (§1, §§3.3–3.4, §§4.1–4.2, §6.1 to Theorem 6.9, §8.1 and the
+  Botnan & Lesnick (2022; EMS 2023), [LIT-tmp1045q](../literature.d/LIT-tmp1045q.md), read in part in
+  [NOTE-tmp6e0rl](../notes.d/NOTE-tmp6e0rl.md) (§1, §§3.3–3.4, §§4.1–4.2, §6.1 to Theorem 6.9, §8.1 and the
   start of §8.2). Proposed: the sections read were read closely, but the
   NP-hardness and wild-type results are cited from the literature, not
   proved in the survey. It is a report of the field. It does not say
@@ -28,7 +28,7 @@ summary: >-
 
 ## Source
 
-Botnan & Lesnick (2022; 2023), LIT-tmp1045q; read in NOTE-tmp6e0rl.
+Botnan & Lesnick (2022; 2023), [LIT-tmp1045q](../literature.d/LIT-tmp1045q.md); read in [NOTE-tmp6e0rl](../notes.d/NOTE-tmp6e0rl.md).
 
 ## What was actually shown
 

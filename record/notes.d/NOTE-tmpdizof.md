@@ -103,7 +103,7 @@ together at each vertex.
 
 ## Connections
 
-It stands in for Fajstrup, Goubault & Raussen 2006 (LIT-tmph2u8y), which
+It stands in for Fajstrup, Goubault & Raussen 2006 ([LIT-tmph2u8y](../literature.d/LIT-tmph2u8y.md)), which
 could not be fetched, and cites the 2016 book Directed Algebraic Topology
 and Concurrency (ch. 3) for the model. **What of the original it
 restates:** the geometric semantics of semaphore programs, executions as
@@ -140,32 +140,32 @@ safe. It is a later, narrower paper on one question.
   so this is the feasible-or-not case of A's peak-capacity law. A's
   separation is a choice of presentation, not forced by the mathematics.
   The reader's reading, from the model as stated.
-- **CLAIM-tmpal9mc** (four failure modes, the second "no path exists in the
+- **[CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md)** (four failure modes, the second "no path exists in the
   fixed configuration space"): qualifies. A deadlock or doomed region is a
   failure of directed reachability inside a connected space. If the
   claim's "no path" means undirected connectivity, the PV deadlock is a
   mode it misses; if it means directed paths, the deadlock is covered. The
   claim should say which.
-- **CLAIM-tmpbi4ca and CLAIM-tmpuk8gq** (thresholds and frontiers for
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md) and [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)** (thresholds and frontiers for
   capacity budgets, over undirected paths in a sublevel set): qualifies.
   In a directed state space the threshold from A to B can differ from that
-  from B to A, as Lawvere's non-symmetric homs allow (NOTE-tmpegumv).
+  from B to A, as Lawvere's non-symmetric homs allow ([NOTE-tmpegumv](NOTE-tmpegumv.md)).
   Raising a capacity κ(r) shrinks the forbidden region and can remove a
   deadlock: a directed form of a budget making a transition reachable.
-- **CLAIM-tmpr4sof** (an added hard constraint cannot enlarge the
+- **[CLAIM-tmpr4sof](../claims.d/CLAIM-tmpr4sof.md)** (an added hard constraint cannot enlarge the
   admissible set): supports in this setting. An artificial resource added
   to cut out doomed regions only removes states, and path spaces to targets
   outside the doomed regions are unchanged.
-- **THEORY-tmpop5d8** (Kresling barrels as a Preisach memory, some exits
+- **[THEORY-tmpop5d8](../theory.d/THEORY-tmpop5d8.md)** (Kresling barrels as a Preisach memory, some exits
   one-way): supports A's directed-reachability point from another side;
   the mechanism, hysteresis, is different.
-- **CLAIM-347** (jointly satisfiable demands as a downward-closed complex):
+- **[CLAIM-347](../claims.d/CLAIM-347.md)** (jointly satisfiable demands as a downward-closed complex):
   related; the forbidden region is where a capacity constraint is violated,
   a geometric counterpart of a non-face. Different purpose.
-- **LIT-tmp08uqt** (nonholonomic motion planning): related to
-  CLAIM-tmpal9mc's third mode, a path that the inputs cannot execute
+- **[LIT-tmp08uqt](../literature.d/LIT-tmp08uqt.md)** (nonholonomic motion planning): related to
+  [CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md)'s third mode, a path that the inputs cannot execute
   directly; not to this model.
-- Filed: THEORY-tmpykyk4. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpykyk4](../theory.d/THEORY-tmpykyk4.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

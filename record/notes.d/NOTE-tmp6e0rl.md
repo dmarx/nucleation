@@ -94,7 +94,7 @@ multiparameter persistence modules" (§1.2).
 
 ## Connections
 
-Read beside Vipond (LIT-tmp75waa, NOTE-tmpusebl), the paper the pasted
+Read beside Vipond ([LIT-tmp75waa](../literature.d/LIT-tmp75waa.md), [NOTE-tmpusebl](NOTE-tmpusebl.md)), the paper the pasted
 synthesis links. Of Vipond's results it restates the context: that no
 complete discrete invariant exists (here sharpened to wild type and the
 absence of good barcodes), that the interleaving distance is stable and
@@ -118,20 +118,20 @@ Theorem 30, Proposition 36 or the statistical results.
   resource-graded composition): the survey treats only the first, and
   nothing in it addresses direction, consistent with A's point that
   topology is symmetric.
-- **LIT-tmpbs8e0, NOTE-tmpwvb9j, THEORY-tmpqzxwh**: supports; the
+- **[LIT-tmpbs8e0](../literature.d/LIT-tmpbs8e0.md), [NOTE-tmpwvb9j](NOTE-tmpwvb9j.md), [THEORY-tmpqzxwh](../theory.d/THEORY-tmpqzxwh.md)**: supports; the
   multiparameter extension of the held one-parameter treatment, which marks
   multiparameter persistence as untreated.
-- **CLAIM-tmpuk8gq** (sufficient budgets form a frontier, not a threshold):
+- **[CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)** (sufficient budgets form a frontier, not a threshold):
   supports, by analogy. *The reader's connection, not the survey's:* the
   survey's point that multiparameter features are not intervals, and that
   in Example 4.6 no family of regions explains the ranks, is the topological
   counterpart of the claim's point that sufficient budgets need not reduce
   to a threshold.
-- **CLAIM-tmpbi4ca**: the one-parameter, zero-dimensional case; nothing
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)**: the one-parameter, zero-dimensional case; nothing
   further.
-- **CLAIM-555** (multiparameter filtrations by per-demand losses): related;
+- **[CLAIM-555](../claims.d/CLAIM-555.md)** (multiparameter filtrations by per-demand losses): related;
   the survey's stability results would apply.
-- Filed: THEORY-tmprk262. No instruction for machine-learning practice;
+- Filed: [THEORY-tmprk262](../theory.d/THEORY-tmprk262.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

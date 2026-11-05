@@ -114,9 +114,9 @@ independently of the preorder structure" (§1).
 
 Generalizes the resource theories of quantum information (entanglement,
 asymmetry, athermality) treated as examples in §3. Fritz's later work and
-Seven Sketches chapter 2 (LIT-803, which cites it as [CFS16]) teach the
+Seven Sketches chapter 2 ([LIT-803](../literature.d/LIT-803.md), which cites it as [CFS16]) teach the
 convertibility layer as symmetric monoidal preorders. Marsden & Zwart
-(LIT-tmpeei4c) take up its §6 open problem by enriching in a quantale, and
+([LIT-tmpeei4c](../literature.d/LIT-tmpeei4c.md)) take up its §6 open problem by enriching in a quantale, and
 criticize its quantitative elements as "ad-hoc".
 
 ## Bearing on the record
@@ -136,7 +136,7 @@ criticize its quantitative elements as "ad-hoc".
   only as two combinations of resources in parallel (food and proficiency;
   additive and supremal monotones), not as compositions of the costs of
   successive steps. Costed composition comes from quantale enrichment:
-  Lawvere's metric spaces (LIT-tmpuqt9i) and Marsden & Zwart (LIT-tmpeei4c),
+  Lawvere's metric spaces ([LIT-tmpuqt9i](../literature.d/LIT-tmpuqt9i.md)) and Marsden & Zwart ([LIT-tmpeei4c](../literature.d/LIT-tmpeei4c.md)),
   which this paper only gestures at in §6.
 - **What A leaves out.** For A's process layer the paper's most relevant
   distinction is between parallel-combinable and universally-combinable
@@ -146,25 +146,25 @@ criticize its quantitative elements as "ad-hoc".
   capacity, which the paper does not treat. And the paper deliberately
   forgets which transformation achieves a conversion (Theorem 4.2), the
   information A's process layer says is essential.
-- **TERM-tmp26wo4** (six resource types): qualifies. With no grading by
+- **[TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)** (six resource types): qualifies. With no grading by
   amount spent, none of the six is a cost on transitions here; only a stock
   fits, as an object combined by ⊗. The quantity-like and quality-like
   split is the nearest analogue of the term's "not one budget": two
   combination laws over orders of the same kind behave differently
   (catalysis is possible only in the supremum theory). The reader's
   reading.
-- **CLAIM-tmpuk8gq** (a Pareto frontier of sufficient budgets): supports
+- **[CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)** (a Pareto frontier of sufficient budgets): supports
   the lesson, by analogy. The paper's point that no single monotone captures
   a non-total preorder is the resource-side form of the claim's point that
   no weighted total describes the sufficient budgets.
-- **CLAIM-tmpbi4ca** (threshold as infimum over paths of the peak): the
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)** (threshold as infimum over paths of the peak): the
   paper has no path costs; the threshold's structure is the enriched one
-  (LIT-tmpeei4c).
-- **LIT-845, LIT-846** (the resource theory of contextuality; categories of
+  ([LIT-tmpeei4c](../literature.d/LIT-tmpeei4c.md)).
+- **[LIT-845](../literature.d/LIT-845.md), [LIT-846](../literature.d/LIT-846.md)** (the resource theory of contextuality; categories of
   empirical models): instances of this framework, with simulations as
-  morphisms. **LIT-803** (Seven Sketches; NOTE-601 skimmed chapter 2 at its
+  morphisms. **[LIT-803](../literature.d/LIT-803.md)** (Seven Sketches; [NOTE-601](NOTE-601.md) skimmed chapter 2 at its
   opening only): its chapter 2 is the textbook version of §4.
-- Filed: THEORY-tmpir3m0. No instruction for machine-learning practice;
+- Filed: [THEORY-tmpir3m0](../theory.d/THEORY-tmpir3m0.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

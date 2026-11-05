@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpp7mrt) from the publisher's open-access
+  read in full 2026-11-05 ([NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md)) from the publisher's open-access
   PDF on Dagstuhl's LIPIcs site; worth reading as the categorical
   foundation for quantitative resource theories: conversions enriched in a
   commutative quantale, whose monoid combines the costs, probabilities or
@@ -80,7 +80,7 @@ Marsden, D. & Zwart, M. (2018). Quantitative Foundations for Resource Theories. 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpp7mrt. Section and example numbers are the
+*From the reading, [NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md). Section and example numbers are the
 paper's.*
 
 - **Costs on conversions, not on resources.** "In this paper we are
@@ -108,12 +108,12 @@ paper's.*
 Probably the Oxford item behind the pasted synthesis on resource-bounded
 realizability's "Lawvere-style metric enrichment", and exactly the
 territory A names: monoidal resource theories enriched in an ordered
-monoidal base. It supplies what Coecke, Fritz & Spekkens (LIT-tmp5jynk)
+monoidal base. It supplies what Coecke, Fritz & Spekkens ([LIT-tmp5jynk](LIT-tmp5jynk.md))
 leave open, costs on conversions, and its quantale condition is the
 precision A's "ordered monoidal structures" lacks. A's peak-capacity law is
 not among its examples but is an instance (the reader's check,
-NOTE-tmpp7mrt), and its closure gives CLAIM-tmpbi4ca's threshold; its
+[NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md)), and its closure gives [CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)'s threshold; its
 one-quantale-per-theory design is why a product of peak and expenditure
-loses CLAIM-tmpuk8gq's frontier. A's "resource-graded process category" is
+loses [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)'s frontier. A's "resource-graded process category" is
 not this paper's notion but a graded category. Filed from it:
-THEORY-tmpzax66.
+[THEORY-tmpzax66](../theory.d/THEORY-tmpzax66.md).

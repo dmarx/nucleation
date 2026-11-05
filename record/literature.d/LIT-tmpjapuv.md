@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpdizof) from arXiv v3, as the neighbour
-  standing in for Fajstrup, Goubault & Raussen 2006 (LIT-tmph2u8y), which
+  read in part 2026-11-05 ([NOTE-tmpdizof](../notes.d/NOTE-tmpdizof.md)) from arXiv v3, as the neighbour
+  standing in for Fajstrup, Goubault & Raussen 2006 ([LIT-tmph2u8y](LIT-tmph2u8y.md)), which
   could not be fetched. Worth reading as a clear, recent statement of the
   geometric model of concurrency, in which shared resources of fixed
   capacity cut a forbidden region out of the product of the processors'
@@ -74,7 +74,7 @@ Raussen, M. (2023). Connectivity of spaces of directed paths in geometric models
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpdizof. Section and result numbers are arXiv
+*From the reading, [NOTE-tmpdizof](../notes.d/NOTE-tmpdizof.md). Section and result numbers are arXiv
 v3's.*
 
 - **The model** (§1.1). Executions are directed maps, where "directed
@@ -96,12 +96,12 @@ v3's.*
 ## Standing in the record
 
 The neighbour standing in for Fajstrup, Goubault & Raussen 2006
-(LIT-tmph2u8y), which the pasted synthesis on resource-bounded
+([LIT-tmph2u8y](LIT-tmph2u8y.md)), which the pasted synthesis on resource-bounded
 realizability probably cites. It stands in for the PV model, directed
 paths, d-homotopy, deadlocks and doomed regions, not for the 2006 paper's
 own results. It supports A's point that connectivity is not reachability,
 precisely; and it shows that in this model the directed reachability and
 the resource capacities A puts on separate levels are one structure, the
-capacities defining the forbidden region. It also bears on CLAIM-tmpal9mc,
+capacities defining the forbidden region. It also bears on [CLAIM-tmpal9mc](../claims.d/CLAIM-tmpal9mc.md),
 whose "no path" should say whether it means directed paths. Filed from it:
-THEORY-tmpykyk4.
+[THEORY-tmpykyk4](../theory.d/THEORY-tmpykyk4.md).

@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmp6e0rl) from arXiv v2; worth reading as
+  read in part 2026-11-05 ([NOTE-tmp6e0rl](../notes.d/NOTE-tmp6e0rl.md)) from arXiv v2; worth reading as
   the open survey of multiparameter persistence: modules over grids are of
   wild representation type, good barcodes need not exist and the rank
   invariant is incomplete for two or more parameters, while the
   interleaving distance extends the bottleneck distance, is stable and
-  universal, and is NP-hard to compute. Read beside Vipond (LIT-tmp75waa),
+  universal, and is NP-hard to compute. Read beside Vipond ([LIT-tmp75waa](LIT-tmp75waa.md)),
   which was itself read; not a stand-in. Its main limits: a survey whose
   topics follow the authors' interests, with many results cited rather
   than proved; nothing on direction or paths.
@@ -70,7 +70,7 @@ Botnan, M. B. & Lesnick, M. (2023). An Introduction to Multiparameter Persistenc
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp6e0rl. Section numbers are arXiv v2's.*
+*From the reading, [NOTE-tmp6e0rl](../notes.d/NOTE-tmp6e0rl.md). Section numbers are arXiv v2's.*
 
 - **Wild type** (§1.1, §8). "multiparameter persistence modules have wild
   representation type"; a classification "is thought to be a hopelessly
@@ -88,11 +88,11 @@ Botnan, M. B. & Lesnick, M. (2023). An Introduction to Multiparameter Persistenc
 
 ## Standing in the record
 
-Read beside Vipond (LIT-tmp75waa) for the pasted synthesis on
+Read beside Vipond ([LIT-tmp75waa](LIT-tmp75waa.md)) for the pasted synthesis on
 resource-bounded realizability's sentence on multiparameter persistence,
 which it shows to be accurate and understated: classification is
 regarded as hopeless, and the natural distance between budget-indexed
 modules is NP-hard to compute, an obstruction a programme comparing
 architectures by such distances would meet. It treats only the first of A's
 three levels, persistence; nothing on direction. Filed from it:
-THEORY-tmprk262.
+[THEORY-tmprk262](../theory.d/THEORY-tmprk262.md).

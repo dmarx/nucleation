@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-05 (NOTE-tmpusebl) from the JMLR open-access PDF:
+  read in part 2026-11-05 ([NOTE-tmpusebl](../notes.d/NOTE-tmpusebl.md)) from the JMLR open-access PDF:
   §§1–4 and 7 closely, §§5–6 skimmed, appendices not read. Worth reading
   as a stable, computable summary of multiparameter persistence modules:
   the persistence landscape extended to several parameters, bounded by the
@@ -11,7 +11,7 @@ status_note: >-
   the rank invariant, so features born at incomparable parameter values
   escape it; nothing on direction, paths or the cost of traversal.
   Probably, not certainly, the JMLR 2020 paper the pasted synthesis links.
-  Botnan & Lesnick's survey (LIT-tmp1045q) was read beside it.
+  Botnan & Lesnick's survey ([LIT-tmp1045q](LIT-tmp1045q.md)) was read beside it.
 title: 'Multiparameter Persistence Landscapes'
 version: 1
 history:
@@ -72,7 +72,7 @@ Vipond, O. (2020). Multiparameter Persistence Landscapes. *Journal of Machine Le
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpusebl. Section and result numbers are the
+*From the reading, [NOTE-tmpusebl](../notes.d/NOTE-tmpusebl.md). Section and result numbers are the
 paper's.*
 
 - **Classification is hard** (§1). "unlike the single parameter case where
@@ -96,9 +96,9 @@ The pasted synthesis on resource-bounded realizability links it for the
 claim that multiparameter persistence is a developed field with invariants
 and stability. That is right, and understated: no complete discrete
 invariant exists, the modules are of wild representation type (Botnan &
-Lesnick, LIT-tmp1045q, read beside it as an open survey), and the natural
+Lesnick, [LIT-tmp1045q](LIT-tmp1045q.md), read beside it as an open survey), and the natural
 distance is NP-hard to compute. Its Example 1 is A's budget-indexed module
 b ⟼ H_k(Q_z(b)); it is the multiparameter version of the one-parameter
-construction held in LIT-tmpbs8e0, and the right object for CLAIM-tmpuk8gq's
+construction held in [LIT-tmpbs8e0](LIT-tmpbs8e0.md), and the right object for [CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)'s
 frontier, though its rank-based summaries cannot be relied on to recover
-all of it. Filed from it: THEORY-tmpwe5km.
+all of it. Filed from it: [THEORY-tmpwe5km](../theory.d/THEORY-tmpwe5km.md).

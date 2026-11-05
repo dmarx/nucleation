@@ -16,7 +16,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpeei4c
 summary: >-
-  Marsden & Zwart (CSL 2018), LIT-tmpeei4c, read in full in NOTE-tmpp7mrt.
+  Marsden & Zwart (CSL 2018), [LIT-tmpeei4c](../literature.d/LIT-tmpeei4c.md), read in full in [NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md).
   Proposed: the paper's proofs are sketches and were not checked further.
   It uses one quantale per theory and static resources. It does not say
   anything about several quantities at once beyond a product quantale,
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Marsden & Zwart (2018), LIT-tmpeei4c; read in NOTE-tmpp7mrt.
+Marsden & Zwart (2018), [LIT-tmpeei4c](../literature.d/LIT-tmpeei4c.md); read in [NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md).
 
 ## What was actually shown
 
@@ -49,7 +49,7 @@ Marsden & Zwart (2018), LIT-tmpeei4c; read in NOTE-tmpp7mrt.
 
 - That the peak-capacity law (max along a path) is an example: it is not
   among the paper's, though it satisfies the definition (the reader's
-  check, NOTE-tmpp7mrt).
+  check, [NOTE-tmpp7mrt](../notes.d/NOTE-tmpp7mrt.md)).
 - That several quantities can be kept together without loss: a product
   quantale's join is componentwise.
 - That the morphisms within a budget form a category: they do only when

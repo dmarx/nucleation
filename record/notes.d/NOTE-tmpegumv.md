@@ -112,11 +112,11 @@ fide example of a complete, symmetric, monoidal closed category V"
 ## Connections
 
 The base of Marsden & Zwart's quantale-enriched resource theories
-(LIT-tmpeei4c, whose "Lawvere quantale" is this V) and of Seven Sketches
-chapter 2 (LIT-803), where Lawvere metric spaces appear as Cost-categories.
+([LIT-tmpeei4c](../literature.d/LIT-tmpeei4c.md), whose "Lawvere quantale" is this V) and of Seven Sketches
+chapter 2 ([LIT-803](../literature.d/LIT-803.md)), where Lawvere metric spaces appear as Cost-categories.
 The commentary cites Lawvere's 1986 article as a further development (not
 read). The min-plus recursion it names also underlies the record's
-dynamic-programming notes and the semiring provenance of NOTE-913.
+dynamic-programming notes and the semiring provenance of [NOTE-913](NOTE-913.md).
 
 ## Bearing on the record
 
@@ -130,7 +130,7 @@ dynamic-programming notes and the semiring provenance of NOTE-913.
   joins), not just an ordered monoid (Marsden & Zwart, Definition 1;
   Seven Sketches §2.5.3). A links Oxford's archive and names no Lawvere
   work; the Oxford item is most probably Marsden & Zwart.
-- **CLAIM-tmpbi4ca** (threshold = infimum over paths of the peak along the
+- **[CLAIM-tmpbi4ca](../claims.d/CLAIM-tmpbi4ca.md)** (threshold = infimum over paths of the peak along the
   path): supports. *The reader's derivation, in neither source:* in
   ([0, ∞], ≥) joins are infima, and max(a, inf_i b_i) = inf_i max(a, b_i),
   so ⊗ = max distributes over joins and ([0, ∞], ≥, max, 0) is a
@@ -139,7 +139,7 @@ dynamic-programming notes and the semiring provenance of NOTE-913.
   exactly the claim's B*(A, B). Lawvere's free V-categories on V-graphs are
   the general construction; changing the tensor from + to max is the
   reader's step.
-- **CLAIM-tmpuk8gq** (a Pareto frontier of sufficient budgets): supports,
+- **[CLAIM-tmpuk8gq](../claims.d/CLAIM-tmpuk8gq.md)** (a Pareto frontier of sufficient budgets): supports,
   and sharpens what an enrichment must use. *The reader's, in neither
   source:* a product of two such bases gives each hom the componentwise
   infimum over paths, which no single path need achieve. For the claim's two
@@ -149,26 +149,26 @@ dynamic-programming notes and the semiring provenance of NOTE-913.
   uses. A's pair law (max, +) on peak and expenditure does not flag this.
 - **A's "resource-graded process category"**: Lawvere's normed category is
   one established form of it, keeping each morphism with its norm rather
-  than only the best cost between two objects (see NOTE-tmpp7mrt).
+  than only the best cost between two objects (see [NOTE-tmpp7mrt](NOTE-tmpp7mrt.md)).
 - **Asymmetry.** A: "Ordinary topological connectivity is symmetric;
   computational reachability need not be." Lawvere supports this from the
   side of costs: his metrics are non-symmetric by default. A turns to
   directed homotopy for it; Lawvere's framework already carries it in the
   hom-objects.
-- **TERM-tmp26wo4** (six resource types): qualifies. A capacity (max) and a
+- **[TERM-tmp26wo4](../terms.d/TERM-tmp26wo4.md)** (six resource types): qualifies. A capacity (max) and a
   cumulative expenditure (+) are each a quantale base; a replenishable
   reserve, ḃ = s(t) − c, is not a context-free composition law, which
   matches A's remark that reserves must be tracked "as part of the state".
-- **LIT-803** (Seven Sketches; NOTE-601 skimmed chapter 2 at its opening
+- **[LIT-803](../literature.d/LIT-803.md)** (Seven Sketches; [NOTE-601](NOTE-601.md) skimmed chapter 2 at its opening
   only): chapter 2, read in part for this filing (§§2.1, 2.2.3,
   2.3.3–2.3.4, 2.5.3, 2.6), holds the textbook statement of A's sentence:
   Lawvere metric spaces as Cost-categories, the shortest-path metric of a
   weighted graph, and other bases giving other path laws (Exercise 2.63's
   widest path).
-- **LIT-tmpbs8e0** (sublevel-set persistence of energy landscapes): related
+- **[LIT-tmpbs8e0](../literature.d/LIT-tmpbs8e0.md)** (sublevel-set persistence of energy landscapes): related
   only through the merge level as a minimax path cost; Lawvere's sublevel
   sets of presheaves are a different use.
-- Filed: THEORY-tmp5ebls. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp5ebls](../theory.d/THEORY-tmp5ebls.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

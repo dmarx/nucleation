@@ -15,8 +15,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpjapuv
 summary: >-
-  Raussen (2021; Computational Geometry 2023), LIT-tmpjapuv, read in part
-  in NOTE-tmpdizof, as the neighbour of Fajstrup, Goubault & Raussen 2006.
+  Raussen (2021; Computational Geometry 2023), [LIT-tmpjapuv](../literature.d/LIT-tmpjapuv.md), read in part
+  in [NOTE-tmpdizof](../notes.d/NOTE-tmpdizof.md), as the neighbour of Fajstrup, Goubault & Raussen 2006.
   Proposed: the proof of Theorem 4.3 was read, but Proposition 3.12's proof
   and the several-resource details of §§2.2.2–3.3 were not. It holds for
   linear PV programs with fixed capacities. It does not say anything about
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Raussen (2021; 2023), LIT-tmpjapuv; read in NOTE-tmpdizof.
+Raussen (2021; 2023), [LIT-tmpjapuv](../literature.d/LIT-tmpjapuv.md); read in [NOTE-tmpdizof](../notes.d/NOTE-tmpdizof.md).
 
 ## What was actually shown
 

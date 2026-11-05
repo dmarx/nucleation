@@ -17,7 +17,7 @@ source:
 - LIT-tmp5jynk
 summary: >-
   Coecke, Fritz & Spekkens (2014; Information and Computation 2016),
-  LIT-tmp5jynk, read in NOTE-tmpkmvs1 (main text; Examples 3.13–3.18 and
+  [LIT-tmp5jynk](../literature.d/LIT-tmp5jynk.md), read in [NOTE-tmpkmvs1](../notes.d/NOTE-tmpkmvs1.md) (main text; Examples 3.13–3.18 and
   Appendix A skimmed). Proposed: the appendix proof and the sketched lemmas
   were not checked. The morphisms of such a theory are free: it says
   nothing about costs attached to transformations, which the authors leave
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Coecke, Fritz & Spekkens (2014; 2016), LIT-tmp5jynk; read in NOTE-tmpkmvs1.
+Coecke, Fritz & Spekkens (2014; 2016), [LIT-tmp5jynk](../literature.d/LIT-tmp5jynk.md); read in [NOTE-tmpkmvs1](../notes.d/NOTE-tmpkmvs1.md).
 
 ## What was actually shown
 
