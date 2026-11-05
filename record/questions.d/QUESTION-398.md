@@ -27,6 +27,7 @@ summary: >-
   establish persists". The wording is A's; adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpoh07b CLAIM-tmpw4ai2 NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-566 TERM-117 — Proposed, Skimmed or new; entries cited as open -->
 
@@ -78,3 +79,15 @@ Read at the owner's request to look to aid and development for theory on how aid
 - **Two models.** In [CLAIM-tmpoh07b](../claims.d/CLAIM-tmpoh07b.md), under aid used after the organization's own capacity, the support withdraws itself and A's measure D falls to zero with it; under substitution D grows with the support's duration. In [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md), where upkeep is self-sustaining, D depends on how long the withdrawal lasts as well as on the state.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on reintroduction and ecological recovery
+
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+
+- **A test.** Schröder, Persson and De Roos (NOTE-tmph4p4q): a state is independent of an intervention once it lasts a full turnover after the intervention ends. The field's own standard for translocations is persistence "without further augmentation" (Morris et al., NOTE-tmpbfqjw).
+- **A partial answer.** Tree islands weeded for 2.5 years kept their advantage to 16–18 years (NOTE-tmpcw7tn). They became independent of the planter and stayed dependent on the landscape.
+- **A counter-case to A's expectation.** Under captive rearing the cost of withdrawal grows with the support's length rather than falling (NOTE-tmpkfeb0). Once hatchery fish dominate, the unsupported comparison is gone and D cannot be measured.
+- **The synthesis.** CLAIM-tmpc3x0c answers the question in three conditions.
+
+No status changes.
+

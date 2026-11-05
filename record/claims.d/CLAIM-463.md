@@ -40,6 +40,7 @@ summary: >-
   not a finding about any grant program, people or institute, and a slow
   recovery is not evidence of the threshold.
 ---
+<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 
 # CLAIM-463: Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have
 
@@ -125,3 +126,13 @@ Tatel's dissertation ([LIT-2079](../literature.d/LIT-2079.md)) qualifies the cla
 ## Note of 2026-11-05: the constraint-architecture readings
 
 Jules et al. ([NOTE-1617](../notes.d/NOTE-1617.md)), from the pasted synthesis on constraint architectures, give a mechanical analogue. Once erasure returns a stack of Kresling barrels from a defect state to its main cycle, reversing the load does not bring the defect back; the defect states were reached only by twisting parts by hand, a richer control than the uniaxial loading the stack otherwise receives. That has the claim's shape: restoring the conditions does not restore what was lost, and rebuilding it directly does. It is an analogy only, on four barrels; the paper says nothing of self-reinforcing maintenance or of what restoration costs. No status changes.
+
+## Note of 2026-11-05: the readings on reintroduction and ecological recovery
+
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+
+- **Supported in kind.** Kadowaki et al. (NOTE-tmprmy38): reintroducing fire alone does not restore a fire-suppressed wetland, cleaner lake water brought an invader rather than the native plants, and wolves did not bring back Yellowstone's willows once beavers had gone.
+- **Qualified in reach.** Of 15 experimental tests in which a pressure was removed, Schröder, Persson and De Roos (NOTE-tmph4p4q) count 3 that showed alternative states, 5 that recovered and 7 that were inconclusive. Restoring conditions often does restore a capacity.
+
+No status changes.
+

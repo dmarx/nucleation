@@ -50,6 +50,7 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpoh07b CLAIM-tmpw4ai2 NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-566 LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
 
@@ -122,3 +123,16 @@ Read at the owner's request to look to aid and development for theory on how aid
 - **Self-maintaining upkeep.** [CLAIM-tmpw4ai2](CLAIM-tmpw4ai2.md) adds the other kind the record's dissipative structures separate: upkeep drawn in by the structure's own state, which escapes dependence on a provider but not on the flux, at the price of thresholds.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on reintroduction and ecological recovery
+
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+
+- **Supported in conservation.** Conservation-reliant species need management that does not end. Weed control on Hawaiian refuges "must be constant" (Underwood et al., NOTE-tmpoxify). A restored wetland stays restored only with continued prescribed fire (Kadowaki et al., NOTE-tmprmy38).
+- **Qualified in two ways.**
+  - Prairie chickens breed their own replacements. Their reliance comes from a persisting threat, not from every part being supplied (Mussmann et al., NOTE-tmpmm5we).
+  - A partial cut of the Kirtland's Warbler's supplied habitat gives a lower plateau, not decay to zero (Brown et al., NOTE-tmpozsi2).
+- **The independence the claim allows.** Tree islands become independent of whoever planted them and stay dependent on the landscape's seed rain (NOTE-tmpcw7tn). That is independence from a founder, not from a feed.
+
+No status changes.
+

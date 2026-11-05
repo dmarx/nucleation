@@ -50,6 +50,7 @@ summary: >-
   cycle, so over horizons longer than turnover the two converge. The
   wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 <!-- inactive-ok-file: NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: LIT-2132 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
@@ -193,3 +194,14 @@ Read at the owner's request to look to aid and development for theory on how aid
 - **A distinction the claim lacks.** Ostrom et al. ([NOTE-tmp22pjn](../notes.d/NOTE-tmp22pjn.md)) separate the persistence of a project's effects from that of the project: results can outlast an organization, and a form can outlast its function.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on reintroduction and ecological recovery
+
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+
+- **Assembly and persistence come apart.** Practitioner-judged translocation success was similar for captive-bred and wild-sourced stock, yet captive-bred stock had negative mean population growth (Morris et al., NOTE-tmpbfqjw). Only 24.8 % of reported successes met the standard of persisting "without further augmentation".
+- **Persistence without regeneration.** Planted trees persisted for 16–18 years, but few of their seedlings reached the sapling layer (NOTE-tmpcw7tn).
+- **A horizon to measure against.** Schröder, Persson and De Roos (NOTE-tmph4p4q) count a state stable once it lasts a full turnover after the intervention ends, which gives the claim's "specified horizon" a natural length.
+
+No status changes.
+

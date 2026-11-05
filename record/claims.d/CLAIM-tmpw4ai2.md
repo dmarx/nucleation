@@ -125,6 +125,15 @@ reproduces and asserts every number):
   conditions of its own production is a flame, not an organism
   ([TERM-070](../terms.d/TERM-070.md), [THEORY-072](../theory.d/THEORY-072.md)).
 
+## What the ecological readings add
+
+Read after the owner proposed reintroduction and ecological recovery as cases.
+- **Applied nucleation fits the self-sustaining kind** (NOTE-tmpq005d, NOTE-tmpcw7tn). Planted tree islands keep drawing seed dispersers through their own growth. Weeding stopped at 2.5 years and their advantage lasted to 16–18. About 64 m² is cited as the minimum for a nucleus to spread, which works like an ignition threshold.
+- **Field evidence for the claim's thresholds is thin.** Schröder, Persson and De Roos (NOTE-tmph4p4q) find alternative stable states in most conclusive laboratory experiments and in few field experiments. Of 15 tests in which a pressure was removed, 3 showed the system failing to return.
+- **A partial cut can give a plateau.** Cutting the Kirtland's Warbler's supplied habitat gives lower plateaus rather than collapse (NOTE-tmpozsi2). That is the smooth decline of supplied upkeep.
+
+The model's three signatures are therefore what to test for, not what to expect.
+
 ## What it does not say
 
 - **That self-maintenance always has thresholds.** Uptake proportional to

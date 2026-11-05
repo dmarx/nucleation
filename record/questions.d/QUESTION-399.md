@@ -24,6 +24,7 @@ summary: >-
   governance emerges from heterogeneous processes; this asks when a nucleus
   becomes one. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpw4ai2 — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-597 — new; the assistant's claim on supplied regeneration, cited as open -->
 <!-- inactive-ok-file: CLAIM-566 TERM-117 — Proposed, Skimmed or new; entries cited as open -->
@@ -81,3 +82,12 @@ Read at the owner's request to look to aid and development for theory on how aid
 - **What closing the loop costs.** [CLAIM-tmpw4ai2](../claims.d/CLAIM-tmpw4ai2.md) shows that upkeep drawn in by the structure's own state has an ignition threshold, a collapse point in supply and an outage it cannot recover from. A nucleus that becomes self-maintaining in that sense trades smooth dependence for thresholds.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on reintroduction and ecological recovery
+
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+
+- **A nucleus can be productive and persistent without regenerating itself.** Planted tree islands keep drawing dispersers and improving microsites, but their own seedlings rarely reach the sapling layer (NOTE-tmpcw7tn). They have not taken the last step this question asks about.
+
+No status changes.
+

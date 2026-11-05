@@ -38,6 +38,7 @@ summary: >-
   capability an organization keeps for rare events is the filer's. The
   wording is the filer's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpc3x0c — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpoh07b NOTE-tmp22pjn — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: THEORY-1424 THEORY-1404 — Proposed; the readings this claim is grounded in, themselves Proposed, so the claim is no firmer than they are -->
 <!-- inactive-ok-file: NOTE-1560 — Skimmed; the reading of Tatel's dissertation the quotations come from -->
@@ -106,3 +107,12 @@ Read at the owner's request to look to aid and development for theory on how aid
 - **Used.** [CLAIM-tmpoh07b](CLAIM-tmpoh07b.md) rests on this claim's disuse term to model aid crowding out capacity learned by doing.
 
 No status changes.
+
+## Note of 2026-11-05: the readings on reintroduction and ecological recovery
+
+Read at the owner's suggestion to look to reintroduction and ecological recovery for what makes support safe or hazardous to remove; the works were chosen by the assistant. The assistant's synthesis is CLAIM-tmpc3x0c.
+
+- **Selection is a faster route than disuse.** Araki et al. (NOTE-tmpkfeb0) judge relaxed selection, the genetic form of disuse, too slow to explain hatchery fish's loss of fitness in the wild. Christie et al. (NOTE-tmp52jvk) show active selection for captive success instead. Where support changes what is rewarded, a capability can be lost faster than disuse alone would lose it.
+
+No status changes.
+

@@ -1,0 +1,189 @@
+---
+status: Read
+paper: 'LIT-tmpiq9lz'
+title: 'Schröder, Persson & De Roos — Direct experimental evidence for alternative stable states'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from the publisher's PDF posted on André De Roos's
+    University of Amsterdam staff page
+    (https://staff.fnwi.uva.nl/a.m.deroos/downloads/pdf_pubs/world/Oikos05.pdf),
+    17 pages; text extracted with pdftotext. Read in full: the abstract,
+    every section of the body, Fig. 1 and Tables 1 and 2 (pp. 3–10); Table 1's
+    columns extracted scrambled, though the laboratory and field cells that
+    can be read agree with the text. Appendix 1,
+    the per-experiment table, extracted badly garbled, its cells separated
+    from their rows; it was read only for one row and nothing drawn from
+    it is taken as verified. Not read: the reference list. Read as a
+    stand-in for the evidence behind Suding, Gross & Houseman (2004),
+    LIT-tmpisunw, whose full text was not reached. Page numbers are the
+    journal's.
+date: '2026-11-05'
+summary: >-
+  A review of 35 manipulation experiments testing for alternative stable
+  states by discontinuity, non-recovery, divergence from initial
+  conditions and random divergence, requiring that a state outlast one
+  turnover of its longest-lived organisms. 21 were conclusive: 13 showed
+  alternative states and 8 their absence. Positives were mostly in the
+  laboratory (10 of 12 conclusive) rather than the field (3 of 9), none
+  marine or whole-ecosystem; of 15 non-recovery tests, 3 were positive,
+  all terrestrial grazing systems. Abruptness, bimodality and a
+  demonstrated positive feedback do not by themselves show alternative
+  states.
+---
+<!-- inactive-ok-file: LIT-tmpisunw THEORY-tmpm618c CLAIM-tmpw4ai2 CLAIM-566 CLAIM-597 CLAIM-tmpoh07b CLAIM-tmpqa0qu CLAIM-558 TERM-117 THEORY-128 THEORY-1292 LIT-720 — Unavailable, Proposed or new; cited from the reading of Schröder, Persson & De Roos (2005) as open -->
+
+# NOTE-tmph4p4q: Schröder, Persson & De Roos — Direct experimental evidence for alternative stable states
+
+## Contribution
+
+Most empirical support for alternative stable states (ASS) was indirect.
+This review collects the manipulation experiments, sorts them into four
+conclusive designs, applies a stability criterion scaled to the organisms'
+life spans, and counts: how many experiments were conclusive, how many
+found ASS, and where.
+
+## Key insight
+
+A state shown to persist is not shown to be an alternative stable state
+unless it outlasts the turnover of its own individuals; on that bar,
+direct evidence is rare, mostly from the laboratory, and in the design
+closest to removing the pressure and watching, the system usually came back.
+
+## Assumptions
+
+- **Stability criterion (p. 6).** A state is stable "if it stays
+  quantitatively and qualitatively unchanged despite that all its
+  initially resident individuals have replaced themselves". Life spans
+  are often taken from "general values for taxonomic or functional
+  groups", which the authors call approximations.
+- **The four designs** (abstract, p. 3): "(1) discontinuity in the
+  response to an environmental driving parameter, (2) lack of recovery
+  potential after a perturbation, (3) divergence due to different initial
+  conditions and (4) random divergence".
+- **Classification is the authors' judgement**, including whether an
+  experiment was appropriate in design.
+- **Coverage**: the literature search ends before publication (2005).
+
+## Key results
+
+- **Totals (abstract, p. 3).** "13 experiments have directly demonstrated
+  the existence of alternative stable states while 8 showed the absence of
+  ASS in other cases. 14 experiments did not fulfil the requirements of a
+  conclusive test, mostly because they applied a too short time scale."
+  "The absence of ASS in 38% of the tested systems indicates that ASS are
+  just one possibility of how ecological systems can behave."
+- **Laboratory bias (p. 7).** "Ten out of 12 conclusive laboratory
+  experiments demonstrated bistability, while this was only true for three
+  out of nine field experiments (Table 1)"; among habitats, "none were
+  found in marine habitats".
+- **Frameworks (p. 7).** "ASS were found for all theoretical frameworks
+  except for whole ecosystems"; those studies were shallow-lake
+  manipulations.
+- **Against indirect evidence (p. 4).** Abrupt shifts, sharp boundaries,
+  bimodality and dual responses "do not rule out alternative, often more
+  parsimonious, explanations like an abrupt, but still continuous,
+  response to driving parameters or cycles with a long periodicity".
+- **Against feedback alone (p. 5).** Even where a positive feedback is
+  shown, "the net effect of all positive and negative feedbacks may still
+  be negative".
+- **Non-recovery (p. 9; Table 2).** "Fifteen such tests were found, of
+  which three demonstrated ASS, five their absence and seven were
+  inappropriate tests (Table 2)." The pressure is over-consumption, and
+  the question "whether the system remains in the state induced by the
+  over-consumption or returns to the original state when the consumer is
+  excluded". "Appropriate experiments were exclusively carried out in
+  terrestrial grazing systems", with vegetation feeding back on its own
+  growth "via soil quality, water content or erosion rate"; the authors
+  name "arctic salt marshes subjected to heavy grazing by geese".
+- **Discontinuity (p. 9).** "the test for discontinuity was conclusively
+  performed only once and then with baker’s yeast". A full hysteresis loop
+  was shown once.
+- **Divergence (p. 9; Table 2).** 13 experiments, 6 positive, 2 negative,
+  5 not appropriate.
+- **Hysteresis without bistability (p. 10).** "the existence of
+  alternative attractors definitely leads to hysteresis, but not
+  necessarily to a truly bistable system".
+- **Appendix 1, whole-lake fish removals (unverified).** The garbled table
+  places "dependent on lake: total or partial recovery of turbid state"
+  and a census time of 4 to 8 years (extracted with a control character in
+  place of the dash) near the rows for Meijer et al. (1999) and Horppila et
+  al. (1998), and a note that "even the most stable lake switched finally
+  back to turbid conditions". The reading that biomanipulated lakes
+  drifted back to turbid once the manipulation stopped depends on a row
+  alignment the extraction does not preserve; it is not taken as this
+  paper's finding until a clean copy is read.
+
+## Concepts
+
+- **Four conclusive tests**: discontinuity, non-recovery, divergence,
+  random divergence, each a prediction of the hysteresis effect.
+- **One-turnover criterion**: stability judged over a full replacement of
+  resident individuals.
+- **Resilience**: "The distance between the stable and the unstable state"
+  (p. 4), after Holling.
+- **Permanent transients**: frequently perturbed systems that never reach
+  an end state, for which alternative attractors may still matter.
+
+## Connections
+
+The direct-evidence companion to Scheffer & Carpenter (2003), LIT-726, on
+which THEORY-136 rests, and to LIT-720. It stands in for Suding, Gross &
+Houseman (2004), LIT-tmpisunw, only as the bar that paper's "Recent
+experimental work" must meet; it does not cite or restate Suding et al.,
+is not about restoration, and carries none of their cases, so it restates
+none of their results. Kadowaki et al. (2018), LIT-tmphrrb3, read in
+NOTE-tmprmy38, is a later restoration review whose cases do not meet this
+bar. Its non-recovery design is the withdrawal test of THEORY-1292 in an
+ecological setting, and the logic of THEORY-178 (a transient pulse
+leaving a different attractor after release). Its whole-lake rows bear on
+LIT-711 and THEORY-128 only by analogy.
+
+## Bearing on the record
+
+- **THEORY-136** (Active): supports and quantifies it. Direct tests are
+  rare, lab-biased, and in the field mostly negative or inconclusive; a
+  claim that a degraded state is held by alternative states needs a
+  non-recovery test over a full turnover, not abruptness or persistence.
+- **CLAIM-463** (Active): qualifies. The claim is a demonstrated
+  possibility, not a frequency; this review says that among ecological
+  systems tested by removing the pressure, the possibility was realized in
+  3 of 15, and in 5 the system recovered. Restoring the conditions often
+  does restore the state.
+- **CLAIM-tmpw4ai2**: supports, with that caution. The positive grazing
+  cases fit upkeep through soil feedback, collapse, and no relighting once
+  the grazers are removed.
+- **CLAIM-566**: supports by analogy. Its persistence "over a specified
+  horizon" matches the one-turnover criterion.
+- **QUESTION-398**: offers a measure. Independence from an intervention is
+  shown by the state lasting one full turnover after the intervention
+  ends.
+- **QUESTION-399, TERM-117**: bear. Permanence of an assembled community
+  and invasion order producing alternative communities (Drake 1991) are
+  the self-maintaining-nucleus cases.
+- **THEORY-1273** (Active): consistent; permanent transients and
+  noise-driven switching echo metastability.
+- **THEORY-128**: qualifies by reminder. Marine benthic experiments showed
+  no ASS (p. 7), so THEORY-128's coral-recovery account should not be read
+  as needing alternative states.
+- **THEORY-132** (Active): consistent; resilience as distance to the
+  unstable state.
+- **CLAIM-597, CLAIM-tmpoh07b, CLAIM-tmpqa0qu, CLAIM-558**: none.
+- Should produce: THEORY-tmpm618c.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+The search ends in 2004, so later field experiments are missing. Life
+spans are approximate and the classification is the authors' judgement.
+The appendix table is not readable in this extraction. The paper does not
+address restoration interventions, or whether a supported state persists
+after support ends.
+
+## Open questions
+
+Whether the counts hold against a clean copy of Table 1 and Appendix 1,
+and whether field experiments since 2004 change the laboratory bias or the
+3-of-15 non-recovery rate.
