@@ -35,7 +35,7 @@ summary: >-
   origami shows it can: Dunn et al.'s early long-range seams trap the fold.
   With V(∅) = 0.2, V({a}) = V({b}) = 0.6 and V({a, b}) = 0.1, two productive
   nuclei combine into a trap. The productive sets therefore form no
-  complex of either kind, unlike CLAIM-347's jointly satisfiable sets,
+  complex of either kind, unlike [CLAIM-347](CLAIM-347.md)'s jointly satisfiable sets,
   which are closed downward. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
@@ -68,23 +68,23 @@ establishing nothing).
 
 ## Why DNA origami makes it the general case
 
-Dunn et al. (NOTE-tmpvgzvb): long-range seam staples that bind early
+Dunn et al. ([NOTE-tmpvgzvb](../notes.d/NOTE-tmpvgzvb.md)): long-range seam staples that bind early
 "effectively, irreversibly" force particular folds. Two seam patterns that
 favour different folds are each productive for their own fold. Both are
 counterproductive for any one target when set early together, and the
-authors' remedy is to weaken seams. Majikes et al. 2026 (NOTE-tmppwpd0) found that
+authors' remedy is to weaken seams. Majikes et al. 2026 ([NOTE-tmppwpd0](../notes.d/NOTE-tmppwpd0.md)) found that
 replacing medium folds with more short ones raised defects. Adding
 locally favourable relations made the outcome worse.
 
 ## What it adds
 
-- **To A's minimal nuclei** (TERM-tmp3awsy): they suffice only under a
+- **To A's minimal nuclei** ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)): they suffice only under a
   monotonicity that assembly often lacks.
-- **Beside CLAIM-347:** pairwise compatibility does not settle joint
+- **Beside [CLAIM-347](CLAIM-347.md):** pairwise compatibility does not settle joint
   compatibility, and the jointly satisfiable sets are closed downward.
   Productivity does not combine either, and its sets have no closure at
   all.
-- **To CLAIM-tmpiyvk1:** a nucleus is target-relative and context-relative.
+- **To [CLAIM-tmpiyvk1](CLAIM-tmpiyvk1.md):** a nucleus is target-relative and context-relative.
   So whether a set is a nucleus depends on what else is
   established.
 

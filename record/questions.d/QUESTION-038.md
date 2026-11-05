@@ -86,6 +86,6 @@ question.
 
 From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
 
-A's third synthesis answers part of this question: what turns a persisting structure into a usable anchor is not its persistence but its effect on later formation. That effect is measured against a comparator in which it is absent, disrupted or replaced (TERM-tmp3awsy, CLAIM-tmpiyvk1). A distinguishes "Fragile", "Productively persistent" and "Kinetically trapping" partial organizations: the first dissipates before it matters, the third persists in a configuration that blocks the target.
+A's third synthesis answers part of this question: what turns a persisting structure into a usable anchor is not its persistence but its effect on later formation. That effect is measured against a comparator in which it is absent, disrupted or replaced ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md), [CLAIM-tmpiyvk1](../claims.d/CLAIM-tmpiyvk1.md)). A distinguishes "Fragile", "Productively persistent" and "Kinetically trapping" partial organizations: the first dissipates before it matters, the third persists in a configuration that blocks the target.
 
 No status changes.

@@ -384,6 +384,6 @@ The reading of Gopalan et al. ([NOTE-1584](../notes.d/NOTE-1584.md)) qualifies w
 
 From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
 
-A's third synthesis draws an analogy with this claim: "pairwise compatibility need not settle joint compatibility", and "the effects of several candidate interventions need not be determined by their separate effects". The assistant's CLAIM-tmpuv9yj marks where the analogy stops. The jointly satisfiable sets are closed downward, so their minimal non-faces describe them. The sets of relations that are productive nuclei are closed in neither direction, since adding a relation can turn a nucleus into a trap.
+A's third synthesis draws an analogy with this claim: "pairwise compatibility need not settle joint compatibility", and "the effects of several candidate interventions need not be determined by their separate effects". The assistant's [CLAIM-tmpuv9yj](CLAIM-tmpuv9yj.md) marks where the analogy stops. The jointly satisfiable sets are closed downward, so their minimal non-faces describe them. The sets of relations that are productive nuclei are closed in neither direction, since adding a relation can turn a nucleus into a trap.
 
 No status changes.

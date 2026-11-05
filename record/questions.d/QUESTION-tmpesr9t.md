@@ -17,7 +17,7 @@ summary: >-
   persist; and only under further conditions does it gain processes that
   replace damaged parts and regenerate its enabling constraints. "The
   transition from productive formation to self-maintaining organization is
-  the most demanding step." QUESTION-090 asks how a self-maintaining
+  the most demanding step." [QUESTION-090](QUESTION-090.md) asks how a self-maintaining
   governance emerges from heterogeneous processes; this asks when a nucleus
   becomes one. The wording is A's; adopting it is the owner's call.
 ---
@@ -27,7 +27,7 @@ summary: >-
 
 ## Why it is a question
 
-A productive nucleus (TERM-tmp3awsy) changes later formation and owes
+A productive nucleus ([TERM-tmp3awsy](../terms.d/TERM-tmp3awsy.md)) changes later formation and owes
 nothing to closure. A separates four phenomena: "These can overlap, but
 none is automatically equivalent to another."
 
@@ -35,8 +35,8 @@ none is automatically equivalent to another."
 |---|---|
 | Nucleation | a critical or productive intermediate changes progression toward a new structure |
 | Autocatalysis | a product enhances the rate of its own production |
-| Organizational closure | constraints produce and maintain one another in a closed dependency structure (TERM-070) |
-| Regeneration | a system restores components or capacities after damage or turnover (CLAIM-566) |
+| Organizational closure | constraints produce and maintain one another in a closed dependency structure ([TERM-070](../terms.d/TERM-070.md)) |
+| Regeneration | a system restores components or capacities after damage or turnover ([CLAIM-566](../claims.d/CLAIM-566.md)) |
 
 The question is what has to be added to the first for the last two to
 follow.
@@ -46,10 +46,10 @@ follow.
 - **DNA origami nucleates but does not regenerate.** Schneider, Möritz and
   Dietz's nucleus speeds folding. Nothing in any origami read here repairs
   itself.
-- **Replication without regeneration.** Ni et al. (NOTE-tmp79i4g) copy
+- **Replication without regeneration.** Ni et al. ([NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)) copy
   tile patterns from supplied tiles under an imposed thermal program, and
   nothing replaces a damaged copy.
-- **Closure.** TERM-070 states closure of constraints, and CLAIM-516
+- **Closure.** [TERM-070](../terms.d/TERM-070.md) states closure of constraints, and [CLAIM-516](../claims.d/CLAIM-516.md)
   states when capacities that produce one another survive turnover.
 
 ## What would answer it

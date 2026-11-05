@@ -100,6 +100,6 @@ No status changes.
 
 From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
 
-A's third synthesis asks the narrower form of this question: when does a productive nucleus become self-maintaining, its operation regenerating the constraints that make it productive (QUESTION-tmpesr9t)? A keeps nucleation, autocatalysis, closure and regeneration apart: "These can overlap, but none is automatically equivalent to another".
+A's third synthesis asks the narrower form of this question: when does a productive nucleus become self-maintaining, its operation regenerating the constraints that make it productive ([QUESTION-tmpesr9t](QUESTION-tmpesr9t.md))? A keeps nucleation, autocatalysis, closure and regeneration apart: "These can overlap, but none is automatically equivalent to another".
 
 No status changes.
