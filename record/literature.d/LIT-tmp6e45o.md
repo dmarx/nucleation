@@ -1,0 +1,101 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 (NOTE-tmp9wlcj) from the USAID DEC copy
+  (PA00MNVN) on AidData's mirror of the DEC; worth reading as the study's
+  test of phase-over, handing project activities to a state that already
+  has resources, infrastructure and a legal duty to serve, and as the
+  India half of the stand-in for the unread synthesis of the same study
+  (LIT-tmp8ifks). Health services and irrigation through the employment
+  guarantee persisted or grew two years after exit, where the linkage ran
+  before exit; school meals lapsed where the linkage was begun late; and
+  differences between states were often larger than change over time. An
+  executive summary of a two-year follow-up in a subset of states, with no
+  comparison group, and assessing persistence of activities, not of
+  impact, which on malnutrition was never shown.
+title: 'Sustaining Development: Results from a Study of Sustainability and Exit Strategies among Development Food Assistance Projects—India Country Study. Executive Summary'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to look to aid
+    and development theory on how aid-dependent organizations become
+    self-sufficient (works chosen by the assistant), as a stand-in for
+    Rogers & Coates (2015), LIT-tmp8ifks, whose synthesis could not be
+    reached. It comes from the same twelve-project, four-country study, and
+    Rogers is the synthesis's first author. It stands in for the study's
+    framework and its India results only. Crossref, queried without a
+    mailto, has no record and the work has no DOI; the citation was checked
+    against the brief's own recommended citation, on its last page, and its cover:
+    Beatrice Rogers, Carisa Klemeyer, Ameya Bondre and Jamie Fierstein, of
+    the Tufts Friedman School, Washington DC: FHI 360/FANTA, 2017. The
+    cover says January 2017, so `published:` is the month's first day; the
+    PDF's creation date, 11 January 2017, is file metadata and is not used.
+    Copy: the 8-page
+    PDF at the address below, from AidData's mirror of the USAID
+    Development Experience Clearinghouse.
+tags:
+- society-and-governance
+- social-science
+date: '2026-11-05'
+published: '2017-01-01'
+url: 'https://docs.aiddata.org/ad4/pdfs/usaid-archive/PA00MNVN.pdf'
+first_author: 'Rogers'
+keywords:
+- 'sustainability'
+- 'exit strategies'
+- 'phase-over'
+- 'phase-out plan'
+- 'development food assistance'
+- 'Food for Peace'
+- 'India'
+- 'linkages'
+implementations: []
+summary: >-
+  Rogers, Klemeyer, Bondre & Fierstein (2017). CARE and CRS ran Food for
+  Peace projects in India from 1997 and gave their last cycle, a phase-out
+  plan, to handing activities over to Government of India programmes; they
+  exited in 2009 and 2010, and the endline survey was replicated two years
+  later in a subset of states. Institutional deliveries in CRS areas, which
+  "rose from 20 percent to 76 percent between baseline in 2002 and the end
+  of the POP in 2010, continued to increase to 87 percent at follow-up in
+  2012", and irrigation through the employment guarantee grew; school
+  meals lapsed where schools were late to join the Mid-Day Meals
+  programme; stunting was not moved. Phase-over "depends critically on
+  effective local implementation", and "the aggregate results for all
+  states in the study mask substantial state-by-state differences".
+---
+<!-- inactive-ok-file: LIT-tmp8ifks THEORY-tmpwmqrr CLAIM-597 CLAIM-566 — Unavailable, Proposed or new; cited from the reading of Rogers et al. (2017) as open -->
+
+# LIT-tmp6e45o: Sustaining Development: Results from a Study of Sustainability and Exit Strategies among Development Food Assistance Projects—India Country Study. Executive Summary
+
+Rogers, B., Klemeyer, C., Bondre, A. & Fierstein, J. (2017). *Sustaining Development: Results from a Study of Sustainability and Exit Strategies among Development Food Assistance Projects—India Country Study. Executive Summary.* Washington, DC: FHI 360/FANTA. USAID DEC PA00MNVN.
+
+## Key takeaways
+
+*From the reading, NOTE-tmp9wlcj. Page numbers are the brief's printed ones.*
+
+- **Phase-over needs a receiver with the factors.** It "depends, in part,
+  on the resources, capacity, and commitment (motivation) of government
+  entities" (p. 5), which the Indian programmes had, motivation as "a
+  legal commitment to provide services".
+- **And a linkage that runs before exit.** "where linkages had not been
+  clearly established", as with the Mid-Day Meals programme, "the
+  activities did not continue post-project" (p. 5).
+- **Still not enough.** Success "depends critically on effective local
+  implementation" (p. 5); "differences across states were often larger
+  than any" change over time within a state (p. 2).
+- **Pay keeps paid-for functions.** Indicators tied to health activists'
+  pay "were well maintained or improved" (p. 6).
+
+## Standing in the record
+
+A stand-in, with LIT-tmp93nq2 (Kenya), for the unread synthesis
+Rogers & Coates (2015), LIT-tmp8ifks, for the study's framework and its
+India results only; not for Bolivia, Honduras or any cross-country tally.
+It qualifies CLAIM-597: independence from the founding donor was reached
+by moving the supply to a domestic supplier, not by ending dependence on
+one. It answers QUESTION-398 in part, and supports CLAIM-566 (delivery
+systems persisted where impact on stunting never assembled). Filed from
+it: THEORY-tmpwmqrr.
