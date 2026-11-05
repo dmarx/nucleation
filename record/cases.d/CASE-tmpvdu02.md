@@ -28,6 +28,7 @@ summary: >-
   et al. and DeLuca et al. ran the routing half in experiment and
   simulation. The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpuv9yj — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
 <!-- inactive-ok-file: CASE-tmpu0s44 CLAIM-567 CLAIM-185 CLAIM-184 THEORY-1398 — Proposed; the study it varies and the entries it would test -->
 
 # CASE-tmpvdu02: A proposed factorial assembly study: two scaffold routings of one target crossed with uniform or targeted early stabilization, at fixed geometry and component stock, measured by the committor of partial structures, so that a productive nucleus is one whose formation raises the chance of completion before failure and a trap one that lowers it
@@ -78,3 +79,11 @@ nucleus."
 Being stipulated, it shows nothing until run. The committor needs a failure
 set K declared in advance, so what counts as a trap is part of the design,
 not a finding.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A's third synthesis refines the design into four interventions: a baseline, establishing the candidate nucleus, disrupting it, and establishing an alternative nucleus, in A's table: "Test whether productivity is specific to the arrangement rather than simply added stabilization". A adds the outcome to look for: stabilizing a nucleus that raises an intermediate's chance but lowers final yield. That "wouldn't refute the framework" but "would establish why productivity must be specified relative to a target and horizon". The alternative-nucleus arm also tests CLAIM-tmpuv9yj, whether productive relations combine.
+
+No status changes.

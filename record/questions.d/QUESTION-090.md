@@ -95,3 +95,11 @@ From the second synthesis on DNA origami by another assistant (A), pasted by the
 A asks, of DNA origami, "what additional reaction network or organizational arrangement would make regeneration endogenous, rather than simply externally supplied", to be investigated "in stages: assembly, damage, component replacement, and the maintenance of the processes enabling replacement". The readings in this pull request reach the first stage and part of a replicating one (Ni et al. 2026, [NOTE-tmp79i4g](../notes.d/NOTE-tmp79i4g.md)). None reaches replacement of damaged parts, or maintenance of the processes of replacement. So DNA origami does not yet bear on how a self-maintaining structure emerges.
 
 No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A's third synthesis asks the narrower form of this question: when does a productive nucleus become self-maintaining, its operation regenerating the constraints that make it productive (QUESTION-tmpesr9t)? A keeps nucleation, autocatalysis, closure and regeneration apart: "These can overlap, but none is automatically equivalent to another".
+
+No status changes.

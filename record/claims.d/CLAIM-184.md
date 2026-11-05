@@ -55,6 +55,7 @@ summary: >-
 complements:
 - CLAIM-301
 ---
+<!-- inactive-ok-file: CLAIM-tmpuv9yj — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
 <!-- inactive-ok-file: NOTE-tmpwxm2p — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-917 — Unavailable, unread; cited for what it is standardly cited for, and marked unread in the text -->
@@ -200,5 +201,13 @@ well-formed rectangles, and the finished rectangle is the same at 40 °C),
 which cuts against entrenchment as inevitability.
 
 **Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), give weak, indirect support. A design with many short early folds, and so many nucleation points but few routes to the long folds, was more defective. The authors read this as "additional kinetic traps for the topologically necessary long folds". This is local entrenchment of early structure. It is not lock-in of a framing, and no pathway was observed.
+
+No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A's third synthesis puts the claim's entrenchment as the third of three cases, a partial organization that "persists in a configuration that makes the target difficult to reach". A cites Dunn et al.'s abstract: "reversible bond-formation is important in recovering from transient misfoldings". The assistant's CLAIM-tmpuv9yj adds that two productive nuclei can entrench together into a trap.
 
 No status changes.

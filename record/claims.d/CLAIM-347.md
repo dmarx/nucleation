@@ -80,6 +80,7 @@ supports:
 - CLAIM-361
 - CLAIM-440
 ---
+<!-- inactive-ok-file: CLAIM-tmpuv9yj — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
 <!-- inactive-ok-file: NOTE-1604 — Skimmed; Chou, Chua, Teo and Zheng, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: NOTE-1588 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
@@ -378,3 +379,11 @@ No status changes.
 Readings filed beside the pasted synthesis on resource-bounded realizability bear on the complex. The reader of Ignatov ([NOTE-1593](../notes.d/NOTE-1593.md), read in part) shows that its faces are the sets of demands with a nonempty extent in the demand–configuration formal context, the non-vacuous part of that context's closure system, so the concept lattice recovers the complex and adds implications among demands; restricted to the configurations affordable at a budget, those implications are antitone in it ([CLAIM-564](CLAIM-564.md)). [THEORY-698](../theory.d/THEORY-698.md)'s warning carries over: such a lattice is "guaranteed by construction" for any incidence, so only its shape informs.
 
 The reading of Gopalan et al. ([NOTE-1584](../notes.d/NOTE-1584.md)) qualifies what the complex can carry. Positive 1-in-3 SAT and positive NAE-3SAT are both NP-complete to satisfy, yet st-connectivity of solutions is polynomial for the first and PSPACE-complete for the second, so an object at the level of joint satisfiability cannot carry the complexity of navigating between solutions. That is the reader's inference, for Boolean languages and single flips. [CLAIM-583](CLAIM-583.md) shows the same within one complex, and [CLAIM-578](CLAIM-578.md) that one organization's complex has no complexity at all. No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A's third synthesis draws an analogy with this claim: "pairwise compatibility need not settle joint compatibility", and "the effects of several candidate interventions need not be determined by their separate effects". The assistant's CLAIM-tmpuv9yj marks where the analogy stops. The jointly satisfiable sets are closed downward, so their minimal non-faces describe them. The sets of relations that are productive nuclei are closed in neither direction, since adding a relation can turn a nucleus into a trap.
+
+No status changes.

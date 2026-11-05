@@ -35,6 +35,7 @@ refined_by:
 bearing:
 - CLAIM-180
 ---
+<!-- inactive-ok-file: CLAIM-tmpiyvk1 TERM-tmp3awsy — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
@@ -80,3 +81,11 @@ question.
 ## Note of 2026-11-05: a mechanical counterpart asked
 
 [QUESTION-380](QUESTION-380.md), filed from the pasted synthesis on constraint architectures, asks when a small internally compatible subsystem biases a global organization, after Stern, Pinson and Murugan's folding islands ([NOTE-1571](../notes.d/NOTE-1571.md)). It is narrower than this question and is not a nucleation question in the thermodynamic sense. No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A's third synthesis answers part of this question: what turns a persisting structure into a usable anchor is not its persistence but its effect on later formation. That effect is measured against a comparator in which it is absent, disrupted or replaced (TERM-tmp3awsy, CLAIM-tmpiyvk1). A distinguishes "Fragile", "Productively persistent" and "Kinetically trapping" partial organizations: the first dissipates before it matters, the third persists in a configuration that blocks the target.
+
+No status changes.

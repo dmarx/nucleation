@@ -179,3 +179,11 @@ concrete case behind A's "a designed policy without being an autonomous
 governor of that policy".
 
 No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A suggests that a productive nucleus in a developing organization "might need some analogous separation: relations stable enough to serve as a scaffold, combined with processes that can revise other relations as the organization develops". A adds the limit: "A DNA staple can dissociate without recognizing an error or adopting a policy of correction." Reversible binding, which Dunn et al. find helps recovery, corrects without governing.
+
+No status changes.

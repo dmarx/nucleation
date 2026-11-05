@@ -63,6 +63,7 @@ complements:
 - CLAIM-303
 - CLAIM-195
 ---
+<!-- inactive-ok-file: CLAIM-tmpiyvk1 TERM-tmp3awsy — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the second account filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -296,5 +297,13 @@ Two readings from the pasted synthesis on constraint architectures qualify the a
 The works cited in A's two syntheses on DNA origami, pasted by the owner on 2026-11-05, read in this pull request.
 
 **Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle, "Complex cooperativity in DNA origami revealed via design-dependent defectivity".** Majikes et al. (2026), [LIT-tmpbkl3k](../literature.d/LIT-tmpbkl3k.md), qualify the claim. More short, stable early folds, more anchors, made outcomes worse: the design rotated to maximize short folds "performs objectively worse". What predicted quality was the distribution of loop-entropy penalties from short through medium to long folds, not the number of persistent anchors. Whether persistence is the threshold in other systems is left open.
+
+No status changes.
+
+## Note of 2026-11-05: A's synthesis on the productive nucleus
+
+From the third synthesis on DNA origami by another assistant (A), "The productive nucleus", pasted by the owner on 2026-11-05.
+
+A reads this claim "with an important qualification": "Persistence makes anchoring possible; productivity requires demonstrating that the anchor improves subsequent development. A stable anchor is not necessarily a good anchor." CLAIM-tmpiyvk1 shows the two vary independently: a state's chance of reaching the target does not depend on how long it persists. TERM-tmp3awsy names what the anchor must also be, a productive nucleus, judged against a comparator. The claim's "can evolve only on anchors" is untouched; a reading of it on which every anchor helps is not.
 
 No status changes.
