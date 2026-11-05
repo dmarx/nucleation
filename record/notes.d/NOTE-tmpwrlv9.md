@@ -138,14 +138,12 @@ signal.
 ## Bearing on the record
 
 - **The pasted synthesis on constraint architectures.** It gives the
-  published title and PMC id and the gloss "plasticity trains mechanical
-  systems"; that gloss is A's, not the paper's words, and is thin. Plasticity
+  published title and PMC id and the gloss "plasticity and nonlinear material response can train mechanical systems"; that gloss is A's, not the paper's words, and is thin. Plasticity
   alone does not train the sheet: an external supervisor's verdict gates
   the sign of the local rule. The central result, generalization to unseen
   inputs, which is what separates it from memory formation, goes
   unmentioned, as does that it is simulation. A gives no authors. The
-  synthesis's progression "fixed geometry → reconfigurable → trainable →
-  self-maintaining" is consistent with it: the sheet is trainable, and the
+  synthesis's progression from fixed geometry through reconfigurable and trainable to self-maintaining is consistent with it: the sheet is trainable, and the
   supervisor is outside it, so it does not reach self-maintaining.
 - **[THEORY-324](../theory.d/THEORY-324.md)** (Ashby: adaptation by trial and error needs a second
   feedback, through essential variables, that changes the primary
@@ -166,8 +164,7 @@ signal.
   not frame it so.
 - [CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-365](../claims.d/CLAIM-365.md), [CLAIM-495](../claims.d/CLAIM-495.md), [CLAIM-538](../claims.d/CLAIM-538.md), [TERM-060](../terms.d/TERM-060.md) and [THEORY-171](../theory.d/THEORY-171.md),
   which the synthesis cites for its Part 3, are unrelated in substance;
-  [THEORY-171](../theory.d/THEORY-171.md) is narrower than the synthesis's gloss "local-to-global,
-  gluing": it concerns causal contextuality.
+  [THEORY-171](../theory.d/THEORY-171.md) is narrower than the synthesis's placing it among "the local-to-global questions": it concerns causal contextuality.
 - Filed: [THEORY-tmpnd6jt](../theory.d/THEORY-tmpnd6jt.md). It is a physics model that borrows supervised
   learning's vocabulary; no instruction for machine-learning practice and
   nothing for the anthology.

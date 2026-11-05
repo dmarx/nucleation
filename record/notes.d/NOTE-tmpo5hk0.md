@@ -130,7 +130,7 @@ the introduction cites.
 
 - **The pasted synthesis on constraint architectures.** It lists the paper
   as M7 and characterizes it no further, so nothing it says of it is wrong.
-  Its illustration of "bistability as memory, U(x)=a/4(x²−b²)²" is A's
+  Its illustration of double well U(x)=a/4(x²−b²)² for bistability as memory is A's
   own toy, not the paper's model: here the second stable state is a
   snap-through held by an obstacle, and the frame needs a negative P∗ for
   it to exist at all. The synthesis's general point that a bistable

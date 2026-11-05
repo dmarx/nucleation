@@ -89,7 +89,7 @@ for nothing else there: not the reciprocal diagrams, the zero-area
 theorem, infinitesimal or second-order rigidity, or the degree-4
 fold-angle equations. Hull is a co-author. The pasted synthesis on
 constraint architectures does not cite it. At the single-vertex level it
-is what A's "selecting the intended branch" needs: popping up or down is
+is what A's "chooses the intended branch" needs: popping up or down is
 the two-branch choice that Chen and Santangelo and Berry et al. build on.
 Filed from it: [THEORY-tmpgwhew](../theory.d/THEORY-tmpgwhew.md). No instruction for machine-learning
 practice.

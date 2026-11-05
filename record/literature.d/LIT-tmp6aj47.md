@@ -98,7 +98,7 @@ origami state", with its main theorems; not the chapter's NP-hardness
 section (for which see [LIT-tmpj5g19](LIT-tmpj5g19.md)), its quadratic-form germ theorem, or
 its own statement of the theory's limitations. The pasted synthesis on
 constraint architectures does not cite it, but it is the formal version of
-A's "branch selection" and of A's distinction between a target existing
+A's problem of selecting a branch and of A's distinction between a target existing
 and its being reliably reached: a mode exists, and whether crease-local
 actuation can select it is a separate question. Filed from it:
 [THEORY-tmpmqxmo](../theory.d/THEORY-tmpmqxmo.md). No instruction for machine-learning practice.

@@ -25,6 +25,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmpfzy5q LIT-1573 — Unfetched; works cited for their published abstract or as the source of a sense, nothing here rests on them -->
 <!-- inactive-ok-file: NOTE-tmpoec9n — Skimmed; the reading the quotations from Gerardi and Maestri come from -->
 <!-- inactive-ok-file: THEORY-tmp6sg3n THEORY-tmp30jgj CASE-173 — Proposed; accounts and a case cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-tmp0g3pa — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-tmpbxjmx: ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet
 
@@ -130,3 +131,7 @@ activity, [QUESTION-tmpmtvei](../questions.d/QUESTION-tmpmtvei.md)).
 Adopting the term needs a claim of the record's own stated in it, or a
 reading of Freixas, Guesnerie and Tirole that confirms the founding sense
 against the abstract. Adopting it is the owner's call.
+
+## Note of 2026-11-05: a ratchet that forecloses a transition
+
+In the constructed CASE-tmp0g3pa, any cut on unspent funds or any expiry leaves the next budget below the 1.3 the transition needs; Siemroth's commitment not to cut is what keeps it possible. No status changes.

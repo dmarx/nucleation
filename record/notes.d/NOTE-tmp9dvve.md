@@ -183,13 +183,12 @@ over-determined vertex.
     explains it as competition between actuators, with misfolding just
     outside the small island, and presents it as something that "can
     sometimes" happen.
-  - A's step to "greater intervention need not improve success
-    monotonically" goes further than the paper shows. One added actuator
+  - A's step to "greater intervention capacity need not monotonically improve success" goes further than the paper shows. One added actuator
     ruins one success; with randomly placed actuators the paper's
     statistic is of success that needs more of them, 18 for an even
     chance.
   - A misses the scope: the difficulty "mathematically applies only at the
-    flat state". A's "existence ≠ reliable emergence" is a fair gloss: the
+    flat state". A's "Global solution exists" against "Global solution reliably emerges" is a fair gloss: the
     designed branch exists, can even be made the ground state, and is hard
     to reach.
 - **[TERM-060](../terms.d/TERM-060.md) (frustration of an organization's demands).** The term covers

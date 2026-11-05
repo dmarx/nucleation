@@ -28,7 +28,7 @@ history:
     Filed, not read. Registered on 2026-11-05 from the owner's pasted
     synthesis on FACT, rigidity, compliant mechanisms and origami, written
     by another assistant (A) and pasted by the owner on 2026-11-04, which
-    cites only "Belcastro & Hull loop-closure condition R1(θ1)…Rk(θk)=I"
+    cites only "the loop-closure formulation associated with Belcastro and Hull", R1(θ1)⋯Rk(θk) = I,
     at ScienceDirect, as O5. Identified by the reader through Crossref's
     bibliographic search, one confident match, confirmed by three later
     papers of Hull's that cite it for the condition: sarah-marie belcastro

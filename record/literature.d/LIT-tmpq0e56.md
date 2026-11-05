@@ -25,8 +25,7 @@ history:
     Filed, not read. Registered on 2026-11-05 from the owner's pasted
     synthesis on FACT, rigidity, compliant mechanisms and origami, written
     by another assistant (A) and pasted by the owner on 2026-11-04, which
-    lists it as O2 "(branching, disconnected configuration spaces,
-    selecting the intended branch)". Citation checked against Crossref and
+    lists it as O2 for its treatment of "branching, disconnected configuration spaces, and the challenge of ensuring a self-folding mechanism chooses the intended branch". Citation checked against Crossref and
     the publisher's chapter page by the reader: Thomas C. Hull,
     Origametry: Mathematical Methods in Paper Folding, Cambridge
     University Press, Chapter 14, the last, Part IV "Non-flat Folding", pp.

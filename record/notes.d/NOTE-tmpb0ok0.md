@@ -137,7 +137,7 @@ change as actuators are added.
   uncertainty rises, because contact selects the shape. What matters here
   is which degrees of freedom are left passive, not the cost of control.
 - **[CLAIM-354](../claims.d/CLAIM-354.md)** (freedom in degrees along several dimensions): A's gloss
-  calls them "several independent dimensions"; the claim does not say
+  calls them "several independently variable dimensions"; the claim does not say
   independent, and what it asserts is a partial order by inclusion of what
   can be viably reached. The hand supports the claim that robustness to
   disturbance and actuated reach, two of its listed dimensions, come apart.

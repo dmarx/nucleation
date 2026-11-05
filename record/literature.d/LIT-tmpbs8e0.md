@@ -19,9 +19,7 @@ history:
   note: >-
     Registered and read on 2026-11-05 from the owner's pasted synthesis on
     FACT, rigidity, compliant mechanisms and origami (pasted 2026-11-04,
-    written by another assistant), where it is cited as R6 only as "an
-    unidentified arXiv paper on sublevel-set persistent homology of
-    molecular energy landscapes". The reader identified it by two arXiv
+    written by another assistant), where it is cited as R6 only as an arXiv paper on sublevel-set persistent homology of molecular energy landscapes, without title or authors. The reader identified it by two arXiv
     searches, each returning this single matching work; the identification
     rests on the description matching its title and subject. Citation
     checked against the arXiv metadata and Crossref: Joshua Mirth, Yanqin

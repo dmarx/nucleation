@@ -19,10 +19,7 @@ history:
     rigidity, compliant mechanisms and origami (the pasted synthesis on
     constraint architectures, written by another assistant, A, in the same
     exchange as the emergency-readiness bibliography, pasted 2026-11-04),
-    which lists it, as R3, without title, authors or identifier, as "an
-    unidentified 2026 ScienceDirect study of the trade-off between
-    flat-foldability and load-bearing capacity in reconfigurable origami
-    metamaterials". Identified by a Crossref bibliographic query on that
+    which lists it, as R3, without title, authors or identifier, as a 2026 ScienceDirect study of the trade-off between flat-foldability and load-bearing capacity in reconfigurable origami metamaterials. Identified by a Crossref bibliographic query on that
     description, restricted to Elsevier from October 2025, whose first hit
     is this work: Alvin Setiawan Rahardjo, Satheeskumar Navaratnam and
     Guomin Zhang, Mechanics Research Communications 154, article 104678,

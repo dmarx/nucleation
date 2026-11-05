@@ -111,7 +111,7 @@ crease of the other parity.
 ## Bearing on the record
 
 - **The pasted synthesis.** A does not cite this paper. It supplies what
-  A's "selecting the intended branch" needs at one vertex. A's Part 5
+  A's "chooses the intended branch" needs at one vertex. A's Part 5
   "organizational nucleus", a least intervention that secures success, is
   close in shape to a minimal forcing set; that analogy is the reader's,
   and the paper makes no such claim.

@@ -93,6 +93,6 @@ the chapter's reciprocal diagrams, its zero-area theorem or its
 infinitesimal and second-order rigidity. It also states belcastro and
 Hull's single-vertex closure condition ([LIT-tmphy9wm](LIT-tmphy9wm.md)), but not its global
 form. The pasted synthesis on constraint architectures does not cite it;
-its exact bistable pouch bears on A's "bistability as memory", as a
+its exact bistable pouch bears on A's point that bistability is "a physical implementation of a form of memory", as a
 kinematic bistability, not a dynamical one. Filed from it: [THEORY-tmp960op](../theory.d/THEORY-tmp960op.md).
 No instruction for machine-learning practice.

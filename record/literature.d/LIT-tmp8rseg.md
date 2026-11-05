@@ -26,8 +26,7 @@ history:
     Filed, not read. Registered on 2026-11-05 from the owner's pasted
     synthesis on FACT, rigidity, compliant mechanisms and origami, written
     by another assistant (A) and pasted by the owner on 2026-11-04, which
-    lists it as O1 "(configuration spaces, rigidity, fold-angle
-    equations)". Citation checked against Crossref and the publisher's
+    lists it as O1 for "the topology of rigid-folding configuration spaces, rigidity conditions, and the equations governing fold angles". Citation checked against Crossref and the publisher's
     chapter page by the reader: Thomas C. Hull, Origametry: Mathematical
     Methods in Paper Folding, Cambridge University Press, Chapter 13, Part
     IV "Non-flat Folding", pp. 256–289, chapter DOI

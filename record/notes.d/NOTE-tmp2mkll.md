@@ -124,7 +124,7 @@ patterns), and its method beside rigid-origami kinematics.
   studies moving between them. Its motive is cost and control complexity,
   not scarcity.
 - **[CLAIM-354](../claims.d/CLAIM-354.md)** (freedom in degrees along several dimensions): A's gloss
-  calls them "several independent dimensions"; the claim does not say
+  calls them "several independently variable dimensions"; the claim does not say
   independent, and what it asserts is a partial order by inclusion of what
   can be viably reached. Supported in kind: actuated reach and simplicity
   of actuation come apart and trade against each other.

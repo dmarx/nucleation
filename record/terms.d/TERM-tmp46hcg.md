@@ -27,6 +27,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-tmplh56l TERM-tmpuc919 — Proposed; terms of the same filing, cited as filed -->
 <!-- inactive-ok-file: NOTE-tmpb2xb9 NOTE-tmpbp6yl — Skimmed; the readings the account of Bogetoft and Hougaard and of the square-root rule comes from -->
 <!-- inactive-ok-file: THEORY-tmpj2rdc THEORY-tmpr8fns THEORY-tmppfbrx — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: TERM-tmp2ysyt CASE-tmp0g3pa — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-tmp46hcg: organizational slack: resources an organization holds beyond what its current output requires, some useful and some wasteful, which the output alone does not tell apart
 
@@ -99,3 +100,7 @@ literature tends to view slack as wasteful".
 A claim of the record's own stated in it, or a reading of Bogetoft and
 Kerstens that shows their test separates the two kinds of slack on data.
 Adopting it is the owner's call.
+
+## Note of 2026-11-05: slack that is a reconfiguration reserve
+
+TERM-tmp2ysyt refines this term. In CASE-tmp0g3pa the 0.3 a budget leaves unspent is slack against current output and is exactly what makes a transition possible, a use that output alone cannot show. No status changes.

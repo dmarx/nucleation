@@ -35,6 +35,7 @@ supports:
 - CLAIM-354
 ---
 <!-- inactive-ok-file: NOTE-tmpla9de NOTE-tmpnscd2 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: CASE-tmpzms3l CLAIM-tmp675a9 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-345: Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank
 
@@ -113,4 +114,4 @@ Several readings from the pasted synthesis on constraint architectures support t
 
 Murray and Sastry ([NOTE-tmpygch2](../notes.d/NOTE-tmpygch2.md)) come closest, in kind: rank settles reachability, while motion along higher brackets takes more input cycles, so rank-equal systems can differ in cost; no cost is computed beyond the first-order case. Dollar and Howe ([NOTE-tmpb0ok0](../notes.d/NOTE-tmpb0ok0.md)) qualify the frame: which freedoms are left passive mattered there, not the cost of control.
 
-No status changes.
+Two entries filed from A's proposals bear on it. CASE-tmpzms3l is a constructed static analogue: two flexure stages with one freedom space, one with every constraint doubled, differing twofold in disturbance error and drive force. CLAIM-tmp675a9 complements the claim from the other side: in Stern, Pinson and Murugan's sheets, equal actuator counts do not fix the chance of folding correctly. No status changes.

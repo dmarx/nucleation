@@ -152,7 +152,7 @@ piano mover's, is named and set aside.
   cost. The paper computes no cost beyond Brockett's first-order case, so
   the support is in kind.
 - **[CLAIM-354](../claims.d/CLAIM-354.md)** (freedom in degrees along several dimensions): A's gloss
-  calls them "several independent dimensions"; the claim does not say
+  calls them "several independently variable dimensions"; the claim does not say
   independent, and what it asserts is a partial order by inclusion of what
   can be viably reached. The paper supports separating instantaneous
   admissibility from reachability; it is silent on viability, having no

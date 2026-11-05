@@ -109,7 +109,7 @@ possible.
 ## Bearing on the record
 
 - **The pasted synthesis.** A does not cite this paper. It is the formal
-  version of A's "branch selection" and of A's distinction between a
+  version of A's problem of selecting a branch and of A's distinction between a
   target's existence and its reliable emergence: the model separates a
   mode's existing from separable local actuation being able to select it.
   A's claim that more intervention need not improve success monotonically

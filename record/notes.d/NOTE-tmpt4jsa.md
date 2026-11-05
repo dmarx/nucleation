@@ -109,7 +109,7 @@ flat state for the curves to share.
 ## Bearing on the record
 
 - **The pasted synthesis.** A does not cite this paper. Its square-twist
-  pouch is an exact bistable example for A's "bistability as memory", but
+  pouch is an exact bistable example for A's point that bistability is "a physical implementation of a form of memory", but
   the bistability is kinematic, a discrete configuration space, not a
   double-well energy as in A's illustration.
 - **[CLAIM-495](../claims.d/CLAIM-495.md) (O(d) holonomy; non-commutativity is not holonomy).**
