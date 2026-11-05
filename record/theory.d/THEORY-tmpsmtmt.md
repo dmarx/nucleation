@@ -17,8 +17,8 @@ date: '2026-11-05'
 source:
 - LIT-tmpujjvl
 summary: >-
-  Shah, Hart & Kaltsakas (2024), LIT-tmpujjvl, read in NOTE-tmpzip9r,
-  standing in for Boles et al. (2007), LIT-tmp1tvad, whose abstract only was
+  Shah, Hart & Kaltsakas (2024), [LIT-tmpujjvl](../literature.d/LIT-tmpujjvl.md), read in [NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md),
+  standing in for Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), whose abstract only was
   read. A narrative review: the classification and the definition of
   failure are restated from the consensus, the frequencies and outcomes
   are from later cohorts (WIND, WEAN SAFE, Jeong et al. 2015), and the
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Shah, Hart & Kaltsakas (2024), LIT-tmpujjvl; read in NOTE-tmpzip9r. It
-stands in for Boles et al. (2007), LIT-tmp1tvad, on the classification and
+Shah, Hart & Kaltsakas (2024), [LIT-tmpujjvl](../literature.d/LIT-tmpujjvl.md); read in [NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md). It
+stands in for Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), on the classification and
 the readiness test; the consensus' abstract agrees with it on both.
 
 ## What was actually shown
@@ -63,6 +63,6 @@ Nothing new: the review reports others' work.
 - **That a passed trial guarantees success.** 42% of those liberated after
   prolonged weaning needed ventilation again, and in difficult-to-wean
   patients a passed trial "may not be a useful marker".
-- For the record it bears on QUESTION-398 as a working withdrawal probe, on
-  CLAIM-600's requirement to watch persistence after withdrawal, and on
-  CLAIM-597 through the patients who stay dependent.
+- For the record it bears on [QUESTION-398](../questions.d/QUESTION-398.md) as a working withdrawal probe, on
+  [CLAIM-600](../claims.d/CLAIM-600.md)'s requirement to watch persistence after withdrawal, and on
+  [CLAIM-597](../claims.d/CLAIM-597.md) through the patients who stay dependent.

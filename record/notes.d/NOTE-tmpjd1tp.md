@@ -143,14 +143,14 @@ remained adrenal insufficient after 6 months" (p. 38).
 ## Connections
 
 The record held no entry on exogenous hormone suppression, adrenal
-insufficiency or tapering; the cortisol entries it holds (LIT-1692,
-LIT-1694, LIT-1715, LIT-1725) use cortisol as an outcome of trauma and are
+insufficiency or tapering; the cortisol entries it holds ([LIT-1692](../literature.d/LIT-1692.md),
+[LIT-1694](../literature.d/LIT-1694.md), [LIT-1715](../literature.d/LIT-1715.md), [LIT-1725](../literature.d/LIT-1725.md)) use cortisol as an outcome of trauma and are
 off topic. The nearest held analogue is psychological: extrinsic reward
-lowering later intrinsic engagement (LIT-557, THEORY-046), another case of
+lowering later intrinsic engagement ([LIT-557](../literature.d/LIT-557.md), [THEORY-046](../theory.d/THEORY-046.md)), another case of
 outside supply crowding out the party's own production. Whether the
 persisting quarter is slow reversion or a second stable state is the
 question the record's reading of legacies and alternative stable states
-asks (THEORY-1468, THEORY-1485); this paper cannot answer it. The
+asks ([THEORY-1468](../theory.d/THEORY-1468.md), [THEORY-1485](../theory.d/THEORY-1485.md)); this paper cannot answer it. The
 neighbour read with it, Beuschlein et al. (2024), restates rows 2, 4–6 and
 9 and adds what this paper lacks: later recovery cohorts, a review of
 tapering, a mechanism including atrophy, and a schedule. It carries the
@@ -159,7 +159,7 @@ NOTE).
 
 ## Bearing on the record
 
-- **CLAIM-600 (safe and hazardous support).** Supports the branch on
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (safe and hazardous support).** Supports the branch on
   substitutive supply: the input is one the party can make, supplying it
   suppresses the party's making it, and the suppression outlasts the
   supply in 14.9–25.3% (row 6). The duration gradient (row 5) goes
@@ -167,32 +167,32 @@ NOTE).
   grow with its length, though cross-study and confounded with dose and
   disease. It illustrates that slow reversion can mimic lasting damage:
   one test soon after stopping overstates it (rows 6, 8).
-- **CLAIM-602 (supply that does the work lowers the capacity kept).** The
+- **[CLAIM-602](../claims.d/CLAIM-602.md) (supply that does the work lowers the capacity kept).** The
   closest physiological analogue: outside supply does the gland's work and
   its output falls, more with heavier and longer supply (rows 4–5). The
   claim's other prediction, that longer supply means longer recovery, is
   matched only loosely, because the two retest groups differ in dose,
   duration and interval together. The paper does not test a capacity-by-use
   mechanism; the gland is kept by ACTH drive.
-- **CLAIM-604 (thresholds, collapse, hysteresis).** Qualifies. Persistence
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (thresholds, collapse, hysteresis).** Qualifies. Persistence
   after stopping is consistent with hysteresis, but the paper shows no
   threshold or bistability, and its mechanism is feedback with slow
   recovery, not a self-maintaining flux.
-- **CLAIM-597 (supplied upkeep never becomes optional).** A contrast case:
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional).** A contrast case:
   here it usually does, because the party makes the input itself; the
   minority still suppressed at six months is the residue.
-- **CLAIM-603 (one-way against reciprocal supply).** Weak support: the
+- **[CLAIM-603](../claims.d/CLAIM-603.md) (one-way against reciprocal supply).** Weak support: the
   supply is one-way and set from outside, and withdrawal punishes, up to
   adrenal crisis. Nothing bears on reciprocity.
-- **CLAIM-558 (capability decays with disuse).** Indirect support:
+- **[CLAIM-558](../claims.d/CLAIM-558.md) (capability decays with disuse).** Indirect support:
   suppressed output persists after disuse and recovery is not immediate;
   no mechanism of decay with disuse is named.
-- **QUESTION-398 (independence from the founding intervention).** The
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention).** The
   retest is a withdrawal measure: the share still dependent at a fixed
   time after removal, falling from 38.7% to 14.9% at 4 weeks and from
   56.4% to 25.3% at 6 months. It is withdrawal of support from an existing
   organization, not a nucleation.
-- CLAIM-601 (buffer as a stock of time): no bearing.
+- [CLAIM-601](../claims.d/CLAIM-601.md) (buffer as a stock of time): no bearing.
 
 ## Limitations
 

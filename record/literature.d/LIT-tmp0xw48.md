@@ -6,10 +6,10 @@ status_note: >-
   gives the structured abstract, the only part read; the publisher's full
   text at www.nejm.org/doi/full/10.1056/NEJMoa070447, which returned HTTP
   403 with a Cloudflare challenge, not retried or worked around. Jaber,
-  Jung, Matecki and Petrof (2011), LIT-tmp0huzr, stands in for it on the
+  Jung, Matecki and Petrof (2011), [LIT-tmp0huzr](LIT-tmp0huzr.md), stands in for it on the
   result, its pectoralis control and the mechanism, as a review by authors
   of a later study of the same design, and for nothing of its figures,
-  per-subject durations or analyses; Goligher et al. (2020), LIT-tmpisk9r,
+  per-subject durations or analyses; Goligher et al. (2020), [LIT-tmpisk9r](LIT-tmpisk9r.md),
   stands in only for its place in the later case for diaphragm-protective
   ventilation.
 title: 'Rapid Disuse Atrophy of Diaphragm Fibers in Mechanically Ventilated Humans'
@@ -81,7 +81,7 @@ Levine, S., Nguyen, T., Taylor, N., Friscia, M. E., Budak, M. T., Rothenberg, P.
   diaphragmatic proteolysis during inactivity" (Conclusions), an
   inference from markers, not a measured flux.
 - **Not in the abstract, reported by a neighbour.** Jaber et al. (2011),
-  LIT-tmp0huzr, say the same subjects' pectoralis showed "no such
+  [LIT-tmp0huzr](LIT-tmp0huzr.md), say the same subjects' pectoralis showed "no such
   differences", the control that points to disuse of the diaphragm rather
   than systemic catabolism.
 
@@ -90,22 +90,22 @@ Levine, S., Nguyen, T., Taylor, N., Friscia, M. E., Budak, M. T., Rothenberg, P.
 Registered as the cleanest physiological case of substitutive support:
 ventilation that does all of the diaphragm's work, and a capacity lost to
 disuse on a timescale of hours to days, far shorter than the illness the
-support was given for. It bears on CLAIM-600's condition that the party
-did the work throughout the support, on CLAIM-602 (supply that does the
-work first lowers the capacity kept) and on CLAIM-558 (capability decays
+support was given for. It bears on [CLAIM-600](../claims.d/CLAIM-600.md)'s condition that the party
+did the work throughout the support, on [CLAIM-602](../claims.d/CLAIM-602.md) (supply that does the
+work first lowers the capacity kept) and on [CLAIM-558](../claims.d/CLAIM-558.md) (capability decays
 with time since use), extending the last from procedural skill to tissue.
 It shows no threshold, collapse or recovery, and measures no force or
 outcome.
 
-**The neighbours.** Jaber, Jung, Matecki and Petrof (2011), LIT-tmp0huzr,
-read in NOTE-tmpat5nt, stand in for it: a review by authors of a later
+**The neighbours.** Jaber, Jung, Matecki and Petrof (2011), [LIT-tmp0huzr](LIT-tmp0huzr.md),
+read in [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md), stand in for it: a review by authors of a later
 biopsy study of the same design, which restates the result, adds the
 pectoralis control and the follow-up finding that markers correlate with
 duration, and sets out the mechanism; it gives none of the original's
 figures, per-subject durations or analyses, and its partial-support
-evidence is from animals. The account filed from it, THEORY-tmp2eczh,
+evidence is from animals. The account filed from it, [THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md),
 names this paper among the primary studies to be read before promotion.
-Goligher et al. (2020), LIT-tmpisk9r, cite it as the landmark study behind
+Goligher et al. (2020), [LIT-tmpisk9r](LIT-tmpisk9r.md), cite it as the landmark study behind
 diaphragm-protective ventilation; they stand in only for that later frame
-(THEORY-tmpfuiq1), not for its results. Confounding by brain death,
+([THEORY-tmpfuiq1](../theory.d/THEORY-tmpfuiq1.md)), not for its results. Confounding by brain death,
 catecholamine storm and steroids is not addressed in what was read.

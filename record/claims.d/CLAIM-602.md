@@ -197,9 +197,9 @@ C = 0.769, an output of 1.15, more than demand.
 
 Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant. The links from physiology to organizations are analogies.
 
-- **Supply that does a gland's work suppresses the gland.** Adrenal suppression after corticosteroids affects 48.7 % of oral users in Broersen et al.'s meta-analysis (NOTE-tmpjd1tp). It rises with dose and with duration: 1.4 % for courses under a month, 27.4 % over a year. The cross-study gradient is confounded.
-- **The cure is capacity-first.** The 2024 guideline (NOTE-tmppitgm) asks that replacement give "a sufficient stimulus for recovery (meaning avoiding any over-replacement)": cover the shortfall, not the work.
-- **Full support atrophies the muscle it replaces.** Under full mechanical ventilation the diaphragm atrophies within 18–69 hours, while a control muscle in the same patients does not (Jaber et al., NOTE-tmpat5nt). Keeping the patient's own breathing efforts lessens the loss, on animal evidence. Goligher et al. (NOTE-tmpkraoh) frame a band, not a floor: too little effort atrophies the diaphragm and too much may injure it.
-- **A partial contradiction.** Full support is prescribed as rest for a fatigued muscle (Alía and Esteban, NOTE-tmp2yypk). Whether supply erodes capacity may depend on whether the capacity is fatigued or merely unused.
+- **Supply that does a gland's work suppresses the gland.** Adrenal suppression after corticosteroids affects 48.7 % of oral users in Broersen et al.'s meta-analysis ([NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md)). It rises with dose and with duration: 1.4 % for courses under a month, 27.4 % over a year. The cross-study gradient is confounded.
+- **The cure is capacity-first.** The 2024 guideline ([NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md)) asks that replacement give "a sufficient stimulus for recovery (meaning avoiding any over-replacement)": cover the shortfall, not the work.
+- **Full support atrophies the muscle it replaces.** Under full mechanical ventilation the diaphragm atrophies within 18–69 hours, while a control muscle in the same patients does not (Jaber et al., [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md)). Keeping the patient's own breathing efforts lessens the loss, on animal evidence. Goligher et al. ([NOTE-tmpkraoh](../notes.d/NOTE-tmpkraoh.md)) frame a band, not a floor: too little effort atrophies the diaphragm and too much may injure it.
+- **A partial contradiction.** Full support is prescribed as rest for a fatigued muscle (Alía and Esteban, [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md)). Whether supply erodes capacity may depend on whether the capacity is fatigued or merely unused.
 
 No status changes.

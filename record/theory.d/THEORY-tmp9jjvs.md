@@ -19,8 +19,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp5fl4h
 summary: >-
-  Broersen, Pereira, Jørgensen and Dekkers (2015), LIT-tmp5fl4h, read in
-  NOTE-tmpjd1tp from the reprint in Broersen's 2019 thesis, supplements
+  Broersen, Pereira, Jørgensen and Dekkers (2015), [LIT-tmp5fl4h](../literature.d/LIT-tmp5fl4h.md), read in
+  [NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md) from the reprint in Broersen's 2019 thesis, supplements
   unread. Proposed: the pooled shares are from 74 observational articles
   at high risk of bias, with no individual-patient data, and the dose and
   duration gradients are crude strata in asthma patients of all routes.
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Broersen, Pereira, Jørgensen and Dekkers (2015), LIT-tmp5fl4h; read in
-NOTE-tmpjd1tp. Page numbers are those of the reprint in Broersen's 2019
+Broersen, Pereira, Jørgensen and Dekkers (2015), [LIT-tmp5fl4h](../literature.d/LIT-tmp5fl4h.md); read in
+[NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md). Page numbers are those of the reprint in Broersen's 2019
 Leiden thesis.
 
 ## What was actually shown

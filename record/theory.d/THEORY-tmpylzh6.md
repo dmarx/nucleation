@@ -17,7 +17,7 @@ date: '2026-11-05'
 source:
 - LIT-tmpzl6rz
 summary: >-
-  Beuschlein et al. (2024), LIT-tmpzl6rz, read in NOTE-tmppitgm from the
+  Beuschlein et al. (2024), [LIT-tmpzl6rz](../literature.d/LIT-tmpzl6rz.md), read in [NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md) from the
   open copy on Europe PMC, supplementary GRADE tables unread. Proposed: it
   is a consensus guideline. The suppression and mechanism are cited, the
   atrophy step from rodent models; recovery rests on Broersen et al.
@@ -33,8 +33,8 @@ summary: >-
 ## Source
 
 Beuschlein, Else, Bancos, Hahner, Hamidi, van Hulsteijn, Husebye,
-Karavitaki, Prete, Vaidya, Yedinak and Dekkers (2024), LIT-tmpzl6rz; read
-in NOTE-tmppitgm. Located by recommendation number or section.
+Karavitaki, Prete, Vaidya, Yedinak and Dekkers (2024), [LIT-tmpzl6rz](../literature.d/LIT-tmpzl6rz.md); read
+in [NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md). Located by recommendation number or section.
 
 ## What was actually shown
 

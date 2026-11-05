@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmppitgm) from the open-access copy on Europe PMC
+  read 2026-11-05 ([NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md)) from the open-access copy on Europe PMC
   (PMC11180513, CC BY-NC 4.0); the supplementary GRADE tables S3–S6 were
   not read; worth reading as the clinical account of how an outside supply
   of a hormone that suppresses the body's own production is withdrawn: a
@@ -75,7 +75,7 @@ Beuschlein, F., Else, T., Bancos, I., Hahner, S., Hamidi, O., van Hulsteijn, L.,
 
 ## Key takeaways
 
-*From the reading, NOTE-tmppitgm. Located by recommendation number or section; the copy has no page numbers.*
+*From the reading, [NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md). Located by recommendation number or section; the copy has no page numbers.*
 
 - **Supraphysiologic supply always suppresses.** Anti-inflammatory doses
   "invariably result in HPA axis suppression" (Introduction, pathophysiology).
@@ -97,16 +97,16 @@ Beuschlein, F., Else, T., Bancos, I., Hahner, S., Hamidi, O., van Hulsteijn, L.,
 
 ## Standing in the record
 
-Filed with Broersen et al. (2015), LIT-tmp5fl4h, which it uses as its
+Filed with Broersen et al. (2015), [LIT-tmp5fl4h](LIT-tmp5fl4h.md), which it uses as its
 source for prevalence and recovery, and which it extends with a later
 review of recovery (three cohorts, 202 patients), a review of tapering
 (five studies), a stated mechanism and the schedule now recommended. For
-the record it is the clinical form of CLAIM-602's prescription: supply
+the record it is the clinical form of [CLAIM-602](../claims.d/CLAIM-602.md)'s prescription: supply
 that covers only what the party cannot yet do, kept low enough to leave
 the party's own work as a stimulus, and withdrawn in steps once the threat
-it stood in for has gone, as CLAIM-600 requires. Recovery is gradual,
+it stood in for has gone, as [CLAIM-600](../claims.d/CLAIM-600.md) requires. Recovery is gradual,
 ordered and read as a continuum, which is slow reversion, not a threshold
-(CLAIM-604); only the persistent minority hints at irreversibility, and
+([CLAIM-604](../claims.d/CLAIM-604.md)); only the persistent minority hints at irreversibility, and
 its mechanism is atrophy, not a flux loop.
 
 Two errors or limits to carry. Its Table 6 lists Broersen et al.'s dose
@@ -115,4 +115,4 @@ strata (2.4%, 8.5%, 21.5%) and duration strata (1.4%, 11.9%, 27.4%) under
 patients of all routes; the inhaled-only figures are 1.5%, 5.4%, 18.5% and
 1.3%, 9.0%, 20.3%. And its taper schedule rests on consensus, with the
 evidence behind its graded taper and testing recommendations very low.
-Filed from it: THEORY-tmpylzh6.
+Filed from it: [THEORY-tmpylzh6](../theory.d/THEORY-tmpylzh6.md).

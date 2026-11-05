@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpat5nt) from the open-access full text in
+  read in full 2026-11-05 ([NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md)) from the open-access full text in
   Europe PMC (PMC3219309); worth reading as a compact account, by authors
   of one of the biopsy studies, of how fully controlled mechanical
   ventilation weakens, shrinks and injures the human diaphragm within days,
@@ -60,7 +60,7 @@ Jaber, S., Jung, B., Matecki, S. & Petrof, B. J. (2011). Clinical review: Ventil
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpat5nt. Sections are the review's.*
+*From the reading, [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md). Sections are the review's.*
 
 - **Fast.** In animals "a few hours of totally controlled MV (without any
   spontaneous breathing cycles) promotes decreases of diaphragmatic
@@ -79,12 +79,12 @@ Jaber, S., Jung, B., Matecki, S. & Petrof, B. J. (2011). Clinical review: Ventil
 
 ## Standing in the record
 
-Filed as the stand-in for Levine et al. (2008), LIT-tmp0xw48. It restates
+Filed as the stand-in for Levine et al. (2008), [LIT-tmp0xw48](LIT-tmp0xw48.md). It restates
 that study's design and result, adds the pectoralis control the abstract
 lacks, and reports the same group's follow-up and two other biopsy series;
 it gives none of the original's tables or analyses. For the record it is
 the physiological case of support that does the work removing the
-capacity it replaces: it bears on CLAIM-600's condition that the party did
-the work throughout, supports CLAIM-602 and CLAIM-558 by analogy, and
+capacity it replaces: it bears on [CLAIM-600](../claims.d/CLAIM-600.md)'s condition that the party did
+the work throughout, supports [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-558](../claims.d/CLAIM-558.md) by analogy, and
 qualifies them, since kept effort only mitigates. Filed from it:
-THEORY-tmp2eczh.
+[THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md).

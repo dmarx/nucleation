@@ -124,35 +124,35 @@ applied, not on the method's name.
 
 ## Connections
 
-It summarizes the trials behind Boles et al.'s (2007), LIT-tmp1tvad,
+It summarizes the trials behind Boles et al.'s (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md),
 recommendations on initial weaning and on weaning after a failed trial:
 Brochard 1994, Esteban 1995, Ely 1996 and the Spanish group's trials of
 trial mode and duration. It does not restate the consensus' three groups or
 its grading; and on modes after a failed trial it is more favourable to
 T-tube trials than the consensus' abstract, which favours pressure support
 or assist-control. Its doctrine of rest is the one that Jaber, Jung,
-Matecki & Petrof (2011), LIT-tmp0huzr (THEORY-tmp2eczh), say "has now been
+Matecki & Petrof (2011), [LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md) ([THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md)), say "has now been
 completely turned on its head", though Alía and Esteban mean rest for a
 fatigued muscle by assisted modes or nightly support, not fully controlled
-ventilation throughout. Shah, Hart & Kaltsakas (2024), LIT-tmpujjvl, carry
+ventilation throughout. Shah, Hart & Kaltsakas (2024), [LIT-tmpujjvl](../literature.d/LIT-tmpujjvl.md), carry
 the later evidence.
 
 ## Bearing on the record
 
-- **CLAIM-600.** Supports the condition that the threat the support stood
+- **[CLAIM-600](../claims.d/CLAIM-600.md).** Supports the condition that the threat the support stood
   in for has gone: a resolved cause is the precondition of any trial.
   Qualifies the claim on schedule: where the party can do the work, abrupt
   removal beats a taper, and tapering only delays.
-- **CLAIM-602.** Partly contradicts it in this setting: support doing all
+- **[CLAIM-602](../claims.d/CLAIM-602.md).** Partly contradicts it in this setting: support doing all
   the work is prescribed as rest to restore a fatigued capacity. It does not
   test whether support erodes capacity; with Jaber et al. it suggests the
   order effect depends on whether the capacity is fatigued or unused.
-- **QUESTION-398.** The trial measures the effect of withdrawal at the
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** The trial measures the effect of withdrawal at the
   present state. That 30 and 120 min trials are equivalent says the measure
   saturates quickly; the strict-versus-permissive tradeoff is the cost of
   reading it from a short window, in false failures and false passes.
-- **CLAIM-597, CLAIM-558, CLAIM-603, CLAIM-604.** None directly.
-- Filed: THEORY-tmp6pn8h. No instruction for machine-learning practice.
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-558](../claims.d/CLAIM-558.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-604](../claims.d/CLAIM-604.md).** None directly.
+- Filed: [THEORY-tmp6pn8h](../theory.d/THEORY-tmp6pn8h.md). No instruction for machine-learning practice.
 
 ## Limitations
 

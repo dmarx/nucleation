@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp2yypk) from the open-access full text in
+  read in full 2026-11-05 ([NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md)) from the open-access full text in
   Europe PMC (PMC137330); worth reading as a summary, by the lead of one of
   the trials, of the randomized evidence on how to withdraw ventilation:
   abrupt withdrawal after a passed trial for most patients, gradual
@@ -63,7 +63,7 @@ Alía, I. & Esteban, A. (2000). Weaning from mechanical ventilation. *Critical C
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp2yypk. Sections are the review's.*
+*From the reading, [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md). Sections are the review's.*
 
 - **Most can stop at once.** Ventilation "can be discontinued abruptly in
   approximately 75% of mechanically ventilated patients whose underlying
@@ -83,12 +83,12 @@ Alía, I. & Esteban, A. (2000). Weaning from mechanical ventilation. *Critical C
 
 ## Standing in the record
 
-Filed as the stand-in for Boles et al. (2007), LIT-tmp1tvad, on the trials
+Filed as the stand-in for Boles et al. (2007), [LIT-tmp1tvad](LIT-tmp1tvad.md), on the trials
 the consensus drew on for initial weaning and for weaning after a failed
 trial; it predates the consensus and does not stand in for its
 classification or its graded recommendations. For the record it says how
 to schedule withdrawal once readiness is tested: where the party can do
-the work, abrupt removal beats a taper, which qualifies CLAIM-600 on
+the work, abrupt removal beats a taper, which qualifies [CLAIM-600](../claims.d/CLAIM-600.md) on
 schedule. Its treatment of rest with ventilation as the cure for fatigue
-partly contradicts CLAIM-602 in this setting, and is the doctrine later
-studies of disuse atrophy reversed. Filed from it: THEORY-tmp6pn8h.
+partly contradicts [CLAIM-602](../claims.d/CLAIM-602.md) in this setting, and is the doctrine later
+studies of disuse atrophy reversed. Filed from it: [THEORY-tmp6pn8h](../theory.d/THEORY-tmp6pn8h.md).

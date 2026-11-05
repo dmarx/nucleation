@@ -16,9 +16,9 @@ date: '2026-11-05'
 source:
 - LIT-tmpisk9r
 summary: >-
-  Goligher et al. (2020), LIT-tmpisk9r, read in NOTE-tmpkraoh. A
+  Goligher et al. (2020), [LIT-tmpisk9r](../literature.d/LIT-tmpisk9r.md), read in [NOTE-tmpkraoh](../notes.d/NOTE-tmpkraoh.md). A
   consensus-style review: the atrophy side rests on biopsy and ultrasound
-  studies (Levine et al. 2008, LIT-tmp0xw48, among them), the injury side is
+  studies (Levine et al. 2008, [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md), among them), the injury side is
   a hypothesis the authors say needs confirmation, the effort target is
   "probably optimal" from physiology, and no trial of the approach had
   reported. Its figure of 64% weak after 24 h is weakness on ICU admission,
@@ -31,8 +31,8 @@ summary: >-
 ## Source
 
 Goligher, Jonkman, Dianti, Vaporidi, Beitler, Patel, Yoshida, Jaber, Dres,
-Mauri, Bellani, Demoule, Brochard & Heunks (2020), LIT-tmpisk9r; read in
-NOTE-tmpkraoh.
+Mauri, Bellani, Demoule, Brochard & Heunks (2020), [LIT-tmpisk9r](../literature.d/LIT-tmpisk9r.md); read in
+[NOTE-tmpkraoh](../notes.d/NOTE-tmpkraoh.md).
 
 ## What was actually shown
 
@@ -41,7 +41,7 @@ Nothing new: the review argues from cited studies.
 - **Low effort.** "Low respiratory muscle effort, due to ventilator
   over-assist or sedation, may result in muscle atrophy, while high effort
   has been associated with load-induced injury" (introduction), resting on
-  donor biopsies (Levine et al. 2008, LIT-tmp0xw48) and ultrasound studies
+  donor biopsies (Levine et al. 2008, [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md)) and ultrasound studies
   of thickness under low effort.
 - **High effort.** Fibre injury in biopsies and acute thickening on
   ultrasound "suggested" load-induced injury, and "this hypothesis requires
@@ -61,7 +61,7 @@ Nothing new: the review argues from cited studies.
   ventilation.** The figure is from a study of weakness on ICU admission.
 - **Where exactly the band lies** for a given patient; the targets are
   ranges argued from physiology.
-- For the record, it qualifies CLAIM-600 (the work the party does has an
-  upper bound as well as a lower one) and gives CLAIM-602 a worked shape of
+- For the record, it qualifies [CLAIM-600](../claims.d/CLAIM-600.md) (the work the party does has an
+  upper bound as well as a lower one) and gives [CLAIM-602](../claims.d/CLAIM-602.md) a worked shape of
   supply covering only what the party cannot do. Both readings are the
   filer's analogies.

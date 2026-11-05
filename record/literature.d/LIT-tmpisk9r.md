@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpkraoh) from the open-access full text in
+  read in full 2026-11-05 ([NOTE-tmpkraoh](../notes.d/NOTE-tmpkraoh.md)) from the open-access full text in
   Europe PMC (PMC7605467, CC BY-NC); worth reading as the statement, by the
   investigators who measured diaphragm atrophy at the bedside, that support
   harms the diaphragm at both ends of effort, and for its bedside targets.
@@ -61,7 +61,7 @@ Goligher, E. C., Jonkman, A. H., Dianti, J., Vaporidi, K., Beitler, J. R., Patel
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpkraoh. Sections are the review's.*
+*From the reading, [NOTE-tmpkraoh](../notes.d/NOTE-tmpkraoh.md). Sections are the review's.*
 
 - **Two-sided.** "the diaphragm develops atrophy as a consequence of low
   respiratory effort and injury in case of excessive effort" (abstract);
@@ -81,10 +81,10 @@ Goligher, E. C., Jonkman, A. H., Dianti, J., Vaporidi, K., Beitler, J. R., Patel
 ## Standing in the record
 
 Filed as a second, partial stand-in for Levine et al. (2008),
-LIT-tmp0xw48: it cites that study as the landmark showing disuse atrophy
+[LIT-tmp0xw48](LIT-tmp0xw48.md): it cites that study as the landmark showing disuse atrophy
 and builds the later clinical frame on it, but restates none of its
-numbers. For the record it qualifies CLAIM-600's condition that the party
+numbers. For the record it qualifies [CLAIM-600](../claims.d/CLAIM-600.md)'s condition that the party
 did the work throughout: the safe regime is a band, the party doing a
 moderate share of the work, not the most it can. NAVA is a worked example
-of support that covers only what the party cannot do, the shape CLAIM-602
-names; the connection is the filer's. Filed from it: THEORY-tmpfuiq1.
+of support that covers only what the party cannot do, the shape [CLAIM-602](../claims.d/CLAIM-602.md)
+names; the connection is the filer's. Filed from it: [THEORY-tmpfuiq1](../theory.d/THEORY-tmpfuiq1.md).

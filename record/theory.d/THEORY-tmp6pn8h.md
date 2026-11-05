@@ -19,8 +19,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp9wpue
 summary: >-
-  Alía & Esteban (2000), LIT-tmp9wpue, read in NOTE-tmp2yypk, standing in for
-  Boles et al. (2007), LIT-tmp1tvad, on the trials behind its
+  Alía & Esteban (2000), [LIT-tmp9wpue](../literature.d/LIT-tmp9wpue.md), read in [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md), standing in for
+  Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), on the trials behind its
   recommendations on abrupt and gradual withdrawal. A narrative review by a
   trialist; the trials themselves were not read. The abstract says SIMV is
   the most effective method after failed trials, the body that it is the
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Alía & Esteban (2000), LIT-tmp9wpue; read in NOTE-tmp2yypk. It stands in
-for Boles et al. (2007), LIT-tmp1tvad, on withdrawal schedules, not on the
+Alía & Esteban (2000), [LIT-tmp9wpue](../literature.d/LIT-tmp9wpue.md); read in [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md). It stands in
+for Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), on withdrawal schedules, not on the
 consensus' classification.
 
 ## What was actually shown
@@ -65,7 +65,7 @@ The review reports randomized trials; each could have gone the other way.
   The two trials disagree.
 - **That rest by full support is harmless.** The review holds rest to be
   the only treatment of fatigue; later work on disuse atrophy (Jaber et
-  al. 2011, LIT-tmp0huzr) bears against prolonged fully controlled rest.
-- For the record it qualifies CLAIM-600 on schedule (abrupt removal once
-  the party can do the work) and bears against CLAIM-602 where the capacity
+  al. 2011, [LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md)) bears against prolonged fully controlled rest.
+- For the record it qualifies [CLAIM-600](../claims.d/CLAIM-600.md) on schedule (abrupt removal once
+  the party can do the work) and bears against [CLAIM-602](../claims.d/CLAIM-602.md) where the capacity
   is fatigued rather than unused; both readings are the filer's.

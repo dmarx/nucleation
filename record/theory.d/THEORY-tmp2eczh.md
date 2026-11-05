@@ -18,8 +18,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp0huzr
 summary: >-
-  Jaber, Jung, Matecki & Petrof (2011), LIT-tmp0huzr, read in NOTE-tmpat5nt,
-  standing in for Levine et al. (2008), LIT-tmp0xw48, whose abstract only
+  Jaber, Jung, Matecki & Petrof (2011), [LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md), read in [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md),
+  standing in for Levine et al. (2008), [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md), whose abstract only
   was read. A review: the human evidence is small case-control biopsy series
   in brain-dead donors and observational twitch-pressure measurements, so
   the numbers here are the review's restatement of studies not read; the
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Jaber, Jung, Matecki & Petrof (2011), LIT-tmp0huzr; read in NOTE-tmpat5nt.
-It stands in for Levine et al. (2008), LIT-tmp0xw48, of which only the
+Jaber, Jung, Matecki & Petrof (2011), [LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md); read in [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md).
+It stands in for Levine et al. (2008), [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md), of which only the
 abstract was read; that abstract agrees with the review's account of it.
 
 ## What was actually shown
@@ -67,6 +67,6 @@ unrelated to duration.
   the optimal effort is unknown.
 - **Anything about recovery**, which the authors say is unstudied. So it
   shows no threshold or hysteresis.
-- It bears on CLAIM-600's condition that the party did the work throughout,
-  and on CLAIM-602 and CLAIM-558, by analogy from tissue; the authors make
+- It bears on [CLAIM-600](../claims.d/CLAIM-600.md)'s condition that the party did the work throughout,
+  and on [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-558](../claims.d/CLAIM-558.md), by analogy from tissue; the authors make
   no claim about organizations.

@@ -105,8 +105,8 @@ No status changes.
 ## Note of 2026-11-05: the readings in medicine, on weaning
 
 - **A working version of A's measure.** The spontaneous breathing trial is a repeated, reversible withdrawal at the patient's current state.
-  - Trials of 30 and 120 minutes are equivalent, with reintubation of about 13 % at 48 hours (Alía and Esteban, NOTE-tmp2yypk), so the measure settles quickly.
-  - Clinicians often underestimate readiness (Shah, Hart and Kaltsakas, NOTE-tmpzip9r), so the point where D becomes small is often reached before anyone tests for it.
-- **A measure for a gland.** In corticosteroid withdrawal, a morning cortisol test after holding the dose for 24 hours plays the same part (NOTE-tmppitgm).
+  - Trials of 30 and 120 minutes are equivalent, with reintubation of about 13 % at 48 hours (Alía and Esteban, [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md)), so the measure settles quickly.
+  - Clinicians often underestimate readiness (Shah, Hart and Kaltsakas, [NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md)), so the point where D becomes small is often reached before anyone tests for it.
+- **A measure for a gland.** In corticosteroid withdrawal, a morning cortisol test after holding the dose for 24 hours plays the same part ([NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md)).
 
 No status changes.

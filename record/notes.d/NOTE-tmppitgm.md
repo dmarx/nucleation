@@ -148,38 +148,38 @@ duration strata of 1.4%, 11.9% and 27.4% and dose strata of 2.4%, 8.5% and
 their inhaled-only figures are 1.3%, 9.0% and 20.3% and 1.5%, 5.4% and
 18.5%. The guideline's own introduction gives the figures correctly, "in
 patients with asthma". The record's nearest held analogues are the
-crowding-out of intrinsic motivation (LIT-557, THEORY-046) and legacies
-blocking recovery (THEORY-1468).
+crowding-out of intrinsic motivation ([LIT-557](../literature.d/LIT-557.md), [THEORY-046](../theory.d/THEORY-046.md)) and legacies
+blocking recovery ([THEORY-1468](../theory.d/THEORY-1468.md)).
 
 ## Bearing on the record
 
-- **CLAIM-600.** Supports its conditions on the threat having gone (a
+- **[CLAIM-600](../claims.d/CLAIM-600.md).** Supports its conditions on the threat having gone (a
   taper only once the disease is controlled, R 2.2) and on the party doing
   the work (replacement leaves "a sufficient stimulus for recovery"); and
   its point that persistence after withdrawal is what tells, since a test
   after holding the dose is the decision rule (R 2.7). Duration-graded
   risk (R 2.1, R 2.6) goes against the defeater that damage does not grow
   with length, qualitatively only.
-- **CLAIM-602.** A strong analogue: outside supply does the gland's work
+- **[CLAIM-602](../claims.d/CLAIM-602.md).** A strong analogue: outside supply does the gland's work
   and its capacity falls through loss of trophic drive and atrophy; the
   remedy is the claim's, cover only what the party cannot yet do and
   avoid over-replacement. That longer supply means longer recovery is
   asserted for taper design, not quantified.
-- **CLAIM-604.** Qualifies: recovery is gradual, ordered and read as a
+- **[CLAIM-604](../claims.d/CLAIM-604.md).** Qualifies: recovery is gradual, ordered and read as a
   continuum, slow reversion rather than a threshold or bistability; the
   persistent minority is the only hint of irreversibility, by atrophy, not
   a flux loop.
-- **CLAIM-597.** A contrast case: supplied upkeep can become optional
+- **[CLAIM-597](../claims.d/CLAIM-597.md).** A contrast case: supplied upkeep can become optional
   again, typically within months to years, because the party makes the
   input itself.
-- **CLAIM-603.** Supports one-way supply that withdrawal punishes, shown
+- **[CLAIM-603](../claims.d/CLAIM-603.md).** Supports one-way supply that withdrawal punishes, shown
   at population scale (row 12); nothing on reciprocity.
-- **CLAIM-558.** Supports in physiological form: a capability falls into
+- **[CLAIM-558](../claims.d/CLAIM-558.md).** Supports in physiological form: a capability falls into
   disuse while supplied and takes months to years to return.
-- **QUESTION-398.** Gives an operational withdrawal test (R 2.7) and a
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** Gives an operational withdrawal test (R 2.7) and a
   graded partial withdrawal as the route to independence, for an existing
   organization rather than a nucleus.
-- CLAIM-601: no bearing.
+- [CLAIM-601](../claims.d/CLAIM-601.md): no bearing.
 
 ## Limitations
 

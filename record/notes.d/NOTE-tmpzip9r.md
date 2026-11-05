@@ -130,37 +130,37 @@ worse, and for some of them the support never becomes optional.
 
 ## Connections
 
-It restates from Boles et al. (2007), LIT-tmp1tvad, the three groups, the
+It restates from Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), the three groups, the
 definition of weaning failure, the 31% aggregate failure rate and the trial
 as the readiness test. It does not restate the consensus' grading of
 evidence, its epidemiology tables or, beyond the abstract, its
 recommendations on modes after a failed trial; its frequencies are from
 WIND and WEAN SAFE, and its trial evidence mostly postdates 2007. Alía and
-Esteban (2000), LIT-tmp9wpue, carry the earlier trials on abrupt and
+Esteban (2000), [LIT-tmp9wpue](../literature.d/LIT-tmp9wpue.md), carry the earlier trials on abrupt and
 gradual withdrawal. Its invocation of respiratory muscle weakness connects
-to the disuse loss in Jaber et al. (2011), LIT-tmp0huzr (THEORY-tmp2eczh),
+to the disuse loss in Jaber et al. (2011), [LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md) ([THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md)),
 which it does not cite.
 
 ## Bearing on the record
 
-- **QUESTION-398.** The trial is a repeated, matched probe of withdrawal at
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** The trial is a repeated, matched probe of withdrawal at
   the present state, so the withdrawal measure is estimated daily and
   reversibly; the finding that delayed testing goes with failure says the
   probe should be used early. The classification records how many probes
   failed before withdrawal held.
-- **CLAIM-600.** Supports the requirement that persistence after
+- **[CLAIM-600](../claims.d/CLAIM-600.md).** Supports the requirement that persistence after
   withdrawal be observed: success is judged only after a window (48 h to 7
   days). The 42% who need ventilation again after prolonged weaning are the
   clinic's case of slow reversion mimicking persistence. Qualifies it on
   method: medicine tests readiness by short, reversible trial withdrawals
   before the real one.
-- **CLAIM-597.** About half of those whose weaning fails remain dependent
+- **[CLAIM-597](../claims.d/CLAIM-597.md).** About half of those whose weaning fails remain dependent
   at a year: support that has not become optional.
-- **CLAIM-602, CLAIM-558.** By analogy only: longer ventilation goes with
+- **[CLAIM-602](../claims.d/CLAIM-602.md), [CLAIM-558](../claims.d/CLAIM-558.md).** By analogy only: longer ventilation goes with
   more weakness, more failure and more relapse, an association confounded
   by severity.
-- **CLAIM-604.** None; no threshold model.
-- Filed: THEORY-tmpsmtmt. No instruction for machine-learning practice.
+- **[CLAIM-604](../claims.d/CLAIM-604.md).** None; no threshold model.
+- Filed: [THEORY-tmpsmtmt](../theory.d/THEORY-tmpsmtmt.md). No instruction for machine-learning practice.
 
 ## Limitations
 

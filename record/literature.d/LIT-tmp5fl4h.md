@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmpjd1tp) from the reprint that is chapter 2 of
+  read 2026-11-05 ([NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md)) from the reprint that is chapter 2 of
   Broersen's 2019 Leiden PhD thesis (hdl 1887/78950, Open Access); the
   supplements were not read; worth reading as the quantitative case of an
   outside supply of a hormone leaving the body's own production of it
@@ -84,7 +84,7 @@ Broersen, L. H. A., Pereira, A. M., Jørgensen, J. O. L. & Dekkers, O. M. (2015)
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpjd1tp. Page numbers are the 2019 thesis's, not the journal's.*
+*From the reading, [NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md). Page numbers are the 2019 thesis's, not the journal's.*
 
 - **Common, and not caught by symptoms.** "Of the 3,753 participants,
   1,190 were diagnosed with adrenal insufficiency" (p. 34); of 521
@@ -112,19 +112,19 @@ of outside supply that does a system's own work suppressing that work, and
 of what happens when the supply stops. The record held no entry on
 exogenous hormone suppression, adrenal insufficiency or tapering; its
 nearest analogue is the crowding-out of intrinsic motivation by extrinsic
-reward (LIT-557, THEORY-046).
+reward ([LIT-557](LIT-557.md), [THEORY-046](../theory.d/THEORY-046.md)).
 
-The case bears most on CLAIM-602 (supply that does the work lowers the
-capacity kept) and on CLAIM-600's branch on substitutive supply: the
+The case bears most on [CLAIM-602](../claims.d/CLAIM-602.md) (supply that does the work lowers the
+capacity kept) and on [CLAIM-600](../claims.d/CLAIM-600.md)'s branch on substitutive supply: the
 duration gradient goes against the defeater that the damage does not grow
 with the length of support, though the evidence is cross-study and
-confounded with dose and disease. It is a contrast case for CLAIM-597:
+confounded with dose and disease. It is a contrast case for [CLAIM-597](../claims.d/CLAIM-597.md):
 here supplied upkeep usually becomes optional again, because the party
 makes the input itself, and the minority still suppressed at six months is
 the residue. On the paper alone nothing separates slow reversion from a
-second stable state (CLAIM-604, THEORY-1468). Two things it cannot carry:
+second stable state ([CLAIM-604](../claims.d/CLAIM-604.md), [THEORY-1468](../theory.d/THEORY-1468.md)). Two things it cannot carry:
 the retest groups differ in regimen and in interval together, so they do
 not show that longer supply means longer recovery; and it has no taper
 data. The guideline read beside it, Beuschlein et al. (2024), adds recovery
 times, a stated mechanism including atrophy, and a consensus taper
-schedule. Filed from it: THEORY-tmp9jjvs.
+schedule. Filed from it: [THEORY-tmp9jjvs](../theory.d/THEORY-tmp9jjvs.md).

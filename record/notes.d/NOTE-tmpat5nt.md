@@ -113,40 +113,40 @@ rest" "has now been completely turned on its head" (introduction).
 
 ## Connections
 
-It restates Levine et al. (2008), LIT-tmp0xw48: the design, both fibre
+It restates Levine et al. (2008), [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md): the design, both fibre
 types atrophied, the oxidative and proteolytic markers, and the pectoralis
 control, which the abstract lacks. It does not restate the original's
 percentages, P values, per-subject durations or any analysis of duration
 within 18–69 hours; the duration correlation it reports is from the
 follow-up study of 18 donors. It also summarizes Hussain et al. (2010) and
 Jaber et al. (2011, AJRCCM), neither read here. Goligher et al. (2020),
-LIT-tmpisk9r, build on these studies to argue for a band of effort (see
-THEORY-tmpfuiq1). Alía and Esteban (2000), NOTE-tmp2yypk, written before
+[LIT-tmpisk9r](../literature.d/LIT-tmpisk9r.md), build on these studies to argue for a band of effort (see
+[THEORY-tmpfuiq1](../theory.d/THEORY-tmpfuiq1.md)). Alía and Esteban (2000), [NOTE-tmp2yypk](NOTE-tmp2yypk.md), written before
 the human studies, still treat rest with ventilation as "the only method of
 treating muscle fatigue": the doctrine this review calls reversed.
 
 ## Bearing on the record
 
-- **CLAIM-600.** Supports the condition that the party could do the work
+- **[CLAIM-600](../claims.d/CLAIM-600.md).** Supports the condition that the party could do the work
   and did it throughout: fully controlled ventilation breaks it, and the
   capacity is lost within days, which makes withdrawal (weaning) hazardous.
   Qualifies it: kept effort only mitigates the loss in animals, so doing
   some of the work is not enough to keep all of the capacity.
-- **CLAIM-602.** Supports it by analogy, in tissue rather than an
+- **[CLAIM-602](../claims.d/CLAIM-602.md).** Supports it by analogy, in tissue rather than an
   organization: supply that does the work lowers the capacity kept, more
   with longer supply. The claim's prediction about recovery time is not
   tested; recovery is unstudied.
-- **CLAIM-558.** Supports it and extends it from procedural skill to
+- **[CLAIM-558](../claims.d/CLAIM-558.md).** Supports it and extends it from procedural skill to
   muscle: capacity decays with time since use, on a scale of hours to days,
   and use in the interval slows the decay (animal data).
-- **CLAIM-603.** Loosely: the unused muscle is broken down, saving its
+- **[CLAIM-603](../claims.d/CLAIM-603.md).** Loosely: the unused muscle is broken down, saving its
   upkeep, and the loss is punished at withdrawal. The analogy is the
   filer's, not the authors'.
-- **CLAIM-597, CLAIM-604.** None: ventilation replaces the muscle's output,
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-604](../claims.d/CLAIM-604.md).** None: ventilation replaces the muscle's output,
   not its upkeep, and no threshold, collapse or hysteresis is shown.
-- **QUESTION-398.** By contrast: here dependence on the support grows with
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** By contrast: here dependence on the support grows with
   its duration, the reverse of a nucleus becoming unnecessary.
-- Filed: THEORY-tmp2eczh. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md). No instruction for machine-learning practice.
 
 ## Limitations
 

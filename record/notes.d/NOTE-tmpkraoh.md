@@ -105,30 +105,30 @@ protection" (principles of diaphragm-protective ventilation).
 
 ## Connections
 
-It cites Levine et al. (2008), LIT-tmp0xw48, as the landmark study and
+It cites Levine et al. (2008), [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md), as the landmark study and
 Jaber et al. (2011, AJRCCM) and Hooijman et al. (2015) as confirming
 time-dependent atrophy; of Levine's results it restates only that disuse
 atrophy developed under controlled ventilation, with no numbers, so it
 stands in for the frame that grew from the study, not for the study. Its
 two-sided account extends Jaber, Jung, Matecki & Petrof (2011),
-LIT-tmp0huzr (THEORY-tmp2eczh), who left the optimal effort open.
+[LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md) ([THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md)), who left the optimal effort open.
 
 ## Bearing on the record
 
-- **CLAIM-600.** Qualifies the condition that the party could do the work
+- **[CLAIM-600](../claims.d/CLAIM-600.md).** Qualifies the condition that the party could do the work
   and did it throughout: what keeps the capacity is a band of effort.
   Too little work leads to atrophy; too much may injure. The claim states
   only a lower bound.
-- **CLAIM-602.** NAVA is a worked example of supply that covers only what
+- **[CLAIM-602](../claims.d/CLAIM-602.md).** NAVA is a worked example of supply that covers only what
   the party cannot do: assist proportional to the party's own effort, so
   it cannot displace that effort. The connection is the filer's, not the
   authors', and its benefit is untested.
-- **CLAIM-558.** Consistent: disuse atrophy that grows with time, slowed by
-  kept effort; adds nothing beyond THEORY-tmp2eczh.
-- **CLAIM-597, CLAIM-603, CLAIM-604.** None.
-- **QUESTION-398.** None directly; it is about keeping capacity during
+- **[CLAIM-558](../claims.d/CLAIM-558.md).** Consistent: disuse atrophy that grows with time, slowed by
+  kept effort; adds nothing beyond [THEORY-tmp2eczh](../theory.d/THEORY-tmp2eczh.md).
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-604](../claims.d/CLAIM-604.md).** None.
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** None directly; it is about keeping capacity during
   support, not about withdrawal.
-- Filed: THEORY-tmpfuiq1. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpfuiq1](../theory.d/THEORY-tmpfuiq1.md). No instruction for machine-learning practice.
 
 ## Limitations
 

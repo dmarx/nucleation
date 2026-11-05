@@ -10,8 +10,8 @@ status_note: >-
   submitted-version records at ULB DI-fusion and the University of
   Birmingham research portal were fetched and offered no file. Semantic
   Scholar's open-access link is to a different work, Alía and Esteban
-  (2000), LIT-tmp9wpue. Unpaywall not used, since it requires an email
-  address. Shah, Hart and Kaltsakas (2024), LIT-tmpujjvl, stand in for its
+  (2000), [LIT-tmp9wpue](LIT-tmp9wpue.md). Unpaywall not used, since it requires an email
+  address. Shah, Hart and Kaltsakas (2024), [LIT-tmpujjvl](LIT-tmpujjvl.md), stand in for its
   classification, definition of failure and readiness test; Alía and
   Esteban (2000) for the trials behind its recommendations on abrupt and
   gradual withdrawal; neither for its epidemiology tables or its grading
@@ -91,20 +91,20 @@ Boles, J.-M., Bion, J., Connors, A., Herridge, M., Marsh, B., Melot, C., Pearl, 
 Registered as the clinical standard for withdrawing support: readiness is
 judged not from predictors but by a short, observed, reversible trial
 without the support, and success only after a window following real
-withdrawal. It bears on QUESTION-398 (the spontaneous breathing trial
+withdrawal. It bears on [QUESTION-398](../questions.d/QUESTION-398.md) (the spontaneous breathing trial
 measures, at the patient's present state, what withdrawal would do) and on
-CLAIM-600's requirement that persistence after withdrawal be observed, and
+[CLAIM-600](../claims.d/CLAIM-600.md)'s requirement that persistence after withdrawal be observed, and
 on its condition that the threat the support stood in for has gone, which
 matches the precondition that the cause of respiratory failure has
 resolved.
 
-**The neighbours.** Shah, Hart and Kaltsakas (2024), LIT-tmpujjvl, read in
-NOTE-tmpzip9r, restate the consensus' three groups, its definition of
+**The neighbours.** Shah, Hart and Kaltsakas (2024), [LIT-tmpujjvl](LIT-tmpujjvl.md), read in
+[NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md), restate the consensus' three groups, its definition of
 weaning failure and its aggregate failure rate of 31%, citing it directly,
 and report later cohorts; they do not give the jury's grading or its
 epidemiology tables, and their group frequencies are from later studies.
-Alía and Esteban (2000), LIT-tmp9wpue, read in NOTE-tmp2yypk, predate the
+Alía and Esteban (2000), [LIT-tmp9wpue](LIT-tmp9wpue.md), read in [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md), predate the
 consensus and summarize the randomized trials its recommendations on
 initial weaning and on weaning after a failed trial drew on; they do not
 stand in for the classification. The accounts filed from them,
-THEORY-tmpsmtmt and THEORY-tmp6pn8h, name this paper as the original.
+[THEORY-tmpsmtmt](../theory.d/THEORY-tmpsmtmt.md) and [THEORY-tmp6pn8h](../theory.d/THEORY-tmp6pn8h.md), name this paper as the original.

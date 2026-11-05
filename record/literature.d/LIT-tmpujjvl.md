@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpzip9r) from the open-access full text in
+  read in full 2026-11-05 ([NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md)) from the open-access full text in
   Europe PMC (PMC11629167, CC BY-NC 4.0); worth reading as a current
   account of how weaning is tested and classified, restating the 2007
   consensus' three groups and definition of failure, and for how badly
@@ -59,7 +59,7 @@ Shah, N. M., Hart, N. & Kaltsakas, G. (2024). Prolonged weaning from mechanical 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpzip9r. Sections are the review's.*
+*From the reading, [NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md). Sections are the review's.*
 
 - **The groups.** Prolonged weaning patients "are those who fail at least
   three weaning attempts or require >7 days of weaning after the first
@@ -77,12 +77,12 @@ Shah, N. M., Hart, N. & Kaltsakas, G. (2024). Prolonged weaning from mechanical 
 
 ## Standing in the record
 
-Filed as the stand-in for Boles et al. (2007), LIT-tmp1tvad, on the
+Filed as the stand-in for Boles et al. (2007), [LIT-tmp1tvad](LIT-tmp1tvad.md), on the
 classification, the definition of weaning failure and the trial as the
 readiness test, which it restates from the consensus; its numbers are from
-later work. For the record it is a working instance of QUESTION-398's
+later work. For the record it is a working instance of [QUESTION-398](../questions.d/QUESTION-398.md)'s
 withdrawal measure: a repeated, matched, reversible probe of what removing
-support does at the present state. It supports CLAIM-600's requirement to
+support does at the present state. It supports [CLAIM-600](../claims.d/CLAIM-600.md)'s requirement to
 observe persistence after withdrawal, and its relapse figure is the
 clinic's case of slow reversion mimicking persistence. Those who stay
-dependent are the case CLAIM-597 names. Filed from it: THEORY-tmpsmtmt.
+dependent are the case [CLAIM-597](../claims.d/CLAIM-597.md) names. Filed from it: [THEORY-tmpsmtmt](../theory.d/THEORY-tmpsmtmt.md).
