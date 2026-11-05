@@ -161,11 +161,11 @@ they review favour that answer and, within it, more help rather than less.
 The record held nothing on tutoring, worked examples, fading or the
 expertise-reversal effect before this reading; the scaffolding it held is
 evolutionary. Its other learning-by-doing ground is Azam, Devarajan and
-O'Connell's model of learning to tax under aid (THEORY-1483), which grounds
-CLAIM-602; this is the same premise in an individual learner. The cost of
+O'Connell's model of learning to tax under aid ([THEORY-1483](../theory.d/THEORY-1483.md)), which grounds
+[CLAIM-602](../claims.d/CLAIM-602.md); this is the same premise in an individual learner. The cost of
 withholding, floundering, is at a learner's scale what Pritchett, Woolcock
-and Andrews call premature load bearing in states (LIT-2164, THEORY-1463).
-Rupert's case against extended cognition (LIT-422, THEORY-528) is the
+and Andrews call premature load bearing in states ([LIT-2164](../literature.d/LIT-2164.md), [THEORY-1463](../theory.d/THEORY-1463.md)).
+Rupert's case against extended cognition ([LIT-422](../literature.d/LIT-422.md), [THEORY-528](../theory.d/THEORY-528.md)) is the
 record's one other mention of the generation effect. Wood, Bruner and Ross
 (1976), registered the same day and unread, are not cited here; Griffith,
 Redding and Van Reenen (2004), read the same day, carry the same premise,
@@ -174,7 +174,7 @@ industries.
 
 ## Bearing on the record
 
-- **CLAIM-602** (capacity-first order of supply): support in an
+- **[CLAIM-602](../claims.d/CLAIM-602.md)** (capacity-first order of supply): support in an
   independent domain. The tutor's rule is capacity-first, under the same
   premise that skill is "acquired and strengthened through use"
   (p. 250), and its success is judged without the tutor. It qualifies the
@@ -193,27 +193,27 @@ industries.
   the students explained the worked steps and got feedback on their
   explanations, which is (c) again. In a learner, then, supply first that
   is withdrawn as competence grows, with the learner working on what is
-  supplied, did not lower what was kept on the post-test; CLAIM-602's harm
+  supplied, did not lower what was kept on the post-test; [CLAIM-602](../claims.d/CLAIM-602.md)'s harm
   from supply first may need the supply to persist, to be withdrawn
   without regard to capacity, or to leave the party nothing to do.
-- **CLAIM-600** (when transient support can be withdrawn safely): supports
+- **[CLAIM-600](../claims.d/CLAIM-600.md)** (when transient support can be withdrawn safely): supports
   the condition that the party could do the work and did it throughout,
   and qualifies it: early withdrawal is not safe by default, and withdrawal
   is graded with competence, not one event.
-- **CLAIM-603** (one-way supply and loss): qualifies on incentives. Hint
+- **[CLAIM-603](../claims.d/CLAIM-603.md)** (one-way supply and loss): qualifies on incentives. Hint
   requests lower the mastery estimate and bring more problems (pp. 250,
   255), a designed cost on asking; students know it, "although that does
   not always stop them" (p. 255). It bears on the Samaritan-style
   incentive, not on the Black Queen mechanism.
-- **QUESTION-398**: an operational analogue. Promotion at P(known) ≥ 0.95
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: an operational analogue. Promotion at P(known) ≥ 0.95
   is a withdrawal rule set on measured capacity, and the post-test without
   the tutor is the persistence check. The switch-point problem (p. 261) is
   the analogue of where dependence falls to zero; the paper does not
   measure dependence by withdrawing support at matched states.
-- **CLAIM-597, CLAIM-558, CLAIM-604, CLAIM-601**: nothing directly. What is
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-558](../claims.d/CLAIM-558.md), [CLAIM-604](../claims.d/CLAIM-604.md), [CLAIM-601](../claims.d/CLAIM-601.md)**: nothing directly. What is
   supplied here is information, internalized, not ongoing upkeep; decay with
   disuse is not studied; no threshold or hysteresis in skill is measured.
-- Filed from it: THEORY-tmpngvdn.
+- Filed from it: [THEORY-tmpngvdn](../theory.d/THEORY-tmpngvdn.md).
 
 ## Limitations
 

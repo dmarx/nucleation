@@ -93,7 +93,7 @@ additional task of monitoring automation" (§2.4, citing Lee and Seppelt).
 
 ## Connections
 
-- **Bainbridge (1983)**, LIT-tmph5vta, unread. Cited three times as [7]: for
+- **Bainbridge (1983)**, [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), unread. Cited three times as [7]: for
   the general irony, for unhelpful restructuring and for changed strategies.
   It does not restate her ironies on skill, the hand-back at failure or her
   remedies, and its polarization finding is credited to others (Lee and
@@ -105,13 +105,13 @@ additional task of monitoring automation" (§2.4, citing Lee and Seppelt).
 
 ## Bearing on the record
 
-- **CLAIM-600** (Proposed): weak qualification of its third condition.
+- **[CLAIM-600](../claims.d/CLAIM-600.md)** (Proposed): weak qualification of its third condition.
   Support that takes the easy share leaves the party the hard residue and an
   added monitoring task, so "the party could do the work and did it throughout" can hold for
   the hard part while the easy part is no longer done.
-- No bearing on CLAIM-558, CLAIM-602 or QUESTION-398: there is nothing here on
+- No bearing on [CLAIM-558](../claims.d/CLAIM-558.md), [CLAIM-602](../claims.d/CLAIM-602.md) or [QUESTION-398](../questions.d/QUESTION-398.md): there is nothing here on
   capacity over time.
-- Filed from this reading: THEORY-tmp6uywt.
+- Filed from this reading: [THEORY-tmp6uywt](../theory.d/THEORY-tmp6uywt.md).
 
 ## Limitations
 

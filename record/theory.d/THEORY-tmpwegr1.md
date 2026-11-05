@@ -15,12 +15,12 @@ date: '2026-11-05'
 source:
 - LIT-tmpzbgxy
 summary: >-
-  Griffith, Redding and Van Reenen (2004), LIT-tmpzbgxy, read in
-  NOTE-tmp7qron, the robustness section skimmed. Proposed: a correlational
+  Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](../literature.d/LIT-tmpzbgxy.md), read in
+  [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md), the robustness section skimmed. Proposed: a correlational
   panel whose causal reading rests on lagged R&D being predetermined, with
   the key interaction significant at 10% in the base specification and
   stronger in the adjusted ones. It stands in, for this core claim only,
-  for Cohen and Levinthal (1990), LIT-tmpwa0ib. It says nothing about what
+  for Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md). It says nothing about what
   happens when own R&D stops.
 ---
 <!-- inactive-ok-file: LIT-tmpwa0ib — Unavailable; the unread original this reading stands in for -->
@@ -29,9 +29,9 @@ summary: >-
 
 ## Source
 
-Griffith, Redding and Van Reenen (2004), LIT-tmpzbgxy; read in
-NOTE-tmp7qron. A stand-in, for the core claim only, for Cohen and
-Levinthal (1990), LIT-tmpwa0ib.
+Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](../literature.d/LIT-tmpzbgxy.md); read in
+[NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md). A stand-in, for the core claim only, for Cohen and
+Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md).
 
 ## What was actually shown
 

@@ -86,7 +86,7 @@ which the support fails and hands the work back.
 
 ## Connections
 
-- **Bainbridge (1983)**, LIT-tmph5vta, unread. This is the closest of the
+- **Bainbridge (1983)**, [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), unread. This is the closest of the
   three stand-ins: it restates the deskilling irony, the monitoring problem,
   the operator left the hard cases, and the hand-back at failure. It does
   not restate her wording, her remedies or any numbers, and its two quoted
@@ -99,18 +99,18 @@ which the support fails and hands the work back.
 
 ## Bearing on the record
 
-- **CLAIM-600** (Proposed): qualifies. Withdrawal at the support's failure is
+- **[CLAIM-600](../claims.d/CLAIM-600.md)** (Proposed): qualifies. Withdrawal at the support's failure is
   unplanned and comes at the hardest case, unlike the planned exit the claim
   considers.
-- **CLAIM-602** (Proposed): supports by analogy only. Ahn's AI-free phase
+- **[CLAIM-602](../claims.d/CLAIM-602.md)** (Proposed): supports by analogy only. Ahn's AI-free phase
   first, support after, is the claim's order rule (capacity first, supply
   after) applied to learning, proposed, not tested.
-- **CLAIM-558** (Proposed): supports part 3 qualitatively, in Ahn's wording:
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (Proposed): supports part 3 qualitatively, in Ahn's wording:
   the rare failure case is practised outside operation, by simulation. No
   rates.
-- **QUESTION-398** (Open): qualifies. Withdrawal by the support's failure
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (Open): qualifies. Withdrawal by the support's failure
   arrives at the state least favourable to the party.
-- Filed from this reading: THEORY-tmpwcxn9.
+- Filed from this reading: [THEORY-tmpwcxn9](../theory.d/THEORY-tmpwcxn9.md).
 
 ## Limitations
 

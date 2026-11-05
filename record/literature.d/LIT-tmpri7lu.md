@@ -8,7 +8,7 @@ status_note: >-
   which hold no full text (the Europe PMC record, PMID 932126, has no
   abstract). Other copies circulating online were not used, as none is
   the publisher's or the authors'. No neighbour was read for it:
-  Koedinger and Aleven (2007), LIT-tmpm7tp8, read the same day on support
+  Koedinger and Aleven (2007), [LIT-tmpm7tp8](LIT-tmpm7tp8.md), read the same day on support
   that fades, do not cite it and carry none of its results.
 title: 'The role of tutoring in problem solving'
 version: 1
@@ -45,7 +45,7 @@ summary: >-
   tutoring young children through a construction task, in which the
   tutor takes over what the child cannot yet do and hands it back as the
   child becomes able. Here as the classic account of support that fades
-  with the learner's capability, beside CLAIM-602 and CLAIM-600.
+  with the learner's capability, beside [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-600](../claims.d/CLAIM-600.md).
 ---
 <!-- inactive-ok-file: CLAIM-600 CLAIM-602 — Proposed; cited from the filing of Wood, Bruner and Ross (1976) as open -->
 
@@ -65,9 +65,9 @@ Wood, D., Bruner, J. S. & Ross, G. (1976). The role of tutoring in problem solvi
 Unavailable: no lawful copy reached on 2026-11-05 (the publisher's page
 stopped at a Cloudflare challenge). It was chosen as the classic account
 of tutoring support that is withdrawn as the learner's competence grows,
-the case CLAIM-602's order of supply and capacity would most want from
+the case [CLAIM-602](../claims.d/CLAIM-602.md)'s order of supply and capacity would most want from
 developmental psychology. No neighbour stands in for it. Koedinger and
-Aleven (2007), LIT-tmpm7tp8, read the same day, cover support that fades
+Aleven (2007), [LIT-tmpm7tp8](LIT-tmpm7tp8.md), read the same day, cover support that fades
 in tutored problem solving but do not cite Wood et al., and nothing filed
 from that reading is drawn from this article. A copy the owner supplies
 would return it to reading.

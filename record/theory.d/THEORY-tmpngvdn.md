@@ -17,14 +17,14 @@ date: '2026-11-05'
 source:
 - LIT-tmpm7tp8
 summary: >-
-  Koedinger and Aleven (2007), LIT-tmpm7tp8, read in full in
-  NOTE-tmp607yf. Proposed: a narrative review by the Cognitive Tutors'
+  Koedinger and Aleven (2007), [LIT-tmpm7tp8](../literature.d/LIT-tmpm7tp8.md), read in full in
+  [NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md). Proposed: a narrative review by the Cognitive Tutors'
   developers, whose component results mostly come without effect sizes,
   and whose fading result rests on one conference paper. It says that
   "within a context of tutored problem solving, information should be
   withheld very sparingly" (p. 255), not that help should be given in
-  general, and it gives no tested switch point. It bears on CLAIM-602 and
-  CLAIM-600 as the case of capacity-first support in a learner.
+  general, and it gives no tested switch point. It bears on [CLAIM-602](../claims.d/CLAIM-602.md) and
+  [CLAIM-600](../claims.d/CLAIM-600.md) as the case of capacity-first support in a learner.
 ---
 <!-- inactive-ok-file: CLAIM-600 CLAIM-602 — Proposed; cited from the reading of Koedinger and Aleven (2007) as open -->
 
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Koedinger and Aleven (2007), LIT-tmpm7tp8; read in NOTE-tmp607yf.
+Koedinger and Aleven (2007), [LIT-tmpm7tp8](../literature.d/LIT-tmpm7tp8.md); read in [NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md).
 
 ## What was actually shown
 

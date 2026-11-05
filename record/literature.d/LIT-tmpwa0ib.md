@@ -10,8 +10,8 @@ status_note: >-
   and Learning: The Two Faces of R&D", was sought as a neighbour: its only
   author-associated copy, on ResearchGate, returned HTTP 403 (a bot
   block), not retried. Read instead, as a stand-in for the core claim
-  only: Griffith, Redding and Van Reenen (2004), LIT-tmpzbgxy, read in
-  NOTE-tmp7qron, which builds on the 1989 paper and estimates R&D's
+  only: Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](LIT-tmpzbgxy.md), read in
+  [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md), which builds on the 1989 paper and estimates R&D's
   absorptive "second face" across OECD industries. It does not stand in
   for lockout, cumulativeness or path dependence, for firms that stop or
   outsource R&D, or for Cohen and Levinthal's own business-unit evidence.
@@ -48,10 +48,10 @@ summary: >-
   use outside knowledge, and argues that it rests on the firm's prior
   related knowledge and so on its own R&D. Here as the organizational
   account of capacity to use outside supply built by doing the work,
-  beside CLAIM-602 and CLAIM-600. The core claim that own R&D raises the
+  beside [CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-600](../claims.d/CLAIM-600.md). The core claim that own R&D raises the
   ability to assimilate others' discoveries is carried, at the level of
   country-industries, by Griffith, Redding and Van Reenen (2004),
-  LIT-tmpzbgxy.
+  [LIT-tmpzbgxy](LIT-tmpzbgxy.md).
 ---
 <!-- inactive-ok-file: CLAIM-600 CLAIM-602 THEORY-tmpwegr1 — Proposed or new; cited from the filing of Cohen and Levinthal (1990) as open -->
 
@@ -66,7 +66,7 @@ Cohen, W. M. & Levinthal, D. A. (1990). Absorptive Capacity: A New Perspective o
 - **Own R&D raises the uptake of outside knowledge.** Across twelve OECD
   countries' manufacturing industries, 1974–1990, industries further
   behind the productivity frontier grew faster the more R&D they did
-  (Griffith, Redding and Van Reenen 2004, LIT-tmpzbgxy; THEORY-tmpwegr1).
+  (Griffith, Redding and Van Reenen 2004, [LIT-tmpzbgxy](LIT-tmpzbgxy.md); [THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md)).
 - Nothing else of the article's is carried.
 
 ## Standing in the record
@@ -74,10 +74,10 @@ Cohen, W. M. & Levinthal, D. A. (1990). Absorptive Capacity: A New Perspective o
 Unavailable: closed access, no lawful open copy found on 2026-11-05. It
 was chosen as the organizational account of why a party that stops doing
 its own work loses the ability to use what others supply, a gap the
-supplied-maintenance filing left beside CLAIM-602.
+supplied-maintenance filing left beside [CLAIM-602](../claims.d/CLAIM-602.md).
 
 **The stand-in, and how far it goes.** Griffith, Redding and Van Reenen
-(2004), LIT-tmpzbgxy, read in NOTE-tmp7qron, take the "two faces" of R&D
+(2004), [LIT-tmpzbgxy](LIT-tmpzbgxy.md), read in [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md), take the "two faces" of R&D
 from Cohen and Levinthal's 1989 paper and estimate the second, absorptive
 face. They carry the core claim, that doing R&D in a field raises the
 ability to assimilate others' discoveries, with industry-level evidence.

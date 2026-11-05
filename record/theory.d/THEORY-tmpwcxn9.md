@@ -16,8 +16,8 @@ date: '2026-11-05'
 source:
 - LIT-tmp09gwf
 summary: >-
-  Ahn (2025), LIT-tmp09gwf, read in full in NOTE-tmpxhylb. The ironies are
-  Ahn's paraphrase of Bainbridge (1983), LIT-tmph5vta, which was not read:
+  Ahn (2025), [LIT-tmp09gwf](../literature.d/LIT-tmp09gwf.md), read in full in [NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md). The ironies are
+  Ahn's paraphrase of Bainbridge (1983), [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), which was not read:
   he quotes no sentence of hers and gives no page, so this is a THEORY about
   how she is read, and nothing here is put in her name. The remedies are his
   proposals for medical curricula, untested. A single-author commentary with
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Ahn (2025), LIT-tmp09gwf; read in NOTE-tmpxhylb.
+Ahn (2025), [LIT-tmp09gwf](../literature.d/LIT-tmp09gwf.md); read in [NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md).
 
 ## What was actually shown
 

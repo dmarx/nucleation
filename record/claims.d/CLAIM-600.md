@@ -304,9 +304,9 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
 
 Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant.
 
-- **The third condition is qualified in its unit.** Under automation the operator keeps doing the job while the subtask the automation performs decays (Macnamara et al., NOTE-tmpfgu7k). The condition that the party did the work throughout must hold for each subtask, not only for the role.
-- **A withdrawal the claim did not consider.** Automation hands work back at its failures, when the system is least predictable, in Ahn's reading of Bainbridge (NOTE-tmpxhylb; Bainbridge's own text, LIT-tmph5vta, was not reached). That is an unplanned withdrawal at the hardest case, unlike the planned exits the claim's conditions assume.
-- **Timing and grading.** Koedinger and Aleven (NOTE-tmp607yf) find that early withholding is not safe by default, and their tutors withdraw help gradually as competence is shown.
-- **The flux is not enough on its own.** Griffith et al. (NOTE-tmp7qron) find outside technology stays available but is used only in proportion to a party's own R&D.
+- **The third condition is qualified in its unit.** Under automation the operator keeps doing the job while the subtask the automation performs decays (Macnamara et al., [NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md)). The condition that the party did the work throughout must hold for each subtask, not only for the role.
+- **A withdrawal the claim did not consider.** Automation hands work back at its failures, when the system is least predictable, in Ahn's reading of Bainbridge ([NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md); Bainbridge's own text, [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), was not reached). That is an unplanned withdrawal at the hardest case, unlike the planned exits the claim's conditions assume.
+- **Timing and grading.** Koedinger and Aleven ([NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md)) find that early withholding is not safe by default, and their tutors withdraw help gradually as competence is shown.
+- **The flux is not enough on its own.** Griffith et al. ([NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md)) find outside technology stays available but is used only in proportion to a party's own R&D.
 
 No status changes.

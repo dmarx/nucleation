@@ -198,11 +198,11 @@ C = 0.769, an output of 1.15, more than demand.
 
 Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant.
 
-- **Supported from tutoring, with three qualifications.** Koedinger and Aleven's cognitive tutors (NOTE-tmp607yf) withhold information at first and add it only as needed, on the stated ground that learning-by-doing rules are strengthened through use. That is this claim's capacity-first rule.
+- **Supported from tutoring, with three qualifications.** Koedinger and Aleven's cognitive tutors ([NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md)) withhold information at first and add it only as needed, on the stated ground that learning-by-doing rules are strengthened through use. That is this claim's capacity-first rule.
   - Help the learner controls turns into substitution: learners jump to the bottom-out hint that gives the answer.
   - Withholding has its own cost, floundering. In tutored practice, too little help is the more common error.
   - Supplied work can teach when learners explain it to themselves. Faded worked examples beat the standard tutor.
-- **Supported in spirit, at industry level.** In Griffith, Redding and Van Reenen (NOTE-tmp7qron), industries absorb frontier technology in proportion to their own R&D. This stands in for Cohen and Levinthal's absorptive capacity (LIT-tmpwa0ib, Unavailable).
-- **An instance in automation.** Macnamara et al. (NOTE-tmpfgu7k) report that cognitive skills decline more than procedural ones when automation does a subtask. The loss is selective by subtask.
+- **Supported in spirit, at industry level.** In Griffith, Redding and Van Reenen ([NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md)), industries absorb frontier technology in proportion to their own R&D. This stands in for Cohen and Levinthal's absorptive capacity ([LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md), Unavailable).
+- **An instance in automation.** Macnamara et al. ([NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md)) report that cognitive skills decline more than procedural ones when automation does a subtask. The loss is selective by subtask.
 
 No status changes.

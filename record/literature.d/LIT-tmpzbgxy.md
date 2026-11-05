@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-05 (NOTE-tmp7qron) from the published version posted on
+  read 2026-11-05 ([NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md)) from the published version posted on
   co-author Stephen Redding's Princeton page, robustness section skimmed;
   worth reading as the first systematic cross-country industry estimate
   of R&D's absorptive "second face", and as a stand-in, for the core claim
-  only, for Cohen and Levinthal (1990), LIT-tmpwa0ib. In twelve OECD
+  only, for Cohen and Levinthal (1990), [LIT-tmpwa0ib](LIT-tmpwa0ib.md). In twelve OECD
   countries' manufacturing industries, 1974–1990, R&D intensity
   interacted with distance to the frontier raises productivity growth,
   so that for a country at about half the frontier's productivity over
@@ -57,8 +57,8 @@ summary: >-
   absorption as well as of innovation. For Finland, at about half the
   frontier's productivity, 54% of R&D's estimated effect is through
   technology transfer, against 14% for the United States. Read in
-  NOTE-tmp7qron; filed from it: THEORY-tmpwegr1. A stand-in, for the core
-  claim only, for Cohen and Levinthal (1990), LIT-tmpwa0ib.
+  [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md); filed from it: [THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md). A stand-in, for the core
+  claim only, for Cohen and Levinthal (1990), [LIT-tmpwa0ib](LIT-tmpwa0ib.md).
 ---
 <!-- inactive-ok-file: LIT-tmpwa0ib THEORY-tmpwegr1 CLAIM-600 CLAIM-602 — Unavailable, Proposed or new; cited from the reading of Griffith, Redding and Van Reenen (2004) as open -->
 
@@ -68,7 +68,7 @@ Griffith, R., Redding, S. & Van Reenen, J. (2004). Mapping the Two Faces of R&D:
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp7qron. Page numbers are the journal's.*
+*From the reading, [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md). Page numbers are the journal's.*
 
 - **The mechanism, asserted.** Tacit knowledge is "hard to acquire without
   direct investigation. By actively engaging in R&D in a particular
@@ -88,9 +88,9 @@ Griffith, R., Redding, S. & Van Reenen, J. (2004). Mapping the Two Faces of R&D:
 ## Standing in the record
 
 Here as its own work and as the stand-in, for the core claim only, for
-Cohen and Levinthal (1990), LIT-tmpwa0ib. It bears on CLAIM-600 and
-CLAIM-602: outside knowledge stays available, yet how much of it a party
+Cohen and Levinthal (1990), [LIT-tmpwa0ib](LIT-tmpwa0ib.md). It bears on [CLAIM-600](../claims.d/CLAIM-600.md) and
+[CLAIM-602](../claims.d/CLAIM-602.md): outside knowledge stays available, yet how much of it a party
 can use scales with its own work in the field, so an available flux is not
 enough without the party's own doing. No R&D is ever withdrawn in the
 sample, so it says nothing on what happens to the ability to absorb once
-own work stops. Filed from it: THEORY-tmpwegr1.
+own work stops. Filed from it: [THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md).

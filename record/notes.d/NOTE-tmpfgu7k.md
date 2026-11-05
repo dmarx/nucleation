@@ -117,7 +117,7 @@ succeeds, the performer has no signal of the loss.
 
 ## Connections
 
-- **Bainbridge (1983)**, LIT-tmph5vta, unread: the paper does not cite her.
+- **Bainbridge (1983)**, [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), unread: the paper does not cite her.
   Of her ironies, as the other neighbours restate them, it carries only the
   operator's skill decaying while the automation does the work, and the
   hand-back at failure in one sentence. It does not carry the operator left
@@ -126,38 +126,38 @@ succeeds, the performer has no signal of the loss.
   and no evidence; this paper gives no ironies and the evidence, second-hand.
 - **Simkute, Tankelevitch et al. (2024)**, the third stand-in, say nothing on
   skill.
-- **LIT-1059** (Risko and Gilbert, NOTE-887; THEORY-343): cited here for
+- **[LIT-1059](../literature.d/LIT-1059.md)** (Risko and Gilbert, [NOTE-887](NOTE-887.md); [THEORY-343](../theory.d/THEORY-343.md)): cited here for
   automation-induced complacency. Their review names skill decay among the
   costs of offloading; this paper says why the decay is not seen.
-- **LIT-2079** (Tatel; THEORY-1424): the decay rates the record holds. This
+- **[LIT-2079](../literature.d/LIT-2079.md)** (Tatel; [THEORY-1424](../theory.d/THEORY-1424.md)): the decay rates the record holds. This
   paper gives none. Its Ackerman and Tatel (2023) is a methods paper in the
   Journal of Experimental Psychology: Applied, doi:10.1037/xap0000503, not
   held, and not the meta-analysis.
 
 ## Bearing on the record
 
-- **CLAIM-558** (Proposed): supports parts 1 and 3 and extends them. Part 1,
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (Proposed): supports parts 1 and 3 and extends them. Part 1,
   decay with disuse, larger for cognitive tasks. Part 3, the FAA's manual
   flying on most flights is practice kept up beside the support. The
   extension: disuse need not be rare operation; it can sit inside daily
   operation, where the support performs the subtask. Its concealment claim
-  supports the claim's tie to CLAIM-414. No new rate.
-- **CLAIM-602** (Proposed): supports, as an instance. Support does the work
+  supports the claim's tie to [CLAIM-414](../claims.d/CLAIM-414.md). No new rate.
+- **[CLAIM-602](../claims.d/CLAIM-602.md)** (Proposed): supports, as an instance. Support does the work
   first and the capacity at that work declines; the loss is selective,
   falling on the subtask the support performs, and on its cognitive part
   more than its procedural part. No recovery data.
-- **CLAIM-600** (Proposed): qualifies its third condition. A party can do the
+- **[CLAIM-600](../claims.d/CLAIM-600.md)** (Proposed): qualifies its third condition. A party can do the
   job throughout without doing the part the support does, and the support is
   then withdrawn not by plan but at its own failure, at the hardest case.
-- **CLAIM-603** (Proposed): weak support. Reliance pays while the aid is
+- **[CLAIM-603](../claims.d/CLAIM-603.md)** (Proposed): weak support. Reliance pays while the aid is
   accurate, with a crossover near 70% accuracy; the loss is punished only
   when the supply withdraws.
-- **CLAIM-414** (Active): an instance. Matched performance with the support
+- **[CLAIM-414](../claims.d/CLAIM-414.md)** (Active): an instance. Matched performance with the support
   conceals a difference in skill that withdrawing the support exposes.
-- **QUESTION-398** (Open): qualifies. Withdrawal by hand-back is not at a
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (Open): qualifies. Withdrawal by hand-back is not at a
   chosen state but at the hardest one, so independence measured at planned
   withdrawal would understate the risk of the unplanned kind.
-- Filed from this reading: THEORY-tmpv1dwq.
+- Filed from this reading: [THEORY-tmpv1dwq](../theory.d/THEORY-tmpv1dwq.md).
 
 ## Limitations
 

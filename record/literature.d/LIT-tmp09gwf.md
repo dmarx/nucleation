@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpxhylb) from the CC BY-NC version of record
+  read in full 2026-11-05 ([NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md)) from the CC BY-NC version of record
   in Europe PMC (PMC12683271); worth reading as the closest open restatement
   of Bainbridge's ironies of automation reached, mapped onto medical
   education with large language models, each paired with a remedy. A
@@ -57,7 +57,7 @@ Ahn, S. (2025). From Bainbridge to bedside: applying automation insights to medi
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpxhylb. Sections are the article's. Every point
+*From the reading, [NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md). Sections are the article's. Every point
 below attributed to Bainbridge is Ahn's paraphrase.*
 
 - **The central irony, as Ahn reads it** (§4): automation "often takes over
@@ -75,14 +75,14 @@ below attributed to Bainbridge is Ahn's paraphrase.*
 
 ## Standing in the record
 
-Read as a stand-in for Bainbridge (1983), LIT-tmph5vta, and the closest of
+Read as a stand-in for Bainbridge (1983), [LIT-tmph5vta](LIT-tmph5vta.md), and the closest of
 the three reached. It stands in poorly: it gives Bainbridge's ironies in its
 own words, with no quotation and no page, and its quoted phrases
 "deskilling" and "worst possible time" are not located in her text. Nothing
 in the record is put in Bainbridge's name on its strength. Filed from it:
-THEORY-tmpwcxn9, which attributes the ironies to Ahn's reading of her.
+[THEORY-tmpwcxn9](../theory.d/THEORY-tmpwcxn9.md), which attributes the ironies to Ahn's reading of her.
 
 Its sequencing remedy, core skills first and the support after, is the
-order CLAIM-602 states, applied to learning; its simulated-failure remedy is
-practice for the rare case outside operation, CLAIM-558's third part, in
+order [CLAIM-602](../claims.d/CLAIM-602.md) states, applied to learning; its simulated-failure remedy is
+practice for the rare case outside operation, [CLAIM-558](../claims.d/CLAIM-558.md)'s third part, in
 Ahn's wording.

@@ -18,13 +18,13 @@ date: '2026-11-05'
 source:
 - LIT-tmpbg80l
 summary: >-
-  Macnamara et al. (2024), LIT-tmpbg80l, read in full in NOTE-tmpfgu7k. A
+  Macnamara et al. (2024), [LIT-tmpbg80l](../literature.d/LIT-tmpbg80l.md), read in full in [NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md). A
   theoretical perspective with no data of its own. The decay with disuse,
   and its being larger for cognitive tasks, are the cited literature's
   (Arthur et al.; Ackerman and Tatel); the selective loss in pilots is
   Casner et al. (2014), reported second-hand, without sample or sizes; the
   concealment is the authors' argument, not a finding. Read as a stand-in
-  for Bainbridge (1983), LIT-tmph5vta, on the skill-decay irony only; the
+  for Bainbridge (1983), [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), on the skill-decay irony only; the
   paper does not cite her. It does not give a rate, a recovery time, or any
   test of its extension to AI assistants.
 ---
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Macnamara, Berber, Çavuşoğlu, Krupinski, Nallapareddy, Nelson, Smith,
-Wilson-Delfosse and Ray (2024), LIT-tmpbg80l; read in NOTE-tmpfgu7k.
+Wilson-Delfosse and Ray (2024), [LIT-tmpbg80l](../literature.d/LIT-tmpbg80l.md); read in [NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md).
 
 ## What was actually shown
 
@@ -58,7 +58,7 @@ data." It assembles three premises and argues from them.
 ## What this does not say
 
 - How fast the skill decays, or how long it takes to recover. The record's
-  rates are Tatel's (LIT-2079), for motor procedures with infrequent use.
+  rates are Tatel's ([LIT-2079](../literature.d/LIT-2079.md)), for motor procedures with infrequent use.
 - That AI assistants cause more decay than automation. The paper predicts
   it and says no research has tested it.
 - That Bainbridge said any of this. The paper does not cite her.

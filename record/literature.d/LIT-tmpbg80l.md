@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmpfgu7k) from the CC BY version of record in
+  read in full 2026-11-05 ([NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md)) from the CC BY version of record in
   Europe PMC (PMC11239631); worth reading as a clear statement of how support
   that does part of a task wears down the operator's skill at that part while
   the task goes on, and why the loss stays hidden until the support is
@@ -64,7 +64,7 @@ Macnamara, B. N., Berber, I., Çavuşoğlu, M. C., Krupinski, E. A., Nallaparedd
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpfgu7k. Sections are the paper's.*
+*From the reading, [NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md). Sections are the paper's.*
 
 - **Partial disuse.** "disuse can also refer to ceasing subcomponents of a
   task, such as when automation is used in place of the person applying
@@ -82,16 +82,16 @@ Macnamara, B. N., Berber, I., Çavuşoğlu, M. C., Krupinski, E. A., Nallaparedd
 
 ## Standing in the record
 
-Read as a stand-in for Bainbridge (1983), LIT-tmph5vta, on one of her
+Read as a stand-in for Bainbridge (1983), [LIT-tmph5vta](LIT-tmph5vta.md), on one of her
 ironies only: the operator's skill decays while the automation does the
-work. It does not cite her. Filed from it: THEORY-tmpv1dwq.
+work. It does not cite her. Filed from it: [THEORY-tmpv1dwq](../theory.d/THEORY-tmpv1dwq.md).
 
-It extends CLAIM-558, whose disuse is rare operation: here the operator
+It extends [CLAIM-558](../claims.d/CLAIM-558.md), whose disuse is rare operation: here the operator
 does the job daily, and only the subtask the support performs goes unused.
-Its concealment claim instances CLAIM-414, and its account of the
+Its concealment claim instances [CLAIM-414](../claims.d/CLAIM-414.md), and its account of the
 hand-back, autopilots that "disengage and hand control to the pilots"
 outside normal parameters, is a withdrawal at failure rather than the
-planned withdrawal of CLAIM-600. It cites Risko and Gilbert (2016), held as
-LIT-1059, for automation-induced complacency, and Ackerman and Tatel (2023),
+planned withdrawal of [CLAIM-600](../claims.d/CLAIM-600.md). It cites Risko and Gilbert (2016), held as
+[LIT-1059](LIT-1059.md), for automation-induced complacency, and Ackerman and Tatel (2023),
 a methods paper on the retention literature, not held, which is not
-Tatel's meta-analysis (LIT-2079).
+Tatel's meta-analysis ([LIT-2079](LIT-2079.md)).

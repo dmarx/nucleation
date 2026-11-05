@@ -121,42 +121,42 @@ through catching up.
 
 It builds on Cohen and Levinthal's 1989 paper ("Cohen and Levinthal
 (1989)", fn. 1), and stands in, for the core claim only, for their 1990
-article, LIT-tmpwa0ib, which was not reached. Of that article's results it
+article, [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md), which was not reached. Of that article's results it
 restates, with evidence of its own, that doing R&D in a field raises the
 ability to assimilate others' discoveries. It does not restate, test or
 touch the article's firm-level argument, cumulativeness, path dependence
 or lockout, any firm that outsources or stops its R&D, or its 1975–77
 business-unit evidence. In the record, the nearest held work on
-organizational learning is March's exploration and exploitation (LIT-729,
-NOTE-581). Capability built by doing under transient protection is
-THEORY-919, the Napoleonic blockade; learning to tax under aid is
-THEORY-1483 (LIT-2156); capability stagnating under external funding is
-THEORY-1481. Koedinger and Aleven (2007), read the same day, carry the same
+organizational learning is March's exploration and exploitation ([LIT-729](../literature.d/LIT-729.md),
+[NOTE-581](NOTE-581.md)). Capability built by doing under transient protection is
+[THEORY-919](../theory.d/THEORY-919.md), the Napoleonic blockade; learning to tax under aid is
+[THEORY-1483](../theory.d/THEORY-1483.md) ([LIT-2156](../literature.d/LIT-2156.md)); capability stagnating under external funding is
+[THEORY-1481](../theory.d/THEORY-1481.md). Koedinger and Aleven (2007), read the same day, carry the same
 premise in an individual learner.
 
 ## Bearing on the record
 
-- **CLAIM-600** (when transient support can be withdrawn safely):
+- **[CLAIM-600](../claims.d/CLAIM-600.md)** (when transient support can be withdrawn safely):
   qualifies its flux condition. Outside knowledge is a flux that stays
   available, yet its use scales with the recipient's own R&D (δ2 > 0), so
   a flux that stays available is not enough without the party's own work.
   Supports the condition that the party could do the work and did it
   throughout. No support is ever withdrawn, so nothing on persistence after
   it ends.
-- **CLAIM-602** (capacity-first order of supply): supports it in spirit.
+- **[CLAIM-602](../claims.d/CLAIM-602.md)** (capacity-first order of supply): supports it in spirit.
   The capacity to use outside knowledge comes from "actively engaging in
   R&D". Substitution of outside supply for own work is not tested.
-- **CLAIM-604** (upkeep drawing on a flux in proportion to intact state):
+- **[CLAIM-604](../claims.d/CLAIM-604.md)** (upkeep drawing on a flux in proportion to intact state):
   weak and indirect. Uptake of the frontier's flux scales with own state,
   the structural feature the claim models, but the model is linear, with no
   threshold, collapse or hysteresis.
-- **QUESTION-398**: nothing directly; no intervention is withdrawn. At
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: nothing directly; no intervention is withdrawn. At
   most, dependence on an outside source of knowledge is modulated by own
   R&D, which a withdrawal test would need to hold fixed.
-- **CLAIM-597, CLAIM-603, CLAIM-558, CLAIM-601**: nothing. The frontier is
+- **[CLAIM-597](../claims.d/CLAIM-597.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-558](../claims.d/CLAIM-558.md), [CLAIM-601](../claims.d/CLAIM-601.md)**: nothing. The frontier is
   not a supplier doing upkeep; no supply relation is studied; depreciation
   of R&D knowledge is assumed small, not estimated.
-- Filed from it: THEORY-tmpwegr1.
+- Filed from it: [THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md).
 
 ## Limitations
 

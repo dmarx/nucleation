@@ -16,12 +16,12 @@ date: '2026-11-05'
 source:
 - LIT-tmpaw2id
 summary: >-
-  Simkute, Tankelevitch et al. (2024), LIT-tmpaw2id, read in part in
-  NOTE-tmpndiw7 (§§1, 2 and 3.5 in full). A synthesis: the polarization is
+  Simkute, Tankelevitch et al. (2024), [LIT-tmpaw2id](../literature.d/LIT-tmpaw2id.md), read in part in
+  [NOTE-tmpndiw7](../notes.d/NOTE-tmpndiw7.md) (§§1, 2 and 3.5 in full). A synthesis: the polarization is
   Human Factors research's finding for automation (credited to Lee and
   Seppelt, among others), and the generative-AI evidence is a set of user
   studies, mostly in programming; the paper runs no study. Read as a
-  stand-in for Bainbridge (1983), LIT-tmph5vta, which it cites for the
+  stand-in for Bainbridge (1983), [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), which it cites for the
   general irony, not for this. It says nothing about the skill the user
   loses on the easy share.
 ---
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Simkute, Tankelevitch, Kewenig, Scott, Sellen and Rintel (2024),
-LIT-tmpaw2id; read in NOTE-tmpndiw7.
+[LIT-tmpaw2id](../literature.d/LIT-tmpaw2id.md); read in [NOTE-tmpndiw7](../notes.d/NOTE-tmpndiw7.md).
 
 ## What was actually shown
 

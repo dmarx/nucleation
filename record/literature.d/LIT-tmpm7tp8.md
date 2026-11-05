@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-05 (NOTE-tmp607yf) from the publisher's typeset
+  read in full 2026-11-05 ([NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md)) from the publisher's typeset
   PDF posted on the authors' CMU PACT Center publications page; worth
   reading as the clearest statement of the "assistance dilemma", when to
   give a learner information and when to withhold it, and as a review of
@@ -62,8 +62,8 @@ summary: >-
   on-demand hints badly, so within tutored problem solving "information
   should be withheld very sparingly" (p. 255). Faded worked examples adjust
   help to growing competence. Where to switch between giving and
-  withholding is left open. Read in NOTE-tmp607yf; filed from it:
-  THEORY-tmpngvdn.
+  withholding is left open. Read in [NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md); filed from it:
+  [THEORY-tmpngvdn](../theory.d/THEORY-tmpngvdn.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpngvdn CLAIM-600 CLAIM-602 CLAIM-603 — Proposed or new; cited from the reading of Koedinger and Aleven (2007) as open -->
 
@@ -73,7 +73,7 @@ Koedinger, K. R. & Aleven, V. (2007). Exploring the Assistance Dilemma in Experi
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp607yf. Page numbers are the journal's.*
+*From the reading, [NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md). Page numbers are the journal's.*
 
 - **The dilemma.** "Instructional interaction should optimize student
   involvement, not maximize or minimize it" (p. 260). Withholding lets
@@ -104,15 +104,15 @@ Koedinger, K. R. & Aleven, V. (2007). Exploring the Assistance Dilemma in Experi
 
 Here as the record's first holding on tutoring and on support designed
 to fade, a gap the supplied-maintenance filing left. It is an independent
-domain for the order of supply and capacity in CLAIM-602: the tutor keeps
+domain for the order of supply and capacity in [CLAIM-602](../claims.d/CLAIM-602.md): the tutor keeps
 the learner doing the steps and adds help only on failure, and judges
 success by tests taken without the tutor. It qualifies that claim and
-CLAIM-600 in two ways the record should keep: too little help is the more
+[CLAIM-600](../claims.d/CLAIM-600.md) in two ways the record should keep: too little help is the more
 common harm within tutored practice, so early withdrawal is not safe by
 default; and withdrawal is graded with measured competence, not a single
 event. Its hint costs, which lower the mastery estimate and bring more
-problems, are a designed counter to the low-effort response CLAIM-603
-discusses, which gaming survives. Filed from it: THEORY-tmpngvdn. Wood,
+problems, are a designed counter to the low-effort response [CLAIM-603](../claims.d/CLAIM-603.md)
+discusses, which gaming survives. Filed from it: [THEORY-tmpngvdn](../theory.d/THEORY-tmpngvdn.md). Wood,
 Bruner and Ross (1976), the usual origin of the word scaffolding for
 tutoring, was
 registered the same day and not reached; Koedinger and Aleven do not cite
