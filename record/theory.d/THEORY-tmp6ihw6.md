@@ -15,7 +15,7 @@ date: '2026-11-06'
 source:
 - LIT-tmpwa0ib
 summary: >-
-  Cohen and Levinthal (1990), LIT-tmpwa0ib, read in full in NOTE-tmpraw7b,
+  Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md), read in full in [NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md),
   most of Table 1 image-only. Proposed: the account of capacity built by
   own work, its path dependence and lockout is argued from cognitive
   psychology and illustrations; the evidence is one indirect
@@ -28,9 +28,9 @@ summary: >-
 
 ## Source
 
-Cohen and Levinthal (1990), LIT-tmpwa0ib; read in NOTE-tmpraw7b.
-Griffith, Redding and Van Reenen (2004), LIT-tmpzbgxy, estimate the
-absorptive face of R&D at the country-industry level (THEORY-tmpwegr1)
+Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md); read in [NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md).
+Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](../literature.d/LIT-tmpzbgxy.md), estimate the
+absorptive face of R&D at the country-industry level ([THEORY-tmpwegr1](THEORY-tmpwegr1.md))
 and complement this account.
 
 ## What was actually shown
@@ -70,5 +70,5 @@ and complement this account.
 - That spillovers raise own R&D in general. That result rests on two SIC
   groups and the authors say it is not "a direct test of our model"
   (p. 147).
-- Its bearing on CLAIM-600 and CLAIM-602 is the record's reading, not the
+- Its bearing on [CLAIM-600](../claims.d/CLAIM-600.md) and [CLAIM-602](../claims.d/CLAIM-602.md) is the record's reading, not the
   authors'; they write about firms and R&D, not about supply withdrawn.

@@ -126,8 +126,8 @@ restates, with evidence of its own, that doing R&D in a field raises the
 ability to assimilate others' discoveries. It does not restate, test or
 touch the article's firm-level argument, cumulativeness, path dependence
 or lockout, any firm that outsources or stops its R&D, or its 1975–77
-business-unit evidence. Cohen and Levinthal (1990), LIT-tmpwa0ib, is now
-read (NOTE-tmpraw7b) and supplies the cumulativeness, path dependence and
+business-unit evidence. Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md), is now
+read ([NOTE-tmpraw7b](NOTE-tmpraw7b.md)) and supplies the cumulativeness, path dependence and
 lockout this paper does not touch. In the record, the nearest held work on
 organizational learning is March's exploration and exploitation ([LIT-729](../literature.d/LIT-729.md),
 [NOTE-581](NOTE-581.md)). Capability built by doing under transient protection is

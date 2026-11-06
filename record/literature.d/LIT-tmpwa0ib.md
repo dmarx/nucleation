@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-06 (NOTE-tmpraw7b) from the SciSpace copy, a JSTOR
-  print stamped 2007, which ADR-064 counts as lawful; worth reading as the
+  read in full 2026-11-06 ([NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md)) from the SciSpace copy, a JSTOR
+  print stamped 2007, which [ADR-064](../decisions.d/ADR-064.md) counts as lawful; worth reading as the
   paper that names absorptive capacity, grounds it in prior related
   knowledge built by a firm's own R&D, and argues that it is cumulative and
   path-dependent, so that a firm that stops investing in a fast-moving
@@ -69,9 +69,9 @@ summary: >-
   field" (p. 136). A model of R&D's two faces is tested on 1,719 business
   units, 1975–1977: R&D intensity rises more with the relevance of
   harder-to-learn knowledge. Lockout is argued, not measured. Read in
-  NOTE-tmpraw7b; filed from it: THEORY-tmp6ihw6. Complemented at the
+  [NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md); filed from it: [THEORY-tmp6ihw6](../theory.d/THEORY-tmp6ihw6.md). Complemented at the
   country-industry level by Griffith, Redding and Van Reenen (2004),
-  LIT-tmpzbgxy.
+  [LIT-tmpzbgxy](LIT-tmpzbgxy.md).
 ---
 <!-- inactive-ok-file: CLAIM-600 CLAIM-602 CLAIM-603 THEORY-tmp6ihw6 THEORY-tmpwegr1 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
 
@@ -81,7 +81,7 @@ Cohen, W. M. & Levinthal, D. A. (1990). Absorptive Capacity: A New Perspective o
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpraw7b. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md). Page numbers are the journal's.*
 
 - **Capacity rests on prior related knowledge, built by doing.** "firms
   that conduct their own R&D are better able to use externally available
@@ -101,21 +101,21 @@ Cohen, W. M. & Levinthal, D. A. (1990). Absorptive Capacity: A New Perspective o
 - **The test is static and indirect.** Across 1,719 business units,
   1975–1977, R&D intensity rises more with the relevance of basic science
   than of applied (GLS .189 against −.080, p. 145). Filed as
-  THEORY-tmp6ihw6.
+  [THEORY-tmp6ihw6](../theory.d/THEORY-tmp6ihw6.md).
 
 ## Standing in the record
 
 Active: read in full on 2026-11-06. It is the organizational account of
 why a party that stops doing its own work loses the ability to use what
 others supply, a gap the supplied-maintenance filing left beside
-CLAIM-602 and CLAIM-600. It supports their condition that capacity to use
-outside supply is built by the party's own work, and qualifies CLAIM-600
+[CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-600](../claims.d/CLAIM-600.md). It supports their condition that capacity to use
+outside supply is built by the party's own work, and qualifies [CLAIM-600](../claims.d/CLAIM-600.md)
 with lockout: a capacity may stay unrecoverable after supply returns. It
-qualifies CLAIM-603, since spillovers raise own R&D where learning is
+qualifies [CLAIM-603](../claims.d/CLAIM-603.md), since spillovers raise own R&D where learning is
 hard. The account of lockout is argued, not measured.
 
-**Complement.** Griffith, Redding and Van Reenen (2004), LIT-tmpzbgxy,
-read in NOTE-tmp7qron (THEORY-tmpwegr1), were read on 2026-11-05 as a
+**Complement.** Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](LIT-tmpzbgxy.md),
+read in [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md) ([THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md)), were read on 2026-11-05 as a
 stand-in while this article was unread. They now complement it: they
 estimate R&D's absorptive face across OECD country-industries, evidence
 this article lacks, while this article supplies the cumulativeness, path

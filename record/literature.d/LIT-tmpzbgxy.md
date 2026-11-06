@@ -97,4 +97,4 @@ own work stops. Filed from it: [THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md)
 
 ## Note of 2026-11-06: the original is now read
 
-Cohen and Levinthal (1990), LIT-tmpwa0ib, for whose firm-level claim this reading stood in, is now read in full (NOTE-tmpraw7b) from a lawful third-party copy the first filing wrongly excluded (ADR-064). It supplies the cumulativeness, path dependence and lockout this industry-level study does not test. This reading now complements it rather than standing in for it. No status changes.
+Cohen and Levinthal (1990), [LIT-tmpwa0ib](LIT-tmpwa0ib.md), for whose firm-level claim this reading stood in, is now read in full ([NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md)) from a lawful third-party copy the first filing wrongly excluded ([ADR-064](../decisions.d/ADR-064.md)). It supplies the cumulativeness, path dependence and lockout this industry-level study does not test. This reading now complements it rather than standing in for it. No status changes.

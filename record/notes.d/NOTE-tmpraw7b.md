@@ -176,22 +176,22 @@ building it in a moving field may never find it worth starting again.
 ## Connections
 
 Cohen and Levinthal's 1989 "two faces" paper is the model's earlier form.
-Griffith, Redding and Van Reenen (2004), LIT-tmpzbgxy (NOTE-tmp7qron,
-THEORY-tmpwegr1), estimate the second face across OECD industries and
+Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](../literature.d/LIT-tmpzbgxy.md) ([NOTE-tmp7qron](NOTE-tmp7qron.md),
+[THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md)), estimate the second face across OECD industries and
 complement this reading at the country-industry level; they do not touch
 cumulativeness, path dependence or lockout, which this paper supplies.
-March's exploration and exploitation, LIT-729 (NOTE-581, THEORY-142), gives
+March's exploration and exploitation, [LIT-729](../literature.d/LIT-729.md) ([NOTE-581](NOTE-581.md), [THEORY-142](../theory.d/THEORY-142.md)), gives
 the same narrowing by exploitation as result 5. The path dependence C&L
-invoke is the increasing-returns kind in Arthur, LIT-1314, and Pierson,
-LIT-1372 (THEORY-885). Lockout is close to CLAIM-184 (anchors entrench) and
-to imprinting, LIT-1144; its formal analogue is the hysteresis of regime
-shifts, LIT-726. Levitt and March's competency trap, which C&L cite, is not
-held. Koedinger and Aleven (2007), LIT-tmpm7tp8 (THEORY-tmpngvdn), carry
+invoke is the increasing-returns kind in Arthur, [LIT-1314](../literature.d/LIT-1314.md), and Pierson,
+[LIT-1372](../literature.d/LIT-1372.md) ([THEORY-885](../theory.d/THEORY-885.md)). Lockout is close to [CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench) and
+to imprinting, [LIT-1144](../literature.d/LIT-1144.md); its formal analogue is the hysteresis of regime
+shifts, [LIT-726](../literature.d/LIT-726.md). Levitt and March's competency trap, which C&L cite, is not
+held. Koedinger and Aleven (2007), [LIT-tmpm7tp8](../literature.d/LIT-tmpm7tp8.md) ([THEORY-tmpngvdn](../theory.d/THEORY-tmpngvdn.md)), carry
 the premise that capacity is built by use in an individual learner.
 
 ## Bearing on the record
 
-- **CLAIM-600** (when transient support can be withdrawn safely):
+- **[CLAIM-600](../claims.d/CLAIM-600.md)** (when transient support can be withdrawn safely):
   supports its condition that the party could do the work and did it
   throughout. Capacity to use an outside input is built by the party's own
   doing, so supply that replaces its own R&D leaves it unable to use later
@@ -199,36 +199,36 @@ the premise that capacity is built by use in an individual learner.
   after withdrawal even when supply returns (lockout), through
   expectations as well as stock. Argument and cross-section only; no
   measure of persistence after withdrawal.
-- **CLAIM-602** (capacity-first order of supply): supports the mechanism.
+- **[CLAIM-602](../claims.d/CLAIM-602.md)** (capacity-first order of supply): supports the mechanism.
   The capacity is learned by doing one's own R&D, its critical part
   "cannot be bought and quickly integrated" and complementary knowledge is
   "acquired only through experience within the firm" (p. 135). It adds a
   reason recovery is slow, rising cost from a low base, and a reason the
   party may not try, expectations left unrevised (p. 136). No data on how
   long substitution lasted or how long recovery takes.
-- **CLAIM-604** (upkeep drawing on a flux in proportion to intact state):
+- **[CLAIM-604](../claims.d/CLAIM-604.md)** (upkeep drawing on a flux in proportion to intact state):
   an interpretive analogue. Lockout is a threshold and hysteresis story,
   with no model or measurement of it in the paper.
-- **CLAIM-603** (Black Queen loss): qualifies it. Spillovers among rivals
+- **[CLAIM-603](../claims.d/CLAIM-603.md)** (Black Queen loss): qualifies it. Spillovers among rivals
   raise the incentive to do own R&D where learning is hard (pp. 141–142,
   147); a Black Queen-style loss would pay only where knowledge "can be
   assimilated without any specialized expertise" (p. 140). One-way access
   to a joint output (cooperative ventures) needs internal investment to go
   with it (p. 149).
-- **CLAIM-558** (decay with time since use): supports it in part. Practice
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (decay with time since use): supports it in part. Practice
   discontinued before reliable learning gives "little transfer" (p. 131),
   and lockout follows when a firm "ceases investing". The loss C&L describe
   is falling behind a moving field, not forgetting; they do not model
   decay with time since use.
-- **QUESTION-398**: bears on it. Withdrawal of own work should hurt most in
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: bears on it. Withdrawal of own work should hurt most in
   a fast, cumulative, hard-to-learn field and least where outside
   knowledge is targeted and the field slow, so a dependence measured by
   withdrawal would vary with the field's pace and difficulty as well as
   with how far the party had come. No such dependence is measured.
-- **CLAIM-597** (supplied maintenance): nothing directly. Outside knowledge
+- **[CLAIM-597](../claims.d/CLAIM-597.md)** (supplied maintenance): nothing directly. Outside knowledge
   here is a flux the firm uses through its own stock, not repair supplied
-  to it. **CLAIM-601**: nothing.
-- Filed from it: THEORY-tmp6ihw6.
+  to it. **[CLAIM-601](../claims.d/CLAIM-601.md)**: nothing.
+- Filed from it: [THEORY-tmp6ihw6](../theory.d/THEORY-tmp6ihw6.md).
 
 ## Limitations
 

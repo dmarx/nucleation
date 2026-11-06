@@ -60,7 +60,7 @@ Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md).
   column 6) invites that reading; it is the reader's, not the authors'.
 - Anything about firms, which are not observed, or about Cohen and
   Levinthal's cumulativeness, path dependence or lockout.
-  Cohen and Levinthal (1990), LIT-tmpwa0ib, is now read (NOTE-tmpraw7b)
-  and supplies those, argued rather than measured (THEORY-tmp6ihw6).
+  Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md), is now read ([NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md))
+  and supplies those, argued rather than measured ([THEORY-tmp6ihw6](THEORY-tmp6ihw6.md)).
 - What happens to absorption when a unit stops or outsources its R&D; no
   such case is in the sample.
