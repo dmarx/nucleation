@@ -216,3 +216,7 @@ Read after the owner asked for a counterpoint, "e.g. the myth of the lazy poor".
   measure of how many return gifts or free-ride. Mauss's own circuits close
   back on their origin, so his work does not show that open-ended giving
   forward is stable.
+
+## Note of 2026-11-05: Knack, "Aid Dependence and the Quality of Governance", read
+
+Supports. In Knack's estimates ([NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md)), aid's harm to governance falls as aid becomes less predictable and vanishes near a coefficient of variation of about .78. Predictable trends in aid do not matter. That fits capability loss being favoured where outside supply is reliable. It does not compare one-way with reciprocal supply, and the interaction is a single cross-country estimate. No status changes.

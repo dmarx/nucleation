@@ -1,0 +1,122 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md)) in its working-paper version,
+  World Bank Policy Research Working Paper 2396 of July 2000, from the World
+  Bank's own public-disclosure scan; the 2001 journal text was not read and
+  its estimates may differ. Worth reading as an early instrumented
+  cross-country test of the thesis that aid dependence erodes institutions,
+  and for its moderators: across 80 countries, 1982–95, higher mean aid goes
+  with smaller gains in the ICRG governance index, the effect roughly
+  doubles under two-stage least squares, holds for aid/GNP within Africa,
+  is several times larger for technical assistance, does not depend on
+  initial governance, and weakens as aid becomes less predictable. One
+  change score per country, instruments whose exclusion is only tested by
+  overidentification, no first stage reported, no tax or revenue variable,
+  and a standard error that differs between two tables for the same
+  specification.
+title: 'Aid Dependence and the Quality of Governance: Cross-Country Empirical Tests'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to fill the
+    gaps the supplied-maintenance filing left (works chosen by the
+    assistant), as a second work beside Bräutigam & Knack (2004),
+    LIT-tmpw4aef, which it partly stands in for. Citation checked against
+    Crossref (no mailto). Journal version: Stephen Knack, Southern Economic
+    Journal 68(2), 310–329, 2001-10 (month only), doi
+    10.1002/j.2325-8012.2001.tb00421.x (legacy JSTOR doi 10.2307/1061596);
+    not read, and closed according to OpenAlex. The text read is the working
+    paper: "Aid Dependence and the Quality of Governance: A Cross-Country
+    Empirical Analysis", World Bank Policy Research Working Paper 2396,
+    Development Research Group, Regulation and Competition Policy, doi
+    10.1596/1813-9450-2396; Crossref gives 2000-07 and the World Bank
+    documents API gives a document date of 2000-07-31, which is
+    `published:`, as the earliest exact date of the work. The title here
+    is the journal's; the working paper's subtitle differs. Copy: the World
+    Bank's scan stamped "Public Disclosure Authorized"
+    (https://documents.worldbank.org/curated/en/200401468741328803/pdf/multi-page.pdf),
+    44 PDF pages, text extracted by pdftotext; the OCR runs words together.
+tags:
+- society-and-governance
+- social-science
+date: '2026-11-05'
+published: '2000-07-31'
+doi: '10.1002/j.2325-8012.2001.tb00421.x'
+first_author: 'Knack'
+keywords:
+- 'aid dependence'
+- 'quality of governance'
+- 'ICRG'
+- 'bureaucratic quality'
+- 'corruption'
+- 'rule of law'
+- 'technical assistance'
+- 'aid variability'
+- 'two-stage least squares'
+implementations: []
+summary: >-
+  Knack (2000 working paper; 2001 journal version not read). Across 80
+  aid-receiving countries, the change in the ICRG quality-of-governance
+  index from 1982 (or 1984) to 1995 is regressed on mean aid relative to
+  GNP or to government spending, with initial governance, population
+  change and income growth controlled. Higher aid goes with less
+  improvement (OLS −0.067 per point of aid/GNP); instrumented with
+  recipient need and donor interest the effect roughly doubles (−0.154).
+  It holds for aid/GNP in the 31 African countries, is several times larger
+  for technical assistance, does not vary with initial governance, and
+  shrinks as aid becomes more variable. The mechanisms, among them the
+  tax bargain, are argued and not tested.
+---
+<!-- inactive-ok-file: LIT-tmpw4aef THEORY-tmpymvl9 THEORY-1460 THEORY-1459 CLAIM-602 CLAIM-603 — Unavailable, Proposed or new; cited from the reading of Knack (2000) as open -->
+
+# LIT-tmp0gnxg: Aid Dependence and the Quality of Governance: Cross-Country Empirical Tests
+
+Knack, S. (2001). Aid Dependence and the Quality of Governance: Cross-Country Empirical Tests. *Southern Economic Journal* 68(2): 310–329. doi:10.1002/j.2325-8012.2001.tb00421.x. Read as: Knack, S. (2000). Aid Dependence and the Quality of Governance: A Cross-Country Empirical Analysis. World Bank Policy Research Working Paper 2396. doi:10.1596/1813-9450-2396.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md), of the July 2000 working paper. Page numbers are its printed pages.*
+
+- **Less improvement, not decline.** Governance rose on average (ICRG
+  change mean +2.47); "a 15 percentage point rise in aid's share of GNP
+  reduces the ICRG index by 1 point" (p. 12, OLS).
+- **Instrumented, it doubles.** With infant mortality, initial income and
+  population, and Franc-zone and Central-America dummies as instruments,
+  "The estimated impact of aid roughly doubles" (p. 14); Knack reads this
+  as donors directing aid "towards countries with improving rather than
+  deteriorating institutional quality". No first stage is reported.
+- **Africa.** Aid/GNP −0.074 (OLS) and −0.126 (2SLS) on 31 countries;
+  aid relative to government spending is not significant there (Table 4,
+  row 8).
+- **Technical assistance.** "Coefficients for technical assistance are
+  several times greater than those for aid overall" (p. 17); entered
+  together with the rest of aid, only technical assistance is significant
+  (n. 18), though the two correlate at .87.
+- **Predictability.** Aid variability "tempers rather than reinforces"
+  the effect of aid levels (pp. 18–19); "Variability in aid matters, but
+  trends--i.e., "predictable variability"--do not."
+- **No threshold in initial governance.** "Results provide no support for
+  the hypothesis that initial conditions matter" (pp. 19–20).
+- **No tax variable.** The fiscal-contract mechanism is argued in section
+  2 and not measured.
+
+## Standing in the record
+
+The first reading the record holds of Knack's aid-and-governance work,
+cited until now only secondhand in [NOTE-1661](../notes.d/NOTE-1661.md) (Moss, Pettersson and van de
+Walle) and [NOTE-1663](../notes.d/NOTE-1663.md) (Moore). It is read as a second work beside
+Bräutigam & Knack (2004), [LIT-tmpw4aef](LIT-tmpw4aef.md), which no lawful copy reached, and
+it stands in for that article in part: the same research programme, with
+an Africa-only subsample, but no tax-revenue or tax-effort analysis.
+
+It supplies cross-country instrumented evidence for the governance half of
+[THEORY-1460](../theory.d/THEORY-1460.md)'s account, not within-country evidence, and nothing on its
+tax-effort or grant-and-loan half; it does not meet [THEORY-1459](../theory.d/THEORY-1459.md)'s
+within-country `promote_when`. Its technical-assistance result fits
+[CLAIM-602](../claims.d/CLAIM-602.md) (supply that does the work crowds out capacity), and its
+variability result gives [CLAIM-603](../claims.d/CLAIM-603.md) (loss favoured where supply is
+reliable) a measurable handle. It has no withdrawal episodes. Filed from
+it: [THEORY-tmpymvl9](../theory.d/THEORY-tmpymvl9.md).

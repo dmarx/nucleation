@@ -208,3 +208,7 @@ Read to fill a gap the supplied-maintenance filing left; the works were chosen b
 - **A partial contradiction.** Full support is prescribed as rest for a fatigued muscle (Alía and Esteban, [NOTE-1701](../notes.d/NOTE-1701.md)). Whether supply erodes capacity may depend on whether the capacity is fatigued or merely unused.
 
 No status changes.
+
+## Note of 2026-11-05: Knack, "Aid Dependence and the Quality of Governance", read
+
+Partial support. In Knack's estimates ([NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md)), technical assistance carries coefficients several times those of aid overall, and when entered with the rest of aid only it is significant. Technical assistance is the aid in which donors do the work. That fits supply that does the work lowering the capacity kept. The order in which supply and capacity are used is not observed, the two aid measures correlate at .87, and the evidence is cross-country. No status changes.
