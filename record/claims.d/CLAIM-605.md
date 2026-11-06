@@ -1,5 +1,8 @@
 ---
+number: 605
 status: Proposed
+formerly:
+- CLAIM-tmp6t2vz
 title: "Where capacity is learned by doing and its growth needs capacity already present, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold"
 version: 1
 role: thesis
@@ -57,7 +60,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-600 CLAIM-602 CLAIM-604 — Proposed; claims this one rests on or extends, cited as open -->
 
-# CLAIM-tmp6t2vz: Where capacity is learned by doing and its growth needs capacity already present, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
+# CLAIM-605: Where capacity is learned by doing and its growth needs capacity already present, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
 
 ## The model
 
