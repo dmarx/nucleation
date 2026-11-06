@@ -112,3 +112,14 @@ from their house over her MySpace profile (p. 289). boyd states the
 premise directly: "teens want to be able to interact with their peers
 differently from how they interact with their parents" (p. 287). No
 status change.
+
+## Note of 2026-11-06: what holds it back
+
+Its ground THEORY-406 is still Proposed. boyd's methods chapter is now read
+(NOTE-1432): interviews and profile observation, with no comparison of
+conflict while audiences are kept apart against conflict when a channel
+joins them, which is what THEORY-406's promote_when asks for. No study the
+record holds makes that comparison. The one case of differing presentations
+colliding is still Carmichael's, which the record has only through
+Meyrowitz, unread. The 2026-11-06 reading note above qualifies the title's
+last clause and does not meet the defeated_if.
