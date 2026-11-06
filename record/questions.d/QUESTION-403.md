@@ -1,5 +1,8 @@
 ---
+number: 403
 status: Open
+formerly:
+- QUESTION-tmpw7xm2
 title: 'Does an independent review of procedural skill retention among emergency physicians report the same gaps Oskar and colleagues found: decay seldom the primary outcome, few follow-ups beyond one year, reliance on simulation or checklist assessment, underrepresentation of attending physicians, and required procedures left unstudied?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   finds the same gaps is this question.
 ---
 
-# QUESTION-tmpw7xm2: Does an independent review of procedural skill retention among emergency physicians report the same gaps Oskar and colleagues found: decay seldom the primary outcome, few follow-ups beyond one year, reliance on simulation or checklist assessment, underrepresentation of attending physicians, and required procedures left unstudied?
+# QUESTION-403: Does an independent review of procedural skill retention among emergency physicians report the same gaps Oskar and colleagues found: decay seldom the primary outcome, few follow-ups beyond one year, reliance on simulation or checklist assessment, underrepresentation of attending physicians, and required procedures left unstudied?
 
 ## Why it is a question
 

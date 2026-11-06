@@ -1,5 +1,8 @@
 ---
+number: 1524
 status: Proposed
+formerly:
+- THEORY-tmp81fcw
 promote_when: >-
   A study with a credible comparison shows both (a) that organizations
   whose external support is tied to adopting prescribed forms improve
@@ -25,7 +28,7 @@ summary: >-
   [THEORY-1481](THEORY-1481.md) carried, word for word.
 ---
 
-# THEORY-tmp81fcw: When external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)
+# THEORY-1524: When external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)
 
 ## Source
 

@@ -25,7 +25,7 @@ history:
     single rigid origami vertex near the flat state are disconnected, and
     that for small negative curvature they are connected.", asks for an
     independent test of a result the source asserts. It moves word for
-    word to THEORY-tmpi4xzs, which extends this entry (ADR-047 kind 1).
+    word to THEORY-1526, which extends this entry (ADR-047 kind 1).
     Read in full in NOTE-1605 (arXiv v1).
 tags:
 - mathematics
@@ -36,7 +36,7 @@ source:
 summary: >-
   Berry, Lee-Trimble and Santangelo (2020), [LIT-2024](../literature.d/LIT-2024.md), read in full in
   [NOTE-1605](../notes.d/NOTE-1605.md) (arXiv v1). Active on its reading (ADR-065); whether the
-  result holds is THEORY-tmpi4xzs's. The single-vertex result follows from
+  result holds is THEORY-1526's. The single-vertex result follows from
   the second-order condition hᵀQh = K, whose proof to quadratic order the
   authors call somewhat involved, and is confirmed numerically on one
   symmetric 5-fold vertex. It does not say anything far from the flat state

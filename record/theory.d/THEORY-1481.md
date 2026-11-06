@@ -12,7 +12,7 @@ history:
     Promoted at the status review's ruling (the owner delegated
     these rulings), under ADR-065: the title reports what the
     authors argue, and NOTE-1664 reads the working paper in full.
-    Whether they are right moves to THEORY-tmp81fcw, which extends
+    Whether they are right moves to THEORY-1524, which extends
     this entry and keeps the old condition word for word: 'A study
     with a credible comparison shows both (a) that organizations
     whose external support is tied to adopting prescribed forms
@@ -34,7 +34,7 @@ summary: >-
   paper has no new data, and PDIA is not evaluated. It does not say how
   long a trap lasts (that estimate is the companion paper's), nor anything
   about own revenue, aid volume or what happens when aid is withdrawn.
-  Whether the argument holds is THEORY-tmp81fcw.
+  Whether the argument holds is THEORY-1524.
 ---
 
 # THEORY-1481: Andrews, Pritchett and Woolcock argue that when external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and that it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)

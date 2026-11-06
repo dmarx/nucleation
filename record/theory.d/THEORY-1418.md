@@ -15,7 +15,7 @@ history:
     study, read in full from the arXiv v1 preprint in NOTE-1571, measured,
     with its hedges kept; nothing in the record contradicts it. The old
     title: "Stern, Pinson and Murugan show that a crease pattern designed with one folding motion still has exponentially many distractor branches meeting at the flat state, created by frustrated loops of two-branch vertices, so folding it reliably needs actuators placed so that the regions they can each fold correctly cover the sheet". The generalization the authors assert moves to
-    THEORY-tmpwbm0d, which extends this entry and keeps the old
+    THEORY-1528, which extends this entry and keeps the old
     promote_when (ADR-047 kind 1). The "needs" clause, a necessary
     condition the authors disclaim, gets the note of 2026-11-06 (kind 3).
     The old promote_when: "An independent simulation or experiment on loopy
@@ -41,7 +41,7 @@ summary: >-
   sufficient condition. The authors limit the difficulty to the flat
   state. The analogy to SAT and protein folding carries no hardness proof.
 ---
-<!-- inactive-ok-file: THEORY-tmpwbm0d — Proposed and new; the authors' generalization split off at the status review of 2026-11-06, cited as open -->
+<!-- inactive-ok-file: THEORY-1528 — Proposed and new; the authors' generalization split off at the status review of 2026-11-06, cited as open -->
 
 # THEORY-1418: Stern, Pinson and Murugan find, in zero-temperature simulations of idealized rigid-panel crease patterns designed with one folding motion, distractor branches at the flat state whose number grows exponentially with the sheet's boundary length on random meshes up to 6 × 6, which they trace to frustrated loops of two-branch vertices; and, on one 4 × 4 pattern, that whether the actuated creases' folding islands cover the sheet predicts folding success much better than the number of actuators, and that an added actuator can ruin a folding that succeeded, without a necessary and sufficient condition
 

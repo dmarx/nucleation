@@ -1,5 +1,8 @@
 ---
+number: 402
 status: Open
+formerly:
+- QUESTION-tmpple9q
 title: 'Does an experiment or an independent simulation show DeLuca et al.''s folding pathway in DNA origami: in an accessible design, a collapse into a locally ordered, globally disordered precursor before global ordering, and, in a large interior-heavy design, trapped products with defective interiors whose early folding progress does not predict the final outcome?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   out is this question.
 ---
 
-# QUESTION-tmpple9q: Does an experiment or an independent simulation show DeLuca et al.'s folding pathway in DNA origami: in an accessible design, a collapse into a locally ordered, globally disordered precursor before global ordering, and, in a large interior-heavy design, trapped products with defective interiors whose early folding progress does not predict the final outcome?
+# QUESTION-402: Does an experiment or an independent simulation show DeLuca et al.'s folding pathway in DNA origami: in an accessible design, a collapse into a locally ordered, globally disordered precursor before global ordering, and, in a large interior-heavy design, trapped products with defective interiors whose early folding progress does not predict the final outcome?
 
 ## Why it is a question
 

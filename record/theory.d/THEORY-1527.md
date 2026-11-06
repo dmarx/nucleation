@@ -1,5 +1,8 @@
 ---
+number: 1527
 status: Proposed
+formerly:
+- THEORY-tmpif6q2
 promote_when: >-
   A reading that checks the proofs (in the paper or a full version)
   confirms that the paper defines resource conversions as categories and
@@ -27,7 +30,7 @@ summary: >-
   38's wider scope is not re-derived.
 ---
 
-# THEORY-tmpif6q2: Every endomorphism in Marsden and Zwart's categories of quantale-enriched profunctors generates a free internal monad, its reflexive–transitive closure (Proposition 37, Corollary 38)
+# THEORY-1527: Every endomorphism in Marsden and Zwart's categories of quantale-enriched profunctors generates a free internal monad, its reflexive–transitive closure (Proposition 37, Corollary 38)
 
 ## Source
 

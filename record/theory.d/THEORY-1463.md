@@ -12,7 +12,7 @@ history:
     Promoted at the status review's ruling (the owner delegated
     these rulings), under ADR-065: the title reports what the
     authors argue, and NOTE-1678 reads the working paper in full.
-    Whether they are right moves to THEORY-tmpazcjr, which extends
+    Whether they are right moves to THEORY-1525, which extends
     this entry and keeps the old condition word for word: 'Both (a)
     estimates of the growth of state implementation capability from
     measures of function rather than perception, and robust to the
@@ -40,7 +40,7 @@ summary: >-
   framework. Premature load bearing is defined but hardly developed. It
   does not say that capability cannot be built faster, nor what happens
   when external support is withdrawn.
-  Whether the argument holds is THEORY-tmpazcjr.
+  Whether the argument holds is THEORY-1525.
 ---
 
 # THEORY-1463: Pritchett, Woolcock and Andrews argue that many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and that the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon

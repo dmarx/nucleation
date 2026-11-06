@@ -1,5 +1,8 @@
 ---
+number: 1525
 status: Proposed
+formerly:
+- THEORY-tmpazcjr
 promote_when: >-
   Both (a) estimates of the growth of state implementation capability
   from measures of function rather than perception, and robust to the
@@ -28,7 +31,7 @@ summary: >-
   [THEORY-1463](THEORY-1463.md) carried, word for word.
 ---
 
-# THEORY-tmpazcjr: Many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon
+# THEORY-1525: Many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon
 
 ## Source
 

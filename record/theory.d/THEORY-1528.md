@@ -1,5 +1,8 @@
 ---
+number: 1528
 status: Proposed
+formerly:
+- THEORY-tmpwbm0d
 promote_when: >-
   An independent simulation or experiment on loopy 4-vertex crease
   patterns designed with one folding motion reproduces exponential growth
@@ -29,7 +32,7 @@ summary: >-
   descent, meshes up to 6 × 6, actuation on one 4 × 4 pattern.
 ---
 
-# THEORY-tmpwbm0d: Crease patterns designed with one folding motion inevitably have exponentially many distractor branches meeting at the flat state, created by frustrated loops of two-branch vertices, and the spatial placement of actuators, read through the cover of their folding islands, predicts folding success better than their number
+# THEORY-1528: Crease patterns designed with one folding motion inevitably have exponentially many distractor branches meeting at the flat state, created by frustrated loops of two-branch vertices, and the spatial placement of actuators, read through the cover of their folding islands, predicts folding success better than their number
 
 ## Source
 

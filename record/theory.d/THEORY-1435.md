@@ -21,7 +21,7 @@ history:
     reflexive–transitive closure (Proposition 37, Corollary 38)." Its
     definitional part is met by NOTE-1602. The truth of the closure result,
     which the paper asserts, moves with the condition word for word to
-    THEORY-tmpif6q2, which extends this entry (ADR-047 kind 1, ADR-065 §3).
+    THEORY-1527, which extends this entry (ADR-047 kind 1, ADR-065 §3).
 tags:
 - mathematics
 - operations-research
@@ -31,14 +31,14 @@ source:
 summary: >-
   Marsden & Zwart (CSL 2018), [LIT-2054](../literature.d/LIT-2054.md), read in full in [NOTE-1602](../notes.d/NOTE-1602.md).
   The paper's proofs are sketches and were not checked further; the
-  closure result is THEORY-tmpif6q2's.
+  closure result is THEORY-1527's.
   It uses one quantale per theory and static resources. It does not say
   anything about several quantities at once beyond a product quantale,
   whose componentwise join loses a Pareto frontier of budgets, nor about
   costs that depend on the order of operations, nor about graded
   categories that keep every morphism with its grade.
 ---
-<!-- inactive-ok-file: THEORY-tmpif6q2 — Proposed and new; the closure result split off at the status review of 2026-11-06, cited as open -->
+<!-- inactive-ok-file: THEORY-1527 — Proposed and new; the closure result split off at the status review of 2026-11-06, cited as open -->
 
 # THEORY-1435: Marsden and Zwart propose that quantitative resource theories are categories enriched in a commutative quantale, whose monoid combines the costs, probabilities or strengths of successive conversion steps and whose join selects the best alternative, with costly conversions as profunctors and closure under composition as a free internal monad
 

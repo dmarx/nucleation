@@ -1,5 +1,8 @@
 ---
+number: 401
 status: Open
+formerly:
+- QUESTION-tmpgqd0u
 title: 'Does a one-off productive-asset transfer to poor households in another setting or population show a non-concave asset transition with an unstable threshold, households placed above it accumulating assets and moving into self-employment while those below lose assets, surviving controls for baseline ability; and does a design that randomizes transfer size, and so which side of the threshold a household lands on, find the same?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   size, is this question.
 ---
 
-# QUESTION-tmpgqd0u: Does a one-off productive-asset transfer to poor households in another setting or population show a non-concave asset transition with an unstable threshold, households placed above it accumulating assets and moving into self-employment while those below lose assets, surviving controls for baseline ability; and does a design that randomizes transfer size, and so which side of the threshold a household lands on, find the same?
+# QUESTION-401: Does a one-off productive-asset transfer to poor households in another setting or population show a non-concave asset transition with an unstable threshold, households placed above it accumulating assets and moving into self-employment while those below lose assets, surviving controls for baseline ability; and does a design that randomizes transfer size, and so which side of the threshold a household lands on, find the same?
 
 ## Why it is a question
 

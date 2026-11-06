@@ -1,5 +1,8 @@
 ---
+number: 1526
 status: Proposed
+formerly:
+- THEORY-tmpi4xzs
 promote_when: >-
   An independent derivation or simulation confirming that, for small
   positive vertex curvature and fold angles held in (−π, π), the popped-up
@@ -26,7 +29,7 @@ summary: >-
   title excepts.
 ---
 
-# THEORY-tmpi4xzs: Near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two are joined by a neck, except at degree four
+# THEORY-1526: Near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two are joined by a neck, except at degree four
 
 ## Source
 

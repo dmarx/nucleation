@@ -18,7 +18,7 @@ history:
     topological traps that early progress does not predict", which
     dropped the source's hedge "not a perfect predictor" (kind 3, note
     only). The promote_when, a demand for an experiment or an
-    independent simulation, moved word for word to QUESTION-tmpple9q.
+    independent simulation, moved word for word to QUESTION-402.
     It read: "An experiment (time-resolved SAXS, fluorescence or
     arrested AFM) or an independent simulation shows, in an accessible
     origami design, a collapse into a locally ordered, globally

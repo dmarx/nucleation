@@ -13,7 +13,7 @@ history:
     these rulings), under ADR-065: the title reports what one
     scoping review found, and NOTE-1612 reads it in full. The
     promotion condition asked for replication, and it moves
-    unchanged to QUESTION-tmpw7xm2. It read: 'An independent
+    unchanged to QUESTION-403. It read: 'An independent
     systematic or scoping review of procedural skill retention among
     emergency physicians, or a later review citing this one, reports
     the same gaps: decay seldom the primary outcome, few follow-ups
@@ -32,7 +32,7 @@ summary: >-
   counts and no quality appraisal. It does not say that emergency
   procedural skills decay at any particular rate, or that they decay more
   than other clinicians' skills; it gives no rates at all. Its closing
-  statement of what decay depends on is asserted, not shown. Active as one review's mapping of one specialty's literature; whether another review finds the same gaps is QUESTION-tmpw7xm2.
+  statement of what decay depends on is asserted, not shown. Active as one review's mapping of one specialty's literature; whether another review finds the same gaps is QUESTION-403.
 ---
 
 # THEORY-1404: Oskar and colleagues find that the evidence on procedural skill decay among emergency physicians cannot yet say how long a procedural skill lasts after competence: few studies make decay the primary outcome, almost none follow skills beyond a year, most rely on simulation and checklist scores and study trainees, and many required procedures are unstudied
