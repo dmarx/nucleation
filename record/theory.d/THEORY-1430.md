@@ -65,7 +65,7 @@ Vipond (2018; 2020), [LIT-2036](../literature.d/LIT-2036.md); read in [NOTE-1609
 - **Stability** (Theorem 30; Corollary 31 for sublevel-set modules): proof
   complete, checked step by step.
 - **Injectivity on rank-invariant classes** (Proposition 36, §4.2), for
-  finitely presented modules. The paper's proof, repaired (NOTE-1609):
+  finitely presented modules. The paper's proof, repaired ([NOTE-1609](../notes.d/NOTE-1609.md)):
   Proposition 28's identity is λw(M)(k, x) = λ1(M ∘ ϕ_{w⁻¹})(k, w ⊙ x),
   not the printed λ1(M ∘ ϕw)(k, w⁻¹x); Corollary 33's interleaving holds
   for that pullback; and a pair a ≤ b equal in some coordinate is reduced
