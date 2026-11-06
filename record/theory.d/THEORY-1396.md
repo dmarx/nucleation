@@ -1,16 +1,33 @@
 ---
 number: 1396
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmphqo3c
-promote_when: >-
-  §6.1 and Table 1 of the review confirmed as presenting the
-  deterministic coverage models as treating a facility's resources as
-  always available, multiple coverage as a partial remedy for station
-  unavailability, and the probabilistic models, from MEXCLP and MALP on,
-  as modelling station availability explicitly.
 title: 'Mukhopadhyay and colleagues present static coverage models for emergency response as moving from deterministic models that treat a facility as always available, through multiple coverage as a partial hedge against busy stations, to probabilistic models that represent station availability explicitly, beginning with the maximum expected covering and maximum availability models'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Filed Proposed from NOTE-1583, the reading of §6.1 and Table 1 of the
+    review.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-ninth status review, at the status review's
+    ruling (the owner delegated these rulings); ADR-065. NOTE-1583 v2
+    re-reads §6.1 and Table 1 in full and checks every quotation. The
+    review presents the deterministic models as treating a facility's
+    resources as always available, multiple coverage as a partial remedy,
+    and MEXCLP and MALP as the foundational probabilistic models. The old
+    promote_when: "§6.1 and Table 1 of the review confirmed as presenting
+    the deterministic coverage models as treating a facility's resources as
+    always available, multiple coverage as a partial remedy for station
+    unavailability, and the probabilistic models, from MEXCLP and MALP on,
+    as modelling station availability explicitly." It is met. The summary's
+    "Proposed until the owner judges whether a review's ordering of a
+    literature is worth an account at all" was not a condition on the
+    title, and is dropped.
 tags:
 - operations-research
 - social-science
@@ -18,14 +35,11 @@ date: '2026-11-04'
 source:
 - LIT-2107
 summary: >-
-  Mukhopadhyay et al. (2020), [LIT-2107](../literature.d/LIT-2107.md), read in part in [NOTE-1583](../notes.d/NOTE-1583.md)
-  (§6.1 and Table 1). An account of how the review organizes the coverage
-  literature, not of any model's correctness; the reader proposed none,
-  since the part read is a taxonomy, and this one is limited to what that
-  taxonomy states. Proposed until the owner judges whether a review's
-  ordering of a literature is worth an account at all.
+  Mukhopadhyay et al. (2020), [LIT-2107](../literature.d/LIT-2107.md), read in [NOTE-1583](../notes.d/NOTE-1583.md) (§6.1 and Table
+  1). An account of how the review organizes the coverage literature, not
+  of any model's correctness; it is limited to what that taxonomy states.
+  Active as a report of how §6.1 orders the literature.
 ---
-<!-- inactive-ok-file: NOTE-1583 — Skimmed and new; the reading this account comes from, cited as open -->
 
 # THEORY-1396: Mukhopadhyay and colleagues present static coverage models for emergency response as moving from deterministic models that treat a facility as always available, through multiple coverage as a partial hedge against busy stations, to probabilistic models that represent station availability explicitly, beginning with the maximum expected covering and maximum availability models
 

@@ -138,3 +138,10 @@ it are in chapters not read.
 Not read in full. [NOTE-622](../notes.d/NOTE-622.md) is a skim of the Preface and chapter 3.
 Chapters 1–2, 4 and 8, which hold the arguments for the model and the
 cases its promote_when names, are unread.
+
+## Note of 2026-11-06: what holds it back
+
+Chapters 1–2, 4 and 8, which hold the arguments for the model and the cases the promote_when names,
+are still unread. The author's copy was located on 2026-11-06 and could not be fetched by this
+client (a TLS failure, and a reset on its Wayback capture; [LIT-794](../literature.d/LIT-794.md)), so the obstacle is the
+client's, not the copy's.

@@ -4,13 +4,28 @@ status: Proposed
 formerly:
 - THEORY-tmp99dad
 promote_when: >-
-  A reading of the proof's tractability half (the block-minimality
-  algorithm of §3 and Part II's lemmas), or of a refereed account that
+  A reading of the proof's tractability half (Theorems 68 and 69 of Part
+  II with the lemmas of §§4–8 they use), or of a refereed account that
   checks it, confirms that every finite idempotent algebra with a weak
-  near-unanimity term has a polynomial-time CSP; the theorem's statement is
-  already confirmed by Zhuk's independent proof.
+  near-unanimity term has a polynomial-time CSP.
 title: 'Bulatov shows that for every finite constraint language over a finite domain, deciding satisfiability is solvable in polynomial time when the language has a weak near-unanimity polymorphism, and with the hardness already known this makes every such problem polynomial-time solvable or NP-complete'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-ninth status review, at the status review's ruling (the
+    owner delegated these rulings; ADR-065), on NOTE-1572 v2: kept
+    Proposed, since "shows" claims the proofs not read. The promote_when
+    names the theorems that carry the tractability half and drops "the
+    theorem's statement is already confirmed by Zhuk's independent proof":
+    THEORY-1380 is itself Proposed until its proofs are read, and the title
+    does not need it. The old promote_when was "A reading of the proof's
+    tractability half (the block-minimality algorithm of §3 and Part II's
+    lemmas), or of a refereed account that checks it, confirms that every
+    finite idempotent algebra with a weak near-unanimity term has a
+    polynomial-time CSP; the theorem's statement is already confirmed by
+    Zhuk's independent proof."
 tags:
 - mathematics
 - operations-research
@@ -61,3 +76,11 @@ Bulatov (2017), [LIT-2115](../literature.d/LIT-2115.md); read in [NOTE-1572](../
   solution exists, the first of [CLAIM-567](../claims.d/CLAIM-567.md)'s three properties.
 - That the Pol–Inv correspondence is a Galois connection: true and
   standard, but not stated in the paper.
+
+## Note of 2026-11-06: what holds it back
+
+"Bulatov shows" asserts a correct proof of the tractability half, and
+its proof, Theorems 68–69 with the lemmas of Part II (about 80 pages,
+with a gap in Lemma 46 patched between v1 and v2), has not been read, nor
+any refereed account that checks it. The statement and the algorithm
+(§§1–3) have been read and match the title.

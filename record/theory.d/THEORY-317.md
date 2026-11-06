@@ -157,3 +157,11 @@ hermeneutical marginalization, which may be "systematic, or incidental"
 now place the book's definitions where this account's caveats expected a
 narrowing. If a reading of the book confirms them, this account is refuted
 as a statement of Fricker, as its promote_when says.
+
+## Note of 2026-11-06: what holds it back
+
+The book ([LIT-1004](../literature.d/LIT-1004.md)) is still unread: on 2026-11-06 no lawful copy of it or of chapters 1 and 7 was
+found, and the one full copy located is an upload of the whole in-copyright book, which [ADR-074](../decisions.d/ADR-074.md)
+excludes. The promote_when's test, the book's own definitions, is therefore unmet. Two read sources
+([THEORY-326](THEORY-326.md), [LIT-1852](../literature.d/LIT-1852.md)) still place those definitions where this title would be refuted as a
+statement of Fricker.

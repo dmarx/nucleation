@@ -92,7 +92,6 @@ summary: >-
   influence responsible. A35: "Importantly, these dual multipliers are not
   endorsement weights."
 ---
-<!-- inactive-ok-file: NOTE-1599 — Skimmed; Gerardi and Maestri, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 
 # CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns
@@ -283,3 +282,7 @@ infeasibility of the fold. A distinct, measurable gap with the target
 attainable.
 
 No status changes.
+
+## Note of 2026-11-06: Gerardi and Maestri, read
+
+The full reading ([NOTE-1599](../notes.d/NOTE-1599.md) v2) supports the use the earlier note makes of it. The hiding is an equilibrium result, for all perfect Bayesian equilibria in the patient limit. Its cause is the principal's inability to commit: a low-cost agent who reveals himself is held to zero rent thereafter, so he mimics the high-cost type (Lemma 3, checked from the supplement). With rehiring the effect is undone (Proposition 4). No status changes.

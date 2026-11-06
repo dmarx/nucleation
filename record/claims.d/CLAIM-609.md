@@ -1,10 +1,42 @@
 ---
 number: 609
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp5iqbr
-title: 'In a central-force network at a stable ground state, the external force that couples to a linear zero mode u is (T + λI)u, with T the prestress matrix and λ the regularizer, so bond stiffness never redirects it, and as λ goes to zero it is supported only on the nodes of prestressed bonds; prestress carried by a cluster that every zero mode moves rigidly redirects nothing'
-version: 1
+title: 'In a central-force network at a stable ground state, the external force that couples to a linear zero mode u is (T + λI)u, with T the prestress matrix and λ the regularizer, so bond stiffness never redirects it, and as λ goes to zero, wherever Tu is not zero, its direction tends to that of Tu, which is supported only on the nodes of prestressed bonds; prestress carried by a cluster that every zero mode moves rigidly redirects nothing'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-057: a demonstrated claim, proved in one line
+    (H = CᵀKC + T, so (H + λI)u = (T + λI)u when Cu = 0). Its only edge is
+    corroborated_by THEORY-1414, which is Active. The localization clause
+    is hedged to Tu not zero under ADR-047's kind 3. Read as the force's
+    direction, the old clause was met by the claim's own check: on network
+    A of scratch/formal/rocks_mehta_check.py, the braced strip, Tu = 0, and
+    the force λu lies mostly off the prestressed nodes at every λ (a share
+    of 0.48 to 0.95). The body already said "whenever Tu ≠ 0". The
+    twenty-eighth pass's second check, which re-ran the script, missed it.
+    The defeated_if's third clause is hedged to match, and a clause for the
+    rigid-cluster statement, which had none, is added. The script's own
+    check of the identity was circular, since it built H as CᵀKC + T; the
+    twenty-ninth pass added a finite-difference Hessian of the network's
+    energy. Re-run: it matches CᵀKC + T to at most 2.3e-10 in all twelve
+    runs, and (H_fd + λI)u = (T + λI)u for every u in ker C. Two wrong-T
+    controls fail as they must in all four prestressed runs: omitting T, and
+    the projector b̂b̂ᵀ in place of I − b̂b̂ᵀ. At the level of the force, the
+    wrong projector breaks the identity on network B, where Tu ≠ 0, and
+    cannot do so on network A, where Tu = 0. Old title: 'In a
+    central-force network at a stable ground state, the external force that
+    couples to a linear zero mode u is (T + λI)u, with T the prestress
+    matrix and λ the regularizer, so bond stiffness never redirects it, and
+    as λ goes to zero it is supported only on the nodes of prestressed
+    bonds; prestress carried by a cluster that every zero mode moves
+    rigidly redirects nothing'. Old third clause of the condition: "or in
+    which, as λ goes to zero, it has a component on a node incident to no
+    prestressed bond".
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -12,8 +44,10 @@ defeated_if: >-
   of self-stress, in which the force mapped by the susceptibility onto a
   linear zero mode u differs from (T + λI)u; or in which, with zero
   prestress, some choice of stiffnesses makes that force not parallel to
-  u; or in which, as λ goes to zero, it has a component on a node incident
-  to no prestressed bond. Also defeated if it only restates a result the
+  u; or in which, with Tu not zero, the direction of that force keeps, as
+  λ goes to zero, a component on a node incident to no prestressed bond;
+  or in which prestress carried by a cluster that every zero mode moves
+  rigidly makes Tu nonzero on that cluster. Also defeated if it only restates a result the
   record already holds; THEORY-1414's Theorem 1 gives the bijection but
   never writes the force in terms of T.
 tags:
@@ -31,12 +65,13 @@ summary: >-
   central-force network, the force is (T + λI)u. Stiffness drops out, and
   the localization is general in the limit. It is proved in one line and
   checked numerically in scratch/formal/rocks_mehta_check.py. The
-  coordinator re-ran the script and checked the identity by hand. Kept
-  Proposed for the next pass to rule on. The wording is the assistant's
+  coordinator re-ran the script and checked the identity by hand.
+  Promoted by the twenty-ninth status review, which made the script's
+  check independent with a finite-difference Hessian. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
 
-# CLAIM-609: In a central-force network at a stable ground state, the external force that couples to a linear zero mode u is (T + λI)u, with T the prestress matrix and λ the regularizer, so bond stiffness never redirects it, and as λ goes to zero it is supported only on the nodes of prestressed bonds; prestress carried by a cluster that every zero mode moves rigidly redirects nothing
+# CLAIM-609: In a central-force network at a stable ground state, the external force that couples to a linear zero mode u is (T + λI)u, with T the prestress matrix and λ the regularizer, so bond stiffness never redirects it, and as λ goes to zero, wherever Tu is not zero, its direction tends to that of Tu, which is supported only on the nodes of prestressed bonds; prestress carried by a cluster that every zero mode moves rigidly redirects nothing
 
 ## The claim
 
@@ -48,7 +83,7 @@ Take Rocks and Mehta's setting ([NOTE-1557](../notes.d/NOTE-1557.md)). The compa
 - **Localization.** ∂²ℓ_α/∂u_i∂u_j vanishes unless i and j are endpoints of bond α. So T, and with it Tu, is supported on the nodes of bonds with t^ps_α ≠ 0. As λ goes to zero, f/|f| tends to Tu/|Tu| whenever Tu ≠ 0. For a central-force bond, ∂²ℓ/∂u² acts on the relative displacement as (I − b̂b̂ᵀ)/ℓ, so the force is the prestress times the transverse relative motion of the prestressed bonds.
 - **Rigid clusters.** If every zero mode moves a self-stressed cluster rigidly, each bond's relative displacement in it is a translation or a rotation. A translation gives zero transverse motion. A rotation gives a transverse term t ω b̂⊥ per bond, and these sum to zero at each node because the tensions balance there. So Tu = 0 on that cluster, and f = λu.
 
-**Check.** scratch/formal/rocks_mehta_check.py (python3 -I) runs two networks that are not the paper's, with heterogeneous stiffness, at λ = 1e-3 and 1e-6, with zero-prestress controls. f = (T + λI)u holds in all twelve runs. With stiffness varied and no prestress, |cos(u, f)| = 1. Prestress on a rigid braced cell leaves |cos| = 1. On a pinned grid whose straight row carries tension, |cos| = 0.53, and the share of f off the row's nodes falls from 0.0012 at λ = 1e-3 to 0 at λ = 1e-6. The coordinator of the twenty-eighth status review re-ran it and checked the identity by hand.
+**Check.** scratch/formal/rocks_mehta_check.py (python3 -I) runs two networks that are not the paper's, with heterogeneous stiffness, at λ = 1e-3 and 1e-6, with zero-prestress controls. f = (T + λI)u holds in all twelve runs. With stiffness varied and no prestress, |cos(u, f)| = 1. Prestress on a rigid braced cell leaves |cos| = 1. There Tu = 0, so the force stays λu and lies mostly off the prestressed nodes at every λ. On a pinned grid whose straight row carries tension, |cos| = 0.53, and the share of f off the row's nodes falls from 0.0012 at λ = 1e-3 to 0 at λ = 1e-6. The coordinator of the twenty-eighth status review re-ran it and checked the identity by hand. The twenty-ninth added a finite-difference Hessian of the network's energy, which matches CᵀKC + T to at most 2.3e-10 and gives (H_fd + λI)u = (T + λI)u in all twelve runs; two wrong-T controls, T omitted and the projector b̂b̂ᵀ in place of I − b̂b̂ᵀ, fail on both prestressed networks.
 
 ## What it does not say
 

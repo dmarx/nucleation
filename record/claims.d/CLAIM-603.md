@@ -66,7 +66,7 @@ summary: >-
   for self-reliance. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1647 NOTE-1658 NOTE-1659 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
+<!-- inactive-ok-file: NOTE-1658 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
 
 # CLAIM-603: A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity
 
@@ -226,9 +226,15 @@ Two qualifications on incentives. Koedinger and Aleven's tutors put a designed c
 
 ## Note of 2026-11-06: what holds it back
 
-The title still states the favoured loss generally, though the
-counterpoint readings it records ([NOTE-1685](../notes.d/NOTE-1685.md), [NOTE-1684](../notes.d/NOTE-1684.md), [NOTE-1669](../notes.d/NOTE-1669.md)) find
-no such response in poor households; the title should be narrowed to the
-organizational case it concedes. Its Samaritan's-dilemma ground
-([THEORY-1480](../theory.d/THEORY-1480.md)) is read only in part, and Moore's thesis ([THEORY-1459](../theory.d/THEORY-1459.md)) is
-not held.
+Two holds stand. First, the title states the favoured loss generally,
+though the counterpoint readings it records ([NOTE-1685](../notes.d/NOTE-1685.md), [NOTE-1684](../notes.d/NOTE-1684.md),
+[NOTE-1669](../notes.d/NOTE-1669.md)) find no such response in poor households. The title should be
+narrowed to the organizational case it concedes. Second, Moore's thesis
+([THEORY-1459](../theory.d/THEORY-1459.md)) is not held. The third hold, that its Samaritan's-dilemma
+ground was read only in part, is met. [THEORY-1480](../theory.d/THEORY-1480.md) is now Active on a
+reading of every part of the report its title uses ([NOTE-1647](../notes.d/NOTE-1647.md)). That
+reading supports the claim's one-way supply set from outside: a recipient
+turns to another donor when one threatens to withdraw ("Bad Samaritans
+drive the good ones out of the market", p. 74), and Gardner and Waller
+find donors "stuck ... in partial success equilibria with their attendant
+aid dependency" (Appendix B, p. 326).

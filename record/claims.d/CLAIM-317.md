@@ -44,6 +44,7 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-406 — Proposed; the reading of boyd this claim grounds in, resting on the same skim -->
 <!-- inactive-ok-file: CLAIM-196 — Proposed; the claim this was split from, which rests on it, cited as open -->
+<!-- inactive-ok-file: NOTE-1432 — Skimmed; the reading of boyd the dated notes cite -->
 
 # CLAIM-317: Self-presentations that differ by audience do no harm while the audiences are kept apart; people keep them apart and script the occasions where they must meet, and broadcast and networked media bring them together unchosen, which is when the presentations collide
 
@@ -96,3 +97,29 @@ without its context, not presentations that differ by audience meeting
 ([THEORY-406](../theory.d/THEORY-406.md), "What this does not say"), and [CASE-064](../cases.d/CASE-064.md) is of that kind too.
 The one case of differing presentations colliding is Carmichael's, which
 the record has only through Meyrowitz, unread.
+
+## Note of 2026-11-06: boyd, read further
+
+boyd's household chapter ([NOTE-1432](../notes.d/NOTE-1432.md), §6.2.1) qualifies "which is when the
+presentations collide". Parents who join their teens on MySpace meet
+little conflict in healthy households. In one case a misread quiz led to
+a conversation that "further strengthened their relationship" (p. 252).
+Joined audiences collide at a cost that depends on the relation between
+them. These cases do not meet the defeated_if: they are few, and boyd
+does not record whether the presentations differed. A sanctioned
+collision is added, of the one-presentation kind: a family banned a girl
+from their house over her MySpace profile (p. 289). boyd states the
+premise directly: "teens want to be able to interact with their peers
+differently from how they interact with their parents" (p. 287). No
+status change.
+
+## Note of 2026-11-06: what holds it back
+
+Its ground [THEORY-406](../theory.d/THEORY-406.md) is still Proposed. boyd's methods chapter is now read
+([NOTE-1432](../notes.d/NOTE-1432.md)): interviews and profile observation, with no comparison of
+conflict while audiences are kept apart against conflict when a channel
+joins them, which is what [THEORY-406](../theory.d/THEORY-406.md)'s promote_when asks for. No study the
+record holds makes that comparison. The one case of differing presentations
+colliding is still Carmichael's, which the record has only through
+Meyrowitz, unread. The 2026-11-06 reading note above qualifies the title's
+last clause and does not meet the defeated_if.

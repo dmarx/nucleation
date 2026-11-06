@@ -64,7 +64,6 @@ summary: >-
   separates. The construction is the filer's, from A's two separations;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: THEORY-1409 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-207 CASE-209 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: NOTE-1572 NOTE-1555 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->

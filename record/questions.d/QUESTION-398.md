@@ -27,8 +27,6 @@ summary: >-
   establish persists". The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-600 NOTE-1659 — new or Skimmed; the revised synthesis and a reading of the counterpoint filing, cited as open -->
-<!-- inactive-ok-file: NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->
 
 # QUESTION-398: Under what conditions does a partial organization become independent of the intervention that originally established it?

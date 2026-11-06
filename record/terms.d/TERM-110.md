@@ -26,8 +26,7 @@ summary: >-
   filer's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-2062 LIT-1573 — Unfetched; works cited for their published abstract or as the source of a sense, nothing here rests on them -->
-<!-- inactive-ok-file: NOTE-1599 — Skimmed; the reading the quotations from Gerardi and Maestri come from -->
-<!-- inactive-ok-file: THEORY-1378 THEORY-1371 CASE-173 — Proposed; accounts and a case cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-1371 CASE-173 — Proposed; an account and a case cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-110: ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet
@@ -146,3 +145,7 @@ In the constructed [CASE-200](../cases.d/CASE-200.md), any cut on unspent funds 
 ## Note of 2026-11-06: what holds it back
 
 No claim of the record's own is stated in it, its settle condition, and Freixas, Guesnerie and Tirole ([LIT-2062](../literature.d/LIT-2062.md)) are Unfetched; [CLAIM-577](../claims.d/CLAIM-577.md) left its uses because its spend-matching organization does not anticipate the rule. Its uses now say which part they mean: [TERM-106](TERM-106.md) and [CASE-200](../cases.d/CASE-200.md) cite its revision rule alone.
+
+## Note of 2026-11-06: Gerardi and Maestri, read
+
+The full reading ([NOTE-1599](../notes.d/NOTE-1599.md) v2) supports "It can stop learning altogether". Both quotations are the abstract's, verbatim. The mechanism is Lemma 3, checked from the journal's supplement: once the parties are patient enough, no pair of contracts both separates the two types and keeps both employed. [THEORY-1378](../theory.d/THEORY-1378.md) is now Active. No status changes; what holds the term back is unchanged.

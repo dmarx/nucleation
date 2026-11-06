@@ -88,7 +88,6 @@ summary: >-
   signatures. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1690 — Skimmed; a reading of the persistence filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: THEORY-072 — Proposed; the reading this claim is corroborated by, cited as open -->
 

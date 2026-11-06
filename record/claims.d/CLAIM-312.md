@@ -55,7 +55,7 @@ summary: >-
   [CLAIM-306](CLAIM-306.md)'s Bayes term, and it matters when the statement is passed to
   someone who will act on presence.
 ---
-<!-- inactive-ok-file: NOTE-1620 NOTE-1621 NOTE-1583 LIT-2105 LIT-2098 LIT-2075 — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
+<!-- inactive-ok-file: NOTE-1620 NOTE-1621 LIT-2105 LIT-2098 LIT-2075 — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
 
 # CLAIM-312: "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default
 

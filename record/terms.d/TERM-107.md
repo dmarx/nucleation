@@ -28,8 +28,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2076 — Unfetched; cited for its published abstract, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-2085 — Unavailable; Halfin and Whitt, cited through the neighbour that stands in for it -->
 <!-- inactive-ok-file: TERM-113 — Proposed; terms of the same filing, cited as filed -->
-<!-- inactive-ok-file: NOTE-1576 NOTE-1577 — Skimmed; the readings the account of Bogetoft and Hougaard and of the square-root rule comes from -->
-<!-- inactive-ok-file: THEORY-1401 THEORY-1421 THEORY-1416 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-1421 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-107: organizational slack: resources an organization holds beyond what its current output requires, some useful and some wasteful, which the output alone does not tell apart
@@ -107,3 +106,7 @@ Adopting it is the owner's call.
 ## Note of 2026-11-05: slack that is a reconfiguration reserve
 
 [TERM-106](TERM-106.md) refines this term. In [CASE-200](../cases.d/CASE-200.md) the 0.3 a budget leaves unspent is slack against current output and is exactly what makes a transition possible, a use that output alone cannot show. No status changes.
+
+## Note of 2026-11-06: Bogetoft and Hougaard, read in full
+
+The full reading ([NOTE-1576](../notes.d/NOTE-1576.md) v2) supports the definition and sharpens it. Bogetoft and Hougaard's slack is s = x − z for any feasible plan z with z ≤ x. With several inputs it is therefore a set, the "slack possibility set" S(x) (§2, pp. 7–8), not the difference from one least input vector. Which point of the set a unit takes is what their regimes and value function decide. The Cyert and March quotation is theirs, verbatim (§1, p. 4). [THEORY-1401](../theory.d/THEORY-1401.md) is now Active. No status changes.

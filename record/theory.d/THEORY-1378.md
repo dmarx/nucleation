@@ -1,30 +1,45 @@
 ---
 number: 1378
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6sg3n
-promote_when: >-
-  A second source, such as a survey of dynamic contracting or a later
-  paper, states that in an infinite-horizon screening model with
-  short-term contracts and irreversible quitting, the patient limit is
-  pooling with no learning below a prior threshold and firing of the
-  high-cost type above it.
 title: 'Gerardi and Maestri show that when a firm can offer a privately informed worker only short-term contracts, then as both become patient the unique limiting outcome is a pooling contract with no learning if the prior that the worker is low-cost is below a threshold, and immediate firing of the high-cost worker if it is above, both inefficient'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-11-04'
+  note: >-
+    Filed Proposed from NOTE-1599, which read the statements of
+    Propositions 2–3, not the proofs.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-ninth status review, at the status review's
+    ruling (the owner delegated these rulings); ADR-065. NOTE-1599 v2 reads
+    the main text in full, including the main-text proofs of Lemma 5 and
+    Proposition 3. It also checks the supplement's proof of Lemma 3, the
+    reason separation with employment fails. The title reports what the
+    authors show. The old promote_when asked for a second source: "A
+    second source, such as a survey of dynamic contracting or a later
+    paper, states that in an infinite-horizon screening model with
+    short-term contracts and irreversible quitting, the patient limit is
+    pooling with no learning below a prior threshold and firing of the
+    high-cost type above it." That is an independent test, moved to
+    QUESTION-tmpgjiy3.
 tags:
 - game-theory
 date: '2026-11-04'
 source:
 - LIT-2046
 summary: >-
-  Gerardi and Maestri (2020), [LIT-2046](../literature.d/LIT-2046.md), read Skimmed in [NOTE-1599](../notes.d/NOTE-1599.md):
-  the statements of Propositions 2–3 and their discussion were read, the
-  proofs were not. Read as a stand-in for Freixas, Guesnerie and Tirole
-  (1985), whose own two-period result it does not restate. It holds in the
-  limit as patience tends to one, with two types and irreversible
-  quitting; with rehiring the conclusion fails.
+  Gerardi and Maestri (2020), [LIT-2046](../literature.d/LIT-2046.md), read in [NOTE-1599](../notes.d/NOTE-1599.md): the main text in
+  full, and the supplement's proof of Lemma 3 checked. The appendices'
+  proofs were not checked line by line. Read as a stand-in for Freixas,
+  Guesnerie and Tirole (1985), whose own two-period result it does not
+  restate. It holds in the limit as patience tends to one, with two types
+  and irreversible quitting; with rehiring the conclusion fails.
 ---
-<!-- inactive-ok-file: NOTE-1599 LIT-2062 — Skimmed or Unfetched, and new; the reading this rests on and the unread original it stands in for, cited as open -->
+<!-- inactive-ok-file: LIT-2062 — Unfetched; the unread original this reading stands in for, cited as open -->
 
 # THEORY-1378: Gerardi and Maestri show that when a firm can offer a privately informed worker only short-term contracts, then as both become patient the unique limiting outcome is a pooling contract with no learning if the prior that the worker is low-cost is below a threshold, and immediate firing of the high-cost worker if it is above, both inefficient
 
@@ -48,8 +63,10 @@ pagination). Registered as a stand-in for Freixas, Guesnerie and Tirole
 - Could have come out otherwise: with impatient parties the firm learns the
   type for any prior (p. 584), and with rehiring a folk theorem gives
   near-commitment payoffs (Proposition 4). The result is specific to
-  patience and irreversible quitting. The proofs were not read for this
-  filing.
+  patience and irreversible quitting. Lemma 3 was checked from the
+  supplement: the two incentive constraints give
+  θ ≥ θ(qL − qH) ≥ δθqH*/(1 − δ), impossible above δ̂ = 1/(1 + qH*). At the
+  threshold prior itself the limit is not unique (fn. 15, p. 595).
 
 ## What this does not say
 
@@ -61,3 +78,4 @@ pagination). Registered as a stand-in for Freixas, Guesnerie and Tirole
   result is not restated here.
 - Anything about budgets, slack or capabilities kept for rare events; the
   setting is a labour relationship.
+- That a second source confirms it: that is [QUESTION-tmpgjiy3](../questions.d/QUESTION-tmpgjiy3.md).

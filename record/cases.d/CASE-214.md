@@ -32,8 +32,6 @@ summary: >-
   filer's, from A's one-degree-of-freedom stage; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1592 NOTE-1596 — Skimmed; Hopkins's 2007 and 2010 theses, the readings the quotations come from -->
-<!-- inactive-ok-file: THEORY-1406 THEORY-1390 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
 
 # CASE-214: A one-degree-of-freedom precision stage: five independent constraints leave one usable motion, and two designs with the same freedom space, one with every constraint doubled, differ in disturbance error and in drive force
 

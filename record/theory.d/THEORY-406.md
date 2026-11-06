@@ -15,7 +15,7 @@ promote_when: >-
   settle it, since the account predicts those and nothing else has been
   sampled.
 title: "Self-presentations that differ by audience coexist without trouble while the audiences are kept apart by spatial, social and temporal boundaries, and collide when a medium removes the boundaries; networked publics make the collision frequent and often unseen by the person it happens to"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-30'
@@ -25,6 +25,14 @@ history:
     read in full (NOTE-1432); the Source and summary say so, and
     "What this does not say" gains what the documented collisions are.
     The title and status are unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    The twenty-ninth status review, at the status review's ruling (the
+    owner delegated these rulings). NOTE-1432 adds boyd's methods, §3.2,
+    §6.2.1 and §§6.4–6.5. The Source says so, and "What this does not
+    say" gains that a collision's cost depends on the relation between
+    the audiences. The title, promote_when and status are unchanged.
 tags:
 - social-science
 - self
@@ -55,8 +63,9 @@ supports:
 danah boyd (2008), *Taken Out of Context: American Teen Sociality in
 Networked Publics*, PhD dissertation, UC Berkeley, [LIT-1001](../literature.d/LIT-1001.md), read in part:
 §1.5, §4.4 and selected passages in [NOTE-710](../notes.d/NOTE-710.md), and Chapters 1, 4 and 7
-in full in [NOTE-1432](../notes.d/NOTE-1432.md); the methods chapter and Chapters 5–6 are
-unread. The account of collapsed contexts is Meyrowitz's (1985)
+in full in [NOTE-1432](../notes.d/NOTE-1432.md); the methods (§§2.3–2.4), §3.2, §6.2.1 and
+§§6.4–6.5 are now read too ([NOTE-1432](../notes.d/NOTE-1432.md), version 2), and most of Chapter 5
+and parts of Chapters 2, 3 and 6 are not. The account of collapsed contexts is Meyrowitz's (1985)
 account of broadcast media, extended to everyday people; Meyrowitz is not
 held. This account rests on a skim.
 
@@ -110,6 +119,11 @@ language by setting.
   differ by audience, and the record has it only at second hand. The
   teens' remedy is to control the audience, not to unify the presentation
   (p. 163).
+- **That joined audiences always collide at a cost.** When parents enter
+  teen space, boyd finds that "Social media rarely damaged healthy
+  intergenerational relationships" (p. 249). Where relations are already
+  contentious, the conflict grows. Whether the teens' presentations
+  differed in these cases is not recorded.
 
 ## Connections
 
@@ -129,3 +143,13 @@ them together, is unmet: boyd's Chapters 1, 4 and 7, now read in full
 interviews and cases the promote_when says cannot settle it. boyd is still
 read only in part, so it cannot be promoted on one source read in full
 either.
+
+## Note of 2026-11-06: what holds it back
+
+Its promote_when, a study comparing conflict between differing
+presentations when audiences are kept apart and when a channel joins
+them, is still unmet. boyd's methods, now read, are interviews and
+profile observation with no such comparison. The new reading also
+qualifies the title's second clause: joined audiences in healthy
+households met with little conflict (p. 249). An attributed reading
+would not free [CLAIM-317](../claims.d/CLAIM-317.md), which needs the general claim.

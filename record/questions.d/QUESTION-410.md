@@ -4,7 +4,17 @@ status: Open
 formerly:
 - QUESTION-tmp1jy98
 title: 'Have the DNA-origami folding-pathway and thermodynamic results that the record holds from single groups been reproduced independently: the order in which staple domains bind and the compacted intermediate, where folding nucleates under changed staple concentrations, the design aggregates that order defectivity, the asymmetric hysteresis and the nucleation barrier of domain-level models, and single-fold stability and blocking by excess staple?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-ninth status review's ruling (the owner delegated
+    these rulings): THEORY-1440's promotion condition, an
+    independent measurement or a reading of Sobczak et al. 2012,
+    moved here word for word when that entry was narrowed and
+    promoted under ADR-065; the summary names it and a section holds
+    it.
 tags:
 - natural-sciences
 - complex-systems
@@ -13,7 +23,8 @@ line: realizability
 summary: >-
   The promotion conditions formerly on [THEORY-1441](../theory.d/THEORY-1441.md), [THEORY-1442](../theory.d/THEORY-1442.md),
   [THEORY-1446](../theory.d/THEORY-1446.md), [THEORY-1447](../theory.d/THEORY-1447.md), [THEORY-1453](../theory.d/THEORY-1453.md), [THEORY-1454](../theory.d/THEORY-1454.md), [THEORY-1457](../theory.d/THEORY-1457.md), moved
-  here when the twenty-eighth status review promoted them under [ADR-065](../decisions.d/ADR-065.md).
+  here when the twenty-eighth status review promoted them under [ADR-065](../decisions.d/ADR-065.md),
+  and THEORY-1440's, moved when the twenty-ninth narrowed and promoted it.
   Each reading reports what one group found, among the record's
   DNA-origami folding-pathway and thermodynamic results; whether each
   holds when another group or method tests it is this question.
@@ -99,3 +110,11 @@ the conditions they carried, word for word, say what would count.
 > excess, and its independence of anneal rate and staple motif. The
 > proposed whole-origami escape is not part of the claim and needs no
 > test for promotion.
+
+### [THEORY-1440](../theory.d/THEORY-1440.md)
+
+Moved on 2026-11-06 when the twenty-ninth status review narrowed and promoted it.
+
+> A reading of Sobczak et al. 2012 (Science) itself, or another independent measurement, shows for at
+> least one DNA origami a constant-temperature folding window a few degrees wide and a melting transition
+> at a higher temperature, faster than folding, measured on stated timescales.

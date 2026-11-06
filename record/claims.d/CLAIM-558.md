@@ -1,10 +1,10 @@
 ---
 number: 558
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp4g8e1
 title: 'A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -13,6 +13,20 @@ history:
     ruling (the owner delegated these rulings), its disuse term
     became a stated condition, and the two claims complement each
     other (ADR-057). The claim and its status are unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    The twenty-ninth status review, at the status review's ruling (the
+    owner delegated these rulings). Status Proposed → Active under
+    ADR-057. THEORY-1424, the ground of its first two parts, is now
+    Active on a full reading of Tatel (NOTE-1560), with its practice
+    clause narrowed to accuracy. THEORY-1404, its other ground, is
+    Active. No objection targets the claim, nothing in the record meets
+    its defeated_if, and no Proposed THEORY or LIT lists it under
+    supports. The body now says the NOTE is read, not skimmed. The
+    holdback note of 2026-11-06 is replaced by a note on the full
+    reading. The warrant stays interpretive: the third part and the
+    extension to organizations are the filer's.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,10 +62,6 @@ summary: >-
   capability an organization keeps for rare events is the filer's. The
   wording is the filer's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-600 — new; the assistant's synthesis on safe and hazardous support, cited as open -->
-<!-- inactive-ok-file: NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
-<!-- inactive-ok-file: THEORY-1424 — Proposed; the reading this claim is grounded in, itself Proposed, so the claim is no firmer than they are -->
-<!-- inactive-ok-file: NOTE-1560 — Skimmed; the reading of Tatel's dissertation the quotations come from -->
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation
 
@@ -61,7 +71,7 @@ Three parts, of different strength.
 
 1. **Decay with disuse.** A learned procedure with a motor component loses
    performance with the time since it was last used. Tatel's
-   meta-analysis ([LIT-2079](../literature.d/LIT-2079.md), skimmed in [NOTE-1560](../notes.d/NOTE-1560.md); [THEORY-1424](../theory.d/THEORY-1424.md)): for
+   meta-analysis ([LIT-2079](../literature.d/LIT-2079.md), read in [NOTE-1560](../notes.d/NOTE-1560.md); [THEORY-1424](../theory.d/THEORY-1424.md)): for
    accuracy the effect size "generally increases in magnitude by 0.08 per
    month of infrequent use", and "one can expect about half of initial
    skill acquisition gains to be lost after between 6 and 9 months of
@@ -134,10 +144,12 @@ Extended from skill to tissue. Under full ventilatory support the diaphragm's fi
 
 Supported and extended. Disuse need not mean rare operation: it can sit inside daily work when automation does a subtask (Macnamara et al., [NOTE-1710](../notes.d/NOTE-1710.md)). The decay is larger for cognitive than for procedural skill, and it may go unnoticed by the performer. The FAA's advice that pilots use manual skills on most flights is practice kept up beside the support, this claim's remedy. No new decay rates are given; the record's rates are still Tatel's ([LIT-2079](../literature.d/LIT-2079.md)). No status changes.
 
-## Note of 2026-11-06: what holds it back
+## Note of 2026-11-06: Tatel, read in full
 
-Its first two parts are Tatel's rates and practice moderator
-([THEORY-1424](../theory.d/THEORY-1424.md)), whose reading ([NOTE-1560](../notes.d/NOTE-1560.md)) skipped the effect-size and
-moderator chapters; until that reading is complete, or another read
-study gives decay with time since use, the claim's ground is not held.
-[THEORY-1404](../theory.d/THEORY-1404.md), its other ground, went Active in the same pass.
+[THEORY-1424](../theory.d/THEORY-1424.md), the ground of its first two parts, is now Active on a full
+reading ([NOTE-1560](../notes.d/NOTE-1560.md)), with its practice clause narrowed to accuracy. Two
+qualifications for part 2. Tatel's performance opportunities are mostly
+an earlier retention test, which is itself practice outside operation,
+and so fits part 3. And the opportunity changes the slope, not the level.
+By the reviewer's arithmetic from Tatel's Appendix L, not Tatel's own, the
+advantage appears in the accuracy data only beyond about ten months.

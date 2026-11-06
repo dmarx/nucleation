@@ -26,7 +26,7 @@ summary: >-
   independent of it, with a dual certificate for the local residual; it
   has no such split. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1419 THEORY-1389 NOTE-1588 — Proposed or Skimmed; the readings' accounts and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-1419 — Proposed or Skimmed; the readings' accounts and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
 
 # QUESTION-389: Can some forms of organizational conflict be represented as internally balanced constraint loads, while others appear as missing degrees of freedom or unreachable motions?
 

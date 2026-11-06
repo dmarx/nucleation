@@ -40,7 +40,6 @@ summary: >-
   [CLAIM-600](../claims.d/CLAIM-600.md) as the case of capacity-first support in a learner.
 ---
 <!-- inactive-ok-file: THEORY-1547 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
-<!-- inactive-ok-file: CLAIM-600 — Proposed; cited from the reading of Koedinger and Aleven (2007) as open -->
 
 # THEORY-1520: Koedinger and Aleven argue that instruction faces an assistance dilemma, help given buying accuracy and efficiency at the cost of shallow processing and help withheld buying generation and memory engagement at the cost of floundering, and that within tutored problem solving, where the learner does the steps and help is added only on failure, the experiments they review favour more help rather than less, support shifting from worked examples toward problems and as-needed hints as competence grows, learners left to ask for help asking badly, and the point at which to switch between giving and withholding unknown
 

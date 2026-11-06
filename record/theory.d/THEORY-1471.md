@@ -37,7 +37,7 @@ summary: >-
   still being paid, one to two years in; it says nothing about work after
   transfers stop, nor about state-level aid.
 ---
-<!-- inactive-ok-file: CLAIM-600 CLAIM-603 THEORY-1480 — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
+<!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Banerjee, Hanna, Kreindler and Olken (2017) as open -->
 
 # THEORY-1471: Banerjee, Hanna, Kreindler and Olken find, re-analysing seven randomized evaluations of government-run cash transfer programs in six countries, no systematic effect of the transfers on whether adults work or how many hours they work, for men or for women: pooled, a transfer worth 13.6% of household consumption changes participation by −0.4 points (90% interval −2.3 to +1.4) and weekly hours by about −5 minutes (−1.7 to +1.4 hours), ruling out moderate reductions for men while leaving a wide range for women
 

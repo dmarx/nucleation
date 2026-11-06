@@ -1,21 +1,34 @@
 ---
 number: 1473
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpazwuz
-promote_when: >-
-  The report is read in full, its implementation chapter and annexes
-  included, and found to bear out, city by city, the three things the
-  title says Watson finds: condominial sewerage costing a third to a
-  quarter of conventional sewerage and performing as well in about half
-  the cases; upkeep devolved to residents' blocks rarely working; and the
-  systems lasting where agencies kept up trunk maintenance, monitoring,
-  education and feeder backup in face-to-face contact with residents and
-  decaying where agencies withdrew from or refused the networks. Whether
-  continued agency involvement causes persistence in general is not asked,
-  since the title asserts only what this study finds.
 title: 'Watson finds, across seven Brazilian cities, that condominial sewerage cost a third to a quarter of conventional sewerage and performed as well in about half the cases, that upkeep devolved to residents'' blocks rarely worked, and that the systems lasted where agencies kept up trunk maintenance, monitoring, education and backup on feeder lines in face-to-face contact with residents and decayed where agencies withdrew from or refused the networks'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), the twenty-ninth, under ADR-065: the title
+    reports what Watson finds, and NOTE-1659 v2 reads the report in
+    full, implementation chapter and annexes included. Its condition
+    is met city by city: cost from pp. 9, 14 and Figure 4,
+    performance from Table 4 and the four good or average cases,
+    devolved block upkeep from pp. 16, 21, 33-34, 37 and 41,
+    persistence and decay from Table 7 and Annex I. Title unchanged.
+    The condition was: 'The report is read in full, its
+    implementation chapter and annexes included, and found to bear
+    out, city by city, the three things the title says Watson finds:
+    condominial sewerage costing a third to a quarter of
+    conventional sewerage and performing as well in about half the
+    cases; upkeep devolved to residents' blocks rarely working; and
+    the systems lasting where agencies kept up trunk maintenance,
+    monitoring, education and feeder backup in face-to-face contact
+    with residents and decaying where agencies withdrew from or
+    refused the networks. Whether continued agency involvement
+    causes persistence in general is not asked, since the title
+    asserts only what this study finds.'
 tags:
 - society-and-governance
 - social-science
@@ -23,29 +36,27 @@ date: '2026-11-05'
 source:
 - LIT-2190
 summary: >-
-  Watson (1995), [LIT-2190](../literature.d/LIT-2190.md), skimmed in [NOTE-1659](../notes.d/NOTE-1659.md): only the
-  operation-and-maintenance part and the conclusion were read, from a
-  scanned OCR copy, so the cost and performance figures are the
-  abstract's; hence Proposed. Qualitative, seven non-random cities, no
+  Watson (1995), [LIT-2190](../literature.d/LIT-2190.md), read in full in NOTE-1659 from a
+  scanned OCR copy. Qualitative, seven non-random cities, no
   counterfactual and no health outcome. It does not show that agency
   involvement caused the systems to last, only that the two went together
   in these cases; it carries no measured threshold.
 ---
-<!-- inactive-ok-file: NOTE-1659 LIT-2140 — Unavailable, Proposed, Skimmed or new; cited from the reading of Watson (1995) as open -->
+<!-- inactive-ok-file: LIT-2140 — Unavailable; cited from the reading of Watson (1995) as open -->
 
 # THEORY-1473: Watson finds, across seven Brazilian cities, that condominial sewerage cost a third to a quarter of conventional sewerage and performed as well in about half the cases, that upkeep devolved to residents' blocks rarely worked, and that the systems lasted where agencies kept up trunk maintenance, monitoring, education and backup on feeder lines in face-to-face contact with residents and decayed where agencies withdrew from or refused the networks
 
 ## Source
 
-Watson (1995), [LIT-2190](../literature.d/LIT-2190.md); skimmed in [NOTE-1659](../notes.d/NOTE-1659.md) (PDF pp. 33–48 and
-the abstract).
+Watson (1995), [LIT-2190](../literature.d/LIT-2190.md); read in [NOTE-1659](../notes.d/NOTE-1659.md).
 
 ## What was actually shown
 
 - **Cost and performance** (abstract): condominial projects "performed as
   well as conventional sewerage, but cost between a third to a quarter of
-  those systems" in roughly half the cases. Not checked against the cost
-  table, which the OCR garbles.
+  those systems" in roughly half the cases. Borne out by p. 9 ("between 50 and 80
+  percent less"), p. 14, Figure 4 ($750–1,500 conventional against $269–$330 per household in
+  Petrolina) and Table 4, and by the four cities ranked good or average of seven.
 - **Devolved upkeep** (pp. 33–34): it "has not worked well even in the best
   cases"; in Natal "Only four percent of residents, however, knew who the
   representative was ten years later"; one Recife campaign "was the only
@@ -64,6 +75,8 @@ None is reported in the parts read, among seven chosen cities.
 
 ## What this does not say
 
+- That residents could not keep feeders at all: individual upkeep worked where trunk lines were
+  kept (pp. 33, 35, 44); what rarely worked was the block as a collective unit.
 - That agency involvement caused persistence: the evidence is qualitative
   co-occurrence, with no counterfactual.
 - That residents cannot keep feeders anywhere: the claim is about Brazilian
@@ -75,10 +88,3 @@ None is reported in the parts read, among seven chosen cities.
   models; Olinda's reversion is collapse after supply failure, not a
   measured threshold. It does bear on [CLAIM-597](../claims.d/CLAIM-597.md), as a case of supplied
   upkeep that never became optional.
-
-## Note of 2026-11-06: what holds it back
-
-[NOTE-1659](../notes.d/NOTE-1659.md) is Skimmed: the report's implementation chapter (Part III) and
-its annexes were not read, and Figure 4's cost table is too garbled to
-use, so the city-by-city record behind the title's three findings is
-unread. It waits on that reading, which is what its condition asks.

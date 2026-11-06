@@ -74,7 +74,8 @@ LaVoice (2024), [LIT-2142](../literature.d/LIT-2142.md); read from a short 2021 
 
 ## Note of 2026-11-06: what holds it back
 
-[NOTE-1680](../notes.d/NOTE-1680.md) is Skimmed because only the 24-page short version was reached,
-and it defers its complete results to the full paper. It waits on the
-full paper or the Journal of Public Economics version being read; then
-the condition's re-estimation clause moves to a QUESTION ([ADR-065](../decisions.d/ADR-065.md)).
+The full paper is unread: the short version read in [NOTE-1680](../notes.d/NOTE-1680.md) defers its model and complete results to it.
+The version of record, which is open access, was blocked by a bot check, and its abstract says black
+neighbourhoods were "twice as likely" to be cleared where the title says two to three times; the draft's
+income gain is 16% or 18% on two different pretreatment means. Reading that version is what is missing; its
+re-estimation clause then moves to a QUESTION.

@@ -60,7 +60,6 @@ summary: >-
   separation of the configuration layer from the process layer; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 
 # CLAIM-583: Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability
 
