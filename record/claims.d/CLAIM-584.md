@@ -27,7 +27,7 @@ summary: >-
   capability is what [QUESTION-395](../questions.d/QUESTION-395.md) asks how to find out. The wording
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-053 ARG-042 CLAIM-561 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: ARG-053 ARG-042 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CLAIM-584: Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful
 

@@ -4,7 +4,33 @@ status: Proposed
 formerly:
 - CLAIM-tmpc3x0c
 title: "Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-eighth status review, at the status review's ruling (the
+    owner delegated these rulings). Under ADR-058 the claims and readings
+    the synthesis cites as instances, parallels or one route among several
+    move from rests_on and grounds to corroborated_by: CLAIM-558 and
+    CLAIM-603 (disuse and slack effort, two of three routes; CLAIM-602
+    carries the condition), and THEORY-1488, THEORY-1477, THEORY-1467,
+    THEORY-1482, THEORY-1468, THEORY-1464, THEORY-1495, THEORY-1478,
+    THEORY-1480, THEORY-1471, THEORY-1466, THEORY-1486, THEORY-1493,
+    THEORY-1472, THEORY-1487 and THEORY-1470; THEORY-1509, which already
+    corroborates it, is listed. THEORY-1485 leaves grounds: Schröder,
+    Persson and De Roos are credited for the turnover test, an
+    attribution, and the body keeps the citation. THEORY-1481 and
+    THEORY-1483 are dropped: the body never uses them. The defeated_if's
+    second clause is restated under ADR-047's kind 3 to match the title's
+    caution that slow reversion can mimic persistence, which the revision
+    of 2026-11-05 added to the title and not to the condition; it ended
+    "after whose withdrawal the party nonetheless persisted through a
+    turnover", which the record's own reading of the Tennessee Valley
+    Authority (THEORY-1461) could be read to meet. No status change: the
+    ruling waits on a revision of the title (note of 2026-11-06). The note
+    of 2026-11-06 on what holds it back is replaced: its statement that
+    CLAIM-566 was not held is out of date.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -15,7 +41,9 @@ defeated_if: >-
   still brought decline within a turnover; or support that failed one of them, as supply that
   does the upkeep, supply against a persisting threat or supply that
   substitutes for the party's work, after whose withdrawal the party
-  nonetheless persisted through a turnover; or evidence across such cases
+  nonetheless persisted through a turnover by a feedback that keeps it
+  going, not by slow return toward a single steady state; or evidence
+  across such cases
   that the damage done by substitutive support does not grow with its
   length. Not defeated by a single case in which chance or a change of
   conditions decides the outcome.
@@ -31,32 +59,31 @@ rests_on:
 - CLAIM-597
 - CLAIM-604
 - CLAIM-602
-- CLAIM-603
-- CLAIM-558
 - CLAIM-566
 grounds:
+- THEORY-1465
+- THEORY-1461
+- THEORY-1492
+corroborated_by:
+- CLAIM-558
+- CLAIM-603
 - THEORY-1488
-- THEORY-1485
-- THEORY-1468
 - THEORY-1477
 - THEORY-1467
 - THEORY-1482
+- THEORY-1468
 - THEORY-1464
 - THEORY-1495
 - THEORY-1478
 - THEORY-1480
-- THEORY-1483
-- THEORY-1492
-- THEORY-1481
-- THEORY-1465
 - THEORY-1471
 - THEORY-1466
 - THEORY-1486
 - THEORY-1493
-- THEORY-1461
 - THEORY-1472
 - THEORY-1487
 - THEORY-1470
+- THEORY-1509
 bears_on:
 - QUESTION-398
 - QUESTION-399
@@ -99,7 +126,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2213 LIT-2212 — Unavailable; registered by the medicine filing, cited as open -->
 <!-- inactive-ok-file: LIT-2221 LIT-2220 — Unavailable; registered by the state-aid filing, cited as open -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; registered by the assistance filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-558 CLAIM-603 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
+<!-- inactive-ok-file: CLAIM-558 CLAIM-603 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading that corroborate this synthesis, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
 
@@ -300,7 +327,7 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   domains in which each condition is seen.
 - **To [QUESTION-399](../questions.d/QUESTION-399.md).** A nucleus can become independent of its founder
   and stay dependent on an ambient flux, as tree islands do. Whether it
-  regenerates its own parts is a further step: the planted cohort's own
+  regenerates its own parts is a further step ([CLAIM-566](CLAIM-566.md)): the planted cohort's own
   seedlings rarely reach the sapling layer ([NOTE-1660](../notes.d/NOTE-1660.md)), so these
   islands have not taken it.
 
@@ -356,7 +383,4 @@ Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), sup
 
 ## Note of 2026-11-06: what holds it back
 
-It rests on [CLAIM-558](CLAIM-558.md), [CLAIM-603](CLAIM-603.md) and [CLAIM-566](CLAIM-566.md), none held: [CLAIM-558](CLAIM-558.md)
-waits on a full reading of Tatel, and [CLAIM-603](CLAIM-603.md) on narrowing its title
-to the organizational case. [CLAIM-597](CLAIM-597.md), [CLAIM-602](CLAIM-602.md) and [CLAIM-604](CLAIM-604.md) went
-Active in this pass.
+Its premises are held: [CLAIM-597](CLAIM-597.md), [CLAIM-602](CLAIM-602.md), [CLAIM-604](CLAIM-604.md) and [CLAIM-566](CLAIM-566.md) are Active ([CLAIM-566](CLAIM-566.md) since 2026-11-06), and the claims and readings it cites as instances corroborate it. What holds it back is that the qualifications its own notes say the third condition needs are not in its title: an upper bound on the party's effort (Goligher et al.), the per-subtask unit (Macnamara et al.), and the party's own work continuing after withdrawal where lockout threatens (Cohen and Levinthal). The next step is a revision that writes them into the title, and then a ruling.

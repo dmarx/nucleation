@@ -1,17 +1,27 @@
 ---
 number: 1518
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6ihw6
-promote_when: >-
-  Independent evidence for both parts of the account: a firm-level panel
-  showing that own R&D raises a firm's use of outside knowledge more where
-  that knowledge is harder to learn; and a study following firms that
-  stop, cut or outsource R&D in a fast-moving field showing that their
-  later use of outside knowledge in that field falls, and does not return
-  when opportunities in it rise, beyond firms that kept investing.
 title: 'Cohen and Levinthal argue that a firm''s ability to recognize, assimilate and apply outside knowledge rests on its prior related knowledge, built largely as a byproduct of its own R&D and not quickly bought, and that because this capacity accumulates and shapes what the firm expects of a field, a firm that stops investing in a fast-moving field may be locked out of it even after major advances; with 1975–1977 data on 1,719 business units they test only the static part, that R&D intensity rises more with the relevance of harder-to-learn, less targeted knowledge'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what the source holds,
+    read in full in NOTE-1712, and nothing in the record contradicts the
+    report. Its promote_when asked that the authors be right, which is
+    more than the title asserts; it moves word for word to
+    THEORY-tmpi890g, Proposed, which extends this entry (ADR-047 kind
+    1). The old condition: Independent evidence for both parts of the
+    account: a firm-level panel showing that own R&D raises a firm's use
+    of outside knowledge more where that knowledge is harder to learn;
+    and a study following firms that stop, cut or outsource R&D in a
+    fast-moving field showing that their later use of outside knowledge
+    in that field falls, and does not return when opportunities in it
+    rise, beyond firms that kept investing.
 tags:
 - social-science
 date: '2026-11-06'
@@ -19,13 +29,14 @@ source:
 - LIT-2228
 summary: >-
   Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md), read in full in [NOTE-1712](../notes.d/NOTE-1712.md),
-  most of Table 1 image-only. Proposed: the account of capacity built by
+  most of Table 1 image-only. Held as a report of what the source holds, its truth left to THEORY-tmpi890g; the caveats: the account of capacity built by
   own work, its path dependence and lockout is argued from cognitive
   psychology and illustrations; the evidence is one indirect
   cross-sectional test of a static model. It does not show that any firm
   that stopped R&D was locked out, or how long recovery takes.
 ---
-<!-- inactive-ok-file: CLAIM-600 THEORY-1523 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
+<!-- inactive-ok-file: THEORY-tmpi890g — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: CLAIM-600 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
 
 # THEORY-1518: Cohen and Levinthal argue that a firm's ability to recognize, assimilate and apply outside knowledge rests on its prior related knowledge, built largely as a byproduct of its own R&D and not quickly bought, and that because this capacity accumulates and shapes what the firm expects of a field, a firm that stops investing in a fast-moving field may be locked out of it even after major advances; with 1975–1977 data on 1,719 business units they test only the static part, that R&D intensity rises more with the relevance of harder-to-learn, less targeted knowledge
 

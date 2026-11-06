@@ -32,6 +32,7 @@ summary: >-
   not part of this account. A neighbour of Copeland, Gleiser & Müller
   (1995), [LIT-2200](../literature.d/LIT-2200.md), for the protection oscillons lack.
 ---
+<!-- inactive-ok-file: CLAIM-606 — Proposed; the claim whose topological route waits on this reading -->
 
 # THEORY-1507: A configuration of finite energy must approach a vacuum at spatial infinity, and the map from the boundary into the vacua falls into homotopy classes that cannot be continuously deformed into one another, so the space of configurations splits into sectors labelled by a topological charge measured at the boundary; the energy, action or tension in a sector is bounded below by that charge and the soliton saturates the bound, and a kink, which interpolates between distinct vacua at its two ends, has its charge fixed by that boundary data
 
@@ -66,3 +67,12 @@ Tong (2005), [LIT-2207](../literature.d/LIT-2207.md); read in part in [NOTE-1694
   on a finite domain; the classification assumes them fixed.
 - Anything about dynamics beyond the vortex picture: how fast or under what
   conditions pairs annihilate.
+
+## Note of 2026-11-06: what holds it back
+
+[NOTE-1694](../notes.d/NOTE-1694.md) is Skimmed (four passages of 139 pages), and the title is stated
+for any field theory with a kink, while the parts read treat instantons,
+monopoles and domain walls in gauge theories and never work through the
+plain kink. A full reading of a standard treatment of kinks and topological
+charge, or of the rest of these lectures, is what must come first;
+[CLAIM-606](../claims.d/CLAIM-606.md)'s topological route waits on it.

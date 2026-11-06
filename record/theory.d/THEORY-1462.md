@@ -1,17 +1,26 @@
 ---
 number: 1462
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp19alc
-promote_when: >-
-  A randomised or quasi-experimental field study finds that reducing
-  poverty (for example by a cash transfer) lowers measured stress or
-  negative affect and, through that change, lowers time discounting or
-  risk aversion in real or incentivised choices outside the laboratory; or
-  a field study finds that exogenously induced chronic stress in a poor
-  population raises discounting or risk aversion.
 title: "Haushofer and Fehr hold that poverty causes stress and negative affect, and that these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it; they grant that the affect-to-choice link rests only on laboratory inductions, and that no nonlinearity strong enough to make a poverty trap has been shown"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what the authors hold,
+    with their concessions, and NOTE-1681 reads the Review in full.
+    Whether the chain holds outside the laboratory moves to
+    THEORY-tmpc68tt, which extends this entry and keeps the old
+    condition word for word: 'A randomised or quasi-experimental field
+    study finds that reducing poverty (for example by a cash transfer)
+    lowers measured stress or negative affect and, through that
+    change, lowers time discounting or risk aversion in real or
+    incentivised choices outside the laboratory; or a field study
+    finds that exogenously induced chronic stress in a poor population
+    raises discounting or risk aversion.'
 tags:
 - social-science
 - emotion-and-affect
@@ -24,7 +33,7 @@ summary: >-
   Review. The first link has field causal support (18 of 25 causal
   studies; the Kenya cash-transfer trial); the second, which they call
   "the weakest link", has laboratory inductions only, with samples of 36
-  to 189 and acute rather than chronic stress. Proposed for that reason.
+  to 189 and acute rather than chronic stress. Active as a report of what the authors hold, that weakness included.
   It does not say that support raises effort or that a trap exists: no
   effort or labour response is measured, and income and psychological
   outcomes "show no strong signs of being nonlinear".

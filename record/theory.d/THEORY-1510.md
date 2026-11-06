@@ -1,20 +1,32 @@
 ---
 number: 1510
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmph89ue
-promote_when: >-
-  A second reader of pp. 47–50 of the paper confirms that it presents at
-  least one case in which restoring the historical conditions or reducing
-  the pressure failed to return the community, and an intervention aimed
-  at a named feedback or state variable (such as transplanting plugs of a
-  former dominant, digging micro-catchments, or removing a species with
-  strong biogeochemical effects) then succeeded, attributed by the authors
-  to that feedback. It does not need a test of alternative stable states,
-  which the title does not assert, nor evidence on what happens after the
-  intervention stops.
 title: 'On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what the source holds,
+    read in full in NOTE-1700, and nothing in the record contradicts the
+    report. The demand for a second reader of pp. 47–50 asks for a check
+    of the reading, not for anything the title asserts, and is dropped;
+    NOTE-1700 quotes the Hudson Bay case it names (p. 50). The authors'
+    thesis, stated generally, is filed beside it as THEORY-tmpihqep,
+    Proposed, which extends this entry (ADR-047 kind 1), under a
+    condition of its own. The old condition: A second reader of pp.
+    47–50 of the paper confirms that it presents at least one case in
+    which restoring the historical conditions or reducing the pressure
+    failed to return the community, and an intervention aimed at a named
+    feedback or state variable (such as transplanting plugs of a former
+    dominant, digging micro-catchments, or removing a species with
+    strong biogeochemical effects) then succeeded, attributed by the
+    authors to that feedback. It does not need a test of alternative
+    stable states, which the title does not assert, nor evidence on what
+    happens after the intervention stops.
 tags:
 - ecology
 - complex-systems
@@ -34,7 +46,8 @@ summary: >-
   (2018), [THEORY-1468](THEORY-1468.md), and tested against Schröder et al. (2005),
   [THEORY-1485](THEORY-1485.md).
 ---
-<!-- inactive-ok-file: THEORY-1468 THEORY-1485 CLAIM-600 — Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
+<!-- inactive-ok-file: THEORY-tmpihqep — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: CLAIM-600 — Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
 
 # THEORY-1510: On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice
 

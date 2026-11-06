@@ -75,3 +75,10 @@ None is reported in the parts read, among seven chosen cities.
   models; Olinda's reversion is collapse after supply failure, not a
   measured threshold. It does bear on [CLAIM-597](../claims.d/CLAIM-597.md), as a case of supplied
   upkeep that never became optional.
+
+## Note of 2026-11-06: what holds it back
+
+[NOTE-1659](../notes.d/NOTE-1659.md) is Skimmed: the report's implementation chapter (Part III) and
+its annexes were not read, and Figure 4's cost table is too garbled to
+use, so the city-by-city record behind the title's three findings is
+unread. It waits on that reading, which is what its condition asks.

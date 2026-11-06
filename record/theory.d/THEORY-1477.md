@@ -74,3 +74,12 @@ Nothing was shown with new data; this is the authors' synthesis.
 - That 64 m² holds outside tropical moist forest.
 - Anything about what happens after maintenance ends, or about cost,
   which the authors report as contested.
+
+## Note of 2026-11-06: what holds it back
+
+The title is general, and its source, Holl and colleagues' opinion
+article, argues it from cited studies without data of its own. It waits
+on a primary study read in full, such as Holl et al. (2020), [LIT-2145](../literature.d/LIT-2145.md),
+still Unfetched, or Zahawi and Augspurger (2006), showing the
+persistence contrast, the 64 m² minimum and the spread its condition
+names.

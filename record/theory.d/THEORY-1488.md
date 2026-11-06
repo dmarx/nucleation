@@ -1,20 +1,30 @@
 ---
 number: 1488
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpqkyte
-promote_when: >-
-  The treatment contrasts are confirmed in this paper's Appendix S1
-  tables, or by an independent replicated comparison of applied
-  nucleation, plantation and natural regeneration at 15 years or more
-  after maintenance ended, showing that both planted treatments raised
-  later-successional seedling and sapling recruitment and lowered
-  among-site compositional variability relative to natural regeneration,
-  while the tree layer in every treatment stayed dominated by a few
-  pioneers and the planted cohort, whose own seedlings seldom reached the
-  sapling layer.
 title: 'In ten southern Costa Rican pasture sites where weeding stopped after 2.5 years, planting six tree islands (86 trees per 0.25 ha) or a full plantation (313) still raised later-successional seedling and sapling recruitment and reduced among-site compositional variability relative to natural regeneration after 16–18 years, yet in every treatment the tree layer remained dominated by a few pioneers and the planted cohort, whose own seedlings seldom reached the sapling layer'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065 and ADR-047's one-study rule: the
+    title claims what this experiment measured, each contrast stated
+    in the article's text, which NOTE-1660 reads in full. The
+    condition's first route, confirmation in Appendix S1, names no
+    discrepancy and is dropped; its second, an independent
+    replicated comparison, moves to QUESTION-tmp3t9hj. It read: 'The
+    treatment contrasts are confirmed in this paper's Appendix S1
+    tables, or by an independent replicated comparison of applied
+    nucleation, plantation and natural regeneration at 15 years or
+    more after maintenance ended, showing that both planted
+    treatments raised later-successional seedling and sapling
+    recruitment and lowered among-site compositional variability
+    relative to natural regeneration, while the tree layer in every
+    treatment stayed dominated by a few pioneers and the planted
+    cohort, whose own seedlings seldom reached the sapling layer.'
 tags:
 - ecology
 date: '2026-11-05'
@@ -27,7 +37,7 @@ summary: >-
   its stand-in for long-term recruitment. Support withdrawn early built a
   process that ran on, the planted trees drawing colonists from a
   seed-rich landscape, without the planted population replacing itself.
-  Proposed: eight or nine plots per treatment in one region, planting
+  The sharp edges: eight or nine plots per treatment in one region, planting
   intensity confounded with treatment, and the supporting tables unread.
 ---
 <!-- inactive-ok-file: LIT-2145 — Unavailable; cited from the reading of Schubert et al. (2024) as open -->

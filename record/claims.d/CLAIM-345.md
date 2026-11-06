@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmp1glr8
 title: 'Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    A dated note added at the status review's ruling (the owner delegated
+    these rulings): the reading of Rocks and Mehta in full (NOTE-1557
+    version 2) qualifies the note that cited it, since which force excites
+    a zero mode depends on prestress and not on stiffness. No status
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -34,6 +43,7 @@ summary: >-
 supports:
 - CLAIM-354
 ---
+<!-- inactive-ok-file: CLAIM-tmp5iqbr — Proposed and new; the status review's own result from Rocks and Mehta, cited as checked, left for the next pass to rule on -->
 <!-- inactive-ok-file: NOTE-1592 NOTE-1596 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 <!-- inactive-ok-file: CASE-214 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
@@ -115,3 +125,7 @@ Several readings from the pasted synthesis on constraint architectures support t
 Murray and Sastry ([NOTE-1622](../notes.d/NOTE-1622.md)) come closest, in kind: rank settles reachability, while motion along higher brackets takes more input cycles, so rank-equal systems can differ in cost; no cost is computed beyond the first-order case. Dollar and Howe ([NOTE-1575](../notes.d/NOTE-1575.md)) qualify the frame: which freedoms are left passive mattered there, not the cost of control.
 
 Two entries filed from A's proposals bear on it. [CASE-214](../cases.d/CASE-214.md) is a constructed static analogue: two flexure stages with one freedom space, one with every constraint doubled, differing twofold in disturbance error and drive force. [CLAIM-562](CLAIM-562.md) complements the claim from the other side: in Stern, Pinson and Murugan's sheets, equal actuator counts do not fix the chance of folding correctly. No status changes.
+
+## Note of 2026-11-06: Rocks and Mehta, read in full
+
+The reading of Rocks and Mehta in full ([NOTE-1557](../notes.d/NOTE-1557.md), version 2) qualifies one phrase of the note above. Which force excites a zero mode depends on prestress, not on stiffness. For a zero mode u the force is (T + λI)u, and stiffness drops out ([CLAIM-tmp5iqbr](CLAIM-tmp5iqbr.md), the status review's own result, checked by a second checker). Stiffness enters the rest of the response and the energetic stiffness. The analogy stands. No status changes.

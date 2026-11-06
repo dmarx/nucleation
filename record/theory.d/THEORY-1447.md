@@ -1,23 +1,34 @@
 ---
 number: 1447
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpfdm4r
-promote_when: >-
-  An independent experiment or model on a DNA origami shows (a) that
-  raising staple-staple cooperativity, by stacking or by loop closure,
-  widens the gap between melting and annealing temperatures, and (b) that
-  increasing the cooling rate or lowering staple concentration shifts the
-  annealing temperature by several times more than it shifts the melting
-  temperature.
 title: 'Dannenberg and colleagues show, in a thermodynamically self-consistent domain-level kinetic model of planar DNA origami, that cooperativity between staples from scaffold loop closure and coaxial stacking sharpens the folding transition and produces folding/melting hysteresis, and that the hysteresis is asymmetric, faster cooling or fewer staples lowering the annealing temperature far more than they raise or move the melting temperature, because binding rates are nearly temperature-independent while unbinding rates rise steeply with temperature'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what Dannenberg and
+    colleagues' model shows, and NOTE-1645 reads the arXiv
+    post-acceptance revision in full, with no discrepancy named. The
+    condition asked for an independent experiment or model, and it moves
+    unchanged to QUESTION-tmp1jy98, which lists it under this entry's
+    code; this entry bears_on it: 'An independent experiment or model on
+    a DNA origami shows (a) that raising staple-staple cooperativity, by
+    stacking or by loop closure, widens the gap between melting and
+    annealing temperatures, and (b) that increasing the cooling rate or
+    lowering staple concentration shifts the annealing temperature by
+    several times more than it shifts the melting temperature.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2129
+bears_on:
+- QUESTION-tmp1jy98
 summary: >-
   Dannenberg, Dunn, Bath, Kwiatkowska, Turberfield and Ouldridge (2015),
   [LIT-2129](../literature.d/LIT-2129.md), read in [NOTE-1645](../notes.d/NOTE-1645.md). A simulation of one 166-domain

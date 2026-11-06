@@ -1,29 +1,43 @@
 ---
 number: 1517
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpymvl9
-promote_when: >-
-  A replication, with these instruments or better-justified ones and with
-  first stages reported, on the published 2001 data or an extended ICRG
-  panel, again finds a negative, significant coefficient of mean aid on the
-  change in governance, a larger coefficient for technical assistance than
-  for aid overall, a null interaction of aid with initial governance, and a
-  positive interaction of aid with its variability. A replication in which
-  the aid coefficient becomes insignificant once country panels with fixed
-  effects are used would refute it as a causal reading. Evidence on tax
-  effort or on what follows the withdrawal of aid does not bear on it.
 title: 'Knack finds, across 80 aid-receiving countries from 1982 to 1995, that higher mean aid relative to GNP or to government spending goes with smaller gains in the ICRG governance index, controlling for initial governance, income growth and population growth; the effect roughly doubles when aid is instrumented with recipient need and donor interest, holds within sub-Saharan Africa for aid relative to GNP, is several times larger for technical assistance, does not depend on initial governance, and shrinks as aid becomes less predictable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065 and ADR-047's one-study rule: the title
+    reports what one study read in NOTE-1707 found, with its hedges
+    kept, and nothing in the record contradicts it. The standard error
+    printed as 0.037 and 0.045 for one estimate leaves it significant
+    under either, so no clause of the title turns on it. The replication
+    and refutation clauses move word for word to QUESTION-tmpja1b8. The
+    old condition: A replication, with these instruments or
+    better-justified ones and with first stages reported, on the
+    published 2001 data or an extended ICRG panel, again finds a
+    negative, significant coefficient of mean aid on the change in
+    governance, a larger coefficient for technical assistance than for
+    aid overall, a null interaction of aid with initial governance, and
+    a positive interaction of aid with its variability. A replication in
+    which the aid coefficient becomes insignificant once country panels
+    with fixed effects are used would refute it as a causal reading.
+    Evidence on tax effort or on what follows the withdrawal of aid does
+    not bear on it.
 tags:
 - society-and-governance
 - social-science
 date: '2026-11-05'
 source:
 - LIT-2219
+bears_on:
+- QUESTION-tmpja1b8
 summary: >-
   Knack (2000), [LIT-2219](../literature.d/LIT-2219.md), read in [NOTE-1707](../notes.d/NOTE-1707.md) in its World Bank
-  working-paper version; the 2001 journal version was not read. Proposed:
+  working-paper version; the 2001 journal version was not read. Held as what the study finds, with its hedges:
   one change score per country, instruments whose exclusion is defended
   only by overidentification tests, no first stage reported, and a
   standard error printed differently in two tables. It measures governance,

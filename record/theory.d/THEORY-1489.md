@@ -1,16 +1,32 @@
 ---
 number: 1489
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmps14d3
-promote_when: >-
-  Monitoring of a Hawaiian wetland where active management of invasive
-  plants, predators and water levels stops records the endangered
-  waterbirds' numbers or reproductive success falling, compared with
-  wetlands where management continues, so that their stability is shown
-  to depend on the management continuing.
-title: "Underwood, Silbernagle, Nishimoto and Uyehara report that Hawai'i's endangered Coot, Stilt and Gallinule held stable or rising numbers from 1986 to 2007 where invasive plants, predators and water levels are actively managed, and hold that without perpetual management of those wetlands the birds would decline"
-version: 1
+title: 'Underwood, Silbernagle, Nishimoto and Uyehara report that Hawai''i''s endangered Coot, Stilt and Gallinule were stable or rising statewide from 1986 to 2007, with refuges where invasive plants, predators and water levels are actively managed holding on average 34–42% of each species on about 15% of the wetland, and hold that without perpetual active management of those wetlands the birds likely would decline'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings); ADR-065, ADR-047: NOTE-1672 reads the
+    article in full. The title read 'Underwood, Silbernagle,
+    Nishimoto and Uyehara report that Hawai'i's endangered Coot,
+    Stilt and Gallinule held stable or rising numbers from 1986 to
+    2007 where invasive plants, predators and water levels are
+    actively managed, and hold that without perpetual management of
+    those wetlands the birds would decline'; the trends it reported
+    are statewide, not for managed wetlands alone, and it dropped
+    the authors' 'likely' (kind 3, note only). Whether the birds
+    would decline without management, the thesis the authors assert,
+    moves to THEORY-tmpdxc8a, which extends this entry and keeps the
+    old condition word for word: 'Monitoring of a Hawaiian wetland
+    where active management of invasive plants, predators and water
+    levels stops records the endangered waterbirds' numbers or
+    reproductive success falling, compared with wetlands where
+    management continues, so that their stability is shown to depend
+    on the management continuing.'
 tags:
 - ecology
 - natural-sciences
@@ -25,13 +41,13 @@ summary: >-
   34–42 % of each population on about 15 % of the wetland; the authors
   hold that "without perpetual active management of wetlands in Hawai'i,
   the endangered waterbird species likely would experience population
-  declines". Proposed: the trends are observed, but the decline without
+  declines". The sharp edges: the trends are observed, but the decline without
   management is asserted from one marsh and cited studies, with no
   unmanaged control.
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Underwood et al. (2013) as open -->
 
-# THEORY-1489: Underwood, Silbernagle, Nishimoto and Uyehara report that Hawai'i's endangered Coot, Stilt and Gallinule held stable or rising numbers from 1986 to 2007 where invasive plants, predators and water levels are actively managed, and hold that without perpetual management of those wetlands the birds would decline
+# THEORY-1489: Underwood, Silbernagle, Nishimoto and Uyehara report that Hawai'i's endangered Coot, Stilt and Gallinule were stable or rising statewide from 1986 to 2007, with refuges where invasive plants, predators and water levels are actively managed holding on average 34–42% of each species on about 15% of the wetland, and hold that without perpetual active management of those wetlands the birds likely would decline
 
 ## Source
 

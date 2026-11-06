@@ -1,10 +1,19 @@
 ---
 number: 559
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp4pk8d
 title: 'In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings); ADR-057. CASE-213, which the body never uses, moves from
+    grounds to illustrated_by, and rests_on gains CLAIM-561, whose
+    expected-loss model supplies the first stage's ΔV(p0) > 0; both are
+    Active in the same change. No objection is filed.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -22,14 +31,16 @@ date: '2026-11-04'
 line:
 - readiness
 - formal-apparatus
-grounds:
-- CASE-213
+rests_on:
+- CLAIM-561
 complements:
 - CLAIM-535
 uses:
 - TERM-109
 bears_on:
 - QUESTION-394
+illustrated_by:
+- CASE-213
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
@@ -40,7 +51,6 @@ summary: >-
   not retrospectively refuted by later cancellation." The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-213 CLAIM-561 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CLAIM-559: In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective
 

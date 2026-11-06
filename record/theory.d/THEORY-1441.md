@@ -1,24 +1,45 @@
 ---
 number: 1441
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5gqa0
-promote_when: >-
-  An independent measurement, on this brick or another multilayer DNA
-  origami folded at constant temperature, finds (a) a domain binding order
-  that correlates between two designs sharing connectivity but not
-  sequence and correlates weakly with hybridization free energy, (b) that
-  the two termini of a staple bind independently, and (c) that removing the
-  earliest-binding domains abolishes an early compacted intermediate and
-  delays the folded state without preventing it.
-title: 'Schneider, Möritz and Dietz show that, in isothermal folding at 50 °C of one multilayer DNA origami brick, staple domains bind in a defined order set more by the scaffold''s topology of connectivity than by their binding strength, the two termini of a staple bind independently, and a set of early-binding nucleating domains forms a compacted intermediate without which the object still folds but hours later by a slower pathway'
-version: 1
+title: 'Schneider, Möritz and Dietz show that, in isothermal folding at 50 °C of one multilayer DNA origami brick, staple domains bind in a defined order set more by the scaffold''s topology of connectivity than by their binding strength, the two termini of a staple bind independently by a fit that itself assumes their independence, and a set of early-binding nucleating domains forms a compacted intermediate without which the object still folds but hours later by a slower pathway'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065: the title reports what the
+    authors find for one brick at one temperature, and NOTE-1641 reads
+    the PMC full text in full. The termini clause is narrowed as an
+    overstatement (ADR-047 kind 3), since the fit that yields it assumes
+    the independence it reports. The old title was 'Schneider, Möritz
+    and Dietz show that, in isothermal folding at 50 °C of one
+    multilayer DNA origami brick, staple domains bind in a defined order
+    set more by the scaffold's topology of connectivity than by their
+    binding strength, the two termini of a staple bind independently,
+    and a set of early-binding nucleating domains forms a compacted
+    intermediate without which the object still folds but hours later by
+    a slower pathway'. The condition asked for an independent
+    measurement, and it moves unchanged to QUESTION-tmp1jy98, which
+    lists it under this entry's code; this entry bears_on it: 'An
+    independent measurement, on this brick or another multilayer DNA
+    origami folded at constant temperature, finds (a) a domain binding
+    order that correlates between two designs sharing connectivity but
+    not sequence and correlates weakly with hybridization free energy,
+    (b) that the two termini of a staple bind independently, and (c)
+    that removing the earliest-binding domains abolishes an early
+    compacted intermediate and delays the folded state without
+    preventing it.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2122
+bears_on:
+- QUESTION-tmp1jy98
 summary: >-
   Schneider, Möritz and Dietz (2019), [LIT-2122](../literature.d/LIT-2122.md), read in [NOTE-1641](../notes.d/NOTE-1641.md).
   One object, one temperature and one buffer; progress normalized per
@@ -29,7 +50,7 @@ summary: >-
   important factors".
 ---
 
-# THEORY-1441: Schneider, Möritz and Dietz show that, in isothermal folding at 50 °C of one multilayer DNA origami brick, staple domains bind in a defined order set more by the scaffold's topology of connectivity than by their binding strength, the two termini of a staple bind independently, and a set of early-binding nucleating domains forms a compacted intermediate without which the object still folds but hours later by a slower pathway
+# THEORY-1441: Schneider, Möritz and Dietz show that, in isothermal folding at 50 °C of one multilayer DNA origami brick, staple domains bind in a defined order set more by the scaffold's topology of connectivity than by their binding strength, the two termini of a staple bind independently by a fit that itself assumes their independence, and a set of early-binding nucleating domains forms a compacted intermediate without which the object still folds but hours later by a slower pathway
 
 ## Source
 

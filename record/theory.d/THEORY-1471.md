@@ -1,18 +1,27 @@
 ---
 number: 1471
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7qas0
-promote_when: >-
-  An independent re-analysis of the same harmonized micro-data, or a
-  further pooled analysis of randomized evaluations of government cash
-  transfer programmes, that finds no systematic effect of the transfers on
-  whether adults work or on their weekly hours, with moderate reductions
-  excluded for men. Evidence on what happens after transfers stop, or on
-  larger transfers, is not asked for: the title asserts only the effect
-  while small transfers are being paid.
 title: 'Banerjee, Hanna, Kreindler and Olken find, re-analysing seven randomized evaluations of government-run cash transfer programs in six countries, no systematic effect of the transfers on whether adults work or how many hours they work, for men or for women: pooled, a transfer worth 13.6% of household consumption changes participation by −0.4 points (90% interval −2.3 to +1.4) and weekly hours by about −5 minutes (−1.7 to +1.4 hours), ruling out moderate reductions for men while leaving a wide range for women'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065 and ADR-047's one-study rule: the title
+    reports what the authors' pooled re-analysis measured, with its
+    intervals, and NOTE-1685 reads the article in full. The condition
+    asked for an independent re-analysis and moves unchanged to
+    QUESTION-tmps5xqd: 'An independent re-analysis of the same
+    harmonized micro-data, or a further pooled analysis of randomized
+    evaluations of government cash transfer programmes, that finds no
+    systematic effect of the transfers on whether adults work or on
+    their weekly hours, with moderate reductions excluded for men.
+    Evidence on what happens after transfers stop, or on larger
+    transfers, is not asked for: the title asserts only the effect
+    while small transfers are being paid.'
 tags:
 - social-science
 - society-and-governance
@@ -21,7 +30,7 @@ source:
 - LIT-2186
 summary: >-
   Banerjee, Hanna, Kreindler & Olken (2017), [LIT-2186](../literature.d/LIT-2186.md), read in full in
-  [NOTE-1685](../notes.d/NOTE-1685.md). Proposed: the numbers are the paper's Table 6, checked
+  [NOTE-1685](../notes.d/NOTE-1685.md). Active as a report of what the authors find; the numbers are the paper's Table 6, checked
   against the text, but the pooling was not re-run and the online
   appendices were not read. The intervals are 90% credible intervals. It
   is about small (4–20% of consumption), weakly means-tested transfers

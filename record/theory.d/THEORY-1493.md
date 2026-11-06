@@ -1,27 +1,40 @@
 ---
 number: 1493
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpv02zm
-promote_when: >-
-  A randomized long-term follow-up of a time-limited graduation program, at
-  another site, finds treatment effects on consumption or income that remain
-  significant at least seven years after the asset transfer and do not
-  shrink between the third year and the last wave; and a decomposition there
-  finds the persistent gain carried mainly by wage employment or migration
-  rather than by the transferred activity.
 title: "Banerjee, Duflo and Sharma find, in a randomized trial in West Bengal, that the treatment effects of a one-time Targeting the Ultra Poor package on household consumption, income and health grew for seven years after the asset transfer and persisted to year ten, although the implementer had no contact with households after eighteen months; they attribute the persistence mainly to treated households taking better advantage of wage employment and migration, and hold it consistent with, but not proof of, escape from a poverty trap"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the trial
+    found and how the authors read it, with their hedge kept, and
+    NOTE-1667 reads the working paper in full. The condition asked
+    for a follow-up at another site, and it moves unchanged to
+    QUESTION-tmp5ca3z, which it shares with THEORY-1486's condition
+    and on which this entry now bears: 'A randomized long-term
+    follow-up of a time-limited graduation program, at another site,
+    finds treatment effects on consumption or income that remain
+    significant at least seven years after the asset transfer and do
+    not shrink between the third year and the last wave; and a
+    decomposition there finds the persistent gain carried mainly by
+    wage employment or migration rather than by the transferred
+    activity.'
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-05'
 source:
 - LIT-2170
+bears_on:
+- QUESTION-tmp5ca3z
 summary: >-
   Banerjee, Duflo & Sharma (2021), [LIT-2170](../literature.d/LIT-2170.md), read in full in
   [NOTE-1667](../notes.d/NOTE-1667.md) as the NBER working paper (the version of record and the
-  appendix not read). Proposed: one site, the most favourable of the six in
+  appendix not read). The sharp edges: one site, the most favourable of the six in
   Banerjee et al. (2015), 978 households with 52% take-up and 71% tracked
   across all waves. The control group also grew fast, and the authors say
   the pattern is "also consistent with there being persistent effects

@@ -1,20 +1,39 @@
 ---
 number: 1487
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpn026x
-promote_when: >-
-  The World Development version (doi:10.1016/0305-750x(96)00021-6) is read
-  and found to make the same two claims as the 1997 text read: that
-  synergy combines complementarity, government dependably supplying inputs
-  citizens cannot produce while citizens supply local knowledge and
-  labour, with embeddedness, officials' everyday ties with the communities
-  they serve; and that small-scale synergy is constructable in adverse
-  settings, the limit being scaling up rather than prior stocks of social
-  capital. Evidence that synergy does in fact work this way is not asked
-  for, since the title asserts only what Evans holds.
-title: 'Evans holds that state-society synergy combines complementarity, in which government dependably supplies inputs citizens cannot produce and citizens supply local knowledge and labour, with embeddedness, in which officials keep everyday ties with the communities they serve, and that small-scale synergy is constructable even in class-divided societies under disorganized, authoritarian governance, the binding limit being scaling up rather than prior stocks of social capital'
-version: 1
+title: 'Evans holds that state-society synergy combines complementarity, in which government dependably supplies inputs citizens cannot produce and citizens supply local knowledge and labour, with embeddedness, in which officials keep everyday ties with the communities they serve, and that small-scale synergy is constructable even in class-divided societies under disorganized, authoritarian governance, the limits seeming to be set less by prior stocks of social capital than by the difficulty of scaling up'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings); ADR-065, ADR-047: NOTE-1665 reads
+    Evans in full from the 1997 reprint. The title read 'Evans holds
+    that state-society synergy combines complementarity, in which
+    government dependably supplies inputs citizens cannot produce
+    and citizens supply local knowledge and labour, with
+    embeddedness, in which officials keep everyday ties with the
+    communities they serve, and that small-scale synergy is
+    constructable even in class-divided societies under
+    disorganized, authoritarian governance, the binding limit being
+    scaling up rather than prior stocks of social capital', which
+    dropped Evans's hedge that the limits 'seem to be set' by
+    scaling up (kind 3, note only). The condition asked only for the
+    World Development version of record, with no discrepancy named,
+    and is dropped under ADR-065 §4. It read: 'The World Development
+    version (doi:10.1016/0305-750x(96)00021-6) is read and found to
+    make the same two claims as the 1997 text read: that synergy
+    combines complementarity, government dependably supplying inputs
+    citizens cannot produce while citizens supply local knowledge
+    and labour, with embeddedness, officials' everyday ties with the
+    communities they serve; and that small-scale synergy is
+    constructable in adverse settings, the limit being scaling up
+    rather than prior stocks of social capital. Evidence that
+    synergy does in fact work this way is not asked for, since the
+    title asserts only what Evans holds.'
 tags:
 - society-and-governance
 - social-science
@@ -23,8 +42,8 @@ source:
 - LIT-2143
 summary: >-
   Evans (1996), [LIT-2143](../literature.d/LIT-2143.md), read in full in [NOTE-1665](../notes.d/NOTE-1665.md) from what
-  appears to be the 1997 GAIA reprint, not the World Development text;
-  hence Proposed. It is Evans's account, drawn from five case articles and
+  appears to be the 1997 GAIA reprint, not the World Development text,
+  with no discrepancy named. It is Evans's account, drawn from five case articles and
   Tendler's Ceará study, all positive cases; it is not evidence that
   synergy works this way, and it says nothing of what happens when the
   official side withdraws. What it says of Ostrom (1996), [LIT-2140](../literature.d/LIT-2140.md),
@@ -32,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2140 CLAIM-600 — Unavailable, Proposed or new; cited from the reading of Evans (1996) as open -->
 
-# THEORY-1487: Evans holds that state-society synergy combines complementarity, in which government dependably supplies inputs citizens cannot produce and citizens supply local knowledge and labour, with embeddedness, in which officials keep everyday ties with the communities they serve, and that small-scale synergy is constructable even in class-divided societies under disorganized, authoritarian governance, the binding limit being scaling up rather than prior stocks of social capital
+# THEORY-1487: Evans holds that state-society synergy combines complementarity, in which government dependably supplies inputs citizens cannot produce and citizens supply local knowledge and labour, with embeddedness, in which officials keep everyday ties with the communities they serve, and that small-scale synergy is constructable even in class-divided societies under disorganized, authoritarian governance, the limits seeming to be set less by prior stocks of social capital than by the difficulty of scaling up
 
 ## Source
 

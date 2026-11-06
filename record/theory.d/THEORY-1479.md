@@ -1,19 +1,39 @@
 ---
 number: 1479
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpfkxj7
-promote_when: >-
-  An independent study of randomly assigned lottery prizes or other
-  unconditional wealth shocks, on the Swedish registers or on another
-  country's administrative data, that finds a reduction in the
-  recipient's labour earnings of the same order (about 1% of the windfall
-  a year), appearing in the year of the shock and lasting at least five
-  years, coming mostly through hours, and smaller for the spouse than for
-  the recipient. The lifetime marginal propensity to earn is not asked
-  for: the title does not assert it.
-title: "Cesarini, Lindqvist, Notowidigdo and Östling find, using lottery prizes randomly assigned among Swedish players, that an unconditional wealth shock reduces the winner's gross labour earnings by about 1.1% of the prize a year, beginning in the year of the win and lasting more than ten years, mostly through fewer hours and varying little with age, sex, education or prize size; non-winning spouses reduce theirs by less than half as much, and the authors call the response modest"
-version: 1
+title: "Cesarini, Lindqvist, Notowidigdo and Östling find, in their 2015 working paper, using lottery prizes randomly assigned among Swedish players, that an unconditional wealth shock reduces the winner's gross labour earnings by about 1.1% of the prize a year, beginning in the year of the win and lasting more than ten years, mostly through fewer hours and varying little with age, sex, education or prize size; non-winning spouses reduce theirs by less than half as much, and the authors call the response modest"
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065 and ADR-047's one-study rule: the title
+    reports the working paper's reduced-form estimates, and NOTE-1648
+    reads it in full; the discrepancy it names against the AER version
+    is in the model's figures, which the title does not assert. The
+    title now names the copy read, since the reduced-form numbers were
+    not checked against the AER version. The old title read:
+    'Cesarini, Lindqvist, Notowidigdo and Östling find, using lottery
+    prizes randomly assigned among Swedish players, that an
+    unconditional wealth shock reduces the winner's gross labour
+    earnings by about 1.1% of the prize a year, beginning in the year
+    of the win and lasting more than ten years, mostly through fewer
+    hours and varying little with age, sex, education or prize size;
+    non-winning spouses reduce theirs by less than half as much, and
+    the authors call the response modest'. The condition asked for an
+    independent study and moves unchanged to QUESTION-tmpjxttn: 'An
+    independent study of randomly assigned lottery prizes or other
+    unconditional wealth shocks, on the Swedish registers or on
+    another country's administrative data, that finds a reduction in
+    the recipient's labour earnings of the same order (about 1% of the
+    windfall a year), appearing in the year of the shock and lasting
+    at least five years, coming mostly through hours, and smaller for
+    the spouse than for the recipient. The lifetime marginal
+    propensity to earn is not asked for: the title does not assert
+    it.'
 tags:
 - social-science
 - society-and-governance
@@ -23,7 +43,7 @@ source:
 summary: >-
   Cesarini, Lindqvist, Notowidigdo & Östling (2017), [LIT-2166](../literature.d/LIT-2166.md), read in
   full in [NOTE-1648](../notes.d/NOTE-1648.md) in the NBER working paper of November 2015, not in
-  the AER version or its Online Appendix. Proposed: the numbers are the
+  the AER version or its Online Appendix. Active as a report of what the working paper finds; the numbers are the
   working paper's (Tables 2–4 and 7), checked against its text, and not
   re-estimated. The published version differs at least in the model's
   lifetime figures (the AER abstract's −0.17 to −0.04 against the working
@@ -36,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-600 CLAIM-603 — Proposed or new; cited from the reading of Cesarini, Lindqvist, Notowidigdo and Östling (2015) as open -->
 
-# THEORY-1479: Cesarini, Lindqvist, Notowidigdo and Östling find, using lottery prizes randomly assigned among Swedish players, that an unconditional wealth shock reduces the winner's gross labour earnings by about 1.1% of the prize a year, beginning in the year of the win and lasting more than ten years, mostly through fewer hours and varying little with age, sex, education or prize size; non-winning spouses reduce theirs by less than half as much, and the authors call the response modest
+# THEORY-1479: Cesarini, Lindqvist, Notowidigdo and Östling find, in their 2015 working paper, using lottery prizes randomly assigned among Swedish players, that an unconditional wealth shock reduces the winner's gross labour earnings by about 1.1% of the prize a year, beginning in the year of the win and lasting more than ten years, mostly through fewer hours and varying little with age, sex, education or prize size; non-winning spouses reduce theirs by less than half as much, and the authors call the response modest
 
 ## Source
 

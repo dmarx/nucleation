@@ -43,7 +43,6 @@ summary: >-
   sets, legibility is relative to policy. A positive characterization of
   what legibility must supply for action.
 ---
-<!-- inactive-ok-file: CLAIM-559 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 
 # CLAIM-535: An organization that acts on what it observes has a policy acceptable in every circumstance exactly when, for each observation, the circumstances it cannot tell apart share an acceptable action; so every circumstance having an acceptable action does not give a policy, a finer observation never removes one, and where acceptable actions overlap the coarsest observations that suffice are several and incomparable, so which distinctions must be made legible depends on which acceptable action the organization commits to
 

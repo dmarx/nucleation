@@ -70,3 +70,10 @@ or measurement is given in the article.
   no thresholds, hysteresis or protection.
 - That the soliton's identity is constitutive in [TERM-088](../terms.d/TERM-088.md)'s sense: it is
   dynamical, the conserved parameters, with no upkeep.
+
+## Note of 2026-11-06: what holds it back
+
+No primary source is read: the collision property rests on an encyclopedia
+article's illustrative simulation and the 1965 history on its co-author's
+later account, while Zabusky and Kruskal (1965), [LIT-2199](../literature.d/LIT-2199.md), is unread. A read
+exact two-soliton solution or the 1965 letter itself is what is missing.

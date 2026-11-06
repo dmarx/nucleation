@@ -1,21 +1,31 @@
 ---
 number: 1470
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7ch1y
-promote_when: >-
-  The AEJ version of record is read and reports, from the same
-  enabling-legislation instrument, 1980 estimates per $100 of grants per
-  1950 resident of about 2.4% on median family income, 6.9% on median
-  property value and 9–11% on population and housing units; estimates
-  that do not fall when 1980 racial and schooling composition is
-  controlled; 2000 estimates no smaller than 1980's; and the clearance of
-  over 400,000 housing units and relocation of over 300,000 families,
-  about 54% nonwhite, by mid-1966. It would be refuted by a replication or
-  recoding of state enabling legislation that removes the city-level
-  effects, or shows them driven by a confounder of when states legislated.
 title: 'Collins and Shester find that US cities whose states enabled federal urban renewal earlier received more renewal grants and, per $100 of grants per 1950 resident, had about 2.4% higher median family income, 6.9% higher median property value and 9–11% more population and housing units in 1980 than similar cities, gains not explained by a changed racial or educational composition and not faded by 2000, decades after new funding ended, while the projects cleared or planned to clear over 400,000 housing units and relocated over 300,000 families, about 54% nonwhite, whose costs the city-level design does not measure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what the authors find,
+    and NOTE-1683 reads the working paper's final revision in full.
+    The demand for the AEJ version names no discrepancy and is
+    dropped; the NOTE records the copy read. The refutation clause
+    moves unchanged to QUESTION-tmpgbqqs. The old condition read: 'The
+    AEJ version of record is read and reports, from the same
+    enabling-legislation instrument, 1980 estimates per $100 of grants
+    per 1950 resident of about 2.4% on median family income, 6.9% on
+    median property value and 9–11% on population and housing units;
+    estimates that do not fall when 1980 racial and schooling
+    composition is controlled; 2000 estimates no smaller than 1980's;
+    and the clearance of over 400,000 housing units and relocation of
+    over 300,000 families, about 54% nonwhite, by mid-1966. It would
+    be refuted by a replication or recoding of state enabling
+    legislation that removes the city-level effects, or shows them
+    driven by a confounder of when states legislated.'
 tags:
 - social-science
 - society-and-governance
@@ -24,8 +34,7 @@ source:
 - LIT-2161
 summary: >-
   Collins & Shester (2013), [LIT-2161](../literature.d/LIT-2161.md), read from the NBER working
-  paper's November 2012 revision in [NOTE-1683](../notes.d/NOTE-1683.md). Proposed: the published
-  AEJ text was not read; the instrument's first stage is modest (F 13.8)
+  paper's November 2012 revision in [NOTE-1683](../notes.d/NOTE-1683.md). Active as a report of what the authors find; the published AEJ text was not read; the instrument's first stage is modest (F 13.8)
   and its variation lies mostly outside the Northeast and Midwest; the
   2000 estimates are imprecise. It says nothing about the displaced,
   the neighbourhoods cleared or local self-organization, and its weak

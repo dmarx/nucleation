@@ -1,29 +1,53 @@
 ---
 number: 1454
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpynb4z
-promote_when: >-
-  A reading of the paper's supplement confirms the affine correction and
-  the fits as described, and an independent measurement of a single
-  staple fold on a DNA origami scaffold, by another group or another
-  readout (calorimetry on the full scaffold, or fluorescence followed on
-  the anneal as well as the melt), reproduces both that the anchored fold
-  melts higher than bimolecular binding of the same domain and that its
-  melting temperature falls with fold distance, by several degrees from
-  short to long folds.
-title: 'Majikes and colleagues find, in a single-fold DNA origami model measured by FRET melting with affine baseline correction, that closing a fold with an already anchored staple is unimolecular and more stable than bimolecular binding of the same domain, and that the fold''s melting temperature falls as fold distance grows, by more than 10 °C from short to long, through a configurational-entropy cost; from this they infer, without testing it, that origami folds by nucleation and growth, a staple''s longest domain binding first and short, entropically cheap folds then making neighbouring folds cheaper'
-version: 1
+title: 'Majikes and colleagues find, in a single-fold DNA origami model measured by FRET melting with affine baseline correction, that closing a fold with an already anchored staple is unimolecular and more stable than bimolecular binding of the same domain, and that the fold''s melting temperature falls as fold distance grows, by up to more than 10 °C from short to long, through a configurational-entropy cost; from this they infer, without testing it, that origami folds by nucleation and growth, a staple''s longest domain binding first and short, entropically cheap folds then making neighbouring folds cheaper'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065: the title reports what
+    Majikes and colleagues find for one fold and what they infer without
+    testing, and NOTE-1632 reads the main text, captions and tables in
+    full. The fold-distance figure is narrowed to the authors' 'can be >
+    10°C' (ADR-047 kind 3). The supplement demand asks for more than the
+    title asserts and names no internal-validity dispute. The old title
+    was 'Majikes and colleagues find, in a single-fold DNA origami model
+    measured by FRET melting with affine baseline correction, that
+    closing a fold with an already anchored staple is unimolecular and
+    more stable than bimolecular binding of the same domain, and that
+    the fold's melting temperature falls as fold distance grows, by more
+    than 10 °C from short to long, through a configurational-entropy
+    cost; from this they infer, without testing it, that origami folds
+    by nucleation and growth, a staple's longest domain binding first
+    and short, entropically cheap folds then making neighbouring folds
+    cheaper'. The condition asked for the unread supplement and an
+    independent measurement, and it moves unchanged to
+    QUESTION-tmp1jy98, which lists it under this entry's code; this
+    entry bears_on it: 'A reading of the paper's supplement confirms the
+    affine correction and the fits as described, and an independent
+    measurement of a single staple fold on a DNA origami scaffold, by
+    another group or another readout (calorimetry on the full scaffold,
+    or fluorescence followed on the anneal as well as the melt),
+    reproduces both that the anchored fold melts higher than bimolecular
+    binding of the same domain and that its melting temperature falls
+    with fold distance, by several degrees from short to long folds.'
 tags:
 - natural-sciences
 - thermodynamics
 date: '2026-11-05'
 source:
 - LIT-2117
+bears_on:
+- QUESTION-tmp1jy98
 summary: >-
   Majikes, Patrone, Schiffels, Zwolak, Kearsley, Forry and Liddle (2020),
   [LIT-2117](../literature.d/LIT-2117.md), read in [NOTE-1632](../notes.d/NOTE-1632.md) (main text, captions and tables;
-  the supplement unread). Proposed: one fold and one melt domain, measured
+  the supplement unread). Active as a report; its limits: one fold and one melt domain, measured
   on the melt only, with equilibrium assumed and not tested. The title
   asserts the measurement and that the authors infer the pathway; it does
   not assert the pathway, which the authors say needs systems with
@@ -31,7 +55,7 @@ summary: >-
   yield.
 ---
 
-# THEORY-1454: Majikes and colleagues find, in a single-fold DNA origami model measured by FRET melting with affine baseline correction, that closing a fold with an already anchored staple is unimolecular and more stable than bimolecular binding of the same domain, and that the fold's melting temperature falls as fold distance grows, by more than 10 °C from short to long, through a configurational-entropy cost; from this they infer, without testing it, that origami folds by nucleation and growth, a staple's longest domain binding first and short, entropically cheap folds then making neighbouring folds cheaper
+# THEORY-1454: Majikes and colleagues find, in a single-fold DNA origami model measured by FRET melting with affine baseline correction, that closing a fold with an already anchored staple is unimolecular and more stable than bimolecular binding of the same domain, and that the fold's melting temperature falls as fold distance grows, by up to more than 10 °C from short to long, through a configurational-entropy cost; from this they infer, without testing it, that origami folds by nucleation and growth, a staple's longest domain binding first and short, entropically cheap folds then making neighbouring folds cheaper
 
 ## Source
 

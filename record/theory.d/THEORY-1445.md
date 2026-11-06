@@ -1,22 +1,33 @@
 ---
 number: 1445
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpa4har
-promote_when: >-
-  An independent group, on DNA origami designs whose scaffold route and
-  helix layout are held fixed, reproduces a yield gain of comparable size
-  from score-optimized staple breakpoints alone, measured by a quantified
-  method beyond gel mobility (counted TEM or AFM particles) with
-  replicates, and finds yields ordered by the equilibrium score.
 title: 'Aksel, Navarro, Fong and Douglas report that choosing DNA origami staple breakpoints by a shortest-path search over a weighted graph, scored by an equilibrium free energy summing staple binding, scaffold loop closure and hybridization at 50 °C, raised the gel-measured yield of accurately folded multilayer blocks from 2-6% to 48-61% in four published designs, three of them with unchanged scaffold route and helix layout, with yields correlating with the model''s score'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what Aksel and colleagues
+    measured by gel, and NOTE-1642 reads the version of record and its
+    SI Appendix in full. The condition asked for an independent
+    reproduction, and it moves unchanged to QUESTION-tmpdtizm, which
+    lists it under this entry's code; this entry bears_on it: 'An
+    independent group, on DNA origami designs whose scaffold route and
+    helix layout are held fixed, reproduces a yield gain of comparable
+    size from score-optimized staple breakpoints alone, measured by a
+    quantified method beyond gel mobility (counted TEM or AFM particles)
+    with replicates, and finds yields ordered by the equilibrium score.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2125
+bears_on:
+- QUESTION-tmpdtizm
 summary: >-
   Aksel, Navarro, Fong and Douglas (2024), [LIT-2125](../literature.d/LIT-2125.md), read in
   [NOTE-1642](../notes.d/NOTE-1642.md). The yields are integrated gel intensity in a

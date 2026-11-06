@@ -1,17 +1,27 @@
 ---
 number: 1484
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmplj3t9
-promote_when: >-
-  An independent pre-registered replication, by a team other than the
-  authors, of the Angry Blueberries or a Family Feud borrowing experiment
-  finds that poor-budget players borrow a larger share of their budget
-  than rich-budget players and score lower with interest-bearing
-  borrowing than without, while rich-budget players do not, and that
-  poor-budget players spend longer aiming each shot.
 title: "In pre-registered replications of all five experiments of their 2012 paper, with 876 to 997 online participants analysed in each, Shah, Mullainathan and Shafir again found that players given small budgets of shots or of seconds borrow a larger share against later rounds and do worse when they can borrow with interest while players given large budgets do not, with smaller effects than the originals, and that small-budget players aim longer; focus did not predict later borrowing, the previews effect was weaker, and their first study's fatigue effect reversed"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the
+    authors' own pre-registered replications found, with their
+    weaker and reversed results kept, and NOTE-1686 reads the
+    write-up in full. The condition asked for a replication by
+    another team, and it moves unchanged to QUESTION-tmp1dc6w: 'An
+    independent pre-registered replication, by a team other than the
+    authors, of the Angry Blueberries or a Family Feud borrowing
+    experiment finds that poor-budget players borrow a larger share
+    of their budget than rich-budget players and score lower with
+    interest-bearing borrowing than without, while rich-budget
+    players do not, and that poor-budget players spend longer aiming
+    each shot.'
 tags:
 - social-science
 - cognition
@@ -21,12 +31,12 @@ source:
 summary: >-
   Shah, Mullainathan & Shafir (2018), [LIT-2157](../literature.d/LIT-2157.md), read in [NOTE-1686](../notes.d/NOTE-1686.md):
   the authors' write-up of their direct replications, which stands in for
-  the original analyses of the unread Science paper. Proposed: the
+  the original analyses of the unread Science paper. The sharp edges: the
   replications are the authors' own, on one online pool, and no team
   other than the authors has replicated the borrowing or focus studies;
   the only independent replication, of Study 1, failed as theirs did.
 ---
-<!-- inactive-ok-file: LIT-2147 THEORY-1458 THEORY-1469 — Unavailable, Proposed or new; cited from the reading of Shah, Mullainathan & Shafir (2018) as open -->
+<!-- inactive-ok-file: LIT-2147 — Unavailable, Proposed or new; cited from the reading of Shah, Mullainathan & Shafir (2018) as open -->
 
 # THEORY-1484: In pre-registered replications of all five experiments of their 2012 paper, with 876 to 997 online participants analysed in each, Shah, Mullainathan and Shafir again found that players given small budgets of shots or of seconds borrow a larger share against later rounds and do worse when they can borrow with interest while players given large budgets do not, with smaller effects than the originals, and that small-budget players aim longer; focus did not predict later borrowing, the previews effect was weaker, and their first study's fatigue effect reversed
 

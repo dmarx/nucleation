@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - TERM-tmpckwjg
 title: 'universality, of resource-bounded constraint systems, and which sense: expressive, that a restricted family implements every member of a class; computational, that one family resource-simulates another with bounded overhead, an equivalence only when the simulation runs both ways; or scaling, that families share asymptotic laws'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-eighth status review, at the status review's ruling (the
+    owner delegated these rulings): the definition now places the
+    divisions its notes of 2026-11-05 recorded, the second paste's
+    computational universality as the expressive sense and its
+    architectural and regenerative universality as a split of the
+    organizational level, and the fourth paste's five classifications and
+    three overhead regimes as levels, preserved quantities and bounds on
+    P_n of the computational sense. The placement is the reviewer's
+    reading of A's fourth paste. Status stays Proposed for one pass while
+    the edited definition settles.
 tags:
 - mathematics
 - complex-systems
@@ -85,6 +99,32 @@ classifications", is the computational sense against the physical one
 (energy barriers, error tolerance, precision of control) asked of the same
 families.
 
+**Where the later divisions fall.** The later pastes divide universality
+again, and each division falls within these senses and levels.
+
+- The second paste's computational universality, glossed in the note of
+  2026-11-05 as implementing an expressive class of computations, is this
+  term's expressive sense asked of computations. Its architectural and
+  regenerative universality split the organizational level into
+  constructing or reconfiguring a repertoire and regenerating it through
+  turnover.
+- The fourth paste's five classifications follow the five things its
+  resource-sensitive translation preserves: "The validity of specified
+  constraint configurations", "The compositional organization of specified
+  transformations", "The observations relevant to a declared task", "Their
+  computational costs up to a stated overhead" and "Any persistence or
+  maintenance relationships included in the classification". Constraint,
+  process and organizational universality are the solution, process and
+  organizational levels. Resource and observational universality are the
+  computational sense's overhead bound and its requirement that a
+  simulation "preserve the observables and the questions we care about".
+- Its three regimes are bounds on the computational sense's overhead P_n:
+  "Polynomial overhead would lead toward a complexity-theoretic notion of
+  universality", the form defined here; "A bounded multiplicative distortion
+  would provide a much stronger resource-geometric equivalence"; and
+  "Preservation of exact interface behavior would provide a compositional
+  equivalence of another kind".
+
 ## What it is not
 
 - **Expressive universality with unrestricted primitives.** A: "If we allow
@@ -138,4 +178,4 @@ A's fourth paste splits universality into five classifications, constraint, proc
 
 ## Note of 2026-11-06: what holds it back
 
-The definition gives three senses at three levels, and its notes of 2026-11-05 record two later divisions from the same synthesis that it does not place: the second paste's "computational" universality, which the note glosses as "implementing an expressive class of computations", is by that gloss this term's expressive sense under the name the term gives another, and the fourth paste's five classifications and three overhead regimes are not said to be senses, levels or regimes of this term. Until the definition places them or excludes them, a claim citing those pastes cannot say which sense it means; the uses so far, [CLAIM-573](../claims.d/CLAIM-573.md) and [QUESTION-384](../questions.d/QUESTION-384.md) in the computational sense, do.
+Its definition was edited on 2026-11-06 to place the later pastes' divisions, and the placement is the reviewer's reading of A's fourth paste, which the record does not hold beyond its note of 2026-11-05; adoption waits a pass for the edited definition to settle. [CLAIM-573](../claims.d/CLAIM-573.md) is stated in it, as its settle condition asks.

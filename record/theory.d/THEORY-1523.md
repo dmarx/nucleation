@@ -1,32 +1,42 @@
 ---
 number: 1523
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpwegr1
-promote_when: >-
-  The positive interaction of R&D intensity with distance to the
-  productivity frontier on productivity growth is replicated in an
-  independent cross-country industry or firm panel, or holds under an
-  external instrument for R&D, and the share of R&D's return it implies
-  for units at about half the frontier's productivity stays near or above
-  half.
 title: 'Griffith, Redding and Van Reenen find, in a panel of manufacturing industries in twelve OECD countries over 1974–1990, that industries further behind their industry''s productivity frontier grow faster the more R&D they do, so that R&D raises the rate at which frontier technology is absorbed as well as the rate of own innovation, and that for a country at about half the frontier''s productivity over half of R&D''s estimated return comes through this absorption'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065 and ADR-047's one-study rule: the title
+    reports what one study read in NOTE-1709 found, with its hedges
+    kept, and nothing in the record contradicts it. The robustness
+    section, searched but not read line by line, carries no clause of
+    the title. The replication and refutation clauses move word for word
+    to QUESTION-tmp07gio. The old condition: The positive interaction of
+    R&D intensity with distance to the productivity frontier on
+    productivity growth is replicated in an independent cross-country
+    industry or firm panel, or holds under an external instrument for
+    R&D, and the share of R&D's return it implies for units at about
+    half the frontier's productivity stays near or above half.
 tags:
 - social-science
 date: '2026-11-05'
 source:
 - LIT-2229
+bears_on:
+- QUESTION-tmp07gio
 summary: >-
   Griffith, Redding and Van Reenen (2004), [LIT-2229](../literature.d/LIT-2229.md), read in
-  [NOTE-1709](../notes.d/NOTE-1709.md), the robustness section skimmed. Proposed: a correlational
+  [NOTE-1709](../notes.d/NOTE-1709.md), the robustness section skimmed. Held as what the study finds, with its hedges: a correlational
   panel whose causal reading rests on lagged R&D being predetermined, with
   the key interaction significant at 10% in the base specification and
   stronger in the adjusted ones. It stands in, for this core claim only,
   for Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md). It says nothing about what
   happens when own R&D stops.
 ---
-<!-- inactive-ok-file: THEORY-1518 — new; the reading of the original this reading once stood in for -->
 
 # THEORY-1523: Griffith, Redding and Van Reenen find, in a panel of manufacturing industries in twelve OECD countries over 1974–1990, that industries further behind their industry's productivity frontier grow faster the more R&D they do, so that R&D raises the rate at which frontier technology is absorbed as well as the rate of own innovation, and that for a country at about half the frontier's productivity over half of R&D's estimated return comes through this absorption
 

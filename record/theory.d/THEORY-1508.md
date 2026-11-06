@@ -1,30 +1,44 @@
 ---
 number: 1508
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmptpq58
-promote_when: >-
-  A replication or long-run follow-up of Moving to Opportunity, or of
-  another randomized housing-mobility programme, that reports adult
-  earnings gains for children who moved young, declining with age at move,
-  together with no earnings gain for the adults moved; or the AER version
-  of record read and found to report, as the working paper does, the
-  under-13 TOT gain of about 31%, the decline of about $364 per year of age
-  at move, and the adult null. Refuted if a better-powered follow-up of the
-  same children finds no earnings gain for those under 13 at random
-  assignment. That exposure rather than family income is the channel is
-  the authors' conclusion, reported here, and not asked for separately.
 title: 'Chetty, Hendren and Katz find, in the Moving to Opportunity experiment, that a housing voucher requiring a family in high-poverty public housing to move to a low-poverty tract for its first year raised the adult earnings of children who moved before age 13 by about 31% at ages 24 and over, that the gain fell by about $364 a year for each year of age at the move and was absent or negative for those who moved as teenagers, and that their parents’ earnings were unchanged however long they lived in lower-poverty areas; the authors conclude that the effect runs through the amount of childhood exposure, not through family income or exposure in adulthood'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065 and ADR-047's one-study rule: the title
+    reports what one study read in NOTE-1695 found, with its hedges
+    kept, and nothing in the record contradicts it. The demand for the
+    AER version of record is dropped: no discrepancy is named, and
+    NOTE-1695 records the copy read (ADR-065, decision 4). The
+    replication and refutation clauses move word for word to
+    QUESTION-tmpl3rft. The old condition: A replication or long-run
+    follow-up of Moving to Opportunity, or of another randomized
+    housing-mobility programme, that reports adult earnings gains for
+    children who moved young, declining with age at move, together with
+    no earnings gain for the adults moved; or the AER version of record
+    read and found to report, as the working paper does, the under-13
+    TOT gain of about 31%, the decline of about $364 per year of age at
+    move, and the adult null. Refuted if a better-powered follow-up of
+    the same children finds no earnings gain for those under 13 at
+    random assignment. That exposure rather than family income is the
+    channel is the authors' conclusion, reported here, and not asked for
+    separately.
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-05'
 source:
 - LIT-2193
+bears_on:
+- QUESTION-tmpl3rft
 summary: >-
   Chetty, Hendren & Katz (2016), [LIT-2193](../literature.d/LIT-2193.md), read from NBER w21156
-  (revised September 2015) in [NOTE-1695](../notes.d/NOTE-1695.md). Proposed: earnings are
+  (revised September 2015) in [NOTE-1695](../notes.d/NOTE-1695.md). Held as what the study finds, with its hedges: earnings are
   observed only to about age 28; age at move was not randomized, so the
   per-year gradient is not a causal estimate and the disruption cost is
   not separately identified; older-child estimates are imprecise. The

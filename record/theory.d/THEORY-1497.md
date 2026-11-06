@@ -1,20 +1,36 @@
 ---
 number: 1497
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpy3r99
-promote_when: >-
-  An ethnographic, survey or archival study of Burning Man, or of a
-  comparable gift-based event, showing both that participants who return
-  a gift mostly return it to the event or to third parties, in later
-  giving or labour, rather than to the original giver, with no return
-  enforced on the recipient; and that the organization answered
-  non-participating camps by changing how theme camps are registered and
-  placed. Not satisfied by the organization's own statements of what
-  gifting should be, nor by evidence that the placement reform worked,
-  which the account does not assert.
-title: "St John holds that Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed"
-version: 1
+title: 'St John holds that Burning Man''s gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that perhaps the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings); ADR-065, ADR-047: the title reports
+    what St John holds, and NOTE-1662 reads the essay in full. The
+    title read 'St John holds that Burning Man's gifting carries no
+    obligation on the recipient to reciprocate, yet sustains
+    circulation through gratitude that recipients return to the
+    community in later labour, a generalized rather than bilateral
+    reciprocity, and that the most pressing threat to it is
+    non-participation, which the organization answered in part by
+    reforming how theme camps are registered and placed', which
+    dropped his 'perhaps' (kind 3, note only). Whether he is right
+    moves to THEORY-tmplr6om, which extends this entry and keeps the
+    old condition word for word: 'An ethnographic, survey or
+    archival study of Burning Man, or of a comparable gift-based
+    event, showing both that participants who return a gift mostly
+    return it to the event or to third parties, in later giving or
+    labour, rather than to the original giver, with no return
+    enforced on the recipient; and that the organization answered
+    non-participating camps by changing how theme camps are
+    registered and placed. Not satisfied by the organization's own
+    statements of what gifting should be, nor by evidence that the
+    placement reform worked, which the account does not assert.'
 tags:
 - social-science
 - society-and-governance
@@ -22,7 +38,7 @@ date: '2026-11-05'
 source:
 - LIT-2188
 summary: >-
-  St John (2017), [LIT-2188](../literature.d/LIT-2188.md), read in full in [NOTE-1662](../notes.d/NOTE-1662.md). Proposed:
+  St John (2017), [LIT-2188](../literature.d/LIT-2188.md), read in full in [NOTE-1662](../notes.d/NOTE-1662.md). The sharp edges:
   the account is one ethnographer's interpretation, built on the
   organization's own writings and on Hyde's theory of the gift, with no
   measure of who gives back to whom. It does not say that gifting at
@@ -33,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of St John (2017) as open -->
 
-# THEORY-1497: St John holds that Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed
+# THEORY-1497: St John holds that Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that perhaps the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed
 
 ## Source
 

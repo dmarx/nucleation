@@ -1,33 +1,46 @@
 ---
 number: 1458
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp008j1
-promote_when: >-
-  An independent pre-registered replication, by a team other than the
-  authors, of a borrowing game with budgets of seconds or of guesses finds
-  that small-budget players borrow a larger share of their budget than
-  large-budget players and score lower when they can borrow with interest
-  than when they cannot, while large-budget players do not.
-title: "In Shah, Shafir and Mullainathan's working paper, players given small budgets of seconds or of guesses borrowed a larger share of their budget against later rounds than players given large ones and, when borrowing carried interest, scored lower than when they could not borrow, while large-budget players did not; the authors attribute this to constraint focus, attention shifted toward the binding resource at the cost of others, whose one direct test is a two-grid memory game with 33 players"
-version: 1
+title: 'In Shah, Shafir and Mullainathan''s working paper, players given small budgets of seconds or of guesses borrowed a larger share of their budget against later rounds than players given large ones and, when borrowing carried interest, scored lower than when they could not borrow, while large-budget players did not; the authors attribute this to constraint focus, attention shifted toward the binding resource at the cost of others, whose one direct test is a two-grid memory game with 33 players'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what the working paper
+    measured and the authors' attribution, and NOTE-1653 reads it in
+    full. The authors' own replications (THEORY-1484) found the
+    borrowing effects smaller, which does not contradict this report.
+    The condition asked for an independent pre-registered replication,
+    and it moves unchanged to QUESTION-tmp1dc6w, which lists it under
+    this entry's code; this entry bears_on it: 'An independent
+    pre-registered replication, by a team other than the authors, of a
+    borrowing game with budgets of seconds or of guesses finds that
+    small-budget players borrow a larger share of their budget than
+    large-budget players and score lower when they can borrow with
+    interest than when they cannot, while large-budget players do not.'
 tags:
 - social-science
 - cognition
 date: '2026-11-05'
 source:
 - LIT-2171
+bears_on:
+- QUESTION-tmp1dc6w
 summary: >-
   Shah, Shafir & Mullainathan, working paper (before 2012), [LIT-2171](../literature.d/LIT-2171.md),
   read in [NOTE-1653](../notes.d/NOTE-1653.md): an earlier version of their Science paper,
   standing in for its Experiments 3 and 4. Three borrowing experiments,
   two with time (n = 143, 118) and one with guesses (n = 76), and one
-  test of the mechanism (n = 33). Proposed: the samples are small, and
+  test of the mechanism (n = 33). Active as a report; its limits: the samples are small, and
   only the authors have replicated the borrowing result, for time and for
   shots, not for guesses; the focus-to-neglect link weakened in their
   replications.
 ---
-<!-- inactive-ok-file: LIT-2147 THEORY-1484 — Unavailable, Proposed or new; cited from the reading of Shah, Shafir & Mullainathan (working paper) as open -->
+<!-- inactive-ok-file: LIT-2147 — Unavailable, Proposed or new; cited from the reading of Shah, Shafir & Mullainathan (working paper) as open -->
 
 # THEORY-1458: In Shah, Shafir and Mullainathan's working paper, players given small budgets of seconds or of guesses borrowed a larger share of their budget against later rounds than players given large ones and, when borrowing carried interest, scored lower than when they could not borrow, while large-budget players did not; the authors attribute this to constraint focus, attention shifted toward the binding resource at the cost of others, whose one direct test is a two-grid memory game with 33 players
 

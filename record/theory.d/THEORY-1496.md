@@ -1,19 +1,36 @@
 ---
 number: 1496
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpwmqrr
-promote_when: >-
-  The full India country report, or the study's synthesis, is read and
-  shows, with the follow-up figures, that two years after exit the
-  activities handed to programmes with dedicated resources, functioning
-  infrastructure and a legal commitment, through a linkage operating
-  before exit (health services, irrigation through the employment
-  guarantee), continued, that those whose linkage was begun late (school
-  meals) stopped, and that differences between states exceeded change
-  over time.
-title: 'When two Food for Peace projects in India handed their activities to Government of India programmes, activities continued two years after exit where the receiving programme had dedicated resources, functioning infrastructure and a legal commitment and the project''s linkage to it was operating before exit, and stopped where the linkage was begun late; results varied between states by more than they changed over time'
-version: 1
+title: 'When two Food for Peace projects in India handed their activities to Government of India programmes, activities continued two years after exit where the receiving programme had dedicated resources, functioning infrastructure and a legal commitment and the project''s linkage to it was operating before exit, and stopped where the linkage was begun late; results often varied between states by more than they changed over time'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings); ADR-065, ADR-047's one-study rule:
+    NOTE-1655 reads the executive summary, the source, in full. The
+    title read 'When two Food for Peace projects in India handed
+    their activities to Government of India programmes, activities
+    continued two years after exit where the receiving programme had
+    dedicated resources, functioning infrastructure and a legal
+    commitment and the project's linkage to it was operating before
+    exit, and stopped where the linkage was begun late; results
+    varied between states by more than they changed over time',
+    which dropped the summary's 'often' (kind 3, note only). The
+    condition asked for the full country report or the synthesis,
+    other documents of the same study, with no discrepancy named,
+    and is dropped. It read: 'The full India country report, or the
+    study's synthesis, is read and shows, with the follow-up
+    figures, that two years after exit the activities handed to
+    programmes with dedicated resources, functioning infrastructure
+    and a legal commitment, through a linkage operating before exit
+    (health services, irrigation through the employment guarantee),
+    continued, that those whose linkage was begun late (school
+    meals) stopped, and that differences between states exceeded
+    change over time.'
 tags:
 - society-and-governance
 - social-science
@@ -27,13 +44,13 @@ summary: >-
   synthesis ([LIT-2151](../literature.d/LIT-2151.md)). Institutional deliveries and irrigation through
   the employment guarantee persisted or grew after phase-over; school
   meals lapsed where schools were late to join the Mid-Day Meals
-  programme. Proposed: an executive summary with no comparison group and
+  programme. The sharp edges: an executive summary with no comparison group and
   a subset of states, in which the contrast between early and late
   linkage rests on one late case.
 ---
 <!-- inactive-ok-file: LIT-2151 — Unavailable or new; cited from the reading of Rogers et al. (2017) as open -->
 
-# THEORY-1496: When two Food for Peace projects in India handed their activities to Government of India programmes, activities continued two years after exit where the receiving programme had dedicated resources, functioning infrastructure and a legal commitment and the project's linkage to it was operating before exit, and stopped where the linkage was begun late; results varied between states by more than they changed over time
+# THEORY-1496: When two Food for Peace projects in India handed their activities to Government of India programmes, activities continued two years after exit where the receiving programme had dedicated resources, functioning infrastructure and a legal commitment and the project's linkage to it was operating before exit, and stopped where the linkage was begun late; results often varied between states by more than they changed over time
 
 ## Source
 

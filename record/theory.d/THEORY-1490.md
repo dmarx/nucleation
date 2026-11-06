@@ -1,19 +1,32 @@
 ---
 number: 1490
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpsljm6
-promote_when: >-
-  An independent study using randomly sized windfalls, in another lottery,
-  state or period, finds that large winners' lower rate of bankruptcy in
-  the first two years or so after winning is offset by a higher rate
-  later, leaving no detectable difference over about five years, and that
-  large winners who file have net assets and unsecured debt like small
-  winners who file; or the published Review of Economics and Statistics
-  version, once read, reports the same two-year decline, year 3–5 rise,
-  five-year null and balance sheets at filing.
 title: 'Hankins, Hoekstra and Skiba find that Florida lottery winners of 50,000 to 150,000 dollars were about half as likely as winners of under 10,000 dollars to file for bankruptcy in the two years after winning but more likely to file three to five years after, so that over five years no difference in bankruptcy was detected, and that the large winners who filed had similar net assets and unsecured debt, from which the authors conclude that large cash transfers postpone rather than prevent bankruptcy'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the
+    authors find, and NOTE-1673 reads the working draft in full, the
+    same paper at an earlier stage with no discrepancy named. The
+    condition's version-of-record route is dropped (ADR-065 §4); its
+    independent-study route moves to QUESTION-tmpukxgj. The source
+    does not hedge the rise in years 3 to 5 ('These declines are
+    offset, however, by increases of 0.5 and 1.21 percentage points
+    three to five years after winning'), so the title adds none. It
+    read: 'An independent study using randomly sized windfalls, in
+    another lottery, state or period, finds that large winners'
+    lower rate of bankruptcy in the first two years or so after
+    winning is offset by a higher rate later, leaving no detectable
+    difference over about five years, and that large winners who
+    file have net assets and unsecured debt like small winners who
+    file; or the published Review of Economics and Statistics
+    version, once read, reports the same two-year decline, year 3–5
+    rise, five-year null and balance sheets at filing.'
 tags:
 - social-science
 - society-and-governance
@@ -24,7 +37,7 @@ summary: >-
   Hankins, Hoekstra & Skiba (2011), [LIT-2184](../literature.d/LIT-2184.md), read in [NOTE-1673](../notes.d/NOTE-1673.md)
   from the authors' working draft of 2009-02-16; the published article was
   not read, so the numbers are the draft's. "The results show that giving
-  $50,000 to $150,000 to people only postpones bankruptcy." Proposed: the
+  $50,000 to $150,000 to people only postpones bankruptcy." The sharp edges: the
   year 3–5 rise is marginal and not significant in the probit; the
   five-year result is no detectable effect with a wide interval, not a
   proven zero; the balance-sheet comparison rests on 47 against 103

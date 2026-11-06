@@ -1,18 +1,27 @@
 ---
 number: 1494
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpvmj93
-promote_when: >-
-  A meta-analysis pooling randomized evaluations of cash transfers in low-
-  and middle-income countries finds a pooled effect on household alcohol
-  and tobacco spending that is zero or negative, with an upper confidence
-  bound that excludes more than a trivial increase, and no significant
-  difference between conditional and unconditional programs. A further
-  count of estimates by sign does not settle it; nor does a result on
-  other spending.
 title: "Evans and Popova's count by sign and significance of 44 estimates from 19 studies of conditional and unconditional cash transfers in low- and middle-income countries finds that transfers almost never raise spending on alcohol and tobacco: 82% of the estimates are negative, only two are positive and significant, both non-experimental, none of 17 randomized estimates is positive and significant, and the pattern does not differ between conditional and unconditional programs, across regions or with duration of receipt"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports the review's
+    vote count, and NOTE-1649 reads the working paper in full; the
+    text-against-table discrepancies it names are not in the title.
+    The condition asked for a pooled meta-analysis, and it moves
+    unchanged to QUESTION-tmpdmspt: 'A meta-analysis pooling
+    randomized evaluations of cash transfers in low- and
+    middle-income countries finds a pooled effect on household
+    alcohol and tobacco spending that is zero or negative, with an
+    upper confidence bound that excludes more than a trivial
+    increase, and no significant difference between conditional and
+    unconditional programs. A further count of estimates by sign
+    does not settle it; nor does a result on other spending.'
 tags:
 - social-science
 - society-and-governance
@@ -21,7 +30,7 @@ source:
 - LIT-2150
 summary: >-
   Evans & Popova (2017), [LIT-2150](../literature.d/LIT-2150.md), read as the 2014 World Bank working
-  paper in [NOTE-1649](../notes.d/NOTE-1649.md). Proposed: a vote count of non-independent
+  paper in [NOTE-1649](../notes.d/NOTE-1649.md). The sharp edges: a vote count of non-independent
   estimates, not a pooled meta-analysis, on self-reported spending, with
   only 8 of the 19 studies randomized, and two of its text figures
   disagreeing with its tables. Household evidence only; it bears on the

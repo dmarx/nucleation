@@ -1,22 +1,34 @@
 ---
 number: 1451
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxgxmn
-promote_when: >-
-  An independent kTAM simulation or analysis, or an experiment with DNA
-  tiles, reproduces all three of the following: the change in the
-  speed/error scaling from ε² to ε¹ for 2×2 proofreading near the melting
-  transition; the shortfall from ε^(2/K) at K = 3; and the attribution of
-  that shortfall to growth on facets.
 title: 'Winfree and Bekbolatov show, in kinetic Tile Assembly Model simulation and kinetic-trap theory, that replacing each tile of a tile set with a K×K block whose internal bonds are unique keeps the logical assembly unchanged but forces any mismatch to stall until it dissociates, raising the optimal speed for a target error ε from r ≈ βε² to r ≈ βε at K = 2; their thermodynamic argument predicts an error rate exponential in K, and the simulated gain beyond K = 2 falls short of it, which they attribute to facet-roughening errors that proofreading does not correct'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what Winfree and
+    Bekbolatov's simulations and theory show, and NOTE-1640 reads the
+    submitted preprint in full, with no discrepancy against the version
+    of record named. The condition asked for an independent simulation
+    or experiment, and it moves unchanged to QUESTION-tmpmnl4c, which
+    lists it under this entry's code; this entry bears_on it: 'An
+    independent kTAM simulation or analysis, or an experiment with DNA
+    tiles, reproduces all three of the following: the change in the
+    speed/error scaling from ε² to ε¹ for 2×2 proofreading near the
+    melting transition; the shortfall from ε^(2/K) at K = 3; and the
+    attribution of that shortfall to growth on facets.'
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2119
+bears_on:
+- QUESTION-tmpmnl4c
 summary: >-
   Winfree and Bekbolatov (2004), [LIT-2119](../literature.d/LIT-2119.md), read in [NOTE-1640](../notes.d/NOTE-1640.md) from
   the authors' submitted preprint. Simulation and kinetic-trap theory,

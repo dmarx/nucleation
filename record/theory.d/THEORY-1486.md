@@ -1,25 +1,38 @@
 ---
 number: 1486
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpmcnzn
-promote_when: >-
-  A further randomized evaluation of a time-limited asset-and-support
-  program for ultra-poor households, at a site not in this study, finds
-  treatment effects on consumption and income that remain significant one
-  year or more after all program support has ended, with no fall in the
-  recipients' working time relative to controls.
 title: "Banerjee, Duflo, Goldberg, Karlan, Osei, Parienté, Shapiro, Thuysbaert and Udry find, in six randomized trials, that a time-limited bundle of a productive asset, temporary consumption support, training and coaching raised the consumption, assets, income and working time of the poorest households, and that these gains held one year after all support ended; they read the durability as consistent with the program having unlocked a poverty trap, while noting that persistent but modest effects also fit a 'poverty flat' without one"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the six
+    trials found, with the authors' poverty-flat hedge kept, and
+    NOTE-1669 reads the article in full. The condition asked for a
+    trial at another site, and it moves unchanged to
+    QUESTION-tmp5ca3z, which it shares with THEORY-1493's condition
+    and on which this entry now bears: 'A further randomized
+    evaluation of a time-limited asset-and-support program for
+    ultra-poor households, at a site not in this study, finds
+    treatment effects on consumption and income that remain
+    significant one year or more after all program support has
+    ended, with no fall in the recipients' working time relative to
+    controls.'
 tags:
 - social-science
 - society-and-governance
 date: '2026-11-05'
 source:
 - LIT-2160
+bears_on:
+- QUESTION-tmp5ca3z
 summary: >-
   Banerjee et al. (2015), [LIT-2160](../literature.d/LIT-2160.md), read in full in [NOTE-1669](../notes.d/NOTE-1669.md)
-  (supplementary tables not read). Proposed: six RCTs with about 91%
+  (supplementary tables not read). The sharp edges: six RCTs with about 91%
   retention, but one year past exit, large differences between sites
   (Honduras faded when the chickens died) and 52% take-up in India. The
   account is the persistence and the rise in work, not the trap: the

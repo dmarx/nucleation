@@ -67,7 +67,7 @@ summary: >-
   restored: the sense is operational, the claim is descriptive, and it is
   open to the manipulation objection.
 ---
-<!-- inactive-ok-file: CLAIM-404 LIT-1614 TERM-086 THEORY-040 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-545: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
@@ -171,3 +171,7 @@ The wording of the axes is A's, sharpened by the reader; adopting them is the ow
 ## Note of 2026-11-06: what holds it back
 
 Three premises are Proposed, [CLAIM-354](CLAIM-354.md), [CLAIM-404](CLAIM-404.md) and [CLAIM-533](CLAIM-533.md), and so are [TERM-100](../terms.d/TERM-100.md) and [TERM-086](../terms.d/TERM-086.md), which it uses. Its other premises are Active, [CLAIM-523](CLAIM-523.md) among them since this review.
+
+## Note of 2026-11-06: what holds it back
+
+[CLAIM-354](CLAIM-354.md) and [CLAIM-533](CLAIM-533.md) are Active since the twenty-seventh status review, and [CLAIM-404](CLAIM-404.md) and [TERM-100](../terms.d/TERM-100.md) are Active too, [CLAIM-404](CLAIM-404.md) since the twenty-eighth; so of what the note above names, only [TERM-086](../terms.d/TERM-086.md) remains unheld, and the claim waits on it alone.

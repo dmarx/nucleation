@@ -66,3 +66,13 @@ folding, coincident folding and melting, or routing without effect.
   calls it less out of equilibrium than folding.
 - That folding is trapped in particular states: the thesis's model puts
   it down to many accessible incorrect states.
+
+## Note of 2026-11-06: what holds it back
+
+Sobczak's thesis is only skimmed ([NOTE-1644](../notes.d/NOTE-1644.md)): the model chapters and
+most of §§5.1–5.2.1 are unread and no gel or TEM image was seen, and the
+2012 paper it stands in for is unread. The title's last clause, that a
+folded object persists inside the band where it does not form, is the
+filer's inference from the hysteresis, not a result the text read
+reports, so it must be read in the source or narrowed out before
+promotion.

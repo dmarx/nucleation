@@ -98,7 +98,6 @@ summary: >-
   ([CLAIM-109](CLAIM-109.md)).
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-404 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-341: The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active
 

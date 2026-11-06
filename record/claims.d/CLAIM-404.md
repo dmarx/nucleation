@@ -1,10 +1,10 @@
 ---
 number: 404
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpjo2zr
 title: 'An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization''s role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator''s procedure does not make its evaluation independent'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -28,6 +28,17 @@ history:
   date: '2026-11-03'
   note: >-
     uses gains the provenance term (2026-11-03), so that the entries turning on whose process formed or keeps a capacity cite one sense. The claim is unchanged.
+- version: 5
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings); ADR-057, at the twenty-eighth status review. TERM-066 leaves
+    uses: the claim is not stated in it, and its body uses "capture" in
+    the institutional sense the term declines, as it now says; the body
+    keeps the citation for the outside standard. Every premise is Active,
+    no objection is filed, and nothing in the record meets the
+    defeated_if; Szeidl and Szucs's endogenous ownership, the nearest,
+    runs from resources through ownership to criteria, as the body says.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -68,7 +79,6 @@ complements:
 - CLAIM-428
 uses:
 - TERM-100
-- TERM-066
 - TERM-064
 summary: >-
   The owner's cases, U20 ("maybe cases like reflexive control and
@@ -88,8 +98,8 @@ illustrated_by:
 <!-- inactive-ok-file: THEORY-151 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-859 THEORY-858 — Proposed; general forms from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->
 <!-- inactive-ok-file: LIT-1324 LIT-1332 — Unavailable; Stigler and Entman, named as works the replies cited that no lawful copy reached -->
-<!-- inactive-ok-file: TERM-066 — Proposed; the candidate definitions of capture and legibility filed with this claim, and it is stated in them -->
-<!-- ref::uses-file: TERM-066 TERM-064 — stated in "capture" and "legible"; the body uses the words in the senses those terms define -->
+<!-- inactive-ok-file: TERM-066 — Proposed; cited for the outside standard a verdict of capture would need, not used -->
+<!-- ref::uses-file: TERM-064 — stated in "legible"; the body uses the word in the sense that term defines -->
 
 # CLAIM-404: An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization's role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator's procedure does not make its evaluation independent
 
@@ -107,6 +117,12 @@ over an organization need not consist in issuing its decisions. It can
 consist in shaping the conditions under which the organization determines
 its own decisions—and in establishing feedback processes through which
 that influence becomes self-sustaining.**"
+
+**The word.** "Capture" in this claim is the institutional sense of A20
+§1, an institution's decisions subordinated to particular interests
+against its designated purpose, which [TERM-066](../terms.d/TERM-066.md) declines. The claim is not
+stated in [TERM-066](../terms.d/TERM-066.md)'s interpretive capture, and cites it only for the
+standard from outside that a verdict of capture would need.
 
 Three parts.
 

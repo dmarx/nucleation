@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmp0g3pa
 title: 'A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -15,6 +15,14 @@ history:
     in installments" called the 0.3 a period slack, where it is the
     reconfiguration reserve that meets the transition's slack of 0.6. The
     construction is unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    At the twenty-eighth status review, at the status review's ruling (the
+    owner delegated these rulings): its use of TERM-110 now says it means
+    the principal's revision rule alone, where it read "the incentive
+    ratchet of TERM-110"; the agent's distortion that completes the effect
+    is not modelled. The construction is unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -85,7 +93,9 @@ period. A: "money cannot always be converted into the resource needed on the rel
   budgets produce wasteful year-end spending, and that rollover is
   useless without the budget-setter's commitment.
 - **The ratchet forecloses it.** With α > 0, unspent funds signal reduced
-  need and cut the next budget: the incentive ratchet of [TERM-110](../terms.d/TERM-110.md).
+  need and cut the next budget: the principal's revision rule in [TERM-110](../terms.d/TERM-110.md)'s
+  ratchet effect; the agent's distortion that completes the effect is not
+  modelled here.
   Siemroth ([NOTE-1594](../notes.d/NOTE-1594.md); [THEORY-1410](../theory.d/THEORY-1410.md)) advises: "Principals should therefore
   publicly commit to not cut budgets if funds are returned or saved." In
   this case that commitment is what keeps the transition possible.

@@ -1,20 +1,31 @@
 ---
 number: 1499
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp0fvik
-promote_when: >-
-  The AER version of record (92(5), 2002) read and found to report 2SLS
-  coefficients on instrumented 1940–47 growth indistinguishable from −1
-  for 1947–60 without the prewar-trend control and for 1947–65 with it, as
-  the working paper does; or an independent re-estimate on the same
-  Japanese city data that does. Refuted if the version of record, or a
-  re-estimate, finds a coefficient significantly above −1 by 1965 with the
-  trend control. Whether locational fundamentals are the mechanism, and
-  whether temporary subsidies could move city size, are the authors'
-  readings, which this THEORY reports and does not assert.
 title: 'Davis and Weinstein find that the Allied bombing of Japanese cities in World War II, which destroyed almost half the structures in the 66 targeted cities, changed relative city size only temporarily: across 303 cities, 1947–60 population growth undid 1940–47 growth instrumented on deaths and buildings destroyed per capita one for one, or by about three-quarters once 1925–40 trend growth is controlled, and wholly by 1965, with Hiroshima and Nagasaki back on their prewar trends; the authors read this as rejecting random growth and as showing that spatial catastrophes from temporary shocks are not a central tendency, favouring locational fundamentals'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the
+    authors find and how they read it, and NOTE-1696 reads the
+    working paper's analysis in full; the version of record adds an
+    analysis but no discrepancy in what the title uses is named, so
+    that route is dropped (ADR-065 §4). The re-estimate route moves
+    to QUESTION-tmph06t3. It read: 'The AER version of record
+    (92(5), 2002) read and found to report 2SLS coefficients on
+    instrumented 1940–47 growth indistinguishable from −1 for
+    1947–60 without the prewar-trend control and for 1947–65 with
+    it, as the working paper does; or an independent re-estimate on
+    the same Japanese city data that does. Refuted if the version of
+    record, or a re-estimate, finds a coefficient significantly
+    above −1 by 1965 with the trend control. Whether locational
+    fundamentals are the mechanism, and whether temporary subsidies
+    could move city size, are the authors' readings, which this
+    THEORY reports and does not assert.'
 tags:
 - social-science
 - society-and-governance
@@ -23,7 +34,7 @@ source:
 - LIT-2205
 summary: >-
   Davis & Weinstein (2002), [LIT-2205](../literature.d/LIT-2205.md), read from NBER w8517 in
-  [NOTE-1696](../notes.d/NOTE-1696.md), not from the AER version of record. Proposed: the
+  [NOTE-1696](../notes.d/NOTE-1696.md), not from the AER version of record. The sharp edges: the
   coefficients are the working paper's (−1.048 for 1947–60; −0.759 and
   −1.027 with the prewar trend for 1960 and 1965); the instruments assume
   bombing did not target growth; the outcome is population share only;

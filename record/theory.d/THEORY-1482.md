@@ -1,16 +1,25 @@
 ---
 number: 1482
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpia26b
-promote_when: >-
-  Post-delisting census data for the Kirtland's Warbler show breeding-male
-  numbers tracking the area of plantation habitat supplied, holding at a
-  lower level when that area is reduced and not returning to the earlier
-  level without the area being restored, with winter conditions accounted
-  for.
 title: "Brown, Donner, Ribic and Bocetti project that the Kirtland's Warbler, recovered on plantation habitat that replaces suppressed wildfire, settles at a lower plateau when the supplied breeding habitat is cut, without going extinct from habitat loss alone, so that the species remains reliant on humans to keep its breeding habitat at its current quantity"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the
+    authors' model projects, and NOTE-1674 reads the article in
+    full. The condition asked for observation after delisting, an
+    independent test of the projection, and it moves unchanged to
+    QUESTION-tmpm85pz: 'Post-delisting census data for the
+    Kirtland's Warbler show breeding-male numbers tracking the area
+    of plantation habitat supplied, holding at a lower level when
+    that area is reduced and not returning to the earlier level
+    without the area being restored, with winter conditions
+    accounted for.'
 tags:
 - ecology
 - natural-sciences
@@ -24,7 +33,7 @@ summary: >-
   population holds at about 2,500 males under current management and
   stabilizes at about 1,900 or 1,300 males when the planted habitat is cut;
   "loss of breeding habitat alone (up to 48.7%) did not cause extinction".
-  Proposed: a single-sex model whose ceiling density dependence builds in
+  The sharp edges: a single-sex model whose ceiling density dependence builds in
   that population tracks habitat, with no scenario ending the supply.
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Brown et al. (2019) as open -->

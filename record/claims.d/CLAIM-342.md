@@ -82,7 +82,7 @@ supports:
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-404 TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-342: What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available
 
