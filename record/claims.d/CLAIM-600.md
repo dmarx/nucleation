@@ -433,3 +433,9 @@ Read to fill a gap the supplied-maintenance filing left; the works were chosen b
 ## Note of 2026-11-06: Cohen and Levinthal, "Absorptive Capacity", read
 
 Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), support the condition that the party could do the work and did it throughout. On their account the capacity to use an outside input is built only by the party's own doing, so supply that replaces that doing leaves it unable to use later supply. They qualify the claim with lockout: withdrawal can do harm that the return of supply does not undo. "once a firm ceases investing in its absorptive capacity in a quickly moving field, it may never assimilate and exploit new information in that field, regardless of the value of that information" (p. 136), and it may not pay to rebuild "even after major advances in the field" (p. 137). The cause is expectations as well as a lost stock. The firm's beliefs about the field "will tend not to change over time", and catching up costs more later (p. 136). So for a capacity in a fast-moving, cumulative field, the claim's safe-withdrawal condition needs the party's own work to continue through and after withdrawal, not only before it. Lockout is argued from psychology and illustrations (Monsanto: "once off the technological escalator it's difficult to get back on", p. 137), not measured. No persistence or recovery after withdrawal is observed. No status changes.
+
+## Note of 2026-11-06: Fodor read further
+
+The one-and-two-dimensional "never ends" is for small and moderate amplitudes; above an amplitude
+where the energy peaks, "currently unknown", such oscillons may be unstable (NOTE-1698, §2.8.6).
+No status changes.

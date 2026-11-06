@@ -1,21 +1,28 @@
 ---
 number: 1275
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpzcsl4
-promote_when: >-
-  In the same toy model, the critical sample sizes of the antecedents of
-  each observed chain of training transitions confirmed by posterior
-  sampling (phase occupancy across n, as for 5 → 6), not only by the free
-  energy formula with estimated learning coefficients; and SGD trained at
-  sample sizes on both sides of n ≈ 600, over a sweep of learning rates,
-  batch sizes and initialisations, showing whether the 6-gon is reached.
-  What would refute the second half: SGD at n = 1000 reaching the 6-gon
-  routinely at some ordinary setting. What would refute the first: a chain
-  whose antecedents' critical sizes fall while training proceeds. Runs at
-  the paper's single setting cannot settle it.
-title: "In the toy model of superposition, SGD's transitions have Bayesian counterparts whose critical sample sizes rise in the order training meets them, yet SGD was not seen to take the posterior's main transition and ends in a phase the posterior has left at the training sample size"
-version: 1
+title: "In the toy model of superposition, at the paper's one SGD setting, the Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ have critical sample sizes that rise in the order training meets it at the point estimates of the learning coefficients, though not across their spread; SGD was not seen to take the posterior's main transition, 5 → 6, and trained on 1,000 samples it ends in a phase that the posterior at n = 1,000, dominated by the 6-gon, does not favour"
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed (kind 3) and promoted at the status review's ruling (the owner
+    delegated these rulings), the twenty-ninth status review (ADR-065). Old
+    title, verbatim: "In the toy model of superposition, SGD's transitions have Bayesian counterparts whose critical sample sizes rise in the order training meets them, yet SGD was not seen to take the posterior's main transition and ends in a phase the posterior has left at the training sample size". Old promote_when, verbatim: "In the same toy model, the critical sample sizes of the antecedents of each observed chain of training transitions confirmed by posterior sampling (phase occupancy across n, as for 5 → 6), not only by the free energy formula with estimated learning coefficients; and SGD trained at sample sizes on both sides of n ≈ 600, over a sweep of learning rates, batch sizes and initialisations, showing whether the 6-gon is reached. What would refute the second half: SGD at n = 1000 reaching the 6-gon routinely at some ordinary setting. What would refute the first: a chain whose antecedents' critical sizes fall while training proceeds. Runs at the paper's single setting cannot settle it."
+    The rising order was computed for one chain of Eq. 10's four, holds at
+    the λ̂ point estimates and fails in 36 of 81 combinations at ±1 sd; and
+    "a phase the posterior has left" misdescribes the 5⁺-gon, which the
+    posterior never favours. The record's computation was re-run by a
+    second checker from the model, with controls, in
+    scratch/formal/tms_critical_sizes_check.py, and by the coordinator,
+    which meets ADR-065's point 5; NOTE-1462 v2 reread the paper and is
+    Read. The old condition's demands, posterior sampling of the
+    antecedents and an SGD sweep across rates, batch sizes and
+    initialisations, are independent tests and move to QUESTION-363 as a
+    dated note. Status Proposed → Active; promote_when removed on promotion.
 tags:
 - learning-theory
 - model-comparison
@@ -29,12 +36,15 @@ summary: >-
   transitions have Bayesian counterparts. From their numbers the
   antecedents of the chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ fall at n ≈ 190, 370 and
   1,600–2,500, rising with training. But the posterior's transition 5 → 6
-  at n ≈ 600 was not seen in training, and SGD on 1000 samples ends at the
-  5- or 5⁺-gon while the posterior at n = 1000 favours the 6-gon. Proposed:
-  one model, one SGD setting, estimated learning coefficients.
+  at n ≈ 600 was not seen in training, and SGD on 1000 samples ends at the 5-gon, a 4-gon variant or the 5⁺-gon,
+  none of which the posterior at n = 1000 favours; it favours the 6-gon. The
+  rising order holds at the point estimates, not across the estimates'
+  spread. One model, one SGD setting, estimated learning coefficients; the
+  computation was re-run by a second checker on 2026-11-06
+  (scratch/formal/tms_critical_sizes_check.py).
 ---
 
-# THEORY-1275: In the toy model of superposition, SGD's transitions have Bayesian counterparts whose critical sample sizes rise in the order training meets them, yet SGD was not seen to take the posterior's main transition and ends in a phase the posterior has left at the training sample size
+# THEORY-1275: In the toy model of superposition, at the paper's one SGD setting, the Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ have critical sample sizes that rise in the order training meets it at the point estimates of the learning coefficients, though not across their spread; SGD was not seen to take the posterior's main transition, 5 → 6, and trained on 1,000 samples it ends in a phase that the posterior at n = 1,000, dominated by the 6-gon, does not favour
 
 ## Source
 
@@ -57,7 +67,9 @@ and n_cr from Eq. 12.
 from a perturbed 4-gon, 30 seeds; and 400 runs from posterior samples at
 n = 100) plateaus at k-gon critical points and makes the transitions of
 Eq. 10, among them 4⁺⁺⁻ → 4⁺ → 5 → 5⁺. "the Bayesian phase transition
-5 → 6 has not been observed as a dynamical transition" (§5.1).
+5 → 6 has not been observed as a dynamical transition" (§5.1). The eight
+transition runs of the 30 seeds end at the 5-gon (four) or at 4-gon
+variants (four) (App. B).
 
 **The hypothesis and its scope.** "The dynamical transitions α → β
 encountered in neural network training have Bayesian antecedents" (§5.1).
@@ -74,8 +86,12 @@ K.1's λ̂ and the losses above, the antecedents fall at n ≈ 190
 λ). The slopes, −0.029, −0.018, −0.003, rise. Along this chain the order in
 training time is the order in sample size. At n = 1000 the free energies
 are about 113 for the 6-gon, 121 for the 5-gon and 124 for the 5⁺-gon:
-the posterior favours the 6-gon, and of the two phases SGD ends in it
-prefers the one SGD left.
+the posterior favours the 6-gon, and the 6-gon beats the 5⁺-gon for every
+n above about 202, so 5⁺ is never the posterior's phase. Re-run on
+2026-11-06 by a second checker from the model, with controls
+(scratch/formal/tms_critical_sizes_check.py; NOTE-1462 v2): all numbers
+reproduced. At ±1 sd of each λ̂ the order fails in 36 of 81 combinations,
+mostly the first two steps.
 
 **What could have failed.** The antecedents' critical sizes could have
 fallen along the chain, and SGD could have reached the 6-gon. Neither
@@ -83,6 +99,8 @@ happened in this model at this setting.
 
 ## What this does not say
 
+- **That the order is robust.** It holds at the point estimates; at ±1 sd
+  of Table K.1 it fails in 36 of 81 combinations.
 - **That training time maps onto sample size.** A monotone map along one
   chain would still have to send the end of training at n = 1000 to a
   sample size above 1,600 for the 5⁺ step, and could not send it to the
