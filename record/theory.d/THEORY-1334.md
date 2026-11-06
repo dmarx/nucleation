@@ -31,7 +31,6 @@ summary: >-
   trait moving to other directions, counts against a single direction being
   the carrier. Proposed for that gap.
 ---
-<!-- inactive-ok-file: NOTE-1524 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 
 # THEORY-1334: Persona shifts induced by prompting and by finetuning are mediated by the same linear trait directions, so finetuning on data that implies a trait moves the model along the trait's persona vector as a system prompt would; Chen et al. suspect personas are latent factors that persist across many tokens
 
@@ -58,3 +57,17 @@ Chen et al. (2025), [LIT-1998](../literature.d/LIT-1998.md); read in [NOTE-1524]
   suggests it is not.
 - That training is conditioning in PSM's strict sense: the paper does not
   compare finetuned models to conditioned ones beyond the shared direction.
+
+## Note of 2026-11-06: what holds it back
+
+The paper asks whether finetuning shifts are "mediated by persona vectors"
+(§4.2) and answers with correlation and steering; it has no intervention
+that removes or clamps the component along the vector after finetuning and
+shows that the base trait returns with no re-encoding elsewhere. Its
+nearest results cut both ways: steering after finetuning keeps the domain
+effect while lowering the trait on two datasets (J.1), training-time
+ablation (CAFT) prevents evil and sycophancy but not hallucination (J.4),
+and penalizing the shift leaves the trait expressed, suspected re-encoded
+in other directions (J.5). "As a system prompt would" has only J.7.3's
+comparison of preventative prompting with preventative steering, on one
+task.

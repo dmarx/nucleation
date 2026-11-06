@@ -52,7 +52,7 @@ summary: >-
   is sufficient or necessary for a constraint, or that a constraint is an
   individual.
 ---
-<!-- inactive-ok-file: NOTE-1532 THEORY-1306 — new; Juarrero 2023, read on 2026-11-03 -->
+<!-- inactive-ok-file: THEORY-tmppu8h2 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1073 THEORY-1052 — Proposed; readings cited as open -->
@@ -371,3 +371,15 @@ Read at the owner's invitation to add readings to the DNA origami filing; the wo
 **Winfree and Bekbolatov, "Proofreading tile sets".** Supports. The error rate is set by the ratio of two time scales, the dissociation of a mismatched tile against its coverage by growth. The covered tile becomes a constraint on all later growth. In Scheckenbach et al. ([LIT-2139](../literature.d/LIT-2139.md)), on the reader's reading, the unrepairable scaffold is the slow constraint against which staples exchange fast. Left open: neither varies the separation systematically.
 
 No status changes.
+
+## Note of 2026-11-06: Juarrero read in full
+
+The thirtieth status review read chapter 12 of Juarrero 2023 in full
+(LIT-1995, NOTE-1532, now Read). Its account of rate-demarcated levels is
+now held, Active, as what the book holds (THEORY-1306); the thesis itself
+stays Proposed in THEORY-tmppu8h2, which extends it. One addition to the note
+of 2026-11-03: the book has inter-level control "muted or lost" by an
+enabling constraint with no change of rates (p. 188), so for it rate
+separation is a condition of control, not what makes a relation a
+constraint. That fits this claim's reading of the book as prior art
+without the mechanism. The claim is unchanged.
