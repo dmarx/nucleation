@@ -1,0 +1,1 @@
+- The twenty-seventh status review (ADR-057 v8): 17 claims, 12 readings, 3 terms (TERM-088, TERM-109, TERM-102) and 2 cases promoted; Gopalan et al., Schwerdtfeger, Lawvere 1973 and Ignatov read in full, four NOTEs to Read; Lawvere's max base found, correcting five entries; checks for CASE-206, CASE-212, the Boolean connectivity results and the Basic Theorem in scratch/formal/.
