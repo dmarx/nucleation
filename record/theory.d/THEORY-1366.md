@@ -70,3 +70,7 @@ What was read is an outline, not the theorems.
 - Anything about organizations, readiness or capabilities kept for rare
   use. That rare events govern a diffusion's long-run behaviour is not, by
   itself, an argument about how to value a rarely used capability.
+
+## Note of 2026-11-06: what holds it back
+
+The theorems the title reports are in Chapters 4 and 6 of the book, behind Springer's paywall, and the thirtieth status review located no lawful copy of the body on 2026-11-06. Berglund ([LIT-2037](../literature.d/LIT-2037.md)) restates the exit-time theorem of Chapter 4, but nothing on the record restates the limit of the stationary distribution among several stable sets (Chapter 6). A copy supplied by the owner, or a lawful neighbour that restates Chapter 6, would clear it.
