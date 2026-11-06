@@ -1,0 +1,2 @@
+- Six works the supplied-maintenance filing registered as Unavailable reclassified as Unfetched under ADR-053, each with the copy's address, the blocker and the date; Resende et al. 2021 stays Unavailable for want of an exact address.
+- Suding, Gross & Houseman 2004 read from a copy ADR-064 admits (THEORY-tmph89ue), with dated notes on CLAIM-604, CLAIM-600 and the two works read in its place.

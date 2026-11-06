@@ -1,0 +1,248 @@
+---
+status: Read
+paper: 'LIT-2169'
+title: 'Suding, Gross & Houseman — Alternative states and positive feedbacks in restoration ecology'
+version: 1
+history:
+- version: 1
+  date: '2026-11-06'
+  note: >-
+    Read in full on 2026-11-06 from the typeset.io copy of the publisher's
+    typeset version,
+    https://typeset.io/pdf/alternative-states-and-positive-feedbacks-in-restoration-3p92oa7stw.pdf,
+    which redirected to
+    https://scispace.com/pdf/alternative-states-and-positive-feedbacks-in-restoration-3p92oa7stw.pdf
+    (SciSpace is typeset.io's current name): one request, HTTP 200,
+    application/pdf, 8 pages, 707 kB. A scholarly third-party site that
+    hosts papers, a lawful copy under ADR-064. Checked to be the work by
+    title, authors and affiliations, the running head "TRENDS in Ecology
+    and Evolution Vol.19 No.1 January 2004", the printed pages 46–53 and
+    the DOI on p. 46; repackaged by the aggregator (PDF producer PyPDF2).
+    Text extracted with pdftotext. Read: the abstract, all text sections,
+    Boxes 1 and 2, the glossary, Table 1 and the captions of Figs. 1–3
+    (pp. 46–51). Skimmed: the reference list, to identify cited studies.
+    Not read: the Elsevier house advertisement on the last page. Page
+    numbers are the journal's. The work had been filed Unavailable on
+    2026-11-05 and read through two neighbours, LIT-2165 and LIT-2167.
+date: '2026-11-06'
+summary: >-
+  A short TREE review, no data of its own. Restoring a degraded system's
+  historical conditions or disturbance regime fails where the degraded
+  state is held by biotic–abiotic feedbacks (invader biogeochemistry,
+  herbivory, lost seed sources, regional change); restoration must disrupt
+  the feedback or move the state directly, often by combined or ordered
+  actions, and then enters a separate maintenance phase. Effect sizes are
+  second-hand; no case tests for alternative stable states, which the
+  authors concede is rarely possible, and none measures withdrawal after a
+  shift.
+---
+<!-- inactive-ok-file: CLAIM-604 CLAIM-597 CLAIM-566 CLAIM-600 CLAIM-602 CLAIM-603 CLAIM-558 LIT-720 LIT-2179 THEORY-128 THEORY-1468 THEORY-1485 THEORY-1273 THEORY-tmph89ue TERM-117 — Unavailable, Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
+
+# NOTE-tmpyzbse: Suding, Gross & Houseman — Alternative states and positive feedbacks in restoration ecology
+
+## Contribution
+
+The review recasts the degraded ecosystem as an internally reinforced
+alternative state, not a stalled point on a successional path. Its
+additions for restoration are a typology of four constraints that hold the
+degraded state, a second route back besides lowering the pressure (a
+direct perturbation of the state variable, Box 2), a three-case scheme of
+when restored conditions suffice (Fig. 2), and a six-step practice cycle
+that ends in maintenance, not withdrawal (Fig. 3).
+
+## Key insight
+
+Recovery need not retrace degradation. Where degradation built a feedback
+of its own, such as fire that favours the invading grass or bare soil that
+sheds the rain new plants need, putting back the old conditions moves the
+system somewhere else. The feedback has to be broken, or the state moved
+directly, before the old conditions can do their work.
+
+## Assumptions
+
+- **Non-recovery after conditions are restored is read as internal
+  reinforcement.** The authors concede it may be slow succession: it is
+  "difficult to detect internally maintained alternative states over small
+  areas and short time periods, particularly in comparison to slow
+  transient successional change" (p. 48). No cited case separates the two.
+- **Equilibrium dynamics.** Table 1 (p. 49) notes that the theory of
+  alternative states assumes them, while "it is unclear the degree to
+  which the application to management depends on this distinction".
+- **A target fixed in advance** (step 1 of Fig. 3).
+- **Herbaceous plant communities** supply most examples (p. 46); the
+  authors claim generality to other systems and trophic levels.
+
+## Key results
+
+**Why removing the pressure does not restore**
+- p. 46: the successional approach "assumes that, once the historical
+  physical environment is re-established, natural successional processes
+  will return the biotic system to its original condition"; degraded
+  systems are often "in a persistent, resilient, ALTERNATIVE STATE".
+- p. 46: where it works, as in prairie potholes, success is conditional:
+  "If hydrology can be restored and the seed bank has persisted".
+- pp. 46–47: fire re-introduced after a 25-year hiatus "shifted community
+  composition but did not return it to a barren community". In semi-arid
+  rangeland, "reduction of grazing intensity does not restore the grass
+  dominance"; on reefs recovery is limited "owing to the simultaneous loss
+  of grazers" (p. 47).
+- p. 47: degraded systems "cannot be restored to the previous conditions
+  solely by re-establishing physical conditions or disturbance regimes".
+- Box 2 (p. 48): after collapse, recovery by lowering the pressure to the
+  lower threshold E1 "could be costly and slow" and, depending on
+  feedbacks, "possibly could not occur at all".
+
+**The feedbacks that hold the degraded state** (pp. 47–50)
+- Desertification, Fig. 1a (p. 47): "drier conditions support less
+  vegetation, and less vegetation holds less water. Without intervention,
+  the system will not recover."
+- Species effects (p. 48): introduced grasses in Hawaii "alter nitrogen
+  cycling and promote fire, which further benefits introduced grasses",
+  "creating an internally re-enforced state".
+- Trophic interactions (p. 49): deer "selectively feed on regenerating
+  saplings".
+- Connectivity and seed source (pp. 49–50): with invaders dominating seed
+  rain, management can end up "facilitating the spread of these species";
+  D'Antonio "found that fire more often facilitated rather than controlled
+  exotic species".
+- Long-term change (p. 50): degradation from regional or climatic drivers
+  "will be more difficult, and perhaps impossible, to reverse through local
+  management efforts".
+
+**What interventions must do**
+- p. 50: "the internal feedbacks that constrain restoration of the degraded
+  state should be disrupted and the system perturbed in ways that will
+  facilitate the transition to the desired state".
+- Combination and order (p. 50): constraints must be prioritized, deciding
+  "whether they should be addressed singly or in tandem"; "management
+  actions that address multiple constraints simultaneously (e.g. burning
+  and adding native seeds) often prove more successful than would either
+  approach alone"; actions on strong feedbacks "might need to be
+  implemented before other tools will be effective". Evidence on sequence
+  is thin: "Although comparisons among different sequences of restoration
+  has been limited".
+- Effect sizes from cited studies (p. 50), none re-analysed: in tallgrass
+  prairie, carbon addition "reduced weed biomass by 50% and increased the
+  abundance of desirable prairie plants sevenfold"; on a mine site, 10 cm
+  of topsoil "increased species richness by 250%"; in chalk grassland,
+  mowing and hay removal cut the dominance of Brachypodium from 90% to under 40% in
+  seven years.
+- Hudson Bay (p. 50): "Although the reduction of herbivory does not
+  facilitate recovery, salt marshes can be restored when plugs of
+  Puccinellia phryganodes, a former dominant species, are transplanted into
+  the mudflats".
+- Desertification (Fig. 1a, p. 47): once micro-catchments hold water,
+  "grasses regenerate spontaneously, creating a structure that catches more
+  water, thereby reversing desertification". A one-time physical
+  perturbation gives way to a feedback that sustains itself.
+
+**Whether the intervention can then stop**
+- p. 50: where only a single constraint exists, re-establishing the regime
+  "will enable the rest of the system to self-organize and assemble with
+  little or no further management intervention".
+- Fig. 2c (p. 49): once the biotic constraints are addressed,
+  "disturbance/abiotic re-establishment might be sufficient".
+- Fig. 3 caption (p. 51): "If goals have been met, emphasis can shift from
+  restoration to the final step, maintenance of the system, which could
+  involve very different actions than those required to shift states."
+  The paper does not say support can stop; it says the work changes in
+  kind. No withdrawal after a shift is measured.
+- p. 50: "the system should be repeatedly characterized after the
+  constraints have been addressed".
+
+**Evidence quality, in the authors' words** (p. 48)
+- "Rigorous tests of whether a degraded system truly represents an
+  alternative and STABLE EQUILIBRIUM" "are beyond the scope of most
+  restoration efforts"; degraded systems "will rarely meet the stability
+  criterion".
+- The fallback is a decision rule, not a demonstration: "it might be more
+  costly to assume that a single dimension controls system dynamics rather
+  than that alternative states exist".
+- p. 50: "most constraints will only be identified through experimentation
+  and comparative synthetic analyses".
+
+## Concepts
+
+- **Alternative state**: a degraded configuration that persists and resists
+  restoration, held by internal feedbacks.
+- **Ecological resilience**: in the glossary, the "speed at which a system
+  returns", applied both to the goal state and to the degraded state's
+  return after management; not Holling's sense, though Holling is cited.
+- **Threshold, hysteresis (E1, E2)**: Box 2's fold, with an attractor and a
+  repellor; recovery by pressure alone must go back to E1.
+- **Constraint**: biogeochemical, trophic, propagule or regional, each a
+  source of feedback that holds the degraded state.
+- **Maintenance**: the last step of the practice cycle, distinct in kind
+  from the actions that shifted the state.
+
+## Connections
+
+It applies Scheffer et al. 2001 (LIT-720; the related LIT-726) to
+restoration, adding the direct perturbation of the state variable as a
+second route. Kadowaki et al. (2018), LIT-2165 (NOTE-1677, THEORY-1468),
+read in its place on 2026-11-05, restates its thesis as a reinforcing
+legacy (THEORY-1468's phrase) and models what it names only as priority effects; Schröder,
+Persson & De Roos (2005), LIT-2167 (NOTE-1666, THEORY-1485), supplies the
+experimental test it says restoration rarely makes. Its Puccinellia plugs
+and Fig. 3's seed and species additions are the move the record's
+restoration-nucleation entries study in forests: LIT-2179 (applied
+nucleation, not read), LIT-2172 and LIT-2177.
+
+## Bearing on the record
+
+- **CLAIM-463** (Active): supports in kind; the paper is its standard
+  ecological statement.
+- **CLAIM-604**: supports in kind. The desertification loop is upkeep drawn
+  in by the structure's own state ("less vegetation holds less water");
+  Box 2's collapse with recovery that "possibly could not occur at all"
+  matches collapse and no relighting. Qualitative only, no fitted model.
+- **CLAIM-600**: bears on two of its points. Combined and ordered actions
+  "often prove more successful than would either approach alone", and a
+  successful shift leads to maintenance by "very different actions", a
+  partly-stopping management, not a full withdrawal; independence is
+  expected only where one constraint existed. No post-withdrawal data.
+- **CLAIM-566**: supports the separation. Restoring assembly conditions does
+  not yield the community; the pothole case regenerates only if the seed
+  bank "has persisted", and persistence needs its own maintenance phase.
+- **CLAIM-597**: contrasts. The success cases (micro-catchments, plugs) are
+  interventions whose effect sustains itself, but no withdrawal is measured
+  and Fig. 3 ends in maintenance; it qualifies the claim at most.
+- **QUESTION-398**: bears with a typology, not a measure. Independence is
+  expected with a single constraint; otherwise maintenance follows.
+  Repeated characterization after the constraints are addressed is the
+  nearest thing to a test.
+- **QUESTION-399, TERM-117**: candidate instances. The micro-catchments and
+  the transplanted plugs of a former dominant are interventions that
+  establish a self-reinforcing feedback, a planted nucleus in effect (not
+  the paper's word). No spread rates, no comparator data beyond the claim
+  that reduced herbivory alone failed.
+- **THEORY-136** (Active): consistent, and conceded. The evidence is
+  persistence after conditions were restored, which THEORY-136 says does
+  not establish alternative stable states; the authors' stance is
+  precautionary.
+- **THEORY-132** (Active): bears. The glossary's "resilience" is a
+  speed-of-return sense, the stability of THEORY-132's distinction, applied
+  to the undesired state.
+- **THEORY-128**: consistent; lost grazers are cited as the limit on reef
+  recovery (p. 47).
+- **CLAIM-602, CLAIM-603, CLAIM-558, THEORY-1273**: none.
+- Should produce: THEORY-tmph89ue.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+A review with no data of its own. Every effect size is second-hand, from
+single cited studies, with no designs or sample sizes given. No case
+measures threshold values or separates alternative states from slow
+succession, as the authors say. No case measures what happens when the
+intervention is withdrawn after a state shift. Animal reintroduction and
+organism-level capacity are absent; herbaceous systems dominate.
+
+## Open questions
+
+Whether any cited success, such as the Puccinellia plugs (Handa &
+Jefferies 2000) or the micro-catchments, persists once management stops,
+and whether combined actions beat single ones in designed comparisons
+rather than in the cited cases. Reading Handa & Jefferies and Holmgren &
+Scheffer (2001, on timing interventions to El Niño) would bear on both;
+neither is held.

@@ -298,3 +298,7 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   regenerates its own parts is a further step: the planted cohort's own
   seedlings rarely reach the sapling layer ([NOTE-1660](../notes.d/NOTE-1660.md)), so these
   islands have not taken it.
+
+## Note of 2026-11-06: Suding, Gross & Houseman, "Alternative states and positive feedbacks in restoration ecology", read
+
+Read in full (LIT-2169, NOTE-tmpyzbse), the review, previously among the originals read only through neighbours, bears on two of the claim's points. On combined interventions, actions on several constraints at once "(e.g. burning and adding native seeds) often prove more successful than would either approach alone", and those on strong feedbacks may have to come first; the evidence is cited cases, and comparisons of sequence are "limited". On withdrawal, it expects "little or no further management intervention" only where a single constraint existed; otherwise a successful shift leads to maintenance by "very different actions than those required to shift states", a management that partly stops (the shifting work ends, upkeep of the regime such as fire or hydrology continues), not a withdrawal. It measures no case after withdrawal, so the claim's persistence test is untouched; its recommended repeated characterization after the constraints are addressed is the nearest thing to it. No status changes.
