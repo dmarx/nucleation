@@ -242,3 +242,13 @@ Left open: the costs are not priced against one another in any of the three.
 - The paper measures none of these as resource costs, so their relative sizes are left open.
 
 No status changes.
+
+## Note of 2026-11-06: Sobczak re-read
+
+Chapter 3 of Sobczak's thesis (LIT-2138), re-read in full at the twenty-ninth status review, measures
+persistence above the folding window directly: folded structures were "directly jumped to different final
+temperatures at which we incubated the folded structures for 2 hours" and unfolded only 5–10 °C above
+folding (p. 22). With the brick forming nothing in 48 hours at 56 °C (p. 25), the claim's example rests on
+two measurements, not an inference, though the thesis does not pair them at one temperature and gives the
+brick's melting temperature only in a figure. THEORY-1440 is narrowed to say so. The paragraph on Sobczak
+above stands otherwise; no status change.

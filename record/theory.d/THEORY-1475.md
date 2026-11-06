@@ -79,9 +79,8 @@ hau text that does not say what Mauss draws from it.
 
 ## Note of 2026-11-06: what holds it back
 
-[NOTE-1658](../notes.d/NOTE-1658.md) is Skimmed: chapter II's Melanesian and kula sections beyond
-pp. 28–32, the potlatch sections La force des choses and La monnaie de
-renommée, and chapter III on ancient laws were searched or skimmed, not
-read. The essay must be read in full before this report can be Active;
-once it is, the condition's demand for Mauss's ethnographic sources at
-first hand moves to a Proposed THEORY that extends this one ([ADR-065](../decisions.d/ADR-065.md)).
+NOTE-1658 reads in full every part the title quotes, but not the whole comparison the title reports: chapter
+II §II beyond pp. 28–32 (Melanesia and the kula), "La force des choses" and "La monnaie de renommée"
+(pp. 57–66) and chapter III on survivals in ancient Roman, Hindu and Germanic law (pp. 68–89, except
+pp. 87–88) are unread. A reading of those is what is missing; the condition's demand for Mauss's sources at
+first hand then moves to a Proposed THEORY that extends this one (ADR-065).
