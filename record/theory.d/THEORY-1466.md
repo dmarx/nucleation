@@ -1,21 +1,39 @@
 ---
 number: 1466
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5zz46
-promote_when: >-
-  A systematic review or meta-analysis of experimental and
-  quasi-experimental evaluations in low- and middle-income countries finds,
-  for transfers without an employment focus, pooled effects on prime-age
-  adults' employment and hours near zero, with confidence intervals that
-  exclude a reduction of more than a few percent; finds reduced work among
-  pension-age recipients; and finds positive effects on work or earnings
-  for transfers tied to job search or business start-up. The liquidity and
-  risk attribution and the expectation about dependable, permanent
-  transfers are the authors' reading and are not what this asks to be
-  shown.
-title: "Baird, McKenzie and Özler's structured review of cash transfers in low- and middle-income countries finds that transfers made without an employment focus leave prime-age adults' work and earnings little changed, that pensioners and, in one study, refugees do reduce work, and that transfers tied to job search or business start-up raise work and earnings, which the authors attribute chiefly to easing liquidity and risk constraints; they expect responses to differ where transfers are dependable and permanent"
-version: 1
+title: "Baird, McKenzie and Özler's structured review of cash transfers in low- and middle-income countries finds that transfers made without an employment focus leave prime-age adults' work and earnings little changed, that pensioners and, in one study, refugees do reduce work, and that business start-up grants raise work and earnings while a job-search subsidy raised employment, significant only at the 10 percent level, which the authors attribute chiefly to easing liquidity and risk constraints; they expect responses to differ where transfers are dependable and permanent"
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065: the title reports what
+    the review finds, and NOTE-1684 reads the working paper in full.
+    The job-search clause overstated a single result, significant at
+    10 percent and with no earnings outcome (ADR-047 kind 3). The old
+    title read: 'Baird, McKenzie and Özler's structured review of cash
+    transfers in low- and middle-income countries finds that transfers
+    made without an employment focus leave prime-age adults' work and
+    earnings little changed, that pensioners and, in one study,
+    refugees do reduce work, and that transfers tied to job search or
+    business start-up raise work and earnings, which the authors
+    attribute chiefly to easing liquidity and risk constraints; they
+    expect responses to differ where transfers are dependable and
+    permanent'. The condition asked for an independent meta-analysis
+    and moves unchanged to QUESTION-tmp79584: 'A systematic review or
+    meta-analysis of experimental and quasi-experimental evaluations
+    in low- and middle-income countries finds, for transfers without
+    an employment focus, pooled effects on prime-age adults'
+    employment and hours near zero, with confidence intervals that
+    exclude a reduction of more than a few percent; finds reduced work
+    among pension-age recipients; and finds positive effects on work
+    or earnings for transfers tied to job search or business start-up.
+    The liquidity and risk attribution and the expectation about
+    dependable, permanent transfers are the authors' reading and are
+    not what this asks to be shown.'
 tags:
 - social-science
 - society-and-governance
@@ -24,7 +42,7 @@ source:
 - LIT-2189
 summary: >-
   Baird, McKenzie & Özler (2018), [LIT-2189](../literature.d/LIT-2189.md), read in its working-paper
-  version in [NOTE-1684](../notes.d/NOTE-1684.md). Proposed: a narrative review of studies the
+  version in [NOTE-1684](../notes.d/NOTE-1684.md). Active as a report of what the review finds; it is a narrative review of studies the
   authors judge well-identified, with no pooled estimates, so "little changed"
   in the title is a reading of significance, not a bounded effect. It is about
   households, not states or projects, and its base is mostly temporary,
@@ -34,7 +52,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-600 CLAIM-603 THEORY-1480 — Proposed or new; cited from the reading of Baird, McKenzie & Özler (2018) as open -->
 
-# THEORY-1466: Baird, McKenzie and Özler's structured review of cash transfers in low- and middle-income countries finds that transfers made without an employment focus leave prime-age adults' work and earnings little changed, that pensioners and, in one study, refugees do reduce work, and that transfers tied to job search or business start-up raise work and earnings, which the authors attribute chiefly to easing liquidity and risk constraints; they expect responses to differ where transfers are dependable and permanent
+# THEORY-1466: Baird, McKenzie and Özler's structured review of cash transfers in low- and middle-income countries finds that transfers made without an employment focus leave prime-age adults' work and earnings little changed, that pensioners and, in one study, refugees do reduce work, and that business start-up grants raise work and earnings while a job-search subsidy raised employment, significant only at the 10 percent level, which the authors attribute chiefly to easing liquidity and risk constraints; they expect responses to differ where transfers are dependable and permanent
 
 ## Source
 

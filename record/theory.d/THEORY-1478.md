@@ -1,20 +1,31 @@
 ---
 number: 1478
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpeqr8u
-promote_when: >-
-  The published version of Morris, Brook, Moseby and Johnson's review, or
-  its supplement, is read and confirms, with the sample sizes behind each
-  contrast, that across its terrestrial-vertebrate translocations reported
-  success was similar for captive-bred and wild-sourced stock (76.0%
-  against 70.2%) and for soft and hard release (79.8% against 75.0%),
-  that mean population growth after release was negative for captive-bred
-  stock (−2.8 against +2.2 for wild) and lower for soft than for hard
-  release (−1.3 against +5.6), and that success rose with numbers released
-  up to about 20–50 individuals.
 title: 'In a global review of 514 conservation translocations of terrestrial vertebrates, practitioner-judged success was similar for captive-bred and wild-sourced stock and for soft and hard release, but population growth after release was negative on average for captive-bred stock and lower for soft than for hard release, and success rose with numbers released up to about 20–50 individuals'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065 and ADR-047's one-study rule: the title
+    reports what one review measured, with its hedges, and NOTE-1657
+    reads the preprint in full. The condition asked only for the
+    published version or its supplement, with no discrepancy named,
+    and is dropped; the NOTE records the copy read. Resende et al.
+    (2021) is unread and contradicts no held entry. The old condition
+    read: 'The published version of Morris, Brook, Moseby and
+    Johnson's review, or its supplement, is read and confirms, with
+    the sample sizes behind each contrast, that across its
+    terrestrial-vertebrate translocations reported success was similar
+    for captive-bred and wild-sourced stock (76.0% against 70.2%) and
+    for soft and hard release (79.8% against 75.0%), that mean
+    population growth after release was negative for captive-bred
+    stock (−2.8 against +2.2 for wild) and lower for soft than for
+    hard release (−1.3 against +5.6), and that success rose with
+    numbers released up to about 20–50 individuals.'
 tags:
 - ecology
 - natural-sciences
@@ -25,7 +36,7 @@ summary: >-
   Morris, Brook, Moseby & Johnson (2021), [LIT-2163](../literature.d/LIT-2163.md), read as its
   EcoEvoRxiv preprint in [NOTE-1657](../notes.d/NOTE-1657.md). Reported success: captive 76.0%,
   wild 70.2%; soft 79.8%, hard 75.0%. Growth: captive −2.8, wild +2.2;
-  soft −1.3, hard +5.6. Proposed: the preprint, not the published version,
+  soft −1.3, hard +5.6. Active as a report of what the review measured; the preprint, not the published version,
   was read; the source and release contrasts are raw group means with
   large spreads in a growth subset of 87, not adjusted contrasts; and the
   soft-release result runs against the abstract of Resende et al. (2021),

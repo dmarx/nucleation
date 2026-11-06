@@ -1,18 +1,34 @@
 ---
 number: 1474
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbzfmr
-promote_when: >-
-  A study of aid relations between nations or societies, read in full,
-  showing that recipients unable to reciprocate report or display lowered
-  standing toward the donor, or resentment, more than comparable
-  recipients who could reciprocate; and showing that aid arranged so the
-  recipient can give back, in kind or onward, reduces that effect. A
-  further restatement of Mauss's argument, or another single case, does
-  not settle it.
-title: 'Heins, Unrau and Avram, following Mauss and Dillon, hold that a gift carries no legal guarantee of return yet obliges one, so that an international gift its recipient cannot repay, as with the Marshall Plan in France, leaves the recipient inferior and the relation resentful, and that circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations'
-version: 1
+title: "Heins, Unrau and Avram, following Mauss, hold that a gift carries no legal guarantee of return yet obliges one, and that an unreturned gift leaves the recipient inferior and poisons the relation; they report Dillon's reading of the Marshall Plan in France, whose recipients, unable to repay, responded with resentment, and his proposal that circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations"
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065: NOTE-1679 reads the
+    article in full, and the Marshall Plan case and the kula remedy
+    are Dillon's as the authors report them, so the title now
+    attributes them to him (ADR-047 kind 3). The old title read:
+    'Heins, Unrau and Avram, following Mauss and Dillon, hold that a
+    gift carries no legal guarantee of return yet obliges one, so that
+    an international gift its recipient cannot repay, as with the
+    Marshall Plan in France, leaves the recipient inferior and the
+    relation resentful, and that circular (kula-like) reciprocity that
+    lets the recipient give back is the better design for aid between
+    nations'. Whether the thesis is true moves to THEORY-tmpsmg15,
+    which extends this entry and keeps the old condition word for
+    word: 'A study of aid relations between nations or societies, read
+    in full, showing that recipients unable to reciprocate report or
+    display lowered standing toward the donor, or resentment, more
+    than comparable recipients who could reciprocate; and showing that
+    aid arranged so the recipient can give back, in kind or onward,
+    reduces that effect. A further restatement of Mauss's argument, or
+    another single case, does not settle it.'
 tags:
 - social-science
 - society-and-governance
@@ -21,7 +37,7 @@ source:
 - LIT-2178
 summary: >-
   Heins, Unrau and Avram (2018), [LIT-2178](../literature.d/LIT-2178.md), read in [NOTE-1679](../notes.d/NOTE-1679.md).
-  Proposed: the definition and the three obligations are Mauss's, argued
+  Active as a report of what the authors hold and of Dillon's case as they report it; the definition and the three obligations are Mauss's, argued
   rather than shown to carry over to states; the aid evidence is Dillon's
   1968 study of the Marshall Plan, built on a case study of one French
   engineer and reported here at second hand; and the kula is offered by
@@ -30,7 +46,7 @@ summary: >-
   not report, or anything of grants, loans, capacity or exit.
 ---
 
-# THEORY-1474: Heins, Unrau and Avram, following Mauss and Dillon, hold that a gift carries no legal guarantee of return yet obliges one, so that an international gift its recipient cannot repay, as with the Marshall Plan in France, leaves the recipient inferior and the relation resentful, and that circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations
+# THEORY-1474: Heins, Unrau and Avram, following Mauss, hold that a gift carries no legal guarantee of return yet obliges one, and that an unreturned gift leaves the recipient inferior and poisons the relation; they report Dillon's reading of the Marshall Plan in France, whose recipients, unable to repay, responded with resentment, and his proposal that circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations
 
 ## Source
 

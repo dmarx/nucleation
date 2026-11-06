@@ -1,17 +1,25 @@
 ---
 number: 1467
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6gkfy
-promote_when: >-
-  A study of translocated or genetically rescued populations, followed
-  after supplementation stopped, finds that populations whose extrinsic
-  threat persisted declined back toward their pre-supplementation state,
-  while those whose extrinsic threat was also relieved did not, so that
-  supply alone left the population dependent on further supply and relief
-  of the threat together with supply did not.
 title: 'Mussmann and colleagues argue, from greater prairie chickens in Illinois, that supplying individuals by translocation while the habitat threat persists gives only ambiguous or transitory gains and perpetuates conservation reliance, which can fall below a reliance threshold only if extrinsic threats and intrinsic small-population limits are relieved together'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what the authors argue,
+    and NOTE-1670 reads the article in full. Whether they are right
+    moves to THEORY-tmpamiio, which extends this entry and keeps the
+    old condition word for word: 'A study of translocated or
+    genetically rescued populations, followed after supplementation
+    stopped, finds that populations whose extrinsic threat persisted
+    declined back toward their pre-supplementation state, while those
+    whose extrinsic threat was also relieved did not, so that supply
+    alone left the population dependent on further supply and relief
+    of the threat together with supply did not.'
 tags:
 - ecology
 - natural-sciences
@@ -25,7 +33,7 @@ summary: >-
   Illinois greater prairie chickens are small, declining and inbred, with
   no sign of genetic rescue; the authors argue that supply without relief
   of the habitat threat perpetuates reliance, and that "both must be
-  alleviated in tandem". Proposed: one population, and the threshold is a
+  alleviated in tandem". Active as a report of what the authors argue; one population, and the threshold is a
   conceptual figure, not a measured one.
 ---
 <!-- inactive-ok-file: LIT-2146 — Unavailable; cited from the reading of Mussmann et al. (2017) as open -->

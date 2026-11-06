@@ -1,18 +1,27 @@
 ---
 number: 1468
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6lw73
-promote_when: >-
-  One of the cases the authors name (Martin & Kirkman 2009 on
-  fire-suppressed depression wetlands; Wolf et al. 2007 on Yellowstone
-  willows; the sludge removal in Lake Imbanuma) is read and shows the
-  pressure-free conditions restored without the system recovering,
-  attributed to a reinforcing legacy of the degraded phase, followed by
-  recovery after the stated biotic manipulation. It does not need a test
-  of alternative stable states, which the title does not assert.
 title: 'On Kadowaki and colleagues, restoring the pressure-free conditions of a degraded ecosystem can fail because the degraded phase leaves a reinforcing legacy of its own, such as hardwoods that stop fire spreading, sludge that favours a floating competitor, or eroded beaver sites, so recovery needs direct biotic manipulation, by removal or by reintroduction in the right order, besides abiotic restoration'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports the authors' account,
+    and NOTE-1677 reads the article in full. Whether the account holds
+    in the cases it cites moves to THEORY-tmph2ssk, which extends this
+    entry and keeps the old condition word for word: 'One of the cases
+    the authors name (Martin & Kirkman 2009 on fire-suppressed
+    depression wetlands; Wolf et al. 2007 on Yellowstone willows; the
+    sludge removal in Lake Imbanuma) is read and shows the
+    pressure-free conditions restored without the system recovering,
+    attributed to a reinforcing legacy of the degraded phase, followed
+    by recovery after the stated biotic manipulation. It does not need
+    a test of alternative stable states, which the title does not
+    assert.'
 tags:
 - ecology
 - complex-systems
@@ -27,7 +36,8 @@ summary: >-
   states, none gives numbers, and none is followed after the intervention
   ends; in one, the wetland, the restored state is kept by prescribed fire
   indefinitely. Filed as a stand-in reading for Suding, Gross & Houseman
-  (2004), [LIT-2169](../literature.d/LIT-2169.md), for its framing only.
+  (2004), [LIT-2169](../literature.d/LIT-2169.md), for its framing only. Active as a report of the
+  authors' account.
 ---
 
 # THEORY-1468: On Kadowaki and colleagues, restoring the pressure-free conditions of a degraded ecosystem can fail because the degraded phase leaves a reinforcing legacy of its own, such as hardwoods that stop fire spreading, sludge that favours a floating competitor, or eroded beaver sites, so recovery needs direct biotic manipulation, by removal or by reintroduction in the right order, besides abiotic restoration

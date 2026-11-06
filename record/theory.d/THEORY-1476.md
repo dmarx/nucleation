@@ -71,3 +71,10 @@ LaVoice (2024), [LIT-2142](../literature.d/LIT-2142.md); read from a short 2021 
 - That city-level gains were absent: it takes Collins and Shester's as
   given and locates who bore the costs.
 - Anything outside 28 large cities, or about projects funded after 1965.
+
+## Note of 2026-11-06: what holds it back
+
+NOTE-1680 is Skimmed because only the 24-page short version was reached,
+and it defers its complete results to the full paper. It waits on the
+full paper or the Journal of Public Economics version being read; then
+the condition's re-estimation clause moves to a QUESTION (ADR-065).

@@ -1,21 +1,43 @@
 ---
 number: 1472
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp84p6d
-promote_when: >-
-  The version of record (Journal of Political Economy 129(7), 2021) is
-  read and reports the same de novo estimates, within sampling error, for
-  housing quality (the imagery and survey indexes and hedonic value) and
-  for the persistence of roads and water mains, and the same null or
-  negative descriptive results for upgrading areas with their
-  deteriorated infrastructure; or an independent long-run evaluation of
-  greenfield serviced plots against later upgrading finds the same
-  contrast. That the feedback, or a threshold share of capable owners,
-  caused the difference is asked only as the authors' attribution, not as
-  shown.
-title: "Michaels, Nigmatulina, Rauch, Regan, Baruah and Dahlstrand find that greenfield neighbourhoods given formal plots, roads and water mains under Tanzania's 1970s–80s Sites and Services projects, on which residents built their own houses, had by the 2010s larger, more regular and better-connected housing and better-preserved roads and water mains than adjacent land unbuilt at the start, while squatter areas given similar infrastructure spending per square metre were no better than comparison areas and their infrastructure deteriorated; they attribute the difference to a feedback in which enough owners able to invest keep up the infrastructure that draws their investment"
-version: 1
+title: "Michaels, Nigmatulina, Rauch, Regan, Baruah and Dahlstrand find that greenfield neighbourhoods given formal plots, roads and water mains under Tanzania's 1970s–80s Sites and Services projects, on which residents built their own houses, had by the 2010s larger, more regular and better-connected housing and better-preserved roads and water mains than adjacent land unbuilt at the start, while squatter areas given similar infrastructure spending per square metre were, in a comparison the authors call descriptive, no better than comparison areas, which the authors explain by their infrastructure having deteriorated; they attribute the difference to a feedback in which enough owners able to invest keep up the infrastructure that draws their investment"
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065: the title reports what
+    the authors find, and NOTE-1651 reads the accepted manuscript in
+    full. The upgrading clause now keeps the authors' hedges, that the
+    comparison is descriptive and that deterioration is their
+    explanation (ADR-047 kind 3). The old title read: 'Michaels,
+    Nigmatulina, Rauch, Regan, Baruah and Dahlstrand find that
+    greenfield neighbourhoods given formal plots, roads and water
+    mains under Tanzania's 1970s–80s Sites and Services projects, on
+    which residents built their own houses, had by the 2010s larger,
+    more regular and better-connected housing and better-preserved
+    roads and water mains than adjacent land unbuilt at the start,
+    while squatter areas given similar infrastructure spending per
+    square metre were no better than comparison areas and their
+    infrastructure deteriorated; they attribute the difference to a
+    feedback in which enough owners able to invest keep up the
+    infrastructure that draws their investment'. The demand for the
+    JPE version names no discrepancy and is dropped. Its alternative
+    moves to QUESTION-tmpb52ny. The old condition read: 'The version
+    of record (Journal of Political Economy 129(7), 2021) is read and
+    reports the same de novo estimates, within sampling error, for
+    housing quality (the imagery and survey indexes and hedonic value)
+    and for the persistence of roads and water mains, and the same
+    null or negative descriptive results for upgrading areas with
+    their deteriorated infrastructure; or an independent long-run
+    evaluation of greenfield serviced plots against later upgrading
+    finds the same contrast. That the feedback, or a threshold share
+    of capable owners, caused the difference is asked only as the
+    authors' attribution, not as shown.'
 tags:
 - social-science
 - society-and-governance
@@ -25,7 +47,7 @@ source:
 summary: >-
   Michaels, Nigmatulina, Rauch, Regan, Baruah & Dahlstrand (2021),
   [LIT-2168](../literature.d/LIT-2168.md), read in full in [NOTE-1651](../notes.d/NOTE-1651.md) from the authors' accepted
-  manuscript. Proposed: the de novo results are a spatial regression
+  manuscript. Active as a report of what the authors find; the de novo results are a spatial regression
   discontinuity on 12 areas in one cross-section 35–40 years on; the
   upgrading comparison is descriptive by the authors' own account; the
   feedback is a model in which the deterioration threshold φ is assumed,
@@ -34,7 +56,7 @@ summary: >-
   how the advantage moved over time.
 ---
 
-# THEORY-1472: Michaels, Nigmatulina, Rauch, Regan, Baruah and Dahlstrand find that greenfield neighbourhoods given formal plots, roads and water mains under Tanzania's 1970s–80s Sites and Services projects, on which residents built their own houses, had by the 2010s larger, more regular and better-connected housing and better-preserved roads and water mains than adjacent land unbuilt at the start, while squatter areas given similar infrastructure spending per square metre were no better than comparison areas and their infrastructure deteriorated; they attribute the difference to a feedback in which enough owners able to invest keep up the infrastructure that draws their investment
+# THEORY-1472: Michaels, Nigmatulina, Rauch, Regan, Baruah and Dahlstrand find that greenfield neighbourhoods given formal plots, roads and water mains under Tanzania's 1970s–80s Sites and Services projects, on which residents built their own houses, had by the 2010s larger, more regular and better-connected housing and better-preserved roads and water mains than adjacent land unbuilt at the start, while squatter areas given similar infrastructure spending per square metre were, in a comparison the authors call descriptive, no better than comparison areas, which the authors explain by their infrastructure having deteriorated; they attribute the difference to a feedback in which enough owners able to invest keep up the infrastructure that draws their investment
 
 ## Source
 
