@@ -32,7 +32,6 @@ summary: >-
   [CASE-213](../cases.d/CASE-213.md) is the example. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-213 CLAIM-559 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # TERM-109: provisional commitment: the costly allocation of a capability to a possible future need before that need is established, under a policy that permits subsequent release or redirection
 

@@ -128,4 +128,4 @@ Two entries filed from A's proposals bear on it. [CASE-214](../cases.d/CASE-214.
 
 ## Note of 2026-11-06: Rocks and Mehta, read in full
 
-The reading of Rocks and Mehta in full (NOTE-1557, version 2) qualifies one phrase of the note above. Which force excites a zero mode depends on prestress, not on stiffness. For a zero mode u the force is (T + λI)u, and stiffness drops out (CLAIM-tmp5iqbr, the status review's own result, checked by a second checker). Stiffness enters the rest of the response and the energetic stiffness. The analogy stands. No status changes.
+The reading of Rocks and Mehta in full ([NOTE-1557](../notes.d/NOTE-1557.md), version 2) qualifies one phrase of the note above. Which force excites a zero mode depends on prestress, not on stiffness. For a zero mode u the force is (T + λI)u, and stiffness drops out ([CLAIM-tmp5iqbr](CLAIM-tmp5iqbr.md), the status review's own result, checked by a second checker). Stiffness enters the rest of the response and the energetic stiffness. The analogy stands. No status changes.

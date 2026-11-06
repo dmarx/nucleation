@@ -9,8 +9,8 @@ date: '2026-11-06'
 line: realizability
 summary: >-
   The refutation clause of the promotion condition formerly on
-  THEORY-1470, moved here when the twenty-eighth status review
-  promoted it under ADR-065: THEORY-1470 reports what Collins and
+  [THEORY-1470](../theory.d/THEORY-1470.md), moved here when the twenty-eighth status review
+  promoted it under [ADR-065](../decisions.d/ADR-065.md): [THEORY-1470](../theory.d/THEORY-1470.md) reports what Collins and
   Shester find from the timing of state enabling legislation; whether
   that instrument survives a replication or recoding is this question.
 ---
@@ -19,7 +19,7 @@ summary: >-
 
 ## Why it is a question
 
-Collins and Shester (THEORY-1470) identify the effects of urban renewal
+Collins and Shester ([THEORY-1470](../theory.d/THEORY-1470.md)) identify the effects of urban renewal
 from when states enabled it, with a first-stage F of 13.8 and variation
 mostly outside the Northeast and Midwest. A replication or recoding that
 keeps the city-level effects would answer it in their favour; one that

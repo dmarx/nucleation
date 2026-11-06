@@ -7,8 +7,8 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1488, moved here when the
-  twenty-eighth status review promoted it under ADR-065. It read: 'The
+  The promotion condition formerly on [THEORY-1488](../theory.d/THEORY-1488.md), moved here when the
+  twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'The
   treatment contrasts are confirmed in this paper's Appendix S1 tables,
   or by an independent replicated comparison of applied nucleation,
   plantation and natural regeneration at 15 years or more after
@@ -26,7 +26,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1488 reports one experiment, in ten southern Costa Rican sites in a
+[THEORY-1488](../theory.d/THEORY-1488.md) reports one experiment, in ten southern Costa Rican sites in a
 seed-rich landscape, with planting intensity confounded with treatment.
 The authors suggest recruits may yet converge across treatments.
 

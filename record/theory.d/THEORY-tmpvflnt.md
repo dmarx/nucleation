@@ -19,11 +19,11 @@ source:
 extends:
 - THEORY-1522
 summary: >-
-  The reading of Bainbridge (1983) that Ahn (2025), LIT-2222, asserts,
-  split from THEORY-1522 when the twenty-eighth status review promoted
-  the report of it (ADR-065; ADR-047 kind 1). THEORY-1522 holds that Ahn
+  The reading of Bainbridge (1983) that Ahn (2025), [LIT-2222](../literature.d/LIT-2222.md), asserts,
+  split from [THEORY-1522](THEORY-1522.md) when the twenty-eighth status review promoted
+  the report of it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1522](THEORY-1522.md) holds that Ahn
   reads her so; whether she says it turns on her text, which the record
-  holds only as Unavailable (LIT-2225), under the condition THEORY-1522
+  holds only as Unavailable ([LIT-2225](../literature.d/LIT-2225.md)), under the condition [THEORY-1522](THEORY-1522.md)
   carried, word for word.
 ---
 
@@ -33,12 +33,12 @@ summary: >-
 
 ## Source
 
-The source's argument is read in NOTE-1713 and reported, Active, in
-THEORY-1522, which this entry extends.
+The source's argument is read in [NOTE-1713](../notes.d/NOTE-1713.md) and reported, Active, in
+[THEORY-1522](THEORY-1522.md), which this entry extends.
 
 ## What was actually shown
 
-See THEORY-1522: what the source states and the evidence it cites. Nothing beyond that reading is held here.
+See [THEORY-1522](THEORY-1522.md): what the source states and the evidence it cites. Nothing beyond that reading is held here.
 
 ## What would settle it
 

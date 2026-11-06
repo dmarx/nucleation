@@ -8,9 +8,9 @@ tags:
 date: '2026-11-06'
 line: realizability
 summary: >-
-  The promotion conditions formerly on THEORY-1443, THEORY-1444,
-  THEORY-1445, THEORY-1450, THEORY-1452, THEORY-1455, THEORY-1456, moved
-  here when the twenty-eighth status review promoted them under ADR-065.
+  The promotion conditions formerly on [THEORY-1443](../theory.d/THEORY-1443.md), [THEORY-1444](../theory.d/THEORY-1444.md),
+  [THEORY-1445](../theory.d/THEORY-1445.md), [THEORY-1450](../theory.d/THEORY-1450.md), [THEORY-1452](../theory.d/THEORY-1452.md), [THEORY-1455](../theory.d/THEORY-1455.md), [THEORY-1456](../theory.d/THEORY-1456.md), moved
+  here when the twenty-eighth status review promoted them under [ADR-065](../decisions.d/ADR-065.md).
   Each reading reports what one group found, among the record's
   DNA-origami design, quality and device results; whether each holds when
   another group or method tests it is this question.
@@ -28,7 +28,7 @@ the conditions they carried, word for word, say what would count.
 
 ## The conditions it holds
 
-### THEORY-1443
+### [THEORY-1443](../theory.d/THEORY-1443.md)
 
 > An independent study using a different method, such as single-particle
 > super-resolution imaging or sequencing-based counts of staple
@@ -37,7 +37,7 @@ the conditions they carried, word for word, say what would count.
 > origami, and finds that TEM-level or gel-level shape checks do not
 > detect a deficit of that size.
 
-### THEORY-1444
+### [THEORY-1444](../theory.d/THEORY-1444.md)
 
 > The paper's Supplementary Information, or a later independent study of
 > multilayer honeycomb DNA origami, is read and confirms that monomer
@@ -46,7 +46,7 @@ the conditions they carried, word for word, say what would count.
 > folding, and that flat and six-helix-bundle designs fold under ramps
 > of about an hour in comparable buffer.
 
-### THEORY-1445
+### [THEORY-1445](../theory.d/THEORY-1445.md)
 
 > An independent group, on DNA origami designs whose scaffold route and
 > helix layout are held fixed, reproduces a yield gain of comparable
@@ -54,7 +54,7 @@ the conditions they carried, word for word, say what would count.
 > quantified method beyond gel mobility (counted TEM or AFM particles)
 > with replicates, and finds yields ordered by the equilibrium score.
 
-### THEORY-1450
+### [THEORY-1450](../theory.d/THEORY-1450.md)
 
 > A reading of the Supporting Online Material, or an independent
 > replication, confirms in quantitative form the AND truth table across
@@ -62,7 +62,7 @@ the conditions they carried, word for word, say what would count.
 > both) and the dependence of the key concentration needed to open on
 > lock length.
 
-### THEORY-1452
+### [THEORY-1452](../theory.d/THEORY-1452.md)
 
 > An independent experiment shows, in folded DNA origami, that free
 > staples are incorporated selectively at toehold-exposing defects and
@@ -70,7 +70,7 @@ the conditions they carried, word for word, say what would count.
 > integrity under low-rate nuclease damage beyond what non-matching DNA
 > gives; and that this advantage vanishes at a higher damage rate.
 
-### THEORY-1455
+### [THEORY-1455](../theory.d/THEORY-1455.md)
 
 > An independent study, or one testing more than one high-off-target
 > sequence per design, reproduces the ordering at fixed design and
@@ -79,7 +79,7 @@ the conditions they carried, word for word, say what would count.
 > with fully complementary staples, give fewer well-folded objects than
 > sequences scored low, with the well-folded fractions counted.
 
-### THEORY-1456
+### [THEORY-1456](../theory.d/THEORY-1456.md)
 
 > An independent group folds one of the published designs from its
 > published staple set in a single anneal at comparable staple excess

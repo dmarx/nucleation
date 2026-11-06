@@ -8,8 +8,8 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1466, moved here when the
-  twenty-eighth status review promoted it under ADR-065: THEORY-1466
+  The promotion condition formerly on [THEORY-1466](../theory.d/THEORY-1466.md), moved here when the
+  twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md): [THEORY-1466](../theory.d/THEORY-1466.md)
   reports what Baird, McKenzie and Özler's narrative review finds,
   without pooled estimates; whether a pooled analysis bears it out is
   this question.
@@ -19,7 +19,7 @@ summary: >-
 
 ## Why it is a question
 
-Baird, McKenzie and Özler (THEORY-1466) review studies they judge well-
+Baird, McKenzie and Özler ([THEORY-1466](../theory.d/THEORY-1466.md)) review studies they judge well-
 identified, with no pooling, quality scoring or publication-bias check,
 so "little changed" is a reading of significance, not a bounded effect.
 A meta-analysis with intervals excluding more than a small reduction

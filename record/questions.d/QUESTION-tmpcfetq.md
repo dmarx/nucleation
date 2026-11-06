@@ -8,8 +8,8 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1495, moved here when the
-  twenty-eighth status review promoted it under ADR-065. It read: 'Table
+  The promotion condition formerly on [THEORY-1495](../theory.d/THEORY-1495.md), moved here when the
+  twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'Table
   1 is checked against its sources and shows hatchery salmonids'
   relative fitness in the wild generally below one and lowest, at
   lifetime 0.02–0.37, for nonlocal segregated stocks; and Eqn (3) with
@@ -18,7 +18,7 @@ summary: >-
   strong wild selection together (LT ≤ 0.5, ω2 > 5 or h2 ≤ 0.2 each
   failing). The multi-trait half is filed as the authors' argument of
   plausibility and needs no computation beyond showing the paper makes
-  it.' THEORY-1495 reports what the review and its model find; whether
+  it.' [THEORY-1495](../theory.d/THEORY-1495.md) reports what the review and its model find; whether
   its sources and its computation bear that out is this question.
 ---
 
@@ -26,7 +26,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1495 reports Araki and colleagues' review of 14 studies and their
+[THEORY-1495](../theory.d/THEORY-1495.md) reports Araki and colleagues' review of 14 studies and their
 single-trait quantitative-genetic model as the paper's findings. Neither
 the primary studies behind Table 1 nor a reproduction of the model has
 been checked.

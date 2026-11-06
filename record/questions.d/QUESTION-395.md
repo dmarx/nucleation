@@ -21,7 +21,7 @@ summary: >-
   observations, interventions or models under which the two explanations
   come apart. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-210 ARG-053 CLAIM-561 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: CASE-210 ARG-053 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # QUESTION-395: What observations, interventions, or models can distinguish a warranted reserve of specialized capability from wasteful redundancy when ordinary operation seldom exercises it?
 

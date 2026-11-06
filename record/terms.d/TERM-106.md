@@ -173,7 +173,7 @@ bottleneck budget, the sets of sufficient budgets, and this slack.
   target, and lacking it makes a feasible target unreachable, not
   infeasible, so it is not frustration in [TERM-060](TERM-060.md)'s structural sense
   either.
-- **The ratchet's revision rule** (TERM-110's second condition): a rule by
+- **The ratchet's revision rule** ([TERM-110](TERM-110.md)'s second condition): a rule by
   which a principal cuts what goes unspent. It is one way reconfiguration
   slack is lost, not the slack; the agent's distortion that completes the
   ratchet effect is not part of it.

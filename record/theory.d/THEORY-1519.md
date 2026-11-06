@@ -68,8 +68,8 @@ No new study; a synthesis of cited findings.
 
 ## Note of 2026-11-06: what holds it back
 
-NOTE-1711 is Skimmed: §§3.1–3.4 and the conclusions were skimmed, not read.
+[NOTE-1711](../notes.d/NOTE-1711.md) is Skimmed: §§3.1–3.4 and the conclusions were skimmed, not read.
 The title reports the authors' argument (§2.4), so once the paper is read in
 full it can go Active on that report, with the controlled-study condition
-moving to a Proposed THEORY that extends it (ADR-065); until then it is not
+moving to a Proposed THEORY that extends it ([ADR-065](../decisions.d/ADR-065.md)); until then it is not
 promotable.

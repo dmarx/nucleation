@@ -36,7 +36,7 @@ summary: >-
   that stopped R&D was locked out, or how long recovery takes.
 ---
 <!-- inactive-ok-file: THEORY-tmpi890g — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
-<!-- inactive-ok-file: CLAIM-600 THEORY-1523 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
+<!-- inactive-ok-file: CLAIM-600 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
 
 # THEORY-1518: Cohen and Levinthal argue that a firm's ability to recognize, assimilate and apply outside knowledge rests on its prior related knowledge, built largely as a byproduct of its own R&D and not quickly bought, and that because this capacity accumulates and shapes what the firm expects of a field, a firm that stops investing in a fast-moving field may be locked out of it even after major advances; with 1975–1977 data on 1,719 business units they test only the static part, that R&D intensity rises more with the relevance of harder-to-learn, less targeted knowledge
 

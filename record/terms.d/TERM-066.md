@@ -68,7 +68,6 @@ summary: >-
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-859 — Proposed; Short, Hill and Brown's general form, cited as an instance of the sense not adopted -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as the source A20 cited, which no lawful copy reached -->
-<!-- inactive-ok-file: CLAIM-404 — Proposed; open claims that use the word or this definition, cited as open -->
 
 # TERM-066: interpretive capture, of an organization's evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process
 
@@ -224,4 +223,4 @@ capture". [CLAIM-404](../claims.d/CLAIM-404.md)'s revision of 2026-10-30 correct
 
 ## Note of 2026-11-06: what holds it back
 
-The owner's choice between the fidelity-relative and the institutional sense is unmade, and QUESTION-087 is Open. CLAIM-277, CLAIM-330, CLAIM-340 and CLAIM-359, revised on 2026-11-04 for vocabulary only (ADR-070), still do not say which sense of "capture" they mean; CLAIM-404 now says it means the institutional sense and no longer uses this term.
+The owner's choice between the fidelity-relative and the institutional sense is unmade, and [QUESTION-087](../questions.d/QUESTION-087.md) is Open. [CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-330](../claims.d/CLAIM-330.md), [CLAIM-340](../claims.d/CLAIM-340.md) and [CLAIM-359](../claims.d/CLAIM-359.md), revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)), still do not say which sense of "capture" they mean; [CLAIM-404](../claims.d/CLAIM-404.md) now says it means the institutional sense and no longer uses this term.

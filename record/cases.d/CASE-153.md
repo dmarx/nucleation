@@ -42,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-1563 — Skimmed; Kaelbling, Littman and Cassandra, cited from the reading of 2026-11-04 as open -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
-<!-- inactive-ok-file: CLAIM-404 CLAIM-446 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->
 
 # CASE-153: The self-protecting sentry: a hidden world, safe or dangerous, a sentry process that favours sheltering and can block inspection with weight κg, an investigator that favours inspecting, which reveals the state with 90% accuracy at a small cost; train in danger, switch to safety, and compare a Bayesian baseline, a habit baseline, the learned-authority model, an independent audit and a protected investigator, then cross governance feedback, evidence restriction and correction rights in a 2×2×2 design
 

@@ -75,5 +75,5 @@ or measurement is given in the article.
 
 No primary source is read: the collision property rests on an encyclopedia
 article's illustrative simulation and the 1965 history on its co-author's
-later account, while Zabusky and Kruskal (1965), LIT-2199, is unread. A read
+later account, while Zabusky and Kruskal (1965), [LIT-2199](../literature.d/LIT-2199.md), is unread. A read
 exact two-soliton solution or the 1965 letter itself is what is missing.

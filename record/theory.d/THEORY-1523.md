@@ -37,7 +37,6 @@ summary: >-
   for Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md). It says nothing about what
   happens when own R&D stops.
 ---
-<!-- inactive-ok-file: THEORY-1518 — new; the reading of the original this reading once stood in for -->
 
 # THEORY-1523: Griffith, Redding and Van Reenen find, in a panel of manufacturing industries in twelve OECD countries over 1974–1990, that industries further behind their industry's productivity frontier grow faster the more R&D they do, so that R&D raises the rate at which frontier technology is absorbed as well as the rate of own innovation, and that for a country at about half the frontier's productivity over half of R&D's estimated return comes through this absorption
 

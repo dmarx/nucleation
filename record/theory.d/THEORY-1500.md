@@ -102,5 +102,5 @@ Smirnov's infinite-domain analysis of the driven, damped nonlinear
 Schrödinger equation (the paper's ref. 30), which the record has not read,
 and is checked in the paper only against simulations of a few hundred modes.
 The demand for the Nature Photonics version names no discrepancy and can be
-dropped at the next content revision (ADR-065, decision 4); the reading of
+dropped at the next content revision ([ADR-065](../decisions.d/ADR-065.md), decision 4); the reading of
 ref. 30 cannot.

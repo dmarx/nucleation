@@ -21,10 +21,10 @@ source:
 extends:
 - THEORY-1497
 summary: >-
-  The thesis St John asserts, split from THEORY-1497 when the
+  The thesis St John asserts, split from [THEORY-1497](THEORY-1497.md) when the
   twenty-eighth status review promoted the report of his account
-  (ADR-065; ADR-047 kind 1). THEORY-1497 holds that he holds it; whether
-  it is true is this entry's question, under the condition THEORY-1497
+  ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1497](THEORY-1497.md) holds that he holds it; whether
+  it is true is this entry's question, under the condition [THEORY-1497](THEORY-1497.md)
   carried, word for word.
 ---
 
@@ -32,11 +32,11 @@ summary: >-
 
 ## Source
 
-St John (2017), LIT-2188; his account is read in NOTE-1662 and reported,
-Active, in THEORY-1497.
+St John (2017), [LIT-2188](../literature.d/LIT-2188.md); his account is read in [NOTE-1662](../notes.d/NOTE-1662.md) and reported,
+Active, in [THEORY-1497](THEORY-1497.md).
 
 ## What was actually shown
 
-See THEORY-1497: an interpretive argument from the organization's
+See [THEORY-1497](THEORY-1497.md): an interpretive argument from the organization's
 statements, the Philosophical Center's essays, press and fieldwork, with
 nothing counted. Nothing beyond that reading is held here.

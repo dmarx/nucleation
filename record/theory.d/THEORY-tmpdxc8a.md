@@ -17,23 +17,23 @@ source:
 extends:
 - THEORY-1489
 summary: >-
-  The thesis the authors assert, split from THEORY-1489 when the
+  The thesis the authors assert, split from [THEORY-1489](THEORY-1489.md) when the
   twenty-eighth status review promoted the report of their findings
-  (ADR-065; ADR-047 kind 1). THEORY-1489 holds that they report the
+  ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1489](THEORY-1489.md) holds that they report the
   trends and hold this; whether it is true is this entry's question,
-  under the condition THEORY-1489 carried, word for word.
+  under the condition [THEORY-1489](THEORY-1489.md) carried, word for word.
 ---
 
 # THEORY-tmpdxc8a: Without perpetual active management of invasive plants, predators and water levels in Hawai'i's wetlands, the endangered Coot, Stilt and Gallinule would decline
 
 ## Source
 
-Underwood, Silbernagle, Nishimoto and Uyehara (2013), LIT-2153; read in
-NOTE-1672 and reported, Active, in THEORY-1489.
+Underwood, Silbernagle, Nishimoto and Uyehara (2013), [LIT-2153](../literature.d/LIT-2153.md); read in
+[NOTE-1672](../notes.d/NOTE-1672.md) and reported, Active, in [THEORY-1489](THEORY-1489.md).
 
 ## What was actually shown
 
-See THEORY-1489: statewide trends that are stable or rising, refuges
+See [THEORY-1489](THEORY-1489.md): statewide trends that are stable or rising, refuges
 holding a disproportionate share, and one large unmanaged marsh with few
 birds. No managed wetland was observed after management ended. Nothing
 beyond that reading is held here.

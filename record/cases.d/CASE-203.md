@@ -32,7 +32,6 @@ reported_in:
 - LIT-2084
 - NOTE-1573
 ---
-<!-- inactive-ok-file: CASE-213 — Proposed; A's case of the same filing, cited as filed, nothing here rests on it -->
 
 # CASE-203: The U.S. fire incident reporting guidance on cancelled dispatches, 2023: units assigned, arrived and turned back are recorded, while a call a department could not answer for lack of resources is not an incident at all, so the data omit the failures that most concern readiness
 

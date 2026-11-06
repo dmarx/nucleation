@@ -79,7 +79,7 @@ Nothing was shown with new data; this is the authors' synthesis.
 
 The title is general, and its source, Holl and colleagues' opinion
 article, argues it from cited studies without data of its own. It waits
-on a primary study read in full, such as Holl et al. (2020), LIT-2145,
+on a primary study read in full, such as Holl et al. (2020), [LIT-2145](../literature.d/LIT-2145.md),
 still Unfetched, or Zahawi and Augspurger (2006), showing the
 persistence contrast, the 64 m² minimum and the spread its condition
 names.

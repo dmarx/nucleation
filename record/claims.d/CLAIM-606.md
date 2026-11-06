@@ -143,14 +143,14 @@ derivation for the integrable formation threshold).
 
 ## Note of 2026-11-06: what holds it back
 
-TERM-088, which the note above calls not adopted, was adopted on 2026-11-06
+[TERM-088](../terms.d/TERM-088.md), which the note above calls not adopted, was adopted on 2026-11-06
 and is Active, so it no longer holds the claim. What holds it is its
-readings: the topological route rests on THEORY-1507, whose source is only
-Skimmed (NOTE-1694), and THEORY-1500, THEORY-1501, THEORY-1506 and
-THEORY-1509 state the conservative, dissipative and oscillon routes
-generally and stay Proposed under their strict conditions, as THEORY-1502
+readings: the topological route rests on [THEORY-1507](../theory.d/THEORY-1507.md), whose source is only
+Skimmed ([NOTE-1694](../notes.d/NOTE-1694.md)), and [THEORY-1500](../theory.d/THEORY-1500.md), [THEORY-1501](../theory.d/THEORY-1501.md), [THEORY-1506](../theory.d/THEORY-1506.md) and
+[THEORY-1509](../theory.d/THEORY-1509.md) state the conservative, dissipative and oscillon routes
+generally and stay Proposed under their strict conditions, as [THEORY-1502](../theory.d/THEORY-1502.md)
 does on a Skimmed reading; the dissipative contrast is now grounded on
-THEORY-tmppeysf, the Proposed general form of Grelu and Akhmediev's account.
+[THEORY-tmppeysf](../theory.d/THEORY-tmppeysf.md), the Proposed general form of Grelu and Akhmediev's account.
 
 ## Note of 2026-11-06: the Kerr case and [CLAIM-604](CLAIM-604.md)'s scoped clause
 

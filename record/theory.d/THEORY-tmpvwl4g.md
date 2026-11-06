@@ -21,10 +21,10 @@ extends:
 bears_on:
 - QUESTION-398
 summary: >-
-  The thesis the source asserts, split from THEORY-1512 when the
-  twenty-eighth status review promoted the report of it (ADR-065;
-  ADR-047 kind 1). THEORY-1512 holds that the authors assert it; whether
-  it is true is this entry's question, under the condition THEORY-1512
+  The thesis the source asserts, split from [THEORY-1512](THEORY-1512.md) when the
+  twenty-eighth status review promoted the report of it ([ADR-065](../decisions.d/ADR-065.md);
+  [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1512](THEORY-1512.md) holds that the authors assert it; whether
+  it is true is this entry's question, under the condition [THEORY-1512](THEORY-1512.md)
   carried, word for word. The source contradicts itself on SIMV: its
   abstract calls it the most effective method after failed trials, its
   body and conclusion the least; this entry follows the body.
@@ -34,12 +34,12 @@ summary: >-
 
 ## Source
 
-The source's argument is read in NOTE-1701 and reported, Active, in
-THEORY-1512, which this entry extends.
+The source's argument is read in [NOTE-1701](../notes.d/NOTE-1701.md) and reported, Active, in
+[THEORY-1512](THEORY-1512.md), which this entry extends.
 
 ## What was actually shown
 
-See THEORY-1512: what the source states and the evidence it cites. Nothing beyond that reading is held here.
+See [THEORY-1512](THEORY-1512.md): what the source states and the evidence it cites. Nothing beyond that reading is held here.
 
 ## What would settle it
 

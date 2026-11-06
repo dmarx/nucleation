@@ -98,4 +98,4 @@ it gives (Brochard 1994: pressure support 5.7 days against 9.3 for T-piece
 and SIMV combined; Esteban 1995: median 5 days on SIMV, 4 on pressure
 support, 3 on T-piece) agree with the body. The title follows the body. The
 2006 correction (doi:10.1186/cc4996) was not read; the discrepancy is
-carried to THEORY-tmpvwl4g, which extends this entry.
+carried to [THEORY-tmpvwl4g](THEORY-tmpvwl4g.md), which extends this entry.

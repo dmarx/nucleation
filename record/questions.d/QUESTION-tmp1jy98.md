@@ -8,9 +8,9 @@ tags:
 date: '2026-11-06'
 line: realizability
 summary: >-
-  The promotion conditions formerly on THEORY-1441, THEORY-1442,
-  THEORY-1446, THEORY-1447, THEORY-1453, THEORY-1454, THEORY-1457, moved
-  here when the twenty-eighth status review promoted them under ADR-065.
+  The promotion conditions formerly on [THEORY-1441](../theory.d/THEORY-1441.md), [THEORY-1442](../theory.d/THEORY-1442.md),
+  [THEORY-1446](../theory.d/THEORY-1446.md), [THEORY-1447](../theory.d/THEORY-1447.md), [THEORY-1453](../theory.d/THEORY-1453.md), [THEORY-1454](../theory.d/THEORY-1454.md), [THEORY-1457](../theory.d/THEORY-1457.md), moved
+  here when the twenty-eighth status review promoted them under [ADR-065](../decisions.d/ADR-065.md).
   Each reading reports what one group found, among the record's
   DNA-origami folding-pathway and thermodynamic results; whether each
   holds when another group or method tests it is this question.
@@ -28,7 +28,7 @@ the conditions they carried, word for word, say what would count.
 
 ## The conditions it holds
 
-### THEORY-1441
+### [THEORY-1441](../theory.d/THEORY-1441.md)
 
 > An independent measurement, on this brick or another multilayer DNA
 > origami folded at constant temperature, finds (a) a domain binding
@@ -38,14 +38,14 @@ the conditions they carried, word for word, say what would count.
 > removing the earliest-binding domains abolishes an early compacted
 > intermediate and delays the folded state without preventing it.
 
-### THEORY-1442
+### [THEORY-1442](../theory.d/THEORY-1442.md)
 
 > An independent single-molecule or bulk study of a 2D DNA origami
 > reproduces the move of the nucleation site by changing staple
 > concentrations alone, with sequences and ramp held fixed, and finds
 > the site where a melting-temperature account of the staples places it.
 
-### THEORY-1446
+### [THEORY-1446](../theory.d/THEORY-1446.md)
 
 > An independent study of several designs of one DNA origami shape,
 > under its own anneal conditions and quality measure, finds defectivity
@@ -54,7 +54,7 @@ the conditions they carried, word for word, say what would count.
 > melt temperature, and finds a design that adds short folds at the
 > expense of medium ones performing worse.
 
-### THEORY-1447
+### [THEORY-1447](../theory.d/THEORY-1447.md)
 
 > An independent experiment or model on a DNA origami shows (a) that
 > raising staple-staple cooperativity, by stacking or by loop closure,
@@ -63,7 +63,7 @@ the conditions they carried, word for word, say what would count.
 > shifts the annealing temperature by several times more than it shifts
 > the melting temperature.
 
-### THEORY-1453
+### [THEORY-1453](../theory.d/THEORY-1453.md)
 
 > An experiment shows the predicted design dependence: origami that
 > differ only in staples per crossover column or in breakpoint stacking
@@ -77,7 +77,7 @@ the conditions they carried, word for word, say what would count.
 > of the barrier and its control by stacking rather than hybridization
 > strength.
 
-### THEORY-1454
+### [THEORY-1454](../theory.d/THEORY-1454.md)
 
 > A reading of the paper's supplement confirms the affine correction and
 > the fits as described, and an independent measurement of a single
@@ -88,7 +88,7 @@ the conditions they carried, word for word, say what would count.
 > its melting temperature falls with fold distance, by several degrees
 > from short to long folds.
 
-### THEORY-1457
+### [THEORY-1457](../theory.d/THEORY-1457.md)
 
 > An independent measurement of single-fold yield against staple excess,
 > by a second lab or with a reporter that separates the blocked from the

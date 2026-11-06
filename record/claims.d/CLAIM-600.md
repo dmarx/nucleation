@@ -327,7 +327,7 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   domains in which each condition is seen.
 - **To [QUESTION-399](../questions.d/QUESTION-399.md).** A nucleus can become independent of its founder
   and stay dependent on an ambient flux, as tree islands do. Whether it
-  regenerates its own parts is a further step (CLAIM-566): the planted cohort's own
+  regenerates its own parts is a further step ([CLAIM-566](CLAIM-566.md)): the planted cohort's own
   seedlings rarely reach the sapling layer ([NOTE-1660](../notes.d/NOTE-1660.md)), so these
   islands have not taken it.
 
@@ -383,4 +383,4 @@ Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), sup
 
 ## Note of 2026-11-06: what holds it back
 
-Its premises are held: CLAIM-597, CLAIM-602, CLAIM-604 and CLAIM-566 are Active (CLAIM-566 since 2026-11-06), and the claims and readings it cites as instances corroborate it. What holds it back is that the qualifications its own notes say the third condition needs are not in its title: an upper bound on the party's effort (Goligher et al.), the per-subtask unit (Macnamara et al.), and the party's own work continuing after withdrawal where lockout threatens (Cohen and Levinthal). The next step is a revision that writes them into the title, and then a ruling.
+Its premises are held: [CLAIM-597](CLAIM-597.md), [CLAIM-602](CLAIM-602.md), [CLAIM-604](CLAIM-604.md) and [CLAIM-566](CLAIM-566.md) are Active ([CLAIM-566](CLAIM-566.md) since 2026-11-06), and the claims and readings it cites as instances corroborate it. What holds it back is that the qualifications its own notes say the third condition needs are not in its title: an upper bound on the party's effort (Goligher et al.), the per-subtask unit (Macnamara et al.), and the party's own work continuing after withdrawal where lockout threatens (Cohen and Levinthal). The next step is a revision that writes them into the title, and then a ruling.

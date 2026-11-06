@@ -11,8 +11,8 @@ line:
 - readiness
 summary: >-
   The independent test and the refutation clauses formerly in
-  THEORY-1508's promotion condition, moved here when the twenty-eighth
-  status review promoted that reading as a report under ADR-065.
+  [THEORY-1508](../theory.d/THEORY-1508.md)'s promotion condition, moved here when the twenty-eighth
+  status review promoted that reading as a report under [ADR-065](../decisions.d/ADR-065.md).
 ---
 
 # QUESTION-tmpl3rft: Does a replication or long-run follow-up of Moving to Opportunity, or of another randomized housing-mobility programme, again find adult earnings gains for children who moved young, declining with age at move, and no earnings gain for the adults moved?
@@ -21,7 +21,7 @@ summary: >-
 
 Chetty, Hendren and Katz find, in one randomized programme, that children
 who moved before 13 gained in adult earnings, by less the older they moved,
-while their parents did not (THEORY-1508, NOTE-1695). Earnings are observed
+while their parents did not ([THEORY-1508](../theory.d/THEORY-1508.md), [NOTE-1695](../notes.d/NOTE-1695.md)). Earnings are observed
 only to about age 28, age at move was not randomized, and the older-child
 estimates are imprecise; whether the pattern holds in another programme or
 at later ages is open.
@@ -29,7 +29,7 @@ at later ages is open.
 ## What would answer it
 
 An independent test of the same result, as the condition asked. The
-condition as it stood on THEORY-1508: A replication or long-run follow-up of
+condition as it stood on [THEORY-1508](../theory.d/THEORY-1508.md): A replication or long-run follow-up of
 Moving to Opportunity, or of another randomized housing-mobility programme,
 that reports adult earnings gains for children who moved young, declining
 with age at move, together with no earnings gain for the adults moved; or

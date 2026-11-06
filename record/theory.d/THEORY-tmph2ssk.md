@@ -19,11 +19,11 @@ source:
 extends:
 - THEORY-1468
 summary: >-
-  The thesis Kadowaki and colleagues (2018), LIT-2165, assert, split
-  from THEORY-1468 when the twenty-eighth status review promoted the
-  report of their account (ADR-065; ADR-047 kind 1). THEORY-1468 holds
+  The thesis Kadowaki and colleagues (2018), [LIT-2165](../literature.d/LIT-2165.md), assert, split
+  from [THEORY-1468](THEORY-1468.md) when the twenty-eighth status review promoted the
+  report of their account ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1468](THEORY-1468.md) holds
   that it is their account; whether the cases they cite bear it out is
-  this entry's question, under the condition THEORY-1468 carried, word
+  this entry's question, under the condition [THEORY-1468](THEORY-1468.md) carried, word
   for word.
 ---
 
@@ -31,12 +31,12 @@ summary: >-
 
 ## Source
 
-Kadowaki and colleagues (2018), LIT-2165; their account is read in
-NOTE-1677 and reported, Active, in THEORY-1468.
+Kadowaki and colleagues (2018), [LIT-2165](../literature.d/LIT-2165.md); their account is read in
+[NOTE-1677](../notes.d/NOTE-1677.md) and reported, Active, in [THEORY-1468](THEORY-1468.md).
 
 ## What was actually shown
 
-See THEORY-1468: a toy model the authors call not novel and three cases
+See [THEORY-1468](THEORY-1468.md): a toy model the authors call not novel and three cases
 described from other studies, none tested for alternative stable states,
 none with numbers, none followed after the intervention ends. Nothing
 beyond that reading is held here.

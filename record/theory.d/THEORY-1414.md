@@ -47,7 +47,7 @@ corroborates:
 - CLAIM-588
 - CLAIM-tmp5iqbr
 summary: >-
-  Rocks and Mehta (2024; arXiv 2022), LIT-2112, read in full in NOTE-1557,
+  Rocks and Mehta (2024; arXiv 2022), [LIT-2112](../literature.d/LIT-2112.md), read in full in [NOTE-1557](../notes.d/NOTE-1557.md),
   the proof appendices included. Held as what the authors show: an index
   theorem in elastic susceptibilities that holds with prestress and
   heterogeneous stiffness, whose counts by Theorem 1 always equal the
@@ -58,7 +58,7 @@ summary: >-
   mechanisms unchanged. It is a linear theory: it does not say when
   prestress makes a structure rigid, nor whether zero modes extend to
   finite motions. Whether an independent derivation confirms it is
-  QUESTION-tmphi77o.
+  [QUESTION-tmphi77o](../questions.d/QUESTION-tmphi77o.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp5iqbr — Proposed and new; the status review's own sharpening of this reading, left for the next pass to rule on -->
 
@@ -97,7 +97,7 @@ Rocks and Mehta (2024; arXiv v1 2022-08-15), [LIT-2112](../literature.d/LIT-2112
   number of LZEFs equals the number of LZMs and the number of ZDTs the number
   of SSSs; what changes is which forces and tensions they are.
 - That stiffness alone redirects the forces. The examples use uniform
-  stiffness throughout; the status review's own result (CLAIM-tmp5iqbr)
+  stiffness throughout; the status review's own result ([CLAIM-tmp5iqbr](../claims.d/CLAIM-tmp5iqbr.md))
   shows that, for a linear zero mode, it cannot.
 
 ## Note of 2026-11-06: what holds it back
@@ -106,4 +106,4 @@ The title says the authors show the generalized index theorem and Theorems 1 and
 
 ## Note of 2026-11-06: read in full, narrowed and promoted
 
-NOTE-1557 version 2 reads Appendices A to D. The index theorem is proved in Sec. IV by rank–nullity. Theorems 1 and 2 and their corollaries are proved in Appendix B, and each step checks. The title's localization clause stated generally what the paper shows on two networks, a diamond network and a 4×4 periodic square lattice, so it is now hedged to those two. The demand for an independent derivation is QUESTION-tmphi77o. The status review's CLAIM-tmp5iqbr derives the localization in general, in the limit of a vanishing regularizer. That result is the record's own and is not the paper's.
+[NOTE-1557](../notes.d/NOTE-1557.md) version 2 reads Appendices A to D. The index theorem is proved in Sec. IV by rank–nullity. Theorems 1 and 2 and their corollaries are proved in Appendix B, and each step checks. The title's localization clause stated generally what the paper shows on two networks, a diamond network and a 4×4 periodic square lattice, so it is now hedged to those two. The demand for an independent derivation is [QUESTION-tmphi77o](../questions.d/QUESTION-tmphi77o.md). The status review's [CLAIM-tmp5iqbr](../claims.d/CLAIM-tmp5iqbr.md) derives the localization in general, in the limit of a vanishing regularizer. That result is the record's own and is not the paper's.

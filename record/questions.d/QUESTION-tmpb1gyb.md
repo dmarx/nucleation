@@ -7,8 +7,8 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1498, moved here when the
-  twenty-eighth status review promoted it under ADR-065. It read: 'An
+  The promotion condition formerly on [THEORY-1498](../theory.d/THEORY-1498.md), moved here when the
+  twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'An
   independent study of large, exogenous, unconditional windfalls in US
   administrative data, from lotteries or another as-good-as-random
   source, finds over a multi-year horizon a marginal propensity to earn
@@ -18,7 +18,7 @@ summary: >-
   finds no increase in self-employment with profits above about $15,000.
   Observed rather than imputed wealth or consumption would strengthen
   the smoothing part but is not required, since the title reports it as
-  the authors' imputation.' THEORY-1498 reports what Golosov, Graber,
+  the authors' imputation.' [THEORY-1498](../theory.d/THEORY-1498.md) reports what Golosov, Graber,
   Mogstad and Novgorodsky find; whether an independent study finds the
   same is this question.
 ---
@@ -27,7 +27,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1498 reports one study of US lottery winners, with consumption
+[THEORY-1498](../theory.d/THEORY-1498.md) reports one study of US lottery winners, with consumption
 inferred from the budget identity and wealth imputed from capital income,
 over five years. The authors find effects about twice Sweden's.
 

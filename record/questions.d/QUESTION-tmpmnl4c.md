@@ -8,9 +8,9 @@ tags:
 date: '2026-11-06'
 line: realizability
 summary: >-
-  The promotion conditions formerly on THEORY-1448, THEORY-1449,
-  THEORY-1451, moved here when the twenty-eighth status review promoted
-  them under ADR-065. Each reading reports what one group found, among the
+  The promotion conditions formerly on [THEORY-1448](../theory.d/THEORY-1448.md), [THEORY-1449](../theory.d/THEORY-1449.md),
+  [THEORY-1451](../theory.d/THEORY-1451.md), moved here when the twenty-eighth status review promoted
+  them under [ADR-065](../decisions.d/ADR-065.md). Each reading reports what one group found, among the
   record's DNA-origami self-replication and proofreading results; whether
   each holds when another group or method tests it is this question.
 ---
@@ -27,7 +27,7 @@ the conditions they carried, word for word, say what would count.
 
 ## The conditions it holds
 
-### THEORY-1448
+### [THEORY-1448](../theory.d/THEORY-1448.md)
 
 > An independent group reproduces, for DNA origami tiles tethered on a
 > template, the melting-temperature shift attributed to raised effective
@@ -35,7 +35,7 @@ the conditions they carried, word for word, say what would count.
 > across assembly sizes, or reports per-cycle replication rates for the
 > cross-tile system matching these within error.
 
-### THEORY-1449
+### [THEORY-1449](../theory.d/THEORY-1449.md)
 
 > An independent replication of mutant takeover in a templated, enzyme-free
 > origami replicator fed monomers each cycle, or a fit of the
@@ -45,7 +45,7 @@ the conditions they carried, word for word, say what would count.
 > dominance within about ten cycles when it grows faster, and that
 > species growing alike approach equal shares.
 
-### THEORY-1451
+### [THEORY-1451](../theory.d/THEORY-1451.md)
 
 > An independent kTAM simulation or analysis, or an experiment with DNA
 > tiles, reproduces all three of the following: the change in the

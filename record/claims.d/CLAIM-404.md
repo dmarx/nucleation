@@ -120,8 +120,8 @@ that influence becomes self-sustaining.**"
 
 **The word.** "Capture" in this claim is the institutional sense of A20
 §1, an institution's decisions subordinated to particular interests
-against its designated purpose, which TERM-066 declines. The claim is not
-stated in TERM-066's interpretive capture, and cites it only for the
+against its designated purpose, which [TERM-066](../terms.d/TERM-066.md) declines. The claim is not
+stated in [TERM-066](../terms.d/TERM-066.md)'s interpretive capture, and cites it only for the
 standard from outside that a verdict of capture would need.
 
 Three parts.

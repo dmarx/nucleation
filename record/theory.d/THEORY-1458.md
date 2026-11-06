@@ -40,7 +40,7 @@ summary: >-
   shots, not for guesses; the focus-to-neglect link weakened in their
   replications.
 ---
-<!-- inactive-ok-file: LIT-2147 THEORY-1484 — Unavailable, Proposed or new; cited from the reading of Shah, Shafir & Mullainathan (working paper) as open -->
+<!-- inactive-ok-file: LIT-2147 — Unavailable, Proposed or new; cited from the reading of Shah, Shafir & Mullainathan (working paper) as open -->
 
 # THEORY-1458: In Shah, Shafir and Mullainathan's working paper, players given small budgets of seconds or of guesses borrowed a larger share of their budget against later rounds than players given large ones and, when borrowing carried interest, scored lower than when they could not borrow, while large-budget players did not; the authors attribute this to constraint focus, attention shifted toward the binding resource at the cost of others, whose one direct test is a two-grid memory game with 33 players
 

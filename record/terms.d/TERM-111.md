@@ -178,4 +178,4 @@ A's fourth paste splits universality into five classifications, constraint, proc
 
 ## Note of 2026-11-06: what holds it back
 
-Its definition was edited on 2026-11-06 to place the later pastes' divisions, and the placement is the reviewer's reading of A's fourth paste, which the record does not hold beyond its note of 2026-11-05; adoption waits a pass for the edited definition to settle. CLAIM-573 is stated in it, as its settle condition asks.
+Its definition was edited on 2026-11-06 to place the later pastes' divisions, and the placement is the reviewer's reading of A's fourth paste, which the record does not hold beyond its note of 2026-11-05; adoption waits a pass for the edited definition to settle. [CLAIM-573](../claims.d/CLAIM-573.md) is stated in it, as its settle condition asks.

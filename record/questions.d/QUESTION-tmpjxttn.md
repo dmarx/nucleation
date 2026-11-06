@@ -8,8 +8,8 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1479, moved here when the
-  twenty-eighth status review promoted it under ADR-065: THEORY-1479
+  The promotion condition formerly on [THEORY-1479](../theory.d/THEORY-1479.md), moved here when the
+  twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md): [THEORY-1479](../theory.d/THEORY-1479.md)
   reports what Cesarini and colleagues find on Swedish lotteries;
   whether another study finds the same response is this question.
 ---
@@ -18,9 +18,9 @@ summary: >-
 
 ## Why it is a question
 
-Cesarini, Lindqvist, Notowidigdo and Östling (THEORY-1479) estimate the
+Cesarini, Lindqvist, Notowidigdo and Östling ([THEORY-1479](../theory.d/THEORY-1479.md)) estimate the
 response from three Swedish lotteries. An independent study of random
 windfalls finding a response of the same order, timing and margin would
-answer it; US lottery winners in Golosov and colleagues (THEORY-1498),
+answer it; US lottery winners in Golosov and colleagues ([THEORY-1498](../theory.d/THEORY-1498.md)),
 measured per dollar of annuitized income, bear on it without settling
 it.

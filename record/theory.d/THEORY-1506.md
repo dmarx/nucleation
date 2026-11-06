@@ -81,6 +81,6 @@ Copeland, Gleiser & Müller (1995), [LIT-2200](../literature.d/LIT-2200.md); rea
 ## Note of 2026-11-06: what holds it back
 
 The title states the double-well model's behaviour generally, and the one
-independent simulation the record holds (Fodor 2019, NOTE-1698, §2.6.4)
+independent simulation the record holds (Fodor 2019, [NOTE-1698](../notes.d/NOTE-1698.md), §2.6.4)
 reproduces a single Gaussian radius, not the existence window in radius or
 the plateau's independence of the initial radius.

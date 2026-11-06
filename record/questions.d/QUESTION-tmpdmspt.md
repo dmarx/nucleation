@@ -8,15 +8,15 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1494, moved here when the
-  twenty-eighth status review promoted it under ADR-065. It read: 'A
+  The promotion condition formerly on [THEORY-1494](../theory.d/THEORY-1494.md), moved here when the
+  twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'A
   meta-analysis pooling randomized evaluations of cash transfers in low-
   and middle-income countries finds a pooled effect on household alcohol
   and tobacco spending that is zero or negative, with an upper
   confidence bound that excludes more than a trivial increase, and no
   significant difference between conditional and unconditional programs.
   A further count of estimates by sign does not settle it; nor does a
-  result on other spending.' THEORY-1494 reports Evans and Popova's
+  result on other spending.' [THEORY-1494](../theory.d/THEORY-1494.md) reports Evans and Popova's
   count of estimates by sign and significance; whether a pooled estimate
   bounds the effect is this question.
 ---
@@ -25,7 +25,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1494 reports a vote count of 44 non-independent estimates, only 17
+[THEORY-1494](../theory.d/THEORY-1494.md) reports a vote count of 44 non-independent estimates, only 17
 of them randomized, with no pooled estimate or interval. It says such
 spending is almost never raised; it does not bound the effect.
 

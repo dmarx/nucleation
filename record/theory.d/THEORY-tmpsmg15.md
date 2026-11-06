@@ -19,11 +19,11 @@ source:
 extends:
 - THEORY-1474
 summary: >-
-  The thesis Heins, Unrau and Avram (2018), LIT-2178, carry from Mauss
-  and Dillon, split from THEORY-1474 when the twenty-eighth status
-  review promoted the report of it (ADR-065; ADR-047 kind 1).
-  THEORY-1474 holds that they hold and report it; whether it is true
-  is this entry's question, under the condition THEORY-1474 carried,
+  The thesis Heins, Unrau and Avram (2018), [LIT-2178](../literature.d/LIT-2178.md), carry from Mauss
+  and Dillon, split from [THEORY-1474](THEORY-1474.md) when the twenty-eighth status
+  review promoted the report of it ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1).
+  [THEORY-1474](THEORY-1474.md) holds that they hold and report it; whether it is true
+  is this entry's question, under the condition [THEORY-1474](THEORY-1474.md) carried,
   word for word.
 ---
 
@@ -31,12 +31,12 @@ summary: >-
 
 ## Source
 
-Heins, Unrau and Avram (2018), LIT-2178; read in NOTE-1679 and reported,
-Active, in THEORY-1474.
+Heins, Unrau and Avram (2018), [LIT-2178](../literature.d/LIT-2178.md); read in [NOTE-1679](../notes.d/NOTE-1679.md) and reported,
+Active, in [THEORY-1474](THEORY-1474.md).
 
 ## What was actually shown
 
-See THEORY-1474: Mauss's argument, and Dillon's 1968 study of the
+See [THEORY-1474](THEORY-1474.md): Mauss's argument, and Dillon's 1968 study of the
 Marshall Plan in France, built on a case study of one French engineer
 and reported at second hand, with the kula offered as a heuristic
 analogy. Nothing beyond that reading is held here.

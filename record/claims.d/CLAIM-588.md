@@ -87,14 +87,14 @@ suppressing a demand is not relief ([CLAIM-347](CLAIM-347.md)).
 contexts with offsets and tolerances, the feasible allocations depend on
 the offsets only through their class in H¹, so local adjustment can move a
 mismatch among the overlaps of a cycle and never remove it. Rocks and Mehta
-(NOTE-1557; THEORY-1414) give a mechanical parallel, weaker than a witness.
+([NOTE-1557](../notes.d/NOTE-1557.md); [THEORY-1414](../theory.d/THEORY-1414.md)) give a mechanical parallel, weaker than a witness.
 Their prestress sits on states of self-stress that the geometry fixes. Placed
 on different bonds of that same space, it changes the response while the zero
 modes and the self-stresses stay as they were: the force that couples to a
 mode "no longer points in the same direction, but instead localizes to the
 line of prestressed bonds". What moves is that force; the load is where the
 designer put it, and their examples add a mismatch rather than move a given
-one (ARG-tmpa8qe0).
+one ([ARG-tmpa8qe0](../arguments.d/ARG-tmpa8qe0.md)).
 
 **Exploitation without full relief.** Zang et al. ([NOTE-1569](../notes.d/NOTE-1569.md);
 [THEORY-1417](../theory.d/THEORY-1417.md)): prestress in Kresling cells induces frustration that
@@ -108,7 +108,7 @@ that need intermediate states stay unachievable while the stability and
 the order of transitions are retuned. So exploitation went further than
 relief. Rocks and Mehta add a cleaner instance on the mechanical side: in
 their examples prestress stabilizes the network while "the numbers of LZMs
-and LZEFs do not change" (NOTE-1557), so stability is retuned with the count
+and LZEFs do not change" ([NOTE-1557](../notes.d/NOTE-1557.md)), so stability is retuned with the count
 of freedoms and of self-stresses unchanged.
 
 **What it adds to [TERM-060](../terms.d/TERM-060.md).** The term is ordinal: frustration is an empty

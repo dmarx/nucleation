@@ -79,9 +79,9 @@ hau text that does not say what Mauss draws from it.
 
 ## Note of 2026-11-06: what holds it back
 
-NOTE-1658 is Skimmed: chapter II's Melanesian and kula sections beyond
+[NOTE-1658](../notes.d/NOTE-1658.md) is Skimmed: chapter II's Melanesian and kula sections beyond
 pp. 28–32, the potlatch sections La force des choses and La monnaie de
 renommée, and chapter III on ancient laws were searched or skimmed, not
 read. The essay must be read in full before this report can be Active;
 once it is, the condition's demand for Mauss's ethnographic sources at
-first hand moves to a Proposed THEORY that extends this one (ADR-065).
+first hand moves to a Proposed THEORY that extends this one ([ADR-065](../decisions.d/ADR-065.md)).

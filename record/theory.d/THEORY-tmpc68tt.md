@@ -19,11 +19,11 @@ source:
 extends:
 - THEORY-1462
 summary: >-
-  The thesis Haushofer and Fehr (2014), LIT-2152, assert, split from
-  THEORY-1462 when the twenty-eighth status review promoted the report
-  of their account (ADR-065; ADR-047 kind 1). THEORY-1462 holds that
+  The thesis Haushofer and Fehr (2014), [LIT-2152](../literature.d/LIT-2152.md), assert, split from
+  [THEORY-1462](THEORY-1462.md) when the twenty-eighth status review promoted the report
+  of their account ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1462](THEORY-1462.md) holds that
   they hold it; whether it is true outside the laboratory is this
-  entry's question, under the condition THEORY-1462 carried, word for
+  entry's question, under the condition [THEORY-1462](THEORY-1462.md) carried, word for
   word.
 ---
 
@@ -31,12 +31,12 @@ summary: >-
 
 ## Source
 
-Haushofer and Fehr (2014), LIT-2152; their account is read in NOTE-1681
-and reported, Active, in THEORY-1462.
+Haushofer and Fehr (2014), [LIT-2152](../literature.d/LIT-2152.md); their account is read in [NOTE-1681](../notes.d/NOTE-1681.md)
+and reported, Active, in [THEORY-1462](THEORY-1462.md).
 
 ## What was actually shown
 
-See THEORY-1462: field causal support for the first link, laboratory
+See [THEORY-1462](THEORY-1462.md): field causal support for the first link, laboratory
 inductions only, with small samples and acute stress, for the second,
 and no nonlinearity that would make a trap. Nothing beyond that reading
 is held here.

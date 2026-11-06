@@ -93,7 +93,7 @@ period. A: "money cannot always be converted into the resource needed on the rel
   budgets produce wasteful year-end spending, and that rollover is
   useless without the budget-setter's commitment.
 - **The ratchet forecloses it.** With α > 0, unspent funds signal reduced
-  need and cut the next budget: the principal's revision rule in TERM-110's
+  need and cut the next budget: the principal's revision rule in [TERM-110](../terms.d/TERM-110.md)'s
   ratchet effect; the agent's distortion that completes the effect is not
   modelled here.
   Siemroth ([NOTE-1594](../notes.d/NOTE-1594.md); [THEORY-1410](../theory.d/THEORY-1410.md)) advises: "Principals should therefore

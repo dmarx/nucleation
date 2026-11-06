@@ -10,15 +10,15 @@ line: readiness
 bears_on:
 - QUESTION-398
 summary: >-
-  The promotion conditions formerly on THEORY-1486 and THEORY-1493,
+  The promotion conditions formerly on [THEORY-1486](../theory.d/THEORY-1486.md) and [THEORY-1493](../theory.d/THEORY-1493.md),
   merged here when the twenty-eighth status review promoted both under
-  ADR-065, since both ask whether the same graduation-programme results
-  hold elsewhere. THEORY-1486's read: 'A further randomized evaluation
+  [ADR-065](../decisions.d/ADR-065.md), since both ask whether the same graduation-programme results
+  hold elsewhere. [THEORY-1486](../theory.d/THEORY-1486.md)'s read: 'A further randomized evaluation
   of a time-limited asset-and-support program for ultra-poor households,
   at a site not in this study, finds treatment effects on consumption
   and income that remain significant one year or more after all program
   support has ended, with no fall in the recipients' working time
-  relative to controls.' THEORY-1493's read: 'A randomized long-term
+  relative to controls.' [THEORY-1493](../theory.d/THEORY-1493.md)'s read: 'A randomized long-term
   follow-up of a time-limited graduation program, at another site, finds
   treatment effects on consumption or income that remain significant at
   least seven years after the asset transfer and do not shrink between
@@ -31,8 +31,8 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1486 reports gains that held a year after exit across six trials,
-with large differences between sites. THEORY-1493 reports effects that
+[THEORY-1486](../theory.d/THEORY-1486.md) reports gains that held a year after exit across six trials,
+with large differences between sites. [THEORY-1493](../theory.d/THEORY-1493.md) reports effects that
 grew for seven years at the India site, the most favourable of the six.
 Neither is a test at a site outside those studies, and the authors keep
 open that the persistence is a poverty flat rather than an escaped trap.

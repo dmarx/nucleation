@@ -19,23 +19,23 @@ source:
 extends:
 - THEORY-1467
 summary: >-
-  The thesis Mussmann and colleagues (2017), LIT-2183, assert, split
-  from THEORY-1467 when the twenty-eighth status review promoted the
-  report of their argument (ADR-065; ADR-047 kind 1). THEORY-1467
+  The thesis Mussmann and colleagues (2017), [LIT-2183](../literature.d/LIT-2183.md), assert, split
+  from [THEORY-1467](THEORY-1467.md) when the twenty-eighth status review promoted the
+  report of their argument ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1467](THEORY-1467.md)
   holds that they argue it; whether it is true is this entry's
-  question, under the condition THEORY-1467 carried, word for word.
+  question, under the condition [THEORY-1467](THEORY-1467.md) carried, word for word.
 ---
 
 # THEORY-tmpamiio: Supplying individuals by translocation while the habitat threat persists gives only ambiguous or transitory gains and perpetuates conservation reliance, which can fall below a reliance threshold only if extrinsic threats and intrinsic small-population limits are relieved together
 
 ## Source
 
-Mussmann and colleagues (2017), LIT-2183; their argument is read in
-NOTE-1670 and reported, Active, in THEORY-1467.
+Mussmann and colleagues (2017), [LIT-2183](../literature.d/LIT-2183.md); their argument is read in
+[NOTE-1670](../notes.d/NOTE-1670.md) and reported, Active, in [THEORY-1467](THEORY-1467.md).
 
 ## What was actually shown
 
-See THEORY-1467: one Illinois population, small, declining and inbred
+See [THEORY-1467](THEORY-1467.md): one Illinois population, small, declining and inbred
 twenty years after translocations, with no genetic rescue signal, and a
 conceptual figure for the threshold. No population there had its threat
 relieved. Nothing beyond that reading is held here.

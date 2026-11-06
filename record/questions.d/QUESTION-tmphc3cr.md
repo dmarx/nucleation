@@ -8,8 +8,8 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1505, moved here when the
-  twenty-eighth status review promoted it under ADR-065. It read: 'The
+  The promotion condition formerly on [THEORY-1505](../theory.d/THEORY-1505.md), moved here when the
+  twenty-eighth status review promoted it under [ADR-065](../decisions.d/ADR-065.md). It read: 'The
   QJE version of record (127(2), 2012) read and found to report, as WP
   11-38 does, that the portage effect on density is larger in the late
   20th century than in the 19th relative to 1850, that the portage
@@ -22,7 +22,7 @@ summary: >-
   portages is found. Whether the sites sit in a second stable
   equilibrium is the authors' reading, which they say is not directly
   shown, and is not asked for.' Its version-of-record route was dropped
-  under ADR-065 §4; the re-estimate route, with its refutation clause,
+  under [ADR-065](../decisions.d/ADR-065.md) §4; the re-estimate route, with its refutation clause,
   is this question.
 ---
 
@@ -30,7 +30,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1505 reports Bleakley and Lin's within-watershed comparison, read
+[THEORY-1505](../theory.d/THEORY-1505.md) reports Bleakley and Lin's within-watershed comparison, read
 in the post-referee working paper. The identification is cross-sectional,
 the rise relative to 1850 may partly be late adjustment, and the authors
 do not rule out a persistent sunk factor.

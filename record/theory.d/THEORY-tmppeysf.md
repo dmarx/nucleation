@@ -25,10 +25,10 @@ source:
 extends:
 - THEORY-1504
 summary: >-
-  The thesis the source asserts, split from THEORY-1504 when the
-  twenty-eighth status review promoted the report of it (ADR-065;
-  ADR-047 kind 1). THEORY-1504 holds that the authors assert it; whether
-  it is true is this entry's question, under the condition THEORY-1504
+  The thesis the source asserts, split from [THEORY-1504](THEORY-1504.md) when the
+  twenty-eighth status review promoted the report of it ([ADR-065](../decisions.d/ADR-065.md);
+  [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1504](THEORY-1504.md) holds that the authors assert it; whether
+  it is true is this entry's question, under the condition [THEORY-1504](THEORY-1504.md)
   carried, word for word.
 ---
 
@@ -36,12 +36,12 @@ summary: >-
 
 ## Source
 
-The source's argument is read in NOTE-1688 and reported, Active, in
-THEORY-1504, which this entry extends.
+The source's argument is read in [NOTE-1688](../notes.d/NOTE-1688.md) and reported, Active, in
+[THEORY-1504](THEORY-1504.md), which this entry extends.
 
 ## What was actually shown
 
-See THEORY-1504: what the source states and the evidence it cites. Nothing beyond that reading is held here.
+See [THEORY-1504](THEORY-1504.md): what the source states and the evidence it cites. Nothing beyond that reading is held here.
 
 ## What would settle it
 

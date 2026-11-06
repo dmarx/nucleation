@@ -69,7 +69,7 @@ summary: >-
   chains, discrepancy to discrimination to response to maintained
   capacity to revised governance, are not a sequence ([CLAIM-474](CLAIM-474.md)).
 ---
-<!-- inactive-ok-file: THEORY-040 THEORY-047 CLAIM-404 — Proposed; the entries on which provenance matters -->
+<!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
 
 # CLAIM-532: Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent's own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it
 

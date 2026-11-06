@@ -23,7 +23,7 @@ corroborated_by:
 - THEORY-1414
 summary: >-
   The status review's own result, from reading Rocks and Mehta in full
-  (NOTE-1557). It sharpens THEORY-1414: there, prestress redirects and
+  ([NOTE-1557](../notes.d/NOTE-1557.md)). It sharpens [THEORY-1414](../theory.d/THEORY-1414.md): there, prestress redirects and
   localizes the exciting force on two worked networks. Here, for any
   central-force network, the force is (T + λI)u. Stiffness drops out, and
   the localization is general in the limit. It is proved in one line and
@@ -37,7 +37,7 @@ summary: >-
 
 ## The claim
 
-Take Rocks and Mehta's setting (NOTE-1557). The compatibility matrix is C, with C_αi = ∂ℓ_α/∂u_i. The stiffness is K. The prestress t^ps is a state of self-stress, and its prestress matrix is T_ij = Σ_α t^ps_α ∂²ℓ_α/∂u_i∂u_j. The Hessian is H = CᵀKC + T, positive semidefinite at a stable ground state. The node susceptibility is ∂u/∂f = [H + λI]⁻¹. By their Theorem 1, the force f that produces a linear zero mode u (Cu = 0) is f = [∂u/∂f]⁻¹u.
+Take Rocks and Mehta's setting ([NOTE-1557](../notes.d/NOTE-1557.md)). The compatibility matrix is C, with C_αi = ∂ℓ_α/∂u_i. The stiffness is K. The prestress t^ps is a state of self-stress, and its prestress matrix is T_ij = Σ_α t^ps_α ∂²ℓ_α/∂u_i∂u_j. The Hessian is H = CᵀKC + T, positive semidefinite at a stable ground state. The node susceptibility is ∂u/∂f = [H + λI]⁻¹. By their Theorem 1, the force f that produces a linear zero mode u (Cu = 0) is f = [∂u/∂f]⁻¹u.
 
 **Derivation.** f = (H + λI)u = CᵀK(Cu) + Tu + λu = (T + λI)u.
 
@@ -55,4 +55,4 @@ Take Rocks and Mehta's setting (NOTE-1557). The compatibility matrix is C, with 
 
 ## Bearing
 
-It sharpens the reading of Rocks and Mehta (THEORY-1414). Their two worked networks show the localization, and this result says why it must happen whenever prestress acts transversely on a zero mode. It also qualifies the record's mechanical analogy for CLAIM-345: which force excites a mode depends on prestress, not on stiffness.
+It sharpens the reading of Rocks and Mehta ([THEORY-1414](../theory.d/THEORY-1414.md)). Their two worked networks show the localization, and this result says why it must happen whenever prestress acts transversely on a zero mode. It also qualifies the record's mechanical analogy for [CLAIM-345](CLAIM-345.md): which force excites a mode depends on prestress, not on stiffness.

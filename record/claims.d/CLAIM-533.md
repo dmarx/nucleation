@@ -96,7 +96,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1329 THEORY-1328 — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-1535 THEORY-1302 THEORY-1321 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: CLAIM-404 CLAIM-478 LIT-1985 LIT-1997 THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-478 LIT-1985 LIT-1997 THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-533: The sensitivity that formal chaos gives a will's dynamics is not control over them: in Kane's self-forming actions, chaotic amplification keeps the outcome open, but it magnifies the agent's efforts, uncontrolled fluctuations and outside inputs alike, so what would make the outcome the agent's is how its own control couples to the amplifying directions, relative to noise and to other parties' inputs and with what feedback, which sensitivity does not supply; and under weak noise what amplification touches lasts only where it reaches the slow modes
 
