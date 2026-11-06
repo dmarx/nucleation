@@ -1,10 +1,35 @@
 ---
 number: 106
-status: Proposed
+status: Active
 formerly:
 - TERM-tmp2ysyt
 title: 'reconfiguration slack: the temporary resources a system needs to move between two configurations it can each hold, beyond what holding either one requires, while keeping specified commitments'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), in the same change
+    that revises its definition. The revision only makes explicit forms the
+    record's claims already use: the one-sided form, the slack from the
+    current configuration, B*(A, B) − r(A), in which CLAIM-577 and
+    QUESTION-373 are stated; the several-resource form, {b − h : b ∈ S(A, B)}
+    with S CLAIM-585's sufficient budgets and h the componentwise larger
+    holding requirement, replacing "the set of budgets that suffice, less
+    what holding requires"; the scope of one capacity held at each moment,
+    to which CLAIM-571 was narrowed; and the reconfiguration reserve as the
+    stock held to meet the slack, as CLAIM-579 and CASE-200 use it, where the
+    entry had read "This term." Every use now says which sense: CLAIM-571,
+    CLAIM-569, CLAIM-580, CLAIM-581, CASE-198, CASE-204, CASE-206 and the
+    reading of Ito et al. use the two-sided slack; CLAIM-577 and
+    QUESTION-373 the one-sided form; CLAIM-579 and CASE-200 the reserve. Its
+    settle condition, a claim of the record's own stated in it that the
+    owner adopts, is met by CLAIM-580, promoted at the same review, whose
+    bound on the slack, the threshold less the larger of the two holding
+    costs, is stated in the defined sense. CLAIM-580 takes no uses edge, as
+    CLAIM-571 and CLAIM-585 take none, since the term is defined from their
+    constructions.
 tags:
 - operations-research
 - complex-systems
@@ -25,8 +50,8 @@ summary: >-
   infinite when no admissible path joins them. It folds in A's
   "resource-constrained reconfiguration", the name of the inquiry rather
   than a concept, and A's three reserves (operational, reconfiguration,
-  competency), of which this is the second. A special case of
-  organizational slack: measured against current output it is slack, and
+  competency), of which the second is what is held to meet this slack. What is held to meet
+  it, the reconfiguration reserve, is a special case of organizational slack: measured against current output it is slack, and
   its use is the transition, which the output does not show. The wording
   is A's; adopting it is the owner's call.
 ---
@@ -41,7 +66,8 @@ A: "Reconfiguration slack: temporary resources required to move between
 otherwise feasible organizational regimes while preserving specified
 commitments."
 
-Made exact, for one resource. Let r(q) be what it takes to hold
+Made exact, for one resource that must be held at each moment, a capacity
+(TERM-105), the scope to which CLAIM-571 was narrowed. Let r(q) be what it takes to hold
 configuration q, and let the admissible paths from A to B be those
 allowed by the declared transformations along which the specified
 commitments hold throughout. The bottleneck budget B*(A, B) is the least,
@@ -54,9 +80,33 @@ transition is
 It is zero when some admissible path never costs more than the costlier
 endpoint, positive when every path climbs above both, and infinite when
 the two are disconnected. In A's example, r(q) = 0.7 + 2.4q(1 − q) on
-[0, 1], both endpoints cost 0.7 and B* = 1.3, so σ = 0.6. With several
-resources the slack is not a number but the set of budgets that suffice,
-less what holding requires ([CLAIM-585](../claims.d/CLAIM-585.md)).
+[0, 1], both endpoints cost 0.7 and B* = 1.3, so σ = 0.6.
+
+**The one-sided form: slack from where the system is.** A system holding
+A on a budget that covers only r(A) lacks
+
+  σ_A(A → B) = B*(A, B) − r(A) ≥ σ(A → B),
+
+the slack from A. The two are equal when r(A) ≥ r(B). When the target
+costs more to hold, σ_A exceeds σ by r(B) − r(A), and a transition with
+σ = 0 can have σ_A > 0. A use that means σ_A says so; unqualified,
+reconfiguration slack is σ. CLAIM-577's budget rule is stated in σ_A.
+
+**With several resources.** Let each of m resources be a capacity held
+separately, r(q) ∈ ℝ^m, and let S(A, B) be CLAIM-585's sufficient budgets,
+those at least, componentwise, the peak vector of some admissible path.
+With h the componentwise maximum of r(A) and r(B), the slack is the set
+
+  Σ(A → B) = {b − h : b ∈ S(A, B)}.
+
+It lies in the nonnegative orthant, since every path's peak vector is at
+least h, and it is upward closed. It is not a number: its minimal
+elements, where they exist, are a frontier of alternatives. With one
+resource it is [σ, ∞), or (σ, ∞) when the least peak is not attained.
+The one-sided form subtracts r(A) in place of h.
+
+No slack is defined here for a cumulative or rate-limited resource, whose
+cost along a path is not its peak (CLAIM-571, TERM-105).
 
 The term's job is to name a resource whose use the current output does
 not show. A's closing: "Slack isn't merely unused capacity held in
@@ -79,8 +129,11 @@ The synthesis gives only the names; the glosses are the filer's.
 - **Operational reserve**: held while in a configuration, against
   disturbance and contingency. It is the useful slack of [TERM-107](TERM-107.md)
   that buffers shocks, and one input to readiness ([TERM-115](TERM-115.md)).
-- **Reconfiguration reserve**: held for moving between configurations.
-  This term.
+- **Reconfiguration reserve**: what is held for moving between
+  configurations, a stock, where the slack is a transition's need. A
+  system holding A with a reserve R above r(A), applicable along the path,
+  can make the move when R ≥ σ_A(A → B). Where in a configuration space a
+  reserve can be applied is CLAIM-579's question.
 - **Competency reserve**: the maintained ability to carry out a
   configuration's work at all, which decays without practice
   ([CLAIM-558](../claims.d/CLAIM-558.md)).

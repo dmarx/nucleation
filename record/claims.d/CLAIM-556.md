@@ -1,10 +1,23 @@
 ---
 number: 556
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp06538
 title: 'Before the four obstructions to a transition stands a failure of compatibility, no configuration meeting the demands, repaired by changing the constraints, since dropping a demand is not relief; and after them a failure of regeneration, the capability not surviving turnover, repaired by maintenance or reproduction; so a diagnosis runs through six levels, each with its own repair'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings); interpretive, so
+    listed for the owner. Its premises, CLAIM-568 (promoted in the same
+    change) and CLAIM-566, are Active, no objection is on file, and its
+    defeat condition already sets the failure of information aside.
+    CLAIM-347 moves from complements to rests_on and CLAIM-586 joins it:
+    the body uses them for the repair of compatibility, that dropping a
+    demand is not relief and that no resource relieves a non-face while the
+    architecture is fixed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,8 +41,9 @@ line:
 rests_on:
 - CLAIM-568
 - CLAIM-566
-complements:
 - CLAIM-347
+- CLAIM-586
+complements:
 - CLAIM-575
 bears_on:
 - QUESTION-392

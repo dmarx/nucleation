@@ -1,10 +1,22 @@
 ---
 number: 532
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpbeh2e
 title: 'Self-formation, in the sense the record holds (the transformation dimension of a will-organization), is the production by an agent''s own activity on a discrepancy it cannot yet resolve of a maintained capacity, a new distinction it can make legible or a new channel by which it can act, that outlasts the discrepancy and serves a class of later ones; it is told apart from learning an action by transfer to discrepancies of the same class after the inducing conditions are gone, and from a capacity installed or upheld from outside by interventions on the processes that produce and maintain it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings); interpretive, so
+    listed for the owner. Every premise is Active, no objection is on
+    file, and nothing in the record meets its defeat condition: no entry
+    counts a reweighting of regimes with no new distinction or channel as
+    self-formation (TERM-099 leaves that open), and CASE-191 passes the
+    first test in a model. CASE-161, LIT-582 and THEORY-1119 leave grounds:
+    the body never uses them, and CASE-161 is reached through CLAIM-522.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,9 +49,6 @@ uses:
 grounds:
 - CASE-115
 - CASE-189
-- CASE-161
-- LIT-582
-- THEORY-1119
 complements:
 - CLAIM-485
 - CLAIM-475

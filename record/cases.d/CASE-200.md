@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CASE-tmp0g3pa
 title: 'A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Revised at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), so that its use of
+    TERM-106 says which sense: "It is reconfiguration slack (TERM-106) held
+    in installments" called the 0.3 a period slack, where it is the
+    reconfiguration reserve that meets the transition's slack of 0.6. The
+    construction is unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -66,9 +76,9 @@ period. A: "money cannot always be converted into the resource needed on the rel
 - **Slack against current output can be the reconfiguration reserve.**
   Measured against what holding requires, the 0.3 is organizational slack
   ([TERM-107](../terms.d/TERM-107.md)): inputs beyond what current output needs. Its use, the
-  transition, is invisible in that output. It is reconfiguration slack
-  ([TERM-106](../terms.d/TERM-106.md)) held in installments: the transition needs 0.6 above
-  holding, the budget gives 0.3 of it each period, and carry-over
+  transition, is invisible in that output. It is a reconfiguration reserve
+  (TERM-106) built in installments: the transition's slack is 0.6, the
+  budget gives 0.3 of it each period, and carry-over
   supplies the rest.
 - **Expiry forecloses it.** With ρ < 1 the balance is lost at the period's
   end. Liebman and Mahoney ([NOTE-1553](../notes.d/NOTE-1553.md); [THEORY-1421](../theory.d/THEORY-1421.md)) find that expiring
