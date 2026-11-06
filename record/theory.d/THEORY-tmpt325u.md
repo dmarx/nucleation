@@ -20,21 +20,21 @@ date: '2026-11-06'
 source:
 - LIT-tmptstez
 summary: >-
-  Tong (2005), LIT-tmptstez, read in part in NOTE-tmpn0ajp (§1.1, the
+  Tong (2005), [LIT-tmptstez](../literature.d/LIT-tmptstez.md), read in part in [NOTE-tmpn0ajp](../notes.d/NOTE-tmpn0ajp.md) (§1.1, the
   opening of §2, §3.8.3, §§4.1–4.2.2). Standard topological soliton
   theory, stated by Tong for instantons, monopoles and domain walls in
   gauge theories. The thesis that a topological soliton cannot decay except
   by annihilation with an opposite charge or by a change at the boundary is
   the reader's inference from these points, not Tong's statement, and is
   not part of this account. A neighbour of Copeland, Gleiser & Müller
-  (1995), LIT-tmpfxol8, for the protection oscillons lack.
+  (1995), [LIT-tmpfxol8](../literature.d/LIT-tmpfxol8.md), for the protection oscillons lack.
 ---
 
 # THEORY-tmpt325u: A configuration of finite energy must approach a vacuum at spatial infinity, and the map from the boundary into the vacua falls into homotopy classes that cannot be continuously deformed into one another, so the space of configurations splits into sectors labelled by a topological charge measured at the boundary; the energy, action or tension in a sector is bounded below by that charge and the soliton saturates the bound, and a kink, which interpolates between distinct vacua at its two ends, has its charge fixed by that boundary data
 
 ## Source
 
-Tong (2005), LIT-tmptstez; read in part in NOTE-tmpn0ajp.
+Tong (2005), [LIT-tmptstez](../literature.d/LIT-tmptstez.md); read in part in [NOTE-tmpn0ajp](../notes.d/NOTE-tmpn0ajp.md).
 
 ## What was actually shown
 

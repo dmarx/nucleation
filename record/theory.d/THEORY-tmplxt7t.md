@@ -22,8 +22,8 @@ date: '2026-11-06'
 source:
 - LIT-tmpfxol8
 summary: >-
-  Copeland, Gleiser & Müller (1995), LIT-tmpfxol8, read in full in
-  NOTE-tmpyp0bm. Shown by numerical simulation, with a one-degree-of-freedom
+  Copeland, Gleiser & Müller (1995), [LIT-tmpfxol8](../literature.d/LIT-tmpfxol8.md), read in full in
+  [NOTE-tmpyp0bm](../notes.d/NOTE-tmpyp0bm.md). Shown by numerical simulation, with a one-degree-of-freedom
   Gaussian ansatz explaining the lower radius bound and the end; spherical
   symmetry throughout, stability tested only against radial perturbations.
   It does not explain the upper radius bound, give an analytic lifetime, or
@@ -35,7 +35,7 @@ summary: >-
 
 ## Source
 
-Copeland, Gleiser & Müller (1995), LIT-tmpfxol8; read in NOTE-tmpyp0bm.
+Copeland, Gleiser & Müller (1995), [LIT-tmpfxol8](../literature.d/LIT-tmpfxol8.md); read in [NOTE-tmpyp0bm](../notes.d/NOTE-tmpyp0bm.md).
 
 ## What was actually shown
 

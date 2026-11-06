@@ -5,7 +5,7 @@ status_note: >-
   2026-11-06 and not reached: OpenAlex and Semantic Scholar list a free
   publisher PDF at academic.oup.com, which answered with a Cloudflare
   challenge (HTTP 403) and was not retried. Cui & Wang (2023),
-  LIT-tmphp42y, quote its eigenvalue formula for an A sech x initial
+  [LIT-tmphp42y](LIT-tmphp42y.md), quote its eigenvalue formula for an A sech x initial
   pulse exactly, and stand in for that formula only. It stays Unavailable
   until a copy is supplied. What the summary says of its contents is
   unverified until read.
@@ -43,7 +43,7 @@ summary: >-
   nonlinear Schrödinger equation by inverse scattering; for an initial
   pulse A sech x it gives the discrete eigenvalues, and hence the number of
   solitons that form, exactly. Its contents are unverified until read: the
-  eigenvalue formula is known here only as Cui & Wang (2023), LIT-tmphp42y,
+  eigenvalue formula is known here only as Cui & Wang (2023), [LIT-tmphp42y](LIT-tmphp42y.md),
   quote it, κn = i(A + 1/2 − n) for positive n ≤ A + 1/2. That no soliton
   forms for A ≤ 1/2, an initial area of π/2, is the reader's derivation
   from the quoted formula, not a sentence of either source. Filed as the
@@ -75,7 +75,7 @@ Satsuma, J. & Yajima, N. (1974). B. Initial Value Problems of One-Dimensional Se
 ## Standing in the record
 
 Filed with the soliton batch of 2026-11-06, beside Kivshar & Malomed
-(1989). Cui & Wang (2023), LIT-tmphp42y, stand in for the eigenvalue formula
+(1989). Cui & Wang (2023), [LIT-tmphp42y](LIT-tmphp42y.md), stand in for the eigenvalue formula
 only, which they quote and check numerically; nothing else of the paper is
 carried, including what fraction of an initial pulse is shed as radiation.
 A reading should check the formula, the boundary case A = N + 1/2, and

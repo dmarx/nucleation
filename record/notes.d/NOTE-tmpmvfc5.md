@@ -81,7 +81,7 @@ the filer; it holds for the sech profile only.
 
 ## Connections
 
-- **For Satsuma & Yajima (1974)**, LIT-tmp4mmn1, unread: restates the
+- **For Satsuma & Yajima (1974)**, [LIT-tmp4mmn1](../literature.d/LIT-tmp4mmn1.md), unread: restates the
   eigenvalue formula for A sech x exactly and checks it numerically. Does
   not restate anything else of the paper, and nothing on what fraction of
   the pulse is shed as radiation.
@@ -93,12 +93,12 @@ the filer; it holds for the sech profile only.
 
 ## Bearing on the record
 
-- **QUESTION-398 (independence from the founding intervention)**: bears. In
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention)**: bears. In
   a lossless medium a soliton, once formed, is wholly independent of the
   pulse that launched it, provided the pulse passed the formation
   threshold, which by derivation is A > 1/2 for a sech pulse. Independence
   of the founder is complete only in the lossless limit.
-- **CLAIM-604**: a contrast. The only threshold here is in the initial
+- **[CLAIM-604](../claims.d/CLAIM-604.md)**: a contrast. The only threshold here is in the initial
   data, not in an ongoing supply.
 
 ## Limitations

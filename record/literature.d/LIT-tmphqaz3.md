@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-06 (NOTE-tmpf3ajq) from the arXiv preprint, v1;
+  read in full 2026-11-06 ([NOTE-tmpf3ajq](../notes.d/NOTE-tmpf3ajq.md)) from the arXiv preprint, v1;
   worth reading as a recent laboratory test of soliton formation from
   initial data in a deep-water wave flume, with NLS and modified-NLS
   simulation: a Gaussian packet with the width of the envelope soliton
@@ -10,7 +10,7 @@ status_note: >-
   so the long-time fate, dispersal into radiation or settling into one or
   more solitons, is anticipated, not observed; one width; amplitude
   varied in eight steps. Filed beside Satsuma & Yajima (1974),
-  LIT-tmp4mmn1, as a laboratory case of formation from initial data.
+  [LIT-tmp4mmn1](LIT-tmp4mmn1.md), as a laboratory case of formation from initial data.
 title: 'Nonlinear Reshaping of Gaussian Water Wave Packets'
 version: 1
 history:
@@ -55,11 +55,11 @@ summary: >-
 
 # LIT-tmphqaz3: Nonlinear Reshaping of Gaussian Water Wave Packets
 
-Zheng, Z., Waseda, T., de Sterke, C. M., Blanco-Redondo, A. & Chabchoub, A. (2026). Nonlinear Reshaping of Gaussian Water Wave Packets. arXiv:2609.03259. ARXIV-2609.03259.
+Zheng, Z., Waseda, T., de Sterke, C. M., Blanco-Redondo, A. & Chabchoub, A. (2026). Nonlinear Reshaping of Gaussian Water Wave Packets. arXiv:2609.03259. [ARXIV-2609.03259](https://arxiv.org/abs/2609.03259).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpf3ajq.*
+*From the reading, [NOTE-tmpf3ajq](../notes.d/NOTE-tmpf3ajq.md).*
 
 - **Three regimes** (Results): with N the amplitude in units of the matched
   soliton, dispersion-dominated at N = 0.36 and 0.6, quasi-stationary at
@@ -74,7 +74,7 @@ Zheng, Z., Waseda, T., de Sterke, C. M., Blanco-Redondo, A. & Chabchoub, A. (202
 
 ## Standing in the record
 
-Filed as a laboratory neighbour of Satsuma & Yajima (1974), LIT-tmp4mmn1,
+Filed as a laboratory neighbour of Satsuma & Yajima (1974), [LIT-tmp4mmn1](LIT-tmp4mmn1.md),
 for formation from initial data; it carries no part of that paper's
 formula, though it cites it. No THEORY is filed: the reader's report gives
 none, and the tank is too short to show the formation outcome. It shows

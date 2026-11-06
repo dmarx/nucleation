@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-06 (NOTE-tmpmvfc5) from the arXiv preprint, v2;
+  read in full 2026-11-06 ([NOTE-tmpmvfc5](../notes.d/NOTE-tmpmvfc5.md)) from the arXiv preprint, v2;
   worth reading here only for what it quotes: Satsuma and Yajima's exact
   eigenvalues for an NLS initial pulse A sech x, κn = i(A + 1/2 − n),
   checked numerically, with the rule that the number of solitons that form
   is the number of discrete eigenvalues. Filed as the read neighbour of
-  Satsuma & Yajima (1974), LIT-tmp4mmn1, for that formula only. Its own
+  Satsuma & Yajima (1974), [LIT-tmp4mmn1](LIT-tmp4mmn1.md), for that formula only. Its own
   subject, a Chebyshev method for the Zakharov–Shabat eigenvalue problem,
   is off the record's line. That no soliton forms for A ≤ 1/2 is the
   reader's derivation from the quoted formula, not a sentence of the paper.
@@ -57,11 +57,11 @@ summary: >-
 
 # LIT-tmphp42y: Efficient method for calculating the eigenvalues of the Zakharov-Shabat system
 
-Cui, S. & Wang, Z. (2023). Efficient method for calculating the eigenvalues of the Zakharov-Shabat system. arXiv:2212.13490v2. Published as "Efficient method to calculate the eigenvalues of the Zakharov–Shabat system", *Chinese Physics B* 33: 010201. doi:10.1088/1674-1056/acd686. ARXIV-2212.13490.
+Cui, S. & Wang, Z. (2023). Efficient method for calculating the eigenvalues of the Zakharov-Shabat system. arXiv:2212.13490v2. Published as "Efficient method to calculate the eigenvalues of the Zakharov–Shabat system", *Chinese Physics B* 33: 010201. doi:10.1088/1674-1056/acd686. [ARXIV-2212.13490](https://arxiv.org/abs/2212.13490).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpmvfc5.*
+*From the reading, [NOTE-tmpmvfc5](../notes.d/NOTE-tmpmvfc5.md).*
 
 - **The counting rule** (§1): "The number of solitons emerged in the initial
   profile for the NLS equation is determined by the discrete eigenvalues of
@@ -77,7 +77,7 @@ Cui, S. & Wang, Z. (2023). Efficient method for calculating the eigenvalues of t
 
 ## Standing in the record
 
-Filed as the read neighbour of Satsuma & Yajima (1974), LIT-tmp4mmn1, for
+Filed as the read neighbour of Satsuma & Yajima (1974), [LIT-tmp4mmn1](LIT-tmp4mmn1.md), for
 the eigenvalue formula only; nothing else of that paper is carried. No
 THEORY is filed from it: the reader's report gives none, and what bears on
 the record, the formation threshold, is a derivation, not the paper's

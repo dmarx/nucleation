@@ -17,7 +17,7 @@ date: '2026-11-06'
 source:
 - LIT-tmpun6ep
 summary: >-
-  Zabusky & Porter (2010), LIT-tmpun6ep, read in full in NOTE-tmpb86f1, an
+  Zabusky & Porter (2010), [LIT-tmpun6ep](../literature.d/LIT-tmpun6ep.md), read in full in [NOTE-tmpb86f1](../notes.d/NOTE-tmpb86f1.md), an
   encyclopedia article by the co-author of the 1965 letter. Filed as the
   read neighbour of Zabusky & Kruskal (1965), which was not reached. The
   definition is the article's, after Scott (2005); the collision property
@@ -33,9 +33,9 @@ summary: >-
 
 ## Source
 
-Zabusky & Porter (2010), LIT-tmpun6ep; read in NOTE-tmpb86f1. The read
-neighbour of Zabusky & Kruskal (1965), LIT-tmpfx0lb, unread, and cited
-beside Kivshar & Malomed (1989), LIT-tmpzah9i, unread.
+Zabusky & Porter (2010), [LIT-tmpun6ep](../literature.d/LIT-tmpun6ep.md); read in [NOTE-tmpb86f1](../notes.d/NOTE-tmpb86f1.md). The read
+neighbour of Zabusky & Kruskal (1965), [LIT-tmpfx0lb](../literature.d/LIT-tmpfx0lb.md), unread, and cited
+beside Kivshar & Malomed (1989), [LIT-tmpzah9i](../literature.d/LIT-tmpzah9i.md), unread.
 
 ## What was actually shown
 
@@ -65,5 +65,5 @@ or measurement is given in the article.
   system. With loss it decays (Grimshaw, Smyth & Stepanyants 2018).
 - Anything about dissipative or topological solitons beyond naming them:
   no thresholds, hysteresis or protection.
-- That the soliton's identity is constitutive in TERM-088's sense: it is
+- That the soliton's identity is constitutive in [TERM-088](../terms.d/TERM-088.md)'s sense: it is
   dynamical, the conserved parameters, with no upkeep.

@@ -73,7 +73,7 @@ initial conditions; radiation as the non-soliton remainder.
 
 ## Connections
 
-- **Satsuma & Yajima (1974)**, LIT-tmp4mmn1, unread: cited for the
+- **Satsuma & Yajima (1974)**, [LIT-tmp4mmn1](../literature.d/LIT-tmp4mmn1.md), unread: cited for the
   multi-soliton initial condition N sech; the paper carries none of its
   formula. The sech threshold derived from Cui & Wang (2023), no soliton
   for A ≤ 1/2, is the reader's derivation and is not tested here, since the
@@ -84,7 +84,7 @@ initial conditions; radiation as the non-soliton remainder.
 
 ## Bearing on the record
 
-- **QUESTION-398**: weak. It shows a pulse near the soliton's size
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: weak. It shows a pulse near the soliton's size
   travelling as a soliton would, but not the separation of a formed
   soliton from its shed remainder.
 

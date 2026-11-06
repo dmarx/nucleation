@@ -6,7 +6,7 @@ status_note: >-
   lists a free copy at link.aps.org, but journals.aps.org answered the
   abstract page with a Cloudflare challenge (HTTP 403), so the APS PDF link
   was not tried and the host was not retried. Zabusky & Porter (2010),
-  LIT-tmpun6ep, a later account by its first author, stands in for the
+  [LIT-tmpun6ep](LIT-tmpun6ep.md), a later account by its first author, stands in for the
   naming, the numerical origin and the elastic collision, but for none of
   the 1965 paper's numbers. It stays Unavailable until a copy is supplied.
   What the summary says of its contents is unverified until read.
@@ -43,7 +43,7 @@ summary: >-
   account, a sine-wave initial condition broke into solitons that passed
   through one another and nearly recurred to the initial state. Its
   contents are unverified until read: what is said here comes from Zabusky
-  & Porter (2010), LIT-tmpun6ep, not from the letter. Filed as the origin of
+  & Porter (2010), [LIT-tmpun6ep](LIT-tmpun6ep.md), not from the letter. Filed as the origin of
   the notion of a wave whose identity survives collision. Not read.
 ---
 <!-- inactive-ok-file: THEORY-tmp68j1u — Proposed and new; cited from the reading of Zabusky & Kruskal (1965) as open -->
@@ -65,10 +65,10 @@ Zabusky, N. J. & Kruskal, M. D. (1965). Interaction of "Solitons" in a Collision
 ## Standing in the record
 
 Filed with the soliton batch of 2026-11-06, beside Kivshar & Malomed
-(1989). Zabusky & Porter (2010), LIT-tmpun6ep, stands in for the naming, the
+(1989). Zabusky & Porter (2010), [LIT-tmpun6ep](LIT-tmpun6ep.md), stands in for the naming, the
 numerical origin, the elastic collision with a phase shift and the
 recurrence picture, in the first author's own later words
-(THEORY-tmp68j1u). It does not carry the letter's equation parameters,
+([THEORY-tmp68j1u](../theory.d/THEORY-tmp68j1u.md)). It does not carry the letter's equation parameters,
 figures or numbers. A reading should check what the letter itself says
 about the solitons' identity through interaction, and how near the
 recurrence was.

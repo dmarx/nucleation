@@ -112,43 +112,43 @@ localized structure.
 
 ## Connections
 
-- **For Kivshar & Malomed (1989)**, LIT-tmpzah9i, unread: it restates the
+- **For Kivshar & Malomed (1989)**, [LIT-tmpzah9i](../literature.d/LIT-tmpzah9i.md), unread: it restates the
   review's central method, adiabatic perturbation theory by energy balance,
   and its central qualitative result for damping, that a weakly damped
   soliton shrinks along its family rather than breaking up, for BO and,
   by citation, KdV. It does not restate the review's NLS results under
   damping or gain, kink dynamics, perturbed collisions or radiation
   calculations, and does not cite the review.
-- **Zabusky & Kruskal (1965)**, LIT-tmpfx0lb, unread: the collision property
+- **Zabusky & Kruskal (1965)**, [LIT-tmpfx0lb](../literature.d/LIT-tmpfx0lb.md), unread: the collision property
   quoted in §1 is the one they named.
 - **Dissipative solitons**: nothing here on gain or supply. For that route,
   Herr et al. (2014) and Grelu & Akhmediev (2012), filed in the same batch,
-  and LIT-1642 (Knobloch 2015, Unfetched).
-- Filed from it: THEORY-tmpu2r6o.
+  and [LIT-1642](../literature.d/LIT-1642.md) (Knobloch 2015, Unfetched).
+- Filed from it: [THEORY-tmpu2r6o](../theory.d/THEORY-tmpu2r6o.md).
 
 ## Bearing on the record
 
-- **TERM-088 (individuation)**: supports the dynamical sense with a sharp
+- **[TERM-088](../terms.d/TERM-088.md) (individuation)**: supports the dynamical sense with a sharp
   case. Under loss the individual persists as one member of its family
   with drifting parameters; its identity is the family, not a fixed shape.
-- **CLAIM-604**: a contrast case. Damped solitons show no collapse threshold
+- **[CLAIM-604](../claims.d/CLAIM-604.md)**: a contrast case. Damped solitons show no collapse threshold
   and no hysteresis; amplitude falls smoothly, and even the finite-time
   radiative extinction is continuous. Consistent with the claim's scope,
   which is upkeep drawn in proportion to the intact state.
-- **CLAIM-597**: a parallel only for linear damping, A0 e^(−t/τ); under the
+- **[CLAIM-597](../claims.d/CLAIM-597.md)**: a parallel only for linear damping, A0 e^(−t/τ); under the
   other losses decay is algebraic, slower than exponential. A soliton's
   parts are not replaced, so the claim's model does not apply directly.
-- **CLAIM-600**: supports its warning that slow reversion can mimic
+- **[CLAIM-600](../claims.d/CLAIM-600.md)**: supports its warning that slow reversion can mimic
   persistence. Under viscosity the amplitude falls only as
   (1 + t/τ)^(−1/2), and under Landau damping the shape is kept exactly
   while the soliton runs down: intact shape is not evidence of permanence.
-- **CLAIM-516**: no conflict. A lossless soliton has no turnover and falls
+- **[CLAIM-516](../claims.d/CLAIM-516.md)**: no conflict. A lossless soliton has no turnover and falls
   outside the claim's hypothesis; with loss and nothing produced, it
   decays, as the claim would predict.
-- **THEORY-072, QUESTION-085**: a lossless soliton is neither flame nor
+- **[THEORY-072](../theory.d/THEORY-072.md), [QUESTION-085](../questions.d/QUESTION-085.md)**: a lossless soliton is neither flame nor
   organism; it is held by an internal balance, not a flow, and decays when
   any loss is added. A candidate rung below "dissipative, externally held".
-- **QUESTION-399**: a structure persists here without ever being
+- **[QUESTION-399](../questions.d/QUESTION-399.md)**: a structure persists here without ever being
   self-maintaining; persistence and self-maintenance come apart.
 
 ## Limitations

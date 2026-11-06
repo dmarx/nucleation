@@ -104,21 +104,21 @@ data.
 
 ## Connections
 
-- **Copeland, Gleiser & Müller (1995), NOTE-tmpyp0bm.** Their §I says
+- **Copeland, Gleiser & Müller (1995), [NOTE-tmpyp0bm](NOTE-tmpyp0bm.md).** Their §I says
   "Topological conservation laws guarantee the stability of these
   configurations" of defects; this reading supplies the mechanism. It
   restates none of their oscillon results, which concern a field with no
   topological charge.
-- **Fodor (2019), NOTE-tmpt6qk4.** In φ4, "oscillons can easily form by the
+- **Fodor (2019), [NOTE-tmpt6qk4](NOTE-tmpt6qk4.md).** In φ4, "oscillons can easily form by the
   collision of a kink and an antikink, after radiating out the unnecessary
   energy": annihilated charge leaves a long-lived but impermanent remnant.
   The two kinds of persistence meet there.
 - **The other works of this batch.** Herr et al. (2014) and Grelu &
   Akhmediev (2012): persistence held by a supply. Grimshaw et al. (2018):
   a non-topological soliton decaying under damping.
-- **Held entries.** THEORY-088's spiral defects in cortex, of charge ±1,
+- **Held entries.** [THEORY-088](../theory.d/THEORY-088.md)'s spiral defects in cortex, of charge ±1,
   which "annihilate with spirals of opposite rotation", are the record's one
-  held topological-defect case; CLAIM-163, which cited it, is now
+  held topological-defect case; [CLAIM-163](../claims.d/CLAIM-163.md), which cited it, is now
   Superseded.
 
 ## Bearing on the record
@@ -130,19 +130,19 @@ data.
   or vacua at infinity not held fixed; or (iii) by a discontinuous or
   infinite-energy process. Tong does not list these or state the thesis in
   words. The record should cite it as an inference from Tong.
-- **TERM-088.** Individuation by topological charge is dynamical in the
+- **[TERM-088](../terms.d/TERM-088.md).** Individuation by topological charge is dynamical in the
   strongest sense, persisting under all continuous dynamics, and it needs no
   upkeep: it is fixed by boundary data, not maintained.
-- **CLAIM-597 and CLAIM-604.** Do not apply: nothing is supplied and
+- **[CLAIM-597](../claims.d/CLAIM-597.md) and [CLAIM-604](../claims.d/CLAIM-604.md).** Do not apply: nothing is supplied and
   nothing is kept up. The contrast marks a route to persistence that both
   claims leave out.
-- **CLAIM-600.** A topological structure is the case in which support can
+- **[CLAIM-600](../claims.d/CLAIM-600.md).** A topological structure is the case in which support can
   be withdrawn with nothing to lose, but only because there was no support
   to withdraw; the analogy to organizations would need something that plays
   the role of fixed boundary data, which this reading does not supply.
-- **THEORY-088.** Supplies the general logic behind its opposite-charge
+- **[THEORY-088](../theory.d/THEORY-088.md).** Supplies the general logic behind its opposite-charge
   annihilation.
-- Filed: THEORY-tmpt325u. No instruction for machine-learning practice.
+- Filed: [THEORY-tmpt325u](../theory.d/THEORY-tmpt325u.md). No instruction for machine-learning practice.
 
 ## Limitations
 

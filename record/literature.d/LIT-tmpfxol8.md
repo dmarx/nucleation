@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-06 (NOTE-tmpyp0bm) from arXiv:hep-ph/9503217v2, the
+  read in full 2026-11-06 ([NOTE-tmpyp0bm](../notes.d/NOTE-tmpyp0bm.md)) from arXiv:hep-ph/9503217v2, the
   first full text, not the version of record; worth reading as the paper
   that named oscillons and gave the first systematic account of them, and as
   the record's clearest physical case of a localized structure that persists
@@ -77,7 +77,7 @@ Copeland, E. J., Gleiser, M. & Müller, H.-R. (1995). Oscillons: Resonant config
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpyp0bm, of arXiv v2. Section numbers are the paper's.*
+*From the reading, [NOTE-tmpyp0bm](../notes.d/NOTE-tmpyp0bm.md), of arXiv v2. Section numbers are the paper's.*
 
 - **Long-lived, not stable.** Oscillons are solutions which, "although
   unstable, are extremely long-lived" (Abstract), and "instability is a
@@ -117,15 +117,15 @@ other works of this batch lack: Herr et al. (2014) and Grelu & Akhmediev
 (2012) give structures held by a supply, Tong (2005) one held by an
 invariant, Grimshaw et al. (2018) a soliton decaying under damping. Here
 the structure is held by its own nonlinearity in a closed, conservative
-system and leaks. It bears most on CLAIM-600, whose point that persistence
+system and leaks. It bears most on [CLAIM-600](../claims.d/CLAIM-600.md), whose point that persistence
 after withdrawal can be slow reversion it supports in a sharp form: a
 plateau with practically no outflow for 10^3–10^4 m^-1, hundreds of
-times the linear lifetime, then a sudden end. It qualifies CLAIM-604, since a formation threshold and
+times the linear lifetime, then a sudden end. It qualifies [CLAIM-604](../claims.d/CLAIM-604.md), since a formation threshold and
 an abrupt collapse occur here with no flux and no upkeep at all; it
-contrasts with the exponential decay after withdrawal in CLAIM-597; and it
-gives TERM-088 a case of dynamical individuation with a finite life and no
-outside cause of its end, a third kind beside THEORY-072's flame and
-organism. THEORY-136's "slow return excluded" names the confusion it
-illustrates. The later literature on decay is Fodor (2019), LIT-tmpbn6ad;
-topological protection is in Tong (2005), LIT-tmptstez. Filed from it:
-THEORY-tmplxt7t. No instruction for machine-learning practice.
+contrasts with the exponential decay after withdrawal in [CLAIM-597](../claims.d/CLAIM-597.md); and it
+gives [TERM-088](../terms.d/TERM-088.md) a case of dynamical individuation with a finite life and no
+outside cause of its end, a third kind beside [THEORY-072](../theory.d/THEORY-072.md)'s flame and
+organism. [THEORY-136](../theory.d/THEORY-136.md)'s "slow return excluded" names the confusion it
+illustrates. The later literature on decay is Fodor (2019), [LIT-tmpbn6ad](LIT-tmpbn6ad.md);
+topological protection is in Tong (2005), [LIT-tmptstez](LIT-tmptstez.md). Filed from it:
+[THEORY-tmplxt7t](../theory.d/THEORY-tmplxt7t.md). No instruction for machine-learning practice.

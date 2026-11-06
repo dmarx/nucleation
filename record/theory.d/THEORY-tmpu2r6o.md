@@ -21,8 +21,8 @@ source:
 corroborates:
 - CLAIM-600
 summary: >-
-  Grimshaw, Smyth & Stepanyants (2018), LIT-tmpfpeor, read in full in
-  NOTE-tmp2gykh, for the Benjamin–Ono equation with six kinds of weak loss,
+  Grimshaw, Smyth & Stepanyants (2018), [LIT-tmpfpeor](../literature.d/LIT-tmpfpeor.md), read in full in
+  [NOTE-tmp2gykh](../notes.d/NOTE-tmp2gykh.md), for the Benjamin–Ono equation with six kinds of weak loss,
   by first-order adiabatic theory checked against direct numerics. Filed as
   the read neighbour of Kivshar & Malomed (1989), whose central method for
   damped solitons it carries in one equation. The KdV laws, which make the
@@ -37,8 +37,8 @@ summary: >-
 
 ## Source
 
-Grimshaw, Smyth & Stepanyants (2018), LIT-tmpfpeor; read in NOTE-tmp2gykh.
-The read neighbour of Kivshar & Malomed (1989), LIT-tmpzah9i, unread.
+Grimshaw, Smyth & Stepanyants (2018), [LIT-tmpfpeor](../literature.d/LIT-tmpfpeor.md); read in [NOTE-tmp2gykh](../notes.d/NOTE-tmp2gykh.md).
+The read neighbour of Kivshar & Malomed (1989), [LIT-tmpzah9i](../literature.d/LIT-tmpzah9i.md), unread.
 
 ## What was actually shown
 
@@ -76,8 +76,8 @@ numerical solution (§8, Table):
 - That the soliton never breaks up under strong loss: the theory is first
   order in a small loss.
 - Anything about gain, pumping or a supplied balance, so nothing about the
-  thresholds or hysteresis of CLAIM-604.
+  thresholds or hysteresis of [CLAIM-604](../claims.d/CLAIM-604.md).
 - That the shrinking soliton persists: in every case but the sign-reversed
   radiative one it runs down. Its long life under algebraic loss is slow
-  decay, which is what makes it bear on CLAIM-600's warning that slow
+  decay, which is what makes it bear on [CLAIM-600](../claims.d/CLAIM-600.md)'s warning that slow
   reversion can mimic persistence.

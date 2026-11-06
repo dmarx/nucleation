@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-06 (NOTE-tmp2gykh) from the arXiv preprint, v1;
+  read in full 2026-11-06 ([NOTE-tmp2gykh](../notes.d/NOTE-tmp2gykh.md)) from the arXiv preprint, v1;
   worth reading as a compact, numerically checked case of what a weak loss
   does to an integrable soliton: it does not break up but shrinks along its
   family of shapes, at a rate fixed by an energy balance, exponentially
   under linear damping and algebraically under viscous, Landau,
   boundary-layer and friction losses, and to zero in a finite time under
   radiation, where in fact it turns into an envelope soliton. Filed as the
-  read neighbour of Kivshar & Malomed (1989), LIT-tmpzah9i, for damped
+  read neighbour of Kivshar & Malomed (1989), [LIT-tmpzah9i](LIT-tmpzah9i.md), for damped
   solitons. Its limits: one equation, Benjamin–Ono, with the KdV laws
   quoted from the literature, not derived; no gain or supply; no NLS.
 title: 'Decay of Benjamin–Ono solitons under the influence of dissipation'
@@ -62,11 +62,11 @@ summary: >-
 
 # LIT-tmpfpeor: Decay of Benjamin–Ono solitons under the influence of dissipation
 
-Grimshaw, R. H., Smyth, N. F. & Stepanyants, Y. A. (2018). Decay of Benjamin–Ono solitons under the influence of dissipation. *Wave Motion* 78: 98–115. doi:10.1016/j.wavemoti.2018.01.005. ARXIV-1801.09088.
+Grimshaw, R. H., Smyth, N. F. & Stepanyants, Y. A. (2018). Decay of Benjamin–Ono solitons under the influence of dissipation. *Wave Motion* 78: 98–115. doi:10.1016/j.wavemoti.2018.01.005. [ARXIV-1801.09088](https://arxiv.org/abs/1801.09088).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp2gykh. Section numbers are the preprint's.*
+*From the reading, [NOTE-tmp2gykh](../notes.d/NOTE-tmp2gykh.md). Section numbers are the preprint's.*
 
 - **Shrink, not break up** (§1): under weak loss "the basic structure of the
   solitary wave remains the same, but its primary parameter A, which
@@ -87,10 +87,10 @@ Grimshaw, R. H., Smyth, N. F. & Stepanyants, Y. A. (2018). Decay of Benjamin–O
 
 ## Standing in the record
 
-Filed as the read neighbour of Kivshar & Malomed (1989), LIT-tmpzah9i, for
+Filed as the read neighbour of Kivshar & Malomed (1989), [LIT-tmpzah9i](LIT-tmpzah9i.md), for
 the review's central method, the adiabatic treatment of a weakly damped
 soliton, in one equation. It does not cite the review and carries none of
-its NLS, kink or collision results. Filed from it: THEORY-tmpu2r6o. It bears
+its NLS, kink or collision results. Filed from it: [THEORY-tmpu2r6o](../theory.d/THEORY-tmpu2r6o.md). It bears
 on the record's line on persistence as a sharp case of a structure held by
 an internal balance with no supply, which under loss runs down smoothly,
 with no threshold collapse, and can look intact for many decay times while

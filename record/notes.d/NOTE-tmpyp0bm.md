@@ -156,34 +156,34 @@ makes sense in context" (§I).
 
 ## Connections
 
-- **The neighbours.** Fodor (2019), NOTE-tmpt6qk4, carries the later
+- **The neighbours.** Fodor (2019), [NOTE-tmpt6qk4](NOTE-tmpt6qk4.md), carries the later
   account of the same decay: an exponentially small but nonzero radiation
   rate, the 3+1 dimensional minimum amplitude and sudden decay, and an
   independent reproduction of CGM-type Gaussian results. It does not
   reproduce the upper radius bound or explain it. Tong (2005),
-  NOTE-tmpn0ajp, carries the mechanism of the topological protection that
+  [NOTE-tmpn0ajp](NOTE-tmpn0ajp.md), carries the mechanism of the topological protection that
   CGM's §I invokes and oscillons lack.
 - **Gleiser & Krackow (2019)**, read in part as a pointer and not
   registered: on fine-tuned "resonant" oscillons their results "offer
   support for the conjecture that, in both dimensions, resonant oscillons
   may be infinitely long-lived", while the peak itself would "involve
-  infinite fine-tuning". Unresolved against Fodor; see NOTE-tmpt6qk4.
+  infinite fine-tuning". Unresolved against Fodor; see [NOTE-tmpt6qk4](NOTE-tmpt6qk4.md).
 - **The other works of this batch.** Herr et al. (2014) and Grelu &
   Akhmediev (2012): localized structures held by a continuous supply, which
   end when it is withdrawn. Grimshaw et al. (2018): a soliton decaying
   under damping. Oscillons are the case with no supply and no damping,
   which leak by radiation alone.
-- **Held entries.** Noise-driven escape from a metastable state, THEORY-1264,
-  THEORY-1273 and LIT-2037 (Kramers' law), is the stochastic counterpart to
-  this deterministic leak. Critical-nucleus theory, LIT-1664 and LIT-924,
+- **Held entries.** Noise-driven escape from a metastable state, [THEORY-1264](../theory.d/THEORY-1264.md),
+  [THEORY-1273](../theory.d/THEORY-1273.md) and [LIT-2037](../literature.d/LIT-2037.md) (Kramers' law), is the stochastic counterpart to
+  this deterministic leak. Critical-nucleus theory, [LIT-1664](../literature.d/LIT-1664.md) and [LIT-924](../literature.d/LIT-924.md),
   matches the critical bubble of §§V–VI and its thermal estimate.
-  THEORY-088, spiral defects in cortex that annihilate in opposite pairs,
-  is the record's one held topological-defect case (cited from CLAIM-163,
+  [THEORY-088](../theory.d/THEORY-088.md), spiral defects in cortex that annihilate in opposite pairs,
+  is the record's one held topological-defect case (cited from [CLAIM-163](../claims.d/CLAIM-163.md),
   now Superseded).
 
 ## Bearing on the record
 
-- **CLAIM-600 (when support can be withdrawn).** Supports and sharpens its
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (when support can be withdrawn).** Supports and sharpens its
   point that persistence after withdrawal can be slow reversion. Here a
   structure persists with "practically no energy" radiated for hundreds of
   times its linear lifetime, then ends. Persistence through many turnovers
@@ -192,36 +192,36 @@ makes sense in context" (§I).
   watch may see nothing; and what counts as permanent depends on the
   time-scale compared (§I, §VI). The tests that work are the mechanism's
   shape and a measured outflow, which is what CGM monitor.
-- **CLAIM-604 (self-sustaining upkeep).** Qualifies. A formation threshold
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (self-sustaining upkeep).** Qualifies. A formation threshold
   and a collapse rather than a gradual decline both occur here in a closed
   conservative system with no supply and no upkeep, so those two
   signatures do not by themselves show state-dependent upkeep on a flux.
   Hysteresis is not tested.
-- **CLAIM-597 (supplied upkeep).** Contrasts. Its decay after withdrawal is
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep).** Contrasts. Its decay after withdrawal is
   exponential; here it is a plateau and a collapse, and even the linear
   baseline is a power law.
-- **TERM-088 (individuation).** An oscillon is dynamically individuated: a
+- **[TERM-088](../terms.d/TERM-088.md) (individuation).** An oscillon is dynamically individuated: a
   near-constant radius and energy, stable to radial perturbations, an
   "attractor" reached from different initial data. It is neither
   constitutive nor autonomous, and its individuation is finite-lived with
   no outside cause of its end.
-- **THEORY-072 (flame and organism).** Qualifies by adding a third kind: an
+- **[THEORY-072](../theory.d/THEORY-072.md) (flame and organism).** Qualifies by adding a third kind: an
   organized localized structure on no flux at all, which neither keeps up
   its conditions nor has them kept up for it, and runs down.
-- **THEORY-136 (persistence is not evidence of alternative stable states).**
+- **[THEORY-136](../theory.d/THEORY-136.md) (persistence is not evidence of alternative stable states).**
   A physical case of the slow return its title excludes: return that looks
   like no return for a long time.
-- **THEORY-1273 (metastable maintained states).** Complements: its states
+- **[THEORY-1273](../theory.d/THEORY-1273.md) (metastable maintained states).** Complements: its states
   are left by fluctuation; oscillons end deterministically, with no noise.
   Two routes to long-lived but not permanent.
-- **THEORY-1315 and THEORY-1052.** Both bear on why a slow leak escapes
+- **[THEORY-1315](../theory.d/THEORY-1315.md) and [THEORY-1052](../theory.d/THEORY-1052.md).** Both bear on why a slow leak escapes
   notice on a finite window of observation.
-- **QUESTION-398.** A partial analogue: the oscillon becomes independent of
+- **[QUESTION-398](../questions.d/QUESTION-398.md).** A partial analogue: the oscillon becomes independent of
   its founding conditions (the same plateau from any initial radius in the
   window) but never of time, since nothing replenishes it.
-- **QUESTION-085, QUESTION-399, CLAIM-516, TERM-070.** None directly:
+- **[QUESTION-085](../questions.d/QUESTION-085.md), [QUESTION-399](../questions.d/QUESTION-399.md), [CLAIM-516](../claims.d/CLAIM-516.md), [TERM-070](../terms.d/TERM-070.md).** None directly:
   nothing is regenerated and there is no closure, one field only.
-- Filed: THEORY-tmplxt7t. No instruction for machine-learning practice.
+- Filed: [THEORY-tmplxt7t](../theory.d/THEORY-tmplxt7t.md). No instruction for machine-learning practice.
 
 ## Limitations
 

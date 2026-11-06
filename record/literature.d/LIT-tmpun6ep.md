@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-06 (NOTE-tmpb86f1) from the article page at
+  read in full 2026-11-06 ([NOTE-tmpb86f1](../notes.d/NOTE-tmpb86f1.md)) from the article page at
   scholarpedia.org; worth reading as the shortest authoritative account of
   what a soliton is, by the co-author of the paper that named it: a
   solitary wave held by a balance of nonlinearity and dispersion, which
@@ -9,8 +9,8 @@ status_note: >-
   except for a phase shift, with the history from Russell through Zabusky
   and Kruskal to inverse scattering and a catalogue of relatives
   (topological, dissipative, oscillons). Filed as the read neighbour of
-  Zabusky & Kruskal (1965), LIT-tmpfx0lb, and in part of Kivshar & Malomed
-  (1989), LIT-tmpzah9i. Its limits: an encyclopedia article; the relatives
+  Zabusky & Kruskal (1965), [LIT-tmpfx0lb](LIT-tmpfx0lb.md), and in part of Kivshar & Malomed
+  (1989), [LIT-tmpzah9i](LIT-tmpzah9i.md). Its limits: an encyclopedia article; the relatives
   are named, not treated, so it gives nothing on thresholds, hysteresis or
   topological protection.
 title: 'Soliton'
@@ -69,7 +69,7 @@ Zabusky, N. J. & Porter, M. A. (2010). Soliton. *Scholarpedia* 5(8): 2068. doi:1
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpb86f1. Section numbers are the article's.*
+*From the reading, [NOTE-tmpb86f1](../notes.d/NOTE-tmpb86f1.md). Section numbers are the article's.*
 
 - **What holds it** (lead): "A solitary wave is a localized "wave of
   translation" that arises from a balance between nonlinear and dispersive
@@ -92,10 +92,10 @@ Zabusky, N. J. & Porter, M. A. (2010). Soliton. *Scholarpedia* 5(8): 2068. doi:1
 
 ## Standing in the record
 
-Filed as the read neighbour of Zabusky & Kruskal (1965), LIT-tmpfx0lb, for
+Filed as the read neighbour of Zabusky & Kruskal (1965), [LIT-tmpfx0lb](LIT-tmpfx0lb.md), for
 the naming, the numerical origin, the elastic collision and the recurrence
 picture, in Zabusky's own later words, but not for the letter's numbers; and
-of Kivshar & Malomed (1989), LIT-tmpzah9i, only for the definition, which
-the article cites the review beside. Filed from it: THEORY-tmp68j1u. It bears
+of Kivshar & Malomed (1989), [LIT-tmpzah9i](LIT-tmpzah9i.md), only for the definition, which
+the article cites the review beside. Filed from it: [THEORY-tmp68j1u](../theory.d/THEORY-tmp68j1u.md). It bears
 on the record's questions of individuation as a sharp case: an individual
 whose identity is the parameter set that survives collision, with no upkeep.

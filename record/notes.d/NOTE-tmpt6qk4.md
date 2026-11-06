@@ -148,7 +148,7 @@ dimensions, the structure fades forever and never ends.
 
 ## Connections
 
-- **Copeland, Gleiser & Müller (1995), NOTE-tmpyp0bm.** This carries their
+- **Copeland, Gleiser & Müller (1995), [NOTE-tmpyp0bm](NOTE-tmpyp0bm.md).** This carries their
   sudden end below a minimum amplitude, now as a general criterion for 3+1
   dimensions, and reproduces their kind of Gaussian result with an
   independent code; it notes that their Fig. 7 already hinted at the
@@ -164,7 +164,7 @@ dimensions, the structure fades forever and never ends.
   fine-tuning". This review, which does not cite it in the text searched,
   holds that the peak states necessarily radiate. Which is right was not
   settled by anything read here.
-- **Tong (2005), NOTE-tmpn0ajp.** The topological protection oscillons lack;
+- **Tong (2005), [NOTE-tmpn0ajp](NOTE-tmpn0ajp.md).** The topological protection oscillons lack;
   the φ4 kink-antikink collision above is where the two meet, charge
   annihilating into a non-topological remnant.
 - **The other works of this batch.** Grimshaw et al. (2018): a soliton
@@ -173,20 +173,20 @@ dimensions, the structure fades forever and never ends.
 
 ## Bearing on the record
 
-- **CLAIM-600 (slow reversion can mimic persistence).** Supports and widens
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (slow reversion can mimic persistence).** Supports and widens
   it: the same leak gives two shapes, an abrupt end in three dimensions and
   an asymptote that never ends in one and two. "Slow reversion" can
   therefore either end suddenly or never finish, and lifetime alone does
   not tell the cases apart; a measured outflow and the direction it carries
   the structure do.
-- **CLAIM-604.** Qualifies as Copeland, Gleiser & Müller do: a sudden end
+- **[CLAIM-604](../claims.d/CLAIM-604.md).** Qualifies as Copeland, Gleiser & Müller do: a sudden end
   at a threshold here comes from a conservative leak, with no flux-fed
   upkeep.
-- **TERM-088.** Dynamical individuation that is finite in 3+1 and, in 1 and
+- **[TERM-088](../terms.d/TERM-088.md).** Dynamical individuation that is finite in 3+1 and, in 1 and
   2 dimensions, indefinite without being exact.
-- **THEORY-1315 and THEORY-1052.** A lifetime bounded by numerical
+- **[THEORY-1315](../theory.d/THEORY-1315.md) and [THEORY-1052](../theory.d/THEORY-1052.md).** A lifetime bounded by numerical
   precision is a case of what a finite observation can and cannot show.
-- Filed: THEORY-tmp6zy9r. No instruction for machine-learning practice.
+- Filed: [THEORY-tmp6zy9r](../theory.d/THEORY-tmp6zy9r.md). No instruction for machine-learning practice.
 
 ## Limitations
 

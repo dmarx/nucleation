@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-06 (NOTE-tmpn0ajp) from arXiv:hep-th/0509216v5, as a
-  neighbour of Copeland, Gleiser & Müller (1995), LIT-tmpfxol8, for the
+  read in part 2026-11-06 ([NOTE-tmpn0ajp](../notes.d/NOTE-tmpn0ajp.md)) from arXiv:hep-th/0509216v5, as a
+  neighbour of Copeland, Gleiser & Müller (1995), [LIT-tmpfxol8](LIT-tmpfxol8.md), for the
   topological protection that oscillons lack; worth reading as a standard
   statement of why a topological soliton persists: a finite-energy
   configuration must reach a vacuum at infinity, the map from infinity into
@@ -75,7 +75,7 @@ Tong, D. (2005). TASI Lectures on Solitons: Instantons, Monopoles, Vortices and 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpn0ajp, of arXiv v5, in part. Section and page numbers are the preprint's.*
+*From the reading, [NOTE-tmpn0ajp](../notes.d/NOTE-tmpn0ajp.md), of arXiv v5, in part. Section and page numbers are the preprint's.*
 
 - **Sectors.** Maps at infinity lie in one homotopy class "if they can be
   continuously deformed into each other"; "The charge k splits the space of
@@ -100,14 +100,14 @@ Tong, D. (2005). TASI Lectures on Solitons: Instantons, Monopoles, Vortices and 
 ## Standing in the record
 
 Registered as a neighbour of Copeland, Gleiser & Müller (1995),
-LIT-tmpfxol8, which was read in full; it stands in only for the mechanism
+[LIT-tmpfxol8](LIT-tmpfxol8.md), which was read in full; it stands in only for the mechanism
 behind their §I statement that topological conservation laws guarantee
 the stability of defects, which oscillons lack. It gives the record its
 third route to persistence, beside supply (Herr et al. 2014; Grelu &
 Akhmediev 2012) and a slow leak (Copeland, Gleiser & Müller 1995; Fodor
 2019): an identity fixed by boundary data, which needs no upkeep, so
-CLAIM-597 and CLAIM-604 do not apply to it. THEORY-088's cortical spirals,
+[CLAIM-597](../claims.d/CLAIM-597.md) and [CLAIM-604](../claims.d/CLAIM-604.md) do not apply to it. [THEORY-088](../theory.d/THEORY-088.md)'s cortical spirals,
 which annihilate with spirals of opposite rotation, are the record's one
-held case of the same logic. For TERM-088 it is dynamical individuation in
-its strongest form. Filed from it: THEORY-tmpt325u. No instruction for
+held case of the same logic. For [TERM-088](../terms.d/TERM-088.md) it is dynamical individuation in
+its strongest form. Filed from it: [THEORY-tmpt325u](../theory.d/THEORY-tmpt325u.md). No instruction for
 machine-learning practice.

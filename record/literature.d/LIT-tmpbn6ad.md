@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-06 (NOTE-tmpt6qk4) from arXiv:1911.03340v1, as a
-  neighbour of Copeland, Gleiser & Müller (1995), LIT-tmpfxol8; worth
+  read in part 2026-11-06 ([NOTE-tmpt6qk4](../notes.d/NOTE-tmpt6qk4.md)) from arXiv:1911.03340v1, as a
+  neighbour of Copeland, Gleiser & Müller (1995), [LIT-tmpfxol8](LIT-tmpfxol8.md); worth
   reading as the long later account of why oscillons end: apart from the
   1+1 sine-Gordon breather no real-scalar oscillon is exactly periodic, all
   radiate at a rate exponentially small in their amplitude parameter but
@@ -70,11 +70,11 @@ summary: >-
 
 # LIT-tmpbn6ad: A review on radiation of oscillons and oscillatons
 
-Fodor, G. (2019). A review on radiation of oscillons and oscillatons. arXiv:1911.03340 [hep-th]. ARXIV-1911.03340.
+Fodor, G. (2019). A review on radiation of oscillons and oscillatons. arXiv:1911.03340 [hep-th]. [ARXIV-1911.03340](https://arxiv.org/abs/1911.03340).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpt6qk4, of arXiv v1, in part. Page and section numbers are the preprint's.*
+*From the reading, [NOTE-tmpt6qk4](../notes.d/NOTE-tmpt6qk4.md), of arXiv v1, in part. Page and section numbers are the preprint's.*
 
 - **Only one exact breather.** "The 1 + 1 dimensional sine-Gordon theory
   is also very special in the sense that it is the only theory involving a
@@ -105,12 +105,12 @@ Fodor, G. (2019). A review on radiation of oscillons and oscillatons. arXiv:1911
 ## Standing in the record
 
 Registered as a neighbour of Copeland, Gleiser & Müller (1995),
-LIT-tmpfxol8, which was itself read in full; this stands in not for the
+[LIT-tmpfxol8](LIT-tmpfxol8.md), which was itself read in full; this stands in not for the
 paper but for the later literature on its decay. It carries CGM's minimum
 amplitude and sudden end, generalized as a stability criterion and
 contrasted with lower dimensions, and an independent reproduction of their
 kind of Gaussian result; it does not explain CGM's upper radius bound. For
 the record it adds that one leak gives two shapes, an abrupt end in three
 dimensions and a never-ending slowing in one and two, which bears on
-CLAIM-600's slow reversion. Filed from it: THEORY-tmp6zy9r. No instruction
+[CLAIM-600](../claims.d/CLAIM-600.md)'s slow reversion. Filed from it: [THEORY-tmp6zy9r](../theory.d/THEORY-tmp6zy9r.md). No instruction
 for machine-learning practice.

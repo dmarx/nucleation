@@ -94,38 +94,38 @@ integrability; topological and dissipative relatives.
 
 ## Connections
 
-- **For Zabusky & Kruskal (1965)**, LIT-tmpfx0lb, unread: restates the
+- **For Zabusky & Kruskal (1965)**, [LIT-tmpfx0lb](../literature.d/LIT-tmpfx0lb.md), unread: restates the
   naming, the numerical origin, the elastic collision and the recurrence
   picture, in the first author's words. Does not restate the letter's
   equation parameters, figures or numbers.
-- **For Kivshar & Malomed (1989)**, LIT-tmpzah9i, unread: cites it for the
+- **For Kivshar & Malomed (1989)**, [LIT-tmpzah9i](../literature.d/LIT-tmpzah9i.md), unread: cites it for the
   perturbative study of nonintegrable solitary waves; carries none of its
   results.
-- **Satsuma & Yajima (1974)**, LIT-tmp4mmn1: the count of solitons from an
+- **Satsuma & Yajima (1974)**, [LIT-tmp4mmn1](../literature.d/LIT-tmp4mmn1.md): the count of solitons from an
   initial pulse is in Cui & Wang (2023), not here; Russell's "sufficiently
   large initial mass" is the qualitative version.
-- **Dissipative solitons**: named only. LIT-1642 (Knobloch 2015,
+- **Dissipative solitons**: named only. [LIT-1642](../literature.d/LIT-1642.md) (Knobloch 2015,
   Unfetched), Herr et al. (2014) and Grelu & Akhmediev (2012) are the
   record's sources.
-- Filed from it: THEORY-tmp68j1u.
+- Filed from it: [THEORY-tmp68j1u](../theory.d/THEORY-tmp68j1u.md).
 
 ## Bearing on the record
 
-- **TERM-088 (individuation)**: supports the dynamical sense with a sharp
+- **[TERM-088](../terms.d/TERM-088.md) (individuation)**: supports the dynamical sense with a sharp
   case. Identity is the parameter set that survives collision, "unchanged
   except possibly for a phase shift", and a soliton is dynamically
   individuated with no upkeep at all. It is not constitutive or autonomous.
-- **TERM-070 (closure)**: none; a soliton has no constraints producing one
+- **[TERM-070](../terms.d/TERM-070.md) (closure)**: none; a soliton has no constraints producing one
   another.
-- **THEORY-072, QUESTION-085**: a conservative soliton is neither flame nor
+- **[THEORY-072](../theory.d/THEORY-072.md), [QUESTION-085](../questions.d/QUESTION-085.md)**: a conservative soliton is neither flame nor
   organism; it persists with no flux, held by an internal balance. A case
   the flame–convection–organism line does not yet place.
-- **CLAIM-157**: bears on its third pressure, localized structures as
+- **[CLAIM-157](../claims.d/CLAIM-157.md)**: bears on its third pressure, localized structures as
   dynamical individuals, for the conservative case: the individual is
   tracked through interaction by its conserved parameters. It says nothing
   of turnover, since a lossless soliton's material does not turn over in
   any sense the claim means.
-- **QUESTION-399**: a soliton persists without being self-maintaining.
+- **[QUESTION-399](../questions.d/QUESTION-399.md)**: a soliton persists without being self-maintaining.
 
 ## Limitations
 

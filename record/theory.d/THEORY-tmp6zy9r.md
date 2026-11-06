@@ -20,11 +20,11 @@ date: '2026-11-06'
 source:
 - LIT-tmpbn6ad
 summary: >-
-  Fodor (2019), LIT-tmpbn6ad, read in part in NOTE-tmpt6qk4 (Ch. 1,
+  Fodor (2019), [LIT-tmpbn6ad](../literature.d/LIT-tmpbn6ad.md), read in part in [NOTE-tmpt6qk4](../notes.d/NOTE-tmpt6qk4.md) (Ch. 1,
   §§2.3–2.4, 2.6.3–2.6.5, the start of §2.10, Ch. 4). The statements are
   the review's, from its introduction and summary; the derivations behind
   the radiation law (§§2.8–2.9) were not read. A neighbour of Copeland,
-  Gleiser & Müller (1995), LIT-tmpfxol8, whose sudden end it generalizes.
+  Gleiser & Müller (1995), [LIT-tmpfxol8](../literature.d/LIT-tmpfxol8.md), whose sudden end it generalizes.
   It does not settle whether fine-tuned resonant oscillons are permanent,
   which Gleiser & Krackow (2019) argue and the review denies.
 ---
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Fodor (2019), LIT-tmpbn6ad; read in part in NOTE-tmpt6qk4.
+Fodor (2019), [LIT-tmpbn6ad](../literature.d/LIT-tmpbn6ad.md); read in part in [NOTE-tmpt6qk4](../notes.d/NOTE-tmpt6qk4.md).
 
 ## What was actually shown
 
