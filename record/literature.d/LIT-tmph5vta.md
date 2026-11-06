@@ -1,24 +1,36 @@
 ---
-status: Unavailable
+status: Unfetched
 status_note: >-
-  no lawful full text reached on 2026-11-05. Looked at: Crossref, queried
-  without a mailto, whose only full-text links are Elsevier's TDM API, not
-  used; ScienceDirect, closed; OpenAlex, which marks it closed and lists one
-  repository location, World Maritime University's Maritime Commons
-  (commons.wmu.se/lib_articles/407), restricted to WMU patrons and not
-  fetched; the author's own site (www.bainbrdg.demon.co.uk/Papers/Ironies.html),
-  which no longer resolves, and its Wayback Machine snapshot of 2020-11-12,
-  whose every connection was reset (three tries, not retried further). A
-  university course upload of the PDF at NC State was found and not used, as
-  it is neither the author's nor the publisher's. Three neighbours were read
-  the same day and stand in poorly: Ahn (2025), [LIT-tmp09gwf](LIT-tmp09gwf.md), restates her
+  searched 2026-11-05 and 2026-11-06 for a lawful full text; one exists but
+  this client could not fetch it, so it is not read (ADR-053). A university
+  course upload of the PDF on NC State's Industrial and Systems Engineering
+  site,
+  https://ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf,
+  was found on 2026-11-05 and not used, under a reader's brief that excluded
+  course copies; under ADR-064 a copy on a course page counts as a lawful
+  copy. One fetch on 2026-11-06 failed TLS verification before any bytes
+  were received: the server's chain ends at the emSign Root CA - G1, which
+  neither this session's proxy bundle nor certifi holds, and the proxy
+  reported no policy denial. Verification was not bypassed. Nothing was
+  received, so whether the file is the work is unchecked beyond its name.
+  Also looked at: Crossref, queried without a mailto, whose only full-text
+  links are Elsevier's TDM API, not used; ScienceDirect, closed; OpenAlex,
+  which marks it closed and lists one repository location, World Maritime
+  University's Maritime Commons (commons.wmu.se/lib_articles/407),
+  restricted to WMU patrons and not fetched; the author's own site
+  (www.bainbrdg.demon.co.uk/Papers/Ironies.html), which no longer resolves,
+  and its Wayback Machine snapshot of 2020-11-12, whose every connection was
+  reset (three tries, not retried further). Three neighbours were read on
+  2026-11-05 and stand in poorly: Ahn (2025), LIT-tmp09gwf, restates her
   ironies in his own paraphrase with no quotation of hers; Simkute,
-  Tankelevitch et al. (2024), [LIT-tmpaw2id](LIT-tmpaw2id.md), cite her for the general irony
-  and for restructured strategies only; Macnamara et al. (2024), [LIT-tmpbg80l](LIT-tmpbg80l.md),
-  do not cite her and stand in only for the skill-decay irony. Nothing is put
-  in her name here from her own words.
+  Tankelevitch et al. (2024), LIT-tmpaw2id, cite her for the general irony
+  and for restructured strategies only; Macnamara et al. (2024),
+  LIT-tmpbg80l, do not cite her and stand in only for the skill-decay irony.
+  Nothing is put in her name here from her own words. A browser fetch of the
+  NC State copy, from a browser that trusts the emSign root, is the cheapest
+  way to read it. It stays Unfetched until a copy is supplied.
 title: 'Ironies of automation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-05'
@@ -44,6 +56,18 @@ history:
     captcha, at which the reader stopped. No abstract of Bainbridge's was
     read, so the summary is from the neighbours and unverified until the
     article is read.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Reclassified Unavailable → Unfetched under ADR-053 and ADR-064 (the copy
+    is a course copy): a lawful free copy was located at
+    https://ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf,
+    an NC State course upload (found 2026-11-05 and not used under that
+    day's brief), and the fetch was blocked by a TLS verification failure
+    (the server's chain ends at the emSign Root CA - G1, absent from this
+    session's trust stores; not bypassed) on 2026-11-06. The lead's reader
+    briefs of 2026-11-05 had wrongly excluded such copies, or had filed
+    located-but-blocked copies as Unavailable.
 tags:
 - cognition
 - agency

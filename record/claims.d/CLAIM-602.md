@@ -65,7 +65,6 @@ summary: >-
   Azam et al.'s; the second and third are not in their paper. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpwa0ib — Unavailable; registered by the assistance filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-604 — Proposed or new; claims this one rests on or extends, cited as open -->
 <!-- inactive-ok-file: NOTE-1647 — new; readings of the aid-dependency filing, cited as open -->
 
@@ -206,3 +205,7 @@ Read to fill a gap the supplied-maintenance filing left; the works were chosen b
 - **An instance in automation.** Macnamara et al. ([NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md)) report that cognitive skills decline more than procedural ones when automation does a subtask. The loss is selective by subtask.
 
 No status changes.
+
+## Note of 2026-11-06: Cohen and Levinthal, "Absorptive Capacity", read
+
+Cohen and Levinthal (1990), now read (NOTE-tmpraw7b), support the claim's mechanism directly, at the firm level the earlier stand-in could not reach. The capacity to use outside knowledge is "largely a function of the firm's level of prior related knowledge" (p. 128) and is built mostly as a byproduct of the firm's own R&D. Its critical part "is often firm-specific and therefore cannot be bought and quickly integrated", and complementary knowledge "is acquired only through experience within the firm" (p. 135). "a firm is unable to assimilate externally available knowledge passively" (p. 141). They add two reasons why recovery after substitution is slow or never tried. Rebuilding from a low base costs more, and expectations go unrevised (p. 136). Two things are left open. The evidence is argument plus one indirect cross-section (1,719 business units, 1975–1977). No firm whose R&D was replaced by outside supply is followed, and nothing is measured on how long substitution must last or how long recovery takes. No status changes.

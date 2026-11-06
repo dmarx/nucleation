@@ -1,17 +1,23 @@
 ---
-status: Unavailable
+status: Unfetched
 status_note: >-
-  no lawful full text reached on 2026-11-05. Looked at: Crossref, queried
-  without a mailto; OpenAlex and Semantic Scholar, which list it as bronze
-  open access at Wiley only; Wiley's PDF address, which returned HTTP 403
-  with a Cloudflare challenge, not retried; PubMed Central and Europe PMC,
-  which hold no full text (the Europe PMC record, PMID 932126, has no
-  abstract). Other copies circulating online were not used, as none is
-  the publisher's or the authors'. No neighbour was read for it:
-  Koedinger and Aleven (2007), [LIT-tmpm7tp8](LIT-tmpm7tp8.md), read the same day on support
-  that fades, do not cite it and carry none of its results.
+  searched 2026-11-05 for a lawful full text; one exists but this client
+  could not fetch it, so it is not read (ADR-053). OpenAlex and Semantic
+  Scholar list it as bronze open access at Wiley only; Wiley's PDF address,
+  onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-7610.1976.tb00381.x,
+  returned HTTP 403 with a Cloudflare challenge on 2026-11-05 and was not
+  retried. Also looked at: Crossref, queried without a mailto; PubMed
+  Central and Europe PMC, which hold no full text (the Europe PMC record,
+  PMID 932126, has no abstract). Other copies circulating online were not
+  used, under a reader's brief that excluded copies that were neither the
+  publisher's nor the authors'; their addresses were not recorded, and
+  whether ADR-064 admits them is not settled here. No neighbour was read for
+  it: Koedinger and Aleven (2007), LIT-tmpm7tp8, read the same day on
+  support that fades, do not cite it and carry none of its results. A
+  browser fetch of Wiley's free copy is the cheapest way to read it. It
+  stays Unfetched until a copy is supplied.
 title: 'The role of tutoring in problem solving'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-05'
@@ -28,6 +34,15 @@ history:
     gives. No copy reached; where the reader looked is in the status note.
     No abstract was available to read, so the summary is unverified until
     the article is read.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Reclassified Unavailable → Unfetched under ADR-053: a lawful free copy
+    was located at Wiley's bronze open-access PDF,
+    onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-7610.1976.tb00381.x,
+    and the fetch was blocked by a Cloudflare challenge (HTTP 403) on
+    2026-11-05. The lead's reader briefs of 2026-11-05 had wrongly excluded
+    such copies, or had filed located-but-blocked copies as Unavailable.
 tags:
 - social-science
 - cognition
@@ -62,8 +77,8 @@ Wood, D., Bruner, J. S. & Ross, G. (1976). The role of tutoring in problem solvi
 
 ## Standing in the record
 
-Unavailable: no lawful copy reached on 2026-11-05 (the publisher's page
-stopped at a Cloudflare challenge). It was chosen as the classic account
+Unfetched: a lawful free copy was located but not reached on 2026-11-05
+(the publisher's page stopped at a Cloudflare challenge). It was chosen as the classic account
 of tutoring support that is withdrawn as the learner's competence grows,
 the case [CLAIM-602](../claims.d/CLAIM-602.md)'s order of supply and capacity would most want from
 developmental psychology. No neighbour stands in for it. Koedinger and

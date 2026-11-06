@@ -1,0 +1,255 @@
+---
+status: Read
+paper: 'LIT-tmpwa0ib'
+title: 'Cohen and Levinthal — Absorptive capacity'
+version: 1
+history:
+- version: 1
+  date: '2026-11-06'
+  note: >-
+    Read in full on 2026-11-06 from a copy on SciSpace, a scholarly
+    third-party site
+    (https://scispace.com/pdf/absorptive-capacity-a-new-perspective-on-learning-and-1n1c9gg9x0.pdf),
+    found by web search. It is a JSTOR print of the published article,
+    stamped "Tue Nov 6 07:14:48 2007": two cover pages, the 25 article
+    pages and three pages of JSTOR linked citations. ADR-064 counts such a
+    copy as lawful. Identity checked against the cover, the first page and
+    the page footers (128 to 152). Text extracted by pdftotext with
+    layout. Read: the abstract and the whole article, pp. 128–152,
+    including the model, methods, results and conclusion. Table 1 (p. 146)
+    is mostly an image: only the PELAS, INCELAS and DGROWTH rows and the
+    OLS R² came through, so the constrained basic and applied estimates
+    are taken from the prose (p. 145). The reference list was not read as
+    a text. Page numbers below are the journal's.
+date: '2026-11-06'
+summary: >-
+  A conceptual paper with one cross-sectional test. Absorptive capacity, a
+  firm's ability to recognize, assimilate and apply outside knowledge, is
+  "largely a function of the firm's level of prior related knowledge",
+  built mostly as a byproduct of its own R&D and not bought quickly.
+  Because it accumulates and shapes expectations, it is path-dependent,
+  and a firm that stops investing in a fast-moving field may be locked out
+  of it. Argued from psychology and illustrations; the one test, on 1,719
+  business units in 1975–1977, shows only that R&D intensity responds to
+  the learning environment as the model predicts.
+---
+<!-- inactive-ok-file: CLAIM-600 CLAIM-601 CLAIM-602 CLAIM-603 CLAIM-604 CLAIM-597 CLAIM-558 CLAIM-184 THEORY-142 THEORY-885 THEORY-tmpwegr1 THEORY-tmpngvdn THEORY-tmp6ihw6 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
+
+# NOTE-tmpraw7b: Cohen and Levinthal — Absorptive capacity
+
+## Contribution
+
+It names and defines absorptive capacity, the ability to "recognize the
+value of new, external information, assimilate it, and apply it to
+commercial ends" (abstract, p. 128), and grounds it in prior related
+knowledge. It argues that the capacity accumulates, is domain-specific and
+path-dependent, and can end in lockout, for two reasons: expectations stop
+being revised, and catching up costs more from a low base. It argues that
+the capacity cannot simply be bought, and that taking part in outside R&D
+needs matching internal investment. It models R&D as having two faces,
+making knowledge and building the capacity to absorb it, and tests the
+static model on business-unit data.
+
+## Key insight
+
+What a party can take from outside depends on what it already knows of
+the same kind, and it comes to know it mostly by doing the work itself.
+Outside knowledge is not a supply that can be received passively; it is
+usable only through a stock the party built, and a party that stops
+building it in a moving field may never find it worth starting again.
+
+## Assumptions
+
+- **Profit-maximizing firms** choose R&D taking both faces into account.
+  The model is static, in R&D intensity; the dynamic argument for lockout
+  is not part of what is estimated.
+- **Ease of learning is unobserved.** It is proxied by a dummy for whether
+  basic science is more relevant than applied (DUMBAS, DUMAPP), and by a
+  ranking of outside sources by how targeted they are, set a priori.
+- **Industry conditions** are R&D managers' ratings on Likert scales,
+  averaged within a line of business (the Yale survey).
+- **Lockout is claimed for "a quickly moving field"** (p. 136), and the
+  inertia it produces is framed as rational within the model.
+
+## Key results
+
+*Page numbers are the journal's.*
+
+1. **Definition (abstract, p. 128).** Absorptive capacity is "largely a
+   function of the firm's level of prior related knowledge".
+2. **Own R&D as its source (Introduction, p. 129).** "firms that conduct
+   their own R&D are better able to use externally available
+   information"; "absorptive capacity may be created as a byproduct of a
+   firm's R&D investment". Manufacturing operations and training are named
+   as other sources.
+3. **Intensity, and practice cut short (p. 131).** "Intensity of effort is
+   critical." Citing Harlow: "if practice with a particular type of problem
+   is discontinued before it is reliably learned, then little transfer will
+   occur".
+4. **Cumulative learning (p. 131).** "learning is cumulative, and learning
+   performance is greatest when the object of learning is related to what
+   is already known"; at the organizational level, "organizational
+   absorptive capacity will tend to develop cumulatively".
+5. **Learning by doing narrows (p. 134).** "Learning by doing does not
+   contribute to the diversity that is critical to learning about or
+   creating something that is relatively new".
+6. **It cannot simply be bought (p. 135).** Buying it through hiring,
+   consultants or acquisition is "somewhat limited"; its critical part "is
+   often firm-specific and therefore cannot be bought and quickly
+   integrated", and complementary knowledge "is acquired only through
+   experience within the firm". Evidence cited: Lee and Allen's
+   "considerable time lags" in integrating new technical staff.
+7. **Path dependence (p. 136).** "Accumulating absorptive capacity in one
+   period will permit its more efficient accumulation in the next."
+   Cumulativeness and expectation formation make its development
+   "domain-specific and is path- or history-dependent".
+8. **Lockout (pp. 136–137).** "once a firm ceases investing in its
+   absorptive capacity in a quickly moving field, it may never assimilate
+   and exploit new information in that field, regardless of the value of
+   that information." Two reasons: the firm's expectations "will tend not
+   to change over time", and "the lack of early investment in absorptive
+   capacity makes it more costly to develop a given level of it in a
+   subsequent period". Illustration, from Reich on Monsanto's exit from
+   float-zone silicon: "once off the technological escalator it's
+   difficult to get back on" (p. 137). Footnote 1 gives Levitt and March's
+   "competency trap" as a parallel.
+9. **Rational inertia (p. 137).** "If firms do not invest in developing
+   absorptive capacity in a particular area of expertise early on, it may
+   not be in their interest to develop that capacity subsequently, even
+   after major advances in the field." Not-invented-here "may be
+   pathological behavior only in retrospect".
+10. **Aspiration feedback (p. 137).** Little innovative activity lowers the
+    aspiration level, which keeps effort low: "This creates a
+    self-reinforcing cycle."
+11. **The valuation irony (p. 138).** "the firm needs to have some
+    absorptive capacity already to value it appropriately".
+12. **No passive assimilation (model, pp. 140–141).** "a firm is unable to
+    assimilate externally available knowledge passively" (p. 141). In the
+    limit where knowledge "can be assimilated without any specialized
+    expertise", own R&D would have no effect on absorptive capacity
+    (p. 140).
+13. **Data (Methods, p. 142).** FTC Line of Business R&D-to-sales,
+    1975–1977, and the Levin et al. survey of R&D managers: "1,719 business
+    units representing 318 firms in 151 lines of business", of which "some
+    24 percent of the firms performed no R&D in at least one year". OLS and
+    GLS on 1302 observations, Tobit on 1719.
+14. **Technological opportunity (Results, p. 145).** The constrained
+    coefficients on the relevance of basic and of applied science differ
+    at p < .01 under every estimator, .189 against −.080 in the GLS. The
+    predicted ranking of outside sources by how targeted they are
+    (universities, government labs, materials suppliers, equipment
+    suppliers) is largely confirmed. Computer science departs from it,
+    which the authors put down to its pace.
+15. **Spillovers (p. 147).** The effect of appropriability on R&D
+    intensity is greater (p < .05) where applied science is more relevant.
+    In SICs 28 and 36 "R&D intensity rose with spillovers", which the
+    authors say is not "a direct test of our model".
+16. **Cooperative ventures (p. 149).** "direct participation in the venture
+    should represent only a portion of the resources that it will take to
+    benefit from the venture. Participating firms also must be prepared to
+    invest internally in the absorptive capacity".
+17. **Underinvestment (Conclusion, p. 150).** Where the knowledge needed is
+    unrelated to ongoing activity, "absorptive capacity is not a byproduct"
+    and investing in it "may not even occur to the firm as an investment
+    alternative".
+
+## Concepts
+
+- **Absorptive capacity**: the ability to recognize the value of outside
+  knowledge, assimilate it and apply it, resting on prior related
+  knowledge.
+- **The two faces of R&D**: generating knowledge, and building the
+  capacity to absorb others'.
+- **Cumulativeness and expectation formation**: the two properties that
+  make the capacity path-dependent.
+- **Lockout**: a firm that stops investing in a fast-moving field may never
+  assimilate its new knowledge, whatever its value.
+- **Gatekeepers and boundary-spanners**: the individuals through whom an
+  organization takes in outside knowledge; inward- and outward-looking
+  absorptive capacity.
+- **Ease of learning**: how targeted, complex, cumulative, fast-moving and
+  codified the outside knowledge is.
+- **The absorption incentive of spillovers**: where learning is hard,
+  rivals' spillovers raise the return to own R&D.
+- **Proactive and reactive aspiration levels**.
+
+## Connections
+
+Cohen and Levinthal's 1989 "two faces" paper is the model's earlier form.
+Griffith, Redding and Van Reenen (2004), LIT-tmpzbgxy (NOTE-tmp7qron,
+THEORY-tmpwegr1), estimate the second face across OECD industries and
+complement this reading at the country-industry level; they do not touch
+cumulativeness, path dependence or lockout, which this paper supplies.
+March's exploration and exploitation, LIT-729 (NOTE-581, THEORY-142), gives
+the same narrowing by exploitation as result 5. The path dependence C&L
+invoke is the increasing-returns kind in Arthur, LIT-1314, and Pierson,
+LIT-1372 (THEORY-885). Lockout is close to CLAIM-184 (anchors entrench) and
+to imprinting, LIT-1144; its formal analogue is the hysteresis of regime
+shifts, LIT-726. Levitt and March's competency trap, which C&L cite, is not
+held. Koedinger and Aleven (2007), LIT-tmpm7tp8 (THEORY-tmpngvdn), carry
+the premise that capacity is built by use in an individual learner.
+
+## Bearing on the record
+
+- **CLAIM-600** (when transient support can be withdrawn safely):
+  supports its condition that the party could do the work and did it
+  throughout. Capacity to use an outside input is built by the party's own
+  doing, so supply that replaces its own R&D leaves it unable to use later
+  outside supply. It qualifies the claim: a capacity can stay unrecoverable
+  after withdrawal even when supply returns (lockout), through
+  expectations as well as stock. Argument and cross-section only; no
+  measure of persistence after withdrawal.
+- **CLAIM-602** (capacity-first order of supply): supports the mechanism.
+  The capacity is learned by doing one's own R&D, its critical part
+  "cannot be bought and quickly integrated" and complementary knowledge is
+  "acquired only through experience within the firm" (p. 135). It adds a
+  reason recovery is slow, rising cost from a low base, and a reason the
+  party may not try, expectations left unrevised (p. 136). No data on how
+  long substitution lasted or how long recovery takes.
+- **CLAIM-604** (upkeep drawing on a flux in proportion to intact state):
+  an interpretive analogue. Lockout is a threshold and hysteresis story,
+  with no model or measurement of it in the paper.
+- **CLAIM-603** (Black Queen loss): qualifies it. Spillovers among rivals
+  raise the incentive to do own R&D where learning is hard (pp. 141–142,
+  147); a Black Queen-style loss would pay only where knowledge "can be
+  assimilated without any specialized expertise" (p. 140). One-way access
+  to a joint output (cooperative ventures) needs internal investment to go
+  with it (p. 149).
+- **CLAIM-558** (decay with time since use): supports it in part. Practice
+  discontinued before reliable learning gives "little transfer" (p. 131),
+  and lockout follows when a firm "ceases investing". The loss C&L describe
+  is falling behind a moving field, not forgetting; they do not model
+  decay with time since use.
+- **QUESTION-398**: bears on it. Withdrawal of own work should hurt most in
+  a fast, cumulative, hard-to-learn field and least where outside
+  knowledge is targeted and the field slow, so a dependence measured by
+  withdrawal would vary with the field's pace and difficulty as well as
+  with how far the party had come. No such dependence is measured.
+- **CLAIM-597** (supplied maintenance): nothing directly. Outside knowledge
+  here is a flux the firm uses through its own stock, not repair supplied
+  to it. **CLAIM-601**: nothing.
+- Filed from it: THEORY-tmp6ihw6.
+
+## Limitations
+
+- Lockout, path dependence and the limits of buying capacity are argued
+  from psychology and illustrations (Reich on Monsanto, Bell Labs, Lee and
+  Allen), not tested.
+- The one test is cross-sectional (1975–1977) and indirect: R&D intensity
+  responds to the learning environment as predicted. It does not observe
+  absorptive capacity or the use of outside knowledge.
+- Ease of learning is a coarse proxy, a basic-against-applied dummy and an
+  a priori ranking of sources.
+- The spillover result rests on two SIC groups, and the authors say it is
+  not a direct test of their model;
+  under Tobit it falls short of significance at .05.
+- No firm that stops or outsources R&D is followed over time; there is no
+  effect size for losing absorptive capacity.
+- Most of Table 1 could not be read from the scan.
+
+## Open questions
+
+Whether firms that stop, cut or outsource R&D in a field later use less of
+its outside knowledge than firms that kept investing, and whether that use
+returns when opportunities rise. A panel of firms through such a stop would
+settle it.

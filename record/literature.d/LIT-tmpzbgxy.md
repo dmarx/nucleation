@@ -60,7 +60,7 @@ summary: >-
   [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md); filed from it: [THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md). A stand-in, for the core
   claim only, for Cohen and Levinthal (1990), [LIT-tmpwa0ib](LIT-tmpwa0ib.md).
 ---
-<!-- inactive-ok-file: LIT-tmpwa0ib THEORY-tmpwegr1 CLAIM-600 CLAIM-602 — Unavailable, Proposed or new; cited from the reading of Griffith, Redding and Van Reenen (2004) as open -->
+<!-- inactive-ok-file: THEORY-tmpwegr1 CLAIM-600 CLAIM-602 — Unavailable, Proposed or new; cited from the reading of Griffith, Redding and Van Reenen (2004) as open -->
 
 # LIT-tmpzbgxy: Mapping the Two Faces of R&D: Productivity Growth in a Panel of OECD Industries
 
@@ -94,3 +94,7 @@ can use scales with its own work in the field, so an available flux is not
 enough without the party's own doing. No R&D is ever withdrawn in the
 sample, so it says nothing on what happens to the ability to absorb once
 own work stops. Filed from it: [THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md).
+
+## Note of 2026-11-06: the original is now read
+
+Cohen and Levinthal (1990), LIT-tmpwa0ib, for whose firm-level claim this reading stood in, is now read in full (NOTE-tmpraw7b) from a lawful third-party copy the first filing wrongly excluded (ADR-064). It supplies the cumulativeness, path dependence and lockout this industry-level study does not test. This reading now complements it rather than standing in for it. No status changes.

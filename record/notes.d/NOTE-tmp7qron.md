@@ -29,7 +29,7 @@ summary: >-
   is absorption, against 14% for the United States. Correlational, at
   country-industry level, with no case of R&D stopped.
 ---
-<!-- inactive-ok-file: LIT-tmpwa0ib THEORY-tmpwegr1 CLAIM-600 CLAIM-602 CLAIM-603 CLAIM-604 CLAIM-597 CLAIM-558 CLAIM-601 THEORY-919 THEORY-1483 THEORY-1481 — Unavailable, Proposed or new; cited from the reading of Griffith, Redding and Van Reenen (2004) as open -->
+<!-- inactive-ok-file: THEORY-tmpwegr1 CLAIM-600 CLAIM-602 CLAIM-603 CLAIM-604 CLAIM-597 CLAIM-558 CLAIM-601 THEORY-919 THEORY-1483 THEORY-1481 — Unavailable, Proposed or new; cited from the reading of Griffith, Redding and Van Reenen (2004) as open -->
 
 # NOTE-tmp7qron: Griffith, Redding and Van Reenen — Mapping the two faces of R&D
 
@@ -126,7 +126,9 @@ restates, with evidence of its own, that doing R&D in a field raises the
 ability to assimilate others' discoveries. It does not restate, test or
 touch the article's firm-level argument, cumulativeness, path dependence
 or lockout, any firm that outsources or stops its R&D, or its 1975–77
-business-unit evidence. In the record, the nearest held work on
+business-unit evidence. Cohen and Levinthal (1990), LIT-tmpwa0ib, is now
+read (NOTE-tmpraw7b) and supplies the cumulativeness, path dependence and
+lockout this paper does not touch. In the record, the nearest held work on
 organizational learning is March's exploration and exploitation ([LIT-729](../literature.d/LIT-729.md),
 [NOTE-581](NOTE-581.md)). Capability built by doing under transient protection is
 [THEORY-919](../theory.d/THEORY-919.md), the Napoleonic blockade; learning to tax under aid is
