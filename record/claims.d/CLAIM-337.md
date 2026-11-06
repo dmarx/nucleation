@@ -147,4 +147,4 @@ Gershman, Blei & Niv (2010), [LIT-2011](../literature.d/LIT-2011.md), read in [N
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after the unread grounds of CLAIM-162 and CLAIM-541 were removed (2026-10-30, 2026-11-06), CLAIM-358's vocabulary revision (2026-11-04), and the reading of Gershman, Blei and Niv (LIT-2011, 2026-11-04). None touches its grounds: THEORY-662 and THEORY-564 are still Proposed, for want of a fitted test of fluency inference and for resting on one simulation of structure learning.
+Rechecked after the unread grounds of [CLAIM-162](CLAIM-162.md) and [CLAIM-541](CLAIM-541.md) were removed (2026-10-30, 2026-11-06), [CLAIM-358](CLAIM-358.md)'s vocabulary revision (2026-11-04), and the reading of Gershman, Blei and Niv ([LIT-2011](../literature.d/LIT-2011.md), 2026-11-04). None touches its grounds: [THEORY-662](../theory.d/THEORY-662.md) and [THEORY-564](../theory.d/THEORY-564.md) are still Proposed, for want of a fitted test of fluency inference and for resting on one simulation of structure learning.

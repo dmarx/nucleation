@@ -110,7 +110,7 @@ kinds, and only one kind avoids the circle.
      Bourrat).
 
    Each can be applied to a grouping without first deciding whether it is
-   a collection, a conexus or a community, and each can fail. In TERM-088's
+   a collection, a conexus or a community, and each can fail. In [TERM-088](../terms.d/TERM-088.md)'s
    senses, the first three test constitutive individuation, whether the
    candidate's relational organization fixes its identity and boundary, and
    release from a scaffold tests dynamical individuation, whether its order

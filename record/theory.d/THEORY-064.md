@@ -188,4 +188,4 @@ but no measure. No status, title or warrant changes.
 
 ## Note of 2026-11-06: what holds it back
 
-The Elephant and the Blind (LIT-1943, read in part 2026-11-01) and CLAIM-355's note of that date add no measure of the attentional availability of self-model content and no report of a wholly opaque self-model either way. Being No One (LIT-467) is still Unavailable.
+The Elephant and the Blind ([LIT-1943](../literature.d/LIT-1943.md), read in part 2026-11-01) and [CLAIM-355](../claims.d/CLAIM-355.md)'s note of that date add no measure of the attentional availability of self-model content and no report of a wholly opaque self-model either way. Being No One ([LIT-467](../literature.d/LIT-467.md)) is still Unavailable.

@@ -56,7 +56,6 @@ summary: >-
   [CLAIM-568](CLAIM-568.md). The construction is the filer's, from the readings;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-556 CLAIM-568 CLAIM-578 THEORY-1375 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-575: Telling which obstruction blocks a transition can itself be computationally hard: over families of reconfiguration problems, deciding whether any admissible path joins two feasible configurations is PSPACE-complete for some, and computing the least peak cost of a path strongly NP-hard for others, so diagnosing the obstruction is a problem with its own complexity
 

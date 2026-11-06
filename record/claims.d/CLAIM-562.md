@@ -57,8 +57,8 @@ summary: >-
   the filer's, from A's reading of Stern et al.; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-215 CLAIM-599 — Proposed or new; cited from the note on A's predictions -->
-<!-- inactive-ok-file: THEORY-1368 CLAIM-567 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-215 — Proposed or new; cited from the note on A's predictions -->
+<!-- inactive-ok-file: THEORY-1368 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
 

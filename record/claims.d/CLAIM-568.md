@@ -73,8 +73,8 @@ summary: >-
   Interpretive: the classification is argued, not proved exhaustive. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-567 CASE-205 THEORY-1417 THEORY-1427 THEORY-1383 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
-<!-- inactive-ok-file: CLAIM-556 CLAIM-575 NOTE-1581 CLAIM-591 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: CASE-205 THEORY-1417 THEORY-1427 THEORY-1383 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
+<!-- inactive-ok-file: NOTE-1581 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-568: A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations
 
@@ -106,7 +106,7 @@ each step can fail:
   only a change of the declared transformations does. Paths here are the
   admissible paths of the declared transformations, directed where moves
   are one-way, so a deadlock, a state that shares a component with its
-  target and has no directed path to it (CLAIM-591), is a disconnection
+  target and has no directed path to it ([CLAIM-591](CLAIM-591.md)), is a disconnection
   of this kind.
 - **Reachable, not within the ceiling**: the capacity bottleneck, the
   energetic case. The bottleneck budget of [CLAIM-571](CLAIM-571.md) is finite and

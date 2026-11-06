@@ -42,8 +42,7 @@ summary: >-
   contrast with directed moves. The construction is the filer's, from A's
   toy; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-202 CASE-206 CLAIM-590 CLAIM-591 TERM-088 — Proposed; A's proposals of 2026-11-05, the assistant's own, the entries filed beside them and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
-<!-- inactive-ok-file: CLAIM-570 — Proposed; the frontier claim this case works, cited as open -->
+<!-- inactive-ok-file: CASE-202 CASE-206 CLAIM-590 TERM-088 — Proposed; A's proposals of 2026-11-05, the assistant's own, the entries filed beside them and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
 
 # CASE-199: Three configurations, all mutually reachable and so isomorphic in the path groupoid, with one-way costs U to L 1, L to U 3, U to R 3 and R to U 1: the additive cheapest-cost distance is directed and graded, d(L, R) = 6 against d(R, L) = 2, each configuration's cost-to-target profile recovers it exactly, and under peak costs the same moves give other distances
 

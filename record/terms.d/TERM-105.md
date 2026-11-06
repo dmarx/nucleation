@@ -36,7 +36,7 @@ summary: >-
   equivalent problems." The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: TERM-106 TERM-107 CLAIM-585 CLAIM-558 CLAIM-569 CASE-211 CASE-200 CASE-205 CASE-201 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: TERM-107 CLAIM-585 CLAIM-558 CASE-211 CASE-200 CASE-205 CASE-201 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: NOTE-1585 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-105: resource constraint, by type: a fixed stock, an instantaneous capacity, a rate limit, a cumulative expenditure, a replenishable reserve and a deadline, which bound different functions of a path and are not one budget

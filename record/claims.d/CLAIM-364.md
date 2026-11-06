@@ -207,4 +207,4 @@ The case is not filed separately. No status changes.
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after CLAIM-534 went Active and CLAIM-545's grounds were corrected (2026-11-06). Neither bears on what holds it. Promoting the drafted narrowing would still reject ARG-030 on the authenticity line, whose reopening is the owner's call (note of 2026-10-30).
+Rechecked after [CLAIM-534](CLAIM-534.md) went Active and [CLAIM-545](CLAIM-545.md)'s grounds were corrected (2026-11-06). Neither bears on what holds it. Promoting the drafted narrowing would still reject [ARG-030](../arguments.d/ARG-030.md) on the authenticity line, whose reopening is the owner's call (note of 2026-10-30).

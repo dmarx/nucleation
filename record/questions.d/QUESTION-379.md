@@ -25,7 +25,7 @@ summary: >-
   representability apart, as [CLAIM-264](../claims.d/CLAIM-264.md) does. The wording is A's; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-477 CLAIM-569 — Proposed; the record's open thesis on realized constraints, and the claims and term of 2026-11-05 on assembly, on the costs of a form and on resource-bounded systems, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-477 — Proposed; the record's open thesis on realized constraints, and the claims and term of 2026-11-05 on assembly, on the costs of a form and on resource-bounded systems, cited as filed, nothing here resting on their being settled -->
 
 # QUESTION-379: When does a coherent family of local observations and constrained interactions correspond to an object the system can construct or sustain, that is, when is such a presheaf representable in a category of realizable systems, and when it is, is the object constructible within the available resources?
 

@@ -278,4 +278,4 @@ and a governor, predicts exactly as a one-feature selector.
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after the ADR-070 vocabulary revisions of ARG-036 and CLAIM-286 (2026-11-04), which change no content. Its premise CLAIM-286 is still Proposed, and no joint prediction of the two lines has been derived through the mapping, as on 2026-10-29.
+Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of [ARG-036](../arguments.d/ARG-036.md) and [CLAIM-286](CLAIM-286.md) (2026-11-04), which change no content. Its premise [CLAIM-286](CLAIM-286.md) is still Proposed, and no joint prediction of the two lines has been derived through the mapping, as on 2026-10-29.

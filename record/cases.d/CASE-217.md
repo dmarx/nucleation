@@ -41,7 +41,6 @@ summary: >-
   extension is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-567 — Proposed or new; an entry the model bears on, cited as open -->
 
 # CASE-217: A four-state branching model of assembly, unassembled, productive nucleus, trap and folded, in which three designs with the same target yield 59.3, 76.2 and 29.6 %, and scaling every supply by the same factor leaves the yield unchanged only while the competing exits from each state have the same molecularity
 

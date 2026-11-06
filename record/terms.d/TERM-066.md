@@ -219,4 +219,4 @@ capture". [CLAIM-404](../claims.d/CLAIM-404.md)'s revision of 2026-10-30 correct
 
 ## Note of 2026-11-06: what holds it back
 
-CLAIM-277, CLAIM-330, CLAIM-340 and CLAIM-359 were revised on 2026-11-04 for vocabulary only (ADR-070), and CLAIM-404 on 2026-11-03 only in its uses; none now says which sense of "capture" it means. The owner's choice between the fidelity-relative and the institutional sense is unmade and QUESTION-087 is Open.
+[CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-330](../claims.d/CLAIM-330.md), [CLAIM-340](../claims.d/CLAIM-340.md) and [CLAIM-359](../claims.d/CLAIM-359.md) were revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)), and [CLAIM-404](../claims.d/CLAIM-404.md) on 2026-11-03 only in its uses; none now says which sense of "capture" it means. The owner's choice between the fidelity-relative and the institutional sense is unmade and [QUESTION-087](../questions.d/QUESTION-087.md) is Open.

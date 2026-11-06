@@ -84,4 +84,4 @@ what holds it.
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after QUESTION-046's note of 2026-11-01, from Metzinger's contraction principle. It leaves that question Open and supplies no criterion for when an organized whole is a subject, so "not a subject" is still a stipulation, as the note of 2026-10-30 says.
+Rechecked after [QUESTION-046](../questions.d/QUESTION-046.md)'s note of 2026-11-01, from Metzinger's contraction principle. It leaves that question Open and supplies no criterion for when an organized whole is a subject, so "not a subject" is still a stipulation, as the note of 2026-10-30 says.

@@ -210,4 +210,4 @@ shows no instance.
 
 ## Note of 2026-11-06: what holds it back
 
-CLAIM-368 was revised on 2026-11-04 for vocabulary only (ADR-070). Nothing in the record computes the measure on one system under two decompositions, as the promote_when asks.
+[CLAIM-368](../claims.d/CLAIM-368.md) was revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)). Nothing in the record computes the measure on one system under two decompositions, as the promote_when asks.

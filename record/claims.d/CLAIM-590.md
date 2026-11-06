@@ -192,4 +192,4 @@ one hub and four paths, as contractibility requires.
 
 ## Note of 2026-11-06: what holds it back
 
-It takes the vertex's configuration space, two folding modes meeting only at the flat state, and the folded states' coordinates from CASE-206, which is Proposed and rests on Foschi, Hull and Ku's equations as read in part in NOTE-1606. The filer's check samples those branches but does not derive them; CASE-206 held, or the two-mode structure re-derived here, is what is missing.
+It takes the vertex's configuration space, two folding modes meeting only at the flat state, and the folded states' coordinates from [CASE-206](../cases.d/CASE-206.md), which is Proposed and rests on Foschi, Hull and Ku's equations as read in part in [NOTE-1606](../notes.d/NOTE-1606.md). The filer's check samples those branches but does not derive them; [CASE-206](../cases.d/CASE-206.md) held, or the two-mode structure re-derived here, is what is missing.

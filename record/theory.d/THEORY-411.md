@@ -142,4 +142,4 @@ whose other readings ([THEORY-025](THEORY-025.md), [THEORY-054](THEORY-054.md)) 
 
 ## Note of 2026-11-06: what holds it back
 
-CLAIM-354 was revised on 2026-11-04 for vocabulary only (ADR-070). The intersection and ranges-of-weights devices are still attributed to Sen only by the IEP entry; no Sen text that states them is filed, and no applied case is held.
+[CLAIM-354](../claims.d/CLAIM-354.md) was revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)). The intersection and ranges-of-weights devices are still attributed to Sen only by the IEP entry; no Sen text that states them is filed, and no applied case is held.

@@ -42,7 +42,7 @@ summary: >-
   The construction is the filer's, from A's budget recursion; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-106 TERM-107 TERM-110 THEORY-1421 THEORY-1410 CLAIM-558 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
+<!-- inactive-ok-file: TERM-107 TERM-110 THEORY-1421 THEORY-1410 CLAIM-558 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 
 # CASE-200: A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it
 
@@ -77,7 +77,7 @@ period. A: "money cannot always be converted into the resource needed on the rel
   Measured against what holding requires, the 0.3 is organizational slack
   ([TERM-107](../terms.d/TERM-107.md)): inputs beyond what current output needs. Its use, the
   transition, is invisible in that output. It is a reconfiguration reserve
-  (TERM-106) built in installments: the transition's slack is 0.6, the
+  ([TERM-106](../terms.d/TERM-106.md)) built in installments: the transition's slack is 0.6, the
   budget gives 0.3 of it each period, and carry-over
   supplies the rest.
 - **Expiry forecloses it.** With ρ < 1 the balance is lost at the period's

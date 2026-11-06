@@ -29,7 +29,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CASE-220 — Proposed; A's committor study, cited from the note on A's second synthesis -->
-<!-- inactive-ok-file: CLAIM-562 CLAIM-567 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 
 # QUESTION-380: When does establishing a small, internally compatible subsystem make global organization more likely, and how can its effectiveness be predicted from the constraint architecture?
 

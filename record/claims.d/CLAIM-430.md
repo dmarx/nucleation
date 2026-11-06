@@ -269,4 +269,4 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after LIT-1913 (Tsoukas and Chia) and LIT-1902 were filed on 2026-10-31 and NOTE-173 was re-read on 2026-11-01. They offer a mechanism and a parallel. Neither is a within-study test of either defeat condition, and none has been run.
+Rechecked after [LIT-1913](../literature.d/LIT-1913.md) (Tsoukas and Chia) and [LIT-1902](../literature.d/LIT-1902.md) were filed on 2026-10-31 and [NOTE-173](../notes.d/NOTE-173.md) was re-read on 2026-11-01. They offer a mechanism and a parallel. Neither is a within-study test of either defeat condition, and none has been run.

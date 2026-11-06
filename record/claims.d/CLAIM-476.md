@@ -400,4 +400,4 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-06: what holds it back
 
-LIT-1902 and LIT-1922, read on 2026-10-31, give Simondon's co-genesis as a second constitutive template (note of 2026-10-31) but, as that note says, derive no consequence of "constituted" that CLAIM-469's operational facts miss. The first defeater stays unanswered, QUESTION-284 and QUESTION-366 are Open, the two-apparatus experiment is unbuilt, and TERM-087's apparatus clause still waits on LIT-1657, which is Unavailable.
+[LIT-1902](../literature.d/LIT-1902.md) and [LIT-1922](../literature.d/LIT-1922.md), read on 2026-10-31, give Simondon's co-genesis as a second constitutive template (note of 2026-10-31) but, as that note says, derive no consequence of "constituted" that [CLAIM-469](CLAIM-469.md)'s operational facts miss. The first defeater stays unanswered, [QUESTION-284](../questions.d/QUESTION-284.md) and [QUESTION-366](../questions.d/QUESTION-366.md) are Open, the two-apparatus experiment is unbuilt, and [TERM-087](../terms.d/TERM-087.md)'s apparatus clause still waits on [LIT-1657](../literature.d/LIT-1657.md), which is Unavailable.

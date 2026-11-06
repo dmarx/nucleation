@@ -96,7 +96,7 @@ earn its place:
 - **counterfactual discrimination:** it separates cases the standard alone
   does not, as [CASE-110](../cases.d/CASE-110.md) does for coarse-grainings.
 
-None was carried out. The broad horn is the condition CLAIM-tmpp3odb must meet,
+None was carried out. The broad horn is the condition [CLAIM-tmpp3odb](CLAIM-tmpp3odb.md) must meet,
 and it stands until one of the three tests is carried out.
 
 ## Note of 2026-10-31: the parent paper's ethics on both horns, and a pair of cases that does not answer

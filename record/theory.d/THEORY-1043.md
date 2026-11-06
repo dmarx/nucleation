@@ -33,7 +33,6 @@ summary: >-
   truncation of the same limit is a different approximation
   ([THEORY-1041](THEORY-1041.md)).
 ---
-<!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
 # THEORY-1043: The finite feature model in which each of K features has prevalence Beta(α/K, 1) has, as K grows, a limit on equivalence classes of binary matrices that ignore the order of columns, and the Indian buffet process, in which the i-th object takes each earlier feature with probability m/i and Poisson(α/i) new ones, produces the same distribution, so its objects are exchangeable and the number of features they hold is Poisson(αH_N)
 

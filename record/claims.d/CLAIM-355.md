@@ -420,4 +420,4 @@ accompany control. That is A26's reply to plain fictionalism, now
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after the Metzinger readings of 2026-11-01 (LIT-1941, LIT-1943, LIT-1945, LIT-1946). They propose the misdescription the note of 2026-10-29 says the record lacks, but give no case with the cause and the report recorded apart. Drayson's objection is still answered only conditionally, CASE-114's test has not run, and THEORY-064, THEORY-691 and THEORY-125 are still Proposed.
+Rechecked after the Metzinger readings of 2026-11-01 ([LIT-1941](../literature.d/LIT-1941.md), [LIT-1943](../literature.d/LIT-1943.md), [LIT-1945](../literature.d/LIT-1945.md), [LIT-1946](../literature.d/LIT-1946.md)). They propose the misdescription the note of 2026-10-29 says the record lacks, but give no case with the cause and the report recorded apart. Drayson's objection is still answered only conditionally, [CASE-114](../cases.d/CASE-114.md)'s test has not run, and [THEORY-064](../theory.d/THEORY-064.md), [THEORY-691](../theory.d/THEORY-691.md) and [THEORY-125](../theory.d/THEORY-125.md) are still Proposed.

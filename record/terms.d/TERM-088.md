@@ -41,7 +41,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-474 CLAIM-157 — Proposed, Open or new; the entries this term serves -->
-<!-- inactive-ok-file: CLAIM-557 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # TERM-088: individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
 
@@ -192,4 +191,4 @@ A's fourth paste proposes a division of labour among the senses: Yoneda characte
 
 ## Note of 2026-11-06: what holds it back
 
-Every entry that uses this term now names its sense: CLAIM-474, CLAIM-529 (since its version 2 of today, for both its routes), CLAIM-544, and CLAIM-606, whose three grounds of identity (history, conditions, conserved charge) sit within the dynamical sense and add no new one. The definition was edited on 2026-11-06 (version 2) to exclude the genetic sense of Simondon's readers, which names the process and is not a claim about a candidate. Adoption waits for the next pass to confirm that the edited definition has settled.
+Every entry that uses this term now names its sense: [CLAIM-474](../claims.d/CLAIM-474.md), [CLAIM-529](../claims.d/CLAIM-529.md) (since its version 2 of today, for both its routes), [CLAIM-544](../claims.d/CLAIM-544.md), and [CLAIM-606](../claims.d/CLAIM-606.md), whose three grounds of identity (history, conditions, conserved charge) sit within the dynamical sense and add no new one. The definition was edited on 2026-11-06 (version 2) to exclude the genetic sense of Simondon's readers, which names the process and is not a claim about a candidate. Adoption waits for the next pass to confirm that the edited definition has settled.

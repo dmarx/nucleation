@@ -125,4 +125,4 @@ No status changes.
 
 ## Note of 2026-11-06: what holds it back
 
-CASE-112 and CLAIM-286 were revised on 2026-11-04 for vocabulary only (ADR-070), and the exchange note of 2026-11-04 adds rumination and hysteresis but no case. The first defeat clause is restated today to match "What it does not say" (version 2). Two holds stand: a second case in which no release condition existed, built in or explicit, and an answer to why release is not TERM-017's suspension applied to the escalated regime.
+[CASE-112](../cases.d/CASE-112.md) and [CLAIM-286](CLAIM-286.md) were revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)), and the exchange note of 2026-11-04 adds rumination and hysteresis but no case. The first defeat clause is restated today to match "What it does not say" (version 2). Two holds stand: a second case in which no release condition existed, built in or explicit, and an answer to why release is not [TERM-017](../terms.d/TERM-017.md)'s suspension applied to the escalated regime.

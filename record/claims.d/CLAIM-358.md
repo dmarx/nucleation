@@ -330,4 +330,4 @@ No status changes.
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after CLAIM-361 went Active (2026-11-06) and after the readings of 2026-10-31 and 2026-11-01. None is a premise or bears on what holds it. The claim is still held by its ground THEORY-070, Proposed because no fit in the record shows control intensity falling with its cost (note of 2026-10-29).
+Rechecked after [CLAIM-361](CLAIM-361.md) went Active (2026-11-06) and after the readings of 2026-10-31 and 2026-11-01. None is a premise or bears on what holds it. The claim is still held by its ground [THEORY-070](../theory.d/THEORY-070.md), Proposed because no fit in the record shows control intensity falling with its cost (note of 2026-10-29).

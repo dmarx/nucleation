@@ -240,4 +240,4 @@ result still fits either account.
 
 ## Note of 2026-11-06: what holds it back
 
-CLAIM-412 was revised on 2026-11-01 only by a note from the Metzinger readings, adding no evidence. No result the promote_when names is held: no dissociation of regulation from generation, no measured regulation without a competing concern, no reappraisal shown to work through a competing readiness. Gross and Barrett (2011) is still unfiled.
+[CLAIM-412](../claims.d/CLAIM-412.md) was revised on 2026-11-01 only by a note from the Metzinger readings, adding no evidence. No result the promote_when names is held: no dissociation of regulation from generation, no measured regulation without a competing concern, no reappraisal shown to work through a competing readiness. Gross and Barrett (2011) is still unfiled.

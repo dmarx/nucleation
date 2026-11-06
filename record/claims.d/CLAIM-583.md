@@ -56,12 +56,12 @@ summary: >-
   between two demands, moves by single flips within the set; the complexes
   agree and only the second is connected. The version across languages,
   from Gopalan et al., was split off at the status review of 2026-11-06
-  into CLAIM-tmpp0p4d. The construction is the filer's, from A's
+  into [CLAIM-tmpp0p4d](CLAIM-tmpp0p4d.md). The construction is the filer's, from A's
   separation of the configuration layer from the process layer; adopting
   it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CLAIM-560 CLAIM-567 NOTE-1584 NOTE-1613 THEORY-1407 THEORY-1413 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: NOTE-1584 NOTE-1613 THEORY-1407 THEORY-1413 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-583: Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability
 
@@ -94,9 +94,9 @@ by enumeration. Same complex, same move rule, same costs, different
 reachability: A's "sharper possibility".
 
 **Across languages.** A version at the level of constraint languages,
-from Gopalan, Kolaitis, Maneva and Papadimitriou (THEORY-1407) with
-Schwerdtfeger's correction (THEORY-1413), was split off at the status
-review of 2026-11-06 into CLAIM-tmpp0p4d: positive 1-in-3 SAT and positive
+from Gopalan, Kolaitis, Maneva and Papadimitriou ([THEORY-1407](../theory.d/THEORY-1407.md)) with
+Schwerdtfeger's correction ([THEORY-1413](../theory.d/THEORY-1413.md)), was split off at the status
+review of 2026-11-06 into [CLAIM-tmpp0p4d](CLAIM-tmpp0p4d.md): positive 1-in-3 SAT and positive
 NAE-3SAT are both NP-complete to satisfy, and navigation between
 solutions is polynomial for the first and PSPACE-complete for the second.
 It stands on readings that are Proposed; the instance above does not.

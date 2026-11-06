@@ -156,4 +156,4 @@ classification test in `promote_when` has not been run.
 
 ## Note of 2026-11-06: what holds it back
 
-CLAIM-368 was revised on 2026-11-04 for vocabulary only (ADR-070). No normative field has been computed for a model richer than the paper's one-variable toy, so the classification test of the promote_when is unrun.
+[CLAIM-368](../claims.d/CLAIM-368.md) was revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)). No normative field has been computed for a model richer than the paper's one-variable toy, so the classification test of the promote_when is unrun.

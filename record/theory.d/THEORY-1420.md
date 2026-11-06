@@ -84,7 +84,7 @@ Zhang and Adams (2021), [LIT-2047](../literature.d/LIT-2047.md); read in [NOTE-1
 ## Re-derivation of 2026-11-06: the bar counts of Theorems 1 and 2
 
 1. Each one-dimensional torsion term is a Morse function on the circle with
-   three minima and three maxima (trans and two gauche; NOTE-1616 records
+   three minima and three maxima (trans and two gauche; [NOTE-1616](../notes.d/NOTE-1616.md) records
    only the resulting count, and the shape was checked numerically for the
    OPLS-UA CH2 term by the second checker). The sum f_n on Tⁿ is then
    Morse. A critical point picks a critical point in each coordinate, and its index is the number of coordinates at a

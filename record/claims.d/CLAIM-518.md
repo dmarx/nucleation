@@ -137,13 +137,13 @@ does not need one.
   about experiences, such as that suffering is bad, may need no
   diachronic relatum. This is [CLAIM-512](CLAIM-512.md)'s narrow horn, which the
   narrowed claim no longer contests.
-- **That the diachronic relations add to CLAIM-363's relata.** If any
+- **That the diachronic relations add to [CLAIM-363](CLAIM-363.md)'s relata.** If any
   difference between histories counts as a change in some organization,
   every judgment has a diachronic relatum trivially. The organizational
   description of a history earns a place beside the standard only by
   causal specificity, transfer or counterfactual discrimination (A27
-  §10), and none of these has been shown. This is CLAIM-512's broad horn,
-  which the claim concedes. The dropped clause is CLAIM-tmpp3odb.
+  §10), and none of these has been shown. This is [CLAIM-512](CLAIM-512.md)'s broad horn,
+  which the claim concedes. The dropped clause is [CLAIM-tmpp3odb](CLAIM-tmpp3odb.md).
 - **That persistence is privileged.** Which continuation is warranted is
   the standard's question. The whole's persistence cannot outweigh its
   constituents' claims by being the whole's ([CLAIM-348](CLAIM-348.md)).

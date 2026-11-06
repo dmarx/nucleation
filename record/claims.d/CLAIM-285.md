@@ -166,4 +166,4 @@ decision toward the granting operator in 1,772 of 2,141 trials
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after the ADR-070 vocabulary revisions of CLAIM-375 and CLAIM-502 (2026-11-04), which change no content. Still missing: a population model in which operators bound by the two conditions delegate, and delegate to aligned others rather than at random.
+Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of [CLAIM-375](CLAIM-375.md) and [CLAIM-502](CLAIM-502.md) (2026-11-04), which change no content. Still missing: a population model in which operators bound by the two conditions delegate, and delegate to aligned others rather than at random.

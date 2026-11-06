@@ -32,13 +32,13 @@ summary: >-
   twists Jules et al.'s switches into their defect states. Sorting
   transitions by who supplies the gap between the bottleneck and the cost of
   holding the configuration the system is in, the slack from where it is
-  (TERM-106's one-sided form), gives three kinds; none of the readings
+  ([TERM-106](../terms.d/TERM-106.md)'s one-sided form), gives three kinds; none of the readings
   has the third, in which the system builds the reserve in operation and
   decides internally to spend it. That may be where nucleation begins. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-577 NOTE-1592 TERM-106 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: CLAIM-577 NOTE-1592 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # QUESTION-373: Who supplies the resource that carries a system across a transition's bottleneck, the environment, a designer, or the system itself from reserves it accumulates while operating, and under what conditions does that capacity move inside the system?
 

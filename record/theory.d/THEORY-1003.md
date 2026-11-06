@@ -27,7 +27,6 @@ summary: >-
   split, one topic count. It is not evidence that member-level structure
   is real, only that it predicts in a regime of sparse evidence.
 ---
-<!-- inactive-ok-file: CASE-165 — Proposed; the construction whose private term is compared, open -->
 
 # THEORY-1003: On NIPS papers (1,557 training and 183 test documents, 100 topics, fixed hyperparameters), the author–topic model gave test documents lower perplexity than LDA while sixteen or fewer of their words had been observed and higher perplexity beyond that; one fictitious author per document improved on the author–topic model throughout and lost to LDA after about 64 words, and an author model without topics did worst
 

@@ -127,7 +127,6 @@ and that its interventions manipulate a described speaker ([CLAIM-127](CLAIM-127
 
 ## Note of 2026-10-26: the same lesson for latent-structure recovery
 
-<!-- inactive-ok-file: CASE-165 — Proposed; the construction, filed the same day -->
 
 The lesson in general form recurred three times in the Northstar turns of
 the exchange "Experimental Infrastructure Review", about latent-structure

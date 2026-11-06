@@ -135,4 +135,4 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-06: what holds it back
 
-Rechecked after the Bencherki readings were filed on 2026-10-31 (LIT-1901, LIT-1902, LIT-1922; NOTE-1483). As the note of that date says, they do not ask whether a writer's projected receiver can be identified other than by a reading. That wait of 2026-10-30 is unanswered, and the reception-side readings of QUESTION-073 are still unread.
+Rechecked after the Bencherki readings were filed on 2026-10-31 ([LIT-1901](../literature.d/LIT-1901.md), [LIT-1902](../literature.d/LIT-1902.md), [LIT-1922](../literature.d/LIT-1922.md); [NOTE-1483](../notes.d/NOTE-1483.md)). As the note of that date says, they do not ask whether a writer's projected receiver can be identified other than by a reading. That wait of 2026-10-30 is unanswered, and the reception-side readings of [QUESTION-073](../questions.d/QUESTION-073.md) are still unread.

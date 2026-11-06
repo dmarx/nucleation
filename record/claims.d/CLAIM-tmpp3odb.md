@@ -21,29 +21,29 @@ rests_on:
 - CLAIM-518
 - CLAIM-363
 summary: >-
-  The clause CLAIM-518 dropped at its version 3, routed under ADR-047 as
+  The clause [CLAIM-518](CLAIM-518.md) dropped at its version 3, routed under [ADR-047](../decisions.d/ADR-047.md) as
   the record's own gloss (kind 2). The record first read the owner's U26
   of the exchange "Analyze nucleation concepts" (2026-10-31) "as an
-  addition to CLAIM-363" (workbench of 2026-10-31), and CLAIM-518's
-  version 2 said "That is the owner's insight, beside CLAIM-363's
+  addition to [CLAIM-363](CLAIM-363.md)" (workbench of 2026-10-31), and [CLAIM-518](CLAIM-518.md)'s
+  version 2 said "That is the owner's insight, beside [CLAIM-363](CLAIM-363.md)'s
   standpoint, standard, scale and context." Conditional on A27 §10's
-  tests. Its objection is CLAIM-512, whose broad horn this claim takes as
+  tests. Its objection is [CLAIM-512](CLAIM-512.md), whose broad horn this claim takes as
   its condition.
 ---
 
-# CLAIM-tmpp3odb: The histories that judgments about an organization's continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description's contribution is shown by counterfactual discrimination, transfer or causal specificity, which CLAIM-512's broad horn denies is shown
+# CLAIM-tmpp3odb: The histories that judgments about an organization's continuity, reform or obligations depend on add a relatum to the judgment beside its standpoint, standard, scale and context, if the organizational description's contribution is shown by counterfactual discrimination, transfer or causal specificity, which [CLAIM-512](CLAIM-512.md)'s broad horn denies is shown
 
 ## The claim
 
-CLAIM-518 holds that a judgment J_N about an organization's continuity,
+[CLAIM-518](CLAIM-518.md) holds that a judgment J_N about an organization's continuity,
 reform or obligations can depend on a history γ that the end state does
 not show. This claim goes further, conditionally. Describing γ as an
-organization's persistence and change adds to J_N's relata (CLAIM-363's
+organization's persistence and change adds to J_N's relata ([CLAIM-363](CLAIM-363.md)'s
 standpoint, standard, scale and context) something the standard N does
 not already supply, if the description passes one of A27 §10's tests:
 
 - **counterfactual discrimination:** it separates cases the standard
-  alone does not, as CASE-110 does for coarse-grainings;
+  alone does not, as [CASE-110](../cases.d/CASE-110.md) does for coarse-grainings;
 - **transfer:** it predicts the verdict in a new context;
 - **causal specificity:** it identifies which relations a remedy must act
   on, beyond what the standard says.
@@ -54,7 +54,7 @@ diachronic relatum trivially. So it asserts nothing until a test is met.
 
 ## Note of 2026-11-06: filed with its concessions
 
-CLAIM-512's broad horn is taken in as this claim's condition. If any
+[CLAIM-512](CLAIM-512.md)'s broad horn is taken in as this claim's condition. If any
 difference between histories counts as a change in some organization, the
 relatum is trivial, so this claim holds only where the organizational
 description passes one of A27's three tests, and it does not assert that
@@ -63,5 +63,5 @@ any has been passed.
 ## Note of 2026-11-06: what holds it back
 
 None of A27 §10's three tests has been carried out on the record.
-Bencherki's checklist and daycare (ARG-043) separate two histories by a
-standard of authorship, not by the organizational description (NOTE-1482).
+Bencherki's checklist and daycare ([ARG-043](../arguments.d/ARG-043.md)) separate two histories by a
+standard of authorship, not by the organizational description ([NOTE-1482](../notes.d/NOTE-1482.md)).

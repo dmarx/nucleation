@@ -67,7 +67,7 @@ otherwise feasible organizational regimes while preserving specified
 commitments."
 
 Made exact, for one resource that must be held at each moment, a capacity
-(TERM-105), the scope to which CLAIM-571 was narrowed. Let r(q) be what it takes to hold
+([TERM-105](TERM-105.md)), the scope to which [CLAIM-571](../claims.d/CLAIM-571.md) was narrowed. Let r(q) be what it takes to hold
 configuration q, and let the admissible paths from A to B be those
 allowed by the declared transformations along which the specified
 commitments hold throughout. The bottleneck budget B*(A, B) is the least,
@@ -90,10 +90,10 @@ A on a budget that covers only r(A) lacks
 the slack from A. The two are equal when r(A) ≥ r(B). When the target
 costs more to hold, σ_A exceeds σ by r(B) − r(A), and a transition with
 σ = 0 can have σ_A > 0. A use that means σ_A says so; unqualified,
-reconfiguration slack is σ. CLAIM-577's budget rule is stated in σ_A.
+reconfiguration slack is σ. [CLAIM-577](../claims.d/CLAIM-577.md)'s budget rule is stated in σ_A.
 
 **With several resources.** Let each of m resources be a capacity held
-separately, r(q) ∈ ℝ^m, and let S(A, B) be CLAIM-585's sufficient budgets,
+separately, r(q) ∈ ℝ^m, and let S(A, B) be [CLAIM-585](../claims.d/CLAIM-585.md)'s sufficient budgets,
 those at least, componentwise, the peak vector of some admissible path.
 With h the componentwise maximum of r(A) and r(B), the slack is the set
 
@@ -133,7 +133,7 @@ The synthesis gives only the names; the glosses are the filer's.
   configurations, a stock, where the slack is a transition's need. A
   system holding A with a reserve R above r(A), applicable along the path,
   can make the move when R ≥ σ_A(A → B). Where in a configuration space a
-  reserve can be applied is CLAIM-579's question.
+  reserve can be applied is [CLAIM-579](../claims.d/CLAIM-579.md)'s question.
 - **Competency reserve**: the maintained ability to carry out a
   configuration's work at all, which decays without practice
   ([CLAIM-558](../claims.d/CLAIM-558.md)).

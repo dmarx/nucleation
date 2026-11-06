@@ -50,7 +50,7 @@ summary: >-
   cheap to measure first. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-570 CASE-206 — Proposed; entries of this pull request, cited as open -->
+<!-- inactive-ok-file: CASE-206 — Proposed; entries of this pull request, cited as open -->
 
 # CLAIM-592: Whether a system's own reachable classes ever coincide with what an observer can tell apart depends on the order of the observer's probe costs as well as on the mechanism: the two partitions agree exactly at partitions common to the observer's refinement chain and the system's merge tree, a level of the merge tree can be made to agree under some cost order exactly when it is the common refinement of some set of the available probes, and the cost order decides which of those levels actually appear
 

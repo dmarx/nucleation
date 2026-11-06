@@ -55,7 +55,7 @@ summary: >-
   carry. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-205 CASE-212 CLAIM-562 CLAIM-577 NOTE-1596 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: CASE-205 CASE-212 CLAIM-577 NOTE-1596 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # CLAIM-579: A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs
 
@@ -67,11 +67,11 @@ suggest a reserve also has a location: the configurations at which it can
 be applied. Write it as a(q), the extra capacity that can be brought to bear
 at q. A path is affordable when r(γ(t)) ≤ B + a(γ(t)) along it, so what
 matters is whether the reserve reaches the bottleneck configurations, not
-its total ∫a or its maximum elsewhere. The reserve is TERM-106's
+its total ∫a or its maximum elsewhere. The reserve is [TERM-106](../terms.d/TERM-106.md)'s
 reconfiguration reserve, and the title's slack is that reserve, which
-measured against current output is organizational slack (TERM-107). With
+measured against current output is organizational slack ([TERM-107](../terms.d/TERM-107.md)). With
 a the same everywhere and a budget of r(A), the condition is that a is at
-least the slack from A, TERM-106's one-sided form; location matters when a
+least the slack from A, [TERM-106](../terms.d/TERM-106.md)'s one-sided form; location matters when a
 varies.
 
 ## Why it is plausible

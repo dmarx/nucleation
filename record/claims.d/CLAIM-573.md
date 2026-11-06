@@ -60,7 +60,7 @@ summary: >-
   defeaters include that it may say no more than PSPACE-completeness
   already does. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-556 CLAIM-578 NOTE-1584 TERM-111 THEORY-1407 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: NOTE-1584 TERM-111 THEORY-1407 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-573: Families of constrained systems on different physical substrates may admit equivalent resource-bounded process structures under two-way resource simulation with bounded overhead, even where their configuration spaces and microscopic dynamics differ, and the classes so defined for feasibility, reachability, control and regeneration need not coincide
 
@@ -138,4 +138,4 @@ The second paste of the pasted synthesis on resource-bounded realizability revis
 
 ## Note of 2026-11-06: what holds it back
 
-It is stated in TERM-111's computational sense, and TERM-111 is not adopted. And no nontrivial two-way resource simulation that carries the costs of processes, not only the yes or no of reachability, is on the record between two of the families A names; that is QUESTION-385's test, with no result yet.
+It is stated in [TERM-111](../terms.d/TERM-111.md)'s computational sense, and [TERM-111](../terms.d/TERM-111.md) is not adopted. And no nontrivial two-way resource simulation that carries the costs of processes, not only the yes or no of reachability, is on the record between two of the families A names; that is [QUESTION-385](../questions.d/QUESTION-385.md)'s test, with no result yet.

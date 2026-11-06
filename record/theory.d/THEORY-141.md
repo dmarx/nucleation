@@ -129,4 +129,4 @@ status change.
 
 ## Note of 2026-11-06: what holds it back
 
-West et al. 2015 (NOTE-1538, read 2026-11-04) is a review, which the promote_when says cannot settle it, and it assigns kin discrimination and the repression of competition "a limited role" against this account's mechanisms. No experimental evolution of new higher-level units, or comparative work across independent transitions, has been read.
+West et al. 2015 ([NOTE-1538](../notes.d/NOTE-1538.md), read 2026-11-04) is a review, which the promote_when says cannot settle it, and it assigns kin discrimination and the repression of competition "a limited role" against this account's mechanisms. No experimental evolution of new higher-level units, or comparative work across independent transitions, has been read.

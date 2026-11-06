@@ -52,7 +52,7 @@ summary: >-
   state space, are the invariant. Interpretive. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-194 CASE-198 CLAIM-477 CLAIM-583 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-194 CASE-198 CLAIM-477 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-576: What characterizes a constrained system is a repertoire of realizable processes, indexed by resources and dependent on its architecture, rather than its set or space of states, and the repertoire changes in three ways an equivalence between such systems must keep apart: a budget makes an existing transformation affordable, observational or computational capability makes an existing possibility discoverable or controllable, and a change of architecture alters which transformations are possible
 
@@ -128,4 +128,4 @@ needs.
 
 ## Note of 2026-11-06: what holds it back
 
-CLAIM-583, narrowed and promoted at this review, shows that the compatibility complex does not carry reachability; its two systems have different sets of configurations, and with a fixed move rule the configurations and their moves do carry it, so it does not show what "The state space is not enough" draws from it. No comparison is on file that the repertoire makes and a costed configuration space with its moves (TERM-114) does not, which is what the first and novelty clauses of the defeat condition ask, and the observational way is held only through CASE-194, which is Proposed.
+[CLAIM-583](CLAIM-583.md), narrowed and promoted at this review, shows that the compatibility complex does not carry reachability; its two systems have different sets of configurations, and with a fixed move rule the configurations and their moves do carry it, so it does not show what "The state space is not enough" draws from it. No comparison is on file that the repertoire makes and a costed configuration space with its moves ([TERM-114](../terms.d/TERM-114.md)) does not, which is what the first and novelty clauses of the defeat condition ask, and the observational way is held only through [CASE-194](../cases.d/CASE-194.md), which is Proposed.

@@ -26,7 +26,7 @@ summary: >-
   languages without constants, and budgets on the worst intermediate
   state. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-565 CLAIM-578 NOTE-1555 NOTE-1572 NOTE-1584 NOTE-1613 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-565 NOTE-1555 NOTE-1572 NOTE-1584 NOTE-1613 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # QUESTION-376: Since the clone of polymorphisms that fixes the complexity of satisfying a constraint language does not fix the complexity of navigating between its solutions, what property of the language does, beyond Boolean languages with single-variable flips and under resource budgets?
 

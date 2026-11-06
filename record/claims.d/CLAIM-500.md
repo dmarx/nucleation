@@ -97,4 +97,4 @@ been run.
 
 ## Note of 2026-11-06: what holds it back
 
-CASE-099 was revised on 2026-11-04 for vocabulary only (ADR-070). The discriminating experiment of the note of 2026-10-30 is still unrun: CASE-099 with declared demands and a feasible-update oracle, intervening on the allocation of influence with search and information held fixed.
+[CASE-099](../cases.d/CASE-099.md) was revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)). The discriminating experiment of the note of 2026-10-30 is still unrun: [CASE-099](../cases.d/CASE-099.md) with declared demands and a feasible-update oracle, intervening on the allocation of influence with search and information held fixed.

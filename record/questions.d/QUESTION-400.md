@@ -28,7 +28,7 @@ summary: >-
   of its own. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-215 — Proposed or new; cited from the note on A's predictions -->
-<!-- inactive-ok-file: THEORY-1439 CLAIM-583 CLAIM-567 CASE-219 — Proposed or new; the DNA origami readings and entries of this pull request, cited as open -->
+<!-- inactive-ok-file: THEORY-1439 CASE-219 — Proposed or new; the DNA origami readings and entries of this pull request, cited as open -->
 
 # QUESTION-400: Can changing how a fixed stock of resources is allocated among otherwise unchanged components alter which form nucleates, and so which form results, even when the set of attainable final forms stays the same?
 

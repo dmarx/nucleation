@@ -25,7 +25,7 @@ summary: >-
   does not classify systems or single instances, and says nothing about
   infinite domains or about moving between solutions.
 ---
-<!-- inactive-ok-file: NOTE-1572 CLAIM-567 — Skimmed and new, or Proposed; cited from the reading of Bulatov (2017) as open -->
+<!-- inactive-ok-file: NOTE-1572 — Skimmed and new, or Proposed; cited from the reading of Bulatov (2017) as open -->
 
 # THEORY-1382: Bulatov shows that for every finite constraint language over a finite domain, deciding satisfiability is solvable in polynomial time when the language has a weak near-unanimity polymorphism, and with the hardness already known this makes every such problem polynomial-time solvable or NP-complete
 
