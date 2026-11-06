@@ -104,12 +104,12 @@ No status changes.
 
 ## Note of 2026-11-05: the readings on persistence after shocks and support
 
-- **Close to A's measure.** Bleakley and Lin ([NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md)) compare portage sites with sites matched on past density. From about 1930 the founding cause adds nothing: portages grow like comparably dense places. That is close to D falling to zero.
-- **For a shock rather than a founding support.** In Davis and Weinstein ([NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md)), a growth coefficient indistinguishable from −1 means the shock is fully undone.
-- **Dependence on the starting state.** Moving to Opportunity ([NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) shows the gain from the same support depending on the age at which it began.
+- **Close to A's measure.** Bleakley and Lin ([NOTE-1697](../notes.d/NOTE-1697.md)) compare portage sites with sites matched on past density. From about 1930 the founding cause adds nothing: portages grow like comparably dense places. That is close to D falling to zero.
+- **For a shock rather than a founding support.** In Davis and Weinstein ([NOTE-1696](../notes.d/NOTE-1696.md)), a growth coefficient indistinguishable from −1 means the shock is fully undone.
+- **Dependence on the starting state.** Moving to Opportunity ([NOTE-1695](../notes.d/NOTE-1695.md)) shows the gain from the same support depending on the age at which it began.
 
 No status changes.
 
 ## Note of 2026-11-06: the readings on solitons
 
-A cavity soliton written by a transient beam becomes independent of that beam and stays dependent on its pump (Grelu and Akhmediev, [NOTE-tmp3nwf3](../notes.d/NOTE-tmp3nwf3.md); Herr et al., [NOTE-tmpgvg9r](../notes.d/NOTE-tmpgvg9r.md)). That is independence from the founding intervention with no independence from the feed, cleanly instantiated. An integrable soliton is independent of both, but only where nothing is lost. No status changes.
+A cavity soliton written by a transient beam becomes independent of that beam and stays dependent on its pump (Grelu and Akhmediev, [NOTE-1688](../notes.d/NOTE-1688.md); Herr et al., [NOTE-1692](../notes.d/NOTE-1692.md)). That is independence from the founding intervention with no independence from the feed, cleanly instantiated. An integrable soliton is independent of both, but only where nothing is lost. No status changes.

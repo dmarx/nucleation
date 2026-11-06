@@ -55,8 +55,8 @@ summary: >-
   signatures. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpbzli4 — Skimmed; a reading of the persistence filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmp5d91s — new; the assistant's soliton claim, cited as open -->
+<!-- inactive-ok-file: NOTE-1690 — Skimmed; a reading of the persistence filing, cited as open -->
+<!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-597 THEORY-072 — Proposed; entries this claim extends or rests its reading on, cited as open -->
 
 # CLAIM-604: Where a structure's upkeep draws on a flux in proportion to its own intact state, as a flame's does, it has an ignition threshold below which it goes out with the supply still on, a supply level below which it collapses rather than declines, and an outage after which restoring the supply does not relight it; upkeep supplied regardless of the structure's state has none of the three
@@ -163,11 +163,11 @@ The model's three signatures are therefore what to test for, not what to expect.
 
 ## Note of 2026-11-05: the readings on persistence after shocks
 
-Qualified at city scale. Davis and Weinstein's search fits models with one to four equilibria to Japanese cities after bombing and finds no lower equilibrium ([NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md)). No collapse or hysteresis followed the destruction of about half of all structures, so any threshold lies beyond the observed shocks. Bleakley and Lin's account of portage persistence ([NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md)) has a locally stable low equilibrium, consistent with the claim's form, but they say their results do not directly show multiple equilibria. In Moving to Opportunity ([NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) the dose response is roughly linear, and the authors find little evidence of a "critical age" below which children must move to benefit. No status changes.
+Qualified at city scale. Davis and Weinstein's search fits models with one to four equilibria to Japanese cities after bombing and finds no lower equilibrium ([NOTE-1690](../notes.d/NOTE-1690.md)). No collapse or hysteresis followed the destruction of about half of all structures, so any threshold lies beyond the observed shocks. Bleakley and Lin's account of portage persistence ([NOTE-1697](../notes.d/NOTE-1697.md)) has a locally stable low equilibrium, consistent with the claim's form, but they say their results do not directly show multiple equilibria. In Moving to Opportunity ([NOTE-1695](../notes.d/NOTE-1695.md)) the dose response is roughly linear, and the authors find little evidence of a "critical age" below which children must move to benefit. No status changes.
 
 ## Note of 2026-11-06: the readings on solitons
 
-Read at the owner's suggestion that soliton dynamics bear on individuation and persistence; the works were chosen by the assistant. A qualification, drawn in [CLAIM-tmp5d91s](CLAIM-tmp5d91s.md). Two of this claim's signatures appear without upkeep drawn in through the structure's own state. Oscillons have a formation threshold and an abrupt end with no supply at all (Copeland, Gleiser and Müller, [NOTE-tmpyp0bm](../notes.d/NOTE-tmpyp0bm.md)). Kerr solitons have an existence window and path dependence from bistability under a pump that does not depend on the soliton (Herr et al., [NOTE-tmpgvg9r](../notes.d/NOTE-tmpgvg9r.md)). The signatures are consistent with self-sustaining upkeep. They do not identify it; withdrawing the supply does. No status changes.
+Read at the owner's suggestion that soliton dynamics bear on individuation and persistence; the works were chosen by the assistant. A qualification, drawn in [CLAIM-606](CLAIM-606.md). Two of this claim's signatures appear without upkeep drawn in through the structure's own state. Oscillons have a formation threshold and an abrupt end with no supply at all (Copeland, Gleiser and Müller, [NOTE-1699](../notes.d/NOTE-1699.md)). Kerr solitons have an existence window and path dependence from bistability under a pump that does not depend on the soliton (Herr et al., [NOTE-1692](../notes.d/NOTE-1692.md)). The signatures are consistent with self-sustaining upkeep. They do not identify it; withdrawing the supply does. No status changes.
 
 ## Note of 2026-11-06: Suding, Gross & Houseman, "Alternative states and positive feedbacks in restoration ecology", read
 
