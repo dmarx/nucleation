@@ -1,15 +1,34 @@
 ---
 number: 1432
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxup0v
-promote_when: >-
-  A reading confirms that Chow's theorem as the paper states it (Theorem 1)
-  and Proposition 5 with Algorithm 3 (chained systems steered to an
-  arbitrary configuration) carry this claim as titled, within the paper's
-  assumptions of driftless, regular systems on an open set.
-title: 'Murray and Sastry show that a driftless system whose input vector fields, with their iterated Lie brackets, span every direction can be steered between configurations even though its constraints forbid instantaneous motion in some directions, and that for first-order, second-order and chained systems sinusoids at integrally related frequencies do the steering, one bracket direction at a time'
-version: 1
+title: 'Murray and Sastry show, with Chow''s theorem as they recall it, that locally, where the bracket distributions have constant rank, a driftless system whose input vector fields, with their iterated Lie brackets, span every direction can be steered between configurations even though its constraints forbid instantaneous motion in some directions, and that for first-order, second-order and chained systems sinusoids at integrally related frequencies do the steering, one bracketing level at a time'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057, ADR-065 section 2): a reported title, its source
+    read in full in NOTE-1622, whose claims table carries Chow's theorem
+    as recalled and the chained-system steering of Proposition 5 and
+    Algorithm 3. The proofs were read as text but not checked line by
+    line; the title reports what the paper presents. The title was
+    narrowed to the paper's own hedges (local, regular) and to its word
+    "level"; it read "Murray and Sastry show that a driftless system
+    whose input vector fields, with their iterated Lie brackets, span
+    every direction can be steered between configurations even though
+    its constraints forbid instantaneous motion in some directions, and
+    that for first-order, second-order and chained systems sinusoids at
+    integrally related frequencies do the steering, one bracket
+    direction at a time". "One bracket direction" was a mis-statement
+    of the source's bracketing level (ADR-047, kind 3). The condition
+    deleted read "A reading confirms that Chow's theorem as the paper
+    states it (Theorem 1) and Proposition 5 with Algorithm 3 (chained
+    systems steered to an arbitrary configuration) carry this claim as
+    titled, within the paper's assumptions of driftless, regular systems
+    on an open set."
 tags:
 - control-theory
 - mathematics
@@ -18,14 +37,15 @@ source:
 - LIT-2020
 summary: >-
   Murray and Sastry (1993), [LIT-2020](../literature.d/LIT-2020.md), read in [NOTE-1622](../notes.d/NOTE-1622.md) from an OCR
-  scan, so the equations were read from the layout. Proposed: the theorems'
-  statements were read, their proofs not checked line by line. It is local,
+  scan, so the equations were read from the layout. Its statements and proofs were
+  read, the proofs as text and not checked line by line; Chow's theorem
+  is recalled, not proved, in the paper. It is local,
   for driftless, regular systems in free space. It does not say that a path
   can be constructed for every controllable system, that simple sinusoids
   suffice beyond the classes named, or what the steering costs.
 ---
 
-# THEORY-1432: Murray and Sastry show that a driftless system whose input vector fields, with their iterated Lie brackets, span every direction can be steered between configurations even though its constraints forbid instantaneous motion in some directions, and that for first-order, second-order and chained systems sinusoids at integrally related frequencies do the steering, one bracket direction at a time
+# THEORY-1432: Murray and Sastry show, with Chow's theorem as they recall it, that locally, where the bracket distributions have constant rank, a driftless system whose input vector fields, with their iterated Lie brackets, span every direction can be steered between configurations even though its constraints forbid instantaneous motion in some directions, and that for first-order, second-order and chained systems sinusoids at integrally related frequencies do the steering, one bracketing level at a time
 
 ## Source
 

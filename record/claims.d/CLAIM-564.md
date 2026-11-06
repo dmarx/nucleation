@@ -1,10 +1,23 @@
 ---
 number: 564
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp7pv9x
 title: 'Restricting the demand–configuration Galois connection to the configurations affordable at a budget gives implications among demands that are antitone in the budget: an implication valid at a budget is valid at every lower one, so as the budget rises the compatibility complex grows and the valid implications shrink, and a set of demands no affordable configuration meets implies every demand'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). THEORY-1379 moved from grounds to corroborated_by
+    (ADR-058): the derivation uses only the definitions of the budgeted
+    operators and of a valid implication, and cites Ignatov's formal
+    concept analysis as the framework it instances, never the Basic
+    Theorem that holds that reading back. CASE-212, its other ground,
+    was promoted at the same review. The derivation and the
+    four-configuration table were re-checked by a second checker with
+    python3 -I, with controls (scratch/formal/case212_check.py).
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -24,8 +37,9 @@ line:
 - realizability
 - formal-apparatus
 grounds:
-- THEORY-1379
 - CASE-212
+corroborated_by:
+- THEORY-1379
 complements:
 - CLAIM-586
 - CLAIM-347

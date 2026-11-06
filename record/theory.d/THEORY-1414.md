@@ -59,3 +59,7 @@ Rocks and Mehta (2024; arXiv v1 2022-08-15), [LIT-2112](../literature.d/LIT-2112
   synthesis on constraint architectures attributes that to this paper; it
   is A's paraphrase, and the paper does not discuss adding constraints.
 - That the results hold for hard constraints, which are excluded.
+
+## Note of 2026-11-06: what holds it back
+
+The title says the authors show the generalized index theorem and Theorems 1 and 2, whose proofs are in Appendices B to D, which NOTE-1557 did not read; a reading of those appendices, or a re-derivation checked by a second reader, would meet it. The localization clause rests on the paper's two worked examples and the title does not say so, so a promotion needs that hedge in the title. The promote_when's demand for an independent derivation on another network asks more than a reported title asserts (ADR-065) and moves to a QUESTION when the condition is rewritten.

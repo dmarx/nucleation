@@ -1,10 +1,22 @@
 ---
 number: 589
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpx3v84
 title: 'A motion the constraints permit need not be one the available inputs can drive, and a motion the inputs can drive need not be cheap, reliable or sustainable: permitted directions, actuated directions and transitions achievable at acceptable cost are three objects, the second contained in the first at each instant, while over a horizon what is reachable can exceed what either spans at an instant'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). THEORY-1390 moved from grounds to corroborated_by
+    (ADR-058): the separation of permitted from driven directions is
+    witnessed by the claim's own construction, and Hopkins's actuation
+    spaces are its mechanical parallel. THEORY-1432, which supplies the
+    witness that reach over a horizon exceeds the instant, was promoted
+    at the same review. CLAIM-345 and CLAIM-542 are Active; the scalar
+    witness was re-checked with python3 -I.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -30,6 +42,7 @@ rests_on:
 - CLAIM-542
 grounds:
 - THEORY-1432
+corroborated_by:
 - THEORY-1390
 complements:
 - CLAIM-354

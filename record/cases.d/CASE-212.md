@@ -1,10 +1,20 @@
 ---
 number: 212
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpsbhp8
 title: 'Three demands and four configurations: each pair of demands is jointly met at some cost, the pairs enter the budgeted complex at budgets 1, 2 and 3, and the triple never does, so raising the budget relieves scarcity and leaves the frustration where it was'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): a construction whose facts are its definition
+    (ADR-042). Its budgeted complexes at every budget, and the
+    implications its note of 2026-11-05 lists, were re-run by a second
+    checker with python3 -I, with controls
+    (scratch/formal/case212_check.py). Standing fictional is kept.
 standing: fictional
 kind: construction
 tags:
