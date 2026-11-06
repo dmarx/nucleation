@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpex9rg
 title: 'The sensitivity that formal chaos gives a will''s dynamics is not control over them: in Kane''s self-forming actions, chaotic amplification keeps the outcome open, but it magnifies the agent''s efforts, uncontrolled fluctuations and outside inputs alike, so what would make the outcome the agent''s is how its own control couples to the amplifying directions, relative to noise and to other parties'' inputs and with what feedback, which sensitivity does not supply; and under weak noise what amplification touches lasts only where it reaches the slow modes'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -38,16 +38,30 @@ history:
     assumes all the indeterminacy is endogenous and leaves other parties'
     inputs separable, so it does not meet the condition. The defeated_if's
     "the record has not read it" is out of date and left as filed.
+- version: 5
+  date: '2026-11-06'
+  note: >-
+    At the twenty-eighth status review, at the status review's ruling (the
+    owner delegated these rulings): the defeated_if is restated with
+    Kane's reply read (NOTE-1518), under ADR-047's kind 3, a clause out of
+    date. It read: "Kane's own reply, that the indeterminacy is internal
+    to the effort as a hindrance it overcomes, is the candidate, and the
+    record has not read it." The restated condition names what such an
+    account would have to do and why the reply, read, does not. Nothing in
+    the record meets the condition; the status stays Active.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   An account on which the agent's efforts and the indeterminacy are not
-  separable inputs, so that the agent's share against noise is ill-posed;
-  Kane's own reply, that the indeterminacy is internal to the effort as a
-  hindrance it overcomes, is the candidate, and the record has not read
-  it. Or a model of the self-forming setting in which amplification
-  itself discriminates the agent's inputs from noise and from outside
-  inputs without any feedback.
+  separable inputs, so that the agent's share against noise is ill-posed,
+  without conceding that the indeterminacy lessens the agent's control and
+  without leaving other parties' inputs separable. Kane's own reply, read
+  (NOTE-1518), does not meet this: it makes the indeterminacy a hindrance
+  internal to the effort (p. 42) and the noise the agent's own (p. 40),
+  but concedes that it diminishes control (p. 43) and assumes all the
+  indeterminacy is endogenous. Or a model of the self-forming setting in
+  which amplification itself discriminates the agent's inputs from noise
+  and from outside inputs without any feedback.
 tags:
 - free-will
 - control-theory

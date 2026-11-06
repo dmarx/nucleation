@@ -171,3 +171,7 @@ The wording of the axes is A's, sharpened by the reader; adopting them is the ow
 ## Note of 2026-11-06: what holds it back
 
 Three premises are Proposed, [CLAIM-354](CLAIM-354.md), [CLAIM-404](CLAIM-404.md) and [CLAIM-533](CLAIM-533.md), and so are [TERM-100](../terms.d/TERM-100.md) and [TERM-086](../terms.d/TERM-086.md), which it uses. Its other premises are Active, [CLAIM-523](CLAIM-523.md) among them since this review.
+
+## Note of 2026-11-06: what holds it back
+
+CLAIM-354 and CLAIM-533 are Active since the twenty-seventh status review, and CLAIM-404 and TERM-100 are Active too, CLAIM-404 since the twenty-eighth; so of what the note above names, only TERM-086 remains unheld, and the claim waits on it alone.

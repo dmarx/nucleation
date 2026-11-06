@@ -1,10 +1,19 @@
 ---
 number: 561
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp5rh3v
 title: 'When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings); ADR-057. Its only unheld premise, CASE-213, is Active in the
+    same change. Its threshold and its example (H = 10, c0 = 1, c1 = 0.5,
+    g = 0.5, threshold 1.5/10.5, ΔV = 0.6 at p = 0.2) were re-run with
+    python3 -I. No objection is filed.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -43,7 +52,7 @@ summary: >-
   It undercuts [ARG-053](../arguments.d/ARG-053.md). The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-213 ARG-053 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: ARG-053 — Rejected; the argument this claim undercuts -->
 
 # CLAIM-561: When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste
 

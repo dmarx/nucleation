@@ -1,10 +1,21 @@
 ---
 number: 213
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpt6fm7
 title: 'Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings); ADR-057: a construction (ADR-042) whose arithmetic, (A + T)
+    − max(A, T) = min(A, T), was re-run by a second checker with python3
+    -I, and whose provenance statements about the NFIRS page check against
+    NOTE-1573. Standing fictional is kept. It now illustrates CLAIM-559,
+    whose body never uses it and from whose grounds it moves; it still
+    grounds CLAIM-561.
 standing: fictional
 kind: construction
 tags:
@@ -14,6 +25,8 @@ tags:
 date: '2026-11-04'
 line:
 - readiness
+illustrates:
+- CLAIM-559
 summary: >-
   A's proposal, from the exchange on emergency readiness (2026-11-04; its
   share link could not be fetched, and its text was pasted by the owner),
@@ -26,7 +39,6 @@ summary: >-
   not its documentation. The case grounds [CLAIM-561](../claims.d/CLAIM-561.md) and
   [CLAIM-559](../claims.d/CLAIM-559.md). The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-561 CLAIM-559 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CASE-213: Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task
 

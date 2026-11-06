@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-020
 title: 'interpretive capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -45,6 +45,13 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 7
+  date: '2026-11-06'
+  note: >-
+    At the twenty-eighth status review, at the status review's ruling (the
+    owner delegated these rulings): CLAIM-404 leaves used_by. It is not
+    stated in this term and now says it uses the institutional sense. The
+    definition is unchanged.
 tags:
 - self-governance
 - society-and-governance
@@ -57,8 +64,6 @@ summary: >-
   senses: a loop's outcome, and an institution's diversion from its
   purpose. Proposed: the first, with the second's requirement of an
   outside standard. Not adopted; not concentration, and not merited trust.
-used_by:
-- CLAIM-404
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-859 — Proposed; Short, Hill and Brown's general form, cited as an instance of the sense not adopted -->
@@ -219,4 +224,4 @@ capture". [CLAIM-404](../claims.d/CLAIM-404.md)'s revision of 2026-10-30 correct
 
 ## Note of 2026-11-06: what holds it back
 
-[CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-330](../claims.d/CLAIM-330.md), [CLAIM-340](../claims.d/CLAIM-340.md) and [CLAIM-359](../claims.d/CLAIM-359.md) were revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)), and [CLAIM-404](../claims.d/CLAIM-404.md) on 2026-11-03 only in its uses; none now says which sense of "capture" it means. The owner's choice between the fidelity-relative and the institutional sense is unmade and [QUESTION-087](../questions.d/QUESTION-087.md) is Open.
+The owner's choice between the fidelity-relative and the institutional sense is unmade, and QUESTION-087 is Open. CLAIM-277, CLAIM-330, CLAIM-340 and CLAIM-359, revised on 2026-11-04 for vocabulary only (ADR-070), still do not say which sense of "capture" they mean; CLAIM-404 now says it means the institutional sense and no longer uses this term.

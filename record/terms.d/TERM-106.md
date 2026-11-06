@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmp2ysyt
 title: 'reconfiguration slack: the temporary resources a system needs to move between two configurations it can each hold, beyond what holding either one requires, while keeping specified commitments'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -30,6 +30,14 @@ history:
     costs, is stated in the defined sense. CLAIM-580 takes no uses edge, as
     CLAIM-571 and CLAIM-585 take none, since the term is defined from their
     constructions.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    At the twenty-eighth status review, at the status review's ruling (the
+    owner delegated these rulings): the ratchet entry under what it is not
+    now says it means TERM-110's revision rule alone, not the full
+    incentive effect, so that the use says which part of TERM-110 it
+    means. The content is unchanged.
 tags:
 - operations-research
 - complex-systems
@@ -165,8 +173,10 @@ bottleneck budget, the sets of sufficient budgets, and this slack.
   target, and lacking it makes a feasible target unreachable, not
   infeasible, so it is not frustration in [TERM-060](TERM-060.md)'s structural sense
   either.
-- **The ratchet** ([TERM-110](TERM-110.md)): a rule by which a principal cuts what goes
-  unspent. It is one way reconfiguration slack is lost, not the slack.
+- **The ratchet's revision rule** (TERM-110's second condition): a rule by
+  which a principal cuts what goes unspent. It is one way reconfiguration
+  slack is lost, not the slack; the agent's distortion that completes the
+  ratchet effect is not part of it.
 
 ## What would settle it
 

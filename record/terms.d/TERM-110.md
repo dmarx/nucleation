@@ -145,4 +145,4 @@ In the constructed [CASE-200](../cases.d/CASE-200.md), any cut on unspent funds 
 
 ## Note of 2026-11-06: what holds it back
 
-No claim of the record's own is stated in it, its settle condition, and Freixas, Guesnerie and Tirole ([LIT-2062](../literature.d/LIT-2062.md)) are Unfetched; [CLAIM-577](../claims.d/CLAIM-577.md) left its uses at this review because its spend-matching organization does not anticipate the rule. [TERM-106](TERM-106.md) ("a rule by which a principal cuts what goes unspent") and [CASE-200](../cases.d/CASE-200.md) cite the principal's cut alone, without the agent's distortion the definition makes the effect, so its uses do not yet say which half they mean.
+No claim of the record's own is stated in it, its settle condition, and Freixas, Guesnerie and Tirole (LIT-2062) are Unfetched; CLAIM-577 left its uses because its spend-matching organization does not anticipate the rule. Its uses now say which part they mean: TERM-106 and CASE-200 cite its revision rule alone.
