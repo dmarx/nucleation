@@ -25,8 +25,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: LIT-2098 LIT-2075 — Unavailable; cited for their published abstracts, nothing here rests on them -->
-<!-- inactive-ok-file: NOTE-1583 — Skimmed; the reading the review's quotations come from -->
-<!-- inactive-ok-file: THEORY-1396 TERM-108 — Proposed; the review's account and the terms of the same filing, cited as filed -->
+<!-- inactive-ok-file: TERM-108 — Proposed; a term of the same filing, cited as filed -->
 
 # TERM-113: coverage, and which sense: deterministic coverage that treats a covering unit as always available, expected coverage that discounts it by its chance of being busy, and reliable coverage that requires a free unit with a stated probability
 
@@ -83,3 +82,7 @@ coverage is poor.
 A claim of the record's own stated in one of the senses, or readings of
 Daskin and of ReVelle and Hogan confirming their objectives against the
 abstracts. Adopting it is the owner's call.
+
+## Note of 2026-11-06: Mukhopadhyay and colleagues, re-read
+
+The re-reading of §6.1 (NOTE-1583 v2) confirms the quotations in sense 1, verbatim. It adds a detail for senses 2 and 3. The review gives MEXCLP equal, independent busy probabilities, and MALP-II busy fractions computed from demand over the availability of covering facilities (§6.1, p. 14). Neither formulation is confirmed, since the review gives no formulas. THEORY-1396 is now Active. No status changes.
