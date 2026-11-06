@@ -22,7 +22,7 @@ history:
     and a set of early-binding nucleating domains forms a compacted
     intermediate without which the object still folds but hours later by
     a slower pathway'. The condition asked for an independent
-    measurement, and it moves unchanged to QUESTION-tmp1jy98, which
+    measurement, and it moves unchanged to QUESTION-410, which
     lists it under this entry's code; this entry bears_on it: 'An
     independent measurement, on this brick or another multilayer DNA
     origami folded at constant temperature, finds (a) a domain binding
@@ -39,7 +39,7 @@ date: '2026-11-05'
 source:
 - LIT-2122
 bears_on:
-- QUESTION-tmp1jy98
+- QUESTION-410
 summary: >-
   Schneider, Möritz and Dietz (2019), [LIT-2122](../literature.d/LIT-2122.md), read in [NOTE-1641](../notes.d/NOTE-1641.md).
   One object, one temperature and one buffer; progress normalized per

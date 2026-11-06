@@ -14,7 +14,7 @@ history:
     authors find, with the imputations kept, and NOTE-1671 reads the
     working paper's main text in full; the QJE reframing it records
     does not touch the title. The condition asked for an independent
-    study, and it moves unchanged to QUESTION-tmpb1gyb: 'An
+    study, and it moves unchanged to QUESTION-415: 'An
     independent study of large, exogenous, unconditional windfalls
     in US administrative data, from lotteries or another
     as-good-as-random source, finds over a multi-year horizon a
@@ -29,7 +29,7 @@ history:
 - version: 3
   date: '2026-11-06'
   note: >-
-    Given bears_on QUESTION-tmpjxttn at the status review's ruling
+    Given bears_on QUESTION-425 at the status review's ruling
     (the owner delegated these rulings), under ADR-060: the question,
     moved from THEORY-1479 by the twenty-eighth status review, asks
     whether another study of random windfalls finds Cesarini and
@@ -42,7 +42,7 @@ date: '2026-11-05'
 source:
 - LIT-2181
 bears_on:
-- QUESTION-tmpjxttn
+- QUESTION-425
 summary: >-
   Golosov, Graber, Mogstad & Novgorodsky, [LIT-2181](../literature.d/LIT-2181.md), read in
   [NOTE-1671](../notes.d/NOTE-1671.md) in the NBER working-paper version of 2021; the QJE version

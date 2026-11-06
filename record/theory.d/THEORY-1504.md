@@ -15,7 +15,7 @@ history:
     report. Each clause of the title is the review's, at the pages
     NOTE-1688 cites. Its promote_when asked that the authors be right,
     which is more than the title asserts; it moves word for word to
-    THEORY-tmppeysf, Proposed, which extends this entry (ADR-047 kind
+    THEORY-1548, Proposed, which extends this entry (ADR-047 kind
     1). The old condition: A reading or computation showing, for the
     cubic–quintic complex Ginzburg–Landau equation at fixed parameters:
     (i) that localized initial conditions of differing energy converge
@@ -40,13 +40,13 @@ bears_on:
 - QUESTION-398
 summary: >-
   Grelu and Akhmediev (2012), [LIT-2196](../literature.d/LIT-2196.md), read in full in [NOTE-1688](../notes.d/NOTE-1688.md)
-  from the authors' manuscript on HAL. Held as a report of what the source holds, its truth left to THEORY-tmppeysf; the caveats: the review states the
+  from the authors' manuscript on HAL. Held as a report of what the source holds, its truth left to THEORY-1548; the caveats: the review states the
   account and cites the simulations and experiments behind it without
   reproducing them. Its contrast with conservative solitons is with the
   integrable case; it does not say that a dissipative soliton exists only
   above a pump threshold, or that it is bistable or hysteretic.
 ---
-<!-- inactive-ok-file: THEORY-tmppeysf — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: THEORY-1548 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 
 # THEORY-1504: Grelu and Akhmediev hold that a dissipative soliton differs from a conservative one in being a single attractor rather than a member of a continuous family: a conservative soliton balances nonlinearity against dispersion alone, with its parameters selected by the initial data, whereas a dissipative soliton also needs an exact balance of gain and loss, kept by a continuous energy exchange with the environment and an internal flow from regions that gain energy to regions that lose it, so that its energy, profile and chirp are fixed by the system's parameters, not by its initial conditions; such solitons can bind into robust molecules whose energy scales with the number of constituents
 

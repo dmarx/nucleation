@@ -20,7 +20,7 @@ history:
     are statewide, not for managed wetlands alone, and it dropped
     the authors' 'likely' (kind 3, note only). Whether the birds
     would decline without management, the thesis the authors assert,
-    moves to THEORY-tmpdxc8a, which extends this entry and keeps the
+    moves to THEORY-1540, which extends this entry and keeps the
     old condition word for word: 'Monitoring of a Hawaiian wetland
     where active management of invasive plants, predators and water
     levels stops records the endangered waterbirds' numbers or

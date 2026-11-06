@@ -16,7 +16,7 @@ history:
     version 2, moved from grounds to corroborated_by under ADR-058: the
     claim's witness for redistribution is CLAIM-538, and the reading is a
     mechanical parallel that carries less than the body said, as
-    ARG-tmpa8qe0 records. The body is revised to say so. The exploitation
+    ARG-054 records. The body is revised to say so. The exploitation
     clause rests on Zang et al. (THEORY-1417), whose prestress also
     relieved in part; the body already calls it exploitation without full
     relief, and the claim allows two targets at once, so the clause is
@@ -94,7 +94,7 @@ modes and the self-stresses stay as they were: the force that couples to a
 mode "no longer points in the same direction, but instead localizes to the
 line of prestressed bonds". What moves is that force; the load is where the
 designer put it, and their examples add a mismatch rather than move a given
-one ([ARG-tmpa8qe0](../arguments.d/ARG-tmpa8qe0.md)).
+one ([ARG-054](../arguments.d/ARG-054.md)).
 
 **Exploitation without full relief.** Zang et al. ([NOTE-1569](../notes.d/NOTE-1569.md);
 [THEORY-1417](../theory.d/THEORY-1417.md)): prestress in Kresling cells induces frustration that

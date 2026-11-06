@@ -4,7 +4,7 @@
 
 Each claim an argument concludes, its arguments beneath it, and beneath each argument the claims that undercut it. An argument's status is credence in its inference, not in its conclusion ([ADR-059](../record/decisions.d/ADR-059.md)), so a Rejected argument under an Active claim is one route that failed.
 
-**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 58 matches
+**argued_for** · `(c:CLAIM)<-[:concludes]-(g:ARG)` · 59 matches
 
 **argued_for_undercut** · `(c:CLAIM)<-[:concludes]-(g:ARG)<-[:undercuts]-(u:CLAIM)` · 30 matches
 
@@ -141,4 +141,6 @@ Each claim an argument concludes, its arguments beneath it, and beneath each arg
   - [ARG-052](../record/arguments.d/ARG-052.md) — Van Lange and Bergmann's model of intergroup cooperation does not establish that cooperation within groups and the coexistence of groups are distinct targets that can trade off: it shows that the processes building in-group cooperation can fuel conflict between groups, and says nothing on whether groups persist, go extinct or are owed impartial concern *(Rejected, source)*
 - [CLAIM-584](../record/claims.d/CLAIM-584.md) — Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful *(Proposed, disclaimed)*
   - [ARG-053](../record/arguments.d/ARG-053.md) — Low observed exercise of a specialized capability is evidence that its maintenance expenditure is wasteful *(Rejected, evidence)*
-    - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(Proposed, thesis)*
+    - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(Active, thesis)*
+- [CLAIM-588](../record/claims.d/CLAIM-588.md) — Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first *(Active, thesis)*
+  - [ARG-054](../record/arguments.d/ARG-054.md) — Rocks and Mehta's prestress, placed on different bonds of a self-stress space fixed by geometry, changes which force excites a zero mode and retunes stability while the zero modes and self-stresses stay fixed, and so gives a mechanical parallel to redistributing and exploiting a mismatch without relief, though it shows the exciting force moving and not a given load *(Active, analogy)*

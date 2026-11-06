@@ -16,7 +16,7 @@ history:
     inconsistency it names, 12 nM in one supplementary caption, is
     against the main text and Methods, which give the 1.2 nM the title
     uses. The condition asked for an independent study, and it moves
-    unchanged to QUESTION-tmp1jy98, which lists it under this entry's
+    unchanged to QUESTION-410, which lists it under this entry's
     code; this entry bears_on it: 'An independent single-molecule or
     bulk study of a 2D DNA origami reproduces the move of the nucleation
     site by changing staple concentrations alone, with sequences and
@@ -29,7 +29,7 @@ date: '2026-11-05'
 source:
 - LIT-2137
 bears_on:
-- QUESTION-tmp1jy98
+- QUESTION-410
 summary: >-
   Lee Tin Wah, David, Rudiuk, Baigl and Estévez-Torres (2016),
   [LIT-2137](../literature.d/LIT-2137.md), read in [NOTE-1625](../notes.d/NOTE-1625.md) (main text and supplement).

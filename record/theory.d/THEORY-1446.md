@@ -23,7 +23,7 @@ history:
     these with a staple-blocking metric collapses it onto one trend, and
     designs with more short folds at the expense of medium folds are
     more defective'. The condition asked for an independent study, and
-    it moves unchanged to QUESTION-tmp1jy98, which lists it under this
+    it moves unchanged to QUESTION-410, which lists it under this
     entry's code; this entry bears_on it: 'An independent study of
     several designs of one DNA origami shape, under its own anneal
     conditions and quality measure, finds defectivity or yield ordered
@@ -38,7 +38,7 @@ date: '2026-11-05'
 source:
 - LIT-2127
 bears_on:
-- QUESTION-tmp1jy98
+- QUESTION-410
 summary: >-
   Majikes, Hasni, Haridas, Robertson, Pintar, Zwolak and Liddle (2026),
   [LIT-2127](../literature.d/LIT-2127.md), read in [NOTE-1639](../notes.d/NOTE-1639.md). Defectivity is a class-weighted AFM

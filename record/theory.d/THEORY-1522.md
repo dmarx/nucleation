@@ -15,7 +15,7 @@ history:
     report. The title reports how Ahn reads Bainbridge and his own
     remedies. Its promote_when asked that the authors be right, which is
     more than the title asserts; it moves word for word to
-    THEORY-tmpvflnt, Proposed, which extends this entry (ADR-047 kind
+    THEORY-1551, Proposed, which extends this entry (ADR-047 kind
     1). The old condition: Bainbridge (1983) is read and states, in her
     own words, that automation leaves the operator the atypical or
     abnormal cases, recalls the operator at its failure, when the system
@@ -37,7 +37,7 @@ summary: >-
   proposals for medical curricula, untested. A single-author commentary with
   no data.
 ---
-<!-- inactive-ok-file: THEORY-tmpvflnt — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: THEORY-1551 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->
 
 # THEORY-1522: Ahn reads Bainbridge's ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator's manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected

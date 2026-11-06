@@ -15,7 +15,7 @@ history:
     kept, and nothing in the record contradicts it. The standard error
     printed as 0.037 and 0.045 for one estimate leaves it significant
     under either, so no clause of the title turns on it. The replication
-    and refutation clauses move word for word to QUESTION-tmpja1b8. The
+    and refutation clauses move word for word to QUESTION-424. The
     old condition: A replication, with these instruments or
     better-justified ones and with first stages reported, on the
     published 2001 data or an extended ICRG panel, again finds a
@@ -34,7 +34,7 @@ date: '2026-11-05'
 source:
 - LIT-2219
 bears_on:
-- QUESTION-tmpja1b8
+- QUESTION-424
 summary: >-
   Knack (2000), [LIT-2219](../literature.d/LIT-2219.md), read in [NOTE-1707](../notes.d/NOTE-1707.md) in its World Bank
   working-paper version; the 2001 journal version was not read. Held as what the study finds, with its hedges:

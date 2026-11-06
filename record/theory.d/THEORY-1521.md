@@ -22,7 +22,7 @@ history:
     the operator's awareness, because the task itself is still done and
     still succeeds. Its promote_when asked that the authors be right,
     which is more than the title asserts; it moves word for word to
-    THEORY-tmpk0yjb, Proposed, which extends this entry (ADR-047 kind
+    THEORY-1545, Proposed, which extends this entry (ADR-047 kind
     1). The old condition: A study, cited or new, measures operators'
     unaided skill at a subtask after a period in which automation
     performed that subtask while they continued the task, against
@@ -49,7 +49,7 @@ summary: >-
   paper does not cite her. It does not give a rate, a recovery time, or any
   test of its extension to AI assistants.
 ---
-<!-- inactive-ok-file: THEORY-tmpk0yjb — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: THEORY-1545 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original this reading stands in for -->
 
 # THEORY-1521: Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator's skill at that subtask decays from disuse, the cognitive part more than the procedural part, and may do so out of the operator's awareness, because the task itself is still done and still succeeds

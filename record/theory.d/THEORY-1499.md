@@ -15,7 +15,7 @@ history:
     working paper's analysis in full; the version of record adds an
     analysis but no discrepancy in what the title uses is named, so
     that route is dropped (ADR-065 §4). The re-estimate route moves
-    to QUESTION-tmph06t3. It read: 'The AER version of record
+    to QUESTION-421. It read: 'The AER version of record
     (92(5), 2002) read and found to report 2SLS coefficients on
     instrumented 1940–47 growth indistinguishable from −1 for
     1947–60 without the prewar-trend control and for 1947–65 with

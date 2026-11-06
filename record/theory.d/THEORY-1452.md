@@ -24,7 +24,7 @@ history:
     serum against 12 % without; such self-healing fails to outpace
     damage at higher nuclease levels, and damage to the scaffold cannot
     be repaired'. The condition asked for an independent experiment, and
-    it moves unchanged to QUESTION-tmpdtizm, which lists it under this
+    it moves unchanged to QUESTION-419, which lists it under this
     entry's code; this entry bears_on it: 'An independent experiment
     shows, in folded DNA origami, that free staples are incorporated
     selectively at toehold-exposing defects and not at intact sites;
@@ -38,7 +38,7 @@ date: '2026-11-05'
 source:
 - LIT-2139
 bears_on:
-- QUESTION-tmpdtizm
+- QUESTION-419
 summary: >-
   Scheckenbach, Schubert, Forthmann, Glembockyte and Tinnefeld (2021),
   [LIT-2139](../literature.d/LIT-2139.md), read in [NOTE-1636](../notes.d/NOTE-1636.md) from the main text; the Supporting

@@ -14,7 +14,7 @@ history:
     Bekbolatov's simulations and theory show, and NOTE-1640 reads the
     submitted preprint in full, with no discrepancy against the version
     of record named. The condition asked for an independent simulation
-    or experiment, and it moves unchanged to QUESTION-tmpmnl4c, which
+    or experiment, and it moves unchanged to QUESTION-428, which
     lists it under this entry's code; this entry bears_on it: 'An
     independent kTAM simulation or analysis, or an experiment with DNA
     tiles, reproduces all three of the following: the change in the
@@ -28,7 +28,7 @@ date: '2026-11-05'
 source:
 - LIT-2119
 bears_on:
-- QUESTION-tmpmnl4c
+- QUESTION-428
 summary: >-
   Winfree and Bekbolatov (2004), [LIT-2119](../literature.d/LIT-2119.md), read in [NOTE-1640](../notes.d/NOTE-1640.md) from
   the authors' submitted preprint. Simulation and kinetic-trap theory,

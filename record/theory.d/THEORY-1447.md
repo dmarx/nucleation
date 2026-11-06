@@ -14,7 +14,7 @@ history:
     colleagues' model shows, and NOTE-1645 reads the arXiv
     post-acceptance revision in full, with no discrepancy named. The
     condition asked for an independent experiment or model, and it moves
-    unchanged to QUESTION-tmp1jy98, which lists it under this entry's
+    unchanged to QUESTION-410, which lists it under this entry's
     code; this entry bears_on it: 'An independent experiment or model on
     a DNA origami shows (a) that raising staple-staple cooperativity, by
     stacking or by loop closure, widens the gap between melting and
@@ -28,7 +28,7 @@ date: '2026-11-05'
 source:
 - LIT-2129
 bears_on:
-- QUESTION-tmp1jy98
+- QUESTION-410
 summary: >-
   Dannenberg, Dunn, Bath, Kwiatkowska, Turberfield and Ouldridge (2015),
   [LIT-2129](../literature.d/LIT-2129.md), read in [NOTE-1645](../notes.d/NOTE-1645.md). A simulation of one 166-domain

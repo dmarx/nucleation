@@ -16,7 +16,7 @@ history:
     AER version of record is dropped: no discrepancy is named, and
     NOTE-1695 records the copy read (ADR-065, decision 4). The
     replication and refutation clauses move word for word to
-    QUESTION-tmpl3rft. The old condition: A replication or long-run
+    QUESTION-426. The old condition: A replication or long-run
     follow-up of Moving to Opportunity, or of another randomized
     housing-mobility programme, that reports adult earnings gains for
     children who moved young, declining with age at move, together with
@@ -35,7 +35,7 @@ date: '2026-11-05'
 source:
 - LIT-2193
 bears_on:
-- QUESTION-tmpl3rft
+- QUESTION-426
 summary: >-
   Chetty, Hendren & Katz (2016), [LIT-2193](../literature.d/LIT-2193.md), read from NBER w21156
   (revised September 2015) in [NOTE-1695](../notes.d/NOTE-1695.md). Held as what the study finds, with its hedges: earnings are

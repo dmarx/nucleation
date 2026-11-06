@@ -15,7 +15,7 @@ history:
     the published main text in full, with the supplementary captions
     that carry the stacking and hybridization controls. The condition
     asked for an experiment or an independent model, and it moves
-    unchanged to QUESTION-tmp1jy98, which lists it under this entry's
+    unchanged to QUESTION-410, which lists it under this entry's
     code; this entry bears_on it: 'An experiment shows the predicted
     design dependence: origami that differ only in staples per crossover
     column or in breakpoint stacking strength (for example three-domain
@@ -35,7 +35,7 @@ date: '2026-11-05'
 source:
 - LIT-2134
 bears_on:
-- QUESTION-tmp1jy98
+- QUESTION-410
 summary: >-
   Cumberworth, Frenkel and Reinhardt (2022), [LIT-2134](../literature.d/LIT-2134.md), read in
   [NOTE-1638](../notes.d/NOTE-1638.md). Equilibrium simulation of four designs of at most 27

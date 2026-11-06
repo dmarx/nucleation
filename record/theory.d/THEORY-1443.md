@@ -22,7 +22,7 @@ history:
     44 to 263 of 7,560 bases unpaired, 96.5% to over 99% quality,
     depending on design and folding schedule'. The condition asked for
     an independent study by another method, and it moves unchanged to
-    QUESTION-tmpdtizm, which lists it under this entry's code; this
+    QUESTION-419, which lists it under this entry's code; this
     entry bears_on it: 'An independent study using a different method,
     such as single-particle super-resolution imaging or sequencing-based
     counts of staple incorporation, finds deficits of the same order
@@ -36,7 +36,7 @@ date: '2026-11-05'
 source:
 - LIT-2128
 bears_on:
-- QUESTION-tmpdtizm
+- QUESTION-419
 summary: >-
   Wagenbauer, Wachauf and Dietz (2014), [LIT-2128](../literature.d/LIT-2128.md), read in
   [NOTE-1637](../notes.d/NOTE-1637.md). The indistinguishability under TEM and gel mobility is

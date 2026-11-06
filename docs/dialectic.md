@@ -346,4 +346,4 @@
 ## From Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful
 
 - [CLAIM-584](../record/claims.d/CLAIM-584.md) — Maintaining a specialized capability that is seldom or never exercised for its specialized function is wasteful *(disclaimed, Proposed)*
-  - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(thesis, Proposed)* — through [ARG-053](../record/arguments.d/ARG-053.md)
+  - [CLAIM-561](../record/claims.d/CLAIM-561.md) — When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste *(thesis, Active)* — through [ARG-053](../record/arguments.d/ARG-053.md)

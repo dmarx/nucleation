@@ -24,7 +24,7 @@ history:
     and UV crosslinking the per-cycle replication rate falls from about
     1.9 for dimers to 1.6 for tetramers'. The condition asked for an
     independent reproduction, and it moves unchanged to
-    QUESTION-tmpmnl4c, which lists it under this entry's code; this
+    QUESTION-428, which lists it under this entry's code; this
     entry bears_on it: 'An independent group reproduces, for DNA origami
     tiles tethered on a template, the melting-temperature shift
     attributed to raised effective concentration and the model's
@@ -39,7 +39,7 @@ date: '2026-11-05'
 source:
 - LIT-2124
 bears_on:
-- QUESTION-tmpmnl4c
+- QUESTION-428
 summary: >-
   Ni, Zhou, Zhu, Bershadsky, Ai, Wang, Sha, Seeman and Chaikin (2026),
   [LIT-2124](../literature.d/LIT-2124.md), read in [NOTE-1630](../notes.d/NOTE-1630.md). The effective-concentration figure

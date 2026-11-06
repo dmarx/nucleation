@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**821 documents cited without acknowledgement.** Not listed: 17333 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**826 documents cited without acknowledgement.** Not listed: 17074 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 Promotion is audited in small persisted batches, ranked by expected yield, with decisions recorded apart from status changes
 
-1044 citations in 740 files await a look; 44 other citations of it are acknowledged.
+1105 citations in 799 files await a look; 44 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-165.md:50`](../../record/cases.d/CASE-165.md)
 - [`record/cases.d/CASE-206.md:26`](../../record/cases.d/CASE-206.md)
@@ -119,6 +119,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/claims.d/CLAIM-518.md:32`](../../record/claims.d/CLAIM-518.md)
 - [`record/claims.d/CLAIM-518.md:45`](../../record/claims.d/CLAIM-518.md)
 - [`record/claims.d/CLAIM-529.md:27`](../../record/claims.d/CLAIM-529.md)
+- [`record/claims.d/CLAIM-533.md:46`](../../record/claims.d/CLAIM-533.md)
 - [`record/claims.d/CLAIM-550.md:13`](../../record/claims.d/CLAIM-550.md)
 - [`record/claims.d/CLAIM-554.md:20`](../../record/claims.d/CLAIM-554.md)
 - [`record/claims.d/CLAIM-557.md:18`](../../record/claims.d/CLAIM-557.md)
@@ -129,6 +130,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/claims.d/CLAIM-594.md:13`](../../record/claims.d/CLAIM-594.md)
 - [`record/claims.d/CLAIM-595.md:13`](../../record/claims.d/CLAIM-595.md)
 - [`record/claims.d/CLAIM-596.md:13`](../../record/claims.d/CLAIM-596.md)
+- [`record/claims.d/CLAIM-600.md:25`](../../record/claims.d/CLAIM-600.md)
 - [`record/claims.d/CLAIM-608.md:27`](../../record/claims.d/CLAIM-608.md)
 - [`record/decisions.d/ADR-049.md:11`](../../record/decisions.d/ADR-049.md)
 - [`record/decisions.d/ADR-049.md:38`](../../record/decisions.d/ADR-049.md)
@@ -425,6 +427,7 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-140.md:13`](../../record/theory.d/THEORY-140.md)
 - [`record/theory.d/THEORY-140.md:20`](../../record/theory.d/THEORY-140.md)
 - [`record/theory.d/THEORY-141.md:116`](../../record/theory.d/THEORY-141.md)
+- [`record/theory.d/THEORY-1414.md:18`](../../record/theory.d/THEORY-1414.md)
 - [`record/theory.d/THEORY-1418.md:13`](../../record/theory.d/THEORY-1418.md)
 - [`record/theory.d/THEORY-1418.md:19`](../../record/theory.d/THEORY-1418.md)
 - [`record/theory.d/THEORY-1418.md:81`](../../record/theory.d/THEORY-1418.md)
@@ -434,8 +437,49 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-143.md:143`](../../record/theory.d/THEORY-143.md)
 - [`record/theory.d/THEORY-1432.md:26`](../../record/theory.d/THEORY-1432.md)
 - [`record/theory.d/THEORY-1435.md:24`](../../record/theory.d/THEORY-1435.md)
+- [`record/theory.d/THEORY-1441.md:16`](../../record/theory.d/THEORY-1441.md)
+- [`record/theory.d/THEORY-1443.md:16`](../../record/theory.d/THEORY-1443.md)
+- [`record/theory.d/THEORY-1444.md:18`](../../record/theory.d/THEORY-1444.md)
+- [`record/theory.d/THEORY-1446.md:16`](../../record/theory.d/THEORY-1446.md)
+- [`record/theory.d/THEORY-1448.md:16`](../../record/theory.d/THEORY-1448.md)
+- [`record/theory.d/THEORY-1450.md:16`](../../record/theory.d/THEORY-1450.md)
+- [`record/theory.d/THEORY-1452.md:17`](../../record/theory.d/THEORY-1452.md)
+- [`record/theory.d/THEORY-1454.md:17`](../../record/theory.d/THEORY-1454.md)
+- [`record/theory.d/THEORY-1457.md:18`](../../record/theory.d/THEORY-1457.md)
+- [`record/theory.d/THEORY-1464.md:13`](../../record/theory.d/THEORY-1464.md)
+- [`record/theory.d/THEORY-1464.md:17`](../../record/theory.d/THEORY-1464.md)
+- [`record/theory.d/THEORY-1466.md:16`](../../record/theory.d/THEORY-1466.md)
+- [`record/theory.d/THEORY-1469.md:13`](../../record/theory.d/THEORY-1469.md)
+- [`record/theory.d/THEORY-1471.md:13`](../../record/theory.d/THEORY-1471.md)
+- [`record/theory.d/THEORY-1472.md:17`](../../record/theory.d/THEORY-1472.md)
+- [`record/theory.d/THEORY-1474.md:16`](../../record/theory.d/THEORY-1474.md)
+- [`record/theory.d/THEORY-1478.md:13`](../../record/theory.d/THEORY-1478.md)
+- [`record/theory.d/THEORY-1479.md:13`](../../record/theory.d/THEORY-1479.md)
+- [`record/theory.d/THEORY-1487.md:13`](../../record/theory.d/THEORY-1487.md)
+- [`record/theory.d/THEORY-1488.md:13`](../../record/theory.d/THEORY-1488.md)
+- [`record/theory.d/THEORY-1489.md:13`](../../record/theory.d/THEORY-1489.md)
 - [`record/theory.d/THEORY-1492.md:19`](../../record/theory.d/THEORY-1492.md)
+- [`record/theory.d/THEORY-1495.md:13`](../../record/theory.d/THEORY-1495.md)
+- [`record/theory.d/THEORY-1496.md:13`](../../record/theory.d/THEORY-1496.md)
+- [`record/theory.d/THEORY-1497.md:13`](../../record/theory.d/THEORY-1497.md)
+- [`record/theory.d/THEORY-1504.md:18`](../../record/theory.d/THEORY-1504.md)
+- [`record/theory.d/THEORY-1505.md:13`](../../record/theory.d/THEORY-1505.md)
+- [`record/theory.d/THEORY-1508.md:13`](../../record/theory.d/THEORY-1508.md)
 - [`record/theory.d/THEORY-151.md:112`](../../record/theory.d/THEORY-151.md)
+- [`record/theory.d/THEORY-1510.md:19`](../../record/theory.d/THEORY-1510.md)
+- [`record/theory.d/THEORY-1511.md:19`](../../record/theory.d/THEORY-1511.md)
+- [`record/theory.d/THEORY-1512.md:24`](../../record/theory.d/THEORY-1512.md)
+- [`record/theory.d/THEORY-1513.md:13`](../../record/theory.d/THEORY-1513.md)
+- [`record/theory.d/THEORY-1514.md:18`](../../record/theory.d/THEORY-1514.md)
+- [`record/theory.d/THEORY-1515.md:19`](../../record/theory.d/THEORY-1515.md)
+- [`record/theory.d/THEORY-1516.md:17`](../../record/theory.d/THEORY-1516.md)
+- [`record/theory.d/THEORY-1517.md:13`](../../record/theory.d/THEORY-1517.md)
+- [`record/theory.d/THEORY-1518.md:17`](../../record/theory.d/THEORY-1518.md)
+- [`record/theory.d/THEORY-1520.md:17`](../../record/theory.d/THEORY-1520.md)
+- [`record/theory.d/THEORY-1521.md:16`](../../record/theory.d/THEORY-1521.md)
+- [`record/theory.d/THEORY-1521.md:25`](../../record/theory.d/THEORY-1521.md)
+- [`record/theory.d/THEORY-1522.md:18`](../../record/theory.d/THEORY-1522.md)
+- [`record/theory.d/THEORY-1523.md:13`](../../record/theory.d/THEORY-1523.md)
 - [`record/theory.d/THEORY-1524.md:26`](../../record/theory.d/THEORY-1524.md)
 - [`record/theory.d/THEORY-1525.md:29`](../../record/theory.d/THEORY-1525.md)
 - [`record/theory.d/THEORY-1526.md:25`](../../record/theory.d/THEORY-1526.md)
@@ -446,6 +490,23 @@ Promotion is audited in small persisted batches, ranked by expected yield, with 
 - [`record/theory.d/THEORY-1532.md:25`](../../record/theory.d/THEORY-1532.md)
 - [`record/theory.d/THEORY-1533.md:27`](../../record/theory.d/THEORY-1533.md)
 - [`record/theory.d/THEORY-1534.md:29`](../../record/theory.d/THEORY-1534.md)
+- [`record/theory.d/THEORY-1536.md:28`](../../record/theory.d/THEORY-1536.md)
+- [`record/theory.d/THEORY-1537.md:27`](../../record/theory.d/THEORY-1537.md)
+- [`record/theory.d/THEORY-1538.md:27`](../../record/theory.d/THEORY-1538.md)
+- [`record/theory.d/THEORY-1539.md:27`](../../record/theory.d/THEORY-1539.md)
+- [`record/theory.d/THEORY-1540.md:25`](../../record/theory.d/THEORY-1540.md)
+- [`record/theory.d/THEORY-1541.md:29`](../../record/theory.d/THEORY-1541.md)
+- [`record/theory.d/THEORY-1542.md:27`](../../record/theory.d/THEORY-1542.md)
+- [`record/theory.d/THEORY-1543.md:26`](../../record/theory.d/THEORY-1543.md)
+- [`record/theory.d/THEORY-1544.md:27`](../../record/theory.d/THEORY-1544.md)
+- [`record/theory.d/THEORY-1545.md:28`](../../record/theory.d/THEORY-1545.md)
+- [`record/theory.d/THEORY-1546.md:29`](../../record/theory.d/THEORY-1546.md)
+- [`record/theory.d/THEORY-1547.md:28`](../../record/theory.d/THEORY-1547.md)
+- [`record/theory.d/THEORY-1548.md:33`](../../record/theory.d/THEORY-1548.md)
+- [`record/theory.d/THEORY-1549.md:27`](../../record/theory.d/THEORY-1549.md)
+- [`record/theory.d/THEORY-1550.md:27`](../../record/theory.d/THEORY-1550.md)
+- [`record/theory.d/THEORY-1551.md:27`](../../record/theory.d/THEORY-1551.md)
+- [`record/theory.d/THEORY-1552.md:29`](../../record/theory.d/THEORY-1552.md)
 - [`record/theory.d/THEORY-156.md:23`](../../record/theory.d/THEORY-156.md)
 - [`record/theory.d/THEORY-158.md:14`](../../record/theory.d/THEORY-158.md)
 - [`record/theory.d/THEORY-158.md:16`](../../record/theory.d/THEORY-158.md)
@@ -1259,7 +1320,7 @@ An organization's appraisal is the negotiation among its perspectives, a common 
 
 - [`record/claims.d/CLAIM-039.md:45`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-283.md:143`](../../record/claims.d/CLAIM-283.md)
-- [`record/claims.d/CLAIM-347.md:291`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:290`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-432.md:18`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-432.md:225`](../../record/claims.d/CLAIM-432.md)
 - [`record/claims.d/CLAIM-436.md:190`](../../record/claims.d/CLAIM-436.md)
@@ -1465,11 +1526,11 @@ Active inference already runs an internal loop: mental action selects among high
 - [`record/claims.d/CLAIM-338.md:129`](../../record/claims.d/CLAIM-338.md)
 - [`record/claims.d/CLAIM-341.md:25`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-341.md:53`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:159`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:253`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:324`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:369`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:374`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:158`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:252`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:323`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:368`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:373`](../../record/claims.d/CLAIM-341.md)
 - [`record/literature.d/LIT-1178.md:68`](../../record/literature.d/LIT-1178.md)
 - [`record/literature.d/LIT-1191.md:74`](../../record/literature.d/LIT-1191.md)
 - [`record/literature.d/LIT-1192.md:75`](../../record/literature.d/LIT-1192.md)
@@ -2337,7 +2398,7 @@ Falasco & Esposito — macroscopic stochastic thermodynamics
 
 organizational achievement, of a specified target: its attainment or maintenance, under declared conditions, where an identifiable arrangement of relations among components makes an explanatory difference that a comparison with admissible alternatives can show, as an episode, a maintained capacity or the reproduction of what sustains that capacity
 
-11 citations in 8 files await a look; 3 other citations of it are acknowledged.
+11 citations in 8 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-056.md:42`](../../record/decisions.d/ADR-056.md)
 - [`record/decisions.d/ADR-056.md:113`](../../record/decisions.d/ADR-056.md)
@@ -2680,8 +2741,8 @@ Conditioning on a communicative situation, intervening on it and intervening on 
 9 citations in 4 files await a look; 41 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-341.md:97`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:190`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:227`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:189`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:226`](../../record/claims.d/CLAIM-341.md)
 - [`record/literature.d/LIT-1196.md:77`](../../record/literature.d/LIT-1196.md)
 - [`record/notes.d/NOTE-949.md:161`](../../record/notes.d/NOTE-949.md)
 - [`record/notes.d/NOTE-949.md:211`](../../record/notes.d/NOTE-949.md)
@@ -2865,6 +2926,22 @@ Detection, Estimation, and Modulation Theory, Part I
 - [`record/notes.d/NOTE-315.md:147`](../../record/notes.d/NOTE-315.md)
 - [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
 
+### [NOTE-1698](../../record/notes.d/NOTE-1698.md) — Skimmed
+
+Fodor — Radiation of oscillons
+
+9 citations in 4 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-2197.md:7`](../../record/literature.d/LIT-2197.md)
+- [`record/literature.d/LIT-2197.md:80`](../../record/literature.d/LIT-2197.md)
+- [`record/notes.d/NOTE-1694.md:115`](../../record/notes.d/NOTE-1694.md)
+- [`record/notes.d/NOTE-1699.md:23`](../../record/notes.d/NOTE-1699.md)
+- [`record/notes.d/NOTE-1699.md:162`](../../record/notes.d/NOTE-1699.md)
+- [`record/notes.d/NOTE-1699.md:173`](../../record/notes.d/NOTE-1699.md)
+- [`record/theory.d/THEORY-1502.md:26`](../../record/theory.d/THEORY-1502.md)
+- [`record/theory.d/THEORY-1502.md:39`](../../record/theory.d/THEORY-1502.md)
+- [`record/theory.d/THEORY-1502.md:77`](../../record/theory.d/THEORY-1502.md)
+
 ### [QUESTION-015](../../record/questions.d/QUESTION-015.md) — Answered
 
 Given an independently warranted agent with several available action-generating regimes, what maintained relations govern which of them becomes practically effective?
@@ -2911,7 +2988,7 @@ In the coupled meaning–authority model, is authority's effect on what becomes 
 - [`record/claims.d/CLAIM-400.md:125`](../../record/claims.d/CLAIM-400.md)
 - [`record/claims.d/CLAIM-400.md:147`](../../record/claims.d/CLAIM-400.md)
 - [`record/literature.d/LIT-1321.md:45`](../../record/literature.d/LIT-1321.md)
-- [`record/terms.d/TERM-064.md:222`](../../record/terms.d/TERM-064.md)
+- [`record/terms.d/TERM-064.md:221`](../../record/terms.d/TERM-064.md)
 
 ### [THEORY-054](../../record/theory.d/THEORY-054.md) — Proposed
 
@@ -3172,20 +3249,20 @@ New Evidence of the Two-Phase Learning Dynamics of Neural Networks
 - [`record/theory.d/THEORY-039.md:79`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:86`](../../record/theory.d/THEORY-039.md)
 
-### [NOTE-1698](../../record/notes.d/NOTE-1698.md) — Skimmed
+### [NOTE-1694](../../record/notes.d/NOTE-1694.md) — Skimmed
 
-Fodor — Radiation of oscillons
+Tong — TASI Lectures on Solitons
 
-8 citations in 4 files await a look; 1 other citation of it is acknowledged.
+8 citations in 4 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-2197.md:7`](../../record/literature.d/LIT-2197.md)
-- [`record/literature.d/LIT-2197.md:80`](../../record/literature.d/LIT-2197.md)
-- [`record/notes.d/NOTE-1694.md:115`](../../record/notes.d/NOTE-1694.md)
+- [`record/literature.d/LIT-2207.md:7`](../../record/literature.d/LIT-2207.md)
+- [`record/literature.d/LIT-2207.md:81`](../../record/literature.d/LIT-2207.md)
+- [`record/notes.d/NOTE-1698.md:170`](../../record/notes.d/NOTE-1698.md)
 - [`record/notes.d/NOTE-1699.md:23`](../../record/notes.d/NOTE-1699.md)
-- [`record/notes.d/NOTE-1699.md:162`](../../record/notes.d/NOTE-1699.md)
-- [`record/notes.d/NOTE-1699.md:173`](../../record/notes.d/NOTE-1699.md)
-- [`record/theory.d/THEORY-1502.md:26`](../../record/theory.d/THEORY-1502.md)
-- [`record/theory.d/THEORY-1502.md:39`](../../record/theory.d/THEORY-1502.md)
+- [`record/notes.d/NOTE-1699.md:167`](../../record/notes.d/NOTE-1699.md)
+- [`record/theory.d/THEORY-1507.md:26`](../../record/theory.d/THEORY-1507.md)
+- [`record/theory.d/THEORY-1507.md:41`](../../record/theory.d/THEORY-1507.md)
+- [`record/theory.d/THEORY-1507.md:73`](../../record/theory.d/THEORY-1507.md)
 
 ### [NOTE-206](../../record/notes.d/NOTE-206.md) — Superseded
 
@@ -3530,20 +3607,6 @@ Morality as Cooperation: A Problem-Centred Approach
 - [`record/theory.d/THEORY-494.md:108`](../../record/theory.d/THEORY-494.md)
 - [`record/theory.d/THEORY-653.md:70`](../../record/theory.d/THEORY-653.md)
 
-### [NOTE-1694](../../record/notes.d/NOTE-1694.md) — Skimmed
-
-Tong — TASI Lectures on Solitons
-
-7 citations in 4 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-2207.md:7`](../../record/literature.d/LIT-2207.md)
-- [`record/literature.d/LIT-2207.md:81`](../../record/literature.d/LIT-2207.md)
-- [`record/notes.d/NOTE-1698.md:170`](../../record/notes.d/NOTE-1698.md)
-- [`record/notes.d/NOTE-1699.md:23`](../../record/notes.d/NOTE-1699.md)
-- [`record/notes.d/NOTE-1699.md:167`](../../record/notes.d/NOTE-1699.md)
-- [`record/theory.d/THEORY-1507.md:26`](../../record/theory.d/THEORY-1507.md)
-- [`record/theory.d/THEORY-1507.md:40`](../../record/theory.d/THEORY-1507.md)
-
 ### [NOTE-291](../../record/notes.d/NOTE-291.md) — Skimmed
 
 Analysis of Boolean Functions
@@ -3663,8 +3726,8 @@ A whole can be compared in agency with its parts, relative to a chosen decomposi
 7 citations in 3 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:28`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:262`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:290`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:261`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:289`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-368.md:29`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:147`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:217`](../../record/claims.d/CLAIM-368.md)
@@ -3828,19 +3891,6 @@ Ordinary and legal attributions of agency to an artifact cannot serve as the ind
 - [`record/claims.d/CLAIM-174.md:241`](../../record/claims.d/CLAIM-174.md)
 - [`record/claims.d/CLAIM-174.md:280`](../../record/claims.d/CLAIM-174.md)
 - [`record/decisions.d/ADR-061.md:121`](../../record/decisions.d/ADR-061.md)
-
-### [CLAIM-404](../../record/claims.d/CLAIM-404.md) — Proposed
-
-An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization's role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator's procedure does not make its evaluation independent
-
-6 citations in 5 files await a look; 61 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-146.md:66`](../../record/cases.d/CASE-146.md)
-- [`record/claims.d/CLAIM-429.md:111`](../../record/claims.d/CLAIM-429.md)
-- [`record/claims.d/CLAIM-430.md:109`](../../record/claims.d/CLAIM-430.md)
-- [`record/claims.d/CLAIM-466.md:46`](../../record/claims.d/CLAIM-466.md)
-- [`record/claims.d/CLAIM-466.md:67`](../../record/claims.d/CLAIM-466.md)
-- [`record/theory.d/THEORY-852.md:25`](../../record/theory.d/THEORY-852.md)
 
 ### [CLAIM-438](../../record/claims.d/CLAIM-438.md) — Proposed
 
@@ -4045,7 +4095,7 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 
 - [`record/claims.d/CLAIM-041.md:120`](../../record/claims.d/CLAIM-041.md)
 - [`record/claims.d/CLAIM-041.md:124`](../../record/claims.d/CLAIM-041.md)
-- [`record/claims.d/CLAIM-341.md:237`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:236`](../../record/claims.d/CLAIM-341.md)
 - [`record/notes.d/NOTE-245.md:166`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
 - [`record/notes.d/NOTE-249.md:184`](../../record/notes.d/NOTE-249.md)
@@ -4212,7 +4262,7 @@ Self-production alone gives a system only an all-or-nothing norm, to go on or to
 
 6 citations in 4 files await a look; 13 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-341.md:271`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:270`](../../record/claims.d/CLAIM-341.md)
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:87`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:114`](../../record/questions.d/QUESTION-128.md)
@@ -4759,7 +4809,7 @@ Our judgments that consciousness poses a hard problem are behaviour, so explaini
 
 - [`record/claims.d/CLAIM-337.md:83`](../../record/claims.d/CLAIM-337.md)
 - [`record/claims.d/CLAIM-337.md:118`](../../record/claims.d/CLAIM-337.md)
-- [`record/claims.d/CLAIM-341.md:158`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:157`](../../record/claims.d/CLAIM-341.md)
 - [`record/theory.d/THEORY-564.md:132`](../../record/theory.d/THEORY-564.md)
 - [`record/theory.d/THEORY-662.md:118`](../../record/theory.d/THEORY-662.md)
 
@@ -4920,7 +4970,7 @@ No single ranking of translations holds across tasks: where distortion profiles 
 4 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-347.md:78`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:254`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:253`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-354.md:80`](../../record/claims.d/CLAIM-354.md)
 - [`record/claims.d/CLAIM-354.md:157`](../../record/claims.d/CLAIM-354.md)
 
@@ -5357,7 +5407,7 @@ moral standing: being owed moral consideration directly, for one's own sake, and
 
 ratchet effect, in the incentive sense: a principal that cannot commit to future terms revises them on what an agent's performance reveals, so the agent distorts its performance to avoid worse terms; not Muller's ratchet
 
-4 citations in 1 file await a look; 4 other citations of it are acknowledged.
+4 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-577.md:23`](../../record/claims.d/CLAIM-577.md)
 - [`record/claims.d/CLAIM-577.md:24`](../../record/claims.d/CLAIM-577.md)
@@ -5592,7 +5642,7 @@ Perceptual learning can install perceiver-specific frames that change which obje
 
 - [`record/claims.d/CLAIM-340.md:93`](../../record/claims.d/CLAIM-340.md)
 - [`record/claims.d/CLAIM-341.md:19`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:139`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:138`](../../record/claims.d/CLAIM-341.md)
 - [`record/questions.d/QUESTION-121.md:75`](../../record/questions.d/QUESTION-121.md)
 
 ### [THEORY-655](../../record/theory.d/THEORY-655.md) — Proposed
@@ -5655,8 +5705,8 @@ Interpretive framings change a reader's state as non-commuting measurements do, 
 
 3 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-341.md:231`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:250`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:230`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:249`](../../record/claims.d/CLAIM-341.md)
 - [`record/decisions.d/ADR-059.md:57`](../../record/decisions.d/ADR-059.md)
 
 ### [ARG-022](../../record/arguments.d/ARG-022.md) — Rejected
@@ -5735,7 +5785,7 @@ Pragmatic judgements may be formally contextual: their context-relative distribu
 
 3 citations in 2 files await a look; 16 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-341.md:231`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:230`](../../record/claims.d/CLAIM-341.md)
 - [`record/questions.d/QUESTION-067.md:55`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:72`](../../record/questions.d/QUESTION-067.md)
 
@@ -6105,7 +6155,7 @@ Does Measuring Intent Change Behavior?
 
 3 citations in 3 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/claims.d/CLAIM-341.md:205`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:204`](../../record/claims.d/CLAIM-341.md)
 - [`record/notes.d/NOTE-957.md:205`](../../record/notes.d/NOTE-957.md)
 - [`record/questions.d/QUESTION-121.md:122`](../../record/questions.d/QUESTION-121.md)
 
@@ -6286,7 +6336,7 @@ Juarrero — Context Changes Everything
 3 citations in 3 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-191.md:175`](../../record/cases.d/CASE-191.md)
-- [`record/claims.d/CLAIM-533.md:186`](../../record/claims.d/CLAIM-533.md)
+- [`record/claims.d/CLAIM-533.md:200`](../../record/claims.d/CLAIM-533.md)
 - [`record/theory.d/THEORY-1314.md:92`](../../record/theory.d/THEORY-1314.md)
 
 ### [NOTE-198](../../record/notes.d/NOTE-198.md) — Superseded
@@ -6957,7 +7007,7 @@ In translation the pragmatic frame does not merely select a description of meani
 2 citations in 1 file await a look; 1 other citation of it is acknowledged.
 
 - [`record/claims.d/CLAIM-341.md:98`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:229`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:228`](../../record/claims.d/CLAIM-341.md)
 
 ### [CLAIM-138](../../record/claims.d/CLAIM-138.md) — Proposed
 
@@ -7071,7 +7121,7 @@ Give each of an individual's perspectives a scalar intervention threshold on its
 
 A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-088.md:33`](../../record/terms.d/TERM-088.md)
 - [`record/terms.d/TERM-088.md:209`](../../record/terms.d/TERM-088.md)
@@ -7461,7 +7511,7 @@ Hyzen, Van den Bulck, Puppis, Kulig and Paulussen — Epistemic welfare and algo
 2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-403.md:155`](../../record/claims.d/CLAIM-403.md)
-- [`record/terms.d/TERM-064.md:162`](../../record/terms.d/TERM-064.md)
+- [`record/terms.d/TERM-064.md:161`](../../record/terms.d/TERM-064.md)
 
 ### [NOTE-1454](../../record/notes.d/NOTE-1454.md) — Skimmed
 
@@ -7994,6 +8044,15 @@ In transformer language models to about 1B parameters, a conjunction circuit for
 - [`record/literature.d/LIT-2006.md:35`](../../record/literature.d/LIT-2006.md)
 - [`record/literature.d/LIT-2006.md:65`](../../record/literature.d/LIT-2006.md)
 
+### [THEORY-1425](../../record/theory.d/THEORY-1425.md) — Proposed
+
+Rocks and colleagues show that in disordered spring networks a chosen linear strain response between a distant pair of target nodes and a pair of source nodes, and several such responses at once, can be produced with near-total success by removing about one percent of the bonds, chosen greedily with an analytic update built from the network's states of self-stress and compatible stress
+
+2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1557.md:39`](../../record/notes.d/NOTE-1557.md)
+- [`record/notes.d/NOTE-1557.md:191`](../../record/notes.d/NOTE-1557.md)
+
 ### [THEORY-143](../../record/theory.d/THEORY-143.md) — Proposed
 
 When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning
@@ -8020,6 +8079,24 @@ A group learning by trying needs diversity in what its members pursue that lasts
 
 - [`record/questions.d/QUESTION-047.md:25`](../../record/questions.d/QUESTION-047.md)
 - [`record/questions.d/QUESTION-047.md:54`](../../record/questions.d/QUESTION-047.md)
+
+### [THEORY-1480](../../record/theory.d/THEORY-1480.md) — Proposed
+
+Ostrom, Gibson, Shivakumar and Andersson hold that predictable aid weakens the recipient's own upkeep, as in the Samaritan's dilemma, so that assets built and repaired from outside decay and are rebuilt from outside, and that benefits outlast the aid only where beneficiaries state the demand, contribute their own assets, receive the benefits and share in deciding whether to continue
+
+2 citations in 2 files await a look; 37 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-600.md:19`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-603.md:233`](../../record/claims.d/CLAIM-603.md)
+
+### [THEORY-1483](../../record/theory.d/THEORY-1483.md) — Proposed
+
+In Azam, Devarajan and O'Connell's model, where the cost of taxing falls with depreciating revenue-collecting experience and grant aid fills the fiscal gap, aid that ignores this learning drives a country whose initial institutions are weaker than a threshold to aid financing the whole budget and the loss of its tax capacity, while one with stronger institutions converges to a low-aid state; a planner who internalizes the learning still has a stable high-aid, low-capacity equilibrium beside the efficient saddle path, which is reached only by an up-front cut in aid
+
+2 citations in 2 files await a look; 11 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-600.md:24`](../../record/claims.d/CLAIM-600.md)
+- [`record/claims.d/CLAIM-605.md:136`](../../record/claims.d/CLAIM-605.md)
 
 ### [THEORY-1524](../../record/theory.d/THEORY-1524.md) — Proposed
 
@@ -8172,7 +8249,7 @@ Perception is constitutively iconic, nonconceptual and nonpropositional and cogn
 2 citations in 1 file await a look; 1 other citation of it is acknowledged.
 
 - [`record/claims.d/CLAIM-341.md:19`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-341.md:141`](../../record/claims.d/CLAIM-341.md)
+- [`record/claims.d/CLAIM-341.md:140`](../../record/claims.d/CLAIM-341.md)
 
 ### [THEORY-457](../../record/theory.d/THEORY-457.md) — Proposed
 
@@ -8606,14 +8683,6 @@ Freedom of will, in the operational sense, is an agent's governance of its own g
 1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-086.md:155`](../../record/terms.d/TERM-086.md)
-
-### [CLAIM-561](../../record/claims.d/CLAIM-561.md) — Proposed
-
-When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste
-
-1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
-
-- [`record/terms.d/TERM-109.md:14`](../../record/terms.d/TERM-109.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -9791,37 +9860,21 @@ The source of a state's revenue shapes its capacity and accountability: revenue 
 
 - [`record/claims.d/CLAIM-603.md:233`](../../record/claims.d/CLAIM-603.md)
 
-### [THEORY-1462](../../record/theory.d/THEORY-1462.md) — Proposed
+### [THEORY-1477](../../record/theory.d/THEORY-1477.md) — Proposed
 
-Haushofer and Fehr hold that poverty causes stress and negative affect, and that these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it; they grant that the affect-to-choice link rests only on laboratory inductions, and that no nonlinearity strong enough to make a poverty trap has been shown
-
-1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-601.md:18`](../../record/claims.d/CLAIM-601.md)
-
-### [THEORY-1480](../../record/theory.d/THEORY-1480.md) — Proposed
-
-Ostrom, Gibson, Shivakumar and Andersson hold that predictable aid weakens the recipient's own upkeep, as in the Samaritan's dilemma, so that assets built and repaired from outside decay and are rebuilt from outside, and that benefits outlast the aid only where beneficiaries state the demand, contribute their own assets, receive the benefits and share in deciding whether to continue
-
-1 citation in 1 file awaits a look; 37 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-603.md:233`](../../record/claims.d/CLAIM-603.md)
-
-### [THEORY-1483](../../record/theory.d/THEORY-1483.md) — Proposed
-
-In Azam, Devarajan and O'Connell's model, where the cost of taxing falls with depreciating revenue-collecting experience and grant aid fills the fiscal gap, aid that ignores this learning drives a country whose initial institutions are weaker than a threshold to aid financing the whole budget and the loss of its tax capacity, while one with stronger institutions converges to a low-aid state; a planner who internalizes the learning still has a stable high-aid, low-capacity equilibrium beside the efficient saddle path, which is reached only by an up-front cut in aid
-
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-605.md:136`](../../record/claims.d/CLAIM-605.md)
-
-### [THEORY-1486](../../record/theory.d/THEORY-1486.md) — Proposed
-
-Banerjee, Duflo, Goldberg, Karlan, Osei, Parienté, Shapiro, Thuysbaert and Udry find, in six randomized trials, that a time-limited bundle of a productive asset, temporary consumption support, training and coaching raised the consumption, assets, income and working time of the poorest households, and that these gains held one year after all support ended; they read the durability as consistent with the program having unlocked a poverty trap, while noting that persistent but modest effects also fit a 'poverty flat' without one
+Planted tree nuclei facilitate forest recovery because, once established, they keep attracting seed dispersers and improving microsites, whereas bird perches and bat boxes leave no improved conditions and decay within years; nuclei must also spread, which is slow, unpredictable and rarely measured, and in tropical moist forest a nucleus needs about 64 m² to attract birds and shade out grass
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-601.md:19`](../../record/claims.d/CLAIM-601.md)
+- [`record/claims.d/CLAIM-600.md:17`](../../record/claims.d/CLAIM-600.md)
+
+### [THEORY-1509](../../record/theory.d/THEORY-1509.md) — Proposed
+
+A soliton of an integrable wave equation under weak loss does not break up but shrinks along its family of shapes at a rate set by energy balance, exponentially under linear damping and algebraically under viscous, Landau, boundary-layer and friction losses, while a shelf of non-soliton wave forms behind it wherever the loss does not conserve mass
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-600.md:20`](../../record/claims.d/CLAIM-600.md)
 
 ### [THEORY-1532](../../record/theory.d/THEORY-1532.md) — Proposed
 
@@ -9830,6 +9883,54 @@ A flat triangulated rigid origami sits at a singular point of its configuration 
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-1427.md:18`](../../record/theory.d/THEORY-1427.md)
+
+### [THEORY-1538](../../record/theory.d/THEORY-1538.md) — Proposed
+
+Supplying individuals by translocation while the habitat threat persists gives only ambiguous or transitory gains and perpetuates conservation reliance, which can fall below a reliance threshold only if extrinsic threats and intrinsic small-population limits are relieved together
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-1467.md:15`](../../record/theory.d/THEORY-1467.md)
+
+### [THEORY-1539](../../record/theory.d/THEORY-1539.md) — Proposed
+
+Poverty causes stress and negative affect, and these in turn make people more present-biased and risk-averse independent of credit constraints and background risk, so that behaviour taken as the poor's own preference may partly be an effect of poverty and may help perpetuate it
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-1462.md:16`](../../record/theory.d/THEORY-1462.md)
+
+### [THEORY-1540](../../record/theory.d/THEORY-1540.md) — Proposed
+
+Without perpetual active management of invasive plants, predators and water levels in Hawai'i's wetlands, the endangered Coot, Stilt and Gallinule would decline
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-1489.md:23`](../../record/theory.d/THEORY-1489.md)
+
+### [THEORY-1542](../../record/theory.d/THEORY-1542.md) — Proposed
+
+Restoring the pressure-free conditions of a degraded ecosystem can fail because the degraded phase leaves a reinforcing legacy of its own, such as hardwoods that stop fire spreading, sludge that favours a floating competitor, or eroded beaver sites, so recovery needs direct biotic manipulation, by removal or by reintroduction in the right order, besides abiotic restoration
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-1468.md:15`](../../record/theory.d/THEORY-1468.md)
+
+### [THEORY-1546](../../record/theory.d/THEORY-1546.md) — Proposed
+
+Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity; non-participation is the most pressing threat to it, and the organization answered it in part by reforming how theme camps are registered and placed
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-1497.md:23`](../../record/theory.d/THEORY-1497.md)
+
+### [THEORY-1550](../../record/theory.d/THEORY-1550.md) — Proposed
+
+An international gift its recipient cannot repay leaves the recipient inferior and the relation resentful, and circular (kula-like) reciprocity that lets the recipient give back is the better design for aid between nations
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-1474.md:23`](../../record/theory.d/THEORY-1474.md)
 
 ### [THEORY-182](../../record/theory.d/THEORY-182.md) — Proposed
 

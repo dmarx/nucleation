@@ -24,7 +24,7 @@ history:
     prestress breaking a geometric symmetry redirects and localizes those
     forces without changing the mechanisms. The promote_when asked for an
     independent derivation, which the title does not assert, and moves
-    unchanged to QUESTION-tmphi77o. The old condition: An independent
+    unchanged to QUESTION-423. The old condition: An independent
     derivation or computation, on a network other than the paper's two
     examples, confirms that the generalized index theorem holds with
     prestress and heterogeneous stiffness; that the zero-displacement
@@ -34,7 +34,7 @@ history:
     redirects and localizes those forces while leaving the linear zero
     modes unchanged. It now corroborates CLAIM-588, from whose grounds it
     moved under ADR-058, and the status review's own sharpening,
-    CLAIM-tmp5iqbr.
+    CLAIM-609.
 tags:
 - natural-sciences
 - mathematics
@@ -42,10 +42,10 @@ date: '2026-11-05'
 source:
 - LIT-2112
 bears_on:
-- QUESTION-tmphi77o
+- QUESTION-423
 corroborates:
 - CLAIM-588
-- CLAIM-tmp5iqbr
+- CLAIM-609
 summary: >-
   Rocks and Mehta (2024; arXiv 2022), [LIT-2112](../literature.d/LIT-2112.md), read in full in [NOTE-1557](../notes.d/NOTE-1557.md),
   the proof appendices included. Held as what the authors show: an index
@@ -58,9 +58,9 @@ summary: >-
   mechanisms unchanged. It is a linear theory: it does not say when
   prestress makes a structure rigid, nor whether zero modes extend to
   finite motions. Whether an independent derivation confirms it is
-  [QUESTION-tmphi77o](../questions.d/QUESTION-tmphi77o.md).
+  [QUESTION-423](../questions.d/QUESTION-423.md).
 ---
-<!-- inactive-ok-file: CLAIM-tmp5iqbr — Proposed and new; the status review's own sharpening of this reading, left for the next pass to rule on -->
+<!-- inactive-ok-file: CLAIM-609 — Proposed and new; the status review's own sharpening of this reading, left for the next pass to rule on -->
 
 # THEORY-1414: Rocks and Mehta show that stating Maxwell–Calladine counting in terms of elastic susceptibilities gives an index theorem that holds with prestress and heterogeneous stiffness, in which the zero-displacement tensions are the states of self-stress while the forces that excite each linear zero mode follow the joint symmetry of geometry and energy, and on two worked networks prestress breaking a geometric symmetry redirects those forces and localizes them to the prestressed bonds without changing the mechanisms
 
@@ -97,7 +97,7 @@ Rocks and Mehta (2024; arXiv v1 2022-08-15), [LIT-2112](../literature.d/LIT-2112
   number of LZEFs equals the number of LZMs and the number of ZDTs the number
   of SSSs; what changes is which forces and tensions they are.
 - That stiffness alone redirects the forces. The examples use uniform
-  stiffness throughout; the status review's own result ([CLAIM-tmp5iqbr](../claims.d/CLAIM-tmp5iqbr.md))
+  stiffness throughout; the status review's own result ([CLAIM-609](../claims.d/CLAIM-609.md))
   shows that, for a linear zero mode, it cannot.
 
 ## Note of 2026-11-06: what holds it back
@@ -106,4 +106,4 @@ The title says the authors show the generalized index theorem and Theorems 1 and
 
 ## Note of 2026-11-06: read in full, narrowed and promoted
 
-[NOTE-1557](../notes.d/NOTE-1557.md) version 2 reads Appendices A to D. The index theorem is proved in Sec. IV by rank–nullity. Theorems 1 and 2 and their corollaries are proved in Appendix B, and each step checks. The title's localization clause stated generally what the paper shows on two networks, a diamond network and a 4×4 periodic square lattice, so it is now hedged to those two. The demand for an independent derivation is [QUESTION-tmphi77o](../questions.d/QUESTION-tmphi77o.md). The status review's [CLAIM-tmp5iqbr](../claims.d/CLAIM-tmp5iqbr.md) derives the localization in general, in the limit of a vanishing regularizer. That result is the record's own and is not the paper's.
+[NOTE-1557](../notes.d/NOTE-1557.md) version 2 reads Appendices A to D. The index theorem is proved in Sec. IV by rank–nullity. Theorems 1 and 2 and their corollaries are proved in Appendix B, and each step checks. The title's localization clause stated generally what the paper shows on two networks, a diamond network and a 4×4 periodic square lattice, so it is now hedged to those two. The demand for an independent derivation is [QUESTION-423](../questions.d/QUESTION-423.md). The status review's [CLAIM-609](../claims.d/CLAIM-609.md) derives the localization in general, in the limit of a vanishing regularizer. That result is the record's own and is not the paper's.

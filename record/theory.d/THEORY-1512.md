@@ -21,7 +21,7 @@ history:
     (doi:10.1186/cc4996) is unread; settling the discrepancy is left to
     the wide form. Its promote_when asked that the authors be right,
     which is more than the title asserts; it moves word for word to
-    THEORY-tmpvwl4g, Proposed, which extends this entry (ADR-047 kind
+    THEORY-1552, Proposed, which extends this entry (ADR-047 kind
     1). The old condition: The randomized trials the review summarizes
     are read, at least Esteban et al. (1995) and Brochard et al. (1994)
     and a trial of immediate extubation against gradual withdrawal after
@@ -46,7 +46,7 @@ summary: >-
   2006 correction was not read. It does not settle pressure support against
   T-tube trials, on which the two trials disagree.
 ---
-<!-- inactive-ok-file: THEORY-tmpvwl4g — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: THEORY-1552 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2213 CLAIM-600 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
 # THEORY-1512: Alía and Esteban hold, from the randomized weaning trials of the 1990s, that ventilation can be withdrawn abruptly in about three quarters of patients whose cause of respiratory failure has improved, readiness being tested by a trial of unassisted breathing on T-tube or low pressure support, for 30 or 120 minutes alike, and immediate extubation after a passed trial shortening ventilation compared with gradual withdrawal; and that the patients who fail need gradual withdrawal while the causes are corrected, where SIMV was the least efficient method in both trials and once-daily T-tube trials or reductions of pressure support did better
@@ -98,4 +98,4 @@ it gives (Brochard 1994: pressure support 5.7 days against 9.3 for T-piece
 and SIMV combined; Esteban 1995: median 5 days on SIMV, 4 on pressure
 support, 3 on T-piece) agree with the body. The title follows the body. The
 2006 correction (doi:10.1186/cc4996) was not read; the discrepancy is
-carried to [THEORY-tmpvwl4g](THEORY-tmpvwl4g.md), which extends this entry.
+carried to [THEORY-1552](THEORY-1552.md), which extends this entry.

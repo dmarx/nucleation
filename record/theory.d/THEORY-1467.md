@@ -12,7 +12,7 @@ history:
     Promoted at the status review's ruling (the owner delegated these
     rulings), under ADR-065: the title reports what the authors argue,
     and NOTE-1670 reads the article in full. Whether they are right
-    moves to THEORY-tmpamiio, which extends this entry and keeps the
+    moves to THEORY-1538, which extends this entry and keeps the
     old condition word for word: 'A study of translocated or
     genetically rescued populations, followed after supplementation
     stopped, finds that populations whose extrinsic threat persisted

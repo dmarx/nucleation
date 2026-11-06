@@ -28,7 +28,7 @@ history:
     concentration; they propose, without testing it, that whole origami
     escapes this through cooperativity and strand displacement along a
     nucleation front'. The condition asked for an independent
-    measurement, and it moves unchanged to QUESTION-tmp1jy98, which
+    measurement, and it moves unchanged to QUESTION-410, which
     lists it under this entry's code; this entry bears_on it: 'An
     independent measurement of single-fold yield against staple excess,
     by a second lab or with a reporter that separates the blocked from
@@ -43,7 +43,7 @@ date: '2026-11-05'
 source:
 - LIT-2133
 bears_on:
-- QUESTION-tmp1jy98
+- QUESTION-410
 corroborates:
 - CLAIM-598
 summary: >-

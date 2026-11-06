@@ -15,7 +15,7 @@ history:
     in the article's text, which NOTE-1660 reads in full. The
     condition's first route, confirmation in Appendix S1, names no
     discrepancy and is dropped; its second, an independent
-    replicated comparison, moves to QUESTION-tmp3t9hj. It read: 'The
+    replicated comparison, moves to QUESTION-411. It read: 'The
     treatment contrasts are confirmed in this paper's Appendix S1
     tables, or by an independent replicated comparison of applied
     nucleation, plantation and natural regeneration at 15 years or

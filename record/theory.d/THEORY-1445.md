@@ -13,7 +13,7 @@ history:
     rulings), under ADR-065: the title reports what Aksel and colleagues
     measured by gel, and NOTE-1642 reads the version of record and its
     SI Appendix in full. The condition asked for an independent
-    reproduction, and it moves unchanged to QUESTION-tmpdtizm, which
+    reproduction, and it moves unchanged to QUESTION-419, which
     lists it under this entry's code; this entry bears_on it: 'An
     independent group, on DNA origami designs whose scaffold route and
     helix layout are held fixed, reproduces a yield gain of comparable
@@ -27,7 +27,7 @@ date: '2026-11-05'
 source:
 - LIT-2125
 bears_on:
-- QUESTION-tmpdtizm
+- QUESTION-419
 summary: >-
   Aksel, Navarro, Fong and Douglas (2024), [LIT-2125](../literature.d/LIT-2125.md), read in
   [NOTE-1642](../notes.d/NOTE-1642.md). The yields are integrated gel intensity in a

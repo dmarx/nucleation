@@ -14,7 +14,7 @@ history:
     read in full in NOTE-1705, and nothing in the record contradicts the
     report. Its promote_when asked that the authors be right, which is
     more than the title asserts; it moves word for word to
-    THEORY-tmpqusje, Proposed, which extends this entry (ADR-047 kind
+    THEORY-1549, Proposed, which extends this entry (ADR-047 kind
     1). The old condition: A further independent guideline or systematic
     review reaches the same four points: that supraphysiologic
     glucocorticoid doses invariably suppress the HPA axis; that recovery
@@ -31,7 +31,7 @@ source:
 - LIT-2218
 summary: >-
   Beuschlein et al. (2024), [LIT-2218](../literature.d/LIT-2218.md), read in [NOTE-1705](../notes.d/NOTE-1705.md) from the
-  open copy on Europe PMC, supplementary GRADE tables unread. Held as a report of what the source holds, its truth left to THEORY-tmpqusje; the caveats: it
+  open copy on Europe PMC, supplementary GRADE tables unread. Held as a report of what the source holds, its truth left to THEORY-1549; the caveats: it
   is a consensus guideline. The suppression and mechanism are cited, the
   atrophy step from rodent models; recovery rests on Broersen et al.
   (2015) and three later low-quality cohorts; the taper schedule is
@@ -40,7 +40,7 @@ summary: >-
   to recovery. Its Table 6 lists Broersen et al.'s asthma dose and
   duration strata as figures for inhaled glucocorticoids.
 ---
-<!-- inactive-ok-file: THEORY-tmpqusje — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: THEORY-1549 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 
 # THEORY-1516: Beuschlein and colleagues, for the European Society of Endocrinology and the Endocrine Society, hold that exogenous glucocorticoids at anti-inflammatory doses invariably suppress the HPA axis by negative feedback and that prolonged use leads to pituitary hyporesponsiveness and adrenal atrophy; that after withdrawal the axis recovers first centrally and then adrenally, over months to years and incompletely in a minority; that courses under 3–4 weeks can be stopped without taper, while longer ones are tapered, once the disease is controlled, quickly at high doses and slowly near the physiologic dose, with replacement kept low enough to leave a stimulus for recovery; and that no study has compared taper schemes
 

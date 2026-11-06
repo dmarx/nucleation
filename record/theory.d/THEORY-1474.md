@@ -20,7 +20,7 @@ history:
     Marshall Plan in France, leaves the recipient inferior and the
     relation resentful, and that circular (kula-like) reciprocity that
     lets the recipient give back is the better design for aid between
-    nations'. Whether the thesis is true moves to THEORY-tmpsmg15,
+    nations'. Whether the thesis is true moves to THEORY-1550,
     which extends this entry and keeps the old condition word for
     word: 'A study of aid relations between nations or societies, read
     in full, showing that recipients unable to reciprocate report or

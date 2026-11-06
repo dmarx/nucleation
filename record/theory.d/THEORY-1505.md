@@ -26,7 +26,7 @@ history:
     hedge that the results are not direct evidence of multiple
     equilibria (kind 3, note only). The version-of-record route
     names no discrepancy and is dropped (ADR-065 §4); the
-    re-estimate route moves to QUESTION-tmphc3cr. It read: 'The QJE
+    re-estimate route moves to QUESTION-422. It read: 'The QJE
     version of record (127(2), 2012) read and found to report, as WP
     11-38 does, that the portage effect on density is larger in the
     late 20th century than in the 19th relative to 1850, that the

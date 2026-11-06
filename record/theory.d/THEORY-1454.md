@@ -27,7 +27,7 @@ history:
     and short, entropically cheap folds then making neighbouring folds
     cheaper'. The condition asked for the unread supplement and an
     independent measurement, and it moves unchanged to
-    QUESTION-tmp1jy98, which lists it under this entry's code; this
+    QUESTION-410, which lists it under this entry's code; this
     entry bears_on it: 'A reading of the paper's supplement confirms the
     affine correction and the fits as described, and an independent
     measurement of a single staple fold on a DNA origami scaffold, by
@@ -43,7 +43,7 @@ date: '2026-11-05'
 source:
 - LIT-2117
 bears_on:
-- QUESTION-tmp1jy98
+- QUESTION-410
 summary: >-
   Majikes, Patrone, Schiffels, Zwolak, Kearsley, Forry and Liddle (2020),
   [LIT-2117](../literature.d/LIT-2117.md), read in [NOTE-1632](../notes.d/NOTE-1632.md) (main text, captions and tables;

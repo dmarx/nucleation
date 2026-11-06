@@ -14,7 +14,7 @@ history:
     authors find, and NOTE-1673 reads the working draft in full, the
     same paper at an earlier stage with no discrepancy named. The
     condition's version-of-record route is dropped (ADR-065 §4); its
-    independent-study route moves to QUESTION-tmpukxgj. The source
+    independent-study route moves to QUESTION-430. The source
     does not hedge the rise in years 3 to 5 ('These declines are
     offset, however, by increases of 0.5 and 1.21 percentage points
     three to five years after winning'), so the title adds none. It

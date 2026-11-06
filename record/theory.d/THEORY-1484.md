@@ -14,7 +14,7 @@ history:
     authors' own pre-registered replications found, with their
     weaker and reversed results kept, and NOTE-1686 reads the
     write-up in full. The condition asked for a replication by
-    another team, and it moves unchanged to QUESTION-tmp1dc6w: 'An
+    another team, and it moves unchanged to QUESTION-409: 'An
     independent pre-registered replication, by a team other than the
     authors, of the Angry Blueberries or a Family Feud borrowing
     experiment finds that poor-budget players borrow a larger share

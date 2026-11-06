@@ -23,7 +23,7 @@ history:
     misshapen products, whereas flat and six-helix-bundle origami fold
     in 72-minute ramps'. The condition asked for the Supplementary
     Information or an independent study, and it moves unchanged to
-    QUESTION-tmpdtizm, which lists it under this entry's code; this
+    QUESTION-419, which lists it under this entry's code; this
     entry bears_on it: 'The paper's Supplementary Information, or a
     later independent study of multilayer honeycomb DNA origami, is read
     and confirms that monomer yield is low under ramps of a few hours
@@ -38,7 +38,7 @@ date: '2026-11-05'
 source:
 - LIT-2130
 bears_on:
-- QUESTION-tmpdtizm
+- QUESTION-419
 summary: >-
   Douglas, Dietz, Liedl, Högberg, Graf and Shih (2009), [LIT-2130](../literature.d/LIT-2130.md), read
   in [NOTE-1629](../notes.d/NOTE-1629.md) (main text and captions; the Supplementary Information

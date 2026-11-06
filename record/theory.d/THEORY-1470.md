@@ -14,7 +14,7 @@ history:
     and NOTE-1683 reads the working paper's final revision in full.
     The demand for the AEJ version names no discrepancy and is
     dropped; the NOTE records the copy read. The refutation clause
-    moves unchanged to QUESTION-tmpgbqqs. The old condition read: 'The
+    moves unchanged to QUESTION-420. The old condition read: 'The
     AEJ version of record is read and reports, from the same
     enabling-legislation instrument, 1980 estimates per $100 of grants
     per 1950 resident of about 2.4% on median family income, 6.9% on

@@ -6,8 +6,8 @@
 
 **Resource-bounded realizability and individuation** — what a constrained system can realize, reach, tell apart and become under computational and physical bounds — compatibility against reachability, budgeted composition of processes, finding against navigating, restricted and enriched Yoneda profiles, isomorphism against persistence, with origami as the laboratory (ADR-073).
 
-0 of 53 ARG documents. Back to the [full index](../README.md).
+1 of 54 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-054](../../../record/arguments.d/ARG-054.md) | Rocks and Mehta's prestress, placed on different bonds of a self-stress space fixed by geometry, changes which force excites a zero mode and retunes stability while the zero modes and self-stresses stay fixed, and so gives a mechanical parallel to redistributing and exploiting a mismatch without relief, though it shows the exciting force moving and not a given load | From Rocks and Mehta ([THEORY-1414](../../../record/theory.d/THEORY-1414.md)), read in full in [NOTE-1557](../../../record/notes.d/NOTE-1557.md), to the second and third rows of [CLAIM-588](../../../record/claims.d/CLAIM-588.md)'s table of design targets. Active as a parallel, not a witness, so the reading corroborates [CLAIM-588](../../../record/claims.d/CLAIM-588.md) and does not ground it. What localizes in the paper is the force that excites a mode, not the load. The designer places the load, and the examples add it rather than move it. Filed at the twenty-eighth status review's ruling (the owner delegated these rulings). The wording is the status review's (Claude, in this session); adopting it is the owner's call. | Active |

@@ -15,7 +15,7 @@ history:
     report. The title reports the review's account; the numbers are its
     restatement of studies not read, which the summary says. Its
     promote_when asked that the authors be right, which is more than the
-    title asserts; it moves word for word to THEORY-tmpegov9, Proposed,
+    title asserts; it moves word for word to THEORY-1541, Proposed,
     which extends this entry (ADR-047 kind 1). The old condition: The
     primary human studies the review summarizes are read, at least
     Levine et al. (2008) and one other biopsy series in ventilated
@@ -42,7 +42,7 @@ summary: >-
   animal. It does not show that the loss causes failed weaning, or whether
   and how fast the diaphragm recovers.
 ---
-<!-- inactive-ok-file: THEORY-tmpegov9 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: THEORY-1541 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2212 CLAIM-600 CLAIM-558 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
 # THEORY-1511: Jaber, Jung, Matecki and Petrof review evidence that fully controlled mechanical ventilation weakens, shrinks and injures the human diaphragm as it does in animals: biopsies from brain-dead organ donors ventilated for hours to days show diaphragm fibre atrophy and injury with oxidative stress and raised proteolysis markers, not seen in the pectoralis, the changes growing with the duration of ventilation, and diaphragm twitch pressure in ventilated patients falls by about a third in six days; in animals, keeping spontaneous effort lessens the loss but leaves a residual deficit

@@ -11,8 +11,8 @@ history:
   note: >-
     THEORY-1504 was promoted on 2026-11-06 as a report of Grelu and
     Akhmediev's account, and the account itself was split off to
-    THEORY-tmppeysf, Proposed. The claim's table uses the account as
-    true, so its ground moves from THEORY-1504 to THEORY-tmppeysf
+    THEORY-1548, Proposed. The claim's table uses the account as
+    true, so its ground moves from THEORY-1504 to THEORY-1548
     (ADR-058: a claim that uses a reading's contested thesis keeps it in
     grounds), at the status review's ruling (the owner delegated these
     rulings). The body's citations of NOTE-1688 are unchanged. No status
@@ -41,7 +41,7 @@ complements:
 - CLAIM-600
 - CLAIM-597
 grounds:
-- THEORY-tmppeysf
+- THEORY-1548
 - THEORY-1500
 - THEORY-1506
 - THEORY-1502
@@ -80,7 +80,7 @@ summary: >-
   and by whether an outflow is measured. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1500 THEORY-1501 THEORY-1502 THEORY-1506 THEORY-1507 THEORY-1509 THEORY-tmppeysf — Proposed; the readings that hold this claim back, cited as open -->
+<!-- inactive-ok-file: THEORY-1500 THEORY-1501 THEORY-1502 THEORY-1506 THEORY-1507 THEORY-1509 THEORY-1548 — Proposed; the readings that hold this claim back, cited as open -->
 <!-- inactive-ok-file: CLAIM-600 CLAIM-157 NOTE-1698 NOTE-1694 — Proposed or Skimmed; claims, a term and readings this one rests on or extends, cited as open -->
 
 # CLAIM-606: A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
@@ -150,7 +150,7 @@ Skimmed ([NOTE-1694](../notes.d/NOTE-1694.md)), and [THEORY-1500](../theory.d/TH
 [THEORY-1509](../theory.d/THEORY-1509.md) state the conservative, dissipative and oscillon routes
 generally and stay Proposed under their strict conditions, as [THEORY-1502](../theory.d/THEORY-1502.md)
 does on a Skimmed reading; the dissipative contrast is now grounded on
-[THEORY-tmppeysf](../theory.d/THEORY-tmppeysf.md), the Proposed general form of Grelu and Akhmediev's account.
+[THEORY-1548](../theory.d/THEORY-1548.md), the Proposed general form of Grelu and Akhmediev's account.
 
 ## Note of 2026-11-06: the Kerr case and [CLAIM-604](CLAIM-604.md)'s scoped clause
 

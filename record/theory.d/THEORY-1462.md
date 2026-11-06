@@ -13,7 +13,7 @@ history:
     rulings), under ADR-065: the title reports what the authors hold,
     with their concessions, and NOTE-1681 reads the Review in full.
     Whether the chain holds outside the laboratory moves to
-    THEORY-tmpc68tt, which extends this entry and keeps the old
+    THEORY-1539, which extends this entry and keeps the old
     condition word for word: 'A randomised or quasi-experimental field
     study finds that reducing poverty (for example by a cash transfer)
     lowers measured stress or negative affect and, through that

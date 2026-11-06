@@ -14,7 +14,7 @@ history:
     read in full in NOTE-1708, and nothing in the record contradicts the
     report. Its promote_when asked that the authors be right, which is
     more than the title asserts; it moves word for word to
-    THEORY-tmplu8zt, Proposed, which extends this entry (ADR-047 kind
+    THEORY-1547, Proposed, which extends this entry (ADR-047 kind
     1). The old condition: A controlled study, or a review of controlled
     studies, finds that within tutored problem solving, where the
     learner does the steps and help is added on failure, adding
@@ -31,7 +31,7 @@ source:
 - LIT-2226
 summary: >-
   Koedinger and Aleven (2007), [LIT-2226](../literature.d/LIT-2226.md), read in full in
-  [NOTE-1708](../notes.d/NOTE-1708.md). Held as a report of what the source holds, its truth left to THEORY-tmplu8zt; the caveats: a narrative review by the Cognitive Tutors'
+  [NOTE-1708](../notes.d/NOTE-1708.md). Held as a report of what the source holds, its truth left to THEORY-1547; the caveats: a narrative review by the Cognitive Tutors'
   developers, whose component results mostly come without effect sizes,
   and whose fading result rests on one conference paper. It says that
   "within a context of tutored problem solving, information should be
@@ -39,7 +39,7 @@ summary: >-
   general, and it gives no tested switch point. It bears on [CLAIM-602](../claims.d/CLAIM-602.md) and
   [CLAIM-600](../claims.d/CLAIM-600.md) as the case of capacity-first support in a learner.
 ---
-<!-- inactive-ok-file: THEORY-tmplu8zt — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: THEORY-1547 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: CLAIM-600 — Proposed; cited from the reading of Koedinger and Aleven (2007) as open -->
 
 # THEORY-1520: Koedinger and Aleven argue that instruction faces an assistance dilemma, help given buying accuracy and efficiency at the cost of shallow processing and help withheld buying generation and memory engagement at the cost of floundering, and that within tutored problem solving, where the learner does the steps and help is added only on failure, the experiments they review favour more help rather than less, support shifting from worked examples toward problems and as-needed hints as competence grows, learners left to ask for help asking badly, and the point at which to switch between giving and withholding unknown

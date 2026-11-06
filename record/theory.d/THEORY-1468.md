@@ -12,7 +12,7 @@ history:
     Promoted at the status review's ruling (the owner delegated these
     rulings), under ADR-065: the title reports the authors' account,
     and NOTE-1677 reads the article in full. Whether the account holds
-    in the cases it cites moves to THEORY-tmph2ssk, which extends this
+    in the cases it cites moves to THEORY-1542, which extends this
     entry and keeps the old condition word for word: 'One of the cases
     the authors name (Martin & Kirkman 2009 on fire-suppressed
     depression wetlands; Wolf et al. 2007 on Yellowstone willows; the

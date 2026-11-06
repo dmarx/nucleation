@@ -15,7 +15,7 @@ history:
     report. The demand for a second reader of pp. 47–50 asks for a check
     of the reading, not for anything the title asserts, and is dropped;
     NOTE-1700 quotes the Hudson Bay case it names (p. 50). The authors'
-    thesis, stated generally, is filed beside it as THEORY-tmpihqep,
+    thesis, stated generally, is filed beside it as THEORY-1544,
     Proposed, which extends this entry (ADR-047 kind 1), under a
     condition of its own. The old condition: A second reader of pp.
     47–50 of the paper confirms that it presents at least one case in
@@ -46,7 +46,7 @@ summary: >-
   (2018), [THEORY-1468](THEORY-1468.md), and tested against Schröder et al. (2005),
   [THEORY-1485](THEORY-1485.md).
 ---
-<!-- inactive-ok-file: THEORY-tmpihqep — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
+<!-- inactive-ok-file: THEORY-1544 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: CLAIM-600 — Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
 
 # THEORY-1510: On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice

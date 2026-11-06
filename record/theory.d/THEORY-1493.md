@@ -14,7 +14,7 @@ history:
     found and how the authors read it, with their hedge kept, and
     NOTE-1667 reads the working paper in full. The condition asked
     for a follow-up at another site, and it moves unchanged to
-    QUESTION-tmp5ca3z, which it shares with THEORY-1486's condition
+    QUESTION-413, which it shares with THEORY-1486's condition
     and on which this entry now bears: 'A randomized long-term
     follow-up of a time-limited graduation program, at another site,
     finds treatment effects on consumption or income that remain
@@ -30,7 +30,7 @@ date: '2026-11-05'
 source:
 - LIT-2170
 bears_on:
-- QUESTION-tmp5ca3z
+- QUESTION-413
 summary: >-
   Banerjee, Duflo & Sharma (2021), [LIT-2170](../literature.d/LIT-2170.md), read in full in
   [NOTE-1667](../notes.d/NOTE-1667.md) as the NBER working paper (the version of record and the

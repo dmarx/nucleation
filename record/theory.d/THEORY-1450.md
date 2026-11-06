@@ -22,7 +22,7 @@ history:
     lock-duplex length, activation at about 10 pM for 16 to 23 bp
     against about 1 nM for 30 to 44 bp'. The condition asked for the
     unread Supporting Online Material or an independent replication, and
-    it moves unchanged to QUESTION-tmpdtizm, which lists it under this
+    it moves unchanged to QUESTION-419, which lists it under this
     entry's code; this entry bears_on it: 'A reading of the Supporting
     Online Material, or an independent replication, confirms in
     quantitative form the AND truth table across the lock-pair versions
@@ -35,7 +35,7 @@ date: '2026-11-05'
 source:
 - LIT-2136
 bears_on:
-- QUESTION-tmpdtizm
+- QUESTION-419
 summary: >-
   Douglas, Bachelet and Church (2012), [LIT-2136](../literature.d/LIT-2136.md), read in [NOTE-1634](../notes.d/NOTE-1634.md)
   (main text and captions; the Supporting Online Material, with the

@@ -43,7 +43,7 @@ summary: >-
 supports:
 - CLAIM-354
 ---
-<!-- inactive-ok-file: CLAIM-tmp5iqbr — Proposed and new; the status review's own result from Rocks and Mehta, cited as checked, left for the next pass to rule on -->
+<!-- inactive-ok-file: CLAIM-609 — Proposed and new; the status review's own result from Rocks and Mehta, cited as checked, left for the next pass to rule on -->
 <!-- inactive-ok-file: NOTE-1592 NOTE-1596 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 <!-- inactive-ok-file: CASE-214 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
@@ -128,4 +128,4 @@ Two entries filed from A's proposals bear on it. [CASE-214](../cases.d/CASE-214.
 
 ## Note of 2026-11-06: Rocks and Mehta, read in full
 
-The reading of Rocks and Mehta in full ([NOTE-1557](../notes.d/NOTE-1557.md), version 2) qualifies one phrase of the note above. Which force excites a zero mode depends on prestress, not on stiffness. For a zero mode u the force is (T + λI)u, and stiffness drops out ([CLAIM-tmp5iqbr](CLAIM-tmp5iqbr.md), the status review's own result, checked by a second checker). Stiffness enters the rest of the response and the energetic stiffness. The analogy stands. No status changes.
+The reading of Rocks and Mehta in full ([NOTE-1557](../notes.d/NOTE-1557.md), version 2) qualifies one phrase of the note above. Which force excites a zero mode depends on prestress, not on stiffness. For a zero mode u the force is (T + λI)u, and stiffness drops out ([CLAIM-609](CLAIM-609.md), the status review's own result, checked by a second checker). Stiffness enters the rest of the response and the energetic stiffness. The analogy stands. No status changes.

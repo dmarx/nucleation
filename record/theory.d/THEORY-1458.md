@@ -15,7 +15,7 @@ history:
     full. The authors' own replications (THEORY-1484) found the
     borrowing effects smaller, which does not contradict this report.
     The condition asked for an independent pre-registered replication,
-    and it moves unchanged to QUESTION-tmp1dc6w, which lists it under
+    and it moves unchanged to QUESTION-409, which lists it under
     this entry's code; this entry bears_on it: 'An independent
     pre-registered replication, by a team other than the authors, of a
     borrowing game with budgets of seconds or of guesses finds that
@@ -29,7 +29,7 @@ date: '2026-11-05'
 source:
 - LIT-2171
 bears_on:
-- QUESTION-tmp1dc6w
+- QUESTION-409
 summary: >-
   Shah, Shafir & Mullainathan, working paper (before 2012), [LIT-2171](../literature.d/LIT-2171.md),
   read in [NOTE-1653](../notes.d/NOTE-1653.md): an earlier version of their Science paper,

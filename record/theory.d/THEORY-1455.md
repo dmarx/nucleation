@@ -14,7 +14,7 @@ history:
     and colleagues measured and their attribution, and NOTE-1627 reads
     the version of record in full. The condition asked for an
     independent study or more exemplars per design, and it moves
-    unchanged to QUESTION-tmpdtizm, which lists it under this entry's
+    unchanged to QUESTION-419, which lists it under this entry's
     code; this entry bears_on it: 'An independent study, or one testing
     more than one high-off-target sequence per design, reproduces the
     ordering at fixed design and protocol: scaffold sequences scored
@@ -29,7 +29,7 @@ date: '2026-11-05'
 source:
 - LIT-2123
 bears_on:
-- QUESTION-tmpdtizm
+- QUESTION-419
 summary: >-
   Shirt-Ediss, Torelli, Navarro, Khamis, Kaplan, Trewby, Elezgaray,
   Moradzadeh, Haydell, Keppner, Famulok, Armstrong and Krasnogor (2026),

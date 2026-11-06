@@ -27,7 +27,7 @@ history:
     feedback in which enough owners able to invest keep up the
     infrastructure that draws their investment'. The demand for the
     JPE version names no discrepancy and is dropped. Its alternative
-    moves to QUESTION-tmpb52ny. The old condition read: 'The version
+    moves to QUESTION-416. The old condition read: 'The version
     of record (Journal of Political Economy 129(7), 2021) is read and
     reports the same de novo estimates, within sampling error, for
     housing quality (the imagery and survey indexes and hedonic value)

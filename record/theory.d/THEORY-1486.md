@@ -14,7 +14,7 @@ history:
     trials found, with the authors' poverty-flat hedge kept, and
     NOTE-1669 reads the article in full. The condition asked for a
     trial at another site, and it moves unchanged to
-    QUESTION-tmp5ca3z, which it shares with THEORY-1493's condition
+    QUESTION-413, which it shares with THEORY-1493's condition
     and on which this entry now bears: 'A further randomized
     evaluation of a time-limited asset-and-support program for
     ultra-poor households, at a site not in this study, finds
@@ -29,7 +29,7 @@ date: '2026-11-05'
 source:
 - LIT-2160
 bears_on:
-- QUESTION-tmp5ca3z
+- QUESTION-413
 summary: >-
   Banerjee et al. (2015), [LIT-2160](../literature.d/LIT-2160.md), read in full in [NOTE-1669](../notes.d/NOTE-1669.md)
   (supplementary tables not read). The sharp edges: six RCTs with about 91%

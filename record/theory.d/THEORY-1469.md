@@ -14,7 +14,7 @@ history:
     reports what one replication measured, with its hedges, and
     NOTE-1675 reads the replication report and the original authors'
     comment in full. The condition asked for a re-analysis or a
-    further replication and moves unchanged to QUESTION-tmp4tilp: 'A
+    further replication and moves unchanged to QUESTION-412: 'A
     re-analysis of the Social Sciences Replication Project's data for
     this study (osf.io/9fjc4), or a further independent replication of
     Study 1 of Shah, Mullainathan and Shafir (2012), also finds no

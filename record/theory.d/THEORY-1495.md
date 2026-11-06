@@ -23,7 +23,7 @@ history:
     asserted the model's result rather than reporting it (kind 3,
     note only). The condition, a check of Table 1 against its
     sources and a reproduction of the model, moves unchanged to
-    QUESTION-tmpcfetq: 'Table 1 is checked against its sources and
+    QUESTION-417: 'Table 1 is checked against its sources and
     shows hatchery salmonids' relative fitness in the wild generally
     below one and lowest, at lifetime 0.02–0.37, for nonlocal
     segregated stocks; and Eqn (3) with Figs 2–3 is reproduced,

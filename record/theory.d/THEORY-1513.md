@@ -17,7 +17,7 @@ history:
     says; the clause asking for nonzero shares in every stratum is met
     by Figure 1 and is quoted below only as part of the old condition.
     The replication and refutation clauses move word for word to
-    QUESTION-tmpwpaqt. The old condition: An independent pooled analysis
+    QUESTION-431. The old condition: An independent pooled analysis
     or large cohort, ideally with individual-patient data and testing at
     least 24 hours after the last dose, reproduces three things: the
     route ordering, with oral and intra-articular use far above nasal,
@@ -33,7 +33,7 @@ date: '2026-11-05'
 source:
 - LIT-2214
 bears_on:
-- QUESTION-tmpwpaqt
+- QUESTION-431
 summary: >-
   Broersen, Pereira, Jørgensen and Dekkers (2015), [LIT-2214](../literature.d/LIT-2214.md), read in
   [NOTE-1703](../notes.d/NOTE-1703.md) from the reprint in Broersen's 2019 thesis, supplements

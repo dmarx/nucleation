@@ -15,7 +15,7 @@ history:
     kept, and nothing in the record contradicts it. The robustness
     section, searched but not read line by line, carries no clause of
     the title. The replication and refutation clauses move word for word
-    to QUESTION-tmp07gio. The old condition: The positive interaction of
+    to QUESTION-408. The old condition: The positive interaction of
     R&D intensity with distance to the productivity frontier on
     productivity growth is replicated in an independent cross-country
     industry or firm panel, or holds under an external instrument for
@@ -27,7 +27,7 @@ date: '2026-11-05'
 source:
 - LIT-2229
 bears_on:
-- QUESTION-tmp07gio
+- QUESTION-408
 summary: >-
   Griffith, Redding and Van Reenen (2004), [LIT-2229](../literature.d/LIT-2229.md), read in
   [NOTE-1709](../notes.d/NOTE-1709.md), the robustness section skimmed. Held as what the study finds, with its hedges: a correlational

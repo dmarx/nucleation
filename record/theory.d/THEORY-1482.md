@@ -14,7 +14,7 @@ history:
     authors' model projects, and NOTE-1674 reads the article in
     full. The condition asked for observation after delisting, an
     independent test of the projection, and it moves unchanged to
-    QUESTION-tmpm85pz: 'Post-delisting census data for the
+    QUESTION-427: 'Post-delisting census data for the
     Kirtland's Warbler show breeding-male numbers tracking the area
     of plantation habitat supplied, holding at a lower level when
     that area is reduced and not returning to the earlier level

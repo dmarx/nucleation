@@ -13,7 +13,7 @@ history:
     rulings), under ADR-065: the title reports one run that Zhou and
     colleagues measured, and NOTE-1628 reads the version of record in
     full. The condition asked for an independent replication or a
-    published fit, and it moves unchanged to QUESTION-tmpmnl4c, which
+    published fit, and it moves unchanged to QUESTION-428, which
     lists it under this entry's code; this entry bears_on it: 'An
     independent replication of mutant takeover in a templated,
     enzyme-free origami replicator fed monomers each cycle, or a fit of
@@ -29,7 +29,7 @@ date: '2026-11-05'
 source:
 - LIT-2126
 bears_on:
-- QUESTION-tmpmnl4c
+- QUESTION-428
 summary: >-
   Zhou, Sha, Ni, Seeman and Chaikin (2021), [LIT-2126](../literature.d/LIT-2126.md), read in
   [NOTE-1628](../notes.d/NOTE-1628.md), as the stand-in for He et al. (2017), [LIT-2132](../literature.d/LIT-2132.md),

@@ -24,7 +24,7 @@ history:
     hours and varying little with age, sex, education or prize size;
     non-winning spouses reduce theirs by less than half as much, and
     the authors call the response modest'. The condition asked for an
-    independent study and moves unchanged to QUESTION-tmpjxttn: 'An
+    independent study and moves unchanged to QUESTION-425: 'An
     independent study of randomly assigned lottery prizes or other
     unconditional wealth shocks, on the Swedish registers or on
     another country's administrative data, that finds a reduction in

@@ -20,7 +20,7 @@ history:
     non-participation, which the organization answered in part by
     reforming how theme camps are registered and placed', which
     dropped his 'perhaps' (kind 3, note only). Whether he is right
-    moves to THEORY-tmplr6om, which extends this entry and keeps the
+    moves to THEORY-1546, which extends this entry and keeps the
     old condition word for word: 'An ethnographic, survey or
     archival study of Burning Man, or of a comparable gift-based
     event, showing both that participants who return a gift mostly

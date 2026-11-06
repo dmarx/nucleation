@@ -13,7 +13,7 @@ history:
     rulings), under ADR-065: the title reports what Rothemund
     demonstrated and what he proposes, and NOTE-1631 reads the article
     in full. The condition asked for an independent reproduction, and it
-    moves unchanged to QUESTION-tmpdtizm, which lists it under this
+    moves unchanged to QUESTION-419, which lists it under this
     entry's code; this entry bears_on it: 'An independent group folds
     one of the published designs from its published staple set in a
     single anneal at comparable staple excess and reports a well-formed
@@ -25,7 +25,7 @@ date: '2026-11-05'
 source:
 - LIT-2120
 bears_on:
-- QUESTION-tmpdtizm
+- QUESTION-419
 summary: >-
   Rothemund (2006), [LIT-2120](../literature.d/LIT-2120.md), read in [NOTE-1631](../notes.d/NOTE-1631.md). The folding is
   demonstrated; the yields are judged fractions of AFM fields with small
