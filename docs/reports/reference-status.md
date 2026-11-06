@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**823 documents cited without acknowledgement.** Not listed: 18940 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**823 documents cited without acknowledgement.** Not listed: 19050 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2974,7 +2974,7 @@ What survives translation is the set of communicative distinctions and relations
 
 Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
-8 citations in 7 files await a look; 49 other citations of it are acknowledged.
+8 citations in 7 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-045.md:38`](../../record/arguments.d/ARG-045.md)
 - [`record/cases.d/CASE-188.md:41`](../../record/cases.d/CASE-188.md)
@@ -3274,7 +3274,7 @@ Organizational action can be described as pre-individual, so that whose action i
 
 Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change
 
-8 citations in 3 files await a look; 8 other citations of it are acknowledged.
+8 citations in 3 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-423.md:188`](../../record/claims.d/CLAIM-423.md)
 - [`record/claims.d/CLAIM-445.md:18`](../../record/claims.d/CLAIM-445.md)
@@ -3639,7 +3639,7 @@ Minimal agency requires individuality, interactional asymmetry and self-generate
 
 Because the returns to exploitation are surer, nearer and closer to the decision than the returns to exploration, organizational learning refines exploitation faster and tends to become self-destructive in the long run; and where an organizational code learns only from members who deviate from it, slow socialization, a mix of slow and fast learners and moderate turnover raise what the organization knows, while without turnover a changing environment degrades its knowledge to chance
 
-7 citations in 6 files await a look; 9 other citations of it are acknowledged.
+7 citations in 6 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-124.md:151`](../../record/cases.d/CASE-124.md)
 - [`record/cases.d/CASE-144.md:99`](../../record/cases.d/CASE-144.md)
@@ -8292,7 +8292,7 @@ The specific phenomenal character of an experience is fixed by its place in a qu
 
 Departments of the French Empire more shielded from British trade by the Napoleonic blockade added more mechanized cotton-spinning capacity during it and kept a larger industry through 1887, with more productive spinning firms in 1840 and higher industrial value added per capita in 1860 but not detectably from 1896
 
-2 citations in 1 file await a look; 20 other citations of it are acknowledged.
+2 citations in 1 file await a look; 21 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-445.md:30`](../../record/claims.d/CLAIM-445.md)
 - [`record/claims.d/CLAIM-445.md:131`](../../record/claims.d/CLAIM-445.md)
@@ -9840,7 +9840,7 @@ Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor households in r
 
 In Azam, Devarajan and O'Connell's model, where the cost of taxing falls with depreciating revenue-collecting experience and grant aid fills the fiscal gap, aid that ignores this learning drives a country whose initial institutions are weaker than a threshold to aid financing the whole budget and the loss of its tax capacity, while one with stronger institutions converges to a low-aid state; a planner who internalizes the learning still has a stable high-aid, low-capacity equilibrium beside the efficient saddle path, which is reached only by an up-front cut in aid
 
-1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-605.md:117`](../../record/claims.d/CLAIM-605.md)
 
@@ -9928,7 +9928,7 @@ After a forced phase in which each person experienced every memory load from thr
 
 In laboratory choice tasks, people offload cognition more as a task's internal demand rises, but the choice follows their evaluation of the demand rather than its benefit: they offload where it gives no gain and more when less confident at equal ability, and offloading can lower memory for what was offloaded
 
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-359.md:123`](../../record/theory.d/THEORY-359.md)
 

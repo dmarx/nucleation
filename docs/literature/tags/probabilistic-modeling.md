@@ -6,7 +6,7 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-167 of 2221 LIT documents. Back to the [full index](../README.md).
+167 of 2229 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -1,5 +1,8 @@
 ---
+number: 1522
 status: Proposed
+formerly:
+- THEORY-tmpwcxn9
 promote_when: >-
   Bainbridge (1983) is read and states, in her own words, that automation
   leaves the operator the atypical or abnormal cases, recalls the operator
@@ -14,22 +17,22 @@ tags:
 - learning-and-conditioning
 date: '2026-11-05'
 source:
-- LIT-tmp09gwf
+- LIT-2222
 summary: >-
-  Ahn (2025), [LIT-tmp09gwf](../literature.d/LIT-tmp09gwf.md), read in full in [NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md). The ironies are
-  Ahn's paraphrase of Bainbridge (1983), [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), which was not read:
+  Ahn (2025), [LIT-2222](../literature.d/LIT-2222.md), read in full in [NOTE-1713](../notes.d/NOTE-1713.md). The ironies are
+  Ahn's paraphrase of Bainbridge (1983), [LIT-2225](../literature.d/LIT-2225.md), which was not read:
   he quotes no sentence of hers and gives no page, so this is a THEORY about
   how she is read, and nothing here is put in her name. The remedies are his
   proposals for medical curricula, untested. A single-author commentary with
   no data.
 ---
-<!-- inactive-ok-file: LIT-tmph5vta — Unavailable; the unread original whose reading this states -->
+<!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->
 
-# THEORY-tmpwcxn9: Ahn reads Bainbridge's ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator's manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected
+# THEORY-1522: Ahn reads Bainbridge's ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator's manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected
 
 ## Source
 
-Ahn (2025), [LIT-tmp09gwf](../literature.d/LIT-tmp09gwf.md); read in [NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md).
+Ahn (2025), [LIT-2222](../literature.d/LIT-2222.md); read in [NOTE-1713](../notes.d/NOTE-1713.md).
 
 ## What was actually shown
 

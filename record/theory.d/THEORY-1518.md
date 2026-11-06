@@ -1,5 +1,8 @@
 ---
+number: 1518
 status: Proposed
+formerly:
+- THEORY-tmp6ihw6
 promote_when: >-
   Independent evidence for both parts of the account: a firm-level panel
   showing that own R&D raises a firm's use of outside knowledge more where
@@ -13,24 +16,24 @@ tags:
 - social-science
 date: '2026-11-06'
 source:
-- LIT-tmpwa0ib
+- LIT-2228
 summary: >-
-  Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md), read in full in [NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md),
+  Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md), read in full in [NOTE-1712](../notes.d/NOTE-1712.md),
   most of Table 1 image-only. Proposed: the account of capacity built by
   own work, its path dependence and lockout is argued from cognitive
   psychology and illustrations; the evidence is one indirect
   cross-sectional test of a static model. It does not show that any firm
   that stopped R&D was locked out, or how long recovery takes.
 ---
-<!-- inactive-ok-file: CLAIM-600 CLAIM-602 THEORY-tmpwegr1 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
+<!-- inactive-ok-file: CLAIM-600 CLAIM-602 THEORY-1523 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
 
-# THEORY-tmp6ihw6: Cohen and Levinthal argue that a firm's ability to recognize, assimilate and apply outside knowledge rests on its prior related knowledge, built largely as a byproduct of its own R&D and not quickly bought, and that because this capacity accumulates and shapes what the firm expects of a field, a firm that stops investing in a fast-moving field may be locked out of it even after major advances; with 1975–1977 data on 1,719 business units they test only the static part, that R&D intensity rises more with the relevance of harder-to-learn, less targeted knowledge
+# THEORY-1518: Cohen and Levinthal argue that a firm's ability to recognize, assimilate and apply outside knowledge rests on its prior related knowledge, built largely as a byproduct of its own R&D and not quickly bought, and that because this capacity accumulates and shapes what the firm expects of a field, a firm that stops investing in a fast-moving field may be locked out of it even after major advances; with 1975–1977 data on 1,719 business units they test only the static part, that R&D intensity rises more with the relevance of harder-to-learn, less targeted knowledge
 
 ## Source
 
-Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md); read in [NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md).
-Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](../literature.d/LIT-tmpzbgxy.md), estimate the
-absorptive face of R&D at the country-industry level ([THEORY-tmpwegr1](THEORY-tmpwegr1.md))
+Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md); read in [NOTE-1712](../notes.d/NOTE-1712.md).
+Griffith, Redding and Van Reenen (2004), [LIT-2229](../literature.d/LIT-2229.md), estimate the
+absorptive face of R&D at the country-industry level ([THEORY-1523](THEORY-1523.md))
 and complement this account.
 
 ## What was actually shown

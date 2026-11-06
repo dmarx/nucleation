@@ -1,5 +1,8 @@
 ---
+number: 1523
 status: Proposed
+formerly:
+- THEORY-tmpwegr1
 promote_when: >-
   The positive interaction of R&D intensity with distance to the
   productivity frontier on productivity growth is replicated in an
@@ -13,25 +16,25 @@ tags:
 - social-science
 date: '2026-11-05'
 source:
-- LIT-tmpzbgxy
+- LIT-2229
 summary: >-
-  Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](../literature.d/LIT-tmpzbgxy.md), read in
-  [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md), the robustness section skimmed. Proposed: a correlational
+  Griffith, Redding and Van Reenen (2004), [LIT-2229](../literature.d/LIT-2229.md), read in
+  [NOTE-1709](../notes.d/NOTE-1709.md), the robustness section skimmed. Proposed: a correlational
   panel whose causal reading rests on lagged R&D being predetermined, with
   the key interaction significant at 10% in the base specification and
   stronger in the adjusted ones. It stands in, for this core claim only,
-  for Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md). It says nothing about what
+  for Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md). It says nothing about what
   happens when own R&D stops.
 ---
-<!-- inactive-ok-file: THEORY-tmp6ihw6 — new; the reading of the original this reading once stood in for -->
+<!-- inactive-ok-file: THEORY-1518 — new; the reading of the original this reading once stood in for -->
 
-# THEORY-tmpwegr1: Griffith, Redding and Van Reenen find, in a panel of manufacturing industries in twelve OECD countries over 1974–1990, that industries further behind their industry's productivity frontier grow faster the more R&D they do, so that R&D raises the rate at which frontier technology is absorbed as well as the rate of own innovation, and that for a country at about half the frontier's productivity over half of R&D's estimated return comes through this absorption
+# THEORY-1523: Griffith, Redding and Van Reenen find, in a panel of manufacturing industries in twelve OECD countries over 1974–1990, that industries further behind their industry's productivity frontier grow faster the more R&D they do, so that R&D raises the rate at which frontier technology is absorbed as well as the rate of own innovation, and that for a country at about half the frontier's productivity over half of R&D's estimated return comes through this absorption
 
 ## Source
 
-Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](../literature.d/LIT-tmpzbgxy.md); read in
-[NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md). A stand-in, for the core claim only, for Cohen and
-Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md).
+Griffith, Redding and Van Reenen (2004), [LIT-2229](../literature.d/LIT-2229.md); read in
+[NOTE-1709](../notes.d/NOTE-1709.md). A stand-in, for the core claim only, for Cohen and
+Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md).
 
 ## What was actually shown
 
@@ -60,7 +63,7 @@ Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md).
   column 6) invites that reading; it is the reader's, not the authors'.
 - Anything about firms, which are not observed, or about Cohen and
   Levinthal's cumulativeness, path dependence or lockout.
-  Cohen and Levinthal (1990), [LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md), is now read ([NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md))
-  and supplies those, argued rather than measured ([THEORY-tmp6ihw6](THEORY-tmp6ihw6.md)).
+  Cohen and Levinthal (1990), [LIT-2228](../literature.d/LIT-2228.md), is now read ([NOTE-1712](../notes.d/NOTE-1712.md))
+  and supplies those, argued rather than measured ([THEORY-1518](THEORY-1518.md)).
 - What happens to absorption when a unit stops or outsources its R&D; no
   such case is in the sample.

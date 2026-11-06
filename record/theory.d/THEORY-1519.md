@@ -1,5 +1,8 @@
 ---
+number: 1519
 status: Proposed
+formerly:
+- THEORY-tmp6uywt
 promote_when: >-
   A controlled study of a generative-AI assistant, over tasks graded by
   difficulty, finds the assistant's benefit in time or errors largest on the
@@ -14,26 +17,26 @@ tags:
 - agency
 date: '2026-11-05'
 source:
-- LIT-tmpaw2id
+- LIT-2223
 summary: >-
-  Simkute, Tankelevitch et al. (2024), [LIT-tmpaw2id](../literature.d/LIT-tmpaw2id.md), read in part in
-  [NOTE-tmpndiw7](../notes.d/NOTE-tmpndiw7.md) (§§1, 2 and 3.5 in full). A synthesis: the polarization is
+  Simkute, Tankelevitch et al. (2024), [LIT-2223](../literature.d/LIT-2223.md), read in part in
+  [NOTE-1711](../notes.d/NOTE-1711.md) (§§1, 2 and 3.5 in full). A synthesis: the polarization is
   Human Factors research's finding for automation (credited to Lee and
   Seppelt, among others), and the generative-AI evidence is a set of user
   studies, mostly in programming; the paper runs no study. Read as a
-  stand-in for Bainbridge (1983), [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), which it cites for the
+  stand-in for Bainbridge (1983), [LIT-2225](../literature.d/LIT-2225.md), which it cites for the
   general irony, not for this. It says nothing about the skill the user
   loses on the easy share.
 ---
-<!-- inactive-ok-file: LIT-tmph5vta — Unavailable; the unread original this reading stands in for -->
-<!-- inactive-ok-file: NOTE-tmpndiw7 — Skimmed; the partial reading this account is drawn from -->
+<!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original this reading stands in for -->
+<!-- inactive-ok-file: NOTE-1711 — Skimmed; the partial reading this account is drawn from -->
 
-# THEORY-tmp6uywt: Simkute, Tankelevitch and colleagues argue that generative AI repeats an irony of automation: because easy tasks are the easier to automate, it makes easy tasks easier and hard tasks harder, leaving the user the hard share of the work with the added task of evaluating the system's output
+# THEORY-1519: Simkute, Tankelevitch and colleagues argue that generative AI repeats an irony of automation: because easy tasks are the easier to automate, it makes easy tasks easier and hard tasks harder, leaving the user the hard share of the work with the added task of evaluating the system's output
 
 ## Source
 
 Simkute, Tankelevitch, Kewenig, Scott, Sellen and Rintel (2024),
-[LIT-tmpaw2id](../literature.d/LIT-tmpaw2id.md); read in [NOTE-tmpndiw7](../notes.d/NOTE-tmpndiw7.md).
+[LIT-2223](../literature.d/LIT-2223.md); read in [NOTE-1711](../notes.d/NOTE-1711.md).
 
 ## What was actually shown
 

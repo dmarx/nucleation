@@ -1,5 +1,8 @@
 ---
+number: 1520
 status: Proposed
+formerly:
+- THEORY-tmpngvdn
 promote_when: >-
   A controlled study, or a review of controlled studies, finds that within
   tutored problem solving, where the learner does the steps and help is
@@ -15,10 +18,10 @@ tags:
 - cognition
 date: '2026-11-05'
 source:
-- LIT-tmpm7tp8
+- LIT-2226
 summary: >-
-  Koedinger and Aleven (2007), [LIT-tmpm7tp8](../literature.d/LIT-tmpm7tp8.md), read in full in
-  [NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md). Proposed: a narrative review by the Cognitive Tutors'
+  Koedinger and Aleven (2007), [LIT-2226](../literature.d/LIT-2226.md), read in full in
+  [NOTE-1708](../notes.d/NOTE-1708.md). Proposed: a narrative review by the Cognitive Tutors'
   developers, whose component results mostly come without effect sizes,
   and whose fading result rests on one conference paper. It says that
   "within a context of tutored problem solving, information should be
@@ -28,11 +31,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-600 CLAIM-602 — Proposed; cited from the reading of Koedinger and Aleven (2007) as open -->
 
-# THEORY-tmpngvdn: Koedinger and Aleven argue that instruction faces an assistance dilemma, help given buying accuracy and efficiency at the cost of shallow processing and help withheld buying generation and memory engagement at the cost of floundering, and that within tutored problem solving, where the learner does the steps and help is added only on failure, the experiments they review favour more help rather than less, support shifting from worked examples toward problems and as-needed hints as competence grows, learners left to ask for help asking badly, and the point at which to switch between giving and withholding unknown
+# THEORY-1520: Koedinger and Aleven argue that instruction faces an assistance dilemma, help given buying accuracy and efficiency at the cost of shallow processing and help withheld buying generation and memory engagement at the cost of floundering, and that within tutored problem solving, where the learner does the steps and help is added only on failure, the experiments they review favour more help rather than less, support shifting from worked examples toward problems and as-needed hints as competence grows, learners left to ask for help asking badly, and the point at which to switch between giving and withholding unknown
 
 ## Source
 
-Koedinger and Aleven (2007), [LIT-tmpm7tp8](../literature.d/LIT-tmpm7tp8.md); read in [NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md).
+Koedinger and Aleven (2007), [LIT-2226](../literature.d/LIT-2226.md); read in [NOTE-1708](../notes.d/NOTE-1708.md).
 
 ## What was actually shown
 

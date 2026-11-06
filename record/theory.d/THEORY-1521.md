@@ -1,5 +1,8 @@
 ---
+number: 1521
 status: Proposed
+formerly:
+- THEORY-tmpv1dwq
 promote_when: >-
   A study, cited or new, measures operators' unaided skill at a subtask
   after a period in which automation performed that subtask while they
@@ -16,26 +19,26 @@ tags:
 - learning-and-conditioning
 date: '2026-11-05'
 source:
-- LIT-tmpbg80l
+- LIT-2224
 summary: >-
-  Macnamara et al. (2024), [LIT-tmpbg80l](../literature.d/LIT-tmpbg80l.md), read in full in [NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md). A
+  Macnamara et al. (2024), [LIT-2224](../literature.d/LIT-2224.md), read in full in [NOTE-1710](../notes.d/NOTE-1710.md). A
   theoretical perspective with no data of its own. The decay with disuse,
   and its being larger for cognitive tasks, are the cited literature's
   (Arthur et al.; Ackerman and Tatel); the selective loss in pilots is
   Casner et al. (2014), reported second-hand, without sample or sizes; the
   concealment is the authors' argument, not a finding. Read as a stand-in
-  for Bainbridge (1983), [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), on the skill-decay irony only; the
+  for Bainbridge (1983), [LIT-2225](../literature.d/LIT-2225.md), on the skill-decay irony only; the
   paper does not cite her. It does not give a rate, a recovery time, or any
   test of its extension to AI assistants.
 ---
-<!-- inactive-ok-file: LIT-tmph5vta — Unavailable; the unread original this reading stands in for -->
+<!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original this reading stands in for -->
 
-# THEORY-tmpv1dwq: Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator's skill at that subtask decays from disuse, the cognitive part more than the procedural part, and out of the operator's awareness, because the task itself is still done and still succeeds
+# THEORY-1521: Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator's skill at that subtask decays from disuse, the cognitive part more than the procedural part, and out of the operator's awareness, because the task itself is still done and still succeeds
 
 ## Source
 
 Macnamara, Berber, Çavuşoğlu, Krupinski, Nallapareddy, Nelson, Smith,
-Wilson-Delfosse and Ray (2024), [LIT-tmpbg80l](../literature.d/LIT-tmpbg80l.md); read in [NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md).
+Wilson-Delfosse and Ray (2024), [LIT-2224](../literature.d/LIT-2224.md); read in [NOTE-1710](../notes.d/NOTE-1710.md).
 
 ## What was actually shown
 
