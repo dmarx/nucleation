@@ -64,7 +64,7 @@ summary: >-
   actuators depends on stiffness. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-194 THEORY-1390 NOTE-1596 — Proposed or Skimmed; an entry of 2026-11-05 from the same paste, the shared-actuator case and the readings' accounts, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-194 — Proposed; an entry of 2026-11-05 from the same paste, the shared-actuator case and the readings' accounts, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-589: A motion the constraints permit need not be one the available inputs can drive, and a motion the inputs can drive need not be cheap, reliable or sustainable: permitted directions, actuated directions and transitions achievable at acceptable cost are three objects, the second contained in the first at each instant, while over a horizon what is reachable can exceed what either spans at an instant
 
@@ -130,3 +130,15 @@ first object, read at an instant, is not an upper bound on capability.
 - **Anything about organizations.** A's reading, that an organization can
   be permitted a change it has no means to make, is an analogy. The
   witnesses are a construction, a scalar system and mechanisms.
+
+## Note of 2026-11-06: Hopkins (2010), read
+
+Read further (NOTE-1596 v2), and THEORY-1390 promoted and narrowed. The
+thesis computes where linear actuators must act from a twist–wrench
+stiffness matrix whose entries carry each flexure's modulus, section,
+length, location and orientation (§4.2.1, eq. 4.11). It does not say in
+words that the freedom space alone leaves placement open. That sentence
+above is this claim's inference from the matrix, and the inference is
+sound: two systems with the same constraint lines and different flexure
+sections have the same freedom space and different matrices. Nothing
+changes in the claim's status.

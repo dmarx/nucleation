@@ -4,14 +4,30 @@ status: Proposed
 formerly:
 - THEORY-tmp8numn
 promote_when: >-
-  A reading of the main proofs (§§5–9 of arXiv v11, or the J. ACM version)
-  or of a refereed account that checks them confirms that the algorithm,
-  combining local consistency with linear algebra over prime fields, solves
-  every CSP over a finite language on a finite domain preserved by a weak
-  near-unanimity operation in polynomial time; the J. ACM text's Theorem 1.4
-  is checked to match arXiv v11.
+  A reading of the main proofs (§§6–9 of arXiv v11, the proofs of Theorems
+  5.5–5.7), or of a refereed account that checks them, confirms that the
+  algorithm, combining local consistency with linear algebra over prime
+  fields, solves every CSP over a finite language on a finite domain
+  preserved by a weak near-unanimity operation in polynomial time.
 title: 'Zhuk shows, independently of Bulatov, that for a finite set of relations on a finite domain, deciding satisfiability is solvable in polynomial time if a weak near-unanimity operation preserves every relation and is NP-complete otherwise, by an algorithm that combines local consistency with linear algebra over prime fields'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-ninth status review, at the status review's ruling (the
+    owner delegated these rulings; ADR-065), on NOTE-1555 v2: kept
+    Proposed, since "shows" claims the proofs not read. The promote_when
+    drops, by ADR-065 point 4, the clause "the J. ACM text's Theorem 1.4 is
+    checked to match arXiv v11", since no discrepancy between versions is
+    named, and names the proofs it asks for (§5 has since been read). The
+    old promote_when was "A reading of the main proofs (§§5–9 of arXiv
+    v11, or the J. ACM version) or of a refereed account that checks them
+    confirms that the algorithm, combining local consistency with linear
+    algebra over prime fields, solves every CSP over a finite language on a
+    finite domain preserved by a weak near-unanimity operation in
+    polynomial time; the J. ACM text's Theorem 1.4 is checked to match
+    arXiv v11."
 tags:
 - mathematics
 - operations-research
@@ -44,9 +60,10 @@ Zhuk (2017; J. ACM 2020), [LIT-2023](../literature.d/LIT-2023.md); read in [NOTE
   algorithm is the paper's.
 - **The structural theorem** (Theorem 5.1, p. 17, proof read): four ways a
   finite algebra with a special WNU can be reduced, the last leaving Z_p.
-- **The algorithm** (§2, outline read): local consistency and domain
-  reductions, then linear equations over prime fields; its correctness
-  proofs (§§6–9) were not read.
+- **The algorithm** (§§2 and 4 read; polynomial time, §5.2, proof read):
+  local consistency and domain reductions, then linear equations over
+  prime fields; its correctness rests on Theorems 5.5–5.7, whose proofs
+  (§§6–9) were not read.
 - **Independence**: Bulatov's proof ([LIT-2115](../literature.d/LIT-2115.md)) appeared at the same time
   and the two algorithms are "significantly different" (p. 3).
 
@@ -63,3 +80,11 @@ Zhuk (2017; J. ACM 2020), [LIT-2023](../literature.d/LIT-2023.md); read in [NOTE
   "linked" in the paper is a local-consistency notion.
 - That the Pol–Inv correspondence is a Galois connection: standard, but not
   stated in the paper.
+
+## Note of 2026-11-06: what holds it back
+
+"Zhuk shows" asserts a correct proof, and the proofs of Theorems 5.5–5.7
+(§§6–9, pp. 22–75) that carry the algorithm's correctness have not been
+read, nor any refereed account that checks them. The statement, the
+algorithm, its polynomial running time and the reduction of correctness
+to those three theorems (§§1–5) have been read and match the title.
