@@ -11,7 +11,19 @@ promote_when: >-
   endomorphism generates a free internal monad by reflexive–transitive
   closure (Proposition 37, Corollary 38).
 title: 'Every endomorphism in Marsden and Zwart''s categories of quantale-enriched profunctors generates a free internal monad, its reflexive–transitive closure (Proposition 37, Corollary 38)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-sixth status review (ADR-057), at the status review's
+    ruling (the owner delegated these rulings): a second checker followed
+    the re-derivation of Proposition 37 for Q-profunctors (ADR-065 §5) and
+    found it correct, with two steps made explicit (a join of profunctors is
+    a profunctor; in a locally posetal 2-category the least monad above R is
+    the free one). The condition also asks for Corollary 38, which is not
+    re-derived. A blocker note is added. No status change; the title and
+    condition are unchanged.
 tags:
 - mathematics
 - operations-research
@@ -55,7 +67,14 @@ proposition 37" ([NOTE-1602](../notes.d/NOTE-1602.md)).
   So R* is an internal monad in the sense of Definition 22, and R ≤ R*.
 - If M is a monad with R ≤ M, then R⁰ = A ≤ M, and if Rⁿ ≤ M then
   R^{n+1} = R ∘ Rⁿ ≤ M ∘ M ≤ M. So R* ≤ M: R* is the least monad above R,
-  which, the 2-cells being inclusions, is the free one.
+  which, the 2-cells being inclusions, is the free one. R* is a
+  Q-profunctor, since the action inequalities survive joins by
+  distributivity; and since Prof(Q) is locally posetal, a monad morphism
+  R* → M is just R* ≤ M, so the least monad above R has the free monad's
+  universal property.
+
+Second check of 2026-11-06: each step followed; correct with the two
+clauses above.
 
 ## What this does not say
 
@@ -64,3 +83,7 @@ proposition 37" ([NOTE-1602](../notes.d/NOTE-1602.md)).
 - That the free constructions of Theorems 27–28 hold; their proofs are also
   sketched.
 - Anything beyond static resources and one quantale per theory.
+
+## Note of 2026-11-06: what holds it back
+
+Proposition 37 is re-derived and checked for Q-profunctors; the condition also asks for Corollary 38, in the co-Kleisli categories of the free constructions, where the closure argument needs composition to preserve joins and nobody has checked that it does. It waits on that check, or on a reading of a full version's proof.
