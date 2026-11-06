@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpv1dwq
 title: 'Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator''s skill at that subtask decays from disuse, the cognitive part more than the procedural part, and may do so out of the operator''s awareness, because the task itself is still done and still succeeds'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -32,12 +32,22 @@ history:
     operators' own assessment of their skill showing no matching
     decline. A study that finds the decrement but measures no
     self-assessment settles all but the last clause.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings),
+    under ADR-058: it now corroborates CLAIM-600, whose revision of
+    2026-11-06 writes in the per-subtask unit, drawn from this reading. The edge is
+    corroboration, since the qualification narrows that claim's condition
+    and nothing in it rests on this reading. No status change.
 tags:
 - cognition
 - learning-and-conditioning
 date: '2026-11-05'
 source:
 - LIT-2224
+corroborates:
+- CLAIM-600
 summary: >-
   Macnamara et al. (2024), [LIT-2224](../literature.d/LIT-2224.md), read in full in [NOTE-1710](../notes.d/NOTE-1710.md). A
   theoretical perspective with no data of its own. The decay with disuse,

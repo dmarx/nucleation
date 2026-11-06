@@ -81,7 +81,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-1500 THEORY-1501 THEORY-1502 THEORY-1506 THEORY-1507 THEORY-1509 THEORY-1548 — Proposed; the readings that hold this claim back, cited as open -->
-<!-- inactive-ok-file: CLAIM-600 CLAIM-157 NOTE-1698 NOTE-1694 — Proposed or Skimmed; claims, a term and readings this one rests on or extends, cited as open -->
+<!-- inactive-ok-file: CLAIM-157 NOTE-1698 NOTE-1694 — Proposed or Skimmed; claims, a term and readings this one rests on or extends, cited as open -->
 
 # CLAIM-606: A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
 

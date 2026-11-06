@@ -6,7 +6,11 @@ not the paper's: (A) a perturbed free 2x5 strip with braced end cells, prestress
 on one braced cell; (B) a 3x6 grid with pinned left/right columns, a straight
 middle row carrying prestress, random node perturbations off that row, a few
 random diagonals, heterogeneous stiffness. Controls: zero prestress with K=I and
-with heterogeneous K. Run: python3 -I scratch/formal/rocks_mehta_check.py"""
+with heterogeneous K. The twenty-ninth status review added an independent check:
+the Hessian of the network's energy by central finite differences of its
+gradient, compared with C^T K C + T, and (H_fd + lam I) u = (T + lam I) u for u in
+ker C, with wrong-T controls (T omitted; projector b b^T in place of I - b b^T)
+that must fail. Run: python3 -I scratch/formal/rocks_mehta_check.py"""
 import numpy as np
 from scipy.linalg import null_space, orth
 rng = np.random.default_rng(7)
@@ -33,6 +37,37 @@ def tmat(P, B, free, t, L):
                 T[2*col[p]:2*col[p]+2, 2*col[q]:2*col[q]+2] += s * M
     return T
 
+def tmat_wrong(P, B, free, t, L):
+    """Control: the projector b b^T in place of I - b b^T (must fail)."""
+    col = {v: k for k, v in enumerate(free)}; n = len(free)
+    T = np.zeros((2*n, 2*n))
+    for a, (i, j) in enumerate(B):
+        if t[a] == 0: continue
+        d = (P[j] - P[i]) / L[a]; M = np.outer(d, d) / L[a] * t[a]
+        for p, q, s in ((i, i, 1), (j, j, 1), (i, j, -1), (j, i, -1)):
+            if p in col and q in col:
+                T[2*col[p]:2*col[p]+2, 2*col[q]:2*col[q]+2] += s * M
+    return T
+
+def fd_hessian(P, B, free, t, K, h=1e-5):
+    """Hessian of E(u) = sum_a K_a (l_a(u) - l0_a)^2 / 2, with rest lengths set so
+    the reference state carries tension t (l0 = l - t/K), by central differences
+    of the exact gradient. Independent of C, T and their formulas."""
+    col = {v: k for k, v in enumerate(free)}; n = len(free)
+    L0 = np.array([np.linalg.norm(P[j] - P[i]) for i, j in B]) - t / K
+    def grad(u):
+        X = P.copy()
+        for v, k in col.items(): X[v] = P[v] + u[2*k:2*k+2]
+        g = np.zeros(2*n)
+        for a, (i, j) in enumerate(B):
+            d = X[j] - X[i]; l = np.linalg.norm(d); f = K[a] * (l - L0[a]) * d / l
+            if j in col: g[2*col[j]:2*col[j]+2] += f
+            if i in col: g[2*col[i]:2*col[i]+2] -= f
+        return g
+    Hf = np.zeros((2*n, 2*n)); e = np.eye(2*n)
+    for k in range(2*n): Hf[:, k] = (grad(h*e[k]) - grad(-h*e[k])) / (2*h)
+    return (Hf + Hf.T) / 2
+
 def same(A, Bm):
     return A.shape[1] == Bm.shape[1] and np.linalg.matrix_rank(np.hstack([A, Bm]), 1e-6) == A.shape[1]
 
@@ -50,6 +85,19 @@ def run(name, P, B, free, t, K, lam):
     F = (H + lam*np.eye(Ndof)) @ LZM            # the LZEFs coupling to the LZM basis
     res["f=(T+lam)u"] = np.allclose(F, (T + lam*np.eye(Ndof)) @ LZM)
     res["LZEF span = (T+lam)ker C"] = same(orth(F), LZEF)
+    # independent check: finite-difference Hessian of the energy
+    Hfd = fd_hessian(P, B, free, t, K); I = np.eye(Ndof)
+    res["H_fd = CtKC+T"] = np.allclose(Hfd, H, rtol=0, atol=1e-6)
+    res["(H_fd+lam)u = (T+lam)u"] = np.allclose((Hfd + lam*I) @ LZM, (T + lam*I) @ LZM, rtol=0, atol=1e-8)
+    if np.any(t != 0):   # wrong-T controls: each must fail
+        Tw = tmat_wrong(P, B, free, t, L)
+        res["control T omitted fails"] = not np.allclose(Hfd, C.T @ np.diag(K) @ C, rtol=0, atol=1e-6)
+        res["control bb^T projector fails"] = not np.allclose(Hfd, C.T @ np.diag(K) @ C + Tw, rtol=0, atol=1e-6)
+        # f-level control: must fail where Tu != 0 (B); on A every zero mode moves the
+        # prestressed cell rigidly, so Tu = Tw u = 0 and this control cannot discriminate
+        res["control bb^T breaks f identity (expected iff Tu!=0)"] = not np.allclose((Hfd + lam*I) @ LZM, (Tw + lam*I) @ LZM, rtol=0, atol=1e-8)
+        res["max|Tu|"] = float(f"{np.abs(T @ LZM).max():.1e}")
+    res["max|H_fd - H|"] = float(f"{np.abs(Hfd - H).max():.1e}")
     cos = [abs(F[:, k] @ LZM[:, k]) / np.linalg.norm(F[:, k]) for k in range(F.shape[1])]
     col = {v: k for k, v in enumerate(free)}
     pn = {v for a, (i, j) in enumerate(B) if t[a] != 0 for v in (i, j) if v in col}

@@ -1,10 +1,10 @@
 ---
 number: 600
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpc3x0c
-title: "Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it"
-version: 2
+title: "Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it"
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -31,13 +31,47 @@ history:
     ruling waits on a revision of the title (note of 2026-11-06). The note
     of 2026-11-06 on what holds it back is replaced: its statement that
     CLAIM-566 was not held is out of date.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Revised and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-057. The title writes in the three
+    qualifications its own dated notes said the third condition needs: an
+    upper bound on the party's effort (Goligher et al., NOTE-1704,
+    THEORY-1514), the work done in each subtask and not only in the role
+    (Macnamara et al., NOTE-1710, THEORY-1521), and, for a cumulative
+    capacity in a fast-moving field, the party's own work kept up after
+    withdrawal, since lockout can follow a lapse (Cohen and Levinthal,
+    NOTE-1712, THEORY-1518; CLAIM-605's deadline is the record's model of
+    a crossing withdrawal does not undo). Each narrows the condition for
+    safe withdrawal, so nothing new is grounded; the three readings, all
+    Active, are now corroborated_by, and CLAIM-601, CLAIM-605 and
+    CLAIM-606, which already listed this claim under complements, are
+    listed back. The defeated_if's first clause states the same
+    conditions; it read "work the supported party could do and did
+    throughout, with standing inputs still supplied". The note of
+    2026-11-06 on what holds it back is removed: the revision it asked
+    for is made. Griffith et al.'s and Koedinger and Aleven's points are
+    recorded under "What it does not say" as not yet in the title.
+    Interpretive; the merge is the owner's assent. Old title: "Transient
+    support can be withdrawn safely when it starts a process that keeps
+    itself going on a flux that will stay available, when it is large
+    enough to carry the supported party past any threshold that process
+    has, when the threat it stood in for has gone, and when the party
+    could do the work and did it throughout; inputs the party cannot
+    produce must stay supplied as a standing part of the arrangement,
+    support that fails these leaves dependence or decay, and persistence
+    after withdrawal is needed to tell which, though slow reversion can
+    mimic it".
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A case of support that met the conditions, a self-sustaining process
   on an available flux started by support large enough to pass its
   threshold, a removed threat, and work the supported party could do and
-  did throughout, with standing inputs still supplied, whose withdrawal
+  did throughout, in each subtask it must later do alone, at an effort it
+  could bear, and, for a cumulative capacity in a fast-moving field, kept
+  up after withdrawal, with standing inputs still supplied, whose withdrawal
   still brought decline within a turnover; or support that failed one of them, as supply that
   does the upkeep, supply against a persisting threat or supply that
   substitutes for the party's work, after whose withdrawal the party
@@ -84,6 +118,13 @@ corroborated_by:
 - THEORY-1487
 - THEORY-1470
 - THEORY-1509
+- THEORY-1514
+- THEORY-1521
+- THEORY-1518
+complements:
+- CLAIM-601
+- CLAIM-605
+- CLAIM-606
 bears_on:
 - QUESTION-398
 - QUESTION-399
@@ -128,7 +169,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2225 — Unavailable; registered by the assistance filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-603 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading that corroborate this synthesis, cited as open -->
 
-# CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
+# CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
 
 ## The three conditions
 
@@ -185,6 +226,14 @@ summary: >-
      kept activities going. Under [CLAIM-602](CLAIM-602.md)'s capacity-first rule,
      the support covers only what the party cannot yet do and withdraws
      itself.
+   - **Its limits.** The work must be done in each subtask the party
+     will later do alone, since automation that does a subtask wears that
+     skill down while the job goes on (Macnamara et al., NOTE-1710). It
+     must be done at an effort the party can bear, since too much help
+     atrophies the capacity and too little may injure it (Goligher et al.,
+     NOTE-1704). And for a cumulative capacity in a fast-moving field it
+     must go on after withdrawal as well, since a party that stops may be
+     locked out (Cohen and Levinthal, NOTE-1712; CLAIM-605's deadline).
 
 ## What the windfall readings add
 
@@ -321,6 +370,10 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   - Of the ecology, the captive-rearing result rests on one pedigree. The nucleation result rests on one experiment, and the conservation-reliance cases are three species.
   - Several key originals were read only through neighbours: Scott et al. 2010, Araki et al. 2007, Corbin and Holl 2012, Suding et al. 2004 and Rogers and Coates 2015.
 
+## What it does not say
+
+- **Not yet in the title:** that an available flux is used only in proportion to the party's own capacity to use it (Griffith et al., NOTE-1709), and that early withholding of help is not safe by default (Koedinger and Aleven, NOTE-1708).
+
 ## What it adds
 
 - **To [QUESTION-398](../questions.d/QUESTION-398.md).** An answer in conditions and a test, with the
@@ -380,7 +433,3 @@ Read to fill a gap the supplied-maintenance filing left; the works were chosen b
 ## Note of 2026-11-06: Cohen and Levinthal, "Absorptive Capacity", read
 
 Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), support the condition that the party could do the work and did it throughout. On their account the capacity to use an outside input is built only by the party's own doing, so supply that replaces that doing leaves it unable to use later supply. They qualify the claim with lockout: withdrawal can do harm that the return of supply does not undo. "once a firm ceases investing in its absorptive capacity in a quickly moving field, it may never assimilate and exploit new information in that field, regardless of the value of that information" (p. 136), and it may not pay to rebuild "even after major advances in the field" (p. 137). The cause is expectations as well as a lost stock. The firm's beliefs about the field "will tend not to change over time", and catching up costs more later (p. 136). So for a capacity in a fast-moving, cumulative field, the claim's safe-withdrawal condition needs the party's own work to continue through and after withdrawal, not only before it. Lockout is argued from psychology and illustrations (Monsanto: "once off the technological escalator it's difficult to get back on", p. 137), not measured. No persistence or recovery after withdrawal is observed. No status changes.
-
-## Note of 2026-11-06: what holds it back
-
-Its premises are held: [CLAIM-597](CLAIM-597.md), [CLAIM-602](CLAIM-602.md), [CLAIM-604](CLAIM-604.md) and [CLAIM-566](CLAIM-566.md) are Active ([CLAIM-566](CLAIM-566.md) since 2026-11-06), and the claims and readings it cites as instances corroborate it. What holds it back is that the qualifications its own notes say the third condition needs are not in its title: an upper bound on the party's effort (Goligher et al.), the per-subtask unit (Macnamara et al.), and the party's own work continuing after withdrawal where lockout threatens (Cohen and Levinthal). The next step is a revision that writes them into the title, and then a ruling.

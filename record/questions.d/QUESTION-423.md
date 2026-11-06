@@ -20,7 +20,6 @@ summary: >-
   on two other networks, second-checked, confirms the theorem, Theorem 1
   and the localization; the symmetry rule is untested elsewhere.
 ---
-<!-- inactive-ok-file: CLAIM-609 — Proposed and new; the status review's identity behind the computation, cited as checked, nothing here rests on its being ruled -->
 
 # QUESTION-423: Does an independent derivation or computation, on a network other than Rocks and Mehta's two examples, confirm their generalized index theorem with prestress and heterogeneous stiffness, the identity of zero-displacement tensions with states of self-stress, the joint-symmetry rule for the forces that excite linear zero modes, and the redirection and localization of those forces by symmetry-breaking prestress?
 

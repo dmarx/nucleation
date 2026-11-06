@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpfuiq1
 title: 'Goligher and colleagues hold that mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient''s own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls; and that trials confirming the benefit of this approach are still required'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,11 +24,21 @@ history:
     own neural drive keeps diaphragm activity from falling to
     inactivity. That trials confirming benefit are still required is the
     authors' own statement and needs no further result.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings),
+    under ADR-058: it now corroborates CLAIM-600, whose revision of
+    2026-11-06 writes in an upper bound on the party's effort, drawn from this reading. The edge is
+    corroboration, since the qualification narrows that claim's condition
+    and nothing in it rests on this reading. No status change.
 tags:
 - natural-sciences
 date: '2026-11-05'
 source:
 - LIT-2216
+corroborates:
+- CLAIM-600
 summary: >-
   Goligher et al. (2020), [LIT-2216](../literature.d/LIT-2216.md), read in [NOTE-1704](../notes.d/NOTE-1704.md). A
   consensus-style review: the atrophy side rests on biopsy and ultrasound
@@ -39,7 +49,7 @@ summary: >-
   not loss caused by ventilation.
 ---
 <!-- inactive-ok-file: THEORY-1537 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
-<!-- inactive-ok-file: LIT-2212 CLAIM-600 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
+<!-- inactive-ok-file: LIT-2212 — Unavailable; the unread original, cited as open -->
 
 # THEORY-1514: Goligher and colleagues hold that mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient's own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls; and that trials confirming the benefit of this approach are still required
 
