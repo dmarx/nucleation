@@ -1,22 +1,31 @@
 ---
-status: Unavailable
+status: Unfetched
 status_note: >-
-  no lawful full text reached on 2026-11-05. Looked at: the publisher's page
+  searched 2026-11-05 for a lawful full text; one exists but this client
+  could not fetch it, so it is not read (ADR-053). A PDF at
+  www.chem.pmf.hr/_download/repository/Foreign_aid_africa.pdf, on a
+  University of Zagreb chemistry-faculty server, was located by web search
+  on 2026-11-05 and not used, under a reader's brief that excluded copies
+  that were neither an author's nor the publisher's; under ADR-064 a copy on
+  a faculty server counts as a lawful copy. A reading of it attempted on
+  2026-11-06 was refused by this session's permission system, not by the
+  host. Nothing was received, so whether it is the work (title, authors,
+  pages) is unchecked. Also looked at: the publisher's page
   (www.journals.uchicago.edu/doi/10.1086/380592), HTTP 403 behind a
   Cloudflare check, not retried; OpenAlex, which marks it closed with no
   repository copy and lists only the publisher; Semantic Scholar, closed,
   with the abstract withheld by the publisher (its suggested Unpaywall link
-  needs an email address and was not queried, [ADR-008](../decisions.d/ADR-008.md)); two web searches,
-  which found no copy on an author's page, at American University, SAIS-CARI,
-  the World Bank, SSRN or a repository; and RePEc, a redirect and a 404. The
-  one PDF found, on a University of Zagreb chemistry-faculty server, has no
-  tie to either author and is not the publisher's open copy, so it was not
-  used as not lawful. Knack's World Bank working paper of July 2000
-  ([LIT-tmp0gnxg](LIT-tmp0gnxg.md), read in [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md)), from the same research programme,
-  stands in for its cross-country governance result and its Africa
-  subsample only; nothing stands in for its tax-effort analysis.
+  needs an email address and was not queried, ADR-008); two web searches,
+  which found no copy on an author's page, at American University,
+  SAIS-CARI, the World Bank, SSRN or a repository; and RePEc, a redirect and
+  a 404. Knack's World Bank working paper of July 2000 (LIT-tmp0gnxg, read
+  in NOTE-tmpgq64d), from the same research programme, stands in for its
+  cross-country governance result and its Africa subsample only; nothing
+  stands in for its tax-effort analysis. A browser fetch of the Zagreb copy
+  is the cheapest way to read it. It stays Unfetched until a copy is
+  supplied.
 title: 'Foreign Aid, Institutions, and Governance in Sub-Saharan Africa'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-05'
@@ -37,6 +46,17 @@ history:
     recommendations and findings it attributes to the article are
     unverified. In place of the article, Knack's working paper (LIT-tmp0gnxg)
     was read and filed as a partial stand-in.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Reclassified Unavailable → Unfetched under ADR-053 and ADR-064 (the copy
+    is a faculty copy): a lawful free copy was located at
+    www.chem.pmf.hr/_download/repository/Foreign_aid_africa.pdf, a
+    University of Zagreb faculty server (found 2026-11-05 and not used under
+    that day's brief), and the fetch was blocked by this session's
+    permission system, not the host, on 2026-11-06. The lead's reader briefs
+    of 2026-11-05 had wrongly excluded such copies, or had filed
+    located-but-blocked copies as Unavailable.
 tags:
 - society-and-governance
 - social-science
@@ -86,7 +106,7 @@ Bräutigam, D. A. & Knack, S. (2004). Foreign Aid, Institutions, and Governance 
 
 ## Standing in the record
 
-Unavailable. Knack's World Bank Policy Research Working Paper 2396 (July
+Unfetched. Knack's World Bank Policy Research Working Paper 2396 (July
 2000), [LIT-tmp0gnxg](LIT-tmp0gnxg.md), read in [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md), stands in for it in part. It
 is the same research programme (its acknowledgements say the project
 "originated from conversations with Deborah Brautigam"), and it reports an
