@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - TERM-tmplh56l
 title: 'coverage, and which sense: deterministic coverage that treats a covering unit as always available, expected coverage that discounts it by its chance of being busy, and reliable coverage that requires a free unit with a stated probability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Provenance only: NOTE-1583 went to Read in the twenty-ninth status
+    review, so "skimmed in" becomes "read in" (1 place). The sense is
+    unchanged.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -38,7 +45,7 @@ point is free to go.
 
 1. **Deterministic coverage.** A point is covered if some unit is within
    the standard, and the unit is assumed free. Mukhopadhyay and colleagues
-   ([LIT-2107](../literature.d/LIT-2107.md), skimmed in [NOTE-1583](../notes.d/NOTE-1583.md); [THEORY-1396](../theory.d/THEORY-1396.md)), §6.1: "Resources at a
+   ([LIT-2107](../literature.d/LIT-2107.md), read in [NOTE-1583](../notes.d/NOTE-1583.md); [THEORY-1396](../theory.d/THEORY-1396.md)), §6.1: "Resources at a
    facility are considered to be always available". Covering a point
    twice is a hedge against busyness that does not remove the assumption,
    and "Accounting for such situations requires modeling facility

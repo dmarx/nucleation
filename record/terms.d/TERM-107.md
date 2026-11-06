@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - TERM-tmp46hcg
 title: 'organizational slack: resources an organization holds beyond what its current output requires, some useful and some wasteful, which the output alone does not tell apart'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Provenance only: NOTE-1576, NOTE-1577 went to Read in the
+    twenty-ninth status review, so "skimmed in" becomes "read in" (2
+    places). The sense is unchanged.
 tags:
 - society-and-governance
 - operations-research
@@ -38,7 +45,7 @@ summary: >-
 **Organizational slack** is the part of an organization's resources
 beyond what its current output requires: its inputs minus the least
 inputs that would produce the same output. The definition is Bogetoft and
-Hougaard's ([LIT-2096](../literature.d/LIT-2096.md), skimmed in [NOTE-1576](../notes.d/NOTE-1576.md); [THEORY-1401](../theory.d/THEORY-1401.md)), after
+Hougaard's ([LIT-2096](../literature.d/LIT-2096.md), read in [NOTE-1576](../notes.d/NOTE-1576.md); [THEORY-1401](../theory.d/THEORY-1401.md)), after
 Cyert and March: "organizational slack can be interpreted as the
 existence of excess resources to produce a given output". Measured against
 output, slack is what an efficiency analysis calls technical inefficiency.
@@ -74,7 +81,7 @@ literature tends to view slack as wasteful".
   balance is useful slack until the deadline and becomes wasteful at it,
   by a rule of the budget, not by anything in the organization.
 - **Headroom that is busy.** The square-root staffing rule
-  ([LIT-2059](../literature.d/LIT-2059.md), skimmed in [NOTE-1577](../notes.d/NOTE-1577.md), standing in for Halfin and Whitt,
+  ([LIT-2059](../literature.d/LIT-2059.md), read in [NOTE-1577](../notes.d/NOTE-1577.md), standing in for Halfin and Whitt,
   [LIT-2085](../literature.d/LIT-2085.md); [THEORY-1416](../theory.d/THEORY-1416.md)) sizes servers above mean load by a margin of
   the order of the load's fluctuations. Its spare capacity is in use
   nearly all the time, and large pooled systems need proportionally less
