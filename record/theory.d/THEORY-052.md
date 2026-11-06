@@ -15,10 +15,25 @@ promote_when: >-
   follows symptom change rather than preceding it, or if its link to
   distress disappears once neuroticism and item overlap are controlled.
   More cross-sectional correlations between need-frustration scales and
-  distress cannot settle it. The same tests would separate it from, or
+  distress cannot settle it, and neither can a frustration score whose
+  separation from satisfaction is only a split by item keying, as when
+  every frustration item is negatively worded and every satisfaction
+  item positively. The same tests would separate it from, or
   join it to, the inflexibility account (THEORY-050).
 title: 'Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    promote_when amended by the twenty-sixth status review (ADR-057), at
+    the status review's ruling (the owner delegated these rulings), as the
+    note of 2026-11-03 proposed after Murphy et al. 2023 (NOTE-1530) and
+    Chen et al. (NOTE-1527): a frustration score whose separation from
+    satisfaction is only an item-keying split cannot settle it. The
+    sentence read "More cross-sectional correlations between
+    need-frustration scales and distress cannot settle it." Title and
+    status are unchanged.
 tags:
 - psychopathology-and-treatment
 - motivation
@@ -167,3 +182,7 @@ None meets the promote_when.
   frustration–ill-being link "has yet to be meta-analytically investigated".
 
 The status is unchanged.
+
+## Note of 2026-11-06: what holds it back
+
+The works read on 2026-11-03 ([NOTE-1533](../notes.d/NOTE-1533.md), [NOTE-1510](../notes.d/NOTE-1510.md), [NOTE-1530](../notes.d/NOTE-1530.md), [NOTE-1527](../notes.d/NOTE-1527.md), [NOTE-1526](../notes.d/NOTE-1526.md), [NOTE-1500](../notes.d/NOTE-1500.md)) give one prospective result for one disorder, all self-report and with reverse prediction at one lag, and a measure whose satisfaction–frustration split may be item keying, which the promote_when now excludes (version 2). No study shows frustration, measured apart from self-report sharing content with distress and not as a keying split, preceding or mediating symptoms of more than one disorder.

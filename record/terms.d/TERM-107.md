@@ -30,7 +30,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-113 — Proposed; terms of the same filing, cited as filed -->
 <!-- inactive-ok-file: NOTE-1576 NOTE-1577 — Skimmed; the readings the account of Bogetoft and Hougaard and of the square-root rule comes from -->
 <!-- inactive-ok-file: THEORY-1401 THEORY-1421 THEORY-1416 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: TERM-106 CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-107: organizational slack: resources an organization holds beyond what its current output requires, some useful and some wasteful, which the output alone does not tell apart
 

@@ -4,13 +4,28 @@ status: Proposed
 formerly:
 - CLAIM-tmpgs4b8
 title: 'An organization''s flexibility among regimes depends on the conditions under which a regime gives up authority as well as those under which it takes it, so escalation without a release condition leaves authority with a regime after the demand that justified it has passed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    The first defeat clause restated by the twenty-sixth status review
+    (ADR-057), at the status review's ruling (the owner delegated these
+    rulings), to match "What it does not say", which counts a lapse built
+    into the escalation as a release condition; the note of 2026-10-30
+    named the contradiction. It read "Cases in which a regime's authority
+    always lapses when the condition that triggered it ends, with no
+    separate condition or act needed, so that release is the trigger's
+    absence and adds nothing to suspension". The defeater now names a
+    lapse that nothing in the escalation provides for. Title, status and
+    the second clause are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   Cases in which a regime's authority always lapses when the condition
-  that triggered it ends, with no separate condition or act needed, so
-  that release is the trigger's absence and adds nothing to suspension;
+  that triggered it ends, with nothing in the escalation providing for
+  the lapse, built in or explicit, so that release needs no condition
+  and adds nothing to suspension;
   or an argument that release is TERM-017's suspension of the escalated
   regime and needs no further relation.
 tags:
@@ -107,3 +122,7 @@ relinquish jurisdiction", means the persistence of authority, not [TERM-017](../
 or [TERM-047](../terms.d/TERM-047.md)'s jurisdiction. (b) Read as intended: the absence of a release
 condition in this claim's sense. (c) The owner made no correction.
 No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+[CASE-112](../cases.d/CASE-112.md) and [CLAIM-286](CLAIM-286.md) were revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)), and the exchange note of 2026-11-04 adds rumination and hysteresis but no case. The first defeat clause is restated today to match "What it does not say" (version 2). Two holds stand: a second case in which no release condition existed, built in or explicit, and an answer to why release is not [TERM-017](../terms.d/TERM-017.md)'s suspension applied to the escalated regime.

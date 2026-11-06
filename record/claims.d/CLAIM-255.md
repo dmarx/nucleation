@@ -106,3 +106,7 @@ are a documentary, watched as second-hand ethnography with one side heard
 (pp. 784–785).
 
 No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after the Bencherki readings of 2026-10-31 ([LIT-1901](../literature.d/LIT-1901.md), [LIT-1902](../literature.d/LIT-1902.md); [NOTE-1482](../notes.d/NOTE-1482.md), [NOTE-1484](../notes.d/NOTE-1484.md)). As the note of that date says, they are an outside instance, not evidence. The claim is still held by its unheld premises [CLAIM-160](CLAIM-160.md) and [CLAIM-151](CLAIM-151.md), both Proposed.

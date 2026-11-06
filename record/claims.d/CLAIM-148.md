@@ -204,7 +204,6 @@ Gram matrix of the items, VVᵀ = V_M Σ V_Mᵀ, is therefore fixed by the penal
 
 ## Note of 2026-10-26: an additive latent-feature model of an organization's members
 
-<!-- inactive-ok-file: CASE-165 — Proposed; the construction, filed the same day -->
 
 T23 of the exchange "Experimental Infrastructure Review" proposed an
 additive latent-feature model of employees ([CASE-165](../cases.d/CASE-165.md)),

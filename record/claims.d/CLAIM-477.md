@@ -407,3 +407,7 @@ From the synthesis on DNA origami by another assistant (A), pasted by the owner 
 A's synthesis gives the claim a physical instance. In A's words, "binding changes geometry, which changes subsequent binding kinetics", so there is "a feedback between relational organization and physical accessibility". One scaffold realizes different architectures under different staple networks: Rothemund's merge patterns and Dunn et al.'s seams ([NOTE-1631](../notes.d/NOTE-1631.md), [NOTE-1643](../notes.d/NOTE-1643.md)). Schneider, Möritz and Dietz ([NOTE-1641](../notes.d/NOTE-1641.md)) add the qualifier: with the wiring fixed and every staple sequence changed, the folding order barely moved. So the relations, not the relata's sequences, fix the path.
 
 No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+The readings since (Bencherki 2017 and Bencherki and Iliadis on 2026-10-31, Baumgartner and Casini on 2026-11-01, the DNA origami works [NOTE-1631](../notes.d/NOTE-1631.md), [NOTE-1641](../notes.d/NOTE-1641.md) and [NOTE-1643](../notes.d/NOTE-1643.md) on 2026-11-05) give instances of the structure but no ruling on defeater (b): whether a symmetry, a conservation law or [THEORY-1066](../theory.d/THEORY-1066.md)'s possibility facts count as realized constraints. Origami shows the wiring fixing a folding path, not constraints constituting identity, so the template still has no held domain case; [CLAIM-136](CLAIM-136.md) and [CLAIM-151](CLAIM-151.md) remain Proposed.

@@ -207,3 +207,7 @@ the frustration comparison on one system under two decompositions, which
 is what `promote_when` asks. [THEORY-249](THEORY-249.md) predicts instability in general but
 shows no instance.
 [CLAIM-368](../claims.d/CLAIM-368.md) now cites this reading as corroboration, not as a ground.
+
+## Note of 2026-11-06: what holds it back
+
+[CLAIM-368](../claims.d/CLAIM-368.md) was revised on 2026-11-04 for vocabulary only ([ADR-070](../decisions.d/ADR-070.md)). Nothing in the record computes the measure on one system under two decompositions, as the promote_when asks.

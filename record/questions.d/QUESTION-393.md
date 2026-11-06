@@ -27,7 +27,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-474 CLAIM-477 CLAIM-573 CLAIM-576 CLAIM-590 TERM-088 — Proposed; the record's open theses and term on individuation and realized constraints, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: ARG-023 — Rejected; cited as the inference the question is framed to avoid -->
-<!-- inactive-ok-file: CLAIM-557 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # QUESTION-393: Under which computational, observational and architectural conditions does a relational structure suffice to individuate an object, and which transformations, of budget, of probes, of time and of the category itself, preserve that individuation?
 

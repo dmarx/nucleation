@@ -1,10 +1,25 @@
 ---
 number: 570
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpatpn9
 title: 'With observational indistinguishability refining as the observing budget grows and peak-cost mutual reachability coarsening as the acting budget grows, the budget pairs at which everything indistinguishable is mutually reachable form an up-set and those at which everything mutually reachable is indistinguishable form a down-set, with boundaries given by the largest peak distance within an observational class and the least observing budget that separates two mutually reachable states'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), under ADR-057's
+    four criteria. Its premises CLAIM-574, CLAIM-581 and CASE-199 are
+    Active, no objection is filed, and nothing meets its defeater:
+    CLAIM-594 qualifies it where the acting resource sets the costs,
+    which the claim's fixed cost function excludes. The reviewer
+    re-derived the up-set, the down-set and both boundary formulas step
+    by step, and the worked table from CASE-199's costs. Where moves are
+    one-way, the monotonicity of mutual reachability in a is not
+    CLAIM-581's, which excludes one-way moves; it holds directly, since
+    concatenating two paths within a keeps the peak within a.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -52,7 +67,7 @@ summary: >-
   formulas and checks are the assistant's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-220 — Proposed; A's committor study, cited from the note on A's second synthesis -->
-<!-- inactive-ok-file: CLAIM-557 CASE-206 — Proposed; entries of this pull request, cited as open -->
+<!-- inactive-ok-file: CASE-206 — Proposed; entries of this pull request, cited as open -->
 
 # CLAIM-570: With observational indistinguishability refining as the observing budget grows and peak-cost mutual reachability coarsening as the acting budget grows, the budget pairs at which everything indistinguishable is mutually reachable form an up-set and those at which everything mutually reachable is indistinguishable form a down-set, with boundaries given by the largest peak distance within an observational class and the least observing budget that separates two mutually reachable states
 

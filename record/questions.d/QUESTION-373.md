@@ -4,7 +4,17 @@ status: Open
 formerly:
 - QUESTION-tmp35nl7
 title: 'Who supplies the resource that carries a system across a transition''s bottleneck, the environment, a designer, or the system itself from reserves it accumulates while operating, and under what conditions does that capacity move inside the system?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Revised at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), so that its use of
+    TERM-106 says which sense: the summary's "the gap between the
+    bottleneck and the holding cost, the reconfiguration slack" now names
+    the cost of holding the configuration the system is in, TERM-106's
+    one-sided form, which the body already meant.
 tags:
 - individuation
 - complex-systems
@@ -20,14 +30,15 @@ summary: >-
   al.'s supervisor, the origami computers' addressing robot, Zang et al.'s
   experimenter applying prestress, the designer in FACT, the hand that
   twists Jules et al.'s switches into their defect states. Sorting
-  transitions by who supplies the gap between the bottleneck and the holding
-  cost, the reconfiguration slack, gives three kinds; none of the readings
+  transitions by who supplies the gap between the bottleneck and the cost of
+  holding the configuration the system is in, the slack from where it is
+  ([TERM-106](../terms.d/TERM-106.md)'s one-sided form), gives three kinds; none of the readings
   has the third, in which the system builds the reserve in operation and
   decides internally to spend it. That may be where nucleation begins. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-577 NOTE-1592 TERM-106 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: CLAIM-577 NOTE-1592 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # QUESTION-373: Who supplies the resource that carries a system across a transition's bottleneck, the environment, a designer, or the system itself from reserves it accumulates while operating, and under what conditions does that capacity move inside the system?
 

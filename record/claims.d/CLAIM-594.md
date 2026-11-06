@@ -64,7 +64,6 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-570 CLAIM-569 — Proposed; the fixed-cost claims this one qualifies and its construction -->
 
 # CLAIM-594: When the resource that pays for crossing barriers also sets the costs it pays, as heat does when DNA origami folds, reaching a target within a time budget need not be monotone in the resource: the target can be reached only in a window of levels that more time widens, and a schedule of levels can reach what no constant level reaches; budgeted reachability with fixed costs, where more budget never loses a reachable state, is the special case of a resource that leaves the costs unchanged
 

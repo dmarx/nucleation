@@ -1,10 +1,10 @@
 ---
 number: 165
-status: Proposed
+status: Active
 formerly:
 - CASE-tmplcm41
-title: 'A dynamic beta–Bernoulli latent-feature model of an organization''s members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs'
-version: 4
+title: 'A dynamic beta–Bernoulli latent-feature model of an organization''s members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and its outputs cannot tell a feature one member holds at constant activation from that member''s private map, or features whose holdings and activations always coincide from their sum'
+version: 5
 history:
 - version: 1
   date: '2026-10-26'
@@ -43,6 +43,19 @@ history:
     from supports to illustrates: the claim cites the case as the model
     built on its division (§10), and its argument does not use the case's
     findings. Title, standing and status unchanged.
+- version: 5
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-047 kind 3). The title's last
+    clause read "and the difference between having a capacity and using
+    it is not identified from the outputs"; the note of 2026-10-27
+    (later) shows that under a prior on the activation the data separate
+    them weakly, so the title now names only the two confounds that are
+    exact: absorption of a feature held at constant activation into the
+    member's private map, and coinciding features identified only in
+    sum. Both were re-checked as identities from the body's u. The
+    blocker note of 2026-10-30 asked for this narrowing and nothing else.
 standing: stipulated
 kind: construction
 tags:
@@ -70,7 +83,7 @@ illustrates:
 <!-- inactive-ok-file: THEORY-1004 — Proposed; a reading of the same day, cited for its measure of presence against use -->
 <!-- inactive-ok-file: THEORY-1044 — Proposed; the beam sampler's mixing claim, cited as open -->
 
-# CASE-165: A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and the difference between having a capacity and using it is not identified from the outputs
+# CASE-165: A dynamic beta–Bernoulli latent-feature model of an organization's members: a finite Indian buffet prior over who holds which interpretive features, a sticky logistic transition for holding them, activations, and team, communication and authorization layers above; at the proposed size of sixteen features it falls well short of the Indian buffet process it quotes, its persistence term does not hold rare features, and its outputs cannot tell a feature one member holds at constant activation from that member's private map, or features whose holdings and activations always coincide from their sum
 
 ## The construction (T23)
 

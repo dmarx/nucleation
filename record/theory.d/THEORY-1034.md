@@ -31,7 +31,6 @@ summary: >-
   prevalence is held fixed over time, which it is not ([THEORY-1019](THEORY-1019.md)),
   nor how to share the chains across several objects.
 ---
-<!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
 # THEORY-1034: In the Markov Indian buffet process each feature's probability of staying on is drawn independently of its probability of switching on, so how long a feature persists once on does not depend on how rare it is; the process is defined for the time steps of one sequence, not for several objects over time
 

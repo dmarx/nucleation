@@ -110,3 +110,7 @@ logic already keeps referral and functional trust apart, is unchanged.
 The clause on factions still rests on A2's argument alone, since the
 population comparison [CASE-092](../cases.d/CASE-092.md) names, role-indexed against scalar
 grants, has not been run.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of [CASE-092](../cases.d/CASE-092.md) and [CLAIM-282](CLAIM-282.md) (2026-11-04), which change no content. The population comparison [CASE-092](../cases.d/CASE-092.md) names, role-indexed against scalar grants, has still not been run, so the clause on factions rests on A2's argument alone.

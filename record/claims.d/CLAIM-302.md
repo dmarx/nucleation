@@ -40,7 +40,7 @@ summary: >-
 supports:
 - CLAIM-304
 ---
-<!-- inactive-ok-file: CLAIM-557 TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
+<!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-302: Equivalence under feasible tests can be much coarser than statistical equivalence: there are ensembles almost disjoint from uniform that no polynomial-size test tells apart from it, and efficiently samplable ensembles of this kind exist if pseudorandom generators do
 

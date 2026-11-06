@@ -185,3 +185,7 @@ the new level of individuality at the conexus–community step, with benefit
 that cannot be booked per member and a knockout effect. [NOTE-173](../notes.d/NOTE-173.md) found none
 in the paper: "No data were reported". [CASE-171](../cases.d/CASE-171.md) and [QUESTION-277](../questions.d/QUESTION-277.md) name the
 mealybug patchwork as a place to test it, and its reports are unread.
+
+## Note of 2026-11-06: what holds it back
+
+[NOTE-173](../notes.d/NOTE-173.md)'s re-reading of 2026-11-01 corrected this entry's title (version 3) but found no data or operational criteria in the paper. The record still has no criteria that sort real groups into collection, conexus and community, and no worked case at the conexus–community step; the mealybug reports [CASE-171](../cases.d/CASE-171.md) and [QUESTION-277](../questions.d/QUESTION-277.md) name are unread.

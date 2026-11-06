@@ -1,19 +1,35 @@
 ---
 number: 583
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpsbz28
-title: 'Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability; and of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other'
-version: 1
+title: 'Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the twenty-sixth status review (ADR-057), at
+    the status review's ruling (the owner delegated these rulings). The old
+    title: "Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability; and of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other".
+    The clause on constraint languages stands on THEORY-1407 and
+    THEORY-1413, whose sources are Skimmed in NOTE-1584 and NOTE-1613,
+    and the construction does not use it; it moves, with the paragraph
+    that argued it and its defeat clause, to CLAIM-tmpp0p4d, Proposed and
+    grounded in both readings, the record's own conditional demonstration
+    (ADR-047's routing; README §2). The old defeat clause: "or an error in the cited classifications, so that deciding whether two solutions of a positive 1-in-3 SAT formula are joined by single flips is not polynomial, or that of a positive NAE-3SAT formula not PSPACE-complete".
+    The grounds THEORY-1407 and THEORY-1413 are removed. Its premise
+    CLAIM-347 and its term TERM-114 are Active, no objection is filed, and
+    nothing meets its defeater; the reviewer re-enumerated the
+    construction. The DNA origami readings look for an experimental
+    instance and find none, which the claim does not need. The summary's
+    "Shown here twice." is dropped with the second showing.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   An error in the construction: a single flip within {000, 111} that joins
   the two configurations, or a difference between the two systems'
-  compatibility complexes; or an error in the cited classifications, so that
-  deciding whether two solutions of a positive 1-in-3 SAT formula are joined
-  by single flips is not polynomial, or that of a positive NAE-3SAT formula
-  not PSPACE-complete. Not defeated by the smallness of the construction,
+  compatibility complexes. Not defeated by the smallness of the construction,
   which is a counterexample to an implication, nor by systems in which the
   complex and reachability happen to agree.
 tags:
@@ -25,34 +41,29 @@ line:
 - formal-apparatus
 rests_on:
 - CLAIM-347
-grounds:
-- THEORY-1407
-- THEORY-1413
 complements:
 - CLAIM-567
 - CLAIM-560
+- CLAIM-tmpp0p4d
 uses:
 - TERM-114
 summary: >-
   A's proposal, from the pasted synthesis on resource-bounded realizability
   (three responses, pasted by the owner on 2026-11-05, continuing the
   exchange on constraint architectures), Response 3 §1: "compatibility
-  equivalence doesn't imply computational equivalence." Shown here twice.
-  The filer's construction: configurations {000, 111} and {000, 001}, each
-  pair split between two demands, moves by single flips within the set; the
-  complexes agree and only the second is connected. Gopalan et al. give the
-  version across languages: positive 1-in-3 SAT and positive NAE-3SAT are
-  both NP-complete to satisfy, and deciding whether two solutions are joined
-  is polynomial for the first and PSPACE-complete for the second, with
-  components of exponential diameter possible when the language is not
-  tight. The construction is the filer's, from A's separation of the
-  configuration layer from the process layer; adopting it is the owner's
-  call.
+  equivalence doesn't imply computational equivalence." The filer's
+  construction: configurations {000, 111} and {000, 001}, each pair split
+  between two demands, moves by single flips within the set; the complexes
+  agree and only the second is connected. The version across languages,
+  from Gopalan et al., was split off at the status review of 2026-11-06
+  into [CLAIM-tmpp0p4d](CLAIM-tmpp0p4d.md). The construction is the filer's, from A's
+  separation of the configuration layer from the process layer; adopting
+  it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CLAIM-560 CLAIM-567 NOTE-1584 NOTE-1613 THEORY-1407 THEORY-1413 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: NOTE-1584 NOTE-1613 THEORY-1407 THEORY-1413 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
-# CLAIM-583: Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability; and of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other
+# CLAIM-583: Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability
 
 ## The claim
 
@@ -82,18 +93,13 @@ reach the one meeting D₂; in B it can, in one move. Checked by the filer
 by enumeration. Same complex, same move rule, same costs, different
 reachability: A's "sharper possibility".
 
-**The version across languages** (Gopalan, Kolaitis, Maneva and
-Papadimitriou; [NOTE-1584](../notes.d/NOTE-1584.md); [THEORY-1407](../theory.d/THEORY-1407.md)). For S = {R1/3}, positive
-1-in-3 SAT, "This set is tight (actually, it is componentwise bijunctive),
-but not Schaefer": satisfiability is NP-complete and deciding whether two
-solutions are joined by single flips through solutions is polynomial. For
-S = {RNAE}, positive NAE-3SAT, satisfiability is NP-complete and both
-connectivity problems are PSPACE-complete. For languages that are not
-tight the solution graph can have components of exponential diameter
-(Theorem 2.10), A's "exponentially many operations"; Schwerdtfeger
-([NOTE-1613](../notes.d/NOTE-1613.md); [THEORY-1413](../theory.d/THEORY-1413.md)) corrects the boundary to safely tight and
-gives diameter 2^Ω(√n) beyond it. Equal in the complexity of finding a
-solution, opposite in the complexity of navigating between solutions.
+**Across languages.** A version at the level of constraint languages,
+from Gopalan, Kolaitis, Maneva and Papadimitriou ([THEORY-1407](../theory.d/THEORY-1407.md)) with
+Schwerdtfeger's correction ([THEORY-1413](../theory.d/THEORY-1413.md)), was split off at the status
+review of 2026-11-06 into [CLAIM-tmpp0p4d](CLAIM-tmpp0p4d.md): positive 1-in-3 SAT and positive
+NAE-3SAT are both NP-complete to satisfy, and navigation between
+solutions is polynomial for the first and PSPACE-complete for the second.
+It stands on readings that are Proposed; the instance above does not.
 
 **On A's first way.** With a fixed local move rule, as in the instance and
 in Gopalan et al., the same set of admissible configurations gives the same

@@ -35,7 +35,7 @@ supports:
 - CLAIM-354
 ---
 <!-- inactive-ok-file: NOTE-1592 NOTE-1596 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
-<!-- inactive-ok-file: CASE-214 CLAIM-562 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CASE-214 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-345: Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank
 

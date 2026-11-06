@@ -162,3 +162,7 @@ quantity this line had no name for, a change in what an organization can
 do. [CLAIM-527](CLAIM-527.md) places it beside emotion and valence.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after [LIT-1905](../literature.d/LIT-1905.md) (Massumi) was filed and read on 2026-10-31. As the note of that date says, Massumi's affect is not a Frijda-style characterization and says nothing about action readiness, so it does not answer [THEORY-101](../theory.d/THEORY-101.md)'s identity of hedonic valence with a felt regulatory state. That objection still holds the claim, as the note of 2026-10-29 states.

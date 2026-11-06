@@ -41,7 +41,7 @@ summary: >-
   It describes; it does not predict later checkpoints, and it cannot tell a
   feature carried forward from one re-learned in the same direction.
 ---
-<!-- inactive-ok-file: CLAIM-329 THEORY-279 CASE-165 — Proposed; the thesis on continuity by transmission and a neighbouring account, cited as open -->
+<!-- inactive-ok-file: CLAIM-329 THEORY-279 — Proposed; the thesis on continuity by transmission and a neighbouring account, cited as open -->
 # THEORY-1004: In Pythia-1B, OLMo-1B and BLOOM-1B, the crosscoder features that most affect subject–verb agreement change over pretraining: at early checkpoints they detect particular tokens and subtokens, at later ones grammatical categories; in BLOOM, language-specific features give way to features shared across English, French, Spanish and Portuguese while Hindi and Arabic keep language-specific ones; and which features matter keeps shifting after task accuracy has stopped improving
 
 ## Source

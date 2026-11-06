@@ -1,10 +1,23 @@
 ---
 number: 580
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmppzkl3
 title: 'The transition threshold is stable under error in the resource function: if an estimate of the requirement is within ε of the true one at every configuration, the estimated threshold is within ε of the true one, and an underestimate anywhere can only lower it while an overestimate can only raise it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status review's ruling (the owner delegated these rulings).
+    THEORY-1420 moves from grounds to corroborated_by (ADR-058): the body
+    cites it as the stability result this is the zero-dimensional case of,
+    and the argument does not use it. The bound, the 2ε slack and the
+    one-sided directions were re-derived step by step at the review.
+    TERM-106 takes no uses edge: the claim is not stated in it, and the
+    slack bullet gives the term's defined sense in its own words, as
+    CLAIM-571 does. No objection is on file, and nothing meets the defeat
+    condition. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -26,7 +39,7 @@ rests_on:
 - CLAIM-571
 complements:
 - CLAIM-585
-grounds:
+corroborated_by:
 - THEORY-1420
 summary: >-
   The assistant's own proposition, offered at the owner's invitation on
@@ -43,7 +56,7 @@ summary: >-
   coordinate. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-585 TERM-106 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: CLAIM-585 THEORY-1420 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # CLAIM-580: The transition threshold is stable under error in the resource function: if an estimate of the requirement is within ε of the true one at every configuration, the estimated threshold is within ε of the true one, and an underestimate anywhere can only lower it while an overestimate can only raise it
 

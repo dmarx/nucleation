@@ -161,3 +161,7 @@ structure that [CASE-191](../cases.d/CASE-191.md)'s note asks a test to separate
 cultures, correlationally.
 
 The status is unchanged.
+
+## Note of 2026-11-06: what holds it back
+
+Ryan et al. 2022 ([NOTE-1500](../notes.d/NOTE-1500.md)) and Chirkov et al. 2003 ([NOTE-1513](../notes.d/NOTE-1513.md)), read 2026-11-03, measure present endorsement and correlational internalization, not acquisition history against matched present endorsement. Deci et al. 1994 ([LIT-1973](../literature.d/LIT-1973.md)) is now Unavailable, so the core experiment is still held second-hand and the decisive test is not in the record.

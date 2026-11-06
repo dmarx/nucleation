@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmplo4ca
 title: 'A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Revised at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), so that its use of
+    TERM-106 says which sense. Step 3 and the summary named "positive
+    reconfiguration slack against the current configuration", which is
+    B*(q, q') − r(q), not the term's threshold less the costlier endpoint;
+    they now name the one-sided form, the slack from q, which TERM-106
+    defines in the same change. The construction is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -39,15 +50,14 @@ summary: >-
   period's peak spending, an organization that only holds its configuration
   spends the holding cost, so its budget falls to that cost and stays
   there; what it can reach is the connected part of the sublevel set at
-  that level around where it is, and every transition needing reconfiguration
-  slack is lost without anyone choosing to give it up and without any sign
+  that level around where it is, and every transition needing slack from
+  where it is, TERM-106's one-sided form, is lost without anyone choosing to give it up and without any sign
   in routine output. It is [CLAIM-079](CLAIM-079.md)'s stability without viability, produced
   by a budget rule. Demonstrated for the pure rule; real budget rules have
   floors, growth and discretion that weaken it. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-200 CASE-203 CLAIM-585 TERM-106 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
-<!-- inactive-ok-file: CLAIM-557 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
+<!-- inactive-ok-file: CASE-200 CASE-203 CLAIM-585 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # CLAIM-577: A budget set each period to the peak resource spent the period before never rises, so the configurations an organization can reach shrink monotonically, and any transition whose threshold exceeds the cost of holding the current configuration is lost after one period spent holding it, unless the budget is raised from outside by at least the difference
 
@@ -74,11 +84,13 @@ Then:
    component lies inside it.
 3. **Holding forecloses.** A period spent holding q costs r(q), so
    B_{t+1} = r(q). Any transition from q with B*(q, q′) > r(q), that is
-   with positive reconfiguration slack against the current configuration
-   ([TERM-106](../terms.d/TERM-106.md)), is then out of reach in every later period.
+   with positive slack from q, B*(q, q′) − r(q), the one-sided form of
+   reconfiguration slack ([TERM-106](../terms.d/TERM-106.md)), is then out of reach in every later
+   period. That includes a move to a configuration costlier to hold than q
+   whose two-sided slack is zero.
 4. **Only outside money restores it.** Under the rule the budget cannot
    climb back, so reaching q′ again needs an increase from outside of at
-   least B*(q, q′) − r(q).
+   least B*(q, q′) − r(q), the slack from q.
 
 ## Worked instance
 

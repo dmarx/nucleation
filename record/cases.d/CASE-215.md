@@ -34,7 +34,6 @@ summary: >-
   [CLAIM-598](../claims.d/CLAIM-598.md)'s point in time instead of amount. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-562 — Proposed, Skimmed or new; entries cited as open -->
 
 # CASE-215: In A's branching assembly model, one unit of supply placed on the nucleating step or on the completing step gives yields 71.1 and 62.7 %, and the same integrated exposure delivered early, evenly or late gives 70.6, 58.8 and 24.8 % when nucleation uses it, but 45.4, 58.8 and 65.3 % when it traps the unnucleated scaffold and completes the nucleated one
 

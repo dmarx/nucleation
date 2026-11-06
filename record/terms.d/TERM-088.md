@@ -8,7 +8,19 @@ complements:
 - TERM-071
 - TERM-074
 title: 'individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Definition edited by the twenty-sixth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings). The table
+    was introduced as what the word "in this record means", while the note
+    of 2026-10-31 records the genetic sense of Simondon's readers as none
+    of the four. A paragraph after the table now says the four are claims
+    about a candidate individual, and excludes the genetic sense, which
+    names the producing process, with the rule that a claim meaning it
+    says so. The four senses, the title and the status are unchanged.
 tags:
 - individuation
 - complex-systems
@@ -29,7 +41,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-474 CLAIM-157 — Proposed, Open or new; the entries this term serves -->
-<!-- inactive-ok-file: CLAIM-557 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # TERM-088: individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
 
@@ -44,6 +55,13 @@ say which (after A18 §6 and A23 §VI):
 | **dynamical** | its organization persists under specified dynamics and perturbations, with robust identity and boundaries |
 | **constitutive** | its relational organization helps fix its identity and boundary |
 | **organizational autonomy** | in addition, its processes contribute to maintaining its constitutive constraints ([TERM-070](TERM-070.md)) |
+
+These are claims about a candidate individual. The genetic, or operational,
+sense of Simondon's readers, individuation as the operation by which a
+metastable system resolves a disparity and yields a provisional individual,
+is not one of them: it names the process that would produce a candidate, not
+a claim about one (note of 2026-10-31). This term excludes it, and a claim
+that means it says so.
 
 The senses are not stages, and not degrees of existence. A pattern can be
 dynamically individuated while sustained wholly from outside, like a convection
@@ -170,3 +188,7 @@ The third paste of the pasted synthesis on resource-bounded realizability gives 
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 A's fourth paste proposes a division of labour among the senses: Yoneda characterizes relational identity, resource-enriched process theory says what is affordable, and dynamical and organizational theories say how individuals form and persist; "None reduces entirely to the others." On the genetic sense, a category of architectural transformations "may help describe processes of genetic individuation", but "the existence of such a category doesn't itself show that a process creates a new individual." A's proposed synthesis, "Effective individuation is the stabilization of a system of distinctions across a declared repertoire of computationally and physically realizable interactions", is offered as "not a replacement for the existing definitions" here, and is the descriptive sense made resource-relative. [CLAIM-557](../claims.d/CLAIM-557.md) adds that the descriptive sense and the reachable classes run in opposite directions with resources. The term is unchanged. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Every entry that uses this term now names its sense: [CLAIM-474](../claims.d/CLAIM-474.md), [CLAIM-529](../claims.d/CLAIM-529.md) (since its version 2 of today, for both its routes), [CLAIM-544](../claims.d/CLAIM-544.md), and [CLAIM-606](../claims.d/CLAIM-606.md), whose three grounds of identity (history, conditions, conserved charge) sit within the dynamical sense and add no new one. The definition was edited on 2026-11-06 (version 2) to exclude the genetic sense of Simondon's readers, which names the process and is not a claim about a candidate. Adoption waits for the next pass to confirm that the edited definition has settled.

@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpe18y0
 title: 'Families of constrained systems on different physical substrates may admit equivalent resource-bounded process structures under two-way resource simulation with bounded overhead, even where their configuration spaces and microscopic dynamics differ, and the classes so defined for feasibility, reachability, control and regeneration need not coincide'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-sixth status review (ADR-057), at the status review's ruling (the owner delegated these rulings): THEORY-1372
+    and THEORY-1407 move from grounds to corroborated_by (ADR-058), since
+    the body gives them as what the record holds toward the hypothesis, not
+    as its premises. No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,7 +36,7 @@ tags:
 date: '2026-11-05'
 line:
 - realizability
-grounds:
+corroborated_by:
 - THEORY-1372
 - THEORY-1407
 uses:
@@ -52,7 +60,7 @@ summary: >-
   defeaters include that it may say no more than PSPACE-completeness
   already does. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-556 CLAIM-578 NOTE-1584 TERM-111 THEORY-1407 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: NOTE-1584 TERM-111 THEORY-1407 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-573: Families of constrained systems on different physical substrates may admit equivalent resource-bounded process structures under two-way resource simulation with bounded overhead, even where their configuration spaces and microscopic dynamics differ, and the classes so defined for feasibility, reachability, control and regeneration need not coincide
 
@@ -127,3 +135,7 @@ which budgets, which can be driven by the inputs, and which regenerate.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The second paste of the pasted synthesis on resource-bounded realizability revises the hypothesis. A universality theory "should classify the structures preserved when configurations, processes, and constraint-maintenance mechanisms are translated across substrates, relative to declared computational and observational regimes", and its central problem is when composition and reconfiguration "create new effective possibilities, representations, or obstructions that persist across those translations". The revision adds maintenance mechanisms to what is translated, and makes the classification relative to a declared regime, as in [TERM-065](../terms.d/TERM-065.md)'s effective-description regimes. The third paste states the hypothesis for relational profiles, in the conjecture [QUESTION-393](../questions.d/QUESTION-393.md) records. A still offers it as a conjecture. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+It is stated in [TERM-111](../terms.d/TERM-111.md)'s computational sense, and [TERM-111](../terms.d/TERM-111.md) is not adopted. And no nontrivial two-way resource simulation that carries the costs of processes, not only the yes or no of reachability, is on the record between two of the families A names; that is [QUESTION-385](../questions.d/QUESTION-385.md)'s test, with no result yet.

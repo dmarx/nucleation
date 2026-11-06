@@ -31,7 +31,6 @@ summary: >-
   expected count, not a posterior, and the paper itself computes no
   truncation error.
 ---
-<!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
 # THEORY-1041: In the Indian buffet process the feature probabilities in decreasing order are products of independent Beta(α, 1) draws, so the k-th has mean (α/(α + 1))^k, and keeping only the first K of them gives an expected number of occupied features among N objects that approaches αH_N from below: 8.97 at K = 16, N = 12 and α = 3, against 9.31 in the limit and 6.83 for the finite model with sixteen independent prevalences
 

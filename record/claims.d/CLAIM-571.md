@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,14 @@ history:
     every path from 0 to 1 passes 1/2, and the sublevel set at 1.0 has two
     components with roots (1 ± √½)/2. No objection is on file, and nothing
     meets the defeat condition.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    At the twenty-sixth status review (ADR-057), at the status review's
+    ruling (the owner delegated these rulings): CLAIM-567 now rests on
+    this claim, since its first witness is this claim's example, so the
+    complements edge to it is removed here; the converse is written by the
+    repair. No status change; the claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -50,8 +58,6 @@ line:
 corroborated_by:
 - THEORY-1423
 - THEORY-1420
-complements:
-- CLAIM-567
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency
@@ -66,9 +72,9 @@ summary: >-
   it is infinite. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 CASE-206 — Proposed, Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: THEORY-1420 CLAIM-567 CLAIM-585 TERM-106 CASE-198 CASE-200 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CASE-204 CASE-206 CASE-207 CASE-208 CASE-211 CLAIM-569 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
-<!-- inactive-ok-file: NOTE-1585 NOTE-1581 CLAIM-591 CLAIM-560 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: THEORY-1420 CLAIM-585 CASE-198 CASE-200 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-204 CASE-206 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: NOTE-1585 NOTE-1581 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-571: For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two
 

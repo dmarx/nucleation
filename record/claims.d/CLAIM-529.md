@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmpbij2b
 title: 'An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate''s interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members'' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, a different individuation, unavailable where members have no such attitudes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    By the twenty-sixth status review (ADR-057), at the status review's
+    ruling (the owner delegated these rulings), so that the claim names
+    TERM-088's senses as that term asks. Item 2 now says that the first
+    three interaction criteria test constitutive individuation and release
+    from a scaffold tests dynamical individuation, and autonomy where the
+    order is maintained from inside. "What it does not say" read "It is not
+    the non-circular route, and it is a different sense of individuation";
+    since the attitude route is also constitutive (item 3), it now says it
+    individuates by a different relation. Title, defeater and status are
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -96,7 +110,12 @@ kinds, and only one kind avoids the circle.
      Bourrat).
 
    Each can be applied to a grouping without first deciding whether it is
-   a collection, a conexus or a community, and each can fail. The paper
+   a collection, a conexus or a community, and each can fail. In [TERM-088](../terms.d/TERM-088.md)'s
+   senses, the first three test constitutive individuation, whether the
+   candidate's relational organization fixes its identity and boundary, and
+   release from a scaffold tests dynamical individuation, whether its order
+   persists under that perturbation, and organizational autonomy where the
+   order is maintained from inside. The paper
    gives no operational form of any of them ([NOTE-173](../notes.d/NOTE-173.md), Limitations), and
    they need not agree: [CLAIM-531](CLAIM-531.md) shows the second and third can
    hold where closure fails.
@@ -131,7 +150,8 @@ kinds, and only one kind avoids the circle.
   individuality. The claim does not rest on it.
 - **That attitude criteria are illegitimate for human groups.**
   Individuation through members' attitudes is a real case. It is not the
-  non-circular route, and it is a different sense of individuation.
+  non-circular route, and it individuates by a different relation: the
+  group constituted by being its members' object, not by its interactions.
 - **That a declared candidate can be chosen without bias.** [CLAIM-405](CLAIM-405.md)
   makes the verdict objective once the criterion is fixed, not the choice
   of criterion or candidate.

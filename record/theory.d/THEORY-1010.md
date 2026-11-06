@@ -27,7 +27,6 @@ summary: >-
   there to be found. One failure is a posterior that prefers the wrong
   tree, which no better sampler would fix.
 ---
-<!-- inactive-ok-file: CASE-165 — Proposed; the case and claim this result is set against, open -->
 
 # THEORY-1010: On ten corpora simulated from three-level hierarchical LDA itself (100 documents of 250 words, a vocabulary of 100, sparse topics with η = 0.005, γ = 1), the highest-probability state of the collapsed Gibbs sampler recovered the generating tree exactly in eight; in one of the other two a wrong tree had higher posterior probability than the true one
 

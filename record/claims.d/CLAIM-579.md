@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpov8rf
 title: 'A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Revised at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), so that its use of
+    TERM-106 says which sense. The summary said "reconfiguration slack is a
+    field over configurations", which is what a reserve held is, not the
+    slack a transition needs; it now names TERM-106's reconfiguration
+    reserve, and the body ties the reserve to the term's one-sided slack.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,15 +46,16 @@ summary: >-
   driven; nonfungible geometry ([CASE-212](../cases.d/CASE-212.md) and [CLAIM-586](CLAIM-586.md)) shows more
   of a resource does not fix the wrong geometry; and in Dollar and Howe's
   hand, coupling decides which freedoms can be driven at all. The proposal
-  is that reconfiguration slack is a field over configurations, what can be
-  applied at each point, and that the transition threshold of
+  is that a reconfiguration reserve (TERM-106), the stock held for a
+  transition rather than the slack the transition needs, is a field over
+  configurations, what can be applied at each point, and that the transition threshold of
   [CLAIM-571](CLAIM-571.md) is met only where that field reaches the bottleneck. The
   obvious objection is that this restates nonfungibility; the claim is that
   location adds addressability, which a list of resource types does not
   carry. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-205 CASE-212 CLAIM-562 CLAIM-577 NOTE-1596 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: CASE-205 CASE-212 CLAIM-577 NOTE-1596 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # CLAIM-579: A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs
 
@@ -56,7 +67,12 @@ suggest a reserve also has a location: the configurations at which it can
 be applied. Write it as a(q), the extra capacity that can be brought to bear
 at q. A path is affordable when r(γ(t)) ≤ B + a(γ(t)) along it, so what
 matters is whether the reserve reaches the bottleneck configurations, not
-its total ∫a or its maximum elsewhere.
+its total ∫a or its maximum elsewhere. The reserve is [TERM-106](../terms.d/TERM-106.md)'s
+reconfiguration reserve, and the title's slack is that reserve, which
+measured against current output is organizational slack ([TERM-107](../terms.d/TERM-107.md)). With
+a the same everywhere and a budget of r(A), the condition is that a is at
+least the slack from A, [TERM-106](../terms.d/TERM-106.md)'s one-sided form; location matters when a
+varies.
 
 ## Why it is plausible
 

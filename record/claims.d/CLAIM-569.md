@@ -1,10 +1,26 @@
 ---
 number: 569
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpancvu
 title: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its premises,
+    CLAIM-571 and TERM-105, are Active, and no objection is on file. The
+    construction was re-checked step by step: X's construction and
+    maintenance costs (24, 2) and Y's (6, 4) rank in opposite orders; X's
+    upkeep of 2 fits the surplus of 3 while its construction of 24 exceeds
+    the surplus and the budget of 10 within a year and takes 8 years at 3;
+    Y is built from two years' surplus and its upkeep of 4 exceeds 3; the
+    conversion cost of 14 is below 24. The DNA origami readings in which
+    construction and maintenance rank alike (Aksel et al., Shirt-Ediss et
+    al.) are what its defeat condition excludes. TERM-106 is cited in the
+    body in its two-sided sense and takes no edge.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -47,7 +63,7 @@ summary: >-
   it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: TERM-106 CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-569: A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it

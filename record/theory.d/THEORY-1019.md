@@ -34,7 +34,6 @@ summary: >-
   the paper says. This concerns the expected count only, not the full
   row distribution beyond it.
 ---
-<!-- inactive-ok-file: CASE-165 — Proposed; the construction this bears on, cited as open -->
 
 # THEORY-1019: Under the Markov Indian buffet process the expected number of features on at the first time step is α, as in the Indian buffet process, but it rises over time toward α·E[ln((2 − b)/(1 − b))] with b ~ Beta(γ, δ), which is 9.04 at γ = 10 and δ = 1, so after the first step the rows are not distributed as an Indian buffet process
 

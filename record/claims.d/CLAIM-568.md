@@ -1,21 +1,41 @@
 ---
 number: 568
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpal9mc
 title: 'A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings); interpretive, so
+    listed for the owner. THEORY-1423, THEORY-1417, THEORY-1427 and
+    THEORY-1383 move from grounds to corroborated_by (ADR-058): the body
+    cites each as one mechanical case of an obstruction, and the argued
+    core, that more resource meets a finite threshold and none meets an
+    infinite one, is CLAIM-571's, now in rests_on. The defeat condition's
+    first clause, "A failed transition, in a declared model, that falls
+    under none of the four", made the four exhaustive, which the body
+    disclaims; it is removed as a mis-statement (ADR-047 kind 3), and
+    whether a failure of information is a fifth obstruction, as CASE-194's
+    observational arm and CLAIM-556 suggest, goes to QUESTION-tmphs5v5
+    (ADR-047 kind 4). The body now says that paths are directed where moves
+    are one-way, so a deadlock (CLAIM-591) is a disconnection. No objection
+    is on file.
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A failed transition, in a declared model, that falls under none of the
-  four; or a class of cases in which the remedy the classification assigns
-  to an obstruction does not touch it while another class's remedy does,
-  so that the classification does not track what would repair the
-  failure. Not defeated by failures that combine several obstructions at
-  once, which the claim allows, nor by organizational settings where the
-  mechanical reading fails; the claim is a classification of obstructions
-  to a transition, relative to a declared model.
+  A class of cases, in a declared model, in which the remedy the
+  classification assigns to an obstruction does not touch it while another
+  class's remedy does, so that the classification does not track what would
+  repair the failure. Not defeated by a failed transition that falls under
+  none of the four, since the claim does not say they are exhaustive; nor by
+  failures that combine several obstructions at once, which the claim
+  allows; nor by organizational settings where the mechanical reading
+  fails. The claim is a classification of obstructions to a transition,
+  relative to a declared model.
 tags:
 - complex-systems
 - control-theory
@@ -24,7 +44,9 @@ date: '2026-11-05'
 line:
 - realizability
 - readiness
-grounds:
+rests_on:
+- CLAIM-571
+corroborated_by:
 - THEORY-1423
 - THEORY-1417
 - THEORY-1427
@@ -34,6 +56,7 @@ complements:
 - CLAIM-586
 bears_on:
 - QUESTION-392
+- QUESTION-tmphs5v5
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency
@@ -50,8 +73,8 @@ summary: >-
   Interpretive: the classification is argued, not proved exhaustive. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-567 CASE-205 THEORY-1417 THEORY-1427 THEORY-1383 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
-<!-- inactive-ok-file: CLAIM-556 CLAIM-575 NOTE-1581 CLAIM-591 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: CASE-205 THEORY-1417 THEORY-1427 THEORY-1383 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
+<!-- inactive-ok-file: NOTE-1581 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-568: A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations
 
@@ -80,7 +103,11 @@ each step can fail:
   kinematic case. Berry, Lee-Trimble and Santangelo ([NOTE-1605](../notes.d/NOTE-1605.md);
   [THEORY-1423](../theory.d/THEORY-1423.md)): for a positively curved vertex "the two nappes have
   split into two disconnected components". No resource reaches across;
-  only a change of the declared transformations does.
+  only a change of the declared transformations does. Paths here are the
+  admissible paths of the declared transformations, directed where moves
+  are one-way, so a deadlock, a state that shares a component with its
+  target and has no directed path to it ([CLAIM-591](CLAIM-591.md)), is a disconnection
+  of this kind.
 - **Reachable, not within the ceiling**: the capacity bottleneck, the
   energetic case. The bottleneck budget of [CLAIM-571](CLAIM-571.md) is finite and
   above what is available. Zang, Zhao, Misseroni and Paulino

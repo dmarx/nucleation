@@ -31,8 +31,7 @@ summary: >-
   et al. and DeLuca et al. ran the routing half in experiment and
   simulation. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-599 — Proposed or new; cited from the note on A's synthesis on the productive nucleus -->
-<!-- inactive-ok-file: CASE-219 CLAIM-567 CLAIM-185 CLAIM-184 — Proposed; the study it varies and the entries it would test -->
+<!-- inactive-ok-file: CASE-219 CLAIM-185 CLAIM-184 — Proposed; the study it varies and the entries it would test -->
 
 # CASE-220: A proposed factorial assembly study: two scaffold routings of one target crossed with uniform or targeted early stabilization, at fixed geometry and component stock, measured by the committor of partial structures, so that a productive nucleus is one whose formation raises the chance of completion before failure and a trap one that lowers it
 

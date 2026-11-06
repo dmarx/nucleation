@@ -46,7 +46,6 @@ summary: >-
   the effect and are not fitted to any origami. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-570 CLAIM-569 — Proposed; the budgeted-reachability claims the toy bears on, and the claim it is built for -->
 
 # CASE-216: A four-state annealing toy, unfolded, nucleus, folded and a misfold trap, with free energies and transition states linear in temperature: the fraction folded at one hour peaks at 90.4 % at 318.6 K among constant temperatures, at sixteen hours it is at least 90 % from 313 to 323.5 K, and five minutes at 327 K followed by 318 K leaves 98.5 % folded at the hour, which no constant temperature does; the chance of having reached the folded state agrees to four places
 

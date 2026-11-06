@@ -55,7 +55,7 @@ summary: >-
   systems. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-570 CLAIM-592 CLAIM-561 CASE-206 — Proposed or Open in this pull request, cited as open -->
+<!-- inactive-ok-file: CLAIM-592 CLAIM-561 CASE-206 — Proposed or Open in this pull request, cited as open -->
 
 # CLAIM-572: When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum
 

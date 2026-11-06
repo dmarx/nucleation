@@ -39,7 +39,7 @@ summary: >-
   causation. It bears on [QUESTION-038](../questions.d/QUESTION-038.md) and [QUESTION-380](../questions.d/QUESTION-380.md), and qualifies
   [CLAIM-185](../claims.d/CLAIM-185.md)'s anchor. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-185 CLAIM-599 — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->
 
 # TERM-117: productive nucleus: a partial organization whose establishment, relative to a declared target, context, horizon and comparator, causally improves the probability, timeliness, robustness or resource-feasible accessibility of forming the target by changing later interaction opportunities, constraints or transition rates; distinct from a structural seed and a kinetic nucleus
 

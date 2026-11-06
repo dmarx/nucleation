@@ -27,7 +27,7 @@ summary: >-
   trivial, so the sense informs only relative to restricted primitives. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-034 CLAIM-573 CLAIM-578 NOTE-1584 QUESTION-008 THEORY-1407 — Deferred or Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-034 CLAIM-573 NOTE-1584 QUESTION-008 THEORY-1407 — Deferred or Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 THEORY-812 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-111: universality, of resource-bounded constraint systems, and which sense: expressive, that a restricted family implements every member of a class; computational, that one family resource-simulates another with bounded overhead, an equivalence only when the simulation runs both ways; or scaling, that families share asymptotic laws

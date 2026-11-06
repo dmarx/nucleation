@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpuk8gq
 title: 'With several resources, the budgets that suffice for a transition form an upward-closed set whose minimal elements, when the transition paths are finitely many, form a Pareto frontier; the set need not be convex, so no threshold on a weighted total of the resources describes it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Revised at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). TERM-106 leaves
+    uses: the claim is not stated in it, and the term's several-resource
+    form is defined from this claim's S(A, B), as CLAIM-571 left uses at
+    the twenty-fifth review.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -23,8 +32,6 @@ line:
 - formal-apparatus
 rests_on:
 - CLAIM-571
-uses:
-- TERM-106
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency

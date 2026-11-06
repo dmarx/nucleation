@@ -44,7 +44,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-427 CLAIM-327 — Proposed; the claims and terms this design restates or bears on, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-142 — Proposed; March's model read as the comparator, nothing here rests on it -->
-<!-- inactive-ok-file: CASE-165 — Proposed; filed with this case from T21–T23 of the same exchange -->
 
 # CASE-166: Northstar as a multilevel simulation: twelve employees with fixed frames in four departments form overlapping working groups that keep records and can receive delegated authority; as reported, a working group with delegated authority ties a conventional router given the same information and authority, nearly all of its advantage over departmental silos comes from fast authorization, and keeping the incident team's records through a commander handoff improves the company's estimate of its own state about eightfold while barely changing what it does
 

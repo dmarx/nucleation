@@ -1,10 +1,25 @@
 ---
 number: 560
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp4rtpa
 title: 'The resource-indexed compatibility filtration and the resource-indexed reachability filtration of one architecture both grow with the budget and neither determines the other: a budget can make a transition between configurations already feasible affordable while adding no jointly satisfiable set of demands, and a configuration can be feasible at a budget at which it is unreachable from the start'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), under ADR-057's
+    four criteria. Its premises CLAIM-586 and CLAIM-571 and its term
+    TERM-114 are Active, no objection is filed, and nothing meets its
+    defeater; the reviewer re-enumerated the three-state table. The
+    reachability relation is now stated as joining by one or more moves,
+    as the table already counted it, and a bullet says what the rows below
+    and at 1 show: R(b) unchanged while K(b) gains faces, the direction of
+    "neither determines the other" the body had left implicit. The
+    persistence paragraph now adds each configuration as reaching itself
+    before reading R(b) as a partition.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -49,7 +64,7 @@ summary: >-
   what is new is the pairing. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-583 CLAIM-585 CLAIM-591 THEORY-1420 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-585 THEORY-1420 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-560: The resource-indexed compatibility filtration and the resource-indexed reachability filtration of one architecture both grow with the budget and neither determines the other: a budget can make a transition between configurations already feasible affordable while adding no jointly satisfiable set of demands, and a configuration can be feasible at a budget at which it is unreachable from the start
 
@@ -75,8 +90,9 @@ Q(b) = {q : r(q) ≤ b}.
 
 - **Compatibility**: K(b), the sets of demands some q ∈ Q(b) meets
   together. It grows with b ([CLAIM-586](CLAIM-586.md)).
-- **Reachability**: R(b), the pairs (q, q′) joined by a sequence of moves
-  through Q(b). It grows with b, since a path within Q(b) lies within Q(b′)
+- **Reachability**: R(b), the pairs (q, q′) joined by a sequence of one or
+  more moves through Q(b), so a feasible configuration with no affordable
+  move is in no pair. It grows with b, since a path within Q(b) lies within Q(b′)
   for b ≤ b′; (q, q′) enters at [CLAIM-571](CLAIM-571.md)'s threshold B*(q, q′).
 
 K(b) depends on Q(b) and the demands only; R(b) on how Q(b) is joined by
@@ -101,9 +117,12 @@ Checked by the filer by enumeration.
 - **Feasible and unreachable.** On [1, 3), s₃ is feasible ({3} is a face)
   and unreachable from s₁. This half is [CLAIM-571](CLAIM-571.md)'s, whose example has
   both endpoints feasible at 1.0 and the threshold at 1.3.
+- **Faces without a transition.** From b < 1 to [1, 3), K(b) gains
+  {∅, {1}, {3}} while R(b) stays empty: the reachability filtration does
+  not fix the complex either.
 
-**Where persistence sees it.** With moves reversible at equal cost, R(b)
-is the partition of Q(b) into the components the moves join, so the
+**Where persistence sees it.** With moves reversible at equal cost, R(b),
+with each configuration of Q(b) taken as reaching itself, is the partition of Q(b) into the components the moves join, so the
 reachability filtration is the zero-dimensional part of the sublevel-set
 persistence of r: A's "two disconnected regions merge when the budget
 reaches 3", and the merge-level reading of Mirth et al. ([THEORY-1420](../theory.d/THEORY-1420.md))

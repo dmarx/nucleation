@@ -32,7 +32,7 @@ summary: >-
   construction is the filer's, from A's table of simultaneous, separate
   and sequential capability; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-567 CASE-211 TERM-113 — Proposed; A's proposals of 2026-11-04, a case filed beside this one, and a held term, cited as filed -->
+<!-- inactive-ok-file: CASE-211 TERM-113 — Proposed; A's proposals of 2026-11-04, a case filed beside this one, and a held term, cited as filed -->
 
 # CASE-209: A repertoire broader than simultaneous capacity: a rescue squad that can serve either of two distant incidents cannot serve both at once, and serves both in turn only when the second's deadline leaves time for the first job and the travel between them
 

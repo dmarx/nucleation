@@ -1,10 +1,24 @@
 ---
 number: 562
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp675a9
 title: 'Where an intervention acts in a system''s constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), under ADR-057's
+    four criteria. THEORY-1368 moves from grounds to corroborated_by
+    (ADR-058): the body cites Chen, Choi and Mahadevan as "A structural
+    instance", and the claim stands on THEORY-1418, Active, read in full
+    in NOTE-1571, which carries both findings on one pattern; "can" asks
+    no more. No objection is filed, and nothing in the record meets its
+    defeater: the supplement's energy model and noise were not read, and
+    nothing reports the failure disappearing. A duplicated "No status
+    changes." line removed.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -25,6 +39,7 @@ line:
 - realizability
 grounds:
 - THEORY-1418
+corroborated_by:
 - THEORY-1368
 complements:
 - CLAIM-345
@@ -42,8 +57,8 @@ summary: >-
   the filer's, from A's reading of Stern et al.; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-215 CLAIM-599 — Proposed or new; cited from the note on A's predictions -->
-<!-- inactive-ok-file: THEORY-1368 CLAIM-567 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-215 — Proposed or new; cited from the note on A's predictions -->
+<!-- inactive-ok-file: THEORY-1368 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
 
@@ -130,8 +145,6 @@ the concentration change was applied (central versus edge staples), not the
 amount alone, moved the nucleation site. The paper varies location and
 amount together, so it is suggestive, not a clean separation. No status
 changes.
-
-No status changes.
 
 ## Note of 2026-11-05: A's predictions on productive nucleation
 

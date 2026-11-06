@@ -32,7 +32,7 @@ summary: >-
   readouts' tie to [CLAIM-574](../claims.d/CLAIM-574.md) the filer's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-206 CLAIM-583 CLAIM-590 TERM-088 — Proposed; the record's open term for the senses of individuation, A's proposals of 2026-11-04 and 2026-11-05 and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-206 CLAIM-590 TERM-088 — Proposed; the record's open term for the senses of individuation, A's proposals of 2026-11-04 and 2026-11-05 and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CASE-202: A proposed study: two small constrained mechanisms that agree under a restricted family of probes and differ internally, probed at rising budgets, to find when they become distinguishable, what the distinguishing operations cost and whether the distinctions survive a change of architecture, with controls that separate finding a difference from making one
 

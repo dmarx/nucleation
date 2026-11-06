@@ -29,9 +29,8 @@ summary: >-
   its nearest relative. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-568 CASE-198 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: CASE-198 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: CASE-210 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
-<!-- inactive-ok-file: CLAIM-556 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # QUESTION-392: When does an intervention on a constraint architecture create a capability the system lacked, rather than make one it already had cheaper, faster or more reliable to reach, and how can the two be told apart?
 

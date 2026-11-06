@@ -158,3 +158,7 @@ to. The paper does not separate the two, and [NOTE-1484](../notes.d/NOTE-1484.md
 that perspectivism and realism pull against each other in it, is this
 ambiguity. A citation of the paper for "agential cut" should say which
 page it means. No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+Bencherki, Brummans and Vézy ([LIT-1902](../literature.d/LIT-1902.md), read 2026-10-31) cite Barad for the agential cut, but at second hand and in two senses (note of 2026-10-31), so they confirm nothing of the third sense. That an apparatus enacts the cut, Barad's definition of an apparatus and the cut's movability still rest on Faye and Jaksland's quotations; they wait on a reading of [LIT-1657](../literature.d/LIT-1657.md), which is Unavailable.

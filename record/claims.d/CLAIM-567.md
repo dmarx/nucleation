@@ -1,10 +1,23 @@
 ---
 number: 567
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp9jvpb
 title: 'That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status review's ruling (the owner delegated these rulings).
+    THEORY-1423, THEORY-1418, THEORY-1427 and THEORY-1409 move from grounds
+    to corroborated_by (ADR-058): the body gives them as physical instances,
+    and the implications and both witnesses are the claim's own. CLAIM-571
+    moves from complements to rests_on, since the first witness is its
+    example. The Berry, Lee-Trimble and Santangelo instance now says small
+    positive curvature, as THEORY-1423's title, narrowed on 2026-11-06,
+    does. No objection is on file, and nothing meets the defeat
+    condition.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -25,7 +38,9 @@ line:
 - realizability
 - readiness
 - formal-apparatus
-grounds:
+rests_on:
+- CLAIM-571
+corroborated_by:
 - THEORY-1423
 - THEORY-1418
 - THEORY-1427
@@ -33,7 +48,6 @@ grounds:
 complements:
 - CLAIM-357
 - CLAIM-347
-- CLAIM-571
 bears_on:
 - QUESTION-380
 summary: >-
@@ -51,8 +65,8 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: THEORY-1427 THEORY-1409 CLAIM-562 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CASE-206 CASE-207 CASE-209 CLAIM-568 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: THEORY-1427 THEORY-1409 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-206 CASE-207 CASE-209 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: NOTE-1572 NOTE-1555 NOTE-1584 NOTE-1613 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-567: That a target configuration is feasible, that it is reachable from the start under the admissible transformations, and that the process reliably reaches it are three properties, each implied by the next and none implying it
@@ -95,7 +109,7 @@ relative to the declared model of admissible transformations".
 ## Physical instances
 
 - **Feasible, not reachable: Berry, Lee-Trimble and Santangelo**
-  ([NOTE-1605](../notes.d/NOTE-1605.md); [THEORY-1423](../theory.d/THEORY-1423.md)). For a near-flat vertex with positive
+  ([NOTE-1605](../notes.d/NOTE-1605.md); [THEORY-1423](../theory.d/THEORY-1423.md)). For a near-flat vertex with small positive
   curvature "the two nappes have split into two disconnected components";
   each is feasible, and folding without self-intersection does not join
   them. Allowing faces to pass through each other reportedly does. Jules

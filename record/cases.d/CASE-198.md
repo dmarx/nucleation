@@ -30,7 +30,6 @@ summary: >-
   the architecture is a move. The construction is the filer's, from A's
   architecture-mediated transition; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-106 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: CASE-208 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CASE-198: An architecture-mediated transition: moving between two configurations by first switching to a staging architecture under which the path is cheaper, moving, then switching back, lowers the peak resource need from 1.3 to 1.0

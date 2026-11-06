@@ -24,7 +24,6 @@ summary: >-
   complex. Apparent relief that comes only from removing a demand or
   redefining success does not count.
 ---
-<!-- inactive-ok-file: CLAIM-532 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 
 # QUESTION-133: Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?
 

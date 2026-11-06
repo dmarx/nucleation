@@ -26,8 +26,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-592 CLAIM-572 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
-<!-- inactive-ok-file: CASE-206 CASE-212 CLAIM-557 CLAIM-583 NOTE-1568 NOTE-1609 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
-<!-- inactive-ok-file: CLAIM-570 — Proposed; the frontier claim and its worked case, cited as open -->
+<!-- inactive-ok-file: CASE-206 CASE-212 NOTE-1568 NOTE-1609 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 <!-- inactive-ok-file: CLAIM-572 — Proposed; the shared-budget claim, cited as open -->
 
 # QUESTION-374: What is the structure of a system's individuation indexed jointly by an observing budget and an acting budget, which invariants of that bifiltration are computable, and where do observing and acting draw on the same resource so that the two cannot be raised together?

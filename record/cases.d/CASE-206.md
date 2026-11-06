@@ -38,8 +38,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: NOTE-1606 — Skimmed; Foschi, Hull and Ku, read in part, the source of the equations' form -->
-<!-- inactive-ok-file: CLAIM-567 CLAIM-585 TERM-106 CASE-204 — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-570 — Proposed; the frontier claim applied here, cited as open -->
+<!-- inactive-ok-file: CLAIM-585 CASE-204 — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
 
 # CASE-206: A single flat-foldable degree-4 vertex under a footprint budget: its two folding modes meet only at the flat state, so passing between folded states needs the full flat footprint of 1.866, more than twice what either folded state at 150° takes
 

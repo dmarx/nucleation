@@ -10,7 +10,7 @@ promote_when: >-
   omits, and that the paper's barcode formula for the analytical alkane
   landscape is proved.
 title: 'The sublevelset persistent homology of an energy landscape contains its disconnectivity graph as the zero-dimensional part and also records alternative transition paths and higher critical points, and for the alkane torsional landscape it has a closed form in every dimension'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -21,6 +21,19 @@ history:
     which holds the paper's proof, was skimmed in NOTE-1616. It meets the
     condition's third part once a second reader has checked it (ADR-065
     §5). No status change; the title and condition are unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    At the twenty-sixth status review (ADR-057), at the status review's
+    ruling (the owner delegated these rulings): a second checker followed
+    the re-derivation's five steps (ADR-065 §5) and re-ran them as a script
+    with controls, scratch/formal/theory1420_barcode_check.py; the bar
+    counts hold for n = 1 to 4. Step 1's citation is corrected: NOTE-1616
+    does not state the shape of a torsion term. The condition's third part,
+    "that the paper's barcode formula for the analytical alkane landscape is
+    proved", is not met, since the formula includes "the rest of one finite
+    length", which the re-derivation does not cover. The blocker note is
+    replaced. No status change; the title and condition are unchanged.
 tags:
 - mathematics
 - natural-sciences
@@ -71,9 +84,10 @@ Zhang and Adams (2021), [LIT-2047](../literature.d/LIT-2047.md); read in [NOTE-1
 ## Re-derivation of 2026-11-06: the bar counts of Theorems 1 and 2
 
 1. Each one-dimensional torsion term is a Morse function on the circle with
-   three minima and three maxima (trans and two gauche; [NOTE-1616](../notes.d/NOTE-1616.md), §V). The
-   sum f_n on Tⁿ is then Morse. A critical point picks a critical point in
-   each coordinate, and its index is the number of coordinates at a
+   three minima and three maxima (trans and two gauche; [NOTE-1616](../notes.d/NOTE-1616.md) records
+   only the resulting count, and the shape was checked numerically for the
+   OPLS-UA CH2 term by the second checker). The sum f_n on Tⁿ is then
+   Morse. A critical point picks a critical point in each coordinate, and its index is the number of coordinates at a
    maximum, so index k has C(n, k)·3^k·3^(n−k) = 3ⁿ·C(n, k) critical points,
    as in Theorem 1.
 2. The semi-infinite bars in dimension k are the Betti numbers of Tⁿ,
@@ -93,6 +107,11 @@ Zhang and Adams (2021), [LIT-2047](../literature.d/LIT-2047.md); read in [NOTE-1
 It does not cover "the rest of one length" above, which the title does not
 assert; that stays transcribed from the proof.
 
+Second check of 2026-11-06: steps 1 to 5 followed and re-run by the script
+scratch/formal/theory1420_barcode_check.py (run: python3 -I
+scratch/formal/theory1420_barcode_check.py), with controls; the counts hold
+for n = 1 to 4. The bar lengths are not derived.
+
 ## Note of 2026-11-06: what holds it back
 
-Its condition asks that the closed form be proved, and appendix A, which holds the proof, was skimmed in [NOTE-1616](../notes.d/NOTE-1616.md). The promotion awaits a second reader's check of the re-derivation above ([ADR-065](../decisions.d/ADR-065.md) §5), or a reading of appendix A; nothing rests on this entry once the claims' edges have moved to corroborated_by.
+The bar counts are re-derived and checked; the condition's third part also asks for the paper's lengths, "the rest of one finite length", which rest on the skimmed appendix A. It waits on a reading of appendix A (or appendix C's Künneth formula) in full, or on a checked derivation of the lengths; a derivation by the Künneth formula for sums, drafted by the second checker and not yet on the record, is an available route once a third reader has checked it.

@@ -111,3 +111,7 @@ standards ([TERM-023](../terms.d/TERM-023.md)'s transformation dimension), or ar
 [CLAIM-485](CLAIM-485.md), the comparison in sense 5 is unsupported. [TERM-048](../terms.d/TERM-048.md)'s "What it is
 not", which gives a willed agent "something like the self-governance
 unity", carries the same tension.
+
+## Note of 2026-11-06: what holds it back
+
+Rechecked after [TERM-045](../terms.d/TERM-045.md)'s versions 6 and 7 (2026-10-29, 2026-11-01). Both concern the self-model senses, not sense 5, so the tension the note of 2026-10-29 names stands. The claim is neither narrowed to willed agents that can revise their allocating standards nor argued against [CLAIM-485](CLAIM-485.md).

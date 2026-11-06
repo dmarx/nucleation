@@ -26,7 +26,7 @@ summary: >-
   the hypothesis it would test. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-206 CLAIM-556 CLAIM-560 CLAIM-567 CLAIM-573 CLAIM-585 TERM-111 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-206 CLAIM-573 CLAIM-585 TERM-111 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # QUESTION-385: Under what conditions do systems on different substrates implement the same algebra of constrained realizability, up to a stated resource overhead and level of observation, and which of its properties depend on a substrate's geometry rather than on the pattern of constrained interaction?
 

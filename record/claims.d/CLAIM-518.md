@@ -1,10 +1,10 @@
 ---
 number: 518
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpg69cm
 title: 'Normative judgments about an organization''s continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-31'
@@ -25,15 +25,36 @@ history:
     diachronic relations that state descriptions miss. The discovery is
     kept; the universal necessary condition is dropped. The objection
     CLAIM-512 is widened to match.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted to Active at the status review's ruling (the
+    owner delegated these rulings), under ADR-057, ADR-059 and ADR-047, an
+    interpretive ruling listed for the owner. This version concedes the
+    broad horn of CLAIM-512: the claim no longer holds that the diachronic
+    relations it names add anything to CLAIM-363's relata, only that
+    judgments of this kind are not functions of present states or terminal
+    outcomes. With version 2's concessions of the narrow horn and of the
+    distinction between evaluation and prescription, the whole of CLAIM-512
+    is now written in. The defeat condition loses its second clause, which
+    read "or that the diachronic relations the claim names are always
+    recoverable from the standard alone, adding nothing to CLAIM-363's
+    relata". The body's sentence "That is the owner's insight, beside
+    CLAIM-363's standpoint, standard, scale and context." is replaced, and
+    the dropped clause is filed as CLAIM-tmpp3odb, a Proposed interpretive
+    claim resting on this one (ADR-047, kind 2). Both premises, CLAIM-363
+    and CLAIM-350, are Active, and nothing in the record meets the
+    remaining defeat condition: present attribution, ARG-043's rival,
+    accounts for some of the difference in Bencherki's pair but not for
+    A27's working-hours pair. The blocker note of 2026-11-06 is removed,
+    since what it named is now conceded. The title is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A showing that every normative judgment about an organization's
   continuity, reform or obligations can be applied adequately from a
   description of its present state or terminal outcome alone, so that
-  histories and diachronic relations add nothing; or that the diachronic
-  relations the claim names are always recoverable from the standard
-  alone, adding nothing to CLAIM-363's relata.
+  histories and diachronic relations add nothing.
 tags:
 - ethics
 - individuation
@@ -58,8 +79,11 @@ summary: >-
   need histories that present states and outcomes do not show. What is
   dropped is that every judgment needs a prescribed future: evaluating a
   history and fixing the admissible continuations are different problems.
-  "Cognizable" is read as "well-defined", [CLAIM-363](CLAIM-363.md)'s sense. Its objection
-  is [CLAIM-512](CLAIM-512.md).
+  "Cognizable" is read as "well-defined", [CLAIM-363](CLAIM-363.md)'s sense. Its objection,
+  CLAIM-512, is conceded whole: the narrow horn and the distinction at
+  version 2, the broad horn at version 3. The clause the broad horn
+  removed, that the diachronic relations add to CLAIM-363's relata, is
+  CLAIM-tmpp3odb.
 ---
 
 # CLAIM-518: Normative judgments about an organization's continuity, reform or obligations can depend on diachronic relations that descriptions of present states or terminal outcomes do not show, so specifying the relevant relations and histories can be necessary to apply them adequately; which continuations ought to follow is a further normative question, not a prerequisite of every normative judgment
@@ -96,8 +120,9 @@ that a description of the present state or the outcome does not contain.
   keeps and the ones it changes, not only the result.
 
 So specifying the relevant relations and histories can be necessary for
-applying such judgments adequately. That is the owner's insight, beside
-[CLAIM-363](CLAIM-363.md)'s standpoint, standard, scale and context.
+applying such judgments adequately. That is the owner's insight. It is a
+claim about what a description of the case must contain for J_N to be
+applied, not about what J_N's relata are.
 
 **Prescription is a further question.** Which continuations ought to
 follow, 𝒜_N(γ), is a separate normative problem. It is not a
@@ -112,6 +137,13 @@ does not need one.
   about experiences, such as that suffering is bad, may need no
   diachronic relatum. This is [CLAIM-512](CLAIM-512.md)'s narrow horn, which the
   narrowed claim no longer contests.
+- **That the diachronic relations add to [CLAIM-363](CLAIM-363.md)'s relata.** If any
+  difference between histories counts as a change in some organization,
+  every judgment has a diachronic relatum trivially. The organizational
+  description of a history earns a place beside the standard only by
+  causal specificity, transfer or counterfactual discrimination (A27
+  §10), and none of these has been shown. This is [CLAIM-512](CLAIM-512.md)'s broad horn,
+  which the claim concedes. The dropped clause is [CLAIM-tmpp3odb](CLAIM-tmpp3odb.md).
 - **That persistence is privileged.** Which continuation is warranted is
   the standard's question. The whole's persistence cannot outweigh its
   constituents' claims by being the whole's ([CLAIM-348](CLAIM-348.md)).
@@ -156,7 +188,3 @@ duty to foster each being-in-becoming". That is 𝒜_N, offered as the
 content of a judgment and not as a further question. [CLAIM-512](CLAIM-512.md) meets it.
 
 No status, title or warrant changes.
-
-## Note of 2026-11-06: what holds it back
-
-The broad horn of its objection [CLAIM-512](CLAIM-512.md) is unanswered: nothing on the record shows that the diachronic relations this claim names add to [CLAIM-363](CLAIM-363.md)'s relata, by causal specificity, transfer or counterfactual discrimination (A27 §10), which is the second clause of this claim's defeater. Bencherki's checklist and daycare ([ARG-043](../arguments.d/ARG-043.md)) separate two histories with one end state, but by a standard of authorship and not by the organizational description ([CLAIM-512](CLAIM-512.md)'s note of 2026-10-31).
