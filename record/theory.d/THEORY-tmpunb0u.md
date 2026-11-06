@@ -32,8 +32,8 @@ source:
 extends:
 - THEORY-1340
 summary: >-
-  Juarrero (2023), LIT-1995, ch. 15, read in NOTE-1532; the thesis the book
-  asserts and THEORY-1340 reports. The primary studies (Churchland,
+  Juarrero (2023), [LIT-1995](../literature.d/LIT-1995.md), ch. 15, read in [NOTE-1532](../notes.d/NOTE-1532.md); the thesis the book
+  asserts and [THEORY-1340](THEORY-1340.md) reports. The primary studies (Churchland,
   Cunningham et al. 2012; Shenoy, Kaufman et al. 2011; Kaufman, Churchland
   et al. 2014; Mante, Sussillo et al. 2013) are not held, and reading them
   is the first step towards this entry. Proposed: the evidence the chapter
@@ -45,8 +45,8 @@ summary: >-
 
 ## Source
 
-Juarrero (2023), LIT-1995, ch. 15, pp. 223–232; read in NOTE-1532. Her
-reading is reported, Active, in THEORY-1340. The primary papers are not
+Juarrero (2023), [LIT-1995](../literature.d/LIT-1995.md), ch. 15, pp. 223–232; read in [NOTE-1532](../notes.d/NOTE-1532.md). Her
+reading is reported, Active, in [THEORY-1340](THEORY-1340.md). The primary papers are not
 held.
 
 ## Where the source asserts it

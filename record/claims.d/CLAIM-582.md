@@ -60,7 +60,6 @@ summary: >-
   second half is the filer's. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1532 — Proposed or Skimmed; the record's graded-freedom claim, an entry of 2026-11-05 from the same paste, and the reading of Juarrero, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-582: Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism
 

@@ -16,7 +16,7 @@ tags:
 date: '2026-11-06'
 line: learned-structure
 summary: >-
-  Lu et al. (2026, LIT-1991, NOTE-1505; THEORY-1339) find, in synthetic
+  Lu et al. (2026, [LIT-1991](../literature.d/LIT-1991.md), [NOTE-1505](../notes.d/NOTE-1505.md); [THEORY-1339](../theory.d/THEORY-1339.md)) find, in synthetic
   conversations with frontier models playing the user, that persona position
   along the Assistant Axis drifts by domain and that embeddings of the
   latest user message predict it. Their users are simulated, the
@@ -29,7 +29,7 @@ summary: >-
 
 ## Why it is a question
 
-The Assistant Axis paper (LIT-1991, NOTE-1505, THEORY-1339) shows drift in
+The Assistant Axis paper ([LIT-1991](../literature.d/LIT-1991.md), [NOTE-1505](../notes.d/NOTE-1505.md), [THEORY-1339](../theory.d/THEORY-1339.md)) shows drift in
 mean trajectories over synthetic conversations, and a ridge regression in
 which user-message embeddings predict a response's position (R² 0.53–0.77)
 but not its change from the previous response (R² 0.10). It never
@@ -40,7 +40,7 @@ episode is open.
 
 ## What would answer it
 
-The test THEORY-1339's promote_when named: the drift result reproduced
+The test [THEORY-1339](../theory.d/THEORY-1339.md)'s promote_when named: the drift result reproduced
 with human users rather than simulated ones, in conversations not chosen
 by domain: a per-turn analysis in which the latest user message predicts
 the response's position along the Assistant Axis, and the previous
@@ -52,6 +52,6 @@ conversations, or more case studies, would not settle it.
 
 ## Bearing
 
-It bears on QUESTION-370, whose within- against between-episode test must
-condition on the user's messages, and on CLAIM-536's reading of persona
+It bears on [QUESTION-370](QUESTION-370.md), whose within- against between-episode test must
+condition on the user's messages, and on [CLAIM-536](../claims.d/CLAIM-536.md)'s reading of persona
 selection.

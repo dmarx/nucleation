@@ -74,7 +74,7 @@ Lu et al. (2026), [LIT-1991](../literature.d/LIT-1991.md), §§4.1–4.2 and §6
   dependent on the context of the conversation" (p. 11).
 - That drift is the cause of harm: first-turn projection correlates with
   second-turn harm at r = 0.39–0.52, and the role matters.
-- That it holds for human users or frontier models; that is QUESTION-tmp0eghp.
+- That it holds for human users or frontier models; that is [QUESTION-tmp0eghp](../questions.d/QUESTION-tmp0eghp.md).
 - That previous position was tested: the 0.10 is the message embeddings'
   fit to the change, not a fit of the previous position.
 - Bearing: if it holds, a test of an episode-level mixture

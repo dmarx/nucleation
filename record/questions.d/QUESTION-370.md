@@ -92,7 +92,7 @@ listed: persona, actor, author or narrative, router and the network
 ## Note of 2026-11-06: the replication, filed
 
 The human-user test of persona drift, and whether a per-turn state model
-beats an episode-fixed persona, is now its own question (QUESTION-tmp0eghp,
-filed from THEORY-1339's narrowing). The R² 0.10 in the Assistant Axis
+beats an episode-fixed persona, is now its own question ([QUESTION-tmp0eghp](QUESTION-tmp0eghp.md),
+filed from [THEORY-1339](../theory.d/THEORY-1339.md)'s narrowing). The R² 0.10 in the Assistant Axis
 paper is the user-message embeddings' fit to the change in position, not
-evidence about the previous position (NOTE-1505).
+evidence about the previous position ([NOTE-1505](../notes.d/NOTE-1505.md)).
