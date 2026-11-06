@@ -128,3 +128,6 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 - **[CLAIM-310](../claims.d/CLAIM-310.md) and [CLAIM-313](../claims.d/CLAIM-313.md).** Significations do not conflict as descriptions, and attributions conflict only when held once. Table 1's usurpation is exclusive credit, and its co-individuation is copied credit. Same structure, not shown to be the same mechanism.
 
+## Note of 2026-11-06: what holds it back
+
+No data in the record code contested attributions blind to the outcome and show that the cell of Table 1 predicts exit, counter-organization or continued participation; the table classifies three documentary excerpts and predicts nothing.

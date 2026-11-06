@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmptb7y2
 title: 'Viable reach, valence and emotion are three quantities in an organization, not one: an emotion is a claim to precedence, system valence is movement along the ordering that wins the negotiation, and a change in what the organization can viably reach is neither, so an organization can run ahead along its prevailing ordering while its viable reach contracts'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-seventh status review's ruling (the owner delegated
+    these rulings; ADR-058), THEORY-1282 and THEORY-1280 leave grounds:
+    the claim cites them only for Massumi's definition and the parent
+    paper's definition of agency, quoted, and says the placing among its
+    three quantities is its own, as its defeated_if also says. Quotation
+    and attribution take no edge; the body keeps both citations. No
+    status, title or warrant changes.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,9 +39,6 @@ line:
 rests_on:
 - CLAIM-440
 - CLAIM-079
-grounds:
-- THEORY-1282
-- THEORY-1280
 uses:
 - TERM-094
 - TERM-076
@@ -48,7 +56,7 @@ summary: >-
   can move against valence. It does not say that Massumi's capacitation
   is viable reach, or that more reach is better.
 ---
-<!-- inactive-ok-file: CLAIM-440 CLAIM-442 CLAIM-354 TERM-076 THEORY-1282 THEORY-1280 CLAIM-439 CLAIM-446 — Proposed or Open; the potential account this rests on, and the readings and neighbours set beside it -->
+<!-- inactive-ok-file: CLAIM-440 CLAIM-442 CLAIM-354 TERM-076 THEORY-1280 CLAIM-439 CLAIM-446 — Proposed or Open; the potential account this rests on, and the readings and neighbours set beside it -->
 
 # CLAIM-527: Viable reach, valence and emotion are three quantities in an organization, not one: an emotion is a claim to precedence, system valence is movement along the ordering that wins the negotiation, and a change in what the organization can viably reach is neither, so an organization can run ahead along its prevailing ordering while its viable reach contracts
 

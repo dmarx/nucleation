@@ -1,10 +1,31 @@
 ---
 number: 526
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpg3993
 title: 'Describing persons and organizations as coexisting levels of one process removes the question of how already-constituted agents add up to a collective, but not the question of levels: whether a collective variable has dynamics of its own, closed against the activity that realizes it, can be decided on a process description that presupposes no agents, is sometimes decided no, and a closed collective variable can be an aggregate that coexists with its realization while keeping none of its members'' distinctions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings); the
+    warrant is interpretive. Its grounds THEORY-1277 and THEORY-1278 are
+    replaced by THEORY-tmpwjxgf and THEORY-tmpbp1q1, the Active reports
+    of what Bencherki and Iliadis, and Bencherki, Brummans and Vézy,
+    propose, split off by the same review (ADR-065), since the claim
+    answers the proposals and needs nothing about whether they are
+    right. Every premise is now Active (CLAIM-388, CLAIM-386, CLAIM-480,
+    CASE-120 and the two reports), and no objection is filed. Nothing in
+    the record meets its defeated_if: THEORY-1277 ("What fixes a level":
+    domains distinguished "for practical purposes") and QUESTION-130 ("a
+    connection the analyst chooses") say that the readings give no
+    criterion for a level, not that a collective variable cannot be
+    stated apart from the analyst's choice, so neither is the argument
+    the condition names. The citation of THEORY-1278's promote_when in
+    part 2 stays, since the condition remains there. No title or warrant
+    changes.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,8 +50,8 @@ rests_on:
 - CLAIM-386
 - CLAIM-480
 grounds:
-- THEORY-1277
-- THEORY-1278
+- THEORY-tmpwjxgf
+- THEORY-tmpbp1q1
 - CASE-120
 complements:
 - CLAIM-474
@@ -50,18 +71,18 @@ summary: >-
   not say that the agent picture is right, or that organizations are
   aggregates of members.
 ---
-<!-- inactive-ok-file: THEORY-1277 THEORY-1278 CLAIM-474 — Proposed; the readings this claim answers and the synthesis it sits beside -->
+<!-- inactive-ok-file: THEORY-1278 CLAIM-474 — Proposed; the reading whose refutation condition part 2 meets, and the synthesis it sits beside -->
 
 # CLAIM-526: Describing persons and organizations as coexisting levels of one process removes the question of how already-constituted agents add up to a collective, but not the question of levels: whether a collective variable has dynamics of its own, closed against the activity that realizes it, can be decided on a process description that presupposes no agents, is sometimes decided no, and a closed collective variable can be an aggregate that coexists with its realization while keeping none of its members' distinctions
 
 ## The claim
 
-Bencherki, Brummans and Vézy ([THEORY-1278](../theory.d/THEORY-1278.md)) write that the problem of
+Bencherki, Brummans and Vézy (THEORY-tmpbp1q1) write that the problem of
 scaling from individual to collective agency "is only relevant ... when
 communication is regarded as an interaction between already-existing
 agents, operating at different levels, and vanishes the moment
 communication is viewed eventfully" (p. 1364). They rest it on Bencherki and
-Iliadis ([THEORY-1277](../theory.d/THEORY-1277.md)): entities "are not at different stages of
+Iliadis (THEORY-tmpwjxgf): entities "are not at different stages of
 individuation, but rather different informational levels that preserve
 all the characteristics of their organized components. An employee is not
 prior to the organization, nor is the organization an abstraction of its
