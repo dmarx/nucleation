@@ -125,3 +125,7 @@ needs.
 - **That the algebra exists.** The word "algebra" is A's; no operations on
   repertoires are defined beyond the composition of processes
   ([CLAIM-563](CLAIM-563.md)).
+
+## Note of 2026-11-06: what holds it back
+
+CLAIM-583, narrowed and promoted at this review, shows that the compatibility complex does not carry reachability; its two systems have different sets of configurations, and with a fixed move rule the configurations and their moves do carry it, so it does not show what "The state space is not enough" draws from it. No comparison is on file that the repertoire makes and a costed configuration space with its moves (TERM-114) does not, which is what the first and novelty clauses of the defeat condition ask, and the observational way is held only through CASE-194, which is Proposed.

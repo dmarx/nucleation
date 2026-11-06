@@ -55,3 +55,7 @@ topology", PNAS (2020), [LIT-2064](../literature.d/LIT-2064.md); read from arXiv
   rigidity percolation.
 - Anything about sheets other than planar quad (and, in the SI, kagome)
   kirigami, or about physical sheets.
+
+## Note of 2026-11-06: what holds it back
+
+The title says the authors show the minimum rigidifying and connecting counts, whose proofs are in the SI Appendix that NOTE-1574 did not read; a reading of those proofs, or a re-derivation of δ(L) and γ(L) checked by a second reader, would meet it. Its promote_when's demand for an independent analysis or simulation asks more than a reported title asserts (ADR-065). Nothing rests on it now that CLAIM-562 cites it as corroboration.

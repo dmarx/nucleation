@@ -1,10 +1,20 @@
 ---
 number: 599
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpuv9yj
 title: 'Because establishing more relations can lower the chance of forming a target, the sets of relations that are productive nuclei need not be closed upward: two productive nuclei can combine into a trap, so the minimal productive sets describe the productive ones only where adding relations never hurts'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), under ADR-057's
+    four criteria. Its premise CLAIM-562 is promoted in the same review
+    and its term TERM-117 is Active; no objection is filed, and nothing
+    meets its defeater. The reviewer rechecked the three points and the
+    numerical example step by step.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

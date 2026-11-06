@@ -1,10 +1,26 @@
 ---
 number: 557
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp42yq0
 title: 'More resource for observing splits what can be told apart, and more resource for acting merges what can be turned into one another, so a system''s budgeted individuation runs in opposite directions from outside and from inside and is indexed by a pair of budgets, not one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), under ADR-057's
+    four criteria. Its premises CLAIM-574 and CLAIM-581 are Active, no
+    objection is filed, and nothing in the record meets its defeater: the
+    DNA origami readings of 2026-11-05 bear on whether physical probe
+    families are nested, which the claim takes as its hypothesis. One
+    sentence of "Where the two meet" corrected, a mis-statement (ADR-047
+    kind 3): it read "A configuration that is its own class from outside
+    but merged with others from inside is one the system can leave
+    without anyone noticing", but a configuration observers can tell from
+    every other is noticed whenever it is left; the unnoticed case is one
+    merged with others both from outside and from inside.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -80,9 +96,9 @@ partition gets coarser. Neither is the system's individuation; the pair is.
   observer could afford to check need change. [CLAIM-302](CLAIM-302.md)'s pseudorandom
   ensembles are the converse limit: inside, the two ensembles are as
   different as can be; outside, at polynomial budget, they are one class.
-- **Where the two meet.** A configuration that is its own class from
-  outside but merged with others from inside is one the system can leave
-  without anyone noticing; one that is merged from outside but alone from
+- **Where the two meet.** A configuration merged with others both from
+  outside and from inside is one the system can leave for them without
+  anyone noticing; one that is merged from outside but alone from
   inside is one the system cannot leave though observers cannot tell it
   from others. Both are candidates for the readiness cases of this pull
   request ([CASE-210](../cases.d/CASE-210.md)'s two departments are the second kind).
