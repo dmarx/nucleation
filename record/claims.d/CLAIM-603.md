@@ -226,9 +226,15 @@ Two qualifications on incentives. Koedinger and Aleven's tutors put a designed c
 
 ## Note of 2026-11-06: what holds it back
 
-The title still states the favoured loss generally, though the
-counterpoint readings it records ([NOTE-1685](../notes.d/NOTE-1685.md), [NOTE-1684](../notes.d/NOTE-1684.md), [NOTE-1669](../notes.d/NOTE-1669.md)) find
-no such response in poor households; the title should be narrowed to the
-organizational case it concedes. Its Samaritan's-dilemma ground
-([THEORY-1480](../theory.d/THEORY-1480.md)) is read only in part, and Moore's thesis ([THEORY-1459](../theory.d/THEORY-1459.md)) is
-not held.
+Two holds stand. First, the title states the favoured loss generally,
+though the counterpoint readings it records (NOTE-1685, NOTE-1684,
+NOTE-1669) find no such response in poor households. The title should be
+narrowed to the organizational case it concedes. Second, Moore's thesis
+(THEORY-1459) is not held. The third hold, that its Samaritan's-dilemma
+ground was read only in part, is met. THEORY-1480 is now Active on a
+reading of every part of the report its title uses (NOTE-1647). That
+reading supports the claim's one-way supply set from outside: a recipient
+turns to another donor when one threatens to withdraw ("Bad Samaritans
+drive the good ones out of the market", p. 74), and Gardner and Waller
+find donors "stuck ... in partial success equilibria with their attendant
+aid dependency" (Appendix B, p. 326).

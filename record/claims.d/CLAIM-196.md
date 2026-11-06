@@ -55,6 +55,7 @@ uses:
 - TERM-045
 ---
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the diachronic partner of this claim, open -->
+<!-- inactive-ok-file: NOTE-1432 — Skimmed; the reading of boyd the dated note cites -->
 
 # CLAIM-196: A person's roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create
 
@@ -147,3 +148,12 @@ rests. Its formal part was already [CLAIM-197](CLAIM-197.md). This claim keeps t
 the sheaf reading and its prediction that segregation strategies target
 the overlaps, and stays interpretive. Its title states the sociology only
 as what keeps or creates an overlap, so it was kept.
+
+## Note of 2026-11-06: boyd, read further
+
+boyd supports the premise in her own words: "teens want to be able to
+interact with their peers differently from how they interact with their
+parents" (p. 287, NOTE-1432). Her healthy-household cases, where parents
+join teen space with "little conflict" (p. 251), fit the claim's
+condition. An overlap is needed for role conflict but does not bring it
+by itself. No status change.
