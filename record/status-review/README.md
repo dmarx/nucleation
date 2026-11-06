@@ -38,7 +38,11 @@ work. Then take work in this order:
    happened, and it takes the entry off this list.
 4. **Proposed readings no source of which is read in full.** These need
    reading, not review. Leave them out of clusters.
-5. **Live claims that need a work no NOTE reads.** An unread work takes no
+5. **Demonstrated claims grounded on readings not held.** A derivation rests
+   on its steps. Check each listed reading: an instance, a parallel or prior
+   art is `corroborated_by` (ADR-058), and moving it often frees the claim.
+   A reading that supplies a step, such as a measured constant, stays.
+6. **Live claims that need a work no NOTE reads.** An unread work takes no
    edge (ADR-058). Either the work is read, or the edge goes and the body
    keeps the citation; an Active claim on the list is checked first.
 
@@ -125,7 +129,18 @@ original reading stays Proposed.
 **Concessions (ADR-059).** A conceded objection is recorded by revising its
 target. The target's history note must name the objection, or the target
 carries a note headed `## Note of YYYY-MM-DD: filed with its concessions`
-that names it. Promoting an objection makes its concession due: re-run the
+that names it.
+
+- **A partial concession is not a concession.** The worklist counts the
+  objection as written in only from a sentence that names it without saying
+  it is conceded in part or partly, or is still open or unanswered. Where
+  part stands, say so in those words, and the objection stays live.
+- **A blocker note can reopen one.** A blocker note on the target, dated on
+  or after the revision, with a sentence naming the objection and saying it
+  is unanswered, still open, not answered or not written in, keeps the
+  objection live. That is how pass 25 left CLAIM-518 held on CLAIM-512's
+  broad horn; once CLAIM-512 went Active, the worklist lists the concession
+  as unwritten. Promoting an objection makes its concession due: re-run the
 worklist after each cluster lands.
 
 **Kept Proposed.** An entry kept Proposed gets one to three sentences under

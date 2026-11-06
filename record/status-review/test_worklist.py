@@ -296,3 +296,53 @@ def test_a_blocker_note_naming_a_temporary_code_is_watched_too(tmp_path):
                              "NOTE-tmpab12c reads only the abstract.\n")
     r = Record(r.docs, r.bodies)
     assert r.stale_blockers() == [("CLAIM-015", "2026-10-20", ["NOTE-tmpab12c"])]
+
+
+def test_a_concession_in_part_does_not_write_the_whole_objection_in(tmp_path):
+    # pass 25: CLAIM-518's history named CLAIM-512 because it conceded the narrow horn; the broad
+    # horn stayed unanswered, and the worklist listed CLAIM-518 as ready
+    r = record(tmp_path)
+    hist = r.docs["CLAIM-013"]["history"]
+    for note in ("Narrowed to concede CLAIM-012 in part: its first horn. Title changed.",
+                 "Narrowed for CLAIM-012's first horn; its second remains open.",
+                 "Partly concedes CLAIM-012. Title changed.",
+                 "Narrowed for CLAIM-012; its broad horn is still unanswered."):
+        hist[:] = [{"version": 2, "date": "2026-10-19", "note": note}]
+        assert not r.written("CLAIM-012", "CLAIM-013"), note
+
+
+def test_a_target_held_on_an_objection_still_faces_it(tmp_path):
+    # a blocker note on the target, dated on or after its revision, that names the objection says
+    # the objection still holds the target back, whatever the history note conceded
+    r = record(tmp_path)
+    assert r.written("CLAIM-007", "CLAIM-008")
+    r.bodies["CLAIM-008"] = ("\n## Note of 2026-10-12: what holds it back\n\n"
+                             "CLAIM-007's second horn is unanswered.\n")
+    assert not r.written("CLAIM-007", "CLAIM-008")
+    assert "CLAIM-007" in r.live_objections("CLAIM-008")
+    # a note older than the revision is what the revision answered
+    r.bodies["CLAIM-008"] = ("\n## Note of 2026-10-11: what holds it back\n\n"
+                             "CLAIM-007 is unanswered.\n")
+    assert r.written("CLAIM-007", "CLAIM-008")
+    # a note that names the objection only as written in, or as context, does not reopen it
+    for text in ("With CLAIM-007 written in, what remains is a missing result.",
+                 "The defeat condition meets CLAIM-007's demand; a missing result holds it."):
+        r.bodies["CLAIM-008"] = f"\n## Note of 2026-10-20: what holds it back\n\n{text}\n"
+        assert r.written("CLAIM-007", "CLAIM-008"), text
+    # a note that does not name the objection holds the target on something else
+    r.bodies["CLAIM-008"] = "\n## Note of 2026-10-20: what holds it back\n\nA missing result.\n"
+    assert r.written("CLAIM-007", "CLAIM-008")
+
+
+def test_readings_a_demonstrated_claim_grounds_on_are_listed_as_likely_corroboration(tmp_path):
+    # passes 25 and 26: a derivation rests on its steps, and in every case checked the Proposed
+    # readings a demonstrated claim listed under grounds were instances or parallels (ADR-058)
+    r = record(tmp_path)
+    r.docs |= {"CLAIM-030": {"status": "Proposed", "warrant": "demonstrated",
+                             "grounds": ["THEORY-002", "THEORY-005", "CLAIM-001", "LIT-001"]},
+               "CLAIM-031": {"status": "Proposed", "warrant": "interpretive", "grounds": ["THEORY-002"]},
+               "CLAIM-032": {"status": "Rejected", "warrant": "demonstrated", "grounds": ["THEORY-002"]}}
+    r.docs["THEORY-005"] = dict(r.docs["THEORY-005"], status="Active")
+    r = Record(r.docs, r.bodies)
+    assert r.demonstrated_on_readings() == [("CLAIM-030", ["THEORY-002"])]
+    # a work in grounds is the unread-grounds section's business, not this one's
