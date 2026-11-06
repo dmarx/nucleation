@@ -1,10 +1,10 @@
 ---
 number: 512
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp1l3am
 title: 'The diachronic thesis faces two objections: a dilemma, that read narrowly it fails for judgments not about any organization''s continuation, such as that suffering is bad, and read broadly every judgment is met vacuously as a preference between continuations unless the organizational description adds causal specificity, transfer or counterfactual discrimination; and a distinction, that evaluating a history is not prescribing its continuation, so a judgment can be determinate with no future transformation fixed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-31'
@@ -15,6 +15,17 @@ history:
     prescribed transformation, so this second objection is answered by
     concession. The dilemma stands, unanswered, against the narrowed thesis's
     scope.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Status Proposed → Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057. The objection rests on
+    nothing the record does not hold, and nothing objects to it. Its
+    second part and its narrow horn were conceded by CLAIM-518's narrowing
+    of 2026-10-31, whose history names this claim. Its broad horn stands
+    against the narrowed thesis and is what holds CLAIM-518 back. Active
+    asserts that the thesis faces these objections, not that A27's three
+    tests have failed.
 role: counter
 warrant: interpretive
 tags:

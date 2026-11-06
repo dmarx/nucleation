@@ -156,3 +156,7 @@ duty to foster each being-in-becoming". That is 𝒜_N, offered as the
 content of a judgment and not as a further question. [CLAIM-512](CLAIM-512.md) meets it.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+The broad horn of its objection CLAIM-512 is unanswered: nothing on the record shows that the diachronic relations this claim names add to CLAIM-363's relata, by causal specificity, transfer or counterfactual discrimination (A27 §10), which is the second clause of this claim's defeater. Bencherki's checklist and daycare (ARG-043) separate two histories with one end state, but by a standard of authorship and not by the organizational description (CLAIM-512's note of 2026-10-31).

@@ -1,10 +1,21 @@
 ---
 number: 548
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6zm3v
 title: 'A motivational process can become active, and act, without any expectation that its response will succeed: its activation, the authority the organization grants it and the efficacy of what it does are separate quantities, so a threshold on expected net benefit is one special case of an activation threshold and not its general form'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Status Proposed → Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057. Its premise CLAIM-283 and its
+    term TERM-094 are Active, and nothing objects to it. The rival, Moors,
+    Boddez and De Houwer's goal-directed reading (LIT-1434, read in
+    NOTE-1117), is cited in the body and takes no edge; the record does
+    not make it good on the wall-punch, as the defeater would need, and
+    NOTE-1117 leaves a lexicographic reading open.
 role: thesis
 warrant: interpretive
 defeated_if: >-

@@ -1,10 +1,22 @@
 ---
 number: 534
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpexvc6
 title: 'A plural will''s motivational integration, a dimension of freedom of will the record names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Status Proposed → Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057. Its premises CLAIM-347,
+    CLAIM-538, CLAIM-357 and CLAIM-079, its ground THEORY-134 and its term
+    TERM-060 are Active, among them the claim its summary names as "its
+    formal half". Nothing objects to it. Its defeater is not met: the
+    nearest rival, Frankfurt's integration by wholehearted identification
+    (THEORY-120), is Proposed, so the record has no reason to count an
+    agent integrated by ranking its demands.
 role: thesis
 warrant: interpretive
 defeated_if: >-

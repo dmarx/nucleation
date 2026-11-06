@@ -1,10 +1,24 @@
 ---
 number: 523
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Status Proposed → Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057. It uses three Active terms,
+    TERM-064, TERM-023 and TERM-085, and rests on nothing else; nothing
+    objects to it, and nothing on the record meets its defeater. The
+    summary's "Proposed: the separations are argued, not built" describes
+    its warrant, interpretive, and is not an unmet demand. Bencherki's
+    newsletter (note of 2026-10-31) is a normative demand made legible and
+    refused authority, and CASE-194 builds failures from observation,
+    authority and actuation that repair separately, though not one to one
+    onto these three.
 role: thesis
 warrant: interpretive
 defeated_if: >-

@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmpptgk8
 title: 'Sensitivity does not fix the allocation or the authorship of control: linearized, every input reaches the final state through the same transition operator, ∂x_T/∂w_t = Φ(T, t)B_w(t), so systems with the same Lyapunov spectrum can differ arbitrarily in what an agent''s own channel, an outside party''s channel and noise each reach and at what least energy; and along one unstable direction a larger exponent λ lowers the least effort to reach a displacement, since W_T = b²(e^{2λT} − 1)/2λ grows with λ, while a constant open-loop input against white noise entering the same direction has terminal signal-to-noise ratio tending to (bu/σ)√(2/λ), which falls as λ grows, so only feedback that observes the state turns cheaper control into reliable direction'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    The ground LIT-1997 is removed at the status review's ruling (the
+    owner delegated these rulings), under ADR-058 and the status-review
+    README: the work is Unavailable and no NOTE reads it, so it takes no
+    edge. The claim is demonstrated from CLAIM-345 and its own derivation,
+    and cites Ott, Grebogi and Yorke only as an instance of feedback
+    control; the body keeps the citation. Status unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,8 +37,6 @@ rests_on:
 - CLAIM-345
 complements:
 - CLAIM-354
-grounds:
-- LIT-1997
 summary: >-
   The demonstrated part of the owner's U16 and U20 of the exchange "Assess
   SDT Coverage" (2026-11-02), "controllability vs sensitivity". A20 §2
