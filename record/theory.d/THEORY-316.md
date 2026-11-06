@@ -160,3 +160,12 @@ side has been read first-hand: Widerker and Goetz are known only through
 Fischer's quotations ([NOTE-1457](../notes.d/NOTE-1457.md)), and Fischer and Timpe write from the
 compatibilist and source sides. Timpe's argument runs from ultimacy to
 alternatives, so it is not the refuting argument the promote_when names.
+
+## Note of 2026-11-06: what holds it back
+
+Chapter 1 pp. 10–37 are still unread here, including the defence of Pereboom's own Frankfurt-style
+case (from p. 18), "Ginet's challenge" (p. 28) and "An objection to causal-history incompatibilism"
+(p. 33), which is the argument the promote_when names; no reply from the leeway side has been read
+first-hand. On 2026-11-06 a SciSpace upload of part of the book (typeset.io/pdf/living-without-free-will-3y4uq2deky.pdf,
+the front matter and pp. 1–20) was located and set aside under ADR-074's exclusion of in-copyright
+books, so the owner can supply the book.

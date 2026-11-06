@@ -128,3 +128,11 @@ no such search; its support is plausibility.
   case pressed against functionalism about experience as such.
 - **The causal-powers alternative.** Searle ([THEORY-638](THEORY-638.md)) rejects the
   functional route for intentionality.
+
+## Note of 2026-11-06: what holds it back
+
+The title asserts the functional hypothesis itself, so it needs what its promote_when names: one
+pain predicate shown to apply across physically different organisms by the same functional
+criteria, and an independent reason for condition (3). Neither is in the record. The text is read
+only in an excerpt (NOTE-335); the located course copy of the reprint, and its archived capture,
+could not be fetched on 2026-11-06 (LIT-396).
