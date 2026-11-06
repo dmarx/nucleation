@@ -1,10 +1,26 @@
 ---
 number: 588
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpvl8j0
 title: 'Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-057: every premise (CLAIM-347, CLAIM-538,
+    THEORY-1417) is Active, none is objected to, and nothing meets its
+    defeated_if. Rocks and Mehta (THEORY-1414), read in full in NOTE-1557
+    version 2, moved from grounds to corroborated_by under ADR-058: the
+    claim's witness for redistribution is CLAIM-538, and the reading is a
+    mechanical parallel that carries less than the body said, as
+    ARG-tmpa8qe0 records. The body is revised to say so. The exploitation
+    clause rests on Zang et al. (THEORY-1417), whose prestress also
+    relieved in part; the body already calls it exploitation without full
+    relief, and the claim allows two targets at once, so the clause is
+    held answered at the ruling.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,6 +46,7 @@ rests_on:
 - CLAIM-538
 grounds:
 - THEORY-1417
+corroborated_by:
 - THEORY-1414
 uses:
 - TERM-060
@@ -43,14 +60,14 @@ summary: >-
   without achieving the first." Relief is [CLAIM-347](CLAIM-347.md)'s strict enlargement
   of the complex. Redistribution without relief is demonstrated in
   [CLAIM-538](CLAIM-538.md), where local adjustment moves a cycle's mismatch and never
-  removes it, and Rocks and Mehta's prestress moves where a force couples
-  to a mode with the zero modes unchanged. Exploitation without full
+  removes it, with Rocks and Mehta's prestress, which moves where a force
+  couples to a mode with the zero modes unchanged, as a mechanical
+  parallel. Exploitation without full
   relief is Zang et al.'s prestress, which switches stability while some
   transitions stay unachievable. In [TERM-060](../terms.d/TERM-060.md)'s sense only the first
   touches frustration; the others act on its load and its consequences.
   The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1414 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-588: Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first
 
@@ -69,12 +86,15 @@ suppressing a demand is not relief ([CLAIM-347](CLAIM-347.md)).
 **Redistribution without relief.** Demonstrated in [CLAIM-538](CLAIM-538.md). On a graph of
 contexts with offsets and tolerances, the feasible allocations depend on
 the offsets only through their class in H¹, so local adjustment can move a
-mismatch among the overlaps of a cycle and never remove it. The mechanical
-form is Rocks and Mehta's ([NOTE-1557](../notes.d/NOTE-1557.md); [THEORY-1414](../theory.d/THEORY-1414.md)). Prestress that
-breaks a symmetry leaves the zero modes as they were, while the force that
-couples to the mode "no longer points in the same direction, but instead
-localizes to the line of prestressed bonds". Where the load sits has
-moved, and the count of freedoms has not.
+mismatch among the overlaps of a cycle and never remove it. Rocks and Mehta
+(NOTE-1557; THEORY-1414) give a mechanical parallel, weaker than a witness.
+Their prestress sits on states of self-stress that the geometry fixes. Placed
+on different bonds of that same space, it changes the response while the zero
+modes and the self-stresses stay as they were: the force that couples to a
+mode "no longer points in the same direction, but instead localizes to the
+line of prestressed bonds". What moves is that force; the load is where the
+designer put it, and their examples add a mismatch rather than move a given
+one (ARG-tmpa8qe0).
 
 **Exploitation without full relief.** Zang et al. ([NOTE-1569](../notes.d/NOTE-1569.md);
 [THEORY-1417](../theory.d/THEORY-1417.md)): prestress in Kresling cells induces frustration that
@@ -86,7 +106,10 @@ reading of the 56 ordered transitions as demands, prestress relieves too:
 it opens 8 blocked paths ([CLAIM-347](CLAIM-347.md), note of 2026-11-05). The 16 paths
 that need intermediate states stay unachievable while the stability and
 the order of transitions are retuned. So exploitation went further than
-relief.
+relief. Rocks and Mehta add a cleaner instance on the mechanical side: in
+their examples prestress stabilizes the network while "the numbers of LZMs
+and LZEFs do not change" (NOTE-1557), so stability is retuned with the count
+of freedoms and of self-stresses unchanged.
 
 **What it adds to [TERM-060](../terms.d/TERM-060.md).** The term is ordinal: frustration is an empty
 intersection of acceptance sets, and it is "Not Watson's total
