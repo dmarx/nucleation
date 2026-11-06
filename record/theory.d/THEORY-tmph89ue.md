@@ -19,17 +19,17 @@ date: '2026-11-06'
 source:
 - LIT-2169
 summary: >-
-  Suding, Gross & Houseman (2004), LIT-2169, read in NOTE-tmpyzbse. The
+  Suding, Gross & Houseman (2004), [LIT-2169](../literature.d/LIT-2169.md), read in [NOTE-tmpyzbse](../notes.d/NOTE-tmpyzbse.md). The
   account is the authors' review, illustrated by cases and effect sizes
   from cited studies, with no data of its own. The sharp edge: the authors
   concede that rigorous tests of whether a degraded system is an
   alternative stable equilibrium "are beyond the scope of most restoration
   efforts", so the evidence is persistence after restored conditions,
-  which THEORY-136 does not accept as proof of alternative states; and the
+  which [THEORY-136](THEORY-136.md) does not accept as proof of alternative states; and the
   paper's practice cycle ends in maintenance, not withdrawal, so it does
   not say the intervention can then stop. Complemented by Kadowaki et al.
-  (2018), THEORY-1468, and tested against Schröder et al. (2005),
-  THEORY-1485.
+  (2018), [THEORY-1468](THEORY-1468.md), and tested against Schröder et al. (2005),
+  [THEORY-1485](THEORY-1485.md).
 ---
 <!-- inactive-ok-file: THEORY-1468 THEORY-1485 CLAIM-604 CLAIM-600 — Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
 
@@ -37,7 +37,7 @@ summary: >-
 
 ## Source
 
-Suding, Gross & Houseman (2004), LIT-2169; read in full in NOTE-tmpyzbse,
+Suding, Gross & Houseman (2004), [LIT-2169](../literature.d/LIT-2169.md); read in full in [NOTE-tmpyzbse](../notes.d/NOTE-tmpyzbse.md),
 from the typeset.io (SciSpace) copy of the published version. Page numbers
 are the journal's.
 
@@ -80,16 +80,16 @@ potholes "If hydrology can be restored and the seed bank has persisted".
   authors say such tests "are beyond the scope of most restoration
   efforts" and that persistence may be "slow transient successional
   change"; their reason for assuming alternative states is that it "might
-  be more costly" not to. THEORY-136's bar is not met, and Schröder et
-  al.'s count (THEORY-1485) suggests field cases rarely meet it.
+  be more costly" not to. [THEORY-136](THEORY-136.md)'s bar is not met, and Schröder et
+  al.'s count ([THEORY-1485](THEORY-1485.md)) suggests field cases rarely meet it.
 - That the intervention can then stop. Only with a single constraint does
   the paper expect "little or no further management intervention"; its
   practice cycle ends in maintenance by "very different actions than those
   required to shift states", and no case measures a withdrawal. This
-  bears on CLAIM-600 and leaves its persistence test open.
+  bears on [CLAIM-600](../claims.d/CLAIM-600.md) and leaves its persistence test open.
 - How often restoration by conditions fails, or by how much combined
   actions beat single ones. The cases are chosen to illustrate, the effect
   sizes come from single cited studies without designs or sample sizes,
   and comparisons of sequence are, in the authors' word, "limited".
-- That the paper measures the threshold or hysteresis CLAIM-604 describes.
+- That the paper measures the threshold or hysteresis [CLAIM-604](../claims.d/CLAIM-604.md) describes.
   Box 2 draws one; no case estimates it.

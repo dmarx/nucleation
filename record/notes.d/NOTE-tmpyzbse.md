@@ -36,7 +36,7 @@ summary: >-
   authors concede is rarely possible, and none measures withdrawal after a
   shift.
 ---
-<!-- inactive-ok-file: CLAIM-604 CLAIM-597 CLAIM-566 CLAIM-600 CLAIM-602 CLAIM-603 CLAIM-558 LIT-720 LIT-2179 THEORY-128 THEORY-1468 THEORY-1485 THEORY-1273 THEORY-tmph89ue TERM-117 — Unavailable, Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
+<!-- inactive-ok-file: CLAIM-604 CLAIM-597 CLAIM-566 CLAIM-600 CLAIM-602 CLAIM-603 CLAIM-558 LIT-720 LIT-2179 THEORY-128 THEORY-1468 THEORY-1485 THEORY-tmph89ue TERM-117 — Unavailable, Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
 
 # NOTE-tmpyzbse: Suding, Gross & Houseman — Alternative states and positive feedbacks in restoration ecology
 
@@ -177,56 +177,56 @@ directly, before the old conditions can do their work.
 
 ## Connections
 
-It applies Scheffer et al. 2001 (LIT-720; the related LIT-726) to
+It applies Scheffer et al. 2001 ([LIT-720](../literature.d/LIT-720.md); the related [LIT-726](../literature.d/LIT-726.md)) to
 restoration, adding the direct perturbation of the state variable as a
-second route. Kadowaki et al. (2018), LIT-2165 (NOTE-1677, THEORY-1468),
+second route. Kadowaki et al. (2018), [LIT-2165](../literature.d/LIT-2165.md) ([NOTE-1677](NOTE-1677.md), [THEORY-1468](../theory.d/THEORY-1468.md)),
 read in its place on 2026-11-05, restates its thesis as a reinforcing
-legacy (THEORY-1468's phrase) and models what it names only as priority effects; Schröder,
-Persson & De Roos (2005), LIT-2167 (NOTE-1666, THEORY-1485), supplies the
+legacy ([THEORY-1468](../theory.d/THEORY-1468.md)'s phrase) and models what it names only as priority effects; Schröder,
+Persson & De Roos (2005), [LIT-2167](../literature.d/LIT-2167.md) ([NOTE-1666](NOTE-1666.md), [THEORY-1485](../theory.d/THEORY-1485.md)), supplies the
 experimental test it says restoration rarely makes. Its Puccinellia plugs
 and Fig. 3's seed and species additions are the move the record's
-restoration-nucleation entries study in forests: LIT-2179 (applied
-nucleation, not read), LIT-2172 and LIT-2177.
+restoration-nucleation entries study in forests: [LIT-2179](../literature.d/LIT-2179.md) (applied
+nucleation, not read), [LIT-2172](../literature.d/LIT-2172.md) and [LIT-2177](../literature.d/LIT-2177.md).
 
 ## Bearing on the record
 
-- **CLAIM-463** (Active): supports in kind; the paper is its standard
+- **[CLAIM-463](../claims.d/CLAIM-463.md)** (Active): supports in kind; the paper is its standard
   ecological statement.
-- **CLAIM-604**: supports in kind. The desertification loop is upkeep drawn
+- **[CLAIM-604](../claims.d/CLAIM-604.md)**: supports in kind. The desertification loop is upkeep drawn
   in by the structure's own state ("less vegetation holds less water");
   Box 2's collapse with recovery that "possibly could not occur at all"
   matches collapse and no relighting. Qualitative only, no fitted model.
-- **CLAIM-600**: bears on two of its points. Combined and ordered actions
+- **[CLAIM-600](../claims.d/CLAIM-600.md)**: bears on two of its points. Combined and ordered actions
   "often prove more successful than would either approach alone", and a
   successful shift leads to maintenance by "very different actions", a
   partly-stopping management, not a full withdrawal; independence is
   expected only where one constraint existed. No post-withdrawal data.
-- **CLAIM-566**: supports the separation. Restoring assembly conditions does
+- **[CLAIM-566](../claims.d/CLAIM-566.md)**: supports the separation. Restoring assembly conditions does
   not yield the community; the pothole case regenerates only if the seed
   bank "has persisted", and persistence needs its own maintenance phase.
-- **CLAIM-597**: contrasts. The success cases (micro-catchments, plugs) are
+- **[CLAIM-597](../claims.d/CLAIM-597.md)**: contrasts. The success cases (micro-catchments, plugs) are
   interventions whose effect sustains itself, but no withdrawal is measured
   and Fig. 3 ends in maintenance; it qualifies the claim at most.
-- **QUESTION-398**: bears with a typology, not a measure. Independence is
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: bears with a typology, not a measure. Independence is
   expected with a single constraint; otherwise maintenance follows.
   Repeated characterization after the constraints are addressed is the
   nearest thing to a test.
-- **QUESTION-399, TERM-117**: candidate instances. The micro-catchments and
+- **[QUESTION-399](../questions.d/QUESTION-399.md), [TERM-117](../terms.d/TERM-117.md)**: candidate instances. The micro-catchments and
   the transplanted plugs of a former dominant are interventions that
   establish a self-reinforcing feedback, a planted nucleus in effect (not
   the paper's word). No spread rates, no comparator data beyond the claim
   that reduced herbivory alone failed.
-- **THEORY-136** (Active): consistent, and conceded. The evidence is
-  persistence after conditions were restored, which THEORY-136 says does
+- **[THEORY-136](../theory.d/THEORY-136.md)** (Active): consistent, and conceded. The evidence is
+  persistence after conditions were restored, which [THEORY-136](../theory.d/THEORY-136.md) says does
   not establish alternative stable states; the authors' stance is
   precautionary.
-- **THEORY-132** (Active): bears. The glossary's "resilience" is a
-  speed-of-return sense, the stability of THEORY-132's distinction, applied
+- **[THEORY-132](../theory.d/THEORY-132.md)** (Active): bears. The glossary's "resilience" is a
+  speed-of-return sense, the stability of [THEORY-132](../theory.d/THEORY-132.md)'s distinction, applied
   to the undesired state.
-- **THEORY-128**: consistent; lost grazers are cited as the limit on reef
+- **[THEORY-128](../theory.d/THEORY-128.md)**: consistent; lost grazers are cited as the limit on reef
   recovery (p. 47).
-- **CLAIM-602, CLAIM-603, CLAIM-558, THEORY-1273**: none.
-- Should produce: THEORY-tmph89ue.
+- **[CLAIM-602](../claims.d/CLAIM-602.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-558](../claims.d/CLAIM-558.md), [THEORY-1273](../theory.d/THEORY-1273.md)**: none.
+- Should produce: [THEORY-tmph89ue](../theory.d/THEORY-tmph89ue.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations
