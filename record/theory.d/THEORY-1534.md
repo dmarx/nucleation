@@ -1,5 +1,8 @@
 ---
+number: 1534
 status: Proposed
+formerly:
+- THEORY-tmpw943u
 promote_when: >-
   A reading of Simondon's own text, the French thesis (1958/2005, or its
   second half published 1989) or the 2020 English translation
@@ -29,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1648 LIT-1900 — Unavailable; Simondon's own texts, whose reading would settle this -->
 
-# THEORY-tmpw943u: In Simondon's ontology, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it
+# THEORY-1534: In Simondon's ontology, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it
 
 ## Source
 

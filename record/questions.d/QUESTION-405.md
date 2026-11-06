@@ -1,5 +1,8 @@
 ---
+number: 405
 status: Open
+formerly:
+- QUESTION-tmp8v6pp
 title: 'Does an independent experiment or simulation on prestressed multistable origami cells reproduce continuous tuning of the energy barrier and of bistability by prestress, and show that reordering the barriers of the cells in an assembly makes feasible folding sequences the unprestressed assembly cannot follow?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   three-cell assemblies; whether it reproduces elsewhere is this question.
 ---
 
-# QUESTION-tmp8v6pp: Does an independent experiment or simulation on prestressed multistable origami cells reproduce continuous tuning of the energy barrier and of bistability by prestress, and show that reordering the barriers of the cells in an assembly makes feasible folding sequences the unprestressed assembly cannot follow?
+# QUESTION-405: Does an independent experiment or simulation on prestressed multistable origami cells reproduce continuous tuning of the energy barrier and of bistability by prestress, and show that reordering the barriers of the cells in an assembly makes feasible folding sequences the unprestressed assembly cannot follow?
 
 ## Why it is a question
 

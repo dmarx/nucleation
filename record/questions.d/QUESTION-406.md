@@ -1,5 +1,8 @@
 ---
+number: 406
 status: Open
+formerly:
+- QUESTION-tmpe72ii
 title: 'Does an independent or better-powered estimate of manufacturing agglomeration on comparable US county data also find no density range with a higher elasticity, and was the Tennessee Valley Authority region''s 1960–2000 manufacturing gain caused by the TVA?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   [ADR-065](../decisions.d/ADR-065.md).
 ---
 
-# QUESTION-tmpe72ii: Does an independent or better-powered estimate of manufacturing agglomeration on comparable US county data also find no density range with a higher elasticity, and was the Tennessee Valley Authority region's 1960–2000 manufacturing gain caused by the TVA?
+# QUESTION-406: Does an independent or better-powered estimate of manufacturing agglomeration on comparable US county data also find no density range with a higher elasticity, and was the Tennessee Valley Authority region's 1960–2000 manufacturing gain caused by the TVA?
 
 ## Why it is a question
 

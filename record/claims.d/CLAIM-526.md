@@ -12,7 +12,7 @@ history:
     Promoted at the twenty-seventh status review (ADR-057), at the
     status review's ruling (the owner delegated these rulings); the
     warrant is interpretive. Its grounds THEORY-1277 and THEORY-1278 are
-    replaced by THEORY-tmpwjxgf and THEORY-tmpbp1q1, the Active reports
+    replaced by THEORY-1535 and THEORY-1531, the Active reports
     of what Bencherki and Iliadis, and Bencherki, Brummans and Vézy,
     propose, split off by the same review (ADR-065), since the claim
     answers the proposals and needs nothing about whether they are
@@ -50,8 +50,8 @@ rests_on:
 - CLAIM-386
 - CLAIM-480
 grounds:
-- THEORY-tmpwjxgf
-- THEORY-tmpbp1q1
+- THEORY-1535
+- THEORY-1531
 - CASE-120
 complements:
 - CLAIM-474
@@ -77,12 +77,12 @@ summary: >-
 
 ## The claim
 
-Bencherki, Brummans and Vézy ([THEORY-tmpbp1q1](../theory.d/THEORY-tmpbp1q1.md)) write that the problem of
+Bencherki, Brummans and Vézy ([THEORY-1531](../theory.d/THEORY-1531.md)) write that the problem of
 scaling from individual to collective agency "is only relevant ... when
 communication is regarded as an interaction between already-existing
 agents, operating at different levels, and vanishes the moment
 communication is viewed eventfully" (p. 1364). They rest it on Bencherki and
-Iliadis ([THEORY-tmpwjxgf](../theory.d/THEORY-tmpwjxgf.md)): entities "are not at different stages of
+Iliadis ([THEORY-1535](../theory.d/THEORY-1535.md)): entities "are not at different stages of
 individuation, but rather different informational levels that preserve
 all the characteristics of their organized components. An employee is not
 prior to the organization, nor is the organization an abstraction of its

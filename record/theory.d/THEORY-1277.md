@@ -106,4 +106,4 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ## Note of 2026-11-06: what holds it back
 
-No case in the record lets the coexisting-levels and scaling-up descriptions make different claims about one episode, and no criterion fixes a domain and its ordering before the episode ends. What Bencherki and Iliadis propose is held separately, Active, as [THEORY-tmpwjxgf](THEORY-tmpwjxgf.md).
+No case in the record lets the coexisting-levels and scaling-up descriptions make different claims about one episode, and no criterion fixes a domain and its ordering before the episode ends. What Bencherki and Iliadis propose is held separately, Active, as [THEORY-1535](THEORY-1535.md).

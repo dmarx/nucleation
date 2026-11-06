@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [November 2026](2026-11.md)
 
+- [6 Nov 04:44 — The twenty-seventh status review: seventeen claims and twelve readings promoted, and four skimmed sources read in full](2026-11.md#the-twenty-seventh-status-review-seventeen-claims-and-twelve-readings-promoted-and-four-skimmed-sources-read-in-full)
 - [6 Nov 03:45 — The twenty-sixth status review: sixteen claims promoted, forty held entries rechecked, and a partial concession written in](2026-11.md#the-twenty-sixth-status-review-sixteen-claims-promoted-forty-held-entries-rechecked-and-a-partial-concession-written-in)
 - [6 Nov 02:59 — The twenty-fifth status review: thirty-six claims, ten readings, six terms and three cases promoted across six clusters](2026-11.md#the-twenty-fifth-status-review-thirty-six-claims-ten-readings-six-terms-and-three-cases-promoted-across-six-clusters)
 - [4 Nov 06:43 — The exchange "Organizational Nucleation and SLT" (2026-11-02 to 03, U1–U29), continuing "Assess SDT Coverage": from the record's singular learning theory account and the compatibility complex, through frustration and niche differentiation, new CASE constructions, tolerance as an endorsement criterion, Frankfurt's sense, activation thresholds and psychological flexibility, figures and a sheaf, to a simulation, motivating perspectives and maladaptation; seven claims, two terms, one question and four cases filed, and what was not filed](2026-11.md#the-exchange-organizational-nucleation-and-slt-2026-11-02-to-03-u1u29-continuing-assess-sdt-coverage-from-the-records-singular-learning-theory-account-and-the-compatibility-complex-through-frustration-and-niche-differentiation-new-case-constructions-tolerance-as-an-endorsement-criterion-frankfurts-sense-activation-thresholds-and-psychological-flexibility-figures-and-a-sheaf-to-a-simulation-motivating-perspectives-and-maladaptation-seven-claims-two-terms-one-question-and-four-cases-filed-and-what-was-not-filed)
@@ -13,9 +14,9 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-125 entries across 2 books, newest first.
+126 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 4 | 2026-11-03 | 2026-11-06 |
+| [2026-11](2026-11.md) | 5 | 2026-11-03 | 2026-11-06 |
 | [2026-10](2026-10.md) | 121 | 2026-10-07 | 2026-10-31 |

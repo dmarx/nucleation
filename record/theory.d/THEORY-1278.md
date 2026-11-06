@@ -103,4 +103,4 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 ## Note of 2026-11-06: what holds it back
 
-No study shows the transduction description changing an analysis's verdict against Cooren's or Fairhurst's scaling-up accounts; the MSF meeting shows only that the description can be given. [CLAIM-526](../claims.d/CLAIM-526.md) argues that the strong form's refutation condition is met for the question of levels, not for agent aggregation. What the paper proposes is held, Active, as [THEORY-tmpbp1q1](THEORY-tmpbp1q1.md).
+No study shows the transduction description changing an analysis's verdict against Cooren's or Fairhurst's scaling-up accounts; the MSF meeting shows only that the description can be given. [CLAIM-526](../claims.d/CLAIM-526.md) argues that the strong form's refutation condition is met for the question of levels, not for agent aggregation. What the paper proposes is held, Active, as [THEORY-1531](THEORY-1531.md).

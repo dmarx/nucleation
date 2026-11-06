@@ -14,7 +14,7 @@ history:
     in NOTE-1569 (the main text in full; the SI, which the title does not
     rest on, unread), and nothing in the record contradicts it. The
     promote_when asked for independent reproduction, which the title does
-    not assert, and moves unchanged to QUESTION-tmp8v6pp. The old condition:
+    not assert, and moves unchanged to QUESTION-405. The old condition:
     An independent experiment or simulation on prestressed multistable
     origami cells reproduces continuous tuning of the energy barrier, and of
     bistability, by prestress, and shows that reordering the barriers of the
@@ -36,7 +36,7 @@ summary: >-
   stack, prestress opens the 8 blocked by the ordering of the barriers;
   the 16 that need intermediate states stay unachievable.
 bears_on:
-- QUESTION-tmp8v6pp
+- QUESTION-405
 ---
 
 # THEORY-1417: Zang, Zhao, Misseroni and Paulino show that prestressing Kresling origami cells with controllable springs tunes each cell's energy barrier and stability continuously, so that reordering the barriers of cells in an assembly makes folding sequences feasible that the unprestressed assembly cannot follow

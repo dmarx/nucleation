@@ -17,7 +17,7 @@ history:
     for the version of record is dropped, since no discrepancy is named in
     the tables the title rests on (IV and VI); the slips NOTE-1646 names are
     in Table V and on p. 11. The independent estimate and the refutation
-    clauses move to QUESTION-tmpe72ii. The old title: Kline and Moretti find
+    clauses move to QUESTION-406. The old title: Kline and Moretti find
     that the Tennessee Valley Authority's federal subsidies, peaking at
     about 10% of household income in 1950–55 and near zero after the TVA was
     made self-financing in 1959, raised both agricultural and manufacturing
@@ -55,7 +55,7 @@ summary: >-
   near-zero depreciation (0.2% a year), which sits unreconciled beside the
   paper's footnote of planners' rates near 5%.
 bears_on:
-- QUESTION-tmpe72ii
+- QUESTION-406
 ---
 <!-- inactive-ok-file: THEORY-919 THEORY-885 CLAIM-600 — Proposed; cited from the reading of Kline and Moretti (2014) as open -->
 

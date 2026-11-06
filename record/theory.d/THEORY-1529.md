@@ -1,5 +1,8 @@
 ---
+number: 1529
 status: Proposed
+formerly:
+- THEORY-tmp61wtl
 promote_when: >-
   A primary study, read in full, that crosses dyad against group with
   within-group against between-group partners in one design and manipulates
@@ -26,7 +29,7 @@ summary: >-
   the stages are not tested together.
 ---
 
-# THEORY-tmp61wtl: Human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and chiefly negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict
+# THEORY-1529: Human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and chiefly negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict
 
 ## Source
 

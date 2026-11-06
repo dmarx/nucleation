@@ -22,7 +22,7 @@ history:
     a metastable system, and its meaning is the new structure that
     transduction produces in resolving it. Its promote_when asked for a
     reading of Simondon's own text, which is more than the title
-    asserts; it moves word for word to THEORY-tmpw943u, Proposed, which
+    asserts; it moves word for word to THEORY-1534, Proposed, which
     extends this entry and states the wide form (ADR-047, kind 1). The
     old condition: A reading of Simondon's own text, the French thesis
     (1958/2005, or its second half published 1989) or the 2020 English
@@ -48,12 +48,12 @@ summary: >-
   Bencherki, Brummans & Vézy (2024) build their account of communication
   and meaning. Active as a report of how the two read him: both sources are
   exegesis in their authors' translations, and whether Simondon holds
-  this, which turns on his own text, is THEORY-tmpw943u's question, Proposed. It does not say
+  this, which turns on his own text, is THEORY-1534's question, Proposed. It does not say
   that information has no quantitative sense, or that meaning can be
   identified before the resolution occurs.
 ---
 <!-- inactive-ok-file: LIT-1648 LIT-1900 — Unavailable; Simondon's own texts, whose reading would settle this -->
-<!-- inactive-ok-file: THEORY-tmpw943u — Proposed; the wide form, whether Simondon himself holds this -->
+<!-- inactive-ok-file: THEORY-1534 — Proposed; the wide form, whether Simondon himself holds this -->
 
 # THEORY-1276: In Simondon's ontology, as Iliadis and Bencherki read it, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it
 

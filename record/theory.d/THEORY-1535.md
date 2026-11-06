@@ -1,5 +1,8 @@
 ---
+number: 1535
 status: Active
+formerly:
+- THEORY-tmpwjxgf
 title: 'Bencherki and Iliadis propose that persons and organizations are not successive stages of individuation, with the collective built up from individuals, but coexisting informational levels that one action can reorder at once, each preserving the characteristics of its organized components, so that scaling up from individual to organizational action is neither a sequence of steps nor a synthesis'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1277 — Proposed; the account this is split from, which holds whether the description discriminates -->
 
-# THEORY-tmpwjxgf: Bencherki and Iliadis propose that persons and organizations are not successive stages of individuation, with the collective built up from individuals, but coexisting informational levels that one action can reorder at once, each preserving the characteristics of its organized components, so that scaling up from individual to organizational action is neither a sequence of steps nor a synthesis
+# THEORY-1535: Bencherki and Iliadis propose that persons and organizations are not successive stages of individuation, with the collective built up from individuals, but coexisting informational levels that one action can reorder at once, each preserving the characteristics of its organized components, so that scaling up from individual to organizational action is neither a sequence of steps nor a synthesis
 
 ## Source
 

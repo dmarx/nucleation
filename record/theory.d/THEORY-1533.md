@@ -1,5 +1,8 @@
 ---
+number: 1533
 status: Proposed
+formerly:
+- THEORY-tmpfgob7
 promote_when: >-
   A way to tell, in a given episode and before knowing how it resolved,
   that a body's capacities to act and be acted on changed, in which
@@ -28,7 +31,7 @@ summary: >-
   account of emotion or appraisal does not is open.
 ---
 
-# THEORY-tmpfgob7: Affect is the felt transition of a body's power to affect and be affected toward a diminished or augmented capacitation
+# THEORY-1533: Affect is the felt transition of a body's power to affect and be affected toward a diminished or augmented capacitation
 
 ## Source
 

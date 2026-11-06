@@ -1,5 +1,8 @@
 ---
+number: 1530
 status: Proposed
+formerly:
+- THEORY-tmpa95f7
 promote_when: >-
   An interventional result in which disrupting feedback from dorsolateral
   prefrontal cortex during choices between equally valued options both
@@ -29,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the paper's metaphysical half, cited as open -->
 
-# THEORY-tmpa95f7: Attention is prioritization of processing by a subject that is the whole collection of an organism's fixed, formed and fluid interests, separated from filtering by whether selection answers to that collection, marked by feedback from dorsolateral prefrontal cortex; when interests are equally weighted, attention breaks the stalemate and updates the chosen option's value, so that a fluid interest becomes a formed one
+# THEORY-1530: Attention is prioritization of processing by a subject that is the whole collection of an organism's fixed, formed and fluid interests, separated from filtering by whether selection answers to that collection, marked by feedback from dorsolateral prefrontal cortex; when interests are equally weighted, attention breaks the stalemate and updates the chosen option's value, so that a fluid interest becomes a formed one
 
 ## Source
 

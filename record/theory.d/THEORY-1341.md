@@ -13,7 +13,7 @@ history:
     rulings), under ADR-065: the title reports Jennings's account, read in
     full in NOTE-1508, and nothing in the record contradicts the report. The
     promote_when asked for an interventional test of the account, and moves
-    word for word with the unattributed thesis to THEORY-tmpa95f7, which
+    word for word with the unattributed thesis to THEORY-1530, which
     extends this entry; the note of 2026-11-03 on Voigt bears on that
     thesis, not on this report. The old condition: An interventional result
     in which disrupting feedback from dorsolateral prefrontal cortex during
@@ -38,11 +38,11 @@ summary: >-
   filtering, and how it forms interests. The stalemate mechanism is taken
   from Voigt 2022 (LIT-1976), registered unread. Held as what the
   paper proposes; the criterion is inferred, not tested, and the paper
-  reports no data, so whether the account is true is THEORY-tmpa95f7's. It does
+  reports no data, so whether the account is true is THEORY-1530's. It does
   not say the subject is contextually emergent ([THEORY-1314](THEORY-1314.md)) or that
   attention is the source of a free will.
 ---
-<!-- inactive-ok-file: THEORY-tmpa95f7 — Proposed or new; the thesis filed beside this report, cited as open -->
+<!-- inactive-ok-file: THEORY-1530 — Proposed or new; the thesis filed beside this report, cited as open -->
 <!-- inactive-ok-file: THEORY-1326 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the paper's metaphysical half -->
 

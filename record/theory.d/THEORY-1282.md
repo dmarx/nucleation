@@ -15,7 +15,7 @@ history:
     gives it, and NOTE-1488 read the interview in full. Its promote_when
     asked for a way to tell, before an episode resolves, that
     capacitation changed, which bears on whether the account is true,
-    not on what Massumi says; it moves word for word to THEORY-tmpfgob7,
+    not on what Massumi says; it moves word for word to THEORY-1533,
     Proposed, which extends this entry (ADR-047, kind 1). The old
     condition: A way to tell, in a given episode and before knowing how
     it resolved, that a body's capacities to act and be acted on
@@ -41,7 +41,7 @@ summary: >-
   apply". Bencherki et al. ([LIT-1902](../literature.d/LIT-1902.md)) quote it exactly and then apply
   only its augmenting half, as a definition of agency.
 ---
-<!-- inactive-ok-file: LIT-1907 THEORY-1280 THEORY-tmpfgob7 — Unavailable or Proposed; the book that reprints the source, the parent paper's claim set beside this, and the wide form -->
+<!-- inactive-ok-file: LIT-1907 THEORY-1280 THEORY-1533 — Unavailable or Proposed; the book that reprints the source, the parent paper's claim set beside this, and the wide form -->
 
 # THEORY-1282: Affect, in Massumi's sense, is the felt transition of a body's power to affect and be affected toward a diminished or augmented capacitation, offered as a proposition to be regenerated in each use rather than a definition to apply
 
@@ -64,7 +64,7 @@ a definition, what you have is a proposition" (p. 3).
 The record has checked that this is what Massumi says, in the form
 Bencherki, Brummans & Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1353) quote. Whether the account
 of affect itself is true, which is offered without evidence, is
-[THEORY-tmpfgob7](THEORY-tmpfgob7.md)'s question, Proposed.
+[THEORY-1533](THEORY-1533.md)'s question, Proposed.
 
 ## What this does not say
 

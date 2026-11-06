@@ -17,7 +17,7 @@ history:
     costly competition "becomes more common in situations where the
     interests of both groups conflict" (p. 554), and the NOTE quotes no text
     of Fig. 2 that says only. The promote_when asked that the model be true,
-    and moves word for word with the unattributed thesis to THEORY-tmp61wtl,
+    and moves word for word with the unattributed thesis to THEORY-1529,
     which extends this entry. The old title: In Van Lange and Bergmann's
     model, human cooperation is readily sustained between individuals, above
     all in dyads, through precise reciprocity, empathy and a partner who
@@ -47,11 +47,11 @@ summary: >-
   Perspective: a staged model drawn from the authors' selection of the
   literature on social dilemmas and intergroup relations, with no new data
   and no pooled effect sizes. Held as what the authors propose; whether the
-  stages hold, which the paper does not test together, is THEORY-tmp61wtl's. The refinement that matters to the record: lower
+  stages hold, which the paper does not test together, is THEORY-1529's. The refinement that matters to the record: lower
   cooperation between groups does not need conflicting interests, and harm
   to the out-group does.
 ---
-<!-- inactive-ok-file: THEORY-tmp61wtl — Proposed or new; the thesis filed beside this report, cited as open -->
+<!-- inactive-ok-file: THEORY-1529 — Proposed or new; the thesis filed beside this report, cited as open -->
 
 # THEORY-1352: In Van Lange and Bergmann's model, human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and chiefly negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict
 

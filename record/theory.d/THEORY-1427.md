@@ -15,7 +15,7 @@ history:
     triangulations and proven only for Henneberg-1 triangulations, so "show
     ... generically" claimed more than the paper shows. The title now says
     what was computed and proven, and nothing in the record contradicts it.
-    The general thesis moves, without the attribution, to THEORY-tmpcpymq,
+    The general thesis moves, without the attribution, to THEORY-1532,
     which extends this entry and keeps the old condition. The old title:
     Chen and Santangelo show that a flat triangulated rigid origami sits at
     a singular point of its configuration space where generically 2^Vi

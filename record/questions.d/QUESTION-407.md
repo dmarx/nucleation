@@ -1,5 +1,8 @@
 ---
+number: 407
 status: Open
+formerly:
+- QUESTION-tmptxwdu
 title: 'What share of conscious time is unintentional mind-wandering, once sampling across the waking day and sleep separates it from deliberate task-unrelated thought?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1297 — Proposed; the reading this condition came from, cited as open -->
 
-# QUESTION-tmptxwdu: What share of conscious time is unintentional mind-wandering, once sampling across the waking day and sleep separates it from deliberate task-unrelated thought?
+# QUESTION-407: What share of conscious time is unintentional mind-wandering, once sampling across the waking day and sleep separates it from deliberate task-unrelated thought?
 
 ## Why it is a question
 

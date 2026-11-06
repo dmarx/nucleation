@@ -22,7 +22,7 @@ history:
   note: >-
     At the twenty-seventh status review (ADR-065), at the status review's
     ruling (the owner delegated these rulings): the promote_when's clause
-    for the share moves to QUESTION-tmptxwdu. The title's share is hedged,
+    for the share moves to QUESTION-407. The title's share is hedged,
     "on the figures Metzinger uses", and is arithmetic already checked in
     the body; a measure of the true share is more than the title asserts.
     "either part" reads "it". The moved text: For the share: sampling across
@@ -47,7 +47,7 @@ summary: >-
   and the 30–50% figures count task-unrelated thought, which includes
   deliberate daydreaming the definition excludes.
 bears_on:
-- QUESTION-tmptxwdu
+- QUESTION-407
 ---
 <!-- inactive-ok-file: THEORY-1300 ARG-051 — Proposed; companion reading and the inference it grounds, cited as open -->
 <!-- inactive-ok-file: THEORY-064 CLAIM-156 — Proposed; readings and claims this one is set beside, cited as open -->

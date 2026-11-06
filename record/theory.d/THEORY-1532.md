@@ -1,5 +1,8 @@
 ---
+number: 1532
 status: Proposed
+formerly:
+- THEORY-tmpcpymq
 promote_when: >-
   A proof, or an independent computation on generic triangulations that are
   not H1, that the number of real branches of nearly-flat configurations
@@ -24,7 +27,7 @@ summary: >-
   of all.
 ---
 
-# THEORY-tmpcpymq: A flat triangulated rigid origami sits at a singular point of its configuration space where generically 2^Vi folding branches meet, one pair for each pattern of vertex popping states, so folding from flat is exponentially ambiguous
+# THEORY-1532: A flat triangulated rigid origami sits at a singular point of its configuration space where generically 2^Vi folding branches meet, one pair for each pattern of vertex popping states, so folding from flat is exponentially ambiguous
 
 ## Source
 
