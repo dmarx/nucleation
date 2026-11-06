@@ -1,0 +1,238 @@
+---
+status: Read
+paper: 'LIT-tmpfxol8'
+title: 'Copeland, Gleiser and Müller — Oscillons'
+version: 1
+history:
+- version: 1
+  date: '2026-11-06'
+  note: >-
+    Read in full on 2026-11-06 from arXiv:hep-ph/9503217v2 (26 June 1995),
+    fetched from arxiv.org/pdf/hep-ph/9503217v2: 52 pages, §§I–VII, Table 1,
+    references and figure captions. The arXiv v1 of 3 March 1995 is a 1 KB
+    withdrawn placeholder and carries no text. Text extracted by pdftotext.
+    The equations came through garbled in places; those cited below were
+    checked against the layout of the page text. The figures could not be
+    read (only axis labels came through), so the lifetime curves (Figs. 3,
+    6–8, 12–15) are known only through the prose, and numbers come from the
+    prose and Table 1. The published Physical Review D version (1995-08-15)
+    was not consulted. Read alongside two neighbours, Fodor (2019),
+    NOTE-tmpt6qk4, and Tong (2005), NOTE-tmpn0ajp, and, as a pointer only,
+    the abstract, introduction and conclusions of Gleiser & Krackow (2019),
+    which is not registered.
+date: '2026-11-06'
+summary: >-
+  The paper that named oscillons. A spherically symmetric real scalar
+  field in 3+1 dimensions with a double-well potential is evolved
+  numerically from subcritical bubbles at rest. Inside a window of initial
+  radius (Gaussian, about 2.4 to 4.5 m^-1) the bubble sheds energy and
+  settles into a state of nearly constant radius and energy, independent of
+  the initial radius, that radiates almost nothing for 10^3–10^4 m^-1 and
+  then decays quickly. A one-degree-of-freedom ansatz explains the lower
+  radius bound and the end, and virialization tracks which live longest.
+  Simulation only, spherical symmetry only, stability tested only against
+  radial perturbations, the upper radius bound unexplained, lifetimes read
+  off an energy plateau.
+---
+<!-- inactive-ok-file: CLAIM-597 CLAIM-600 CLAIM-604 TERM-088 THEORY-072 THEORY-088 CLAIM-163 THEORY-1052 LIT-1664 LIT-924 THEORY-tmplxt7t — Proposed, Superseded, Unavailable or new; cited from the reading of Copeland, Gleiser & Müller (1995) as open -->
+
+# NOTE-tmpyp0bm: Copeland, Gleiser and Müller — Oscillons
+
+## Contribution
+
+Long-lived pulsating states of a real scalar field had been seen
+numerically in the 1970s (as "pulsons") and rediscovered by Gleiser. This
+paper fixes the name and gives the first systematic account: when they
+form, what their state is, what ends them, and what makes some live
+longer. They are unstable but very long-lived localized structures held
+by neither topology, nor a conserved charge, nor any outside supply.
+
+## Key insight
+
+A localized structure can persist, for hundreds of times its natural
+decay time, in a closed conservative system, on nothing but its own
+nonlinearity. Its core amplitude sits where fluctuations of that amplitude
+are unstable and push it away from the vacuum; slow radiation lowers the
+amplitude until those fluctuations stop being unstable, and then it dies
+fast. Persistence and its end are one mechanism seen at two amplitudes.
+And stability is relative: "instability is a relative concept, which only
+makes sense in context" (§I).
+
+## Assumptions
+
+- **Model (§II.A).** One classical real scalar on flat 3+1 space, with a
+  symmetric (SDWP) or asymmetric (ADWP) double-well potential; dimensionless
+  units ρ = rm, τ = tm. No coupling to other fields, plasma or noise; §VI
+  names couplings as open ("The plasma would act both as a viscous medium
+  and as an enhancer of fluctuations").
+- **Spherical symmetry throughout**, so only radial dynamics exist in the
+  simulation.
+- **Initial data**: bubbles at rest, Gaussian or tanh profiles of radius R0
+  and core value Φc.
+- **Numerics (§II.A, §III)**: energy inside a sphere Rs = 10 (15 for the ADWP) is monitored;
+  the grid's radial edge "moved outwards with the speed of light" so that
+  radiation is not reflected; total energy is conserved to one part in 10^3
+  (10^5 at high resolution).
+- **Analytics (§IV)**: a Gaussian ansatz with one degree of freedom, the
+  core amplitude, at frozen radius and with radiation dropped; the authors
+  warn of "the crudeness of the analytical approximation".
+- **Evidence**: simulation plus that ansatz. No experiment.
+
+## Key results
+
+- **What they are (Abstract).** Solutions which, "although unstable, are
+  extremely long-lived".
+- **Why nothing protects them (§I).** "Derrick’s theorem forbids the
+  existence of static solutions for models involving only real scalar
+  fields". Defects escape it because "Topological conservation laws
+  guarantee the stability of these configurations", nontopological
+  solitons through "the conserved global charge Q". Oscillons have neither.
+- **Linear baseline (§II.B, §VI).** In the linear potential the core
+  amplitude decays as a power law, τ^-3/2, and the bubble lasts about
+  5 m^-1 (§VI); with the 1/e time of order 1.18 R0² m^-1 (eqs. 25–26, read
+  from the page layout).
+- **The window (§III).** Gaussian bubbles with R0 below about 2.4 or above
+  4.5 quickly radiate away; those between "settle into a period of
+  long-lived stability" "where practically no energy is radiated away", for
+  10^3–10^4 m^-1.
+- **A common remnant (§III).** "after shedding a sufficient fraction of
+  their initial energy, the subcritical bubbles enter the oscillon stage",
+  with energy near 43 m/λ "regardless of their initial radius" and an
+  effective radius of about 2.8–3.0 varying by under 20%. Peak lifetimes
+  about 7.4 × 10^3 (Gaussian, R0 = 2.86) and 4.4 × 10^3 (tanh, R0 = 3.08);
+  "(Lifetimes are accurate to within 5%.)"
+- **Conditions (§III, §VII).** "no oscillon can develop if the initial
+  energy is below the plateau energy"; the core value must lie beyond the
+  inflection point Φinf = −1/√3, so as to "probe the nonlinearities of the
+  theory (but does not need to be at the true minimum of the potential)"
+  (§VII). These are stated as "sufficient conditions".
+- **Lower bound explained (§IV.A, eq. 33).** The curvature of the effective
+  potential for the core amplitude has minimum about −0.514 + 3R^-2, so
+  "only for R0 > Rmin ≃ 2.42 are oscillons possible", "independent of the
+  initial amplitude". The unstable fluctuations drive the amplitude from
+  the vacuum: "These are the fluctuations which are mainly responsible for
+  the appearance of the oscillon."
+- **Upper bound not explained (§IV, §VII).** The question "why above a
+  maximum initial bubble radius no oscillons are possible" is open: "Work
+  on the fourth question is in progress"; "Explaining the upper bound for
+  the initial radius of the field profile is not so straightforward"
+  (§VII). The authors suggest larger bubbles may excite nonspherical modes,
+  which the simulation cannot carry.
+- **The end (§IV.A–B).** "the oscillon survives while fluctuations are
+  unstable", but "energy is slowly being radiated away", the core amplitude
+  falling and the radius growing, until a minimum amplitude Φc⁻(R) "below
+  which the oscillon slips into the linear regime and quickly decays".
+  Table 1 compares Φc⁻ with the last-oscillation amplitude.
+- **Lifetime and virialization (§IV.C).** "the longer the lifetime of the
+  oscillon, the better virialized it is"; "the oscillon can be interpreted
+  as the attractor field configuration which minimizes the departure from
+  virialization". But "we were unable to obtain an analytical expression
+  for the lifetime".
+- **Asymmetric potentials (§V).** The initial energy must lie between "the
+  plateau energy from below and the decay barrier from above"; lifetimes
+  grow, almost doubling between α = 2.16 and 2.23, as "the oscillons
+  approach more and more the critical bubble". Analytic minimum radii 3.39,
+  3.12, 2.76 against numerical 3.2, 3.1, 2.9.
+- **Context (§VI).** At GUT-scale masses the lifetime "is comparable (or
+  larger, for weak coupling!) to the age of the Universe at that scale";
+  oscillons might "act as seeds or nucleation sites for the critical
+  bubbles". Speculative, and labelled as such.
+- **Radial only (§VII).** "we only investigated stability to radial
+  perturbations".
+
+## Concepts
+
+- **Oscillon** (formerly "pulson"): a localized, time-dependent,
+  spherically symmetric solution, unstable but long-lived.
+- **Subcritical bubble**: a region of the other phase too small to grow;
+  in the linear theory it disperses quickly.
+- **Plateau energy**: the near-constant energy of the oscillon stage, the
+  same from any initial radius in the window.
+- **Departure from virialization**: how far the configuration is from the
+  virial relation between kinetic, gradient and potential terms; smaller
+  departure, longer life.
+- **Critical bubble**: the saddle (bounce) of nucleation theory, the upper
+  bound on initial energy in asymmetric potentials.
+
+## Connections
+
+- **The neighbours.** Fodor (2019), NOTE-tmpt6qk4, carries the later
+  account of the same decay: an exponentially small but nonzero radiation
+  rate, the 3+1 dimensional minimum amplitude and sudden decay, and an
+  independent reproduction of CGM-type Gaussian results. It does not
+  reproduce the upper radius bound or explain it. Tong (2005),
+  NOTE-tmpn0ajp, carries the mechanism of the topological protection that
+  CGM's §I invokes and oscillons lack.
+- **Gleiser & Krackow (2019)**, read in part as a pointer and not
+  registered: on fine-tuned "resonant" oscillons their results "offer
+  support for the conjecture that, in both dimensions, resonant oscillons
+  may be infinitely long-lived", while the peak itself would "involve
+  infinite fine-tuning". Unresolved against Fodor; see NOTE-tmpt6qk4.
+- **The other works of this batch.** Herr et al. (2014) and Grelu &
+  Akhmediev (2012): localized structures held by a continuous supply, which
+  end when it is withdrawn. Grimshaw et al. (2018): a soliton decaying
+  under damping. Oscillons are the case with no supply and no damping,
+  which leak by radiation alone.
+- **Held entries.** Noise-driven escape from a metastable state, THEORY-1264,
+  THEORY-1273 and LIT-2037 (Kramers' law), is the stochastic counterpart to
+  this deterministic leak. Critical-nucleus theory, LIT-1664 and LIT-924,
+  matches the critical bubble of §§V–VI and its thermal estimate.
+  THEORY-088, spiral defects in cortex that annihilate in opposite pairs,
+  is the record's one held topological-defect case (cited from CLAIM-163,
+  now Superseded).
+
+## Bearing on the record
+
+- **CLAIM-600 (when support can be withdrawn).** Supports and sharpens its
+  point that persistence after withdrawal can be slow reversion. Here a
+  structure persists with "practically no energy" radiated for hundreds of
+  times its linear lifetime, then ends. Persistence through many turnovers
+  is not evidence of self-maintenance. Two additions: a slow reversion can
+  show no decline at all on a plateau and then end abruptly, so a long
+  watch may see nothing; and what counts as permanent depends on the
+  time-scale compared (§I, §VI). The tests that work are the mechanism's
+  shape and a measured outflow, which is what CGM monitor.
+- **CLAIM-604 (self-sustaining upkeep).** Qualifies. A formation threshold
+  and a collapse rather than a gradual decline both occur here in a closed
+  conservative system with no supply and no upkeep, so those two
+  signatures do not by themselves show state-dependent upkeep on a flux.
+  Hysteresis is not tested.
+- **CLAIM-597 (supplied upkeep).** Contrasts. Its decay after withdrawal is
+  exponential; here it is a plateau and a collapse, and even the linear
+  baseline is a power law.
+- **TERM-088 (individuation).** An oscillon is dynamically individuated: a
+  near-constant radius and energy, stable to radial perturbations, an
+  "attractor" reached from different initial data. It is neither
+  constitutive nor autonomous, and its individuation is finite-lived with
+  no outside cause of its end.
+- **THEORY-072 (flame and organism).** Qualifies by adding a third kind: an
+  organized localized structure on no flux at all, which neither keeps up
+  its conditions nor has them kept up for it, and runs down.
+- **THEORY-136 (persistence is not evidence of alternative stable states).**
+  A physical case of the slow return its title excludes: return that looks
+  like no return for a long time.
+- **THEORY-1273 (metastable maintained states).** Complements: its states
+  are left by fluctuation; oscillons end deterministically, with no noise.
+  Two routes to long-lived but not permanent.
+- **THEORY-1315 and THEORY-1052.** Both bear on why a slow leak escapes
+  notice on a finite window of observation.
+- **QUESTION-398.** A partial analogue: the oscillon becomes independent of
+  its founding conditions (the same plateau from any initial radius in the
+  window) but never of time, since nothing replenishes it.
+- **QUESTION-085, QUESTION-399, CLAIM-516, TERM-070.** None directly:
+  nothing is regenerated and there is no closure, one field only.
+- Filed: THEORY-tmplxt7t. No instruction for machine-learning practice.
+
+## Limitations
+
+- Simulation and a crude ansatz; no experiment.
+- Spherical symmetry only, with stability tested "only ... to radial
+  perturbations". Fodor (2019) reports later work in which nonsymmetric data
+  become spherical oscillons, which eases but does not remove this.
+- The upper bound on initial radius is unexplained.
+- No analytic lifetime. Lifetimes are read off the energy plateau of the
+  figures, "accurate to within 5%", but the text read gives no formal rule
+  for where the oscillon stage starts and ends.
+- One field, no environment; couplings, plasma and noise could change
+  lifetimes (§VI).
+- The figures were not legible in the extraction.

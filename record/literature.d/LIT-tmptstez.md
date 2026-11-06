@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: >-
+  read in part 2026-11-06 (NOTE-tmpn0ajp) from arXiv:hep-th/0509216v5, as a
+  neighbour of Copeland, Gleiser & Müller (1995), LIT-tmpfxol8, for the
+  topological protection that oscillons lack; worth reading as a standard
+  statement of why a topological soliton persists: a finite-energy
+  configuration must reach a vacuum at infinity, the map from infinity into
+  the vacua falls into homotopy classes that cannot be deformed into one
+  another, and the class is a charge, measured at the boundary, that bounds
+  the energy from below. Its main limits for this record: lectures on
+  supersymmetric gauge theories and BPS solitons, not a plain introduction
+  to kinks, with no worked φ4 kink; annihilation is shown only for
+  vortices; and the thesis that such solitons can end only by annihilation
+  or at a boundary is the reader's inference, not Tong's sentence. Only the
+  introduction, the instanton classification, the opening of the monopole
+  lecture, one vortex-string passage and the domain-wall classification
+  were read.
+title: 'TASI Lectures on Solitons: Instantons, Monopoles, Vortices and Kinks'
+version: 1
+history:
+- version: 1
+  date: '2026-11-06'
+  note: >-
+    Registered and read in part on 2026-11-06 at the owner's suggestion
+    that soliton dynamics bear on the record's questions of individuation
+    and persistence (works chosen by the assistant), as a neighbour of
+    Copeland, Gleiser & Müller (1995), LIT-tmpfxol8, read for the mechanism
+    of topological protection that the paper invokes in its §I. Citation
+    checked against the arXiv API by the reader (no email sent): David
+    Tong, DAMTP, Cambridge, arXiv:hep-th/0509216, v1 submitted 2005-09-28,
+    which is `published:`, and v5 of 2005-12-19, the copy read; Crossref
+    was not consulted, and no DOI is recorded. The title page reads "June
+    2005", a preprint date before submission, not used. A plainer
+    introduction to kinks was sought and not found: one arXiv API search
+    returned 503 and was not retried. Copy from arXiv,
+    arxiv.org/pdf/hep-th/0509216v5, 139 pages, text extracted by pdftotext;
+    the equations came through garbled in places.
+tags:
+- natural-sciences
+- mathematics
+date: '2026-11-06'
+published: '2005-09-28'
+arxiv: 'hep-th/0509216'
+first_author: 'Tong'
+keywords:
+- 'solitons'
+- 'instantons'
+- 'monopoles'
+- 'vortices'
+- 'domain walls'
+- 'kinks'
+- 'Bogomolny bound'
+- 'moduli space'
+- 'supersymmetric gauge theories'
+implementations: []
+summary: >-
+  Tong (2005). Lectures on instantons, monopoles, vortices and domain walls
+  (kinks), with "Emphasis ... placed on the moduli space of solitons" and
+  their role in supersymmetric gauge theories and string theory. Read here
+  only for topological protection: a configuration of finite energy must
+  approach a vacuum at spatial infinity; maps from infinity into the
+  vacuum manifold fall into homotopy classes, so the space of
+  configurations splits into sectors labelled by a charge measured as a
+  surface term at the boundary; the energy, action or tension in a sector
+  is bounded below by that charge, and the soliton saturates the bound. A
+  kink interpolates between distinct vacua at the two ends, so its charge
+  is fixed by the boundary data. Vortex-antivortex pairs annihilate.
+---
+<!-- inactive-ok-file: THEORY-tmpt325u THEORY-088 TERM-088 CLAIM-597 CLAIM-604 — Proposed or new; cited from the reading of Tong (2005) as open -->
+
+# LIT-tmptstez: TASI Lectures on Solitons: Instantons, Monopoles, Vortices and Kinks
+
+Tong, D. (2005). TASI Lectures on Solitons: Instantons, Monopoles, Vortices and Kinks. arXiv:hep-th/0509216. ARXIV-hep-th/0509216.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpn0ajp, of arXiv v5, in part. Section and page numbers are the preprint's.*
+
+- **Sectors.** Maps at infinity lie in one homotopy class "if they can be
+  continuously deformed into each other"; "The charge k splits the space of
+  field configurations into different sectors" (§1.1).
+- **The charge lives at the boundary and costs energy.** The bound is "a
+  surface term which measures some property of the field configuration on
+  the boundary" (§1.1); a configuration of nonzero charge "must have
+  nonzero action", and a self-dual solution "minimizes the action in a
+  given topological sector".
+- **Kinks.** "The existence of isolated vacua implies the existence of a
+  domain wall, a configuration that interpolates from a given vacuum" at one
+  end to a distinct one at the other (§4.2); "a strict classification of
+  the topological charge requires a statement of the vacuum at left and
+  right infinity" (§4.2.2).
+- **Annihilation.** "Slicing vertically, one sees a vortex-anti-vortex pair
+  annihilate" (§3.8.3, Fig. 21): a pair of opposite charge, total zero.
+- **An inference, not Tong's sentence.** That a topological soliton cannot
+  decay except by annihilation with an opposite charge or by a change at
+  the boundary is the reader's inference from these points; Tong does not
+  state it.
+
+## Standing in the record
+
+Registered as a neighbour of Copeland, Gleiser & Müller (1995),
+LIT-tmpfxol8, which was read in full; it stands in only for the mechanism
+behind their §I statement that topological conservation laws guarantee
+the stability of defects, which oscillons lack. It gives the record its
+third route to persistence, beside supply (Herr et al. 2014; Grelu &
+Akhmediev 2012) and a slow leak (Copeland, Gleiser & Müller 1995; Fodor
+2019): an identity fixed by boundary data, which needs no upkeep, so
+CLAIM-597 and CLAIM-604 do not apply to it. THEORY-088's cortical spirals,
+which annihilate with spirals of opposite rotation, are the record's one
+held case of the same logic. For TERM-088 it is dynamical individuation in
+its strongest form. Filed from it: THEORY-tmpt325u. No instruction for
+machine-learning practice.

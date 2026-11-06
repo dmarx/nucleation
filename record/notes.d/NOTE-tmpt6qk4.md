@@ -1,0 +1,199 @@
+---
+status: Skimmed
+paper: 'LIT-tmpbn6ad'
+title: 'Fodor — Radiation of oscillons'
+version: 1
+history:
+- version: 1
+  date: '2026-11-06'
+  note: >-
+    Read in part on 2026-11-06 from arXiv:1911.03340v1 (8 November 2019),
+    fetched from arxiv.org/pdf/1911.03340v1: 216 pages. Text extracted by
+    pdftotext; the figures were not legible. Read: the abstract; Chapter 1,
+    the Introduction (pp. 4–9); §2.3 (the sine-Gordon breather); §2.4 (the
+    history of oscillons); §§2.6.3–2.6.5 (the numerical method, the
+    time-evolution of Gaussian initial data and near-periodic states,
+    pp. 24–34); the start of §2.10 (numerical determination of the
+    radiation, pp. 118–120); the end of §3.6; and Chapter 4, the Summary.
+    Not read: the small-amplitude expansion, complex extension, asymptotic
+    matching and Borel summation of §§2.8–2.9, the rest of §2.10, and most
+    of Chapter 3 on self-gravitating oscillatons; the derivations of the
+    radiation law were not checked. Hence Skimmed. Read as a neighbour of
+    Copeland, Gleiser & Müller (1995), NOTE-tmpyp0bm, for the later account
+    of oscillon lifetimes and decay. Page and section numbers are the
+    preprint's.
+date: '2026-11-06'
+summary: >-
+  Read in part. Exactly periodic localized solutions of a real scalar exist
+  only for the 1+1 sine-Gordon breather; every other oscillon radiates, at
+  a rate exponentially small in its amplitude parameter but nonzero.
+  Stability follows from whether total energy rises with central
+  amplitude: in 3+1 dimensions oscillons are stable only above a minimum
+  amplitude and, carried below it by radiation, suddenly decay after a few
+  thousand oscillations; in 1 and 2 dimensions they never decay. Lifetimes
+  under fine-tuning are limited by numerical precision, and whether the
+  fine-tuned states are permanent is contested by Gleiser & Krackow (2019),
+  not cited in the review and left unresolved here.
+---
+<!-- inactive-ok-file: CLAIM-600 CLAIM-604 TERM-088 THEORY-1052 THEORY-tmp6zy9r — Proposed or new; cited from the reading of Fodor (2019) as open -->
+
+# NOTE-tmpt6qk4: Fodor — Radiation of oscillons
+
+## Contribution
+
+A long review of oscillons and oscillatons, centred on the one thing that
+separates them from true solitons: their slow radiation. It sets out
+where exact breathers exist (only sine-Gordon in 1+1), gives a stability
+criterion, explains why 3+1 dimensional oscillons end suddenly and lower
+dimensional ones never do, reproduces the Gaussian-data results of Gleiser
+and of Copeland, Gleiser & Müller with an independent code, and develops
+methods (quasibreathers, spectral numerics, Borel summation) for the
+radiation rate, which is exponentially small but not zero.
+
+## Key insight
+
+A structure that looks permanent can be told from one that is permanent
+by its outflow, not its persistence. Every oscillon but one leaks; what
+the leak does to the structure depends on where it carries it. If loss
+carries the amplitude toward a stability limit, as in three dimensions,
+the end is sudden; if loss slows as the amplitude falls, as in one and two
+dimensions, the structure fades forever and never ends.
+
+## Assumptions
+
+- A real scalar field with an analytic potential, on a fixed flat
+  background for oscillons (Ch. 2) or self-gravitating for oscillatons
+  (Ch. 3, mostly not read).
+- Units differ from Copeland, Gleiser & Müller: the potential is rescaled
+  with a minimum at φ = 0 and mass √2; C is the Gaussian amplitude and r0
+  its radius (§2.6.4).
+- Small-amplitude results expand in ε, with ω² = 1 − ε²; the large-amplitude
+  ones are spectral numerics.
+- Evidence: numerical simulation and asymptotic analysis; no experiment.
+
+## Key results
+
+- **One exact breather (Ch. 1, §2.3).** "The 1 + 1 dimensional sine-Gordon
+  theory is also very special in the sense that it is the only theory
+  involving a real scalar field where an exactly time-periodic localized
+  breather can exist"; in higher dimensions "there is no potential for
+  which a family of exactly periodically oscillating localized breather
+  solutions can exist".
+- **Integrability and identity (Ch. 1).** In sine-Gordon, kink and antikink
+  "go through each other without any change in their velocity. This is an
+  exceptional property of the integrable sine-Gordon theory." In φ4,
+  "oscillons can easily form by the collision of a kink and an antikink,
+  after radiating out the unnecessary energy".
+- **Always leaking (Ch. 1).** "these solutions always lose energy slowly by
+  the radiation of scalar field"; "Apart from the exceptional sine-Gordon
+  breather, all oscillon solutions emit energy slowly by the radiation of
+  scalar field".
+- **Generic formation (Ch. 1).** "they are not exceptional states, they
+  evolve from quite general initial data"; in more than one dimension
+  "oscillons become spherically symmetric quickly by radiating out scalar
+  field", even from "randomly chosen not spherically symmetric initial
+  data".
+- **Stability criterion (Ch. 1).** "If increasing the central amplitude the
+  total energy of the system also increases, then the system is stable,
+  otherwise it is unstable."
+- **The end depends on dimension (Ch. 1, Ch. 4).** "3 + 1 dimensional
+  oscillons are stable only if their amplitude is above a certain limit. If
+  their amplitude decreases below that value because of the radiation loss,
+  then they suddenly decay." "Since the energy loss rate decreases
+  exponentially when the amplitude decreases, these lower dimensional
+  oscillons never decay." In 3+1, "several thousands of oscillation
+  periods may happen before they move into the unstable domain and suddenly
+  decay" (Ch. 4).
+- **A reproduced case (§2.6.4).** "Using our numerical code we have started
+  out by reproducing the results of Gleiser"; for C = 2, r0 = 2.70716 the
+  oscillon "performs approximately 1240 similar oscillations", "at around
+  t = 5800 the radiation becomes more intense, and the oscillon begins to
+  decay", and "during about 25 oscillations the amplitude decreases so much
+  that it cannot be considered a localized state anymore". In the decay of
+  a short-lived case (r0 = 2.39) the central amplitude falls as the free
+  Klein-Gordon power, (t − tb)^-3/2. The
+  dependence on C and r0 "was investigated more precisely at first by
+  Copeland, Gleiser and Müller".
+- **Fine-tuning (§2.6.5, eq. 2.33).** Near a resonance the lifetime grows as
+  γ ln|r0 − r0*| + δ; going from 16 to 32 digits of precision "could double
+  the observed lifetime".
+- **Permanent or not (Ch. 1).** Honda and Choptuik's lifetime peaks
+  "appeared to correspond to periodic oscillons"; Fodor and coauthors
+  showed "the states belonging to these peaks are actually oscillons
+  belonging to the low amplitude unstable domain, which, even if very
+  slightly, but necessarily radiate in a detectable way".
+- **Measuring the leak (Ch. 1, §2.10, Ch. 4).** A "quasibreather", the
+  exactly periodic state with an incoming wave compensating the loss, has a
+  minimal standing-wave tail: "The amplitude of the standing wave tail of
+  the quasibreather agrees with the tail-amplitude of the radiating
+  oscillon"; "the radiation is exponentially small in terms of the
+  parameter" ε. Shape-modes "can store considerable amount of energy", so
+  measured radiation of large φ4 oscillons is "one or two magnitude larger
+  than the theoretically predicted value" (§2.10).
+- **Near-protection (§2.4).** Non-relativistic oscillons "have an
+  approximately conserved adiabatic charge" (I-balls).
+
+## Concepts
+
+- **Oscillon / oscillaton**: a long-lived oscillating localized state of a
+  real scalar, without or with self-gravity.
+- **Breather**: an exactly time-periodic localized solution; for a real
+  scalar, only sine-Gordon in 1+1.
+- **Quasibreather**: the exactly periodic state kept by an incoming wave
+  equal to the oscillon's loss; its tail measures the radiation.
+- **Shape-mode**: a slow modulation of the oscillon's envelope, which can
+  store and shed energy.
+- **Stability by dE/dA**: stable where total energy rises with central
+  amplitude.
+
+## Connections
+
+- **Copeland, Gleiser & Müller (1995), NOTE-tmpyp0bm.** This carries their
+  sudden end below a minimum amplitude, now as a general criterion for 3+1
+  dimensions, and reproduces their kind of Gaussian result with an
+  independent code; it notes that their Fig. 7 already hinted at the
+  lifetime peaks later mapped by Honda and Choptuik. It does not take up their upper bound on the initial radius, nor
+  their virialization argument, in the parts read.
+- **Gleiser & Krackow (2019), unresolved.** "Resonant Configurations in
+  Scalar Field Theories: Can (Some) Oscillons Live Forever?",
+  arXiv:1906.04070, Phys. Rev. D 100, 116005. Only its abstract,
+  introduction and conclusions were read, as a pointer, and it is not
+  registered. Its numerical results "offer support for the conjecture that,
+  in both dimensions, resonant oscillons may be infinitely long-lived",
+  while it grants that the peak itself would "involve infinite
+  fine-tuning". This review, which does not cite it in the text searched,
+  holds that the peak states necessarily radiate. Which is right was not
+  settled by anything read here.
+- **Tong (2005), NOTE-tmpn0ajp.** The topological protection oscillons lack;
+  the φ4 kink-antikink collision above is where the two meet, charge
+  annihilating into a non-topological remnant.
+- **The other works of this batch.** Grimshaw et al. (2018): a soliton
+  decaying under damping, against the radiative leak here. Herr et al.
+  (2014) and Grelu & Akhmediev (2012): structures held by a supply.
+
+## Bearing on the record
+
+- **CLAIM-600 (slow reversion can mimic persistence).** Supports and widens
+  it: the same leak gives two shapes, an abrupt end in three dimensions and
+  an asymptote that never ends in one and two. "Slow reversion" can
+  therefore either end suddenly or never finish, and lifetime alone does
+  not tell the cases apart; a measured outflow and the direction it carries
+  the structure do.
+- **CLAIM-604.** Qualifies as Copeland, Gleiser & Müller do: a sudden end
+  at a threshold here comes from a conservative leak, with no flux-fed
+  upkeep.
+- **TERM-088.** Dynamical individuation that is finite in 3+1 and, in 1 and
+  2 dimensions, indefinite without being exact.
+- **THEORY-1315 and THEORY-1052.** A lifetime bounded by numerical
+  precision is a case of what a finite observation can and cannot show.
+- Filed: THEORY-tmp6zy9r. No instruction for machine-learning practice.
+
+## Limitations
+
+- Skimmed: the derivations of the radiation rate (§§2.8–2.9) and the
+  self-gravitating chapter were not read or checked.
+- Partly the author's own results, reviewed by him.
+- Numerical and asymptotic only; no experiment.
+- Units differ from Copeland, Gleiser & Müller's, so their numbers do not
+  compare directly.
+- The figures were not legible in the extraction.
