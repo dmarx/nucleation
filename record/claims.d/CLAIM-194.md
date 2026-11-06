@@ -137,7 +137,6 @@ produced boundary from an imposed one. The two closures are separated in
 
 ## Note of 2026-11-01: the mechanists' discriminator is a coupling notion too
 
-<!-- inactive-ok-file: CLAIM-530 — Proposed; the claim filed from this reading, cited as open -->
 
 Craver and Bechtel ([LIT-1928](../literature.d/LIT-1928.md), [NOTE-1491](../notes.d/NOTE-1491.md)) concede that interlevel
 experiments show only prima facie that an item is a component. They say

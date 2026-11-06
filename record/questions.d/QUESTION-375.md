@@ -25,7 +25,7 @@ summary: >-
   multiparameter, sees connectivity across budgets and not direction or
   path length. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-571 CLAIM-591 NOTE-1568 NOTE-1584 NOTE-1609 THEORY-1420 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-591 NOTE-1568 NOTE-1584 NOTE-1609 THEORY-1420 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # QUESTION-375: Can a resource-indexed topological summary of a solution space, such as its persistence or the diameter of its components, detect whether navigating it is computationally easy or hard?
 

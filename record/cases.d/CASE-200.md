@@ -32,7 +32,7 @@ summary: >-
   The construction is the filer's, from A's budget recursion; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-571 TERM-106 TERM-107 TERM-110 THEORY-1421 THEORY-1410 CLAIM-558 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
+<!-- inactive-ok-file: TERM-106 TERM-107 TERM-110 THEORY-1421 THEORY-1410 CLAIM-558 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 
 # CASE-200: A transition that a budget reaches only by carry-over: a per-period budget of 1.0 holds either configuration at 0.7, the transition needs 1.3, and rolling over the 0.3 left unspent reaches it, while a rule that cuts or expires unspent funds forecloses it
 

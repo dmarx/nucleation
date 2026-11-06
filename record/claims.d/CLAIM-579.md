@@ -44,7 +44,7 @@ summary: >-
   carry. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-205 CASE-212 CLAIM-562 CLAIM-571 CLAIM-577 CLAIM-586 NOTE-1596 TERM-105 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: CASE-205 CASE-212 CLAIM-562 CLAIM-577 NOTE-1596 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # CLAIM-579: A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs
 

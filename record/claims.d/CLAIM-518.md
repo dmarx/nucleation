@@ -159,4 +159,4 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-06: what holds it back
 
-The broad horn of its objection CLAIM-512 is unanswered: nothing on the record shows that the diachronic relations this claim names add to CLAIM-363's relata, by causal specificity, transfer or counterfactual discrimination (A27 §10), which is the second clause of this claim's defeater. Bencherki's checklist and daycare (ARG-043) separate two histories with one end state, but by a standard of authorship and not by the organizational description (CLAIM-512's note of 2026-10-31).
+The broad horn of its objection [CLAIM-512](CLAIM-512.md) is unanswered: nothing on the record shows that the diachronic relations this claim names add to [CLAIM-363](CLAIM-363.md)'s relata, by causal specificity, transfer or counterfactual discrimination (A27 §10), which is the second clause of this claim's defeater. Bencherki's checklist and daycare ([ARG-043](../arguments.d/ARG-043.md)) separate two histories with one end state, but by a standard of authorship and not by the organizational description ([CLAIM-512](CLAIM-512.md)'s note of 2026-10-31).

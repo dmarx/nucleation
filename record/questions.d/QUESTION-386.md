@@ -22,8 +22,8 @@ summary: >-
   assumed." Distinct from [QUESTION-134](QUESTION-134.md). The wording is A's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-602 NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-587 TERM-115 ARG-053 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
+<!-- inactive-ok-file: ARG-053 — Proposed, Rejected or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 <!-- inactive-ok-file: CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: CLAIM-577 — Proposed; the assistant's claim of 2026-11-05, cited as open -->
 

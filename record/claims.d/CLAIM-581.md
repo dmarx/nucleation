@@ -67,8 +67,7 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CASE-206 CLAIM-563 CLAIM-571 CLAIM-585 CLAIM-590 CLAIM-591 TERM-105 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
-<!-- inactive-ok-file: CASE-199 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
+<!-- inactive-ok-file: CASE-206 CLAIM-585 CLAIM-590 CLAIM-591 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 
 # CLAIM-581: Under peak-capacity costs on reversible moves, the transition threshold between configurations is an extended pseudo-ultrametric, so identifying configurations reachable within a budget is an equivalence relation at every budget and the identifications nest into one tree as the budget grows; under additive costs the threshold is only an extended pseudometric, budgeted identification need not be transitive, and no such tree exists
 

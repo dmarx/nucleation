@@ -30,7 +30,7 @@ summary: >-
   animal. It does not show that the loss causes failed weaning, or whether
   and how fast the diaphragm recovers.
 ---
-<!-- inactive-ok-file: LIT-2212 CLAIM-600 CLAIM-602 CLAIM-558 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
+<!-- inactive-ok-file: LIT-2212 CLAIM-600 CLAIM-558 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
 # THEORY-1511: Jaber, Jung, Matecki and Petrof review evidence that fully controlled mechanical ventilation weakens, shrinks and injures the human diaphragm as it does in animals: biopsies from brain-dead organ donors ventilated for hours to days show diaphragm fibre atrophy and injury with oxidative stress and raised proteolysis markers, not seen in the pectoralis, the changes growing with the duration of ventilation, and diaphragm twitch pressure in ventilated patients falls by about a third in six days; in animals, keeping spontaneous effort lessens the loss but leaves a residual deficit
 

@@ -26,7 +26,7 @@ summary: >-
   concept lattice's existence tells anything about the system it describes:
   every relation has one.
 ---
-<!-- inactive-ok-file: NOTE-1593 LIT-344 CLAIM-586 — Skimmed and new, Unavailable, or Proposed; cited from the reading of Ignatov (2015) as open -->
+<!-- inactive-ok-file: NOTE-1593 LIT-344 — Skimmed and new, Unavailable, or Proposed; cited from the reading of Ignatov (2015) as open -->
 
 # THEORY-1379: Wille's formal concept analysis, as restated by Ignatov: for any relation between objects and attributes, the two derivation operators form an antitone Galois connection whose closed pairs form a complete lattice, every complete lattice arises so, and an attribute implication A → B holds exactly when every object with all of A has all of B, that is, when B lies in the closure of A
 

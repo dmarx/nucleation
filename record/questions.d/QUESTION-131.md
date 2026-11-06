@@ -26,7 +26,6 @@ summary: >-
   possible, and what evidence attributes either to a bearer. Merely
   failing to realize an attainable set of requirements is neither.
 ---
-<!-- inactive-ok-file: CLAIM-554 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: LIT-1954 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-131: How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent's demands, and under what conditions can one occur without the other?

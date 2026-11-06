@@ -18,12 +18,12 @@ source:
 extends:
 - THEORY-1435
 summary: >-
-  The closure result of Marsden & Zwart (CSL 2018), LIT-2054, read in full
-  in NOTE-1602, whose proofs the paper sketches. Split from THEORY-1435 by
-  the status review of 2026-11-06 (ADR-047 kind 1, ADR-065 §3): that entry
+  The closure result of Marsden & Zwart (CSL 2018), [LIT-2054](../literature.d/LIT-2054.md), read in full
+  in [NOTE-1602](../notes.d/NOTE-1602.md), whose proofs the paper sketches. Split from [THEORY-1435](THEORY-1435.md) by
+  the status review of 2026-11-06 ([ADR-047](../decisions.d/ADR-047.md) kind 1, [ADR-065](../decisions.d/ADR-065.md) §3): that entry
   reports the proposal and is Active; this one asserts the result and keeps
   the old condition word for word. A re-derivation of Proposition 37 for
-  Q-profunctors is below, awaiting a second checker (ADR-065 §5); Corollary
+  Q-profunctors is below, awaiting a second checker ([ADR-065](../decisions.d/ADR-065.md) §5); Corollary
   38's wider scope is not re-derived.
 ---
 
@@ -31,14 +31,14 @@ summary: >-
 
 ## Source
 
-Marsden & Zwart (2018), LIT-2054; read in NOTE-1602. The proposal is THEORY-1435's.
+Marsden & Zwart (2018), [LIT-2054](../literature.d/LIT-2054.md); read in [NOTE-1602](../notes.d/NOTE-1602.md). The proposal is [THEORY-1435](THEORY-1435.md)'s.
 
 ## What was actually shown
 
 The paper states Proposition 37 and Corollary 38 with proofs sketched: "Every
 endomorphism in our categories of interest can be used to construct a free
 internal monad using the reflexive transitive closure construction of
-proposition 37" (NOTE-1602).
+proposition 37" ([NOTE-1602](../notes.d/NOTE-1602.md)).
 
 **Proposition 37 for Q-profunctors, re-derived** (by the reviewer of
 2026-11-06; a second checker must follow each step before a ruling):

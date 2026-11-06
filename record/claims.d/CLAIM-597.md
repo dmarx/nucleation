@@ -71,7 +71,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-600 NOTE-1659 — new or Skimmed; the revised synthesis and a reading of the counterpoint filing, cited as open -->
 <!-- inactive-ok-file: NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-566 LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
 
 # CLAIM-597: Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both illustrate
 

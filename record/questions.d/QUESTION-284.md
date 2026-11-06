@@ -23,7 +23,6 @@ summary: >-
   from characterization and from ordinary causal modification.
 ---
 <!-- inactive-ok-file: CLAIM-477 CLAIM-157 — Proposed or Open; the partial answers and neighbouring questions, cited as open -->
-<!-- inactive-ok-file: CLAIM-593 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # QUESTION-284: In any domain, when do the constraints on an entity's relations only characterize an entity individuated without them, and when do they partly constitute its identity, its boundary or what it can do; and are a boundary a process detects, one it maintains and one it constitutes three different things?
 

@@ -99,7 +99,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2213 LIT-2212 — Unavailable; registered by the medicine filing, cited as open -->
 <!-- inactive-ok-file: LIT-2221 LIT-2220 — Unavailable; registered by the state-aid filing, cited as open -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; registered by the assistance filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
+<!-- inactive-ok-file: CLAIM-558 CLAIM-603 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
 
@@ -356,7 +356,7 @@ Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), sup
 
 ## Note of 2026-11-06: what holds it back
 
-It rests on CLAIM-558, CLAIM-603 and CLAIM-566, none held: CLAIM-558
-waits on a full reading of Tatel, and CLAIM-603 on narrowing its title
-to the organizational case. CLAIM-597, CLAIM-602 and CLAIM-604 went
+It rests on [CLAIM-558](CLAIM-558.md), [CLAIM-603](CLAIM-603.md) and [CLAIM-566](CLAIM-566.md), none held: [CLAIM-558](CLAIM-558.md)
+waits on a full reading of Tatel, and [CLAIM-603](CLAIM-603.md) on narrowing its title
+to the organizational case. [CLAIM-597](CLAIM-597.md), [CLAIM-602](CLAIM-602.md) and [CLAIM-604](CLAIM-604.md) went
 Active in this pass.

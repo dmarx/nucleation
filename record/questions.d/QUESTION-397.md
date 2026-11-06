@@ -27,8 +27,6 @@ summary: >-
   compatible subsystem helps; this asks by which of the two routes. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-596 — new; the assistant's claim on yields and routes, cited as open -->
-<!-- inactive-ok-file: TERM-117 — Proposed, Skimmed or new; entries cited as open -->
 
 # QUESTION-397: Under what conditions does a partial organization increase the probability of subsequent organization by changing the transition dynamics, rather than merely providing a more advanced initial state?
 

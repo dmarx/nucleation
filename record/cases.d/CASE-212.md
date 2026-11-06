@@ -30,7 +30,6 @@ summary: >-
   construction is the filer's, from A's resource-parameterized
   compatibility complex; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-586 — Proposed; the claim this case works, filed beside it from A's synthesis of 2026-11-04 -->
 <!-- inactive-ok-file: NOTE-1593 CLAIM-564 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CASE-212: Three demands and four configurations: each pair of demands is jointly met at some cost, the pairs enter the budgeted complex at budgets 1, 2 and 3, and the triple never does, so raising the budget relieves scarcity and leaves the frustration where it was

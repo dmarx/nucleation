@@ -131,9 +131,9 @@ did not happen.
 ## Note of 2026-11-06: what holds it back
 
 Kept Proposed by the twenty-fifth status review. The sources are read
-(NOTE-408, NOTE-034, NOTE-412), but the title's negative half, that
+([NOTE-408](../notes.d/NOTE-408.md), [NOTE-034](../notes.d/NOTE-034.md), [NOTE-412](../notes.d/NOTE-412.md)), but the title's negative half, that
 behaviour unrelated to cooperation is morally neutral, has had no blind
 test: no sample coded for the seven domains and for non-cooperative
 candidates named before coding is on the record, and where such items
-appear the programme's own data show them moralized. CLAIM-547 no longer
+appear the programme's own data show them moralized. [CLAIM-547](../claims.d/CLAIM-547.md) no longer
 grounds on it.

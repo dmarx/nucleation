@@ -27,7 +27,7 @@ summary: >-
   reported. Its figure of 64% weak after 24 h is weakness on ICU admission,
   not loss caused by ventilation.
 ---
-<!-- inactive-ok-file: LIT-2212 CLAIM-600 CLAIM-602 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
+<!-- inactive-ok-file: LIT-2212 CLAIM-600 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
 # THEORY-1514: Goligher and colleagues hold that mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient's own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls; and that trials confirming the benefit of this approach are still required
 

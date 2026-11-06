@@ -30,7 +30,6 @@ summary: >-
   multiple folds, nor anything about hysteresis, kinetics or whole-origami
   yield.
 ---
-<!-- inactive-ok-file: THEORY-1398 — Proposed; cited from the reading of Majikes et al. (2020) as open -->
 
 # THEORY-1454: Majikes and colleagues find, in a single-fold DNA origami model measured by FRET melting with affine baseline correction, that closing a fold with an already anchored staple is unimolecular and more stable than bimolecular binding of the same domain, and that the fold's melting temperature falls as fold distance grows, by more than 10 °C from short to long, through a configurational-entropy cost; from this they infer, without testing it, that origami folds by nucleation and growth, a staple's longest domain binding first and short, entropically cheap folds then making neighbouring folds cheaper
 

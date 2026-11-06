@@ -46,7 +46,7 @@ summary: >-
   which are closed downward. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-562 CLAIM-595 TERM-117 — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: CLAIM-562 — Proposed, Skimmed or new; entries cited as open -->
 
 # CLAIM-599: Because establishing more relations can lower the chance of forming a target, the sets of relations that are productive nuclei need not be closed upward: two productive nuclei can combine into a trap, so the minimal productive sets describe the productive ones only where adding relations never hurts
 

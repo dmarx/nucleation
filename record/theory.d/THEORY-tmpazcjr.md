@@ -21,22 +21,22 @@ source:
 extends:
 - THEORY-1463
 summary: >-
-  The thesis the authors assert, split from THEORY-1463 when the
+  The thesis the authors assert, split from [THEORY-1463](THEORY-1463.md) when the
   twenty-fifth status review promoted the report of their argument
-  (ADR-065; ADR-047 kind 1). THEORY-1463 holds that they argue it;
+  ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md) kind 1). [THEORY-1463](THEORY-1463.md) holds that they argue it;
   whether it is true is this entry's question, under the condition
-  THEORY-1463 carried, word for word.
+  [THEORY-1463](THEORY-1463.md) carried, word for word.
 ---
 
 # THEORY-tmpazcjr: Many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon
 
 ## Source
 
-Pritchett, Woolcock and Andrews (2012; Journal of Development Studies 2013), LIT-2164; their argument is read in NOTE-1678 and reported, Active, in THEORY-1463.
+Pritchett, Woolcock and Andrews (2012; Journal of Development Studies 2013), [LIT-2164](../literature.d/LIT-2164.md); their argument is read in [NOTE-1678](../notes.d/NOTE-1678.md) and reported, Active, in [THEORY-1463](THEORY-1463.md).
 
 ## What was actually shown
 
-See THEORY-1463: linear extrapolations of perception-based indicators,
+See [THEORY-1463](THEORY-1463.md): linear extrapolations of perception-based indicators,
 three vignettes and a conceptual framework, with no test of the two
 techniques against alternatives. Nothing beyond that reading is held here.
 

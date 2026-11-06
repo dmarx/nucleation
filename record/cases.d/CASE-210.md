@@ -27,7 +27,7 @@ summary: >-
   near-duplicate claim; it illustrates that claim for a capability. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-053 TERM-115 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: ARG-053 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CASE-210: Two departments perform no extrications during ordinary operation, but only one can satisfy a deadline-constrained extrication demand under intervention
 

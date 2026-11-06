@@ -104,7 +104,7 @@ disuse:
   dC/dt = λP(1 − C) − μC.
 
 The disuse term is an assumption, stated in the claim's condition;
-CLAIM-558 holds it for individual procedural skill. Two
+[CLAIM-558](CLAIM-558.md) holds it for individual procedural skill. Two
 rules for using the supply A are compared.
 
 - **Substitution: supply first.** The supply does min(A, 1) and the

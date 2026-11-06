@@ -29,7 +29,7 @@ summary: >-
   say why some patients cannot be weaned, nor that ventilation itself
   causes the failure.
 ---
-<!-- inactive-ok-file: LIT-2213 CLAIM-600 CLAIM-597 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
+<!-- inactive-ok-file: LIT-2213 CLAIM-600 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
 # THEORY-1515: Shah, Hart and Kaltsakas, following the 2007 international consensus, hold that readiness to come off invasive ventilation is tested by withdrawing support for a spontaneous breathing trial of 30 to 120 minutes, since predictors of readiness have low power; that patients are classed as simple, difficult or prolonged weaning by whether the first attempt succeeds and, if not, whether up to three trials or seven days suffice; and that outcomes worsen across these groups, about half of patients whose weaning fails remaining on invasive ventilation at one year
 

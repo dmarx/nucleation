@@ -40,7 +40,7 @@ summary: >-
   2026-10-30. The model updates every action's memory at the same rate, so
   it is the full-information case, not Q-learning as usually run.
 ---
-<!-- inactive-ok-file: THEORY-938 THEORY-936 CLAIM-444 — Proposed or new; the source and the accounts this bears on, named -->
+<!-- inactive-ok-file: THEORY-938 THEORY-936 — Proposed or new; the source and the accounts this bears on, named -->
 
 # THEORY-928: Two softmax learners that update every action's reward memory each step with its average reward against the other's current play, the memories decaying at rate α, follow, in the limit of learning slow relative to play, coupled replicator equations plus a term α Σ x_j log(x_j / x_i) toward uniform play; in a two-player matrix game, without decay the dynamics preserve phase volume in log-ratio coordinates and are Hamiltonian when the game is zero-sum with an interior Nash equilibrium, and with decay the volume contracts at rate (N − 1)(α_X + α_Y)
 

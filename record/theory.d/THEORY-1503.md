@@ -31,7 +31,7 @@ summary: >-
   single industries; and it bears on recovery of established places, not
   on whether new support can make a place.
 ---
-<!-- inactive-ok-file: NOTE-1690 CLAIM-604 THEORY-1461 — Proposed, Skimmed or new; cited from the reading of Davis and Weinstein (2004) as open -->
+<!-- inactive-ok-file: NOTE-1690 THEORY-1461 — Proposed, Skimmed or new; cited from the reading of Davis and Weinstein (2004) as open -->
 
 # THEORY-1503: Davis and Weinstein find, testing unique against multiple equilibria by threshold regression on the Allied bombing of Japanese cities, that city population, the city share of aggregate manufacturing and city output in eight manufacturing industries all return after the shock to their prior paths, with the data preferring a single stable equilibrium at each level and the best-fitting multiple-equilibria models failing the requirement that larger negative shocks lead to lower equilibria; industry recovery is slower where industries were hit hardest, chiefly in Hiroshima
 

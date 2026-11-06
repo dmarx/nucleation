@@ -71,7 +71,7 @@ Zhang and Adams (2021), [LIT-2047](../literature.d/LIT-2047.md); read in [NOTE-1
 ## Re-derivation of 2026-11-06: the bar counts of Theorems 1 and 2
 
 1. Each one-dimensional torsion term is a Morse function on the circle with
-   three minima and three maxima (trans and two gauche; NOTE-1616, §V). The
+   three minima and three maxima (trans and two gauche; [NOTE-1616](../notes.d/NOTE-1616.md), §V). The
    sum f_n on Tⁿ is then Morse. A critical point picks a critical point in
    each coordinate, and its index is the number of coordinates at a
    maximum, so index k has C(n, k)·3^k·3^(n−k) = 3ⁿ·C(n, k) critical points,
@@ -79,7 +79,7 @@ Zhang and Adams (2021), [LIT-2047](../literature.d/LIT-2047.md); read in [NOTE-1
 2. The semi-infinite bars in dimension k are the Betti numbers of Tⁿ,
    C(n, k).
 3. Each index-k critical point either begins a k-bar or ends a (k−1)-bar
-   (the paper's §IV.A count, quoted in NOTE-1616). This holds with tied
+   (the paper's §IV.A count, quoted in [NOTE-1616](../notes.d/NOTE-1616.md)). This holds with tied
    critical values, counted with multiplicity, by the long exact sequence of
    each handle attachment. Writing x_k for the finite k-bars,
    3ⁿ·C(n, k) = C(n, k) + x_k + x_{k−1}, with x_{−1} = 0.
@@ -95,4 +95,4 @@ assert; that stays transcribed from the proof.
 
 ## Note of 2026-11-06: what holds it back
 
-Its condition asks that the closed form be proved, and appendix A, which holds the proof, was skimmed in NOTE-1616. The promotion awaits a second reader's check of the re-derivation above (ADR-065 §5), or a reading of appendix A; nothing rests on this entry once the claims' edges have moved to corroborated_by.
+Its condition asks that the closed form be proved, and appendix A, which holds the proof, was skimmed in [NOTE-1616](../notes.d/NOTE-1616.md). The promotion awaits a second reader's check of the re-derivation above ([ADR-065](../decisions.d/ADR-065.md) §5), or a reading of appendix A; nothing rests on this entry once the claims' edges have moved to corroborated_by.

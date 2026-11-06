@@ -72,7 +72,7 @@ single constraint of its own cannot realise closure.
   organizational form, a precondition of agency that does not suffice.
 
 ## Note of 2026-11-01: closure of interactions, and entrenchment
-<!-- inactive-ok-block: LIT-188 CLAIM-531 — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §3; [NOTE-173](../notes.d/NOTE-173.md)) adopt this term from Moreno
 and Mossio for social groups: "community requires 'organizational

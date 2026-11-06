@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2098 LIT-2075 — Unavailable; cited for their published abstracts, nothing here rests on them -->
 <!-- inactive-ok-file: NOTE-1583 — Skimmed; the reading the review's quotations come from -->
-<!-- inactive-ok-file: THEORY-1396 TERM-115 TERM-108 — Proposed; the review's account and the terms of the same filing, cited as filed -->
+<!-- inactive-ok-file: THEORY-1396 TERM-108 — Proposed; the review's account and the terms of the same filing, cited as filed -->
 
 # TERM-113: coverage, and which sense: deterministic coverage that treats a covering unit as always available, expected coverage that discounts it by its chance of being busy, and reliable coverage that requires a free unit with a stated probability
 

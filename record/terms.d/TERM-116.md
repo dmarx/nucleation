@@ -30,7 +30,7 @@ summary: >-
   while at a positive threshold the relation is intransitive, as A says.
   The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-199 CLAIM-557 CLAIM-569 CLAIM-574 CLAIM-581 CLAIM-590 TERM-088 TERM-114 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the assistant's own and the entries filed beside them, and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-557 CLAIM-569 CLAIM-590 TERM-088 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the assistant's own and the entries filed beside them, and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
 
 # TERM-116: relational profiles of a configuration, and which: incoming, the cost of producing it from each other configuration; outgoing, the cost of turning it into each; observational, what the tests affordable at a budget can tell it from, with the minimum distinguishing budget at a threshold; and maintenance, what preserves or regenerates its enabling constraints, which Yoneda does not supply
 

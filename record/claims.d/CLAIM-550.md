@@ -55,7 +55,6 @@ summary: >-
   derives them. The chain is the owner's. The wording is A's, sharpened by
   the reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-361 CLAIM-534 CLAIM-549 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-550: A perspective's tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand
 

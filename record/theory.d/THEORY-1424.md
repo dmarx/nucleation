@@ -68,7 +68,7 @@ Tatel & Ackerman (2025), [LIT-2088](../literature.d/LIT-2088.md), unread.
 
 ## Note of 2026-11-06: what holds it back
 
-NOTE-1560 has not read Tatel's effect-size chapter (Ch. 3), most of the
+[NOTE-1560](../notes.d/NOTE-1560.md) has not read Tatel's effect-size chapter (Ch. 3), most of the
 moderator analyses (§5.3) or the publication-bias sections (§§5.5–5.6),
 so the rates and the practice moderator are not yet read in full. When
 they are, the title needs "for accuracy" on its practice clause, since

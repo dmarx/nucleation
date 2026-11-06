@@ -10,8 +10,8 @@ line: readiness
 bears_on:
 - QUESTION-398
 summary: >-
-  The promotion condition formerly on THEORY-1465, moved here when the
-  twenty-fifth status review promoted it under ADR-065: THEORY-1465
+  The promotion condition formerly on [THEORY-1465](../theory.d/THEORY-1465.md), moved here when the
+  twenty-fifth status review promoted it under [ADR-065](../decisions.d/ADR-065.md): [THEORY-1465](../theory.d/THEORY-1465.md)
   reports what Balboni and colleagues hold for rural Bangladesh, and
   whether the threshold appears elsewhere, or under randomized transfer
   size, is this question.
@@ -21,7 +21,7 @@ summary: >-
 
 ## Why it is a question
 
-In Balboni et al.'s study (THEORY-1465) randomization decided who got a
+In Balboni et al.'s study ([THEORY-1465](../theory.d/THEORY-1465.md)) randomization decided who got a
 transfer, but which side of the threshold a household landed on was set by
 small, non-random differences in baseline assets. A study in another
 setting finding the same divergence, or a design randomizing transfer

@@ -73,7 +73,7 @@ summary: >-
   dropped and the separation of coexistence from cooperation. The wording
   is A's, sharpened by the reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-361 CLAIM-546 CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-554: Niche differentiation matters to an organization's development as possible relief of structural frustration among its constituents' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves no structural frustration of the original demands, and specialization can relieve frustration where nothing competes
 

@@ -17,26 +17,25 @@ source:
 extends:
 - THEORY-1423
 summary: >-
-  The thesis Berry, Lee-Trimble and Santangelo (2020), LIT-2024, assert,
-  filed beside THEORY-1423, the Active report that they find it, at the
-  twenty-fifth status review (ADR-047 kind 1). It keeps THEORY-1423's old
+  The thesis Berry, Lee-Trimble and Santangelo (2020), [LIT-2024](../literature.d/LIT-2024.md), assert,
+  filed beside [THEORY-1423](THEORY-1423.md), the Active report that they find it, at the
+  twenty-fifth status review ([ADR-047](../decisions.d/ADR-047.md) kind 1). It keeps [THEORY-1423](THEORY-1423.md)'s old
   condition word for word. The authors call the quadratic-order proof
   "somewhat involved" and confirm it numerically on one symmetric 5-fold
   vertex. The inherited condition does not name degree four, which the
   title excepts.
 ---
-<!-- inactive-ok-file: THEORY-1423 — the report this extends, promoted in the same review -->
 
 # THEORY-tmpi4xzs: Near the flat state a non-intersecting rigid origami vertex with small positive Gaussian curvature has a configuration space split into two components (popped up and popped down) that no rigid, non-tearing motion joins, while for small negative curvature the two are joined by a neck, except at degree four
 
 ## Source
 
-Berry, Lee-Trimble and Santangelo (2020), LIT-2024; read in full in
-NOTE-1605 (arXiv v1).
+Berry, Lee-Trimble and Santangelo (2020), [LIT-2024](../literature.d/LIT-2024.md); read in full in
+[NOTE-1605](../notes.d/NOTE-1605.md) (arXiv v1).
 
 ## What was actually shown
 
-What the authors find is THEORY-1423. This entry holds whether it is true:
+What the authors find is [THEORY-1423](THEORY-1423.md). This entry holds whether it is true:
 that the second-order condition hᵀQh = K correctly determines the
 isometries to quadratic order, and that the hyperboloid picture it gives
 (two sheets for K > 0, one sheet joined by a neck for K < 0, both signs

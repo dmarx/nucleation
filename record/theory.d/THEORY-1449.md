@@ -29,7 +29,7 @@ summary: >-
   design, and monomers, temperatures and UV are supplied every cycle, so
   it says nothing of a population that maintains its own conditions.
 ---
-<!-- inactive-ok-file: LIT-2132 CLAIM-566 — Unavailable or Proposed; cited from the reading of Zhou et al. (2021) as open -->
+<!-- inactive-ok-file: LIT-2132 — Unavailable or Proposed; cited from the reading of Zhou et al. (2021) as open -->
 
 # THEORY-1449: Zhou, Sha, Ni, Seeman and Chaikin show that, in a non-enzymatic DNA origami dimer replicator fed fresh monomers each thermal and UV cycle, a species arising only by a designed mutation of about 3.5% per copy reaches parity within five cycles and dominates after about nine when its growth rate per cycle is higher, growth rate being the only fitness the system has, while two species that grow alike approach equal shares
 

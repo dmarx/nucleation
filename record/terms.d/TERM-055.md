@@ -26,7 +26,6 @@ complements:
 - TERM-064
 - TERM-085
 ---
-<!-- inactive-ok-file: TERM-115 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: LIT-1065 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: LIT-1609 — Deferred; its introduction read on 2026-10-29 and cited in the note of that date for that part, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-113 TERM-112 CASE-203 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->

@@ -137,7 +137,7 @@ Supported and extended. Disuse need not mean rare operation: it can sit inside d
 ## Note of 2026-11-06: what holds it back
 
 Its first two parts are Tatel's rates and practice moderator
-(THEORY-1424), whose reading (NOTE-1560) skipped the effect-size and
+([THEORY-1424](../theory.d/THEORY-1424.md)), whose reading ([NOTE-1560](../notes.d/NOTE-1560.md)) skipped the effect-size and
 moderator chapters; until that reading is complete, or another read
 study gives decay with time since use, the claim's ground is not held.
-THEORY-1404, its other ground, went Active in the same pass.
+[THEORY-1404](../theory.d/THEORY-1404.md), its other ground, went Active in the same pass.

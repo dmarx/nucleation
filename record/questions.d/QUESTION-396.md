@@ -26,8 +26,7 @@ summary: >-
   memory helps and when it hides. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1415 THEORY-1431 CLAIM-523 — Proposed; the readings' accounts and the record's claim on legibility, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-566 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: THEORY-1415 THEORY-1431 — Proposed; the readings' accounts and the record's claim on legibility, cited as filed, nothing here rests on their being settled -->
 
 # QUESTION-396: Under what conditions does structural memory improve an organization's control over its future behavior, and when does accumulated history instead create hidden states and unexpected transition pathways?
 

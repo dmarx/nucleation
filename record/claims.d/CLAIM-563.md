@@ -64,7 +64,7 @@ summary: >-
   that composes, as A proposes. The wording is A's, sharpened by the
   reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-571 CLAIM-585 NOTE-1585 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-585 NOTE-1585 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-590 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-563: When process costs compose by a monotone operation, the processes costing at most b are closed under composition whenever b composed with itself is at most b, and not otherwise once two composable processes each cost b: at every budget for a peak capacity composed by maximum, and for a cumulative expenditure composed by sum only at budgets 0 and infinity

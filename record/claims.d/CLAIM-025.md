@@ -67,7 +67,6 @@ complements:
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-566 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-025: An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately
 

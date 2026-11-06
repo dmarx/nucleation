@@ -30,7 +30,6 @@ summary: >-
   cooperation between groups does not need conflicting interests, and harm
   to the out-group does.
 ---
-<!-- inactive-ok-file: CLAIM-547 — new; the claim this account bears on -->
 
 # THEORY-1352: In Van Lange and Bergmann's model, human cooperation is readily sustained between individuals, above all in dyads, through precise reciprocity, empathy and a partner who cannot be excluded at no cost, and is fragile between groups: categorization alone yields mistrust and in-group favouritism by bounded reciprocity, observed out-group favouritism hardens it into distrust, and only negative interdependence, real or perceived, turns that into costly competition, aggression and hate, so that the processes that build in-group cooperation can fuel intergroup conflict
 

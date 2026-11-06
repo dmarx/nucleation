@@ -182,7 +182,7 @@ self-constituting.
 
 ## Note of 2026-11-01: a candidate short of removal, and the boundary again
 
-<!-- inactive-ok-file: THEORY-1292 CLAIM-530 — Proposed; the reading and claim filed from the mechanism literature, cited as open -->
+<!-- inactive-ok-file: THEORY-1292 — Proposed; the reading and claim filed from the mechanism literature, cited as open -->
 
 - **A candidate answer from biology, with a condition.** Bechtel and
   Abrahamsen ([LIT-1936](../literature.d/LIT-1936.md), p. 328) report an open question: are

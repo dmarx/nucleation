@@ -94,4 +94,4 @@ the APS makes those free it should be Unfetched.
 
 ## Note of 2026-11-06: what holds it back
 
-The record has read no account of wu-wei: Slingerland (LIT-1994) and Bruya (LIT-910) are Unavailable, so the sinological test its defeater names has not been run. Its formal instance, Ott, Grebogi and Yorke's method, is known here only second-hand (LIT-1997, LIT-1972, Unavailable). A reading of either would let the ruling be made.
+The record has read no account of wu-wei: Slingerland ([LIT-1994](../literature.d/LIT-1994.md)) and Bruya ([LIT-910](../literature.d/LIT-910.md)) are Unavailable, so the sinological test its defeater names has not been run. Its formal instance, Ott, Grebogi and Yorke's method, is known here only second-hand ([LIT-1997](../literature.d/LIT-1997.md), [LIT-1972](../literature.d/LIT-1972.md), Unavailable). A reading of either would let the ruling be made.

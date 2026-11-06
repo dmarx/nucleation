@@ -30,7 +30,7 @@ summary: >-
   contribution, at weaker standing. Nor does it say that anchoring makes a
   model right.
 ---
-<!-- inactive-ok-file: CLAIM-519 CLAIM-515 — Proposed; the record's world-model claim and its four-question principle, cited as the claims this reading bears on -->
+<!-- inactive-ok-file: CLAIM-519 — Proposed; the record's world-model claim and its four-question principle, cited as the claims this reading bears on -->
 
 # THEORY-1290: A dynamical model whose variables are properties of parts and operations already identified by experiment explores the dynamics of that mechanism, while one that posits its parts de novo and is checked only by fit to behaviour shows at most how a mechanism of that kind could produce the behaviour; fit can rule such models out but usually cannot decide between competing architectures that each fit, and what decides is independent evidence about the parts
 

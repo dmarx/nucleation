@@ -34,7 +34,7 @@ summary: >-
   (2018), [THEORY-1468](THEORY-1468.md), and tested against Schröder et al. (2005),
   [THEORY-1485](THEORY-1485.md).
 ---
-<!-- inactive-ok-file: THEORY-1468 THEORY-1485 CLAIM-604 CLAIM-600 — Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
+<!-- inactive-ok-file: THEORY-1468 THEORY-1485 CLAIM-600 — Proposed or new; cited from the reading of Suding, Gross & Houseman (2004) as open -->
 
 # THEORY-1510: On Suding, Gross and Houseman, where degradation has built biotic–abiotic feedbacks that hold the degraded state, such as invader-driven fire and nitrogen cycles, herbivory on regenerating plants, lost seed sources or bare soil that sheds rain, restoring the historical disturbance regime or abiotic conditions does not return the community; restoration must first disrupt those feedbacks or move the state directly, often by several actions together, before restored conditions suffice
 

@@ -95,7 +95,6 @@ the model on demand, simulate with it, or update it when wrong.
 
 ## Note of 2026-11-01: which "realization" interventions can show
 
-<!-- inactive-ok-block: CLAIM-528 CLAIM-515 — Proposed; cited as context -->
 The claim calls a representational world model "one possible
 realization" of world-modeling capabilities. It also says behaviour can
 determine environmental structure "without identifying any internal

@@ -69,7 +69,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-595 CLAIM-600 — Proposed; claims this one complements, cited as open -->
+<!-- inactive-ok-file: CLAIM-600 — Proposed; claims this one complements, cited as open -->
 
 # CLAIM-601: A savings buffer is a stock of time: where shocks must be absorbed or a household is ruined, an investment that pays only after a delay is worth taking only above a buffer that rises with the delay, so households with the same preferences decline profitable delayed investments below it, a choice that reads as impatience and is the right policy for survival by a deadline; covering needs through the delay buys the time
 

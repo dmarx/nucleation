@@ -23,7 +23,7 @@ summary: >-
   has, and how relief is judged through it.
 ---
 
-<!-- inactive-ok-file: CLAIM-361 THEORY-232 — Proposed; open claims and a reading that pose the question, cited as open -->
+<!-- inactive-ok-file: THEORY-232 — Proposed; open claims and a reading that pose the question, cited as open -->
 
 # QUESTION-123: How should an organization's demands be tracked across differentiation, branching, merging and changes of organizational identity, when no one-to-one correspondence between earlier and later demands exists?
 

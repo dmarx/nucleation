@@ -32,7 +32,7 @@ summary: >-
   themselves. It does not say how far a variable set must be expanded,
   and it takes parthood as given.
 ---
-<!-- inactive-ok-file: CLAIM-477 CLAIM-515 CLAIM-528 — Open or Proposed; cited as open -->
+<!-- inactive-ok-file: CLAIM-477 — Open or Proposed; cited as open -->
 
 # THEORY-1294: Constitution is best inferred, and only abductively, from the failure to break a coupling: a set of parts constitutes a phenomenon when every cause of the phenomenon is also a cause of some member of the set, no smaller set does as much, and no expansion of the variables studied turns up a cause of the phenomenon that spares them all, so constitutive relevance is fixed by the set a part belongs to and no finite series of experiments settles it
 
@@ -116,8 +116,8 @@ across expansions the relation holds throughout or not at all.
 ## Note of 2026-11-06: what holds it back
 
 Kept Proposed by the twenty-fifth status review. Both sources are read
-in full (NOTE-1490, NOTE-1493), but the title asserts No De-Coupling as
+in full ([NOTE-1490](../notes.d/NOTE-1490.md), [NOTE-1493](../notes.d/NOTE-1493.md)), but the title asserts No De-Coupling as
 how constitution is inferred, and the record holds no reconstruction of
 a constitutive inference from practice and no test of the condition on a
 system whose causes can be enumerated; the authors supply neither (pp.
-17, 19). CLAIM-528 now cites it as corroboration, not as a ground.
+17, 19). [CLAIM-528](../claims.d/CLAIM-528.md) now cites it as corroboration, not as a ground.

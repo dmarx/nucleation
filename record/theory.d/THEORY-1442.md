@@ -25,7 +25,6 @@ summary: >-
   that the final object or its yield is unchanged, that a fixed stock was
   reallocated, or that the mechanism is established.
 ---
-<!-- inactive-ok-file: THEORY-1398 — Proposed, Unavailable, Skimmed or new; cited from the reading of Lee Tin Wah et al. (2016) as open -->
 
 # THEORY-1442: Lee Tin Wah and colleagues show, from AFM snapshots of Rothemund's tall rectangle adsorbed out of solution along a slow cooling ramp, that with 52 nM of each staple folding nucleates at the top and bottom ends between about 65 and 55 °C and grows toward the centre, and that raising the central staples to 670 nM while lowering the outermost edge-row staples to 1.2 nM makes folding nucleate at the centre instead, which they attribute to the concentration dependence of staple melting temperatures under thermodynamic rather than kinetic control
 

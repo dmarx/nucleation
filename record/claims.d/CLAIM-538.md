@@ -50,8 +50,6 @@ summary: >-
   Checked by linear programming against brute-force cycle enumeration on
   random graphs.
 ---
-<!-- inactive-ok-file: CLAIM-534 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
-<!-- inactive-ok-file: CLAIM-361 — Proposed, Open, Deferred or new; cited as open -->
 <!-- inactive-ok-file: NOTE-1588 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 <!-- inactive-ok-file: CLAIM-588 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 

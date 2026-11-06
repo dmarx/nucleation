@@ -30,8 +30,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the record's claim on scale separation, cited as the held time-scale form -->
 <!-- inactive-ok-file: QUESTION-287 — Answered; cited as the part of the question the record has settled -->
-<!-- inactive-ok-file: THEORY-1399 THEORY-1418 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CASE-207 CLAIM-586 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: THEORY-1399 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-207 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # QUESTION-391: When does an effective constraint cease to be a good approximation because previously suppressed degrees of freedom become dynamically important?
 

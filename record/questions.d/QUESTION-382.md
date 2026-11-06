@@ -30,7 +30,7 @@ summary: >-
   or when interface equivalence fails under cost or maintenance. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-202 CLAIM-566 TERM-088 TERM-111 TERM-116 — Proposed; A's proposals of 2026-11-04 and 2026-11-05 and the entries filed beside them, and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-202 TERM-088 TERM-111 TERM-116 — Proposed; A's proposals of 2026-11-04 and 2026-11-05 and the entries filed beside them, and the record's open term for the senses of individuation, cited as filed, nothing here resting on their being settled -->
 
 # QUESTION-382: At what interface, and under which interactions, is a system individuated as one component rather than another, when black-boxing erases internal distinctions that composition preserves and creates relations the parts lacked, and when does equivalence at an interface fail once implementation cost, maintenance or internal control is counted?
 

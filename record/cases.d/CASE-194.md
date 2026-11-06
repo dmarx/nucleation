@@ -32,7 +32,7 @@ summary: >-
   The wording is A's, sharpened by the reader; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: ARG-025 CLAIM-427 CLAIM-523 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: ARG-025 CLAIM-427 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: NOTE-1596 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 <!-- inactive-ok-file: CLAIM-575 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 

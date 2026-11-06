@@ -31,7 +31,6 @@ summary: >-
   notion of compatibility is declared. The wording is A's, sharpened by the
   reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-534 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-196: Three species whose every pair coexists identically for every strength b of a three-way term that vanishes on pairs: above b = 0.96 a missing species cannot invade a resident pair, above b = 1.76 the triple cannot persist from any start, and between them it persists from some starts and not others, so whether the triangle of the compatibility complex is filled depends on whether compatibility is declared as robust permanence or as a stable positive equilibrium
 

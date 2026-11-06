@@ -81,7 +81,7 @@ or interrupting the controller (B loses it, A does not). [CASE-161](../cases.d/C
 
 ## Note of 2026-11-01: constitutive relevance needs the boundary too
 
-<!-- inactive-ok-file: CLAIM-530 THEORY-1292 LIT-1931 LIT-1930 — Proposed, Unfetched or Unavailable; the claim and readings filed from the mechanism literature, cited as open -->
+<!-- inactive-ok-file: THEORY-1292 LIT-1931 LIT-1930 — Proposed, Unfetched or Unavailable; the claim and readings filed from the mechanism literature, cited as open -->
 
 Read beside Craver and Bechtel ([LIT-1928](../literature.d/LIT-1928.md), [NOTE-1491](../notes.d/NOTE-1491.md)) and Bechtel
 and Abrahamsen ([LIT-1936](../literature.d/LIT-1936.md), [NOTE-1492](../notes.d/NOTE-1492.md)). Craver's own statements of

@@ -141,6 +141,6 @@ which [NOTE-633](../notes.d/NOTE-633.md) did not follow. That step is the promot
 Kept Proposed by the twenty-fifth status review. The one step of Theorem
 1 the record has not checked, bounding the prompt likelihood summed over
 hidden delimiter states by per-example factors and Assumption 2's c₁–c₄
-ratios (LIT-797, Appendix B), is still neither read nor re-derived;
-NOTE-633 did not follow the appendices. CLAIM-543 now cites it as
+ratios ([LIT-797](../literature.d/LIT-797.md), Appendix B), is still neither read nor re-derived;
+[NOTE-633](../notes.d/NOTE-633.md) did not follow the appendices. [CLAIM-543](../claims.d/CLAIM-543.md) now cites it as
 corroboration, not as a ground.

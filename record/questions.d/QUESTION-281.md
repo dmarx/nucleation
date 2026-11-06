@@ -226,7 +226,7 @@ direct, and in these readings it is not.
 The question is unchanged and stays Open.
 
 ## Note of 2026-11-01: stabilization and entrenchment kept apart, from evolutionary transitions
-<!-- inactive-ok-block: LIT-188 CLAIM-531 — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 — Proposed, filed 2026-11-01; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §2; [NOTE-173](../notes.d/NOTE-173.md), re-read 2026-11-01) separate
 two of this question's three achievements for social groups, without a

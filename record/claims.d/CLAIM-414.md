@@ -186,7 +186,7 @@ independence theorem. The claim is unchanged.
 
 ## Note of 2026-11-01: the separating intervention in the mechanism literature
 
-<!-- inactive-ok-file: CLAIM-530 THEORY-1292 CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
+<!-- inactive-ok-file: THEORY-1292 CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
 <!-- inactive-ok-file: CASE-203 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
 <!-- inactive-ok-file: NOTE-1596 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 

@@ -52,9 +52,7 @@ summary: >-
   formulas and checks are the assistant's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-220 — Proposed; A's committor study, cited from the note on A's second synthesis -->
-<!-- inactive-ok-file: CLAIM-574 — Proposed or Skimmed; cited from the further DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CLAIM-594 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
-<!-- inactive-ok-file: CLAIM-574 CLAIM-581 CLAIM-557 CASE-199 CASE-206 — Proposed; entries of this pull request, cited as open -->
+<!-- inactive-ok-file: CLAIM-557 CASE-206 — Proposed; entries of this pull request, cited as open -->
 
 # CLAIM-570: With observational indistinguishability refining as the observing budget grows and peak-cost mutual reachability coarsening as the acting budget grows, the budget pairs at which everything indistinguishable is mutually reachable form an up-set and those at which everything mutually reachable is indistinguishable form a down-set, with boundaries given by the largest peak distance within an observational class and the least observing budget that separates two mutually reachable states
 

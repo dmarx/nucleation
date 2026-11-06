@@ -179,4 +179,4 @@ this claim only.
 
 ## Note of 2026-11-06: what holds it back
 
-Its premise CLAIM-354, the dimensions of freedom of will, is Proposed, and the claim waits on its promotion; that is now the only thing holding it back. Kane's 1996 book (LIT-1985) is still unread, but his 2009 reply, read in NOTE-1518, concedes the claim's point about control, so the book no longer holds it back.
+Its premise [CLAIM-354](CLAIM-354.md), the dimensions of freedom of will, is Proposed, and the claim waits on its promotion; that is now the only thing holding it back. Kane's 1996 book ([LIT-1985](../literature.d/LIT-1985.md)) is still unread, but his 2009 reply, read in [NOTE-1518](../notes.d/NOTE-1518.md), concedes the claim's point about control, so the book no longer holds it back.

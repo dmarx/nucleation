@@ -8,8 +8,8 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1404, moved here when the
-  twenty-fifth status review promoted it under ADR-065: THEORY-1404
+  The promotion condition formerly on [THEORY-1404](../theory.d/THEORY-1404.md), moved here when the
+  twenty-fifth status review promoted it under [ADR-065](../decisions.d/ADR-065.md): [THEORY-1404](../theory.d/THEORY-1404.md)
   reports what one scoping review found, and whether another review
   finds the same gaps is this question.
 ---
@@ -18,7 +18,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1404 holds what Oskar and colleagues found in one scoping review of
+[THEORY-1404](../theory.d/THEORY-1404.md) holds what Oskar and colleagues found in one scoping review of
 37 studies, with descriptive counts and no quality appraisal. An
 independent review, or a later one citing it, that reports the same gaps
 would show the map does not depend on this review's search and inclusion

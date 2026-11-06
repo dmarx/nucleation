@@ -37,7 +37,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named for the bearing reported, not edited -->
-<!-- inactive-ok-file: NOTE-1585 CLAIM-571 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: NOTE-1585 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # NOTE-601: Seven Sketches in Compositionality
 

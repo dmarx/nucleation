@@ -95,9 +95,9 @@ Craver, Glennan and Povich's abstract presupposes in defining
 constitutive relevance as being "parts of the mechanism responsible for
 that phenomenon" ([LIT-1931](../literature.d/LIT-1931.md)). The texts that state it were not
 reached. The record cites the
-criterion as Baumgartner and Gebharter state it (LIT-1934, p. 8, read
-in full in NOTE-1493), in the same three conditions, parthood among
-them. Craver's own texts (LIT-832, LIT-1930, LIT-1931) stay unread and
+criterion as Baumgartner and Gebharter state it ([LIT-1934](../literature.d/LIT-1934.md), p. 8, read
+in full in [NOTE-1493](../notes.d/NOTE-1493.md)), in the same three conditions, parthood among
+them. Craver's own texts ([LIT-832](../literature.d/LIT-832.md), [LIT-1930](../literature.d/LIT-1930.md), [LIT-1931](../literature.d/LIT-1931.md)) stay unread and
 take no edge.
 
 **The pair.** This is [CLAIM-522](CLAIM-522.md)'s.

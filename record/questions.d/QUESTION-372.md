@@ -26,7 +26,7 @@ summary: >-
   [CLAIM-537](../claims.d/CLAIM-537.md) and [CASE-153](../cases.d/CASE-153.md) already hold. Whether the slash names one property
   at two scales is the owner's to say.
 ---
-<!-- inactive-ok-file: CASE-195 CLAIM-446 CLAIM-534 CLAIM-549 CLAIM-550 LIT-1830 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-195 CLAIM-446 LIT-1830 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # QUESTION-372: Does a perspective's motivational threshold induce its tolerances, do those tolerances induce the organization's motivational compatibility, and does that compatibility, kept across changing contexts, give psychological flexibility or organizational effectiveness; and are those last two one property named at two scales, or two properties?
 

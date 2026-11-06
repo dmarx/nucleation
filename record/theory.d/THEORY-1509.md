@@ -34,7 +34,7 @@ summary: >-
   nothing of NLS, of gain or supply, or of strong loss. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-2210 CLAIM-600 CLAIM-604 — Unavailable or Proposed; cited from the reading of Grimshaw, Smyth & Stepanyants (2018) as open -->
+<!-- inactive-ok-file: LIT-2210 CLAIM-600 — Unavailable or Proposed; cited from the reading of Grimshaw, Smyth & Stepanyants (2018) as open -->
 
 # THEORY-1509: A soliton of an integrable wave equation under weak loss does not break up but shrinks along its family of shapes at a rate set by energy balance, exponentially under linear damping and algebraically under viscous, Landau, boundary-layer and friction losses, while a shelf of non-soliton wave forms behind it wherever the loss does not conserve mass
 

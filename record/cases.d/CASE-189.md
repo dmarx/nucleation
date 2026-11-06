@@ -169,7 +169,6 @@ the second. The third is a matter of the experiment's design.
 
 ## Note of 2026-11-01: how-possibly models, and what the knockouts show
 
-<!-- inactive-ok-file: CLAIM-530 — Proposed; the claim filed from this reading, cited as open -->
 
 - **How-possibly.** In Bechtel and Abrahamsen's terms ([LIT-1936](../literature.d/LIT-1936.md),
   [THEORY-1290](../theory.d/THEORY-1290.md)) both constructions are de novo dynamical models. Their

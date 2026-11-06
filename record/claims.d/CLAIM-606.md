@@ -68,7 +68,7 @@ summary: >-
   and by whether an outflow is measured. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-597 CLAIM-600 CLAIM-604 CLAIM-157 TERM-088 NOTE-1698 NOTE-1694 — Proposed or Skimmed; claims, a term and readings this one rests on or extends, cited as open -->
+<!-- inactive-ok-file: CLAIM-600 CLAIM-157 TERM-088 NOTE-1698 NOTE-1694 — Proposed or Skimmed; claims, a term and readings this one rests on or extends, cited as open -->
 
 # CLAIM-606: A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
 
@@ -124,10 +124,10 @@ summary: >-
 ## Note of 2026-11-06: what holds it back
 
 Its three routes are the findings of seven Proposed readings, none yet
-promoted, and it uses TERM-088, not adopted; two of its supports are by
+promoted, and it uses [TERM-088](../terms.d/TERM-088.md), not adopted; two of its supports are by
 its own account thin (no reverse sweep in Herr et al., a reader's
 derivation for the integrable formation threshold).
 
-## Note of 2026-11-06: the Kerr case and CLAIM-604's scoped clause
+## Note of 2026-11-06: the Kerr case and [CLAIM-604](CLAIM-604.md)'s scoped clause
 
-The twenty-fifth status review promoted CLAIM-604 with its "lacks" clause scoped to repair supplied at a rate set by the supply alone, whatever the structure's state. Read that way, the Kerr soliton is not a counterexample to it: the pump does not depend on the soliton, but the soliton's uptake of it does, since its gain is parametric and drawn through its own field (NOTE-1692). That is CLAIM-604's first case, state-dependent uptake from a fixed flux. So the qualification above rests on the oscillon, which shows a formation window and an abrupt end with no supply at all, and on the Kerr case only as an instance of thresholds and path dependence arising under a supply the structure does not control. The point that the signatures do not by themselves identify self-maintenance stands on the oscillon. No status changes.
+The twenty-fifth status review promoted [CLAIM-604](CLAIM-604.md) with its "lacks" clause scoped to repair supplied at a rate set by the supply alone, whatever the structure's state. Read that way, the Kerr soliton is not a counterexample to it: the pump does not depend on the soliton, but the soliton's uptake of it does, since its gain is parametric and drawn through its own field ([NOTE-1692](../notes.d/NOTE-1692.md)). That is [CLAIM-604](CLAIM-604.md)'s first case, state-dependent uptake from a fixed flux. So the qualification above rests on the oscillon, which shows a formation window and an abrupt end with no supply at all, and on the Kerr case only as an instance of thresholds and path dependence arising under a supply the structure does not control. The point that the signatures do not by themselves identify self-maintenance stands on the oscillon. No status changes.
