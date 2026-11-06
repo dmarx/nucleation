@@ -1,17 +1,21 @@
 ---
-status: Unavailable
+status: Unfetched
 status_note: >-
-  registered 2026-11-06, not read. A lawful full text was sought on
-  2026-11-06 and not reached: OpenAlex gives it as closed; Semantic Scholar
-  lists a free copy at link.aps.org, but journals.aps.org answered the
-  abstract page with a Cloudflare challenge (HTTP 403), so the APS PDF link
-  was not tried and the host was not retried. Zabusky & Porter (2010),
-  [LIT-tmpun6ep](LIT-tmpun6ep.md), a later account by its first author, stands in for the
+  registered 2026-11-06, not read. Searched 2026-11-06 for a lawful full
+  text; one exists but this client could not fetch it, so it is not read
+  (ADR-053). OpenAlex gives it as closed, but Semantic Scholar lists a free
+  (bronze) copy at link.aps.org, whose address for it Crossref gives as
+  link.aps.org/article/10.1103/PhysRevLett.15.240
+  (doi:10.1103/PhysRevLett.15.240). On 2026-11-06 journals.aps.org answered
+  the abstract page with a Cloudflare challenge (HTTP 403), so the APS PDF
+  link was not tried and the host was not retried. Zabusky & Porter (2010),
+  LIT-tmpun6ep, a later account by its first author, stands in for the
   naming, the numerical origin and the elastic collision, but for none of
-  the 1965 paper's numbers. It stays Unavailable until a copy is supplied.
-  What the summary says of its contents is unverified until read.
+  the 1965 paper's numbers. A browser fetch of the APS copy is the cheapest
+  way to read it. It stays Unfetched until a copy is supplied. What the
+  summary says of its contents is unverified until read.
 title: 'Interaction of "Solitons" in a Collisionless Plasma and the Recurrence of Initial States'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-06'
@@ -24,6 +28,16 @@ history:
     M. D. Kruskal, Physical Review Letters 15(6), 240–243, published
     1965-08-09, which is `published:`. Correction: the citation first
     proposed lacked the issue and the end page.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Reclassified Unavailable → Unfetched under ADR-053: a lawful free copy
+    was located at link.aps.org (Semantic Scholar's bronze copy; Crossref
+    gives link.aps.org/article/10.1103/PhysRevLett.15.240) and the fetch was
+    blocked by a Cloudflare challenge (HTTP 403) from journals.aps.org,
+    after which the PDF link was not tried, on 2026-11-06. The lead's reader
+    briefs of 2026-11-06 had wrongly excluded such copies, or had filed
+    located-but-blocked copies as Unavailable.
 tags:
 - natural-sciences
 - mathematics

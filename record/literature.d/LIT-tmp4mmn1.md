@@ -1,16 +1,20 @@
 ---
-status: Unavailable
+status: Unfetched
 status_note: >-
-  registered 2026-11-06, not read. A lawful full text was sought on
-  2026-11-06 and not reached: OpenAlex and Semantic Scholar list a free
-  publisher PDF at academic.oup.com, which answered with a Cloudflare
-  challenge (HTTP 403) and was not retried. Cui & Wang (2023),
-  [LIT-tmphp42y](LIT-tmphp42y.md), quote its eigenvalue formula for an A sech x initial
-  pulse exactly, and stand in for that formula only. It stays Unavailable
-  until a copy is supplied. What the summary says of its contents is
-  unverified until read.
+  registered 2026-11-06, not read. Searched 2026-11-06 for a lawful full
+  text; one exists but this client could not fetch it, so it is not read
+  (ADR-053). OpenAlex and Semantic Scholar list a free (bronze) publisher
+  PDF at academic.oup.com; Crossref gives the PDF's address as
+  academic.oup.com/ptps/article-pdf/doi/10.1143/PTPS.55.284/5392745/55-284.pdf
+  (doi:10.1143/PTPS.55.284). On 2026-11-06 academic.oup.com answered with a
+  Cloudflare challenge (HTTP 403), and it was not retried. Cui & Wang
+  (2023), LIT-tmphp42y, quote its eigenvalue formula for an A sech x initial
+  pulse exactly, and stand in for that formula only. A browser fetch of the
+  OUP copy is the cheapest way to read it. It stays Unfetched until a copy
+  is supplied. What the summary says of its contents is unverified until
+  read.
 title: 'B. Initial Value Problems of One-Dimensional Self-Modulation of Nonlinear Waves in Dispersive Media'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-06'
@@ -24,6 +28,16 @@ history:
     284–306. Crossref gives the year only, 1974, so `published:` is
     1974-01-01 (ADR-002). The title begins "B." as Crossref gives it, the
     paper being part B of a supplement.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Reclassified Unavailable → Unfetched under ADR-053: a lawful free copy
+    was located at academic.oup.com, the publisher's bronze PDF (Crossref
+    gives
+    academic.oup.com/ptps/article-pdf/doi/10.1143/PTPS.55.284/5392745/55-284.pdf),
+    and the fetch was blocked by a Cloudflare challenge (HTTP 403) on
+    2026-11-06. The lead's reader briefs of 2026-11-06 had wrongly excluded
+    such copies, or had filed located-but-blocked copies as Unavailable.
 tags:
 - mathematics
 - natural-sciences
