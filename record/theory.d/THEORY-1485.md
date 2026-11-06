@@ -30,7 +30,6 @@ summary: >-
   read here as the evidence bar for [THEORY-136](THEORY-136.md) and as a stand-in for the
   evidence behind Suding, Gross & Houseman (2004), [LIT-2169](../literature.d/LIT-2169.md).
 ---
-<!-- inactive-ok-file: LIT-2169 — Unavailable; cited from the reading of Schröder, Persson & De Roos (2005) as open -->
 
 # THEORY-1485: On Schröder, Persson and De Roos, of 35 manipulation experiments testing for alternative stable states, 21 were conclusive over at least one turnover of the longest-lived organisms, 13 of them showing bistability and 8 its absence; positives came mostly from laboratory rather than field systems, and only 3 of 15 tests of non-recovery after a pressure was removed were positive
 
