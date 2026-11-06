@@ -1,0 +1,237 @@
+---
+status: Read
+paper: 'LIT-tmppaj4l'
+title: 'Bleakley and Lin — Portage and path dependence, read from the Philadelphia Fed working paper'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read on 2026-11-05 from Federal Reserve Bank of Philadelphia Working
+    Paper 11-38, September 6, 2011
+    (https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2011/wp11-38.pdf),
+    a lawful open copy in the second author's institution's series ("This
+    paper is available free of charge"), which supersedes WP 10-27 and
+    thanks the editors and referees, so the post-referee text but not the
+    typeset QJE version of record. Also read: NBER Working Paper 16314,
+    August 2010
+    (https://www.nber.org/system/files/working_papers/w16314/w16314.pdf),
+    §§1–7 and Tables 3–5, the earlier version carrying the Civil War,
+    placebo and alternative-clustering results. Text extracted by
+    pdftotext. Read in WP 11-38: §§1–9 (pp. 1–33), the notes to Figures 7–8
+    and Table 6's heading. Not read in detail: either reference list or the
+    appendices. Page numbers below are WP 11-38's unless marked w16314.
+date: '2026-11-05'
+summary: >-
+  US portage sites, whose transport advantage ended with canals and
+  railroads by about 1900, remain 60–100% denser than comparable sites in
+  the same watersheds, more so than in 1850, with no effect at the smallest
+  watersheds and little through water power. Conditional on density they
+  carry no oversupplied or cheap sunk capital and grow like comparably
+  dense places from about 1930. The authors read path dependence under
+  strong increasing returns, portage a coordination device selecting an
+  equilibrium; they say it is not direct evidence of multiple equilibria.
+---
+<!-- inactive-ok-file: THEORY-885 THEORY-1461 THEORY-919 CLAIM-184 CLAIM-445 THEORY-1468 CLAIM-600 CLAIM-604 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-558 CLAIM-601 THEORY-tmplod57 — Proposed, Skimmed or new; cited from the reading of Bleakley and Lin (2012) as open -->
+
+# NOTE-tmpslfbd: Bleakley and Lin — Portage and path dependence, read from the Philadelphia Fed working paper
+
+## Contribution
+
+A test of lock-in against slow reversion after a founding cause has gone,
+with the cause's end dated and documented, a horizon of a century or more,
+and comparison sites in the same watersheds that differ from portages
+chiefly in the obsolete advantage. The test has three legs: persistence
+does not decay; portages show none of the oversupplied, cheap sunk capital
+a declining place should show; and conditional on density they grow like
+comparable places, so they are not drifting back toward their neighbours.
+
+## Key insight
+
+A historical advantage can select an equilibrium without having to keep
+sustaining it: "portage is acting as a coordination device that selects
+which equilibrium is selected in the later period" (§8.2, p. 26). Whether
+persistence is lock-in or a slow echo can be read from prices and
+quantities: on the reversion path "the sticky factors that prevent
+quicker adjustment to equilibrium will tend to be oversupplied (relative
+to comparable areas) and underpriced in the sites that lost their natural
+advantages" (p. 25). Their absence counts against reversion.
+
+## Assumptions
+
+- **Comparison.** Sites in the same watershed and along the fall line
+  differ from portages only in the obsolete advantage, after controls for
+  climate, aquifers, elevation, distance to ocean and rivers, state fixed
+  effects and a spatial polynomial.
+- **Every fall-line crossing a portage**, verified or not, to avoid
+  selecting on survival (w16314, footnote 14); one column uses verified
+  falls only.
+- **Lagged density is not causal.** "The motivating assumption is simply
+  that, following portage obsolescence, the expected value of natural
+  advantages drops more at portages than at areas with similar density
+  historically" (footnote 21).
+- **Model.** Static and comparative, with dynamics following Krugman
+  (1991) and adjustment frictions such as moving costs (w16314 §6.4).
+
+## Key results
+
+- **The advantage ended (§3.2, pp. 9–10).** "At the peak in 1880, the
+  average fall-line county contained 13.1% of" its river's water-transport
+  employment; "By 1930, that figure had dropped to 2.6%". The gap against
+  other river counties fell from 1.2% in 1850 to 0.3% in 1930.
+- **Persistence today (§5, p. 16).** "Being 10% farther away from a
+  portage site predicts 6% lower population density in the tract data,
+  and 2% lower density in the lights and county data. The dummy variable
+  for proximity predicts 60% to 100% increases in density". County
+  baseline 0.912 (s.e. 0.236); 0.839 (0.272) dropping watersheds whose
+  portages are present-day capitals (§8.3, p. 29).
+- **Dose-response (§5, p. 17).** "A 10% larger upstream watershed is
+  associated with approximately a 4% higher density at the portage site";
+  at the smallest watershed the effect is "90% lower, and insignificantly
+  different from zero", since "there should be no benefit of being at the
+  head of navigation when there is no upstream commerce to coordinate".
+- **Not water power (p. 18).** "the vast majority of the portage effects
+  seem to be working through something other than water power".
+- **No decay (§7, pp. 19–20).** "The elasticity between population density
+  and portage proximity is much greater today than in 1850 or earlier";
+  "we estimate a difference of 0.456 (with a cluster-robust standard error
+  of 0.092) between the late-20th- and 19th-century effect", with the same
+  pattern at the Great Lakes–Mississippi portages and Mississippi
+  tributaries (Figure 7).
+- **Against comparably dense places (§7, p. 21; Figure 8).** "the portage
+  coefficient is essentially unchanged when controlling for densities in
+  1850–1890", then "declines continuously as we condition on more recent
+  measures of density ... and the estimate is statistically insignificant
+  starting in 1930", and "goes asymptotically to zero". In w16314 (Table
+  3): 1.593 at baseline, 1.029 on 1850 density, 0.503 on 1900, 0.149 (n.s.)
+  on 1950. "these sites reached their equilibrium (relative) density in
+  the early 20th century after the obsolescence of portage" (p. 4).
+- **No reversion signature (§8.3, pp. 28–30).** "fewer than 15% of houses
+  in portage counties were more than 50 years old, compared to 20% of
+  houses in other counties"; price-to-rent ratios similar; conditional on
+  density no differences in housing, roads, railroads, interstates,
+  commuting, crime, in-state birth, water use or government. "the evidence
+  is currently inconsistent with the view that population persists at
+  portages because of large, historical sunk costs incurred for particular
+  types of capital."
+- **Historical factors (§8.1, pp. 22–24).** Railroads and literacy in 1850
+  and diversity in 1880 are higher at portages, but the differences
+  "evaporate" or attenuate once 1850 density is controlled; literate white
+  men in 1850 cut the coefficient by "10% to 25%".
+- **The mechanism, modelled (§8.2, p. 26).** With increasing returns
+  exceeding congestion over a range, "indirect utility may increase with
+  density", giving two locally stable equilibria; or "overlapping
+  investments in durable, sunk factors". Footnote 28: "our results do not
+  constitute direct evidence of multiple equilibria", and the historical
+  equilibrium at a portage was "likely to be unique".
+- **Conditions for lock-in (§9, p. 33).** "path dependence can emerge if
+  (i) historical advantages coordinate activity to a particular location
+  and (ii) returns to scale rise enough to sustain density there." In
+  w16314: "both historical density and strong increasing returns are
+  required ... Without the historical density, it might have been
+  impossible for factors to coordinate on that location, because the
+  low-population equilibrium is locally stable."
+- **Adaptation (§8.4, pp. 30–31).** Portages with more literacy and college
+  teachers and more industrial diversity in 1850 grew more after
+  obsolescence. "not every historical agglomeration has persisted after
+  losing its initial reason for being" (p. 33).
+- **On Japan (§8.5, pp. 31–32).** Japan's "rugged topography" means natural
+  heterogeneity "perhaps enough to preclude the possibility that there
+  exist multiple spatial equilibria"; w16314 adds "it could require fairly
+  substantial damage to get knocked down to the low-density equilibrium".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Portage sites remain much denser than comparable sites long after the advantage ended | strong within the design | §5, Table 2 ff. |
+| C2 | The portage effect has grown relative to 1850 | moderate: part may be late adjustment to the old advantage | §7, Figure 7 |
+| C3 | Conditional on density, portages carry no oversupplied or cheap sunk capital | moderate: a broad but finite set of assets | §8.3 |
+| C4 | Persistence is path dependence under strong increasing returns, portage a coordination device | weak to moderate: inferred, not direct evidence (footnote 28) | §§8.2, 9 |
+
+## Concepts
+
+- **First-nature advantage made obsolete.** The cause withdrawn by
+  technology, not policy.
+- **Coordination device.** A historical advantage that selects among
+  equilibria without sustaining the one selected.
+- **Strong increasing returns.** Utility rising with density over a range,
+  a hump-shaped V(X) with a locally stable low equilibrium.
+- **Reversion signature.** Sticky factors oversupplied and underpriced
+  where an advantage has been lost.
+- **Heterogeneity suppresses multiplicity.** Large natural differences
+  between sites leave a unique equilibrium.
+
+## Connections
+
+The empirical geography counterpart of Arthur ([LIT-1314](../literature.d/LIT-1314.md), [NOTE-1052](NOTE-1052.md),
+[THEORY-863](../theory.d/THEORY-863.md)), whom the authors cite, and of Pierson's increasing returns in
+politics ([LIT-1372](../literature.d/LIT-1372.md), [THEORY-885](../theory.d/THEORY-885.md)). Against Kline and Moretti ([LIT-2141](../literature.d/LIT-2141.md),
+[NOTE-1646](NOTE-1646.md), [THEORY-1461](../theory.d/THEORY-1461.md)) it is the contrasting case: the same kind of
+agglomeration, but with tests for decay and for oversupplied sunk capital
+that come out the other way. Davis and Weinstein ([LIT-tmpntaj3](../literature.d/LIT-tmpntaj3.md),
+[LIT-tmpgvz2v](../literature.d/LIT-tmpgvz2v.md)) are the reversion counter-case the authors explain by
+terrain. Juhász's temporary protection ([LIT-1489](../literature.d/LIT-1489.md), [THEORY-919](../theory.d/THEORY-919.md)) is another
+persistence after a transient cause; [CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench) and
+[CLAIM-445](../claims.d/CLAIM-445.md) (a protective regime becomes self-maintaining) are related
+claims; the ecological analogue of locally stable alternative states is
+[LIT-726](../literature.d/LIT-726.md) and [THEORY-1468](../theory.d/THEORY-1468.md); institutional imprinting is [LIT-1144](../literature.d/LIT-1144.md) and
+[NOTE-1373](NOTE-1373.md).
+
+## Bearing on the record
+
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (when support is safe to withdraw): supports and qualifies
+  the clause that slow reversion can mimic persistence.** Supports: a case
+  that passes where the TVA did not, with the cause gone, a century of
+  non-decaying persistence, and the reversion signature checked and
+  absent. Qualifies: the test needs a decay trajectory and price and
+  quantity evidence, observational substitutes for the threshold of
+  [CLAIM-604](../claims.d/CLAIM-604.md); the authors stop short of proving a second equilibrium; and
+  size matters, no effect at the smallest watersheds, echoing the claim's
+  "large enough" condition. The unit is places, not the people who founded
+  them, which is the claim's unit-of-account caution.
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (ignition threshold, collapse, hysteresis): consistent in
+  form.** A hump-shaped V(X) with a locally stable low equilibrium is the
+  analogue of a state-dependent uptake with an ignition threshold. No
+  collapse or failure to relight is observed; w16314's "fairly substantial
+  damage" is the collapse condition, asserted, not shown.
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep never becomes optional): a contrast.** The
+  persisting structure is not supplied from outside once the coordinating
+  cause is gone; density is upheld by "overlapping generations of location
+  decisions" (p. 33), independent of what founded it but still dependent
+  on a flux of mobile factors.
+- **[CLAIM-602](../claims.d/CLAIM-602.md): none directly.** §8.4 bears loosely: capacity on hand when
+  the cause ended (literacy, diversity) went with better adaptation.
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention): a
+  place-level natural-experiment answer.** Figure 8 is close to A's D(s):
+  it conditions on the historical state and asks whether the founding
+  advantage still matters; by about 1930 it adds nothing, given the
+  conditions of enough coordinated activity and strong enough returns.
+- [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-558](../claims.d/CLAIM-558.md) and [CLAIM-601](../claims.d/CLAIM-601.md): no bearing.
+- Filed: [THEORY-tmplod57](../theory.d/THEORY-tmplod57.md). No instruction for machine-learning practice.
+
+## Limitations
+
+- **Observational, cross-sectional identification** within watersheds with
+  spatial controls; county fixed effects only in §7's consistent-boundary
+  panel.
+- **Multiple equilibria inferred** (footnote 28); "we cannot rule out that
+  there is some particular sunk factor that is both persistent and
+  important enough to explain the enduring growth at portage sites"
+  (p. 33).
+- **The absence of decay partly reflects the reference year.** In w16314 "portage
+  advantages were still at work in 1850", so part of the rise may be late
+  adjustment to the old advantage.
+- **Survivorship across kinds of site** is set aside: the sample is
+  portages, not all transient advantages (mining ghost towns are the
+  counter-image in w16314).
+- **Places, not people**, and **no support was withdrawn**: the advantage
+  was natural, and the analogy to withdrawing transient support is the
+  record's.
+- **Not the version of record.** QJE tables were not read.
+
+## Open questions
+
+Whether the QJE text keeps the 1850-relative growth and the conditional
+coefficient's fall to zero; and what share of the persistence an
+unmeasured durable sunk factor could carry.

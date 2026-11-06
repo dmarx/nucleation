@@ -6,7 +6,7 @@ status_note: >-
   www.chem.pmf.hr/_download/repository/Foreign_aid_africa.pdf, on a
   University of Zagreb chemistry-faculty server, was located by web search
   on 2026-11-05 and not used, under a reader's brief that excluded copies
-  that were neither an author's nor the publisher's; under ADR-064 a copy on
+  that were neither an author's nor the publisher's; under ADR-074 a copy on
   a faculty server counts as a lawful copy. A reading of it attempted on
   2026-11-06 was refused by this session's permission system, not by the
   host. Nothing was received, so whether it is the work (title, authors,
@@ -82,6 +82,7 @@ summary: >-
   Africa-specific test, with tax revenue, of the thesis [THEORY-1460](../theory.d/THEORY-1460.md) and
   [THEORY-1459](../theory.d/THEORY-1459.md) carry.
 ---
+<!-- inactive-ok-file: ADR-064 — Superseded by ADR-074, which keeps its rule unchanged; cited as the ruling in force when written -->
 <!-- inactive-ok-file: THEORY-1460 THEORY-1459 CLAIM-600 CLAIM-602 — Proposed; cited from the registration of Bräutigam & Knack (2004) as open -->
 
 # LIT-tmpw4aef: Foreign Aid, Institutions, and Governance in Sub-Saharan Africa
