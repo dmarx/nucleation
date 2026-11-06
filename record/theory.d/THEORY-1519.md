@@ -25,7 +25,7 @@ history:
     the added task of evaluating the system's output'. Its
     condition asked for a controlled study of the wider thesis,
     which the paper asserts (sections 1 and 3.5); it moves word for
-    word to THEORY-tmpbs7gs, which extends this entry. The condition
+    word to THEORY-1553, which extends this entry. The condition
     was: 'A controlled study of a generative-AI assistant, over
     tasks graded by difficulty, finds the assistant's benefit in
     time or errors largest on the easy tasks and nil or negative on

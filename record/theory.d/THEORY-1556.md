@@ -1,5 +1,8 @@
 ---
+number: 1556
 status: Proposed
+formerly:
+- THEORY-tmpt1lk6
 promote_when: >-
   An independent screw-system classification confirms the 50
   freedom/constraint space types and the boundary between those parallel
@@ -41,7 +44,7 @@ summary: >-
   classification and a second test exist.
 ---
 
-# THEORY-tmpt1lk6: All freedom–constraint space pairs of a flexure-guided rigid body fall into 50 types, only those whose constraint space holds enough pure-force lines can be realised by parallel flexures while the rest need modules stacked in series, and where linear actuators must act to drive the permitted motions without parasitic error is set by the flexures' stiffness and not by the freedom space alone
+# THEORY-1556: All freedom–constraint space pairs of a flexure-guided rigid body fall into 50 types, only those whose constraint space holds enough pure-force lines can be realised by parallel flexures while the rest need modules stacked in series, and where linear actuators must act to drive the permitted motions without parasitic error is set by the flexures' stiffness and not by the freedom space alone
 
 ## Source
 

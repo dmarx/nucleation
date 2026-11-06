@@ -6,7 +6,7 @@
 
 **Will-organization** — what organizes practical efficacy in an agent, and how that organization becomes precarious.
 
-39 of 431 QUESTION documents. Back to the [full index](../README.md).
+39 of 436 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

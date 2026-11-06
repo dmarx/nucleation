@@ -1,5 +1,8 @@
 ---
+number: 433
 status: Open
+formerly:
+- QUESTION-tmpec8ky
 title: 'Does an independent meta-analysis or large longitudinal study of procedural skill retention over months find a roughly linear decline of about 0.05 to 0.1 standard deviations a month, about half of training gains lost within six to fifteen months, and slower decline when intermittent practice other than an earlier retention test falls in the interval?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2088 — Unfetched; the article the dissertation stands in for -->
 
-# QUESTION-tmpec8ky: Does an independent meta-analysis or large longitudinal study of procedural skill retention over months find a roughly linear decline of about 0.05 to 0.1 standard deviations a month, about half of training gains lost within six to fifteen months, and slower decline when intermittent practice other than an earlier retention test falls in the interval?
+# QUESTION-433: Does an independent meta-analysis or large longitudinal study of procedural skill retention over months find a roughly linear decline of about 0.05 to 0.1 standard deviations a month, about half of training gains lost within six to fifteen months, and slower decline when intermittent practice other than an earlier retention test falls in the interval?
 
 ## Why it is a question
 

@@ -25,7 +25,7 @@ history:
     short-term contracts and irreversible quitting, the patient limit is
     pooling with no learning below a prior threshold and firing of the
     high-cost type above it." That is an independent test, moved to
-    QUESTION-tmpgjiy3.
+    QUESTION-435.
 tags:
 - game-theory
 date: '2026-11-04'
@@ -78,4 +78,4 @@ pagination). Registered as a stand-in for Freixas, Guesnerie and Tirole
   result is not restated here.
 - Anything about budgets, slack or capabilities kept for rare events; the
   setting is a labour relationship.
-- That a second source confirms it: that is [QUESTION-tmpgjiy3](../questions.d/QUESTION-tmpgjiy3.md).
+- That a second source confirms it: that is [QUESTION-435](../questions.d/QUESTION-435.md).

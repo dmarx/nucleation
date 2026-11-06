@@ -1,5 +1,8 @@
 ---
+number: 1555
 status: Proposed
+formerly:
+- THEORY-tmplbj45
 promote_when: >-
   A reading of the review's derivations (§§2.8–2.9), or an independent
   source, that confirms the three things the title asserts: that for a real
@@ -32,7 +35,7 @@ summary: >-
   the old title and condition word for word.
 ---
 
-# THEORY-tmplbj45: For a real scalar field with an analytic potential, every localized oscillating state except the 1+1 dimensional sine-Gordon breather radiates, at a rate exponentially small in its amplitude parameter but nonzero; in 3+1 dimensions such oscillons are stable only above a minimum amplitude and decay suddenly once radiation has carried them below it, after a few thousand oscillations at most, while in 1 and 2 dimensions the loss rate falls exponentially as the amplitude falls and they never decay
+# THEORY-1555: For a real scalar field with an analytic potential, every localized oscillating state except the 1+1 dimensional sine-Gordon breather radiates, at a rate exponentially small in its amplitude parameter but nonzero; in 3+1 dimensions such oscillons are stable only above a minimum amplitude and decay suddenly once radiation has carried them below it, after a few thousand oscillations at most, while in 1 and 2 dimensions the loss rate falls exponentially as the amplitude falls and they never decay
 
 ## Source
 

@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [November 2026](2026-11.md)
 
+- [6 Nov 06:33 — The twenty-ninth status review: the skimmed sources behind held readings read further, twenty NOTEs to Read and twenty-two entries promoted](2026-11.md#the-twenty-ninth-status-review-the-skimmed-sources-behind-held-readings-read-further-twenty-notes-to-read-and-twenty-two-entries-promoted)
 - [6 Nov 05:14 — The twenty-eighth status review: sixty-three of the week's readings promoted under ADR-065, CLAIM-600's grounds sorted, and Rocks and Mehta read in full](2026-11.md#the-twenty-eighth-status-review-sixty-three-of-the-weeks-readings-promoted-under-adr-065-claim-600s-grounds-sorted-and-rocks-and-mehta-read-in-full)
 - [6 Nov 04:44 — The twenty-seventh status review: seventeen claims and twelve readings promoted, and four skimmed sources read in full](2026-11.md#the-twenty-seventh-status-review-seventeen-claims-and-twelve-readings-promoted-and-four-skimmed-sources-read-in-full)
 - [6 Nov 03:45 — The twenty-sixth status review: sixteen claims promoted, forty held entries rechecked, and a partial concession written in](2026-11.md#the-twenty-sixth-status-review-sixteen-claims-promoted-forty-held-entries-rechecked-and-a-partial-concession-written-in)
@@ -15,9 +16,9 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-127 entries across 2 books, newest first.
+128 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 6 | 2026-11-03 | 2026-11-06 |
+| [2026-11](2026-11.md) | 7 | 2026-11-03 | 2026-11-06 |
 | [2026-10](2026-10.md) | 121 | 2026-10-07 | 2026-10-31 |

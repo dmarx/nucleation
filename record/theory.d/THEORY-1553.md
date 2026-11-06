@@ -1,5 +1,8 @@
 ---
+number: 1553
 status: Proposed
+formerly:
+- THEORY-tmpbs7gs
 promote_when: >-
   A controlled study of a generative-AI assistant, over tasks graded by
   difficulty, finds the assistant's benefit in time or errors largest on the
@@ -28,7 +31,7 @@ summary: >-
   science and law; the paper runs none.
 ---
 
-# THEORY-tmpbs7gs: Generative AI assistants make easy tasks easier and hard tasks harder for their users, leaving the user the hard share of the work with the added task of evaluating the system's output
+# THEORY-1553: Generative AI assistants make easy tasks easier and hard tasks harder for their users, leaving the user the hard share of the work with the added task of evaluating the system's output
 
 ## Source
 

@@ -1,5 +1,8 @@
 ---
+number: 432
 status: Open
+formerly:
+- QUESTION-tmp2s2ai
 title: 'Do aid-funded projects whose beneficiaries stated the demand, contributed their own resources, received the benefits and shared the decision to continue keep their benefits after donor support ends more often than projects funded and controlled by the donor, and does a recipient''s own spending on maintaining donor-funded assets fall as its expectation of donor repair rises?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   both parts and test neither; whether aid bears them out is this question.
 ---
 
-# QUESTION-tmp2s2ai: Do aid-funded projects whose beneficiaries stated the demand, contributed their own resources, received the benefits and shared the decision to continue keep their benefits after donor support ends more often than projects funded and controlled by the donor, and does a recipient's own spending on maintaining donor-funded assets fall as its expectation of donor repair rises?
+# QUESTION-432: Do aid-funded projects whose beneficiaries stated the demand, contributed their own resources, received the benefits and shared the decision to continue keep their benefits after donor support ends more often than projects funded and controlled by the donor, and does a recipient's own spending on maintaining donor-funded assets fall as its expectation of donor repair rises?
 
 ## Why it is a question
 

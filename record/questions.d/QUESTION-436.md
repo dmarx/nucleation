@@ -1,5 +1,8 @@
 ---
+number: 436
 status: Open
+formerly:
+- QUESTION-tmpsd6a0
 title: 'Does an independent threshold-regression test of unique against multiple equilibria, on the Japanese bombing data or another large temporary shock to cities, find a preferred multiple-equilibria model whose intercepts satisfy the ordering that larger negative shocks lead to lower equilibria?'
 version: 1
 tags:
@@ -25,7 +28,7 @@ summary: >-
   refutation clause, is this question.
 ---
 
-# QUESTION-tmpsd6a0: Does an independent threshold-regression test of unique against multiple equilibria, on the Japanese bombing data or another large temporary shock to cities, find a preferred multiple-equilibria model whose intercepts satisfy the ordering that larger negative shocks lead to lower equilibria?
+# QUESTION-436: Does an independent threshold-regression test of unique against multiple equilibria, on the Japanese bombing data or another large temporary shock to cities, find a preferred multiple-equilibria model whose intercepts satisfy the ordering that larger negative shocks lead to lower equilibria?
 
 ## Why it is a question
 

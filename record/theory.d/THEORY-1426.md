@@ -32,7 +32,7 @@ history:
     distribution at a geometric rate." It was not met as worded: the proof
     checks for equal rates and has a gap for unequal ones. Whether the
     iteration converges for unequal rates, with or without the assumption,
-    is QUESTION-tmpfbbtg.
+    is QUESTION-434.
 tags:
 - operations-research
 - probabilistic-modeling
@@ -108,4 +108,4 @@ scratch/formal/hua_hypercube_convergence_check.py, uses the exact solution
 of the full generator as a control. It converged in all 10 runs. Six of
 them violate Assumption 3.1, one with rates within ±20% of each other.
 Whether the theorem holds for unequal rates, and whether the assumption is
-needed, is [QUESTION-tmpfbbtg](../questions.d/QUESTION-tmpfbbtg.md).
+needed, is [QUESTION-434](../questions.d/QUESTION-434.md).

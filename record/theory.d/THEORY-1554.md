@@ -1,5 +1,8 @@
 ---
+number: 1554
 status: Proposed
+formerly:
+- THEORY-tmpdw067
 promote_when: >-
   An independent derivation or classification of reciprocal screw systems
   for ideal pure-force wrenches confirms that a rigid stage's freedom space
@@ -35,7 +38,7 @@ summary: >-
   demonstrated, if a reviewer writes it out.
 ---
 
-# THEORY-tmpdw067: For a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints
+# THEORY-1554: For a rigid stage held in parallel by ideal wire-like flexures under small motions, the motions the stage permits and the lines along which a constraint can be added without changing them determine each other uniquely as reciprocal screw spaces, and for pure-force constraints these pairs fall into 26 types indexed by the number of non-redundant constraints
 
 ## Source
 

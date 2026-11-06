@@ -6,7 +6,7 @@
 
 **Distributed agency** — what an organized whole is, and how its operative direction relates to its members' — where the essay started.
 
-133 of 431 QUESTION documents. Back to the [full index](../README.md).
+133 of 436 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

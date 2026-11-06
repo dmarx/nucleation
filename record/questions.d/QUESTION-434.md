@@ -1,5 +1,8 @@
 ---
+number: 434
 status: Open
+formerly:
+- QUESTION-tmpfbbtg
 title: 'Does the conditional probability update for the spatial hypercube queueing model with server-specific service rates converge geometrically to the exact stationary distribution, and is a bound on how far the rates differ needed for it?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   converged in re-run instances where the paper's assumption fails.
 ---
 
-# QUESTION-tmpfbbtg: Does the conditional probability update for the spatial hypercube queueing model with server-specific service rates converge geometrically to the exact stationary distribution, and is a bound on how far the rates differ needed for it?
+# QUESTION-434: Does the conditional probability update for the spatial hypercube queueing model with server-specific service rates converge geometrically to the exact stationary distribution, and is a bound on how far the rates differ needed for it?
 
 ## Why it is a question
 

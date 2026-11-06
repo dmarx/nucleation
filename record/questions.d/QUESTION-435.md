@@ -1,5 +1,8 @@
 ---
+number: 435
 status: Open
+formerly:
+- QUESTION-tmpgjiy3
 title: 'Does a second source state that, in an infinite-horizon screening relationship with only short-term contracts and irreversible quitting, the patient limit is pooling with no learning when the prior that the agent is low-cost is below a threshold and firing of the high-cost agent when it is above?'
 version: 1
 tags:
@@ -13,7 +16,7 @@ summary: >-
   report under [ADR-065](../decisions.d/ADR-065.md).
 ---
 
-# QUESTION-tmpgjiy3: Does a second source state that, in an infinite-horizon screening relationship with only short-term contracts and irreversible quitting, the patient limit is pooling with no learning when the prior that the agent is low-cost is below a threshold and firing of the high-cost agent when it is above?
+# QUESTION-435: Does a second source state that, in an infinite-horizon screening relationship with only short-term contracts and irreversible quitting, the patient limit is pooling with no learning when the prior that the agent is low-cost is below a threshold and firing of the high-cost agent when it is above?
 
 ## Why it is a question
 
