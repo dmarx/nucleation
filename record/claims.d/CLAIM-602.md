@@ -211,4 +211,4 @@ No status changes.
 
 ## Note of 2026-11-05: Knack, "Aid Dependence and the Quality of Governance", read
 
-Partial support. In Knack's estimates ([NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md)), technical assistance carries coefficients several times those of aid overall, and when entered with the rest of aid only it is significant. Technical assistance is the aid in which donors do the work. That fits supply that does the work lowering the capacity kept. The order in which supply and capacity are used is not observed, the two aid measures correlate at .87, and the evidence is cross-country. No status changes.
+Partial support. In Knack's estimates ([NOTE-1707](../notes.d/NOTE-1707.md)), technical assistance carries coefficients several times those of aid overall, and when entered with the rest of aid only it is significant. Technical assistance is the aid in which donors do the work. That fits supply that does the work lowering the capacity kept. The order in which supply and capacity are used is not observed, the two aid measures correlate at .87, and the evidence is cross-country. No status changes.

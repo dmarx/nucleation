@@ -1,5 +1,8 @@
 ---
+number: 1517
 status: Proposed
+formerly:
+- THEORY-tmpymvl9
 promote_when: >-
   A replication, with these instruments or better-justified ones and with
   first stages reported, on the published 2001 data or an extended ICRG
@@ -17,23 +20,23 @@ tags:
 - social-science
 date: '2026-11-05'
 source:
-- LIT-tmp0gnxg
+- LIT-2219
 summary: >-
-  Knack (2000), [LIT-tmp0gnxg](../literature.d/LIT-tmp0gnxg.md), read in [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md) in its World Bank
+  Knack (2000), [LIT-2219](../literature.d/LIT-2219.md), read in [NOTE-1707](../notes.d/NOTE-1707.md) in its World Bank
   working-paper version; the 2001 journal version was not read. Proposed:
   one change score per country, instruments whose exclusion is defended
   only by overidentification tests, no first stage reported, and a
   standard error printed differently in two tables. It measures governance,
   not tax effort or revenue, and has no withdrawal episodes. It stands in
-  only in part for Bräutigam & Knack (2004), [LIT-tmpw4aef](../literature.d/LIT-tmpw4aef.md).
+  only in part for Bräutigam & Knack (2004), [LIT-2221](../literature.d/LIT-2221.md).
 ---
-<!-- inactive-ok-file: LIT-tmpw4aef — Unavailable; the article this reading partly stands in for -->
+<!-- inactive-ok-file: LIT-2221 — Unavailable; the article this reading partly stands in for -->
 
-# THEORY-tmpymvl9: Knack finds, across 80 aid-receiving countries from 1982 to 1995, that higher mean aid relative to GNP or to government spending goes with smaller gains in the ICRG governance index, controlling for initial governance, income growth and population growth; the effect roughly doubles when aid is instrumented with recipient need and donor interest, holds within sub-Saharan Africa for aid relative to GNP, is several times larger for technical assistance, does not depend on initial governance, and shrinks as aid becomes less predictable
+# THEORY-1517: Knack finds, across 80 aid-receiving countries from 1982 to 1995, that higher mean aid relative to GNP or to government spending goes with smaller gains in the ICRG governance index, controlling for initial governance, income growth and population growth; the effect roughly doubles when aid is instrumented with recipient need and donor interest, holds within sub-Saharan Africa for aid relative to GNP, is several times larger for technical assistance, does not depend on initial governance, and shrinks as aid becomes less predictable
 
 ## Source
 
-Knack (2000), World Bank Policy Research Working Paper 2396, [LIT-tmp0gnxg](../literature.d/LIT-tmp0gnxg.md); read in [NOTE-tmpgq64d](../notes.d/NOTE-tmpgq64d.md).
+Knack (2000), World Bank Policy Research Working Paper 2396, [LIT-2219](../literature.d/LIT-2219.md); read in [NOTE-1707](../notes.d/NOTE-1707.md).
 
 ## What was actually shown
 
