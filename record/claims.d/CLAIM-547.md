@@ -1,10 +1,24 @@
 ---
 number: 547
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpjnqe9
 title: 'Cooperation within groups and the coexistence of groups are distinct targets that can trade off: in the group-selection rule of Nowak''s five, b/c > 1 + n/m, cooperation spreads because a group that grows to size n splits and another group is driven extinct, so the mechanism that stabilizes cooperation inside groups works by removing groups; cooperation local to a group, the persistence of several groups whose interests are opposed, and concern for those outside one''s group are three achievements, and none of them secures the next'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings).
+    THEORY-468 leaves grounds: the body cites morality-as-cooperation
+    only to say that its group-loyalty domain answers the first of the
+    three problems, an attribution whose citation is the link
+    (ADR-058); that it can work against the second is THEORY-1352's,
+    which corroborates the claim. THEORY-567 and LIT-501 are Active.
+    ARG-052 rejects an inference to this claim from Van Lange and
+    Bergmann and is not an objection to it. Nothing in the record
+    meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,7 +42,6 @@ complements:
 grounds:
 - THEORY-567
 - LIT-501
-- THEORY-468
 bears_on:
 - QUESTION-371
 - QUESTION-083

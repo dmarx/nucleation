@@ -1,10 +1,10 @@
 ---
 number: 549
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp7oo4d
 title: 'The quiescent complex, the sets of perspectives that some attainable arrangement keeps below their activation thresholds, is not the compatibility complex of their requirements: either can hold a face the other lacks, since a perspective can be quiet while its requirement is unmet and active while it is met; raising thresholds can only enlarge the quiescent complex and leaves the requirement complex as it was, so it is not relief of frustration'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,6 +12,17 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings), with
+    CLAIM-361 in the same change. The two-arrangement example was re-
+    checked: each complex holds a face the other lacks. Monotonicity
+    in the threshold follows from the definition of the quiescent
+    region. CLAIM-347, CASE-129, CASE-109, TERM-060 and TERM-094 are
+    Active. No objection is on file, and nothing in the record meets
+    the defeat condition. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

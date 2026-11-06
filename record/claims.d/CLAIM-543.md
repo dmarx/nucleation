@@ -1,10 +1,10 @@
 ---
 number: 543
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpwh2jo
 title: 'What separates a language model''s distribution over personas from a distribution over organizational perspectives is not whether the latent model is hierarchical, since a mixture or an LDA-style admixture already is, but whether some latent components condition which others are available or consequential: a model whose components are exchangeable given their weights is organizationally flat however many levels its prior has, and dependencies among components count as organization (organization as relational arrangement) only where interventions, not fit, support them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,6 +12,20 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings).
+    THEORY-614 moves from grounds to corroborated_by (ADR-058): it is
+    cited among the readings closest to the claim, as a parallel, and
+    the argument runs through LIT-1948, LIT-1952, CLAIM-454, CLAIM-135
+    and CLAIM-414, all Active. The summary's "Proposed: the contrast
+    is argued, and no study separates the two kinds of model on a
+    language model" now reads "Interpretive: ...": the claim says
+    intervention is what would separate them, which needs no such
+    study to hold. No objection is on file, and nothing in the record
+    meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,6 +56,7 @@ uses:
 grounds:
 - LIT-1952
 - LIT-1948
+corroborated_by:
 - THEORY-614
 complements:
 - CLAIM-029
@@ -58,8 +73,8 @@ summary: >-
   itself a three-level hierarchical model drawn in plates, so "flat" has
   to mean organizationally flat, components exchangeable given their
   weights, not probabilistically flat. The precise form of the owner's
-  H1/H2 contrast is [CLAIM-536](CLAIM-536.md). Proposed: the contrast is argued, and
-  no study separates the two kinds of model on a language model.
+  H1/H2 contrast is [CLAIM-536](CLAIM-536.md). Interpretive: the contrast is argued, and
+  no study yet separates the two kinds of model on a language model.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: NOTE-1524 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->

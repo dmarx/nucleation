@@ -16,7 +16,15 @@ promote_when: >-
   constraint satisfaction, which presuppose the decomposition, or the
   essay's own illustrations.
 title: "A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    CLAIM-361 now cites this reading as corroboration, not as a ground
+    (ADR-058), at the twenty-fifth status review's ruling (the owner
+    delegated these rulings); its supports entry moves to
+    corroborates. The reading and its status are unchanged.
 tags:
 - agency
 - philosophy-of-biology
@@ -27,6 +35,7 @@ source:
 - LIT-990
 corroborates:
 - CLAIM-368
+- CLAIM-361
 summary: >-
   Watson (2023), [LIT-990](../literature.d/LIT-990.md), read in full in [NOTE-747](../notes.d/NOTE-747.md). A perspective
   essay's definition, argued and illustrated, not proved: agency of a whole
@@ -37,8 +46,6 @@ summary: >-
   only relative to a stipulated decomposition and stipulated goals for the
   parts. That bottom-up learning produces such organization is reported
   from earlier models, not shown here.
-supports:
-- CLAIM-361
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this bears on, on a set-aside line -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-168 THEORY-071 — Open or Proposed; the question, claims and account this reading bears on, named and not leaned on -->

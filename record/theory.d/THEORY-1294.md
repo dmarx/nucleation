@@ -112,3 +112,12 @@ across expansions the relation holds throughout or not at all.
 - **[CLAIM-515](../claims.d/CLAIM-515.md)**: on this account, "realized" in the synchronic sense is
   inferred by abduction, not shown by discriminating interventions
   ([CLAIM-528](../claims.d/CLAIM-528.md)).
+
+## Note of 2026-11-06: what holds it back
+
+Kept Proposed by the twenty-fifth status review. Both sources are read
+in full (NOTE-1490, NOTE-1493), but the title asserts No De-Coupling as
+how constitution is inferred, and the record holds no reconstruction of
+a constitutive inference from practice and no test of the condition on a
+system whose causes can be enumerated; the authors supply neither (pp.
+17, 19). CLAIM-528 now cites it as corroboration, not as a ground.

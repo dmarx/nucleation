@@ -135,3 +135,12 @@ per-example terms. The hidden state carries across delimiters, so the
 likelihood is a sum over delimiter states, not a product. Bounding it by
 the per-example factors and the c₁–c₄ ratios is [LIT-797](../literature.d/LIT-797.md)'s Appendix B,
 which [NOTE-633](../notes.d/NOTE-633.md) did not follow. That step is the promote_when.
+
+## Note of 2026-11-06: what holds it back
+
+Kept Proposed by the twenty-fifth status review. The one step of Theorem
+1 the record has not checked, bounding the prompt likelihood summed over
+hidden delimiter states by per-example factors and Assumption 2's c₁–c₄
+ratios (LIT-797, Appendix B), is still neither read nor re-derived;
+NOTE-633 did not follow the appendices. CLAIM-543 now cites it as
+corroboration, not as a ground.
