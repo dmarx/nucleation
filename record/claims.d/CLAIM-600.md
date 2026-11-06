@@ -94,8 +94,8 @@ summary: >-
   (Collins and Shester; LaVoice). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpbzli4 — Skimmed; a reading of the persistence filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmp5d91s — new; the assistant's soliton claim, cited as open -->
+<!-- inactive-ok-file: NOTE-1690 — Skimmed; a reading of the persistence filing, cited as open -->
+<!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
@@ -306,14 +306,14 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
 Read to fill a gap the supplied-maintenance filing left: whether persistence after withdrawal is self-sustaining or slow reversion. The works were chosen by the assistant.
 
 - **Both poles, now on the record.**
-  - Japanese cities returned to their pre-war relative size within 15–20 years of WWII bombing, Hiroshima and Nagasaki included (Davis and Weinstein, [NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md)). The companion search for multiple equilibria finds "no support for the existence of multiple equilibria" ([NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md)).
-  - US cities at historical portage sites are still 60–100 % denser than comparable sites a century after portage stopped mattering, with no decay (Bleakley and Lin, [NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md)). The case passes their tests against slow reversion: matching on past density, the age of housing stock, and prices.
+  - Japanese cities returned to their pre-war relative size within 15–20 years of WWII bombing, Hiroshima and Nagasaki included (Davis and Weinstein, [NOTE-1696](../notes.d/NOTE-1696.md)). The companion search for multiple equilibria finds "no support for the existence of multiple equilibria" ([NOTE-1690](../notes.d/NOTE-1690.md)).
+  - US cities at historical portage sites are still 60–100 % denser than comparable sites a century after portage stopped mattering, with no decay (Bleakley and Lin, [NOTE-1697](../notes.d/NOTE-1697.md)). The case passes their tests against slow reversion: matching on past density, the age of housing stock, and prices.
   - Against these two, the Tennessee Valley Authority ([NOTE-1646](../notes.d/NOTE-1646.md)) is the ambiguous case. The claim's caution that slow reversion can mimic persistence now has its contrast cases.
 - **Size, again.** Bleakley and Lin find almost no effect at the smallest watersheds, an echo of the condition on size.
-- **The unit, from the other side.** In Moving to Opportunity (Chetty, Hendren and Katz, [NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) the gain was carried by children who moved young, into adult earnings, while parents in the same places gained nothing. That is the mirror of urban renewal, where the place gained and its people were dispersed. The voucher was standing support, not transient; what ended was childhood.
+- **The unit, from the other side.** In Moving to Opportunity (Chetty, Hendren and Katz, [NOTE-1695](../notes.d/NOTE-1695.md)) the gain was carried by children who moved young, into adult earnings, while parents in the same places gained nothing. That is the mirror of urban renewal, where the place gained and its people were dispersed. The voucher was standing support, not transient; what ended was childhood.
 
 No status changes.
 
 ## Note of 2026-11-06: the readings on solitons
 
-Supports and sharpens the caution that slow reversion can mimic persistence ([CLAIM-tmp5d91s](CLAIM-tmp5d91s.md)). An oscillon shows almost no outflow for 10³–10⁴ times the linear lifetime and then ends abruptly (Copeland, Gleiser and Müller, [NOTE-tmpyp0bm](../notes.d/NOTE-tmpyp0bm.md)). A damped soliton keeps its shape while its amplitude runs down at a rate set by the kind of loss (Grimshaw, Smyth and Stepanyants, [NOTE-tmp2gykh](../notes.d/NOTE-tmp2gykh.md)). A cavity soliton switched on by a transient writing beam then persists on its standing supply (Grelu and Akhmediev, [NOTE-tmp3nwf3](../notes.d/NOTE-tmp3nwf3.md)): founding support withdrawn, feeding support kept. No status changes.
+Supports and sharpens the caution that slow reversion can mimic persistence ([CLAIM-606](CLAIM-606.md)). An oscillon shows almost no outflow for 10³–10⁴ times the linear lifetime and then ends abruptly (Copeland, Gleiser and Müller, [NOTE-1699](../notes.d/NOTE-1699.md)). A damped soliton keeps its shape while its amplitude runs down at a rate set by the kind of loss (Grimshaw, Smyth and Stepanyants, [NOTE-1687](../notes.d/NOTE-1687.md)). A cavity soliton switched on by a transient writing beam then persists on its standing supply (Grelu and Akhmediev, [NOTE-1688](../notes.d/NOTE-1688.md)): founding support withdrawn, feeding support kept. No status changes.
