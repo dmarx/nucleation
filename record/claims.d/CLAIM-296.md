@@ -57,7 +57,7 @@ corroborated_by:
 bears_on:
 - QUESTION-101
 ---
-<!-- inactive-ok-file: NOTE-1620 NOTE-1621 LIT-2105 LIT-2098 LIT-2075 — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
+<!-- inactive-ok-file: LIT-2105 LIT-2098 LIT-2075 — Unavailable; the unread originals of the location-model readings of 2026-11-04, cited as open -->
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CASE-201 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
@@ -154,3 +154,13 @@ A's [CLAIM-587](CLAIM-587.md) and [TERM-115](../terms.d/TERM-115.md) (both Propo
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 [CASE-201](../cases.d/CASE-201.md), a folded sheet whose fixed area fits the stowage envelope only folded and supplies the required area only unfolded, and [CASE-211](../cases.d/CASE-211.md), a schedule whose peak need depends on the deadline, illustrate the distance between having a resource and deploying it. No status changes.
+
+## Note of 2026-11-06: the hypercube reading, now from the full text
+
+The note of 2026-11-04 cites the hypercube model from Larson and Odoni
+"prose only". NOTE-1620 is now Read: §5.4 with its equations, tables and
+figures, the three-server example re-derived from the book's inputs
+(scratch/formal/larson_odoni_hypercube_check.py). De Oliveira, de Sá and
+Martins (NOTE-1621) are also read in full. In both, a busy unit is
+present but not deployable, as that note says; nothing read since changes
+it. No status changes.
