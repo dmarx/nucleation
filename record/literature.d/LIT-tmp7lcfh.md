@@ -1,0 +1,58 @@
+---
+status: Unavailable
+status_note: >-
+  registered 2026-11-06, not read. A lawful full text was sought on
+  2026-11-06 and not reached: OpenAlex reports it closed, with no
+  repository copy. No other search was made. It stays Unavailable until a copy is
+  supplied. What the summary says of its contents is unverified until read.
+title: 'Dissipative solitons'
+version: 1
+history:
+- version: 1
+  date: '2026-11-06'
+  note: >-
+    Registered on 2026-11-06 at the owner's suggestion that soliton
+    dynamics bear on the record's questions of individuation and persistence
+    (works chosen by the assistant), and sought for reading the same day;
+    not read, since no lawful copy was reached. Citation checked against
+    Crossref (no mailto): H.-G. Purwins, H. U. Bödeker and Sh.
+    Amiranashvili, Advances in Physics 59(5), 485–701. Crossref gives only
+    the print month, September 2010, so `published:` is 2010-09-01 under
+    ADR-002; OpenAlex gives 2010-08-24, not used. Grelu & Akhmediev (2012),
+    LIT-tmp8ut7r, cite it as their ref. 6 with the same details. No copy:
+    OpenAlex reports it closed with no repository copy.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-06'
+published: '2010-09-01'
+doi: '10.1080/00018732.2010.498228'
+first_author: 'Purwins'
+keywords:
+- 'dissipative solitons'
+- 'reaction–diffusion systems'
+implementations: []
+summary: >-
+  Purwins, Bödeker & Amiranashvili (2010). A review of about 217 pages in
+  Advances in Physics, described by the reader who sought it as covering
+  dissipative solitons in reaction–diffusion and gas-discharge systems;
+  unverified until read, since no abstract or text was reached. Grelu &
+  Akhmediev (2012) cite it for the reaction–diffusion side of the concept:
+  "Reaction-diffusion systems involve supply and decay of matter". Filed as
+  the likeliest source for what their review leaves out: existence ranges,
+  thresholds, bistability and hysteresis of dissipative solitons, and the
+  outcomes of their collisions. Not read.
+---
+# LIT-tmp7lcfh: Dissipative solitons
+
+Purwins, H.-G., Bödeker, H. U. & Amiranashvili, Sh. (2010). Dissipative solitons. *Advances in Physics* 59(5): 485–701. doi:10.1080/00018732.2010.498228.
+
+## Standing in the record
+
+Filed with the reading of Grelu & Akhmediev (2012), [LIT-tmp8ut7r](LIT-tmp8ut7r.md), which
+cites it and which gives no pump existence threshold and never discusses
+bistability or hysteresis. A reading should check first whether this review
+states those for reaction–diffusion and gas-discharge solitons, and what it
+says happens when they collide.
+
+*Seeded from the citing review and the reader's search, not a reading.*

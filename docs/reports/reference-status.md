@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**818 documents cited without acknowledgement.** Not listed: 18485 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**821 documents cited without acknowledgement.** Not listed: 18490 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -9798,6 +9798,30 @@ Organizations that espouse revising their governing values characteristically fa
 1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-177.md:123`](../../record/claims.d/CLAIM-177.md)
+
+### [THEORY-1465](../../record/theory.d/THEORY-1465.md) — Proposed
+
+Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor households in rural Bangladesh face an S-shaped asset transition with an unstable threshold near the value of a cow and a small complementary asset, so that a one-off asset transfer that lifts a household above it is followed by accumulation, a shift into self-employment and higher consumption over 11 years while one that leaves it below is followed by asset loss: a poverty trap set by initial wealth and indivisible inputs, not by lower ability or effort
+
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-605.md:113`](../../record/claims.d/CLAIM-605.md)
+
+### [THEORY-1483](../../record/theory.d/THEORY-1483.md) — Proposed
+
+In Azam, Devarajan and O'Connell's model, where the cost of taxing falls with depreciating revenue-collecting experience and grant aid fills the fiscal gap, aid that ignores this learning drives a country whose initial institutions are weaker than a threshold to aid financing the whole budget and the loss of its tax capacity, while one with stronger institutions converges to a low-aid state; a planner who internalizes the learning still has a stable high-aid, low-capacity equilibrium beside the efficient saddle path, which is reached only by an up-front cut in aid
+
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-605.md:117`](../../record/claims.d/CLAIM-605.md)
+
+### [THEORY-1492](../../record/theory.d/THEORY-1492.md) — Proposed
+
+In three Food for Peace projects in Kenya followed 2–3 years after exit, impact at exit did not predict sustained benefit: the activities that continued had, before the project withdrew, their own resource stream, sufficient technical and managerial capacity, motivated participants and substantive linkages formed early, and had operated independently for a time, while activities that relied on project-supplied inputs until the end declined
+
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-605.md:121`](../../record/claims.d/CLAIM-605.md)
 
 ### [THEORY-182](../../record/theory.d/THEORY-182.md) — Proposed
 
