@@ -4,7 +4,19 @@ status: Proposed
 formerly:
 - CLAIM-tmp5d91s
 title: "A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    THEORY-1504 was promoted on 2026-11-06 as a report of Grelu and
+    Akhmediev's account, and the account itself was split off to
+    THEORY-tmppeysf, Proposed. The claim's table uses the account as
+    true, so its ground moves from THEORY-1504 to THEORY-tmppeysf
+    (ADR-058: a claim that uses a reading's contested thesis keeps it in
+    grounds), at the status review's ruling (the owner delegated these
+    rulings). The body's citations of NOTE-1688 are unchanged. No status
+    changes.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,7 +41,7 @@ complements:
 - CLAIM-600
 - CLAIM-597
 grounds:
-- THEORY-1504
+- THEORY-tmppeysf
 - THEORY-1500
 - THEORY-1506
 - THEORY-1502
@@ -68,6 +80,7 @@ summary: >-
   and by whether an outflow is measured. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-1500 THEORY-1501 THEORY-1502 THEORY-1506 THEORY-1507 THEORY-1509 THEORY-tmppeysf — Proposed; the readings that hold this claim back, cited as open -->
 <!-- inactive-ok-file: CLAIM-600 CLAIM-157 NOTE-1698 NOTE-1694 — Proposed or Skimmed; claims, a term and readings this one rests on or extends, cited as open -->
 
 # CLAIM-606: A localized structure can persist by an internal balance that needs no supply, by a balance of gain and loss that needs a standing supply, or by a topological charge that continuous change cannot remove, and the three differ in what carries the structure's identity, how it forms and how it ends; because thresholds and abrupt ends appear in all of them, even with no supply at all, only withdrawing the supply and measuring the outflow tells which route a structure is on
@@ -127,6 +140,17 @@ Its three routes are the findings of seven Proposed readings, none yet
 promoted, and it uses [TERM-088](../terms.d/TERM-088.md), not adopted; two of its supports are by
 its own account thin (no reverse sweep in Herr et al., a reader's
 derivation for the integrable formation threshold).
+
+## Note of 2026-11-06: what holds it back
+
+TERM-088, which the note above calls not adopted, was adopted on 2026-11-06
+and is Active, so it no longer holds the claim. What holds it is its
+readings: the topological route rests on THEORY-1507, whose source is only
+Skimmed (NOTE-1694), and THEORY-1500, THEORY-1501, THEORY-1506 and
+THEORY-1509 state the conservative, dissipative and oscillon routes
+generally and stay Proposed under their strict conditions, as THEORY-1502
+does on a Skimmed reading; the dissipative contrast is now grounded on
+THEORY-tmppeysf, the Proposed general form of Grelu and Akhmediev's account.
 
 ## Note of 2026-11-06: the Kerr case and [CLAIM-604](CLAIM-604.md)'s scoped clause
 

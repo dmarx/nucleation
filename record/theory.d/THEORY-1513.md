@@ -1,30 +1,43 @@
 ---
 number: 1513
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp9jjvs
-promote_when: >-
-  An independent pooled analysis or large cohort, ideally with
-  individual-patient data and testing at least 24 hours after the last
-  dose, reproduces three things: the route ordering, with oral and
-  intra-articular use far above nasal, topical and inhaled use; a
-  monotone rise of suppression with dose and with duration; and a
-  persisting fraction of the same order, about 15–25%, at 4 weeks to 6
-  months after stopping. The claim that no route, dose or duration
-  excludes the risk needs no more than nonzero shares in every stratum;
-  that no withdrawal scheme has been shown effective or safe stands until
-  a comparative trial reports.
 title: 'Broersen, Pereira, Jørgensen and Dekkers find, pooling 74 observational studies of adult corticosteroid users, that biochemically suppressed adrenal function after treatment is common, from about 4% after nasal or topical use to about half after oral or intra-articular use; in asthma it rises with dose (2.4%, 8.5%, 21.5%) and with duration (1.4% under a month, 27.4% over a year); it recedes after stopping but incompletely, from 38.7% to 14.9% four weeks after short high-dose courses and from 56.4% to 25.3% six months after long medium-dose use; and they hold that no route, dose or duration excludes it and that no withdrawal scheme has been shown effective or safe'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065 and ADR-047's one-study rule: the title
+    reports what one study read in NOTE-1703 found, with its hedges
+    kept, and nothing in the record contradicts it. The 6-month retest
+    follows the text and methods, not Figure 4's label, as the summary
+    says; the clause asking for nonzero shares in every stratum is met
+    by Figure 1 and is quoted below only as part of the old condition.
+    The replication and refutation clauses move word for word to
+    QUESTION-tmpwpaqt. The old condition: An independent pooled analysis
+    or large cohort, ideally with individual-patient data and testing at
+    least 24 hours after the last dose, reproduces three things: the
+    route ordering, with oral and intra-articular use far above nasal,
+    topical and inhaled use; a monotone rise of suppression with dose
+    and with duration; and a persisting fraction of the same order,
+    about 15–25%, at 4 weeks to 6 months after stopping. The claim that
+    no route, dose or duration excludes the risk needs no more than
+    nonzero shares in every stratum; that no withdrawal scheme has been
+    shown effective or safe stands until a comparative trial reports.
 tags:
 - natural-sciences
 date: '2026-11-05'
 source:
 - LIT-2214
+bears_on:
+- QUESTION-tmpwpaqt
 summary: >-
   Broersen, Pereira, Jørgensen and Dekkers (2015), [LIT-2214](../literature.d/LIT-2214.md), read in
   [NOTE-1703](../notes.d/NOTE-1703.md) from the reprint in Broersen's 2019 thesis, supplements
-  unread. Proposed: the pooled shares are from 74 observational articles
+  unread. Held as what the study finds, with its hedges: the pooled shares are from 74 observational articles
   at high risk of bias, with no individual-patient data, and the dose and
   duration gradients are crude strata in asthma patients of all routes.
   It does not say that longer use means longer recovery: the two retest

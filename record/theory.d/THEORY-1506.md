@@ -33,6 +33,7 @@ summary: >-
   define the plateau's endpoints formally. The wording of the title is the
   reader's condensation of the paper's §§III–IV and VII.
 ---
+<!-- inactive-ok-file: NOTE-1698 — Skimmed; the partial reading that holds the one independent simulation -->
 
 # THEORY-1506: In a spherically symmetric real scalar field with a double-well potential in 3+1 dimensions, subcritical bubbles with energy above a plateau value, core field beyond the inflection point and initial radius in a window shed part of their energy and settle into oscillons of nearly constant energy and radius whatever their initial radius, which radiate almost nothing for 10^3 to 10^4 m^-1, against about 5 to 10 m^-1 in the linear theory, and then decay quickly once slow radiation has lowered the core amplitude below the value at which its fluctuations stop being unstable; no topological invariant or conserved charge protects them
 
@@ -76,3 +77,10 @@ Copeland, Gleiser & Müller (1995), [LIT-2200](../literature.d/LIT-2200.md); rea
   and unresolved question (Fodor 2019; Gleiser & Krackow 2019).
 - Anything about coupled fields, plasma or noise, which §VI names as open,
   or about cosmology beyond the order-of-magnitude speculation of §VI.
+
+## Note of 2026-11-06: what holds it back
+
+The title states the double-well model's behaviour generally, and the one
+independent simulation the record holds (Fodor 2019, NOTE-1698, §2.6.4)
+reproduces a single Gaussian radius, not the existence window in radius or
+the plateau's independence of the initial radius.

@@ -94,3 +94,13 @@ Herr et al. (2014), [LIT-2204](../literature.d/LIT-2204.md); read in [NOTE-1692]
   nothing to keep its supply.
 - **Not general.** One resonator, simulations without thermal effects,
   and an approximate soliton solution.
+
+## Note of 2026-11-06: what holds it back
+
+The existence window the title states as a bound comes from Barashenkov and
+Smirnov's infinite-domain analysis of the driven, damped nonlinear
+Schrödinger equation (the paper's ref. 30), which the record has not read,
+and is checked in the paper only against simulations of a few hundred modes.
+The demand for the Nature Photonics version names no discrepancy and can be
+dropped at the next content revision (ADR-065, decision 4); the reading of
+ref. 30 cannot.

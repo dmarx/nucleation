@@ -71,3 +71,11 @@ Fodor (2019), [LIT-2197](../literature.d/LIT-2197.md); read in part in [NOTE-169
 - That the radiation law was checked here: the derivations were not read.
 - Anything about self-gravitating oscillatons, whose chapter was mostly not
   read.
+
+## Note of 2026-11-06: what holds it back
+
+NOTE-1698 is Skimmed: §§2.8–2.9, which derive the radiation law, and the
+rest of §2.10 were not read, so the exponentially small but nonzero rate and
+the dimension-dependent stability are held only as the review's statements.
+A full reading of those sections, or of another source that derives the law,
+is what must come first.

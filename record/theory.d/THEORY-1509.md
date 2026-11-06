@@ -84,3 +84,11 @@ numerical solution (§8, Table):
   radiative one it runs down. Its long life under algebraic loss is slow
   decay, which is what makes it bear on [CLAIM-600](../claims.d/CLAIM-600.md)'s warning that slow
   reversion can mimic persistence.
+
+## Note of 2026-11-06: what holds it back
+
+The laws are derived here for the Benjamin–Ono equation alone; the KdV laws
+that make "integrable wave equation" more than one case are quoted from
+earlier work (Ott and Sudan 1970 among them) that the record has not read,
+and no step-by-step re-derivation of eqs. 15–35 from the energy balance,
+checked by a second reader, is recorded.

@@ -1,19 +1,37 @@
 ---
 number: 1521
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpv1dwq
-promote_when: >-
-  A study, cited or new, measures operators' unaided skill at a subtask
-  after a period in which automation performed that subtask while they
-  continued the task, against matched operators who performed the subtask
-  themselves, and finds the automated group's decrement larger on the
-  subtask's cognitive components than on its procedural ones, with the
-  automated operators' own assessment of their skill showing no matching
-  decline. A study that finds the decrement but measures no self-assessment
-  settles all but the last clause.
-title: 'Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator''s skill at that subtask decays from disuse, the cognitive part more than the procedural part, and out of the operator''s awareness, because the task itself is still done and still succeeds'
-version: 1
+title: 'Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator''s skill at that subtask decays from disuse, the cognitive part more than the procedural part, and may do so out of the operator''s awareness, because the task itself is still done and still succeeds'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065. Narrowed first: the authors
+    say decay "may operate outside the performer's awareness", so "and
+    out of the operator's awareness" becomes "and may do so out of the
+    operator's awareness", a mis-statement of their hedge (ADR-047 kind
+    3). The report is read in full in NOTE-1710, and nothing in the
+    record contradicts it. The old title: Macnamara and colleagues argue
+    that when automation performs a subtask while the operator goes on
+    doing the task, the operator's skill at that subtask decays from
+    disuse, the cognitive part more than the procedural part, and out of
+    the operator's awareness, because the task itself is still done and
+    still succeeds. Its promote_when asked that the authors be right,
+    which is more than the title asserts; it moves word for word to
+    THEORY-tmpk0yjb, Proposed, which extends this entry (ADR-047 kind
+    1). The old condition: A study, cited or new, measures operators'
+    unaided skill at a subtask after a period in which automation
+    performed that subtask while they continued the task, against
+    matched operators who performed the subtask themselves, and finds
+    the automated group's decrement larger on the subtask's cognitive
+    components than on its procedural ones, with the automated
+    operators' own assessment of their skill showing no matching
+    decline. A study that finds the decrement but measures no
+    self-assessment settles all but the last clause.
 tags:
 - cognition
 - learning-and-conditioning
@@ -31,9 +49,10 @@ summary: >-
   paper does not cite her. It does not give a rate, a recovery time, or any
   test of its extension to AI assistants.
 ---
+<!-- inactive-ok-file: THEORY-tmpk0yjb — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original this reading stands in for -->
 
-# THEORY-1521: Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator's skill at that subtask decays from disuse, the cognitive part more than the procedural part, and out of the operator's awareness, because the task itself is still done and still succeeds
+# THEORY-1521: Macnamara and colleagues argue that when automation performs a subtask while the operator goes on doing the task, the operator's skill at that subtask decays from disuse, the cognitive part more than the procedural part, and may do so out of the operator's awareness, because the task itself is still done and still succeeds
 
 ## Source
 

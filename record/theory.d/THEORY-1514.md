@@ -1,18 +1,29 @@
 ---
 number: 1514
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpfuiq1
-promote_when: >-
-  Studies of mechanically ventilated patients are read that measure
-  inspiratory effort and diaphragm structure or function over time and find
-  atrophy where effort is low from over-assistance or sedation, and injury
-  where effort is high; and a study is read that finds assist proportional
-  to the patient's own neural drive keeps diaphragm activity from falling to
-  inactivity. That trials confirming benefit are still required is the
-  authors' own statement and needs no further result.
 title: 'Goligher and colleagues hold that mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient''s own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls; and that trials confirming the benefit of this approach are still required'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what the source holds,
+    read in full in NOTE-1704, and nothing in the record contradicts the
+    report. The injury limb keeps its hedge ("possibly"), and the trials
+    clause is the authors' own. Its promote_when asked that the authors
+    be right, which is more than the title asserts; it moves word for
+    word to THEORY-tmp5nq2k, Proposed, which extends this entry (ADR-047
+    kind 1). The old condition: Studies of mechanically ventilated
+    patients are read that measure inspiratory effort and diaphragm
+    structure or function over time and find atrophy where effort is low
+    from over-assistance or sedation, and injury where effort is high;
+    and a study is read that finds assist proportional to the patient's
+    own neural drive keeps diaphragm activity from falling to
+    inactivity. That trials confirming benefit are still required is the
+    authors' own statement and needs no further result.
 tags:
 - natural-sciences
 date: '2026-11-05'
@@ -27,6 +38,7 @@ summary: >-
   reported. Its figure of 64% weak after 24 h is weakness on ICU admission,
   not loss caused by ventilation.
 ---
+<!-- inactive-ok-file: THEORY-tmp5nq2k — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2212 CLAIM-600 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
 # THEORY-1514: Goligher and colleagues hold that mechanical ventilation harms the diaphragm at both ends of effort, atrophy following low effort from over-assistance or sedation and injury possibly following excessive effort, so that ventilation and sedation should be titrated to keep an effort close to that of quiet breathing; that support proportional to the patient's own neural drive makes disuse from over-assistance unlikely, since assist falls as diaphragm activity falls; and that trials confirming the benefit of this approach are still required

@@ -1,17 +1,28 @@
 ---
 number: 1522
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpwcxn9
-promote_when: >-
-  Bainbridge (1983) is read and states, in her own words, that automation
-  leaves the operator the atypical or abnormal cases, recalls the operator
-  at its failure, when the system is least predictable, and leaves the
-  operator's manual and cognitive skills degraded from disuse. The remedies
-  need nothing further, as the title gives them as Ahn's proposals and
-  attributes them to him; whether they work is not what the title asserts.
 title: 'Ahn reads Bainbridge''s ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator''s manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports what the source holds,
+    read in full in NOTE-1713, and nothing in the record contradicts the
+    report. The title reports how Ahn reads Bainbridge and his own
+    remedies. Its promote_when asked that the authors be right, which is
+    more than the title asserts; it moves word for word to
+    THEORY-tmpvflnt, Proposed, which extends this entry (ADR-047 kind
+    1). The old condition: Bainbridge (1983) is read and states, in her
+    own words, that automation leaves the operator the atypical or
+    abnormal cases, recalls the operator at its failure, when the system
+    is least predictable, and leaves the operator's manual and cognitive
+    skills degraded from disuse. The remedies need nothing further, as
+    the title gives them as Ahn's proposals and attributes them to him;
+    whether they work is not what the title asserts.
 tags:
 - cognition
 - learning-and-conditioning
@@ -26,6 +37,7 @@ summary: >-
   proposals for medical curricula, untested. A single-author commentary with
   no data.
 ---
+<!-- inactive-ok-file: THEORY-tmpvflnt — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; the unread original whose reading this states -->
 
 # THEORY-1522: Ahn reads Bainbridge's ironies of automation as holding that automation takes the routine work and leaves the operator the atypical cases, recalls the operator at its failure, when the system is least predictable, and leaves the operator's manual and cognitive skills degraded from disuse; and, as his own remedies for medical education, he proposes building core skills in phases free of AI before AI is introduced, and simulations in which AI failures are injected
