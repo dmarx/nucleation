@@ -1,10 +1,19 @@
 ---
 number: 115
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpuc919
 title: 'scenario-conditioned response readiness: the probability that an organization operating under a specified policy can deliver an effective response to a specified contingency within its deadline'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): the definition is settled and every entry that
+    uses it (CLAIM-587, and the questions, cases and terms that cite
+    it) names it, so says which sense of readiness it means. A's
+    wording is kept.
 tags:
 - operations-research
 - agency

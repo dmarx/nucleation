@@ -1,10 +1,17 @@
 ---
 number: 587
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpvhj8j
 title: 'Where successful response requires several complementary capacities, the value of preserving one depends on whether the others remain deployable, so individual resource utilization need not track the organization''s response capability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): TERM-115, its one premise, was adopted in the
+    same change; the construction was followed.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,7 +47,6 @@ summary: >-
   capability depends on the system in which it is embedded." The wording
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-115 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CLAIM-587: Where successful response requires several complementary capacities, the value of preserving one depends on whether the others remain deployable, so individual resource utilization need not track the organization's response capability
 

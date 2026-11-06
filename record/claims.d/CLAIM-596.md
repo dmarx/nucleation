@@ -1,10 +1,22 @@
 ---
 number: 596
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpqlcgm
-title: 'Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so only the rate of that later step, compared with and without the nucleus, identifies the route'
-version: 1
+title: 'Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so the route is identified by the rate of that later step, compared with and without the nucleus, and not by the yields'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-047 kind 3): the title read
+    "so only the rate of that later step, compared with and without
+    the nucleus, identifies the route", which claimed uniqueness among
+    all measurements while the body and defeated_if confine the claim
+    to yields; what else identifies the route stays with QUESTION-397.
+    TERM-117, its one premise, was adopted in the same change; the
+    construction was re-run by script and by a direct linear solve.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -45,9 +57,8 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: TERM-117 — Proposed, Skimmed or new; entries cited as open -->
 
-# CLAIM-596: Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so only the rate of that later step, compared with and without the nucleus, identifies the route
+# CLAIM-596: Yields cannot tell a generative nucleus from one that only gives a head start: two assemblies can have the same chance of success with the nucleus established and without it, one because the nucleus speeds a later step among other components and one because it does not, so the route is identified by the rate of that later step, compared with and without the nucleus, and not by the yields
 
 ## The construction
 

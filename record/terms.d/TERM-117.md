@@ -1,10 +1,22 @@
 ---
 number: 117
-status: Proposed
+status: Active
 formerly:
 - TERM-tmp3awsy
 title: 'productive nucleus: a partial organization whose establishment, relative to a declared target, context, horizon and comparator, causally improves the probability, timeliness, robustness or resource-feasible accessibility of forming the target by changing later interaction opportunities, constraints or transition rates; distinct from a structural seed and a kinetic nucleus'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): the definition is settled, and CLAIM-595,
+    CLAIM-596 and CLAIM-599, which use it, each declare which kind of
+    productivity, which comparator and which horizon they mean. A's
+    wording is kept; the fourth synthesis's refinements (a vector over
+    targets; state against generative advantage) stay in their note. A
+    typo corrected: "A observed association" now reads "An observed
+    association".
 tags:
 - complex-systems
 - natural-sciences
@@ -27,7 +39,7 @@ summary: >-
   causation. It bears on [QUESTION-038](../questions.d/QUESTION-038.md) and [QUESTION-380](../questions.d/QUESTION-380.md), and qualifies
   [CLAIM-185](../claims.d/CLAIM-185.md)'s anchor. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-185 CLAIM-566 CLAIM-595 CLAIM-599 — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: CLAIM-185 CLAIM-599 — Proposed, Skimmed or new; entries cited as open -->
 
 # TERM-117: productive nucleus: a partial organization whose establishment, relative to a declared target, context, horizon and comparator, causally improves the probability, timeliness, robustness or resource-feasible accessibility of forming the target by changing later interaction opportunities, constraints or transition rates; distinct from a structural seed and a kinetic nucleus
 
@@ -69,7 +81,7 @@ Four things must be declared, by A's four questions:
   to prove causal productivity".
 - **Interventional effect.** Δ_N(F, T, c) is the difference in the chance
   of reaching F by T between establishing the candidate and the
-  comparator. A observed association Pr(F | N) > Pr(F | ¬N) does not
+  comparator. An observed association Pr(F | N) > Pr(F | ¬N) does not
   identify it.
 - **Kinds of productivity,** declared separately: probability, expected
   time, robustness to disturbance, access to capabilities.

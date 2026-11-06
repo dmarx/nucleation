@@ -18,6 +18,8 @@ tags:
 date: '2026-11-05'
 source:
 - LIT-2133
+corroborates:
+- CLAIM-598
 summary: >-
   Majikes, Patrone, Kearsley, Zwolak and Liddle (2021), [LIT-2133](../literature.d/LIT-2133.md),
   read in [NOTE-1633](../notes.d/NOTE-1633.md) (main text, captions and tables; the supplement,
