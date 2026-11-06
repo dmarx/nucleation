@@ -1,0 +1,83 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-06 (NOTE-tmpf3ajq) from the arXiv preprint, v1;
+  worth reading as a recent laboratory test of soliton formation from
+  initial data in a deep-water wave flume, with NLS and modified-NLS
+  simulation: a Gaussian packet with the width of the envelope soliton
+  disperses below the soliton's amplitude, travels nearly unchanged near
+  it, and focuses like a multi-soliton above it. Its limits: a short tank,
+  so the long-time fate, dispersal into radiation or settling into one or
+  more solitons, is anticipated, not observed; one width; amplitude
+  varied in eight steps. Filed beside Satsuma & Yajima (1974),
+  LIT-tmp4mmn1, as a laboratory case of formation from initial data.
+title: 'Nonlinear Reshaping of Gaussian Water Wave Packets'
+version: 1
+history:
+- version: 1
+  date: '2026-11-06'
+  note: >-
+    Registered and read on 2026-11-06 at the owner's suggestion that
+    soliton dynamics bear on the record's questions of individuation and
+    persistence (works chosen by the assistant), as a neighbour of Satsuma
+    & Yajima (1974), LIT-tmp4mmn1, for formation from initial data. Not
+    found on Crossref: no journal version was found, so the citation rests
+    on the arXiv record: Zibo Zheng, Takuji Waseda, C. Martijn de Sterke,
+    Andrea Blanco-Redondo and Amin Chabchoub, arXiv:2609.03259v1
+    [nlin.PS], 3 September 2026, which is `published:`. Copy from
+    arxiv.org, text by pdftotext.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-11-06'
+published: '2026-09-03'
+arxiv: '2609.03259'
+first_author: 'Zheng'
+keywords:
+- 'nonlinear Schrödinger equation'
+- 'Gaussian wave packet'
+- 'envelope soliton'
+- 'water waves'
+- 'soliton formation'
+- 'laboratory experiment'
+implementations: []
+summary: >-
+  Zheng, Waseda, de Sterke, Blanco-Redondo & Chabchoub (2026). Gaussian
+  wave packets with the width of the NLS envelope soliton, launched in a
+  deep-water flume at amplitudes N = 0.36 to 1.8 times the soliton's, fall
+  into three regimes, matched by NLS (and, for strong focusing, modified
+  NLS) simulation: dispersion-dominated broadening at low N, nearly
+  stationary propagation near N = 1, over 1.07 dispersion lengths, and
+  focusing like a multi-soliton above. The long-time outcome, dispersal
+  into radiation or one or more solitons, is anticipated, not observed.
+---
+<!-- inactive-ok-file: LIT-tmp4mmn1 — Unavailable; cited from the reading of Zheng et al. (2026) as open -->
+
+# LIT-tmphqaz3: Nonlinear Reshaping of Gaussian Water Wave Packets
+
+Zheng, Z., Waseda, T., de Sterke, C. M., Blanco-Redondo, A. & Chabchoub, A. (2026). Nonlinear Reshaping of Gaussian Water Wave Packets. arXiv:2609.03259. ARXIV-2609.03259.
+
+## Key takeaways
+
+*From the reading, NOTE-tmpf3ajq.*
+
+- **Three regimes** (Results): with N the amplitude in units of the matched
+  soliton, dispersion-dominated at N = 0.36 and 0.6, quasi-stationary at
+  0.8 and 1.0, focusing/multi-soliton from 1.2 to 1.8.
+- **Near-soliton persistence** (Discussion): a matched Gaussian "can remain
+  nearly stationary over a propagation distance of" 1.07 L_D.
+- **Below the soliton** (Discussion): "gradual attenuation and an early
+  stage of reshaping during propagation for 0.5 < N < 1.0".
+- **Long-time fate, not observed** (Discussion): the envelope "will either
+  disperse completely into radiative wave components or evolve into one or
+  multiple solitons".
+
+## Standing in the record
+
+Filed as a laboratory neighbour of Satsuma & Yajima (1974), LIT-tmp4mmn1,
+for formation from initial data; it carries no part of that paper's
+formula, though it cites it. No THEORY is filed: the reader's report gives
+none, and the tank is too short to show the formation outcome. It shows
+that near the soliton's amplitude a non-soliton pulse travels nearly
+unchanged, and that a pulse well below it spreads, which is the laboratory
+face of a formation threshold without measuring one.
