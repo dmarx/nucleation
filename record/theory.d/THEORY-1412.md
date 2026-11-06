@@ -28,14 +28,14 @@ date: '2026-11-04'
 source:
 - LIT-2066
 summary: >-
-  Guigues, Kleywegt and Nascimento (2026), LIT-2066, read in full in
-  NOTE-1567. Active as one simulation study's finding, in an unrefereed
+  Guigues, Kleywegt and Nascimento (2026), [LIT-2066](../literature.d/LIT-2066.md), read in full in
+  [NOTE-1567](../notes.d/NOTE-1567.md). Active as one simulation study's finding, in an unrefereed
   preprint, with assumed allocation costs that the policy itself
   optimizes. It does not say the policy beats approximate dynamic
   programming, which was not compared, that it holds when ambulances are
   few relative to demand, where it lost, or that it gives the shortest
   response times, which it seldom did. Whether the result reproduces is
-  QUESTION-tmpfh08i.
+  [QUESTION-tmpfh08i](../questions.d/QUESTION-tmpfh08i.md).
 bears_on:
 - QUESTION-tmpfh08i
 ---

@@ -31,8 +31,8 @@ date: '2026-11-04'
 source:
 - LIT-2092
 summary: >-
-  De Oliveira, de Sá and Martins (2020), LIT-2092, read in full in
-  NOTE-1621. Active: the account reports the paper's models, and §§3–5
+  De Oliveira, de Sá and Martins (2020), [LIT-2092](../literature.d/LIT-2092.md), read in full in
+  [NOTE-1621](../notes.d/NOTE-1621.md). Active: the account reports the paper's models, and §§3–5
   contain them as stated. Relocation is a per-period allocation with no
   cost or limit, and bases once opened stay open. The coverage gains the
   abstract reports are not part of the account; the relocation gains it
