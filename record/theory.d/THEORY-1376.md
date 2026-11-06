@@ -60,3 +60,7 @@ Lawvere (1973; reprinted 2002), [LIT-2106](../literature.d/LIT-2106.md); read in
 - Anything about computing distances, or their complexity.
 - Anything about costs that depend on the order of operations or on a
   running reserve.
+
+## Note of 2026-11-06: what holds it back
+
+[NOTE-1585](../notes.d/NOTE-1585.md) is Skimmed: the 1973 introduction was read by eye from a scan with no text layer, so nothing in it is quoted or checked, and original pp. 143–166, where V-functors, the Yoneda embedding and Cauchy completion are specialized to metric spaces, were not read beyond two sampled pages. The missing result is a reading of those pages from a checkable text, which the promote_when asks for.

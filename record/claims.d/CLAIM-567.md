@@ -50,9 +50,8 @@ summary: >-
   separates. The construction is the filer's, from A's two separations;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-566 — Proposed; cited from the note on A's synthesis on DNA origami -->
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: THEORY-1423 THEORY-1418 THEORY-1427 THEORY-1409 CLAIM-571 CLAIM-562 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-1427 THEORY-1409 CLAIM-562 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-206 CASE-207 CASE-209 CLAIM-568 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 <!-- inactive-ok-file: NOTE-1572 NOTE-1555 NOTE-1584 NOTE-1613 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 

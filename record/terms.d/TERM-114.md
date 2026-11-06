@@ -1,10 +1,21 @@
 ---
 number: 114
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpr3hl8
 title: 'resource-bounded constraint system: architectures, the configurations and costed processes each admits, costed changes of architecture and the observations available, with reachability indexed by a partially ordered budget'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the twenty-fifth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its settle
+    condition, a claim of the record's own stated in it, is met by
+    CLAIM-560, CLAIM-563 and CLAIM-573. A paragraph, 'Which form', says
+    the term means A's six-part form and not the later eight-part form or
+    total category its notes record; no claim stated in it uses those. The
+    definition is otherwise unchanged.
 tags:
 - mathematics
 - complex-systems
@@ -29,7 +40,7 @@ summary: >-
   what an observer can detect. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-198 CASE-207 CLAIM-560 CLAIM-563 CLAIM-571 CLAIM-573 CLAIM-582 CLAIM-585 CLAIM-591 TERM-105 TERM-111 THEORY-1435 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-198 CASE-207 CLAIM-560 CLAIM-573 CLAIM-585 CLAIM-591 TERM-111 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-314 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-114: resource-bounded constraint system: architectures, the configurations and costed processes each admits, costed changes of architecture and the observations available, with reachability indexed by a partially ordered budget
@@ -78,6 +89,12 @@ Response 1's κ was already a vector: "κ(γ)= ( time, memory, energy,
 control precision )", so that "two algorithms can have the same
 computational complexity while requiring completely different amounts of
 physical energy or control."
+
+**Which form.** The term means the six-part form above. The later
+eight-part form and the total category of the notes below add structure,
+compatibility and correspondence, inquiry and constraint construction,
+that claims stated in this term do not use; a claim that needs one of them
+says so and cites the note.
 
 ## What it adds to what the record holds
 

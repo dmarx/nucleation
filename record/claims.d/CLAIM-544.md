@@ -47,7 +47,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed, Open, Deferred or new; cited as open -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-545 CLAIM-532 CLAIM-329 TERM-088 — Proposed, Open or new; cited as open -->
-<!-- inactive-ok-file: CLAIM-593 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-544: If a willed agent is the jurisdiction of its will-organization, then governing one's own governability is in part governing one's own individuation, in the constitutive sense of individuation at that level: a revision of the will-organization that changes which regimes it governs changes which willed agent there is, so a self-forming revision can be a re-individuation and not only a change in an agent's states, and whether the revised jurisdiction continues the earlier agent is a question of continuation, not of resemblance
 

@@ -1,10 +1,22 @@
 ---
 number: 595
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpiyvk1
-title: 'Persistence and nucleating productivity vary independently: two intermediates of an assembly can have the same expected residence time and different chances of reaching the target before failure, since the committor depends only on where a state''s exits lead and not on how fast it leaves, and an intermediate can persist while lowering the target''s chance of forming against an admissible alternative'
-version: 1
+title: 'Persistence and nucleating productivity in the committor sense vary independently: two intermediates of an assembly can have the same expected residence time and different chances of reaching the target before failure, since the committor depends only on where a state''s exits lead and not on how fast it leaves, and an intermediate can persist while lowering the target''s chance of forming against an admissible alternative'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-047 kind 3): the title began
+    "Persistence and nucleating productivity vary independently", and
+    the body concedes that the independence fails for success by a
+    deadline, so the title now says it holds in the committor sense.
+    Its one premise, TERM-117, was adopted in the same change; the
+    committor argument was followed and the deadline table re-run
+    (scratch/formal/dna_origami_toys.py, python3 -I).
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -43,9 +55,9 @@ summary: >-
   A's, with the assistant's proof; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-218 — Proposed or new; cited from the note on A's predictions -->
-<!-- inactive-ok-file: CLAIM-184 CLAIM-185 TERM-117 — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->
 
-# CLAIM-595: Persistence and nucleating productivity vary independently: two intermediates of an assembly can have the same expected residence time and different chances of reaching the target before failure, since the committor depends only on where a state's exits lead and not on how fast it leaves, and an intermediate can persist while lowering the target's chance of forming against an admissible alternative
+# CLAIM-595: Persistence and nucleating productivity in the committor sense vary independently: two intermediates of an assembly can have the same expected residence time and different chances of reaching the target before failure, since the committor depends only on where a state's exits lead and not on how fast it leaves, and an intermediate can persist while lowering the target's chance of forming against an admissible alternative
 
 ## The claim
 

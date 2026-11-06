@@ -1,10 +1,25 @@
 ---
 number: 563
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp7bxc0
 title: 'When process costs compose by a monotone operation, the processes costing at most b are closed under composition whenever b composed with itself is at most b, and not otherwise once two composable processes each cost b: at every budget for a peak capacity composed by maximum, and for a cumulative expenditure composed by sum only at budgets 0 and infinity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-fifth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). THEORY-1435 moves
+    from grounds to corroborated_by (ADR-058): the peak case is an
+    instance of Marsden and Zwart's quantale-enriched resource theories,
+    with max a step the readers took, and the argument does not use it.
+    THEORY-1376 leaves grounds: the body cites Lawvere for his additive
+    base, an attribution, and the reading of Lawvere is skimmed
+    (NOTE-1585, still cited in the body). Steps 1 to 5, the quantale check
+    and the reserve instance were re-derived at the review. TERM-105 and
+    TERM-114 are adopted in the same review. No objection is on file, and
+    nothing meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -25,9 +40,8 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
-grounds:
+corroborated_by:
 - THEORY-1435
-- THEORY-1376
 complements:
 - CLAIM-571
 - CLAIM-585
@@ -50,7 +64,7 @@ summary: >-
   that composes, as A proposes. The wording is A's, sharpened by the
   reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-571 CLAIM-585 NOTE-1585 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-585 NOTE-1585 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-590 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-563: When process costs compose by a monotone operation, the processes costing at most b are closed under composition whenever b composed with itself is at most b, and not otherwise once two composable processes each cost b: at every budget for a peak capacity composed by maximum, and for a cumulative expenditure composed by sum only at budgets 0 and infinity

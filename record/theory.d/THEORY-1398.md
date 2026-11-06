@@ -1,23 +1,40 @@
 ---
 number: 1398
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpivh27
-promote_when: >-
-  An experiment (time-resolved SAXS, fluorescence or arrested AFM) or an
-  independent simulation shows, in an accessible origami design, a collapse
-  into a locally ordered, globally disordered precursor before global
-  ordering, and, in a large interior-heavy design, trapped products with
-  defective interiors whose early folding progress does not predict the
-  final outcome.
-title: 'In mesoscopic simulation, DNA origami folds hierarchically: accessible structures collapse into a locally ordered precursor that then crystallizes, while larger structures with interior geometry are often caught in global topological traps that early progress does not predict'
-version: 1
+title: 'In mesoscopic simulation, DeLuca et al. find that DNA origami folds hierarchically, accessible structures collapsing into a locally ordered precursor that then crystallizes, while larger structures show frequent trapping in metastable states, among them a global topological trap, and early coalescence is not a perfect predictor of their final folding'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings; ADR-065, ADR-047): read in full in
+    NOTE-1561; the title read "In mesoscopic simulation, DNA origami
+    folds hierarchically: accessible structures collapse into a
+    locally ordered precursor that then crystallizes, while larger
+    structures with interior geometry are often caught in global
+    topological traps that early progress does not predict", which
+    dropped the source's hedge "not a perfect predictor" (kind 3, note
+    only). The promote_when, a demand for an experiment or an
+    independent simulation, moved word for word to QUESTION-tmpple9q.
+    It read: "An experiment (time-resolved SAXS, fluorescence or
+    arrested AFM) or an independent simulation shows, in an accessible
+    origami design, a collapse into a locally ordered, globally
+    disordered precursor before global ordering, and, in a large
+    interior-heavy design, trapped products with defective interiors
+    whose early folding progress does not predict the final outcome."
+    CLAIM-566 now lists it under corroborated_by, and it lists
+    CLAIM-566 under corroborates.
 tags:
 - natural-sciences
 - complex-systems
 date: '2026-11-05'
 source:
 - LIT-2081
+corroborates:
+- CLAIM-566
 summary: >-
   DeLuca, Duke, Ye, Poirier, Ke, Castro and Arya (2024), [LIT-2081](../literature.d/LIT-2081.md),
   read in [NOTE-1561](../notes.d/NOTE-1561.md). A simulation result, ten runs per design, in a
@@ -28,7 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1644 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
 
-# THEORY-1398: In mesoscopic simulation, DNA origami folds hierarchically: accessible structures collapse into a locally ordered precursor that then crystallizes, while larger structures with interior geometry are often caught in global topological traps that early progress does not predict
+# THEORY-1398: In mesoscopic simulation, DeLuca et al. find that DNA origami folds hierarchically, accessible structures collapsing into a locally ordered precursor that then crystallizes, while larger structures show frequent trapping in metastable states, among them a global topological trap, and early coalescence is not a perfect predictor of their final folding
 
 ## Source
 

@@ -1,10 +1,24 @@
 ---
 number: 528
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp1qybv
 title: 'That a mechanism realizes a capacity can mean that the capacity is produced through it over time or that the capacity consists in it at a time, and interventions show only the first: a pathway whose disabling changes the capacity after a delay is a cause, can be intervened on surgically, and can be located relative to a declared boundary, whereas every intervention on a capacity that consists in its parts also changes some part along another path, so that relation is underdetermined by intervention data and is inferred by abduction or from simultaneity and settled parthood; and which of the two a given dependence is depends on the time resolution at which a description treats the parts'' response as instantaneous'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings).
+    THEORY-1294 moves from grounds to corroborated_by (ADR-058): the
+    body cites No De-Coupling as one route to a synchronic
+    constitutive inference, and the claim's own directive says nothing
+    here rests on it; the underdetermination is THEORY-1288's and the
+    other route THEORY-1293's, both Active. CLAIM-480, THEORY-1288,
+    THEORY-1293 and CASE-189 are Active. No objection is on file, and
+    nothing in the record meets the defeat condition. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,8 +46,9 @@ rests_on:
 grounds:
 - THEORY-1288
 - THEORY-1293
-- THEORY-1294
 - CASE-189
+corroborated_by:
+- THEORY-1294
 complements:
 - CLAIM-522
 - CLAIM-515
@@ -53,7 +68,7 @@ summary: >-
   or that the record's organizations have constituents in the mechanists'
   sense.
 ---
-<!-- inactive-ok-file: CLAIM-515 CASE-163 THEORY-1294 LIT-1925 — Proposed, Open or Unfetched; neighbours and readings cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: CASE-163 THEORY-1294 LIT-1925 — Proposed, Open or Unfetched; neighbours and readings cited as open, nothing here rests on them -->
 
 # CLAIM-528: That a mechanism realizes a capacity can mean that the capacity is produced through it over time or that the capacity consists in it at a time, and interventions show only the first: a pathway whose disabling changes the capacity after a delay is a cause, can be intervened on surgically, and can be located relative to a declared boundary, whereas every intervention on a capacity that consists in its parts also changes some part along another path, so that relation is underdetermined by intervention data and is inferred by abduction or from simultaneity and settled parthood; and which of the two a given dependence is depends on the time resolution at which a description treats the parts' response as instantaneous
 

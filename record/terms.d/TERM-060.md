@@ -44,7 +44,6 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-147 CLAIM-187 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited in the note of 2026-10-21, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-586 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-060: frustration, of an organization's demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance
 

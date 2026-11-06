@@ -1,10 +1,23 @@
 ---
 number: 546
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp47w4i
 title: 'Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community''s need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings).
+    LIT-1219 leaves grounds: it is Unavailable, and Chesson's
+    criterion is cited for its definition, so the body citation is the
+    link (ADR-058). The Hawk–Dove computation was re-checked: the
+    payoff difference is (V − pC)/2, positive as p → 0, negative as p
+    → 1, zero at p* = V/C. THEORY-1048, THEORY-567 and CASE-118 are
+    Active. No objection is on file, and nothing in the record meets
+    the defeat condition. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,7 +40,6 @@ grounds:
 - THEORY-1048
 - THEORY-567
 - CASE-118
-- LIT-1219
 bears_on:
 - QUESTION-132
 summary: >-

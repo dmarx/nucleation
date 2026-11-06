@@ -29,7 +29,6 @@ summary: >-
   with high yield, that switching survives repeated cycles, or that the
   grid fractions are those in solution.
 ---
-<!-- inactive-ok-file: THEORY-1398 — Proposed; cited from the reading of Marras et al. (2015) as open -->
 
 # THEORY-1438: Marras, Zhou, Su and Castro show that DNA origami joints made of stiff double-stranded bundles connected only by single-stranded scaffold restrict thermal motion to one designed degree of freedom whose range and stiffness are set by connection length, that a crank–slider and a Bennett linkage assembled from such joints follow their rigid-body motion paths, and that the Bennett linkage, rarely found unaided in its higher-energy compacted state, is held there by added bridging strands and released by toehold-mediated strand displacement, each move taking about a minute
 

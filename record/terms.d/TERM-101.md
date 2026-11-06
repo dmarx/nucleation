@@ -21,7 +21,7 @@ summary: >-
   support when the conditions are met", is a grant's criterion.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
-<!-- inactive-ok-file: TERM-102 CLAIM-552 — Proposed, Open or new; cited as open -->
+<!-- inactive-ok-file: TERM-102 — Proposed, Open or new; cited as open -->
 
 # TERM-101: grant, between an organization's processes: a conferral that runs through a maintained relation of granting, delegation, eligibility or support, so that the effect on another's future influence is mediated by a relation the organization keeps; withdrawing it is revocation
 

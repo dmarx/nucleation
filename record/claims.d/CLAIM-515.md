@@ -1,10 +1,24 @@
 ---
 number: 515
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp85zgs
 title: 'Whether an organization has a cognitive property is four questions, not one: what information about the property can be recovered from its behaviour, what capabilities it can actually exercise, what mechanisms realize them, and whether it can maintain or transform those mechanisms; the four can come apart, and none should be silently substituted for another'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings).
+    Interpretive, with no premises. That the four questions can come
+    apart is shown by Active instances: CLAIM-513 (recoverable, not
+    shown realized), and CLAIM-414 and CLAIM-522 (matched trajectories
+    that do not show where maintenance is realized). The notes of
+    2026-11-01 say which sense of "realized" the third question means.
+    No objection is on file, and nothing in the record meets the
+    defeat condition. The summary's "Proposed and interpretive" now
+    reads "Interpretive". The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,10 +51,10 @@ summary: >-
   ability to maintain or transform those mechanisms." It was drawn from
   the world-model case ([CLAIM-514](CLAIM-514.md)) and judged "sufficiently general—and
   sufficiently testable—that it deserves an explicit place in Nucleation's
-  research program". Proposed and interpretive: its instances are
+  research program". Interpretive: its instances are
   demonstrated case by case, and the generalization is not.
 ---
-<!-- inactive-ok-file: CLAIM-474 CLAIM-523 — Proposed or Open; neighbours and the question it was drawn from, cited as open -->
+<!-- inactive-ok-file: CLAIM-474 — Proposed or Open; neighbours and the question it was drawn from, cited as open -->
 
 # CLAIM-515: Whether an organization has a cognitive property is four questions, not one: what information about the property can be recovered from its behaviour, what capabilities it can actually exercise, what mechanisms realize them, and whether it can maintain or transform those mechanisms; the four can come apart, and none should be silently substituted for another
 
@@ -84,7 +98,6 @@ look, not that they always come apart.
 
 ## Note of 2026-11-01: the "realized" question in the mechanism literature
 
-<!-- inactive-ok-file: CLAIM-530 — Proposed; the claim filed from this reading, cited as open -->
 
 - **Question 3, "realized".** Bechtel and Abrahamsen ([LIT-1936](../literature.d/LIT-1936.md),
   [THEORY-1290](../theory.d/THEORY-1290.md)) hold that a model posited to fit behaviour shows only
@@ -103,7 +116,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-01: two senses of "realized"
 
-<!-- inactive-ok-block: CLAIM-528 THEORY-1294 CLAIM-530 — Proposed or newly filed; the readings and claims that split this question, cited as context -->
+<!-- inactive-ok-block: THEORY-1294 — Proposed or newly filed; the readings and claims that split this question, cited as context -->
 The mechanistic-constitution readings of this date split this claim's
 third question, "what mechanisms realize those capabilities, shown by
 interventions that discriminate implementations".

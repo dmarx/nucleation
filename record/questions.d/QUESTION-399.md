@@ -25,9 +25,6 @@ summary: >-
   becomes one. The wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-600 — new; the assistant's synthesis on safe and hazardous support, cited as open -->
-<!-- inactive-ok-file: CLAIM-604 — new; readings and claims of the aid-dependency filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-597 — new; the assistant's claim on supplied regeneration, cited as open -->
-<!-- inactive-ok-file: CLAIM-566 TERM-117 — Proposed, Skimmed or new; entries cited as open -->
 
 # QUESTION-399: Under what conditions does a productive partial organization become a self-maintaining nucleus, one whose continued operation contributes to regenerating the very constraints that make its productive influence possible?
 

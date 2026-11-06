@@ -1,16 +1,38 @@
 ---
 number: 444
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp1xoac
-title: 'A replicator dynamic on the distribution of authority among an organization''s processes is the special case of the meaning–authority–legibility model in which the organization''s interpretation is the authority-weighted mixture of its processes'' and evidence reaches scoring without a maintained regime of its own; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply, and the record''s separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority'
-version: 2
+title: 'A replicator dynamic on the distribution of authority among an organization''s processes is the special case of the meaning–authority–legibility model in which the organization''s interpretation is the authority-weighted mixture of its processes'', evidence reaches scoring without a maintained regime of its own, and every process is scored on every step by one standard; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply to its expected motion, and the record''s separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority'
+version: 3
 history:
 - version: 2
   date: '2026-10-25'
   note: >-
     A dated note added: the response geometry of the mixture, filed as
     CASE-159. The claim is unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted by the twenty-fifth status review (ADR-057),
+    at the status review's ruling (the owner delegated these rulings).
+    The title read: "A replicator dynamic on the distribution of
+    authority among an organization's processes is the special case of
+    the meaning–authority–legibility model in which the organization's
+    interpretation is the authority-weighted mixture of its processes'
+    and evidence reaches scoring without a maintained regime of its
+    own; the replicator tools (Bayesian reading, potential and
+    harmonic games, stochastic stability) then apply, and the record's
+    separate interpretation and legibility states earn their place
+    exactly where interpretation departs from that mixture or
+    legibility keeps a memory of past authority". The note of
+    2026-10-24 found two more conditions the reduction needs, full-
+    information feedback and one scoring standard, and found that it
+    describes expected motion (THEORY-932, THEORY-938; NOTE-1140,
+    NOTE-1149). The title now states them. The wider form was a mis-
+    statement, and that note records it (ADR-047, kind 3). Every
+    premise is Active, no objection is on file, and nothing in the
+    record meets the defeat condition.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,10 +74,9 @@ illustrated_by:
 - CASE-157
 - CASE-159
 ---
-<!-- inactive-ok-file: CLAIM-534 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-451 — cited as the tools the reduction brings in -->
 
-# CLAIM-444: A replicator dynamic on the distribution of authority among an organization's processes is the special case of the meaning–authority–legibility model in which the organization's interpretation is the authority-weighted mixture of its processes' and evidence reaches scoring without a maintained regime of its own; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply, and the record's separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority
+# CLAIM-444: A replicator dynamic on the distribution of authority among an organization's processes is the special case of the meaning–authority–legibility model in which the organization's interpretation is the authority-weighted mixture of its processes', evidence reaches scoring without a maintained regime of its own, and every process is scored on every step by one standard; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply to its expected motion, and the record's separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority
 
 ## The claim
 

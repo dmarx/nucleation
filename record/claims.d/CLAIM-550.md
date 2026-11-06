@@ -1,10 +1,21 @@
 ---
 number: 550
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp8e3ye
 title: 'A perspective''s tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Status Proposed → Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057 and ADR-047's ruling on a
+    checked re-derivation. Re-derived at the review: with κ > 0 and σ
+    increasing, σ(κ(z − θ)) ≤ ε exactly when z ≤ θ + κ⁻¹ logit ε, and with
+    α > 0 that is d ≤ (θ + κ⁻¹ logit ε − b)/α; the bound rises with θ at
+    rate 1/α and is negative exactly when b > θ + κ⁻¹ logit ε. That
+    raising θ is not relief is CLAIM-347's, its one premise, Active.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,7 +55,6 @@ summary: >-
   derives them. The chain is the owner's. The wording is A's, sharpened by
   the reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-361 CLAIM-534 CLAIM-549 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-550: A perspective's tolerance of departure from what it maintains can be derived from its activation threshold: if its activation is z = b(c) + α(c)d, rising with discrepancy d (α > 0), and it acts with probability σ(κ(z − θ)), the discrepancy it tolerates while acting with probability at most ε is (θ + κ⁻¹ logit ε − b(c))/α(c); so one fixed threshold gives different tolerances across contexts through baseline and gain, a negative tolerance marks activation driven by something other than the discrepancy, and raising a threshold enlarges tolerance without relieving any demand
 

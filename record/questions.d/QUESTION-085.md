@@ -22,7 +22,6 @@ answered_by:
 - CLAIM-274
 ---
 <!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
-<!-- inactive-ok-file: CLAIM-604 — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-274 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 
 # QUESTION-085: Does a maintained r/place artwork feed back into the flow of repair that keeps it, so that it is self-maintaining like a candle flame, or is its defence supplied from outside like the heat under a convection cell, and does the answer change when its coalition starts switching strategies?

@@ -47,8 +47,7 @@ summary: >-
   become while leaving what observers see unchanged. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-574 — Proposed or Skimmed; cited from the further DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CASE-210 CLAIM-574 CLAIM-577 CLAIM-581 CLAIM-590 TERM-088 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
+<!-- inactive-ok-file: CASE-210 CLAIM-577 CLAIM-590 TERM-088 — Proposed or Skimmed; entries filed in this pull request, cited as open -->
 
 # CLAIM-557: More resource for observing splits what can be told apart, and more resource for acting merges what can be turned into one another, so a system's budgeted individuation runs in opposite directions from outside and from inside and is indexed by a pair of budgets, not one
 

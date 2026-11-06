@@ -27,7 +27,7 @@ summary: >-
   simultaneous whole–part dependence, not about a diachronic cause inside
   a system, which can be intervened on surgically.
 ---
-<!-- inactive-ok-file: CLAIM-515 LIT-1933 LIT-1925 CLAIM-528 THEORY-1294 — Open, Proposed or Unfetched; cited as open -->
+<!-- inactive-ok-file: LIT-1933 LIT-1925 THEORY-1294 — Open, Proposed or Unfetched; cited as open -->
 
 # THEORY-1288: If a mechanism's behaviour supervenes on its constituents' behaviours and constitution is not causal, every cause of that behaviour is also a cause of some constituent along another path, so no intervention can change the whole without separately changing a part; mutual manipulability by ideal interventions is then unsatisfiable, and once interventions are relaxed to admit these common causes, every model with constitutive dependence has a model without it that implies the same correlations under every manipulation, even in ideal experimental conditions
 

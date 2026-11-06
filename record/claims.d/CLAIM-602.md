@@ -1,16 +1,42 @@
 ---
 number: 602
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpoh07b
-title: "Where an organization's capacity is learned by doing the work it serves, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply"
-version: 1
+title: "Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply"
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057 and ADR-058. The disuse term it
+    took from CLAIM-558 is now a stated condition, so CLAIM-558
+    moves from rests_on to complements, a demonstrated conclusion
+    that borrows a premise's framing being conditional. The readings
+    it grounded on are prior art, instances or the readings' form of
+    the assumption, and move to corroborated_by, except THEORY-1463,
+    cited only for what the model leaves out, which takes no edge.
+    The steady state is said to need τC* ≥ 1 − A, in the defeated_if
+    and in claim 1, since for small τ the model settles elsewhere.
+    Old title: 'Where an organization's capacity is learned by doing
+    the work it serves, outside supply that does the work first
+    lowers the capacity kept, and the longer it does all of it the
+    longer recovery takes once it stops, while supply that covers
+    only what the organization cannot yet do leaves its learning
+    untouched, so what decides dependence is the order in which
+    supply and capacity are used, not the amount of supply'. The
+    twenty-fifth status review re-ran
+    scratch/formal/supplied_maintenance_toys.py and checked the
+    shortfall figures it does not assert.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   An error in the model: capacity C with dC/dt = λP(1 − C) − μC, where P
   is the work the organization does, that does not settle at
-  λ(1 − A)/(λ(1 − A) + μ) when outside supply A < 1 does the work first;
+  λ(1 − A)/(λ(1 − A) + μ) when outside supply A < 1 does the work first
+  and the organization's output at that capacity covers its share,
+  τC* ≥ 1 − A;
   whose time to meet demand after full substitution stops does not grow
   with the substitution's length at rate μ/(λτ − μ); or that is lowered
   by supply which covers only 1 − τC. Not defeated by organizations whose
@@ -24,19 +50,17 @@ date: '2026-11-05'
 line:
 - readiness
 - realizability
-rests_on:
-- CLAIM-558
-grounds:
+corroborated_by:
 - THEORY-1483
 - THEORY-1460
 - THEORY-1459
 - THEORY-1480
 - THEORY-1481
-- THEORY-1463
 - THEORY-1492
 complements:
 - CLAIM-597
 - CLAIM-604
+- CLAIM-558
 bears_on:
 - QUESTION-398
 - QUESTION-386
@@ -65,11 +89,10 @@ summary: >-
   Azam et al.'s; the second and third are not in their paper. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-605 — new; the assistant's capability-trap claim, cited as open -->
-<!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-604 — Proposed or new; claims this one rests on or extends, cited as open -->
+<!-- inactive-ok-file: CLAIM-558 — Proposed; the claim this one complements, cited as open -->
 <!-- inactive-ok-file: NOTE-1647 — new; readings of the aid-dependency filing, cited as open -->
 
-# CLAIM-602: Where an organization's capacity is learned by doing the work it serves, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply
+# CLAIM-602: Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply
 
 ## The model
 
@@ -80,7 +103,8 @@ disuse:
 
   dC/dt = λP(1 − C) − μC.
 
-The disuse term is [CLAIM-558](CLAIM-558.md)'s: a capability not exercised decays. Two
+The disuse term is an assumption, stated in the claim's condition;
+[CLAIM-558](CLAIM-558.md) holds it for individual procedural skill. Two
 rules for using the supply A are compared.
 
 - **Substitution: supply first.** The supply does min(A, 1) and the
@@ -98,7 +122,8 @@ C = 0.769, an output of 1.15, more than demand.
 ## The claim
 
 1. **Substitution lowers kept capacity in proportion to its share.** At a
-   steady share A < 1, C* = λ(1 − A)/(λ(1 − A) + μ): 0.625 at A = 0.5 and
+   steady share A < 1, C* = λ(1 − A)/(λ(1 − A) + μ), while the organization's output covers its
+   share, τC* ≥ 1 − A, as it does at these parameters: 0.625 at A = 0.5 and
    0.25 at A = 0.9. Service is whole throughout, so nothing looks wrong
    while the supply continues. This is not new. In Azam et al.'s model kept
    experience is the revenue collected over its decay rate, which falls

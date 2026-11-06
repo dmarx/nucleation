@@ -68,3 +68,12 @@ Nothing new was measured; the paper is a review and agenda essay.
   (p. 308).
 - That the evidence for aid matches the evidence for oil.
 - What happens when aid tapers or stops.
+
+## Note of 2026-11-06: what holds it back
+
+A study with within-country identification of rent or aid inflows
+showing capacity or accountability following the revenue source; the
+reading has only Moore's review of cross-national correlations and
+European history, and for aid Moore allows the causation may run the
+other way. Splitting off "Moore argues that ..." would free no dependent
+today.

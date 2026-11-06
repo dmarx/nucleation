@@ -1,10 +1,21 @@
 ---
 number: 531
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpr242r
 title: 'Generative entrenchment does not by itself give organizational closure: an entrenched core, which later interactions depend on so that perturbing it is catastrophic and perturbing them tolerable, can sit at the root of an acyclic dependency order, and where interactions turn over such an order persists only while something outside supplies its core; an organization that is both entrenched and closed has a core containing a cycle of mutual maintenance, each interaction on which is itself core unless its share of the maintenance is redundant'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings).
+    LIT-1927 leaves grounds: it is Deferred, unread, and cited only as
+    Griesemer and Shavit report it, so the body citation is the link
+    (ADR-058). The rest of its footing, CLAIM-516, THEORY-1247 and
+    TERM-070, is Active. No objection is on file, and nothing in the
+    record meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,7 +39,6 @@ rests_on:
 - CLAIM-516
 grounds:
 - THEORY-1247
-- LIT-1927
 uses:
 - TERM-070
 complements:

@@ -68,11 +68,10 @@ summary: >-
   project realizable.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-465 CLAIM-552 TERM-006 TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
-<!-- inactive-ok-file: CLAIM-534 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
+<!-- inactive-ok-file: CLAIM-465 TERM-006 TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-545 LIT-1614 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency, and the claim that separates its quantity -->
-<!-- inactive-ok-file: CLAIM-582 CLAIM-589 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CLAIM-589 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # CLAIM-354: Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
 

@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpp8p4i
 title: 'Wu-wei is better read as control placed and timed where a system''s own dynamics do most of the work than as the absence of control: Ott–Grebogi–Yorke control of chaos is a formal instance, in which small perturbations timed by the system''s own wandering hold it on an unstable orbit, and the control, though small, continues for as long as the orbit is held; so reported effortlessness has at least three distinct sources, no conflict to override, conflict settled cheaply by learned accommodation, and conflict met as it arises by small well-timed feedback, which may feel alike and differ in mechanism'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    The grounds LIT-1997, LIT-1972 and LIT-1994 are removed at the status
+    review's ruling (the owner delegated these rulings), under ADR-058 and
+    the status-review README: each is Unavailable and no NOTE reads it,
+    and an unread work takes no edge. The body keeps the citations. No
+    status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,10 +33,6 @@ complements:
 - CLAIM-162
 - CLAIM-358
 - CLAIM-337
-grounds:
-- LIT-1997
-- LIT-1972
-- LIT-1994
 summary: >-
   The owner's U17 of the exchange "Assess SDT Coverage" (2026-11-02),
   quoting A16 on Ott–Grebogi–Yorke control: "that's very wu-wei". The
@@ -86,3 +91,7 @@ Ott, Grebogi and Yorke, Shinbrot et al. and Slingerland were all looked for and
 are Unavailable, so both the claim's formal instance and the source named in
 its defeater rest on unread works. OGY is one of PRL's milestone letters; if
 the APS makes those free it should be Unfetched.
+
+## Note of 2026-11-06: what holds it back
+
+The record has read no account of wu-wei: Slingerland ([LIT-1994](../literature.d/LIT-1994.md)) and Bruya ([LIT-910](../literature.d/LIT-910.md)) are Unavailable, so the sinological test its defeater names has not been run. Its formal instance, Ott, Grebogi and Yorke's method, is known here only second-hand ([LIT-1997](../literature.d/LIT-1997.md), [LIT-1972](../literature.d/LIT-1972.md), Unavailable). A reading of either would let the ruling be made.

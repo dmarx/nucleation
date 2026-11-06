@@ -50,7 +50,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CLAIM-560 CLAIM-567 NOTE-1584 NOTE-1613 TERM-114 THEORY-1407 THEORY-1413 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-560 CLAIM-567 NOTE-1584 NOTE-1613 THEORY-1407 THEORY-1413 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-583: Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability; and of two constraint languages both NP-complete to satisfy, navigation can be polynomial for one and PSPACE-complete for the other
 

@@ -30,7 +30,7 @@ summary: >-
   filer's, from A's time-for-peak example; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-571 CASE-210 TERM-105 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: CASE-210 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 
 # CASE-211: Time for peak capacity: two cells that each need one unit of power for one minute need a peak of 2 under a one-minute deadline and a peak of 1 under a two-minute one, unless a coupling between them forbids folding one before the other
 

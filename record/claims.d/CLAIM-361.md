@@ -1,10 +1,24 @@
 ---
 number: 361
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpq80iq
 title: 'Relief of an organization''s frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings).
+    THEORY-232 moves from grounds to corroborated_by (ADR-058): the
+    body cites Watson's decomposition-relative comparison as the half
+    of the principle that is his, and argues against his total, and
+    nothing here needs his measure to be stable across decompositions,
+    which is what keeps that reading Proposed. CLAIM-347, CLAIM-284,
+    CLAIM-287 and CASE-115 are Active. No objection is on file;
+    branching correspondence is QUESTION-123, which the defeat
+    condition excludes. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,8 +42,9 @@ rests_on:
 - CLAIM-284
 - CLAIM-287
 grounds:
-- THEORY-232
 - CASE-115
+corroborated_by:
+- THEORY-232
 summary: >-
   The owner's prompt, U38 of the exchange of 2026-10-17, on A37's line
   that deleting a demand "has changed the comparison problem": "it might
@@ -46,7 +61,7 @@ complements:
 - CLAIM-448
 ---
 
-<!-- inactive-ok-file: THEORY-232 — Proposed; open claims and readings this one rests on or extends, cited as open -->
+<!-- inactive-ok-file: THEORY-232 — Proposed; Watson's comparison, cited as the half of the principle that is his and as corroboration, not leaned on -->
 
 # CLAIM-361: Relief of an organization's frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands
 

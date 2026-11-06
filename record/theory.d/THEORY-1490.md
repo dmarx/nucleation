@@ -31,7 +31,7 @@ summary: >-
   filers; and it holds for Florida lottery players near the bankruptcy
   margin, with the mechanisms untested.
 ---
-<!-- inactive-ok-file: CLAIM-601 CLAIM-600 THEORY-1465 — Proposed or new; cited from the reading of Hankins, Hoekstra and Skiba (2011) as open -->
+<!-- inactive-ok-file: CLAIM-600 — Proposed or new; cited from the reading of Hankins, Hoekstra and Skiba (2011) as open -->
 
 # THEORY-1490: Hankins, Hoekstra and Skiba find that Florida lottery winners of 50,000 to 150,000 dollars were about half as likely as winners of under 10,000 dollars to file for bankruptcy in the two years after winning but more likely to file three to five years after, so that over five years no difference in bankruptcy was detected, and that the large winners who filed had similar net assets and unsecured debt, from which the authors conclude that large cash transfers postpone rather than prevent bankruptcy
 

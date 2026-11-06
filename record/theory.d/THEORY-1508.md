@@ -33,7 +33,6 @@ summary: >-
   transient, so this is persistence after the end of childhood exposure,
   not after support was withdrawn.
 ---
-<!-- inactive-ok-file: CLAIM-604 — Proposed, Skimmed or new; cited from the reading of Chetty, Hendren and Katz (2016) as open -->
 
 # THEORY-1508: Chetty, Hendren and Katz find, in the Moving to Opportunity experiment, that a housing voucher requiring a family in high-poverty public housing to move to a low-poverty tract for its first year raised the adult earnings of children who moved before age 13 by about 31% at ages 24 and over, that the gain fell by about $364 a year for each year of age at the move and was absent or negative for those who moved as teenagers, and that their parents’ earnings were unchanged however long they lived in lower-poverty areas; the authors conclude that the effect runs through the amount of childhood exposure, not through family income or exposure in adulthood
 

@@ -30,7 +30,7 @@ summary: >-
   official side withdraws. What it says of Ostrom (1996), [LIT-2140](../literature.d/LIT-2140.md),
   is his summary, not hers.
 ---
-<!-- inactive-ok-file: LIT-2140 CLAIM-600 CLAIM-597 — Unavailable, Proposed or new; cited from the reading of Evans (1996) as open -->
+<!-- inactive-ok-file: LIT-2140 CLAIM-600 — Unavailable, Proposed or new; cited from the reading of Evans (1996) as open -->
 
 # THEORY-1487: Evans holds that state-society synergy combines complementarity, in which government dependably supplies inputs citizens cannot produce and citizens supply local knowledge and labour, with embeddedness, in which officials keep everyday ties with the communities they serve, and that small-scale synergy is constructable even in class-divided societies under disorganized, authoritarian governance, the binding limit being scaling up rather than prior stocks of social capital
 

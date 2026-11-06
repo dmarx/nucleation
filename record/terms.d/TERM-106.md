@@ -30,8 +30,8 @@ summary: >-
   its use is the transition, which the output does not show. The wording
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-107 TERM-115 TERM-112 TERM-110 CLAIM-571 CLAIM-585 CLAIM-558 CASE-198 CASE-200 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
-<!-- inactive-ok-file: CASE-206 TERM-105 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: TERM-107 TERM-112 TERM-110 CLAIM-585 CLAIM-558 CASE-198 CASE-200 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: CASE-206 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 
 # TERM-106: reconfiguration slack: the temporary resources a system needs to move between two configurations it can each hold, beyond what holding either one requires, while keeping specified commitments
 
@@ -125,3 +125,7 @@ its endpoints' requirements is measured. Adopting it is the owner's call.
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 [CASE-206](../cases.d/CASE-206.md) gives a geometric instance, a slack of about 0.99, and shows the slack depends on the declared resource: under crease energy instead of footprint it is 0. [TERM-105](TERM-105.md) sorts resources by type where this term's three reserves sort them by purpose, so one reserve can be of several types. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Its uses do not yet share one sense: [CLAIM-577](../claims.d/CLAIM-577.md) measures slack against the current configuration alone, B*(q, q′) − r(q), not against the costlier endpoint as defined here, and [CLAIM-579](../claims.d/CLAIM-579.md)'s summary calls reconfiguration slack a field over configurations, which is where a reconfiguration reserve can be applied, not σ. The several-resource form, "the set of budgets that suffice, less what holding requires", is not yet defined, and no claim stated in the term has been adopted, its own settle condition.

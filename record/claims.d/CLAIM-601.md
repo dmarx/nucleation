@@ -1,10 +1,25 @@
 ---
 number: 601
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpit7m9
 title: "A savings buffer is a stock of time: where shocks must be absorbed or a household is ruined, an investment that pays only after a delay is worth taking only above a buffer that rises with the delay, so households with the same preferences decline profitable delayed investments below it, a choice that reads as impatience and is the right policy for survival by a deadline; covering needs through the delay buys the time"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057, once TERM-105 was adopted in the
+    same review. The claim names the types it means: the buffer is
+    TERM-105's replenishable reserve, and its depth sets a deadline.
+    CLAIM-595's distinction between eventual success and success by
+    a deadline is framing, so it moves from rests_on to complements;
+    THEORY-1462, a second route to the same choices, is a rival
+    account and takes no edge; THEORY-1465 and THEORY-1486, which
+    the model fits, move from grounds to corroborated_by (ADR-058).
+    The twenty-fifth status review re-ran
+    scratch/formal/deprivation_horizon_toy.py.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -24,17 +39,15 @@ date: '2026-11-05'
 line:
 - readiness
 - realizability
-rests_on:
-- CLAIM-595
 uses:
 - TERM-105
-grounds:
-- THEORY-1462
+corroborated_by:
 - THEORY-1465
 - THEORY-1486
 complements:
 - CLAIM-600
 - CLAIM-604
+- CLAIM-595
 summary: >-
   The assistant's, after the owner read Haushofer and Fehr's finding,
   that deprivation produces short-sighted choices, as decision-making
@@ -56,7 +69,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-595 CLAIM-600 CLAIM-604 TERM-105 — Proposed or new; claims and a term this one rests on or extends, cited as open -->
+<!-- inactive-ok-file: CLAIM-600 — Proposed; claims this one complements, cited as open -->
 
 # CLAIM-601: A savings buffer is a stock of time: where shocks must be absorbed or a household is ruined, an investment that pays only after a delay is worth taking only above a buffer that rises with the delay, so households with the same preferences decline profitable delayed investments below it, a choice that reads as impatience and is the right policy for survival by a deadline; covering needs through the delay buys the time
 

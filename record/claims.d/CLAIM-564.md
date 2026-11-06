@@ -46,7 +46,7 @@ summary: >-
   only at low budgets is a bundling forced by scarcity. The derivation is
   the reader's, from A's construction; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-212 CLAIM-586 NOTE-1593 THEORY-1379 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-212 NOTE-1593 THEORY-1379 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-564: Restricting the demand–configuration Galois connection to the configurations affordable at a budget gives implications among demands that are antitone in the budget: an implication valid at a budget is valid at every lower one, so as the budget rises the compatibility complex grows and the valid implications shrink, and a set of demands no affordable configuration meets implies every demand
 

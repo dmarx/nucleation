@@ -35,7 +35,7 @@ used_by:
 - CLAIM-336
 - CLAIM-375
 ---
-<!-- inactive-ok-file: CLAIM-552 CLAIM-553 TERM-006 TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-553 TERM-006 TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-120 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # TERM-053: endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case

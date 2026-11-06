@@ -47,8 +47,8 @@ summary: >-
   it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CLAIM-571 TERM-105 TERM-106 CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
-<!-- inactive-ok-file: CASE-199 TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
+<!-- inactive-ok-file: TERM-106 CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
 # CLAIM-569: A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it
 

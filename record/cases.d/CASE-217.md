@@ -1,10 +1,18 @@
 ---
 number: 217
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpj3cmd
 title: 'A four-state branching model of assembly, unassembled, productive nucleus, trap and folded, in which three designs with the same target yield 59.3, 76.2 and 29.6 %, and scaling every supply by the same factor leaves the yield unchanged only while the competing exits from each state have the same molecularity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): a construction (ADR-042) whose three designs,
+    uniform-scaling table and escapable-trap yields were re-run by a
+    second checker with python3 -I. Standing fictional is kept.
 standing: fictional
 kind: construction
 tags:
@@ -33,7 +41,7 @@ summary: >-
   extension is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-567 CLAIM-598 — Proposed or new; entries the model bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-567 — Proposed or new; an entry the model bears on, cited as open -->
 
 # CASE-217: A four-state branching model of assembly, unassembled, productive nucleus, trap and folded, in which three designs with the same target yield 59.3, 76.2 and 29.6 %, and scaling every supply by the same factor leaves the yield unchanged only while the competing exits from each state have the same molecularity
 

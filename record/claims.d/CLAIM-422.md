@@ -74,7 +74,6 @@ complements:
 supports:
 - CLAIM-462
 ---
-<!-- inactive-ok-file: CLAIM-587 — Proposed or new; A's proposals of 2026-11-04 on emergency readiness, cited as open -->
 <!-- inactive-ok-file: LIT-2088 — Unfetched; Tatel and Ackerman (2025), cited from the reading of 2026-11-04 as the article the dissertation precedes -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1424 CLAIM-558 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->

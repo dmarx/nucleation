@@ -1,20 +1,29 @@
 ---
 number: 1463
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2ece2
-promote_when: >-
-  Both (a) estimates of the growth of state implementation capability from
-  measures of function rather than perception, and robust to the assumed
-  starting level, confirm near-zero or negative rates for low-capability
-  states, such that reaching high capability would take centuries at those
-  rates; and (b) a credible comparison shows that organizations whose
-  legitimacy and support rest on adopted forms, or which are loaded with
-  tasks beyond their current capability, gain less implementation
-  capability than comparable organizations rewarded for performance or
-  loaded gradually.
 title: 'Pritchett, Woolcock and Andrews argue that many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and that the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the
+    authors argue, and NOTE-1678 reads the working paper in full.
+    Whether they are right moves to THEORY-tmpazcjr, which extends
+    this entry and keeps the old condition word for word: 'Both (a)
+    estimates of the growth of state implementation capability from
+    measures of function rather than perception, and robust to the
+    assumed starting level, confirm near-zero or negative rates for
+    low-capability states, such that reaching high capability would
+    take centuries at those rates; and (b) a credible comparison
+    shows that organizations whose legitimacy and support rest on
+    adopted forms, or which are loaded with tasks beyond their
+    current capability, gain less implementation capability than
+    comparable organizations rewarded for performance or loaded
+    gradually.'
 tags:
 - society-and-governance
 - social-science
@@ -24,13 +33,14 @@ source:
 summary: >-
   Pritchett, Woolcock & Andrews (2012 working paper; Journal of
   Development Studies 2013), [LIT-2164](../literature.d/LIT-2164.md), read in [NOTE-1678](../notes.d/NOTE-1678.md).
-  Proposed: the timescale is a linear extrapolation of perception-based,
+  Active as a report of the argument; the timescale is a linear extrapolation of perception-based,
   rescaled indicators (672 years for the bottom 15 at their pace since
   independence; a median ICRG rate of change of zero since 1985), and the
   two techniques are argued from three vignettes and a conceptual
   framework. Premature load bearing is defined but hardly developed. It
   does not say that capability cannot be built faster, nor what happens
   when external support is withdrawn.
+  Whether the argument holds is THEORY-tmpazcjr.
 ---
 
 # THEORY-1463: Pritchett, Woolcock and Andrews argue that many low-capability states, at their measured pace of improvement, would take centuries to millennia to reach high state capability, and that the persistence is sustained by two techniques: isomorphic mimicry, keeping legitimacy by imitating the forms of functional organizations without their function, and premature load bearing, loading fledgling organizations with tasks too complex too soon

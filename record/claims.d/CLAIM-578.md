@@ -48,7 +48,7 @@ summary: >-
   record it means that one organization's compatibility complex carries no
   complexity. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-575 NOTE-1555 NOTE-1572 NOTE-1584 TERM-105 THEORY-1372 THEORY-1375 THEORY-1380 THEORY-1407 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-575 NOTE-1555 NOTE-1572 NOTE-1584 THEORY-1375 THEORY-1380 THEORY-1407 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-578: Computational complexity belongs to a family of problems posed over configuration spaces, with an encoding and permitted operations, and not to a configuration space: one fixed finite space has none, and over the same instances finding a solution and navigating between solutions can fall in different classes
 

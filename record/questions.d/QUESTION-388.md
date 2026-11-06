@@ -26,8 +26,7 @@ summary: >-
   mechanical readings external; it does not ask what would make it the
   system's own. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-545 CLAIM-566 — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: TERM-114 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: CLAIM-545 — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
 
 # QUESTION-388: What distinguishes a programmable system from one that governs its own reconfiguration?
 

@@ -31,7 +31,7 @@ summary: >-
   the molecular instances of the descending side. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-185 CLAIM-594 CLAIM-595 — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->
 
 # CASE-218: A two-stage toy of nucleus stabilization, nucleation s/(1+s) and completion 1/(1+s²/4), whose final yield peaks at s ≈ 1.11 with 40.2 %, so that stabilizing the nucleus beyond the optimum makes it easier to form and lowers what forms
 

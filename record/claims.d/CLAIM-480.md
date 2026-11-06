@@ -230,7 +230,7 @@ realized by (A23 §XII).
 
 ## Note of 2026-11-01: the relaxation time decides whether a dependence counts as constitution or causation
 
-<!-- inactive-ok-block: CLAIM-528 LIT-1925 — Proposed or Unfetched; filed 2026-11-01, cited as context -->
+<!-- inactive-ok-block: LIT-1925 — Proposed or Unfetched; filed 2026-11-01, cited as context -->
 The constitution debate read today draws the line between constitution
 and causation at simultaneity. "Simultaneous changes cannot be causally
 related" (Baumgartner, Casini and Krickel, [NOTE-1494](../notes.d/NOTE-1494.md), p. 6), and a

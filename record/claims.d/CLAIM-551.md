@@ -1,10 +1,23 @@
 ---
 number: 551
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp99a8m
 title: 'Read in DBT''s sense, cognitive dysregulation is a consequence of emotion dysregulation, not a failure to allocate attention: a perspective with high gain, intense response and slow return to baseline has a small and lingering tolerance, can stay active when the current discrepancy no longer warrants it, and while active supplies the interpretation that governance acts on, so the effective will becomes mood-dependent; it predicts impairment that follows arousal and its slow decay, where the attentional reading predicts impairment that follows competing demand on a fixed budget'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Status Proposed → Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057, in the same change that
+    promotes CLAIM-550, its one premise. Its ground LIT-2005 stays:
+    NOTE-1539 is Skimmed, but it covers the pages the claim quotes, pp.
+    496 and 502. Nothing objects to it, and nothing on the record meets
+    its defeater: Linehan's 1987 paper and the manual (LIT-1221, LIT-1492)
+    are unread, and the claim does not say it is DBT's whole account.
+    Active asserts the reading and its mapping onto CLAIM-550's
+    parameters, which is the filer's, not that DBT's theory is true.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,7 +55,7 @@ summary: >-
   filer's. Both readings can stand: they put dysregulation at different
   loci. Adopting either is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-192 CLAIM-550 CLAIM-286 CLAIM-446 LIT-1221 LIT-1492 — Proposed, Unavailable, Open or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CASE-192 CLAIM-286 CLAIM-446 LIT-1221 LIT-1492 — Proposed, Unavailable, Open or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-551: Read in DBT's sense, cognitive dysregulation is a consequence of emotion dysregulation, not a failure to allocate attention: a perspective with high gain, intense response and slow return to baseline has a small and lingering tolerance, can stay active when the current discrepancy no longer warrants it, and while active supplies the interpretation that governance acts on, so the effective will becomes mood-dependent; it predicts impairment that follows arousal and its slow decay, where the attentional reading predicts impairment that follows competing demand on a fixed budget
 

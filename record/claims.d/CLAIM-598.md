@@ -1,10 +1,21 @@
 ---
 number: 598
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpt0fnx
-title: 'Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as DNA origami''s blocked single fold is by staple excess'
-version: 1
+title: 'Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as Majikes et al. report for a single DNA origami fold that excess staples block'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings; ADR-057, ADR-058): the title's last
+    clause read "as DNA origami's blocked single fold is by staple
+    excess", an empirical assertion in a demonstrated claim, carried
+    by THEORY-1457 (Proposed); it is now an attribution, and
+    THEORY-1457 corroborates the claim. CASE-217, its one premise, was
+    promoted in the same change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -31,6 +42,8 @@ bears_on:
 - QUESTION-380
 complements:
 - CLAIM-594
+corroborated_by:
+- THEORY-1457
 summary: >-
   The assistant's, from A's second synthesis on DNA origami, pasted by the
   owner on 2026-11-05. In A's branching model of assembly, the chance of
@@ -47,9 +60,9 @@ summary: >-
   abundance" is thus made exact. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-215 THEORY-1457 CASE-217 CLAIM-594 CLAIM-577 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
+<!-- inactive-ok-file: CASE-215 THEORY-1457 CLAIM-577 — Proposed or new; the model, the companion claim, the question it bears on, and the slack claim it qualifies -->
 
-# CLAIM-598: Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as DNA origami's blocked single fold is by staple excess
+# CLAIM-598: Whether more of every resource raises, leaves or lowers the chance that an assembly reaches its target depends, at each branch point, on whether the competing steps consume further resource: a branch whose steps all consume alike is unchanged by uniform abundance, and one where the wrong step consumes and the right one does not is made worse by it, as Majikes et al. report for a single DNA origami fold that excess staples block
 
 ## The claim
 

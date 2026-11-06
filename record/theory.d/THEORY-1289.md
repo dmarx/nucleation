@@ -29,7 +29,6 @@ summary: >-
   ideal intervention, cheap in a model and hard in vivo. It is not a test
   of where the system's boundary lies.
 ---
-<!-- inactive-ok-file: CLAIM-530 — Proposed; the claim that a boundary is presupposed, cited as open -->
 
 # THEORY-1289: In a dynamical model anchored to an identified mechanism, holding one part's variable fixed and finding that the phenomenon persists indicates that the part is not a component of the mechanism responsible for that phenomenon, as when Smolen et al. fixed CLOCK and circadian oscillation continued; the verdict is relative to the phenomenon and only as good as the model, and it decides which pathways the phenomenon needs, not which lie inside the system
 

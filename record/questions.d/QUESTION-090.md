@@ -32,7 +32,6 @@ bearing:
 - CLAIM-286
 - CLAIM-285
 ---
-<!-- inactive-ok-file: CLAIM-597 — new; the assistant's claim on supplied regeneration, cited as open -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-067 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

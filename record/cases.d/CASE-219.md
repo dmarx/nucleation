@@ -31,7 +31,7 @@ summary: >-
   annealing toy ([CASE-216](CASE-216.md)) runs one slice of it, with temperature in
   place of allocation. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-567 CLAIM-566 CASE-216 CLAIM-184 — Proposed or new; entries this study would test, cited as open -->
+<!-- inactive-ok-file: CLAIM-567 CLAIM-184 — Proposed or new; entries this study would test, cited as open -->
 
 # CASE-219: A proposed stochastic assembly study: hold a target organization fixed, vary the relative availability and the strength or arrangement of components at fixed total expenditure, and measure feasibility, the probability and time of assembly, kinetic traps, early intermediates and persistence
 

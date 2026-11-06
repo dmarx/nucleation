@@ -1,18 +1,29 @@
 ---
 number: 1465
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5v6r5
-promote_when: >-
-  An independent long-run study of a one-off productive-asset transfer to
-  poor households, in another setting or population, finds a non-concave
-  asset transition with an unstable threshold, with households placed
-  above it accumulating assets and moving into self-employment while those
-  below lose assets, and finds that this divergence survives controls for
-  baseline ability; or a design that randomizes transfer size, and so
-  which side of the threshold a household lands on, finds the same.
 title: 'Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor households in rural Bangladesh face an S-shaped asset transition with an unstable threshold near the value of a cow and a small complementary asset, so that a one-off asset transfer that lifts a household above it is followed by accumulation, a shift into self-employment and higher consumption over 11 years while one that leaves it below is followed by asset loss: a poverty trap set by initial wealth and indivisible inputs, not by lower ability or effort'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the
+    authors hold, and NOTE-1654 reads the accepted text in full. The
+    one discrepancy it names, the text's participation figure
+    against Table I, is not used by the title. The condition asked
+    for replication elsewhere, and it moves unchanged to
+    QUESTION-tmpgqd0u: 'An independent long-run study of a one-off
+    productive-asset transfer to poor households, in another setting
+    or population, finds a non-concave asset transition with an
+    unstable threshold, with households placed above it accumulating
+    assets and moving into self-employment while those below lose
+    assets, and finds that this divergence survives controls for
+    baseline ability; or a design that randomizes transfer size, and
+    so which side of the threshold a household lands on, finds the
+    same.'
 tags:
 - social-science
 - society-and-governance
@@ -27,7 +38,7 @@ summary: >-
   transfer, with randomized roll-out and 11 years of follow-up: the
   threshold is about 9,309 BDT, and the authors conclude "It is not their
   intrinsic characteristics that trap people in poverty but rather their
-  circumstances." Proposed: which side of the threshold a household lands
+  circumstances." Active as a report of the authors' finding; which side of the threshold a household lands
   on is set by non-random baseline assets, not by the randomization;
   health and stress are not ruled out; the asset came bundled with
   consumption support, health support and training; and crossing the

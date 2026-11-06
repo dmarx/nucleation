@@ -1,10 +1,19 @@
 ---
 number: 566
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp99w2g
 title: 'That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): THEORY-1398 moved from grounds to
+    corroborated_by (ADR-058), since the claim cites DeLuca et al. as
+    an instance and nothing in it rests on that account; its remaining
+    premise, TERM-070, is Active, and no objection is live.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -26,7 +35,7 @@ date: '2026-11-05'
 line:
 - realizability
 - distributed-agency
-grounds:
+corroborated_by:
 - THEORY-1398
 complements:
 - CLAIM-516
@@ -54,7 +63,6 @@ summary: >-
 <!-- inactive-ok-file: NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: LIT-2132 — Proposed, Unavailable or new; cited from the readings on correction, repair and replication -->
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: THEORY-1398 — Proposed; the account of DeLuca et al., cited as filed, nothing here rests on its being settled -->
 
 # CLAIM-566: That a form assembles, that it persists over a specified horizon and that the system regenerates it after turnover are three properties with separate probabilities, and a structure that assembles and persists without producing the constraints that would regenerate it does not show organizational closure
 

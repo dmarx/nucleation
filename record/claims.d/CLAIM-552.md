@@ -1,10 +1,22 @@
 ---
 number: 552
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpgjdby
 title: 'A perspective''s tolerance for another process''s contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective''s own, so inside its tolerance the perspective''s interventions raise the other''s share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Status Proposed → Active at the status review's ruling (the owner
+    delegated these rulings), under ADR-057, in the same change that
+    promotes CLAIM-534, the premise that alone held it back. CLAIM-347 and
+    its terms TERM-103, TERM-101, TERM-060 and TERM-064 are Active, and
+    nothing objects to it. Its tolerance is the acceptance sense, which
+    CLAIM-553 keeps apart from CLAIM-550's activation sense; CLAIM-550's
+    non-activation region is "not automatically an endorsement region",
+    which this claim does not contradict.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,7 +64,7 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-534 TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CLAIM-552: A perspective's tolerance for another process's contribution is its criterion for conferring influence on that contribution, set by its own priorities: tolerances are directed, and the discrepancy each measures is the perspective's own, so inside its tolerance the perspective's interventions raise the other's share of future influence and outside it they lower it; meeting the tolerance is necessary for that conferral where the criterion binds, and sufficient only for a grant, under a rule that grants influence on it
 

@@ -20,7 +20,7 @@ summary: >-
   A stabilizing mechanism makes each type limit itself more than it
   limits others, which is what lets a type recover from rarity.
 ---
-<!-- inactive-ok-file: CLAIM-547 LIT-1219 — Proposed or Unavailable; the claim that raises the question and Chesson's distinction, cited unread -->
+<!-- inactive-ok-file: LIT-1219 — Proposed or Unavailable; the claim that raises the question and Chesson's distinction, cited unread -->
 
 # QUESTION-371: Can a moral norm work among cooperating groups as a stabilizing mechanism does in coexistence theory, limiting a dominant group more than it limits its rivals so that a group reduced to rarity can increase again; and is that what separates norms that keep several groups in being from norms that serve only one group's internal cooperation?
 

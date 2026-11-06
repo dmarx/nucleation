@@ -24,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2105 — Unavailable; the paper the book stands in for, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-1620 — Skimmed; the reading the quotations come from -->
-<!-- inactive-ok-file: THEORY-1394 TERM-115 TERM-107 — Proposed; the hypercube account and the terms of the same filing, cited as filed -->
+<!-- inactive-ok-file: THEORY-1394 TERM-107 — Proposed; the hypercube account and the terms of the same filing, cited as filed -->
 
 # TERM-112: unit of last resort: a response unit kept out of routine assignment and dispatched only when every regular unit is busy, so its record of use measures congestion, not its worth
 

@@ -22,7 +22,6 @@ summary: >-
   suppression, and ordinary operation cannot tell which. Not shown: how
   often either occurs in persons or institutions.
 ---
-<!-- inactive-ok-file: CLAIM-550 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-364 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-129: The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears

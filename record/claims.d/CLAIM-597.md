@@ -1,10 +1,29 @@
 ---
 number: 597
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmps9wa1
-title: 'Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both show'
-version: 1
+title: 'Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both illustrate'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: no premises, no live objection,
+    nothing meets its defeated_if; the twenty-fifth status review
+    re-derived the steady state, the supply needed for a share θ and
+    the decay on withdrawal, and checked the two instances against
+    NOTE-1636 and NOTE-1628, both Read. The instances' 'both show'
+    becomes 'both illustrate', since neither experiment withdrew the
+    supply. Old title: 'Where every replacement part is supplied
+    from outside, an organization can become independent of what
+    founded it but never of what feeds it: with damage at rate d and
+    supplied repair at rate ρs the intact fraction holds at ρs/(ρs +
+    d), needs a supply growing as θ/(1 − θ) times the damage rate to
+    hold a share θ, and decays as e^(−dt) once the supply stops, as
+    DNA origami that self-heals from a strand pool and origami that
+    replicates from supplied monomers both show'
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,10 +70,10 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-600 NOTE-1659 — new or Skimmed; the revised synthesis and a reading of the counterpoint filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-602 CLAIM-604 NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-566 LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
+<!-- inactive-ok-file: NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
+<!-- inactive-ok-file: LIT-2132 — Proposed, Skimmed or new; entries cited as open -->
 
-# CLAIM-597: Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both show
+# CLAIM-597: Where every replacement part is supplied from outside, an organization can become independent of what founded it but never of what feeds it: with damage at rate d and supplied repair at rate ρs the intact fraction holds at ρs/(ρs + d), needs a supply growing as θ/(1 − θ) times the damage rate to hold a share θ, and decays as e^(−dt) once the supply stops, as DNA origami that self-heals from a strand pool and origami that replicates from supplied monomers both illustrate
 
 ## The claim
 

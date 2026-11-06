@@ -1,17 +1,25 @@
 ---
 number: 1481
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmphv65i
-promote_when: >-
-  A study with a credible comparison shows both (a) that organizations
-  whose external support is tied to adopting prescribed forms improve
-  measured performance less than comparable organizations whose support is
-  not so tied, and (b) that interventions run on the four PDIA principles
-  raise measured implementation capability relative to comparable
-  best-practice interventions.
 title: 'Andrews, Pritchett and Woolcock argue that when external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and that it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065: the title reports what the
+    authors argue, and NOTE-1664 reads the working paper in full.
+    Whether they are right moves to THEORY-tmp81fcw, which extends
+    this entry and keeps the old condition word for word: 'A study
+    with a credible comparison shows both (a) that organizations
+    whose external support is tied to adopting prescribed forms
+    improve measured performance less than comparable organizations
+    whose support is not so tied, and (b) that interventions run on
+    the four PDIA principles raise measured implementation
+    capability relative to comparable best-practice interventions.'
 tags:
 - society-and-governance
 - social-science
@@ -20,13 +28,13 @@ source:
 - LIT-2187
 summary: >-
   Andrews, Pritchett & Woolcock (2012 working paper; World Development
-  2013), [LIT-2187](../literature.d/LIT-2187.md), read in [NOTE-1664](../notes.d/NOTE-1664.md). Proposed: the mechanism is
-  argued from examples (an education project series, procurement reform in
+  2013), [LIT-2187](../literature.d/LIT-2187.md), read in [NOTE-1664](../notes.d/NOTE-1664.md). Active as a report of the argument; the mechanism is argued from examples (an education project series, procurement reform in
   Liberia and Afghanistan, an invented textbook case) and from the
   literatures on institutional isomorphism and incremental change; the
   paper has no new data, and PDIA is not evaluated. It does not say how
   long a trap lasts (that estimate is the companion paper's), nor anything
   about own revenue, aid volume or what happens when aid is withdrawn.
+  Whether the argument holds is THEORY-tmp81fcw.
 ---
 
 # THEORY-1481: Andrews, Pritchett and Woolcock argue that when external funding and legitimacy are granted for adopting the forms of capable states (best-practice laws, agencies and procedures) rather than for demonstrated performance, recipient organizations engage in isomorphic mimicry, producing a capability trap in which state capability stagnates or declines while reform and aid continue, and that it is escaped by locally defined problem-solving through authorized experimentation, tight feedback and broad engagement (PDIA)

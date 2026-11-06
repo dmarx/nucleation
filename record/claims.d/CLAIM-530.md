@@ -1,10 +1,10 @@
 ---
 number: 530
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpg57ci
 title: 'Where maintenance is realized is a question of constitutive relevance only through its parthood condition: an internal producer and an outside controller supplying the same production law as state feedback meet mutual manipulability''s two manipulability conditions identically, since disabling or stimulating either changes the maintained capacities and intervening on the capacities changes the activity of either, so what puts one inside and the other outside is parthood, a boundary the experiments presuppose and do not find'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-01'
@@ -16,6 +16,22 @@ history:
     manipulability is taken as its successors and reviewers state it
     (LIT-832's body, LIT-1931's abstract), because neither Craver
     2007 text was reached.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted by the twenty-fifth status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings).
+    Version 1 kept it Proposed because mutual manipulability "is taken
+    as its successors and reviewers state it (LIT-832's body,
+    LIT-1931's abstract), because neither Craver 2007 text was
+    reached". Baumgartner and Gebharter, read in full in NOTE-1493,
+    state MM at p. 8 with the same three conditions, parthood among
+    them, and no discrepancy with Craver's text is named (ADR-065 §4).
+    The criterion is now cited as they state it; Craver's own texts
+    stay unread and take no edge. NOTE-1493 and NOTE-1494 record that
+    both successor accounts take parthood as given, so nothing meets
+    the defeat condition. Every premise is Active and no objection is
+    on file. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,8 +69,9 @@ summary: >-
   ([THEORY-1287](../theory.d/THEORY-1287.md)). In [CLAIM-522](CLAIM-522.md)'s pair the bottom-up and top-down
   interventions come out alike for producer and controller. So the
   criterion separates them only by its parthood clause, which is
-  [CLAIM-522](CLAIM-522.md)'s declared boundary. Proposed: the criterion's statement is
-  taken from secondary sources. It does not say no criterion can draw the
+  [CLAIM-522](CLAIM-522.md)'s declared boundary. The criterion is cited as Baumgartner and
+  Gebharter state it (LIT-1934, p. 8, read in full in NOTE-1493);
+  Craver's own texts stay unread. It does not say no criterion can draw the
   boundary. Closure, a producer that is itself maintained by what it
   produces, is a candidate that [CLAIM-522](CLAIM-522.md)'s one-variable model cannot
   express.
@@ -77,7 +94,11 @@ This is the criterion as [LIT-832](../literature.d/LIT-832.md) records it from r
 Craver, Glennan and Povich's abstract presupposes in defining
 constitutive relevance as being "parts of the mechanism responsible for
 that phenomenon" ([LIT-1931](../literature.d/LIT-1931.md)). The texts that state it were not
-reached.
+reached. The record cites the
+criterion as Baumgartner and Gebharter state it ([LIT-1934](../literature.d/LIT-1934.md), p. 8, read
+in full in [NOTE-1493](../notes.d/NOTE-1493.md)), in the same three conditions, parthood among
+them. Craver's own texts ([LIT-832](../literature.d/LIT-832.md), [LIT-1930](../literature.d/LIT-1930.md), [LIT-1931](../literature.d/LIT-1931.md)) stay unread and
+take no edge.
 
 **The pair.** This is [CLAIM-522](CLAIM-522.md)'s.
 - In system A, the capacities maintain themselves:

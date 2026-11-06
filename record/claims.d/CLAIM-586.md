@@ -1,10 +1,24 @@
 ---
 number: 586
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpuxuo4
-title: 'Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is frustrated at every budget, and one inside it but outside the complex at budget b is short of resources at b, not frustrated'
-version: 1
+title: 'Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is structurally frustrated at every budget, and one inside it but outside the complex at budget b is frustrated only relative to b, short of resources and not structurally frustrated'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Title made to say which sense of frustration it uses, and the claim
+    promoted, at the status review of 2026-11-06, at the status review's
+    ruling (the owner delegated these rulings), under ADR-057. TERM-060,
+    which this claim uses, holds that "a budget on admissible updates can
+    turn strain into frustration", relative to that budget, so the old
+    title's "not frustrated" contradicted the term for a face missing at b;
+    the body already called such frustration resource-relative. The
+    construction is unchanged. The old title: "Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is frustrated at every budget, and one inside it but outside the complex at budget b is short of resources at b, not frustrated". Its premises CLAIM-347
+    and TERM-060 are Active, no objection is filed, and nothing in the
+    record meets its defeater.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -50,7 +64,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-212 CLAIM-568 CLAIM-585 CLAIM-555 — Proposed; the case and claims filed beside this one from A's synthesis of 2026-11-04, and a held claim, cited as filed -->
 <!-- inactive-ok-file: NOTE-1593 CLAIM-564 CLAIM-583 CLAIM-578 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
-# CLAIM-586: Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is frustrated at every budget, and one inside it but outside the complex at budget b is short of resources at b, not frustrated
+# CLAIM-586: Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is structurally frustrated at every budget, and one inside it but outside the complex at budget b is frustrated only relative to b, short of resources and not structurally frustrated
 
 ## The claim
 

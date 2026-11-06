@@ -1,10 +1,21 @@
 ---
 number: 593
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpye2m2
 title: 'Isomorphism is not persistence, in either direction: two separately made mechanisms with the same costed transformation structure are isomorphic and still two, and one mechanism whose hinge is replaced can persist while its costed structure becomes non-isomorphic to the earlier one, so which morphisms count as continuations is structure added by assumptions about the domain, not read off the category'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): CASE-199 was promoted in the same change,
+    THEORY-032 is Active; the M′ table and the search over all six
+    bijections were re-run. The claim's opening paragraph now states
+    the stipulation its second direction rests on, that the mechanism
+    with its hinge replaced is the same mechanism, which before was
+    said only in the summary and the body's later example.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -54,7 +65,7 @@ summary: >-
   question of continuation, not of resemblance". The construction is the filer's, from
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-199 CLAIM-134 CLAIM-170 CLAIM-544 TERM-088 TERM-114 — Proposed; the record's open theses on structural identity and willed agents, its open term for the senses of individuation, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-134 CLAIM-170 CLAIM-544 TERM-088 — Proposed; the record's open theses on structural identity and willed agents, its open term for the senses of individuation, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-593: Isomorphism is not persistence, in either direction: two separately made mechanisms with the same costed transformation structure are isomorphic and still two, and one mechanism whose hinge is replaced can persist while its costed structure becomes non-isomorphic to the earlier one, so which morphisms count as continuations is structure added by assumptions about the domain, not read off the category
 
@@ -69,7 +80,11 @@ available transformations may change so much that the later mechanism is
 no longer isomorphic to the earlier one. Nevertheless, we might regard it
 as the same persisting physical object." So: "Structural isomorphism ⇏
 token identity, and token persistence ⇏ structural isomorphism. Yoneda
-doesn't remove this distinction."
+doesn't remove this distinction." The second direction rests on a
+stipulation: that the mechanism with its hinge replaced is the same
+mechanism. The claim shows that the costed structure does not decide
+this, so "can persist" means that persistence, so stipulated, is
+consistent with the loss of isomorphism.
 
 **Isomorphic and two.** Let 𝓜 be a category whose objects are mechanisms
 and whose isomorphisms are the isometries of their costed transformation

@@ -66,7 +66,6 @@ summary: >-
   for self-reliance. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-554 CLAIM-597 CLAIM-602 — Proposed or new; claims this one extends, cited as open -->
 <!-- inactive-ok-file: NOTE-1647 NOTE-1658 NOTE-1659 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
 
 # CLAIM-603: A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity
@@ -224,3 +223,12 @@ Supports. In Knack's estimates ([NOTE-1707](../notes.d/NOTE-1707.md)), aid's har
 ## Note of 2026-11-05: the readings on assistance and skill
 
 Two qualifications on incentives. Koedinger and Aleven's tutors put a designed cost on asking for help, and some learners game the system anyway ([NOTE-1708](../notes.d/NOTE-1708.md)). Macnamara et al. cite a crossover near 70 % automation accuracy, below which relying on the aid stops paying ([NOTE-1710](../notes.d/NOTE-1710.md)): the favoured loss depends on how reliable the supply is. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+The title still states the favoured loss generally, though the
+counterpoint readings it records ([NOTE-1685](../notes.d/NOTE-1685.md), [NOTE-1684](../notes.d/NOTE-1684.md), [NOTE-1669](../notes.d/NOTE-1669.md)) find
+no such response in poor households; the title should be narrowed to the
+organizational case it concedes. Its Samaritan's-dilemma ground
+([THEORY-1480](../theory.d/THEORY-1480.md)) is read only in part, and Moore's thesis ([THEORY-1459](../theory.d/THEORY-1459.md)) is
+not held.

@@ -1,10 +1,19 @@
 ---
 number: 105
-status: Proposed
+status: Active
 formerly:
 - TERM-tmp26wo4
 title: 'resource constraint, by type: a fixed stock, an instantaneous capacity, a rate limit, a cumulative expenditure, a replenishable reserve and a deadline, which bound different functions of a path and are not one budget'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the twenty-fifth status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). Its settle
+    condition, a claim of the record's own stated in it, is met by
+    CLAIM-563, CLAIM-569 and CLAIM-601, and each names which type it
+    means. The definition is unchanged.
 tags:
 - operations-research
 - control-theory
@@ -27,8 +36,8 @@ summary: >-
   equivalent problems." The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: TERM-106 TERM-107 CLAIM-571 CLAIM-585 CLAIM-558 CLAIM-569 CASE-211 CASE-200 CASE-205 CASE-201 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
-<!-- inactive-ok-file: TERM-114 NOTE-1585 CLAIM-563 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: TERM-106 TERM-107 CLAIM-585 CLAIM-558 CLAIM-569 CASE-211 CASE-200 CASE-205 CASE-201 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: NOTE-1585 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-105: resource constraint, by type: a fixed stock, an instantaneous capacity, a rate limit, a cumulative expenditure, a replenishable reserve and a deadline, which bound different functions of a path and are not one budget
 

@@ -33,7 +33,7 @@ summary: >-
   excluded. It shows a chosen cut in work while the stock is kept, not
   lost capability, and no threshold.
 ---
-<!-- inactive-ok-file: CLAIM-600 CLAIM-604 THEORY-1471 THEORY-1466 — Proposed; cited from the reading of Golosov et al. (2024) as open -->
+<!-- inactive-ok-file: CLAIM-600 THEORY-1471 THEORY-1466 — Proposed; cited from the reading of Golosov et al. (2024) as open -->
 
 # THEORY-1498: Golosov, Graber, Mogstad and Novgorodsky find, from US tax records of 90,731 state-lottery winners aged 21–64 with wins of at least $30,000 compared with later winners, that a windfall reduces work swiftly and persistently over the following five years, each dollar of annuitized unearned income lowering household pre-tax labour earnings by about 52 cents and raising consumption, imputed from the budget identity, by about 58 cents; that winners save and smooth most of the windfall, as imputed from their capital income; that the per-dollar earnings response rises with pre-win income and falls with prize size; and that wealth raises entry into low-profit self-employment but not into self-employment with profits above $15,000
 

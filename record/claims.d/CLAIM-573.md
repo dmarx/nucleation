@@ -52,7 +52,7 @@ summary: >-
   defeaters include that it may say no more than PSPACE-completeness
   already does. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-556 CLAIM-578 NOTE-1584 TERM-111 TERM-114 THEORY-1372 THEORY-1407 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-556 CLAIM-578 NOTE-1584 TERM-111 THEORY-1407 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-573: Families of constrained systems on different physical substrates may admit equivalent resource-bounded process structures under two-way resource simulation with bounded overhead, even where their configuration spaces and microscopic dynamics differ, and the classes so defined for feasibility, reachability, control and regeneration need not coincide
 

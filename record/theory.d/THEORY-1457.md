@@ -18,6 +18,8 @@ tags:
 date: '2026-11-05'
 source:
 - LIT-2133
+corroborates:
+- CLAIM-598
 summary: >-
   Majikes, Patrone, Kearsley, Zwolak and Liddle (2021), [LIT-2133](../literature.d/LIT-2133.md),
   read in [NOTE-1633](../notes.d/NOTE-1633.md) (main text, captions and tables; the supplement,
@@ -28,7 +30,6 @@ summary: >-
   whole-origami escape; it does not assert the escape, nor that the
   blocked state is a kinetic trap.
 ---
-<!-- inactive-ok-file: THEORY-1398 — Proposed, Unavailable, Skimmed or new; cited from the reading of Majikes et al. (2021) as open -->
 
 # THEORY-1457: Majikes, Patrone, Kearsley, Zwolak and Liddle find, in a single-fold DNA origami model with a topology-reporting fluorophore and quencher, that the folded-state yield after annealing rises with staple excess to a turnover between about 1x and 5x and then falls, below 50 % at high excess for fold distances of 131, 1187 and 3407 bases, independent of staple motif and unchanged by a twofold slower anneal, as an equilibrium model predicts when each fold domain can be occupied by a separate staple, the blocked state, with folded over blocked equal to the fold's j-factor over the free staple concentration; they propose, without testing it, that whole origami escapes this through cooperativity and strand displacement along a nucleation front
 

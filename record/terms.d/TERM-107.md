@@ -27,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-2076 — Unfetched; cited for its published abstract, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-2085 — Unavailable; Halfin and Whitt, cited through the neighbour that stands in for it -->
-<!-- inactive-ok-file: TERM-113 TERM-115 — Proposed; terms of the same filing, cited as filed -->
+<!-- inactive-ok-file: TERM-113 — Proposed; terms of the same filing, cited as filed -->
 <!-- inactive-ok-file: NOTE-1576 NOTE-1577 — Skimmed; the readings the account of Bogetoft and Hougaard and of the square-root rule comes from -->
 <!-- inactive-ok-file: THEORY-1401 THEORY-1421 THEORY-1416 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: TERM-106 CASE-200 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->

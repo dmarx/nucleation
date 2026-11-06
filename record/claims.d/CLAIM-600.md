@@ -99,7 +99,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2213 LIT-2212 — Unavailable; registered by the medicine filing, cited as open -->
 <!-- inactive-ok-file: LIT-2221 LIT-2220 — Unavailable; registered by the state-aid filing, cited as open -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; registered by the assistance filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
+<!-- inactive-ok-file: CLAIM-558 CLAIM-603 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
 
@@ -353,3 +353,10 @@ Read to fill a gap the supplied-maintenance filing left; the works were chosen b
 ## Note of 2026-11-06: Cohen and Levinthal, "Absorptive Capacity", read
 
 Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), support the condition that the party could do the work and did it throughout. On their account the capacity to use an outside input is built only by the party's own doing, so supply that replaces that doing leaves it unable to use later supply. They qualify the claim with lockout: withdrawal can do harm that the return of supply does not undo. "once a firm ceases investing in its absorptive capacity in a quickly moving field, it may never assimilate and exploit new information in that field, regardless of the value of that information" (p. 136), and it may not pay to rebuild "even after major advances in the field" (p. 137). The cause is expectations as well as a lost stock. The firm's beliefs about the field "will tend not to change over time", and catching up costs more later (p. 136). So for a capacity in a fast-moving, cumulative field, the claim's safe-withdrawal condition needs the party's own work to continue through and after withdrawal, not only before it. Lockout is argued from psychology and illustrations (Monsanto: "once off the technological escalator it's difficult to get back on", p. 137), not measured. No persistence or recovery after withdrawal is observed. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+It rests on [CLAIM-558](CLAIM-558.md), [CLAIM-603](CLAIM-603.md) and [CLAIM-566](CLAIM-566.md), none held: [CLAIM-558](CLAIM-558.md)
+waits on a full reading of Tatel, and [CLAIM-603](CLAIM-603.md) on narrowing its title
+to the organizational case. [CLAIM-597](CLAIM-597.md), [CLAIM-602](CLAIM-602.md) and [CLAIM-604](CLAIM-604.md) went
+Active in this pass.

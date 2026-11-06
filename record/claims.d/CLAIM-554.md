@@ -1,10 +1,26 @@
 ---
 number: 554
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpv67b2
-title: 'Niche differentiation matters to an organization''s development as possible relief of structural frustration among its constituents'' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves nothing, and specialization can relieve frustration where nothing competes'
-version: 1
+title: 'Niche differentiation matters to an organization''s development as possible relief of structural frustration among its constituents'' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves no structural frustration of the original demands, and specialization can relieve frustration where nothing competes'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted by the twenty-fifth status review (ADR-057),
+    at the status review's ruling (the owner delegated these rulings),
+    with CLAIM-361 in the same change. The title said "so lower
+    competitive intensity, the exclusion of a constituent or a
+    redistribution of influence relieves nothing"; the body's
+    governance case says a change of governance can relieve governance
+    frustration, so the clause now says "relieves no structural
+    frustration of the original demands", the scope the body argues.
+    The wider form was a mis-statement (ADR-047, kind 3). CLAIM-347,
+    CLAIM-361, CLAIM-369, CASE-115, CASE-118, CASE-119 and TERM-060
+    are Active. No objection is on file, and nothing in the record
+    meets the defeat condition.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -57,9 +73,9 @@ summary: >-
   dropped and the separation of coexistence from cooperation. The wording
   is A's, sharpened by the reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-361 CLAIM-546 CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
-# CLAIM-554: Niche differentiation matters to an organization's development as possible relief of structural frustration among its constituents' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves nothing, and specialization can relieve frustration where nothing competes
+# CLAIM-554: Niche differentiation matters to an organization's development as possible relief of structural frustration among its constituents' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves no structural frustration of the original demands, and specialization can relieve frustration where nothing competes
 
 ## The claim
 

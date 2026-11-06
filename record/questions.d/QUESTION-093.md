@@ -125,7 +125,7 @@ demonstrated twice: noise is closed, and closure does not compose
 
 ## Note of 2026-11-01: top-down influence without top-down causes
 
-<!-- inactive-ok-file: THEORY-1291 CLAIM-530 — Proposed; the readings and claim filed from the mechanism literature, cited as open -->
+<!-- inactive-ok-file: THEORY-1291 — Proposed; the readings and claim filed from the mechanism literature, cited as open -->
 
 Craver and Bechtel ([LIT-1928](../literature.d/LIT-1928.md), [THEORY-1291](../theory.d/THEORY-1291.md)) read the influence of
 a whole on its members as a mechanistically mediated effect. Members are

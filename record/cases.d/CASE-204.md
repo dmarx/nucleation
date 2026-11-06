@@ -39,7 +39,7 @@ summary: >-
   Adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1606 — Skimmed; Foschi, Hull and Ku, read in part -->
-<!-- inactive-ok-file: CLAIM-571 CLAIM-567 TERM-106 CASE-206 CASE-207 — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-567 TERM-106 CASE-206 CASE-207 — Proposed; the entries filed beside it on 2026-11-05, cited as filed, nothing here rests on their being settled -->
 
 # CASE-204: A positively curved origami vertex: its popped-up and popped-down states lie in components that no rigid, non-self-intersecting motion joins, so no budget reaches one from the other, and only widening the admissible moves reconnects them
 

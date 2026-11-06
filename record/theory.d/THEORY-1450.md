@@ -26,7 +26,6 @@ summary: >-
   device can revise its rule, which it cannot, nor anything about
   cycling, holding costs or clinical use.
 ---
-<!-- inactive-ok-file: THEORY-1398 — Proposed, Unavailable, Skimmed or new; cited from the reading of Douglas, Bachelet and Church (2012) as open -->
 
 # THEORY-1450: Douglas, Bachelet and Church built a DNA-origami barrel whose opening is governed by two aptamer locks forming a logical AND gate over cell-surface antigen inputs, so that the device stays closed and reconfigures to expose its payload only when both designated keys are present, with the key concentration needed to open set by the lock-duplex length, activation at about 10 pM for 16 to 23 bp against about 1 nM for 30 to 44 bp
 

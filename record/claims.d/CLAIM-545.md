@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpxpdqi
 title: 'Freedom of will, in the operational sense, is an agent''s governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another''s interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another''s capacity to govern those same relations, used or not'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings),
+    under ADR-058 and the status-review README: the ground LIT-1614 is
+    removed, since it is Unavailable and no NOTE reads it, and THEORY-988,
+    cited as the owner's analogy for separating legibility from efficacy,
+    moves from grounds to corroborated_by. The body keeps both citations.
+    No status change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,8 +49,7 @@ uses:
 - TERM-086
 complements:
 - CLAIM-352
-grounds:
-- LIT-1614
+corroborated_by:
 - THEORY-988
 bears_on:
 - QUESTION-364
@@ -58,8 +67,7 @@ summary: >-
   restored: the sense is operational, the claim is descriptive, and it is
   open to the manipulation objection.
 ---
-<!-- inactive-ok-file: CLAIM-534 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
-<!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-523 CLAIM-533 LIT-1614 TERM-086 THEORY-040 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-533 LIT-1614 TERM-086 THEORY-040 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-545: Freedom of will, in the operational sense, is an agent's governance of its own governability: the extent to which its own organization makes the relevant distinctions legible, gives the demands they raise practical efficacy, directs its transitions, and revises the relations that govern those three, including under another's interference; openness, sensitivity and controllability of outcomes each fall short of it, and domination is another's capacity to govern those same relations, used or not
 
@@ -159,3 +167,7 @@ A10 also proposed an "accommodation-profile set" of tolerances, cost bearers, le
 **The second appearance of a line.** A10 §2C's "Efficiency can conceal domination" is the second appearance of A29's line, recorded in the note of 2026-11-03 and not filed: "domination occurs when the power to define, conceal, or revise compatibility is exercised without effective accountability". It restates this claim's last clause. If it gets a code, it belongs as a revision of that clause.
 
 The wording of the axes is A's, sharpened by the reader; adopting them is the owner's call. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Three premises are Proposed, [CLAIM-354](CLAIM-354.md), [CLAIM-404](CLAIM-404.md) and [CLAIM-533](CLAIM-533.md), and so are [TERM-100](../terms.d/TERM-100.md) and [TERM-086](../terms.d/TERM-086.md), which it uses. Its other premises are Active, [CLAIM-523](CLAIM-523.md) among them since this review.
