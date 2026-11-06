@@ -6,7 +6,7 @@
 
 **Not yet judged** — filed because the question is real; no position taken on the answer.
 
-4 of 604 CLAIM documents. Back to the [full index](../README.md).
+4 of 605 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -33,6 +33,7 @@ summary: >-
   business units in 1975–1977, shows only that R&D intensity responds to
   the learning environment as the model predicts.
 ---
+<!-- inactive-ok-file: ADR-064 — Superseded by ADR-074, which keeps its rule unchanged; cited as the ruling in force when written -->
 <!-- inactive-ok-file: CLAIM-600 CLAIM-601 CLAIM-602 CLAIM-603 CLAIM-604 CLAIM-597 CLAIM-558 CLAIM-184 THEORY-142 THEORY-885 THEORY-tmpwegr1 THEORY-tmpngvdn THEORY-tmp6ihw6 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
 
 # NOTE-tmpraw7b: Cohen and Levinthal — Absorptive capacity

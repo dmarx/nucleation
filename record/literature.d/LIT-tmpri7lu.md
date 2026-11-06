@@ -11,7 +11,7 @@ status_note: >-
   PMID 932126, has no abstract). Other copies circulating online were not
   used, under a reader's brief that excluded copies that were neither the
   publisher's nor the authors'; their addresses were not recorded, and
-  whether ADR-064 admits them is not settled here. No neighbour was read for
+  whether ADR-074 admits them is not settled here. No neighbour was read for
   it: Koedinger and Aleven (2007), LIT-tmpm7tp8, read the same day on
   support that fades, do not cite it and carry none of its results. A
   browser fetch of Wiley's free copy is the cheapest way to read it. It

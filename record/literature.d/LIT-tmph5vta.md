@@ -7,7 +7,7 @@ status_note: >-
   site,
   https://ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf,
   was found on 2026-11-05 and not used, under a reader's brief that excluded
-  course copies; under ADR-064 a copy on a course page counts as a lawful
+  course copies; under ADR-074 a copy on a course page counts as a lawful
   copy. One fetch on 2026-11-06 failed TLS verification before any bytes
   were received: the server's chain ends at the emSign Root CA - G1, which
   neither this session's proxy bundle nor certifi holds, and the proxy
@@ -88,6 +88,7 @@ summary: >-
   gives are not known here. Here as the classic account of support that does
   the work and hands back the hard case, beside [CLAIM-558](../claims.d/CLAIM-558.md) and [CLAIM-600](../claims.d/CLAIM-600.md).
 ---
+<!-- inactive-ok-file: ADR-064 — Superseded by ADR-074, which keeps its rule unchanged; cited as the ruling in force when written -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-600 CLAIM-602 — Proposed; cited from the filing of Bainbridge (1983) as open -->
 
 # LIT-tmph5vta: Ironies of automation

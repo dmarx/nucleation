@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   read in full 2026-11-06 ([NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md)) from the SciSpace copy, a JSTOR
-  print stamped 2007, which [ADR-064](../decisions.d/ADR-064.md) counts as lawful; worth reading as the
+  print stamped 2007, which ADR-074 counts as lawful; worth reading as the
   paper that names absorptive capacity, grounds it in prior related
   knowledge built by a firm's own R&D, and argues that it is cumulative and
   path-dependent, so that a firm that stops investing in a fast-moving
@@ -73,6 +73,7 @@ summary: >-
   country-industry level by Griffith, Redding and Van Reenen (2004),
   [LIT-tmpzbgxy](LIT-tmpzbgxy.md).
 ---
+<!-- inactive-ok-file: ADR-064 — Superseded by ADR-074, which keeps its rule unchanged; cited as the ruling in force when written -->
 <!-- inactive-ok-file: CLAIM-600 CLAIM-602 CLAIM-603 THEORY-tmp6ihw6 THEORY-tmpwegr1 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
 
 # LIT-tmpwa0ib: Absorptive Capacity: A New Perspective on Learning and Innovation
