@@ -25,7 +25,6 @@ summary: >-
   filing and filed on the lead's reread of the paste. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1584 NOTE-1613 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # QUESTION-377: Can adding, removing, or reassigning organizational constraints cause a transition in the dimension or connectivity of the organization's feasible response space?
 

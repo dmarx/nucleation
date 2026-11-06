@@ -19,9 +19,9 @@ source:
 extends:
 - THEORY-1352
 summary: >-
-  The thesis Van Lange and Bergmann (2026), LIT-2002, propose, filed beside
-  the Active report THEORY-1352 by the twenty-seventh status review
-  (ADR-065, ADR-047 kind 1). Assembled from the authors' selection of
+  The thesis Van Lange and Bergmann (2026), [LIT-2002](../literature.d/LIT-2002.md), propose, filed beside
+  the Active report [THEORY-1352](THEORY-1352.md) by the twenty-seventh status review
+  ([ADR-065](../decisions.d/ADR-065.md), [ADR-047](../decisions.d/ADR-047.md) kind 1). Assembled from the authors' selection of
   laboratory and field work, with no new data and no pooled effect sizes;
   the stages are not tested together.
 ---
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Van Lange and Bergmann (2026), LIT-2002, pp. 547–555, read in NOTE-1537. What the paper proposes is THEORY-1352.
+Van Lange and Bergmann (2026), [LIT-2002](../literature.d/LIT-2002.md), pp. 547–555, read in [NOTE-1537](../notes.d/NOTE-1537.md). What the paper proposes is [THEORY-1352](THEORY-1352.md).
 
 ## What was actually shown
 

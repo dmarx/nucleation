@@ -25,7 +25,7 @@ summary: >-
   record's objects are constituted by its inquiry in any sense beyond
   [CLAIM-469](../claims.d/CLAIM-469.md)'s operational one, which is [CLAIM-476](../claims.d/CLAIM-476.md)'s unanswered defeater.
 ---
-<!-- inactive-ok-file: CLAIM-476 THEORY-1280 THEORY-1278 THEORY-1276 — Proposed; the claim this question would test and the readings it is drawn from, cited as open -->
+<!-- inactive-ok-file: CLAIM-476 THEORY-1280 THEORY-1278 — Proposed; the claim this question would test and the readings it is drawn from, cited as open -->
 <!-- inactive-ok-file: LIT-1648 — Unavailable; Simondon's book, quoted by the parent, unread here -->
 
 # QUESTION-366: Does an inquiry need the record of its own development to know its object, as Simondon's method and its organization-studies readers hold, or only to revise its conclusions, which is what the record has shown?

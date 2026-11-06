@@ -44,7 +44,7 @@ supports:
 - CLAIM-408
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-465 CLAIM-539 CLAIM-545 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
+<!-- inactive-ok-file: CLAIM-465 CLAIM-545 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-112: Bistable authority with a tilt: in ẇ = μw − w³ + h, with w the balance of authority between two regimes and h a higher-order volition favouring one, for μ > 0 the operative regime changes only when |h| passes 2μ^{3/2}/(3√3), so a sincere and efficacious higher-order volition can move the balance without moving the regime, and which regime operates depends on the path of h
 

@@ -22,8 +22,8 @@ source:
 extends:
 - THEORY-1341
 summary: >-
-  The account Jennings (2026), LIT-1963, proposes, filed beside the Active
-  report THEORY-1341 by the twenty-seventh status review (ADR-065, ADR-047
+  The account Jennings (2026), [LIT-1963](../literature.d/LIT-1963.md), proposes, filed beside the Active
+  report [THEORY-1341](THEORY-1341.md) by the twenty-seventh status review ([ADR-065](../decisions.d/ADR-065.md), [ADR-047](../decisions.d/ADR-047.md)
   kind 1). The criterion is inferred, not tested, and the stalemate
   mechanism is taken from one model, Voigt 2022.
 ---
@@ -33,17 +33,17 @@ summary: >-
 
 ## Source
 
-Jennings (2026), LIT-1963, §6, read in full in NOTE-1508. What the paper proposes is THEORY-1341.
+Jennings (2026), [LIT-1963](../literature.d/LIT-1963.md), §6, read in full in [NOTE-1508](../notes.d/NOTE-1508.md). What the paper proposes is [THEORY-1341](THEORY-1341.md).
 
 ## What was actually shown
 
-Nothing was measured. The dlPFC criterion is inferred from reviews saying prefrontal feedback is needed for maintained goals (pp. 31–32), and the stalemate mechanism is Voigt's model (NOTE-1517).
+Nothing was measured. The dlPFC criterion is inferred from reviews saying prefrontal feedback is needed for maintained goals (pp. 31–32), and the stalemate mechanism is Voigt's model ([NOTE-1517](../notes.d/NOTE-1517.md)).
 
 ## What this does not say
 
-- That the subject is non-reducible (THEORY-1314).
+- That the subject is non-reducible ([THEORY-1314](THEORY-1314.md)).
 - That attention so defined is free will.
 
 ## Note of 2026-11-06: what holds it back
 
-No intervention on dorsolateral prefrontal feedback during choices between equally valued options is in the record. The one model the stalemate mechanism comes from, Voigt's (NOTE-1517), allocates the stalemate-breaking attention bottom-up through the precuneus and reports the value update only as a correlation.
+No intervention on dorsolateral prefrontal feedback during choices between equally valued options is in the record. The one model the stalemate mechanism comes from, Voigt's ([NOTE-1517](../notes.d/NOTE-1517.md)), allocates the stalemate-breaking attention bottom-up through the precuneus and reports the value update only as a correlation.

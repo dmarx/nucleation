@@ -21,11 +21,11 @@ source:
 extends:
 - THEORY-1276
 summary: >-
-  The wide form of the reading in THEORY-1276, kept when the
-  twenty-seventh status review promoted that entry as a report (ADR-065;
-  ADR-047, kind 1). Iliadis (2013) and Bencherki & Iliadis (2021) assert
+  The wide form of the reading in [THEORY-1276](THEORY-1276.md), kept when the
+  twenty-seventh status review promoted that entry as a report ([ADR-065](../decisions.d/ADR-065.md);
+  [ADR-047](../decisions.d/ADR-047.md), kind 1). Iliadis (2013) and Bencherki & Iliadis (2021) assert
   that this is Simondon's view. Whether it is turns on his own text,
-  which the record holds only as Unavailable (LIT-1648, LIT-1900).
+  which the record holds only as Unavailable ([LIT-1648](../literature.d/LIT-1648.md), [LIT-1900](../literature.d/LIT-1900.md)).
 ---
 <!-- inactive-ok-file: LIT-1648 LIT-1900 — Unavailable; Simondon's own texts, whose reading would settle this -->
 
@@ -33,14 +33,14 @@ summary: >-
 
 ## Source
 
-Iliadis (2013), LIT-1911, pp. 10–13, read in NOTE-1485, and Bencherki &
-Iliadis (2021), LIT-1922, propositions 1 and 3, read in NOTE-1483. What
-these readers say is THEORY-1276, which this entry extends.
+Iliadis (2013), [LIT-1911](../literature.d/LIT-1911.md), pp. 10–13, read in [NOTE-1485](../notes.d/NOTE-1485.md), and Bencherki &
+Iliadis (2021), [LIT-1922](../literature.d/LIT-1922.md), propositions 1 and 3, read in [NOTE-1483](../notes.d/NOTE-1483.md). What
+these readers say is [THEORY-1276](THEORY-1276.md), which this entry extends.
 
 ## The claim
 
 That the account is Simondon's own: in *L'individuation psychique et
-collective* (LIT-1900) and the complete thesis (LIT-1648), information is
+collective* ([LIT-1900](../literature.d/LIT-1900.md)) and the complete thesis ([LIT-1648](../literature.d/LIT-1648.md)), information is
 "never a given thing" but exists between "two disparate realities", and
 it is the meaning that arises when an individuation makes them one
 system, with transduction as the operation that does it. Both readers

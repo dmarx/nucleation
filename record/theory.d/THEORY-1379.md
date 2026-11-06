@@ -25,10 +25,10 @@ date: '2026-11-05'
 source:
 - LIT-2083
 summary: >-
-  Ignatov (2015), LIT-2083, read in full in NOTE-1593, restating Wille 1982
-  and Ganter & Wille (LIT-344). Active: the tutorial gives the Basic Theorem
+  Ignatov (2015), [LIT-2083](../literature.d/LIT-2083.md), read in full in [NOTE-1593](../notes.d/NOTE-1593.md), restating Wille 1982
+  and Ganter & Wille ([LIT-344](../literature.d/LIT-344.md)). Active: the tutorial gives the Basic Theorem
   without proof; it, the Galois property and the closure form of
-  implications were re-derived for this reading (NOTE-1593). Implications
+  implications were re-derived for this reading ([NOTE-1593](../notes.d/NOTE-1593.md)). Implications
   hold relative to the given objects, not by logical entailment, and include
   vacuous ones. It does not say that a concept lattice's existence tells
   anything about the system it describes: every relation has one.
@@ -52,7 +52,7 @@ Ignatov (2015), [LIT-2083](../literature.d/LIT-2083.md); read in [NOTE-1593](../
 - **The Basic Theorem** (Theorem 1, p. 9): "Concept lattice B(G, M, I) is a
   complete lattice." and "In particular, L is isomorphic to B(L, L, ≤)."
   Stated with credit to Wille 1982 and Ganter & Wille; no proof given.
-  Re-derived in NOTE-1593 (the reader's, checked by the coordinator of
+  Re-derived in [NOTE-1593](../notes.d/NOTE-1593.md) (the reader's, checked by the coordinator of
   the twenty-seventh status review).
 - **Implications** (Definition 17, p. 15): A → B holds when A′ ⊆ B′, "i.e.,
   each object having all attributes from A also has all attributes from

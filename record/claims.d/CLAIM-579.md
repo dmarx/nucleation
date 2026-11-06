@@ -71,7 +71,7 @@ summary: >-
   carry. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-205 CASE-212 CLAIM-577 NOTE-1596 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: CASE-205 NOTE-1596 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # CLAIM-579: A reserve is described by where in a configuration space it can be applied, not only by how much there is: an organization can hold ample slack and still be pinned, when none of it can be brought to bear at the bottleneck of the transition it needs
 
@@ -108,8 +108,8 @@ varies.
 
 ## What it adds beyond nonfungibility
 
-A vector of separately held resources, as in CLAIM-585, says what kinds of
-resource there are; TERM-105's types, which sort constraints by what
+A vector of separately held resources, as in [CLAIM-585](CLAIM-585.md), says what kinds of
+resource there are; [TERM-105](../terms.d/TERM-105.md)'s types, which sort constraints by what
 function of a path they bound, are a different question. Location says where each can act. Two organizations with the same
 vector of reserves can differ in whether any of it reaches the bottleneck:
 trained staff on the wrong shift or in the wrong station, money that a rule

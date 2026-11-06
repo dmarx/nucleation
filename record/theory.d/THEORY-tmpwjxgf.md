@@ -11,12 +11,12 @@ source:
 extends:
 - THEORY-1277
 summary: >-
-  What Bencherki & Iliadis (2021) propose, read in full in NOTE-1483
-  from the authors' manuscript, split from THEORY-1277 by the
-  twenty-seventh status review on THEORY-1110's pattern (ADR-065), so
+  What Bencherki & Iliadis (2021) propose, read in full in [NOTE-1483](../notes.d/NOTE-1483.md)
+  from the authors' manuscript, split from [THEORY-1277](THEORY-1277.md) by the
+  twenty-seventh status review on [THEORY-1110](THEORY-1110.md)'s pattern ([ADR-065](../decisions.d/ADR-065.md)), so
   that a claim needing only the proposal can stand on it. Whether the
   description discriminates from a scaling-up account stays
-  THEORY-1277's question, Proposed.
+  [THEORY-1277](THEORY-1277.md)'s question, Proposed.
 ---
 <!-- inactive-ok-file: THEORY-1277 — Proposed; the account this is split from, which holds whether the description discriminates -->
 
@@ -24,9 +24,9 @@ summary: >-
 
 ## Source
 
-Bencherki & Iliadis (2021), LIT-1922, proposition 2 and manuscript pp.
-14–17, read in full in NOTE-1483 from the authors' manuscript. Bencherki
-(2017), LIT-1901, p. 780, read in NOTE-1482, says the same.
+Bencherki & Iliadis (2021), [LIT-1922](../literature.d/LIT-1922.md), proposition 2 and manuscript pp.
+14–17, read in full in [NOTE-1483](../notes.d/NOTE-1483.md) from the authors' manuscript. Bencherki
+(2017), [LIT-1901](../literature.d/LIT-1901.md), p. 780, read in [NOTE-1482](../notes.d/NOTE-1482.md), says the same.
 
 ## The proposal
 
@@ -48,7 +48,7 @@ universe" (p. 780).
 ## What this does not say
 
 - **That the proposal is right.** Whether the coexisting-levels
-  description discriminates from a scaling-up one is THEORY-1277's
+  description discriminates from a scaling-up one is [THEORY-1277](THEORY-1277.md)'s
   question.
 - **That there is no aggregation.** Whether some organizational outcomes
   are better explained as aggregates is not addressed.

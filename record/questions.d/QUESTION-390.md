@@ -28,7 +28,6 @@ summary: >-
   reconstructing the interior, and finally let the architecture change.
   The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-206 — Proposed; the degree-4 vertex filed on 2026-11-05, cited as filed, nothing here resting on its being settled -->
 
 # QUESTION-390: When origami modules are joined along shared boundaries, which constraint structures does the coupling generate, and does eliminating the interior creases leave a relation among boundary fold angles that the modules' own crease constraints can express, or one that needs higher arity, inequalities or history, and at what cost of representation and elimination?
 

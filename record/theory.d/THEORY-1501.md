@@ -30,7 +30,7 @@ summary: >-
   share the interaction property. The wording is the filer's, from the
   reader's report; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-2199 LIT-2210 TERM-088 — Unavailable or Proposed; cited from the reading of Zabusky & Porter (2010) as open -->
+<!-- inactive-ok-file: LIT-2199 LIT-2210 — Unavailable or Proposed; cited from the reading of Zabusky & Porter (2010) as open -->
 
 # THEORY-1501: In a conservative system a soliton is a solitary wave, held by a balance between nonlinearity and dispersion, that keeps its shape at constant speed and emerges from a collision with another soliton with its amplitude, shape and velocity unchanged except for a phase shift; the name and the numerical discovery come from Zabusky and Kruskal's 1965 solutions of the KdV equation, in which solitons arose from a sine-wave initial condition
 

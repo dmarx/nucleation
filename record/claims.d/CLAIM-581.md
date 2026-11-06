@@ -216,4 +216,4 @@ No status changes.
 
 ## Note of 2026-11-06: Claude, read
 
-Lawvere: "An R_cart-category is just an ultrametric space" (1973, p. 152; NOTE-1585), where R_cart is [0, ∞] with max as tensor and the metric spaces are his generalized ones, without symmetry, separation or finiteness. That is independent support for reading the peak-cost threshold as an extended pseudo-ultrametric. THEORY-1376 corroborates. No status change.
+Lawvere: "An R_cart-category is just an ultrametric space" (1973, p. 152; [NOTE-1585](../notes.d/NOTE-1585.md)), where R_cart is [0, ∞] with max as tensor and the metric spaces are his generalized ones, without symmetry, separation or finiteness. That is independent support for reading the peak-cost threshold as an extended pseudo-ultrametric. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.

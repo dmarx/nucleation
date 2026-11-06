@@ -24,7 +24,7 @@ date: '2026-11-05'
 source:
 - LIT-2027
 summary: >-
-  Schwerdtfeger (2014), LIT-2027, read in full in NOTE-1613. Active on that
+  Schwerdtfeger (2014), [LIT-2027](../literature.d/LIT-2027.md), read in full in [NOTE-1613](../notes.d/NOTE-1613.md). Active on that
   reading. The extended structural expressibility proof (Lemma 3.4) is the
   author's patch, checked at sketch level. It does not include the
   trichotomy for connectivity the paper also proves, which is read but not
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Schwerdtfeger (2014), [LIT-2027](../literature.d/LIT-2027.md); read in NOTE-1613. The work
+Schwerdtfeger (2014), [LIT-2027](../literature.d/LIT-2027.md); read in [NOTE-1613](../notes.d/NOTE-1613.md). The work
 corrected is Gopalan et al. (2009), [LIT-2114](../literature.d/LIT-2114.md).
 
 ## What was actually shown
@@ -59,10 +59,10 @@ corrected is Gopalan et al. (2009), [LIT-2114](../literature.d/LIT-2114.md).
   boundary moved.
 - The trichotomy for connectivity (P for CPSS sets, coNP-complete for the
   other safely tight sets, PSPACE-complete otherwise), which the paper
-  proves in §4, read in NOTE-1613 but not filed as an account.
+  proves in §4, read in [NOTE-1613](../notes.d/NOTE-1613.md) but not filed as an account.
 - Anything about formulas without constants, non-Boolean domains or other
   move sets.
 
 ## Note of 2026-11-06: Claude, read
 
-Schwerdtfeger is now read in full (NOTE-1613), §4 and §5 included. Examples 7, 8, 10 and 11 were checked by script (scratch/formal/gopalan_schwerdtfeger_checks.py): Example 7's relation is OR-free and not safely OR-free, but stays safely tight through its other two properties; RPSPA is tight and fails all three safe properties. Promoted under ADR-065.
+Schwerdtfeger is now read in full ([NOTE-1613](../notes.d/NOTE-1613.md)), §4 and §5 included. Examples 7, 8, 10 and 11 were checked by script (scratch/formal/gopalan_schwerdtfeger_checks.py): Example 7's relation is OR-free and not safely OR-free, but stays safely tight through its other two properties; RPSPA is tight and fails all three safe properties. Promoted under [ADR-065](../decisions.d/ADR-065.md).

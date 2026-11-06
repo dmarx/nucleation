@@ -124,7 +124,6 @@ within-module rates, by symmetry rather than modularity ([NOTE-1030](../notes.d/
 
 ## Note of 2026-11-01: closure is tested by the interventions the constitution debate allows
 
-<!-- inactive-ok-block: CLAIM-526 — Proposed; cited as context -->
 Baumgartner and Gebharter ([NOTE-1493](../notes.d/NOTE-1493.md), p. 20) note an asymmetry
 between levels. A whole's parts can be changed without the whole changing,
 since several micro states realize one macro state. The whole cannot be

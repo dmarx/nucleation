@@ -20,7 +20,6 @@ summary: >-
   which is the record's signal to give it a code. A candidate term is
   filed beside it, Proposed ([TERM-098](../terms.d/TERM-098.md)); this question asks what would settle it.
 ---
-<!-- inactive-ok-file: TERM-088 — Open or Proposed; the questions this sits between and the senses of individuation, cited as open -->
 
 # QUESTION-360: When does a learned distinction become a concept rather than a discriminator or a habit (by being reused systematically, transferring to counterfactual cases, integrating with other capacities, or being correctable), is the transition graded or categorical, and how is a concept told apart from the organization that realizes it and from the thing it is about?
 

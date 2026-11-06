@@ -19,7 +19,6 @@ summary: >-
   solved in general (the paper asserts it extends), nor that affine rules
   lose nothing.
 ---
-<!-- inactive-ok-file: CLAIM-354 — Proposed; the claim the information-basis result bears on -->
 
 # THEORY-1303: For an uncertain linear program, a decision fixed before the data are revealed must satisfy every realization at once (the robust counterpart, ∃ solution ∀ data), while a decision that may adjust after them need only have a feasible adjustment for each (the adjustable robust counterpart, ∀ data ∃ adjustment); the second is never more conservative and can be feasible where the first is not, the two coincide when each constraint's uncertainty is its own, and decisions may be restricted between them by what part of the data they read or by the form of the rule
 

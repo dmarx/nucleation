@@ -71,18 +71,18 @@ summary: >-
   not say that the agent picture is right, or that organizations are
   aggregates of members.
 ---
-<!-- inactive-ok-file: THEORY-1278 CLAIM-474 — Proposed; the reading whose refutation condition part 2 meets, and the synthesis it sits beside -->
+<!-- inactive-ok-file: THEORY-1278 — Proposed; the reading whose refutation condition part 2 meets, and the synthesis it sits beside -->
 
 # CLAIM-526: Describing persons and organizations as coexisting levels of one process removes the question of how already-constituted agents add up to a collective, but not the question of levels: whether a collective variable has dynamics of its own, closed against the activity that realizes it, can be decided on a process description that presupposes no agents, is sometimes decided no, and a closed collective variable can be an aggregate that coexists with its realization while keeping none of its members' distinctions
 
 ## The claim
 
-Bencherki, Brummans and Vézy (THEORY-tmpbp1q1) write that the problem of
+Bencherki, Brummans and Vézy ([THEORY-tmpbp1q1](../theory.d/THEORY-tmpbp1q1.md)) write that the problem of
 scaling from individual to collective agency "is only relevant ... when
 communication is regarded as an interaction between already-existing
 agents, operating at different levels, and vanishes the moment
 communication is viewed eventfully" (p. 1364). They rest it on Bencherki and
-Iliadis (THEORY-tmpwjxgf): entities "are not at different stages of
+Iliadis ([THEORY-tmpwjxgf](../theory.d/THEORY-tmpwjxgf.md)): entities "are not at different stages of
 individuation, but rather different informational levels that preserve
 all the characteristics of their organized components. An employee is not
 prior to the organization, nor is the organization an abstraction of its

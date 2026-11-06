@@ -28,7 +28,7 @@ date: '2026-11-05'
 source:
 - LIT-2106
 summary: >-
-  Lawvere (1973; TAC Reprints 2002), LIT-2106, read in full in NOTE-1585.
+  Lawvere (1973; TAC Reprints 2002), [LIT-2106](../literature.d/LIT-2106.md), read in full in [NOTE-1585](../notes.d/NOTE-1585.md).
   Its central base is additive; it also names R_cart, with max as tensor,
   whose categories are the ultrametric spaces. It does not say anything
   about algorithms, or about resources whose cost depends on the order of
@@ -72,7 +72,7 @@ Lawvere (1973; reprinted 2002), [LIT-2106](../literature.d/LIT-2106.md); read in
 - That every composition law gives an enriched category of this kind:
   Lawvere treats sum (R) and max (R_cart, p. 152). Reading max as a peak
   capacity, and the threshold as the free R_cart-category's hom, is the
-  record's (NOTE-1585, CLAIM-571).
+  record's ([NOTE-1585](../notes.d/NOTE-1585.md), [CLAIM-571](../claims.d/CLAIM-571.md)).
 - Anything about computing distances, or their complexity.
 - Anything about costs that depend on the order of operations or on a
   running reserve.
@@ -83,4 +83,4 @@ Lawvere (1973; reprinted 2002), [LIT-2106](../literature.d/LIT-2106.md); read in
 
 ## Note of 2026-11-06: Claude, read
 
-The 1973 article is now read in full (NOTE-1585), from an OCR transcription whose quoted passages were checked against the page images, which meets the hold-back of the note above. The reading adds what the skim missed: Lawvere gives the max base himself, R_cart, cartesian closed, with Hom(a, v) = v if v > a and 0 otherwise, and says that "all of our general results may be reinterpreted as applying to ultrametric spaces" (p. 152). The account therefore corroborates CLAIM-563, CLAIM-571, CLAIM-581 and CLAIM-590, none of which rests on it.
+The 1973 article is now read in full ([NOTE-1585](../notes.d/NOTE-1585.md)), from an OCR transcription whose quoted passages were checked against the page images, which meets the hold-back of the note above. The reading adds what the skim missed: Lawvere gives the max base himself, R_cart, cartesian closed, with Hom(a, v) = v if v > a and 0 otherwise, and says that "all of our general results may be reinterpreted as applying to ultrametric spaces" (p. 152). The account therefore corroborates [CLAIM-563](../claims.d/CLAIM-563.md), [CLAIM-571](../claims.d/CLAIM-571.md), [CLAIM-581](../claims.d/CLAIM-581.md) and [CLAIM-590](../claims.d/CLAIM-590.md), none of which rests on it.

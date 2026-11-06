@@ -64,7 +64,7 @@ a definition, what you have is a proposition" (p. 3).
 The record has checked that this is what Massumi says, in the form
 Bencherki, Brummans & Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1353) quote. Whether the account
 of affect itself is true, which is offered without evidence, is
-THEORY-tmpfgob7's question, Proposed.
+[THEORY-tmpfgob7](THEORY-tmpfgob7.md)'s question, Proposed.
 
 ## What this does not say
 

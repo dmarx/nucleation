@@ -75,7 +75,7 @@ Iliadis ([LIT-1911](../literature.d/LIT-1911.md), pp. 10–13) and Bencherki and
 propositions 1 and 3). Information is "never a given thing" but a disparity
 between two differently ordered domains, and its meaning is the new
 structure that transduction produces in resolving it. Bencherki, Brummans
-and Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1357, THEORY-tmpbp1q1) give it two senses:
+and Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1357, [THEORY-tmpbp1q1](../theory.d/THEORY-tmpbp1q1.md)) give it two senses:
 
 - a fact's meaning "depends on that fact's contribution to the
   constitution of a new field of relation";
@@ -133,7 +133,7 @@ action its meaning", [LIT-1902](../literature.d/LIT-1902.md) p. 1357) cannot.
   extends it ([NOTE-1485](../notes.d/NOTE-1485.md), his C2, weak). This claim says only that the
   readings' information is not what the order compares.
 - **That the readings are right.** They are conceptual, and whether
-  Simondon holds their account is THEORY-tmpw943u's question, Proposed.
+  Simondon holds their account is [THEORY-tmpw943u](../theory.d/THEORY-tmpw943u.md)'s question, Proposed.
 - **That the mapping is Simondon's.** It places two of his commentators'
   formulations. His text is unread here ([LIT-1648](../literature.d/LIT-1648.md), Unavailable), and the
   defeat condition names it as one place a counter could come from.

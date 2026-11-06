@@ -171,4 +171,4 @@ No status changes.
 
 ## Note of 2026-11-06: Claude, read
 
-Lawvere's example, given before "as the reading reports it", is checked verbatim against the page image of the 1973 article: "X(a, b) = work required to get from a to b in mountainous region X" (p. 138; NOTE-1585). No status change.
+Lawvere's example, given before "as the reading reports it", is checked verbatim against the page image of the 1973 article: "X(a, b) = work required to get from a to b in mountainous region X" (p. 138; [NOTE-1585](../notes.d/NOTE-1585.md)). No status change.

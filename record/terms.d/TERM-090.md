@@ -45,7 +45,7 @@ summary: >-
   Adopted 2026-10-29.
 ---
 <!-- inactive-ok-file: LIT-1660 — Unavailable; the work whose term the definition borrows, unread -->
-<!-- inactive-ok-file: CLAIM-474 CLAIM-478 — Proposed, Open or new; the entries this term serves -->
+<!-- inactive-ok-file: CLAIM-478 — Proposed, Open or new; the entries this term serves -->
 
 # TERM-090: effective boundary constraint, of a composite: the relation its interconnected parts impose on the variables an outside system can reach, once the interior is eliminated; approximately instantaneous or history-dependent, and, independently, possibly of a kind the parts' relations could not state
 

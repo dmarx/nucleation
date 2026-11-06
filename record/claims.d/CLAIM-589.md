@@ -64,7 +64,7 @@ summary: >-
   actuators depends on stiffness. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-194 THEORY-1432 THEORY-1390 NOTE-1596 — Proposed or Skimmed; an entry of 2026-11-05 from the same paste, the shared-actuator case and the readings' accounts, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-194 THEORY-1390 NOTE-1596 — Proposed or Skimmed; an entry of 2026-11-05 from the same paste, the shared-actuator case and the readings' accounts, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-589: A motion the constraints permit need not be one the available inputs can drive, and a motion the inputs can drive need not be cheap, reliable or sustainable: permitted directions, actuated directions and transitions achievable at acceptable cost are three objects, the second contained in the first at each instant, while over a horizon what is reachable can exceed what either spans at an instant
 

@@ -224,4 +224,4 @@ It takes the vertex's configuration space, two folding modes meeting only at the
 
 ## Note of 2026-11-06: Claude, read
 
-Lawvere states the Yoneda Lemma "for any closed V and any V-category A" (1973, p. 154; NOTE-1585), and says of R_cart, his max base, that "all of our general results may be reinterpreted as applying to ultrametric spaces" (p. 152). The internal hom used here, [a, b] = b if b > a and 0 otherwise, is his Hom for R_cart. So the max-enriched Yoneda step is a case of his theorem, and the filer's argument re-derives it; the body is corrected. THEORY-1376 corroborates. No status change.
+Lawvere states the Yoneda Lemma "for any closed V and any V-category A" (1973, p. 154; [NOTE-1585](../notes.d/NOTE-1585.md)), and says of R_cart, his max base, that "all of our general results may be reinterpreted as applying to ultrametric spaces" (p. 152). The internal hom used here, [a, b] = b if b > a and 0 otherwise, is his Hom for R_cart. So the max-enriched Yoneda step is a case of his theorem, and the filer's argument re-derives it; the body is corrected. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.

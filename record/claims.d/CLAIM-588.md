@@ -50,7 +50,7 @@ summary: >-
   touches frustration; the others act on its load and its consequences.
   The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1417 THEORY-1414 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-1414 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
 
 # CLAIM-588: Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first
 

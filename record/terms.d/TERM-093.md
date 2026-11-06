@@ -46,7 +46,6 @@ summary: >-
   sense was stated as the maps that wiring sets and not the joint
   behaviour they admit.
 ---
-<!-- inactive-ok-file: CLAIM-474 — Proposed, Open or new; the entries this term serves -->
 
 # TERM-093: correspondence structure, and how it is held: the maps that say which local states or descriptions of interacting systems count as agreeing, distinct from the physical coupling between them, and held as formed, discovered or adapted
 

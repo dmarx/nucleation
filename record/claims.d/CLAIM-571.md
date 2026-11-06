@@ -240,4 +240,4 @@ No status changes.
 
 ## Note of 2026-11-06: Claude, read
 
-Lawvere 1973 is now read in full (NOTE-1585). "Using max as the tensor is the readers' step", in the note of 2026-11-05, is corrected there: Lawvere gives R_cart, "u ⊗ v = max(u, v)" (p. 152), and his free V-category formula, the infimum over finite sequences of the tensor product of edge weights (p. 165), specialised to R_cart is B*. Reading max as a peak capacity is the record's. THEORY-1376 corroborates. No status change.
+Lawvere 1973 is now read in full ([NOTE-1585](../notes.d/NOTE-1585.md)). "Using max as the tensor is the readers' step", in the note of 2026-11-05, is corrected there: Lawvere gives R_cart, "u ⊗ v = max(u, v)" (p. 152), and his free V-category formula, the infimum over finite sequences of the tensor product of edge weights (p. 165), specialised to R_cart is B*. Reading max as a peak capacity is the record's. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.

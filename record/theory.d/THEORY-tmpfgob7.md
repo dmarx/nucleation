@@ -20,8 +20,8 @@ source:
 extends:
 - THEORY-1282
 summary: >-
-  The wide form of THEORY-1282, kept when the twenty-seventh status
-  review promoted that entry as a report (ADR-065; ADR-047, kind 1):
+  The wide form of [THEORY-1282](THEORY-1282.md), kept when the twenty-seventh status
+  review promoted that entry as a report ([ADR-065](../decisions.d/ADR-065.md); [ADR-047](../decisions.d/ADR-047.md), kind 1):
   Massumi's account of affect taken as true, not as reported. He offers
   it as a proposition, after Spinoza and Deleuze, with no evidence, and
   refuses its use as a criterion; whether it picks out anything an
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Massumi, interviewed by McKim, Inflexions 3 (2009), LIT-1905, pp. 1–3,
-read in NOTE-1488. What Massumi says is THEORY-1282, which this entry
+Massumi, interviewed by McKim, Inflexions 3 (2009), [LIT-1905](../literature.d/LIT-1905.md), pp. 1–3,
+read in [NOTE-1488](../notes.d/NOTE-1488.md). What Massumi says is [THEORY-1282](THEORY-1282.md), which this entry
 extends.
 
 ## The claim

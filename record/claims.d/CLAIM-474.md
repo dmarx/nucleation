@@ -222,7 +222,7 @@ entrench ([CLAIM-184](CLAIM-184.md)). The status and warrant are unchanged.
 
 ## Note of 2026-10-31: an account in which resolving incompatibility is individuation
 
-<!-- inactive-ok-block: THEORY-1276 THEORY-1277 THEORY-1278 CLAIM-526 — Proposed or new; the readings filed 2026-10-31 and the claim filed on them, cited as context -->
+<!-- inactive-ok-block: THEORY-1277 THEORY-1278 — Proposed or new; the readings filed 2026-10-31 and the claim filed on them, cited as context -->
 The Simondonian readings filed today ([THEORY-1276](../theory.d/THEORY-1276.md), [THEORY-1277](../theory.d/THEORY-1277.md))
 hold a position this claim denies, and do not argue for it.
 

@@ -27,7 +27,6 @@ summary: >-
   record holds nothing that measures it. It is the attribution
   [CLAIM-533](../claims.d/CLAIM-533.md) makes to Kane, now checked against his text.
 ---
-<!-- inactive-ok-file: CLAIM-533 — Proposed; the claim this attribution supports -->
 
 # THEORY-1329: On Kane's account, self-forming actions occur under motivational conflict, when tension moves the relevant brain regions away from thermodynamic equilibrium, "a kind of stirring up of chaos" that makes them sensitive to micro-indeterminacy at the neuronal level, so that the choice is undetermined
 

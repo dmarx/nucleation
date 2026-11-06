@@ -196,7 +196,7 @@ question is filed for it.
 
 ## Note of 2026-10-31: Simondon's signification at the measurement rung
 
-<!-- inactive-ok-block: THEORY-1276 THEORY-1278 — Proposed; the readings filed 2026-10-31, cited as context -->
+<!-- inactive-ok-block: THEORY-1278 — Proposed; the readings filed 2026-10-31, cited as context -->
 The Simondonian readings filed today ([THEORY-1276](../theory.d/THEORY-1276.md), [THEORY-1278](../theory.d/THEORY-1278.md))
 give an observer-free account of meaning, and it lands on this question's
 second rung and stops there.

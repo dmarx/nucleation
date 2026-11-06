@@ -31,7 +31,6 @@ summary: >-
   and reversion within the observed shocks cannot exclude thresholds
   beyond them.
 ---
-<!-- inactive-ok-file: THEORY-1461 — Proposed, Skimmed or new; cited from the reading of Davis and Weinstein (2002) as open -->
 
 # THEORY-1499: Davis and Weinstein find that the Allied bombing of Japanese cities in World War II, which destroyed almost half the structures in the 66 targeted cities, changed relative city size only temporarily: across 303 cities, 1947–60 population growth undid 1940–47 growth instrumented on deaths and buildings destroyed per capita one for one, or by about three-quarters once 1925–40 trend growth is controlled, and wholly by 1965, with Hiroshima and Nagasaki back on their prewar trends; the authors read this as rejecting random growth and as showing that spatial catastrophes from temporary shocks are not a central tendency, favouring locational fundamentals
 

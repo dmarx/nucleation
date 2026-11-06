@@ -17,10 +17,10 @@ source:
 extends:
 - THEORY-1427
 summary: >-
-  The generalization Chen and Santangelo (2018), LIT-2021, assert from
-  numerics, split from THEORY-1427 when the twenty-seventh status review
-  narrowed that reading to what was computed and proven (ADR-047 kind 1,
-  ADR-065). Proven only for Henneberg-1 triangulations, a vanishing fraction
+  The generalization Chen and Santangelo (2018), [LIT-2021](../literature.d/LIT-2021.md), assert from
+  numerics, split from [THEORY-1427](THEORY-1427.md) when the twenty-seventh status review
+  narrowed that reading to what was computed and proven ([ADR-047](../decisions.d/ADR-047.md) kind 1,
+  [ADR-065](../decisions.d/ADR-065.md)). Proven only for Henneberg-1 triangulations, a vanishing fraction
   of all.
 ---
 
@@ -28,11 +28,11 @@ summary: >-
 
 ## Source
 
-Chen and Santangelo (2018), LIT-2021, read in NOTE-1614 (main text in full, appendices skimmed).
+Chen and Santangelo (2018), [LIT-2021](../literature.d/LIT-2021.md), read in [NOTE-1614](../notes.d/NOTE-1614.md) (main text in full, appendices skimmed).
 
 ## What was actually shown
 
-What THEORY-1427 reports: the count of 2^Vi branches, two for each pair of a vertex popping pattern and its global reversal, found by numerical root-finding on random four-boundary-vertex triangulations with Vi from 2 to 8, with a few exceptions that contain triangulated triangles, and proven to all orders for triangulations built by Henneberg-1 moves. This entry asserts the count for generic triangulations.
+What [THEORY-1427](THEORY-1427.md) reports: the count of 2^Vi branches, two for each pair of a vertex popping pattern and its global reversal, found by numerical root-finding on random four-boundary-vertex triangulations with Vi from 2 to 8, with a few exceptions that contain triangulated triangles, and proven to all orders for triangulations built by Henneberg-1 moves. This entry asserts the count for generic triangulations.
 
 ## What this does not say
 

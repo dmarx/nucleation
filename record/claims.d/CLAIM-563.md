@@ -128,7 +128,7 @@ category it enriches is the infimum over paths of the largest cost along
 the path, [CLAIM-571](CLAIM-571.md)'s bottleneck budget B*. Lawvere's central base is
 addition, the "familiar additive shortest-path model" A names, and he also
 gives this one: R_cart, with max as tensor, a closed category whose
-categories are the ultrametric spaces (Lawvere 1973, p. 152; NOTE-1585).
+categories are the ultrametric spaces (Lawvere 1973, p. 152; [NOTE-1585](../notes.d/NOTE-1585.md)).
 
 **Order-dependent costs.** A: "For replenishable resources, the cost may
 even depend on the order of operations." The filer's instance: a reserve
@@ -168,4 +168,4 @@ The third paste of the pasted synthesis on resource-bounded realizability reache
 
 ## Note of 2026-11-06: Claude, read
 
-Lawvere 1973 is now read in full (NOTE-1585). "Lawvere's own base is addition" was half the story, and the body is corrected: R, with sum, is his "central example" (p. 145), and he also gives R_cart, "u ⊗ v = max(u, v)", cartesian closed, whose categories are the ultrametric spaces (p. 152). That a closed structure on [0, ∞] with max exists is therefore his statement, and the check that max distributes over infima is the closedness he asserts, since in a closed category the tensor preserves colimits in each variable (p. 141). The peak-capacity reading and the composition-at-budget argument stay the readers'. THEORY-1376 corroborates. No status change.
+Lawvere 1973 is now read in full ([NOTE-1585](../notes.d/NOTE-1585.md)). "Lawvere's own base is addition" was half the story, and the body is corrected: R, with sum, is his "central example" (p. 145), and he also gives R_cart, "u ⊗ v = max(u, v)", cartesian closed, whose categories are the ultrametric spaces (p. 152). That a closed structure on [0, ∞] with max exists is therefore his statement, and the check that max distributes over infima is the closedness he asserts, since in a closed category the tensor preserves colimits in each variable (p. 141). The peak-capacity reading and the composition-at-budget argument stay the readers'. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.

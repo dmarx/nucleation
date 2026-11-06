@@ -40,7 +40,7 @@ summary: >-
   what an observer can detect. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-198 CASE-207 CLAIM-573 CLAIM-585 TERM-111 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CASE-198 CASE-207 CLAIM-573 TERM-111 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-314 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-114: resource-bounded constraint system: architectures, the configurations and costed processes each admits, costed changes of architecture and the observations available, with reachability indexed by a partially ordered budget

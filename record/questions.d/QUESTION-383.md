@@ -26,7 +26,7 @@ summary: >-
   revises is open. No held question asks it. The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1374 THEORY-1427 THEORY-1389 THEORY-1414 THEORY-1419 THEORY-1399 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-1374 THEORY-1389 THEORY-1414 THEORY-1419 THEORY-1399 — Proposed; the readings' accounts, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: NOTE-1588 — Skimmed; Connelly and Whiteley, the reading the hierarchy comes from -->
 
 # QUESTION-383: Which aspects of FACT's freedom–constraint duality survive in nonlinear, stochastic, hybrid systems with endogenous constraints?

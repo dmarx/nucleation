@@ -121,7 +121,7 @@ supplies observations or a construction."
 
 ## Note of 2026-10-31: an augmented ability to act, with no target named
 
-<!-- inactive-ok-block: THEORY-1280 THEORY-1282 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
+<!-- inactive-ok-block: THEORY-1280 THEORY-1285 — Proposed; the readings filed 2026-10-31, cited as context -->
 Bencherki, Brummans and Vézy define agency as "the affective force that
 governs the transition from a lesser to an augmented ability to act"
 ([LIT-1902](../literature.d/LIT-1902.md), p. 1354; [THEORY-1280](../theory.d/THEORY-1280.md)). Massumi's definition, from
@@ -152,4 +152,4 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-06: what holds it back
 
-The two entries that use it name no mode: CLAIM-514 calls producing, maintaining and revising world-modeling capabilities "further achievements" without saying which mode each is, and CLAIM-545 cites only A26's line that freedom is an organizational achievement, with no target or mode. And the definition does not say whether revising a capacity is its reproductive mode, which includes "adapting the relations the capacity depends on", or, as QUESTION-362 says of a modeling repertoire, "a fourth thing, distinct from reproduction".
+The two entries that use it name no mode: [CLAIM-514](../claims.d/CLAIM-514.md) calls producing, maintaining and revising world-modeling capabilities "further achievements" without saying which mode each is, and [CLAIM-545](../claims.d/CLAIM-545.md) cites only A26's line that freedom is an organizational achievement, with no target or mode. And the definition does not say whether revising a capacity is its reproductive mode, which includes "adapting the relations the capacity depends on", or, as [QUESTION-362](../questions.d/QUESTION-362.md) says of a modeling repertoire, "a fourth thing, distinct from reproduction".

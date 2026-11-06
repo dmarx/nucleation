@@ -55,7 +55,7 @@ summary: >-
   Adopted 2026-11-06 at the status review's ruling.
 ---
 <!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
-<!-- inactive-ok-file: CLAIM-474 CLAIM-157 — Proposed, Open or new; the entries this term serves -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed, Open or new; the entries this term serves -->
 
 # TERM-088: individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
 

@@ -128,4 +128,4 @@ and from the phenomenology of the return.
 
 ## Note of 2026-11-06: what holds it back
 
-Metzinger's H1 and H3, blocking and restoring the epistemic agent model's introspective availability with an externally cued measure of the ability held fixed, are untested, and his own 2017 chapter (NOTE-1496) says the data cannot decide whether the representation constitutes, enables or only accompanies control.
+Metzinger's H1 and H3, blocking and restoring the epistemic agent model's introspective availability with an externally cued measure of the ability held fixed, are untested, and his own 2017 chapter ([NOTE-1496](../notes.d/NOTE-1496.md)) says the data cannot decide whether the representation constitutes, enables or only accompanies control.

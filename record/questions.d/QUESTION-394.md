@@ -22,8 +22,7 @@ summary: >-
   scarce unit is the last responder. The wording is A's; adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-561 TERM-109 CASE-213 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
-<!-- inactive-ok-file: CLAIM-577 — Proposed; the assistant's claim of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: CLAIM-561 CASE-213 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # QUESTION-394: How does the optimal threshold for provisionally committing a specialized resource vary with congestion, geography, available substitutes, assessment accuracy, and the cost of leaving other contingencies uncovered?
 

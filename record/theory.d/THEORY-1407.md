@@ -28,8 +28,8 @@ source:
 - LIT-2114
 - LIT-2027
 summary: >-
-  Gopalan et al. (2009), LIT-2114, read in full in NOTE-1584, with
-  Schwerdtfeger's correction (2014), LIT-2027, read in full in NOTE-1613.
+  Gopalan et al. (2009), [LIT-2114](../literature.d/LIT-2114.md), read in full in [NOTE-1584](../notes.d/NOTE-1584.md), with
+  Schwerdtfeger's correction (2014), [LIT-2027](../literature.d/LIT-2027.md), read in full in [NOTE-1613](../notes.d/NOTE-1613.md).
   Active on both readings; the SIAM version was not compared, since no
   discrepancy in a statement is named. The lead added the work, not A. It
   does not say that algebra is irrelevant to navigation (polymorphisms do
@@ -41,8 +41,8 @@ summary: >-
 
 ## Source
 
-Gopalan et al. (2009), [LIT-2114](../literature.d/LIT-2114.md), read in NOTE-1584; Schwerdtfeger
-(2014), [LIT-2027](../literature.d/LIT-2027.md), read in NOTE-1613.
+Gopalan et al. (2009), [LIT-2114](../literature.d/LIT-2114.md), read in [NOTE-1584](../notes.d/NOTE-1584.md); Schwerdtfeger
+(2014), [LIT-2027](../literature.d/LIT-2027.md), read in [NOTE-1613](../notes.d/NOTE-1613.md).
 
 ## What was actually shown
 
@@ -86,4 +86,4 @@ Both sources are Skimmed ([NOTE-1584](../notes.d/NOTE-1584.md), [NOTE-1613](../n
 
 ## Note of 2026-11-06: Claude, read
 
-Both sources are now read in full (NOTE-1584, NOTE-1613), so the hold-back of the note above is met. The hard side's proofs, Lemmas 3.4 to 3.7, were read; the Turing-machine reduction was checked for the functional-graph argument, and Lemma 3.7's path was rebuilt by script (scratch/formal/gopalan_schwerdtfeger_checks.py). Promoted under ADR-065. Whether a navigation dichotomy holds beyond Boolean single-flip languages stays with QUESTION-376.
+Both sources are now read in full ([NOTE-1584](../notes.d/NOTE-1584.md), [NOTE-1613](../notes.d/NOTE-1613.md)), so the hold-back of the note above is met. The hard side's proofs, Lemmas 3.4 to 3.7, were read; the Turing-machine reduction was checked for the functional-graph argument, and Lemma 3.7's path was rebuilt by script (scratch/formal/gopalan_schwerdtfeger_checks.py). Promoted under [ADR-065](../decisions.d/ADR-065.md). Whether a navigation dichotomy holds beyond Boolean single-flip languages stays with [QUESTION-376](../questions.d/QUESTION-376.md).

@@ -166,6 +166,6 @@ The pair rests on Gopalan et al.'s classification of positive 1-in-3 SAT and pos
 
 ## Note of 2026-11-06: Claude, read
 
-The PSPACE-hardness for positive NAE-3SAT (Gopalan et al. §§3.2–3.3) and Schwerdtfeger's §3 are read in full (NOTE-1584, NOTE-1613), so the hold-back of the note above is met. The filer's Post-lattice step was rechecked: neither relation is closed under conjunction, disjunction, majority or minority, and of the 64 idempotent ternary operations only the three projections preserve either relation (scratch/formal/gopalan_schwerdtfeger_checks.py).
+The PSPACE-hardness for positive NAE-3SAT (Gopalan et al. §§3.2–3.3) and Schwerdtfeger's §3 are read in full ([NOTE-1584](../notes.d/NOTE-1584.md), [NOTE-1613](../notes.d/NOTE-1613.md)), so the hold-back of the note above is met. The filer's Post-lattice step was rechecked: neither relation is closed under conjunction, disjunction, majority or minority, and of the 64 idempotent ternary operations only the three projections preserve either relation (scratch/formal/gopalan_schwerdtfeger_checks.py).
 
 One correction, made in the body: Gopalan et al. do not leave formulas without constants open for navigation. Their §5: "We can extend our dichotomy theorem for st-connectivity to CNF(S)-formulas without constants; the complexity of connectivity for CNF(S)-formulas without constants is open." Schwerdtfeger's §6 reports the st-connectivity and diameter dichotomies without constants from his thesis, which was not read. The claim's scope, "with constants", is unaffected.

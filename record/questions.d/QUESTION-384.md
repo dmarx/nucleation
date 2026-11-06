@@ -31,7 +31,7 @@ summary: >-
   disagreeing and the comparison worth making only for restricted
   profiles. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-573 CLAIM-590 QUESTION-008 TERM-111 TERM-116 — Proposed or Deferred; A's proposals of 2026-11-05 and the entries filed beside them, and the record's deferred question on approximate bisimulation, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-573 QUESTION-008 TERM-111 TERM-116 — Proposed or Deferred; A's proposals of 2026-11-05 and the entries filed beside them, and the record's deferred question on approximate bisimulation, cited as filed, nothing here resting on their being settled -->
 
 # QUESTION-384: For finite resource-graded transition systems, when do the distinctions drawn by enriched Yoneda profiles, restricted to declared probes, agree with those drawn by behavioural equivalence and bisimulation pseudometrics, and what does each remember that the other forgets?
 

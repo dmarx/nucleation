@@ -27,7 +27,6 @@ summary: >-
   stated, not shown. Proposed for want of a reproduction and a second
   system.
 ---
-<!-- inactive-ok-file: CLAIM-354 — Proposed; the claim the result bears on -->
 
 # THEORY-1336: In a cart-pole whose only given utility is 10-step empowerment, a controller that greedily picks the action leading to the more empowered successor balances the pole upright, though the states of highest empowerment lie off-centre and cannot be reached or sustained under the agent's own dynamics; what the agent can keep is not where empowerment is highest
 
