@@ -1,10 +1,20 @@
 ---
 number: 591
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpy685m
 title: 'Connectivity of the configurations affordable at a budget does not settle reachability among them: under directed moves a state can share a connected component with a target and have no admissible path to it, and the least budget for going from one configuration to another can differ from that for coming back, so a persistence summary of sublevel sets bounds the reachability filtration without fixing it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status review's ruling (the owner delegated these rulings).
+    THEORY-1434, THEORY-1376 and THEORY-1415 move from grounds to
+    corroborated_by (ADR-058): the body gives them as instances in the
+    readings, and both constructions and the necessary-condition step are
+    the claim's own, re-checked at the review. No objection is on file, and
+    nothing meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -22,7 +32,7 @@ date: '2026-11-05'
 line:
 - realizability
 - formal-apparatus
-grounds:
+corroborated_by:
 - THEORY-1434
 - THEORY-1376
 - THEORY-1415
@@ -49,7 +59,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CLAIM-560 CLAIM-568 CLAIM-585 NOTE-1585 THEORY-1376 THEORY-1415 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-560 CLAIM-568 CLAIM-585 NOTE-1585 THEORY-1376 THEORY-1415 THEORY-1434 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-591: Connectivity of the configurations affordable at a budget does not settle reachability among them: under directed moves a state can share a connected component with a target and have no admissible path to it, and the least budget for going from one configuration to another can differ from that for coming back, so a persistence summary of sublevel sets bounds the reachability filtration without fixing it
 

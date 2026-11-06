@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,14 @@ history:
     every path from 0 to 1 passes 1/2, and the sublevel set at 1.0 has two
     components with roots (1 ± √½)/2. No objection is on file, and nothing
     meets the defeat condition.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    At the twenty-sixth status review (ADR-057), at the status review's
+    ruling (the owner delegated these rulings): CLAIM-567 now rests on
+    this claim, since its first witness is this claim's example, so the
+    complements edge to it is removed here; the converse is written by the
+    repair. No status change; the claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -50,8 +58,6 @@ line:
 corroborated_by:
 - THEORY-1423
 - THEORY-1420
-complements:
-- CLAIM-567
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency

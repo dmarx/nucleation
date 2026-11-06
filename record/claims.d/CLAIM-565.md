@@ -4,7 +4,18 @@ status: Proposed
 formerly:
 - CLAIM-tmp84a10
 title: 'For Boolean constraint languages with constants and single-variable flips, the language fixes whether deciding that one solution reaches another is polynomial or PSPACE-complete, by a boundary that cuts across the clones of polymorphisms that fix the complexity of satisfiability, so the algebra of the satisfiability dichotomy does not by itself predict the complexity of navigating a solution space'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-sixth status review (ADR-057), at the status review's ruling (the owner delegated these rulings): THEORY-1382
+    and THEORY-1380 leave grounds (ADR-058), since correction 1 cites
+    Bulatov and Zhuk to say what their theorem covers, an attribution, and
+    the Boolean pair uses neither proof; the body keeps the citations.
+    THEORY-1407 and THEORY-1413 stay, as premises the pair needs, and the
+    directive no longer says nothing rests on them. The body adds that
+    positive 1-in-3 SAT is safely tight. No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,8 +38,6 @@ line:
 grounds:
 - THEORY-1407
 - THEORY-1413
-- THEORY-1382
-- THEORY-1380
 complements:
 - CLAIM-578
 - CLAIM-583
@@ -51,7 +60,8 @@ summary: >-
   construction is the filer's, from A's question and the readings; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-578 NOTE-1555 NOTE-1572 NOTE-1584 NOTE-1613 THEORY-1380 THEORY-1382 THEORY-1407 THEORY-1413 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-578 NOTE-1555 NOTE-1572 THEORY-1380 THEORY-1382 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: NOTE-1584 NOTE-1613 THEORY-1407 THEORY-1413 — Proposed or Skimmed; the classification the pair rests on, cited as open -->
 
 # CLAIM-565: For Boolean constraint languages with constants and single-variable flips, the language fixes whether deciding that one solution reaches another is polynomial or PSPACE-complete, by a boundary that cuts across the clones of polymorphisms that fix the complexity of satisfiability, so the algebra of the satisfiability dichotomy does not by itself predict the complexity of navigating a solution space
 
@@ -98,7 +108,10 @@ its solution space?"
 Positive 1-in-3 SAT is tight and positive NAE-3SAT is not; both are
 NP-complete to satisfy, and deciding whether two solutions are joined is
 polynomial for the first and PSPACE-complete for the second
-([NOTE-1584](../notes.d/NOTE-1584.md)). With constants added, a polymorphism must be idempotent,
+([NOTE-1584](../notes.d/NOTE-1584.md)). Positive 1-in-3 is also safely tight: identifying
+variables gives {001} or the empty relation, so Schwerdtfeger's correction
+leaves it on the easy side (the filer's check, on the definition as
+NOTE-1613 reports it). With constants added, a polymorphism must be idempotent,
 and by Post's lattice every Boolean idempotent clone other than the
 projections contains conjunction, disjunction, majority or minority.
 Neither relation is closed under any of the four (checked by
@@ -131,3 +144,7 @@ the pair shows.
 - **That A's Pol–Inv connection is wrong.** It is the standard one,
   Γ ⊆ Inv(F) ⟺ F ⊆ Pol(Γ); neither proof names it a Galois connection, a
   naming the field's and not these papers'.
+
+## Note of 2026-11-06: what holds it back
+
+The pair rests on Gopalan et al.'s classification of positive 1-in-3 SAT and positive NAE-3SAT (THEORY-1407) and on Schwerdtfeger's correction leaving them on their sides (THEORY-1413), and both readings are skimmed: the PSPACE-hardness for NAE-3SAT (§3.2–3.3 of Gopalan et al.) and Schwerdtfeger's own proofs were not checked. A full reading of either, or a checked re-derivation of NAE-3SAT's hardness, is what is missing.

@@ -1,10 +1,23 @@
 ---
 number: 578
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmplysd0
 title: 'Computational complexity belongs to a family of problems posed over configuration spaces, with an encoding and permitted operations, and not to a configuration space: one fixed finite space has none, and over the same instances finding a solution and navigating between solutions can fall in different classes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status review's ruling (the owner delegated these rulings).
+    THEORY-1372, THEORY-1407 and THEORY-1380 move from grounds to
+    corroborated_by (ADR-058): the body cites them as instances of the
+    question deciding the class, Eppstein's across models as well as
+    questions, and the first clause follows from what a complexity class is.
+    THEORY-1375, promoted in the same review, carries the second clause: the
+    reconfiguration versions of NP-complete search problems are
+    PSPACE-complete over the same instances. No objection is on file, and
+    nothing meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -25,8 +38,9 @@ line:
 - realizability
 - formal-apparatus
 grounds:
-- THEORY-1372
 - THEORY-1375
+corroborated_by:
+- THEORY-1372
 - THEORY-1407
 - THEORY-1380
 complements:

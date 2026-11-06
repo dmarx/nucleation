@@ -1,10 +1,19 @@
 ---
 number: 575
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmphme89
 title: 'Telling which obstruction blocks a transition can itself be computationally hard: over families of reconfiguration problems, deciding whether any admissible path joins two feasible configurations is PSPACE-complete for some, and computing the least peak cost of a path strongly NP-hard for others, so diagnosing the obstruction is a problem with its own complexity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-sixth status review (ADR-057), at the status review's ruling (the owner delegated these rulings),
+    with THEORY-1375 and CLAIM-578 promoted in the same review. Its grounds
+    are the theorems it cites: Eppstein's Theorem 4 (THEORY-1372), and Ito
+    et al.'s Theorems 1 and 2 and Lemma 3 (THEORY-1375). No objection is on
+    file, and nothing meets the defeat condition. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

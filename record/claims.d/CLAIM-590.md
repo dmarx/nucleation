@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpxcbet
 title: 'Which category is chosen changes which configurations count as the same: in the fundamental groupoid of a degree-4 vertex''s configuration space every two configurations are uniquely isomorphic, while in the category enriched in peak footprint under maximum its two folded states are 1.866 apart in each direction and each is 0 from itself, a distance the enriched Yoneda embedding keeps, so equivalence of possibilities is not equivalence of resource-bounded capabilities'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-sixth status review (ADR-057), at the status review's ruling (the owner delegated these rulings): THEORY-1376
+    leaves grounds (ADR-058), since the body cites Lawvere for A's naming
+    and for the additive case, an attribution, and the max case and its
+    quantale check are the filer's and CLAIM-563's, as CLAIM-563 ruled on
+    2026-11-06. No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -33,7 +42,6 @@ rests_on:
 grounds:
 - CASE-206
 - THEORY-032
-- THEORY-1376
 complements:
 - CLAIM-574
 - CLAIM-583
@@ -181,3 +189,7 @@ one hub and four paths, as contractibility requires.
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 [CLAIM-581](CLAIM-581.md) states this claim's max-enriched hom as an ultrametric when moves are reversible, so the sublevel groupoids here nest into one merge tree as the budget grows; the additive base gives no such tree, as A's U/L/R toy ([CASE-199](../cases.d/CASE-199.md)) shows. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+It takes the vertex's configuration space, two folding modes meeting only at the flat state, and the folded states' coordinates from CASE-206, which is Proposed and rests on Foschi, Hull and Ku's equations as read in part in NOTE-1606. The filer's check samples those branches but does not derive them; CASE-206 held, or the two-mode structure re-derived here, is what is missing.
