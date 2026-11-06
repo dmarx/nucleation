@@ -35,7 +35,7 @@ date: '2026-11-04'
 source:
 - LIT-2107
 summary: >-
-  Mukhopadhyay et al. (2020), LIT-2107, read in NOTE-1583 (§6.1 and Table
+  Mukhopadhyay et al. (2020), [LIT-2107](../literature.d/LIT-2107.md), read in [NOTE-1583](../notes.d/NOTE-1583.md) (§6.1 and Table
   1). An account of how the review organizes the coverage literature, not
   of any model's correctness; it is limited to what that taxonomy states.
   Active as a report of how §6.1 orders the literature.
@@ -45,7 +45,7 @@ summary: >-
 
 ## Source
 
-Mukhopadhyay et al. (2020), LIT-2107; read in NOTE-1583.
+Mukhopadhyay et al. (2020), [LIT-2107](../literature.d/LIT-2107.md); read in [NOTE-1583](../notes.d/NOTE-1583.md).
 
 ## What was actually shown
 

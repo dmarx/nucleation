@@ -74,7 +74,7 @@ LaVoice (2024), [LIT-2142](../literature.d/LIT-2142.md); read from a short 2021 
 
 ## Note of 2026-11-06: what holds it back
 
-The full paper is unread: the short version read in NOTE-1680 defers its model and complete results to it.
+The full paper is unread: the short version read in [NOTE-1680](../notes.d/NOTE-1680.md) defers its model and complete results to it.
 The version of record, which is open access, was blocked by a bot check, and its abstract says black
 neighbourhoods were "twice as likely" to be cleared where the title says two to three times; the draft's
 income gain is 16% or 18% on two different pretreatment means. Reading that version is what is missing; its

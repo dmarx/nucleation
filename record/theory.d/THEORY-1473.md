@@ -48,7 +48,7 @@ summary: >-
 
 ## Source
 
-Watson (1995), [LIT-2190](../literature.d/LIT-2190.md); read in NOTE-1659.
+Watson (1995), [LIT-2190](../literature.d/LIT-2190.md); read in [NOTE-1659](../notes.d/NOTE-1659.md).
 
 ## What was actually shown
 

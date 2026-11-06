@@ -32,7 +32,7 @@ date: '2026-11-05'
 source:
 - LIT-2080
 summary: >-
-  Connelly and Whiteley (1996), LIT-2080, read in NOTE-1588 (all of
+  Connelly and Whiteley (1996), [LIT-2080](../literature.d/LIT-2080.md), read in [NOTE-1588](../notes.d/NOTE-1588.md) (all of
   §§1–4, §§5.1–5.3 and §6; §§5.4–5.6 and Appendix A.2–A.3 skipped). Active:
   the three implications and the stress test are proved in the text read,
   and the converses are shown by examples, two with calculations and one, a
@@ -46,7 +46,7 @@ summary: >-
 
 ## Source
 
-Connelly and Whiteley (1996), LIT-2080; read in NOTE-1588.
+Connelly and Whiteley (1996), [LIT-2080](../literature.d/LIT-2080.md); read in [NOTE-1588](../notes.d/NOTE-1588.md).
 
 ## What was actually shown
 

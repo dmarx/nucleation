@@ -24,8 +24,7 @@ summary: >-
   an answer could look like. No held question asks it. The wording is
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1592 — Skimmed; Hopkins's 2007 thesis, the reading the quotations come from -->
-<!-- inactive-ok-file: THEORY-1406 THEORY-1433 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed -->
+<!-- inactive-ok-file: THEORY-1433 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed -->
 
 # QUESTION-381: Under what conditions can organizational constraint architectures be synthesized from a specified family of desired, jointly realizable capabilities?
 

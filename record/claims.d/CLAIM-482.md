@@ -107,4 +107,4 @@ Bogetoft and Hougaard (KVL working paper 2001/14, revised 2002; [LIT-2096](../li
 
 ## Note of 2026-11-06: Bogetoft and Hougaard, read in full
 
-The full reading (NOTE-1576 v2) confirms what the note of 2026-11-04 said the paper assumes. §7.1 predicts "the rational response" of a unit to new prices and restrictions from "an estimated value model" fitted under the old regime (p. 26). §8 leaves estimation on data to future work. No status changes.
+The full reading ([NOTE-1576](../notes.d/NOTE-1576.md) v2) confirms what the note of 2026-11-04 said the paper assumes. §7.1 predicts "the rational response" of a unit to new prices and restrictions from "an estimated value model" fitted under the old regime (p. 26). §8 leaves estimation on data to future work. No status changes.

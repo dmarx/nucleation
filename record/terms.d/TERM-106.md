@@ -63,7 +63,7 @@ summary: >-
   its use is the transition, which the output does not show. The wording
   is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-107 TERM-112 TERM-110 CLAIM-558 CASE-198 CASE-200 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
+<!-- inactive-ok-file: TERM-107 TERM-112 TERM-110 CASE-198 CASE-200 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 
 # TERM-106: reconfiguration slack: the temporary resources a system needs to move between two configurations it can each hold, beyond what holding either one requires, while keeping specified commitments
 

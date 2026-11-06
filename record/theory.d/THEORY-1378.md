@@ -32,7 +32,7 @@ date: '2026-11-04'
 source:
 - LIT-2046
 summary: >-
-  Gerardi and Maestri (2020), LIT-2046, read in NOTE-1599: the main text in
+  Gerardi and Maestri (2020), [LIT-2046](../literature.d/LIT-2046.md), read in [NOTE-1599](../notes.d/NOTE-1599.md): the main text in
   full, and the supplement's proof of Lemma 3 checked. The appendices'
   proofs were not checked line by line. Read as a stand-in for Freixas,
   Guesnerie and Tirole (1985), whose own two-period result it does not
@@ -45,9 +45,9 @@ summary: >-
 
 ## Source
 
-Gerardi and Maestri (2020), LIT-2046; read in NOTE-1599 (journal
+Gerardi and Maestri (2020), [LIT-2046](../literature.d/LIT-2046.md); read in [NOTE-1599](../notes.d/NOTE-1599.md) (journal
 pagination). Registered as a stand-in for Freixas, Guesnerie and Tirole
-(1985), LIT-2062, unread.
+(1985), [LIT-2062](../literature.d/LIT-2062.md), unread.
 
 ## What was actually shown
 
@@ -78,4 +78,4 @@ pagination). Registered as a stand-in for Freixas, Guesnerie and Tirole
   result is not restated here.
 - Anything about budgets, slack or capabilities kept for rare events; the
   setting is a labour relationship.
-- That a second source confirms it: that is QUESTION-tmpgjiy3.
+- That a second source confirms it: that is [QUESTION-tmpgjiy3](../questions.d/QUESTION-tmpgjiy3.md).

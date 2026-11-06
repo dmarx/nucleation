@@ -153,7 +153,7 @@ as what keeps or creates an overlap, so it was kept.
 
 boyd supports the premise in her own words: "teens want to be able to
 interact with their peers differently from how they interact with their
-parents" (p. 287, NOTE-1432). Her healthy-household cases, where parents
+parents" (p. 287, [NOTE-1432](../notes.d/NOTE-1432.md)). Her healthy-household cases, where parents
 join teen space with "little conflict" (p. 251), fit the claim's
 condition. An overlap is needed for role conflict but does not bring it
 by itself. No status change.

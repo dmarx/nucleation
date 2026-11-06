@@ -158,13 +158,13 @@ The twenty-fifth status review promoted [CLAIM-604](CLAIM-604.md) with its "lack
 
 ## Note of 2026-11-06: Fodor and Tong read further
 
-THEORY-1502 is narrowed to what Fodor derives and is Active. The oscillon row uses only its
+[THEORY-1502](../theory.d/THEORY-1502.md) is narrowed to what Fodor derives and is Active. The oscillon row uses only its
 derived clauses (a radiation rate exponentially small in amplitude; in one and two dimensions no
 decay, for small and moderate amplitudes), so that ground no longer holds the claim; the wider
-statement is THEORY-tmplbj45, which the claim does not use. The topological row's "by meeting an
+statement is [THEORY-tmplbj45](../theory.d/THEORY-tmplbj45.md), which the claim does not use. The topological row's "by meeting an
 opposite charge" needs two qualifications. Tong's own vortex-antivortex annihilation is "expected
-(at least for suitably slow collisions)", assumed, not derived (NOTE-1694). And in integrable
+(at least for suitably slow collisions)", assumed, not derived ([NOTE-1694](../notes.d/NOTE-1694.md)). And in integrable
 sine-Gordon, kink and antikink "go through each other without any change in their velocity", while
-in φ4 they can collide into an oscillon (Fodor, NOTE-1698, Ch. 1): opposite charges need not
-annihilate, and whether they do is a fact about the theory, not about topology. THEORY-1507 stays
+in φ4 they can collide into an oscillon (Fodor, [NOTE-1698](../notes.d/NOTE-1698.md), Ch. 1): opposite charges need not
+annihilate, and whether they do is a fact about the theory, not about topology. [THEORY-1507](../theory.d/THEORY-1507.md) stays
 Proposed, so the topological route still holds the claim. No status changes.

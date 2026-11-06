@@ -37,7 +37,7 @@ source:
 - LIT-2096
 summary: >-
   Bogetoft and Hougaard (2001, revised 2002; J. Productivity Analysis
-  2003), LIT-2096, read in full in NOTE-1576. The propositions were
+  2003), [LIT-2096](../literature.d/LIT-2096.md), read in full in [NOTE-1576](../notes.d/NOTE-1576.md). The propositions were
   checked. Under price control the underlying plan is allocatively
   efficient. Under restriction control it is technically efficient, and
   allocatively efficient at endogenous prices when the acceptable set is
@@ -52,8 +52,8 @@ summary: >-
 ## Source
 
 Bogetoft and Hougaard, Rational Inefficiencies (KVL working paper 2001/14,
-revised 2002), LIT-2096; read in full in NOTE-1576. Registered as a
-stand-in for Bogetoft and Kerstens (2022), LIT-2076.
+revised 2002), [LIT-2096](../literature.d/LIT-2096.md); read in full in [NOTE-1576](../notes.d/NOTE-1576.md). Registered as a
+stand-in for Bogetoft and Kerstens (2022), [LIT-2076](../literature.d/LIT-2076.md).
 
 ## What was actually shown
 
@@ -65,7 +65,7 @@ stand-in for Bogetoft and Kerstens (2022), LIT-2076.
   regime the underlying plan is allocatively efficient. Under a
   restriction-based regime it is technically efficient, with supporting
   prices when the acceptable set is convex. These are derivations within
-  the model. Checked in NOTE-1576 v2. Proposition 2's proof passes from the
+  the model. Checked in [NOTE-1576](../notes.d/NOTE-1576.md) v2. Proposition 2's proof passes from the
   slack set to all of A − L with only "By w ≥ 0". The step holds because L
   is closed upward, so A − L is closed downward. Without convexity the
   restriction regime still gives a technically efficient underlying plan

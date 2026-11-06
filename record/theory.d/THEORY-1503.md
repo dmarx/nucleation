@@ -43,7 +43,7 @@ bears_on:
 - QUESTION-tmpsd6a0
 summary: >-
   Davis & Weinstein (2004 working paper; J. Regional Science 2008),
-  LIT-2201, read in full from NBER w10252 in NOTE-1690. Limits:
+  [LIT-2201](../literature.d/LIT-2201.md), read in full from NBER w10252 in [NOTE-1690](../notes.d/NOTE-1690.md). Limits:
   the test assumes each city's dynamics depend on its own share alone and
   that thresholds are common in log units across cities and industries; it
   imposes full reversion in the threshold runs; it has little power for
@@ -56,7 +56,7 @@ summary: >-
 ## Source
 
 Davis & Weinstein (2004; 2008), [LIT-2201](../literature.d/LIT-2201.md); read in
-NOTE-1690 from NBER w10252. The journal version was not read. Page
+[NOTE-1690](../notes.d/NOTE-1690.md) from NBER w10252. The journal version was not read. Page
 numbers are the working paper's.
 
 ## What was actually shown

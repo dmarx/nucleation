@@ -24,7 +24,6 @@ summary: >-
   governance emerges from heterogeneous processes; this asks when a nucleus
   becomes one. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-600 — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 
 # QUESTION-399: Under what conditions does a productive partial organization become a self-maintaining nucleus, one whose continued operation contributes to regenerating the very constraints that make its productive influence possible?
 

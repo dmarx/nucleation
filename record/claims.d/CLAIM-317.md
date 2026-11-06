@@ -100,7 +100,7 @@ the record has only through Meyrowitz, unread.
 
 ## Note of 2026-11-06: boyd, read further
 
-boyd's household chapter (NOTE-1432, §6.2.1) qualifies "which is when the
+boyd's household chapter ([NOTE-1432](../notes.d/NOTE-1432.md), §6.2.1) qualifies "which is when the
 presentations collide". Parents who join their teens on MySpace meet
 little conflict in healthy households. In one case a misread quiz led to
 a conversation that "further strengthened their relationship" (p. 252).
@@ -115,10 +115,10 @@ status change.
 
 ## Note of 2026-11-06: what holds it back
 
-Its ground THEORY-406 is still Proposed. boyd's methods chapter is now read
-(NOTE-1432): interviews and profile observation, with no comparison of
+Its ground [THEORY-406](../theory.d/THEORY-406.md) is still Proposed. boyd's methods chapter is now read
+([NOTE-1432](../notes.d/NOTE-1432.md)): interviews and profile observation, with no comparison of
 conflict while audiences are kept apart against conflict when a channel
-joins them, which is what THEORY-406's promote_when asks for. No study the
+joins them, which is what [THEORY-406](../theory.d/THEORY-406.md)'s promote_when asks for. No study the
 record holds makes that comparison. The one case of differing presentations
 colliding is still Carmichael's, which the record has only through
 Meyrowitz, unread. The 2026-11-06 reading note above qualifies the title's

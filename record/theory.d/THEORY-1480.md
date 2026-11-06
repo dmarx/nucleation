@@ -51,7 +51,7 @@ summary: >-
 
 ## Source
 
-Ostrom, Gibson, Shivakumar & Andersson (2002), [LIT-2174](../literature.d/LIT-2174.md); read in NOTE-1647.
+Ostrom, Gibson, Shivakumar & Andersson (2002), [LIT-2174](../literature.d/LIT-2174.md); read in [NOTE-1647](../notes.d/NOTE-1647.md).
 
 ## What was actually shown
 
@@ -103,8 +103,8 @@ Ostrom, Gibson, Shivakumar & Andersson (2002), [LIT-2174](../literature.d/LIT-21
 
 ## Note of 2026-11-06: read in full
 
-NOTE-1647 now reads Ch. 3, Ch. 8, Ch. 10 and the rest of Appendix B,
+[NOTE-1647](../notes.d/NOTE-1647.md) now reads Ch. 3, Ch. 8, Ch. 10 and the rest of Appendix B,
 which the earlier note named as missing. Of Ch. 7, the parts on
 sustainability and ownership are read; the rest is Sida's internal
 organization, which the title does not report. Nothing read qualifies the
-title. Whether the account holds across projects is QUESTION-tmp2s2ai.
+title. Whether the account holds across projects is [QUESTION-tmp2s2ai](../questions.d/QUESTION-tmp2s2ai.md).

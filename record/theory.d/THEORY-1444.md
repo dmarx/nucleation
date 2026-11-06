@@ -48,7 +48,6 @@ summary: >-
   it does not assert the authors' conjecture that multilayer structures
   traverse harder kinetic traps, nor any mechanism for the cation effects.
 ---
-<!-- inactive-ok-file: THEORY-1440 — Proposed, Unavailable, Skimmed or new; cited from the reading of Douglas et al. (2009) as open -->
 
 # THEORY-1444: Douglas and colleagues report that custom multilayer DNA origami on a honeycomb lattice folds in one pot at 7 to 44 % of scaffold in monomer, many of the designs only with week-long thermal ramps at about 16 mM MgCl2 and low NaCl, short ramps, low Mg2+ or high Na+ giving slow-migrating, grossly misshapen products, whereas flat origami and simpler nanotube structures fold in 72-minute ramps
 

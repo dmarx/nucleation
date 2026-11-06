@@ -109,4 +109,4 @@ Adopting it is the owner's call.
 
 ## Note of 2026-11-06: Bogetoft and Hougaard, read in full
 
-The full reading (NOTE-1576 v2) supports the definition and sharpens it. Bogetoft and Hougaard's slack is s = x − z for any feasible plan z with z ≤ x. With several inputs it is therefore a set, the "slack possibility set" S(x) (§2, pp. 7–8), not the difference from one least input vector. Which point of the set a unit takes is what their regimes and value function decide. The Cyert and March quotation is theirs, verbatim (§1, p. 4). THEORY-1401 is now Active. No status changes.
+The full reading ([NOTE-1576](../notes.d/NOTE-1576.md) v2) supports the definition and sharpens it. Bogetoft and Hougaard's slack is s = x − z for any feasible plan z with z ≤ x. With several inputs it is therefore a set, the "slack possibility set" S(x) (§2, pp. 7–8), not the difference from one least input vector. Which point of the set a unit takes is what their regimes and value function decide. The Cyert and March quotation is theirs, verbatim (§1, p. 4). [THEORY-1401](../theory.d/THEORY-1401.md) is now Active. No status changes.

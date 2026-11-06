@@ -167,5 +167,5 @@ Chapter 1 pp. 10–37 are still unread here, including the defence of Pereboom's
 case (from p. 18), "Ginet's challenge" (p. 28) and "An objection to causal-history incompatibilism"
 (p. 33), which is the argument the promote_when names; no reply from the leeway side has been read
 first-hand. On 2026-11-06 a SciSpace upload of part of the book (typeset.io/pdf/living-without-free-will-3y4uq2deky.pdf,
-the front matter and pp. 1–20) was located and set aside under ADR-074's exclusion of in-copyright
+the front matter and pp. 1–20) was located and set aside under [ADR-074](../decisions.d/ADR-074.md)'s exclusion of in-copyright
 books, so the owner can supply the book.

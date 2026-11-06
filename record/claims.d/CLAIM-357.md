@@ -285,4 +285,4 @@ No status changes.
 
 ## Note of 2026-11-06: Gerardi and Maestri, read
 
-The full reading (NOTE-1599 v2) supports the use the earlier note makes of it. The hiding is an equilibrium result, for all perfect Bayesian equilibria in the patient limit. Its cause is the principal's inability to commit: a low-cost agent who reveals himself is held to zero rent thereafter, so he mimics the high-cost type (Lemma 3, checked from the supplement). With rehiring the effect is undone (Proposition 4). No status changes.
+The full reading ([NOTE-1599](../notes.d/NOTE-1599.md) v2) supports the use the earlier note makes of it. The hiding is an equilibrium result, for all perfect Bayesian equilibria in the patient limit. Its cause is the principal's inability to commit: a low-cost agent who reveals himself is held to zero rent thereafter, so he mimics the high-cost type (Lemma 3, checked from the supplement). With rehiring the effect is undone (Proposition 4). No status changes.

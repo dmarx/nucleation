@@ -50,7 +50,7 @@ summary: >-
   record's dependency claims concern is the case the authors leave
   untested.
 ---
-<!-- inactive-ok-file: CLAIM-600 CLAIM-603 THEORY-1480 — Proposed or new; cited from the reading of Baird, McKenzie & Özler (2018) as open -->
+<!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of Baird, McKenzie & Özler (2018) as open -->
 
 # THEORY-1466: Baird, McKenzie and Özler's structured review of cash transfers in low- and middle-income countries finds that transfers made without an employment focus leave prime-age adults' work and earnings little changed, that pensioners and, in one study, refugees do reduce work, and that business start-up grants raise work and earnings while a job-search subsidy raised employment, significant only at the 10 percent level, which the authors attribute chiefly to easing liquidity and risk constraints; they expect responses to differ where transfers are dependable and permanent
 

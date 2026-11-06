@@ -43,7 +43,6 @@ summary: >-
   precursor is a nucleus: the paper does not use the word for its
   mechanism.
 ---
-<!-- inactive-ok-file: NOTE-1644 — Proposed, new or Skimmed; cited from the assistant's reading across the DNA origami readings -->
 
 # THEORY-1398: In mesoscopic simulation, DeLuca et al. find that DNA origami folds hierarchically, accessible structures collapsing into a locally ordered precursor that then crystallizes, while larger structures show frequent trapping in metastable states, among them a global topological trap, and early coalescence is not a perfect predictor of their final folding
 

@@ -40,10 +40,10 @@ date: '2026-11-04'
 source:
 - LIT-2056
 summary: >-
-  Kaelbling, Littman and Cassandra (1998), LIT-2056, read in NOTE-1563
+  Kaelbling, Littman and Cassandra (1998), [LIT-2056](../literature.d/LIT-2056.md), read in [NOTE-1563](../notes.d/NOTE-1563.md)
   (§§1, 3, 4.1–4.3, 4.5–4.6, 7, Appendix A). They restate the
   operations-research theory of partially observable Markov processes and
-  cite Smallwood and Sondik (1973), LIT-2038, which is unread. The
+  cite Smallwood and Sondik (1973), [LIT-2038](../literature.d/LIT-2038.md), which is unread. The
   piecewise-linear convex value is the neighbour's own derivation, with
   discounting. Active as a report of the neighbour. It does not say that
   the pieces are few: exact solution is exponential in the worst case, and
@@ -55,9 +55,9 @@ summary: >-
 
 ## Source
 
-Smallwood and Sondik (1973), LIT-2038, the original, which was not read:
+Smallwood and Sondik (1973), [LIT-2038](../literature.d/LIT-2038.md), the original, which was not read:
 no lawful copy was found. Sourced to Kaelbling, Littman and Cassandra
-(1998), LIT-2056, read in NOTE-1563, which stands in for it at the owner's
+(1998), [LIT-2056](../literature.d/LIT-2056.md), read in [NOTE-1563](../notes.d/NOTE-1563.md), which stands in for it at the owner's
 request.
 
 ## What was actually shown

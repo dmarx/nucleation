@@ -41,8 +41,8 @@ date: '2026-11-04'
 source:
 - LIT-2101
 summary: >-
-  Jordan and Graves (1995), LIT-2045, unread, as reported by Chou, Chua,
-  Teo and Zheng (2010), LIT-2101, read in NOTE-1604 (§§1–3, §6; §4 to
+  Jordan and Graves (1995), [LIT-2045](../literature.d/LIT-2045.md), unread, as reported by Chou, Chua,
+  Teo and Zheng (2010), [LIT-2101](../literature.d/LIT-2101.md), read in [NOTE-1604](../notes.d/NOTE-1604.md) (§§1–3, §6; §4 to
   Theorem 3). Jordan and Graves found by simulation that chaining yields
   most of full flexibility's expected sales, about 95% in a 10 by 10
   example. Chou et al. prove results for balanced, independent, symmetric
@@ -59,9 +59,9 @@ summary: >-
 
 ## Source
 
-Jordan and Graves (1995), LIT-2045, the original, which was not read: the
+Jordan and Graves (1995), [LIT-2045](../literature.d/LIT-2045.md), the original, which was not read: the
 working-paper copies located at MIT DSpace and CORE could not be fetched.
-Sourced to Chou, Chua, Teo and Zheng (2010), LIT-2101, read in NOTE-1604,
+Sourced to Chou, Chua, Teo and Zheng (2010), [LIT-2101](../literature.d/LIT-2101.md), read in [NOTE-1604](../notes.d/NOTE-1604.md),
 which stands in for it at the owner's request.
 
 ## What was actually shown

@@ -64,7 +64,7 @@ danah boyd (2008), *Taken Out of Context: American Teen Sociality in
 Networked Publics*, PhD dissertation, UC Berkeley, [LIT-1001](../literature.d/LIT-1001.md), read in part:
 §1.5, §4.4 and selected passages in [NOTE-710](../notes.d/NOTE-710.md), and Chapters 1, 4 and 7
 in full in [NOTE-1432](../notes.d/NOTE-1432.md); the methods (§§2.3–2.4), §3.2, §6.2.1 and
-§§6.4–6.5 are now read too (NOTE-1432, version 2), and most of Chapter 5
+§§6.4–6.5 are now read too ([NOTE-1432](../notes.d/NOTE-1432.md), version 2), and most of Chapter 5
 and parts of Chapters 2, 3 and 6 are not. The account of collapsed contexts is Meyrowitz's (1985)
 account of broadcast media, extended to everyday people; Meyrowitz is not
 held. This account rests on a skim.
@@ -152,4 +152,4 @@ them, is still unmet. boyd's methods, now read, are interviews and
 profile observation with no such comparison. The new reading also
 qualifies the title's second clause: joined audiences in healthy
 households met with little conflict (p. 249). An attributed reading
-would not free CLAIM-317, which needs the general claim.
+would not free [CLAIM-317](../claims.d/CLAIM-317.md), which needs the general claim.

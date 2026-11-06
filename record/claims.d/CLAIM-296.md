@@ -57,7 +57,7 @@ corroborated_by:
 bears_on:
 - QUESTION-101
 ---
-<!-- inactive-ok-file: NOTE-1620 NOTE-1621 NOTE-1583 LIT-2105 LIT-2098 LIT-2075 — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
+<!-- inactive-ok-file: NOTE-1620 NOTE-1621 LIT-2105 LIT-2098 LIT-2075 — Skimmed or Unavailable; the location-model readings of 2026-11-04, cited as open -->
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CASE-201 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 

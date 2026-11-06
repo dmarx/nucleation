@@ -28,8 +28,8 @@ date: '2026-11-05'
 source:
 - LIT-2073
 summary: >-
-  Raussen (2021; Computational Geometry 2023), LIT-2073, read in full in
-  NOTE-1581 from arXiv v3, as the neighbour of Fajstrup, Goubault & Raussen
+  Raussen (2021; Computational Geometry 2023), [LIT-2073](../literature.d/LIT-2073.md), read in full in
+  [NOTE-1581](../notes.d/NOTE-1581.md) from arXiv v3, as the neighbour of Fajstrup, Goubault & Raussen
   2006. Active: the definition, the deadlock characterization and the bound
   are proved in the text, resting on a cited colimit decomposition and
   Björner's nerve theorem. It holds for linear PV programs with fixed

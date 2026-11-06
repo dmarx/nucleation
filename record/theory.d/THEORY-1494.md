@@ -37,7 +37,6 @@ summary: >-
   character premise behind the record's dependency claims, not on their
   state- or project-level mechanisms, and says nothing about work.
 ---
-<!-- inactive-ok-file: CLAIM-600 — Proposed or new; cited from the reading of Evans & Popova (2014) as open -->
 
 # THEORY-1494: Evans and Popova's count by sign and significance of 44 estimates from 19 studies of conditional and unconditional cash transfers in low- and middle-income countries finds that transfers almost never raise spending on alcohol and tobacco: 82% of the estimates are negative, only two are positive and significant, both non-experimental, none of 17 randomized estimates is positive and significant, and the pattern does not differ between conditional and unconditional programs, across regions or with duration of receipt
 

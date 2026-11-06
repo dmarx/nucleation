@@ -162,12 +162,11 @@ summary: >-
   (Collins and Shester; LaVoice). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1690 — Skimmed; a reading of the persistence filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: LIT-2213 LIT-2212 — Unavailable; registered by the medicine filing, cited as open -->
 <!-- inactive-ok-file: LIT-2221 LIT-2220 — Unavailable; registered by the state-aid filing, cited as open -->
 <!-- inactive-ok-file: LIT-2225 — Unavailable; registered by the assistance filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-558 CLAIM-603 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading that corroborate this synthesis, cited as open -->
+<!-- inactive-ok-file: CLAIM-603 NOTE-1680 — Proposed, Skimmed or new; claims and a reading that corroborate this synthesis, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout, in each subtask it must later do alone and not only in its role as a whole, at no more effort than it could bear, and, where the capacity is cumulative and its field moves fast, kept doing it after withdrawal; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
 
@@ -228,12 +227,12 @@ summary: >-
      itself.
    - **Its limits.** The work must be done in each subtask the party
      will later do alone, since automation that does a subtask wears that
-     skill down while the job goes on (Macnamara et al., NOTE-1710). It
+     skill down while the job goes on (Macnamara et al., [NOTE-1710](../notes.d/NOTE-1710.md)). It
      must be done at an effort the party can bear, since too much help
      atrophies the capacity and too little may injure it (Goligher et al.,
-     NOTE-1704). And for a cumulative capacity in a fast-moving field it
+     [NOTE-1704](../notes.d/NOTE-1704.md)). And for a cumulative capacity in a fast-moving field it
      must go on after withdrawal as well, since a party that stops may be
-     locked out (Cohen and Levinthal, NOTE-1712; CLAIM-605's deadline).
+     locked out (Cohen and Levinthal, [NOTE-1712](../notes.d/NOTE-1712.md); [CLAIM-605](CLAIM-605.md)'s deadline).
 
 ## What the windfall readings add
 
@@ -372,7 +371,7 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
 
 ## What it does not say
 
-- **Not yet in the title:** that an available flux is used only in proportion to the party's own capacity to use it (Griffith et al., NOTE-1709), and that early withholding of help is not safe by default (Koedinger and Aleven, NOTE-1708).
+- **Not yet in the title:** that an available flux is used only in proportion to the party's own capacity to use it (Griffith et al., [NOTE-1709](../notes.d/NOTE-1709.md)), and that early withholding of help is not safe by default (Koedinger and Aleven, [NOTE-1708](../notes.d/NOTE-1708.md)).
 
 ## What it adds
 
@@ -437,5 +436,5 @@ Cohen and Levinthal (1990), now read ([NOTE-1712](../notes.d/NOTE-1712.md)), sup
 ## Note of 2026-11-06: Fodor read further
 
 The one-and-two-dimensional "never ends" is for small and moderate amplitudes; above an amplitude
-where the energy peaks, "currently unknown", such oscillons may be unstable (NOTE-1698, §2.8.6).
+where the energy peaks, "currently unknown", such oscillons may be unstable ([NOTE-1698](../notes.d/NOTE-1698.md), §2.8.6).
 No status changes.

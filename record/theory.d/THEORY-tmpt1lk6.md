@@ -29,7 +29,7 @@ source:
 extends:
 - THEORY-1390
 summary: >-
-  What Hopkins (2010) holds (THEORY-1390), stated as true. The thesis
+  What Hopkins (2010) holds ([THEORY-1390](THEORY-1390.md)), stated as true. The thesis
   offers its chart as "a comprehensive classification of screw systems"
   (§2.1), derives it by a case analysis (Appendix A) that defers to the
   master's thesis for the 2-DOF column and the column symmetry, and does
@@ -47,8 +47,8 @@ summary: >-
 
 Hopkins, *Design of Flexure-based Motion Stages for Mechatronic Systems
 via Freedom, Actuation and Constraint Topologies (FACT)*, MIT Ph.D.
-thesis (2010), LIT-2042; read in NOTE-1596. The attributed report is
-THEORY-1390.
+thesis (2010), [LIT-2042](../literature.d/LIT-2042.md); read in [NOTE-1596](../notes.d/NOTE-1596.md). The attributed report is
+[THEORY-1390](THEORY-1390.md).
 
 ## What would settle it
 
@@ -61,7 +61,7 @@ stiffness matrix predicts.
 ## Where it stands
 
 - **The count** rests on chapter 3 (the 0–3 DOF columns), §3.5 (the 4–6 DOF
-  columns by symmetry, proved in the master's thesis, LIT-2031) and
+  columns by symmetry, proved in the master's thesis, [LIT-2031](../literature.d/LIT-2031.md)) and
   Appendix A, which gives "the logic ... that was used to consider every
   way twists could be combined to generate all possible freedom spaces".
 - **The boundary** is the thesis's usefulness criterion: a freedom space of

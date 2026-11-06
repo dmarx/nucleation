@@ -26,7 +26,7 @@ date: '2026-11-05'
 source:
 - LIT-2031
 summary: >-
-  Hopkins (2007), LIT-2031, read in NOTE-1592 (every argument chapter and
+  Hopkins (2007), [LIT-2031](../literature.d/LIT-2031.md), read in [NOTE-1592](../notes.d/NOTE-1592.md) (every argument chapter and
   every passage stating the title's clauses; the case-by-case derivations
   of chs. 7–8 not read). Active as a report of what the thesis holds.
   Whether the 26 types are complete stays with the extending THEORY. The

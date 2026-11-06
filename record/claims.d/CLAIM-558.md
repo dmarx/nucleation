@@ -62,7 +62,6 @@ summary: >-
   capability an organization keeps for rare events is the filer's. The
   wording is the filer's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-600 — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation
 
@@ -72,7 +71,7 @@ Three parts, of different strength.
 
 1. **Decay with disuse.** A learned procedure with a motor component loses
    performance with the time since it was last used. Tatel's
-   meta-analysis ([LIT-2079](../literature.d/LIT-2079.md), read in NOTE-1560; [THEORY-1424](../theory.d/THEORY-1424.md)): for
+   meta-analysis ([LIT-2079](../literature.d/LIT-2079.md), read in [NOTE-1560](../notes.d/NOTE-1560.md); [THEORY-1424](../theory.d/THEORY-1424.md)): for
    accuracy the effect size "generally increases in magnitude by 0.08 per
    month of infrequent use", and "one can expect about half of initial
    skill acquisition gains to be lost after between 6 and 9 months of
@@ -147,8 +146,8 @@ Supported and extended. Disuse need not mean rare operation: it can sit inside d
 
 ## Note of 2026-11-06: Tatel, read in full
 
-THEORY-1424, the ground of its first two parts, is now Active on a full
-reading (NOTE-1560), with its practice clause narrowed to accuracy. Two
+[THEORY-1424](../theory.d/THEORY-1424.md), the ground of its first two parts, is now Active on a full
+reading ([NOTE-1560](../notes.d/NOTE-1560.md)), with its practice clause narrowed to accuracy. Two
 qualifications for part 2. Tatel's performance opportunities are mostly
 an earlier retention test, which is itself practice outside operation,
 and so fits part 3. And the opportunity changes the slope, not the level.

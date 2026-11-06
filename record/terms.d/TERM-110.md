@@ -148,4 +148,4 @@ No claim of the record's own is stated in it, its settle condition, and Freixas,
 
 ## Note of 2026-11-06: Gerardi and Maestri, read
 
-The full reading (NOTE-1599 v2) supports "It can stop learning altogether". Both quotations are the abstract's, verbatim. The mechanism is Lemma 3, checked from the journal's supplement: once the parties are patient enough, no pair of contracts both separates the two types and keeps both employed. THEORY-1378 is now Active. No status changes; what holds the term back is unchanged.
+The full reading ([NOTE-1599](../notes.d/NOTE-1599.md) v2) supports "It can stop learning altogether". Both quotations are the abstract's, verbatim. The mechanism is Lemma 3, checked from the journal's supplement: once the parties are patient enough, no pair of contracts both separates the two types and keeps both employed. [THEORY-1378](../theory.d/THEORY-1378.md) is now Active. No status changes; what holds the term back is unchanged.

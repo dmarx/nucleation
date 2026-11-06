@@ -18,11 +18,11 @@ source:
 extends:
 - THEORY-1519
 summary: >-
-  The wider thesis Simkute, Tankelevitch et al. (2024), LIT-2223, assert:
+  The wider thesis Simkute, Tankelevitch et al. (2024), [LIT-2223](../literature.d/LIT-2223.md), assert:
   "GenAI user studies suggest that current systems make easy tasks easier
   and hard tasks harder for users" (§3.5; also §1). Filed when the
-  twenty-ninth status review narrowed THEORY-1519 to the report, under
-  ADR-065 and ADR-047 kind 1; the condition is THEORY-1519's old one, word
+  twenty-ninth status review narrowed [THEORY-1519](THEORY-1519.md) to the report, under
+  [ADR-065](../decisions.d/ADR-065.md) and [ADR-047](../decisions.d/ADR-047.md) kind 1; the condition is [THEORY-1519](THEORY-1519.md)'s old one, word
   for word. Its evidence is the programming studies the paper cites, chiefly
   Vaithilingam et al. (2022) and Barke et al., with single studies in data
   science and law; the paper runs none.
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Simkute, Tankelevitch, Kewenig, Scott, Sellen and Rintel (2024), LIT-2223, read in full in NOTE-1711. What
-the authors argue is THEORY-1519; this entry is the thesis itself, which the paper asserts on cited user
+Simkute, Tankelevitch, Kewenig, Scott, Sellen and Rintel (2024), [LIT-2223](../literature.d/LIT-2223.md), read in full in [NOTE-1711](../notes.d/NOTE-1711.md). What
+the authors argue is [THEORY-1519](THEORY-1519.md); this entry is the thesis itself, which the paper asserts on cited user
 studies and does not test.
 
 ## What the source offers

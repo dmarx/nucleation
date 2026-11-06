@@ -62,7 +62,6 @@ summary: >-
   the filer's, from A's three resource requirements of a form; adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
 <!-- inactive-ok-file: CASE-200 CASE-210 CASE-211 — Proposed; A's proposals of 2026-11-04 and the entries filed beside them, cited as filed -->
 <!-- inactive-ok-file: TERM-116 — Proposed or new; entries of 2026-11-05 from A's fourth paste and the assistant, cited as open -->
 
@@ -245,10 +244,10 @@ No status changes.
 
 ## Note of 2026-11-06: Sobczak re-read
 
-Chapter 3 of Sobczak's thesis (LIT-2138), re-read in full at the twenty-ninth status review, measures
+Chapter 3 of Sobczak's thesis ([LIT-2138](../literature.d/LIT-2138.md)), re-read in full at the twenty-ninth status review, measures
 persistence above the folding window directly: folded structures were "directly jumped to different final
 temperatures at which we incubated the folded structures for 2 hours" and unfolded only 5–10 °C above
 folding (p. 22). With the brick forming nothing in 48 hours at 56 °C (p. 25), the claim's example rests on
 two measurements, not an inference, though the thesis does not pair them at one temperature and gives the
-brick's melting temperature only in a figure. THEORY-1440 is narrowed to say so. The paragraph on Sobczak
+brick's melting temperature only in a figure. [THEORY-1440](../theory.d/THEORY-1440.md) is narrowed to say so. The paragraph on Sobczak
 above stands otherwise; no status change.

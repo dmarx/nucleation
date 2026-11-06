@@ -133,7 +133,7 @@ first object, read at an instant, is not an upper bound on capability.
 
 ## Note of 2026-11-06: Hopkins (2010), read
 
-Read further (NOTE-1596 v2), and THEORY-1390 promoted and narrowed. The
+Read further ([NOTE-1596](../notes.d/NOTE-1596.md) v2), and [THEORY-1390](../theory.d/THEORY-1390.md) promoted and narrowed. The
 thesis computes where linear actuators must act from a twist–wrench
 stiffness matrix whose entries carry each flexure's modulus, section,
 length, location and orientation (§4.2.1, eq. 4.11). It does not say in

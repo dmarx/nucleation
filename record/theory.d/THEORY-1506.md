@@ -33,7 +33,6 @@ summary: >-
   define the plateau's endpoints formally. The wording of the title is the
   reader's condensation of the paper's §§III–IV and VII.
 ---
-<!-- inactive-ok-file: NOTE-1698 — Skimmed; the partial reading that holds the one independent simulation -->
 
 # THEORY-1506: In a spherically symmetric real scalar field with a double-well potential in 3+1 dimensions, subcritical bubbles with energy above a plateau value, core field beyond the inflection point and initial radius in a window shed part of their energy and settle into oscillons of nearly constant energy and radius whatever their initial radius, which radiate almost nothing for 10^3 to 10^4 m^-1, against about 5 to 10 m^-1 in the linear theory, and then decay quickly once slow radiation has lowered the core amplitude below the value at which its fluctuations stop being unstable; no topological invariant or conserved charge protects them
 

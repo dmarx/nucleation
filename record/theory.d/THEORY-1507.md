@@ -51,7 +51,7 @@ summary: >-
 
 ## Source
 
-Tong (2005), [LIT-2207](../literature.d/LIT-2207.md); read in NOTE-1694 for the topological charge and the kinks.
+Tong (2005), [LIT-2207](../literature.d/LIT-2207.md); read in [NOTE-1694](../notes.d/NOTE-1694.md) for the topological charge and the kinks.
 
 ## What was actually shown
 
@@ -97,8 +97,8 @@ charge, or of the rest of these lectures, is what must come first;
 
 ## Note of 2026-11-06: what holds it back
 
-A fuller reading (NOTE-1694 v2) confirms the title only for the four solitons of Tong's
+A fuller reading ([NOTE-1694](../notes.d/NOTE-1694.md) v2) confirms the title only for the four solitons of Tong's
 supersymmetric gauge theories, where the bound is saturated because the couplings are "tuned to
 critical values"; the general wording, and saturation beyond such tuning, need a standard
-treatment of kinks and topological solitons, which the record has not read. CLAIM-606's
+treatment of kinks and topological solitons, which the record has not read. [CLAIM-606](../claims.d/CLAIM-606.md)'s
 topological route waits on that reading.

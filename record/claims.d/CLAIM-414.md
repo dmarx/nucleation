@@ -188,7 +188,6 @@ independence theorem. The claim is unchanged.
 
 <!-- inactive-ok-file: THEORY-1292 CASE-163 — Proposed; the claim and reading filed from the mechanism literature, and a lab run, cited as open -->
 <!-- inactive-ok-file: CASE-203 — Proposed or new; entries of 2026-11-04 from the emergency-readiness readings, cited as open -->
-<!-- inactive-ok-file: NOTE-1596 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 - **The intervention is the mechanists' "lesion".** The claim's second
   construction separates the pair by a perturbation of the maintained

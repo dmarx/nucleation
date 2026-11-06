@@ -108,13 +108,13 @@ changes.
 
 ## Note of 2026-11-06: the partial datum rechecked
 
-THEORY-1275 was narrowed and promoted on a second checker's re-run of its computation
+[THEORY-1275](../theory.d/THEORY-1275.md) was narrowed and promoted on a second checker's re-run of its computation
 (scratch/formal/tms_critical_sizes_check.py). Two corrections to the datum above. The chain's
 critical sample sizes rise in training order at the point estimates of the learning coefficients,
 but at ±1 standard deviation of Table K.1 the order fails in 36 of 81 combinations, mostly because
 the first two steps swap. And SGD on 1,000 samples ends at the 5-gon or at 4-gon variants in the
 eight transition runs the paper shows (App. B); the 5⁺-gon of Eq. 10 is never the posterior's
-phase, since the 6-gon beats it for every n above about 202. Two tests that THEORY-1275's old
+phase, since the 6-gon beats it for every n above about 202. Two tests that [THEORY-1275](../theory.d/THEORY-1275.md)'s old
 condition asked for belong here: posterior sampling across n that confirms the chain's critical
 sample sizes, as Fig. 2 did for 5 → 6; and SGD at n = 1,000 and on both sides of n ≈ 600, across
 learning rates, batch sizes and initialisations, showing whether the 6-gon is reached. What would

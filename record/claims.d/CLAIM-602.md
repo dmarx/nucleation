@@ -89,8 +89,6 @@ summary: >-
   Azam et al.'s; the second and third are not in their paper. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-558 — Proposed; the claim this one complements, cited as open -->
-<!-- inactive-ok-file: NOTE-1647 — new; readings of the aid-dependency filing, cited as open -->
 
 # CLAIM-602: Where an organization's capacity is learned by doing the work it serves, and decays with disuse, outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while supply that covers only what the organization cannot yet do leaves its learning untouched, so what decides dependence is the order in which supply and capacity are used, not the amount of supply
 

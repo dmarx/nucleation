@@ -47,15 +47,15 @@ source:
 extended_by:
 - THEORY-tmplbj45
 summary: >-
-  Fodor (2019), LIT-2197, read in NOTE-1698 (Chapter 2, the introduction and
+  Fodor (2019), [LIT-2197](../literature.d/LIT-2197.md), read in [NOTE-1698](../notes.d/NOTE-1698.md) (Chapter 2, the introduction and
   the summary). What the review derives: the family result, the
   exponentially small leading-order radiation (checked by two independent
   computations, by Segur and Kruskal's earlier value for φ4, and by numerics
   that approach it as the amplitude falls), and the dimension dependence of
   stability from the core energy. A neighbour of Copeland, Gleiser & Müller
-  (1995), LIT-2200, whose sudden end it generalizes. The wider statement,
+  (1995), [LIT-2200](../literature.d/LIT-2200.md), whose sudden end it generalizes. The wider statement,
   that every state but the sine-Gordon breather radiates and that 3+1
-  oscillons last a few thousand oscillations at most, is THEORY-tmplbj45.
+  oscillons last a few thousand oscillations at most, is [THEORY-tmplbj45](THEORY-tmplbj45.md).
   Whether fine-tuned resonant oscillons are permanent is left open.
 ---
 <!-- inactive-ok-file: THEORY-tmplbj45 — Proposed; the wider statement this entry was narrowed from -->
@@ -64,7 +64,7 @@ summary: >-
 
 ## Source
 
-Fodor (2019), LIT-2197; read in NOTE-1698 (Chapter 2, Ch. 1 and Ch. 4).
+Fodor (2019), [LIT-2197](../literature.d/LIT-2197.md); read in [NOTE-1698](../notes.d/NOTE-1698.md) (Chapter 2, Ch. 1 and Ch. 4).
 
 ## What was actually shown
 
@@ -90,12 +90,12 @@ Fodor (2019), LIT-2197; read in NOTE-1698 (Chapter 2, Ch. 1 and Ch. 4).
 
 ## What this does not say
 
-- That no isolated breather exists; the review finds it "unlikely" numerically (THEORY-tmplbj45).
+- That no isolated breather exists; the review finds it "unlikely" numerically ([THEORY-tmplbj45](THEORY-tmplbj45.md)).
 - That the radiation is nonzero for every analytic potential: the leading coefficient vanishes at
   isolated parameters (ν3 = 0 at g5 = 0.26495), and the next order derived carries a factor d − 1.
 - Anything about 1–2 dimensional oscillons above the amplitude where the energy peaks, which is
   "currently unknown".
-- That 3+1 oscillons last a few thousand oscillations at most (THEORY-tmplbj45).
+- That 3+1 oscillons last a few thousand oscillations at most ([THEORY-tmplbj45](THEORY-tmplbj45.md)).
 - Whether fine-tuned resonant oscillons are permanent: the review holds that the peak states
   "necessarily radiate in a detectable way", and Gleiser & Krackow (2019) argue the contrary.
 - Anything for non-analytic potentials, complex fields with a conserved charge, coupled
@@ -103,5 +103,5 @@ Fodor (2019), LIT-2197; read in NOTE-1698 (Chapter 2, Ch. 1 and Ch. 4).
 
 ## Note of 2026-11-06: §§2.8–2.10 read
 
-NOTE-1698 v2 read the derivations that the earlier note of this date named as missing. The title
+[NOTE-1698](../notes.d/NOTE-1698.md) v2 read the derivations that the earlier note of this date named as missing. The title
 is narrowed to what they derive and the entry promoted (history v2).

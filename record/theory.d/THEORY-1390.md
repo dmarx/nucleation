@@ -35,7 +35,7 @@ date: '2026-11-05'
 source:
 - LIT-2042
 summary: >-
-  Hopkins (2010), LIT-2042, read in NOTE-1596 (every argument chapter and
+  Hopkins (2010), [LIT-2042](../literature.d/LIT-2042.md), read in [NOTE-1596](../notes.d/NOTE-1596.md) (every argument chapter and
   every passage stating the title's clauses; the type-by-type catalogue of
   ch. 3 and most of Appendix A's case list not read). Active as a report of
   what the thesis holds. Whether the 50 types are complete and whether the
@@ -85,4 +85,4 @@ thesis (2010), [LIT-2042](../literature.d/LIT-2042.md); read in [NOTE-1596](../n
   defers to the master's thesis for the 2-DOF column and the symmetry, and
   was not checked here (see the THEORY that extends this one).
 - That the freedom space alone does not fix actuator placement: the
-  thesis implies it but does not say it; CLAIM-589 does.
+  thesis implies it but does not say it; [CLAIM-589](../claims.d/CLAIM-589.md) does.

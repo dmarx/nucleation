@@ -11,7 +11,7 @@ line:
 - formal-apparatus
 summary: >-
   Opened by the twenty-ninth status review when it checked Hua, Luo,
-  Swersey and Wen's convergence proof (THEORY-1426, NOTE-1618). The proof
+  Swersey and Wen's convergence proof ([THEORY-1426](../theory.d/THEORY-1426.md), [NOTE-1618](../notes.d/NOTE-1618.md)). The proof
   holds for equal rates and has a gap for unequal ones. The iteration
   converged in re-run instances where the paper's assumption fails.
 ---
@@ -22,7 +22,7 @@ summary: >-
 
 Hua, Luo, Swersey and Wen's Theorem 1 states geometric convergence "Under
 Assumption 3.1", a bound on how far the rates differ within each layer of
-busy units (THEORY-1426, NOTE-1618). The abstract and the conclusion state
+busy units ([THEORY-1426](../theory.d/THEORY-1426.md), [NOTE-1618](../notes.d/NOTE-1618.md)). The abstract and the conclusion state
 it without the condition.
 
 The proof in the paper's E-Companion (EC.1.3) bounds

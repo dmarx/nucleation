@@ -25,7 +25,7 @@ source:
 extends:
 - THEORY-1406
 summary: >-
-  What Hopkins (2007) holds (THEORY-1406), stated as true. The thesis says
+  What Hopkins (2007) holds ([THEORY-1406](THEORY-1406.md)), stated as true. The thesis says
   "it was proven that these spaces embody all possible solutions"
   (abstract). Its uniqueness argument is by example, though it follows
   from screw reciprocity; finiteness is "suggested" by the six-constraint
@@ -40,8 +40,8 @@ summary: >-
 ## Source
 
 Hopkins, *Design of Parallel Flexure Systems via Freedom and Constraint
-Topologies (FACT)*, MIT S.M. thesis (2007), LIT-2031; read in NOTE-1592.
-The attributed report is THEORY-1406.
+Topologies (FACT)*, MIT S.M. thesis (2007), [LIT-2031](../literature.d/LIT-2031.md); read in [NOTE-1592](../notes.d/NOTE-1592.md).
+The attributed report is [THEORY-1406](THEORY-1406.md).
 
 ## What would settle it
 
@@ -63,5 +63,5 @@ constraints (1, 3, 9, 9, 3 and 1).
   twists" for Case 4, nine usable with pure-force constraints. Chapters 7–8
   were not read.
 - **Scope**: ideal pure-force constraints only; with wrenches of any pitch
-  the thesis finds more types (§9.4), and the PhD thesis, LIT-2042, counts
+  the thesis finds more types (§9.4), and the PhD thesis, [LIT-2042](../literature.d/LIT-2042.md), counts
   50.

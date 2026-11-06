@@ -22,13 +22,13 @@ source:
 extends:
 - THEORY-1502
 summary: >-
-  Fodor (2019), LIT-2197, asserts this in Ch. 1 and at the opening of §2.7:
+  Fodor (2019), [LIT-2197](../literature.d/LIT-2197.md), asserts this in Ch. 1 and at the opening of §2.7:
   "For a real scalar field, apart from the 1 + 1 dimensional sine-Gordon
   breather, there is no exactly time-periodic oscillating finite energy
   spatially localized configuration", and 3+1 oscillons "suddenly decay
   after a few thousand oscillations, at most". What the review derives is
-  THEORY-1502, which this extends. Filed by the twenty-ninth status review
-  as the wider thesis of THEORY-1502's old title (ADR-065, kind 1), with
+  [THEORY-1502](THEORY-1502.md), which this extends. Filed by the twenty-ninth status review
+  as the wider thesis of [THEORY-1502](THEORY-1502.md)'s old title ([ADR-065](../decisions.d/ADR-065.md), kind 1), with
   the old title and condition word for word.
 ---
 
@@ -36,14 +36,14 @@ summary: >-
 
 ## Source
 
-Fodor (2019), LIT-2197; read in NOTE-1698 (Chapter 2, the introduction and
-the summary). Split from THEORY-1502 when the twenty-ninth status review
+Fodor (2019), [LIT-2197](../literature.d/LIT-2197.md); read in [NOTE-1698](../notes.d/NOTE-1698.md) (Chapter 2, the introduction and
+the summary). Split from [THEORY-1502](THEORY-1502.md) when the twenty-ninth status review
 narrowed that entry to what the review derives.
 
 ## What was actually shown
 
 The review states this thesis (Ch. 1, §2.7). What it derives is narrower,
-and is THEORY-1502: no one-parameter family of exactly periodic localized
+and is [THEORY-1502](THEORY-1502.md): no one-parameter family of exactly periodic localized
 solutions shrinking to the vacuum except the sine-Gordon breathers (§2.3);
 an exponentially small leading-order radiation (§2.9); and stability by
 dimension from the core energy (§2.8). Against isolated solutions it offers

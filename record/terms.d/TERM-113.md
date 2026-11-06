@@ -85,4 +85,4 @@ abstracts. Adopting it is the owner's call.
 
 ## Note of 2026-11-06: Mukhopadhyay and colleagues, re-read
 
-The re-reading of §6.1 (NOTE-1583 v2) confirms the quotations in sense 1, verbatim. It adds a detail for senses 2 and 3. The review gives MEXCLP equal, independent busy probabilities, and MALP-II busy fractions computed from demand over the availability of covering facilities (§6.1, p. 14). Neither formulation is confirmed, since the review gives no formulas. THEORY-1396 is now Active. No status changes.
+The re-reading of §6.1 ([NOTE-1583](../notes.d/NOTE-1583.md) v2) confirms the quotations in sense 1, verbatim. It adds a detail for senses 2 and 3. The review gives MEXCLP equal, independent busy probabilities, and MALP-II busy fractions computed from demand over the availability of covering facilities (§6.1, p. 14). Neither formulation is confirmed, since the review gives no formulas. [THEORY-1396](../theory.d/THEORY-1396.md) is now Active. No status changes.

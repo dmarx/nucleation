@@ -13,8 +13,8 @@ line:
 refines:
 - QUESTION-398
 summary: >-
-  The promotion condition formerly on THEORY-1480, moved here when the
-  twenty-ninth status review promoted THEORY-1480 as a report of what
+  The promotion condition formerly on [THEORY-1480](../theory.d/THEORY-1480.md), moved here when the
+  twenty-ninth status review promoted [THEORY-1480](../theory.d/THEORY-1480.md) as a report of what
   Ostrom, Gibson, Shivakumar and Andersson (2002) hold. The authors assert
   both parts and test neither; whether aid bears them out is this question.
 ---
@@ -23,20 +23,20 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1480 reports Ostrom and colleagues' account. Predictable help sets
+[THEORY-1480](../theory.d/THEORY-1480.md) reports Ostrom and colleagues' account. Predictable help sets
 up a Samaritan's dilemma that lowers the recipient's own upkeep. Benefits
 outlast the aid only where beneficiaries hold all four dimensions of
 ownership: provision, production, consumption and alienation. The report
 argues both from an incentive analysis and five short illustrative cases
-with no counterfactual (NOTE-1647). It cites one cross-project claim, that
+with no counterfactual ([NOTE-1647](../notes.d/NOTE-1647.md)). It cites one cross-project claim, that
 projects with all four kinds of ownership "have been shown to be
 sustainable long after a project itself has ended (Shivakoti et al.,
 1997)" (p. 75). That volume is not registered here. This question is a
-sharpening of QUESTION-398, asked of aid.
+sharpening of [QUESTION-398](QUESTION-398.md), asked of aid.
 
 ## What would answer it
 
-THEORY-1480's former promote_when, verbatim:
+[THEORY-1480](../theory.d/THEORY-1480.md)'s former promote_when, verbatim:
 
 > A study comparing aid-funded projects or assets finds that those whose
 > beneficiaries stated the demand, contributed their own resources,

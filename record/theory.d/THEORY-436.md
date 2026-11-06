@@ -134,5 +134,5 @@ no such search; its support is plausibility.
 The title asserts the functional hypothesis itself, so it needs what its promote_when names: one
 pain predicate shown to apply across physically different organisms by the same functional
 criteria, and an independent reason for condition (3). Neither is in the record. The text is read
-only in an excerpt (NOTE-335); the located course copy of the reprint, and its archived capture,
-could not be fetched on 2026-11-06 (LIT-396).
+only in an excerpt ([NOTE-335](../notes.d/NOTE-335.md)); the located course copy of the reprint, and its archived capture,
+could not be fetched on 2026-11-06 ([LIT-396](../literature.d/LIT-396.md)).

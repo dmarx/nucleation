@@ -40,7 +40,6 @@ summary: >-
   not a finding about any grant program, people or institute, and a slow
   recovery is not evidence of the threshold.
 ---
-<!-- inactive-ok-file: CLAIM-600 — new; the assistant's synthesis on safe and hazardous support, cited as open -->
 
 # CLAIM-463: Restoring the conditions under which a capacity was lost need not restore the capacity: where the activity that maintains it reinforces itself, the same conditions can sustain both the capacity and its absence, so a capacity lost past a threshold returns only under conditions better than those it was lost under, or by rebuilding the activity directly, and restoring it can cost more than preserving it would have
 

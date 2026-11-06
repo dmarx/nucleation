@@ -8,8 +8,8 @@ tags:
 date: '2026-11-06'
 line: readiness
 summary: >-
-  The promotion condition formerly on THEORY-1503, moved here when the
-  twenty-ninth status review narrowed and promoted it under ADR-065. It
+  The promotion condition formerly on [THEORY-1503](../theory.d/THEORY-1503.md), moved here when the
+  twenty-ninth status review narrowed and promoted it under [ADR-065](../decisions.d/ADR-065.md). It
   read: 'The Journal of Regional Science version of record (48(1), 2008)
   read and found to report, as the working paper does, that the Schwarz
   criterion prefers a unique equilibrium for aggregate city manufacturing
@@ -20,7 +20,7 @@ summary: >-
   test admits a multiple-equilibria model that satisfies the ordering
   criterion and is preferred. Whether temporary interventions could select
   equilibria is the authors' policy reading, not asserted here.' Its
-  version-of-record route was dropped under ADR-065 §4, since no
+  version-of-record route was dropped under [ADR-065](../decisions.d/ADR-065.md) §4, since no
   discrepancy between versions is named; the independent test, with its
   refutation clause, is this question.
 ---
@@ -29,7 +29,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1503 reports what Davis and Weinstein's working paper (LIT-2201, read in NOTE-1690) finds: on the
+[THEORY-1503](../theory.d/THEORY-1503.md) reports what Davis and Weinstein's working paper ([LIT-2201](../literature.d/LIT-2201.md), read in [NOTE-1690](../notes.d/NOTE-1690.md)) finds: on the
 Allied bombing of Japanese cities, the Schwarz criterion prefers a single equilibrium for aggregate
 manufacturing and for pooled city-industry output, and for population slightly prefers two equilibria whose
 fit fails the intercept-ordering criterion. That is one test, by its authors, on one shock, under their own

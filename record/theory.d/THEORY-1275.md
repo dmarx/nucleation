@@ -89,7 +89,7 @@ are about 113 for the 6-gon, 121 for the 5-gon and 124 for the 5⁺-gon:
 the posterior favours the 6-gon, and the 6-gon beats the 5⁺-gon for every
 n above about 202, so 5⁺ is never the posterior's phase. Re-run on
 2026-11-06 by a second checker from the model, with controls
-(scratch/formal/tms_critical_sizes_check.py; NOTE-1462 v2): all numbers
+(scratch/formal/tms_critical_sizes_check.py; [NOTE-1462](../notes.d/NOTE-1462.md) v2): all numbers
 reproduced. At ±1 sd of each λ̂ the order fails in 36 of 81 combinations,
 mostly the first two steps.
 

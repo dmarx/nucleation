@@ -109,8 +109,8 @@ Tatel & Ackerman (2025), [LIT-2088](../literature.d/LIT-2088.md), unread.
 
 ## Note of 2026-11-06: read in full
 
-NOTE-1560 now reads the effect-size chapter, all of §5.3 and §§5.5–5.6.
+[NOTE-1560](../notes.d/NOTE-1560.md) now reads the effect-size chapter, all of §5.3 and §§5.5–5.6.
 The slopes survive a change of effect-size formula (§5.5), and the author
 judges publication bias not substantial (§5.6). The practice clause is
 narrowed to accuracy, as the earlier note asked. Whether an independent
-synthesis agrees is QUESTION-tmpec8ky.
+synthesis agrees is [QUESTION-tmpec8ky](../questions.d/QUESTION-tmpec8ky.md).

@@ -41,9 +41,9 @@ date: '2026-11-04'
 source:
 - LIT-2059
 summary: >-
-  van Leeuwaarden, Mathijsen and Zwart (2019), LIT-2059, read in NOTE-1577
+  van Leeuwaarden, Mathijsen and Zwart (2019), [LIT-2059](../literature.d/LIT-2059.md), read in [NOTE-1577](../notes.d/NOTE-1577.md)
   (§§1, 2.1, 3, 4, 5.1). They state Halfin and Whitt's M/M/s results in
-  formulas and attribute them to Halfin and Whitt (1981), LIT-2085, which
+  formulas and attribute them to Halfin and Whitt (1981), [LIT-2085](../literature.d/LIT-2085.md), which
   is unread. They prove the delay limit under the square-root scaling, but
   not its converse or the diffusion limit. Active as a report of the
   tutorial. It does not say that capacity sized to mean demand is wrong in
@@ -55,10 +55,10 @@ summary: >-
 
 ## Source
 
-Halfin and Whitt (1981), LIT-2085, the original, which was not read: no
+Halfin and Whitt (1981), [LIT-2085](../literature.d/LIT-2085.md), the original, which was not read: no
 lawful copy was located, and Whitt's own site returned HTTP 403. Sourced to
-the tutorial of van Leeuwaarden, Mathijsen and Zwart (2019), LIT-2059,
-read in NOTE-1577, which stands in for it at the owner's request.
+the tutorial of van Leeuwaarden, Mathijsen and Zwart (2019), [LIT-2059](../literature.d/LIT-2059.md),
+read in [NOTE-1577](../notes.d/NOTE-1577.md), which stands in for it at the owner's request.
 
 ## What was actually shown
 

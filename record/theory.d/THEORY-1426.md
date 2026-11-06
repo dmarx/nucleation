@@ -40,7 +40,7 @@ date: '2026-11-04'
 source:
 - LIT-2111
 summary: >-
-  Hua, Luo, Swersey and Wen (2026), LIT-2111, read in NOTE-1618 (§§1–3, §6
+  Hua, Luo, Swersey and Wen (2026), [LIT-2111](../literature.d/LIT-2111.md), read in [NOTE-1618](../notes.d/NOTE-1618.md) (§§1–3, §6
   and the E-Companion's proofs; §§4–5 skimmed). Theorem 1 states that their
   iteration converges geometrically to the exact stationary distribution,
   under Assumption 3.1, a technical bound on how far the rates differ. The
@@ -55,7 +55,7 @@ summary: >-
 
 ## Source
 
-Hua, Luo, Swersey and Wen (2026), LIT-2111; read in NOTE-1618.
+Hua, Luo, Swersey and Wen (2026), [LIT-2111](../literature.d/LIT-2111.md); read in [NOTE-1618](../notes.d/NOTE-1618.md).
 
 ## What was actually shown
 
@@ -75,7 +75,7 @@ Hua, Luo, Swersey and Wen (2026), LIT-2111; read in NOTE-1618.
   it, "In the case of 20 units, our algorithm is approximately 83% faster
   in terms of total time" (§5).
 
-The proof was read and checked in NOTE-1618 v2; see the note below.
+The proof was read and checked in [NOTE-1618](../notes.d/NOTE-1618.md) v2; see the note below.
 
 ## What this does not say
 
@@ -108,4 +108,4 @@ scratch/formal/hua_hypercube_convergence_check.py, uses the exact solution
 of the full generator as a control. It converged in all 10 runs. Six of
 them violate Assumption 3.1, one with rates within ±20% of each other.
 Whether the theorem holds for unequal rates, and whether the assumption is
-needed, is QUESTION-tmpfbbtg.
+needed, is [QUESTION-tmpfbbtg](../questions.d/QUESTION-tmpfbbtg.md).

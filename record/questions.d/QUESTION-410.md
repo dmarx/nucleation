@@ -111,7 +111,7 @@ the conditions they carried, word for word, say what would count.
 > proposed whole-origami escape is not part of the claim and needs no
 > test for promotion.
 
-### THEORY-1440
+### [THEORY-1440](../theory.d/THEORY-1440.md)
 
 Moved on 2026-11-06 when the twenty-ninth status review narrowed and promoted it.
 
