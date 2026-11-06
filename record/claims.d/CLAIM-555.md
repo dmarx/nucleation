@@ -136,3 +136,12 @@ does.
 ## Note of 2026-11-05: the constraint-architecture readings
 
 Mirth et al. ([NOTE-1616](../notes.d/NOTE-1616.md)), from the pasted synthesis on constraint architectures, support the claim as method: sublevel-set persistent homology tracks how one energy's sublevel sets change topology with the threshold, and it is stable, "small changes to the input produce only small changes in the persistent homology". The claim's object, the nerve of several losses' acceptance sets, is a step the paper does not take, and it mentions multi-parameter persistence only in passing. Its landscapes are molecular energies, not training losses. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Every ground is now held: CASE-197 went Active in the thirtieth status
+review. That case is a construction, though, and adopting it is the
+owner's call: its promotion is listed for the owner's assent in that
+pass's pull request. This claim is interpretive and rests on it as its
+one worked instance, so it waits on that assent and is not promoted in
+the same change.
