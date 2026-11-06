@@ -124,9 +124,9 @@ The note of 2026-11-03 cites the Assistant Axis as finding the persona
 following the latest user message "(R² 0.53–0.77 against 0.10)". The 0.10
 is the user-message embeddings' prediction of the change in position from
 the previous response, not a fit of the previous position; the paper never
-tests the previous position as a predictor (NOTE-1505, now Read;
-THEORY-1339). What the note needs stands: position changes within a
+tests the previous position as a predictor ([NOTE-1505](../notes.d/NOTE-1505.md), now Read;
+[THEORY-1339](../theory.d/THEORY-1339.md)). What the note needs stands: position changes within a
 conversation and follows the user's messages, so one persona per
 conversation does not fit. Whether the process carries state (a switching
 model) or is driven by input alone is not settled by that analysis; it is
-QUESTION-tmp0eghp's. The derivation and the status are unchanged.
+[QUESTION-tmp0eghp](../questions.d/QUESTION-tmp0eghp.md)'s. The derivation and the status are unchanged.

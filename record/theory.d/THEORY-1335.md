@@ -20,7 +20,7 @@ summary: >-
   that the account is true, that constraints transfer no energy, or that
   her constraint is the record's ([TERM-070](../terms.d/TERM-070.md)'s).
 ---
-<!-- inactive-ok-file: NOTE-1532 LIT-1990 THEORY-1306 — Unavailable or new; the source, its reading and neighbours, cited as open -->
+<!-- inactive-ok-file: LIT-1990 — Unavailable or new; the source, its reading and neighbours, cited as open -->
 
 # THEORY-1335: In Juarrero's constraint account, context-independent constraints take conditions away from equiprobability and context-dependent ones away from independence (after Gatlin); enabling constraints couple separate processes into a coherent dynamic whose constitutive constraints then act top down as second-order governing constraints that confine its components to a subregion of state space; a constraint is defined as what raises or lowers barriers to energy flow without transferring kinetic energy, carries no time-scale condition, and the governing regime is held not to be other than the components
 

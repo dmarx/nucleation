@@ -17,7 +17,7 @@ tags:
 date: '2026-11-06'
 line: learned-structure
 summary: >-
-  Lake, Salakhutdinov and Tenenbaum (2015, LIT-2009, NOTE-1542; THEORY-1357)
+  Lake, Salakhutdinov and Tenenbaum (2015, [LIT-2009](../literature.d/LIT-2009.md), [NOTE-1542](../notes.d/NOTE-1542.md); [THEORY-1357](../theory.d/THEORY-1357.md))
   report human-level one-shot classification and near-chance visual Turing
   tests for Bayesian Program Learning, with lesions. It is one study by the
   model's authors, on the data set they built, with naive judges; the record
@@ -28,7 +28,7 @@ summary: >-
 
 ## Why it is a question
 
-THEORY-1357 holds what the 2015 study measured. Whether the result
+[THEORY-1357](../theory.d/THEORY-1357.md) holds what the 2015 study measured. Whether the result
 survives other hands is open: the model, the Omniglot set and the visual
 Turing tests are the authors', the judges were naive Mechanical Turk
 workers, and the lesions differ by test (the type-level priors mattered
@@ -38,7 +38,7 @@ Tenenbaum 2019) is not held and would not be independent.
 
 ## What would answer it
 
-The test THEORY-1357's promote_when named: an independent replication on
+The test [THEORY-1357](../theory.d/THEORY-1357.md)'s promote_when named: an independent replication on
 the Omniglot one-shot task, or a comparable held-out set of characters,
 that confirms that the program-induction model reaches human one-shot
 classification accuracy, that its generated exemplars and characters are

@@ -32,8 +32,8 @@ source:
 extends:
 - THEORY-1306
 summary: >-
-  Juarrero (2023), LIT-1995, ch. 12, read in NOTE-1532; the thesis the book
-  asserts and THEORY-1306 reports. The book asserts it: a lack of asymmetry
+  Juarrero (2023), [LIT-1995](../literature.d/LIT-1995.md), ch. 12, read in [NOTE-1532](../notes.d/NOTE-1532.md); the thesis the book
+  asserts and [THEORY-1306](THEORY-1306.md) reports. The book asserts it: a lack of asymmetry
   in cycling rates "reflects the absence of control constraint by one on the
   other, regardless of signal amplitude" (p. 190). Proposed: the book has no
   model, and the loss of control when rates converge is asserted with
@@ -45,8 +45,8 @@ summary: >-
 
 ## Source
 
-Juarrero (2023), LIT-1995, pp. 68, 72, 77 and 183–191; read in NOTE-1532.
-The book's own wording of the thesis is reported, Active, in THEORY-1306.
+Juarrero (2023), [LIT-1995](../literature.d/LIT-1995.md), pp. 68, 72, 77 and 183–191; read in [NOTE-1532](../notes.d/NOTE-1532.md).
+The book's own wording of the thesis is reported, Active, in [THEORY-1306](THEORY-1306.md).
 
 ## Where the source asserts it
 
@@ -109,6 +109,6 @@ chapter offers none of either and tests neither.
 - **That rate separation suffices for control.** The book has control
   "muted or lost" by an enabling constraint with no change of rates
   (p. 188).
-- **That slowness makes a constraint.** That mechanism is CLAIM-478's, from
-  LIT-1292 and LIT-582, not this book's.
+- **That slowness makes a constraint.** That mechanism is [CLAIM-478](../claims.d/CLAIM-478.md)'s, from
+  [LIT-1292](../literature.d/LIT-1292.md) and [LIT-582](../literature.d/LIT-582.md), not this book's.
 - **Anything quantitative.** No ratio, threshold or measure is given.

@@ -375,9 +375,9 @@ No status changes.
 ## Note of 2026-11-06: Juarrero read in full
 
 The thirtieth status review read chapter 12 of Juarrero 2023 in full
-(LIT-1995, NOTE-1532, now Read). Its account of rate-demarcated levels is
-now held, Active, as what the book holds (THEORY-1306); the thesis itself
-stays Proposed in THEORY-tmppu8h2, which extends it. One addition to the note
+([LIT-1995](../literature.d/LIT-1995.md), [NOTE-1532](../notes.d/NOTE-1532.md), now Read). Its account of rate-demarcated levels is
+now held, Active, as what the book holds ([THEORY-1306](../theory.d/THEORY-1306.md)); the thesis itself
+stays Proposed in [THEORY-tmppu8h2](../theory.d/THEORY-tmppu8h2.md), which extends it. One addition to the note
 of 2026-11-03: the book has inter-level control "muted or lost" by an
 enabling constraint with no change of rates (p. 188), so for it rate
 separation is a condition of control, not what makes a relation a
