@@ -11,6 +11,7 @@ repository root, on a freshly fetched origin/main:
     python3 record/status-review/worklist.py            # every section, top 30
     python3 record/status-review/worklist.py --top 60
     python3 record/status-review/worklist.py --show CLAIM-027   # one cluster
+    python3 record/status-review/worklist.py --show CLAIM-027,CLAIM-177   # several, one load
 """
 import re
 from datetime import date, timedelta
@@ -27,13 +28,21 @@ LIVE = {"Active", "Proposed"}
 # A dated blocker note: "## Note of 2026-10-28: what holds it back". Within HELD_DAYS
 # (luria.yaml's stale_days) the entry is listed as held, not as work (ADR-057).
 BLOCKER = re.compile(r"^## Note of (\d{4}-\d{2}-\d{2}): what holds it back", re.M)
+# In a blocker note, a sentence that names an objection and says it still stands.
+STILL_OPEN = re.compile(r"\bunanswered\b|\bnot (?:yet )?(?:answered|written in|conceded|met)\b|\bstill stands\b"
+                        r"|\b(?:is|remains|still|left) open\b", re.I)
+BLOCKER_TEXT = re.compile(r"^## Note of (\d{4}-\d{2}-\d{2}): what holds it back\n(.*?)(?=^## |\Z)", re.M | re.S)
 HELD_DAYS = 14
 # A target filed with a concession already in its text says so, naming the objections:
 # "## Note of 2026-10-29: filed with its concessions". A version bump would record a revision
 # that never happened, and no rule over dates can tell such a target from an overstated one.
 # A sentence that names an objection only to say it is open, filed or given its converse edge
 # records the objection, not a revision for it (passes 18 and 19).
-MENTION_ONLY = re.compile(r"\bis open\b|\bconverse\b|filed as the objection")
+# A sentence that concedes only part of an objection, or says part of it still stands, does not
+# write the whole of it in (pass 25: CLAIM-518 conceded CLAIM-512's narrow horn only).
+MENTION_ONLY = re.compile(r"\bis open\b|\bconverse\b|filed as the objection"
+                          r"|\bin part\b|\bpartly\b|\bpartially\b|\b(?:remains|still|left) (?:open|unanswered)\b"
+                          r"|\bunanswered\b", re.I)
 FILED_WITH = re.compile(r"^## Note of (\d{4}-\d{2}-\d{2}): filed with its concessions\n(.*?)(?=^## |\Z)", re.M | re.S)
 
 
@@ -144,7 +153,14 @@ class Record:
                    if isinstance(h, dict) and any(objection in s and not MENTION_ONLY.search(s)
                                                   for s in re.split(r"(?<=\.)\s+", str(h.get("note", ""))))]
         filed = [d for d, text in FILED_WITH.findall(self.bodies.get(target, "")) if objection in text]
-        return any(d >= on for d in revised + filed)
+        done = [d for d in revised + filed if d >= on]
+        if not done:
+            return False
+        # a blocker note on the target, on or after its latest such revision, that names the
+        # objection says the objection still holds it back (pass 25)
+        held = [d for d, text in BLOCKER_TEXT.findall(self.bodies.get(target, ""))
+                if any(objection in x and STILL_OPEN.search(x) for x in re.split(r"(?<=\.)\s+", text))]
+        return not any(d >= max(done) for d in held)
 
     def blocker_date(self, code: str) -> str | None:
         """The date of the entry's latest blocker note, however old."""
@@ -224,6 +240,19 @@ class Record:
                                if isinstance(h, dict)]
                     out.append((g, t, str(fm.get("date", "")), max(revised, default="never")))
         return out
+
+    def demonstrated_on_readings(self) -> list[tuple]:
+        """Live demonstrated CLAIMs that list a reading not held under `grounds`.
+
+        A derivation rests on its steps. In passes 25 and 26 every such reading checked was an
+        instance, a parallel or an attribution, which is `corroborated_by` or no edge (ADR-058), and
+        moving it freed the claim. Listed for review, not as a contradiction: a reading can be a
+        real premise of a derivation, as a measured constant is.
+        """
+        return [(c, ts) for c, fm in sorted(self.docs.items())
+                if scheme(c) == "CLAIM" and self.status(c) in LIVE and fm.get("warrant") == "demonstrated"
+                for ts in [[t for t in as_list(fm.get("grounds"))
+                            if scheme(t) == "THEORY" and t in self.docs and self.status(t) != "Active"]] if ts]
 
     def retired_premises(self) -> list[tuple]:
         """Live entries that need something retired, with its named successor."""
@@ -343,19 +372,31 @@ def short(r: Record, code: str, n: int = 90) -> str:
 def main(root: str = "record", top: int = 30, show: str | None = None):
     r = Record.load(Path(root))
     today = date.today()
+    # one load for several codes: `--show CLAIM-1,CLAIM-2` (fire passes a tuple) or a list
+    for code in (show.split(",") if isinstance(show, str) else list(show or [])):
+        show_one(r, code)
     if show:
-        fm = r.docs[show]
-        print(short(r, show, 200), f"| {fm.get('role')} {fm.get('warrant')}")
-        if scheme(show) == "THEORY":
-            print("sources read:", r.reading_depth(show) or "no NOTE")
-        print("blocker note:", r.blocker_date(show) or "none")
-        print("defeated_if:", fm.get("defeated_if"))
-        for f in NEEDS.get(scheme(show), []) + ["objected_by", "countered_by", "objects_to", "answers"]:
-            for t in as_list(fm.get(f)):
-                print(f"  {f}: {short(r, t)}")
-        for d in sorted(r.needed_by.get(show, ())):
-            print(f"  needed by: {short(r, d)}")
         return
+    main_sections(r, today, top)
+
+
+def show_one(r: Record, show: str):
+    """Print one entry's cluster: its premises, objections and dependents."""
+    fm = r.docs[show]
+    print(short(r, show, 200), f"| {fm.get('role')} {fm.get('warrant')}")
+    if scheme(show) == "THEORY":
+        print("sources read:", r.reading_depth(show) or "no NOTE")
+    print("blocker note:", r.blocker_date(show) or "none")
+    print("defeated_if:", fm.get("defeated_if"))
+    for f in NEEDS.get(scheme(show), []) + ["objected_by", "countered_by", "objects_to", "answers"]:
+        for t in as_list(fm.get(f)):
+            print(f"  {f}: {short(r, t)}")
+    for d in sorted(r.needed_by.get(show, ())):
+        print(f"  needed by: {short(r, d)}")
+    print()
+
+
+def main_sections(r: Record, today: date, top: int):
     # 1. What must be empty: each is a finding the record contradicts itself on.
     print("## Credence inversions: Active CLAIMs resting on what is not held\n")
     for row in r.inversions():
@@ -401,6 +442,10 @@ def main(root: str = "record", top: int = 30, show: str | None = None):
     print(f"\n## Proposed readings no source of which is read in full ({len(unread)})\n")
     for t, d in unread:
         print(f"- {short(r, t, 70)}  {d or 'no NOTE'}")
+    demo = r.demonstrated_on_readings()
+    print(f"\n## Demonstrated claims grounded on readings not held ({len(demo)}): likely corroboration (ADR-058)\n")
+    for c, ts in demo:
+        print(f"- {short(r, c, 70)}  {', '.join(f'{t} [{r.status(t)}]' for t in ts)}")
     unread_g = r.unread_grounds()
     print(f"\n## Live claims that need a work no NOTE reads ({len(unread_g)})\n")
     for c, ts in unread_g:
