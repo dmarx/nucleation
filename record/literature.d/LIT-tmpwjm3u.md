@@ -53,7 +53,7 @@ Akhmediev, N. & Ankiewicz, A. (2008). Three Sources and Three Component Parts of
 
 ## Standing in the record
 
-Filed with the reading of Grelu & Akhmediev (2012), LIT-tmp8ut7r, whose
+Filed with the reading of Grelu & Akhmediev (2012), [LIT-tmp8ut7r](LIT-tmp8ut7r.md), whose
 reach into biology is only a citation of this volume. A reading should check
 first what the chapter names as the concept's sources and parts, whether it
 gives existence thresholds or hysteresis, and whether it draws any analogy

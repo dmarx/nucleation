@@ -24,7 +24,7 @@ source:
 bears_on:
 - QUESTION-398
 summary: >-
-  Grelu and Akhmediev (2012), LIT-tmp8ut7r, read in full in NOTE-tmp3nwf3
+  Grelu and Akhmediev (2012), [LIT-tmp8ut7r](../literature.d/LIT-tmp8ut7r.md), read in full in [NOTE-tmp3nwf3](../notes.d/NOTE-tmp3nwf3.md)
   from the authors' manuscript on HAL. Proposed: the review states the
   account and cites the simulations and experiments behind it without
   reproducing them. Its contrast with conservative solitons is with the
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Grelu & Akhmediev (2012), LIT-tmp8ut7r; read in NOTE-tmp3nwf3. Manuscript
+Grelu & Akhmediev (2012), [LIT-tmp8ut7r](../literature.d/LIT-tmp8ut7r.md); read in [NOTE-tmp3nwf3](../notes.d/NOTE-tmp3nwf3.md). Manuscript
 page numbers.
 
 ## What was actually shown

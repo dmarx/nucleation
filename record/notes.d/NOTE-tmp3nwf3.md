@@ -81,9 +81,9 @@ through it, not by its history.
 - **Lineage** (pp. 2–3). The name was given to solitary waves "with
   nonlinear gain or loss mechanisms"; "autosoliton" came from
   reaction–diffusion work; "Reaction-diffusion systems involve supply and
-  decay of matter" (citing Purwins et al., LIT-tmp7lcfh). The concept
+  decay of matter" (citing Purwins et al., [LIT-tmp7lcfh](../literature.d/LIT-tmp7lcfh.md)). The concept
   "stems from the seminal ideas of Prigogine on open systems far from
-  equilibrium" (p. 3, citing Nicolis & Prigogine, LIT-524).
+  equilibrium" (p. 3, citing Nicolis & Prigogine, [LIT-524](../literature.d/LIT-524.md)).
 - **Exact balance** (p. 3): "the balance between gain and loss, which should
   be exact in order to produce stationary localised solutions, plays a
   dominant role in the dynamics."
@@ -166,45 +166,45 @@ through it, not by its history.
 
 ## Connections
 
-It names Prigogine's open systems as a source (LIT-524, THEORY-692) and
+It names Prigogine's open systems as a source ([LIT-524](../literature.d/LIT-524.md), [THEORY-692](../theory.d/THEORY-692.md)) and
 places "autosolitons" in reaction–diffusion work, the setting of Turing's
-instability (THEORY-543, LIT-535) and of the Belousov–Zhabotinsky reaction
-(LIT-531, THEORY-508); Cross & Hohenberg's pattern formation (LIT-527) is
+instability ([THEORY-543](../theory.d/THEORY-543.md), [LIT-535](../literature.d/LIT-535.md)) and of the Belousov–Zhabotinsky reaction
+([LIT-531](../literature.d/LIT-531.md), [THEORY-508](../theory.d/THEORY-508.md)); Cross & Hohenberg's pattern formation ([LIT-527](../literature.d/LIT-527.md)) is
 the broader frame. Knobloch on spatial localization in dissipative systems
-(LIT-1642, Unfetched) covers the same subject and would supply the
+([LIT-1642](../literature.d/LIT-1642.md), Unfetched) covers the same subject and would supply the
 subcritical bistability, snaking and existence ranges this review omits, as
-would Purwins et al. (LIT-tmp7lcfh) and the Akhmediev–Ankiewicz chapter
-(LIT-tmpwjm3u), neither reached. Kuehn's folds and critical transitions
-(THEORY-1429, LIT-2048) and rate-induced tipping (THEORY-1079) are the
+would Purwins et al. ([LIT-tmp7lcfh](../literature.d/LIT-tmp7lcfh.md)) and the Akhmediev–Ankiewicz chapter
+([LIT-tmpwjm3u](../literature.d/LIT-tmpwjm3u.md)), neither reached. Kuehn's folds and critical transitions
+([THEORY-1429](../theory.d/THEORY-1429.md), [LIT-2048](../literature.d/LIT-2048.md)) and rate-induced tipping ([THEORY-1079](../theory.d/THEORY-1079.md)) are the
 record's background for thresholds and collapse, none of which this review
-treats. THEORY-1343, a slow integral of motion under weak noise, is the
+treats. [THEORY-1343](../theory.d/THEORY-1343.md), a slow integral of motion under weak noise, is the
 nearest the record comes to the conservative side. Herr et al. (2014),
 filed in parallel, reads temporal dissipative solitons in a cw-driven
 microresonator, the driven-cavity kind this review sets apart from cavity
 soliton lasers, and by its reader's report supplies what this one lacks: a
 detuning window of existence and a soliton number set by random seeding.
-Its account is THEORY-tmphrwgv.
+Its account is [THEORY-tmphrwgv](../theory.d/THEORY-tmphrwgv.md).
 
 ## Bearing on the record
 
-- **TERM-088 (senses of individuation)**: supports the dynamical sense for an
+- **[TERM-088](../terms.d/TERM-088.md) (senses of individuation)**: supports the dynamical sense for an
   externally supplied structure. A parameter-fixed attractor with a "high
   degree of stability", which returns to its shape after explosions, is
   dynamically individuated though sustained from outside; its identity is
   fixed by the parameters, not by its history.
-- **TERM-070 (closure)**: nothing directly. The gain and loss regions are a
+- **[TERM-070](../terms.d/TERM-070.md) (closure)**: nothing directly. The gain and loss regions are a
   redistribution of energy within one structure; no constraints or time
   scales are named, so closure cannot be assessed.
-- **THEORY-072 (flame against organism)**: consistent with the demarcation,
+- **[THEORY-072](../theory.d/THEORY-072.md) (flame against organism)**: consistent with the demarcation,
   does not test it. It gives an optical dissipative structure with internal
   differentiation, but the cavity, absorber and gain medium are supplied,
   not produced by the soliton.
-- **QUESTION-085 (flame or convection cell)**: the review's own contrast
+- **[QUESTION-085](../questions.d/QUESTION-085.md) (flame or convection cell)**: the review's own contrast
   between solitons in "driven nonlinear optical cavities" and cavity soliton
   lasers without a permanent driving field, and its gain term ε|ψ|²ψ that
   scales with the structure's own intensity, point toward the flame rung;
   the review does not frame them that way.
-- **CLAIM-604 (self-sustaining upkeep)**: consistent in form, not a test.
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (self-sustaining upkeep)**: consistent in form, not a test.
   Gain enters in proportion to the structure's intensity against linear
   loss; new solitons form above a fluctuation threshold; on and off states
   coexist at the same standing parameters. That with δ < 0 the zero field is
@@ -212,24 +212,24 @@ Its account is THEORY-tmphrwgv.
   claim's ignition threshold, is the reader's inference from the model, not
   the authors' statement. No collapse point, pump threshold or hysteresis
   loop is given.
-- **CLAIM-597 (supplied upkeep)**: consistent. The structure needs continuous
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep)**: consistent. The structure needs continuous
   exchange, and the supply's parameters set its shape. Withdrawal of the
   pump is not discussed.
-- **CLAIM-600 (when support can be withdrawn)**: supports one condition. A
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (when support can be withdrawn)**: supports one condition. A
   transient writing beam starts a structure that then persists on the
   standing supply, support starting a process that keeps itself going on a
   flux that stays available. Slow reversion is not addressed.
-- **CLAIM-516 (cycles and closure)**: none.
-- **THEORY-1273 (metastable maintained states)**: qualifies. The picture is
+- **[CLAIM-516](../claims.d/CLAIM-516.md) (cycles and closure)**: none.
+- **[THEORY-1273](../theory.d/THEORY-1273.md) (metastable maintained states)**: qualifies. The picture is
   of deterministic attractors; soliton rain shows noise nucleating new
   solitons above a threshold, which fits fluctuation-driven transitions
   between coexisting states, but no escape times or size scaling are given.
-- **QUESTION-398 (independence from the founding intervention)**: bears
+- **[QUESTION-398](../questions.d/QUESTION-398.md) (independence from the founding intervention)**: bears
   directly. Written cavity solitons persist without the beam that wrote
   them, independent of what founded them but not of what feeds them; and the
   final form is "predetermined by the equation parameters, rather than by
   the initial conditions", so the founding leaves no trace in the shape.
-- **QUESTION-399 (becoming a self-maintaining nucleus)**: none. The soliton
+- **[QUESTION-399](../questions.d/QUESTION-399.md) (becoming a self-maintaining nucleus)**: none. The soliton
   regenerates its shape, not the constraints that make it possible.
 
 **Corrections to the brief this was read against.** Keeping identity through
@@ -247,7 +247,7 @@ soliton rain. Formation from initial data with radiation shed, slow decay
   bifurcation diagram in pump strength, no hysteresis loop, and no treatment
   of collision outcomes (merger, annihilation, passing through) beyond bound
   states and synthesis and dissociation.
-- Its reach into biology is a citation of the 2008 volume (LIT-tmpwjm3u),
+- Its reach into biology is a citation of the 2008 volume ([LIT-tmpwjm3u](../literature.d/LIT-tmpwjm3u.md)),
   not an argument.
 - The copy read is the author manuscript with revision marks.
 
@@ -255,5 +255,5 @@ soliton rain. Formation from initial data with radiation shed, slow decay
 
 Whether, at fixed CGLE parameters, a soliton exists over a range of pump in
 which the zero state is also stable, and whether switching it off and on
-traces a hysteresis loop: the reading Purwins et al. or LIT-1642 would
+traces a hysteresis loop: the reading Purwins et al. or [LIT-1642](../literature.d/LIT-1642.md) would
 settle.

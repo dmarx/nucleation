@@ -21,7 +21,7 @@ bears_on:
 - QUESTION-398
 summary: >-
   Herr, Brasch, Jost, Wang, Kondratiev, Gorodetsky and Kippenberg (2014),
-  LIT-tmpm3sse, read in NOTE-tmpgvg9r from arXiv v3; experiment in one
+  [LIT-tmpm3sse](../literature.d/LIT-tmpm3sse.md), read in [NOTE-tmpgvg9r](../notes.d/NOTE-tmpgvg9r.md) from arXiv v3; experiment in one
   MgF2 resonator, simulation of the coupled-mode (Lugiato-Lefever)
   equations without thermal effects, and approximate analytics. Proposed:
   the window rests on an infinite-domain analysis the record has not read,
@@ -35,7 +35,7 @@ summary: >-
 
 ## Source
 
-Herr et al. (2014), LIT-tmpm3sse; read in NOTE-tmpgvg9r (arXiv:1211.0733v3).
+Herr et al. (2014), [LIT-tmpm3sse](../literature.d/LIT-tmpm3sse.md); read in [NOTE-tmpgvg9r](../notes.d/NOTE-tmpgvg9r.md) (arXiv:1211.0733v3).
 
 ## What was actually shown
 

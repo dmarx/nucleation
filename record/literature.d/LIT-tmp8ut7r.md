@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-06 (NOTE-tmp3nwf3) from the authors' accepted
+  read in full 2026-11-06 ([NOTE-tmp3nwf3](../notes.d/NOTE-tmp3nwf3.md)) from the authors' accepted
   manuscript on HAL (hal-04901011, CC BY 4.0), which carries revision marks
   and is not the typeset article; worth reading as a short statement, by two
   of the concept's main authors, of what separates a dissipative soliton from
@@ -74,7 +74,7 @@ Grelu, P. & Akhmediev, N. (2012). Dissipative solitons for mode-locked lasers. *
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp3nwf3. Page numbers are the manuscript's.*
+*From the reading, [NOTE-tmp3nwf3](../notes.d/NOTE-tmp3nwf3.md). Page numbers are the manuscript's.*
 
 - **Family against attractor.** Where a conservative system gives "a family
   comprising an infinity of soliton solutions", "the attractor in a
@@ -94,11 +94,11 @@ Grelu, P. & Akhmediev, N. (2012). Dissipative solitons for mode-locked lasers. *
 
 ## Standing in the record
 
-Filed with LIT-tmp7lcfh (Purwins, Bödeker & Amiranashvili 2010) and
-LIT-tmpwjm3u (Akhmediev & Ankiewicz 2008), which it cites as refs. 6 and 8
+Filed with [LIT-tmp7lcfh](LIT-tmp7lcfh.md) (Purwins, Bödeker & Amiranashvili 2010) and
+[LIT-tmpwjm3u](LIT-tmpwjm3u.md) (Akhmediev & Ankiewicz 2008), which it cites as refs. 6 and 8
 and which were not reached, and beside Herr et al. (2014) on temporal
 solitons in microresonators, filed in parallel. Its account is
-THEORY-tmphrwgv.
+[THEORY-tmphrwgv](../theory.d/THEORY-tmphrwgv.md).
 
 **Corrections the reading makes to the brief it was read against.** Keeping
 shape and velocity through collisions is said of the solitons of integrable
@@ -108,8 +108,8 @@ solitons; Kerr solitons in more than two dimensions, which expand or
 collapse, p. 16). Bistability, hysteresis and a pump existence threshold are
 not discussed; the only threshold is on fluctuations, in soliton rain
 (pp. 15–16). That a soliton of its model needs a finite seed, which would
-match CLAIM-604's ignition threshold, is the reader's inference from the
+match [CLAIM-604](../claims.d/CLAIM-604.md)'s ignition threshold, is the reader's inference from the
 model's linear loss, not the authors' statement. The missing points would
-come from Purwins et al., the Akhmediev–Ankiewicz chapter or LIT-1642
+come from Purwins et al., the Akhmediev–Ankiewicz chapter or [LIT-1642](LIT-1642.md)
 (Knobloch). The review names Prigogine's open systems as a source of the
-concept and cites Nicolis & Prigogine 1977, held as LIT-524.
+concept and cites Nicolis & Prigogine 1977, held as [LIT-524](LIT-524.md).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-06 (NOTE-tmpgvg9r) from arXiv:1211.0733v3 (27 June
+  read in full 2026-11-06 ([NOTE-tmpgvg9r](../notes.d/NOTE-tmpgvg9r.md)) from arXiv:1211.0733v3 (27 June
   2013), the authors' last arXiv version, not the version of record; worth
   reading as the first observation of temporal dissipative Kerr solitons in
   a microresonator and as a clean physical case of a supplied localized
@@ -71,11 +71,11 @@ summary: >-
 
 # LIT-tmpm3sse: Temporal solitons in optical microresonators
 
-Herr, T., Brasch, V., Jost, J. D., Wang, C. Y., Kondratiev, N. M., Gorodetsky, M. L. & Kippenberg, T. J. (2014). Temporal solitons in optical microresonators. *Nature Photonics* 8(2): 145–152. doi:10.1038/nphoton.2013.343. ARXIV-1211.0733.
+Herr, T., Brasch, V., Jost, J. D., Wang, C. Y., Kondratiev, N. M., Gorodetsky, M. L. & Kippenberg, T. J. (2014). Temporal solitons in optical microresonators. *Nature Photonics* 8(2): 145–152. doi:10.1038/nphoton.2013.343. [ARXIV-1211.0733](https://arxiv.org/abs/1211.0733).
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpgvg9r, of arXiv v3. Page numbers are the preprint's.*
+*From the reading, [NOTE-tmpgvg9r](../notes.d/NOTE-tmpgvg9r.md), of arXiv v3. Page numbers are the preprint's.*
 
 - **Supply is constitutive.** "Their dissipative nature requires them to be
   continuously in contact with an external energy source" (p. 1); the
@@ -108,11 +108,11 @@ Herr, T., Brasch, V., Jost, J. D., Wang, C. Y., Kondratiev, N. M., Gorodetsky, M
 Filed for the owner's suggestion that soliton formation bears on the
 record's questions of individuation and persistence. It is the record's
 first reading on dissipative solitons; the nearest held neighbour is
-Knobloch's review of spatial localization in dissipative systems, LIT-1642,
+Knobloch's review of spatial localization in dissipative systems, [LIT-1642](LIT-1642.md),
 registered but not read. The reading is a physical case of supplied
-upkeep, CLAIM-597, and of support that must stay a standing input,
-CLAIM-600, and it qualifies CLAIM-604: thresholds, collapse outside a
+upkeep, [CLAIM-597](../claims.d/CLAIM-597.md), and of support that must stay a standing input,
+[CLAIM-600](../claims.d/CLAIM-600.md), and it qualifies [CLAIM-604](../claims.d/CLAIM-604.md): thresholds, collapse outside a
 window and path-dependent formation here come from a nonlinear Kerr
 response under a supply that does not depend on the structure's state.
-Filed from it: THEORY-tmp4fe10. No instruction for machine-learning
+Filed from it: [THEORY-tmp4fe10](../theory.d/THEORY-tmp4fe10.md). No instruction for machine-learning
 practice.

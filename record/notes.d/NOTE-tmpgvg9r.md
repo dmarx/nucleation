@@ -208,7 +208,7 @@ Akhmediev and Ankiewicz (2008) and Grelu and Akhmediev (2012), the latter
 read in this batch. It contrasts itself with fiber-loop cavity solitons,
 which need a writing pulse and active stabilization. In the record its
 nearest held neighbour is Knobloch's review of spatial localization in
-dissipative systems, LIT-1642, registered but not read; NOTE-414
+dissipative systems, [LIT-1642](../literature.d/LIT-1642.md), registered but not read; [NOTE-414](NOTE-414.md)
 (Belousov-Zhabotinsky) is another held reading on a supplied dissipative
 pattern.
 
@@ -225,50 +225,50 @@ pattern.
   noise-seeded modulation and chaos during the sweep, and shedding of
   radiation is not discussed. Slow decay: none; decay after switch-off is
   asserted, set by the cavity loss, and not slow.
-- **CLAIM-597 (supplied upkeep).** Supports the withdrawal half: no pump, no
+- **[CLAIM-597](../claims.d/CLAIM-597.md) (supplied upkeep).** Supports the withdrawal half: no pump, no
   soliton. It differs in that the supply here does not replace parts; it
   holds a pattern in a medium whose light turns over at rate κ. The
   claim's e^(−dt) decay after the supply stops is not measured here.
-- **CLAIM-600 (when support can be withdrawn).** A case where support must
+- **[CLAIM-600](../claims.d/CLAIM-600.md) (when support can be withdrawn).** A case where support must
   stay a standing input: persistence after withdrawal is nil, and there
   is no slow reversion to mimic persistence. The sweep that forms the
   solitons can be stopped; the pump cannot.
-- **CLAIM-604 (self-sustaining upkeep).** Qualifies. A threshold, loss
+- **[CLAIM-604](../claims.d/CLAIM-604.md) (self-sustaining upkeep).** Qualifies. A threshold, loss
   outside a window and path-dependent formation are all present, but
   they arise from a nonlinear Kerr response with a supply that does not
   depend on the structure's intact state. State-dependent uptake is then
   one route to the three signatures, not the only one; the claim's scope
   note may allow this.
-- **QUESTION-281 (transitions by which distinctions come into being).** The
+- **[QUESTION-281](../questions.d/QUESTION-281.md) (transitions by which distinctions come into being).** The
   steps are discrete transitions between states of different soliton
   number, reached by sweeping through the effective zero detuning; creation
   (from modulation instability and chaos) and stabilization (the thermal
   self-locking) are separate here, as the question asks.
-- **CLAIM-157 (the unit as a gap-isolated block that lasts while it
+- **[CLAIM-157](../claims.d/CLAIM-157.md) (the unit as a gap-isolated block that lasts while it
   persists).** Its pressure (iii) asks for localized structures that persist
   while their material turns over. Here the intracavity light is replaced
   on the cavity decay time while each soliton keeps its position and
   shape for hours: a case for testing whether the criterion follows a form
   through turnover. The paper gives no spectral or coupling analysis.
-- **TERM-088 (senses of individuation).** Supports "dynamical"
+- **[TERM-088](../terms.d/TERM-088.md) (senses of individuation).** Supports "dynamical"
   individuation without autonomy: each soliton is countable, locatable and
   persists under perturbation within the window, wholly held by the pump.
   Its form is fixed by the conditions, so individuality lies in number and
   position, not in kind.
-- **THEORY-072 and QUESTION-085 (flame or convection cell).** The soliton is
+- **[THEORY-072](../theory.d/THEORY-072.md) and [QUESTION-085](../questions.d/QUESTION-085.md) (flame or convection cell).** The soliton is
   like a convection cell for its energy, but the thermal self-stability is
   a flame-like feedback of the pattern on its own supply conditions: the
   soliton keeps its own effective detuning stable. One constraint only, not
-  closure (TERM-070).
-- **THEORY-1273, THEORY-1270, THEORY-1315 (metastable maintained states,
+  closure ([TERM-070](../terms.d/TERM-070.md)).
+- **[THEORY-1273](../theory.d/THEORY-1273.md), [THEORY-1270](../theory.d/THEORY-1270.md), [THEORY-1315](../theory.d/THEORY-1315.md) (metastable maintained states,
   which state is occupied, slowing near a fold).** Bear, untested: the
   paper shows deterministic multistability with path-dependent selection
   of N and calls the attractor robust, but studies neither noise-driven
   escape between soliton numbers nor behaviour near the window's edges.
-- **QUESTION-398 and QUESTION-399.** The formation support (the sweep) is
+- **[QUESTION-398](../questions.d/QUESTION-398.md) and [QUESTION-399](../questions.d/QUESTION-399.md).** The formation support (the sweep) is
   withdrawable; the upkeep support (the pump) never is. Beyond the thermal
   self-stability the soliton contributes nothing to its own maintenance.
-- Filed: THEORY-tmp4fe10. No instruction for machine-learning practice;
+- Filed: [THEORY-tmp4fe10](../theory.d/THEORY-tmp4fe10.md). No instruction for machine-learning practice;
   nothing for the anthology.
 
 ## Limitations

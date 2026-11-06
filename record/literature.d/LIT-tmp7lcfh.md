@@ -49,7 +49,7 @@ Purwins, H.-G., Bödeker, H. U. & Amiranashvili, Sh. (2010). Dissipative soliton
 
 ## Standing in the record
 
-Filed with the reading of Grelu & Akhmediev (2012), LIT-tmp8ut7r, which
+Filed with the reading of Grelu & Akhmediev (2012), [LIT-tmp8ut7r](LIT-tmp8ut7r.md), which
 cites it and which gives no pump existence threshold and never discusses
 bistability or hysteresis. A reading should check first whether this review
 states those for reaction–diffusion and gas-discharge solitons, and what it
