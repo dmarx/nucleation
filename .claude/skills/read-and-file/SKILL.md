@@ -85,17 +85,29 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 
 - **Where to look**, roughly in this order: arXiv; PubMed Central and
   Europe PMC; the author's, lab's or institution's page; course and
-  scholarly third-party pages (ADR-064); the locations OpenAlex lists.
+  scholarly third-party pages (ADR-074); the locations OpenAlex lists.
+- **Which copies count** (ADR-074). A copy of a published article, or of
+  an author's manuscript, on a course or reading-list page, a faculty or
+  research-group page, a scholarly third-party site (SciSpace or
+  typeset.io, Semantic Scholar's PDF) or an author's own upload
+  (academia.edu, ResearchGate) is lawful to read. Shadow libraries and
+  ebook-piracy sites (Sci-Hub, LibGen, Anna's Archive, Z-Library,
+  epdf.pub) and uploads of whole in-copyright books are not. A brief may
+  narrow this only with a reason stated in the curation entry.
 - **Stop at any bot check**: captcha, Cloudflare or WAF challenge,
   "Access Denied", rate limit, paywall. Never try to get around one.
   Retrying the same host doesn't help either.
 - **The outcome sets the status:**
   - read: the work goes on to step 6;
   - **Unfetched** (ADR-053): a lawful copy was located at an exact address
-    that this client could not fetch. The status note gives the address
-    and the obstacle;
-  - **Unavailable** (ADR-041): no lawful copy was found. The status note
-    says where you looked.
+    and not read, whatever stopped it: a bot check, a TLS failure, a reset,
+    or this session's own permission system or network policy (ADR-074).
+    The status note gives the address, the obstacle and the date. Never
+    work around a refusal; name a host the network policy blocks in the
+    curation entry, so the owner can allow it;
+  - **Unavailable** (ADR-041): no lawful copy was found, or only a
+    paywalled one. The status note says where you looked. A located lawful
+    copy never makes a work Unavailable.
 - **A copy the owner supplies** returns any of these to reading.
 - **When the work itself can't be read, read its neighbours.** Find
   accessible literature that carries the same ideas, and read the best one
@@ -244,13 +256,18 @@ before filing anything.
 Send each reader:
 
 - **The work**: its identifier, and the lawful copies already known.
-- **The rules**: lawful copies only; stop at any bot check or paywall
-  without retrying; no email address to any service; downloads in their own
+- **The rules**: lawful copies only, and "lawful" is step 5's list of
+  copies that count, sent in full, not restated from memory (ADR-074);
+  stop at any bot check or paywall without retrying, and stop at any
+  refusal by the session's permission system without working around it; no email address to any service; downloads in their own
   directory, with Python run under `-I`; write to the scratchpad only.
 - **Why it is being read**: what the source claims about the work, and the
   record codes it bears on, with paths, to be read.
 - **What to return**, in a file of under about 250 lines:
   - Provenance: the URL, the format, what was read and what skipped;
+  - every copy located, read or not, with its exact address, its kind
+    (step 5) and what stopped the fetch, with the date, so the filer can
+    tell Unfetched from Unavailable;
   - Summary;
   - Contribution;
   - Key results, each with a section or page and a short quote;
