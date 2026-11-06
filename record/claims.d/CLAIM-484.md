@@ -148,3 +148,7 @@ attention is granted it with no mark. Same structure, not shown same
 mechanism. Neither meets the need.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+The MSF transcript (NOTE-1484, 2026-10-31) records the marks of conflict but not the claim and the grant apart from them, and Metzinger's "collision" (NOTE-1496, 2026-11-01) defines the three apart but only as a speculation with no study. The episode the note of 2026-10-29 asks for, with claimed precedence, granted authority and the marks each recorded, is still not in the record.

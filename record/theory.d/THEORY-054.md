@@ -197,3 +197,7 @@ events count as controls, is an early SDT statement of the claim's "not order"
 half.
 
 The status is unchanged.
+
+## Note of 2026-11-06: what holds it back
+
+NOTE-1500 (2026-11-03) reports, at second hand, that Howard et al. 2017 (LIT-1996, Unfetched) and Van den Broeck et al. 2021 did not separate integrated from identified regulation, which leaves the first half of the promote_when unmet; NOTE-1531 states the "not order" half but gives no case of a higher-order endorsement behaving as a controlled motive. Neither result is in the record.

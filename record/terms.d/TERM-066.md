@@ -216,3 +216,7 @@ they mean. [CLAIM-404](../claims.d/CLAIM-404.md) uses "capture" mostly in the in
 sense, and [CLAIM-359](../claims.d/CLAIM-359.md) also uses A41's "adversarial" and "endogenous authority
 capture". [CLAIM-404](../claims.d/CLAIM-404.md)'s revision of 2026-10-30 corrected a parenthetical on
 [THEORY-852](../theory.d/THEORY-852.md)'s status and changed none of its uses.
+
+## Note of 2026-11-06: what holds it back
+
+CLAIM-277, CLAIM-330, CLAIM-340 and CLAIM-359 were revised on 2026-11-04 for vocabulary only (ADR-070), and CLAIM-404 on 2026-11-03 only in its uses; none now says which sense of "capture" it means. The owner's choice between the fidelity-relative and the institutional sense is unmade and QUESTION-087 is Open.

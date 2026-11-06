@@ -169,3 +169,7 @@ production:
   balance or under "peculiar conditions".
 
 A status review should weigh this. Nothing here changes its status.
+
+## Note of 2026-11-06: what holds it back
+
+The Schlögl readings of 2026-10-31 (THEORY-1270, Active) count against the principle: the more stable state can carry the lower entropy production, and extremum principles hold only near detailed balance or under "peculiar conditions". They do not refute it, since a one-species model does not meet "enough internal degrees of freedom" and THEORY-1270 says so itself, but they make the missing definition of that condition the crux. Neither a far-from-equilibrium derivation nor a prospective test is in the record.

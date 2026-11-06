@@ -185,3 +185,7 @@ itself. It gives no test of the prediction that a fully opaque self-model
 would end selfhood. Meditation as "opacity control" names a mechanism
 but no measure. No status, title or warrant changes.
 
+
+## Note of 2026-11-06: what holds it back
+
+The Elephant and the Blind (LIT-1943, read in part 2026-11-01) and CLAIM-355's note of that date add no measure of the attentional availability of self-model content and no report of a wholly opaque self-model either way. Being No One (LIT-467) is still Unavailable.
