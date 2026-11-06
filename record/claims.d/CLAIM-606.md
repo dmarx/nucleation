@@ -120,3 +120,14 @@ summary: >-
 
 - **That organizations are solitons.** The routes are structural analogies. Real organizations lose energy, so the integrable route is an idealization for them. Topological protection's social analogue, if any, is not argued here.
 - **That the physics is settled where the readings are thin.** Hysteresis is not named in Herr et al., and no reverse sweep is shown. The formation threshold for integrable solitons rests on a reader's derivation. Whether fine-tuned oscillons live forever is unresolved between Fodor and Gleiser and Krackow. Kivshar and Malomed, Zabusky and Kruskal, Satsuma and Yajima and the dissipative-soliton reviews by Purwins et al. and Akhmediev and Ankiewicz were not read.
+
+## Note of 2026-11-06: what holds it back
+
+Its three routes are the findings of seven Proposed readings, none yet
+promoted, and it uses TERM-088, not adopted; two of its supports are by
+its own account thin (no reverse sweep in Herr et al., a reader's
+derivation for the integrable formation threshold).
+
+## Note of 2026-11-06: the Kerr case and CLAIM-604's scoped clause
+
+The twenty-fifth status review promoted CLAIM-604 with its "lacks" clause scoped to repair supplied at a rate set by the supply alone, whatever the structure's state. Read that way, the Kerr soliton is not a counterexample to it: the pump does not depend on the soliton, but the soliton's uptake of it does, since its gain is parametric and drawn through its own field (NOTE-1692). That is CLAIM-604's first case, state-dependent uptake from a fixed flux. So the qualification above rests on the oscillon, which shows a formation window and an abrupt end with no supply at all, and on the Kerr case only as an instance of thresholds and path dependence arising under a supply the structure does not control. The point that the signatures do not by themselves identify self-maintenance stands on the oscillon. No status changes.

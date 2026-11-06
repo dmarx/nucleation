@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp4g8e1
 title: 'A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    CLAIM-602 no longer rests on this claim: at the status review's
+    ruling (the owner delegated these rulings), its disuse term
+    became a stated condition, and the two claims complement each
+    other (ADR-057). The claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -26,6 +34,8 @@ line:
 grounds:
 - THEORY-1424
 - THEORY-1404
+complements:
+- CLAIM-602
 summary: >-
   Filed at the owner's request on 2026-11-04, to account for an idea the
   readings of the pasted bibliography on emergency readiness surfaced and
@@ -39,8 +49,8 @@ summary: >-
   wording is the filer's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-600 — new; the assistant's synthesis on safe and hazardous support, cited as open -->
-<!-- inactive-ok-file: CLAIM-602 NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
-<!-- inactive-ok-file: THEORY-1424 THEORY-1404 — Proposed; the readings this claim is grounded in, themselves Proposed, so the claim is no firmer than they are -->
+<!-- inactive-ok-file: NOTE-1647 — new; readings and claims of the aid-dependency filing, cited as open -->
+<!-- inactive-ok-file: THEORY-1424 — Proposed; the reading this claim is grounded in, itself Proposed, so the claim is no firmer than they are -->
 <!-- inactive-ok-file: NOTE-1560 — Skimmed; the reading of Tatel's dissertation the quotations come from -->
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation
@@ -123,3 +133,11 @@ Extended from skill to tissue. Under full ventilatory support the diaphragm's fi
 ## Note of 2026-11-05: the readings on assistance and skill
 
 Supported and extended. Disuse need not mean rare operation: it can sit inside daily work when automation does a subtask (Macnamara et al., [NOTE-1710](../notes.d/NOTE-1710.md)). The decay is larger for cognitive than for procedural skill, and it may go unnoticed by the performer. The FAA's advice that pilots use manual skills on most flights is practice kept up beside the support, this claim's remedy. No new decay rates are given; the record's rates are still Tatel's ([LIT-2079](../literature.d/LIT-2079.md)). No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+Its first two parts are Tatel's rates and practice moderator
+(THEORY-1424), whose reading (NOTE-1560) skipped the effect-size and
+moderator chapters; until that reading is complete, or another read
+study gives decay with time since use, the claim's ground is not held.
+THEORY-1404, its other ground, went Active in the same pass.

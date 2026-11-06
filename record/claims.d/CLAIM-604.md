@@ -1,10 +1,42 @@
 ---
 number: 604
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpw4ai2
-title: "Where a structure's upkeep draws on a flux in proportion to its own intact state, as a flame's does, it has an ignition threshold below which it goes out with the supply still on, a supply level below which it collapses rather than declines, and an outage after which restoring the supply does not relight it; upkeep supplied regardless of the structure's state has none of the three"
-version: 1
+title: "Where each damaged part of a structure is repaired by drawing on a flux at a rate proportional to the structure's intact share, as a flame's upkeep is, it has an ignition threshold below which it goes out with the supply still on, a supply level below which it collapses rather than declines, and an outage after which restoring the supply does not relight it; repair supplied at a rate set by the supply alone, whatever the structure's state, has none of the three"
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057. The title now says repair per
+    damaged part is proportional to the intact share, the model's
+    κsI, since total uptake linear in I has none of the three
+    signatures, as the body says. Its last clause is scoped to the
+    model's other case, repair at a rate set by the supply alone,
+    ρs(1 − I), and it survives the soliton readings so scoped. Kerr
+    solitons (NOTE-1692) have an existence window and bistability
+    under a pump that does not depend on the soliton, but their gain
+    is parametric, drawn from the pump through the soliton's own
+    field, so their upkeep is state-dependent uptake from a fixed
+    flux, this claim's first case, not supplied repair. Oscillons
+    (NOTE-1699) have a threshold and an abrupt end with no supply at
+    all, so neither clause covers them. Neither meets the
+    defeated_if, which names only an error in either model.
+    CLAIM-606's point, that the signatures do not identify
+    state-dependent upkeep outside these models, is recorded in the
+    note of 2026-11-06 and is not claimed against here. THEORY-072,
+    cited for the flame as an instance, moves to corroborated_by
+    (ADR-058). Old title: 'Where a structure's upkeep draws on a
+    flux in proportion to its own intact state, as a flame's does,
+    it has an ignition threshold below which it goes out with the
+    supply still on, a supply level below which it collapses rather
+    than declines, and an outage after which restoring the supply
+    does not relight it; upkeep supplied regardless of the
+    structure's state has none of the three'. The twenty-fifth
+    status review re-ran scratch/formal/supplied_maintenance_toys.py
+    and re-derived the steady states.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -30,8 +62,9 @@ complements:
 - CLAIM-273
 - CLAIM-516
 grounds:
-- THEORY-072
 - THEORY-1270
+corroborated_by:
+- THEORY-072
 bears_on:
 - QUESTION-085
 - QUESTION-399
@@ -57,9 +90,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-1690 — Skimmed; a reading of the persistence filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
-<!-- inactive-ok-file: CLAIM-597 THEORY-072 — Proposed; entries this claim extends or rests its reading on, cited as open -->
+<!-- inactive-ok-file: THEORY-072 — Proposed; the reading this claim is corroborated by, cited as open -->
 
-# CLAIM-604: Where a structure's upkeep draws on a flux in proportion to its own intact state, as a flame's does, it has an ignition threshold below which it goes out with the supply still on, a supply level below which it collapses rather than declines, and an outage after which restoring the supply does not relight it; upkeep supplied regardless of the structure's state has none of the three
+# CLAIM-604: Where each damaged part of a structure is repaired by drawing on a flux at a rate proportional to the structure's intact share, as a flame's upkeep is, it has an ignition threshold below which it goes out with the supply still on, a supply level below which it collapses rather than declines, and an outage after which restoring the supply does not relight it; repair supplied at a rate set by the supply alone, whatever the structure's state, has none of the three
 
 ## The two kinds of upkeep
 

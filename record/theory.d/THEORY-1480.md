@@ -71,3 +71,11 @@ Ostrom, Gibson, Shivakumar & Andersson (2002), [LIT-2174](../literature.d/LIT-21
 - Any threshold, rate or timing for handover, or any measured effect size.
 - Anything beyond one donor, Sida, around 2000, and five cases in Zambia and
   India.
+
+## Note of 2026-11-06: what holds it back
+
+NOTE-1647 has not read Chs. 7–8 of the report, the interview evidence on
+the donor's own incentives, nor Ch. 3 and Appendix A, which the authors'
+argument uses. Read in full, the attribution title would promote under
+ADR-065 and its condition, a cross-project comparison, would move to a
+QUESTION.

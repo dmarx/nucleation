@@ -1,10 +1,29 @@
 ---
 number: 605
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp6t2vz
-title: "Where capacity is learned by doing and its growth needs capacity already present, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold"
-version: 1
+title: "Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold"
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-057, with CLAIM-602 and CLAIM-604, on
+    which it rests. The readings it reconciles or illustrates move
+    from grounds to corroborated_by (ADR-058). The title states the
+    disuse decay the deadline needs. Old title: 'Where capacity is
+    learned by doing and its growth needs capacity already present,
+    support that does the work has a deadline after which withdrawal
+    no longer restores capacity, and a slow taper of such support is
+    worse than an abrupt cut because it holds practice down long
+    enough to cross the threshold; support that covers only what the
+    party cannot yet do needs no taper but cannot lift a party
+    already below the threshold'. The twenty-fifth status review
+    re-ran scratch/formal/capability_trap_toy.py and checked by the
+    comparison principle that a slower taper never leaves more
+    capacity.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -31,7 +50,7 @@ rests_on:
 - CLAIM-604
 complements:
 - CLAIM-600
-grounds:
+corroborated_by:
 - THEORY-1483
 - THEORY-1492
 - THEORY-1465
@@ -58,9 +77,9 @@ summary: >-
   already did the work. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-600 CLAIM-602 CLAIM-604 — Proposed; claims this one rests on or extends, cited as open -->
+<!-- inactive-ok-file: CLAIM-600 — Proposed; the synthesis this claim complements, cited as open -->
 
-# CLAIM-605: Where capacity is learned by doing and its growth needs capacity already present, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
+# CLAIM-605: Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
 
 ## The model
 

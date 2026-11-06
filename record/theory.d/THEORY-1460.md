@@ -68,3 +68,10 @@ A review; the evidence is others', and mixed.
 - That all aid does harm: debt relief, peacekeeping and regional or global
   public goods are held unlikely to.
 - How a state is weaned off aid, beyond naming Korea, Taiwan and Botswana.
+
+## Note of 2026-11-06: what holds it back
+
+Panel or quasi-experimental evidence on the aid–tax and aid–governance
+links that addresses reverse causation and income; the source is a
+review whose own verdict is "not a conclusive result" and whose own
+figure is bivariate.

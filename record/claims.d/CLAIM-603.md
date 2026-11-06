@@ -224,3 +224,12 @@ Supports. In Knack's estimates ([NOTE-1707](../notes.d/NOTE-1707.md)), aid's har
 ## Note of 2026-11-05: the readings on assistance and skill
 
 Two qualifications on incentives. Koedinger and Aleven's tutors put a designed cost on asking for help, and some learners game the system anyway ([NOTE-1708](../notes.d/NOTE-1708.md)). Macnamara et al. cite a crossover near 70 % automation accuracy, below which relying on the aid stops paying ([NOTE-1710](../notes.d/NOTE-1710.md)): the favoured loss depends on how reliable the supply is. No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+The title still states the favoured loss generally, though the
+counterpoint readings it records (NOTE-1685, NOTE-1684, NOTE-1669) find
+no such response in poor households; the title should be narrowed to the
+organizational case it concedes. Its Samaritan's-dilemma ground
+(THEORY-1480) is read only in part, and Moore's thesis (THEORY-1459) is
+not held.

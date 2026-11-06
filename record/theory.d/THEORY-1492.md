@@ -1,18 +1,39 @@
 ---
 number: 1492
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpukudp
-promote_when: >-
-  The full Kenya country report, or the study's synthesis, is read and
-  shows, with the follow-up figures, that the activities sustained 2–3
-  years after exit are those that before withdrawal had their own resource
-  stream, sufficient capacity, motivated participants and substantive
-  linkages formed early, and had operated independently for a time, that
-  those relying on project-supplied inputs to the end declined, and that
-  impact at exit did not predict which was which.
-title: 'In three Food for Peace projects in Kenya followed 2–3 years after exit, impact at exit did not predict sustained benefit: the activities that continued had, before the project withdrew, their own resource stream, sufficient technical and managerial capacity, motivated participants and substantive linkages formed early, and had operated independently for a time, while activities that relied on project-supplied inputs until the end declined'
-version: 1
+title: 'Coates, Kegode, Galante and Blau report that in three Food for Peace projects in Kenya, followed 2–3 years after exit, impact at exit did not necessarily predict sustained benefit, and they read their within-country contrasts, which have no comparison group, as showing that the activities that continued had, before the project withdrew, their own resource stream, sufficient technical and managerial capacity, motivated participants and substantive linkages formed early, and had operated independently for a time, while activities that relied on project-supplied inputs until the end declined'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner
+    delegated these rulings), under ADR-065. The old title stated as
+    a finding what the brief offers as the authors' reading of
+    contrasts within one country, with no comparison group and
+    drought confounded with project, and it dropped the brief's 'did
+    not necessarily predict'. The title now reports that reading,
+    which NOTE-1650 reads in full. The dropped factual form is a
+    mis-statement, so under ADR-047 it gets this note only. The
+    deleted condition asked for the fuller report or the synthesis
+    (LIT-2151, unread), which the reported title does not need: 'The
+    full Kenya country report, or the study's synthesis, is read and
+    shows, with the follow-up figures, that the activities sustained
+    2–3 years after exit are those that before withdrawal had their
+    own resource stream, sufficient capacity, motivated participants
+    and substantive linkages formed early, and had operated
+    independently for a time, that those relying on project-supplied
+    inputs to the end declined, and that impact at exit did not
+    predict which was which.'. Old title: 'In three Food for Peace
+    projects in Kenya followed 2–3 years after exit, impact at exit
+    did not predict sustained benefit: the activities that continued
+    had, before the project withdrew, their own resource stream,
+    sufficient technical and managerial capacity, motivated
+    participants and substantive linkages formed early, and had
+    operated independently for a time, while activities that relied
+    on project-supplied inputs until the end declined'
 tags:
 - society-and-governance
 - social-science
@@ -26,14 +47,14 @@ summary: >-
   synthesis ([LIT-2151](../literature.d/LIT-2151.md)). Savings groups with no outside capital,
   fee-financed paravets and water committees held; volunteer health
   workers tied to an under-resourced ministry, and producer associations
-  subsidised to the end, declined. Proposed: the brief is qualitative, has
+  subsidised to the end, declined. Active as a report of the authors' reading: the brief is qualitative, has
   no comparison group and confounds drought with project, so the division
   along the four factors and the manner of withdrawal is the authors'
   reading of contrasts within one country.
 ---
 <!-- inactive-ok-file: LIT-2151 — Unavailable or new; cited from the reading of Coates et al. (2016) as open -->
 
-# THEORY-1492: In three Food for Peace projects in Kenya followed 2–3 years after exit, impact at exit did not predict sustained benefit: the activities that continued had, before the project withdrew, their own resource stream, sufficient technical and managerial capacity, motivated participants and substantive linkages formed early, and had operated independently for a time, while activities that relied on project-supplied inputs until the end declined
+# THEORY-1492: Coates, Kegode, Galante and Blau report that in three Food for Peace projects in Kenya, followed 2–3 years after exit, impact at exit did not necessarily predict sustained benefit, and they read their within-country contrasts, which have no comparison group, as showing that the activities that continued had, before the project withdrew, their own resource stream, sufficient technical and managerial capacity, motivated participants and substantive linkages formed early, and had operated independently for a time, while activities that relied on project-supplied inputs until the end declined
 
 ## Source
 

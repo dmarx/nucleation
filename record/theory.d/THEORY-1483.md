@@ -73,3 +73,21 @@ A derivation, not a test.
   by capacity, the model does not give that.
 - That "gap-filling" aid in the benign sense, aid used only after own
   capacity, is harmless: the paper's gap-filling aid is the harmful rule.
+
+## Note of 2026-11-06: what holds it back
+
+The stability of the high-aid point M. The twenty-fifth status review
+checked the model from the equations quoted here, in a reconstruction
+(scratch/formal/azam_stability_check.py, with three parameter sets).
+The check reproduced the steady-state roots, the saddle at the low-aid
+point P and the myopic planner's threshold on initial institutions. It
+did not reproduce the stability of M. In the reconstruction's
+state–costate system both of M's eigenvalues have real part δ/2 > 0, as
+the trace of a one-state discounted problem is the discount rate, so M
+has no stable manifold: it is neither a sink nor saddle-path stable, and
+no path reaches it except from M itself. That rules out saddle-path
+stability for M in the reconstruction, not in the paper, whose system
+may differ from it. What is missing is the paper's own sense of "locally
+stable", read off its phase diagram and Appendix and squared with this;
+until then the title's "stable high-aid, low-capacity equilibrium" is
+unconfirmed.

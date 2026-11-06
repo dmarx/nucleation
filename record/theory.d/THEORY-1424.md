@@ -65,3 +65,11 @@ Tatel & Ackerman (2025), [LIT-2088](../literature.d/LIT-2088.md), unread.
 - That the estimates are unbiased: the author argues relearning during
   retention tests makes them too low.
 - Anything about measuring a capability by how often it is used.
+
+## Note of 2026-11-06: what holds it back
+
+NOTE-1560 has not read Tatel's effect-size chapter (Ch. 3), most of the
+moderator analyses (§5.3) or the publication-bias sections (§§5.5–5.6),
+so the rates and the practice moderator are not yet read in full. When
+they are, the title needs "for accuracy" on its practice clause, since
+the moderator was not significant for speed or mixed measures.
