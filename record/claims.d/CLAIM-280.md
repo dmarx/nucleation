@@ -34,6 +34,7 @@ tags:
 date: '2026-10-13'
 works:
 - self-as-recursive-ecology
+- the-individual-and-its-conditions
 line:
 - distributed-agency
 grounds:

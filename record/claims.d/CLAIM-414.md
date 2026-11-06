@@ -45,6 +45,8 @@ date: '2026-10-22'
 line:
 - evidence-for-experience
 - formal-apparatus
+works:
+- the-individual-and-its-conditions
 grounds:
 - CASE-126
 complements:

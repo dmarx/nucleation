@@ -37,6 +37,8 @@ tags:
 date: '2026-10-21'
 line:
 - distributed-agency
+works:
+- the-individual-and-its-conditions
 rests_on:
 - CLAIM-152
 complements:

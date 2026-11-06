@@ -72,6 +72,7 @@ complements:
 works:
 - organization-of-perspective
 - character-that-changed-parties
+- the-individual-and-its-conditions
 uses:
 - TERM-100
 - TERM-084
