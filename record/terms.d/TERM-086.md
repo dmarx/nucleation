@@ -149,3 +149,7 @@ paper's vocabulary can state only one of them as agency, and the other
 as its lack.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-06: what holds it back
+
+The two entries that use it name no mode: CLAIM-514 calls producing, maintaining and revising world-modeling capabilities "further achievements" without saying which mode each is, and CLAIM-545 cites only A26's line that freedom is an organizational achievement, with no target or mode. And the definition does not say whether revising a capacity is its reproductive mode, which includes "adapting the relations the capacity depends on", or, as QUESTION-362 says of a modeling repertoire, "a fourth thing, distinct from reproduction".

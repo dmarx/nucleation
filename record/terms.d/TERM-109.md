@@ -1,10 +1,20 @@
 ---
 number: 109
-status: Proposed
+status: Active
 formerly:
 - TERM-tmp5t7y8
 title: 'provisional commitment: the costly allocation of a capability to a possible future need before that need is established, under a policy that permits subsequent release or redirection'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the status review's ruling (the owner delegated these
+    rulings; ADR-057): the definition is settled and has one sense, and
+    every entry that cites it, CLAIM-559, CLAIM-561, ARG-053, CASE-213
+    and QUESTION-394, means that sense, a costly allocation that can be
+    released or redirected on information, neither maintenance nor
+    exercise. A's wording is kept.
 tags:
 - operations-research
 - agency

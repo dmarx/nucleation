@@ -1,10 +1,23 @@
 ---
 number: 102
-status: Proposed
+status: Active
 formerly:
 - TERM-tmp0evbm
 title: 'higher-order volition: an attitude that a given first-order motive or regime should be the one that moves to action, Frankfurt''s second-order volition, the reflective sense of "endorse", kept apart from conferral between processes, from the machinery that makes a motive effective, and from identification'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Adopted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). The definition is settled: ADR-070 leaves
+    "endorse" to this sense, and conferral and grant, the effects it is
+    kept apart from, were adopted with it. It has one sense, and every
+    entry that cites it means the reflective attitude: CLAIM-553, which
+    uses it, and CLAIM-025, CLAIM-354, CLAIM-552, CASE-074, TERM-101 and
+    TERM-103. Whose attitude it is, a person's or a process's, stays the
+    ownership question its Bearer paragraph leaves open; the term takes
+    no side. The wording is unchanged.
 tags:
 - free-will
 - agency

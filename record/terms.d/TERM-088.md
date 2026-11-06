@@ -1,6 +1,6 @@
 ---
 number: 88
-status: Proposed
+status: Active
 formerly:
 - TERM-tmpdnqic
 complements:
@@ -8,7 +8,7 @@ complements:
 - TERM-071
 - TERM-074
 title: 'individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -21,6 +21,21 @@ history:
     about a candidate individual, and excludes the genetic sense, which
     names the producing process, with the rule that a claim meaning it
     says so. The four senses, the title and the status are unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Adopted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). The definition edited in version 2 has settled:
+    nothing filed since contradicts it, and every entry that uses the
+    term names its sense. CLAIM-474 means the dynamical sense, with
+    autonomy as the further question; CLAIM-529 the constitutive and
+    dynamical senses for its interaction route and the constitutive for
+    its attitude route; CLAIM-544 the constitutive; CLAIM-606 the
+    dynamical. Readings that cite it name a sense or say they mean none
+    of the four, THEORY-1276 and NOTE-1485 the genetic sense the
+    definition excludes. Its settle condition was "adoption if claims
+    cite the sense they mean". The four senses, the exclusion and the
+    title are unchanged.
 tags:
 - individuation
 - complex-systems
@@ -37,7 +52,7 @@ summary: >-
   still be a dynamically individuated entity." This term lists the
   senses so that a claim saying "individual" says which. Organizational
   autonomy is [TERM-070](TERM-070.md)'s closure, named here as the sense it is not.
-  Proposed.
+  Adopted 2026-11-06 at the status review's ruling.
 ---
 <!-- inactive-ok-file: CLAIM-167 CLAIM-170 CLAIM-544 — Proposed, Open, Deferred or new; cited from U27–U33 of the exchange "Assess SDT Coverage" as open -->
 <!-- inactive-ok-file: CLAIM-474 CLAIM-157 — Proposed, Open or new; the entries this term serves -->
