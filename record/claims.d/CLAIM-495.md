@@ -32,7 +32,6 @@ summary: >-
   It is the zeroth cohomology of the connection sheaf, so standard, and
   it says nothing about which organizations have such transports.
 ---
-<!-- inactive-ok-file: NOTE-1606 — Proposed or new; the constraint-architecture readings of 2026-11-05, cited as open -->
 
 # CLAIM-495: For an O(d)-valued connection on a connected graph, the assignments that meet every edge relation xᵢ = Tᵢⱼxⱼ form a space isomorphic to the vectors at one vertex fixed by every holonomy based there, which is the kernel of the connection Laplacian; for d = 1, and for U(1) phases, that space is all or nothing, but for d > 1 a connection whose loops are not trivial can still keep a subspace on which every loop is, so compatibility among local frames can be partial and graded by direction; and edge maps that do not commute can compose to a flat loop, so non-commutativity is not holonomy
 
@@ -92,3 +91,9 @@ Two origami readings from the pasted synthesis on constraint architectures suppo
 Murray and Sastry ([NOTE-1622](../notes.d/NOTE-1622.md)) and Kane and Lubensky ([NOTE-1601](../notes.d/NOTE-1601.md)) are loose analogies only: a Lie bracket is the displacement a small closed loop of input leaves, a continuous anholonomy, and a topological index counts kernel minus cokernel, not global sections on a finite graph.
 
 No status changes.
+
+## Note of 2026-11-06: Foschi, Hull and Ku, read
+
+Read in full (NOTE-1606). The note of 2026-11-05 should read "at every rigidly folded state of a developable vertex". The identity-product closure is stated for a crease pattern on a flat sheet, and a vertex whose sector angles do not sum to 2π has no flat crease directions to rotate about.
+
+The check was on developable states only. There the product is the identity to rounding and the rotations do not commute (scratch/formal/foschi_closure_check.py, second-checked by the coordinator on 2026-11-06). The clause the reading supports stands. No status change.
