@@ -1,10 +1,23 @@
 ---
 number: 539
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmplyicq
 title: 'Jennings''s attention as the source of a free will has Frankfurt''s two-level architecture with its upper level changed from an attitude to a process: the whole collection of an agent''s interests, prioritizing, settles which first-order interest becomes effective, as a second-order volition does for Frankfurt, but by metacontrol and not by endorsement; so it inherits unchanged the objection that a manipulated organization can meet the condition, and what it adds to Frankfurt is that the process forms new interests and is a contextually emergent cause'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings), at
+    the twenty-seventh status review: THEORY-120 leaves grounds for LIT-692.
+    The claim needs only the architecture of Frankfurt's 1971 paper, read
+    first-hand in NOTE-545, not THEORY-120's thesis that identification is
+    all the freedom responsibility requires; the body keeps the citation
+    (ADR-058). With THEORY-1341 Active, every premise is Active, no
+    objection is filed, and NOTE-1508 meets neither horn of the defeated_if:
+    the paper never appeals to endorsement or identification and adds no
+    historical condition. Promoted (ADR-057).
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -26,7 +39,7 @@ rests_on:
 grounds:
 - LIT-1963
 - THEORY-1341
-- THEORY-120
+- LIT-692
 complements:
 - CLAIM-027
 bears_on:
@@ -43,7 +56,7 @@ summary: >-
   endorsement anywhere, and no historical condition.
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
-<!-- inactive-ok-file: THEORY-1341 THEORY-120 — Proposed or Open; the reading and the question the claim bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-120 — Proposed or Open; the reading and the question the claim bears on, cited as open -->
 
 # CLAIM-539: Jennings's attention as the source of a free will has Frankfurt's two-level architecture with its upper level changed from an attitude to a process: the whole collection of an agent's interests, prioritizing, settles which first-order interest becomes effective, as a second-order volition does for Frankfurt, but by metacontrol and not by endorsement; so it inherits unchanged the objection that a manipulated organization can meet the condition, and what it adds to Frankfurt is that the process forms new interests and is a contextually emergent cause
 

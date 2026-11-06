@@ -1,20 +1,30 @@
 ---
 number: 1341
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmptunid
-promote_when: >-
-  An interventional result in which disrupting feedback from dorsolateral
-  prefrontal cortex during choices between equally valued options both
-  prevents the stalemate from being resolved by attention and prevents the
-  later shift in preference toward the chosen option, while leaving
-  selection driven by fixed or formed interests (salience, reward history)
-  intact; and a comparison in which a biased-competition model without such
-  feedback fails to reproduce the same pattern. Correlations of prefrontal
-  activity with choice do not settle it, and neither does Voigt's model
-  being consistent with it.
 title: 'In Jennings''s hybrid account, attention is prioritization of processing by a subject that is the whole collection of an organism''s fixed, formed and fluid interests, separated from filtering by whether selection answers to that collection, marked by feedback from dorsolateral prefrontal cortex; when interests are equally weighted, attention breaks the stalemate and updates the chosen option''s value, so that a fluid interest becomes a formed one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: the title reports Jennings's account, read in
+    full in NOTE-1508, and nothing in the record contradicts the report. The
+    promote_when asked for an interventional test of the account, and moves
+    word for word with the unattributed thesis to THEORY-tmpa95f7, which
+    extends this entry; the note of 2026-11-03 on Voigt bears on that
+    thesis, not on this report. The old condition: An interventional result
+    in which disrupting feedback from dorsolateral prefrontal cortex during
+    choices between equally valued options both prevents the stalemate from
+    being resolved by attention and prevents the later shift in preference
+    toward the chosen option, while leaving selection driven by fixed or
+    formed interests (salience, reward history) intact; and a comparison in
+    which a biased-competition model without such feedback fails to
+    reproduce the same pattern. Correlations of prefrontal activity with
+    choice do not settle it, and neither does Voigt's model being consistent
+    with it.
 tags:
 - neuroscience
 - agency
@@ -26,11 +36,13 @@ summary: >-
   Jennings (2026), [LIT-1963](../literature.d/LIT-1963.md), §6, read in [NOTE-1508](../notes.d/NOTE-1508.md). The
   operational half of the paper: what attention is, how it is told from
   filtering, and how it forms interests. The stalemate mechanism is taken
-  from Voigt 2022 (LIT-1976), registered unread. Proposed because the
-  criterion is inferred, not tested, and the paper reports no data. It does
+  from Voigt 2022 (LIT-1976), registered unread. Held as what the
+  paper proposes; the criterion is inferred, not tested, and the paper
+  reports no data, so whether the account is true is THEORY-tmpa95f7's. It does
   not say the subject is contextually emergent ([THEORY-1314](THEORY-1314.md)) or that
   attention is the source of a free will.
 ---
+<!-- inactive-ok-file: THEORY-tmpa95f7 — Proposed or new; the thesis filed beside this report, cited as open -->
 <!-- inactive-ok-file: THEORY-1326 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
 <!-- inactive-ok-file: THEORY-1314 — Proposed; the paper's metaphysical half -->
 

@@ -1,10 +1,10 @@
 ---
 number: 533
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpex9rg
 title: 'The sensitivity that formal chaos gives a will''s dynamics is not control over them: in Kane''s self-forming actions, chaotic amplification keeps the outcome open, but it magnifies the agent''s efforts, uncontrolled fluctuations and outside inputs alike, so what would make the outcome the agent''s is how its own control couples to the amplifying directions, relative to noise and to other parties'' inputs and with what feedback, which sensitivity does not supply; and under weak noise what amplification touches lasts only where it reaches the slow modes'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -24,6 +24,20 @@ history:
     self-formation cheap', now reads 'a self-forming action'. The note of
     2026-11-06 no longer names TERM-099 as holding the claim back. The
     claim is unchanged.
+- version: 4
+  date: '2026-11-06'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings), at
+    the twenty-seventh status review: promoted (ADR-057). CLAIM-354, which
+    its note of 2026-11-06 named as the only thing holding it back, is
+    Active in the same change, and that note is deleted. Every premise is
+    Active and no objection is filed. The defeated_if names Kane's reply as
+    its candidate; read since (NOTE-1518), it makes the indeterminacy a
+    hindrance internal to the effort but concedes that it lessens control
+    (p. 43), and its relabelling of the noise as the agent's own (p. 40)
+    assumes all the indeterminacy is endogenous and leaves other parties'
+    inputs separable, so it does not meet the condition. The defeated_if's
+    "the record has not read it" is out of date and left as filed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -68,7 +82,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1329 THEORY-1328 — new; Kane 2009 and La Guardia et al. 2000, read on 2026-11-03 -->
 <!-- inactive-ok-file: NOTE-1535 THEORY-1302 THEORY-1321 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: CLAIM-354 CLAIM-404 CLAIM-478 LIT-1985 LIT-1997 THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: CLAIM-404 CLAIM-478 LIT-1985 LIT-1997 THEORY-040 THEORY-328 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-533: The sensitivity that formal chaos gives a will's dynamics is not control over them: in Kane's self-forming actions, chaotic amplification keeps the outcome open, but it magnifies the agent's efforts, uncontrolled fluctuations and outside inputs alike, so what would make the outcome the agent's is how its own control couples to the amplifying directions, relative to noise and to other parties' inputs and with what feedback, which sensitivity does not supply; and under weak noise what amplification touches lasts only where it reaches the slow modes
 
@@ -175,8 +189,3 @@ governing constraints through negative feedback (pp. 79–80, 101) and analog
 control under Ashby's law (p. 168), which fits this claim and Jennings's
 emphasis without arguing for either. It is prior art for the constraint half of
 this claim only.
-
-
-## Note of 2026-11-06: what holds it back
-
-Its premise [CLAIM-354](CLAIM-354.md), the dimensions of freedom of will, is Proposed, and the claim waits on its promotion; that is now the only thing holding it back. Kane's 1996 book ([LIT-1985](../literature.d/LIT-1985.md)) is still unread, but his 2009 reply, read in [NOTE-1518](../notes.d/NOTE-1518.md), concedes the claim's point about control, so the book no longer holds it back.

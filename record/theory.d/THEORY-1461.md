@@ -1,21 +1,43 @@
 ---
 number: 1461
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp10msz
-promote_when: >-
-  The version of record (QJE 129(1), 2014) read and found to report the
-  same sub-period estimates (Table IV) and the same failure to reject a
-  constant log elasticity across density ranges (Table VI); or an
-  independent estimate of manufacturing agglomeration's curvature, on
-  comparable US county data, that likewise finds no density range with a
-  higher elasticity. Refuted if a corrected or better-powered estimate
-  finds a significantly higher elasticity at low density, or if the
-  1960–2000 manufacturing gain is shown to come from a cause other than the
-  TVA. Whether the region will in fact revert is a forecast this THEORY
-  reports, not one it asserts, and is not asked for.
-title: "Kline and Moretti find that the Tennessee Valley Authority's federal subsidies, peaking at about 10% of household income in 1950–55 and near zero after the TVA was made self-financing in 1959, raised both agricultural and manufacturing employment growth in its region by about 10–12 points per decade in 1940–1960, after which the agricultural gain fully reversed while manufacturing kept growing about 3 points per decade faster; but their estimate of a constant agglomeration elasticity, about 0.4–0.47 in labour demand and equal across density ranges, implies a unique steady state, so that the manufacturing gain is slow convergence rather than a big-push shift to a second equilibrium and will eventually die out"
-version: 1
+title: 'Kline and Moretti find that the Tennessee Valley Authority''s federal subsidies, peaking at about 10% of household income in 1950–55 and declining sharply after the TVA was made self-financing in 1959, raised both agricultural and manufacturing employment growth in its region by about 10–12 points per decade in 1940–1960, after which the agricultural gain fully reversed while manufacturing kept growing about 3 points per decade faster; but their estimate of a constant agglomeration elasticity, about 0.4–0.47 in labour demand and equal across density ranges, implies a unique steady state, so that the manufacturing gain is slow convergence rather than a big-push shift to a second equilibrium and will eventually die out'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-065: a report of what one study found, read in
+    NOTE-1646 from the post-referee NBER revision, which nothing in the
+    record contradicts. "near zero after the TVA was made self-financing"
+    becomes "declining sharply after", the paper's words (p. 5). The demand
+    for the version of record is dropped, since no discrepancy is named in
+    the tables the title rests on (IV and VI); the slips NOTE-1646 names are
+    in Table V and on p. 11. The independent estimate and the refutation
+    clauses move to QUESTION-tmpe72ii. The old title: Kline and Moretti find
+    that the Tennessee Valley Authority's federal subsidies, peaking at
+    about 10% of household income in 1950–55 and near zero after the TVA was
+    made self-financing in 1959, raised both agricultural and manufacturing
+    employment growth in its region by about 10–12 points per decade in
+    1940–1960, after which the agricultural gain fully reversed while
+    manufacturing kept growing about 3 points per decade faster; but their
+    estimate of a constant agglomeration elasticity, about 0.4–0.47 in
+    labour demand and equal across density ranges, implies a unique steady
+    state, so that the manufacturing gain is slow convergence rather than a
+    big-push shift to a second equilibrium and will eventually die out. The
+    old condition: The version of record (QJE 129(1), 2014) read and found
+    to report the same sub-period estimates (Table IV) and the same failure
+    to reject a constant log elasticity across density ranges (Table VI); or
+    an independent estimate of manufacturing agglomeration's curvature, on
+    comparable US county data, that likewise finds no density range with a
+    higher elasticity. Refuted if a corrected or better-powered estimate
+    finds a significantly higher elasticity at low density, or if the
+    1960–2000 manufacturing gain is shown to come from a cause other than
+    the TVA. Whether the region will in fact revert is a forecast this
+    THEORY reports, not one it asserts, and is not asked for.
 tags:
 - social-science
 - society-and-governance
@@ -24,7 +46,7 @@ source:
 - LIT-2141
 summary: >-
   Kline & Moretti (2014), [LIT-2141](../literature.d/LIT-2141.md), read from the June 2014 NBER
-  revision in [NOTE-1646](../notes.d/NOTE-1646.md). Proposed: the reduced form rests on selection
+  revision in [NOTE-1646](../notes.d/NOTE-1646.md). Held as what the paper finds, with its hedges: the reduced form rests on selection
   on observables with imputed control borders and data the authors call
   "not ideal"; the structural verdict rests on productivity shocks
   independent over 20 years, a labour-demand elasticity set at 1.5, and an
@@ -32,10 +54,12 @@ summary: >-
   region's own path. The persistence is reproduced by momentum plus
   near-zero depreciation (0.2% a year), which sits unreconciled beside the
   paper's footnote of planners' rates near 5%.
+bears_on:
+- QUESTION-tmpe72ii
 ---
 <!-- inactive-ok-file: THEORY-919 THEORY-885 CLAIM-600 — Proposed; cited from the reading of Kline and Moretti (2014) as open -->
 
-# THEORY-1461: Kline and Moretti find that the Tennessee Valley Authority's federal subsidies, peaking at about 10% of household income in 1950–55 and near zero after the TVA was made self-financing in 1959, raised both agricultural and manufacturing employment growth in its region by about 10–12 points per decade in 1940–1960, after which the agricultural gain fully reversed while manufacturing kept growing about 3 points per decade faster; but their estimate of a constant agglomeration elasticity, about 0.4–0.47 in labour demand and equal across density ranges, implies a unique steady state, so that the manufacturing gain is slow convergence rather than a big-push shift to a second equilibrium and will eventually die out
+# THEORY-1461: Kline and Moretti find that the Tennessee Valley Authority's federal subsidies, peaking at about 10% of household income in 1950–55 and declining sharply after the TVA was made self-financing in 1959, raised both agricultural and manufacturing employment growth in its region by about 10–12 points per decade in 1940–1960, after which the agricultural gain fully reversed while manufacturing kept growing about 3 points per decade faster; but their estimate of a constant agglomeration elasticity, about 0.4–0.47 in labour demand and equal across density ranges, implies a unique steady state, so that the manufacturing gain is slow convergence rather than a big-push shift to a second equilibrium and will eventually die out
 
 ## Source
 

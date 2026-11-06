@@ -8,17 +8,26 @@ promote_when: >-
   unintentional mind-wandering the ability to suspend or end the current
   train of thought by one's own initiative is absent or sharply reduced,
   compared with on-task thought, measured by a criterion other than the
-  report of having been off task (for instance self-caught terminations
-  per minute against probe-caught ones, or the latency of returning
-  without an external cue). It is refuted if unaware mind-wandering is
-  ended at one's own initiative as readily as on-task thought is changed.
-  For the share: sampling across the waking day and sleep that separates
-  intentional from unintentional task-unrelated thought, since only the
-  second counts. A larger or smaller 30–50% figure for task-unrelated
-  thought cannot settle either part, because it does not tell
-  deliberate daydreaming from loss of control.
+  report of having been off task (for instance self-caught terminations per
+  minute against probe-caught ones, or the latency of returning without an
+  external cue). It is refuted if unaware mind-wandering is ended at one's
+  own initiative as readily as on-task thought is changed. A larger or
+  smaller 30–50% figure for task-unrelated thought cannot settle it, because
+  it does not tell deliberate daydreaming from loss of control.
 title: "Mind-wandering is a recurring loss of M-autonomy, the veto-centred ability to suspend or end one's own ongoing mental processes; on the figures Metzinger uses, it takes about half of conscious time, not the two thirds he states"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-seventh status review (ADR-065), at the status review's
+    ruling (the owner delegated these rulings): the promote_when's clause
+    for the share moves to QUESTION-tmptxwdu. The title's share is hedged,
+    "on the figures Metzinger uses", and is arithmetic already checked in
+    the body; a measure of the true share is more than the title asserts.
+    "either part" reads "it". The moved text: For the share: sampling across
+    the waking day and sleep that separates intentional from unintentional
+    task-unrelated thought, since only the second counts.
 tags:
 - cognition
 - agency
@@ -37,6 +46,8 @@ summary: >-
   papers state. Proposed: no measure of veto during episodes is reported,
   and the 30–50% figures count task-unrelated thought, which includes
   deliberate daydreaming the definition excludes.
+bears_on:
+- QUESTION-tmptxwdu
 ---
 <!-- inactive-ok-file: THEORY-1300 ARG-051 — Proposed; companion reading and the inference it grounds, cited as open -->
 <!-- inactive-ok-file: THEORY-064 CLAIM-156 — Proposed; readings and claims this one is set beside, cited as open -->
@@ -111,3 +122,7 @@ figures.
   nothing about valuation.
 - **[THEORY-064](THEORY-064.md).** The self-model theory supplies the EAM, whose collapse
   marks each episode; this account does not test it.
+
+## Note of 2026-11-06: what holds it back
+
+No within-person measure of the ability to end a train of thought during unaware mind-wandering is in the record; the identification rests on Metzinger's claim that an episode cannot be ended from inside it, and the 30–50% figures, unread, count task-unrelated thought without separating deliberate daydreaming.

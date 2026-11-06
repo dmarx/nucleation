@@ -125,3 +125,7 @@ and from the phenomenology of the return.
   [CLAIM-355](../claims.d/CLAIM-355.md) draws between real organization and a represented owner.
 - **[THEORY-064](THEORY-064.md).** The EAM is a layer of the transparent self-model that
   account describes.
+
+## Note of 2026-11-06: what holds it back
+
+Metzinger's H1 and H3, blocking and restoring the epistemic agent model's introspective availability with an externally cued measure of the ability held fixed, are untested, and his own 2017 chapter (NOTE-1496) says the data cannot decide whether the representation constitutes, enables or only accompanies control.

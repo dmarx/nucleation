@@ -221,3 +221,7 @@ responsibility in those terms.
 - **[THEORY-119](THEORY-119.md): no relation declared.** The PAP account and this one
   are Frankfurt's two arguments for responsibility without alternatives;
   they support each other and neither builds on the other's mechanism.
+
+## Note of 2026-11-06: what holds it back
+
+The texts that settle what identification became, LIT-575 and LIT-695, are Unavailable, and the 1994 essay is not filed, so the later criteria are held only by report and the dispute over resigned acceptance between LIT-291 and LIT-293 is unresolved. The record has not run THEORY-029's dilemma against the 1971 text (p. 16), and holds no case its defenders accept of wholehearted, unmanipulated identification without responsibility.

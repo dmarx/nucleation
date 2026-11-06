@@ -1,16 +1,32 @@
 ---
 number: 1427
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpucnpz
-promote_when: >-
-  A proof, or an independent computation on generic triangulations that are
-  not H1, that the number of real branches of nearly-flat configurations
-  meeting at the flat state of a four-boundary-vertex triangulated rigid
-  origami is 2^Vi, and that the branches pair with the patterns of vertex
-  popping states up to global sign.
-title: 'Chen and Santangelo show that a flat triangulated rigid origami sits at a singular point of its configuration space where generically 2^Vi folding branches meet, one pair for each pattern of vertex popping states, so folding from flat is exponentially ambiguous'
-version: 1
+title: 'Chen and Santangelo find that a flat triangulated rigid origami sits at a singular point of its configuration space, where it admits more first-order motions than its generic dimension; in numerical root-finding on random triangulations with four boundary vertices and 2 to 8 internal vertices, 2^Vi folding branches meet there with a few exceptions, two for each pair of a vertex popping pattern and its global reversal, which they prove for triangulations built by Henneberg-1 moves, and they conclude that a generic self-folding structure is likely to become trapped in a misfolded state'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Narrowed and promoted at the status review's ruling (the owner delegated
+    these rulings), under ADR-065 and ADR-047's routing. NOTE-1614 records
+    the 2^Vi count as numerical for Vi from 2 to 8 on four-boundary-vertex
+    triangulations and proven only for Henneberg-1 triangulations, so "show
+    ... generically" claimed more than the paper shows. The title now says
+    what was computed and proven, and nothing in the record contradicts it.
+    The general thesis moves, without the attribution, to THEORY-tmpcpymq,
+    which extends this entry and keeps the old condition. The old title:
+    Chen and Santangelo show that a flat triangulated rigid origami sits at
+    a singular point of its configuration space where generically 2^Vi
+    folding branches meet, one pair for each pattern of vertex popping
+    states, so folding from flat is exponentially ambiguous. The old
+    condition: A proof, or an independent computation on generic
+    triangulations that are not H1, that the number of real branches of
+    nearly-flat configurations meeting at the flat state of a
+    four-boundary-vertex triangulated rigid origami is 2^Vi, and that the
+    branches pair with the patterns of vertex popping states up to global
+    sign.
 tags:
 - mathematics
 - natural-sciences
@@ -19,7 +35,7 @@ source:
 - LIT-2021
 summary: >-
   Chen and Santangelo (2018), [LIT-2021](../literature.d/LIT-2021.md), read in [NOTE-1614](../notes.d/NOTE-1614.md) (main
-  text in full, appendices skimmed). Proposed: the count of 2^Vi branches
+  text in full, appendices skimmed). The title keeps the source's hedges: the count of 2^Vi branches
   is numerical for Vi from 2 to 8 and proven only for H1 triangulations,
   which are rare; second-order solutions are treated as configurations
   without a general guarantee; and only patterns with four boundary
@@ -27,7 +43,7 @@ summary: >-
   the flat state, or that a real sheet misfolds at any measured rate.
 ---
 
-# THEORY-1427: Chen and Santangelo show that a flat triangulated rigid origami sits at a singular point of its configuration space where generically 2^Vi folding branches meet, one pair for each pattern of vertex popping states, so folding from flat is exponentially ambiguous
+# THEORY-1427: Chen and Santangelo find that a flat triangulated rigid origami sits at a singular point of its configuration space, where it admits more first-order motions than its generic dimension; in numerical root-finding on random triangulations with four boundary vertices and 2 to 8 internal vertices, 2^Vi folding branches meet there with a few exceptions, two for each pair of a vertex popping pattern and its global reversal, which they prove for triangulations built by Henneberg-1 moves, and they conclude that a generic self-folding structure is likely to become trapped in a misfolded state
 
 ## Source
 

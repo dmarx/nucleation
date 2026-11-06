@@ -21,7 +21,7 @@ promote_when: >-
   between "autonomous motivation" composites and well-being cannot settle
   it.
 title: "A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-03'
@@ -35,6 +35,14 @@ history:
     Frankfurt's hierarchical account is filed as THEORY-120, from the 1971
     paper read first-hand, and declared this account's rival. Connections say
     where they part. The claim is unchanged.
+- version: 4
+  date: '2026-11-06'
+  note: >-
+    At the twenty-seventh status review, at the status review's ruling (the
+    owner delegated these rulings), its edge to CLAIM-354 moves from
+    supports to corroborates (ADR-058): that claim cites this account as
+    prior art for graded autonomy and as the source of the integration
+    dimension, and does not stand on it. The reading is unchanged.
 tags:
 - agency
 - motivation
@@ -65,6 +73,7 @@ presupposed_by:
 - THEORY-077
 supports:
 - CLAIM-016
+corroborates:
 - CLAIM-354
 ---
 <!-- inactive-ok-file: LIT-1973 LIT-1996 THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->

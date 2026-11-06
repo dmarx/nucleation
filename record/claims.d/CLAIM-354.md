@@ -1,10 +1,10 @@
 ---
 number: 354
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpilfhr
 title: 'Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,21 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-06'
+  note: >-
+    At the status review's ruling (the owner delegated these rulings), at
+    the twenty-seventh status review: THEORY-054 and THEORY-411 move from
+    grounds to corroborated_by (ADR-058). The body cites self-determination
+    theory as prior art for graded autonomy and as the source of the
+    integration dimension, which the claim lists among others and whose
+    content CLAIM-534 gives, and cites Sen's partial ordering as the same
+    shape in another line; the argument is the reachable-set order on
+    CLAIM-079, CLAIM-345 and CLAIM-025. Promoted (ADR-057): every premise is
+    Active, no objection is filed, and nothing in the record meets the
+    defeated_if, since empowerment (note of 2026-11-03, later) does not
+    collapse the profile to a scalar and the robotics readings (note of
+    2026-11-05) leave the order untested rather than refuted.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,9 +60,10 @@ rests_on:
 - CLAIM-345
 grounds:
 - THEORY-134
+- THEORY-654
+corroborated_by:
 - THEORY-054
 - THEORY-411
-- THEORY-654
 complements:
 - CLAIM-128
 - CLAIM-122
