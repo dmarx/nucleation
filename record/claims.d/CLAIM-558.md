@@ -116,6 +116,10 @@ Read at the owner's suggestion to look to reintroduction and ecological recovery
 
 No status changes.
 
+## Note of 2026-11-05: the readings in medicine, on disuse
+
+Extended from skill to tissue. Under full ventilatory support the diaphragm's fibres atrophy within 18–69 hours of inactivity, and force falls by about a third by day 6 in Jaber's group's measurements ([NOTE-1702](../notes.d/NOTE-1702.md)). Jaber et al. note that resting the diaphragm under full support was once thought restorative, a view since "completely turned on its head". No status changes.
+
 ## Note of 2026-11-05: the readings on assistance and skill
 
 Supported and extended. Disuse need not mean rare operation: it can sit inside daily work when automation does a subtask (Macnamara et al., [NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md)). The decay is larger for cognitive than for procedural skill, and it may go unnoticed by the performer. The FAA's advice that pilots use manual skills on most flights is practice kept up beside the support, this claim's remedy. No new decay rates are given; the record's rates are still Tatel's ([LIT-2079](../literature.d/LIT-2079.md)). No status changes.

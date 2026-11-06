@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**821 documents cited without acknowledgement.** Not listed: 18490 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**823 documents cited without acknowledgement.** Not listed: 18940 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1452,7 +1452,7 @@ Active inference already runs an internal loop: mental action selects among high
 
 Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
-23 citations in 12 files await a look; 134 other citations of it are acknowledged.
+23 citations in 12 files await a look; 137 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:32`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-101.md:69`](../../record/cases.d/CASE-101.md)
@@ -2471,7 +2471,7 @@ Relief of an organization's frustration must be judged for an identified organiz
 
 A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed
 
-10 citations in 9 files await a look; 26 other citations of it are acknowledged.
+10 citations in 9 files await a look; 29 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-157.md:114`](../../record/cases.d/CASE-157.md)
 - [`record/claims.d/CLAIM-446.md:264`](../../record/claims.d/CLAIM-446.md)
@@ -2974,7 +2974,7 @@ What survives translation is the set of communicative distinctions and relations
 
 Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
-8 citations in 7 files await a look; 48 other citations of it are acknowledged.
+8 citations in 7 files await a look; 49 other citations of it are acknowledged.
 
 - [`record/arguments.d/ARG-045.md:38`](../../record/arguments.d/ARG-045.md)
 - [`record/cases.d/CASE-188.md:41`](../../record/cases.d/CASE-188.md)
@@ -3150,6 +3150,21 @@ New Evidence of the Two-Phase Learning Dynamics of Neural Networks
 - [`record/theory.d/THEORY-039.md:79`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:86`](../../record/theory.d/THEORY-039.md)
 
+### [NOTE-1698](../../record/notes.d/NOTE-1698.md) — Skimmed
+
+Fodor — Radiation of oscillons
+
+8 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-2197.md:7`](../../record/literature.d/LIT-2197.md)
+- [`record/literature.d/LIT-2197.md:80`](../../record/literature.d/LIT-2197.md)
+- [`record/notes.d/NOTE-1694.md:115`](../../record/notes.d/NOTE-1694.md)
+- [`record/notes.d/NOTE-1699.md:23`](../../record/notes.d/NOTE-1699.md)
+- [`record/notes.d/NOTE-1699.md:162`](../../record/notes.d/NOTE-1699.md)
+- [`record/notes.d/NOTE-1699.md:173`](../../record/notes.d/NOTE-1699.md)
+- [`record/theory.d/THEORY-1502.md:26`](../../record/theory.d/THEORY-1502.md)
+- [`record/theory.d/THEORY-1502.md:39`](../../record/theory.d/THEORY-1502.md)
+
 ### [NOTE-206](../../record/notes.d/NOTE-206.md) — Superseded
 
 Adler — Hilbert spaces and the Riesz representation theorem
@@ -3259,7 +3274,7 @@ Organizational action can be described as pre-individual, so that whose action i
 
 Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change
 
-8 citations in 3 files await a look; 7 other citations of it are acknowledged.
+8 citations in 3 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-423.md:188`](../../record/claims.d/CLAIM-423.md)
 - [`record/claims.d/CLAIM-445.md:18`](../../record/claims.d/CLAIM-445.md)
@@ -3522,6 +3537,20 @@ Morality as Cooperation: A Problem-Centred Approach
 - [`record/theory.d/THEORY-494.md:108`](../../record/theory.d/THEORY-494.md)
 - [`record/theory.d/THEORY-653.md:70`](../../record/theory.d/THEORY-653.md)
 
+### [NOTE-1694](../../record/notes.d/NOTE-1694.md) — Skimmed
+
+Tong — TASI Lectures on Solitons
+
+7 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-2207.md:7`](../../record/literature.d/LIT-2207.md)
+- [`record/literature.d/LIT-2207.md:81`](../../record/literature.d/LIT-2207.md)
+- [`record/notes.d/NOTE-1698.md:170`](../../record/notes.d/NOTE-1698.md)
+- [`record/notes.d/NOTE-1699.md:23`](../../record/notes.d/NOTE-1699.md)
+- [`record/notes.d/NOTE-1699.md:167`](../../record/notes.d/NOTE-1699.md)
+- [`record/theory.d/THEORY-1507.md:26`](../../record/theory.d/THEORY-1507.md)
+- [`record/theory.d/THEORY-1507.md:40`](../../record/theory.d/THEORY-1507.md)
+
 ### [NOTE-291](../../record/notes.d/NOTE-291.md) — Skimmed
 
 Analysis of Boolean Functions
@@ -3554,7 +3583,7 @@ Cumulative cultural evolution in the laboratory
 
 individuation, and which sense: descriptive (an inquiry can distinguish and track it), dynamical (its organization persists under specified dynamics and perturbation, with robust identity and boundaries), constitutive (its relational organization helps fix its identity and boundary), and organizational autonomy, the further achievement of contributing to the maintenance of its own constitutive constraints
 
-7 citations in 7 files await a look; 18 other citations of it are acknowledged.
+7 citations in 7 files await a look; 29 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-529.md:110`](../../record/claims.d/CLAIM-529.md)
 - [`record/claims.d/CLAIM-531.md:122`](../../record/claims.d/CLAIM-531.md)
@@ -4122,7 +4151,7 @@ The unity of experience is the integration of one global world-model into a sing
 
 Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
 
-6 citations in 2 files await a look; 80 other citations of it are acknowledged.
+6 citations in 2 files await a look; 86 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-194.md:30`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:33`](../../record/claims.d/CLAIM-194.md)
@@ -5437,7 +5466,7 @@ Obligation is the reflective rejection of what would violate the agent's practic
 
 Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same
 
-4 citations in 3 files await a look; 8 other citations of it are acknowledged.
+4 citations in 3 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-163.md:80`](../../record/claims.d/CLAIM-163.md)
 - [`record/questions.d/QUESTION-042.md:19`](../../record/questions.d/QUESTION-042.md)
@@ -5942,7 +5971,7 @@ Data written for a potential future receiver has its intended meaning fixed by t
 
 "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"
 
-3 citations in 2 files await a look; 54 other citations of it are acknowledged.
+3 citations in 2 files await a look; 56 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-261.md:99`](../../record/claims.d/CLAIM-261.md)
 - [`record/questions.d/QUESTION-077.md:56`](../../record/questions.d/QUESTION-077.md)
@@ -7489,7 +7518,7 @@ Synergetics: An Introduction. Nonequilibrium Phase Transitions and Self-Organiza
 
 Principles of Crystal Nucleation and Growth
 
-2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-176.md:29`](../../record/claims.d/CLAIM-176.md)
 - [`record/claims.d/CLAIM-181.md:168`](../../record/claims.d/CLAIM-181.md)
@@ -8263,7 +8292,7 @@ The specific phenomenal character of an experience is fixed by its place in a qu
 
 Departments of the French Empire more shielded from British trade by the Napoleonic blockade added more mechanized cotton-spinning capacity during it and kept a larger industry through 1887, with more productive spinning firms in 1840 and higher industrial value added per capita in 1860 but not detectably from 1896
 
-2 citations in 1 file await a look; 15 other citations of it are acknowledged.
+2 citations in 1 file await a look; 20 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-445.md:30`](../../record/claims.d/CLAIM-445.md)
 - [`record/claims.d/CLAIM-445.md:131`](../../record/claims.d/CLAIM-445.md)
@@ -8621,7 +8650,7 @@ The sensitivity that formal chaos gives a will's dynamics is not control over th
 
 1 citation in 1 file awaits a look; 31 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1984.md:84`](../../record/literature.d/LIT-1984.md)
+- [`record/literature.d/LIT-1984.md:85`](../../record/literature.d/LIT-1984.md)
 
 ### [CLAIM-557](../../record/claims.d/CLAIM-557.md) — Proposed
 
@@ -8805,7 +8834,7 @@ Origins and functions of positive and negative affect: A control-process view
 
 1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-1445.md:79`](../../record/literature.d/LIT-1445.md)
+- [`record/literature.d/LIT-1445.md:80`](../../record/literature.d/LIT-1445.md)
 
 ### [LIT-1557](../../record/literature.d/LIT-1557.md) — Unfetched
 
@@ -9611,7 +9640,7 @@ Diachronic self-governance is constituted by cross-temporal links of intention t
 
 A quasi-static attractor describes an open system only while the drift of that attractor in state space is slow against the system's slowest relaxation, scaled by the distance to the tipping threshold; rate-induced tipping is the failure of that time-scale separation, and it can occur while the parameter itself moves slowly, if the attractor is sensitive to it, and with no slowing of any mode
 
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1654.md:43`](../../record/literature.d/LIT-1654.md)
 
@@ -9803,7 +9832,7 @@ Organizations that espouse revising their governing values characteristically fa
 
 Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor households in rural Bangladesh face an S-shaped asset transition with an unstable threshold near the value of a cow and a small complementary asset, so that a one-off asset transfer that lifts a household above it is followed by accumulation, a shift into self-employment and higher consumption over 11 years while one that leaves it below is followed by asset loss: a poverty trap set by initial wealth and indivisible inputs, not by lower ability or effort
 
-1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-605.md:113`](../../record/claims.d/CLAIM-605.md)
 
@@ -9811,7 +9840,7 @@ Balboni, Bandiera, Burgess, Ghatak and Heil hold that ultra-poor households in r
 
 In Azam, Devarajan and O'Connell's model, where the cost of taxing falls with depreciating revenue-collecting experience and grant aid fills the fiscal gap, aid that ignores this learning drives a country whose initial institutions are weaker than a threshold to aid financing the whole budget and the loss of its tax capacity, while one with stronger institutions converges to a low-aid state; a planner who internalizes the learning still has a stable high-aid, low-capacity equilibrium beside the efficient saddle path, which is reached only by an up-front cut in aid
 
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-605.md:117`](../../record/claims.d/CLAIM-605.md)
 
@@ -10234,4 +10263,5 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
+- record/decisions.d/ADR-064.md:24: annotation no longer applies — nothing in scope cites ADR-064
 - record/questions.d/QUESTION-374.md:31: annotation no longer applies — nothing in scope cites CLAIM-572

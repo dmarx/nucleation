@@ -94,8 +94,10 @@ summary: >-
   (Collins and Shester; LaVoice). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpbzli4 — Skimmed; a reading of the persistence filing, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmp5d91s — new; the assistant's soliton claim, cited as open -->
+<!-- inactive-ok-file: NOTE-1690 — Skimmed; a reading of the persistence filing, cited as open -->
+<!-- inactive-ok-file: CLAIM-606 — new; the assistant's soliton claim, cited as open -->
+<!-- inactive-ok-file: LIT-2213 LIT-2212 — Unavailable; registered by the medicine filing, cited as open -->
+<!-- inactive-ok-file: LIT-2221 LIT-2220 — Unavailable; registered by the state-aid filing, cited as open -->
 <!-- inactive-ok-file: LIT-tmph5vta — Unavailable; registered by the assistance filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
@@ -307,17 +309,36 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
 Read to fill a gap the supplied-maintenance filing left: whether persistence after withdrawal is self-sustaining or slow reversion. The works were chosen by the assistant.
 
 - **Both poles, now on the record.**
-  - Japanese cities returned to their pre-war relative size within 15–20 years of WWII bombing, Hiroshima and Nagasaki included (Davis and Weinstein, [NOTE-tmpqnndy](../notes.d/NOTE-tmpqnndy.md)). The companion search for multiple equilibria finds "no support for the existence of multiple equilibria" ([NOTE-tmpbzli4](../notes.d/NOTE-tmpbzli4.md)).
-  - US cities at historical portage sites are still 60–100 % denser than comparable sites a century after portage stopped mattering, with no decay (Bleakley and Lin, [NOTE-tmpslfbd](../notes.d/NOTE-tmpslfbd.md)). The case passes their tests against slow reversion: matching on past density, the age of housing stock, and prices.
+  - Japanese cities returned to their pre-war relative size within 15–20 years of WWII bombing, Hiroshima and Nagasaki included (Davis and Weinstein, [NOTE-1696](../notes.d/NOTE-1696.md)). The companion search for multiple equilibria finds "no support for the existence of multiple equilibria" ([NOTE-1690](../notes.d/NOTE-1690.md)).
+  - US cities at historical portage sites are still 60–100 % denser than comparable sites a century after portage stopped mattering, with no decay (Bleakley and Lin, [NOTE-1697](../notes.d/NOTE-1697.md)). The case passes their tests against slow reversion: matching on past density, the age of housing stock, and prices.
   - Against these two, the Tennessee Valley Authority ([NOTE-1646](../notes.d/NOTE-1646.md)) is the ambiguous case. The claim's caution that slow reversion can mimic persistence now has its contrast cases.
 - **Size, again.** Bleakley and Lin find almost no effect at the smallest watersheds, an echo of the condition on size.
-- **The unit, from the other side.** In Moving to Opportunity (Chetty, Hendren and Katz, [NOTE-tmpqfxp3](../notes.d/NOTE-tmpqfxp3.md)) the gain was carried by children who moved young, into adult earnings, while parents in the same places gained nothing. That is the mirror of urban renewal, where the place gained and its people were dispersed. The voucher was standing support, not transient; what ended was childhood.
+- **The unit, from the other side.** In Moving to Opportunity (Chetty, Hendren and Katz, [NOTE-1695](../notes.d/NOTE-1695.md)) the gain was carried by children who moved young, into adult earnings, while parents in the same places gained nothing. That is the mirror of urban renewal, where the place gained and its people were dispersed. The voucher was standing support, not transient; what ended was childhood.
 
 No status changes.
 
 ## Note of 2026-11-06: the readings on solitons
 
-Supports and sharpens the caution that slow reversion can mimic persistence ([CLAIM-tmp5d91s](CLAIM-tmp5d91s.md)). An oscillon shows almost no outflow for 10³–10⁴ times the linear lifetime and then ends abruptly (Copeland, Gleiser and Müller, [NOTE-tmpyp0bm](../notes.d/NOTE-tmpyp0bm.md)). A damped soliton keeps its shape while its amplitude runs down at a rate set by the kind of loss (Grimshaw, Smyth and Stepanyants, [NOTE-tmp2gykh](../notes.d/NOTE-tmp2gykh.md)). A cavity soliton switched on by a transient writing beam then persists on its standing supply (Grelu and Akhmediev, [NOTE-tmp3nwf3](../notes.d/NOTE-tmp3nwf3.md)): founding support withdrawn, feeding support kept. No status changes.
+Supports and sharpens the caution that slow reversion can mimic persistence ([CLAIM-606](CLAIM-606.md)). An oscillon shows almost no outflow for 10³–10⁴ times the linear lifetime and then ends abruptly (Copeland, Gleiser and Müller, [NOTE-1699](../notes.d/NOTE-1699.md)). A damped soliton keeps its shape while its amplitude runs down at a rate set by the kind of loss (Grimshaw, Smyth and Stepanyants, [NOTE-1687](../notes.d/NOTE-1687.md)). A cavity soliton switched on by a transient writing beam then persists on its standing supply (Grelu and Akhmediev, [NOTE-1688](../notes.d/NOTE-1688.md)): founding support withdrawn, feeding support kept. No status changes.
+
+## Note of 2026-11-06: Suding, Gross & Houseman, "Alternative states and positive feedbacks in restoration ecology", read
+
+Read in full ([LIT-2169](../literature.d/LIT-2169.md), [NOTE-1700](../notes.d/NOTE-1700.md)), the review, previously among the originals read only through neighbours, bears on two of the claim's points. On combined interventions, actions on several constraints at once "(e.g. burning and adding native seeds) often prove more successful than would either approach alone", and those on strong feedbacks may have to come first; the evidence is cited cases, and comparisons of sequence are "limited". On withdrawal, it expects "little or no further management intervention" only where a single constraint existed; otherwise a successful shift leads to maintenance by "very different actions than those required to shift states", a management that partly stops (the shifting work ends, upkeep of the regime such as fire or hydrology continues), not a withdrawal. It measures no case after withdrawal, so the claim's persistence test is untouched; its recommended repeated characterization after the constraints are addressed is the nearest thing to it. No status changes.
+
+## Note of 2026-11-05: the readings in medicine, on suppression, disuse and weaning
+
+Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant.
+
+- **Doing the work has an upper bound.** The diaphragm needs effort within a band (Goligher et al., [NOTE-1704](../notes.d/NOTE-1704.md)): too little atrophies it, and too much may injure it. The condition that the party did the work throughout needs that qualification.
+- **Withdrawal is tested, not assumed.** In weaning from ventilation, readiness is tested by a short, reversible spontaneous breathing trial. Success is judged only after a window following extubation (Shah, Hart and Kaltsakas, [NOTE-1706](../notes.d/NOTE-1706.md)). Ventilation can be stopped abruptly in about 75 % of patients whose underlying cause has improved, and immediate extubation after a successful trial is the recommended course (Alía and Esteban, [NOTE-1701](../notes.d/NOTE-1701.md)).
+- **Tapers, where the evidence exists.** Among patients who fail the first trial, the method that tapers machine breaths did worst in both trials Alía and Esteban review ([NOTE-1701](../notes.d/NOTE-1701.md)). For corticosteroids, the authors of the meta-analysis find "insufficient evidence to prove any withdrawal scheme after steroid use to be efficient or safe" ([NOTE-1703](../notes.d/NOTE-1703.md)). The guideline's schedule is consensus.
+- **Recovery is slow and graded.** Adrenal recovery takes from months to about four years, and a minority never fully recover ([NOTE-1705](../notes.d/NOTE-1705.md)).
+
+The original consensus statement on weaning, Boles et al. 2007 ([LIT-2213](../literature.d/LIT-2213.md)), and Levine et al. 2008 on diaphragm atrophy ([LIT-2212](../literature.d/LIT-2212.md)) were not reached. No status changes.
+
+## Note of 2026-11-05: Knack, "Aid Dependence and the Quality of Governance", read
+
+Knack's cross-section of 80 aid recipients, 1982–95 ([NOTE-1707](../notes.d/NOTE-1707.md)), finds higher mean aid going with smaller gains in governance, an effect that roughly doubles when instrumented. That supports the clause that support failing the conditions leaves decay, for aid that substitutes for a state's own work. It is evidence on support in progress only. There are no withdrawal episodes, so the withdrawal conditions go untested. It adds a complication the synthesis lacks: steady aid harms more than erratic aid of the same mean. The state-level evidence the synthesis lacked is still thin: Bräutigam and Knack 2004 ([LIT-2221](../literature.d/LIT-2221.md)) and Ahmed 2012 ([LIT-2220](../literature.d/LIT-2220.md)) were not reached, and Knack's own estimates rest on instruments whose exclusion is untested. No status changes.
 
 ## Note of 2026-11-05: the readings on assistance and skill
 
@@ -328,7 +349,6 @@ Read to fill a gap the supplied-maintenance filing left; the works were chosen b
 - **Timing and grading.** Koedinger and Aleven ([NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md)) find that early withholding is not safe by default, and their tutors withdraw help gradually as competence is shown.
 - **The flux is not enough on its own.** Griffith et al. ([NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md)) find outside technology stays available but is used only in proportion to a party's own R&D.
 
-No status changes.
 
 ## Note of 2026-11-06: Cohen and Levinthal, "Absorptive Capacity", read
 

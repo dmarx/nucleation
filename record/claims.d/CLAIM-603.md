@@ -217,6 +217,10 @@ Read after the owner asked for a counterpoint, "e.g. the myth of the lazy poor".
   back on their origin, so his work does not show that open-ended giving
   forward is stable.
 
+## Note of 2026-11-05: Knack, "Aid Dependence and the Quality of Governance", read
+
+Supports. In Knack's estimates ([NOTE-1707](../notes.d/NOTE-1707.md)), aid's harm to governance falls as aid becomes less predictable and vanishes near a coefficient of variation of about .78. Predictable trends in aid do not matter. That fits capability loss being favoured where outside supply is reliable. It does not compare one-way with reciprocal supply, and the interaction is a single cross-country estimate. No status changes.
+
 ## Note of 2026-11-05: the readings on assistance and skill
 
 Two qualifications on incentives. Koedinger and Aleven's tutors put a designed cost on asking for help, and some learners game the system anyway ([NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md)). Macnamara et al. cite a crossover near 70 % automation accuracy, below which relying on the aid stops paying ([NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md)): the favoured loss depends on how reliable the supply is. No status changes.
