@@ -94,6 +94,7 @@ summary: >-
   (Collins and Shester; LaVoice). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmp5d91s — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-558 CLAIM-597 CLAIM-602 CLAIM-603 CLAIM-604 NOTE-1647 NOTE-1659 NOTE-1680 — Proposed, Skimmed or new; claims and a reading this synthesis rests on, cited as open -->
 
 # CLAIM-600: Transient support can be withdrawn safely when it starts a process that keeps itself going on a flux that will stay available, when it is large enough to carry the supported party past any threshold that process has, when the threat it stood in for has gone, and when the party could do the work and did it throughout; inputs the party cannot produce must stay supplied as a standing part of the arrangement, support that fails these leaves dependence or decay, and persistence after withdrawal is needed to tell which, though slow reversion can mimic it
@@ -298,3 +299,7 @@ Schröder, Persson and De Roos ([NOTE-1666](../notes.d/NOTE-1666.md)) give the t
   regenerates its own parts is a further step: the planted cohort's own
   seedlings rarely reach the sapling layer ([NOTE-1660](../notes.d/NOTE-1660.md)), so these
   islands have not taken it.
+
+## Note of 2026-11-06: the readings on solitons
+
+Supports and sharpens the caution that slow reversion can mimic persistence (CLAIM-tmp5d91s). An oscillon shows almost no outflow for 10³–10⁴ times the linear lifetime and then ends abruptly (Copeland, Gleiser and Müller, NOTE-tmpyp0bm). A damped soliton keeps its shape while its amplitude runs down at a rate set by the kind of loss (Grimshaw, Smyth and Stepanyants, NOTE-tmp2gykh). A cavity soliton switched on by a transient writing beam then persists on its standing supply (Grelu and Akhmediev, NOTE-tmp3nwf3): founding support withdrawn, feeding support kept. No status changes.

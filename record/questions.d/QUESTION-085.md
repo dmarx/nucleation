@@ -21,6 +21,7 @@ summary: >-
 answered_by:
 - CLAIM-274
 ---
+<!-- inactive-ok-file: CLAIM-tmp5d91s — new; the assistant's soliton claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-604 — new; readings and claims of the aid-dependency filing, cited as open -->
 <!-- inactive-ok-file: CLAIM-274 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 
@@ -87,3 +88,7 @@ Read at the owner's request to look to aid and development for theory on how aid
 - **The aid readings' analogue.** The aid literature's self-maintaining loop, a state that funds itself by taxing those it serves (Moore, [NOTE-1663](../notes.d/NOTE-1663.md)), is a flame in this sense, and aid that does the work is the heat under the cell.
 
 No status changes.
+
+## Note of 2026-11-06: the readings on solitons
+
+CLAIM-tmp5d91s changes the test this question leans on. Thresholds and abrupt ends appear in structures with no supply at all and in structures whose supply does not depend on them, so they cannot tell a flame from a convection cell. What does is withdrawing the supply: a supplied pattern ends when its supply stops, a self-maintaining one may relight if above threshold, and a structure held by internal balance does not notice. For an artwork, the supply to withdraw is its defenders' placement. The ladder also gains a rung below the dissipative structures held from outside: a structure held by an internal balance with no flow, the integrable soliton. No status changes.

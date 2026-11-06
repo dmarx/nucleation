@@ -102,3 +102,6 @@ Read at the owner's request for a counterpoint to the record's dependency materi
 
 No status changes.
 
+## Note of 2026-11-06: the readings on solitons
+
+A cavity soliton written by a transient beam becomes independent of that beam and stays dependent on its pump (Grelu and Akhmediev, NOTE-tmp3nwf3; Herr et al., NOTE-tmpgvg9r). That is independence from the founding intervention with no independence from the feed, cleanly instantiated. An integrable soliton is independent of both, but only where nothing is lost. No status changes.
