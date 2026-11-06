@@ -101,3 +101,6 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 - **[TERM-097](../terms.d/TERM-097.md).** "Coexisting meanings" is not yet incoherence. Coherence is agreement under a stated correspondence structure, and the paper states none under which the meanings must agree ([CLAIM-265](../claims.d/CLAIM-265.md)). The dispute with Weick is about that structure.
 - **[CLAIM-310](../claims.d/CLAIM-310.md).** Judgements of one action that are functions of its features jointly refine, so their coexistence does not by itself show that "several individuations are ongoing" (p. 1358).
 
+## Note of 2026-11-06: what holds it back
+
+No study shows the transduction description changing an analysis's verdict against Cooren's or Fairhurst's scaling-up accounts; the MSF meeting shows only that the description can be given. [CLAIM-526](../claims.d/CLAIM-526.md) argues that the strong form's refutation condition is met for the question of levels, not for agent aggregation. What the paper proposes is held, Active, as [THEORY-tmpbp1q1](THEORY-tmpbp1q1.md).

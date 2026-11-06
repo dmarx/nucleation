@@ -117,3 +117,6 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 - **[TERM-087](../terms.d/TERM-087.md).** The agential cut of p. 1357 is an analyst's choice, not Barad's sense; p. 1366 is closer to Barad's.
 - **[CLAIM-419](../claims.d/CLAIM-419.md).** Disindividuation has the structure of a grammar misfit answered by reorganizing. Analogy only.
 
+## Note of 2026-11-06: what holds it back
+
+The record has no operational criterion for "excess action" or "augmented ability to act" that applies before an episode resolves, and no case on which the agent-free and agent-based descriptions disagree; the paper's one meeting identifies the force after the fact.

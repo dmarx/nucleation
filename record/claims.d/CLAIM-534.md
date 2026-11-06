@@ -59,7 +59,7 @@ summary: >-
   reader of U27–U29; adopting it is the owner's call. Proposed: the
   identification is argued, and its formal half is [CLAIM-538](CLAIM-538.md).
 ---
-<!-- inactive-ok-file: CLAIM-354 CLAIM-545 — Proposed, Open or new; cited as open -->
+<!-- inactive-ok-file: CLAIM-545 — Proposed, Open or new; cited as open -->
 
 # CLAIM-534: A plural will's motivational integration, a dimension of freedom of will the record names and leaves unanalysed, is the extent to which the demands it maintains are jointly met, within tolerances it can recognize, across the contexts where they interact, and kept so under its own dynamics; it is neither agreement among the demands nor the dominance of one, and its parts come apart: realizability (the tolerance frontier), realization (governance frustration), maintenance (viability) and the allocation of the tolerance each demand gives up
 

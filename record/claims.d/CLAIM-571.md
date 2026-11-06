@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbi4ca
 title: 'For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -36,6 +36,16 @@ history:
     this claim, since its first witness is this claim's example, so the
     complements edge to it is removed here; the converse is written by the
     repair. No status change; the claim is unchanged.
+- version: 4
+  date: '2026-11-06'
+  note: >-
+    Corrected at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), on the full reading
+    of Lawvere (NOTE-1585): the note of 2026-11-05 said "Using max as the
+    tensor is the readers' step"; Lawvere names the base, R_cart (p. 152),
+    and his free V-category formula (p. 165) specialised to it is B*.
+    THEORY-1376, Active at the same review, is added to corroborated_by
+    (ADR-058). No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -58,6 +68,7 @@ line:
 corroborated_by:
 - THEORY-1423
 - THEORY-1420
+- THEORY-1376
 summary: >-
   A's proposal, from the pasted synthesis on constraint architectures
   (pasted by the owner on 2026-11-04, continuing the exchange on emergency
@@ -71,10 +82,10 @@ summary: >-
   the sublevel sets; Berry, Lee-Trimble and Santangelo give a case where
   it is infinite. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-1644 CASE-206 — Proposed, Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: THEORY-1420 CLAIM-585 CASE-198 CASE-200 CLAIM-354 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CASE-204 CASE-206 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
-<!-- inactive-ok-file: NOTE-1585 NOTE-1581 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: NOTE-1644 — Proposed, Skimmed; cited from the DNA origami readings of 2026-11-05 -->
+<!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-204 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: NOTE-1581 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-571: For a fixed architecture and one resource that must be held at each moment, the resource threshold for reaching a target configuration need not equal the resource requirement of the target: it is the least, over admissible transition paths, of the peak requirement along the path, and it is infinite when no admissible path joins the two
 
@@ -167,7 +178,7 @@ Later entries from the same paste instance and extend the claim. [CASE-206](../c
 
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
-Readings filed beside the pasted synthesis on resource-bounded realizability place B* and price it. The readers of Lawvere ([NOTE-1585](../notes.d/NOTE-1585.md)) and of Marsden and Zwart ([NOTE-1602](../notes.d/NOTE-1602.md)) check that ([0, ∞], inf, max) is a quantale, so B* is the hom of the free category it enriches on the configuration graph, the closure over paths. Using max as the tensor is the readers' step; it is not among Marsden and Zwart's examples. In that category the affordable processes compose at every budget ([CLAIM-563](CLAIM-563.md)).
+Readings filed beside the pasted synthesis on resource-bounded realizability place B* and price it. The readers of Lawvere ([NOTE-1585](../notes.d/NOTE-1585.md)) and of Marsden and Zwart ([NOTE-1602](../notes.d/NOTE-1602.md)) check that ([0, ∞], inf, max) is a quantale, so B* is the hom of the free category it enriches on the configuration graph, the closure over paths. Lawvere names that base himself, R_cart (p. 152); it is not among Marsden and Zwart's examples. In that category the affordable processes compose at every budget ([CLAIM-563](CLAIM-563.md)).
 
 Ito et al. ([NOTE-1595](../notes.d/NOTE-1595.md)) make B* the minmax objective of their §4 and show that computing it can be hard: minmax power supply reconfiguration is strongly NP-hard (Lemma 3), maxmin clique reconfiguration has no constant-factor approximation unless P = NP (Theorem 4), and minmax set cover reconfiguration has a linear-time 2-approximation (Theorem 6). The reading of Raussen ([NOTE-1581](../notes.d/NOTE-1581.md)) and [CLAIM-591](CLAIM-591.md) add that under one-way moves B*(A, B) and B*(B, A) can differ, which the claim's undirected paths do not show. [CLAIM-560](CLAIM-560.md) pairs the threshold with [CLAIM-586](CLAIM-586.md)'s compatibility filtration; neither determines the other. No status changes.
 
@@ -226,3 +237,7 @@ Left open: the profile is a one-dimensional projection, and no kinetics are simu
 - The threshold for the transition exceeds what the target needs to persist.
 
 No status changes.
+
+## Note of 2026-11-06: Claude, read
+
+Lawvere 1973 is now read in full ([NOTE-1585](../notes.d/NOTE-1585.md)). "Using max as the tensor is the readers' step", in the note of 2026-11-05, is corrected there: Lawvere gives R_cart, "u ⊗ v = max(u, v)" (p. 152), and his free V-category formula, the infimum over finite sequences of the tensor product of edge weights (p. 165), specialised to R_cart is B*. Reading max as a peak capacity is the record's. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.

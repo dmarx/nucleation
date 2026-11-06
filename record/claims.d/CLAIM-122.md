@@ -67,7 +67,6 @@ corroborated_by:
 - CLAIM-407
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
-<!-- inactive-ok-file: CLAIM-539 — Proposed, Open, Deferred or new; cited from the reading of Jennings 2026 as open -->
 <!-- inactive-ok-file: THEORY-120 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answered in part, answered in full on 2026-10-27 -->

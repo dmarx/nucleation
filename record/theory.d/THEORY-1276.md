@@ -1,19 +1,37 @@
 ---
 number: 1276
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp1g3ve
-promote_when: >-
-  A reading of Simondon's own text, the French thesis (1958/2005, or its
-  second half published 1989) or the 2020 English translation (LIT-1648),
-  that confirms the quoted passages in context: that information is
-  "never a given thing", exists between "two disparate realities", and
-  is the meaning that arises when an individuation makes them one
-  system, with transduction as the operation that does it. What cannot
-  settle it: further secondary readings that quote the same few pages of
-  the 1989 volume.
-title: 'In Simondon''s ontology, as his organization-studies readers take it, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it'
-version: 1
+title: 'In Simondon''s ontology, as Iliadis and Bencherki read it, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings), under
+    ADR-065: the title reports how two commentators read Simondon, and
+    both are read in full (NOTE-1485; NOTE-1483, from the authors'
+    manuscript, with no discrepancy named). "his organization-studies
+    readers" is replaced by the readers' names, since Iliadis 2013 and
+    Bencherki & Iliadis 2021 appeared in communication journals. The old
+    title: In Simondon's ontology, as his organization-studies readers
+    take it, information is not a signal transmitted between finished
+    entities but a disparity between two differently ordered domains of
+    a metastable system, and its meaning is the new structure that
+    transduction produces in resolving it. Its promote_when asked for a
+    reading of Simondon's own text, which is more than the title
+    asserts; it moves word for word to THEORY-tmpw943u, Proposed, which
+    extends this entry and states the wide form (ADR-047, kind 1). The
+    old condition: A reading of Simondon's own text, the French thesis
+    (1958/2005, or its second half published 1989) or the 2020 English
+    translation (LIT-1648), that confirms the quoted passages in
+    context: that information is "never a given thing", exists between
+    "two disparate realities", and is the meaning that arises when an
+    individuation makes them one system, with transduction as the
+    operation that does it. What cannot settle it: further secondary
+    readings that quote the same few pages of the 1989 volume.
 tags:
 - individuation
 - metaphysics
@@ -28,14 +46,16 @@ summary: >-
   Iliadis (2013), [LIT-1911](../literature.d/LIT-1911.md), read in [NOTE-1485](../notes.d/NOTE-1485.md), with Bencherki &
   Iliadis (2021), [LIT-1922](../literature.d/LIT-1922.md). The reading of Simondon on which
   Bencherki, Brummans & Vézy (2024) build their account of communication
-  and meaning. Proposed: both sources are exegesis in their authors'
-  translations, and Simondon's text could not be checked. It does not say
+  and meaning. Active as a report of how the two read him: both sources are
+  exegesis in their authors' translations, and whether Simondon holds
+  this, which turns on his own text, is THEORY-tmpw943u's question, Proposed. It does not say
   that information has no quantitative sense, or that meaning can be
   identified before the resolution occurs.
 ---
 <!-- inactive-ok-file: LIT-1648 LIT-1900 — Unavailable; Simondon's own texts, whose reading would settle this -->
+<!-- inactive-ok-file: THEORY-tmpw943u — Proposed; the wide form, whether Simondon himself holds this -->
 
-# THEORY-1276: In Simondon's ontology, as his organization-studies readers take it, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it
+# THEORY-1276: In Simondon's ontology, as Iliadis and Bencherki read it, information is not a signal transmitted between finished entities but a disparity between two differently ordered domains of a metastable system, and its meaning is the new structure that transduction produces in resolving it
 
 ## Source
 

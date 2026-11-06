@@ -73,7 +73,7 @@ summary: >-
   Interpretive: the classification is argued, not proved exhaustive. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-205 THEORY-1417 THEORY-1427 THEORY-1383 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
+<!-- inactive-ok-file: CASE-205 THEORY-1383 — Proposed; A's proposals of 2026-11-04, the entries filed beside them and the readings' accounts, cited as filed -->
 <!-- inactive-ok-file: NOTE-1581 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-568: A transition can fail in four ways that call for different remedies: a feasible path exceeds a resource ceiling, no path exists in the fixed configuration space, a path exists that no available input can execute, or a path exists that cannot be reliably followed; added actuation can overcome an energy barrier and cannot join disconnected configurations

@@ -21,7 +21,7 @@ summary: >-
   conferral through a maintained relation.
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070; named as the former word for conferral -->
-<!-- inactive-ok-file: TERM-102 CLAIM-285 CLAIM-367 THEORY-120 — Proposed or new; cited as open -->
+<!-- inactive-ok-file: CLAIM-285 CLAIM-367 THEORY-120 — Proposed or new; cited as open -->
 
 # TERM-103: conferral, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case; negative conferral withdraws influence
 

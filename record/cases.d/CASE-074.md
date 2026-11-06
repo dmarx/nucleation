@@ -40,7 +40,6 @@ supports:
 variants:
 - CASE-160
 ---
-<!-- inactive-ok-file: TERM-102 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
 

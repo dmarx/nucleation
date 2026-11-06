@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7bxc0
 title: 'When process costs compose by a monotone operation, the processes costing at most b are closed under composition whenever b composed with itself is at most b, and not otherwise once two composable processes each cost b: at every budget for a peak capacity composed by maximum, and for a cumulative expenditure composed by sum only at budgets 0 and infinity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,16 @@ history:
     and the reserve instance were re-derived at the review. TERM-105 and
     TERM-114 are adopted in the same review. No objection is on file, and
     nothing meets the defeat condition. The claim is unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Corrected at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), on the full reading
+    of Lawvere (NOTE-1585): the body said "Lawvere's own base is addition",
+    with the max quantale the readers' check; Lawvere gives R_cart, with max
+    as tensor, as a closed category (p. 152). THEORY-1376, Active at the
+    same review, is added to corroborated_by (ADR-058); the claim does not
+    rest on it. No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,6 +52,7 @@ line:
 - formal-apparatus
 corroborated_by:
 - THEORY-1435
+- THEORY-1376
 complements:
 - CLAIM-571
 - CLAIM-585
@@ -64,8 +75,6 @@ summary: >-
   that composes, as A proposes. The wording is A's, sharpened by the
   reader; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-585 NOTE-1585 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
-<!-- inactive-ok-file: CLAIM-590 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # CLAIM-563: When process costs compose by a monotone operation, the processes costing at most b are closed under composition whenever b composed with itself is at most b, and not otherwise once two composable processes each cost b: at every budget for a peak capacity composed by maximum, and for a cumulative expenditure composed by sum only at budgets 0 and infinity
 
@@ -116,8 +125,10 @@ Marsden and Zwart ([NOTE-1585](../notes.d/NOTE-1585.md), [NOTE-1602](../notes.d/
 max) satisfies the definition of a quantale, since max(a, inf_i b_i) =
 inf_i max(a, b_i). The least cost of going from q to q′ in the free
 category it enriches is the infimum over paths of the largest cost along
-the path, [CLAIM-571](CLAIM-571.md)'s bottleneck budget B*. Lawvere's own base is
-addition, the "familiar additive shortest-path model" A names.
+the path, [CLAIM-571](CLAIM-571.md)'s bottleneck budget B*. Lawvere's central base is
+addition, the "familiar additive shortest-path model" A names, and he also
+gives this one: R_cart, with max as tensor, a closed category whose
+categories are the ultrametric spaces (Lawvere 1973, p. 152; [NOTE-1585](../notes.d/NOTE-1585.md)).
 
 **Order-dependent costs.** A: "For replenishable resources, the cost may
 even depend on the order of operations." The filer's instance: a reserve
@@ -154,3 +165,7 @@ from the state space.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The third paste of the pasted synthesis on resource-bounded realizability reaches this claim from Yoneda: "simply deleting all morphisms that exceed a fixed cumulative budget generally does not yield an ordinary presheaf closed under precomposition", and A asks for a graded law κ(f∘g) ⪯ κ(f)⊙κ(g). In this claim's terms, as the filer's derivation: the morphisms into an object costing at most b are closed under precomposition by probes costing at most b whenever b ⊗ b ⪯ b, and, where costs compose exactly, not once two composable morphisms each cost b and b ⊗ b ⋠ b. If probe morphisms are free, costing 0, they are closed at every budget, since κ(f) ⊗ 0 = κ(f). The peak-capacity case is worked on a degree-4 vertex in [CLAIM-590](CLAIM-590.md), whose max-enriched category puts the two folded states about 1.866 apart. No status changes.
+
+## Note of 2026-11-06: Claude, read
+
+Lawvere 1973 is now read in full ([NOTE-1585](../notes.d/NOTE-1585.md)). "Lawvere's own base is addition" was half the story, and the body is corrected: R, with sum, is his "central example" (p. 145), and he also gives R_cart, "u ⊗ v = max(u, v)", cartesian closed, whose categories are the ultrametric spaces (p. 152). That a closed structure on [0, ∞] with max exists is therefore his statement, and the check that max distributes over infima is the closedness he asserts, since in a closed category the tensor preserves colimits in each variable (p. 141). The peak-capacity reading and the composition-at-budget argument stay the readers'. [THEORY-1376](../theory.d/THEORY-1376.md) corroborates. No status change.

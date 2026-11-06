@@ -26,7 +26,7 @@ summary: >-
   not its documentation. The case grounds [CLAIM-561](../claims.d/CLAIM-561.md) and
   [CLAIM-559](../claims.d/CLAIM-559.md). The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-561 CLAIM-559 TERM-109 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: CLAIM-561 CLAIM-559 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CASE-213: Provisional dispatch and cancellation of a specialized rescue resource: a capability is mobilized under uncertainty, then released without performing its specialized task
 

@@ -1,10 +1,10 @@
 ---
 number: 529
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpbij2b
-title: 'An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate''s interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members'' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, a different individuation, unavailable where members have no such attitudes'
-version: 2
+title: 'An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate''s interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members'' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, individuating it by a different relation, unavailable where members have no such attitudes'
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -18,6 +18,24 @@ history:
     the non-circular route, and it is a different sense of individuation";
     since the attitude route is also constitutive (item 3), it now says it
     individuates by a different relation. Title, defeater and status are
+    unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057), with its title corrected to match its body
+    (ADR-047 kind 3). Version 2's body says both routes are constitutive
+    in TERM-088's sense and the attitude route "individuates by a
+    different relation", while the title still called it "a different
+    individuation", which, with TERM-088 adopted, read as a different
+    sense. The title read: "An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate's interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, a different individuation, unavailable where members have no such attitudes". Its premises CLAIM-405 and CLAIM-522 and
+    its ground THEORY-1247 are Active, and TERM-088, adopted today, is
+    used in the senses version 2 names. It has no objection on the
+    record, and nothing meets its defeated_if: CLAIM-531, that
+    entrenchment and knockout can hold where closure fails, is
+    disagreement among the interaction criteria, which the condition
+    says does not defeat it, and no entry argues that declaring a
+    candidate presupposes the unit. Warrant and defeated_if are
     unchanged.
 role: thesis
 warrant: interpretive
@@ -68,7 +86,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose parts this claim sorts -->
 <!-- inactive-ok-file: LIT-1927 LIT-1932 LIT-1937 — Deferred: registered 2026-11-01, unread; named for what the reading of LIT-188 reports of them -->
 
-# CLAIM-529: An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate's interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, a different individuation, unavailable where members have no such attitudes
+# CLAIM-529: An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate's interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, individuating it by a different relation, unavailable where members have no such attitudes
 
 ## The claim
 

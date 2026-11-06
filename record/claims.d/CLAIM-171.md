@@ -88,7 +88,7 @@ uptake, Goffman on keying) are unread.
 
 ## Note of 2026-10-31: held readings on this side, and what they cost
 
-<!-- inactive-ok-file: THEORY-1278 THEORY-1276 THEORY-1285 — Proposed; readings filed on 2026-10-31 that take a systemic form of this claim's position -->
+<!-- inactive-ok-file: THEORY-1278 THEORY-1285 — Proposed; readings filed on 2026-10-31 that take a systemic form of this claim's position -->
 
 This claim says "No reader-response or reception theory is held". Since
 2026-10-31 the record holds three readings, all Proposed, that take a

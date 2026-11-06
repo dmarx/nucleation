@@ -1,10 +1,22 @@
 ---
 number: 572
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpcyj43
 title: 'When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). CASE-206 leaves
+    grounds and illustrates the claim instead: the degree-4 vertex is one
+    of its worked cases, and each of its four points is argued in general
+    and shown by the triage case without it. Its premises, CLAIM-535,
+    CLAIM-570 and CLAIM-574, are Active, no objection is filed, and the
+    triage table and the vertex's totals and ready splits were re-checked.
+    Nothing in the record meets its defeated_if.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -32,8 +44,6 @@ rests_on:
 complements:
 - CLAIM-592
 - CLAIM-561
-grounds:
-- CASE-206
 bears_on:
 - QUESTION-374
 summary: >-
@@ -55,7 +65,7 @@ summary: >-
   systems. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-592 CLAIM-561 CASE-206 — Proposed or Open in this pull request, cited as open -->
+<!-- inactive-ok-file: CLAIM-561 — Proposed or Open in this pull request, cited as open -->
 
 # CLAIM-572: When observing and acting draw on one budget, the cheapest readiness always buys a whole prefix of the probes and stops where a probe lowers the response budget, the splits a fixed budget affords can be disconnected, so shifting resources gradually from response to observation can pass through splits that are not ready, and stopping when the next probe does not pay can miss the optimum
 

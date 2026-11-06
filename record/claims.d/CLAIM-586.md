@@ -61,8 +61,7 @@ summary: >-
   split are what is new. The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-212 CLAIM-585 CLAIM-555 — Proposed; the case and claims filed beside this one from A's synthesis of 2026-11-04, and a held claim, cited as filed -->
-<!-- inactive-ok-file: NOTE-1593 CLAIM-564 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
+<!-- inactive-ok-file: CLAIM-555 — Proposed; the case and claims filed beside this one from A's synthesis of 2026-11-04, and a held claim, cited as filed -->
 
 # CLAIM-586: Indexing the compatibility complex by a resource budget gives a complex that grows with the budget and never exceeds the complex with no budget, so a set of demands outside the unbudgeted complex is structurally frustrated at every budget, and one inside it but outside the complex at budget b is frustrated only relative to b, short of resources and not structurally frustrated
 

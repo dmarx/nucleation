@@ -38,7 +38,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-577 NOTE-1592 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: NOTE-1592 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # QUESTION-373: Who supplies the resource that carries a system across a transition's bottleneck, the environment, a designer, or the system itself from reserves it accumulates while operating, and under what conditions does that capacity move inside the system?
 

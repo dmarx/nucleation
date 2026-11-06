@@ -32,7 +32,7 @@ summary: >-
   "cannot be tested with empirical results without further assumptions"
   (p. 7). Bears on [CLAIM-533](../claims.d/CLAIM-533.md) and [QUESTION-071](../questions.d/QUESTION-071.md).
 ---
-<!-- inactive-ok-file: CLAIM-533 LIT-1132 — Proposed, Open or Unavailable; cited as open -->
+<!-- inactive-ok-file: LIT-1132 — Proposed, Open or Unavailable; cited as open -->
 
 # THEORY-1302: Sánchez-Cañizares reinterprets Irruption Theory for binary decisions (IAT*): irruption is the onset of a landscape with one attractor per option and absorption the passage to a single attractor, both correlated in mind and brain, reversing the sign of Froese's variance hypothesis; the mind's causal role is to set the landscape's control parameters by "selecting the relevant physical coarse-graining", not to push the state, so on this account the mind controls which outcomes exist and not which one the state reaches
 

@@ -56,7 +56,7 @@ summary: >-
   within groups is bought by group extinction. The wording is the
   reader's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-545 THEORY-468 THEORY-1352 ARG-052 — Proposed, Rejected or new; cited as open, or as the verdict on a reading -->
+<!-- inactive-ok-file: CLAIM-545 THEORY-468 ARG-052 — Proposed, Rejected or new; cited as open, or as the verdict on a reading -->
 
 # CLAIM-547: Cooperation within groups and the coexistence of groups are distinct targets that can trade off: in the group-selection rule of Nowak's five, b/c > 1 + n/m, cooperation spreads because a group that grows to size n splits and another group is driven extinct, so the mechanism that stabilizes cooperation inside groups works by removing groups; cooperation local to a group, the persistence of several groups whose interests are opposed, and concern for those outside one's group are three achievements, and none of them secures the next
 

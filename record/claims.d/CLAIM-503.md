@@ -140,7 +140,6 @@ can be matched at every state. [CLAIM-488](CLAIM-488.md) rests on it.
 
 ## Note of 2026-10-31: an ex ante criterion of failing to inform
 
-<!-- inactive-ok-file: THEORY-1276 — Proposed; the reading this note sets beside the result -->
 
 [THEORY-1276](../theory.d/THEORY-1276.md) reads Simondon, through Iliadis and Bencherki & Iliadis,
 on information. Information is a disparity that transduction resolves.

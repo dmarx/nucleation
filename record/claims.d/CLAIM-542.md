@@ -48,7 +48,7 @@ summary: >-
   the allocation across channels.
 ---
 <!-- inactive-ok-file: NOTE-1536 — Proposed, Open, Deferred, Unfetched, Unavailable or new; cited as open -->
-<!-- inactive-ok-file: CLAIM-354 CLAIM-533 LIT-1997 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: LIT-1997 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # CLAIM-542: Sensitivity does not fix the allocation or the authorship of control: linearized, every input reaches the final state through the same transition operator, ∂x_T/∂w_t = Φ(T, t)B_w(t), so systems with the same Lyapunov spectrum can differ arbitrarily in what an agent's own channel, an outside party's channel and noise each reach and at what least energy; and along one unstable direction a larger exponent λ lowers the least effort to reach a displacement, since W_T = b²(e^{2λT} − 1)/2λ grows with λ, while a constant open-loop input against white noise entering the same direction has terminal signal-to-noise ratio tending to (bu/σ)√(2/λ), which falls as λ grows, so only feedback that observes the state turns cheaper control into reliable direction
 

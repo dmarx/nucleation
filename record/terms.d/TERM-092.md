@@ -49,7 +49,6 @@ summary: >-
   shape as well as size. The term separates askable from expressible and
   from answerable, which [CLAIM-474](../claims.d/CLAIM-474.md)'s last failure turns on.
 ---
-<!-- inactive-ok-file: CLAIM-474 — Proposed; the claim stated in this term beside CLAIM-475 -->
 
 # TERM-092: inquiry frontier, of an agent at a budget: the questions it can formulate, making them determinate enough to pursue, with the concepts, records, tools, time and computation it actually has; distinct from the questions its language can express, from those it can pursue to a stated standard, and from those that have answers
 

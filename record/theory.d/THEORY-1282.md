@@ -1,26 +1,38 @@
 ---
 number: 1282
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpkdsex
-promote_when: >-
-  A way to tell, in a given episode and before knowing how it resolved,
-  that a body's capacities to act and be acted on changed, in which
-  direction, and that the change was felt. That would make "felt
-  transition in capacitation" a description that could fail. Applied to
-  episodes, it would have to pick out cases that an account in terms of
-  emotion or appraisal does not. What cannot settle it: more readings of
-  the Spinozan lineage, which show where the definition comes from, not
-  that it carves anything.
 title: 'Affect, in Massumi''s sense, is the felt transition of a body''s power to affect and be affected toward a diminished or augmented capacitation, offered as a proposition to be regenerated in each use rather than a definition to apply'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings), under
+    ADR-065: the title reports Massumi's definition and the status he
+    gives it, and NOTE-1488 read the interview in full. Its promote_when
+    asked for a way to tell, before an episode resolves, that
+    capacitation changed, which bears on whether the account is true,
+    not on what Massumi says; it moves word for word to THEORY-tmpfgob7,
+    Proposed, which extends this entry (ADR-047, kind 1). The old
+    condition: A way to tell, in a given episode and before knowing how
+    it resolved, that a body's capacities to act and be acted on
+    changed, in which direction, and that the change was felt. That
+    would make "felt transition in capacitation" a description that
+    could fail. Applied to episodes, it would have to pick out cases
+    that an account in terms of emotion or appraisal does not. What
+    cannot settle it: more readings of the Spinozan lineage, which show
+    where the definition comes from, not that it carves anything.
+    LIT-1907, Unavailable and not reached, leaves source (ADR-058: an
+    unavailable work takes no edge); the body keeps the citation.
 tags:
 - emotion-and-affect
 - metaphysics
 date: '2026-10-31'
 source:
 - LIT-1905
-- LIT-1907
 summary: >-
   Massumi (2009), [LIT-1905](../literature.d/LIT-1905.md), read in [NOTE-1488](../notes.d/NOTE-1488.md), p. 1; reprinted in
   Politics of Affect (2015, pp. 47–48), [LIT-1907](../literature.d/LIT-1907.md). The definition is
@@ -29,7 +41,7 @@ summary: >-
   apply". Bencherki et al. ([LIT-1902](../literature.d/LIT-1902.md)) quote it exactly and then apply
   only its augmenting half, as a definition of agency.
 ---
-<!-- inactive-ok-file: LIT-1907 THEORY-1280 — Unavailable or Proposed; the book that reprints the source, and the parent paper's claim set beside this -->
+<!-- inactive-ok-file: LIT-1907 THEORY-1280 THEORY-tmpfgob7 — Unavailable or Proposed; the book that reprints the source, the parent paper's claim set beside this, and the wide form -->
 
 # THEORY-1282: Affect, in Massumi's sense, is the felt transition of a body's power to affect and be affected toward a diminished or augmented capacitation, offered as a proposition to be regenerated in each use rather than a definition to apply
 
@@ -50,8 +62,9 @@ status: "It's not a general definition that you can apply ... Rather than
 a definition, what you have is a proposition" (p. 3).
 
 The record has checked that this is what Massumi says, in the form
-Bencherki, Brummans & Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1353) quote. Proposed status
-is about the account of affect itself, which is offered without evidence.
+Bencherki, Brummans & Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1353) quote. Whether the account
+of affect itself is true, which is offered without evidence, is
+[THEORY-tmpfgob7](THEORY-tmpfgob7.md)'s question, Proposed.
 
 ## What this does not say
 

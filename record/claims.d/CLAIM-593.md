@@ -65,7 +65,7 @@ summary: >-
   question of continuation, not of resemblance". The construction is the filer's, from
   A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-134 CLAIM-170 CLAIM-544 TERM-088 — Proposed; the record's open theses on structural identity and willed agents, its open term for the senses of individuation, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-134 CLAIM-170 CLAIM-544 — Proposed; the record's open theses on structural identity and willed agents, its open term for the senses of individuation, and A's proposals of 2026-11-05 with the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-593: Isomorphism is not persistence, in either direction: two separately made mechanisms with the same costed transformation structure are isomorphic and still two, and one mechanism whose hinge is replaced can persist while its costed structure becomes non-isomorphic to the earlier one, so which morphisms count as continuations is structure added by assumptions about the domain, not read off the category
 

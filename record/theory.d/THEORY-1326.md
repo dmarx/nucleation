@@ -29,7 +29,6 @@ summary: >-
   its use by Jennings ([THEORY-1341](THEORY-1341.md)): the attentional step is bottom-up
   capture by salience, not top-down prefrontal feedback.
 ---
-<!-- inactive-ok-file: THEORY-1341 — Proposed; the reading of Jennings 2026 that rests on this model -->
 
 # THEORY-1326: In Voigt's model of hard decisions, when two options are valued equally the value differential is too small to choose (conflict, dACC), and the tie is broken during the choice by fixation: precuneus allocates spatial attention bottom-up to the salient item and dlPFC holds it in working memory, which both settles the choice and raises that item's value, a change that lasts only if the choice is remembered (hippocampus)
 

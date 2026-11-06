@@ -52,7 +52,7 @@ supports:
 uses:
 - TERM-094
 ---
-<!-- inactive-ok-file: THEORY-1282 CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
+<!-- inactive-ok-file: CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
 

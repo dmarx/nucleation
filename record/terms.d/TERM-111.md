@@ -27,7 +27,7 @@ summary: >-
   trivial, so the sense informs only relative to restricted primitives. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-034 CLAIM-573 NOTE-1584 QUESTION-008 THEORY-1407 — Deferred or Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: CLAIM-034 CLAIM-573 QUESTION-008 — Deferred or Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 THEORY-812 — Proposed or new; the resource-bounded realizability readings of 2026-11-05, cited as open -->
 
 # TERM-111: universality, of resource-bounded constraint systems, and which sense: expressive, that a restricted family implements every member of a class; computational, that one family resource-simulates another with bounded overhead, an equivalence only when the simulation runs both ways; or scaling, that families share asymptotic laws
@@ -135,3 +135,7 @@ From [THEORY-1054](../theory.d/THEORY-1054.md), where one arrangement gives a wa
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 A's fourth paste splits universality into five classifications, constraint, process, resource, observational and organizational, and three regimes for the translation overhead (polynomial, bounded multiplicative distortion, exact interface): "There is no reason to assume these notions coincide." A recommends looking for implications and separations among them; the interface separations are asked in [QUESTION-382](../questions.d/QUESTION-382.md). No status changes.
+
+## Note of 2026-11-06: what holds it back
+
+The definition gives three senses at three levels, and its notes of 2026-11-05 record two later divisions from the same synthesis that it does not place: the second paste's "computational" universality, which the note glosses as "implementing an expressive class of computations", is by that gloss this term's expressive sense under the name the term gives another, and the fourth paste's five classifications and three overhead regimes are not said to be senses, levels or regimes of this term. Until the definition places them or excludes them, a claim citing those pastes cannot say which sense it means; the uses so far, [CLAIM-573](../claims.d/CLAIM-573.md) and [QUESTION-384](../questions.d/QUESTION-384.md) in the computational sense, do.

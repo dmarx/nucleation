@@ -1,10 +1,10 @@
 ---
 number: 474
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpgubhp
 title: 'From interconnection to individuation, the relationships are distinct achievements that form a partial order, not a nested sequence: none implies the next, and a later one need not require every earlier one. Interconnection fixes what joint behaviour is possible, compatibility which local descriptions admit a coherent whole, dynamics which organizations persist, individuation which have sufficiently robust identity and boundaries, organizational autonomy which help maintain their own constitutive constraints, and inquiry which can measure and revise their own models and apparatuses under resource bounds, inquiry and reconstruction occurring without autonomy. The research program is to find the conditions for each, and their dependencies, apart from the order in which an inquiry meets them'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -29,6 +29,29 @@ history:
     the order an inquiry meets them (the owner's rule of method). The
     five-row table and defeated_if are unchanged; the note of 2026-10-31
     gives the reasons.
+- version: 4
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). Every premise is Active: CLAIM-470, CLAIM-471,
+    CLAIM-475, CLAIM-480 and CLAIM-481, the readings and case it grounds
+    on, and TERM-088, adopted today, in whose dynamical sense, with
+    autonomy as the further question, its individuation row is stated.
+    It has no objection on the record, and nothing meets its
+    defeated_if: the Simondonian readings define compatibility as
+    individuation and give no result (note of 2026-10-31), Griesemer and
+    Shavit and West et al. separate achievements rather than collapse
+    them (notes of 2026-11-01 and 2026-11-04), and CLAIM-481's
+    dissipative Laplacian flows are the special class the condition
+    excludes. The body's "five relationships" and the title's six named
+    achievements count different things: the five are the table's
+    relationships, the owner's request, and organizational autonomy is
+    the further achievement the individuation row holds since version 2,
+    which the body separates in "Persistence without autonomy" and the
+    note of 2026-10-31; the title states what the body shows, and neither
+    count is changed. THEORY-1351, which already corroborated it, is
+    added as corroborated_by, the converse the entry lacked. Title,
+    warrant and defeated_if are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -64,6 +87,8 @@ grounds:
 - THEORY-1088
 - THEORY-1090
 - CASE-179
+corroborated_by:
+- THEORY-1351
 uses:
 - TERM-088
 - TERM-093
@@ -197,7 +222,7 @@ entrench ([CLAIM-184](CLAIM-184.md)). The status and warrant are unchanged.
 
 ## Note of 2026-10-31: an account in which resolving incompatibility is individuation
 
-<!-- inactive-ok-block: THEORY-1276 THEORY-1277 THEORY-1278 CLAIM-526 — Proposed or new; the readings filed 2026-10-31 and the claim filed on them, cited as context -->
+<!-- inactive-ok-block: THEORY-1277 THEORY-1278 — Proposed or new; the readings filed 2026-10-31 and the claim filed on them, cited as context -->
 The Simondonian readings filed today ([THEORY-1276](../theory.d/THEORY-1276.md), [THEORY-1277](../theory.d/THEORY-1277.md))
 hold a position this claim denies, and do not argue for it.
 

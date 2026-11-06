@@ -33,7 +33,7 @@ summary: >-
   "do not constitute direct evidence of multiple equilibria" and that a
   persistent sunk factor cannot be ruled out.
 ---
-<!-- inactive-ok-file: THEORY-1461 CLAIM-600 — Proposed, Skimmed or new; cited from the reading of Bleakley and Lin (2012) as open -->
+<!-- inactive-ok-file: CLAIM-600 — Proposed, Skimmed or new; cited from the reading of Bleakley and Lin (2012) as open -->
 
 # THEORY-1505: Bleakley and Lin find that US cities at historical portage sites, whose transport advantage ended with canals and railroads by about 1900, remain 60–100% denser than comparable sites in the same river watersheds, increasingly so relative to 1850, are neither oversupplied nor cheap in housing, infrastructure or other sunk assets conditional on density, and grow like comparably dense places from about 1930, with no effect where the upstream watershed was smallest; they read this as path dependence under strong local increasing returns, with portage a coordination device that selected the high-density equilibrium, rather than slow reversion through sunk capital
 

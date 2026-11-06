@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpy685m
 title: 'Connectivity of the configurations affordable at a budget does not settle reachability among them: under directed moves a state can share a connected component with a target and have no admissible path to it, and the least budget for going from one configuration to another can differ from that for coming back, so a persistence summary of sublevel sets bounds the reachability filtration without fixing it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -15,6 +15,13 @@ history:
     readings, and both constructions and the necessary-condition step are
     the claim's own, re-checked at the review. No objection is on file, and
     nothing meets the defeat condition. The claim is unchanged.
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Corrected at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings), on the full reading
+    of Lawvere (NOTE-1585): his example, reported second-hand, is now quoted
+    from the page (p. 138). No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -59,7 +66,7 @@ summary: >-
   wording is A's; adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: NOTE-1644 — Skimmed; cited from the DNA origami readings of 2026-11-05 -->
-<!-- inactive-ok-file: CLAIM-585 NOTE-1585 THEORY-1376 THEORY-1415 THEORY-1434 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: THEORY-1415 THEORY-1434 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-591: Connectivity of the configurations affordable at a budget does not settle reachability among them: under directed moves a state can share a connected component with a target and have no admissible path to it, and the least budget for going from one configuration to another can differ from that for coming back, so a persistence summary of sublevel sets bounds the reachability filtration without fixing it
 
@@ -110,8 +117,8 @@ and [CLAIM-571](CLAIM-571.md)'s threshold is the merge level.
   and can leave only irreversibly.
 - **Costs** (Lawvere; [NOTE-1585](../notes.d/NOTE-1585.md); [THEORY-1376](../theory.d/THEORY-1376.md)). A generalized metric
   need not be symmetric: "the natural asymmetry carries considerable
-  information". Lawvere's example, as the reading reports it, is the work
-  needed to get from a to b in mountainous country.
+  information". Lawvere's example is "X(a, b) = work required to get from
+  a to b in mountainous region X" (1973, p. 138).
 
 ## What it does not say
 
@@ -161,3 +168,7 @@ Read at the owner's invitation to add readings to the DNA origami filing; the wo
 **Winfree and Bekbolatov, "Proofreading tile sets".** Qualifies. The kTAM obeys detailed balance, yet the paper's kinetic-trap models treat coverage of a mismatched tile by further growth as an irreversible step at a fitted rate. A microscopically reversible system is effectively one-way at the time scales that matter, and a covered mismatch is not reached back. Left open: the freezing rates are fitted with "no strong justification" (footnote 9).
 
 No status changes.
+
+## Note of 2026-11-06: Claude, read
+
+Lawvere's example, given before "as the reading reports it", is checked verbatim against the page image of the 1973 article: "X(a, b) = work required to get from a to b in mountainous region X" (p. 138; [NOTE-1585](../notes.d/NOTE-1585.md)). No status change.

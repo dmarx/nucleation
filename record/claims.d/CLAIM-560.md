@@ -64,7 +64,7 @@ summary: >-
   what is new is the pairing. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-585 THEORY-1420 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: THEORY-1420 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-560: The resource-indexed compatibility filtration and the resource-indexed reachability filtration of one architecture both grow with the budget and neither determines the other: a budget can make a transition between configurations already feasible affordable while adding no jointly satisfiable set of demands, and a configuration can be feasible at a budget at which it is unreachable from the start
 

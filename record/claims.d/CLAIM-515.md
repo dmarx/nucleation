@@ -54,7 +54,6 @@ summary: >-
   research program". Interpretive: its instances are
   demonstrated case by case, and the generalization is not.
 ---
-<!-- inactive-ok-file: CLAIM-474 — Proposed or Open; neighbours and the question it was drawn from, cited as open -->
 
 # CLAIM-515: Whether an organization has a cognitive property is four questions, not one: what information about the property can be recovered from its behaviour, what capabilities it can actually exercise, what mechanisms realize them, and whether it can maintain or transform those mechanisms; the four can come apart, and none should be silently substituted for another
 

@@ -43,7 +43,7 @@ summary: >-
   It undercuts [ARG-053](../arguments.d/ARG-053.md). The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-213 ARG-053 TERM-109 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: CASE-213 ARG-053 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CLAIM-561: When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste
 

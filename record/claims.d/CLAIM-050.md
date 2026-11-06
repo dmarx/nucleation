@@ -173,7 +173,6 @@ Torgersen's results.
 
 ## Note of 2026-10-31: a different information, not a rival
 
-<!-- inactive-ok-file: THEORY-1276 CLAIM-525 — Proposed; a reading filed on 2026-10-31 and the record's claim placing it -->
 
 The Simondon readings filed on 2026-10-31 (Iliadis, [LIT-1911](../literature.d/LIT-1911.md);
 Bencherki and Iliadis, [LIT-1922](../literature.d/LIT-1922.md); read together in [THEORY-1276](../theory.d/THEORY-1276.md))

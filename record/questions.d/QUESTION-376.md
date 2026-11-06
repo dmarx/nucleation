@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmp3tq0j
 title: 'Since the clone of polymorphisms that fixes the complexity of satisfying a constraint language does not fix the complexity of navigating between its solutions, what property of the language does, beyond Boolean languages with single-variable flips and under resource budgets?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Dated note added at the twenty-seventh status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings), on the full
+    readings of Gopalan et al. and Schwerdtfeger (NOTE-1584, NOTE-1613),
+    narrowing the sub-question on formulas without constants. It stays Open.
 tags:
 - mathematics
 - logic
@@ -26,7 +34,7 @@ summary: >-
   languages without constants, and budgets on the worst intermediate
   state. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-565 NOTE-1555 NOTE-1572 NOTE-1584 NOTE-1613 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
+<!-- inactive-ok-file: NOTE-1555 NOTE-1572 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # QUESTION-376: Since the clone of polymorphisms that fixes the complexity of satisfying a constraint language does not fix the complexity of navigating between its solutions, what property of the language does, beyond Boolean languages with single-variable flips and under resource budgets?
 
@@ -82,3 +90,7 @@ The record's own question is whether that has a general form.
 A classification of satisfiability alone, however refined, since the
 Boolean case shows navigation can differ where it agrees; or a result for
 one system, which has no complexity in this sense ([CLAIM-578](../claims.d/CLAIM-578.md)).
+
+## Note of 2026-11-06: Claude, read
+
+The sub-question for Boolean languages without constants is narrower than its quote suggests. Gopalan et al.'s §5 continues: "We can extend our dichotomy theorem for st-connectivity to CNF(S)-formulas without constants" ([NOTE-1584](../notes.d/NOTE-1584.md)), without proof in the version read. Schwerdtfeger's §6 reports that his thesis proves the st-connectivity and diameter dichotomies without constants, with connectivity only partly classified ([NOTE-1613](../notes.d/NOTE-1613.md); the thesis, arXiv 1510.06700, was not read). For navigation without constants the classification is reported; global connectivity is what stays open. The question stays Open.

@@ -32,7 +32,7 @@ summary: >-
   reported is dimensionality reduction, prediction and a network
   simulation, with no intervention on the pattern.
 ---
-<!-- inactive-ok-file: NOTE-1532 THEORY-1314 CLAIM-533 — Proposed or new; the source, its reading and the entries it bears on, cited as open -->
+<!-- inactive-ok-file: NOTE-1532 THEORY-1314 — Proposed or new; the source, its reading and the entries it bears on, cited as open -->
 
 # THEORY-1340: Training forms a task-defined, low-dimensional subregion of prefrontal and premotor population activity (a preparatory subspace, an axis of choice organized as a line attractor) that constrains a monkey's delayed response top down, holding behavior to what the task requires while the trial's cue and evidence select within it; Juarrero's reading of Churchland et al. 2012 and Mante, Sussillo et al. 2013 as governing constraints and as neural correlates of prior and proximate intentions
 

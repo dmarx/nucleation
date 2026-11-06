@@ -1,10 +1,22 @@
 ---
 number: 592
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpy6y22
 title: 'Whether a system''s own reachable classes ever coincide with what an observer can tell apart depends on the order of the observer''s probe costs as well as on the mechanism: the two partitions agree exactly at partitions common to the observer''s refinement chain and the system''s merge tree, a level of the merge tree can be made to agree under some cost order exactly when it is the common refinement of some set of the available probes, and the cost order decides which of those levels actually appear'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the status
+    review's ruling (the owner delegated these rulings). CASE-206 leaves
+    grounds and illustrates the claim instead: its four points are argued
+    for any finite system, and the vertex is the instance the body works.
+    Its premises, CLAIM-570, CLAIM-581 and CLAIM-574, are Active, no
+    objection is filed, and the argument and the vertex's two cost orders
+    were re-checked, the latter in scratch/formal/case206_check.py.
+    Nothing in the record meets its defeated_if.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,8 +39,6 @@ rests_on:
 - CLAIM-570
 - CLAIM-581
 - CLAIM-574
-grounds:
-- CASE-206
 bears_on:
 - QUESTION-374
 summary: >-
@@ -50,7 +60,6 @@ summary: >-
   cheap to measure first. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-206 — Proposed; entries of this pull request, cited as open -->
 
 # CLAIM-592: Whether a system's own reachable classes ever coincide with what an observer can tell apart depends on the order of the observer's probe costs as well as on the mechanism: the two partitions agree exactly at partitions common to the observer's refinement chain and the system's merge tree, a level of the merge tree can be made to agree under some cost order exactly when it is the common refinement of some set of the available probes, and the cost order decides which of those levels actually appear
 

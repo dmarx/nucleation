@@ -104,3 +104,6 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 - **[CLAIM-080](../claims.d/CLAIM-080.md)**: coexisting levels allow a given agent without deriving one.
 
+## Note of 2026-11-06: what holds it back
+
+No case in the record lets the coexisting-levels and scaling-up descriptions make different claims about one episode, and no criterion fixes a domain and its ordering before the episode ends. What Bencherki and Iliadis propose is held separately, Active, as [THEORY-tmpwjxgf](THEORY-tmpwjxgf.md).

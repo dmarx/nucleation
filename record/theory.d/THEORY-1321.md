@@ -31,7 +31,7 @@ summary: >-
   and no model with motivated irruptions is given. It bears directly on
   [CLAIM-533](../claims.d/CLAIM-533.md) and on the luck objection ([THEORY-328](THEORY-328.md), [THEORY-040](THEORY-040.md)).
 ---
-<!-- inactive-ok-file: CLAIM-533 THEORY-328 THEORY-040 — Proposed; the claim and the objection this bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-328 THEORY-040 — Proposed; the claim and the objection this bears on, cited as open -->
 
 # THEORY-1321: Froese proposes that irruptions combined with attunement, modelled on Watson et al.'s self-optimization of a Hopfield network by occasional resets to arbitrary states plus Hebbian learning, answer the libertarian's randomness challenge, how behaviour can be effective though underdetermined; but in the model offered the resets are arbitrary, so what makes the behaviour effective is the learned attractor landscape, and nothing in it distinguishes a motivated irruption from noise
 

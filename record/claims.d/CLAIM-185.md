@@ -232,7 +232,7 @@ open.
 
 ## Note of 2026-10-31: Simondon's crystal, at second hand, and the parent paper's other crystal
 
-<!-- inactive-ok-file: LIT-1648 THEORY-1276 CLAIM-184 — Unavailable or Proposed; Simondon's book, unread, its reading at second hand, and the counter set beside this claim -->
+<!-- inactive-ok-file: LIT-1648 CLAIM-184 — Unavailable or Proposed; Simondon's book, unread, its reading at second hand, and the counter set beside this claim -->
 
 The image this line is named for has an ancestor the claim did not name.
 Simondon builds individuation on crystallization from a metastable

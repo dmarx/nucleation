@@ -40,7 +40,7 @@ summary: >-
   not retrospectively refuted by later cancellation." The wording is A's;
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-213 TERM-109 CLAIM-561 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
+<!-- inactive-ok-file: CASE-213 CLAIM-561 — Proposed or new; A's proposals of 2026-11-04 and the readings they cite, as open -->
 
 # CLAIM-559: In a sequential decision problem with informative reassessment, provisional activation and subsequent cancellation of a capability can both be optimal under one unchanged objective
 

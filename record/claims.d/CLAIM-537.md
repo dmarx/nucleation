@@ -40,7 +40,6 @@ summary: >-
   is adjustable robust optimization ([LIT-1975](../literature.d/LIT-1975.md)). Static selection only,
   scalar overlaps only.
 ---
-<!-- inactive-ok-file: CLAIM-354 — Proposed, Open, Deferred or new; cited as open -->
 
 # CLAIM-537: In tolerance-bounded compatibility on a graph with disturbed offsets, |Dx − a₀ − w| ≤ δ for |w_e| ≤ η_e, a compatible configuration exists for every disturbance exactly when |cᵀa₀| + Σ η_e|c_e| ≤ Σ δ_e|c_e| on every cycle, and one configuration serves every disturbance exactly when η ≤ δ and |cᵀa₀| ≤ Σ(δ_e − η_e)|c_e|; an agent that chooses its configuration from what it observes needs the second condition within each class of disturbances it cannot tell apart, so whether a compatible state can be selected lies between the two and depends on what the agent can read
 

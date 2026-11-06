@@ -56,7 +56,7 @@ summary: >-
   coordinate. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-585 THEORY-1420 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
+<!-- inactive-ok-file: THEORY-1420 — Proposed or Skimmed; entries of 2026-11-04 and 2026-11-05 from the readiness and constraint-architecture filings, cited as open -->
 
 # CLAIM-580: The transition threshold is stable under error in the resource function: if an estimate of the requirement is within ε of the true one at every configuration, the estimated threshold is within ε of the true one, and an underestimate anywhere can only lower it while an overestimate can only raise it
 

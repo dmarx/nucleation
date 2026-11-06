@@ -77,3 +77,6 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 - **[CLAIM-419](../claims.d/CLAIM-419.md) and [CASE-178](../cases.d/CASE-178.md).** The record is its own case: a closed vocabulary turns radial extension into a decided amendment. [CASE-178](../cases.d/CASE-178.md) is consistent with this theory but does not test it, since nothing was classified as prototypical in advance. Its 2026-10-31 note gives the test design.
 
+## Note of 2026-11-06: what holds it back
+
+No study in the record classifies the cases a rule meets as prototypical or not before seeing whether it changed; [CASE-178](../cases.d/CASE-178.md) is consistent with the mechanism but, as its note of 2026-10-31 says, not a test of it. No claim needs only what Tsoukas and Chia argue, so no report is split off; an Active "Tsoukas and Chia argue that" entry, on [THEORY-1110](THEORY-1110.md)'s pattern, is available if one comes to.

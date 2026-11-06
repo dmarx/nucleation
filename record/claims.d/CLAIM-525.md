@@ -1,10 +1,28 @@
 ---
 number: 525
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpeli2w
 title: "Information in the sense the Simondonian readings give it, a disparity whose resolution reorders the system that takes it up, is in the line's terms a change in the interpreter or in the questions receivers can decide, not evidence about a fixed situation, so Blackwell's order leaves it out by construction and the two accounts are not rivals"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the twenty-seventh status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings); the
+    warrant is interpretive. Its ground THEORY-1278 is replaced by
+    THEORY-tmpbp1q1, the Active report of what Bencherki, Brummans and
+    Vézy propose, split off by the same review (ADR-065), since the
+    claim places the paper's concept and needs nothing about whether it
+    is right; THEORY-1276 was promoted as a report in the same review.
+    Every premise is now Active (CLAIM-118, CLAIM-257, THEORY-1276,
+    THEORY-tmpbp1q1, THEORY-1096, and TERM-028 used), no objection is
+    filed, and nothing in the record meets its defeated_if: none of
+    NOTE-1483, NOTE-1484 or NOTE-1485 states the disparity account so
+    that informing is fixed by a joint law for a fixed receiver. The
+    "What it does not say" bullet on the readings now names where their
+    truth is held. No title or warrant changes.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,7 +41,7 @@ line:
 - pragmatic-transport
 grounds:
 - THEORY-1276
-- THEORY-1278
+- THEORY-tmpbp1q1
 - THEORY-1096
 rests_on:
 - CLAIM-118
@@ -44,7 +62,8 @@ summary: >-
   It does not say Simondon rejects the quantitative theory, and it is not
   Simondon's mapping: his text is unread here.
 ---
-<!-- inactive-ok-file: THEORY-1276 THEORY-1278 CLAIM-151 CLAIM-171 CLAIM-251 — Proposed; the readings placed, the dispute this claim stays out of, and the line's operational alternative to a change of cover, cited as open -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-171 CLAIM-251 — Proposed; the dispute this claim stays out of, and the line's operational alternative to a change of cover, cited as open -->
+<!-- inactive-ok-file: THEORY-tmpw943u — Proposed; whether Simondon himself holds the readings' account -->
 <!-- inactive-ok-file: LIT-1648 — Unavailable; Simondon's own text, whose reading would test the defeat condition -->
 
 # CLAIM-525: Information in the sense the Simondonian readings give it, a disparity whose resolution reorders the system that takes it up, is in the line's terms a change in the interpreter or in the questions receivers can decide, not evidence about a fixed situation, so Blackwell's order leaves it out by construction and the two accounts are not rivals
@@ -56,7 +75,7 @@ Iliadis ([LIT-1911](../literature.d/LIT-1911.md), pp. 10–13) and Bencherki and
 propositions 1 and 3). Information is "never a given thing" but a disparity
 between two differently ordered domains, and its meaning is the new
 structure that transduction produces in resolving it. Bencherki, Brummans
-and Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1357, [THEORY-1278](../theory.d/THEORY-1278.md)) give it two senses:
+and Vézy ([LIT-1902](../literature.d/LIT-1902.md), p. 1357, [THEORY-tmpbp1q1](../theory.d/THEORY-tmpbp1q1.md)) give it two senses:
 
 - a fact's meaning "depends on that fact's contribution to the
   constitution of a new field of relation";
@@ -113,7 +132,8 @@ action its meaning", [LIT-1902](../literature.d/LIT-1902.md) p. 1357) cannot.
 - **That Simondon rejects the quantitative theory.** Iliadis argues he
   extends it ([NOTE-1485](../notes.d/NOTE-1485.md), his C2, weak). This claim says only that the
   readings' information is not what the order compares.
-- **That the readings are right.** They are Proposed and conceptual.
+- **That the readings are right.** They are conceptual, and whether
+  Simondon holds their account is [THEORY-tmpw943u](../theory.d/THEORY-tmpw943u.md)'s question, Proposed.
 - **That the mapping is Simondon's.** It places two of his commentators'
   formulations. His text is unread here ([LIT-1648](../literature.d/LIT-1648.md), Unavailable), and the
   defeat condition names it as one place a counter could come from.

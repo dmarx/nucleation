@@ -4,23 +4,32 @@ status: Proposed
 formerly:
 - THEORY-tmp92dsq
 promote_when: >-
-  Two kinds of result, one for each clause. For the selection clause:
-  evidence that the contents of deliberate thought are drawn from the
-  contents mind-wandering had produced just before, more than from
-  elsewhere, and that interfering with the mind-wandering network
-  narrows what deliberate thought takes up next, while leaving the
-  capacity to sustain a given thought intact. It is refuted if deliberate
-  thought's contents are generated on demand, independently of the prior
-  stream. For the open clause, the account is settled when one of
-  Metzinger's three options wins: an intervention that blocks the
-  epistemic agent model's introspective availability and ends control (as
-  his H1 predicts) favours a causal role, and one that blocks it with
-  control unchanged favours the epiphenomenal option. Further
-  neuroimaging of default-mode and frontoparietal coupling during
-  mind-wandering cannot settle either clause by itself, since it shows
-  co-activation, not selection.
+  For the selection clause: evidence that the contents of deliberate thought
+  are drawn from the contents mind-wandering had produced just before, more
+  than from elsewhere, and that interfering with the mind-wandering network
+  narrows what deliberate thought takes up next, while leaving the capacity
+  to sustain a given thought intact. It is refuted if deliberate thought's
+  contents are generated on demand, independently of the prior stream.
+  Further neuroimaging of default-mode and frontoparietal coupling during
+  mind-wandering cannot settle it by itself, since it shows co-activation,
+  not selection.
 title: "Deliberate thought selects and sustains candidates from a stream of unintended thoughts that mind-wandering generates, and whether the conscious model of oneself as a knower that accompanies the selection causes it, enables it or only accompanies it is undecided by current evidence"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    At the twenty-seventh status review (ADR-065), at the status review's
+    ruling (the owner delegated these rulings): the promote_when's condition
+    for the open clause is deleted. The title says that clause is undecided
+    by current evidence, which it is, so a result deciding it would refute
+    the title, not warrant it; the question is QUESTION-367's. The opening
+    "Two kinds of result, one for each clause." goes with it, and "either
+    clause" reads "it". The deleted text: For the open clause, the account
+    is settled when one of Metzinger's three options wins: an intervention
+    that blocks the epistemic agent model's introspective availability and
+    ends control (as his H1 predicts) favours a causal role, and one that
+    blocks it with control unchanged favours the epiphenomenal option.
 tags:
 - agency
 - cognition
@@ -120,3 +129,7 @@ proposed tests; the chapter cites Axelrod et al. (2015) and Broadway et al.
   required; here agency is the special case where precision is controlled
   under a self-model.
 - **[QUESTION-367](../questions.d/QUESTION-367.md)** takes the open clause as the record's question.
+
+## Note of 2026-11-06: what holds it back
+
+No result shows that deliberate thought's contents are drawn from the mind-wandering that preceded them, or that interfering with the mind-wandering network narrows what deliberate thought takes up next; the chapter offers the cognitive affordance hypothesis with no data, and does not define what makes a candidate "best".

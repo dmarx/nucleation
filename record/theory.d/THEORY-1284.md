@@ -76,3 +76,6 @@ Added 2026-10-31 by a pass connecting the readings of Bencherki, Brummans & Véz
 
 - **[CLAIM-189](../claims.d/CLAIM-189.md).** It supports the counter that change in a developing argument is legitimate, and that traceability, not preservation, is what a record secures.
 
+## Note of 2026-11-06: what holds it back
+
+No longitudinal study in the record records small changes in how routines are performed in organizations judged stable; the paper argues the thesis and rereads ethnographies chosen because they show change. No claim needs only what Tsoukas and Chia argue, so no report is split off; an Active "Tsoukas and Chia argue that" entry, on [THEORY-1110](THEORY-1110.md)'s pattern, is available if one comes to.

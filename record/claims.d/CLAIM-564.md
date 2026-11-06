@@ -1,10 +1,30 @@
 ---
 number: 564
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp7pv9x
 title: 'Restricting the demand–configuration Galois connection to the configurations affordable at a budget gives implications among demands that are antitone in the budget: an implication valid at a budget is valid at every lower one, so as the budget rises the compatibility complex grows and the valid implications shrink, and a set of demands no affordable configuration meets implies every demand'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). THEORY-1379 moved from grounds to corroborated_by
+    (ADR-058): the derivation uses only the definitions of the budgeted
+    operators and of a valid implication, and cites Ignatov's formal
+    concept analysis as the framework it instances, never the Basic
+    Theorem that holds that reading back. CASE-212, its other ground,
+    was promoted at the same review. The derivation and the
+    four-configuration table were re-checked by a second checker with
+    python3 -I, with controls (scratch/formal/case212_check.py).
+- version: 3
+  date: '2026-11-06'
+  note: >-
+    Dated note added at the twenty-seventh status review (ADR-057), at the
+    status review's ruling (the owner delegated these rulings): Ignatov read
+    in full (NOTE-1593), THEORY-1379 Active at the same review, and the
+    enumeration rechecked. No status change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -24,8 +44,9 @@ line:
 - realizability
 - formal-apparatus
 grounds:
-- THEORY-1379
 - CASE-212
+corroborated_by:
+- THEORY-1379
 complements:
 - CLAIM-586
 - CLAIM-347
@@ -46,7 +67,6 @@ summary: >-
   only at low budgets is a bundling forced by scarcity. The derivation is
   the reader's, from A's construction; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-212 NOTE-1593 THEORY-1379 — Proposed or Skimmed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 
 # CLAIM-564: Restricting the demand–configuration Galois connection to the configurations affordable at a budget gives implications among demands that are antitone in the budget: an implication valid at a budget is valid at every lower one, so as the budget rises the compatibility complex grows and the valid implications shrink, and a set of demands no affordable configuration meets implies every demand
 
@@ -121,3 +141,7 @@ enumeration, agreeing with the reader and with the filer of [NOTE-1593](../notes
   of frustration at a budget is resource-relative only for sets outside
   K(b) and inside the unbudgeted complex; the implication form adds which
   demands are tied together at that budget.
+
+## Note of 2026-11-06: Claude, read
+
+Ignatov is now read in full ([NOTE-1593](../notes.d/NOTE-1593.md)), and [THEORY-1379](../theory.d/THEORY-1379.md), which corroborates this claim, is Active at the same review on the re-derivation of the Basic Theorem recorded there. The enumeration on [CASE-212](../cases.d/CASE-212.md) was rechecked independently and matches the table exactly, including that no implication holds with no budget (scratch/formal/fca_basic_theorem_check.py). The tutorial's attribute exploration (§7.1) is a standard use of the same monotonicity: an implication valid in a subcontext can only be refuted by adding objects. Point 1 is therefore a known property of formal contexts applied to budgets; the budget reading and the corollary in point 3 remain the reader's and the filer's. No status change.
