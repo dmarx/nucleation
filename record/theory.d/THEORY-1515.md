@@ -1,5 +1,8 @@
 ---
+number: 1515
 status: Proposed
+formerly:
+- THEORY-tmpsmtmt
 promote_when: >-
   The 2007 consensus, Boles et al., is read and confirms the three groups
   and the definition of weaning failure as its own; studies of weaning are
@@ -15,10 +18,10 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 source:
-- LIT-tmpujjvl
+- LIT-2217
 summary: >-
-  Shah, Hart & Kaltsakas (2024), [LIT-tmpujjvl](../literature.d/LIT-tmpujjvl.md), read in [NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md),
-  standing in for Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), whose abstract only was
+  Shah, Hart & Kaltsakas (2024), [LIT-2217](../literature.d/LIT-2217.md), read in [NOTE-1706](../notes.d/NOTE-1706.md),
+  standing in for Boles et al. (2007), [LIT-2213](../literature.d/LIT-2213.md), whose abstract only was
   read. A narrative review: the classification and the definition of
   failure are restated from the consensus, the frequencies and outcomes
   are from later cohorts (WIND, WEAN SAFE, Jeong et al. 2015), and the
@@ -26,14 +29,14 @@ summary: >-
   say why some patients cannot be weaned, nor that ventilation itself
   causes the failure.
 ---
-<!-- inactive-ok-file: LIT-tmp1tvad CLAIM-600 CLAIM-597 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
+<!-- inactive-ok-file: LIT-2213 CLAIM-600 CLAIM-597 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
-# THEORY-tmpsmtmt: Shah, Hart and Kaltsakas, following the 2007 international consensus, hold that readiness to come off invasive ventilation is tested by withdrawing support for a spontaneous breathing trial of 30 to 120 minutes, since predictors of readiness have low power; that patients are classed as simple, difficult or prolonged weaning by whether the first attempt succeeds and, if not, whether up to three trials or seven days suffice; and that outcomes worsen across these groups, about half of patients whose weaning fails remaining on invasive ventilation at one year
+# THEORY-1515: Shah, Hart and Kaltsakas, following the 2007 international consensus, hold that readiness to come off invasive ventilation is tested by withdrawing support for a spontaneous breathing trial of 30 to 120 minutes, since predictors of readiness have low power; that patients are classed as simple, difficult or prolonged weaning by whether the first attempt succeeds and, if not, whether up to three trials or seven days suffice; and that outcomes worsen across these groups, about half of patients whose weaning fails remaining on invasive ventilation at one year
 
 ## Source
 
-Shah, Hart & Kaltsakas (2024), [LIT-tmpujjvl](../literature.d/LIT-tmpujjvl.md); read in [NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md). It
-stands in for Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), on the classification and
+Shah, Hart & Kaltsakas (2024), [LIT-2217](../literature.d/LIT-2217.md); read in [NOTE-1706](../notes.d/NOTE-1706.md). It
+stands in for Boles et al. (2007), [LIT-2213](../literature.d/LIT-2213.md), on the classification and
 the readiness test; the consensus' abstract agrees with it on both.
 
 ## What was actually shown

@@ -1,5 +1,8 @@
 ---
+number: 1513
 status: Proposed
+formerly:
+- THEORY-tmp9jjvs
 promote_when: >-
   An independent pooled analysis or large cohort, ideally with
   individual-patient data and testing at least 24 hours after the last
@@ -17,10 +20,10 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 source:
-- LIT-tmp5fl4h
+- LIT-2214
 summary: >-
-  Broersen, Pereira, Jørgensen and Dekkers (2015), [LIT-tmp5fl4h](../literature.d/LIT-tmp5fl4h.md), read in
-  [NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md) from the reprint in Broersen's 2019 thesis, supplements
+  Broersen, Pereira, Jørgensen and Dekkers (2015), [LIT-2214](../literature.d/LIT-2214.md), read in
+  [NOTE-1703](../notes.d/NOTE-1703.md) from the reprint in Broersen's 2019 thesis, supplements
   unread. Proposed: the pooled shares are from 74 observational articles
   at high risk of bias, with no individual-patient data, and the dose and
   duration gradients are crude strata in asthma patients of all routes.
@@ -30,12 +33,12 @@ summary: >-
   verdict on withdrawal schemes is cited from Dinsen et al. 2013.
 ---
 
-# THEORY-tmp9jjvs: Broersen, Pereira, Jørgensen and Dekkers find, pooling 74 observational studies of adult corticosteroid users, that biochemically suppressed adrenal function after treatment is common, from about 4% after nasal or topical use to about half after oral or intra-articular use; in asthma it rises with dose (2.4%, 8.5%, 21.5%) and with duration (1.4% under a month, 27.4% over a year); it recedes after stopping but incompletely, from 38.7% to 14.9% four weeks after short high-dose courses and from 56.4% to 25.3% six months after long medium-dose use; and they hold that no route, dose or duration excludes it and that no withdrawal scheme has been shown effective or safe
+# THEORY-1513: Broersen, Pereira, Jørgensen and Dekkers find, pooling 74 observational studies of adult corticosteroid users, that biochemically suppressed adrenal function after treatment is common, from about 4% after nasal or topical use to about half after oral or intra-articular use; in asthma it rises with dose (2.4%, 8.5%, 21.5%) and with duration (1.4% under a month, 27.4% over a year); it recedes after stopping but incompletely, from 38.7% to 14.9% four weeks after short high-dose courses and from 56.4% to 25.3% six months after long medium-dose use; and they hold that no route, dose or duration excludes it and that no withdrawal scheme has been shown effective or safe
 
 ## Source
 
-Broersen, Pereira, Jørgensen and Dekkers (2015), [LIT-tmp5fl4h](../literature.d/LIT-tmp5fl4h.md); read in
-[NOTE-tmpjd1tp](../notes.d/NOTE-tmpjd1tp.md). Page numbers are those of the reprint in Broersen's 2019
+Broersen, Pereira, Jørgensen and Dekkers (2015), [LIT-2214](../literature.d/LIT-2214.md); read in
+[NOTE-1703](../notes.d/NOTE-1703.md). Page numbers are those of the reprint in Broersen's 2019
 Leiden thesis.
 
 ## What was actually shown

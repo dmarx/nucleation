@@ -1,5 +1,8 @@
 ---
+number: 1511
 status: Proposed
+formerly:
+- THEORY-tmp2eczh
 promote_when: >-
   The primary human studies the review summarizes are read, at least Levine
   et al. (2008) and one other biopsy series in ventilated brain-dead donors,
@@ -16,10 +19,10 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 source:
-- LIT-tmp0huzr
+- LIT-2211
 summary: >-
-  Jaber, Jung, Matecki & Petrof (2011), [LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md), read in [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md),
-  standing in for Levine et al. (2008), [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md), whose abstract only
+  Jaber, Jung, Matecki & Petrof (2011), [LIT-2211](../literature.d/LIT-2211.md), read in [NOTE-1702](../notes.d/NOTE-1702.md),
+  standing in for Levine et al. (2008), [LIT-2212](../literature.d/LIT-2212.md), whose abstract only
   was read. A review: the human evidence is small case-control biopsy series
   in brain-dead donors and observational twitch-pressure measurements, so
   the numbers here are the review's restatement of studies not read; the
@@ -27,14 +30,14 @@ summary: >-
   animal. It does not show that the loss causes failed weaning, or whether
   and how fast the diaphragm recovers.
 ---
-<!-- inactive-ok-file: LIT-tmp0xw48 CLAIM-600 CLAIM-602 CLAIM-558 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
+<!-- inactive-ok-file: LIT-2212 CLAIM-600 CLAIM-602 CLAIM-558 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
-# THEORY-tmp2eczh: Jaber, Jung, Matecki and Petrof review evidence that fully controlled mechanical ventilation weakens, shrinks and injures the human diaphragm as it does in animals: biopsies from brain-dead organ donors ventilated for hours to days show diaphragm fibre atrophy and injury with oxidative stress and raised proteolysis markers, not seen in the pectoralis, the changes growing with the duration of ventilation, and diaphragm twitch pressure in ventilated patients falls by about a third in six days; in animals, keeping spontaneous effort lessens the loss but leaves a residual deficit
+# THEORY-1511: Jaber, Jung, Matecki and Petrof review evidence that fully controlled mechanical ventilation weakens, shrinks and injures the human diaphragm as it does in animals: biopsies from brain-dead organ donors ventilated for hours to days show diaphragm fibre atrophy and injury with oxidative stress and raised proteolysis markers, not seen in the pectoralis, the changes growing with the duration of ventilation, and diaphragm twitch pressure in ventilated patients falls by about a third in six days; in animals, keeping spontaneous effort lessens the loss but leaves a residual deficit
 
 ## Source
 
-Jaber, Jung, Matecki & Petrof (2011), [LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md); read in [NOTE-tmpat5nt](../notes.d/NOTE-tmpat5nt.md).
-It stands in for Levine et al. (2008), [LIT-tmp0xw48](../literature.d/LIT-tmp0xw48.md), of which only the
+Jaber, Jung, Matecki & Petrof (2011), [LIT-2211](../literature.d/LIT-2211.md); read in [NOTE-1702](../notes.d/NOTE-1702.md).
+It stands in for Levine et al. (2008), [LIT-2212](../literature.d/LIT-2212.md), of which only the
 abstract was read; that abstract agrees with the review's account of it.
 
 ## What was actually shown

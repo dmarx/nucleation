@@ -1,5 +1,8 @@
 ---
+number: 1512
 status: Proposed
+formerly:
+- THEORY-tmp6pn8h
 promote_when: >-
   The randomized trials the review summarizes are read, at least Esteban et
   al. (1995) and Brochard et al. (1994) and a trial of immediate extubation
@@ -17,10 +20,10 @@ tags:
 - natural-sciences
 date: '2026-11-05'
 source:
-- LIT-tmp9wpue
+- LIT-2215
 summary: >-
-  Alía & Esteban (2000), [LIT-tmp9wpue](../literature.d/LIT-tmp9wpue.md), read in [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md), standing in for
-  Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), on the trials behind its
+  Alía & Esteban (2000), [LIT-2215](../literature.d/LIT-2215.md), read in [NOTE-1701](../notes.d/NOTE-1701.md), standing in for
+  Boles et al. (2007), [LIT-2213](../literature.d/LIT-2213.md), on the trials behind its
   recommendations on abrupt and gradual withdrawal. A narrative review by a
   trialist; the trials themselves were not read. The abstract says SIMV is
   the most effective method after failed trials, the body that it is the
@@ -28,14 +31,14 @@ summary: >-
   2006 correction was not read. It does not settle pressure support against
   T-tube trials, on which the two trials disagree.
 ---
-<!-- inactive-ok-file: LIT-tmp1tvad CLAIM-600 CLAIM-602 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
+<!-- inactive-ok-file: LIT-2213 CLAIM-600 CLAIM-602 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 
-# THEORY-tmp6pn8h: Alía and Esteban hold, from the randomized weaning trials of the 1990s, that ventilation can be withdrawn abruptly in about three quarters of patients whose cause of respiratory failure has improved, readiness being tested by a trial of unassisted breathing on T-tube or low pressure support, for 30 or 120 minutes alike, and immediate extubation after a passed trial shortening ventilation compared with gradual withdrawal; and that the patients who fail need gradual withdrawal while the causes are corrected, where SIMV was the least efficient method in both trials and once-daily T-tube trials or reductions of pressure support did better
+# THEORY-1512: Alía and Esteban hold, from the randomized weaning trials of the 1990s, that ventilation can be withdrawn abruptly in about three quarters of patients whose cause of respiratory failure has improved, readiness being tested by a trial of unassisted breathing on T-tube or low pressure support, for 30 or 120 minutes alike, and immediate extubation after a passed trial shortening ventilation compared with gradual withdrawal; and that the patients who fail need gradual withdrawal while the causes are corrected, where SIMV was the least efficient method in both trials and once-daily T-tube trials or reductions of pressure support did better
 
 ## Source
 
-Alía & Esteban (2000), [LIT-tmp9wpue](../literature.d/LIT-tmp9wpue.md); read in [NOTE-tmp2yypk](../notes.d/NOTE-tmp2yypk.md). It stands in
-for Boles et al. (2007), [LIT-tmp1tvad](../literature.d/LIT-tmp1tvad.md), on withdrawal schedules, not on the
+Alía & Esteban (2000), [LIT-2215](../literature.d/LIT-2215.md); read in [NOTE-1701](../notes.d/NOTE-1701.md). It stands in
+for Boles et al. (2007), [LIT-2213](../literature.d/LIT-2213.md), on withdrawal schedules, not on the
 consensus' classification.
 
 ## What was actually shown
@@ -65,7 +68,7 @@ The review reports randomized trials; each could have gone the other way.
   The two trials disagree.
 - **That rest by full support is harmless.** The review holds rest to be
   the only treatment of fatigue; later work on disuse atrophy (Jaber et
-  al. 2011, [LIT-tmp0huzr](../literature.d/LIT-tmp0huzr.md)) bears against prolonged fully controlled rest.
+  al. 2011, [LIT-2211](../literature.d/LIT-2211.md)) bears against prolonged fully controlled rest.
 - For the record it qualifies [CLAIM-600](../claims.d/CLAIM-600.md) on schedule (abrupt removal once
   the party can do the work) and bears against [CLAIM-602](../claims.d/CLAIM-602.md) where the capacity
   is fatigued rather than unused; both readings are the filer's.

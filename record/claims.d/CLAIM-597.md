@@ -147,7 +147,7 @@ No status changes.
 
 ## Note of 2026-11-05: the readings in medicine
 
-- **A contrast.** Corticosteroid supply suppresses a gland the body can restart, so supplied upkeep usually becomes optional again after recovery ([NOTE-tmppitgm](../notes.d/NOTE-tmppitgm.md)). This claim excludes systems that make their own parts, and the gland is one.
-- **Support that never ends.** About half of patients whose weaning fails are still on invasive ventilation at a year (Shah, Hart and Kaltsakas, [NOTE-tmpzip9r](../notes.d/NOTE-tmpzip9r.md)).
+- **A contrast.** Corticosteroid supply suppresses a gland the body can restart, so supplied upkeep usually becomes optional again after recovery ([NOTE-1705](../notes.d/NOTE-1705.md)). This claim excludes systems that make their own parts, and the gland is one.
+- **Support that never ends.** About half of patients whose weaning fails are still on invasive ventilation at a year (Shah, Hart and Kaltsakas, [NOTE-1706](../notes.d/NOTE-1706.md)).
 
 No status changes.

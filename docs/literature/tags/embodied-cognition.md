@@ -6,7 +6,7 @@
 
 **Embodied cognition** — cognition as embodied, embedded, enacted or extended — enactivism and sense-making, coordination dynamics, situated robotics, and mind as organism–environment coupling (group: philosophy; ADR-025).
 
-60 of 2210 LIT documents. Back to the [full index](../README.md).
+60 of 2218 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
