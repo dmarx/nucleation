@@ -212,3 +212,20 @@ No status changes.
 ## Note of 2026-11-05: Knack, "Aid Dependence and the Quality of Governance", read
 
 Partial support. In Knack's estimates ([NOTE-1707](../notes.d/NOTE-1707.md)), technical assistance carries coefficients several times those of aid overall, and when entered with the rest of aid only it is significant. Technical assistance is the aid in which donors do the work. That fits supply that does the work lowering the capacity kept. The order in which supply and capacity are used is not observed, the two aid measures correlate at .87, and the evidence is cross-country. No status changes.
+
+## Note of 2026-11-05: the readings on assistance and skill
+
+Read to fill a gap the supplied-maintenance filing left; the works were chosen by the assistant.
+
+- **Supported from tutoring, with three qualifications.** Koedinger and Aleven's cognitive tutors ([NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md)) withhold information at first and add it only as needed, on the stated ground that learning-by-doing rules are strengthened through use. That is this claim's capacity-first rule.
+  - Help the learner controls turns into substitution: learners jump to the bottom-out hint that gives the answer.
+  - Withholding has its own cost, floundering. In tutored practice, too little help is the more common error.
+  - Supplied work can teach when learners explain it to themselves. Faded worked examples beat the standard tutor.
+- **Supported in spirit, at industry level.** In Griffith, Redding and Van Reenen ([NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md)), industries absorb frontier technology in proportion to their own R&D. This stands in for Cohen and Levinthal's absorptive capacity ([LIT-tmpwa0ib](../literature.d/LIT-tmpwa0ib.md), Unavailable).
+- **An instance in automation.** Macnamara et al. ([NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md)) report that cognitive skills decline more than procedural ones when automation does a subtask. The loss is selective by subtask.
+
+No status changes.
+
+## Note of 2026-11-06: Cohen and Levinthal, "Absorptive Capacity", read
+
+Cohen and Levinthal (1990), now read ([NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md)), support the claim's mechanism directly, at the firm level the earlier stand-in could not reach. The capacity to use outside knowledge is "largely a function of the firm's level of prior related knowledge" (p. 128) and is built mostly as a byproduct of the firm's own R&D. Its critical part "is often firm-specific and therefore cannot be bought and quickly integrated", and complementary knowledge "is acquired only through experience within the firm" (p. 135). "a firm is unable to assimilate externally available knowledge passively" (p. 141). They add two reasons why recovery after substitution is slow or never tried. Rebuilding from a low base costs more, and expectations go unrevised (p. 136). Two things are left open. The evidence is argument plus one indirect cross-section (1,719 business units, 1975–1977). No firm whose R&D was replaced by outside supply is followed, and nothing is measured on how long substitution must last or how long recovery takes. No status changes.

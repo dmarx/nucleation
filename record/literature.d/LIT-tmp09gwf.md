@@ -1,0 +1,88 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md)) from the CC BY-NC version of record
+  in Europe PMC (PMC12683271); worth reading as the closest open restatement
+  of Bainbridge's ironies of automation reached, mapped onto medical
+  education with large language models, each paired with a remedy. A
+  single-author commentary with no data; it paraphrases Bainbridge without
+  quoting her or giving page references, so it shows how she is read, not
+  what she wrote; its remedies are its own.
+title: 'From Bainbridge to bedside: applying automation insights to medical curriculum and assignment design in the artificial intelligence era'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to fill the
+    gaps the supplied-maintenance filing left (works chosen by the
+    assistant), as a stand-in for Bainbridge (1983), LIT-tmph5vta, which was
+    not reached. Citation checked against Crossref, queried without a
+    mailto: Sangzin Ahn, Korean Journal of Medical Education 37(4), 519–524,
+    doi:10.3946/kjme.2025.351, print issue 2025-12; the article XML gives
+    epub 2025-10-02 (received 2025-04-21, accepted 2025-05-28), the earliest
+    exact date, which is `published:`. Copy: Europe PMC full-text XML,
+    PMC12683271, CC BY-NC 3.0, read in full; Fig. 1, the framework diagram,
+    is an image and was read from its caption only.
+tags:
+- cognition
+- learning-and-conditioning
+date: '2026-11-05'
+published: '2025-10-02'
+doi: '10.3946/kjme.2025.351'
+first_author: 'Ahn'
+keywords:
+- 'ironies of automation'
+- 'deskilling'
+- 'medical education'
+- 'large language models'
+implementations: []
+summary: >-
+  Ahn (2025). A commentary that reads four points out of Bainbridge's
+  "Ironies of automation" and pairs each with a remedy for medical education
+  with large language models: deskilling by offloading, met by AI-free
+  learning phases before AI is introduced; the monitoring trap, met by AI
+  literacy and vigilance training; automation leaving the operator the
+  complex and atypical cases, met by training for what AI cannot do; and the
+  out-of-the-loop operator recalled at failure, met by simulations with
+  injected AI failures. The ironies are Ahn's paraphrase of Bainbridge, with
+  no quotation of her; the remedies are his.
+---
+<!-- inactive-ok-file: CLAIM-558 CLAIM-600 CLAIM-602 THEORY-tmpwcxn9 — Proposed or new; cited from the reading of Ahn (2025) as open -->
+<!-- inactive-ok-file: LIT-tmph5vta — Unavailable; the unread original this reading stands in for -->
+
+# LIT-tmp09gwf: From Bainbridge to bedside: applying automation insights to medical curriculum and assignment design in the artificial intelligence era
+
+Ahn, S. (2025). From Bainbridge to bedside: applying automation insights to medical curriculum and assignment design in the artificial intelligence era. *Korean Journal of Medical Education* 37(4): 519–524. doi:10.3946/kjme.2025.351.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md). Sections are the article's. Every point
+below attributed to Bainbridge is Ahn's paraphrase.*
+
+- **The central irony, as Ahn reads it** (§4): automation "often takes over
+  the more straightforward, routine tasks, leaving human operators primarily
+  responsible for managing complex, atypical situations, and edge cases".
+- **The hand-back, as Ahn reads it** (§5): it "positions the human to
+  intervene during unexpected or complex failures, precisely when the
+  system is least predictable and intervention is most critical", to an
+  operator who may "find their manual or cognitive skills degraded from
+  disuse".
+- **Ahn's remedy for sequencing** (§2): "Once students have solidified these
+  core abilities, AI tools can then be introduced".
+- **Ahn's remedy for the hand-back** (§5): simulations to "prepare students
+  for these high-stakes, low-frequency events".
+
+## Standing in the record
+
+Read as a stand-in for Bainbridge (1983), [LIT-tmph5vta](LIT-tmph5vta.md), and the closest of
+the three reached. It stands in poorly: it gives Bainbridge's ironies in its
+own words, with no quotation and no page, and its quoted phrases
+"deskilling" and "worst possible time" are not located in her text. Nothing
+in the record is put in Bainbridge's name on its strength. Filed from it:
+[THEORY-tmpwcxn9](../theory.d/THEORY-tmpwcxn9.md), which attributes the ironies to Ahn's reading of her.
+
+Its sequencing remedy, core skills first and the support after, is the
+order [CLAIM-602](../claims.d/CLAIM-602.md) states, applied to learning; its simulated-failure remedy is
+practice for the rare case outside operation, [CLAIM-558](../claims.d/CLAIM-558.md)'s third part, in
+Ahn's wording.

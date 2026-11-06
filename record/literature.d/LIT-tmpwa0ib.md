@@ -1,0 +1,123 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-06 ([NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md)) from the SciSpace copy, a JSTOR
+  print stamped 2007, which ADR-074 counts as lawful; worth reading as the
+  paper that names absorptive capacity, grounds it in prior related
+  knowledge built by a firm's own R&D, and argues that it is cumulative and
+  path-dependent, so that a firm that stops investing in a fast-moving
+  field may be locked out of it. Its limits: the account is argued from
+  cognitive psychology and illustrations; the one test is indirect and
+  cross-sectional, R&D intensity in 1,719 business units in 1975–1977
+  responding to proxies for the ease of learning; no firm that stops R&D is
+  followed; most of Table 1 is image-only in the copy.
+title: 'Absorptive Capacity: A New Perspective on Learning and Innovation'
+version: 2
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Filed, not read. Registered on 2026-11-05 at the owner's request to
+    fill the gaps the supplied-maintenance filing left (works chosen by
+    the assistant), as the account of an organization's ability to use
+    outside knowledge as a product of its own related work. Citation
+    checked against Crossref, queried without a mailto: Wesley M. Cohen
+    and Daniel A. Levinthal, Administrative Science Quarterly 35(1),
+    doi:10.2307/2393553. Crossref gives the first page, 128, and no last
+    page; the usual citation's 128–152 is not confirmed here. Crossref
+    gives the issue as 1990-03 with no day, so under ADR-002 `published:`
+    is 1990-03-01. No copy reached; where the reader looked is in the
+    status note. No abstract was read, so the summary is unverified until
+    the article is read.
+- version: 2
+  date: '2026-11-06'
+  note: >-
+    Read in full (NOTE-tmpraw7b) from a copy on SciSpace
+    (https://scispace.com/pdf/absorptive-capacity-a-new-perspective-on-learning-and-1n1c9gg9x0.pdf),
+    a JSTOR print of the published article stamped "Tue Nov 6 07:14:48
+    2007". It was first filed Unavailable because the lead's brief for the
+    first reading excluded third-party copies such as this one; ADR-064
+    counts a copy on a scholarly third-party site as lawful, so it is now
+    read. The copy's first page and footers give pp. 128–152, confirming
+    the usual citation, and the date "Mar., 1990" agrees with Crossref.
+    Status set to Active. The summary, which came from how later work
+    cites the article, is rewritten from the reading. Griffith, Redding
+    and Van Reenen (2004), LIT-tmpzbgxy, now complements the reading
+    rather than standing in for it.
+tags:
+- social-science
+date: '2026-11-05'
+published: '1990-03-01'
+doi: '10.2307/2393553'
+first_author: 'Cohen'
+keywords:
+- 'absorptive capacity'
+- 'R&D'
+- 'organizational learning'
+- 'path dependence'
+- 'lockout'
+implementations: []
+summary: >-
+  Cohen & Levinthal (1990). A firm's ability to "recognize the value of
+  new, external information, assimilate it, and apply it to commercial
+  ends", its absorptive capacity, is "largely a function of the firm's
+  level of prior related knowledge" (p. 128), built mostly as a byproduct
+  of its own R&D and not quickly bought. Because the capacity accumulates
+  and shapes what the firm expects of a field, it is path-dependent: "once
+  a firm ceases investing in its absorptive capacity in a quickly moving
+  field, it may never assimilate and exploit new information in that
+  field" (p. 136). A model of R&D's two faces is tested on 1,719 business
+  units, 1975–1977: R&D intensity rises more with the relevance of
+  harder-to-learn knowledge. Lockout is argued, not measured. Read in
+  [NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md); filed from it: [THEORY-tmp6ihw6](../theory.d/THEORY-tmp6ihw6.md). Complemented at the
+  country-industry level by Griffith, Redding and Van Reenen (2004),
+  [LIT-tmpzbgxy](LIT-tmpzbgxy.md).
+---
+<!-- inactive-ok-file: ADR-064 — Superseded by ADR-074, which keeps its rule unchanged; cited as the ruling in force when written -->
+<!-- inactive-ok-file: CLAIM-600 CLAIM-602 CLAIM-603 THEORY-tmp6ihw6 THEORY-tmpwegr1 — Proposed or new; cited from the reading of Cohen and Levinthal (1990) as open -->
+
+# LIT-tmpwa0ib: Absorptive Capacity: A New Perspective on Learning and Innovation
+
+Cohen, W. M. & Levinthal, D. A. (1990). Absorptive Capacity: A New Perspective on Learning and Innovation. *Administrative Science Quarterly* 35(1): 128–152. doi:10.2307/2393553.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpraw7b](../notes.d/NOTE-tmpraw7b.md). Page numbers are the journal's.*
+
+- **Capacity rests on prior related knowledge, built by doing.** "firms
+  that conduct their own R&D are better able to use externally available
+  information" (p. 129); its critical part "is often firm-specific and
+  therefore cannot be bought and quickly integrated" (p. 135).
+- **It is cumulative and path-dependent.** "Accumulating absorptive
+  capacity in one period will permit its more efficient accumulation in
+  the next." (p. 136).
+- **Lockout.** A firm that stops investing in a quickly moving field "may
+  never assimilate and exploit new information in that field, regardless
+  of the value of that information" (p. 136), because its expectations
+  stop being revised and catching up costs more; it may not pay to rebuild
+  "even after major advances in the field" (p. 137).
+- **No passive absorption.** "a firm is unable to assimilate externally
+  available knowledge passively" (p. 141); taking part in a cooperative
+  venture needs matching internal investment (p. 149).
+- **The test is static and indirect.** Across 1,719 business units,
+  1975–1977, R&D intensity rises more with the relevance of basic science
+  than of applied (GLS .189 against −.080, p. 145). Filed as
+  [THEORY-tmp6ihw6](../theory.d/THEORY-tmp6ihw6.md).
+
+## Standing in the record
+
+Active: read in full on 2026-11-06. It is the organizational account of
+why a party that stops doing its own work loses the ability to use what
+others supply, a gap the supplied-maintenance filing left beside
+[CLAIM-602](../claims.d/CLAIM-602.md) and [CLAIM-600](../claims.d/CLAIM-600.md). It supports their condition that capacity to use
+outside supply is built by the party's own work, and qualifies [CLAIM-600](../claims.d/CLAIM-600.md)
+with lockout: a capacity may stay unrecoverable after supply returns. It
+qualifies [CLAIM-603](../claims.d/CLAIM-603.md), since spillovers raise own R&D where learning is
+hard. The account of lockout is argued, not measured.
+
+**Complement.** Griffith, Redding and Van Reenen (2004), [LIT-tmpzbgxy](LIT-tmpzbgxy.md),
+read in [NOTE-tmp7qron](../notes.d/NOTE-tmp7qron.md) ([THEORY-tmpwegr1](../theory.d/THEORY-tmpwegr1.md)), were read on 2026-11-05 as a
+stand-in while this article was unread. They now complement it: they
+estimate R&D's absorptive face across OECD country-industries, evidence
+this article lacks, while this article supplies the cumulativeness, path
+dependence and lockout they do not touch.

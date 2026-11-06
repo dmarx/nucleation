@@ -1,0 +1,166 @@
+---
+status: Read
+paper: 'LIT-tmpbg80l'
+title: 'Macnamara et al. — AI assistance, skill decay and awareness'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Read in full on 2026-11-05 from the Europe PMC full-text XML of the
+    version of record, PMC11239631
+    (ebi.ac.uk/europepmc/webservices/rest/PMC11239631/fullTextXML), CC BY
+    4.0, converted to text locally; no wall or challenge was met. Read: the
+    abstract, Introduction, Learning and expertise, The use of automation and
+    artificial intelligence, Potential AI-induced skill decay, Potential
+    AI-induced skill development hindrance, Conclusions, recommendations and
+    future directions, and the Open practices statement. Checked in the XML:
+    the reference entries for the works named below. Not read: Figs. 1 and 2,
+    the lists of proposed research questions, which are images; the rest of
+    the reference list. The article is unpaginated, so places below are
+    sections.
+date: '2026-11-05'
+summary: >-
+  A theoretical perspective with no data. Skill decays with disuse, more for
+  cognitive than physical tasks; disuse can be partial, a subtask ceased
+  while automation does it and the task goes on; in Casner et al.'s pilots,
+  reported second-hand, procedural flying skills held while cognitive skills
+  declined; and such decay is concealed because the task is still done and
+  still succeeds with the support. AI assistants, which take over more
+  cognitive work, are predicted to do this more; the authors say no research
+  has tested it.
+---
+<!-- inactive-ok-file: CLAIM-558 CLAIM-600 CLAIM-602 CLAIM-603 THEORY-343 THEORY-1424 THEORY-tmpv1dwq — Proposed or new; cited from the reading of Macnamara et al. (2024) as open -->
+<!-- inactive-ok-file: LIT-tmph5vta — Unavailable; the unread original this reading stands in for -->
+
+# NOTE-tmpfgu7k: Macnamara et al. — AI assistance, skill decay and awareness
+
+## Contribution
+
+Automation research has mostly studied what automation does to the user's
+judgment while it runs: automation bias and automation-induced complacency.
+The paper separates these from what it does to the user's skill, which
+outlasts the automation, and argues from the aviation literature that
+support doing a subtask of a job wears down the skill at that subtask, out
+of the performer's sight. It extends the argument, as a hypothesis, to AI
+assistants, and to learners who train with them.
+
+## Key insight
+
+Disuse need not mean the task stops. "In addition to ceasing the task
+altogether, disuse can also refer to ceasing subcomponents of a task, such
+as when automation is used in place of the person applying their skills"
+(Potential AI-induced skill decay). Because the task itself goes on, and
+succeeds, the performer has no signal of the loss.
+
+## Assumptions
+
+- Doing the task while the support does a subtask does not exercise the
+  subtask's skill.
+- Skill is kept only by exercise.
+- AI assistants take over more cognitive work than automation does, so cause
+  more decay. Asserted, not shown: "To our awareness, no research has been
+  conducted on AI assistants’ effects on the user’s skill" (The use of
+  automation and artificial intelligence).
+
+## Key results
+
+- **Design** (Open practices statement): "We do not report on any studies or
+  original data."
+- **Decay with disuse** (Potential AI-induced skill decay): "after a period
+  of disuse, skilled performance declines", citing Ackerman and Tatel (2023)
+  and Arthur et al. (2013); and "higher levels of skill decay are associated
+  with tasks that require greater cognitive effort and fewer physical
+  demands", citing Arthur et al. (1998) and Wang et al. (2013).
+- **Casner et al. (2014), second-hand** (same section): pilots "trained to fly
+  manually, but then spent the majority of their careers flying with high
+  automation"; "Procedural skills, such as scanning the instruments and
+  manual control, were “rusty” but largely intact"; "major declines in
+  cognitive skills emerged". No sample, effect size or time since manual
+  flying is given.
+- **Concealment** (same section): decay "may operate outside the performer’s
+  awareness because the disuse is only at the level of cognitive skill
+  engagement, not with engagement with the task".
+- **Bias is not skill** (The use of automation and artificial intelligence):
+  "if the automation was removed, the user would no longer exhibit bias or
+  automation-induced complacency. But what about the person’s skill?"
+- **Aviation evidence, second-hand** (same section): the cited studies "raise
+  a concern that the more time spent flying with automation support, the
+  worse pilots’ performance was when this automation was unavailable or
+  irrelevant".
+- **The remedy in force** (same section): "the U.S. Federal Aviation
+  Administration has recommended that pilots periodically use their manual
+  skills for the majority of flights" (Advisory Circular 120-123, per the
+  reference list).
+- **The hand-back** (same section): outside normal parameters "such
+  automation support will typically disengage and hand control to the
+  pilots".
+- **The reliance crossover** (same section): "the ‘crossover point’ from
+  benefits to detriments, at least in high workload conditions, is around 70%
+  accuracy", citing Parasuraman and Manzey (2010) and Wickens and Dixon
+  (2007).
+- **Learners, predicted** (Potential AI-induced skill development hindrance):
+  "a pattern opposite of latent learning—high performance is observed in the
+  AI-assisted group, but the limits on learning remain hidden until AI
+  assistance is removed." A predicted pattern, not an observed one.
+- **Conclusion**: "The available evidence suggests that frequent engagement
+  with automation induces skill decay."
+
+## Concepts
+
+- **Partial disuse**: a subtask ceased while the task continues.
+- **AI-induced skill decay** and **skill development hindrance**.
+- **Decay outside awareness.**
+- **Automation bias** and **automation-induced complacency**, which end with
+  the automation.
+- **Crossover point** of reliance on an imperfect aid.
+
+## Connections
+
+- **Bainbridge (1983)**, [LIT-tmph5vta](../literature.d/LIT-tmph5vta.md), unread: the paper does not cite her.
+  Of her ironies, as the other neighbours restate them, it carries only the
+  operator's skill decaying while the automation does the work, and the
+  hand-back at failure in one sentence. It does not carry the operator left
+  the hard cases, the monitoring problem, or any remedy of hers.
+- **Ahn (2025)**, the companion stand-in, gives the ironies in paraphrase
+  and no evidence; this paper gives no ironies and the evidence, second-hand.
+- **Simkute, Tankelevitch et al. (2024)**, the third stand-in, say nothing on
+  skill.
+- **[LIT-1059](../literature.d/LIT-1059.md)** (Risko and Gilbert, [NOTE-887](NOTE-887.md); [THEORY-343](../theory.d/THEORY-343.md)): cited here for
+  automation-induced complacency. Their review names skill decay among the
+  costs of offloading; this paper says why the decay is not seen.
+- **[LIT-2079](../literature.d/LIT-2079.md)** (Tatel; [THEORY-1424](../theory.d/THEORY-1424.md)): the decay rates the record holds. This
+  paper gives none. Its Ackerman and Tatel (2023) is a methods paper in the
+  Journal of Experimental Psychology: Applied, doi:10.1037/xap0000503, not
+  held, and not the meta-analysis.
+
+## Bearing on the record
+
+- **[CLAIM-558](../claims.d/CLAIM-558.md)** (Proposed): supports parts 1 and 3 and extends them. Part 1,
+  decay with disuse, larger for cognitive tasks. Part 3, the FAA's manual
+  flying on most flights is practice kept up beside the support. The
+  extension: disuse need not be rare operation; it can sit inside daily
+  operation, where the support performs the subtask. Its concealment claim
+  supports the claim's tie to [CLAIM-414](../claims.d/CLAIM-414.md). No new rate.
+- **[CLAIM-602](../claims.d/CLAIM-602.md)** (Proposed): supports, as an instance. Support does the work
+  first and the capacity at that work declines; the loss is selective,
+  falling on the subtask the support performs, and on its cognitive part
+  more than its procedural part. No recovery data.
+- **[CLAIM-600](../claims.d/CLAIM-600.md)** (Proposed): qualifies its third condition. A party can do the
+  job throughout without doing the part the support does, and the support is
+  then withdrawn not by plan but at its own failure, at the hardest case.
+- **[CLAIM-603](../claims.d/CLAIM-603.md)** (Proposed): weak support. Reliance pays while the aid is
+  accurate, with a crossover near 70% accuracy; the loss is punished only
+  when the supply withdraws.
+- **[CLAIM-414](../claims.d/CLAIM-414.md)** (Active): an instance. Matched performance with the support
+  conceals a difference in skill that withdrawing the support exposes.
+- **[QUESTION-398](../questions.d/QUESTION-398.md)** (Open): qualifies. Withdrawal by hand-back is not at a
+  chosen state but at the hardest one, so independence measured at planned
+  withdrawal would understate the risk of the unplanned kind.
+- Filed from this reading: [THEORY-tmpv1dwq](../theory.d/THEORY-tmpv1dwq.md).
+
+## Limitations
+
+- A perspective, with no data.
+- The aviation evidence is second-hand, without sizes, samples or horizons.
+- AI-accelerated decay and the learners' hidden deficit are hypotheses.

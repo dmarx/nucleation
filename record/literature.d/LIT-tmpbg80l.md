@@ -1,0 +1,97 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-05 ([NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md)) from the CC BY version of record in
+  Europe PMC (PMC11239631); worth reading as a clear statement of how support
+  that does part of a task wears down the operator's skill at that part while
+  the task goes on, and why the loss stays hidden until the support is
+  withdrawn. A theoretical perspective with no data of its own; its aviation
+  evidence, chiefly Casner et al. (2014), is reported second-hand, without
+  samples, sizes or horizons; and its claim that AI assistants accelerate
+  decay beyond automation is a hypothesis it says no research has tested.
+title: 'Does using artificial intelligence assistance accelerate skill decay and hinder skill development without performers’ awareness?'
+version: 1
+history:
+- version: 1
+  date: '2026-11-05'
+  note: >-
+    Registered and read on 2026-11-05 at the owner's request to fill the
+    gaps the supplied-maintenance filing left (works chosen by the
+    assistant), as a stand-in for Bainbridge (1983), LIT-tmph5vta, which was
+    not reached. It does not cite Bainbridge and stands in only for the
+    skill-decay irony. Citation checked against Crossref, queried without a
+    mailto: Brooke N. Macnamara, Ibrahim Berber, M. Cenk Çavuşoğlu,
+    Elizabeth A. Krupinski, Naren Nallapareddy, Noelle E. Nelson, Philip J.
+    Smith, Amy L. Wilson-Delfosse and Soumya Ray, Cognitive Research:
+    Principles and Implications 9, article 46,
+    doi:10.1186/s41235-024-00572-8, published online 2024-07-12 (received
+    2023-10-02, accepted 2024-06-21). Copy: Europe PMC full-text XML,
+    PMC11239631, CC BY 4.0, read in full but for the reference list (checked
+    for the works cited here) and the two figures, which are images.
+tags:
+- cognition
+- learning-and-conditioning
+- anthology-candidate
+date: '2026-11-05'
+published: '2024-07-12'
+doi: '10.1186/s41235-024-00572-8'
+first_author: 'Macnamara'
+keywords:
+- 'Artificial intelligence'
+- 'Expertise'
+- 'Skill acquisition'
+- 'Skill decay'
+implementations: []
+summary: >-
+  Macnamara, Berber, Çavuşoğlu, Krupinski, Nallapareddy, Nelson, Smith,
+  Wilson-Delfosse & Ray (2024). A theoretical perspective, with no data,
+  arguing that AI assistants that take over cognitive work will accelerate
+  skill decay in experts and hinder skill development in learners, outside
+  the performers' awareness. Its premises come from automation research,
+  chiefly aviation: skill decays with disuse, more for cognitive than
+  physical tasks; disuse can be partial, a subtask ceased while the task goes
+  on; in Casner et al.'s pilots, reported second-hand, procedural flying
+  skills held while cognitive skills declined. It separates automation bias
+  and complacency, which end when the automation is removed, from skill loss,
+  which does not, and proposes research questions.
+---
+<!-- inactive-ok-file: CLAIM-558 CLAIM-600 CLAIM-602 THEORY-tmpv1dwq — Proposed or new; cited from the reading of Macnamara et al. (2024) as open -->
+<!-- inactive-ok-file: LIT-tmph5vta — Unavailable; the unread original this reading stands in for -->
+
+# LIT-tmpbg80l: Does using artificial intelligence assistance accelerate skill decay and hinder skill development without performers’ awareness?
+
+Macnamara, B. N., Berber, I., Çavuşoğlu, M. C., Krupinski, E. A., Nallapareddy, N., Nelson, N. E., Smith, P. J., Wilson-Delfosse, A. L. & Ray, S. (2024). Does using artificial intelligence assistance accelerate skill decay and hinder skill development without performers’ awareness? *Cognitive Research: Principles and Implications* 9: 46. doi:10.1186/s41235-024-00572-8.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpfgu7k](../notes.d/NOTE-tmpfgu7k.md). Sections are the paper's.*
+
+- **Partial disuse.** "disuse can also refer to ceasing subcomponents of a
+  task, such as when automation is used in place of the person applying
+  their skills" (Potential AI-induced skill decay).
+- **Cognitive before procedural** (Casner et al. 2014, second-hand):
+  procedural skills "were “rusty” but largely intact", while "major
+  declines in cognitive skills emerged".
+- **Concealed.** Such decay "may operate outside the performer’s awareness
+  because the disuse is only at the level of cognitive skill engagement,
+  not with engagement with the task".
+- **Bias ends with the automation; skill loss does not.** "if the
+  automation was removed, the user would no longer exhibit bias or
+  automation-induced complacency. But what about the person’s skill?"
+- **No data.** "We do not report on any studies or original data."
+
+## Standing in the record
+
+Read as a stand-in for Bainbridge (1983), [LIT-tmph5vta](LIT-tmph5vta.md), on one of her
+ironies only: the operator's skill decays while the automation does the
+work. It does not cite her. Filed from it: [THEORY-tmpv1dwq](../theory.d/THEORY-tmpv1dwq.md).
+
+It extends [CLAIM-558](../claims.d/CLAIM-558.md), whose disuse is rare operation: here the operator
+does the job daily, and only the subtask the support performs goes unused.
+Its concealment claim instances [CLAIM-414](../claims.d/CLAIM-414.md), and its account of the
+hand-back, autopilots that "disengage and hand control to the pilots"
+outside normal parameters, is a withdrawal at failure rather than the
+planned withdrawal of [CLAIM-600](../claims.d/CLAIM-600.md). It cites Risko and Gilbert (2016), held as
+[LIT-1059](LIT-1059.md), for automation-induced complacency, and Ackerman and Tatel (2023),
+a methods paper on the retention literature, not held, which is not
+Tatel's meta-analysis ([LIT-2079](LIT-2079.md)).

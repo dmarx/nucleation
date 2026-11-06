@@ -121,3 +121,8 @@ A cavity soliton written by a transient beam becomes independent of that beam an
   - Clinicians often underestimate readiness (Shah, Hart and Kaltsakas, [NOTE-1706](../notes.d/NOTE-1706.md)), so the point where D becomes small is often reached before anyone tests for it.
 - **A measure for a gland.** In corticosteroid withdrawal, a morning cortisol test after holding the dose for 24 hours plays the same part ([NOTE-1705](../notes.d/NOTE-1705.md)).
 
+## Note of 2026-11-05: the readings on assistance and skill
+
+- **Withdrawal by hand-back.** Automation withdraws itself at its failures, so withdrawal comes at the state least favourable to the party (Ahn's reading of Bainbridge, [NOTE-tmpxhylb](../notes.d/NOTE-tmpxhylb.md)). A's measure D assumes withdrawal at chosen states.
+- **A withdrawal rule in use.** Cognitive tutors move a learner on once the estimated probability that a skill is learned passes 0.95, and post-tests without the tutor check persistence (Koedinger and Aleven, [NOTE-tmp607yf](../notes.d/NOTE-tmp607yf.md)).
+
